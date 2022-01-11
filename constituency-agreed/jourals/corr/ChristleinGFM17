@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP train) (NP (DT a) (JJ deep) (JJ residual) (NN network)) (S (VP (VBG using) (NP (NN surrogate) (NNS classes))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (DT the) (NN feature) (NNS representations)) (PP (IN on) (NP (CD two) (ADJP (RB publicly) (JJ available)) (NNS datasets)))) (. .))

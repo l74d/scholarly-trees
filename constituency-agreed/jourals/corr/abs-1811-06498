@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (NP (DT an) (JJ empirical) (NN validation)) (PP (IN of) (NP (PRP$ our) (NN method))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (JJ deep) (JJ convolutional) (NNS autoencoders)) (S (VP (TO to) (VP (VB learn) (NP (JJ unbiased) (JJ cellular) (NNS representations)) (PP (IN from) (NP (NN microscopy) (NN imaging))))))) (. .))

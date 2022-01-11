@@ -1,0 +1,3 @@
+(S (PP (IN At) (ADJP (JJ present))) (, ,) (NP (JJ deep) (NN learning)) (VP (VP (VBZ has) (VP (VBN been) (VP (VBN applied) (ADVP (RBR more) (CC and) (RBR more)) (PP (IN in) (NP (JJ monocular) (NN image) (NN depth) (NN estimation)))))) (CC and) (VP (VBZ has) (VP (VBN shown) (NP (JJ promising) (NNS results))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NNS researchers)) (VP (VBD began) (S (VP (TO to) (VP (VB work) (PP (IN on) (NP (JJ unsupervised) (NN depth) (NN estimation) (NNS methods))))))) (. .))
+(S (NP (DT The) (CD two) (NN network) (NNS models)) (VP (VBP are) (VP (VBN piped) (ADVP (RB together)) (PP (IN during) (NP (DT the) (NN test) (NN phase))))) (. .))

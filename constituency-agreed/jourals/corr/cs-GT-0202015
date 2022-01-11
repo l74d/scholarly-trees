@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NP (JJS most)) (PP (IN of) (NP (JJ microeconomic) (NN theory))))) (, ,) (NP (NNS consumers)) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB exhibit) (NP (VBG decreasing) (JJ marginal) (NNS utilities))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (JJ combinatorial) (NNS auctions)) (PP (IN among) (NP (JJ such) (JJ submodular) (NNS buyers))))) (. .))
+(S (NP (DT No) (JJ such) (NN approximation) (NN algorithm)) (VP (VBZ exists) (PP (IN in) (NP (NP (DT a) (NN setting)) (VP (VBG allowing) (PP (IN for) (NP (JJ arbitrary) (NNS complementarities))))))) (. .))

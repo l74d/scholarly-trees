@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ polynomial) (NN approximation))))) (. .))
+(S (ADVP (RB Also)) (PP (IN with) (NP (JJ additional) (NNS assumptions))) (NP (PRP we)) (VP (VBP show) (NP (DT a) (ADJP (NN server) (JJ efficient)) (NN algorithm))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (SBAR (IN because) (S (NP (DT the) (NN system)) (VP (MD can) (VP (VB ignore) (NP (DT the) (NN attention) (NN mechanism)) (PP (IN by) (S (VP (VBG assigning) (NP (JJ equal) (NNS weights)) (PP (IN for) (NP (DT all) (NNS members))))))))))) (. .))

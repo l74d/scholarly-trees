@@ -1,0 +1,2 @@
+(S (NP (VBN Networked) (JJ computational) (NNS devices)) (VP (VBP require) (NP (JJ paramount) (NN security)) (S (VP (TO to) (VP (VB ensure) (NP (NP (DT the) (NN safety)) (PP (IN of) (NP (DT a) (NN city)))))))) (. .))
+(S (PP (VBN Given) (NP (NP (DT the) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNS sensors)) (, ,) (NP (JJ autonomous) (NNS vehicles)) (, ,) (CC and) (NP (JJ other) (NNS advancements)))))) (, ,) (NP (JJ smart) (NNS cities)) (VP (VBZ necessitates) (NP (NP (DT this) (NN level)) (PP (IN of) (NP (NN security))))) (. .))

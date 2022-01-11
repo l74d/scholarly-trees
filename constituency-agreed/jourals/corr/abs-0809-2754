@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (JJ algorithmic) (NN information) (NN theory)) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (NNP Kolmogorov) (NN complexity)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP end) (PP (IN by) (S (VP (VBG discussing) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJ philosophical) (NNS implications)) (PP (IN of) (NP (DT the) (NN theory)))))))))) (. .))

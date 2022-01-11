@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (NN concept))))) (NP (PRP we)) (VP (VBP focus) (ADVP (RB specifically)) (PP (IN on) (S (VP (VBG exploiting) (NP (JJ multi-domain) (NN centralization)) (S (VP (TO to) (VP (VB improve) (NP (NP (NNP BGP) (POS 's)) (JJ slow) (NN convergence))))))))) (. .))

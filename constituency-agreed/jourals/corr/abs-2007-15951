@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN time) (NN series) (NN recognition))))) (, ,) (NP (JJ many) (NNS datasets)) (VP (VBP are) (ADVP (RB often)) (ADJP (RB very) (JJ small))) (. .))
+(S (NP (NP (CD One) (NN method)) (PP (IN of) (S (VP (VBG addressing) (NP (DT this) (NN problem)))))) (VP (VBZ is) (PP (IN through) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNS data) (NN augmentation)))))) (. .))

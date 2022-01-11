@@ -1,0 +1,2 @@
+(S (NP (NNP Dumitrescu) (PRN (-LRB- [) (NP (NN arXiv) (: :) (CD 1607.07673)) (-RRB- ]))) (VP (VBZ describes) (SBAR (S (NP (DT a) (NN data) (NN structure)) (VP (VBD referred) (PP (IN to) (PP (IN as) (NP (DT a) (NNP Selectable) (NNP Sloppy) (NNP Heap)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (DT a) (VBN simplified) (NN approach))) (, ,) (CC and) (ADVP (RB also)) (VP (VBP point) (PRT (RP out)) (NP (NP (NP (NNS aspects)) (PP (IN of) (NP (NP (NNP Dumitrescu) (POS 's)) (NN exposition)))) (SBAR (WHNP (WDT that)) (S (VP (VBP require) (NP (NN scrutiny)))))))) (. .))

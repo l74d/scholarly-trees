@@ -1,0 +1,2 @@
+(S (ADVP (RB Thereby)) (, ,) (NP (PRP we)) (VP (VBP distinguish) (PP (IN between) (NP (CD two) (NNS scenarios)))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN scenario))) (, ,) (NP (PRP we)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (DT the) (JJ entire) (NN surface)) (PP (IN of) (NP (DT the) (NN receiver)))) (VP (VBZ is) (VP (VBN covered) (PP (IN by) (NP (NN receptor) (NNS molecules)))))))) (. .))

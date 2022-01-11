@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Facial) (NN feature) (NN detection)) (PP (IN from) (NP (JJ facial) (NNS images)))) (VP (VBZ has) (VP (VBN attracted) (NP (JJ great) (NN attention)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN computer) (NN vision))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (DT a) (JJ nontrivial) (NN task)) (SBAR (IN since) (S (NP (NP (DT the) (NN appearance) (CC and) (NN shape)) (PP (IN of) (NP (DT the) (NN face)))) (VP (VBP tend) (S (VP (TO to) (VP (VB change) (PP (IN under) (NP (JJ different) (NNS conditions)))))))))) (. .))

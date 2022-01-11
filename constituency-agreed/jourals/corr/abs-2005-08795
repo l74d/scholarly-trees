@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ second) (NN protocol)) (VP (VP (VBZ is) (ADJP (JJ asynchronous))) (, ,) (VP (VBZ uses) (NP (DT no) (JJ cryptographic) (NNS signatures))) (, ,) (CC and) (VP (VBZ achieves) (NP (JJ optimal) (NN resilience)))) (. .))

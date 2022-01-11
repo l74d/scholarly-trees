@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN model))))))) (, ,) (NP (NNP CRCEN)) (VP (VBZ is) (VP (VP (VBN tested) (PP (IN on) (NP (JJ several) (NN benchmark) (NNS datasets)))) (CC and) (VP (VBN compared) (PP (IN with) (NP (NN baseline) (NNS models)))))) (. .))

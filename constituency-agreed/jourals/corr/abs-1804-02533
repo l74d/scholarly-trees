@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN functionality)) (PP (IN of) (NP (JJ many) (JJ mobile) (NNS applications)))) (VP (VBZ is) (ADJP (JJ dependent) (PP (IN on) (NP (JJ various) (JJ contextual) (, ,) (JJ external) (NNS factors))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ reports) (NP (NP (DT the) (NN connection)) (PP (IN between) (NP (NP (DT the) (NNS bugs)) (CC and) (NP (JJ contextual) (NNS factors))))) (SBAR (IN so) (IN that) (S (NP (DT the) (NNS bugs)) (VP (MD can) (ADVP (RB later)) (VP (VB be) (VP (VBN reproduced))))))) (. .))

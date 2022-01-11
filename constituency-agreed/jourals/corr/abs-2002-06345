@@ -1,0 +1,2 @@
+(S (NP (NNP Instance) (NN segmentation)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN task)) (PP (IN for) (NP (JJ biomedical) (NN image) (NN analysis))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT a) (NN mask) (NN quality) (NN branch)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB align) (NP (NP (DT the) (NN confidence) (NN score)) (PP (IN of) (NP (DT each) (NN object)))) (PP (IN with) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NN mask) (NN prediction)))))))))) (. .))

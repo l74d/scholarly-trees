@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (JJ physical) (NN domain)) (VP (VBZ is) (VP (VBN flattened) (ADVP (RB conformally)) (PP (IN onto) (NP (DT a) (NN strip)))))) (CC and) (S (NP (DT the) (NNS computations)) (VP (VBP are) (VP (VBN performed) (PP (IN in) (NP (DT the) (JJ canonical) (NN domain)))))) (. .))
+(S (ADVP (RB Furthermore)) (NP (JJ multiple) (JJ solitary) (NNS waves)) (VP (VBP are) (VP (VBN considered) (PP (IN within) (NP (DT the) (JJ low) (NN pressure) (NN region))) (PP (IN without) (S (VP (VBG escaping) (NP (DT the) (JJ low) (NN pressure) (NN region))))))) (. .))

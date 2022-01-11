@@ -1,0 +1,1 @@
+(S (NP (CD One)) (ADVP (RB then)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT every) (NN behavior)) (VP (VBN allowed) (PP (IN by) (NP (DT the) (NN implementation))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN allowed) (PP (IN by) (NP (DT the) (NN specification)))))))) (. .))

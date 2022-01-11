@@ -1,0 +1,3 @@
+(S (NP (JJ Multi-agent) (JJ geographical) (NNS models)) (VP (VBP integrate) (NP (NP (ADJP (RB very) (JJ large)) (NNS numbers)) (PP (IN of) (NP (JJ spatial) (NNS interactions))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB reduce) (NP (DT the) (NN computing) (NN time)))))) (CC and) (VP (VBZ provides) (NP (JJ robust) (NNS results)))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (ADVP (RB thus)) (NP (NP (DT a) (JJ useful) (NN tool)) (PP (IN for) (NP (NP (JJ further) (JJ multiple) (NNS applications)) (PP (IN on) (NP (JJ empirical) (JJ historical) (NNS situations))))))) (. .))

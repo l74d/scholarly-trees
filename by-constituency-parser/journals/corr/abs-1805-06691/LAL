@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (DT the) (JJ wireless) (NNS networks) (NN security) (NN algorithms)) (VP (VBD were) (VP (VBN analyzed))) (. .))
+(S (NP (NP (NP (DT The) (NNS fundamentals)) (PP (IN of) (NP (DT the) (NNP WPA) (CC and) (NNP WPA2) (NN safety) (NN algorithms)))) (, ,) (NP (PRP$ their) (NNS weaknesses)) (CC and) (NP (NP (NNS ways)) (PP (IN of) (S (VP (VBG attacking) (NP (NNP WPA) (CC and) (NNP WPA2) (NNP Enterprise) (NNP Wireless) (NNP Networks))))))) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (NP (JJ Successful) (NN attack)) (PP (IN on) (NP (DT the) (NX (NX (JJ WPA2-PSK)) (CC and) (NX (NNP WPA2-Enterprise)))))) (VP (VBD was) (VP (VBN carried) (PRT (RP out)) (PP (IN during) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN work))))))) (. .))
+(S (NP (NP (NP (DT The) (NN progress)) (PP (IN of) (NP (DT this) (NN attack)))) (CC and) (NP (PRP$ its) (NNS results))) (VP (VBD were) (VP (VBN described))) (. .))

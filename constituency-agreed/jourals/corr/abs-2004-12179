@@ -1,0 +1,2 @@
+(SQ (MD Can) (NP (NN something)) (VP (VB be) (NP (DT a) (JJS best) (NN practice)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (RB not) (ADJP (JJ actionable)))))) (. ?))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NP (NNS categories)) (PP (IN of) (NP (JJS best) (NNS practices)))) (, ,) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (VBP apply) (PP (IN over) (NP (NP (DT the) (NN lifecycle)) (PP (IN of) (NP (NNP IoT) (NNS devices)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT each) (NN design) (NN strategy))) (, ,) (NP (NP (JJ analytical) (NNS expressions)) (PP (IN for) (S (VP (VBG computing) (NP (DT the) (NNP Orthoglide) (NNS parameters)))))) (VP (VBP are) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (VBN proposed) (NN technique)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN with) (NP (NP (JJ numerical) (NNS examples)) (PP (IN for) (NP (DT the) (NNP Orthoglide) (NN prototype) (NN design))))))) (. .))

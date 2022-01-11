@@ -1,0 +1,4 @@
+(S (NP (JJ Selectional) (NNS restrictions)) (VP (VBP are) (NP (NP (JJ semantic) (NNS constraints)) (PP (IN on) (S (VP (VBG forming) (NP (JJ certain) (JJ complex) (NNS types)) (PP (IN in) (NP (JJ natural) (NN language)))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ gives) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NN modeling) (JJ selectional) (NNS restrictions)))) (PP (IN in) (NP (NP (DT a) (JJ relational) (NN type) (NN system)) (PP (IN with) (NP (ADJP (JJ morphological) (CC and) (JJ syntactic)) (NNS types)))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT some) (NNS foundations)) (PP (IN of) (NP (NP (DT the) (NN system) (CC and) (NNS ways)) (PP (IN of) (S (VP (VBG formalizing) (NP (JJ selectional) (NNS restrictions))))))))) (. .))
+(FRAG (NP (NNS Keywords)) (: :) (NP (NP (NN type) (NN theory)) (, ,) (NP (JJ selectional) (NNS restrictions)) (, ,) (NP (NN syntax)) (, ,) (NP (NN morphology))))

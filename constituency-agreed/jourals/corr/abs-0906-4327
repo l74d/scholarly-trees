@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (NP (JJ sequential) (NN pattern) (NN mining)))) (VP (VBZ poses) (NP (JJ computational) (NNS challenges)) (SBAR (IN as) (S (NP (DT a) (JJ long) (JJ frequent) (NN sequence)) (VP (VBZ contains) (NP (NP (JJ enormous) (NN number)) (PP (IN of) (NP (JJ frequent) (NNS subsequences)))))))) (. .))
+(S (ADVP (RB Also)) (NP (JJ useful) (NNS results)) (VP (VBP depend) (PP (IN on) (NP (NP (DT the) (JJ right) (NN choice)) (PP (IN of) (NP (NN event) (NN window)))))) (. .))

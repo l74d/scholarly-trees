@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN ground) (NN truth)) (PP (IN of) (NP (DT the) (NN relevance) (NNS scores)))) (VP (VBD was) (VP (VBN obtained) (PP (IN by) (S (VP (VBG counting) (NP (NP (DT the) (NN vote)) (PP (IN of) (NP (CD seven) (NNS crowdworkers))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ means) (SBAR (S (NP (JJ such) (NNS features)) (VP (VBP are) (ADJP (JJ useful) (PP (IN for) (S (VP (VBG predicting) (SBAR (IN whether) (S (NP (DT a) (NN score)) (VP (VBZ is) (PP (IN in) (NP (DT the) (NN middle))))) (CC or) (RB not)))))))))) (. .))

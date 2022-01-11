@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB take) (NP (NP (DT some) (NNS aspects)) (PP (IN of) (NP (NN disk) (NN scheduling) (CC and) (NN scheduling) (NN algorithms)))))))) (. .))
+(S (NP (DT The) (NN disk) (NN scheduling)) (VP (VBZ is) (VP (VBN discussed) (PP (IN with) (NP (NP (NP (DT a) (JJ sneak) (NN peak)) (PP (IN in) (ADJP (JJ general)))) (CC and) (NP (NP (NP (NN selection)) (PP (IN of) (NP (NN algorithm)))) (PP (IN in) (NP (JJ particular)))))))) (. .))

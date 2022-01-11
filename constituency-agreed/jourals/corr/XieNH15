@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (JJ multi-sensor) (NN classification)) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (JJ unlabeled) (NNS samples)))))))) (. .))

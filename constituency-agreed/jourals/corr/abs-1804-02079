@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP generalize) (NP (JJ classical) (NNS frames)) (PP (IN by) (S (VP (VBG replacing) (NP (NN frame) (NNS vectors)) (PP (IN with) (NP (NN frame) (NNS subspaces))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (JJ sparse) (NN recovery)) (PP (IN of) (NP (NP (DT a) (NN signal)) (PP (IN from) (NP (DT a) (NN fusion) (NN frame))))))) (. .))

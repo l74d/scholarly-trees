@@ -1,0 +1,2 @@
+(S (NP (JJ Smart) (NNS meters)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN energy) (NN consumption)) (PP (IN of) (NP (NNS households))))))))) (. .))
+(S (PP (IN Except) (NP (NN energy) (NN consumption))) (NP (JJ smart) (NNS meters)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB disaggregate) (NP (NN energy) (NN consumption)) (PP (IN on) (NP (NN device) (NN level))))))))) (. .))

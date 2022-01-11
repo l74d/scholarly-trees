@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (SBAR (IN if) (S (NP (DT the) (NN decision) (NN boundary)) (VP (VBZ has) (NP (JJ strong) (NN nonlinearity))))) (, ,) (NP (DT the) (NN guarantee)) (VP (VBZ becomes) (ADJP (RB increasingly) (JJ difficult))) (. .))
+(S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN exacerbated) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS data)) (VP (VBP are) (NP (NP (NNS matrices) (CC or) (NNS tensors)) (SBAR (WHNP (WDT that)) (S (VP (VBP represent) (NP (NP (NNS relationships)) (PP (IN between) (NP (NNS variables))))))))))))) (. .))

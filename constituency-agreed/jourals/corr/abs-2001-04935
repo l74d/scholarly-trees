@@ -1,0 +1,1 @@
+(S (NP (NNP Word) (NNS embeddings)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN trained) (PP (IN on) (NP (NP (JJ large) (JJ public) (NNS corpora)) (PP (JJ such) (IN as) (NP (NNP Wikipedia) (CC or) (NNP Twitter))))))) (. .))

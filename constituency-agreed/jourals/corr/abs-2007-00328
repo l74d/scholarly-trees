@@ -1,0 +1,2 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (DT the) (NN source) (NNS images)) (VP (VBP are) (VP (VBN fed) (PP (IN into) (NP (DT the) (NN encoder))) (S (VP (TO to) (VP (VB extract) (NP (JJ multi-scale) (JJ deep) (NNS features))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN performed) (PP (IN on) (NP (ADJP (RB publicly) (JJ available)) (NNS datasets))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT an) (NN evaluation)) (PP (IN of) (NP (DT the) (NN simulation) (NN module) (NN scope)))) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT the) (NN time) (NN complexity)) (PP (IN of) (NP (DT this) (NN module)))) (VP (VBZ is) (ADJP (JJ exponential)))))) (. .))

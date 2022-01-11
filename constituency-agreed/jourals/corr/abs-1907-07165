@@ -1,0 +1,2 @@
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP we)) (VP (VB understand) (NP (NP (NN classification) (NNS decisions)) (VP (VBN made) (PP (IN by) (NP (JJ deep) (JJ neural) (NNS networks))))))) (. ?))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP CaCE) (NN measure)) (VP (MD can) (VP (VB avoid) (NP (NP (NNS errors)) (VP (VBG stemming) (PP (IN from) (NP (VBG confounding)))))))))) (. .))

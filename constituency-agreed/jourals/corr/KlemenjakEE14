@@ -1,0 +1,2 @@
+(S (NP (JJ Smart) (NNS meters)) (VP (VBP are) (NP (NP (DT an) (VBG enabling) (NN technology)) (PP (IN for) (NP (JJ many) (JJ smart) (NN grid) (NNS applications))))) (. .))
+(S (NP (DT The) (NN metering) (NN platform)) (VP (VBZ features) (NP (NP (DT a) (JJ current) (NN transformer)) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (NP (NP (DT a) (JJ non-intrusive) (NN installation)) (PP (IN of) (NP (DT the) (JJ current) (NN measurement) (NN unit))))))))) (. .))

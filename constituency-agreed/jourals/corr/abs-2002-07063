@@ -1,0 +1,2 @@
+(S (SBAR (IN Since) (S (NP (DT all) (NNS variables)) (VP (MD can) (VP (VB be) (VP (VBN calculated) (PP (IN in) (NP (JJ closed) (NN form)))))))) (, ,) (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ is) (ADJP (RB very) (JJ efficient))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP validate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (NP (NN system) (NN security) (NN enhancement)) (PP (IN via) (NP (DT an) (NNP IRS))))))) (. .))

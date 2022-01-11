@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN process)) (VP (VBZ starts) (PP (IN with) (NP (NP (DT a) (JJ single) (NN hypercube) (NN approximation)) (PP (IN of) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NNP SPE)))))))) (. .))
+(S (SBAR (IN Whether) (S (NP (DT a) (VBN given) (NN hypercube)) (VP (MD can) (VP (VB contain) (NP (DT an) (NN equilibrium) (NN point)))))) (VP (VBZ is) (VP (VBN verified) (PP (IN by) (NP (DT an) (JJ appropriate) (JJ mathematical) (NN program))))) (. .))

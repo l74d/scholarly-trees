@@ -1,0 +1,1 @@
+(S (NP (NP (CD One) (JJ important) (NN step)) (PP (IN in) (NP (NP (JJ current) (NNS heuristics)) (PP (IN for) (NP (NN hypergraph) (NN partitioning)))))) (VP (VBZ is) (NP (NP (VBG clustering)) (SBAR (WHPP (IN during) (WHNP (WDT which))) (S (NP (JJ similar) (NNS vertices)) (VP (MD must) (VP (VB be) (VP (VBN recognized)))))))) (. .))

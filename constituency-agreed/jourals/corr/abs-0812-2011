@@ -1,0 +1,1 @@
+(S (SBAR (RB Even) (IN if) (S (NP (DT no) (NN termination) (NN guarantee)) (VP (VBZ is) (VP (VBN provided) (PP (IN in) (NP (NN theory))))))) (, ,) (NP (JJ successful) (NNS results)) (VP (VBD were) (VP (VBN obtained) (PP (IN in) (NP (NN practice))) (PP (IN by) (NP (NP (JJ different) (NNS tools)) (VP (VBG implementing) (NP (DT this) (NN framework))))))) (. .))

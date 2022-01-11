@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG estimating) (NP (NP (DT the) (NNS ridges)) (PP (IN of) (NP (DT a) (NN density) (NN function))))))))) (. .))
+(S (NP (NNP Ridge) (NN estimation)) (VP (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NN mode) (NN finding))))) (CC and) (VP (VBZ is) (ADJP (JJ useful) (PP (IN for) (S (VP (VBG understanding) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT a) (NN density)))))))))) (. .))

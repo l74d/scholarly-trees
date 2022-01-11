@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (DT a) (ADJP (RB surprisingly) (JJ high)) (NN discrimination) (NN ability))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (JJ ocular) (NN modality)) (VP (VBG requiring) (NP (DT the) (ADJP (JJS least) (JJ constrained)) (NN acquisition))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN done) (PP (IN with) (NP (NP (DT a) (NN database)) (PP (IN of) (NP (NP (JJ periocular) (NNS images)) (VP (VBN captured) (PP (IN with) (NP (DT a) (JJ digital) (NN camera)))))))))) (. .))

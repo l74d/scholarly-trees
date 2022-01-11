@@ -1,0 +1,2 @@
+(S (S (VP (VBG Resolving) (NP (DT this) (NN question)))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB require) (NP (JJ non-black-box) (NNS techniques))))))) (. .))
+(S (PP (IN Unlike) (NP (NNP Hada) (CC and) (NNP Tanaka))) (, ,) (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB require) (NP (DT a) (NN knowledge) (NN assumption)) (S (VP (TO to) (VP (VB argue) (NP (NP (DT the) (NN soundness)) (PP (IN of) (NP (PRP$ our) (NN protocol))))))))) (. .))

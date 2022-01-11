@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ mathematical) (NN framework)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB analyze) (NP (PRP$ their) (NNS properties))))))) (. .))
+(S (NP (NP (NNS Computations)) (PP (IN of) (NP (NNS invariants)))) (VP (VBP involve) (NP (NP (JJ multiscale) (NNS contractions)) (, ,) (NP (NP (DT the) (NN linearization)) (PP (IN of) (NP (JJ hierarchical) (NNS symmetries)))) (, ,) (CC and) (NP (JJ sparse) (NNS separations)))) (. .))
+(S (NP (NNS Applications)) (VP (VBP are) (VP (VBN discussed))) (. .))

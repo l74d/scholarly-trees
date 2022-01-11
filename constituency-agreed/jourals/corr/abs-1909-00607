@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (S (VP (VBG collecting) (NP (DT the) (NN training) (NNS data)))) (VP (MD can) (VP (VB be) (ADJP (RB very) (JJ expensive)) (, ,) (SBAR (IN since) (S (NP (DT all) (NNS queries)) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN executed) (PP (IN on) (NP (ADJP (RB potentially) (JJ large)) (NNS databases)))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ is) (RB not) (NP (DT the) (NN case))) (. .))

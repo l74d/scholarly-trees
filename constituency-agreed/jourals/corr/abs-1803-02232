@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP formulate) (NP (DT the) (NNP ODPD)) (PP (IN as) (NP (DT a) (JJ stochastic) (NN integer) (NN programming)))) (, ,) (CC and) (VP (VB use) (NP (DT the) (NN cardinality) (NN minimization) (NN approach)) (PP (IN for) (S (VP (VBG calculating) (NP (DT the) (NN deadline) (NN violation) (NN probability))))))) (. .))

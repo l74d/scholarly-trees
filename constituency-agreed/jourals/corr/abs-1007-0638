@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NNS images)) (VP (VBN projected) (PP (IN into) (NP (NN eigenspace))))) (VP (VBP are) (VP (VBN classified) (S (VP (VBG using) (NP (DT a) (JJ multi-layer) (NN perceptron)))))) (. .))

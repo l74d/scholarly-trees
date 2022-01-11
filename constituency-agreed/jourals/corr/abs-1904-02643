@@ -1,0 +1,1 @@
+(S (NP (DT The) (CD two) (NNS images)) (VP (VBP are) (VP (VBN encoded) (PP (IN as) (NP (NN feature) (NNS hierarchies))) (PP (IN by) (NP (JJ siamese) (JJ convolutional) (NNS nets))))) (. .))

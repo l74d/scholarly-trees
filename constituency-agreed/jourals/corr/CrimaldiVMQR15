@@ -1,0 +1,2 @@
+(S (S (NP (DT Each) (NN node)) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS features)))))))) (CC and) (S (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NP (DT a) (NN link)) (PP (IN between) (NP (CD two) (NNS nodes)))))) (VP (VBZ depends) (PP (IN on) (NP (JJ common) (NNS features))))) (. .))
+(S (NP (PRP$ Our) (NN model)) (ADVP (RB also)) (VP (VBZ takes) (PP (IN into) (NP (NN account))) (NP (NP (DT a) (NN mechanism)) (PP (IN of) (NP (JJ triadic) (NN closure))))) (. .))

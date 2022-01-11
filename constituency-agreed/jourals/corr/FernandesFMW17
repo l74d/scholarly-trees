@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN game)) (VP (VBZ starts) (PP (IN with) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS items)) (VP (ADVP (RB arbitrarily)) (VBN packed) (PP (IN in) (NP (NNS bins))))))))) (. .))
+(S (NP (DT Each) (NN item)) (VP (VBZ is) (NP (NP (DT a) (JJ selfish) (NN player)) (SBAR (WHNP (WDT that)) (S (VP (VBZ wants) (S (VP (TO to) (VP (VB minimize) (NP (PRP$ its) (NN cost)))))))))) (. .))

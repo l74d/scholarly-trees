@@ -1,0 +1,3 @@
+(S (NP (NN Image) (NN classification)) (VP (VBZ is) (NP (DT an) (JJ ongoing) (NN research) (NN challenge))) (. .))
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN study)))) (VP (VBD was) (S (VP (TO to) (VP (VB test) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT this) (NN method)))))))) (. .))
+(S (NP (NP (DT The) (NN accuracy)) (PP (IN of) (NP (DT the) (NNS translations)))) (VP (VBD was) (VP (VBN evaluated))) (. .))

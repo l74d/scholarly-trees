@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ primary) (NN objective)) (VP (VBZ is) (NP (NP (DT the) (NN extraction)) (PP (IN of) (NP (JJ robust) (NN inference) (NNS rules))))) (. .))
+(S (NP (NP (RB Only) (DT a) (JJ small) (NN amount)) (PP (IN of) (NP (VBN labelled) (NNS data)))) (VP (VBZ is) (VP (VBN required) (PP (IN for) (NP (DT the) (NN initialization))))) (. .))

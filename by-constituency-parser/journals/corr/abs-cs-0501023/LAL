@@ -1,0 +1,6 @@
+(S (NP (VBG Existing) (NN quantum) (JJ key) (NN distribution) (NNS schemes)) (VP (VBP need) (NP (NP (DT the) (NN support)) (PP (IN of) (NP (JJ classical) (NN authentication) (NN scheme)))) (S (VP (TO to) (VP (VB ensure) (NP (NN security)))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ conceptual) (NN drawback)) (PP (IN of) (NP (NN quantum) (NN cryptography))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN pointed) (PRT (RP out)) (SBAR (IN that) (S (NP (JJ quantum) (NN cryptosystem)) (VP (VBZ does) (RB not) (VP (VB need) (NP (NP (DT any) (NN support)) (PP (IN of) (NP (JJ classical) (NN cryptosystem)))) (S (VP (TO to) (VP (VB ensure) (NP (NN security))))))))))) (. .))
+(S (NP (JJ No-cloning) (NN principal)) (VP (MD can) (ADVP (VB alone)) (VP (JJ provide) (NP (NP (NN security)) (PP (IN in) (NP (NN communication)))))) (. .))
+(S (NP (NP (RB Even) (JJ no-cloning) (NN principle)) (NP (PRP itself))) (VP (MD can) (VP (VB help) (S (VP (TO to) (VP (VB authenticate) (NP (NP (DT each) (NN bit)) (PP (IN of) (NP (NN information))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ implies) (SBAR (IN that) (S (NP (NN quantum) (NN password)) (VP (MD need) (S (RB not) (VP (TO to) (VP (VB be) (NP (DT a) (JJ secret) (NN password))))))))) (. .))

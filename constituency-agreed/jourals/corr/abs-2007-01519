@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ important)) (NN application)) (VP (VBN derived) (PP (IN from) (NP (DT the) (NNP IM) (NN problem))))) (VP (VBZ is) (NP (JJ viral) (NN marketing))) (. .))
+(SBARQ (WHADVP (WRB How)) (S (VP (TO to) (VP (VB quantify) (NP (NP (DT the) (NN degree)) (PP (IN of) (NP (NN weakening))))))) (. ?))

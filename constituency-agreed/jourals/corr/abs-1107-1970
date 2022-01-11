@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN sensor) (NNS networks))) (NP (NNS packets)) (VP (MD can) (VP (VB have) (NP (JJ different) (NN delay) (NNS guarantees)))) (. .))
+(S (NP (JJ Multiple) (NN frame) (NNS sizes)) (VP (MD can) (VP (VB be) (VP (VBN assigned) (PP (IN for) (NP (JJ different) (NN traffic) (NNS classes)))))) (. .))

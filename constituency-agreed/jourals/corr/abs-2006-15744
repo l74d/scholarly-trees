@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN approximation) (NN ratio)) (VP (VP (VBZ is) (ADJP (RB asymptotically) (JJ tight))) (CC and) (VP (VBZ is) (VP (VBN obtained) (PP (IN with) (NP (NP (DT an) (ADJP (RB almost) (JJ linear)) (NN number)) (PP (IN of) (NP (NN function) (NNS evaluations)))))))) (. .))

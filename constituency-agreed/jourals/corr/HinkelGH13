@@ -1,0 +1,4 @@
+(S (NP (DT These) (NNS transformations)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (NP (DT all) (NNS kinds)) (PP (IN of) (NP (NN software) (NNS artifacts)))) (PP (IN from) (NP (NNS models)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (JJ little) (NN consensus)) (PP (IN about) (NP (DT the) (NN transformation) (NNS tools))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN achieved) (PP (IN through) (NP (NP (CD three) (JJ different) (NNS cases)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN tackled)))))))))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT these) (NNS cases)))) (VP (VBZ is) (NP (DT the) (NNP Flowgraphs) (NN case))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (DT the) (JJ fine) (NN network)) (VP (VBZ processes) (NP (NP (DT the) (NNS areas)) (PP (IN of) (NP (NN interest)))) (PP (IN into) (NP (DT a) (JJ fine) (NN feature) (NN map)))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (CD five) (JJ mainstream) (NNS datasets))))) (. .))

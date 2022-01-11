@@ -1,0 +1,2 @@
+(S (S (VP (VBG Achieving) (NP (NP (PDT such) (DT a) (JJ high) (NN degree)) (PP (IN of) (NP (NN robustness)))))) (VP (VBZ requires) (NP (NP (DT a) (JJ quantitative) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ specifies) (NP (NP (DT the) (NN range) (CC and) (NN character)) (PP (IN of) (NP (DT the) (NNS uncertainties))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NP (NN noise)) (VP (VBN represented) (PP (IN by) (NP (DT a) (JJ stochastic) (NN uncertainty) (NN model)))))))) (. .))

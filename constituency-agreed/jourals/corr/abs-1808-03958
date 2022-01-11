@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Neuronal) (NNS circuits)) (VP (VBN formed) (PP (IN in) (NP (DT the) (NN brain))))) (VP (VBP are) (ADJP (JJ complex) (PP (IN with) (NP (JJ intricate) (NN connection) (NNS patterns))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP recover) (NP (JJ synaptic) (NN connection) (NNS strengths)) (PP (IN from) (NP (NP (DT the) (NN weight) (NN matrix)) (PP (IN of) (NP (NNP STNMF)))))) (. .))

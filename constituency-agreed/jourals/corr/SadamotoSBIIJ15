@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP derive) (NP (NP (DT a) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NN condition)) (PP (IN for) (NP (NP (DT the) (JJ weak) (NN resilience)) (PP (IN of) (NP (JJ networked) (NNS systems))))))) (. .))
+(S (NP (VBN Networked) (NNS systems)) (VP (VBP do) (RB not) (ADVP (RB generally)) (VP (VB satisfy) (NP (DT this) (NN condition)))) (. .))

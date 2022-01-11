@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT an) (ADJP (NN operating) (NN system) (VBD oriented)) (NNP RBAC) (NN model)))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NNP RBAC96) (NN model))))) (, ,) (NP (NP (DT a) (JJ new) (NNP RBAC) (NN model)) (VP (VBN named) (S (NP (NNP OSR))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (DT the) (NNP OSR) (NN model)) (VP (VBZ is) (VP (VBN enforced) (PP (IN in) (NP (NNP RFSOS) (NN kernel))) (PP (IN by) (NP (NP (DT the) (NN way)) (PP (IN of) (S (VP (VBG integrating) (NP (NP (NNP GFAC) (NN method)) (CC and) (NP (NNP Capability) (NN mechanism))) (ADVP (RB together))))))))) (. .))
+(S (NP (NP (DT All) (NNS parts)) (PP (IN of) (NP (DT the) (NNP OSR) (NN implementation)))) (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (NN detail))))) (. .))

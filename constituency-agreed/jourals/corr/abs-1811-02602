@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (NNS methods)))) (VP (VBP encounter) (NP (DT the) (JJ computational) (NN inefficiency)) (PP (ADVP (RB especially)) (IN for) (NP (JJ long) (NNS sentences))) (PP (IN because) (IN of) (NP (NP (DT the) (VBG increasing) (NN model) (NN complexity)) (CC and) (NP (JJR slower) (NNS decoders))))) (. .))

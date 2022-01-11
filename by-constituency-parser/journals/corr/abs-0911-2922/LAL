@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT a) (NN basis)) (PP (IN of) (NP (JJ sparse) (NNS eigenvectors))) (PP (IN for) (NP (DT the) (JJ N-dimensional) (NN discrete) (NNP Fourier) (NN transform))))) (. .))
+(S (NP (DT The) (NN sparsity)) (VP (NNS differs) (PP (IN from) (NP (DT the) (JJ optimal))) (PP (IN by) (NP (NP (ADVP (IN at) (JJS most)) (DT a) (NN factor)) (PP (IN of) (NP (CD four)))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (NNP N)) (VP (VBZ is) (NP (DT a) (JJ perfect) (NN square))))) (, ,) (NP (DT the) (NN basis)) (VP (VBZ is) (ADJP (JJ orthogonal))) (. .))

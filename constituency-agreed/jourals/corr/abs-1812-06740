@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NP (DT the) (NNP Hausdorff) (NN distance)) (PP (IN between) (NP (CD two) (JJ such) (NNS sets))))))) (. .))
+(S (NP (PRP We)) (VP (VBP recall) (NP (NP (JJ fundamental) (NNS properties)) (PP (IN of) (NP (DT the) (NNP Hausdorff) (NN distance))) (, ,) (PP (VBG including) (NP (NP (DT a) (NN characterisation)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN distance) (NNS functions))))))))) (. .))

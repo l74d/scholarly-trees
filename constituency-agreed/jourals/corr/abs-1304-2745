@@ -1,0 +1,2 @@
+(S (S (VP (VBG Choosing) (PP (IN among) (NP (PRP them))))) (VP (VBZ is) (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (JJ quantitative) (NN preference))))) (. .))
+(S (NP (PRP We)) (VP (MD can) (ADVP (RB then)) (VP (VB compute) (NP (NNS probabilities)) (ADVP (RB incrementally)) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP construct) (NP (NNS explanations))))))) (. .))

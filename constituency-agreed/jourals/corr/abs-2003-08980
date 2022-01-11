@@ -1,0 +1,1 @@
+(S (PP (IN During) (NP (DT the) (NN training))) (, ,) (S (NP (DT the) (JJ concrete) (NN layer)) (VP (VBZ selects) (NP (DT the) (ADJP (RBS most) (JJ informative)) (NN pilot) (NNS locations)))) (, ,) (CC and) (S (NP (DT the) (NN decoder)) (VP (VBZ reconstructs) (NP (NP (DT an) (JJ approximate) (NN estimation)) (PP (IN of) (NP (DT the) (NN channel)))))) (. .))

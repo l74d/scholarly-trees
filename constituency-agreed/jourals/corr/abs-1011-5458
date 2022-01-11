@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN side) (NN information)) (VP (VBZ is) (RB not) (ADJP (JJ available))))) (, ,) (NP (DT the) (NN receiver)) (VP (VBZ has) (S (VP (TO to) (VP (VB estimate) (NP (DT the) (NN sparsity) (NN pattern)))))) (. .))

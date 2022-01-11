@@ -1,0 +1,8 @@
+(S (S (NP (DT The) (NNP Big) (NNP Data)) (VP (VBZ is) (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN paradigm)) (ADVP (RB nowadays)))) (CC and) (S (NP (PRP it)) (VP (VBZ has) (NP (ADJP (RB almost) (DT no) (JJ untouched)) (NN area)))) (. .))
+(S (PP (IN For) (NP (NP (NN instance)) (, ,) (NP (NN science)) (, ,) (NP (NN engineering)) (, ,) (NP (NNS economics)) (, ,) (NP (NN business)) (, ,) (NP (JJ social) (NN science)) (, ,) (CC and) (NP (NN government)))) (. .))
+(S (NP (DT The) (NNP Big) (NNP Data)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB boost) (PRT (RP up)) (NP (NP (DT the) (NN organization) (NN performance)) (VP (VBG using) (NP (NP (JJ massive) (NN amount)) (PP (IN of) (NP (NN dataset))))))))))) (. .))
+(S (S (NP (DT The) (NNS Data)) (VP (VBP are) (NP (NP (NNS assets)) (PP (IN of) (NP (DT the) (NN organization)))))) (, ,) (CC and) (S (NP (DT these) (NNS data)) (VP (VBZ gives) (NP (NN revenue)) (PP (IN to) (NP (DT the) (NNS organizations))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (NNP Big) (NNP Data)) (VP (VBZ is) (VP (VBG spawning) (ADVP (RB everywhere)) (S (VP (TO to) (VP (VB enhance) (NP (NP (DT the) (NNS organizations) (POS ')) (NN revenue))))))) (. .))
+(FRAG (ADVP (RB Thus)) (, ,) (NP (NP (JJ many) (JJ new) (NNS technologies)) (VP (VBG emerging) (PP (VBN based) (PP (IN on) (NP (NNP Big) (NNP Data)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (NN taxonomy)) (PP (IN of) (NP (NNP Big) (NNP Data))))) (. .))
+(S (ADVP (RB Besides)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (NML (PP (IN in) (HYPH -) (NP (NN depth)))) (NN insight)) (PP (IN on) (NP (DT the) (NML (NNP Big) (NNP Data)) (NN paradigm))))) (. .))

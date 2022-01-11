@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP compare) (NP (NP (JJ different) (JJ numerical) (NNS methods)) (PP (IN for) (NP (NNP PageRank) (NN calculation))))) (. .))
+(S (PP (IN With) (NP (DT the) (JJS best) (NN method))) (NP (PRP we)) (VP (VBP do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ numerical) (NNS experiments))))) (. .))

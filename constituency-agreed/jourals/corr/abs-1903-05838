@@ -1,0 +1,1 @@
+(S (CC But) (PP (IN for) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (JJ small) (NNS files))))) (, ,) (NP (NNP Hadoop)) (VP (VBZ has) (NP (NP (NNS problems)) (PP (JJ such) (IN as) (NP (NP (NNP NN) (NN memory) (NN overload)) (VP (VBN caused) (PP (IN by) (NP (NP (DT the) (JJ huge) (NN metadata) (NN size)) (PP (IN of) (NP (DT these) (JJ small) (NNS files)))))))))) (. .))

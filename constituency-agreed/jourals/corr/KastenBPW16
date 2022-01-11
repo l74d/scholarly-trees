@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS methods)) (VP (VBP fail) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN scene)) (VP (VBZ includes) (NP (JJ multiple) (VBG moving) (NNS objects)))))) (. .))
+(S (PP (IN As) (PP (IN in) (NP (JJ previous) (NNS methods)))) (NP (PRP we)) (VP (VBP assume) (SBAR (SBAR (IN that) (S (NP (NNS cameras)) (VP (VBP are) (ADJP (RB relatively) (JJ stationary))))) (CC and) (SBAR (IN that) (S (NP (VBG moving) (NNS objects)) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN extracted) (S (VP (VBG using) (NP (NN background) (NN subtraction))))))))))) (. .))

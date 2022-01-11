@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT a) (JJ required) (NN level)) (PP (IN of) (NP (NN security))))) (, ,) (NP (DT a) (NN user)) (VP (VBZ is) (VP (VBN abstracted) (PP (IN from) (NP (NP (DT the) (NNS details)) (PP (IN of) (NP (NP (DT the) (NN encoding)) (CC and) (NP (DT the) (NN encryption) (NN scheme)))))) (, ,) (S (VP (VBG allowing) (NP (JJ quick) (NN prototyping)))))) (. .))

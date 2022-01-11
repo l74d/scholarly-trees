@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ numerical) (NN simulation)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBZ requires) (S (VP (TO to) (VP (VB update) (NP (DT the) (NN synapse) (NNS variables)) (PP (IN in) (NP (NP (DT each) (NN time) (NN step)) (PP (VBG including) (NP (DT an) (JJ explorative) (JJ random) (NN term))))))))) (. .))

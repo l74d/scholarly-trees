@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN integer) (NN adder)) (PP (IN for) (NP (NP (NNS integers)) (PP (IN in) (NP (DT the) (JJ binary) (NN representation)))))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ basic) (NNS operations)) (PP (IN of) (NP (DT any) (JJ digital) (NN processor))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT a) (JJ fast) (NN method)) (CC and) (NP (NP (DT an) (NN improvement)) (PP (IN of) (NP (PRP it)))))) (. .))

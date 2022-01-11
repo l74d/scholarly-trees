@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (CD three) (NNS examples))) (. .))
+(S (NP (DT The) (NN image) (NN registration) (NN problem)) (VP (VP (VBZ is) (NP (NP (DT a) (JJ classical) (NN task)) (PP (IN in) (NP (JJ medical) (NN image) (NN analysis))))) (CC and) (VP (VBZ seeks) (S (VP (TO to) (VP (VB find) (NP (NP (JJ pointwise) (NNS correspondences)) (PP (IN between) (NP (QP (CD two) (CC or) (JJR more)) (NNS images))))))))) (. .))

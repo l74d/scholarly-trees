@@ -1,0 +1,4 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (DT the) (JJ original) (NN algorithm)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN extended) (ADVP (RB directly))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (CD three) (JJ different) (NNS methods)) (S (VP (TO to) (VP (VB adapt) (NP (PRP it)))))) (. .))
+(S (NP (NP (DT The) (JJ first)) (WHPP (IN of) (WHNP (WDT which)))) (VP (VBZ is) (S (NP (DT a) (NML (VBN fixed) (HYPH -) (NN parameter)) (JJ tractable) (NN algorithm)))) (. .))
+(S (NP (DT The) (NN second)) (VP (VBZ is) (NP (DT a) (ADJP (JJ polynomial) (HYPH -) (NN time)) (NN approximation) (NN algorithm))) (. .))

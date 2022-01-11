@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS formulations)) (VP (VBP make) (S (NP (DT the) (NN problem)) (ADJP (JJ applicable) (PP (IN in) (NP (JJ daily) (NNS operations)))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN analysis))) (NP (PRP we)) (VP (VBP discuss) (NP (NP (NP (DT an) (JJ optimal) (NN composition)) (PP (IN of) (NP (DT a) (VBN shared) (NN fleet)))) (, ,) (NP (NP (VBN restricted) (NNS sets)) (PP (IN of) (NP (NP (NNS modes)) (PP (IN of) (NP (NN transport)))))) (, ,) (CC and) (NP (NP (NNS variations)) (PP (IN of) (NP (DT the) (JJ objective) (NN function)))))) (. .))

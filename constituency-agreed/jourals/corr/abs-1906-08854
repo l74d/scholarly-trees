@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP simulate) (NP (NP (DT a) (JJ multi-agent) (NN system)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (JJ neural) (NNS networks)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB control) (NP (JJ autonomous) (NNS agents))))))))))) (. .))

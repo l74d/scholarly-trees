@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP promote) (NP (NP (DT the) (NN sparsity)) (PP (IN of) (NP (DT the) (NN coupling) (NN network)))) (PP (IN by) (S (VP (VBG penalizing) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN interconnection) (NNS links)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (PP (IN for) (NP (NP (JJ special) (NNS classes)) (PP (IN of) (NP (NN oscillator) (NNS networks))))) (NP (PRP we)) (VP (VBP derive) (NP (NP (JJ explicit) (JJ analytical) (NNS expressions)) (PP (IN for) (NP (DT the) (JJ optimal) (NN conductance) (NNS values))))) (. .))

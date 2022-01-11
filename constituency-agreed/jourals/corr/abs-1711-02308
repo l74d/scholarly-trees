@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (JJ informed) (NN player))) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (NN security) (NN strategy)) (ADVP (RB only)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN belief)) (CC and) (NP (DT the) (JJ current) (NN stage)))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT an) (NN intrusion) (NN detection) (NN problem)) (VP (VBZ is) (VP (VBN studied) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (JJ main) (NNS results)) (PP (IN in) (NP (DT this) (NN paper))))))))) (. .))

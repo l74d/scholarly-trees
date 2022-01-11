@@ -1,0 +1,3 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG securing) (NP (NP (JJ complex) (NNS infrastructures)) (CC or) (NP (JJ large) (NNS environments)))))) (, ,) (NP (NP (JJ constant) (NN surveillance)) (PP (IN of) (NP (DT every) (NN area)))) (VP (VBZ is) (RB not) (ADJP (JJ affordable))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ such) (NNS sensors)) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN affected) (PP (IN by) (NP (NN uncertainty))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ present) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (ADJP (RB spatially) (JJ uncertain)) (NN alarm) (NNS signals)))) (. .))

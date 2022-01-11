@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (JJ excessive) (NN rate)) (PP (IN of) (NP (NP (NNS patients)) (VP (VBG arriving) (PP (IN at) (NP (NN accident) (CC and) (NN emergency) (NNS centres))))))) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN problem)) (VP (VBG facing) (NP (ADJP (JJ South) (JJ African)) (NNS hospitals))))) (. .))
+(S (NP (NNS Patients)) (VP (VBP are) (VP (VBN prioritized) (PP (IN for) (NP (JJ medical) (NN care))) (PP (IN through) (NP (DT a) (NN triage) (NN process))))) (. .))
+(S (NP (JJ Manual) (NNS systems)) (VP (VBP allow) (PP (IN for) (NP (NN inconsistency) (CC and) (NN error)))) (. .))
+(S (NP (DT These) (NNS components)) (VP (VBP are) (VP (VBN integrated) (PP (IN in) (NP (DT a) (JJ simple) (JJ graphical) (NN user) (NN interface))))) (. .))

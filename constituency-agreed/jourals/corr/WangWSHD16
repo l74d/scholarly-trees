@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN set)) (PP (IN of) (NP (NP (JJ such) (NNS questions)) (SBAR (WHNP (WDT that)) (S (VP (VBP require) (NP (DT no) (JJ external) (NN information)) (S (VP (TO to) (VP (VB answer)))))))))) (VP (VBZ is) (ADJP (ADJP (JJ interesting)) (, ,) (CC but) (ADJP (RB very) (JJ limited)))) (. .))
+(S (NP (NNP FVQA)) (ADVP (RB only)) (VP (VBZ contains) (NP (NP (NNS questions)) (SBAR (WHNP (WDT which)) (S (VP (VBP require) (NP (JJ external) (NN information)) (S (VP (TO to) (VP (VB answer))))))))) (. .))

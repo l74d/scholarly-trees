@@ -1,0 +1,2 @@
+(S (PP (VBG Depending) (PP (IN on) (NP (NP (DT the) (NN graph) (NN size)) (CC and) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NNS changes))))))) (, ,) (NP (DT this)) (VP (VBZ yields) (NP (DT a) (JJ massive) (NN runtime) (NN decrease))) (. .))
+(S (NP (DT These) (NNS values)) (VP (VBP depend) (PP (IN on) (NP (NP (DT the) (JJ reprocessed) (NN area)) (PP (IN inside) (NP (DT the) (NN graph)))))) (. .))

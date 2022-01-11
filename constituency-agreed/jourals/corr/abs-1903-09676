@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT an) (JJ undirected) (NN tree) (NN network)) (VP (VBZ is) (VP (VBN studied))) (. .))
+(S (NP (DT The) (NN analysis)) (VP (VBZ is) (VP (VP (VBN performed) (PP (IN within) (NP (DT the) (JJ stochastic) (NNS systems) (NN framework)))) (CC and) (VP (VBN validated) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ numerical) (NNS simulations)))))))) (. .))

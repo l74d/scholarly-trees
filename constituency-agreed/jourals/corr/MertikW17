@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (JJ many) (NNS components)) (SBAR (WHNP (WDT which)) (S (VP (VBP constitute) (NP (DT a) (JJ large) (NN system))))))))) (. .))
+(S (ADVP (RB Here)) (NP (DT a) (JJ huge) (NN data)) (VP (VBZ is) (VP (VBN collected) (SBAR (WHADVP (WRB when)) (S (VP (VBG implementing) (NP (JJ various) (NNP ELQA) (JJ electrical) (NNS tests))))))) (. .))

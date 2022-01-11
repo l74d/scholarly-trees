@@ -1,0 +1,2 @@
+(S (NP (JJ Local) (NN place) (NNS names)) (VP (VBP are) (ADVP (RB frequently)) (VP (VBN used) (PP (IN by) (NP (NP (NNS residents)) (VP (VBG living) (PP (IN in) (NP (DT a) (JJ geographic) (NN region)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN framework)) (PP (IN by) (S (VP (VBG comparing) (NP (PRP$ its) (NN performance)) (PP (IN with) (NP (NP (DT those)) (PP (IN of) (NP (CD six) (NNS baselines))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Fixing) (NP (NNS bugs)))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN phase)) (PP (IN in) (NP (NN software) (NN development) (CC and) (NN maintenance))))) (. .))
+(S (PP (IN In) (NP (NN practice))) (, ,) (NP (NP (DT the) (NN process)) (PP (IN of) (NP (NN bug) (NN fixing)))) (VP (MD may) (VP (VB conflict) (PP (IN with) (NP (DT the) (NN release) (NN schedule))))) (. .))

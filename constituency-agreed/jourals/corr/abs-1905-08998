@@ -1,0 +1,1 @@
+(S (S (NP (DT Each) (NN sensor)) (VP (VBZ measures) (NP (NP (DT the) (JJ relative) (NNS states)) (PP (IN of) (NP (PRP$ its) (NNS neighbors)))))) (CC and) (S (NP (DT this) (NN measurement)) (VP (VBZ is) (VP (VBN corrupted) (PP (IN by) (NP (DT a) (JJ constant) (NN bias)))))) (. .))

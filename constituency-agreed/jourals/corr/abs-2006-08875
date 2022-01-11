@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN test) (NN task) (NN distribution)) (VP (VBZ is) (ADJP (JJ different) (PP (IN from) (NP (DT the) (NN training) (NN task) (NN distribution))))))) (, ,) (NP (DT the) (NN performance)) (VP (MD may) (VP (VB degrade) (ADVP (RB significantly)))) (. .))

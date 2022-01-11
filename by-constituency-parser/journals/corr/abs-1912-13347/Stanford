@@ -1,0 +1,2 @@
+(S (VP (VB Let) (NP (NP (NML (NML ($ $)) (NN G)) (SYM =) (NML (NML (-LRB- -LRB-) (NML (NN V)) (, ,) (NML (NN E)) (-RRB- -RRB-)) (NML ($ $)))) (SBAR (S (VP (VB be) (NP (DT a) (ADJP (JJ directed)) (NN graph))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VP (VBP study) (NP (DT this) (NN concept))) (CC and) (VP (VB describe) (NP (NNS algorithms)) (PP (IN for) (NP (VBG computing) (NML (NML ($ $) (CD 2)) (NML ($ $)) (HYPH -) (NML (NN edge) (HYPH -) (NN twinless))) (NNS blocks))))) (. .))

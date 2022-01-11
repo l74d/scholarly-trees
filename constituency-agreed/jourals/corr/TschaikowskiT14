@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (JJ small) (NNS perturbations)) (VP (VBP yield) (NP (JJ nearby) (JJ differential) (NNS trajectories)))))) (. .))
+(S (ADVP (RB Numerically)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ many) (JJ heterogeneous) (NNS processes)) (VP (MD can) (VP (VB be) (VP (VBN aggregated) (PP (IN with) (NP (JJ negligible) (NNS errors))))))))) (. .))

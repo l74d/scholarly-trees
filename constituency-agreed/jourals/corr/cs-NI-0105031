@@ -1,0 +1,2 @@
+(S (NP (NNP Mobile) (NNP IP)) (VP (VBZ is) (NP (NP (DT the) (VBN proposed) (NN standard)) (PP (IN by) (NP (NNP IETF))))) (. .))
+(S (NP (JJ Several) (NNS studies)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP have) (VP (VBN shown) (SBAR (IN that) (S (NP (NNP Mobile) (NNP IP)) (VP (VBZ has) (NP (NP (JJ several) (NNS drawbacks)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN triangle) (NN routing)) (CC and) (NP (JJ poor) (NN handoff) (NN performance)))))))))) (. .))

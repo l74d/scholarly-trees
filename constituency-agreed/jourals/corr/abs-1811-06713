@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS parameters)) (PP (IN of) (NP (DT this) (JJ supervised) (NN model)))) (VP (VBP are) (VP (VBN learned) (S (VP (VBG using) (NP (NP (DT the) (NN framework)) (PP (IN of) (NP (JJ variational) (NNS autoencoders)))))))) (. .))

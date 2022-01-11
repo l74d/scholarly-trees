@@ -1,0 +1,2 @@
+(S (NP (NN Machine) (NN learning)) (VP (VBZ is) (NP (DT a) (JJ computational) (NN process))) (. .))
+(S (NP (NP (NNS Characteristics)) (PP (JJ such) (IN as) (NP (NP (DT the) (NN power) (NN consumption)) (PP (IN of) (NP (NNS chips)))))) (ADVP (RB also)) (VP (VBP define) (SBAR (WHADVP (WRB where) (CC and) (WRB how)) (S (NP (NN machine) (NN learning)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT the) (JJ real) (NN world))))))))) (. .))

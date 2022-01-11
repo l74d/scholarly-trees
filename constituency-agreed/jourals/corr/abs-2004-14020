@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ current) (NNS implementations)) (PP (IN of) (NP (NNP AllReduce)))) (VP (VBP overlook) (NP (NP (DT the) (NN interdependence)) (PP (IN of) (NP (NN communication) (CC and) (NN computation)))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (JJ significant) (NN performance) (NN degradation)))))) (. .))

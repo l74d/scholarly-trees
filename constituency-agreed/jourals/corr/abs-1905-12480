@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (NP (JJ different) (NNS users)) (VP (VBP have) (NP (JJ different) (NN preference)))) (CC and) (S (NP (JJ different) (NNS items)) (VP (VBP have) (NP (JJ different) (NNS characteristics)))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (NP (DT the) (JJ same) (NN word)) (CC or) (NP (JJ similar) (NNS reviews))) (VP (MD may) (VP (VB have) (NP (NP (JJ different) (NN informativeness)) (PP (IN for) (NP (JJ different) (NNS users) (CC and) (NNS items)))))) (. .))

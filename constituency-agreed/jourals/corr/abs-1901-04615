@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (NP (DT the) (NN code)) (VP (VBN generated) (PP (IN by) (NP (DT a) (NN compiler))))))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN order)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN optimization) (NNS passes)) (VP (VBP are) (VP (VBN applied)))))))) (. .))

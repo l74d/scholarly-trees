@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN knowledge)) (VP (VBN gained) (PP (IN by) (NP (DT the) (ADJP (RB temporarily) (VBN extended)) (JJ neural) (NN network))))) (VP (VBZ is) (VP (VBN contained) (PP (IN in) (NP (NP (DT the) (NNS parameters)) (VP (VBN shared) (PP (IN with) (NP (DT the) (JJ original) (JJ neural) (NN network)))))))) (. .))

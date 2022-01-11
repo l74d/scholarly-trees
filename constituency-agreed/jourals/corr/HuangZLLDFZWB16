@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ first) (JJ practical) (NN quantum) (NN computer)) (PP (IN for) (NP (JJ ordinary) (NNS users)))) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (PP (IN on) (NP (DT the) (NN cloud)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN adoption)) (PP (IN of) (NP (NN cloud) (NN computing)))) (VP (VBZ is) (ADJP (JJ possible)) (SBAR (RB only) (IN if) (S (NP (NN security)) (VP (VBZ is) (VP (VBN ensured)))))) (. .))

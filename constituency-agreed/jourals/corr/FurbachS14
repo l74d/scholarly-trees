@@ -1,0 +1,2 @@
+(S (NP (JJ Deontic) (NN logic)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ applicable) (PP (IN for) (S (VP (VBG modelling) (NP (JJ human) (NN reasoning))))))))))) (. .))
+(S (PP (IN For) (NP (DT this))) (NP (NP (DT the) (NNP Wason) (NN selection) (NN task)) (CC and) (NP (DT the) (NN suppression) (NN task))) (VP (VBP are) (VP (VBN discussed) (PP (IN in) (NP (NN detail))))) (. .))

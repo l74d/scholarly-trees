@@ -1,0 +1,2 @@
+(S (NP (NNS Data)) (VP (VBP have) (ADVP (RB often)) (S (VP (TO to) (VP (VB be) (VP (VBN moved) (PP (IN between) (NP (NNS servers) (CC and) (NNS clients))) (PP (IN during) (NP (DT the) (NN inference) (NN phase)))))))) (. .))
+(S (PP (IN During) (NP (DT the) (NN inference) (NN phase))) (, ,) (NP (NP (RB only) (DT the) (NNS parts)) (VP (VBN selected) (PP (IN by) (NP (DT the) (NNS masks))))) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN transferred) (PP (IN between) (NP (NP (DT the) (NN server)) (CC and) (NP (DT the) (NN client))))))))) (. .))

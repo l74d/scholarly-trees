@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN for) (NP (DT every) (NN convex) (NN polygon))) (NP (DT this) (NN graph)) (VP (VBZ is) (ADJP (JJ planar)))))) (. .))

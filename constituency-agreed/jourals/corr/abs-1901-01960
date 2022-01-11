@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (NP (DT the) (NN reconstruction) (NN model) (POS 's)) (NN performance)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (JJ sub-sampling) (NN pattern)))))) (, ,) (NP (PRP we)) (VP (VBP combine) (NP (DT the) (CD two) (NNS problems))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP$ our) (NN solution)) (VP (MD can) (VP (VB improve) (NP (DT the) (JJ dynamic) (NN performance)) (PP (IN without) (S (VP (VBG affecting) (NP (DT the) (JJ steady) (NN state) (NN solution))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NP (JJ several) (NNS features)) (PP (IN of) (NP (PRP$ our) (NN solution)))) (S (VP (VBG using) (NP (JJ numerical) (NNS simulations))))) (. .))

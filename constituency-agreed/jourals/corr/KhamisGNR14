@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (DT these) (NNS problems))) (CC and) (VP (VB present) (NP (NP (DT the) (JJ first) (JJ combinatorial) (NNS results)) (PP (IN on) (NP (DT the) (NN output) (NN list) (NN size)))))) (. .))
+(S (NP (PRP$ Our) (NNS definitions) (CC and) (NNS results)) (VP (VBP are) (VP (VBN inspired) (PP (IN by) (NP (NP (JJ similar) (NNS results)) (PP (IN in) (NP (NN list) (NN decoding))))))) (. .))

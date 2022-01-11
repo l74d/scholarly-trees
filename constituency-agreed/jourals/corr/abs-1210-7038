@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS features)) (VP (VP (VBP are) (ADJP (RB very) (JJ distinct))) (CC and) (VP (VB provide) (NP (NP (JJ stable) (NNS keypoints)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (S (VP (VBG matching) (NP (NP (DT an) (NN object)) (PP (IN in) (NP (JJ different) (NNS images))))))))))))))) (. .))
+(S (PP (IN At) (ADVP (RB first))) (, ,) (NP (DT an) (NN object)) (VP (VBZ is) (VP (VBN trained) (PP (IN with) (NP (JJ different) (NNS aspects))) (PP (IN for) (S (VP (VBG finding) (NP (JJS best) (NNS keypoints))))))) (. .))

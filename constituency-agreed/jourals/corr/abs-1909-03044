@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (NN post) (NN challenge))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (CD two) (NNS models)) (: :) (NP (NP (DT the) (NNP Random) (NNP Forest)) (CC and) (NP (DT the) (NNP Encoder) (NNP Network)))))) (. .))
+(S (NP (DT The) (JJ official) (NNS results)) (VP (VBD demonstrated) (SBAR (S (NP (PRP$ our) (JJS best) (NN submission)) (VP (VBD was) (NP (NP (DT the) (NN ensemble)) (PP (IN of) (NP (CD eight) (NNS models)))))))) (. .))

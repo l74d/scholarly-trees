@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ robust) (NN technique)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ learns) (NP (DT the) (NN background) (NN frame) (NNS indices)) (PP (IN from) (NP (DT the) (NNS data)))) (CC and) (VP (VBZ does) (RB not) (VP (VB require) (NP (DT any) (NN training) (NNS frames))))))))) (. .))

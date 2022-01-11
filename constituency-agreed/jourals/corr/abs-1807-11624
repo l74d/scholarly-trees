@@ -1,0 +1,2 @@
+(S (S (NP (NNS Sensors)) (VP (VBP make) (NP (NP (JJ sequential) (NNS measurements)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN shared) (PP (IN with) (NP (DT a) (NN fusion) (NN center)))))))))) (: ;) (S (NP (DT the) (NN fusion) (NN center)) (VP (VBZ applies) (NP (DT a) (JJ certain) (NN filtering) (NN algorithm)) (S (VP (TO to) (VP (VB make) (NP (PRP$ its) (NNS estimates))))))) (. .))
+(S (NP (NP (DT The) (NNS problems)) (PP (IN of) (NP (NP (JJ malicious) (NN sensor) (NN detection)) (CC and) (NP (JJ secure) (NN estimation))))) (VP (VBP are) (VP (VBN considered))) (. .))

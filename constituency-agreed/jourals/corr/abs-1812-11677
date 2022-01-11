@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ former)) (VP (VBZ leverages) (NP (NP (DT the) (NN redundancy)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS weights)))))) (, ,) (SBAR (IN whereas) (S (NP (DT the) (JJ latter)) (VP (VBZ leverages) (NP (NP (DT the) (NN redundancy)) (PP (IN in) (NP (NP (NN bit) (NN representation)) (PP (IN of) (NP (NNS weights)))))))))) (. .))
+(S (NP (DT The) (NN improvement)) (VP (VBZ becomes) (ADJP (RBR more) (JJ significant)) (SBAR (WHADVP (WRB when)) (S (VP (VBG focusing) (PP (IN on) (NP (NN computation) (NNS reductions))))))) (. .))

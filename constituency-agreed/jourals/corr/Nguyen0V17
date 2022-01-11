@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (VBG sensing) (NN layer))) (, ,) (NP (DT the) (NN model)) (VP (VBZ decides) (SBAR (IN whether) (S (VP (TO to) (VP (VB observe) (CC and) (VB incorporate) (NP (NP (NNS parts)) (PP (IN of) (NP (DT the) (JJ current) (NNS measurements))))))))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (NP (DT the) (NNP PhysioNet) (CD 2012) (NN dataset)) (VP (VBG showing) (NP (ADJP (JJ competitive) (CC and) (JJ interpretable)) (NNS results))))))) (. .))

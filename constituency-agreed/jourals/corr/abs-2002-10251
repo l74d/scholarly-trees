@@ -1,0 +1,2 @@
+(S (NP (DT These) (CD two) (NNS steps)) (VP (VBP involve) (NP (JJ sparse) (NN regression) (CC and) (NN optimization))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP illustrate) (NP (PRP$ our) (NN method)) (PP (IN with) (NP (NP (DT an) (NN example)) (CC and) (NP (DT some) (NNS discussions))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB demonstrate) (NP (DT the) (NN methodology))))) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (CD two) (JJ nontrivial) (NNS applications))) (. .))
+(S (NP (DT The) (JJ second) (NN application)) (VP (VBZ is) (S (VP (TO to) (VP (VB test) (NP (NP (DT the) (NN equality)) (PP (IN of) (NP (NP (CD two) (NNS multisets)) (PP (IN of) (NP (NNS integers)))))))))) (. .))

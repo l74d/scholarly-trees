@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN subband) (NN channel)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (DT an) (JJ additive) (NN noise) (NN channel))))) (. .))
+(S (NP (NP (DT No) (JJ common) (NN randomness)) (PP (IN between) (NP (NN sender) (CC and) (NN receiver)))) (VP (VBZ is) (VP (VBN assumed))) (. .))

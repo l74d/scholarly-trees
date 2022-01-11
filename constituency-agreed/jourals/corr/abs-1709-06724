@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (NNP EUROCRYPT) (CD 2011))) (, ,) (NP (NNP Gentry) (CC and) (NNP Halevi)) (VP (VBD implemented) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (NP (NNP Gentry) (POS 's)) (ADJP (RB fully) (JJ homomorphic)) (NN encryption) (NN scheme))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP$ our) (NN condition)) (VP (MD can) (VP (VB be) (VP (VBN checked) (ADVP (RBR more) (RB efficiently))))) (. .))

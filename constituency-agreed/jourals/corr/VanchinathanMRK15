@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN task)) (VP (VBZ generalizes) (NP (NP (JJ several) (JJ important) (NNS problems)) (PP (JJ such) (IN as) (NP (NP (JJ multi-arm) (NNS bandits)) (, ,) (NP (JJ active) (NN search)) (CC and) (NP (DT the) (NN knapsack) (NN problem)))))) (. .))

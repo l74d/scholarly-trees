@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP adopt) (NP (DT a) (ADJP (RB distributionally) (JJ robust)) (NN approach)) (S (VP (TO to) (VP (VB cast) (NP (DT the) (NN controller) (NN synthesis) (NN problem)) (PP (IN as) (NP (JJ semidefinite) (NNS programs))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (JJ practical) (NN applicability) (CC and) (NN performance)) (PP (IN of) (NP (DT the) (NN method)))) (PP (IN through) (NP (DT a) (JJ numerical) (NN experiment)))) (. .))

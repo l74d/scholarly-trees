@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP study) (NP (PRP$ our) (NN approach))) (CC and) (VP (VB evaluate) (NP (PRP it)) (PP (IN through) (NP (NN simulation))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ has) (VP (VBN improved) (NP (CD 12) (NN %)) (PP (IN over) (NP (DT the) (JJ current) (NNS strategies)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (DT an) (JJ optimal) (NN algorithm)) (VP (MD may) (VP (VB make) (NP (DT both) (NNS decisions)) (ADVP (RB adaptively)) (PP (VBN based) (PP (IN on) (NP (NP (NNS instantiations)) (VP (VBN observed) (ADVP (RB previously)))))))) (. .))

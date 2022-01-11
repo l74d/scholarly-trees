@@ -1,0 +1,2 @@
+(S (NP (JJ Modern) (NNS cars)) (VP (VBP exist) (PP (IN in) (NP (NP (DT an) (JJ vast) (NN number)) (PP (IN of) (NP (NNS variants)))))) (. .))
+(S (NP (DT A) (JJ functional) (NN variant)) (VP (VBZ is) (VP (VBN described) (PP (IN by) (NP (NP (DT a) (NN delta)) (VP (VBG encapsulating) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS modifications))))))))) (. .))

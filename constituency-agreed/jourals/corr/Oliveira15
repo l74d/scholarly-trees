@@ -1,0 +1,3 @@
+(S (NP (DT Every) (JJ continuous) (JJ basic) (NN wavelet)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (DT a) (JJ proper) (NN probability) (NN density))) (, ,) (S (VP (VBG allowing) (S (VP (VBG defining) (NP (NP (DT the) (NNP Shannon) (NN entropy)) (PP (IN of) (NP (DT a) (NN wavelet)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD proved) (SBAR (IN that) (S (NP (NP (DT any) (NN wavelet)) (PP (IN of) (NP (DT the) (JJ same) (NN family)))) (VP (VBZ has) (NP (NP (DT the) (JJ same) (NNP Shannon) (NN entropy)) (PP (IN of) (NP (PRP$ its) (NN mother) (NN wavelet)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NNP Shannon) (NN entropy)) (PP (IN for) (NP (DT a) (JJ few) (JJ standard) (NN wavelet) (NNS families)))) (VP (VBZ is) (VP (VBN determined))) (. .))

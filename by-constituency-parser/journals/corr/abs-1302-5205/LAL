@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (JJ generalized) (NNS notions)) (PP (IN of) (NP (NP (DT a) (NN divergence) (NN function)) (CC and) (NP (DT a) (NNP Fisher) (NN information) (NN matrix)))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB generalize) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NP (DT an) (JJ exponential) (NN family)) (PP (IN of) (NP (NNS models)))))) (PP (IN by) (S (VP (VBG reformulating) (NP (PRP it)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NNP Fisher) (NN information) (NN matrix)))))))))))) (. .))
+(S (NP (PRP$ Our) (NNS methods)) (VP (VBP are) (NP (NP (DT those)) (PP (IN of) (NP (NN information) (NN geometry))))) (. .))
+(S (NP (DT The) (NN context)) (VP (VBZ is) (ADJP (JJ general) (RB enough) (S (VP (TO to) (VP (VB include) (NP (NP (NNS applications)) (PP (IN from) (NP (JJ outside) (NNS statistics))))))))) (. .))

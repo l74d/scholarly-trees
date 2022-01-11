@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN expression)) (SBAR (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (JJ exact) (NN period)) (PP (IN of) (NP (NP (DT a) (JJ recursive) (NN random) (NN number) (NN generator)) (VP (VBN based) (PP (IN on) (NP (NNS d-sequences))))))))))))) (. .))
+(S (S (VP (VBG Using) (NP (NP (DT the) (JJ multi-recursive) (NN version)) (PP (IN of) (NP (DT this) (NN generator)))))) (NP (PRP we)) (VP (MD can) (VP (VB produce) (NP (NP (JJ large) (NN number)) (PP (IN of) (NP (JJ pseudorandom) (NNS sequences)))))) (. .))

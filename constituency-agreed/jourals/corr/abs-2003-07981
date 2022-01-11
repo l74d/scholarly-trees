@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Physiological) (NNS signals)) (, ,) (PP (JJ such) (IN as) (NP (NP (DT the) (NN electrocardiogram)) (CC and) (NP (DT the) (NN phonocardiogram))))) (VP (VBP are) (ADVP (RB very) (RB often)) (VP (VBN corrupted) (PP (IN by) (NP (JJ noisy) (NNS sources))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NNS physicians)) (VP (VBP use) (NP (DT a) (ADJP (RB completely) (JJ orthogonal)) (NN strategy))) (. .))

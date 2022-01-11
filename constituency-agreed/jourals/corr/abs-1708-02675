@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT these) (NNS graphs)) (VP (MD can) (VP (VB be) (VP (VBN recognized) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))

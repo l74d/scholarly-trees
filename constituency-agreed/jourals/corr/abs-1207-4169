@@ -1,0 +1,1 @@
+(S (S (NP (DT Each) (NN author)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (DT a) (JJ multinomial) (NN distribution)) (PP (IN over) (NP (NNS topics)))))))) (CC and) (S (NP (DT each) (NN topic)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (DT a) (JJ multinomial) (NN distribution)) (PP (IN over) (NP (NNS words)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (NN Implementation) (NNS techniques)) (PP (JJ such) (IN as) (NP (NP (NN pipelining)) (CC and) (NP (JJ systolic) (NN processing))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN employed) (PP (IN for) (NP (NN hardware) (NN regularity))))) (. .))

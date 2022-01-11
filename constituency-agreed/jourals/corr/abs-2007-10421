@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (RB newly) (VBN proposed)) (NN element)) (VP (VBZ has) (VP (VBN been) (VP (VBN proved) (S (VP (TO to) (VP (VB have) (NP (DT the) (JJ optimal) (NN interpolation) (NN error) (NN estimate)))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT the) (JJ numerical) (NNS experiments)))) (VP (VBP show) (NP (NP (DT the) (NN effectiveness) (CC and) (NN correctness)) (PP (IN of) (NP (PRP$ our) (NN element))))) (. .))

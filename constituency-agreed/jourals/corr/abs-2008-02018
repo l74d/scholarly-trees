@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN process)) (VP (VBZ is) (VP (VBN implemented) (S (VP (VBG using) (NP (NP (DT the) (JJ multi-shot) (NNS functionalities)) (PP (IN of) (NP (NN clingo)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Thirdly)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NNP TD) (NNS networks)) (VP (MD can) (VP (VB learn) (NP (NP (JJ predictive) (NN state) (NNS representations)) (SBAR (WHNP (WDT that)) (S (VP (VBP enable) (NP (NP (JJ exact) (NN solution)) (PP (IN of) (NP (DT a) (JJ non-Markov) (NN problem))))))))))))) (. .))
+(S (NP (NP (DT A) (ADJP (RB very) (JJ broad)) (NN range)) (PP (IN of) (NP (JJ inter-predictive) (JJ temporal) (NNS relationships)))) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN in) (NP (DT these) (NNS networks)))))) (. .))

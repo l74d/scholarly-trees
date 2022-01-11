@@ -1,0 +1,2 @@
+(S (NP (VBG Existing) (NNS rules)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN evaluated) (PP (IN through) (NP (NP (CD two) (NNS measures)) (, ,) (ADVP (RB namely)) (NP (NN support) (CC and) (NN confidence)))))) (. .))
+(S (PP (IN With) (NP (DT these) (NNS measures))) (, ,) (NP (PRP$ our) (NNS rules)) (VP (VBP are) (ADJP (ADJP (RB semantically) (JJR richer)) (PP (IN than) (NP (VBG existing) (NNS ones))))) (. .))

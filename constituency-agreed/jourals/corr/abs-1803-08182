@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN treated) (ADVP (RB differently))))))) (. .))
+(S (PP (IN For) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NN interpolation))))) (, ,) (NP (NP (DT the) (NN incorporation)) (PP (IN of) (NP (NNS constraints)))) (VP (VBZ is) (VP (VBN built) (PP (IN into) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (DT the) (NNP GAN))))))) (. .))

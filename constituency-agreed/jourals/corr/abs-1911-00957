@@ -1,0 +1,1 @@
+(S (NP (NNS Occlusions)) (, ,) (ADVP (IN along) (PP (IN with) (NP (NP (JJ other) (NNS parts)) (PP (IN of) (NP (DT the) (NN face)))))) (, ,) (VP (VBP have) (NP (NP (DT a) (JJ proper) (NN structure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBN propagated) (PP (IN in) (NP (DT the) (NN model))) (PP (IN during) (NP (NN training)))))))))))) (. .))

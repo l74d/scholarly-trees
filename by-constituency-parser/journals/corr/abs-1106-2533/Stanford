@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (NP (NNS graphs)) (PP (IN of) (NP (JJ linear) (NN rankwidth)))))) (PP (NP (QP (ADVP (IN at) (RBS most)) (CD 1))) (IN by) (NP (NP (JJ minimal)) (VP (VBN excluded) (NP (NN vertex) (HYPH -) (NNS minors)))))) (. .))

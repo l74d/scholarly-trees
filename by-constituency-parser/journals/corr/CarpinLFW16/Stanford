@@ -1,0 +1,4 @@
+(S (NP (DT This) (JJ technical) (NN report)) (VP (VBZ presents) (NP (DT an) (NN introduction)) (PP (IN to) (NP (NP (JJ different) (NNS aspects)) (PP (IN of) (NP (JJ multi-fingered) (NN robot) (VBG grasping)))))) (. .))
+(S (PP (IN After) (S (VP (VBG having) (VP (VBN introduced) (NP (NP (JJ relevant) (JJ mathematical) (NN background)) (PP (IN for) (NP (NN modeling)))))))) (, ,) (NP (NML (NN form) (CC and) (NN force)) (NN closure)) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (JJ various) (NN grasp) (NN planning) (NNS algorithms)))) (PP (IN with) (NP (NP (DT the) (NN objective)) (PP (IN of) (S (VP (VBG illustrating) (NP (JJ different) (NNS approaches)) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NN grasp) (NN performance) (NN benchmarking))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ theoretical) (NNS findings)) (VP (VBP are) (VP (VBN validated) (PP (IN by) (S (VP (VBG generating) (NP (NNS images)) (PP (PP (IN with) (NP (DT the) (NNP BigGAN) (NN model))) (CC and) (PP (IN across) (NP (JJ different) (JJ popular) (JJ deep) (NN representation) (NNS networks))))))))) (. .))

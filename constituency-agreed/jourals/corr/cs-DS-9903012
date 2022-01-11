@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN article)))) (VP (VBZ is) (S (VP (TO to) (VP (VB formalize) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (NNP NP) (NNS problems)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT a) (JJ mathematical) (NN model)) (PP (IN of) (NP (JJ discrete) (NNS problems)))) (PP (IN as) (NP (NP (NN independence) (NNS systems)) (PP (IN with) (NP (JJ weighted) (NNS elements)))))) (. .))

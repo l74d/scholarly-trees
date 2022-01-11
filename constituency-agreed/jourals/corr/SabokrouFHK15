@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN video)) (VP (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ non-overlapping) (JJ cubic) (NNS patches))))))) (, ,) (CC and) (VP (VBZ is) (VP (VBN described) (S (VP (VBG using) (NP (CD two) (ADJP (JJ local) (CC and) (JJ global)) (NNS descriptors))))))) (. .))
+(S (NP (DT These) (NNS descriptors)) (VP (VBP capture) (NP (DT the) (NN video) (NNS properties)) (PP (IN from) (NP (JJ different) (NNS aspects)))) (. .))

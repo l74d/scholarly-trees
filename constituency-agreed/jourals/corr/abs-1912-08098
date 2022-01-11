@@ -1,0 +1,4 @@
+(S (NP (DT The) (JJ prior) (NNS arts)) (VP (VBP have) (NP (NP (NNS limitations)) (PP (IN on) (S (VP (VBG improving) (NP (DT the) (NN routing) (NNS performances))))))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT these) (NNS networks)))) (VP (VBP are) (VP (VBN investigated))) (. .))
+(S (NP (NP (DT The) (NNS nodes)) (PP (IN in) (NP (DT this) (NN relay) (NN network)))) (VP (MD will) (VP (VB be) (VP (VBN chosen) (PP (IN as) (NP (JJ final) (NN forwarding) (NNS nodes)))))) (. .))
+(S (PP (IN By) (NP (DT these))) (, ,) (NP (NP (DT the) (NN transmission) (NN delay)) (CC and) (NP (JJ duplicate) (NN transmission))) (VP (VBP are) (VP (VBN reduced) (SBAR (IN while) (S (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (JJ opportunistic) (NN routing)))) (VP (VBZ is) (VP (VBN kept))))))) (. .))

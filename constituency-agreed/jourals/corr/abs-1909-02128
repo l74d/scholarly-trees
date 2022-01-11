@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBD was) (VP (VBN trained) (PP (IN on) (NP (NP (DT a) (JJ new) (NN dataset)) (PP (IN of) (NP (QP (JJR more) (IN than) (CD 150,000)) (JJ human) (NNS games))))))) (. .))

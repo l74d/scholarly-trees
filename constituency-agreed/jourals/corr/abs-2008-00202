@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS systems)) (ADVP (RB traditionally)) (VP (VBP recommend) (NP (JJ related) (NNS documents)) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (NN similarity) (NNS measures)))))) (. .))
+(S (NP (DT The) (NN context)) (VP (VBZ is) (ADVP (RB here)) (NP (NP (DT a) (JJ further) (NN specification)) (PP (IN of) (NP (DT the) (NN similarity))))) (. .))

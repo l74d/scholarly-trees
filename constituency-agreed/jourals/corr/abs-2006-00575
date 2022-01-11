@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP distill) (NP (NP (PRP$ their) (JJ generic) (NN architecture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (NP (NN candidate) (NN generation)) (, ,) (NP (NN entity) (NN ranking)) (, ,) (CC and) (NP (JJ unlinkable) (NN mention) (NN prediction) (NNS components)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP systemize) (NP (NP (DT the) (JJ critical) (NN design) (NNS features)) (PP (IN of) (NP (NNP EL) (NNS systems))))) (CC and) (VP (VB provide) (NP (PRP$ their) (VBN reported) (NN evaluation) (NNS results)))) (. .))

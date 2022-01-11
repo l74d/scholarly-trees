@@ -1,0 +1,1 @@
+(S (NP (NN Debugging)) (VP (VBZ is) (NP (NP (DT the) (NN verification)) (PP (IN of) (NP (NP (NNS computations)) (VP (VBN performed) (PP (IN on) (NP (DT the) (JJ neuromorphic) (NN chip))) (PP (IN during) (NP (NN inferencing)))))))) (. .))

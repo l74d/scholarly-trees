@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (VBZ is) (ADJP (JJ para-NP-hard)) (SBAR (WHADVP (WRB when)) (S (VP (VBN parameterized) (PP (IN by) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (JJ critical) (NN set)))))))))))) (. .))

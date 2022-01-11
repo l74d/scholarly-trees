@@ -1,0 +1,2 @@
+(S (ADVP (RB Interestingly)) (, ,) (NP (NNP LaPool)) (ADVP (RB also)) (VP (VBZ remains) (ADJP (JJ competitive) (PP (IN on) (NP (JJ non-molecular) (NNS tasks))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (NP (NNP LaPool) (POS 's)) (NN utility)) (PP (IN for) (NP (NP (DT the) (NN generation)) (PP (IN of) (NP (ADJP (JJ valid) (CC and) (JJ novel)) (NNS molecules)))))) (PP (IN by) (S (VP (VBG incorporating) (NP (PRP it)) (PP (IN into) (NP (DT an) (JJ adversarial) (NN autoencoder))))))) (. .))

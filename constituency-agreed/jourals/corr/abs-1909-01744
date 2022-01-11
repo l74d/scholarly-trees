@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN proof) (NNS systems)) (VP (VBP differ) (, ,) (ADVP (RB however)) (, ,) (PP (IN in) (NP (JJ several) (NNS aspects)))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP they)) (VP (VBP use) (NP (NN induction) (CC and) (NN coinduction)) (PP (IN in) (NP (JJ different) (NNS proportions)))) (. .))

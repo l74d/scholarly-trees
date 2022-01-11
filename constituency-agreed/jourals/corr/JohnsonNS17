@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB meet) (NP (DT these) (NNS requirements))))) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ elastic) (NN sensitivity)) (, ,) (NP (NP (DT a) (JJ novel) (NN method)) (PP (IN for) (S (VP (VBG approximating) (NP (NP (DT the) (JJ local) (NN sensitivity)) (PP (IN of) (NP (NP (NNS queries)) (PP (IN with) (NP (JJ general) (NNS equijoins)))))))))))) (. .))

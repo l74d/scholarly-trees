@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Robot) (NN control) (NNS policies)) (PP (IN for) (NP (ADJP (RB temporally) (VBN extended) (CC and) (VBN sequenced)) (NNS tasks)))) (VP (VBP are) (ADVP (RB often)) (VP (VBN characterized) (PP (IN by) (NP (NP (JJ discontinuous) (NNS switches)) (PP (IN between) (NP (JJ different) (JJ local) (NNS dynamics))))))) (. .))

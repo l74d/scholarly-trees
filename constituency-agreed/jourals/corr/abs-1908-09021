@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (ADJP (JJ simple) (, ,) (JJ intuitive) (CC and) (JJ natural))) (. .))
+(S (NP (PRP$ Our) (NN theory)) (VP (VBZ has) (NP (NP (NNS limitations)) (PP (IN in) (S (VP (VBG optimizing) (NP (DT the) (NN approximation) (NN accuracy))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT an) (NN agent)) (VP (VBG interacting) (PP (IN with) (NP (DT an) (JJ unknown) (NN environment)))))) (. .))
+(S (NP (DT The) (NN agent)) (VP (VBZ has) (NP (NP (DT a) (NN utility) (NN function)) (PP (IN on) (NP (NP (NNS outputs)) (PP (IN from) (NP (DT the) (NN environment))))))) (. .))

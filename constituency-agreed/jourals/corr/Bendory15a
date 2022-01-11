@@ -1,0 +1,2 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (DT the) (VBN estimated) (NNS delays)) (VP (VBP are) (VP (VBN clustered) (PP (IN around) (NP (DT the) (JJ true) (NNS delays))))) (. .))
+(S (SBAR (IN If) (S (NP (DT the) (NNS amplitudes)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ positive))))))))) (, ,) (NP (DT the) (NN separation)) (VP (VBZ is) (ADJP (JJ unnecessary))) (. .))

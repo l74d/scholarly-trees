@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN aspect)) (VP (MD can) (VP (VB be) (VP (VBN exploited) (PP (IN in) (NP (DT a) (NN bypass) (NN attack))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (DT the) (NN threat) (NN model))) (CC and) (VP (VB provide) (NP (NP (JJ preliminary) (NNS results)) (PP (IN of) (NP (DT an) (JJ online) (NN survey)))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (PRP$ our) (NNS results)))) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (JJ potential) (NNS countermeasures))) (. .))

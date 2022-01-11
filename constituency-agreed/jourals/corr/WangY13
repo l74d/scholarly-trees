@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP conduct) (NP (NNS experiments)) (PP (IN in) (NP (NP (DT a) (ADJP (RB manually) (VBN collected)) (NN dataset)) (CC and) (NP (DT a) (NNP Flickr) (NN dataset))))) (. .))
+(S (NP (DT The) (NN result)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (JJ such) (NN correlation)) (VP (VBZ improves) (NP (DT the) (NN clustering) (NN performance)))))) (. .))

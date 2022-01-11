@@ -1,0 +1,3 @@
+(S (NP (NNP Viterbi) (NN algorithm)) (VP (VBZ is) (VP (VBN applied) (PP (IN for) (NP (NN trellis) (NN decoding))))) (. .))
+(S (NP (NP (DT The) (JJ general) (NN framework)) (PP (IN for) (NP (NN code) (NN optimization)))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN scheme)) (VP (VBZ achieves) (NP (NP (JJ significant) (NN performance) (NNS gains)) (PP (IN over) (NP (JJ uncoded) (NNP Golden) (NN code))))))))) (. .))

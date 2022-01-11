@@ -1,0 +1,2 @@
+(S (NP (JJ Collaborative) (NN filtering) (NNS recommenders)) (VP (VBP provide) (NP (JJ effective) (NN personalization) (NNS services)) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG sacrificing) (NP (NP (DT the) (NN privacy)) (PP (IN of) (NP (PRP$ their) (NN end) (NNS users)))))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (JJ new) (NNS protocols)) (VP (VBP are) (ADJP (RB quite) (JJ efficient)))))) (. .))

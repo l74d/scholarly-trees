@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (, ,) (S (NP (DT this) (JJ logarithmic) (NN scaling)) (VP (VBZ is) (ADJP (ADJP (JJR lower)) (PP (IN than) (NP (NP (DT the) (JJ linear) (NN scaling)) (PP (IN of) (NP (NP (DT the) (NN rate)) (PP (IN in) (NP (DT the) (NN uplink))))))))))) (, ,) (NP (PRP it)) (VP (MD can) (ADVP (RB still)) (VP (VB bring) (NP (JJ significant) (NN throughput) (NNS gains)))) (. .))

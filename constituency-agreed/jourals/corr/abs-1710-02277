@@ -1,0 +1,1 @@
+(S (NP (NP (NN Feature) (NNS representations)) (PP (IN from) (NP (JJ pre-trained) (JJ deep) (JJ neural) (NNS networks)))) (VP (VBP have) (VP (VBN been) (VP (VBN known) (S (VP (TO to) (VP (VB exhibit) (NP (JJ excellent) (NN generalization) (CC and) (NN utility)) (PP (IN across) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ related) (NNS tasks))))))))))) (. .))

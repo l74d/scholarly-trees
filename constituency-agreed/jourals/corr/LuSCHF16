@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN face) (NNS edits)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ visual) (NN representation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ includes) (NP (NP (NN geometry)) (, ,) (NP (NN face) (NN segmentation)) (, ,) (NP (NN albedo)) (, ,) (NP (NN illumination)) (CC and) (NP (NN detail) (NN map)))))))))) (. .))
+(S (NP (PRP$ Our) (NN representation)) (VP (VBZ allows) (NP (JJ various) (NNS applications))) (. .))

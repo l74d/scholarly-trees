@@ -1,0 +1,1 @@
+(S (NP (NP (CD One) (NN way)) (PP (IN of) (S (VP (VBG reducing) (NP (DT the) (JJ computational) (NNS needs)))))) (VP (VBZ is) (S (VP (TO to) (VP (VB limit) (NP (NP (DT the) (JJ numerical) (NN precision)) (PP (IN of) (NP (DT the) (NN network) (NNS weights) (CC and) (NNS biases)))))))) (. .))

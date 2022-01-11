@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB handle) (NP (NN uncertainty)) (PP (IN in) (NP (JJ medical) (NN diagnosis))))))) (VP (VBZ is) (NP (DT an) (JJ open) (NN issue))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (CD two) (NNS experiments)) (, ,) (NP (NP (NN risk) (NN analysis)) (CC and) (NP (JJ medical) (NN diagnosis))) (, ,)) (VP (VBP are) (VP (VBN illustrated) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN methodology))))))))) (. .))

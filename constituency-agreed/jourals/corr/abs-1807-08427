@@ -1,0 +1,1 @@
+(S (ADVP (RB Thus)) (, ,) (NP (PRP$ our) (NNS algorithms)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB result) (PP (IN in) (NP (JJ large) (NNS speedups))) (SBAR (WHADVP (WRB when)) (S (VP (VBN compared) (PP (IN with) (S (VP (VBG analyzing) (NP (DT the) (JJ uncompressed) (NN trace))))))))))))) (. .))

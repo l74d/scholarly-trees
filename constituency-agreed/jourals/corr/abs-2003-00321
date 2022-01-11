@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NNP MIDNet)) (VP (VBZ is) (VP (VBN developed) (PP (IN as) (NP (DT a) (JJ semi-supervised) (NN learning) (NN paradigm))) (S (VP (TO to) (VP (VB alleviate) (NP (NP (DT the) (NN dependency)) (PP (IN on) (NP (VBN labeled) (NNS data))))))))) (. .))

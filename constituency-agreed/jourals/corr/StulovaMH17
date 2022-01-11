@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ attractive)) (NNS features)) (PP (IN of) (NP (JJ untyped) (NNS languages)))))) (VP (VBZ is) (NP (NP (DT the) (NN flexibility)) (PP (IN in) (NP (NN term) (NN creation) (CC and) (NN manipulation))))) (. .))
+(SINV (ADVP (RB However)) (, ,) (PP (IN with) (NP (JJ such) (NN power))) (VP (VBZ comes)) (NP (NP (DT the) (NN responsibility)) (PP (IN of) (S (VP (VBG ensuring) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT these) (NNS operations)))))))) (. .))

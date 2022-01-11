@@ -1,0 +1,2 @@
+(S (ADVP (RB Currently)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (JJ comprehensive) (NN basis)) (PP (IN for) (S (VP (VBG assessing) (CC and) (VBG improving) (NP (NP (DT the) (NN maintainability)) (PP (IN of) (NP (NN software) (NNS systems))))))))) (. .))
+(S (NP (NN Quality) (NNS models)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)))))))) (. .))

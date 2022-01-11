@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT The) (JJ first) (NN algorithm)) (VP (VBN presented))) (, ,) (NP (NNP DMaxWalkSat)) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NN constraint) (NN solver)) (VP (VBN specialized) (PP (IN for) (S (VP (VBG solving) (NP (JJ dynamic) (, ,) (JJ weighted) (NN constraint) (NN satisfaction) (NNS problems)))))))) (. .))

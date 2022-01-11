@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN convexity)) (PP (IN of) (NP (DT the) (JJ objective) (NN function)))) (VP (VBZ is) (VP (VBN ensured) (PP (IN by) (S (VP (VBG constraining) (NP (NP (DT the) (NN parameter)) (PP (IN of) (NP (DT the) (JJ non-convex) (NN penalty))))))))) (. .))

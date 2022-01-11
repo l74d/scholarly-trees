@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (CC and) (VBN implemented) (PP (IN as) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (DT a) (JJ conceptual) (NN analyser))))) (, ,) (S (ADVP (RB mainly)) (VP (TO to) (VP (VB process) (NP (NNS pronouns)))))))) (. .))
+(S (NP (NP (NNS Details)) (PP (IN of) (NP (DT an) (NN evaluation)))) (VP (VBP are) (VP (VBN given))) (. .))

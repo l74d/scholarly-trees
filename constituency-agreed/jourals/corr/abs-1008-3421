@@ -1,0 +1,1 @@
+(S (S (VP (VBG Solving) (NP (DT the) (NN utility) (NN maximization) (NN problem)) (ADVP (RB directly)))) (VP (VBZ is) (ADJP (JJ difficult)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ involves) (S (VP (VBG solving) (NP (ADJP (RB partially) (JJ observable)) (NNP Markov) (NN decision) (NNS processes)))))))) (. .))

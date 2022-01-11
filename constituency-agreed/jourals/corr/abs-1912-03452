@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ deep) (NNP CNN)) (VP (MD would) (ADVP (RB gradually)) (VP (VB learn) (NP (JJR better) (NN model)) (PP (IN from) (NP (NP (NNS samples)) (PP (IN with) (NP (JJR lower) (NN cost))))))) (. .))

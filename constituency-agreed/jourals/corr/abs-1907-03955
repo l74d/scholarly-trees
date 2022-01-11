@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ unknown) (NN obstacle)) (VP (VBZ is) (VP (VBN parameterized) (PP (IN in) (NP (PRP$ its) (JJ angular) (NN form))))) (. .))
+(S (NP (DT The) (JJ numerical) (NNS examples)) (VP (VBP verify) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (. .))

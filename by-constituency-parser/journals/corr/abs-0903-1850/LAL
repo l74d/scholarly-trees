@@ -1,0 +1,5 @@
+(S (NP (NP (DT An) (JJ algebraic) (NN notion)) (PP (IN of) (NP (JJ representational) (NN consistency)))) (VP (VBZ is) (VP (VBN defined))) (. .))
+(S (NP (NP (DT A) (NN theorem)) (VP (VBG relating) (NP (PRP it)) (PP (TO to) (NP (JJ free) (NNS actions))))) (VP (VBZ is) (VP (VBN proved))) (. .))
+(S (NP (NP (DT A) (NN metrizability) (NN problem)) (PP (IN of) (NP (NP (DT the) (NN quotient)) (PRN (-LRB- -LRB-) (NP (DT a) (NN shape) (NN space)) (-RRB- -RRB-))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (NP (DT This)) (VP (VBZ leads) (PP (TO to) (NP (NP (DT a) (JJ new) (JJ algebraic) (NN variety)) (PP (IN with) (NP (DT a) (NN metrizability) (NN result)))))) (. .))
+(S (NP (NP (DT A) (JJ concrete) (NN example))) (VP (VBZ is) (VP (VBN given) (PP (IN from) (NP (JJ stereo) (NN vision))))) (. .))

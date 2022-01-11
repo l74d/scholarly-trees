@@ -1,0 +1,2 @@
+(S (NP (JJ Complex) (NNS networks)) (VP (VBP have) (ADVP (RB recently)) (VP (VBN aroused) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN interest)))))) (. .))
+(S (NP (DT The) (NN p2c) (NN edge)) (VP (VBZ represents) (NP (NP (DT a) (JJ hierarchical) (NN relationship)) (PP (IN between) (NP (CD two) (NNS nodes)))) (, ,) (SBAR (IN while) (S (NP (DT the) (NN p2p) (NN edge)) (VP (VBZ represents) (NP (NP (DT an) (JJ equal) (NN relationship)) (PP (IN between) (NP (CD two) (NNS nodes)))))))) (. .))

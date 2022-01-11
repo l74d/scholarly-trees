@@ -1,0 +1,2 @@
+(S (NP (CD Four) (JJ different) (NNS algorithms)) (VP (VBP are) (VP (VBN proposed) (PP (VBN based) (PP (IN on) (NP (DT this) (NN idea)))))) (. .))
+(S (NP (DT The) (JJ other) (CD two)) (VP (MD may) (ADVP (RB even)) (VP (VB improve) (NP (DT the) (NN estimation) (NN error)) (PP (IN by) (S (VP (VBG introducing) (NP (NP (JJ statistical) (NN dependence)) (PP (IN between) (NP (NN signature) (NNS components))))))))) (. .))

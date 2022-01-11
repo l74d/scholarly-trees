@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN practice)) (PP (IN of) (S (VP (VBG using) (NP (DT these) (NNS methods)))))) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ their) (NN convergence) (NNS properties)) (VP (VBP tend) (S (VP (TO to) (VP (VB deteriorate) (PP (IN at) (NP (ADJP (RB relatively) (JJ high)) (NN noise) (NNS levels)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ employs) (NP (NP (DT a) (JJ Gaussian) (NN process) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ takes) (NP (NN probability) (NNS distributions)) (PP (IN as) (NP (NNS inputs)))))))) (. .))

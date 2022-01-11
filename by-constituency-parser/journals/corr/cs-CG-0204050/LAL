@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (NP (JJS shortest) (NNS paths)) (ADJP (NN homotopic) (PP (TO to) (NP (NP (DT a) (VBN given) (NN disjoint) (NN set)) (PP (IN of) (NP (NP (NNS paths)) (SBAR (WHNP (WDT that)) (S (VP (VBP wind) (PP (JJ amongst) (NP (NP (NN point) (NNS obstacles)) (PP (IN in) (NP (DT the) (NN plane))))))))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJR faster) (NN algorithm)) (SBAR (IN than) (S (ADVP (RB previously)) (VP (VBN known)))))) (. .))

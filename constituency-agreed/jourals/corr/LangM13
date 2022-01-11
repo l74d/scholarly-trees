@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Simplifications)) (PP (IN of) (NP (DT the) (NN formula)))) (VP (MD must) (VP (VB be) (VP (VBN applied) (PP (IN at) (NP (DT each) (NN step))) (, ,) (SBAR (RB so) (IN as) (S (VP (TO to) (VP (VB maintain) (NP (DT the) (NN formula)) (PP (IN at) (NP (DT a) (JJ tractable) (NN size)))))))))) (. .))

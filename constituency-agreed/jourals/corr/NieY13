@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN discussed) (PP (IN in) (NP (NP (DT the) (NN point)) (PP (IN of) (NP (DT the) (NN retailer))))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (NP (NN spot) (NN market)) (CC and) (NP (JJ future) (NN market))) (VP (VBP are) (DT both) (ADJP (JJ available))))) (, ,) (NP (PRP we)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN retailer)) (VP (VBZ chooses) (NP (DT the) (JJ optimal) (NN production)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN performance)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN trade) (NNS offs)) (PP (IN for) (S (VP (VBG using) (NP (NP (JJ linear) (NN regression)) (, ,) (NP (JJ Gaussian) (NN process)) (, ,) (CC and) (NP (JJ random) (NNS forests)))))))) (VP (VBP are) (VP (VBN discussed) (CC and) (VBN validated))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT some) (NNS conditions))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN proved) (SBAR (IN that) (S (NP (DT the) (JJ new) (NN approximation)) (VP (VBZ is) (ADJP (ADJP (RB asymptotically) (JJR better)) (PP (IN than) (NP (DT the) (NNP Bethe) (NN approximation))))))))) (. .))

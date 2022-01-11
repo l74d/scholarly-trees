@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (NP (NP (DT a) (CD 4) (NN approximation)) (PP (IN for) (NP (NP (DT the) (NN balance)) (PP (IN of) (NP (DT the) (NNS loads))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP assume) (NP (DT a) (JJ second) (NN approach)) (S (VP (TO to) (VP (VB get) (PP (IN around) (NP (NP (DT the) (NNS difficulties)) (PP (IN of) (NP (DT the) (NN feasibility))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN approach))) (, ,) (NP (PRP we)) (VP (VBP redefine) (CC and) (VBP convert) (NP (DT the) (NN problem)) (PP (IN into) (NP (DT a) (JJ multi-objective) (NN problem)))) (. .))
+(S (NP (NP (DT The) (NN algorithm)) (SBAR (S (NP (PRP we)) (VP (VBP propose))))) (VP (VBZ has) (NP (NP (DT a) (CD 4) (NN factor)) (PP (IN of) (NP (NN approximation))))) (. .))

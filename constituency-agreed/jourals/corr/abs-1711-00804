@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBD evaluated) (NP (NN performance)) (S (VP (VBG using) (NP (DT the) (NN search) (NN query)) (PP (IN as) (NP (JJ true) (NN label)))))) (CC and) (VP (VB compare) (NP (PRP it)) (PP (IN with) (NP (JJ human) (NN labeling))))) (. .))

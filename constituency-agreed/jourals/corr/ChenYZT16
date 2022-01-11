@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NP (DT the) (NN strategy)) (PP (IN of) (S (VP (VBG selecting) (NP (DT a) (NN candidate) (NN edge)))))) (VP (VBZ is) (VP (VBN dominated) (PP (IN by) (NP (JJ random) (NN selection))))))) (, ,) (NP (DT a) (JJ single) (JJ discontinuous) (NN percolation) (NN transition)) (VP (VBZ occurs)) (. .))

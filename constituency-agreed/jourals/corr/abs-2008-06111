@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP Whittle) (NN index) (NN heuristic)) (VP (VBZ is) (ADJP (JJ applicable)) (SBAR (IN if) (S (NP (DT the) (NN model)) (VP (VBZ satisfies) (NP (NP (DT a) (JJ technical) (NN condition)) (VP (VBN known) (PP (IN as) (NP (NN indexability))))))))) (. .))

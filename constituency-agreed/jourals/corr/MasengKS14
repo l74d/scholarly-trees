@@ -1,0 +1,2 @@
+(S (NP (DT An) (NN alternative)) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (DT a) (JJ centralized) (NN database)))))) (. .))
+(S (NP (NP (NNS Examples)) (PP (IN of) (NP (NP (JJ other) (NNS applications)) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB benefit) (PP (IN from) (NP (DT this) (NN system)))))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN presented))) (. .))

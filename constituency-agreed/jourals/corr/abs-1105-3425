@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP examine) (NP (NP (DT this) (NN source)) (PP (IN of) (NP (NN uncertainty)))) (PP (IN by) (S (VP (VBG considering) (NP (NP (DT a) (JJ simple) (JJ discrete) (NN model)) (PP (IN of) (NP (NN delay) (NNS errors)))))))) (. .))
+(S (NP (DT The) (JJ continuous) (NN process)) (VP (VBZ becomes) (NP (NP (DT the) (NN limit)) (PP (IN of) (NP (PRP$ our) (NN process)))) (SBAR (IN as) (S (NP (DT the) (NN time) (NN subdivision)) (VP (VBZ becomes) (ADJP (JJ infinitesimal)))))) (. .))

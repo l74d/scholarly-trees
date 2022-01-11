@@ -1,0 +1,2 @@
+(S (PP (IN Within) (NP (PRP it))) (, ,) (NP (NP (DT the) (NN preparation) (NN part)) (PP (IN of) (NP (NNS recipes)))) (VP (VBZ is) (VP (VBN formalised) (PP (IN as) (NP (DT a) (NN graph))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT the) (JJ automatic) (NN annotation) (NN process)))) (VP (VP (VBZ is) (ADVP (RB often)) (NP (NP (DT a) (JJ disconnected) (NN graph)) (, ,) (VP (VBG representing) (NP (DT an) (JJ incomplete) (NN annotation))))) (, ,) (CC or) (VP (MD may) (VP (VB contain) (NP (NNS errors))))) (. .))

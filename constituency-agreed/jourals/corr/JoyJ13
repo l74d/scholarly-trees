@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN section)) (VP (VBZ lists) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS issues)) (PP (IN in) (NP (NNP Mobile) (NNP Cloud) (NNP Computing))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNS cloudlets)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN architecture)) (VP (VBN designed) (PP (IN for) (NP (JJ mobile) (NN cloud) (NN computing))))))))))) (. .))

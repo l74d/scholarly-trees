@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PDT such) (DT a) (NN competence) (NN model)) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (PRP$ Our) (NN competence) (NN model)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT a) (NN competence) (NN description) (NN model)) (, ,) (NP (DT a) (NN competence) (NN verification) (NN method)) (, ,) (CC and) (NP (DT a) (NN competence) (NN search) (NN method))))) (. .))
+(S (NP (DT The) (NN competence) (NN verification) (NN method)) (VP (VBZ enables) (NP (NP (DT the) (NN verification)) (PP (IN of) (NP (NP (DT the) (NN reliance) (CC and) (NN relevance)) (PP (IN of) (NP (NN competence) (NNS descriptions))))))) (. .))

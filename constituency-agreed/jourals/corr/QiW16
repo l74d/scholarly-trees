@@ -1,0 +1,2 @@
+(S (NP (NNP Quantum) (NN amplifier) (NNS channels)) (VP (VBP are) (PP (IN at) (NP (NP (DT the) (NN core)) (PP (IN of) (NP (JJ several) (JJ physical) (NNS processes)))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN communication) (NNS capabilities)) (PP (IN of) (NP (NN quantum) (NN amplifier) (NNS channels))))) (. .))

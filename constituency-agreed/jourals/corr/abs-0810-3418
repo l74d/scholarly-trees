@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB introduce) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB detect) (NP (NP (DT the) (ADJP (RBS most) (JJ unusual)) (NN part)) (PP (IN of) (NP (DT a) (JJ digital) (NN image))))))))))))) (. .))

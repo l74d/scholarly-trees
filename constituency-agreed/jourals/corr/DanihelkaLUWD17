@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP train) (NP (DT a) (NN generator)) (PP (IN by) (NP (JJ maximum) (NN likelihood))))) (CC and) (S (NP (PRP we)) (ADVP (RB also)) (VP (VBP train) (NP (DT the) (JJ same) (NN generator) (NN architecture)) (PP (IN by) (NP (NNP Wasserstein) (NNP GAN))))) (. .))

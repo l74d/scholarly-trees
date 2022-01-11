@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (DT any) (NN segmentation)) (PP (IN of) (NP (DT the) (NN input) (NN paragraph)))))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (JJ differentiable) (NN attention) (NNS models)) (VP (VBN presented) (ADVP (RB recently)) (PP (IN for) (NP (NP (NN speech) (NN recognition)) (, ,) (NP (NN image) (NN captioning)) (CC or) (NP (NN translation))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ dual) (NN problem)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN parity) (NN check) (NN matrix)) (VP (VBZ has) (NP (DT a) (NN support) (NN constraint))))) (, ,)) (VP (VBZ comes) (PRT (RP up)) (PP (IN in) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (ADJP (RB locally) (JJ repairable)) (NNS codes)))))) (. .))

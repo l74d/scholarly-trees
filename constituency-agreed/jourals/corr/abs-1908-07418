@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN gait) (NN assessment)) (VP (VBZ is) (ADVP (RB finally)) (VP (VBN performed) (PP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ weighted) (NN combination)) (PP (IN of) (NP (DT these) (CD two) (NNS scores)))))))) (. .))
+(S (NP (DT The) (NN evaluation)) (VP (VBZ is) (VP (VBN performed) (PP (IN by) (S (VP (VBG experimenting) (PP (IN on) (NP (CD 6) (JJ simulated) (JJ abnormal) (NNS gaits)))))))) (. .))

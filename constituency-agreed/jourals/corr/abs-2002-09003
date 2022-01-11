@@ -1,0 +1,2 @@
+(S (NP (JJ Regular) (NNS transformations)) (VP (VBP are) (VP (VBN posed) (PP (IN by) (NP (NP (NNS homographies)) (PP (IN between) (NP (NP (CD two) (JJ projective) (NNS planes)) (SBAR (WHNP (WDT that)) (S (VP (VBZ serves) (PP (IN as) (NP (NP (JJ structural) (NNS models)) (PP (IN for) (NP (NNS images)))))))))))))) (. .))
+(S (NP (JJ Such) (NNS transformations)) (VP (MD can) (RB not) (VP (VB include) (NP (JJ degenerate) (NNS situations)))) (. .))

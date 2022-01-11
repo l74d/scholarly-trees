@@ -1,0 +1,1 @@
+(S (NP (JJR Lower) (NNS bounds)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT this) (JJ exponential) (NN dependence)) (PP (IN on) (NP (NN depth)))) (VP (VBZ is) (ADJP (JJ unavoidable)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT no) (JJ additional) (NNS properties)) (PP (IN of) (NP (DT the) (NN training) (NNS data)))) (VP (VBP are) (VP (VBN considered))))))))) (. .))

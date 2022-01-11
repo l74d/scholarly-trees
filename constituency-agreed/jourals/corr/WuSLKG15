@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ common) (NN example)) (PP (IN of) (NP (DT a) (NN function)))) (VP (VBZ is) (NP (NP (DT the) (NN inverse)) (PP (IN of) (NP (NP (DT a) (JJ large) (, ,) (JJ sparse) (NN matrix)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN focus)) (PP (IN of) (NP (DT this) (NN paper))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN decided) (ADVP (RB dynamically)) (PP (IN by) (NP (PRP$ our) (NN algorithm))))) (. .))

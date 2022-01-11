@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT this) (NN information)) (VP (VBZ is) (RB not) (ADJP (JJ available)))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (NNS agents)) (VP (VBP need) (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (NN observability) (NN problem)) (PP (IN of) (S (VP (VBG reconstructing) (NP (PRP$ their) (JJ relative) (NNS positions)) (PP (VBN based) (PP (IN on) (NP (NP (JJ other) (NNS measurements)) (PP (IN between) (NP (PRP them)))))))))))))) (. .))

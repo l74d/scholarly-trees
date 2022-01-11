@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (PRP$ our) (JJ recent) (NN paper))) (NP (PRP we)) (VP (VBD characterized) (NP (NP (DT the) (NN extension) (NN property)) (PP (IN for) (NP (JJ symmetrized) (NN weight) (NN composition))) (PP (IN for) (NP (JJ linear) (NNS codes))) (PP (IN over) (NP (DT a) (NN module) (NN alphabet))))) (. .))
+(S (NP (NP (JJ Several) (NNS improvements)) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NN vector) (NN space) (NNS alphabets)))))) (VP (VBP are) (VP (VBN given) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (NP (DT A) (JJ detailed) (NN description)) (PP (IN of) (NP (NP (DT the) (NN property)) (PP (IN of) (NP ($ $) (NNP G) ($ $) (NN -pseudo-injectivity))) (PP (IN for) (NP (NN vector) (NNS spaces)))))) (VP (VBZ is) (VP (VBN made))) (. .))

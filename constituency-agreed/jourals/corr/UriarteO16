@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (DT some) (NNS games))) (NP (JJ such) (JJ forward) (NN model)) (VP (VBZ is) (RB not) (ADJP (RB readily) (JJ available))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NN combat) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN from) (NP (NN replay) (NNS data))))))))) (. .))

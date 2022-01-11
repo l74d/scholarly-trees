@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB analyze) (NP (NP (DT a) (JJ new) (NN point)) (PP (IN of) (NP (NN view))))))) (, ,) (NP (PRP we)) (VP (VP (VBD extracted) (NP (JJ textural) (NNS features))) (CC and) (VP (VBD used) (NP (PRP them)) (PP (IN for) (NP (NN palmprint) (NN recognition))))) (. .))
+(S (NP (NN Co-occurrence) (NN matrix)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (JJ textural) (NN feature) (NN extraction)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB build) (NP (DT a) (ADJP (RBR more) (JJ powerful)) (JJ latent) (JJ variable) (NN model)) (PP (IN by) (S (VP (VBG incorporating) (NP (JJ autoregressive) (NNS flows)) (PP (IN within) (NP (DT the) (JJ variational) (NN autoencoder) (NN framework))))))) (. .))

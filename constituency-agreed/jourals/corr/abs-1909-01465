@@ -1,0 +1,1 @@
+(S (NP (NP (NN Type) (NNS qualifiers)) (, ,) (PP (JJ such) (IN as) (NP (NN reference) (NNS capabilities))) (, ,)) (VP (MD can) (VP (VB remove) (NP (NNS data) (NNS races)) (PP (IN by) (S (VP (VBG restricting) (NP (NP (NN sharing)) (PP (IN of) (NP (JJ mutable) (NNS data))))))))) (. .))

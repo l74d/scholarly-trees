@@ -1,0 +1,1 @@
+(S (S (ADVP (RB Moreover)) (, ,) (NP (NN command) (NN execution)) (VP (MD must) (VP (VB be) (ADJP (JJ deterministic))))) (: :) (S (NP (DT each) (NN replica)) (VP (MD must) (VP (VB produce) (NP (DT the) (JJ same) (NN output)) (PP (IN upon) (S (VP (VBG executing) (NP (NP (DT the) (JJ same) (NN sequence)) (PP (IN of) (NP (NNS commands)))))))))) (. .))

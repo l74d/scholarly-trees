@@ -1,0 +1,2 @@
+(NP (NNP Oper) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (NP (DT a) (JJ pseudo-polynomial) (NN algorithm)) (PP (IN for) (NP (DT the) (JJ special) (NN case)))) (CC and) (NP (NP (DT a) (JJ constructive) (NN heuristic)) (PP (IN for) (NP (DT the) (JJ general) (NN problem)))))) (. .))

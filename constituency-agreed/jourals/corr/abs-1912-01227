@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN polyhedron)) (VP (VBZ is) (VP (VBN identified) (PP (IN by) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (JJ nonnegative) (NNS integers))))))) (. .))
+(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NNS bands)))) (VP (VBZ is) (NP (NP (DT the) (JJS greatest) (JJ common) (NN divisor)) (PP (IN of) (NP (DT the) (CD two) (NNS numbers))))) (. .))

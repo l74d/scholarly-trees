@@ -1,0 +1,2 @@
+(S (NP (JJ Probabilistic) (NNS models)) (VP (VBP require) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN event) (NN space)))) (PP (IN for) (S (VP (VBG defining) (NP (DT a) (NN probability) (NN measure)))))) (. .))
+(S (NP (DT An) (NN event) (NN space)) (VP (VBZ has) (NP (NP (DT a) (NN probability) (NN measure)) (SBAR (WHNP (WDT which)) (S (VP (VBZ ensues) (NP (DT the) (NNP Kolmogorov) (NNS axioms))))))) (. .))

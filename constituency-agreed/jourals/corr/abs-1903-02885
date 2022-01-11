@@ -1,0 +1,1 @@
+(S (NP (NNP ScalableMax)) (VP (VP (MD can) (VP (VB handle) (NP (JJ additive) (NN noise)))) (CC and) (VP (VBZ works) (ADVP (RB well)) (PP (IN in) (NP (DT a) (JJ high) (NNP SNR) (NN regime))))) (. .))

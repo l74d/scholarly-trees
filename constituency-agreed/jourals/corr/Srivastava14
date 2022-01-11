@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN binarization) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ converts) (NP (JJ non-binary) (NNS data)) (PP (IN into) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ binary) (NNS strings)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ generic) (NN definition)) (PP (IN for) (NP (DT the) (NN feature) (NN complexity))))) (. .))
+(S (PP (IN As) (NP (DT a) (JJ generic) (JJ mathematical) (NN tool))) (, ,) (NP (NP (DT the) (NN feature) (NN complexity)) (CC and) (NP (DT the) (VBN proposed) (NNS metrics))) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB analyze) (NP (NP (DT the) (NN success)) (PP (IN of) (NP (NP (NN network) (NN compression)) (CC and) (NP (NN knowledge) (NN distillation))))))))))) (. .))

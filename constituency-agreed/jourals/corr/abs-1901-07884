@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (NP (DT a) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (VBZ transforms) (NP (JJ ordinal) (NNS targets)) (PP (IN into) (NP (JJ binary) (NN classification) (NNS subtasks))))))))) (, ,) (NP (JJ neural) (NNS networks)) (VP (VBD were) (VP (VBN equipped) (PP (IN with) (NP (JJ ordinal) (NN regression) (NNS capabilities))))) (. .))

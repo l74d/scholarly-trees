@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT the) (NN flexibility)) (PP (IN of) (S (VP (VBG modifying) (NP (DT a) (NN model)) (PP (IN during) (NP (NN training)))))))) (, ,) (NP (PRP we)) (VP (VBP find) (NP (NP (JJ accurate) (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB also)) (ADJP (JJ efficient) (PP (IN for) (NP (JJ private) (NN computation))))))))) (. .))

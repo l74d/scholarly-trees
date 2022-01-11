@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (NN hearing)))) (, ,) (NP (NNS animals)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB sense) (NP (NP (NNS targets)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (PP (IN outside) (PP (IN of) (NP (PRP$ their) (JJ visual) (NN range))))))))))))) (. .))
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN agent)) (VP (VBZ improves) (NP (PRP$ its) (NN behavior)) (SBAR (WHADVP (WRB when)) (S (NP (JJ visual) (NN information)) (VP (VBZ is) (VP (VBN accompanied) (PP (IN with) (NP (JJ audio) (NNS features))))))))))) (. .))

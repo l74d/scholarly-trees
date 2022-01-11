@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN in) (ADJP (JJ particular))) (PP (IN on) (NP (NP (DT the) (NN case)) (SBAR (WHADVP (WRB where)) (S (NP (DT all) (NNS hyperedges)) (VP (VBP have) (NP (NN size) (CD 3))))))) (, ,) (SBAR (IN as) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJS simplest) (JJ non-graph) (NN setting)))))) (. .))

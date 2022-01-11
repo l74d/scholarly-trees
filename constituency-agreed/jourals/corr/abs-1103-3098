@@ -1,0 +1,3 @@
+(S (NP (NP (NN Creation)) (PP (IN of) (NP (NN quantum) (NN computer)))) (VP (VBZ is) (NP (JJ outstanding) (ADJP (JJ fundamental) (CC and) (JJ practical)) (NN problem))) (. .))
+(S (NP (NP (DT The) (JJ first) (NN prototype)) (PP (IN of) (NP (JJ solid) (NN state) (NN quantum) (NN computer)))) (VP (VBD was) (VP (VBN created) (PP (IN in) (NP (CD 2009))) (PP (IN with) (NP (VBG superconducting) (NNS qubits))))) (. .))
+(S (S (NP (PRP It)) (VP (MD could) (VP (VB be) (NP (NP (JJ single) (NN impurity) (CC or) (NN vacancy) (NNS centers)) (PP (IN in) (NP (NNS solids))))))) (, ,) (CC but) (S (NP (NP (PRP$ their) (NN interaction)) (PP (IN with) (NP (JJ electromagnetic) (NN radiation)))) (VP (VBZ is) (ADJP (RB rather) (JJ weak)))) (. .))

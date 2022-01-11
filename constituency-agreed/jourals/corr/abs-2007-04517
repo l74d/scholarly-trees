@@ -1,0 +1,1 @@
+(S (S (NP (DT Each) (NN microgrid)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (DT an) (NN agent)))))) (, ,) (CC and) (S (NP (JJ different) (NNS agents)) (VP (VBP learn) (ADVP (RB collaboratively)) (PP (IN for) (S (VP (VBG maximizing) (NP (PRP$ their) (NNS rewards))))))) (. .))

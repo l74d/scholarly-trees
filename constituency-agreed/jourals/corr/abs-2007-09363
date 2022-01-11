@@ -1,0 +1,1 @@
+(S (PP (IN For) (S (VP (VBG designing) (NP (ADJP (RB highly) (JJ parallel)) (NNS systems))))) (, ,) (NP (NP (JJ available) (NN parallelism)) (PP (IN at) (NP (DT each) (NN granularity)))) (VP (VBZ is) (VP (VBN extracted) (PP (IN from) (NP (DT the) (NNS workloads))))) (. .))

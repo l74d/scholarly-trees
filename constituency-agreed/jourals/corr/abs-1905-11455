@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN capsule) (NNS networks))) (, ,) (NP (JJ scalar) (NNS neurons)) (VP (VBP are) (VP (VBN replaced) (PP (IN with) (NP (NP (NN capsule) (NNS vectors) (CC or) (NNS matrices)) (, ,) (SBAR (WHNP (WP$ whose) (NNS entries)) (S (VP (VBP represent) (NP (NP (JJ different) (NNS properties)) (PP (IN of) (NP (NNS objects))))))))))) (. .))

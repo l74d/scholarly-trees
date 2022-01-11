@@ -1,0 +1,1 @@
+(S (S (NP (NN Detection) (NN performance)) (VP (VBZ has) (VP (VBN been) (VP (VBN assessed) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (DT the) (JJ average) (NN accuracy)) (PP (IN over) (NP (JJ k-fold) (NN cross-validation))))))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD scored) (NP (CD 99.58) (NN %)) (PP (IN in) (NP (PRP$ our) (NNS tests))))) (. .))

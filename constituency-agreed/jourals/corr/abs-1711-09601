@@ -1,0 +1,2 @@
+(S (NP (NNS Humans)) (VP (MD can) (VP (VB learn) (PP (IN in) (NP (DT a) (JJ continuous) (NN manner))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (DT an) (JJ interesting) (NN connection)) (PP (IN between) (NP (NP (NP (DT a) (JJ local) (NN version)) (PP (IN of) (NP (PRP$ our) (NN method)))) (CC and) (NP (NP (NP (NNP Hebb) (POS 's)) (NN rule)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (NN model)) (PP (IN for) (NP (NP (DT the) (NN learning) (NN process)) (PP (IN in) (NP (DT the) (NN brain)))))))))))))) (. .))

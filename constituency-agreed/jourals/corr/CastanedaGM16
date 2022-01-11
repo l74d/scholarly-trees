@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT an) (JJ efficient) (NN protocol)) (SBAR (WHNP (WP$ whose) (NN decision) (NNS times)) (S (VP (MD can) (RB not) (VP (VB be) (VP (VBN improved) (PP (IN upon))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN description)) (PP (IN of) (NP (PRP$ our) (NN protocol)))) (VP (VBZ is) (ADJP (RB extremely) (JJ succinct))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN classification) (, ,) (NN location) (CC and) (NN adaptation)) (VP (VBP are) (VP (VBN combined) (PP (IN in) (NP (DT the) (NN learning))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBZ surpasses) (NP (NP (DT the) (JJ original) (NN baseline)) (PP (IN in) (NP (PRP$ our) (NNS experiments))))) (. .))

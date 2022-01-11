@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBZ expresses) (NP (NP (DT each) (NN instance)) (PP (IN in) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN time) (NN series)))))) (PP (IN as) (NP (NP (DT a) (JJ linear) (NN combination)) (PP (IN of) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (VBN shared) (NN basis) (NNS functions)))))))) (. .))

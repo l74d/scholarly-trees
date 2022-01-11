@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (DT both) (ADJP (JJ linear) (CC and) (JJ nonlinear)) (JJ hyperbolic) (JJ partial) (JJ differential) (NNS equations))) (, ,) (NP (DT the) (NN solution)) (VP (MD can) (VP (VB be) (ADJP (JJ discontinuous)))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (NP (JJ finite) (NN element) (NNS methods)) (PP (IN with) (NP (NN piecewise) (NNS polynomials)))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB approximate) (NP (DT these) (JJ discontinuous) (NNS solutions))))))))) (, ,) (NP (JJ numerical) (NNS solutions)) (ADVP (RB often)) (VP (VBP overshoot) (PP (IN near) (NP (DT a) (NN discontinuity)))) (. .))
+(SQ (MD Can) (NP (DT this)) (VP (VB be) (VP (VBN resolved) (PP (IN by) (NP (JJ adaptive) (NN mesh) (NNS refinements))))) (. ?))

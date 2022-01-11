@@ -1,0 +1,3 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (DT the) (NNS students)) (ADVP (RB often)) (VP (VBP miss) (CC or) (VBP lose) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN lecture) (NNS notes))))) (. .))
+(S (PP (IN With) (NP (NP (DT a) (JJ lightweight) (NN framework)) (PP (IN for) (NP (JJ handwritten) (NN trajectory) (NN processing))))) (, ,) (NP (JJ clear) (NN lecture) (NNS notes)) (VP (MD can) (VP (VB be) (VP (VBN generated) (ADVP (RB automatically))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NN lecture) (NNS notes)))) (PP (IN by) (NP (CD three) (JJ standard) (NN character) (NN recognition) (NNS techniques)))) (. .))

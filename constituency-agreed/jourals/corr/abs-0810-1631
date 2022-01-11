@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ main) (JJ computational) (NN overhead)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (PP (IN in) (S (VP (VBG inverting) (NP (NP (DT the) (JJ Hessian) (NN matrix)) (PP (IN of) (NP (DT the) (NNP Newton) (NN iteration)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (JJS Most) (JJ stochastic) (NN optimization) (NNS methods)) (VP (VBP use) (NP (NNS gradients)) (ADVP (RB once)) (PP (IN before) (S (VP (VBG discarding) (NP (PRP them)))))) (. .))

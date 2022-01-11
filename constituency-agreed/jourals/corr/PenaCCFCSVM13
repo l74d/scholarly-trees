@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NN validation)) (PP (IN of) (NP (NP (DT a) (JJ computational) (NN tool)) (SBAR (WHNP (WDT that)) (S (VP (VBZ serves) (S (VP (TO to) (VP (VB obtain) (NP (NP (JJ continuous) (NNS measurements)) (PP (IN of) (NP (VBG moving) (NNS objects)))))))))))))) (. .))
+(S (NP (DT The) (NN program)) (VP (VBD was) (VP (VBN applied) (S (VP (TO to) (VP (VB track) (NP (DT a) (NN ball)) (PP (IN around) (NP (DT a) (JJ simple) (NN pendulum)))))))) (. .))

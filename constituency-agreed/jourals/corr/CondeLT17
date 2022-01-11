@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (JJ deep) (JJ neural) (NN network)) (S (VP (TO to) (VP (VB estimate) (SBAR (WHADJP (WRB how) (JJ good)) (S (NP (DT a) (NN state)) (VP (VBZ is))))))) (, ,) (SBAR (IN so) (S (NP (DT the) (NN agent)) (VP (MD can) (VP (VB choose) (NP (NNS actions)) (ADVP (RB accordingly))))))) (. .))

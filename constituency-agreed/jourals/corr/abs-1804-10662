@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN value)) (PP (IN of) (NP (DT each) (NN element)))) (VP (VBZ is) (NP (NP (DT a) (NN code)) (VP (VBN associated) (PP (IN with) (NP (NP (DT the) (NNS semantics)) (PP (IN of) (NP (DT the) (NN road) (NN map)))))))) (. .))
+(S (PP (IN After) (S (VP (VBG being) (VP (VBN trained))))) (, ,) (NP (NNP ENet)) (VP (VBD achieved) (NP (NP (DT an) (JJ average) (NN segmentation) (NN accuracy)) (PP (IN of) (NP (CD 83.7) (NN %))))) (. .))

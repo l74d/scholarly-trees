@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS metrics)) (VP (VBP play) (NP (ADJP (RB increasingly) (JJ fundamental)) (NN role)) (PP (IN in) (NP (NP (DT the) (NN design) (, ,) (NN development) (, ,) (NN deployment) (CC and) (NN operation)) (PP (IN of) (NP (NN telecommunication) (NNS systems)))))) (. .))
+(S (S (NP (DT The) (JJ common) (NNS metrics) (NNS sources)) (VP (VBP are) (VP (VBN identified)))) (, ,) (CC and) (S (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNS metrics)) (VP (VBP are) (VP (VBN used) (CC and) (VBN selected))))) (VP (VBZ is) (VP (VBN discussed)))) (. .))

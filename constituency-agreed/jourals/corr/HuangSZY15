@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT an) (NN algorithm)) (ADJP (JJ suitable) (PP (IN for) (NP (NP (DT any) (NN number)) (PP (IN of) (NP (NNS channels))))))) (VP (VBZ is) (VP (VBN proposed) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NN subspace) (NNS techniques))))))))) (. .))

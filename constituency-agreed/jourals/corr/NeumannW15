@@ -1,0 +1,2 @@
+(S (NP (JJ Evolutionary) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (ADVP (RB frequently)) (VP (VBN used) (PP (IN for) (NP (JJ dynamic) (NN optimization) (NNS problems)))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN model)) (PP (IN of) (NP (NP (DT a) (JJ strong) (NN adversary)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB change) (NP (CD one) (NN job)) (PP (IN at) (NP (JJ regular) (NNS intervals)))))))))))))) (. .))

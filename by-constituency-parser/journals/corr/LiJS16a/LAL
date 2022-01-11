@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP consider) (NP (NP (VBG sampling)) (PP (IN from) (NP (PRN (-LRB- -LRB-) (JJ non-homogeneous) (-RRB- -RRB-)) (ADJP (RB strongly) (NNP Rayleigh)) (NN probability) (NNS measures))))) (. .))
+(S (PP (IN As) (NP (DT an) (JJ important) (NN corollary))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (NP (DT a) (JJ fast) (NN mixing) (NNP Markov) (NNP Chain) (NN sampler)) (PP (IN for) (NP (NNP Determinantal) (NNP Point) (NNP Processes))))) (. .))

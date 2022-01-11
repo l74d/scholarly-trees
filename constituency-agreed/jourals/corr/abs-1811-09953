@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VP (VBZ maintains) (NP (JJ competitive) (NN accuracy))) (CC and) (VP (VBZ achieves) (NP (NP (DT a) (JJ significant) (NN speedup)) (PP (IN over) (NP (JJ previous) (NNS methods))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Later)) (, ,) (NP (JJ many) (NNS authors)) (VP (VBD studied) (NP (NP (NNS properties)) (PP (IN of) (NP (DT this) (NN mean))))) (. .))
+(S (NP (DT This) (NN sequence)) (VP (VBZ generates) (NP (JJ many) (JJ nonnegative) (NNS differences))) (. .))

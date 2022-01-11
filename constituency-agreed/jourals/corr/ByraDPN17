@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ diagnostic) (NN accuracy)) (VP (VBZ depends) (PP (IN on) (NP (JJ ultrasonographer) (NN experience)))) (. .))
+(S (NP (NP (DT A) (NN dataset)) (PP (IN of) (NP (CD 214) (NN lesion) (NNS images)))) (VP (VBD was) (VP (VBN used) (PP (IN for) (NP (NN analysis))))) (. .))

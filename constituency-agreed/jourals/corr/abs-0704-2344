@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ finite) (NN element) (NN method)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB compute) (NP (ADJP (NN time) (JJ harmonic)) (NN microwave) (NNS fields)) (PP (IN in) (NP (ADJP (CD three) (JJ dimensional)) (NNS configurations)))))))) (. .))
+(S (NP (NP (NN Analysis)) (PP (IN of) (NP (DT the) (NN computation) (NN efficiency)))) (VP (VBZ is) (VP (VBN performed) (S (VP (VBG using) (NP (JJ simple) (NNS problems)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN protocol)) (VP (VBZ ensures) (SBAR (IN that) (S (NP (DT no) (NN slot)) (VP (VBZ is) (VP (VBN left) (S (ADJP (JJ vacant)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ guarantees) (NP (NP (JJ full) (NN use)) (PP (IN of) (NP (DT the) (JJ available) (NN spectrum))))) (. .))

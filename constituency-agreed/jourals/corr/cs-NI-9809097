@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NP (NN timeout) (NNS algorithms)) (VP (VBN proposed) (PP (IN in) (NP (DT the) (NN literature))))))) (VP (VBP have) (VP (VBN been) (VP (VBN decomposed) (PP (IN into) (NP (DT these) (CD five) (NNS layers)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT this) (NN layer)) (VP (VBZ has) (NP (NP (DT a) (JJ significant) (NN impact)) (PP (IN on) (NP (DT the) (NN network) (NN performance))))))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (JJ alternative) (NNS schemes)))) (VP (VBP have) (VP (VBN been) (VP (VBN presented)))) (. .))

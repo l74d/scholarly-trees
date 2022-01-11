@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB improve) (NP (DT the) (NN robustness)) (ADVP (RB further))))) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (NP (DT a) (NN search) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ identifies) (NP (DT the) (JJ optimal) (NN ensemble)) (PP (IN from) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN architecture) (NNS variants)))))))))) (. .))

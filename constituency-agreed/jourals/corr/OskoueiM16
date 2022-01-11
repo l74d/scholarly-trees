@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ latter)) (VP (VBZ stems) (PP (IN on) (NP (JJ complex) (NN vector) (NNS spaces)))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VP (VBP define) (NP (JJ algorithmic) (NN quantum) (NN capacity))) (CC and) (VP (VB prove) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ equals) (NP (DT the) (JJ standard) (CD one))))))) (. .))

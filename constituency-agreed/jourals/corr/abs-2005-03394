@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ objective) (NN value)) (VP (VP (VBZ is) (NP (NP (DT the) (JJ total) (NN completion) (NN time)) (PP (IN over) (NP (DT all) (NNS jobs))))) (, ,) (CC and) (VP (VBZ is) (VP (VBN compared) (PP (IN with) (NP (NP (DT the) (JJ objective) (NN value)) (PP (IN of) (NP (NP (DT an) (JJ optimal) (NN schedule)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ does) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB test))))))))))))))) (. .))
+(S (NP (CD Two) (NNS models)) (VP (VBP are) (VP (VBN studied) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

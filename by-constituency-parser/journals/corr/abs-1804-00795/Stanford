@@ -1,0 +1,6 @@
+(NP (NP (DT This) (NN paper) (NNS studies)) (NP (NP (DT the) (NN estimation)) (PP (IN of) (NP (NML (JJ low) (HYPH -) (NN rank)) (NNP Markov) (NNS chains))) (PP (IN from) (NP (JJ empirical) (NNS trajectories)))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ non-convex) (NN estimator)) (PP (VBN based) (PP (IN on) (NP (ADJP (NP (NN rank)) (HYPH -) (VBN constrained)) (NN likelihood) (NN maximization))))) (. .))
+(S (NP (DT The) (NN estimator)) (VP (VBZ reveals) (NP (NP (DT a) (ADJP (JJ compressed) (NN state)) (NN space)) (PP (IN of) (NP (DT the) (NNP Markov) (NN chain))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP develop) (NP (DT a) (JJ novel) (NML (NNP DC) (PRN (-LRB- -LRB-) (NP (NP (NN difference)) (PP (IN of) (NP (NN convex) (NN function)))) (-RRB- -RRB-))) (NN programming) (NN algorithm)) (S (VP (TO to) (VP (VB tackle) (NP (DT the) (ADJP (NP (NN rank)) (HYPH -) (VBN constrained)) (JJ non-smooth) (NN optimization) (NN problem)))))) (. .))
+(S (NP (NN Convergence) (NNS results)) (VP (VBP are) (VP (VBN established))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN estimator)) (VP (VBZ achieves) (NP (JJR better) (JJ empirical) (NN performance)) (PP (IN than) (NP (JJ other) (JJ popular) (NNS approaches))))))) (. .))

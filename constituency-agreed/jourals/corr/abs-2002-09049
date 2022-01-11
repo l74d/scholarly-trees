@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (JJ post-training) (NN quantization) (NN problem)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ discretizes) (NP (NP (DT the) (NNS weights)) (PP (IN of) (NP (JJ pre-trained) (JJ deep) (JJ neural) (NNS networks)))) (PP (IN without) (S (VP (VBG re-training) (NP (DT the) (NN model)))))))))) (. .))

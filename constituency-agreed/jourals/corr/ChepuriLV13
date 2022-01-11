@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (NN setup)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT a) (JJ few) (NNS sensors)) (VP (VBP are) (VP (VBN mounted) (PP (IN on) (NP (DT a) (JJ rigid) (NN body))))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (NP (DT the) (JJ absolute) (NN position)) (PP (IN of) (NP (DT the) (NNS sensors)))) (VP (VBZ is) (VP (VBN expressed) (PP (IN as) (NP (NP (DT an) (JJ affine) (NN function)) (PP (IN of) (NP (DT the) (NNP Stiefel) (NN manifold))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (JJ novel) (NNS applications)) (, ,) (PP (VBG including) (NP (NP (DT a) (JJ semi-supervised) (JJ distributional) (NN clustering) (NN problem)) (, ,) (CC and) (NP (NP (DT a) (JJ new) (NN loss) (NN function)) (PP (IN for) (NP (JJ unsupervised) (NNS data) (NN generation)))))))) (. .))

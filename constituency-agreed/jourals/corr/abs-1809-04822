@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ first) (JJ stable) (NN specification)) (PP (IN for) (NP (NNP QUIC) (NN v1)))) (VP (VBZ is) (VP (VBN expected) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 2018))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP revisit) (NP (NP (DT the) (JJ reliable) (NN transmission) (NNS mechanisms)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN included) (PP (IN in) (NP (NNP QUIC))))))))) (. .))

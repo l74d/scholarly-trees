@@ -1,0 +1,3 @@
+(S (NP (JJ Sequential) (NN scheduling)) (VP (VBZ raises) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (NP (DT the) (JJS best) (NN sequence)) (PP (IN of) (NP (NN message) (NNS updates))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBZ outperforms) (NP (JJ traditional) (NN scheduling)) (PP (IN for) (NP (NP (DT a) (JJ large) (NNS numbers)) (PP (IN of) (NP (NNS iterations)))))) (. .))
+(S (NP (NN Complexity) (CC and) (NN implementability) (NNS issues)) (VP (VBP are) (ADVP (RB also)) (VP (VBN addressed))) (. .))

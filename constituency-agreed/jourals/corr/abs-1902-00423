@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (QP (CD 3.3) (NN %) (CC and) (CD 10) (NN %))) (PP (IN of) (NP (NP (DT the) (NNS images)) (PP (IN from) (NP (NP (DT the) (NN test) (NNS sets)) (PP (IN of) (NP (DT these) (NNS datasets)))))))) (VP (VBP have) (NP (NP (NNS duplicates)) (PP (IN in) (NP (DT the) (NN training) (NN set)))))))) (. .))

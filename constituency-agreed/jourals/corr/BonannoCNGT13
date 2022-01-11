@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT A) (NN lot)) (PP (IN of) (NP (JJ available) (JJ experimental) (NNS data)))) (VP (VBD were) (VP (VBN used) (PP (IN for) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (DT the) (NNP RBFNN)))))))) (, ,) (CC and) (S (NP (DT a) (NN backpropagation) (NN algorithm)) (VP (VBD was) (VP (VBN employed)))) (. .))

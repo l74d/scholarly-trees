@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (NNS labels)) (VP (VBP are) (RB not) (VP (VBN required))))) (, ,) (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB be) (ADJP (RB fully) (JJ unsupervised)))) (. .))

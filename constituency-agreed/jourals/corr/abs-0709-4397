@@ -1,0 +1,2 @@
+(S (ADVP (RB Usually)) (, ,) (NP (JJ mathematical) (NNS objects)) (VP (VBP have) (NP (ADJP (RB highly) (JJ parallel)) (NNS interpretations))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (PRP them)) (PP (IN as) (NP (NP (JJ sequential) (NNS constructors)) (PP (IN of) (NP (JJ other) (NNS objects)))))) (. .))

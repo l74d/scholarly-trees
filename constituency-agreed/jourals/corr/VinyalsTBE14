@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (NN likelihood)) (PP (IN of) (NP (NP (DT the) (NN target) (NN description) (NN sentence)) (VP (VBN given) (NP (DT the) (NN training) (NN image))))))))))) (. .))

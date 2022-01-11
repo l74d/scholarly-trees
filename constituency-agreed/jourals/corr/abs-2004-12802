@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN achieved) (PP (PP (IN without) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (DT a) (JJ barycentric) (NN refinement))))) (CC and) (PP (IN with) (NP (NP (JJ low) (JJ computational) (NN overhead)) (PP (VBN compared) (PP (IN with) (NP (JJ other) (NNS schemes))))))))) (. .))

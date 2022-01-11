@@ -1,0 +1,1 @@
+(S (S (VP (VBG Solving) (NP (NP (JJ sequential) (NN decision) (NN prediction) (NNS problems)) (, ,) (PP (VBG including) (NP (NP (DT those)) (PP (IN in) (NP (NN imitation) (NN learning) (NNS settings))))) (, ,)))) (VP (VBZ requires) (S (VP (VBG mitigating) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN covariate) (NN shift))))))) (. .))

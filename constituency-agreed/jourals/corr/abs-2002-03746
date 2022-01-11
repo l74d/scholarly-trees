@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP it)) (VP (VBZ selects) (CC and) (VBZ decodes) (NP (NP (NNS exemplars)) (VP (VBG respecting) (NP (JJ local) (NN decision) (NNS rules))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (DT an) (JJ experimental) (NN evaluation)) (PP (IN on) (NP (NP (CD three) (NNS datasets)) (CC and) (NP (CD two) (JJ black) (NN box) (NNS models)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (DT the) (NN problem)) (SBAR (IN as) (S (VP (VBZ follows))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (NP (DT the) (NN paper)) (PP (IN with) (NP (NP (DT some) (NN discussion)) (PP (IN on) (NP (NP (NNS implications)) (PP (IN of) (NP (DT these) (JJ theoretical) (NNS results)))))))) (. .))

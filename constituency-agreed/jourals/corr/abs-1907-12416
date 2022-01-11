@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN method)) (VP (VBZ is) (ADJP (RB hardly) (JJ scalable) (PP (IN for) (NP (NP (JJ nonlinear) (NN classification) (NNS problems)) (PP (IN with) (NP (NNS kernels))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN time) (NN complexity)) (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (NN dimension))))))) (, ,) (NP (DT this) (NN method)) (VP (VBZ is) (ADJP (RB highly) (JJ suitable) (PP (IN for) (NP (NP (DT the) (NNS data)) (PP (IN in) (NP (JJ high) (NNS dimensions))))))) (. .))

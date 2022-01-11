@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ such) (NNS networks))) (, ,) (NP (NN network) (NNS entities)) (VP (VBP need) (S (VP (TO to) (VP (VB make) (NP (NNS decisions)) (ADVP (RB locally)) (S (VP (TO to) (VP (VB maximize) (NP (DT the) (NN network) (NN performance)) (PP (IN under) (NP (NP (NN uncertainty)) (PP (IN of) (NP (NN network) (NN environment)))))))))))) (. .))

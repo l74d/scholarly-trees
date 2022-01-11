@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN by) (S (VP (VBG communicating) (PP (IN with) (NP (DT each) (JJ other)))))) (, ,) (NP (NNS agents)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB benefit) (PP (IN from) (NP (NN side) (NNS observations))) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NN truth)) (ADVP (RB collectively)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP verify) (NP (PRP$ our) (JJ theoretical) (NNS findings)) (PP (IN by) (NP (NN simulation) (NNS examples)))) (. .))

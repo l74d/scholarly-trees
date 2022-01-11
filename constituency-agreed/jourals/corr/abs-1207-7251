@@ -1,0 +1,2 @@
+(S (NP (JJ Weighted) (NNS links)) (VP (VBP exist) (PP (IN between) (NP (NP (NNS nodes)) (PP (IN from) (NP (DT the) (ADJP (JJ same) (CC and) (JJ different)) (NNS classes)))))) (. .))
+(S (ADVP (RB Then)) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN hierarchy)))) (VP (MD will) (ADVP (RB inevitably)) (VP (VB comply))) (. .))

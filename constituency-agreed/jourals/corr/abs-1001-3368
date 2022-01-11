@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT both) (NNS approaches)) (VP (VBP are) (ADJP (JJ compatible) (PP (IN with) (NP (NN linearity) (CC and) (NN typeability) (NNS constraints)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (NN implementation) (NNS techniques)) (SBAR (WHNP (WDT that)) (S (VP (VBP exploit) (NP (NP (DT the) (NN linearity)) (PP (IN of) (NP (DT the) (NN calculi))))))))) (. .))

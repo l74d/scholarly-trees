@@ -1,0 +1,2 @@
+(S (NP (NN E-commerce)) (VP (VBZ is) (NP (DT an) (VBG emerging) (NN technology))) (. .))
+(SINV (ADVP (RB Then)) (VP (VBZ comes)) (NP (NP (DT the) (NN necessity)) (PP (IN of) (NP (NP (NN infrastructure) (NN integration)) (PP (IN with) (NP (DT the) (NN legacy) (NN system)))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (PP (IN In) (NP (NN fact))) (, ,) (NP (DT no) (NN program)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBN written))))))) (: :) (S (NP (PRP it)) (VP (VP (VBZ learns) (PP (IN by) (NP (PRP itself)))) (CC and) (VP (VBZ writes) (NP (PRP$ its) (JJ own) (NN program)) (S (VP (TO to) (VP (VB solve) (NP (DT a) (NN problem)))))))) (. .))
+(S (NP (PRP$ Our) (NN hardware)) (VP (VBZ is) (NP (DT a) (JJ multilayered) (NN seed) (NN structure))) (. .))

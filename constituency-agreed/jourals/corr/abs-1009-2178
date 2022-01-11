@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN method)) (PP (IN for) (S (VP (VBG extracting) (NP (JJ positive) (NN information)) (PP (IN from) (NP (JJ negative) (NNS goals))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (S (NP (NP (DT An) (NN implementation)) (PP (IN of) (NP (DT the) (NN simplification) (NN method)))) (VP (VBZ is) (VP (VBN presented)))) (CC and) (S (NP (PRP$ its) (NN complexity)) (VP (VBZ is) (VP (VBN analyzed)))) (. .))

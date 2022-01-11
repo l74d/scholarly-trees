@@ -1,0 +1,2 @@
+(S (NP (CD Three) (JJ different) (JJ convolutional) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN been) (VP (VBN chosen) (PP (IN for) (NP (PRP$ our) (NNS experiments)))))) (. .))
+(S (NP (NP (CD Three) (JJ different) (NNS positions)) (PP (IN for) (NP (DT the) (NNP BN) (NN layer)))) (VP (VBP have) (VP (VBN been) (VP (VBN studied) (PP (IN in) (NP (DT this) (NN research)))))) (. .))

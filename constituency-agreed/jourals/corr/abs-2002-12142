@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN procedure)) (VP (VBZ is) (VP (VBN developed) (CC and) (VBN verified) (PP (IN by) (S (VP (VBG validating) (PP (IN for) (NP (DT a) (JJ cantilevered) (NN beam) (NN problem)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (NN addition)) (PP (IN of) (NP (DT a) (JJ simple) (NNP Tikhonov) (NN regularization)))) (VP (MD can) (VP (VB improve) (NP (DT the) (NN reconstruction)))))))) (. .))

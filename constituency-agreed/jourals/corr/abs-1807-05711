@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (PRP$ our) (NN case))) (NP (PRP we)) (VP (VBP do) (RB not) (VP (VP (VB use) (NP (DT the) (JJ traditional) (NN backpropagation) (NN method))) (CC and) (VP (VB train) (NP (DT a) (NN softmax) (NN layer)) (PP (IN for) (NP (NN classification)))))) (. .))

@@ -1,0 +1,2 @@
+(SBARQ (WHADVP (WRB How)) (S (VP (TO to) (VP (VB generate) (NP (NNS descriptions)) (PP (IN from) (NP (NP (VBN structured) (NNS data)) (VP (VBN organized) (PP (IN in) (NP (NNS tables))))))))) (. ?))
+(S (NP (PRP We)) (VP (VBP claim) (SBAR (IN that) (S (NP (NP (DT an) (JJ open) (NN set)) (PP (IN of) (NP (NNS templates)))) (VP (VBZ is) (ADJP (JJ crucial) (PP (IN for) (S (VP (VP (VBG enriching) (NP (DT the) (NN phrase) (NNS constructions))) (CC and) (VP (VBG realizing) (NP (JJ varied) (NNS generations))))))))))) (. .))

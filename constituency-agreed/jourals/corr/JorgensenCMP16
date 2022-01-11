@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ has) (NP (NP (NP (JJ linear) (NN time) (NN complexity)) (PP (IN in) (NP (DT the) (NN team) (NN size)))) (CC and) (NP (NP (JJ polynomial) (NN complexity)) (PP (IN in) (NP (DT the) (NN graph) (NN size)))))) (. .))

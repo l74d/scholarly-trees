@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (MD may) (VP (VB approximate) (NP (JJ delta) (NN distribution)) (PP (IN by) (NP (NP (JJ Gaussian) (NN distribution)) (PP (IN with) (NP (ADJP (RB very) (JJ small)) (NN variance))))))) (. .))

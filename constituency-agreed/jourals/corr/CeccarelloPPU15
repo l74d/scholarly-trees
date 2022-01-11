@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN core)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (NP (NP (DT a) (JJ weighted) (NN graph) (NN decomposition) (NN strategy)) (VP (VBG generating) (NP (NP (NN disjoint) (NNS clusters)) (PP (IN of) (NP (VBN bounded) (JJ weighted) (NN radius))))))) (. .))

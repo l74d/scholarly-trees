@@ -1,0 +1,2 @@
+(S (NP (NN Communication) (NNS networks)) (VP (VBP involve) (NP (NP (DT the) (NN transmission) (CC and) (NN reception)) (PP (IN of) (NP (NP (JJ large) (NNS volumes)) (PP (IN of) (NP (NNS data))))))) (. .))
+(S (NP (NN Research)) (VP (VBZ indicates) (SBAR (IN that) (S (NP (NN network) (NN traffic) (NNS volumes)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB increase))))))))) (. .))

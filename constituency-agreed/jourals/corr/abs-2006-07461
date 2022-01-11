@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG learning) (NP (DT these) (NNS structures)))) (VP (VBZ is) (NP (NP (DT a) (JJ hard) (NN problem)) (PP (IN in) (NP (PRP itself))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (DT the) (NN weight)) (VP (VBN associated) (PP (IN with) (NP (DT that) (NN feature))))) (VP (VBZ is) (ADVP (RB constantly)) (VP (VBG changing))) (. .))

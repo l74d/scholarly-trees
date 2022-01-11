@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP explore) (S (VP (VBG combining) (NP (NN dropout)) (PP (IN with) (NP (JJ robust) (NN training) (NNS methods)))))) (CC and) (VP (VB obtain) (NP (JJR better) (NN generalization)))) (. .))

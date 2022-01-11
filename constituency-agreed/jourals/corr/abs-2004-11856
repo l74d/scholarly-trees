@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNS agents)) (VP (VBP are) (VP (VBN coupled) (PP (IN in) (NP (NP (PRP$ their) (NNS dynamics)) (CONJP (RB as) (RB well) (IN as)) (NP (DT a) (JJ quadratic) (NN cost)))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ has) (NP (NP (JJ partial) (NN output) (NN feedback)) (PP (IN with) (NP (ADJP (RB partially) (VBN nested)) (NN information) (NN structure))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (RB not) (VP (VBN assumed) (SBAR (IN that) (S (NP (DT the) (NN noise) (NN process)) (VP (VBZ has) (NP (DT a) (JJ Gaussian) (NN distribution))))))) (. .))

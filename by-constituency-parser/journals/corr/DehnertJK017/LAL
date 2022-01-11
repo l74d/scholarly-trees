@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP launch) (NP (DT the) (JJ new) (JJ probabilistic) (NN model) (NN checker) (NN storm))) (. .))
+(S (NP (PRP It)) (VP (VBZ features) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NP (ADJP (JJ discrete-) (CC and) (JJ continuous-time)) (NNS variants)) (PP (IN of) (NP (DT both) (NP (NNP Markov) (NNS chains)) (CC and) (NP (NNP MDPs)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ supports) (NP (NP (DT the) (NNP PRISM) (CC and) (NNP JANI) (NN modeling) (NNS languages)) (, ,) (NP (JJ probabilistic) (NNS programs)) (, ,) (NP (JJ dynamic) (NN fault) (NNS trees)) (CC and) (NP (VBN generalized) (JJ stochastic) (NNP Petri) (NNS nets)))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (NP (NP (DT a) (JJ modular) (NN set-up)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (NNS solvers)) (CC and) (NP (JJ symbolic) (NNS engines))) (VP (MD can) (ADVP (RB easily)) (VP (VB be) (VP (VBN exchanged)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ offers) (NP (NP (DT a) (NNP Python) (NNP API)) (PP (IN for) (NP (JJ rapid) (NN prototyping)))) (PP (IN by) (S (VP (VBG encapsulating) (NP (NP (NN storm) (POS 's)) (ADJP (NN fast) (CC and) (JJ scalable)) (NN algorithms)))))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS benchmarks)))))) (VP (VBP show) (NP (PRP$ its) (JJ competitive) (NN performance))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (DT a) (NN terrain) (NN estimation) (NN framework)) (VP (VBZ is) (VP (VBN developed) (PP (IN for) (NP (NP (JJ autonomous) (NNS vehicles)) (VP (VBG operating) (PP (IN on) (NP (JJ deformable) (NNS terrains)))))))) (. .))
+(S (NP (DT This) (JJ surrogate) (NN model)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN utilized) (PP (IN in) (NP (DT a) (JJ unscented) (NNP Kalman) (NN filter))) (S (VP (TO to) (VP (VB estimate) (NP (DT the) (NN sinkage) (NN exponent))))))) (. .))

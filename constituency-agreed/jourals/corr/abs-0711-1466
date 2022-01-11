@@ -1,0 +1,2 @@
+(S (NP (ADJP (JJ Homogeneous) (CC and) (JJ inhomogeneous)) (NNS networks)) (VP (VBP are) (VP (VBN studied) (PP (IN as) (NP (NP (DT a) (NN model)) (VP (VBG underlying) (NP (DT the) (JJ social) (NN interaction))))))) (. .))
+(S (NP (NNP Simulation) (NN experiment)) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN over) (NP (DT a) (JJ homogeneous) (NN network))))) (. .))

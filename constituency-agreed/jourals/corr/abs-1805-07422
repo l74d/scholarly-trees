@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ potential) (JJ cyber-physical) (NNS attacks)) (VP (VBP are) (ADVP (RB then)) (VP (VBN reviewed) (PP (IN for) (NP (DT each) (NN attack) (NN surface))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (JJ several) (JJ mathematical) (NNS tools)) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB help) (PP (IN in) (NP (NP (NN analysis) (CC and) (NN implementation)) (PP (IN of) (NP (NN security) (NNS solutions)))))))))) (VP (VBP are) (VP (VBN summarized))) (. .))

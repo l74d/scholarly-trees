@@ -1,0 +1,2 @@
+(S (NP (NP (NN Opinion) (NN formation)) (PP (IN in) (NP (DT the) (NN population)))) (VP (VBZ has) (VP (VBN attracted) (NP (JJ extensive) (NN research) (NN interest)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP study) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (JJ non-uniform) (NN distribution)) (PP (IN of) (NP (DT the) (NN opinion) (VBG changing) (NN probability)))) (VP (MD may) (VP (VB affect) (NP (NP (DT the) (JJ final) (NN state)) (PP (IN of) (NP (NN opinion) (NN distribution)))))))))) (. .))

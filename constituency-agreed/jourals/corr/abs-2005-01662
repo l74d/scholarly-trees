@@ -1,0 +1,1 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (NN reconstruction) (NNS parameters)) (SBAR (WHNP (WDT that)) (S (VP (VBP tune) (NP (NNS data) (NN fidelity)))))) (VP (MD can) (VP (VB be) (VP (VBN manipulated) (PP (IN throughout) (NP (DT the) (NN computation))) (PP (IN without) (S (VP (VBG rerunning) (NP (DT the) (JJ entire) (NN process)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (NNP SFG))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VP (VB divide) (NP (DT the) (JJ whole) (NNS features)) (PP (IN into) (NP (JJ different) (NNS groups)))) (, ,) (CC and) (VP (VB improve) (NP (NP (DT the) (JJ intrinsic) (NN structure)) (PP (IN of) (NP (NNS data)))) (PP (IN by) (S (VP (VBG removing) (NP (VBN detected) (JJ redundant) (NNS features)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN computer) (NN analysis)) (VP (VBZ is) (VP (VBN done) (PP (IN of) (NP (DT the) (CD 8))))) (. !))
+(NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS permutations)) (PP (IN of) (NP (DT the) (CD 8))))) (. !))

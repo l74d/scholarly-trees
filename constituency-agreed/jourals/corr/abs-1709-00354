@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN trained) (PP (PP (IN in) (CC either) (NP (NP (DT a) (JJ supervised) (NN scenario)) (VP (VBG using) (NP (VBN labeled) (NNS data))))) (, ,) (CC or) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN fashion))))))) (. .))

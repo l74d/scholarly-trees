@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ classical) (NN scheduling) (NNS problems))) (, ,) (NP (PRP we)) (VP (VP (VBP are) (VP (VBN given) (NP (NNS jobs) (CC and) (NNS machines)))) (, ,) (CC and) (VP (VBP have) (S (VP (TO to) (VP (VB schedule) (NP (PDT all) (DT the) (NNS jobs)) (S (VP (TO to) (VP (VB minimize) (NP (DT some) (JJ objective) (NN function)))))))))) (. .))

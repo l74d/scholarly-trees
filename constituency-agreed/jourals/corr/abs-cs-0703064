@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NP (JJ automatic) (NNS presentations)) (PP (IN for) (NP (JJ various) (JJ algebraic) (NNS structures))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT no) (JJ infinite) (JJ integral) (NN domain)) (VP (VBZ is) (ADJP (JJ automatic))) (. .))
+(S (NP (PRP$ Our) (JJ second) (NN topic)) (VP (VBZ is) (NP (DT the) (NN isomorphism) (NN problem))) (. .))

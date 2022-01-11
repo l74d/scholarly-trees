@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ objective) (NN function)) (VP (VP (VBZ depends) (ADVP (RB nonlinearly)) (PP (IN on) (NP (DT the) (NNS parameters)))) (CC and) (VP (MD may) (VP (VB have) (NP (JJ multiple) (JJ local) (NN minimum) (NNS points))))) (. .))

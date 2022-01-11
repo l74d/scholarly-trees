@@ -1,0 +1,1 @@
+(S (PP (RB Instead) (IN of) (S (VP (VBG computing) (NP (DT the) (NN model) (NNS parameters)) (S (VP (VBG using) (NP (JJ iterative) (NN optimization))))))) (, ,) (NP (DT the) (NNP PCA)) (VP (VBZ is) (VP (VBN included) (PP (IN in) (NP (NP (DT a) (JJ deep) (JJ neural) (NN network)) (VP (VBG using) (NP (DT a) (JJ novel) (NN layer) (NN type))))))) (. .))

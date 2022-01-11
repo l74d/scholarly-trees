@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (JJ new) (NNS tradeoffs)) (PP (IN between) (NP (NP (NN quantum) (NNS queries)) (, ,) (NP (JJ classical) (NN time)) (CC and) (NP (JJ classical) (NN memory))))) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)))))) (. .))

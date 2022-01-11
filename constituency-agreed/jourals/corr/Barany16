@@ -1,0 +1,1 @@
+(S (NP (NP (NN Information) (NN flow)) (PP (IN through) (NP (NP (NNS arrays)) (PP (IN of) (NP (NNS pointers)))))) (VP (VBZ is) (VP (VBN tracked) (ADVP (RB precisely)) (SBAR (IN while) (S (NP (NP (NNS arrays)) (PP (IN of) (NP (JJ non-pointer) (NNS types)))) (VP (VBP are) (VP (VBN summarized) (ADVP (RB efficiently)))))))) (. .))

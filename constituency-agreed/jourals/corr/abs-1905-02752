@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT another) (NN edit) (NN distance)) (PP (IN for) (NP (NNS permutations)))) (VP (VBZ is) (NP (NP (NNP Kendall) (NN tau) (NN distance)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ pairwise) (NN element) (NNS inversions))))))))) (. .))

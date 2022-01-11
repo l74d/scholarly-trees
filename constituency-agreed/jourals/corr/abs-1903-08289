@@ -1,0 +1,2 @@
+(S (NP (NN Opinion) (NNS spammers)) (VP (VBP manipulate) (NP (NNS reviews)) (, ,) (S (VP (VBG affecting) (NP (NP (DT the) (JJ overall) (NN perception)) (PP (IN of) (NP (DT the) (NN service))))))) (. .))
+(S (NP (NP (DT A) (JJ key) (NN challenge)) (PP (IN in) (S (VP (VBG detecting) (NP (NN opinion) (NN spam)))))) (VP (VBZ is) (VP (VBG obtaining) (NP (NN ground) (NN truth)))) (. .))

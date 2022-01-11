@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB recover) (NP (DT the) (NNS clusters)) (PP (IN with) (NP (NP (JJ minimum) (NN number)) (PP (IN of) (NP (JJ such) (NNS queries))))))))) (. .))
+(S (NP (DT This) (NN problem)) (VP (VBZ has) (VP (VBN been) (PP (IN of) (NP (JJ recent) (NN interest))) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NN disjoint) (NNS clusters))))))) (. .))

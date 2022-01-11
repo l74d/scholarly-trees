@@ -1,0 +1,2 @@
+(S (NP (JJ Current) (NN middleware) (NNS systems)) (VP (VBP suffer) (PP (IN from) (NP (NNS drawbacks)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN code) (NN transformation) (NNS techniques)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN project)))))))))))) (. .))

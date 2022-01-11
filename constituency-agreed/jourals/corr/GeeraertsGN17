@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT the) (NN multiprocessor) (NN setting))) (, ,) (NP (DT this) (NN problem)) (VP (VBZ is) (ADJP (RB notoriously) (JJ difficult))) (. .))
+(S (PP (IN In) (NP (NN practice))) (, ,) (ADVP (RB however)) (NP (DT this) (NN approach)) (VP (VBZ is) (VP (VBN limited) (PP (IN by) (NP (NP (DT the) (JJ intractable) (NN size)) (PP (IN of) (NP (DT the) (NN graph))))))) (. .))
+(S (NP (DT These) (NNS techniques)) (VP (VP (VBP are) (VP (VBN inspired) (PP (IN from) (NP (NP (NNS results)) (PP (IN from) (NP (DT the) (JJ formal) (NNS methods) (NN community))))))) (, ,) (CC and) (VP (VB exploit) (NP (NP (DT the) (JJ specific) (NN structure)) (PP (IN of) (NP (DT the) (NN feasibility) (NN problem)))))) (. .))

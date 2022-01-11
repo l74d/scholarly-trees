@@ -1,0 +1,2 @@
+(S (S (VP (VBG Modifying) (NP (NP (DT the) (NN geometry)) (PP (IN of) (NP (NP (DT the) (NN periphery)) (PP (IN of) (NP (NP (DT the) (NNS wheels)) (PP (IN of) (NP (PRP$ our) (NN robot)))))))))) (VP (VBZ helps) (PP (IN in) (S (VP (VBG tackling) (NP (NNS overhangs)))))) (. .))
+(S (ADVP (IN Along) (PP (IN with) (S (VP (VBG establishing) (NP (DT a) (NN concept) (NN design)))))) (, ,) (NP (JJ robust) (NN design) (NNS parameters)) (VP (VBP are) (VP (VBN set) (S (VP (TO to) (VP (VB minimize) (NP (NN performance) (NN variation))))))) (. .))

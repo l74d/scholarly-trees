@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (JJ exact) (NN algorithm)) (PP (IN for) (NP (DT the) (NNP Steiner) (NN tree) (NN problem))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ certain) (JJ pre-computed) (NN index) (NNS structures))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VP (VBZ offers) (NP (NP (DT a) (JJ practical) (NN solution)) (PP (IN for) (NP (DT the) (NNP Steiner) (NN tree) (NNS problems)))) (PP (IN on) (NP (NP (NNS graphs)) (PP (IN of) (NP (JJ large) (NN size)))))) (CC and) (VP (VBN bounded) (NP (NP (NN number)) (PP (IN of) (NP (NNS terminals)))))) (. .))

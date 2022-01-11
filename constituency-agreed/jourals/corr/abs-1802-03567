@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG choosing) (NP (DT a) (JJ good) (NN classifier))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN end))) (, ,) (NP (JJ random) (NNS forests)) (VP (VBP turn) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (NP (DT the) (JJS best) (NNS classifiers)))))) (. .))

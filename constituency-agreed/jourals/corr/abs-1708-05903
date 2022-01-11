@@ -1,0 +1,1 @@
+(S (S (VP (VBG Removing) (NP (DT these) (NNS edges)) (PP (IN from) (NP (DT the) (NN graph))))) (VP (VBZ cuts) (NP (PRP it)) (PP (IN into) (NP (NP (JJ several) (JJR smaller) (NNS instances)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN solved) (ADVP (RB recursively)))))))))) (. .))

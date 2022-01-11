@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG applying) (NP (JJ deep) (NN learning)))) (VP (VBZ is) (ADJP (JJ problematic)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (NN training) (NNS data)))) (VP (VBP are) (RB not) (ADJP (JJ available)))))) (. .))

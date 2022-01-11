@@ -1,0 +1,2 @@
+(S (S (NP (EX There)) (VP (VBP are) (NP (NP (CD two) (JJ main) (NNS approaches)) (, ,) (VP (VBN known) (PP (IN as) (NP (NP (NP (NNP Jeffrey) (POS 's)) (NN rule)) (CC and) (NP (NP (NNP Pearl) (POS 's)) (NN method)))))))) (: ;) (S (NP (PRP they)) (VP (VBP give) (NP (JJ different) (NNS outcomes)) (PP (IN on) (NP (JJ soft) (NN evidence))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ argues) (SBAR (IN that) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN understood) (PP (PP (IN as) (NP (NN correction))) (CC and) (PP (IN as) (NP (NN improvement)))))))))) (. .))

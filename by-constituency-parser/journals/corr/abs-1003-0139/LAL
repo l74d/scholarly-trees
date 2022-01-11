@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ shows) (SBAR (IN that) (S (PP (IN for) (NP (JJ binary) (NN search) (NNS trees))) (, ,) (NP (NP (JJ optimal) (JJ worst-case) (NN access) (NN time)) (CC and) (NP (JJ near-optimal) (JJ amortized) (NN access) (NN time))) (VP (MD can) (VP (VB be) (VP (VBN guaranteed) (ADVP (RB simultaneously)))))))) (. .))

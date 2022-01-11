@@ -1,0 +1,2 @@
+(S (NP (NNS Trees)) (VP (VBP have) (ADVP (RB long)) (VP (VBN been) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (JJ graphical) (NN representation)) (PP (IN of) (NP (NNS species) (NNS relationships)))))))) (. .))
+(S (ADVP (RB Alternatively)) (, ,) (NP (JJ various) (NN network) (NNS representations)) (VP (VBP have) (VP (VBN been) (VP (VBN developed)))) (. .))

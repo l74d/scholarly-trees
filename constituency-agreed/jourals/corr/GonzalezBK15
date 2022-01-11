@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP analyze) (NP (NP (DT the) (NN cost) (NNS complexities)) (PP (IN of) (NP (NP (NN cable)) (, ,) (NP (JJ key) (NNS exchangers)) (, ,) (CC and) (NP (NP (NN time)) (VP (VBN required) (PP (IN in) (NP (DT the) (NN star) (NN network))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBD mentioned) (NP (NP (DT the) (NN reliability)) (PP (IN of) (NP (DT the) (NN star) (NN network))))) (CC and) (VP (VB compare) (NP (PRP it)) (PP (IN with) (NP (JJ other) (NN network) (NNS geometries))))) (. .))

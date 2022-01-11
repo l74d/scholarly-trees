@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NNP SPD) (NN matrix)) (VP (MD must) (ADVP (RB first)) (VP (VB be) (VP (VBN transformed) (PP (IN into) (NP (DT a) (JJ long) (NN vector))))))) (, ,) (CC and) (S (ADVP (RB then)) (NP (NP (DT the) (NN dimension)) (PP (IN of) (NP (DT this) (NN vector)))) (VP (MD must) (VP (VB be) (VP (VBN reduced))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN approach)) (VP (VBZ breaks) (NP (NP (DT the) (JJ spatial) (NN structure)) (PP (IN of) (NP (DT the) (NNP SPD) (NN matrix) (NN space))))) (. .))

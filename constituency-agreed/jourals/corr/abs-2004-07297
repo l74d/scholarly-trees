@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (NNS applications)) (VP (VBP require) (NP (NP (VBG computing) (NNS distances)) (PP (IN between) (NP (JJ different) (NNS people))))) (. .))
+(S (NP (DT The) (NN protocol)) (VP (VBZ is) (VP (VBN analyzed) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN security) (CC and) (NN performance))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Proteins)) (VP (VBP execute) (NP (NP (JJ various) (NNS activities)) (VP (VBN required) (PP (IN by) (NP (JJ biological) (NNS cells)))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (NN msTALI)))) (PP (IN across) (NP (CD three) (NN protein) (NNS families)))) (. .))

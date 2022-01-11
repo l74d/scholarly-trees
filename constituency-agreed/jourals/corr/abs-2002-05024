@@ -1,0 +1,5 @@
+(S (NP (NP (DT Some) (NNS components)) (PP (IN of) (NP (DT the) (NN library)))) (VP (VBP have) (NP (NP (NN support)) (PP (IN for) (NP (NNP GPU) (NN acceleration))))) (. .))
+(S (NP (DT The) (NN library)) (VP (VP (VBZ is) (ADVP (RB currently)) (PP (IN in) (NP (DT an) (JJ early) (NN beta) (NN state)))) (CC and) (VP (VBZ supports) (NP (RB only) (JJ real) (NNS matrices)))) (. .))
+(S (NP (NP (NN Support)) (PP (IN for) (NP (JJ complex) (NNS matrices)))) (VP (VBZ is) (VP (VBN planned) (PP (IN for) (NP (DT a) (JJ future) (NN release))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN aimed) (PP (IN at) (NP (NP (JJ potential) (NNS users)) (PP (IN of) (NP (DT the) (NN library))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN library)))) (PP (IN with) (NP (NP (DT a) (NN sample)) (PP (IN of) (NP (JJ computational) (NNS experiments)))))) (. .))

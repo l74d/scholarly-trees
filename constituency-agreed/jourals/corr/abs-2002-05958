@@ -1,0 +1,2 @@
+(S (NP (NP (VBN Labelled) (NN sequent) (NN calculi)) (PP (IN for) (NP (NP (DT all) (NNS logics)) (PP (IN of) (NP (DT the) (NN family)))))) (VP (VBP are) (ADVP (RB then)) (VP (VBN introduced))) (. .))
+(S (NP (DT The) (JJ latter) (NN result)) (VP (VBZ gives) (NP (NP (DT a) (JJ constructive) (NN proof)) (PP (IN of) (NP (NP (DT the) (JJ finite) (NN model) (NN property)) (PP (IN of) (NP (NP (PDT all) (DT the) (NNS logics)) (VP (VBN considered)))))))) (. .))

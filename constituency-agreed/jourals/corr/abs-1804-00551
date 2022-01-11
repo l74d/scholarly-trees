@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN algorithm)) (VP (VBN proposed) (PP (IN in) (NP (DT the) (NN article))))) (VP (VBZ allows) (S (VP (TO to) (VP (VP (VB perform) (NP (JJ natural) (NN language) (NNS queries)) (PP (IN on) (NP (NP (NN content)) (PP (IN of) (NP (DT the) (NN document)))))) (CC and) (VP (VB get) (NP (JJ comprehensive) (JJ meaningful) (NNS answers))))))) (. .))

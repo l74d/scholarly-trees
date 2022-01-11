@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN deployment) (NN process)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (JJ many) (JJ heterogeneous) (NNS tasks)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN orchestrated) (PP (IN in) (NP (DT a) (JJ specific) (JJ correct) (NN order))))))))))))))))) (. .))

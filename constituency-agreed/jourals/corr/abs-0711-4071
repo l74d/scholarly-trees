@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VP (VBZ specifies) (NP (DT an) (JJ observational) (NNS semantics))) (CC and) (VP (VBZ gives) (NP (NP (DT an) (JJ original) (NN presentation)) (PP (IN of) (NP (DT the) (NNP Byrd) (NN box) (NN model)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NP (JJ declarative) (NN specification)) (PP (IN for) (NP (DT the) (NNS tracers))))))) (. .))

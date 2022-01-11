@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ randomized) (NN version)) (PP (IN of) (NP (NP (DT the) (NNP Kaczmarz) (NN method)) (PP (IN for) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (JJ linear) (NNS systems)))))))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB converge) (ADVP (RB linearly)) (PP (IN in) (NP (NN expectation)))))))) (. .))

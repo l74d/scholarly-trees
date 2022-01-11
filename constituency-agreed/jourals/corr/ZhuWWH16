@@ -1,0 +1,2 @@
+(S (NP (NNS Eavesdroppers)) (VP (MD can) (VP (VB intercept) (NP (JJR more) (NN information)) (PP (IN by) (S (VP (VBG using) (NP (DT a) (JJ wide) (NN beam) (NN pattern))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ artificial) (NN noise)))) (VP (MD may) (VP (VB be) (ADJP (JJ ineffective) (PP (IN for) (S (VP (VBG enhancing) (NP (DT the) (NN secrecy) (NN rate)))))))) (. .))

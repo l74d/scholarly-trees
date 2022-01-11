@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ optimal) (JJ idle) (NN time) (NN interval)) (SBAR (WHNP (WDT that)) (S (VP (VBZ minimizes) (NP (DT the) (NN error) (NN probability)))))) (, ,) (VP (VBZ is) (VP (VBN derived))) (. .))

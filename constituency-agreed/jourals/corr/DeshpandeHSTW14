@@ -1,0 +1,2 @@
+(S (NP (NP (VBG Existing) (NNS methods)) (PP (IN for) (NP (DT this) (NN problem)))) (VP (VBP have) (NP (NP (DT a) (NN complexity)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ exponential) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS clocks))))))))))) (. .))
+(S (S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (ADJP (JJ polynomial)))) (: :) (S (NP (PRP it)) (ADVP (RB essentially)) (VP (VBZ does) (NP (NP (DT a) (JJ logarithmic) (NN number)) (PP (IN of) (NP (NN zone) (NNS canonicalizations)))))) (. .))

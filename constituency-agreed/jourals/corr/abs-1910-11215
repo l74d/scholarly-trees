@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (JJ same) (NNS methods)) (ADVP (RB typically)) (VP (VBP require) (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (JJ diverse) (NN training) (NNS data)))) (S (VP (TO to) (VP (VB generalize) (ADVP (RB effectively)))))) (. .))

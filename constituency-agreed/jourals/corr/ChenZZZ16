@@ -1,0 +1,1 @@
+(S (ADVP (RB Remarkably)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ parallel) (NN encoding)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN with) (NP (NP (DT the) (JJ same) (NN number)) (PP (IN of) (NP (NP (NNP XOR) (NNS operations)) (CC and) (NP (NN memory) (NNS bits)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (PRP$ their) (NN use)) (VP (VBZ becomes) (ADJP (RB increasingly) (JJ common))))) (, ,) (NP (NNS applications)) (VP (MD can) (ADVP (RB inadvertently)) (VP (VB amplify) (NP (JJ unwanted) (NNS stereotypes)))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (PRP$ our) (NN algorithm)) (PP (IN on) (NP (JJ several) (NNS metrics)))) (. .))

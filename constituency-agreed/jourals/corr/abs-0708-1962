@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN solution)) (VP (VBZ is) (VP (VBN represented) (PP (IN as) (NP (NP (DT a) (NN subray)) (VP (VBG arriving) (PP (IN at) (NP (NP (DT a) (JJ certain) (NN moment)) (PP (IN in) (NP (DT the) (NN destination) (NN node)))))))))) (. .))
+(S (NP (DT This)) (VP (MD will) (VP (VB tell) (NP (PRP us)) (SBAR (IN if) (S (NP (DT an) (JJ exact) (NN cover)) (VP (VBZ does) (VP (VB exist)))) (CC or) (RB not)))) (. .))

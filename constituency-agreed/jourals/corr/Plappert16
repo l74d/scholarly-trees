@@ -1,0 +1,2 @@
+(S (ADVP (RB Next)) (, ,) (NP (JJ additional) (NNS features)) (VP (VBP are) (VP (VBN derived) (S (VP (TO to) (VP (VB improve) (NP (NN classification) (NN performance))))))) (. .))
+(S (NP (DT These) (NNS features)) (VP (VBP are) (ADVP (RB then)) (VP (VBN used) (S (VP (TO to) (VP (VB perform) (NP (DT the) (JJ multi-label) (NN classification)) (S (VP (VBG using) (NP (CD two) (JJ different) (NNS approaches))))))))) (. .))

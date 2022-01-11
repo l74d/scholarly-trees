@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ includes) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ partial) (NN representation) (NN extension))))) (. .))
+(S (NP (DT This)) (VP (VBZ explains) (SBAR (WHADVP (WRB why)) (S (NP (NP (JJ partial) (NN representation) (NN extension) (NNS problems)) (PP (IN for) (NP (NP (DT these) (JJ different) (NNS types)) (PP (IN of) (NP (NNS representations)))))) (VP (VBP require) (NP (ADJP (RB substantially) (JJ different)) (NNS techniques)))))) (. .))

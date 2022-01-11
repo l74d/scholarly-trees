@@ -1,0 +1,1 @@
+(S (NP (JJ Expensive) (NNS operations)) (VP (VBP are) (VP (VBN carried) (PRT (RP out)) (PP (IN by) (NP (NP (JJ dedicated) (JJ external) (NNS libraries)) (PP (IN like) (NP (NN numpy) (CC and) (NN mpi4py))))))) (. .))

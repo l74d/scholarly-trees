@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN learning) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG constraining) (NP (JJ negative) (NNS weights))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown) (SBAR (IN that) (S (NP (DT this) (ADJP (RB newly) (VBN acquired)) (NN representation)) (VP (VBZ improves) (NP (NP (DT the) (NN prediction) (NN performance)) (PP (IN of) (NP (DT a) (JJ deep) (JJ neural) (NN network))))))))) (. .))

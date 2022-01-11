@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (JJ restless) (JJ multi-armed) (NN bandit)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (NN arm)) (VP (MD can) (VP (VB be) (PP (IN in) (NP (NP (CD one)) (PP (IN of) (NP (CD two) (NNS states))))))))))) (. .))
+(S (NP (DT No) (NN signal)) (VP (VBZ is) (ADJP (JJ available)) (SBAR (IN if) (S (NP (DT the) (NN arm)) (VP (VBZ is) (RB not) (VP (VBN sampled)))))) (. .))

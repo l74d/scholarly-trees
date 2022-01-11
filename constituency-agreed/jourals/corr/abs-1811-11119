@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (ADJP (JJ unsuitable) (S (VP (TO to) (VP (VB detect) (NP (NP (NNS violations)) (PP (IN of) (NP (NN time) (NNS constraints))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (NNS experiments)) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN scalability)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS methods)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (NNS developers)) (VP (VBP have) (S (VP (TO to) (VP (VB test) (NP (PRP$ their) (NN code)) (PP (IN after) (S (VP (VBG applying) (NP (DT an) (JJ automatic) (NN refactoring))))))))) (. .))

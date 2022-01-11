@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN car) (NN driver)) (VP (VBZ knows) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB react) (PP (IN on) (NP (NP (DT the) (NNS gestures)) (PP (IN of) (NP (DT the) (NN traffic) (NNS officers)))))))))) (. .))
+(S (NP (DT The) (NN code) (CC and) (NN dataset)) (VP (VBZ is) (ADJP (RB publicly) (JJ available))) (. .))

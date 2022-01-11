@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ stochastic) (JJ contextual) (NN bandit) (NN problem)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN reward)) (VP (VBZ is) (VP (VBN generated) (PP (IN from) (NP (NP (DT an) (JJ unknown) (NN function)) (PP (IN with) (NP (JJ additive) (NN noise))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (JJ computational) (NN workload)) (VP (MD might) (VP (VB be) (ADJP (JJ unaffordable)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS snapshots)))) (VP (VBZ is) (ADJP (JJ large))))))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (DT a) (VBN modified) (NN model)) (VP (VBZ has) (VP (VBN been) (VP (VBN presented) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN estimation) (NN accuracy)))))))) (. .))
+(S (NP (NNS Simulations) (NNS results)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN advantage)) (PP (IN of) (NP (PRP$ our) (NNS methods))))))))) (. .))

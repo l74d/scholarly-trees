@@ -1,0 +1,1 @@
+(S (S (NP (NNP BioNER) (NNS datasets)) (VP (VBP are) (NP (JJ scarce) (NNS resources)))) (CC and) (S (NP (DT each) (NN dataset)) (VP (VBZ covers) (NP (NP (RB only) (DT a) (JJ small) (NN subset)) (PP (IN of) (NP (NN entity) (NNS types)))))) (. .))

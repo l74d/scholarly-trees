@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN literature)) (ADVP (RB so) (RB far)) (VP (VBZ has) (VP (VBN dealt) (PP (IN with) (NP (DT these) (NN impossibility) (NNS results))) (PP (IN by) (S (VP (VBG quantifying) (NP (NP (DT the) (NNS tradeoffs)) (PP (IN between) (NP (NP (JJ different) (NNS formulations)) (PP (IN of) (NP (NN fairness))))))))))) (. .))
+(S (NP (PRP$ Our) (NN work)) (VP (VBZ takes) (NP (NP (DT a) (JJ different) (NN perspective)) (PP (IN on) (NP (DT this) (NN issue))))) (. .))

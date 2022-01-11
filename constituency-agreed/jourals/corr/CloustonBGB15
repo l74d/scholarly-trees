@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN adequacy) (NN proof)) (VP (VBZ entails) (SBAR (IN that) (S (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (DT a) (NN program)))) (ADVP (RB always)) (VP (VBZ terminates))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Indeed)) (, ,) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP have) (VP (VBN shown) (PP (IN in) (NP (DT a) (JJ previous) (NN paper))))))) (, ,) (NP (JJ asynchronous) (NN bisimilarity)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT an) (NN instance)) (PP (IN of) (NP (JJ symbolic) (NN bisimilarity)))))))) (. .))

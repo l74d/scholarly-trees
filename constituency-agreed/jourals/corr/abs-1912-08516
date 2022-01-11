@@ -1,0 +1,2 @@
+(S (NP (JJ Effective) (NN relaxation) (NNS methods)) (VP (VBP are) (ADJP (JJ necessary) (PP (IN for) (NP (JJ good) (JJ multigrid) (NN convergence))))) (. .))
+(S (PP (IN In) (NP (NN turn))) (, ,) (NP (DT this)) (VP (VBZ allows) (PP (IN for) (NP (NP (DT the) (ADJP (RB very) (JJ rapid)) (NN development)) (PP (IN of) (NP (NP (JJ fast) (NNS solvers)) (PP (IN for) (NP (JJ difficult) (NNS problems)))))))) (. .))

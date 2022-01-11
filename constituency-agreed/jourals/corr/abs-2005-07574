@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN payer)) (VP (VBZ has) (S (VP (TO to) (VP (VB reattempt) (NP (DT the) (JJ entire) (NN process)) (PP (IN for) (NP (DT the) (JJ residual) (NN amount))))))) (. .))
+(S (NP (NP (NN Correlation)) (PP (IN among) (NP (DT the) (JJ partial) (NNS payments)))) (VP (VBZ is) (VP (VBN captured) (, ,) (S (VP (VBG guaranteeing) (NP (NN atomicity)))))) (. .))

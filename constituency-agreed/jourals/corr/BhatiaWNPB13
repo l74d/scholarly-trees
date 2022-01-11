@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP Jacobi) (NN set)) (VP (VBZ contains) (NP (NP (NNS points)) (PP (IN in) (NP (NP (DT the) (NN domain)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NNS gradients)) (PP (IN of) (NP (DT the) (NNS functions)))) (VP (VBP are) (VP (VBN aligned))))))))) (. .))

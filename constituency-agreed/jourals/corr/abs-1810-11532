@@ -1,0 +1,4 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN approximation) (NN error) (NN analysis)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ convenient)) (PP (IN than) (NP (NP (DT the) (JJ direct) (NN estimation)) (PP (IN of) (NP (DT the) (NN fitness) (NN value))))))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ focuses) (PP (IN on) (NP (NN approximation) (NN error) (NN analysis)))) (. .))
+(S (NP (DT This) (NN framework)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (CD two) (NNS parts))))) (. .))
+(S (NP (NP (CD Two) (NNS methods)) (, ,) (NP (NP (NNP Jordan) (NN form)) (CC and) (NP (NP (NNP Schur) (POS 's)) (NN triangularization))) (, ,)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB obtain) (NP (DT an) (JJ exact) (NN expression))))))) (. .))
+(S (NP (NP (DT The) (NN applicability)) (PP (IN of) (NP (DT this) (NN framework)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN through) (NP (JJ several) (NNS examples))))) (. .))

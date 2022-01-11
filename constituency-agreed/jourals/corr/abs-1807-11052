@@ -1,0 +1,2 @@
+(S (NP (NN Authentication) (CC and) (NN authorization)) (VP (VBP are) (NP (NP (CD two) (JJ key) (NNS elements)) (PP (IN of) (NP (DT a) (NN software) (NN application))))) (. .))
+(S (NP (DT These) (NNS protocols)) (VP (VBP are) (VP (VBN implemented) (PP (IN into) (NP (NN authorization) (NNS servers))))) (. .))

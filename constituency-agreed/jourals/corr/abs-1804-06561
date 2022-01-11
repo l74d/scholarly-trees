@@ -1,0 +1,1 @@
+(SBARQ (PP (IN In) (NP (DT the) (JJ second))) (, ,) (WHADVP (WRB why)) (SQ (VBP do) (NP (NP (JJ local) (NN minima)) (VP (VBN reached) (PP (IN by) (NP (NNP SGD))))) (VP (VBP have) (NP (JJ good) (NN generalization) (NNS properties)))) (. ?))

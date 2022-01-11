@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NN delivery) (NN phase))) (, ,) (S (NP (DT the) (NNS users)) (VP (VBP request) (NP (NNS contents)) (PP (IN from) (NP (DT the) (NN server))))) (, ,) (CC and) (S (NP (DT the) (NN server)) (VP (VBZ satisfies) (NP (DT each) (NN user)) (PP (IN through) (NP (DT a) (NN helper))))) (. .))

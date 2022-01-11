@@ -1,0 +1,1 @@
+(S (S (VP (VBG Having) (VP (VBN estimated) (NP (NP (DT the) (NN time) (NNS instants)) (PP (IN of) (NP (DT the) (NN attack))))))) (, ,) (NP (NP (DT the) (NN clock) (NN bias) (CC and) (NN drift)) (PP (IN of) (NP (DT the) (NN receiver)))) (VP (VBP are) (VP (VBN corrected))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ compares) (NP (NP (DT these) (CD two) (JJ general) (NNS approaches)) (PP (IN for) (NP (DT the) (NN entity) (NN relation) (NN recognition))))) (. .))
+(S (NP (NP (NNS Models)) (VP (VBG using) (NP (DT this) (NN loss) (NN function)))) (VP (VBP are) (VP (VBN observed) (S (VP (TO to) (VP (VB be) (VP (VP (VBG outperforming) (NP (PRP$ their) (NNS counterparts))) (CC and) (VP (VBG converging) (ADVP (RBR faster))))))))) (. .))

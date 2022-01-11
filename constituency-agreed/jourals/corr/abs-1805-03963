@@ -1,0 +1,2 @@
+(S (NP (NP (RB Only) (DT the) (NN bias) (NNS parameters)) (, ,) (PP (IN on) (NP (NP (DT the) (NNS edges)) (PP (IN of) (NP (DT the) (NN network))))) (, ,)) (VP (VBP are) (VP (VBN learned))) (. .))
+(S (NP (NP (DT Another) (NN departure)) (PP (IN in) (NP (PRP$ our) (NN approach))) (, ,) (PP (IN from) (NP (JJ standard) (JJ neural) (NNS networks))) (, ,)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN loss) (NN function)) (VP (VBZ is) (VP (VBN replaced) (PP (IN by) (NP (DT a) (NN constraint)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN limit)) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (NP (NN time) (NNS constraints)) (PP (IN between) (NP (NNS activities)))) (VP (MD can) (VP (VB be) (VP (VBN expressed)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (JJ similar) (NNS formalisms)) (VP (VP (VBG proposing) (NP (NP (DT a) (NN sound) (JJ formal) (NN basis)) (PP (IN for) (NP (NNS workflows))))) (CC and) (VP (VBG extending) (NP (PRP them))))) (VP (VBP are) (VP (VBN discussed))) (. .))

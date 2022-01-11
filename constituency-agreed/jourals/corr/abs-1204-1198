@@ -1,0 +1,2 @@
+(S (S (VP (VBG Developing) (NP (DT a) (NNP Bangla) (NNP OCR)))) (VP (VBZ requires) (NP (NP (NN bunch)) (PP (IN of) (NP (NN algorithm) (CC and) (NNS methods))))) (. .))
+(S (CC But) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBD failed) (S (VP (TO to) (VP (VB provide) (NP (DT an) (ADJP (NN error) (JJ free)) (NNP Bangla) (NNP OCR)))))) (. .))

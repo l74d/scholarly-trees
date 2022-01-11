@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS difficulties)) (VP (MD can) (VP (VB be) (VP (VBN categorised) (PP (IN as) (ADJP (JJ syntactic) (CC or) (JJ semantic)))))) (. .))
+(S (NP (DT The) (NNP Sequent) (NNP Calculus) (NNP Trainer)) (VP (VBZ is) (NP (NP (DT a) (NN tool)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB aid) (NP (NNS students)) (PP (IN in) (S (VP (VBG learning) (NP (NP (DT the) (NNS techniques)) (PP (IN of) (S (VP (VBG proving) (NP (VBN given) (NNS statements)) (ADVP (RB formally)))))))))))))))))) (. .))

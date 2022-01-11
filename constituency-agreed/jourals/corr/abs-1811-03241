@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (DT these) (NN state) (NNS machines)) (PP (IN as) (NP (DT a) (NN reference) (NN model))))) (, ,) (NP (PRP we)) (VP (VBD identified) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ unexpected) (NN state) (NNS transitions))))) (. .))
+(S (S (VP (TO To) (VP (VB confirm) (CC and) (VB trigger) (NP (DT the) (JJ unexpected) (NN state) (NNS transitions))))) (, ,) (NP (PRP we)) (VP (VBD implemented) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ phantom) (NNS devices)))) (S (VP (TO to) (VP (VB mimic) (NP (DT a) (JJ real) (NN device)))))) (. .))

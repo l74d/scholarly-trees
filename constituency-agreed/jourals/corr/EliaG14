@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (NN group) (NNS codes)) (VP (VBP are) (NP (NP (NNS ideals)) (PP (IN in) (NP (JJ finite) (NN group) (NNS rings))))))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ allows) (NP (NP (JJ efficient) (NN computation)) (PP (IN of) (NP (PRP$ their) (NN dimension))))) (. .))

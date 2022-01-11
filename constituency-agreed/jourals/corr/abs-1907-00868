@@ -1,0 +1,1 @@
+(S (NP (DT Every) (NN loss)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NN turn))) (S (VP (TO to) (VP (VB learn) (NP (NP (DT a) (NN policy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ generates) (NP (NP (NNS transitions)) (, ,) (NP (NP (DT all)) (VP (VBN shared) (PP (IN in) (NP (DT a) (JJ single) (NN replay) (NN buffer))))))))))))))) (. .))

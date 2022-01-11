@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (NP (DT the) (JJ computational) (NN complexity)) (CC and) (NP (NP (DT the) (NN time)) (PP (IN for) (NP (NN reconstruction))))) (VP (MD can) (VP (VB be) (VP (VBN reduced) (ADVP (RB significantly))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (NN permutation)) (VP (MD can) (VP (VB be) (VP (VBN performed) (ADVP (RB implicitly)) (PP (IN by) (S (VP (VBG using) (NP (DT a) (JJ pre-designed) (NN measurement) (NN matrix)))))))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (NN Evaluation)) (VP (VBZ drives) (NP (DT the) (NN cycle)) (, ,) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP revise) (NP (PRP$ our) (NN model)) (PP (VBN based) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (VBZ performs)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ requires) (NP (DT a) (JJ metric))) (. .))
+(S (ADVP (RB Yet)) (, ,) (NP (JJ predictive) (NN accuracy)) (VP (VBZ does) (RB not) (VP (VB tell) (NP (DT the) (JJ whole) (NN story)))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB evaluate) (NP (DT a) (NN model)) (PP (IN through) (NP (JJ posterior) (NN dispersion))))))) (. .))

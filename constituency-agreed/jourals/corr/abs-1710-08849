@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (NNS projects))) (, ,) (NP (DT some) (JJ common) (NNS susbsystems)) (VP (VBP take) (NP (NN place))) (. .))
+(S (PP (IN In) (NP (DT the) (NN report))) (, ,) (NP (NP (DT a) (NN concept)) (PP (IN of) (NP (NP (NN macrogeneration) (NN technique)) (PP (IN for) (NP (NP (NN building)) (PP (IN of) (NP (NP (NNS libraries)) (PP (IN of) (NP (NN automata)))))))))) (VP (VBZ is) (VP (VBN presented))) (. .))

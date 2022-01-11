@@ -1,0 +1,2 @@
+(S (S (VP (VBG Combining) (NP (DT these) (CD two) (NNS innovations)))) (, ,) (NP (DT the) (VBG resulting) (NN method)) (VP (VBZ is) (ADJP (RB highly) (JJ efficient) (CC and) (JJ robust))) (. .))
+(S (PP (IN On) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (JJ heteroscedastic) (NN regression))))) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (JJ good) (JJ predictive) (NN performance)) (PP (IN over) (NP (JJ alternative) (NNS approaches))))) (. .))

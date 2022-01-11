@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VP (VBZ is) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (NP (DT an) (JJ effective) (NN classifier))))))) (CC and) (VP (VBZ has) (NP (JJ many) (NNS applications)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (JJ major) (NN drawback)) (VP (VBZ is) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (JJ sequential) (NN search)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB find) (NP (DT the) (NNS neighbors))))))))) (, ,) (NP (PRP it)) (VP (VBZ involves) (NP (JJ high) (JJ computational) (NN cost)))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN adjustment)) (PP (IN of) (NP (CD three) (NNS parameters))))))) (. .))

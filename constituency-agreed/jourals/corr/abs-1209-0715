@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN analysis)) (VP (VBZ reveals) (SBAR (IN that) (S (NP (NP (DT the) (NN approximation) (NN error)) (PP (IN of) (NP (DT a) (VBG switching) (NN circuit)))) (VP (VBZ decreases) (ADVP (RB exponentially)) (PP (IN with) (NP (DT an) (VBG increasing) (NN circuit) (NN size))))))) (. .))

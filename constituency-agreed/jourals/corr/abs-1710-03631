@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN detection)) (PP (IN of) (NP (NNS landmarks) (CC or) (NNS patterns)))) (VP (VBZ is) (PP (IN of) (NP (NN interest))) (PP (IN for) (S (VP (VBG extracting) (NP (NNS features)) (PP (IN in) (NP (JJ biological) (NNS images))))))) (. .))
+(S (NP (DT These)) (VP (VBP are) (VP (VBN characterized) (PP (IN by) (NP (DT the) (ADJP (RBS most) (JJ relevant)) (JJ angular) (NNS frequencies))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (DT a) (JJ deep) (JJ convolutional) (JJ neural) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (DT an) (NN image)) (VP (VBZ contains) (NP (NNS cracks)))) (CC or) (RB not))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP utilize) (NP (DT an) (JJ adaptive) (NN thresholding) (NN method)) (S (VP (TO to) (VP (VB extract) (NP (DT the) (NNS cracks)) (PP (IN from) (NP (NN road) (NN surface))))))) (. .))

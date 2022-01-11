@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (DT this)) (ADVP (RB often)) (VP (VBZ works)))) (, ,) (NP (JJ uniform) (NN sampling)) (VP (MD will) (VP (VB eliminate) (NP (JJ critical) (NN row) (NN information)) (PP (IN for) (NP (JJ many) (JJ natural) (NNS instances))))) (. .))
+(S (NP (PRP We)) (VP (VBP take) (NP (NP (DT a) (JJ fresh) (NN look)) (PP (IN at) (NP (JJ uniform) (NN sampling)))) (PP (IN by) (S (VP (VBG examining) (SBAR (WHNP (WP what) (NN information)) (S (NP (PRP it)) (VP (VBZ does) (VP (VB preserve))))))))) (. .))

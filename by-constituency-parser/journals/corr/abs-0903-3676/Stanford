@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (JJ new) (NML (NNP Combinatorial) (NNP Ricci)) (NN curvature)) (CC and) (NP (NP (JJ Laplacian) (NNS operators)) (PP (IN for) (NP (NN grayscale) (NNS images))))) (VP (VBP are) (VP (VBN introduced) (CC and) (VBN tested) (PP (IN on) (NP (NP (NN 2D) (NN synthetic)) (, ,) (NP (JJ natural)) (CC and) (NP (JJ medical) (NNS images)))))) (. .))
+(S (NP (NP (JJ Analogue) (NNS formulae)) (PP (IN for) (NP (NNS voxels)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN obtained))) (. .))
+(S (NP (DT These) (NNS notions)) (VP (VBP are) (VP (VBN based) (PP (IN upon) (NP (NP (JJR more) (JJ general) (NNS concepts)) (VP (VBN developed) (PP (IN by) (NP (NNP R.) (NNP Forman)))))))) (. .))
+(S (NP (NP (JJ Further) (NNS applications)) (, ,) (RRC (PP (IN in) (ADJP (JJ particular))) (NP (DT a) (JJ fitting) (NNP Ricci) (NN flow))) (, ,)) (VP (VBP are) (VP (VBN discussed))) (. .))

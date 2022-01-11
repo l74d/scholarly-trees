@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ deterministic) (NN construction)) (PP (IN on) (NP (DT the) (NN measurement) (NN matrix)))) (VP (VBZ is) (ADVP (RB still)) (ADJP (RB very) (JJ important) (CC and) (JJ interesting))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT an) (JJ open) (NN problem)) (VP (VBN proposed) (PP (IN by) (NP (NNP T.) (NNP Tao)))))) (. .))

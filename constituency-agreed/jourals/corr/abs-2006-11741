@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VP (VBZ is) (VP (VBN inferred) (PP (IN by) (NP (JJ variational) (NN inference))))) (CC and) (VP (VBZ is) (ADVP (RB therefore)) (ADJP (RB fully) (JJ generative)))) (. .))

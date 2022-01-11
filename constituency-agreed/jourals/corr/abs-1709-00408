@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBD created) (NP (NP (DT a) (NN database)) (PP (IN of) (NP (NP (JJ lensless) (NNS images)) (PP (IN of) (NP (JJ handwritten) (NNS digits))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBD trained) (NP (DT a) (NNP ML) (NN algorithm)) (PP (IN on) (NP (DT this) (NN dataset)))) (. .))

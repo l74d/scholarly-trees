@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (DT this) (NN algorithm))) (, ,) (NP (PRP we)) (VP (VBP solve) (NP (DT the) (JJ unweighted) (NN problem)) (ADVP (RB optimally)) (PP (IN in) (NP (JJ polynomial) (NN time)))) (. .))

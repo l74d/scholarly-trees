@@ -1,0 +1,2 @@
+(S (ADVP (RB Also)) (, ,) (NP (NP (DT the) (NN singularity) (NNS regions)) (PP (IN for) (NP (DT this) (JJ underactuated) (NN system)))) (VP (VBZ is) (VP (VBN demonstrated))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (NN wave) (NNS parameters)) (VP (VBP are) (VP (VBN designed) (PP (IN under) (NP (JJ certain) (NNS conditions))) (S (VP (TO to) (VP (VB remove) (NP (DT the) (NN coupling) (NNS singularities))))))) (. .))

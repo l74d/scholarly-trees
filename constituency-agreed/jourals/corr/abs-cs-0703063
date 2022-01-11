@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP characterize) (NP (DT the) (NNS cycles))) (. .))
+(S (NP (PRP$ Our) (JJ analytical) (NNS results)) (VP (VBP are) (VP (VBN confirmed) (PP (IN by) (NP (NP (NNS simulations)) (VP (VBN performed) (PP (IN with) (NP (NP (NNP Simulink)) (CC and) (NP (DT the) (NNP NS) (NN simulator))))))))) (. .))

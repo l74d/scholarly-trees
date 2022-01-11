@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ adaptive) (NN algorithm)) (VP (MD can) (VP (VB use) (NP (DT this) (NN error)) (S (VP (TO to) (VP (VB learn) (NP (DT a) (JJ forward) (NN model)) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (JJ predictive) (NNS cues)))))))))) (. .))

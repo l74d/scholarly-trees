@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN optimization)) (VP (VBZ is) (ADVP (RB still)) (PP (IN in) (NP (DT the) (NNP Bregman) (NN projection) (NN framework)))))) (, ,) (NP (DT the) (NNP Dykstra) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN for) (NP (NN optimization)))))) (. .))

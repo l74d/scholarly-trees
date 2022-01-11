@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (NP (NP (DT the) (JJ extended) (NN weight) (NNS enumerators)) (PP (IN for) (NP (ADJP (NP (DT the) (NN number)) (HYPH -) (JJ theoretic)) (ADJP (NP (NN insertion) (HYPH /) (NN deletion)) (VBG correcting)) (NNS codes))))) (. .))
+(S (PP (IN As) (NP (DT a) (JJ special) (NN case))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ provides) (NP (NP (DT the) (VBG Hamming) (NN weight) (NNS enumerators)) (CC and) (NP (NP (NNS cardinalities)) (PP (IN of) (NP (DT the) (JJ non-binary) (NN VT) (NNS codes)))))) (. .))

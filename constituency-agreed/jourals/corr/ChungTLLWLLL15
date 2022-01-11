@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT the) (NN challenge)))) (VP (VBZ is) (S (VP (TO to) (VP (VB discover) (NP (JJ linguistic) (NNS units)) (ADVP (RB directly)) (PP (IN from) (NP (JJ unlabeled) (NN speech) (NNS data))))))) (. .))
+(S (NP (DT Each) (JJ acoustic) (NN token) (NN set)) (VP (VBZ is) (VP (VBN specified) (PP (IN by) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS hyperparameters)) (SBAR (WHNP (WDT that)) (S (VP (VBP describe) (NP (DT the) (NN model) (NN configuration))))))))))) (. .))

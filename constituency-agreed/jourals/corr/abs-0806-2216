@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS agents)) (VP (VBP work) (ADVP (RB together)) (PP (IN in) (S (VP (VP (VBG recommending) (NP (JJ meaningful) (NN training) (NNS courses))) (CC and) (VP (VBG updating) (NP (DT the) (NN course) (NN information))))))) (. .))
+(S (NP (NP (DT This) (NN manner)) (PP (IN of) (NP (NN recommendation)))) (VP (VBZ is) (ADJP (JJ scalable) (CC and) (JJ adaptable))) (. .))

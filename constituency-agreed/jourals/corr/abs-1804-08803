@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN simulation) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN algorithm)) (VP (VBZ performs) (ADVP (RB well)) (PP (IN in) (NP (NN throughput) (CC and) (NN convergence))))))) (. .))

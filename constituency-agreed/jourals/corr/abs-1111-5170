@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP derive) (NP (DT an) (JJ abstract) (JJ computational) (NN model)) (PP (IN from) (NP (NP (DT a) (JJ sequential) (JJ computational) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB generally)) (VP (VBN used) (PP (IN for) (NP (NN function) (NN execution)))))))))) (. .))
+(S (NP (DT This) (JJ abstract) (JJ computational) (NN model)) (VP (VBZ allows) (PP (IN for) (NP (NP (DT the) (JJ concurrent) (NN execution)) (PP (IN of) (NP (NNS functions)))))) (. .))

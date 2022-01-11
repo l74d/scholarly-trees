@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (NP (PRP we)) (VP (VBP prove) (NP (NP (NNS extensions)) (PP (IN of) (NP (DT these) (NNS results))))) (. .))
+(S (NP (DT These) (NNS bounds)) (VP (VBP depend) (ADVP (RB quadratically)) (PP (IN on) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (JJS shortest) (NN equation)))))) (. .))

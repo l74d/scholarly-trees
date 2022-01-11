@@ -1,0 +1,4 @@
+(S (NP (NNP Bloom) (NNP Filter)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN space) (NN consumption)) (PP (IN in) (NP (NP (DT an) (NN order)) (PP (IN of) (NP (NN magnitude)))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (NNP Bloom) (NNP Filter)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB keep) (NP (NP (NN information)) (PP (IN of) (NP (DT a) (ADJP (RB very) (JJ large)) (NN scale) (NNS data))))))))) (. .))
+(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (NN dilemma))))) (, ,) (NP (EX there)) (VP (VBP are) (ADVP (RB also)) (NP (NP (JJ diverse) (NNS variants)) (PP (IN of) (NP (NNP Bloom) (NNP Filter))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN time) (NN complexity)) (CC and) (NP (NN space) (NN complexity))) (VP (VBP become) (NP (DT the) (JJ key) (NN issue)) (ADVP (RB again))) (. .))

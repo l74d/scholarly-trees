@@ -1,0 +1,1 @@
+(S (NP (DT Each) (NN class)) (VP (VBZ is) (VP (VBN created) (CC and) (VBN annotated) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN content)) (PP (IN of) (NP (DT the) (NNS tweets)))))) (SBAR (JJ such) (IN that) (S (NP (JJ further) (JJ hierarchical) (NNS methods)) (VP (MD can) (VP (VB be) (ADVP (RB easily)) (VP (VBN applied)))))))) (. .))

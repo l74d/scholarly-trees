@@ -1,0 +1,2 @@
+(S (NP (NP (NN Rotation)) (NP (JJ symmetric) (JJ Boolean) (NNS functions))) (VP (VBP have) (NP (NP (JJ important) (NNS applications)) (PP (IN in) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (JJ cryptographic) (NNS algorithms))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (DT the) (NN nonlinearity)) (PP (IN of) (NP (NP (JJ such) (NN kind)) (PP (IN of) (NP (NNS functions)))))) (VP (VBZ is) (VP (VBN determined))) (. .))

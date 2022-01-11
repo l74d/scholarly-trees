@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB classify) (NP (NP (NNS patches)) (VP (VBN extracted) (PP (IN from) (NP (NNS slides)))))))))) (. .))

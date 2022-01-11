@@ -1,0 +1,3 @@
+(S (NP (JJ Subjective) (NN language) (NN detection)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS challenges)) (PP (IN in) (NP (NN Sentiment) (NN Analysis))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proves) (SBAR (IN that) (S (NP (NP (DT a) (NN majority)) (PP (IN of) (NP (NNS adjectives)))) (VP (VBP change) (NP (PRP$ their) (JJ prior) (NN polarity) (NN value)) (PP (VBG depending) (PP (IN on) (NP (DT the) (NN domain)))))))) (. .))
+(S (PP (VBG Following) (NP (DT this) (NN classification))) (, ,) (NP (NN polarity) (NNS values)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (JJR better) (NN support)) (PP (IN for) (NP (NN Sentiment) (NN Analysis)))))) (. .))

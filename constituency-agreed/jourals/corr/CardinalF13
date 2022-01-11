@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ partial) (NN cube)) (VP (VBZ is) (NP (NP (DT a) (NN graph)) (VP (VBG having) (NP (NP (DT an) (JJ isometric) (NN embedding)) (PP (IN in) (NP (DT a) (NN hypercube))))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG covering) (NP (NP (DT the) (NNS vertices)) (PP (IN of) (NP (DT a) (JJ partial) (NN cube)))) (PP (IN with) (NP (NP (DT the) (JJ minimum) (NN number)) (PP (IN of) (NP (NNS zones)))))))))) (. .))

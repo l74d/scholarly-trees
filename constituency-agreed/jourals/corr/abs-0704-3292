@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NNS nodes)) (PP (IN on) (NP (NP (DT the) (NN boundary)) (PP (IN of) (NP (JJ such) (NNS networks)))))) (VP (MD can) (RB not) (VP (VB benefit) (PP (IN from) (NP (DT this) (NN strategy))) (, ,) (SBAR (IN as) (S (NP (DT the) (JJ other) (NNS nodes)) (VP (VBP do) (RB not) (VP (VB depend) (PP (IN on) (NP (PRP them))))))))) (. .))
+(S (NP (NP (DT The) (NN stability)) (PP (IN of) (NP (DT the) (NNS coalitions)))) (VP (VBZ is) (VP (VBN studied) (S (VP (VBG using) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (DT a) (NN core)))))))) (. .))

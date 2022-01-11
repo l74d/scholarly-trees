@@ -1,0 +1,2 @@
+(S (NP (VBG Routing) (NNS protocols)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN energy) (NN consumption))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT every) (NN routing) (NN protocol)) (VP (VBZ is) (RB not) (ADJP (JJ suitable) (PP (IN for) (NP (JJ heterogeneous) (NNS environments))))) (. .))

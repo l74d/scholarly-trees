@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT each) (NN user))) (, ,) (PP (IN by) (S (VP (VBG defining) (NP (DT a) (NN threshold))))) (, ,) (NP (NP (DT the) (NNS messages)) (PP (IN of) (NP (DT each) (NN source)))) (VP (VBP are) (VP (VBN partitioned) (PP (IN into) (NP (CD two) (NNS classes))))) (. .))

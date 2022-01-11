@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN seed)) (PP (IN in) (NP (DT a) (NN word)))) (VP (VBZ is) (NP (NP (DT a) (JJ relaxed) (NN version)) (PP (IN of) (NP (NP (DT a) (NN period)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NNS occurrences)) (PP (IN of) (NP (DT the) (VBG repeating) (NN subword)))) (VP (MD may) (VP (VB overlap))))))))) (. .))

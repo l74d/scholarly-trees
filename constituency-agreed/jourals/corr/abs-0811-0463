@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (JJ intrinsic) (NN uncertainty))) (, ,) (S (NP (DT every) (NN output)) (VP (VBZ is) (ADJP (JJ uncertain)))) (, ,) (CC and) (S (NP (NNS computations)) (VP (VBP become) (ADJP (JJ meaningful)) (PP (ADVP (RB only)) (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (DT a) (NN confidence) (NN level))))))) (. .))

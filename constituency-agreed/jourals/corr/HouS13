@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ involves) (NP (CD two) (NNS characteristics))) (. .))
+(S (NP (PRP We)) (VP (VBP test) (NP (DT the) (VBN designed) (NN policy)) (PP (IN on) (NP (NP (DT the) (NNS traces)) (PP (IN of) (NP (CD three) (NNS movies)))))) (. .))
+(S (PP (IN From) (NP (PRP$ our) (NNS tests))) (, ,) (NP (PRP it)) (VP (VBZ appears) (S (VP (TO to) (VP (VB outperform) (NP (JJ other) (NNS policies)) (PP (IN by) (NP (DT a) (JJ large) (NN margin))))))) (. .))

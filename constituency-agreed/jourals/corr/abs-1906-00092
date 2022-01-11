@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Formal) (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (NP (JJ perfect) (NN reconstruction)) (PP (IN of) (NP (NP (DT the) (NN signal)) (PP (IN from) (NP (DT the) (NN spike) (NNS trains)))))) (VP (VBZ is) (ADJP (JJ possible)))))) (VP (VBP are) (ADVP (RB then)) (VP (VBN identified) (PP (IN in) (NP (DT this) (NN setup))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT a) (JJ stochastic) (NN gradient) (NN descent) (NN mechanism)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB achieve) (NP (DT these) (NNS conditions))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Large) (NNS systems)) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN internetworked))) (. .))
+(S (NP (DT A) (NN security) (NN policy)) (VP (VBZ describes) (NP (NP (DT the) (NN communication) (NN relationship)) (PP (IN between) (NP (DT the) (JJ networked) (NNS entities))))) (. .))

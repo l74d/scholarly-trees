@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP analyze) (NP (DT this) (NN algorithm)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (PRP$ our) (NN generalization) (NNS bounds)))))) (CC and) (VP (VB evaluate) (NP (PRP it)) (PP (IN on) (NP (DT a) (NN benchmark) (NN dataset))))) (. .))

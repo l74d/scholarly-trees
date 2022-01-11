@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (NP (NN evaluation)))) (VP (VBZ is) (ADJP (DT both) (JJ necessary) (CC and) (JJ hard))) (. .))
+(S (CC And) (NP (NP (DT the) (NN taxonomy)) (PP (IN of) (NP (DT the) (NN replay) (NNS traces)))) (VP (VBZ is) (VP (VBN described))) (. .))

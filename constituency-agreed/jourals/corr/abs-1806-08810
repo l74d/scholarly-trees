@@ -1,0 +1,2 @@
+(S (NP (NNP Industrial) (JJ cyber-physical) (NNS systems)) (VP (VBP are) (NP (NP (JJ hybrid) (NNS systems)) (PP (IN with) (NP (JJ strict) (NN safety) (NNS requirements))))) (. .))
+(S (NP (PRP We)) (VP (VBP hope) (SBAR (S (NP (DT this)) (VP (VBZ serves) (PP (IN as) (NP (NP (DT a) (NN challenge) (NN problem)) (PP (IN for) (NP (NP (JJ formal) (NN verification) (NNS tools)) (VP (VBG targeting) (NP (JJ industrial) (NNS applications))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN work)) (VP (VBZ is) (VP (VBN focused) (PP (IN around) (NP (NNP Extractive) (NN summarization))))) (. .))
+(S (ADVP (RB Mostly)) (NP (JJ statistical) (NNS features)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (PP (IN for) (S (VP (VBG scoring) (NP (DT the) (NNS sentences)))))))) (. .))

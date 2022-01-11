@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (JJ nonparametric) (NN version)) (PP (IN of) (NP (DT this) (NN algorithm))))) (. .))
+(S (NP (NP (DT The) (NNS transmissions)) (PP (IN from) (NP (DT the) (NNS sensors)))) (VP (VBP are) (VP (VBN fused) (PP (IN at) (NP (DT the) (JJ physical) (NN layer))))) (. .))
+(S (NP (DT The) (NN fusion) (NN center)) (VP (VBZ performs) (NP (DT another) (NNP CUSUM)) (S (VP (TO to) (VP (VB detect) (NP (DT the) (NN change)))))) (. .))

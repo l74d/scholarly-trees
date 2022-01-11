@@ -1,0 +1,2 @@
+(S (NP (NN Training)) (VP (VBD was) (VP (VBN done) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN way))) (PP (IN without) (NP (NP (DT any) (NNS labels)) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (DT each) (NN generator)) (VP (MD should) (VP (VB generate)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD found) (NP (NP (NNS possibilities)) (PP (IN of) (S (VP (VBG learning) (NP (DT the) (NN structure)) (PP (IN by) (S (VP (VBG using) (NP (DT this) (JJ generative) (NN model)) (ADVP (RB empirically)))))))))) (. .))

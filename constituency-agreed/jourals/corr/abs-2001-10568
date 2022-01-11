@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ shallow) (NN network)) (ADVP (RB then)) (VP (MD will) (VP (VB be) (VP (VBN trained) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NN map)) (PP (IN without) (NP (DT any) (NN ground) (NN truth) (NN information))))))))) (. .))

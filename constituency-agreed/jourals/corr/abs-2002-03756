@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN calculation)) (PP (IN of) (NP (ADJP (JJ many) (CC and) (JJ large)) (NNP Perrin) (NNS pseudoprimes)))) (VP (VBZ is) (NP (DT a) (NN challenge))) (. .))
+(S (NP (NP (DT The) (JJS largest) (NN number)) (VP (VBN found))) (VP (VBZ has) (NP (CD 3101) (NNS digits))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (JJ Classical) (NN probability) (NN theory)) (VP (VBZ is) (VP (VBN formulated) (S (VP (VBG using) (NP (NNS sets)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP extend) (NP (JJ classical) (NN probability) (NN theory)) (PP (IN with) (NP (JJ propositional) (NN computability) (NN logic)))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT some) (JJ basic) (NNS properties)) (PP (IN of) (NP (DT this) (JJ new) (NN probability) (NN theory))))) (. .))

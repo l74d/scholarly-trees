@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (JJ automatic) (NN image) (NN retrieval))))) (S (VP (TO to) (VP (VB simulate) (NP (NP (JJ common) (NNS scenarios)) (PP (IN of) (NP (NNS humanities) (NN research))) (, ,) (PP (JJ such) (IN as) (NP (NN writer) (NN retrieval)))))))) (. .))
+(S (NP (DT The) (NN competition) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NNS methods)))) (VP (VBZ is) (VP (VBG outperforming) (NP (JJ single) (NNS methods))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS models)) (VP (VBP are) (VP (VBN trained) (CC and) (VBN evaluated) (PP (ADVP (RB only)) (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (DT the) (NN training) (NNS tuples)) (, ,) (NP (DT the) (NNS sentences)) (CC and) (NP (PRP$ their) (NNS labels)))))))) (. .))

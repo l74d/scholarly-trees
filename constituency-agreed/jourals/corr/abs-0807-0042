@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG resulting) (NN capacity) (NN formula)) (VP (VBZ is) (NP (NP (DT the) (NN minimum)) (PP (IN of) (NP (DT a) (NNP Lagrange) (JJ dual) (NN function))))) (. .))
+(S (NP (NP (DT The) (NN rest)) (PP (IN of) (NP (DT the) (NN proof)))) (VP (VBZ does) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB be) (VP (VBN changed))))))) (. .))

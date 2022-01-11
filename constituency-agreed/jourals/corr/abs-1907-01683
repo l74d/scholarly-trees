@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (CD three) (JJ different) (NNS tracks)) (PP (IN of) (NP (DT this) (NN competition))))) (. .))
+(S (NP (DT The) (JJ present) (NN manuscript)) (VP (VBZ describes) (NP (NP (DT the) (NN method)) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT the) (NN model)) (PP (IN for) (NP (NP (DT the) (NN dataset)) (VP (VBN provided) (PP (IN in) (NP (DT the) (JJ first) (NN track)))))))))))) (. .))

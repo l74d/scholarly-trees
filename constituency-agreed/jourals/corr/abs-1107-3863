@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP perform) (NP (NP (JJ probabilistic) (NN analysis)) (CC and) (NP (JJ extensive) (NN simulation))) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (PRP$ our) (NN detection) (NN algorithm)))))))) (. .))

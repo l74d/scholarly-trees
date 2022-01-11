@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (MD may) (VP (VB skip) (NP (NP (DT a) (JJ large) (NN proportion)) (PP (IN of) (NP (NNS components)))) (SBAR (WHADVP (WRB when)) (S (NP (NN load)) (VP (VBZ gets) (ADJP (JJR heavier))))) (, ,) (S (ADVP (RB thus)) (VP (VBG incurring) (NP (JJ large) (NN accuracy) (NNS losses)))))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (NNP AccuracyTrader)) (S (VP (VBG using) (NP (NNS workloads)) (PP (IN in) (NP (JJ real) (NNS services)))))) (. .))

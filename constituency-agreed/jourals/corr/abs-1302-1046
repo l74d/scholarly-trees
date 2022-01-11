@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN powerset) (NN construction)) (VP (VBZ is) (NP (NP (DT a) (JJ standard) (NN method)) (PP (IN for) (S (VP (VBG converting) (NP (DT a) (JJ nondeterministic) (NN automaton)) (PP (IN into) (NP (NP (DT a) (JJ deterministic) (CD one)) (VP (VBG recognizing) (NP (DT the) (JJ same) (NN language)))))))))) (. .))
+(S (NP (NNP Coalgebra)) (VP (VBZ is) (NP (NP (DT an) (JJ abstract) (NN framework)) (PP (IN for) (NP (NP (DT the) (JJ uniform) (NN study)) (PP (IN of) (NP (NP (JJ different) (NNS kinds)) (PP (IN of) (NP (JJ dynamical) (NNS systems))))))))) (. .))

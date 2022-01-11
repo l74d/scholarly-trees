@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN control) (NN problem)) (PP (IN of) (NP (NP (DT the) (VBG working) (NN tool) (NN movement)) (PP (IN along) (NP (DT a) (JJ predefined) (NN trajectory)))))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (DT The) (NN trajectory)) (VP (VBZ is) (VP (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (JJ planar)))))) (CC and) (VP (VBN defined) (PP (IN in) (NP (NN advance)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN dataset)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD 14,944) (NNS questions)) (PP (IN about) (NP (NP (CD 408) (NNS movies)) (PP (IN with) (NP (JJ high) (JJ semantic) (NN diversity)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (PRP$ our) (NNS data)) (PP (IN through) (NP (JJ various) (NNS statistics) (CC and) (NNS methods)))) (. .))

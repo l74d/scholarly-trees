@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ builds) (NP (NP (DT a) (JJ general) (NN model)) (PP (IN of) (NP (NN vote) (NN transfer) (NNS systems)))) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (DT the) (JJ current) (JJ Hungarian) (JJ electoral) (NNS rules)))))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN studied) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (CD two) (NNS parties))))))) (. .))

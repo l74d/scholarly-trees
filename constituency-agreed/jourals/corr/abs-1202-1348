@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN procedure)) (VP (VBZ relies) (PP (IN on) (NP (NP (DT a) (JJ recursive) (NN process)) (SBAR (WHNP (WDT which)) (S (VP (VBZ enumerates) (NP (NP (NN error) (NNS configurations)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ uncorrectable) (PP (IN by) (NP (DT a) (VBN given) (NN algorithm)))))))))))))) (. .))

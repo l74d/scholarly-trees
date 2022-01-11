@@ -1,0 +1,2 @@
+(S (NP (NN Authentication)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ basic) (NNS elements)) (PP (IN of) (NP (NNP VANETs) (NN security))))))) (. .))
+(S (NP (VBN Proposed) (NNS authentications) (NNS protocols)) (VP (VBP suffer) (PP (IN from) (NP (JJ high) (NN overhead) (CC and) (NN cost)))) (. .))

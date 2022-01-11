@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS barriers)) (VP (VBG preventing) (NP (NP (JJ widespread) (NN use)) (PP (IN of) (NP (JJ formal) (NNS methods)))))))) (VP (VBZ is) (NP (NP (DT the) (NN elicitation)) (PP (IN of) (NP (JJ formal) (NNS specifications))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (DT both) (NNS groups)) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB define) (NP (JJ formal) (NNS requirements)) (PP (IN with) (NP (NP (JJ high) (NNS levels)) (PP (IN of) (NP (NN accuracy))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (ADVP (RB typically)) (NP (JJ endoscopy) (NNS videos)) (VP (VBP contain) (NP (NP (JJ numerous) (NNS artifacts)) (SBAR (WHNP (WDT which)) (S (VP (VBZ motivates) (S (VP (TO to) (VP (VB establish) (NP (DT a) (JJ comprehensive) (NN solution)))))))))) (. .))
+(S (NP (NP (JJ Generative) (JJ adversarial) (NNS networks)) (PP (IN with) (NP (ADJP (RB carefully) (VBN chosen)) (NN regularization)))) (VP (VBP are) (ADVP (RB finally)) (VP (VBN used) (S (VP (TO to) (VP (VB restore) (NP (JJ corrupted) (NNS frames))))))) (. .))

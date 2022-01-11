@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN turn))) (, ,) (NP (NP (NNS queries)) (PP (IN on) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (NNP OCR)))))) (VP (MD may) (VP (VB fail) (S (VP (TO to) (VP (VB retrieve) (NP (JJ relevant) (NNS answers))))))) (. .))

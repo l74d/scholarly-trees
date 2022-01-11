@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN point) (NN cloud)) (VP (VBZ is) (VP (VBN considered) (PP (IN as) (NP (NP (DT a) (JJ rigid) (NN body)) (VP (VBG consisting) (PP (IN of) (NP (NNS particles)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ potential) (NN energy)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBZ recovers) (NP (NP (DT the) (JJ objective) (NN function)) (PP (IN of) (NP (DT the) (JJ maximum) (NN likelihood) (NN estimation)))))))) (. .))

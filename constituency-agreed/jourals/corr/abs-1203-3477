@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (JJ such) (NNS domains)) (VP (VBP have) (NP (NP (DT an) (JJ inherent) (NN notion)) (PP (IN of) (NP (NN locality))))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB find) (NP (DT an) (JJ approximate) (NN solution)) (S (VP (VBG using) (NP (JJ local) (NN optimization) (NNS methods)))))) (. .))

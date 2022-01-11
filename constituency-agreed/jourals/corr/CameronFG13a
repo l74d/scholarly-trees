@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB determine) (NP (NP (DT the) (JJ maximum) (NN complexity)) (PP (IN of) (NP (DT a) (JJ linear) (NN function)))) (SBAR (WHADVP (WRB when)) (S (NP (RB only) (JJ linear) (NNS instructions)) (VP (VBP are) (VP (VBN allowed)))))) (. .))

@@ -1,0 +1,3 @@
+(S (S (NP (JJ Complex) (NNS models)) (VP (VBP suffer) (PP (IN from) (NP (NN uncertainty))))) (CC and) (S (NP (NNS experiments)) (VP (VBP are) (VP (VBN needed) (S (VP (TO to) (VP (VB reduce) (NP (DT this) (NN uncertainty)))))))) (. .))
+(S (SBAR (IN If) (S (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS experiments)))) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN performed)))))))) (, ,) (NP (JJ experimental) (NN design)) (VP (VBZ is) (VP (VBN needed) (S (VP (TO to) (VP (VB determine) (NP (DT the) (NN order))))))) (. .))
+(S (NP (JJ Experimental) (NN design)) (VP (VBZ involves) (S (VP (VBG choosing) (NP (NP (DT the) (NN experiment)) (SBAR (WHNP (WDT that)) (S (VP (VBZ yields) (NP (NP (DT the) (JJS greatest) (NN reduction)) (PP (IN in) (NP (NNP MOCU))))))))))) (. .))

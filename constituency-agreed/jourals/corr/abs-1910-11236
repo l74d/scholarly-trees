@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN interpretability)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBZ is) (VP (VBN reflected) (PP (IN by) (S (VP (VBG providing) (NP (JJ posterior) (NN interpretation)) (PP (IN for) (NP (JJ neural) (NN network) (NNS predictions)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP compare) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN congestion) (NN avoidance)))) (PP (IN with) (NP (NP (DT that)) (PP (IN of) (NP (NN congestion) (NN control)))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NP (JJ possible) (NNS alternatives)) (PP (IN for) (NP (NN congestion) (NN avoidance)))))) (VP (VBD were) (VP (VBN identified))) (. .))

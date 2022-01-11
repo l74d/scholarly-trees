@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN impact)) (PP (IN of) (NP (NN book) (NNS chapters)))) (VP (MD can) (VP (VB be) (VP (VBN characterized) (ADVP (RB statistically)) (PP (IN by) (NP (NNS citations) (NNS histograms)))))) (. .))
+(S (NP (PRP We)) (VP (VBP observe) (SBAR (IN that) (S (NP (NP (DT the) (NN citation) (NNS patterns)) (PP (IN of) (NP (NN book) (NNS chapters)))) (VP (VBP follow) (NP (DT a) (JJ Lotkaian) (NN distribution)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ final) (NN classification) (NN algorithm)) (VP (VBD was) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (NP (DT some) (NNS predictions)) (PP (IN of) (NP (NP (DT all) (JJ softmax) (NNS values)) (PP (IN from) (NP (DT these) (CD four) (NNS models))))))))) (. .))

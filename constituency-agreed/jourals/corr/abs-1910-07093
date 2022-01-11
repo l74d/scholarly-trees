@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ frugal) (JJ semantic) (NN segmentation) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (NP (RB only) (DT a) (JJ small) (NN amount)) (PP (IN of) (NP (VBN labeled) (NNS data))))))))) (. .))

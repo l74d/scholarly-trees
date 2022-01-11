@@ -1,0 +1,1 @@
+(S (NP (NP (VBG Existing) (NNS solutions)) (, ,) (PP (IN like) (NP (NP (NNS simulators)) (, ,) (NP (JJ basic) (NN network) (NNS emulators)) (, ,) (CC or) (NP (JJ local) (NN cloud) (NNS testbeds)))) (, ,)) (VP (VBP do) (RB not) (VP (VB support) (NP (NP (DT all) (NNS aspects)) (PP (IN of) (NP (DT these) (NNS tasks)))))) (. .))

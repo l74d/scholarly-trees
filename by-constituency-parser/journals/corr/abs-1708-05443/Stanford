@@ -1,0 +1,7 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (DT a) (JJ low) (NN complexity) (NN method)) (PP (IN for) (NP (NP (NN time) (NN domain) (NN compensation)) (PP (IN of) (NP (NP (NN phase) (NN noise)) (PP (IN in) (NP (NNP OFDM) (NNS systems)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (NP (VBG existing) (NNS methods)) (PP (IN in) (NP (JJ several) (NNS respects))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VP (VBP derive) (NP (NP (DT an) (JJ improved) (JJ datadirected) (NN choice)) (PP (IN of) (NP (NP (NN basis) (NNS elements)) (PP (IN for) (NP (NML (NNP LS) (NN phase)) (NN noise) (NN estimation))))))) (CC and) (VP (VB present) (NP (PRP$ its) (JJ total) (NML (JJS least) (JJ square) (NN counterpart)) (NN problem)))) (. .))
+(S (NP (DT The) (JJ proposed) (NN method)) (VP (VBZ helps) (VP (VB overcome) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS weaknesses)) (PP (IN of) (NP (NNP OFDM) (NNS systems)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VB generalize) (NP (DT the) (NN time) (NN domain) (NN phase) (NN noise) (NN compensation)) (PP (IN to) (NP (DT the) (NN multiuser) (NN MIMO) (NN context)))) (. .))
+(NP (NP (NP (ADJP (ADVP (RB Finally)) (NP (PRP we)) (JJ present)) (NN simulation) (NNS results)) (VP (VBG using))) (CC both) (NP (ADJP (JJ simulated) (CC and) (VBN measured)) (VBN phased) (NN noise)) (. .))
+(S (NP (PRP We)) (VP (VBP quantify) (NP (DT the) (NN tracking) (NN performance)) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NP (JJ residual) (NN carrier)) (VP (VBN offset))))))) (. .))

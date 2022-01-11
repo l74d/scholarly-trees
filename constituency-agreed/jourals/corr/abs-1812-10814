@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (NP (DT this) (NN challenge)))) (VP (VBZ is) (S (VP (TO to) (VP (VB verify) (NP (NNS claims)) (PP (IN by) (S (VP (VBG extracting) (NP (NN information)) (PP (IN from) (NP (NNP Wikipedia)))))))))) (. .))
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ has) (NP (CD two) (NNS parts))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN part))) (NP (PRP it)) (VP (VBZ performs) (NP (NP (DT a) (NN search)) (PP (IN for) (NP (NN candidate) (NNS sentences)))) (PP (IN by) (S (VP (VBG treating) (NP (DT the) (NNS claims)) (PP (IN as) (NP (NN query))))))) (. .))

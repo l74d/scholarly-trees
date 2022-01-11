@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ perennial) (NN question)) (PP (IN in) (NP (NN computer) (NNS networks)))) (VP (VBZ is) (SBAR (WHADVP (WRB where)) (S (VP (TO to) (VP (VB place) (NP (NN functionality)) (PP (IN among) (NP (NP (NNS components)) (PP (IN of) (NP (DT a) (VBN distributed) (NN computer) (NN system)))))))))) (. .))
+(S (NP (NP (DT The) (JJ key) (JJ architectural) (NN principle)) (PP (IN of) (NP (NNP Volur)))) (VP (VBZ is) (NP (NP (NN predictability)) (PP (IN of) (NP (DT the) (NN network))))) (. .))

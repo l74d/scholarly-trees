@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (S (VP (VBG predicting) (NP (NP (DT the) (JJ final) (NN number)) (PP (IN of) (NP (NP (NNS reshares)) (PP (IN of) (NP (DT a) (VBN given) (NN post)))))))))) (. .))
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ requires) (NP (NP (DT no) (NN training)) (CC or) (NP (JJ expensive) (NN feature) (NN engineering)))) (. .))

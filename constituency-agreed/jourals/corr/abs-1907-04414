@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG governing) (NNS equations)) (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB accurately)) (PP (IN with) (NP (NP (DT a) (JJ monolithic) (NN approach)) (VP (VBG using) (NP (NP (JJ mixed) (JJ finite) (NNS elements)) (CC and) (NP (NP (NNP Newton) (POS 's)) (NN method))))))))) (. .))
+(S (NP (DT A) (ADJP (JJ flexible) (CC and) (JJ extensible)) (JJ open) (NN source) (NN implementation)) (VP (VBZ is) (VP (VBN provided))) (. .))

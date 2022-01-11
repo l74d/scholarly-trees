@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS packets)) (VP (VBP are) (ADVP (RB then)) (VP (VBN delayed) (ADVP (RB intentionally)) (S (VP (TO to) (VP (VB send) (NP (JJ hidden) (NN information)) (S (VP (VBG using) (NP (ADJP (NN time) (VBN based)) (NN steganography) (NNS methods))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN construction)) (PP (IN of) (NP (DT the) (NNP EHH) (JJ neural) (NN network)))) (VP (VBZ includes) (NP (CD 2) (NNS stages))) (. .))
+(S (NP (DT The) (NN interpretability)) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NN suggestion)) (PP (IN for) (NP (NN input) (JJ variable) (NN selection)))))))) (. .))

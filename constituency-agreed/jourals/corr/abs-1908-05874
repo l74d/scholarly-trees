@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN model)) (VP (VBD was) (VP (VBN trained) (PP (IN for) (NP (CD 100,000) (NNS iterations))) (, ,) (PP (IN with) (NP (NP (DT a) (NN batch) (NN size)) (PP (IN of) (NP (CD 2))))))) (. .))
+(S (NP (NP (DT The) (NN prediction) (NN time)) (PP (IN of) (NP (DT each) (NN model)))) (VP (VBZ is) (NP (CD 0.052) (NNS seconds))) (. .))

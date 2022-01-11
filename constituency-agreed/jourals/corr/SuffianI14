@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN selected) (NNS metrics)) (VP (VBP are) (ADVP (RB then)) (VP (VBN put) (PP (IN into) (NP (NN regression) (NN analysis))) (S (VP (TO to) (VP (VB generate) (NP (JJ several) (JJ mathematical) (NNS equations))))))) (. .))
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN verified) (S (VP (VBG using) (NP (JJ new) (NNS projects)) (S (VP (TO to) (VP (VB confirm) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ fit) (PP (IN for) (NP (JJ actual) (NN implementation)))))))))))))) (. .))

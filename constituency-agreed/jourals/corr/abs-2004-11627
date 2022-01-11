@@ -1,0 +1,1 @@
+(S (NP (NNP Channel) (NN pruning)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS techniques)) (PP (IN for) (S (VP (VBG compressing) (NP (JJ neural) (NNS networks)) (PP (IN with) (NP (JJ convolutional) (NNS filters)))))))))) (. .))

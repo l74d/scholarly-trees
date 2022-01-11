@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VP (VBP do) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (NP (DT the) (NNS specificities)) (PP (IN of) (NP (DT each) (NN device)))))))))) (, ,) (CC but) (VP (MD can) (VP (VB do) (ADVP (RB so)) (SBAR (IN if) (FRAG (ADJP (JJ necessary))))))) (. .))
+(S (NP (NP (DT The) (NN description)) (PP (IN of) (NP (NP (DT a) (ADJP (RB widely) (VBN used)) (NN implementation)) (PP (IN of) (NP (NNP BrlAPI)))))) (VP (VBZ is) (VP (VBN included))) (. .))

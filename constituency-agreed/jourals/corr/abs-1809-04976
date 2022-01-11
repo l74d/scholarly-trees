@@ -1,0 +1,1 @@
+(S (NP (DT Each) (NN group)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (JJ realistic) (NNS images)) (PP (IN through) (NP (JJ adversarial) (NN training)))))))) (. .))

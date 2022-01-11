@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (JJ suboptimal) (NML (NN H) (HYPH -) (NN infinity)) (NNS controllers)))) (PP (IN for) (NP (NML (NN time) (HYPH -) (NN delay)) (NNS systems)))) (. .))
+(S (NP (DT The) (JJ optimal) (NML (NN H) (HYPH -) (NN infinity)) (NN controller)) (VP (MD may) (VP (VB have) (NP (UCP (ADVP (RB finitely)) (CC or) (ADJP (RB infinitely) (JJ many) (JJ unstable))) (NNS poles)))) (. .))
+(S (NP (DT A) (JJ stable) (JJ suboptimal) (NML (NN H) (HYPH -) (NN infinity)) (NN controller) (NN design) (NN procedure)) (VP (VBZ is) (VP (VBN given) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (DT these) (NNS cases))))))) (. .))
+(S (NP (DT The) (NN design) (NNS methods)) (VP (VBP are) (VP (VBN illustrated) (PP (IN with) (NP (NNS examples))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP study) (NP (NP (DT the) (NN error)) (PP (IN of) (NP (DT this) (NN scheme))))) (CC and) (VP (VB compare) (NP (DT this) (NN scheme)) (PP (IN with) (NP (NP (PRP$ our) (JJ previous) (NN work)) (PP (IN on) (NP (NNS wavelets))))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (DT some) (JJ numerical) (NNS experiments)) (VP (VBP are) (VP (VBN performed))) (. .))

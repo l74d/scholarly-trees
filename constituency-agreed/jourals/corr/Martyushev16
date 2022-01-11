@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (CD two) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NNS conditions)) (SBAR (WHNP (WDT that)) (S (VP (VBP characterize) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ trifocal) (JJ essential) (NNS matrices))))))))) (. .))

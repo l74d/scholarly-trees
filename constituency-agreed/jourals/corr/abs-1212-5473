@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN graph)) (VP (MD should) (ADVP (RB therefore)) (VP (VB be) (ADJP (ADJP (JJR richer)) (PP (IN than) (NP (DT a) (JJ simple) (JJ simplicial) (NN decomposition)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (S (VP (TO to) (VP (VB embed) (NP (NP (JJ geometrical) (NN information)) (CC and) (NP (DT the) (JJ standard) (NN model))))))) (. .))
+(S (NP (PRP We)) (VP (VBP start) (PP (IN from) (NP (NP (NNP Lisi) (POS 's)) (NN model)))) (. .))

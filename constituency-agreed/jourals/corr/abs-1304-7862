@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN formalisation)) (VP (VBZ represents) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NP (DT the) (NNS values)) (PP (IN of) (NP (NP (DT all) (NNS wires)) (PP (IN of) (NP (DT a) (NN design))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (JJ several) (NNS properties)) (PP (IN on) (NP (DT the) (NNS semantics))) (, ,) (PP (VBG including) (NP (NP (NN termination)) (, ,) (NP (NP (NN non-emptiness)) (PP (IN of) (NP (NN routing)))) (, ,) (CC and) (NP (NP (NN correctness)) (PP (IN of) (NP (NN progress) (NNS conditions)))))))) (. .))

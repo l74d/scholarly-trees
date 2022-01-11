@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN user)) (VP (VBZ provides) (NP (NP (NN feedback)) (PP (IN on) (NP (DT these) (NNS suggestions))))) (. ?))
+(S (CC and) (NP (DT the) (NN system)) (VP (VBZ learns) (PP (IN from) (NP (DT this) (NN feedback)))) (. .))

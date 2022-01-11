@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN slime) (NN mould)) (VP (VBZ does) (RB not) (VP (VB differentiate) (PP (IN between) (NP (ADJP (JJ green) (CC and) (JJ white)) (NNS colours))))) (. .))
+(S (NP (DT The) (NN slime) (NN mould)) (ADVP (RB also)) (VP (VBZ recognises) (SBAR (WHADVP (WRB when)) (S (NP (JJ red) (NN colour)) (VP (VBZ is) (VP (VBN switched) (PRT (RP off))))))) (. .))

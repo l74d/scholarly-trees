@@ -1,0 +1,2 @@
+(S (PP (VBN Given) (NP (DT the) (NN mode) (NN sequence))) (, ,) (NP (DT the) (NN control) (NN objective)) (VP (VBZ is) (VP (VBG finding) (NP (NP (DT the) (JJ optimal) (NN switching) (NN time) (NNS instants)) (PP (IN between) (NP (DT the) (NNS modes)))) (SBAR (IN while) (S (NP (DT the) (NN wheel) (NN loader)) (VP (VBZ tracks) (NP (DT the) (JJ optimal) (NN path))))))) (. .))
+(S (S (VP (TO To) (VP (VB solve) (NP (DT the) (JJ optimal) (NN control) (NN problem))))) (, ,) (NP (JJ approximate) (JJ dynamic) (NN programming)) (VP (VBZ is) (VP (VBN used))) (. .))

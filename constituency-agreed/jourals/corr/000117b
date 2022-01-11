@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ comprehensive) (NN overview)) (PP (IN over) (NP (NP (VBG existing) (NNS techniques)) (PP (IN for) (NP (NP (NNP CNN) (NN analysis)) (CC and) (NP (NN topology) (NN construction))))))) (VP (VBZ is) (VP (VBN provided))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN method)))) (, ,) (NP (JJ hierarchical) (NNS classifiers)) (VP (VBP are) (VP (VBN described) (CC and) (VBN evaluated))) (. .))

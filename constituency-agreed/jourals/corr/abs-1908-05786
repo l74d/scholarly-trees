@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT a) (JJ single) (NN prediction) (NN map)) (VP (VBZ is) (VP (VBN produced) (PP (IN from) (NP (NP (DT an) (NN input) (NN clip)) (PP (IN of) (NP (JJ multiple) (NNS frames))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ assumes) (SBAR (IN that) (S (NP (NP (DT the) (NN saliency) (NN map)) (PP (IN of) (NP (DT any) (NN frame)))) (VP (MD can) (VP (VB be) (VP (VBN predicted) (PP (IN by) (S (VP (VBG considering) (NP (NP (DT a) (JJ limited) (NN number)) (PP (IN of) (NP (JJ past) (NNS frames))))))))))))) (. .))

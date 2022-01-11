@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN comprised) (PP (IN of) (NP (NP (DT a) (NN sensor) (NN node)) (, ,) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NN relay) (NNS nodes)))) (CC and) (NP (DT a) (JJ remote) (NN controller)))))) (. .))
+(S (NP (NP (DT The) (NN communication) (NNS links)) (PP (IN between) (NP (DT all) (NNS nodes)))) (VP (VBP are) (VP (VBN modeled) (PP (IN as) (NP (JJ Gaussian) (NNS channels))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (SBAR (S (NP (DT a) (NN discrete) (NN memoryless) (NN broadcast) (NN channel)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD two) (NNS users)) (CC and) (NP (DT a) (NN sender)))))))) (. .))
+(S (NP (DT The) (NN sender)) (VP (VBZ has) (NP (NP (CD two) (JJ independent) (JJ confidential) (NNS messages)) (PP (IN for) (NP (DT each) (NN user))))) (. .))

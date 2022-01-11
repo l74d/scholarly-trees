@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP extract) (NP (NP (JJ explicit) (NNS features)) (PP (IN for) (NP (NN person) (NNS entities)))) (PP (IN from) (NP (DT the) (NNP Freebase) (NN knowledge) (NN base)))) (. .))

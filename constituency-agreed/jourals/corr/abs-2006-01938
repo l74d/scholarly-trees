@@ -1,0 +1,1 @@
+(S (NP (NNP Word) (NNS embeddings)) (VP (VBP are) (NP (NP (DT the) (JJ standard) (NN model)) (PP (IN for) (NP (NP (ADJP (JJ semantic) (CC and) (JJ syntactic)) (NNS representations)) (PP (IN of) (NP (NNS words))))))) (. .))

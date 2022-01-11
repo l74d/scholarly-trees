@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (NN video) (NN captioning)) (VP (VBZ is) (NP (DT a) (JJ multimodal) (NN learning) (NN problem)))) (, ,) (CC and) (S (NP (DT the) (NN video) (NNS features)) (VP (VBP have) (NP (NP (JJ much) (NN redundancy)) (PP (IN between) (NP (JJ different) (NN time) (NNS steps)))))) (. .))

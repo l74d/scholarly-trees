@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS problems)) (VP (VBP are) (VP (VBN accentuated) (PP (IN by) (NP (ADJP (JJ temporal) (CC and) (JJ stateful)) (NN behavior))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN network) (NN monitoring) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ avoids) (NP (DT these) (NNS problems))))))) (. .))

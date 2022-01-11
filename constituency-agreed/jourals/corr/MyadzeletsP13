@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN time) (NN complexity)) (PP (IN of) (NP (JJ such) (NN problem)))) (VP (VBZ is) (ADJP (RB very) (JJ high))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (PRP it))))) (, ,) (NP (DT the) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ structural) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN system) (POS 's)) (NNS modules))))) (. .))

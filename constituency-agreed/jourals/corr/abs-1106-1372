@@ -1,0 +1,2 @@
+(S (S (VP (VBG Optimizing) (NP (NP (DT any) (NN part)) (PP (IN of) (NP (DT these) (NNS components)))))) (VP (MD can) (VP (VB enhance) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (NN solver)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ focuses) (PP (IN on) (S (VP (VBG optimizing) (NP (NN phase) (NN selection)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NN Generalization)) (PP (IN of) (NP (NP (NN usage)) (PP (IN of) (NP (DT the) (NN concept)))))) (VP (MD will) (VP (VB be) (VP (VBN proposed) (PP (IN for) (NP (NP (NN line) (NN segment)) (CC and) (NP (NNS polygons))))))) (. .))
+(S (NP (NP (NNS Results)) (PP (IN of) (NP (NNS tests)))) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ new) (NN approach)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ effective)) (PP (IN than) (NP (DT the) (JJ current) (CD one)))))))) (. .))

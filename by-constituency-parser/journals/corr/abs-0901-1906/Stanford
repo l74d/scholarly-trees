@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (JJ numerical) (NN scheme)) (PP (IN for) (NP (CD one) (ADJP (JJ dimensional) (JJ dynamical)) (NNS systems))))) (. .))
+(S (NP (DT This)) (VP (VP (VBZ is) (NP (NP (DT a) (NN modification)) (PP (IN of) (NP (DT the) (JJ discrete) (NN gradient) (NN method))))) (CC and) (VP (VBZ keeps) (NP (PRP$ its) (NNS advantages))) (, ,) (PP (VBG including) (NP (NP (DT the) (NN stability)) (CC and) (NP (NP (DT the) (NN conservation)) (PP (IN of) (NP (DT the) (NN energy) (NN integral))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (NN accuracy)) (VP (VBZ is) (ADJP (ADJP (JJR higher)) (PP (IN by) (NP (NP (JJ several) (NNS orders)) (PP (IN of) (NP (NN magnitude))))))) (. .))

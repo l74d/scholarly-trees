@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN learner)) (VP (VP (VBZ is) (RB not) (ADJP (JJ aware) (PP (IN of) (NP (NP (DT the) (NN user) (POS 's)) (NNS preferences))))) (, ,) (CC but) (VP (MD can) (VP (VB learn) (NP (PRP them)) (PP (IN from) (NP (VBN observed) (NNS choices)))))) (. .))

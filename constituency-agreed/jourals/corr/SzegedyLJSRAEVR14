@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NN hallmark)) (PP (IN of) (NP (DT this) (NN architecture)))) (VP (VBZ is) (NP (NP (DT the) (JJ improved) (NN utilization)) (PP (IN of) (NP (NP (DT the) (NN computing) (NNS resources)) (PP (IN inside) (NP (DT the) (NN network))))))) (. .))
+(S (S (VP (TO To) (VP (VB optimize) (NP (NN quality))))) (, ,) (NP (DT the) (JJ architectural) (NNS decisions)) (VP (VBD were) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ Hebbian) (NN principle)) (CC and) (NP (NP (DT the) (NN intuition)) (PP (IN of) (NP (JJ multi-scale) (NN processing)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (VBG growing) (NN interest)) (PP (IN in) (NP (NP (NN expressivity)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))))))) (. .))
+(S (NP (NP (DT This) (NN class)) (PP (IN of) (NP (NN activation) (NNS functions)))) (VP (VBZ includes) (NP (NP (JJS most)) (PP (IN of) (NP (ADJP (RB frequently) (VBN used)) (NN activation) (NNS functions))))) (. .))

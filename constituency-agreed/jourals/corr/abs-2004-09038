@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN treated) (PP (IN by) (NP (NP (JJ numerical) (NN optimization) (NNS methods)) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (NP (NP (DT a) (JJ particular) (NN level)) (PP (IN of) (NP (NN distance) (NN error)))) (VP (VBZ is) (VP (VBN allowed))))))))) (. .))

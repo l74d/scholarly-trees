@@ -1,0 +1,2 @@
+(S (NP (NN Memory) (NN hierarchy)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB compete) (NP (DT the) (NNS processors) (NN speed))))))) (. .))
+(S (ADVP (RB Thus)) (NP (NP (JJ same) (NN replacement) (NN algorithm)) (PP (IN for) (NP (NP (DT all) (NNS types)) (PP (IN of) (NP (NN application)))))) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ efficient)))) (. .))

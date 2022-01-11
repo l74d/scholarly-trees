@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ present) (JJ white) (NN paper)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (NN system) (NNS requirements)) (PP (IN of) (NP (NNP TERRANOVA)))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP it)) (VP (VBZ provides) (NP (NP (NP (DT the) (NNS networks) (NN architecture)) (PP (IN for) (NP (DT the) (NNP TERRANOVA) (NN system)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN network) (NNS elements)) (SBAR (WHNP (WDT that)) (S (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN deployed))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN framework)) (PP (IN for) (NP (NP (JJ such) (JJ quantitative) (NN analysis)) (PP (IN of) (NP (JJ smart) (NNS contracts))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (TO to) (VP (VB analyze) (NP (JJ smart) (NNS contracts))))) (, ,) (NP (JJ stateful) (NN analysis)) (VP (VBZ is) (VP (VBN required) (SBAR (IN as) (S (NP (PRP it)) (VP (MD must) (VP (VB account) (PP (IN for) (NP (NP (DT the) (JJ different) (NN program) (NNS states)) (PP (IN of) (NP (DT the) (NN protocol))))))))))) (. .))

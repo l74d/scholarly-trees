@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN correctness) (, ,) (NN efficiency) (, ,) (CC and) (NN scalability)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBP are) (VP (VBN verified) (PP (IN in) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ numerical) (NNS experiments))))))) (. .))

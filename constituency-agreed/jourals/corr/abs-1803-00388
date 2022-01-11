@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ new) (JJ adaptive) (NN filter) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (NP (JJ variable) (NN scale) (CC and) (NN orientation))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (RB only) (DT the) (NNS weights)) (PP (IN in) (NP (DT the) (NN envelope)))) (VP (VBP are) (VP (VBN updated) (PP (IN during) (NP (NN training))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN output)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (NP (NP (DT a) (JJ regular) (NN dendrogram)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ reveals) (NP (NP (DT the) (JJ multi-scale) (NN structure)) (PP (IN of) (NP (DT the) (NN graph))))))))) (. .))

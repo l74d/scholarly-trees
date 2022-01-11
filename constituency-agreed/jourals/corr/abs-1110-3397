@@ -1,0 +1,2 @@
+(S (NP (NN odeint)) (VP (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (DT a) (ADJP (RB highly) (JJ generic)) (NN way))))) (CC and) (VP (VBZ provides) (NP (JJ extensive) (NN interoperability)) (PP (IN at) (NP (JJ top) (NN performance))))) (. .))
+(S (PP (IN Despite) (NP (DT that))) (, ,) (NP (PRP it)) (VP (VBZ provides) (NP (NP (DT a) (JJ convenient) (NN interface)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (PP (IN for) (NP (DT a) (ADJP (JJ simple) (CC and) (JJ easy)) (NN usage)))))))) (. .))

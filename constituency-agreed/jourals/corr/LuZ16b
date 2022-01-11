@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (JJ little) (JJ theoretical) (NN investigation)) (PP (IN on) (NP (NP (DT the) (ADJP (JJ statistical) (CC and) (JJ computational)) (NNS guarantees)) (PP (IN of) (NP (NP (NNP Lloyd) (POS 's)) (NN algorithm)))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (NP (DT an) (NN attempt) (S (VP (TO to) (VP (VB bridge) (NP (NP (DT this) (NN gap)) (PP (IN between) (NP (NN practice) (CC and) (NN theory))))))))) (. .))

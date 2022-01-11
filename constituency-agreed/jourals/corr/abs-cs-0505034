@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT A) (NN development)) (PP (IN of) (NP (JJ primitive) (JJ recursive) (NNS functions)))) (VP (VBZ is) (VP (VBN given)))) (, ,) (CC and) (S (NP (DT all) (JJ primitive) (JJ recursive) (NNS functions)) (VP (VBP are) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (ADJP (JJ representable) (PP (IN in) (NP (DT a) (JJ weak) (NN axiom) (NN system)))))))))) (. .))
+(S (NP (DT The) (JJ weak) (NN axiom) (NN system)) (VP (VBZ is) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (ADJP (RB essentially) (JJ incomplete))))))) (. .))

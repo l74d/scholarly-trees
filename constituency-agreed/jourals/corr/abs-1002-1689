@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (MD can) (RB not) (VP (VB distinguish) (NP (NN noise) (VBN lost) (NNS packets)) (PP (IN from) (NP (NN collision) (VBN lost) (NNS packets))))) (. .))
+(S (PP (IN In) (NP (DT both) (NNS situations))) (NP (DT a) (NN station)) (VP (VP (VBZ does) (RB not) (VP (VB receive) (NP (PRP$ its) (NNP ACK)))) (CC and) (VP (VBZ doubles) (NP (DT the) (NNP CW)) (S (VP (TO to) (VP (VB reduce) (NP (JJ further) (NN packet) (NNS collisions))))))) (. .))

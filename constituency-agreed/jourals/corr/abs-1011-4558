@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (PRP$ our) (NN compilation) (NN scheme))))))) (. .))
+(S (NP (DT The) (JJ current) (NNP CPC) (NN compiler)) (VP (VBZ is) (ADJP (JJ mature) (RB enough) (S (VP (TO to) (VP (VB write) (NP (NP (JJ substantial) (NNS programs)) (PP (JJ such) (IN as) (NP (NP (NNP Hekate)) (, ,) (NP (DT a) (ADJP (RB highly) (JJ concurrent)) (NNP BitTorrent) (NN seeder)))))))))) (. .))

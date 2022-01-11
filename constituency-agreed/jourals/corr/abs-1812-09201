@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Packets)) (VP (VBG waiting) (PP (IN for) (NP (NN transmission))))) (VP (MD can) (VP (VB be) (VP (VBN discarded) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG wasting) (NP (NN network) (NNS resources)) (PP (IN for) (NP (NP (DT the) (NN transmission)) (PP (IN of) (NP (JJ stale) (NN information))))))))))))) (. .))

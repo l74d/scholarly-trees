@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP disprove) (NP (NP (DT a) (JJ recent) (NN conjecture)) (PP (VBG regarding) (NP (NP (JJ discrete) (NNS distributions)) (CC and) (NP (PRP$ their) (NN generating) (NNS polynomials))))) (S (VP (VBG stating) (SBAR (IN that) (S (NP (JJ strong) (JJ log-concavity)) (VP (NNS implies) (NP (NN log-submodularity)))))))) (. .))

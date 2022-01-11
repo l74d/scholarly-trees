@@ -1,0 +1,1 @@
+(S (CC But) (NP (CD one)) (ADVP (RB often)) (VP (VBZ needs) (NP (NN approximation) (NN inference)) (SBAR (IN if) (S (NP (NN distribution) (NN assumption)) (VP (VBZ is) (PP (IN beyond) (NP (JJ Gaussian) (NN distribution))))))) (. .))

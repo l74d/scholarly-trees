@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (NP (CD two) (JJ possible) (NNS frameworks)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN studied))))))) (: :) (NP (NP (VBN directed) (NN information) (NN theory)) (CC and) (NP (NNP Granger) (NN causality))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN goal)) (PP (IN of) (NP (DT the) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN connection)) (PP (IN between) (NP (DT these) (CD two) (NNS frameworks)))))))) (. .))

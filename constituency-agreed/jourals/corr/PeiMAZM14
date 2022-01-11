@@ -1,0 +1,2 @@
+(S (ADVP (RB So) (RB far)) (, ,) (NP (NP (NN validation)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS predictors)))) (VP (VBZ has) (VP (VBN been) (VP (VBN done) (PP (IN by) (S (VP (VP (VBG simulating) (NP (DT the) (VBG spreading) (NNS dynamics))) (CONJP (RB rather) (IN than)) (VP (VBG following) (NP (NP (JJ real) (NN information) (NN flow)) (PP (IN in) (NP (JJ social) (NNS networks))))))))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT this) (NN issue)) (ADVP (RB directly))) (. .))

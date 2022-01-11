@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN wavelet) (NN space)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB have) (NP (NP (JJ local) (, ,) (JJ smooth) (NNS filters)) (PP (IN with) (NP (ADJP (RB far) (JJR fewer)) (NNS parameters))))))))) (, ,) (CC and) (S (NP (NN learnability)) (VP (MD can) (VP (VB give) (NP (PRP us)) (NP (NN flexibility))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Smartphones)) (VP (VBP have) (VP (VBN become) (NP (NP (DT an) (JJ intrinsic) (NN part)) (PP (IN of) (NP (NP (NN human) (POS 's)) (NN life)))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN approach)) (VP (MD can) (VP (VB identify) (NP (NN malware)) (PP (IN with) (NP (JJ high) (NN accuracy)))))))) (. .))

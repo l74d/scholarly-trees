@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (NNP SBSE) (NNS solutions)) (VP (VBP are) (ADVP (RB often)) (VP (VBN validated) (PP (IN on) (NP (NN benchmark) (NNS problems))))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT a) (NN need) (S (VP (TO to) (VP (VB validate) (NP (PRP them)) (PP (IN in) (NP (DT an) (JJ operational) (NN setting)))))))) (. .))

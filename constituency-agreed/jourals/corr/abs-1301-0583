@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (NN value) (NN iteration)) (VP (VBZ has) (NP (RB only) (JJ pseudo-polynomial) (NN complexity)) (PP (IN in) (ADJP (JJ general)))))))) (. .))

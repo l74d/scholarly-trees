@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN transformation)) (VP (VBZ is) (VP (VBN done) (PP (IN in) (NP (CD two) (NNS phases))))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ discusses) (NP (NP (DT the) (JJ main) (NNS ideas)) (PP (IN of) (NP (NP (DT the) (NN optimization) (NN algorithm)) (CC and) (NP (PRP$ its) (NN implementation)))))) (. .))

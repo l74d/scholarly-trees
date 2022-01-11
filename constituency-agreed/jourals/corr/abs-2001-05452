@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN communication) (NNS constraints)) (ADVP (RB only)) (VP (VBP have) (NP (NP (DT a) (JJ second) (NN order) (NN effect)) (PP (IN on) (NP (NP (DT the) (NN regret)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))))))))) (. .))

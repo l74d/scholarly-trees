@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN case))) (, ,) (NP (NP (JJ multi-hop) (NN message) (NN transmission)) (PP (IN via) (NP (JJ intermediate) (NNS relays)))) (VP (MD can) (VP (VB help) (S (VP (TO to) (VP (VB improve) (NP (NN performance))))))) (. .))
+(S (NP (DT The) (NNS relays)) (VP (MD can) (VP (VB transmit) (ADVP (RB covertly)) (S (VP (VBG using) (NP (CC either) (NP (NP (DT a) (JJ single) (NN key)) (PP (IN for) (NP (DT all) (NNS relays)))) (, ,) (CC or) (NP (NP (JJ different) (JJ independent) (NNS keys)) (PP (IN at) (NP (DT the) (NNS relays))))))))) (. .))

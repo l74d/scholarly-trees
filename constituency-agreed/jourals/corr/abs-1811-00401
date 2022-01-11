@@ -1,0 +1,3 @@
+(S (NP (NP (CD One) (NN core) (NN idea)) (PP (IN of) (NP (JJ adversarial) (NN example) (NN research)))) (VP (VBZ is) (S (VP (TO to) (VP (VB reveal) (NP (JJ neural) (NN network) (NNS errors)) (PP (IN under) (NP (JJ such) (NN distribution) (NNS shifts))))))) (. .))
+(S (NP (PRP We)) (VP (VBP decompose) (NP (DT these) (NNS errors)) (PP (IN into) (NP (NP (CD two) (JJ complementary) (NNS sources)) (: :) (NP (NN sensitivity) (CC and) (NN invariance))))) (. .))
+(S (NP (DT This)) (VP (VBZ provides) (NP (NP (DT the) (JJ first) (NN approach)) (VP (VBN tailored) (ADVP (RB explicitly)) (S (VP (TO to) (VP (VB overcome) (NP (NP (JJ excessive) (NN invariance)) (CC and) (NP (VBG resulting) (NNS vulnerabilities))))))))) (. .))

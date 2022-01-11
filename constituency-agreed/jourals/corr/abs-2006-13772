@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (NN test) (NN time))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB predict) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (DT a) (NN sample)))) (PP (IN by) (S (VP (VBG identifying) (NP (NP (DT the) (NN network)) (SBAR (WHNP (WDT which)) (S (VP (VBD predicted) (NP (DT the) (JJS highest) (NN likelihood))))))))))) (. .))

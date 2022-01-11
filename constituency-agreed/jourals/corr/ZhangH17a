@@ -1,0 +1,1 @@
+(S (NP (CC OR) (JJ multi-access) (NN channel)) (VP (VBZ is) (NP (NP (DT a) (JJ simple) (NN model)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN channel) (NN output)) (VP (VBZ is) (NP (NP (DT the) (NNP Boolean) (NNP OR)) (PP (IN among) (NP (DT the) (NNP Boolean) (NN channel) (NNS inputs))))))))) (. .))

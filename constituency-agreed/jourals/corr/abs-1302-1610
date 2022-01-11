@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ adaptive) (NN method)) (VP (VP (VBZ has) (NP (JJ low) (NN latency))) (, ,) (CC and) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ robust)) (PP (IN than) (NP (JJ previous) (NNS methods)))))) (. .))

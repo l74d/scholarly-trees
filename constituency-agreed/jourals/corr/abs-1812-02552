@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ several) (JJ important) (NNS applications))) (, ,) (S (NP (DT the) (NN reference) (NN image)) (VP (VBZ is) (RB not) (ADJP (JJ available)))) (CC and) (S (NP (NN image) (NNS metrics)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN applied))))) (. .))
+(S (NP (DT This)) (VP (VBZ avoids) (NP (JJ false) (NNS positives))) (. .))

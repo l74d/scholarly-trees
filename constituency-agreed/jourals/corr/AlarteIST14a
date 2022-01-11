@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP perform) (NP (NP (JJ different) (NNS analyses)) (PP (IN over) (NP (NP (DT the) (NN structure) (CC and) (NN content)) (PP (IN of) (NP (NNS webpages)))))) (S (VP (TO to) (VP (VB extract) (NP (NP (DT some) (NN part)) (PP (IN of) (NP (DT the) (NN document)))))))) (. .))
+(S (ADVP (RB Similarly)) (, ,) (S (VP (VBG identifying) (NP (DT the) (JJ main) (NN content)))) (VP (VBZ is) (ADJP (JJ essential) (PP (IN for) (NP (JJ many) (NN information) (NN retrieval) (NNS tasks))))) (. .))

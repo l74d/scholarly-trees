@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ theoretical) (NN explanation)) (PP (IN for) (NP (DT this) (NN phenomenon)))) (VP (VBZ establishes) (SBAR (IN that) (S (NP (JJ high) (NN capacity) (NNS autoencoders)) (VP (MD can) (VP (VB learn) (NP (NP (DT an) (JJ arbitrary) (NN mapping)) (PP (IN between) (NP (NP (NNS sequences)) (CC and) (NP (VBN associated) (JJ latent) (NNS representations)))))))))) (. .))

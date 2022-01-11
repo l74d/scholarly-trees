@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ optimal) (NN policy)) (PP (IN for) (NP (DT the) (NN limit) (JJ deterministic) (NN system)))) (VP (VBZ is) (VP (VBN computed) (ADVP (RB explicitly)))) (. .))
+(S (NP (NP (JJ Several) (NNS simulations)) (PP (IN with) (NP (NP (VBG growing) (NNS numbers)) (PP (IN of) (NP (NNS processors)))))) (VP (VBP are) (VP (VBN reported))) (. .))

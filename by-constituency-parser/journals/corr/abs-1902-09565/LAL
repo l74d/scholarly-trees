@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (ADJP (RB fully) (JJ dynamic)) (NNS data) (NN structure)) (PP (IN for) (NP (NP (DT the) (NN maintenance)) (PP (IN of) (NP (NP (JJR lower) (NNS envelopes)) (PP (IN of) (NP (NNS pseudo-lines))))))))) (. .))
+(S (NP (DT The) (NN structure)) (VP (VBZ requires) (NP (ADJP ($ $) (NNP O) (PRN (-LRB- -LRB-) (FW n) (-RRB- -RRB-)) ($ $)) (JJ storage) (NN space))) (. .))

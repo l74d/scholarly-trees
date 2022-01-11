@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (PP (IN under) (NP (JJ certain) (NNS conditions))) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (DT a) (JJ linear) (NN system)))) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ gaussian)) (PP (IN than) (NP (DT the) (NN input))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (NN kurtosis)) (PP (IN as) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NP (DT the) (NN non-gaussianity)) (PP (IN of) (NP (DT the) (NN signal)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (VBG Neuroimaging) (NNS datasets)) (VP (VBP keep) (S (VP (VBG growing) (PP (IN in) (NP (NN size))) (S (VP (TO to) (VP (VB address) (NP (ADJP (RB increasingly) (JJ complex)) (JJ medical) (NNS questions)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP achieve) (NP (DT this)) (PP (IN by) (S (VP (VBG finding) (NP (NP (DT the) (JJS simplest) (JJ graphical) (NN model)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNP Kolmogorov) (NN complexity)))))))))) (. .))
+(S (SBAR (IN As) (S (NP (NNP Kolmogorov) (NN complexity)) (VP (VBZ is) (RB not) (ADJP (RB directly) (JJ computable))))) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (DT the) (JJ minimum) (NN description) (NN length)) (S (VP (TO to) (VP (VB approximate) (NP (PRP it)))))) (. .))

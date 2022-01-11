@@ -1,0 +1,2 @@
+(S (NP (NP (NNP MagNet)) (CC and) (`` ``) (NP (JJ Efficient) (NNS Defenses)) (: ...) ('' '')) (VP (VBD were) (ADVP (RB recently)) (VP (VBN proposed) (PP (IN as) (NP (NP (DT a) (NN defense)) (PP (TO to) (NP (JJ adversarial) (NNS examples))))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB construct) (NP (NP (JJ adversarial) (NNS examples)) (SBAR (WHNP (WDT that)) (S (VP (VBP defeat) (NP (DT these) (NNS defenses)) (PP (IN with) (NP (NP (RB only) (DT a) (JJ slight) (NN increase)) (PP (IN in) (NP (NN distortion)))))))))))))) (. .))

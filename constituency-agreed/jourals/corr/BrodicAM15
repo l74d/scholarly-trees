@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ consists) (PP (IN in) (NP (NP (DT the) (JJ textural) (NN analysis)) (PP (IN of) (NP (DT the) (NN script) (NNS types)))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN step))) (, ,) (NP (DT each) (NN letter)) (VP (VBZ is) (VP (VBN coded) (PP (IN by) (NP (NP (DT the) (JJ equivalent) (NN script) (NN type)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN defined) (PP (IN by) (NP (PRP$ its) (JJ typographical) (NNS features))))))))))) (. .))

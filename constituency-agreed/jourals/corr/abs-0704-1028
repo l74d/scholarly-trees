@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NP (DT the) (NN perceptron) (NN method)) (PP (IN for) (NP (JJ ordinal) (NN regression))))))) (. .))
+(S (PP (VBN Compared) (PP (IN with) (NP (NP (DT the) (JJ ordinal) (NN regression) (NNS methods)) (VP (VBG using) (NP (NP (JJ Gaussian) (NNS processes)) (CC and) (NP (NN support) (NN vector) (NNS machines))))))) (, ,) (NP (NNP NNRank)) (VP (VBZ achieves) (NP (JJ comparable) (NN performance))) (. .))

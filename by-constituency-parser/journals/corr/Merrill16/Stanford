@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN method)) (PP (IN of) (S (VP (VBG training) (NP (DT a) (JJ differentiable) (NN function) (NN approximator)) (PP (IN for) (NP (NP (DT a) (NN regression) (NN task)) (VP (VBG using) (NP (JJ negative) (NNS examples)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP effect) (NP (DT this) (NN training)) (S (VP (VBG using) (NP (JJ negative) (NN learning) (NNS rates))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (NN method)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB perform) (NP (NP (JJ direct) (NN policy) (NN learning)) (PP (IN in) (NP (DT a) (NN reinforcement) (VBG learning) (NN setting))))))))))))) (. .))

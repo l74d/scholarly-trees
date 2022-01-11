@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB schedule) (NP (NNS tasks)) (ADVP (RBR more) (RB efficiently)) (PP (IN with) (NP (JJ various) (NN computation) (NNS times)))))) (, ,) (NP (NNP HVLB_CC_IC)) (VP (VBZ utilizes) (NP (NP (NN schedule) (NNS holes)) (VP (VBN left) (PP (IN in) (NP (NNS processors)))))) (. .))

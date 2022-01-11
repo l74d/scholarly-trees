@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (SBAR (IN if) (S (NP (PRP$ our) (NN calculating) (NN capability)) (VP (VBZ is) (NP (NP (IN that)) (PP (IN of) (NP (NP (DT a) (JJ universal) (NNP Turing) (NN machine)) (PP (IN with) (NP (DT a) (JJ finite) (NN tape))))))))) (, ,) (ADVP (RB then)) (NP (NP (NNP Church) (POS 's)) (NN thesis)) (VP (VBZ is) (ADJP (JJ true)))))) (. .))
+(S (NP (DT This) (NN way)) (NP (PRP we)) (VP (VBP accomplish) (NP (NNP Post) (PRN (-LRB- -LRB-) (CD 1936) (-RRB- -RRB-)) (NN program))) (. .))

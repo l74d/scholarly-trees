@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN concept)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (ADJP (RB purely) (JJ syntactic)) (NN closure) (NNS properties))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN over) (NP (JJ finite) (NNS words))) (, ,) (NP (DT every) (JJ logical) (NN fragment)) (VP (VBZ defines) (NP (NP (DT a) (NN lattice)) (PP (IN of) (NP (NP (NNS languages)) (PP (IN with) (NP (JJ certain) (NN closure) (NNS properties)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN From) (NP (DT these) (NNS data))) (, ,) (NP (DT each) (NN agent)) (VP (VP (VBZ estimates) (NP (NP (DT the) (JJ complete) (JJ dynamic) (NN state)) (PP (IN of) (NP (DT the) (NN system))))) (CC and) (VP (VBZ uses) (NP (PRP$ its) (NN estimate)) (PP (IN for) (NP (NN feedback) (NN control))))) (. .))

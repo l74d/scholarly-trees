@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ novel) (NN inference) (NN method)) (VP (VBZ is) (VP (VBN presented) (S (VP (VBG using) (NP (NP (DT the) (NNP Viterbi) (NN algorithm)) (CC and) (NP (JJ quadratic) (NN optimization))) (PP (IN with) (NP (JJ minimal) (JJ computational) (NN overhead))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Notably)) (, ,) (NP (NP (DT the) (NN algorithm)) (SBAR (S (NP (PRP we)) (VP (VBP propose))))) (VP (VBZ does) (RB not) (VP (VB employ) (NP (JJ primary) (NN decomposition)))) (. .))
+(S (NP (NP (PDT All) (DT the) (NNS examples)) (PP (IN from) (NP (DT the) (NN paper)))) (VP (VBP have) (VP (VBN been) (VP (VBN computed) (PP (IN with) (NP (DT this) (NN implementation)))))) (. .))

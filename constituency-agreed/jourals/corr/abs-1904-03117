@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (PP (IN for) (NP (NP (DT a) (NN link) (NN diagram)) (PP (IN of) (NP (JJ treewidth) (CD two))))) (NP (PRP we)) (VP (MD can) (VP (VB test) (PP (IN in) (NP (JJ linear) (NN time))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ represents) (NP (DT the) (NN unlink)))))))))) (. .))

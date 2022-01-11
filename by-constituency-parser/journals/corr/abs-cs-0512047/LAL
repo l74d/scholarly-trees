@@ -1,0 +1,6 @@
+(S (S (NP (NNP IS) (NP (NN success))) (VP (VBZ is) (NP (DT a) (JJ complex) (NN concept)))) (, ,) (CC and) (S (NP (PRP$ its) (NN evaluation)) (VP (VBZ is) (ADJP (ADJP (VBN complicated)) (, ,) (ADJP (JJ unstructured)) (CC and) (ADJP (RB not) (RB readily) (JJ quantifiable))))) (. .))
+(S (NP (JJ Numerous) (JJ scientific) (NNS publications)) (VP (VBP address) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NP (NN success)) (PP (PP (IN in) (NP (DT the) (NNP IS) (NN field))) (CONJP (RB as) (RB well) (IN as)) (PP (IN in) (NP (JJ other) (NNS fields)))))))) (. .))
+(S (CC But) (, ,) (NP (JJ little) (NNS efforts)) (VP (VBP have) (VP (VBN been) (VP (VBN done) (PP (IN for) (S (VP (VBG processing) (NP (NN indeterminacy) (CC and) (NN uncertainty)) (PP (IN in) (NP (NN success) (NN research))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ shows) (NP (NP (DT a) (JJ formal) (NN method)) (PP (IN for) (S (VP (VBG mapping) (NP (NN success)) (S (VP (VBG using) (NP (NNP Neutrosophic) (NNP Success) (NNP Map))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT an) (VBG emerging) (NN tool)) (PP (IN for) (S (VP (VBG processing) (NP (NN indeterminacy) (CC and) (NN uncertainty)) (PP (IN in) (NP (NN success) (NN research)))))))) (. .))
+(S (NP (NNP EIS) (NN success)) (VP (VBP have) (VP (VBN been) (VP (VBN analyzed) (S (VP (VBG using) (NP (DT this) (NN tool))))))) (. .))

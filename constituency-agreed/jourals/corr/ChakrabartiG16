@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT some) (NNS servers)) (VP (VBP do) (RB not) (VP (VB receive) (NP (DT any) (NN request)))))) (, ,) (NP (PRP they)) (VP (VBP remain) (ADJP (JJ idle))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Observational) (NN equivalence)) (VP (VBZ is) (NP (NP (DT the) (JJ technical) (NN machinery)) (VP (VBN used) (PP (IN for) (S (VP (VBG verifying) (SBAR (IN whether) (S (NP (CD two) (NNS systems)) (VP (VBP are) (ADJP (JJ distinguishable))))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (JJ efficient) (JJ symbolic) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN for) (S (VP (VBG automating) (NP (NP (DT the) (NN check)) (PP (IN of) (NP (NP (JJ observational) (NN equivalence)) (PP (IN of) (NP (NNS systems)))))))))))) (. .))

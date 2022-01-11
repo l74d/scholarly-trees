@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Data)) (PP (IN with) (NP (JJ noisy) (NNS labels)))) (VP (MD can) (ADVP (RB therefore)) (VP (VB be) (VP (VBN cleaned) (PP (IN in) (NP (DT an) (JJ iterative) (NN process)))))) (. .))

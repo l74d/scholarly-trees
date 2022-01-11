@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (JJ several) (NNS algorithms)) (SBAR (WHNP (WDT that)) (S (VP (VBP outperform) (NP (DT the) (JJ previous) (NNS studies)) (PP (DT both) (PP (IN on) (NP (DT the) (JJ theoretical) (NN approximation) (NNS ratios))) (CC and) (PP (IN on) (NP (DT the) (JJ experimental) (NN performance))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (JJ extensive) (NNS experiments)) (S (VP (VBG using) (NP (JJ real) (JJ social) (NNS networks))))) (. .))

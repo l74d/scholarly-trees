@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN emphasis)) (VP (MD will) (VP (VB be) (PP (IN on) (NP (NP (JJ autonomous) (JJ aerial) (NNS vehicles)) (, ,) (VP (VBN modelled) (PP (IN by) (NP (NNP Dubins) (NNS dynamics)))))))) (. .))
+(S (S (VP (TO To) (VP (VB showcase) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (PRP$ our) (NN method))))))) (, ,) (NP (PRP we)) (VP (VBP analyze) (NP (NP (DT a) (NN pursuit) (NN evasion) (NN game)) (PP (IN between) (NP (JJ multiple) (JJ autonomous) (NNS agents))))) (. .))

@@ -1,0 +1,4 @@
+(S (SBAR (IN As) (S (NP (DT the) (NN technology)) (VP (VBZ is) (VP (VBG advancing))))) (, ,) (NP (NP (JJ audio) (NN recognition)) (PP (IN in) (NP (NN machine) (NN learning)))) (VP (VBZ is) (VP (VBN improved) (ADVP (RB as) (RB well)))) (. .))
+(S (NP (NP (NN Research)) (PP (IN in) (NP (JJ audio) (NN recognition)))) (VP (VBZ has) (ADVP (RB traditionally)) (VP (VBN focused) (PP (IN on) (NP (NN speech))))) (. .))
+(S (NP (JJ Continuous) (NN monitoring)) (VP (MD will) (VP (VB take) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ hard) (NN work) (CC and) (NN labor)))))) (. .))
+(S (NP (NP (DT The) (JJS best) (NN way)) (SBAR (S (VP (TO to) (VP (VB monitor) (NP (DT those) (NNS species))))))) (VP (VBP are) (PP (IN through) (NP (JJ audio) (NN recognition)))) (. .))

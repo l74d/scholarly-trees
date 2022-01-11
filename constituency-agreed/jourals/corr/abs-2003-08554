@@ -1,0 +1,3 @@
+(S (NP (PRP$ Their) (NNS advantages)) (VP (MD would) (VP (VB show) (ADVP (RB together)) (SBAR (IN if) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ good) (NN cooperation)) (PP (IN between) (NP (PRP them))))))))) (. .))
+(S (NP (JJ Such) (NN boundary)) (VP (MD could) (VP (VB be) (VP (VBN represented) (PP (IN by) (NP (NP (NNS parameters)) (PP (IN in) (NP (DT a) (NN planning) (NN algorithm)))))))) (. .))
+(S (NP (DT The) (JJ whole) (NN algorithm)) (VP (MD can) (VP (VB find) (NP (NP (DT a) (JJ satisfactory) (NN setting)) (PP (IN of) (NP (VBG planning) (NNS parameters)))) (, ,) (S (VP (VBG making) (NP (NP (JJ full) (NN use)) (PP (IN of) (NP (NP (NN reaction) (NN capability)) (PP (IN of) (NP (JJ specific) (NNS agents)))))))))) (. .))

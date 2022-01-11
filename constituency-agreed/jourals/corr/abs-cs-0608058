@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (PRP$ its) (NN name)) (VP (VBZ suggests)))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ preferential) (NN attachment))))) (. .))
+(S (NP (DT These) (NNS statistics)) (VP (VBP are) (RB not) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN model) (NN formulation))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ multivariate) (NN loading) (NNS conditions))))) (, ,) (NP (DT the) (NNP RNN)) (VP (VBZ learns) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NN noise) (NN generation)) (PP (IN of) (NP (DT the) (NN structure)))))))) (. .))

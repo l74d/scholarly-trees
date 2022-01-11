@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT A) (JJ simple) (NN model)) (PP (IN of) (NP (NP (DT the) (NN aircraft) (POS 's)) (NNS dynamics)))) (VP (VBZ is) (VP (VBN introduced)))) (CC and) (S (NP (PRP$ its) (NNS parameters)) (VP (VBP are) (VP (VBN identified) (PP (IN from) (NP (JJ experimental) (NNS data)))))) (. .))

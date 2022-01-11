@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NNP InterBERT)) (VP (VBZ outperforms) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ strong) (NNS baselines))) (, ,) (PP (VBG including) (NP (DT the) (ADJP (RBS most) (JJ recent)) (JJ multi-modal) (NN pretraining) (NNS methods)))))))) (. .))

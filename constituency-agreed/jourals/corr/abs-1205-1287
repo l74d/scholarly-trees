@@ -1,0 +1,2 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN framework)) (VP (MD can) (VP (VB reconstruct) (NP (DT the) (JJ raw) (NNS recordings)) (PP (IN with) (NP (JJ high) (NN quality)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ ensures) (SBAR (IN that) (S (NP (NP (DT the) (JJ independent) (NN component) (NN analysis) (NN decomposition)) (PP (IN of) (NP (DT the) (JJ reconstructed) (NNS recordings)))) (VP (VBZ has) (NP (JJ high) (NN fidelity)))))) (. .))

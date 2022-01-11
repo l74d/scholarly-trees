@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NN instantiation) (CC and) (NN validation)) (VP (VBP are) (VP (VBN formalised))) (. .))
+(S (S (NP (NP (NNS Requirements)) (PP (IN for) (NP (DT an) (NN unification)))) (VP (VBP are) (VP (VBN elaborated)))) (CC and) (S (NP (DT a) (NN comparison)) (VP (VBZ is) (VP (VBN taken) (PRT (RP out))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (NP (DT The) (NN operating) (NN system) (POS 's)) (NN role)) (PP (IN in) (NP (DT a) (NN computer) (NN system)))) (VP (VBZ is) (S (VP (TO to) (VP (VB manage) (NP (DT the) (JJ various) (NNS resources)))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT these) (NNS resources)))) (VP (VBZ is) (NP (DT the) (NNP Central) (NNP Processing) (NNP Unit))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT a) (JJ single) (NN scheduler)) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ appropriate) (PP (IN for) (NP (DT all) (NNS workloads)))))) (. .))

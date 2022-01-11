@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN method)) (VP (VBZ causes) (NP (JJ frequent) (JJ false) (NNS detections))) (. .))
+(S (PP (IN For) (NP (DT this))) (, ,) (NP (PRP we)) (VP (VBD collected) (NP (NP (DT the) (NN network) (NN traffic)) (PP (IN of) (NP (NP (CD three) (NNS factories)) (VP (VBN owned) (PP (IN by) (NP (NP (NNP Panasonic) (NNP Corporation)) (, ,) (NP (NNP Japan))))))))) (. .))

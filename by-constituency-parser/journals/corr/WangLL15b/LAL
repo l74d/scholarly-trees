@@ -1,0 +1,5 @@
+(S (NP (NNP Linear) (NNS codes)) (VP (VBP have) (VP (VBN been) (NP (NP (DT an) (JJ interesting) (NN subject)) (PP (IN of) (NP (NN study)))) (PP (IN for) (NP (JJ many) (NNS years))))) (. .))
+(S (ADVP (RB Recently)) (, ,) (NP (NP (JJ linear) (NNS codes)) (PP (IN with) (NP (JJ few) (NNS weights)))) (VP (VBP have) (VP (VBN been) (VP (VP (VBN constructed)) (CC and) (VP (ADVP (RB extensively)) (VBN studied))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (PP (IN for) (NP (DT an) (JJ odd) (JJ prime) (NN p))) (, ,) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (JJ three-weight) (JJ linear) (NNS codes)) (PP (IN over) (NP (NNP Fp)))))) (VP (VBP are) (VP (VBN constructed))) (. .))
+(S (NP (NP (DT The) (JJ weight) (NNS distributions)) (PP (IN of) (NP (DT the) (JJ linear) (NNS codes)))) (VP (VBP are) (VP (VBN settled))) (. .))
+(S (NP (DT These) (NNS codes)) (VP (VBP have) (NP (NP (NNS applications)) (PP (IN in) (NP (NP (NN authentication) (NNS codes)) (, ,) (NP (NN association) (NNS schemes)) (CC and) (NP (NNS data) (NN storage) (NNS systems)))))) (. .))

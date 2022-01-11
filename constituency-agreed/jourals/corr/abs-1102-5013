@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (NP (DT the) (JJ regular) (NNS languages)) (PP (IN within) (NP (DT these) (NNS classes))))) (NP (PRP we)) (VP (VBP give) (NP (ADJP (RB expressively) (JJ complete)) (NN automaton) (NNS models))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (JJ general) (NNS properties)) (PP (IN of) (NP (NP (JJ regular) (NNS ideals)) (CC and) (NP (PRP$ their) (JJ Boolean) (NNS combinations)))))) (. .))
+(S (NP (DT These) (NNS properties)) (VP (VBP include) (NP (NP (JJ effective) (JJ algebraic) (NNS characterizations)) (CC and) (NP (NN lattice) (NNS identities)))) (. .))

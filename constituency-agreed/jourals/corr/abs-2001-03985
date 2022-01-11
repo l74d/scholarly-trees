@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT each) (NN observation))) (, ,) (NP (NNP IBS)) (VP (VBZ draws) (NP (NNS samples)) (PP (IN from) (NP (DT the) (NN simulator) (NN model))) (SBAR (IN until) (S (NP (CD one)) (VP (VBZ matches) (NP (DT the) (NN observation)))))) (. .))

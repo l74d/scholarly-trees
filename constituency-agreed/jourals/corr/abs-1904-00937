@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (JJ early) (NN diagnosis)) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN factor)) (PP (IN along) (NP (NP (DT the) (NN progress)) (PP (IN of) (NP (DT the) (NN disease))))))) (. .))
+(S (NP (PRP$ Our) (NN classification) (NN method)) (VP (VBZ uses) (NP (NP (JJ convolutional) (JJ neural) (NNS networks)) (CC and) (NP (JJ residual) (NN network) (NN architecture))) (PP (IN for) (S (VP (VBG classifying) (NP (DT the) (NNS images)))))) (. .))

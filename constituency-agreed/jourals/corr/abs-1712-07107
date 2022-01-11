@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (NNS attacks) (CC and) (NNS defenses)) (PP (IN on) (NP (JJ adversarial) (NNS examples)))) (VP (VBP draw) (NP (JJ great) (NN attention))) (. .))
+(S (PP (IN Under) (NP (DT the) (NN taxonomy))) (, ,) (NP (NP (NNS applications)) (PP (IN for) (NP (JJ adversarial) (NNS examples)))) (VP (VBP are) (VP (VBN investigated))) (. .))

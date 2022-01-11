@@ -1,0 +1,2 @@
+(S (NP (DT No) (JJ other) (NN convex) (NN regularization)) (VP (VBZ seems) (S (VP (TO to) (VP (VB surpass) (NP (PRP$ its) (JJ sparse) (NN recovery) (NN performance)))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (DT this)) (VP (VB be) (VP (VBN explained)))) (. ?))

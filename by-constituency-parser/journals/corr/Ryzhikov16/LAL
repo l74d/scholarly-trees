@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN for) (NP (JJ unary) (VBP automata))) (NP (DT the) (NN problem)) (VP (VBZ becomes) (ADJP (JJ solvable) (PP (IN in) (NP (JJ polynomial) (NN time)))))))) (. .))

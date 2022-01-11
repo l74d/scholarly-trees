@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN confidence)) (PP (IN of) (NP (JJ neural) (NNS networks)))) (VP (VBZ is) (RB not) (NP (NP (DT a) (JJ robust) (NN measure)) (PP (IN of) (NP (NN model) (NN uncertainty))))) (. .))

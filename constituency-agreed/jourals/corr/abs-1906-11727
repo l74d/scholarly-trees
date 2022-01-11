@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN method)) (VP (VBZ is) (ADJP (JJ general) (RB enough) (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (NN link) (NN weight)) (PP (IN between) (NP (NP (DT any) (NNS types)) (PP (IN of) (NP (NNS nodes))))))))))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (NP (NNP Twitter)) (CC and) (NP (JJ bibliographic) (NNS data))))) (VP (VBP show) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (DT the) (NN method))))) (. .))

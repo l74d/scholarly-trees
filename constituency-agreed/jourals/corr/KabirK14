@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Molecular) (NN communication)) (PP (IN in) (NP (NNS nanonetworks)))) (VP (VBZ is) (NP (NP (DT an) (VBG emerging) (NN communication) (NN paradigm)) (SBAR (WHADVP (WRB where)) (S (NP (NNS molecules)) (VP (VBP are) (VP (VBN used) (PP (IN as) (NP (NN information) (NNS carriers))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN observed) (SBAR (IN that) (S (NP (NNP MoSK)) (VP (VBZ outperforms) (NP (NNP CSK))))))) (. .))

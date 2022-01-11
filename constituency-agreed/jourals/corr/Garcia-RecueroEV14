@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG providing) (NP (NN replication)))) (VP (VBZ brings) (PP (IN with) (NP (PRP it))) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NN consistency))))) (. .))
+(S (NP (DT This)) (VP (VBZ comes) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NNS data) (NN staleness)))))) (. .))

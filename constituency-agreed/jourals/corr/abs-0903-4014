@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS theorems)) (VP (VBP imply) (SBAR (IN that) (S (NP (NP (NNS codes)) (VP (VBG using) (NP (JJ sparse) (NNS matrices)))) (VP (MD can) (VP (VB achieve) (NP (DT the) (JJ optimal) (NN rate))))))) (. .))

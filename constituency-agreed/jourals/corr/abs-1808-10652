@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB ensure) (NP (NP (DT the) (NN security) (, ,) (NN performance) (, ,) (CC and) (NN correctness)) (PP (IN of) (NP (JJ future) (NN web) (NNS applications))))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ strong) (NN need)) (PP (IN for) (NP (NP (JJ dynamic) (NN analysis) (NNS tools)) (PP (IN for) (NP (NNP WebAssembly))))))) (. .))

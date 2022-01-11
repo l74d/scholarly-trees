@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (JJ such) (JJ random) (NNS intervals)))) (VP (MD can) (VP (VB be) (VP (VBN accomplished) (PP (IN by) (S (VP (VBG comparing) (NP (NP (DT the) (NNS endpoints)) (PP (IN of) (NP (JJ random) (NNS intervals)))) (PP (IN with) (NP (NP (NN confidence) (NNS sequences)) (PP (IN for) (NP (DT the) (NN mean)))))))))))))) (. .))
+(S (NP (JJ Asymptotic) (NNS results)) (VP (VBP are) (VP (VBN obtained) (PP (IN for) (NP (JJ such) (JJ sequential) (NNS methods))))) (. .))

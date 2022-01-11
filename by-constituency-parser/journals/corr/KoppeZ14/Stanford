@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP announce) (NP (NP (DT the) (NN availability)) (PP (IN of) (NP (NP (DT an) (JJ electronic) (NN compendium)) (PP (IN of) (NP (NP (NP (JJ extreme) (NNS functions)) (PP (IN for) (NP (NNP Gomory)))) (: --) (NP (NP (NNP Johnson) (POS 's)) (JJ infinite) (NN group) (NN problem)))))))) (. .))
+(S (NP (DT These) (NNS functions)) (VP (VBP serve) (PP (IN as) (NP (NP (DT the) (JJS strongest) (ADJP (NN cut) (HYPH -) (VBG generating)) (NNS functions)) (PP (IN for) (NP (NN integer) (NML (JJ linear) (NN optimization)) (NNS problems)))))) (. .))
+(FRAG (NP (PRP We)) (ADVP (RB also)) (NP (QP (RB close) (JJ several)) (NNS gaps)) (PP (IN in) (NP (DT the) (NN literature))) (. .))

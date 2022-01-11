@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ sparse) (NN projection) (NN matrix)) (VP (VBZ is) (VP (VBN considered) (PP (IN as) (NP (DT an) (JJ unknown) (NN parameter))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN for) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (JJ simulated) (NNS scenarios))))))) (. .))

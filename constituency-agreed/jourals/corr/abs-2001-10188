@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ third) (NN step))) (, ,) (NP (DT the) (NN training) (NN process)) (VP (VBZ is) (VP (VBN initiated) (PP (IN on) (NP (DT the) (VBN proposed) (NN model))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN evaluated) (NP (PRP$ our) (NN network) (NN performance)) (PP (IN on) (NP (CD three) (NN evaluation) (NNS metrics))))) (. .))

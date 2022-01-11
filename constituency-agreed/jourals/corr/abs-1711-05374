@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT the) (NN kernel) (NN dropout) (NN regularization)) (S (VP (TO to) (VP (VB enable) (NP (JJ improved) (NN training) (NN convergence)))))) (. .))

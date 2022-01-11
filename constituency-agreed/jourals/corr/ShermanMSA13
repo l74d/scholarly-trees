@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN simulation) (NN model)) (PP (IN of) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Calais)))))) (PP (IN with) (NP (NP (DT a) (NN focus)) (PP (IN on) (NP (NP (DT the) (NN operation)) (PP (IN of) (NP (NN immigration) (NNS controls)))))))) (. .))
+(S (ADVP (RB Methodologically)) (, ,) (NP (PRP we)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB understand) (NP (NP (DT the) (NNS limits)) (PP (IN of) (NP (NP (JJ discrete) (NN event) (NN simulation)) (PP (IN of) (NP (JJ rare) (NNS events))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (CD two) (NNS constructions)) (PP (IN for) (NP (JJ binary) (ADJP (NN self) (HYPH -) (JJ orthogonal)) (NNS codes))))) (. .))
+(S (NP (PRP It)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP$ our) (NNS constructions)) (VP (VBP yield) (NP (NP (DT a) (JJ constructive)) (VP (VBN bound) (PP (IN on) (NP (JJ binary) (ADJP (NN self) (HYPH -) (JJ orthogonal)) (NNS codes))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN proved) (SBAR (IN that) (S (NP (DT the) (JJ binary) (ADJP (NN self) (HYPH -) (JJ orthogonal)) (NNS codes)) (ADVP (RB asymptotically)) (VP (VBP achieve) (SBAR (S (NP (DT the) (NNP Gilbert) (HYPH -) (NNP Varshamov)) (VP (VBD bound))))))))) (. .))

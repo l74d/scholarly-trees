@@ -1,0 +1,2 @@
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (JJS best) (NN scheme)) (VP (VBZ depends) (PP (IN on) (NP (NP (NN security)) (, ,) (NP (NN complexity)) (CC and) (NP (JJ other) (JJ important) (NNS parameters)))))))) (. .))
+(S (NP (PRP We)) (VP (VBD tried) (ADVP (RB simply)) (S (VP (TO to) (VP (VP (VB define) (NP (DT the) (NNS schemes))) (CC and) (VP (VB review) (NP (PRP them)) (PP (IN in) (NP (NN practice)))))))) (. .))

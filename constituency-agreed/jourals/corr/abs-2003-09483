@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NNS annotations)))) (VP (VBZ is) (ADJP (JJ crucial) (PP (IN for) (NP (JJ unbiased) (NNS comparisons))))) (. .))
+(S (S (VP (VBG Using) (NP (NNS variograms)))) (, ,) (NP (PRP we)) (VP (VP (VBD identified) (NP (ADJP (RB potentially) (JJ problematic)) (NNS cases))) (CC and) (VP (VBD had) (S (NP (PRP them)) (VP (VBN examined) (PP (IN by) (NP (JJ experienced) (NNS radiologists))))))) (. .))

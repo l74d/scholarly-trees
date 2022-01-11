@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT the) (NN generalization) (NN capacity)) (PP (IN of) (NP (NNP CFDNet)))) (PP (IN by) (S (VP (VBG testing) (NP (PRP$ its) (NN prediction)) (PP (IN on) (NP (NP (JJ new) (NNS geometries)) (ADJP (JJ unseen) (PP (IN during) (NP (NN training)))))))))) (. .))

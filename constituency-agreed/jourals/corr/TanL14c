@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN algorithm))) (, ,) (NP (JJ secondary) (NNS users)) (VP (VBP are) (VP (VBN assigned) (NP (NP (JJ distinct) (NNS sets)) (PP (IN of) (NP (NNS channels)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN algorithm)) (VP (VBZ achieves) (NP (DT the) (JJ maximum) (NN throughput) (NN limit)) (SBAR (IN if) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS channels)))) (VP (VBZ is) (ADJP (RB sufficiently) (JJ large))))))))) (. .))

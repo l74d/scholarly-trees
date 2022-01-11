@@ -1,0 +1,2 @@
+(S (S (NP (JJ Many) (JJ complex) (NNS systems)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN as) (NP (NNS networks))))))) (, ,) (CC and) (S (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN network)) (VP (VBZ breaks) (PRT (RP up)) (PP (IN into) (NP (NNS subnetworks) (CC or) (NNS communities)))))) (VP (VBZ is) (PP (IN of) (NP (JJ wide) (NN interest))))) (. .))
+(S (NP (PRP$ Our) (NNS indices)) (VP (VBP are) (ADVP (RB only)) (VP (VBN relied) (PP (IN on) (NP (NP (DT the) (NN spectrum)) (PP (IN of) (NP (DT the) (NN graph) (NN matrix))))))) (. .))

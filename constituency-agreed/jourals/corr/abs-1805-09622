@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN target)) (ADVP (RB therefore)) (VP (VBZ gets) (S (VP (TO to) (VP (VB choose) (NP (NP (DT the) (NN source) (NNS samples)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (RBS most) (JJ informative) (PP (IN for) (NP (PRP$ its) (JJ own) (NN classification) (NN task)))))))))))) (. .))

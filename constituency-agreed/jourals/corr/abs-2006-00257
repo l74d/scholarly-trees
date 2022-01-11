@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP begin) (PP (IN by) (S (VP (VBG characterizing) (NP (NP (DT the) (JJ key) (NN access) (NNS structures)) (SBAR (WHNP (WDT that)) (S (VP (VBP make) (S (NP (JJ private) (NN index) (VBG coding)) (ADJP (JJ feasible))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NP (JJ common) (NN randomness)) (CC and) (NP (JJ private) (NN randomness))))) (VP (VBZ does) (RB not) (VP (VB change) (NP (DT the) (NN rate) (NN region))))))) (. .))

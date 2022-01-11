@@ -1,0 +1,3 @@
+(NP (NNP Multiscale) (NNP Model) (. .))
+(NP (NNP Simul) (. .))
+(S (NP (DT This) (NN operator)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NP (DT the) (NN initialization)) (PP (IN of) (NP (NN lattice) (NNP Boltzmann) (NNS models))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (JJ Deep) (JJ neural) (NNS networks)) (VP (VBD proved) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (ADJP (RB very) (JJ useful) (CC and) (JJ powerful)) (NN tool)) (PP (IN with) (NP (JJ many) (JJ practical) (NNS applications)))))))) (. .))
+(S (S (VP (VBG Creating) (NP (DT an) (JJ optimal) (NN topology)))) (VP (VBZ requires) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN experience) (CC and) (NN knowledge))))) (. .))
+(S (S (VP (VBG Using) (NP (DT an) (JJ evolutionary) (NN process)) (S (VP (TO to) (VP (VB develop) (NP (JJ new) (NN network) (NNS topologies))))))) (VP (MD might) (VP (VB solve) (NP (DT this) (NN problem)))) (. .))

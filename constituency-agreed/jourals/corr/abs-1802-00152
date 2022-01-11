@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NP (NNS botnets)) (PP (JJ such) (IN as) (NP (NNP Mirai) (CC and) (NNP Persirai)))) (VP (VBD targeted) (NP (NNP IoT) (NNS devices)) (PP (IN on) (NP (DT a) (JJ large) (NN scale)))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (JJ such) (NNS attacks)) (VP (MD would) (VP (VB require) (NP (JJ cyber-physical) (NNS botnets))))))) (. .))

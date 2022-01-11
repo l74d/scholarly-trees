@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ secure) (NML (NN source) (HYPH -) (VBG coding))) (PP (IN with) (NP (JJ causal) (NN disclosure)))) (, ,) (PP (IN under) (NP (DT the) (JJ Gaussian) (NN distribution)))) (. .))
+(S (NP (NP (DT The) (NN optimality)) (PP (IN of) (NP (JJ Gaussian) (JJ auxiliary) (JJ random) (NNS variables)))) (VP (VBZ is) (VP (VBN shown) (PP (IN in) (NP (JJ various) (NNS scenarios))))) (. .))
+(S (NP (PRP We)) (ADVP (RB explicitly)) (VP (VBP characterize) (NP (NP (DT the) (NN tradeoff)) (PP (IN between) (NP (NP (DT the) (NNS rates)) (PP (IN of) (NP (NP (NN communication)) (CC and) (NP (JJ secret) (NN key)))))))) (. .))
+(S (NP (DT This) (NN tradeoff)) (VP (VBZ is) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (DT a) (JJ mutual) (NN information) (NN optimization)) (PP (IN under) (NP (NNP Markov) (NNS constraints))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN corollary))) (, ,) (NP (PRP we)) (VP (VBP deduce) (NP (DT a) (JJ general) (NN formula)) (PP (IN for) (NP (NP (NP (NNP Wyner) (POS 's)) (JJ Common) (NN Information)) (PP (IN in) (NP (DT the) (JJ Gaussian) (NN setting)))))) (. .))

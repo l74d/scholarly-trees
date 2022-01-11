@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (DT both) (NN regularization) (CC and) (NN augmentation)) (VP (MD should) (VP (VB decrease) (PP (IN during) (NP (DT the) (NN training) (NN protocol)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (DT these) (NNS algorithms)) (VP (MD can) (VP (VB be) (ADJP (JJ practical)))))) (, ,) (NP (PRP they)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ suboptimal)) (ADVP (RB asymptotically))))))) (. .))

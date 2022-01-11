@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ intriguing) (NN property)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))) (VP (VBZ is) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NP (JJ adversarial) (NNS examples)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB transfer) (PP (IN among) (NP (JJ different) (NNS architectures))))))))))) (. .))

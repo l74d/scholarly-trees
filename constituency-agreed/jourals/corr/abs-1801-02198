@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (NN analysis)) (PP (IN of) (NP (JJ dynamic) (JJ social) (NN network) (NNS data)))) (VP (VBZ requires) (S (VP (VBG maintaining) (NP (NP (DT an) (JJ approximate) (NN copy)) (PP (IN of) (NP (DT the) (JJ social) (NN network)))) (PP (IN for) (NP (DT each) (NN time) (NN period))) (, ,) (ADVP (RB locally))))) (. .))
+(S (NP (PRP We)) (VP (VBP employ) (NP (NNP PageRank)) (PP (IN as) (NP (NP (DT the) (JJ metric)) (PP (IN for) (NP (NN influence) (NN computation)))))) (. .))

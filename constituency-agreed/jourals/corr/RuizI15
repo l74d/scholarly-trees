@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN evader)) (VP (VBZ wins) (SBAR (IN if) (S (NP (PRP it)) (VP (MD can) (VP (VB avoid) (NP (NN capture)) (ADVP (RB forever))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN despite) (NP (DT this) (NN limitation))) (, ,) (NP (DT the) (NNP DDR)) (VP (MD can) (VP (VB capture) (NP (DT the) (NN evader))))))) (. .))

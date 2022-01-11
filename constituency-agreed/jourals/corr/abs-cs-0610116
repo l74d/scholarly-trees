@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN tool)) (VP (VBZ is) (VP (VBN aimed) (PP (IN for) (NP (NP (JJ semi-automatic) (NN creation)) (PP (IN of) (NP (NNS treebanks))))))) (. .))
+(S (NP (DT The) (NN tool)) (VP (VBZ includes) (NP (NP (DT an) (JJ automatic) (NN consistency) (NN checker)) (PP (IN for) (NP (NN sentence) (NNS structures))))) (. .))

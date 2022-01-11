@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS groups)) (VP (MD can) (VP (VB be) (VP (VBN interpreted) (PP (PP (IN as) (NP (NP (NNS groups)) (PP (IN of) (NP (JJ finite) (NN state) (NNS machines))))) (CC or) (PP (IN as) (NP (NP (NNS subgroups)) (PP (IN of) (NP (JJ topological) (JJ full) (NNS groups)))))) (, ,) (PP (IN on) (NP (NP (JJ effective) (NNS subshifts)) (PP (IN over) (NP (JJ other) (NN torsion) (NNS groups)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (JJ impredictable) (ADJP (RB recursively) (JJ enumerable)) (NNS sets)) (VP (VBP exist))))) (. .))

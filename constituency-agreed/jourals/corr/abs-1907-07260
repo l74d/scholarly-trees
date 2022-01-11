@@ -1,0 +1,2 @@
+(S (PP (IN Through) (NP (NN randomization))) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NN bias)))))) (VP (MD can) (VP (VB be) (VP (VBN removed) (PP (IN from) (NP (DT the) (NN learning) (NN process)))))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (PP (IN for) (NP (NNS practitioners))) (NP (NP (DT the) (NN choice)) (PP (IN between) (NP (DT the) (CD two)))) (VP (VBZ is) (ADJP (RB very) (JJ substantial))) (. .))

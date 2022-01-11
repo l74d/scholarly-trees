@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN survey)) (PP (IN on) (NP (NP (NN analog) (NNS models)) (PP (IN of) (NP (NNS computations))))))) (. .))
+(S (NP (NN Analog)) (VP (MD can) (VP (VB be) (VP (JJ understood) (PP (DT both) (PP (IN as) (S (VP (NN computing) (PP (IN by) (NP (NN analogy)))))) (, ,) (CC or) (PP (IN as) (S (VP (VBG working) (PP (IN on) (NP (DT the) (NN continuum)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT both) (NNS approaches)) (, ,) (VP (ADVP (RB often)) (VBN intertwined)) (, ,)) (PP (IN with) (NP (NP (DT a) (NN point)) (PP (IN of) (NP (NN view))) (VP (ADVP (RB mostly)) (VBN oriented) (PP (IN by) (NP (NN computation) (NN theory))))))) (. .))

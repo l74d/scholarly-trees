@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN work)) (VP (VBZ develops) (NP (NP (DT a) (ADJP (RB fully) (VBN decentralized)) (JJ multi-agent) (NN algorithm)) (PP (IN for) (NP (NN policy) (NN evaluation))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN scenario))) (, ,) (NP (NNS agents)) (VP (VBP collaborate) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (NN value) (NN function)) (PP (IN of) (NP (DT a) (NN target) (NN team) (NN policy)))))))) (. .))
+(S (S (NP (NP (DT The) (JJ linear) (NN convergence)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN established) (ADVP (RB analytically))))) (, ,) (CC and) (S (NP (NNS simulations)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB illustrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN method)))))))))) (. .))

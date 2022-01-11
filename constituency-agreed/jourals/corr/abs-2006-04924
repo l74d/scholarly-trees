@@ -1,0 +1,1 @@
+(S (NP (NP (NN Transferability)) (PP (IN of) (NP (JJ adversarial) (NNS examples)))) (VP (VBP demand) (NP (NP (JJ generalizable) (NNS defenses)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB provide) (NP (JJ cross-task) (NN protection)))))))) (. .))

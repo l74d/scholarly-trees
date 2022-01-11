@@ -1,0 +1,1 @@
+(S (S (VP (VBG Training) (NP (JJ such) (NNS agents)) (PP (IN with) (NP (NN policy) (NNS gradients))))) (ADVP (RB typically)) (VP (VBZ requires) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (NNS samples))))) (. .))

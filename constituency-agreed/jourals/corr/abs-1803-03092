@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (NNP Carnap)) (, ,) (NP (NP (DT a) (ADJP (JJ free) (CC and) (JJ open)) (NN framework)) (PP (IN for) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (JJ formal) (NN reasoning) (NNS applications)))))))))) (. .))
+(S (NP (NP (NNP Carnap) (POS 's)) (NN design)) (VP (VBZ emphasizes) (NP (NP (NN flexibility)) (, ,) (NP (NN extensibility)) (, ,) (CC and) (NP (JJ rapid) (NN prototyping)))) (. .))

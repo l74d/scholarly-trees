@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NP (NNS problems)) (PP (IN with) (NP (NP (JJ large) (NN number)) (PP (IN of) (NP (NNS variables))))))) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (PP (IN by) (S (VP (VBG constraining) (NP (NP (DT the) (NNS terms)) (VP (VBN allowed) (PP (IN in) (NP (DT the) (JJ symbolic) (NN regression)))))))) (, ,) (NP (NN convergence) (NN behavior)) (VP (VBZ is) (VP (VBN improved)))))) (. .))
+(S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (NP (JJ novel) (NNS solutions)) (VP (VBP are) (VP (VBN found))) (. .))

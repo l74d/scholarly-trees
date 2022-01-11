@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN interpreted) (PP (IN as) (NP (NP (DT a) (JJ preconditioned) (NNP Picard) (NN iteration)) (PP (IN for) (NP (DT the) (NN collocation) (NN problem)))))))) (. .))
+(S (SBAR (IN While) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ several) (JJ numerical) (NNS examples)) (SBAR (WHNP (WDT which)) (S (VP (VBP show) (NP (PRP$ its) (NNS capabilities) (CC and) (NN efficiency))))))))) (, ,) (NP (DT a) (JJ theoretical) (NN convergence) (NN proof)) (VP (VBZ is) (ADVP (RB still)) (VP (VBG missing))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (DT this) (NN issue))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB classify) (NP (DT the) (VBG existing) (NNS attacks)) (PP (IN into) (NP (NP (CD two) (JJ broad) (NNS categories)) (: :) (NP (NP (NNP DATA) (NN traffic) (NNS attacks)) (CC and) (NP (NNP CONTROL) (NN traffic) (NNS attacks)))))))))) (. .))
+(S (NP (PRP We)) (VP (MD will) (ADVP (RB also)) (VP (VB be) (VP (VBG discussing) (NP (NP (DT the) (ADJP (RB presently) (VBN proposed)) (NNS methods)) (PP (IN of) (S (VP (VBG mitigating) (NP (DT those) (NNS attacks))))))))) (. .))

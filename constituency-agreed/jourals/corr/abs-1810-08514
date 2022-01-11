@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT the) (JJ major) (NN component))) (, ,) (NP (NP (DT the) (NN optimization) (NN problem)) (PP (IN of) (NP (PRP$ our) (NN system)))) (VP (VBZ is) (VP (VBN studied) (PP (IN in) (NP (NN detail))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS solutions)))) (VP (VBP are) (VP (VBN evaluated) (PP (IN by) (NP (NNS simulations))) (, ,) (S (VP (VBG showing) (NP (DT a) (JJ significant) (NN performance) (NN gain)) (SBAR (WHADVP (WRB when)) (S (VP (VBG adopting) (NP (DT both) (NNS strategies))))))))) (. .))

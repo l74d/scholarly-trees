@@ -1,0 +1,2 @@
+(S (S (NP (JJ Adversarial) (NN training)) (VP (MD can) (VP (VB enhance) (NP (NN robustness))))) (, ,) (CC but) (S (NP (JJ past) (NN work)) (ADVP (RB often)) (VP (VBZ finds) (SBAR (S (NP (PRP it)) (VP (VBZ hurts) (NP (NN generalization))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ adversarial) (NN pre-training)) (VP (MD can) (VP (VB improve) (NP (DT both) (NN generalization) (CC and) (NN robustness))))))) (. .))

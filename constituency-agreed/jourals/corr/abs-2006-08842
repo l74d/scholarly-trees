@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (JJ different) (NNS workloads))) (, ,) (NP (PRP we)) (VP (VBP select) (NP (NP (JJ different) (NNS indexes)) (CC and) (NP (PRP$ their) (JJ different) (NNS parameters))) (S (VP (TO to) (VP (VB optimize) (NP (DT the) (NN database) (NN performance)))))) (. .))

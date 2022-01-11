@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN network)) (VP (MD can) (VP (VB yield) (NP (NP (JJ accurate) (NNS estimates)) (PP (IN of) (NP (NP (NN edge) (NNS maps)) (CC and) (NP (JJ semantic) (NNS labels)))))))))) (. .))

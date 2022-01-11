@@ -1,0 +1,1 @@
+(S (S (NP (NN Test) (NNS cases)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB measure) (NP (NN program) (NN behavior)))))))) (CC and) (S (NP (NN mutation) (NNS operators)) (VP (VBP are) (VP (VBN taken) (PP (IN from) (NP (JJ genetic) (NN programming)))))) (. .))

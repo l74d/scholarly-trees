@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN done) (PP (IN by) (S (VP (VP (VBG collecting) (NP (NP (NNS samples)) (PP (IN of) (NP (DT the) (JJ underlying) (NN environment))))) (CC and) (VP (VBG using) (NP (PRP them)) (S (VP (TO to) (VP (VB learn) (NP (DT the) (JJ optimal) (NN decision) (NN rule))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT a) (JJ simple) (NN coding) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ achieves) (NP (DT the) (NN feedback) (NN capacity))))))) (. .))

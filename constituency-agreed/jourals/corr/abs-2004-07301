@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN contribution)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (ADJP (JJ twofold))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP investigate) (NP (NP (DT the) (NN influence)) (PP (IN of) (NP (NP (JJ cross-domain) (NN pre-training)) (, ,) (NP (JJ architectural) (NNS changes)) (, ,))))) (CC and) (VP (VB evaluate) (NP (PRP$ our) (NN model)) (PP (IN on) (NP (JJ standard) (NNS datasets))))) (. .))

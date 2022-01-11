@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ non-computational) (NNS quantifiers)) (S (VP (TO to) (VP (VP (VB remove) (NP (JJ redundant) (JJ computational) (NN content)) (PP (IN from) (NP (DT the) (VBN extracted) (NN program)))) (CC and) (VP (VB translate) (NP (PRP it)) (PP (IN into) (NP (NNP Haskell))) (S (VP (TO to) (VP (VB improve) (NP (NN performance)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (PP (IN for) (NP (DT each) (NN candidate) (NN patch))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VBP examine) (NP (NP (NNS eigenvalues)) (PP (IN of) (NP (PRP$ its) (NN structure) (NN tensor)))) (S (VP (TO to) (VP (VB estimate) (NP (PRP$ its) (JJ local) (NN smoothness)))))) (. .))

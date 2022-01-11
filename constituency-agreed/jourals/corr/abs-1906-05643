@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Memristor)) (, ,) (NP (NN memory) (NN resistor)) (, ,)) (VP (VBZ is) (NP (NP (DT an) (VBG emerging) (NN technology)) (PP (IN for) (NP (JJ computational) (NN memory))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN linearity)) (PP (IN of) (NP (NP (JJ internal) (NN state) (NN modulation)) (PP (IN in) (NP (NNP Yang) (NN model)))))) (VP (MD can) (VP (VB be) (VP (VBN controlled)))) (. .))

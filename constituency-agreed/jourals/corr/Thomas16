@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (JJ technical) (NN report))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (PRP$ our) (ADJP (RB publicly) (JJ downloadable)) (NN implementation)) (PP (IN of) (NP (DT the) (NNP SALICON) (NN saliency) (NN model))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN issue))))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN created) (NP (NP (DT a) (ADJP (RB publicly) (JJ downloadable)) (NN implementation)) (PP (IN of) (NP (DT the) (NNP SALICON) (NN model)))))) (. .))

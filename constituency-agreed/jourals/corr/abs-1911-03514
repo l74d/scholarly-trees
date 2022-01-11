@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NN goal)) (PP (IN of) (NP (DT this) (NN project)))) (VP (VBZ is) (S (VP (TO to) (VP (VB help) (S (VP (VB understand) (NP (JJ multi-party) (NNS dialogues)))))))) (. .))
+(S (NP (PRP$ Our) (NN dataset)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Ubuntu) (NNP Chat) (NNP Corpus))))) (. .))

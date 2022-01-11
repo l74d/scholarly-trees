@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ takes) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT a) (JJ dual) (NN autoencoder) (NN structure))))) (. .))
+(S (NP (NP (DT This) (JJ dual) (NN swap) (NN mechanism)) (, ,) (VP (VBN tailored) (PP (IN for) (NP (JJ semi-supervised) (NN setting)))) (, ,)) (VP (VBZ turns) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ effective)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NNS ciphers)) (VP (VBN proposed) (PP (IN by) (NP (NNP Biham) (CC and) (NNP Anderson))))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (CD one) (NN stream) (NN cipher)) (CC and) (NP (CD one) (NN hash) (NN function)))))) (. .))
+(S (NP (NP (JJ Good) (NNS properties)) (PP (IN of) (NP (DT the) (NNS primitives)))) (VP (VB ensure) (NP (NP (JJ good) (NNS properties)) (PP (IN of) (NP (DT the) (NN block) (NN cipher))))) (. .))
+(S (NP (PRP We)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB get) (NP (DT this) (NN improvement)) (PP (IN by) (S (VP (VBG using) (NP (ADJP (RB slightly) (JJR weaker)) (NNS hypotheses)) (PP (IN on) (NP (DT the) (NNS primitives))))))))))) (. .))

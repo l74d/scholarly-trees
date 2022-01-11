@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (VP (VBZ admits) (NP (JJ exact) (NN training))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN with) (NP (JJ minimal) (JJ numerical) (NNS approximations)))))))))) (. .))

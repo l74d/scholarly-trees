@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN method)) (VP (VP (VBZ solves) (NP (NP (CC both) (DT the) (ADJP (JJ continuous) (CC and) (JJ discrete)) (NNS formulations)) (PP (IN of) (NP (DT the) (NN problem))))) (, ,) (CC and) (ADVP (RB therefore)) (VP (VBZ has) (NP (NP (NNS applications)) (PP (IN in) (NP (NN learning) (, ,) (NN inference) (, ,) (CC and) (NN reconstruction)))))) (. .))

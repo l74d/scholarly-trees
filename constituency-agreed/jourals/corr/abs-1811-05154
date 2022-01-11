@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN bandit) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ explores) (PP (IN by) (S (VP (VBG randomizing) (NP (NP (PRP$ its) (NN history)) (PP (IN of) (NP (NNS rewards)))))))))))) (. .))

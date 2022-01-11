@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB associate) (NP (NN sentiment)) (PP (IN with) (NP (NN place))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP perform) (NP (JJ temporal) (NN analysis)) (S (VP (VBG using) (NP (NP (DT the) (NN capture) (NN time)) (PP (IN of) (NP (DT the) (NNS photos))))))) (. .))

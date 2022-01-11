@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Effective) (NN use)) (PP (IN of) (NP (JJ such) (NN information)))) (VP (MD may) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP CPI) (NN extraction)))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (JJ Gaussian) (NN probability) (NN distribution)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (JJ local) (NN structure)) (PP (IN of) (NP (DT the) (NN instance))))))))) (. .))

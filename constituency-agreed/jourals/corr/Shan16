@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBD implemented) (NP (DT the) (NN model)) (PP (IN in) (NP (DT the) (NNP Linux) (NN kernel)))) (CC and) (VP (VBD evaluated) (NP (PRP it)) (PP (IN through) (NP (NNS experiments))))) (. .))

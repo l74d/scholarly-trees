@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN solution)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB generate) (NP (NNS passwords)) (ADVP (RB randomly))) (CC and) (VP (VB store) (NP (PRP them))))))) (. .))
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (NP (DT the) (NN creation)) (PP (IN of) (NP (NP (NNS backups)) (PP (IN of) (NP (DT the) (NNS passwords)))))) (ADJP (JJ indispensable)))) (. .))

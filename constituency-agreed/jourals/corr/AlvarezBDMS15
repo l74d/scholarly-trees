@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Celebrity) (NNS games)) (, ,) (NP (NP (DT a) (JJ new) (NN model)) (PP (IN of) (NP (NN network) (NN creation) (NNS games))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (NP (DT The) (JJ specific) (NNS features)) (PP (IN of) (NP (DT this) (NN model)))) (VP (VBP are) (SBAR (SBAR (IN that) (S (NP (NNS players)) (VP (VBP have) (NP (JJ different) (NN celebrity) (NNS weights))))) (CC and) (SBAR (IN that) (S (NP (DT a) (JJ critical) (NN distance)) (VP (VBZ is) (VP (VBN taken) (PP (IN into) (NP (NN consideration))))))))) (. .))

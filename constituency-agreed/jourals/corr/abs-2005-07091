@@ -1,0 +1,2 @@
+(S (NP (DT These) (CD three) (NNS models)) (VP (VP (VBP form) (NP (DT a) (JJ variational) (NN autoencoder))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN trained) (ADVP (RB jointly)) (PP (IN in) (NP (DT a) (JJ semi-supervised) (NN manner))))))) (. .))
+(S (NP (NP (DT The) (JJ semi-supervised) (NN learning)) (VP (VBG using) (NP (JJ additional) (JJ non-annotated) (NNS data)))) (VP (MD can) (ADVP (RB further)) (VP (VB improve) (NP (DT the) (NN performance)))) (. .))

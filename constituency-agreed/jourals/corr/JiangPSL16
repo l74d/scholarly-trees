@@ -1,0 +1,3 @@
+(S (NP (DT The) (VBN proposed) (NN subpatch) (NN filter)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (JJ subsequent) (NNS filters)))) (. .))
+(S (PP (IN For) (NP (DT the) (JJ whole) (NN input) (NN image))) (, ,) (NP (PRP we)) (VP (VBP construct) (NP (DT a) (JJ deep) (JJ neural) (NN network)) (PP (IN by) (S (VP (VBG stacking) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NN csconv) (NNS layers)))))))) (. .))
+(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN on) (NP (CD four) (NN benchmark) (NNS datasets)))) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness) (CC and) (NN compactness)) (PP (IN of) (NP (DT the) (VBN proposed) (NNP CSNet))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN mechanism)) (VP (VBZ outperforms) (NP (DT a) (JJ naive) (NN mechanism)) (PP (IN by) (NP (NP (JJ empirical) (NNS evaluations)) (PP (IN on) (NP (JJ synthetic) (NNS datasets))))))))) (. .))

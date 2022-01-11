@@ -1,0 +1,1 @@
+(S (NP (JJ Different) (NN feature) (NN extraction) (NNS methods)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB provide) (NP (NP (DT the) (JJS best) (NN set)) (PP (IN of) (NP (NNS features)))) (PP (IN before) (S (VP (VBG applying) (NP (NNP LSTM) (NN model)) (PP (IN for) (NP (NN classification))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Specifications)) (PP (IN for) (NP (JJ reactive) (NNS systems)))) (ADVP (RB often)) (VP (VBP consist) (PP (IN of) (NP (NP (NN environment) (NNS assumptions)) (CC and) (NP (NN system) (NNS guarantees))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (DT some) (JJ experimental) (NNS results))) (. .))

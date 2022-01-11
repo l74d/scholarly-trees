@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN execution) (NN cost)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ addresses) (NP (CC both) (NP (DT the) (NN execution) (NN latency)) (CC and) (NP (NN task) (NN failure)))))) (, ,)) (VP (VBZ is) (VP (VBN adopted) (PP (IN as) (NP (DT the) (NN performance) (JJ metric))))) (. .))

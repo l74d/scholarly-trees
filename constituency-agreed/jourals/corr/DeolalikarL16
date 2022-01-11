@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (NP (JJ distinct) (NN value) (NN estimation)))) (VP (VBZ has) (NP (JJ many) (NNS applications))) (. .))
+(S (S (VP (VBG Being) (NP (NP (DT a) (JJ critical) (NN component)) (PP (IN of) (NP (NP (NN query) (NNS optimizers)) (PP (IN in) (NP (NNS databases)))))))) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBZ has) (NP (JJ high) (JJ commercial) (NN impact))) (. .))
+(S (NP (JJ Many) (JJ distinct) (NN value) (NNS estimators)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (, ,) (S (VP (VBG using) (NP (JJ various) (JJ statistical) (NNS approaches))))))) (. .))

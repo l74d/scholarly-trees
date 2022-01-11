@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (NNP HyperGAN)) (, ,) (NP (NP (DT a) (JJ new) (JJ generative) (NN model)) (PP (IN for) (S (VP (VBG learning) (NP (NP (DT a) (NN distribution)) (PP (IN of) (NP (JJ neural) (NN network) (NNS parameters)))))))))) (. .))

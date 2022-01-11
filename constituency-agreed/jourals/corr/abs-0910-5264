@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (JJ sequential) (NN problem)) (PP (IN in) (NP (JJ decentralized) (NN detection)))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN faced) (PP (IN with) (NP (DT a) (JJ different) (NN stopping) (NN problem))))) (. .))
+(S (NP (NP (NNP Parametric) (NN characterization)) (PP (IN of) (NP (NP (JJ optimal) (NNS policies)) (PP (IN for) (NP (DT the) (CD two) (NNS observers)))))) (VP (VBP are) (VP (VBN obtained) (PP (IN under) (NP (DT both) (NNS scenarios))))) (. .))
+(S (NP (NP (DT A) (JJ sequential) (NN methodology)) (PP (IN for) (S (VP (VBG finding) (NP (DT the) (JJ optimal) (NNS policies)))))) (VP (VBZ is) (VP (VBN presented))) (. .))

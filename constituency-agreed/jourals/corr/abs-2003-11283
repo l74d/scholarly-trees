@@ -1,0 +1,1 @@
+(S (NP (NNP Ridge) (NN regression)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB well) (VBN established)) (NN regression) (NN estimator)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (ADVP (RB conveniently)) (VP (VB be) (VP (VBN adapted) (PP (IN for) (NP (NN classification) (NNS problems)))))))))) (. .))

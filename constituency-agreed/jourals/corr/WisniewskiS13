@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN union)) (PP (IN of) (NP (NNS cells)))) (VP (VBZ makes) (PRT (RP up)) (NP (NP (DT the) (NN state) (NN space)) (PP (IN of) (NP (DT the) (JJ dynamical) (NNS systems))))) (. .))
+(S (SBAR (IN If) (S (NP (NP (DT the) (NNS dynamics)) (PP (IN of) (NP (NP (DT the) (JJ dynamical) (NN system)) (CC and) (NP (DT the) (NN time) (NN automaton))))) (VP (VBP are) (ADJP (JJ equivalent))))) (, ,) (NP (DT the) (NN abstraction)) (VP (VBZ is) (ADJP (JJ complete))) (. .))

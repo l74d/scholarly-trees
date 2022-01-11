@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ stationary) (NN distribution)) (PP (IN of) (NP (NNS users)))) (PP (IN by) (S (VP (VBG modeling) (NP (DT the) (NN system)) (PP (IN as) (NP (NP (DT a) (JJ multi-route) (NN queueing) (NN network)) (PP (IN with) (NP (NNP Poisson) (NNS inputs))))))))) (. .))

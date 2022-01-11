@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP explore) (NP (PRP$ their) (NNS bounds))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (JJ weak) (NN topology) (NN discovery) (NN problem)) (VP (VBZ is) (ADJP (JJ solvable)) (SBAR (RB only) (IN if) (S (NP (NP (DT the) (NN connectivity)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ exceeds) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS faults)) (PP (IN in) (NP (DT the) (NN system))))))))))))) (. .))

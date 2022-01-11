@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN cavitation)) (PP (IN of) (NP (JJ solid) (JJ elastic) (NNS spheres)))) (VP (VBZ is) (NP (NP (DT a) (JJ classical) (NN problem)) (PP (IN of) (NP (NN continuum) (NNS mechanics))))) (. .))
+(S (PP (VBN Given) (NP (DT the) (JJ non-deterministic) (NN material) (NNS parameters))) (, ,) (NP (DT the) (NNS results)) (VP (MD can) (VP (VB be) (VP (VBN characterised) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN probability) (NNS distributions)))))))) (. .))

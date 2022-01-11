@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN document)) (VP (VBZ provides) (NP (NP (NP (DT a) (JJ brief) (NN overview)) (PP (IN of) (NP (JJ different) (NNS metrics)))) (CC and) (NP (NP (NN terminology)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ binary) (NN classification) (NNS systems)))))))))))))) (. .))

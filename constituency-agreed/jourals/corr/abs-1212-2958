@@ -1,0 +1,4 @@
+(S (NP (NNP Memristance) (NN value)) (VP (VBZ is) (NP (NP (NNS multiples)) (PP (IN of) (NP (JJ initial) (NN resistance))))) (. .))
+(S (NP (DT This)) (VP (VBZ reminds) (NP (PRP us)) (PP (IN with) (NP (NP (DT the) (NNS foundations)) (PP (IN of) (NP (NN quantum) (NNS mechanics)))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (CC and) (VBP prove) (NP (NP (DT a) (NN theorem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ quantizes) (NP (DT the) (NN resistance))))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP define) (NP (DT the) (NN tyke)) (S (VP (VBG showing) (NP (PRP$ its) (JJ basic) (NNS characteristics))))) (. .))

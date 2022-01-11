@@ -1,0 +1,3 @@
+(S (S (VP (VBG Searching) (PP (IN for) (NP (NP (NNS concepts)) (PP (IN in) (NP (NN science) (CC and) (NN technology))))))) (VP (VBZ is) (ADVP (RB often)) (NP (DT a) (JJ difficult) (NN task))) (. .))
+(S (NP (VBG Existing) (NN classification) (NNS schemes)) (VP (VBP suffer) (PP (IN from) (NP (NN inflexibility) (CC and) (NN ambiguity)))) (. .))
+(S (NP (DT The) (NN system)) (VP (MD will) (VP (VB enhance) (NP (VBG existing) (NN classification) (NN information)))) (. .))

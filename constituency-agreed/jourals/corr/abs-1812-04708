@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT a) (JJ detailed) (NN analysis)) (PP (IN of) (NP (JJ non-local) (NN parameter) (NNS settings))))) (. .))
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ new) (NN filter)) (VP (VP (VBZ enhances) (NP (JJ previous) (JJ local) (NNS implementations))) (CC and) (VP (VBZ has) (NP (NP (JJ potential) (NN application)) (PP (IN in) (NP (NN radiotherapy) (NNS treatments))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (DT the) (NN target)) (VP (VBZ is) (VP (VBN partitioned) (PP (IN into) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS patches))))))) (. .))
+(S (PP (IN In) (NP (DT each) (NN frame))) (, ,) (NP (VBN occluded) (NNS patches)) (VP (VBP are) (VP (VBN excluded) (SBAR (WHADVP (WRB when)) (S (VP (VBG updating) (NP (DT the) (NN dictionary))))))) (. .))

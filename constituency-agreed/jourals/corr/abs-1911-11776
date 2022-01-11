@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NP (NN spite)) (PP (IN of) (NP (NN noise))))) (, ,) (NP (PRP they)) (VP (VBP reproduce) (NP (NNS images)) (PP (IN with) (NP (NN fidelity)))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN without) (NP (DT any) (NNS constraints))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN incentive) (S (VP (TO to) (VP (VB generate) (NP (DT an) (NN image) (CC and) (NN noise)) (ADVP (RB separately))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (JJ unlabeled) (NN video)))) (S (VP (TO to) (VP (VB learn) (NP (NP (NNS models)) (PP (IN for) (NP (JJ visual) (NN tracking)))) (PP (IN without) (NP (JJ manual) (JJ human) (NN supervision))))))) (. .))

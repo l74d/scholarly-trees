@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NNS parameters)) (VP (VBP are) (VP (VBN estimated) (PP (IN at) (NP (DT each) (NN time) (NN instance)))))) (, ,) (CC and) (S (NP (DT a) (JJ final) (NN parameter) (NN value)) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (S (VP (VBG computing) (NP (NP (DT the) (NN average)) (PP (IN over) (NP (NN time)))))))))) (. .))

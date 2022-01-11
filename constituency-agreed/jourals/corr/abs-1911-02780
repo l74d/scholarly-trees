@@ -1,0 +1,2 @@
+(S (NP (JJ Temporal) (NNS graphs)) (VP (VBP are) (ADJP (JJ ubiquitous))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (JJS most) (JJ previous) (NNS studies)) (PP (IN for) (NP (NP (NN community) (NN mining)) (PP (IN in) (NP (JJ temporal) (NNS networks)))))) (VP (VBP ignore) (NP (NP (DT the) (NN bursting) (NNS patterns)) (PP (IN of) (NP (NNS communities))))) (. .))

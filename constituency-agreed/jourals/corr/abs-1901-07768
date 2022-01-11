@@ -1,0 +1,3 @@
+(S (ADVP (RB Yet)) (, ,) (NP (PRP it)) (VP (VBZ performs) (ADVP (RB poorly)) (PP (IN in) (NP (NN practice)))) (. .))
+(S (NP (DT A) (JJ major) (NN limitation)) (VP (VBZ is) (NP (NP (PRP$ its) (JJ slow) (NN rate)) (PP (IN of) (NP (NN stabilization))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (WHNP (WHADJP (WRB how) (JJ much)) (NN information)) (S (VP (VBZ is) (ADJP (JJ adequate) (S (VP (TO to) (VP (VB achieve) (NP (JJR better) (NN performance)))))))))))) (. .))

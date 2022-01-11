@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (PRP$ its) (JJ great) (NN success))) (, ,) (NP (NN machine) (NN learning)) (VP (MD can) (VP (VB have) (NP (PRP$ its) (NNS limits)) (SBAR (WHADVP (WRB when)) (S (VP (VBG dealing) (PP (IN with) (NP (JJ insufficient) (NN training) (NNS data)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ structured) (NN overview)) (PP (IN of) (NP (NP (JJ various) (NNS approaches)) (PP (IN in) (NP (DT this) (NN field))))))) (. .))

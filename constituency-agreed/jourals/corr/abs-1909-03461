@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NNS programs)) (, ,) (PP (IN unlike) (NP (JJ neural) (NNS networks))) (, ,) (VP (VBP contain) (NP (NP (JJ many) (JJ discontinuous) (NNS operations)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (NNS gradients)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN computed)))))))) (. .))

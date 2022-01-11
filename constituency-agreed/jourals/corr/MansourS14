@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (ADJP (JJ twofold))) (. .))
+(S (NP (NP (DT These) (NNS conditions)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP depend) (PP (IN on) (NP (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (NNS weights)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN size) (CC and) (NN accuracy)) (PP (IN of) (NP (DT the) (NN support) (NN estimate))))))))) (, ,)) (VP (VBP are) (PP (IN on) (NP (NP (DT the) (JJ null) (NN space)) (PP (IN of) (NP (DT the) (NN measurement) (NN matrix)))))) (. .))

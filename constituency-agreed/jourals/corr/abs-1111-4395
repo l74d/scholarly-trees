@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (DT the) (NN problem)) (VP (VBZ has) (VP (VBN been) (VP (VBN solved) (PP (IN in) (NP (NP (JJ optimal) (NN time)) (CC and) (NP (JJ linear) (NN space))))))))) (, ,) (NP (DT the) (JJ actual) (NN space) (NN usage)) (VP (VBZ is) (NP (DT a) (JJ serious) (NN concern))) (. .))

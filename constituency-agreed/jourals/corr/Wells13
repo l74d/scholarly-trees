@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ examines) (NP (NP (DT the) (JJ international) (NN nature)) (PP (IN of) (NP (NN science) (NN fiction))))) (. .))
+(S (NP (DT A) (NN survey)) (VP (VBD was) (ADVP (RB also)) (VP (VBN conducted) (S (VP (TO to) (VP (VB see) (SBAR (IN if) (S (NP (NNS people)) (VP (VBD had) (NP (NP (NN experience)) (PP (IN with) (NP (NN science) (NN fiction)))))))))))) (. .))
+(S (NP (DT All) (CD three) (NN research) (NNS methods)) (VP (VBD revealed) (NP (JJ similar) (NNS results))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG presenting) (NP (DT a) (JJ new) (NN approach)) (PP (IN to) (NP (NP (DT the) (NN electro) (HYPH -)) (VP (VBG sensing) (NP (NN problem)) (S (VP (VBG using) (NP (NNS wavelets))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ provides) (NP (DT an) (JJ efficient) (NN algorithm)) (PP (IN for) (S (VP (VBG recognizing) (NP (NP (DT the) (NN shape)) (PP (IN of) (NP (NP (DT a) (NN target)) (PP (IN from) (NP (JJ micro-electrical) (NN impedance) (NNS measurements)))))))))) (. .))
+(S (NP (NP (NNP Stability)) (CC and) (NP (NP (NN resolution) (NNS capabilities)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (VP (VBP are) (VP (VBN quantified) (PP (IN in) (NP (JJ numerical) (NNS simulations))))) (. .))

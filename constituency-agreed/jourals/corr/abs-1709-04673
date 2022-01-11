@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (PP (RB instead) (IN of) (S (VP (VBG taking) (NP (DT an) (NN expectation)) (S (VP (TO to) (VP (VB calculate) (NP (DT the) (NNP Bellman) (NN operator)))))))) (, ,) (NP (CD one)) (ADVP (RB generally)) (VP (VBZ uses) (NP (NNS samples))) (. .))

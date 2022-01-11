@@ -1,0 +1,1 @@
+(S (S (VP (VBG Abusing) (NP (NN graph) (NNS convolutions)))) (, ,) (NP (NP (DT a) (NN node) (POS 's)) (NN classification) (NN result)) (VP (MD can) (VP (VB be) (VP (VBN influenced) (PP (IN by) (S (VP (VBG poisoning) (NP (PRP$ its) (NNS neighbors)))))))) (. .))

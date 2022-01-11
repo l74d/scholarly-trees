@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (NN regression) (NN testing)))) (VP (VBZ is) (S (VP (TO to) (VP (VB ensure) (SBAR (IN that) (S (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (VBG existing) (NN code)))) (VP (VBZ is) (RB not) (VP (VBN altered) (PP (IN by) (NP (JJ new) (NN program) (NNS changes))))))))))) (. .))

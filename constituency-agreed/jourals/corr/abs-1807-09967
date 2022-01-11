@@ -1,0 +1,2 @@
+(S (NP (NP (NP (DT The) (NN number)) (PP (IN of) (NP (JJ latent) (NNS factors)))) (, ,) (NP (NP (NN number)) (PP (IN of) (NP (NNS iterations)))) (, ,) (CC and) (NP (NN regularization) (NNS values))) (VP (VBD were) (VP (VBN explored))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBD achieved) (NP (NP (DT the) (JJS highest) (JJ average) (NN prediction) (NN accuracy)) (PP (IN of) (NP (CD 13.3) (NN %))))) (. .))

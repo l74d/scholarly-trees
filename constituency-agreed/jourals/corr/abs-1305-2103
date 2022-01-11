@@ -1,0 +1,2 @@
+(S (ADVP (RB Perhaps)) (NP (PRP they)) (VP (VBP are) (ADVP (RB even)) (PP (IN among) (NP (NP (DT the) (ADJP (RBS most) (RB widely) (VBN used)) (NN computer) (NNS applications)) (PP (IN of) (NP (DT all) (NNS kinds)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN spreadsheet) (NN paradigm)) (PP (IN of) (NP (NN computation)))) (ADVP (RB still)) (VP (VBZ lacks) (NP (JJ sufficient) (NN analysis))) (. .))

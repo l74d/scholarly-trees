@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT both) (NNP MonadReader) (CC and) (NNP MonadWriter))) (, ,) (NP (NP (DT an) (NN equivalence) (NN result)) (PP (IN of) (NP (NP (CD two) (JJ alternative) (NNS axiomatizations)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (JJ different) (NNS sets)) (PP (IN of) (NP (NNS operations)))))))))) (VP (VBZ is) (VP (VBN established))) (. .))

@@ -1,0 +1,7 @@
+(S (NP (NP (DT A) (JJ new) (NN attack)) (PP (IN against) (NP (DT the) (NNP Kirchhoff-Law-Johnson-Noise) (PRN (-LRB- -LRB-) (NP (NNP KLJN)) (-RRB- -RRB-)) (NN secure) (JJ key) (NN exchange) (NN scheme)))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (DT The) (NN attack)) (VP (VBZ exploits) (NP (NP (DT a) (JJ parasitic) (PRN (-LRB- -LRB-) (JJ periodic) (-RRB- -RRB-)) (NNP AC) (NN voltage-source)) (PP (IN at) (NP (DT either) (NNP Alice) (CC or) (NNP Bob) (VBZ ends))))) (. .))
+(S (NP (JJ Such) (NNS situations)) (VP (VBP exist) (PP (JJ due) (TO to) (NP (NP (NNP AC) (NN ground) (NNS loops)) (CC and) (NP (NP (JJ electromagnetic) (NN interference)) (PRN (-LRB- -LRB-) (NP (NNP EMI)) (-RRB- -RRB-)))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN low-frequency) (NN case))) (, ,) (NP (DT the) (NN procedure)) (VP (VBZ is) (NP (NP (DT the) (JJ generalized) (NN form)) (PP (IN of) (NP (DT the) (JJ former) (ADJP (NNP DC) (NN ground) (NN loop) (VBN based)) (NN attack))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN high-frequency) (NN case))) (, ,) (NP (NP (DT the) (NN power) (NN spectrum)) (PP (IN of) (NP (DT the) (NN wire) (NN voltage)))) (VP (VBZ is) (VP (JJ utilized))) (. .))
+(S (NP (DT The) (NN attack)) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN in) (NP (UCP (DT both) (DT the) (JJ low) (CC and) (NP (DT the) (NN high-frequency))) (NNS situations))))) (. .))
+(S (NP (NP (NNP Defense) (NNS protocols)) (PP (IN against) (NP (DT the) (NN attack)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed))) (. .))

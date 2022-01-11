@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ ensures) (SBAR (IN that) (S (NP (JJ bad) (NN interference)) (VP (MD will) (RB not) (VP (VB occur) (PP (IN during) (NP (NP (DT the) (NN execution)) (PP (IN of) (NP (DT the) (JJ concurrent) (NN program)))))))))) (. .))

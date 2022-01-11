@@ -1,0 +1,2 @@
+(S (S (S (VP (TO To) (VP (VB achieve) (NP (DT the) (NN face) (NN recognition))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (JJ neural) (NNS networks)))) (CC and) (S (NP (PRP we)) (VP (VBP study) (NP (PRP$ its) (NNS performances)) (PP (IN for) (NP (JJ different) (NNS inputs))))) (. .))
+(S (NP (DT This) (NN comparison)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NNP Gabor) (NNS coefficients)) (VP (VBP are) (ADJP (ADJP (RBR more) (JJ powerful)) (PP (IN than) (NP (JJ geometric) (NNS distances)))))))) (. .))

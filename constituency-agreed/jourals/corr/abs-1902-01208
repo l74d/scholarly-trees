@@ -1,0 +1,1 @@
+(S (NP (JJ Small) (NNS perturbations)) (VP (MD can) (VP (VB yield) (NP (NP (JJ adversarial) (NNS examples)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN misclassified) (PP (IN despite) (S (VP (VBG being) (ADJP (RB virtually) (JJ indistinguishable) (PP (IN from) (NP (DT the) (JJ unperturbed) (NN input)))))))))))))) (. .))

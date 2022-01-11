@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN robot) (NN vehicle)) (VP (MD must) (VP (VB contend) (PP (IN with) (NP (NP (DT a) (ADJP (ADJP (JJ dynamic)) (CC and) (ADJP (RB partially) (JJ observable))) (NN environment)) (, ,) (NP (JJ noisy) (NNS sensors)) (, ,) (CC and) (NP (JJ many) (NNS agents)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS phases)))) (. .))

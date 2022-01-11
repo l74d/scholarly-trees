@@ -1,0 +1,2 @@
+(S (NP (NN Image) (NN representation)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN task)) (PP (IN in) (NP (NN computer) (NN vision))))) (. .))
+(S (ADVP (RB Intuitively)) (, ,) (NP (NP (NNS relations)) (PP (IN between) (NP (NNS images)))) (VP (MD can) (VP (VB help) (S (VP (TO to) (VP (VP (VB understand) (NP (DT the) (NNS images))) (CC and) (VP (VB maintain) (NP (NN model) (NN consistency)) (PP (IN over) (NP (JJ related) (NNS images))))))))) (. .))

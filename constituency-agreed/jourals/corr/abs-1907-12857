@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN problem)) (VP (MD can) (ADVP (RB easily)) (VP (VB be) (VP (VBN solved) (PP (IN by) (NP (NP (DT a) (JJ randomized) (JJ local) (NN algorithm)) (PP (IN with) (NP (DT no) (NN communication)))))))) (. .))

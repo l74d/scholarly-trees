@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ takes) (NP (NNS advantages)) (PP (IN from) (NP (NP (JJ deep) (NN learning)) (, ,) (NP (NN probability) (NN theory)) (, ,) (NP (JJ fuzzy) (NN modeling)) (, ,) (CC and) (NP (JJ extreme) (NN learning) (NNS machines))))) (. .))
+(S (NP (DT The) (NNP RBM)) (VP (VBZ is) (VP (VBN modified) (SBAR (JJ such) (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN trained) (PP (IN with) (NP (JJ continuous) (NNS values)))))))))) (. .))

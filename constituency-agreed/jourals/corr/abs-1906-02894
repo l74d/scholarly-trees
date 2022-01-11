@@ -1,0 +1,2 @@
+(S (NP (NNP Epilepsy)) (VP (VBZ is) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (JJ neurological) (NNS diseases)) (VP (VBN characterized) (PP (IN by) (NP (JJ epileptic) (NNS seizures)))))))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB result) (PP (IN in) (NP (NP (NNS accidents)) (CC and) (NP (JJ sudden) (, ,) (JJ unexpected) (NN death)))))) (. .))

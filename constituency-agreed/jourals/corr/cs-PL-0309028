@@ -1,0 +1,3 @@
+(S (NP (NN Termination) (NN inference)) (VP (VBZ generalizes) (NP (NN termination) (NN analysis) (CC and) (NN checking))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN analysis)) (VP (MD must) (VP (VB be) (VP (VBN redone) (NP (NP (DT every) (NN time)) (SBAR (S (NP (NP (DT the) (NN class)) (PP (IN of) (NP (NP (NNS queries)) (PP (IN of) (NP (NN interest)))))) (VP (VBZ is) (VP (VBN updated))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN approach))) (, ,) (NP (NP (VBG terminating) (NNS classes)) (PP (IN for) (NP (DT all) (NNS predicates)))) (VP (VBP are) (VP (VBN inferred) (ADVP (IN at) (RB once)))) (. .))

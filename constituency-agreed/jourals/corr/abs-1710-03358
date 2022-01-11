@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS polygons)) (VP (VBP tend) (S (VP (TO to) (VP (VB be) (ADJP (RB quite) (JJ compact)))))) (. .))
+(S (NP (DT The) (NN center)) (VP (VBZ is) (NP (NP (DT the) (NN centroid)) (PP (IN of) (NP (NP (DT the) (NNS locations)) (PP (IN of) (NP (NP (DT the) (NNS residents)) (VP (VBN associated) (PP (IN with) (NP (DT the) (NN polygon)))))))))) (. .))

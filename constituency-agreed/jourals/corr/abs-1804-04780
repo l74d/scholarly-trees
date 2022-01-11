@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN algorithm)) (ADVP (RB also)) (VP (VBZ identifies) (NP (NP (NP (NNS sub-clusters)) (PP (IN of) (NP (NN attack) (NNS objects)))) (, ,) (NP (NP (DT the) (VBG overlapping) (NNS areas)) (PP (IN within) (NP (NNS clusters)))) (, ,) (CC and) (NP (NP (NNS outliers)) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB be) (NP (JJ potential) (NNS anomalies))))))))) (. .))

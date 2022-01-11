@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ novel) (JJ objective) (NN function)) (S (VP (TO to) (VP (VB train) (NP (PRP$ our) (NN framework)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP investigate) (NP (JJ different) (NN network) (NN design) (NNS choices))) (. .))
+(S (NP (DT Both) (NN code) (CC and) (NN dataset)) (VP (MD will) (VP (VB be) (VP (VBN released) (PP (IN upon) (NP (NN publication)))))) (. .))

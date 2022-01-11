@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN method))) (, ,) (NP (DT a) (NN hyperedge) (NN convolution) (NN operation)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB handle) (NP (DT the) (NNS data) (NN correlation)) (PP (IN during) (NP (NN representation) (NN learning)))))))) (. .))

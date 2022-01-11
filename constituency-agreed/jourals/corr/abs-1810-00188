@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NNS bottlenecks)) (SBAR (WHNP (WDT that)) (S (VP (VBP dominate) (NP (DT the) (JJ computational) (NNS expenses)))))) (VP (VBP are) (VP (VBN addressed)))) (CC and) (S (NP (JJ several) (NNS techniques)) (VP (VBP are) (VP (VBN proposed) (S (VP (TO to) (VP (VB optimize) (NP (DT the) (NNP GPU) (NN execution)))))))) (. .))

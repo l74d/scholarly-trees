@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN gallery)) (VP (MD may) (VP (VB contain) (NP (NN image) (NNS sequences)) (SBAR (WHADVP (WRB when)) (S (NP (NN re-identification)) (VP (VBZ is) (VP (VBN done) (PP (IN on) (NP (NNS videos))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ reduces) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT the) (NN query) (NN tube)))) (PP (IN by) (S (VP (VBG removing) (NP (JJ redundant) (NNS frames)))))) (. .))

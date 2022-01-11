@@ -1,0 +1,4 @@
+(S (NP (NP (JJ Exact) (NN enumeration)) (PP (IN of) (NP (JJ self-dual) (CC and) (NNP LCD) (JJ such) (NNS codes))) (PP (IN for) (NP (VBN given) (JJ length) (NP ($ $) (CD 2n) ($ $))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (S (VP (VBG Using) (NP (NP (NN random) (NN coding)) (CC and) (NP (DT the) (NNP Artin) (NN conjecture))))) (, ,) (NP (NP (DT the) (JJ relative) (NN distance)) (PP (IN of) (NP (DT these) (NNS codes)))) (VP (VBZ is) (VP (VBN bounded) (ADVP (IN below)))) (. .))
+(S (NP (NP (DT The) (NNS parameters)) (PP (IN of) (NP (NP (NNS examples)) (PP (IN of) (NP (DT the) (JJ modest) (NN length)))))) (VP (VBP are) (VP (VBN computed))) (. .))
+(S (NP (JJ Several) (JJ such) (NNS codes)) (VP (VBP are) (ADJP (JJ optimal))) (. .))

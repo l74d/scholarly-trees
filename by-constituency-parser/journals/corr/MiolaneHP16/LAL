@@ -1,0 +1,8 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NNS tools)) (PP (IN from) (NP (JJ geometric) (NNS statistics)))) (S (VP (TO to) (VP (VB analyze) (NP (NP (DT the) (JJ usual) (NN estimation) (NN procedure)) (PP (IN of) (NP (DT a) (JJ template) (NN shape)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ applies) (PP (TO to) (NP (NP (VB shapes)) (PP (IN from) (NP (NNS landmarks) (, ,) (NNS curves) (, ,) (NNS surfaces) (, ,) (NNS images) (VBP etc)))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (JJ asymptotic) (NN bias)) (PP (IN of) (NP (DT the) (NN template) (NN shape) (NN estimation)))) (S (VP (VBG using) (NP (NP (DT the) (JJ stratified) (NN geometry)) (PP (IN of) (NP (DT the) (NN shape) (NN space))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (CD two) (NN bootstrap) (NNS procedures)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP quantify) (NP (DT the) (NN bias))) (CC and) (VP (VB correct) (NP (PRP it)) (, ,) (SBAR (IN if) (S (VP (VBN needed)))))))))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (ADJP (JJ applicable) (PP (IN for) (NP (NP (DT any) (NN type)) (PP (IN of) (NP (NN shape) (NNS data))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN rule)) (PP (IN of) (NP (NN thumb))) (SBAR (S (VP (TO to) (VP (VB provide) (NP (NP (NN intuition)) (PP (IN on) (SBAR (IN whether) (S (NP (DT the) (NN bias)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN corrected)))))))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ exhibits) (NP (NP (DT the) (NNS parameters)) (SBAR (WHNP (WDT that)) (S (VP (VBP control) (NP (NP (DT the) (NN bias) (POS ›)) (NN magnitude))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NNS results)) (PP (IN on) (NP (ADJP (JJ simulated) (CC and) (JJ real)) (NN shape) (NNS data)))) (. .))

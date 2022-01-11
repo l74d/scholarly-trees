@@ -1,0 +1,1 @@
+(S (PP (IN Despite) (NP (NP (DT the) (NN non-convexity)) (PP (IN of) (NP (DT the) (VBG resulting) (NN optimization) (NN problem))))) (, ,) (NP (DT the) (JJ optimal) (NN solution)) (VP (VBZ is) (VP (VBN found) (PP (IN via) (NP (JJ monotonic) (NN optimization))))) (. .))

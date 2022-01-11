@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN result)) (VP (VBZ is) (NP (NP (DT the) (JJ twofold) (NN case)) (PP (IN of) (NP (CD 3) (NNS speeds))))) (. .))
+(S (PP (IN On) (NP (DT the) (CD one) (NN hand))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NNS accumulations)) (VP (MD can) (RB not) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (NP (NP (DT all) (NNS ratios)) (PP (IN between) (NP (NNS speeds)))) (CC and) (NP (NP (DT all) (NNS ratios)) (PP (IN between) (NP (JJ initial) (NNS distances))))) (VP (VBP are) (ADJP (JJ rational)))))))))) (. .))

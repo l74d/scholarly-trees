@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (MD can) (VP (VB parallelize) (NP (ADJP (RB highly) (JJ non-trivial)) (NN loop) (NNS nests)) (ADVP (RB efficiently))))))) (. .))

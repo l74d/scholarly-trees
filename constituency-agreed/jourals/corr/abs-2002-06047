@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some)) (PP (IN of) (NP (DT this) (NNS tools)))) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ interactive))) (. .))
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (DT a) (NN statement)))) (VP (VBZ is) (VP (VBN turned) (PP (IN into) (NP (DT a) (NN function)))))))) (. .))

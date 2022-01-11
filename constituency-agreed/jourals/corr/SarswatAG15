@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (DT the) (NN problem)) (VP (VBZ is) (S (VP (TO to) (VP (VB identify) (NP (NP (JJ such) (NN group)) (PP (IN of) (NP (VBG colluding) (NNS traders)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP have) (VP (VBN used) (NP (NP (NNS parameters)) (PP (IN of) (NP (JJ real) (NNS data)))) (S (VP (TO to) (VP (VB test) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN algorithm))))))))) (. .))

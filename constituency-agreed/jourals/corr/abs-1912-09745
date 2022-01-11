@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT the) (CD one) (NN hand))) (, ,) (NP (DT the) (NNP GVFE) (NN module)) (VP (VBZ learns) (NP (NP (JJ appropriate) (NN vertex) (NNS features)) (PP (IN for) (NP (NN action) (NN recognition)))) (PP (IN by) (S (VP (VBG encoding) (NP (JJ raw) (NN skeleton) (NNS data)) (PP (IN into) (NP (DT a) (JJ new) (NN feature) (NN space))))))) (. .))

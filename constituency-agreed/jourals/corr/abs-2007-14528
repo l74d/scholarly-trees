@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (DT the) (JJ main) (NN focus)) (VP (VBZ is) (PP (IN on) (NP (NN interpretability)))))) (, ,) (NP (DT the) (VBG resulting) (JJ surrogate) (NN model)) (ADVP (RB also)) (VP (VBZ has) (NP (ADJP (RB reasonably) (JJ good)) (JJ predictive) (NN performance))) (. .))

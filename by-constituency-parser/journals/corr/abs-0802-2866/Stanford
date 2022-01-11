@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN proof)) (VP (VBZ identifies) (NP (NP (JJ certain) (JJ algebraic) (NNS properties)) (PP (IN of) (NP (NN omega) (HYPH -) (NNS semigroups))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (NP (NP (DT an) (NML (NML (NN omega)) (HYPH -) (NML (JJ regular) (NN equivalence))) (NN relation)) (PP (IN of) (NP (JJ countable) (NN index)))) (VP (VBZ has) (NP (NP (DT an) (NML (NN omega) (HYPH -) (JJ regular)) (NN set)) (PP (IN of) (NP (NNS representatives))))) (. .))

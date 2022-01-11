@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (NP (DT the) (NN purchase) (CC and) (NN sale)) (PP (IN of) (NP (JJ private) (NNS data)))) (VP (VBZ has) (ADVP (RB already)) (VP (VBN begun) (PP (IN on) (NP (DT a) (JJ large) (NN scale))))))) (, ,) (NP (NP (DT a) (NN theory)) (PP (IN of) (NP (NP (NN privacy)) (PP (IN as) (NP (DT a) (NN commodity)))))) (VP (VBZ is) (VP (VBG missing))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB build) (NP (PDT such) (DT a) (NN theory)))))) (. .))

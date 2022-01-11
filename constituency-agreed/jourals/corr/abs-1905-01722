@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP perform) (NP (JJ cross-dataset) (NN validation)) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN generality)) (PP (IN of) (NP (PRP$ our) (NN method)))))))) (. .))

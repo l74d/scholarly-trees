@@ -1,0 +1,4 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT the) (NN scale)) (PP (IN of) (NP (DT a) (JJ biological) (NN swarm)))) (VP (MD can) (ADVP (RB even)) (VP (VB enable) (NP (JJ collective) (NN intelligence)))) (. .))
+(S (NP (CD One) (NN example)) (VP (VBZ comes) (PP (IN from) (NP (NP (NNS observations)) (PP (IN of) (NP (JJ golden) (NN shiner) (NN fish)))))) (. .))
+(S (NP (NNP Golden) (NNS shiners)) (ADVP (RB naturally)) (VP (VBP prefer) (NP (NN darkness) (CC and) (NN school)) (ADVP (RB together))) (. .))
+(S (NP (DT Each) (JJ individual) (JJ golden) (NN shiner)) (VP (VBZ does) (RB not) (VP (VB know) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN darkness)) (VP (VBZ is)))))) (. .))

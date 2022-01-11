@@ -1,0 +1,1 @@
+(S (ADVP (RB Hence)) (NP (DT the) (NN estimation) (NN error)) (VP (MD may) (VP (VB be) (VP (VBN bounded) (SBAR (IN while) (S (NP (DT the) (NN measurement) (NN noise)) (VP (VBZ is) (ADJP (RB virtually) (JJ unbounded)))))))) (. .))

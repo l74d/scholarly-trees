@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT a) (NN monitoring) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ relies) (PP (IN on) (NP (JJ Bayesian) (NNS classifiers))))))) (VP (VBD was) (ADVP (RB also)) (VP (VBN implemented) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NN fault) (NN isolation) (CC and) (NN localisation))))))) (. .))

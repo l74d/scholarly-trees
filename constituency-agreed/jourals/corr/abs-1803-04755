@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS interactions)) (VP (VBP form) (NP (NP (JJ temporal) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP reflect) (NP (NP (DT the) (NNS states)) (PP (IN of) (NP (DT the) (NNS systems))))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ combines) (NP (NP (DT a) (NN graph) (NN distance) (NN measure)) (CC and) (NP (JJ hierarchical) (NN clustering)))) (. .))

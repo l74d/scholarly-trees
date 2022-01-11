@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (NNS triangles)) (VP (VBP are) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN graph) (NNS classes)) (VP (VBN considered) (PP (IN in) (NP (NN network) (NN mining)))))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN adopted) (PP (IN with) (NP (NNS streams))))))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP begin) (PP (IN by) (S (VP (VBG summarizing) (NP (NP (DT the) (NN relevance) (CC and) (NN importance)) (PP (IN of) (NP (NP (JJ inductive) (NNS analytics)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN geometry) (CC and) (NN topology)) (PP (IN of) (NP (NNS data) (CC and) (NN information))))))))))))) (. .))
+(S (NP (JJ Contemporary) (NNS issues)) (VP (VBP are) (ADVP (RB then)) (VP (VBN discussed))) (. .))
+(S (NP (DT These)) (VP (VBP include) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ sampling) (NNS data)) (PP (IN for) (NP (NN representativity)))) (VP (VBZ is) (ADVP (RB increasingly)) (S (VP (TO to) (VP (VB be) (VP (VBN questioned))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (S (VP (TO to) (VP (VB construct) (NP (NP (NNS bridges)) (PP (IN between) (NP (NP (NNS data) (NNS sources)) (CC and) (NP (NN position-taking)) (, ,) (CC and) (NP (NN decision-making))))))))) (. .))
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (JJ summary) (NN presentation)) (PP (IN of) (NP (DT a) (JJ few) (NN case) (NNS studies))) (, ,) (VP (VBG illustrating) (CC and) (VBG exemplifying) (NP (NN application) (NNS domains))))) (. .))

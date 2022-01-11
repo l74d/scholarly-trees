@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT a) (NN policy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ succeeds) (PP (IN in) (NP (NN simulation))))))) (ADVP (RB often)) (VP (VBZ does) (RB n't) (VP (VB work) (SBAR (WHADVP (WRB when)) (S (VP (VBN deployed) (PP (IN on) (NP (DT a) (JJ real) (NN robot)))))))) (. .))

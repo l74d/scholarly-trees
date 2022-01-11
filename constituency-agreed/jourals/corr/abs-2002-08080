@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (JJ additional) (NNS packets)) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB decode) (NP (DT the) (NN file))))))))) (, ,) (NP (DT these)) (VP (VBP are) (VP (VBN downloaded) (PP (IN from) (NP (DT the) (NNP MBS))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Subjective) (NNS evaluations)) (PP (IN on) (NP (NNS preferences)))) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ generates) (NP (NP (NN music) (NNS pieces)) (PP (IN of) (NP (NP (JJR higher) (NN quality)) (PP (IN than) (NP (DT the) (NN baseline) (NN method)))))))))) (. .))

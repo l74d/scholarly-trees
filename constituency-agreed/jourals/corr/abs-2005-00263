@@ -1,0 +1,2 @@
+(S (NP (DT Both) (NNP MPI) (NNS users) (CC and) (NNS developers)) (VP (VBP are) (S (VP (TO to) (VP (VB blame) (PP (IN for) (NP (DT this) (NN slowdown))))))) (. .))
+(S (ADVP (RB Typically)) (, ,) (NP (NNP MPI) (NNS users)) (VP (VBP do) (RB not) (VP (VB expose) (NP (JJ logical) (NN communication) (NN parallelism)))) (. .))

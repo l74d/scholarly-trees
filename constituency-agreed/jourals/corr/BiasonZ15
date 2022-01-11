@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP analyze) (NP (NP (CD two) (NNS techniques)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB extend) (NP (NN network) (NN lifetime)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN combination)) (PP (IN of) (NP (DT these) (NNS techniques)))) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN used) (ADVP (RB jointly)) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN system) (NN performance))))))))))))) (. .))

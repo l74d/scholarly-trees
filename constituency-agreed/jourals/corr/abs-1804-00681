@@ -1,0 +1,1 @@
+(S (NP (JJ Such) (NNS datasets)) (ADVP (RB naturally)) (VP (VBP arise) (PP (IN from) (NP (NP (NNS experiments)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS samples)) (VP (VBP are) (VP (VBN shuffled) (CC or) (VBN permuted) (PP (IN during) (NP (DT the) (NN protocol)))))))))) (. .))

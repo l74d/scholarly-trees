@@ -1,0 +1,1 @@
+(S (NP (NNP Weather) (NN forecasting)) (VP (VBZ is) (VP (VBN dominated) (PP (IN by) (NP (NP (JJ numerical) (NN weather) (NN prediction)) (SBAR (WHNP (WDT that)) (S (VP (VBZ tries) (S (VP (TO to) (VP (VB model) (ADVP (RB accurately)) (NP (NP (DT the) (JJ physical) (NNS properties)) (PP (IN of) (NP (DT the) (NN atmosphere)))))))))))))) (. .))

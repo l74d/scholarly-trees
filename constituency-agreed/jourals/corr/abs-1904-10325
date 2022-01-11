@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (NNS controls)) (VP (VBP are) (ADJP (JJ unbounded))))) (, ,) (NP (NNS simulations)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ multiple) (JJ local) (JJ minimal) (NNS solutions)) (VP (MD might) (VP (VB exist)))))) (. .))
+(S (SBAR (IN If) (S (NP (NNS controls)) (VP (VBP are) (VP (VBN bounded))))) (, ,) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (PRP$ our) (NN model)))) (ADVP (RB also)) (VP (VBZ implies) (NP (NP (JJ classical) (NN analysis)) (VP (VBN done) (ADVP (RB previously)) (PP (IN for) (NP (DT this) (NN problem)))))) (. .))

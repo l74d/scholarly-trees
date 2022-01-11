@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN benchmarking) (NN suite)) (SBAR (WHNP (WDT that)) (S (VP (VBZ aims) (PP (IN at) (S (VP (VBG fostering) (NP (NN comparability) (CC and) (NN reproducibility))))))))) (VP (VBZ supports) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NN imitation) (NN learning) (NNS approaches))))) (. .))

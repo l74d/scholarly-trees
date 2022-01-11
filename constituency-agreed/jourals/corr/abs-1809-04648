@@ -1,0 +1,1 @@
+(S (S (S (VP (VBG Preventing) (NP (NP (NNS data) (NN exfiltration)) (PP (IN from) (NP (NN computer) (NNS systems)))))) (ADVP (RB typically)) (VP (VBZ depends) (PP (IN on) (NP (NN perimeter) (NNS defences))))) (, ,) (CC but) (S (NP (DT these)) (VP (VBP are) (VP (VBG becoming) (ADJP (RB increasingly) (JJ fragile))))) (. .))

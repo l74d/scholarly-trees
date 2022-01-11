@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT a) (NN data) (NN warehouse)) (VP (MD can) (VP (VB require) (NP (JJ external) (NNS data)))) (. .))
+(S (PP (IN At) (NP (DT the) (JJ conceptual) (NN level))) (, ,) (NP (DT a) (JJ complex) (NN object)) (VP (VBZ is) (VP (VBN represented) (PP (IN in) (NP (NNP UML))))) (. .))

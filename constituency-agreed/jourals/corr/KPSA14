@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP compute) (NP (DT the) (NN score)) (S (VP (VBG using) (NP (NP (JJ fuzzy) (NN membership) (NNS values)) (SBAR (WHNP (WDT which)) (S (VP (VBP generate) (ADVP (RB automatically)) (PP (IN from) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS matches) (CC and) (NNS mismatches)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN problem)) (PP (IN of) (S (VP (VBG improving) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NP (JJ nonparametric) (NN entropy) (NN estimation)) (PP (IN for) (NP (DT a) (JJ stationary) (JJ ergodic) (NN process)))))))))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (S (NP (NNP New) (JJ weak) (NNS metrics)) (VP (VBP are) (VP (VBN introduced)))) (CC and) (S (NP (NP (NNS relations)) (PP (IN between) (NP (NNS metrics) (, ,) (NNS measures) (, ,) (CC and) (NN entropy)))) (VP (VBP are) (VP (VBN discussed)))) (. .))

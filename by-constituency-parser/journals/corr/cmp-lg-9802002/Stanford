@@ -1,0 +1,6 @@
+(S (NP (DT The) (NN thesis)) (VP (VBZ describes) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (DT the) (NN relaxation) (NN labelling) (NN algorithm)))) (PP (IN to) (NP (NNP NLP) (NN disambiguation)))) (. .))
+(S (NP (NNP Language)) (VP (VBZ is) (VP (VBN modelled) (PP (IN through) (NP (NP (NN context) (NN constraint)) (VP (VBN inspired) (PP (IN on) (NP (NN Constraint) (NNS Grammars)))))))) (. .))
+(S (NP (DT The) (NNS constraints)) (VP (VBP enable) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (DT a) (JJ real) (NN value) (NN statind)) (NP ('' ") (NN compatibility) ('' ")))))) (. .))
+(S (NP (DT The) (NN technique)) (VP (VBZ is) (VP (VBN applied) (PP (IN to) (NP (NP (NN POS) (VBG tagging)) (, ,) (NP (JJ Shallow) (NN Parsing)) (CC and) (NP (NN Word) (NN Sense) (NN Disambigation)))))) (. .))
+(S (NP (NNS Experiments) (CC and) (NNS results)) (VP (VBP are) (VP (VBN reported))) (. .))
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ enables) (NP (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ multi-feature) (NN constraint) (NNS models)))) (, ,) (NP (NP (DT the) (JJ simultaneous) (NN resolution)) (PP (IN of) (NP (JJ several) (NNP NL) (NN disambiguation) (NNS tasks)))) (, ,) (CC and) (NP (NP (DT the) (NN collaboration)) (PP (IN of) (NP (ADJP (JJ linguistic) (CC and) (JJ statistical)) (NNS models)))))) (. .))

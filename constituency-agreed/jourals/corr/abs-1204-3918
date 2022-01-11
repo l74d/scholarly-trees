@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (S (VP (VBG eliminating) (NP (NNS candidates)))) (VP (VBZ does) (RB not) (ADVP (RB necessarily)) (VP (VB increase) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (NN manipulation))))))))) (. .))

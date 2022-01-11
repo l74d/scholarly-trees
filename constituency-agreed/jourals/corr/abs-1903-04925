@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (NP (NNS sequences)) (VP (VBP are) (VP (VBN hashed) (ADVP (RB together)) (S (VP (VBN based) (PP (CONJP (RB not) (RB only)) (PP (IN on) (NP (PRP$ their) (NN closeness))) (, ,) (CONJP (CC but) (RB also)) (PP (IN on) (NP (NP (NN similarity)) (PP (IN of) (NP (NN context)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Items)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN associated) (PP (IN with) (NP (NP (JJ unstructured) (NN text)) (PP (JJ such) (IN as) (NP (NP (NN article) (NNS abstracts)) (CC and) (NP (NN product) (NNS reviews)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP PNE)) (VP (VBZ learns) (NP (JJ meaningful) (NN word) (NNS embeddings)) (PP (IN by) (NP (NN visualization))))))) (. .))

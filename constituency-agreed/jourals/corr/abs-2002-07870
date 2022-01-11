@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ uses) (NP (NP (DT an) (JJ efficient) (NN search) (NN strategy)) (PP (IN over) (NP (NP (DT a) (NN response) (NN surface)) (PP (IN in) (NP (DT the) (NN parameter) (NN space)))))) (PP (IN for) (S (VP (VBG finding) (NP (DT the) (JJ global) (NN optima)) (PP (IN with) (NP (JJ minimal) (NN function) (NNS evaluations))))))) (. .))
+(S (NP (DT The) (NNP GP) (JJ posterior) (JJ predictive) (NN variance)) (VP (VBZ is) (VP (VBN exploited) (PP (IN for) (NP (JJ smart) (JJ adaptive) (NN sampling))))) (. .))

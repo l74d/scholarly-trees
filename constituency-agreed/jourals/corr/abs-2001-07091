@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ crucial) (NN component)) (PP (IN of) (NP (DT any) (NN blockchain) (NN system)))) (VP (VBZ is) (NP (NP (PRP$ its) (JJ underlying) (NN consensus) (NN algorithm)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (JJ many) (NNS ways))) (, ,) (VP (VBZ determines) (NP (PRP$ its) (NN performance) (CC and) (NN security))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (VBG existing) (NNS studies)) (PP (IN of) (NP (NN consensus) (NNS algorithms)))) (VP (VBP are) (RB not) (ADJP (JJ comprehensive))) (. .))

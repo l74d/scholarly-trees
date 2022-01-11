@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB get) (NP (NP (DT the) (NNS videos)) (CC and) (NP (PRP$ their) (NNS labels)))))) (, ,) (NP (PRP we)) (VP (VBD used) (NP (NP (DT a) (NNP YouTube) (NN video) (NN annotation) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ labels) (NP (NNS videos)) (PP (IN with) (NP (PRP$ their) (JJ main) (NNS topics)))))))) (. .))

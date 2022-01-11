@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (ADJP (JJ direct) (CC and) (JJ practical)) (NN method)) (PP (IN for) (S (VP (VBG solving) (NP (DT the) (NN problem)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (NNS Results)) (PP (IN of) (NP (JJ numerical) (NNS tests)))) (VP (VBP are) (VP (VBN provided) (S (VP (VBG revealing) (NP (NP (DT a) (JJ remarkable) (NN accuracy) (CC and) (NN stability)) (PP (IN of) (NP (DT the) (NN method)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Trajectory) (NN owner) (NN prediction)) (VP (VBZ is) (NP (NP (DT the) (NN basis)) (PP (IN for) (NP (NP (JJ many) (NNS applications)) (PP (JJ such) (IN as) (NP (NP (JJ personalized) (NN recommendation)) (, ,) (NP (JJ urban) (NN planning)))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (VBG existing) (NNS solutions)))) (VP (VBZ is) (ADVP (RB far) (PP (IN from) (NP (NP (DT the) (NNS requirements)) (PP (IN of) (NP (JJ practical) (NNS applications))))))) (. .))

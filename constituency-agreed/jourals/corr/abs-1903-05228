@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG discovering) (NP (NNS dependencies)) (PP (IN from) (NP (VBN distributed) (JJ big) (NNS data)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP support) (NP (PRP$ our) (NN analysis)) (PP (IN with) (NP (NP (DT an) (JJ experimental) (NN evaluation)) (PP (IN on) (NP (JJ real) (NNS datasets)))))) (. .))

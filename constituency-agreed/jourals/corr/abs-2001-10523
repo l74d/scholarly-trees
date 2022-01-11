@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP devise) (NP (NP (JJ several) (JJ multi-class) (NNP GP) (NNS classifiers)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB account) (PP (IN for) (NP (NN input) (NN noise))))))))) (. .))

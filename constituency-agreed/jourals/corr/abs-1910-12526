@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (NP (NNP Dijkstra) (POS 's)) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (DT these) (NNS problems)))))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (RB too) (JJ slow) (PP (IN for) (NP (JJ many) (JJ practical) (NNS problems))))) (. .))

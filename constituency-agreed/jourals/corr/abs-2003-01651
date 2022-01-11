@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP extend) (NP (PRP$ their) (NN technique)) (S (VP (TO to) (VP (VB include) (NP (ADJP (RB possibly) (JJ unstable)) (NN time) (NN delay) (NNS systems)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP illustrate) (NP (NP (JJ suboptimal) (NNS solutions)) (, ,) (CC and) (NP (PRP$ their) (JJ robust) (NN implementation)))) (. .))

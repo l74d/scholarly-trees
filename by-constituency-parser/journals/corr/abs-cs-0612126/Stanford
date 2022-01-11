@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (NN framework)) (PP (IN for) (NP (NP (JJ virtual) (NN reality)) (PP (IN of) (NP (NN engineering) (NNS objects)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN developed)))) (. .))
+(S (NP (DT This) (NN framework)) (VP (MD may) (VP (VB simulate) (NP (NP (JJ different) (NN equipment)) (VP (VBN related) (PP (IN to) (NP (JJ virtual) (NN reality))))))) (. .))
+(S (NP (NNP Framework)) (VP (VBZ supports) (NP (NP (NN 6D) (NNS dynamics)) (, ,) (NP (JJ ordinary) (JJ differential) (NNS equations)) (, ,) (NP (JJ finite) (NNS formulas)) (, ,) (NP (NN vector)) (CC and) (NP (NN matrix) (NNS operations)))) (. .))
+(S (NP (DT The) (NN framework)) (ADVP (RB also)) (VP (VBZ supports) (NP (NP (NN embedding)) (PP (IN of) (NP (JJ external) (NN software))))) (. .))

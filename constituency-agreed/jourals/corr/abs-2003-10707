@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB quantify) (NP (DT the) (NN re-identification) (NN risk)) (PP (IN with) (NP (NP (NNS measures)) (PP (IN for) (NP (NP (DT the) (JJ individual) (NN uniqueness)) (PP (IN in) (NP (NN event) (NNS logs)))))))))))) (. .))

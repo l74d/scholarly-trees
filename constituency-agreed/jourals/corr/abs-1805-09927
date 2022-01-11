@@ -1,0 +1,2 @@
+(S (NP (JJ Distant) (NN supervision)) (VP (VBZ has) (VP (VBN become) (NP (NP (DT the) (JJ standard) (NN method)) (PP (IN for) (NP (NN relation) (NN extraction)))))) (. .))
+(S (PP (IN Unlike) (NP (NP (DT the) (NN removal) (NN operation)) (PP (IN in) (NP (DT the) (JJ previous) (NNS studies))))) (, ,) (NP (PRP we)) (VP (VBP redistribute) (NP (PRP them)) (PP (IN into) (NP (DT the) (JJ negative) (NNS examples)))) (. .))

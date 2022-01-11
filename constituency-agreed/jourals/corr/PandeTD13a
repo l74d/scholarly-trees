@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP model) (NP (DT this) (NN problem)) (PP (IN as) (NP (DT an) (NN optimization) (NN problem)))) (. .))
+(S (NP (DT An) (NNP Integer) (NNP Program)) (VP (VBZ is) (VP (VBG being) (VP (VBN developed) (S (VP (TO to) (VP (VB overcome) (NP (NP (DT the) (NNS shortcomings)) (PP (IN of) (NP (DT the) (VBG existing) (NNS approaches)))))))))) (. .))

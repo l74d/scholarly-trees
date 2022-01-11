@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP equip) (NP (NNP BERT)) (PP (IN with) (NP (DT this) (JJ mixed) (NN attention) (NN design)))) (CC and) (VP (VB build) (NP (DT a) (NNP ConvBERT) (NN model)))) (. .))

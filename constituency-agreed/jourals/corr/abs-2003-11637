@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many)) (PP (IN of) (NP (DT these)))) (VP (VBP are) (NP (NP (JJ combinatorial) (NNS problems)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ optimal) (NNS solutions)) (VP (VBP are) (VP (VBN sought) (PP (RB rather) (IN than) (NP (JJ exact) (NNS solutions))))))))) (. .))
+(S (NP (DT This) (JJ local) (NN optima) (NN avoidance) (NN property)) (VP (VBZ helps) (PP (IN in) (S (VP (VBG finding) (NP (JJ global) (JJ optimal) (NNS solutions)))))) (. .))

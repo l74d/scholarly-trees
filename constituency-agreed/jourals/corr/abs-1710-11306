@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS contributions)) (VP (VBP are) (SBAR (IN as) (S (VP (VBZ follows))))) (. .))
+(S (NP (PRP$ Our) (NNS algorithms)) (VP (VBP are) (VP (VBN accompanied) (PP (IN by) (NP (JJ formal) (NN complexity) (NN analysis))))) (. .))

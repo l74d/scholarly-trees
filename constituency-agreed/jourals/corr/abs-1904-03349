@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (VBN proposed) (NN architecture)) (VP (MD can) (VP (VB generate) (NP (NP (NN training) (NNS images)) (PP (IN for) (NP (NN person) (NN re-identification)))) (, ,) (S (VP (VBG alleviating) (NP (NNS data) (NN insufficiency)))))) (. .))

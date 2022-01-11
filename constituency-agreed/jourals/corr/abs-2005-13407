@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB bridge) (NP (DT that) (NN gap))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (NNP CausaLM)) (, ,) (NP (NP (DT a) (NN framework)) (PP (IN for) (S (VP (VBG producing) (NP (JJ causal) (NN model) (NNS explanations)) (S (VP (VBG using) (NP (JJ counterfactual) (NN language) (NN representation) (NNS models)))))))))) (. .))

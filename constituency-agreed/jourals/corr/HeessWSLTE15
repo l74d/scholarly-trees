@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ supports) (NP (JJ stochastic) (NN control)) (PP (IN by) (S (VP (VBG treating) (NP (NP (NN stochasticity)) (PP (IN in) (NP (DT the) (NNP Bellman) (NN equation)))) (PP (IN as) (NP (NP (DT a) (JJ deterministic) (NN function)) (PP (IN of) (NP (JJ exogenous) (NN noise))))))))) (. .))

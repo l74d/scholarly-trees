@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ requires) (NP (JJ undamaged) (NNS packets)) (, ,) (SBAR (IN while) (S (NP (NP (DT the) (NNS packets)) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (RB not) (VP (VBN lost)))))) (VP (VBP are) (ADVP (RB usually)) (VP (VBN damaged) (PP (IN in) (NP (JJ real) (NNS scenarios)))))))) (. .))

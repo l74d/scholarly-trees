@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (NP (JJ further) (NN research)) (PP (IN of) (NP (DT the) (NN algorithm))))))) (. .))
+(S (NP (NP (DT An) (NN outline)) (PP (IN of) (NP (NP (DT a) (JJ new) (NN design)) (PP (IN for) (NP (JJ trust-less) (NN payment) (NN system)))))) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (NNS appendices))))) (. .))

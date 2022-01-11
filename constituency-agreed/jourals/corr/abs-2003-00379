@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN adjoint) (JJ variable) (NN method)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (PP (IN for) (NP (NP (DT the) (JJ efficient) (NN computation)) (PP (IN of) (NP (NNS gradients)))))))) (, ,)) (VP (VBZ has) (VP (VBN played) (NP (NP (DT a) (JJ major) (NN role)) (PP (IN in) (NP (DT this) (NN success)))))) (. .))

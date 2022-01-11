@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ novel) (JJ semantic) (NN segmentation) (NN algorithm)) (PP (IN by) (S (VP (VBG learning) (NP (DT a) (NN deconvolution) (NN network)))))) (. .))

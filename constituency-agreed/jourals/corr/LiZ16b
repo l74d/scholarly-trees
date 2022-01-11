@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN practice))) (, ,) (S (VP (VBG learning) (NP (DT these) (NN response)))) (VP (VBZ is) (ADJP (JJ nontrivial)) (SBAR (IN because) (S (NP (NNS operators)) (VP (MD can) (ADVP (RB only)) (VP (VB send) (NP (NP (DT a) (JJ limited) (NN number)) (PP (IN of) (NP (NNS signals))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NN customer) (NN behavior)) (ADVP (RB also)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (JJ exogenous) (NNS covariates)))))) (. .))

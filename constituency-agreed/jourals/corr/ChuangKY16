@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN since) (S (NP (NN gene) (NN expression) (NNS data)) (VP (MD could) (VP (VB contain) (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS genes)))) (ADVP (RB simultaneously)))))) (, ,) (NP (JJ successful) (NN microarray) (NN classification)) (VP (VBZ is) (ADJP (RB rather) (JJ difficult))) (. .))
+(S (NP (NN Feature) (NN selection)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN pre-treatment)) (PP (IN for) (NP (DT any) (NN classification) (NN process))))) (. .))

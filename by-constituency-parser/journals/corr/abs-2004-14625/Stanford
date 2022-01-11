@@ -1,0 +1,3 @@
+(S (NP (JJ Stochastic) (NN gradient) (NN descent) (PRN (-LRB- -LRB-) (NP (NNP SGD)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (JJ promising) (JJ numerical) (NN method)) (PP (IN for) (S (VP (VBG solving) (NP (NML (JJ large) (HYPH -) (NN scale)) (NN inverse) (NNS problems))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (JJ theoretical) (NNS properties)) (VP (VBP remain) (ADJP (RB largely) (JJ underexplored) (PP (IN in) (NP (NP (DT the) (NN lens)) (PP (IN of) (NP (JJ classical) (NN regularization) (NN theory))))))) (. .))
+(S (NP (DT The) (JJ theoretical) (NNS results)) (VP (VBP are) (VP (VBN complemented) (PP (IN with) (NP (JJ extensive) (JJ numerical) (NNS experiments))))) (. .))

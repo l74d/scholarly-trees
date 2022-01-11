@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (CD three) (JJ sequential) (JJ convolutional) (JJ neural) (NNS networks)) (PP (IN for) (NP (NP (NN feature) (NN extraction)) (, ,) (NP (NN scene) (NN geometry) (NN estimation)) (CC and) (NP (NN view) (NN selection))))) (. .))

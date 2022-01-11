@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Various) (NNS systems)) (VP (VBG using) (NP (NP (NN word) (NN overlap)) (, ,) (NP (JJ neural) (NNS embeddings)) (CC and) (NP (JJ neural) (JJ compositional) (NNS models))))) (VP (VBP are) (VP (VBN evaluated) (PP (IN on) (NP (NP (CD two) (NNS datasets)) (PP (IN of) (NP (NN learner) (NN writing))))))) (. .))

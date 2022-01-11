@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (JJ convolutional) (JJ neural) (NN network)) (PP (IN as) (NP (NP (DT the) (JJ basic) (NN tool)) (PP (IN for) (NP (JJ deep) (NN learning)))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ multiple) (NN attenuation) (NN step))) (, ,) (NP (DT the) (NN training) (NN set)) (VP (VBZ is) (VP (VBN generated) (PP (IN with) (NP (JJ acoustic) (NN wave) (NN equation))))) (. .))
+(S (NP (JJ Stochastic) (NN gradient) (NN descent)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (JJ optimal) (NNS parameters)) (PP (IN for) (NP (DT the) (JJ convolutional) (JJ neural) (NN network))))))))) (. .))

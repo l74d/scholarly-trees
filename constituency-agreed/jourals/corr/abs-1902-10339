@@ -1,0 +1,1 @@
+(S (PP (IN Under) (NP (JJ deep) (JJ neural) (NNS networks))) (, ,) (NP (DT a) (JJ pre-defined) (NN vocabulary)) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB vectorize) (NP (NN text) (NNS inputs))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (ADJP (JJ particular))) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (S (VP (VBG discovering) (NP (NP (CD two) (NNS kinds)) (PP (IN of) (NP (NP (NNS relationships)) (PP (IN among) (NP (DT the) (NNS labels)))))))))) (. .))
+(S (NP (JJ Marginal) (NNS probabilities)) (VP (VBP are) (VP (VP (VBN entered) (PP (IN as) (NP (NP (JJ soft) (NN evidence)) (PP (IN in) (NP (DT the) (NN network)))))) (CC and) (VP (VBN adjusted) (PP (IN through) (NP (JJ probabilistic) (NN inference)))))) (. .))

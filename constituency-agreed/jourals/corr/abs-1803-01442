@@ -1,0 +1,1 @@
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (PP (IN for) (NP (JJ such) (NNS games))) (, ,) (NP (NP (DT the) (JJ optimal) (NN strategy)) (PP (IN for) (NP (DT both) (NNS players)))) (VP (VBZ requires) (NP (NP (DT a) (JJ stochastic) (NN policy)) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (DT a) (JJ mixed) (NN strategy)))))) (. .))

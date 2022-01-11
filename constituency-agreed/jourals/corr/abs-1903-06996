@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ has) (NP (JJ provable) (NN convergence) (CC and) (NN robustness)) (PP (IN under) (NP (JJ non-IID) (NNS settings)))) (. .))

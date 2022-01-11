@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (JJ nonlinear) (NN optimization) (NN problem)) (PP (IN by) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NN convex) (NNS problems)))))))))) (. .))

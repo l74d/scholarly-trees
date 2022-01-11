@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Bayesian) (NN inference)) (PP (IN on) (NP (JJ structured) (NNS models)))) (ADVP (RB typically)) (VP (VBZ relies) (PP (IN on) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB infer) (NP (NP (JJ posterior) (NNS distributions)) (PP (IN of) (NP (VBG underlying) (JJ hidden) (NNS variables)))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (NN inference)) (PP (IN in) (NP (NP (JJ implicit) (NNS models)) (CC or) (NP (JJ complex) (JJ posterior) (NNS distributions))))) (VP (VBZ is) (ADJP (JJ hard))) (. .))

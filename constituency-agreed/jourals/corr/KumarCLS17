@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT some) (NNS users)) (VP (MD may) (VP (VP (VB create) (NP (NP (JJ multiple) (NNS identities)) (, ,) (CC or) (NP (NNS sockpuppets)) (, ,))) (CC and) (VP (VB engage) (PP (IN in) (NP (JJ undesired) (NN behavior))) (PP (IN by) (S (VP (VP (VBG deceiving) (NP (NNS others))) (CC or) (VP (VBG manipulating) (NP (NNS discussions))))))))) (. .))
+(S (NP (PRP$ Our) (NN analysis)) (VP (VBZ suggests) (NP (NP (DT a) (NN taxonomy)) (PP (IN of) (NP (NP (JJ deceptive) (NN behavior)) (PP (IN in) (NP (NN discussion) (NNS communities))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNS changes)) (VP (VBP are) (VP (VBN described) (PP (IN by) (NP (JJ dynamic) (NN logic))))) (. .))
+(S (S (VP (TO To) (VP (VB describe) (NP (NN knowledge) (NNS changes))))) (, ,) (NP (JJ dynamic) (NN logic)) (VP (MD should) (VP (VB be) (VP (VBN combined) (PP (IN with) (NP (NP (NN logic)) (PP (IN of) (NP (JJ common) (NN knowledge)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT the) (NN framework)) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN proof)) (VP (MD can) (VP (VB be))))))))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS metrics)) (VP (VBP are) (VP (VBN induced) (PP (IN by) (NP (NP (NNS seminorms)) (PP (IN on) (NP (NP (DT the) (NN state) (NN space)) (PP (IN of) (NP (NNP WFA))))))))) (. .))
+(S (NP (PRP$ Our) (NN development)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ spectral) (NNS properties)) (PP (IN of) (NP (NP (NNS sets)) (PP (IN of) (NP (JJ linear) (NNS operators))))))))) (. .))

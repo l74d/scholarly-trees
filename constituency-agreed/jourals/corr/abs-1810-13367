@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Bugs)) (PP (IN in) (NP (DT the) (NNS applications)))) (VP (MD can) (ADVP (RB also)) (VP (VB result) (PP (IN in) (NP (NP (JJ exploitable) (NNS vulnerabilities)) (SBAR (WHNP (WDT that)) (S (VP (VBP leak) (NP (NNS credentials))))))))) (. .))

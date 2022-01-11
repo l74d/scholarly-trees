@@ -1,0 +1,2 @@
+(S (NP (DT An) (NN algorithm)) (VP (VBZ is) (VP (VBN called) (S (ADJP (JJ fair))) (SBAR (WHADVP (WRB when)) (S (NP (DT each) (NN packet)) (VP (VBZ is) (ADVP (RB eventually)) (VP (VBN broadcast))))))) (. .))
+(S (PP (IN For) (NP (CD three) (NNS stations))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ fair) (NN latency)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN by) (NP (DT a) (JJ general) (NN algorithm))) (, ,) (SBAR (IN while) (S (NP (DT no) (JJ full) (VBG sensing) (NN algorithm)) (VP (MD can) (VP (VB be) (ADJP (JJ stable)))))))))))) (. .))

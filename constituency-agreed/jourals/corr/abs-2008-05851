@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (NP (DT the) (NN user) (POS 's)) (NN experience)) (VP (MD can) (VP (VB be) (VP (VBN improved)))) (. .))
+(S (NP (NP (CD Two) (NNS sets)) (PP (IN of) (NP (NNS experiments))) (, ,) (PP (VBG including) (NP (NP (NN application) (NNS experiments)) (CC and) (NP (NN scenario) (NNS experiments)))) (, ,)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (NN system))))))) (. .))

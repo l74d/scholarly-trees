@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (NNP RTL) (NN emulation) (CC and) (NN synthesis)))) (VP (VB ensure) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN parallel) (NN architecture)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (NNP VLSI) (NN implementation)))))))) (. .))

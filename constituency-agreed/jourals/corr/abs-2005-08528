@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ non-autoregressive) (NNS models))) (, ,) (NP (NP (JJ additional) (NNS durations)) (PP (IN of) (NP (NN text) (NNS tokens)))) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB make) (NP (NP (DT a) (JJ hard) (NN alignment)) (PP (IN between) (NP (NP (DT the) (NN encoder)) (CC and) (NP (DT the) (NN decoder)))))))))) (. .))

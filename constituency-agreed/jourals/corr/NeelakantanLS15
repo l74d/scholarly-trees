@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ neural) (NNS networks)) (VP (VBP fail) (S (VP (TO to) (VP (VB learn) (S (VP (TO to) (VP (VB add) (NP (CD two) (JJ binary) (NNS numbers)) (ADVP (RB reliably)))))))))))))) (. .))

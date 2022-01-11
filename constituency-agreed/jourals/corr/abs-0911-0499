@@ -1,0 +1,4 @@
+(S (ADVP (RB Subsequently)) (, ,) (NP (DT the) (NN control) (NNS points)) (VP (VBP are) (VP (VBN determined) (PP (IN for) (NP (PDT all) (DT the) (NNS ridges))) (PP (IN by) (S (VP (VBG visualizing) (NP (DT each) (NN ridge)) (PP (IN as) (NP (DT a) (NNP Bezier) (NN curve)))))))) (. .))
+(S (NP (NP (DT The) (NN control) (NNS points)) (PP (IN of) (NP (NP (PDT all) (DT the) (NNS ridges)) (VP (VBN determined))))) (VP (VP (VBP are) (VP (VBN stored))) (CC and) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB represent) (NP (DT the) (NN fingerprint) (NN image)))))))) (. .))
+(S (NP (NP (DT The) (NN quality)) (PP (IN of) (NP (DT the) (JJ reconstructed) (NN fingerprint)))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (DT a) (JJ formal) (NN evaluation))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN scheme)) (VP (VBZ achieves) (NP (JJ considerable) (NN memory) (NN reduction)) (PP (IN in) (S (VP (VBG storing) (NP (DT the) (NN fingerprint)))))) (. .))

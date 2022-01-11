@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN uncertainty)) (PP (IN on) (NP (NP (DT the) (NNS values)) (PP (IN of) (NP (DT the) (NNS parameters)))))) (VP (VBZ is) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (VP (VBN given) (PP (IN under) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT a) (NN probability) (NN distribution))))))))))) (. .))

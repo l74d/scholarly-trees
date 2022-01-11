@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (DT this) (NN optimization) (NN problem)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ challenging)) (JJ non-convex) (NN problem)))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (JJ numerical) (NN example))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB achieve) (NP (NP (DT a) (NN network) (NN performance) (NN gain)) (PP (IN of) (NP (CD 34.4) (NN %)))) (PP (IN by) (S (VP (VBG using) (NP (NNP DPC))))))))))) (. .))

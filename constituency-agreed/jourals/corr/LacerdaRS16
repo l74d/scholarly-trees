@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (DT the) (NN capacity)) (VP (VBZ sets) (NP (NP (DT the) (JJ ultimate) (NN limit)) (PP (IN on) (NP (JJ reliable) (NN communication) (NNS rates))))))) (, ,) (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB promise) (SBAR (IN that) (S (NP (JJ such) (NNS rates)) (VP (VBP are) (ADJP (JJ achievable) (PP (IN by) (NP (JJ practical) (NNS means))))))))) (. .))
+(S (NP (NP (NN Encoding)) (PP (IN of) (NP (JJ classical) (NN information)))) (VP (MD can) (VP (VB be) (VP (VBN done) (S (VP (VBG using) (NP (JJ linear) (NNS optics))))))) (. .))

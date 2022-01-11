@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NN approximation)) (VP (MD can) (ADVP (RB effectively)) (VP (VB be) (VP (VBN learned) (PP (IN by) (S (ADVP (RB simply)) (VP (VBG solving) (NP (DT a) (JJ linear) (NN equation) (NN system))))))))) (: ;) (S (NP (NP (DT no) (NN backpropagation)) (CC or) (NP (JJ similar) (NNS methods))) (VP (VBP are) (VP (VBN needed)))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN network) (NN size)) (VP (MD can) (VP (VB be) (VP (VBN reduced) (PP (IN by) (S (VP (VBG taking) (NP (RB only) (ADJP (RBS most) (JJ relevant)) (NNS components)))))))) (. .))

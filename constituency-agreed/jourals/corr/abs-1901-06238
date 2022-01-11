@@ -1,0 +1,3 @@
+(NP (NNP English) (. .))
+(S (NP (PRP It)) (VP (VBZ provides) (NP (NP (JJ new) (NN interoperability) (NNS features)) (PP (IN between) (NP (NNP Hive) (CC and) (NNP Spark))))) (. .))
+(NP (NNP Italiano) (. .))

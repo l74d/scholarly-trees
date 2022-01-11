@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT some) (NN use) (NNS cases))) (, ,) (NP (JJ approximate) (NNS results)) (VP (VBP are) (VP (VBN preferred) (PP (IN over) (NP (JJ accurate) (NNS results))) (SBAR (IN if) (S (NP (PRP they)) (VP (MD can) (VP (VP (VB be) (VP (VBN computed) (ADVP (RB rapidly)))) (CC and) (VP (VB satisfy) (NP (NN approximation) (NNS guarantees))))))))) (. .))

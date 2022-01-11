@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ new) (NN algorithm)) (VP (VBG deciding) (NP (DT the) (NN star) (NN height) (NN problem))))) (. .))
+(S (SBAR (IN As) (S (VP (VBN shown) (PP (IN by) (NP (NNP Kirsten)))))) (, ,) (NP (DT the) (NN star) (NN height) (NN problem)) (VP (VBZ reduces) (PP (TO to) (NP (NP (NP (DT a) (NN problem)) (VP (VBG concerning) (NP (NP (NN automata)) (PP (IN with) (NP (NNS counters)))))) (, ,) (VP (VBD called) (S (NP (NN limitedness))))))) (. .))

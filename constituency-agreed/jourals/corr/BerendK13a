@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some)) (PP (IN of) (NP (PRP$ our) (NN proof) (NNS techniques)))) (VP (VP (VBP are) (ADJP (JJ non-standard))) (CC and) (VP (MD may) (VP (VB be) (PP (IN of) (NP (JJ independent) (NN interest)))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (NN theory))))))) (. .))

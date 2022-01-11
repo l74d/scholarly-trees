@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ complete) (NN set)) (PP (IN of) (NP (NP (NNS axioms)) (PP (IN for) (NP (NP (DT the) (JJ equational) (NN theory)) (PP (IN of) (NP (DT these) (NNS algebras))))))))) (. .))
+(S (NP (DT This) (NN proof)) (VP (VBD was) (VP (VBN developed) (PP (IN in) (NP (DT the) (NN proof) (NN assistant) (NNP Coq))))) (. .))

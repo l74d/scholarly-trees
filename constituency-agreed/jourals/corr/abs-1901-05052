@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (JJ key) (NNS principles)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS techniques) (CC and) (NNS methodologies)) (VP (VBN used))))) (VP (VBP are) (VP (VBN summarized) (PP (IN along) (PP (IN with) (NP (NP (DT the) (NNS reviews)) (PP (IN of) (NP (DT these) (NNS papers)))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (MD can) (VP (VB be) (VP (VBN read) (PP (IN in) (NP (CD two) (NNS passes)))))) (. .))
+(S (NP (PRP They)) (VP (VBP provide) (NP (NP (DT a) (JJ synthetic) (NN view)) (PP (IN of) (NP (NP (DT the) (NN forecasting) (NNS tools)) (VP (VBN used) (PP (IN by) (NP (NP (NNS articles)) (VP (VBG addressing) (NP (JJ similar) (NN forecasting) (NNS problems)))))))))) (. .))

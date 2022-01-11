@@ -1,0 +1,4 @@
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT a) (JJ minor) (NN modification)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (NNS conditions)))))) (VP (VBZ is) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB establish) (NP (DT a) (JJ valid) (NN result))))))))))) (. .))
+(S (PP (IN In) (NP (JJ many) (NNS respects))) (, ,) (NP (DT the) (JJ new) (NN theorem)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ general)) (PP (IN than) (ADVP (RB before))))) (. .))
+(S (NP (PRP We)) (ADVP (RB no) (RBR longer)) (VP (VB assume) (NP (NP (DT a) (NNP Markov) (NN process)) (CC nor) (NP (DT a) (JJ finite) (NN search) (NN space)))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT the) (NN proof)) (PP (IN of) (NP (DT the) (NN theorem)))) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ compact)) (PP (IN than) (NP (DT the) (JJ previous) (NNS ones))))) (. .))

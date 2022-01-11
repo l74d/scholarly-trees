@@ -1,0 +1,2 @@
+(S (NP (NNP Fairness)) (VP (VBZ is) (VP (VBG becoming) (NP (DT an) (ADJP (RB increasingly) (JJ important)) (NN concern)) (SBAR (WHADVP (WRB when)) (S (VP (VBG designing) (NP (NP (NNS markets)) (, ,) (NP (NN allocation) (NNS procedures)) (, ,) (CC and) (NP (NN computer) (NNS systems)))))))) (. .))
+(S (NP (PRP I)) (VP (NN survey) (NP (NP (DT some) (JJ recent) (NNS developments)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (JJ multi-agent) (JJ fair) (NN allocation))))))) (. .))

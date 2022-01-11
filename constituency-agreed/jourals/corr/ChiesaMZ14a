@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NNS auctions)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS players)) (VP (VBP have) (NP (NP (ADJP (RB very) (JJ limited)) (NN knowledge)) (PP (IN about) (NP (PRP$ their) (JJ own) (NNS valuations))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NN performance)) (VP (VBZ is) (ADJP (RB very) (JJ good)))))) (. .))

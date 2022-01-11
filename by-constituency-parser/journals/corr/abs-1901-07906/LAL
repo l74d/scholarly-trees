@@ -1,0 +1,3 @@
+(S (NP (JJ Ride-sharing)) (VP (MD can) (VP (VP (VB reduce) (NP (NN traffic) (NN congestion))) (CC and) (ADVP (RB thus)) (VP (VB reduce) (NP (NN gas) (NNS emissions))) (CC and) (VP (VB save) (NP (NN travel) (NN time))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (NN transportation) (NN system)) (PP (IN with) (NP (NN ride-sharing)))) (VP (VBZ is) (ADVP (RB currently)) (ADJP (JJ inefficient)) (PP (JJ due) (TO to) (NP (NP (JJ low) (NN occupancy) (NN rate)) (, ,) (NP (JJ high) (NN travel) (NN demand)) (CC and) (NP (DT some) (JJ other) (NNS factors))))) (. .))
+(S (NP (VBG Existing) (NN literature)) (VP (VBD did) (RB not) (VP (VB consider) (NP (NP (JJ ride-sharing)) (PP (IN with) (NP (NP (JJS multi-request)) (VP (NNS grouped) (PP (IN in) (NP (CD one) (NN trip))))))))) (. .))

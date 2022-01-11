@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (NN task) (NN definition)) (, ,) (NP (NP (DT the) (NN description)) (PP (IN of) (NP (NNS data)))) (CC and) (NP (NP (DT the) (NN evaluation) (NN methodology)) (VP (VBN used) (PP (IN during) (NP (DT this) (VBN shared) (NN task))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT the) (NN evaluation) (NNS results))) (. .))

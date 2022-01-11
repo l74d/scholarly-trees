@@ -1,0 +1,4 @@
+(SBARQ (PP (VBN Given) (NP (DT some) (NN set))) (, ,) (WHADJP (WRB how) (JJ hard)) (SQ (VBZ is) (NP (PRP it)) (S (VP (TO to) (VP (VB construct) (NP (NP (DT a) (NN measure)) (VP (VBN supported) (PP (IN by) (NP (PRP it))))))))) (. ?))
+(S (NP (PRP We)) (VP (VBP classify) (NP (NP (DT some) (NNS variations)) (PP (IN of) (NP (DT this) (NN task)))) (PP (IN in) (NP (DT the) (JJ Weihrauch) (NN lattice)))) (. .))
+(S (NP (JJ Particular) (NN attention)) (VP (VBZ is) (VP (VBN paid) (PP (TO to) (NP (NP (NNP Frostman) (NNS measures)) (PP (IN on) (NP (NP (NNS sets)) (PP (IN with) (NP (JJ positive) (NNP Hausdorff) (NN dimension))))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN side) (NN result))) (, ,) (NP (NP (DT the) (NNP Weihrauch) (NN degree)) (PP (IN of) (NP (NP (NNP Hausdorff) (NN dimension)) (NP (PRP itself))))) (VP (VBZ is) (VP (VBN determined))) (. .))

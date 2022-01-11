@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS gradients)) (VP (VBN required) (PP (IN by) (NP (DT the) (JJ numerical) (NN optimization) (NN process))))) (VP (VBP are) (VP (VBN computed) (S (VP (VBG using) (NP (NN adjoint) (NNS models)))))) (. .))
+(S (NP (JJ Exponential) (NNS integrators)) (VP (VBP are) (NP (NP (DT a) (JJ promising) (NN family)) (PP (IN of) (NP (NP (NN time) (NNS discretizations)) (PP (IN for) (NP (JJ evolutionary) (JJ partial) (JJ differential) (NNS equations))))))) (. .))

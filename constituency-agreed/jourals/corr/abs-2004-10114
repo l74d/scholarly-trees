@@ -1,0 +1,4 @@
+(NP (NNS Methods) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ temporal) (NN regularization) (NN strategy)) (PP (IN at) (NP (DT the) (NN model) (NN output)))) (. .))
+(NP (NNS Results) (. .))
+(NP (NNS Conclusions) (. .))

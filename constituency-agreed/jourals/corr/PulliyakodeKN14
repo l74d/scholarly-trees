@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (NP (NN rate) (NN prediction)) (VP (VBZ becomes) (ADJP (JJ essential))) (. .))
+(S (S (VP (VBG Finding) (NP (NP (DT the) (JJ optimal) (NN depth)) (PP (IN of) (NP (NP (DT the) (NN frequency) (NN tree)) (VP (VBN used) (PP (IN for) (NP (NN prediction))))))))) (VP (VBZ is) (VP (VBN cast) (PP (IN as) (NP (DT a) (NN model) (NN order) (NN selection) (NN problem))))) (. .))

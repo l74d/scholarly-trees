@@ -1,0 +1,1 @@
+(S (ADVP (RB Additionally)) (, ,) (S (VP (VBG extending) (NP (DT the) (NN model)) (PP (IN with) (NP (NNS corrections))))) (VP (VBZ provides) (NP (JJ further) (NN performance) (NNS gains)) (SBAR (WHADVP (WRB when)) (S (NP (NNS data) (NN sparsity)) (VP (VBZ is) (NP (DT an) (NN issue)))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT this) (NN unit)) (VP (VBZ is) (ADJP (JJ stochastic))))) (, ,) (NP (DT the) (JJ temporal) (NN attention) (NNS parameters)) (VP (VBP are) (VP (VBN trained) (S (VP (VBG using) (NP (NN reinforcement) (NN learning)))))) (. .))

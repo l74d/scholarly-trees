@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN interplay)) (PP (IN of) (NP (NP (NN person) (NN detection)) (CC and) (NP (NN person) (NN re-identification))))) (VP (VBZ affects) (NP (DT the) (JJ overall) (NN performance))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP use) (NP (DT a) (JJ multiple) (NN loss)) (S (VP (TO to) (VP (VB train) (NP (PRP$ our) (NN re-identification) (NN network)))))) (. .))

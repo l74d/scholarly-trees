@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS failures)) (VP (MD may) (VP (VP (VB propagate) (PP (IN in) (NP (DT the) (NN network)))) (CC and) (VP (VB cause) (NP (DT a) (JJ systemic) (NN failure))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJR larger) (NN link) (NNS capacities)) (VP (VBP do) (RB not) (ADVP (RB necessarily)) (VP (VB help) (PP (IN in) (S (VP (VBG preventing) (NP (JJ systemic) (NNS failures)) (PP (IN under) (NP (JJ local) (NN routing))))))))))) (. .))

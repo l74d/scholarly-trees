@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (NNP EMaaS)) (: :) (NP (NP (DT a) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (NP (JJ reliable) (NN energy) (NNS measurements)) (PP (IN for) (NP (JJ mobile) (NNS applications))) (, ,) (PP (IN without) (S (VP (VBG requiring) (NP (DT a) (JJ complex) (NN setup))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NN Post-processing)) (VP (VP (VBZ is) (ADVP (RB usually)) (VP (VBN used) (S (VP (TO to) (VP (VB reduce) (NP (JJ such) (NNS artifacts))))))) (, ,) (CC but) (VP (VP (VBP are) (ADJP (JJ expensive))) (CC and) (VP (MD may) (VP (VB fail))))) (. .))
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ outperforms) (NP (NP (JJ other) (NNS methods)) (PP (IN for) (NP (JJ irregular) (NNS masks))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (ADJP (JJ qualitative) (CC and) (JJ quantitative)) (NNS comparisons)) (PP (IN with) (NP (JJ other) (NNS methods)))) (S (VP (TO to) (VP (VB validate) (NP (PRP$ our) (NN approach)))))) (. .))

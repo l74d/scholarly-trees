@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN case))) (, ,) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NN payoff) (NNS matrices)))) (VP (VBZ reduces) (ADVP (RB significantly)) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (DT a) (JJ remarkable) (NN impact)) (PP (IN on) (NP (NN time) (NN complexity)))))))) (. .))

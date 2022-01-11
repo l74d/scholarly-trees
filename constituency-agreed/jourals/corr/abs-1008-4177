@@ -1,0 +1,2 @@
+(S (NP (CD Two) (JJ main) (NNS contributions)) (VP (VBP are) (VP (VBN made))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN selected) (PP (VBN based) (PP (IN on) (NP (NP (PRP$ their) (JJ relative) (NN harmfulness)) (PP (IN for) (NP (DT a) (VBN given) (NN decoding) (NN algorithm)))))))) (. .))

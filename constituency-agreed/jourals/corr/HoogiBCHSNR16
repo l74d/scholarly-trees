@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN window)) (VP (VBZ is) (VP (VBN estimated) (ADVP (RB separately)) (PP (PP (IN for) (NP (DT each) (NN contour) (NN point))) (, ,) (PP (IN over) (NP (NP (NNS iterations)) (PP (IN of) (NP (DT the) (NN segmentation) (NN process))))) (, ,) (CC and) (PP (IN for) (NP (DT each) (JJ individual) (NN object)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBD analyzed) (NP (NNS images)) (S (VP (VBG using) (NP (CD three) (JJ different) (NN energy) (NNS models))))) (. .))

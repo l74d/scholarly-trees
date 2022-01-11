@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ theoretical) (NN proof)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT these) (VBN proposed) (NNS criteria)) (VP (VBP are) (ADJP (JJ correct)))))) (. .))
+(S (NP (DT A) (NN localization) (NN algorithm)) (VP (VBZ is) (VP (VBN constructed) (PP (VBN based) (PP (IN on) (NP (DT these) (CD two) (NNS criteria)))))) (. .))

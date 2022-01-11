@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN desire) (S (VP (TO to) (VP (VB understand) (NP (PRP$ our) (JJ own) (NN nature)))))) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (NP (NP (DT an) (JJ important) (NN motivation)) (PP (IN for) (NP (NN research)))))) (. .))
+(S (NP (NP (JJS Most) (NNS solutions)) (PP (IN for) (NP (DT this) (NN task)))) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (CC and) (VBN tested) (PP (IN by) (S (VP (VBG using) (NP (JJ several) (ADJP (RB publicly) (JJ available)) (NNS datasets)))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (JJ aerial) (NNS images)) (VP (VBP are) (ADVP (RB often)) (ADJP (RB very) (JJ congested)) (, ,) (S (VP (VBG containing) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NNS targets))))))) (. .))
+(S (NP (DT These) (NNS factors)) (VP (MD may) (VP (VB have) (NP (NP (JJ significant) (NN impact)) (PP (IN on) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NNS results)))))))) (. .))

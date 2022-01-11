@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP do) (NP (DT this)) (PP (IN by) (S (VP (VBG developing) (NP (NP (DT a) (JJ deep) (NN autoencoder)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ encodes) (NP (DT a) (JJ musical) (NN input))) (CC and) (VP (VBZ reconstructs) (NP (DT the) (NN input)) (PP (IN by) (S (VP (VBG selecting) (PP (IN from) (NP (DT the) (NN library))))))))))))))) (. .))

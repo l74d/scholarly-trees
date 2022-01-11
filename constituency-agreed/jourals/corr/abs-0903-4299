@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NP (NN network) (NNS standards)) (PP (JJ such) (IN as) (NP (NP (JJ token) (NN ring)) (, ,) (NP (JJ token) (NN bus)) (, ,) (CC and) (NP (NNP FDDI))))))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (DT the) (NN ring) (NN connectivity))))) (. .))
+(S (NP (DT The) (NNS processes)) (VP (VBP are) (NP (NP (NNS nodes)) (PP (IN in) (NP (DT the) (NN ring))))) (. .))

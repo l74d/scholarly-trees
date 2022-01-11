@@ -1,0 +1,2 @@
+(S (NP (JJ Convolutional) (NNS networks)) (VP (VBP are) (NP (NP (JJ large) (JJ linear) (NNS systems)) (VP (VP (VBN divided) (PP (IN into) (NP (NNS layers)))) (CC and) (VP (VBN connected) (PP (IN by) (NP (JJ non-linear) (NNS units))))))) (. .))
+(S (NP (PRP$ Its) (NN implementation)) (VP (VBZ is) (ADJP (JJ simple) (, ,) (JJ flexible) (CC and) (JJ efficient))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN done) (PP (IN by) (S (VP (VBG conditioning) (NP (DT the) (NN model)) (PP (IN on) (NP (JJ additional) (NN information))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBG conditioning) (PP (IN on) (NP (JJ additional) (NN information)))))) (, ,) (NP (EX there)) (ADVP (RB still)) (VP (VBZ exists) (NP (NP (DT a) (JJ large) (NN set)) (PP (IN of) (NP (NP (NNS images)) (SBAR (WHNP (WDT that)) (S (VP (VBP agree) (PP (IN with) (NP (DT a) (JJ particular) (NN conditioning)))))))))) (. .))

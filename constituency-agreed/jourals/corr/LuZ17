@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN convergence) (NN rate)) (PP (IN of) (NP (NNP NSAF)))) (VP (VBZ is) (ADJP (JJ slow))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (NP (DT the) (NN problem)) (VP (VBN considered) (PP (IN in) (NP (PRP$ our) (NN work))))) (VP (VBZ is) (ADJP (RB quite) (JJ different) (PP (IN from) (NP (DT those))))) (. .))

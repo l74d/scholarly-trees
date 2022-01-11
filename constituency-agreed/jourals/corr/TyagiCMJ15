@@ -1,0 +1,2 @@
+(S (NP (NN Machine) (NN Translation)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN research) (NNS fields)) (PP (IN of) (NP (NNP Computational) (NNP Linguistics))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN evaluated) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT these) (NNS classifiers)))))) (. .))

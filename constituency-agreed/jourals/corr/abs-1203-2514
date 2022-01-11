@@ -1,0 +1,3 @@
+(S (VP (VBZ Proposes) (NP (NP (DT a) (NN frame) (NN work)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB detect) (NP (DT the) (NN background)) (PP (IN in) (NP (NP (NNS images)) (VP (VBN characterized) (PP (IN by) (NP (JJ poor) (NN contrast))))))))))))))) (. .))
+(S (NP (DT The) (JJ complete) (NN image) (NN processing)) (VP (VBZ is) (VP (VBN done) (S (VP (VBG using) (NP (NNP MATLAB) (NN simulation) (NN model)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NNS conclusions)) (VP (VBP are) (VP (VBN presented))) (. .))

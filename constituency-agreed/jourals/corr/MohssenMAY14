@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN accuracy)) (VP (VP (VBZ is) (VP (VBN bounded) (PP (IN by) (NP (NP (DT the) (NN error)) (PP (IN in) (NP (DT the) (JJ inertial) (NNS sensors) (NNS readings))))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN enhanced) (PP (IN with) (NP (NP (ADJP (RBR more) (JJ accurate)) (NNS sensors)) (CC and) (NP (NN sensor) (NN fusion)))))))) (. .))

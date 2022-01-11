@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN formulation)) (VP (VP (VBZ takes) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (JJ underlying) (NN structure)) (PP (IN of) (NP (DT the) (NNS data))))) (CC and) (VP (VBZ remains) (ADJP (JJ efficient)) (SBAR (WHADVP (WRB when)) (S (NP (JJ few) (NN training) (NNS data)) (VP (VBP are) (ADJP (JJ available))))))) (. .))

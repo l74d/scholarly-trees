@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN reformulated) (PP (IN as) (NP (DT a) (JJ tractable) (NN program))) (PP (IN by) (S (VP (VBG using) (NP (NP (NP (DT the) (JJ conic) (NN duality)) (PP (IN of) (NP (NN moment) (NNS problems)))) (CC and) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (DT the) (NNP RKHS) (NN representer) (NN theorem))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT some) (NNS applications))) (NP (DT this) (NN nondeterminism)) (VP (VBZ is) (ADJP (JJ convenient))) (. .))
+(S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (ADVP (RB however)) (, ,) (NP (NP (DT a) (JJ deterministic) (NN metainterpreter)) (, ,) (VP (VBG having) (NP (NP (DT an) (JJ explicit) (NN selection)) (PP (IN of) (NP (NNS clauses))))) (, ,)) (VP (VBZ is) (VP (VBN needed))) (. .))

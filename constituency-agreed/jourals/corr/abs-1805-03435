@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NN evidence)) (VP (VBZ indicates) (SBAR (IN that) (S (NP (JJ simple) (NNS models)) (VP (VBP outperform) (NP (JJ complex) (JJ deep) (NNS networks)) (PP (IN on) (NP (JJ many) (JJ unsupervised) (NN similarity) (NNS tasks))))))) (. .))

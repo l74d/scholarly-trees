@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ contains) (NP (NP (DT some) (NNS results)) (PP (IN of) (NP (NNS pentagons))) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN determined) (PP (IN by) (NP (CD two) (NNS X-rays)))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP reveal) (SBAR (S (NP (DT this) (NN problem)) (VP (VBZ is) (ADJP (RBR more) (JJ complicated)))))) (. .))

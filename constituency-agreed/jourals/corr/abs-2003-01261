@@ -1,0 +1,1 @@
+(S (NP (NNP AdvPad) (NN attack)) (VP (VBZ injects) (NP (DT a) (NNP UAP)) (PP (IN into) (NP (NP (DT the) (NN content)) (PP (IN of) (NP (NNS packets))))) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (NN packet) (NNS classifiers)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (NN today) (POS 's)) (NN cloud) (NN computing) (NNS architectures)) (VP (VBP are) (RB not) (VP (VBN designed) (PP (IN for) (NP (NN security) (CC and) (NNS forensics))))) (. .))
+(S (NP (JJ Many) (NNS factors)) (VP (VBP complicate) (NP (JJ forensic) (NNS investigations)) (PP (IN in) (NP (DT a) (NN cloud) (NN environment)))) (. .))

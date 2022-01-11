@@ -1,0 +1,2 @@
+(S (S (VP (VBG Representing) (NP (NNS queries)) (PP (IN with) (NP (NNS subwords))))) (VP (VBP shorten) (NP (DT a) (NN decoding) (NN length)) (ADVP (RB significantly))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBD performed) (NP (DT a) (JJ comprehensive) (NN analysis)) (PP (IN with) (NP (NN ablation) (NN study))) (S (VP (TO to) (VP (VB figure) (PRT (RP out)) (NP (NP (DT the) (NN importance)) (PP (IN of) (NP (DT each) (NN component)))))))) (. .))

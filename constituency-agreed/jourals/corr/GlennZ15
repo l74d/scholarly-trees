@@ -1,0 +1,1 @@
+(S (PP (IN After) (S (VP (VBG learning) (NP (DT the) (NN target) (NN signature)) (PP (VBN given) (NP (NP (NNS data)) (PP (IN with) (NP (ADJP (JJ uncertain) (CC and) (JJ imprecise)) (NN groundtruth)))))))) (, ,) (NP (NN target) (NN detection)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN on) (NP (NN test) (NNS data)))))) (. .))

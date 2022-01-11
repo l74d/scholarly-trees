@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ recent) (NNS advances)) (PP (IN in) (NP (JJ deep) (NN learning)))) (VP (VBP are) (ADVP (RB mostly)) (VP (VBN driven) (PP (IN by) (NP (NP (NN availability)) (PP (IN of) (NP (NP (JJ large) (NN amount)) (PP (IN of) (NP (NN training) (NNS data))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (PP (IN in) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB identify) (NP (NNS speakers)) (PP (IN by) (S (VP (VBG learning) (PP (IN from) (NP (QP (RB only) (DT a) (JJ few)) (NN training) (NNS examples)))))))))) (. .))

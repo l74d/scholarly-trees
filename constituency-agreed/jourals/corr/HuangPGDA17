@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (S (NP (JJ adversarial) (NNS attacks)) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ effective)) (SBAR (WHADVP (WRB when)) (S (VP (VBG targeting) (NP (JJ neural) (NN network) (NNS policies)) (PP (IN in) (NP (NN reinforcement) (NN learning)))))))))) (. .))

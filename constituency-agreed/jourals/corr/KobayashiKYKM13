@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NNP SArF) (NNP Map))) (, ,) (S (NP (DT each) (NN feature)) (VP (VBZ is) (VP (VBN visualized) (PP (IN as) (NP (DT a) (NN city) (NN block)))))) (, ,) (CC and) (S (NP (NP (NNS classes)) (PP (IN in) (NP (DT the) (NN feature)))) (VP (VBP are) (VP (VBN laid) (PRT (RP out)) (PP (IN as) (NP (NP (NNS buildings)) (VP (VBG reflecting) (NP (PRP$ their) (NN software) (NN layer)))))))) (. .))
+(S (NP (NP (NN Relevance)) (PP (IN between) (NP (NNS features)))) (VP (VBZ is) (VP (VBN represented) (PP (IN as) (NP (NNS streets))))) (. .))

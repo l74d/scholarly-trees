@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (VBG existing) (NNS systems)) (VP (VBP require) (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (JJ human) (JJ annotated) (NN training) (NNS data))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (ADJP (RB fully) (JJ unsupervised)) (NNP NE) (NN recognition) (NN model)) (SBAR (WHNP (WDT which)) (S (ADVP (RB only)) (VP (VBZ needs) (S (VP (TO to) (VP (VB take) (NP (JJ informative) (NNS clues)) (PP (IN from) (NP (JJ pre-trained) (NN word) (NNS embeddings))))))))))) (. .))

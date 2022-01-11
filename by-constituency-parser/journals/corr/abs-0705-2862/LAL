@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN approach)) (PP (IN for) (NP (NP (NN cryptanalysis)) (PP (IN of) (NP (JJ key) (NN agreement) (NNS protocols))))) (VP (VBN based) (PP (IN on) (NP (JJ noncommutative) (NNS groups)))))) (. .))
+(S (NP (DT This) (NN approach)) (VP (VBZ uses) (NP (NP (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (VBP estimate) (NP (NP (DT the) (NN distance)) (PP (IN of) (NP (DT a) (NN group) (NN element))) (PP (TO to) (NP (DT a) (VBN given) (NN subgroup))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP test) (NP (PRP it)) (PP (IN against) (NP (NP (DT the) (NNP Shpilrain-Ushakov) (NN protocol)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNP Thompson) (POS 's)) (NN group) (NNP F)))))))))) (. .))

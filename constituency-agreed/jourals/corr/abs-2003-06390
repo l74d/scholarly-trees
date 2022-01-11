@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (NP (JJ only) (NN position) (CC and) (NN orientation) (NNS measurements)) (PP (IN for) (NP (DT the) (NN multi-rotor)))) (CC and) (NP (NP (NN position) (NNS measurements)) (PP (IN for) (NP (DT the) (NN reference) (NN system))))) (VP (MD can) (VP (VB be) (VP (VBN accessed))))))) (. .))

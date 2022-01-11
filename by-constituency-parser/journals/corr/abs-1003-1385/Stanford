@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN coding) (NN method)) (VP (VBG using) (NP (JJ binary) (NNS sequences)))) (VP (VBZ is) (VP (VBN presented) (PP (IN for) (NP (NP (JJ different) (NN computation) (NNS problems)) (VP (VBN related) (PP (IN to) (NP (NNP Catalan) (NNS numbers)))))))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBZ proves) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ easy)) (NN way))) (NP (NP (DT the) (NN equivalence)) (PP (IN of) (NP (DT these) (NNS problems))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN difference)) (PP (IN between) (NP (DT the) (NNS games)))) (VP (VBP are) (NP (NP (DT the) (NN collision) (NNS constraints)) (CC and) (NP (DT the) (NN payoff)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this)) (VP (VP (VBZ changes) (NP (DT the) (NNP Stackelberg) (NN equilibrium))) (, ,) (CC but) (VP (VBZ has) (NP (NP (DT a) (JJ minor) (NN influence)) (PP (IN on) (NP (DT the) (NNP Nash) (NN equilibria))))))))) (. .))

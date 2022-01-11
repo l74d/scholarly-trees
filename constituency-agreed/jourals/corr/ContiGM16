@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP underline) (SBAR (IN that) (S (NP (NP (DT the) (NN vulnerability)) (VP (VBN exploited) (PP (IN by) (NP (DT the) (NNP KYE) (NN attack))))) (VP (VP (VBZ is) (ADJP (JJ proper) (PP (IN of) (NP (NNP SDN))))) (CC and) (VP (VBZ is) (RB not) (ADJP (JJ present) (PP (IN in) (NP (NN legacy) (NNS networks))))))))) (. .))

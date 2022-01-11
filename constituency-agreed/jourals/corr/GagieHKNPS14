@@ -1,0 +1,2 @@
+(S (NP (VBG Existing) (NNS solutions)) (VP (VBP are) (PP (IN in) (NP (DT a) (JJ theoretical) (NN stage)))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP implement) (NP (DT these) (NNS solutions))) (CC and) (VP (VB develop) (NP (DT some) (JJ new) (NNS variants))) (, ,) (S (VP (VBG comparing) (NP (PRP them)) (ADVP (RB experimentally)) (PP (IN on) (NP (JJ various) (NNS datasets)))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN method))) (, ,) (NP (DT a) (NN reference) (NN pose)) (VP (VBZ is) (VP (VBN measured) (PP (IN before) (NP (NP (DT each) (NN measurement)) (PP (IN of) (NP (DT any) (JJ particular) (NN pose))))))) (. .))
+(S (NP (NP (DT The) (NNS measurements)) (PP (IN of) (NP (NN reference) (NN pose)))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB estimate) (NP (NP (JJ thermal) (NN deflection)) (PP (IN of) (NP (NP (NN hexapod) (POS 's)) (NNS legs))))))))) (. .))

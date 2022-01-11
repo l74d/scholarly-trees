@@ -1,0 +1,2 @@
+(S (NP (ADJP (RBR More) (JJ interesting)) (NNS things)) (VP (MD could) (VP (VB be) (VP (VBN mined) (PP (IN from) (NP (NP (NNS datasets)) (PP (IN with) (NP (JJR higher) (NN quality)))))))) (. .))
+(S (NP (NP (DT The) (NN existence)) (PP (IN of) (NP (NP (VBG missing) (NNS values)) (PP (IN in) (NP (JJ geographical) (NNS data)))))) (VP (MD would) (VP (VB worsen) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (JJ big) (NNS datasets)))))) (. .))

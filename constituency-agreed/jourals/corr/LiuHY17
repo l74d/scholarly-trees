@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ works) (ADVP (RB effectively)) (PP (CONJP (RB not) (RB only)) (PP (IN under) (NP (DT a) (JJ deterministic) (NN setting))) (CONJP (CC but) (RB also)) (PP (IN under) (NP (DT a) (JJ stochastic) (NN setting))))) (. .))

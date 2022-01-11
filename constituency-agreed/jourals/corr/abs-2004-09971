@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (NN case) (NNP ID)) (VP (VBZ is) (ADJP (JJ unknown))))) (, ,) (NP (DT the) (NN event)) (VP (VBZ is) (VP (VBN called) (S (ADJP (JJ unlabeled))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT an) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ correlates) (NP (JJ unlabeled) (NNS events)) (PP (IN at) (NP (NN runtime)))))))) (. .))

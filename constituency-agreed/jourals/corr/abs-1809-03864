@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (NN generalizability) (CC and) (NN scalability)) (PP (IN of) (NP (PRP$ our) (NN method)))) (PP (IN by) (S (VP (VBG evaluating) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ different) (NN benchmark) (JJ sequential) (NNS datasets)))))))) (. .))

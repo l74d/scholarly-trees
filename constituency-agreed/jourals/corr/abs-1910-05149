@@ -1,0 +1,2 @@
+(S (S (VP (VBG Exploiting) (NP (NP (NNS transformations)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN defined) (PP (IN on) (NP (NN graph) (NNS models)))))))))) (VP (MD can) (VP (VB be) (ADJP (RB highly) (JJ beneficial)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN graph)) (VP (VBZ encodes) (NP (NP (NNS relationships)) (PP (IN between) (NP (NNS signals))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB optimize) (NP (DT the) (NN spectrum) (NN coverage)) (S (VP (VBG using) (NP (JJ different) (NN wavelet) (NNS shapes)))))))) (. .))

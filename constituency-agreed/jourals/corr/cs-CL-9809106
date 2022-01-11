@@ -1,0 +1,2 @@
+(S (NP (`` ``) (JJ Unknown) ('' '') (NN information)) (VP (VBZ is) (VP (VBN viewed) (PP (IN as) (NP (NP (JJ revisable) (NN information)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (CC either) (JJ generalizable) (CC or) (JJ specializable))))))))) (. .))
+(S (PP (IN For) (S (VP (VBG revising) (NP (JJ generalizable) (NN information))))) (, ,) (NP (NN type) (NN union)) (VP (VBZ is) (VP (VBN required))) (. .))

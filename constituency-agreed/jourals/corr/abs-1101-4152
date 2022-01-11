@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN characterization)) (VP (VBZ has) (NP (CD two) (NNS components))) (. .))
+(S (PP (IN As) (NP (DT an) (JJ intermediate) (NN step))) (NP (PRP we)) (VP (VBP consider) (NP (ADJP (JJ finite) (CC and) (JJ infinite)) (NNS words)) (ADVP (RB simultaneously))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (NN performance)) (PP (IN of) (NP (DT the) (JJ pseudo-random) (NN method))) (PP (IN for) (NP (DT the) (NN radar) (NN detection)))) (VP (VBZ is) (VP (VBN analyzed))) (. .))
+(S (NP (DT The) (NN radar)) (VP (VP (VBZ sends) (NP (NP (DT a) (JJ pseudo-random) (NN sequence)) (PP (IN of) (NP (JJ length) ($ $) (NNP N) ($ $))))) (, ,) (CC and) (VP (VBZ receives) (NP (VBP echo)) (PP (IN from) (NP (ADJP (QP ($ $) (JJ r) ($ $))) (NNS targets))))) (. .))
+(S (NP (PRP We)) (VP (VBP assume) (NP (NP (DT the) (JJ natural) (NNS assumptions)) (PP (PP (IN of) (NP (NP (NN uniformity)) (PP (IN on) (NP (DT the) (NN channel))))) (CC and) (PP (IN of) (NP (NP (DT the) (JJ square) (NN root) (NN cancellation)) (PP (IN on) (NP (DT the) (NN noise)))))))) (. .))

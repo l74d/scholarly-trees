@@ -1,0 +1,1 @@
+(S (NP (VBN Tabled) (NN evaluation)) (VP (VBZ is) (NP (NP (DT an) (NN implementation) (NN technique)) (SBAR (WHNP (WDT that)) (S (VP (VBZ solves) (NP (NP (DT some) (NNS problems)) (PP (IN of) (NP (JJ traditional) (NNP Prolog) (NNS systems)))) (PP (IN in) (S (VP (VBG dealing) (PP (IN with) (NP (NP (NN recursion)) (CC and) (NP (JJ redundant) (NNS computations)))))))))))) (. .))

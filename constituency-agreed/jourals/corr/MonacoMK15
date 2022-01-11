@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN yanc))) (, ,) (NP (NN network) (NNS applications)) (VP (VP (VBP are) (NP (JJ separate) (NNS processes))) (, ,) (VP (VBP are) (VP (VBN provided) (PP (IN by) (NP (JJ multiple) (NNS sources))))) (, ,) (CC and) (VP (MD may) (VP (VB be) (VP (VBN written) (PP (IN in) (NP (DT any) (NN language))))))) (. .))
+(S (ADVP (RB Effectively)) (, ,) (NP (PRP we)) (VP (VBP are) (VP (VBG making) (S (NP (NNP Linux)) (NP (DT the) (NN network) (VBG operating) (NN system))))) (. .))

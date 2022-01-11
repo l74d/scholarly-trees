@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ recent) (NN hardware) (NNS defenses)) (VP (VBP are) (RB not) (ADJP (JJ sufficient)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ unprivileged) (NN user) (NNS processes)) (VP (MD can) (VP (VB exploit) (NP (NNP Fallout)) (S (VP (TO to) (VP (VB reconstruct) (NP (NP (JJ privileged) (NN information)) (VP (ADVP (RB recently)) (VBN written) (PP (IN by) (NP (DT the) (NN kernel))))))))))))) (. .))

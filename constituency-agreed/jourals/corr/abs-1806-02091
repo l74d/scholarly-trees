@@ -1,0 +1,2 @@
+(SQ (MD Can) (NP (NNS machines)) (VP (VB design)) (. ?))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB integrate) (NP (DT a) (JJ formal) (JJ computational) (NN creativity) (NN framework)) (PP (IN into) (NP (DT the) (NNP Gödel) (NN machine) (NN framework))))))) (. .))

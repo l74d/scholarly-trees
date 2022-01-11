@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (NN mechanism)) (ADJP (JJ available) (PP (IN for) (NP (NN testability) (NN measurement))))))) (VP (MD may) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (JJ later) (NNS phases)) (PP (IN of) (NP (NN development) (NN life) (NN cycle)))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NN testability) (NN measurement) (NN model)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB quantify) (NP (NN software) (NN testability)) (PP (IN at) (NP (NN design) (NN phase)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS vertices)) (PP (IN of) (NP (DT a) (JJ finite) (NN state) (NN system)))) (VP (VBP are) (ADVP (RB usually)) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (JJ natural) (NNS numbers))))) (. .))
+(S (NP (JJ Such) (NN characterisation)) (VP (VBP are) (ADVP (RB mostly)) (VP (VBN defined) (PP (IN via) (NP (NN graph) (NNS transformations))))) (. .))

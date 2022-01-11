@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ hypothesizes) (SBAR (IN that) (S (NP (DT the) (JJ human) (JJ visual) (NN system)) (VP (VBZ perceives) (NP (NN line) (NNS drawings)) (SBAR (IN as) (IN if) (S (NP (PRP they)) (VP (VBD were) (NP (ADJP (RB approximately) (JJ realistic)) (NNS images))))))))) (. .))
+(S (NP (NP (JJ Several) (NNS implications) (CC and) (NNS variants)) (PP (IN of) (NP (DT this) (NN hypothesis)))) (VP (VBP are) (VP (VBN explored))) (. .))

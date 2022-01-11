@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP compare) (NP (PRP$ our) (NN model)) (PP (IN against) (NP (JJ standard) (ADJP (ADJP (RB fully) (VBN connected)) (CC and) (ADJP (JJ convolutional))) (NNS networks)))) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB match) (CC or) (VB beat) (NP (PRP$ their) (NN performance))))))))))) (. .))

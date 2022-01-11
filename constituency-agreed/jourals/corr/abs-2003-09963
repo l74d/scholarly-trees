@@ -1,0 +1,2 @@
+(S (NP (NP (CD Five) (NNS cases)) (PP (IN for) (NP (NP (ADJP (JJ normal) (, ,) (JJ affected) (CC and) (JJ unaffected)) (NNS people) (POS 's)) (JJ different) (NNS diseases)))) (VP (VBP have) (VP (VBN been) (VP (VBN tested) (PP (IN on) (NP (DT this) (NN system)))))) (. .))
+(S (NP (DT All) (NN system) (NNS results)) (VP (VBP are) (VP (VP (VBN reported) (PP (IN in) (NP (NNS tables)))) (CC and) (VP (VBN discussed) (PP (IN in) (NP (NN detail)))))) (. .))

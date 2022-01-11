@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ key) (NN concept)) (PP (IN of) (NP (JJ hierarchical) (JJ visual) (NN cryptography)))) (VP (VBZ is) (VP (VBN based) (PP (IN upon) (NP (JJ visual) (NN cryptography))))) (. .))
+(S (NP (JJ Visual) (NN cryptography)) (VP (VBZ encrypts) (NP (JJ secret) (NN information)) (PP (IN into) (NP (NP (CD two) (NNS pieces)) (VP (VBN called) (PP (IN as) (NP (NNS shares))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NN secret)) (VP (VBZ is) (VP (VBN encrypted) (PP (IN at) (NP (CD two) (JJ different) (NNS levels))))) (. .))

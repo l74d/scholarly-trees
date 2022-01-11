@@ -1,0 +1,2 @@
+(S (NP (JJ Typical) (NNS examples)) (VP (VBP include) (NP (NNS clothes) (, ,) (NNS dolls) (, ,) (NNS bags) (, ,) (CC and) (NNS shoes))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (DT the) (NN problem)) (PP (IN as) (NP (NP (DT a) (NN classification) (NN task)) (SBAR (WHNP (WDT that)) (S (VP (VBZ predicts) (SBAR (IN if) (S (NP (NP (DT an) (NN item) (POS 's)) (NN appearance)) (VP (VBZ has) (NP (NP (DT a) (JJ significant) (NN impact)) (PP (IN on) (NP (NP (NNS people) (POS 's)) (NN purchase) (NN behavior))))))))))))) (. .))

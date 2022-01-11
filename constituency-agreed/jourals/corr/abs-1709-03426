@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN optimization) (NN algorithm)) (VP (VBZ is) (VP (VBN formulated) (S (VP (TO to) (VP (VB find) (NP (NP (NN system) (NNS trajectories)) (SBAR (WHNP (WDT that)) (S (VP (VBP improve) (NP (NP (DT a) (NN norm)) (PP (IN on) (NP (DT the) (NNP Fisher) (NN information) (NN matrix))))))))))))) (. .))

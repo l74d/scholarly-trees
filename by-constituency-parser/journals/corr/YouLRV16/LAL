@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (JJ active) (NN set) (NN method)) (VP (CONJP (RB not) (RB only)) (VP (VBZ achieves) (NP (JJ state-of-the-art) (VBG clustering) (NN performance))) (, ,) (CONJP (CC but) (RB also)) (VP (ADVP (RB efficiently)) (VBZ handles) (NP (JJ large-scale) (NNS datasets))))))) (. .))

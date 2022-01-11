@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (JJ extended) (NN abstract))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (NP (NP (DT a) (NN similarity) (NN measure)) (PP (IN between) (NP (NNS documents)))) (PP (IN from) (NP (NP (DT the) (NN network) (NN topology)) (PP (IN of) (NP (DT a) (JJ structured) (NN corpus)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB train) (NP (PRP$ its) (NNS parameters))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT the) (NN network) (NNS links)) (PP (IN as) (NP (NN supervision)))) (. .))

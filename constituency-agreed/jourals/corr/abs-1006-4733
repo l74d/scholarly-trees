@@ -1,0 +1,1 @@
+(S (S (NP (DT A) (NN constraint) (NN solver)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (NN configuration)) (SBAR (WHNP (WDT that)) (S (VP (VBZ satisfies) (NP (DT the) (NN goal)))))))))))) (, ,) (CC and) (S (NP (DT the) (NN configuration)) (VP (VBZ is) (VP (VBN deployed) (ADVP (RB automatically))))) (. .))

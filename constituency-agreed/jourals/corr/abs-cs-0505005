@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (S (VP (VBG defragmenting) (NP (DT the) (NN module) (NN layout)) (PP (IN on) (NP (DT a) (JJ reconfigurable) (NN device)))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN validated) (PP (IN for) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN benchmark) (NNS instances))))))) (. .))

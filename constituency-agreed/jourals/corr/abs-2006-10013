@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (PRP we)) (VP (VBP train) (NP (JJ individual) (NNS autoencoders)) (PP (IN at) (NP (NP (JJ intermediate) (NNS layers)) (PP (IN of) (NP (DT the) (NN target) (NN network)))))) (. .))

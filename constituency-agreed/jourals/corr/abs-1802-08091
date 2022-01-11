@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN reason)) (PP (IN for) (NP (DT this)))) (VP (VBZ is) (ADVP (RB mostly)) (NP (NP (NP (DT the) (NN shortage)) (PP (IN of) (NP (NN training) (NNS data)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN challenge)) (PP (IN of) (S (VP (VBG modeling) (NP (DT the) (NN problem)) (S (VP (VBG using) (NP (JJ neural) (NNS networks)))))))))) (. .))

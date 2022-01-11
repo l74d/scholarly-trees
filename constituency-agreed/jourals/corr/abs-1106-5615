@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP do) (ADVP (RB so)) (PP (IN by) (S (VP (VBG defining) (NP (CD four) (JJ different) (NN outage) (NN rate) (NNS regions)))))) (. .))
+(S (NP (DT A) (JJ major) (NN contribution)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ stochastic) (NN component)) (PP (IN of) (NP (DT this) (NN mapping)))) (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (DT the) (JJ actual) (NN channel) (NN realization))))))))))) (. .))

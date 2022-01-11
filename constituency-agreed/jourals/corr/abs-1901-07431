@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ natural) (JJ subsequent) (NN question)) (VP (VBZ is) (SBAR (WHNP (WHADJP (WRB how) (JJ many)) (JJ unavoidable) (NNS words)) (S (NP (EX there)) (VP (VBP are))))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (JJ computational) (NNS aspects)) (PP (IN of) (NP (JJ unavoidable) (NNS words))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN trunk)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ contains) (NP (NP (JJ convolutional) (NNS layers)) (VP (VBN optimized) (PP (IN over) (NP (DT all) (NNS classes)))))) (. .))

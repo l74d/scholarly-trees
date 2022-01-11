@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN instance))) (, ,) (PP (IN in) (NP (DT a) (JJ multimedia) (NN dataset))) (NP (NP (JJ different) (NNS facets)) (PP (JJ such) (IN as) (NP (NP (NNS keywords)) (, ,) (NP (NNS authors)) (, ,) (NP (NN publication) (NN category)) (, ,) (NP (NNS organisations)) (CC and) (NP (NNS figures))))) (VP (MD can) (VP (VB be) (PP (IN of) (NP (NN interest))))) (. .))
+(S (NP (DT These) (NNS references)) (VP (VBP allow) (S (VP (TO to) (VP (VP (VB navigate) (PP (IN inside) (NP (DT the) (NN dataset)))) (CC and) (VP (VB perform) (NP (JJ visual) (NNS queries))))))) (. .))

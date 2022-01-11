@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN depth) (CC and) (NN width)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBP are) (VP (VBN determined) (PP (IN via) (NP (JJ natural) (NNS guidelines)))))) (, ,) (CC and) (S (NP (DT the) (NN procedure)) (VP (VBZ regularizes) (NP (PRP$ its) (NNS weights)) (PP (IN in) (NP (DT the) (JJ linear) (NN layer))))) (. .))

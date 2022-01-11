@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PDT such) (DT a) (NN process)) (ADVP (RB inevitably)) (VP (VBZ removes) (NP (JJ discriminative) (NN information))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (JJ strong) (NN generalization) (NN capability)) (PP (IN of) (NP (PRP$ our) (NN framework))))) (. .))

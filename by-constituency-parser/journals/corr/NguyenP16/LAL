@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP extend) (NP (NP (DT the) (NNP Barvinok-Woods) (NN algorithm)) (PP (IN for) (S (VP (VBG enumerating) (NP (NP (NNS projections)) (PP (IN of) (NP (NP (NN integer) (NNS points)) (PP (IN in) (NP (NNS polytopes)))))))))) (PP (TO to) (NP (JJ unbounded) (NN polyhedra)))) (. .))
+(S (PP (IN For) (NP (DT this))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (NP (DT a) (JJ new) (JJ structural) (NN result)) (PP (IN on) (NP (NP (NNS projections)) (PP (IN of) (NP (NP (JJ semilinear) (NNS subsets)) (PP (IN of) (NP (DT the) (NN integer) (NN lattice))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (DT the) (NNS results)) (PP (TO to) (NP (NP (JJ general) (NN formulas)) (PP (IN in) (NP (NNP Presburger) (NNP Arithmetic)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT an) (NN application)) (PP (TO to) (NP (DT the) (NN k-Frobenius) (NN problem))))) (. .))

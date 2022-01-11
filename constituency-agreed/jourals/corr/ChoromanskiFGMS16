@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (PRP them)) (ADJP (JJ suitable) (PP (IN for) (S (VP (VBG deploying) (PP (IN on) (NP (JJ mobile) (NNS devices))))))))) (. .))
+(S (NP (JJ Experimental) (NN evaluation)) (VP (VBZ confirms) (NP (NP (DT the) (NN accuracy) (CC and) (NN efficiency)) (PP (IN of) (NP (NNP TripleSpin) (NNS matrices))))) (. .))

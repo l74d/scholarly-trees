@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (, ,) (ADVP (RB however)) (, ,) (NP (NP (JJ little) (NN research)) (PP (IN into) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (DT these) (NNS errors))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP characterize) (NP (DT the) (NN label) (NN noise)) (ADVP (RB empirically))) (, ,) (CC and) (VP (VB provide) (NP (DT a) (NNP CNN) (NN baseline) (NN system)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN framework)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (PP (IN on) (NP (DT an) (ADJP (RB especially) (VBN built)) (NN simulator)))))) (. .))
+(S (NP (NN Performance) (NNS figures)) (VP (VBP show) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (PRP$ our) (NN proposal))))) (. .))

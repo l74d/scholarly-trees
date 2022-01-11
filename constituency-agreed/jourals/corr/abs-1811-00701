@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN proliferation)) (PP (IN of) (NP (NNP IoT) (NNS systems)))) (, ,) (VP (VBZ has) (VP (VBN seen) (S (NP (PRP them)) (VP (VBN targeted) (PP (IN by) (NP (JJ malicious) (JJ third) (NNS parties))))))) (. .))
+(S (NP (JJ Such) (NNS countermeasures)) (VP (VBP include) (NP (NP (NN network) (NN intrusion) (NN detection)) (CC and) (NP (NN network) (JJ forensic) (NNS systems)))) (. .))
+(S (SBAR (IN Although) (S (NP (EX there)) (VP (VBP are) (NP (JJ several) (NN network))))) (, ,) (PP (IN in) (NP (JJS most) (NNS cases))) (, ,) (NP (ADJP (RB not) (JJ much)) (NN information)) (VP (VBZ is) (VP (VBN given) (PP (IN about) (NP (NP (DT the) (NNP Botnet) (NNS scenarios)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN used))))))))) (. .))

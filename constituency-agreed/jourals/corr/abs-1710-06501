@@ -1,0 +1,2 @@
+(S (ADVP (RB Interestingly)) (, ,) (NP (DT the) (NN class) (NN confusion) (NNS patterns)) (VP (VBP follow) (NP (NP (DT a) (JJ hierarchical) (NN structure)) (PP (IN over) (NP (DT the) (NNS classes))))) (. .))
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (DT the) (JJ latter) (NNS layers)) (VP (VBP require) (NP (ADJP (RB substantially) (JJR more)) (NNS epochs)) (S (VP (TO to) (VP (VB develop) (NP (NP (JJ specialized) (NN feature) (NNS detectors)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB separate) (NP (JJ individual) (NNS classes))))))))))) (. .))

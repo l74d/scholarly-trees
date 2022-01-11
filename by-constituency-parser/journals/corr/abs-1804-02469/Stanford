@@ -1,0 +1,7 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ has) (NP (JJ dual) (NNS aims))) (. .))
+(S (ADVP (RB First)) (VP (VBZ is) (S (VP (TO to) (VP (VB develop) (NP (JJ practical) (JJ universal) (NN coding) (NNS methods)) (PP (IN for) (NP (JJ unlabeled) (NNS graphs))))))) (. .))
+(S (NP (NNP Second)) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (DT these) (NML (PP (IN for) (NP (NN graph)))) (NN anomaly) (NN detection)))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ develops) (NP (NP (NP (NP (CD two) (VBG coding) (NNS methods)) (PP (IN for) (NP (JJ unlabeled) (NNS graphs)))) (: :) (NP (NP (CD one)) (PP (VBN based) (PP (IN on) (NP (DT the) (NN degree) (NN distribution)))))) (, ,) (NP (DT the) (JJ second) (ADJP (VBN based) (PP (IN on) (NP (DT the) (NN triangle)))) (NN distribution)))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT these)) (VP (VBP are) (ADJP (JJ efficient) (PP (PP (IN for) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (JJ random) (NNS graphs))))) (, ,) (CC and) (PP (IN on) (NP (NML (JJ real) (HYPH -) (NN world)) (NN graphs)))))))))) (. .))
+(S (NP (DT These) (VBG coding) (NNS methods)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN used) (PP (IN for) (S (VP (VBG detecting) (NP (JJ anomalous) (NNS graphs)) (, ,) (PP (VBN based) (PP (IN on) (NP (NN structure) (RB alone))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ anomalous) (NNS graphs)) (VP (MD can) (VP (VB be) (VP (VBN detected) (PP (IN with) (NP (JJ high) (NN probability)))))))))) (. .))

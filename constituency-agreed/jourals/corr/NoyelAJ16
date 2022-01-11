@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ present) (NN approach)) (VP (VBZ is) (VP (VBN decomposed) (PP (IN into) (NP (JJ several) (JJ sequential) (NNS steps))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT a) (JJ spectral) (NN classification)) (VP (VBZ produces) (NP (NP (DT a) (JJ spectral) (NN pre-segmentation)) (PP (IN of) (NP (DT the) (NN image))))) (. .))

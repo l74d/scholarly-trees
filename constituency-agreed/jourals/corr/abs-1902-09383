@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VP (VBZ requires) (NP (RB only) (DT a) (JJ single) (JJ segmented) (NN scan))) (, ,) (CC and) (VP (VBZ leverages) (NP (JJ other) (JJ unlabeled) (NNS scans)) (PP (IN in) (NP (DT a) (JJ semi-supervised) (NN approach))))) (. .))

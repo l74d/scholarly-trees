@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB perform) (NP (DT this) (NN action))))) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB pass) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN rope)))) (PP (IN through) (NP (NP (DT an) (NN area)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN enclosed) (PP (IN by) (NP (NP (DT another) (NN segment)) (PP (IN of) (NP (NN rope))))))))))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (DT the) (NN target) (NN loop)) (ADVP (RB often)) (VP (VBZ deforms) (PP (IN during) (NP (DT the) (NN insertion)))) (. .))

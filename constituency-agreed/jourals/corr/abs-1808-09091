@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP LSTM) (NN language) (NN model) (NNS scores)) (, ,) (ADVP (IN along) (PP (IN with) (NP (JJ other) (NNS features)))) (, ,) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (DT a) (NNP MaxEnt) (NN reranker))) (S (VP (TO to) (VP (VB identify) (NP (DT the) (ADJP (RBS most) (JJ plausible)) (NN analysis))))))) (. .))

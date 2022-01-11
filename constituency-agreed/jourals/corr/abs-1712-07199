@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT each) (NN database) (NN token))) (, ,) (NP (DT the) (NN model)) (VP (VBZ includes) (NP (NP (DT a) (NN vector)) (SBAR (WHNP (WDT that)) (S (VP (VBZ encodes) (NP (JJ contextual) (JJ semantic) (NNS relationships))))))) (. .))

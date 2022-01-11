@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN approach))) (, ,) (NP (NP (JJ random) (NNS combinations)) (PP (IN of) (NP (DT all) (NNS contents)))) (VP (VBP are) (VP (VBN stored) (PP (IN across) (NP (DT the) (NN network))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN scheme)) (VP (VP (VBZ is) (ADJP (JJ adaptive))) (CC and) (VP (MD can) (VP (VB provide) (NP (NN privacy)) (PP (IN against) (NP (NP (DT a) (JJ significant) (NN number)) (PP (IN of) (NP (VBG colluding) (NNS servers)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN Although) (S (NP (JJ classic) (NNS regularizers)) (VP (VBP provide) (NP (NN sparsity))))) (, ,) (NP (PRP they)) (VP (VBP fail) (S (VP (TO to) (VP (VB return) (NP (ADJP (RB highly) (JJ accurate)) (NNS models)))))) (. .))

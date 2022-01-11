@@ -1,0 +1,1 @@
+(SINV (PP (IN Along) (PP (IN with) (NP (NP (DT the) (NN advent)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))))) (VP (VBD came)) (NP (NP (JJ various) (NNS methods)) (PP (IN of) (NP (NN exploitation))) (, ,) (PP (JJ such) (IN as) (S (VP (VP (VBG fooling) (NP (DT the) (NN classifier))) (CC or) (VP (VBG contaminating) (NP (PRP$ its) (NN training) (NNS data))))))) (. .))

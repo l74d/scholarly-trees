@@ -1,0 +1,1 @@
+(S (ADVP (RB Thus)) (NP (PRP it)) (VP (VP (VBZ operates) (PP (IN on) (NP (JJ arbitrary) (NN input) (NNS sizes)))) (CC and) (VP (VBZ produces) (NP (NP (NNS strings)) (PP (IN of) (NP (JJ arbitrary) (NN length)))) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ efficient) (CC and) (JJ parallelizable)) (NN manner))))) (. .))

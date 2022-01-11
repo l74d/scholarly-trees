@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB relatively) (JJ long)) (NN time) (NN delay)) (PP (IN between) (NP (NP (DT a) (NN click)) (CC and) (NP (PRP$ its) (JJ resultant) (NN conversion)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT the) (JJ conditional) (NN label) (NNS distributions)) (VP (VBP differ) (PP (IN between) (NP (NP (DT the) (NN training) (NNS data)) (CC and) (NP (DT the) (NN production) (NN environment))))) (. .))

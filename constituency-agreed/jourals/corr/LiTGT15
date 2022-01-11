@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ crucial) (NNS problems)) (PP (IN in) (NP (JJ visual) (NN tracking)))))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN object)) (VP (VBZ is) (VP (VBN represented)))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ incorporates) (NP (DT the) (JJ discriminative) (NN information)) (S (VP (TO to) (VP (VB distinguish) (NP (NN foreground)) (PP (IN from) (NP (NN background))))))) (. .))

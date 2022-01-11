@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP consider) (S (VP (VBG learning) (NP (DT a) (NN sequence) (NN classifier)) (PP (IN without) (NP (VBN labeled) (NNS data))) (PP (IN by) (S (VP (VBG using) (NP (JJ sequential) (NN output) (NNS statistics)))))))) (. .))

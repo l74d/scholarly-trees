@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN disruption)) (VP (VBZ induces) (NP (NP (DT a) (NN change)) (PP (IN in) (NP (NP (DT the) (NNS observations)) (PP (IN of) (NP (NP (DT an) (JJ unknown) (NN subset)) (PP (IN of) (NP (NNS sensors))))))))) (. .))
+(S (NP (NP (DT The) (NNS insights)) (PP (IN from) (NP (DT these) (JJ theoretical) (NNS results)))) (VP (VBP are) (VP (VBN corroborated) (PP (IN by) (NP (DT a) (NN simulation) (NN study))))) (. .))

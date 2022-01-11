@@ -1,0 +1,2 @@
+(S (ADVP (RB Theoretically)) (NP (DT this) (NN structure)) (VP (MD can) (VP (VB approximate) (NP (DT any) (JJ continuous) (NN function)) (PP (IN with) (NP (CD three) (NN layer) (NN architecture))))) (. .))
+(S (CC But) (PP (IN in) (NP (NN practice))) (S (VP (VBG learning) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (JJ such) (NN network)))))) (VP (MD can) (VP (VB be) (ADJP (JJ hard)))) (. .))

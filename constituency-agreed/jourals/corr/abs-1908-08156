@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG preserving) (NP (ADJP (JJ middle) (CC and) (JJ low)) (NN level) (NN convolution) (NNS features))))))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (CD three) (JJ aerial) (NN image) (NNS datasets)))) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (VBN proposed) (NNS methods)) (VP (MD can) (VP (VB outperform) (NP (JJ current) (NNS baselines)) (PP (IN by) (NP (DT a) (JJ large) (NN margin)))))))) (. .))

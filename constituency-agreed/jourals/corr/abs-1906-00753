@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT the) (JJ mean) (JJ square) (NN error)) (PP (IN of) (NP (DT the) (NN localization) (NN algorithm)))))))) (. .))

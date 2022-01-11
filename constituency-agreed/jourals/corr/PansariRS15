@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN regression) (NN model)) (VP (VBN built) (S (VP (VBG using) (NP (DT this) (NN dataset)))))) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NN proxy)) (PP (IN for) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (DT an) (NN entity))))))))) (. .))

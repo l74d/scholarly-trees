@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN cost) (NNP Markov) (NN chain)) (VP (VBZ is) (NP (NP (DT a) (NNP Markov) (NN chain)) (SBAR (WHNP (WP$ whose) (NNS transitions)) (S (VP (VBP are) (VP (VBN labelled) (PP (IN with) (NP (JJ non-negative) (NN integer) (NNS costs))))))))) (. .))

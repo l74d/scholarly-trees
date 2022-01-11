@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VB present) (NP (DT the) (NN construction)) (S (NP (NP (JJ cyclic) (JJ isodual) (NNS codes)) (PP (IN over) (NP (NP (JJ finite) (NNS fields)) (CC and) (NP (JJ finite) (NN chain) (NNS rings))))))) (. .))
+(S (NP (DT These) (NNS codes)) (VP (VBP are) (ADJP (RB monomially) (JJ equivalent) (PP (IN to) (NP (PRP$ their) (JJ dual))))) (. .))
+(S (NP (NNS Conditions)) (VP (VBP are) (VP (VBN given) (PP (IN for) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (JJ cyclic) (JJ isodual) (NNS codes))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NP (JJ duadic) (NNS codes)) (PP (IN over) (NP (JJ finite) (NNS fields)))))) (VP (VBZ is) (VP (VBN extended) (PP (IN to) (NP (JJ finite) (NN chain) (NNS rings))))) (. .))
+(S (NP (NP (JJ Several) (NNS constructions)) (PP (IN of) (NP (JJ isodual) (UCP (NML (JJ cyclic) (NNS codes)) (CC and) (ADJP (NN self) (HYPH -) (JJ dual))) (NNS codes)))) (VP (VBP are) (VP (VBN given))) (. .))

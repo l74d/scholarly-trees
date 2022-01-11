@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN recognition) (NN system)) (PP (IN for) (NP (JJ handwritten) (NNP Pashto) (NNS letters))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ handwritten) (NN character) (NN recognition)) (VP (VBZ is) (NP (DT a) (JJ challenging) (NN task))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN stability)) (PP (IN of) (NP (NP (JJ linear) (JJ dynamic) (NNS systems)) (PP (IN with) (NP (NP (NN hysteresis)) (PP (IN in) (NP (NN feedback)))))))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (PP (IN for) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (NP (DT the) (NN circle) (NN criterion)) (PP (IN of) (NP (JJ absolute) (NN stability)))))))) (. .))
+(S (NP (NP (JJ Invariant) (NNS sets)) (PP (IN as) (NP (NP (DT a) (NN consequence)) (PP (IN of) (NP (NN hysteresis)))))) (VP (VBP are) (VP (VBN discussed))) (. .))

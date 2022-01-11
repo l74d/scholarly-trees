@@ -1,0 +1,2 @@
+(S (NP (NN Scoliosis)) (VP (VBZ is) (NP (NP (DT a) (JJ congenital) (NN disease)) (SBAR (WHNP (WDT that)) (S (VP (VBZ causes) (NP (NP (JJ lateral) (NN curvature)) (PP (IN in) (NP (DT the) (NN spine))))))))) (. .))
+(S (NP (NN Reliability)) (VP (MD can) (VP (VB be) (VP (VBN improved) (PP (IN through) (NP (NP (DT the) (JJ automatic) (NN detection) (CC and) (NN localization)) (PP (IN of) (NP (JJ spinal) (NNS landmarks)))))))) (. .))

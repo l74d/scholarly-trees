@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some) (NNS weights)) (VP (VBN produced) (PP (IN by) (NP (NN sPlot))))) (VP (VBP are) (PP (IN by) (NP (NN design))) (ADJP (JJ negative))) (. .))
+(S (NP (DT The) (NN loss) (NN function)) (VP (VBZ becomes) (ADJP (JJ unbounded))) (. .))

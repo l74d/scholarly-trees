@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (NN correctness)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN proved)))) (, ,) (CC and) (S (NP (PRP$ its) (NN complexity)) (VP (VBN analyzed))) (. .))
+(S (NP (NP (JJ First) (NNS experiments)) (PP (IN with) (NP (NP (NNS filtrations)) (PP (IN of) (NP (JJ triangular) (NNS meshes)))))) (VP (VBP are) (VP (VBN presented))) (. .))

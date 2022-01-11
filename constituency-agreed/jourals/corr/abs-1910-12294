@@ -1,0 +1,2 @@
+(SQ (MD Will) (NP (DT the) (NNP Third) (NNP World) (NNP War)) (VP (VB be) (VP (VBN fought) (PP (IN by) (NP (NNS robots))))) (. ?))
+(S (NP (DT The) (JJ fictional) (NN scenario)) (VP (VP (VBZ takes) (NP (NN inspiration)) (PP (IN from) (NP (JJ current) (JJ scientific) (NN research)))) (CC and) (VP (VBZ describes) (NP (NP (DT a) (NN future)) (SBAR (WHADVP (WRB where)) (S (NP (NNS robots)) (VP (VBP are) (VP (VBN asked) (PP (IN by) (NP (NNS humans))) (S (VP (TO to) (VP (VB join) (NP (DT the) (NN war)))))))))))) (. .))

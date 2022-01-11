@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NNS signatures) (CC and) (NNS heuristics)) (VP (VBP are) (ADVP (RB often)) (VP (VBN circumvented) (PP (IN by) (NP (JJ subsequent) (NN malware) (NNS authors))))) (. .))
+(S (S (NP (JJ Individual) (NNS events)) (VP (VBP are) (VP (VBN mapped) (PP (IN onto) (NP (DT an) (NN alphabet)))))) (CC and) (S (NP (NN execution) (NNS traces)) (VP (VBP are) (VP (VBN captured) (PP (IN via) (NP (NP (JJ terse) (NNS concatenations)) (PP (IN of) (NP (DT those) (NNS letters)))))))) (. .))

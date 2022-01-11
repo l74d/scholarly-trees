@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (PRP$ our) (NN algorithm)) (PP (IN as) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (DT the) (JJ classical) (NNP Differential) (NNP Evolution) (NN algorithm))))) (, ,) (S (VP (VBG introducing) (NP (DT a) (JJ hierarchical) (NN crossover) (NN operation))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP create) (NP (NP (DT a) (JJ large) (NN dataset)) (PP (IN of) (NP (JJ electoral) (NNS tweets))))) (CC and) (VP (VB annotate) (NP (QP (DT a) (JJ few) (CD thousand)) (NNS tweets)) (PP (IN for) (NP (NN purpose))))) (. .))

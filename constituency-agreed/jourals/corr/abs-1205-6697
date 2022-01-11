@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (JJ real) (NN world) (NNS scenarios))) (, ,) (NP (NNS objects)) (VP (VBP travel) (ADVP (RB predominantly)) (PP (IN along) (NP (QP (RB only) (DT a) (JJ few)) (NNS directions)))) (. .))
+(S (NP (NP (DT The) (NN search) (NN space)) (PP (IN for) (NP (DT a) (NN query)))) (VP (VBZ is) (ADJP (RB heavily) (JJ dependent) (PP (IN on) (NP (NP (DT the) (NN velocity) (NN distribution)) (PP (IN of) (NP (NP (DT the) (NNS objects)) (VP (VBN grouped) (PP (IN in) (NP (NP (DT the) (NNS nodes)) (PP (IN of) (NP (DT an) (NN index) (NN tree)))))))))))) (. .))

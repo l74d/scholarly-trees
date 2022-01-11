@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN epoch)) (VP (VBZ is) (NP (NP (DT an) (NN application)) (PP (IN of) (NP (NP (DT the) (NN map)) (VP (VBN induced) (PP (IN by) (NP (NP (DT the) (NN optimization) (NN algorithm)) (CC and) (NP (DT the) (NN loss) (NN function))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT the) (NN spectrum) (CC and) (NNS modes)) (PP (IN of) (NP (DT the) (NNP Koopman) (NN operator)))) (S (VP (TO to) (VP (VB realize) (NP (DT the) (JJ above) (NNS objectives)))))) (. .))

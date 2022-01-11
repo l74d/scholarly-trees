@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ important) (NNS features)) (PP (IN of) (NP (DT the) (NN algorithm)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB compute) (NP (NNS certificates)))))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN vindicated) (PP (IN by) (NP (DT a) (NN prototype) (NN implementation))))) (. .))

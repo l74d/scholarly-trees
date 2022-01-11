@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG generating) (NP (JJ ungrammatical) (NNS sentences))))))) (, ,) (NP (DT the) (NN decoder)) (ADVP (RB sometimes)) (VP (VBZ drops) (NP (JJ important) (NNS words)) (PP (IN in) (S (VP (VBG compressing) (NP (NNS sentences)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (PP (IN in) (NP (DT the) (JJ human) (NN evaluation))) (, ,) (NP (NNP SLAHAN)) (VP (VBD improved) (NP (NN informativeness)) (PP (IN without) (S (VP (VBG losing) (NP (NN readability)))))) (. .))

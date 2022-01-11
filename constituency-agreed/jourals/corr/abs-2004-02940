@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (S (VP (VBG embedding) (NP (DT a) (NN watermark)) (PP (IN with) (NP (DT a) (JJ high) (NN strength) (NN factor))))) (VP (VBZ increases) (NP (NN robustness))))) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBZ decreases) (NP (NP (NN imperceptibility)) (PP (IN of) (NP (DT the) (NN watermark))))) (. .))

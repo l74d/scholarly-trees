@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT an) (NN adversary)) (VP (MD may) (ADVP (RB still)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB infer) (NP (DT the) (JJ private) (NN training) (NNS data)) (PP (IN by) (S (VP (VBG attacking) (NP (DT the) (VBN released) (NN model))))))))))) (. .))

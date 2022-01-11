@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN estimator)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (S (VP (VBG using) (NP (JJ parallel) (NN computing)))) (, ,) (S (VP (VBG saving) (NP (DT the) (NN time) (NN complexity))))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN verified) (PP (IN by) (NP (JJ objective) (NNS measures))))) (. .))

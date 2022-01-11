@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (NNP Random) (NNP Forest)) (VP (VP (VBZ is) (RB not) (VP (VBN based) (PP (IN on) (NP (NN loss) (NN optimization))))) (CC and) (VP (VBZ obtains) (NP (DT a) (ADJP (ADJP (RBR more) (JJ complex)) (CC and) (ADJP (RBR less) (JJ interpretable))) (NN model)))) (. .))

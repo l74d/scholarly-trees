@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ random) (NN permutation) (NN generation)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown))) (. .))
+(S (S (NP (DT The) (NN class) (NNP Group)) (VP (VBZ is) (ADJP (RB very) (JJ simple)))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN based) (PP (IN on) (NP (NNS dictionaries)))))) (. .))

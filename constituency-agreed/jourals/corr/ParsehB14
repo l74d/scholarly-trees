@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN accuracy)) (PP (IN of) (NP (NN document) (NN classification)))) (VP (VBZ is) (ADJP (RB very) (JJ important))) (. .))
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (VBG existing) (NN weighting) (NNS methods)))) (VP (VP (VBP exploit) (NP (NP (DT the) (JJ statistical) (NN information)) (PP (IN of) (NP (NP (NNS terms)) (PP (IN in) (NP (NNS documents))))))) (CC and) (VP (VBP do) (RB not) (VP (VB consider) (NP (NP (JJ semantic) (NNS relations)) (PP (IN between) (NP (NNS words))))))) (. .))

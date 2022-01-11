@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN sufficiency)) (PP (IN of) (NP (JJ linear) (NNS codes))))))) (. .))
+(S (NP (DT The) (NN linearity)) (VP (VBZ allows) (S (NP (PRP us)) (VP (VP (TO to) (VP (VB obtain) (NP (JJ simple) (JJ optimal) (NN code) (NNS constructions)))) (CC and) (VP (TO to) (VP (VB study) (NP (NP (NN capacity) (NNS regions)) (PP (IN of) (NP (NP (DT the) (JJ noisy) (JJ multiple) (NN access)) (CC and) (NP (DT the) (JJ degraded) (NN broadcast) (NN channel)))))))))) (. .))

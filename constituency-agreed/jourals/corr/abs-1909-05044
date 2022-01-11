@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG resulting) (NN table)) (VP (MD can) (ADVP (RB next)) (VP (VB be) (VP (VBN used) (PP (IN by) (NP (DT any) (JJ propositional) (NN learner)))))) (. .))
+(S (NP (NNP LazyBum)) (VP (VBZ interleaves) (NP (NP (NNP OneBM) (POS 's)) (NN feature) (NN construction) (NN method)) (PP (IN with) (NP (DT a) (NN decision) (NN tree) (NN learner)))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB solve) (NP (DT both) (NNS problems)))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ variational) (NN inference) (NN schema)) (PP (IN for) (NP (NN model) (NN optimization))))) (. .))

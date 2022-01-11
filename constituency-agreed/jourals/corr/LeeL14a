@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN outage) (NN probability)) (PP (IN of) (NP (DT the) (VBN proposed) (NN scheme)))) (VP (VBZ is) (VP (VBN analyzed) (S (VP (VBG using) (NP (DT a) (NNP Markov) (NN chain) (NN model)))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB validate) (NP (DT the) (NN analysis) (NN accuracy))))))) (. .))

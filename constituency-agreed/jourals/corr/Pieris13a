@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT the) (VBN proposed) (NN transformation) (NN algorithm))) (. .))
+(S (S (VP (VBG Using) (NP (DT a) (JJ real) (NN world) (NN example)))) (NP (PRP it)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN in) (NP (NN practice))))))))) (. .))

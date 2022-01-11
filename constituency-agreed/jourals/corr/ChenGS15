@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN purpose)) (VP (VBZ is) (S (VP (TO to) (VP (VB accelerate) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (DT a) (ADJP (RB significantly) (JJR larger)) (JJ neural) (NN net)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ wasteful) (NN process)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (JJ new) (NN model)) (VP (VBZ is) (VP (VBN trained) (PP (IN from) (NP (NN scratch))))))))) (. .))

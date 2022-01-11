@@ -1,0 +1,5 @@
+(S (NP (NN Information)) (VP (VBZ is) (VP (VBN transmitted) (PP (IN among) (NP (NP (NNS variables)) (SBAR (WHNP (WDT which)) (S (ADVP (RB often)) (VP (VBP change) (NP (NNS names))))))))) (. .))
+(S (NP (JJ Conventional) (NNS flowcharts)) (VP (VBP fail)) (. .))
+(S (NP (VBN Proposed)) (VP (VBZ is) (NP (NP (DT the) (NN method)) (SBAR (WHNP (WDT which)) (S (VP (VBZ overcomes) (NP (DT these) (NNS difficulties))))))) (. .))
+(S (NP (DT These)) (VP (VBP are) (ADJP (JJ inseparable))) (. .))
+(S (NP (DT The) (JJ third)) (VP (VBZ is) (VP (VBG defining) (NP (NNS timelines)) (PP (IN as) (NP (NP (DT the) (NNS entities)) (VP (ADVP (RB clearly)) (VBN separated) (PP (IN from) (NP (NP (DT the) (JJ connected) (NNS blocks)) (PP (IN of) (NP (NN code)))))))))) (. .))

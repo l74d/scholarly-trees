@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Design) (NNS methods)) (PP (IN for) (NP (JJ paraunitary) (NNS matrices))) (PP (IN from) (NP (NP (JJ complete) (JJ orthogonal) (NNS sets)) (PP (IN of) (NP (NP (NNS idempotents)) (CC and) (NP (JJ related) (NN matrix) (NNS structures))))))) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (DT These)) (VP (VBP include) (NP (NP (NNS techniques)) (PP (IN for) (S (VP (VBG designing) (NP (JJ non-separable) (JJ multidimensional) (JJ paraunitary) (NNS matrices))))))) (. .))
+(S (S (NP (NP (NNS Properties)) (PP (IN of) (NP (DT the) (NNS structures)))) (VP (VBP are) (VP (VBN obtained)))) (CC and) (S (NP (VB proofs)) (VP (VBN given))) (. .))
+(S (NP (JJ Paraunitary) (NNS matrices)) (VP (VBP play) (NP (DT a) (JJ central) (NN role)) (PP (IN in) (NP (JJ signal) (NN processing))) (, ,) (PP (PP (IN in) (ADJP (JJ particular))) (IN in) (NP (NP (DT the) (NNS areas)) (PP (IN of) (NP (NNS filterbanks) (CC and) (NNS wavelets)))))) (. .))

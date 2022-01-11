@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN representation)) (VP (VBZ is) (VP (VBN defined) (PP (IN by) (NP (NP (DT the) (NN probability) (NN distribution)) (PP (IN of) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (NP (NNS neurons)) (PP (IN in) (NP (NP (DT the) (JJ last) (JJ hidden) (NN layer)) (PP (IN of) (NP (DT the) (NN model))))))))))))) (. .))

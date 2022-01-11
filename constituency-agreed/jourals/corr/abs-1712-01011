@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP BLSTM) (NNS networks)) (ADVP (RB then)) (VP (VBP learn) (PP (IN from) (NP (DT the) (NNS data))) (S (VP (TO to) (VP (VB incorporate) (NP (DT the) (JJ temporal) (NNS dependencies)) (S (VP (TO to) (VP (VB produce) (NP (DT a) (NN chord) (NN progression))))))))) (. .))

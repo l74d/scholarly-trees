@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN solved) (PP (IN by) (S (ADVP (RB iteratively)) (VP (VBG minimizing) (NP (NP (DT the) (JJ weighted) (NN sum)) (PP (IN of) (NP (JJ mean) (JJ square) (NNS errors))))))))) (. .))

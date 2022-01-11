@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ is) (VP (VBN built) (PP (IN on) (NP (NP (NP (JJ discrete) (NN convex) (NN analysis)) (PP (IN on) (NP (NN graph) (NNS structures)))) (CC and) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (JJ reducible) (JJ bisubmodular) (NNS flows)))))))) (. .))

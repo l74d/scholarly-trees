@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (NN dependence)) (VP (VBZ is) (VP (VBN observed))))) (, ,) (NP (DT the) (JJ cryptographic) (NN implementation)) (VP (VBZ is) (VP (VBN classified) (SBAR (IN as) (S (VP (TO to) (VP (VB leak) (NP (NN information)))))))) (. .))

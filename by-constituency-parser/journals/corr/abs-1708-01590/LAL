@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NP (NNS points)) (PP (IN in) (NP (JJ d-dimensional) (JJ Euclidean) (NN space)))))) (VP (VBZ is) (ADJP (RB almost) (JJ equidistant)) (SBAR (IN if) (S (PP (IN among) (NP (NP (DT any) (CD three) (NNS points)) (PP (IN of) (NP (DT the) (NN set))))) (, ,) (NP (DT some) (CD two)) (VP (VBP are) (PP (IN at) (NP (NN distance) (CD 1))))))) (. .))

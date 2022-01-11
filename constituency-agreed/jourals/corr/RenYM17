@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS measurements)) (PP (IN from) (NP (DT a) (VBN compromised) (NN sensor)))) (VP (MD can) (VP (VB be) (VP (VBN manipulated) (ADVP (RB arbitrarily)) (PP (IN by) (NP (DT the) (NN adversary)))))) (. .))
+(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (PRP$ our) (NN detection) (NN strategy)) (VP (MD can) (VP (VB achieve) (NP (NP (DT the) (JJ maximal) (NN efficiency)) (CC and) (NP (DT the) (JJ maximal) (NN security))) (ADVP (RB simultaneously)))) (. .))

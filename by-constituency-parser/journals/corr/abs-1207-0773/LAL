@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (JJ general) (NN version)) (PP (IN of) (NP (DT the) (JJ classic) (NN guessing) (NN game) (NNP Mastermind))) (PP (IN with) (NP (NP (ADJP ($ $) (JJ n) ($ $)) (NNS positions)) (CC and) (NP (ADJP ($ $) (VB k) ($ $)) (NNS colors)))))) (. .))
+(S (NP (DT This) (NN bound)) (VP (VBZ is) (ADJP (JJ valid)) (ADVP (RB also)) (SBAR (WHADVP (WRB when)) (S (NP (RB only) (JJ black) (NNS answer-pegs)) (VP (VBP are) (VP (VBN used)))))) (. .))

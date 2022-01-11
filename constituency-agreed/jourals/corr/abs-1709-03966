@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN usage)) (PP (IN on) (NP (DT a) (JJ robotic) (NN system)))) (VP (VBZ requires) (NP (DT a) (ADJP (JJ fast) (CC and) (JJ robust)) (NN homography) (NN estimation) (NN algorithm))) (. .))

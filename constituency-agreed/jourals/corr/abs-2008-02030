@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN variance)) (VP (VBN introduced) (PP (IN by) (NP (DT these) (NNS methods))))) (VP (VBP are) (VP (VBN limited) (SBAR (IN as) (S (NP (DT the) (NNS images)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN modified) (ADVP (RB globally)))))))) (. .))
+(S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB generate) (NP (JJ realistic) (, ,) (JJ healthy) (NN tissue) (CC and) (NNS structures)) (PP (IN in) (NP (NP (NNS patches)) (VP (VBG containing) (NP (NNS nodules)))))))))) (. .))

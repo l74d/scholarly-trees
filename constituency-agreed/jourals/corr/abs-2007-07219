@@ -1,0 +1,1 @@
+(S (ADVP (RB Thus)) (, ,) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (DT the) (NN message) (NN rate)) (VP (VBZ is) (RB not) (ADJP (RB too) (JJ excessive)))))) (, ,) (NP (DT a) (JJ logarithmic) (NN memory)) (VP (VBZ is) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (PP (IN for) (NP (JJ maximal) (NN stability)))) (. .))

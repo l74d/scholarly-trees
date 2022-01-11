@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN approach)) (PP (IN on) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NN benchmark) (NNS tasks))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP show) (SBAR (S (NP (PRP it)) (VP (VBZ outperforms) (NP (VBG existing) (JJ recurrent) (NNS units))))))) (. .))

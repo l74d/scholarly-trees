@@ -1,0 +1,2 @@
+(S (NP (NN DNA) (NNS sequences)) (VP (VBP are) (ADJP (JJ fundamental) (PP (IN for) (S (VP (VBG encoding) (NP (JJ genetic) (NN information))))))) (. .))
+(S (NP (DT All) (JJ current) (NN transformation) (NNS methods)) (VP (VBP encode) (NP (NN DNA) (NNS sequences)) (PP (IN into) (NP (NP (JJ numerical) (NNS values)) (PP (IN of) (NP (DT the) (JJ same) (NN length)))))) (. .))

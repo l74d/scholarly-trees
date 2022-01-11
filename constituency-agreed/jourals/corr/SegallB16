@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN impact)) (PP (IN of) (NP (DT the) (NN influence) (NN model)))) (VP (VBZ is) (ADJP (RB mostly) (JJ evident)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN visibility) (NN graph)) (VP (VBZ is) (ADJP (JJ incomplete)))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP are) (VP (VBN conditioned) (PP (IN by) (NP (NP (DT the) (NN preservation)) (PP (IN of) (NP (NP (DT the) (NN connectedness)) (PP (IN of) (NP (DT the) (NN visibility) (NN graph))))))))) (. .))

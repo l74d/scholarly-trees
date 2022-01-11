@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT an) (VBG alternating) (JJ proximal) (NN gradient) (NN method)) (PP (IN for) (S (VP (VBG solving) (NP (DT this) (NN problem))))))) (. .))
+(S (NP (JJ Extensive) (JJ numerical) (NNS experiments)) (VP (VBP illustrate) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (NP (DT the) (VBG alternating) (JJ proximal) (NN gradient) (NN method)) (CC and) (NP (DT the) (NN accleration) (NN technique)))))) (. .))

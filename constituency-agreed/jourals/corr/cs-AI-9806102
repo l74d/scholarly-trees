@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (JJ general) (NN method)) (PP (IN for) (NP (NP (JJ selective) (NN acquisition)) (PP (IN of) (NP (NNS macros))))))) (. .))
+(S (NP (JJ Solvable) (NN training) (NNS problems)) (VP (VBP are) (VP (VBN generated) (PP (IN in) (NP (NP (VBG increasing) (NN order)) (PP (IN of) (NP (NN difficulty))))))) (. .))

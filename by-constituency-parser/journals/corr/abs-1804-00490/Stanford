@@ -1,0 +1,8 @@
+(S (NP (DT The) (ADJP (NN network) (HYPH -) (VBN based)) (NML (NN machine) (NN learning)) (NN algorithm)) (VP (VBZ is) (NP (ADJP (RB very) (JJ powerful)) (NNS tools))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ requires) (NP (JJ huge) (NN training) (NN dataset))) (. .))
+(S (NP (NNS Researchers)) (ADVP (RB often)) (VP (VBP meet) (NP (NN privacy) (NNS issues)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP collect) (NP (NN image) (NN dataset)) (ADVP (RB especially)) (PP (IN for) (NP (NN surveillance) (NNS applications))))))) (. .))
+(S (NP (DT A) (JJ learnable) (NML (NN image) (NN encryption)) (NN scheme)) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (S (NP (NP (DT The) (JJ key) (NN idea)) (PP (IN of) (NP (DT this) (NN scheme)))) (VP (VBZ is) (S (VP (TO to) (VP (VB encrypt) (NP (NNS images)) (, ,) (SBAR (IN so) (IN that) (S (NP (NN human)) (VP (MD can) (RB not) (VP (VB understand) (NP (NNS images))))))))))) (CC but) (S (NP (DT the) (NN network)) (VP (MD can) (VP (VB be) (NP (NP (NN train)) (PP (IN with) (NP (VBN encrypted) (NNS images))))))) (. .))
+(S (NP (DT This) (NN scheme)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB train) (NP (DT the) (NN network)) (PP (IN without) (NP (DT the) (NN privacy) (NNS issues))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT a) (JJ simple) (JJ learnable) (NN image) (NN encryption) (NN algorithm)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN validated) (PP (IN with) (NP (NN cifar) (NN dataset))))) (. .))

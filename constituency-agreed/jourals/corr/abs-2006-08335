@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NP (NNS statistics)) (PP (IN for) (NP (PRP$ our) (NN dataset))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (JJ baseline) (NN performance) (NN analysis)) (PP (IN for) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NN regression) (NNS tasks)))))) (S (VP (VBG using) (NP (NP (JJ pre-trained) (NNS models)) (CC and) (NP (JJ several) (ADJP (RB fully) (VBN connected)) (NNS networks)))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ manual) (NN analysis)) (VP (VBZ is) (RB not) (ADJP (JJ feasible)) (SBAR (IN since) (S (NP (NNS datasets)) (VP (MD can) (VP (VB be) (NP (NP (NNS petabytes)) (PP (IN in) (NP (NN size))))))))) (. .))

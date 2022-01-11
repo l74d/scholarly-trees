@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (JJ deep) (NN learning)) (VP (VBZ has) (VP (VBN shown) (NP (PRP$ its) (NN power)) (PP (IN in) (NP (NN steganalysis))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP prove) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN architecture))))) (. .))

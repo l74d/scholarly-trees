@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Measures)) (PP (IN for) (NP (NN vulnerability) (NN analysis)))) (VP (VBP are) (ADJP (JJ crucial) (S (VP (TO to) (VP (VB assure) (NP (NP (DT a) (JJR higher) (NN level)) (PP (IN of) (NP (NP (NN robustness)) (PP (IN of) (NP (NN power) (NNS grids))))))))))) (. .))
+(S (ADVP (RB Yet)) (, ,) (NP (DT these) (ADJP (RB purely) (JJ topological)) (NNS metrics)) (VP (VBP fail) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (JJ real) (NN behaviour)) (PP (IN of) (NP (NN power) (NNS grids)))))))) (. .))

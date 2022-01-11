@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN stage) (CD one))) (, ,) (NP (DT a) (JJ common) (NN model)) (VP (VBZ is) (VP (VBN built) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NNS commonalities)) (S (VP (VBG using) (NP (NP (DT the) (JJ common) (NNS features)) (PP (IN of) (NP (DT all) (NNS instances))))))))))) (. .))

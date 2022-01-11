@@ -1,0 +1,4 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ many) (NNS issues)) (CC and) (NP (JJ many) (NNS controversies)))) (. .))
+(S (SBAR (IN Since) (S (NP (NNS media)) (VP (VBP are) (ADJP (JJ free))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB hear) (NP (NNS arguments)) (PP (IN from) (NP (DT every) (JJ possible) (NN side))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (VBP do) (NP (PRP we)) (VP (VB decide) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (JJ wrong) (CC or) (JJ right))))))) (. ?))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NNS consequences)) (PP (IN of) (NP (DT this) (NN statement)))) (VP (VBP are) (ADJP (JJ surprising) (CC and) (JJ funny)))))) (. .))

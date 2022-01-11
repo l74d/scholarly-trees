@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (NN perceptron) (NN learning)) (VP (VBZ outperforms) (NP (DT the) (JJ other) (CD two) (NNS methods)) (SBAR (WHADVP (WRB when)) (S (VP (VBG making) (NP (NN cluster) (NN scaling) (NNS decisions))))))))) (. .))

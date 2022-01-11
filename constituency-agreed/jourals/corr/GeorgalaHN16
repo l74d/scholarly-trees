@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJR newer) (NNS works))) (, ,) (NP (JJ linear) (NNS models)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (NN runtime)) (NP (DT the) (JJS fastest) (NNS planners))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT no) (JJ other) (NN category)) (PP (IN of) (NP (NNS models)))) (VP (VBZ has) (VP (VBN been) (VP (VBN studied) (PP (IN for) (NP (DT this) (NN purpose))) (ADVP (RB so) (RB far))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Agents)) (VP (VBP do) (RB not) (VP (VB know) (NP (NP (DT the) (NN network) (NN topology)) (CC or) (NP (NP (DT the) (NNS observations)) (PP (IN of) (NP (JJ other) (NNS agents))))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (JJ explicit) (JJ non-asymptotic) (NNS bounds)) (PP (IN for) (NP (DT the) (NN convergence) (NN rate))))) (. .))

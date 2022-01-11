@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (NN equilibrium) (NN structure)) (PP (IN of) (NP (DT this) (NN traffic) (NN model)))) (VP (VBZ is) (VP (VBN presented)))) (: ;) (CC and) (S (NP (NP (DT the) (NN case)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT a) (NN toll) (NN lane)))) (VP (VBZ is) (ADJP (JJ meaningful))))) (, ,)) (VP (VBZ is) (VP (VBN discussed)))) (. .))
+(S (PP (IN For) (NP (DT the) (NN price) (NN setting))) (, ,) (NP (CD two) (JJ alternative) (NNS approaches)) (VP (VBP are) (VP (VBN presented))) (. .))

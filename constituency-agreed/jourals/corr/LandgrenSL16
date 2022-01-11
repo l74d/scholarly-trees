@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP prove) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT these) (NNS algorithms))))) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (PRP they)) (ADVP (RB asymptotically)) (VP (VBP recover) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (JJ centralized) (NN agent))))))))) (. .))

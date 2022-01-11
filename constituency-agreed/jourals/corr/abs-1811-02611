@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ learns) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB distinguish) (PP (IN between) (NP (ADJP (JJ relevant) (CC and) (JJ irrelevant)) (NN information)))))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP observe) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (VBZ does) (RB not) (VP (VB generalize) (ADVP (RB well))))))) (. .))

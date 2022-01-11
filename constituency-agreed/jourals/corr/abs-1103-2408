@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP Paxos) (NN replication)) (VP (MD can) (VP (VB be) (ADJP (JJ competitive) (PP (IN with) (NP (NP (NNS alternatives)) (SBAR (WHNP (WDT that)) (S (VP (VBP provide) (NP (JJR weaker) (NN consistency) (NNS guarantees))))))))))))) (. .))

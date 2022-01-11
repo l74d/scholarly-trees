@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT a) (JJ major) (NN drawback)) (PP (IN of) (NP (DT the) (NN method)))) (VP (VBZ is) (SBAR (IN that) (S (S (VP (VBG storing) (NP (NNS tensors)))) (VP (VBZ requires) (NP (NP (DT a) (JJ considerable) (NN amount)) (PP (IN of) (NP (NN memory)))) (, ,) (S (ADVP (RB ultimately)) (VP (VBG limiting) (NP (PRP$ its) (NN applicability)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP address) (NP (DT this) (NN problem)) (PP (IN by) (S (VP (VBG proposing) (NP (CD two) (NNS advances)))))) (. .))

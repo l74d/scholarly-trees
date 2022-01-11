@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ convolutional) (NN layer))) (, ,) (NP (DT the) (NN filter) (NNS banks)) (VP (VBP are) (ADVP (RB simply)) (VP (VBN learned) (PP (IN by) (NP (NNP PCA))))) (. .))

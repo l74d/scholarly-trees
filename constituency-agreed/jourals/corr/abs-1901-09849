@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN bias)) (VP (VBZ catches) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NN activation)))))) (, ,) (CC and) (S (NP (DT the) (NNS weights)) (VP (VBP capture) (NP (DT the) (NN scale)))) (. .))

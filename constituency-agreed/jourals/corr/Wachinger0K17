@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (QP (RB roughly) (CD 2.7) (CD million)) (NNS parameters)) (PP (IN in) (NP (DT the) (NN network)))) (VP (VBP are) (VP (VBN learned) (PP (IN with) (NP (JJ stochastic) (NN gradient) (NN descent))))) (. .))

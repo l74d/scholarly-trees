@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN optimisation) (NN problem)) (VP (VBZ is) (ADJP (JJ non-convex)))) (, ,) (CC but) (S (PP (IN in) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (PP (IN under) (NP (JJ reasonable) (NNS conditions))) (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN reformulated) (PP (IN as) (NP (DT a) (NN convex) (NN optimisation)))))))))) (. .))

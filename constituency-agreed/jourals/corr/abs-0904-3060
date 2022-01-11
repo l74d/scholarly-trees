@@ -1,0 +1,2 @@
+(S (CC But) (NP (DT the) (NN algorithm)) (VP (VBZ requires) (SBAR (IN that) (S (NP (PDT all) (DT the) (NN property) (NNS values)) (VP (MD must) (VP (VB be) (ADJP (JJ distinct) (PP (IN from) (NP (DT each) (JJ other))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ implies) (SBAR (IN that) (S (S (VP (TO to) (VP (VB manage) (NP (DT an) (JJ unsorted) (NN database)) (PP (IN on) (NP (DT an) (JJ actual) (NN quantum) (NN computer)))))) (VP (VBZ is) (ADJP (JJ possible) (CC and) (JJ efficient)))))) (. .))

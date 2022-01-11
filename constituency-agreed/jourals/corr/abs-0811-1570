@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (JJ numerous) (NNS constructions)) (PP (IN of) (NP (NN subsystem) (NNS codes))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (JJ many) (JJ optimal) (NN subsystem) (NNS codes)) (VP (VBP are) (VP (VBN obtained))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (WHADVP (WRB how)) (S (NP (VBN given) (NN subsystem) (NNS codes)) (VP (MD can) (VP (VB be) (VP (VBN extended) (, ,) (VBN shortened) (, ,) (CC or) (VBN combined) (S (VP (TO to) (VP (VB yield) (NP (JJ new) (NN subsystem) (NNS codes)))))))))))) (. .))

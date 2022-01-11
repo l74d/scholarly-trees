@@ -1,0 +1,1 @@
+(S (NP (NNP TreatJS)) (VP (VBZ is) (VP (VBN implemented) (PP (IN as) (NP (DT a) (NN library))) (SBAR (IN so) (IN that) (S (NP (NP (DT all) (NNS aspects)) (PP (IN of) (NP (DT a) (NN contract)))) (VP (MD can) (VP (VB be) (VP (VBN specified) (S (VP (VBG using) (NP (DT the) (JJ full) (NNP JavaScript) (NN language))))))))))) (. .))

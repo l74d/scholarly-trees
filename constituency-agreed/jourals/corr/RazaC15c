@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB Whenever)) (S (NP (NP (DT an) (NN architect)) (CC or) (NP (NP (DT a) (NN team)) (PP (IN of) (NP (NNS architects))))) (VP (VBZ begins) (NP (DT an) (JJ architectural) (NN design))))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ certain) (NNS goals)) (VP (VBN set) (S (VP (TO to) (VP (VB achieve))))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ provides) (NP (DT an) (NN opportunity) (S (VP (TO to) (VP (VP (VB compare) (NP (JJ different) (NNS strategies))) (CC and) (VP (VB evaluate) (NP (PRP$ their) (NNS pros) (CC and) (NNS cons)))))))) (. .))

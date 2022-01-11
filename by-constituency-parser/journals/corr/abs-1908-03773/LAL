@@ -1,0 +1,4 @@
+(S (NP (DT The) (PRN (-LRB- -LRB-) (JJ classical) (-RRB- -RRB-)) (NNP Lagrange) (NN spectrum)) (VP (VBZ is) (NP (NP (DT a) (JJ closed) (NN subset)) (PP (IN of) (NP (NP (DT the) (JJ positive) (JJ real) (NNS numbers)) (VP (VBN defined) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN diophantine) (NN approximation)))))))))) (. .))
+(S (NP (PRP$ Its) (NN structure)) (VP (VBZ is) (ADJP (RB quite) (JJ involved))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ describes) (NP (NP (DT a) (JJ polynomial) (NN time) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB approximate) (NP (PRP it)) (PP (IN in) (NP (NNP Hausdorff) (NN distance))))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ extends) (S (VP (TO to) (VP (VB approximate) (NP (NP (DT the) (NNP Markov) (NN spectrum)) (VP (VBN related) (PP (TO to) (NP (NP (VB infimum)) (PP (IN of) (NP (JJ binary) (JJ quadratic) (NNS forms))))))))))) (. .))

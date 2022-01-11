@@ -1,0 +1,2 @@
+(S (NP (JJ Redundant) (NN observability)) (VP (VBZ is) (VP (VBN introduced) (, ,) (S (VP (VBG explaining) (NP (NP (VBG existing) (NN security) (NNS notions)) (PP (VBG including) (NP (NP (DT the) (NN security) (NN index)) (, ,) (NP (NN attack) (NN detectability)) (, ,) (CC and) (NP (NP (NN observability)) (PP (IN under) (NP (NNS attacks))))))))))) (. .))
+(S (NP (NP (JJ Equivalent) (NNS conditions)) (PP (IN between) (NP (NP (JJ redundant) (NN observability)) (CC and) (NP (VBG existing) (NNS notions))))) (VP (VBP are) (VP (VBN presented))) (. .))

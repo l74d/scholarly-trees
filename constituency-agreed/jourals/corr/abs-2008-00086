@@ -1,0 +1,3 @@
+(S (ADVP (RB Recently)) (, ,) (NP (JJ much) (NN effort)) (VP (VBZ has) (VP (VBN been) (VP (VBN devoted) (PP (IN by) (NP (NP (NNS researchers)) (PP (IN from) (NP (DT both) (NN academia) (CC and) (NN industry))))) (S (VP (TO to) (VP (VB develop) (NP (JJ novel) (NN congestion) (NN control) (NNS methods)))))))) (. .))
+(S (S (VP (TO To) (VP (VB predict) (NP (DT the) (JJS best) (NN option))))) (VP (VBZ is) (NP (DT a) (JJ hard) (NN task))) (. .))
+(S (NP (DT Each) (NN option)) (VP (VBZ is) (VP (VBN mapped) (PP (IN as) (NP (NP (DT an) (NN arm)) (PP (IN of) (NP (DT a) (NN bandit) (NN machine))))))) (. .))

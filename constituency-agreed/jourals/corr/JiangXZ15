@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN mechanism)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB keep) (NP (NP (DT the) (JJ positive) (NN semi-definiteness)) (PP (IN of) (NP (DT the) (VBN published) (NN covariance) (NN matrix))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (VBN compared) (PP (IN with) (NP (DT the) (JJ classic) (NNP Laplace) (NN mechanism)))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ has) (NP (JJR better) (NN utility) (NN guarantee))) (. .))

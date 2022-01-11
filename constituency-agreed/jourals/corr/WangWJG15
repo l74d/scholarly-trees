@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP regularize) (NP (DT the) (NN predictor) (NN parameter)) (S (VP (TO to) (VP (VB control) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (NN predictor)))))))) (. .))
+(S (NP (DT The) (NN learning) (NN problem)) (VP (VBZ is) (VP (VBN formulated) (PP (IN by) (NP (NP (DT an) (JJ objective) (NN function)) (VP (VBG considering) (NP (NP (DT the) (NN parameter) (NN regularization)) (CC and) (NP (NNP MCC))) (ADVP (RB simultaneously))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ does) (RB not) (VP (VB need) (NP (DT any) (NN survey) (NNS data)) (PP (IN for) (NP (NN training))))) (. .))
+(S (ADVP (RB Yet)) (, ,) (PP (IN on) (NP (NP (NN validation)) (PP (IN against) (NP (JJ actual) (NN survey) (NNS data))))) (, ,) (NP (JJ proxy) (NNS ratings)) (VP (VBP yield) (NP (JJ reasonable) (NN performance) (NNS results))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG retraining) (NP (DT the) (NNS classifiers)) (PP (IN on) (NP (NNP CharBot) (NNS samples))))) (VP (VBZ is) (RB not) (NP (DT a) (JJ viable) (NN defense) (NN strategy)))))) (. .))

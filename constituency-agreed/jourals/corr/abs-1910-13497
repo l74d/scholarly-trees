@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (NNS languages)))) (VP (VBP employ) (NP (JJ grammatical) (NN gender)) (PP (IN on) (NP (DT the) (NN lexeme)))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (CD 18) (NNS languages)) (VP (VBP exhibit) (NP (NP (DT a) (JJ significant) (NN correlation)) (PP (IN between) (NP (NP (JJ grammatical) (NN gender)) (CC and) (NP (JJ lexical) (NNS semantics))))))))) (. .))

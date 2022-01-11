@@ -1,0 +1,2 @@
+(S (NP (NP (DT All) (CD three) (NNS methods)) (VP (VBN presented) (ADVP (RB here)))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (JJ integral) (NN form)) (PP (IN of) (NP (DT the) (VBG underlying) (JJ dynamical) (NN system))))))) (. .))
+(S (NP (JJ Several) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NNS methods))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (JJ formal) (NN specification) (CC and) (NN verification)) (PP (IN of) (NP (NN separation) (NNS kernels))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP summarize) (NP (NN research) (NN work)) (PP (IN by) (NP (JJ detailed) (NN comparison) (CC and) (NN discussion)))) (. .))

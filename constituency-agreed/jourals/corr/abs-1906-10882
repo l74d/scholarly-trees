@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS correspondences)) (VP (VBP are) (ADVP (RB then)) (VP (VBN used) (PP (IN in) (NP (DT an) (JJ iterative) (NN optimization) (NN scheme))) (S (VP (TO to) (VP (VB refine) (NP (DT the) (JJ initial) (NN camera) (NN pose)) (PP (IN by) (S (VP (VBG minimizing) (NP (DT the) (NN reprojection) (NN error)))))))))) (. .))

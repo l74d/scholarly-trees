@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ dissipates) (NP (NP (JJ valuable) (NN energy)) (PP (IN for) (NP (NN message) (NN communication))))) (. .))
+(S (ADVP (RB Thus)) (NP (NN localization)) (VP (VBZ is) (ADJP (RB very) (JJ costly))) (. .))
+(S (NP (NP (DT The) (NN control)) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN localization) (NNS calls)))))) (VP (MD may) (VP (VB save) (NP (NN energy) (NN consumption)) (, ,) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB rather) (JJ expensive))))))) (. .))

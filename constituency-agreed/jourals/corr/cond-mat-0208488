@@ -1,0 +1,4 @@
+(S (S (VP (VBG Using) (NP (NP (DT the) (JJ basic) (NNS tools)) (PP (IN of) (NP (NN chaos) (NN theory)))) (PP (IN in) (NP (PRP$ our) (NN study))))) (, ,) (NP (NP (DT the) (JJ main) (NNS characteristics)) (PP (IN of) (NP (JJ chaotic) (NNS dynamics)))) (VP (VBP are) (VP (VBN revealed))) (. .))
+(S (NP (NP (DT The) (NNS dynamics)) (PP (IN of) (NP (NN packet) (NN loss) (NNS events)))) (VP (VBZ is) (VP (VBN studied) (PP (IN by) (NP (DT a) (JJ simple) (JJ symbolic) (NN description))))) (. .))
+(S (NP (NP (DT The) (JJ cellular) (NN structure)) (PP (IN of) (NP (NP (DT the) (NN phase) (NN space)) (PP (IN of) (NP (NN congestion) (NNS windows)))))) (VP (VBZ is) (VP (VBN shown))) (. .))
+(S (NP (DT This)) (VP (VBZ implies) (NP (NP (JJ periodic) (NN behavior)) (PP (IN for) (NP (JJ large) (NN time) (NNS scales))))) (. .))

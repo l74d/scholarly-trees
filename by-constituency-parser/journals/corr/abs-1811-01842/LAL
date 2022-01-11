@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT every) (NN orthotree)) (VP (MD can) (VP (VB be) (VP (VBN unfolded) (PP (IN with) (NP (NP (DT a) (CD 4x4) (NN refinement)) (PP (IN of) (NP (DT the) (JJ grid) (VBZ faces))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ constant) (NN refinement) (VBG unfolding) (NN result)) (PP (IN for) (NP (NP (NNS orthotrees)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (VP (VBN required) (S (VP (TO to) (VP (VB be) (ADJP (JJ well-separated))))))))))))) (. .))

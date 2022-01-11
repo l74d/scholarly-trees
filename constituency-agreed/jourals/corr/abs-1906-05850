@@ -1,0 +1,1 @@
+(S (NP (PRP They)) (ADVP (RB further)) (VP (VBP amortize) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN inference)))) (PP (IN by) (S (VP (VBG using) (NP (DT a) (NN recognition) (NN network)) (S (VP (TO to) (VP (VB parameterize) (NP (DT the) (JJ variational) (NN family))))))))) (. .))

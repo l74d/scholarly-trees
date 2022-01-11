@@ -1,0 +1,2 @@
+(S (NP (DT An) (NN attacker)) (VP (VBZ is) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB launch) (NP (DT a) (JJ linear) (NN attack)) (S (VP (TO to) (VP (VB modify) (NP (NN sensor) (NNS data)))))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT some) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN given) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN strategy))))))))) (. .))

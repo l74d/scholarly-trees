@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (NN performance)) (VP (MD can) (VP (VB degrade) (PP (IN in) (NP (JJR higher) (NNS dimensions))))) (. .))
+(S (NP (DT This) (NN distance) (JJ metric)) (VP (VP (VBZ reflects) (NP (NP (DT some) (JJ basic) (NN gait) (NNS features)) (PP (IN of) (NP (JJ healthy) (NN walking))))) (CC and) (VP (VBZ helps) (S (NP (PRP us)) (ADVP (RB quickly)) (VP (VB eliminate) (NP (NP (DT a) (NN majority)) (PP (IN of) (NP (JJ unstable) (NNS controllers)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many) (JJ universal) (JJ reversible) (NNS libraries)) (SBAR (WHNP (WDT that)) (S (VP (VBP contain) (NP (QP (JJR more) (IN than) (CD one)) (NN gate) (NN type)))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN in) (NP (DT the) (NN literature)))))) (. .))
+(S (NP (NP (JJ Practical) (NN implementation)) (PP (IN of) (NP (JJ reversible) (NNS circuits)))) (VP (VBZ is) (ADJP (RB much) (JJR easier)) (SBAR (IN if) (S (NP (DT a) (JJ single) (NN gate) (NN type)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (DT the) (NN circuit) (NN construction)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN since) (S (NP (DT these) (NNS data) (NNS sets)) (VP (VBP contain) (NP (NP (PDT all) (DT the) (NNS data)) (PP (IN in) (NP (DT the) (NN environment))))))) (, ,) (NP (DT the) (NN problem)) (VP (VBZ arises) (PP (IN in) (NP (NP (DT the) (NNS terabytes)) (PP (IN of) (NP (NNS data) (NN processing)))))) (. .))

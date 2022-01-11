@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NNS data) (NN science))) (, ,) (NP (CD one)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN confronted) (PP (IN with) (NP (NP (DT a) (NN time) (NN series)) (VP (VBG representing) (NP (NP (NNS measurements)) (PP (IN of) (NP (NP (DT some) (NN quantity)) (PP (IN of) (NP (NN interest))))))))))) (. .))
+(S (ADVP (RB Usually)) (, ,) (PP (IN as) (NP (DT a) (JJ first) (NN step))) (, ,) (NP (NP (NNS features)) (PP (IN of) (NP (DT the) (NN time) (NN series)))) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN extracted)))))) (. .))
+(S (PP (IN In) (NP (DT some) (NNS applications))) (, ,) (NP (DT these) (NNS features)) (VP (VBP are) (ADVP (RB also)) (VP (VBN required) (S (VP (TO to) (VP (VB satisfy) (NP (DT some) (NN invariance) (NNS properties))))))) (. .))

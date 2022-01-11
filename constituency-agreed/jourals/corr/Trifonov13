@@ -1,0 +1,2 @@
+(S (NP (VBN Aligned) (NN surface)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN fused) (PP (IN into) (NP (DT the) (NN scene))))) (. .))
+(S (NP (NNP Kalman) (NN filter)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NN fusion) (NN quality))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Image) (NNP Mosaicing)) (VP (VBZ is) (NP (NP (DT a) (NN method)) (PP (IN of) (S (VP (VBG constructing) (NP (NP (JJ multiple) (NNS images)) (PP (IN of) (NP (DT the) (JJ same) (NN scene)))) (PP (IN into) (NP (DT a) (JJR larger) (NN image)))))))) (. .))
+(S (NP (NP (DT The) (NN output)) (PP (IN of) (NP (DT the) (NN image) (NN mosaic)))) (VP (MD will) (VP (VB be) (NP (NP (DT the) (NN union)) (PP (IN of) (NP (CD two) (NN input) (NNS images)))))) (. .))

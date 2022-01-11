@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP evaluate) (NP (NP (NNP Vamsa) (POS 's)) (NN accuracy)) (PP (IN on) (NP (NP (DT a) (JJR smaller) (NN subset)) (PP (IN of) (NP (ADJP (RB manually) (VBN labeled)) (NNS data)))))) (. .))

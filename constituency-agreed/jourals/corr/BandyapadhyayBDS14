@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN user)) (VP (VBZ avails) (NP (NN service)) (PP (IN from) (NP (PRP$ its) (JJS nearest) (NN facility)))) (. .))
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT each) (NN player)))) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (PRP$ their) (JJ respective) (NN payoff)))))) (. .))

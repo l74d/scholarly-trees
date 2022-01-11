@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NNS processors)) (VP (MD may) (VP (VB have) (NP (JJ different) (NNS speeds))))) (CC and) (S (NP (DT the) (NNS tasks)) (VP (MD may) (VP (VB have) (NP (JJ different) (NNS weights))))) (. .))
+(S (NP (DT Every) (NN task)) (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (DT a) (JJ selfish) (NN user))))) (. .))

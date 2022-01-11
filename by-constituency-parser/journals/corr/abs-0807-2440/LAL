@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (JJ present) (NP (NP (JJ error-correcting) (NNS codes)) (PP (IN for) (NP (NN random) (NN network) (VBG coding))) (VP (VBN based) (PP (IN on) (NP (NP (JJ rank-) (JJ metric) (NNS codes)) (, ,) (NP (NNP Ferrers) (VBP diagrams)) (, ,) (CC and) (NP (NN puncturing))))))) (. .))
+(S (PP (IN For) (NP (JJS most) (NNS parameters))) (, ,) (NP (DT the) (VBN constructed) (NNS codes)) (VP (VBP are) (ADJP (ADJP (JJR larger)) (PP (IN than) (NP (DT all) (ADJP (RB previously) (VBN known)) (NNS codes))))) (. .))

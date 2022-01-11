@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (JJ little) (NN discussion)) (PP (IN on) (NP (DT this) (NN assumption))))) (. .))
+(S (PP (IN In) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NNS cases))))) (NP (PRP we)) (VP (VBP provide) (NP (ADJP (ADJP (JJ tight)) (CC or) (ADJP (RB asymptotically) (JJ tight))) (NNS results))) (. .))

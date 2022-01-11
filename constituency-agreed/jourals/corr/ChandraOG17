@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN size)) (PP (IN of) (NP (DT the) (NN timespan)))) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT a) (NN way)) (PP (IN of) (S (VP (VBG determining) (NP (NP (DT the) (NN extent)) (PP (IN of) (NP (NP (JJ past) (NN information)) (VP (VBN required) (PP (IN for) (NP (DT an) (JJ effective) (NN prediction))))))))))))))) (. .))
+(S (NP (DT These) (NNS applications)) (VP (VBP require) (NP (JJ robust) (NN prediction)) (ADVP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP (DT the) (NN event)) (VP (VBZ takes) (NP (NN place))))))) (. .))

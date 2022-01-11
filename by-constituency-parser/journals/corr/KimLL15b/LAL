@@ -1,0 +1,7 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (ADJP (RB highly) (JJ accurate)) (JJ single-image) (NN super-resolution) (PRN (-LRB- -LRB-) (NNP SR) (-RRB- -RRB-)) (NN method))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (S (S (VP (VBG increasing) (NP (PRP$ our) (NN network) (NN depth)))) (VP (VBZ shows) (NP (NP (DT a) (JJ significant) (NN improvement)) (PP (IN in) (NP (NN accuracy)))))))) (. .))
+(S (NP (PRP$ Our) (JJ final) (NN model)) (VP (VBZ uses) (NP (CD 20) (NN weight) (NNS layers))) (. .))
+(S (PP (IN By) (S (VP (VBG cascading) (NP (JJ small) (NNS filters)) (NP (JJ many) (NNS times)) (PP (IN in) (NP (DT a) (JJ deep) (NN network) (NN structure)))))) (, ,) (NP (NP (JJ contextual) (NN information)) (PP (IN over) (NP (JJ large) (NN image) (NNS regions)))) (VP (VBZ is) (VP (VBN exploited) (PP (IN in) (NP (DT an) (JJ efficient) (NN way))))) (. .))
+(S (PP (IN With) (NP (ADJP (RB very) (JJ deep)) (NNS networks))) (, ,) (ADVP (RB however)) (, ,) (NP (NN convergence) (NN speed)) (VP (VBZ becomes) (NP (DT a) (JJ critical) (NN issue)) (PP (IN during) (NP (NN training)))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (ADJP (JJ simple) (RB yet) (JJ effective)) (NN training) (NN procedure))) (. .))
+(S (S (NP (PRP$ Our) (VBN proposed) (NN method)) (VP (VBZ performs) (ADVP (ADVP (JJR better)) (PP (IN than) (NP (VBG existing) (NNS methods)))) (PP (IN in) (NP (NN accuracy))))) (CC and) (S (NP (NP (JJ visual) (NNS improvements)) (PP (IN in) (NP (PRP$ our) (NNS results)))) (VP (VBP are) (ADJP (RB easily) (JJ noticeable)))) (. .))

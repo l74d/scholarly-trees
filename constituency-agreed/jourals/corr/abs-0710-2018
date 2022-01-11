@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ cognitive) (NN interference) (NN channel)) (PP (IN with) (NP (JJ confidential) (NNS messages)))) (VP (VBZ is) (VP (VBN studied))) (. .))
+(S (NP (NP (DT The) (NN level)) (PP (IN of) (NP (NN secrecy)))) (VP (VBZ is) (VP (VBN measured) (PP (IN by) (NP (DT the) (NN equivocation) (NN rate))))) (. .))

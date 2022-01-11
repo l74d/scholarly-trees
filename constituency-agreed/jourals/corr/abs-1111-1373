@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ theoretical) (NN analysis)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN run) (NNS times)) (PP (IN of) (NP (NP (NNS data)) (CC and) (NP (JJ speculative) (NNS decompositions))))) (VP (VBP compare) (S (VP (VBG assuming) (NP (JJ independent) (NNS processors)))))))) (. .))

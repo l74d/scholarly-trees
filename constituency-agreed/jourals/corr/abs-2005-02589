@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP train) (NP (DT the) (JJ pre-trained) (NN model)) (S (VP (VBG using) (NP (DT the) (NN source) (NN dataset))))) (CC and) (VP (VB use) (NP (PRP it)) (PP (IN as) (NP (DT a) (NN feature) (NN extractor))))) (. .))

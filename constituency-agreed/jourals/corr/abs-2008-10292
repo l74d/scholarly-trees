@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ multi-modal) (NN nature)) (PP (IN of) (NP (JJ many) (NN vision) (NNS problems)))) (VP (VBZ calls) (PP (IN for) (NP (NP (JJ neural) (NN network) (NNS architectures)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB perform) (NP (JJ multiple) (NNS tasks)) (ADVP (RB concurrently))))))))) (. .))
+(S (ADVP (RB Typically)) (, ,) (NP (JJ such) (NNS architectures)) (VP (VBP have) (VP (VBN been) (VP (VBN handcrafted) (PP (IN in) (NP (DT the) (NN literature)))))) (. .))

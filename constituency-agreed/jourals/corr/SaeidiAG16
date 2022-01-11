@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP deal) (PP (IN with) (NP (NN event) (NN reduction)))) (. .))
+(S (NP (PRP It)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT each) (JJ local) (NN controller)) (VP (VBZ needs) (NP (NP (JJR less) (NN number)) (PP (IN of) (NP (NNS events)))) (S (VP (TO to) (VP (VB make) (NP (JJ consistent) (NNS decisions))))))))) (. .))
+(S (S (VP (VBG Having) (NP (DT this) (NN property)))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB evaluate) (NP (NP (DT the) (NN localizability)) (PP (IN of) (NP (DT a) (NN supervisor)))) (PP (IN by) (NP (NP (NN event) (NN reduction) (NNS criteria)) (PP (RB instead) (IN of) (NP (NN state) (NN reduction) (NNS criteria))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS simulations)) (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (ADVP (RB always)) (VP (VBZ exists) (NP (NP (DT an) (JJ optimal) (NN network) (NN modularity)) (PP (IN for) (NP (DT the) (ADJP (RBS most) (JJ efficient)) (VBG spreading) (NN process)))))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP are) (VP (VBN confirmed) (PP (IN by) (NP (DT an) (JJ analytical) (NN approximation))))) (. .))

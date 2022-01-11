@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN until) (ADVP (RB now))) (NP (NP (DT the) (NN interplay)) (PP (IN of) (NP (DT the) (JJ different) (NNS timescales)))) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN investigated) (ADVP (RB thoroughly))))) (. .))
+(S (ADVP (RB Typically)) (, ,) (NP (DT these) (CD two) (NN time) (NNS scales)) (VP (VBP are) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (ADJP (JJ equal))))))) (. .))

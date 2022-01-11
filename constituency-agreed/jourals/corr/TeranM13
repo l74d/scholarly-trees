@@ -1,0 +1,2 @@
+(S (ADVP (RB Sometimes)) (NP (NP (NNS points)) (PP (IN with) (NP (JJ high) (NN curvature)))) (VP (MD may) (VP (VB be) (ADJP (JJ desirable)) (, ,) (SBAR (IN while) (S (PP (IN in) (NP (JJ other) (NNS cases))) (NP (JJ high) (NN curvature)) (VP (MD may) (VP (VB be) (NP (NP (DT an) (NN indication)) (PP (IN of) (NP (NN noise)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP address) (NP (DT this)) (PP (IN by) (S (VP (VBG re-sampling) (NP (DT the) (NN training) (NN set)))))) (. .))

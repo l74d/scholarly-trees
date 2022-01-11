@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ non-trivial) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN confidence)) (PP (IN for) (NP (NP (NNP OOD) (NNS data)) (VP (VBG generalizing) (PP (IN beyond) (NP (NP (DT the) (NNP OOD) (NN dataset)) (VP (VBN seen) (PP (IN at) (NP (NN training) (NN time)))))))))))) (VP (VBP are) (ADJP (JJ possible)))))) (. .))

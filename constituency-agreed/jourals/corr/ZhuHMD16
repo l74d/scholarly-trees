@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ ternary) (NNS models)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN viewed) (PP (IN as) (NP (NP (JJ sparse) (JJ binary) (NN weight) (NNS networks)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (ADVP (RB potentially)) (VP (VB be) (VP (VBN accelerated) (PP (IN with) (NP (NN custom) (NN circuit))))))))))))) (. .))

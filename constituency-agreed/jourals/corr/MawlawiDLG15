@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN method)) (VP (VBZ achieves) (NP (NP (JJ strong) (NN performance) (NNS gains)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN throughput) (CC and) (NN latency)))))) (PP (ADVP (RB especially)) (IN in) (NP (JJ crowded) (NNS networks)))) (. .))

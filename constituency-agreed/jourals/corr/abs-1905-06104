@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP study) (NP (NP (DT the) (NN relationship)) (PP (IN between) (NP (NP (NNS classes)) (PP (IN of) (NP (JJ computational) (NN complexity)))))) (PP (IN by) (S (VP (VBG searching) (PP (IN for) (NP (NP (JJ special) (NNS coverings)) (PP (IN of) (NP (DT the) (NNS sets))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (VBN mentioned) (NNS problems)) (VP (VBP are) (ADJP (RB polynomially) (JJ equivalent))) (. .))

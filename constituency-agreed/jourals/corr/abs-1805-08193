@@ -1,0 +1,1 @@
+(S (ADVP (RB Thus)) (, ,) (PP (IN by) (S (VP (VBG estimating) (NP (DT this) (NN matrix))))) (, ,) (NP (NNS classifiers)) (VP (MD can) (VP (VB escape) (PP (IN from) (S (VP (VBG overfitting) (NP (DT those) (JJ noisy) (NNS labels))))))) (. .))

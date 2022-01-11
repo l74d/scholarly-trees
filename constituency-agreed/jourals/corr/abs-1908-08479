@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS results)) (VP (VP (VBP demonstrate) (NP (NN robustness))) (CC and) (VP (VBP are) (VP (VBN backed) (PP (IN with) (NP (JJ provable) (JJ theoretical) (NNS guarantees)))))) (. .))
+(S (NP (PRP We)) (VP (VBP complement) (NP (PRP$ our) (JJ theoretical) (NNS findings)) (PP (IN with) (NP (NP (JJ empirical) (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBP showcase) (NP (NP (DT the) (NN potential)) (PP (IN of) (NP (DT the) (NN approach)))))))))) (. .))

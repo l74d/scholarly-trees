@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN network)) (VP (VP (VBZ reflects) (NP (NP (DT the) (JJ internal) (NN structure)) (PP (IN of) (NP (DT the) (NN program))))) (, ,) (CC and) (VP (VBZ defines) (NP (NP (DT the) (`` ``) (NN information) (NN flow) ('' '')) (PP (IN within) (NP (DT the) (NN program)))))) (. .))
+(S (NP (PRP We)) (VP (VBP believe) (SBAR (IN that) (S (NP (DT these) (NNS features)) (VP (VBP are) (ADJP (JJ generic) (PP (IN for) (NP (JJ large) (NN computer) (NNS programs)))))))) (. .))

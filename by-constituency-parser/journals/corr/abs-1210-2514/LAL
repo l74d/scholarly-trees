@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (JJ voltage-mode) (NN quadrature) (NN oscillator)) (VP (VBG using) (NP (NP (JJ minimum) (NN number)) (PP (IN of) (NP (ADJP (JJ active) (CC and) (JJ passive)) (NN component)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (VBN proposed) (NN circuit)) (VP (VBZ employs) (NP (NP (NP (JJ single) (VBN modified) (NNP DVCC)) (, ,) (NP (CD two) (VBD grounded) (NN capacitor)) (CC and) (NP (CD two) (VBD grounded) (NNS resistors))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ ideal) (PP (IN for) (NP (NNP IC) (NN implementation))))))))) (. .))
+(S (NP (DT The) (ADJP (JJ active) (CC and) (JJ passive)) (NN sensitivity)) (VP (VBP are) (ADJP (ADJP (DT no) (JJR more)) (PP (IN than) (NP (NN unity))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN circuit)) (VP (VBZ is) (VP (VBN verified) (PP (IN through) (NP (NNP PSPICE) (NN simulation) (NNS results))))) (. .))

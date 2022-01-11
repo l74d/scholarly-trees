@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS bounds)) (ADVP (RB still)) (VP (VBP hold) (SBAR (IN if) (S (NP (DT the) (JJ secret) (NN message)) (VP (VBZ has) (VP (VBN been) (VP (VBN compressed) (PP (IN before) (NP (NN encryption))))))))) (. .))
+(S (ADVP (RB Instead)) (, ,) (NP (DT this) (NN paper)) (VP (VBZ proposes) (CC and) (VBZ justifies) (NP (NP (DT a) (JJ new) (NN measure)) (PP (IN for) (NP (JJ key) (NN consumption) (NN rate))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN research)) (VP (VBZ shows) (SBAR (IN that) (S (PP (IN for) (NP (JJ large) (NNS datasets))) (, ,) (NP (DT the) (VBG resulting) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN produced) (PP (IN on) (NP (JJ modern) (NNS computers))) (PP (IN in) (NP (NP (DT a) (JJ tractable) (NN amount)) (PP (IN of) (NP (NN time))))))))))) (. .))

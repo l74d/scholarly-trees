@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN article)) (VP (VBZ introduces) (NP (ADJP (RB publicly) (JJ available)) (NNS datasets)) (PP (IN in) (NP (NP (NN scene) (NN text) (NN detection)) (CC and) (NP (NN recognition))))) (. .))
+(S (NP (DT The) (NN information)) (VP (VBZ is) (NP (QP (IN as) (IN of) (CD 2017)))) (. .))

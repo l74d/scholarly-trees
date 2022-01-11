@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ thorough) (NN evaluation)) (PP (IN of) (NP (NP (DT the) (NN attention) (NN mechanism)) (PP (IN for) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (NNP Argumentation) (NNP Mining)))))))) (VP (VBZ is) (VP (VBG missing) (, ,) (ADVP (RB though)))) (. .))
+(S (NP (PRP$ Our) (NNS findings)) (VP (VBP suggest) (SBAR (IN that) (S (PP (IN for) (NP (DT this) (NN task))) (NP (DT the) (JJ additional) (NN attention) (NN layer)) (VP (VBZ does) (RB not) (VP (VB improve) (PP (IN upon) (NP (DT a) (ADJP (RBR less) (JJ complex)) (NN approach)))))))) (. .))

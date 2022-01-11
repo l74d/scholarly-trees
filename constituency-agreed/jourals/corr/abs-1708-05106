@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN computation)) (PP (IN of) (NP (DT the) (NNP SVDD) (NN classifier)))) (VP (VBZ requires) (NP (DT a) (NN kernel) (NN function)))) (, ,) (CC and) (S (NP (DT the) (JJ Gaussian) (NN kernel)) (VP (VBZ is) (NP (NP (DT a) (JJ common) (NN choice)) (PP (IN for) (NP (DT the) (NN kernel) (NN function)))))) (. .))

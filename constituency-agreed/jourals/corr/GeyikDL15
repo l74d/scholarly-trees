@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN user)) (VP (MD will) (VP (VB fall) (PP (IN into) (NP (NP (DT the) (JJ same) (NN cluster)) (PP (IN with) (NP (DT another) (NN user))))) (SBAR (IN if) (S (NP (PRP$ their) (NN event) (NN history)) (VP (VBP are) (ADJP (JJ similar))))))) (. .))
+(S (NP (DT This) (NN assumption)) (VP (VBZ helps) (S (NP (PRP us)) (VP (TO to) (VP (VB identify) (NP (NP (DT a) (NN cluster)) (PP (IN of) (NP (DT a) (JJ new) (NN user)))) (PP (IN without) (S (VP (VBG re-clustering) (NP (PDT all) (DT the) (NNS users))))))))) (. .))

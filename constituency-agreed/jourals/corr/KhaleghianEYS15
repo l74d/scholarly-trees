@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ several) (NNS images)) (VP (VBD were) (VP (VBN taken) (ADVP (RB consequently)) (PP (IN in) (NP (NP (DT each) (NN stage)) (PP (IN of) (NP (DT this) (NN experiment))))) (S (VP (TO to) (VP (VB avoid) (NP (DT the) (NN noise) (NN effect))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NP (DT the) (NN correlation) (NNS coefficients)) (PP (IN between) (NP (PRP them)))) (VP (VBD were) (VP (VBN studied) (S (VP (VBG using) (NP (DT a) (NN computer) (NN code)))))) (. .))

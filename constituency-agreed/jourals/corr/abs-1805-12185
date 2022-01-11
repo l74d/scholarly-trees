@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (CC neither)) (, ,) (PP (IN by) (NP (PRP itself))) (, ,) (VP (VBZ is) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB defend) (PP (IN against) (NP (JJ sophisticated) (NNS attackers))))))))))) (. .))
+(S (NP (PRP$ Our) (NN work)) (VP (VBZ provides) (NP (NP (DT the) (JJ first) (NN step)) (PP (IN toward) (NP (NP (NNS defenses)) (PP (IN against) (NP (NP (NN backdoor) (NNS attacks)) (PP (IN in) (NP (JJ deep) (JJ neural) (NNS networks))))))))) (. .))

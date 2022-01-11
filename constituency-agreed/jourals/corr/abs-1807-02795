@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN error) (NN distribution)) (PP (IN of) (NP (NNS data) (NN fitting)))) (VP (VBZ is) (VP (VBN described) (PP (IN by) (NP (JJ Gaussian) (NN likelihood))))) (. .))
+(S (NP (DT The) (NN parameter) (NN distribution)) (VP (VBZ is) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (NP (DT a) (NNP Dirichlet) (NN distribution))))))) (. .))

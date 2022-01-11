@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP make) (NP (CD two) (NNS contributions))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN software) (NNS optimizations)) (SBAR (WHNP (WDT that)) (S (VP (VBP mitigate) (NP (DT these) (NNS inefficiencies))))))))) (. .))

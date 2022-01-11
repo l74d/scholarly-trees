@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (NN issue)) (SBAR (WHNP (WDT that)) (S (VP (VBZ limits) (NP (PRP$ their) (NN performance)))))) (VP (VBZ is) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ visual) (NN polysemy))))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN approach))))) (. .))

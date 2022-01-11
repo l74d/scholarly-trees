@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (DT these) (NNS methods)) (VP (VBP do) (RB not) (VP (VB guarantee) (NP (JJ precise) (NNS results)))))) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB be) (ADJP (ADJP (RB vastly) (RBR more) (JJ efficient)) (PP (IN than) (NP (NP (NNS approaches)) (SBAR (WHNP (WDT that)) (S (VP (VBP rely) (PP (IN on) (NP (JJ exact) (NN counting))))))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (ADJP (RB particularly) (JJ good)) (SBAR (WHADVP (WRB when)) (S (NP (NNS transactions)) (VP (VBP contain) (NP (JJ many) (NNS items)))))) (. .))

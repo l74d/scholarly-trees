@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN energy) (NNS games))) (, ,) (NP (DT the) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB ensure) (SBAR (IN that) (S (NP (NP (DT the) (VBG running) (NN sum)) (PP (IN of) (NP (NNS weights)))) (VP (VBZ is) (ADVP (RB always)) (ADJP (JJ nonnegative))))))))) (. .))

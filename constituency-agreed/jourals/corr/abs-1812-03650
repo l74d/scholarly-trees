@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP train) (NP (DT the) (NN learning) (NN model)) (S (VP (VBG using) (NP (NP (NN support) (NN vector) (NN machine)) (, ,) (NP (JJ multi-layer) (NN perceptron)) (CC and) (NP (JJ random) (NN forest)))))) (. .))

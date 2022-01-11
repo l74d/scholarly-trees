@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (SBAR (IN if) (S (NP (DT each) (NN agent)) (VP (VBZ has) (NP (NP (RB only) (DT a) (JJ finite) (NN amount)) (PP (IN of) (NP (NN memory))))))) (, ,) (NP (DT the) (NN simulation)) (VP (VBZ is) (ADJP (JJ possible)) (SBAR (RB only) (IN if) (S (NP (EX there)) (VP (VBP are) (NP (DT no) (NN omission) (NNS faults)))))) (. .))

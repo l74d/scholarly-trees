@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN network)) (VP (VP (VBZ gives) (NP (JJ reliable) (NNS predictions))) (CC and) (VP (VBZ has) (NP (NP (JJ good) (NN generalization) (NN performance)) (PP (IN on) (NP (JJ unseen) (NNS data))))))))) (. .))

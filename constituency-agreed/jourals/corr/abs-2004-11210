@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN simulator)) (VP (VBZ has) (NP (NP (DT an) (JJ excellent) (NN match)) (PP (IN with) (NP (NP (DT the) (NN theory)) (CC and) (NP (JJ real) (NN turbulence) (NNS data))))))))) (. .))

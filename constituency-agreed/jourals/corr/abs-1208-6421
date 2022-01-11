@@ -1,0 +1,2 @@
+(S (NP (NP (NN Anyone)) (SBAR (WHNP (WP who)) (S (VP (MD can) (VP (VB provide) (NP (DT a) (NN service))))))) (VP (MD will) (VP (VB need) (S (VP (TO to) (VP (VB register) (PP (IN with) (NP (NP (DT the) (NN registrar) (NN module)) (PP (IN of) (NP (DT the) (NN architecture)))))))))) (. .))
+(S (NP (DT This) (NN part)) (VP (VBZ is) (VP (VBN termed) (PP (IN as) (NP (NN solution) (NN development))))) (. .))

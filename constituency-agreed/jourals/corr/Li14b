@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (NN approach)) (VP (VBG computing) (NP (JJ weighted) (NN distance)) (S (VP (VBG considering) (NP (DT these) (JJ environmental) (NNS factors))))))) (. .))
+(S (NP (DT The) (NN solution)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (JJ other) (NNS scenarios)) (SBAR (WHNP (WDT that)) (S (VP (VBP need) (S (VP (TO to) (VP (VB consider) (NP (JJ environmental) (NNS factors))))))))))))) (. .))

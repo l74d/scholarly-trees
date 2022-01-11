@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ seems) (S (VP (TO to) (VP (VB limit) (NP (NP (DT both) (NN scalability) (CC and) (NN reach)) (PP (IN of) (NP (JJ such) (NNS tools)))) (PP (IN in) (NP (NN practice))))))) (. .))
+(S (NP (NP (PRP$ Our) (JJ experimental) (NNS results)) (PP (IN on) (NP (JJ standard) (NNS benchmarks)))) (VP (VBP demonstrate) (NP (NP (DT the) (NNS benefits)) (PP (IN of) (NP (DT this) (NN approach))))) (. .))

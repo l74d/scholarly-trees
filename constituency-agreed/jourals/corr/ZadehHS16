@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP revisit) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG learning) (NP (DT a) (JJ Euclidean) (JJ metric)) (PP (IN from) (NP (NNS data)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP approach) (NP (DT this) (NN problem)) (PP (IN from) (NP (JJ first) (NNS principles)))) (CC and) (VP (VB formulate) (NP (PRP it)) (PP (IN as) (NP (DT a) (ADJP (RB surprisingly) (JJ simple)) (NN optimization) (NN problem))))) (. .))

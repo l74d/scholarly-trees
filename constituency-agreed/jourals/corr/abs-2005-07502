@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (NP (PRP$ our) (NN modification)) (VP (VBZ has) (NP (NP (DT a) (VBG stabilizing) (NN effect)) (PP (IN on) (NP (NP (JJ non-convex) (NN optimization)) (PP (IN in) (NP (JJ adversarial) (NN training))))))) (. .))

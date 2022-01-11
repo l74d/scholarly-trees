@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN focus)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (PP (IN on) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NNS data) (NN leakage)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ proposes) (NP (NP (DT a) (NN framework)) (SBAR (WHNP (WDT which)) (S (VP (VBZ works) (PP (IN in) (NP (CD two) (NNS phases)))))))) (. .))

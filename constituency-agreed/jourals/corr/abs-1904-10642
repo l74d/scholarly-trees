@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB verify) (NP (DT the) (JJ combined) (NN method)) (PP (IN on) (NP (DT the) (NNP OpenAI) (NNP Gym) (NN pendulum) (NN toy) (NN problem)))) (. .))

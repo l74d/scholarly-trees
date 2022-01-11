@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN capacity)) (PP (IN of) (NP (NN list) (NN decoding)))) (VP (VBD was) (VP (VBN obtained) (PP (IN by) (NP (NNP Nishimura))) (PP (IN in) (NP (NP (DT the) (NN case)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN list)))) (VP (VBZ does) (RB not) (VP (VB increase) (ADVP (RB exponentially)))))))))) (. .))
+(S (NP (DT The) (JJ direct) (NN part)) (VP (VBZ is) (VP (VBN derived) (PP (IN by) (NP (DT a) (ADJP (RB quite) (JJ simple)) (NN argument))))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN By) (S (VP (VBG presenting) (NP (DT an) (JJ algorithmic) (NN method))))) (NP (NP (DT a) (JJ new) (NN kind)) (PP (IN of) (NP (NN information) (NN topology)))) (VP (VBZ is) (VP (VBN defined) (CC and) (VBN considered))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (ADJP (JJ open) (CC and) (JJ compact)) (NN information) (NNS systems)) (VP (VBP are) (VP (VBN taken) (PP (IN into) (NP (NN consideration))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN proved) (SBAR (IN that) (S (NP (NP (DT a) (JJ finite) (NN product)) (PP (IN of) (NP (JJ compact) (NN information) (NNS systems)))) (VP (VBZ is) (NP (DT a) (JJ compact) (NN information) (NN system))))))) (. .))

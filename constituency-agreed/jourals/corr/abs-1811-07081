@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ key) (NNS issues)) (VP (VBP are) (SBAR (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB extract) (NP (JJ discriminative) (NNS features)))))) (CC and) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB design) (NP (DT the) (NN classification) (NN model)))))))) (. .))

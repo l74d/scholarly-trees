@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ allows) (, ,) (PP (ADVP (RB especially)) (IN for) (NP (JJ environmental) (NNS simulations))) (, ,) (NP (NP (NNS computations)) (PP (IN with) (NP (NP (JJR larger) (NN domain) (NNS sizes)) (CC and) (NP (JJR better) (NN resolution)))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (NNS challenges)) (VP (VBG becoming) (ADJP (RB increasingly) (JJ important)))))) (VP (VBZ is) (NP (NP (DT the) (NN decomposition) (CC and) (NN distribution)) (PP (IN of) (NP (DT the) (JJ overall) (NN work) (NN load))))) (. .))

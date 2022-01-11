@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN image) (NN recognition))) (, ,) (S (VP (VBG learning) (NP (ADJP (RB spatially) (JJ invariant)) (NNS features)))) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN factor)) (PP (IN in) (S (VP (VBG improving) (NP (NN recognition) (NN performance) (CC and) (NN robustness))))))) (. .))

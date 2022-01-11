@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN destination)) (VP (VBZ is) (NP (DT a) (JJ mobile) (NN display))))) (NP (PRP it)) (VP (VBZ is) (RB not) (VP (VBN displayed) (PP (IN on) (NP (DT the) (NN map))))) (. .))
+(S (ADVP (RB Instead)) (NP (NNS users)) (VP (MD can) (VP (VB select) (NP (NP (DT the) (NN screen) (POS 's)) (NN name)) (PP (IN from) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (DT all) (JJ possible) (NN destination) (NNS displays))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (JJ transient) (NNS errors)) (PP (IN of) (NP (DT the) (NNP BDEC)))) (VP (VBP are) (NP (NNS erasures)))) (CC and) (S (NP (NP (DT the) (NNP BDSC) (POS 's)) (JJ transient) (NNS errors)) (VP (VBP are) (VP (VBN modeled) (PP (IN by) (NP (DT the) (JJ binary) (JJ symmetric) (NN channel))) (, ,) (ADVP (RB respectively))))) (. .))

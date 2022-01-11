@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT the) (JJ next) (CD two) (NNS chapters))) (NP (DT these) (CD two) (NNS definitions)) (VP (VBP are) (VP (VBN given))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ third) (NN chapter))) (NP (PRP we)) (VP (MD will) (VP (VB look) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (CD two) (NNS definitions)) (VP (VBP agree)))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP give) (NP (DT a) (NN conclusion))) (. .))

@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP reformulate) (NP (NP (DT the) (NN method)) (VP (VBN presented) (PP (IN in) (NP (NNP App)))))) (. .))
+(INTJ (NNP Opt) (. .))
+(NP (NP (CD 53:2297)) (PRN (-LRB- -LRB-) (NP (CD 2014)) (-RRB- -RRB-)) (PP (IN as) (NP (NP (DT a) (JJ constrained) (NN minimization) (NN problem)) (VP (VBG using) (NP (DT the) (JJ augmented) (JJ Lagrangian) (NN method))))) (. .))
+(S (ADVP (RB First)) (NP (PRP we)) (VP (VP (VBP introduce) (NP (DT the) (JJ new) (NN method))) (CC and) (ADVP (RB then)) (VP (VB describe) (NP (NP (DT the) (JJ numerical) (NN solution)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (NNS results) (PP (IN in) (NP (DT a) (JJ simple) (NN algorithm))))))))) (. .))
+(S (NP (NP (JJ Numerical) (NNS experiments)) (PP (IN with) (NP (ADJP (DT both) (JJ synthetic) (CC and) (JJ real)) (NN fringe) (NNS patterns)))) (VP (VBP show) (NP (NP (DT the) (NN accuracy) (CC and) (NN simplicity)) (PP (IN of) (NP (DT the) (VBG resulting) (NN algorithm))))) (. .))

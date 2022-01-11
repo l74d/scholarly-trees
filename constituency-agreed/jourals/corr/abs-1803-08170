@@ -1,0 +1,1 @@
+(S (NP (PRP They)) (VP (VP (VBP are) (ADJP (JJ uncertain) (PP (IN about) (NP (DT the) (JJ underlying) (NN distribution))))) (CC and) (VP (VB learn) (NP (PRP$ its) (NNS parameters)) (PP (IN from) (NP (NNS predecessors))))) (. .))

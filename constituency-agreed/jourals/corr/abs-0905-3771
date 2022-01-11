@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ examines) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG accessing) (NP (DT a) (NN vector) (NN memory)) (PP (IN from) (NP (NP (DT a) (JJ single) (NN neuron)) (PP (IN in) (NP (DT a) (JJ Hebbian) (JJ neural) (NN network)))))))))) (. .))
+(S (NP (NP (DT Some) (JJ open) (NNS issues)) (VP (VBN associated) (PP (IN with) (NP (DT this) (NN approach))))) (VP (VBP are) (VP (VBN identified))) (. .))

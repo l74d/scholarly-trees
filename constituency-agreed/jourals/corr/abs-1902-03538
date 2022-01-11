@@ -1,0 +1,2 @@
+(S (NP (JJ Previous) (NN literature)) (VP (VBD suggested) (SBAR (IN that) (S (NP (NP (DT the) (NNS goals)) (PP (IN of) (NP (NN robustness) (CC and) (NN compactness)))) (VP (MD might) (ADVP (RB sometimes)) (VP (VB contradict)))))) (. .))
+(S (NP (DT An) (JJ efficient) (NN algorithm)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN developed))) (. .))

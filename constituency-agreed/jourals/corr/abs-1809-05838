@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN controller)) (VP (VBZ is) (VP (VBN designed) (PP (IN with) (NP (JJ extensible) (NN decision) (NN support) (NNS components))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP it)) (PP (IN in) (NP (NP (DT a) (NN simulation)) (VP (VBG using) (NP (NP (JJ historical) (NNS traces)) (PP (IN of) (NP (NN electricity) (NNS prices) (CC and) (NNS temperatures)))))))) (. .))

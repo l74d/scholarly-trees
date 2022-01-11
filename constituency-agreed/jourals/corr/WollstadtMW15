@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ produces) (NP (NP (DT a) (ADJP (RB statistically) (JJ conservative)) (NN network) (NN approximation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB contain) (NP (JJ non-spurious) (NNS interactions)) (ADVP (RB only))))))))))) (. .))

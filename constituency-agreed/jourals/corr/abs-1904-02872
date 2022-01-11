@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ new) (NN loss) (NN function)) (VP (VBZ enables) (NP (ADJP (JJ semi-supervised) (CC and) (JJ unsupervised)) (NN segmentation)))))) (. .))

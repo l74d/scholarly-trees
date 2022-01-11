@@ -1,0 +1,2 @@
+(S (NP (NP (NN Item) (NNS representations)) (PP (IN in) (NP (NN recommendation) (NNS systems)))) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB reveal) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NNS items))))))))) (. .))
+(S (NP (JJ Collaborative) (NN recommender) (NNS methods)) (ADVP (RB usually)) (VP (VBP represent) (NP (DT an) (NN item)) (PP (IN as) (NP (CD one) (JJ single) (NN latent) (NN vector)))) (. .))

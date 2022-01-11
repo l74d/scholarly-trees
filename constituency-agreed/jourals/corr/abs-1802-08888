@@ -1,0 +1,1 @@
+(S (ADVP (RB Concurrently)) (, ,) (NP (NP (JJ unsupervised) (NN learning)) (PP (IN of) (NP (NN graph) (NNS embeddings)))) (VP (VBZ has) (VP (VBN benefited) (PP (IN from) (NP (NP (DT the) (NN information)) (VP (VBN contained) (PP (IN in) (NP (JJ random) (NNS walks)))))))) (. .))

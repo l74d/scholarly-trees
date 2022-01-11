@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP estimate) (NP (NP (DT the) (NN schedulability)) (PP (IN of) (NP (NP (NNS applications)) (PP (IN at) (NP (JJ different) (NNS frequencies))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ general) (NN problem) (NN description)) (, ,) (NP (DT the) (VBN proposed) (NN schedulability) (NN estimation) (NN method)) (, ,) (NP (PRP$ its) (NN analysis) (CC and) (NN evaluation)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ works) (PP (IN for) (NP (NP (DT the) (JJ infinite) (NNS data) (NN stream)) (SBAR (WHADVP (WRB where)) (S (NP (NP (QP (JJR more) (IN than) (CD one)) (NN pass)) (PP (IN over) (NP (DT the) (NNS data)))) (VP (VBZ is) (RB not) (ADJP (JJ feasible)))))))) (. .))

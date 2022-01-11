@@ -1,0 +1,2 @@
+(S (PP (IN Within) (NP (DT this) (NN analysis))) (, ,) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT the) (NN optimization) (NN horizon)))) (VP (VBZ is) (NP (NP (DT the) (NN parameter)) (SBAR (S (NP (PRP we)) (VP (VBP wish) (S (VP (TO to) (VP (VB adapt))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP develop) (CC and) (VBP prove) (NP (NP (JJ several) (NN shortening) (CC and) (NN prolongation) (NNS strategies)) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBP allow) (PP (IN for) (NP (DT an) (JJ effective) (NN implementation)))))))) (. .))

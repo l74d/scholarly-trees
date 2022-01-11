@@ -1,0 +1,2 @@
+(S (NP (NP (NN Compliance)) (PP (IN with) (NP (NP (DT each)) (PP (IN of) (NP (DT these) (NNS sections)))))) (VP (VBZ is) (ADJP (JJ dependent) (PP (IN on) (S (VP (VBG maintaining) (NP (NP (DT the) (NN integrity)) (PP (IN of) (NP (NP (DT those) (NNS spreadsheets)) (VP (VBG acting) (PP (IN as) (NP (JJ operational) (NNS applications)))))))))))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (UCP (ADVP (RB manually)) (CC but) (PP (IN at) (NP (JJ high) (NN cost))))))) (. .))

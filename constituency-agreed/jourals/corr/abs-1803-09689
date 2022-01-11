@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD performed) (NP (DT a) (NN study)) (PP (IN with) (NP (NP (DT a) (JJ professional) (NN tennis) (NN coach)) (CC and) (NP (CD two) (NNS players))))) (. .))
+(S (NP (PRP We)) (VP (VBD trained) (NP (JJ multiple) (NNS models)) (S (VP (VBG using) (NP (NP (DT the) (NNS wearables) (NNS data)) (CC and) (NP (DT the) (NN coach) (NNS labels)))))) (. .))

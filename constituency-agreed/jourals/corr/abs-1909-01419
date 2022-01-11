@@ -1,0 +1,1 @@
+(S (S (VP (VBG Checking) (NP (DT this) (NN condition)))) (VP (VBZ requires) (NP (NP (DT the) (NN comparison)) (PP (IN of) (NP (NP (DT the) (NN eigendecomposition)) (PP (IN of) (NP (NP (NNS matrices)) (SBAR (WHNP (WP$ whose) (NN size)) (S (VP (VBZ grows) (PP (IN with) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN dictionary)))))))))))))) (. .))

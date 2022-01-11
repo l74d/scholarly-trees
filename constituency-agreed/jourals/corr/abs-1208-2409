@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (NN need)) (PP (IN for) (NP (NP (NN monitoring)) (PP (IN of) (NP (NNP Health) (NNS issues))))))) (. .))
+(S (NP (NP (NNS Data)) (PP (IN of) (NP (JJ medical) (JJ related) (NNS diseases)))) (VP (VBZ is) (VP (VBN sent) (PP (IN through) (NP (CD three) (JJ different) (NNS paths))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ arises) (PP (IN in) (NP (NP (JJ many) (JJ practical) (NNS domains)) (, ,) (PP (VBG including) (NP (NN biology) (CC and) (NN architecture)))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (CD three) (NNS instantiations)) (, ,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ permits) (NP (JJ practical) (NN implementation))))))) (. .))
+(S (NP (JJ Extensive) (JJ empirical) (NN evaluation)) (VP (VBZ shows) (NP (NP (DT the) (NN potential)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

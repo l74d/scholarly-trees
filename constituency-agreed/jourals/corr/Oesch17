@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (NN method)) (PP (IN for) (NP (JJ automatic) (NN program) (NN synthesis))))) (. .))
+(S (PP (IN From) (NP (DT this) (NN prototype) (NN tree))) (NP (PRP we)) (VP (VBP form) (NP (NP (NN program) (NNS instances)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP evaluate) (PP (IN on) (NP (DT a) (VBN given) (NN problem)))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN employed) (PP (IN for) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (JJ typical) (JJ computational) (NN intelligence) (NNS tasks)) (PP (JJ such) (IN as) (NP (NP (NN classification)) (, ,) (NP (JJ automatic) (NN program) (NN induction)) (, ,) (CC and) (NP (JJ symbolic) (NN regression))))))))))) (. .))

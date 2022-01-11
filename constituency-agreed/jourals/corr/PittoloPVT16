@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN focus)) (VP (VBZ is) (PP (IN on) (NP (NP (CD two) (NNS scenarios)) (: :) (NP (NP (DT an) (JJ electric) (NN car)) (CC and) (NP (DT a) (NN cruise) (NN ship)))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NP (JJ new) (NNS results)) (PP (IN from) (NP (NP (DT the) (JJ statistical) (NN analysis)) (PP (IN of) (NP (NP (NNS measurements)) (VP (VBN made) (PP (PP (IN in) (NP (DT a) (JJ compact) (JJ electric) (NN car))) (CC and) (PP (IN in) (NP (DT a) (JJ large) (NN cruise) (NN ship)))))))))) (VP (VBP are) (VP (VBN shown))) (. .))

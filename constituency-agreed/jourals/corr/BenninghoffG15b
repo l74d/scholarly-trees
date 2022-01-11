@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ parametric) (NN scheme)) (SBAR (WHNP (WDT which)) (S (VP (VBZ describes) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (JJ parametric) (NNS surfaces))))))))) (. .))
+(S (NP (DT An) (JJ efficient) (JJ finite) (NN element) (NN scheme)) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (NP (NP (DT a) (JJ numerical) (NN approximation)) (PP (IN of) (NP (DT the) (NN evolution) (NNS equations))))))) (. .))

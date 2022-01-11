@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NNP POS) (NNS taggers)) (VP (VBP are) (VP (VP (VBN trained) (PP (IN in) (NP (CD one) (NN domain)))) (CC and) (VP (VBN applied) (PP (IN in) (NP (ADJP (RB significantly) (JJ different)) (NNS domains)))))))) (, ,) (NP (PRP$ their) (NN performance)) (VP (MD can) (VP (VB degrade) (ADVP (RB dramatically)))) (. .))

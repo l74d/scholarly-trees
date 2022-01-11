@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP have) (VP (VBN presented) (NP (DT a) (NN hand) (NN gesture) (NN recognition) (NN library)))) (. .))
+(S (S (VP (TO To) (VP (VB use) (NP (DT these) (NNS functions)) (ADVP (RB first))))) (NP (DT the) (NN input) (NN image)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBN processed) (PP (IN into) (NP (NP (DT a) (JJ logical) (NN array)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT a) (NN function)) (VP (VBZ has) (VP (VBN been) (VP (VBN developed))))))))))))) (. .))

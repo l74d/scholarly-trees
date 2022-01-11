@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (ADVP (RB then)) (VP (VBZ describes) (NP (NP (JJ various) (NNS techniques)) (SBAR (WHPP (IN by) (WHNP (WDT which))) (S (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (DT these) (NNS assumptions)))) (VP (MD can) (VP (VB be) (VP (VBN mitigated)))))))) (. .))
+(S (PP (IN Despite) (NP (NP (DT the) (NN progress)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN made)))))))) (, ,) (NP (NP (DT the) (NNS limitations)) (PP (IN of) (NP (JJ current) (NN modelling) (NNS techniques)))) (VP (VBP are) (ADVP (RB still)) (ADJP (JJ evident))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN concept)) (PP (IN of) (`` ``) (NP (VBN lost) (NNS positions)) ('' ''))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB recently) (VBN introduced)) (NN tool)) (PP (IN for) (S (VP (VBG counting) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS runs))) (PP (IN in) (NP (NNS words))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NN frequency)) (PP (IN of) (NP (NP (VBN lost) (NNS positions)) (PP (IN in) (NP (NP (NNS prefixes)) (PP (IN of) (NP (NNS words))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN computation)) (VP (VBZ is) (VP (VBN modelled) (PP (IN by) (NP (NP (DT a) (NN functor)) (SBAR (WHNP (WDT that)) (S (VP (VBZ encodes) (S (VP (VBG updating) (NP (DT the) (NN computation)))))))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP give) (NP (NP (DT an) (JJ abstract) (NN account)) (PP (IN of) (NP (JJ such) (NNS functors)))))) (. .))

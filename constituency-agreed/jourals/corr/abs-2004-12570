@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ particular) (NN instantiation)) (PP (IN of) (NP (PDT such) (DT a) (NN system)))) (, ,) (S (VP (VBG using) (NP (JJ dexterous) (NN manipulation)) (PP (IN as) (NP (PRP$ our) (NN case) (NN study)))))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS challenges)) (SBAR (WHNP (WDT that)) (S (VP (VBP come) (PRT (RP up)) (SBAR (WHADVP (WRB when)) (S (VP (VBG learning) (PP (IN without) (NP (NN instrumentation))))))))))))) (. .))

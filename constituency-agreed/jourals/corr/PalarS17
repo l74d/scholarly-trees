@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN analysis)) (VP (VBZ becomes) (ADJP (JJ problematic)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN dimensionality)) (PP (IN of) (NP (DT the) (NN problem)))) (VP (VBZ is) (ADJP (JJ high)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ active) (NNS subspaces)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB perform) (NP (NN design) (NN exploration) (CC and) (NN analysis))))))))))) (. .))

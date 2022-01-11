@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ Non-Local) (NNP Block)) (VP (VBZ has) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB extract) (NP (JJ global) (NNS features)) (PP (IN without) (S (VP (VBG using) (NP (NP (DT a) (JJ huge) (NN number)) (PP (IN of) (NP (NNS parameters)))))))))))) (. .))

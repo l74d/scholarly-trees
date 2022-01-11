@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN node)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT an) (NN estimator)) (PP (IN with) (NP (NP (JJ partial) (NN observation)) (PP (IN of) (NP (NP (DT the) (NN system) (POS 's)) (NN state)))))))) (. .))
+(S (PP (IN During) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NN algorithm))))) (, ,) (NP (DT each) (NN node)) (VP (VBZ communicates) (PP (IN with) (NP (PRP$ its) (NNS neighbors))) (PP (IN by) (S (VP (VBG sharing) (NP (JJ pre-processed) (NN information)))))) (. .))

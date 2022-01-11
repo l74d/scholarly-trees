@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN tool)) (VP (VBZ leverages) (PP (IN on) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN mutation) (NNS operators)) (SBAR (WHNP (WDT that)) (S (VP (VBP alter) (NP (NP (DT the) (NN syntax)) (PP (IN of) (NP (DT a) (NN payload)))) (PP (IN without) (S (VP (VBG affecting) (NP (DT the) (JJ original) (NNS semantics))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (NN problem)) (VP (VBP are) (VP (VBN studied) (S (VP (TO to) (VP (VB depict) (NP (PRP$ their) (NNS properties))))))) (. .))
+(S (NP (NP (DT A) (JJ classical) (NN decision) (NN problem)) (NP (NNP SAT))) (VP (VBZ is) (VP (VBN studied) (PP (IN in) (NP (NN detail))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (DT this)) (PP (IN by) (S (VP (VBG presenting) (NP (NP (DT a) (JJ second) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ requires) (NP (JJR less) (NN storage)))))))))) (. .))
+(S (NP (NN Implementation) (NNS issues)) (VP (VBP are) (ADVP (RB also)) (VP (VBN addressed))) (. .))

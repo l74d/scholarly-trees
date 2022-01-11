@@ -1,0 +1,1 @@
+(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (DT a) (VBN shared) (JJ deep) (NN encoder)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB extract) (NP (NP (NNS features)) (PP (IN for) (NP (DT both) (NNS tasks)))) (PP (IN by) (S (VP (VBG leveraging) (NP (JJ complementary) (NN information)))))))))) (. .))

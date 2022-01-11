@@ -1,0 +1,1 @@
+(S (ADVP (RB Typically)) (NP (DT a) (NN profiler)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB find) (NP (NP (NN program) (NN code) (NN execution)) (SBAR (WHNP (WDT which)) (S (VP (VBZ represents) (NP (NP (DT a) (JJ large) (NN portion)) (PP (IN of) (NP (NP (DT the) (JJ overall) (NN execution) (NN cost)) (PP (IN of) (NP (DT a) (NN program)))))))))))))))) (. .))

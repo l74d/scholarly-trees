@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP aim) (S (VP (TO to) (VP (VB solve) (NP (DT these) (NNS problems)))))) (. .))
+(S (S (NP (PRP$ Our) (NN system)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ generative) (JJ adversarial) (NNS networks)))))) (, ,) (CC and) (S (NP (DT the) (NNS networks)) (VP (VBP are) (VP (VBN trained) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN manner)))))) (. .))

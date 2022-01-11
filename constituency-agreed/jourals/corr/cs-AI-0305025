@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBD was) (VP (VBN done) (PP (IN by) (S (VP (VBG minimizing) (NP (DT a) (NN metaconflict) (NN function))))))) (. .))
+(S (NP (DT This) (JJ gradual) (NN determination)) (VP (VBZ is) (VP (VBN fed) (ADVP (RB back) (PP (IN into) (NP (DT the) (JJ neural) (NN structure)))) (PP (IN at) (NP (DT each) (NN iteration))) (S (VP (TO to) (VP (VB influence) (NP (DT the) (NN clustering) (NN process))))))) (. .))

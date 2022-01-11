@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN method)) (VP (VP (VBZ is) (ADJP (NN network) (JJ agnostic))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (DT any) (JJ similar) (NN classification) (NNS tasks))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG deploying) (NP (JJ new) (NN technology)) (PP (IN without) (NP (NP (NN security)) (PP (IN in) (NP (NN mind))))))) (VP (VBZ has) (ADVP (RB often)) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (ADJP (RB unreasonably) (JJ dangerous))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP it)) (VP (VBZ limits) (NP (NP (DT the) (NN security) (NN impact)) (PP (IN of) (NP (NP (DT some) (NNS attacks)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (RB not) (VP (VB be) (VP (VBN prevented)))))))))) (. .))

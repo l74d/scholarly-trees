@@ -1,0 +1,2 @@
+(S (NP (JJ Automatic) (NN object) (NN detection)) (VP (VBZ is) (ADJP (JJ important)) (SBAR (IN because) (S (NP (DT a) (NN person)) (VP (MD can) (RB not) (VP (VB monitor) (NP (JJ multiple) (NN surveillance) (NNS screens)) (ADVP (RB simultaneously)) (PP (IN for) (NP (CD 24) (NNS hours)))))))) (. .))
+(S (S (NP (PRP$ Our) (NN system)) (VP (VBD detected) (NP (DT the) (NN target)) (PP (IN within) (NP (CD 8) (NNS seconds))))) (, ,) (CC but) (S (NP (DT the) (JJ human) (NN eye)) (VP (VBD detected) (NP (DT the) (NN target)) (PP (IN within) (NP (CD 25) (NNS seconds))))) (. .))

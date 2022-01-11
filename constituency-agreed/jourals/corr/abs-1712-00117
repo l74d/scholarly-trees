@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (JJ Gaussian) (NNS processes)) (VP (MD can) (VP (VB help) (S (VP (VB model) (NP (DT the) (JJ female) (JJ menstrual) (NN cycle))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NNS implications)) (PP (IN of) (NP (PRP$ our) (NNS experiments)))) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (S (VP (VBG modeling) (NP (DT the) (JJ female) (JJ menstrual) (NN cycle)))))))) (. .))

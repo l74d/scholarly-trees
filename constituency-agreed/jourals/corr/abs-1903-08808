@@ -1,0 +1,2 @@
+(S (NP (JJ Multiple) (NN pre-processing) (NNS techniques)) (VP (VBD were) (ADVP (RB also)) (VP (VBN investigated))) (. .))
+(S (NP (PRP It)) (VP (VBD was) (VP (VBN found) (SBAR (IN that) (S (NP (NN model) (NN complexity)) (VP (VBD did) (RB not) (ADVP (RB necessarily)) (VP (VB yield) (NP (JJR better) (NNS results)))))))) (. .))

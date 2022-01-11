@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Resources)) (VP (VBN found) (PP (IN in) (NP (DT each) (NNP PW))))) (VP (VBP are) (VP (VBN registered))) (. .))
+(S (ADVP (RB However)) (, ,) (S (NP (PRP we)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (JJ perfect) (NN recording)) (PP (IN of) (NP (NNS resources)))) (VP (MD may) (VP (VB be) (ADJP (JJ costly)))))))) (, ,) (CC and) (S (ADVP (RB hence)) (, ,) (NP (NP (JJ probabilistic) (NNS structures)) (PP (IN like) (NP (NNP Bloom) (NNS filters)))) (VP (VBP are) (VP (VBN used)))) (. .))

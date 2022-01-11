@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN framework)) (VP (VBZ embeds) (NP (NP (DT a) (JJ learnable) (NN decision) (NN mechanism)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN plugged) (PP (IN into) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (ADJP (RB already) (VBG existing)) (NNS models)))))))))))) (. .))

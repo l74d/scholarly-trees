@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (ADJP (RB very) (JJ little)) (NN work)) (VP (VBZ has) (VP (VBN focused) (PP (IN on) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NNS data) (NNS sets))))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (NNS data) (NN quality)) (VP (VBZ determines) (NP (NN model) (NN quality))) (. .))

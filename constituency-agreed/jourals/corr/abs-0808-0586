@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ methodological) (NN originality)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT all) (NNS results)) (VP (VBP have) (VP (VBN been) (VP (VBN proved) (S (VP (VBG using) (NP (DT the) (NNP Coq) (NN proof) (NN assistant)))))))))) (. .))

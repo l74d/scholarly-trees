@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (NNS properties)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN as) (NP (JJ inductive) (NNS invariants))))))))))) (. .))
+(S (NP (NNP System) (NNS descriptions) (CC and) (NNS certificates)) (VP (VBP are) (VP (VBN generated) (CC and) (VBN handled) (S (VP (VBG using) (NP (DT the) (NNP COQ) (NN proof) (NN assistant)))))) (. .))

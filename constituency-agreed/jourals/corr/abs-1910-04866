@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN estimation)) (PP (IN of) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (JJ infiltrated) (NN fat)))))) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN done) (ADVP (RB visually)) (PP (IN by) (NP (NNS experts))))) (. .))
+(S (NP (JJ Several) (JJ algorithmic) (NNS solutions)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN for) (NP (JJ automatic) (NN segmentation)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ genetic) (NN programming) (NN system)) (VP (VBZ is) (VP (VBN created))) (. .))
+(S (NP (DT A) (JJ first) (NN fitness) (NN function) (NN f1)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB evolve) (NP (NP (DT a) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (VBZ implements) (NP (DT a) (JJ first) (NN feature))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Nowadays)) (, ,) (S (VP (VBG studying) (NP (NNS introns)))) (VP (VBZ is) (VP (VBG becoming) (NP (NP (DT a) (ADJP (RB very) (JJ promising)) (NN field)) (PP (IN in) (NP (DT the) (NNS genomics)))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (NN analysis)) (PP (IN of) (NP (DT the) (NNPS C.elegans) (NNS introns)))))) (. .))

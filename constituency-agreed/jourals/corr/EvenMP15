@@ -1,0 +1,1 @@
+(S (S (NP (NN Traffic)) (VP (VBZ is) (VP (VBN constrained) (PP (IN by) (NP (NP (NN link) (NNS capacities)) (CC and) (NP (NN buffer) (NNS sizes))))))) (, ,) (CC and) (S (NP (NNS packets)) (VP (MD may) (VP (VB be) (VP (VBN dropped) (PP (IN at) (NP (DT any) (NN time))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (NN challenge)) (PP (IN for) (NP (DT these) (NNS systems)))) (VP (VBZ is) (S (VP (TO to) (VP (VB detect) (NP (NN malpractice)))))) (. .))
+(S (NP (NP (DT The) (NNS data)) (VP (VBN used) (PP (IN for) (NP (NN speaker) (NN enrolment) (CC and) (NN verification))))) (VP (VBZ is) (ADVP (RB mainly)) (VP (VBN taken) (PP (IN from) (NP (NP (DT the) (NNP BULATS) (NN test)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ assesses) (NP (NP (JJ English) (NN language) (NNS skills)) (PP (IN for) (NP (NN business))))))))))) (. .))

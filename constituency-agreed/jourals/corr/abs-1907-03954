@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (JJ large) (JJ real) (JJ clinical) (NNS data)))) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN design))))) (. .))
+(S (NP (DT The) (NN dataset)) (VP (MD will) (VP (VB be) (VP (VBN released) (ADVP (RB soon)) (S (VP (TO to) (VP (VB facilitate) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (DT the) (NN area)))))))))) (. .))

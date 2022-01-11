@@ -1,0 +1,2 @@
+(S (NP (NP (NN Signature) (VBG coding)) (PP (IN for) (NP (NP (JJ multiple) (NN access)) (CC OR) (NP (NN channel))))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN in) (NP (NN block) (ADJP (JJ asynchronous)) (NN case))) (NP (DT the) (JJ upper) (ADJP (VBN bound) (PP (IN on) (NP (DT the) (JJ minimum) (NN code)))) (NN length)) (ADVP (RB asymptotically)) (VP (VBZ is) (NP (DT the) (JJ same)) (PP (IN as) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ synchronous) (NN access)))))))))) (. .))

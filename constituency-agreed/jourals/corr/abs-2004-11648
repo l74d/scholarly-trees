@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ solves) (NP (DT the) (JJ fake) (NN news) (NN detection) (NN problem)) (PP (IN under) (NP (NP (DT a) (ADJP (RBR more) (JJ realistic)) (NN scenario)) (PP (IN on) (NP (JJ social) (NNS media)))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN case) (NNS studies)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP GCAN)) (VP (MD can) (VP (VB produce) (NP (JJ reasonable) (NNS explanations))))))) (. .))

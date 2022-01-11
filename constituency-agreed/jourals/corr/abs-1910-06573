@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB improve) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NN classifier))))))) (, ,) (NP (CD three) (NNS techniques)) (VP (VBP are) (VP (VBN used))) (. .))
+(S (PP (IN With) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (DT the) (JJ outside) (NN training) (NNS samples))))) (, ,) (NP (DT the) (NN detection) (NN accuracy)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN improved))) (. .))

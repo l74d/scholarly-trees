@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ provides) (NP (NP (DT an) (JJ additional) (NN step)) (PP (IN in) (NP (NP (DT the) (JJ theoretical) (NN understanding)) (PP (IN of) (NP (JJ neural) (NNS networks))))))) (. .))
+(S (NP (NP (DT The) (NN proof)) (PP (IN of) (NP (NN convergence)))) (VP (VBZ investigates) (NP (NP (DT the) (NN interaction)) (PP (IN between) (NP (NP (DT the) (CD two) (NNS layers)) (PP (IN of) (NP (DT the) (NN network))))))) (. .))

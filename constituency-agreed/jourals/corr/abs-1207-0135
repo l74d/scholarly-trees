@@ -1,0 +1,1 @@
+(S (S (VP (VBG Suppressing) (CC or) (VBG generalizing) (NP (NN anonymization) (NNS methods)))) (VP (MD would) (VP (VB remove) (NP (NP (NP (DT the) (ADJP (RBS most) (JJ valuable)) (NN information)) (PP (IN in) (NP (DT the) (NN dataset)))) (: :) (NP (DT the) (JJ original) (NN query) (NNS terms))))) (. .))

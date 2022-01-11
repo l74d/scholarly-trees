@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (NN evaluation)) (PP (IN on) (NP (JJ real) (NNS data))))) (, ,) (NP (PRP we)) (VP (VBP choose) (NP (NP (NNP BabyTrain) (NN corpus)) (SBAR (WHNP (WDT which)) (S (VP (VBZ consists) (PP (IN of) (NP (NP (NNS children) (NNS recordings)) (PP (IN in) (NP (JJ uncontrolled) (NNS environments)))))))))) (. .))

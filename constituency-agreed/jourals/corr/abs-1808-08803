@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP make) (NP (CD two) (NNS contributions))) (. .))
+(S (NP (NP (DT Each) (NN vector)) (PP (IN in) (NP (DT the) (NN matrix)))) (VP (VBZ represents) (NP (NP (DT a) (NN video) (NN frame)) (VP (VBN conditioned) (PP (IN by) (NP (DT the) (NN description)))))) (. .))

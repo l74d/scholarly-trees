@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN cluster) (VBG merging) (NN method)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB resolve) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN cluster) (NN validation))))))))) (. .))
+(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (DT the) (JJ principal) (NNS components)))) (VP (VBZ is) (VP (VBN determined) (ADVP (RB automatically)) (PP (IN from) (NP (NP (DT the) (NNS data)) (VP (VBG being) (VP (VBN clustered))))))) (. .))

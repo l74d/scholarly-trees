@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNS researches)) (VP (VBP have) (VP (VBN been) (VP (VBN done) (PP (IN in) (NP (DT this) (NN field)))))) (. .))
+(S (NP (NNP Gene) (NN prioritization) (NNS methods)) (VP (VBP integrate) (NP (JJ several) (NNS data) (NNS sources)) (S (VP (TO to) (VP (VB discover) (CC and) (VB prioritize) (NP (DT the) (ADJP (RBS most) (JJ probable)) (NN candidate) (NN disease) (NNS genes)))))) (. .))

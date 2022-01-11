@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN colon) (NN deformation) (NN estimation) (NN method)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB estimate) (NP (NN colon) (NNS deformations)) (PP (IN during) (NP (NN colonoscope) (NNS insertions))))))))))))) (. .))
+(S (NP (JJ Such) (NNS deformations)) (VP (VBP make) (S (NP (DT the) (NN registration)) (ADJP (JJ difficult)))) (. .))
+(S (SBAR (IN Because) (S (NP (DT the) (NN colon) (NN deformation)) (VP (VBZ is) (VP (VBN caused) (PP (IN by) (NP (DT a) (NN colonoscope))))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ strong) (NN relationship)) (PP (IN between) (NP (NP (DT the) (NN colon) (NN deformation)) (CC and) (NP (DT the) (NN colonoscope) (NN shape)))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (NN colon) (NN deformation) (NN estimation) (NN method))) (. .))
+(S (PP (IN As) (NP (DT a) (JJ preliminary) (NN study))) (, ,) (NP (PRP we)) (VP (VBD utilized) (NP (DT the) (NN method)) (S (VP (TO to) (VP (VB estimate) (NP (NP (NNS deformations)) (PP (IN of) (NP (DT a) (NN colon) (NN phantom)))))))) (. .))

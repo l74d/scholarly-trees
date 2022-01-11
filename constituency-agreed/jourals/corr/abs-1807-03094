@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NNP DMC)) (VP (MD can) (VP (VB learn) (NP (NP (JJ effective) (JJ unimodal) (NN representation)) (, ,) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (NP (DT the) (NN classifier)) (VP (MD can) (ADVP (RB even)) (VP (VB outperform) (NP (JJ human) (NN performance)))))))))))) (. .))

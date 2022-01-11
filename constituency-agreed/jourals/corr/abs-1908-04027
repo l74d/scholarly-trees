@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (NP (DT a) (NN dataset)) (PP (IN with) (NP (CD 74) (NN character) (NNS classes))))) (, ,) (NP (PRP we)) (VP (VBP achieve) (NP (NP (DT an) (JJ average) (JJ class-wise) (NN accuracy)) (PP (IN of) (NP (CD 99.4) (NN %))))) (. .))

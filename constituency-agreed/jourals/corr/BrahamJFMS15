@@ -1,0 +1,2 @@
+(S (NP (JJ Efficient) (NN coverage) (NN optimization)) (VP (VBZ requires) (NP (JJ accurate) (NN coverage) (NN estimation))) (. .))
+(S (NP (DT This) (NN feature)) (VP (VBZ consists) (PP (IN in) (NP (NP (DT an) (JJ automatic) (NN reporting)) (PP (IN of) (NP (NP (DT the) (NN radio) (NNS measurements)) (VP (VBN associated) (PP (IN with) (NP (NP (DT the) (JJ geographic) (NN location)) (PP (IN of) (NP (NP (DT the) (NN user) (POS 's)) (JJ mobile) (NN device))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ key) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB deform) (NP (NP (NNS regions)) (PP (IN of) (NP (DT the) (NN input) (NN shape))))) (CC and) (VP (VB use) (NP (DT a) (JJ neural) (NN network)) (S (VP (TO to) (VP (VB reconstruct) (NP (PRP them)))))))))) (. .))

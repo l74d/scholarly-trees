@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ fundamental) (NN component)) (PP (IN of) (NP (JJ neural) (NN network) (NN verification)))) (VP (VBZ is) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NP (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NNS values)) (SBAR (S (NP (PRP$ their) (NNS outputs)) (VP (MD can) (VP (VB take))))))))))) (. .))
+(S (NP (PRP$ Our) (NN formulation)) (VP (VBZ admits) (NP (NP (DT an) (JJ efficient) (NN supergradient) (NN ascent) (NN algorithm)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT an) (JJ improved) (JJ proximal) (NN algorithm)))) (. .))

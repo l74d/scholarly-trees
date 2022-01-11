@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ neural) (NN network)) (VP (VBZ is) (VP (VBN trained) (PP (IN with) (NP (NP (CD 75) (NN %)) (PP (IN of) (NP (DT the) (NNP FE) (NN dataset))))))) (. .))
+(S (NP (DT The) (NN training) (NN performance)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN for) (NP (NP (DT every) (NN change)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ hidden) (NN layer) (NNS neurons))))))) (S (VP (TO to) (VP (VB determine) (NP (DT the) (JJ optimal) (NN network) (NN structure))))))) (. .))

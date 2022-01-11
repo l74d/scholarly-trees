@@ -1,0 +1,2 @@
+(S (NP (JJ Quadratic) (NN assignment) (NN problem)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ great) (NNS challenges)) (PP (IN in) (NP (JJ combinatorial) (NN optimization))))))) (. .))
+(S (NP (DT The) (JJ numerical) (NNS experiments)) (VP (VBP confirm) (NP (DT the) (NN efficiency))) (. .))

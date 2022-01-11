@@ -1,0 +1,3 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (DT a) (JJ flaky) (NN test)) (VP (MD can) (VP (VB be) (NP (NP (DT the) (NN reason)) (PP (IN for) (NP (DT a) (NN test) (NN failure)))))) (. .))
+(S (NP (PRP We)) (VP (VBD identified) (NP (NP (CD 23) (NNS factors)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN perceived) (S (VP (TO to) (VP (VB affect) (NP (NN test) (NN flakiness))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD validated) (NP (PRP$ our) (NNS findings)) (PP (IN with) (NP (NP (JJ different) (NNS participants)) (PP (IN of) (NP (DT the) (CD 4) (NNS companies))))) (S (VP (TO to) (VP (VB avoid) (NP (NNS biases)))))) (. .))

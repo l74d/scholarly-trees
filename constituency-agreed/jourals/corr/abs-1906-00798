@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Hyperproperties)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN non-interference)) (CC and) (NP (JJ observational) (NN determinism)))) (, ,)) (VP (VBP relate) (NP (JJ multiple) (NN computation) (NNS traces)) (PP (IN with) (NP (DT each) (JJ other)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN case))) (, ,) (NP (NP (DT a) (NN counter) (NN example)) (, ,) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS traces))))))) (, ,)) (VP (VBZ is) (VP (VBN returned))) (. .))

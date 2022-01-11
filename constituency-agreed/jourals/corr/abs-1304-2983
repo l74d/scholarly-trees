@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (JJ large) (NN discrepancy)) (PP (IN in) (NP (NP (PRP$ our) (NN understanding)) (PP (IN of) (NP (NP (ADJP (JJ uncapacitated) (CC and) (JJ capacitated)) (NNS versions)) (PP (IN of) (NP (NN network) (NN location) (NNS problems))))))))) (. .))
+(S (NP (PRP$ Our) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB bridge) (NP (DT this) (NN discrepancy)))))) (. .))

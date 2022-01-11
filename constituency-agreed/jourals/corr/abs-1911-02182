@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (NP (JJ objective) (NNS functions)) (CC and) (NP (NN network) (NNS architectures))) (SBAR (WHNP (WDT that)) (S (VP (VBP enable) (S (VP (VBG training) (NP (DT a) (NN source) (NN separation) (NN system)) (PP (IN with) (NP (JJ weak) (NNS labels)))))))))) (. .))

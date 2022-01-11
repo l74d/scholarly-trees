@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (JJ stochastic) (JJ Multi-Armed) (NN Bandit) (-LRB- -LRB-) (NN MAB) (-RRB- -RRB-) (NN problem)) (PP (IN under) (NP (NP (JJS worst) (NN case) (NN regret)) (CC and) (NP (ADJP (JJ heavy) (HYPH -) (VBN tailed)) (NN reward) (NN distribution))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBD were) (NP (NP (CD two) (JJ current) (NN research) (NNS directions)) (PP (IN for) (NP (DT this) (NN problem))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN direction)) (VP (VBD got) (NP (ADJP (RB very) (JJ low)) (NN accuracy))) (. .))

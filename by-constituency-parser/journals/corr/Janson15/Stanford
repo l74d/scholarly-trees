@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NNS asymptotics)) (PP (IN for) (NP (NP (DT the) (ADJP (JJ left) (CC and) (JJ right)) (NNS tails)) (PP (IN of) (NP (DT the) (VBG limiting) (NNP Quicksort) (NN distribution)))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VP (VBP agree) (PP (IN with))) (, ,) (CC but) (VP (VBP are) (ADJP (RBR less) (JJ precise)) (PP (IN than) (, ,) (NP (NP (RBR earlier) (JJ non-rigorous) (NNS results)) (PP (IN by) (NP (NNP Knessl) (CC and) (NNP Spankowski))))))) (. .))

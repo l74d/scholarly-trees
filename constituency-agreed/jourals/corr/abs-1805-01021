@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN architecture)) (VP (VBZ ensures) (NP (NP (JJ high) (NN cohesion)) (, ,) (NP (JJ low) (NN coupling)) (, ,) (CC and) (NP (NP (JJ asynchronous) (NN communication)) (PP (IN between) (NP (DT the) (NNS layers))))) (, ,) (S (ADVP (RB thus)) (VP (VBG yielding) (NP (DT a) (ADJP (JJ scalable) (CC and) (JJ maintainable)) (NN solution))))) (. .))

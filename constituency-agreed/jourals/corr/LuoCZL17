@@ -1,0 +1,2 @@
+(S (NP (NNP RFD)) (VP (MD can) (VP (VB be) (VP (VBN derived) (PP (IN from) (NP (DT an) (NN optimization) (NN problem)))))) (. .))
+(S (NP (NNP RFD)) (VP (VBZ reduces) (NP (NP (DT the) (NN approximation) (NN error)) (PP (IN of) (NP (NNP FD)))) (PP (IN without) (S (VP (VBG increasing) (NP (DT the) (JJ computational) (NN cost)))))) (. .))

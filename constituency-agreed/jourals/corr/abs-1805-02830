@@ -1,0 +1,2 @@
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB produce) (NP (JJ good) (NNS results)) (PP (IN for) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NN classification) (NNS tasks))))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (JJ basic) (NNS kernels)) (VP (MD can) (VP (VB be) (VP (VBN combined) (S (VP (TO to) (VP (VB boost) (NP (DT the) (NN performance)))))))) (. .))

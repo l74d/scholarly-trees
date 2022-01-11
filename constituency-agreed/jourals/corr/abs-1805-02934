@@ -1,0 +1,2 @@
+(S (NP (NNS Visemes)) (VP (VBP are) (NP (NP (DT the) (JJ visual) (NN equivalent)) (PP (IN of) (NP (NNS phonemes))))) (. .))
+(S (NP (DT This) (NN mapping)) (VP (VBZ introduces) (NP (NP (NN ambiguity)) (PP (IN between) (NP (NNS phonemes)))) (SBAR (WHADVP (WRB when)) (S (VP (VBG using) (NP (NN viseme) (NNS classifiers)))))) (. .))

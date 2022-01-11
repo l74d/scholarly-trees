@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT the) (NN modeling)) (PP (IN of) (NP (NN state) (NN transition)))) (VP (MD should) (VP (VB include) (NP (NP (DT the) (NN modeling)) (PP (IN of) (NP (NP (NP (DT the) (NN agent) (POS 's)) (NN decision) (NN process)) (CC and) (NP (DT the) (JJ physical) (NN system) (NNS dynamics))))))) (. .))

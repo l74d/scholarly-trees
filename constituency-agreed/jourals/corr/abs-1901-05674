@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NN malware) (NNS developers)) (VP (MD may) (VP (VB apply) (NP (NP (NNS evasions)) (SBAR (WHNP (WDT that)) (S (VP (VBP conceal) (NP (NP (DT the) (NN maliciousness)) (PP (IN of) (NP (DT a) (NN document)))))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (JJ such) (NNS documents)))) (, ,) (NP (PRP we)) (VP (VBP measure) (SBAR (WHADJP (WRB how) (JJ effective)) (S (NP (JJ different) (NNS evasions)) (VP (VBP are) (PP (IN at) (S (VP (VBG concealing) (NP (NP (DT the) (NN maliciousness)) (PP (IN of) (NP (DT a) (NN document))))))))))) (. .))

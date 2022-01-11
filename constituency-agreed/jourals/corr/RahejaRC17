@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN robot)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD could) (VP (VB be) (VP (VBN controlled) (PP (IN from) (NP (DT a) (JJ distant) (NN location)))))))) (, ,)) (VP (MD can) (VP (VB solve) (NP (DT these) (NNS problems)))) (. .))
+(S (NP (DT The) (NN robot)) (VP (VBD was) (VP (VBN controlled) (PP (IN by) (NP (NP (NN hand) (NNS gestures)) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (VP (VBN captured) (PP (IN by) (NP (DT the) (JJ live) (NN camera))))))))))) (. .))

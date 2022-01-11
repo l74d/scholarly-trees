@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB define) (NP (NP (DT a) (NN modularity) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN maximized) (S (VP (VBG using) (NP (DT the) (ADJP (JJ popular) (CC and) (JJ fast)) (NNP Louvain) (NN algorithm))))))))))))))) (. .))

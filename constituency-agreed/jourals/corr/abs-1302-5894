@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (DT a) (JJ new) (NN shape) (NN signature))) (. .))
+(S (PP (IN In) (NP (DT this) (NN technique))) (, ,) (NP (NP (NNS features)) (PP (IN of) (NP (DT each) (NN shape)))) (VP (VBP are) (VP (VBN extracted) (PP (VBN based) (PP (IN on) (NP (NP (CD four) (NNS sides)) (PP (IN of) (NP (NP (DT the) (NN rectangle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ covers) (NP (DT the) (NN shape)))))))))))) (. .))

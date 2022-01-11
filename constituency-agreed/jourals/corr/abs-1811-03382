@@ -1,0 +1,2 @@
+(S (NP (NNS Experts)) (VP (MD will) (ADVP (RB then)) (VP (VB be) (VP (VBN asked) (S (VP (TO to) (ADVP (RB only)) (VP (VB annotate) (NP (DT these) (NNS data) (NNS points)))))))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (ADVP (RB then)) (VP (VP (VBN retrained) (PP (IN with) (NP (DT the) (JJ new) (NNS data)))) (CC and) (VP (VBN used) (S (VP (TO to) (VP (VB select) (NP (JJ further) (NNS data)) (PP (IN for) (NP (NN annotation))))))))) (. .))

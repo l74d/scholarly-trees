@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NN GReTL) (NN solution)) (PP (IN of) (NP (NP (DT the) (NN TTC)) (NP (CD 2011) (NML (NNP Hello) (NNP World)) (NN case)))))) (. .))
+(S (NP (DT The) (VBN submitted) (NN solution)) (VP (VBZ covers) (NP (NP (DT all) (NNS tasks)) (PP (VBG including) (NP (DT the) (JJ optional) (NNS ones))))) (. .))

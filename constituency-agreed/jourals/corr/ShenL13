@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB design) (NP (DT the) (NN algorithm))))) (, ,) (NP (DT the) (NN power) (NN minimization) (NN problem)) (VP (VBZ is) (VP (VBN formulated) (ADVP (RB mathematically)) (PP (IN as) (NP (DT a) (JJ non-convex) (NN problem))))) (. .))
+(S (PP (IN For) (NP (VBN distributed) (NN implementation))) (, ,) (NP (DT the) (JJ non-convex) (NN problem)) (VP (VBZ is) (VP (VBN cast) (PP (IN into) (NP (DT the) (JJ dual) (NN decomposition) (NN framework))))) (. .))

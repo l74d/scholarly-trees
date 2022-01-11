@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (NP (NN lifetime)) (PP (IN of) (NP (JJ sensory) (NN network)))) (VP (VBZ depends) (PP (IN on) (NP (DT these) (JJS closest) (NNS nodes)))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VP (VBZ selects) (NP (DT the) (NN cluster) (NNS heads)) (PP (VBN based) (PP (IN on) (NP (NN traffic))))) (CC and) (VP (VBZ rotates) (ADVP (RB periodically)))) (. .))

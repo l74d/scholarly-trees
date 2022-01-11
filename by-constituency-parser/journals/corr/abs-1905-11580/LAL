@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (ADJP (NN simple) (CC and) (JJ efficient)) (NN algorithm)) (PP (IN for) (S (VP (VBG approximating) (NP (NP (DT the) (NNP John) (NNP Ellipsoid)) (PP (IN of) (NP (DT a) (JJ symmetric) (NN polytope))))))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ is) (ADJP (IN near) (JJ optimal)) (PP (IN in) (NP (DT the) (NN sense) (SBAR (IN that) (S (NP (PRP$ our) (NN time) (NN complexity)) (VP (VBZ matches) (NP (DT the) (JJ current) (JJS best) (NN verification) (NN algorithm)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT the) (NNP MATLAB) (NN code)) (PP (IN for) (NP (JJ further) (NN research))))) (. .))

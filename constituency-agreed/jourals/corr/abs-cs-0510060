@@ -1,0 +1,2 @@
+(S (NP (CD Two) (NNS scenarios)) (VP (VBP are) (VP (VBN considered))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN scenario))) (, ,) (NP (RB only) (DT the) (NN receiver)) (VP (VBZ has) (NP (NP (JJ perfect) (NN knowledge)) (PP (IN of) (NP (DT the) (NN channel) (NN realization)))) (, ,) (SBAR (IN while) (S (NP (DT the) (NN transmitter)) (VP (VBZ has) (NP (NP (NN knowledge)) (PP (IN of) (NP (DT the) (NN channel) (NN gain) (NN probability) (NN law)))))))) (. .))

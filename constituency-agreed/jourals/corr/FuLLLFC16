@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN state) (NNS features)) (PP (IN of) (NP (DT the) (NN agent)))) (VP (VBP are) (VP (VBN learned) (PP (IN from) (NP (NP (DT the) (NN weight) (NNS statistics)) (PP (IN of) (NP (DT the) (NN optimizee))))) (PP (IN during) (NP (NN training))))) (. .))

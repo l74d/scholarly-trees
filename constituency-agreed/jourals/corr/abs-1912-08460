@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (ADVP (RB typically)) (VP (VBZ involves) (S (VP (VP (VBG finding) (NP (DT the) (JJ steady) (NN state))) (, ,) (VP (VBG linearizing) (PP (IN around) (NP (PRP it))) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (NNP Jacobian)))))) (, ,) (CC and) (ADVP (RB then)) (VP (VBG solving) (PP (IN for) (NP (PRP$ its) (NNS eigenvalues) (CC and) (NNS eigenvectors))))))) (. .))

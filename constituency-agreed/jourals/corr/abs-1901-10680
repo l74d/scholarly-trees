@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (JJ semantic) (NNS frames)) (PP (IN in) (NP (DT the) (NN training) (NNS data)))) (VP (MD can) (VP (VB contain) (NP (NP (NN information)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN expressed) (PP (IN in) (NP (DT the) (NNS utterances)))))))))) (. .))

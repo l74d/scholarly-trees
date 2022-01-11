@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VP (VB ensure) (NP (JJ secure) (NN communication))) (CC and) (VP (VB defend) (NP (PRP it)) (PP (IN against) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NNS attacks))))))))) (, ,) (NP (DT an) (JJ accurate) (NN detection) (NN scheme)) (VP (MD must) (VP (VB be) (VP (VBN adopted)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (NN detection) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ supervised) (NN learning))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ important) (NN technique)) (SBAR (WHNP (WDT that)) (S (VP (VBZ accounts) (PP (IN for) (NP (DT these) (NNS biases))))))) (VP (VBZ is) (VP (VBG reweighting) (NP (NNS samples)) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT the) (NN discrepancy)) (PP (IN between) (NP (NN treatment) (NNS groups))))))))) (. .))

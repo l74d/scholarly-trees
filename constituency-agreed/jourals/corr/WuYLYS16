@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ runs) (PP (IN over) (NP (NP (DT a) (NN network)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS agents)) (VP (VP (VBP communicate) (PP (IN with) (NP (PRP$ their) (NNS neighbors)))) (CC and) (VP (VB perform) (NP (JJ local) (NN computation))))))))) (. .))

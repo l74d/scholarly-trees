@@ -1,0 +1,3 @@
+(S (NP (NNP Lanford)) (VP (VBZ has) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (NNP Feigenbaum) (POS 's)) (JJ functional) (NN equation)) (VP (VBZ has) (NP (DT an) (JJ analytic) (NN solution))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN solution)) (VP (VBZ is) (NP (DT a) (ADJP (JJ polynomial) (NN time)) (JJ computable) (NN function)))))) (. .))
+(S (NP (DT This)) (VP (VBZ implies) (PP (IN in) (NP (JJ particular))) (SBAR (IN that) (S (NP (DT the) (JJ so-called) (JJ first) (NNP Feigenbaum) (NN constant)) (VP (VBZ is) (NP (DT a) (ADJP (JJ polynomial) (NN time)) (JJ computable) (JJ real) (NN number)))))) (. .))

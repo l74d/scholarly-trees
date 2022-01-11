@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ autonomous) (NN robot)) (VP (MD should) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NNS affordances)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN offered) (PP (IN by) (NP (DT a) (VBN given) (NN situation)))))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (VBZ outperforms) (NP (JJ several) (NNS baselines)))))) (. .))

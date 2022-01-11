@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ does) (RB not) (ADVP (RB necessarily)) (VP (VB ensure) (NP (NP (DT the) (JJ correct) (NN detection)) (PP (IN of) (NP (JJ anomalous) (NNS data)))))) (. .))
+(S (NP (DT This) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG leveraging) (NP (DT a) (NN penalty) (NN distribution)) (PP (IN with) (NP (NP (NP (DT a) (JJ new) (NN definition)) (PP (IN of) (NP (DT the) (NN loss) (NN function)))) (CC and) (NP (NP (JJ novel) (NN use)) (PP (IN of) (NP (NN discriminator) (NNS networks))))))))))) (. .))

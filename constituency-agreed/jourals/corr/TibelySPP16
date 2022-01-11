@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NNS cases))))) (, ,) (NP (NP (DT the) (NNS tags)) (PP (IN on) (NP (DT a) (VBN given) (NN item)))) (VP (VBP are) (NP (NP (JJ free) (NNS words)) (VP (VBN chosen) (PP (IN by) (NP (DT the) (NNS authors))) (ADVP (RB independently))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (NNS relations)) (PP (IN among) (NP (NP (NNS keywords)) (PP (IN in) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NN news) (NNS items)))))))) (VP (VBZ is) (ADJP (JJ unknown))) (. .))

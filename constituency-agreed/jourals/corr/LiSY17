@@ -1,0 +1,1 @@
+(S (ADVP (RB Secondly)) (, ,) (PP (IN for) (NP (NP (DT the) (JJ special) (NN case)) (PP (IN without) (NP (JJ non-smooth) (NNS terms))))) (, ,) (NP (JJ linear) (NN convergence)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN under) (NP (DT the) (JJ strong) (NN convexity) (NN assumption)))))) (. .))

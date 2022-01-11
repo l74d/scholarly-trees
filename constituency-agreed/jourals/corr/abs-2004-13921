@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (SBAR (IN that) (S (NP (NNP QKD)) (VP (VBZ maintains) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (DT the) (NNP SPIR) (NN protocol))))))) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ secure) (PP (IN against) (NP (DT any) (JJ external) (NN eavesdropper))))))))) (. .))

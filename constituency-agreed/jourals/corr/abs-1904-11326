@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ prevents) (NP (NP (NN eavesdropping) (CC and) (NNS interferences)) (VP (VBN caused) (PP (IN by) (NP (NNS middleboxes)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP revisit) (NP (NP (DT the) (JJ reliable) (NN transmission) (NNS mechanisms)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN included) (PP (IN in) (NP (NNP QUIC))))))))) (. .))

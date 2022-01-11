@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ reports) (PP (IN on) (NP (NP (NNS results)) (PP (IN on) (NP (NP (DT the) (NN entropy)) (PP (IN of) (NP (DT the) (JJ Spanish) (NN language)))))))) (. .))
+(S (NP (NN Entropy) (NNS values)) (VP (VBP are) (VP (VBN calculated) (PP (IN by) (NP (NP (DT a) (JJ direct) (NN method)) (VP (VBG using) (NP (NP (NN computer) (NN processing)) (CC and) (NP (NP (DT the) (NN probability) (NN law)) (PP (IN of) (NP (JJ large) (NNS numbers)))))))))) (. .))

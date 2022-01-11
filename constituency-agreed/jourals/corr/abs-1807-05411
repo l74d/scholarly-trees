@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB promote) (NP (JJ reproducible) (NN research))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT a) (NN companion) (NNP MATLAB) (NN package)) (SBAR (WHNP (WDT that)) (S (VP (VBZ implements) (NP (DT these) (NNS examples))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (NNS approaches)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB learn) (NP (ADJP (JJ stable) (CC and) (JJ accurate)) (NNS motions)) (PP (IN from) (NP (NN demonstration))))))))) (. .))
+(S (NP (NP (NP (NNS Experiments)) (PP (IN on) (NP (DT a) (JJ real) (NN robot)))) (CC and) (NP (NP (DT a) (NN comparison)) (PP (IN on) (NP (DT a) (JJ public) (NN benchmark))))) (VP (VBZ shows) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

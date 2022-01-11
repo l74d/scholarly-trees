@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT the) (NN problem)) (PP (IN within) (NP (DT the) (JJ Bayesian) (NN framework)))))) (, ,) (NP (PRP we)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT the) (NN covariance) (NN matrix)) (VP (VBZ has) (NP (DT a) (JJ prior) (NN distribution)))))) (. .))

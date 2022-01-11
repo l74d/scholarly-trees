@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG learning) (NP (JJ sparse) (NN polymatrix) (NNS games)) (PP (IN from) (NP (NP (NNS observations)) (PP (IN of) (NP (JJ strategic) (NNS interactions)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP verify) (NP (PRP$ our) (JJ theoretical) (NNS results)) (PP (IN through) (NP (NN simulation) (NNS experiments)))) (. .))

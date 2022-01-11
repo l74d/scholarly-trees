@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ straight) (NN polygon)) (VP (VBZ divides) (NP (DT the) (NN space)) (PP (IN into) (NP (NNS polygons))) (ADVP (RB recursively)))) (CC and) (S (NP (DT each) (NN polygon)) (VP (MD can) (VP (VB be) (VP (VBN viewed) (PP (IN as) (NP (NP (NN grouping)) (PP (IN of) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (NNS dots))))))))))) (. .))

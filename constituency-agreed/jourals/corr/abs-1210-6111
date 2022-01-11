@@ -1,0 +1,3 @@
+(S (NP (NNP MDE)) (VP (VBZ emphasizes) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (NP (NNS models)) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (DT the) (NN implementation)) (VP (MD should) (VP (VB be) (VP (VBN derived) (PP (IN by) (S (VP (VBG applying) (NP (NN model) (NNS transformations)))))))))))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NN model) (NN validation)) (VP (VBZ is) (NP (NP (DT a) (JJ crucial) (NN task)) (PP (IN in) (NP (NN model) (NN transformation))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ semantic) (NNS requirements)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN imposed) (PP (IN on) (NP (NN source) (CC and) (NN target) (NNS models)))))))) (. .))

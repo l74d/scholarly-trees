@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN planner)) (VP (VBZ coordinates) (NP (NP (DT the) (NN sequence)) (PP (IN of) (NP (NP (NNS actions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (S (VP (TO to) (VP (VB be) (ADVP (RB successively)) (VP (VBN executed) (PP (IN by) (NP (DT the) (NN robot)))))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS tests)) (PP (IN with) (NP (NP (JJ multi-threaded) (NNS applications)) (PP (IN on) (NP (NNP Intel) (NNP MIC)))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB consider) (NP (NN scalability) (CC and) (NN performance))))))) (. .))

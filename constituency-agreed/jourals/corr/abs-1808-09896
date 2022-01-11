@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ convolutional) (JJ neural) (NN network) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB extract) (NP (JJ abstract) (NNS features)) (PP (IN from) (NP (JJ multi-granularity) (NNS representations)))))))))))) (. .))

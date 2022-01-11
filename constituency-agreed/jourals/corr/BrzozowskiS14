@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ syntactic) (NN complexity)) (PP (IN of) (NP (DT a) (JJ regular) (NN language)))) (VP (VBZ is) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (PRP$ its) (JJ syntactic) (NN semigroup))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (CD two) (JJ new) (JJ aperiodic) (NN transition) (NNS semigroups))) (. .))

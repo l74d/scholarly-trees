@@ -1,0 +1,2 @@
+(S (PP (IN Through) (NP (NNS experiments))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NP (DT either)) (PP (IN of) (NP (CD two) (NNS conditions)))) (VP (VBZ is) (VP (VBN broken))))) (, ,) (NP (DT the) (NN collapse)) (VP (VBZ disappears))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP let) (S (NP (NP (DT each) (NN operation) (POS 's)) (JJ architectural) (NN weight)) (VP (VB be) (ADJP (JJ independent) (PP (IN of) (NP (NNS others))))))) (. .))

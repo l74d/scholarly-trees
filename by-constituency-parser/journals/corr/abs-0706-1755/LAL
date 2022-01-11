@@ -1,0 +1,3 @@
+(S (NP (NNP FreeBSD)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ first) (ADJP (RB widely) (VBN deployed)) (JJ free) (VBG operating) (NNS systems))) (SBAR (S (VP (TO to) (VP (VB provide) (NP (JJ mandatory) (NN access) (NN control)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ supports) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ classic) (NNP MAC) (NNS models))))) (. .))
+(S (NP (DT This) (JJ tutorial) (NN paper)) (VP (VBZ addresses) (S (VP (VBG exploiting) (NP (DT this) (NN implementation)) (S (VP (TO to) (VP (VB enforce) (NP (NP (JJ typical) (NN enterprise) (NN security) (NNS policies)) (PP (IN of) (NP (VBG varying) (NNS complexities)))))))))) (. .))

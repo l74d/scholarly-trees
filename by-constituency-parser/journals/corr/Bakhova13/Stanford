@@ -1,0 +1,2 @@
+(S (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (VBN known) (NML (NNP NP) (NN class)) (NNS problems)))))) (, ,) (CC and) (S (NP (NP (NN majority)) (PP (IN of) (NP (PRP them)))) (VP (VBP have) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ equivalent) (PP (IN to) (NP (NNS others))))))))))) (. .))
+(S (PP (IN In) (NP (DT the) (VBG following) (NN paper))) (NP (DT the) (NN reduction)) (VP (VBZ is) (VP (VBN constructed))) (. .))

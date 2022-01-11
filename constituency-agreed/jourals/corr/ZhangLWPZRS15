@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN analysis)) (VP (VBZ is) (VP (VBN validated) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ numerical) (NNS examples))))))) (. .))
+(S (NP (NP (DT Some) (JJ additional) (JJ cryptographic) (NNS applications)) (PP (IN of) (NP (PRP$ our) (NN work)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed))) (. .))

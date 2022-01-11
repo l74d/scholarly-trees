@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VP (VB identify) (CC and) (VB delexicalize) (NP (NNS entities))) (, ,) (CC and) (VP (VB use) (NP (NNS heuristics)) (S (VP (TO to) (VP (VB extract) (NP (NN generation) (NNS templates)) (PP (IN from) (NP (NN review) (NNS sentences)))))))) (. .))

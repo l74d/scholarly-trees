@@ -1,0 +1,3 @@
+(S (NP (NNP Bilevel) (NN optimization)) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT a) (JJ mathematical) (NN program)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT an) (NN optimization) (NN problem)) (VP (VBZ contains) (NP (DT another) (NN optimization) (NN problem)) (PP (IN as) (NP (DT a) (NN constraint)))))))))) (. .))
+(S (NP (DT These) (NNS problems)) (VP (VBP have) (VP (VBN received) (NP (JJ significant) (NN attention)) (PP (IN from) (NP (DT the) (JJ mathematical) (NN programming) (NN community))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (JJ potential) (NN application) (NNS problems)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed))) (. .))

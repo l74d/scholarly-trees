@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (NN signal)) (VP (VBZ is) (VP (VBN recorded) (PP (IN in) (NP (DT an) (JJ enclosed) (NN room))))))) (, ,) (NP (PRP it)) (ADVP (RB typically)) (VP (VBZ gets) (VP (VBN affected) (PP (IN by) (NP (NN reverberation))))) (. .))
+(S (NP (NP (DT An) (NN algorithm)) (PP (IN for) (S (VP (VBG implementing) (NP (DT the) (NN method)))))) (VP (VBZ is) (VP (VBN described) (CC and) (VBN tested))) (. .))

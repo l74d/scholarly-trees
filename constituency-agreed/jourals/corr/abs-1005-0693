@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP formulate) (NP (DT a) (NN protocol) (NN design) (NN problem))) (CC and) (VP (VB find) (NP (NP (JJ optimal) (NNS protocols)) (SBAR (WHNP (WDT that)) (S (VP (VBP solve) (NP (DT the) (NN problem)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (VBN proposed) (NNS protocols)) (VP (VP (VBP require) (NP (JJ short) (NN memory))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN without) (NP (JJ explicit) (NN message) (NN passing))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (CD Two) (JJ traditional) (NNS paradigms)) (VP (VBP are) (ADVP (RB often)) (VP (VBN used) (S (VP (TO to) (VP (VB describe) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (NP (NNS agents)) (PP (IN in) (NP (JJ multi-agent) (JJ complex) (NNS systems))))))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (CD one))) (, ,) (S (NP (NNS agents)) (VP (VBP are) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (ADJP (RB fully) (JJ rational)))))))) (CC and) (S (NP (NNS systems)) (VP (VBP are) (VP (VBN seen) (PP (IN as) (NP (JJ multi-player) (NNS games)))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (CD 1991))) (, ,) (NP (NNP Michael) (NNP Gelfond)) (VP (VBD introduced) (NP (NP (DT the) (NN language)) (PP (IN of) (NP (JJ epistemic) (NNS specifications))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP revisit) (NP (NP (DT the) (NN formalism)) (PP (IN of) (NP (JJ epistemic) (NN specification))))) (. .))

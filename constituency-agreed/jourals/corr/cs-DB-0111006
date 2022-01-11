@@ -1,0 +1,4 @@
+(S (NP (NP (DT All)) (PP (IN of) (NP (DT these) (NNS versions)))) (VP (VBP are) (VP (VBN supported) (PP (IN on) (NP (NNP Solaris) (, ,) (NNP Linux) (, ,) (CC and) (NNP Windows))))) (. .))
+(S (NP (NP (DT The) (NNP C) (NN version)) (PP (IN of) (NP (NNP SDDS)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN supported) (PP (IN on) (NP (NNP VxWorks))))) (. .))
+(S (PP (IN With) (NP (NP (DT the) (JJ recent) (NN addition)) (PP (IN of) (NP (DT the) (NNP Java) (NN port))))) (, ,) (NP (NNP SDDS)) (VP (MD can) (ADVP (RB now)) (VP (VB be) (VP (VBN deployed) (PP (IN on) (NP (RB virtually) (DT any) (NN operating) (NN system)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (JJ various) (NNS benefits)) (PP (IN of) (NP (NNP SDDS) (NN platform) (NN interoperability))))))) (. .))

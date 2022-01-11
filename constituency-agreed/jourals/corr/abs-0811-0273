@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN sensor) (NN node)) (ADVP (RB periodically)) (VP (VP (VBZ senses) (NP (DT a) (JJ random) (NN field))) (CC and) (VP (VBZ generates) (NP (DT a) (NN packet)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP compare) (NP (NP (NN performance)) (PP (IN of) (NP (JJ several) (ADJP (RB easily) (JJ implementable)) (JJ suboptimal) (NNS policies))))) (. .))

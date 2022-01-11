@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN prototype) (NN system)) (VP (VP (VBZ is) (VP (VBN implemented))) (CC and) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS examples))) (, ,) (PP (VBG including) (NP (NP (DT a) (JJ syntactic) (NN theory)) (PP (IN for) (NP (NNP Verilog))))))))))) (. .))

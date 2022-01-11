@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN from) (NP (JJ standard) (JJ multi-objective) (NN optimization) (NN benchmark) (NNS problems)))) (VP (VBP show) (SBAR (IN that) (S (NP (NNP Autotune)) (VP (VBZ is) (ADJP (RB very) (JJ efficient) (PP (IN in) (S (VP (VBG capturing) (NP (NNP Pareto) (NNS fronts)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (PP (IN for) (NP (DT this) (NN problem))) (, ,) (NP (NP (DT the) (NNS dynamics)) (PP (IN of) (NP (NNP SGD)))) (VP (VBP are) (VP (VBN captured) (PP (IN by) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ differential) (NNS equations)))))))))) (. .))

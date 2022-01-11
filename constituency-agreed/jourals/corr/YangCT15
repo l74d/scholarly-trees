@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ Gaussian) (NN mixture) (NNS components)) (CC and) (NP (NP (DT the) (NN topic)) (PP (IN of) (NP (NNS documents) (, ,) (NNS sentences) (CC and) (NNS words))))) (VP (MD can) (VP (VB be) (VP (VBN learnt) (ADVP (RB jointly))))) (. .))

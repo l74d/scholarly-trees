@@ -1,0 +1,2 @@
+(S (NP (NNS Humans)) (ADVP (RB however)) (ADVP (RB often)) (VP (VBP show) (NP (NN generalization)) (PP (IN by) (S (VP (VBG relying) (PP (IN on) (NP (ADJP (NN exemplar) (VBN based)) (NNS approaches))))))) (. .))
+(S (PP (IN For) (NP (NN instance))) (, ,) (NP (NP (DT the) (NN work)) (PP (IN by) (NP (NNP Tversky) (CC and) (NNP Kahneman)))) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NNS humans)) (VP (VBP use) (NP (NNS exemplars)) (SBAR (WHADVP (WRB when)) (S (VP (VBG making) (NP (NNS categorizations) (CC and) (NNS decisions))))))))) (. .))

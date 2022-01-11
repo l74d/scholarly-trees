@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN idea)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT a) (NN skeleton) (NN pose)) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN by) (NP (NP (DT the) (JJ spatial) (NNS arrangements)) (PP (IN of) (NP (PRP$ its) (NNS joints))))))))))) (. .))
+(S (NP (NP (DT The) (NN similarity)) (PP (IN of) (NP (CD two) (NNS skeletons)))) (VP (VBZ is) (VP (VBN computed) (PP (IN as) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (DT the) (NN position) (NNS scores)) (VP (VBN achieved) (PP (IN by) (NP (JJ homologous) (NNS joints)))))))))) (. .))

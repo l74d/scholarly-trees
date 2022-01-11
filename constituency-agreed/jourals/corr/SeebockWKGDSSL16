@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ deep) (JJ convolutional) (NN autoencoder)) (VP (VBZ is) (VP (VBN trained) (PP (IN on) (NP (JJ healthy) (JJ retinal) (NNS images))))) (. .))

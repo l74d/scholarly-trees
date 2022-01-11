@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP learn) (NP (DT the) (JJ neural) (NN network) (NN representation)) (S (VP (VBG using) (NP (NP (DT a) (NN gold) (NN corpus)) (VP (VBN augmented) (PP (IN by) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (ADJP (RB automatically) (JJ parsed)) (NNS sentences)))))))))) (. .))

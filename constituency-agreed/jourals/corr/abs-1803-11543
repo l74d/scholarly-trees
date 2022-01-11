@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ numerical) (NN example)) (VP (VBZ is) (VP (VBN given) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN approach)) (VP (VBZ is) (ADJP (ADJP (RBR less) (JJ conservative)) (PP (IN than) (NP (NP (DT a) (NN method)) (PP (IN with) (NP (NN slack) (NNS variables)))))))))))))) (. .))

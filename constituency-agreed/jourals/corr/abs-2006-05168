@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Statistical) (NN analysis)) (PP (IN of) (NP (DT a) (NN graph)))) (ADVP (RB often)) (VP (VBZ starts) (PP (IN with) (NP (NP (NN embedding)) (, ,) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG representing) (NP (PRP$ its) (NNS nodes)) (PP (IN as) (NP (NP (NNS points)) (PP (IN in) (NP (NN space)))))))))))) (. .))
+(S (PP (IN In) (NP (JJ spectral) (NN embedding))) (, ,) (NP (DT this) (NN dimension)) (VP (MD may) (VP (VB be) (ADJP (RB very) (JJ high)))) (. .))

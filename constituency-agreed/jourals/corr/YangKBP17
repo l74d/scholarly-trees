@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT each) (NN foreground))) (, ,) (NP (DT the) (NN model)) (VP (VBZ learns) (S (VP (TO to) (VP (VB generate) (NP (PRP$ its) (NN appearance) (, ,) (NN shape) (CC and) (NN pose)))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB Thus)) (, ,) (NP (DT a) (JJ new) (NN trust) (NN model)) (VP (VBZ is) (ADVP (RB urgently)) (VP (VBN needed) (S (VP (TO to) (VP (VB mitigate) (NP (NN cyber-security) (NNS risks))))))) (. .))
+(S (NP (DT Each) (NN vehicle)) (VP (VBZ has) (NP (NP (DT a) (JJ global) (NN knowledge)) (PP (IN about) (NP (NP (JJ malicious) (NNS nodes)) (PP (IN in) (NP (DT the) (NN network))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (JJ various) (NNS experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN with) (NP (NP (JJ different) (NN percentage)) (PP (IN of) (NP (JJ malicious) (NNS nodes))))) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN likelihood) (NNS functions)) (PP (IN of) (NP (DT the) (NNS hypotheses)))) (VP (VBP are) (ADVP (RB often)) (RB not) (VP (VBN known) (PP (IN in) (NP (NN advance)))))) (, ,) (CC and) (S (NP (NN decision) (NNS rules)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN learned) (PP (IN via) (NP (JJ supervised) (NN learning))))))))) (. .))

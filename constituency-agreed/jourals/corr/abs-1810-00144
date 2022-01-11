@@ -1,0 +1,1 @@
+(S (PP (IN Without) (S (VP (VBG involving) (NP (JJ adversarial) (NN training))))) (, ,) (NP (PRP$ our) (NN method)) (VP (MD could) (VP (VB enhance) (NP (NP (NP (NN network) (POS 's)) (JJ intrinsic) (JJ adversarial) (NN robustness)) (PP (IN against) (NP (JJ various) (JJ adversarial) (NNS attacks)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NNP Flower) (NN pollination) (NN algorithm)) (VP (VBZ is) (NP (NP (DT a) (JJ recent) (JJ metaheuristic) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (JJ nonlinear) (JJ global) (NN optimization) (NNS problems))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBN extended) (S (VP (TO to) (VP (VB solve) (NP (JJ multiobjective) (NN optimization)) (PP (IN with) (NP (JJ promising) (NNS results))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VP (VBP analyze) (NP (DT this) (NN algorithm)) (ADVP (RB mathematically))) (CC and) (VP (VB prove) (NP (PRP$ its) (NN convergence) (NNS properties)) (PP (IN by) (S (VP (VBG using) (NP (NNP Markov) (NN chain) (NN theory))))))) (. .))

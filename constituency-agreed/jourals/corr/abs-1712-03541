@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ whole) (NN network)) (VP (VBZ expresses) (NP (NP (DT the) (NN mapping)) (PP (IN between) (NP (NP (JJ raw) (NN image) (NNS pixels)) (CC and) (NP (PRP$ their) (NN class) (NNS scores)))))) (. .))
+(S (ADVP (RB Conventionally)) (, ,) (NP (DT the) (NNP Softmax) (NN function)) (VP (VBZ is) (NP (NP (DT the) (NN classifier)) (VP (VBN used) (PP (IN at) (NP (NP (DT the) (JJ last) (NN layer)) (PP (IN of) (NP (DT this) (NN network)))))))) (. .))

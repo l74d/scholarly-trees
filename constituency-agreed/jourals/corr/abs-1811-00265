@@ -1,0 +1,2 @@
+(S (NP (NP (PRP$ Our) (JJ experimental) (NNS results)) (PP (IN on) (NP (DT the) (CD two) (JJ public) (NNS corpora)))) (VP (VBP show) (SBAR (IN that) (S (NP (NNP ATM)) (VP (VBZ generates) (NP (JJR more) (NN coherence) (NNS topics)) (, ,) (S (VP (VBG outperforming) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ competitive) (NNS baselines)))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NNP ATM)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB extract) (NP (JJ meaningful) (NNS events)) (PP (IN from) (NP (NN news) (NNS articles)))))))) (. .))

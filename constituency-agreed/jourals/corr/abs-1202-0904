@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this)) (VP (MD can) (ADVP (RB indeed)) (VP (VB be) (VP (VBN done) (, ,) (PP (IN with) (NP (DT a) (NN twist))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP use) (NP (DT the) (NN denotation)) (S (VP (TO to) (VP (VB prove) (NP (NP (DT some) (NNS properties)) (PP (IN of) (NP (DT the) (NN system)))))))) (. .))

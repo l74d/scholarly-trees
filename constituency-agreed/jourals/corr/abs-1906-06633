@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN machine) (NN learning))) (, ,) (NP (DT the) (NN cost) (NN function)) (VP (VBZ is) (ADJP (JJ crucial)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ measures) (SBAR (WHADJP (WRB how) (JJ good) (CC or) (JJ bad)) (S (NP (DT a) (NN system)) (VP (VBZ is)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (DT the) (JJ early) (NN saturation))))) (. .))

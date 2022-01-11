@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS conditions)) (PP (IN for) (NP (NP (JJ recursive) (NN feasibility)) (CC and) (NP (JJ asymptotic) (NN performance))))) (VP (VBP are) (VP (VBN established))) (. .))
+(S (NP (NP (NN Efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN control) (NN framework)))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (NP (JJ numeric) (NNS simulations))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (VBG Existing) (NNS algorithms)) (VP (MD can) (RB not) (VP (VB cope) (PP (IN with) (NP (JJ such) (NNS situations))) (ADVP (RB well)))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (JJ synthetic) (NNS data)))) (VP (VBP have) (VP (VBN validated) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))))) (. .))

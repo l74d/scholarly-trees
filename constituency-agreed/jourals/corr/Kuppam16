@@ -1,0 +1,2 @@
+(S (NP (NNP Quantum) (JJ cryptographic) (NNS protocols)) (VP (VBP differ) (PP (IN from) (NP (PRP$ their) (JJ classical) (NNS counterparts))) (, ,) (PP (IN in) (NP (PRP$ their) (NN ability) (S (VP (TO to) (VP (VB detect) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT an) (NN eavesdropper)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP conclude) (PP (IN by) (S (VP (VBG comparing) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NNS protocols)))))))) (. .))

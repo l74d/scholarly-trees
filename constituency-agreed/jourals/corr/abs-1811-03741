@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN security) (NNS issues)) (PP (IN among) (NP (DT the) (JJ heterogeneous) (NNS systems)))) (VP (MD should) (VP (VB be) (VP (VBN considered)))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP quantify) (CC and) (VBP analyze) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT each) (NN scheme))))) (. .))
+(S (PP (VBN Compared) (PP (IN with) (NP (DT the) (VBG existing) (NNS schemes)))) (, ,) (NP (PRP$ our) (NNS schemes)) (VP (VBP have) (NP (JJR greater) (NN efficiency) (CC and) (NN security))) (. .))

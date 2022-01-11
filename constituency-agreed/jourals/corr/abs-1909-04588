@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (MD can) (VP (VB avoid) (NP (NP (DT the) (ADJP (JJ difficult) (CC and) (JJ expensive)) (NN process)) (PP (IN of) (S (VP (VBG tuning) (NP (NP (DT the) (NNS weights)) (PP (IN of) (NP (NP (DT each) (NN task) (POS 's)) (NN loss)))) (PP (IN by) (NP (NN hand))))))))) (. .))

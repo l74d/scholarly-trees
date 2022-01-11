@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB provide) (NP (JJ good) (NN performance) (NNS guarantees))))) (, ,) (NP (VBG existing) (NNS methods)) (VP (MD must) (VP (VB assume) (SBAR (IN that) (S (NP (DT the) (JJ real) (NN system)) (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (NP (NNS models)) (VP (VBN considered) (PP (IN during) (NP (NN learning))))))))))))) (. .))

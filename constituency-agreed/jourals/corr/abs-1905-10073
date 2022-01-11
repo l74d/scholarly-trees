@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ reduces) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NNS convolutions)))) (PP (IN by) (S (VP (VBG replacing) (NP (PRP it)) (PP (IN with) (NP (JJ binary) (NNS decisions))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NNS convolutions)) (VP (MD can) (VP (VB be) (VP (VBN replaced) (PP (IN by) (NP (JJ binary) (NNS decisions))))))))) (. .))

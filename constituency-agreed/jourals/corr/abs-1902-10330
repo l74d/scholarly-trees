@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (DT the) (NN transmission) (NN range)) (PP (IN of) (NP (NN backscatter) (NN communication)))) (VP (VBZ is) (ADJP (JJ short))) (. .))
+(S (PP (IN With) (NP (PDT such) (DT a) (NN scheme))) (, ,) (NP (DT the) (NNP UGV)) (VP (MD could) (VP (VB improve) (NP (DT the) (NN communication) (NN quality)) (PP (IN by) (S (VP (VBG approaching) (NP (JJ various) (NNP IoT) (NNS devices))))))) (. .))

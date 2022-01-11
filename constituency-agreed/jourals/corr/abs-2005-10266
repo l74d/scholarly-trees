@@ -1,0 +1,3 @@
+(S (NP (NP (VBN Supervised) (NN learning)) (PP (IN in) (NP (JJ large) (JJ discriminative) (NNS models)))) (VP (VBZ is) (NP (NP (DT a) (NN mainstay)) (PP (IN for) (NP (JJ modern) (NN computer) (NN vision))))) (. .))
+(S (PP (IN In) (NP (NN turn))) (, ,) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (JJ supervised) (NN learning)))) (VP (MD may) (VP (VB be) (VP (VBN limited) (PP (IN by) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (JJ human) (JJ annotated) (NN dataset)))))))) (. .))
+(S (NP (DT The) (NN procedure)) (VP (VBZ is) (VP (VBN iterated) (PP (IN for) (NP (JJ several) (NNS times))))) (. .))

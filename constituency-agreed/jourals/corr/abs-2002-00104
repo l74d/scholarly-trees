@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Optimal) (NNS breakpoints)) (SBAR (WHNP (WDT that)) (S (VP (VBP divide) (NP (DT the) (JJ entire) (NN range)))))) (VP (VBP are) (VP (VBN found) (PP (IN by) (S (VP (VBG minimizing) (NP (DT the) (NN quantization) (NN error))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP CNN)) (VP (VBZ plays) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (DT a) (JJ slice-wise) (NN feature) (NN extractor)))) (SBAR (IN while) (S (NP (DT the) (NNP LSTM)) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG linking) (NP (DT the) (NNS features)) (PP (IN across) (NP (NNS slices))))))))))) (. .))

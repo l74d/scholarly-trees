@@ -1,0 +1,2 @@
+(S (S (NP (PRP They)) (ADVP (RB usually)) (VP (VBP travel) (PP (IN by) (NP (NN plane))))) (CC and) (S (NP (PRP$ their) (NN travel) (NNS expenses)) (VP (VBP depend) (PP (IN on) (NP (DT the) (NN flight) (NNS connections))))) (. .))
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN minimization)) (PP (IN of) (NP (NP (NNS costs)) (CC and) (NP (NN travel) (NN time))))))) (. .))

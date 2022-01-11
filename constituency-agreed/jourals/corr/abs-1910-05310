@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG minimizing) (NP (DT the) (JJ total) (NN energy) (NN consumption)))) (VP (VBZ does) (RB not) (VP (VB imply) (SBAR (S (NP (DT the) (NN network) (NN lifetime)) (VP (VBZ is) (VP (VBN maximized))))))) (. .))

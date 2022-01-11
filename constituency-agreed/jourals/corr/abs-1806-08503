@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN image) (NN recognition))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ many) (NNS cases)) (SBAR (WHADVP (WRB where)) (S (NP (NN training) (NNS samples)) (VP (MD can) (RB not) (VP (VB cover) (NP (DT all) (NN target) (NNS classes)))))))) (. .))

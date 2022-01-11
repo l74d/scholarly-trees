@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (VP (VBG introducing) (NP (JJ new) (NNS services))))) (, ,) (NP (DT the) (NNP NorduGrid)) (VP (VBZ does) (RB not) (VP (VB modify) (NP (DT the) (NNP Globus) (NNS tools)) (, ,) (SBAR (JJ such) (IN that) (S (NP (DT the) (CD two)) (VP (MD can) (ADVP (RB eventually)) (VP (VB co-exist))))))) (. .))

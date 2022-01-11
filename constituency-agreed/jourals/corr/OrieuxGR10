@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ tackles) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN image) (NN deconvolution)))) (PP (IN with) (NP (NP (JJ joint) (NN estimation)) (PP (IN of) (NP (NNP PSF) (NNS parameters) (CC and) (NNS hyperparameters)))))) (. .))

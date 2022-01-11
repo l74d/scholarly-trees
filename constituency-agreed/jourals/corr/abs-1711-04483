@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ deep) (NN deconvolution) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBZ improves) (NP (DT the) (NN segmentation) (NNS masks))))))) (. .))

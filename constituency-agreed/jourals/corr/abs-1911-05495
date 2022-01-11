@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN step)) (VP (VBZ is) (ADJP (JJ necessary)) (SBAR (IN as) (S (NP (PRP we)) (VP (MD can) (VP (VB reduce) (NP (DT the) (NN training) (NN time)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP combine) (NP (NP (DT the) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RB highly) (VBN correlated)))))))))))))) (. .))

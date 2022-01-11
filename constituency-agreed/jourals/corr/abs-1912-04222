@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (ADJP (JJ naive) (CC or) (JJ malicious)) (NNS implementations)) (VP (MD can) (VP (VB result) (PP (IN in) (NP (JJ catastrophic) (NN privacy) (NNS failures)))))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (VBP do) (NP (PRP we)) (VP (VB achieve) (NP (DT this) (NN result)))) (. ?))

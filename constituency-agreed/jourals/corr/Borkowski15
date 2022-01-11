@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (DT the) (NN application))))) (NP (DT the) (NN capacitance) (NN extraction) (NN problem)) (VP (VBZ is) (VP (VBN chosen))) (. .))
+(S (ADVP (RB Furthermore)) (NP (NP (DT some) (JJ numerical) (NNS results)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBP are) (VP (VBN presented))) (. .))

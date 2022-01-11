@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN method)) (VP (VBZ minimizes) (NP (NP (DT a) (NN risk) (NN function)) (VP (VBN defined) (PP (IN by) (NP (NP (DT a) (JJ non-parametric) (NN distribution)) (PP (IN with) (NP (JJ unknown) (NN probability) (NNS weights)))))))) (. .))

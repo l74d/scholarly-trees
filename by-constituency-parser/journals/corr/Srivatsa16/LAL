@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Snapshot) (VBG recording) (NNS durations)) (PP (IN at) (NP (DT each) (NN process)))) (VP (NN contribute) (PP (TO to) (NP (NP (DT the) (JJ overall) (NN efficiency)) (PP (IN of) (NP (DT the) (NN algorithm)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP are) (VP (VBG presenting) (NP (NP (DT the) (JJ observed) (NNS variations)) (PP (IN in) (NP (JJ snapshot) (NN recording) (NNS durations))) (PP (IN at) (NP (NP (NNS processes)) (PP (IN in) (NP (DT a) (JJ distributed) (NN system)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (PP (IN with) (NP (NP (JJ key) (NNS characteristics)) (PP (IN of) (NP (DT a) (ADJP (JJ reliable) (CC and) (JJ effective)) (NN snapshot) (NN algorithm)))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBD were) (VP (VBN achieved) (S (VP (VBG using) (NP (NNP SimGrid) (NNP Java) (NNP API)))))) (. .))

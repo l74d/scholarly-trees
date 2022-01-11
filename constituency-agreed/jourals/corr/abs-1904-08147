@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (ADVP (RB efficiently)) (VP (VB handle) (NP (NP (DT this) (NN sort)) (PP (IN of) (NP (NN workload)))))))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (JJ intensive) (NN research) (NN direction)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN database) (NN system))))))))) (. .))

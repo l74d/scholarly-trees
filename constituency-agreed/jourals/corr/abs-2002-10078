@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN paper)) (VP (VBZ exposes) (NP (NP (DT an) (JJ important) (, ,) (ADJP (RB previously) (JJ unknown)) (NN loophole)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (ADVP (RB potentially)) (VP (VB undermine) (NP (NP (DT the) (NN security) (CC and) (NN trustworthiness)) (PP (IN of) (NP (NN machine) (NN learning)))))))))) (. .))

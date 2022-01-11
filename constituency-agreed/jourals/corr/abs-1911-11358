@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (VBN labeled) (NN training) (NNS data)) (VP (VBZ is) (ADJP (JJ available))))) (, ,) (NP (NP (JJ traditional) (NNS approaches)) (PP (IN for) (NP (NN sequence) (NN tagging)))) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN credit) (NN attribution)))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (RB Instead) (IN of) (S (VP (VBG propagating) (NP (DT the) (NNS messages)) (PP (IN from) (NP (DT all) (NNS positions)))))) (, ,) (NP (PRP$ our) (NNP RepGraph) (NN layer)) (VP (VBZ computes) (NP (NP (DT the) (NN response)) (PP (IN of) (NP (CD one) (NN node)))) (PP (ADVP (RB merely)) (IN with) (NP (DT a) (JJ few) (JJ representative) (NNS nodes)))) (. .))

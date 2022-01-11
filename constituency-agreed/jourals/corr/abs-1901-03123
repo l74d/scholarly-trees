@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN convergence) (NN rate)) (PP (IN of) (NP (NP (DT the) (JJ total) (NN variation)) (PP (IN with) (NP (JJ different) (NN snr)))))) (VP (VBZ is) (VP (VBN analyzed) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN block) (NN length)) (VP (VBZ tends) (PP (TO to) (NP (NN infinity)))))))) (. .))

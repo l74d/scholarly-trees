@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS protocols)) (VP (VP (VBP inherit) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NNP Paxos))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN implemented) (ADVP (RB very) (RB efficiently)))))) (. .))

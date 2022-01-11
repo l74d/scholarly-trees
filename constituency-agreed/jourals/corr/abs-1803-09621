@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP design) (NP (NP (DT a) (JJ neural) (NN network) (NN solution)) (SBAR (WHNP (WDT that)) (S (VP (VBZ treats) (NP (DT the) (NNS salesmen) (, ,) (NNS cities) (CC and) (NN depot)) (PP (IN as) (NP (NP (CD three) (JJ different) (NNS sets)) (PP (IN of) (NP (VBG varying) (NNS cardinalities)))))))))) (. .))

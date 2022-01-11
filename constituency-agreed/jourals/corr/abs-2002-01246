@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (NN benchmarking) (NN tool)) (VP (VBN designed) (S (VP (TO to) (VP (VB bridge) (NP (DT this) (NN gap)))))))) (. .))
+(S (NP (DT The) (NN benchmarking) (NN tool)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB test) (NP (NP (CD seven) (VBG planning) (NNS algorithms)) (VP (VBG measuring) (NP (PRP$ their) (NN performance)) (PP (IN under) (NP (JJ uncertain) (NN market) (NNS conditions)))))))))) (. .))

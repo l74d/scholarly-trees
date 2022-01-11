@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS layers)) (VP (VP (VBP are) (VP (VBN constructed) (PP (IN as) (NP (DT a) (NN loop))))) (CC and) (VP (VBP are) (VP (VBN updated) (ADVP (RB alternately))))) (. .))
+(S (NP (DT The) (NNP CliqueNet)) (VP (VBZ has) (NP (DT some) (JJ unique) (NNS properties))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PRP$ our) (NN method))))) (CC and) (VP (VB conduct) (NP (DT an) (NN ablation) (NN study)))) (. .))
+(S (NP (NP (DT A) (NN variety)) (PP (IN of) (NP (NP (NN quality) (NNS results)) (VP (VBN generated) (PP (IN by) (NP (NNP SAGNet))))))) (VP (VBP are) (VP (VBN presented))) (. .))

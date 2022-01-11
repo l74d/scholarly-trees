@@ -1,0 +1,1 @@
+(S (NP (NN Image) (NNS features)) (VP (VBD were) (VP (VBN extracted) (S (VP (VBG using) (NP (DT a) (JJ pre-trained) (JJ convolutional) (JJ neural) (NN network)))))) (. .))

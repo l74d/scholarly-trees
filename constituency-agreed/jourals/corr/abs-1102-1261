@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT the) (NNS results))) (NP (NP (NP (DT the) (NNS times)) (PP (IN of) (NP (NN evacuation)))) (CC and) (NP (NP (JJ average) (NNS forces)) (VP (VBG acting) (PP (IN on) (NP (NNS individuals))) (PP (IN during) (NP (DT the) (NN evacuation)))))) (VP (VBP are) (VP (VBN given))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN calculated) (PP (IN in) (NP (DT the) (NN simulation) (NN procedure))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (NNP Gaussian)) (PP (IN as) (NP (DT an) (NN input) (NN signal))))) (, ,) (NP (NP (DT a) (JJ theoretical) (JJ optimal) (NN solution)) (SBAR (S (VP (TO to) (VP (VB calculate) (NP (NP (NN feature) (POS 's)) (JJ affine) (NN shape))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (NP (JJ analytic) (NN result)) (PP (IN of) (NP (DT a) (NN feature) (NN model)))))) (, ,) (NP (DT the) (NN method)) (VP (VBZ is) (ADJP (JJ different) (PP (IN from) (NP (JJ conventional) (JJ iterative) (NNS approaches))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN component) (NNS codes)) (VP (VBP are) (ADJP (JJ linear))))) (, ,) (ADVP (RB then)) (NP (DT the) (JJ minimum) (NN distance)) (VP (VBZ is) (NP (NP (DT the) (JJ same)) (PP (IN for) (NP (PDT all) (DT the) (NNS points)))) (, ,) (SBAR (IN although) (S (NP (DT the) (VBG kissing) (NN number)) (VP (MD may) (VP (VB vary)))))) (. .))

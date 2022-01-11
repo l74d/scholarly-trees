@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT a) (JJ recent) (NN attack)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT these) (VBN aggregated) (NN mobility) (NNS data)) (VP (MD can) (VP (VB be) (VP (VBN exploited) (S (VP (TO to) (VP (VB recover) (NP (JJ individual) (NNS trajectories))))))))))) (. .))
+(S (NP (NN Privacy) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NNS schemes)) (VP (VBP achieve) (NP (JJ differential) (NN privacy)))))) (. .))

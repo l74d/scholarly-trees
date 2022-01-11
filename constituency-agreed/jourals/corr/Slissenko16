@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP have) (PP (IN in) (NP (DT this) (NN area))))))) (. .))
+(S (NP (DT The) (NNS commands)) (VP (VBP are) (ADJP (RB very) (JJ basic))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (NP (CD two) (NNS examples))))) (. .))

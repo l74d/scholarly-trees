@@ -1,0 +1,2 @@
+(S (NP (JJ Previous) (NNS works)) (VP (VBP have) (VP (VBN studied) (NP (NP (DT the) (NN model)) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN node)) (VP (VBZ is) (VP (VBN given) (NP (NP (PRP$ its) (JJ own) (, ,) (ADJP (RB possibly) (JJ unique)) (, ,) (NN part)) (PP (IN of) (NP (DT the) (NN proof)))) (PP (IN as) (NP (NN input)))))))))) (. .))
+(S (NP (NP (DT The) (NN cost)) (PP (IN of) (NP (DT a) (NN proof)))) (VP (VBZ is) (NP (NP (DT the) (JJ maximum) (NN size)) (PP (IN of) (NP (DT an) (JJ individual) (NN label))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NNS differences)) (PP (IN among) (NP (PRP them)))) (VP (VBP are) (NP (PRP$ their) (JJ objective) (NNS functions))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NNS data) (NN sampling)) (VP (MD can) (VP (VB be) (ADJP (JJ insufficient)) (SBAR (IN if) (S (NP (DT the) (NNS subspaces)) (VP (VBP are) (ADJP (JJ orthogonal))))))) (. .))

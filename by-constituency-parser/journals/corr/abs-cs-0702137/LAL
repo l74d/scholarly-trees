@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (JJ essential) (NNS subtrees)) (PP (IN for) (NP (NP (NP (NNS terms)) (PRN (-LRB- -LRB-) (NP (NNS trees)) (-RRB- -RRB-))) (CC and) (NP (JJ tree) (NN automata)))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (DT some) (NNS results)) (VP (VBG concerning) (NP (NP (NP (JJ independent) (NNS sets)) (PP (IN of) (NP (NNS subtrees)))) (CC and) (NP (NP (JJ separable) (NNS sets)) (PP (IN for) (NP (NP (DT a) (NN tree)) (CC and) (NP (DT an) (NN automaton))))))))) (. .))

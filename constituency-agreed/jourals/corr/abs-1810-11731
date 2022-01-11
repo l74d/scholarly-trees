@@ -1,0 +1,2 @@
+(S (PP (IN For) (S (VP (VBG attaining) (NP (JJR higher) (NN recognition) (NNS accuracies)) (PP (IN with) (NP (JJ efficient) (NNS computations)))))) (, ,) (NP (NNS researchers)) (VP (VBP have) (VP (VBN addressed) (NP (NP (DT the) (JJ various) (NNS aspects)) (PP (IN of) (NP (NP (NNS limitations)) (PP (IN in) (NP (DT the) (NN recognition) (NN pipeline)))))))) (. .))
+(S (NP (DT Each) (NN module)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB recognize) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (NN action) (NNS classes))))))))) (. .))

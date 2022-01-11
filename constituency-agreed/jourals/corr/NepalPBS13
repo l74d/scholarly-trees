@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (PRP it)) (VP (VBZ recommends) (NP (NP (NP (NNS mentors)) (VP (VBG using) (NP (DT the) (NN engagement) (NN trust)))) (CC and) (NP (NP (NNS leaders)) (VP (VBG using) (NP (DT the) (NN popularity) (NN trust)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP study) (NP (NP (DT the) (NN sustainability)) (PP (IN of) (NP (DT a) (NN community)))) (PP (IN through) (NP (PRP$ our) (JJ social) (NN trust) (NN model)))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (NP (NP (PRP$ our) (NN analysis)) (CC and) (NP (PRP$ its) (NNS results)))) (. .))

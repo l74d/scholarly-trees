@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (RB not) (ADJP (JJ dependent) (PP (IN on) (NP (DT a) (JJ specific) (NN input) (NN type))))) (. .))
+(S (NP (PRP$ Our) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (JJ high) (NN resolution) (NNS predictions)) (VP (VBP are) (ADJP (ADJP (RBR more) (JJ accurate)) (PP (IN than) (NP (JJ low) (NN resolution) (NNS predictions)))))))) (. .))

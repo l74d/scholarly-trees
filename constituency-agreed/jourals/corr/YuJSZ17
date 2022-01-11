@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG taking) (NP (JJ economical) (NN compensation)) (PP (IN into) (NP (NN consideration)))))) (, ,) (NP (NP (DT the) (JJ optimal) (NN number)) (PP (IN of) (NP (NP (NNS requests)) (VP (VBN processed) (ADVP (RB locally)) (PP (IN by) (NP (DT each) (NN fog) (NN device))))))) (VP (MD should) (VP (VB be) (VP (VBN decided)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (JJ extensive) (NN simulation) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (. .))

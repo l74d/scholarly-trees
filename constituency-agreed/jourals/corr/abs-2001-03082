@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN technique)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ yields) (NP (DT a) (JJ symmetric) (NN formulation))) (CC and) (VP (VBZ has) (NP (JJ similar) (NN performance)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (DT both) (NNS methods)) (PP (IN on) (NP (DT a) (JJ simple) (NN test) (NN problem)))) (. .))

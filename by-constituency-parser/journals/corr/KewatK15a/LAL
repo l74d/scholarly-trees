@@ -1,0 +1,4 @@
+(SBAR (SBAR (WHNP (WDT Which)) (S (VP (VBZ is) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (NP (NN family)) (PP (IN of) (NP (NNP Frobenius) (NNS rings))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP find) (NP (NP (DT a) (JJ unique) (NN set)) (PP (IN of) (NP (NP (NNS generators)) (PP (IN for) (NP (DT these) (NNS codes))))))) (CC and) (VP (VB characterize) (NP (DT the) (JJ free) (NN cyclic) (NNS codes)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP study) (NP (NP (NP (DT the) (NN rank)) (CC and) (NP (DT the) (NNP Hamming) (NN distance))) (PP (IN of) (NP (DT these) (NNS codes))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBZ constructs) (NP (DT some) (JJ good) ($ $) (JJ p-ary) ($ $) (NNS codes)) (PP (IN as) (NP (NP (DT the) (NNP Gray) (NNS images)) (PP (IN of) (NP (DT these) (JJ cyclic) (NNS codes)))))) (. .))

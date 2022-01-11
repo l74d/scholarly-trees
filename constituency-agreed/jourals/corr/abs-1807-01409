@@ -1,0 +1,1 @@
+(S (ADVP (RB Typically)) (, ,) (NP (DT an) (NNP RDF) (NN data)) (VP (VBZ is) (VP (VBN serialized) (PP (IN as) (NP (NP (DT a) (JJ large) (NN text) (NN file)) (SBAR (WHNP (WDT which)) (S (VP (VBZ contains) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS relationships))))))))))) (. .))

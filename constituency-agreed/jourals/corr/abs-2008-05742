@@ -1,0 +1,2 @@
+(S (NP (NNS Existingmethods)) (VP (VBP achieve) (NP (NP (VBG varying) (NNS degrees)) (PP (IN of) (NP (NN success)))) (PP (IN by) (S (VP (VBG using) (NP (JJ different) (NN surface) (NNS representations)))))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (NP (JJ thorough) (NNS experiments)) (SBAR (WHNP (WDT that)) (S (VP (VBP verify) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NNP SkeletonNet))))))))) (. .))

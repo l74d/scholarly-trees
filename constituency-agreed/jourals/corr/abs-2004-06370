@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (JJ latter) (NN part))) (NP (DT a) (JJ combinatorial) (NN solver)) (VP (MD must) (VP (VB be) (VP (VBN used)))) (. .))
+(S (SBAR (IN As) (S (NP (PRP we)) (VP (VBP show) (PP (IN in) (NP (PRP$ our) (NNS experiments)))))) (, ,) (PP (IN in) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS applications))))) (NP (DT the) (JJ second) (, ,) (JJ difficult) (NN part)) (VP (VBZ constitutes) (NP (NP (RB only) (DT a) (JJ small) (NN fraction)) (PP (IN of) (NP (DT the) (JJ whole) (NN problem))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS algorithms)) (ADVP (RB typically)) (VP (VBP require) (NP (NP (DT a) (JJ huge) (NN amount)) (PP (IN of) (NP (NNS data)))) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP reach) (NP (JJ reasonable) (NN performance)))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (NP (PRP$ their) (NN performance)) (PP (IN during) (NP (NN learning)))) (VP (MD can) (VP (VB be) (ADJP (RB extremely) (JJ poor)))) (. .))

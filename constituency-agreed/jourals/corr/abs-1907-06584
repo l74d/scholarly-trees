@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN reconstruction)) (PP (IN of) (NP (DT the) (NN environment)))) (VP (VBZ is) (, ,) (ADVP (RB basically)) (, ,) (S (VP (TO to) (VP (VB extract) (NP (DT the) (JJ casual) (NN effect) (NN model)) (PP (IN from) (NP (DT the) (NNS data))))))) (. .))
+(S (NP (DT The) (JJ hidden) (NN confounder)) (VP (MD can) (VP (VB obstruct) (NP (NP (DT an) (JJ effective) (NN reconstruction)) (PP (IN of) (NP (DT the) (NN environment)))))) (. .))

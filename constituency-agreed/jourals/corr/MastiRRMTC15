@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN work)) (ADVP (RB therefore)) (VP (VBZ shows) (NP (NP (DT a) (NN limitation)) (PP (IN in) (NP (NP (DT the) (NN isolation)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN on) (NP (VBG existing) (JJ multi-core) (NNS systems)))))))))))) (. .))

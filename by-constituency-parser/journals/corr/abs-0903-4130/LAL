@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS bounds)) (VP (VP (VBP are) (NP (NP (DT the) (JJS best) (VBN known)) (PP (IN for) (NP (DT any) (JJ self-adjusting) (NN heap))))) (, ,) (CC and) (VP (VB match) (NP (NP (DT the) (JJR lower) (NN bound)) (VP (VBN proved) (PP (IN by) (NP (NNP Fredman))) (PP (IN for) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ such) (NNS heaps))))))))) (. .))

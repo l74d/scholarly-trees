@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB learn) (NP (NP (NNS models) (CC or) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBP generalize) (PP (IN across) (NP (NNS tasks) (CC and) (NNS domains)))))))))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ grand) (NNS goals)) (PP (IN of) (NP (NN machine) (NN learning))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ active) (JJ sequential) (NN hypothesis) (NN testing)))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (ADVP (RB However)) (, ,) (S (NP (JJ optimal) (NNS policies)) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN identified))))) (CC and) (S (NP (JJ various) (NNS heuristics)) (VP (VBP are) (VP (VBN used)))) (. .))

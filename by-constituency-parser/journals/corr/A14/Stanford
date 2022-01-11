@@ -1,0 +1,7 @@
+(S (NP (DT This) (NN paper)) (VP (VB describe) (PP (IN about) (NP (NP (DT a) (JJ new) (NN methodology)) (PP (IN for) (S (VP (VBG developing) (CC and) (VBG improving) (NP (NP (DT the) (NNS robotics) (NN field)) (PP (IN via) (NP (NP (JJ artificial) (NN intelligence) (CC and) (NN internet)) (PP (IN of) (NP (NNS things)))))))))))) (. .))
+(S (NP-TMP (ADVP (RB Now)) (DT a) (NN day)) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB say) (S (NP (NNP Artificial) (NNP Intelligence)) (VP (VB take) (NP (DT the) (NN world)) (PP (IN into) (NP (NNS robotics))))))) (. .))
+(S (NP (QP (RB Almost) (DT all)) (NNS industries)) (VP (VBP use) (NP (NNS robots)) (PP (IN for) (NP (NP (NN lot)) (PP (IN of) (NP (NNS works)))))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (NP (NP (NN use)) (SBAR (S (NP (JJ co-operative) (NNS robots) (S (VP (TO to) (VP (VB make) (ADVP (NP (JJ different) (NN kind)) (RB of)))))) (VP (VBZ works)))))) (. .))
+(S (CC But) (NP (EX there)) (VP (VBD was) (NP (DT some) (NN problem) (S (VP (TO to) (VP (VB make) (NP (NN robot)) (PP (IN for) (NP (ADJP (JJ multi)) (NNS tasks)))))))) (. .))
+(S (ADVP (RB So)) (NP (EX there)) (VP (VBD was) (NP (DT a) (JJ necessary) (JJ new) (NN methodology) (S (VP (TO to) (VP (VB made) (NP (ADJP (JJ multi)) (NN tasking) (NNS robots))))))) (. .))
+(S (NP (PRP It)) (VP (MD will) (VP (VB be) (VP (VBN done) (ADVP (RB only)) (PP (IN by) (NP (NP (JJ artificial) (NN intelligence) (CC and) (NN internet)) (PP (IN of) (NP (NNS things)))))))) (. .))

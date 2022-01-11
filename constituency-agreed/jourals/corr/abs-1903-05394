@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (CD 1,487,956) (NNS artifacts)) (SBAR (WHNP (WDT that)) (S (VP (VBP represent) (NP (NP (PDT all) (DT the) (NNS versions)) (PP (IN of) (NP (CD 73,653) (NNS libraries))))))))) (. .))
+(S (PP (IN In) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ popular) (NNS libraries))))) (, ,) (NP (NP (QP (JJR more) (IN than) (CD 50)) (NN %)) (PP (IN of) (NP (PRP$ their) (NNS versions)))) (VP (VBP are) (VP (VBN used))) (. .))

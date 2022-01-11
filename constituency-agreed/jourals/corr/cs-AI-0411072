@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN pre-processing)) (VP (VBZ is) (VP (VBN done) (PP (IN by) (S (VP (VBG solving) (NP (NP (DT an) (JJ approximate) (NN version)) (PP (IN of) (NP (DT the) (JJ original) (NN problem))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN approximation))) (, ,) (NP (RB not) (DT all) (JJ pair-wise) (NNS conflicts)) (VP (VBP are) (VP (VBN calculated))) (. .))

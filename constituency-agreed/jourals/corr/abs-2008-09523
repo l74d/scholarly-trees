@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ low) (NNP SINR)) (VP (MD can) (VP (VB be) (VP (VBN improved) (PP (IN by) (S (VP (VBG adopting) (NP (DT a) (JJ multi-antenna) (NN receiver)))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN receiver)) (VP (VBZ owns) (NP (NP (DT a) (JJ simple) (NN structure)) (VP (VBN formed) (PP (IN by) (NP (CD two) (NNS beamformers)))))) (. .))

@@ -1,0 +1,8 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ robust) (NN synthesis) (NN algorithm)) (PP (IN for) (NP (NP (JJ uncertain) (JJ linear) (NN time-varying) (PRN (-LRB- -LRB-) (NNP LTV) (-RRB- -RRB-)) (NNS systems)) (PP (IN on) (NP (JJ finite) (NNS horizons))))))) (. .))
+(S (NP (DT The) (JJ uncertain) (NN system)) (VP (VBZ is) (VP (VBN described) (PP (IN as) (NP (NP (NP (DT an) (NN interconnection)) (PP (IN of) (NP (DT a) (VBN known) (NNP LTV) (NN system)))) (CC and) (NP (DT a) (NN perturbation)))))) (. .))
+(S (NP (NP (DT The) (JJ input-output) (NN behavior)) (PP (IN of) (NP (DT the) (NN perturbation)))) (VP (VBZ is) (VP (VBN specified) (PP (IN by) (NP (NP (JJ time-domain) (NNP Integral) (NNP Quadratic) (NNP Constraints)) (PRN (-LRB- -LRB-) (NP (NNP IQCs)) (-RRB- -RRB-)))))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB synthesize) (NP (DT a) (NN controller)) (SBAR (S (VP (TO to) (VP (VB minimize) (NP (DT the) (JJ worst-case) (NN performance)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ leads) (PP (TO to) (NP (JJ non-convex) (NN optimization)))) (. .))
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ alternates) (PP (IN between) (NP (NP (DT an) (NNP LTV) (NN synthesis) (NN step)) (CC and) (NP (DT an) (NNP IQC) (NN analysis) (NN step))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ ensures) (SBAR (IN that) (S (NP (DT the) (JJ robust) (NN performance)) (VP (VBZ is) (ADJP (JJ non-increasing)) (PP (IN at) (NP (DT each) (NN iteration) (NN step))))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN on) (NP (DT a) (JJ two-link) (NN robot) (NN arm) (NN example))))) (. .))

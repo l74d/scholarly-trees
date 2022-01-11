@@ -1,0 +1,1 @@
+(S (NP (PRP They)) (VP (VBP depend) (PP (CONJP (RB not) (RB only)) (PP (PP (IN on) (NP (DT the) (NNS users))) (CC or) (PP (IN on) (NP (PRP$ their) (JJ biometric) (NNS templates)))) (, ,) (CONJP (CC but) (RB also)) (PP (IN on) (NP (NP (DT the) (NNS parameters)) (SBAR (WHNP (WDT that)) (S (VP (VBP calibrate) (NP (DT the) (NN iris) (NN recognition) (NN system))))))))) (. .))

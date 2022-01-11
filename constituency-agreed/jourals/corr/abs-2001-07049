@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN matrix)) (PP (IN of) (NP (NP (NNS messages)) (PP (IN from) (NP (DT a) (NNP McEliece) (NN scheme)))))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB query) (NP (DT the) (NN server)) (PP (IN with) (NP (ADJP (RB carefully) (VBN chosen)) (NNS errors)))))))) (. .))

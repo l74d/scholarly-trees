@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN sequence)) (PP (IN of) (NP (JJ random) (NNS variables)))) (VP (VBZ is) (ADJP (JJ exchangeable)) (SBAR (IN if) (S (NP (PRP$ its) (JJ joint) (NN distribution)) (VP (VBZ is) (ADJP (JJ invariant) (PP (IN under) (NP (JJ variable) (NNS permutations)))))))) (. .))

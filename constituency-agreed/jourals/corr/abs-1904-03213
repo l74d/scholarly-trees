@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT the) (NN input) (NN matrix) (CC or) (NN operator)) (VP (VBZ has) (NP (DT a) (JJ spectral) (NN gap))))) (, ,) (ADVP (RB then)) (NP (DT a) (JJ natural) (NN gradient) (NN flow)) (VP (VBZ has) (NP (JJ linear) (NN convergence)))))) (. .))

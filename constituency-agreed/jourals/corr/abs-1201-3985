@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ determines) (NP (NP (DT the) (NN root) (NN cause)) (PP (IN of) (NP (DT the) (NN failure))))) (. .))
+(S (NP (PRP It)) (VP (VBZ identifies) (NP (NP (DT the) (NNS causes)) (PP (IN of) (NP (NP (JJ abnormal) (NN behaviour)) (PP (IN of) (NP (DT a) (JJ faulty) (NN program))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ identifies) (SBAR (WHADVP (RB exactly) (WRB where)) (S (NP (DT the) (NNS bugs)) (VP (VBP are))))) (. .))

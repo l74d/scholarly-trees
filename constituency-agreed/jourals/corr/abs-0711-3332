@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (JJ new) (NN concept)) (PP (IN of) (NP (NNS micromachines)))) (VP (VBZ has) (VP (VBN been) (VP (VBN developed) (PP (IN for) (S (VP (VBG measuring) (NP (NP (DT the) (JJ mechanical) (NNS properties)) (PP (IN of) (NP (JJ thin) (JJ metallic) (NNS films)))))))))) (. .))
+(S (NP (DT The) (NN actuator)) (VP (VBZ is) (NP (NP (DT a) (NN beam)) (VP (VBG undergoing) (NP (NP (JJ large) (JJ internal) (NNS stresses)) (VP (VBN built) (PRT (RP up)) (PP (IN during) (NP (DT the) (NN deposition) (NN process)))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ present) (NN study))) (, ,) (NP (DT the) (NNS displacements)) (VP (VBP have) (VP (VBN been) (VP (VBN measured) (PP (IN by) (NP (VBG scanning) (JJ electronic) (NN microscopy)))))) (. .))
+(S (NP (DT The) (NN stress)) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (JJ simple) (NN continuum) (NNS mechanics) (NNS relationships))))) (. .))

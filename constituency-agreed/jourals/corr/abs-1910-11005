@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN family)) (PP (IN of) (NP (NNP Wasserstein) (NNS distances)))) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (NP (JJ cross-lingual) (NN document) (NN retrieval)) (CC and) (NP (DT the) (JJ cross-lingual) (NN document) (NN classification) (NNS problems)))))))))))) (. .))

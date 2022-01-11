@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNS eyes) (NN movement)) (VP (VBZ integrates) (PP (IN with) (NP (JJ visual) (NN processing))) (S (VP (TO to) (VP (VB operate) (NP (DT the) (NN reading) (NN process)) (PP (IN in) (NP (DT the) (NN brain))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (NN system)) (VP (VBZ continues) (S (VP (TO to) (VP (VB detect) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (DT the) (JJ next) (NN text) (NN line)))))))) (. .))
+(S (NP (DT This) (NN process)) (VP (VBZ is) (VP (VBN repeated) (PP (IN until) (S (VP (VBG reading) (NP (DT the) (JJ whole) (NN document))))))) (. .))

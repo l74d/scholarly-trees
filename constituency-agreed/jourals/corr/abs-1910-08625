@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS results)) (VP (VBP demonstrate) (SBAR (S (NP (DT the) (NNP Greedy) (NNP Tracker)) (VP (VBZ is) (NP (NP (DT the) (JJS fastest) (NN method)) (PP (IN for) (S (VP (VBG preventing) (NP (NNS subtours)) (PP (IN for) (NP (NP (NNS instances)) (PP (IN below) (NP (CD 400) (NNS nodes))))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (DT some) (JJ inactive) (NNS neurons)) (PP (IN in) (NP (NP (DT the) (JJ first) (NN layer)) (PP (IN of) (NP (NNP ResNet)))))) (VP (VBP affect) (NP (DT the) (NN classification) (NN task)))))) (. .))

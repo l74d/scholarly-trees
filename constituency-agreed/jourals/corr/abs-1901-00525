@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP LSTM) (NN layer)) (VP (MD can) (VP (VB be) (VP (VBN simplified) (PP (IN by) (S (VP (VBG removing) (NP (JJ certain) (NNS components))))) (, ,) (S (ADVP (RB potentially)) (VP (VBG speeding) (PRT (RP up)) (NP (NN training) (CC and) (NN runtime)) (PP (IN with) (NP (NP (JJ limited) (NN change)) (PP (IN in) (NP (NN performance)))))))))) (. .))

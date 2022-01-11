@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN class)) (PP (IN of) (NP (NP (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN minimized) (PP (IN in) (NP (JJ polynomial) (NN time))) (PP (IN in) (NP (DT the) (NN value) (NN oracle) (NN model)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ polynomial-time) (NN algorithm)) (PP (IN for) (S (VP (VBG minimizing) (NP (NP (NNS functions)) (PP (IN in) (NP (DT the) (JJ new) (NN class))))))))) (. .))

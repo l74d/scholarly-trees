@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN network)) (VP (VBD was) (VP (VBN trained) (ADVP (RB entirely)) (PP (IN on) (NP (JJ synthetic) (NNS data))))) (. .))
+(S (NP (DT The) (NN network)) (VP (MD can) (RB not) (VP (VB train) (PP (IN on) (NP (VBG conflicting) (NNS data))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (JJ neural) (JJ abstractive) (NN summarization) (NNS models)) (S (VP (TO to) (VP (VB generate) (NP (NN candidate) (NNS categories)))))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (NP (DT the) (NN location)) (PP (IN within) (NP (DT the) (NN hierarchy)))) (VP (VBZ is) (VP (VBN identified) (PP (IN for) (NP (DT each) (NN candidate))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN energy) (NN autonomy))) (, ,) (NP (DT these) (NNS applications)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN powered) (PP (IN by) (NP (NN energy) (NNS harvesters))))) (. .))
+(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (DT the) (NNP NN) (NN hardware)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB function) (ADVP (RB correctly)) (PP (IN under) (NP (ADJP (JJ unpredictable) (CC and) (JJ variable)) (NN supply) (NNS voltages))))))))))) (. .))

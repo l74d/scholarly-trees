@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN hypothesis)) (VP (VBZ predicts) (SBAR (IN that) (S (NP (NP (DT the) (NNS results)) (PP (IN from) (NP (DT the) (CD three) (NNS representations)))) (VP (MD will) (VP (VB be) (ADJP (JJ similar))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP show) (NP (ADJP (RB statistically) (JJ significant)) (NNS differences))) (. .))

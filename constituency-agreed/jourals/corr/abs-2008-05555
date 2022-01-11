@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (DT the) (NNP Ackermann) (NN function)))) (VP (VBD achieved) (NP (NP (DT a) (NN speedup)) (PP (IN of) (NP (QP (JJR more) (IN than) (CD 45x)))))) (. .))

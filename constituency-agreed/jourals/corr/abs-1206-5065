@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN coherence) (NN value)) (VP (VBZ describes) (SBAR (WHADVP (WRB how) (RB well)) (S (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS people)))) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN as) (NP (DT a) (NN group))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ formal) (NN event) (NN description) (NN language))) (. .))

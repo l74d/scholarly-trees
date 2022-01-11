@@ -1,0 +1,1 @@
+(S (ADVP (RB Surprisingly)) (, ,) (NP (PRP it)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ does) (RB not) (VP (VB maintain) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS requirements)) (PP (IN of) (NP (DT the) (NN problem)))))) (PP (IN under) (NP (DT a) (JJ certain) (NN schedule)))))))) (. .))

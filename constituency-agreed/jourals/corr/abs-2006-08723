@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NN communication)) (PP (IN among) (NP (NP (NNS vehicles)) (PP (IN in) (NP (DT a) (NNP VANET)))))) (VP (VBZ exposes) (NP (NP (JJ several) (NN security) (NNS threats)) (SBAR (WHNP (WDT which)) (S (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN studied) (CC and) (VBN addressed)))))))))) (. .))

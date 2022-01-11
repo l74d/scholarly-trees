@@ -1,0 +1,1 @@
+(S (PP (VBN Based) (PP (IN on) (NP (JJ symmetric) (NNS polynomials)))) (, ,) (NP (PRP we)) (VP (VBD proved) (SBAR (IN that) (S (PP (IN in) (NP (JJS most) (NNS cases))) (, ,) (NP (DT the) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN in) (NP (JJ polynomial) (NN time))) (ADVP (RB efficiently)))))))) (. .))

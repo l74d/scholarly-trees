@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN search) (NN model))) (, ,) (NP (NP (DT the) (NN noise)) (PP (IN in) (NP (DT the) (NN feedback)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NP (NN query) (NNS points)) (CC and) (NP (DT the) (NN search) (NN target))))))) (. .))

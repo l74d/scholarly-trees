@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (VBG existing) (NNS approaches)) (ADVP (RB still)) (VP (VBP lack) (NP (NN robustness))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN robustness) (NN score)) (SBAR (WHNP (WDT that)) (S (VP (VBZ takes) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (NN optimization) (NNS methods))))))))) (. .))

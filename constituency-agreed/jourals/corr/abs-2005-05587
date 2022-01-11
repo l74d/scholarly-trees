@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS attacks)) (VP (VBP consist) (PP (IN of) (NP (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ deterministic) (NNS attacks)))) (CC and) (NP (NP (DT a) (NN distribution)) (PP (IN over) (NP (DT this) (NN set))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ latter) (NN case))) (, ,) (NP (DT the) (NN classifier) (NN ensemble)) (VP (VBZ is) (ADJP (RB provably) (JJ robust))) (. .))

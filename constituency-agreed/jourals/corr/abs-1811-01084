@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ maximum) (NN likelihood) (NNS estimators)) (VP (VBP are) (ADVP (RB also)) (VP (VBN derived))) (. .))
+(S (NP (DT The) (NN fusion) (NN center)) (VP (VP (VBZ combines) (NP (PDT all) (DT the) (NNS decisions))) (CC and) (VP (VBZ uses) (NP (DT a) (NN design) (NN parameter)) (S (VP (TO to) (VP (VB make) (NP (DT the) (JJ final) (NN decision))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP corroborate) (NP (PRP$ our) (JJ analytical) (NNS results))) (. .))

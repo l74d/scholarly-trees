@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN user)) (VP (MD will) (ADVP (RB interactively)) (VP (VB translate) (NP (DT those) (NNS samples)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ enables) (S (VP (TO to) (VP (VB balance) (NP (NP (DT the) (JJ human) (NN effort)) (VP (VBN required) (PP (IN for) (S (VP (VBG achieving) (NP (DT a) (JJ certain) (NN translation) (NN quality))))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (JJ neural) (NN system)) (VP (VBZ outperforms) (NP (JJ classical) (NNS approaches)) (PP (IN by) (NP (DT a) (JJ large) (NN margin)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN IQ) (NNS tests)) (VP (VBP are) (NP (NP (DT an) (JJ accepted) (NN method)) (PP (IN for) (S (VP (VBG assessing) (NP (JJ human) (NN intelligence))))))) (. .))
+(S (NP (DT The) (NNS tests)) (VP (VBP consist) (PP (IN of) (NP (NP (JJ several) (NNS parts)) (SBAR (WHNP (WDT that)) (S (VP (MD must) (VP (VB be) (VP (VBN solved) (PP (IN under) (NP (DT a) (NN time) (NN constraint))))))))))) (. .))

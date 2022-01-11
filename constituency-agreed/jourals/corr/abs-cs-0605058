@@ -1,0 +1,2 @@
+(S (SBAR (IN Because) (S (NP (JJ such) (JJ lengthy) (NNS computations)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN verified) (PP (IN by) (NP (NN hand)))))))) (, ,) (NP (DT some) (NNS mathematicians)) (VP (VBP want) (S (VP (TO to) (VP (VB use) (NP (NN software) (NN proof) (NNS assistants)) (S (VP (TO to) (VP (VB verify) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT these) (NNS proofs))))))))))) (. .))
+(S (NP (DT A) (NN prototype) (NNP Haskell) (NN implementation)) (VP (VBZ has) (VP (VBN been) (VP (VBN created)))) (. .))

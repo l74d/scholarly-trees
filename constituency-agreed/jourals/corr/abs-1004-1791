@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN method)) (VP (VBZ is) (ADJP (RB completely) (JJ reversible))) (. .))
+(S (NP (NP (DT The) (JJ original) (NN image)) (CC and) (NP (DT the) (NN watermark) (NNS data))) (VP (MD can) (VP (VB be) (VP (VBN recovered) (PP (IN without) (NP (DT any) (NN loss)))))) (. .))

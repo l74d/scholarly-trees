@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN reachability) (NN problem)) (PP (IN for) (NP (NN vector) (NN addition) (NNS systems)))) (VP (VBZ is) (NP (NP (DT a) (JJ central) (NN problem)) (PP (IN of) (NP (JJ net) (NN theory))))) (. .))
+(S (S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ decidable)))))))) (CC but) (S (NP (DT the) (NN complexity)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ unknown)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (DT the) (JJ reversible) (NN reachability) (NN problem))) (. .))

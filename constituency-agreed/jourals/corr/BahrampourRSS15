@@ -1,0 +1,2 @@
+(S (NP (NNP Theano)) (VP (VBZ achieves) (NP (NP (DT the) (JJS best) (NN performance)) (PP (IN on) (NP (NNP GPU)))) (PP (IN for) (NP (NP (NN training) (CC and) (NN deployment)) (PP (IN of) (NP (NNP LSTM) (NNS networks)))))) (. .))
+(S (NP (NNP Caffe)) (VP (VBZ is) (NP (NP (DT the) (JJS easiest)) (PP (IN for) (S (VP (VBG evaluating) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ standard) (JJ deep) (NNS architectures))))))))) (. .))

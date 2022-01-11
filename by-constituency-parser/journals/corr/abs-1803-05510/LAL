@@ -1,0 +1,3 @@
+(S (PP (IN By) (S (VP (VBG parametrizing) (NP (NN input) (CC and) (NN state) (NNS trajectories)) (PP (IN with) (NP (NN basis) (NNS functions)))))) (NP (NP (JJ different) (NNS approximations)) (PP (TO to) (NP (DT the) (VBN constrained) (JJ linear) (JJ quadratic) (NN regulator) (NN problem)))) (VP (VBP are) (VP (VBN obtained))) (. .))
+(S (NP (DT These) (NNS notes)) (VP (VBP present) (CC and) (VBP discuss) (NP (NP (JJ technical) (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN intended) (S (VP (TO to) (VP (VB supplement) (NP (DT a) (JJ corresponding) (NN journal) (NN article))))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN in) (NP (DT a) (NN model) (JJ predictive) (NN control) (NN context)))))) (. .))

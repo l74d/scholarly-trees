@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN generalization) (NN error)) (PP (IN of) (NP (NP (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP interpolate) (NP (VBN prescribed) (NNS data) (NNS points))) (CC and) (VP (VBP are) (VP (VBN selected) (PP (IN by) (S (VP (VBG minimizing) (NP (DT a) (JJ weighted) (NN norm)))))))))))))) (. .))

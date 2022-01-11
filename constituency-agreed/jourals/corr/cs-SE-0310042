@@ -1,0 +1,4 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NP (DT an) (JJ interesting) (NN trace)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (RB not) (VP (VB be) (VP (VBN produced) (ADVP (RB efficiently)))))))) (, ,) (VP (VBZ is) (RB not) (ADJP (RB very) (JJ useful)) (ADVP (RB either))) (. .))
+(S (ADVP (RB Fourthly)) (, ,) (VP (VB implement) (NP (DT an) (JJ efficient) (NN tracer))) (. .))
+(S (ADVP (RB Lastly)) (, ,) (VP (VB compare) (NP (NP (DT the) (NNS traces)) (PP (IN of) (NP (DT the) (CD two) (NNS tracers))))) (. .))
+(S (PP (IN At) (NP (DT each) (NN step))) (, ,) (NP (NNS problems)) (VP (MD can) (VP (VB be) (VP (VBN found)))) (. .))

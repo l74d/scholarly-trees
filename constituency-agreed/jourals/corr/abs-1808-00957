@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Initial) (NNS methods)) (PP (IN for) (NP (DT this) (NN task)))) (VP (VBD were) (ADJP (JJ dependent) (PP (IN on) (NP (NP (NN feature) (NN engineering)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ varies) (PP (IN with) (NP (DT each) (NN dataset)))))))))) (. .))
+(S (NP (JJ Neural) (NNS networks)) (VP (VBP have) (ADVP (RB barely)) (VP (VBN been) (VP (VBN explored) (S (VP (TO to) (VP (VB perform) (NP (DT this) (NN task)))))))) (. .))

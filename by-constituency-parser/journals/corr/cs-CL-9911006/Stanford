@@ -1,0 +1,4 @@
+(S (NP (NN Question) (NN answering) (NN task)) (VP (VBZ is) (ADVP (RB now)) (VP (VBG being) (VP (VBN done) (PP (IN in) (NP (NN TREC8))) (S (VP (VBG using) (NP (JJ English) (NNS documents))))))) (. .))
+(S (NP (PRP We)) (VP (VBD examined) (NP (NN question)) (S (VP (VBG answering) (NP (NN task)) (PP (IN in) (NP (JJ Japanese) (NNS sentences)))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ selects) (NP (DT the) (NN answer)) (PP (IN by) (S (VP (VBG matching) (NP (DT the) (NN question) (NN sentence)) (PP (IN with) (NP (NP (ADJP (NN knowledge) (HYPH -) (VBN based)) (NNS data)) (VP (VBN written) (PP (IN in) (NP (JJ natural) (NN language)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ syntactic) (NN information)) (S (VP (TO to) (VP (VB obtain) (NP (ADJP (RB highly) (JJ accurate)) (NNS answers)))))) (. .))

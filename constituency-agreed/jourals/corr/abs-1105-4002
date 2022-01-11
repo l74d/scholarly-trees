@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ simple) (NN gradient) (NN method)) (VP (VP (VBZ has) (NP (ADJP (RB much) (JJR lower)) (NN memory) (NNS requirements))) (, ,) (CC but) (VP (VBZ exhibits) (NP (JJ slow) (NN convergence)))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NN Sentiment) (NN analysis)) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN component)) (PP (IN in) (NP (JJ various) (NN text) (NN mining) (NNS applications))))) (. .))
+(S (S (NP (JJ Lexical) (NNS cues)) (VP (VBP are) (ADJP (JJ useful) (PP (IN for) (NP (NN sentiment) (NN analysis)))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP have) (VP (VBN been) (VP (VBN utilized) (PP (IN in) (NP (JJ conventional) (NNS studies))))))) (. .))
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (ADJP (JJ polar) (CC and) (JJ privative)) (NNS words)) (VP (VBP play) (NP (JJ important) (NNS roles)) (PP (IN in) (NP (NN sentiment) (NN analysis)))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ large) (NN j)) (VP (MD will) (VP (VB cause) (NP (DT some) (JJ numerical) (NNS difficulties)))) (. .))
+(S (S (VP (TO To) (VP (VP (VB improve) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (NNP SFWG))))) (CC and) (VP (VB avoid) (NP (JJ numerical) (NN locking)))))) (, ,) (PP (IN in) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (DT the) (JJ optimal) (NN j0)) (PP (IN with) (NP (JJ rigorous) (JJ mathematical) (NN proof)))) (. .))

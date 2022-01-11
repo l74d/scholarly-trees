@@ -1,0 +1,2 @@
+(S (NP (NN Feature) (NN selection)) (VP (VBZ has) (VP (VBN been) (VP (VBN studied) (ADVP (RB widely)) (PP (IN in) (NP (DT the) (NN literature)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN variance)) (PP (IN of) (NP (NP (DT a) (NN feature)) (PP (IN with) (NP (DT a) (JJ few) (NNS samples)))))) (VP (VBZ is) (ADJP (JJ pointless)) (SBAR (IN unless) (S (NP (PRP it)) (VP (VBZ represents) (NP (DT the) (NNS data) (NN distribution)) (ADVP (RB efficiently)))))) (. .))

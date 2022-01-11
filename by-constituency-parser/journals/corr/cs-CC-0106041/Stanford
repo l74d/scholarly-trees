@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP establish) (SBAR (S (NP (NP (DT a) (JJ similar)) (, ,) (ADJP (ADVP (IN albeit) (RB slightly)) (JJR weaker)) (, ,)) (VP (VBP result) (PP (IN about) (S (VP (VBG computing) (NP (NP (JJ complete) (JJ Hamiltonian) (NNS cycles)) (PP (IN of) (NP (NP (DT a) (NN graph)) (PP (IN from) (NP (JJ partial) (JJ Hamiltonian) (NNS cycles))))))))))))) (. .))

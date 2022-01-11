@@ -1,0 +1,2 @@
+(S (SBAR (RB Even) (IN if) (S (NP (RB only) (DT the) (JJ acoustic) (NN channel)) (VP (VBZ is) (VP (VBN considered))))) (, ,) (NP (JJ human) (NN communication)) (VP (VBZ is) (ADJP (RB highly) (JJ multi-modal))) (. .))
+(S (NP (JJ Non-lexical) (NNS cues)) (VP (VBP provide) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NN information)) (PP (JJ such) (IN as) (NP (NN emotion) (CC or) (NN agreement))))))) (. .))

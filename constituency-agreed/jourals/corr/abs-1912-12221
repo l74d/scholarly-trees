@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (NP (NNP SDN)) (VP (VBZ uses) (NP (DT the) (NNP OpenFlow) (NN protocol)) (PP (IN for) (NP (NP (NN communication)) (PP (IN between) (NP (NP (DT the) (NN controller)) (CC and) (NP (PRP$ its) (NNS switches))))))) (. .))

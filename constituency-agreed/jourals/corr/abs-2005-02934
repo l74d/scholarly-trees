@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP test) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))) (PP (IN in) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NNS environments)) (SBAR (WHADVP (WRB where)) (S (NP (NNS tasks)) (VP (MD may) (VP (VB vary) (PP (IN within) (NP (DT each) (NN episode)))))))))))) (. .))

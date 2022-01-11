@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ contains) (NP (NP (NP (DT a) (NN colorization) (NN network)) (PP (IN for) (NP (NN video) (NN frame) (NN colorization)))) (CC and) (NP (NP (DT a) (NN refinement) (NN network)) (PP (IN for) (NP (JJ spatiotemporal) (NN color) (NN refinement)))))) (. .))

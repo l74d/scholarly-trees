@@ -1,0 +1,2 @@
+(S (NP (NNP SMBO) (NNS algorithms)) (VP (VBP are) (ADJP (RB intrinsically) (JJ modular)) (, ,) (S (VP (VBG leaving) (NP (DT the) (NN user)) (PP (IN with) (NP (JJ many) (JJ important) (NN design) (NNS choices)))))) (. .))
+(S (NP (NP (DT The) (NN choice)) (PP (IN of) (NP (DT the) (JJ initial) (NN sampling) (NN strategy)))) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ receives) (NP (ADJP (RB much) (JJR less)) (NN attention))) (. .))

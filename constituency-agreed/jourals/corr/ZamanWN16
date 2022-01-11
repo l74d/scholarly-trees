@@ -1,0 +1,2 @@
+(S (PP (IN After) (S (VP (VBG removing) (NP (NNS outliers)) (PP (IN from) (NP (DT the) (NN point) (NN cloud)))))) (, ,) (NP (JJ bilateral) (NN mesh) (NN filtering)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB smooth) (NP (DT the) (VBG remaining) (NNS points))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN approach)) (, ,) (ADVP (RB comparably)) (, ,) (VP (VBZ is) (ADJP (JJ robust) (CC and) (JJ efficient)))))) (. .))

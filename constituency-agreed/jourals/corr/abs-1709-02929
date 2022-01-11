@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (S (VP (TO to) (VP (VB achieve) (NP (JJR stronger) (NN knowledge) (NN transfer))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP use) (NP (DT a) (JJ common) (NN initialization) (NN trick)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN distillation) (NN performance)) (PP (IN of) (NP (NN classification)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (JJS largest) (NN number)) (PP (IN of) (NP (NP (JJ minimal) (NNS separators)) (SBAR (S (NP (NP (DT a) (NN graph)) (PP (IN on) (NP (NN n) (NNS vertices)))) (VP (MD can) (VP (VB have) (ADVP (IN at) (RBS most)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ gives) (ADVP (RB also)) (NP (NP (DT an) (VBN improved) (ADJP (JJR lower))) (VP (VBN bound) (PP (IN on) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (JJ potential) (JJ maximal) (NNS cliques)) (PP (IN in) (NP (DT a) (NN graph)))))))))) (. .))
+(S (NP (PRP We)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB emphasize) (SBAR (IN that) (S (NP (PRP$ our) (NNS proofs)) (VP (VBP are) (ADJP (JJ short) (, ,) (JJ simple) (, ,) (CC and) (JJ elementary)))))))))) (. .))

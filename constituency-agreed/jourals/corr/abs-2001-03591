@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP determine) (NP (DT the) (JJ optimal) (NN inflow)) (PP (VBG depending) (PP (IN on) (NP (NP (DT the) (NN producer) (POS 's)) (NN risk) (NNS preferences))))) (. .))
+(S (ADVP (RBR More) (RB precisely)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (CD two) (NNS types)) (PP (IN of) (NP (NN chance) (NNS constraints)))) (S (VP (TO to) (VP (VB formulate) (NP (NP (DT the) (NN requirement)) (PP (IN of) (NP (NN demand) (NN satisfaction)))) (PP (IN at) (NP (DT a) (JJ prescribed) (NN probability) (NN level))))))) (. .))

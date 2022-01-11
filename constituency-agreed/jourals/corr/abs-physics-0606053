@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ optimal) (NNS estimators)) (VP (VBP allow) (NP (NP (DT a) (JJ thorough) (NN exploration)) (PP (IN of) (NP (NNS models))))))))) (. .))
+(S (S (NP (JJ Neural) (NNS networks)) (VP (VBP are) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (JJ relevant)) (CC and) (ADJP (RB very) (JJ efficient))) (PP (IN in) (NP (DT this) (NN framework))))))))) (, ,) (CC and) (S (NP (JJ further) (NNS usages)) (VP (VBP are) (VP (VBN suggested)))) (. .))

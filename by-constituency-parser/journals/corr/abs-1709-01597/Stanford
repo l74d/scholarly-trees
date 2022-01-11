@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (JJ multi-color) (NN image) (NML (NN compression) (HYPH -) (NN encryption))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (S (PP (IN For) (ADJP (NP (NN compression) (NN step)) (JJ fuzzy))) (VP (VB transform) (PP (VBN based) (PP (IN on) (ADJP (JJ exponential)))))) (NP (NML (NN b) (HYPH -) (NN spline)) (NN function)) (VP (VBZ is) (VP (VBN used))) (. .))
+(S (PP (IN In) (NP (NN encryption) (NN step))) (, ,) (NP (NP (DT a) (JJ novel) (NN combination) (JJ chaotic) (NN system)) (PP (VBN based) (PP (IN on) (NP (NP (NN Sine)) (CC and) (NP (NNP Tent) (NNS systems)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (PP (ADVP (RB Also)) (IN in) (NP (DT the) (NN encryption) (NN algorithm))) (, ,) (NP (NP (NN 3D) (NN shift)) (PP (VBN based) (PP (IN on) (NP (JJ chaotic) (NN system))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (DT The) (NML (NML (NN simulation) (NNS results)) (CC and) (NML (NN security))) (NN analysis)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ is) (ADJP (JJ secure) (CC and) (JJ efficient)))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (NP (NN computation)) (PP (IN over) (NP (JJ multicast) (NNS networks)))) (VP (VBZ is) (VP (VBN considered)))) (: :) (S (NP (DT each) (NN receiver)) (VP (VBZ decodes) (NP (NP (DT an) (JJ identical) (NN function)) (PP (IN of) (NP (DT the) (JJ original) (NNS messages)))))) (. .))

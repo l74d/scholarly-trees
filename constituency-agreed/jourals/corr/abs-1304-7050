@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first) (NN paper)) (VP (VBD presented) (NP (NP (DT the) (JJ original) (NN algorithm)) (, ,) (NP (PRP$ its) (NNS features)) (, ,) (CC and) (NP (JJ theoretical) (NNS results)))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB modify) (NP (DT the) (JJ original) (NN algorithm)) (S (VP (TO to) (VP (VB increase) (NP (PRP$ its) (NN efficiency)))))))))) (. .))

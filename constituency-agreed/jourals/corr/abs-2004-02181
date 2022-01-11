@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NP (DT a) (JJ principled) (NN definition)) (PP (IN of) (NP (NN generalization) (NN barrier) (NNS words)))) (CC and) (NP (NP (DT a) (VBN modified) (NN version)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ tractable) (PP (IN in) (NP (NN computation)))))))))) (. .))
+(S (NP (NP (JJ Potential) (NN usage)) (PP (IN of) (NP (DT the) (VBN detected) (NN barrier) (NNS words)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (JJ Personal) (NNS robots)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB interact) (PP (IN with) (NP (DT the) (NN user))) (PP (IN by) (S (VP (VBG recognizing) (NP (NP (DT the) (NN user) (POS 's)) (NN face)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (JJ such) (NNS limitations))))) (, ,) (NP (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG estimating) (NP (JJ human) (NN body) (NN orientation)))))) (VP (VBZ is) (VP (VBN required))) (. .))
+(S (PP (IN With) (NP (DT this))) (, ,) (NP (PRP we)) (VP (VBD demonstrated) (NP (DT an) (JJ improved) (NN face) (NN detection) (NN rate))) (. .))

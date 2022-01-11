@@ -1,0 +1,2 @@
+(S (NP (NNP City) (NN traffic)) (VP (VBZ is) (NP (NP (DT a) (JJ dynamic) (NN system)) (PP (IN of) (NP (JJ enormous) (NN complexity))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP attempt) (S (VP (TO to) (VP (VB solve) (NP (DT these) (NNS problems)) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (NP (JJ large) (NN amount)) (PP (IN of) (NP (VBG floating) (NN car) (NNS data))))))))))) (. .))

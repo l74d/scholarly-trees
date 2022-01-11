@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ selective) (NN algorithm)) (VP (VBZ uses) (NP (JJ certain) (NNS heuristics)) (S (VP (TO to) (VP (VB select) (PP (IN between) (NP (DT the) (CD two) (NNS algorithms))) (SBAR (IN so) (IN that) (S (NP (NP (JJ overall) (NN makespan)) (PP (IN of) (NP (NP (NNS tasks)) (PP (IN on) (NP (DT the) (NNS machines)))))) (VP (VBZ is) (VP (VBN minimized))))))))) (. .))

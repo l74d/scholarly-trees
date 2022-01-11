@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN system)) (VP (VBZ integrates) (NP (NP (DT an) (NN amalgam)) (PP (IN of) (NP (NP (NN radio) (NNS technologies)) (PP (JJ such) (IN as) (NP (NNP LTE) (, ,) (NNP WLAN) (CC and) (NNP TETRA)))))) (S (VP (TO to) (VP (VB provide) (NP (JJ heterogeneous) (NNS communications)) (PP (IN in) (NP (DT the) (NN deployment) (NN location))))))) (. .))
+(S (NP (JJ Cognitive) (NN radio)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (JJ autonomous) (NN network) (NN configuration))))) (. .))

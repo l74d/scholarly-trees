@@ -1,0 +1,1 @@
+(S (S (VP (VBG Exploiting) (NP (JJ epipolar) (NN geometry) (NNS constraints)))) (, ,) (NP (PRP we)) (VP (VBP generate) (NP (NN disparity) (NNS images)) (PP (IN by) (S (VP (VBG training) (NP (PRP$ our) (NN network)) (PP (IN with) (NP (DT an) (NN image) (NN reconstruction) (NN loss))))))) (. .))

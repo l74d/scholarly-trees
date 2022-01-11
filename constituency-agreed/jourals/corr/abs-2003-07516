@@ -1,0 +1,2 @@
+(S (ADVP (RB Technically)) (, ,) (NP (DT a) (JJ parallel) (NN pyramid) (NN structure)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB compensate) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NN information))))))))) (. .))
+(S (ADVP (RB Meanwhile)) (, ,) (NP (DT the) (JJ overall) (JJ computational) (NN complexity)) (VP (VBZ does) (RB not) (VP (VB increase))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN context))) (, ,) (NP (DT the) (NN compression) (JJ fractal) (NN dimension)) (VP (VBZ is) (VP (VBN put) (ADVP (RB forward)))) (. .))
+(S (NP (PRP It)) (VP (VBZ provides) (NP (NP (DT a) (JJ simple) (NN method)) (PP (IN for) (NP (NP (DT the) (JJ direct) (NN estimation)) (PP (IN of) (NP (NP (DT the) (NN dimension)) (PP (IN of) (NP (NP (NNS fractals)) (VP (VBN stored) (PP (IN as) (NP (JJ digital) (NN image) (NNS files)))))))))))) (. .))
+(S (NP (DT The) (JJ computational) (NN scheme)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (S (VP (VBG using) (NP (ADJP (RB readily) (JJ available)) (JJ free) (NN software))))))) (. .))

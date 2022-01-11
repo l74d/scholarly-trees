@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN vulnerability)) (PP (IN of) (NP (JJ deep) (NN model)))) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBN revealed) (PP (IN by) (NP (NP (ADJP (RB carefully) (VBN designed)) (JJ adversarial) (NNS examples)) (VP (VBN generated) (PP (IN by) (NP (JJ various) (JJ adversarial) (NN attack) (NNS methods))))))))) (. .))

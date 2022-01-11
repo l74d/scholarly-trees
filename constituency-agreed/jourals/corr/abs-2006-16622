@@ -1,0 +1,1 @@
+(S (ADVP (RB Currently)) (, ,) (NP (JJ large) (NNS systems)) (VP (VBP are) (ADVP (RB often)) (VP (VBN simulated) (PP (IN by) (S (VP (VBG truncating) (NP (NP (DT the) (NNP Coulomb) (NN potential)) (SBAR (WHNP (WDT which)) (S (VP (VBZ introduces) (NP (JJ uncontrollable) (JJ systematic) (NNS errors))))))))))) (. .))

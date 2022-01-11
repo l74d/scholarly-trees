@@ -1,0 +1,2 @@
+(S (NP (DT Every) (NN task)) (VP (VP (VBZ is) (ADJP (JJ indivisible))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN at) (NP (CC either) (NP (DT the) (JJ mobile) (NN device)) (CC or) (NP (DT the) (NNP MEC) (NN server)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB introduce) (NP (NP (DT a) (NN baseline) (NN scheduling) (NN policy)) (, ,) (SBAR (WHNP (WP$ whose) (NN value) (NN function)) (S (VP (MD can) (VP (VB be) (VP (VBN derived) (ADVP (RB analytically))))))))) (. .))

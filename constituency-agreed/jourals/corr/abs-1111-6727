@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (ADJP (JJ flexible)) (PP (VBG depending) (PP (IN on) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT the) (NN watermark) (NN text))))))) (. .))
+(S (NP (DT This) (JJ new) (NN algorithm)) (VP (VBD improved) (NP (NP (PRP$ its) (NN quality)) (PP (IN of) (NP (DT the) (JJ watermarked) (NN image))))) (. .))

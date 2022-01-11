@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (NNS objectives)) (PP (IN of) (NP (NNS cyberattacks)))) (VP (VBP are) (VP (VBG becoming) (ADJP (JJ sophisticated))))) (, ,) (CC and) (S (NP (NNS attackers)) (VP (VBP are) (VP (VBG concealing) (NP (PRP$ their) (NN identity)) (PP (IN by) (S (VP (VBG masquerading) (PP (IN as) (NP (JJ other) (NNS attackers))))))))) (. .))
+(S (NP (DT The) (NNS data)) (VP (VBP are) (VP (VBN stored) (PP (IN in) (NP (DT a) (JJ structured) (NN format))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN result)) (VP (VBZ is) (NP (NP (DT a) (JJ deep) (JJ neural) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN optimized) (PP (IN over) (NP (DT the) (JJ covered) (NN domain))))))))) (. .))

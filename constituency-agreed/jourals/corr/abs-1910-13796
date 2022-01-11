@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (MD will) (VP (VB analyse) (NP (NP (DT the) (NNS benefits) (CC and) (NNS drawbacks)) (PP (IN of) (NP (DT each) (NN approach)))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (MD will) (ADVP (RB also)) (VP (VB explore) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (CD two) (NNS sides)) (PP (IN of) (NP (NN computer) (NN vision)))) (VP (MD can) (VP (VB be) (VP (VBN combined)))))))) (. .))

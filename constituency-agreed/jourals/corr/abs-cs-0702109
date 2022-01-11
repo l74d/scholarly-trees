@@ -1,0 +1,2 @@
+(S (ADVP (RB Apart) (PP (IN from) (NP (NP (DT the) (NN objective) (CC and) (NN usage)) (PP (IN of) (NP (NN annotation) (NNS tools)))))) (, ,) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS tools)) (VP (VBP are) (VP (VBN conceived) (CC and) (VBN classified))))) (VP (VBZ has) (NP (NP (NN implication)) (PP (IN on) (NP (PRP$ their) (NN usage))))) (. .))
+(S (NP (JJ Several) (NNS criteria)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB categorize) (NP (NN annotation) (NNS concepts)))))))) (. .))

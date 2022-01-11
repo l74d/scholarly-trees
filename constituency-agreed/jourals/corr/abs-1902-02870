@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Visual) (NN search)) (PP (IN of) (NP (NP (JJ relevant) (NNS targets)) (PP (IN in) (NP (DT the) (NN environment)))))) (VP (VBZ is) (NP (DT a) (JJ crucial) (NN robot) (NN skill))) (. .))
+(S (NP (JJ Visual) (NN search)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ relevant) (S (VP (TO to) (VP (VB recover) (PP (IN from) (NP (DT a) (NN failure)))))))) (. .))

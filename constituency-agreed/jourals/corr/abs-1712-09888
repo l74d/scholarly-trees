@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (NP (NP (JJR higher) (NN recognition) (NN accuracy)) (PP (IN against) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (JJ popular) (NNP DCNN) (NNS models)) (PP (VBG including) (NP (DT the) (NNP RCNN))))))))) (. .))

@@ -1,0 +1,6 @@
+(S (NP (NNP Social) (NNS networks)) (VP (VBP play) (NP (DT a) (JJ significant) (NN role)) (PP (IN in) (NP (NP (NN today) (POS 's)) (NN world)))) (. .))
+(S (NP (NP (DT The) (NN importance)) (PP (IN of) (NP (NP (JJ social) (NNS networks)) (, ,) (NP (PP (IN for) (NP (NN example))) (NP (NNP Facebook) (CC or) (NNP Twitter))) (, ,)))) (VP (VBP are) (ADJP (JJ undeniable))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (ADVP (RB also)) (VP (VBP have) (NP (JJ many) (NNS issues))) (. .))
+(S (WHNP (NP (CD One)) (WHPP (IN of) (WHNP (WDT which)))) (VP (VBZ is) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (NP (DT a) (NN defense) (NN mechanism)) (PP (IN against) (NP (JJ fake) (NNS accounts))))))) (. .))
+(S (NP (NP (PRP It))) (VP (VBZ is) (ADVP (RB obviously)) (RB not) (NP (DT a) (JJ trivial) (NN task)) (S (VP (TO to) (VP (VB separate) (NP (JJ fake) (NNS accounts)) (PP (IN from) (NP (JJ authentic) (NNS ones))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ ranking) (NN scheme)) (, ,) (VP (NN comprising) (PP (IN of) (NP (NP (DT both) (ADJP (ADJP (NNS graph) (VBN based)) (CC and) (ADJP (NN feature) (VBN based))) (NNS approaches)) (SBAR (S (VP (TO to) (VP (VB aid) (NP (NP (DT the) (NN detection)) (PP (IN of) (NP (JJ fake) (NNP Facebook) (NNS profiles))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN web)) (VP (VBZ contains) (NP (NP (JJ vast) (NNS repositories)) (PP (IN of) (NP (JJ unstructured) (NN text))))) (. .))
+(S (NP (DT The) (NNS extractions)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (JJ semantic) (NN web) (NNS applications)) (CC and) (NP (NN question) (NN answering)))))))) (. .))

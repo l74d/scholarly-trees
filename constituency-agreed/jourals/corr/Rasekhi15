@@ -1,0 +1,4 @@
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ has) (NP (CD two) (JJ main) (NNS steps))) (. .))
+(S (NP (NP (NN Target)) (PP (IN in) (NP (DT the) (JJ first) (NN frame)))) (VP (VBZ is) (VP (VBN defined) (S (VP (VBG using) (NP (DT an) (NN ellipse)))))) (. .))
+(S (NP (NP (DT The) (NN center)) (PP (IN of) (NP (NN ellipse)))) (VP (MD will) (VP (VB be) (NP (NP (DT the) (JJ weighted) (NN average)) (PP (IN of) (NP (DT these) (NNS centers)))))) (. .))
+(S (PP (IN By) (S (VP (VBG using) (NP (JJ mean) (NN shift)) (ADVP (RB actually))))) (NP (PRP we)) (VP (VBP estimate) (NP (NP (DT the) (NN target) (NN movement)) (PP (IN between) (NP (CD two) (JJ consecutive) (NNS frames))))) (. .))

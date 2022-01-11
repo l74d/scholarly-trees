@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG transmitting) (NP (JJ classical) (NN information)) (PP (IN over) (NP (NP (DT a) (ADJP (NN time) (HYPH -) (JJ invariant)) (NN channel)) (PP (IN with) (NP (NN memory)))))))))) (. .))
+(S (PP (IN For) (NP (JJ such) (NNS channels))) (, ,) (NP (JJ various) (NNS techniques)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN for) (S (VP (VBG estimating) (CC and) (VBG bounding) (NP (DT the) (NN information) (NN rate)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NNS algorithms)) (PP (IN for) (S (VP (VBG estimating) (CC and) (VBG bounding) (NP (NP (DT the) (NN information) (NN rate)) (PP (IN of) (NP (JJ such) (NNS channels)))))))) (. .))
+(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (JJ suitable) (JJ graphical) (NNS models)) (PP (IN for) (S (VP (VBG doing) (NP (DT the) (JJ relevant) (NNS computations)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG predicting) (NP (NP (NN similarity)) (PP (IN between) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (NP (JJ handwritten) (NN document) (NNS images)) (VP (VBN written) (PP (IN by) (NP (JJ different) (NNS individuals)))))))))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ does) (RB not) (VP (VB depend) (PP (IN on) (NP (NP (DT an) (JJ accurate) (NN segmentation)) (PP (IN of) (NP (NNS words) (CC and) (NNS lines))))))) (. .))

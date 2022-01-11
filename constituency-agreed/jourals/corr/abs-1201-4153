@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN processor)) (VP (VBZ starts) (PP (IN with) (NP (DT a) (JJ single) (JJ real) (NN value)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (DT this)) (VP (VBZ is) (ADJP (JJ true)) (SBAR (IN if) (S (NP (DT the) (NN diameter)) (VP (VBZ is) (NP (CD 2))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ major) (NN problem)) (PP (IN of) (NP (NNP MDNet)))) (ADVP (RB also)) (VP (VBZ lies) (PP (IN in) (NP (DT the) (NN time) (NN efficiency)))) (. .))
+(S (NP (NNP RoIPool)) (VP (MD could) (VP (VB lose) (NP (DT some) (NN positioning) (NN precision)) (SBAR (IN because) (S (NP (PRP it)) (VP (MD can) (RB not) (VP (VB handle) (NP (NP (NNS locations)) (VP (VBN represented) (PP (IN by) (NP (VBG floating) (NNS numbers))))))))))) (. .))

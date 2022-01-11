@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (NP (DT an) (NN utterance) (NN encoder)) (, ,) (NP (DT a) (NN slot) (NN gate)) (, ,) (CC and) (NP (DT a) (NN state) (NN generator))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN shared) (PP (IN across) (NP (NNS domains))))))))))) (. .))

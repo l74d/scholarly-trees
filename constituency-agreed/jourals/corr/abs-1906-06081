@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN method)) (VP (VBZ includes) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NN time) (NNS integrators))))) (. .))
+(S (NP (DT The) (NN dissipation)) (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (DT a) (JJ single) (NN parameter))) (PP (IN as) (PP (IN in) (NP (DT the) (JJ original) (NN method)))))) (. .))

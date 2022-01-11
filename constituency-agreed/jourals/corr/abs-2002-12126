@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (DT the) (JJ different) (NNS variants)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBP are) (VP (VBN addressed) (ADVP (RB too)))) (. .))

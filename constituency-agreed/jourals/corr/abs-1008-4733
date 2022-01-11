@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ dual) (NN decoding)) (VP (MD can) (VP (VB be) (VP (VBN obtained) (PP (IN in) (ADJP (JJ particular))) (SBAR (IN if) (S (NP (DT the) (NN state) (NNS sequences)) (VP (VBP come) (PP (IN from) (NP (NP (DT a) (VBN known) (NN codebook)) (PP (IN with) (NP (NP (NN rate)) (VP (VBG satisfying) (NP (DT a) (JJ simple) (NN constraint))))))))))))) (. .))

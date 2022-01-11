@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (CD two) (NNS pairs)) (VP (VBP have) (NP (NP (DT a) (JJ high) (NN degree)) (PP (IN of) (NP (JJ relational) (NN similarity))))))) (, ,) (NP (PRP they)) (VP (VBP are) (ADJP (JJ analogous))) (. .))
+(S (NP (NP (DT The) (NNS elements)) (PP (IN in) (NP (DT the) (NNS vectors)))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS frequencies)) (PP (IN of) (NP (NP (ADJP (RB manually) (VBN constructed)) (NNS patterns)) (PP (IN in) (NP (DT a) (JJ large) (NN corpus))))))))) (. .))

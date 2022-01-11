@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP report) (NP (NP (DT the) (JJ first) (NNS steps)) (PP (IN in) (S (VP (VBG creating) (NP (DT an) (JJ optical) (NN computing) (NN system))))))) (. .))
+(S (NP (DT This) (NN system)) (VP (MD may) (VP (VB solve) (NP (NNP NP-Hard) (NNS problems)) (PP (IN by) (S (VP (VBG utilizing) (NP (NP (DT a) (NN setup)) (PP (IN of) (NP (JJ exponential) (JJ sized) (NNS masks))))))))) (. .))
+(S (S (NP (DT This)) (VP (VBZ is) (NP (JJ exponential) (NN space) (NN complexity)))) (CC but) (S (NP (NP (DT the) (NN production)) (PP (IN of) (NP (DT those) (NNS masks)))) (VP (VBZ is) (VP (VBN done) (PP (IN with) (NP (DT a) (JJ polynomial) (NN time) (NN preprocessing)))))) (. .))
+(S (NP (DT These) (NNS masks)) (VP (VBP are) (ADVP (RB later)) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN problem)) (PP (IN in) (NP (JJ polynomial) (NN time)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB reduced) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NNS masks)))) (PP (TO to) (NP (JJ nano-scaled) (NN density))))))) (. .))
+(S (S (NP (NNS Simulations)) (VP (VBD were) (VP (VBN done) (S (VP (TO to) (VP (VB choose) (NP (DT a) (JJ proper) (NN design)))))))) (, ,) (CC and) (S (NP (JJ actual) (NNS implementations)) (VP (VBP show) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (PDT such) (DT a) (NN system)))))) (. .))

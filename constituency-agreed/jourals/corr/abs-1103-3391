@@ -1,0 +1,2 @@
+(S (NP (NNP Radiotherapy)) (VP (VBZ represents) (NP (NP (DT an) (JJ important) (NN phase)) (PP (IN of) (NP (NN treatment)))) (PP (IN for) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NN cancer) (NNS patients)))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN conducted) (S (VP (VBG varying) (NP (NP (DT the) (NNS days)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (NNS schedules)) (VP (MD can) (VP (VB be) (VP (VBN created))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (JJR more) (NN speed))) (, ,) (NP (JJ recursive) (NN hash) (NNS families)) (VP (VBP compute) (NP (NN hash) (NNS values)) (PP (IN by) (S (VP (VBG updating) (NP (JJ previous) (NNS values)))))) (. .))

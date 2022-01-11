@@ -1,0 +1,2 @@
+(S (NP (JJ Rough) (NNS sets)) (VP (VBP are) (ADJP (JJ efficient) (PP (IN for) (NP (NP (NNS data) (NN pre-process)) (PP (IN in) (NP (NNS data) (NN mining))))))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (DT this) (NN paper)) (VP (VBZ establishes) (NP (NP (DT a) (JJ close) (NN relationship)) (PP (IN between) (NP (NP (NNS matroids)) (CC and) (NP (VBN generalized) (JJ rough) (NNS sets)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN of) (S (VP (VBG classifying) (NP (NNS documents)) (PP (IN into) (NP (NNS categories)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP define) (PP (IN for) (NP (DT each) (NN document) (NN category))) (NP (NP (DT a) (JJ finite) (NN mixture) (NN model)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (JJ linear) (NN combination)) (PP (IN of) (NP (NP (DT the) (NN probability) (NNS distributions)) (PP (IN of) (NP (DT the) (NNS clusters))))))))))) (. .))

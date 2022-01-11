@@ -1,0 +1,2 @@
+(S (NP (NN Feature) (NN weighting)) (VP (VBZ is) (NP (NP (DT a) (NN technique)) (VP (VBN used) (S (VP (TO to) (VP (VB approximate) (NP (NP (DT the) (JJ optimal) (NN degree)) (PP (IN of) (NP (NP (NN influence)) (PP (IN of) (NP (JJ individual) (NNS features)))))))))))) (. .))
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (NN feature) (NN weighting)) (VP (VBZ increases) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP DIRS))))))))))) (. .))

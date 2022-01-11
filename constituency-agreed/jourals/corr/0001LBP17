@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (DT this) (NN issue)) (PP (IN by) (S (VP (VBG proposing) (NP (NP (JJ contextual) (NNS similarities)) (PP (IN between) (NP (NP (NNS pairs)) (PP (IN of) (NP (NNS nodes)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ contextual) (NNS similarities)) (S (VP (TO to) (VP (VP (VB construct) (NP (DT an) (JJ objective) (NN function))) (CC and) (VP (VB optimize) (NP (PRP it)) (PP (IN with) (NP (DT a) (JJ linear) (NN programming) (NN approach)))))))) (. .))

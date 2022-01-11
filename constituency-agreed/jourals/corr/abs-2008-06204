@@ -1,0 +1,3 @@
+(S (NP (DT All) (NNS images)) (VP (VBP are) (VP (VBN annotated) (PP (IN with) (NP (JJ multi-class) (JJ semantic) (NN segmentation) (NN format))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB capture) (NP (JJ directional) (NN information)) (ADVP (RB comprehensively)) (PP (IN with) (NP (JJ multidirectional) (NN slice) (NN convolution))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ outperforms) (NP (JJ other) (NNS competitors)))))) (. .))

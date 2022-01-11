@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNP Zariski) (NN closure)) (PP (IN of) (NP (DT this) (NN set)))) (VP (VBZ is) (NP (NP (DT a) (NN hypersurface)) (PP (IN in) (NP (DT the) (NNP Grassmannian))))) (. .))
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT the) (NN convex) (JJ algebraic) (NN geometry)) (PP (IN of) (NP (JJ such) (JJ bad) (NNS projections)))) (, ,) (PP (IN with) (NP (NP (NN focus)) (PP (IN on) (NP (JJ explicit) (NNS computations)))))) (. .))

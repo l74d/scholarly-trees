@@ -1,0 +1,2 @@
+(S (NP (NP (DT These) (NN time) (NN series)) (PP (IN of) (NP (NN motion) (NNS features)))) (VP (VBP are) (NP (NP (ADJP (JJ reliable) (CC and) (JJ explainable)) (NNS characteristics)) (PP (IN of) (NP (JJ pathological) (JJ cardiac) (NN motion))))) (. .))
+(S (S (VP (VBG Using) (NP (QP (RB only) (CD nine)) (NN feature) (NNS values)) (PP (IN as) (NP (NN input))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (ADJP (JJ explainable) (, ,) (JJ simple) (CC and) (JJ flexible)) (NN model)) (PP (IN for) (NP (NN pathology) (NN classification))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN if) (S (NP (DT the) (NN vehicle)) (VP (VBZ fails) (S (VP (TO to) (VP (VB locate) (NP (DT any) (JJ critical) (NN sign)))))))) (, ,) (NP (PRP it)) (VP (MD might) (VP (VB make) (NP (DT a) (JJ catastrophic) (NN failure)))) (. .))
+(S (NP (PRP We)) (VP (VBP are) (VP (VBG using) (NP (NN precision) (CC and) (NN recall)) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NNP FND)))) (PP (IN in) (NP (CD two) (JJ different) (NNS datasets)))))))) (. .))

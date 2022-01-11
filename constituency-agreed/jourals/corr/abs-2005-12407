@@ -1,0 +1,2 @@
+(S (ADVP (RB Hence)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN method)) (SBAR (WHNP (WDT which)) (S (VP (VBZ ensures) (NP (NP (JJ continuous) (NNS transitions)) (PP (IN between) (NP (JJ sequential) (JJ quadratic) (NNS programs))))))))) (. .))
+(S (NP (JJ Robotic) (NN implementation) (NNS results)) (VP (VBP are) (ADVP (RB also)) (VP (VBN provided))) (. .))

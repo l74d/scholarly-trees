@@ -1,0 +1,2 @@
+(S (NP (CD One)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ ordinary) (JJ differential) (NNS equations))) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ other)) (VP (VBZ uses) (NP (DT a) (NN diffusion) (NN process))))))) (. .))
+(S (NP (DT The) (VBG remaining) (NNS components)) (VP (VBP are) (VP (VBN treated) (PP (IN as) (NP (JJ discrete) (NNS quantities))))) (. .))

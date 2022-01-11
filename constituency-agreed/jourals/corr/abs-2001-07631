@@ -1,0 +1,2 @@
+(S (S (NP (NP (NNS Attacks)) (PP (IN in) (NP (NN feature) (NN space)))) (VP (VBP produce) (NP (JJ semantic) (NN perturbation)))) (, ,) (CC but) (S (NP (PRP they)) (VP (MD could) (ADVP (RB only)) (VP (VB deal) (PP (IN with) (NP (JJ low) (NN resolution) (NNS samples)))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (NNP AIEF)))) (PP (IN by) (S (VP (VBG attacking) (PP (IN on) (NP (JJ different) (NNS tasks))) (PP (IN with) (NP (JJ different) (JJ generative) (NNS models))))))) (. .))

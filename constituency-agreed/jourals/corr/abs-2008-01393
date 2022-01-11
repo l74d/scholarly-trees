@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT this) (NN grain) (NN space)))) (VP (VBZ is) (VP (VBN bound) (PP (IN by) (NP (NP (DT that)) (PP (IN of) (NP (DT the) (NNS descriptors))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ implies) (SBAR (IN that) (S (NP (JJ original) (NNS grains)) (VP (VBP are) (RB not) (VP (VBN stored) (PP (IN for) (NP (NN synthesis)))))))) (. .))

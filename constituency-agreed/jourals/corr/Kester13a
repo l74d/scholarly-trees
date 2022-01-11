@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ cryptographic) (NNS methods)) (PP (IN for) (S (VP (VBG enhancing) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (JJ digital) (NNS contents)))))))) (VP (VBP have) (VP (VBN gained) (NP (JJ high) (NN significance)) (PP (IN in) (NP (DT the) (JJ current) (NN era))))) (. .))
+(S (PP (IN At) (NP (DT the) (NN end))) (, ,) (NP (NN cryptanalysis)) (VP (VBD was) (VP (VBN performed) (PP (IN on) (NP (DT the) (NN ciphertext))))) (. .))

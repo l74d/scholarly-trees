@@ -1,0 +1,2 @@
+(S (S (NP (JJ Many) (NN centrality) (NNS measures)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB address) (NP (DT this) (NN problem))))))))) (, ,) (CC but) (S (NP (JJS most)) (VP (VBP have) (NP (NNS limitations)))) (. .))
+(S (NP (DT A) (NN node)) (VP (VBZ is) (ADJP (RBR more) (JJ influential)) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ its) (JJ local) (NN information) (NN dimensionality)) (VP (VBZ is) (ADJP (JJR higher)))))) (. .))

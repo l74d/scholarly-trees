@@ -1,0 +1,2 @@
+(S (NP (NNP OOIC)) (VP (VBZ allows) (S (VP (VBG reflecting) (NP (NP (DT the) (JJ dynamic) (NNS characteristics)) (PP (IN of) (NP (DT the) (NNS applications)))) (PP (IN by) (S (VP (VBG instantiating) (NP (NNS objects)) (ADVP (RB dynamically)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (JJ major) (NNS challenges)) (PP (IN of) (NP (NP (NNP OOIC)) (CONJP (RB as) (RB well) (IN as)) (NP (PRP$ its) (NNS rudiments))))) (VP (VBP are) (VP (VBN recapped))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VP (VBP re-assess) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ several) (NN keyphrase) (NN extraction) (NNS models))))) (CC and) (VP (VB measure) (NP (PRP$ their) (NN robustness)) (PP (IN against) (NP (NP (ADJP (RB increasingly) (JJ sophisticated)) (NNS levels)) (PP (IN of) (NP (NN document) (NN preprocessing))))))) (. .))

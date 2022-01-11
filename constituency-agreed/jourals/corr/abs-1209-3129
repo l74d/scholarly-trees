@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN readout)) (VP (VBZ has) (VP (VBN been) (VP (VBN built) (CC and) (VBN tested) (ADVP (RB experimentally)) (PP (IN on) (NP (DT a) (JJ standard) (NN benchmark) (NN task)))))) (. .))
+(S (NP (PRP$ Its) (NN performance)) (VP (VBZ is) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (JJ non-reservoir) (NNS methods)))) (, ,) (PP (IN with) (NP (NP (JJ ample) (NN room)) (PP (IN for) (NP (JJ further) (NN improvement)))))) (. .))

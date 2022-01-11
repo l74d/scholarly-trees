@@ -1,0 +1,2 @@
+(S (S (VP (VBG Evaluating) (NP (NN surgeon) (NN skill)))) (VP (VBZ has) (ADVP (RB predominantly)) (VP (VBN been) (NP (DT a) (JJ subjective) (NN task)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN framework)) (VP (MD can) (VP (VB classify) (NP (JJ surgical) (NN skill) (NN level)) (PP (IN with) (NP (NP (ADJP (RB relatively) (JJ high)) (NN accuracy)) (PP (IN of) (NP (CD 85.7) (NN %)))))))))) (. .))

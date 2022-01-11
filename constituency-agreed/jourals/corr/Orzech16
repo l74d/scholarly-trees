@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (JJ statistical) (NN analysis)) (PP (IN of) (NP (NP (JJ certain) (NNS properties)) (PP (IN of) (NP (NP (DT the) (NN graph)) (PP (IN of) (NP (DT the) (JJ discrete) (NN logarithm)))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBD found) (NP (NP (DT the) (JJ theoretical) (JJ asymptotic) (NNS distributions)) (PP (IN of) (NP (NP (JJ certain) (NNS properties)) (PP (IN of) (NP (DT the) (NN graph))))))) (. .))

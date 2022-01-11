@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (NN alternation) (NN diameter)))) (VP (MD can) (VP (VB be) (VP (VBN defined) (PP (IN in) (NP (DT any) (NN category)))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN on) (NP (NP (JJ finite) (NNS sets)) (CC and) (NP (NN vector) (NNS spaces))))) (VP (VBD were) (ADVP (RB previously)) (VP (VBN known) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ memoryless) (NN computation))))))) (. .))

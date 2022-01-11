@@ -1,0 +1,2 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (DT the) (NN source)) (VP (VBZ has) (NP (NP (JJ accurate) (JJ main) (NN channel) (NN information)) (CC and) (NP (JJ statistical) (NN wiretap) (NN channel) (NN information)))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this)))) (, ,) (NP (NP (DT the) (JJ statistical) (NN distribution)) (PP (IN of) (NP (NN wiretap) (NN channel)))) (VP (VBZ is) (VP (VBN described) (ADVP (RBR more) (RB precisely)))) (. .))

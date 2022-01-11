@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT this))))) (, ,) (NP (NN robot) (NNS trajectories)) (VP (VBP are) (VP (VBN computed) (PP (IN in) (NP (DT a) (NN simulator))) (, ,) (S (VP (TO to) (VP (VB collect) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (NN control) (NNS velocities)) (SBAR (WHNP (WDT which)) (S (VP (VBP accomplish) (NP (DT the) (NN task))))))))))))) (. .))

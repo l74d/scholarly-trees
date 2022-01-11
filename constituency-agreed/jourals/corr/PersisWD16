@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN power) (NN consensus) (NN algorithm)) (PP (IN for) (NP (NNP DC) (NNS microgrids)))) (VP (VBZ is) (VP (VBN proposed) (CC and) (VBN analyzed))) (. .))
+(S (NP (NNP DC) (NNS microgrids)) (VP (VBP are) (NP (NP (NNS networks)) (VP (VBN composed) (PP (IN of) (NP (NP (NNP DC) (NNS sources)) (, ,) (NP (NNS loads)) (, ,) (CC and) (NP (VBG interconnecting) (NNS lines))))))) (. .))

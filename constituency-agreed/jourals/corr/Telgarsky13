@@ -1,0 +1,4 @@
+(NP (NP (NNS Contents)) (: :) (NP (NN Introduction)) (. .))
+(NP (NP (CD 1) (NNS Examples)) (PP (IN of) (NP (JJ periodic) (NNS phenomena))) (. .))
+(NP (NN Conclusion) (. .))
+(NP (NNS References) (. .))

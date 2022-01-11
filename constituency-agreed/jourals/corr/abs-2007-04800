@@ -1,0 +1,3 @@
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (NNS humans) (CC and) (NNS machines)) (VP (VBP learn) (S (VP (TO to) (VP (VB make) (NP (JJ joint) (NNS decisions))))))) (. ?))
+(S (NP (DT This)) (VP (VBZ has) (VP (VBN become) (NP (DT an) (JJ important) (NN question)) (PP (IN in) (NP (NP (NNS domains)) (PP (JJ such) (IN as) (NP (NN medicine) (, ,) (NN law) (CC and) (NN finance))))))) (. .))
+(S (PP (IN In) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (PRP we)) (VP (VBP follow) (NP (NP (DT the) (NN example)) (PP (IN of) (NP (NP (DT a) (NN doctor)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBN assisted) (PP (IN by) (NP (DT a) (NN computer) (NN program))))))))))) (. .))

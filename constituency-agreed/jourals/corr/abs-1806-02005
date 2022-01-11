@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (DT the) (NN channel)) (VP (VBZ changes) (PP (IN over) (NP (NN time)))))) (, ,) (NP (NP (DT the) (NNS beams)) (SBAR (WHNP (WDT that)) (S (VP (VBP maximize) (NP (DT the) (NNP SNR)))))) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN estimated) (ADVP (RB quickly)) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN training) (NN overhead)))))))))) (. .))

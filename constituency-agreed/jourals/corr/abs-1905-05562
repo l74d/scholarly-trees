@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP prove) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (PRP$ our) (NN protocol))))) (CC and) (VP (VB evaluate) (NP (DT the) (NN performance)) (PP (IN with) (NP (JJ experimental) (NNS results))))) (. .))

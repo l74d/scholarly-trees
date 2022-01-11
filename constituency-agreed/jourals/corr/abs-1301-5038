@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VP (VBZ yields) (NP (DT a) (JJ unique) (JJ additive) (NN decomposition))) (CC and) (VP (VBZ allows) (S (VP (TO to) (VP (VB decide) (NP (JJ hyperexponential) (NN integrability))))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ its) (JJ main) (NNS features)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB avoid) (NP (NP (DT the) (JJ costly) (NN computation)) (PP (IN of) (NP (NNS certificates))))))))) (. .))

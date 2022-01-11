@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NNS keypoints)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (NN homography) (NN mapping)) (PP (IN between) (NP (NP (DT a) (NN test) (NN document)) (CC and) (NP (DT a) (NN template)))))))))) (. .))

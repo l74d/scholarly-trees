@@ -1,0 +1,2 @@
+(S (ADVP (RB Surprisingly)) (, ,) (SBAR (IN although) (S (NP (DT the) (NNS oscillators)) (VP (VBP exhibit) (NP (JJ nonlinear) (NNS dynamics))))) (, ,) (NP (PRP$ our) (NN approach)) (VP (VBZ relies) (ADVP (RB entirely)) (PP (IN on) (NP (NP (NNS tools)) (PP (IN from) (NP (NP (JJ linear) (NN algebra)) (CC and) (NP (NN graph) (NN theory))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN validated) (PP (IN through) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ numerical) (NNS examples))))))) (. .))

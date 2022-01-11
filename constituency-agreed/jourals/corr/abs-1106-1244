@@ -1,0 +1,2 @@
+(S (NP (JJ Physical) (NNS systems)) (VP (MD can) (VP (VB fail))) (. .))
+(S (NP (DT The) (NN diagnoser)) (VP (VP (VBZ observes) (NP (NP (DT the) (JJ external) (NN behaviour)) (PP (IN of) (NP (DT the) (NN system))))) (CC and) (VP (VBZ announces) (SBAR (IN whether) (S (NP (DT a) (NN fault)) (VP (VBZ has) (VP (VBN occurred)))) (CC or) (RB not)))) (. .))

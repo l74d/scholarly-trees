@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG resulting) (NN optimization) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN formulated) (PP (IN as) (NP (DT an) (NN integer) (JJ linear) (NN program)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP prove) (NP (DT this)) (ADVP (RB mathematically))) (CC and) (VP (VB give) (NP (VBG supporting) (NNS results)) (PP (IN by) (NP (JJ extensive) (NNS experiments))))) (. .))

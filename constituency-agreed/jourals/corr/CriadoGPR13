@@ -1,0 +1,3 @@
+(S (PP (IN In) (ADJP (JJ particular))) (NP (PRP we)) (VP (VBP focus) (PP (PP (IN on) (NP (NNS sports) (NNS rankings))) (CC and) (, ,) (ADVP (RBR more) (RB precisely)) (, ,) (PP (IN on) (NP (NN soccer) (NNS leagues))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (VP (TO to) (VP (VB define) (NP (DT a) (NN graph)) (PP (IN by) (S (VP (VBG linking) (NP (NP (NNS teams)) (SBAR (WHNP (WDT that)) (S (VP (VBP compete)))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB make) (NP (NP (DT a) (JJ dynamic) (NN analysis)) (PP (IN of) (NP (DT a) (NN league)))))))) (CC and) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB compare) (NP (JJ different) (NNS leagues)))))))) (. .))

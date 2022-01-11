@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP formalise) (CC and) (VBP mechanise) (NP (NP (DT a) (JJ construtive) (, ,) (ADJP (JJ proof) (JJ theoretic)) (NN proof)) (PP (IN of) (NP (NP (NNP Craig) (POS 's)) (NNP Interpolation) (NNP Theorem)))) (PP (IN in) (NP (NNP Isabelle) (HYPH /) (NNP HOL)))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (PDT all) (DT the) (NNS definitions)) (CC and) (NP (NN lemma) (NNS statements))) (ADVP (CC both) (ADVP (RB formally)) (CC and) (ADVP (RB informally)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP transcribe) (ADVP (RB informally) (NP (DT the) (JJ formal) (NNS proofs)))) (. .))
+(S (NP (PRP We)) (VP (VBP detail) (NP (NP (DT the) (JJ main) (NNS features)) (PP (IN of) (NP (PRP$ our) (NN mechanisation))) (, ,) (PP (JJ such) (IN as) (NP (NP (DT the) (NN formalisation)) (PP (IN of) (S (VP (VBG binding) (PP (IN for) (NP (JJ first) (NN order) (NNS formulae)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT some) (NNS applications)) (PP (IN of) (NP (NP (NNP Craig) (POS 's)) (NNP Interpolation) (NNP Theorem))))) (. .))

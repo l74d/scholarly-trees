@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD discovered) (SBAR (IN that) (S (NP (NP (DT the) (VBN given) (NN convergence) (NN proof)) (PP (IN of) (NP (DT the) (NN optimizer)))) (VP (VBZ contains) (NP (DT some) (NNS mistakes)) (, ,) (SBAR (IN so) (IN that) (S (NP (DT the) (NN proof)) (VP (MD will) (VP (VB be) (ADJP (JJ wrong)))))))))) (. .))

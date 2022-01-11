@@ -1,0 +1,3 @@
+(S (NP (NN Segregation)) (VP (VBZ is) (NP (DT a) (JJ popular) (NN phenomenon))) (. .))
+(S (NP (NP (NNS Edges)) (PP (IN of) (NP (DT the) (NNS particles)))) (VP (VBP are) (VP (VBN extracted) (PP (IN from) (NP (DT the) (JJ digital) (NN picture))))) (. .))
+(S (NP (NP (JJ Statistical) (NN index)) (PP (IN of) (NP (NP (DT the) (NNS edges)) (PP (IN in) (NP (DT each) (NN rectangle)))))) (VP (VBZ is) (VP (VBN calculated))) (. .))

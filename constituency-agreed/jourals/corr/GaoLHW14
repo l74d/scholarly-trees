@@ -1,0 +1,2 @@
+(S (ADVP (RB Especially)) (, ,) (NP (NP (DT the) (NN error) (NN correction) (NN method)) (PP (IN for) (NP (JJ such) (JJ special) (NN key)))) (VP (VBZ is) (ADVP (RB still)) (VP (VBG missing))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP show) (SBAR (IN that) (S (PP (IN by) (NP (ADJP (RB very) (JJ limited)) (NNS queries))) (NP (NNP Alice)) (VP (MD can) (VP (VB obtain) (NP (DT the) (JJ whole) (NN database))))))) (. .))

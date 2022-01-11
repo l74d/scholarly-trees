@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT an) (NN extensionality) (NN theorem)) (PP (IN for) (NP (DT the) (`` ``) (JJ type-in-type) ('' '') (JJ dependent) (NN type) (NN theory)))) (PP (IN with) (NP (NNP Sigma-types)))) (. .))
+(S (NP (PRP We)) (VP (VBP suggest) (SBAR (IN that) (S (NP (DT the) (JJ extensional) (NN equality) (NN type)) (VP (VB be) (VP (VBN identified) (PP (IN with) (NP (NP (DT the) (JJ logical) (NN equivalence) (NN relation)) (PP (IN on) (NP (NP (DT the) (JJ free) (NN term) (NN model)) (PP (IN of) (NP (NN type) (NN theory)))))))))))) (. .))

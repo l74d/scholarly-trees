@@ -1,0 +1,2 @@
+(S (NP (JJ Relative) (NN debugging)) (VP (VBZ is) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NP (NNS techniques)) (SBAR (WHPP (IN by) (WHNP (WDT which))) (S (NP (DT these) (NNS differences)) (VP (VBP are) (VP (VBN analysed))))))))) (. .))
+(S (NP (NP (VBG Coding) (NNS errors)) (CC and) (NP (NN compiler) (NNS bugs))) (VP (VP (MD may) (VP (VB degrade) (NP (DT the) (NNS results)))) (CC and) (VP (MD should) (VP (VB be) (VP (VBN removed))))) (. .))

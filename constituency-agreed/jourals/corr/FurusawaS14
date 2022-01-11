@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN axiomatisation))) (, ,) (NP (JJ sequential) (NN composition)) (VP (VBZ is) (RB not) (ADJP (JJ associative))) (. .))
+(S (NP (PRP It)) (VP (VBZ interacts) (PP (IN with) (NP (JJ concurrent) (NN composition))) (PP (IN through) (NP (DT a) (JJ weak) (NN distributivity) (NN law)))) (. .))

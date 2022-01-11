@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NN paper))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ bibliographic) (NNS data)) (VP (MD can) (VP (VB be) (VP (VBN transformed) (PP (IN into) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (JJ compatible) (NNS networks))))))))))) (. .))
+(S (PP (IN In) (S (VP (VBG defining) (NP (PRP them))))) (NP (DT an) (JJ appropriate) (NN normalization)) (VP (MD should) (VP (VB be) (VP (VBN considered)))) (. .))

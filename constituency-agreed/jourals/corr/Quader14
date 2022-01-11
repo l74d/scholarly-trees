@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN program)) (VP (VP (VBZ is) (VP (VBN written) (PP (IN in) (NP (NNP NVIDIA) (NNP CUDA) (NNP C))))) (CC and) (VP (VBD was) (VP (VBN tested) (PP (IN on) (NP (DT an) (NNP NVIDIA) (NNP Tesla) (NNP M2050) (NNP GPU)))))) (. .))

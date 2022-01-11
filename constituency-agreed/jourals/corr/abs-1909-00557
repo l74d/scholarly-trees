@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (SBAR (IN that) (S (NP (NN activation) (CC and) (NN weight)) (ADVP (RB also)) (VP (VBP have) (NP (JJ high) (NN sparsity) (NNS levels)) (PP (IN during) (NP (NN training))))))))) (. .))

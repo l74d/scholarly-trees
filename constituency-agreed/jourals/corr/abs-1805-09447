@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (NNS goals)) (PP (IN in) (NP (NN telepresence)))))) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB perform) (NP (JJ daily) (NNS tasks)) (ADVP (RB remotely)))))))))) (. .))
+(S (NP (NP (DT A) (JJ key) (NN requirement)) (PP (IN for) (NP (DT this)))) (VP (VBZ is) (NP (DT a) (ADJP (JJ robust) (CC and) (JJ reliable)) (JJ mobile) (JJ robotic) (NN platform))) (. .))

@@ -1,0 +1,4 @@
+(S (PP (IN From) (NP (NP (DT a) (JJ structural) (NN point)) (PP (IN of) (NP (NN view))))) (, ,) (NP (PRP$ our) (NN network)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (CD two) (JJ main) (NNS pathways))))) (. .))
+(S (NP (CD One) (NN pathway)) (VP (VBZ is) (ADJP (RBR more) (JJ conservative))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ promotes) (NP (DT the) (JJ reliable) (NNS ones))) (CC and) (VP (VBZ removes) (NP (DT the) (JJ inconsistent) (NNS ones)))) (. .))
+(S (NP (DT The) (JJ second) (NN pathway)) (VP (VBZ is) (ADJP (RBR more) (JJ progressive))) (. .))

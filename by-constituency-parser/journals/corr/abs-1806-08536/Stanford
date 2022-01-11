@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP propose) (FRAG (CC and) (NP (NP (NN extension)) (PP (IN of) (NP (NP (ADJP (NP (DT the) (NN tableau)) (HYPH -) (VBN based)) (NML (JJ first) (HYPH -) (NN order)) (NML (VBN automated) (NN theorem)) (NN prover)) (NP (NNP Zenon) (NNP Modulo)))) (PP (IN to) (NP (NP (VBN polarized)) (VP (VBG rewriting))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (DT the) (NN framework))) (CC and) (VP (VB explain) (NP (DT the) (JJ potential) (NNS benefits)))) (. .))
+(S (NP (DT The) (JJ first) (NN target)) (VP (VBZ is) (NP (NP (DT an) (JJ industrial) (NN benchmark)) (VP (VBN composed) (PP (IN of) (NP (NP (NNP B) (NNP Set) (NNP Theory)) (NP (NNS problems))))))) (. .))

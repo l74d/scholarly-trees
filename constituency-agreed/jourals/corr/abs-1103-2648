@@ -1,0 +1,3 @@
+(S (NP (JJ Many) (JJ online) (NNS marketplaces)) (VP (VBP enjoy) (NP (JJ great) (NN success))) (. .))
+(S (PP (IN Under) (NP (DT the) (NN reputation) (NN system))) (, ,) (NP (DT a) (NN buyer)) (VP (MD can) (VP (VB avoid) (S (VP (VBG transacting) (PP (IN with) (NP (NP (DT a) (NN seller)) (PP (IN with) (NP (DT a) (JJ bad) (NN reputation))))))))) (. .))
+(S (S (PP (IN In) (NP (NN addition))) (, ,) (NP (JJS most) (NNS individuals)) (VP (VBP participate) (ADVP (RB mostly)) (PP (IN as) (NP (NNS buyers) (CC or) (NNS sellers))))) (: ;) (S (NP (DT each) (NN individual)) (VP (VBZ does) (RB not) (VP (VB play) (NP (DT the) (CD two) (NNS roles)) (PP (IN with) (NP (JJ equal) (NN probability)))))) (. .))

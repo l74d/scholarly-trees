@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN step))) (, ,) (NP (DT each) (NN video)) (VP (VBZ is) (VP (VBN decomposed) (PP (IN into) (NP (NNS supervoxels))) (PP (IN by) (NP (DT the) (JJ unsupervised) (NN video) (NN segmentation))))) (. .))

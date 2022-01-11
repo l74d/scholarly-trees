@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (NN loss) (NN function)) (CC and) (NP (NN example) (NN weighting))) (VP (VBP are) (NP (NP (CD two) (JJ common) (NNS techniques)) (PP (IN in) (NP (JJ robust) (NN learning))))) (. .))

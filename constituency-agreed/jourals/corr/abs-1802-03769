@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN demonstrated) (SBAR (IN that) (S (NP (DT the) (NNP CNN) (NN model)) (VP (MD can) (VP (VB perform) (NP (JJ joint) (NN denoising) (CC and) (NN demosaicing)))))))) (. .))

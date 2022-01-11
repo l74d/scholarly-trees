@@ -1,0 +1,1 @@
+(S (NP (NNP BrainSegNet)) (VP (VBZ is) (VP (VBN trained) (PP (IN over) (NP (NP (CD three) (NN brain) (NN tractography) (NNS data)) (VP (VBG having) (NP (NP (QP (IN over) (CD 250,000)) (NNS fibers)) (NP (DT each)))))))) (. .))

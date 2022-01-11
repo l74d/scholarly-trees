@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN turn))) (, ,) (NP (NP (DT the) (JJ good) (NN performance)) (PP (IN of) (NP (DT the) (NN steganalyzer)))) (VP (MD can) (VP (VB be) (VP (VBN restored) (PP (IN by) (S (VP (VBG retraining) (NP (DT the) (NNP CNN)) (PP (IN with) (NP (JJ adversarial) (NN stego) (NNS images))))))))) (. .))

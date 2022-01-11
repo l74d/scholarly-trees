@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (VBG growing) (NN interest)) (PP (IN in) (NP (JJ joint) (JJ multi-subject) (NN fMRI) (NN analysis))))) (. .))
+(S (NP (NP (NN Validation)) (VP (VBG using) (NP (NN classification) (NNS tasks)))) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB pinpoint) (NP (JJ informative) (JJ local) (NNS regions))))))) (. .))

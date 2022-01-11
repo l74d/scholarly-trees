@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS features)) (PP (IN of) (NP (NNP CHR)))))) (VP (VBZ is) (NP (PRP$ its) (JJ inherent) (NN concurrency))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN related) (PP (IN by) (NP (JJ formal) (NN soundness) (NNS results))))) (. .))

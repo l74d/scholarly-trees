@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ social) (NN community)) (PP (IN in) (NP (JJ open) (NN source) (NN software) (NNS developers)))) (VP (VBZ has) (NP (DT a) (JJ complex) (NN network) (NN structure))) (. .))
+(S (NP (DT A) (NN project)) (VP (VBZ forms) (NP (NP (DT some) (NNS teams)) (SBAR (WHNP (WDT which)) (S (VP (VBP consist) (PP (IN of) (NP (NP (NNS engineers)) (VP (VBN categorized) (PP (IN into) (NP (DT some) (NN task) (NN group))))))))))) (. .))
+(S (PP (IN By) (NP (JJ such) (NNS observations))) (, ,) (NP (PRP we)) (VP (VBD developed) (NP (NP (DT a) (NN simulation) (NN model)) (PP (IN of) (S (VP (VBG performing) (NP (NP (DT the) (VBG growing) (NN process)) (PP (IN of) (NP (NN project))))))))) (. .))

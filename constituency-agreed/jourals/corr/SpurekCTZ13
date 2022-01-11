@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN step))) (, ,) (NP (DT a) (JJ local) (JJ Gaussian) (NN filter)) (VP (VBZ is) (VP (VBN used) (PP (IN with) (NP (NP (JJ different) (NNS weights)) (PP (IN for) (NP (DT each) (NN neighborhood))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN step))) (, ,) (NP (DT an) (JJ adaptive) (NN morphology) (NN operation)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VP (VB detect) (NP (NP (DT the) (NNS endpoints)) (PP (IN of) (NP (NN curve) (NNS segments))))) (CC and) (VP (VB connect) (NP (PRP them)))))))) (. .))

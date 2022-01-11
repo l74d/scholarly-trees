@@ -1,0 +1,3 @@
+(S (NP (JJ Many) (JJ real) (NNS systems)) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN by) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (VBG interacting) (NNS entities)) (VP (VBG forming) (NP (DT a) (JJ complex) (NN network)))))))))) (. .))
+(S (NP (DT These)) (VP (MD can) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VB be) (VP (VBN used) (S (VP (VP (TO to) (VP (VB study) (NP (NNS networks)) (ADVP (RB analytically)))) (CC or) (VP (TO to) (VP (VB construct) (NP (NP (NNS networks)) (VP (RB not) (VBN observed) (PP (IN in) (NP (JJ real) (NN life)))))))))))) (. .))
+(S (NP (NP (JJS Most) (NNS models)) (VP (VBN proposed) (PP (IN in) (NP (DT the) (NN literature))))) (VP (VBP are) (PP (IN of) (NP (CD two) (NNS types)))) (. .))

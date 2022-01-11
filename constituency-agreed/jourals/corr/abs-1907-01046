@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN designed) (PP (IN with) (NP (NP (DT a) (NN focus)) (PP (IN on) (NP (NN scalability))))) (S (VP (VP (TO to) (VP (VB support) (NP (NP (NN production) (NNS environments)) (PP (IN of) (NP (JJ various) (NNS sizes)))))) (CC and) (VP (TO to) (VP (VB handle) (NP (VBG varying) (NNS loads)))))))) (. .))

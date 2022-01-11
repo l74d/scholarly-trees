@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB predict) (NP (NP (DT a) (NN worker) (POS 's)) (NN focus) (NN state)) (PP (VBN based) (PP (IN on) (NP (JJ physiological) (NNS signals))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD used) (NP (NP (DT the) (CD nine) (NNS characteristics)) (PP (IN of) (NP (NN flow)))) (S (VP (TO to) (VP (VB design) (NP (NP (NNS tasks)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB induce) (NP (JJ different) (NN focus) (NNS states))))))))))) (. .))

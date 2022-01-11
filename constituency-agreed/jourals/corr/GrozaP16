@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ medical) (NN domain))) (, ,) (NP (NP (DT the) (JJ continuous) (NN stream)) (PP (IN of) (NP (JJ scientific) (NN research)))) (VP (VBZ contains) (NP (NP (JJ contradictory) (NNS results)) (VP (VBN supported) (PP (IN by) (NP (NNS arguments) (CC and) (NNS counter-arguments)))))) (. .))
+(S (S (VP (TO To) (VP (VB formalise) (NP (DT the) (VBG existing) (JJ medical) (NN knowledge))))) (, ,) (NP (PRP we)) (VP (VBP rely) (PP (IN on) (NP (NNS ontologies)))) (. .))

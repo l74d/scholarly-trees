@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ has) (NP (CD two) (NNS shortcomings))) (. .))
+(S (NP (DT The) (NN encoder)) (VP (VBZ converts) (NP (DT a) (NN line) (NN image)) (PP (IN into) (NP (DT a) (NN feature) (NN sequence)))) (. .))

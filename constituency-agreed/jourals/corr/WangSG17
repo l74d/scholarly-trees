@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN hope)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (JJ final) (NN classifier)) (VP (MD can) (VP (VB use) (NP (DT these) (NNS examples)) (S (VP (TO to) (VP (VB learn) (NP (NNS invariances)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT an) (JJ alternative) (NN solution))) (. .))

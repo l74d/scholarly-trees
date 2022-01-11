@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN impact)) (PP (IN of) (S (VP (VBG using) (NP (NP (NNP Nesterov) (POS 's)) (NNP Accelerated) (NNP Gradient)) (PP (IN in) (NP (NN backpropagation))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN studied))) (. .))

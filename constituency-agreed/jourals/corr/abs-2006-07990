@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (JJ logarithmic) (NN over-parameterization)) (VP (VBZ is) (ADJP (RB essentially) (JJ optimal) (PP (IN for) (NP (JJ constant) (NN depth) (NNS networks)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP verify) (NP (NP (JJ several)) (PP (IN of) (NP (PRP$ our) (JJ theoretical) (NNS insights)))) (PP (IN with) (NP (NNS experiments)))) (. .))

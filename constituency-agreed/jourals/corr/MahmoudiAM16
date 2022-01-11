@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ concurrent) (NN implementation)) (PP (IN of) (NP (DT a) (JJ powerful) (JJ topological) (NN thinning) (NN operator))))) (. .))
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT a) (JJ good) (NN speedup))))) (, ,) (NP (PRP we)) (VP (VBD cared) (PP (IN about) (NP (NP (NN coordination)) (PP (IN of) (NP (NNS threads)))))) (. .))

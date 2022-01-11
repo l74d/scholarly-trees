@@ -1,0 +1,2 @@
+(S (ADVP (RB Surprisingly)) (, ,) (NP (NP (RB almost) (DT the) (JJ same) (NN algorithm)) (PP (IN as) (NP (DT the) (JJ original) (JJ complex) (NN moment) (NN eigensolver)))) (VP (VBZ works) (ADVP (RB similarly)) (PP (IN on) (NP (DT the) (JJ non-square) (NN case)))) (. .))
+(S (PP (IN In) (NP (JJ numerical) (NNS computations))) (, ,) (NP (DT the) (NN contour) (NNS integrals)) (VP (VBP are) (VP (VBN approximated) (PP (IN by) (S (VP (VBG using) (NP (JJ numerical) (NNS quadratures))))))) (. .))

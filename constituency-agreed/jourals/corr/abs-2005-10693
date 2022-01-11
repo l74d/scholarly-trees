@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN time) (NN series) (NN classification) (NN task)) (VP (VBN performed) (PP (IN on) (NP (DT the) (NNP PhysioNet) (NN dataset))))) (VP (VBZ demonstrates) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT this) (NN architecture))))) (. .))

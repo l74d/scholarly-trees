@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT the) (JJ latter) (NN problem)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ Bayesian) (NNS networks)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB extend) (NP (DT this) (NN procedure)) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (JJ multiple) (VBG interacting) (JJ hidden) (NNS variables))))))))))) (. .))

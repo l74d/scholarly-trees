@@ -1,0 +1,2 @@
+(S (NP (NN Application) (NN autotuning)) (VP (VBZ is) (NP (NP (DT a) (JJ promising) (NN path)) (VP (VBN investigated) (PP (IN in) (NP (NN literature))) (S (VP (TO to) (VP (VB improve) (NP (NN computation) (NN efficiency)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP leverage) (NP (CD two) (NNS strategies)) (S (VP (TO to) (VP (VB limit) (NP (NP (DT the) (NN overhead)) (VP (VBN introduced) (PP (IN at) (NP (DT the) (NN production) (NN phase))))))))) (. .))

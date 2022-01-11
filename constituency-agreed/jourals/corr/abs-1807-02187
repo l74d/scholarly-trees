@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (NN training) (NN algorithm))) (, ,) (NP (NP (JJ virtual) (NN velocity) (NNS constraints)) (CC and) (NP (NN network) (NN scheduling))) (VP (VBP are) (VP (VBN proposed))) (. .))
+(S (PP (IN For) (NP (DT the) (NN training) (NNS tasks))) (, ,) (NP (JJ different) (NN feature) (NN vector) (NNS selections)) (VP (VBP are) (VP (VBN discussed))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG learning) (NP (JJ optimal) (JJ binary) (NN classification) (NNS trees))))))) (. .))
+(S (ADVP (RB Indeed)) (, ,) (NP (PRP they)) (VP (VBP rely) (PP (IN on) (NP (JJ weak) (NNS formulations))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (NP (JJ slow) (NN convergence)) (CC and) (NP (JJ large) (NN optimality) (NNS gaps))))))) (. .))

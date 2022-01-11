@@ -1,0 +1,2 @@
+(S (NP (NP (NN Classification)) (PP (IN of) (NP (NNS rocks)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ fundamental) (NNS tasks)) (PP (IN in) (NP (DT a) (JJ geological) (NN study))))))) (. .))
+(S (NP (NP (NN Edge) (CC and) (NN colour) (NN profile)) (PP (IN of) (NP (NP (NNS pixels)) (PP (IN inside) (NP (DT each) (NN cell)))))) (VP (VB determine) (NP (PRP$ its) (NN classification))) (. .))

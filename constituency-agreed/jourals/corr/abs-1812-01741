@@ -1,0 +1,1 @@
+(S (NP (NN Care)) (VP (MD must) (VP (VB be) (VP (VBN taken) (SBAR (IN that) (S (NP (DT the) (JJ public) (NN cloud)) (VP (MD can) (RB not) (VP (VB infer) (NP (NP (DT any) (NN information)) (PP (IN about) (NP (JJ sensitive) (NNS data)))) (PP (IN from) (NP (JJ inter-cloud) (NNS data) (NN access))) (PP (IN during) (NP (NN query) (NN processing)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (SBAR (IN if) (S (NP (NP (DT a) (NN coin) (POS 's)) (NN volatility)) (VP (VBZ decreases)))) (, ,) (NP (DT some) (NNS miners)) (VP (MD may) (VP (VB leave) (, ,) (S (VP (VBG affecting) (NP (NN security)))))) (. .))
+(S (S (VP (TO To) (VP (VB prevent) (NP (DT this))))) (, ,) (NP (PRP we)) (VP (VBP suggest) (NP (DT a) (JJ new) (NN reward) (NN mechanism))) (. .))

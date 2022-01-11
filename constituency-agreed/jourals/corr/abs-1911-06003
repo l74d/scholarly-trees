@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB additionally)) (VP (VBP use) (NP (JJ unsupervised) (JJ bilingual) (NN word) (NN translation)) (S (VP (TO to) (VP (VB analyze) (SBAR (IN whether) (S (NP (NP (ADJP (RB semantically) (JJ equivalent)) (NNS words)) (PP (IN in) (NP (JJ different) (NNS languages)))) (VP (VBP are) (VP (VBN mapped) (ADVP (RB together)))))))))) (. .))

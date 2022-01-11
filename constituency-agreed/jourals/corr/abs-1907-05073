@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (DT this) (NN error) (NN measure)) (CC and) (NP (JJ other) (NNS quantities))) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN quality) (, ,) (NN performance) (, ,) (CC and) (NN scalability)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP construct) (NP (NP (DT a) (JJ semantic) (NN graph)) (PP (IN for) (NP (DT the) (NN document))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP transform) (NP (DT the) (NN keyphrase) (NN extraction) (NN problem)) (PP (IN into) (NP (NP (DT an) (NN optimization) (NN problem)) (PP (IN on) (NP (DT the) (NN graph)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP get) (NP (NP (DT the) (JJ optimal) (NN keyphrase)) (VP (VBN set) (S (VP (TO to) (VP (VB be) (NP (DT the) (NN output)))))))) (. .))

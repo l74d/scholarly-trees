@@ -1,0 +1,1 @@
+(S (S (ADVP (RB However)) (, ,) (NP (DT the) (NN performance)) (VP (VBZ is) (RB not) (ADJP (JJ satisfactory)))) (: :) (S (NP (DT the) (JJ neural) (NN network)) (VP (VBZ tends) (S (VP (TO to) (VP (VB generate) (NP (NP (JJ safe) (, ,) (ADJP (RB universally) (JJ relevant)) (NNS replies)) (SBAR (WHNP (WDT which)) (S (VP (VBP carry) (NP (JJ little) (NN meaning))))))))))) (. .))

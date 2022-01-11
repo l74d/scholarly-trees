@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (S (VP (VBG minimizing) (NP (NP (DT the) (NN makespan)) (PP (IN for) (NP (NN task) (NN scheduling)))))) (VP (VBZ is) (NP (DT a) (JJ challenging) (NN issue))) (. .))

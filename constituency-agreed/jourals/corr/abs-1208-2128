@@ -1,0 +1,2 @@
+(S (NP (NN Feature) (NN extraction)) (VP (VBZ is) (NP (NP (DT a) (NN method)) (PP (IN of) (S (VP (VBG capturing) (NP (NP (JJ visual) (NN content)) (PP (IN of) (NP (DT an) (NN image))))))))) (. .))
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB present) (NP (NP (DT a) (JJ novel) (NN method)) (PP (IN of) (NP (NN feature) (NN selection) (CC and) (NN extraction)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN case)) (PP (IN for) (NP (NP (JJ piezoelectric) (NNS sensors)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB commonly)) (VP (VBN employed) (PP (IN for) (NP (JJ photoacoustic) (NN imaging))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (DT an) (JJ iterative) (NN reconstruction) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ incorporates) (NP (NP (DT the) (NN model)) (PP (IN for) (NP (JJ piezoelectric) (NNS measurements))))))))) (. .))
+(S (NP (NP (DT A) (JJ numerical) (NN implementation)) (PP (IN of) (NP (DT the) (NN reconstruction) (NN algorithm)))) (VP (VBZ is) (VP (VBN presented))) (. .))

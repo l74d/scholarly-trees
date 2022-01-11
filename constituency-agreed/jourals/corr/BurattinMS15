@@ -1,0 +1,3 @@
+(S (NP (NN Process) (NN mining)) (VP (VBZ is) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NP (NNS techniques)) (SBAR (WHNP (WDT that)) (S (VP (VBP aim) (PP (IN at) (S (VP (VBG analyzing) (NP (NP (NN business) (NN process) (NN execution) (NNS data)) (VP (VBN recorded) (PP (IN in) (NP (NN event) (NNS logs))))))))))))))) (. .))
+(S (PP (IN In) (NP (DT these) (NNS environments))) (, ,) (NP (JJ procedural) (NN process) (NNS models)) (VP (VBP are) (ADJP (RBR less) (JJ suitable) (S (VP (TO to) (VP (VB describe) (NP (DT a) (NN business) (NN process))))))) (. .))
+(S (NP (NP (DT Any) (NN process) (NN execution)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB not) (VP (VB contradict) (NP (DT these) (NNS constraints))))))) (VP (VBZ is) (VP (VBN allowed))) (. .))

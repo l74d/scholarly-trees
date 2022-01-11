@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (PRP$ our) (NN framework)))) (PP (IN by) (S (VP (VBG validating) (NP (PRP$ its) (NN result)) (PP (IN for) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NP (NN system) (NNS sizes)) (CC and) (NP (JJ spectral) (NN radii)))))))))) (. .))
+(S (NP (PRP$ Our) (JJ analytical) (NN calculation)) (VP (VBZ agrees) (PP (IN with) (NP (JJ numerical) (NNS simulations)))) (. .))

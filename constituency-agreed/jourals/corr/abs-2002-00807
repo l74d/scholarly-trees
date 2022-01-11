@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB tackle) (NP (JJ such) (NNS problems))))) (, ,) (NP (ADJP (RB publicly) (JJ available)) (NNS datasets)) (VP (VBP are) (ADJP (JJ insufficient))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (NNS models)) (VP (VBN trained) (PP (IN on) (NP (DT these) (NNS datasets))))) (VP (VBP have) (NP (NP (DT a) (JJ significant) (NN drop)) (PP (IN in) (NP (NN performance)))) (SBAR (WHADVP (WRB when)) (S (VP (VBN tested) (PP (IN on) (NP (ADJP (RBR more) (JJ realistic)) (NNS data))))))) (. .))

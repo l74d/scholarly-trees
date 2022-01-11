@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN without) (NP (VBN estimated) (NN batch) (NNS statistics))) (, ,) (NP (PRP we)) (VP (MD can) (RB not) (VP (VB use) (NP (NNP BatchNorm)) (PP (IN in) (NP (DT the) (NN practice))) (SBAR (IN if) (S (NP (NP (JJ large) (NNS batches)) (PP (IN of) (NP (NN input)))) (VP (VBP are) (RB not) (ADJP (JJ available))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (JJ Counterfactual) (NN thinking)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN characteristic)) (PP (IN of) (NP (DT the) (JJ human) (JJ cognitive) (NN system)))))) (: ;) (S (NP (PRP it)) (VP (VBZ connects) (NP (NNS antecedents) (CC and) (NNS consequents)) (PP (IN with) (NP (JJ causal) (NNS relations))))) (. .))
+(S (NP (PRP$ Our) (NN task)) (VP (VBZ provides) (NP (NP (DT a) (NN benchmark)) (PP (IN for) (NP (NP (JJ counterfactual) (NN recognition)) (PP (IN in) (NP (JJ natural) (NN language)))))) (PP (IN with) (NP (CD two) (NNS subtasks)))) (. .))

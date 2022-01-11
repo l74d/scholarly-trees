@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN technology)) (VP (VBZ is) (ADVP (RB still)) (PP (IN at) (NP (PRP$ its) (JJ early) (NN stage)))) (. .))
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN system)) (VP (MD can) (VP (VB detect) (NP (JJ anomalous) (NN user) (NN activity))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NNP India) (POS 's)) (JJ agricultural) (NN system)) (VP (VBZ has) (VP (VBN been) (VP (VBG facing) (NP (NP (DT a) (JJ severe) (NN problem)) (PP (IN of) (NP (NN crop) (NN wastage))))))) (. .))
+(S (ADVP (RB Inevitably)) (, ,) (NP (RB not) (DT all) (NNS crops)) (VP (VBP are) (VP (VBN sold) (PP (IN before) (NP (NN spoilage))))) (. .))

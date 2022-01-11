@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP calculate) (NP (DT the) (NN detection) (NNS thresholds)) (S (VP (VBG using) (NP (CD two) (NNS methods))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second))) (, ,) (S (NP (DT an) (JJ objective) (NN function)) (VP (VBZ is) (VP (VBN constructed)))) (CC and) (S (NP (NN decision) (NNS thresholds)) (VP (VBP are) (VP (VBN obtained) (PP (IN via) (NP (JJ backward) (NN induction))) (S (VP (TO to) (VP (VB optimize) (NP (DT this) (NN function)))))))) (. .))

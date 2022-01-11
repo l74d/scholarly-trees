@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN chapter)) (VP (VBZ introduces) (NP (NP (DT the) (JJ basic) (NNS concepts)) (PP (IN of) (NP (DT this) (NN field))))) (. .))
+(S (NP (PRP It)) (VP (VBZ includes) (NP (CC both) (NP (NP (DT the) (JJ basic) (NNS structures)) (VP (VBN used) (S (VP (TO to) (VP (VB design) (NP (JJ deep) (JJ neural) (NNS networks))))))) (CC and) (NP (NP (DT a) (JJ brief) (NN survey)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (JJ popular) (NN use) (NNS cases)))))))) (. .))

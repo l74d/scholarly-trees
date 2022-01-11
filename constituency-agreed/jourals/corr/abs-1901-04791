@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNP Laplace) (NN approximation)) (VP (VBZ has) (VP (VBN been) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS workhorses)) (PP (IN of) (NP (JJ Bayesian) (NN inference)))))))) (. .))
+(S (PP (IN In) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (PRP they)) (VP (VBP sacrifice) (NP (JJ a-posteriori) (NNS correlations))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ combines) (NP (DT the) (NNP Laplace) (NN approximation)) (PP (IN with) (NP (DT the) (JJ variational) (NN approach)))))))) (. .))

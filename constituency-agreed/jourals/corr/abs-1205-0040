@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS masks)) (VP (VBP are) (ADVP (RB later)) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN problem)) (PP (IN in) (NP (JJ polynomial) (NN time)))))))) (. .))
+(S (S (NP (NNS Simulations)) (VP (VBD were) (VP (VBN done) (S (VP (TO to) (VP (VB choose) (NP (DT a) (JJ proper) (NN design)))))))) (, ,) (CC and) (S (NP (JJ actual) (NNS implementations)) (VP (VBP show) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (PDT such) (DT a) (NN system)))))) (. .))

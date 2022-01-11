@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (VBZ learns) (NP (NP (NN entity) (NNS embeddings)) (SBAR (WHNP (WDT that)) (S (VP (VBP capture) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN entity) (NN type)))) (PP (IN without) (NP (JJ explicit) (NN supervision))))))))))) (. .))

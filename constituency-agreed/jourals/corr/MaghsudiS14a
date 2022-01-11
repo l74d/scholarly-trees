@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (NP (DT a) (JJ reasonable) (NN assumption)) (VP (VBZ is) (SBAR (IN that) (S (NP (NNS transmitters)) (VP (VBP have) (NP (NP (DT no) (NN knowledge)) (PP (IN of) (NP (NP (VBG fading) (NNS gains)) (, ,) (NP (NN interference)) (, ,) (CC and) (NP (NN network) (NN topology))))))))) (. .))

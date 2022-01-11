@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (DT all) (NNS jobs)) (VP (VBP have) (NP (JJ equal) (NN processing) (NNS times))))) (ADVP (RB then)) (NP (DT the) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN in) (NP (JJ polynomial) (NN time))) (S (VP (VBG using) (NP (JJ linear) (NN programming)))))))))) (. .))

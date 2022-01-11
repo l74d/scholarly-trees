@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB facilitate) (NP (DT the) (NN training))))) (, ,) (NP (DT the) (NN network)) (VP (VBZ is) (VP (VBN learned) (PP (IN with) (NP (NP (DT an) (JJ auxiliary) (NN task)) (PP (IN of) (S (VP (VBG predicting) (NP (NP (JJ future) (NN location)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN activity)) (VP (MD will) (VP (VB happen))))))))))))) (. .))

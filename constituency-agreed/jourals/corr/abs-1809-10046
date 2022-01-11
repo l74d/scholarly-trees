@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (VBG applying) (NP (DT a) (JJ computational) (NN approach))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN model)) (S (VP (TO to) (VP (VB investigate) (NP (NP (JJ several) (JJ important) (NNS topics)) (PP (IN in) (NP (JJ cellular) (NN bioelectricity))) (, ,) (PP (VBG including) (NP (NP (NN symmetry) (NN breaking)) (CC and) (NP (NN information) (NN processing))))))))) (. .))

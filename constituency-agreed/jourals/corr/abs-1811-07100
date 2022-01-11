@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ promising) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ metric) (NN learning)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ trains) (NP (DT a) (JJ deep) (NN embedding)) (S (VP (TO to) (VP (VB support) (NP (NN image) (NN similarity) (NN matching)))))))))))) (. .))

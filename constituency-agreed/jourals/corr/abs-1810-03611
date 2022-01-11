@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT a) (NN word) (NN embedding)) (VP (VBN trained) (PP (IN on) (NP (DT a) (NN corpus)))))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ identifies) (SBAR (WHADVP (WRB how)) (S (S (VP (VBG perturbing) (NP (DT the) (NN corpus)))) (VP (MD will) (VP (VB affect) (NP (NP (DT the) (NN bias)) (PP (IN of) (NP (DT the) (VBG resulting) (NN embedding))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Besides) (NP (JJ different) (NNS poses) (, ,) (NNS illuminations) (, ,) (NNS occlusions) (CC and) (NNS expressions))) (, ,) (NP (JJ cross-age) (NN face)) (VP (VBZ is) (NP (NP (DT another) (NN challenge)) (PP (IN in) (NP (NN face) (NN recognition))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NNP LFW)) (VP (VBZ does) (RB not) (VP (VB pay) (NP (JJ much) (NN attention)) (PP (IN on) (NP (PRP it))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (JJ classical) (NN controllability) (NNS theories)) (PP (IN of) (NP (JJ linear) (NNS systems)))) (VP (VBP are) (RB not) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB test) (NP (NP (DT the) (NN controllability)) (PP (IN of) (NP (DT the) (VBN considered) (NNS multirotors))))))))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (PRP it)))) (, ,) (NP (NP (DT a) (JJ new) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NN condition)) (PP (IN for) (NP (NP (DT the) (NN controllability)) (PP (IN of) (NP (NNS multirotors)))))) (VP (VBZ is) (VP (VBN derived))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT a) (NN controllability) (NN test) (NN procedure)) (VP (VBZ is) (VP (VBN approached))) (. .))

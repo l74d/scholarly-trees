@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN strategy)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB synthesize) (NP (NP (NNS controllers)) (SBAR (WHNP (WDT that)) (S (VP (VBP fulfill) (NP (NP (JJ formal) (NNS specifications)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN expressed) (PP (IN as) (NP (JJ linear) (JJ temporal) (NN logic) (NNS formulas)))))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ our) (NN controller)) (S (VP (VBG using) (NP (NP (DT the) (NNP Toyota) (NNP HSR)) (, ,) (NP (DT a) (JJ mobile) (NN manipulator) (NN robot)))))) (. .))

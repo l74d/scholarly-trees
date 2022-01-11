@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (JJ parallel) (NN algorithm)) (PP (IN for) (S (VP (VBG simulating) (NP (NNP Ising) (NN spin) (NNS systems)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (PRP$ Our) (JJ parallel) (NN algorithm)) (VP (VBZ is) (ADJP (JJ optimistic))) (. .))

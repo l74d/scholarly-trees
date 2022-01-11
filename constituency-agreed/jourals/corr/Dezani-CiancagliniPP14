@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP give) (NP (NP (ADJP (JJ semantic) (CC and) (JJ axiomatic)) (NNS characterizations)) (PP (IN of) (NP (JJ isomorphic) (NN session) (NNS types))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB know) (SBAR (IN whether) (S (NP (DT the) (NN axiomatization)) (VP (VBZ is) (ADJP (JJ complete))))))) (. .))

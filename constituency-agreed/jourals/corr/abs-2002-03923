@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB reduce) (NP (JJ such) (NNS errors)) (PP (IN by) (S (VP (VBG incorporating) (NP (NP (DT the) (NNS distances)) (PP (IN between) (NP (NNS pixels) (CC and) (NNS keypoints)))) (PP (IN into) (NP (PRP$ our) (NN objective)))))))))) (. .))

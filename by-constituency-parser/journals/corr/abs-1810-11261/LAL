@@ -1,0 +1,8 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ video-based) (NN person) (NN re-identification))))) (. .))
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB identify) (NP (DT a) (NN person)) (PP (IN from) (NP (NP (NN videos)) (VP (VBN captured) (PP (IN under) (NP (JJ different) (NNS cameras)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ efficient) (ADJP (JJ spatial-temporal) (NN attention) (VBN based)) (NN model)) (PP (IN for) (NP (NP (NN person) (NN re-identification)) (PP (IN from) (NP (NN videos))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ generates) (NP (NP (DT an) (NN attention) (NN score)) (PP (IN for) (NP (DT each) (NN frame))) (VP (VBN based) (PP (IN on) (NP (JJ frame-level) (NNS features)))))) (. .))
+(S (NP (NP (DT The) (NN attention) (NNS scores)) (PP (IN of) (NP (NP (DT all) (NNS frames)) (PP (IN in) (NP (DT a) (NN video)))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB produce) (NP (NP (DT a) (JJ weighted) (NN feature) (NN vector)) (PP (IN for) (NP (DT the) (NN input) (NN video))))))))) (. .))
+(S (PP (IN Unlike) (NP (NP (JJS most) (VBG existing) (JJ deep) (NN learning) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP use) (NP (JJ global) (NN representation))))))) (, ,) (NP (PRP$ our) (NN approach)) (VP (VBZ focuses) (PP (IN on) (NP (NN attention) (NNS scores)))) (. .))
+(S (NP (NP (JJ Extensive) (NNS experiments)) (PP (IN on) (NP (CD two) (NN benchmark) (NNS datasets)))) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ achieves) (NP (DT the) (JJ state-of-the-art) (NN performance)))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ technical) (NN report))) (. .))

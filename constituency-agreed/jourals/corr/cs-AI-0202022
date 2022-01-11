@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP look) (PP (IN for) (NP (NP (DT a) (JJ plausible) (NN definition)) (PP (IN of) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (DT all) (JJ conditional) (NNS assertions)) (VP (VBN entailed) (PP (IN by) (NP (DT a) (JJ conditional) (NN knowledge) (NN base))))))))))) (. .))
+(S (NP (PRP They)) (VP (VBD noticed) (SBAR (IN that) (S (NP (RB not) (DT all) (JJ preferential) (NNS relations)) (VP (MD could) (VP (VB be) (VP (VBN considered) (PP (IN as) (NP (JJ reasonable) (NN inference) (NNS procedures))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN argued) (SBAR (IN that) (S (NP (DT any) (JJ reasonable) (JJ nonmonotonic) (NN inference) (NN procedure)) (VP (MD should) (VP (VB define) (NP (DT a) (JJ rational) (NN relation)))))))) (. .))

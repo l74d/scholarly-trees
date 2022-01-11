@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (SBAR (IN because) (S (NP (DT the) (NN optimizer)) (VP (MD can) (VP (VB change) (NP (DT all) (NNS parameters)) (ADVP (RB simultaneously)) (S (VP (TO to) (VP (VB find) (NP (DT the) (JJ optimal) (NN design)))))))))) (. .))

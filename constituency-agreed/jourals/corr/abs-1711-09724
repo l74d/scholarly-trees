@@ -1,0 +1,1 @@
+(S (NP (JJ Automatic) (NNS evaluations)) (ADVP (RB also)) (VP (VBP show) (SBAR (S (NP (PRP$ our) (NN model)) (VP (VBZ outperforms) (NP (DT the) (NNS baselines)) (PP (IN by) (NP (DT a) (JJ great) (NN margin))))))) (. .))

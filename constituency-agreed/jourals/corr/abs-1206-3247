@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Graphical) (NNS models)) (VP (VBN trained) (S (VP (VBG using) (NP (JJ maximum) (NN likelihood)))))) (VP (VBP are) (NP (NP (DT a) (JJ common) (NN tool)) (PP (IN for) (NP (NP (JJ probabilistic) (NN inference)) (PP (IN of) (NP (JJ marginal) (NNS distributions))))))) (. .))

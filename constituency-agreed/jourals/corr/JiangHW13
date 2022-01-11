@@ -1,0 +1,2 @@
+(S (NP (JJ Multi-view) (NNS images)) (VP (VBP are) (VP (VBN acquired) (PP (IN by) (NP (NP (DT a) (JJ lensless) (JJ compressive) (NN imaging) (NN architecture)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ consists) (PP (IN of) (NP (NP (DT an) (NN aperture) (NN assembly)) (CC and) (NP (JJ multiple) (NNS sensors))))))))))) (. .))
+(S (NP (NP (DT The) (NN measurement) (NNS vectors)) (PP (IN from) (NP (DT the) (JJ multiple) (NNS sensors)))) (VP (VBP represent) (NP (NP (JJ multi-view) (NNS images)) (PP (IN of) (NP (DT the) (JJ same) (NN scene))))) (. .))

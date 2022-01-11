@@ -1,0 +1,1 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS challenges)) (PP (IN in) (NP (NN software) (NN verification)))))) (VP (VBZ is) (NP (NP (ADJP (JJ efficient) (CC and) (JJ precise)) (JJ compositional) (NN analysis)) (PP (IN of) (NP (NP (NNS programs)) (PP (IN with) (NP (NNS procedures) (CC and) (NNS loops))))))) (. .))

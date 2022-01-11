@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN optimality) (NN formalization)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (JJ persistent) (NN homology))))) (. .))
+(S (NP (PRP We)) (VP (MD can) (VP (VB solve) (NP (DT the) (NN optimization) (NN problem)) (S (VP (VBG using) (NP (JJ linear) (NN programming)))))) (. .))
+(S (NP (DT The) (JJ key) (JJ mathematical) (NN idea)) (VP (VBZ is) (NP (NNP Alexander) (NN duality))) (. .))

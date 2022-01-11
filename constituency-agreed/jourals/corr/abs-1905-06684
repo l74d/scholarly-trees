@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNP MNN) (NN architecture)) (CC and) (NP (DT the) (NN error) (NN propagation) (NN schema))) (VP (VBZ is) (VP (VBN formalized) (CC and) (VBN derived) (PP (IN in) (NP (NN tensor) (NN algebra))))) (. .))

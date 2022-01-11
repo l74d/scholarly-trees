@@ -1,0 +1,3 @@
+(S (NP (DT The) (ADJP ($ $) (JJ k) ($ $)) (VBG -Colouring) (NN problem)) (VP (VBZ is) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (PDT such) (DT a) (NN problem))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN problem))) (, ,) (NP (PRP we)) (VP (MD may) (VP (VB assume) (SBAR (IN that) (S (NP (DT the) (NN input) (NN graph)) (VP (VBZ is) (ADJP (NP (NP ($ $) (NNP K_) (-LRB- -LCB-) (VB k+1) (-RRB- -RCB-) ($ $))) (CD -free))))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP$ our) (NNS findings)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ underlying) (NN reason)) (PP (IN for) (NP (DT this) (JJ polynomial-time) (NN algorithm)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN class)) (VP (VBZ has) (VP (VBN bounded) (NP (NN mim-width)))))))))) (. .))

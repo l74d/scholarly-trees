@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (PRP$ their) (NNS instantiations)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (JJ learnable) (NNS inputs)) (, ,) (NP (JJ local) (NNS weights)) (, ,) (CC and) (NP (DT a) (ADJP (RBR more) (JJ general)) (NN form))))))) (. .))

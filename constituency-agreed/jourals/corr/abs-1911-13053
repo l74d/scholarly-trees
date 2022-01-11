@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (DT the) (NN knowledge)) (PP (IN of) (NP (DT a) (NN network) (NN model)))) (VP (VBZ lies) (PP (CONJP (RB not) (RB only)) (PP (IN in) (NP (DT the) (NN network) (NNS parameters))) (CONJP (CC but) (RB also)) (PP (IN in) (NP (DT the) (NN network) (NN architecture)))))))) (. .))

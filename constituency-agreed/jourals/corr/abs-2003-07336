@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ synthesizes) (NP (NP (DT the) (JJ desirable) (NN modeling) (NNS strategies)) (PP (IN for) (NP (JJ personalized) (NN recommendation) (NNS systems))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB summarize) (NP (NP (DT the) (NNS discussions) (CC and) (NN advice)) (PP (IN from) (NP (DT the) (NNP MLPerf) (NNP Recommendation) (NNP Advisory) (NNP Board))))) (. .))

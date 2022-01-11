@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ useful)) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN objective)) (PP (IN of) (S (VP (VBG minimizing) (NP (DT the) (JJ maximum) (NN stretch)))))))))) (. .))
+(S (NP (PDT All) (DT these) (NNS problems)) (VP (VBP have) (NP (ADJP (RB very) (JJ strong)) (JJR lower) (NNS bounds)) (PP (IN in) (NP (DT the) (NN speed) (NN augmentation) (NN model)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (JJ broad) (NNS categories)) (PP (IN of) (NP (JJ such) (NNS queries)))) (VP (VBP exist)) (. .))
+(S (NP (NP (DT An) (JJ empirical) (NN study)) (PP (IN on) (NP (JJ real) (NNS data)))) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (NP (DT the) (NN paper) (POS 's)) (NNS proposals)) (VP (VP (VBP offer) (NP (NN scalability))) (CC and) (VP (VBP are) (ADJP (JJ capable) (PP (IN of) (NP (JJ excellent) (NN performance))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ starts) (PP (IN by) (S (VP (VBG modeling) (CC and) (VBG analyzing) (NP (DT the) (NN baseband) (NN interference)) (PP (IN in) (NP (DT a) (JJ basic) (JJ cellular) (NN network) (NN model))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ presents) (NP (NP (JJ numerical) (NNS examples)) (VP (VBN associated) (PP (IN with) (NP (NNS demonstrations) (CC and) (NNS discussions)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP point) (PRT (RP out)) (NP (JJ future) (NN research) (NNS directions))) (. .))

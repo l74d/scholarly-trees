@@ -1,0 +1,2 @@
+(S (NP (NP (NN Membership)) (PP (IN in) (NP (DT these) (NNS communities)))) (VP (MD may) (VP (VB overlap) (SBAR (WHADVP (WRB when)) (S (NP (JJ biological) (NNS components)) (VP (VBP are) (VP (VBN involved) (PP (IN in) (NP (JJ multiple) (NNS functions))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ traditional) (NN clustering) (NNS methods)) (VP (VBP detect) (NP (JJ non-overlapping) (NNS communities))) (. .))

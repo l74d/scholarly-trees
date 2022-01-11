@@ -1,0 +1,2 @@
+(S (S (NP (CD Two) (NNS channels)) (VP (VBP are) (NP (NNS inputs)))) (, ,) (S (NP (CD two) (NNS channels)) (VP (VBP are) (NP (NNS outputs)))) (CC and) (S (NP (CD one) (NN channel)) (VP (VBZ is) (NP (DT the) (NN drain)))) (. .))
+(S (NP (DT The) (NNS droplets)) (VP (VBP travel) (PP (IN along) (NP (NNS channels))) (PP (IN by) (S (VP (VBG following) (NP (NP (DT a) (NN path)) (PP (IN of) (NP (JJS least) (NN resistance))))))) (SBAR (IN unless) (S (VP (VBN deflected) (PP (IN at) (NP (DT the) (NN junction))))))) (. .))

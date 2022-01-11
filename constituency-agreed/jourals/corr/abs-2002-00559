@@ -1,0 +1,3 @@
+(S (NP (NNP InfoCommit)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS phases)))) (. .))
+(NP (NP (DT An) (JJ initial) (NN commitment) (NN phase)) (CC and) (NP (DT an) (NN evaluation) (NN phase)) (. .))
+(S (NP (NNP InfoCommit)) (VP (VBZ has) (NP (CD four) (JJ main) (NNS features))) (. .))

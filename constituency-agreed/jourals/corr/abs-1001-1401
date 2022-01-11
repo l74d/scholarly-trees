@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (DT a) (NN step)) (PP (IN in) (NP (DT this) (NN direction))))))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ overcomes) (NP (DT the) (JJ above) (NN limitation)) (PP (IN by) (S (VP (VBG employing) (NP (DT an) (JJ automatic) (NN fitness) (NN function)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB achieve) (NP (DT this) (NN fluidity)) (ADVP (RB algorithmically))))))) (. .))

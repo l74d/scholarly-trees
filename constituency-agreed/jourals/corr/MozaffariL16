@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ incorporates) (NP (NP (DT a) (JJ new) (NN strategy)) (PP (IN of) (S (VP (VBG searching) (NP (DT the) (NN problem) (NN space)) (PP (IN by) (S (VP (VBG dividing) (NP (DT the) (NN swarm)) (PP (IN into) (NP (NNS subswarms))))))))))) (. .))
+(S (NP (NP (DT A) (JJ practical) (NN application)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN for) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ medical) (NN image) (VBG thresholding) (NN segmentation))))))) (. .))

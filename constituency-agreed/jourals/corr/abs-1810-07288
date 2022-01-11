@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (JJ such) (NNS models))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ stochastic) (NNS gradients)) (PP (IN of) (NP (JJ common) (NN loss) (NNS functions)))) (VP (VBP satisfy) (NP (DT a) (JJ strong) (NN growth) (NN condition)))))) (. .))

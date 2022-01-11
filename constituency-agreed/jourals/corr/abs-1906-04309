@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ simple) (JJ auxiliary) (JJ neural) (NN network)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB generate) (NP (NP (DT the) (JJ convolutional) (NNS filters)) (PP (IN of) (NP (DT any) (NNP CNN) (NN architecture)))) (PP (IN from) (NP (DT a) (ADJP (JJ low) (JJ dimensional)) (NN latent) (NN space))))))))) (. .))

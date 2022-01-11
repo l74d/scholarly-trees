@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (S (VP (VBG using) (NP (NP (DT a) (NN mixture)) (PP (IN of) (NP (ADJP (JJ convolutional) (CC and) (JJ kervolutional)) (NNS layers)))))) (VP (VBZ improves) (NP (DT the) (NN model) (NN performance)))))) (. .))

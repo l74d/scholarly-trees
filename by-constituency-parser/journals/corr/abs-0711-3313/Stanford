@@ -1,0 +1,6 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT a) (JJ micro) (ADJP (JJ electrostatic) (NP (NN vibration) (HYPH -) (NN toelectricity))) (NN energy) (NN converter))) (. .))
+(S (PP (IN For) (NP (NP (DT the) (NML (CD 3.3) (NN V)) (NN supply) (NN voltage)) (CC and) (NP (CD 1cm2) (NML (NN chip) (NN area)) (NNS constraints)))) (, ,) (NP (JJ optimal) (NN design) (NNS parameters)) (VP (VBD were) (VP (VBN found) (PP (IN from) (NP (NP (JJ theoretical) (NN calculation)) (CC and) (NP (NN Simulink) (NN simulation)))))) (. .))
+(S (NP (DT The) (NN device)) (VP (VBD was) (VP (VBN fabricated) (PP (IN in) (NP (DT a) (NML (NML (NN silicon)) (HYPH -) (PP (IN on) (HYPH -) (NP (NN insulator) (-LRB- -LRB-) (NN SOI) (-RRB- -RRB-)))) (NN wafer))))) (. .))
+(S (NP (ADJP (JJ Mechanical) (CC and) (JJ electrical)) (NNS measurements)) (VP (VBD were) (VP (VBN conducted))) (. .))
+(S (S (NP (JJ Residual) (NNS particles)) (VP (VBD caused) (NP (NP (NN shortage)) (PP (IN of) (NP (DT the) (JJ variable) (NN capacitor)))))) (CC and) (S (NP (DT the) (NN output) (NN power)) (VP (MD could) (RB not) (VP (VB be) (VP (VBN measured))))) (. .))
+(S (NP (NN Device) (NML (NN design) (CC and) (NN fabrication)) (NNS processes)) (VP (VBP are) (VP (VBG being) (VP (VBN refined)))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NNP Uganda))) (, ,) (NP (NNP Luganda)) (VP (VBZ is) (NP (DT the) (ADJP (RBS most) (JJ spoken)) (JJ native) (NN language))) (. .))
+(S (NP (NNP Luganda)) (VP (VBZ is) (RB not) (VP (VBN supported) (SBAR (IN because) (S (NP (DT the) (NN language)) (VP (VBZ is) (RB not) (VP (VBN built) (CC and) (VBN trained) (PP (IN on) (NP (DT these) (NNS engines))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD tested) (NP (DT the) (NN accuracy)) (S (VP (VBG using) (NP (NNP MRT) (CC and) (NNP MOS))))) (. .))

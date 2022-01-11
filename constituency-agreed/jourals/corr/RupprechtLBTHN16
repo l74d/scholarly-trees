@@ -1,0 +1,3 @@
+(S (NP (JJ Many) (NN prediction) (NNS tasks)) (VP (VBP contain) (NP (NN uncertainty))) (. .))
+(S (PP (IN In) (NP (JJ future) (NN prediction))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (JJ many) (JJ distinct) (NNS outcomes)) (VP (VBP are) (ADJP (RB equally) (JJ valid))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (DT a) (JJ principled) (NN approach)) (PP (IN for) (S (VP (VBG handling) (NP (JJ such) (NNS scenarios)))))))) (. .))

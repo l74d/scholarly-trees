@@ -1,0 +1,2 @@
+(S (ADVP (RB Notably)) (, ,) (NP (PRP$ our) (NNS results)) (VP (VBP make) (NP (ADJP (RB very) (JJ weak)) (NNS assumptions)) (, ,) (S (VP (VBG allowing) (NP (NP (JJ arbitrary) (NNS dictionaries)) (CC and) (NP (JJ dependent) (NN measurement) (NN noise)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP verify) (NP (PRP$ our) (JJ theoretical) (NNS results)) (PP (IN with) (NP (NP (JJ numerical) (NNS experiments)) (PP (IN on) (NP (JJ synthetic) (NNS data)))))) (. .))

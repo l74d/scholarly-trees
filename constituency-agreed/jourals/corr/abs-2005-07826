@@ -1,0 +1,1 @@
+(S (NP (NN XSnare)) (VP (MD can) (VP (VB protect) (NP (NN application) (NNS users)) (SBAR (SBAR (IN before) (S (NP (NN application) (NNS developers)) (VP (VBP release) (NP (NNS patches))))) (CC and) (SBAR (IN before) (S (NP (NN server) (NNS operators)) (VP (VBP apply) (NP (PRP them)))))))) (. .))

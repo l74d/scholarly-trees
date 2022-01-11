@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS bounds)) (VP (VBP are) (ADJP (JJ non-asymptotic) (CC and) (JJ quantitative))) (. .))
+(S (NP (PRP$ Our) (NNS algorithms)) (VP (VP (VBP are) (ADJP (JJ global))) (CC and) (VP (VBP are) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB converge) (PP (IN from) (NP (DT any) (JJ initial) (NN iterate))))))))) (. .))

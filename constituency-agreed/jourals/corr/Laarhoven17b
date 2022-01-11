@@ -1,0 +1,1 @@
+(S (ADVP (RB Instead)) (, ,) (NP (NN regularization)) (VP (VBZ has) (NP (NP (DT an) (NN influence)) (PP (PP (IN on) (NP (NP (DT the) (NN scale)) (PP (IN of) (NP (NNS weights))))) (, ,) (CC and) (ADVP (RB thereby)) (PP (IN on) (NP (DT the) (JJ effective) (NN learning) (NN rate)))))) (. .))

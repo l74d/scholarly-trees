@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (ADVP (RB experimentally)) (VBP demonstrate) (NP (NP (DT an) (NNP NFDM) (JJ optical) (NN system)) (PP (IN with) (NP (NP (NN modulation)) (PP (IN over) (NP (JJ nonlinear) (JJ discrete) (NN spectrum))))))) (. .))
+(S (ADVP (RB Particularly)) (, ,) (NP (DT each) (NN symbol)) (VP (VBZ carries) (NP (NP (NNS 4-bits)) (PP (IN from) (S (VP (VBG multiplexing) (NP (NP (CD two) (NNS eigenvalues)) (VP (VBN modulated) (PP (IN by) (NP (NNP QPSK) (NN constellation)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (DT a) (JJ low) (NN error) (NN performance)) (S (VP (VBG using) (NP (NNP NFT) (NN detection)) (PP (IN with) (NP (NP (CD 4Gbps) (NN rate)) (PP (IN over) (NP (CD 640km)))))))) (. .))

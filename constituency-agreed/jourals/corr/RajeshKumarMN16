@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT an) (NN application)) (VP (VBZ runs)))) (, ,) (NP (EX there)) (VP (MD might) (VP (VB be) (NP (NP (JJ several) (NN system) (NNS calls)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN initiated) (PP (IN in) (NP (DT the) (NN background)))))))))) (. .))
+(S (NP (NP (DT A) (NNP Framework)) (PP (IN for) (NP (NN intrusion) (NN detection)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT this) (NN research))))))) (. .))

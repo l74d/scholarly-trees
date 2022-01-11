@@ -1,0 +1,1 @@
+(S (NP (NN Sentiment) (NN classification)) (ADVP (RB typically)) (VP (VBZ relies) (PP (IN on) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (VBN labeled) (NNS data)))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (NN target) (NNS properties)) (SBAR (S (VP (TO to) (VP (VB predict)))))) (VP (MD can) (VP (VB be) (VP (VBN selected) (SBAR (IN after) (S (NP (DT the) (NNS measurements)) (VP (VBP are) (VP (VBN completed)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP support) (NP (PRP$ our) (JJ theoretical) (NNS findings)) (PP (IN with) (NP (JJ extensive) (JJ numerical) (NNS experiments)))) (. .))

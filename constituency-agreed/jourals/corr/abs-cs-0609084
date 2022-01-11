@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (JJ new) (NN image) (NN processing)) (PP (IN for) (NP (DT a) (JJ non-photorealistic) (NN rendering))))) (. .))
+(S (PP (IN For) (NP (JJ certain) (NNS subjects))) (, ,) (NP (DT the) (NN pattern)) (VP (VBZ enhances) (NP (NP (DT the) (NN look)) (PP (IN of) (NP (DT the) (NN image))))) (. .))

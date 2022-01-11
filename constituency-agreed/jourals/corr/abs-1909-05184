@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN generation) (NN network)) (VP (MD can) (VP (VB be) (VP (VBN optimized) (PP (IN by) (S (VP (VBG combining) (NP (PRP it)) (PP (IN with) (NP (DT the) (NN task) (NN network))))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NNS techniques)) (VP (VBP help) (S (VP (TO to) (VP (VB optimize) (NP (DT the) (NN generation) (NN network))))))))) (. .))
+(S (PP (IN Under) (NP (NP (DT the) (NN guidance)) (PP (IN of) (NP (DT the) (NN task) (NN network))))) (, ,) (NP (DT the) (JJ average) (NN accuracy) (NN rate)) (VP (VBZ reaches) (NP (CD 89.58) (NN %))) (. .))

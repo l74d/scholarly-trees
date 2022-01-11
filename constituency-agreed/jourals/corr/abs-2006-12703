@@ -1,0 +1,2 @@
+(S (NP (JJ Genetic) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (PP (IN in) (NP (NN hyperparameter) (NNS optimizations)))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (MD can) (VP (VB find) (NP (JJ good) (NNP CNN) (NNS hyperparameters)) (ADVP (RB efficiently))))))) (. .))

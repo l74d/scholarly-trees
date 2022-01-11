@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many) (JJ real) (NN world) (NNS problems)) (PP (IN in) (NP (NP (JJ various) (NNS fields)) (PP (JJ such) (IN as) (NP (NN business) (, ,) (NN science) (, ,) (NN industry) (CC and) (NN medicine)))))) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (S (VP (VBG using) (NP (NN classification) (NN approach)))))))) (. .))
+(S (NP (JJ Neural) (NNS Networks)) (VP (VBP have) (VP (VBN emerged) (PP (IN as) (NP (NP (DT an) (JJ important) (NN tool)) (PP (IN for) (NP (NN classification))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (PRP$ our) (NN model) (POS 's)) (NN capability) (S (VP (TO to) (VP (VB generalize) (PP (IN on) (NP (NP (NN test) (NNS instances)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN seen) (PP (IN during) (NP (DT the) (NN training) (NN phase))))))))))))))) (. .))

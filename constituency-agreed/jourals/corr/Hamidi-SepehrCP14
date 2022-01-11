@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ creates) (NP (NP (DT an) (NN analysis) (NN framework)) (SBAR (WHADVP (WRB where)) (S (NP (NP (NN channel) (NNS dependencies)) (PP (IN within) (CC and) (IN across) (NP (NNS codewords)))) (VP (VBP are) (VP (VBN preserved))))))) (. .))
+(S (NP (JJ Such) (NNS results)) (VP (VBP are) (ADVP (RB subsequently)) (VP (VBN integrated) (PP (IN into) (NP (DT a) (NN queueing) (NN problem) (NN formulation))))) (. .))

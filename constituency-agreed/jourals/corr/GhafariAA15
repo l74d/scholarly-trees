@@ -1,0 +1,4 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG communicating) (PP (IN in) (NP (DT the) (NN network))))) (VP (MD must) (VP (VB satisfy) (NP (NN integrity) (, ,) (NN privacy) (, ,) (NN confidentiality) (, ,) (NN authentication) (CC and) (NN non-repudiation)))) (. .))
+(S (NP (JJ Many) (NNS frameworks)) (VP (VBP have) (VP (VBN been) (VP (VBN implemented) (S (VP (TO to) (VP (VB provide) (NP (NN security)) (PP (IN in) (NP (NN communication) (CC and) (NNS transactions))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT the) (NN architecture) (CC and) (NN operation)) (PP (IN of) (NP (NNP SFAMSS)))) (PP (IN in) (NP (NN detail)))) (. .))
+(S (S (NP (PRP$ Our) (NN framework)) (VP (VBZ is) (VP (VBN implemented) (PP (IN with) (NP (NP (NNP Java)) (CC and) (NP (DT the) (NN software) (NN architecture))))))) (, ,) (CC and) (S (NP (PRP$ its) (NNS components)) (VP (VBP are) (VP (VBN studied) (PP (IN in) (ADJP (JJ detailed)))))) (. .))

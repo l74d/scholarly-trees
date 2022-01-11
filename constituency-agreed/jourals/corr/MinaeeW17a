@@ -1,0 +1,2 @@
+(S (ADVP (RB Usually)) (NP (DT each) (NN component)) (VP (VBZ is) (VP (VBN described) (PP (IN by) (NP (PRP$ its) (JJ own) (NN subspace) (CC or) (NN dictionary))))) (. .))
+(S (S (NP (JJ Extensive) (NN research)) (VP (VBZ has) (VP (VBN been) (VP (VBN done) (PP (IN for) (NP (NP (DT the) (NN case)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS components)) (VP (VBP are) (ADJP (JJ additive))))))))))) (, ,) (CC but) (S (PP (IN in) (NP (JJ real) (NN world) (NNS applications))) (, ,) (NP (DT the) (NNS components)) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ non-additive)))) (. .))

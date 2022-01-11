@@ -1,0 +1,2 @@
+(S (NP (JJ Graphical) (NNS models)) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN used) (S (VP (TO to) (VP (VB represent) (NP (NP (JJ conditional) (NN dependence) (NNS relationships)) (PP (IN between) (NP (NNS variables))))))))) (. .))
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (NP (NNS observations)) (VP (VBN connected) (PP (IN by) (NP (DT a) (NN network))))) (VP (VP (VBP are) (VP (VBG becoming) (ADJP (RB increasingly) (JJ common)))) (, ,) (CC and) (VP (VBP tend) (S (VP (TO to) (VP (VB violate) (NP (DT these) (NNS assumptions))))))) (. .))

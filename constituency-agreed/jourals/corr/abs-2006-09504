@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN interpretability) (NN method)) (VP (MD can) (VP (VB reconstruct) (NP (NP (DT the) (JJ salient) (NN part)) (PP (IN of) (NP (DT the) (NN input)))) (PP (IN with) (NP (NP (DT a) (NN classification) (NN accuracy)) (PP (IN of) (NP (CD 89) (NN %)))))))))) (. .))

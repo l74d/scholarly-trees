@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBD were) (NP (CD two) (NNS subtasks))) (. .))
+(S (PP (IN For) (NP (DT both) (NNS subtasks))) (, ,) (NP (JJS most) (NNS systems)) (VP (VBD managed) (S (VP (TO to) (VP (VB beat) (NP (DT the) (NN baseline)) (PP (IN by) (NP (DT a) (JJ sizable) (NN margin))))))) (. .))

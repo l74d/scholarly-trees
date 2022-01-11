@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (NN example)) (SBAR (WHADVP (WRB where)) (S (NP (DT this)) (VP (VBZ is) (VP (VBN required)))))) (VP (VBZ is) (PP (IN in) (S (VP (VBG modelling) (NP (NP (JJS shortest) (NNS paths)) (PP (IN between) (NP (NP (NNS nodes)) (PP (IN in) (NP (DT a) (NN graph)))))))))) (. .))

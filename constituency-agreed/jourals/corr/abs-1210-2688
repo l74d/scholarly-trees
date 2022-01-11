@@ -1,0 +1,2 @@
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (NP (NNS applications)) (PP (IN in) (NP (NNS databases))))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ considers) (NP (NP (JJ various) (NNS fragments)) (PP (IN of) (NP (NP (DT the) (NN calculus)) (PP (IN of) (NP (JJ binary) (NNS relations))))))) (. .))
+(S (NP (DT The) (NNS characterizations)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (ADJP (RB appropriately) (VBN adapted)) (NNS notions)) (PP (IN of) (NP (NN simulation) (CC and) (NN bisimulation))))))) (. .))

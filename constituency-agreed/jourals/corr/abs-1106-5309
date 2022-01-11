@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (NN scheduling) (NN algorithm)) (PP (IN for) (NP (NP (NNS tasks)) (PP (IN with) (NP (NP (NNS dependencies)) (PP (IN in) (NP (NNP Grid) (NNS environments))))))))) (. .))

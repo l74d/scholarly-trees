@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ multiple) (NNS choices)) (PP (IN of) (NP (NN access) (NNS networks)))) (VP (VP (VBP offer) (NP (JJ different) (NNS opportunities))) (CC and) (VP (VB overcome) (NP (NP (DT the) (NNS limitations)) (PP (IN of) (NP (JJ other) (NNS technologies)))))) (. .))
+(S (NP (DT The) (NNP MN)) (VP (MD may) (VP (VB maintain) (NP (CD one) (NN interface) (NN connection)) (SBAR (IN while) (S (NP (JJ other) (NN interface)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN handover) (NN process)))))))))) (. .))

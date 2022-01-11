@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (NN convergence)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ unrealistic) (NNS assumptions))))) (CC and) (VP (MD can) (VP (VB diverge) (PP (IN in) (NP (NN practice)))))) (. .))
+(S (NP (NP (NN Convergence) (NN analysis)) (PP (IN on) (NP (NP (JJ nonconvex) (NNS problems)) (PP (IN for) (NP (JJ general) (NN gradient) (NNS compressors)))))) (VP (VBZ is) (VP (VBN provided))) (. .))

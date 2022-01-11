@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (NN distance) (NN comparison))) (, ,) (NP (JJ exocentric) (NN globe)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ accurate)) (PP (IN than) (NP (NP (JJ egocentric) (NN globe)) (CC and) (NP (JJ flat) (NN map)))))) (. .))
+(S (NP (PRP$ Our) (NN study) (NNS participants)) (VP (VBD had) (NP (NP (DT a) (JJ weak) (NN preference)) (PP (IN for) (NP (DT the) (JJ exocentric) (NN globe))))) (. .))
+(S (ADVP (RB Generally)) (, ,) (NP (DT the) (JJ curved) (NN map)) (VP (VBD had) (NP (NP (NNS benefits)) (PP (IN over) (NP (DT the) (JJ flat) (NN map))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (NP (NP (DT the) (NN generalization) (NN error)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))) (VP (VBZ has) (VP (VBN been) (VP (VBN analyzed) (PP (IN through) (NP (DT the) (JJ PAC-Bayesian) (NN framework))) (, ,) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (ADJP (RB fully) (VBN connected)) (NNS layers)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP adapt) (NP (DT this) (NN approach)) (PP (TO to) (NP (DT the) (JJ convolutional) (NN setting)))) (. .))

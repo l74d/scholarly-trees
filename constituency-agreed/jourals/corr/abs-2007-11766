@@ -1,0 +1,1 @@
+(S (NP (DT The) (CD two) (NNS networks)) (VP (VBP are) (VP (VBN connected) (PP (IN by) (NP (NN feature) (NN refinement) (NNS units))) (S (VP (TO to) (VP (VB embed) (NP (NP (DT the) (JJ multi-scale) (NNS features)) (PP (IN of) (NP (DT the) (NN guidance) (NN image)))) (PP (IN into) (NP (DT the) (JJ deep) (NN decoder) (NN network)))))))) (. .))

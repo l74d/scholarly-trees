@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NNP VEnron))) (, ,) (NP (NP (DT the) (JJ different) (NNS versions)) (PP (IN of) (NP (DT a) (NN spreadsheet)))) (VP (VBP are) (VP (VBN clustered) (PP (IN into) (NP (DT an) (NN evolution) (NN group))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN observation)))) (, ,) (NP (PRP we)) (VP (VBD proposed) (NP (NP (DT an) (JJ automatic) (NN clustering) (NN algorithm)) (, ,) (NP (NNP SpreadCluster)))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP SpreadCluster)) (VP (MD can) (VP (VB cluster) (NP (NP (DT the) (JJ versioned) (NNS spreadsheets)) (PP (IN in) (NP (DT these) (CD two) (NNS corpora)))) (PP (IN with) (NP (JJ high) (NN precision)))))))) (. .))

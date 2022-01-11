@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN downlink)) (PP (IN in) (NP (DT a) (NNP K-tier) (JJ heterogeneous) (NN network)))) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NP (NNP Nakagami-m) (NN fading)) (CC and) (NP (NN noise))))))) (. .))
+(S (PP (IN For) (NP (PDT such) (DT a) (NN system))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (JJ closed-form) (NNS approximations)) (PP (IN of) (NP (NP (NP (NN coverage) (NN probability)) (CC and) (NP (JJ average) (NN rate))) (ADJP (JJ achievable)))))) (. .))
+(S (NP (DT A) (JJ piece-wise) (JJ linear) (NN approximation)) (VP (VBZ is) (VP (VBN employed) (PP (IN in) (S (VP (VBG obtaining) (NP (DT the) (JJ simplified) (NNS expressions))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NNS results)) (VP (VBP are) (VP (VBN verified) (ADVP (RB numerically)) (PP (IN through) (NP (NNS simulations))))) (. .))
+(S (NP (NP (DT A) (NN comparison)) (PP (IN with) (NP (VBG existing) (NN work)))) (VP (NNS shows) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN work)) (VP (VBZ is) (NP (DT a) (JJ good) (NN approximation)))))) (. .))

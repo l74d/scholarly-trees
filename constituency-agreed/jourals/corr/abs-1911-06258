@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (DT a) (JJ deep) (NN water) (NN label)) (PP (IN on) (NP (DT a) (NN warning) (NN sign)))) (VP (VBZ warns) (NP (NNS people)) (PP (IN about) (NP (NP (DT the) (NN danger)) (PP (IN in) (NP (DT the) (NN scene)))))) (. .))
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ outperforms) (NP (VBG existing) (NNS approaches)) (PP (IN on) (NP (NP (CD three) (NN benchmark) (NNS datasets)) (PP (IN for) (NP (DT the) (NNP TextVQA) (NN task))))) (PP (IN by) (NP (DT a) (JJ large) (NN margin)))) (. .))

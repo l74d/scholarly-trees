@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP consider) (ADVP (RB here)) (NP (NP (DT the) (JJ various) (NNS techniques)) (VP (VBN developed) (PP (IN for) (NP (DT that) (NN purpose)))))) (CC and) (VP (VB analyze) (NP (PRP$ their) (NNS commonalities) (CC and) (NNS differences)))) (. .))
+(S (PP (IN From) (NP (DT this) (NN framework))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN relation)) (PP (IN between) (NP (NP (NNS data) (VBG interlinking)) (CC and) (NP (NN ontology) (NN matching)))))) (. .))

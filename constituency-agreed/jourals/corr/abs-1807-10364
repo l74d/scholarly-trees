@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ predicts) (NP (NP (DT the) (NN outcome) (CC and) (NN target)) (PP (IN of) (NP (NN branch) (NNS instructions)))) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG stalling) (NP (DT the) (NN execution) (NN pipeline)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN until) (ADVP (RB recently))) (, ,) (NP (NP (DT the) (NN security) (NNS implications)) (PP (IN of) (NP (JJ speculative) (NN code) (NN execution)))) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN studied)))) (. .))

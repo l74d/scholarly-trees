@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (ADJP (JJ robust) (CC and) (JJ efficient)) (NN method)) (PP (IN for) (NP (NP (NN multiview) (NN triangulation)) (CC and) (NP (NN uncertainty) (NN estimation)))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NN method)) (PP (IN through) (NP (DT an) (JJ extensive) (NN evaluation)))) (. .))

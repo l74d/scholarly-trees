@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG maximizing) (NP (NP (DT the) (NN lifetime)) (PP (IN of) (NP (DT this) (NN network))))))))) (. .))
+(S (SBAR (RB Even) (IN though) (S (NP (NP (DT the) (NN setting)) (PP (IN of) (NP (PRP$ our) (NN problem)))) (VP (VBZ is) (ADJP (RB very) (JJ simple))))) (, ,) (NP (PRP it)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (DT the) (NN solution)) (VP (VBZ is) (ADVP (RB far) (PP (IN from) (ADJP (JJ easy)))))))) (. .))

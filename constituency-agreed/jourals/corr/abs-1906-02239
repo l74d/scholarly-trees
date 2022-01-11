@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB reflect) (NP (DT this) (NN application))))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (JJ multiple) (NNS metrics))) (. .))
+(S (PP (IN From) (NP (JJ inter-rater) (NN agreement))) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (DT the) (NN task)) (VP (VBZ is) (ADJP (RB inherently) (JJ difficult)))))) (. .))

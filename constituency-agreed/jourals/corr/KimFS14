@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT some) (NNS cases)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN algorithm)) (VP (VBZ does) (RB not) (VP (VB return) (NP (DT the) (JJ optimal) (NN solution))))))) (VP (VBP are) (VP (VBN presented))) (. .))

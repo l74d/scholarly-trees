@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN learning) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB discover) (NP (ADJP (RB previously) (JJ unknown)) (NN subcategorization) (NNS frames)) (PP (IN from) (NP (DT the) (NNP Czech) (NNP Prague) (NNP Dependency) (NNP Treebank)))))))))))) (. .))

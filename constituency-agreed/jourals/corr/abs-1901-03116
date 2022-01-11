@@ -1,0 +1,2 @@
+(S (NP (JJ Neural) (NN machine) (NN translation)) (VP (VBZ has) (ADVP (RB significantly)) (VP (VBN pushed) (ADVP (RB forward)) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NN field)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (NNS models)) (VP (VBP inherit) (NP (DT these) (JJ social) (NNS biases))) (. .))

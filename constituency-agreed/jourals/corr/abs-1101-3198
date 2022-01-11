@@ -1,0 +1,2 @@
+(S (NP (CD Two) (NNS nodes)) (VP (VBP want) (S (VP (TO to) (VP (VB establish) (NP (DT a) (NN dialog)) (SBAR (IN while) (S (NP (DT the) (JJ third) (NN node)) (VP (MD can) (VP (VB assist) (PP (IN in) (NP (DT the) (JJ bi-directional) (NN transmission) (NN process))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (VBZ consists) (PP (IN of) (NP (CD six) (NNS parts))))))) (. .))

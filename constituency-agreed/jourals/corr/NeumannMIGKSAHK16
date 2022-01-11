@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN reformulated) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN reinforcement) (NN learning))))))) (. .))
+(S (NP (NNP Vito)) (VP (VBD was) (VP (VBN tested) (PP (IN in) (NP (DT a) (JJ synthetic) (NN scenario))) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (PRP it)) (VP (MD could) (VP (VB learn) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB optimize) (NP (NN cost) (NNS functions)) (ADVP (RB generically)))))))))))))) (. .))

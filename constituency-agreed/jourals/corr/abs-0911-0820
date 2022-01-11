@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ objective) (NN function)) (VP (VBZ is) (ADJP (JJ non-convex)))) (CC and) (, ,) (S (ADVP (RB hence)) (, ,) (NP (DT the) (JJ optimal) (NN solution)) (VP (VBZ is) (VP (VBN obtained) (PP (IN via) (NP (JJ exhaustive) (NN search)))))) (. .))

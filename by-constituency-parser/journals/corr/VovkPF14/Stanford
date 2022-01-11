@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN of) (NP (NP (ADJP (JJ probabilistic)) (NN prediction)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ conformal) (NN prediction))))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VP (VBZ is) (VP (VBN applied) (PP (IN to) (NP (NP (DT the) (JJ standard) (NNP USPS) (NNS data)) (NP (NN set)))))) (CC and) (VP (VBZ gives) (NP (JJ encouraging) (NNS results)))) (. .))

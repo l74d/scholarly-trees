@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS variations)) (VP (MD could) (VP (VB be) (NP (ADJP (JJ rigid) (CONJP (RB as) (RB well) (IN as)) (JJ non-rigid)) (NNS transformations)))) (. .))
+(S (NP (NP (DT The) (NN classifier) (NNS outputs)) (PP (IN for) (NP (DT each) (NN class)))) (, ,) (PP (IN after) (NP (NN transformation))) (, ,) (VP (VBP are) (VP (VBN compared) (S (VP (TO to) (VP (VB yield) (NP (DT the) (JJ final) (NN decision))))))) (. .))

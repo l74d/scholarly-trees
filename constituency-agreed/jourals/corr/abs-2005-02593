@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP extend) (NP (NP (DT the) (NN search) (NN space)) (PP (IN of) (NP (NNP NAS))))) (. .))
+(S (NP (PRP We)) (VP (VBP implement) (NP (PRP$ our) (NN model)) (PP (IN in) (NP (DT a) (JJ differentiable) (NN architecture) (NN search) (NN system)))) (. .))

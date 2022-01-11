@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT each) (NN formulation))) (, ,) (NP (PRP we)) (VP (VBP detect) (NP (NNS communities)) (PP (IN by) (S (VP (VBG optimizing) (NP (NN network) (NN modularity)) (S (VP (VBG using) (NP (DT an) (JJ appropriate) (JJ null) (NN model)))))))) (. .))

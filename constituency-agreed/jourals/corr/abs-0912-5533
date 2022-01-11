@@ -1,0 +1,4 @@
+(S (NP (DT Both) (NNS features)) (VP (VBP are) (NP (NP (JJ important) (NNS properties)) (PP (IN of) (NP (JJ natural) (NNS objects))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (PP (IN for) (NP (NP (DT a) (JJ straightforward) (NN representation)) (PP (IN of) (NP (NP (JJ prototypical) (NN reasoning) (NNS tasks)) (PP (IN for) (NP (JJ spatial) (NNS agents)))))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN example))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB generate) (NP (NN survey) (NN knowledge)) (PP (IN from) (NP (NP (JJ local) (NNS observations)) (PP (IN in) (NP (DT a) (NN street) (NN network)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP integrate) (NP (PRP$ our) (NNS results)) (PP (IN into) (NP (NP (CD two) (NN reasoning) (NNS tools)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (RB publicly) (JJ available)))))))) (. .))

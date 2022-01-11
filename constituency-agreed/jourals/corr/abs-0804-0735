@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB present) (NP (NP (DT a) (NN problem) (NN reduction) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ deletes) (NP (JJ redundant) (NNS vertices) (CC and) (NNS edges)) (, ,) (S (VP (VBG preserving) (NP (DT the) (JJ optimal) (NN solution)))))))))))) (. .))

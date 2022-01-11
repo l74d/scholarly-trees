@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN tested) (CC and) (VBN implemented) (PP (IN in) (NP (JJ real) (NN environment)))))) (CC and) (S (NP (PRP it)) (VP (VBD showed) (NP (JJ promising) (NNS results)))) (. .))
+(S (PP (IN Unlike) (NP (DT the) (JJ conventional) (NNS approaches))) (, ,) (NP (NP (DT the) (NN error)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VP (VBZ is) (VP (VBN fixed))) (CC and) (VP (VBZ is) (RB not) (VP (VBN affected) (PP (IN by) (NP (DT the) (JJ long) (NN distance)))))) (. .))

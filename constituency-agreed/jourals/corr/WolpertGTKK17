@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (NN formulation)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN with) (NP (DT a) (JJ linear) (NN program))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (VBG leveraging) (NP (NP (DT the) (JJ computational) (NN power)) (PP (IN of) (NP (JJ neural) (NNS networks)))) (S (VP (TO to) (VP (VB solve) (NP (JJ such) (NNS problems)))))))) (. .))

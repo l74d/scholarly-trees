@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN trained) (ADVP (RB adversarially)) (PP (IN against) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (NNS discriminators))))) (S (VP (TO to) (VP (VB ensure) (NP (JJ realistic) (NNS outputs))))))) (. .))

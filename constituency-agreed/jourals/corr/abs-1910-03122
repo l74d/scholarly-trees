@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNP CNN) (NN training) (NNS data)) (CC and) (NP (PRP$ their) (NNS labels))) (VP (VBP are) (VP (VBN collected) (PP (IN in) (NP (DT an) (JJ incremental) (NN manner))))) (. .))

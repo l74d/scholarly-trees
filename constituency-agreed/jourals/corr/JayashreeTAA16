@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ reversible) (NN logic)) (VP (VBZ has) (NP (NP (NN application)) (PP (IN in) (NP (NN quantum) (NN computing))))) (. .))
+(S (NP (NP (DT The) (NN removal)) (PP (IN of) (NP (NP (NN garbage) (NNS qubits)) (CC and) (NP (NN ancilla) (NNS qubits))))) (VP (VBP are) (ADJP (JJ essential) (PP (IN in) (S (VP (VBG designing) (NP (DT an) (JJ efficient) (NN quantum) (NN circuit))))))) (. .))
+(S (NP (NP (DT The) (VBG existing) (NNS designs)) (PP (IN of) (NP (JJ reversible) (NN quantum) (NN integer) (NNS multipliers)))) (VP (VBP suffer) (PP (IN from) (NP (JJ redundant) (NN garbage) (NNS qubits)))) (. .))

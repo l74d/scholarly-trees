@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (MD may) (ADVP (RB also)) (VP (VB increase) (NP (NP (NN delay)) (CC and) (NP (JJ computational) (NN complexity))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (RB not) (VP (VBN implemented) (ADVP (RB efficiently)))))))) (. .))

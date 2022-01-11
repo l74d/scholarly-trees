@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN citation) (NN context)) (VP (VBZ is) (VP (VBN defined) (PP (IN by) (NP (NP (DT the) (NNS words)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN located) (PP (IN around) (NP (DT a) (JJ specific) (NN citation))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD retrieved) (NP (DT the) (NN citation) (NN context)) (PP (IN from) (NP (NNP Microsoft) (NNP Academic)))) (. .))

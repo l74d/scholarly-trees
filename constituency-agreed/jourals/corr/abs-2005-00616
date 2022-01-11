@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG finding) (NP (JJ adversarial) (NNS examples)) (PP (IN in) (NP (DT this) (NN way))))) (VP (VBZ causes) (NP (JJ excessive) (JJ computational) (NN overhead)) (PP (IN during) (NP (NN training)))) (. .))
+(S (NP (PRP We)) (VP (VBP support) (NP (PRP$ our) (NNS insights)) (PP (IN with) (NP (NP (NNS experiments)) (PP (IN on) (NP (DT a) (JJ robust) (NN classification) (NN problem)))))) (. .))

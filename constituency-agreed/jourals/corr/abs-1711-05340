@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS models)) (VP (VBD were) (VP (VBN trained) (S (VP (VBG using) (NP (NP (CD 85) (NN %)) (PP (IN of) (NP (DT the) (NN dataset)))))) (, ,) (SBAR (IN while) (S (NP (DT the) (VBG remaining) (CD 15) (NN %)) (VP (VBD were) (VP (VBN used) (PP (IN as) (NP (DT a) (NN test) (NN set))))))))) (. .))

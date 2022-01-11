@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN case))) (, ,) (S (NP (DT the) (NN information) (NN sequence)) (VP (VBZ represents) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS actions)))))) (, ,) (CC and) (S (NP (DT the) (NN distortion) (NN function)) (VP (VBZ captures) (NP (NP (DT the) (NN payoff)) (PP (IN of) (NP (DT the) (NN game)))))) (. .))

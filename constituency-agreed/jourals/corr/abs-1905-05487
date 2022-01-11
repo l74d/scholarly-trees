@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBD was) (VP (VBN trained) (PP (IN on) (NP (DT a) (NN squeezenet) (NN architecture))) (S (VP (TO to) (VP (VB make) (S (NP (PRP it)) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG running) (PP (IN on) (NP (JJ mobile) (NNS devices))) (PP (IN with) (NP (NP (DT an) (NN accuracy)) (PP (IN of) (NP (CD 83.29) (NN %))))))))))))))) (. .))

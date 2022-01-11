@@ -1,0 +1,1 @@
+(S (PP (IN Unlike) (NP (NNP RustBelt))) (, ,) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB prove) (NP (NN type) (NN soundness)) (S (VP (VBG using) (NP (NP (NN progress) (CC and) (NN preservation)) (PP (RB instead) (IN of) (NP (DT a) (NNP Kripke) (JJ logical) (NN relation)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT the) (NNP PageRank) (NN approach)) (VP (VBZ does) (RB not) (VP (VB need) (NP (DT any) (NN training) (NNS data)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN prediction) (NN model))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (IN if) (S (NP (NNP NP)) (VP (VBZ is) (RB not) (VP (VBN included) (PP (IN in) (NP (NP (NN P)) (-LRB- -LRB-) (NP (NN resp))))))))) (. .))
+(NP (ADJP (JJ quasi-polynomial) (, ,) (JJ subexponential) (-RRB- -RRB-)) (NN time) (. .))

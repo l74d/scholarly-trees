@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (NP (DT each) (NN pixel)) (PP (IN in) (NP (NN groundtruth) (NNS boxes)))) (VP (VBZ is) (ADJP (RB well) (VBN trained))))) (, ,) (NP (DT the) (NN tracker)) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG rectifying) (NP (NP (JJ inexact) (NNS predictions)) (PP (IN of) (NP (NN target) (NNS objects)))) (PP (IN during) (NP (NN inference)))))))) (. .))

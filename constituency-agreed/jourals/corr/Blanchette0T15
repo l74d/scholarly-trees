@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Corecursive) (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RB well) (VBN behaved)))))) (VP (MD can) (VP (VB be) (VP (VBN registered) (PP (IN as) (NP (JJ such))) (, ,) (S (ADVP (RB thereby)) (VP (VBG increasing) (NP (NP (DT the) (NN corecursor) (POS 's)) (NN expressiveness))))))) (. .))
+(S (NP (DT The) (NN metatheory)) (VP (VP (VBZ is) (VP (VBN formalized) (PP (IN in) (NP (DT the) (NNP Isabelle) (NN proof) (NN assistant))))) (CC and) (VP (VBZ forms) (NP (NP (DT the) (NN core)) (PP (IN of) (NP (DT a) (NN prototype) (NN tool)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PDT All) (DT the) (NNS subproblems)) (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB efficiently))))) (. .))
+(S (ADVP (RB Theoretically)) (, ,) (NP (PRP we)) (VP (VP (VBP prove) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT the) (NN minimizer))))) (CC and) (VP (VB analyze) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (DT the) (NN algorithm)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN case)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN input) (NN perturbation)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBZ is) (NP (NP (DT a) (NN vector) (NN function)) (PP (IN of) (NP (NN time)))))))) (VP (VBZ is) (VP (VBN considered))) (. .))

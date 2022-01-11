@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT the) (NNS concepts)) (PP (IN of) (NP (NN privacy) (NN implication) (CC and) (NN non-guarantee)))) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NNS relationships)) (PP (IN between) (NP (DT these) (NN privacy) (NNS metrics)))))))) (. .))
+(S (PP (IN For) (NP (NP (DT the) (JJ nonparametric) (NN case)) (SBAR (WHADVP (WRB where)) (S (NP (NN sensor) (NNS distributions)) (VP (VBP are) (ADJP (JJ unknown))))))) (, ,) (NP (PRP we)) (VP (VBP adopt) (NP (DT an) (JJ empirical) (NN optimization) (NN approach))) (. .))

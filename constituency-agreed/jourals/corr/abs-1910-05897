@@ -1,0 +1,1 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NP (NN network) (NN compression)) (PP (IN through) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NNS techniques)) (PP (JJ such) (IN as) (NP (NN pruning) (CC and) (NN quantization)))))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN resource) (NN requirement)))))))) (. .))

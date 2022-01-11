@@ -1,0 +1,2 @@
+(S (S (VP (VBG Optimizing) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG evaluating) (NP (DT a) (NN polynomial)))))))) (VP (VBZ is) (NP (NP (DT a) (JJ classic) (NN problem)) (PP (IN in) (NP (NN computer) (NN science))))) (. .))
+(S (NP (DT This) (JJ simple) (NN textbook) (NN algorithm)) (VP (VBZ has) (VP (VBN given) (NP (ADJP (RB remarkably) (JJ efficient)) (NNS results)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (CD two) (VBG resulting) (NNS sub-problems)) (VP (VP (VBP are) (ADJP (JJ convex))) (CC and) (VP (VBP are) (VP (VBN solved) (ADVP (RB efficiently)) (S (VP (VBG using) (NP (NP (DT the) (VBG alternating) (NN direction) (NN method)) (PP (IN of) (NP (NNS multipliers))))))))) (. .))

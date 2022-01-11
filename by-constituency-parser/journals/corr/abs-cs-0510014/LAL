@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (CD two) (NN algorithms)) (PP (IN for) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NP (DT the) (NNP Kalman) (NN form)) (PP (IN of) (NP (DT a) (JJ linear) (NN control) (NN system))))))))) (. .))
+(S (NP (DT The) (JJ first) (NN one)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN technique)) (VP (VBN developed) (PP (IN by) (NP (NNP Keller-Gehrig)))) (PP (IN for) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (DT the) (JJ characteristic) (NN polynomial))))))))) (. .))
+(S (NP (DT The) (NN cost)) (VP (VBZ is) (NP (NP (DT a) (JJ logarithmic) (NN number)) (PP (IN of) (NP (JJ matrix) (NNS multiplications))))) (. .))
+(S (PP (TO To) (NP (PRP$ our) (NN knowledge))) (, ,) (NP (DT this)) (VP (VBZ improves) (NP (DT the) (ADJP (ADVP (JJS best) (RB previously)) (VBN known)) (JJ algebraic) (NN complexity)) (PP (IN by) (NP (NP (DT an) (NN order)) (PP (IN of) (NP (NN magnitude)))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (ADVP (RB also)) (VP (VBD present) (NP (NP (DT a) (JJ cubic) (NN algorithm)) (VP (NN proven) (S (VP (TO to) (ADJP (RBR more) (JJ efficient)) (PP (IN in) (NP (NN practice)))))))) (. .))

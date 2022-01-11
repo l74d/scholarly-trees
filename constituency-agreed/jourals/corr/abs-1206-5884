@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS concepts)) (PP (IN of) (NP (NN multithreading) (CC and) (NN concurrency)))) (VP (VBZ has) (VP (VBN been) (VP (VBN utilized) (S (VP (TO to) (VP (VB perform) (NP (JJ parallel) (NN execution)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ helps) (PP (IN in) (NP (NN fault) (NN tolerance)))) (. .))

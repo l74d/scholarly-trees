@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS problems)) (VP (VBP arise) (PP (IN for) (NP (NN instance))) (PP (IN as) (NP (NP (DT the) (NN limit)) (PP (IN of) (NP (JJ collaborative) (JJ multi-agent) (NN control) (NNS problems))))) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS agents)))) (VP (VBZ is) (ADJP (RB very) (JJ large)))))) (. .))
+(S (NP (DT The) (JJ asymptotic) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN phrased) (PP (IN as) (NP (NP (DT the) (JJ optimal) (NN control)) (PP (IN of) (NP (DT a) (JJ non-linear) (NNS dynamics)))))))) (. .))

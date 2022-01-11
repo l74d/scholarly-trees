@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ temporal) (NNS dynamics)) (PP (IN of) (NP (NP (JJ such) (NN sequence)) (PP (IN of) (NP (NNS descriptors)))))) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT a) (NNP Hankel) (NN matrix))))))) (. .))
+(S (NP (DT The) (NNS representations)) (VP (VBP have) (VP (VBN been) (VP (VBN validated) (PP (IN in) (NP (NP (CD two) (ADJP (RB very) (JJ challenging)) (NN application) (NNS domains)) (: :) (NP (NP (NN emotion) (NN recognition)) (CC and) (NP (NN pain) (NN detection)))))))) (. .))

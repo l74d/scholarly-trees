@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (VBN proposed) (NN algorithm))) (, ,) (NP (NP (DT a) (NN network)) (PP (VBG including) (NP (NNS clusters)))) (VP (VBZ is) (VP (VBN employed))) (. .))
+(S (NP (NP (DT Each) (NN pixel)) (PP (IN in) (NP (DT the) (JJ hyperspectral) (NNS images)))) (VP (VBN considered) (PP (IN as) (NP (NP (DT a) (NN node)) (PP (IN in) (NP (DT this) (NN network)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (JJ asymmetric) (NN confidence)) (PP (IN between) (NP (NNS agents)))))) (. .))
+(S (NP (DT The) (VBG resulting) (NN confidence) (NN matrix)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (DT an) (JJ equivalent) (NNP Markov) (NN chain)))))) (. .))

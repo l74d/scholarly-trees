@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN work)) (VP (VBZ proposes) (NP (NP (DT a) (JJ new) (NN abstraction)) (VP (VBN characterized) (PP (IN as) (NP (NP (DT a) (NN tradeoff) (NN curve)) (PP (IN between) (NP (NN latency) (, ,) (NN reliability) (CC and) (NN rate)))))))) (. .))

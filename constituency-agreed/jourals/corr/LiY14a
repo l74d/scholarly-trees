@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN protocol)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT an) (NN error) (NN detector)) (CC and) (NP (DT a) (NN debugging) (NN strategy))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN example))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB debug) (NP (NP (DT the) (JJ computational) (NN process)) (PP (IN of) (NP (NN quantum) (NN search)))) (S (VP (VBG using) (NP (DT this) (NN protocol))))))))) (. .))

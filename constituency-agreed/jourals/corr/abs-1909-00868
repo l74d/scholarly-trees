@@ -1,0 +1,1 @@
+(S (ADVP (RBR More) (RB interestingly)) (, ,) (SBAR (IN while) (S (NP (PRP$ our) (NNS experiments)) (VP (VBP demonstrate) (NP (NN superiority)) (PP (IN on) (NP (DT these) (JJ principle) (NNS evaluations)))))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ obtains) (NP (DT a) (JJR worse) (NN ELBO))) (. .))

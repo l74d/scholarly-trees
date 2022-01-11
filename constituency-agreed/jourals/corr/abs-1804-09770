@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ final) (NN feature) (NN representation)) (VP (VBZ is) (NP (NP (DT a) (NN union)) (PP (IN of) (NP (NP (NNS features)) (PP (IN from) (NP (DT all) (VBN chosen) (NNS subspaces))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (PRP$ our) (NN method)) (PP (IN with) (NP (VBG existing) (NN feature) (NN generation) (NNS methods)))) (. .))

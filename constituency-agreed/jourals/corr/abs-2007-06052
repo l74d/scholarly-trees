@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (S (NP (DT all) (NNS buildings)) (VP (VP (VBP are) (ADJP (JJ vertical))) (CC and) (VP (VBP have) (NP (DT a) (JJ rectangular) (NN base))))))) (. .))
+(S (NP (DT Each) (NN camera)) (VP (VBZ is) (VP (VBN placed) (PP (IN at) (NP (NP (DT a) (JJ top) (NN corner)) (PP (IN of) (NP (DT a) (NN building))))))) (. .))

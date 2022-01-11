@@ -1,0 +1,1 @@
+(S (NP (DT Each) (NN headline)) (VP (VBZ has) (VP (VBN been) (VP (VBN categorized) (PP (IN into) (ADJP (JJ positive) (, ,) (JJ negative) (CC or) (JJ neutral))) (PP (VBN based) (PP (IN on) (NP (PRP$ its) (NN sentiment) (NN score))))))) (. .))

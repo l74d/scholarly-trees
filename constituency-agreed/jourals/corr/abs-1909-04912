@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (DT the) (NN bandit) (NN feedback) (NN setting)))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN modeled) (PP (IN as) (NP (DT a) (NN path) (NN planning) (NN problem))))))))) (. .))

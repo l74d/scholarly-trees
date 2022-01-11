@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN classified) (NP (DT each) (NN type)) (PP (IN into) (NP (JJ different) (NNS categories))) (PP (VBN based) (PP (IN on) (NP (PRP$ their) (NNS properties) (CC and) (NNS capabilities)))))) (. .))
+(S (NP (DT This) (NN paper)) (ADVP (RB also)) (VP (VBZ analyzes) (NP (NP (NN interface) (NN solution)) (SBAR (WHNP (WDT which)) (S (VP (VBP work) (PP (IN with) (NP (JJ different) (NN virtualization) (NNS schemes)))))))) (. .))

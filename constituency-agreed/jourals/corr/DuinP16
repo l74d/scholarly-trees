@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS conditions)) (VP (VBP affect) (NP (NP (DT the) (NNS objects)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN distance) (NN measure)) (VP (VBN used))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN argued) (SBAR (IN that) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN met) (PP (IN in) (NP (NN practice)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (JJ critical) (NNS steps)) (PP (IN in) (NP (NN fingerprint) (NN recognition)))) (VP (VBP are) (NP (NP (NN binarization) (CC and) (NN thinning)) (PP (IN of) (NP (DT the) (NN image))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP present) (PP (IN in) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ new) (NN pipeline) (NN structure)) (PP (IN for) (S (VP (VBG implementing) (NP (DT the) (NN thinning) (NN algorithm))))))))

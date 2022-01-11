@@ -1,0 +1,2 @@
+(S (NP (NP (NN Security)) (PP (IN of) (NP (DT the) (NNP Bitcoin) (NN network)))) (VP (VBZ depends) (PP (IN on) (NP (NP (NN connectivity)) (PP (IN between) (NP (DT the) (NNS nodes)))))) (. .))
+(S (PP (IN Unlike) (NP (NN block) (NN relay))) (, ,) (NP (NN transaction) (NN dissemination)) (VP (VBZ has) (VP (VBN received) (NP (JJ little) (NN attention)) (PP (IN in) (NP (JJ prior) (NN work))))) (. .))

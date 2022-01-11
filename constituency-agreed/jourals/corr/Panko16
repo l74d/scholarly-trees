@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ has) (NP (CD three) (JJ simple) (NNS conclusions))) (. .))
+(S (NP (DT The) (JJ third)) (VP (VBZ is) (SBAR (IN that) (S (NP (NN spreadsheet) (NNS developers) (CC and) (NNS corporations)) (VP (VBP are) (ADJP (RB highly) (JJ overconfident) (PP (IN in) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (PRP$ their) (NNS spreadsheets)))))))))) (. .))

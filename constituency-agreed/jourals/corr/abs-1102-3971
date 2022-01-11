@@ -1,0 +1,2 @@
+(S (NP (NNP Artificial) (NNP Immune) (NNP System)) (VP (VBZ is) (NP (NP (DT an) (JJ evolutionary) (NN paradigm)) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (JJ biological) (NNS aspects)) (PP (IN of) (NP (NP (DT the) (JJ immune) (NN system)) (PP (IN of) (NP (NNS mammals)))))))))) (. .))
+(S (NP (DT The) (JJ immune) (NN system)) (VP (MD can) (VP (VB inspire) (S (VP (TO to) (VP (VB form) (NP (NP (JJ new) (NNS algorithms)) (VP (VBG learning) (PP (IN from) (NP (NP (PRP$ its) (NN course)) (PP (IN of) (NP (NN action)))))))))))) (. .))

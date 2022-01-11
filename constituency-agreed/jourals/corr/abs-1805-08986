@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ comprehensive) (NN representation) (CC and) (NN understanding)) (PP (IN of) (NP (DT the) (NN driving) (NN environment)))) (VP (VBZ is) (ADJP (JJ crucial) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN safety) (CC and) (NN reliability)) (PP (IN of) (NP (JJ autonomous) (NNS vehicles))))))))) (. .))
+(S (NP (NP (DT The) (NNS labels)) (PP (IN for) (NP (NN training)))) (VP (VBP are) (VP (VBN created) (S (ADJP (JJ unsupervised))) (PP (IN with) (NP (DT an) (JJ automatic) (NN label) (NN generation) (NN algorithm))))) (. .))

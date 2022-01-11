@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Partial) (NN classification)) (VP (ADVP (RB popularly)) (VBN known) (PP (IN as) (NP (NN nugget) (NN discovery))))) (VP (VBZ comes) (PP (IN under) (NP (JJ descriptive) (NN knowledge) (NN discovery)))) (. .))
+(S (ADVP (RB However)) (NP (NN research) (NN gap)) (VP (VBZ exists) (PP (IN in) (S (VP (VBG using) (NP (JJ cultural) (NN algorithm)) (PP (IN for) (NP (NP (JJ multi-objective) (NN optimization)) (PP (IN of) (NP (NNS rules))))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ current) (NN study))) (NP (DT a) (JJ multi-objective) (JJ cultural) (NN algorithm)) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (NP (JJ partial) (NN classification))))) (. .))

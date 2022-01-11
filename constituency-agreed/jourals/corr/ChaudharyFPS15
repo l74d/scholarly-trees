@@ -1,0 +1,1 @@
+(S (S (NP (NNP Bitcoin)) (VP (VBZ keeps) (NP (NP (DT a) (NN ledger)) (PP (IN of) (NP (DT all) (NNS transactions)))))) (: ;) (S (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (DT the) (NNS participants)))) (VP (VBZ decides) (PP (IN on) (NP (DT the) (JJ correct) (NN ledger))))) (. .))

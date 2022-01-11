@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ total) (NN variation) (NN loss)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB highlight) (NP (JJ important) (NNS edges) (CC and) (NNS contents)) (PP (IN in) (NP (NN cartoon) (NNS portraits)))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT a) (JJ perceptual) (NN loss)) (VP (VBZ is) (VP (VBN included) (S (VP (TO to) (VP (VP (VB eliminate) (NP (NNS artifacts))) (CC and) (VP (VB improve) (NP (NP (NN robustness)) (PP (IN of) (NP (PRP$ our) (NN method)))))))))) (. .))

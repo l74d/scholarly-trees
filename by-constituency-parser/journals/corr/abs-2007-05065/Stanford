@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP study) (ADVP (RB countably)) (NP (NP (JJ infinite) (NNS MDPs)) (PP (IN with) (NP (NN parity) (NNS objectives))))) (. .))
+(S (PP (IN Unlike) (PP (IN in) (NP (JJ finite) (NNS MDPs)))) (, ,) (NP (JJ optimal) (NNS strategies)) (VP (VP (VBP need) (RB not) (VP (VB exist))) (, ,) (CC and) (VP (MD may) (VP (VB require) (NP (JJ infinite) (NN memory)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP do))))))) (. .))
+(NP (NP (ADJP (JJ optimal)) (-RRB- -RRB-) (NNS strategies)) (PP (IN for) (NP (NML (JJ general) (NN parity)) (NNS objectives))) (. .))

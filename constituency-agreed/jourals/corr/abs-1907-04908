@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD found) (SBAR (IN that) (S (PP (IN with) (NP (JJ minor) (NNS adjustments))) (, ,) (NP (NP (CD 27.92) (NN %)) (PP (IN of) (NP (NNS snippets)))) (VP (VBP are) (ADJP (JJ executable)))))) (. .))
+(S (NP (DT The) (NN executability)) (VP (VBZ has) (RB not) (VP (VBN changed) (ADVP (RB significantly)) (PP (IN over) (NP (NN time))))) (. .))

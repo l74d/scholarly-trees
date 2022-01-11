@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (NP (PRP$ our) (NNS techniques)) (ADVP (RB experimentally))) (CC and) (VP (VB discuss) (NP (PRP$ our) (NN prototype)) (PP (IN with) (NP (NP (DT a) (JJ graphical) (NN user) (NN interface)) (SBAR (WHNP (WDT that)) (S (VP (VBZ facilitates) (NP (DT this) (JJ interactive) (NN exploration))))))))) (. .))
+(S (NP (DT A) (NN user) (NN study)) (VP (VBZ is) (VP (VBN conducted) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN usability)) (PP (IN of) (NP (PRP$ our) (NN approach))))))))) (. .))

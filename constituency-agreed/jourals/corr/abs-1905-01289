@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (ADJP (RBR more) (JJ complex)) (NNS models))) (, ,) (S (NP (DT the) (NN input) (CC and) (NN output)) (VP (VBP are) (VP (VBN structured)))) (CC and) (S (NP (PRP$ their) (NNS embeddings)) (VP (VBP are) (NP (JJR higher) (NN order) (NNS tensors)))) (. .))

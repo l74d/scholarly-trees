@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP discuss) (NP (NP (DT the) (NN complexity)) (PP (IN of) (S (VP (VBG checking) (NP (NP (NNS properties) (CC and) (NNS specifications)) (VP (VBN written) (PP (IN in) (NP (PRP$ our) (NN logic)))))))))) (CC and) (VP (VB propose) (NP (NP (DT a) (NN technique)) (PP (IN for) (NP (NN verification)))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (CD two) (NN license) (NNS languages)) (S (VP (TO to) (VP (VB illustrate) (NP (DT this) (NN flexibility)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN assumed) (SBAR (IN that) (S (NP (DT the) (NN transmitter)) (VP (VP (VBZ knows) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (DT the) (JJ main) (NN channel)))) (ADVP (RB non-causally))) (CC and) (VP (VBZ uses) (NP (DT this) (NN knowledge)) (S (VP (TO to) (VP (VB encode) (NP (PRP$ its) (NN message))))))))))) (. .))
+(S (NP (NP (DT The) (NN state)) (PP (IN of) (NP (DT the) (NN wiretap) (NN channel)))) (VP (VBZ is) (RB not) (VP (VBN known) (ADVP (RB anywhere)))) (. .))

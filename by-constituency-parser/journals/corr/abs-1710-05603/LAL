@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN decision) (NN feedback) (NN detection) (NN strategy)) (VP (VBG exploiting) (NP (NP (DT a) (NN causality) (NN property)) (PP (IN of) (NP (DT the) (JJ nonlinear) (NNP Fourier) (NN transform)))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (DT The) (JJ novel) (NN strategy)) (VP (VBZ achieves) (NP (NP (DT a) (JJ considerable) (NN performance) (NN improvement)) (PP (VBN compared) (PP (TO to) (NP (ADJP (RB previously) (VBN adopted)) (NNS strategies))))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNP Q-factor)))))) (. .))

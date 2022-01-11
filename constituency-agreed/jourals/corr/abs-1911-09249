@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN voting) (NN algorithm)) (VP (VBD was) (VP (VBN used) (S (VP (TO to) (VP (VB combine) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (NNS U-Nets)))) (S (VP (TO to) (VP (VB create) (NP (JJ final) (NN segmentation)))))))))) (. .))

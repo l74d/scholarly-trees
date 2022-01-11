@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN example)) (VP (VBG using) (NP (VBN measured) (NNS data)))) (VP (VBZ seems) (S (VP (TO to) (VP (VB reinforce) (NP (JJ such) (NN claim)))))) (. .))
+(S (NP (NP (DT Some) (JJ informal) (NN discussion)) (PP (IN about) (NP (NN stability) (CC and) (NN convergence) (NNS properties)))) (VP (VBZ is) (VP (VBN presented) (CC and) (VBN explored) (PP (IN in) (NP (DT the) (NNS examples))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (PRP we)) (VP (VBP parameterize) (PP (IN by) (NP (DT the) (NN budget)))))) (, ,) (ADVP (RB then)) (NP (DT the) (NNS results)) (VP (VBP depend) (PP (IN on) (NP (DT the) (NN price) (NN function) (NN class)))) (. .))

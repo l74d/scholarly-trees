@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP estimate) (NP (DT the) (NN fault) (NN mode) (NN vector)) (PP (IN by) (S (VP (VBG analyzing) (NP (NP (NP (DT the) (JJ temporal) (NN correlation)) (PP (IN across) (NP (DT the) (NNP GPS) (NN measurement) (NNS residuals)))) (CC and) (NP (NP (JJ spatial) (NN correlation)) (PP (IN across) (NP (DT the) (NN vision) (NN intensity) (NNS residuals))))))))) (. .))

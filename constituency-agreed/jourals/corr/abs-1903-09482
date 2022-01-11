@@ -1,0 +1,2 @@
+(S (S (VP (VBG Observing) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (DT these) (NNS attacks)))))) (VP (VBZ is) (ADJP (JJ helpful) (PP (IN in) (S (VP (VBG detecting) (NP (PRP them))))))) (. .))
+(S (NP (PRP$ Our) (JJ formal) (NN approach)) (VP (VBZ elucidates) (NP (NP (DT the) (NNS relationships)) (PP (IN among) (NP (NP (NN incompleteness) (, ,) (NN incorrectness) (, ,) (NN safety) (, ,) (CC and) (NN inconsistency)) (PP (IN of) (NP (NN process) (NNS models))))))) (. .))

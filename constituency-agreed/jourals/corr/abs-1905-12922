@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (NN software) (NN quality)) (VP (MD can) (VP (VB be) (VP (VBN improved) (ADVP (RB very) (RB easily))))) (. .))
+(S (NP (PRP We)) (VP (VBD discussed) (NP (NP (DT the) (JJ different) (NN software) (NNS metrics)) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS metrics)) (VP (VBP have) (NP (NP (DT an) (NN impact)) (PP (IN on) (NP (NN software) (NN quality) (CC and) (NN reliability))))))))) (. .))

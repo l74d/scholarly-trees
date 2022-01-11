@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ multi-stage) (NN refinement) (NN component)) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG decreasing) (NP (NP (DT the) (JJ incorrect) (NNS predictions)) (PP (IN in) (NP (DT the) (NN activity) (NN map))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT an) (NN aggregation) (NN component)) (VP (VBZ uses) (NP (DT the) (JJ refined) (NN information)) (S (VP (TO to) (VP (VB recognize) (NP (NN group) (NNS activities)))))) (. .))

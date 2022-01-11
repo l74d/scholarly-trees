@@ -1,0 +1,1 @@
+(S (SBAR (IN After) (S (NP (DT the) (NN sentence) (NNS representations)) (VP (VBD were) (VP (VBN learned))))) (, ,) (NP (PRP we)) (VP (VBD used) (NP (PRP them)) (S (VP (TO to) (VP (VB train) (NP (NP (DT an) (NN autoencoder)) (VP (VBN aimed) (PP (IN at) (NP (NNP OOD) (NN sentence) (NN detection))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (PRP we)) (VP (VP (VBP exhibit) (NP (DT a) (JJ new) (JJ finite) (NN difference) (NN operator))) (CC and) (VP (VB prove) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (JJ spectral) (NN accuracy))))))) (. .))
+(S (NP (NP (PRP$ Its) (NN rate)) (PP (IN of) (NP (NN convergence)))) (VP (VP (VBZ is) (RB not) (VP (VBN fixed))) (CC and) (VP (VBZ improves) (PP (IN with) (NP (NP (DT the) (NN function) (POS 's)) (NN regularity))))) (. .))

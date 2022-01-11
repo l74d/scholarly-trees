@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN feature) (NN selection) (NN algorithm)) (, ,) (NP (NNP Boruta)) (, ,)) (VP (VBD was) (VP (VBN run) (PP (IN on) (NP (DT this) (NN dataset))) (S (VP (TO to) (VP (VB extract) (NP (NP (DT the) (ADJP (JJ important) (CC and) (JJ influential)) (NNS features)) (PP (IN for) (NP (NN classification))))))))) (. .))

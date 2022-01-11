@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (PP (IN by) (S (VP (VBG following) (NP (DT a) (JJ classical) (NN method))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (JJ local) (NNS features)) (S (VP (TO to) (VP (VB provide) (NP (JJ initial) (NNS labels)) (PP (IN for) (NP (DT all) (NNS super-pixels))))))) (. .))

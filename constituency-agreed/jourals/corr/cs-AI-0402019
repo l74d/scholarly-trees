@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (ADVP (RB basically)) (VP (VBZ contains) (NP (NP (DT a) (JJ verbal) (NN description)) (PP (IN of) (NP (DT an) (NN expert) (NN system))))) (. .))
+(S (NP (PRP It)) (VP (VBZ allows) (NP (NP (DT the) (NN calculation)) (PP (IN of) (NP (NP (DT the) (VBN estimated) (JJ fair) (NN rent)) (PP (IN for) (NP (DT a) (JJ flat))))))) (. .))
+(S (PP (IN By) (NP (NN hand))) (, ,) (NP (CD one)) (VP (MD may) (VP (VB need) (NP (DT a) (NN weekend)) (S (VP (TO to) (VP (VB do) (ADVP (RB so))))))) (. .))

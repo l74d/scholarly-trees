@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (NN network) (NN usage)) (PP (IN without) (S (VP (VBG jeopardizing) (NP (NN network) (NN operation))))))))) (. .))

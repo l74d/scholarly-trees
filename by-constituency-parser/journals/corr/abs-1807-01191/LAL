@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (JJ k-median) (CC and) (JJ k-center) (NNS problems)) (PP (IN in) (NP (JJ probabilistic) (NN graphs)))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP analyze) (NP (NP (DT the) (NN hardness)) (PP (IN of) (NP (DT these) (NNS problems))))) (, ,) (CC and) (VP (JJ propose) (NP (NP (JJ several) (NN algorithms)) (PP (IN with) (NP (NP (JJ improved) (NN approximation) (NNS ratios)) (PP (VBN compared) (PP (IN with) (NP (DT the) (VBG existing) (NNS proposals))))))))) (. .))

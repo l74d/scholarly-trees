@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN architecture)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (CD three) (NN tumor) (NNS sub-components)) (ADVP (RB separately))))))) (. .))
+(S (PP (IN At) (NP (DT the) (NN end))) (, ,) (NP (CD three) (NN segmentation) (NNS results)) (VP (VBD were) (VP (VBN merged) (S (VP (TO to) (VP (VB get) (NP (DT the) (JJ entire) (NN tumor) (NN segmentation))))))) (. .))

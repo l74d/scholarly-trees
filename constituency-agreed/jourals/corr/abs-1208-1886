@@ -1,0 +1,2 @@
+(S (S (VP (VBG Scaling) (PRT (RP up)) (NP (JJ such) (NNS systems)))) (VP (VBZ is) (ADJP (JJ difficult))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN tested) (NP (DT this) (NN prototype)) (PP (IN by) (S (VP (VBG asking) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (JJ typical) (NNS users)))) (S (VP (VP (TO to) (VP (VB use) (NP (PRP it)))) (CC and) (VP (TO to) (VP (VB provide) (NP (JJ structured) (NN feedback))))))))))) (. .))

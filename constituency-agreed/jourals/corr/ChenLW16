@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN likelihood) (NN criterion)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB optimize) (NP (NP (DT the) (NNS hyperparameters)) (PP (IN of) (NP (DT the) (NN model))))))))) (. .))

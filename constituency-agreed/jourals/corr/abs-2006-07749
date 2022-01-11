@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ common)) (JJ statistical) (NNS goals)))) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB estimate) (NP (DT a) (NN population) (NN parameter))) (CC and) (VP (VB quantify) (NP (NN uncertainty)) (PP (IN by) (S (VP (VBG constructing) (NP (DT a) (NN confidence) (NN interval)))))))))) (. .))
+(S (NP (DT The) (JJ second) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ parametric) (NN bootstrap))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Models)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VP (VB infer) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ unseen) (NNS applications))))) (CC and) (VP (VB approximate) (NP (PRP$ their) (NN performance)) (SBAR (WHADVP (WRB when)) (S (NP (DT an) (JJ arbitrary) (NN dataset)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NN input)))))))))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN validated) (PP (IN by) (S (VP (VBG running) (NP (JJ empirical) (NNS experiments)) (PP (IN in) (NP (CD two) (NNS setups)))))))) (. .))

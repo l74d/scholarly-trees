@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (NP (DT the) (NN objective)) (PP (IN of) (S (VP (VBG maximizing) (NP (NP (DT the) (JJ mean) (NN measurement)) (PP (IN of) (NP (NN video) (NN quality))))))))) (, ,) (NP (DT an) (NN optimization) (NN problem)) (VP (VBZ is) (VP (VBN formulated))) (. .))
+(S (NP (JJ Extensive) (NNS simulations)) (VP (VBP are) (VP (VBN conducted) (PP (IN with) (NP (JJ different) (NN system) (NNS configurations))) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN scheme))))))))) (. .))

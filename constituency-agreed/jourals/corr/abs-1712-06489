@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NNP MFRL) (NN framework))) (, ,) (NP (DT an) (NN agent)) (VP (VBZ uses) (NP (NP (JJ multiple) (NNS simulators)) (PP (IN of) (NP (DT the) (JJ real) (NN environment)))) (S (VP (TO to) (VP (VB perform) (NP (NNS actions)))))) (. .))

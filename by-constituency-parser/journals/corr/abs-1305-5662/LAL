@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN report))) (NP (NP (DT an) (NN entropy) (NN bound)) (PP (IN on) (NP (DT the) (NN memory) (NN size)))) (VP (VBZ is) (VP (VBN given) (PP (IN for) (NP (NP (DT a) (NN compression) (NN method)) (PP (IN of) (NP (JJ leaf-labeled) (NNS trees))))))) (. .))
+(S (NP (DT The) (NN compression)) (VP (VBZ converts) (NP (DT the) (NN tree)) (PP (IN into) (NP (NP (DT a) (NNP Directed) (NNP Acyclic) (NNP Graph)) (PRN (-LRB- -LRB-) (NP (NNP DAG)) (-RRB- -RRB-)))) (PP (IN by) (S (VP (VBG merging) (NP (JJ isomorphic) (NNS subtrees)))))) (. .))

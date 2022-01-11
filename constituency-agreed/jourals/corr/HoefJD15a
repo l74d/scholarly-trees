@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (ADVP (RB first)) (VP (VBZ determines) (NP (NP (DT the) (JJS shortest) (NN path)) (PP (IN for) (NP (DT each) (NN truck))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (JJ possible) (NN platoon) (NNS configurations)) (VP (VBP are) (VP (VBN identified))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (NP (DT a) (JJ realistic) (NN example))))) (. .))

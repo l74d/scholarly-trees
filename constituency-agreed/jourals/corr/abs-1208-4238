@@ -1,0 +1,1 @@
+(S (NP (NNP Masai)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NNP C++))) (S (VP (VBG using) (NP (DT the) (NNP SeqAn) (NN library)))))) (. .))

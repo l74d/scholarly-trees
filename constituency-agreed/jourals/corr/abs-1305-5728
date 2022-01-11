@@ -1,0 +1,3 @@
+(S (NP (NN Radar) (NNS images)) (VP (VBP have) (ADVP (RB long)) (VP (VBN been) (VP (VBN used) (PP (IN in) (NP (JJ geological) (NNS studies))) (S (VP (TO to) (VP (VB map) (NP (NP (JJ structural) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN revealed) (PP (IN by) (NP (NP (DT the) (NN shape)) (PP (IN of) (NP (DT the) (NN landscape)))))))))))))))) (. .))
+(S (NP (NN Image) (NN processing)) (VP (VBZ is) (VP (VBG using) (PP (IN for) (S (VP (VBG detecting) (PP (IN for) (NP (NP (NNS objects)) (PP (IN in) (NP (NN radar) (NNS images)))))))))) (. .))
+(S (NP (JJ Many) (JJ classical) (NN edge) (NNS detectors)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN over) (NP (NN time)))))) (. .))

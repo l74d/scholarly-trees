@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ phylogenetic) (NN tree) (NN space)) (, ,) (VP (VBN introduced) (PP (IN by) (NP (NNP Billera) (, ,) (NNP Holmes) (, ,) (CC and) (NNP Vogtmann)))) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NN cone)) (PP (IN over) (NP (DT a) (JJ simplicial) (NN complex))))) (. .))
+(S (NP (PRP$ Its) (NN homotopy)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN reinterpreted) (CC and) (VBN calculated) (PP (VBN based) (PP (IN on) (NP (NN polytope) (NNS data)))))) (. .))

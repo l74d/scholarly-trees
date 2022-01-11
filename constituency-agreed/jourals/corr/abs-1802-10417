@@ -1,0 +1,3 @@
+(S (NP (JJ Continuous) (NN authentication)) (VP (MD can) (VP (VB address) (NP (DT this) (NN issue)))) (. .))
+(S (NP (DT The) (JJ computational) (NN overhead)) (VP (VBZ is) (ADJP (JJ minimal))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBD tested) (NP (NNP WACA)) (PP (IN against) (NP (JJ different) (NN attack) (NNS scenarios)))) (. .))

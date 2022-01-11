@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ such) (NNS scenarios))) (, ,) (NP (DT a) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN trained) (S (VP (TO to) (VP (VB generate) (NP (JJ clean) (NNS documents)) (PP (IN from) (NP (JJ noisy) (NNS versions))))))))) (. .))

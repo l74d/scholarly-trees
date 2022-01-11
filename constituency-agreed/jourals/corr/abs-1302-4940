@@ -1,0 +1,5 @@
+(S (NP (EX There)) (VP (MD will) (VP (VB be) (NP (NP (CD two) (JJ basic) (NNS ideas)) (PP (IN for) (NP (NN independence)))))) (. .))
+(S (NP (DT The) (JJ first)) (VP (VBZ is) (NP (NN irrelevance))) (. .))
+(S (NP (CD Two) (NNS variables)) (VP (VBP are) (ADJP (JJ independent)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN change)) (PP (IN on) (NP (NP (DT the) (NN knowledge)) (PP (IN about) (NP (CD one) (NN variable)))))) (VP (VBZ does) (RB not) (VP (VB affect) (NP (DT the) (JJ other))))))) (. .))
+(S (NP (DT The) (JJ second) (NN one)) (VP (VBZ is) (NP (NN factorization))) (. .))
+(S (NP (CD Two) (NNS variables)) (VP (VBP are) (ADJP (JJ independent)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ joint) (NN convex) (NN set)) (PP (IN of) (NP (NNS probabilities)))) (VP (MD can) (VP (VB be) (VP (VBN decomposed) (PP (IN on) (NP (NP (DT the) (NN product)) (PP (IN of) (NP (JJ marginal) (NN convex) (NNS sets))))))))))) (. .))

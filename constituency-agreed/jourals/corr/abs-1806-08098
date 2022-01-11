@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ our) (NN result)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG assessing) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (DT a) (NNP Kalman) (NN filter)))) (PP (IN in) (NP (DT this) (JJ multi-sensor) (NN setting))))))))))) (. .))

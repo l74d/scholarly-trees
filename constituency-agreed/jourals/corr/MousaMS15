@@ -1,0 +1,1 @@
+(S (NP (NNS Networks)) (VP (VBP are) (VP (VBN trained) (S (VP (TO to) (VP (VB predict) (NP (NP (JJ clean) (NN speech)) (CONJP (RB as) (RB well) (IN as)) (NP (NN noise) (NNS features))) (PP (IN from) (NP (JJ noisy) (NN speech) (NNS features)))))))) (. .))

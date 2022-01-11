@@ -1,0 +1,1 @@
+(S (S (NP (NN Tomography) (NNS problems)) (VP (VBP exhibit) (NP (NN semi-convergence)) (SBAR (WHADVP (WRB when)) (S (NP (JJ iterative) (NNS methods)) (VP (VBP are) (VP (VBN employed))))))) (, ,) (CC and) (S (NP (DT the) (NN aim)) (VP (VBZ is) (ADVP (RB therefore)) (S (VP (TO to) (VP (VB stop) (PP (IN near) (NP (DT the) (NN semi-convergence) (NN point)))))))) (. .))

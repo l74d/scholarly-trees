@@ -1,0 +1,2 @@
+(S (ADVP (RB Alternatively)) (, ,) (NP (JJ sparse) (NN representation)) (VP (VBZ denotes) (NP (DT a) (NN data) (NN point)) (PP (IN as) (NP (NP (DT a) (JJ linear) (NN combination)) (PP (IN of) (NP (NP (DT the) (NNS points)) (PP (IN from) (NP (DT the) (JJ same) (NN subspace)))))))) (. .))
+(S (S (NP (NP (DT The) (JJ objective) (NN function)) (PP (IN of) (NP (NNP LCCR)))) (VP (VBZ has) (NP (DT an) (JJ analytical) (NN solution)))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB involve) (NP (JJ local) (NN minima))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN work)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB extract) (NP (DT a) (NN video) (NN clip))) (CC and) (VP (VB solve) (NP (NP (DT this) (NN frame)) (PP (IN of) (NP (NNS clips)))) (ADVP (RB efficiently))))))) (. .))
+(NP (NP (DT The) (NN optimization) (NN method)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (NN detection) (NN jitter) (NN problem)))))) (. .))

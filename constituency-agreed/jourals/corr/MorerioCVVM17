@@ -1,0 +1,2 @@
+(S (NP (NN Dropout)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB very) (JJ effective)) (NN way)) (PP (IN of) (S (VP (VBG regularizing) (NP (JJ neural) (NNS networks))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG using) (NP (DT a) (VBN fixed) (NN dropout) (NN probability)) (PP (IN during) (NP (NN training))))) (VP (VBZ is) (NP (DT a) (JJ suboptimal) (NN choice)))))) (. .))

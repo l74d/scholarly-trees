@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ operates) (ADVP (RB entirely)) (PP (IN over) (NP (DT the) (JJ real) (NNS numbers)))) (CC and) (VP (VBZ tracks) (NP (NP (DT the) (JJ optimal) (NN number)) (PP (IN of) (NP (NN solution) (NNS paths)))))) (. .))
+(S (NP (NP (DT A) (JJ preliminary) (NN implementation)) (PP (IN of) (NP (NP (DT an) (NN example)) (PP (IN from) (NP (DT the) (NN literature)))))) (VP (VBZ suggests) (NP (NP (JJ practical) (NN performance)) (PP (IN of) (NP (DT the) (NN algorithm))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (JJ variational) (NNS autoencoders)) (PP (IN with) (NP (JJ autoregressive) (NNS decoders)))) (ADVP (RB often)) (VP (VBP collapse) (PP (IN into) (NP (NP (NNS autodecoders)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB ignore) (NP (DT the) (NN encoder) (NN input))))))))))) (. .))

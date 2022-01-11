@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (CD two) (JJ original) (NNS methods)) (PP (IN for) (S (VP (VBG recognizing) (NP (JJ textual) (NN inference)))))) (. .))
+(S (ADVP (RB First)) (NP (CD one)) (VP (VBZ is) (NP (DT a) (VBN modified) (NN resolution) (NN method)) (SBAR (JJ such) (IN that) (S (NP (DT some) (JJ linguistic) (NNS considerations)) (VP (VBP are) (VP (VBN introduced) (PP (IN in) (NP (NP (DT the) (NN unification)) (PP (IN of) (NP (CD two) (NNS atoms)))))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (ADJP (JJ possible) (PP (IN due) (PP (IN to) (NP (NP (DT the) (JJ recent) (NNS methods)) (PP (IN of) (NP (NP (VBG transforming) (NNS texts)) (PP (IN in) (NP (NN logic) (NNS formulas)))))))))) (. .))
+(S (NP (JJ Second) (NN one)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ semantic) (NNS relations)) (PP (IN in) (NP (NN text))))) (, ,) (SBAR (IN as) (S (VP (VBN presented) (PP (IN in) (NP (NNP WordNet)))))))) (. .))
+(S (NP (NP (DT Some) (NNS similarities)) (PP (IN between) (NP (DT these) (CD two) (NNS methods)))) (VP (VBP are) (VP (VBN remarked))) (. .))

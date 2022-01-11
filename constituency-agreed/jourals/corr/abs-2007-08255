@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN benchmark)) (VP (VBZ includes) (NP (NP (NP (CD 80) (NNS cases)) (PP (IN with) (NP (NP (NN fault) (NNS trees)) (PP (IN of) (NP (JJ different) (NN size) (CC and) (NN composition)))))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (JJ optimal) (NN cost) (CC and) (NN solution)) (PP (IN for) (NP (DT each) (NN case)))))) (. .))

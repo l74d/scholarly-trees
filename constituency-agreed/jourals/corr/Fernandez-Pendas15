@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT a) (NN simulation) (NN problem)) (CC and) (NP (DT a) (NN step) (NN size)))) (, ,) (NP (DT the) (NN method)) (ADVP (RB automatically)) (VP (VBZ chooses) (NP (DT the) (JJ optimal) (NN scheme)) (PP (IN out) (PP (IN of) (NP (NP (DT an) (JJ available) (NN family)) (PP (IN of) (NP (JJ numerical) (NNS integrators))))))) (. .))

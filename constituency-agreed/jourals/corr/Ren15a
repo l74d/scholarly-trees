@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN assumption)) (VP (VBZ is) (VP (VBN enforced) (PP (IN in) (NP (DT this) (NN paper))) (PP (IN by) (S (VP (VBG investigating) (NP (NP (DT the) (NNS coefficients)) (PP (IN of) (NP (JJ corrupted) (NNS samples))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (NP (DT the) (NN representation) (NN quality)) (PP (IN of) (NP (JJ clean) (NNS data)))) (VP (MD can) (VP (VB be) (VP (VBN assured) (PP (IN without) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (VBN corrupted) (NNS data)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN practice))) (, ,) (PP (IN on) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NNS physicians)) (VP (VBP have) (S (VP (TO to) (VP (VB consider) (NP (NP (DT a) (JJR broader) (NN range)) (PP (IN of) (NP (NNS diagnoses)))))))) (. .))
+(S (PP (IN Among) (NP (DT this) (NN pool))) (, ,) (NP (DT the) (ADJP (RBS most) (JJ successful)) (NN classifier)) (VP (VBD was) (NP (DT a) (NNP Multi-Layer) (NNP Perceptron))) (. .))

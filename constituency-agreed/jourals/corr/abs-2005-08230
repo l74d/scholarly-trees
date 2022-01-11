@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP identify) (NP (NP (CD two) (JJ key) (NNS issues)) (SBAR (WHNP (WDT that)) (S (VP (VBP limit) (NP (JJ such) (NN generalization))))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ standard) (NN loss)) (VP (VBN used) (PP (IN in) (NP (DT this) (NN task))))) (VP (VBZ is) (ADVP (RB unintentionally)) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (NN scene) (NN graph) (NN density)))))))) (. .))

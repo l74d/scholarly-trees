@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN data)) (VP (VBZ consists) (PP (IN of) (NP (NP (QP (RB approximately) (CD 20,000)) (NN gene) (NN expression) (NNS values)) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (CD 104) (NNS patients)))))))) (. .))
+(S (NP (DT The) (NN machine) (NN learning)) (VP (VBD was) (VP (VBN performed) (PP (IN by) (NP (DT a) (NNP Quantum) (NNP Boltzmann) (NNP Machine))))) (. .))

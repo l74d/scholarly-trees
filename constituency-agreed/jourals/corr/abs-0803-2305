@@ -1,0 +1,1 @@
+(S (NP (CD One) (NN level)) (VP (VBZ is) (VP (VBN defined) (PP (IN by) (NP (NP (DT a) (NN specification) (NN logic)) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ supports) (NP (NP (DT a) (JJ transparent) (NN encoding)) (PP (IN of) (NP (JJ structural) (NNS semantics) (NNS rules))))) (CC and) (ADVP (RB also)) (VP (VBZ enables) (NP (PRP$ their) (NN execution)))))))))) (. .))

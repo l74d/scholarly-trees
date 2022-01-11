@@ -1,0 +1,2 @@
+(S (NP (NN Image) (NN information) (NN content)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (NP (DT a) (ADJP (JJ complicated) (CC and) (JJ controvercial)) (NN problem))))))) (. .))
+(S (NP (PRP$ Its) (NN algorithm)) (VP (VBZ is) (VP (VBN presented) (CC and) (VBN elucidated) (PP (IN with) (NP (NP (DT some) (NNS examples)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))))))))) (. .))

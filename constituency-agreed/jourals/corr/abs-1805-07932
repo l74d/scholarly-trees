@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ computational) (NN cost) (S (VP (TO to) (VP (VB learn) (NP (NN attention) (NNS distributions)) (PP (IN for) (NP (NP (DT every) (NN pair)) (PP (IN of) (NP (JJ multimodal) (NN input) (NNS channels))))))))) (VP (VBZ is) (ADJP (RB prohibitively) (JJ expensive))) (. .))

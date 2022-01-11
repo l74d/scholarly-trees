@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ geodesic) (NNS equations)) (VP (VBP are) (VP (VBN formulated) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (JJ differential) (NN geometry))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (SBAR (IN that) (S (NP (NP (DT a) (ADJP (JJ complete) (, ,) (JJ stable) (, ,) (JJ precise) (, ,) (JJ accurate) (CC and) (JJ fast)) (NN solution)) (PP (IN of) (NP (NP (DT the) (NN problem)) (PP (IN in) (NP (JJ Cartesian) (NNS coordinates)))))) (VP (VBZ is) (VP (VBN accomplished)))))) (. .))

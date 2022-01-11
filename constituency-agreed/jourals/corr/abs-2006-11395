@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (DT some) (JJ practical) (NNS situations))) (, ,) (NP (NP (DT each) (NN identity)) (PP (IN in) (NP (DT the) (NN training) (NN set)))) (VP (VBZ has) (NP (RB only) (DT a) (JJ single) (NN sample))) (. .))
+(S (PP (IN In) (NP (JJ virtual) (NN sample) (NNS methods))) (, ,) (NP (NP (JJ virtual) (NN face) (NNS images)) (CC or) (NP (JJ virtual) (NN face) (NNS features))) (VP (VBP are) (VP (VBN generated) (S (VP (TO to) (VP (VB benefit) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (DT the) (JJ deep) (NN model))))))))) (. .))

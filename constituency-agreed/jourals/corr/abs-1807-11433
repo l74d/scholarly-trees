@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP CNN) (NN network)) (VP (VBZ improves) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN generator) (NN network)))) (PP (IN without) (S (VP (VBG increasing) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (NN model)))))))) (. .))

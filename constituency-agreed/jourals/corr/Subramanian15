@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN dissertation)) (VP (VBZ seeks) (S (VP (TO to) (VP (VB achieve) (NP (ADJP (JJ high) (CC and) (JJ controllable)) (NN performance)) (PP (IN in) (NP (NN multicore) (NNS systems))) (PP (IN by) (S (VP (VBG mitigating) (CC and) (VBG quantifying) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (VBN shared) (NN resource) (NN interference))))))))))) (. .))

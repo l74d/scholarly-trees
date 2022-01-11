@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN dependency)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ non-separable)))) (: ;) (S (NP (NP (DT the) (NN capacity)) (PP (IN in) (NP (CD one) (NN link)))) (VP (MD can) (VP (VB depend) (PP (IN on) (NP (NP (NNS flows)) (PP (IN from) (NP (JJ multiple) (NNS links)))))))) (. .))

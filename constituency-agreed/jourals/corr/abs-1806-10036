@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (VBN proposed) (NN slave) (NN timing) (NN module)) (VP (VBZ is) (VP (VBN tested)))) (CC and) (S (NP (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN synchronization) (NN accuracy)) (PP (IN between) (NP (NN slave) (NNS nodes)))) (VP (VBZ is) (PP (IN in) (NP (JJ sub-microsecond) (NN range)))))))) (. .))

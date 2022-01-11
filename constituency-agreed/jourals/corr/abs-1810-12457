@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NNP DCDA) (NN algorithm))) (, ,) (PP (IN on) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NP (NN communication)) (PP (IN of) (NP (NP (DT each) (NN coordinate)) (PP (IN of) (NP (DT the) (NN optimization) (NN variable)))))) (VP (VBZ is) (VP (VBN restricted) (PP (IN over) (NP (NN time))))) (. .))
+(S (NP (JJ Relevant) (JJ numerical) (NNS simulations)) (VP (VBP are) (ADVP (RB also)) (VP (VBN provided))) (. .))

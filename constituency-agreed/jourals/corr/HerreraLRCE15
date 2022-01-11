@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP assume) (NP (NP (DT no) (JJ prior) (NN knowledge)) (PP (IN of) (NP (DT the) (NN wavelet))))) (, ,) (CC and) (VP (VBP do) (RB not) (VP (VB select) (NP (DT a) (NN reflector)) (PP (IN from) (NP (DT the) (NN signal)))))) (. .))
+(S (NP (DT These) (NNS steps)) (VP (VBP increase) (NP (NP (DT the) (NN time) (NN resolution)) (PP (IN of) (NP (NN diffraction) (NNS techniques))))) (. .))

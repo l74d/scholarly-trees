@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (JJ multi-scale) (NN input) (NNS features)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG exploiting) (NP (JJR more) (NN context)) (PP (IN at) (NP (JJ negligible) (JJ computational) (NN cost))))))))) (. .))

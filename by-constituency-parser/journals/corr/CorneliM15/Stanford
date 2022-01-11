@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VP (VBP define)) (CC and) (VP (VB explore) (PP (IN in) (NP (NN simulation) (JJ several) (NNS rules))) (PP (IN for) (NP (NP (DT the) (JJ local) (NN evolution)) (PP (IN of) (NP (NP (JJ generative) (NNS rules)) (PP (IN for) (NP (NML (NN 1D) (CC and) (NN 2D)) (JJ cellular) (NN automata))))))))) (. .))
+(S (NP (PRP$ Our) (NN implementation)) (VP (VBZ uses) (NP (NNS strategies)) (PP (IN from) (NP (JJ conceptual) (NN blending)))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (JJ potential) (NNS applications)) (PP (IN to) (S (VP (VBG modelling) (NP (JJ social) (NNS dynamics)))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (PDT All) (DT these) (NNS messages)) (VP (VBP are) (VP (VBN intended) (PP (IN for) (NP (DT the) (JJ legitimate) (NN receiver)))))) (CC but) (S (NP (RB only) (DT the) (JJ confidential) (NNS messages)) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN protected) (PP (IN from) (NP (DT the) (NN eavesdropper))))))))) (. .))

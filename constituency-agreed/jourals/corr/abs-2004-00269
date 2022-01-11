@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT these) (NNS transformations)))) (NP (PRP we)) (VP (VP (VBD obtained) (NP (JJ different) (NNS trajectories))) (CC and) (VP (VBD provided) (NP (PRP$ their) (NN analysis)))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBD used) (NP (NNP Octomap) (NN representation)) (S (VP (TO to) (VP (VB build) (NP (DT a) (NN map)))))) (. .))

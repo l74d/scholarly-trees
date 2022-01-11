@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ differs) (PP (IN from) (NP (NP (DT the) (JJ maximum) (NN weight) (VBG matching) (NN problem)) (, ,) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (JJ scalable) (NN approximation) (NNS algorithms)) (VP (VBP are) (VP (VBN known)))))))) (. .))

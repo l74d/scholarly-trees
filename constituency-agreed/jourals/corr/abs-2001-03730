@@ -1,0 +1,2 @@
+(S (NP (DT This)) (, ,) (PP (IN in) (NP (NN turn))) (, ,) (VP (VBZ imposes) (NP (DT a) (JJ huge) (NN replacement) (NN cost))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (NP (DT the) (NN system) (POS 's)) (NN future)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ multi-period) (NNS scenarios))))))) (. .))

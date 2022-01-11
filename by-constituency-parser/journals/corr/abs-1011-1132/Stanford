@@ -1,0 +1,5 @@
+(S (NP (NP (JJ Public) (NN access)) (PP (IN to) (NP (JJ digital) (NNS data)))) (VP (MD can) (VP (VB turn) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN cause)) (PP (IN of) (NP (JJ undesirable) (NN information) (NN disclosure))))))))) (. .))
+(S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ vital) (PP (IN to) (S (ADVP (RB somehow)) (VP (VB protect) (NP (DT the) (NNS data)) (PP (IN before) (NP (NN publishing))))))))))) (. .))
+(S (NP (EX There)) (VP (VBP exist) (NP (NP (CD two) (JJ main) (NNS subclasses)) (PP (IN of) (NP (PDT such) (DT a) (NN task)))) (, ,) (ADVP (RB namely)) (, ,) (S (VP (VBG providing) (NP (NP (JJ individual)) (CC and) (NP (NN group) (NN anonymity)))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ novel) (NN method)) (PP (IN of) (S (VP (VBG protecting) (NP (NML (NN group) (NNS data)) (NNS patterns))))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (DT a) (JJ comprehensive) (JJ illustrative) (NN example))) (. .))

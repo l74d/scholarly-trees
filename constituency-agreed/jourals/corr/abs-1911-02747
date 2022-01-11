@@ -1,0 +1,2 @@
+(S (ADVP (RB Naturally)) (, ,) (NP (DT these) (NNS questions)) (VP (MD can) (VP (VB form) (NP (DT a) (NN bag)))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (CD two) (NNS datasets)))) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN model))))) (. .))

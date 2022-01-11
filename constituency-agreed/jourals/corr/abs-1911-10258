@@ -1,0 +1,1 @@
+(S (NP (JJ Spectral) (NN norm) (NN regularization)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN generalization) (CC and) (NN robustness)) (PP (IN of) (NP (JJ deep) (NNS networks)))))))))) (. .))

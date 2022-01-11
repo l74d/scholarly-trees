@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (VBN selected) (NN algorithm)) (PP (IN for) (NP (NP (NN series) (NN activation)) (PP (IN of) (NP (NP (DT each) (NN row)) (PP (IN of) (NP (NN display)))))))) (VP (VBZ allows) (S (VP (VBG using) (NP (NP (JJ minimal) (NN number)) (PP (IN of) (NP (JJ active) (NNS components)))) (S (VP (TO to) (VP (VB set) (CC and) (VB reset) (NP (DT the) (NNS solenoids)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (NN program) (NN algorithm)) (PP (IN of) (NP (NN control) (NN board)))) (VP (VBZ is) (VP (VBN discussed))) (. .))

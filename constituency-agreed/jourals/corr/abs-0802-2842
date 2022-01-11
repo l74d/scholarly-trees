@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (JJ weak) (NN recognizability)) (PP (IN of) (NP (NP (JJ deterministic) (NNS languages)) (PP (IN of) (NP (JJ infinite) (NNS trees))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ works) (PP (IN within) (NP (NP (DT the) (NN time)) (PP (IN of) (S (VP (VBG solving) (NP (DT the) (NN emptiness) (NN problem)))))))) (. .))

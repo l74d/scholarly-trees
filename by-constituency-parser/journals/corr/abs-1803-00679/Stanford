@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (JJ general) (NN perturbation) (NNS inequalities)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN perturbation)) (VP (VBZ is) (ADJP (JJ random)))))) (. .))
+(S (PP (IN As) (NP (NNS applications))) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (NP (JJ several) (JJ new) (NNS results)) (PP (VBG concerning) (NP (NP (CD two) (JJ important) (NNS problems)) (: :) (NP (NML (NN matrix) (NN sparsification) (CC and) (NN matrix)) (NN completion)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT a) (JJ multi-buffer) (NN model))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (JJ total) (NN value)) (PP (IN of) (NP (NP (DT the) (NNS packets)) (VP (VBN sent) (PP (IN by) (NP (PRP$ their) (JJ respective) (NNS deadlines))))))))))) (. .))

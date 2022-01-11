@@ -1,0 +1,2 @@
+(S (NP (CD One)) (VP (MD may) (ADVP (RB then)) (VP (VB perform) (NP (DT a) (NN decomposition)) (PP (IN in) (NP (NNP Fourier) (NN series))))) (. .))
+(S (PP (IN Besides) (NP (JJ theoretical) (NNS considerations))) (, ,) (NP (JJ numerical) (NNS experiments)) (VP (VBP are) (VP (VBN performed))) (. .))

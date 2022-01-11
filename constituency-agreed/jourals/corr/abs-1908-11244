@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP study) (NP (NP (JJ substitutive) (NNS systems)) (VP (VBN generated) (PP (IN by) (NP (JJ nonprimitive) (NNS substitutions)))))) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ transitive) (NNS subsystems)) (PP (IN of) (NP (JJ substitutive) (NNS systems)))) (VP (VBP are) (ADJP (JJ substitutive))))))) (. .))
+(S (NP (DT This)) (VP (VBZ generalises) (NP (NP (DT the) (JJ famous) (NN theorem)) (PP (IN of) (NP (NNP Cobham))))) (. .))

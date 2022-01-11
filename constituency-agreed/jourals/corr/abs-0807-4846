@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP select) (NP (DT a) (JJ constant) (NN weight) (NN code))) (. .))
+(S (NP (NP (DT The) (NN union)) (PP (IN of) (NP (DT these) (NNS codes)))) (VP (VBZ is) (NP (PRP$ our) (JJ final) (JJ constant) (NN dimension) (NN code))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB choose))))) (VP (VBZ has) (VP (VBN become) (NP (NP (DT an) (NN issue)) (SBAR (WHNP (WDT that)) (S (VP (VBZ deserves) (S (VP (TO to) (VP (VB be) (VP (VBN debated))))))))))) (. .))
+(S (SBAR (IN Although) (S (NP (DT some)) (ADVP (RB also)) (VP (VBP take) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (NN degree)) (PP (IN of) (NP (NN muscle) (NN activation))))))) (, ,) (NP (EX there)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (JJ quantitative) (NN analysis))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ exists) (NP (NP (DT a) (JJ polynomial) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB pack) (NP (JJ interval) (NN graphs)) (PP (IN with) (NP (JJ vertex-disjoint) (NNS triangles)))))))))))) (. .))

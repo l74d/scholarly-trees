@@ -1,0 +1,2 @@
+(S (NP (NN Decision) (NN making)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN based) (PP (IN on) (NP (JJ Bayesian) (NNS networks))))) (. .))
+(S (NP (NP (DT Some)) (PP (IN of) (NP (DT these) (NN knowledge) (NNS representations)))) (VP (VBP are) (NP (JJ insufficient) (NNS approximations))) (. .))

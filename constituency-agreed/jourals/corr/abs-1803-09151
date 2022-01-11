@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (JJ natural) (NN gradient) (NN method)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (ADVP (RB effectively)) (PP (IN in) (NP (NN conjugate) (JJ Gaussian) (NN process) (NNS models))))))) (, ,) (CC but) (S (NP (DT the) (JJ non-conjugate) (NN case)) (VP (VBZ has) (VP (VBN been) (ADJP (RB largely) (JJ unexplored))))) (. .))
+(S (NP (PRP$ Our) (NN code)) (VP (VBZ is) (VP (VBN integrated) (PP (IN into) (NP (DT the) (NNP GPflow) (NN package))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (DT the) (JJ nonrigid) (NN image) (NN registration) (NN problem)) (PP (IN as) (NP (NP (DT a) (NN problem)) (PP (IN of) (NP (JJ optimal) (NN control)))))) (. .))
+(S (NP (DT The) (NN control) (NN variable)) (VP (VBZ is) (NP (DT the) (NN velocity) (NN field))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (VBG Training) (NP (JJ neural) (NNS networks)))) (VP (VBZ is) (ADVP (RB traditionally)) (VP (VBN done) (PP (IN by) (S (VP (VBG providing) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NP (JJ random) (NNS mini-batches)) (VP (VBN sampled) (ADVP (RB uniformly)) (PP (IN from) (NP (DT the) (JJ entire) (NN training) (NNS data)))))))))))) (. .))

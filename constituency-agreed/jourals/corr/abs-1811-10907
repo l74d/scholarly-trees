@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN weakness))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ novel) (NN diffusion) (NN technique)) (PP (IN in) (NP (DT this) (NN paper)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB use) (NP (NP (JJ late) (NN truncation)) (PP (RB instead) (IN of) (NP (JJ early) (NN truncation)))) (PP (IN in) (NP (JJ previous) (NNS works))) (S (VP (TO to) (VP (VB achieve) (NP (JJR better) (NN retrieval) (NN performance))))))))) (. .))

@@ -1,0 +1,7 @@
+(S (NP (DT An) (NN encryption) (NN technique)) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN used) (S (VP (TO to) (VP (VB keep) (S (NP (NNS data)) (ADJP (JJ confidential)))))))) (. .))
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NN block) (JJ symmetric) (NNS algorithms)))) (VP (VBP use) (NP (NN substitution) (NNS functions))) (. .))
+(S (ADVP (RB Often)) (NP (DT this)) (VP (VBZ functions) (SBAR (S (NP (NN use)) (ADVP (RB so)) (VP (VBD called) (NP (NML (NNP S) (HYPH -) (NNP BOX)) (NN matrix)))))) (. .))
+(S (S (PP (IN In) (NP (DT this) (NN paper))) (NP (NN author)) (VP (VBZ presents) (NP (NP (CD one) (NN software) (NN tool)) (PP (IN for) (NP (NN testing)))))) (CC and) (S (VP (VBG measuring) (NP (JJ square) (NML (NN s) (HYPH -) (NNS boxes))))) (. .))
+(S (S (PP (VBN Based) (PP (IN of) (NP (NN information)))) (NP (NN theory)) (VP (VBZ functions) (PP (IN for) (S (VP (VBG testing) (NP (NN static))))))) (CC and) (S (NP (JJ dynamic) (NNS criteria)) (VP (VBP are) (VP (VBN presented)))) (. .))
+(S (NP (DT These) (NNS criteria)) (VP (VBP are) (ADVP (RB mathematically)) (VP (VBN defined) (PP (IN for) (NP (JJ square) (NN s) (HYPH -) (NNS boxes))))) (. .))
+(S (PP (NP (NP (CD Two) (JJ new) (NNS criteria)) (`` ") (NP (JJ private) (NNS criteria)) ('' ")) (NP (NP (DT a) (ADJP (VBN proposed) (CC and) (JJ pseudo)) (NNS codes)) (PP (IN for) (NP (PRP they))))) (NP (NN creation) (CC and) (NN testing)) (VP (VBP are) (VP (VBN presented))) (. .))

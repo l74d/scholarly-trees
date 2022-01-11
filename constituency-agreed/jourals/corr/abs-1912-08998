@@ -1,0 +1,2 @@
+(S (S (S (VP (VBG Discriminating) (PP (IN between) (NP (NN causality) (CC and) (NN correlation))))) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN problem)) (PP (IN in) (NP (NN machine) (NN learning)))))) (, ,) (CC and) (S (NP (NP (JJ theoretical) (NNS tools)) (PP (IN for) (S (VP (VBG determining) (NP (NN causality)))))) (VP (VBP are) (ADVP (RB still)) (VP (VBG being) (VP (VBN developed))))) (. .))
+(SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (NNS humans)) (VP (VBG doing) (S (VP (TO to) (VP (VB make) (NP (DT these) (NNS judgments))))))) (. ?))

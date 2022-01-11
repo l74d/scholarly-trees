@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN protocol)) (VP (VBZ is) (ADJP (RB asymptotically) (JJ optimal)) (PP (VBG regarding) (NP (NP (DT the) (NN injection) (NN rate)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (NN stability)) (VP (VBZ is) (VP (VBN guaranteed))))))))))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (VBZ is) (ADJP (JJ optimal)) (PP (VBG regarding) (NP (NP (DT the) (NN injection) (NN rate)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (NN stability)) (VP (VBZ is) (VP (VBN guaranteed)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ needs) (S (VP (TO to) (VP (VB use) (NP (NP (DT some) (JJ global) (NN information)) (PP (IN of) (NP (DT the) (NN system) (NN topology)))))))) (. .))

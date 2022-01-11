@@ -1,0 +1,1 @@
+(S (NP (NP (DT These) (NNS subtasks)) (, ,) (VP (VBN implemented) (PP (IN with) (NP (JJ separate) (NNS modules)))) (, ,)) (VP (VBP are) (VP (VBN trained) (ADVP (RB jointly)) (S (VP (VBG using) (NP (RB only) (DT a) (JJ single) (NN target) (NN image)) (PP (IN as) (NP (DT a) (JJ supervised) (NN label))))))) (. .))

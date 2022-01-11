@@ -1,0 +1,2 @@
+(S (NP (DT Each) (JJ recursive) (NN step)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS parts)))) (. .))
+(S (NP (NN Process)) (VP (VBZ continues) (SBAR (IN until) (S (NP (DT the) (JJ terminal) (NNS nodes)) (VP (VBP are) (VP (VBN reached)))))) (. .))

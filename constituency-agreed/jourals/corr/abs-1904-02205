@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN method)) (PP (IN on) (NP (NP (NP (NNS networks)) (PP (IN of) (NP (JJ various) (NNS architectures)))) (, ,) (VP (ADVP (RB already)) (VBN pretrained) (PP (IN on) (NP (NNP ImageNet))))))) (. .))

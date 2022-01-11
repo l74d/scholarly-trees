@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Processes)) (PP (JJ such) (IN as) (NP (NP (NN disease) (NN propagation)) (CC and) (NP (NN information) (NN diffusion))))) (ADVP (RB often)) (VP (VBD spread) (PP (IN over) (NP (NP (DT some) (JJ latent) (NN network) (NN structure)) (SBAR (WHNP (WDT which)) (S (VP (MD must) (VP (VB be) (VP (VBN learned) (PP (IN from) (NP (NN observation))))))))))) (. .))

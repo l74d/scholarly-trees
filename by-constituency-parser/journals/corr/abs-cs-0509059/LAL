@@ -1,0 +1,3 @@
+(S (NP (NNP Lal) (CC and) (NNP Chaturvedi)) (VP (VBD proposed) (NP (NP (CD two) (NN authentication) (NNS schemes)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN difficulty)) (PP (IN of) (NP (DT the) (NNP Root) (NNP Problem))) (PP (IN in) (NP (DT the) (NN braid) (NN group)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP point) (PRT (RP out)) (SBAR (IN that) (S (NP (DT the) (JJ first) (NN scheme)) (VP (VBZ is) (RB not) (ADVP (RB really)) (ADJP (ADJP (RB as) (NN secure)) (PP (IN as) (NP (DT the) (NNP Root) (NNP Problem)))))))) (, ,) (CC and) (VP (VB describe) (NP (NP (DT an) (JJ efficient) (NN way)) (SBAR (S (VP (TO to) (VP (VB crack) (NP (PRP it))))))))) (. .))
+(S (NP (DT The) (NN attack)) (VP (VBZ works) (PP (IN for) (NP (DT any) (NN group)))) (. .))

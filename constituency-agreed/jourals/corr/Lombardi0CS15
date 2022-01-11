@@ -1,0 +1,2 @@
+(S (NP (JJ Traditional) (NNS methods)) (VP (VB solve) (NP (DT this) (NN minimization) (NN problem)) (ADVP (RB approximately)) (, ,) (PP (IN for) (NP (NN instance))) (PP (IN with) (NP (JJ spectral) (NNS techniques)))) (. .))
+(S (NP (DT The) (JJ graphical) (NN structure)) (VP (VBZ is) (VP (VBN simplified) (CC and) (VBN regularized) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (S (VP (TO to) (VP (VB derive) (NP (DT an) (JJ efficient) (JJ recursive) (NN minimization) (NN algorithm)))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN loss) (NN function)) (VP (VBZ is) (ADVP (RB frequently)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN literature))))) (. .))
+(S (NP (PRP We)) (VP (VBP hope) (SBAR (IN that) (S (NP (DT the) (JJ elementary) (NN derivation)) (VP (VBZ settles) (NP (DT the) (JJ apparent) (NN confusion)))))) (. .))
+(S (PP (IN For) (NP (NN example))) (SBAR (WHADVP (WRB when)) (S (VP (VBG approximating) (NP (NNS beliefs)) (PP (IN with) (NP (JJ Gaussian) (NNS distributions)))))) (NP (DT the) (JJ optimal) (NN approximation)) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (NN moment) (NN matching))))) (. .))

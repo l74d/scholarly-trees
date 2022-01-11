@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (NP (NN evaluation)) (PP (IN of) (NP (DT these) (NNS systems)))) (VP (VBZ is) (ADJP (RB notoriously) (JJ hard))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP review) (NP (JJ current) (NN evaluation) (NNS methods)) (, ,) (S (VP (VBG focusing) (PP (IN on) (NP (JJ automatic) (NNS metrics)))))) (. .))

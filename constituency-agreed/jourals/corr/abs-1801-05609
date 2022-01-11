@@ -1,0 +1,3 @@
+(S (ADVP (RB Clearly)) (, ,) (PP (IN without) (NP (JJ prior) (NN knowledge))) (NP (DT this)) (VP (VBZ is) (ADJP (JJ difficult))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN model)) (VP (VBZ is) (ADJP (RB highly) (JJ promising)))))) (. .))

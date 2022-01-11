@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Evolutionary) (NNS dynamics)) (PP (IN in) (NP (JJ finite) (NNS populations)))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB fixate) (ADVP (RB eventually)) (PP (IN in) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (NN mutation)))))))))) (. .))
+(S (NP (NP (DT The) (NNS differences) (CC and) (NNS similarities)) (PP (IN with) (NP (NN escape) (CC and) (NN fixation))) (PP (IN in) (NP (JJ evolutionary) (NNS dynamics)))) (VP (VBP are) (VP (VBN discussed))) (. .))

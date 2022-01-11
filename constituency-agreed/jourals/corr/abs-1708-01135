@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB exploit) (NP (JJ diverse) (JJ modern) (NN manycore) (NN hardware))))) (, ,) (NP (JJ efficient) (NNS codes)) (VP (MD must) (VP (VB use) (NP (DT all) (JJ available) (NN parallelism)))) (. .))

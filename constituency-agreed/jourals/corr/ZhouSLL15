@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT each) (NN node)) (VP (VBZ is) (VP (VBN equipped) (PP (IN with) (NP (NP (DT an) (JJ arbitrary) (NN number)) (PP (IN of) (NP (NP (NNS antennas)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN transmission) (CC or) (NN reception))))))))))))))))) (. .))
+(S (NP (DT The) (NN analysis)) (VP (VBZ is) (VP (VBN validated) (PP (IN by) (NP (NNS simulations))))) (. .))

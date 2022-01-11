@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN challenge)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS data)) (VP (ADVP (RB generously)) (VBN provided) (PP (IN by) (NP (NNP Criteo))) (PP (IN from) (NP (NP (DT the) (NNS logs)) (PP (IN of) (NP (PRP$ their) (NN production) (NN system)))))))))) (. .))
+(S (NP (PRP$ Our) (NN solution)) (VP (VBZ is) (VP (VBN made) (S (ADJP (JJ available))) (PP (IN on) (NP (NNP GitHub))))) (. .))

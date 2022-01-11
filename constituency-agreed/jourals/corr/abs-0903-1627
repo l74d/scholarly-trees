@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (CD 1982))) (, ,) (NP (NNP Ehrenfeucht) (CC and) (NNP Rozenberg)) (VP (VBD proved) (SBAR (IN that) (S (NP (DT this) (NN gap) (NN property)) (VP (VBZ holds) (PP (IN for) (NP (NP (DT the) (NN subword) (NN complexity) (NN function)) (PP (IN of) (NP (DT any) (NN language))))))))) (. .))

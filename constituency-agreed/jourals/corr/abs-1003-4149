@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN classification)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN made) (PP (IN by) (S (VP (VBG taking) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (JJ immediate) (NN context)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNP NE)) (VP (VBZ appears)))))))))) (. .))
+(S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (NP (DT this) (JJ immediate) (NN context)) (VP (VBZ does) (RB not) (VP (VB allow) (S (VP (VBG getting) (NP (DT the) (JJ right) (NN classification)))))) (. .))

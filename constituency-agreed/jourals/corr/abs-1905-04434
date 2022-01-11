@@ -1,0 +1,1 @@
+(S (S (NP (DT Each) (NN robot)) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG guarding) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT a) (NN perimeter)))))))))) (CC and) (S (NP (NP (DT any) (NN point)) (PP (IN on) (NP (DT a) (NN perimeter)))) (VP (MD must) (VP (VB be) (VP (VBN guarded) (PP (IN by) (NP (DT some) (NN robot))))))) (. .))

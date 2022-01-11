@@ -1,0 +1,3 @@
+(S (NP (NNP Bitwise) (NNS operations)) (VP (VBP are) (NP (NP (DT an) (JJ important) (NN component)) (PP (IN of) (NP (JJ modern) (NN day) (NN programming))))) (. .))
+(S (NP (NNP Buddy)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS components)))) (. .))
+(S (NP (DT These) (CD two) (NNS components)) (VP (VBP make) (S (NP (NNP Buddy)) (ADJP (RB functionally) (JJ complete)))) (. .))

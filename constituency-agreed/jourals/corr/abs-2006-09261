@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBG resulting) (NN estimator)) (VP (VBZ comes) (PP (IN with) (NP (NP (JJ strong) (JJ statistical) (NNS guarantees)) (VP (VBG leveraging) (NP (NP (JJ local) (NN dependency) (NNS properties)) (PP (IN of) (NP (VBG overlapping) (NNS patches)))))))) (. .))

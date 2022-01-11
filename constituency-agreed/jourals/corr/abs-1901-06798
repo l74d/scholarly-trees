@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (NP (NNP AMR)) (CC and) (NP (JJ spherical) (NNS coordinates))))) (VP (VBZ allows) (S (VP (VBG modeling) (NP (JJ transoceanic) (NN tsunami) (NN simulation))))) (. .))
+(S (NP (CD Three) (NNS metrics)) (VP (VBP are) (VP (VBN proposed) (S (VP (TO to) (VP (VB evaluate) (NP (NP (JJ relative) (NN performance)) (PP (IN of) (NP (NP (DT the) (NN model)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ shows) (NP (NP (JJ efficient) (NN usage)) (PP (IN of) (NP (NN hardware) (NNS resources))))))))))))))) (. .))

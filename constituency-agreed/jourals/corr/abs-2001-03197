@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NNS passengers))) (, ,) (NP (DT the) (NN competition)) (VP (VP (VBZ reduces) (NP (PRP$ their) (NN travel) (NN time))) (CC but) (VP (VBZ increases) (NP (PRP$ their) (NN travel) (NNS costs)))) (. .))
+(S (ADVP (RB Nonetheless)) (, ,) (NP (DT the) (VBN generalized) (NN travel) (NN cost)) (VP (VBZ is) (ADVP (RB still)) (VP (VBN reduced) (SBAR (WHADVP (WRB when)) (S (VP (VBG counting) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (NN time))))))))) (. .))

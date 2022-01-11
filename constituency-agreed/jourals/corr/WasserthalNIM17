@@ -1,0 +1,2 @@
+(S (NP (JJ Direct) (NN bundle) (NN segmentation) (NNS methods)) (VP (VBP treat) (NP (DT the) (NN task)) (PP (IN as) (NP (DT a) (JJ traditional) (NN image) (NN segmentation) (NN problem)))) (. .))
+(S (NP (PRP We)) (VP (VBP achieve) (NP (NP (JJ human) (NN segmentation) (NN performance)) (CC and) (NP (NP (DT a) (JJ major) (NN performance) (NN gain)) (PP (IN over) (NP (JJ previous) (NNS pipelines)))))) (. .))

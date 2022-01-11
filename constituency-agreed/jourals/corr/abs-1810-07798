@@ -1,0 +1,3 @@
+(S (NP (NNP Energy)) (VP (VBZ is) (VP (VBN lost) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ arrives) (PP (IN at) (NP (NP (JJ idle) (NNS workstations)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ empty)))))))))))) (. .))
+(S (NP (NNP Energy)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN lost) (PP (IN in) (NP (NN storage) (NNS leakages))))) (. .))
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (NP (DT the) (JJ total) (NN rate)) (PP (IN of) (NP (NN energy) (NN harvesting)))) (CC and) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NP (NNS jobs)) (VP (VBG arriving) (PP (IN at) (NP (NNS workstations)))))))) (VP (VBP are) (VP (VBN known)))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP train) (NP (NP (DT the) (NNP SNN)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN firing) (NN time)) (VP (VBZ carries) (NP (NN information)) (S (VP (VBG using) (NP (JJ temporal) (NN backpropagation))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN neuron) (NN circuit)) (PP (VBG including) (NP (NP (DT a) (JJ refractory) (NN period) (NN generator)) (PP (IN for) (NP (ADJP (RB temporally) (VBN encoded)) (NNP SNN))))))) (. .))

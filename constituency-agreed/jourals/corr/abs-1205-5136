@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP hold) (PP (IN in) (ADJP (JJ particular))) (PP (PP (IN for) (NP (NP (NNS transformations)) (PP (IN between) (NP (NP (DT a) (JJ finite) (NN number)) (PP (IN of) (NP (NNS primitives))))))) (CC and) (PP (IN for) (NP (DT any) (NN error))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN part))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (NP (NN quantum) (NNS protocols)) (VP (VBG implementing) (NP (NNP OT))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Except) (NP (DT that))) (, ,) (NP (DT this) (NN robot)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN added) (PP (IN by) (NP (DT an) (NN addition) (NN application))) (S (VP (TO to) (VP (VB dim) (NP (DT the) (NN fire))))))) (. .))
+(S (NP (DT This) (NN robot)) (VP (VBZ is) (VP (VBN made) (PP (IN with) (NP (JJ ultrasonic) (NN sensor) (NN PING))))) (. .))

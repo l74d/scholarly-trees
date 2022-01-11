@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (DT a) (JJ significant) (NN issue)) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB identify) (NP (JJ such) (JJ influential) (NNS bloggers))))))) (. .))
+(S (NP (DT Each) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ specific) (JJ metric))) (S (VP (TO to) (VP (VB score) (NP (NP (DT the) (NN blogger) (POS 's)) (NNS posts))))))) (. .))

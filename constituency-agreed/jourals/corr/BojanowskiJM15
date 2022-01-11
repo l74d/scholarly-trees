@@ -1,0 +1,2 @@
+(S (NP (JJ Recurrent) (JJ neural) (NNS networks)) (VP (VBP are) (NP (NP (ADJP (JJ convenient) (CC and) (JJ efficient)) (NNS models)) (PP (IN for) (NP (NN language) (NN modeling))))) (. .))
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBN applied) (PP (IN on) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (NP (NNS characters)) (PP (RB instead) (IN of) (NP (NNS words)))))))))) (, ,) (NP (PRP they)) (VP (VBP suffer) (PP (IN from) (NP (JJ several) (NNS problems)))) (. .))

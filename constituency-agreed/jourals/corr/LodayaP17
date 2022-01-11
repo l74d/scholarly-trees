@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NNS properties)) (PP (JJ such) (IN as) (NP (NP (NNP Ranker) (NNP Directionality)) (CC and) (NP (NNP Ranker) (NNP Convexity))))) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (PDT all) (DT these) (NNS logics)) (VP (VBP have) (NP (NNP NP) (NN satisfiability))))))))) (. .))

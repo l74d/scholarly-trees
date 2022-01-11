@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN method)) (VP (VBZ assumes) (SBAR (IN that) (S (NP (NNS nodes)) (VP (VP (VBP have) (NP (NP (DT the) (NN knowledge)) (PP (IN of) (NP (PRP$ its) (NN environment))))) (CC and) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG taking) (NP (NN decision)) (PP (IN for) (NP (NN route) (NN discovery)))))))))))) (. .))
+(S (PP (IN At) (NP (DT the) (JJ second) (NN level))) (, ,) (NP (DT the) (JJ optimal) (NN path)) (VP (VBZ is) (VP (VBN discovered) (S (VP (VBG using) (NP (JJ Genetic) (NNP Algorithm)))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ much) (NN resource)) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB train) (NP (DT a) (NN network))))))) (. .))
+(S (ADVP (RB Hence)) (NP (JJ much) (NN effort)) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (S (VP (TO to) (VP (VB accelerate) (NP (JJ neural) (NN network)) (PP (IN by) (S (VP (VBG reducing) (NP (NP (NN precision)) (PP (IN of) (NP (NP (NNS weights)) (, ,) (NP (NN activation)) (, ,) (CC and) (NP (NN gradient)))))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT these) (JJ filter-wise) (NN quantification) (NNS methods)) (VP (VBP exist) (NP (NP (DT a) (JJ natural) (JJ upper) (NN limit)) (, ,) (VP (VBN caused) (PP (IN by) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN kernel)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN setting))) (, ,) (PP (VBN given) (NP (DT a) (NN text) (NN segment))) (, ,) (NP (PRP$ our) (NN aim)) (VP (VBZ is) (S (VP (TO to) (VP (VB extract) (NP (PRP$ its) (NN sentiment) (CC or) (NN polarity)))))) (. .))
+(S (PP (IN By) (S (VP (VBG comparing) (NP (NN performance)) (PP (PP (IN with) (NP (JJ other) (NN curriculum) (NNS strategies))) (CC and) (PP (IN with) (NP (DT no) (NN curriculum))))))) (, ,) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN strategy)))) (VP (VBZ is) (VP (VBN presented))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Conversely)) (, ,) (NP (DT these) (NNS restrictions)) (VP (VBP define) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NP (NNS domains)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN discretized) (PP (IN with) (NP (DT a) (VBN given) (NN background) (NN mesh)))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP say) (SBAR (IN that) (S (NP (DT the) (NN background) (NN mesh)) (VP (VBZ is) (NP (NP (DT a) (JJ universal) (NN mesh)) (PP (IN for) (NP (NP (PDT such) (DT a) (NN family)) (PP (IN of) (NP (NNS domains)))))))))) (. .))

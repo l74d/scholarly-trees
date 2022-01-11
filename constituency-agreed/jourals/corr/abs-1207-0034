@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (VBG mounting) (NN crisis)) (PP (IN in) (S (VP (VBG delivering) (NP (JJ affordable) (NN healthcare)) (PP (IN in) (NP (DT the) (NNP US)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP have) (VP (VBN met) (PP (IN with) (NP (JJ limited) (NN success))) (SBAR (IN as) (S (NP (NNS costs)) (VP (VBP have) (VP (VBN increased) (ADVP (RB rapidly)) (SBAR (IN while) (S (NP (DT the) (NN quality)) (VP (VBZ is) (RB n't) (ADJP (JJ commensurate) (PP (IN with) (NP (DT the) (JJ high) (NNS costs))))))))))))) (. .))
+(S (NP (DT A) (JJ new) (NN approach)) (VP (VBZ is) (VP (VBN needed))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP outperform) (NP (JJ competitive) (NNS baselines)) (PP (IN by) (NP (DT a) (JJ large) (NN margin)))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NN interpretation)) (PP (IN for) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBN learned) (PP (IN by) (NP (PRP$ our) (NN model))))))))) (. .))

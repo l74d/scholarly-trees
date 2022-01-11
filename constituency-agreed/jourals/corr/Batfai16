@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ robopsychological) (NN approach)) (VP (VBZ raises) (NP (NP (DT some) (JJ fundamental) (JJ theoretical) (NNS questions)) (PP (IN of) (NP (NN machine) (NN learning))))) (. .))
+(S (SBAR (IN If) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (VBN applied) (S (VP (TO to) (VP (VB describe) (NP (PRP itself)))))))))) (ADVP (RB then)) (NP (DT this)) (VP (VBZ brings) (NP (PRP us)) (PP (TO to) (NP (NP (NP (NNP Turing) (POS 's)) (NN notion)) (PP (IN of) (NP (DT the) (JJ universal) (NN machine)))))) (. .))

@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (JJ chaotic) (JJ pseudo-random) (NN number) (NN generator)) (PRN (-LRB- -LRB-) (NP (NNP PRNG)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (PRP It)) (VP (VBZ combines) (NP (DT the) (JJ well-known) (NNP ISAAC) (CC and) (NNP XORshift) (NNS generators)) (PP (IN with) (NP (JJ chaotic) (NNS iterations)))) (. .))
+(S (NP (DT This) (NNP PRNG)) (VP (VP (VBZ possesses) (NP (NP (JJ important) (NNS properties)) (PP (IN of) (NP (JJ topological) (NN chaos))))) (CC and) (VP (MD can) (VP (ADVP (RB successfully)) (VB pass) (NP (NP (NNP NIST) (CC and) (NNP TestU01) (NNS batteries)) (PP (IN of) (NP (NNS tests))))))) (. .))
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (PRP$ our) (NN generator)) (ADJP (JJ suitable) (PP (IN for) (NP (NP (NN information) (NN security) (NNS applications)) (PP (IN like) (NP (NN cryptography)))))))) (. .))
+(S (PP (IN As) (NP (DT an) (JJ illustrative) (NN example))) (, ,) (NP (NP (DT an) (NN application)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN watermarking)))))) (VP (VBZ is) (VP (VBN presented))) (. .))

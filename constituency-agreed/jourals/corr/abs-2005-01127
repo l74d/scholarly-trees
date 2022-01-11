@@ -1,0 +1,5 @@
+(S (SBAR (IN As) (S (NP (DT a) (JJ novel) (NN coronavirus)) (VP (VBD swept) (NP (DT the) (NN world)) (PP (IN in) (NP (JJ early) (CD 2020)))))) (, ,) (NP (NP (NNS thousands)) (PP (IN of) (NP (NN software) (NNS developers)))) (VP (VBD began) (S (VP (VBG working) (PP (IN from) (NP (NN home)))))) (. .))
+(NP (NNS Results) (. .))
+(S (NP (DT The) (NN questionnaire)) (VP (VBD received) (NP (CD 2225) (JJ usable) (NNS responses)) (PP (IN from) (NP (CD 53) (NNS countries)))) (. .))
+(NP (NNS Conclusions) (. .))
+(S (NP (NP (NNS Women)) (, ,) (NP (NNS parents)) (CC and) (NP (JJ disabled) (NNS persons))) (VP (MD may) (VP (VB require) (NP (JJ extra) (NN support)))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN issue))))) (, ,) (NP (PRP we)) (VP (VBD designed) (CC and) (VBD implemented) (NP (DT the) (NNP Plud) (NN system))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN system)))) (, ,) (PP (IN by) (S (VP (VBG applying) (NP (PRP it)) (PP (IN on) (NP (NP (QP (IN over) (DT a) (CD million)) (NNS images)) (VP (VBG documenting) (NP (JJ human) (NN decomposition))))))))) (. .))

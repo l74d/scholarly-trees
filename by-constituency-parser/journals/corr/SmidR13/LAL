@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NNP GROOVE) (NN solution)) (PP (TO to) (NP (NP (DT the) (`` ``) (NNP Class) (NNP Diagram) (NNP Restructuring) ('' '') (NN case) (NN study)) (PP (IN of) (NP (DT the) (NNP Tool) (NNP Transformation) (NNP Contest) (CD 2013))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ visual) (NN rule) (NN formalism)) (VP (VBZ enables) (S (NP (DT the) (JJ required) (NN restructuring)) (VP (TO to) (VP (VB be) (VP (VBN formulated) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ concise)) (NN manner))))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NNP GROOVE) (NN functionality)) (PP (IN for) (NP (NN state) (NN space) (NN exploration)))) (VP (VBZ allows) (S (VP (VBG checking) (NP (NN confluence))))) (. .))
+(S (ADVP (NN Performance-wise)) (, ,) (ADVP (RB however)) (, ,) (NP (DT the) (NN solution)) (VP (VBZ does) (RB not) (VP (VB scale) (ADVP (RB well)))) (. .))

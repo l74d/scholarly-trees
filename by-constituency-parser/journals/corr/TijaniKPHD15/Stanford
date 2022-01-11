@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ analyzes) (NP (CD two) (VBG modeling) (NNS approaches)) (PP (IN for) (NP (NP (NN occupant) (NN behaviour)) (PP (IN in) (NP (NNS buildings)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ compares) (NP (DT a) (ADJP (RB purely) (JJ statistical)) (NN approach)) (PP (IN with) (NP (DT a) (JJ multi-agent) (ADJP (NML (JJ social) (NN simulation)) (VBN based)) (NN approach)))) (. .))
+(S (NP (DT The) (NN study)) (VP (VBZ concerns) (NP (NP (DT the) (NN door) (NNS openings)) (PP (IN in) (NP (DT an) (NN office))))) (. .))

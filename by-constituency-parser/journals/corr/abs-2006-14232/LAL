@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (JJ maximal) (NN density)) (VP (VBZ is) (VP (VBN determined)))) (CC and) (S (NP (DT the) (JJS densest) (NNS packings)) (VP (VBP are) (VP (VBN described)))) (. .))
+(S (NP (DT A) (NN phase) (NN separation) (NN phenomenon)) (VP (VBZ appears) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT an) (NN excess)) (PP (IN of) (NP (JJ small) (NN discs)))))))) (. .))

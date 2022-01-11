@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN framework)))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN made) (NP (NP (DT an) (JJ empirical) (NN observation)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB improve) (ADVP (RB even) (RBR more)) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ such) (NNS models))))))))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (DT this) (NN batch) (NN normalisation)) (VP (VBZ promotes) (NP (NP (DT the) (NN pre-conditioning)) (PP (IN of) (NP (ADJP (RB very) (JJ deep)) (NN learning) (NNS models))))) (. .))

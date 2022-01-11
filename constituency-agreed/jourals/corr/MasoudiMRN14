@@ -1,0 +1,2 @@
+(S (NP (CD Four) (JJ full) (NN adder) (NNS cells)) (VP (VBP are) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN article))))) (. .))
+(S (NP (DT All) (NNS inputs)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (ADVP (RB straight)) (, ,) (PP (IN without) (S (VP (VBG inverting))))))) (. .))

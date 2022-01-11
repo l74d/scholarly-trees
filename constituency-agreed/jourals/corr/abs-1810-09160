@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Millions)) (PP (IN of) (NP (NN web) (NNS users)))) (VP (VBP rely) (PP (IN on) (NP (NN filter) (NNS lists))) (S (VP (TO to) (VP (VP (VB protect) (NP (PRP$ their) (NN privacy))) (CC and) (VP (VB improve) (NP (PRP$ their) (NN browsing) (NN experience))))))) (. .))
+(S (S (NP (NNS Lists)) (ADVP (RB quickly)) (VP (VBP accumulate) (NP (NNS rules)))) (, ,) (CC and) (S (NP (NNS rules)) (VP (VBP are) (ADVP (RB rarely)) (VP (VBN removed)))) (. .))

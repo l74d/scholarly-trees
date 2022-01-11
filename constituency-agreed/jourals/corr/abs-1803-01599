@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (NNP AdaDepth)) (: -) (NP (NP (DT an) (JJ unsupervised) (NN domain) (NN adaptation) (NN strategy)) (PP (IN for) (NP (NP (DT the) (JJ pixel-wise) (NN regression) (NN task)) (PP (IN of) (NP (JJ monocular) (NN depth) (NN estimation)))))))) (. .))

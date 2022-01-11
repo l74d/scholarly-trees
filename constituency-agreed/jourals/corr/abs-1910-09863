@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN parameter) (NN estimation) (NN framework)) (PP (IN for) (NP (NN fracture) (NN propagation) (NNS problems))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (DT the) (NN focus)) (VP (VBZ is) (PP (IN on) (NP (NP (NNS uncertainties)) (VP (VBG arising) (PP (IN in) (NP (NP (DT the) (JJ solid) (NN material) (NNS parameters)) (CC and) (NP (DT the) (JJ critical) (NN energy) (NN release) (NN rate)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP$ our) (JJ algorithmic) (NN approach)) (VP (VBZ is) (VP (VBN substantiated) (PP (IN with) (NP (JJ several) (JJ numerical) (NNS examples))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Instability) (CC and) (NN slowness)) (VP (VBP are) (NP (NP (CD two) (JJ main) (NNS problems)) (PP (IN in) (NP (JJ deep) (NN reinforcement) (NN learning))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN algorithm))) (, ,) (S (NP (JJ multiple) (JJ different) (NNS policies)) (VP (VBP train) (ADVP (RB simultaneously)))) (CC and) (S (NP (NP (DT each)) (PP (IN of) (NP (PRP them)))) (VP (VBZ controls) (NP (NP (JJ several) (JJ identical) (NNS agents)) (SBAR (WHNP (WDT that)) (S (VP (VBP interact) (PP (IN with) (NP (NNS environments))))))))) (. .))

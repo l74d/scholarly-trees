@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN observation) (NNS equations)) (VP (VBP are) (NP (NP (DT a) (JJ noisy) (NN measurement)) (PP (IN of) (NP (DT the) (NN population))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (NNP Kalman) (NN filter)) (VP (MD can) (VP (VB be) (VP (VBN constructed) (S (VP (TO to) (VP (VB reduce) (NP (DT these) (NN communication) (NNS requirements)))))))))))) (, ,))

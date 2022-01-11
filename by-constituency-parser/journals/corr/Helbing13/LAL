@@ -1,0 +1,5 @@
+(S (NP (NP (JJ Peaceful) (NNS citizens)) (CC and) (NP (JJ hard-working) (NNS taxpayers))) (VP (VBP are) (PP (IN under) (NP (NN government) (NN surveillance)))) (. .))
+(S (NP (NP (JJ Confidential) (NN communication)) (PP (IN of) (NP (NNS journalists)))) (VP (VBZ is) (VP (VBN intercepted))) (. .))
+(S (NP (NNS Civilians)) (VP (VBP are) (VP (VBN killed) (PP (IN by) (NP (NNS drones))) (, ,) (PP (IN without) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VB prove) (NP (PRP$ their) (NN innocence))))))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (MD could) (NP (PRP it)) (VP (VB come) (ADVP (IN that) (RB far)))) (. ?))
+(SBARQ (CC And) (WHNP (WDT what)) (SQ (VP (VBP are) (NP (DT the) (NNS alternatives)))) (. ?))

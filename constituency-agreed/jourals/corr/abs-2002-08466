@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT A) (NN definition)) (PP (IN of) (NP (DT the) (NN term) (NN cryptocurrency)))) (VP (VBZ is) (VP (VBN given)))) (CC and) (S (NP (NP (DT a) (NN taxonomy)) (PP (IN of) (NP (PRP them)))) (VP (VBZ is) (VP (VBN presented) (, ,) (PP (VBN based) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ its) (NN price)) (VP (VBZ is) (VP (VBN fixed)))))))))) (. .))
+(S (NP (NP (DT The) (NNS characteristics)) (PP (IN of) (NP (NNS blockchains) (CC and) (NNS databases)))) (VP (VBP are) (VP (VBN described))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP perform) (NP (JJ several) (JJ numerical) (NNS simulations)) (S (VP (TO to) (VP (VB compare) (NP (NP (DT the) (ADJP (JJ theoretical) (CC and) (JJ computational)) (NNS rates)) (PP (IN of) (NP (NN convergence)))))))) (. .))

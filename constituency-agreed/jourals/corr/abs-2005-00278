@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP approach) (NP (DT the) (NN transfer) (NN task)) (PP (IN from) (NP (DT the) (JJ variational) (NN autoencoding) (NN perspective)))) (. .))
+(S (S (VP (VBG Sharing) (NP (DT the) (NN decoder) (NNS parameters)) (PP (IN across) (NP (DT the) (NNS domains))))) (VP (VP (VBZ encourages) (NP (NP (NN consistency)) (PP (IN between) (NP (NP (NNS labels)) (VP (VBN predicted) (PP (IN for) (NP (DT both) (NNS domains)))))))) (CC and) (VP (VBZ facilitates) (NP (DT the) (NN transfer)))) (. .))

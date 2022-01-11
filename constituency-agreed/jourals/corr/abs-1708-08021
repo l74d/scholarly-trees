@@ -1,0 +1,2 @@
+(S (NP (NNP Flow)) (VP (VBZ uses) (NP (JJ sophisticated) (NN type) (NN inference)) (S (VP (TO to) (VP (VB understand) (NP (JJ common) (NNP JavaScript) (NNS idioms)) (ADVP (RB precisely)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP formalize) (NP (NP (DT an) (JJ important) (NN fragment)) (PP (IN of) (NP (NP (NNP Flow) (POS 's)) (NN analysis))))) (CC and) (VP (VB prove) (NP (PRP$ its) (NN soundness)))) (. .))

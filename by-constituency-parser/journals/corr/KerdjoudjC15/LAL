@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN system)) (SBAR (S (VP (TO to) (VP (VB visualize) (NP (NNP RDF) (NN knowledge) (NN graphs)))))))) (. .))
+(S (NP (DT These) (NNS graphs)) (VP (VBP are) (VP (VBN obtained) (PP (IN from) (NP (NP (DT a) (NN knowledge) (NN extraction) (NN system)) (VP (VBN designed) (PP (IN by) (NP (NNS GEOLSemantics)))))))) (. .))
+(S (NP (DT This) (NN extraction)) (VP (VBZ is) (VP (VBN performed) (S (VP (VBG using) (NP (NP (JJ natural) (NN language) (NN processing)) (CC and) (NP (NN trigger) (NN detection))))))) (. .))
+(S (NP (DT The) (NN user)) (VP (MD can) (VP (VB visualize) (NP (NN subgraphs)) (PP (IN by) (S (VP (VBG selecting) (NP (NP (DT some) (NN ontology) (NNS features)) (PP (IN like) (NP (NNS concepts) (CC or) (NNS individuals))))))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ multilingual)) (, ,) (PP (IN with) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT the) (JJ annotated) (NN ontology))) (PP (IN in) (NP (NNP English) (, ,) (NNP French) (, ,) (NNP Arabic) (CC and) (NNP Chinese)))))) (. .))

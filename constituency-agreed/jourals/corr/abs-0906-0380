@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ symmetric) (NN interaction) (NNS combinators)) (VP (VBP are) (NP (NP (DT an) (ADJP (RB equally) (JJ expressive)) (NN variant)) (PP (IN of) (NP (NP (NNP Lafont) (POS 's)) (NN interaction) (NNS combinators))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (DT a) (JJ full) (NN abstraction) (NN result)) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (CD two) (NNS equivalences)))))) (. .))

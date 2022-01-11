@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (NP (JJ computational) (NN complexity)) (CC and) (NP (NN storage) (NN space))) (VP (VBP tend) (S (VP (TO to) (VP (VB be) (PP (IN among) (NP (NP (DT the) (JJ critical) (NNS requirements)) (PP (IN of) (NP (DT these) (NNS algorithms))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (JJ key) (NN point)) (VP (VBZ is) (S (VP (TO to) (VP (VB select) (NP (NP (DT the) (JJS best) (NNS templates)) (PP (IN around) (NP (DT that) (NN mode)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (NN mission) (NN execution) (NN system)) (SBAR (WHNP (WDT which)) (S (VP (VBZ includes) (NP (NNP FCC) (NN state) (NN synchronization))))))) (. .))
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT this) (NN result))))) (NP (PRP we)) (VP (VP (VBD developed) (NP (NP (DT a) (JJ new) (NN concept)) (PP (IN of) (NP (NP (NNP Asynchronous) (NNP Behavior) (NNP Tree)) (PP (IN with) (NP (NNP Memory))))))) (CC and) (VP (VBD proposed) (NP (DT a) (NN state) (NN synchronization) (NN algorithm)))) (. .))

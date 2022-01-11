@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NNP Tacotron) (CD 2)) (, ,) (NP (NP (DT a) (JJ neural) (NN network) (NN architecture)) (PP (IN for) (NP (NN speech) (NN synthesis))))) (PP (ADVP (RB directly)) (IN from) (NP (NN text)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP observe) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN adversary)) (VP (VBZ is) (ADJP (JJ adaptive))))) (, ,) (NP (DT no) (JJ randomized) (NN algorithm)) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (JJ competitive) (NN ratio)) (PP (IN of) (NP (DT the) (JJ optimal) (JJ deterministic) (NN algorithm))))))))) (. .))

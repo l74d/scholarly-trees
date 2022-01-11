@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN idea)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (NP (DT an) (JJ advanced) (NN game) (NN concept))) (. .))
+(S (PP (IN In) (NP (DT a) (NN barter) (JJ double) (NN auction))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ big) (NN amount)) (PP (IN of) (NP (NNS agents))))) (. .))
+(S (NP (CD Two) (NNS agents)) (VP (MD can) (VP (VB achieve) (NP (DT a) (NN commitment)) (PP (IN through) (NP (NN barter) (NN exchange))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT some) (NNS facets)) (PP (IN of) (NP (DT this) (JJ complex) (NN game) (NN concept))))) (. .))

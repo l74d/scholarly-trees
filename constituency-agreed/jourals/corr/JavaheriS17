@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN energy) (NN criterion)) (VP (VBN defined) (PP (IN by) (NP (DT the) (NNP DEO))))) (VP (VBZ is) (RB not) (ADJP (JJ compliant) (PP (IN with) (NP (NP (DT the) (NN presumption)) (PP (IN of) (NP (NP (NN positivity)) (PP (IN of) (NP (NN energy))))))))) (. .))
+(S (NP (NP (DT This) (NN operator)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN obtained) (S (VP (VBG using) (NP (JJ alternative) (JJ recursive) (NNS relations)))))))))) (, ,) (VP (VBZ resolves) (NP (DT the) (NN energy) (NN sign) (NN problem))) (. .))

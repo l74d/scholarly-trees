@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (DT a) (JJ new) (NN graph) (NN proximity) (NN measure))) (. .))
+(S (NP (DT This) (NN measure)) (VP (VBZ is) (NP (NP (DT a) (NN derivative)) (PP (IN of) (NP (NN network) (NN reliability))))) (. .))
+(S (PP (IN By) (S (VP (VP (VBG analyzing) (NP (PRP$ its) (NNS properties))) (CC and) (VP (VBG comparing) (NP (PRP it)) (PP (IN against) (NP (JJ other) (NN proximity) (NNS measures))) (PP (IN through) (NP (NN graph) (NNS examples))))))) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ consistent) (PP (IN with) (NP (JJ human) (NN intuition)))) (PP (IN than) (NP (NNS competitors)))))))) (. .))
+(S (NP (DT A) (JJ new) (JJ deterministic) (NN algorithm)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB approximate) (NP (DT this) (NN measure)) (PP (IN with) (NP (JJ practical) (NN complexity)))))))) (. .))

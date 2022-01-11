@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NNS comparisons)) (VP (VBP are) (ADJP (ADVP (RB far) (RBR less)) (JJ informative))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP derive) (NP (DT an) (JJ active) (NN query) (NN selection) (NN algorithm))) (, ,) (CC and) (VP (NN test) (NP (DT these) (NNS queries)) (PP (PP (IN in) (NP (NN simulation))) (CC and) (PP (IN on) (NP (JJ real) (NNS users)))))) (. .))

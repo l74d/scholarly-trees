@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (JJ optimal) (NN control) (NN problem)) (PP (IN of) (S (VP (VBG connecting) (NP (CD two) (JJ periodic) (NNS trajectories)) (PP (IN with) (NP (JJ maximal) (NN persistence)))))))) (. .))
+(S (NP (NP (DT The) (NN case)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (CD two) (NNS trajectories)) (VP (VBP have) (NP (ADJP (JJ different) (CC but) (JJ rational)) (NNS periods)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN solved))) (. .))

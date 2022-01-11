@@ -1,0 +1,2 @@
+(S (PP (IN Like) (NP (DT all) (JJ supervised) (NNS approaches))) (, ,) (NP (DT these) (NNS networks)) (VP (VBP require) (NP (NN ground) (NN truth) (NNS data)) (PP (IN during) (NP (NN training)))) (. .))
+(S (S (VP (VBN Inspired) (PP (IN by) (NP (NP (JJ recent) (NN progress)) (PP (IN in) (NP (JJ monocular) (NN depth) (NN estimation))))))) (, ,) (NP (PRP we)) (VP (VBP generate) (NP (JJ plausible) (NN disparity) (NNS maps)) (PP (IN from) (NP (JJ single) (NNS images)))) (. .))

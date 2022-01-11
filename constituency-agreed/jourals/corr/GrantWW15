@@ -1,0 +1,2 @@
+(S (NP (JJ Probabilistic) (NNS databases)) (VP (VBP play) (NP (DT a) (JJ preeminent) (NN role)) (PP (IN in) (NP (NP (DT the) (NN processing) (CC and) (NN management)) (PP (IN of) (NP (JJ uncertain) (NNS data)))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (JJ large) (NNS datasets))) (NP (DT this)) (VP (VBZ is) (NP (DT an) (ADJP (RB extremely) (JJ expensive)) (NN process))) (. .))

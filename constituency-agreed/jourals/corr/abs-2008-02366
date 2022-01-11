@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB investigate) (NP (NP (DT the) (NN interaction)) (PP (IN between) (NP (NP (NN embodiment)) (CC and) (NP (JJ numerical) (NN cognition))))))))) (. .))
+(S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (VBG using) (NP (NP (NP (NNS images)) (PP (IN from) (NP (NP (DT the) (NN robot) (POS 's)) (NNS cameras)))) (CC and) (NP (NP (JJ proprioceptive) (NNS signals)) (PP (IN from) (NP (PRP$ its) (NNS joints))))))))) (. .))

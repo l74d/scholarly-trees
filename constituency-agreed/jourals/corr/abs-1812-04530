@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN lack)) (PP (IN of) (NP (JJ proper) (NN documentation)))) (VP (VBZ makes) (S (NP (NN program) (NN comprehension)) (NP (NP (DT a) (JJ cumbersome) (NN process)) (PP (IN for) (NP (NNS developers)))))) (. .))
+(S (ADVP (RB Afterward)) (, ,) (PP (IN by) (S (VP (VBG exploiting) (NP (NP (DT a) (JJ dynamic) (NN call) (NN graph)) (, ,) (NP (DT the) (NNP Pagerank) (NN algorithm)) (, ,) (CC and) (NP (DT the) (JJ pre-trained) (JJ deep) (JJ neural) (NN network)))))) (, ,) (NP (PRP we)) (VP (VBP generate) (NP (NNS summaries))) (. .))

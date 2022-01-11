@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (ADJP (JJ twofold))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NN decentralization)))) (VP (VBZ goes) (PP (IN beyond) (S (VP (VBG having) (S (NP (NNS agents)) (VP (VBP know) (NP (NP (RB only) (NN part)) (PP (IN of) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (DT the) (NN system))))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT the) (JJ main) (NNS results)) (PP (IN on) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS examples)))))) (. .))

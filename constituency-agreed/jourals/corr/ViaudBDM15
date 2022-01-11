@@ -1,0 +1,3 @@
+(S (ADVP (RB Thus)) (, ,) (ADVP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBZ works) (PP (IN with) (NP (JJ real) (NNS data))))))) (, ,) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN concept) (NN lattice)))) (VP (VBZ is) (NP (DT a) (JJ fundamental) (NN problem))) (. .))
+(S (NP (DT This) (NN chapter)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (CD three) (NNS parts))))) (. .))
+(S (NP (DT An) (NN example)) (VP (VBZ is) (VP (VBN given) (S (VP (TO to) (VP (VB explain) (NP (DT this) (NN decomposition))))))) (. .))

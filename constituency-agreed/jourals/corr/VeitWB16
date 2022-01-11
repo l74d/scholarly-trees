@@ -1,0 +1,3 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (JJ residual) (NNS networks)) (VP (VBP seem) (S (VP (TO to) (VP (VB enable) (NP (ADJP (RB very) (JJ deep)) (NNS networks)) (PP (IN by) (S (VP (VBG leveraging) (NP (NP (RB only) (DT the) (JJ short) (NNS paths)) (PP (IN during) (NP (NN training))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB support) (NP (DT this) (NN observation))))) (, ,) (NP (PRP we)) (VP (VBP rewrite) (NP (JJ residual) (NNS networks)) (PP (IN as) (NP (NP (DT an) (JJ explicit) (NN collection)) (PP (IN of) (NP (NNS paths)))))) (. .))
+(S (PP (IN Unlike) (NP (JJ traditional) (NNS models))) (, ,) (NP (NP (NNS paths)) (PP (IN through) (NP (JJ residual) (NNS networks)))) (VP (VBP vary) (PP (IN in) (NP (NN length)))) (. .))

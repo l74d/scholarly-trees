@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (NP (JJ current) (NN autoHPO) (NNS methods)) (VP (VBP are) (ADVP (RB usually)) (ADJP (RB only) (JJ effective) (PP (IN for) (NP (NP (DT a) (JJ certain) (NN type)) (PP (IN of) (NP (NNS problems)))))))) (, ,) (CC and) (S (NP (DT the) (NN time) (NN cost)) (VP (VBZ is) (ADJP (JJ high)))) (. .))
+(S (S (VP (TO To) (VP (VB describe) (NP (JJ such) (NN mapping))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ sophisticated) (NN network) (NN structure))) (. .))

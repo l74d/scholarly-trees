@@ -1,0 +1,2 @@
+(S (NP (DT Both) (NNS embeddings)) (VP (VBP are) (ADJP (JJ linear))) (. .))
+(S (NP (PRP We)) (VP (VBP build) (PP (IN on) (NP (DT the) (JJ above) (NNS relations))) (S (VP (TO to) (VP (VB answer) (NP (NP (JJ open) (NNS problems)) (PP (IN of) (NP (JJ stratified) (NNP Datalog)))))))) (. .))

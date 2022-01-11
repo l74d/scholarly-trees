@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (DT the) (NNP Middlebury) (NN dataset)))) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))
+(S (NP (PRP$ Our) (VBN proposed) (NN stereo) (NN confidence) (NN measure)) (VP (VBZ outperforms) (NP (CD 17) (VBG existing) (NNS measures)) (PP (IN in) (NP (NP (DT all) (NNS aspects)) (PP (IN except) (NP (NN occlusion) (NN detection)))))) (. .))

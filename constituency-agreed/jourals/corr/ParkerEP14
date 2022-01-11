@@ -1,0 +1,3 @@
+(S (NP (JJ Many) (NNS people)) (VP (VBP suffer) (PP (IN from) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (DT a) (NN limb)))))) (. .))
+(S (NP (CD One) (JJ promising) (NN solution)) (VP (VBZ is) (S (VP (TO to) (VP (VB provide) (NP (NP (JJR greater) (NN communication)) (PP (IN between) (NP (NP (DT a) (NN prosthesis)) (CC and) (NP (PRP$ its) (NN user))))))))) (. .))
+(S (NP (PRP$ Our) (NNS trials)) (VP (VBD showed) (SBAR (IN that) (S (NP (JJ communicable) (NNS predictions)) (VP (MD could) (VP (VB be) (VP (VBN learned) (ADVP (RB quickly)) (PP (IN during) (NP (NP (JJ human) (NN control)) (PP (IN of) (NP (DT the) (NN robot) (NN arm))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NN normalization) (NNS layers)) (VP (VBP have) (NP (NP (DT a) (JJ large) (JJ beneficial) (NN impact)) (PP (IN on) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (JJ deep) (JJ neural) (NNS networks)) (PP (IN with) (NP (JJ noisy) (NNS parameters)))))))))))) (. .))

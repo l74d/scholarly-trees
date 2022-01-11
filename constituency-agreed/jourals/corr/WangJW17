@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (NP (DT an) (JJ implicit) (NN version)) (PP (IN of) (NP (DT this) (NN approach)))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (NP (DT The) (NN property)) (PP (IN of) (NP (NN energy) (NN conservation)))) (VP (VBZ is) (VP (VBN proved) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (JJ strong) (NN indication)) (PP (IN of) (NP (NN stability))))))))) (. .))

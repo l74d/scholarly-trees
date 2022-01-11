@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (VBG existing) (NNS layers)) (PP (IN of) (NP (NNP CNN)))) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ hard) (NNS examples)) (SBAR (WHNP (WDT which)) (S (ADVP (RB generally)) (VP (VBP produce) (NP (JJR lower) (NN class) (NNS scores)))))))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (VBG existing) (NNS methods)) (VP (VBP become) (ADJP (JJ biased) (PP (IN towards) (NP (DT the) (JJ easy) (NNS examples))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS models)) (VP (VP (VBP have) (NP (JJ high) (NN expressivity))) (CC and) (VP (VB allow) (PP (IN for) (S (VP (VBG learning) (NP (JJ hierarchical) (NNS representations))))))) (. .))
+(S (S (VP (VBG Learning) (NP (PDT such) (DT a) (JJ generative) (NN model)))) (VP (VBZ requires) (S (VP (VBG inferring) (NP (NP (DT the) (NN latent) (NNS variables)) (PP (IN for) (NP (DT each) (NN training) (NN example)))) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ posterior) (NN distribution)) (PP (IN of) (NP (DT these) (JJ latent) (NNS variables))))))))) (. .))

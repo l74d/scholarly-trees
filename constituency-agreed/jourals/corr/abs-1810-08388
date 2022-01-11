@@ -1,0 +1,2 @@
+(S (S (VP (VBG Reducing) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (JJR higher) (NN order) (NNS problems)))))) (VP (MD can) (VP (VB enable) (S (VP (VBG solving) (NP (PRP them)) (PP (IN in) (NP (JJ analytical) (NNS ways))))))) (. .))
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (DT these) (NNS poses)))) (VP (VBZ is) (VP (VBN interpolated) (S (VP (TO to) (VP (VB achieve) (NP (JJ stable) (JJ whole) (NN body) (NNS motions))))))) (. .))

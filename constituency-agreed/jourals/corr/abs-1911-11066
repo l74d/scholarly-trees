@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (NP (DT the) (NN filtering)) (PP (IN of) (NP (JJ unwanted) (NNS data)))) (VP (VBZ is) (RB not) (VP (VBN done))) (. .))
+(S (NP (DT This) (NN repository)) (VP (MD may) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (JJ various) (NNS purposes)))))) (. .))

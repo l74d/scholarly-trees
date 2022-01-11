@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN stated) (SBAR (IN that) (S (NP (NP (JJ many) (JJ essential) (NNS features)) (PP (IN of) (NP (NP (DT the) (NN speaker) (NN language)) (VP (VBN used))))) (VP (MD can) (VP (VB appear) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT the) (NN speech) (NN signal))))))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (DT a) (JJ simple) (JJ neural) (NN net)) (VP (VBZ is) (VP (VBN consumed))) (. .))

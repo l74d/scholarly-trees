@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Jobs)) (PP (IN of) (NP (DT the) (JJ same) (NN group)))) (VP (MD can) (ADVP (RB only)) (VP (VB be) (VP (VBN processed) (PP (IN by) (NP (NP (NNS machines)) (PP (IN of) (NP (NP (DT a) (VBN given) (NN set)) (PP (IN of) (NP (NNS classes)))))))))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT the) (JJ total) (NN cost)) (PP (IN of) (NP (NP (DT the) (NNS machines)) (VP (VBN used) (S (VP (TO to) (VP (VB process) (NP (PDT all) (DT the) (NNS jobs))))))))))))) (. .))

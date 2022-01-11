@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN solution)) (VP (MD can) (VP (VB be) (ADVP (RB logically)) (VP (VBN divided) (PP (IN into) (NP (CD three) (NNS components)))))) (. .))
+(S (NP (DT The) (JJ first) (NN component)) (VP (VBZ estimates) (NP (DT the) (NN system) (NN state)) (PP (IN from) (NP (DT the) (NN output) (NNS measurements)))) (. .))

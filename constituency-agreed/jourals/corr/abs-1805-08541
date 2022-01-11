@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ smart) (NN contract)) (PP (IN on) (NP (DT a) (NN blockchain)))) (VP (MD can) (RB not) (VP (VB keep) (NP (DT a) (JJ secret)) (SBAR (IN because) (S (NP (PRP$ its) (NNS data)) (VP (VBZ is) (VP (VBN replicated) (PP (IN on) (NP (NP (DT all) (NNS nodes)) (PP (IN in) (NP (DT a) (NN network))))))))))) (. .))

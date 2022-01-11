@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (DT the) (NNP NAS)))) (VP (VBZ creates) (NP (NP (JJ many) (NNS difficulties)) (PP (IN in) (NP (NN management) (CC and) (NN control))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ pressing)) (NNS problems)))) (VP (VBZ is) (NP (NN flight) (NN delay))) (. .))
+(S (NP (NNP Delay)) (VP (VBZ is) (NP (DT an) (ADJP (RB inherently) (JJ stochastic)) (NN phenomenon))) (. .))

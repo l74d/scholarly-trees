@@ -1,0 +1,2 @@
+(S (NP (NNP Lasso) (NN regularization)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB obtain) (NP (JJ sparse) (NN covariance) (NN matrix)) (PP (IN for) (NP (NP (JJR better) (NN interpretation)) (CC and) (NP (JJ computational) (NN efficiency))))))))) (. .))
+(S (NP (DT The) (NN solution)) (VP (VBZ converges) (ADVP (RB quickly)) (PP (IN under) (NP (DT the) (NNP IGLS) (NN framework)))) (. .))

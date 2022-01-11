@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ significant) (NN challenge)) (PP (IN in) (NP (DT the) (NNP SU) (NN problem)))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB identify) (NP (NP (NNS endmembers)) (CC and) (NP (PRP$ their) (NNS weights))) (, ,) (ADVP (RB accurately))))))) (. .))
+(S (NP (NP (DT Each) (NN pixel)) (PP (IN in) (NP (JJ hyperspectral) (NNS images)))) (VP (VBN considered) (PP (IN as) (NP (NP (DT a) (NN node)) (PP (IN in) (NP (DT this) (NN network)))))) (. .))

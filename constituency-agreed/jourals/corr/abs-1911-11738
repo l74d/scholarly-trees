@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ geometric) (NN characterization)) (PP (IN of) (NP (JJ minimal) (JJ linear) (NNS codes))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN family)) (PP (IN of) (NP (JJ minimal) (NNS codes)))) (VP (VBZ is) (ADJP (RB asymptotically) (JJ good)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT some) (JJ geometrical) (NNS constructions)) (PP (IN of) (NP (JJ minimal) (NNS codes))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (PP (IN in) (NP (DT those) (ADJP (JJ complex) (CC and) (JJ dynamic)) (NNS categories))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ produces) (NP (NP (DT the) (JJS best) (NNS results)) (VP (VBG showing) (NP (NP (DT the) (NN robustness)) (PP (IN against) (NP (ADJP (RB very) (JJ challenging)) (NNS scenarios))))))) (. .))

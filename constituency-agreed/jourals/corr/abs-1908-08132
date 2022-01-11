@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT a) (JJ geometric) (NN characterization)) (PP (IN of) (NP (NP (NNS subclasses)) (PP (IN of) (NP (DT the) (JJ regular) (NNS languages))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ finite) (NN model) (NN theory)) (S (VP (TO to) (VP (VB characterize) (NP (NP (NNS objects)) (PP (IN like) (NP (NNS strings) (CC and) (NNS trees)))) (PP (IN as) (NP (JJ relational) (NNS structures))))))) (. .))
+(S (NP (NP (JJ Logical) (NNS statements)) (VP (VBG meeting) (NP (NP (JJ certain) (NNS criteria)) (PP (IN over) (NP (DT these) (NNS models)))))) (VP (VBP define) (NP (NP (JJ subregular) (NNS classes)) (PP (IN of) (NP (NNS languages))))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB consider) (NP (CD two) (ADJP (RB properly) (JJ subregular)) (NNS languages)) (PP (IN over) (NP (JJ different) (NN string) (NNS models)))))))) (. .))

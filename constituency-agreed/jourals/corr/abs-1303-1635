@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ active) (NNS neighbors)))) (VP (VBZ is) (VP (VBN counted) (PP (IN in) (NP (DT each) (NN direction))) (PP (IN with) (S (VP (VBG using) (NP (DT a) (NN strategy))))))) (. .))
+(S (NP (DT These) (NNS criterions)) (VP (VBP are) (ADVP (RB effectively)) (VP (VBN used) (S (VP (TO to) (VP (VB select) (NP (NNS routes))))))) (. .))

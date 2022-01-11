@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NN section) (CD 2))) (NP (PRP we)) (VP (VBP discuss) (NP (DT some) (NNS prerequisites))) (. .))
+(S (PP (IN In) (NP (NN section) (CD 3))) (, ,) (NP (PRP we)) (VP (VP (VBP define) (NP (NNS multipliers))) (CC and) (VP (VB discuss) (NP (PRP$ their) (NNS properties)))) (. .))
+(S (PP (IN In) (NP (NN section) (CD 5))) (, ,) (NP (PRP we)) (VP (VBP explain) (SBAR (WHADVP (WRB how)) (S (NP (JJ typical) (NN presheaf) (NNS modalities)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT the) (NN transpension) (NN type))))))))))) (. .))

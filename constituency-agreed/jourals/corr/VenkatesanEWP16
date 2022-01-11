@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN developed) (NN classifier)) (VP (VBZ is) (VP (VBN experimented) (PP (IN with) (NP (NP (NNS datasets)) (PP (IN from) (NP (JJ different) (NN application) (NNS domains))))) (PP (IN for) (NP (NN consistency) (, ,) (NN performance) (CC and) (NN speed))))) (. .))

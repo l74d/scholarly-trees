@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Extensive) (JJ experimental) (NNS results)) (PP (IN on) (NP (JJ public) (NN dataset) (NNP KITTI) (NNP ROAD)))) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN approach))))) (. .))

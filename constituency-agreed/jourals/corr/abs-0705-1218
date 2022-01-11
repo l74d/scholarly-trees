@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ novel) (NN approach)) (PP (IN for) (NP (NP (DT the) (JJ geometrical) (NN model) (NN calibration)) (PP (IN of) (NP (NP (JJ quasi-isotropic) (JJ parallel) (JJ kinematic) (NNS mechanisms)) (PP (IN of) (NP (DT the) (NNP Orthoglide) (NN family))))))))) (. .))
+(S (NP (NP (NN Validity)) (PP (IN of) (NP (DT the) (VBN proposed) (NN calibration) (NN technique)))) (VP (VBZ is) (VP (VBN confirmed) (PP (IN by) (NP (DT the) (JJ experimental) (NNS results))))) (. .))

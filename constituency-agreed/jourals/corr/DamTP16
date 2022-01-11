@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Results)) (PP (IN from) (NP (NP (PRP$ our) (JJ intrinsic) (NN evaluation)) (PP (IN on) (NP (NP (DT a) (NN corpus)) (PP (IN of) (NP (NNP Java) (NNS projects)))))))) (VP (VBP have) (VP (VBN demonstrated) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN language) (NN model)))))) (. .))

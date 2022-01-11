@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT a) (ADJP (JJ controllable) (CC and) (JJ coobservable)) (NN sublanguage)) (PP (IN of) (NP (DT the) (NN specification)))) (PP (IN by) (S (VP (VBG using) (NP (NP (JJ additional) (NNS communications)) (PP (IN between) (NP (NNS supervisors)))))))) (. .))
+(S (NP (NN Coobservability)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN guaranteed) (PP (IN by) (NP (NN construction))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN method)) (VP (VBZ operates) (PP (IN on) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (JJ straight) (NN line) (NNS segments)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN produced) (PP (IN by) (NP (NN line) (NN detection)))))))))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (DT a) (JJ new) (NN tracking) (NN criterion)) (SBAR (WHNP (WDT which)) (S (VP (VBZ combines) (NP (NP (DT a) (NN grouping) (NN cost)) (CC and) (NP (DT an) (NN area) (NN similarity) (NN constraint)))))))) (. .))

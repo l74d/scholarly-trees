@@ -1,0 +1,2 @@
+(S (NP (NP (NN Prediction)) (PP (IN of) (NP (NP (NN survival)) (PP (IN for) (NP (NN cancer) (NNS patients)))))) (VP (VBZ is) (NP (NP (DT an) (JJ open) (NN area)) (PP (IN of) (NP (NN research))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ many)) (PP (IN of) (NP (DT these) (NNS studies)))) (VP (VBP focus) (PP (IN on) (NP (NP (NNS datasets)) (PP (IN with) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NNS patients)))))))) (. .))

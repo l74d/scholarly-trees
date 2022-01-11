@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB keep) (NP (NP (DT the) (JJ computational) (NN cost)) (CC and) (NP (DT the) (NN storage) (NNS requirements))) (PP (ADVP (RB significantly)) (IN below) (NP (VBG existing) (NNS approaches)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (JJ new) (NN algorithm)) (PP (IN with) (NP (JJ several) (JJ numerical) (NNS experiments)))) (. .))

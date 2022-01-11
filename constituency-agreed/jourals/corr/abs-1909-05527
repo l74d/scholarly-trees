@@ -1,0 +1,1 @@
+(S (NP (JJ Adversarial) (NNS examples)) (VP (VBP are) (NP (NP (JJ slight) (NNS perturbations)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB fool) (NP (JJ artificial) (JJ neural) (NNS networks)) (SBAR (WHADVP (WRB when)) (S (VP (VBN fed) (PP (IN as) (NP (DT an) (NN input))))))))))))))) (. .))

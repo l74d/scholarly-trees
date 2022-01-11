@@ -1,0 +1,3 @@
+(S (S (VP (VBG Comparing) (NP (NP (NN popularity)) (PP (IN of) (NP (NN mp3) (CC and) (NN wave)))) (PP (IN with) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NP (NNS works)) (VP (VBN published) (PP (IN on) (NP (NP (DT each)) (PP (IN of) (NP (PRP them)))))))))))) (VP (VBZ shows) (SBAR (S (NP (NN mp3) (NN steganalysis)) (VP (VBZ has) (RB not) (VP (VBN found) (NP (JJ adequate) (NN attention))))))) (. .))
+(S (S (VP (VBG Experimenting) (PP (IN with) (NP (JJ different) (NN mp3) (NNS encoders))))) (VP (VBZ shows) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ subtle) (NNS differences)) (PP (IN in) (NP (PRP$ their) (NNS outputs)))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ tries) (S (VP (TO to) (VP (VB fill) (NP (DT these) (NNS gaps)))))) (. .))

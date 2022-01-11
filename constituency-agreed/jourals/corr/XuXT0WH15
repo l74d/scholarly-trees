@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NNS topics)) (PP (IN of) (NP (JJ certain) (NN granularity)))) (VP (VBP are) (RB not) (ADJP (JJ adequate) (S (VP (TO to) (VP (VB represent) (NP (DT the) (JJ intrinsic) (JJ semantic) (NN information))))))) (. .))
+(S (NP (PRP We)) (VP (VBP carry) (PRT (RP out)) (NP (JJ extensive) (NNS experiments)) (PP (PP (IN on) (NP (CD one) (JJ short) (NN text) (NN dataset))) (CONJP (RB as) (RB well) (IN as)) (PP (IN on) (NP (CD one) (JJ normal) (NN text) (NN dataset))))) (. .))

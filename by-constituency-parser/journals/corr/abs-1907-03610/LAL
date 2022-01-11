@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN discretization)) (PP (IN of) (NP (DT the) (JJ multi-dimensional) (JJ stationary) (JJ compressible) (JJ Navier-Stokes) (NNS equations))) (VP (VBG combining) (NP (JJ finite) (NN element) (CC and) (JJ finite) (NN volume) (NNS techniques))))) (. .))

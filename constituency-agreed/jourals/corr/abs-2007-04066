@@ -1,0 +1,1 @@
+(S (S (VP (VBG Reducing) (NP (NP (DT the) (NN frequency)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (JJ redundant) (NN information)) (VP (VBZ is) (VP (VBN stored)))))))) (VP (VBZ lessens) (NP (DT the) (NN runtime) (NN overhead))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (NN architecture)) (PP (IN for) (NP (NN network) (JJ forensic) (NN system))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN difference)) (PP (IN between) (NP (NP (PRP$ our) (VBN proposed) (NN architecture)) (CC and) (NP (JJ other) (NNS systems))))) (VP (VBZ is) (PP (IN in) (NP (NN analysis) (NN component)))) (. .))

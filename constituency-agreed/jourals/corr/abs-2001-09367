@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN problem))))) (NP (PRP we)) (VP (VBP have) (VP (VBN developed) (NP (NP (DT a) (NNP Gibbs) (NN sampler)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB update) (NP (NP (DT an) (JJ entire) (NN row)) (PP (IN of) (NP (DT the) (NN feature) (NN allocation) (NN matrix)))) (PP (IN in) (NP (DT a) (JJ single) (NN move)))))))))) (. .))

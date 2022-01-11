@@ -1,0 +1,2 @@
+(S (NP (NP (DT All) (NNS stages)) (PP (IN of) (NP (NP (DT the) (NN framework) (POS 's)) (NN pipeline)))) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT an) (JJ automatic) (NN fashion))))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (DT the) (JJ optimal) (NN focus)) (VP (VBZ is) (VP (VBN selected) (S (VP (VBG using) (NP (DT the) (JJ absolute) (NN gradient) (NN method)))))) (. .))

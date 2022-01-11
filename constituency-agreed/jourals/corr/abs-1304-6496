@@ -1,0 +1,3 @@
+(S (SBAR (IN While) (S (NP (DT these) (NNS solutions)) (VP (VBP enjoy) (NP (JJ excellent) (NN throughput) (NN performance))))) (, ,) (NP (DT a) (JJ fundamental) (NN drawback)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NN feedback) (NN information)))))))) (. .))
+(S (NP (DT A) (JJ second) (NN advantage)) (VP (VBZ is) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB handle) (NP (JJ unlimited) (JJ spatial) (NN coverage))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (RB instead) (IN of) (S (VP (VBG reusing) (NP (NN frequency))))) (, ,) (NP (DT the) (JJ new) (NN approach)) (VP (VBZ allows) (S (NP (NN transmission) (NNS sequences)) (VP (VB be) (VP (VBN reused))))) (. .))

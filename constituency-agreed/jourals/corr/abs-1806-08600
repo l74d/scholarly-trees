@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN generator) (NN network)) (VP (VBZ is) (VP (VBN regularized) (PP (IN with) (NP (NP (DT an) (JJ additional) (NN face) (NN dataset)) (CC and) (NP (JJ adversarial) (NN loss)))) (S (VP (TO to) (VP (VB decrease) (NP (NP (DT the) (NN overfitting)) (PP (IN of) (NP (DT the) (JJ limited) (NNS samples))))))))) (. .))

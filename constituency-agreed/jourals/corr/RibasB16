@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT the) (JJ last) (NNS years))) (, ,) (NP (NP (JJ different) (NNS methods)) (PP (IN for) (NP (NP (NN analysis)) (PP (IN of) (NP (ADJP (JJ dynamic) (CC and) (JJ static)) (NNS textures)))))) (VP (VBD were) (VP (VBN proposed))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ requires) (NP (JJ much) (NN runtime))) (. .))
+(S (S (NP (NN Feature) (NNS vectors)) (VP (VBD were) (VP (VBN extracted)))) (CC and) (S (NP (DT a) (NN classification) (NN process)) (VP (VBD was) (VP (VBN performed) (PP (IN for) (NP (NP (JJ different) (NNS percentages)) (PP (IN of) (NP (JJ initial) (NNS points)))))))) (. .))

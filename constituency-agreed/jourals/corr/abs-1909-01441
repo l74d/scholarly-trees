@@ -1,0 +1,2 @@
+(S (NP (NN Everyone)) (VP (VBZ makes) (NP (NNS mistakes))) (. .))
+(S (NP (JJ Such) (NN label) (NNS mistakes)) (VP (MD might) (VP (VP (VB hurt) (NP (NN model) (NN training))) (CC and) (VP (VB interfere) (NP (NN model) (NN comparison))))) (. .))

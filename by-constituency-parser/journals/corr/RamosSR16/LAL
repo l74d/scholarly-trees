@@ -1,0 +1,5 @@
+(S (NP (DT A) (ADJP (JJ co-evolutionary) (NN algorithm)) (PRN (-LRB- -LRB-) (NNP CA) (-RRB- -RRB-)) (VBN based) (NN chess) (NN player)) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NP (NNP Implementation) (NNS details)) (PP (IN of) (NP (DT the) (NN algorithms))) (, ,) (ADVP (RB namely)) (NP (VBG coding) (, ,) (NN population) (, ,) (NN variation) (NNS operators))) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (NP (DT The) (ADJP (JJ alpha-beta) (CC or) (JJ mini-max) (IN like)) (NN behaviour)) (PP (IN of) (NP (DT the) (NN player)))) (VP (VBZ is) (VP (VBN achieved) (PP (IN through) (NP (CD two) (ADJP (JJ competitive) (CC or) (JJ cooperative)) (NNS populations))))) (. .))
+(S (NP (JJ Special) (NN attention)) (VP (VBZ is) (VP (VBN given) (PP (TO to) (NP (NP (DT the) (NN fitness) (NN function) (NN evaluation)) (PRN (-LRB- -LRB-) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (DT the) (NN solution)))) (-RRB- -RRB-)))))) (. .))
+(S (NP (NP (NNP Test) (NNS results)) (PP (IN on) (NP (NP (JJ algorithms)) (PP (FW vs.) (NP (NP (NN algorithms)) (CC or) (NP (JJ human) (NN player))))))) (VP (VBZ is) (VP (VBN provided))) (. .))

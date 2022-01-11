@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (JJ global) (NN content)) (VP (VBZ is) (VP (VBN transmitted) (PP (IN with) (NP (NP (JJ high) (NN priority) (NN layer)) (PP (IN of) (NP (DT the) (JJ hierarchical) (NN modulation)))))))) (, ,) (CC and) (S (NP (DT the) (JJ local) (NN content)) (VP (VBZ is) (VP (VBN modulated) (PP (IN with) (NP (NP (DT the) (JJ low) (NN priority) (NN layer)) (PP (IN of) (NP (DT the) (JJ hierarchical) (NN modulation)))))))) (. .))
+(S (NP (DT The) (NN satellite)) (VP (VBZ transmits) (NP (JJ global) (NN content)) (ADVP (RB only))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (PP (IN on) (NP (NNP KITTI) (NNP ROAD) (NN dataset)))))) (CC and) (VP (VBZ has) (NP (JJ competitive) (NN performance)))) (. .))

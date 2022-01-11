@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP extend) (NP (PRP$ our) (NNS data) (NN structure)) (SBAR (JJ such) (IN that) (S (NP (NP (NN equality)) (PP (IN of) (NP (NNS subtrees)))) (VP (MD can) (VP (VB be) (VP (VBN checked) (PP (IN in) (NP (JJ constant) (NN time))))))))) (. .))

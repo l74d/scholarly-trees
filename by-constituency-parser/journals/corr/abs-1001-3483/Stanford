@@ -1,0 +1,2 @@
+(S (VP (VBN Withdrawn) (PP (IN by) (NP (NN arXiv) (NN administration)))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBD was) (VP (VBN plagiarised) (ADVP (RB directly)) (PP (IN from) (NP (NP (DT this) (NN http) (NN URL)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD appeared) (PP (IN in) (NP (NP (DT the) (NN conference)) (NP (NNP INFOCOM) (CD 2009))))))))))) (. .))

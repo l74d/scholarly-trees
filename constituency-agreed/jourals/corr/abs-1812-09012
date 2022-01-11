@@ -1,0 +1,3 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (NP (JJ several) (JJ typical) (NN application) (NNS scenarios)) (PP (IN of) (NP (NNP LoRa) (NN network)))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (NNP LoRa) (NN system) (NN architecture)) (VP (VBZ is) (VP (VBN presented) (PP (IN with) (NP (NP (DT the) (NN functionality)) (PP (IN of) (NP (DT each) (NN component))))))) (. .))
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NN hardware) (NN design) (CC and) (NN implementation)) (PP (IN of) (NP (NP (NNP LoRa) (NNP Gateway)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN bridge)) (PP (IN between) (NP (NP (NNP LoRa) (NNS nodes)) (CC and) (NP (NNP LoRa) (NN network) (NN server)))))))))))) (. .))

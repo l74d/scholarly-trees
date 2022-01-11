@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP explore) (NP (NP (DT the) (NN phase) (NN diagram)) (PP (IN of) (NP (NP (NN approximation) (NNS rates)) (PP (IN for) (NP (JJ deep) (JJ neural) (NNS networks))))))) (. .))
+(S (NP (PRP$ Our) (NN contribution)) (VP (VBZ is) (ADJP (JJ three-fold))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN phase) (NN diagram)) (VP (MD can) (VP (VB change) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ non-ReLU) (NN activation) (NNS functions)))))))))) (. .))

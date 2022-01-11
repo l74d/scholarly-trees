@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (NN criterion)) (PP (IN of) (NP (NML (NNP MDS) (NNP Euclidean)) (ADJP (NN self) (HYPH -) (JJ orthogonal)) (NNS codes)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NP (NML (NNP New) (NNP MDS) (NNP Euclidean)) (ADJP (NN self) (HYPH -) (JJ dual)) (NNS codes)) (CC and) (NP (ADJP (NN self) (HYPH -) (JJ orthogonal)) (NNS codes))) (VP (VBP are) (VP (VBN constructed) (PP (IN via) (NP (DT this) (NN criterion))))) (. .))

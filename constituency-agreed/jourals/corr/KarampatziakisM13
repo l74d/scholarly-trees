@@ -1,0 +1,1 @@
+(S (S (VP (VBG Representing) (NP (NNS examples)) (PP (IN in) (NP (NP (DT a) (NN way)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ compatible) (PP (IN with) (NP (DT the) (VBG underlying) (NN classifier))))))))))) (VP (MD can) (ADVP (RB greatly)) (VP (VB enhance) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (NN learning) (NN system)))))) (. .))

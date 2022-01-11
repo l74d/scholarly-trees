@@ -1,0 +1,1 @@
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (JJ practical) (NNS applications))))) (, ,) (NP (DT the) (NN deletion) (NN process)) (VP (VP (VBZ is) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (JJ bursty))))))) (CC and) (VP (VBZ is) (VP (VBN modeled) (PP (IN by) (NP (DT a) (NNP Markov) (NN chain)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN fusion)) (PP (IN of) (NP (NN information)))) (VP (VBZ is) (VP (VBN done) (S (VP (VBG using) (NP (NP (JJ multiple) (NNS features)) (PP (JJ such) (IN as) (NP (NP (JJ optical) (NN flow)) (, ,) (NP (NN divergence)) (CC and) (NP (NN intensity) (NNS values))))))))) (. .))
+(S (NP (DT This) (JJ unsupervised) (NN approach)) (VP (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (JJ various) (NNS images))))) (CC and) (VP (VBZ achieves) (NP (NP (DT a) (JJ frame-wise) (NN fire) (NN detection) (NN rate)) (PP (IN of) (NP (CD 95.39) (NN %)))))) (. .))

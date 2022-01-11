@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (PRP$ our) (VBG winning) (NN solution)) (PP (IN for) (NP (DT the) (NNP WSDM) (NNP Cup) (CD 2017) (NN triple) (VBG scoring) (NN task))))) (. .))
+(S (NP (PRP We)) (VP (VBP devise) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (CD four) (NN base) (NNS scorers)))) (, ,) (SBAR (RB so) (IN as) (S (VP (TO to) (VP (VB leverage) (NP (NP (DT the) (NN power)) (PP (IN of) (NP (DT both) (NN text) (CC and) (NN knowledge) (NNS bases))) (PP (IN for) (NP (DT that) (NN task))))))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (ADVP (VBP further)) (VB refine) (NP (NP (DT the) (NNS outputs)) (PP (IN of) (NP (DT the) (JJ ensemble)))) (PP (IN by) (NP (NN trigger) (NN word) (NN detection))) (, ,) (S (VP (VBG achieving) (NP (ADJP (RB even) (RBR better)) (JJ predictive) (NN accuracy))))) (. .))
+(S (NP (DT The) (NN code)) (VP (VBZ is) (ADJP (JJ available)) (PP (IN at) (NP (DT this) (NN https) (NNP URL)))))

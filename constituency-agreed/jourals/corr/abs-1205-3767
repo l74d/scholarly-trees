@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP combine) (NP (NP (DT the) (NN method)) (PP (IN of) (NP (JJ randomized) (NN calibration)))) (PP (IN with) (NP (NP (NP (NNP Vovk) (POS 's)) (NN method)) (PP (IN of) (NP (NP (JJ defensive) (NN forecasting)) (PP (IN in) (NP (NNP RKHS)))))))) (. .))
+(S (PP (IN Unlike) (NP (DT the) (JJ statistical) (NN theory))) (, ,) (NP (DT no) (JJ stochastic) (NNS assumptions)) (VP (VBP are) (VP (VBN made) (PP (IN about) (NP (DT the) (NN stock) (NNS prices))))) (. .))

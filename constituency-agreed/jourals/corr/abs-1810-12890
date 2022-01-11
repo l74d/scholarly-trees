@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (NP (NP (DT a) (JJ structured) (NN form)) (PP (IN of) (NP (NN dropout)))) (VP (VBZ is) (VP (VBN needed) (S (VP (TO to) (VP (VB regularize) (NP (JJ convolutional) (NNS networks))))))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP DropBlock)) (VP (VBZ works) (ADVP (ADVP (RBR better)) (PP (IN than) (NP (NN dropout)))) (PP (IN in) (S (VP (VBG regularizing) (NP (JJ convolutional) (NNS networks))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Relational) (NNS databases)) (VP (VBP are) (NP (NP (JJ valuable) (NNS resources)) (PP (IN for) (S (VP (VBG learning) (NP (ADJP (JJ novel) (CC and) (JJ interesting)) (NNS relations) (CC and) (NNS concepts))))))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (S (VP (VBG specifying) (NP (DT the) (NN language) (NN bias)))) (VP (VP (VBZ is) (VP (VBN done) (PP (IN via) (NP (NN trial) (CC and) (NN error))))) (CC and) (VP (VBZ is) (VP (VBN guided) (PP (IN by) (NP (NP (DT the) (NN expert) (POS 's)) (NNS intuitions)))))) (. .))

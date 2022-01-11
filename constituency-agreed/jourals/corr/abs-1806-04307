@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN girth)) (PP (IN of) (NP (DT a) (NN graph)))) (VP (VBZ is) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (PRP$ its) (JJS shortest) (NN cycle))))) (. .))
+(S (SBAR (IN As) (S (NP (DT a) (JJ large) (NN girth)) (VP (VBZ is) (NP (NP (NN index)) (PP (IN of) (NP (NN sparsity))))))) (, ,) (NP (DT this)) (VP (VBZ allows) (S (VP (TO to) (VP (VB extract) (NP (JJ sparse) (NNS structures)) (PP (IN from) (NP (DT the) (NN input) (NN graph))))))) (. .))

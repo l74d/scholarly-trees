@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (, ,) (NP (NP (CD two) (NN distance) (NNS vectors)) (, ,) (VP (VBN obtained) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN pair)) (PP (IN of) (NP (JJ linear) (NNS representations))))))) (, ,)) (VP (VBP are) (VP (VBN fused) (ADVP (RB together)) (PP (IN via) (NP (DT a) (JJ novel) (JJ collaborative) (NN weight))))) (. .))

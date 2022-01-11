@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ formal) (NN correctness)) (PP (IN of) (NP (NP (DT a) (NN model) (POS 's)) (NN behaviour)))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (NP (DT The) (NN algorithm)) (PP (IN for) (NP (NP (DT an) (JJ automatic) (NN generation)) (PP (IN of) (NP (JJ logical) (NNS specifications)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

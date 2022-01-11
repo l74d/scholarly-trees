@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN conclusion)) (VP (VBZ suggests) (SBAR (WHADVP (WRB how)) (S (NP (PRP we)) (VP (MD should) (VP (VB control) (NP (DT the) (JJ stochastic) (NN gradient) (NNS iterations)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NN convergence)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Results)) (VP (VP (VBP are) (VP (VBN made) (S (ADJP (JJ anonymous))))) (CC and) (VP (VBP are) (VP (VBN randomised)))) (. .))
+(S (NP (NNS Results)) (VP (VBP are) (VP (VBN judged) (PP (IN by) (NP (NP (DT the) (NNS persons)) (VP (VBG posing) (NP (DT the) (JJ original) (NNS queries))))))) (. .))

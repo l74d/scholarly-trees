@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ important)) (NN standard)) (PP (IN in) (NP (JJ wireless) (JJ local) (NN area) (NNS networks)))) (VP (VBZ is) (NP (NNP IEEE) (CD 802.11))) (. .))
+(S (NP (DT These) (NNS differences)) (VP (VBP are) (VP (VBN employed) (S (VP (TO to) (VP (VB achieve) (NP (DT a) (ADJP (RBR more) (JJ accurate)) (NN estimation))))))) (. .))

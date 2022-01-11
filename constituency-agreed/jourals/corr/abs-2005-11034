@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (PDT all) (DT the) (NNS components)) (PP (IN in) (NP (DT the) (NN network)))) (VP (VBP are) (VP (VBN kept) (S (ADJP (JJ lightweight))))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NNP BCPNet)) (VP (VBZ has) (VP (VBN achieved) (NP (NP (DT a) (JJ good) (NN balance)) (PP (IN between) (NP (NN accuracy) (CC and) (NN speed))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NNS signals)))) (VP (VP (VBP are) (VP (VBN collected))) (CC and) (VP (MD should) (VP (VB be) (VP (VBN classified) (S (VP (TO to) (VP (VB identify) (NP (NP (DT the) (NN intention)) (PP (IN of) (NP (DT the) (NN subject))))))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (MD could) (VP (VB find) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (NNS channels)))))) (. .))
+(S (NP (NP (DT The) (NN accuracy)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (VP (VBZ is) (ADJP (JJ comparable) (PP (IN with) (NP (NP (DT a) (NN model)) (VP (VBN trained) (PP (IN on) (NP (DT all) (NNS channels)))))))) (. .))

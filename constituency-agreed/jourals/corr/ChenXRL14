@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NP (NN fluid) (NN flow)) (PP (IN in) (NP (DT a) (NN pipeline)))) (VP (VBZ is) (ADVP (RB suddenly)) (VP (VBN halted))))) (, ,) (NP (DT a) (NN pressure) (NN surge) (CC or) (NN wave)) (VP (VBZ is) (VP (VBN created) (PP (IN within) (NP (DT the) (NN pipeline))))) (. .))

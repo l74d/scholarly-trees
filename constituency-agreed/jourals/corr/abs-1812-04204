@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ binaural) (NNS recordings)) (VP (VP (VBP are) (ADJP (RB scarcely) (JJ available))) (CC and) (VP (VBP require) (NP (JJ nontrivial) (NN expertise) (CC and) (NN equipment)) (S (VP (TO to) (VP (VB obtain)))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB convert) (NP (JJ common) (JJ monaural) (NN audio)) (PP (IN into) (NP (JJ binaural) (NN audio))) (PP (IN by) (S (VP (VBG leveraging) (NP (NN video))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN sentiment)) (PP (IN of) (NP (DT the) (NN emojis)))) (VP (VBZ is) (VP (VBN computed) (PP (IN from) (NP (NP (DT the) (NN sentiment)) (PP (IN of) (NP (NP (DT the) (NNS tweets)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP they)) (VP (VBP occur)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN proposal)) (VP (VBZ is) (VP (VBN substantiated) (PP (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (JJ experimental) (NNS programs))))) (CC and) (PP (IN with) (NP (JJ various) (NN test) (NNS cases)))))) (. .))
+(S (NP (NP (DT The) (NN idea)) (PP (IN of) (NP (JJ parallel) (NN programming)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN brought) (PP (IN into) (NP (NN picture))) (SBAR (IN as) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (ADVP (RB effectively)) (VP (VBN used) (PP (IN in) (NP (DT a) (NN multiprocessor) (NN system)))))))))) (. .))

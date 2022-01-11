@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB demonstrate) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN framework))))))) (, ,) (NP (PRP we)) (VP (VBD conducted) (NP (NNS experiments)) (PP (IN on) (NP (NP (CD three) (NN benchmark) (NN emotion) (NNS datasets)) (PP (VBG including) (NP (NN eNTERFACE) (, ,) (NNP SAVEE) (, ,) (CC and) (NNP EMODB)))))) (. .))

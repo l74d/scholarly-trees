@@ -1,0 +1,4 @@
+(S (NP (NNS Skyrmions)) (VP (VBP are) (NP (NP (ADJP (ADJP (RB topologically) (VBN protected)) (CC and) (ADJP (RB structurally) (JJ assymetric))) (NNS materials)) (PP (IN with) (NP (DT an) (JJ exotic) (NN spin) (NN composition))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ presents) (NP (NP (JJ deep) (NN learning) (NN method)) (PP (IN for) (NP (NP (NN skyrmion) (NN material) (NN design)) (PP (IN of) (NP (JJ chiral) (NNS crystals))))))) (. .))
+(S (NP (NP (DT A) (JJ quantitative) (NN predictor)) (PP (IN for) (NP (NP (NN accuracy)) (PP (IN of) (S (VP (VBG forming) (NP (DT the) (JJ chiral) (NNS crystals)))))))) (VP (VBZ is) (VP (VBN illustrated))) (. .))
+(S (NP (NP (DT The) (NN feasibility)) (PP (IN of) (NP (NNP ANN) (NN method)))) (VP (VBZ is) (VP (VBN tested) (PP (IN in) (NP (DT a) (JJ comprehensive) (NN manner))) (PP (IN by) (S (VP (VBG comparing) (PP (IN with) (NP (JJ probalistic) (NN classifier) (NN method)))))))) (. .))

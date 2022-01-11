@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ follows) (NP (NP (JJ previous) (NN research)) (SBAR (S (NP (PRP we)) (VP (VBP have) (ADVP (RB already)) (VP (VBN performed) (PP (IN in) (NP (NP (DT the) (NN area)) (PP (IN of) (NP (NML (JJ Bayesian) (NNS networks)) (NNS models))))) (PP (IN for) (NP (NN CAT))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NNS models)) (S (VP (VBG using) (NP (NP (NN Item) (NN Response) (NN Theory) (PRN (-LRB- -LRB-) (NP (NML (NML (NN IRT)) (HYPH -) (NML (JJ standard) (NN CAT))) (NN method)) (-RRB- -RRB-))) (, ,) (NP (JJ Bayesian) (NNS networks)) (, ,) (CC and) (NP (JJ neural) (NNS networks)))))) (. .))
+(S (NP (PRP We)) (VP (VBD conducted) (NP (JJ simulated) (NN CAT) (NNS tests)) (PP (IN on) (NP (JJ empirical) (NNS data)))) (. .))
+(S (NP (NP (NNS Results)) (PP (IN of) (NP (DT these) (NNS tests)))) (VP (VBP are) (VP (VP (VBN presented) (PP (IN for) (NP (DT each) (NN model))) (ADVP (RB separately))) (CC and) (VP (VBN compared)))) (. .))

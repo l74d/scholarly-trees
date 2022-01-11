@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ matches) (NP (NP (DT the) (JJS best) (NN complexity) (JJ upper) (NN bound)) (VP (VBN known) (PP (IN for) (NP (DT this) (NN problem)))))) (. .))
+(S (NP (JJ Experimental) (NNS data)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ is) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NP (DT an) (ADJP (RB already) (VBG existing)) (NN algorithm)) (PP (IN in) (NP (DT the) (NN literature)))))))))) (. .))

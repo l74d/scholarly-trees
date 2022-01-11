@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (NP (DT some) (JJ important) (NNS properties)) (PP (IN of) (NP (DT these) (JJ theoretical) (NNS tools)))))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNS constraints)) (VP (MD can) (VP (VB be) (VP (VBN validated) (PP (IN at) (NP (DT all) (NNS times))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN validated) (PP (IN through) (NP (NP (JJ extensive) (NNS simulations)) (PP (IN over) (NP (JJ standard) (JJ autonomous) (JJ aerial) (NN vehicle) (NNS dynamics))))))) (. .))

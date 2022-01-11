@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (DT a) (JJ countless) (NN number)) (PP (IN of) (NP (NP (NNS fonts)) (PP (IN with) (NP (JJ various) (NNS shapes) (CC and) (NNS styles))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN method)) (PP (IN of) (S (VP (VBG determining) (SBAR (IN if) (S (NP (DT any) (CD two) (NNS characters)) (VP (VBP are) (PP (IN from) (NP (DT the) (JJ same) (NN font))))) (CC or) (RB not))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN experiment))) (, ,) (NP (DT the) (NN network)) (VP (VBZ is) (VP (VBN trained) (PP (IN on) (NP (NP (NN image) (NNS pairs)) (PP (IN of) (NP (JJ various) (NNS fonts))))))) (. .))

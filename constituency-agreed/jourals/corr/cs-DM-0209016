@@ -1,0 +1,2 @@
+(S (S (NP (DT An) (NN algorithm)) (VP (VBZ is) (VP (VBN given) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN sorting) (NN problem)))))))) (CC and) (S (NP (DT the) (JJ minimal) (JJ unsortable) (NNS sequences)) (VP (VBP are) (VP (VBN found)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN context))) (NP (PRP we)) (ADVP (RB also)) (VP (VB establish) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB enumerate) (NP (NP (DT the) (NN collection)) (PP (IN of) (NP (JJ sortable) (NNS sequences))))))))) (. .))

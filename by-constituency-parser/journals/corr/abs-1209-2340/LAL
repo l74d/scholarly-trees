@@ -1,0 +1,2 @@
+(S (NP (NNP ZK111)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB fully) (JJ homomorphic)) (JJ public) (NN key) (NN encryption) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ runs) (PP (IN in) (NP (JJ quadratic) (NN time)))))))) (. .))
+(S (NP (NP (PRP It) (VBZ 's)) (NN security)) (VP (ADVP (RB solely)) (VBZ relies) (PP (IN upon) (NP (NP (DT a) (ADJP (RB very) (JJ unique)) (CD 'color-blind) (POS ›) (NN function)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB create) (NP (JJ p-adic) (NN ring) (NN homomorphism)))))))))))) (. .))

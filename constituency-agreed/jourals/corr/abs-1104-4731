@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP define) (NP (NP (DT a) (JJ discrete) (JJ dynamical) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ governs) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (NP (DT a) (NN population)) (PP (IN of) (NP (NNS agents))))))))))) (. .))
+(S (PP (IN From) (NP (DT the) (JJ dynamical) (NN system))) (, ,) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (NNP Differential) (NNP Evolution)))) (VP (VBZ is) (VP (VBN derived))) (. .))

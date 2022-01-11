@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN method))) (, ,) (NP (DT the) (NN loss) (NN function)) (VP (VBZ stems) (ADVP (RB directly)) (PP (IN from) (NP (DT the) (JJ optimal) (NN control) (NN problem)))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN approximation)) (CC and) (NP (DT the) (NN estimation) (NNS errors)))) (. .))
+(S (NP (JJ Several) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN provided))) (. .))

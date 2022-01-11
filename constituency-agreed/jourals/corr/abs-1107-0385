@@ -1,0 +1,1 @@
+(S (S (NP (NP (NNS Applications)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBP are) (VP (VBN highlighted) (PP (IN through) (NP (CD two) (NNS examples)))))) (: :) (S (NP (DT the) (JJ first)) (VP (VBZ provides) (NP (NN verification)) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ second)) (VP (VBZ demonstrates) (NP (DT a) (JJ non-trivial) (NN application))))))) (. .))

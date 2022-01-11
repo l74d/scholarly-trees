@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ does) (NP (NN segmentation) (CC and) (NN classification)) (ADVP (RB sequentially)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ alleviates) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN label) (NN distribution) (NN bias))))) (CC and) (VP (VBZ facilitates) (NP (NN training))))))) (. .))

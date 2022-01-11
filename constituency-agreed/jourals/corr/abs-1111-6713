@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN technique)) (VP (VP (VBZ increases) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NNS results))))) (CC and) (VP (VBZ decreases) (NP (NP (DT the) (NN execution) (NN time)) (PP (IN of) (S (VP (VBG processing) (NP (NP (DT the) (NN user) (POS 's)) (NN query)))))))) (. .))

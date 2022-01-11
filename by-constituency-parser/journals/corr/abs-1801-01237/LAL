@@ -1,0 +1,3 @@
+(S (NP (PRP I)) (VP (VBP have) (VP (VBN submitted) (NP (DT a) (JJ new) (NN version)) (PP (TO to) (NP (VB arXiv:1910.11174))))) (. .))
+(S (NP (PRP I)) (VP (VP (VBP forget) (S (VP (TO to) (VP (VB choose) (S (VP (TO to) (VP (VB replace) (NP (DT the) (JJ old) (NN version))))))))) (, ,) (CC but) (VP (VBD submitted) (NP (DT a) (JJ new) (CD one)))) (. .))
+(S (NP (PRP It)) (VP (VBZ 's) (NP (PRP$ my) (NN mistake))) (. .))

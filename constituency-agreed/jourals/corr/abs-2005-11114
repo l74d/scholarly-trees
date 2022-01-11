@@ -1,0 +1,2 @@
+(S (S (VP (VBG Switching) (NP (NP (DT a) (JJ single) (NN state)) (PP (IN of) (NP (DT the) (JJ double) (NNS integrators)))))) (VP (MD can) (VP (VB modify) (NP (NP (DT the) (NN nature)) (PP (IN of) (NP (DT the) (JJ nonlinear) (NN system)))))) (. .))
+(S (NP (DT The) (NN effectiveness)) (VP (VBZ is) (VP (VBN validated) (PP (IN by) (NP (DT a) (NN simulation) (NN result))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN advertisement)) (VP (VBZ is) (VP (VBN treated) (PP (IN as) (NP (DT an) (JJ external) (NN force))))) (. .))
+(S (NP (NP (DT The) (NNS parameters)) (SBAR (S (VP (TO to) (VP (VB define) (NP (NP (DT the) (NN strength)) (PP (IN of) (NP (JJ human) (NNS interactions))))))))) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (NP (JJ constant) (NNS values))))))) (. .))

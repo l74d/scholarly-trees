@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Many) (NNS bounds)) (PP (IN on) (NP (DT the) (NNP Bayes) (JJ binary) (NN classification) (NN error) (NN rate)))) (VP (VB depend) (PP (IN on) (NP (NP (NN information) (NNS divergences)) (PP (IN between) (NP (NP (DT the) (NN pair)) (PP (IN of) (NP (NN class) (NNS distributions)))))))) (. .))

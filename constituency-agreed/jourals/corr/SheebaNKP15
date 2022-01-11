@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB place) (NP (NP (JJ minimum) (NN number)) (PP (IN of) (NP (NNP Mesh) (NNS routers) (CC and) (NNS gateways)))) (PP (IN in) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN candidate) (NN location))))))))) (. .))
+(S (NP (DT The) (NN mesh) (NNS nodes)) (VP (VBP are) (VP (VBN powered) (S (VP (VBG using) (NP (DT the) (JJ solar) (NN energy)) (S (VP (TO to) (VP (VB meet) (NP (DT the) (NN traffic) (NNS demands))))))))) (. .))

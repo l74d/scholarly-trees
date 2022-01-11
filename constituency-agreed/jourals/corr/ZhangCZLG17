@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (MD can) (ADVP (RB automatically)) (VP (VB select) (NP (NP (DT the) (ADJP (RBS most) (JJ similar)) (NN impostor)) (PP (IN for) (NP (DT each) (NN target) (NN speaker)))) (S (VP (TO to) (VP (VB train) (NP (DT the) (NN network))))))) (. .))

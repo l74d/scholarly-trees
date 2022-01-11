@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Clinical) (NNS trials)) (PP (IN in) (NP (DT the) (JJ medical) (NN domain)))) (VP (VBP are) (VP (VBN constrained) (PP (IN by) (NP (NNS budgets))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ aims) (S (VP (TO to) (VP (VB maximize) (NP (NN drug) (NN efficacy)) (PP (IN within) (NP (DT the) (JJ clinical) (NN trial))) (SBAR (IN while) (S (ADVP (RB also)) (VP (VBG learning) (PP (IN about) (NP (NP (DT the) (NN drug)) (VP (VBG being) (VP (VBN tested)))))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ aims) (S (VP (TO to) (VP (VB avoid) (NP (JJ unsafe) (NNS dosages)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ posits) (SBAR (IN that) (S (NP (NP (NNS data)) (PP (IN from) (NP (DT each) (NN view)))) (VP (VBZ is) (ADJP (JJ independent)) (S (VP (VBN conditioned) (PP (IN on) (NP (DT the) (VBN shared) (NNS variables))))))))) (. .))

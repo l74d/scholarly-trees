@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ inherent) (NNP GPU) (NN hardware) (NNS constraints)) (VP (VBP limit) (NP (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (JJ recoverable) (NN signal)))) (CC and) (NP (NP (DT the) (NN speedup)) (ADJP (RB practically) (JJ achievable))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP explore) (NP (CD two) (NNS possibilities))) (. .))
+(S (PP (IN For) (NP (DT both) (NNS cases))) (, ,) (NP (NP (DT the) (NNS poles)) (PP (IN of) (NP (DT the) (NN basis) (NNS functions)))) (VP (VBP are) (VP (VP (VBN treated) (PP (IN as) (NP (NNS hyperparameters)))) (CC and) (VP (VBN estimated) (PP (IN by) (NP (JJ empirical) (NNP Bayes) (NN method)))))) (. .))

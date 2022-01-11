@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS experiments)) (VP (VBP are) (VP (VBN implemented) (PP (IN on) (NP (DT the) (NNP TensorFlow) (NN platform))) (S (VP (TO to) (VP (VB make) (S (NP (PRP it)) (ADJP (JJ scalable) (PP (TO to) (NP (JJ big) (NNS datasets)))))))))) (. .))

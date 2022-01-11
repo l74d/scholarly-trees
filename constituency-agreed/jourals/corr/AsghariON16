@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (NP (DT the) (JJ local) (NNS controllers)) (CC and) (NP (DT the) (JJ remote) (NN controller))))) (VP (VBZ is) (S (VP (TO to) (ADVP (RB cooperatively)) (VP (VB minimize) (NP (DT a) (JJ quadratic) (NN performance) (NN cost)))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NNS results)) (PP (IN with) (NP (NP (JJ numerical) (NNS experiments)) (VP (VBG using) (NP (ADJP (RB randomly) (VBN generated)) (NNS models)))))) (. .))

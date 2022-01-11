@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ second) (NN approach)) (VP (VBZ uses) (NP (NP (JJ greedy) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP compute) (NP (NP (DT the) (NN support)) (PP (IN of) (NP (DT the) (NN signal)))) (ADVP (RB iteratively))))))) (. .))

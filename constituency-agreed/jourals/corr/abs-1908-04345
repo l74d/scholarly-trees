@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VP (VBP lack) (NP (JJ theoretical) (NN support))) (CC and) (VP (MD can) (RB not) (VP (VB explain) (SBAR (WHADVP (WRB why)) (S (NP (NNS predictions)) (VP (VBP are) (NP (NP (JJ good) (NNS candidates)) (PP (IN for) (NP (NNS pseudo-labels)))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (S (VP (VBG updating) (NP (NNS pseudo-labels)) (PP (IN by) (NP (NN network) (NNS predictions))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (ADJP (JJ uncertain)))))))) (. .))

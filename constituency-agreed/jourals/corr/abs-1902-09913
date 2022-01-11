@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS problems)) (VP (VBP undermine) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (NN classifier))))) (. .))
+(S (S (VP (TO To) (VP (VB enable) (NP (DT this))))) (, ,) (NP (DT the) (NN framework)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD six) (NNS components)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP interact) (PP (IN with) (NP (DT each) (JJ other))))))))) (. .))

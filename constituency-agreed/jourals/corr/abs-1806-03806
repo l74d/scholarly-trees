@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ uses) (NP (NP (JJ minimal) (NN amount)) (PP (IN of) (NP (NN instrumentation))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN implemented) (NP (PRP$ our) (NN approach)) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (DT the) (NNP AFL))))))) (. .))

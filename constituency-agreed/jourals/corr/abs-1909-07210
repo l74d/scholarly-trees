@@ -1,0 +1,1 @@
+(S (NP (NP (PDT All) (DT the) (NNP Markov) (NNS states)) (CC and) (NP (NP (DT the) (NNS transitions)) (PP (IN between) (NP (DT these) (NNS states))))) (VP (VBD were) (VP (VBN assumed) (CC and) (VBN calculated) (PP (IN from) (NP (NP (DT the) (NN control) (NN logic)) (PP (IN for) (NP (DT the) (JJ digital) (NN control) (NN system))))))) (. .))

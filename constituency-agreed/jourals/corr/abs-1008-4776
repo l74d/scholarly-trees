@@ -1,0 +1,2 @@
+(S (S (VP (VBG Stopping) (NP (JJ such) (NNS attacks)))) (VP (VBZ is) (ADJP (JJ difficult)) (SBAR (IN because) (S (NP (NP (NN intervention)) (PP (IN in) (NP (DT any) (NN region) (CC or) (NN route)))) (VP (MD might) (ADVP (RB merely)) (VP (VB shift) (NP (DT the) (NNS terrorists)) (ADVP (RB elsewhere))))))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ represents) (NP (NP (NNS attacks)) (PP (IN on) (NP (JJ different) (NNS countries)))) (PP (IN as) (NP (NP (NNS paths)) (PP (IN in) (NP (DT a) (NN network)))))) (. .))

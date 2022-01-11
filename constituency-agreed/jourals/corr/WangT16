@@ -1,0 +1,3 @@
+(S (ADVP (RB Usually)) (NP (EX there)) (VP (VBP are) (NP (NP (DT some) (JJ implicit) (NNS relations)) (PP (IN between) (NP (DT the) (NNS structures))))) (. .))
+(S (NP (DT The) (JJ different) (NN attention) (NNS mechanisms)) (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (NN detail))))) (. .))
+(S (NP (NP (DT The) (NN superiority)) (PP (IN of) (NP (DT the) (ADJP (NN attention) (VBN based)) (NNP RNN) (NN model)))) (VP (VBZ is) (VP (VBN shown) (PP (IN by) (NP (DT the) (JJ experimental) (NNS results))))) (. .))

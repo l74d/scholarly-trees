@@ -1,0 +1,1 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB robustify) (NP (DT a) (NN network)))))) (VP (VBZ increases) (PP (IN with) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (JJ adversarial) (NN noise)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB implement) (NP (ADJP (JJ deterministic) (CC and) (JJ probabilistic)) (NN failure) (NNS scenarios))))))))))) (. .))

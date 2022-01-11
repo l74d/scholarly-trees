@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN computation)) (PP (IN of) (NP (NP (DT a) (JJ linear) (NN trace)) (PP (IN for) (NP (DT each) (NN factor)))))) (VP (VBZ certifies) (NP (DT the) (NN decomposition))) (. .))
+(S (S (VP (VBG Using) (NP (NP (DT the) (JJ same) (NNS concepts)) (PP (IN of) (NP (NP (NN monodromy)) (CC and) (NP (JJ linear) (NN trace))))))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT a) (JJ new) (NN monodromy) (NN breakup) (NN algorithm))) (. .))

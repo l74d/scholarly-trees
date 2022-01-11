@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ is) (NP (NP (DT a) (NN voting) (NN ensemble)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN base) (NN classifier)) (VP (VBZ is) (VP (VBN trained) (PP (IN in) (NP (DT a) (JJ different) (NN feature) (NN space))))))))) (. .))

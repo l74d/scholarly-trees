@@ -1,0 +1,2 @@
+(S (PP (IN In) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (NP (DT the) (NN distribution)) (PP (IN in) (NP (DT the) (NN frequency) (NN domain)))) (VP (VBZ is) (VP (VBN learned) (S (VP (VBG using) (NP (DT the) (NN cross) (NN entropy) (NN loss)))))) (. .))
+(S (PP (IN Unlike) (NP (JJ recent) (NNS approaches))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN reconstructed) (NP (NP (DT the) (NNS details)) (PP (IN of) (NP (DT an) (NN image)))) (PP (IN without) (S (VP (VBG using) (NP (NP (DT the) (NN scheme)) (PP (IN of) (NP (JJ adversarial) (NN training))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN rate) (NN allocation)) (VP (VBZ is) (NP (NP (DT a) (JJ nonconvex) (NN program)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN converted) (PP (IN into) (NP (DT a) (NN convex) (CD one))) (PP (IN by) (S (VP (VBG using) (NP (DT the) (JJ successive) (NN convex) (NN approximation) (NN method))))))))))) (. .))

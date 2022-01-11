@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ has) (NP (NP (NNS applications)) (PP (IN in) (NP (NP (JJ postal) (NN address) (NN reading)) (, ,) (NP (NP (NN bank) (POS 's)) (NN cheque) (NN processing)) (, ,) (CC and) (NP (NP (NN digitization) (CC and) (NN preservation)) (PP (IN of) (NP (NP (JJ handwritten) (NNS manuscripts)) (PP (IN from) (NP (JJ old) (NNS ages)))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ has) (NP (CD two) (NNS goals))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD used) (NP (NP (CD two) (JJ artificial) (JJ neural) (NNS networks)) (: :) (NP (NNP MLP) (CC and) (NNP LSTM)))) (. .))

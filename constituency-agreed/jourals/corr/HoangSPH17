@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT the) (JJ mathematical) (NN model)) (PP (IN of) (NP (DT the) (NN quadcopter)))) (VP (VBZ is) (VP (VBN derived) (S (VP (VBG considering) (NP (NP (NN nonlinearity)) (, ,) (NP (JJ strong) (NN coupling)) (, ,) (NP (JJ uncertain) (NNS dynamics)) (CC and) (NP (JJ external) (NNS disturbances))))))) (. .))
+(S (NP (JJ Extensive) (NNS simulations)) (VP (VBP have) (VP (VBN been) (VP (VBN carried) (PRT (RP out)) (PP (IN for) (NP (NN evaluation)))))) (. .))

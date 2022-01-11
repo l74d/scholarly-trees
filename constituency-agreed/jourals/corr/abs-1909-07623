@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT a) (JJ cross-modal) (JJ optical) (NN flow)) (PP (IN between) (NP (NP (DT the) (NNP RGB) (NN image)) (CC and) (NP (DT the) (NNP ToF) (NN amplitude) (NN image))))) (VP (VBZ is) (VP (VBN estimated) (PP (IN for) (NP (NN alignment))))) (. .))

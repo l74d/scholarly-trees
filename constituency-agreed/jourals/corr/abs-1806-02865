@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN kernel) (NN machine) (NN family)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (ADVP (RB mainly)) (NP (DT the) (JJ complete) (NNS cases))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT these) (NN oracle) (NNS inequalities)) (S (VP (VP (TO to) (VP (VB prove) (NP (NN consistency)))) (CC and) (VP (TO to) (VP (VB calculate) (NP (NN convergence) (NNS rates))))))) (. .))

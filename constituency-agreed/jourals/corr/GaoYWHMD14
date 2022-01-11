@@ -1,0 +1,2 @@
+(S (NP (NN Transshipment) (NN problem)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ basic) (JJ operational) (NN research) (NNS problems))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (NP (NP (JJR lower) (JJ computational) (NN complexity)) (PP (IN than) (NP (NNP Physarum) (NNP Solver))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ provides) (NP (NP (DT an) (JJ empirical) (NN examination)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (NN research) (NN productivity) (NNS distributions)) (VP (VBP differ) (PP (IN across) (NP (JJ scientific) (NNS fields) (CC and) (NNS disciplines))))))))) (. .))
+(S (NP (NNP Productivity)) (VP (VBZ is) (VP (VBN measured) (S (VP (VBG using) (NP (NP (DT the) (NNP FSS) (NN indicator)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ embeds) (NP (NP (DT both) (NN quantity) (CC and) (NN impact)) (PP (IN of) (NP (NN output)))))))))))) (. .))

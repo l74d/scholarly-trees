@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ incorporates) (NP (NP (DT some) (JJ basic) (NN security) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBP mitigate) (NP (JJ certain) (NNS attacks))))))) (. .))
+(S (PP (IN After) (S (VP (VBG identifying) (CC and) (VBG analyzing) (NP (NP (JJ several) (JJ new) (NNS types)) (PP (IN of) (NP (NNS attacks))))))) (, ,) (NP (PRP it)) (VP (VBZ investigates) (NP (PRP$ their) (NNS variations) (, ,) (NNS effects) (CC and) (NNS counter-measures))) (. .))

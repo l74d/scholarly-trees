@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NNS metrics)) (VP (VBP are) (VP (VBN validated) (S (VP (VBG using) (NP (NP (NNP Weyuker) (POS 's)) (NNS properties)))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN applied) (ADVP (RB successfully)) (PP (PP (IN on) (NP (CD two) (NNS examples))) (CC and) (PP (IN on) (NP (DT a) (NN case) (NN study)))))) (. .))

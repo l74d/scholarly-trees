@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Bitcoin) (NN system)) (ADVP (RB only)) (VP (VBZ provides) (NP (JJ eventual) (NN consistency))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN system)) (, ,) (VP (VBN built) (PP (IN on) (NP (DT the) (NNP Bitcoin) (NN blockchain)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ enables) (NP (JJ strong) (NN consistency))))))) (. .))

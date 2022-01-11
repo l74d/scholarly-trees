@@ -1,0 +1,3 @@
+(S (PP (IN As) (NP (CD one) (NN consequence))) (, ,) (NP (DT the) (JJ second) (NN order) (NN convergence)) (VP (VBZ is) (VP (VBN shown))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN method))) (, ,) (NP (DT a) (NN point)) (VP (MD can) (VP (VB move) (PP (IN toward) (NP (NP (DT any) (NN direction)) (PP (IN in) (NP (DT this) (NN coset))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT no) (NN prewhitening)) (VP (VBZ is) (VP (VBN required))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Cities)) (VP (VBP are) (VP (VBN characterized) (PP (IN by) (NP (NP (DT a) (JJ dense) (NN concentration)) (PP (IN of) (NP (NP (NNS buildings)) (CC and) (NP (JJ key) (NNS infrastructures)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (SBAR (WHNP (WP what)) (S (VP (VBZ has) (VP (VBN been) (VP (VBG lacking)))))) (VP (VBZ is) (NP (NP (DT a) (JJ pervasive) (NN sensor) (NN technology)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB monitor) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT these) (NNS structures)))))))))) (. .))

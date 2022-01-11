@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NNP EvoGFuzz)) (VP (VBD managed) (S (VP (TO to) (VP (VB expose) (NP (NP (CD 11) (JJ unique) (NNS defects)) (, ,) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (CD five)) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN detected) (PP (IN by) (NP (DT the) (NN baseline))))))))))))) (. .))

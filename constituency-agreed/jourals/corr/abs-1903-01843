@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT an) (NN evaluation)) (PP (IN on) (NP (NN glibc))))) (, ,) (NP (PRP we)) (VP (VBD found) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS gadgets)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB leak) (NP (NN information)))))))))))))) (. .))

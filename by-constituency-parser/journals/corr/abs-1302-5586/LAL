@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP motivate) (NP (NP (DT the) (NN design) (CC and) (NN implementation)) (PP (IN of) (NP (NP (DT a) (JJ platform-neutral) (NN compute) (JJ intermediate) (NN language)) (PRN (-LRB- -LRB-) (NP (NNP PENCIL)) (-RRB- -RRB-)))) (PP (IN for) (NP (ADJP (JJ productive) (CC and) (JJ performance-portable)) (NN accelerator) (NN programming))))) (. .))

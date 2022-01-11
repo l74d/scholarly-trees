@@ -1,0 +1,3 @@
+(S (PP (IN Around) (NP (NNP Eclipse))) (, ,) (NP (DT an) (JJ international) (JJ live) (NN community)) (ADVP (RB continuously)) (VP (VBZ works) (PP (PP (IN on) (S (VP (VBG improving) (NP (DT the) (NN framework))))) (CC and) (PP (IN on) (S (VP (VBG promoting) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNP Eclipse))))))))) (. .))
+(S (NP (DT That)) (VP (VBZ happens) (ADVP (RB also)) (PP (IN in) (NP (NNP Italy)))) (. .))
+(S (NP (NP (DT The) (JJ special) (NN topic)) (PP (IN of) (NP (DT this) (NN edition)))) (VP (VBZ is) (NP (NP (DT the) (NNP Software) (JJ cooperative) (NN development)) (PP (IN for) (NP (JJ mobile) (NNS applications))))) (. .))

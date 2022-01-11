@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (NP (NN dialog) (NN management)))) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN decomposed) (PP (IN into) (NP (NP (CD two) (JJ sequential) (NNS subtasks)) (: :) (NP (NP (NN dialog) (NN state) (NN tracking)) (CC and) (NP (NN dialog) (NN policy) (NN learning))))))) (. .))
+(S (NP (DT The) (NN state) (NN tracking) (NN task)) (VP (VBZ is) (ADVP (RB primarily)) (VP (VBN meant) (S (VP (TO to) (VP (VB support) (NP (DT a) (NN dialog) (NN policy))))))) (. .))

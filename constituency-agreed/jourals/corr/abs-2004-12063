@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN crux)) (PP (IN of) (NP (PRP$ our) (NN proof)))) (VP (VBZ is) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (DT both) (NNS algorithms)))))) (: :) (S (NP (NP (DT a) (JJ small) (NN perturbation)) (PP (IN of) (NP (DT the) (NN input)))) (VP (VBZ induces) (NP (NP (DT a) (JJ small) (NN perturbation)) (PP (IN of) (NP (DT the) (NN output)))))) (. .))

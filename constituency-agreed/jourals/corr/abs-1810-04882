@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ surprising) (NN property)) (PP (IN of) (NP (NN word) (NNS vectors)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NN word) (NNS analogies)) (VP (MD can) (ADVP (RB often)) (VP (VB be) (VP (VBN solved) (PP (IN with) (NP (NN vector) (NN arithmetic))))))))) (. .))
+(S (NP (PRP$ Our) (NN theory)) (VP (VBZ has) (NP (JJ several) (NNS implications))) (. .))

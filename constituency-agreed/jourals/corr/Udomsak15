@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN theory)) (PP (IN behind) (NP (NP (DT the) (NNP SVM)) (CC and) (NP (DT the) (JJ naive) (NNP Bayes) (NN classifier))))) (VP (VBZ is) (VP (VBN explored))) (. .))
+(S (NP (NN Input) (NNS features)) (VP (VBP are) (VP (VBN selected) (PP (VBN based) (PP (IN on) (NP (NP (JJ previous) (NNS studies)) (PP (IN of) (NP (DT the) (NNP SET100) (NNP Index)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN system)) (PP (VBN based) (PP (IN on) (NP (JJ different) (NN performance) (NNS metrics)))) (PP (IN by) (S (VP (VBG applying) (NP (PRP it)) (PP (IN on) (NP (NP (NN traffic) (NNS traces)) (VP (VBN collected) (PP (IN from) (NP (JJ different) (NNS scenarios)))))))))) (. .))

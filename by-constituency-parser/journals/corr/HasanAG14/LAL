@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (NNS studies) (NP (NP (DT the) (NNP Nash) (NN stability)) (PP (IN in) (NP (JJ hedonic) (NN coalition) (NN formation) (NNS games))))) (. .))
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (JJ following) (NN issue)) (: :) (S (ADJP (ADVP (PP (IN for) (NP (DT a) (JJ general) (NN problem) (NN formulation))) (, ,) (VBZ is) (NP (RB there)))) (NP (NP (DT any) (NN utility) (NN allocation) (NN method)) (VP (VBG ensuring) (NP (DT a) (JJ Nash-stable) (NN partition))))) (. ?))))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (DT the) (JJ Nash-stable) (NN core))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NNS conditions)) (PP (IN for) (S (VP (VBG having) (NP (DT a) (JJ non-empty) (JJ Nash-stable) (NN core))))))) (. .))
+(S (ADVP (RBR More) (RB precisely)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ relaxed) (NN efficiency)) (PP (IN in) (NP (NN utility) (VBG sharing) (NN method)))) (VP (VBZ allows) (S (VP (TO to) (VP (VB ensure) (NP (DT a) (JJ non-empty) (JJ Nash-stable) (NN core))))))))) (. .))

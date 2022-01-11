@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN estimation) (NN process)) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN carried) (PRT (RP out)) (PP (IN in) (NP (DT a) (NNP Kalman) (NN framework))))) (. .))
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB examine) (NP (NP (DT the) (NN potential)) (PP (IN of) (S (VP (VBG using) (NP (JJ neural) (NNS networks)) (PP (IN in) (NP (NN target) (NN tracking) (NNS applications))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN corollary))) (, ,) (NP (NNP MIMO) (NNS channels)) (VP (VP (MD can) (RB not) (VP (VB be) (VP (VBN approximated) (PP (IN by) (NP (DT the) (JJ linear) (JJ deterministic) (NN model)))))) (CC but) (VP (MD can) (VP (VB be) (PP (IN by) (NP (DT the) (JJ discrete) (NN superposition) (NN model)))))) (. .))

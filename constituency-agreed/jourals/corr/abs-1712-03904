@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (JJ synthetic) (NNS images)) (VP (VBP do) (RB not) (VP (VB resemble) (NP (JJ real) (NNS images)) (ADVP (RB exactly))))) (, ,) (CC and) (S (S (VP (VBG using) (NP (PRP them)) (PP (IN for) (NP (NN training))))) (VP (MD can) (VP (VB result) (PP (IN in) (NP (JJ suboptimal) (NN performance)))))) (. .))

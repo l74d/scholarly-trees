@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB approach) (NP (NP (DT the) (JJ general) (NN case)) (PP (IN of) (NP (DT any) (NN poset)))))))) (. .))
+(S (S (VP (TO To) (VP (VB do) (NP (DT this))))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB divide) (NP (DT the) (NN problem)) (PP (IN into) (NP (CD two) (NNS parts))))) (. .))

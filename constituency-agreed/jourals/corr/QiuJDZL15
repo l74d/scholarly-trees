@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (DT the) (NN design) (NNS principles))) (CC and) (VP (VB describe) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NN test) (NN platform)))))) (. .))
+(S (NP (NP (DT The) (NN test) (NNS results)) (PP (IN for) (NP (DT the) (NN recognition) (NN accuracy)))) (VP (VBP are) (ADVP (RB then)) (VP (VBN compared) (CC and) (VBN analyzed))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP OCR) (NNS results)) (VP (VBP have) (VP (VBN been) (VP (VBN evaluated) (PP (IN for) (NP (NN accuracy))) (PP (IN against) (NP (NP (DT the) (NN ground) (NN truth)) (PP (IN of) (NP (JJ unseen) (NN test) (NNS sets)))))))) (. .))

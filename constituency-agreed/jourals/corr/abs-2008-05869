@@ -1,0 +1,2 @@
+(S (ADVP (RB Alternatively)) (, ,) (NP (NNS batteries)) (VP (MD may) (VP (VB be) (VP (VBN used)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ implies) (NP (NP (DT the) (NN necessity)) (PP (IN of) (NP (NP (JJ additional) (NN maintenance)) (PP (IN for) (NP (NN battery) (NN replacement))))))) (. .))

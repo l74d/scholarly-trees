@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB alleviate) (NP (NN mode) (NN collapse))))) (, ,) (NP (JJ several) (JJ recent) (NNS studies)) (VP (VBP introduce) (NP (NP (JJ new) (JJ objective) (NNS functions)) (, ,) (NP (NN network) (NNS architectures)) (CC or) (NP (JJ alternative) (NN training) (NNS schemes)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP$ their) (NN achievement)) (VP (VBZ is) (ADVP (RB often)) (NP (NP (DT the) (NN result)) (PP (IN of) (S (VP (VBG sacrificing) (NP (DT the) (NN image) (NN quality))))))) (. .))

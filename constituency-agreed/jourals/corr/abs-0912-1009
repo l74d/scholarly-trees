@@ -1,0 +1,3 @@
+(S (NP (NNP Biogeography)) (VP (VBZ is) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NP (DT the) (JJ geographical) (NN distribution)) (PP (IN of) (NP (JJ biological) (NNS organisms))))))) (. .))
+(S (NP (NP (DT The) (NN mindset)) (PP (IN of) (NP (DT the) (NN engineer)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB learn) (PP (IN from) (NP (NN nature)))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (ADJP (RB highly) (JJ accurate)) (NN land) (NN cover) (NNS features)) (VP (MD can) (VP (VB be) (VP (VBN extracted) (ADVP (RB effectively)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN used))))))))))) (. .))

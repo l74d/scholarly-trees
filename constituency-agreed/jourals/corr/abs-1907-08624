@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP exploit) (NP (NP (DT the) (NN connection)) (PP (IN between) (NP (NN diffusion) (CC and) (NN geometry)))) (S (VP (TO to) (VP (VB introduce) (NP (DT a) (NN multiscale) (NN centrality) (NN measure)))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (DT the) (NN centrality)) (PP (IN of) (NP (NNS nodes)))) (VP (MD can) (VP (VB differ) (ADVP (RB widely)) (PP (IN at) (NP (JJ different) (NNS scales)))))))) (. .))

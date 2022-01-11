@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (JJ hidden) (NNP Markov) (NN model)) (PP (IN for) (S (VP (VBG inferring) (NP (NP (NN community) (NNS structures)) (SBAR (WHNP (WDT that)) (S (VP (VBP vary) (PP (IN over) (NP (NN time)))))))))))) (. .))

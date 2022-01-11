@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB analyze) (NP (NP (DT an) (JJ alternative) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB not) (VP (VB suffer) (PP (IN from) (NP (DT these) (NNS problems)))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP prove) (NP (JJ such) (NN sufficiency) (NNS conditions))) (CC and) (VP (VB complement) (NP (PRP them)) (PP (IN with) (NP (DT a) (JJ stable) (NN recovery) (NN algorithm))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG optimizing) (NP (DT these) (CD two) (NNS aspects)) (ADVP (RB together)))) (VP (VBZ is) (RB not) (ADJP (JJ trivial))) (. .))
+(S (NP (DT The) (JJ theoretical) (NN analysis)) (ADVP (RB also)) (VP (VBZ verifies) (NP (NP (DT the) (NN favor)) (PP (IN of) (NP (DT the) (JJ joint) (NN optimization) (NN mechanism))))) (. .))

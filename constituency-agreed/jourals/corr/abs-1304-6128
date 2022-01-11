@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN design) (NN framework)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS parts)))) (. .))
+(S (NP (DT The) (JJ new) (NN design) (NN algorithm)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB achieve) (NP (JJ optimal) (NNS results)) (PP (IN in) (NP (JJ large) (JJ arbitrary) (NNS networks)))))))) (. .))

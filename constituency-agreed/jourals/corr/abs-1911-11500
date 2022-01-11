@@ -1,0 +1,2 @@
+(S (ADVP (RB Altogether)) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB investigate) (NP (CD nine) (JJ such) (NNS extensions)) (ADVP (RBR more) (RB closely)))) (. .))
+(S (PP (IN In) (NP (CD three) (NNS cases))) (NP (DT the) (NN succinctness) (NN gap)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN bounded) (S (VP (VBG using) (NP (DT any) (JJ elementary) (NN function))))))) (. .))

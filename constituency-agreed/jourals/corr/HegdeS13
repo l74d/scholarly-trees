@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP extend) (NP (DT the) (NNP BDI) (NN architecture)) (PP (IN with) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (JJ adaptive) (NN alertness)))))) (. .))
+(S (NP (NNS Agents)) (VP (MD can) (VP (VB modify) (NP (NP (PRP$ their) (NN level)) (PP (IN of) (NP (NN alertness)))) (PP (IN by) (S (VP (VBG monitoring) (NP (NP (DT the) (NNS risks)) (VP (VBN faced) (PP (PP (IN by) (NP (PRP them))) (CC and) (PP (IN by) (NP (PRP$ their) (NNS peers))))))))))) (. .))

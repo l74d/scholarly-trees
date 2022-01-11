@@ -1,0 +1,3 @@
+(S (NP (NNP Turbo) (NN code)) (VP (VBZ is) (NP (NP (DT a) (JJ great) (NN achievement)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN communication) (NN system))))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN created) (PP (IN by) (S (VP (VBG connecting) (NP (NP (DT a) (NN turbo) (NN encoder)) (CC and) (NP (DT a) (NN decoder))) (ADVP (RB serially)))))))) (. .))
+(S (NP (DT A) (NNP Turbo) (NN encoder)) (VP (VBZ is) (VP (VBN build) (PP (IN with) (NP (NP (JJ parallel) (NN concatenation)) (PP (IN of) (NP (CD two) (JJ simple) (JJ convolutional) (NNS codes))))))) (. .))

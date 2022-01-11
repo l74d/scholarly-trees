@@ -1,0 +1,1 @@
+(S (NP (JJ Panoptic) (NN segmentation)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RB recently) (VBN introduced)) (NN task)) (SBAR (WHNP (WDT that)) (S (VP (VBZ tackles) (NP (NP (JJ semantic) (NN segmentation)) (CC and) (NP (NN instance) (NN segmentation))) (ADVP (RB jointly))))))) (. .))

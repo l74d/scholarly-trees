@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ non-uniform) (NN sampling) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (DT the) (JJ multi-armed) (NN bandit) (NN framework))))))) (. .))

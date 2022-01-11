@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP ask) (NP (NP (DT a) (JJ fundamental) (NN question)) (: :) (SQ (MD can) (NP (PRP we)) (VP (VB learn) (NP (JJ such) (NNS detectors)) (PP (IN from) (NP (NN scratch))))))) (. ?))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (NN task)) (VP (VBZ requires) (NP (DT an) (JJ unsupervised) (NN formulation))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NN software) (NNS systems)) (VP (VBP exhibit) (NP (JJ different) (NN behaviour)) (PP (IN under) (NP (JJ different) (NNS workloads)))) (. .))
+(S (NP (JJ Many) (NN software) (NNS systems)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB be) (ADJP (JJ configurable)) (SBAR (IN so) (IN that) (S (NP (NNS policies)) (VP (MD can) (VP (VB be) (VP (VBN chosen) (S (VP (TO to) (VP (VB meet) (NP (NP (DT the) (NNS needs)) (PP (IN of) (NP (JJ various) (NNS stakeholders))))))))))))))))) (. .))

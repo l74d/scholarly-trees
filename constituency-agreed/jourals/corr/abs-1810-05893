@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT an) (NN implementation)) (PP (IN of) (NP (DT the) (VBN proposed) (NN pipeline)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP confirm) (SBAR (IN that) (S (NP (DT this) (NN pipeline)) (VP (MD can) (VP (VB be) (VP (VBN used) (ADVP (RB efficiently)) (PP (IN in) (NP (NN channel) (NN estimation))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ arbitrary) (NN similarity) (NN function)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB find) (NP (DT these) (NNS observations)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (CC and) (VBP evaluate) (NP (JJ different) (NN similarity) (NNS functions))) (. .))

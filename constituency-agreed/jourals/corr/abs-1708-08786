@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (DT the) (NN paradigm))) (CC and) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (JJ concrete) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN built) (ADVP (RB automatically)) (S (VP (VBG using) (NP (JJ dynamic) (NNS traces))))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (S (VP (VBG using) (NP (NN graph) (NNS traversals)))) (, ,) (NP (PRP we)) (VP (VBP mine) (PP (IN for) (NP (ADJP (RB potentially) (JJ vulnerable)) (NNS operations)))) (. .))

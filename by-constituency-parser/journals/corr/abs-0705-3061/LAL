@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG measuring) (CC and) (VBG localizing) (NP (NN homology) (NNS classes))))))) (. .))
+(S (NP (DT This)) (VP (VBZ involves) (NP (CD two) (NNS problems))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (JJ relevant) (NNS notions)) (PP (IN of) (NP (NN size))) (PP (IN for) (NP (DT both) (NP (DT a) (NN homology) (NN class)) (CC and) (NP (DT a) (NN homology) (NN group) (NN basis))))) (, ,) (S (VP (VBG using) (NP (NP (NNS ideas)) (PP (IN from) (NP (JJ relative) (NN homology))))))) (. .))
+(S (ADVP (JJ Second)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB compute) (NP (DT the) (JJ optimal) (NN homology) (NN basis)) (, ,) (S (VP (VBG using) (NP (NP (NNS techniques)) (PP (IN from) (NP (NP (JJ persistent) (NN homology)) (CC and) (NP (JJ finite) (NN field) (NN algebra))))))))))))) (. .))
+(S (NP (NP (NNS Classes)) (PP (IN of) (NP (DT the) (VBN computed) (JJ optimal) (NN basis)))) (VP (VBP are) (VP (VBN localized) (PP (IN with) (NP (NP (NNS cycles)) (VP (VBG conveying) (NP (PRP$ their) (NNS sizes))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP explore) (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (IN whether) (S (NP (NP (DT the) (NNS representations)) (VP (VBN learned) (PP (IN by) (NP (NNS classifiers))))) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB enhance) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (JJ generative) (NNS models))))))))))))))) (. .))

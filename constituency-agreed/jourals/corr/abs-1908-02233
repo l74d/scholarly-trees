@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN design) (CC and) (NN analysis)) (PP (IN of) (NP (NP (JJ optimal) (NN control) (NNS policies)) (PP (IN for) (NP (JJ dynamical) (NNS systems)))))) (VP (MD can) (VP (VB be) (VP (VBN complicated) (PP (IN by) (NP (NP (JJ nonlinear) (NN dependence)) (PP (IN in) (NP (DT the) (NN state) (NNS variables)))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (JJ consistent) (NNP Koopman) (NNS representations)) (PP (IN for) (NP (VBN controlled) (JJ dynamical) (NN system)))))))) (. .))

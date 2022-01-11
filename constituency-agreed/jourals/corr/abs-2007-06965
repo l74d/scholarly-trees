@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN convention))) (, ,) (NP (DT these) (NNS models)) (VP (VBP are) (ADVP (RB often)) (VP (VBN initialized) (PP (IN with) (NP (NNP ImageNet) (JJ pre-trained) (NN representation))))) (. .))

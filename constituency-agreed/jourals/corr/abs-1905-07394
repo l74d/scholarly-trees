@@ -1,0 +1,1 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NP (DT another) (NN cohort)) (PP (IN of) (NP (NNS models)))) (VP (VP (VBP regard) (NP (JJ crowdsourced) (NNS annotations)) (PP (IN as) (NP (JJ incomplete) (NNS tensors)))) (CC and) (VP (VB recover) (NP (JJ unfilled) (NNS labels)) (PP (IN by) (NP (NN tensor) (NN completion))))) (. .))

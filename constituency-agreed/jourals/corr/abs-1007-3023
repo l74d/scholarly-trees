@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN idea)) (PP (IN of) (NP (JJ functional) (NN programming)))) (VP (VBZ has) (VP (VBN played) (NP (DT a) (JJ big) (NN role)) (PP (IN in) (S (VP (VBG shaping) (NP (NP (NP (NN today) (POS 's)) (NN landscape)) (PP (IN of) (NP (JJ mainstream) (NN programming) (NNS languages))))))))) (. .))
+(S (NP (NP (DT Another) (NN concept)) (SBAR (WHNP (WDT that)) (S (VP (VBZ dominates) (NP (DT the) (JJ current) (NN programming) (NN style)))))) (VP (VBZ is) (NP (NP (NNP Dijkstra) (POS 's)) (JJ structured) (NN programming))) (. .))

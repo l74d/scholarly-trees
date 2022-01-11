@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG generalizing) (NP (JJ Sturmian) (NNS words)) (PP (TO to) (NP (NNS trees)))))))) (. .))
+(S (NP (JJ Such) (NNS trees)) (ADVP (RB also)) (VP (VBP have) (NP (DT a) (JJ minimal) (NN factor) (NN complexity))) (. .))
+(S (NP (JJ Such) (JJ possible) (NNS extensions)) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (NP (CD one) (JJ such) (NN example))))) (. .))

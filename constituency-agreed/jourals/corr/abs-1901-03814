@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB produce) (NP (NP (JJR finer) (NN segmentation) (NNS results)) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJR richer) (NNS details)) (PP (IN than) (NP (NNS annotations))))))))))))) (. .))

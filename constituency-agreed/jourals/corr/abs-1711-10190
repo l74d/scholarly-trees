@@ -1,0 +1,3 @@
+(S (S (VP (TO To) (VP (VB preserve) (NP (NP (DT the) (NN privacy)) (PP (IN of) (NP (NN sensor) (NNS data))))))) (, ,) (NP (DT the) (NNP Paillier) (NNP Cryptosystem)) (VP (VBZ is) (VP (VBN adopted) (PP (IN in) (NP (DT the) (NN fog) (NN computing))))) (. .))
+(S (NP (DT The) (NN batch) (NN verification) (NN technique)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB achieve) (NP (JJ efficient) (NN authentication))))))) (. .))
+(S (NP (DT The) (NN scheme)) (VP (MD could) (ADVP (RB also)) (VP (VP (VB withstand) (NP (JJ various) (NN security) (NNS attacks))) (CC and) (VP (VB preserve) (NP (NNS data) (NN privacy))))) (. .))

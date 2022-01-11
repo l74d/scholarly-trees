@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN deployment)) (PP (IN of) (NP (JJ mobile) (NNS femtocells)))) (VP (VBZ generates) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN handover) (NNS calls))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (NP (NNS numbers)) (PP (IN of) (NP (NN group) (NN handover) (NNS scenarios)))) (VP (VBP are) (VP (VBN found) (PP (IN in) (NP (JJ mobile) (JJ femtocellular) (NN network) (NN deployment))))) (. .))

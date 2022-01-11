@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN presence)) (PP (IN of) (NP (NP (NNS hemorrhages)) (PP (IN in) (NP (DT the) (NN retina)))))) (VP (VBZ is) (NP (NP (DT the) (JJS earliest) (NN symptom)) (PP (IN of) (NP (JJ diabetic) (NN retinopathy))))) (. .))
+(S (NP (NP (DT The) (NN number) (CC and) (NN shape)) (PP (IN of) (NP (NNS hemorrhages)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB indicate) (NP (NP (DT the) (NN severity)) (PP (IN of) (NP (DT the) (NN disease))))))))) (. .))

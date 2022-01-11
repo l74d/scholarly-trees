@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB limit) (NP (JJ computational) (NNS resources))))) (NP (NNP DARTS)) (VP (VBZ makes) (NP (JJ numerous) (NNS approximations))) (. .))
+(S (NP (DT These) (NNS approximations)) (VP (VBP result) (PP (IN in) (NP (JJ inferior) (NN performance)))) (. .))

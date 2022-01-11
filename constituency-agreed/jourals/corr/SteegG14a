@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (JJ probabilistic) (NNS functions)) (PP (IN of) (NP (DT some) (NN input) (NNS variables)))))) (PP (IN as) (NP (NP (DT a) (NN representation)) (PP (IN of) (NP (DT the) (NNS inputs)))))) (. .))
+(S (NP (DT This) (NN optimization)) (VP (VBZ has) (NP (NP (JJ linear) (JJ computational) (NN complexity)) (CC and) (NP (NP (JJ constant) (NN sample) (NN complexity)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS variables)))))))) (. .))

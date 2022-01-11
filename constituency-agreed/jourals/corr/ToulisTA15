@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (DT both) (NN theory) (CC and) (NN practice))) (, ,) (NP (PRP they)) (VP (VBP suffer) (PP (IN from) (NP (JJ numerical) (NN instability)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP they)) (VP (VBP are) (ADJP (RB statistically) (JJ inefficient) (PP (IN as) (NP (NP (NNS estimators)) (PP (IN of) (NP (DT the) (JJ true) (NN parameter) (NN value))))))) (. .))

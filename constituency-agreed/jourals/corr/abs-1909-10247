@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNS modes)) (VP (MD can) (VP (VB be) (ADJP (JJ real) (CC or) (JJ complex)))) (. .))
+(S (NP (PRP$ Their) (NNS amplitudes) (CC and) (NNS correlations)) (VP (VBP are) (VP (VBN encoded) (PP (IN in) (NP (DT a) (NN mode) (NN covariance) (NN matrix))))) (. .))
+(S (NP (NP (NNS Suggestions)) (PP (IN of) (NP (JJ other) (NNS applications)))) (VP (VBP are) (VP (VBN given))) (. .))

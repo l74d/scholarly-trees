@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN optimization) (NNS criteria)) (VP (VBP are) (VP (VBN proposed))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN problem))) (NP (NP (DT the) (NN question)) (PP (IN of) (NP (NP (DT the) (NNS permissions) (NN distribution)) (PP (IN in) (NP (DT the) (NN role) (NN hierarchy)))))) (VP (VBZ is) (VP (VBN researched))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ hierarchical) (NN structure)) (PP (IN of) (NP (DT a) (NN role) (NN set))))))) (. .))

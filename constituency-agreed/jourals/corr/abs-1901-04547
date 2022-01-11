@@ -1,0 +1,1 @@
+(S (NP (NNP MCTS)) (VP (VBZ returns) (NP (NP (NP (DT a) (JJR better) (NN sampling) (NN pattern)) (PP (IN than) (SBAR (WHNP (WP what)) (S (NP (DT the) (JJ current) (NN sampling) (NN network)) (VP (MD can) (VP (VB give))))))) (CC and) (, ,) (ADVP (RB thus)) (, ,) (NP (DT a) (JJR better) (JJ final) (NN reconstruction)))) (. .))

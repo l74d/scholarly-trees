@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (JJ several) (NNS values)) (PP (IN for) (NP (NP (DT the) (ADJP (ADJP (JJ next) (HYPH -) (PP (TO to))) (HYPH -) (JJ minimal)) (NNS weights)) (PP (IN of) (NP (JJ projective) (NML (NNP Reed) (HYPH -) (NNP Muller)) (NNS codes)))))) (. .))
+(S (PP (IN As) (PP (IN in) (NP (NN loc)))) (. .))
+(NP (NN cit) (. .))
+(S (ADVP (RB here)) (NP (PRP we)) (ADVP (RB also)) (VP (VBP find) (NP (NP (NNS examples)) (PP (IN of) (NP (NNS codewords)))) (PP (IN with) (NP (NP (ADJP (ADJP (JJ next) (HYPH -) (PP (TO to))) (HYPH -) (JJ minimal)) (NN weight)) (SBAR (WHNP (WP$ whose) (NP (NN set) (PP (IN of) (NP (NNS zeros))))) (S (VP (VBZ is) (RB not) (PP (IN in) (NP (DT a) (NN hyperplane) (NN arrangement))))))))) (. .))

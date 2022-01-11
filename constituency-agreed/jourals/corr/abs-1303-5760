@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first)) (VP (VBZ is) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB do) (NP (DT all) (JJ necessary) (NNS operations) (CC and) (NNS aggregations)) (PP (IN with) (NP (NP (NN information)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (PP (IN of) (NP (DT a) (JJ nonnumeric) (JJ linguistic) (NN nature))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT the) (NN approach)) (PP (IN with) (NP (NP (DT a) (NN problem)) (PP (IN of) (NP (NN project) (NN selection)))))) (. .))

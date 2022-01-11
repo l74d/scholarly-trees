@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB construct) (NP (DT a) (NNP Markov) (NNP Chain)) (S (VP (TO to) (VP (VB explore) (NP (NP (DT the) (NN posterior)) (PP (IN of) (NP (DT the) (NNS hyperparameters)))))))))))) (. .))

@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (JJ standard) (JJ epistemic) (NN logic))) (, ,) (NP (NN agent) (NNS names)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (NP (JJ common) (NN knowledge)) (ADVP (RB implicitly))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ unreasonable)) (PP (IN for) (NP (JJ various) (NNS applications)))) (. .))
+(S (S (VP (VBN Inspired) (PP (IN by) (NP (NP (NN term) (NN modal) (NN logic)) (CC and) (NP (NP (NN assignment) (NNS operators)) (PP (IN in) (NP (JJ dynamic) (JJ logic)))))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ lightweight) (NN modal) (NN predicate) (NN logic)) (SBAR (WHADVP (WRB where)) (S (NP (NNS names)) (VP (MD can) (VP (VB be) (ADJP (JJ non-rigid)))))))) (. .))
+(S (NP (DT The) (NN language)) (VP (MD can) (VP (VB handle) (NP (JJ various) (UCP (FW de) (FW dicto) (CC and) (FW de) (FW re)) (NNS distinctions)) (PP (IN in) (NP (DT a) (JJ natural) (NN way))))) (. .))
+(S (NP (DT The) (JJ main) (JJ technical) (NN result)) (VP (VBZ is) (NP (NP (DT a) (JJ complete) (NN axiomatisation)) (PP (IN of) (NP (DT this) (NN logic))) (PP (IN over) (NP (NNP S5) (NNS models))))) (. .))

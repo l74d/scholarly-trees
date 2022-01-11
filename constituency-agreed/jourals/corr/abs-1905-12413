@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Tensor) (NN decomposition)) (, ,) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NP (NN factorization) (NNS techniques)) (PP (IN for) (NP (JJ multidimensional) (NNS arrays)))))) (, ,)) (VP (VBP are) (PP (IN among) (NP (NP (DT the) (ADJP (RBS most) (JJ general) (CC and) (JJ powerful)) (NNS tools)) (PP (IN for) (NP (JJ scientific) (NN analysis)))))) (. .))

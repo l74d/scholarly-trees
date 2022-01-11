@@ -1,0 +1,5 @@
+(S (NP (NP (NNS Models)) (PP (IN like) (NP (NP (NN support) (NN vector) (NNS machines)) (CC or) (NP (JJ Gaussian) (NN process) (NN regression))))) (ADVP (RB often)) (VP (VBP require) (NP (JJ positive) (JJ semi-definite) (NNS kernels))) (. .))
+(S (NP (DT These) (NNS kernels)) (VP (MD may) (VP (VB be) (VP (VBN based) (PP (IN on) (NP (NN distance) (NNS functions)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (S (VP (VBG designing) (NP (JJ definite) (NNS distances) (CC or) (NNS kernels)))) (VP (MD may) (VP (VB be) (ADJP (RB equally) (JJ intricate)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN enabled) (S (VP (TO to) (VP (VB use) (NP (JJ indefinite) (NNS kernels)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT an) (JJ empirical) (NN approach))) (. .))

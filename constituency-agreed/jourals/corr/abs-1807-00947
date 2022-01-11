@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first) (NN attempt) (S (VP (TO to) (VP (VB tackle) (NP (NP (DT the) (NNS data) (NN generation)) (PP (IN of) (NP (CD two) (NNS domains)))))))) (VP (VBD was) (VP (VBN proposed) (PP (IN by) (NP (NNP CoGAN))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP$ their) (NN solution)) (VP (VBZ is) (ADJP (RB inherently) (JJ vulnerable) (PP (IN for) (NP (NP (JJ various) (NNS levels)) (PP (IN of) (NP (NN domain) (NNS similarities))))))) (. .))

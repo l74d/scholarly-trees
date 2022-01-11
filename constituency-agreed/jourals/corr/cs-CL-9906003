@@ -1,0 +1,4 @@
+(S (NP (PRP They)) (VP (VP (MD can) (VP (VB mark) (NP (NP (NNS arguments)) (CONJP (RB as) (RB well) (IN as)) (NP (NNS adjuncts))))) (, ,) (VP (MD can) (VP (VB be) (ADJP (JJ functional)))) (CC or) (VP (VBP have) (NP (JJ semantic) (NNS funtions)))) (. .))
+(S (NP (NNS Particles)) (VP (MD can) (VP (VB cooccur))) (. .))
+(S (NP (NP (JJ Verbal) (NNS arguments)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB be) (VP (VBN identified) (PP (IN by) (NP (NNS particles))))))))) (VP (MD can) (VP (VB be) (VP (VBN eliminated) (PP (IN in) (NP (DT the) (JJ Japanese) (NN sentence)))))) (. .))
+(S (NP (PRP$ Our) (NN treatment)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT an) (JJ empirical) (NN investigation)) (PP (IN of) (NP (CD 800) (NNS dialogues))))))) (. .))

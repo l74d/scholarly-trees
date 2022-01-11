@@ -1,0 +1,2 @@
+(S (ADVP (RB Instead)) (, ,) (NP (PRP it)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (JJ distinct) (NNS combinations)) (PP (IN of) (NP (DT these) (NNS coefficients)))))))) (. .))
+(S (NP (PRP$ Our) (JJ experimental) (NNS results)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP GTE)) (VP (VBZ remains) (ADJP (JJ competitive)) (SBAR (WHADVP (RB even) (WRB when)) (S (NP (DT the) (JJ pseudo-Boolean) (NNS constraints)) (VP (VBP do) (RB not) (VP (VB have) (NP (DT this) (JJ characteristic)))))))))) (. .))

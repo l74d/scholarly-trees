@@ -1,0 +1,1 @@
+(S (NP (NP (NN Evaluation)) (PP (IN of) (NP (NP (DT this) (NN grammar)) (CC and) (NP (DT the) (NN parser) (NN implementation))))) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN approach)) (VP (VBZ is) (ADJP (JJ practical) (, ,) (JJ adequate) (CC and) (JJ efficient)))))) (. .))

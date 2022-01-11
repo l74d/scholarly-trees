@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ uses) (NP (DT this) (NNP DPP)) (S (VP (TO to) (VP (VB select) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (JJ diverse) (NNS neurons)))))))) (CC and) (VP (ADVP (RB subsequently)) (VBZ fuses) (NP (DT the) (JJ redundant) (NNS neurons)) (PP (IN into) (NP (DT the) (VBN selected) (NNS ones))))) (. .))

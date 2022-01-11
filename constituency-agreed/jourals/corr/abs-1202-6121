@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN lot)) (PP (IN of) (NP (NN research)))) (VP (VBZ is) (VP (VBN done) (S (VP (TO to) (VP (VP (VB quantify) (NP (DT the) (NN quality))) (CC and) (VP (VB improve) (NP (DT a) (NN test) (NN suite)))))))) (. .))
+(S (NP (DT This) (NN quality)) (VP (VBZ is) (ADJP (JJ fine)) (, ,) (SBAR (IN if) (S (NP (DT the) (NN code) (NN coverage) (NN value)) (VP (VBZ is) (ADJP (ADJP (JJ high)) (CC or) (NP (CD 100) (NN %))))))) (. .))

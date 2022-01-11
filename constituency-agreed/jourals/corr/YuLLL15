@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN problem)) (VP (VP (VBZ is) (ADJP (JJ non-convex))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN with) (NP (DT a) (JJ centralized) (JJ iterative) (NN approach))))))) (. .))

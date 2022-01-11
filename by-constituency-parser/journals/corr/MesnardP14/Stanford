@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NML (NN termination) (HYPH /) (NN non-termination)) (NN property)) (PP (IN of) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NNS loops))))))) (. .))
+(S (NP (JJ Such) (NNS loops)) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN used) (NP (NP (NNS abstractions)) (PP (IN of) (NP (JJ real) (NN program) (NNS pieces)))))) (. .))
+(S (NP (NML (JJ Second) (HYPH -) (NN order)) (NN logic)) (VP (VBZ is) (NP (DT a) (JJ convenient) (NN language) (S (VP (TO to) (VP (VB express) (NP (NN non-termination))))))) (. .))
+(S (ADVP (RB Of) (RB course)) (, ,) (NP (JJ such) (NN property)) (VP (VBZ is) (ADJP (RB generally) (JJ undecidable))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN by) (S (VP (VBG restricting) (NP (DT the) (NN language)) (PP (IN to) (NP (VBN known) (JJ decidable) (NNS cases)))))) (, ,) (NP (PRP we)) (VP (VBP exhibit) (NP (NP (JJ new) (NNS classes)) (PP (IN of) (NP (NP (NNS loops)) (, ,) (SBAR (WHNP (NP (DT the) (NN non-termination)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ is) (ADJP (JJ decidable))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN bunch)) (PP (IN of) (NP (NNS examples))))) (. .))

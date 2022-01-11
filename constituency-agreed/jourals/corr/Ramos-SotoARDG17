@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT these) (NNS interpretations)))) (, ,) (NP (PRP$ our) (NN approach)) (VP (VBZ builds) (NP (NP (JJ fuzzy) (NNS descriptors)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB compute) (NP (NN membership) (NNS degrees)) (PP (IN for) (NP (JJ geographical) (NNS locations)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (PRP$ our) (NN approach)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN efficiency) (CC and) (NN precision)))))) (. .))

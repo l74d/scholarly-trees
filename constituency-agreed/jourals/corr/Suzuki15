@@ -1,0 +1,2 @@
+(NP (NNP Comput) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT an) (NN advice)))) (VP (VBZ is) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (JJ same)) (PP (IN as) (NP (NP (DT that)) (PP (IN of) (NP (DT an) (NN input))))))))))) (. .))

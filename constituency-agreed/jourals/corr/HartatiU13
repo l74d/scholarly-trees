@@ -1,0 +1,2 @@
+(S (PP (IN From) (NP (DT the) (NNS data))) (, ,) (NP (NP (DT a) (VBG varying) (NN amount)) (PP (IN of) (NP (NN population)))) (VP (VBZ is) (VP (VBN established))) (. .))
+(S (NP (DT Each) (NN chromosome)) (VP (VBZ has) (NP (NP (CD 10) (NNS genes)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT each) (NN gene)))) (VP (VBZ indicates) (NP (NP (DT the) (NN index) (NN number)) (PP (IN of) (NP (NP (NNS foodstuffs)) (PP (IN in) (NP (DT the) (NN database))))))))))) (. .))

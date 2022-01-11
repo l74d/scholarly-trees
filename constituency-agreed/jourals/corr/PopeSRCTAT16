@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN classifier)) (VP (MD will) (VP (VB be) (VP (VBN based) (PP (IN on) (NP (JJ fuzzy) (NN logic)))))) (. .))
+(S (NP (NP (DT The) (NN output)) (PP (IN of) (NP (DT the) (NNS classifiers)))) (VP (VBP are) (NP (NP (DT the) (NNS groupings)) (PP (IN of) (NP (NNS individuals))))) (. .))

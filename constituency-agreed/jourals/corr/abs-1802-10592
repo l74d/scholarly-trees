@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN issue))))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB use) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (NNS models)))) (S (VP (TO to) (VP (VP (VB maintain) (NP (DT the) (NN model) (NN uncertainty))) (CC and) (VP (VB regularize) (NP (DT the) (NN learning) (NN process)))))))))) (. .))

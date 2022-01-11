@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (DT the) (NN shape) (NN neighborhood)))) (PP (IN under) (NP (NP (NN family)) (PP (IN of) (NP (NNS transformations))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT the) (NN continuity)) (PP (IN of) (NP (DT this) (JJ metric))))) (. .))

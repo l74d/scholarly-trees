@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB fill) (NP (DT this) (NN gap))))) (, ,) (PP (IN in) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN knowledge) (NN concept) (NN recommendation))))) (. .))
+(S (PP (IN Like) (NP (JJ other) (NN recommendation) (NNS problems))) (, ,) (NP (PRP it)) (VP (VBZ suffers) (PP (IN from) (NP (NN sparsity) (NNS issues)))) (. .))

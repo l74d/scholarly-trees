@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN training)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ starts) (PP (IN with) (NP (JJ initial) (JJ random) (JJ integral) (NNS weights)))) (. .))
+(S (NP (NP (DT The) (NN optimization)) (PP (IN of) (NP (NNS weights)))) (VP (VBZ is) (VP (VBN augmented) (PP (IN by) (S (VP (VBG adding) (NP (DT a) (NN momentum) (NN factor)) (PP (IN into) (NP (DT the) (NN network)))))))) (. .))

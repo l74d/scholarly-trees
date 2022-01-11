@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Model) (NN precision)) (PP (IN in) (NP (DT a) (NN classification) (NN task)))) (VP (VBZ is) (ADJP (RB highly) (JJ dependent) (PP (IN on) (NP (NP (DT the) (NN feature) (NN space)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT the) (NN model))))))))))))) (. .))

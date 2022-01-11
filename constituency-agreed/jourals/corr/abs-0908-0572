@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (NP (NNP CVM)) (VP (VBZ works) (PP (IN in) (NP (NP (NN batch) (NN mode)) (VP (VBG requiring) (NP (NP (JJ multiple) (NNS passes)) (PP (IN over) (NP (DT the) (NNS data)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP give) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (DT the) (NN algorithm))))) (, ,) (CC and) (VP (VB discuss) (NP (NP (DT some) (JJ open) (NNS issues)) (CC and) (NP (JJ possible) (NNS extensions))))) (. .))

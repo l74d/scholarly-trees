@@ -1,0 +1,2 @@
+(S (PP (IN As) (PP (IN in) (NP (DT the) (JJ single) (NN user) (NN case)))) (, ,) (NP (NP (DT the) (NN boundary)) (PP (IN of) (NP (DT the) (JJ deterministic) (NN code) (NN capacity) (NN region)))) (VP (VBZ is) (NP (NP (DT a) (JJ discontinuous) (NN function)) (PP (IN of) (NP (DT the) (NN input) (NN constraint))))) (. .))
+(S (NP (DT The) (VBG missing) (NN piece)) (VP (VBZ is) (VP (VBN obtained) (PP (IN as) (NP (NP (DT a) (JJ special) (NN case)) (PP (IN of) (NP (PRP$ our) (NNS results))))))) (. .))

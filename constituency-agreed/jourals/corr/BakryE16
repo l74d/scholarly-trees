@@ -1,0 +1,3 @@
+(S (NP (CD One) (JJ common) (NN approach)) (VP (VBZ is) (S (VP (TO to) (VP (VB model) (NP (DT the) (JJ visual) (NN recognition)) (PP (IN as) (NP (JJ nonlinear) (NN optimization) (NN problem))))))) (. .))
+(S (S (VP (VBG Measuring) (NP (NP (DT the) (NNS distances)) (PP (IN between) (NP (JJ visual) (NNS units)))))) (VP (VBZ is) (ADJP (JJ essential) (PP (IN for) (S (VP (VBG solving) (NP (DT this) (NN problem))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT the) (NN theory)) (PP (IN behind) (NP (DT each) (NN kernel))))) (. .))

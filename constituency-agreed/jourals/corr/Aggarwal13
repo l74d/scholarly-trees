@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN authentication)) (VP (VBZ is) (VP (VBN done) (PP (IN through) (NP (NP (DT a) (NN key)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ iterates) (PP (IN over) (NP (DT the) (JJ complete) (NN message) (NN string))) (S (VP (TO to) (VP (VB produce) (NP (DT the) (NN signature)))))))))))) (. .))

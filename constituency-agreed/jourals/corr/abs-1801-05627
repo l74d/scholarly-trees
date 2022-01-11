@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ common)) (NNS biases)) (PP (IN in) (NP (NNS data)))) (VP (VBP are) (ADVP (RB arguably)) (NP (NP (NN class) (NN imbalance)) (CC and) (NP (NN covariate) (NN shift)))) (. .))

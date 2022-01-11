@@ -1,0 +1,2 @@
+(S (ADVP (RB Similarly)) (, ,) (NP (DT the) (NN conservation) (NN function)) (VP (VBZ fits) (NP (NP (DT the) (NN change)) (PP (IN in) (NP (NNP Roff))))) (. .))
+(S (NP (DT The) (ADJP (RB experimentally) (VBN measured)) (NN hysteresis)) (VP (VBD did) (RB not) (VP (VB fit) (NP (NP (DT the) (JJ phenomenological) (NN model) (POS 's)) (NNS predictions)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT a) (JJ splitting) (NN method)) (PP (IN for) (NP (DT a) (JJ canonical) (NML (NN fluid) (NN structure)) (NN interaction) (NN problem))))) (. .))
+(S (NP (DT The) (NN splittling) (NN method)) (VP (VBZ uses) (NP (DT a) (NNP Robin) (HYPH -) (NNP Robin)) (NP-TMP (NP (NN boundary) (NN condition)) (, ,) (NP (JJ explicit) (NN strategy)))) (. .))

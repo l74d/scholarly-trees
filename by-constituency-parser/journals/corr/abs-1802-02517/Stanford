@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP report) (PP (IN on) (NP (DT a) (NML (NN summer) (NN school)) (NN course))) (PP (IN on) (NP (NP (NNP Software) (NNP Engineering)) (PP (IN for) (NP (NNP Sustainability))))) (PRN (-LRB- -LRB-) (NP (NN SE4S)) (-RRB- -RRB-))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (SBAR (S (NP (NP (DT a) (JJ detailed) (NN blueprint)) (PP (IN of) (NP (DT the) (NNS contents)))) (VP (VP (VBD taught)) (CC and) (VP (NP (PRP$ its) (NN evaluation)) (PP (IN with) (NP (NP (DT the) (NNS instruments)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN used)))))))))))) (. .))

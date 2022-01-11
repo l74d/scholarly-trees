@@ -1,0 +1,1 @@
+(S (NP (NP (VBN Distributed) (NNS representations)) (PP (IN of) (NP (NN text)))) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NNS features))) (SBAR (WHADVP (WRB when)) (S (VP (VBG training) (NP (DT a) (JJ statistical) (NN classifier)))))))) (. .))

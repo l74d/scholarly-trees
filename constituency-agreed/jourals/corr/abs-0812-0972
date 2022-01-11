@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Agile) (NN recovery)) (PP (IN from) (NP (NP (NN link) (NNS failures)) (PP (IN in) (NP (JJ autonomic) (NN communication) (NNS networks)))))) (VP (VBZ is) (ADJP (JJ essential) (S (VP (TO to) (VP (VB increase) (NP (NP (NN robustness) (, ,) (NN accessibility) (, ,) (CC and) (NN reliability)) (PP (IN of) (NP (NNS data) (NN transmission))))))))) (. .))

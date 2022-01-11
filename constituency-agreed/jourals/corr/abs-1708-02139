@@ -1,0 +1,3 @@
+(S (S (NP (DT The) (NN dataset)) (VP (VBZ contains) (NP (JJ valid) (, ,) (JJ non-corrupted) (NNS replays)) (ADVP (RB only)))) (CC and) (S (NP (PRP$ its) (NN quality) (CC and) (NN diversity)) (VP (VBD was) (VP (VBN ensured) (PP (IN by) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS heuristics)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP illustrate) (NP (NP (DT the) (NN diversity)) (PP (IN of) (NP (DT the) (NNS data)))) (PP (IN with) (NP (JJ various) (NNS statistics)))) (CC and) (VP (VB provide) (NP (NP (NNS examples)) (PP (IN of) (NP (NP (NNS tasks)) (SBAR (WHNP (WDT that)) (S (VP (VBP benefit) (PP (IN from) (NP (DT the) (NN dataset))))))))))) (. .))
+(NP (NNP En) (NNP Taro) (NNP Adun) (. !))

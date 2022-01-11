@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NN classification) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN applied) (PP (IN for) (NP (PRP$ its) (NNS diagnoses) (CC and) (NN treatment)))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBD showed) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (NP (DT the) (VBN proposed) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (MD could) (VP (VB achieve) (NP (NP (DT an) (JJ average) (NN classification) (NN accuracy)) (PP (IN of) (NP (CD 97.833) (NN %)))))))))))) (. .))

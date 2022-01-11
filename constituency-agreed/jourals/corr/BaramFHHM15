@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes) (NP (NP (DT the) (NNP Minkowski) (NN sum)) (PP (IN of) (NP (NP (CD two) (NNS polygons)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB have) (NP (NNS holes)))))))))))))) (. .))
+(S (NP (DT The) (JJ new) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NN convolution) (NN approach))))) (. .))

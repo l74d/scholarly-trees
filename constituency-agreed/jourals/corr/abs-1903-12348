@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Uncertainties)) (PP (IN in) (NP (NP (NN traffic) (NN influx)) (CC and) (NP (VBG turning) (NN rate))))) (VP (VBP are) (VP (VBN introduced) (S (VP (TO to) (VP (VB test) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (DT the) (NN controller)))) (PP (IN under) (NP (DT a) (JJ stochastic) (NN environment)))))))) (. .))

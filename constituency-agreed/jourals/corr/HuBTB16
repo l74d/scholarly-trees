@@ -1,0 +1,2 @@
+(S (NP (JJ Neo-fuzzy) (NNS elements)) (VP (VBP are) (VP (VBN used) (PP (IN as) (NP (NP (NNS nodes)) (PP (IN for) (NP (DT an) (VBG evolving) (NN cascade) (NN system))))))) (. .))
+(S (NP (NP (DT The) (VBG evolving) (NN cascade) (NN system)) (PP (IN with) (NP (JJ neo-fuzzy) (NNS nodes)))) (VP (MD can) (VP (VB process) (NP (ADJP (RB rather) (JJ large)) (NNS data) (NNS sets)) (PP (IN with) (NP (JJ high) (NN speed) (CC and) (NN effectiveness))))) (. .))

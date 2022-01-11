@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NNP Variational) (NNP Mutual) (NNP Information) (NNP Maximization) (NNP Framework)) (PP (IN for) (NP (NNP VAE)))) (S (VP (TO to) (VP (VB address) (NP (DT this) (NN issue)))))) (. .))

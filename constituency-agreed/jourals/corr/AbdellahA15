@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (JJR more) (NNS packets)) (VP (VP (VBP are) (PP (IN in) (NP (NN collision)))) (CC and) (VP (VBP are) (VP (VBN lost)))) (. .))
+(S (NP (PRP We)) (VP (VBP model) (NP (DT the) (NN system)) (PP (IN by) (NP (NP (DT a) (ADJP (CD two) (JJ dimensional)) (NNP Markov) (NN chain)) (SBAR (WHNP (WDT that)) (S (VP (VBZ integrates) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NNP ZigZag) (NN decoding)))))))))) (. .))

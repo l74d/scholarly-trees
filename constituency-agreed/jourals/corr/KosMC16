@@ -1,0 +1,2 @@
+(S (NP (NP (NNS People)) (SBAR (WHNP (WP who)) (S (VP (VBP participate) (PP (IN in) (NP (NN community) (NNS networks))))))) (VP (VBP are) (ADVP (RB usually)) (NP (NP (NNS volunteers)) (PP (IN with) (NP (JJ limited) (JJ free) (NN time))))) (. .))
+(S (NP (DT An) (VBN embedded) (NN monitoring) (NN system)) (VP (VBZ enables) (NP (NP (JJ live) (NN overview) (CC and) (NN validation)) (PP (IN of) (NP (DT the) (JJ whole) (NN community) (NN network))))) (. .))

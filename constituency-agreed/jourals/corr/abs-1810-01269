@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN achieved) (PP (IN in) (NP (DT a) (ADJP (ADJP (JJ fast)) (CC and) (ADJP (RB numerically) (JJ robust))) (NN manner))) (PP (IN by) (S (VP (VBG maintaining) (NP (NP (DT a) (NNP Cholesky) (NN factor)) (PP (IN of) (NP (JJ low) (NN dimension))))))))) (. .))

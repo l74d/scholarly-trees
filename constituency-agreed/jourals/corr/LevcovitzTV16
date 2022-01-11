@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN idea)) (PP (IN behind) (NP (NNS microservices) (NN architecture)))) (VP (VBZ is) (S (VP (TO to) (VP (VB develop) (NP (DT a) (JJ single) (JJ large) (, ,) (JJ complex) (NN application)) (PP (IN as) (NP (NP (DT a) (NN suite)) (PP (IN of) (NP (JJ small) (, ,) (JJ cohesive) (, ,) (JJ independent) (NNS services))))))))) (. .))

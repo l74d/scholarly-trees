@@ -1,0 +1,3 @@
+(S (NP (DT A) (NN microgrid)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN concept)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN changed) (NP (DT the) (NN power) (NNS systems)) (ADVP (RB dramatically)))))))) (. .))
+(S (NP (JJ Several) (JJ different) (NNS strategies)) (VP (VBP have) (VP (VBN been) (VP (VBN presented) (PP (IN by) (NP (NNS researchers)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT the) (JJ conventional) (NN droop) (NN strategy)) (VP (VBZ has) (VP (VBN been) (VP (VP (VBN explained) (PP (IN in) (NP (NN detail)))) (CC and) (VP (VBN formulated))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP restrict) (NP (NP (DT the) (NN degenerate) (JJ quadratic) (NNS forms)) (PP (IN of) (NP (DT a) (JJ finite) (NN field)))) (PP (TO to) (NP (PRP$ its) (NX (NX (NNS subspaces)) (CC and) (NX (JJ quotient) (NNS spaces)))))) (. .))
+(S (CC And) (NP (NP (DT some) (JJ related) (NNS results)) (PP (IN on) (NP (DT the) (NX (NX (NNS subspaces)) (CC and) (NX (JJ quotient) (NNS spaces)))))) (VP (VBP are) (VP (VBN obtained))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this)))) (, ,) (NP (PRP we)) (VP (VBP solve) (NP (NP (DT the) (NN weight) (NNS hierarchies)) (PP (IN of) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ linear) (NNS codes))) (VP (VBG relating) (PP (TO to) (NP (DT these) (VB degenerate) (JJ quadratic) (NNS forms)))))))) (. .))

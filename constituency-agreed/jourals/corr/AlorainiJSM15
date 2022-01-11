@@ -1,0 +1,3 @@
+(S (NP (NNS Smartphones)) (ADVP (RB also)) (VP (VBP introduce) (NP (NP (JJ new) (NNS sets)) (PP (IN of) (NP (JJ covert) (NN channel) (NNS techniques)))) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP add) (NP (NP (JJR more) (NNS capabilities)) (CC and) (NP (JJ multiple) (NN network) (NNS connections))))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (NN network) (JJ covert) (NN channel)) (PP (IN in) (NP (NNS smartphones))))) (. .))
+(S (NP (JJ Multiple) (NNS scenarios)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB verify) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (JJ covert) (NN channel))))))))) (. .))

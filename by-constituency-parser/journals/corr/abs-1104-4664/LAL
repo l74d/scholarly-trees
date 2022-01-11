@@ -1,0 +1,4 @@
+(S (NP (NN Q-learning)) (VP (VBZ is) (NP (DT a) (ADJP (JJ reliable) (CC but) (JJ inefficient)) (JJ off-policy) (NN temporal-difference) (NN method)) (, ,) (S (VP (VBG backing) (PRT (RP up)) (NP (RB reward)) (NP (NP (QP (RB only) (CD one)) (NN step)) (PP (IN at) (NP (DT a) (NN time))))))) (. .))
+(S (S (VP (S (VP (VBG Replacing) (NP (NNS traces)))) (, ,) (VP (VBG using) (NP (DT a) (NN recency) (NN heuristic))) (, ,))) (VP (VBP are) (ADJP (ADJP (RBR more) (JJ efficient)) (CC but) (ADJP (RBR less) (JJ reliable)))) (. .))
+(S (NP (NNP TSDT)) (VP (VBZ is) (ADJP (RB particularly) (JJ powerful)) (PP (IN in) (NP (JJ deterministic) (NNS domains)))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (JJ additional) (NNS advantages)) (SBAR (WHADVP (WRB when)) (S (VP (VBG using) (NP (NN state) (NN abstraction)) (, ,) (PP (IN as) (PP (IN in) (NP (NNP MAXQ)))))))) (. .))

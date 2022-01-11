@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (JJ new) (NN interface) (NNS conditions)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ valid) (PP (IN for) (NP (JJ arbitrary) (NN flow) (NNS directions))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (JJ new) (NN interface) (NNS conditions)) (VP (VBP are) (VP (VBN compared) (PP (IN with) (NP (DT the) (JJ classical) (NNS conditions))) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN advantage)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS conditions))))))))) (. .))

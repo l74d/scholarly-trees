@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB implement) (NP (NP (NN backjumping)) (PRN (-LRB- -LRB-) (CC or) (NP (VB intelligent) (VBG backtracking)) (-RRB- -RRB-))) (PP (IN in) (NP (NNP Prolog) (NNS programs))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NN exception) (NN handling)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ seems) (ADJP (JJ impossible)) (PP (IN in) (NP (DT a) (JJ general) (NN case)))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (NN solution)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ works) (PP (PP (IN in) (NP (JJ certain) (NNS cases))) (, ,) (PP (PP (IN in) (ADJP (JJ particular))) (PP (IN for) (NP (JJ binary) (NNS programs)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT an) (JJ approximate) (NN solution)) (, ,) (PP (IN for) (NP (JJ arbitrary) (NNS programs))))) (. .))

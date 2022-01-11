@@ -1,0 +1,2 @@
+(S (NP (NNS Trainees)) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB engage) (PP (IN in) (NP (JJ realistic) (NN dialogue))) (PP (IN with) (NP (DT the) (JJ Chinese) (NN agent)))))))) (. .))
+(S (NP (PRP$ Their) (NNS responses)) (, ,) (PP (IN at) (NP (JJ different) (NNS points))) (, ,) (VP (VB get) (VP (VBN evaluated) (PP (IN by) (NP (JJ different) (JJ multi-label) (NN classification) (NNS models))))) (. .))

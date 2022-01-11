@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (NNP ICS))) (, ,) (NP (NNP WUT) (DT a) (NNP COSMA) (NN design) (NN environment)) (VP (VBZ is) (VP (VBG being) (VP (VBN developed)))) (. .))
+(S (NP (NNP COSMA)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNP Concurrent) (NNP State) (NNP Machines) (PRN (-LRB- -LRB-) (NP (NNP CSM)) (-RRB- -RRB-)) (NN formalism)) (PP (IN of) (NP (NN system) (NN specification))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ contains) (NP (NP (NP (DT a) (JJ graphical) (NN tool)) (PP (IN for) (NP (NN system) (NN design)))) (, ,) (NP (NP (JJ various) (NNS tools)) (PP (IN for) (NP (DT the) (NN analysis))) (PRN (-LRB- -LRB-) (PP (VBG including) (NP (DT a) (JJ temporal) (NN model) (NN checker))) (-RRB- -RRB-))) (, ,) (NP (NN simulator)) (CC and) (NX (NN code) (NN generator)))) (. .))
+(S (PP (IN In) (NP (JJ many) (NNS projects))) (, ,) (NP (DT some) (JJ common) (NNS susbsystems)) (VP (VBP take) (NP (NN place))) (. .))
+(S (NP (DT This)) (VP (VBZ concerns) (NP (DT both) (NP (VBN complicated) (NNS modules)) (CC and) (NP (JJ simple) (NNS counters)))) (. .))
+(S (PP (IN In) (NP (DT the) (NN report))) (, ,) (NP (NP (DT a) (NN concept)) (PP (IN of) (NP (NP (NN macrogeneration) (NN technique)) (PP (IN for) (NP (NP (NN building)) (PP (IN of) (NP (NP (NNS libraries)) (PP (IN of) (NP (NN automata)))))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT The) (JJ new) (NN technique)) (VP (MD will) (VP (VB support) (NP (NP (NP (DT a) (NN compactness)) (PP (IN of) (NP (NNS projects)))) (CC and) (NP (NP (NN reusability)) (PP (IN of) (NP (NNS modules))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN done) (S (VP (TO to) (VP (VB compare) (NP (NP (DT the) (NNS performances)) (PP (IN of) (NP (DT a) (NNP CNN) (NN model)))) (PP (IN with) (NP (CD three) (JJ different) (NN loss) (NNS functions)))))))) (. .))

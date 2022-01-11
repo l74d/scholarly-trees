@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ classic) (ADJP (RB all) (HYPH -) (JJ terminal)) (NN network) (NN reliability) (NN problem)) (VP (VBZ posits) (NP (NP (DT a) (NN graph)) (, ,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WP$ whose) (NNS edges)))) (S (VP (VBZ fails) (ADVP (RB independently)) (PP (IN with) (NP (DT some) (VBN given) (NN probability)))))))) (. .))

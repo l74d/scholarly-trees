@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT an) (JJ extensive) (NN discussion)) (PP (IN of) (NP (DT the) (NNP Leiden) (NNP Ranking) (CD 2011/2012))))) (. .))
+(S (NP (NP (JJ Various) (NNS innovations)) (PP (IN in) (NP (DT the) (NNP Leiden) (NNP Ranking) (CD 2011/2012)))) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (ADVP (RB Finally)) (, ,) (S (NP (DT some) (NNS comments)) (VP (VBP are) (VP (VBN made) (PP (IN on) (NP (NP (DT the) (NN interpretation)) (PP (IN of) (NP (DT the) (NN ranking)))))))) (, ,) (CC and) (S (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS limitations)) (PP (IN of) (NP (DT the) (NN ranking)))))) (VP (VBP are) (VP (VBN pointed) (PRT (RP out))))) (. .))

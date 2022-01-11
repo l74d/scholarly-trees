@@ -1,0 +1,1 @@
+(S (NP (NNS Simulations)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ is) (ADJP (JJ robust) (PP (IN against) (NP (NP (NN noise)) (PP (IN in) (NP (DT the) (NN input) (NNS data)))))))))) (. .))

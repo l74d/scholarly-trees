@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Neuromorphic) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP learn) (CC and) (VBP predict) (PP (IN from) (NP (VBG streaming) (NNS inputs))))))) (VP (VBP hold) (NP (JJ significant) (NN promise)) (PP (IN in) (NP (NP (JJ pervasive) (NN edge) (NN computing)) (CC and) (NP (PRP$ its) (NNS applications))))) (. .))

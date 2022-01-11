@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN set)) (PP (IN of) (NP (NP (JJ linear) (NNS relations)) (SBAR (WHNP (WDT that)) (S (VP (MD must) (VP (VB be) (VP (VBN satisfied) (PP (IN by) (NP (NP (DT the) (NNS coefficients)) (PP (IN of) (NP (DT the) (NN weight) (NN distribution)))))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (DT the) (NN link)) (PP (IN between) (NP (NP (PRP$ our) (NNS results)) (CC and) (NP (DT the) (NNP Pless) (NNS equations)))))) (. .))

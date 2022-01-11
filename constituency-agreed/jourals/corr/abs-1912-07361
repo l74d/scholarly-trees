@@ -1,0 +1,3 @@
+(S (NP (DT These) (NNS signals)) (VP (VBP are) (VP (VBN generated) (PP (IN from) (NP (DT an) (JJ active) (NN brain))) (PP (VBN based) (PP (IN on) (NP (NN brain) (NNS activities) (CC and) (NNS thoughts)))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ visible) (NN mode))) (, ,) (NP (DT the) (JJ human) (NNS subjects)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN color) (CC and) (NN shape)) (VP (VBN presented))))) (. .))
+(S (ADVP (RB Meanwhile)) (, ,) (PP (IN in) (NP (DT the) (JJ invisible) (NN mode))) (, ,) (NP (DT the) (NNS subjects)) (VP (VBP think) (PP (IN about) (NP (JJ specific) (NNS colors) (CC or) (NNS shapes))) (PP (IN with) (NP (JJ closed) (NNS eyes)))) (. .))

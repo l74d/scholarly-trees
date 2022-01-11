@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (JJ complete) (NN cohort)) (PP (IN of) (NP (CD 102))))) (, ,) (S (NP (CD 20) (NNS samples)) (VP (VBD were) (VP (VBN held) (PRT (RP out)) (PP (IN for) (NP (JJ independent) (NN testing)))))) (, ,) (CC and) (S (NP (DT the) (NN rest)) (VP (VBD were) (VP (VBN used) (PP (IN for) (NP (NN training) (CC and) (NN validation)))))) (. .))
+(S (NP (DT The) (NN performance)) (VP (VBD was) (VP (VBN measured) (S (VP (VBG using) (NP (NP (NN volume) (VBG overlapping)) (CC and) (NP (NN surface) (NN distance))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN formulation)) (PP (IN for) (NP (NN distance) (NNS metrics)))) (VP (VBP are) (VP (VBN given) (ADVP (RB here)))) (. .))
+(S (NP (NP (DT The) (NN formulation)) (PP (IN for) (NP (DT the) (CD three) (NNS neighborhoods)))) (VP (VBP are) (VP (VBN presented) (ADVP (RB here)))) (. .))
+(S (NP (DT This) (NN problem)) (VP (VBZ has) (NP (NP (JJ theoretical) (NN importance)) (CC and) (NP (JJ practical) (NNS aspects)))) (. .))

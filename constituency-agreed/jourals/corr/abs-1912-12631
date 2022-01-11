@@ -1,0 +1,3 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (NN model)) (PP (IN of) (NP (JJ public) (NN opinion) (NN expression))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP formulate) (NP (DT the) (NN model)) (PP (IN as) (NP (DT a) (JJ multi-group) (NN majority) (NN game)))) (CC and) (VP (VB investigate) (NP (DT the) (NNP Nash) (NN equilibria)))) (. .))
+(S (PP (IN Among) (NP (JJ other) (NNS findings))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHPP (IN under) (WHNP (WDT which) (NNS circumstances))) (S (NP (DT a) (NN minority)) (VP (MD can) (VP (VB dominate) (NP (JJ public) (NN discourse))))))) (. .))

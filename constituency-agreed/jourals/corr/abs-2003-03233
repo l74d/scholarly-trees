@@ -1,0 +1,2 @@
+(S (NP (NP (VBG Existing) (NNP GAN)) (PP (IN for) (NP (NN image) (NN generation)))) (VP (VBZ requires) (NP (NP (JJ uniform) (NNS images)) (PP (IN of) (NP (VBG matching) (NNS dimensions))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (ADJP (RB publicly) (JJ available)) (NNS datasets)) (, ,) (PP (JJ such) (IN as) (NP (NNP ImageNet)))) (VP (VBP contain) (NP (NP (NNS thousands)) (PP (IN of) (NP (JJ different) (NNS sizes))))) (. .))

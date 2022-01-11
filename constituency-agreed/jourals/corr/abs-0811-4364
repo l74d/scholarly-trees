@@ -1,0 +1,2 @@
+(S (NP (DT These)) (VP (VBP include) (NP (NNS beliefs) (, ,) (NNS desires) (, ,) (NNS intentions) (, ,) (CC and) (NNS attitudes))) (. .))
+(S (PP (IN In) (NP (NN response))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN core) (NN ontology)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ covers) (NP (DT these) (NNS concerns))) (CC and) (VP (VBZ is) (VP (VBN grounded) (PP (IN in) (NP (NP (JJ sound) (JJ conceptual) (NNS foundations)) (VP (VBG resting) (PP (IN on) (NP (DT a) (JJ foundational) (NN ontology))))))))))))) (. .))

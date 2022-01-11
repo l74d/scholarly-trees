@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ computational) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ finite) (NN element) (NN approximation)) (PP (IN in) (NP (NN space))))))) (. .))
+(S (NP (NP (DT The) (NN accuracy) (CC and) (NN stability)) (PP (IN of) (NP (VBN considered) (NNS schemes)))) (VP (VBP are) (VP (VBN demonstrated) (PP (IN by) (NP (JJ numerical) (NNS experiments))))) (. .))

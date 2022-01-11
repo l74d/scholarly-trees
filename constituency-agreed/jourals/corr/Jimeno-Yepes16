@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Features)) (VP (VBN extracted) (PP (IN from) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (DT an) (JJ ambiguous) (NN word))))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB identify) (NP (NP (DT the) (JJ proper) (NN sense)) (PP (IN of) (NP (PDT such) (DT a) (NN word))))))))) (. .))

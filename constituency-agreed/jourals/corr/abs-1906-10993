@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS networks)) (VP (MD can) (VP (VB be) (VP (VBN deployed) (PP (IN by) (NP (NP (JJ traditional) (JJ mobile) (NN network) (NNS operators)) (CC or) (NP (JJ entrant) (JJ local) (NNS operators))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN network) (NN slice) (NN instance) (NN configuration) (NN type)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB exist) (PP (IN for) (NP (DT each) (NN scenario))))))))))) (. .))

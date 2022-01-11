@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN approximation)) (VP (VBN obtained))) (VP (VBZ is) (ADVP (RB provably)) (NP (NP (DT the) (JJS best) (JJ possible)) (PP (IN for) (NP (DT any) (NN conflict) (NN graph) (NN formulation)))))))) (. .))

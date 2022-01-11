@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NNP Tor) (NN network))) (, ,) (NP (DT an) (JJ anonymous) (NN path)) (VP (VBZ is) (VP (VBN created) (PP (IN by) (S (VP (VBG selecting) (NP (NP (CD three) (NNS relays)) (SBAR (WHPP (IN through) (WHNP (WDT which))) (S (NP (DT the) (NN connection)) (VP (VBZ is) (VP (VBN redirected))))))))))) (. .))

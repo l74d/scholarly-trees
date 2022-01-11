@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ includes) (NP (CD four) (NNS steps))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (DT an) (JJ adaptive) (NN notch) (NN filter)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (JJ fundamental) (NN frequency)) (PP (IN of) (NP (DT the) (NN interference))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (VBN estimated) (NN interference)) (VP (VBZ is) (VP (VBN subtracted) (PP (IN from) (NP (DT the) (VBN recorded) (NNS data))))) (. .))

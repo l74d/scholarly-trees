@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (JJ online) (NN implementation)) (PP (IN of) (NP (DT the) (NN control))))) (, ,) (NP (PRP we)) (VP (VBP design) (NP (NP (DT a) (JJ resilient) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ improves) (NP (DT the) (NN network) (JJ algebraic) (NN connectivity)) (ADVP (RB iteratively))))))) (. .))

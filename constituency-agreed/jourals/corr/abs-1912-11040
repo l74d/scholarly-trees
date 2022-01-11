@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP Horovod) (NN allreduce) (NN approach)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB train) (NP (JJ neural) (NN network) (NNS parameters))))))) (. .))

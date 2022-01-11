@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN spectrum)) (PP (IN of) (NP (NP (DT the) (NNP Google) (NN matrix)) (PP (IN of) (NP (NNS integers)))))) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (NP (DT a) (JJ large) (NN gap)) (CC and) (NP (NP (DT a) (ADJP (RB relatively) (JJ small)) (NN number)) (PP (IN of) (NP (JJ nonzero) (NNS eigenvalues)))))))) (. .))
+(S (NP (DT This) (NN network)) (VP (VBZ provides) (NP (NP (DT a) (JJ new) (NNP PageRank) (NN order)) (PP (IN of) (NP (NNS integers))))) (. .))

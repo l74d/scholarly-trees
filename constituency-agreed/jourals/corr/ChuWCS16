@@ -1,0 +1,1 @@
+(S (NP (DT Every) (NN database) (NN system)) (VP (VBZ contains) (NP (NP (DT a) (NN query) (NN optimizer)) (SBAR (WHNP (WDT that)) (S (VP (VBZ performs) (NP (NN query) (NNS rewrites))))))) (. .))

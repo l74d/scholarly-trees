@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG learning) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (NNP Markov) (NNS networks)))) (PP (IN from) (NP (NNS data)))))))) (. .))
+(S (NP (DT These) (NNS algorithms)) (VP (VBP proceed) (PP (IN by) (S (VP (VBG performing) (NP (JJ statistical) (NN independence) (NNS tests)) (PP (IN on) (NP (NNS data)))))) (, ,) (S (VP (VBG trusting) (ADVP (RB completely)) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (DT each) (NN test))))))) (. .))

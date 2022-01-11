@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NN problem)) (ADVP (RB often)) (VP (VBZ occurs) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN training)) (PP (IN of) (NP (JJ large) (NNS models)))) (VP (VBZ is) (VP (VBN performed) (S (VP (VBG using) (NP (JJ few) (NN training) (NNS samples))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (CD three) (NNS contributions))) (. .))

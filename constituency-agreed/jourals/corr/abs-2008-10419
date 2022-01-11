@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN approach)) (VP (VBZ relies) (PP (IN on) (NP (CD two) (JJ distinct) (NNS stages)))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (JJ relevant) (NNS features)) (VP (VBP are) (VP (VBN learned) (PP (IN from) (NP (DT the) (NN challenge) (NN dataset))))) (. .))

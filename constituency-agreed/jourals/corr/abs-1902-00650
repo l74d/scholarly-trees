@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ produces) (NP (NP (JJ bijective) (NN parameterization)) (PP (IN with) (NP (JJ high) (NN quality)))) (PP (ADVP (RB even)) (IN for) (NP (JJ complex) (NNS domains))))))) (. .))

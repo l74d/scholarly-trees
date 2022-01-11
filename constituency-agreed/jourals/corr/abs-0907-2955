@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (JJ additive) (NN noise))))) (NP (JJ numerical) (NNS simulations)) (ADVP (RB essentially)) (VP (VBP confirm) (SBAR (IN that) (S (NP (DT this) (NN error)) (VP (VBZ is) (NP (NP (DT a) (JJ linear) (NN function)) (PP (IN of) (NP (DT the) (JJ relative) (NN perturbation)))))))) (. .))

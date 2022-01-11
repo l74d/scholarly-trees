@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN model)) (VP (VP (VBZ operates) (PP (IN over) (NP (NP (DT a) (ADJP (RB partially) (JJ lexical)) (, ,) (ADJP (RB partially) (JJ syntactic)) (NN view)) (PP (IN of) (NP (DT the) (NN sentence)))))) (CC and) (VP (MD can) (VP (VB reorder) (NP (JJ big) (NNS chunks))))) (. .))

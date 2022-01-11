@@ -1,0 +1,3 @@
+(S (NP (JJ Numerous) (NNS studies)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (ADJP (RBS most) (VBN known)) (NML (JJ real) (HYPH -) (NN world))) (NP (JJ complex) (NNS networks))) (VP (VBP share) (NP (JJ similar) (NNS properties)) (PP (IN in) (NP (NP (PRP$ their) (NN connectivity)) (CC and) (NP (NN degree) (NN distribution)))))))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN called) (NP (JJ small) (NNS worlds)))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ gives) (NP (DT a) (NN method) (S (VP (TO to) (VP (VB turn) (NP (JJ random) (NNS graphs)) (PP (IN into) (NP (NML (NNP Small) (NNP World)) (NN graphs))) (PP (IN by) (NP (NP (DT the) (NN dint)) (PP (IN of) (NP (JJ random) (NNS walks)))))))))) (. .))

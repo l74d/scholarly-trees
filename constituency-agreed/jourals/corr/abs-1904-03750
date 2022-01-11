@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ empirical) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ increases) (NP (NN model) (NN robustness)) (, ,) (S (VP (VBG protecting) (PP (IN against) (NP (JJ adversarial) (NNS attacks))) (PP (IN with) (NP (NP (ADJP (RB substantially) (VBN increased)) (NNS levels)) (PP (IN of) (NP (NNS perturbations))))))))))) (. .))

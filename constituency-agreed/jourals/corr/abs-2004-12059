@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN instance))) (, ,) (NP (DT the) (NN satellite) (NN communication)) (VP (MD might) (VP (VB be) (VP (VBN denied) (CC or) (VBN disrupted)))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (JJ experimental) (NN evaluation))) (, ,) (NP (JJ extensive) (NNS experiments)) (VP (VBP have) (VP (VBN been) (VP (VBN conducted) (PP (IN on) (NP (CD two) (JJ popular) (NN healthcare) (NNS datasets)))))) (. .))

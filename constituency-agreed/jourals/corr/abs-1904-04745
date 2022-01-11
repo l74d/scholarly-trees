@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG referring) (NP (NN image) (NN segmentation))))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (DT the) (VBN proposed) (NN approach)) (PP (IN on) (NP (CD four) (NN evaluation) (NNS datasets)))) (. .))

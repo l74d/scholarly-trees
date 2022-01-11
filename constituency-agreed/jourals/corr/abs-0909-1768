@@ -1,0 +1,1 @@
+(S (S (NP (PRP It)) (VP (VBZ supports) (NP (NP (DT a) (ADJP (NN record) (VBN oriented)) (NN interface)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (NP (JJ atomic) (NNS operations)))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB know) (PP (IN about) (NP (NNS transactions)))))) (. .))

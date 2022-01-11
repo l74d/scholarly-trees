@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG using) (NP (JJ large) (NNS arrays))))) (, ,) (ADVP (RB however)) (, ,) (NP (NP (JJ new) (NNS phenomena)) (CC and) (NP (NN hardware) (NNS limitations))) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN considered)))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (NNS signals)) (VP (MD can) (VP (VB be) (VP (VBN radiated) (ADVP (RB directionally)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD might) (VP (VB focus) (NP (DT the) (NNP OOB) (NN radiation))))))))) (. .))

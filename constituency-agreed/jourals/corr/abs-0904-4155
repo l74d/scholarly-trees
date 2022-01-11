@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discovers) (NP (NP (JJ fundamental) (NNS principles)) (PP (IN of) (NP (NP (DT the) (NN backoff) (NN process)) (SBAR (WHNP (WDT that)) (S (VP (VBZ governs) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP IEEE) (CD 802.11))))))))))) (. .))
+(S (NP (DT A) (JJ refined) (NN wavelet) (NN analysis)) (VP (VBZ is) (VP (VBN conducted) (S (VP (TO to) (VP (VB strengthen) (NP (DT this) (NN argument))))))) (. .))

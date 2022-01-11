@@ -1,0 +1,4 @@
+(S (`` ``) (NP (NN Volunteer) (NN computing)) ('' '') (VP (VBZ is) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN consumer) (JJ digital) (NNS devices))) (PP (IN for) (NP (JJ high-throughput) (JJ scientific) (NN computing))))) (. .))
+(S (NP (PRP It)) (VP (VP (MD can) (VP (VB provide) (NP (JJ large) (VBG computing) (NN capacity)) (PP (IN at) (NP (JJ low) (NN cost))))) (, ,) (CC but) (VP (NNS presents) (NP (NP (NNS challenges)) (ADJP (JJ due) (PP (TO to) (NP (VB device) (NN heterogeneity) (, ,) (NN unreliability) (, ,) (CC and) (NN churn))))))) (. .))
+(S (NP (NP (NNP BOINC)) (, ,) (NP (NP (DT a) (JJ widely-used) (NN open-source) (NN middleware) (NN system)) (PP (IN for) (NP (NN volunteer) (NN computing)))) (, ,)) (VP (VBZ addresses) (NP (DT these) (NNS challenges))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (PRP$ its) (NNS features) (, ,) (NN architecture) (, ,) (CC and) (NN implementation))) (. .))

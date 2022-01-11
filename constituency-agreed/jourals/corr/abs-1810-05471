@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP leverage) (NP (PRP$ our) (NN technique)) (S (VP (TO to) (VP (VB provide) (NP (NP (NP (JJ refined) (NNS bounds)) (PP (IN on) (NP (DT the) (NN validation) (NN error)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT a) (JJ practical) (NN algorithm)) (PP (IN for) (NP (NN hyperparameter) (NN tuning))))))))) (. .))

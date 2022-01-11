@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (DT the) (NN agent)))) (VP (VBZ changes) (NP (NP (DT the) (NN nature)) (PP (IN of) (NP (DT the) (NN input) (NNS data))))))) (, ,) (NP (DT the) (NN autoencoder) (NN training)) (VP (VBZ progresses) (PP (IN throughout) (NP (NN evolution)))) (. .))

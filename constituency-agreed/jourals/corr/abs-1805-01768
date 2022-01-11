@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (DT a) (NN latency) (NN parameter)) (PP (IN in) (NP (DT the) (NN model)))) (CC and) (VP (VB study) (NP (PRP$ its) (JJ overall) (NN impact)) (PP (IN by) (NP (NP (JJ careful) (NNS observations)) (PP (IN of) (NP (NN simulation) (NNS results))))))) (. .))
+(S (NP (DT This) (NN expression)) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB predict) (SBAR (WHPP (IN under) (WHNP (WDT which) (NNS conditions))) (S (NP (DT a) (VBN given) (NN run)) (VP (MD will) (VP (VB yield) (NP (JJ acceptable) (NN performance)))))))))) (. .))

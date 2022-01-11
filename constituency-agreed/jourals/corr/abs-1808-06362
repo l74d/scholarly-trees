@@ -1,0 +1,2 @@
+(S (NP (NP (VBG Existing) (NNS tools)) (PP (IN for) (S (VP (VBG identifying) (NP (JJ architectural) (NNS smells)))))) (VP (MD can) (VP (VB detect) (NP (DT the) (NNS smells)) (SBAR (IN once) (S (NP (PRP they)) (VP (VBP exist) (PP (IN in) (NP (DT the) (NN source) (NN code)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (PRP$ their) (JJ undesired) (NNS dependencies)) (VP (VBP are) (ADVP (RB already)) (VP (VBN created)))))) (. .))

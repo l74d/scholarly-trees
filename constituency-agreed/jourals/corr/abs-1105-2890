@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNP MDPC) (NN architecture)) (VP (VBZ improves) (NP (NP (NP (DT the) (NN usability)) (PP (IN of) (NP (DT the) (NN specification)))) (CC and) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (JJ graphical) (NN interaction))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ enables) (S (VP (VBG implementing) (NP (JJ graphical) (NN interaction)) (PP (IN without) (NP (DT a) (NN scene) (NN graph))))))))) (. .))

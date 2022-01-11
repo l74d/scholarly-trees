@@ -1,0 +1,7 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (ADJP (NN filter) (VBN based)) (NN approach)) (PP (IN for) (NP (VBG inbetweening))))) (. .))
+(S (NP (PRP We)) (VP (VBP train) (S (NP (DT a) (JJ convolutional) (JJ neural) (NN network)) (S (VP (TO to) (VP (VB generate) (NP (JJ intermediate) (NNS frames))))))) (. .))
+(S (NP (DT This) (NN network)) (VP (NN aim) (S (VP (TO to) (VP (VB generate) (NP (NP (JJ smooth) (NN animation)) (PP (IN of) (NP (NN line) (NNS drawings)))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (MD can) (VP (VB process) (NP (JJ scanned) (NNS images)) (ADVP (RB directly)))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ does) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB compute) (NP (NP (NN correspondence)) (PP (IN of) (NP (NP (NNS lines)) (CC and) (NP (JJ topological) (NNS changes))))) (ADVP (RB explicitly))))))) (. .))
+(S (NP (PRP We)) (VP (VBP experiment) (NP (PRP$ our) (NN method)) (PP (IN with) (NP (JJ real) (NN animation) (NN production) (NNS data)))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB generate) (NP (JJ intermediate) (NNS frames)) (ADVP (RB partially))))))) (. .))

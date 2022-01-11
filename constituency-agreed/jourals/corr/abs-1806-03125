@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (NN problem))))) (, ,) (NP (JJ neural) (NNS networks)) (VP (VBD started) (S (VP (TO to) (VP (VB be) (VP (VBN employed) (S (VP (TO to) (VP (VB learn) (NP (NP (NN word) (NNS vectors)) (, ,) (PP (JJ such) (IN as) (NP (DT the) (NN word2vec)))))))))))) (. .))

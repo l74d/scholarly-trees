@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS oracles)) (VP (VBP avoid) (NP (NN diagonalization)) (PP (IN by) (S (VP (VBG answering) (NP (DT some) (NNS queries)) (ADVP (RB randomly)))))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (S (VP (VBG providing) (NP (NP (DT a) (NN foundation)) (PP (IN for) (NP (NP (JJ classical) (NN game) (NN theory)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNS players)) (VP (VBP are) (RB n't) (ADJP (JJ special)))))))))))))) (. .))

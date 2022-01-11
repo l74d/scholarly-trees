@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN queueing) (NN system)) (VP (VBG handling) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NN message) (NNS arrivals)))))) (VP (VBZ is) (VP (VBN considered) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN message)) (VP (VBZ obsoletes) (NP (DT all) (JJ previous) (NNS messages))))))) (. .))

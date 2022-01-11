@@ -1,0 +1,1 @@
+(S (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB entirely)) (VP (VBN written) (PP (IN in) (NP (NNP C++)))))) (CC and) (S (NP (DT the) (NN user)) (VP (MD can) (VP (VB interact) (PP (IN with) (NP (PRP it))) (ADVP (RB directly)) (PP (IN in) (NP (DT that) (NN language)))))) (. .))

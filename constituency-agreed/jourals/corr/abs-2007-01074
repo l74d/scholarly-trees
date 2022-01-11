@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (JJ mobile) (NNS applications))))) (, ,) (NP (NNS permissions) (CC and) (NNS tracers)) (VP (VBP are) (ADVP (RB almost) (RB always)) (ADJP (JJ present))) (. .))
+(S (NP (NNS Trackers)) (VP (VBP have) (NP (CD two) (JJ main) (NNS missions))) (. .))

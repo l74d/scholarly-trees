@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (VP (VBN shown) (PP (IN with) (NP (DT a) (NN prototype) (NN implementation)))))) (, ,) (NP (NP (DT the) (JJ overall) (NN idea)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (VP (VBZ is) (ADJP (JJ generalizable) (PP (IN for) (NP (DT all) (NN bytecode) (NNS interpreters))))) (. .))

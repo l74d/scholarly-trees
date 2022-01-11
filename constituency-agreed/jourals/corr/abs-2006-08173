@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS methods)) (VP (VBP are) (RB not) (ADJP (JJ suitable) (PP (IN for) (S (VP (VBG compressing) (NP (NP (JJ neural) (NNS gradients)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (DT a) (ADJP (RB very) (JJ different)) (NN distribution))))))))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (DT the) (JJ neural) (NNS gradients)) (VP (VBP follow) (NP (DT a) (JJ lognormal) (NN distribution)))))) (. .))

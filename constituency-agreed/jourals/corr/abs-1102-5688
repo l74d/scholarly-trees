@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT the) (NN encoder))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (JJ low) (NN resolution) (NNS images)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN corrupted) (PP (IN by) (NP (NP (JJ additive) (JJ white) (JJ Gaussian) (NN noise)) (CC and) (NP (NN motion) (NN blur)))))))))))) (. .))

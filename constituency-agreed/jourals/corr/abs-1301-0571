@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (ADJP (JJ principled) (CC and) (JJ efficient)) (NN planning) (NN algorithm)) (PP (IN for) (NP (JJ collaborative) (JJ multiagent) (JJ dynamical) (NNS systems))))) (. .))
+(S (NP (DT The) (NNS subsystems)) (VP (VBP are) (VP (VBN connected) (PP (IN through) (NP (DT a) (NN subsystem) (NN hierarchy))))) (. .))

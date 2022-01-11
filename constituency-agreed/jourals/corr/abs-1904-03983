@@ -1,0 +1,1 @@
+(S (PP (IN From) (NP (NP (DT the) (NNS annotations)) (PP (IN of) (NP (DT the) (NNS images))))) (, ,) (NP (DT the) (NN model)) (VP (MD must) (VP (VB find) (PP (IN by) (NP (PRP itself))) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB classify) (NP (NP (DT the) (JJ different) (NNS regions)) (PP (IN of) (NP (DT the) (NN image)))))))))) (. .))

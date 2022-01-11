@@ -1,0 +1,1 @@
+(S (S (VP (VBG Labeling) (NP (DT a) (NN data) (NN set)) (ADVP (RB completely)))) (VP (VBZ is) (ADJP (JJ important) (PP (IN for) (NP (JJ groundtruth) (NN generation))))) (. .))

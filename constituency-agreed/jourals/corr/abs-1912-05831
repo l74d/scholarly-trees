@@ -1,0 +1,3 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (JJ neural) (NNS networks)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN redundancy))))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT these) (NNS challenges))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT the) (NNP STEERAGE) (NN synthesis) (NN methodology))) (. .))
+(S (NP (DT The) (JJ second) (NN step)) (VP (VBZ involves) (NP (JJ local) (NN search))) (. .))

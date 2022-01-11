@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (ADJP (RB fully) (VBN distributed)) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (DT this) (NN problem))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB illustrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN strategy))))))))) (. .))

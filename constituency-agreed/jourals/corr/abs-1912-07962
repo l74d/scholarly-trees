@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ main) (NN challenge)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (VBG resulting) (JJ linear) (NN inverse) (NNS problems)) (VP (VBP are) (ADJP (JJ massive)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP$ their) (JJ overall) (NN convergence)) (VP (MD can) (VP (VB be) (ADJP (JJ slow)))) (. .))

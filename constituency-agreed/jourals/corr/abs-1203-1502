@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (JJ several) (NNS studies)) (VP (VBP exist) (PP (IN in) (NP (DT the) (NN literature)))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT no) (ADJP (RB commonly) (VBN adopted)) (NN evaluation) (NN scheme))) (. .))
+(S (NP (DT This)) (VP (VBZ does) (RB not) (VP (VB ease) (NP (NP (DT the) (NN comparison)) (PP (IN of) (NP (NP (DT the) (JJ different) (NNS systems)) (PP (IN of) (NP (DT the) (NN literature)))))))) (. .))

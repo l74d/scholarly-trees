@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (PP (IN in) (NP (JJ many) (NNS applications))) (, ,) (NP (JJ such) (NN inference)) (VP (VBZ is) (ADJP (RB inherently) (JJ uncertain))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (NN probability) (NN theory)))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (DT the) (JJ associated) (NN uncertainty))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP suggest) (SBAR (IN that) (S (NP (JJR smaller) (NNS networks)) (VP (VBP favor) (NP (JJ non-batched) (NNS techniques)) (SBAR (IN while) (S (NP (NP (NN performance)) (PP (IN for) (NP (JJR larger) (NNS networks)))) (VP (VBZ is) (ADJP (JJR higher)) (S (VP (VBG using) (NP (VBN batched) (NNS operations))))))))))) (. .))

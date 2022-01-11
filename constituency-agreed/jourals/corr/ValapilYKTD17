@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP illustrate) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN time)) (VP (VBN required) (PP (IN for) (NP (NN verification))))) (VP (VBZ is) (VP (VBN affected) (PP (IN by) (NP (NP (NNS parameters)) (PP (JJ such) (IN as) (NP (NP (NN communication) (NN frequency)) (, ,) (NP (NN latency)) (, ,) (CC and) (NP (NN clock) (NN skew))))))))))) (. .))

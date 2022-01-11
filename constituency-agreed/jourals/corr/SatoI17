@@ -1,0 +1,1 @@
+(S (S (NP (PRP$ Our) (NN solution) (NN method)) (VP (VBZ is) (ADJP (JJ deterministic)))) (CC and) (S (NP (DT the) (NN computation) (NN time)) (VP (VBZ is) (RB not) (VP (VBN affected) (PP (IN by) (NP (DT any) (JJ stochastic) (NN behavior)))))) (. .))

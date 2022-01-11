@@ -1,0 +1,8 @@
+(S (NP (JJ Simple) (NN type) (NN theory)) (VP (VBZ is) (VP (VBN formulated) (PP (IN for) (NP (NN use))) (PP (IN with) (NP (DT the) (NML (JJ generic) (NN theorem) (NN prover)) (NNP Isabelle))))) (. .))
+(S (NP (DT This)) (VP (VBZ requires) (NP (JJ explicit) (NML (NN type) (NN inference)) (NNS rules))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NP (NN function) (, ,) (NN product) (, ,) (CC and) (NN subset)) (NP (NNS types))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB be) (ADJP (JJ empty)))))))) (. .))
+(S (NP (NP (NNS Descriptions)) (-LRB- -LRB-) (NP (DT the) (NN eta) (HYPH -) (NN operator)) (-RRB- -RRB-)) (VP (VBP introduce) (NP (NP (DT the) (NN Axiom)) (PP (IN of) (NP (NN Choice))))) (. .))
+(S (NP (NML (JJR Higher) (HYPH -) (NN order)) (NN logic)) (VP (VBZ is) (VP (VBN obtained) (PP (IN through) (NP (NP (NN reflection)) (PP (IN between) (NP (NP (NNS formulae) (CC and) (NNS terms)) (PP (IN of) (NP (NN type) (NN bool))))))))) (. .))
+(S (NP (JJ Recursive) (NNS types) (CC and) (NNS functions)) (VP (MD can) (VP (VB be) (ADVP (RB formally)) (VP (VBN constructed)))) (. .))
+(S (NP (NNP Isabelle) (ADJP (JJ proof)) (NNS procedures)) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (DT The) (NN logic)) (VP (VBZ appears) (ADJP (JJ suitable) (PP (IN for) (NP (NP (JJ general) (NNS mathematics)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ computational) (NNS problems)))))) (. .))

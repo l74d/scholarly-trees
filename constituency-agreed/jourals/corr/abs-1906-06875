@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT a) (NN nutshell))) (, ,) (NP (DT a) (NNP DAT) (NN scheme)) (VP (VP (VBZ perturbs) (NP (DT a) (NN training) (NN example)) (PP (IN in) (NP (NP (DT the) (NN direction)) (PP (IN of) (NP (DT another) (NN example)))))) (CC but) (VP (VBZ keeps) (NP (PRP$ its) (JJ original) (NN label)) (PP (IN as) (NP (DT the) (NN training) (NN target))))) (. .))

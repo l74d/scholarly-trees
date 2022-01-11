@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN cake)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN divided) (ADVP (RB fairly)) (PP (IN among) (NP (NML (NML (NML ($ $)) (NN n)) (NML ($ $))) (NNS agents)))))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT all) (NNS agents)) (VP (VBP have) (NP (JJ equal) (NNS entitlements))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (PDT such) (DT a) (NN division)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN with) (NP (NML (NML ($ $)) (NML (NN n) (HYPH -) (CD 1)) (NML ($ $))) (NNS cuts)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (ADVP (RB firstly)) (VP (VBZ considers) (NP (NP (DT the) (NN research) (NN problem)) (PP (IN of) (NP (NP (NN fairness)) (PP (IN in) (NP (JJ collaborative) (JJ deep) (NN learning)))))) (, ,) (SBAR (IN while) (S (VP (VBG ensuring) (NP (NN privacy)))))) (. .))

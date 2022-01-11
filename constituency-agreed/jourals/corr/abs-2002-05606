@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (CD two) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP combine) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NN word) (NNS vectors)))) (S (VP (TO to) (VP (VB learn) (CC and) (VB estimate) (NP (NP (NN polarity)) (PP (IN of) (NP (NNS reviews)))))))))))) (. .))

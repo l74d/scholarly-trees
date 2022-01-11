@@ -1,0 +1,1 @@
+(S (NP (PRP They)) (VP (MD can) (VP (VP (VB learn) (NP (DT the) (NN probability) (NN distribution)) (PP (IN from) (NP (DT an) (NN input) (NN dataset)))) (CC and) (VP (VB generate) (NP (JJ new) (NNS samples)) (ADVP (RB accordingly))))) (. .))

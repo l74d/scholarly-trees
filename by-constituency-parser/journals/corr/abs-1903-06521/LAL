@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (JJ present) (NP (NP (JJ simple) (JJ graph-theoretic) (NNS characterizations)) (PP (IN of) (NP (NNP Cayley) (NN graphs))) (PP (IN for) (NP (NNS monoids) (, ,) (NNS semigroups) (CC and) (NNS groups))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (DT these) (NNS characterizations)) (PP (TO to) (NP (NP (JJ commutative) (NNS monoids)) (, ,) (NP (NNS semilattices)) (, ,) (CC and) (NP (JJ abelian) (NNS groups))))) (. .))

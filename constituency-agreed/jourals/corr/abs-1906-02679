@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN feature) (NN extraction) (NN method)) (VP (VBZ is) (VP (VBN described)))) (, ,) (CC and) (S (NP (NP (DT a) (JJ large) (NN dataset)) (VP (VBG containing) (NP (NP (NN video) (NN streaming)) (CC and) (NP (NN web) (NN traffic))))) (VP (VBZ is) (VP (VBN created) (S (VP (TO to) (VP (VB verify) (NP (PRP$ its) (NN effectiveness)))))))) (. .))

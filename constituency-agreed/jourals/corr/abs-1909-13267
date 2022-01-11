@@ -1,0 +1,1 @@
+(S (PP (IN After) (NP (NP (NN time) (NN discretization)) (PP (IN of) (NP (DT the) (NN system))))) (, ,) (S (VP (TO to) (VP (VB tackle) (NP (DT the) (NN nonlinearity))))) (, ,) (NP (PRP we)) (VP (VBP linearize) (NP (DT the) (VBG resulting) (NNS equations)) (PP (IN by) (NP (NNP Picard) (NN iteration)))) (. .))

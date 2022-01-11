@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN on) (NP (DT the) (NNP PASCAL) (NNP VOC) (CD 2012) (NN dataset)))) (VP (VBP illustrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

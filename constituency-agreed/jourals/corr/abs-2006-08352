@@ -1,0 +1,2 @@
+(S (NP (NNS Results)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NN station) (NNS neighbors)) (CC and) (NP (DT the) (NN prediction) (NN horizon) (NN time))) (VP (VBP are) (NP (JJ significant) (NNS predictors)))))) (. .))
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ effective)) (NN prediction) (NN horizon) (NN time)) (SBAR (WHNP (WDT that)) (S (VP (VBD produced) (NP (DT the) (JJS least) (NN prediction) (NN error)))))) (VP (VBD was) (NP (CD 15) (NNS minutes))) (. .))

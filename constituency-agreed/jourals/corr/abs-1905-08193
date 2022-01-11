@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN form)) (PP (IN of) (NP (DT the) (NNP EMF)))) (VP (VBZ is) (VP (VBN determined) (S (VP (VBG using) (NP (NP (VBN regularized) (JJ linear) (NN regression)) (CC and) (NP (JJ random) (NNS forests))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (JJ previous) (NNS contributions))) (, ,) (NP (DT this) (NN analysis)) (VP (VBZ does) (RB not) (VP (VB assume) (SBAR (IN that) (S (NP (DT the) (NN blocklength)) (VP (VBZ is) (ADJP (RB asymptotically) (JJ large))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (JJ new) (NN notion)) (PP (IN of) (NP (JJ nonstochastic) (NN information)))) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (NP (NP (DT a) (JJ noncooperative) (NN problem)) (VP (VBG involving) (NP (CD three) (NNS agents))))))) (. .))

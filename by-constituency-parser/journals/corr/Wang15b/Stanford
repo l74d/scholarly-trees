@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP extend) (NP (NP (DT the) (NN algebra)) (PP (IN of) (NP (JJ reversible) (NN computation)))) (S (VP (TO to) (VP (VB support) (NP (NN quantum) (NN computing)))))) (. .))
+(S (S (SBAR (IN Since) (S (NP (DT the) (NN algebra)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ true) (NN concurrency))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ reversible) (PP (IN for) (NP (NN quantum) (NN computing)))))) (CC and) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (DT a) (NN sound)) (CC and) (NP (JJ complete) (NN theory))))) (. .))

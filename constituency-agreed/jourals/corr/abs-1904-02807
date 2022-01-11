@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Much)) (PP (IN of) (NP (NP (DT the) (NN information) (NN processing)) (VP (VBN performed) (PP (IN by) (NP (DT a) (NN neuron))))))) (VP (VBZ occurs) (PP (IN in) (NP (DT the) (JJ dendritic) (NN tree)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (NNS simulations)) (PP (IN of) (NP (NP (NNS circuits)) (VP (VBG performing) (NP (NP (JJ basic) (JJ temporal) (NN filtering)) (, ,) (NP (JJ logical) (NNS operations)) (, ,) (CC and) (NP (JJ nonlinear) (NN transfer) (NNS functions)))))))) (. .))

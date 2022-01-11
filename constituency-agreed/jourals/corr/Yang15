@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB characterize) (NP (JJ grey) (NNS ratings))))) (, ,) (NP (PRP we)) (VP (VBP exploit) (NP (NP (NN rating) (NN deviation)) (PP (IN of) (NP (NN item)))) (S (VP (TO to) (VP (VB discriminate) (PP (IN between) (NP (NP (JJ grey) (NN attack) (NNS profiles)) (CC and) (NP (JJ genuine) (NNS profiles)))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP employ) (NP (NP (NN novelty) (CC and) (NN popularity)) (PP (IN of) (NP (NN item)))) (S (VP (TO to) (VP (VB construct) (NP (NN rating) (NN series)))))) (. .))

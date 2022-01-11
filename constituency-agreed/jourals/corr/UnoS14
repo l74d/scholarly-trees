@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ chordless) (NN path)) (VP (VBZ is) (VP (VBN defined) (ADVP (RB similarly)))) (. .))
+(S (NP (PRP They)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ chordless) (NNS cycles)))) (VP (VBZ is) (ADJP (ADJP (RB much) (JJR smaller)) (PP (IN than) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS cycles)))))))))) (. .))

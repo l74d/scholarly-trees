@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (JJ efficient) (NNS ways)) (PP (IN of) (NP (NP (JJ key) (NN distribution)) (PP (PP (IN among) (NP (NP (DT the) (NNS nodes)) (PP (IN within) (NP (DT the) (NN cluster))))) (CC and) (PP (IN among) (NP (NP (NNS controllers)) (PP (IN of) (NP (DT each) (NN cluster))))))))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (NP (DT A) (JJ graphical) (NN representation)) (PP (IN of) (NP (NP (DT the) (NN simulation)) (PP (IN on) (NP (DT the) (NN scheme)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN presented))) (. .))

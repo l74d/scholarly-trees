@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NNS challenges)) (PP (IN of) (NP (NP (JJ incremental) (NN view) (NN maintenance)) (PP (IN for) (NP (NN property) (NN graph) (NNS queries))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP select) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (NN property) (NN graph) (NNS queries))))) (CC and) (VP (VB present) (NP (NP (DT an) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (VBN nested) (JJ relational) (NN algebra)) (S (VP (TO to) (VP (VB allow) (NP (JJ incremental) (NN evaluation))))))))))) (. .))

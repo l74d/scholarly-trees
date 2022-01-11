@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NNS advances)) (PP (IN in) (NP (PRP$ their) (NN accuracy)))) (VP (VBP are) (ADVP (RB often)) (VP (VBN achieved) (PP (IN with) (NP (ADJP (RB increasingly) (JJ complex) (CC and) (JJ deep)) (NN network) (NNS architectures))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP outline) (NP (NP (DT some) (NNS challenges)) (CC and) (NP (NP (JJ future) (NNS areas)) (PP (IN of) (NP (NN exploration)))))) (. .))

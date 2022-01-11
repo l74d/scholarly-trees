@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN search) (NN space)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (MD can) (VP (VB be) (ADVP (RB further)) (VP (VBN reduced) (PP (IN by) (S (VP (VBG imposing) (NP (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (JJ objective) (NN function))))))))))) (. .))

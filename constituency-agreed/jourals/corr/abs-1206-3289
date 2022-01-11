@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB handle) (NP (JJ non-persistent) (NNS variables)))))) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (NN persistence)) (VP (MD can) (VP (VB be) (VP (VBN exploited) (ADVP (RB effectively)) (PP (IN for) (NP (JJ approximate) (NN filtering)))))))))) (. .))

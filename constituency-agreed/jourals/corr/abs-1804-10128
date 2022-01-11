@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Modular) (NNS curves)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (DT an) (JJ essential) (NN tool)) (PP (IN in) (NP (DT the) (NNS computations))))))) (, ,)) (VP (VBP are) (ADVP (RB also)) (VP (VBN introduced))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (PRP$ our) (NN implementation)) (CC and) (NP (JJ practical) (NNS results)))) (. .))

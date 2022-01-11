@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NP (DT the) (NN utility)) (PP (IN of) (NP (NNS realms)))) (PP (IN through) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS examples)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT an) (NN outline)) (PP (IN of) (NP (NP (DT the) (NNS mechanisms)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN needed) (S (VP (TO to) (VP (VB create) (CC and) (VB maintain) (NP (NNS realms))))))))))))) (. .))

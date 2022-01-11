@@ -1,0 +1,1 @@
+(S (NP (NP (PRP$ Our) (JJS best) (NNS models)) (PP (IN on) (NP (DT the) (VBN shared) (NN task) (NN test) (NNS data)))) (VP (VBP are) (VP (VBN acquired) (PP (IN with) (NP (NP (DT a) (NN majority) (NN voting)) (PP (IN of) (NP (NP (JJ various) (NNP BERT) (NNS models)) (VP (VBN trained) (PP (IN under) (NP (JJ different) (NNS data) (NNS conditions)))))))))) (. .))

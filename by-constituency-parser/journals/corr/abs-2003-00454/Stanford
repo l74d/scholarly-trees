@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN matrix)) (VP (VBZ is) (VP (VBN called) (NP (NNP Bohemian)) (SBAR (IN if) (S (NP (PRP$ its) (NNS entries)) (VP (VBP are) (VP (VBN sampled) (PP (IN from) (NP (NP (DT a) (JJ finite) (NN set)) (PP (IN of) (NP (NNS integers))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP generalize) (NP (DT the) (NN problem)) (PP (IN to) (NP (JJ non-integer-valued) (NNS entries)))) (. .))

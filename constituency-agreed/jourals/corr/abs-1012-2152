@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBD implemented) (NP (DT these) (NNS protocols)) (S (VP (VBG using) (NP (ADJP (RB readily) (JJ available)) (JJ cryptographic) (NNS functions))))) (, ,) (CC and) (VP (VBD integrated) (NP (DT the) (NNS protocols)) (PP (IN with) (NP (NP (NNP FXPAL) (POS 's)) (NN myUnity) (NN presence) (NN system))))) (. .))

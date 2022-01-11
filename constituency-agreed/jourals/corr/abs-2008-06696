@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN throttle) (CC and) (NN brake)) (VP (VBP are) (VP (VBN modelled) (PP (IN as) (NP (JJ continuous) (NN action) (NN space) (NNS values))))) (. .))
+(S (NP (DT The) (JJ second) (NN scenario)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD 2) (NNS vehicles)) (VP (VBG approaching) (NP (DT an) (NN intersection)))))) (. .))

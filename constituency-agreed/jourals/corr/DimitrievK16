@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ requires) (NP (NP (DT no) (NN user) (NN input)) (, ,) (NP (DT no) (JJ supervised) (NN learning) (NN phase)))) (CC and) (VP (VBZ assumes) (NP (NP (DT an) (JJ unknown) (NN number)) (PP (IN of) (NP (NNS segments)))))) (. .))

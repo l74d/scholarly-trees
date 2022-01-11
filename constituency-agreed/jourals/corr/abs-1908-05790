@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (NNP Task) (NNP Bench) (POS 's)) (NN parameterization)) (VP (VBZ enables) (NP (NP (DT a) (JJ wide) (NN variety)) (PP (IN of) (NP (NP (NN benchmark) (NNS scenarios)) (SBAR (WHNP (WDT that)) (S (VP (VBP distill) (NP (NP (DT the) (JJ key) (NNS characteristics)) (PP (IN of) (NP (JJR larger) (NNS applications))))))))))) (. .))

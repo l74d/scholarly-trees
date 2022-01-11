@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP develop) (NP (NP (DT a) (NN way)) (PP (IN of) (S (VP (VBG capturing) (NP (JJ non-convex) (NNS constraints)) (PP (IN in) (NP (DT the) (NN state) (NN space)))))))) (CC and) (VP (VB adapt) (NP (DT the) (NN optimization)) (S (VP (TO to) (VP (VB incorporate) (NP (JJ such) (NNS constraints)) (, ,) (ADVP (RB as) (RB well))))))) (. .))

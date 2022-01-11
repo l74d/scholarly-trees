@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (ADVP (RB mainly)) (VP (VBP focus) (PP (IN on) (NP (NP (NP (CD two) (JJ typical) (NNS types)) (PP (IN of) (NP (NNS networks)))) (: :) (NP (NP (NN transmission) (NNS networks)) (CC and) (NP (NN similarity) (NNS networks)))))) (. .))
+(S (NP (NNS Readers)) (VP (MD can) (VP (VB specialize) (NP (PRP$ our) (JJ general) (NN algorithm)) (S (VP (TO to) (VP (VB accommodate) (NP (PRP$ their) (NNS problems))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN end))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP give) (NP (DT a) (NN demonstration)) (S (VP (TO to) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN algorithm)) (VP (VBZ works)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Through) (NP (DT this) (NN mechanism))) (, ,) (NP (DT the) (JJ neural) (NN network)) (VP (VBZ captures) (NP (NP (NP (DT the) (ADJP (RB semantically) (VBN shared)) (NN information)) (PP (IN across) (NP (JJ different) (NNS modalities)))) (CC and) (NP (NP (DT the) (JJ apparent) (JJ visual) (NN similarity)) (PP (IN between) (NP (NNS patients)))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN method)) (PP (IN on) (NP (NP (CD two) (JJ public) (NN benchmark) (NNS datasets)) (PP (IN for) (NP (JJ retinal) (NN disease) (NN diagnosis)))))) (. .))

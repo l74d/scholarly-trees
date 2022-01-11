@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VP (VBP introduce) (NP (PRP$ our) (NN case) (NN study))) (CC and) (VP (VB examine) (NP (DT these) (NNS methods)) (PP (IN in) (NP (DT a) (JJ real) (NN world) (NN situation))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS tools)) (VP (MD can) (VP (VB be) (VP (VBN used)))))) (CC and) (SBAR (WHNP (WP what)) (S (NP (DT the) (NNS results)) (VP (VBP are) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (PRP them)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN factorization)) (VP (VBZ is) (VP (VBN parallelized) (PP (IN across) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NNS cores))))))))) (, ,) (NP (NN communication) (NNS latencies)) (VP (MD can) (VP (VB be) (NP (DT the) (JJ dominant) (JJ computational) (NN cost)))) (. .))

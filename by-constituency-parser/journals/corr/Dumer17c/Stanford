@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP survey) (NP (NP (DT the) (JJ known) (NN list) (NN decoding) (NNS algorithms)) (PP (IN for) (NP (JJ polar) (NNS codes))))) (CC and) (VP (VB compare) (NP (PRP$ their) (NN complexity)))) (. .))
+(FRAG (NP (NNP Index) (NNS terms)) (: :) (NP (NP (NNP Polar) (NNS codes)) (: ;) (NP (NP (NML (NNP Reed) (HYPH -) (NNP Muller)) (NNS codes)) (: ;) (NP (JJ successive) (NN cancellation) (NN decoding)))) (. .))

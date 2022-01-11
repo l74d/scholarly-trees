@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (CD two) (JJ different) (NN design) (NNS criteria)))) (. .))
+(S (NP (DT Both) (NNS problems)) (VP (VBP are) (VP (VBN solved) (S (VP (VBG using) (NP (JJ standard) (JJ conic) (NN optimization) (NNS packages)))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBP are) (NP (QP (JJR more) (IN than) (CD two)) (NNS users))))) (, ,) (NP (DT the) (NN capacity)) (VP (VBZ is) (ADJP (JJ unknown))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT some) (NNS ideas)) (PP (IN of) (S (VP (VBG extending) (NP (DT the) (NNS techniques)) (PP (TO to) (NP (ADJP (RBR more) (JJ general)) (NN source) (NNS models)))))))) (. .))

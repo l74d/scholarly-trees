@@ -1,0 +1,2 @@
+(S (ADVP (RB Accordingly)) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS models)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (CC and) (VBN analyzed)))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (NP (DT the) (NNS limitations)) (PP (IN of) (NP (VBG existing) (NNS models))))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB capture) (NP (JJ such) (JJ complex) (NN interdependency) (NNS relations))))))))))) (. .))

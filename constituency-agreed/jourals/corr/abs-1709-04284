@@ -1,0 +1,2 @@
+(S (NP (JJ Efficient) (JJ transactional) (NN management)) (VP (VBZ is) (NP (DT a) (JJ delicate) (NN task))) (. .))
+(S (PP (IN Inside) (NP (DT both) (NNS components))) (, ,) (NP (NNP MVCC)) (VP (VBZ ensures) (NP (NP (DT a) (JJ high) (NN degree)) (PP (IN of) (NP (NN concurrency))))) (. .))

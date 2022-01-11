@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ ballistic) (NN missile)) (VP (MD may) (VP (VB be) (PP (IN in) (NP (JJ several) (NNS pieces))) (, ,) (S (VP (VBG presenting) (NP (JJ multiple) (NNS targets)))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (SBAR (IN whether) (S (NP (DT the) (NN cue)) (VP (VP (VBZ is) (ADVP (RB already)) (PP (IN in) (NP (DT the) (JJ local) (NN track) (NN file)))) (CC or) (VP (VBZ is) (NP (DT a) (JJ new) (NN track))))))) (. .))
+(S (NP (DT The) (NN cue) (NN information)) (VP (MD can) (VP (VB improve) (NP (DT the) (VBG existing) (JJ local) (NN track)))) (. .))

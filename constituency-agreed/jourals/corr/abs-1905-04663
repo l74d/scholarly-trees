@@ -1,0 +1,2 @@
+(S (NP (NNS Filters)) (VP (VBP are) (ADVP (RB then)) (VP (VBN encoded) (PP (IN by) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN rotation) (JJ invariant) (NNS coefficients))))))) (. .))
+(S (S (VP (TO To) (VP (VB rotate) (NP (DT a) (NN filter))))) (, ,) (NP (PRP we)) (VP (VBP switch) (NP (DT the) (NN basis))) (. .))

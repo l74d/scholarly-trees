@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (CD two) (NNS strategies)) (PP (IN for) (NP (NN Presenter)))) (PP (IN in) (NP (NP (NML (PP (IN on) (HYPH -) (NP (NN line)))) (NN graph)) (VP (VBG coloring) (NP (NNS games)))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADJP (ADJP (JJS best) (JJ possible)) (PP (IN up) (PP (IN to) (NP (DT an) (JJ additive) (JJ constant)))))) (. .))

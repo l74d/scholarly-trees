@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Capabilities)) (PP (IN of) (NP (NN inference) (CC and) (NN prediction)))) (VP (VBP are) (NP (NP (JJ significant) (NNS components)) (PP (IN of) (NP (JJ visual) (NNS systems))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (NP (DT an) (ADJP (JJ important) (CC and) (JJ challenging)) (NN task)) (PP (IN of) (NP (PRP them)))) (: :) (NP (JJ visual) (NN path) (NN prediction)))) (. .))

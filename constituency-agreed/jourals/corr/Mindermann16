@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some) (NNS improvements)) (PP (IN in) (NP (DT the) (JJ current) (NN research)))) (VP (MD may) (RB not) (VP (VB reach) (CC or) (VB impact) (NP (DT these) (NNS developers)))) (. .))
+(S (ADVP (RB Nonetheless)) (NP (DT these) (NNS developers)) (VP (VBP use) (NP (NN security) (NNS libraries))) (. .))

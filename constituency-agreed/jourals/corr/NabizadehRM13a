@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (VBN proposed) (NN algorithm))) (, ,) (NP (DT the) (NN search) (NN space)) (VP (VBZ is) (VP (VBN partitioned) (PP (IN into) (NP (NNS cells))) (PP (IN by) (NP (DT a) (JJ cellular) (NN automaton))))) (. .))

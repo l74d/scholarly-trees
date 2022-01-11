@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB develop) (NP (DT a) (JJ universal) (NN sketch) (NN grouper)))))) (. .))
+(S (NP (DT The) (JJ discriminative) (NNS losses)) (VP (VBP include) (NP (NP (DT a) (JJ local) (NN grouping) (NN loss)) (CC and) (NP (DT a) (JJ novel) (JJ global) (NN grouping) (NN loss))) (S (VP (TO to) (VP (VB enforce) (NP (JJ global) (NN grouping) (NN consistency)))))) (. .))

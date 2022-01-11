@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT these) (NNS challenges))))) (, ,) (NP (DT the) (JJ objective) (NN item) (NNS attributes)) (VP (VBP are) (VP (VBN incorporated) (PP (IN as) (NP (JJ complementary) (NN information))))) (. .))
+(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN on) (NP (CD two) (JJ open) (NNS data) (NNS sets)))) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NNP CIMF)) (VP (VBZ outperforms) (NP (DT the) (NN benchmark) (NNS methods)))))) (. .))

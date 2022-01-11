@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (NN subspace) (NNS constraints)) (CC or) (NP (NN sparsity) (NNS constraints))) (VP (VBP are) (VP (VBN imposed) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN search) (NN space))))))) (. .))

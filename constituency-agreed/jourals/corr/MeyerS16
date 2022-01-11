@@ -1,0 +1,2 @@
+(S (NP (NN Election) (NNS systems)) (VP (MD must) (VP (VB ensure) (SBAR (IN that) (S (NP (NNS representatives)) (VP (VBP are) (VP (VBN chosen) (PP (IN by) (NP (NNS voters))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT each) (NN voter)) (VP (MD should) (VP (VB have) (NP (JJ equal) (NN influence)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN dependency)) (VP (MD can) (VP (VB hurt) (NP (DT the) (NN performance)) (SBAR (SBAR (IN if) (S (NP (DT the) (NN mini-batch) (NN size)) (VP (VBZ is) (ADJP (RB too) (JJ small))))) (, ,) (CC or) (SBAR (IN if) (S (NP (DT the) (NNS elements)) (VP (VBP are) (VP (VBN correlated)))))))) (. .))

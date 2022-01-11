@@ -1,0 +1,2 @@
+(S (NP (NNS Surgeons)) (, ,) (ADVP (RB therefore)) (, ,) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB invest) (NP (JJ significant) (NN time)) (PP (IN by) (S (VP (VBG attending) (NP (JJ extensive) (NN training) (NNS programs)))))))))) (. .))
+(S (NP (NP (PDT All) (DT these) (ADJP (JJ technological) (CC and) (JJ financial)) (NNS barriers)) (PP (IN for) (NP (NNS surgeons) (CC and) (NNS hospitals)))) (VP (VBP hinder) (NP (NP (DT the) (NN adoption)) (PP (IN of) (NP (JJ robotic) (NN surgery))))) (. .))

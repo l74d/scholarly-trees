@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN clustering)) (VP (VBZ is) (VP (VBN done) (PP (IN by) (S (VP (VBG minimizing) (NP (DT a) (NN metaconflict) (NN function))))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (NN hybrid)) (PP (IN of) (NP (DT the) (CD two) (NNS methods))))) (. .))

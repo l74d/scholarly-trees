@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NNP CDAG)) (VP (VBZ provides) (NP (NP (DT a) (JJ total) (NN order)) (PP (IN among) (NP (NP (DT the) (NNS blocks)) (PP (IN of) (NP (DT the) (NN ledger)))))) (S (VP (TO to) (VP (VB support) (NP (JJ smart) (NNS contracts))))) (, ,) (PP (IN unlike) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ other) (NN blockDAG) (NNS protocols)))))) (. .))

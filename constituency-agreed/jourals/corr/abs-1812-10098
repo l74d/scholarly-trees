@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN image)) (VP (VBZ is) (VP (VBG representing) (PP (IN as) (NP (JJ non-oriented) (JJ weighted) (NN graph))))) (. .))
+(S (NP (DT This) (NN experiment)) (VP (VBD was) (VP (VBN conducted) (PP (PP (IN on) (NP (NN grayscale))) (, ,) (CC and) (PP (IN on) (NP (JJ colored) (NNS images))) (, ,) (PP (IN on) (NP (JJ artificial) (NNS images))) (CC and) (PP (IN on) (NP (NNS photos)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS parameters)) (PP (IN of) (NP (NP (NNS examples)) (PP (IN of) (NP (DT the) (JJ modest) (NN length)))))) (VP (VBP are) (VP (VBN computed))) (. .))
+(S (NP (JJ Several) (JJ such) (NNS codes)) (VP (VBP are) (ADJP (JJ optimal))) (. .))

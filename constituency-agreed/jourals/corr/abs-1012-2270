@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN format)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB perform) (ADVP (RB well)) (PP (ADVP (RB mainly)) (IN on) (NP (DT the) (NNP GPU) (NNS devices)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP give) (NP (NP (JJ detailed) (NN comparison)) (PP (IN of) (NP (DT both) (NNS formats))))) (CC and) (VP (VBP show) (NP (PRP$ their) (ADJP (JJ strong) (CC and) (JJ weak)) (NNS parts)))) (. .))

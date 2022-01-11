@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP model) (NP (DT a) (JJ multi-input) (NN channel)) (PP (IN as) (NP (DT a) (NNP Markov) (NN kernel)))) (. .))
+(S (NP (PRP We)) (VP (MD can) (VP (VB project) (NP (DT the) (NN channel)) (PP (IN onto) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (JJ exponential) (NNS families)) (SBAR (WHNP (WDT which)) (S (VP (VBP form) (NP (DT a) (JJ hierarchical) (NN structure))))))))))) (. .))

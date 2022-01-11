@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB append) (NP (DT a) (JJ correct) (NN block)) (PP (IN into) (NP (NN blockchain)))))) (, ,) (NP (NNS miners)) (VP (VBP execute) (NP (NP (DT these) (NNS transactions)) (PP (IN of) (NP (JJ smart) (NNS contracts)))) (ADVP (RB sequentially))) (. .))

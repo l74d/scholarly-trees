@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB locate) (NP (NN optimization) (NNS opportunities))))) (, ,) (NP (NNS developers)) (VP (VBP rely) (PP (IN on) (NP (NN software) (NNS profilers)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (JJ causal) (NN profiling))) (. .))

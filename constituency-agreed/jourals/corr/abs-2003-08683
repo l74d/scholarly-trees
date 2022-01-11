@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP exemplify) (NP (DT the) (NN model)) (PP (IN with) (NP (NN simulation) (NNS results)))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN advantage)) (PP (IN of) (NP (PRP$ our) (NN model)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ provides) (NP (DT an) (JJ optimal) (NN task) (NN allocation)) (ADVP (RB simultaneously)) (PP (IN for) (NP (NN memory) (CC and) (NN time))))))) (. .))

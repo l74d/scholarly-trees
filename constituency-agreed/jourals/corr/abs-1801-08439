@@ -1,0 +1,2 @@
+(S (NP (JJ Various) (NNS tools)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB assist) (NP (JJ human) (NNS inspectors)) (PP (IN by) (S (ADVP (RB automatically)) (VP (VBG identifying) (NP (JJ suspicious) (NNS documents))))))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (DT the) (JJ general) (NN detection)) (PP (IN of) (NP (NN equivalence) (NNS transformations)))) (VP (VBZ is) (ADVP (RB currently)) (RB not) (ADJP (JJ feasible))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (JJ usual) (NN tool)) (PP (IN for) (NP (DT a) (VBN given) (NN task)))) (VP (MD might) (RB not) (VP (VB be) (ADJP (JJ available))))) (CC and) (S (NP (DT the) (NN robot)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB use) (NP (DT some) (NN substitute) (NN tool)))))))) (. .))

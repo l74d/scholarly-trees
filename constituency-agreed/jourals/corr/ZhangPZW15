@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (SBAR (IN if) (S (NP (NP (DT an) (NN ad)) (PP (IN in) (NP (DT a) (NN webpage)))) (VP (VBZ has) (VP (VBN been) (VP (VBN loaded) (PP (IN in) (NP (DT the) (NN browser)))))))) (, ,) (NP (DT an) (NN ad) (NN impression)) (VP (VBZ is) (VP (VBN counted))) (. .))

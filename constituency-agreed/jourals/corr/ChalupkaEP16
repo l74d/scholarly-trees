@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (PRP$ our) (NN classifier)) (VP (VBZ is) (VP (VBN trained) (PP (IN with) (NP (NP (DT a) (JJ Bayesian) (NN assumption)) (PP (IN of) (NP (JJ flat) (NNS hyperpriors))))))))) (, ,) (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB make) (NP (DT this) (NN assumption)) (PP (IN about) (NP (PRP$ our) (NN test) (NNS data))))) (. .))

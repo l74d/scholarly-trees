@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (NNS problems)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (JJ linear) (NN separability)) (PP (IN of) (NP (NNS clusters)))) (VP (VBZ is) (VP (VBN hidden) (PP (IN in) (NP (DT a) (ADJP (JJ low) (JJ dimensional)) (NN space))))))))))) (. .))

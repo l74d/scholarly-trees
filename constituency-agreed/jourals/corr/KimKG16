@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ distinguishes) (NP (DT each) (JJ unique) (NN person)) (PP (IN from) (NP (NP (DT all) (JJ other) (NNS records)) (PP (IN in) (NP (DT the) (NN database)))))) (. .))
+(S (PP (IN For) (NP (JJ additional) (NN scalability))) (NP (NN clustering)) (VP (VBD was) (VP (VBN parallelized))) (. .))

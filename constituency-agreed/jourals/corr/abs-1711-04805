@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (VP (VBN trained) (PP (IN on) (NP (NN translation) (NN bitext))) (PP (IN by) (S (VP (VBG simulating) (NP (NNS post-edits))))))) (. .))

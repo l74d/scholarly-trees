@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN result)) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (NNP RepGAN)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB learn) (NP (DT a) (ADJP (JJ useful) (CC and) (JJ competitive)) (NN representation)))))))))) (. .))

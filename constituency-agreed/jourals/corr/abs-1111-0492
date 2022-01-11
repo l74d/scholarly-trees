@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NP (JJ rigid) (JJ combinatorial) (NNS objects)) (SBAR (WHNP (WDT which)) (S (ADVP (RB previously)) (VP (VBD were) (RB not) (VP (VBN known) (S (VP (TO to) (VP (VB exist)))))))))))) (. .))
+(S (NP (NP (DT The) (NN proof)) (PP (IN of) (NP (NN existence)))) (VP (VBZ is) (ADJP (JJ probabilistic))) (. .))

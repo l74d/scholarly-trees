@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (NP (DT the) (JJ autonomous) (NN robot) (NN ergodicity) (NN problem)) (PP (IN for) (NP (JJ efficient) (NN environment) (NN exploration))))) (. .))
+(S (PP (VBN Given) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (DT the) (JJ ergodic) (NN function))))) (, ,) (NP (DT a) (NN convergence) (NN condition)) (VP (VBZ is) (VP (VBN derived) (PP (VBN based) (PP (IN on) (NP (DT the) (NN timing) (NN analysis)))))) (. .))
+(S (S (VP (TO To) (VP (VB support) (NP (NP (DT the) (NN validity)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))))) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP are) (VP (VBN provided))) (. .))

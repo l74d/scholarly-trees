@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN clustering) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VP (VB cluster) (NP (JJ multiple) (NNS types))) (CC and) (VP (VB incorporate) (NP (DT the) (JJ sub-type) (NN information)) (PP (IN as) (NP (NNS constraints)))))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NNS experiments))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (CD two) (VBG existing) (NN knowledge) (NNS bases)) (PP (IN as) (NP (NP (PRP$ our) (NNS sources)) (PP (IN of) (NP (NN world) (NN knowledge)))))) (. .))

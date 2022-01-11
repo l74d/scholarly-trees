@@ -1,0 +1,4 @@
+(S (NP (NNS Emotions)) (VP (VBP are) (ADJP (RB very) (JJ important) (PP (IN for) (NP (JJ human) (NN intelligence))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (JJ social) (NN aspect)) (PP (IN of) (NP (NNS emotions)))) (VP (VBZ is) (ADVP (RB also)) (ADJP (RB very) (JJ important))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (SBAR (IN if) (S (NP (NP (DT the) (NN mechanism)) (PP (IN of) (NP (NNS emotions)))) (VP (VBD were) (VP (VBN elucidated))))) (, ,) (NP (PRP we)) (VP (MD could) (VP (VB advance) (PP (IN toward) (NP (NP (DT the) (JJ essential) (NN understanding)) (PP (IN of) (NP (PRP$ our) (JJ natural) (NN intelligence))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (NP (DT a) (NN model)) (PP (IN of) (NP (NNS emotions)))) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB elucidate) (NP (NP (DT the) (NN mechanism)) (PP (IN of) (NP (NNS emotions)))) (PP (IN through) (NP (DT the) (JJ computational) (NN model)))))))) (. .))

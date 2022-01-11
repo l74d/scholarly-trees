@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP align) (NP (NNS distributions)) (PP (IN by) (S (VP (VBG minimizing) (NP (NP (DT an) (JJ adversarial) (NN distance)) (PP (IN between) (NP (PRP them))))))))))) (VP (VBP have) (ADVP (RB recently)) (VP (VBN achieved) (NP (JJ impressive) (NNS results)))) (. .))

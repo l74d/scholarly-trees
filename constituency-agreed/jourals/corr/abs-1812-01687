@@ -1,0 +1,2 @@
+(NP (NP (NN classification) (NN performance)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB usually)) (VP (VBN reflected) (PP (IN by) (NP (DT a) (NN saliency) (NN map))))))) (. .))
+(S (NP (NP (PRP$ Our) (NN motivation)) (PP (IN for) (S (VP (VBG constructing) (NP (DT a) (NN saliency) (NN map)))))) (VP (VBZ is) (PP (IN by) (NP (NP (NN point) (NN dropping)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT a) (JJ non-differentiable) (NN operator)))))))) (. .))

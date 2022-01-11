@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ deterministic) (NN polynomial-time) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ solves) (NP (DT the) (JJ 3-satisfiability) (NN problem))))))) (. .))

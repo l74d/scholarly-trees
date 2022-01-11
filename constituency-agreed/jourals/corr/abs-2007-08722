@@ -1,0 +1,2 @@
+(S (NP (NN Image) (NN classification)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ hot) (CC and) (JJ challenging)) (NN task)))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN method))) (, ,) (NP (NP (JJ several) (JJ strong) (NNS backbones)) (CC and) (NP (JJ multiple) (NN loss) (NNS functions))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB learn) (NP (ADJP (RBR more) (JJ representative)) (NNS features))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN generalization)) (PP (IN of) (NP (JJ such) (NNS models)))) (VP (VBZ depends) (ADVP (RB critically)) (PP (IN on) (NP (NP (DT the) (NN quantity) (CC and) (NN variety)) (PP (IN of) (NP (NP (NNS data)) (ADJP (JJ available) (PP (IN for) (NP (NN training))))))))) (. .))

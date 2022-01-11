@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP analyze) (NP (NP (NN eigensystem)) (PP (IN of) (NP (NP (DT the) (JJ integral) (NN operator)) (VP (VBN induced) (PP (IN by) (NP (NP (DT the) (VBN proposed) (NN kernel)) (PP (IN for) (NP (NN kernel) (NNS machines)))))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (DT some) (JJ nice) (NNS properties)) (PP (JJ such) (IN as) (NP (NP (NN stability)) (CC and) (NP (JJ infinite) (NN divisibility))))) (PP (IN for) (NP (DT the) (VBN proposed) (NN kernel)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Feature) (NN detection) (CC and) (NN description) (NNS algorithms)) (VP (MD can) (VP (VB be) (ADVP (RB indeed)) (VP (VBN considered) (PP (IN as) (NP (NP (DT the) (NN retina)) (PP (IN of) (NP (NP (DT the) (NNS eyes)) (PP (IN of) (NP (JJ such) (NNS machines) (CC and) (NNS robots)))))))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP it)) (VP (VBZ starts) (PP (IN by) (S (VP (VBG overviewing) (NP (JJ fundamental) (NNS concepts)))))) (. .))

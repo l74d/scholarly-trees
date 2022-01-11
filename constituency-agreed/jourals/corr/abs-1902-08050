@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP take) (NP (JJ conceptual) (NN information)) (PP (IN as) (NP (NP (DT a) (NN kind)) (PP (IN of) (NP (NN knowledge)))))) (CC and) (VP (VB incorporate) (NP (PRP it)) (PP (IN into) (NP (JJ deep) (JJ neural) (NNS networks))))) (. .))
+(S (CC And) (NP (PRP we)) (VP (VBP classify) (NP (DT a) (JJ short) (NN text)) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (JJ conceptual) (NN information)))))) (. .))

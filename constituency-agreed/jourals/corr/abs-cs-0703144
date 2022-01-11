@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN case))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (NN capacity)) (VP (VBZ is) (ADJP (JJ achievable) (PP (IN by) (S (VP (VBG multiplexing) (NP (JJ multiple) (NNS codebooks)) (PP (IN across) (NP (DT the) (NN channel)))))))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN case))) (, ,) (NP (NP (DT the) (NN channel) (NN capacity)) (CC and) (NP (DT the) (JJ optimal) (JJ adaptive) (NN coding))) (VP (VBZ is) (VP (VBN obtained))) (. .))

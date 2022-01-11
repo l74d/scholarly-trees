@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ decouples) (NP (NP (DT the) (JJ nonlinear) (NN optimization) (NN problem)) (PP (IN in) (NP (NNP MLR)))) (PP (IN into) (NP (NP (CD three) (NNS steps)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB efficiently)))))))))) (. .))

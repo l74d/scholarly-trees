@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNPS KPowerMeans) (NN algorithm)) (CC and) (NP (DT the) (NNP Kalman) (NN filter))) (VP (VBP are) (VP (VBN exploited) (S (VP (VP (TO to) (VP (VB identify) (NP (DT the) (NN cluster) (NNS positions)))) (CC and) (VP (TO to) (VP (VB predict) (CC and) (VB track) (NP (NN cluster) (NNS positions)) (ADVP (RB respectively)))))))) (. .))

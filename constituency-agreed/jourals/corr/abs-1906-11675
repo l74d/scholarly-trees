@@ -1,0 +1,2 @@
+(S (NP (NNS Radiologists)) (VP (VBP use) (NP (NP (NN time) (NN series)) (PP (IN of) (NP (JJ medical) (NNS images)))) (S (VP (TO to) (VP (VB monitor) (NP (NP (DT the) (NN progression)) (PP (IN of) (NP (DT a) (JJ patient) (NN condition)))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ consistent) (PP (IN with) (NP (NP (JJ previous) (NNS studies)) (VP (VBG using) (NP (JJ alternative) (NNS approaches))))))) (. .))

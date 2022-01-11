@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (NN criterion)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN measured))))))) (VP (VBZ is) (NP (NP (DT the) (NN publication) (NN record)) (PP (IN of) (NP (DT an) (NN applicant))))) (. .))
+(S (NP (NP (DT The) (NN publication) (NNS records)) (PP (IN of) (NP (JJ past) (NN fellowship) (NNS recipients)))) (VP (MD may) (, ,) (ADVP (RB therefore)) (, ,) (VP (VB provide) (NP (DT some) (JJ quantitative) (NN guidance)) (PP (IN for) (NP (JJ future) (JJ prospective) (NNS applicants))))) (. .))

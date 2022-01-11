@@ -1,0 +1,1 @@
+(S (CC But) (NP (DT this) (NN approach)) (VP (VBZ is) (ADJP (JJ infeasible)) (SBAR (IN since) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS solutions)))) (ADVP (RB often)) (VP (VBZ grows) (ADVP (RB exponentially)) (PP (IN with) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN problem))))))))) (. .))

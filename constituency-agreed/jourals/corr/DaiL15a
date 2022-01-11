@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ second) (NN approach)) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (NP (DT a) (NN sequence) (NN autoencoder)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ reads) (NP (DT the) (NN input) (NN sequence)) (PP (IN into) (NP (DT a) (NN vector)))) (CC and) (VP (VBZ predicts) (NP (DT the) (NN input) (NN sequence)) (ADVP (RB again))))))))))) (. .))

@@ -1,0 +1,7 @@
+(S (NP (NP (DT The) (NNP Dynamic) (NNP Time) (NNP Warping)) (PRN (-LRB- -LRB-) (NP (NNP DTW)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN similarity) (NN measure)) (PP (IN between) (NP (NN time) (NN series))))) (. .))
+(S (S (NP (DT The) (NNP DTW)) (VP (VBZ fails) (S (VP (TO to) (VP (VB satisfy) (NP (DT the) (NN triangle) (NN inequality))))))) (CC and) (S (NP (PRP$ its) (NN computation)) (VP (VBZ requires) (NP (JJ quadratic) (NN time)))) (. .))
+(S (ADVP (RB Hence)) (, ,) (S (VP (TO to) (VP (VB find) (NP (JJ closest) (NNS neighbors)) (ADVP (RB quickly))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (VBG bounding) (NNS techniques))) (. .))
+(S (NP (PRP We)) (VP (MD can) (VP (VB avoid) (NP (RBS most) (NNP DTW) (NNS computations)) (PP (IN with) (NP (NP (DT an) (JJ inexpensive) (JJR lower) (NN bound)) (PRN (-LRB- -LRB-) (NP (NNP LB) (NNP Keogh)) (-RRB- -RRB-)))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (NNP LB) (NNP Keogh)) (PP (IN with) (NP (NP (DT a) (JJR tighter) (JJR lower) (NN bound)) (PRN (-LRB- -LRB-) (NP (NNP LB) (NNP Improved)) (-RRB- -RRB-))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (DT that) (S (NP (NNP LB) (JJ Improved-based) (NN search)) (VP (VBZ is) (ADJP (RBR faster)))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN example))) (, ,) (NP (PRP$ our) (NN approach)) (VP (VBZ is) (ADJP (ADJP (JJ 2-3) (NNS times) (RBR faster)) (PP (IN over) (NP (NN random-walk) (CC and) (NN shape) (NN time) (NN series))))) (. .))

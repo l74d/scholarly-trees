@@ -1,0 +1,2 @@
+(S (NP (NN Dimensionality)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS properties)) (PP (IN of) (NP (JJ complex) (JJ physical) (NNS systems))))))) (. .))
+(S (ADVP (RB However)) (, ,) (ADVP (RB only) (RB recently)) (NP (DT this) (NN concept)) (VP (VBZ has) (VP (VBN been) (VP (VBN considered) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ complex) (NNS networks)))))))) (. .))

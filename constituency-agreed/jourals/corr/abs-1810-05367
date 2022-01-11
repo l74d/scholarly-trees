@@ -1,0 +1,2 @@
+(S (NP (JJ Visual) (NN tracking)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN application) (NNS areas)) (PP (IN of) (NP (NN computer) (NN vision))))))) (. .))
+(S (NP (PRP$ Our) (NN hardware) (NN system)) (VP (MD can) (VP (VB run) (PP (IN at) (NP (NP (QP (JJR more) (IN than) (CD 153)) (NNS frames)) (PP (IN per) (NP (NN second))))))) (. .))

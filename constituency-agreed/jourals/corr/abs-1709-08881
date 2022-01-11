@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN effect)) (VP (VBZ has) (NP (NP (NNS implications)) (PP (IN for) (NP (DT the) (NN scalability) (NN debate)))))) (: :) (S (NP (NP (NN revenue)) (PP (IN from) (NP (NN transaction) (NNS fees)))) (VP (MD may) (VP (VB decrease) (SBAR (IN if) (S (NP (NN block) (NN size)) (VP (VBZ is) (VP (VBN increased)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN quantization) (NN noise)) (VP (VBZ is) (RB not) (ADJP (JJ Gaussian))))) (, ,) (NP (PRP we)) (VP (VBP assume) (NP (DT the) (JJ effective) (NN noise)) (PP (IN as) (NP (NP (DT a) (JJ Gaussian) (NN noise)) (PP (IN with) (NP (DT the) (JJ same) (NNS statistics))))) (S (VP (TO to) (VP (VB apply) (NP (DT the) (NNP Kalman) (NN filtering)))))) (. .))

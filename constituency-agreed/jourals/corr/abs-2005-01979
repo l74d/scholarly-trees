@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN algorithm)) (VP (VBZ learns) (NP (NP (DT a) (JJ centralised) (NN critic)) (SBAR (WHNP (WDT that)) (S (VP (VBZ coordinates) (NP (NP (NN training)) (PP (IN of) (NP (DT all) (NNS agents))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN accuracy)) (VP (MD can) (VP (VB be) (ADVP (RB further)) (VP (VBN improved) (PP (IN by) (S (VP (VBG taking) (PP (IN into) (NP (NN account))) (NP (NP (DT a) (NN mask)) (PP (IN of) (NP (VBG missing) (NN depth) (NNS values))))))))))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NNS contributions)) (PP (IN of) (NP (PRP$ our) (NN work)))) (VP (VBP are) (ADJP (JJ two-fold))) (. .))

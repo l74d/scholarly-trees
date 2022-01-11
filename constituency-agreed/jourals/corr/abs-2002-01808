@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG injecting) (NP (NN knowledge)) (PP (IN into) (NP (NP (JJ large) (JJ pre-trained) (NNS models)) (PP (IN like) (NP (NNP BERT) (CC and) (NNP RoBERTa)))))))))) (. .))
+(S (NP (VBG Existing) (NNS methods)) (ADVP (RB typically)) (VP (VBP update) (NP (NP (DT the) (JJ original) (NNS parameters)) (PP (IN of) (NP (JJ pre-trained) (NNS models)))) (SBAR (WHADVP (WRB when)) (S (VP (VBG injecting) (NP (NN knowledge)))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Encoding) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS observations)))))) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN task)) (PP (IN with) (NP (JJ many) (NNS applications))))) (. .))
+(S (NP (DT The) (NN encoding)) (VP (MD can) (VP (VB become) (ADJP (RB highly) (JJ efficient)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS observations)) (VP (VBP are) (VP (VBN generated) (PP (IN by) (NP (DT a) (JJ dynamical) (NN system))))))))) (. .))

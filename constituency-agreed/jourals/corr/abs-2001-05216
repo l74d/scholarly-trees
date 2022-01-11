@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN obtained) (PP (IN through) (NP (NP (DT the) (NN generator) (NN network) (POS 's)) (NN architecture))) (, ,) (SBAR (IN while) (S (NP (NP (DT the) (NN training) (NN procedure)) (CC and) (NP (DT the) (NN loss))) (VP (VBP remain) (NP (DT the) (JJ same))))))) (. .))

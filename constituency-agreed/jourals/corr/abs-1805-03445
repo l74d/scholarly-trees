@@ -1,0 +1,2 @@
+(S (NP (NNP Hermite) (NN reduction)) (VP (VBZ is) (NP (NP (DT a) (JJ classical) (JJ algorithmic) (NN tool)) (PP (IN in) (NP (JJ symbolic) (NN integration))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB decompose) (NP (DT a) (VBN given) (JJ rational) (NN function)) (PP (IN as) (NP (NP (DT a) (NN sum)) (PP (IN of) (NP (NP (NP (DT a) (NN function)) (PP (IN with) (NP (JJ simple) (NNS poles)))) (CC and) (NP (NP (DT the) (NN derivative)) (PP (IN of) (NP (DT another) (JJ rational) (NN function))))))))))))) (. .))

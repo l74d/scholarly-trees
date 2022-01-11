@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN algorithm)) (ADVP (RB also)) (VP (VBZ tries) (S (VP (TO to) (VP (VB minimize) (NP (NP (NN effect)) (PP (IN of) (NP (NP (DT those) (NNS neighbours)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ distant)))))))))))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (ADVP (RB finally)) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN calculated))) (. .))

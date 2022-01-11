@@ -1,0 +1,2 @@
+(S (PP (IN Under) (NP (DT this) (NN assumption))) (, ,) (NP (JJ many) (NNS techniques)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (CC But) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP STP)) (VP (VBZ is) (ADJP (JJ broad))))) (, ,) (NP (DT this) (NN assumption)) (VP (VBZ does) (RB not) (VP (VB hold))) (. .))

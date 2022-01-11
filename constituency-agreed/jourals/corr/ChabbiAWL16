@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NN system)) (VP (VBZ is) (ADJP (JJ stateful)))) (: ;) (S (NP (NP (DT the) (NNS values)) (PP (IN of) (NP (JJ prior) (NN acquisition) (NNS efforts)))) (VP (VBP affect) (NP (DT the) (JJ subsequent) (NN acquisition) (NNS efforts)))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (NP (DT the) (NN status)) (PP (IN of) (NP (NNS successors) (, ,) (NNS predecessors) (, ,) (NNS ancestors) (, ,) (CC and) (NNS descendants)))) (VP (VBP affect) (NP (NP (NNS steps)) (VP (VBN followed) (PP (IN by) (NP (DT the) (NN protocol)))))) (. .))

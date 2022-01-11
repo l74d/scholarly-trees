@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (ADJP (NN group) (HYPH -) (JJ theoretic)) (NN analogue)) (PP (IN of) (NP (DT the) (JJ classic) (NN subset) (NN sum) (NN problem))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (DT every) (ADJP (RB virtually) (JJ nilpotent)) (NN group)) (VP (VBZ has) (NP (ADJP (JJ polynomial) (NP-TMP (NN time))) (JJ decidable) (NN subset) (NN sum) (NN problem))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP use) (NP (JJ subgroup) (NN distortion)) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (DT every) (JJ polycyclic) (JJ non-virtually-nilpotent) (NN group)) (VP (VBZ has) (NP (NP (NNP NP) (HYPH -) (JJ complete) (NN subset)) (NP (NN sum) (NN problem)))))))))) (. .))

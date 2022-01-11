@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (MD must) (VP (VB admit) (SBAR (S (NP (PRP we)) (VP (MD can) (ADVP (RB hardly)) (VP (VB guess))))))) (. .))
+(SQ (MD Would) (NP (PRP it)) (VP (VB be) (NP (NP (DT a) (NN kind)) (PP (IN of) (NP (DT a) (NN lizard))))) (. ?))
+(NP (NP (DT An) (NN insect)) (ADVP (RB perhaps)) (. ?))

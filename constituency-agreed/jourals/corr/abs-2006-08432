@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ consists) (PP (IN of) (NP (CD three) (JJ main) (NNS steps)))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN achieved) (PP (IN by) (NP (NP (DT a) (JJ novel) (JJ adaptive) (NN weighting) (NN strategy)) (VP (VBN defined) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NNP LSTM) (NNS networks)))))))))) (. .))

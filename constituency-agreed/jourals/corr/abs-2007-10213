@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many) (NNS types)) (PP (IN of) (NP (NP (NNS studies)) (, ,) (NP (NNS data) (NNS sources)) (CC and) (NP (NN mining) (NNS methods))))) (VP (VBP have) (VP (VBN been) (VP (VBN used) (PP (IN for) (NP (DT that) (NN purpose)))))) (. .))
+(S (NP (JJ Descriptive) (NNS statistics)) (VP (VBP are) (NP (NP (DT the) (ADJP (RBS most) (JJ usual)) (NN method)) (VP (VBN followed) (PP (IN by) (NP (NN correlation) (NN analysis)))))) (. .))

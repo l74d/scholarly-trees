@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Good)) (VP (VBZ is) (NP (NP (NNP Blondie)) (, ,) (NP (NP (DT a) (VBG wandering) (NN gunman)) (PP (IN with) (NP (NP (DT a) (JJ strong) (JJ personal) (NN sense)) (PP (IN of) (NP (NN honor)))))))) (. .))
+(S (NP (DT The) (NNP Ugly)) (VP (VBZ is) (NP (NP (NNP Tuco)) (, ,) (NP (NP (DT a) (JJ Mexican) (NN bandit)) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (ADVP (RB always)) (ADVP (RB only)) (VP (VBG looking) (PRT (RP out)) (PP (IN for) (NP (PRP himself)))))))))) (. .))

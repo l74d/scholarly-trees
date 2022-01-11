@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (CD two) (NNS parameters)) (S (VP (TO to) (VP (VB detect) (NP (NP (DT the) (JJ nude) (NN content)) (PP (IN of) (NP (DT an) (NN image)))))))) (. .))
+(S (NP (NNP Google) (NN vision) (NN api)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB detect) (NP (DT the) (NN face) (NN region))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ global) (NN approach)) (PP (IN for) (NP (NP (DT the) (JJ multi-view) (NN registration)) (PP (IN of) (NP (JJ unordered) (NN range) (NNS scans))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (JJ multi-view) (NN registration)) (VP (MD can) (VP (VB be) (VP (VBN accomplished) (PP (IN by) (S (VP (VBG operating) (NP (NP (DT the) (JJ pair-wise) (NN registration) (CC and) (NN judgment)) (, ,) (CC and) (NP (NN model) (NN augmentation))) (ADVP (RB alternately)))))))) (. .))

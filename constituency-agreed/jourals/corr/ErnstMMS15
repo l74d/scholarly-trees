@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (PRP$ their) (NNS semantics)) (VP (VP (VBZ is) (VP (VBN expressed) (ADVP (RB informally)))) (CC and) (VP (VBZ is) (ADVP (RB consequently)) (ADJP (JJ ambiguous)))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ identifies) (SBAR (WHADVP (WRB when)) (S (NP (JJ such) (NNS annotations)) (VP (VBP are) (NP (NP (JJ actual) (NNS guarantees)) (PP (IN against) (NP (NNS data) (NNS races)))))))) (. .))

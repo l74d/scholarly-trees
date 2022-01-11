@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VB design) (NP (DT a) (JJ binary) (NN mask) (NN layer)) (S (VP (TO to) (VP (VB divide) (NP (DT the) (JJ single) (NN vector)) (PP (IN as) (NP (NP (JJ conditional) (NNS embeddings)) (PP (IN for) (NP (JJ multiple) (NNS behaviors))))))))) (. .))

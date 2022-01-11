@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS systems)) (VP (VBP are) (VP (VBN called) (S (ADJP (JJ creative))))) (. .))
+(S (NP (JJ Creative) (NNS systems)) (VP (MD can) (VP (VB prove) (NP (NP (DT the) (JJ undecidable) (NN formula)) (PP (IN in) (NP (NP (NNP Goedel) (POS 's)) (NN theorem)))) (PP (IN in) (NP (NP (DT another) (JJ formal) (NN system)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN constructed) (PP (IN at) (NP (NP (DT a) (JJ later) (NN point)) (PP (IN in) (NP (NN time))))))))))))) (. .))

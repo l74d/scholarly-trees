@@ -1,0 +1,2 @@
+(S (S (VP (VBG Training) (NP (JJ neural) (NNS networks)) (PP (IN on) (NP (JJ large) (NNS datasets))))) (VP (MD can) (VP (VB be) (VP (VBN accelerated) (PP (IN by) (S (VP (VBG distributing) (NP (DT the) (NN workload)) (PP (IN over) (NP (NP (DT a) (NN network)) (PP (IN of) (NP (NNS machines))))))))))) (. .))
+(S (S (VP (VBG Aggregating) (NP (NN sign) (NNS gradients)) (PP (IN by) (NP (NN majority) (NN vote))))) (VP (VBZ means) (SBAR (IN that) (S (NP (DT no) (JJ individual) (NN worker)) (VP (VBZ has) (NP (ADJP (RB too) (JJ much)) (NN power)))))) (. .))

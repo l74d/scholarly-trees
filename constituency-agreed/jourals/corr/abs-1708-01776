@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN story)) (VP (VBZ is) (ADJP (JJ ambiguous)) (SBAR (IN because) (S (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS entities)))) (VP (VBP have) (VP (VBN been) (VP (VBN replaced) (PP (IN by) (NP (NNS variables))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP observe) (NP (NP (DT a) (JJ strong) (NN correlation)) (PP (IN between) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NN prediction) (CC and) (NN explanation))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP are) (ADVP (RB often)) (VP (VBN defined) (PP (IN as) (NP (NP (JJ black) (NNS boxes)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB map) (NP (JJ non-linear) (NNS data)) (ADVP (RB very) (RB effectively)))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ tries) (S (VP (TO to) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (NNP CNN)) (VP (VBZ has) (VP (VBN learned) (S (VP (TO to) (VP (VB look) (PP (IN at) (NP (DT an) (NN image)))))))))))))) (. .))

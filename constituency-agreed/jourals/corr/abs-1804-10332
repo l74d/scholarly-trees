@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP learn) (NP (JJ robust) (NNS controllers)) (PP (IN by) (S (VP (VP (VBG randomizing) (NP (DT the) (JJ physical) (NNS environments))) (, ,) (VP (VBG adding) (NP (NNS perturbations))) (CC and) (VP (VBG designing) (NP (DT a) (JJ compact) (NN observation) (NN space))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NP (DT the) (JJ pervasive) (NN game)) (NP (NNP PacMap)))))) (. .))
+(S (NP (NN Openness) (CC and) (NN portability)) (VP (VBP have) (VP (VBN been) (NP (NP (DT the) (JJ main) (NN design) (NNS objectives)) (PP (IN for) (NP (NNP PacMap)))))) (. .))

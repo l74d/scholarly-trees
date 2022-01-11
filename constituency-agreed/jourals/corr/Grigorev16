@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN done) (PP (IN with) (NP (NN cluster) (NN analysis) (NNS methods)))))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (PRP it))))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VBP use) (NP (NNP Java) (NN source) (NN code)) (PP (IN as) (NP (NP (DT a) (NN dataset)) (PP (IN for) (NP (PRP$ our) (NNS experiments))))) (, ,) (SBAR (IN since) (S (NP (PRP it)) (VP (VBZ contains) (NP (DT the) (NN namespace) (NN information)))))) (. .))

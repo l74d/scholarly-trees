@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (NNS applications)) (SBAR (WHADVP (WRB where)) (S (NP (JJ such) (NN information)) (VP (VBZ is) (RB not) (ADJP (JJ available))))))) (. .))
+(S (PP (IN For) (NP (JJ such) (NNS cases))) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS approaches)))) (VP (VBP have) (ADVP (RB recently)) (VP (VBN been) (VP (VBN proposed)))) (. .))

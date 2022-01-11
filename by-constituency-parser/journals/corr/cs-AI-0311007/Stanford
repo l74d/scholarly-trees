@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS connectives)) (VP (VBP allow) (S (NP (PRP us)) (VP (TO to) (VP (VB represent) (ADVP (RB compactly)) (NP (NP (DT the) (NN disjunction) (HYPH /) (NN conjunction)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS atoms)) (VP (VBG having) (NP (DT a) (VBN given) (NN property)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP address) (NP (NN implementation) (NNS issues))) (CC and) (VP (VB discuss) (NP (JJ related) (NNS works)))) (. .))

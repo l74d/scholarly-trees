@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (CD two) (NNS scenarios))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN scenario))) (NP (DT the) (NN jammer)) (VP (VBZ knows) (NP (DT the) (NN channel) (NN input)) (, ,) (SBAR (IN while) (S (PP (IN in) (NP (DT the) (JJ second) (NN scenario))) (NP (DT the) (NN jammer)) (VP (VBZ knows) (NP (CC both) (NP (DT the) (NN channel) (NN input)) (CC and) (NP (DT the) (NN message))))))) (. .))

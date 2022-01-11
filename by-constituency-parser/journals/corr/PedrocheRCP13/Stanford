@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP give) (NP (JJ sufficient) (NNS conditions)) (PP (IN for) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (NP (DT the) (JJ iterative) (NN algorithm)) (VP (VBN called) (NP (ADJP (NP (JJ weighted)) (HYPH -) (JJ average)) (NN consensus)) (PP (IN in) (NP (VBN directed) (NNS graphs))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (ADJP (JJ discrete) (HYPH -) (NN time)) (NN form)) (PP (IN of) (NP (DT this) (NN algorithm))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ standard) (NNS techniques)) (PP (IN from) (NP (NN matrix) (NN theory))) (S (VP (TO to) (VP (VB prove) (NP (DT the) (JJ main) (NN result)))))) (. .))
+(S (PP (IN As) (NP (DT a) (JJ particular) (NN case))) (NP (CD one)) (VP (MD can) (VP (VB obtain) (NP (NP (ADJP (RB well) (HYPH -) (VBN known)) (NNS results)) (PP (IN for) (NP (JJ non-weighted) (JJ average) (NN consensus)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT a) (NN corollary)) (PP (IN for) (NP (JJ undirected) (NNS graphs))))) (. .))

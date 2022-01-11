@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (NP (NP (DT an) (JJ extensive) (NN survey)) (PP (IN of) (NP (NP (NN literature)) (PP (IN on) (NP (NP (JJ complex) (NN network) (NNS communities)) (CC and) (NP (NN clustering)))))))) (. .))
+(S (NP (NP (JJ Complex) (NNS networks)) (PP (IN like) (NP (JJ real) (NNS networks)))) (VP (MD can) (ADVP (RB also)) (VP (VB have) (NP (NN community) (NN structure)))) (. .))

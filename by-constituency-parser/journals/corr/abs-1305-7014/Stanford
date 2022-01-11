@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN software) (NN package)) (PP (IN for) (NP (NP (DT the) (NNS data) (NN mining)) (PP (IN of) (NP (NNP Twitter) (NNS microblogs)))))) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (S (VP (VBG using) (NP (PRP them)) (PP (IN for) (NP (DT the) (NML (NN stock) (NN market)) (NN analysis))))))))) (. .))
+(S (NP (DT The) (NN package)) (VP (VBZ is) (VP (VBN written) (PP (IN in) (NP (NN R) (NN langauge))) (S (VP (VBG using) (NP (JJ apropriate) (NN R) (NNS packages)))))) (. .))
+(S (NP (NP (DT The) (NN model)) (PP (IN of) (NP (NNS tweets)))) (VP (VBZ has) (VP (VBN been) (VP (VBN considered)))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN compared) (NP (NML (NN stock) (NN market)) (NNS charts)) (PP (IN with) (NP (NP (JJ frequent) (NNS sets)) (PP (IN of) (NP (NP (NNS keywords)) (PP (IN in) (NP (NNP Twitter) (NNS microblogs) (NNS messages))))))))) (. .))

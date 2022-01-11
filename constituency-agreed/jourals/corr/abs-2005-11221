@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NP (NN inference) (NNS rules)) (CC and) (NP (NN optimization) (NNS techniques))))) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VP (VB improve) (NP (NN mining) (NN performance))) (CC and) (VP (VB reduce) (NP (NN mining) (NN complexity)))))))) (. .))

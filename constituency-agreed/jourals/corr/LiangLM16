@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (JJ backup) (NNS channels)) (S (VP (TO to) (VP (VB provide) (NP (NN reliability) (NNS guarantees)) (PP (IN for) (NP (JJ secondary) (NNS users))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN scaling)) (PP (IN of) (NP (DT the) (NN recovery) (NN capacity)))) (SBAR (IN as) (S (NP (DT the) (NN network) (NN size)) (VP (VBZ becomes) (ADJP (JJ large)))))) (. .))

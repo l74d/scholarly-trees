@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Software) (NN development)) (PP (IN for) (NP (NN service) (NNS robotics)))) (VP (VBZ is) (ADJP (RB inherently) (JJ complex))) (. .))
+(S (ADVP (RB Thus)) (NP (DT the) (VBG resulting) (NN software) (NNS systems)) (VP (VBP are) (NP (NP (JJ monolithic) (NNS programs)) (VP (VBG solving) (NP (DT a) (JJ single) (NN problem)) (PP (IN on) (NP (DT a) (JJ single) (NN platform)))))) (. .))

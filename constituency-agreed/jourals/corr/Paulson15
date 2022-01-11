@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS states)) (PP (IN of) (NP (DT an) (NN automaton)))) (VP (VBP are) (NP (NP (NNP HF) (NNS sets)) (, ,) (VP (ADVP (RB possibly)) (VBN constructed) (PP (IN by) (NP (NP (NN product)) (, ,) (NP (NN sum)) (, ,) (NP (NN powerset)) (CC and) (NP (JJ similar) (NNS operations))))))) (. .))

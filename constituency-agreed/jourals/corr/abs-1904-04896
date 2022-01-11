@@ -1,0 +1,1 @@
+(S (S (NP (DT These) (NNS measures)) (VP (VBP utilize) (NP (NP (DT the) (NN decoder) (NN output) (NN layer)) (CC and) (NP (NN attention) (NN probability) (NNS vectors))))) (, ,) (CC and) (S (NP (PRP$ their) (JJ predictive) (NN power)) (VP (VBZ is) (VP (VBN measured) (PP (IN with) (NP (JJ simple) (JJ linear) (NNS models)))))) (. .))

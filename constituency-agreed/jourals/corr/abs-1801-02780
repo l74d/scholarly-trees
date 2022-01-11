@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VB ensure) (NP (DT this)) (PP (IN by) (S (VP (VBG including) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ possible) (NN image) (NNS transformations)))) (PP (IN in) (NP (NP (DT the) (NN optimization) (NN problem)) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (JJ adversarial) (NNS samples)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP have) (ADVP (RB also)) (VP (VBN been) (VP (VBN used) (ADVP (RB recently)) (PP (IN in) (NP (DT the) (NN dialogue) (NN community))) (PP (IN for) (S (VP (VBG evaluating) (NP (NN dialogue) (NN response) (NN generation)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (DT an) (JJ empirical) (NN study)) (S (VP (TO to) (VP (VB confirm) (SBAR (IN whether) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (NN case))))))))) (. .))

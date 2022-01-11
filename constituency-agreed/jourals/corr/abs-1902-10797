@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (DT both) (NNS cases))) (NP (DT the) (NN user)) (ADVP (RB still)) (VP (VBZ has) (S (VP (TO to) (VP (VB provide) (PP (IN in) (NP (NN advance))) (NP (NP (DT a) (NNP Lipschitz) (NN hyperparameter)) (SBAR (WHNP (WDT that)) (S (VP (VBZ bounds) (NP (NP (DT the) (NN norm)) (PP (IN of) (NP (DT the) (NNS gradients)))))))))))) (. .))

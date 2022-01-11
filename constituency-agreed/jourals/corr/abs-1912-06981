@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Posterior) (NNS probabilities)) (PP (IN from) (NP (DT the) (NN occupancy) (NN map)))) (VP (VBP are) (VP (VBN incorporated) (PP (IN as) (NP (NP (NNS weights)) (PP (IN on) (NP (NP (NNS points)) (VP (VBN selected) (PP (IN for) (NP (NN surface) (NN fitting)))))))))) (. .))
+(S (NP (NP (NNS Results)) (PP (IN on) (NP (JJ human) (NN procedure) (NNS data)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN presented))) (. .))

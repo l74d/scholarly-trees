@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS results)) (VP (VBP outperform) (NP (JJ previous) (NN work)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN accuracy) (NN degradation)) (, ,) (NP (NN compression) (NN rate)) (CC and) (NP (NN speedup) (NN ratio))))))) (. .))

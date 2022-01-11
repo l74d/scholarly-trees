@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ local) (NNP Fourier) (NN analysis)) (PP (IN for) (NP (NP (JJ multigrid) (NNS methods)) (PP (IN on) (NP (JJ tetrahedral) (NNS grids)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT Some) (JJ numerical) (NNS experiments)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB illustrate) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT this) (JJ multigrid) (NN algorithm))))))))) (. .))

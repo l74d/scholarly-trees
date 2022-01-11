@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NML (JJ continuous) (HYPH -) (NN time)) (NN equilibrium)) (VP (VBG seeking) (PP (IN in) (NP (ADJP (JJ monotone) (JJ aggregative)) (NNS games))) (PP (IN with) (NP (NN coupling) (NNS constraints)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP propose) (VP (VBN semi-decentralized) (NP (JJ integral) (NNS dynamics)))) (CC and) (VP (VB prove) (NP (PRP$ their) (JJ global) (NN convergence)) (PP (IN to) (NP (NP (DT a) (JJ variational) (VBN generalized) (NN aggregative)) (CC or) (NP (NNP Nash) (NN equilibrium)))))) (. .))
+(S (NP (DT The) (NN proof)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNP Lyapunov) (NNS arguments)) (CC and) (NP (NN invariance) (NNS techniques)))) (PP (IN for) (NP (JJ differential) (NNS inclusions))))) (. .))

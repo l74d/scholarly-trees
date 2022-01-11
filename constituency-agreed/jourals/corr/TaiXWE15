@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ finds) (NP (NP (DT the) (JJ exact) (JJ global) (NN optimizer)) (PP (IN of) (NP (DT the) (NN decomposition))))) (CC and) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ effective)) (PP (IN than) (NP (JJ iterative) (NNS methods)))))) (. .))

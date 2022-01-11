@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN framework)) (VP (VBZ preserves) (NP (NP (NP (JJ many) (NNS characteristics)) (PP (IN of) (NP (NP (DT the) (JJ original) (NN traffic)) (VP (VBN recorded) (PP (IN in) (NP (DT an) (NN enterprise))))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNS sequences)) (PP (IN of) (NP (NN network) (NNS activities)))))) (. .))
+(S (NP (NP (NNS Sequences)) (PP (IN of) (NP (NN network) (NNS activities)))) (VP (VBP are) (ADVP (RB then)) (VP (VBN extracted))) (. .))

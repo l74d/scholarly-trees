@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (NP (PRP it)) (VP (VBZ consumes) (NP (NP (JJ large) (NN amount)) (PP (IN of) (NP (NN time))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NNS methods)) (VP (VBP outperform) (NP (DT the) (JJ strong) (NN baseline)))))) (. .))

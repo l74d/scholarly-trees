@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN heuristic)) (VP (VBZ is) (ADJP (JJ simple)))) (CC and) (S (NP (PRP we)) (VP (MD will) (VP (VB demonstrate) (NP (PRP$ its) (NN performance)) (PP (IN by) (S (VP (VBG implementing) (NP (PRP it)) (PP (IN on) (NP (JJ open) (NN source) (NN spreadsheet) (NN software))))))))) (. .))

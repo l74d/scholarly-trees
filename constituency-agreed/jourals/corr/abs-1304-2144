@@ -1,0 +1,2 @@
+(S (ADVP (RB Essentially)) (, ,) (NP (NP (DT a) (JJ key) (NN challenge)) (PP (IN of) (NP (DT this) (NN problem)))) (VP (VBZ is) (NP (PRP$ its) (JJ high) (JJ computational) (NN complexity))) (. .))
+(S (ADVP (RB Simultaneously)) (, ,) (NP (DT an) (JJ incremental) (NN pruning) (NN policy)) (VP (VBZ is) (VP (VBN adopted) (PP (IN in) (NP (NP (DT the) (NN process)) (PP (IN of) (NP (NN sequence) (NN generation))))) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN search) (NN space)) (PP (IN of) (NP (DT the) (JJ potential) (NNS sequences)))) (ADVP (RB effectively))))))) (. .))

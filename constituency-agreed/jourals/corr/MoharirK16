@@ -1,0 +1,1 @@
+(S (NP (NP (DT All) (NNS requests)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (RB not) (VP (VB be) (VP (VBN served) (PP (IN by) (NP (DT the) (NNS caches))))))))) (VP (VBP are) (VP (VBN served) (PP (IN by) (S (VP (VBG fetching) (NP (DT the) (VBN requested) (NN content)) (PP (IN from) (NP (DT the) (JJ central) (NN server)))))))) (. .))

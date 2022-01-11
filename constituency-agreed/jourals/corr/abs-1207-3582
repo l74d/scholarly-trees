@@ -1,0 +1,1 @@
+(S (NP (DT Each) (NN message)) (VP (MD must) (ADVP (RB subsequently)) (VP (VB be) (VP (VBN decoded) (PP (IN at) (NP (DT the) (NN receiver))) (PP (IN within) (NP (NP (DT a) (VBN given) (NN delay)) (PP (IN from) (NP (PRP$ its) (NN creation) (NN time)))))))) (. .))

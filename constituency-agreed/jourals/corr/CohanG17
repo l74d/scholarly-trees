@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ overcomes) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NN inconsistency)) (PP (IN between) (NP (NP (DT the) (NN citation) (NN summary)) (CC and) (NP (NP (DT the) (NN article) (POS 's)) (NN content))))))) (PP (IN by) (S (VP (VBG providing) (NP (NN context)) (PP (IN for) (NP (DT each) (NN citation))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP leverage) (NP (NP (DT the) (JJ inherent) (JJ scientific) (NN article) (POS 's)) (NN discourse)) (PP (IN for) (S (VP (VBG producing) (NP (JJR better) (NNS summaries)))))) (. .))

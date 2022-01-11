@@ -1,0 +1,1 @@
+(S (ADVP (RBR More) (RB importantly)) (, ,) (PP (IN for) (NP (DT each) (NN generation) (NN network))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (CD two) (NNS encoders)) (VP (VBG interacting) (PP (IN with) (NP (CD one) (DT another))) (S (VP (TO to) (VP (VB learn) (NP (JJ latent) (NN code)) (PP (IN in) (NP (DT a) (VBN shared) (NN compatibility) (NN space))))))))) (. .))

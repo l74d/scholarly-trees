@@ -1,0 +1,1 @@
+(S (ADVP (RB Subsequently)) (, ,) (NP (JJ stochastic) (NN gradient) (NN descent)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VP (VB optimize) (NP (PRP$ our) (JJ objective) (NN function))) (CC and) (VP (VB learn) (NP (NP (DT the) (JJ final) (NN representation)) (PP (IN of) (NP (NNS nodes)))))))))) (. .))

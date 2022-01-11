@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN parameter)))) (NP (PRP we)) (VP (VBP explore) (NP (NP (DT a) (JJ simple) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN rewired) (S (VP (TO to) (VP (VB introduce) (S (VP (VBG increasing) (NP (DT the) (NN performance)))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (DT this) (NN model)) (VP (VBP have) (NP (JJ small) (JJ characteristic) (NN path) (NN length)))))) (. .))

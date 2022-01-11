@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (VBG resampling) (NNS features)) (VP (VBP are) (VP (VBN calculated) (PP (IN for) (NP (NN image) (NNS blocks))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT this) (NN strategy)) (VP (VBZ is) (ADJP (JJ effective) (PP (IN in) (S (VP (VP (VBG indicating) (SBAR (IN if) (S (NP (DT an) (NN image)) (VP (VBZ has) (VP (VBN been) (VP (VBN manipulated))))))) (CC and) (VP (VBG localizing) (NP (DT the) (NNS manipulations))))))))))) (. .))

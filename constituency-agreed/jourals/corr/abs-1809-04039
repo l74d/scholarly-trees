@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS nonlinearities)) (VP (MD may) (VP (VB contain) (NP (JJ nonlocal) (NNS terms)))) (. .))
+(S (NP (NP (DT An) (NN example)) (PP (IN with) (NP (DT a) (JJ nonlocal) (JJ nonlinear) (NN term)))) (VP (VBZ illustrates) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (DT the) (VBN proposed) (NN methodology))))) (. .))

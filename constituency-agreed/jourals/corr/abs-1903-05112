@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN practice))) (, ,) (NP (DT this) (NN relationship)) (VP (VP (VBZ is) (ADJP (JJ noisy))) (CC and) (VP (VBZ exhibits) (NP (JJ significant) (JJ statistical) (NN variability)))) (. .))
+(S (PP (IN On) (NP (JJ smart) (NNS motorways))) (, ,) (NP (DT this) (NN variability)) (VP (VBZ is) (VP (VBN increased) (PP (IN by) (NP (NP (JJ variable) (NN speed) (NNS limits)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (VP (VBN captured) (PP (IN by) (NP (DT the) (JJ fundamental) (NN diagram))))))))))) (. .))

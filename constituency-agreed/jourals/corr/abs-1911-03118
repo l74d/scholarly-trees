@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN process)) (ADVP (RB then)) (VP (VBZ filters) (NP (DT these) (JJ new) (NNS sentences)) (PP (IN by) (S (VP (VBG using) (NP (NP (DT a) (NN classifier)) (VP (VBN trained) (PP (IN on) (NP (DT the) (JJ original) (NNS data))))))))) (. .))

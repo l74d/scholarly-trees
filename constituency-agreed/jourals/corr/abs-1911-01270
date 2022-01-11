@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN property)) (VP (VBZ brings) (NP (DT an) (JJ undeniable) (NN flexibility)) (PP (IN by) (S (VP (VBG allowing) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (DT the) (NN model)))) (PP (IN during) (NP (NP (DT the) (NN exploitation)) (PP (IN of) (NP (DT the) (NN base))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN expression)) (PP (IN of) (NP (NNS queries)))) (VP (VBZ requires) (NP (NP (DT a) (JJ precise) (NN knowledge)) (PP (IN of) (NP (DT this) (NN model))))) (. .))
+(S (NP (NP (DT An) (NN experimentation)) (PP (IN of) (NP (DT the) (NN extraction) (NN process)))) (VP (VBD was) (VP (VBN performed) (PP (IN on) (NP (DT a) (JJ medical) (NN application))))) (. .))

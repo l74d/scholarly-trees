@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT the) (NNS predictions)))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN evaluated) (SBAR (IN since) (S (NP (DT the) (NN ground) (NN truth) (NNS annotations)) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ available))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VP (VBZ discusses) (NP (NP (DT the) (NN availability) (NNS implications)) (PP (IN of) (NP (NN glue))))) (CC and) (VP (VBZ proposes) (NP (DT the) (JJ minimum) (NN glue) (NNS records)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN availability))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ identifies) (NP (NP (NP (DT the) (NN security) (NNS vulnerabilities)) (PP (IN of) (NP (NN glue)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NNS limitations)) (PP (IN of) (NP (JJ current) (NNS countermeasures)))))) (. .))

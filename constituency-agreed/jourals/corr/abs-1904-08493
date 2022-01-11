@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NN performance)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN classification) (NN accuracy)))))))) (CC and) (S (NP (DT the) (NNS results)) (VP (VBP are) (VP (VBN presented) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN accuracy) (NNS tables)))))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB serve) (PP (IN as) (NP (DT a) (JJR better) (NN modality))))) (. .))

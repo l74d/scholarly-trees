@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NNP PCA)) (VP (MD can) (VP (VB guarantee) (NP (NP (DT the) (NN fairness)) (PP (IN of) (NP (NNS passengers))))))))) (. .))
+(S (NP (JJ Extensive) (NN simulation) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NNP PCA)) (VP (MD can) (VP (VB minimize) (NP (NP (DT the) (NN impatience)) (PP (IN of) (NP (NNS passengers))))))))) (. .))

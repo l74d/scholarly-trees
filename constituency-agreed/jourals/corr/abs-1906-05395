@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NN cyberspace))) (, ,) (NP (JJ evolutionary) (NNS strategies)) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN used) (PP (IN by) (NP (DT both) (NNS attackers) (CC and) (NNS defenders))))) (. .))
+(S (PP (IN Despite) (NP (PRP$ its) (JJ clear) (NN importance))) (, ,) (NP (JJ few) (JJ systematic) (NNS metrics)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB quantify) (NP (NP (DT the) (JJ cyber) (NN agility)) (PP (IN of) (NP (NNS attackers) (CC and) (NNS defenders)))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP discuss) (NP (NP (DT the) (NNS limitations)) (PP (IN of) (NP (DT the) (JJ current) (NN work))))) (CC and) (VP (VB identify) (NP (JJ future) (NN research) (NNS directions)))) (. .))

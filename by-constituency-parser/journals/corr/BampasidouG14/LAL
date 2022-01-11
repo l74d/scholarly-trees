@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT a) (NN model)) (VP (VBN based) (PP (IN on) (NP (JJ persistent) (NN homology)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ describes) (NP (NP (NNS interactions)) (PP (IN between) (NP (NNS mathematicians)))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS collaborations)))))))))) (. .))
+(S (NP (NP (DT Some) (NNS ideas)) (PP (IN from) (NP (JJ classical) (NNS data) (NN analysis)))) (VP (VBP are) (VP (VBN used))) (. .))

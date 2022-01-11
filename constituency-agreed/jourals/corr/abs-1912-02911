@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (VBG growing) (NN interest)) (PP (IN in) (S (VP (VBG obtaining) (NP (JJ such) (NNS datasets)) (PP (IN for) (NP (JJ medical) (NN image) (NN analysis) (NNS applications)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NN label) (NN noise)))) (VP (VBZ has) (RB not) (VP (VBN received) (NP (JJ sufficient) (NN attention)))) (. .))

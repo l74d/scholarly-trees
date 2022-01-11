@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (VBG existing) (NNP VITELab) (NN infrastructure)) (PP (IN for) (NP (NP (NN visualization) (NNS tasks)) (PP (IN in) (NP (JJ industrial) (NN automation))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (NN collaboration)) (PP (IN between) (NP (NNS sites)))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN goal)) (PP (IN of) (NP (PRP$ our) (NN work))))) (. .))

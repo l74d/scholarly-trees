@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN application)) (VP (VBZ is) (NP (DT a) (NN music) (NN score) (NN analysis))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN chosen) (NP (NN piano) (NNS pieces)) (PP (IN from) (NP (CD five) (JJ different) (NNS composers))))) (. .))
+(S (NP (DT The) (NN difference)) (VP (VBZ is) (ADJP (RB statistically) (JJ significant))) (. .))

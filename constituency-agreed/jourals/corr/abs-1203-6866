@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN interleaving)) (PP (IN of) (NP (NN chaos) (CC and) (NN cryptography)))) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN aim)) (PP (IN of) (NP (NP (DT a) (JJ large) (NN set)) (PP (IN of) (NP (NNS works)))))) (PP (IN since) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (DT the) (NNS nineties))))))) (. .))
+(S (NP (JJ Many) (NN encryption) (NNS proposals)) (VP (VBP have) (VP (VBN been) (VP (VBN introduced) (S (VP (TO to) (VP (VB improve) (NP (JJ conventional) (NN cryptography)))))))) (. .))

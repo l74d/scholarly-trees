@@ -1,0 +1,1 @@
+(S (NP (NN Feature) (NN selection)) (VP (VBZ aims) (S (VP (TO to) (VP (VB select) (NP (NP (DT the) (JJS smallest) (NN feature) (NN subset)) (SBAR (WHNP (WDT that)) (S (VP (VBZ yields) (NP (DT the) (JJ minimum) (NN generalization) (NN error)))))))))) (. .))

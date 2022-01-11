@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (VBN proposed) (NN regularization) (NN paradigm)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB prevent) (NP (NN overfitting)))))))) (, ,) (CC and) (S (NP (DT the) (NN detection) (NN quality)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB improve) (PP (IN beyond) (NP (DT the) (JJ supervised) (NN outcome))))))))) (. .))

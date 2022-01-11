@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN convolution) (NN operation)) (VP (VBZ dominates) (NP (NP (DT the) (JJ total) (NN operation) (NN time)) (PP (IN of) (NP (NN convolution) (JJ neural) (NN network))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ has) (NP (NP (DT a) (JJ good) (NN effect)) (PP (IN on) (NP (NP (DT the) (NN convolution) (NN operation)) (PP (IN for) (NP (NP (DT the) (NN feature) (NN map)) (PP (IN of) (NP (NP (DT the) (JJ deep) (NN network)) (PP (IN with) (NP (NP (JJ large) (NN sparsity)) (CC and) (NP (JJ small) (NN size)))))))))))) (. .))

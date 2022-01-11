@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT an) (NN energy) (NN minimization) (NN problem)) (PP (IN for) (NP (JJ cooperative) (NNP LTE) (NNS networks))))) (. .))
+(S (NP (PRP We)) (VP (VBP formulate) (NP (DT the) (NN optimization) (NN problem)) (ADVP (RB mathematically))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT these) (NNS studies))) (, ,) (NP (NNP MVS)) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB increase) (NP (NN classification) (NN accuracy)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NNP MVS) (NN framework)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (PP (IN for) (S (VP (VBG selecting) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (JJ important) (NNS views)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS networks)) (VP (VBP are) (VP (VBN trained) (PP (IN from) (NP (NP (JJ few) (JJ manual) (NNS segmentations)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN augmented) (PP (IN by) (NP (NP (JJ geometric) (NNS transformations)) (, ,) (NP (JJ realistic) (NN noise)) (, ,) (CC and) (NP (JJ other) (NNS variabilities)))))))))))) (. .))

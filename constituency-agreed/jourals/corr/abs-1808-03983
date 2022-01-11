@@ -1,0 +1,1 @@
+(S (PP (IN Unlike) (NP (NP (JJ traditional) (NNS robots)) (SBAR (WHNP (WDT that)) (S (VP (VBP work) (PP (IN in) (NP (ADJP (JJ structured) (CC and) (JJ deterministic)) (NNS environments)))))))) (, ,) (NP (NNS co-robots)) (VP (VBP need) (S (VP (TO to) (VP (VB operate) (PP (IN in) (NP (ADJP (RB highly) (JJ unstructured) (CC and) (JJ stochastic)) (NNS environments))))))) (. .))

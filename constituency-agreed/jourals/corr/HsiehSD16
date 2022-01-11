@@ -1,0 +1,1 @@
+(S (S (NP (NNP Kernel) (NNS machines)) (ADVP (RB often)) (VP (VBP yield) (NP (NP (JJ superior) (JJ predictive) (NN performance)) (PP (IN on) (NP (JJ various) (NNS tasks)))))) (: ;) (S (ADVP (RB however)) (, ,) (NP (PRP they)) (VP (VBP suffer) (PP (IN from) (NP (JJ severe) (JJ computational) (NNS challenges))))) (. .))

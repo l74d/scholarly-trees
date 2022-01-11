@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN throughput)) (PP (IN of) (NP (JJ such) (NNS centers)))) (VP (VBZ is) (ADVP (RB largely)) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (JJ total) (JJ idle) (NN time)) (PP (IN of) (NP (DT all) (NNS stations))))) (SBAR (IN since) (S (NP (PRP$ their) (NNS queues)) (VP (MD can) (ADVP (RB frequently)) (VP (VB become) (ADJP (JJ empty)))))))) (. .))

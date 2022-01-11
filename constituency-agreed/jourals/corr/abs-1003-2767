@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN evolution)) (PP (IN of) (NP (DT the) (NN game)))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ stochastic) (JJ fictitious) (NN play) (NN process))))) (. .))
+(S (NP (DT The) (NNS players)) (VP (MD will) (VP (VB try) (S (VP (TO to) (VP (VB compensate) (PP (IN for) (NP (DT these) (NNS errors))) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN information)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))) (. .))

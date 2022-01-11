@@ -1,0 +1,2 @@
+(S (S (NP (PRP We)) (ADVP (RB first)) (VP (VBP describe) (NP (NP (NNP Sima) (POS 's)) (NN argument)))) (, ,) (CC and) (S (ADVP (RB then)) (NP (PRP we)) (VP (VBP describe) (SBAR (WHADVP (WRB where) (CC and) (WRB why)) (S (NP (PRP it)) (VP (VBZ fails)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ simple) (NN example)) (SBAR (WHNP (WDT that)) (S (ADVP (RB clearly)) (VP (VBZ demonstrates) (NP (DT the) (NN failure))))))) (. .))

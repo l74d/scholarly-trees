@@ -1,0 +1,4 @@
+(S (NP (DT A) (JJ parallel) (NN program)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN as) (NP (DT a) (JJ directed) (JJ acyclic) (NN graph)))))) (. .))
+(S (NP (DT An) (JJ important) (NN performance) (NN bound)) (VP (VBZ is) (NP (NP (DT the) (NN time)) (SBAR (S (VP (TO to) (VP (VB execute) (NP (NP (DT the) (JJ critical) (NN path)) (PP (IN through) (NP (DT the) (NN graph)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (NN performance) (JJ metric)) (VP (VBZ is) (VP (VBN related) (PP (TO to) (NP (NP (NNP Amdahl) (NN speedup)) (CC and) (NP (NP (DT the) (NN degree)) (PP (IN of) (NP (JJ average) (NN parallelism))))))))))) (. .))
+(S (NP (DT These) (NNS bounds)) (VP (ADVP (RB formally)) (VBP exclude) (NP (JJ superlinear) (NN performance))) (. .))

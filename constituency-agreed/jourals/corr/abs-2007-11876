@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ novel) (NN approach)) (PP (IN by) (S (VP (VBG formulating) (NP (DT the) (NN problem)) (PP (IN as) (NP (NP (DT a) (NN segmentation) (NN task)) (VP (VBN solved) (PP (IN by) (NP (DT an) (JJ efficient) (NNP CNN) (NN architecture)))))))))) (. .))
+(S (NP (PRP$ Our) (NN inference) (NN model)) (VP (MD can) (VP (VB run) (PP (IN in) (NP (JJ real) (NN time))) (PP (IN without) (NP (NP (DT the) (NN delay)) (VP (VBN induced) (PP (IN by) (NP (DT a) (JJ temporal) (NN analysis)))))))) (. .))

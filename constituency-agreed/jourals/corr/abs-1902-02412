@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NP (NNS values)) (VP (VBN aggregated) (PP (IN over) (NP (NP (NNS classes)) (VP (VBN predicted) (PP (IN by) (NP (DT a) (NN classification) (NN algorithm))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB correct) (NP (DT this) (NN bias))))) (, ,) (NP (NP (DT the) (NN algorithm) (POS 's)) (NN classification) (NN error) (NNS rates)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN estimated)))))) (. .))

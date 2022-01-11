@@ -1,0 +1,1 @@
+(S (NP (JJ Many) (NN image) (NNS transformations)) (VP (MD can) (VP (VB be) (VP (VBN modeled) (PP (IN by) (NP (NP (NN image) (NNS operators)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN characterized) (PP (IN by) (NP (NP (JJ pixel-wise) (JJ local) (NNS functions)) (VP (VBN defined) (PP (IN on) (NP (DT a) (JJ finite) (NN support) (NN window))))))))))))))) (. .))

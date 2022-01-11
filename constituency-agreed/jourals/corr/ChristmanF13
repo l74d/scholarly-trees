@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB serve) (NP (NNS requests)) (PP (IN within) (NP (DT a) (NN time) (NN limit))) (SBAR (JJ such) (IN that) (S (NP (DT the) (JJ total) (NN revenue)) (VP (VBZ is) (VP (VBN maximized))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT no) (NN algorithm)) (VP (MD can) (VP (VB be) (ADJP (JJ competitive) (PP (IN for) (NP (DT this) (NN problem))))))))) (. .))

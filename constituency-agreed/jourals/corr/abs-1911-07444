@@ -1,0 +1,1 @@
+(S (NP (NN Docker) (NNS images)) (VP (VBP are) (VP (VBN composed) (PP (IN of) (NP (NP (JJ multiple) (NNS layers)) (, ,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ contains) (NP (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS instructions)))) (, ,) (CC and) (NP (NP (DT an) (NN archive)) (PP (IN of) (NP (NNS files)))))))))))) (. .))

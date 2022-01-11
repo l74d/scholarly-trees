@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN system) (NN prototype)) (VP (VBG implementing) (NP (NNP NP) (NNP Datalog)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (JJ Several) (NNS experiments)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT this) (NN approach))))) (. .))

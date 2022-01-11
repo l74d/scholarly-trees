@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ improved) (NN inference) (NN method)) (PP (IN for) (NP (ADJP (RB densely) (VBN connected)) (NNS systems)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT A) (ADJP (RB highly) (JJ efficient)) (JJ practical) (NN algorithm)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN derived) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (NN insight)) (VP (VBN gained) (PP (IN from) (NP (DT the) (NN analysis)))))))))) (. .))

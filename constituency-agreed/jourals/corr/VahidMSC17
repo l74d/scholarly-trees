@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN code)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB detect) (CC and) (VB correct) (NP (JJ double) (NN shift) (NNS errors)))))))))) (VP (VBZ is) (VP (VBN described) (PP (IN in) (NP (NN detail))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (NP (NP (DT the) (NN similarity)) (PP (IN between) (NP (NNS images)))))) (VP (VBZ constitutes) (NP (NP (DT the) (NN foundation)) (PP (IN for) (NP (JJ numerous) (NN vision) (NNS tasks))))) (. .))
+(S (NP (DT The) (JJ common) (NN paradigm)) (VP (VBZ is) (NP (NP (JJ discriminative) (JJ metric) (NN learning)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ seeks) (NP (NP (DT an) (NN embedding)) (SBAR (WHNP (WDT that)) (S (VP (VBZ separates) (NP (JJ different) (NN training) (NNS classes))))))))))) (. .))

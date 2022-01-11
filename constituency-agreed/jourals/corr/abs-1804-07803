@@ -1,0 +1,4 @@
+(S (NP (DT These) (NNS approaches)) (VP (VBP use) (NP (NP (DT the) (JJ textual) (NNS contents)) (PP (IN of) (NP (NN bug) (NNS reports)))) (S (VP (TO to) (VP (VB build) (NP (NN recommendation) (NNS models)))))) (. .))
+(S (NP (DT These) (NNS approaches)) (VP (VBP suffer) (PP (IN from) (NP (NP (JJ low) (NN accuracy)) (CC and) (NP (JJ high) (JJ computational) (NNS needs))))) (. .))
+(S (NP (DT The) (NN evaluation)) (VP (VBZ shows) (SBAR (IN that) (S (S (VP (VBG using) (NP (NP (DT the) (JJ textual) (NNS contents)) (PP (IN of) (NP (NN bug) (NNS reports)))))) (VP (VBZ is) (ADJP (JJ important)))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP it)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (JJ categorical) (NNS features)) (VP (MD can) (VP (VB improve) (NP (DT the) (NN classification) (NN accuracy))))))) (. .))

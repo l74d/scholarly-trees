@@ -1,0 +1,2 @@
+(S (NP (NP (DT This) (NN prioritization)) (PP (IN of) (NP (NN traffic) (NNS classes)))) (VP (VBZ does) (RB not) (VP (VB reduce) (NP (DT the) (NN bandwidth) (NN utilization)))) (. .))
+(S (NP (DT The) (VBN proposed) (NN scheme)) (VP (VBZ is) (VP (VBN modeled) (S (VP (VBG using) (NP (DT the) (NNP Markov) (NNP Chain)))))) (. .))

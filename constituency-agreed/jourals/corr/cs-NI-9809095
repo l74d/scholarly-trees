@@ -1,0 +1,7 @@
+(S (NP (JJ Such) (NNS schemes)) (VP (VBP prevent) (NP (DT a) (NN network)) (PP (IN from) (S (VP (VBG entering) (NP (DT the) (JJ congested) (NN state)))))) (. .))
+(S (NP (NN Congestion) (NN avoidance)) (VP (VBZ is) (NP (DT a) (NN prevention) (NN mechanism)) (SBAR (IN while) (S (NP (NN congestion) (NN control)) (VP (VBZ is) (NP (DT a) (NN recovery) (NN mechanism)))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN congestion) (NN avoidance)))) (PP (IN with) (NP (NP (DT that)) (PP (IN of) (NP (NP (NN flow) (NN control)) (CC and) (NP (NN congestion) (NN control))))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NP (JJ possible) (NN alternative)) (PP (IN for) (NP (NN congestion) (NN avoidance)))))) (VP (VBP have) (VP (VBN been) (VP (VBN identified)))) (. .))
+(S (PP (IN From) (NP (DT these))) (NP (DT a) (JJ few)) (VP (VBD were) (VP (VBN selected) (PP (IN for) (NP (NN study))))) (. .))
+(S (NP (NP (DT These) (NNS goals)) (CC and) (NP (NP (DT the) (NN test) (NNS cases)) (VP (VBN used) (S (VP (TO to) (VP (VB verify) (SBAR (IN whether) (S (NP (DT a) (JJ particular) (NN scheme)) (VP (VBZ has) (VP (VBN met) (NP (DT the) (NNS goals)))))))))))) (VP (VBP have) (VP (VBN been) (VP (VBN described)))) (. .))
+(S (NP (DT These) (NNS components)) (VP (VBP have) (VP (VBN been) (VP (VBN explained)))) (. .))

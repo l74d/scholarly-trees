@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN study)))) (VP (VBZ is) (S (VP (TO to) (VP (VB evaluate) (CC and) (VB compare) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN network) (NN setup)) (VP (VBZ influences) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (NNP Hadoop) (NN cluster))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP Network) (NN connectedness)) (VP (VBZ is) (ADJP (JJ indispensable) (PP (IN for) (NP (NP (DT the) (JJ normal) (NN operation)) (PP (IN of) (NP (NN transmission) (NNS networks))))))) (. .))
+(S (PP (IN With) (NP (DT these) (NNS constraints))) (, ,) (NP (NP (NN connectedness)) (PP (IN of) (NP (DT the) (JJ optimal) (NN topology)))) (VP (MD can) (ADVP (RB always)) (VP (VB be) (VP (VBN ensured)))) (. .))

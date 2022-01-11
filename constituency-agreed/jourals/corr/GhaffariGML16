@@ -1,0 +1,3 @@
+(S (NP (DT Each) (JJ mobile) (NN node)) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG anonymizing) (NP (DT a) (JJ specific) (NN zone))))))) (. .))
+(S (NP (DT The) (NN user)) (VP (MD will) (VP (VB query) (NP (DT the) (NN broker)) (S (VP (TO to) (VP (VB get) (NP (DT the) (NN response))))))) (. .))
+(S (NP (NP (DT All) (NNS parts)) (PP (IN of) (NP (DT the) (NNS messages)))) (VP (VBP are) (VP (VBN encrypted) (PP (IN except) (NP (NP (DT the) (NNS fields)) (VP (VBN required) (PP (IN for) (NP (NP (DT the) (NN anonymizer)) (CC and) (NP (DT the) (NN broker))))))))) (. .))

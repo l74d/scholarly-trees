@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (NN prototype)) (PP (IN of) (NP (JJ extended) (NN XDB))))) (. .))
+(S (NP (DT The) (NN prototype)) (VP (VBD was) (VP (VBN created) (PP (IN for) (NP (NP (CD 16) (NNS tags)) (PP (IN of) (NP (DT the) (NNP MediaWiki) (NN dialect))))))) (. .))

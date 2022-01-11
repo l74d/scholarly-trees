@@ -1,0 +1,3 @@
+(S (S (VP (VB Spark))) (VP (VBZ plays) (NP (DT a) (JJ great) (NN role)) (PP (IN in) (S (VP (VBG studying) (NP (NP (NN uniqueness)) (PP (IN of) (NP (NP (JJ sparse) (NNS solutions)) (PP (IN of) (NP (DT the) (JJ underdetermined) (JJ linear) (NNS equations)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP derive) (ADVP (NP (DT a) (JJ new)) (JJR lower)) (VP (VBN bound) (PP (IN of) (NP (NN spark))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (DT a) (JJ new) (NN criterion)) (PP (IN for) (NP (NP (DT the) (NN uniqueness)) (PP (IN of) (NP (NP (JJ sparse) (NNS solutions)) (PP (IN of) (NP (JJ linear) (NNS equations)))))))) (. .))

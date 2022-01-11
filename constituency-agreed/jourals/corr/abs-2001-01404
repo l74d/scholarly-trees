@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP adopt) (NP (NP (DT a) (JJ Bayesian) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ requires) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NP (DT a) (JJ posterior) (JJ predictive) (NN integral)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB usually)) (ADJP (JJ intractable))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (JJ different) (NNS situations)) (VP (VBP are) (VP (VBN encountered))))) (, ,) (NP (DT these) (NNS proposals)) (VP (MD may) (VP (VB fail) (S (VP (TO to) (VP (VB be) (NP (DT the) (NN winner))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (DT the) (NN rule)) (VP (MD could) (VP (VB synthesize) (NP (NN exploitation) (CC and) (NN exploration)) (, ,) (S (VP (VBG making) (S (NP (DT the) (NN evolution)) (ADJP (RBR more) (JJ effective))))))) (. .))

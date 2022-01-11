@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ recognises) (NP (JJ human) (NNS activities)) (S (VP (VBG using) (NP (NP (DT a) (NN sensor)) (SBAR (WHNP (WDT that)) (S (VP (VBZ retains) (NP (NN privacy))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP introduce) (NP (DT a) (JJ new) (NN dataset))) (, ,) (CC and) (VP (VB evaluate) (NP (DT the) (NN method)) (PP (IN on) (NP (PRP it))))) (. .))

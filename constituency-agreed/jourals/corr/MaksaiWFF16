@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ unsupervised) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ yields) (NP (ADJP (RB almost) (JJ similar)) (NNS improvements)) (PP (IN without) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (NN ground) (NN truth)))))))))) (. .))

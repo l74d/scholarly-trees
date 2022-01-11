@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (NN contrast)) (PP (IN with) (NP (NP (JJ classical) (NN performance) (NN predictor)) (VP (VBN optimized) (PP (IN in) (NP (DT a) (ADJP (RB fully) (JJ supervised)) (NN way)))))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ suggests) (NP (NP (DT a) (JJ semi-supervised) (NN assessor)) (PP (IN of) (NP (JJ neural) (NNS architectures))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Changes)) (PP (IN in) (NP (DT the) (NNS ontologies)))) (ADVP (RB also)) (VP (VBP require) (NP (NP (DT the) (NN adaptation)) (PP (IN of) (NP (NN ontology) (NNS mappings))))) (. .))
+(S (ADVP (RB So) (RB far)) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (NN ontology) (NNS mappings)))) (VP (VBZ has) (VP (VBN received) (NP (JJ little) (NN attention)) (SBAR (IN albeit) (S (NP (NNS ontologies)) (VP (VBP change) (ADVP (RB continuously)) (PP (ADVP (RB especially)) (IN in) (NP (DT the) (NN life) (NNS sciences)))))))) (. .))

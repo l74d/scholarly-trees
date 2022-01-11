@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN evaluated) (S (VP (VBG using) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (ADJP (RB publicly) (JJ available)) (NNS images)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NN ground) (NN truth)) (VP (VBZ is) (VP (VBN known)))))))))))) (. .))
+(S (NP (DT The) (NNP Dice) (NNP Coefficient)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (DT an) (JJ objective) (NN criterion))) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NN segmentation))))))))) (. .))

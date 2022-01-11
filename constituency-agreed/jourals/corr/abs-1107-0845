@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ digital) (NN video) (NN camera)) (PP (IN with) (NP (CD 25) (NN fps)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB capture) (NP (DT the) (NN vehicle) (NN motion)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ moves) (PP (IN in) (NP (NP (DT the) (NN test) (NN segment)) (PP (IN of) (NP (DT the) (NN road))))))))))))) (. .))
+(S (NP (VBN Captured) (NNS images)) (VP (VBP are) (ADVP (RB then)) (VP (VBN processed) (S (VP (TO to) (VP (VB calculate) (NP (NN vehicle) (NN speed))))))) (. .))

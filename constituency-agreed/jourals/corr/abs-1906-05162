@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Queries)) (PP (IN over) (NP (DT these) (JJ large) (NNS graphs)))) (ADVP (RB often)) (VP (VBP involve) (NP (NP (JJ expensive) (NN subgraph) (NNS traversals)) (CC and) (NP (JJ complex) (JJ analytical) (NNS computations)))) (. .))

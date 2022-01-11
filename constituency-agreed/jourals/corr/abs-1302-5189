@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ hierarchical) (NN codebook)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ provides) (NP (NP (JJ good) (NN generalization)) (CC and) (NP (JJ discriminative) (NNS properties)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (NP (NP (DT the) (NN capability)) (PP (IN of) (NP (JJ dynamic) (NN learning))))) (. .))

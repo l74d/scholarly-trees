@@ -1,0 +1,1 @@
+(S (NP (JJ Hierarchical) (NN hypersparse) (NNS matrices)) (VP (VBP achieve) (NP (NP (QP (IN over) (CD 1,000,000)) (NNS updates)) (PP (IN per) (NP (NN second)))) (PP (IN in) (NP (DT a) (JJ single) (NN instance)))) (. .))

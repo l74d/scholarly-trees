@@ -1,0 +1,2 @@
+(S (NP (CD Four) (JJ other) (NNS algorithms)) (VP (VBP are) (VP (VBN presented) (CC and) (VBN analyzed))) (. .))
+(S (NP (PRP We)) (VP (VBP identify) (NP (NP (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (NP (DT some)) (PP (IN of) (NP (DT these) (NNS algorithms)))) (VP (VBP are) (ADJP (JJ optimal))))))))

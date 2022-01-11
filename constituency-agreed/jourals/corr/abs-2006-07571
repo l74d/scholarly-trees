@@ -1,0 +1,2 @@
+(S (S (VP (VBG Making) (NP (DT a) (JJ reliable) (NN inference)) (PP (IN in) (NP (JJ complex) (NNS models))))) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN issue)) (PP (IN in) (NP (JJ statistical) (NN modeling))))) (. .))
+(S (NP (PRP$ Our) (NN estimator)) (ADVP (RB also)) (VP (VBZ enjoys) (NP (NP (JJ ideal) (NNS properties)) (PP (JJ such) (IN as) (NP (NP (JJ asymptotic) (NN unbiasedness)) (, ,) (NP (ADJP (RB almost) (JJ sure)) (NN convergence)) (, ,) (CC and) (NP (JJ linear) (NN time) (NN complexity)))))) (. .))

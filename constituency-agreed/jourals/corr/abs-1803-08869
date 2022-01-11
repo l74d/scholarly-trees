@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP simulate) (NP (DT this) (NN setting)) (PP (IN with) (NP (NP (DT a) (NN dataset)) (PP (IN of) (NP (NP (NNS utterances)) (VP (VBN spoken) (PP (IN by) (NP (DT a) (ADJP (JJ realistic) (CC but) (JJ uniform)) (JJ synthetic) (NN voice))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Variable) (NN elimination)) (VP (VBZ is) (NP (NP (DT a) (JJ general) (NN technique)) (PP (IN for) (NP (NN constraint) (NN processing))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB be) (ADJP (RB extremely) (JJ useful)) (SBAR (WHADVP (WRB when)) (S (VP (VBN combined) (PP (IN with) (NP (JJ other) (NNS techniques)))))))) (. .))

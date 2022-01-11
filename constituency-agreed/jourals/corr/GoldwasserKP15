@@ -1,0 +1,1 @@
+(S (NP (NNP Lichtenstein) (, ,) (NNP Linial) (, ,) (CC and) (NNP Saks)) (VP (VBD proved) (SBAR (IN that) (S (NP (DT the) (NN conjecture)) (VP (VBZ holds) (PP (IN for) (NP (NP (NNS protocols)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (NN player)) (VP (VBZ sends) (NP (DT a) (JJ single) (NN bit))))))))))) (. .))

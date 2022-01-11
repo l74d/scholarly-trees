@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ opens) (NP (DT the) (NN possibility) (S (VP (TO to) (VP (VB simplify) (NP (JJ deep) (JJ neural) (NN network) (NN learning)) (PP (IN by) (S (VP (VBG initializing) (NP (DT the) (JJ first) (NNS layers)) (PP (IN with) (NP (NN wavelet) (NNS filters))))))))))) (. .))

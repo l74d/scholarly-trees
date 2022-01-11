@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (NNP OptChain)) (VP (VBZ maintains) (NP (NP (DT a) (JJ temporal) (NN balance)) (PP (IN among) (NP (NNS shards)))) (S (VP (TO to) (VP (VB guarantee) (NP (DT the) (JJ high) (NN parallelism)))))) (. .))

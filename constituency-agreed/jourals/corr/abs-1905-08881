@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN stability) (NN property)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN discussed) (CC and) (VBN proven))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP$ our) (JJ novel) (NN algorithm)) (VP (VBZ provides) (NP (NP (JJ reliable) (NNS estimates)) (PP (IN of) (NP (NP (NN bank) (NNS angles)) (CC and) (NP (JJ lateral) (NN acceleration) (NN sensor) (NN bias)))))) (. .))

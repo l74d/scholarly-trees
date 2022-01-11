@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT these) (JJ general) (NNS representations)) (CC and) (NP (NP (DT the) (NNP Cholesky) (NN factorization)) (PP (IN of) (NP (JJ symmetric) (JJ positive) (NNS matrices)))))))) (. .))

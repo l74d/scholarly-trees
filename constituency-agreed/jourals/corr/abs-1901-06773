@@ -1,0 +1,1 @@
+(S (NP (NNP AccUDNN)) (ADVP (RB mainly)) (VP (VBZ includes) (NP (NP (CD two) (NNS modules)) (: :) (NP (NP (NN memory) (NN optimizer)) (CC and) (NP (NN hyperparameter) (NN tuner))))) (. .))

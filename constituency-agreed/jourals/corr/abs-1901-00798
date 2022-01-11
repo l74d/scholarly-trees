@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ public) (NN output)) (PP (IN of) (NP (DT the) (NN computation)))) (ADVP (RB inevitably)) (VP (VBZ leaks) (NP (NP (DT some) (NN information)) (PP (IN about) (NP (DT the) (JJ private) (NNS inputs))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (NP (DT some) (JJ theoretical) (NNS bounds)) (PP (IN for) (NP (DT this) (NN privacy) (NN leak)))) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ non-uniform) (JJ prior) (NNS beliefs)))))) (. .))

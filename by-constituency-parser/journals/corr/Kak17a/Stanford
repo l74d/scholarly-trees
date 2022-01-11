@@ -1,0 +1,5 @@
+(S (NP (NNP Quantum) (NN decision) (NNS systems)) (VP (VBP are) (VP (VBG being) (ADVP (RB increasingly)) (VP (VBN considered) (PP (IN for) (NP (NN use))) (PP (IN in) (NP (JJ artificial) (NN intelligence) (NNS applications)))))) (. .))
+(S (NP (NP (JJ Classical)) (CC and) (NP (NN quantum) (NNS nodes))) (VP (MD can) (VP (VB be) (VP (VBN distinguished) (PP (VBN based) (PP (IN on) (NP (NP (JJ certain) (NNS correlations)) (PP (IN in) (NP (PRP$ their) (NNS states))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (NP (NP (DT some) (NNS properties)) (PP (IN of) (NP (NP (DT the) (NNS states)) (VP (VBN obtained) (PP (IN in) (NP (DT a) (NN decision) (NN tree) (NN structure)))))))) (. .))
+(S (SBAR (WHADVP (WRB How)) (S (NP (DT these) (NNS correlations)) (VP (MD may) (VP (VB be) (VP (VBN mapped) (PP (IN to) (NP (DT the) (NN decision) (NN tree)))))))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (NP (JJ Classical) (NN tree) (NNS representations)) (CC and) (NP (NP (NNS approximations)) (PP (IN to) (NP (NN quantum) (NNS states))))) (VP (VBP are) (VP (VBN provided))) (. .))

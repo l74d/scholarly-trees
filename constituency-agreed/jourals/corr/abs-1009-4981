@@ -1,0 +1,3 @@
+(S (PP (IN For) (S (VP (VBG storing) (NP (NP (DT a) (NN word)) (CC or) (NP (DT the) (JJ whole) (NN text) (NN segment)))))) (, ,) (NP (PRP we)) (VP (VBP need) (NP (DT a) (JJ huge) (NN storage) (NN space))) (. .))
+(S (PP (IN In) (NP (NP (NN case)) (PP (IN of) (NP (NP (NN memory) (NN requirement) (NN compression)) (PP (IN for) (NP (NN text) (NNS data))))))) (, ,) (NP (JJ lossless) (NN memory) (NN compression)) (VP (VBZ is) (VP (VBN needed))) (. .))
+(S (S (NP (DT The) (NN word) (NN lookup) (NN table)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (DT the) (NN operating) (NN system))))))) (CC and) (S (NP (DT the) (NN reduction)) (VP (MD will) (VP (VB be) (VP (VBN done) (PP (IN by) (NP (DT the) (NN operating) (NN system))))))) (. .))

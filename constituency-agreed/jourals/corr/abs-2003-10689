@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (MD may) (RB not) (VP (VB reconstruct) (NP (NNS images)) (ADVP (RB well)) (SBAR (IN as) (S (NP (NP (DT the) (NN degradation) (NNS reflections)) (PP (IN in) (NP (JJ various) (NN feature) (NN space)))) (VP (VBP are) (RB not) (VP (VBN considered))))))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (NP (ADJP (RBR more) (JJ useful)) (NN information)) (VP (MD can) (VP (VB be) (VP (VBN extracted) (PP (IN from) (NP (DT the) (VBN observed) (NNS data)))))) (. .))

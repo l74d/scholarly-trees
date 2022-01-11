@@ -1,0 +1,2 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (DT a) (JJ novel) (NN framework)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB handle) (NP (CD two) (JJ major) (NN research) (NNS issues))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP introduce) (NP (NP (DT a) (JJ mathematical) (NN coverage) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ helps) (S (NP (PRP us)) (VP (VB minimize) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN coverage) (NNS holes))))))))))) (. .))

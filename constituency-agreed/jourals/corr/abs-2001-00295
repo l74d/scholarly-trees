@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN dependency) (NN tree)) (VP (VBZ contains) (NP (NP (JJ important) (ADJP (JJ syntactic) (CC and) (JJ semantic)) (NN information)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ helps) (S (VP (TO to) (VP (VB improve) (NP (NN relation) (NN extraction)))))))))) (. .))

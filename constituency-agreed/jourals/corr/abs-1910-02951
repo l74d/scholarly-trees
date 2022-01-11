@@ -1,0 +1,1 @@
+(S (NP (NP (NN Correlation) (NN analysis)) (PP (IN between) (NP (NP (NN autoencoder) (NN latent) (NNS codes)) (CC and) (NP (NN covariate) (NNS features))))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB examine) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS predictors)) (VP (VBP interact))))))))) (. .))

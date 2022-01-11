@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP convert) (NP (NP (DT each) (NN point)) (PP (IN of) (NP (DT the) (NN contour)))) (PP (IN into) (NP (DT a) (NN vertex))) (, ,) (SBAR (IN so) (IN that) (S (NP (PRP we)) (VP (VBP model) (NP (DT a) (JJ regular) (NN network)))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (NP (DT the) (JJ main) (NNS characteristics)) (PP (IN of) (NP (DT the) (NN method)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (PRP$ its) (NN functionality)))) (. .))

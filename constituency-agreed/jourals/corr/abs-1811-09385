@@ -1,0 +1,1 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ popular)) (NNS experiments)) (VP (VBN used) (S (VP (TO to) (VP (VB evaluate) (NP (JJ approximate) (NN inference) (NNS techniques))))))))) (VP (VBZ is) (NP (NP (DT the) (NN regression) (NN experiment)) (PP (IN on) (NP (NNP UCI) (NNS datasets))))) (. .))

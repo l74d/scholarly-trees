@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT these) (NNS algorithms)) (VP (VBP are) (ADJP (JJ iterative) (PP (IN in) (NP (NN nature))))))) (, ,) (NP (PRP$ their) (NN performance)) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (NN convergence) (NN speed))))) (. .))

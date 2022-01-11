@@ -1,0 +1,2 @@
+(S (NP (NNP Channel) (NN pruning)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ important) (NNS methods)) (PP (IN for) (NP (JJ deep) (NN model) (NN compression))))))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

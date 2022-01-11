@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN intuition)) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ incorrect) (NNS patches)) (VP (MD can) (ADVP (RB still)) (VP (VB help) (S (VP (VB understand) (NP (DT the) (NN bug))))))))) (. .))
+(S (PP (IN With) (NP (JJ proper) (NN tool) (NN support))) (, ,) (NP (DT the) (NN benefit)) (VP (VBZ outweighs) (NP (DT the) (NN cost)) (SBAR (RB even) (IN if) (S (NP (EX there)) (VP (VBP are) (NP (JJ many) (JJ incorrect) (NNS patches)))))) (. .))

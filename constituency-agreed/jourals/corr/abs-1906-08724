@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Parameters)) (PP (JJ such) (IN as) (NP (NP (NNS classes)) (, ,) (NP (NNS properties)) (, ,) (NP (NNS individuals)) (, ,) (CC or) (NP (JJ whole) (NNS ontologies))))) (VP (MD may) (VP (VB be) (VP (VBN instantiated) (PP (IN with) (NP (NP (NNS arguments)) (PP (IN in) (NP (DT a) (NN host) (NN ontology)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Recently)) (, ,) (NP (JJ several) (NNS approaches)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB learn) (NP (ADJP (NN domain) (JJ invariant)) (NN feature) (NNS representations)) (PP (IN through) (NP (JJ adversarial) (JJ deep) (NN learning))))))))) (. .))

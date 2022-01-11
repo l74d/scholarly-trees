@@ -1,0 +1,4 @@
+(NP (NP (DT A) (NN compiler)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB compile) (NP (PRP itself)))))) (. .))
+(NP (NP (JJ Functional) (NN programming)) (CC and) (NP (DT an) (JJ early) (NN implementation)) (. .))
+(NP (CD 5) (. .))
+(NP (CD 6) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ common) (NN signal)) (VP (VBZ is) (VP (VBN defined) (PP (IN for) (NP (NP (DT any) (CD two) (NNS signals)) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (JJ non-zero) (NN correlation))))))))) (. .))
+(S (NP (DT A) (JJ mathematical) (NN method)) (VP (VBZ is) (VP (VBN provided) (S (VP (TO to) (VP (VB extract) (NP (NP (DT the) (ADJP (JJS best) (JJ obtainable)) (JJ common) (NN signal)) (PP (IN between) (NP (DT the) (CD two) (NNS signals))))))))) (. .))

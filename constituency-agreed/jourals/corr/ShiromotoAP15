@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ sufficient) (NN condition)) (PP (IN for) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (NP (DT a) (NN system)) (VP (VBG resulting) (PP (IN from) (NP (NP (DT the) (NN interconnection)) (PP (IN of) (NP (JJ dynamical) (NNS systems))))))))))) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (DT the) (JJ small) (NN gain) (NN theorem))))) (. .))
+(S (NP (CD Two) (NNS examples)) (VP (VBP illustrate) (CC and) (VBP motivate) (NP (DT this) (NN approach))) (. .))

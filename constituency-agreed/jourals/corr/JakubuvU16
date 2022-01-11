@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT an) (NN implementation)) (PP (IN of) (NP (DT the) (VBN proposed) (NN selection) (NNS strategies)))))) (CC and) (S (NP (PRP we)) (VP (VBP evaluate) (NP (PRP$ their) (NN efficiency)) (PP (IN on) (NP (DT an) (JJ extensive) (NN benchmark) (NN set))))) (. .))

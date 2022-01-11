@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (NP (DT a) (JJ critical) (NN initialization) (NN scheme)) (PP (IN of) (NP (NP (JJ orthogonal) (NN initialization)) (PP (IN on) (NP (JJ deep) (JJ nonlinear) (NNS networks)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NNS dynamics)) (PP (IN behind) (NP (PRP it)))) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN revealed) (PP (IN on) (NP (JJ nonlinear) (NNS networks)))))) (. .))

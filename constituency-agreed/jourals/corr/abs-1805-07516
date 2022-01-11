@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (NP (DT a) (JJ non-normalized) (NN model)) (VP (VBZ is) (VP (VBN defined) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ parametric) (NN distribution)) (PP (IN with) (NP (DT an) (JJ intractable) (NN normalization) (NN constant))))))))) (. .))

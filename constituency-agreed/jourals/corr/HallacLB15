@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP examine) (NP (NP (DT a) (JJ non-convex) (NN extension)) (PP (IN of) (NP (DT this) (NN approach))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (JJ many) (NNS types)) (PP (IN of) (NP (NNS problems)))) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN in) (NP (PRP$ our) (NN framework))))))))) (. .))

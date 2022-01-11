@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBG resulting) (NN algorithm)) (VP (VBZ is) (VP (VBN implemented) (PP (IN as) (NP (NP (DT a) (JJ simple) (NN variation)) (PP (IN of) (NP (NP (NNP Dijkstras) (NN algorithm)) (VP (VBN used) (PP (IN in) (NP (NNP Isomap)))))))))) (. .))

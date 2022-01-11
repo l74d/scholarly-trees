@@ -1,0 +1,1 @@
+(S (NP (PRP They)) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN used) (ADVP (RB commonly)) (PP (IN in) (NP (JJ unsupervised) (NNS tasks))) (, ,) (SBAR (IN because) (S (NP (NP (DT a) (JJ probabilistic) (NN interpretation)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBZ has) (VP (VBN been) (ADJP (JJ difficult))))))))) (. .))

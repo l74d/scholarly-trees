@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB track) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (NNP DropFilter)) (, ,) (NP (NP (DT a) (JJ new) (NN dropout) (NN method)) (PP (IN for) (NP (JJ convolutional) (NNS layers)))))) (. .))

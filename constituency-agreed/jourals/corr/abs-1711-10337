@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB overcome) (NP (NP (DT some) (NNS limitations)) (PP (IN of) (NP (DT the) (JJ current) (NNS metrics))))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (JJ several) (NNS data) (NNS sets)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (NN precision) (CC and) (NN recall)) (VP (MD can) (VP (VB be) (VP (VBN computed)))))))) (. .))

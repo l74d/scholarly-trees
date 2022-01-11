@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (PP (IN for) (NP (CD one) (NN block))) (, ,) (NP (DT the) (NN problem)) (VP (VBZ decomposes) (PP (IN into) (NP (NP (ADJP (RB significantly) (JJR smaller)) (NNS subproblems)) (, ,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ is) (VP (VBN defined) (PP (IN over) (NP (DT a) (JJ single) (NN pixel)))))))))) (. .))

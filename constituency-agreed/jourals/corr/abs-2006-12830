@@ -1,0 +1,1 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VP (VBP divide) (NP (DT the) (NN network)) (PP (IN into) (NP (JJ several) (NNS modules)))) (CC and) (VP (VB apply) (NP (DT the) (NNP DFA) (NN algorithm)) (PP (IN within) (NP (DT the) (NN module))))) (. .))

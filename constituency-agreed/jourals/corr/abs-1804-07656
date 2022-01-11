@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (MD can) (ADVP (RB automatically)) (VP (VB detect) (NP (NP (JJ various) (NNS paraphrases)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ absent) (PP (IN from) (NP (VBG existing) (NN paraphrase) (NNS databases))))))))))))) (. .))

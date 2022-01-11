@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (JJ fast) (CC and) (JJ slow)) (NNS stages)) (VP (VBP represent) (NP (NP (DT the) (NN speed)) (PP (IN of) (NP (NP (DT the) (NN movement)) (PP (IN of) (NP (DT the) (NNS centers))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ slow) (NN stage))) (, ,) (NP (DT the) (JJ whole) (NN dataset)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB get) (NP (NP (DT the) (JJ exact) (NN location)) (PP (IN of) (NP (DT the) (NNS centers)))))))))) (. .))

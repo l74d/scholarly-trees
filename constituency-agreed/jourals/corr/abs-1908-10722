@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT the) (NN sensor)) (VP (MD can) (RB not) (VP (VB observe) (NP (NP (DT all) (NN state) (NNS variables)) (PP (IN of) (NP (DT the) (NN plant))))))))) (. .))

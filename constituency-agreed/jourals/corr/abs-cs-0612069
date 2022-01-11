@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ relational) (NN structure)) (VP (VBZ is) (NP (DT a) (NN core)) (, ,) (SBAR (IN if) (S (NP (DT all) (PRP$ its) (NNS endomorphisms)) (VP (VBP are) (NP (NNS embeddings)))))) (. .))
+(S (NP (DT This) (NN notion)) (VP (VBZ is) (ADJP (JJ important) (PP (IN for) (NP (NP (JJ computational) (NN complexity) (NN classification)) (PP (IN of) (NP (NN constraint) (NN satisfaction) (NNS problems))))))) (. .))

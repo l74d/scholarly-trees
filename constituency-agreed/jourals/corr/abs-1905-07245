@@ -1,0 +1,3 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NP (DT a) (JJ significant) (NN amount)) (PP (IN of) (NP (NN progress)))) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (PP (IN toward) (NP (DT this) (VBG emerging) (NN research) (NN area)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ several) (JJ fundamental) (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP remain) (ADJP (JJ open))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (VBG existing) (NN factorization) (NNS methods)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB achieve) (NP (NN scalability) (CC and) (NN non-linearity)) (ADVP (RB simultaneously))))))) (. .))

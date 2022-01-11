@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (PP (IN from) (NP (NNS demonstrations))))) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN tool)) (PP (IN for) (S (VP (VBG accelerating) (CC and) (VBG reducing) (NP (NP (DT the) (NN exploration) (NNS requirements)) (PP (IN of) (NP (NN reinforcement) (NN learning))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG choosing) (PP (IN among) (NP (NP (JJ multiple) (NNS demonstrators)) (PP (IN of) (NP (VBG varying) (NN skill) (NNS levels)))))))))) (. .))

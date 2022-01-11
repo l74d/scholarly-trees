@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (JJ non-iterative) (NN quasi-reversibility) (NN method)) (VP (VBZ is) (VP (VBN studied)))) (CC and) (S (NP (JJ different) (JJ mixed) (JJ variational) (NNS formulations)) (VP (VBP are) (VP (VBN proposed)))) (. .))
+(S (NP (NN Discretization)) (VP (VBZ is) (VP (VBN performed) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NN edge) (JJ finite) (NNS elements))))))) (. .))

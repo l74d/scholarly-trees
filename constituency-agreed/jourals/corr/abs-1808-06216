@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ semantic) (NNS signatures)) (VP (VBP are) (VP (VBN extracted) (PP (IN during) (NP (NP (NP (DT the) (NN execution)) (PP (IN of) (NP (DT the) (NN template) (NN function)))) (CC and) (NP (NP (NN emulation)) (PP (IN of) (NP (DT the) (NN target) (NN function)))))))) (. .))
+(S (ADVP (RB Lastly)) (, ,) (NP (DT a) (NN similarity) (NN score)) (VP (VBZ is) (VP (VBN calculated) (PP (IN from) (NP (PRP$ their) (NNS signatures))) (S (VP (TO to) (VP (VB measure) (NP (PRP$ their) (NN likeness))))))) (. .))

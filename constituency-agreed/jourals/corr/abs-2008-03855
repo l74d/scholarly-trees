@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ experimental) (NNS results)) (ADVP (RB also)) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (JJ improved) (NN algorithm)) (VP (VBZ has) (NP (NP (JJR better) (NN performance)) (PP (IN than) (NP (NP (NNP Karney) (POS 's)) (NN algorithm)))))))) (. .))

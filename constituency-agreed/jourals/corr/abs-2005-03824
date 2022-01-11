@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBD was) (VP (VBN trained) (PP (IN with) (NP (NP (CD 1000) (ADJP (RB manually) (VBN labeled)) (NNS images)) (PP (IN with) (NP (NN augmentation))))))) (. .))

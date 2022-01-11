@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS geoparsers)))) (VP (VBD were) (VP (VBN developed))))) (, ,) (NP (PRP they)) (VP (VBD were) (VP (VBN tested) (PP (IN on) (NP (JJ different) (NNS datasets))) (S (VP (VBG using) (NP (JJ different) (NNS metrics)))))) (. .))

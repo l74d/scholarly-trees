@@ -1,0 +1,2 @@
+(S (NP (JJ Complex) (NNS networks)) (VP (VBP are) (NP (NP (JJ formal) (NNS frameworks)) (VP (VBG capturing) (NP (NP (DT the) (NNS interdependencies)) (PP (IN between) (NP (NP (DT the) (NNS elements)) (PP (IN of) (NP (JJ large) (NNS systems) (CC and) (NNS databases))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ quantum) (NN navigation)) (VP (VBZ allows) (S (VP (TO to) (VP (VB solve) (NP (NP (NNS degeneracies)) (VP (VBN found) (PP (IN in) (NP (JJ classical) (NNS ranks)))))))))))) (. .))

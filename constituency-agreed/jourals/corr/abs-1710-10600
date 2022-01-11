@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN training) (NNS data))))) (, ,) (NP (DT the) (NNP SVM)) (VP (VBZ finds) (NP (NP (DT a) (NN hyperplane)) (SBAR (WHNP (WDT that)) (S (VP (VBZ separates) (NP (NP (CD two) (JJ different) (NNS classes)) (PP (IN of) (NP (NNS data) (NNS points)))) (PP (IN by) (NP (DT the) (JJS largest) (NN distance)))))))) (. .))

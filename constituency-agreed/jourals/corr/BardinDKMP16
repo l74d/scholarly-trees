@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN classification)) (PP (IN of) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (VBG existing) (NNS criteria)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (JJ Initial) (NNS experiments)) (VP (VBP suggest) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN approach)) (VP (VBZ is) (ADJP (DT both) (JJ efficient) (CC and) (JJ practical)))))) (. .))

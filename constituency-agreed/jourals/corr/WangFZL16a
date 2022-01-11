@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (JJ sparse) (NN learning))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB reveal) (NP (NP (JJ neutral) (NNS topics)) (CONJP (RB as) (RB well) (IN as)) (NP (ADJP (JJ positive) (CC and) (JJ negative)) (NNS ones)))))))) (. .))
+(S (ADVP (RB Methodologically)) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB achieve) (NP (DT a) (JJR higher) (JJ predictive) (NN power)) (PP (IN with) (NP (JJ sparse) (NN learning)))))))) (. .))

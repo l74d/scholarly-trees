@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP report) (CC and) (VBP fix) (NP (NP (DT an) (JJ important) (JJ systematic) (NN error)) (PP (IN in) (NP (NP (JJ prior) (NNS studies)) (SBAR (WHNP (WDT that)) (S (VP (VBD ranked) (NP (NNS classifiers)) (PP (IN for) (NP (NN software) (NNS analytics)))))))))) (. .))
+(S (NP (DT These) (NNS improvements)) (VP (VBP are) (ADJP (JJ independent) (PP (IN of) (NP (NP (DT the) (NN classifier)) (VP (VBN used) (S (VP (TO to) (VP (VB predict) (PP (IN for) (NP (NN quality))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (PP (IN for) (NP (DT the) (NN classification) (NN loss))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT the) (JJ standard) (JJ cross-entropy) (NN loss) (NN function)) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NNS classes)) (PP (IN of) (NP (DT the) (NNS images)))))))) (. .))

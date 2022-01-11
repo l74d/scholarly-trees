@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP train) (NP (DT a) (JJ Siamese) (JJ neural) (NN network)) (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (NN similarity)) (PP (IN between) (NP (CD two) (NNS texts)))))))) (. .))

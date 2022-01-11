@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ discriminative) (JJ local) (NN information)) (PP (IN on) (NP (NNS clothes)))) (VP (VBP are) (VP (VBN submerged) (PP (IN in) (NP (DT this) (JJ global) (NN representation))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (JJ sub-optimal) (NN performance))))))) (. .))
+(S (PP (IN On) (NP (NNP FindFashion))) (, ,) (NP (NNP GRNet)) (VP (VBZ achieves) (NP (NP (JJ considerable) (NNS improvements)) (PP (IN on) (NP (DT all) (JJ empirical) (NNS settings))))) (. .))

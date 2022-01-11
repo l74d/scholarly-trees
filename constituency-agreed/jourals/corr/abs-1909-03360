@@ -1,0 +1,1 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN training) (NN framework)))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ generative) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ synthesizes) (NP (NP (JJ visual) (NNS prototypes)) (VP (VBN conditioned) (PP (IN on) (NP (DT the) (NN class) (JJ semantic) (NNS prototypes)))))))))) (. .))

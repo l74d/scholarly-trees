@@ -1,0 +1,2 @@
+(S (NP (NN Saliency) (NN modeling)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT an) (JJ active) (NN research) (NN area)) (PP (IN in) (NP (NN computer) (NN vision)))) (PP (IN for) (NP (QP (RB about) (CD two)) (NNS decades))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP analyze) (NP (NP (DT some) (JJ basic) (NNS properties)) (PP (IN of) (NP (DT this) (NN dataset))))) (CC and) (VP (VB compare) (NP (DT some) (JJ successful) (NNS models)))) (. .))

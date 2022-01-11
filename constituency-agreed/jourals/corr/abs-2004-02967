@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Examples)) (PP (IN of) (NP (JJ such) (JJ mathematical) (NNS functions)))) (VP (VBP are) (NP (NP (NN addition)) (, ,) (NP (NN multiplication)) (CC and) (NP (JJ statistical) (NNS moments)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP use) (NP (JJ multi-objective) (NN evolution)) (S (VP (TO to) (VP (VB optimize) (NP (NP (DT each) (NN layer) (POS 's)) (NN performance)) (PP (IN across) (NP (JJ many) (NNS architectures))) (S (VP (TO to) (VP (VB prevent) (NP (NN overfitting))))))))) (. .))

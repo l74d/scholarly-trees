@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (NP (JJ arbitrary) (NNS points)) (PP (IN of) (NP (NN time))))) (, ,) (NP (NP (DT any) (NN subset)) (PP (IN of) (NP (NNS processors)))) (VP (MD can) (VP (VB invoke) (NP (QP (CD one) (CC or) (JJR more)) (NNS requests)))) (. .))
+(S (NP (PRP They)) (VP (VBP do) (NP (DT this)) (PP (IN with) (NP (DT the) (NN goal) (S (VP (TO to) (VP (VB minimize) (NP (DT the) (NN communication) (NN cost)))))))) (. .))

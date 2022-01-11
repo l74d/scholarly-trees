@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ first) (NN step)) (PP (IN in) (NP (NP (DT the) (NN direction)) (PP (IN of) (NP (NP (JJ perceptual) (NN evaluation)) (PP (IN of) (NP (NN terrain) (NNS models))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN presence) (CC or) (NN absence)) (PP (IN of) (NP (JJ certain) (NNS features)))) (VP (VBP have) (NP (DT a) (JJ significant) (JJ perceptual) (NN effect)))))) (. .))

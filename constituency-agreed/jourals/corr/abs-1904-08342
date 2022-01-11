@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ efficient) (NNP ABC) (NN scheme)) (PP (IN for) (NP (NNP IoT) (NNS devices))))) (. .))
+(S (NP (PRP$ Our) (NN scheme)) (VP (VBZ supports) (NP (NP (NN block) (NN signing)) (, ,) (NP (JJ selective) (NN disclosure)) (CC and) (NP (NN randomization)))) (. .))

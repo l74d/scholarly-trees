@@ -1,0 +1,3 @@
+(S (NP (JJ Bayesian) (NNS networks)) (VP (VBP are) (NP (NP (DT a) (JJ useful) (NN tool)) (PP (IN in) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (JJ uncertain) (NN knowledge))))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (NP (JJ multiple) (NNS types)) (PP (IN of) (NP (NNS moves)))) (VP (VBP are) (VP (VBN allowed))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (NNS moves)) (VP (MD can) (VP (VB be) (VP (VBN given) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NNS indices)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (VP (VBN based) (PP (IN on) (NP (NN construction) (NN graph) (NNS nodes)))))))))))))) (. .))

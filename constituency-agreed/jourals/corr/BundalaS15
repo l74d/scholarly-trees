@@ -1,0 +1,1 @@
+(S (NP (NP (NN Timing)) (PP (IN of) (NP (DT a) (NN program)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NP (DT the) (NN platform)) (SBAR (S (NP (PRP it)) (VP (VBZ executes) (PP (IN on)))))))))) (. .))

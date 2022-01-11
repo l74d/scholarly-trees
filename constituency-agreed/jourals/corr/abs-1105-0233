@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Edges)) (PP (IN in) (NP (DT this) (NN graph)))) (VP (MD may) (VP (VB disappear) (CC and) (VB reappear) (PP (IN over) (NP (NN time))))) (. .))
+(S (NP (NP (NN Performance)) (PP (IN of) (NP (DT these) (NNS algorithms)))) (VP (VBZ is) (VP (VBN measured) (S (VP (VBG using) (NP (NNS simulations)))))) (. .))

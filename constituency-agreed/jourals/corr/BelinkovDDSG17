@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ little)) (VP (VBZ is) (VP (VBN known) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (DT these) (NNS models)) (VP (VBP learn) (PP (IN about) (NP (NN source) (CC and) (NN target) (NNS languages))) (PP (IN during) (NP (DT the) (NN training) (NN process))))))))) (. .))

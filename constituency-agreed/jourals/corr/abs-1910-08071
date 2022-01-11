@@ -1,0 +1,2 @@
+(S (NP (NN Image) (NN retargeting)) (VP (VBZ is) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG making) (S (NP (NNS images)) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG being) (VP (VBN displayed) (PP (IN on) (NP (NP (NNS screens)) (PP (IN with) (NP (JJ different) (NNS sizes)))))))))))))))) (. .))
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (NNS researchers)) (VP (VBP have) (VP (VBN tried) (S (VP (TO to) (VP (VP (VB improve) (NP (DT the) (VBG existing) (NN retargeting) (NNS methods))) (CC and) (VP (VB introduce) (NP (JJ new) (NNS ones)))))))) (. .))

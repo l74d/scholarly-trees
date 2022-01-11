@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN network) (NNS conditions)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN controlled) (CC or) (VBN predicted)))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NNS simulators)) (VP (VBP are) (VP (VBN developed))) (. .))

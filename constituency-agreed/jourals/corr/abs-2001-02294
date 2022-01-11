@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG applying) (NP (DT the) (NN coupling) (NN method))))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ does) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB discretize) (NP (DT the) (NN state) (NN space))))))))))) (. .))

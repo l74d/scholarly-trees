@@ -1,0 +1,2 @@
+(S (NP (PRP I)) (VP (VBP propose) (SBAR (IN that) (S (NP (JJ associative) (NNS rules)) (VP (VBP assume) (NP (NP (DT a) (JJ dominant) (NN role)) (PP (IN in) (NP (NN cognition)))))))) (. .))
+(S (NP (PRP I)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (DT a) (NN definition)) (PP (IN for) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN problem))))))) (. .))

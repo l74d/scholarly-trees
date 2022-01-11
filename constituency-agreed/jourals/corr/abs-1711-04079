@@ -1,0 +1,1 @@
+(S (S (S (VP (VBG Training) (NP (DT a) (VBN personalized) (NN dialogue) (NN system)))) (VP (VBZ requires) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS data)))))) (, ,) (CC and) (S (NP (NP (DT the) (NNS data)) (VP (VBN collected) (PP (IN for) (NP (DT a) (JJ single) (NN user))))) (VP (VBZ is) (ADVP (RB usually)) (ADJP (JJ insufficient)))) (. .))

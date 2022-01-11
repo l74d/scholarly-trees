@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NN energy) (NN consumption)) (PP (IN of) (NP (DT a) (NNP MEC) (NN network)))) (VP (VBZ depends) (PP (IN on) (NP (NP (JJ volatile) (NNS tasks)) (SBAR (WHNP (WDT that)) (S (VP (VBZ induces) (NP (NP (NN risk)) (PP (IN for) (NP (NN energy) (NN demand) (NNS estimations)))))))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN energy) (NN supplier))) (, ,) (NP (DT a) (NN microgrid)) (VP (MD can) (VP (VB facilitate) (NP (JJ seamless) (NN energy) (NN supply)))) (. .))

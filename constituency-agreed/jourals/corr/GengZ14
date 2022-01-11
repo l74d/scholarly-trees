@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN label) (NN distribution)) (VP (VBZ covers) (NP (NP (DT a) (JJ certain) (NN number)) (PP (IN of) (NP (NNS labels)))) (, ,) (S (VP (VBG representing) (NP (NP (DT the) (NN degree)) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (DT each) (NN label)) (VP (VBZ describes) (NP (DT the) (NN instance))))))))) (. .))

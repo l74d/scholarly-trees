@@ -1,0 +1,2 @@
+(S (NP (DT Both) (NNS players)) (VP (VBP trade) (NP (PRP$ their) (NN control) (NN performance) (NNS objectives)) (PP (IN for) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (PRP$ their) (NNS actions)))))) (. .))
+(S (NP (NNP MSNE)) (VP (VBZ is) (VP (VBN computed) (S (VP (VBG using) (NP (JJ nonlinear) (NN programming)))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (JJ Natural) (NN selection)) (VP (VBZ favors) (NP (DT the) (ADJP (RBR more) (JJ successful)) (NNS individuals))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ elementary) (NN premise)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pervades) (NP (NP (JJ common) (NNS models)) (PP (IN of) (NP (NN evolution))))))))) (. .))
+(S (PP (IN Under) (NP (JJ extreme) (NNS conditions))) (, ,) (ADVP (RB however)) (, ,) (NP (DT the) (NN process)) (VP (MD may) (ADVP (RB no) (RB longer)) (VP (VB be) (ADJP (JJ probabilistic)))) (. .))
+(S (NP (NP (DT Those)) (SBAR (WHNP (WDT that)) (S (VP (VBP meet) (NP (JJ certain) (NNS conditions)))))) (VP (VP (VBP survive)) (CC and) (VP (MD may) (VP (VB reproduce) (SBAR (IN while) (S (NP (NNS others)) (VP (VBP perish))))))) (. .))

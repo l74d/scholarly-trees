@@ -1,0 +1,2 @@
+(S (ADVP (RB Still)) (, ,) (S (VP (VBG getting) (NP (JJ qualified) (JJ conversational) (NNS data)) (PP (IN on) (NP (DT a) (JJ large) (NN scale))))) (VP (VBZ is) (ADJP (JJ difficult) (CC and) (JJ expensive))) (. .))
+(S (NP (PRP$ Our) (NN experiment)) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (NP (NNS chatbots)) (VP (VBN created) (PP (IN along) (NP (DT the) (NN pipeline))))) (VP (MD can) (VP (VB yield) (NP (DT the) (JJ proper) (NNS responses))))))) (. .))

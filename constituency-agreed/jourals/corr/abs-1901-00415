@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBD found) (SBAR (S (NP (NP (VBG existing) (NNP DAE) (NN recommendation) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (NP (JJ similar) (NNS implementations)) (PP (IN on) (NP (JJ similar) (NNS datasets)))))))) (VP (VBP result) (PP (IN in) (NP (ADJP (RB vastly) (JJ different)) (NN parameter) (NNS settings))))))) (. .))

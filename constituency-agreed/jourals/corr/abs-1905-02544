@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (DT each) (NN pathology)) (VP (VBZ has) (NP (NP (JJ different) (NN severity) (NNS stages)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB be) (VP (VBN deduced) (PP (IN by) (S (VP (VBG verifying) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (JJ specific) (NNS lesions)))))))))))))) (. .))
+(S (NP (DT Each) (NN lesion)) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (JJ morphological) (NNS features))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (JJ several) (NNS lesions)) (PP (IN of) (NP (JJ different) (NNS pathologies)))) (VP (VBP have) (NP (JJ similar) (NNS features))) (. .))
+(S (NP (PRP We)) (VP (VBP note) (SBAR (IN that) (S (NP (NN patient)) (VP (MD may) (VP (VB be) (VP (VBN affected) (ADVP (RB simultaneously)) (PP (IN by) (NP (JJ several) (NNS pathologies))))))))) (. .))

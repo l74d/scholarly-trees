@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN coupling) (NNS iterations)) (VP (VBP are) (VP (VBN repeated) (PP (IN until) (NP (NN convergence)))))) (CC and) (S (NP (NNP Backward) (NNP Euler)) (VP (VBZ is) (VP (VBN employed) (PP (IN for) (NP (NN time) (NN marching)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ algorithmic) (NNS solutions)) (VP (VBN aimed) (PP (IN on) (NP (NP (NN post-processing)) (PP (IN for) (NP (NP (JJ industrial) (NN quantum) (JJ key) (NN distribution) (NNS systems)) (PP (IN with) (NP (NN hardware) (VBG sifting)))))))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NNS steps)) (PP (IN of) (NP (DT the) (NN procedure)))) (VP (VBP are) (NP (NP (JJ error) (NN correction)) (, ,) (NP (NN parameter) (NN estimation)) (, ,) (CC and) (NP (NN privacy) (NN amplification)))) (. .))
+(S (NP (NP (NN Authentication)) (PP (IN of) (NP (DT a) (JJ classical) (JJ public) (NN communication) (NN channel)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN considered))) (. .))

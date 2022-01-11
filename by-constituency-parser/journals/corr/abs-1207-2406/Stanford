@@ -1,0 +1,7 @@
+(S (PP (IN For) (NP (NP (DT the) (JJ additive) (JJ white) (JJ Gaussian) (NN noise) (NN channel)) (PP (IN with) (NP (JJ average) (NN codeword) (NN power) (NN constraint))))) (, ,) (NP (JJ sparse) (NN superposition) (NNS codes)) (VP (VBP are) (VP (VBN developed))) (. .))
+(S (NP (DT These) (NNS codes)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ statistical) (NML (ADJP (JJ high) (HYPH -) (JJ dimensional)) (NN regression)) (NN framework))))) (. .))
+(FRAG (NP (NP (DT The) (NN paper)) (-LRB- [) (NP (NNP IEEE) (NNP Trans)) (. .)))
+(S (VP (VB Inform)) (. .))
+(S (NP (NN Theory) (CD 55) (PRN (-LRB- -LRB-) (NP (CD 2012)) (-RRB- -RRB-) (, ,) (NP (QP (CD 2541) (HYPH -) (CD 2557))) (-RRB- ]))) (VP (VBN investigated) (NP (NN decoding)) (S (VP (VBG using) (NP (DT the) (JJ optimal) (NML (NN maximum) (HYPH -) (NN likelihood)) (NN decoding) (NN scheme))))) (. .))
+(S (ADVP (RB Here)) (NP (NP (DT a) (NML (JJ fast) (NN decoding)) (NN algorithm)) (, ,) (VP (VBN called) (NP (JJ adaptive) (JJ successive) (NN decoder))) (, ,)) (VP (VBZ is) (VP (VBN developed))) (. .))
+(S (PP (IN For) (NP (DT any) (NN rate) (NN R))) (NP (NP (JJR less)) (PP (IN than) (NP (DT the) (NML (NN capacity) (NN C)) (NN communication)))) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ reliable) (PP (IN with) (NP (ADJP (ADVP (RB exponentially)) (JJ small)) (NN error) (NN probability))))))))) (. .))

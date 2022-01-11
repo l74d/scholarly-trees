@@ -1,0 +1,2 @@
+(S (PP (ADVP (RB Especially)) (IN for) (NP (JJ sparse) (JJ geometric) (NNS structures))) (, ,) (NP (JJ volumetric) (NNS representations)) (VP (VBP produce) (NP (DT a) (JJ huge) (JJ computational) (NN overhead))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (PP (IN on) (NP (JJ various) (NNS datasets)))) (CC and) (VP (VB outline) (NP (DT the) (NN suitability)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN performance)) (CC and) (NP (JJ geometric) (NN accuracy)))))))) (. .))

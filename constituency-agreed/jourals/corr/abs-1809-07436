@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN classifier)) (VP (VBZ is) (ADJP (JJ generative)) (SBAR (IN because) (S (NP (DT the) (NN class) (NN label)) (VP (VBZ is) (VP (VBN generated) (PP (IN from) (NP (NP (NNS samples)) (PP (IN of) (NP (DT a) (JJ related) (NN distribution)))))))))) (. .))

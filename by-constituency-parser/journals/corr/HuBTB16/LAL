@@ -1,0 +1,4 @@
+(S (NP (JJ Neo-fuzzy) (NNS elements)) (VP (VBP are) (VP (VBN used) (PP (IN as) (NP (NP (NNS nodes)) (PP (IN for) (NP (DT an) (VBG evolving) (NN cascade) (NN system))))))) (. .))
+(S (NP (DT The) (JJ proposed) (NN system)) (VP (MD can) (VP (VB tune) (NP (DT both) (PRP$ its) (NNS parameters) (CC and) (NX (NN architecture))) (PP (IN in) (NP (DT an) (JJ online) (NN mode))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (S (VP (VBG solving) (NP (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NNP Data) (NNP Mining) (NNS tasks)))) (PRN (-LRB- -LRB-) (ADVP (RB namely)) (NP (NN time) (NN series) (NN forecasting)) (-RRB- -RRB-))))))))) (. .))
+(S (NP (NP (DT The) (VBG evolving) (NN cascade) (NN system)) (PP (IN with) (NP (JJ neo-fuzzy) (NNS nodes)))) (VP (MD can) (VP (VB process) (NP (ADJP (RB rather) (JJ large)) (NNS data) (NNS sets)) (PP (IN with) (NP (JJ high) (NN speed) (CC and) (NN effectiveness))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ inductive) (NN bias)) (PP (IN of) (NP (DT a) (JJ neural) (NN network)))) (VP (VBZ is) (ADVP (RB largely)) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NN architecture)) (CC and) (NP (DT the) (NN training) (NN algorithm)))))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP validate) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (NNP OPT))))) (. .))

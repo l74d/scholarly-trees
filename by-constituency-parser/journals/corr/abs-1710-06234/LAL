@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ neural-network-based) (NN approach)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (ADVP (RB efficiently)) (JJ implement) (NP (NP (JJ digital) (NN backpropagation)) (PRN (-LRB- -LRB-) (NP (NNP DBP)) (-RRB- -RRB-)))))))) (. .))
+(S (PP (IN For) (NP (DT a) (ADJP (CD 32x100) (JJ km)) (JJ fiber-optic) (NN link))) (, ,) (NP (DT the) (VBG resulting) (`` ``) (VBN learned) ('' '') (NNP DBP)) (VP (ADVP (RB significantly)) (VBZ reduces) (NP (DT the) (NN complexity)) (PP (VBN compared) (PP (TO to) (NP (JJ conventional) (NNP DBP) (NNS implementations))))) (. .))

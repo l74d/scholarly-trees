@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Explicit) (NN convergence) (NNS rates)) (PP (IN of) (NP (DT the) (NN loss) (NN function)))) (VP (VBP are) (VP (VBN established) (PP (IN for) (NP (JJ such) (NNS regions))) (PP (IN under) (NP (JJ standard) (NN regularity) (NNS conditions))))) (. .))
+(S (NP (NP (DT The) (JJ theoretical) (NNS properties)) (PP (IN of) (NP (PRP$ our) (NN method)))) (VP (VBP are) (VP (VBN demonstrated) (PP (IN through) (NP (NNS simulations))))) (. .))

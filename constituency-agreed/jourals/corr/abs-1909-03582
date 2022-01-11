@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ generates) (NP (JJ sensational) (NNS headlines)) (PP (IN without) (NP (VBN labeled) (NNS data)))))))) (. .))
+(S (NP (NP (DT The) (NN score)) (PP (IN from) (NP (DT the) (NN sensationalism) (NN scorer)))) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT the) (NN reward)) (PP (IN for) (NP (DT a) (NN reinforcement) (NN learner))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (VBG maximizing) (NP (DT the) (JJ noisy) (NN sensationalism) (NN reward)))) (VP (MD will) (VP (VB generate) (NP (NP (JJ unnatural) (NNS phrases)) (PP (RB instead) (IN of) (NP (JJ sensational) (NNS headlines)))))) (. .))

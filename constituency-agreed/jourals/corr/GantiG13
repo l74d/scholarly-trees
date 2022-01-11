@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB derive) (NP (NP (JJR lower) (NN confidence) (NNS bounds)) (VP (VBN required) (PP (IN by) (NP (PRP$ our) (NN algorithm)))))))))) (. .))

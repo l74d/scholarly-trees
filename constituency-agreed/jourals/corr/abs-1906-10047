@@ -1,0 +1,1 @@
+(S (S (NP (DT A) (JJ pleasant) (NN surprise)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ is) (ADJP (RB quite) (JJ simple))))))) (: ;) (CC but) (S (NP (PRP it)) (VP (VBZ relies) (PP (IN on) (NP (DT some) (JJ subtle) (NN reasoning))))) (. .))

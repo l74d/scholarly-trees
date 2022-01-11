@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NN saliency) (NNS maps)) (VP (VBP are) (ADVP (RB often)) (ADJP (RB visually) (JJ noisy))) (. .))
+(S (SBAR (IN Although) (S (NP (JJ several) (NNS hypotheses)) (VP (VBD were) (VP (VBN proposed) (S (VP (TO to) (VP (VB account) (PP (IN for) (NP (DT this) (NN phenomenon)))))))))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ few) (NNS works)) (SBAR (WHNP (WDT that)) (S (VP (VBP provide) (NP (NP (JJ rigorous) (NNS analyses)) (PP (IN of) (NP (JJ noisy) (NN saliency) (NNS maps))))))))) (. .))

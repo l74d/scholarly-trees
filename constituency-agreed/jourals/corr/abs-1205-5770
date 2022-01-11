@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NP (DT the) (JJ randomized) (NNP Kaczmarz) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN analyzed) (PP (IN by) (NP (NNP Strohmer) (CC and) (NNP Vershynin))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT Another) (JJ possible) (NN solution)) (VP (VBZ is) (NP (JJ deep) (NN reinforcement) (NN learning)))) (, ,) (CC but) (S (NP (PDT such) (DT a) (NN method)) (VP (VBZ requires) (SBAR (IN that) (S (NP (DT the) (NN agent)) (VP (VBZ interacts) (PP (IN with) (NP (PRP$ its) (NNS surroundings))) (PP (IN in) (NP (DT a) (JJ simulated) (NN environment)))))))) (. .))

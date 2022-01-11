@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN method)) (VP (VBZ is) (ADJP (JJ inefficient) (CC and) (JJ unstable)) (PP (IN in) (NP (JJ practical) (NNS applications)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ has) (VP (VBN designed) (NP (NP (NP (DT a) (NN comparison) (NN experiment)) (PP (IN against) (NP (JJ previous) (NNS methods)))) (, ,) (NP (NP (DT an) (NN ablation) (NN experiment)) (PP (IN with) (NP (DT the) (JJ original) (NNP DDPG)))) (, ,) (CC and) (NP (NP (JJ other) (JJ analytical) (NNS experiments)) (PP (IN in) (NP (NNP Mujoco) (NNS environments))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness) (CC and) (NN superiority)) (PP (IN of) (NP (NNP RUD))))) (. .))

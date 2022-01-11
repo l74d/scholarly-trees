@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBD used) (NP (DT a) (NN feature) (NN model)) (S (VP (TO to) (VP (VB define) (NP (NP (DT the) (NN variation)) (PP (IN of) (NP (NP (PRP$ our) (NN model) (POS 's)) (NN management) (NNS levels)))))))) (. .))
+(S (NP (DT That)) (VP (VBD increased) (NP (DT the) (NN performance)) (PP (IN by) (S (VP (VBG selecting) (PP (IN from) (NP (DT the) (NN web))) (NP (NP (DT a) (JJ suitable) (NN configuration)) (PP (IN for) (NP (DT every) (NN level)))))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN conclusion)) (CC and) (NP (JJ future) (NN work)))) (. .))

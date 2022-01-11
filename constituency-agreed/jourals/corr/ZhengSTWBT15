@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN light)) (PP (IN of) (NP (NP (JJ recent) (NNS advances)) (PP (IN in) (NP (NN image) (NN search))))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ proposes) (S (VP (TO to) (VP (VB treat) (NP (NN person) (NN re-identification)) (PP (IN as) (NP (DT an) (NN image) (NN search) (NN problem))))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (DT this) (NN paper)) (VP (VBZ claims) (NP (CD two) (JJ major) (NNS contributions))) (. .))

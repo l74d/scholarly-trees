@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP implement) (NP (NP (DT a) (NN test)) (SBAR (WHNP (WDT that)) (S (VP (VBZ characterizes) (NP (NP (DT the) (NN retention) (NN time)) (PP (IN of) (NP (NNP DRAM) (NNS cells))))))))) (. .))
+(S (NP (NP (JJ Various) (NNS versions)) (PP (IN of) (NP (DT the) (NNP SoftMC) (NN platform)))) (VP (VBP have) (VP (VBN enabled) (NP (NP (JJ many)) (PP (IN of) (NP (PRP$ our) (JJ other) (NNP DRAM) (NN characterization) (NNS studies)))))) (. .))

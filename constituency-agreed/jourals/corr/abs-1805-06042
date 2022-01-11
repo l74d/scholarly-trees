@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT the) (NN goal))))) (, ,) (NP (DT this) (NN study)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG recognizing) (CC and) (VBG extracting) (NP (NN bridge) (NNS components)) (PP (IN from) (NP (NP (NNS images)) (PP (IN of) (NP (JJ urban) (NNS scenes))))))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN bridge) (NN component) (NN extraction)))) (VP (VBZ is) (VP (VBN tested) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN accuracy) (CC and) (NN consistency))))))) (. .))

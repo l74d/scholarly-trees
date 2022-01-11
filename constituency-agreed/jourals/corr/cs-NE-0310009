@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP it)) (VP (VBZ is) (VP (VBN discussed) (SBAR (IN that) (S (NP (DT the) (NN interference)) (VP (MD may) (ADVP (RB also)) (VP (VB cause) (NP (DT a) (ADJP (RB highly) (JJ random)) (NN generalization)))))))) (. .))
+(S (NP (JJ Adaptive) (NN activation) (NNS functions)) (VP (VBP are) (VP (VBN discussed) (PP (IN as) (NP (NP (DT a) (NN way)) (PP (IN of) (S (VP (VBG reducing) (NP (NP (DT that) (NN type)) (PP (IN of) (NP (NN generalization))))))))))) (. .))

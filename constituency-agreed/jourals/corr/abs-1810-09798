@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (S (VP (VBG using) (NP (DT the) (JJ periocular) (NN region)) (PP (IN for) (NP (NN expression) (NN recognition)))))))) (. .))
+(S (NP (JJS Most) (NNS works)) (VP (VBP have) (VP (VBN tried) (S (VP (TO to) (VP (VB solve) (NP (DT this)) (PP (IN by) (S (VP (VBG analyzing) (NP (DT the) (JJ whole) (NN face)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (CD five) (JJ different) (NN image) (NNS descriptors)) (PP (IN on) (NP (NP (DT a) (NN dataset)) (PP (IN of) (NP (NP (CD 1,574) (NNS images)) (PP (IN from) (NP (CD 118) (NNS subjects)))))))) (. .))

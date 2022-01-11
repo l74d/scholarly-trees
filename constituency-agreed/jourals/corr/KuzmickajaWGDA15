@@ -1,0 +1,4 @@
+(S (S (VP (VBG Having) (NP (JJ creative) (NNS ideas)))) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ critical) (NN step)) (PP (IN in) (NP (DT the) (NN innovation) (NN process))))) (. .))
+(S (NP (JJ Many) (NNS studies)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NNS customers)) (VP (VBP are) (NP (NP (DT a) (JJ valuable) (NN source)) (PP (IN of) (NP (JJ creative) (NNS ideas)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NN literature)) (ADVP (RB also)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NNS adults)) (VP (MD may) (VP (VB be) (VP (VBN constrained) (PP (IN by) (NP (NP (VBG existing) (NN technology) (NNS frames)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB hinder) (NP (NN creativity))))))))))))))))) (. .))
+(S (NP (DT These) (NNS ideas)) (VP (VBD were) (VP (VBN evaluated) (PP (IN by) (NP (JJ several) (NNS evaluators))) (S (VP (VBG using) (NP (DT an) (VBG existing) (NN creativity) (NN framework)))))) (. .))

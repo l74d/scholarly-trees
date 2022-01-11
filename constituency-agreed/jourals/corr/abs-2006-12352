@@ -1,0 +1,1 @@
+(S (NP (NNS Applications)) (VP (VBP encrypt) (NP (PRP$ their) (NN communication)) (S (VP (TO to) (VP (VB ensure) (NP (NP (DT the) (NN privacy) (CC and) (NN security)) (PP (IN of) (NP (NP (DT the) (NN user) (POS 's)) (NNS data)))))))) (. .))

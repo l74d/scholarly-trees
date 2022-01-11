@@ -1,0 +1,2 @@
+(S (NP (VBG Existing) (NNS approaches)) (VP (VBP include) (NP (NP (JJ various) (JJ sophisticated) (NNS heuristics)) (CC and) (NP (JJ expensive) (JJ numerical) (NNS solutions)))) (. .))
+(S (NP (JJ Empirical) (NNS evaluations)) (VP (VBP demonstrate) (NP (NP (DT the) (NN accuracy) (CC and) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN solution))))) (. .))

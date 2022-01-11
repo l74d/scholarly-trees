@@ -1,0 +1,4 @@
+(S (NP (DT A) (JJ belief) (NN base) (NN revision)) (VP (VBZ is) (VP (VBN developed))) (. .))
+(S (NP (DT The) (NN belief) (NN base)) (VP (VBZ is) (VP (VBN represented) (S (VP (VBG using) (NP (NP (NNP Unified) (NNP Answer) (NNP Set) (NNP Programs)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VP (VBG representing) (NP (ADJP (NN imprecise) (CC and) (JJ uncertain)) (NN information))) (CC and) (VP (VB perform) (NP (JJ nonomonotonic) (VBG reasoning)) (PP (IN with) (NP (PRP them)))))))))))))))) (. .))
+(S (NP (DT The) (NN base) (NN revision) (NN operator)) (VP (VBZ is) (VP (VBN developed) (S (VP (VBG using) (NP (NNP Removed) (NNP Set) (NNP Revision) (NN strategy)))))) (. .))
+(S (NP (DT The) (NN operator)) (VP (VBZ is) (VP (VBN characterized) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (NP (DT the) (NNS postulates)) (PP (IN for) (NP (NN base) (NNS revisions))) (SBAR (S (NP (NN operator)) (VP (NNS satisfies)))))))))) (. .))

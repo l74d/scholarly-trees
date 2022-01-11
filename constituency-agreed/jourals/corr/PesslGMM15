@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (S (VP (VBG preventing) (NP (NP (NN information) (NN leakage)) (PP (IN between) (NP (NNS tenants)))))) (VP (VBZ is) (ADJP (JJ crucial))) (. .))
+(S (S (VP (TO To) (VP (VB build) (NP (DT these) (NNS attacks))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT the) (JJ undocumented) (NNP DRAM) (NN address) (NNS mappings))) (. .))

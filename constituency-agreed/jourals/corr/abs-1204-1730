@@ -1,0 +1,3 @@
+(S (PP (IN In) (S (VP (VBG setting) (NP (PRP$ our) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP assume) (SBAR (IN that) (S (NP (JJ secondary) (NNS users)) (VP (MD can) (VP (VB eavesdrop) (PP (IN on) (NP (NP (DT the) (JJ primary) (NN link) (POS 's)) (NN feedback)))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (NP (PRP$ our) (NN problem)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (JJ non-convex))))))))))) (. .))
+(S (ADVP (RB Yet)) (, ,) (NP (PRP we)) (VP (VBP solve) (NP (PRP it)) (ADVP (RB efficiently)) (PP (IN by) (S (VP (VBG exploiting) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT the) (JJ secondary) (NN throughput) (NN equation)))))))) (. .))

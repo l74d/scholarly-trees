@@ -1,0 +1,5 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ proclaims) (NP (NP (DT a) (JJ summary)) (PP (IN of) (NP (NNP Li-Fi) (NN technology))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (JJ efficient) (NNS data) (NN communication) (NN mechanism)) (VP (VBG involving) (NP (NP (JJ visible) (NN light)) (PP (IN as) (NP (NP (DT a) (NN medium)) (PP (IN of) (NP (NN transmission))))))))) (. .))
+(S (NP (DT This) (NN monograph)) (VP (VBZ introduces) (NP (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NNP Li-Fi)))) (CC and) (NP (PRP$ its) (VBG working) (NN model)))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP it)) (VP (VBZ discusses) (NP (PRP$ its) (NX (NNS benefits) (, ,) (NNS shortcomings))) (CC and) (VP (NNS examines) (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (VB mitigate) (NP (DT the) (NNS drawbacks))))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (PRP it)) (VP (VP (VBZ analyzes) (NP (PRP$ its) (JJ present) (NNS applications))) (CC and) (VP (VBZ explores) (NP (NP (PRP$ its) (JJ future) (NN scope)) (PP (IN in) (NP (DT the) (JJ competitive) (NN wireless) (NN network) (NN market)))))) (. .))

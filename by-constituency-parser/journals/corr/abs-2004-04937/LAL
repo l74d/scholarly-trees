@@ -1,0 +1,6 @@
+(S (PP (IN In) (NP (NP (DT the) (JJ first) (NN part)) (PP (IN of) (NP (DT this) (NN paper))))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT a) (NN theorem)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (ADJP ($ $) (JJ q) ($ $)) (NN -analogue)) (PP (IN of) (NP (NP (DT a) (JJ generalized) (JJ modular) (NNP Ray-Chaudhuri-Wilson) (NNP Theorem)) (VP (VBN shown) (PP (IN in) (NP (NNP -LSB-) (NNP Alon) (, ,) (NNP Babai) (, ,) (NNP Suzuki) (, ,) (NNP J.) (NNP Combin)))))))))))) (. .))
+(NP (NP (NNP Theory) (NNP Series) (NNP A)) (, ,) (NP (CD 1991)) (NN -RSB-) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NP (DT the) (JJ main) (NN theorem)) (PP (IN in) (NP (NNP -LSB-) (NP (NNP Frankl) (CC and) (NNP Graham)) (, ,) (NP (NNP European) (NNP J.) (NNP Combin)))))))) (. .))
+(FRAG (CD 1985) (NN -RSB-) (PP (IN under) (NP (JJ certain) (NNS circumstances))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (NN above) (NN theorem)) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT a) (JJ general) (NN upper) (NN bound)) (PP (TO to) (NP (NP (DT the) (NN cardinality)) (PP (IN of) (NP (JJ such) (NNS families)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (DT an) (NN improvement)) (PP (TO to) (NP (DT this) (JJ general) (JJ upper) (NN bound))) (PP (IN in) (NP (JJ certain) (JJ special) (NNS cases)))) (. .))

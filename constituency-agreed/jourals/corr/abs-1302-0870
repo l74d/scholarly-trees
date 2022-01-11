@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT a) (NN regularization) (NN term)) (VP (VBG enforcing) (NP (NN graph) (NN smoothness)))) (VP (VBZ is) (VP (VBN incorporated) (PP (IN with) (NP (NP (DT the) (NN goal)) (PP (IN of) (S (VP (VBG reducing) (NP (NN edge) (NNS crossings))))))))) (. .))

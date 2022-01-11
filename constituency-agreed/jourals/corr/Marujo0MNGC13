@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (NP (NNS improvements)) (PP (IN in) (NP (NNP AKE) (NN accuracy)))) (ADJP (RB particularly) (JJ important)))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBD confirmed) (NP (DT this) (NN hypothesis))) (. .))
+(S (NP (NNP AKE)) (VP (VBZ is) (VP (VBN built) (PP (IN over) (NP (NP (NNP MAUI) (NN toolkit)) (SBAR (WHNP (WDT that)) (S (VP (VBZ follows) (NP (DT a) (JJ supervised) (NN learning) (NN approach))))))))) (. .))

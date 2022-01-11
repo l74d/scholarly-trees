@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN limitation))))) (, ,) (NP (PRP we)) (VP (VBP pose) (NP (DT the) (NN segmentation) (NN task)) (PP (IN as) (NP (DT an) (NN estimation) (NN problem)))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBD was) (VP (VBN implemented) (S (VP (VBG using) (NP (DT an) (NN autoencoder)))))) (. .))

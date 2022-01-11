@@ -1,0 +1,2 @@
+(S (NP (NNP Software) (NN complexity) (NNS metrics)) (VP (VBZ is) (ADJP (JJ essential) (PP (IN for) (S (VP (VBG minimizing) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN software) (NN maintenance))))))))) (. .))
+(S (NP (DT This) (NN research)) (VP (VBZ addresses) (NP (DT the) (NN class) (NN complexity) (NNS metrics))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ main) (NN contribution)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN for) (S (VP (VBG learning) (NP (NP (DT a) (JJ pixel-wise) (NN representation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reflects) (NP (NN segment) (NN relatedness))))))))))) (. .))
+(S (NP (DT This) (NN representation)) (VP (VBZ is) (VP (VBN combined) (PP (IN with) (NP (DT a) (NNP CRF))) (S (VP (TO to) (VP (VB yield) (NP (DT the) (NN segmentation) (NN algorithm))))))) (. .))

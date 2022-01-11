@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (ADJP (JJ linear) (CC and) (JJ non-linear)) (NNS models)) (S (VP (TO to) (VP (VP (VB predict) (NP (DT a) (VBN given) (NN property)) (PP (VBN based) (PP (IN on) (NP (DT the) (NNS others))))) (CC and) (VP (VB find) (NP (DT the) (ADJP (RBS most) (JJ predictive)) (NN subset))))))) (. .))
+(S (PP (IN For) (NP (DT both) (NNS experiments))) (NP (DT the) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNS pairs) (CC and) (NNS triples)) (PP (IN of) (NP (NNS properties)))) (VP (VBP have) (NP (JJ high) (JJ predictive) (NN power)))))) (. .))

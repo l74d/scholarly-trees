@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT some) (NNS studies)) (VP (VBP suggest) (SBAR (IN that) (S (NP (JJ private) (NN information)) (VP (MD can) (VP (VB be) (VP (VBN recovered) (PP (IN from) (NP (DT the) (NN model) (NNS gradients) (CC or) (NNS weights))))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ addresses) (NP (NP (DT a) (NN problem)) (PP (IN of) (NP (NP (NN change) (NN identification)) (PP (IN in) (NP (JJ social) (NN group) (NN evolution))))))) (. .))
+(S (NP (NP (DT A) (JJ new) (NNP SGCI) (NN method)) (PP (IN for) (S (VP (VBG discovering) (PP (IN of) (NP (JJ stable) (NNS groups))))))) (VP (VBD was) (VP (VP (VBN proposed)) (CC and) (VP (VBN compared) (PP (IN with) (NP (VBG existing) (NNP GED) (NN method)))))) (. .))
+(S (NP (NP (DT The) (JJ experimental) (NNS studies)) (PP (IN on) (NP (DT a) (JJ Polish) (NN blogosphere) (NN service)))) (VP (VBD revealed) (SBAR (IN that) (S (NP (DT both) (NNS methods)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB identify) (NP (JJ similar) (NN evolution) (NNS events)))))) (SBAR (RB even) (IN though) (S (NP (DT both)) (VP (VBP use) (NP (JJ different) (NNS concepts))))))))) (. .))
+(S (NP (DT Some) (NNS differences)) (VP (VBD were) (VP (VBN demonstrated) (ADVP (RB as) (RB well)))))

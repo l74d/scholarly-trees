@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (PP (IN under) (NP (JJ favorable) (NNS conditions))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB construct) (NP (NP (JJ logarithmic) (NN depth) (NNS trees)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (NP (NNS leaves)) (PP (IN with) (NP (JJ low) (NN label) (NN entropy))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP address) (NP (DT the) (JJ empirical) (NN problem)) (PP (IN with) (NP (DT a) (JJ new) (JJ online) (NN decision) (NN tree) (NN construction) (NN procedure)))) (. .))

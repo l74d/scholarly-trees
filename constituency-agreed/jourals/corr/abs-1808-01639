@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (NP (JJS most)) (PP (IN of) (NP (DT these) (NNS objects)))) (VP (VBP are) (ADJP (JJ passive))))) (, ,) (NP (DT a) (NN robot)) (VP (VBZ has) (S (VP (TO to) (VP (VB interact) (PP (IN with) (NP (PRP them)))))) (S (VP (TO to) (VP (VB infer) (NP (PDT all) (DT the) (NN articulation) (NNS models)) (S (VP (TO to) (VP (VB understand) (NP (DT the) (NN object) (NN topology))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NN approach)) (PP (IN with) (NP (NP (NNS experiments)) (PP (IN in) (NP (DT a) (NN simulation) (NN environment)))))) (. .))

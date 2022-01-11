@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (JJ different) (NNS approaches)) (PP (IN for) (NP (NN time) (NN series) (NN modeling))))) (. .))
+(S (NP (NP (DT The) (NN forecasting) (NNS approaches)) (VP (VBG using) (NP (NP (JJ linear) (NNS models)) (, ,) (NP (NNP ARIMA) (NN alpgorithm)) (, ,) (NP (FW XGBoost) (NN machine) (VBG learning) (NNS algorithm))))) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (NP (NNS Results)) (PP (IN of) (NP (JJ different) (NN model) (NNS combinations)))) (VP (VBP are) (VP (VBN shown))) (. .))
+(S (PP (IN For) (NP (JJ probabilistic) (VBG modeling))) (NP (NP (DT the) (NNS approaches)) (VP (VBG using) (NP (NP (NNS copulas)) (CC and) (NP (JJ Bayesian) (NN inference))))) (VP (VBP are) (VP (VBN considered))) (. .))

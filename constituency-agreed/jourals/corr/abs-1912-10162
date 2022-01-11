@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN architecture) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN used)))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN evaluation) (NNS results)) (VP (VBP are) (VP (VBN discussed))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP adapt) (NP (DT an) (JJ adversarial) (NN training) (NN approach)) (S (VP (TO to) (VP (VB improve) (NP (NN robustness) (CC and) (NN perforamce)) (PP (IN across) (NP (NNS domains))))))) (. .))

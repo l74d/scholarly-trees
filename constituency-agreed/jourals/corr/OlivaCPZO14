@@ -1,0 +1,2 @@
+(S (NP (NN Segmentation)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS tasks)) (PP (IN in) (NP (NN image) (NN processing))))))) (. .))
+(S (PP (IN Under) (NP (JJ such) (NNS conditions))) (, ,) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN optimization) (JJ evolutionary) (NNS approaches)))) (VP (VBZ has) (VP (VBN been) (VP (VBN extended)))) (. .))

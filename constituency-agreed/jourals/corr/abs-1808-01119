@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ key) (NN point)) (PP (IN of) (NP (NP (DT a) (JJ good) (NN algorithm)) (PP (IN for) (NP (JJ multi-shot) (NN person) (NN re-id)))))) (VP (VBZ is) (NP (NP (DT the) (JJ temporal) (NN aggregation)) (PP (IN of) (NP (DT the) (NN person) (NN appearance) (NNS features))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (NP (DT the) (JJ proper) (NN alignment)) (PP (IN between) (NP (CD two) (NN image) (NNS sets)))) (VP (MD can) (VP (VB be) (VP (VBN discovered) (ADVP (RB naturally)) (PP (IN in) (NP (DT a) (JJ non-parametric) (NN manner)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ associated) (NN optimization) (NN problem)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN solved) (PP (IN in) (NP (CD two) (NNS steps))))) (. .))
+(S (ADVP (RB Thus)) (NP (DT the) (JJ same) (NNS methods)) (VP (MD can) (VP (VB be) (VP (VBN applied) (S (VP (TO to) (VP (VB solve) (NP (PRP it)))))))) (. .))
+(S (NP (NP (DT The) (NNS differences)) (PP (IN between) (NP (NP (PRP$ our) (NN result)) (CC and) (NP (DT the) (VBG existing) (JJ related) (NN work))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed) (PP (IN in) (NP (NNS details))))) (. .))

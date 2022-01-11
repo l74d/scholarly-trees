@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP Nyquist) (NN filter)) (VP (VBZ is) (VP (VBN viewed) (PP (IN as) (NP (NP (DT a) (JJ convolutional) (NN encoder)) (SBAR (WHNP (WDT that)) (S (VP (VBZ controls) (NP (NP (DT the) (NN analog) (NNS waveforms)) (PP (IN of) (NP (DT the) (NN filter) (NN output)))) (ADVP (RB directly))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN graph))) (, ,) (S (NP (DT the) (NNS vertices)) (VP (VBP represent) (NP (NN map) (NNS points)))) (, ,) (CC and) (S (NP (DT each) (NN edge)) (VP (VBZ represents) (NP (NP (DT the) (NN correlation)) (PP (IN between) (NP (JJ adjacent) (NNS points)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NN motion) (NN estimation)) (VP (VBZ is) (VP (VBN performed) (S (VP (VBG using) (NP (RB only) (DT these) (NNS points)))))) (. .))

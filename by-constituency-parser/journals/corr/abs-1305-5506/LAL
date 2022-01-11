@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB purely) (JJ pedagogical)) (NN paper)) (PP (IN with) (NP (DT no) (JJ new) (NNS results))))) (. .))
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT the) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB give) (NP (NP (DT a) (ADJP (RB fairly) (JJ self-contained)) (NN introduction)) (PP (TO to) (NP (NP (NNP Judea) (NNP Pearl) (POS 's)) (JJ do-calculus))) (, ,) (PP (VBG including) (NP (NP (NN proofs)) (PP (IN of) (NP (PRP$ his) (CD 3) (NNS rules)))))))))) (. .))

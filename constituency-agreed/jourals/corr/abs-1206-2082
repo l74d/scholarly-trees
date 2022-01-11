@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (NNP Cosine)) (, ,) (NP (NNP Dice)) (, ,) (NP (NNP Overlap)) (, ,) (CC and) (NP (DT the) (NNP Jaccard) (NN similarity) (NNS measures)))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (VP (VBN geared) (PP (IN toward) (NP (DT the) (NNP MapReduce) (NN framework))))) (. .))

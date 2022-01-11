@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (JJ many) (JJ non-recurrent) (NN sequence) (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN built) (PP (IN on) (NP (NN convolution) (CC and) (NN attention) (NNS operations)))))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (ADVP (RB recently))))) (. .))

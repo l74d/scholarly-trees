@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP complete) (NP (DT the) (NN query) (NN graph)) (PP (IN by) (S (VP (VBG labeling) (NP (DT the) (NNS nodes) (CC and) (NNS edges)) (PP (IN under) (NP (NP (DT the) (NN guidance)) (PP (IN of) (NP (DT the) (JJ structural) (NN query) (NN pattern))))))))) (. .))

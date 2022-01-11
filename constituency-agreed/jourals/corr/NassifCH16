@@ -1,0 +1,3 @@
+(S (NP (NNP Software) (NN estimation)) (VP (VBZ is) (NP (NP (DT a) (JJ crucial) (NN task)) (PP (IN in) (NP (NN software) (NN engineering))))) (. .))
+(S (NP (NNP Software) (NN estimation)) (VP (VBZ encompasses) (NP (NN cost) (, ,) (NN effort) (, ,) (NN schedule) (, ,) (CC and) (NN size))) (. .))
+(S (NP (JJ Several) (ADJP (JJ commercial) (CC and) (JJ non-commercial)) (NNS tools)) (VP (VBP exist) (S (VP (TO to) (VP (VB estimate) (NP (NN software)) (PP (IN in) (NP (DT the) (JJ early) (NNS stages))))))) (. .))

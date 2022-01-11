@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN formulation)) (VP (VBZ is) (NP (NP (DT a) (NN convex) (NN relaxation)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP augment) (PP (IN with) (NP (NP (DT a) (JJ crucial) (JJ non-convex) (NN constraint)) (SBAR (WHNP (WDT that)) (S (VP (VBZ ensures) (NP (NP (JJ exact) (NN handling)) (PP (IN of) (NP (NN visibility)))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NNS benefits)) (PP (IN of) (S (VP (VBG using) (NP (DT the) (JJ non-convex) (NN constraint)) (ADVP (RB experimentally))))))) (. .))

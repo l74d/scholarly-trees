@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN machine) (NN translation)))) (VP (VBZ is) (NP (DT an) (JJ effective) (NN approach))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VP (VBP translate) (NP (DT a) (VBN given) (NN query)) (PP (IN into) (NP (DT the) (NN document) (NN language)))) (, ,) (CC and) (VP (VB retrieve) (NP (NP (DT a) (JJ limited) (NN number)) (PP (IN of) (NP (JJ foreign) (NNS documents)))))) (. .))

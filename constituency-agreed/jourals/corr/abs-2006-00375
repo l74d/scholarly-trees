@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (JJ sensory) (NN feedback)) (CC and) (NP (NP (JJ future) (NNS waypoints)) (PP (IN of) (NP (DT the) (JJ original) (NN trajectory)))))) (, ,) (NP (DT a) (JJ neural) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB predict) (NP (JJ joint) (NNS accelerations)) (PP (IN at) (NP (JJ regular) (NNS intervals)))))))) (. .))

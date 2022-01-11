@@ -1,0 +1,4 @@
+(S (NP (NP (NN Segmentation)) (PP (IN of) (NP (CD one) (CC or) (JJ several) (NNS images)))) (VP (VBZ requires) (NP (NP (DT an) (JJ initial) (NN guess)) (PP (IN of) (NP (DT the) (NN contour))))) (. .))
+(S (NP (NP (DT The) (JJ first) (NN step)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (VP (VBN presented) (ADVP (RB here)))))) (VP (VBZ includes) (NP (NP (JJ automatic) (NN detection)) (PP (IN of) (NP (DT the) (JJ mitral) (NN valve))))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (DT the) (NN apex)) (VP (VBZ is) (VP (VBN detected) (PP (IN in) (NP (DT the) (JJ same) (NN frame))))) (. .))
+(S (NP (DT The) (NN valve)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN tracked) (PP (IN throughout) (NP (DT the) (JJ cardiac) (NN cycle))))) (. .))

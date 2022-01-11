@@ -1,0 +1,1 @@
+(S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (ADVP (RB empirically)) (S (VP (TO to) (VP (VB be) (ADJP (JJ independent) (PP (IN from) (NP (DT the) (NN initialization)))))))))) (, ,) (CC but) (S (NP (NP (NN convergence)) (PP (IN of) (NP (DT this) (JJ sequential) (NN approach)))) (VP (VBZ is) (RB not) (VP (VBN established)))) (. .))

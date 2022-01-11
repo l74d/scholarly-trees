@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB allow) (PP (IN for) (NP (JJ scalable) (NN inference)))))) (, ,) (NP (PRP we)) (VP (VP (VBP implement) (NP (PRP$ our) (NN model)) (PP (IN as) (NP (DT a) (JJ variational) (NN autoencoder)))) (CC and) (VP (VB perform) (NP (VBN amortized) (JJ variational) (NN inference)))) (. .))

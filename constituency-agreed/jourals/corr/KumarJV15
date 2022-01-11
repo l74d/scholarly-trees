@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN graph) (NN construction)) (VP (VBZ is) (VP (VBN motivated) (PP (IN by) (NP (NP (DT a) (ADJP (RB locally) (JJ linear)) (NN embedding)) (PP (IN of) (NP (DT the) (NN detection) (NNS features))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ opens) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (JJ parallel) (NN implementation))))) (. .))

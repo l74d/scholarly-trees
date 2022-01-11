@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS accelerators)) (VP (VBP exhibit) (NP (JJ heterogeneous) (NN performance) (NN behavior)) (PP (IN across) (NP (NN model) (NNS architectures)))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (NP (VBG existing) (NNS schedulers)) (ADVP (RB largely)) (VP (VBP do) (RB not) (VP (VB consider) (NP (NN performance) (NN heterogeneity)))) (. .))

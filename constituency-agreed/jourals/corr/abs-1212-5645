@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (DT an) (NN operation)) (VP (MD may) (VP (VB be) (ADJP (ADJP (RB conceptually) (RB as) (JJ simple)) (PP (IN as) (NP (DT some) (JJ other) (NN operation)))))))) (, ,) (NP (NP (DT the) (NN processing) (NNS speeds)) (PP (IN of) (NP (DT the) (CD two)))) (VP (MD can) (VP (VB vary))) (. .))
+(S (NP (DT The) (NNS results)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (DT those) (NNS squares)))))))))) (. .))

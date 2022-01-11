@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NNP EmoGraph)) (SBAR (WHNP (WDT that)) (S (VP (VBZ captures) (NP (NP (DT the) (NNS dependencies)) (PP (IN among) (NP (JJ different) (NNS emotions)))) (PP (IN through) (NP (NN graph) (NNS networks)))))))) (. .))
+(S (NP (NP (JJ Empirical) (NNS results)) (PP (IN on) (NP (CD two) (JJ multi-label) (NN classification) (NNS datasets)))) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NNP EmoGraph)) (VP (VBZ outperforms) (NP (JJ strong) (NNS baselines)) (, ,) (PP (ADVP (RB especially)) (IN for) (NP (NN macro-F1))))))) (. .))

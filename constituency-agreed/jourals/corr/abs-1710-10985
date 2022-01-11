@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (NP (NN duality)) (CC and) (NP (NP (DT the) (NN projection) (NN theorem)) (PP (IN in) (NP (NNP Hilbert) (NN space))))))) (, ,) (NP (DT the) (NN proof)) (VP (VBZ is) (ADJP (RB strictly) (JJ elementary))) (. .))
+(S (NP (NP (DT The) (NNS methods)) (VP (VBN developed) (PP (IN in) (NP (DT the) (NN paper))))) (VP (MD can) (VP (VB be) (VP (VBN modified) (S (VP (TO to) (VP (VB cover) (NP (NP (JJ other) (JJ interesting) (NNS applications)) (PP (JJ such) (IN as) (NP (JJ isotonic) (NN regression)))))))))) (. .))

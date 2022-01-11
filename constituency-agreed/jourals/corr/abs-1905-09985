@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Herlihy) (POS 's)) (NN protocol)) (VP (VBZ uses) (NP (NP (DT the) (NN graph) (NN topology)) (CC and) (NP (NN signature) (NN information))) (S (VP (TO to) (VP (VB set) (NP (JJ appropriate) (JJ hashed) (NN timelock) (NNS contracts)))))) (. .))

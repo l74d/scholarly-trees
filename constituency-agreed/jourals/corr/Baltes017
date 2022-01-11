@@ -1,0 +1,3 @@
+(S (NP (NNS Sketches) (CC and) (NNS diagrams)) (VP (VBP play) (NP (DT an) (JJ important) (NN role)) (PP (IN in) (NP (NP (DT the) (JJ daily) (NN work)) (PP (IN of) (NP (NN software) (NNS developers)))))) (. .))
+(S (NP (PRP$ Our) (NNS participants)) (VP (VBD included) (NP (NP (NN software) (NNS developers)) (, ,) (NP (NN software) (NNS architects)) (, ,) (NP (NN project) (NNS managers)) (, ,) (NP (NNS consultants)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NNS researchers)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (PRP them)))) (VP (VBD were) (ADJP (JJ informal))) (. .))

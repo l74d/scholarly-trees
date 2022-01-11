@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP show) (PP (IN through) (NP (NN hardware) (NNS experiments))) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN communication) (NN model)) (SBAR (S (NP (PRP we)) (VP (VBD used) (PP (IN in) (NP (DT the) (NN simulation))))))) (VP (MD could) (VP (VB be) (VP (VBN realized) (PP (IN on) (NP (JJ real) (NNS robots))))))))) (. .))

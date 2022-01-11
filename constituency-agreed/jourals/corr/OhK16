@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD designed) (NP (DT the) (JJ deep) (NN learning) (NN architecture)) (SBAR (IN so) (IN that) (S (NP (NP (DT the) (NN output)) (PP (IN of) (NP (DT the) (NN network)))) (VP (MD can) (VP (VB be) (ADVP (RB directly)) (VP (VBN used) (PP (IN for) (S (VP (VBG computing) (NP (NP (DT the) (NN color)) (PP (IN of) (NP (DT the) (NN illumination))))))))))))) (. .))

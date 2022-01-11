@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (DT a) (NN syntax) (NN framework)))) (VP (VBZ is) (VP (VBN used) (S (VP (VP (TO to) (VP (VB discuss) (SBAR (WHADVP (WRB how)) (S (NP (NN quotation) (CC and) (NN evaluation)) (VP (MD can) (VP (VB be) (VP (VBN built) (PP (IN into) (NP (DT a) (NN language)))))))))) (CC and) (VP (TO to) (VP (VB define) (SBAR (WHNP (WP what)) (S (NP (NN quasiquotation)) (VP (VBZ is)))))))))) (. .))
+(S (NP (NP (JJ Several) (NNS examples)) (PP (IN of) (NP (NN syntax) (NNS frameworks)))) (VP (VBP are) (VP (VBN presented))) (. .))

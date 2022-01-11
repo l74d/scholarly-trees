@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ revisits) (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (IN whether) (S (NP (NN equality)) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN by) (NP (NP (JJ neural) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (RB not) (VP (VB encode) (NP (JJ explicit) (JJ symbolic) (NN structure)))))))))))))))) (. .))

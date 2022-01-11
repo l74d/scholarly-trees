@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (NNP L1) (NN minimization) (NN problem)) (PP (IN with) (NP (JJ additional) (NN box) (NNS constraints)))) (. .))
+(S (NP (PRP We)) (VP (VBP motivate) (NP (DT the) (NN problem)) (PP (IN with) (NP (NP (CD two) (JJ different) (NNS views)) (PP (IN of) (NP (NN optimality) (NNS considerations)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP look) (PP (IN into) (S (VP (VBG imposing) (NP (JJ such) (NNS constraints)) (PP (IN in) (NP (VBN projected) (NN gradient) (NNS techniques))))))) (CC and) (VP (VB propose) (NP (NP (DT a) (ADJP (JJS worst) (NN case)) (JJ linear) (NN time) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB perform) (NP (JJ such) (NNS projections))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NNS merits) (CC and) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN algorithms)))) (PP (IN on) (NP (ADJP (JJ synthetic) (CONJP (RB as) (RB well) (IN as)) (JJ real)) (NNS experiments)))) (. .))

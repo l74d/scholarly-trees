@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ seeks) (NP (DT a) (ADJP (NN domain) (JJ invariant)) (NN feature) (NN space)) (PP (IN by) (S (VP (VBG learning) (NP (NP (DT a) (NN mapping) (NN function)) (SBAR (WHNP (WDT which)) (S (VP (VBZ aligns) (NP (DT the) (NN source) (NN subspace)) (PP (IN with) (NP (DT the) (NN target) (CD one))))))))))) (. .))

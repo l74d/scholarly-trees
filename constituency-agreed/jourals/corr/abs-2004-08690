@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN method))) (, ,) (NP (NN thresholding)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB separate) (NP (DT the) (NN nucleus)) (PP (IN from) (NP (DT the) (JJ other) (NNS parts)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG locating) (CC and) (VBG counting) (NP (DT the) (JJ red) (NNS cells)) (PP (IN with) (NP (DT a) (JJ small) (NN error)))))))) (. .))

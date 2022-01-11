@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (JJ single) (NN access) (NN point)) (PP (IN with) (NP (JJ multiple) (JJ identical) (NNS channels))))) (. .))
+(S (SBAR (IN If) (S (NP (DT no) (JJ idle) (NN channel)) (VP (VBZ is) (VP (VBN found))))) (, ,) (NP (DT a) (JJ persistent) (NN user)) (VP (MD will) (VP (VB repeat) (NP (DT the) (NN access) (NN attempt)) (PP (IN at) (NP (DT a) (JJ later) (NN time))) (, ,) (SBAR (IN while) (S (NP (DT a) (JJ non-persistent) (NN user)) (VP (MD will) (VP (VB leave))))))) (. .))

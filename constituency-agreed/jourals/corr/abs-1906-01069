@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN case))) (, ,) (NP (PRP we)) (VP (VP (VBP characterize) (NP (NP (DT the) (JJ competitive) (NN equilibrium)) (PP (IN of) (NP (DT the) (NN spot) (NN market))))) (, ,) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB socially) (JJ optimal))))))) (. .))
+(S (NP (NNS Options) (NN contract)) (VP (VP (VBP are) (NP (JJ private) (JJ bilateral) (JJ over-the-counter) (NNS transactions))) (CC and) (VP (VBP do) (RB not) (VP (VB require) (NP (JJ regulatory) (NN approval))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB design) (NP (NP (JJ optimal) (NN option) (NNS prices)) (SBAR (WHNP (WDT that)) (S (VP (VBP minimize) (NP (DT the) (JJ social) (NN welfare) (NN gap))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (VP (VBN validated) (PP (IN through) (NP (JJ numerical) (NNS simulations))))) (. .))

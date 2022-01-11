@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ fading) (NN broadcast) (NN channel)) (VP (VBZ is) (VP (VBN considered) (SBAR (WHADVP (WRB where)) (S (S (NP (DT the) (NN transmitter)) (VP (VBZ employs) (NP (CD two) (NNS antennas)))) (CC and) (S (NP (NP (DT each)) (PP (IN of) (NP (DT the) (CD two) (NNS receivers)))) (VP (VBZ employs) (NP (DT a) (JJ single) (NN receive) (NN antenna)))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VP (VBP are) (ADJP (JJ general))) (CC and) (VP (VBP are) (RB not) (VP (VBN limited) (PP (TO to) (NP (VB memoryless) (JJ Gaussian) (NN fading)))))) (. .))

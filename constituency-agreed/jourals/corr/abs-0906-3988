@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (PP (IN for) (NP (NP (JJ linear) (NNS modulations)) (PP (IN with) (NP (DT a) (JJ constant) (NN envelope))))) (, ,) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (DT the) (JJ unknown) (NNS parameters)))) (VP (MD can) (VP (VB be) (VP (VBN mitigated)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (JJ numerical) (NNS results)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP support) (NP (DT the) (JJ theoretical) (NN analysis))))) (, ,)) (VP (VBP are) (VP (VBN presented))) (. .))

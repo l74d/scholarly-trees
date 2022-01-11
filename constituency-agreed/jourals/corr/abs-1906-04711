@@ -1,0 +1,1 @@
+(S (NP (NP (NNP ProPublica) (POS 's)) (NNP COMPAS) (NN data)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT an) (VBG increasing) (NN number)) (PP (IN of) (NP (NNS studies))))) (S (VP (TO to) (VP (VB test) (NP (NP (JJ various) (NNS definitions)) (PP (IN of) (NP (JJ algorithmic) (NN fairness))))))))) (. .))

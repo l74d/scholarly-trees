@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS gains)) (PP (IN along) (NP (DT each) (NN path)))) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN measured) (PP (IN for) (S (VP (VBG analyzing) (NP (VBG blocking) (NNS scenarios)))))))) (. .))
+(S (NP (DT The) (NN sounder)) (VP (VBZ is) (VP (VBN validated) (PP (IN in) (NP (DT an) (JJ indoor) (NN office) (NN environment))))) (. .))

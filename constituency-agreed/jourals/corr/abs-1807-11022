@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN formula)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (JJ optimal) (NN depth)) (VP (MD can) (VP (VB get) (NP (JJ large) (NNS changes)) (PP (IN for) (NP (NP (JJ small) (NNS changes)) (PP (IN in) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NNS data)))))))))))) (. .))

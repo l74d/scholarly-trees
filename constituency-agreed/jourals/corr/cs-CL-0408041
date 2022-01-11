@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT the) (JJ first) (NN study))) (, ,) (NP (NP (DT the) (NNS works)) (PP (IN of) (NP (NNP William) (NNP Shakespeare)))) (VP (VBD were) (VP (VBN chosen) (PP (IN as) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS items)) (PP (IN in) (NP (JJ western) (NN literature))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBD were) (VP (VBN compared) (PP (IN with) (NP (NP (NNP Zipf) (POS 's)) (NN law))))) (. .))

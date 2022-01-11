@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN motivation)) (PP (IN of) (NP (DT the) (JJ current) (NN study)))) (VP (VBD was) (S (VP (TO to) (VP (VB design) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB speed) (PRT (RP up)) (NP (NP (DT the) (NN processing)) (PP (IN of) (NP (DT a) (NN query))))))))))))) (. .))
+(S (NP (DT The) (JJ important) (NN feature)) (VP (VBZ is) (VP (VBG generating) (NP (NN code)) (ADVP (RB dynamically)) (PP (IN for) (NP (DT a) (JJ specific) (NN query))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (JJ feedforward) (JJ neural) (NN network)) (VP (VBN fed) (PP (IN with) (NP (NNS embeddings))))) (VP (MD can) (VP (VB approximate) (NP (NNS distances)) (PP (IN with) (NP (ADJP (RB relatively) (JJ low)) (NN distortion) (NN error)))))))) (. .))

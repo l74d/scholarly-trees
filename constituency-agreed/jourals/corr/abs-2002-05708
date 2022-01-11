@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (JJ interactive) (NN image) (NN segmentation) (NNS techniques)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (JJ semi-supervised) (NN learning))))) (. .))
+(S (NP (DT The) (NN segmentation) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

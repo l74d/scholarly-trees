@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP suggest) (NP (NP (JJ several) (JJ novel) (NNS notions)) (PP (IN of) (NP (NN simulation) (NNS relations)))) (S (VP (TO to) (VP (VB ensure) (NP (NP (DT the) (NN soundness)) (PP (IN of) (NP (DT the) (NN approach)))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ such) (NN simulation) (NNS relations)) (VP (MD can) (VP (VB be) (VP (VBN constructed) (ADVP (RB compositionally)))))))) (. .))

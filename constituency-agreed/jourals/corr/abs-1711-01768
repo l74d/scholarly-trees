@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (JJ such) (NNS attributes)) (PP (IN of) (NP (JJ neural) (NNS networks)))) (VP (MD can) (VP (VB be) (VP (VBN exposed) (PP (IN from) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS queries))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ has) (NP (JJ multiple) (NNS implications))) (. .))

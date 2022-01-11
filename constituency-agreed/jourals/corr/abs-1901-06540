@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NNS programs)) (VP (VBP are) (ADJP (JJ probabilistic))))) (, ,) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NNS outputs)))) (VP (VBZ is) (NP (NP (DT a) (NN distance)) (PP (IN between) (NP (NNS distributions))))) (. .))

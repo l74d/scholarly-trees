@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN safety)) (PP (IN of) (NP (JJ infinite) (NN state) (NNS systems)))) (VP (MD can) (VP (VB be) (VP (VBN checked) (PP (IN by) (NP (DT a) (JJ backward) (NN reachability) (NN procedure)))))) (. .))
+(S (ADVP (RB Indeed)) (, ,) (NP (DT the) (NN problem)) (VP (VBZ is) (S (VP (TO to) (VP (VB guess) (NP (JJ such) (JJ appropriate) (NNS invariants)))))) (. .))
+(S (NP (NNS Theories)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB specify) (NP (NP (DT the) (NN topology)) (CC and) (NP (NP (DT the) (NNS data)) (VP (VBN manipulated) (PP (IN by) (NP (DT the) (NN system))))))))))) (. .))

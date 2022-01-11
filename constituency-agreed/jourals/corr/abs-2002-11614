@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (JJ composite) (NNS matrices)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN derived) (PP (IN from) (NP (NN group) (NNS rings))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NNS codes)) (SBAR (S (NP (PRP we)) (VP (VBP find))))) (VP (VBP are) (ADJP (JJ inaccessible) (PP (IN from) (NP (JJ other) (NNS constructions)))))))) (. .))

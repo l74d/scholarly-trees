@@ -1,0 +1,3 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (NN software) (NN specification)) (VP (VBZ requires) (S (VP (VBG modeling) (NP (NP (DT both) (NNS structures) (CC and) (NN behaviour)) (PP (IN of) (NP (NNS systems))))))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (NP (VBG existing) (NNS languages)) (VP (VBP do) (RB not) (VP (VB integrate) (NP (DT these) (NNS aspects)) (ADVP (RB well)) (, ,) (S (ADVP (RB usually)) (VP (VBG prioritizing) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP contribute) (NP (NP (NNP Clafer)) (: :) (NP (NP (DT a) (JJ small) (NN language)) (SBAR (WHNP (WDT that)) (S (VP (VBZ attempts) (S (VP (TO to) (VP (VB tackle) (NP (DT this) (NN challenge))))))))))) (. .))

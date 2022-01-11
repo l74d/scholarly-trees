@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS networks)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (S (VP (VBG monitoring) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS environments)))))))))) (. .))
+(S (NP (NP (JJ Major) (NNS problems)) (PP (IN of) (NP (DT these) (NNS networks)))) (VP (VBP are) (NP (NP (NN energy) (NNS constraints)) (CC and) (NP (PRP$ their) (JJ finite) (NNS lifetimes)))) (. .))

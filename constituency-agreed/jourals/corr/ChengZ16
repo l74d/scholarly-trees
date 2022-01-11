@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN conclusion))) (, ,) (NP (PRP$ our) (VBN proposed) (NN algorithm)) (VP (VBZ is) (ADJP (JJ competitive)) (, ,) (S (VP (VBG revealing) (SBAR (IN that) (S (NP (NN link) (NN prediction)) (VP (VBZ does) (VP (VB improve) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (NN community) (NN detection))))))))))) (. .))

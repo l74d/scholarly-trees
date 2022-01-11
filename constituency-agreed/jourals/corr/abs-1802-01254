@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN measured) (PP (IN in) (NP (JJ many) (NNS ways)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ formalizes) (NP (NP (DT the) (NNS metrics)) (PP (IN of) (NP (NN locality)))) (PP (IN into) (NP (DT a) (NN measurement) (NN theory)))) (. .))

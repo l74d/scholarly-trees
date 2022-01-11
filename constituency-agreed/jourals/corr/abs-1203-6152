@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Numerous) (NNS characterizations)) (PP (IN of) (NP (DT this) (NN class)))) (VP (VBP are) (VP (VBN known))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT each) (NN level)) (PP (IN of) (NP (DT this) (NN hierarchy)))) (VP (VBZ is) (ADJP (JJ decidable)))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (PRP we)) (VP (VBP relate) (NP (NP (DT each) (NN level)) (PP (IN of) (NP (DT the) (NN hierarchy)))) (PP (IN with) (NP (NP (DT a) (JJ decidable) (NN variety)) (PP (IN of) (NP (JJ finite) (NNS monoids)))))) (. .))

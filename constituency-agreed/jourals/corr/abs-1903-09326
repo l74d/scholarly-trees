@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ critical) (NN challenge)) (VP (VBZ is) (SBAR (IN that) (S (NP (NN seizure) (NNS morphologies)) (VP (VBP exhibit) (NP (JJ considerable) (NNS variabilities)))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP explore) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN segment) (NN length)) (VP (VBZ affects) (NP (DT the) (NN classification) (NN performance)))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (NN segment) (NN length)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN factor)) (VP (VBG influencing) (NP (DT the) (NN classification) (NN performance))))) (. .))

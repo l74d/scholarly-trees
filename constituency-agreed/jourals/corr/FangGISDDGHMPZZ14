@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN language) (NN model)) (VP (VBZ learns) (PP (IN from) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (QP (IN over) (CD 400,000)) (NN image) (NNS descriptions))))) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (NNS statistics)) (PP (IN of) (NP (NN word) (NN usage)))))))) (. .))

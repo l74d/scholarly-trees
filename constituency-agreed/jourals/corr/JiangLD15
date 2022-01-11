@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB use) (NP (NP (DT the) (NNS similarities)) (PP (IN between) (NP (DT these) (NNS relationships)))) (S (VP (TO to) (VP (VB find) (NP (ADJP (RBR more) (JJ accurate)) (NNS alignments))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ is) (ADJP (RB particularly) (JJ effective) (PP (IN in) (S (VP (VBG identifying) (NP (NP (NNS correspondences)) (PP (IN between) (NP (JJ complex) (NNS concepts))))))))) (. .))

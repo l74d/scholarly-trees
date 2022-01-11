@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (PRP$ our) (NN system)) (VP (VBN created) (S (VP (TO to) (VP (VB detect) (NP (NN stance)) (PP (IN in) (NP (JJ online) (NNS discussions))))))))) (. .))
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (UCP (S (VP (TO to) (VP (VB identify) (SBAR (IN whether) (S (NP (NP (DT the) (NN author)) (PP (IN of) (NP (DT a) (NN comment)))) (VP (VBZ is) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (DT the) (VBN given) (NN target))))))))))) (CC or) (PP (IN against)))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ maximum) (NN entropy) (NN classifier)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (NML (NN surface) (HYPH -) (NN level)) (, ,) (ADJP (NP (NN sentiment) (CC and) (NN domain)) (HYPH -) (JJ specific)) (NNS features))))))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBD was) (ADVP (RB originally)) (VP (VBN developed) (S (VP (TO to) (VP (VB detect) (NP (NN stance)) (PP (IN in) (NP (NNP English) (NNS tweets)))))))) (. .))
+(S (NP (PRP We)) (VP (VBD adapted) (NP (PRP it)) (S (VP (TO to) (VP (VB process) (NP (JJ Czech) (NN news) (NNS commentaries)))))) (. .))

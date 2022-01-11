@@ -1,0 +1,2 @@
+(S (S (VP (VBG Training) (NP (JJ deep) (JJ neural) (NNS networks)) (PP (IN with) (NP (DT the) (NN error) (NN backpropagation) (NN algorithm))))) (VP (VBZ is) (VP (VBN considered) (S (ADJP (JJ implausible))) (PP (IN from) (NP (DT a) (JJ biological) (NN perspective))))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB implement) (NP (DT these) (NNS models)) (PP (IN with) (NP (NN rate) (NNS neurons)))) (. .))

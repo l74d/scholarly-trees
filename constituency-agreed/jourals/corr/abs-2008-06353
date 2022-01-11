@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN review)) (VP (VBZ includes) (NP (JJ several) (NNS contributions))) (. .))
+(S (PP (IN In) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (PRP we)) (VP (VBP incorporate) (NP (NN uncertainty) (NN estimation) (NNS methods)) (PP (IN as) (NP (NP (DT an) (JJ integral) (NN part)) (PP (IN of) (NP (DT the) (NNP XAI) (NN landscape)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN seen) (SBAR (IN that) (S (NP (NP (DT the) (JJS best) (NN classification) (NNS results)) (VP (VBN presented) (PP (IN in) (NP (DT both) (NNS data) (NNS sets))))) (VP (VBP are) (SBAR (WHNP (WDT which)) (S (VP (VBN calculated) (PP (IN by) (NP (NNP SVM) (NN algorithm))))))))))) (. .))

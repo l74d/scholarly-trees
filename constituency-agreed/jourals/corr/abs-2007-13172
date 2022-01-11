@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (NN inference))) (, ,) (NP (DT the) (JJ local) (NNS descriptors)) (VP (VBP are) (VP (VBN provided) (PP (IN by) (NP (NP (DT the) (NNS activations)) (PP (IN of) (NP (NP (JJ internal) (NNS components)) (PP (IN of) (NP (DT the) (NN network))))))))) (. .))

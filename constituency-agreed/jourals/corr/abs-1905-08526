@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN set)) (PP (IN of) (NP (JJ such) (NNS codewords)))) (VP (VBZ forms) (NP (DT a) (NN code))) (. .))
+(S (NP (DT The) (JJ second) (NN algorithm)) (VP (VBZ realizes) (NP (DT an) (JJ optimal) (NN transmission) (NN delay)) (PP (IN with) (NP (DT a) (JJR smaller) (NN code) (NN size)))) (. .))

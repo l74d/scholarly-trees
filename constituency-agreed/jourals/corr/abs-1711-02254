@@ -1,0 +1,2 @@
+(S (NP (JJ Convolutional) (JJ neural) (NNS networks)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB classify) (NP (JJ different) (NNS gestures))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP verify) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN system)))) (PP (IN with) (NP (NP (DT an) (NN accuracy)) (PP (IN of) (NP (CD 98) (NN %)))))) (. .))

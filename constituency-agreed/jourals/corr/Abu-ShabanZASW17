@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP carry) (PRT (RP out)) (NP (NP (DT a) (JJ detailed) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN dependence)) (PP (IN of) (NP (NP (DT the) (NNS bounds)) (PP (IN of) (NP (JJ different) (NNS systems) (NNS parameters))))))))) (. .))
+(S (NP (PRP$ Our) (JJ key) (NNS findings)) (VP (VBP indicate) (SBAR (IN that) (S (NP (DT the) (NN uplink) (CC and) (NN downlink)) (VP (VBP behave) (ADVP (RB differently)) (PP (IN in) (NP (CD two) (JJ distinct) (NNS ways))))))) (. .))

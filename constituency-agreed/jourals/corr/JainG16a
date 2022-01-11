@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP generalize) (NP (VBG existing) (NNS results))) (CC and) (VP (VBP show) (SBAR (IN that) (S (PP (IN by) (S (VP (VBG using) (NP (JJ heterogeneous) (NN controller) (NNS gains))))) (, ,) (NP (NP (DT the) (NN velocity) (NNS directions)) (PP (IN of) (NP (NP (DT the) (NNS agents)) (PP (IN in) (NP (JJ balanced) (NN formation)))))) (VP (MD can) (VP (VB be) (VP (VBN controlled)))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN given) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (JJ theoretical) (NNS findings))))))) (. .))

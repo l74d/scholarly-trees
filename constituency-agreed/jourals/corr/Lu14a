@@ -1,0 +1,3 @@
+(S (NP (NNP Rank) (NN aggregation)) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN approach)) (PP (IN for) (S (VP (VBG aggregating) (NP (NP (DT the) (NNS preferences)) (PP (IN of) (NP (JJ multiple) (NNS agents))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ has) (VP (VBN resulted) (PP (IN in) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (JJ various) (NNS algorithms))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB demonstrate) (SBAR (IN that) (S (NP (DT the) (NNP Kemeny) (NN consensus)) (VP (MD can) (VP (VB be) (VP (VBN computed) (ADVP (RB efficiently)) (SBAR (WHADVP (WRB when)) (S (VP (VBG aggregating) (NP (JJ different) (NNS rankings)) (PP (IN in) (NP (JJ real) (NN case))))))))))))))) (. .))

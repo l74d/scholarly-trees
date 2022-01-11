@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP suffer) (PP (IN from) (NP (NN over-parameterization)))) (. .))
+(S (PP (IN For) (NP (NN instance))) (, ,) (NP (PRP it)) (VP (VBD was) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NN attention) (NNS heads)))) (VP (MD could) (VP (VB be) (VP (VBN pruned) (PP (IN without) (S (VP (VBG impacting) (NP (NN accuracy)))))))))))) (. .))

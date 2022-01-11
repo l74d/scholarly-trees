@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN decomposition) (NN task)) (VP (VBZ is) (ADVP (RB also)) (ADJP (RB fundamentally) (JJ different) (PP (IN from) (NP (DT the) (JJ conventional) (NN image) (NN enhancement))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ mathematical) (NN model)) (PP (IN for) (NP (JJ such) (NN decomposition))))) (. .))
+(S (PP (IN With) (NP (JJ proper) (NNS assumptions))) (, ,) (NP (PRP$ our) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (S (VP (VBG solving) (NP (DT a) (JJ standard) (NNP Laplace) (NN equation)))))))) (. .))

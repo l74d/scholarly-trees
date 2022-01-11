@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NN model)) (PP (IN by) (NP (NN simulation)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP compare) (NP (PRP$ our) (NN model)) (PP (IN with) (NP (NP (DT the) (NN estate)) (PP (IN of) (NP (DT the) (NN art))))) (, ,) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (JJ computational) (NN complexity)) (CC and) (NP (NN estimation) (NN error))))))) (. .))

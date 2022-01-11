@@ -1,0 +1,1 @@
+(S (NP (DT This)) (ADVP (RB usually)) (VP (VBZ requires) (NP (NP (JJ intermediate) (NN value) (NN estimation)) (PP (IN in) (NP (NP (DT the) (JJ inner) (NN loop)) (PP (IN of) (NP (DT the) (NN algorithm)))))) (, ,) (S (VP (VBG slowing) (PRT (RP down)) (NP (NN convergence)) (ADVP (RB considerably))))) (. .))

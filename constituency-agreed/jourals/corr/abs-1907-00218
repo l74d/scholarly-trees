@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (NNP ELMo) (NNS embeddings)))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ gives) (NP (NP (DT the) (JJS best) (NNS results)) (PP (IN on) (NP (DT this) (NN benchmark))))) (. .))

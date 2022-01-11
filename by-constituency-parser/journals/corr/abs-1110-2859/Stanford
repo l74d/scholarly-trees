@@ -1,0 +1,7 @@
+(S (ADVP (RB Nowadays)) (, ,) (NP (NN E-learning) (NN system)) (VP (VBZ is) (VP (VBN considered) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS pillars)) (PP (IN in) (NP (DT the) (NN learning) (NN system))))))))) (. .))
+(S (ADVP (RB Mainly)) (, ,) (NP (NN E-Learning) (NN system)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB serve) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NNS students))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (S (VP (VBG providing) (NP (JJ different) (NN learning) (NNS pathways)))) (VP (VBP are) (NP (DT a) (NN must))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT the) (NN variability) (NN technique)) (S (VP (TO to) (VP (VB represent) (NP (DT the) (NN knowledge)) (PP (IN in) (NP (NN E-learning) (NN system))))))) (. .))
+(S (NP (DT This) (NN representation)) (VP (VBZ provides) (NP (NP (JJ different) (NN learning) (NNS pathways)) (SBAR (WHNP (WDT which)) (S (VP (VBZ supports) (NP (NP (DT the) (NNS students) (POS ')) (NN diversity))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP validate) (NP (NP (DT the) (NN selection)) (PP (IN of) (S (VP (VBG learning) (NP (NN pathway)) (PP (IN by) (S (VP (VBG introducing) (NP (NML (NNP First) (NNP Order) (NNP Logic) (-LRB- -LRB-) (NNP FOL) (-RRB- -RRB-)) (NNS rules)))))))))) (. .))
+(NP (NP (NP (NP (NNS Keywords)) (VP (VBG Learning) (NP (NN Pathway)))) (: ;) (NP (NP (NN Variability)) (CC and) (NP (NN knowledge) (NN representation)))) (: ;) (NP (NN IJCSI)))

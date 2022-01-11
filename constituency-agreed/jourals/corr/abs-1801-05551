@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP FusedGAN)) (VP (MD can) (VP (VB perform) (NP (NP (JJ controllable) (NN sampling)) (PP (IN of) (NP (JJ diverse) (NNS images)))) (PP (IN with) (NP (ADJP (RB very) (JJ high)) (NN fidelity))))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (NN controllability)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN by) (S (VP (VBG disentangling) (NP (DT the) (NN generation) (NN process)) (PP (IN into) (NP (JJ various) (NNS stages)))))))))))) (. .))

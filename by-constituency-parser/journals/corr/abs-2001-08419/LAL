@@ -1,0 +1,8 @@
+(S (PP (IN For) (NP (DT the) (JJ former))) (, ,) (NP (PRP we)) (VP (VBP prove) (: :) (NP (CD 1))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NNS arrangements)) (PP (IN of) (NP (NNS pseudo-lines))) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (ADJP (JJ realizable) (PP (IN with) (NP (VBG approaching) (NNS pseudo-lines))))))))) (. .))
+(NP (CD 2) (. .))
+(S (NP (NP (DT Every) (NN arrangement)) (PP (IN of) (NP (VBG approaching) (NNS pseudo-lines)))) (VP (VBZ has) (NP (NP (DT a) (JJ dual) (JJ generalized) (NN configuration)) (PP (IN of) (NP (NNS points))) (PP (IN with) (NP (NP (DT an) (JJ underlying) (NN arrangement)) (PP (IN of) (NP (VBG approaching) (NNS pseudo-lines))))))) (. .))
+(S (PP (IN For) (NP (DT the) (JJ latter))) (, ,) (NP (PRP we)) (VP (VBP show) (: :) (NP (CD 1))) (. .))
+(NP (CD 2) (. .))
+(S (NP (NP (PRP It))) (VP (MD can) (VP (VB be) (VP (VBN decided) (PP (IN in) (NP (JJ polynomial) (NN time))) (SBAR (IN whether) (S (NP (DT an) (JJ allowable) (NN sequence)) (VP (VBZ is) (ADJP (JJ realizable) (PP (IN by) (NP (NP (DT an) (NN arrangement)) (PP (IN of) (NP (VBG approaching) (NNS pseudo-lines)))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (NNS arrangements)) (PP (IN of) (NP (VBG approaching) (NNS pseudo-lines)))) (VP (MD can) (VP (VB be) (VP (VBN transformed) (PP (IN into) (NP (DT each) (JJ other))) (PP (IN by) (S (VP (VBG flipping) (NP (JJ triangular) (NNS cells)))))))) (, ,) (SINV (FW i.e.) (, ,) (S (NP (PRP they)) (VP (VBP have) (NP (DT a) (VBN connected) (NN flip) (NN graph))))) (, ,) (CC and) (S (NP (NP (DT every) (JJ bichromatic) (NN arrangement)) (PP (IN of) (NP (DT this) (NN type)))) (VP (VBZ contains) (NP (DT a) (JJ bichromatic) (NN triangular) (NN cell)))) (. .))

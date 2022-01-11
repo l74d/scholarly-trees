@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ analytical) (NN model)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB calculate) (NP (DT the) (NN transmission) (NN area))))))) (. .))
+(S (NP (NP (NNS Comparisons)) (PP (IN with) (NP (NNS simulations)))) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ analytical) (NN model)) (VP (VBZ is) (ADJP (JJ precise)))))) (. .))

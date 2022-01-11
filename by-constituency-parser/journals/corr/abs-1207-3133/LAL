@@ -1,0 +1,4 @@
+(S (NP (NP (NNP New) (JJ infinite) (NNS families)) (PP (IN of) (NP (ADJP (NN quantum) (NN symmetric) (CC and) (JJ asymmetric)) (NNS codes)))) (VP (VBP are) (VP (VBN constructed))) (. .))
+(S (NP (NP (JJ Several)) (PP (IN of) (NP (DT these)))) (VP (VBP are) (NP (NNP MDS))) (. .))
+(S (NP (NP (DT The) (NNS codes)) (VP (VBN obtained))) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB have) (NP (NP (NNS parameters)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (ADJP (JJR better)) (SBAR (IN than) (S (ADVP (RB previously)) (VP (VBN known)))))))))))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (VBN known) (NNS codes)))) (VP (VBP are) (NP (NP (JJ special) (NNS cases)) (PP (IN of) (NP (NP (DT the) (NNS codes)) (VP (VBN given) (ADVP (RB here))))))) (. .))

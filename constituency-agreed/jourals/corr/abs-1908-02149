@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (NNP MO) (NNS problems)))))) (NP (DT a) (NN scalarization) (NN approach)) (VP (VBZ is) (VP (VBN used))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (DT a) (JJ new) (NN approach)) (VP (VBZ has) (VP (VBN been) (VP (VBN developed) (PP (IN on) (NP (NP (DT a) (JJ multi-node) (NN environment)) (VP (VBG using) (NP (NNS containers)))))))) (. .))

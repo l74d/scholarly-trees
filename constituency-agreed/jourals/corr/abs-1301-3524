@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PDT such) (DT a) (NN case))) (NP (JJ random) (NN change) (NNS alarms)) (VP (MD may) (VP (VB boost) (NP (DT the) (NN accuracy) (NNS figures)))) (. .))
+(S (ADVP (RB Hence)) (, ,) (NP (PRP we)) (VP (MD can) (RB not) (VP (VB be) (ADJP (JJ sure)) (SBAR (IN if) (S (NP (DT the) (NN adaptation)) (VP (VBZ is) (VP (VBG working) (ADVP (RB well)))))))) (. .))

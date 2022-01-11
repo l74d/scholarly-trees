@@ -1,0 +1,4 @@
+(S (PP (IN For) (NP (JJ explicit) (NNS schemes))) (, ,) (NP (PRP it)) (VP (VBZ requires) (NP (JJ small) (NN time) (NNS steps)) (S (VP (TO to) (VP (VB meet) (NP (DT the) (NNP CFL) (NN condition)))))) (. .))
+(S (PP (IN For) (NP (JJ implicit) (NNS schemes))) (, ,) (NP (PRP it)) (VP (VBZ requires) (NP (JJ proper) (NNS preconditioners))) (. .))
+(S (NP (NP (DT The) (NNS gains) (CC and) (NNS flaws)) (PP (IN of) (NP (DT the) (CD two) (NNS strategies)))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN noted) (SBAR (IN that) (S (NP (DT a) (JJ rough) (JJ spatial) (NN mesh)) (VP (MD may) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT the) (JJ central) (NN part)))))))))) (. .))

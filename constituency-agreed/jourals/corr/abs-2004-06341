@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ adaptive) (NN regularization)) (VP (VBZ is) (VP (VBN imposed) (PP (IN by) (NP (JJ stochastic) (NN process))) (PP (IN in) (S (VP (VBG determining) (NP (NP (NN batch) (NN size)) (PP (IN for) (NP (DT each) (NN model) (NN parameter)))) (PP (IN at) (NP (DT each) (NN optimization) (NN iteration)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT a) (JJ clinical) (NN decision) (NN support) (NN tool)))) (VP (VBZ is) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (JJ clinical) (NNS decisions)))))))) (. .))
+(S (NP (JJ Clinical) (NN context)) (VP (VBZ enables) (S (NP (PRP them)) (VP (TO to) (VP (VB take) (PP (IN into) (NP (NN account))) (NP (NP (DT all) (JJ ambiguous) (NN information)) (CC and) (NP (NN patient) (NNS preferences))))))) (. .))

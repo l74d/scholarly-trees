@@ -1,0 +1,2 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NNS constraints)) (VP (VBP do) (RB not) (VP (VB depend) (PP (IN on) (NP (DT the) (NN input) (NNS parameters))))) (. .))
+(S (NP (DT The) (VBN studied) (NN scenario)) (VP (VP (VBZ goes) (PP (IN beyond) (NP (NN quantum) (NNS processes)))) (CC and) (VP (VBZ includes) (NP (NP (DT the) (NN communication) (NN complexity) (NN scenario)) (VP (VBN introduced) (PP (IN by) (NP (NNP Yao))))))) (. .))

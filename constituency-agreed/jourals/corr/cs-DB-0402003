@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN database) (NNS systems))) (, ,) (NP (NNS preferences)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN captured) (PP (IN as) (NP (NP (NN preference) (NNS relations)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB build) (NP (NN preference) (NNS queries))))))))))))) (. .))

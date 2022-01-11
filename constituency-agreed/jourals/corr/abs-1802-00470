@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG training) (NP (DT a) (NN segmentation) (NN network)) (PP (IN in) (NP (DT this) (NN way))))) (VP (VBZ outperforms) (NP (DT the) (JJ naive) (NN approach)))))) (. .))

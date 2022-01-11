@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (JJ modern) (NN network) (NNS designs)) (VP (VBP incorporate) (NP (`` ``) (NN failover) ('' '') (NNS paths)) (PP (IN into) (NP (NP (NNS routers) (POS ›)) (NN forwarding) (NNS tables)))) (. .))
+(S (NP (PRP We)) (VP (VBP initiate) (NP (NP (DT the) (JJ theoretical) (NN study)) (PP (IN of) (NP (NP (DT the) (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (JJ such) (NN resilient) (VBG routing) (NNS tables)) (VP (MD can) (VP (VB guarantee) (NP (NP (NN delivery)) (PP (IN of) (NP (NNS packets)))))))))))) (. .))

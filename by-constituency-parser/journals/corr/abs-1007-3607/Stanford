@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (NP (DT a) (NN notion)) (PP (IN of) (NP (NML (NML (QP ($ $) (CD k))) (NML ($ $))) (HYPH -) (NN convexity))))) (CC and) (VP (VB explore) (NP (NNS polygons)) (PP (IN in) (NP (NP (DT the) (NN plane)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (DT this) (NN property))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (VBG recognizing) (NP (PRP them)) (PP (IN in) (ADJP (JJ general))))) (VP (VBZ is) (NP (ADJP (NP (DT a) (NN 3SUM)) (HYPH -) (JJ hard)) (NN problem))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (VBG Minimizing) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (JJ weighted) (NN completion) (NNS times))) (PP (IN on) (NP (ADJP ($ $) (JJ m) ($ $)) (JJ identical) (NN parallel) (NNS machines)))))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ important) (CC and) (JJ classical)) (NN scheduling) (NNS problems))))) (. .))

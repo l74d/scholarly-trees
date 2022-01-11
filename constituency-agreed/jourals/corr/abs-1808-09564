@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Neural) (NN text) (NN generation)) (, ,) (PP (VBG including) (NP (NP (JJ neural) (NN machine) (NN translation)) (, ,) (NP (NN image) (NN captioning)) (, ,) (CC and) (NP (NN summarization)))) (, ,)) (VP (VBZ has) (VP (VBN been) (ADJP (RB quite) (JJ successful)) (ADVP (RB recently)))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB investigate) (NP (NP (JJ several) (JJ different) (NNS ways)) (PP (IN of) (S (VP (VBG utilizing) (NP (JJ multiple) (JJ human) (NNS references)) (PP (IN during) (NP (NN training)))))))) (. .))

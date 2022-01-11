@@ -1,0 +1,2 @@
+(S (ADVP (RB Typically)) (NP (NP (RB only) (DT a) (JJ small) (NN set)) (PP (IN of) (NP (JJ discrete) (NN permuter) (NNS lengths)))) (VP (VBP are) (VP (VBN supported))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NNP BRP) (NNS sequences)) (VP (VBP have) (NP (JJ weak) (NN correlation) (NNS properties))))))) (. .))

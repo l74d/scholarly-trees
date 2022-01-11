@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT some) (JJ numerical) (NNS simulations)) (VP (VBP have) (VP (VBN been) (VP (VBN done) (S (VP (TO to) (VP (VB demonstrate) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ outperforms) (NP (JJ other) (NN benchmark) (NNS schemes))))))))))) (. .))

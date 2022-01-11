@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN contribution)) (VP (VBZ is) (ADJP (JJ threefold))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP explain) (NP (DT these) (NNS differences)) (PP (IN by) (S (VP (VBG analyzing) (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (NP (NN exit) (NNS probabilities)) (PP (IN of) (NP (JJ random) (NNS walks)))))))))) (. .))

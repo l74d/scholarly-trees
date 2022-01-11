@@ -1,0 +1,1 @@
+(S (S (NP (DT These) (NNS tweaks)) (VP (VBP do) (RB not) (VP (VB change) (NP (DT the) (NN model) (NNS architectures))))) (, ,) (S (ADVP (RB therefore)) (, ,) (NP (DT the) (NN inference) (NNS costs)) (VP (VBP remain) (NP (DT the) (JJ same)))) (. .))

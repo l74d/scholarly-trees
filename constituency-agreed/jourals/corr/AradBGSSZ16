@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN oracle)) (ADVP (RB then)) (VP (VBZ returns) (NP (NP (DT the) (NN index)) (PP (IN of) (NP (NP (DT the) (NN constraint)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RBS most) (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN violated) (PP (IN by) (NP (DT this) (NN distribution))))))))))))))) (. .))

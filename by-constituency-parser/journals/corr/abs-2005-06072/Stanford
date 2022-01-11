@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (CC and) (VBP analyze) (NP (DT a) (JJ numerical) (NN method) (S (VP (TO to) (VP (VB solve) (NP (DT the) (ADJP (NN time) (HYPH -) (JJ dependent)) (NML (JJ linear) (NN Pauli)) (NN equation)) (PP (IN in) (NP (NP (CD three)) (NP (NN space) (HYPH -) (NNS dimensions))))))))) (. .))
+(S (NP (NP (DT Some) (NN proof)) (PP (IN of) (NP (NP (NN concept) (NNS examples)) (PP (IN of) (NP (JJ numerical) (NNS simulations)))))) (VP (VBP are) (VP (VBN presented))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NN performance) (NN evaluation)) (VP (VBZ is) (VP (VBN conducted) (S (VP (TO to) (VP (VB validate) (NP (NP (DT the) (NN correctness) (, ,) (NN privacy) (, ,) (CC and) (NN efficiency)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN scheme))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ physical) (NN layer) (NN security))))) (, ,) (NP (DT a) (JJ physical) (NN layer) (NN characteristic)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (JJ common) (NN source)) (PP (IN of) (NP (NN randomness))))) (S (VP (TO to) (VP (VB generate) (NP (DT the) (JJ secret) (NN key))))))) (. .))

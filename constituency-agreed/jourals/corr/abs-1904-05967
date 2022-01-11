@@ -1,0 +1,2 @@
+(S (ADVP (RB Ideally)) (, ,) (NP (PRP we)) (VP (VBP want) (S (VP (TO to) (VP (VB construct) (NP (NP (NN feature) (NNS embeddings)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN tuned) (PP (IN for) (NP (DT the) (VBN given) (NN task)))))))))))) (. .))
+(S (NP (PRP$ Our) (NN network)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (DT a) (NN meta) (NN learner)) (CC and) (NP (DT a) (NN prediction) (NN network)))))) (. .))

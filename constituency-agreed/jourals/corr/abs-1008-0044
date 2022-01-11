@@ -1,0 +1,2 @@
+(S (NP (NP (NN Today) (POS 's)) (NNS networks)) (VP (VBP are) (VP (VBN controlled) (S (VP (VBG assuming) (NP (ADJP (JJ pre-compressed) (CC and) (JJ packetized)) (NNS data)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT this) (NN decomposition)) (VP (VBZ is) (ADJP (JJ optimal) (PP (IN for) (NP (JJ concave) (NN utility) (NNS functions))))))))) (. .))

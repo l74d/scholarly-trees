@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ statistical) (NNS properties)) (PP (IN of) (NP (NP (JJ viral) (NN misinformation)) (PP (IN in) (NP (JJ online) (JJ social) (NNS media))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP characterize) (NP (NP (DT the) (NN uncertainty)) (PP (IN around) (NP (NP (DT the) (NN rate) (NN parameter)) (PP (IN of) (NP (DT the) (NNP Poisson) (NN process)))))) (PP (IN through) (NP (JJ Bayesian) (NNS methods)))) (. .))

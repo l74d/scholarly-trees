@@ -1,0 +1,2 @@
+(S (NP (NNS Transitions) (CC and) (NNS emissions)) (VP (VBP are) (VP (VBN inferred) (PP (IN from) (NP (NNS data))))) (. .))
+(S (ADVP (RB Instead)) (, ,) (NP (PRP$ our) (NNP HSMM)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB specify) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (NN state) (NN duration)))))))) (. .))

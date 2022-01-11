@@ -1,0 +1,2 @@
+(S (NP (DT No) (JJ local) (NN feature) (NN detection)) (VP (VBZ happens) (PP (IN on) (NP (DT the) (JJ original) (NN image)))) (. .))
+(S (NP (NP (DT No) (JJ local) (NN feature) (NNS descriptors)) (CC and) (NP (DT no) (JJ visual) (NN vocabulary))) (VP (VBP are) (VP (VBN needed) (PP (IN throughout) (NP (DT the) (JJ whole) (NN process))))) (. .))

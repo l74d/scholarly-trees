@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT a) (NN channel) (NN estimation) (NN scheme)) (VP (VBZ is) (VP (VBN designed) (PP (IN for) (S (VP (VBG enabling) (NP (DT the) (VBN proposed) (NN hybrid) (NN beamforming))))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN channel) (NN estimation) (NN scheme)))) (VP (VBZ is) (VP (VBN analyzed))) (. .))

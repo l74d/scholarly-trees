@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG decomposing) (NP (DT the) (NN problem)) (PP (IN into) (NP (JJ specific) (NNS sub-tasks)))))) (, ,) (NP (PRP we)) (VP (VBP impose) (NP (JJ effective) (JJ physical) (NNS constraints)) (S (VP (TO to) (VP (VB facilitate) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (JJ individual) (NNS sub-networks)))))))) (. .))

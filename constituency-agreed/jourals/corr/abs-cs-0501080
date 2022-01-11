@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN architecture)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (DT an) (NN information) (NN network) (NN overlay))))))) (. .))
+(S (NP (NP (DT This) (NN network)) (, ,) (VP (VBN implemented) (PP (IN as) (NP (NP (DT a) (NN graph)) (PP (IN of) (NP (JJ digital) (NNS objects))))) (PP (IN in) (NP (DT a) (NNP Fedora) (NN repository)))) (, ,)) (VP (VBZ allows) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (NP (JJ multiple) (NN information) (NNS entities)) (CC and) (NP (PRP$ their) (NNS relationships)))))) (. .))

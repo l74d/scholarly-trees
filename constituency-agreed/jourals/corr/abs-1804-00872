@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ semantic) (NNS levels)) (PP (IN of) (NP (NP (NNS features)) (PP (IN from) (NP (JJ different) (NNS layers)))))) (VP (VBP are) (ADVP (RB usually)) (ADJP (JJ inconsistent))) (. .))
+(S (ADVP (RB Meanwhile)) (, ,) (NP (DT the) (JJ multi-branch) (NN network)) (VP (VBZ does) (RB not) (VP (VB introduce) (NP (JJ additional) (NNS parameters)) (PP (IN by) (S (VP (VBG sharing) (NP (NP (JJ convolutional) (NNS weights)) (PP (IN of) (NP (JJ different) (NNS branches))))))))) (. .))

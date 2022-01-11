@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Bidirectional) (NNS transformations)) (PP (IN between) (NP (JJ different) (NNS data) (NNS representations)))) (VP (VBP occur) (ADVP (RB frequently)) (PP (IN in) (NP (JJ modern) (NN software) (NNS systems)))) (. .))
+(S (NP (DT The) (JJ main) (JJ technical) (NN challenge)) (VP (VBZ involves) (S (VP (VBG navigating) (NP (DT the) (JJ vast) (NN program) (NN search) (NN space)) (ADVP (RB efficiently) (RB enough))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (PRP$ our) (NN synthesis) (NN algorithm))))) (. .))

@@ -1,0 +1,5 @@
+(S (ADVP (RB Instead)) (, ,) (NP (PRP we)) (VP (VBP learn) (NP (JJ generative) (NNS models)) (PP (IN from) (NP (DT a) (JJ large) (NN image) (NN database)))) (. .))
+(S (NP (DT The) (JJ main) (NN challenge)) (VP (VBZ is) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (NP (DT the) (JJ high) (NN variance)) (PP (IN in) (NP (JJ human) (NN pose) (, ,) (NN shape) (CC and) (NN appearance))))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP learn) (S (VP (TO to) (VP (VB generate) (NP (NP (DT a) (JJ semantic) (NN segmentation)) (PP (IN of) (NP (DT the) (NN body) (CC and) (NN clothing)))))))) (. .))
+(S (NP (DT The) (JJ full) (NN model)) (VP (VP (VBZ is) (ADJP (JJ differentiable))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN conditioned) (PP (IN on) (NP (NN pose) (, ,) (NN shape) (CC or) (NN color))))))) (. .))
+(S (NP (DT The) (NN result)) (VP (VBP are) (NP (NP (NNS samples)) (PP (IN of) (NP (NP (NNS people)) (PP (IN in) (NP (JJ different) (NN clothing) (NNS items) (CC and) (NNS styles))))))) (. .))

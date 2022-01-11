@@ -1,0 +1,2 @@
+(S (NP (VBG Existing) (NNS approaches)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB capture) (NP (NP (JJ subtle) (NNS forms)) (PP (IN of) (NP (NP (NN context) (NN incongruity)) (SBAR (WHNP (WDT which)) (S (VP (VBZ lies) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (NN sarcasm)))))))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP experiment) (PP (IN with) (NP (NP (CD four) (NNS types)) (PP (IN of) (NP (NN word) (NNS embeddings)))))) (. .))

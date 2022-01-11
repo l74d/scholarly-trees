@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ separate) (NNS experiments))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN used) (PP (IN in) (NP (NN feedback) (NN control))) (, ,) (S (VP (TO to) (VP (VB control) (NP (NP (DT the) (NN position)) (PP (IN of) (NP (DT the) (NN multicopter))))))))) (. .))

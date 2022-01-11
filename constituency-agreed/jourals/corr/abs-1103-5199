@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP examine) (NP (DT a) (NN ciphertext)) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (S (VP (VBG using) (NP (JJ geometrical) (NNS objects)))))))) (. .))
+(S (NP (DT Each) (NN symbol) (JJ normative) (NN alphabet)) (VP (VBZ is) (VP (VBN determined) (PP (IN as) (NP (NP (DT a) (NN point)) (PP (IN on) (NP (DT the) (NN plane))))))) (. .))

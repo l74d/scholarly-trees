@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ key) (NN idea)) (PP (IN of) (NP (DT the) (JJ former) (NN proposal)))) (VP (VBD was) (S (VP (TO to) (VP (VB take) (NP (DT the) (JJS best)) (PP (IN from) (NP (DT these) (CD two) (NNS tools))))))) (. .))
+(S (NP (NP (DT The) (CD two) (NNS stages)) (PP (IN of) (NP (NN similarity) (NNS measures))) (, ,) (PP (IN on) (NP (NNS names) (CC and) (NNS sequences))) (, ,)) (VP (VBP are) (ADVP (RB thus)) (VP (VBN proposed) (PP (IN for) (NP (NN sequence) (NN clustering))))) (. .))

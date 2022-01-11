@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (NP (JJ visual) (NNS maps)) (VP (VBN created) (PP (IN with) (NP (DT an) (NNP RGB) (NN camera))))) (VP (MD can) (ADVP (RB currently)) (RB not) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN localization))) (S (VP (VBG using) (NP (DT a) (JJ thermal) (NN camera))))))) (. .))

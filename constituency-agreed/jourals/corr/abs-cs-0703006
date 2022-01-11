@@ -1,0 +1,2 @@
+(S (ADVP (RB So) (RB far)) (, ,) (NP (NP (NNP EqSatz)) (PP (IN by) (NP (NNP Li)))) (VP (VBZ is) (NP (NP (DT the) (JJ only) (NN solver)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB solve) (NP (DT this) (NN problem)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT This) (NN solver)) (VP (VBZ is) (ADJP (RB very) (JJ slow))) (. .))

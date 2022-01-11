@@ -1,0 +1,1 @@
+(S (NP (NNP Bitcoin)) (VP (VBZ provides) (NP (NN freshness) (NNS properties)) (PP (IN by) (S (VP (VBG forming) (NP (NP (DT a) (NN blockchain)) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN block)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (PRP$ its) (NN timestamp)) (CC and) (NP (DT the) (JJ previous) (NN block))))))))))))) (. .))

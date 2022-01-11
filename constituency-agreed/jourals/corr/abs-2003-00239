@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB minimize) (NP (NP (NN complexity)) (PP (IN of) (NP (NN channel) (NN coding))))))) (, ,) (NP (PRP we)) (VP (VBP complement) (NP (DT a) (JJ generic) (JJ low) (NN complexity) (NNP FEC) (NN code)) (PP (IN by) (NP (DT a) (JJ low) (NN complexity) (NN sRLNC)))) (. .))

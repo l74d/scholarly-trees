@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS trajectories)) (VP (VBP are) (ADVP (RB then)) (VP (VBN transformed) (PP (IN into) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN feature) (NNS spaces))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ final) (NN step))) (, ,) (NP (DT a) (NN voting) (NN mechanism)) (VP (VBZ identifies) (NP (NP (DT the) (NNS trajectories)) (SBAR (WHNP (WDT that)) (S (VP (VBP exhibit) (NP (JJ anomalous) (NNS characteristics))))))) (. .))

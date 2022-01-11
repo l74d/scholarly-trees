@@ -1,0 +1,5 @@
+(S (NP (NN Credit) (NNS Scores)) (VP (VBP are) (ADJP (JJ ubiquitous) (CC and) (JJ instrumental)) (PP (IN for) (NP (NN loan) (NNS providers) (CC and) (NNS regulators)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP showcase) (SBAR (WHADVP (WRB how)) (S (NP (JJ micro-loan) (NN credit) (NN system)) (VP (MD can) (VP (VB be) (VP (VBN developed) (PP (IN in) (NP (JJ real) (NN setting))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHNP (WP what)) (S (NP (NNS challenges)) (VP (VBP arise) (CC and) (VBP discuss) (NP (NNS solutions)))))) (. .))
+(S (ADVP (RB Particularly)) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ concerned) (PP (IN about) (NP (NML (NML (NN model) (NN interpretability)) (CC and) (NML (NNS data))) (NN quality))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ final) (NN section))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (JJ semi-supervised) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ aids) (NP (NN model) (NN development))) (CC and) (VP (VB evaluate) (NP (PRP$ its) (NN performance)))))))))

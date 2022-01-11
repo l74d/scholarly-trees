@@ -1,0 +1,4 @@
+(S (NP (DT This)) (ADVP (RB also)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB address) (NP (JJ discontinuous) (NN permeability)))))) (. .))
+(S (NP (NP (DT The) (NN matrix) (NN representation)) (PP (IN for) (NP (PRP$ our) (JJ discrete) (JJ non-homogeneous) (NNP Hodge) (NN star)))) (VP (VBZ is) (ADJP (JJ diagonal)) (, ,) (PP (IN with) (NP (JJ positive) (JJ diagonal) (NNS entries)))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (JJ numerical) (NN method)))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN on) (NP (JJ many) (JJ standard) (NN test) (NNS problems))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (NP (NP (JJ numerical) (NN evidence)) (PP (IN of) (NP (NP (NN convergence)) (PP (IN of) (NP (NP (DT the) (NN flux)) (CC and) (NP (DT the) (NN pressure)))))))) (. .))

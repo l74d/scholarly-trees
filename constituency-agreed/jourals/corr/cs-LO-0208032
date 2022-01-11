@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (CD one) (NN level))) (NP (PRP we)) (VP (VBP have) (NP (DT the) (JJ usual) (NN program) (NN execution))) (. .))
+(S (PP (IN At) (NP (DT the) (JJ other) (NN level))) (NP (NP (DT an) (JJ automatic) (NN maintenance)) (PP (IN of) (NP (DT the) (NN constraint) (NN store)))) (VP (VBZ takes) (NP (NN place))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN image)) (PP (IN of) (NP (NP (DT the) (NN cone)) (PP (IN of) (NP (NP (JJ positive) (JJ semidefinite) (NNS matrices)) (PP (IN under) (NP (DT a) (JJ linear) (NN map)))))))) (VP (VBZ is) (NP (DT a) (JJ convex) (NN cone))) (. .))
+(S (NP (NNP Pataki)) (VP (VBD characterized) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ linear) (NNS maps)))) (PP (IN for) (NP (NP (WDT which)) (SBAR (WHNP (WDT that) (NN image)) (S (VP (VBZ is) (RB not) (VP (VBN closed)))))))) (. .))
+(S (NP (NP (DT The) (NNP Zariski) (NN closure)) (PP (IN of) (NP (DT this) (NN set)))) (VP (VBZ is) (NP (NP (DT a) (NN hypersurface)) (PP (IN in) (NP (DT the) (NNP Grassmannian))))) (. .))
+(S (NP (PRP$ Its) (NNS components)) (VP (VBP are) (NP (NP (DT the) (JJ coisotropic) (NNS hypersurfaces)) (PP (IN of) (NP (JJ symmetric) (JJ determinantal) (NNS varieties))))) (. .))
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT the) (NN convex) (JJ algebraic) (NN geometry)) (PP (IN of) (NP (JJ such) (JJ bad) (NNS projections)))) (, ,) (PP (IN with) (NP (NP (NN focus)) (PP (IN on) (NP (JJ explicit) (NNS computations)))))) (. .))

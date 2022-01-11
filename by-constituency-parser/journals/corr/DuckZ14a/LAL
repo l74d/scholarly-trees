@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (NNS correspondences))) (VP (VBP have) (VP (VBN been) (VP (VBN provided) (SBAR (WHNP (IN that)) (S (VP (JJ associate) (NP (NP (DT any) (JJ linear) (NN code)) (PP (IN over) (NP (DT a) (JJ finite) (NN field)))) (PP (IN with) (NP (DT a) (JJ binomial) (NN ideal))))))))) (. .))
+(S (PP (TO To) (NP (DT this) (NN end))) (, ,) (NP (NP (DT a) (NN connection)) (PP (IN between) (NP (NP (DT these) (JJ binomial) (NNS ideals)) (CC and) (NP (JJ toric) (NNS ideals))))) (VP (MD will) (VP (VB be) (VP (VBN established)))) (. .))

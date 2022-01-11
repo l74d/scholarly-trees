@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (DT the) (NNS constraints)) (VP (VBP are) (ADJP (JJ global))))) (, ,) (NP (DT the) (JJ algorithmic) (NNS steps)) (VP (VBP are) (VP (VBN based) (ADVP (RB entirely)) (PP (IN on) (NP (JJ local) (NN information))) (, ,) (S (VP (VBG facilitating) (NP (VBN distributed) (NNS implementations)))))) (. .))
+(S (PP (IN With) (NP (ADJP (RB very) (JJ few)) (NNS exceptions))) (, ,) (NP (DT the) (NNP Potts) (NN approach)) (VP (VBZ gives) (NP (NP (JJ legal) (NNS solutions)) (PP (IN of) (NP (ADJP (RB very) (JJ high)) (NN quality))))) (. .))

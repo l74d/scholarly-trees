@@ -1,0 +1,3 @@
+(S (ADVP (RB Only) (RB recently)) (, ,) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS properties)))) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB define) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NP (NNS functions)) (VP (VBG representing) (NP (NN inconsistency) (NNS indices)))))))))))) (. .))
+(S (NP (NP (DT The) (NN scope)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (ADJP (JJ twofold))) (. .))
+(S (PP (IN Out) (PP (IN of) (NP (NP (DT the) (CD four) (NNS indices)) (VP (VBN considered) (PP (IN in) (NP (DT this) (NN paper))))))) (, ,) (PP (IN in) (NP (PRP$ its) (JJ present) (NN form))) (, ,) (NP (CD two)) (VP (VBP fail) (S (VP (TO to) (VP (VB satisfy) (NP (DT some) (NNS properties)))))) (. .))

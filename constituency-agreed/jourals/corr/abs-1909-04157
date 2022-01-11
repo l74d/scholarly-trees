@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (JJ auxiliary) (NN loss)) (ADVP (RB also)) (VP (VBZ works) (PP (IN as) (NP (NP (DT a) (NN regularizer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ improves) (NP (NP (DT the) (NN generalization) (NN capacity)) (PP (IN of) (NP (DT the) (NN network)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD tested) (NP (DT the) (JJ acoustic) (NN model)) (S (VP (VBG using) (NP (NP (NNS data)) (VP (VBN collected) (PP (IN from) (NP (CD 4) (NNS scenarios)))))))) (. .))

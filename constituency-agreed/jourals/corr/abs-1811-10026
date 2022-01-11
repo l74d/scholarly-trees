@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN test) (JJ facial) (NN triangle)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN generated) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN saliency) (NN map)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB compare) (PP (IN with) (NP (DT the) (JJ standard) (JJ facial) (NN triangle))))))))))))))) (. .))
+(S (NP (DT The) (NNS experiments) (CC and) (NNS comparisons)) (VP (VBP prove) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN framework))))) (. .))

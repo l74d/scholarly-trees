@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Queries)) (PP (IN on) (NP (NP (DT a) (NN page)) (SBAR (WHNP (WDT that)) (S (VP (VBZ opens) (PRT (RP up)) (NP (DT another)))))))) (VP (MD will) (VP (VB fail) (SBAR (IN if) (S (NP (NP (DT any)) (PP (IN of) (NP (NP (DT that) (NN page) (POS 's)) (NNS microservices)))) (VP (VBZ fails)))))) (. .))

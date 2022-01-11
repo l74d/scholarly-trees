@@ -1,0 +1,3 @@
+(S (NP (DT The) (VBG existing) (NN literature)) (VP (VBZ has) (VP (VBN shown) (NP (NP (DT the) (NN ambiguity)) (PP (IN of) (S (VP (VBG translating) (NP (NN view) (NNS updates)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN implemented) (NP (PRP$ our) (VBN proposed) (NN approach)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN framework)) (VP (VBZ is) (ADJP (JJ feasible) (CC and) (JJ efficient)) (PP (IN in) (NP (NN practice))))))) (. .))

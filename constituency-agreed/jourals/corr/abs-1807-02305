@@ -1,0 +1,2 @@
+(S (NP (NP (NN Sentence) (NN scoring)) (CC and) (NP (NN sentence) (NN selection))) (VP (VBP are) (NP (NP (CD two) (JJ main) (NNS steps)) (PP (IN in) (NP (JJ extractive) (NN document) (NN summarization) (NNS systems))))) (. .))
+(S (NP (PRP It)) (ADVP (RB first)) (VP (VBZ reads) (NP (DT the) (NN document) (NNS sentences)) (PP (IN with) (NP (DT a) (JJ hierarchical) (NN encoder))) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (NNS sentences)))))))) (. .))

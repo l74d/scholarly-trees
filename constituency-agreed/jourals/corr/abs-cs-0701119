@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN framework)) (PP (IN for) (NP (NP (NN simulation)) (PP (IN of) (NP (NP (NNS dynamics)) (PP (IN of) (NP (JJ mechanical) (NNS aggregates)))))))) (VP (VBZ has) (VP (VBN been) (VP (VBN developed)))) (. .))
+(S (NP (DT This) (NN framework)) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB build) (NP (NP (NN model)) (PP (IN of) (NP (NN aggregate)))) (PP (IN from) (NP (NP (NNS models)) (PP (IN of) (NP (PRP$ its) (NNS parts))))))))) (. .))

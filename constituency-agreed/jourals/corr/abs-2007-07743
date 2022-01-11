@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (IN that) (S (PP (IN with) (NP (NP (ADJP (RB significantly) (JJR lower)) (NN precision)) (PP (IN in) (NP (DT the) (JJ last) (NNS layers))))) (NP (PRP we)) (VP (VBP achieve) (NP (NP (DT a) (JJ minimal) (NN loss)) (PP (IN of) (NP (NN accuracy)))) (PP (IN with) (NP (JJ appreciable) (NN memory) (NNS savings))))))) (. .))

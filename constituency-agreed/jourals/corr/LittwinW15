@@ -1,0 +1,1 @@
+(S (ADVP (RB Interestingly)) (, ,) (NP (NP (DT the) (NN softmax) (NNS probabilities)) (VP (VBN produced) (PP (IN by) (NP (DT the) (JJ multiple) (NNS classifiers))))) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (ADJP (JJ identical))))))) (. .))

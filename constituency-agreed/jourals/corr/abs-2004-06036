@@ -1,0 +1,2 @@
+(S (NP (NNP Cedric) (NNP Smith)) (VP (VBD proved) (PP (IN in) (NP (CD 1946))) (, ,) (S (VP (VBG using) (NP (DT a) (JJ non-constructive) (NN parity) (NN argument)))) (, ,) (SBAR (IN that) (S (NP (PDT such) (DT a) (JJ second) (JJ Hamiltonian) (NN cycle)) (ADVP (RB always)) (VP (VBZ exists))))) (. .))
+(S (NP (DT This) (NN approximation) (NN result)) (ADVP (RB also)) (VP (VBZ improves) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (DT the) (NN art))))) (. .))

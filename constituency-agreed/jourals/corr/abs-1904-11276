@@ -1,0 +1,2 @@
+(S (NP (NN Detection) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN by) (NP (DT the) (NNS thousands))) (SBAR (IN because) (S (NP (DT each) (NN problem)) (VP (VBZ requires) (NP (DT a) (JJ different) (NN background) (NN model)))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VP (VBZ is) (ADVP (RB therefore)) (ADJP (JJ unsupervised))) (CC and) (VP (VBZ works) (PP (IN on) (NP (JJ arbitrary) (NNS images))))) (. .))

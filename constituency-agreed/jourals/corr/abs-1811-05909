@@ -1,0 +1,1 @@
+(S (ADVP (RB Accordingly)) (, ,) (NP (PRP we)) (VP (VBD used) (NP (JJ synthetic) (NNS data)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN translation) (NN quality)) (VP (VBN produced) (PP (IN by) (NP (NP (DT a) (NN model)) (VP (VBN built) (S (VP (VBG using) (NP (RB only) (JJ authentic) (NNS data))))))))))))) (. .))

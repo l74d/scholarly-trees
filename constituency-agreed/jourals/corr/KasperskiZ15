@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (JJ discrete) (NN optimization) (NNS problems)) (PP (IN with) (NP (JJ uncertain) (NNS costs)))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (NP (NP (DT A) (NN probability) (NN distribution)) (PP (IN in) (NP (DT the) (NN scenario) (NN set)))) (VP (VBZ is) (ADJP (JJ available))) (. .))

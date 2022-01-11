@@ -1,0 +1,2 @@
+(S (NP (NN Generalization)) (VP (VBZ is) (ADJP (JJ essential) (PP (IN for) (NP (JJ deep) (NN learning))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP validate) (NP (DT the) (VBN proposed) (NN theory)) (PP (IN on) (NP (DT a) (JJ synthetic) (NN dataset)))))

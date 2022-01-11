@@ -1,0 +1,2 @@
+(S (NP (NP (NN Estimation)) (PP (IN of) (NP (NP (JJ semantic) (NN similarity) (CC and) (NN relatedness)) (PP (IN between) (NP (JJ biomedical) (NNS concepts)))))) (VP (VBZ has) (NP (NP (NN utility)) (PP (IN for) (NP (JJ many) (NNS informatics) (NNS applications))))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (PRP it)) (PP (IN on) (NP (DT the) (NNP UMNSRS) (NN benchmark)))) (. .))

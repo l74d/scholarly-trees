@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT some) (JJ nonparametric) (NNS methods)) (PP (IN for) (NP (JJ graphical) (NN modeling))))) (. .))
+(S (NP (JJ Continuous) (NNS data)) (VP (VBP are) (ADJP (JJ different))) (. .))
+(S (NP (NP (NNS Examples)) (PP (IN of) (NP (DT both) (NNS methods)))) (VP (VBP are) (VP (VBN presented))) (. .))

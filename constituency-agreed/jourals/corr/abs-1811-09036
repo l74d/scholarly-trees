@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (VBG existing) (NNS applications)) (ADVP (RB often)) (VP (VBP require) (NP (NP (NP (JJ large) (NNS data) (NNS sets)) (PP (IN for) (NP (NN training)))) (, ,) (CC or) (NP (JJ sophisticated) (NN pretraining) (NNS schemes)))) (. .))

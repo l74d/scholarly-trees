@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NN issue)) (PP (IN of) (S (VP (VBG speeding) (PRT (RP up)) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (JJ convolutional) (NNS networks))))))))) (. .))
+(S (NP (DT The) (JJ parallel) (NN optimization) (NN setup)) (VP (VBZ uses) (NP (NP (JJ several) (NNS threads)) (, ,) (NP (NP (DT each)) (VP (VBG applying) (NP (JJ individual) (NN gradient) (NNS descents)) (PP (IN on) (NP (DT a) (JJ local) (NN variable))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT A) (NN keyboard)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN input) (NN device)) (PP (IN for) (NP (DT a) (NN computer))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN used) (PP (IN with) (NP (NP (JJ various) (NNS types) (CC and) (NNS sizes)) (PP (IN of) (NP (NN computer))))))) (. .))
+(S (NP (EX There)) (VP (VBZ is) (NP (DT a) (NN need) (S (VP (TO to) (VP (VB develop) (NP (JJ special) (NNS keyboards)) (S (VP (TO to) (VP (VB meet) (NP (JJ special) (NNS requirements)))))))))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ illustrates) (NP (NP (CD 10) (NNS inventions)) (PP (IN on) (NP (NP (JJ special) (NNS types)) (PP (IN of) (NP (NNS keyboards))))))) (. .))

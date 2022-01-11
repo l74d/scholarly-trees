@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (JJ many) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB accelerate) (NP (NP (DT the) (JJ computational) (NN time)) (PP (IN of) (NP (JJ spectral) (NN clustering)))))))))) (. .))
+(S (ADVP (RB Instead)) (NP (PRP it)) (VP (VBZ uses) (NP (NP (JJ random) (NN projection)) (CC and) (NP (DT a) (JJ linear) (NN time) (NN solver))) (S (VP (TO to) (VP (VB find) (NP (DT the) (JJ approximate) (NN embedding)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (ADJP (RB particularly) (JJ useful)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (DT the) (NN user)))) (VP (VBP are) (ADJP (JJ busy) (PP (IN with) (NP (NP (JJ other) (NNS activities)) (PP (IN like) (S (VP (VBG driving) (NP (DT a) (NN car)))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NNP VRS) (NN system)) (VP (VBZ has) (NP (JJ several) (NNS limitations))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ parametric) (NN model)) (PP (IN for) (NP (JJ dynamic) (NNS textures))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (VP (TO to) (VP (VB synthesise) (NP (NP (JJ new) (NNS samples)) (PP (IN of) (NP (JJ dynamic) (NNS textures)))))) (CC and) (VP (TO to) (VP (VB predict) (NP (NN motion)) (PP (IN in) (NP (JJ simple) (NNS movies))))))))))))) (. .))

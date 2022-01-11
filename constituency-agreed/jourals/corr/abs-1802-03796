@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN task)) (VP (VBZ is) (VP (VBN made) (S (ADJP (RBR more) (JJ difficult))))))) (, ,) (NP (NP (NN improvement)) (PP (IN in) (NP (NN generalization) (NN performance)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN observed))) (. .))

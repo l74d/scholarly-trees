@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN strategy)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (S (VP (VP (TO to) (VP (VB complete) (NP (JJ partial) (NN student) (NNS solutions)))) (, ,) (CC and) (ADVP (RB hence)) (VP (TO to) (VP (VB provide) (NP (NP (NNS hints)) (CC or) (NP (JJ next) (NNS steps)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NNS constraints)) (S (VP (TO to) (VP (VB provide) (NP (NN feedback)))))) (. .))

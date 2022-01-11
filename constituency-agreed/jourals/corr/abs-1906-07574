@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN output)) (VP (VBN obtained))) (VP (VBZ is) (ADJP (JJ consistent) (PP (IN with) (NP (NP (NNP Mathematica) (POS 's)) (NN notation))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NNS commands)))) (VP (VBP are) (VP (VBN discussed) (PP (IN by) (S (VP (VBG using) (NP (DT some) (JJ illustrative) (NNS examples))))))) (. .))

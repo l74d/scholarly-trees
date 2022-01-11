@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT the) (NN status) (NNS updates)) (VP (VBP are) (VP (VBN generated) (ADVP (RB randomly)) (PP (IN as) (NP (DT a) (NNP Poisson) (NN process)))))))) (. .))

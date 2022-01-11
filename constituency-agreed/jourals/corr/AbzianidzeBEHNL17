@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS steps)) (VP (VBP are) (VP (VBN performed) (S (VP (VBG using) (NP (NP (JJ statistical) (NNS models)) (VP (VBN trained) (PP (IN in) (NP (DT a) (JJ semi-supervised) (NN manner))))))))) (. .))

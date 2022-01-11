@@ -1,0 +1,2 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (PRP$ its) (NN accuracy)) (VP (MD will) (VP (VB be) (ADVP (RB undoubtedly)) (VP (VBN affected) (PP (IN by) (NP (NN motion) (NNS artifacts)))))) (. .))
+(S (ADVP (RB Thereafter)) (, ,) (NP (DT the) (JJ dominant) (NN frequency)) (VP (VBZ is) (VP (VBN obtained) (PP (IN in) (NP (DT a) (JJ particular) (NN frequency) (NN range))))) (. .))

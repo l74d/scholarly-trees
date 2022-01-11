@@ -1,0 +1,2 @@
+(S (NP (JJ Adversarial) (NN training)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS defenses)) (PP (IN against) (NP (JJ adversarial) (NNS attacks))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (NN normalization))))) (. .))

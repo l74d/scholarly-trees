@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN production)) (PP (IN of) (NP (NP (JJ efficient) (NNS descriptions)) (PP (IN of) (NP (NNS objects) (, ,) (NNS actions) (CC and) (NNS events)))))))) (. .))
+(S (NP (DT The) (NN representation)) (VP (MD must) (VP (VB support) (NP (NP (NP (DT the) (NN generator) (POS 's)) (JJ simultaneous) (NN consideration)) (PP (IN of) (NP (NN syntax) (CC and) (NNS semantics)))))) (. .))

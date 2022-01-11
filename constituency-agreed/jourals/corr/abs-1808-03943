@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NN network) (NNS nodes)) (VP (MD can) (VP (VB sample) (PP (PP (IN at) (NP (JJ independent) (NNS rates))) (CC and) (PP (IN in) (NP (DT an) (JJ aperiodic) (NN manner)))))) (. .))
+(S (NP (DT The) (NN analysis)) (VP (VBZ is) (VP (VBN substantiated) (PP (IN by) (NP (JJ extensive) (JJ numerical) (NNS simulations))))) (. .))

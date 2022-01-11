@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ experimental) (NN evaluation)) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (JJ new) (NN model)) (VP (MD can) (VP (VB generate) (NP (ADJP (RB semantically) (JJ meaningful)) (NNS expressions)) (, ,) (S (VP (VBG outperforming) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (JJ strong) (NNS baselines))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PDT All) (DT the) (NNS conditions)) (VP (VBP are) (VP (VBN stated) (PP (IN as) (NP (NP (JJ linear) (NNS programs)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB very) (RB efficiently))))))))))) (. .))
+(S (NP (CD Two) (NNS examples)) (VP (VBP are) (VP (VBN given) (PP (IN for) (NP (NN illustration))))) (. .))

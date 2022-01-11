@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ uses) (NP (DT a) (JJ metric) (NN space)) (S (VP (TO to) (VP (VB model) (NP (NP (DT the) (JJ hidden) (NNS attributes)) (PP (IN of) (NP (DT the) (NNS vertices)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (SBAR (IN that) (S (NP (DT this) (NN distribution)) (VP (VBZ has) (NP (CD three) (JJ different) (NNS regimes))))) (, ,) (CC and) (SBAR (IN that) (S (NP (NP (DT the) (NN tail)) (PP (IN of) (NP (DT this) (NN distribution)))) (VP (VBZ follows) (NP (DT a) (NN power) (NN law))))))) (. .))

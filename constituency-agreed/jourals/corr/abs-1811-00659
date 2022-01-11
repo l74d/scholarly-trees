@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN phenomenon)) (VP (VBZ coexists) (PP (IN with) (NP (NP (NN dropout)) (, ,) (NP (DT an) (JJ explicit) (NN regularizer))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (PP (PP (IN under) (NP (JJ limited) (NN training) (NNS samples))) (CC or) (PP (IN with) (NP (JJ certain) (JJ corrupted) (NNS labels)))) (, ,) (NP (DT the) (JJ implicit) (NN regularization) (NN effect)) (VP (VBZ remains) (ADJP (JJ strong))) (. .))

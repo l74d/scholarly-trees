@@ -1,0 +1,2 @@
+(S (S (VP (VBN Inspired) (PP (IN by) (NP (NP (DT the) (JJ isoparametric) (NN principle)) (PP (IN of) (NP (NNP IGA))))))) (, ,) (NP (NP (DT the) (NN parameterization)) (CC and) (NP (DT the) (VBG governing) (NN state) (NN equation))) (VP (VBP are) (VP (VBN treated) (S (VP (VBG using) (NP (DT the) (JJ same) (JJ numerical) (NN technique)))))) (. .))
+(S (NP (DT The) (NN scheme)) (VP (VBZ is) (VP (VBN validated) (PP (IN in) (NP (CD two) (NN test) (NNS cases))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (PRP$ our) (NN model))) (, ,) (NP (DT a) (JJ dynamic) (NN path) (NN network)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT an) (JJ undirected) (NN path)) (PP (IN with) (NP (NP (JJ positive) (NN edge) (NNS lengths)) (, ,) (NP (JJ uniform) (NN edge) (NN capacity)) (, ,) (CC and) (NP (JJ positive) (NN vertex) (NNS supplies))))))) (. .))

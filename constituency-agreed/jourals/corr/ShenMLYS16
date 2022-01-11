@@ -1,0 +1,3 @@
+(S (ADVP (RB Conventionally)) (, ,) (NP (JJ compact) (NN hash) (NNS codes)) (VP (VBP are) (ADVP (RB primarily)) (VP (VBN used) (PP (IN for) (S (VP (VBG accelerating) (NP (NN image) (NN search))))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (JJ multi-class) (NN image) (NN classification)) (PP (IN as) (NP (NP (DT an) (NN optimization) (NN problem)) (PP (IN over) (NP (JJ binary) (NNS variables)))))) (. .))
+(S (NP (DT The) (NN optimization)) (ADVP (RB alternatively)) (VP (VBZ proceeds) (PP (IN over) (NP (NP (DT the) (JJ binary) (NNS classifiers)) (CC and) (NP (NN image) (NN hash) (NNS codes))))) (. .))

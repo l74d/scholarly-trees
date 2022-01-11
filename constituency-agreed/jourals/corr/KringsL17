@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ important) (NN aspect)) (VP (VBZ is) (VP (VBG detecting) (SBAR (SBAR (WHADVP (WRB when)) (S (NP (NN enumeration)) (VP (VBD was) (ADJP (JJ complete))))) (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ has) (NP (NP (DT an) (NN impact)) (PP (IN on) (NP (NP (DT the) (NN soundness)) (PP (IN of) (NP (DT the) (NN result)))))))))))) (. .))

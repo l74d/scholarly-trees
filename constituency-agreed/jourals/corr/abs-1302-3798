@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (DT a) (JJ finite) (NN automaton)) (VP (VBZ is) (VP (VBN equipped) (PP (IN with) (NP (NP (DT a) (NN storage) (NN mechanism)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (DT a) (NN monoid))))))))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ presents) (NP (NP (NNS generalizations)) (PP (IN of) (NP (NP (VBN known) (NNS results)) (PP (IN on) (NP (JJ silent) (NNS transitions))))))) (. .))

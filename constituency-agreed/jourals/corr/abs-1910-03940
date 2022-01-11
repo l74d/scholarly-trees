@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN study)) (VP (VBZ is) (S (VP (TO to) (VP (VB review) (NP (NP (DT the) (NNS approaches)) (VP (VBN used) (PP (IN for) (S (VP (VBG measuring) (NP (NNS sentences) (NN similarity))))))))))) (. .))
+(S (NP (NP (DT The) (NNS approaches)) (SBAR (WHNP (WDT that)) (S (VP (VBP combine) (NP (QP (JJR more) (IN than) (CD one)) (NN perspective)))))) (VP (VB give) (NP (JJR better) (NNS results))) (. .))

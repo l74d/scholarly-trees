@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ adversarial) (NN learning) (NN process)) (VP (VBZ is) (ADVP (RB therefore)) (VP (VBN established) (S (VP (TO to) (VP (VB optimize) (NP (NP (NN student) (NN generator)) (CC and) (NP (NN student) (NN discriminator)))))))) (. .))

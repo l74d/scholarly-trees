@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NNP DeLP))) (NP (DT an) (NN argumentation) (NN formalism)) (VP (MD will) (VP (VB be) (VP (VBN used) (PP (IN for) (S (VP (VBG deciding) (PP (IN between) (NP (JJ contradictory) (NNS goals))))))))) (. .))
+(S (NP (NNS Queries)) (VP (MD will) (VP (VB be) (VP (VBN supported) (PP (IN by) (NP (NP (NNS arguments)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB be) (VP (VBN defeated) (PP (IN by) (NP (JJ other) (NNS arguments))))))))))))) (. .))

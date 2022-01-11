@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN learning)) (PP (IN of) (NP (JJ appropriate) (NN distance) (NNS metrics)))) (VP (VBZ is) (NP (NP (DT a) (JJ critical) (NN problem)) (PP (IN in) (NP (NN image) (NN classification) (CC and) (NN retrieval))))) (. .))
+(S (NP (NNP Semidefinite) (NN programming)) (VP (VP (VBZ is) (ADVP (RB sometimes)) (VP (VBN used) (S (VP (TO to) (VP (VB enforce) (NP (DT this) (NN constraint))))))) (, ,) (CC but) (VP (VBZ does) (RB not) (VP (VB scale) (ADVP (RB well))))) (. .))

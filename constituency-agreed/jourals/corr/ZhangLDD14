@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ influential) (NNS nodes)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN identified) (PP (IN by) (NP (DT the) (JJ local) (NN structure) (NN entropy)))))))) (VP (VBP are) (NP (NP (DT the) (JJ intermediate) (NNS nodes)) (PP (IN in) (NP (DT the) (NN network))))) (. .))
+(S (PP (IN In) (NP (DT the) (NNP SI) (NN model))) (NP (DT the) (NNS nodes)) (VP (VBP use) (PP (IN as) (NP (NP (DT the) (NN source)) (PP (IN of) (NP (NN infection)))))) (. .))

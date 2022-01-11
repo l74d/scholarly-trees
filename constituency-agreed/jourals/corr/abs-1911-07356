@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB check) (NP (DT this) (NN equivalence)) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))
+(S (NP (JJ Theoretical) (NNS guarantees)) (VP (VBP are) (VP (VBN provided) (PP (IN for) (NP (JJ special) (NNS cases))))) (. .))

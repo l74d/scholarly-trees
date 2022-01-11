@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ weighted) (NNP Borda) (NN method)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG combining) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (CD three) (NNS methods))))))))) (. .))
+(S (NP (DT An) (NN example)) (VP (VBZ shows) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

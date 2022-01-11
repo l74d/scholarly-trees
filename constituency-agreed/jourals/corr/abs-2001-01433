@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (PP (IN from) (NP (DT an) (JJ imbalanced) (NN dataset))))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (JJ practical) (NNS problems)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN machine) (NN learning))))))))) (. .))
+(S (NP (NP (DT The) (NN idea)) (PP (IN of) (NP (NNP WBN)))) (VP (VBZ is) (ADJP (JJ simple) (CC and) (JJ natural))) (. .))

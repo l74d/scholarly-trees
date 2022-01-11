@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (PRP$ our) (NN model))) (, ,) (NP (NP (DT the) (NNS rewards)) (PP (IN for) (NP (DT all) (NNS arms)))) (VP (VP (VBP are) (ADVP (RB initially)) (VP (VBN drawn) (PP (IN from) (NP (DT a) (NN distribution))))) (CC and) (VP (VBP are) (ADVP (RB then)) (VP (VBN altered) (PP (IN by) (NP (DT an) (JJ adaptive) (NN adversary)))))) (. .))

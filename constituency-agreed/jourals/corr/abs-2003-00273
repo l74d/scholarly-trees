@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ contends) (NP (NP (DT a) (JJ novel) (NN role)) (PP (IN of) (NP (DT the) (NN discriminator)))) (PP (IN by) (S (VP (VBG reusing) (NP (PRP it)) (PP (IN for) (S (VP (VBG encoding) (NP (NP (DT the) (NNS images)) (PP (IN of) (NP (DT the) (NN target) (NN domain))))))))))) (. .))
+(S (NP (JJ Comprehensive) (NN ablation) (NNS studies)) (VP (VBP are) (ADVP (RB also)) (VP (VBN carried) (PRT (RP out)) (S (VP (TO to) (VP (VB isolate) (NP (NP (DT the) (NN validity)) (PP (IN of) (NP (DT each) (VBN proposed) (NN component))))))))) (. .))

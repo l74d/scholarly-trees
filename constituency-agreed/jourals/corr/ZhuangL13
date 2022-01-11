@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN problem)) (VP (VBZ is) (ADJP (JJ non-convex)))) (CC and) (S (S (VP (VBG solving) (NP (PRP it)))) (VP (VBZ requires) (NP (JJ combinatorial) (NN search)))) (. .))

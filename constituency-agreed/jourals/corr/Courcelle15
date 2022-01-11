@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS constructions)) (VP (VBP are) (ADVP (RB actually)) (ADJP (JJ implementable) (CC and) (JJ usable))) (. .))
+(S (NP (PRP We)) (VP (VBP detail) (NP (NP (JJ concrete) (NNS constructions)) (PP (IN of) (NP (NN automata)))) (PP (IN in) (NP (DT this) (NN perspective)))) (. .))

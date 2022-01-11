@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT a) (NN recommender) (NN system))) (, ,) (NP (DT a) (NN user)) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN recommended) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (NNS items)))))) (. .))
+(S (SBAR (IN Since) (S (NP (DT the) (NN user)) (VP (VBZ is) (ADJP (JJ unlikely) (S (VP (TO to) (VP (VB examine) (NP (DT the) (JJ entire) (JJ recommended) (NN list))))))))) (, ,) (NP (JJ partial) (NN feedback)) (VP (VBZ arises) (ADVP (RB naturally))) (. .))

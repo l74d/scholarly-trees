@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (JJ many) (NNS applications)) (PP (IN of) (NP (JJ autonomous) (JJ mobile) (NNS robots))))) (NP (DT the) (JJ following) (NN problem)) (VP (VBZ is) (VP (VBN encountered))) (. .))
+(S (S (VP (TO To) (VP (VB benefit) (PP (IN from) (NP (NP (DT all) (JJ available) (NN information)) (PP (IN in) (NP (DT both) (NNS maps)))))))) (, ,) (NP (DT the) (NN robot)) (VP (MD must) (VP (VB find) (NP (NP (DT the) (JJ correct) (NN alignment)) (PP (IN between) (NP (DT the) (CD two) (NNS maps)))))) (. .))

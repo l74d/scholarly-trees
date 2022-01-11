@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD performed) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NNS experiments))))) (. .))
+(S (PP (IN For) (NP (NNP High) (NNP Energy) (NNP Physics))) (NP (DT this)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (JJ numerical) (NNS integrations)) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (NP (NNS weeks)))))) (VP (MD can) (ADVP (RB now)) (VP (VB be) (VP (VBN done) (PP (IN in) (NP (NNS hours))))))))) (. .))

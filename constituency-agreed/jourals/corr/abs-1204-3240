@@ -1,0 +1,2 @@
+(S (S (NP (DT These) (NNS data) (NNS structures)) (VP (VBP have) (ADVP (RB often)) (NP (NP (DT the) (NN character)) (PP (IN of) (NP (NNS trees)))))) (CC or) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN encoded) (PP (IN as) (NP (NP (NNS trees)) (PP (IN with) (NP (DT some) (JJ additional) (NNS pointers))))))))) (. .))
+(S (ADVP (RB Thus)) (NP (NP (DT the) (NN aim)) (PP (IN of) (NP (NP (DT this) (NNP Master) (POS 's)) (NN Thesis)))) (VP (VBZ is) (S (VP (TO to) (VP (VB provide) (NP (PDT such) (DT a) (NN library)))))) (. .))

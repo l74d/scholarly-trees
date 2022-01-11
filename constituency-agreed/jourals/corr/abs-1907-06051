@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBD was) (ADVP (RB recently)) (VP (VBN shown) (SBAR (IN that) (S (NP (DT this) (NN test)) (VP (MD can) (RB not) (VP (VB identify) (NP (NP (JJ fundamental) (NN graph) (NNS properties)) (PP (JJ such) (IN as) (NP (NP (NN connectivity)) (CC and) (NP (NN triangle) (NN freeness))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN architecture)) (VP (MD can) (VP (VB identify) (NP (JJ fundamental) (NN graph) (NNS properties))))))) (. .))

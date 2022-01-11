@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT a) (JJ generative) (JJ adversarial) (NN network)) (VP (VBZ is) (VP (VBN integrated) (PP (IN into) (NP (PRP$ our) (NN network) (NN framework))) (S (VP (TO to) (VP (VP (VB augment) (NP (JJ positive) (NNS samples))) (CC and) (VP (VB improve) (NP (DT the) (NN tracking) (NN performance)))))))) (. .))

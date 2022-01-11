@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ matching) (NN number)) (PP (IN of) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NP (NNS subsets)) (PP (IN of) (NP (DT an) (ADJP ($ $) (JJ n) ($ $) (JJ -element)) (NN set)))))))) (VP (VBZ is) (NP (NP (DT the) (JJ maximum) (NN number)) (PP (IN of) (NP (JJ pairwise) (NN disjoint) (NNS sets))))) (. .))
+(S (NP (NP (DT The) (NNS families)) (PP (IN with) (NP (VBG matching) (NN number) (QP ($ $) (CD 1) ($ $))))) (VP (VBP are) (VP (VBN called) (S (NP (NN intersecting))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (JJ degree) (NNS versions)) (PP (IN of) (NP (DT both) (NNS theorems))))) (. .))

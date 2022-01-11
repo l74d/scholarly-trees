@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN situation)) (ADVP (RB often)) (VP (VBZ arises) (PP (IN in) (NP (NP (NN semi-discretization)) (PP (IN of) (NP (JJ partial) (JJ differential) (NNS equations))))))) (CC and) (S (NP (JJ many) (JJ such) (NNP IMEX) (NNS schemes)) (VP (VBP have) (VP (VBN been) (VP (VBN considered) (PP (IN in) (NP (DT the) (NN literature))))))) (. .))

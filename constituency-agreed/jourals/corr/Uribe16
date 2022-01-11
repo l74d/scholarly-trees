@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN method)) (PP (IN for) (S (VP (VBG analyzing) (NP (JJ algorithmic) (NN runtime) (NN complexity)) (S (VP (VBG using) (NP (NN decision) (NNS trees)))))))) (VP (VBZ is) (VP (VBN discussed) (S (VP (VBG using) (NP (DT the) (VBG sorting) (NN algorithm)))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB find) (NP (DT the) (JJ optimal) (NNS thresholds))))) (, ,) (NP (DT the) (NN problem)) (VP (VBZ is) (VP (VBN formulated) (PP (IN as) (NP (DT a) (JJ multidimensional) (JJ multi-armed) (NN bandit) (NN system))))) (. .))

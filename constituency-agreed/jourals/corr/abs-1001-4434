@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS rules)) (VP (VBP perform) (NP (JJ nondeterministic) (NNS transformations)) (PP (IN on) (NP (NNS hedges)))) (. .))
+(S (PP (IN With) (NP (NN strategy) (NNS combinators))) (, ,) (NP (DT the) (NN user)) (VP (MD can) (VP (VB construct) (NP (ADJP (RBR more) (JJ complex)) (NNS strategies)) (PP (IN from) (NP (JJR simpler) (NNS ones))))) (. .))

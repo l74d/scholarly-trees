@@ -1,0 +1,5 @@
+(S (NP (JJ Many) (NNS authors)) (VP (VBP have) (VP (VBN presented) (NP (JJ several) (NN calibration) (NNS algorithms)) (PP (IN with) (NP (PRP$ their) (JJ relative) (NNS advantages) (CC and) (NNS disadvantages))))) (. .))
+(S (PP (IN In) (NP (DT a) (NN stereovision) (NN system))) (, ,) (NP (JJ multiple) (NN view) (NN reconstruction)) (VP (VBZ is) (NP (DT a) (JJ challenging) (NN task))) (. .))
+(S (PP (IN In) (NP (NN computer) (NN vision) (NN aspect))) (, ,) (NP (DT this) (NN situation)) (VP (VBZ is) (ADJP (JJ undesirable))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN done) (NP (PRP it)) (PP (IN in) (NP (DT an) (JJ elegant) (NN fashion))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (NN camera) (NNS parameters)) (VP (VBP are) (VP (VBN calculated) (PP (IN in) (NP (PRP$ its) (JJ local) (NN coordinate) (NN system))))) (. .))

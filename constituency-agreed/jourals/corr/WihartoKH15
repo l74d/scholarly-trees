@@ -1,0 +1,2 @@
+(S (NP (JJ Coronary) (NN heart) (NN disease)) (VP (VBP have) (NP (DT some) (NNS types) (CC or) (NNS levels))) (. .))
+(S (NP (DT The) (NN diagnosis) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN analyzed) (PP (IN with) (NP (NN multiclass) (NN classification) (NN approach)))))) (. .))

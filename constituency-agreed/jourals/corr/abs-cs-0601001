@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB construct) (NP (NP (DT a) (NN cluster) (NN information) (NN criterion)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (NP (JJ objective) (NN model) (NN selection))))))))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ is) (ADJP (JJ scalable) (PP (TO to) (NP (JJ big) (NNS datasets))))) (CC and) (VP (VBZ provides) (NP (NP (JJ robust) (NN cluster) (NNS assignments)) (CC and) (NP (NN case-wise) (NNS diagnostics))))) (. .))

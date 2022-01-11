@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN version))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (JJ metric)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (S (NP (DT the) (NN unit) (NN ball)) (VP (VBZ is) (NP (DT an) (JJ ellipsoid)))) (CC and) (S (NP (PRP$ its) (NN orientation)) (VP (VBZ is) (VP (VBN specified) (PP (IN with) (NP (DT the) (NN query)))))))))) (. .))
+(S (NP (NP (DT An) (JJ important) (NN application)) (SBAR (WHNP (WDT that)) (S (VP (VBZ motivates) (NP (PRP$ our) (NN work)))))) (VP (VBZ is) (NP (NN group) (NN recommendation) (NNS systems))) (. .))

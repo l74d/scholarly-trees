@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN procedure)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (CD two) (JJ successive) (NNS steps))))) (. .))
+(S (NP (NP (DT A) (JJ significant) (NN improvement)) (CONJP (RB as) (RB well) (IN as)) (NP (DT a) (JJR better) (NN noise) (NN robustness))) (VP (VBP are) (VP (VBN reported))) (. .))

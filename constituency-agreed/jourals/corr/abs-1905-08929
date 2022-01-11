@@ -1,0 +1,2 @@
+(S (NP (JJ Semantic) (NN segmentation)) (VP (VBZ is) (NP (NP (JJ pixel-wise) (NN classification)) (SBAR (WHNP (WDT which)) (S (VP (VBZ retains) (NP (JJ critical) (JJ spatial) (NN information))))))) (. .))
+(S (PP (IN On) (NP (DT the) (CD one) (NN hand))) (, ,) (NP (PRP it)) (VP (VBZ reconstructs) (NP (DT the) (JJ spatial) (NNS boundaries)) (ADVP (RB accurately))) (. .))

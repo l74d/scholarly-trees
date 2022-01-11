@@ -1,0 +1,3 @@
+(S (NP (NNS Patients)) (VP (MD can) (VP (VB be) (VP (VBN relieved) (PP (IN from) (NP (NP (DT the) (JJ adverse) (NNS consequences)) (PP (IN of) (NP (JJ epileptic) (NNS seizures))))) (SBAR (IN if) (S (NP (PRP it)) (VP (MD could) (ADVP (RB somehow)) (VP (VB be) (VP (VBN predicted) (PP (IN in) (NP (NN advance))))))))))) (. .))
+(S (PP (IN Despite) (NP (NP (NNS decades)) (PP (IN of) (NP (NN research))))) (, ,) (NP (NN seizure) (NN prediction)) (VP (VBZ remains) (NP (DT an) (JJ unsolved) (NN problem))) (. .))
+(S (NP (PRP We)) (VP (MD will) (VP (VP (VB identify) (NP (NP (DT the) (NNS gaps) (, ,) (NNS challenges) (, ,) (CC and) (NNS pitfalls)) (PP (IN in) (NP (DT the) (JJ current) (NN research))))) (CC and) (VP (VB recommend) (NP (JJ future) (NNS directions))))) (. .))

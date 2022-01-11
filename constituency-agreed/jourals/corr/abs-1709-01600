@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS tuples)) (PP (IN in) (NP (DT the) (NN query) (NN result)))) (VP (MD can) (VP (VB be) (VP (VBN enumerated) (PP (IN from) (NP (NP (DT any)) (PP (IN of) (NP (PRP$ its) (NNS covers))))) (PP (IN with) (NP (NP (JJ linearithmic) (NN pre-computation) (NN time)) (CC and) (NP (JJ constant) (NN delay))))))) (. .))

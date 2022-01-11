@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB complete) (NP (DT an) (NN output) (NN feedback) (NN control))))) (NP (NP (DT a) (JJ continuous) (NN observer)) (PP (IN for) (NP (DT the) (NN velocity)))) (VP (VBZ is) (VP (VBN added))) (. .))
+(S (NP (DT The) (NN proof)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ new) (JJ smooth) (NNP Lyapunov) (NN function))))) (. .))

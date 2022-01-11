@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN knowledge)) (VP (VBN gained) (PP (IN by) (NP (DT a) (JJ pretrained) (NNP CNN))))) (VP (VBZ is) (VP (VBN exploited) (PP (IN by) (S (VP (VBG employing) (NP (NNP TL))))))) (. .))

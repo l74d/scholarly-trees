@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VP (VBZ is) (ADJP (JJ necessary) (PP (IN for) (NP (JJ many) (NNS protocols) (CC and) (NNS computations))))) (, ,) (CC but) (VP (VBZ causes) (NP (NP (JJ unexpected) (NN disturbance)) (PP (IN of) (NP (JJ computational) (NNS states)))))) (. .))
+(S (NP (JJ Several) (NNS papers)) (VP (VBD studied) (NP (DT the) (NN problem))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ mechanical) (NN design))) (, ,) (NP (EX there)) (VP (VBZ is) (ADVP (RB often)) (NP (NP (JJ unavoidable) (NN uncertainty)) (PP (IN in) (NP (NP (NNS estimates)) (PP (IN of) (NP (NN design) (NN performance))))))) (. .))
+(S (NP (NP (NN Evaluation)) (PP (IN of) (NP (NN design) (NNS alternatives)))) (VP (VBZ requires) (NP (NP (NN consideration)) (PP (IN of) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (DT this) (NN uncertainty))))))) (. .))

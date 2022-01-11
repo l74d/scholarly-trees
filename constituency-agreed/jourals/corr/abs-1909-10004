@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN scheduler)) (VP (VBZ is) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN adversary)) (SBAR (WHNP (WDT which)) (S (VP (VBZ determines) (NP (NP (DT the) (NN activation) (NN schedule)) (PP (IN of) (NP (DT the) (NNS robots))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP complement) (NP (DT the) (NNS possibilities)) (PP (IN with) (NP (DT an) (NN impossibility)))) (. .))

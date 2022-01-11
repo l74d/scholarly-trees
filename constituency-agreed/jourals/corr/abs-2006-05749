@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN model)) (VP (MD can) (VP (VB recover) (NP (DT both) (NP (DT a) (NNP ResNet)) (CC and) (NP (DT a) (NNP CNN))) (PP (IN by) (S (VP (VBG adjusting) (NP (DT an) (NN interpolation) (NN coefficient)))))))))))) (. .))

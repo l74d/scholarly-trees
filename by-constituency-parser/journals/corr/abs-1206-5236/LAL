@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP report) (NP (NP (DT an) (JJ efficient) (NN synthesis) (NN algorithm)) (, ,) (PP (IN with) (NP (NP (DT an) (JJ exact) (NN optimality) (NN guarantee)) (PP (IN on) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNP Hadamard) (CC and) (NNP T) (NNS gates))) (VP (VBD used)))))))) (. .))

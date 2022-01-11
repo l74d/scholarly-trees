@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ describes) (NP (NP (PRP$ our) (JJ recent) (NN implementation)) (PP (IN of) (NP (NP (DT a) (NN change) (NN point) (NN detection) (NN system)) (VP (VBN built) (PP (IN upon) (NP (DT the) (JJ E-Divisive) (NNS means) (NN algorithm)))))))) (. .))
+(S (S (VP (VBG Using) (NP (NN change) (NN point) (NN detection)))) (VP (VBZ has) (VP (VBN had) (NP (NP (DT a) (JJ dramatic) (NN impact)) (PP (IN on) (NP (PRP$ our) (NN ability) (S (VP (TO to) (VP (VB detect) (NP (NN performance) (NNS changes)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (JJ former))) (, ,) (NP (PRP we)) (VP (VP (VBP reformulate) (NP (DT the) (NN problem)) (PP (IN through) (NP (NP (NNP Boole) (POS 's)) (NNP Inequality)))) (, ,) (CC and) (VP (VB explore) (NP (NP (DT the) (JJ optimal) (NN value) (NN gap)) (PP (IN between) (NP (NP (DT the) (JJ original) (NN problem)) (CC and) (NP (DT the) (VBN reformulated) (NN problem))))))) (. .))
+(S (NP (JJ Extensive) (NNS simulations)) (VP (VBP validate) (NP (PRP$ our) (JJ theoretical) (NN analysis))) (. .))

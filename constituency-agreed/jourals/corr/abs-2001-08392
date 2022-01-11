@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (NN context)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RBR more) (JJ general)) (NN concept)) (PP (IN than) (NP (NNS annotations))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (DT this) (JJ novel) (NN approach)))) (PP (IN with) (NP (NP (CD 27) (JJ real) (NN world) (NN use) (NNS cases)) (VP (VBN represented) (PP (IN by) (NP (NN graph) (NNS queries))))))) (. .))

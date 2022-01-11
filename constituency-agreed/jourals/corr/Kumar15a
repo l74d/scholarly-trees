@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ gives) (NP (NP (JJ poor) (NNS likelihoods)) (CC and) (NP (JJ poor) (NN recognition) (NN accuracy)))) (. .))
+(S (SBAR (IN While) (S (NP (DT the) (JJ former)) (ADVP (RB often)) (VP (VBZ gives) (NP (JJR better) (NN performance))))) (, ,) (NP (DT the) (JJ latter)) (VP (VBZ involves) (NP (NP (NN estimation)) (PP (IN of) (NP (NP (JJR lesser) (NN number)) (PP (IN of) (NP (NNS parameters)))))) (, ,) (S (VP (VBG making) (S (NP (DT the) (NN system)) (ADJP (JJ feasible) (PP (IN for) (NP (JJ practical) (NNS implementations)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (JJ generative) (NNS models))) (, ,) (NP (PRP we)) (VP (VBP learn) (NP (NNP Bayes) (NNS networks)) (PP (IN from) (NP (DT the) (NNS data)))) (. .))

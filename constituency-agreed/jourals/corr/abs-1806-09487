@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ colored) (NN token)) (VP (VBZ is) (VP (VBN placed) (PP (IN in) (NP (DT each) (NN vertex))))) (. .))
+(S (NP (NP (DT A) (NN pair)) (PP (IN of) (NP (NNS tokens)))) (VP (MD can) (VP (VB be) (VP (VBN swapped) (PP (IN between) (NP (JJ adjacent) (NNS vertices)))))) (. .))
+(S (NP (NP (DT The) (JJ minimum) (NN number)) (PP (IN of) (NP (NNS swaps)))) (VP (VBZ is) (VP (VBN required) (PP (IN in) (NP (NP (DT the) (NN optimization) (NN variant)) (PP (IN of) (NP (DT the) (NN problem))))))) (. .))

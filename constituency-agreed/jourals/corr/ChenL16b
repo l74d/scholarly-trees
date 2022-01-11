@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (DT this) (NN algorithm))) (, ,) (NP (DT the) (NNP SAT) (NN solver)) (VP (MD can) (VP (VB be) (VP (VBN accelerated) (PP (IN by) (NP (NN hardware)))))) (. .))
+(S (S (NP (DT A) (NN software) (NN simulator)) (VP (VBZ is) (VP (VBN implemented) (S (VP (TO to) (VP (VB verify) (NP (DT the) (VBN proposed) (NN algorithm)))))))) (CC and) (S (NP (DT the) (NN performance) (NN improvement)) (VP (VBZ is) (VP (VBN estimated)))) (. .))

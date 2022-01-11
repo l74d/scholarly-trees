@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ various) (NNS applications))) (NP (DT the) (NNP Euler) (JJ characteristic) (NN curve)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NN descriptor)) (PP (IN of) (NP (DT an) (NN image))))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN streaming) (NN algorithm)) (PP (IN for) (NP (NNP Euler) (JJ characteristic) (NNS curves))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (NN Python) (NN implementation)) (PP (IN of) (NP (NP (NNP Algorithm) (NNP X)) (PP (IN by) (NP (NNP Knuth)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NNP Algorithm) (NNP X)) (VP (VBZ finds) (NP (DT all) (NNS solutions)) (PP (IN to) (NP (DT the) (JJ exact) (NN cover) (NN problem)))) (. .))
+(S (NP (NP (DT The) (JJ exemplary) (NNS results)) (PP (IN for) (NP (NP (NNS pentominoes)) (, ,) (NP (JJ Latin) (NNS squares)) (CC and) (NP (NNP Sudoku))))) (VP (VBP are) (VP (VBN given))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (DT the) (NN robot)) (VP (VBZ has) (NP (DT a) (JJ specific) (NN energy) (NN budget))))) (, ,) (NP (PRP it)) (VP (MD might) (RB not) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB cover) (NP (DT the) (JJ complete) (NN environment)) (PP (IN in) (NP (CD one) (NN traversal))))))))) (. .))

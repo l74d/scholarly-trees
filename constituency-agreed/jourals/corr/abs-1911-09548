@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP proceed) (S (VP (TO to) (VP (VB identify) (NP (NN convergence) (NNS rates)) (PP (IN by) (NP (NP (JJ local) (NNP Fourier) (NN analysis)) (CC and) (NP (JJ numerical) (NNS experiments)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ numerical) (NN experiment)) (SBAR (WHNP (WDT which)) (S (VP (VBZ demonstrates) (NP (PRP$ its) (JJ excellent) (NN scaling) (NNS properties))))))) (. .))

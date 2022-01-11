@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ basic) (NN algorithm)) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (DT the) (JJS best) (NN response) (NNS dynamics))))) (. .))
+(S (PP (IN In) (NP (JJ practical) (NNS examples))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ converges) (PP (IN in) (NP (QP (RB just) (DT a) (JJ few)) (NNS iterations)))) (. .))

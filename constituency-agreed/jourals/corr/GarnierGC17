@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ overall) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (NNS words)) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (DT the) (JJS lowest) (JJ possible) (NN score)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN toolbox)) (VP (VBZ performs) (ADVP (RB very) (RB well)) (PP (IN on) (NP (CD two) (JJ difficult) (JJ practical) (NNS problems))))))) (. .))

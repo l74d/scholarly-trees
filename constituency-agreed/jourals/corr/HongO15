@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP verify) (NP (DT the) (NN design) (NN methodology)) (PP (IN by) (S (VP (VBG comparing) (NP (NP (DT the) (JJ calculated) (NNS values)) (PP (IN for) (NP (DT some) (JJ key) (NNS parameters)))) (PP (IN with) (NP (NP (DT the) (NNS values)) (PP (IN from) (NP (DT the) (NN circuit) (NN simulation))))))))) (. .))

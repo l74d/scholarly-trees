@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN study)) (VP (VBZ generalizes) (NP (PDT such) (DT an) (NN attack)) (S (VP (TO to) (VP (VB remove) (NP (NP (DT the) (NNS assumptions)) (PP (IN of) (NP (DT the) (JJ previous) (NN work)))))))) (. .))
+(S (NP (JJ Such) (NN security) (NNS analyses)) (VP (VBP are) (ADJP (JJ important)) (PP (CONJP (RB not) (RB only)) (PP (IN in) (NP (JJ key) (NN refreshment))) (CONJP (CC but) (RB also)) (PP (IN in) (NP (JJ initial) (JJ key) (NN agreement) (NNS situations))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ simplifies) (NP (DT the) (NN meshing)) (SBAR (IN as) (S (NP (DT the) (JJ computational) (NN mesh)) (VP (VBZ is) (ADVP (RB implicitly)) (VP (VBN created) (PP (IN by) (NP (NP (DT the) (NN engineer)) (VP (VBG using) (NP (DT the) (NNP CAD) (NN tool)))))))))) (. .))

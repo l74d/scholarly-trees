@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN structure)) (PP (IN of) (NP (DT the) (JJ discrete) (NN system)))) (VP (VBZ depends) (PP (IN on) (NP (NP (JJ numerical) (NN approximation) (NNS methods)) (PP (IN for) (NP (NP (DT the) (NNS integrals)) (VP (VBG occurring) (PP (IN in) (NP (DT the) (JJ enlarged) (NN system))))))))) (. .))
+(S (NP (DT A) (NN difference) (NN scheme)) (VP (VBZ is) (VP (VBN constructed) (PP (IN by) (NP (NP (NN elimination)) (PP (IN of) (NP (PDT all) (DT the) (JJ partial) (NNS derivatives))))))) (. .))

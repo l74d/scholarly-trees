@@ -1,0 +1,3 @@
+(S (NP (NNP GMM)) (VP (VBP are) (VP (VBN used) (PP (IN for) (S (VP (VBG classifying) (NP (JJ hyperspectral) (NNS images))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ selects) (ADVP (RB iteratively)) (NP (NP (JJ spectral) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (NP (DT an) (NN estimation)) (PP (IN of) (NP (DT the) (NN classification) (NN rate))))))))) (. .))
+(S (NP (DT The) (NN estimation)) (VP (VBZ is) (VP (VBN done) (S (VP (VBG using) (NP (DT the) (JJ k-fold) (NN cross) (NN validation)))))) (. .))

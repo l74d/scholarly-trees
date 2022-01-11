@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN video) (NN sequence)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN analyzed) (PP (IN for) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NNS polyps))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ relieves) (NP (NP (DT the) (NN labor)) (PP (IN of) (NP (NP (DT a) (JJ human) (NN operator)) (VP (VBG analyzing) (NP (NP (DT the) (NNS frames)) (PP (IN in) (NP (DT the) (NN video) (NN sequence))))))))))))) (. .))

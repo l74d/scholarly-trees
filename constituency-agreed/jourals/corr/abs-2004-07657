@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN way)) (, ,) (NP (DT the) (NN discriminator)) (VP (VBZ learns) (S (VP (TO to) (VP (VB detect) (NP (NP (JJ subtle) (NNS distortions)) (SBAR (WHNP (WDT that)) (S (ADVP (RB often)) (VP (VBP appear) (PP (IN in) (NP (NP (NNS reconstructions)) (PP (IN of) (NP (DT the) (NN anomaly) (NNS inputs))))))))))))) (. .))

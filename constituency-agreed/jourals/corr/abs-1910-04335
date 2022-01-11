@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT these) (NNS problems)) (PP (IN with) (NP (CD two) (JJ main) (NNS contributions)))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN approach)) (PP (IN on) (NP (CD two) (NNP CityLearn) (NNS environments))) (, ,) (S (VP (VBG training) (NP (PRP$ our) (NN navigation) (NN policy)) (PP (IN on) (NP (DT a) (JJ single) (NN traversal)))))) (. .))

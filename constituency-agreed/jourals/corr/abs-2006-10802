@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN trained) (CC and) (VBN evaluated) (PP (IN on) (NP (NP (DT a) (JJ small) (NN dataset)) (PP (IN of) (NP (CD 11) (NNS volumes))))))) (. .))

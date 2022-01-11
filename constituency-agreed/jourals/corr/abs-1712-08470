@@ -1,0 +1,1 @@
+(S (PP (IN From) (NP (DT the) (JJ experimental) (NNS results))) (, ,) (NP (PRP we)) (VP (VBP conclude) (SBAR (IN that) (S (NP (PRP$ our) (JJ virtual) (NN dataset)) (VP (VBZ is) (ADJP (JJ viable) (S (VP (TO to) (VP (VB train) (CC and) (VB test) (NP (DT the) (NN object) (NNS detectors)))))))))) (. .))

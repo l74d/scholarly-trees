@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (JJ various) (NNS applications)) (VP (VBG involving) (NP (JJ complex) (NNS networks))))) (, ,) (NP (NN network) (NNS measures)) (VP (VBP are) (VP (VBN employed) (S (VP (TO to) (VP (VB assess) (NP (NP (DT the) (JJ relative) (NN importance)) (PP (IN of) (NP (NN network) (NNS nodes))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP perform) (NP (JJ numerical) (NNS simulations)) (S (VP (TO to) (VP (VB assess) (NP (NP (NN robustness)) (PP (IN of) (NP (DT these) (CD three) (NN centrality) (NNS measures)))))))) (. .))

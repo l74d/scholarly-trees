@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ great) (NN deal)) (PP (IN of) (NP (NN attention)))) (VP (VBD was) (VP (VBN paid) (PP (IN on) (S (VP (VBG finding) (NP (DT the) (JJ optimal) (NNP ANN) (NN model) (NN structure))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (JJ several) (NNS methods)) (PP (IN of) (NP (NNS data) (NN pre-processing)))) (VP (VBD were) (VP (VBN tested))) (. .))

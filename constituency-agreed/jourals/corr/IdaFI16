@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN since) (S (NP (DT the) (JJ first) (NN order) (NNS gradients)) (VP (VBP include) (NP (NP (NN noise)) (VP (VBN caused) (PP (IN by) (NP (JJ stochastic) (NN optimization)))))))) (, ,) (NP (DT the) (NN approximation)) (VP (MD may) (VP (VB be) (ADJP (JJ inaccurate)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNS models)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB create) (NP (JJ meaningful) (NN word) (NN representation)))))))))) (. .))
+(S (NP (DT This) (NN research)) (VP (VBZ has) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (JJ free) (NN word) (NN order)) (CC and) (NP (NP (DT the) (JJR higher) (JJ morphological) (NN complexity)) (PP (IN of) (NP (JJ Croatian) (NN language))))) (VP (VBZ influences) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (VBG resulting) (NN word) (NNS embeddings))))))))) (. .))

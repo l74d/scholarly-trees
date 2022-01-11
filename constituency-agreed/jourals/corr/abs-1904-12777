@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN entity)) (VP (VBZ is) (VP (VBN modelled) (PP (IN as) (NP (NP (DT a) (NN node)) (VP (VBG occupying) (NP (NP (DT a) (JJ distinct) (NN cell)) (PP (IN of) (NP (DT the) (NN grid))))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (ADJP (JJ positive))) (. .))

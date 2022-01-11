@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB collect) (NP (NNS pseudo-labels))))) (, ,) (NP (JJ previous) (NNS works)) (ADVP (RB often)) (VP (VBP rely) (PP (IN on) (NP (NP (DT the) (JJS highest) (NN softmax) (NN score)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (ADVP (RB here)) (VP (VBP argue) (PP (IN as) (NP (DT an) (JJ unfavorable) (NN confidence) (NN measurement))))))))) (. .))

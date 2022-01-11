@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP formulate) (NP (DT this) (NN problem)) (PP (IN as) (NP (NP (DT that)) (PP (IN of) (NP (NN density) (NN modelling)))))) (, ,) (CC and) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ traditional) (NNS methods)) (PP (JJ such) (IN as) (NP (NN softmax)))) (VP (VBP produce) (NP (JJ poor) (NNS estimates))))))) (. .))

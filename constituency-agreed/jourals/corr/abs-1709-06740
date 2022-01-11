@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNP Twitter) (NNS users)) (VP (VBP are) (NP (NNS bots))) (. .))
+(S (S (VP (VBN Inspired) (PP (IN by) (NP (DT this) (NN observation))))) (, ,) (NP (PRP we)) (VP (VBD discovered) (NP (NP (DT an) (ADJP (RB even) (JJR larger)) (NNP Twitter) (NN botnet)) (, ,) (NP (NP (DT the) (NNP Bursty) (NN botnet)) (PP (IN with) (NP (QP (JJR more) (IN than) (CD 500,000)) (NNS bots)))))) (. .))

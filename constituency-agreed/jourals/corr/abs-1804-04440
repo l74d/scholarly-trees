@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (ADVP (RB also)) (VP (VBP prolong) (NP (DT the) (NN acquisition) (NNS sessions))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (NP (DT an) (JJ important) (NN advantage)) (PP (IN of) (NP (PRP$ our) (NN formulation)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ provides) (NP (NP (DT an) (JJ unsupervised) (NN estimation)) (PP (IN of) (NP (JJ bi-directional) (NN motion) (NNS fields)))))))) (. .))

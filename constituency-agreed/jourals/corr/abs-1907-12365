@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ multi-label) (NN classification) (NN problem))) (, ,) (PP (IN unlike) (NP (DT the) (JJ traditional) (NN multi-class) (NN classification) (NN setting))) (, ,) (NP (DT each) (NN instance)) (VP (MD can) (VP (VB be) (ADVP (RB simultaneously)) (VP (VBN associated) (PP (IN with) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (NNS labels)))))))) (. .))

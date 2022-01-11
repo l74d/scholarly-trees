@@ -1,0 +1,1 @@
+(S (NP (NNP DP) (NNS algorithms)) (VP (MD can) (ADVP (RB easily)) (VP (VB be) (VP (VBN modified) (S (VP (TO to) (VP (VB exploit) (NP (NP (NN sparseness)) (PP (IN in) (NP (DT the) (NNP DP) (NN table)))) (PP (IN through) (NP (NN memorization))))))))) (. .))

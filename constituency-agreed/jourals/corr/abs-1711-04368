@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN known) (SBAR (IN that) (S (NP (DT an) (NN attacker)) (VP (MD can) (VP (VB generate) (NP (JJ strong) (JJ adversarial) (NNS examples)) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ knows) (NP (DT the) (NN classifier) (NNS parameters))))))))))) (. .))

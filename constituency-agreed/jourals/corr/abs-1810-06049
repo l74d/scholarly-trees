@@ -1,0 +1,2 @@
+(S (NP (NN Dropout)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN regularization) (NN technique)) (PP (IN in) (NP (JJ deep) (NN learning))))) (. .))
+(S (SBAR (IN Since) (S (NP (DT this) (NN optimization)) (VP (VBZ is) (ADJP (JJ non-convex))))) (, ,) (NP (PRP we)) (VP (VBP add) (NP (NP (DT another) (NN regularization)) (SBAR (WHNP (WDT that)) (S (VP (VBZ promotes) (NP (JJ such) (NNS structures)) (PP (IN by) (S (VP (VBG minimizing) (NP (NP (DT the) (NN cross-correlation)) (PP (IN between) (NP (NP (NNS filters)) (PP (IN in) (NP (DT the) (NN network)))))))))))))) (. .))

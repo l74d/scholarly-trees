@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (PRP we)) (VP (VP (VBP consider) (NP (NP (DT an) (JJ empirical) (NNP Bayes) (NN method)) (PP (IN for) (NP (NNP Boltzmann) (NNS machines))))) (CC and) (VP (VB propose) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (PRP it)))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ avoids) (NP (DT this) (JJ computational) (NN problem)) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (NN replica) (NN method)) (CC and) (NP (DT the) (NNP Plefka) (NN expansion))))))) (. .))

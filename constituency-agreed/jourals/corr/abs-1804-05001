@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN on) (NP (NP (DT a) (JJ large) (NN set)) (PP (IN of) (NP (NNS benchmarks)))))) (VP (VBP show) (NP (PRP$ its) (NN scalability) (CC and) (NN efficiency))) (. .))

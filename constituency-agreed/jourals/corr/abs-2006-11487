@@ -1,0 +1,1 @@
+(S (NP (NNP Network) (NN pruning)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ dominant)) (NNS methods)) (PP (IN for) (S (VP (VBG reducing) (NP (NP (DT the) (JJ heavy) (NN inference) (NN cost)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks))))))))))) (. .))

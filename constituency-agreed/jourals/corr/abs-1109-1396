@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP prove) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (DT the) (NN method)))) (ADVP (RB theoretically))) (, ,) (CC and) (VP (VB perform) (NP (JJ extensive) (NNS experiments)) (PP (IN on) (NP (NN benchmark) (NNS datasets))))) (. .))
+(S (NP (PRP$ Our) (JJ experimental) (NN analysis)) (VP (VBZ demonstrates) (NP (NP (DT the) (NN performance) (CC and) (NN robustness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

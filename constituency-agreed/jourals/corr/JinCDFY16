@@ -1,0 +1,2 @@
+(S (PP (IN Towards) (NP (DT this) (NN target))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (JJ multiple) (NNS classifiers)) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (JJ multiple) (NNS layers)))))) (. .))
+(S (S (VP (VBN Guided) (PP (IN by) (NP (DT the) (JJ other) (NN companion) (NNS classifiers))))) (, ,) (NP (DT each) (NN classifier)) (VP (VP (VBZ learns) (S (VP (TO to) (VP (VB concentrate) (PP (IN on) (NP (JJ certain) (NN training) (NNS examples))))))) (CC and) (VP (VBZ boosts) (NP (DT the) (JJ overall) (NN performance)))) (. .))

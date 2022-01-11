@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (DT these) (NNS methods)))) (VP (MD can) (ADVP (RB only)) (VP (VB deal) (PP (IN with) (NP (DT the) (JJ additive) (NNS operations))))) (. .))
+(S (NP (DT The) (NN skill) (NN module)) (VP (MD could) (VP (VB be) (NP (NP (NP (DT a) (JJ basic) (NN module)) (VP (VBG performing) (NP (JJ elementary) (NNS operations)))) (, ,) (CC or) (NP (NP (JJ interactive) (NN module)) (VP (VBG performing) (NP (JJ complex) (NNS operations)) (PP (IN by) (S (VP (VBG invoking) (NP (JJ other) (NN skill) (NNS models)))))))))) (. .))

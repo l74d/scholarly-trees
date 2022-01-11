@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PDT such) (DT a) (NN case))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB use) (NP (PRP$ its) (JJ local) (NN update)) (S (VP (TO to) (VP (VB compensate) (NP (NP (DT the) (NN gap)) (PP (IN between) (NP (NP (DT the) (JJ local) (NN model)) (CC and) (NP (DT the) (JJ global) (NN model)))))))))) (. .))
+(S (NP (NP (PRP$ Our) (JJ rigorous) (JJ theoretical) (NN analysis)) (PP (IN of) (NP (NNP PRLC)))) (VP (VBZ achieves) (NP (CD two) (JJ important) (NNS findings))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP MMS)) (VP (VBZ employs) (NP (NP (DT a) (JJ new) (NN partitioning) (NN technique)) (SBAR (WHNP (WDT that)) (S (VP (VBZ exposes) (NP (NP (DT the) (NN parallelism)) (VP (VBN needed) (PP (IN by) (NP (JJ modern) (NNP GPU) (NNS architectures)))))))))) (. .))
+(S (PP (IN Despite) (S (NP (DT these) (NNS implementations)) (VP (VBG being) (ADJP (RB highly) (VBN optimized))))) (, ,) (NP (NNP MMS)) (VP (VBZ compares) (ADVP (RB favorably)) (, ,) (S (VP (VBG achieving) (NP (NN performance) (NNS improvements)) (PP (IN for) (NP (JJS most) (JJ random) (NNS inputs)))))) (. .))

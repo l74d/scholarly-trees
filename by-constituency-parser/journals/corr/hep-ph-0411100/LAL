@@ -1,0 +1,4 @@
+(S (NP (VBN Generalized) (JJ log-sine) (NNS functions)) (VP (VBP appear) (PP (IN in) (NP (NP (JJR higher) (NN order) (NN epsilon-expansion)) (PP (IN of) (NP (JJ different) (NNP Feynman) (NN diagrams)))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NP (JJ numerical) (NN evaluation)) (PP (IN of) (NP (NP (DT these) (NNS functions)) (PP (IN of) (NP (JJ real) (NN argument))))))))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (VBZ is) (VP (VBN implemented) (PP (IN as) (NP (NP (NNP C++) (NN library)) (PP (IN with) (NP (NP (NN arbitrary-precision) (NNS arithmetics)) (PP (IN for) (NP (NP (NN integer) (QP (CD 0) (NN <) (NN k) (NNP <) (CD 9))) (CC and) (NP (JJ j) (NN >) (CD 1)))))))))) (. .))
+(S (NP (NP (DT Some) (JJ new) (NNS relations) (CC and) (NNS representations)) (PP (IN for) (NP (DT the) (JJ generalized) (JJ log-sine) (NNS functions)))) (VP (VBP are) (VP (VBN given))) (. .))

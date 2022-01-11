@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT a) (JJ single) (NN value)) (PP (IN of) (NP (NP (DT the) (NN shatter) (NN function)) (PP (IN of) (NP (DT a) (NN set) (NN system)))))) (VP (VBZ restricts) (NP (PRP$ its) (JJ asymptotic) (NN growth)))))) (. .))
+(S (PP (IN Along) (NP (DT the) (NN way))) (, ,) (NP (PRP we)) (VP (VBP refute) (NP (NP (DT a) (NN conjecture)) (PP (IN of) (NP (NNP Bondy) (CC and) (NNP Hajnal))) (SBAR (WHNP (WDT which)) (S (VP (VBZ generalizes) (NP (NP (NNP Sauer) (POS 's)) (NNP Lemma))))))) (. .))

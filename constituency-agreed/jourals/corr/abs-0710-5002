@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (JJ same) (JJ chaotic) (NN behaviour)) (ADVP (RB also)) (VP (VBZ causes) (NP (NN reproducibility) (NNS problems))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN model)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNS perturbations)) (VP (VBP are) (VP (VBN described) (PP (IN as) (NP (NP (JJ random) (NN phase) (NNS changes)) (PP (IN in) (NP (DT the) (NN source) (NN plane))))))))))) (. .))

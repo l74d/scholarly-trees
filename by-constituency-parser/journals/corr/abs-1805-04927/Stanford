@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Theoretical) (NNS properties)) (PP (IN of) (NP (DT the) (VBN proposed)))) (VP (VBP transform) (SBAR (S (VP (VBP are) (VP (VBN presented)))))) (. .))
+(S (NP (DT This) (NML (S (VP (VB transform))))) (VP (MD could) (VP (VB be) (ADJP (RB very) (JJ useful) (S (VP (TO to) (VP (VB provide) (NP (DT an) (JJ alternative) (NN method)) (PP (IN in) (S (VP (VBG analyzing) (NP (NP (JJ non-stationary) (NNS signals)) (PP (JJ such) (IN as) (NP (NML (NN brain) (NN wave)) (NN EEG))))))))))))) (. .))

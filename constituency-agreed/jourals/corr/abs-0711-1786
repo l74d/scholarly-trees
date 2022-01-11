@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN domain)) (PP (IN of) (NP (JJ numerical) (NN simulation)))) (VP (VBZ is) (NP (NP (DT a) (NN place)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NN parallelization)) (PP (IN of) (NP (JJ numerical) (NN code)))) (VP (VBZ is) (ADJP (JJ common))))))) (. .))
+(S (PP (IN Without) (S (VP (VBG calling) (PP (IN into) (NP (NN question))) (NP (NP (DT these) (NNS implementations)) (PP (IN of) (NP (DT these) (NNS codes))))))) (, ,) (NP (PRP we)) (VP (VBP create) (NP (NP (DT an) (JJ adaptive) (NN use)) (PP (IN of) (NP (DT these) (NNS implementations))))) (. .))

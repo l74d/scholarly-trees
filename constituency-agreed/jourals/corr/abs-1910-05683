@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NP (CD two) (NNS types)) (PP (IN of) (NP (NN processor) (NNS groups)))) (: :) (NP (NP (NNP Mini) (NNP Vector) (NNP Machine) (NNP Processor) (NNP Group)) (CC and) (NP (NNP Activation) (NNP Processor) (NNP Group))))) (. .))
+(S (NP (DT A) (NN ring) (NN buffer)) (VP (VBD was) (VP (VBN implemented) (S (VP (TO to) (VP (VB connect) (NP (DT the) (JJ various) (NN processor) (NNS groups))))))) (. .))

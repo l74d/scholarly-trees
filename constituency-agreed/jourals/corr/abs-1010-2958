@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ innovative) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ simplifies) (NP (NP (DT the) (NN topology)) (PP (IN of) (NP (DT a) (NN cross-field))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ preliminary) (NNS results)) (PP (IN of) (NP (PRP$ our) (NN implementation))))) (. .))

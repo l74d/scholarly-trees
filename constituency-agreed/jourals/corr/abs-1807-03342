@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ deep) (NN network)) (PP (IN for) (NP (NNP WSOD))))) (. .))
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ outperforms) (NP (NP (DT the) (JJ previous) (NN state)) (PP (IN of) (NP (DT the) (NN art)))) (ADVP (RB significantly)))))) (. .))

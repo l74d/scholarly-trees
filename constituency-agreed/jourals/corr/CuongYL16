@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ suggests) (SBAR (S (NP (PRP we)) (VP (MD should) (VP (VB use) (NP (DT a) (NNP Lipschitz) (NN utility)) (PP (IN for) (NP (NNP AL))) (SBAR (IN if) (S (NP (NN robustness)) (VP (VBZ is) (VP (VBN required)))))))))) (. .))

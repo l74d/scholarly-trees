@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ dedicated) (NN algorithm)) (PP (IN for) (NP (NP (JJ sparse) (JJ spectral) (NN representation)) (PP (IN of) (NP (NN music) (NN sound)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN tailored) (S (VP (TO to) (VP (VB be) (VP (VBN applied) (PP (IN with) (NP (JJ trigonometric) (NNS dictionaries))))))))) (. .))

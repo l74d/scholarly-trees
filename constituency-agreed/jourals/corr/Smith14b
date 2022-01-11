@@ -1,0 +1,2 @@
+(S (S (NP (JJ Several) (NNS algorithms)) (VP (VBP are) (VP (VBN presented)))) (CC and) (S (NP (PRP$ their) (NN convergence) (NNS properties)) (VP (VBP are) (VP (VBN analyzed) (S (VP (VBG employing) (NP (NP (DT the) (JJ Riemannian) (NN structure)) (PP (IN of) (NP (DT the) (NN manifold))))))))) (. .))
+(S (NP (NP (NNS Examples)) (PP (IN of) (NP (NP (DT each) (NN method)) (PP (IN on) (NP (JJ certain) (JJ Riemannian) (NNS manifolds)))))) (VP (VBP are) (VP (VBN given) (PP (IN with) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (JJ numerical) (NNS experiments))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ metric)) (VP (VBZ is) (ADJP (JJ unknown)))) (, ,) (CC but) (S (NP (PRP we)) (VP (MD can) (VP (VB query) (NP (DT an) (NN oracle)) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT a) (JJ noisy) (NN estimate)) (PP (IN of) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NP (DT any) (NN pair)) (PP (IN of) (NP (NNS items)))))))))))))) (. .))

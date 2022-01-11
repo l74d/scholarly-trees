@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP name) (NP (DT these) (NNS stages)) (PP (IN as) (NP (NP (NN ad) (NN retrieval)) (, ,) (NP (NN ad) (NN pre-ranking)) (CC and) (NP (NN ad) (NN ranking))))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (JJ extensive) (NN evaluation)) (S (VP (TO to) (VP (VB validate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN framework)))))))) (. .))

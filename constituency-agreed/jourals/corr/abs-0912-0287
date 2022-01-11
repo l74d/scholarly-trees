@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN hash) (NN table)) (VP (MD can) (VP (VB be) (VP (VBN constructed) (ADVP (RB successfully)) (SBAR (IN if) (S (NP (DT each) (NN key)) (VP (MD can) (VP (VB be) (VP (VBN placed) (PP (IN into) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (NNS buckets))))))))))))) (. .))

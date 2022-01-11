@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN purpose)) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (NP (NP (ADJP (JJ qualitative) (CC and) (JJ quantitative)) (NNS rates)) (PP (IN of) (NP (NN image) (NN compression)))) (PP (IN by) (S (VP (VBG using) (NP (JJ different) (NNP Haar) (NN wavelet) (NNS banks))))))))) (. .))
+(S (NP (NP (DT The) (JJ experimental) (NNS results)) (PP (IN of) (NP (JJ adaptive) (NN compression)))) (VP (VBP are) (VP (VBN provided))) (. .))
+(S (NP (DT The) (NN paper)) (VP (NNS deals) (PP (IN with) (NP (NP (JJ specific) (NNS examples)) (PP (IN of) (NP (NP (JJ orthogonal) (NNP Haar) (NNS bases)) (VP (VBN generated) (PP (IN by) (NP (NN multiresolution) (NN analysis))))))))) (. .))

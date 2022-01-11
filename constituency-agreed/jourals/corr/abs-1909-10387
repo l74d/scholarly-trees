@@ -1,0 +1,2 @@
+(S (NP (NN Privacy)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN facet)) (PP (IN of) (NP (NP (NN defence)) (PP (IN against) (NP (NNS adversaries))))))) (. .))
+(S (S (VP (TO To) (VP (VB evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PRP$ our) (NN co-optimization) (NN scheme))))))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (JJ different) (NNS classes)) (PP (IN of) (NP (NN reference) (NNS trajectories))))) (. .))

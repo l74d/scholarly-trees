@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN analysis)) (VP (VBZ is) (VP (VBN validated) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NNS simulations)))))))) (CC and) (S (NP (DT the) (NN model)) (VP (VBZ is) (VP (VBN extended) (S (VP (TO to) (VP (VB account) (PP (IN for) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NN channel) (NNS errors))))))))))) (. .))

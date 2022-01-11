@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN estimate)) (PP (IN of) (NP (DT the) (JJ classical) (JJ stochastic) (NN process)))) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (NP (DT the) (NN estimate)) (PP (IN of) (NP (DT the) (VBN combined) (NN quantum) (NN system))))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness) (CC and) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS methods)))) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (NP (JJ numerical) (NNS results))))) (. .))

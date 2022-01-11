@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (DT an) (JJ automatic) (NN method))) (. .))
+(S (NP (PRP It)) (VP (VBZ transforms) (NP (NP (NN demand)) (CONJP (RB as) (RB well) (IN as)) (NP (DT all) (NNS objects) (CC and) (NNS sets))) (PP (IN into) (NP (NNS relations)))) (. .))

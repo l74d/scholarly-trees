@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP RBDN) (NN architecture)) (VP (VP (VBZ is) (ADJP (RB fully) (JJ convolutional))) (CC and) (VP (MD can) (VP (VB handle) (NP (ADJP (JJ variable) (JJ sized)) (NNS images)) (PP (IN during) (NP (NN inference)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS conditions)) (VP (VBP are) (RB not) (VP (VBN fulfilled) (PP (IN in) (NP (NNP Sobolev) (NNS spaces))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (JJ few) (JJ numerical) (NNS examples)) (SBAR (WHNP (WDT that)) (S (VP (VBP support) (NP (PRP$ our) (JJ theoretical) (NNS findings))))))) (. .))

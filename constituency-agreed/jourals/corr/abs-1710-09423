@@ -1,0 +1,4 @@
+(S (NP (PRP They)) (VP (VBP do) (RB not) (VP (VB communicate) (PP (IN by) (NP (DT any) (JJ explicit) (NN message) (NN passing))))) (. .))
+(S (NP (DT The) (NNS robots)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB recover) (NP (DT the) (JJ past) (NNS actions) (CC and) (NNS observations))))))) (. .))
+(S (NP (PRP They)) (VP (VBP have) (NP (DT no) (JJ unique) (NN identity))) (. .))
+(S (NP (DT The) (NNS robots)) (VP (VBP do) (RB not) (VP (VB have) (NP (DT any) (JJ global) (NN coordinate) (NN system)))) (. .))

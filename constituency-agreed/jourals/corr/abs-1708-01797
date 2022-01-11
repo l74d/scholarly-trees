@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN contrast))) (, ,) (S (NP (PRP$ our) (NN implementation)) (VP (VBZ allocates) (NP (NP (CD two) (NNS descriptors)) (PP (IN per) (NP (NN process)))))) (, ,) (CC and) (S (NP (DT each) (NN process)) (ADVP (RB simply)) (VP (VBZ reuses) (NP (PRP$ its) (CD two) (NNS descriptors)))) (. .))

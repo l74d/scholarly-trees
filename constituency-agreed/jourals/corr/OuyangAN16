@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT the) (CD two) (NNS controllers)))) (VP (VBZ is) (S (VP (TO to) (ADVP (RB cooperatively)) (VP (VB minimize) (NP (DT a) (JJ quadratic) (NN performance) (NN cost)))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ optimal) (NNS strategies))) (, ,) (NP (DT both) (NNS controllers)) (VP (VBP compute) (NP (NP (DT a) (JJ common) (NN estimate)) (PP (IN of) (NP (DT the) (NN plant) (NN state)))) (PP (VBN based) (PP (IN on) (NP (DT the) (JJ common) (NN information))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ main) (NN training) (NN loss)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN used)))))) (VP (VBZ is) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (DT the) (NN polygon) (NN shape)) (CC and) (NP (DT the) (NN ground) (NN truth) (NN segmentation) (NN mask)))))) (. .))

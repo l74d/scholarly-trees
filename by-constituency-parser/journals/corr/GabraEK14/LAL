@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN data) (NN mining) (NN technique)) (SBAR (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (JJ false) (NNS alerts))) (PP (IN within) (NP (DT an) (NNP IDS) (NN system))))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (JJ new) (NN technique)) (VP (VBZ achieves) (NP (NP (DT an) (NN accuracy)) (PP (IN of) (NP (CD 99) (NN %)))) (PP (VBN compared) (PP (TO to) (NP (NP (CD 97) (NN %)) (PP (IN by) (NP (DT the) (JJ current) (NNS systems))))))) (. .))

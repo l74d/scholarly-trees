@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ few) (NNS papers)) (VP (VBP have) (VP (VBN investigated) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN misclassification) (NNS errors)))))) (. .))
+(S (NP (ADJP (RB Very) (JJ few)) (NNS papers)) (VP (VBP have) (VP (VBN examined) (NP (NP (DT the) (JJ many) (JJ other) (NNS types)) (PP (IN of) (NP (NN cost)))))) (. .))

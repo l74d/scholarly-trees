@@ -1,0 +1,2 @@
+(S (NP (JJ Malicious) (NN software)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT a) (VBG leading) (NN threat)) (PP (IN in) (NP (NN cybersecurity))))) (. .))
+(S (NP (DT The) (NNS labels)) (VP (VBP are) (ADVP (RB also)) (NP (JJ black) (NN box)) (SBAR (IN since) (S (NP (PRP they)) (VP (VBP do) (RB not) (VP (VB represent) (NP (NP (DT the) (NNS capabilities)) (PP (IN of) (NP (NN malware))))))))) (. .))

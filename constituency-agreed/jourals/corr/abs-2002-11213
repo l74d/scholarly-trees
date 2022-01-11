@@ -1,0 +1,2 @@
+(S (NP (NNP Voice) (NN recognition)) (VP (VBZ is) (NP (NP (DT an) (NN area)) (PP (IN with) (NP (DT a) (JJ wide) (NN application) (NN potential))))) (. .))
+(S (NP (NP (NNP Audio) (NNS embeddings)) (PP (IN for) (NP (NN speaker) (NN identification)))) (VP (VBZ is) (NP (DT a) (NN proposal) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN issue))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNP MCTS)) (VP (MD can) (VP (VB find) (NP (JJ good) (NNS solutions)) (PP (IN without) (NP (ADJP (NN domain) (JJ dependent)) (NNS heuristics))) (, ,) (S (VP (VBG using) (NP (DT the) (NNP UCT) (NN formula)) (S (VP (TO to) (VP (VB balance) (NP (NN exploitation) (CC and) (NN exploration))))))))) (. .))

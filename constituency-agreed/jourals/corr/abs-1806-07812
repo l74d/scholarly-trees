@@ -1,0 +1,3 @@
+(S (NP (JJ Rigid) (NN registration)) (VP (MD can) (VP (VB be) (VP (VBN performed) (PP (IN by) (S (VP (VBG estimating) (NP (NP (DT a) (JJ global) (JJ rigid) (NN motion)) (SBAR (WHNP (WDT that)) (S (VP (VBZ optimizes) (NP (NP (DT the) (NN alignment)) (PP (IN of) (NP (JJ local) (NNS correspondences)))))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ inaccurate) (NNS correspondences)) (VP (VBP challenge) (NP (DT the) (NN registration) (NN performance))) (. .))
+(S (S (VP (TO To) (VP (VB minimize) (NP (PRP$ their) (NN influence))))) (, ,) (NP (PRP we)) (VP (VBP estimate) (NP (JJ optimal) (NNS weights)) (PP (IN for) (NP (NP (NNS correspondences)) (VP (VBG using) (NP (NNP PointNet)))))) (. .))

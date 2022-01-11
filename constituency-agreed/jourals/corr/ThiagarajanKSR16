@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ introduces) (NP (NP (DT a) (NN risk)) (PP (IN of) (S (VP (VBG producing) (NP (ADJP (JJ interpretable) (CC but) (JJ misleading)) (NNS explanations))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP take) (NP (NP (DT a) (NN step)) (PP (IN in) (NP (NP (DT the) (NN direction)) (PP (IN of) (S (VP (VBG tackling) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN interpretability)))) (PP (IN without) (S (VP (VBG compromising) (NP (DT the) (NN model) (NN accuracy)))))))))))) (. .))

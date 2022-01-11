@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ important) (NN aspect)) (PP (IN of) (NP (NNP Intel) (NNP SGX)))) (VP (VBZ is) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB perform) (NP (JJ remote) (NN attestation)) (S (VP (TO to) (VP (VB assess) (NP (NP (DT the) (NN endpoint) (POS 's)) (NN trustworthiness)))))))))) (. .))
+(S (NP (JJ Remote) (NN attestation)) (VP (VBZ is) (VP (VBN performed) (PP (IN during) (NP (DT the) (NN connection) (NN setup))))) (. .))

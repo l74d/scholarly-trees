@@ -1,0 +1,1 @@
+(S (NP (NP (CD One) (NN avenue)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (ADVP (RB recently)) (VP (VBN begun) (S (VP (TO to) (VP (VB be) (VP (VBN explored)))))))))) (VP (VBZ is) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (JJ latent) (NNS representations)) (PP (IN of) (NP (JJ generative) (NNS models))))))) (. .))

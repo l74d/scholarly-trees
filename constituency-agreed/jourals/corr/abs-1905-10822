@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN input) (NN image)) (VP (VBZ is) (VP (VBN projected) (PP (IN into) (NP (NP (DT a) (ADJP (JJ low) (JJ dimensional)) (NN latent) (NN space)) (PP (IN of) (NP (DT the) (JJ facial) (NN expression) (NNS parameters))))))) (. .))
+(S (NP (DT This) (NN sensitivity)) (VP (VBZ is) (ADJP (ADJP (RB even) (JJR stronger)) (PP (IN for) (NP (NN video) (NNS results))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN efficacy)) (PP (IN of) (NP (DT the) (VBN proposed) (NN framework)))) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS data) (NNS sets))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP verify) (SBAR (IN that) (S (S (VP (VBG encoding) (CC or) (VBG learning) (NP (NP (DT the) (NN degree)) (PP (IN of) (NP (NN ambiguity)))))) (VP (MD can) (VP (VB improve) (NP (NN classification) (NN performance))))))) (. .))

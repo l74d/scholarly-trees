@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ many) (NNS ways)) (SBAR (S (NP (PRP we)) (VP (MD can) (RB not) (VP (VB know))))))) (. .))
+(S (PP (IN Despite) (NP (DT that))) (, ,) (NP (NNS scientists)) (ADVP (RB still)) (VP (VBP behave) (SBAR (IN as) (IN if) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB know) (NP (DT the) (NN truth)))))))))) (. .))

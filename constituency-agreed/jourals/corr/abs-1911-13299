@@ -1,0 +1,1 @@
+(S (S (VP (VBG Training) (NP (DT a) (JJ neural) (NN network)))) (VP (VBZ is) (ADJP (JJ synonymous) (PP (IN with) (S (VP (VBG learning) (NP (NP (DT the) (NNS values)) (PP (IN of) (NP (DT the) (NNS weights))))))))) (. .))

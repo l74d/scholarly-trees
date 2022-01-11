@@ -1,0 +1,4 @@
+(S (NP (NN Production) (NNS networks)) (VP (VBP are) (VP (VBN formed) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (DT an) (NN interaction))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT the) (JJ special) (NN case)) (PP (IN of) (NP (NN network) (NN formation) (NNS games)))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (CD Two) (NNS cases)) (VP (VBP are) (VP (VBN considered))) (. .))
+(S (NP (NP (DT The) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NNS conditions)) (PP (IN for) (NP (NN equilibrium)))) (VP (VBP are) (VP (VBN given) (PP (IN for) (NP (DT this) (NN case))))) (. .))

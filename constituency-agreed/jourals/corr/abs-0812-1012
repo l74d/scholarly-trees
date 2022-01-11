@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ general) (NN problem)) (VP (VBZ is) (NP (NP (DT the) (NN focus)) (PP (IN of) (NP (DT this) (NN paper))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS considerations)) (PP (IN in) (NP (DT this) (NN framework)))))) (VP (VBZ is) (SBAR (IN whether) (S (NP (NN adaptivity)) (VP (VBZ is) (VP (VBN required) (PP (IN for) (NP (DT the) (NNS observations)))))))) (. .))

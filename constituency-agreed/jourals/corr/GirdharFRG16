@@ -1,0 +1,2 @@
+(SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NP (DT a) (JJ good) (NN vector) (NN representation)) (PP (IN of) (NP (DT an) (NN object))))) (. ?))
+(S (NP (JJ Extensive) (JJ experimental) (NN analysis)) (VP (VBZ demonstrates) (NP (NP (DT the) (NN usefulness) (CC and) (NN versatility)) (PP (IN of) (NP (DT this) (NN embedding))))) (. .))

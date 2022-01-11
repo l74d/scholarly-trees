@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NNP MaxEnt) (NNS models)) (VP (VBP allow) (PP (IN for) (NP (NP (DT the) (JJ natural) (NN incorporation)) (PP (IN of) (NP (JJ prior) (NN information))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP they)) (VP (VBP satisfy) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ desirable) (NNS properties)) (PP (IN of) (NP (ADJP (RB previously) (VBN introduced)) (NN randomization) (NNS approaches))))))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS data) (NNS types))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (NN concreteness))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN chosen) (S (VP (TO to) (VP (VB demonstrate) (NP (PRP it)) (PP (IN in) (ADJP (JJ particular))) (PP (IN for) (NP (NNS databases) (CC and) (NNS networks)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP use) (NP (NN unit) (NNS quaternions)) (S (VP (TO to) (VP (VB represent) (NP (NP (DT the) (NN object) (POS 's)) (NN orientation)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (JJ experimental) (NNS studies)) (PP (IN with) (NP (CD two) (JJ robotic) (NNS arms)))) (VP (VBP verify) (NP (NP (DT the) (NN validity) (CC and) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN control) (NN protocol))))) (. .))

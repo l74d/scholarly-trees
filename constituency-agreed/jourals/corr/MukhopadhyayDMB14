@@ -1,0 +1,2 @@
+(S (ADVP (RB Thereafter)) (NP (DT a) (JJ comparative) (NN study)) (VP (VBZ is) (VP (VBN done) (PP (IN for) (S (VP (VBG detecting) (NP (NP (DT the) (NN periodicity)) (PP (IN of) (NP (DT both) (NN summer) (CC and) (NN winter))))))))) (. .))
+(S (ADVP (RB Then)) (NP (NN wavelet) (NN coherence)) (VP (VBZ is) (VP (VBN checked) (PP (IN between) (NP (DT these) (CD two) (NNS data))) (PP (IN for) (S (VP (VBG extracting) (NP (DT the) (NN phase) (NN coherency) (NN information))))))) (. .))

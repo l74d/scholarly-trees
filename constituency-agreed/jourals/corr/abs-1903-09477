@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN step)) (VP (VBZ is) (ADJP (RB potentially) (JJ disruptive)) (, ,) (ADVP (RB however))) (. .))
+(S (S (NP (DT These) (NNS modules)) (VP (MD can) (VP (VB be) (VP (VBN replaced) (PP (IN without) (S (VP (VBG restarting) (NP (NP (DT any) (NN part)) (PP (IN of) (NP (DT the) (NN system))))))))))) (: ;) (S (NP (PRP they)) (VP (MD can) (ADVP (RB even)) (VP (VB be) (VP (VBN replaced) (PP (IN between) (NP (NP (NNS iterations)) (PP (IN of) (NP (DT an) (JJ ongoing) (NN assignment))))))))) (. .))

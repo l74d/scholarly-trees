@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN process)) (VP (VBZ starts) (PP (IN with) (S (VP (VP (VBG dividing) (NP (DT the) (NN input) (NNS data)) (PP (IN into) (NP (NNP K) (NNS clusters)))) (CC and) (VP (VBG feeding) (NP (NP (DT each)) (PP (IN of) (NP (PRP them)))) (PP (IN into) (NP (DT a) (JJ separate) (NN network)))))))) (. .))

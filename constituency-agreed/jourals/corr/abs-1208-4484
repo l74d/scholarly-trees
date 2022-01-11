@@ -1,0 +1,4 @@
+(S (S (NP (DT The) (NNS robots)) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (JJ transparent)))))))) (CC and) (S (NP (PRP they)) (VP (VBP have) (NP (JJ full) (NN visibility)))) (. .))
+(S (NP (DT The) (NNS robots)) (VP (VBP are) (ADVP (RB initially)) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (ADJP (JJ stationary))))))) (. .))
+(S (NP (DT The) (NNS robots)) (VP (VBP do) (RB not) (VP (VB store) (NP (JJ past) (NNS actions)))) (. .))
+(S (NP (DT The) (NNS robots)) (VP (VBP do) (RB not) (VP (VB communicate) (PP (IN through) (NP (NN message) (NN passing))))) (. .))

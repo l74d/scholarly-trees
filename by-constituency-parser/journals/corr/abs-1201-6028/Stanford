@@ -1,0 +1,3 @@
+(S (NP (DT The) (ADJP (JJ strong) (, ,) (JJ intermediate) (, ,) (CC and) (JJ weak) (JJ Turing)) (NN impossibility) (NNS properties)) (VP (VBP are) (VP (VBN introduced))) (. .))
+(S (NP (NP (DT Some) (NNS facts)) (PP (VBG concerning) (NP (NP (NNP Turing) (NN impossibility)) (PP (IN for) (NP (NN stack) (NN machine) (NN programming)))))) (VP (VBP are) (ADVP (RB trivially)) (VP (VBN adapted) (PP (IN from) (NP (JJ previous) (NN work))))) (. .))
+(S (NP (JJ Several) (JJ intriguing) (NNS questions)) (VP (VBP are) (VP (VBN raised) (PP (IN about) (NP (DT the) (NNP Turing) (NN impossibility) (NNS properties))) (PP (VBG concerning) (NP (NP (JJ different) (NN method)) (SBAR (S (VP (VBZ interfaces) (PP (IN for) (NP (NN stack) (NN machine) (NN programming)))))))))) (. .))

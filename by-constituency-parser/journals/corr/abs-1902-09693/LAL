@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ new) (JJ linear) (NN time) (JJ correctness) (NN condition)) (PP (IN for) (NP (NP (JJ proof) (NNS nets)) (PP (IN of) (NP (NP (JJ Multiplicative) (NNP Linear) (NNP Logic)) (PP (IN without) (NP (NNS units))))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN rewriting) (NN system)) (PP (IN over) (NP (NNS trees))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (NP (QP (RB only) (CD three)) (NN rewrite) (NNS rules))) (. .))
+(S (PP (VBN Compared) (PP (IN with) (NP (JJ previous) (JJ linear) (NN time) (NN correctness) (NNS conditions)))) (, ,) (NP (PRP$ our) (NN system)) (VP (VBZ is) (ADJP (ADJP (RB surprisingly) (JJ simple)) (CC and) (ADJP (RB intuitively) (VBG appealing)))) (. .))

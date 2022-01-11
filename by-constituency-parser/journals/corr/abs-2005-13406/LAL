@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (JJ neural) (NN graph) (NNS networks)) (PP (IN with) (NP (NP (DT a) (JJ message-passing) (NN architecture)) (CC and) (NP (DT an) (NN attention) (NN mechanism))))) (S (VP (TO to) (VP (VB enhance) (NP (DT the) (NN branching) (JJ heuristic)) (PP (IN in) (NP (CD two) (JJ SAT-solving) (NNS algorithms))))))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (NP (NP (NNS improvements)) (PP (IN of) (NP (JJ learned) (JJ neural) (NNS heuristics))) (PP (VBN compared) (PP (IN with) (NP (CD two) (JJ standard) (JJ human-designed) (NNS heuristics)))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (NP (NN linkage) (NNS data)) (PP (IN in) (NP (DT a) (JJ large) (NN network)))) (VP (VBZ is) (ADJP (RB inherently) (JJ sparse))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN noted) (SBAR (IN that) (S (S (VP (VBG collecting) (NP (JJR more) (NNS data)))) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NN similarity) (NN measure)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ gives) (NP (JJ different) (NNS parties)) (NP (DT a) (NN motivation) (S (VP (TO to) (VP (VB cooperate)))))) (. .))

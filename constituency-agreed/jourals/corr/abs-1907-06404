@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN robustification)) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (S (VP (VBG considering) (NP (NP (NNS uncertainties)) (PP (IN of) (NP (JJ different) (NNS origins))))))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ geometrical) (NNS uncertainties)) (VP (VBN caused) (PP (IN by) (NP (VBG manufacturing) (NNS inaccuracies)))))) (. .))
+(S (NP (JJ Stochastic) (NN collocation)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB compute) (NP (NP (NNS moments)) (PP (IN of) (NP (JJ stochastic) (NNS quantities))))))))) (. .))

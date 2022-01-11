@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN approach)) (PP (IN for) (NP (NP (JJ unsupervised) (NN domain) (NN adaptation)) (PP (IN for) (NP (JJ neural) (NNS networks)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (PP (IN Under) (NP (NP (JJ appropriate) (NNS assumptions)) (PP (IN on) (NP (DT the) (NN input) (NNS distributions))))) (, ,) (NP (NN error) (NN minimization)) (VP (VBZ is) (VP (VBN proven) (PP (IN for) (NP (DT the) (JJ continuous) (NN case))))) (. .))

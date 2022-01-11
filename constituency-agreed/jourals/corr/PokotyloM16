@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN potential)) (PP (IN of) (NP (DT a) (NN class)))) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT a) (NN kernel) (NN density) (NN estimate)) (VP (VBN multiplied) (PP (IN by) (NP (NP (DT the) (NN class) (POS 's)) (JJ prior) (NN probability)))))))) (. .))
+(S (NP (DT The) (NNS potentials)) (VP (VBP depend) (PP (IN on) (NP (NP (DT the) (NN kernel)) (CC and) (NP (NP (PRP$ its) (NN bandwidth)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN density) (NN estimate)))))))) (. .))

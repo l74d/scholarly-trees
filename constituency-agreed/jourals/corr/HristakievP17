@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT every) (NN input) (NN equation))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ generates) (NP (NP (DT a) (JJ finite) (NN set)) (PP (IN of) (NP (NNS substitutions))))) (. .))
+(S (SBAR (IN Since) (S (NP (NNP GP) (NNS labels)) (VP (VBP are) (NP (NP (NNS lists)) (VP (VBN constructed) (PP (IN by) (NP (NN concatenation)))))))) (, ,) (NP (NP (NN unification) (NN modulo) (NN associativity)) (CC and) (NP (NN unit) (NN law))) (VP (VBZ is) (VP (VBN required))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NNP WebAssembly)) (VP (VBZ is) (RB not) (ADJP (JJ exempt) (PP (IN from) (NP (NP (NNS vulnerabilities)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB be) (VP (VBN exploited) (PP (IN by) (NP (NN side) (NNS channels) (NNS attacks)))))))))))) (. .))
+(NP (NP (DT This) (NN class)) (PP (IN of) (NP (NP (NNS vulnerabilities)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN addressed) (PP (IN by) (NP (NN code) (NN diversification)))))))))) (. .))

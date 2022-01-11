@@ -1,0 +1,1 @@
+(SBARQ (SBAR (IN If) (S (NP (JJ full) (NN transparency)) (VP (VBZ is) (ADJP (JJ possible))))) (, ,) (WHNP (WP who)) (SQ (VP (VBZ needs) (NP (NP (JJ explicit) (NN use)) (PP (IN of) (NP (NN middleware)))) (SBAR (IN if) (S (NP (PRP you)) (VP (MD can) (VP (VB treat) (NP (JJ remote) (NNS entities)) (PP (IN as) (NP (JJ local) (NNS ones))))))))) (. ?))

@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ backdoor) (NN attack)) (VP (VBZ installs) (NP (DT a) (NN backdoor)) (PP (IN into) (NP (DT the) (NN victim) (NN model))) (PP (IN by) (S (VP (VBG injecting) (NP (DT a) (NN backdoor) (NN pattern)) (PP (IN into) (NP (NP (DT a) (JJ small) (NN proportion)) (PP (IN of) (NP (DT the) (NN training) (NNS data))))))))) (. .))

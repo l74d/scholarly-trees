@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (NP (DT a) (JJ functional)) (VP (VBG connecting) (NP (NP (DT the) (NN equation)) (CC and) (NP (DT the) (NN performance) (NN index))))) (VP (VBZ is) (VP (VBN derived))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (NNP Lagrange) (NNP Principle)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (JJ optimal) (NN solution))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (NN model)) (PP (IN of) (NP (NP (JJ phonological) (NN contrast)) (PP (IN in) (NP (JJ natural) (NN language))))))) (. .))
+(S (NP (DT Each) (NN exemplar)) (VP (VBZ is) (NP (NP (DT a) (JJ detailed) (NN memory)) (PP (IN of) (NP (NP (DT a) (JJ particular) (NN utterance)) (PP (IN of) (NP (NP (DT the) (NN word)) (PP (IN in) (NP (NN question))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ positive) (JJ characteristic))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ differential) (NNS operators)) (VP (MD can) (VP (VB be) (VP (VBN multiplied) (PP (IN in) (NP (ADJP (RB nearly) (JJ optimal)) (NN time))))))))) (. .))
+(S (NP (JJ Theoretical) (NNS results)) (VP (VBP are) (VP (VBN validated) (PP (IN by) (NP (JJ intensive) (NNS experiments))))) (. .))

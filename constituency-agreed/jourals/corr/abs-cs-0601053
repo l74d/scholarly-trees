@@ -1,0 +1,2 @@
+(S (NP (NN Obstacle) (NN avoidance)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (S (VP (VBG using) (NP (NN possibility) (NN theory))))))) (. .))
+(S (NP (NP (NNS Waypoints)) (PP (IN in) (NP (DT the) (NN path)))) (VP (VBP are) (VP (VBN incorporated) (PP (IN into) (NP (DT the) (NN obstacle) (NN avoidance))))) (. .))

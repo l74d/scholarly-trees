@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (NP (DT the) (JJ optimal) (NN rate) (NN splitting)) (PP (IN of) (NP (DT each) (NN user)))) (VP (VBZ is) (VP (VBN determined))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (DT the) (JJ optimal) (NN decoding) (NN order)) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (DT an) (JJ exhaustive) (NN search) (NN method))))) (. .))

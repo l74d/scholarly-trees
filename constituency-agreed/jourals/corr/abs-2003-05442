@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ common) (NN denominator)) (PP (IN of) (NP (DT these) (NNS algorithms)))) (VP (VBZ is) (S (VP (TO to) (VP (VB discard) (NP (JJ low) (JJ critical) (NNS tasks)) (SBAR (WHADVP (WRB whenever)) (S (NP (JJ high) (JJ critical) (NNS tasks)) (VP (VBP are) (PP (IN in) (NP (NP (NN lack)) (PP (IN of) (NP (NN computation) (NNS resources)))))))))))) (. .))

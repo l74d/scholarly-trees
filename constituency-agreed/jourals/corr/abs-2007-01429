@@ -1,0 +1,1 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS concerns)) (PP (IN for) (NP (JJ neural) (NN network) (NN training)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (NN non-convexity)) (PP (IN of) (NP (DT the) (JJ associated) (NN loss) (NNS functions)))) (VP (MD may) (VP (VB cause) (NP (JJ bad) (NN landscape))))))) (. .))

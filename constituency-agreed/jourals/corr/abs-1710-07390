@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN need)) (PP (IN for) (S (VP (VBG reducing) (NP (DT the) (NN reviewing) (NN time)) (S (VP (VBG using) (NP (DT some) (JJ intelligent) (NNS methods)))))))) (VP (VBZ has) (VP (VBN been) (NP (DT a) (NN challenge)))) (. .))
+(S (S (NP (JJS Most) (NNS polyps)) (VP (VBP are) (RB not) (ADJP (JJ cancerous)))) (, ,) (CC but) (S (SBAR (IN if) (S (NP (CD one)) (VP (VBZ becomes) (ADJP (ADJP (JJR larger)) (PP (IN than) (NP (DT a) (NN centimeter))))))) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB turn) (PP (IN into) (NP (NN cancer))) (PP (IN by) (NP (JJ great) (NN chance)))))) (. .))
+(S (NP (DT The) (NNP SLIC) (NN superpixel) (NN segmentation)) (VP (VBZ is) (VP (VBG promising) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (JJ previous) (NNS studies))))))))) (. .))
+(S (NP (DT The) (NN classification) (NNS results)) (VP (VBD showed) (NP (NP (DT a) (NN sensitivity)) (PP (IN of) (NP (CD 91) (NN %))))) (. .))

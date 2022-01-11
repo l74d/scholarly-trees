@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (NP (NNS concepts)) (PP (JJ such) (IN as) (NP (NN misinformation) (CC and) (NN manipulation)))) (VP (VBP have) (VP (VBN emerged) (PP (IN as) (NP (DT a) (JJ global) (NN concern))))) (. .))
+(S (PP (VBN Given) (NP (DT this) (NN background))) (, ,) (NP (DT the) (NN paper)) (VP (VBZ examines) (NP (JJ online) (JJ political) (NNS ads)) (PP (IN by) (S (VP (VBG using) (NP (NP (DT a) (NN dataset)) (VP (VBN collected) (PP (IN from) (NP (NP (NNP Google) (POS 's)) (NN transparency) (NNS reports))))))))) (. .))

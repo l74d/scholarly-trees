@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT these) (NNS applications))) (, ,) (NP (ADJP (VBN distributed) (CC and) (JJ scalable)) (NNS architectures)) (VP (VBP are) (NP (DT a) (NN necessity))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ Bayesian) (NN optimization)) (VP (VBZ is) (ADJP (RB mostly) (JJ sequential))) (. .))
+(S (CC But) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBN compared) (PP (IN with) (NP (NP (JJ other) (NN acquisition) (NNS functions)) (PP (IN in) (NP (DT the) (JJ sequential) (NN setting)))))))) (, ,) (NP (NNP Thompson) (NN sampling)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB perform) (ADVP (RB suboptimally))))))) (. .))

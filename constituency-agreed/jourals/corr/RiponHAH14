@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (NP (ADJP (RB precisely) (VBN defined)) (JJ formal) (NN notation)) (PP (IN for) (S (VP (VBG representing) (CC and) (VBG verifying) (NP (JJ such) (NNS models))))))))) (. .))
+(S (NP (DT These) (NNS expressions)) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN validated) (PP (IN by) (NP (DT any) (JJ suitable) (NN verification) (NN tool)))))) (. .))

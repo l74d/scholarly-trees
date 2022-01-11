@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN knowledge) (NN state)) (VP (VP (ADVP (RB simply)) (VBZ states) (NP (NP (JJ conditional) (NNS obligations)) (PP (IN of) (NP (DT an) (NN adversary)))) (, ,) (PP (IN by) (S (VP (VBG fixing) (NP (DT a) (NN work) (NN function)))))) (, ,) (CC and) (VP (VBZ gives) (NP (NP (DT a) (NN distribution)) (PP (IN for) (NP (DT the) (NN algorithm)))))) (. .))
+(S (NP (DT These) (NNS algorithms)) (VP (VBP use) (NP (NP (RB only) (DT a) (ADJP (RB very) (JJ limited)) (NN number)) (PP (IN of) (NP (NNS bookmarks))))) (. .))

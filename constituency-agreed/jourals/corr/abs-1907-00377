@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN integrated) (NP (NNP FVA) (NNS agents)) (PP (IN with) (NP (DT an) (NNP AR) (NN environment))) (S (VP (VBG using) (PP (IN with) (NP (DT a) (NNP Microsoft) (NNP HoloLens))))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (MD can) (VP (VB generate) (NP (JJ plausible) (NNS movements)) (PP (IN at) (NP (JJ interactive) (NNS rates))) (S (VP (TO to) (VP (VB increase) (NP (DT the) (JJ social) (NN presence))))))) (. .))

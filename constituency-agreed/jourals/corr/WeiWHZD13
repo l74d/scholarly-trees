@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ classical) (NN information) (NN dimension)) (PP (IN of) (NP (JJ complex) (NNS networks)))) (VP (VBZ is) (RB not) (ADJP (JJ practical) (PP (IN for) (NP (JJ real) (JJ complex) (NNS networks))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (NN information) (NN dimension)) (SBAR (S (VP (TO to) (VP (VB characterize) (NP (NP (DT the) (NN dimension)) (PP (IN of) (NP (JJ complex) (NNS networks))))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

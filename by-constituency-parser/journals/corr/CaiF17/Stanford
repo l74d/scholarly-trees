@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NN complexity) (NN dichotomy) (NN theorem)) (PP (IN for) (NP (DT the) (NML (CD eight) (HYPH -) (NN vertex)) (NN model))))) (. .))
+(S (NP (DT The) (NN dichotomy) (NN criterion)) (VP (VBZ is) (ADJP (JJ explicit))) (. .))
+(S (PP (IN For) (NP (NN tractability))) (, ,) (NP (PRP we)) (VP (VBP find) (NP (NP (DT some) (JJ new) (NNS classes)) (PP (IN of) (NP (NNS problems)))) (NP-TMP (ADJP (JJ computable) (PP (IN in) (ADJP (JJ polynomial)))) (NN time))) (. .))

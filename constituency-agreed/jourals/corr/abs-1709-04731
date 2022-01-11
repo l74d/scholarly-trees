@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ large) (NN number)) (PP (IN of) (NP (NNS parameters)))) (ADVP (RB also)) (VP (VBP require) (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (NN memory))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBG resulting) (PP (IN in) (NP (NP (ADJP (RB increasingly) (JJ long)) (NN computation) (NNS times)) (CC and) (NP (JJ large) (NN model) (NNS sizes)))))) (. .))

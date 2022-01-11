@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN observation) (NN noise)) (VP (VBZ is) (NP (JJ additive) (NNP Gaussian))) (. .))
+(S (NP (DT The) (JJ main) (NN result)) (VP (VBZ is) (VP (VBN established) (PP (IN by) (S (VP (VBG making) (NP (NP (DT a) (JJ novel) (NN connection)) (PP (IN between) (NP (NP (JJ statistical) (NN test)) (CC and) (NP (JJ differential) (NN geometry)))))))))) (. .))

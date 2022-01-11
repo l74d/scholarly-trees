@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NNS attacks)) (CC and) (NP (NP (DT the) (NN recovery)) (PP (IN on) (NP (DT the) (NNS edges))))) (VP (VBP affect) (NP (DT the) (NN consensus) (NN process)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP provide) (NP (JJ numerical) (NN simulation)) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (NNS results)))))) (. .))

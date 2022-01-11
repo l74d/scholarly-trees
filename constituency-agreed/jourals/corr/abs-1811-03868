@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (PRP we)) (VP (VBP model) (PP (IN as) (NP (DT an) (JJ objective) (NN function))) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NN recipe))))))) (, ,) (NP (JJ several) (NNS problems)) (VP (VBP arise)) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (JJ empirical) (NN evidence)) (PP (IN with) (NP (NP (CD two) (NNS experiments)) (SBAR (WHNP (WDT that)) (S (VP (VBP support) (NP (NP (DT the) (NN adequacy)) (PP (IN of) (NP (DT the) (NN methodology)))))))))) (. .))

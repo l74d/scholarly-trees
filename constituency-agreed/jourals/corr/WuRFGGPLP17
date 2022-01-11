@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN result)) (VP (VBZ comes) (PP (IN with) (NP (NNS caveats)))) (. .))
+(S (NP (JJ Learnable) (NNS representations)) (ADVP (RB still)) (VP (VBP struggle) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (JJ complex) (NNS tasks))) (PP (IN under) (NP (NP (NNS data) (NN scarcity)) (CC and) (NP (ADJP (RB highly) (JJ imbalanced)) (NN classification)))))))) (. .))

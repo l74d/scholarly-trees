@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (DT an) (NN input) (NN distribution))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (VBG rounding) (NNS errors))))))))) (. .))

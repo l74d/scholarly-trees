@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ adversarial) (NN bandit) (NN problem)) (PP (IN with) (NP (NN memory) (NNS constraints)))) (VP (VBZ is) (VP (VBN studied) (SBAR (WHADVP (WRB where)) (S (NP (NP (RB only) (DT the) (NNS statistics)) (PP (IN of) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (NNS arms)))))) (VP (MD can) (VP (VB be) (VP (VBN stored)))))))) (. .))

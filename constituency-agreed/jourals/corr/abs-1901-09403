@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ primary) (NN subject)) (PP (IN of) (NP (DT these) (NNS videos)))) (VP (VBP are) (ADVP (RB predominantly)) (NP (NP (NNS humans)) (VP (VBG performing) (NP (DT some) (NN action))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBP consider) (NP (JJ spatiotemporal) (NN action) (NN recognition))))) (, ,) (NP (PRP we)) (VP (VBP deal) (PP (IN with) (NP (NN action) (NN localization)))) (. .))

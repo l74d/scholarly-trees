@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (NP (DT the) (JJ first) (NN stage)) (PP (IN of) (NP (DT the) (NN methodology))))) (, ,) (NP (NNS documents)) (VP (VBP are) (VP (VBN indexed) (PP (IN against) (NP (NP (DT the) (NN ontology)) (VP (VBG representing) (NP (NN macro-situation))))))) (. .))
+(S (NP (DT The) (NN indexing) (NN method)) (VP (VBZ uses) (NP (DT a) (NN topic) (NN tree)) (PP (IN as) (NP (NP (DT a) (JJ middle) (NN layer)) (PP (IN between) (NP (NP (NNS documents)) (CC and) (NP (DT the) (NN application) (NN ontology))))))) (. .))

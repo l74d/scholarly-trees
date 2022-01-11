@@ -1,0 +1,2 @@
+(S (NP (NNS People)) (VP (VBP are) (VP (VBG becoming) (ADJP (RB very) (JJ cautious)) (SBAR (WHADVP (WRB when)) (S (VP (VBG conducting) (NP (JJ electronic) (NNS transactions)) (PP (IN over) (NP (NN internet)))))))) (. .))
+(S (NP (DT The) (NN plugin)) (VP (VP (VBZ maintains) (NP (NNS data)) (ADVP (RB locally))) (CC and) (VP (MD may) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB synchronize) (PP (IN with) (NP (DT a) (JJ third) (NN party))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NNP Laplace) (NN approximation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ creates) (NP (DT a) (JJ stochastic) (NN unit)) (PP (IN from) (NP (DT any) (JJ smooth) (JJ monotonic) (NN activation) (NN function))) (, ,) (S (VP (VBG using) (NP (RB only) (JJ Gaussian) (NN noise))))))))) (. .))

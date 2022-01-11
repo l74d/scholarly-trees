@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VP (MD may) (VP (VB result) (PP (IN in) (NP (DT an) (JJ efficient) (NN consensus) (NN computation) (NN technique))))) (CC and) (VP (MD may) (VP (VB save) (NP (JJ unnecessary) (JJ computational) (NNS overheads))))) (. .))
+(S (NP (PRP We)) (VP (VBP prioritize) (NP (NP (DT the) (NNS partitions)) (PP (IN in) (NP (DT the) (NN ensemble)))) (PP (VBN based) (PP (IN on) (NP (NN diversity) (CC and) (NN frequency))))) (. .))

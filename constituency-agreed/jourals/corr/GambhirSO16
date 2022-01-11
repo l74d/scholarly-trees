@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNS fields)) (VP (VBP require) (S (VP (VBG computing) (NP (NP (DT the) (NN trace)) (PP (IN of) (NP (NP (DT the) (NN inverse)) (PP (IN of) (NP (DT a) (JJ large) (, ,) (JJ sparse) (NN matrix))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP make) (NP (CD two) (JJ main) (NNS contributions))) (. .))

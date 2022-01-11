@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN approach)) (VP (VBZ operates) (PP (IN in) (NP (CD two) (NNS phases))))) (: :) (S (NP (DT the) (JJ first) (NN phase)) (VP (VBZ is) (S (VP (TO to) (VP (VB make) (NP (NP (DT an) (NN over-segmentation)) (SBAR (WHNP (WDT which)) (S (VP (VBZ gives) (NP (NNS superpixels)) (NP (NN card))))))))))) (. .))

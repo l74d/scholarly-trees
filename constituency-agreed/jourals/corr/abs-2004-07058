@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ new) (NN method)) (VP (VBZ is) (VP (VBN benchmarked) (PP (IN against) (NP (NP (DT a) (JJ naive) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (ADJP (RB purely) (JJ polyhedral)) (NNS methods))))))))) (. .))

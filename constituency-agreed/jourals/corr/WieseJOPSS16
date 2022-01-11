@@ -1,0 +1,2 @@
+(S (NP (JJ Further) (NNS properties)) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (DT The) (NN estimator)) (VP (MD should) (VP (VB obtain) (NP (DT a) (ADJP (RB uniformly) (VBN bounded)) (NN estimation) (NN error)) (SBAR (IN whereas) (S (NP (NP (DT the) (NN eavesdropper) (POS 's)) (NN error)) (VP (MD should) (VP (VB tend) (PP (TO to) (NP (NN infinity))))))))) (. .))

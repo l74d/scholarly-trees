@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN survey)) (VP (VBD was) (VP (VBN carried) (PRT (RP out)) (PP (IN between) (NP (NP (NNP December) (CD 2014)) (CC and) (NP (NNP February) (CD 2015)))) (, ,) (S (VP (VBG collecting) (NP (NNS responses)) (PP (IN from) (NP (CD 1142) (NNS astronomers))) (, ,) (S (VP (VBG spanning) (NP (DT all) (NN career) (NNS levels)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (DT all) (NNS participants)) (VP (VBP use) (NP (NN software)) (PP (IN in) (NP (PRP$ their) (NN research))))))) (. .))
+(S (NP (DT The) (VBG remaining) (CD 43) (NN %)) (VP (VBP have) (VP (VBN received) (NP (DT no) (NN training)))) (. .))

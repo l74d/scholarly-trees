@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ raises) (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (IN whether) (S (S (VP (VBG downloading) (NP (JJ untrusted) (JJ pre-trained) (NNS weights)))) (VP (MD can) (VP (VB pose) (NP (DT a) (NN security) (NN threat))))))))) (. .))

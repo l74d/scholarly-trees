@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG determining) (NP (NP (DT the) (NN probability) (NN distribution)) (PP (IN of) (NP (DT the) (NN integration) (NN result))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN under) (NP (ADJP (JJ intuitive) (CC and) (JJ reasonable)) (NNS assumptions))) (NP (PRP we)) (VP (MD can) (VP (VB determine) (NP (NP (DT the) (JJ exact) (NN probability) (NN distribution)) (PP (IN of) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NN integration))))))))))) (. .))

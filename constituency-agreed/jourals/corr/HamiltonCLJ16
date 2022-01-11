@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN word) (POS 's)) (NN sentiment)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN domain)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN used)))))))) (. .))

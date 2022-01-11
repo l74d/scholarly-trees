@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN implemented) (NP (NN C)) (PP (IN like) (NP (NP (NNP Continuation)) (VP (VBN based) (NP (NN programming) (NN language))))))) (. .))
+(S (S (NP (NP (NN Continuation)) (VP (VBN based) (NP (NNP C) (, ,) (NNP CbC)))) (VP (VBD was) (VP (VBN implemented) (S (VP (VBG using) (NP (NN micro-C)) (PP (IN on) (NP (JJ various) (NN architecture)))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP have) (VP (VBN tried) (NP (JJ several) (NNP CbC) (NN programming) (NNS experiments))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP report) (NP (NP (JJ new) (NN implementation)) (PP (IN of) (NP (NNP CbC) (NN compiler)))) (PP (VBN based) (PP (IN on) (NP (NN GCC) (CD 4.2.3))))) (. .))
+(S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ contains) (NP (NML (JJ full) (NN C)) (NN capability))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB use) (NP (NNP CbC) (CC and) (NNP C)) (PP (IN in) (NP (DT a) (NN mixture))))) (. .))

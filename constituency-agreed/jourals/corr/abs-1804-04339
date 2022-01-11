@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS proposals)) (PP (IN in) (NP (NP (DT each) (NN frame)) (PP (IN of) (NP (DT the) (JJ continuous) (NN video) (NN stream)))))) (VP (VBP are) (VP (VBN tracked) (S (VP (TO to) (VP (VB trace) (NP (PRP$ their) (NNS trajectories))))))) (. .))
+(S (NP (DT The) (NNS trajectories)) (VP (VBP are) (ADVP (RB again)) (VP (VBN refined) (S (VP (TO to) (VP (VB ascertain) (NP (JJ reliable) (NN counting))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (DT this) (NN paper)) (VP (VBZ proposes) (S (VP (TO to) (VP (VB change) (NP (DT this) (NN viewpoint)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (JJ last) (NN case) (NN study)) (VP (VBZ compares) (NP (JJ numerical) (NNS results)) (PP (IN with) (NP (JJ experimental) (NNS measurements))) (, ,) (S (VP (VBG showing) (NP (DT a) (JJ good) (NN agreement))))) (. .))

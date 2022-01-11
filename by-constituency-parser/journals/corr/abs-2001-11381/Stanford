@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN state)) (PP (IN of) (NP (DT the) (NN art)))) (PP (IN in) (NP (NP (DT the) (NN area)) (PP (IN of) (NP (NNP Computational) (NNP Creativity))))) (PRN (-LRB- -LRB-) (NP (NNP CC)) (-RRB- -RRB-))) (. .))
+(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (JJ automatic) (NN generation)) (PP (IN of) (NP (NP (JJ literary) (NNS sentences)) (PP (IN in) (NP (NNP Spanish))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NP (CD three) (NNS models)) (PP (IN of) (NP (NN text) (NN generation))) (UCP (VP (VBN based) (ADVP (RB mainly)) (PP (IN on) (NP (JJ statistical) (NNS algorithms)))) (CC and) (ADJP (JJ shallow)))) (VP (VBG parsing) (NP (NN analysis))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP present) (NP (DT some) (ADJP (RB rather) (JJ encouraging)) (JJ preliminary) (NNS results))) (. .))

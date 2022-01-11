@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN translation)) (VP (VBZ is) (ADJP (JJ computable)) (SBAR (IN if) (S (NP (DT the) (NN consequence) (NN relation)) (VP (VBZ is) (ADJP (JJ decidable)))))) (. .))

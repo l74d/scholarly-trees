@@ -1,0 +1,2 @@
+(S (ADVP (RB Still)) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT a) (NN goldmine)) (PP (IN of) (NP (JJ relevant) (NNS facts) (CC and) (NNS relations))))) (. .))
+(S (NP (DT These) (NNS datasets)) (VP (MD can) (VP (VB help) (S (VP (VB develop) (NP (NP (JJ new) (NNS methods)) (PP (IN of) (NP (NP (NN knowledge) (NN graph) (NN processing)) (CC and) (NP (JJ relational) (NN learning))))))))) (. .))

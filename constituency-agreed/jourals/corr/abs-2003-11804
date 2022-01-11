@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NN challenge)) (PP (IN of) (NP (DT this) (NN approach)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (VBN labeled) (NNS data)) (VP (VBN obtained) (PP (IN from) (NP (NNS experiments))))) (VP (VBP are) (RB not) (ADJP (JJ abundant)))))) (. .))
+(S (NP (NP (DT The) (JJ central) (NN idea)) (PP (IN of) (NP (PRP$ our) (NN scheme)))) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (DT the) (JJ active) (NN learning)) (S (VP (TO to) (VP (VB overcome) (NP (DT this) (NN difficulty))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (PDT All) (DT the) (NNS parameters)) (PP (IN in) (NP (PRP$ our) (NN network)))) (VP (VBP are) (VP (VBN learned) (PP (IN from) (S (VP (VBG minimizing) (NP (DT a) (NN loss) (NN function))))))) (. .))

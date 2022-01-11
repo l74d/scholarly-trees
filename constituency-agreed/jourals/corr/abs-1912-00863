@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN problem))))) (, ,) (PP (IN in) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN architecture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ separates) (NP (DT the) (NN decoder) (NN subnet)) (PP (IN from) (NP (DT the) (NN encoder) (NN output)))))))) (. .))

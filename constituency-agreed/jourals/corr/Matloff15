@@ -1,0 +1,1 @@
+(S (S (NP (NP (JJ Asymptotic) (NNS distributions)) (PP (IN of) (NP (DT the) (NNS estimators)))) (VP (VBP are) (VP (VBN derived)))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN proven) (SBAR (IN that) (S (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT the) (JJ unlabeled) (NNS observations)))) (VP (VBZ does) (VP (VB reduce) (NP (JJ asymptotic) (NN variance))))))))) (. .))

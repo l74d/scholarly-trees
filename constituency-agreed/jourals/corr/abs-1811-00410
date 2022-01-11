@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (NP (PRP$ their) (JJ impressive) (NN performance)) (PP (IN in) (NP (JJ many) (NNS tasks))))) (, ,) (NP (JJ deep) (JJ neural) (NNS networks)) (ADVP (RB often)) (VP (VBP struggle) (PP (IN at) (NP (JJ relational) (NN reasoning)))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (NP (DT this)) (VP (VBZ is) (ADJP (RB combinatorially) (JJ expensive))) (. .))

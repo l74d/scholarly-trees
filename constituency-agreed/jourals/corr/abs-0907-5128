@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS communications)))) (VP (VBZ is) (ADJP (ADVP (IN at) (JJS least)) (JJ logarithmic) (PP (IN in) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT the) (NN input))))))))) (, ,) (NP (JJ several) (NNS problems)) (VP (VBP are) (ADJP (JJ undecidable))) (. .))

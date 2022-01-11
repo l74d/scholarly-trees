@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (S (VP (VBG using) (NP (DT the) (VBN proposed) (NN algorithm)))) (, ,) (NP (PRP we)) (VP (VBP suggest) (NP (NP (DT a) (NN conditionalimage) (NN generation) (NN algorithm)) (, ,) (ADVP (RB namely)) (NP (DT a) (ADJP (RB spatially) (VBN conditioned)) (NNP GAN)))) (. .))

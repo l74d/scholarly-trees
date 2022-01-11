@@ -1,0 +1,3 @@
+(S (NP (JJ Urban) (NN population)) (VP (VBZ grows) (ADVP (RB constantly))) (. .))
+(S (PP (IN By) (NP (CD 2050))) (NP (NP (CD two) (NNS thirds)) (PP (IN of) (NP (DT the) (NN world) (NN population)))) (VP (MD will) (VP (VB reside) (PP (IN in) (NP (JJ urban) (NNS areas))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (NP (JJ cold) (NNS spots)) (PP (IN of) (NP (NNS women) (CC and) (NNS tourists)))) (VP (VBP tend) (S (VP (TO to) (VP (VB have) (NP (JJR lower) (NN population) (NN income)))))) (. .))

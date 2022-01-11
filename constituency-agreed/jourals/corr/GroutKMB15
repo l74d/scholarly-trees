@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN strategy)) (SBAR (WHADVP (WRB where)) (S (NP (JJ extra) (NN correction) (NNS iterations)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VP (VB recover) (PP (IN from) (NP (JJ soft) (NNS errors)))) (CC and) (VP (VB provide) (NP (JJ algorithmic) (NN resilience))))))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

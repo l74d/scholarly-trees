@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (NP (DT the) (NNS needs)) (CC and) (NP (DT the) (NNS requirements))) (VP (VBP vary) (PP (VBG depending) (PP (IN on) (NP (PRP$ their) (NN volume))))))) (, ,) (NP (DT the) (JJ entire) (NN enterprise) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN broken) (PP (IN into) (NP (NP (NNS chunks)) (PP (IN of) (NP (JJ manageable) (NNS pieces)))))))) (. .))
+(S (NP (DT These) (NNS pieces)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (CC and) (VBN tested) (ADVP (RB individually)) (PP (IN with) (NP (JJ high) (NN integration) (NN effort)))))) (. .))

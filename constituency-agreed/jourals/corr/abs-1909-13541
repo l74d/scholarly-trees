@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT an) (JJ ongoing) (NN research) (NN effort) (S (VP (TO to) (VP (VB devise) (NP (JJ efficient) (NNS heuristics))))))) (. .))
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (NP (NN research)) (PP (IN on) (NP (DT the) (JJ unconstrained) (NN sample) (NN mean) (NN problem)))) (VP (VBZ is) (ADJP (JJ underdeveloped))) (. .))

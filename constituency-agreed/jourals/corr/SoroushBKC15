@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP exist) (NP (NP (JJ multiple) (NNS engines)) (VP (VBN specialized) (PP (IN for) (NP (NN array) (NN processing)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (NP (DT a) (NN model)) (PP (IN for) (NP (JJ iterative) (NN array) (NNS computations)))) (CC and) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS optimizations)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN found) (SBAR (IN that) (S (NP (DT the) (JJ mean) (NN photon) (NN number)) (VP (MD can) (VP (VB be) (ADJP (ADJP (RB much) (JJR larger)) (PP (IN than) (NP (CD one)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ complements) (NP (NP (DT the) (JJ recent) (NN interest)) (PP (IN in) (NP (NP (JJ multi-photon) (NN quantum) (NN communication) (NNS protocols)) (SBAR (WHNP (WDT that)) (S (VP (VBP require) (NP (NP (DT a) (JJ pre-shared) (NN key)) (PP (IN between) (NP (DT the) (JJ legitimate) (NNS users))))))))))) (. .))

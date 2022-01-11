@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN controller)) (PP (IN for) (NP (NP (DT the) (NN transition) (NN maneuver)) (PP (IN of) (NP (DT a) (JJ tail-sitter) (NN drone))))))) (. .))
+(S (NP (DT The) (JJ tail-sitter) (NN model)) (VP (NNS considers) (NP (JJ aerodynamic) (NNS terms)) (SBAR (VBP whereas) (S (NP (DT the) (VBN proposed) (NN controller)) (VP (VBZ considers) (NP (NP (DT the) (JJ time-scale) (NN separation)) (PP (IN between) (NP (NP (JJ drone) (NN attitude)) (CC and) (NP (NN position) (NNS dynamics))))))))) (. .))
+(S (NP (DT The) (NN controller) (NN design)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNP Lyapunov) (NN approach)) (CC and) (NP (JJ linear) (NN saturation) (NNS functions)))))) (. .))
+(S (NP (NNS Simulations) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (JJ derived) (JJ theoretical) (NNS results))))) (. .))

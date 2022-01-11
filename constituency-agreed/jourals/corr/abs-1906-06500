@@ -1,0 +1,2 @@
+(S (NP (JJ Current) (NNS blockchains)) (VP (VBP are) (VP (VBN restricted) (PP (IN by) (NP (DT the) (JJ low) (NN throughput))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP evaluate) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NN hash) (NNS collisions))))) (, ,) (CC and) (VP (VB provide) (NP (NP (NNS methods)) (PP (IN of) (S (VP (VBG resolving) (NP (JJ such) (NNS collisions)))))))) (. .))

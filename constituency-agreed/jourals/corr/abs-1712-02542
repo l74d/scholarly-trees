@@ -1,0 +1,2 @@
+(S (S (NP (NNS Agents)) (VP (VBP vote) (S (VP (TO to) (VP (VB choose) (NP (NP (DT a) (JJ fair) (NN mixture)) (PP (IN of) (NP (JJ public) (NNS outcomes))))))))) (: ;) (S (NP (DT each) (NN agent)) (VP (VBZ likes) (CC or) (VBZ dislikes) (NP (DT each) (NN outcome)))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (CD three) (JJ outstanding) (NN voting) (NNS rules))) (. .))

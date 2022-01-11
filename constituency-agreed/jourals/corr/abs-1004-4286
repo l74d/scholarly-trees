@@ -1,0 +1,1 @@
+(S (S (NP (NNS Tasks)) (VP (MD can) (VP (VB be) (PP (IN of) (NP (JJ different) (NNS types)))))) (, ,) (CC and) (S (NP (DT each) (NN type)) (VP (VBZ has) (NP (NP (DT a) (VBN fixed) (, ,) (VBN known) (NN probability)) (PP (IN of) (S (VP (VBG generating) (NP (JJ other) (NNS tasks)))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (NP (NN Segmentation)) (VP (VBG using) (NP (NN multimodality)))) (VP (VBZ consists) (PP (IN of) (S (VP (VBG fusing) (NP (NN multi-information)) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN segmentation))))))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT the) (JJ general) (NN principle)) (PP (IN of) (NP (NP (JJ deep) (NN learning)) (CC and) (NP (JJ multi-modal) (JJ medical) (NN image) (NN segmentation)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ later) (NN fusion)) (VP (VBZ gives) (NP (JJR more) (NN attention)) (PP (IN on) (NP (NN fusion) (NN strategy))) (S (VP (TO to) (VP (VB learn) (NP (NP (DT the) (JJ complex) (NN relationship)) (PP (IN between) (NP (JJ different) (NNS modalities)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (DT some) (JJ common) (NNS problems)) (PP (IN in) (NP (JJ medical) (NN image) (NN segmentation))))) (. .))

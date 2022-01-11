@@ -1,0 +1,2 @@
+(S (NP (NNP Software) (NN development)) (VP (VBZ is) (NP (NP (DT a) (JJ complex) (NN activity)) (SBAR (WHNP (WDT which)) (S (VP (VBZ depends) (PP (IN on) (NP (NP (JJ diverse) (NNS technologies)) (CC and) (NP (NP (NNS people) (POS 's)) (NN expertise))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (NN literature) (NN review)) (PP (IN on) (NP (NP (NN context)) (PP (IN for) (NP (NN software) (NN development)))))) (, ,) (PP (IN through) (NP (CD nine) (NN research) (NNS questions)))) (. .))

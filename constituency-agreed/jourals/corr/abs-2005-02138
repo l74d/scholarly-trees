@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS networks)) (VP (VBP are) (VP (VBN trained) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN manner))) (PP (IN from) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NP (NNS shapes)) (VP (VBN represented) (PP (IN as) (NP (NN point) (NNS clouds)))))))))) (. .))

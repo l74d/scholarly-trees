@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN taken) (PP (IN from) (NP (NP (DT an) (VBG existing) (NN application)) (PP (IN in) (NP (NP (DT the) (NN domain)) (PP (IN of) (NP (NN oil) (NN spill) (NN emergency) (NN response))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN mapped) (PP (IN at) (NP (NP (DT an) (JJ intermediate) (NN level)) (PP (IN of) (NP (NN abstraction))))) (PP (IN onto) (NP (DT an) (NN influence) (NN diagram))))) (. .))

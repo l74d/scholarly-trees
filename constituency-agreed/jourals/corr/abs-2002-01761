@@ -1,0 +1,3 @@
+(S (PP (VBN Based) (PP (IN on) (NP (NNP PWN)))) (, ,) (NP (CD five) (JJ Chinese) (NNS wordnets)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (NNS problems)) (PP (IN of) (NP (NN syntax) (CC and) (NNS semantics)))))))))) (. .))
+(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (PRP we)) (VP (VBD used) (NP (NP (NN machine) (NN learning)) (CC and) (NP (JJ manual) (NN adjustment))) (PP (IN in) (NP (PRP$ our) (NNS corrections)))) (. .))
+(S (NP (CD Two) (NNS standards)) (VP (VBD were) (VP (VBN formulated) (S (VP (TO to) (VP (VB help) (NP (PRP$ our) (NN work))))))) (. .))

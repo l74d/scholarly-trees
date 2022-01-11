@@ -1,0 +1,2 @@
+(S (NP (JJ Much) (NN work)) (VP (VBZ has) (VP (VBN been) (VP (VBN done) (PP (IN on) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NN market) (NN equilibria)))))))) (. .))
+(S (S (NP (EX There)) (VP (VBP are) (NP (NP (JJ many) (NNP NE)) (PP (IN with) (NP (ADJP (RB very) (JJ different)) (NNS payoffs)))))) (, ,) (CC and) (S (NP (DT the) (NNP Fisher) (NN equilibrium) (NN payoff)) (VP (VBZ is) (VP (VBN captured) (PP (IN at) (NP (DT a) (JJ symmetric) (NNP NE)))))) (. .))

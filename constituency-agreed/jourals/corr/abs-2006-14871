@@ -1,0 +1,1 @@
+(S (NP (JJ Extensive) (NNS evaluations)) (VP (VBP indicate) (SBAR (S (NP (DT these) (NNS approaches)) (VP (VBP provide) (NP (NP (JJ reliable) (NN protection)) (PP (IN against) (NP (NN backdoor) (NNS attacks)))) (, ,) (PP (IN with) (NP (NP (DT a) (JJR higher) (NN accuracy)) (PP (IN than) (S (VP (VBG detecting) (NP (JJ adversarial) (NNS examples))))))))))) (. .))

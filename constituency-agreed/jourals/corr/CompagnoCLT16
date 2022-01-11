@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Acoustic) (NNS emanations)) (PP (IN of) (NP (NN computer) (NNS keyboards)))) (VP (VBP represent) (NP (DT a) (JJ serious) (NN privacy) (NN issue))) (. .))
+(S (SBAR (IN As) (S (VP (VBN demonstrated) (PP (IN in) (NP (JJ prior) (NN work)))))) (, ,) (NP (NP (JJ physical) (NNS properties)) (PP (IN of) (NP (NN keystroke) (NNS sounds)))) (VP (MD might) (VP (VB reveal) (SBAR (WHNP (WP what)) (S (NP (DT a) (NN user)) (VP (VBZ is) (VP (VBG typing))))))) (. .))

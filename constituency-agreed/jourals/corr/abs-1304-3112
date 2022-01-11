@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN controller)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS counters)))) (. .))
+(S (PP (IN In) (NP (DT the) (NN inference) (NN processor))) (, ,) (NP (CD one) (NN data) (NN path)) (VP (VBZ is) (VP (VBN laid) (PRT (RP out)) (PP (IN for) (NP (DT each) (NN rule))))) (. .))

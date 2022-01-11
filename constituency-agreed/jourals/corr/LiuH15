@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (PP (IN in) (NP (DT a) (JJ social) (NN network))) (, ,) (NP (JJR more) (NNS connections)) (VP (VBP are) (VP (VBN established) (PP (IN between) (NP (ADJP (RB geographically) (JJ proximate)) (NNS users))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN community) (NN detection) (NN method)) (SBAR (WHNP (WDT which)) (S (VP (VBZ takes) (NP (NP (NNS locations)) (PP (IN of) (NP (NNS nodes)))) (PP (IN into) (NP (NN consideration)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (MD can) (VP (VB define) (NP (NP (DT a) (JJ neural) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB learn) (S (VP (TO to) (VP (VB recognize) (NP (NNS objects)) (PP (IN in) (NP (NP (QP (JJR less) (IN than) (CD 100)) (NNS lines)) (PP (IN of) (NP (NN code))))))))))))))) (. .))
+(S (NP (DT The) (NN analogy)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NN neuroscience)) (VP (MD would) (VP (VB benefit) (PP (IN from) (NP (NP (DT a) (NN focus)) (PP (IN on) (NP (NN learning) (CC and) (NN development)))))))))) (. .))

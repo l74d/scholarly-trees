@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ many) (NNS ways)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NN influence)) (VP (MD can) (VP (VB be) (VP (VBN defined)))))))))) (, ,) (NP (JJ many) (JJ different) (NN centrality) (NNS measures)) (VP (VBP are) (PP (IN in) (NP (NN use)))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP identify) (NP (NP (CD two) (NNS categories)) (PP (IN of) (NP (NN centrality) (NNS parameters))))) (. .))

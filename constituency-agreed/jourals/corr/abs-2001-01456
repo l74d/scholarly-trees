@@ -1,0 +1,5 @@
+(S (NP (DT This)) (VP (VBZ is) (SBAR (WHADVP (WRB why)) (S (S (VP (VBG recognizing) (NP (JJ facial) (NN expression)))) (VP (VBZ is) (ADJP (RB very) (JJ difficult)))))) (. .))
+(S (NP (DT The) (JJ facial) (NN expression) (NN recognition)) (VP (VBZ is) (NP (DT an) (JJ active) (NN research) (NN area))) (. .))
+(S (PP (IN In) (NP (DT this) (NN project))) (, ,) (NP (PRP we)) (VP (VBD worked) (PP (IN on) (NP (NP (NN recognition)) (PP (IN of) (NP (CD seven) (JJ basic) (JJ human) (NNS emotions)))))) (. .))
+(S (NP (DT Every) (NN image)) (VP (VBD was) (ADVP (RB first)) (VP (VBN passed) (PP (IN through) (NP (NN face) (NN detection) (NN algorithm))) (S (VP (TO to) (VP (VB include) (NP (PRP it)) (PP (IN in) (NP (NN train) (NN dataset)))))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ is) (VP (VBN trained) (S (VP (VBG using) (NP (NNP CNN) (NN architecture)))))) (. .))

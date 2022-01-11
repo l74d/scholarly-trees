@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN sample) (NN size)) (VP (VBZ is) (NP (NP (DT a) (JJ critical) (NN parameter)) (PP (IN for) (NP (DT this) (NN algorithm))))) (. .))
+(S (NP (DT The) (ADJP (RBS most) (JJ appropriate)) (NN choice)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN problem) (NN context)))) (. .))
+(S (NP (DT These) (NNS methods)) (VP (VBP pick) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (NNS data)))) (PP (VBN based) (PP (IN on) (NP (JJ theoretical) (NNS considerations))))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB yield) (NP (NN performance) (NNS gains)))) (. .))

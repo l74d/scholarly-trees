@@ -1,0 +1,1 @@
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ unsupervised) (NN domain) (NN adaptation) (NN problem)) (PP (IN in) (NP (NNP ReID)))) (VP (VBZ is) (ADJP (RB very) (JJ challenging)))))) (. .))

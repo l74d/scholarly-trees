@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ iterative) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ is) (ADJP (RB provably) (JJ convergent))) (CC and) (VP (VBZ enjoys) (NP (JJ asymptotic) (NN optimality) (NNS properties))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

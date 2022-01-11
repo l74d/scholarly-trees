@@ -1,0 +1,2 @@
+(S (NP (NP (NN Computation)) (PP (IN of) (NP (NP (JJ semantic) (NN similarity)) (PP (IN between) (NP (NNS concepts)))))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN foundation)) (PP (IN for) (NP (JJ many) (NN research) (NNS works))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN proposal)) (VP (VBZ outperforms) (NP (DT the) (JJ previous) (NNS measures)))))) (. .))

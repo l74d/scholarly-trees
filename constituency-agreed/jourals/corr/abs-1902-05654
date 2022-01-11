@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN problem)) (VP (VBZ is) (ADJP (JJ non-convex)))) (CC and) (S (NP (DT a) (JJ conjugate) (NN gradient) (NN descent) (NN method)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB solve) (NP (PRP it)))))))) (. .))

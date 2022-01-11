@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ important) (NN disadvantage)) (PP (IN of) (NP (NP (JJ straightforward) (NN implementation)) (PP (IN of) (NP (DT the) (NN technique)))))) (VP (VBZ is) (NP (PRP$ its) (JJ computational) (NN overhead))) (. .))
+(S (NP (DT The) (NN analysis)) (VP (VBZ is) (VP (VBN supported) (PP (IN by) (NP (JJ experimental) (NNS results))))) (. .))

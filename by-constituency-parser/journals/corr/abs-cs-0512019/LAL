@@ -1,0 +1,5 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (DT no) (NN proof)) (ADVP (RB yet)) (PP (IN of) (NP (NP (NN convergence)) (PP (IN of) (NP (NNP Genetic) (NNP Algorithms)))))) (. .))
+(S (NP (PRP We)) (VP (VBP do) (RB not) (VP (VB supply) (NP (PRP it)) (ADVP (RB too)))) (. .))
+(S (ADVP (RB Instead)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT some) (NNS thoughts) (CC and) (NNS arguments)) (SBAR (S (VP (TO to) (VP (VB convince) (NP (DT the) (NNP Reader)) (, ,) (SBAR (IN that) (S (NP (NNP Genetic) (NNP Algorithms)) (VP (VBP are) (ADVP (RB essentially)) (VP (VBN bound) (PP (IN for) (NP (NN success))))))))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (RB only) (NP (DT the) (NN crossover) (NNS operators))) (, ,) (ADJP (JJ single-) (CC or) (NN multiple-point)) (, ,) (ADVP (RB together) (PP (IN with) (NP (NN selection) (NN procedure)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (DT a) (NN proof) (SBAR (IN that) (S (NP (DT the) (JJ soft) (NN selection)) (VP (VBZ is) (ADJP (JJ superior) (PP (TO to) (NP (JJ other) (NN selection) (NNS schemes))))))))) (. .))

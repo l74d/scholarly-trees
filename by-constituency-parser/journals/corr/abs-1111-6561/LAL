@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ strengthened) (NN version)) (VP (ADVP (RB constructively)) (VBZ proves) (NP (NP (DT an) (ADJP (RB asymptotically) (JJ tight)) (NNP O) (PRN (-LRB- -LRB-) (NP (NNP |V|^2)) (-RRB- -RRB-)) (NN bound)) (PP (IN on) (NP (NP (DT the) (JJ worst-case) (NN diameter)) (PP (IN of) (NP (NP (DT this) (NN graph)) (PP (IN of) (NP (VBG spanning) (NNS trees))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (S (NP (PRP it)) (ADVP (RB always)) (VP (VBZ runs) (PP (IN in) (NP (JJ polynomial) (NN time))))))) (. .))
+(S (NP (NP (NP (JJ Symbolic) (NNS matrices)) (PP (IN in) (NP (JJ non-commuting) (NNS variables)))) (, ,) (CC and) (NP (DT the) (JJ related) (ADJP (JJ structural) (CC and) (JJ algorithmic)) (NNS questions)) (, ,)) (VP (VBP have) (NP (NP (DT a) (JJ remarkable) (NN number)) (PP (IN of) (NP (JJ diverse) (NNS origins) (CC and) (NNS motivations))))) (. .))

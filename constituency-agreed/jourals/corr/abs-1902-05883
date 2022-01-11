@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT these) (NNS hypotheses)))) (, ,) (NP (NP (JJ biomechanical) (NNS models)) (PP (IN of) (NP (JJ cortical) (NN folding)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP compare) (NP (NP (JJ biomechanical) (NNS simulations)) (PP (IN for) (NP (JJ several) (JJ initial) (NNS conditions)))) (PP (IN by) (S (VP (VBG using) (NP (DT an) (JJ adaptive) (JJ spherical) (NN parameterization) (NN approach)))))) (. .))

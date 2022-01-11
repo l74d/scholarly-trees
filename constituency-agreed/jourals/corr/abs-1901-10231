@@ -1,0 +1,2 @@
+(S (NP (NNS Alzheimers) (NN disease)) (VP (VBZ is) (NP (NP (DT a) (JJ good) (NN example)) (PP (IN of) (NP (NP (DT a) (NN disease)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB often)) (VP (VBN misdiagnosed))))))))) (. .))
+(S (NP (NP (NNS Advantages) (CC and) (NNS disadvantages)) (PP (IN of) (NP (DT each) (NN approach)))) (VP (MD will) (ADVP (RB also)) (VP (VB be) (VP (VBN discussed) (PP (IN in) (NP (PRP$ their) (JJ respective) (NNS sections)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NNS models)) (VP (MD can) (VP (VB outperform) (NP (JJ several) (NNS baselines)) (PP (IN for) (NP (DT both) (NNS tasks)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NNP FishNet))) (, ,) (NP (NP (DT the) (NN information)) (PP (IN of) (NP (DT all) (NNS resolutions)))) (VP (VBZ is) (VP (VBN preserved) (CC and) (VBN refined) (PP (IN for) (NP (DT the) (JJ final) (NN task))))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP have) (VP (VBN been) (VP (VBN conducted) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (JJ remarkable) (NN performance)) (PP (IN of) (NP (DT the) (NNP FishNet)))))))))) (. .))

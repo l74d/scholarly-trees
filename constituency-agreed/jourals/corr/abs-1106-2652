@@ -1,0 +1,2 @@
+(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (NP (NNS variables)) (CC and) (NP (PRP$ their) (NNS values))))) (VP (MD can) (ADVP (RB also)) (VP (VB have) (NP (NP (DT a) (JJ significant) (NN impact)) (PP (IN on) (NP (NN causality)))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (SBAR (WHNP (WP what)) (S (VP (VBZ counts) (PP (IN as) (NP (DT an) (JJ appropriate) (NN choice))))))) (. .))

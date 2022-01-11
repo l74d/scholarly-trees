@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNP Gibbs) (NNS substeps)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN algorithm))))))) (VP (MD can) (RB not) (ADVP (RB always)) (VP (VB be) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB be) (ADJP (JJ correct))))))))))) (. .))

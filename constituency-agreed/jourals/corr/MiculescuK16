@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ provides) (NP (NP (JJ provable) (NNS guarantees)) (PP (IN on) (NP (NN safety) (CC and) (NN performance))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN demonstrated) (PP (IN in) (NP (NNS simulations))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN analysis)) (VP (VBD highlighted) (NP (NP (NP (CD three) (NNS states)) (PP (IN of) (NP (NN concern)))) (: :) (NP (NP (NNP New) (NNP York)) (, ,) (NP (NNP California)) (, ,) (CC and) (NP (NNP Texas))))) (. .))
+(S (NP (PRP We)) (VP (VBD repeated) (NP (PRP$ our) (NN analysis)) (S (VP (VBG discarding) (NP (NP (JJ malicious) (NNS accounts)) (, ,) (PP (JJ such) (IN as) (NP (JJ social) (NNS bots))))))) (. .))

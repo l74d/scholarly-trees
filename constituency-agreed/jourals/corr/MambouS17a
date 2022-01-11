@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN construction)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NP (NP (NNP Knuth) (POS 's)) (JJ parallel) (NN balancing) (NN approach)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB handle) (NP (ADJP (RB very) (JJ long)) (NN information) (NNS sequences)))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ reminiscent) (PP (IN of) (NP (NP (NNP Knuth) (POS 's)) (JJ serial) (NN algorithm))))) (. .))

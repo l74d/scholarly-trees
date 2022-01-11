@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (JJ considerable) (NN progress))) (, ,) (NP (DT the) (NN search)) (VP (VBZ occurs) (PP (IN in) (NP (NP (DT a) (JJ closed) (NN setting)) (PP (IN between) (NP (CD two) (JJ pre-defined) (NNS domains)))))) (. .))
+(S (NP (NNS Domains)) (VP (VBP are) (VP (VBN combined) (PP (IN in) (NP (DT the) (JJ common) (NN space))) (S (VP (TO to) (VP (VB search) (PP (IN from) (CC or) (IN within) (NP (JJ multiple) (NNS domains))) (ADVP (RB simultaneously))))))) (. .))

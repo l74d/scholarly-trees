@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ tackles) (NP (DT a) (NN friction) (NN compensation) (NN problem)) (PP (IN without) (S (VP (VBG using) (NP (DT a) (NN friction) (NN model)))))) (. .))
+(S (PP (IN By) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (NP (JJ asymptotic) (NN stability) (CC and) (NN passivity)) (PP (IN of) (NP (DT the) (NN controller)))) (VP (VBP are) (VP (VBN maintained))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (VP (TO to) (VP (VB design) (NP (NP (NNS observers)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (RB not) (VP (VB overcompensate) (PP (IN for) (NP (DT the) (NN stiction)))))))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN scheme)) (VP (VBZ is) (VP (VBN validated) (PP (IN through) (NP (NNS simulations) (CC and) (NNS experiments))))) (. .))

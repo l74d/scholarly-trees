@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (DT the) (JJ total) (NN number)) (PP (IN of) (NP (JJ unicyclic) (NNS components)))) (VP (VBZ grows) (ADVP (RB logarithmically)) (PP (IN with) (NP (DT the) (NN system) (NN size)))) (. .))

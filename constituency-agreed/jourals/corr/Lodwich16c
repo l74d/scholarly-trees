@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN raise)) (PP (IN of) (NP (NP (NN complexity)) (PP (IN of) (NP (JJ technical) (NNS systems)))))) (ADVP (RB also)) (VP (VBZ raises) (NP (NP (NN knowledge)) (VP (VBN required) (S (VP (VP (TO to) (VP (VB set) (NP (PRP them)) (PRT (RP up)))) (CC and) (VP (TO to) (VP (VB maintain) (NP (PRP them))))))))) (. .))
+(S (NP (DT The) (NN cost) (S (VP (TO to) (VP (VB evolve) (NP (JJ such) (NNS systems)))))) (VP (MD can) (VP (VB be) (ADJP (JJ prohibitive)))) (. .))

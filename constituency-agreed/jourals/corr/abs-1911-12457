@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NNP CNN)) (VP (VBZ is) (NP (NP (DT a) (JJ binary) (NN classifier)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN trained) (S (VP (VBG using) (NP (DT these) (NNS images)))))))))) (. .))

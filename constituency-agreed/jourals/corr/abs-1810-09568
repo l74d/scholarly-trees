@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Models)) (PP (IN for) (S (VP (VBG predicting) (NP (NN aircraft) (NN motion)))))) (VP (VBP are) (NP (NP (DT an) (JJ important) (NN component)) (PP (IN of) (NP (JJ modern) (JJ aeronautical) (NNS systems))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (VP (VBZ generates) (NP (JJ realistic) (NNS trajectories))) (, ,) (VP (VBZ provides) (NP (JJ accurate) (NNS predictions))) (, ,) (CC and) (VP (VBZ captures) (NP (NP (DT the) (JJ statistical) (NNS properties)) (PP (IN of) (NP (NN aircraft) (NNS trajectories))))))))) (. .))

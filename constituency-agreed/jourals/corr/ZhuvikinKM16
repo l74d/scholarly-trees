@@ -1,0 +1,2 @@
+(S (CC But) (ADVP (RB unfortunately)) (NP (PRP it)) (VP (VBZ has) (NP (NP (JJ large) (JJ computational) (NN complexity)) (CC and) (RB not) (NP (NP (ADJP (RB sufficiently) (JJ good)) (NN detection)) (PP (IN of) (NP (JJ small) (NN image) (NNS modifications)))))) (. .))
+(S (NP (PDT All) (DT these) (NNS properties)) (VP (VBP qualify) (NP (DT this) (NN approach)) (PP (IN as) (ADJP (JJ effective)))) (. .))

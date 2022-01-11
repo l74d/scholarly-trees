@@ -1,0 +1,1 @@
+(S (NP (JJ Deep) (JJ neural) (NNS networks)) (VP (VBP represent) (NP (NP (DT a) (JJ powerful) (NN class)) (PP (IN of) (NP (NP (NN function) (NNS approximators)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB learn) (S (VP (TO to) (VP (VB compress) (CC and) (VB reconstruct) (NP (NNS images))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN From) (NP (DT the) (NNP Ontology) (NN model))) (, ,) (NP (NP (DT the) (NNS relations)) (PP (IN between) (NP (DT the) (NNS data)))) (VP (VBP are) (VP (VBN mined) (S (VP (VBG using) (NP (NN decision) (NN tree)))))) (. .))
+(S (PP (IN From) (NP (PDT all) (DT these))) (NP (DT a) (JJ new) (NN framework)) (VP (VBZ is) (VP (VBN developed) (PP (IN for) (NP (NNP Business) (NNP Intelligence))))) (. .))

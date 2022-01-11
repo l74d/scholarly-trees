@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (ADJP (RB asymptotically) (JJ optimal)) (NN synthesis) (NN algorithm)) (PP (IN for) (NP (NP (NNS circuits)) (VP (VBG consisting) (PP (IN of) (NP (NP (NNS gates)) (PP (IN from) (NP (DT the) (NNP NCT) (NN library))))))))) (VP (VBZ is) (VP (VBN described))) (. .))

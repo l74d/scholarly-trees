@@ -1,0 +1,2 @@
+(S (NP (VBG Querying)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ basic) (NN functionality)) (VP (VBN expected) (PP (IN from) (NP (DT a) (NN database) (NN system)))))))) (. .))
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN work)))) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB extract) (NP (NP (JJ such) (JJ hidden) (NNS relationships)) (PP (IN between) (NP (NP (JJ unrelated) (NNS sets)) (PP (IN of) (NP (NN entity) (NNS sets))))))) (CC and) (VP (VB store) (NP (PRP them)) (PP (IN in) (NP (DT a) (JJ tangible) (NN form)))))))) (. .))

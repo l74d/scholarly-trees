@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN characterization)))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN sensor) (NN placement) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ guarantees) (NP (NP (NN identifiability)) (PP (IN of) (NP (DT the) (NN edge) (NNS weights))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (PRP$ our) (NNS results)) (S (VP (VBG using) (NP (JJ several) (JJ illustrative) (NNS examples))))) (. .))

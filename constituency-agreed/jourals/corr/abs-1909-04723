@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS domains)) (VP (VBP rely) (PP (IN on) (NP (JJ relational) (NNS representations))) (S (VP (TO to) (VP (VB capture) (NP (NP (JJ complex) (NNS relationships)) (PP (IN between) (NP (NP (NNS entities)) (CC and) (NP (PRP$ their) (NNS attributes))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG learning) (NP (JJ neural) (NNS networks)) (PP (IN for) (NP (JJ relational) (NNS data)))))))) (. .))

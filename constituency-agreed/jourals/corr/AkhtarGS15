@@ -1,0 +1,2 @@
+(S (NP (NNP University) (NNP IMS)) (VP (VP (VBZ accesses) (NP (NN information))) (, ,) (VP (VBZ creates) (NP (NNS reports))) (CC and) (VP (VBZ facilitates) (NP (NP (NNS teachers)) (CONJP (RB as) (RB well) (IN as)) (NP (NNS students))))) (. .))
+(S (NP (DT An) (NN orchestrator) (NN agent)) (VP (VBZ manages) (NP (NP (DT the) (NN coordination)) (PP (IN between) (NP (DT all) (NNS agents))))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN With) (NP (NP (JJ abundant) (NNS interactions)) (PP (IN among) (NP (NNS users))))) (, ,) (NP (NNS individuals)) (VP (VBP are) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG obtaining) (NP (JJ satisfactory) (NN information))))))) (. .))
+(S (NP (VBG Existing) (NNS methods)) (ADVP (RB usually)) (VP (VBP exploit) (NP (JJ manual) (NN feature) (NN selection))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (RB not) (ADJP (JJ desirable)) (SBAR (IN as) (S (NP (PRP it)) (VP (VP (VBZ requires) (NP (JJ careful) (NN design))) (CC and) (VP (VBZ is) (ADJP (NN labor) (JJ intensive))))))) (. .))

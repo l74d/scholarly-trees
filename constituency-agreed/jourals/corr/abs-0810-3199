@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS layers)))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NNP Java))))) (. .))

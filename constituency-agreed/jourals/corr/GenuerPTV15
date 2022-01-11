@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (NP (NN decision) (NNS trees)) (VP (VBN combined) (PP (IN with) (NP (NN aggregation) (CC and) (NN bootstrap) (NNS ideas))))))) (, ,) (NP (JJ random) (NNS forests)) (VP (VBD were) (VP (VBN introduced) (PP (IN by) (NP (NNP Breiman))) (PP (IN in) (NP (CD 2001))))) (. .))
+(S (NP (DT These) (NNS proposals)) (VP (VBP rely) (PP (PP (IN on) (NP (JJ parallel) (NNS environments))) (CC or) (PP (IN on) (NP (NP (JJ online) (NNS adaptations)) (PP (IN of) (NP (JJ random) (NNS forests))))))) (. .))

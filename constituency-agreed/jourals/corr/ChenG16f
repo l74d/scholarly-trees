@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NNS emergencies))) (, ,) (NP (NNS people)) (VP (VBP evacuate) (PP (IN towards) (NP (DT the) (NNS exits)))) (. .))
+(S (SBAR (IN If) (S (NP (ADJP (RB too) (JJ many)) (NNS people)) (VP (VBP try) (S (VP (TO to) (VP (VB evacuate) (PP (IN through) (NP (DT the) (JJ same) (NN edge))))))))) (, ,) (NP (NN congestion)) (VP (VP (VBZ builds) (PRT (RP up))) (CC and) (VP (VBZ slows) (PRT (RP down)) (NP (DT the) (NN evacuation)))) (. .))

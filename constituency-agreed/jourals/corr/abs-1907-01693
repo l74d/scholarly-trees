@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ unsupervised)))) (, ,) (CC and) (S (NP (DT the) (NN label) (NN information)) (VP (VBZ is) (VP (VBN wasted) (PP (IN in) (NP (JJ supervised) (NN learning) (NNS tasks)))))) (. .))

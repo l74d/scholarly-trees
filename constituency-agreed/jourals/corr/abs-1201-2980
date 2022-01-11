@@ -1,0 +1,2 @@
+(S (NP (NN Information) (NN algebra)) (VP (VBZ is) (NP (NP (JJ algebraic) (NN structure)) (PP (IN for) (NP (JJ local) (NN computation) (CC and) (NN inference))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN in) (NP (DT a) (JJ soft) (NN set) (NN system))) (, ,) (NP (NP (DT the) (NN family)) (PP (IN of) (NP (NP (DT all) (JJ soft) (NNS sets)) (PP (IN with) (NP (DT a) (JJ finite) (NN parameter) (NN subset)))))) (VP (MD can) (VP (VB form) (NP (DT a) (JJ compact) (NN information) (NN algebra)))) (. .))

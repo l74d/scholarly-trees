@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ many) (NNS applications)) (VP (VBP are) (VP (VBG suffering) (PP (IN from) (NP (DT a) (ADJP (RB very) (JJ slow)) (NN transition))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP introduce) (NP (JJ interactive) (NN machine) (NN learning))) (CC and) (VP (VB explain) (NP (PRP$ its) (NNS advantages) (CC and) (NNS limitations)) (PP (IN within) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NN defense) (NNS applications))))))) (. .))
+(S (NP (NP (DT The) (NNS advantages) (CC and) (NNS disadvantages)) (PP (IN of) (NP (DT each) (NN technique)))) (VP (VBP are) (VP (VBN discussed))) (. .))

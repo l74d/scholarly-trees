@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NNS tokens)) (VP (MD may) (ADVP (RB only)) (VP (VB be) (VP (VBN taken) (ADVP (RB instantaneously)) (PP (IN by) (NP (NP (NNS transitions)) (PP (IN on) (NP (DT the) (JJ same) (NN location))))))))))) (. .))
+(S (ADVP (RB Alternatively)) (, ,) (NP (PRP we)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (DT the) (NNS synchronisations)) (VP (VBN specified) (PP (IN in) (NP (DT a) (JJ Petri) (NN net))))) (VP (VBP are) (NP (JJ crucial) (NN system) (NNS properties)))))) (. .))

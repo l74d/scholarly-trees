@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (NP (DT the) (JJ available) (NN state) (NN information)) (PP (IN for) (NP (NN routing)))) (VP (VBZ is) (ADJP (RB inherently) (JJ imprecise))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ degrades) (ADVP (RB substantially))) (. .))

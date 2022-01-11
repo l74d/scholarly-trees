@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN ability) (S (VP (TO to) (VP (VB model) (NP (NN search)) (PP (IN in) (NP (DT a) (NN constraint) (NN solver))))))) (VP (MD can) (VP (VB be) (NP (NP (DT an) (JJ essential) (NN asset)) (PP (IN for) (S (VP (VBG solving) (NP (JJ combinatorial) (NNS problems)))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (JJ major) (NNS improvements)) (PP (IN in) (NP (NN performance)))) (VP (MD may) (VP (VB remain) (ADJP (JJ unexplored)))) (. .))

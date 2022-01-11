@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (JJ preliminary) (NN study))) (, ,) (NP (PRP we)) (VP (VBP train) (NP (DT a) (JJ generative) (JJ deep) (JJ neural) (NN network)) (PP (IN on) (NP (NP (NNS samples)) (PP (IN from) (NP (DT the) (JJ symbolic) (NN approach)))))) (. .))

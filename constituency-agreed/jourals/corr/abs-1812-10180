@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ unknown) (NNS parameters)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN estimated) (PP (IN from) (NP (JJ experimental) (NNS data))))) (. .))
+(S (NP (PRP$ Our) (NN software)) (VP (MD can) (VP (VB tackle) (NP (NP (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (RB not) (VP (VB be) (VP (VBN tackled) (PP (IN by) (NP (ADJP (RB previously) (VBN developed)) (NNS packages))))))))))) (. .))

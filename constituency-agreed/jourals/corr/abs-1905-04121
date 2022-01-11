@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ challenging)) (NN problem))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VP (VBZ is) (VP (VBN written) (PP (IN as) (NP (DT a) (NN tutorial))))) (, ,) (CC and) (VP (VBZ presents) (NP (NP (DT an) (JJ alternative) (NN use)) (PP (IN of) (NP (JJ multi-agent) (NN learning)))))) (. .))

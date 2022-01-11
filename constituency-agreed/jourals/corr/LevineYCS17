@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ inductive) (NN bias)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ reflects) (NP (NP (JJ prior) (NN knowledge)) (VP (VBN embedded) (PP (IN in) (NP (DT the) (NN network) (NN architecture)))))))) (, ,)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))) (. .))

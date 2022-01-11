@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT The) (NN choice)) (PP (IN of) (NP (NNS parameters)))) (, ,) (CC and) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (DT the) (NN network) (NN architecture))))) (VP (VBP are) (NP (NP (JJ important) (NNS factors)) (VP (VBG affecting) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks))))))) (. .))

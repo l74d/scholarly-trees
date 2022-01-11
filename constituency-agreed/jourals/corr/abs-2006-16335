@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (PP (IN through) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS experiments))))) (SBAR (IN that) (S (NP (DT this) (NN architecture)) (VP (VBZ is) (ADJP (JJ possible) (CC and) (JJ practical)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ generates) (NP (JJ diverse) (, ,) (JJ sensible) (NN program) (NNS inputs)) (, ,) (SBAR (IN while) (S (VP (VBG exploring) (NP (NP (DT the) (NN space)) (PP (IN of) (NP (NN program) (NNS behaviours)))))))) (. .))

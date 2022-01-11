@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ seems) (S (VP (TO to) (VP (VB suggest) (NP (NP (NN variance) (NN reduction) (NNS methods)) (PP (JJ such) (IN as) (NP (NN bagging)))))))) (CC and) (VP (MD may) (ADVP (RB ultimately)) (VP (VB provide) (NP (NP (DT a) (ADJP (RBR more) (JJ meaningful)) (NN analysis)) (PP (IN of) (NP (NNS dropouts))))))) (. .))

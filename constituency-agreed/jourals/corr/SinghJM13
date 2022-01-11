@@ -1,0 +1,4 @@
+(S (NP (PRP It)) (VP (VBZ is) (NP (DT a) (ADJP (RB morphologically) (JJ rich)) (NN language))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN spoken) (PP (IN by) (NP (NP (DT the) (JJ native) (NNS people)) (PP (IN of) (NP (NNP Maharashtra))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP show) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (DT the) (NN tagger))))) (. .))
+(S (ADVP (RB Moreover)) (NP (PRP we)) (VP (VBP have) (ADVP (RB also)) (VP (VBN shown) (NP (NP (DT the) (NN evaluation)) (VP (VBN done))))) (. .))

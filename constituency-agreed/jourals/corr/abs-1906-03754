@@ -1,0 +1,1 @@
+(S (PP (IN By) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ numerical) (NNS experiments))))) (, ,) (NP (PRP we)) (VP (VP (VBP verify) (NP (DT the) (NN convergence) (NNS rates))) (CC and) (VP (VB show) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (JJ adaptive) (NN algorithm)))))) (. .))

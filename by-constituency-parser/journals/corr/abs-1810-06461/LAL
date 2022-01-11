@@ -1,0 +1,7 @@
+(S (NP (PRP We)) (VP (VBP characterize) (NP (JJ one-dimensional) (NNP Euclidean) (NN preference) (NNS profiles)) (PP (IN with) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (NNS alternatives) (CC and) (NNS voters)))))) (. .))
+(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (DT the) (NN following))) (. .))
+(NP (CD 1) (. .))
+(S (NP (NP (DT Every) (NN preference) (NN profile)) (PP (IN with) (NP (QP (IN up) (TO to) (CD two)) (NNS voters)))) (VP (VBZ is) (NP (JJ one-dimensional) (NNP Euclidean)) (SBAR (WHPP (IN if) (CC and) (RB only) (IN if)) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ single-peaked)))))) (. .))
+(NP (CD 2) (. .))
+(S (NP (NP (DT Every) (NN preference) (NN profile)) (PP (IN with) (NP (QP (IN up) (TO to) (CD five)) (NNS alternatives)))) (VP (VBZ is) (NP (JJ one-dimensional) (NNP Euclidean)) (SBAR (WHPP (IN if) (CC and) (RB only) (IN if)) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ single-peaked) (CC and) (JJ single-crossing)))))) (. .))
+(S (PP (IN By) (PRN ($ -LSB-) (CD 12) (NNP -RSB-))) (, ,) (NP (PRP we)) (ADVP (RB thus)) (VP (VB obtain) (SBAR (IN that) (S (NP (NP (DT the) (JJS smallest) (ADJP (JJ single-peaked) (CC and) (JJ single-crossing)) (NN preference) (NNS profiles)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (NP (JJ one-dimensional) (NNP Euclidean)))))) (VP (NN consist) (PP (IN of) (NP (NP (CD three) (NNS voters)) (CC and) (NP (CD six) (NNS alternatives)))))))) (. .))

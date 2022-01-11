@@ -1,0 +1,2 @@
+(S (NP (JJ Efficient) (NN placement) (NNS algorithms)) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB map) (NP (DT the) (NN application) (NNS components)) (PP (IN onto) (NP (DT the) (NN infrastructure) (NNS nodes)))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ improves) (NP (NP (DT the) (NN makespan)) (CC and) (NP (DT the) (NN application) (NN execution) (NN cost))))))) (. .))

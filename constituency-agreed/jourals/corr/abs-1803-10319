@@ -1,0 +1,3 @@
+(S (NP (NP (NN Testing)) (PP (IN of) (NP (NN network) (NNS services)))) (VP (VBZ represents) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS biggest) (NNS challenges)) (PP (IN in) (NP (JJ cyber) (NN security))))))) (. .))
+(S (SBAR (IN Because) (S (NP (JJ new) (NNS vulnerabilities)) (VP (VBP are) (VP (VBN detected) (PP (IN on) (NP (DT a) (JJ regular) (NN basis))))))) (, ,) (NP (JJR more) (NN research)) (VP (VBZ is) (VP (VBN needed))) (. .))
+(S (NP (DT The) (JJ first) (JJ empirical) (NNS results)) (VP (VBP are) (VP (VBN presented) (CC and) (VBN discussed))) (. .))

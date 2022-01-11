@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first) (NN challenge)) (VP (VBZ is) (SBAR (IN that) (S (NP (NN word) (NN splitting)) (VP (VBZ is) (ADJP (JJ difficult)) (SBAR (IN because) (S (NP (NP (DT the) (NNS boundaries)) (PP (IN of) (NP (JJ Japanese) (NN word)))) (VP (VBP are) (RB not) (ADJP (JJ clear))))))))) (. .))
+(S (NP (DT The) (JJ second) (NN challenge)) (VP (VBZ is) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (JJ numerous) (JJ orthographic) (NNS variants)))))) (. .))

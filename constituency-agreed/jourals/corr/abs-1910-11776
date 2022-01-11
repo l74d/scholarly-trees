@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ main) (NN contribution)) (VP (VBZ is) (S (VP (TO to) (VP (VB show) (NP (NP (ADJP (RB almost) (JJ sure)) (NN convergence)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN algorithm)))) (SBAR (IN if) (S (NP (DT the) (NN sample) (NN size)) (VP (VBZ grows) (ADJP (JJ large) (RB enough))))))))) (. .))

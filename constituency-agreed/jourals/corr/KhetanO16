@@ -1,0 +1,2 @@
+(S (NP (NNP Rank) (NN aggregation) (NNS systems)) (VP (VBP collect) (NP (JJ ordinal) (NNS preferences)) (PP (IN from) (NP (NNS individuals))) (S (VP (TO to) (VP (VB produce) (NP (NP (DT a) (JJ global) (NN ranking)) (SBAR (WHNP (WDT that)) (S (VP (VBZ represents) (NP (DT the) (JJ social) (NN preference)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB characterize) (NP (NP (DT the) (JJ fundamental) (NN tradeoff)) (PP (IN between) (NP (NN accuracy) (CC and) (NN complexity)))))))) (. .))

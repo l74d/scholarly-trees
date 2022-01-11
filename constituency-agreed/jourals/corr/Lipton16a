@@ -1,0 +1,4 @@
+(SQ (CC But) (MD can) (NP (PRP you)) (VP (VB trust) (NP (PRP$ your) (NN model))) (. ?))
+(SQ (MD Will) (NP (PRP it)) (VP (VB work) (PP (IN in) (NP (NN deployment)))) (. ?))
+(SBARQ (WHNP (WP What) (RB else)) (SQ (MD can) (NP (PRP it)) (VP (VB tell) (NP (PRP you)) (PP (IN about) (NP (DT the) (NN world))))) (. ?))
+(S (CC And) (ADVP (RB yet)) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (NN interpretation)))) (VP (VBZ appears) (ADJP (JJ underspecified))) (. .))

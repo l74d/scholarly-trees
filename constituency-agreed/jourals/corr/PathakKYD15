@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (VP (VBN provided) (PP (IN with) (NP (JJ enough) (NN training) (NNS data)))))) (, ,) (NP (PRP they)) (VP (VBP predict) (NP (RB almost) (DT any) (JJ visual) (NN quantity))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (MD may) (RB not) (VP (VB hold) (ADVP (RB everywhere)))) (. .))

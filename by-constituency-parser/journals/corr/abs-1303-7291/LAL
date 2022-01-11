@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (PP (IN as) (NP (NP (DT a) (NN by-product)) (PP (IN of) (NP (PRP$ our) (NN analysis) (NN framework))))) (NP (PRP we)) (VP (VBP recognize) (NP (NP (NN existence)) (PP (IN of) (NP (NP (DT an) (NNP SOCP) (NN type)) (PP (IN of) (NP (NN algorithm))) (SBAR (WHNP (WDT that)) (S (VP (VBZ achieves) (NP (DT the) (JJ same) (NN performance))))))))) (. .))

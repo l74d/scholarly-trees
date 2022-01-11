@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN calculation)) (PP (IN of) (NP (NP (DT the) (NN band) (NN structure)) (PP (IN of) (NP (ADJP (NN frequency) (JJ dependent)) (JJ photonic) (NNS crystals))))))) (. .))
+(S (NP (NNP Lagrange) (JJ finite) (NNS elements)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB discretize) (NP (DT the) (NN operator) (NN function))))))) (. .))

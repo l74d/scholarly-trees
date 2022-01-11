@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ outperforms) (NP (NP (NP (NNS baselines)) (VP (ADVP (RB previously)) (VBN used) (PP (IN for) (NP (DT this) (NN problem))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT a) (JJ strong) (NN baseline)) (PP (IN from) (NP (NN knowledge) (NN base) (NN population)))))) (. .))

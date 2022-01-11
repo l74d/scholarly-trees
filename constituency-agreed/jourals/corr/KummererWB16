@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP present) (NP (NP (NNP DeepGaze) (NNP II)) (, ,) (NP (NP (DT a) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ predicts) (SBAR (WHADVP (WRB where)) (S (NP (NNS people)) (VP (VBP look) (PP (IN in) (NP (NNS images)))))))))))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (ADVP (RB therefore)) (NP (NP (DT a) (JJ strong) (NN test)) (PP (IN of) (NP (NN transfer) (NN learning))))) (. .))

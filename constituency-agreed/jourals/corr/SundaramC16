@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN addressed) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN clustering) (CC and) (NN collision)))))) (. .))
+(S (NP (NP (DT The) (NN core)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ lies) (PP (IN in) (NP (NP (DT the) (NNS data) (NN model)) (VP (VBG being) (VP (VBN used) (PP (IN during) (NP (NN preordering)))))))) (. .))

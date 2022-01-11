@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN work)) (VP (VBZ presents) (NP (NP (DT the) (NN architecture)) (VP (VBN used) (PP (IN in) (NP (DT the) (JJ ongoing) (NNP OntologyNavigator) (NN project)))))) (. .))
+(S (NP (DT This) (NN model)) (VP (VBZ offers) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (NN cross) (NN language) (NN query))))) (. .))
+(S (NP (NNS Customers)) (ADVP (RB also)) (VP (VBP enrich) (NP (DT the) (NN ontology) (NN node) (NNS labels)) (PP (IN with) (NP (JJ implicit) (NNS descriptors)))) (. .))

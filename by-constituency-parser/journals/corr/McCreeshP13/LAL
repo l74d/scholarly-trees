@@ -1,0 +1,2 @@
+(S (NP (NAC (NN State) (PP (IN of) (NP (DT the) (NN art)))) (NN maximum) (NN clique) (NN algorithms)) (VP (VBP use) (NP (DT a) (NN greedy) (NN graph) (VBG colouring)) (PP (IN as) (NP (DT a) (NN bound)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NN greedy) (NN graph) (NN colouring)) (VP (MD can) (VP (VP (VB be) (ADJP (JJ misleading))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NNS implications)) (PP (IN for) (NP (JJ parallel) (NN branch) (CC and) (NN bound)))))))))))) (. .))

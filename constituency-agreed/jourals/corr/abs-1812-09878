@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ addresses) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG reconstructing) (NP (JJ biomedical) (NNS signals)) (PP (IN from) (NP (PRP$ their) (ADJP (JJR lower) (JJ dimensional)) (NNS projections)))))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ proposes) (NP (NP (DT a) (JJ new) (NN approach)) (PP (IN for) (NP (NP (JJ inductive) (NN learning)) (PP (IN of) (NP (DT the) (NN inversion) (NN process))))))) (. .))

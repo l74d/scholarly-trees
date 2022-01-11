@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Static) (NN verification)) (PP (IN of) (NP (DT a) (NN program) (NN source) (NN code) (NN correctness)))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN element)) (PP (IN of) (NP (NN software) (NN reliability))))) (. .))
+(S (NP (NP (JJ Formal) (NN verification)) (PP (IN of) (NP (NN software) (NNS programs)))) (VP (VBZ involves) (S (VP (VBG proving) (SBAR (IN that) (S (NP (DT a) (NN program)) (VP (VBZ satisfies) (NP (NP (DT a) (JJ formal) (NN specification)) (PP (IN of) (NP (PRP$ its) (NN behavior)))))))))) (. .))

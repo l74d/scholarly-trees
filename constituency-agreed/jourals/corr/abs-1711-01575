@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ key) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB replace) (NP (DT the) (NN critic)) (PP (IN with) (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ detects) (NP (JJ non-discriminative) (NNS features)) (, ,) (S (VP (VBG using) (NP (NN dropout)) (PP (IN on) (NP (DT the) (NN classifier) (NN network)))))))))))))) (. .))

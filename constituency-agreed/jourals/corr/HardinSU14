@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (NNP Enron) (NN email) (NN corpus)) (S (VP (TO to) (VP (VB study) (NP (NP (NNS relationships)) (PP (IN in) (NP (DT a) (NN network)))) (PP (IN by) (S (VP (VBG applying) (NP (NP (CD six) (JJ different) (NNS measures)) (PP (IN of) (NP (NN centrality))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (NN sample)) (VP (VBZ is) (VP (VBN requested) (PP (IN by) (NP (DT the) (NN renderer))))))) (, ,) (NP (NP (DT all) (NNS samples)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (PRP it)) (VP (VBZ depends))))) (VP (VBP are) (VP (VBN generated) (ADVP (IN at) (RB once)))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN approach)))) (, ,) (NP (NNS samples)) (VP (MD can) (VP (VB be) (VP (VBN generated) (PP (IN in) (NP (DT any) (NN order)))))) (. .))

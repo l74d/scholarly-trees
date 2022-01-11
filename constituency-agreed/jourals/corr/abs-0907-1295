@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS algorithms)) (VP (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NNP Hoare) (POS 's)) (NNP Quickselect))))) (, ,) (CC and) (VP (VBP are) (VP (VBN parameterized) (PP (VBN based) (PP (IN on) (NP (DT the) (NN pivot) (NN selection) (NN method))))))) (. .))
+(S (NP (DT The) (CD two) (NN query) (NNS types)) (VP (MD can) (VP (VB be) (VP (VBN interleaved) (ADVP (RB freely))))) (. .))

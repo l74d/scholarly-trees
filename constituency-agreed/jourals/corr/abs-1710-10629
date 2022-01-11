@@ -1,0 +1,1 @@
+(S (ADVP (RB Yet)) (NP (DT these) (NNS methods)) (ADVP (RB often)) (VP (VBP fail) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS features)) (ADJP (JJ necessary) (PP (IN for) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (DT a) (NNP Markov) (NN model))))))))))) (. .))

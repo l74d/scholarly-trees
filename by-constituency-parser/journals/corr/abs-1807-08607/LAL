@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ tutorial)) (PP (IN in) (NP (NP (ADJP (JJ applied) (CC and) (JJ computational)) (NN topology)) (CC and) (NP (JJ topological) (NNS data) (NN analysis)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN with) (NP (NP (JJ numerous) (JJ computational) (NNS examples)) (SBAR (WHNP (WDT that)) (S (VP (VBP utilize) (NP (NNP Gudhi) (NN library))))))))) (. .))
+(S (S (NP (PRP It)) (VP (VBZ is) (PP (IN under) (NP (JJ constant) (NN development))))) (, ,) (IN so) (S (INTJ (JJ please)) (VP (VBP do) (RB not) (VP (VB consider) (NP (DT this) (NN version)) (PP (IN as) (ADJP (JJ final)))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Importantly)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (CD two) (JJ novel) (NN distance) (NNS constraints)) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN generator)))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN constraint)) (S (VP (TO to) (VP (VB guide) (NP (DT the) (NN generator)) (S (VP (TO to) (VP (VB synthesize) (NP (NP (NNS samples)) (SBAR (WHNP (WDT that)) (S (VP (VBP resemble) (NP (DT the) (JJ real) (NNS ones))))))))))))) (. .))

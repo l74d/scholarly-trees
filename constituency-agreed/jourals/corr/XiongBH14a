@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (JJ quantitative) (CC and) (JJ comprehensive)) (NNS assessments)) (VP (VBP are) (VP (VBN performed) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (JJ statistical) (NNS criteria)) (, ,) (NP (JJ economic) (NNS criteria)) (, ,) (CC and) (NP (JJ computational) (NN cost)))))))) (. .))
+(S (PP (IN In) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ economic) (NNS criteria))))) (, ,) (NP (PRP we)) (VP (VBP assess) (NP (DT the) (JJ relative) (NN forecast) (NN performance)) (PP (IN with) (NP (DT a) (JJ simple) (NN trading) (NN strategy)))) (. .))

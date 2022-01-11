@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ human) (JJ visual) (NN perception) (NN system)) (VP (VBZ has) (NP (NP (JJ strong) (NN robustness)) (PP (IN in) (NP (NN image) (NN fusion))))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (ADJP (JJ high) (CC and) (JJ low)) (NN frequency) (NN fusion)))) (VP (VBP are) (VP (VBN selected) (PP (IN through) (NP (DT the) (NN channel) (NN attention) (NN network))) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (JJ final) (NN fusion) (NN map))))))) (. .))

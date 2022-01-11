@@ -1,0 +1,1 @@
+(S (S (VP (VBN Limited) (PP (IN by) (NP (NP (DT a) (ADJP (RB relatively) (JJ small)) (NN amount)) (PP (IN of) (NP (NN training) (NNS data))))))) (, ,) (NP (DT the) (NN model)) (VP (VBZ uses) (NP (JJ pre-trained) (NN word) (NNS embeddings))) (. .))

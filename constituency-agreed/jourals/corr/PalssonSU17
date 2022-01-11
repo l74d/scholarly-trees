@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (ADJP (RB especially) (JJ true)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ hyperspectral) (NN image)) (VP (VBZ is) (VP (VBN corrupted) (PP (IN by) (NP (JJ additive) (NN noise)))))))) (. .))

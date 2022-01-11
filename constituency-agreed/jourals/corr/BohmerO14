@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Applications)) (PP (IN like) (NP (NP (NN belief) (NN propagation)) (CC and) (NP (NN reinforcement) (NN learning))))) (VP (MD can) (VP (VB exploit) (NP (DT these) (NNS properties)) (S (VP (TO to) (VP (VP (VB break) (NP (DT the) (NN curse))) (CC and) (VP (VB speed) (PRT (RP up)) (NP (NN computation)))))))) (. .))

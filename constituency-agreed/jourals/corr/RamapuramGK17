@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN regularizer)) (VP (VBZ reduces) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NP (JJ catastrophic) (NN interference)) (SBAR (WHNP (WDT that)) (S (VP (VBZ appears) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP learn) (PP (IN over) (NP (NP (NNS sequences)) (PP (IN of) (NP (NNS distributions))))))))))))))) (. .))

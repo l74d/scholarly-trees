@@ -1,0 +1,1 @@
+(S (PP (IN Through) (NP (JJ empirical) (NN evidence))) (, ,) (NP (PRP we)) (VP (VBP observe) (SBAR (IN that) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ nonzero) (NN graph) (NNS weights)))) (VP (VBZ grows) (PP (IN with) (NP (NP (DT the) (NN increase)) (PP (IN of) (NP (DT the) (NN regularization) (NN parameter))))))))) (. .))

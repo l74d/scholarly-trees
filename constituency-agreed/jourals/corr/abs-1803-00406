@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ fundamental) (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP limit) (NP (PRP$ their) (JJ real) (NN world) (NNS applications))))))) (. .))
+(S (NP (PRP We)) (VP (VBP calculate) (NP (JJ simple) (JJ random) (NNS transformations)) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (NN prediction) (NN uncertainty)) (PP (IN of) (NP (JJ deep) (JJ convolutional) (JJ neural) (NNS networks)))))))) (. .))

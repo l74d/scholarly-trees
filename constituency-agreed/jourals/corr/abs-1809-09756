@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN mapper) (NN network)) (VP (VP (VBZ learns) (S (VP (TO to) (VP (VB mimic) (NP (NP (DT the) (NN input)) (VP (VBN favored) (PP (IN by) (NP (DT the) (JJ spectral) (NN classifier))))))))) (CC and) (VP (VBZ cleans) (NP (DT the) (NNS features)) (ADVP (RB accordingly)))) (. .))

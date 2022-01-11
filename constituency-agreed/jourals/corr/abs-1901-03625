@@ -1,0 +1,1 @@
+(S (S (NP (DT These) (NNS packets)) (VP (VBP are) (ADVP (RB often)) (VP (VBN routed) (PP (IN through) (NP (JJ different) (NNS paths)))))) (, ,) (CC and) (S (S (VP (VBG compressing) (NP (PRP them)))) (VP (VBZ requires) (S (VP (TO to) (VP (VB process) (NP (PRP them)) (ADVP (RB individually))))))) (. .))

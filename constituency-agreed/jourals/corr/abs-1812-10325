@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ focuses) (PP (IN on) (S (VP (VBG identifying) (NP (NNS people)) (PP (PP (IN across) (NP (JJ different) (NNS cameras))) (CC or) (PP (IN across) (NP (NP (JJ different) (NNS frames)) (PP (IN of) (NP (DT the) (JJ same) (NN camera)))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ triplet) (NN loss)) (VP (VBZ focuses) (PP (IN on) (S (VP (VBG obtaining) (NP (JJ correct) (NNS orders)) (PP (IN on) (NP (DT the) (NN training) (NN set))))))) (. .))

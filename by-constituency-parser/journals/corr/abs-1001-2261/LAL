@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN structure)) (VP (NN compound) (PP (IN with) (NP (NP (JJ high) (NN speed) (JJ current) (NN comparator) (NN circuit)) (, ,) (NP (JJ current) (NN mirror) (NN circuit)) (, ,) (CC and) (NP (NNP CMOS) (NN inverter) (NN circuit))))) (. .))
+(S (NP (NNP PSpice) (NN program)) (VP (VBN used) (PP (IN for) (NP (NN confirmation))) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (VBG testing))))) (. .))

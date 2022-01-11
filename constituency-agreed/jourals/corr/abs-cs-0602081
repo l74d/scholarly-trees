@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (PP (IN of) (NP (PRP$ its) (NN importance)))) (, ,) (NP (DT this) (NN design) (NN issue)) (VP (VBD received) (NP (JJ little) (NN attention)) (ADVP (RB so) (RB far))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT this) (NN design) (NN issue)) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ binary) (NN erasure) (NN channel)))))) (. .))

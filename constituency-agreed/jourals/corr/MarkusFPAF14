@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NNS trees)) (VP (VBP use) (NP (JJ simple) (NN pixel) (NN intensity) (NNS comparisons)) (PP (IN in) (NP (PRP$ their) (JJ internal) (NNS nodes))))) (CC and) (S (NP (DT this)) (VP (VBZ makes) (S (NP (PRP them)) (ADJP (JJ able) (S (VP (TO to) (VP (VB process) (NP (NN image) (NNS regions)) (ADVP (RB very) (RB fast))))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ has) (NP (JJ practical) (NN value)))))) (. .))

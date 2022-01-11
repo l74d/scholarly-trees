@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN weight)) (VP (VBZ is) (NP (NP (DT the) (NN vector)) (SBAR (WHNP (WDT that)) (S (VP (VBZ records) (SBAR (WHNP (WHADJP (WRB how) (JJ many)) (NNS times)) (S (NP (DT each) (NN symbol)) (VP (VBZ occurs) (PP (IN in) (NP (DT the) (NN word))))))))))) (. .))

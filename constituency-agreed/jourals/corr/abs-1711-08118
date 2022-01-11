@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Use)) (PP (IN of) (NP (JJ additional) (NNS channels)))) (VP (MD can) (VP (VB achieve) (NP (DT the) (NN objective)))) (. .))
+(S (NP (NP (NNP Use)) (PP (IN of) (NP (JJ additional) (NN channel)))) (VP (VBZ requires) (NP (JJ additional) (NN bandwidth))) (. .))

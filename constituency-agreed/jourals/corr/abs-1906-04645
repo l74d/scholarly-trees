@@ -1,0 +1,2 @@
+(S (S (VP (VBG Maintaining) (NP (DT the) (JJ Hamiltonian) (NN structure)))) (VP (VBZ requires) (NP (NP (JJ novel) (NN network) (NNS architectures)) (SBAR (WHNP (WDT that)) (S (VP (VBP parametrize) (NP (JJ symplectic) (NNS transformations))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN utility)) (PP (IN of) (NP (DT these) (NNS architectures)))) (PP (IN by) (S (VP (VBG learning) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (JJ integrable) (NNS models)))))))) (. .))

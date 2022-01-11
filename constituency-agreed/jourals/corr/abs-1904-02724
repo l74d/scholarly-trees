@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD investigated) (NP (CD 5,445) (NNS bounties)) (PP (IN for) (NP (NNP GitHub) (NNS projects)))) (. .))
+(S (NP (DT These) (NNS bounties)) (VP (VBD were) (VP (VBN proposed) (PP (IN through) (NP (DT the) (NNP Bountysource) (NN platform))) (PP (IN with) (NP (NP (DT a) (JJ total) (NN bounty) (NN value)) (PP (IN of) (NP ($ $) (CD 406,425))))))) (. .))

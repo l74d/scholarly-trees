@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN recognition) (NN encoder)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB learn) (NP (DT the) (JJ disentangled) (JJ linguistic) (NNS representations)) (PP (IN with) (NP (CD two) (NNS strategies)))))))) (. .))
+(S (ADVP (RB Meanwhile)) (, ,) (NP (NN speaker) (NNS representations)) (VP (VBP are) (VP (VBN extracted) (PP (IN from) (NP (JJ audio) (NNS signals))) (PP (IN by) (NP (DT a) (NN speaker) (NN encoder))))) (. .))

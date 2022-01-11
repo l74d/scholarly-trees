@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (NN refinement) (NN algorithm)) (S (VP (TO to) (VP (VB ensure) (NP (NN consistency)))))) (. .))
+(S (NP (PRP We)) (VP (VBP test) (NP (ADJP (JJ generic) (CC and) (JJ degenerate)) (NNS inputs))) (. .))

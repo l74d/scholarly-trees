@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN whether) (S (NP (DT this) (NN relationship)) (VP (VBZ works) (PP (IN in) (NP (DT the) (JJ opposite) (NN direction)))))) (VP (VBZ remains) (ADJP (JJ obscure))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (NP (DT the) (NN interpretability)) (PP (IN of) (NP (DT the) (NN model) (NNS gradients)))) (VP (VBZ is) (NP (NP (DT a) (JJ crucial) (NN factor)) (PP (IN for) (NP (JJ adversarial) (NN robustness)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (CD One) (NN server)) (VP (VBZ holds) (NP (DT the) (NN model) (NNS parameters)) (SBAR (IN while) (S (NP (JJ several) (NNS workers)) (VP (VBP train) (NP (DT the) (NN model)))))) (. .))

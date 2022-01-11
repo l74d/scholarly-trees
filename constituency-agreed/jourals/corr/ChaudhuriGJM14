@@ -1,0 +1,4 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT no) (JJ explicit) (NN communication)) (PP (IN between) (NP (DT the) (NNS robots))))) (. .))
+(S (NP (DT The) (NNS robots)) (VP (VBP coordinate) (PP (IN among) (NP (PRP themselves))) (PP (IN by) (S (VP (VBG observing) (NP (NP (DT the) (NNS positions)) (PP (IN of) (NP (NP (DT the) (JJ other) (NNS robots)) (PP (IN on) (NP (DT the) (NN plane)))))))))) (. .))
+(S (ADVP (RB Initially)) (NP (PDT all) (DT the) (NNS robots)) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (JJ stationary))))))) (. .))
+(S (ADVP (RB Initially)) (NP (DT the) (NNS robots)) (VP (VBP are) (PP (IN in) (NP (JJ asymmetric) (NN configuration)))) (. .))

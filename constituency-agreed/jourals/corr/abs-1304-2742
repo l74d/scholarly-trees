@@ -1,0 +1,1 @@
+(S (PP (IN Within) (NP (NP (NNP Nilsson) (POS 's)) (JJ semantic) (NN framework))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN inference) (NNS rules)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (RB provably) (JJ sound))))))))) (. .))

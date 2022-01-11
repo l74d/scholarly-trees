@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN article)) (VP (VBZ describes) (NP (NP (DT a) (JJ formal) (NN proof)) (PP (IN of) (NP (NP (DT the) (NNP Kepler) (NN conjecture)) (PP (IN on) (NP (NN dense) (JJ sphere) (NNS packings))))) (PP (IN in) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (DT the) (NNP HOL) (NNP Light) (CC and) (NNP Isabelle) (NN proof) (NNS assistants))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ constitutes) (NP (NP (DT the) (JJ official) (JJ published) (NN account)) (PP (IN of) (NP (DT the) (ADJP (RB now) (VBN completed)) (NNP Flyspeck) (NN project))))) (. .))

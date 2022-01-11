@@ -1,0 +1,4 @@
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB find) (NP (JJ super) (NNS hosts)) (PP (IN in) (NP (JJ real) (NN time))))))) (VP (VBZ is) (NP (NP (DT the) (NN foundation)) (PP (IN of) (NP (DT these) (NNS applications))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ novel) (NN algorithm)) (, ,) (VP (VBN denoted) (PP (IN as) (NP (NNP CBAA)))) (, ,)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)) (PP (IN at) (NP (NN edge) (NNS routers)))))))) (. .))
+(S (NP (NNP CBAA)) (VP (VBZ divides) (NP (NN network) (NN traffic)) (PP (IN into) (NP (JJ different) (NNS parts)))) (. .))
+(S (NP (NNP CBAA)) (VP (VBZ is) (ADVP (RB also)) (NP (DT a) (JJ parallel) (NN algorithm))) (. .))

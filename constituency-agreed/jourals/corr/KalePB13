@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN extent)) (PP (IN of) (NP (NP (NN parallelization)) (PP (IN of) (NP (DT a) (NN loop)))))) (VP (VBZ is) (ADVP (RB largely)) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NNS dependences)) (PP (IN between) (NP (PRP$ its) (NNS statements))))))) (. .))
+(S (NP (NN Dependence) (NN distance)) (VP (VBZ is) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NP (JJ absolute) (NN difference)) (PP (IN between) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (JJ dependent) (NNS iterations))))))))) (. .))

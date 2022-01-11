@@ -1,0 +1,2 @@
+(S (NP (NNS Trellises)) (VP (VBP are) (NP (NP (JJ crucial) (JJ graphical) (NNS representations)) (PP (IN of) (NP (NNS codes))))) (. .))
+(S (NP (PRP$ Our) (NN classification) (NNS results)) (VP (VBP are) (ADJP (JJ important) (PP (IN for) (NP (JJ iterative) (NN decoding)))) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ minimal) (JJ linear) (NNS trellises)) (VP (MD can) (VP (VB yield) (NP (JJ different) (NNS pseudocodewords)) (SBAR (RB even) (IN if) (S (NP (PRP they)) (VP (VBP have) (NP (DT the) (JJ same) (NN graph) (NN structure))))))))))))) (. .))

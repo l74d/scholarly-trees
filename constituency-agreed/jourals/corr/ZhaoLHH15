@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (NP (PRP it)) (ADVP (RB still)) (VP (VBZ remains) (PP (IN as) (NP (NP (DT a) (NN problem)) (PP (IN in) (NP (NP (JJ deep) (NN video) (NN representation)) (PP (IN for) (NP (NN action) (NN recognition)))))))) (. .))
+(S (NP (DT The) (JJ pooled) (JJ local) (NNS descriptors)) (VP (VBP are) (ADVP (RB then)) (VP (VBN encoded) (PP (IN with) (NP (NNP VLAD))) (S (VP (TO to) (VP (VB form) (NP (DT the) (NN video) (NNS representations))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NN Research)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NN malleability)) (VP (VBZ improves) (NP (NN system) (NN performance))))))) (, ,) (CC but) (S (NP (NP (PRP$ its) (NN utilization)) (PP (IN in) (NP (NNP HPC)))) (ADVP (RB never)) (VP (VBD became) (ADJP (JJ widespread)))) (. .))

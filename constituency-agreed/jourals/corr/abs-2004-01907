@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (VBN labeled) (NN data)) (VP (VBZ is) (ADJP (JJ scarce))))) (, ,) (NP (NNS models)) (VP (VBP tend) (S (VP (TO to) (VP (VB struggle) (S (VP (TO to) (VP (VB achieve) (NP (JJ satisfactory) (NN performance))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ human) (NNS beings)) (VP (MD can) (VP (VB distinguish) (NP (JJ new) (NNS categories)) (ADVP (RB very) (RB efficiently)) (PP (IN with) (NP (JJ few) (NNS examples))))) (. .))

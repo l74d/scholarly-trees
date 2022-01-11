@@ -1,0 +1,1 @@
+(S (S (NP (NNP Healthcare) (NNS datasets)) (ADVP (RB generally)) (VP (VBP have) (NP (JJ many) (NNS attributes)))) (CC and) (S (NP (DT each) (NN attribute)) (ADVP (RB generally)) (VP (VBZ has) (NP (JJ many) (JJ distinct) (NNS values)))) (. .))

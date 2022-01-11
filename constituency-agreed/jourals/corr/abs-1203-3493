@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN solution) (NN algorithm)) (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NP (NP (NNP Shenoy) (POS 's)) (NN fusion) (NN algorithm)) (PP (IN for) (NP (JJ discrete) (NN influence) (NNS diagrams))))))) (. .))
+(S (NP (DT The) (NN algorithm) (CC and) (NN framework)) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (S (VP (VBG solving) (NP (CD two) (JJ small) (NNS examples))))))) (. .))

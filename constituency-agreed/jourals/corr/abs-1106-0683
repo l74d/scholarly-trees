@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN article)) (VP (VBZ is) (NP (NP (DT an) (NN attempt)) (PP (IN at) (S (VP (VBG solving) (NP (DT the) (NN problem)) (S (VP (VBG using) (NP (DT a) (NN computer) (NN algorithm))))))))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBZ is) (ADVP (RB primarily)) (VP (VBN based) (PP (IN on) (NP (NP (JJ linear) (NN algebra)) (CC and) (NP (JJ finite) (NNS fields)))))) (. .))

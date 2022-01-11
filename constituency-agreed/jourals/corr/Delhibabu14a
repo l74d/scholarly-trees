@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN approach)) (VP (VBZ extends) (CC and) (VBZ integrates) (NP (NP (JJ standard) (NNS techniques)) (PP (IN for) (NP (NP (JJ efficient) (NN query) (NN answering)) (CC and) (NP (NN integrity) (NN checking)))))) (. .))
+(S (NP (JJ Many) (JJ different) (NN view) (NN update) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN in) (NP (DT the) (NN literature))) (S (VP (TO to) (VP (VB address) (NP (DT this) (NN problem)))))))) (. .))

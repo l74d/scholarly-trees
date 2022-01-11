@@ -1,0 +1,4 @@
+(S (NP (DT This)) (VP (VBZ enables) (NP (NP (JJR faster) (NN cure)) (CC and) (NP (NP (JJ high) (NN rate)) (PP (IN of) (NP (NN survival)))))) (. .))
+(S (S (VP (TO To) (VP (VB accomplish) (NP (DT this) (NN task))))) (, ,) (NP (NP (NN segmentation)) (PP (IN of) (NP (NNS cells)))) (VP (VBP need) (S (VP (TO to) (VP (VB be) (ADJP (JJ accurate)))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB annotate) (NP (JJ precise) (NNS masks)) (PP (IN on) (NP (NN test) (NNS data))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBZ shows) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN work))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (JJ multi-scale) (NN localization) (NNS maps)) (PP (IN from) (NP (JJ different) (JJ convolutional) (NNS layers)))) (VP (VBP are) (VP (VBN fused) (S (VP (TO to) (VP (VB produce) (NP (DT the) (JJ final) (NN result))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ scheduled) (NN device)) (VP (VBZ receives) (NP (DT the) (NNS data) (NN information)) (SBAR (IN while) (S (NP (JJ other) (NNS devices)) (VP (VBP harvest) (NP (NN energy)) (PP (IN from) (NP (DT the) (NN downlink) (NNS signals))))))) (. .))
+(S (NP (JJ Extensive) (NNS simulations)) (VP (VBP validate) (NP (DT the) (NN analysis))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NN Detection)) (PP (IN of) (NP (JJ adversarial) (NNS examples)))) (VP (VBZ is) (, ,) (ADVP (RB therefore)) (, ,) (NP (NP (DT a) (JJ fundamental) (NN requirement)) (PP (IN for) (NP (JJ robust) (NN classification) (NNS frameworks))))) (. .))
+(S (PP (IN From) (NP (DT the) (NN influence) (NNS scores))) (, ,) (NP (PRP we)) (VP (VBP find) (NP (NP (DT the) (ADJP (RBS most) (JJ supportive)) (NN training) (NNS samples)) (PP (IN for) (NP (DT any) (VBN given) (NN validation) (NN example))))) (. .))

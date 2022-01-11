@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (NP (JJ multi-agent) (NN task) (NN allocation)))) (VP (VBZ arises) (PP (IN in) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NNS scenarios)) (VP (VBG involving) (NP (JJ human) (NNS teams)))))))) (. .))
+(S (PP (IN In) (NP (JJ many) (JJ such) (NNS settings))) (, ,) (NP (JJ human) (NNS teammates)) (VP (MD may) (VP (VP (VB act) (PP (IN with) (NP (JJ selfish) (NNS motives)))) (CC and) (VP (VB try) (S (VP (TO to) (VP (VB minimize) (NP (PRP$ their) (NN cost) (NNS metrics)))))))) (. .))

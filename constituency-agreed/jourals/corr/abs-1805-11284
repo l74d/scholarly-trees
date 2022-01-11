@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS gradients)) (PP (IN of) (NP (DT the) (NNP Wasserstein) (JJ variational) (NN loss)))) (VP (VBP are) (VP (VBN obtained) (PP (IN by) (S (VP (VBG backpropagating) (PP (IN through) (NP (DT the) (NNP Sinkhorn) (NNS iterations)))))))) (. .))

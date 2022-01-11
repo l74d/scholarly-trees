@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VP (VBP apply) (NP (PRP$ our) (NN algorithm)) (PP (IN on) (NP (JJ previous) (VBN released) (JJ multi-sense) (NN word) (NNS embeddings)))) (CC and) (VP (VBD tested) (NP (PRP it)) (PP (IN on) (NP (NP (JJ artificial) (NN word) (NN similarity) (NNS tasks)) (CC and) (NP (DT the) (NN analogy) (NN task)))))) (. .))

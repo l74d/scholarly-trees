@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (PRP$ our) (NN implementation)) (PP (IN in) (NP (DT the) (NNP GProM) (NN system)))) (VP (VBZ supports) (NP (NP (JJ efficient) (NN re-construction) (CC and) (NN querying)) (PP (IN of) (NP (NN provenance)))))))) (. .))

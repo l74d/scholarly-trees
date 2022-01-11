@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (PRP$ our) (NNS systems)) (CC and) (NP (NP (DT the) (JJ comparative) (NNS experiments)) (VP (VBN done) (SBAR (WHADVP (WRB when)) (S (NP (JJ various) (NNS parameters)) (VP (VBD were) (VP (VBN changed))))))))) (. .))
+(S (NP (DT These) (NNS experiments)) (VP (VBD confirmed) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (S (VP (VBG using) (NP (NN location) (CC and) (NN category) (NN information))))))) (. .))

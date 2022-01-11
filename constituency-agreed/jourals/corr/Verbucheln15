@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (VP (VBN standardized)))) (, ,) (NP (NP (DT the) (NN signature)) (VP (VBN produced) (PP (IN by) (NP (NNP ECDSA))) (PP (IN for) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (NP (DT a) (NN message)) (CC and) (NP (DT a) (NN key)))))))) (VP (VBZ is) (RB not) (ADJP (JJ deterministic))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ discriminative) (NN model)) (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT a) (NN classifier)))))) (. .))
+(S (NP (PRP We)) (VP (MD shall) (VP (VP (VB review) (NP (DT these) (NNS models)) (PP (IN within) (NP (DT a) (JJ common) (NN framework)))) (CC and) (VP (VB explore) (NP (PRP$ their) (NNS connections))))) (. .))

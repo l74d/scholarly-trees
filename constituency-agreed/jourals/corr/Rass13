@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN done) (S (VP (VBG using) (NP (NP (ADJP (RB fully) (JJ homomorphic)) (NN encryption)) (, ,) (NP (NP (NNP Yao) (POS 's)) (JJ garbled) (NNS circuits)) (CC or) (NP (JJ secure) (NN multiparty) (NN computation)))))))) (. .))

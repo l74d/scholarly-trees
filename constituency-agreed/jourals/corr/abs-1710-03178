@@ -1,0 +1,2 @@
+(S (NP (NNP Broadcast)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ fundamental) (NN network) (NN communication) (NNS primitives))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (NP (JJ deterministic) (NN broadcast)) (PP (IN in) (NP (NN radio) (NNS networks))))))) (. .))

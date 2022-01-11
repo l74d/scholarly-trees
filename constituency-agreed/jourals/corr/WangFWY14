@@ -1,0 +1,2 @@
+(S (NP (NNS Simplices)) (VP (VBP are) (NP (NP (JJ geometric) (NNS structures)) (SBAR (WHNP (WDT that)) (S (VP (VBP generalize) (NP (NNS triangles))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ simple) (JJ geometric) (NN understanding)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB learn) (NP (DT a) (JJ simplicial) (NN structure)) (ADVP (RB efficiently)))))))))) (. .))

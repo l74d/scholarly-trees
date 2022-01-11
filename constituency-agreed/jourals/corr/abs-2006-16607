@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ is) (NP (DT an) (NN attempt) (S (VP (TO to) (VP (VB exploit) (NP (DT these) (NNS principles)) (PP (IN in) (NP (DT an) (JJ engineered) (NN system)))))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ combines) (NP (NP (JJ computational) (NNS principles)) (, ,) (PP (JJ such) (IN as) (NP (NN competition) (, ,) (NN cooperation) (, ,) (CC and) (NN correlation))) (, ,)) (PP (IN in) (NP (DT a) (ADJP (RB neurally) (JJ plausible)) (JJ computational) (NN substrate)))) (. .))

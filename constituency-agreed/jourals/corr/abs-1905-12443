@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN scenario)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (ADJP (NN application) (JJ specific)) (NN network) (NNS data))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NNS attacks)) (VP (VBP are) (VP (VBN introduced) (PP (IN into) (NP (DT this) (NN data) (NN set))))) (. .))

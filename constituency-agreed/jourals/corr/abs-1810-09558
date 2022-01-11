@@ -1,0 +1,2 @@
+(S (ADVP (RB Often)) (NP (NP (DT the) (NN layout)) (PP (IN of) (NP (DT these) (NNS pages)))) (VP (MD can) (VP (VB be) (VP (VBN decoupled) (PP (IN into) (NP (JJ several) (JJ separate) (NNS decisions)))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (JJ multivariate) (NN optimization)) (PP (IN of) (NP (JJ interactive) (NN web) (NNS pages)))))) (. .))

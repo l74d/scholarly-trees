@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ such) (NNS applications))) (, ,) (NP (DT a) (NN person)) (VP (MD should) (VP (VB have) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB change) (NP (NP (DT the) (NN decision)) (PP (IN of) (NP (DT a) (NN model)))))))))) (. .))
+(S (ADVP (RB Otherwise)) (, ,) (NP (PRP they)) (VP (MD will) (VP (VB be) (VP (VBN denied) (NP (DT the) (NN loan)) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (DT the) (NN model)) (VP (VBZ is) (VP (VBN deployed))))))))) (. .))

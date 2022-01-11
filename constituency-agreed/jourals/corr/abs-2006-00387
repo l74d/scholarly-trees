@@ -1,0 +1,1 @@
+(S (NP (JJ Adversarial) (NN training)) (VP (VBZ has) (VP (VBN proven) (S (VP (TO to) (VP (VB be) (ADJP (JJ effective) (PP (IN in) (S (VP (VBG hardening) (NP (NNS networks)) (PP (IN against) (NP (JJ adversarial) (NNS examples)))))))))))) (. .))

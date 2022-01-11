@@ -1,0 +1,2 @@
+(S (NP (JJ Probabilistic) (NN image) (NN registration) (NNS methods)) (VP (VBP estimate) (NP (NP (DT the) (JJ posterior) (NN distribution)) (PP (IN of) (NP (NN transformation))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (PP (VBN based) (PP (IN on) (NP (JJ illustrative) (NNS examples)))) (, ,) (NP (PRP we)) (VP (VBP question) (NP (NP (DT the) (NN correctness) (CC and) (NN usefulness)) (PP (IN of) (NP (JJ conventional) (NNS methods))))) (. .))

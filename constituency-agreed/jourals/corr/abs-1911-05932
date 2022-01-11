@@ -1,0 +1,1 @@
+(S (S (VP (VBG Finding) (NP (NP (JJ local) (NNS correspondences)) (PP (IN between) (NP (NP (NNS images)) (PP (IN with) (NP (JJ different) (NNS viewpoints)))))))) (VP (VBZ requires) (NP (NP (JJ local) (NNS descriptors)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ robust) (PP (IN against) (NP (JJ geometric) (NNS transformations))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN size)) (PP (IN of) (NP (DT the) (NN region)))) (VP (VBZ is) (ADJP (JJ configurable) (PP (IN by) (NP (NN design) (NNS parameters))))) (. .))
+(S (NP (NP (DT A) (JJ comparative) (NN analysis)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ experimental) (NNS results))) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS techniques))))) (. .))

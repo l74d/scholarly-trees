@@ -1,0 +1,2 @@
+(S (NP (NN Privacy)) (VP (VBZ is) (NP (NP (DT an) (ADJP (RB increasingly) (JJ important)) (NN aspect)) (PP (IN of) (NP (NNS data) (NN publishing))))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (RB even) (DT a) (JJ simple) (NN instance)) (PP (IN of) (NP (DT a) (NN composition) (NN attack)))) (VP (MD can) (VP (VB breach) (NP (NN privacy)) (PP (IN in) (NP (NN practice))) (, ,) (PP (IN for) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (ADJP (RB currently) (VBN proposed)) (NNS techniques)))))))))) (. .))

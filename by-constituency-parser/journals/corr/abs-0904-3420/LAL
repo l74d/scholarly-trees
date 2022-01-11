@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT a) (JJ new) (ADJP (NN identity) (VBN based)) (JJ strong) (VBN designated) (NN verifier) (JJ parallel) (JJ multi-proxy) (NN signature) (NN scheme))) (. .))
+(S (NP (JJ Multi-Proxy) (NNS signatures)) (VP (VBP allow) (S (NP (DT the) (JJ original) (NN signer)) (VP (TO to) (VP (VB delegate) (NP (PRP$ his) (VBG signing) (NN power)) (PP (TO to) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (JJ proxy) (NNS signers))))))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN scheme))) (, ,) (NP (DT the) (VBN designated) (NN verifier)) (VP (MD can) (ADVP (RB only)) (VP (VB validate) (NP (NP (NN proxy) (NNS signatures)) (VP (VBN created) (PP (IN by) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (JJ proxy) (NN signer))))))))) (. .))

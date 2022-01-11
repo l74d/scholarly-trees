@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (JJ inductive) (NN learning)) (PP (IN of) (NP (DT a) (JJ broad) (NN concept))))) (, ,) (NP (DT an) (NN algorithm)) (VP (MD should) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB distinguish) (NP (NN concept) (NNS examples)) (PP (IN from) (NP (NP (NNS exceptions)) (CC and) (NP (JJ noisy) (NNS data)))))))))) (. .))

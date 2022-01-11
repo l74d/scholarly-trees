@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ nonparametric) (NN dependence) (NN detection))))) (. .))
+(S (NP (DT The) (JJ binary) (NN expansion) (NN approach)) (ADVP (RB also)) (VP (VBZ connects) (NP (DT the) (NN symmetry) (NNS statistics)) (PP (IN with) (NP (DT the) (JJ current) (NN computing) (NN system))) (S (VP (TO to) (VP (VB facilitate) (NP (JJ efficient) (NN bitwise) (NN implementation)))))) (. .))

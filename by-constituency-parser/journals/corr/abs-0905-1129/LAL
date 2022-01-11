@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (NNP Dejean) (POS 's)) (NN conjecture))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNP Dejean) (POS 's)) (NN conjecture)) (VP (VBZ holds) (PP (IN for) (NP (NP (NP (DT the) (JJ last) (JJ remaining) (JJ open) (NNS values)) (PP (IN of) (NP (NN n)))) (, ,) (ADVP (RB namely)) (NP (CD 15) (JJ <) (NNP =) (NP (NN n)) (NNP <) (VBZ =) (NP (CD 26))))))))) (. .))

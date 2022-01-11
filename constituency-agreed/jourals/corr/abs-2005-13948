@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT a) (JJ simple) (NN regularisation) (NN penalty)) (VP (MD may) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB train) (ADVP (RB efficiently)) (PP (IN without) (S (VP (VBG sacrificing) (NP (NN interpretability)))))))))))))) (. .))

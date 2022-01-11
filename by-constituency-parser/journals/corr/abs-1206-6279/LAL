@@ -1,0 +1,2 @@
+(S (NP (DT These) (NN lecture) (NNS notes)) (VP (VBP provide) (NP (NP (DT an) (NN introduction)) (PP (TO to) (NP (NP (VB automorphism) (NNS groups)) (PP (IN of) (NP (NN graphs))))))) (. .))
+(S (NP (NP (DT Some) (JJ special) (NNS families)) (PP (IN of) (NP (NNS graphs)))) (VP (VBP are) (ADVP (RB then)) (VP (VBN discussed) (, ,) (NP (NP (ADVP (RB especially)) (DT the) (NNS families)) (PP (IN of) (NP (NP (NNP Cayley) (NN graphs)) (VP (VBN generated) (PP (IN by) (NP (NN transposition) (NNS sets))))))))) (. .))

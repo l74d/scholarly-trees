@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN dataset)) (, ,) (NP (JJ pre-trained) (NNS models)) (, ,) (CC and) (NP (NP (NN source) (NN code)) (SBAR (S (VP (TO to) (VP (VB reproduce) (NP (PRP$ our) (NN work)))))))) (VP (VBP are) (ADJP (JJ available) (PP (IN for) (NP (JJ public) (NN use))))) (. .))

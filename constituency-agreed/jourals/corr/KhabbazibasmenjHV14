@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (NNP M)) (VP (VBZ is) (NP (NP (DT the) (NN dimension)) (PP (IN of) (NP (DT the) (NN beamforming) (NN vector))))) (. .))
+(S (NP (PRP We)) (VP (VBP call) (NP (DT the) (JJ initial) (NN beamforming) (NN vector)) (PP (IN as) (NP (DT the) (NN mother) (VBG beamforming) (NN vector)))) (. .))

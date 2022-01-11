@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN combination)) (PP (IN of) (NP (DT these) (NNS features)))) (VP (VBZ makes) (S (NP (NNP FMM)) (NP (NP (DT an) (JJ interesting) (NN candidate)) (PP (IN as) (NP (NP (DT a) (NN preconditioner)) (PP (IN for) (NP (NP (JJ sparse) (NNS solvers)) (PP (IN on) (NP (NP (NNS architectures)) (PP (IN of) (NP (DT the) (NN future)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN search)) (PP (IN for) (NP (DT the) (NNS invariants)))) (VP (MD can) (VP (VB be) (VP (VBN formulated) (PP (IN as) (NP (DT a) (NN convex) (NN optimization) (NN problem)))))) (. .))
+(S (SBAR (IN If) (S (NP (DT the) (VBN associated) (NN optimization) (NN problem)) (VP (VBZ is) (ADJP (JJ feasible))))) (, ,) (NP (DT the) (NN result)) (VP (VBZ is) (NP (NP (DT a) (NN certificate)) (PP (IN for) (NP (DT the) (NN specification))))) (. .))

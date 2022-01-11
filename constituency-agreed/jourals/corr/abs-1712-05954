@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP assume) (NP (PRP$ its) (NN function))) (CC and) (VP (VB describe) (NP (PRP it)) (PP (IN in) (NP (DT this) (NN article))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN architecture)) (VP (VBZ possesses) (NP (DT an) (NN ability) (S (VP (TO to) (VP (VB train) (PP (IN on) (NP (NP (DT a) (JJ small) (NN quantity)) (PP (IN of) (NP (NNS samples))))))))))))) (. .))

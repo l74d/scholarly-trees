@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG abstracting) (NP (DT the) (NN computation))))) (, ,) (NP (JJ unnecessary) (NNS explorations)) (VP (MD can) (VP (VB be) (VP (VBN avoided)))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (PP (IN for) (NP (JJ conjunctive) (NNS predicates))) (, ,) (NP (PRP$ our) (NN algorithm)) (ADVP (RB also)) (VP (VBZ reduces) (NP (NP (DT the) (NN message) (NN load)) (PP (IN per) (NP (NN process))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ theoretical) (NN convergence) (NNS guarantees)) (VP (VBP have) (ADVP (RB only)) (VP (VBN been) (VP (VBN derived) (PP (IN for) (NP (DT a) (JJ few) (JJ special) (NNS divergences))) (PP (IN without) (NP (NN regularization)))))) (. .))

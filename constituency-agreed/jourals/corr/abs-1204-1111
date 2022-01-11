@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (DT this) (NN algorithm)))) (VP (VBZ is) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NP (DT all) (VBN known) (NNS algorithms)) (PP (IN for) (NP (JJ rectangular) (NN matrix) (NN multiplication))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ is) (RB not) (VP (VBN supported) (PP (IN in) (NP (DT the) (JJ spatial) (NNS databases))))) (. .))
+(S (CC But) (NP (DT these) (NNS queries)) (VP (VBP are) (ADJP (JJ useful) (CC and) (JJ meaningful))) (. .))

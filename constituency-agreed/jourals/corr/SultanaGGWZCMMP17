@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ complicates) (NP (NP (DT the) (NN programming) (CC and) (NN debugging)) (PP (IN of) (NP (JJ reconfigurable) (NN hardware))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN approach)) (VP (VBZ affords) (NP (JJ significant) (NN flexibility)) (PP (IN with) (NP (NP (JJ low) (NN impact)) (PP (IN on) (NP (NN hardware) (NN utilisation) (CC and) (NN performance))))))))) (. .))

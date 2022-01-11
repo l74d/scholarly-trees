@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN formulation)) (VP (MD can) (ADVP (RB also)) (VP (VB model) (NP (JJ adversarial) (NN example) (NN generation)) (PP (IN with) (NP (JJ minimal) (NNS data) (NN manipulation))) (S (VP (TO to) (VP (VB fool) (NP (NNS classifiers))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN article)) (VP (VBZ describes) (NP (DT this) (NN robot) (NN platform)) (PP (IN from) (NP (NP (JJ several) (NNS aspects)) (PP (JJ such) (IN as) (NP (NP (NN hardware) (NN design)) (, ,) (NP (NNS kinematics)) (, ,) (CC and) (NP (NN control) (NNS methods))))))) (. .))
+(S (NP (NP (DT The) (NN source) (NN code)) (PP (IN of) (NP (DT this) (NN platform)))) (VP (VBZ is) (ADJP (JJ available))) (. .))

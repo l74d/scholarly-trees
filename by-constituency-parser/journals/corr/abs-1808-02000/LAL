@@ -1,0 +1,6 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ bionic) (NN reflex) (NN control) (NN strategy)) (PP (IN for) (NP (DT a) (ADJP (RB kinematically) (VBN constrained)) (JJ robotic) (NN finger))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (DT the) (JJ bionic) (NN reflex)) (VP (VBZ is) (VP (VBN achieved) (PP (IN through) (NP (DT a) (NN force) (VBG tracking) (NN impedance) (NN control) (NN strategy))))) (. .))
+(S (NP (NP (DT The) (JJ dynamic) (NN model)) (PP (IN of) (NP (DT the) (NN finger)))) (VP (VBZ is) (VP (VBN reduced) (S (ADJP (JJ subject) (PP (TO to) (NP (JJ kinematic) (NNS constraints))))))) (. .))
+(S (ADVP (RB Thereafter)) (, ,) (NP (NP (DT an) (NN impedance) (NN control) (NN strategy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (NP (NP (JJ exact) (NN tracking)) (PP (IN of) (NP (NNS forces)))))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (NP (NP (NN Simulation) (NNS results)) (PP (IN for) (NP (NP (DT a) (JJ single) (NN finger)) (VP (VBG holding) (NP (DT a) (JJ rectangular) (NN object)) (PP (IN against) (NP (DT a) (JJ flat) (NN surface))))))) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (NNP Bionic) (NN reflex) (NN response) (NN time)) (VP (VBZ is) (PP (IN of) (NP (NP (DT the) (NN order)) (PP (IN of) (NP (NNS milliseconds)))))) (. .))

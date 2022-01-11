@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN algorithm)) (VP (VBZ requires) (S (VP (VBG exchanging) (NP (NP (NNS messages)) (SBAR (WHNP (WDT that)) (S (VP (VBP depend) (PP (IN on) (NP (JJ local) (NNS data)))))))))))) (, ,) (NP (JJ private) (NN information)) (VP (VBZ gets) (VP (VBN leaked) (PP (IN at) (NP (DT every) (NN step))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Machine) (NN learning)) (VP (VBZ is) (NP (NP (DT a) (JJ thriving) (NN part)) (PP (IN of) (NP (NN computer) (NN science))))) (. .))
+(S (S (NP (NNS Models)) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NP (NNS tuples)) (PP (IN of) (NP (JJ logical) (NNS formulas)))))))) (CC and) (S (NP (NNS inputs) (CC and) (NNS outputs)) (VP (VBP are) (NP (JJ logical) (NNS structures)))) (. .))

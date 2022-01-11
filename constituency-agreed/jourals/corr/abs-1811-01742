@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN framework)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (CD three) (NNS steps))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN step))) (, ,) (NP (NP (DT the) (NN pool)) (PP (IN of) (NP (NNS classifiers)))) (VP (VBZ is) (VP (VBN generated) (PP (IN from) (NP (DT the) (NN training) (NNS data))))) (. .))

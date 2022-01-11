@@ -1,0 +1,2 @@
+(S (ADVP (RB Normally)) (, ,) (NP (NP (DT each) (NN instance)) (PP (IN of) (NP (DT a) (JJ complex) (NN activity)))) (VP (VBZ has) (NP (NP (PRP$ its) (JJ own) (NN configuration)) (PP (IN of) (NP (NP (JJ atomic) (NNS actions)) (CC and) (NP (PRP$ their) (JJ temporal) (NNS dependencies)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NN network) (NN structure)) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN from) (NP (JJ empirical) (NNS data)))))) (. .))

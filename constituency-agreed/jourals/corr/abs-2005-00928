@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (PP (IN across) (NP (NP (NNS layers)) (PP (IN of) (NP (DT the) (NNP Transformer))))) (, ,) (NP (NP (NN information)) (VP (VBG originating) (PP (IN from) (NP (JJ different) (NNS tokens))))) (VP (VBZ gets) (ADJP (RB increasingly) (JJ mixed))) (. .))
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (NN attention) (NNS weights)) (ADJP (JJ unreliable) (PP (IN as) (NP (NNS explanations) (NNS probes)))))) (. .))

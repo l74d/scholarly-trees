@@ -1,0 +1,2 @@
+(S (S (VP (VBG Reviewing) (NP (NN radiology) (NNS reports)) (PP (IN in) (NP (NN emergency) (NNS departments))))) (VP (VBZ is) (NP (DT an) (ADJP (JJ essential) (CC but) (JJ laborious)) (NN task))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (NP (NP (DT a) (JJ semi-supervised) (NN learning) (NN framework)) (PP (IN for) (NP (NN radiology) (NN report) (NN classification)))) (PP (IN across) (NP (CD three) (NNS hospitals)))) (. .))

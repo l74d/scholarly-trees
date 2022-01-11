@@ -1,0 +1,2 @@
+(S (NP (NN Machine) (NN learning)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB approximate) (NP (NN density) (NNS functionals))))))) (. .))
+(S (NP (DT A) (NN predictor)) (VP (VBZ identifies) (SBAR (IN if) (S (NP (DT a) (NN test) (NN density)) (VP (VBZ is) (PP (IN within) (NP (DT the) (NN interpolation) (NN region))))))) (. .))

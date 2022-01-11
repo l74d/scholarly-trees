@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NNS fabrics)) (PP (IN as) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (DT a) (JJ deformable) (NN material)) (PP (IN with) (NP (NP (DT a) (JJ rich) (NN set)) (PP (IN of) (NP (JJ mechanical) (NNS properties)))))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ feels) (ADJP (JJ different)) (SBAR (WHADVP (WRB when)) (S (VP (VBN touched))))) (. .))

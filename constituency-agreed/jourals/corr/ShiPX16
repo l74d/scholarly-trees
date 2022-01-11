@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN image)) (VP (VBZ is) (VP (VBN contaminated) (PP (IN by) (NP (DT some) (NNS noises) (CC or) (NNS blurs))))))) (, ,) (NP (PRP we)) (VP (MD can) (RB not) (VP (VB obtain) (NP (DT the) (JJ efficient) (NN segmentation) (NN result)) (PP (IN by) (S (VP (VBG using) (NP (JJ direct) (NN segmentation) (NNS methods))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN solved) (S (VP (VBG using) (NP (NN value) (NN iteration)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (JJ structural) (NNS properties)) (PP (IN of) (NP (DT the) (VBG resulting) (JJ optimal) (NN control)))) (VP (VBP are) (VP (VBN highlighted))) (. .))

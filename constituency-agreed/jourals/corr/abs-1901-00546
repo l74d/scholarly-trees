@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB analyze) (NP (NP (DT the) (NN vulnerability) (CC and) (NN robustness)) (PP (IN of) (NP (JJ multi-label) (NN learning) (NNS models))))))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN generation)) (PP (IN of) (NP (JJ multi-label) (JJ adversarial) (NNS perturbations))))) (. .))

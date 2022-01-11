@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG eliminating) (NP (NNS holes)) (S (VP (VBG using) (NP (JJ structural) (NN deployment)))))) (VP (VBZ poses) (NP (PRP$ its) (NNS difficulties))) (. .))
+(S (PP (IN In) (NP (DT either) (NN case))) (, ,) (NP (DT the) (VBG resulting) (NN coverage) (NNS holes)) (VP (MD can) (VP (VB degrade) (NP (NP (JJ overall) (NN network) (NN performance)) (CC and) (NP (NN lifetime))))) (. .))

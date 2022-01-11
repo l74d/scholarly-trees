@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP overcome) (NP (DT this) (NN difficulty)) (PP (IN by) (S (VP (VBG proposing) (NP (NP (NNP Fastfood)) (, ,) (NP (NP (DT an) (NN approximation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ accelerates) (NP (JJ such) (NN computation)) (ADVP (RB significantly))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN approximation)) (VP (VP (VBZ is) (ADJP (JJ unbiased))) (CC and) (VP (VBZ has) (NP (JJ low) (NN variance))))))) (. .))

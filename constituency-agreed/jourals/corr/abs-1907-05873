@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS purposes)) (PP (IN of) (NP (DT a) (NN computer)))))) (VP (VBZ is) (NP (NN automation))) (. .))
+(S (PP (IN In) (NP (NN essence))) (, ,) (NP (DT the) (VBN proposed) (NN compiler) (NN program)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (DT a) (NN scanner)) (, ,) (NP (DT a) (NN parser)) (, ,) (CC and) (NP (DT a) (NN code) (NN generator)))))) (. .))

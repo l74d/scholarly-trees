@@ -1,0 +1,1 @@
+(S (NP (PRP$ Its) (NN shape)) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN through) (NP (NN backpropagation))) (PP (IN during) (NP (NN training)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (PRP$ our) (NN strategy)) (VP (VBZ is) (ADJP (JJ competitive) (PP (IN with) (NP (DT the) (JJ optimal) (NN teaching) (NN policy)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN for) (NP (NP (DT the) (JJ special) (NN case)) (PP (IN of) (NP (JJ linear) (NNS separators))))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT an) (JJ exponential) (NN reduction)) (PP (IN in) (NP (NN error) (NN probability)))) (VP (MD can) (VP (VB be) (VP (VBN achieved))))))) (. .))

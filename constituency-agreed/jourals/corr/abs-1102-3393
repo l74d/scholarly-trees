@@ -1,0 +1,1 @@
+(S (S (PP (IN In) (NP (DT each) (NN vertex))) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (JJ certain) (NN number)) (PP (IN of) (NP (NNS requests)))))) (, ,) (CC and) (S (NP (NP (DT each)) (PP (IN of) (NP (DT those) (NNS requests)))) (VP (MD must) (VP (VB be) (VP (VBN assigned) (NP (DT a) (JJ different) (NN frequency)))))) (. .))

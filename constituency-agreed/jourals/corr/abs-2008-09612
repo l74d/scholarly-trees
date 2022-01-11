@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NN methodology)) (S (VP (VBG using) (NP (NP (NNS data)) (VP (VBN collected) (PP (IN from) (NP (NP (NNP IBM) (POS 's)) (NNP Yorktown) (NN device)))))))) (. .))
+(S (NP (NP (CD Two) (NNS types)) (PP (IN of) (NP (NNS assessments)))) (VP (VBP are) (VP (VBN discussed) (: :) (NP (NP (JJ spatial) (NN stability)) (CC and) (NP (JJ temporal) (NN stability))))) (. .))

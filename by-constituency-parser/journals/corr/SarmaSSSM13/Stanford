@@ -1,0 +1,5 @@
+(S (NP (DT A) (JJ balanced) (NN speech) (NN corpus)) (VP (VBZ is) (NP (NP (DT the) (JJ basic) (NN need)) (PP (IN for) (NP (DT any) (NML (NN speech) (NN processing)) (NN task))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN report))) (NP (PRP we)) (VP (VBP describe) (NP (PRP$ our) (NN effort)) (PP (IN on) (NP (NP (NN development)) (PP (IN of) (NP (NN Assamese) (NN speech) (NN corpus)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB mainly)) (VP (VBD focused) (PP (IN on) (NP (NP (DT some) (NNS issues) (CC and) (NNS challenges)) (VP (VBN faced) (PP (IN during) (NP (NP (NN development)) (PP (IN of) (NP (DT the) (NN corpus))))))))) (. .))
+(S (S (VP (VBG Being) (NP (DT a) (ADJP (JJR less) (RB computationally) (JJ aware)) (NN language)))) (, ,) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN effort) (S (VP (TO to) (VP (VB develop) (NP (NN speech) (NN corpus)) (PP (IN for) (NP (NN Assamese)))))))) (. .))
+(S (SBAR (IN As) (S (NP (NN corpus) (NN development)) (VP (VBZ is) (NP (DT an) (JJ ongoing) (NN process))))) (, ,) (PP (IN in) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP report) (NP (RB only) (DT the) (JJ initial) (NN task))) (. .))

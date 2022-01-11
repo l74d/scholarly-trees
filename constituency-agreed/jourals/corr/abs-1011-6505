@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Bitsize) (NN complexity)) (PP (IN for) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NNP Boolean) (NNS polynomials))))))) (. .))

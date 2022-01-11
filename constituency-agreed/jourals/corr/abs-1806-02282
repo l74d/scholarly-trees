@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN agent)) (VP (MD can) (ADVP (RB thus)) (VP (VB skip) (NP (DT an) (NN instance)) (PP (IN after) (S (VP (VBG realizing) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB spend) (NP (ADJP (RB too) (JJ much)) (NN time)) (PP (IN on) (NP (PRP it)))))))))))) (. .))
+(S (SBAR (IN If) (S (NP (DT the) (NN distribution)) (VP (VBZ is) (VP (VBN known))))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (DT a) (ADJP (JJ quasi-optimal) (CC and) (JJ efficient)) (JJ stationary) (NN strategy))) (. .))

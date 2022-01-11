@@ -1,0 +1,1 @@
+(S (S (NP (NP (JJ Simple) (NN range) (NNS queries)) (PP (IN of) (NP (NN image) (NNS locations)))) (VP (VBP do) (RB not) (VP (VB scale)))) (CC and) (, ,) (S (ADVP (RB instead)) (, ,) (NP (JJ spatial) (NN indexing) (NNS schemes)) (VP (VBP are) (VP (VBN required)))) (. .))

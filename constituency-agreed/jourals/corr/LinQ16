@@ -1,0 +1,2 @@
+(S (NP (CD One) (NN challenge)) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB test) (CC and) (VB validate) (NP (DT a) (JJ virtual) (NN prototype))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (VBZ is) (ADJP (JJ useful) (CC and) (JJ efficient)))))) (. .))

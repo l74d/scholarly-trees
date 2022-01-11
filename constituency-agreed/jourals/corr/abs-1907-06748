@@ -1,0 +1,2 @@
+(S (VP (VB Consider) (NP (NP (DT a) (JJ randomized) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ draws) (NP (NNS samples)) (PP (ADVP (RB exactly)) (IN from) (NP (NP (DT a) (NN distribution)) (VP (VBG using) (NP (NN recursion)))))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (DT the) (NN algorithm)) (VP (MD must) (VP (VB terminate) (PP (IN with) (NP (NN probability) (CD 1))))) (. .))

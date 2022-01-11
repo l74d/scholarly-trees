@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ has) (NP (JJ many) (JJ industrial) (NNS applications))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (NP (NN preprocessing)) (VP (VBZ does) (RB not) (ADVP (RB always)) (VP (ADVP (RB exponentially)) (VB improve) (NP (NN performance)))) (. .))

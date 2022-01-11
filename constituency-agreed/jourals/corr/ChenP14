@@ -1,0 +1,2 @@
+(S (NP (JJ Rigid) (NN motion) (NNS constraints)) (VP (VBP are) (ADVP (RB then)) (VP (VBN imposed) (PP (IN in) (NP (NP (NNS regions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN occupied) (PP (IN by) (NP (JJ rigid) (NNS particles))))))))))) (. .))
+(S (NP (NN Test) (NNS cases)) (VP (VBP are) (VP (VBN reported) (S (VP (VP (TO to) (VP (VB validate) (NP (DT the) (NN approach)))) (CC and) (VP (TO to) (VP (VB establish) (NP (PRP$ its) (NN efficacy)))))))) (. .))

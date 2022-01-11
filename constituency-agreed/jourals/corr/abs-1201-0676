@@ -1,0 +1,1 @@
+(S (NP (JJ Stochastic) (NNS models)) (VP (VBP are) (ADJP (JJ appropriate)) (SBAR (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN system)) (PP (IN of) (NP (NN interest)))) (VP (VBZ is) (ADJP (JJ small))))) (CC but) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS fluctuations)) (VP (VBP become) (ADJP (JJ significant) (PP (IN for) (NP (PRP$ its) (NN evolution))))))))) (. .))

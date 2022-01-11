@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NN report)) (VP (VBZ is) (VP (VBN structured) (SBAR (IN as) (S (VP (VBZ follows))))))) (: :) (S (NP (NN Section) (CD 2)) (VP (VBZ provides) (NP (NP (DT a) (JJ brief) (NN description)) (PP (IN of) (NP (NP (DT the) (NNS technologies)) (VP (VBN involved) (PP (IN in) (NP (PRP$ our) (NN study))))))))) (. .))
+(S (NP (PRP$ Our) (NN benchmark) (NN methodology)) (VP (VBZ is) (VP (VBN defined) (PP (IN in) (NP (NN Section) (CD 4))))) (. .))

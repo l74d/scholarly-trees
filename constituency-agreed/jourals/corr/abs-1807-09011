@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN model)) (VP (VBZ does) (RB not) (VP (VB take) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (NN uncertainty)) (PP (IN of) (NP (DT a) (NN prediction)))))) (. .))
+(S (NP (DT This)) (VP (VBZ represents) (NP (NP (DT a) (JJ great) (NN limitation)) (PP (IN for) (NP (NP (NNS tasks)) (SBAR (WHADVP (WRB where)) (S (S (VP (VBG communicating) (NP (DT an) (JJ erroneous) (NN prediction)))) (VP (VBZ carries) (NP (DT a) (NN risk))))))))) (. .))

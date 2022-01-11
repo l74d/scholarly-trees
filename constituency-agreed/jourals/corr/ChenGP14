@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT a) (NN target) (NN probability) (NN distribution)) (VP (MD can) (ADVP (RB always)) (VP (VB be) (VP (VBN achieved) (PP (IN in) (NP (JJ finite) (NN time))))))))) (. .))
+(S (NP (NP (JJ Illustrative) (NNS examples)) (PP (IN of) (NP (NP (DT the) (JJ optimal) (NN evolution) (CC and) (NN control)) (PP (IN for) (NP (NP (JJ inertial) (NNS particles)) (CC and) (NP (DT a) (JJ stochastic) (NN oscillator))))))) (VP (VBP are) (VP (VBN provided))) (. .))

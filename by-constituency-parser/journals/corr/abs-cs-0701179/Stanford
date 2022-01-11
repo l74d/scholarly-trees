@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VB formalize) (NP (NP (DT the) (NN problem) (S (VP (TO to) (VP (VB be) (VP (VBN solved)))))) (, ,) (ADVP (FW i.e.)) (, ,) (NP (DT the) (NN Scatter) (NN Problem) (PRN (-LRB- -LRB-) (NP (NN SP)) (-RRB- -RRB-))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (IN that) (S (NP (NN SP)) (VP (MD can) (RB not) (VP (VB be) (ADVP (RB deterministically)) (VP (VBN solved))))))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ randomized) (NN algorithm)) (PP (IN for) (NP (DT this) (NN problem))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN solution)) (VP (VBZ is) (ADJP (RB trivially) (NN self) (HYPH -) (VBG stabilizing))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB design) (NP (NP (DT a) (ADJP (NN self) (HYPH -) (VBG stabilizing)) (NN version)) (PP (IN of) (NP (NP (DT any) (JJ deterministic) (NN solution)) (PP (IN for) (NP (NP (DT the) (NN Pattern) (NN Formation)) (CC and) (NP (DT the) (VBG Gathering) (NNS problems)))))))))))) (. .))

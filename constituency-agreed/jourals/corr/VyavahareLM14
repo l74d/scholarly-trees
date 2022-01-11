@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (JJ optimal) (VBN distributed) (NN computation)) (PP (IN of) (NP (NP (DT a) (VBN given) (NN function)) (PP (IN of) (NP (VBN distributed) (NNS data))))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN computation) (NN graph)) (VP (VBZ is) (NP (DT a) (NN tree))))) (, ,) (NP (NP (DT a) (JJ polynomial) (NN time) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB obtain) (NP (DT the) (JJ minimum) (NN delay) (NN embedding))))))) (VP (VBZ is) (VP (VBN described))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT an) (NN approximation)) (PP (IN for) (NP (NN delay) (NN minimization)))))))))) (. .))

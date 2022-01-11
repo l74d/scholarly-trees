@@ -1,0 +1,4 @@
+(S (ADVP (RB Traditionally)) (, ,) (NP (JJ wireless) (NN network) (NNS protocols)) (VP (VBP have) (VP (VBN been) (VP (VBN designed) (PP (IN for) (NP (NN performance)))))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (SBAR (IN as) (S (NP (NNS attacks)) (VP (VBP have) (VP (VBN been) (VP (VBN identified)))))) (, ,) (NP (NNS patches)) (VP (VBP have) (VP (VBN been) (VP (VBN developed)))) (. .))
+(S (NP (NP (DT The) (JJ fundamental) (NN difficulty)) (PP (IN with) (NP (DT this) (NN approach)))) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ other) (NNS vulnerabilities)) (VP (MD may) (ADVP (RB still)) (VP (VB exist)))))) (. .))
+(S (NP (DT The) (JJ good) (NNS nodes)) (VP (VBP do) (RB not) (VP (VB know) (NP (DT the) (JJ bad) (NNS nodes)))) (. .))

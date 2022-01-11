@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (JJ short) (NN note))) (, ,) (NP (PRP we)) (VP (VBP supply) (NP (DT a) (JJ new) (JJ upper) (ADJP (VBN bound) (PP (IN on) (NP (DT the) (NN cop)))) (NN number)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN tree) (NNS decompositions)))))) (. .))
+(S (NP (NP (PRP$ Our) (NNS results)) (PP (IN in) (NP (DT some) (NNS cases)))) (VP (VBP extend) (NP (NP (DT a) (ADJP (RB previously) (VBN derived)) (ADJP (VBN bound) (PP (IN on) (NP (DT the) (NN cop)))) (NN number)) (VP (VBG using) (NP (NN treewidth))))) (. .))

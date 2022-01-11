@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBD studied) (NP (NP (DT the) (NN computation) (NN time) (CC and) (NN speedup)) (PP (IN of) (NP (DT the) (JJ parallelised) (NN algorithm))))) (CC and) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB bring) (PRT (RP out)) (NP (DT some) (JJ qualitative) (NNS trends)))))))) (. .))
+(S (NP (PRP We)) (VP (VBD obtained) (NP (DT a) (JJ great) (NN speedup)) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT the) (JJ theoretical) (NN prediction)) (PP (IN of) (NP (NNP Amdahl) (NN law))))))) (. .))

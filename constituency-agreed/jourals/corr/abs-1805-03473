@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (VBN proposed) (NN model)) (VP (MD can) (VP (VB process) (NP (NP (NNS inputs)) (VP (VBN characterized) (PP (IN by) (NP (JJ variable) (NNS lengths)))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB specifically)) (VP (VBN designed) (S (VP (TO to) (VP (VB handle) (NP (VBG missing) (NNS data)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB do) (NP (DT this))))) (, ,) (NP (DT a) (JJ neural) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (JJ appropriate) (NN descriptor)) (PP (IN of) (NP (DT the) (NN input) (NN image))))))))) (. .))

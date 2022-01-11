@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ semi-supervised) (NN learning) (NN framework)) (PP (IN for) (NP (NP (NN dimension) (NN reduction)) (CC and) (NP (NN reliability) (NN analysis)))))) (. .))
+(S (NP (DT The) (NN effectiveness)) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN through) (NP (DT a) (JJ mathematical) (NN example))))) (. .))

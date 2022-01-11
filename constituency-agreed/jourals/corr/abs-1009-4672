@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN situation)) (VP (VBZ is) (VP (VBN aggravated) (SBAR (WHADVP (WRB when)) (S (NP (NNS nodes)) (VP (VBP are) (ADJP (JJ mobile))))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (JJ multi-rate) (NN system)) (VP (VBP make) (S (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NN throughput)))) (ADJP (RBR more) (JJ complicated)))) (. .))

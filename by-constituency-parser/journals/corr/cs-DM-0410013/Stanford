@@ -1,0 +1,1 @@
+(S (S (NP (NP (NNP Fibonacci) (NN connection)) (PP (IN between) (NP (NP (JJ non-decreasing) (NNS sequences)) (PP (IN of) (NP (JJ positive) (NNS integers)))))) (VP (VBG producing) (NP (JJ maximum) (NN height) (NNP Huffman) (NNS trees)))) (CC and) (S (NP (DT the) (NNP Wythoff) (NN array)) (VP (VBZ has) (VP (VBN been) (VP (VBN proved))))) (. .))

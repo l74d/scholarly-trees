@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (CD two) (NN server) (NN system)) (VP (VBG serving) (NP (JJ heterogeneous) (NNS customers))))) (. .))
+(S (S (NP (NNS Customers)) (VP (VBP make) (NP (NP (DT an) (ADJP (RB individually) (JJ optimal)) (NN choice)) (PP (IN of) (NP (DT the) (NN server)))))) (CC and) (S (PP (IN for) (NP (JJ such) (NN system))) (, ,) (NP (PRP we)) (VP (VBP characterize) (NP (NP (DT the) (NN equilibrium) (NN routing)) (PP (IN of) (NP (NNS customers)))))) (. .))

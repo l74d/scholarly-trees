@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN matrix) (NN structure)) (PP (IN of) (NP (NP (JJ arithmetic) (NNS processors)) (VP (VBN based) (PP (IN on) (NP (NP (JJ distributed) (JJ arithmetic)) (PP (IN in) (NP (JJ multi-row) (NNS codes)))))))))) (. .))
+(NP (NP (NNP Scope)) (: -) (NP (NP (NN development)) (PP (IN of) (NP (NNS supercomputers)))) (. .))

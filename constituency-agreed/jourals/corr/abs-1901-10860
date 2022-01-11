@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (SBAR (IN since) (S (NP (NP (DT the) (NN order)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNS alternatives)) (VP (VBP are) (VP (VBN presented)))))) (VP (VBZ is) (ADJP (JJ irrelevant))))) (, ,) (NP (DT a) (NN choice) (NN function)) (VP (MD should) (VP (VB be) (ADJP (JJ symmetric)))) (. .))

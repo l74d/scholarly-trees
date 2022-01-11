@@ -1,0 +1,2 @@
+(S (NP (NNP India)) (VP (VBZ is) (NP (DT a) (JJ multilingual) (JJ multi-script) (NN country))) (. .))
+(S (NP (DT The) (NN feature) (NN extraction)) (VP (VBZ is) (VP (VBN done) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ horizontal) (NN projection) (NN profile)) (PP (IN of) (NP (DT each) (NN text) (NNS words)))))))) (. .))

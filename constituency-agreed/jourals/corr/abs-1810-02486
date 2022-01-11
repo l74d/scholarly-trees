@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (NN cost) (JJ effective)) (NN interference) (NN management) (NN technique)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NNS femtocells) (NN deployment)))))) (. .))
+(S (NP (NP (DT The) (NN outage) (NN probability)) (PP (IN of) (NP (DT a) (NN femtocell) (NN user)))) (VP (VBZ is) (VP (VBN analyzed) (PP (IN in) (NP (NNS details))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ unsupervised) (NN learning))) (, ,) (S (VP (VBG collecting) (NP (JJR more) (NNS data)))) (VP (VBZ is) (RB not) (ADVP (RB always)) (NP (NP (DT a) (JJ costly) (NN process)) (PP (IN unlike) (NP (DT the) (NN training))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP suggest) (S (VP (TO to) (VP (VB adjust) (NP (NP (DT the) (NN model) (NN size)) (CC and) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS iterations))))) (S (VP (TO to) (VP (VB be) (VP (VBN performed) (ADVP (RB appropriately)))))))))) (. .))

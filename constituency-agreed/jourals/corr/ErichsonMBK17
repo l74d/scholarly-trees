@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN approximation) (NN error)) (VP (MD can) (ADVP (RB thereby)) (VP (VB be) (VP (VBN controlled) (PP (IN via) (NP (NP (NN oversampling)) (CC and) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NN power) (NNS iterations))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Normalization) (NNS techniques)) (VP (VBP have) (ADVP (RB only) (RB recently)) (VP (VBN begun) (S (VP (TO to) (VP (VB be) (VP (VBN exploited) (PP (IN in) (NP (JJ supervised) (NN learning) (NNS tasks))))))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NN layer) (NN normalization)) (VP (VBZ normalizes) (NP (DT the) (NNS activations)) (PP (IN across) (NP (NP (DT all) (NNS activities)) (PP (IN within) (NP (DT a) (NN layer)))))) (. .))

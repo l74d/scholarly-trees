@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN ontology) (NN evaluation) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNS ontologies)) (VP (VBN extracted) (PP (IN from) (NP (NN hrLDA))))) (VP (VBP are) (ADJP (RB very) (JJ competitive) (PP (IN with) (NP (NP (DT the) (NNS ontologies)) (VP (VBN created) (PP (IN by) (NP (NN domain) (NNS experts))))))))))) (. .))

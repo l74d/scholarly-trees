@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN model)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NNP DIgSILENT) (NNP PowerFactory))) (, ,) (SBAR (IN while) (S (NP (DT the) (NN control) (NN algorithm)) (VP (VBZ runs) (PP (IN in) (NP (NNP Matlab)))))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NN simulation) (NNS results)))) (VP (VBZ is) (VP (VBN reported) (S (VP (TO to) (VP (VB witness) (NP (NP (DT the) (JJ main) (NNS characteristics) (CC and) (NNS limitations)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))))))) (. .))

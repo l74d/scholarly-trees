@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (JJ cyclic) (NNS codes)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (NP (NNS generators)) (PP (IN as) (NP (NP (NNP Fibonacci) (NNS polynomials)) (PP (IN over) (NP (JJ finite) (NNS fields))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT these) (JJ cyclic) (NNS codes)) (PP (IN in) (NP (JJS most) (NNS cases)))) (VP (VBP produce) (NP (NP (NNS families)) (PP (IN of) (NP (NML (JJ maximum) (NN distance)) (ADJP (JJ separable) (CC and) (JJ optimal)) (NNS codes)))) (PP (IN with) (NP (JJ interesting) (NNS properties))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP explore) (NP (DT these) (NNS relations))) (CC and) (VP (VB present) (NP (DT some) (NNS examples)))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (NNS applications)) (PP (IN of) (NP (DT these) (NNS codes)))) (PP (IN to) (NP (JJ secret) (NN sharing) (NNS schemes)))) (. .))

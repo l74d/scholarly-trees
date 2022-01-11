@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VP (VBP design) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ parametrized) (JJ non-convex) (NNS functions))))) (CC and) (VP (VB employ) (NP (JJ statistical) (JJR lower) (NNS bounds)) (PP (IN for) (NP (NN parameter) (NN estimation))))) (. .))

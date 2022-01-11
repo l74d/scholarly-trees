@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN relationship)) (PP (IN between) (NP (DT the) (NN fidelity) (NNS models)))) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN aspect)) (PP (IN in) (NP (NN multi-fidelity) (NN modeling))))) (. .))
+(S (S (NP (DT Each) (NN technique)) (VP (VBZ is) (VP (VBN described) (PP (IN within) (NP (DT a) (JJ unified) (NN framework)))))) (CC and) (S (NP (NP (DT the) (NNS links)) (PP (IN between) (NP (DT the) (JJ different) (NNS techniques)))) (VP (VBP are) (VP (VBN highlighted)))) (. .))

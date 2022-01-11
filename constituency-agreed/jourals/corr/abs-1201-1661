@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN if) (S (NP (DT a) (NN packet)) (VP (VBZ specifies) (NP (PRP$ its) (NN path))))) (, ,) (NP (DT this)) (VP (VBZ precludes) (NP (NP (JJ fast) (JJ local) (NN re-routing)) (PP (IN within) (NP (DT the) (NN network))))) (. .))

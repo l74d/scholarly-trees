@@ -1,0 +1,2 @@
+(S (NP (NN Feature) (NN selection)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ fundamental)) (NNS problems)) (PP (IN in) (NP (NN machine) (NN learning))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (NNS approximations)) (VP (VBN made) (PP (IN by) (NP (VBG existing) (NNS methods))))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (JJ unrealistic) (NNS assumptions)))))))) (. .))

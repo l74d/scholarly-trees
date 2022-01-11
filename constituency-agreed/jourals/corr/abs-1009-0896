@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PRP$ our) (VBN proposed) (NNS circuits))) (, ,) (NP (DT these) (JJ fuzzy) (NN membership) (NNS functions)) (VP (MD can) (VP (VB have) (NP (DT any) (NNS shapes) (CC and) (NNS resolutions)))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT these) (NNS circuits)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NN basis)) (PP (IN in) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (JJ evolutionary) (NNS systems)))))))))) (. .))

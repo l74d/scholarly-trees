@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP employ) (NP (DT a) (NN vanilla) (NN noise) (NN model)) (PP (IN at) (NP (NN training) (NN time)))) (. .))
+(S (NP (PRP We)) (VP (VBP make) (S (NP (PRP$ our) (NN code) (CC and) (NNS data)) (ADJP (RB publicly) (JJ available) (PP (IN for) (NP (DT the) (NN research) (NN community)))))) (. .))

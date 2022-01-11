@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP consider) (NP (NP (DT the) (JJ natural) (NNS extensions)) (PP (TO to) (NP (NNP Triebel-Lizorkin) (NNS spaces))))) (. .))
+(S (NP (DT This)) (VP (VP (VBZ builds) (PP (IN upon))) (, ,) (CC and) (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of)))) (, ,) (NP (NP (JJ previous) (NN work)) (PP (IN of) (NP (NNP Seeger) (CC and) (NNP Ullrich))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ analogous) (NNS results)) (VP (VBD were) (VP (VBN established) (PP (IN for) (NP (DT the) (NNP Haar) (NN wavelet) (NN system))))))))) (. .))

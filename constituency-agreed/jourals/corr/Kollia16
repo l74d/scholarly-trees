@@ -1,0 +1,2 @@
+(S (NP (NNS Features)) (VP (VBP are) (VP (VBN extracted) (CC and) (VBN ranked) (PP (VBN based) (PP (IN on) (NP (NP (PRP$ their) (NN effect)) (PP (IN on) (NP (NN classification) (NN accuracy)))))))) (. .))
+(S (NP (JJ Different) (NNS classifiers)) (VP (VBP are) (VP (VBN compared))) (. .))

@@ -1,0 +1,7 @@
+(S (NP (NP (VBG Growing) (NN amount)) (PP (IN of) (NP (NNS comments)))) (VP (VBP make) (S (NP (JJ online) (NNS discussions)) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB moderate) (PP (IN by) (NP (JJ human) (NNS moderators))) (ADVP (RB only)))))))) (. .))
+(S (NP (JJ Antisocial) (NN behavior)) (VP (VBZ is) (NP (NP (DT a) (JJ common) (NN occurrence)) (SBAR (WHNP (WDT that)) (S (ADVP (RB often)) (VP (VBZ discourages) (NP (JJ other) (NNS users)) (PP (IN from) (S (VP (VBG participating) (PP (IN in) (NP (NN discussion))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ neural) (ADJP (NN network) (VBN based)) (NN method)) (SBAR (WHNP (WDT that)) (S (ADVP (RB partially)) (VP (VBZ automates) (NP (DT the) (NN moderation) (NN process))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS steps)))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP detect) (NP (NP (JJ inappropriate) (NNS comments)) (PP (IN for) (NP (NNS moderators)))) (S (VP (TO to) (VP (VB see))))) (. .))
+(S (ADVP (RB Second)) (, ,) (NP (PRP we)) (VP (VBP highlight) (NP (JJ inappropriate) (NNS parts)) (PP (IN within) (NP (DT these) (NNS comments))) (S (VP (TO to) (VP (VB make) (NP (DT the) (NN moderation)) (ADVP (RBR faster)))))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (PRP$ our) (NN method)) (PP (IN on) (NP (NNS data))) (PP (IN from) (NP (DT a) (JJ major) (JJ Slovak) (NN news) (NN discussion) (NN platform)))) (. .))

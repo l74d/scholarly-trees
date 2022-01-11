@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (NN training) (NN time))) (, ,) (S (NP (DT each) (NN agent)) (VP (VBZ learns) (NP (JJ advanced) (NN knowledge)) (PP (IN from) (NP (NNS others))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP work) (ADVP (RB together)) (S (VP (TO to) (VP (VB improve) (NP (NN translation) (NN quality))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Efficient) (NNS classifiers)) (VP (VBP have) (VP (VBN been) (ADVP (RB recently)) (VP (VBN sought) (CC and) (VBN developed)))) (. .))
+(S (NP (DT These) (NNS approaches)) (VP (VBP exploit) (NP (DT the) (JJ huge) (JJ public) (NNS corpuses)) (S (VP (TO to) (VP (VB enrich) (NP (DT the) (NN training) (NNS data)))))) (. .))

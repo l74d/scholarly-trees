@@ -1,0 +1,3 @@
+(S (NP (NNS Results)) (VP (VBD showed) (SBAR (IN that) (, ,) (S (SBAR (WHADVP (WRB when)) (S (NP (JJ visual) (NNS cues)) (VP (VBD were) (RB not) (ADJP (JJ present))))) (, ,) (NP (DT the) (NNS participants)) (VP (VBD tended) (S (VP (TO to) (VP (VB look) (ADVP (RB ahead))))))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (JJ visual) (NN information)) (VP (VBD was) (ADJP (JJ available))))) (, ,) (NP (PRP they)) (VP (VBD looked) (PP (IN at) (NP (DT the) (NN target) (NN speaker)))) (. .))
+(S (NP (DT No) (JJ significant) (NNS differences)) (VP (VBD were) (VP (VBN found) (PP (IN between) (NP (NNS groups))))) (. .))

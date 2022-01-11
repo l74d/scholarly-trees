@@ -1,0 +1,2 @@
+(S (NP (NNP Blockchain) (NN system)) (VP (MD can) (VP (VB provide) (NP (NP (JJ many) (NNS benefits)) (PP (JJ such) (IN as) (NP (NN immutability) (, ,) (NN transparency) (CC and) (NN security)))))) (. .))
+(S (NP (NNP Hyperledger) (NNP Fabric)) (VP (VBZ is) (NP (NP (VBN permissioned) (JJ blockchain) (NN platform)) (VP (VBN hosted) (PP (IN by) (NP (NNP Linux) (NN foundation)))))) (. .))

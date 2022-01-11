@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ contains) (NP (NP (JJ convolutional) (NNS layers)) (, ,) (NP (DT an) (NN attention) (NN mechanism)) (, ,) (CC and) (NP (JJ sparsely-gated) (NNS layers)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN capacity)) (VP (VBZ determines) (NP (NP (DT the) (JJ maximal) (NN rate)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (PRP we)) (VP (MD can) (VP (VB code) (ADVP (RB reliably)) (PP (IN over) (NP (NP (ADJP (RB asymptotically) (JJ many)) (NNS uses)) (PP (IN of) (NP (DT the) (NN channel))))))))))) (. .))
+(S (PP (IN In) (NP (DT each) (NN case))) (NP (DT the) (NN region)) (VP (VBZ is) (VP (VBN parametrized) (PP (IN by) (NP (NP (DT a) (JJ second) (NN channel) (NN parameter)) (, ,) (NP (DT the) (NN quantum) (NN channel) (NN dispersion)))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN synthesis)) (PP (IN of) (NP (DT an) (NNP Ackerman) (NN mechanism)))) (VP (VBZ is) (VP (VBN reported))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT the) (JJ evolutionary) (NN algorithm)) (VP (VBZ increases) (NP (PRP$ its) (NN efficiency))) (. .))

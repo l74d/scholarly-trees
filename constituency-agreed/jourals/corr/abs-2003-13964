@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB mitigate) (NP (DT the) (NN issue))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN regularization) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ penalizes) (NP (NP (DT the) (JJ predictive) (NN distribution)) (PP (IN between) (NP (JJ similar) (NNS samples))))))))) (. .))

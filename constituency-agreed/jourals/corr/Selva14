@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN result)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN estimator)) (VP (VBZ improves) (PP (IN on) (NP (DT the) (NNP ML) (NN estimator))) (ADVP (RB significantly)) (, ,) (SBAR (WHADVP (WRB whenever)) (S (NP (DT the) (JJ average) (JJ spectral) (NN sampling) (NN rate)) (VP (VBZ is) (PP (IN above) (NP (NP (DT the) (NN channel) (POS 's)) (NN delay) (NN spread)))))))))) (. .))
+(S (NP (DT The) (NN improvement)) (VP (VBZ increases) (PP (IN with) (NP (DT the) (JJ spectral) (NN oversampling) (NN ratio)))) (. .))

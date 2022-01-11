@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP categorize) (NP (JJ previous) (NNS attacks)) (PP (VBN based) (PP (IN on) (NP (DT these) (NNS constraints))))) (. .))
+(S (PP (IN After) (S (VP (VBG tightening) (NP (DT these) (NNS constraints)) (S (VP (TO to) (VP (VB agree) (PP (IN with) (NP (NP (DT the) (NN judgment)) (PP (IN of) (NP (PRP$ our) (JJ human) (NNS annotators))))))))))) (, ,) (NP (DT the) (NNS attacks)) (VP (VBP produce) (NP (JJ valid) (, ,) (JJ successful) (JJ adversarial) (NNS examples))) (. .))

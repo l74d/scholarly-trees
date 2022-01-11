@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP train) (NP (DT the) (NNS networks)) (PP (IN on) (NP (NP (DT the) (NN multiMNIST) (NN dataset)) (VP (VBG lacking) (NP (CD one) (NN digit)))))) (. .))

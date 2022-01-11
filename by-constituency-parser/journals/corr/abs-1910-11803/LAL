@@ -1,0 +1,6 @@
+(NP (NP (NNP Oscillator) (JJ neural) (NNS networks)) (PRN (-LRB- -LRB-) (NP (NNP ONN)) (-RRB- -RRB-)) (VP (VBN based) (PP (IN on) (NP (NP (NNS arrays)) (PP (IN of) (NP (CD 26) (NNP CMOS) (NN ring) (NNS oscillators))) (VP (VBN designed) (CC and) (VBN fabricated))))) (. .))
+(S (NP (NN ONN)) (VP (VBP are) (VP (VBN used) (PP (IN for) (NP (NP (NN inference)) (PP (IN of) (NP (NP (NN dot) (NNS products)) (PP (IN with) (NP (NP (NN image) (NNS fragments)) (CC and) (NP (NNS kernels)))))) (ADJP (JJ necessary) (PP (IN for) (NP (JJ convolutional) (JJ neural) (NNS networks)))))))) (. .))
+(S (NP (DT The) (NNS inputs)) (VP (VBP are) (VP (VBN encoded) (PP (IN as) (NP (NP (NN frequency) (NNS shifts)) (PP (IN of) (NP (NNS oscillators))))) (S (VP (VBG using) (NP (JJ current) (NNP DACs)))))) (. .))
+(S (NP (NP (NP (NNP Degree)) (PP (IN of) (NP (NN match)))) (PRN (-LRB- -LRB-) (NP (NNP DOM)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBN determined) (PP (IN from) (NP (NNS oscillators) (NN synchronization))))) (. .))
+(S (NP (NNS Measurements)) (VP (VBP demonstrate) (NP (NP (JJ high) (NN correlation)) (PP (IN of) (NP (NP (NNP DOM)) (CC and) (NP (NN dot) (NNS products)))))) (. .))
+(S (NP (NN Inference)) (VP (VBZ requires) (NP (NP (NP (DT the) (NN time)) (PP (IN of) (NP (CD 8ns)))) (CC and) (NP (NP (NN energy)) (PP (IN of) (NP (CD 55pJ)))))) (. .))

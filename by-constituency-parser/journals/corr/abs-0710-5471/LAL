@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ analyzes) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NP (DT a) (JJ recently-proposed) (JJ signal) (NN encryption) (NN scheme)) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ filter) (NN bank)))))))) (. .))
+(S (NP (NP (DT A) (ADJP (RB very) (JJ critical)) (NN weakness)) (PP (IN of) (NP (DT this) (JJ new) (JJ signal) (NN encryption) (NN procedure)))) (VP (VBZ is) (VP (VBN exploited) (SBAR (IN in) (NN order) (S (VP (TO to) (ADVP (RB successfully)) (VP (VB recover) (NP (DT the) (VBN associated) (JJ secret) (NN key)))))))) (. .))

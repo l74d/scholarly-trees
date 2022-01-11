@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN classification)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN topology)) (PP (IN of) (NP (PRP$ their) (NN workspace))))))) (. .))
+(S (NP (DT The) (NN design) (NNS parameters) (NN space)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (VP (VBN partitioned) (PP (IN into) (NP (NP (CD nine) (NNS subspaces)) (PP (IN of) (NP (JJ distinct) (NN workspace) (NNS topologies))))))))))) (. .))

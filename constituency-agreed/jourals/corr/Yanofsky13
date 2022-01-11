@@ -1,0 +1,2 @@
+(S (NP (NNP Kolmogorov) (NN complexity) (NN theory)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB tell) (SBAR (WHNP (WP what)) (S (NP (NP (DT the) (JJ algorithmic) (JJ informational) (NN content)) (PP (IN of) (NP (DT a) (NN string)))) (VP (VBZ is))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (NP (DT the) (JJS shortest) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (VBZ describes) (NP (DT the) (NN string))))))))))) (. .))

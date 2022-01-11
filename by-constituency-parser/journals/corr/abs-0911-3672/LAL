@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (JJ exact) (NN discretization)) (PP (IN of) (NP (DT the) (JJ classical) (NN harmonic) (NN oscillator) (NN equation))) (PRN (-LRB- -LRB-) (PP (VBG including) (NP (NP (DT the) (JJ inhomogeneous) (NN case)) (CC and) (NP (JJ multidimensional) (NNS generalizations)))) (-RRB- -RRB-))) (PP (IN with) (NP (NP (DT a) (JJ special) (NN stress)) (PP (IN on) (NP (DT the) (NN energy) (JJ integral)))))) (. .))
+(S (NP (PRP We)) (VP (JJ present) (CC and) (JJS suggest) (NP (DT some) (JJ numerical) (NNS applications))) (. .))

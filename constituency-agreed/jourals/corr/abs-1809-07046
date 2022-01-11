@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NN reality))) (, ,) (NP (JJ abnormal) (NN traffic)) (ADVP (RB usually)) (VP (VBZ affects) (NP (JJ multiple) (NN network) (NNS domains))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT a) (JJ cross-domain) (NN attack) (NN detection)) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB improve) (NP (NN detection) (NN performance)))))))) (. .))
+(S (NP (VBG Existing) (NN multiparty) (NN privacy) (NN protection) (NNS schemes)) (ADVP (RB often)) (VP (VBP achieve) (NP (NN privacy) (NNS guarantees)) (PP (IN by) (S (VP (VP (VBG sacrificing) (NP (NN accuracy))) (CC or) (VP (VBG increasing) (NP (DT the) (NN time) (NN cost))))))) (. .))

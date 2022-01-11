@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN method)) (VP (VBZ uses) (NP (NP (DT a) (JJ weighted) (NN ensemble)) (PP (IN of) (NP (NP (NNS classifiers)) (VP (VBN trained) (PP (IN on) (NP (JJ individual) (NNS images)))))))) (. .))
+(S (NP (NP (DT The) (NN weight)) (PP (IN of) (NP (DT each) (NN classifier)))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NN similarity)) (PP (IN between) (NP (NP (PRP$ its) (NN training) (NN image)) (CC and) (NP (DT the) (NN test) (NN image)))))))) (. .))
+(S (NP (DT These) (NNS measures)) (VP (VBP are) (ADJP (JJ asymmetric))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (SBAR (IN whether) (S (NP (DT the) (NN asymmetry)) (VP (MD can) (VP (VB improve) (NP (NN classification))))))) (. .))

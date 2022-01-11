@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VP (VBZ converges) (PP (IN on) (NP (JJ non-convex) (NNS problems)))) (, ,) (ADVP (RB so)) (VP (VBZ has) (NP (DT the) (JJ potential) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN on) (NP (NP (NNS applications)) (PP (JJ such) (IN as) (NP (JJ deep) (NN learning)))))))))))) (. .))

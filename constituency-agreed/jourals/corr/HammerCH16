@@ -1,0 +1,1 @@
+(S (NP (NP (NN Today) (POS 's)) (NNS programmers)) (VP (VBP face) (NP (NP (DT a) (JJ false) (NN choice)) (PP (IN between) (S (VP (VBG creating) (NP (NP (NP (NN software)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ extensible)))))) (CC and) (NP (NP (NN software)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ correct)))))))))))) (. .))

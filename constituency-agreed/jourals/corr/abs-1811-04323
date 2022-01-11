@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN pixelRL))) (, ,) (S (NP (DT each) (NN pixel)) (VP (VBZ has) (NP (DT an) (NN agent)))) (, ,) (CC and) (S (NP (DT the) (NN agent)) (VP (VBZ changes) (NP (DT the) (NN pixel) (NN value)) (PP (IN by) (S (VP (VBG taking) (NP (DT an) (NN action))))))) (. .))

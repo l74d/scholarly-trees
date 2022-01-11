@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN model)) (VP (VBZ intends) (S (VP (TO to) (VP (VB generate) (NP (DT the) (NN training) (NNS data)) (PP (PP (IN as) (NP (DT a) (JJ separate) (NN step))) (CC and) (RB not) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN training)))))))))) (. .))

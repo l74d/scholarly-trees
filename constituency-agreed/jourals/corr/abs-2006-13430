@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (JJ feasible) (NN schedule)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (DT the) (NN space)) (VP (VBN occupied) (PP (IN by) (NP (DT all) (NNS slots))))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ uses) (NP (JJ algorithmic) (NN information) (NN theory)) (S (VP (TO to) (VP (VB define) (ADVP (RB formally)) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (NP (DT a) (JJ good) (NN explanation))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ algorithmic) (NN statistic)) (VP (MD can) (VP (VB be) (VP (VBN extended) (S (VP (TO to) (VP (VB cover) (NP (DT this) (NN situation))))))))))) (. .))

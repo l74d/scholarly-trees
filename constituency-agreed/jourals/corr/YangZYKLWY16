@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NP (DT the) (NN challenge)) (PP (IN of) (NP (NN particle) (NN allocation))))) (, ,) (NP (NP (DT a) (JJ multi-swarm) (NN structure)) (PP (IN of) (NP (NNP MOPSO)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN introduced))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP are) (VP (VBN given) (PRT (RP out)) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NNS advantages) (CC and) (NN validity)) (PP (IN of) (NP (DT the) (VBN proposed) (NN deployment) (NN algorithm))))))))) (. .))

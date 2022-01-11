@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (NN method)) (PP (IN for) (NP (JJ sequential) (NNS data) (NN mining))) (VP (VBG using) (NP (NN correlation) (FW matrix) (NN memory))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (DT the) (NNP Logical) (NNP Match)))) (S (VP (TO to) (VP (VB mine) (NP (NP (DT the) (NNS indices)) (PP (IN of) (NP (DT the) (JJ sequential) (NN pattern)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN uniqueness)) (PP (IN of) (NP (DT the) (NN method)))) (PP (IN with) (NP (NP (UCP (DT both) (NP (DT the) (NN artificial)) (CC and) (NP (DT the) (JJ real))) (NN datum)) (VP (VBN taken) (PP (IN from) (NP (NNP NCBI) (NN databank))))))) (. .))

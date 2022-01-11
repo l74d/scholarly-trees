@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (JJ statistical) (NN estimation) (NN form)) (PP (IN of) (NP (DT the) (JJ statistical) (NN loss)))) (VP (VBZ is) (VP (VBN developed) (PP (IN with) (NP (DT the) (NN training) (NNS samples))) (PP (IN through) (NP (JJ multi-variant) (JJ statistical) (NN analysis))))) (. .))

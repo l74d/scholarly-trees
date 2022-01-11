@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first) (VBN published) (NN micro-benchmark) (NNS studies)) (VP (VBP indicate) (SBAR (IN that) (S (NP (NP (JJ many)) (PP (IN of) (NP (NP (NNP Intel) (POS 's)) (NNS claims)))) (VP (VBP appear) (S (VP (TO to) (VP (VB be) (ADJP (JJ true))))))))) (. .))
+(S (NP (DT The) (JJ current) (NN paper)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN study)) (PP (IN on) (NP (NP (DT the) (NNP Phi)) (PP (IN of) (NP (DT a) (JJ complex) (JJ artificial) (NN intelligence) (NN application))))))) (. .))

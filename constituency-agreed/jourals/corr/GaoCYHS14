@@ -1,0 +1,1 @@
+(S (NP (DT Each) (NN detector)) (VP (VBZ is) (ADJP (RB quite) (JJ specific) (CC and) (JJ discriminative)) (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN trained) (PP (IN by) (NP (NP (DT a) (JJ single) (NN object) (NN instance)) (CC and) (NP (JJ massive) (NNS negatives))))))))) (. .))

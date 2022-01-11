@@ -1,0 +1,3 @@
+(S (NP (JJ Neural) (NNS networks)) (VP (VBP have) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (ADJP (JJ versatile) (CC and) (JJ robust)) (PP (IN in) (NP (JJ multi-dimensional) (NNS data) (NN classification)))))))) (. .))
+(S (NP (CD Two) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (PP (IN for) (NP (DT the) (NN classification) (NN task)))))) (. .))
+(S (S (NP (DT The) (NNS results)) (VP (VBP have) (VP (VBN been) (VP (VBN shown))))) (CC and) (S (NP (NP (DT the) (JJ possible) (NNS ways)) (PP (IN of) (S (VP (VBG combining) (NP (DT these) (NNS networks)))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB yield) (NP (ADJP (JJR better) (CC and) (JJR faster)) (NN classification) (NNS results))))))))) (. .))

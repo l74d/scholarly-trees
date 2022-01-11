@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN reliability) (CC and) (NN efficiency)) (PP (IN of) (NP (DT the) (NN error) (NN estmator)))) (VP (VBP are) (VP (VBN proved))) (. .))
+(S (NP (NP (DT The) (NN derivation)) (PP (IN of) (NP (DT the) (NN reliability)))) (VP (VBZ hinges) (PP (IN on) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (NP (DT the) (JJ continuous) (NN setting)) (PP (IN in) (NP (DT the) (JJ primal) (NN formulation)))))))) (. .))

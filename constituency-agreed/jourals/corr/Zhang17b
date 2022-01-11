@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ critical)) (NNS limitations)) (PP (IN for) (NP (DT these) (NNS devices)))))) (VP (VBZ is) (NP (DT the) (NN power) (NN consumption)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP use) (NP (NNS batteries)) (PP (IN as) (NP (DT the) (NN power) (NN supply))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (DT a) (NN platform)) (PP (IN for) (NP (NN variability) (NN characterization)))) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ necessary) (CC and) (JJ helpful)))))) (. .))

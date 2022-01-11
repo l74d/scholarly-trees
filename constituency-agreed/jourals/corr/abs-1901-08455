@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB newly)) (VP (VBD proposed) (NP (NP (DT a) (NN pruning) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB compress) (CC and) (VB accelerate) (PP (IN in) (NP (DT the) (NN training) (NN stage))))))))) (. .))

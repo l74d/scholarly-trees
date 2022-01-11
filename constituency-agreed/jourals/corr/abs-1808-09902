@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN algorithm)) (VP (MD can) (VP (VB fail) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NNS geometries)) (PP (IN of) (NP (ADJP (VBN known) (CC and) (JJ unknown)) (NNS classes)))) (VP (VBP differ))))))))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (CD two) (JJ new) (NNS algorithms)) (VP (VBG relying) (PP (IN on) (NP (NP (NNS approximations)) (PP (IN from) (NP (JJ extreme) (NN value) (NN theory)))))))) (. .))

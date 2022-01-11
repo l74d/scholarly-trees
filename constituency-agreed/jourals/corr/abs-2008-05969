@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (JJ empirical) (NNS results))) (, ,) (NP (PRP we)) (VP (VBD demonstrated) (SBAR (S (NP (DT the) (NN variance) (NN regularization)) (VP (MD could) (VP (VP (VB speed) (PRT (RP up)) (NP (DT the) (NN convergence))) (CONJP (RB as) (RB well) (IN as)) (VP (VB stabilize) (NP (DT the) (JJ stochastic) (NN optimization)))))))) (. .))

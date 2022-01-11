@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP extract) (NP (NNS features)) (PP (IN from) (NP (DT this) (NN graph)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

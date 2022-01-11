@@ -1,0 +1,1 @@
+(S (NP (JJ Initial) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNP Java)))) (VP (VP (VBZ does) (RB not) (VP (VB hamper) (NP (NN hardware) (NN generation)))) (, ,) (CC and) (VP (VBZ provides) (NP (JJ tight) (NN execution) (NN time) (NNS estimates))))))) (. .))

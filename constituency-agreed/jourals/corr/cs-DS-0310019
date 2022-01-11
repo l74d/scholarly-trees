@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ new) (NN algorithm)) (VP (VBZ lies) (PP (IN on) (NP (NP (DT a) (JJ hierarchical) (NN representation)) (PP (IN of) (NP (DT the) (NN graph))))) (, ,) (S (VP (VBG using) (NP (NN radix) (NNS trees))))) (. .))

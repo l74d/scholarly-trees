@@ -1,0 +1,2 @@
+(S (NP (JJ Descriptive) (NN complexity)) (VP (MD may) (VP (VB be) (ADJP (JJ useful) (S (VP (TO to) (VP (VB design) (NP (NNS programs)) (PP (IN in) (NP (DT a) (JJ natural) (JJ declarative) (NN way))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ important) (PP (IN for) (NP (NP (JJ parallel) (NN computation) (NNS models)) (PP (JJ such) (IN as) (NP (JJ cellular) (NN automata)))))) (, ,) (SBAR (IN because) (S (S (VP (VBG designing) (NP (JJ parallel) (NNS programs)))) (VP (VBZ is) (VP (VBN considered) (S (ADJP (JJ difficult)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN trained) (PP (IN on) (NP (DT the) (NNP NTU) (NNP RGB+D) (NN dataset)))))) (CC and) (S (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN model)) (VP (MD can) (VP (VB generate) (NP (NP (JJ different) (NNS styles)) (PP (IN of) (NP (NNS actions)))))))))) (. .))

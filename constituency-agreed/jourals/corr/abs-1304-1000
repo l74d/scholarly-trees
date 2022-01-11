@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP examine) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NNS passages))))) (. .))
+(S (NP (PRP We)) (VP (MD will) (VP (VB show) (SBAR (IN that) (S (NP (NNS passages)) (VP (VBP are) (VP (VBN closed) (PP (IN under) (NP (NP (NN set) (NNS operators)) (PP (JJ such) (IN as) (NP (NN union) (, ,) (NN intersection) (CC and) (NN difference))))))))))) (. .))

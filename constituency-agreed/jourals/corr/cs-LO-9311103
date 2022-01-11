@@ -1,0 +1,2 @@
+(S (NP (NNP Isabelle)) (VP (VBZ is) (ADJP (JJ generic)) (, ,) (S (VP (VBG supporting) (NP (JJ several) (JJ different) (NNS logics))))) (. .))
+(S (NP (NP (NNS Unknowns)) (PP (IN in) (NP (NNS subgoals)))) (VP (MD can) (VP (VB be) (VP (VBN instantiated) (ADVP (RB incrementally))))) (. .))

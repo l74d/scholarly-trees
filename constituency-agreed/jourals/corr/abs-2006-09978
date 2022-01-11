@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Comprehensive) (JJ experimental) (NN analysis)) (PP (IN on) (NP (NP (DT a) (JJ large) (NNP TripAdvisor) (NN multi-aspect) (NN rating) (NN dataset)) (CC and) (NP (DT a) (NNP Yelp) (NN review) (NN text) (NN dataset))))) (VP (VBZ confirms) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN solution))))) (. .))

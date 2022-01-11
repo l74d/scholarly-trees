@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG determining) (S (NP (DT a) (JJ minimum) (ADJP (NN state) (JJ probabilistic)) (JJ finite) (NML (NN state) (NN machine))) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG generating) (NP (ADJP (RB statistically) (JJ identical)) (NN symbol) (NNS sequences)) (PP (IN to) (NP (NP (NNS samples)) (VP (VBN provided)))))))))))))) (. .))
+(FRAG (NP (NNP Technical) (NNP Report)) (NP (CD 02-10-060)) (, ,) (NP (NNP Santa) (NNP Fe) (NNP Institute)) (. .))
+(NP (NN arxiv.org/abs/cs.LG/0210025) (. .))

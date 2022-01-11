@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT this) (NN algorithm)))) (ADVP (RB further)) (, ,) (PP (IN with) (NP (DT a) (ADJP (JJ slight) (CC but) (JJ acceptable)) (NN performance) (NN loss)))))))) (. .))

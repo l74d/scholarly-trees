@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN research)) (VP (VBZ builds) (PP (IN on) (NP (DT this) (NN observation)))) (. .))
+(S (PP (IN At) (NP (NP (DT any) (NN point)) (PP (IN in) (NP (NN time))))) (, ,) (NP (PRP we)) (VP (VBP select) (NP (NP (DT the) (NN pair)) (SBAR (WHNP (WDT which)) (S (ADVP (RB currently)) (VP (VBZ yields) (NP (DT the) (JJS best) (NN performance))))))) (. .))

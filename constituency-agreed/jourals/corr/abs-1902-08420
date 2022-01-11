@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN program) (NN transformation)) (VP (VBZ is) (ADJP (JJ correct)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ preserves) (NP (NP (DT the) (JJ observational) (NNS semantics)) (PP (IN of) (NP (NNS programs)))))))) (. .))
+(S (S (NP (PRP We)) (VP (VBP explain) (NP (DT the) (NNS techniques)))) (, ,) (S (NP (PRP we)) (VP (VBP illustrate) (NP (NP (DT the) (NN usage)) (PP (IN of) (NP (DT the) (NN tool)))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP report) (PP (IN on) (NP (NNS experiments))))) (. .))

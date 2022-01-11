@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN time) (NN delay)) (PP (IN inside) (NP (DT the) (NN control) (NN input)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN considered))) (. .))
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NN simulation) (NNS studies)))) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB verify) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN control) (NN scheme))))))))) (. .))

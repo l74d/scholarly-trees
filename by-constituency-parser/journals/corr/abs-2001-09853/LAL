@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (JJ traditional) (NN game)) (PP (IN of) (NP (NNS cops) (CC and) (NNS robbers)))) (VP (VBZ is) (VP (VBN played) (PP (IN on) (NP (JJ undirected) (NN graph))))) (. .))
+(S (ADVP (RB Recently)) (, ,) (NP (NP (DT the) (JJ same) (NN game)) (VP (VBD played) (PP (IN on) (NP (JJ directed) (NN graph))))) (VP (VBZ is) (VP (VBG getting) (NP (NN attention)) (PP (IN by) (NP (ADJP (JJR more) (CC and) (JJR more)) (NNS people))))) (. .))
+(S (NP (PRP We)) (VP (VBD knew) (SBAR (IN that) (S (SBAR (IN if) (S (NP (PRP we)) (VP (VBP forbid) (NP (DT some) (NN subgraph))))) (NP (PRP we)) (VP (MD can) (VP (VB bound) (NP (NP (DT the) (JJ cop) (NN number)) (PP (IN of) (NP (NP (DT the) (JJ corresponding) (NN class)) (PP (IN of) (NP (NN graphs))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ is) (RB not) (NP (NP (DT the) (JJ same)) (PP (IN as) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ undirected) (NN graph))))))) (. .))

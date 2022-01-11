@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJS best) (NN algorithm)) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN chosen) (PP (VBN based) (PP (IN on) (NP (DT these) (JJ overall) (NNS metrics)))))) (. .))
+(S (S (VP (VBG Choosing) (NP (DT a) (JJ single) (NN algorithm)) (PP (VBN based) (PP (IN on) (NP (JJ overall) (NN evaluation) (NNS results)))))) (VP (VBZ is) (RB not) (ADJP (JJ optimal))) (. .))

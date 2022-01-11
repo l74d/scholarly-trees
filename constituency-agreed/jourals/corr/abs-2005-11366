@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT The) (NNS semantics)) (PP (IN of) (NP (DT the) (JJ specified) (NN behaviour)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (NN correctness) (NNS properties))))) (VP (VBP are) (VP (VBN given) (PP (IN by) (NP (NN model) (NN transformation) (NNS rules))))) (. .))

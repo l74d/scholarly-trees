@@ -1,0 +1,1 @@
+(S (S (VP (VBG Training) (NP (JJ such) (NNS models)))) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ requires) (NP (NP (JJ expensive) (JJ pixel-wise) (NNS annotations)) (PP (IN of) (NP (JJ salient) (NNS objects))))) (. .))

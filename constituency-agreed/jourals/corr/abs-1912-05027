@@ -1,0 +1,1 @@
+(S (NP (JJ Convolutional) (JJ neural) (NNS networks)) (ADVP (RB typically)) (VP (VBP encode) (NP (DT an) (NN input) (NN image)) (PP (IN into) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (JJ intermediate) (NNS features)) (PP (IN with) (NP (VBG decreasing) (NNS resolutions)))))))) (. .))

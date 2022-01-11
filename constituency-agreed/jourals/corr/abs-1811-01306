@@ -1,0 +1,2 @@
+(S (S (NP (PRP It)) (VP (VBZ complements) (NP (DT the) (NN paper)) (SBAR (IN because) (S (NP (DT the) (NN paper)) (VP (VBZ uses) (NP (DT the) (NN dataset))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBD had) (NP (NP (DT no) (NN space)) (PP (IN for) (S (VP (VBG describing) (NP (NP (DT the) (NN work)) (VP (VBN done) (S (VP (TO to) (VP (VB obtain) (NP (PRP it))))))))))))) (. .))
+(S (PP (IN After) (NP (PRP$ our) (NN evaluation))) (, ,) (NP (PRP we)) (VP (VBD kept) (NP (NP (RB only) (NNS sub-sequences)) (PP (IN from) (NP (DT the) (NNP KITTI) (NN dataset))))) (. .))

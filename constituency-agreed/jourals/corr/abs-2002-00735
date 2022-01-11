@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (NP (DT the) (NN recognition) (NN performance)) (PP (IN of) (NP (DT the) (NN model)))) (PP (IN on) (NP (CD two) (NNS datasets)))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (VBZ has) (NP (JJR better) (NN performance)) (PP (IN without) (S (VP (VBG relying) (PP (IN on) (NP (JJ external) (JJ dictionary) (NN information)))))))))) (. .))

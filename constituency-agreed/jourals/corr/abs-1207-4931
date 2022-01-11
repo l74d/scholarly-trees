@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS weights)) (VP (VBN calculated))) (VP (VBP are) (VP (VBN implemented) (PP (IN in) (NP (NN microcontroller))))) (. .))
+(S (NP (DT The) (NN performance)) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (S (VP (TO to) (VP (VB be) (ADJP (JJ excellent)))))))) (. .))

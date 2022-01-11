@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ special) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (ADJP (RB much) (RBR more) (JJ efficient)) (PP (IN than) (NP (DT the) (JJ general) (NNS methods))))))))) (. .))
+(S (NP (PRP$ Its) (NN efficiency)) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (NN exploitation)) (PP (IN of) (NP (NP (JJ certain) (JJ interesting) (NNS structures)) (PP (IN of) (NP (NP (DT the) (NN family)) (PP (IN of) (NP (JJ differential) (NNS equations)))))))))) (. .))

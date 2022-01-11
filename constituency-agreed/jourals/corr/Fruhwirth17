@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ unwanted) (NN behavior)) (PP (IN of) (NP (NN rule) (NNS applications)))) (VP (VBZ is) (NP (NP (JJ non-termination) (CC or) (NN failure)) (PP (IN of) (NP (DT a) (NN computation))))) (. .))
+(S (NP (NP (JJ Logical) (NNS relationships)) (PP (IN between) (NP (NP (DT the) (NNS constraints)) (PP (IN in) (NP (DT a) (JJ recursive) (NN rule)))))) (VP (VB play) (NP (DT a) (JJ crucial) (NN role)) (PP (IN in) (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN program) (NN analysis)))))) (. .))

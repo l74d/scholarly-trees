@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (JJ classical) (NNS estimators)) (PP (IN for) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (ADJP (RB physically) (JJ realizable)) (JJ linear) (NN quantum) (NNS systems))))))) (. .))
+(S (NP (NP (JJ Optimal) (NN estimation)) (VP (VBG using) (NP (DT a) (JJ complex) (NNP Kalman) (NN filter)) (PP (IN for) (NP (DT this) (NN problem))))) (VP (VBZ has) (VP (VBN been) (ADVP (RB previously)) (VP (VBN explored)))) (. .))
+(S (NP (DT The) (NN solution)) (VP (VBZ is) (VP (VBN obtained) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (CD two) (JJ algebraic) (NNP Riccati) (NNS equations))))))) (. .))
+(S (NP (NP (JJ Relevant) (NNS examples)) (VP (VBG involving) (NP (JJ dynamic) (NNS squeezers)))) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB illustrate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (PRP$ our) (NN method))))))))) (. .))

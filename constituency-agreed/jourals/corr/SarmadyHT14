@@ -1,0 +1,2 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN space)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (ADJP (RB relatively) (JJ large)) (NNS cells))))))) (, ,) (NP (NP (DT the) (NNS movements)) (PP (IN of) (NP (NNS pedestrians)))) (VP (VBP look) (PP (IN like) (NP (NP (DT the) (NNS movements)) (PP (IN of) (NP (NP (NNS pieces)) (PP (IN on) (NP (DT a) (NN chess) (NN board)))))))) (. .))
+(S (NP (DT A) (JJ typical) (NN walkway) (NN scenario)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB test) (CC and) (VB evaluate) (NP (DT the) (NN model))))))) (. .))

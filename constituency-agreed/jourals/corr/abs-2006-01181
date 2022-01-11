@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (PP (IN despite) (NP (NP (DT all) (NN progress)) (PP (IN in) (NP (NN security) (CC and) (NN privacy) (NNS mechanisms))))) (, ,) (NP (NNS vulnerabilities)) (VP (VBP continue) (S (VP (TO to) (VP (VB proliferate))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT each) (NN study)) (VP (VBZ has) (ADVP (RB often)) (VP (VBN dealt) (PP (IN with) (NP (DT a) (JJ specific) (NN issue))) (, ,) (S (VP (VBG making) (S (NP (DT the) (NNS results)) (ADJP (RBR less) (JJ actionable) (PP (IN for) (NP (NNS practitioners))))))))) (. .))

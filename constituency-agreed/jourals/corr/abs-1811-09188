@@ -1,0 +1,2 @@
+(S (NP (NNS Delays)) (VP (VBP are) (NP (NP (DT an) (JJ important) (NN phenomenon)) (VP (VBG arising) (PP (IN in) (NP (NP (DT a) (JJ wide) (NN variety)) (PP (IN of) (NP (JJ real) (NN world) (NNS systems)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (ADVP (RB here)) (S (VP (TO to) (VP (VB consider) (NP (VBN delayed) (JJ stochastic) (NN reaction) (NNS networks)))))) (. .))

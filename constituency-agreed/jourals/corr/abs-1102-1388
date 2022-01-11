@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBD shed) (NP (DT some) (JJ new) (NN light)) (PP (IN on) (NP (NP (DT each) (NN aspect)) (PP (IN of) (NP (DT the) (NN logic)))))) (. .))
+(S (NP (DT This)) (VP (VBZ makes) (NP (NP (JJ essential) (NN use)) (PP (IN of) (NP (DT the) (JJ intuitionistic) (NN implication))))) (. .))
+(S (NP (NP (DT The) (NNP Armstrong) (NNS axioms)) (PP (IN for) (NP (JJ functional) (NN dependence)))) (VP (VBP are) (ADVP (RB then)) (VP (VBN recovered) (PP (IN as) (NP (NP (DT a) (JJ standard) (NN set)) (PP (IN of) (NP (NP (NNS axioms)) (PP (IN for) (NP (JJ intuitionistic) (NN implication))))))))) (. .))

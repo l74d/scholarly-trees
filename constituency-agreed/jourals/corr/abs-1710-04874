@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT these) (NNS networks))) (NP (NP (DT the) (NNS weights) (CC and) (NNS biases)) (PP (IN of) (NP (NP (JJ hidden) (NNS nodes)) (VP (VBG determining) (NP (DT the) (JJ nonlinear) (NN feature) (NN mapping)))))) (VP (VP (VBP are) (VP (VBN set) (ADVP (RB randomly)))) (CC and) (VP (VBP are) (RB not) (VP (VBN learned)))) (. .))
+(S (NP (NP (JJ Appropriate) (NN selection)) (PP (IN of) (NP (NP (DT the) (NNS intervals)) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (NNS weights) (CC and) (NNS biases)) (VP (VBP are) (VP (VBN selected)))))))) (VP (VBZ is) (ADJP (RB extremely) (JJ important))) (. .))
+(S (NP (DT The) (VBN proposed) (NNS methods)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB control) (NP (NP (DT the) (NN generalization) (NN degree)) (PP (IN of) (NP (DT the) (NN model)))))))) (. .))
+(S (NP (JJ Several) (NNS experiments)) (VP (VBP show) (NP (ADJP (RB very) (JJ promising)) (NNS results))) (. .))

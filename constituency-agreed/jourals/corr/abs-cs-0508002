@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NN approach)) (VP (VBZ is) (ADJP (JJ useful)) (SBAR (IN if) (S (NP (NP (DT the) (JJ global) (NNS properties)) (PP (IN of) (NP (NN interest)))) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (JJ stochastic) (NN time) (NN series))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (SBAR (IN if) (S (NP (NN space) (NNS variables)) (VP (MD must) (VP (VB be) (VP (VBN considered)))))) (, ,) (NP (PRP we)) (VP (MD shall) (VP (VB change) (NP (DT the) (NN focus)))) (. .))

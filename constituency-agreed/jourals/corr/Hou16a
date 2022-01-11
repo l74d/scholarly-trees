@@ -1,0 +1,4 @@
+(S (NP (NNS People)) (VP (VBP tend) (S (VP (TO to) (VP (VB use) (NP (JJ various) (NNS techniques)) (S (VP (TO to) (VP (VB improve) (NP (PRP$ their) (JJ prospective) (NN memory) (NN performance))))))))) (. .))
+(S (S (VP (VBG Setting) (PRT (RP up)) (NP (DT a) (NN reminder)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS techniques))))) (. .))
+(S (PP (IN Through) (S (VP (VBG analysing) (NP (NP (DT the) (NNS functions) (CC and) (NNS features)) (PP (IN of) (NP (VBG existing) (NN reminder) (NNS systems))))))) (, ,) (NP (DT this) (NN book) (NN draft)) (VP (VBZ summarizes) (NP (PRP$ their) (NNS advantages) (CC and) (NNS limitations))) (. .))
+(S (NP (PRP We)) (VP (VBP are) (VP (VBN motivated) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN reminder) (NNS systems))))))))) (. .))

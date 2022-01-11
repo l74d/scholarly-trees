@@ -1,0 +1,1 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (JJ simple) (NNS counterexamples)) (VP (VBP show) (SBAR (IN that) (S (SBAR (IN if) (S (NP (JJ uniform) (NN convexity)) (VP (VBZ is) (VP (VBN removed))))) (, ,) (ADVP (RB then)) (NP (NN instability)) (VP (MD can) (VP (VB occur)))))) (. .))

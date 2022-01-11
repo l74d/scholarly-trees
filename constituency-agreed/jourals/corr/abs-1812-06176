@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN need) (S (VP (TO to) (VP (VB create) (NP (NP (DT a) (JJ proper) (NN set)) (PP (IN of) (NP (NN training) (NNS examples)))))))) (VP (VBZ is) (ADVP (RB often)) (NP (NP (DT the) (NN bottleneck)) (PP (IN in) (NP (DT the) (NN development) (NN process))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ genetic) (NN algorithm)) (CONJP (RB as) (RB well) (IN as)) (NP (DT a) (JJ local) (NN search) (NN heuristic)))) (. .))
+(S (NP (DT This) (JJ algorithmic) (NN framework)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB compute) (NP (NNS solutions)) (ADVP (RB successfully))))))) (. .))

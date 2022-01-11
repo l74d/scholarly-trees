@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN behavior)) (PP (IN of) (NP (NNP G)))) (VP (VBZ is) (VP (VBN observed) (SBAR (IN as) (S (NP (NP (DT the) (NN difficulty)) (PP (IN of) (NP (DT the) (NN problem)))) (VP (VBZ is) (VP (VBN increased))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ anti-parallel)))))) (VP (VBP are) (VP (VBN considered))) (. .))

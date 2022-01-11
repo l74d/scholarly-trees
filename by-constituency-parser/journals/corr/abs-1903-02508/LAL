@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (ADJP (RB almost) (JJ tight)) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (NNS paths))))) (PP (IN in) (NP (ADJP ($ $) (CD 2) ($ $)) (VBN -edge-connected) (JJ cubic) (NN graphs))))) (. .))

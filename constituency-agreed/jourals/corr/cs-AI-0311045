@@ -1,0 +1,1 @@
+(S (NP (DT An) (NN example)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN model)) (VP (MD can) (VP (VB infer) (NP (DT a) (JJ plausible) (NN grammar)) (PP (IN from) (NP (JJ appropriate) (NN input)))))))))))) (. .))

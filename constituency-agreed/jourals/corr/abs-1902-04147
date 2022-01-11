@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP design) (NP (NP (DT an) (JJ analytic) (NN pipeline)) (SBAR (WHNP (WDT which)) (S (ADVP (RB first)) (VP (VBZ generates) (NP (JJ synthetic) (JJ retinal) (NNS images)) (PP (IN from) (NP (JJ clinical) (NNS images))))))))) (: ;) (S (NP (DT a) (JJ subsequent) (NN verification) (NN step)) (VP (VBZ is) (VP (VBN applied)))) (. .))

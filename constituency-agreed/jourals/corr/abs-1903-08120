@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (DT this) (NN problem)) (VP (VBZ is) (ADJP (JJ intractable))))) (, ,) (NP (JJ greedy) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (DT an) (JJ approximate) (NN solution)))))))) (. .))

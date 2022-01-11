@@ -1,0 +1,2 @@
+(S (SBAR (IN Whether) (S (NP (DT the) (NN swarm)) (VP (VBZ is) (ADJP (JJ cooperative) (CC or) (JJ non-cooperative))))) (, ,) (NP (NNS lessons)) (VP (MD can) (VP (VB be) (VP (VBN learnt) (PP (IN from) (NP (NP (NNS sheepdogs)) (VP (VBG herding) (NP (NN sheep)))))))) (. .))
+(S (NP (DT The) (NN hierarchy)) (VP (VBZ is) (VP (VBN formed) (PP (IN by) (S (VP (VBG fusing) (NP (NP (DT the) (NNS outputs)) (PP (IN of) (NP (DT the) (NN model))))))))) (. .))

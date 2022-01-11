@@ -1,0 +1,1 @@
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (DT this) (NN observation))))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (JJ new) (NN network) (NNS architectures)) (SBAR (WHNP (WDT that)) (S (VP (VBP increase) (NP (JJ adversarial) (NN robustness)) (PP (IN by) (S (VP (VBG performing) (NP (NN feature) (NN denoising)))))))))) (. .))

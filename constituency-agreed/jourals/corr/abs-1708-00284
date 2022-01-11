@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VP (VBZ generalizes) (ADVP (RB well)) (PP (IN across) (NP (JJ diverse) (JJ visual) (NNS scenes)))) (CC and) (VP (VBZ shows) (NP (NN superiority)) (PP (IN in) (NP (JJ unsupervised) (NN video) (NN representation) (NN learning))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (DT the) (NN problem)) (VP (VBZ is) (ADJP (JJ non-convex))))) (, ,) (NP (PRP$ our) (JJ main) (NN contribution)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN optimization)) (VP (VBZ admits) (NP (DT a) (JJ separable) (JJ dual) (NN decomposition)))))) (. .))

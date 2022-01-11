@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (DT a) (JJ uniform) (NN density))) (, ,) (NP (DT this)) (VP (VBZ necessitates) (NP (DT a) (JJ good) (JJ initial) (NN particle) (NN distribution))) (. .))
+(S (NP (DT Some) (JJ challenging) (NNS geometries)) (VP (VBP are) (VP (VBN constructed) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (JJ new) (NN algorithm))))))))) (. .))
+(S (S (NP (NP (DT The) (NN implementation)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (NP (JJ open) (NN source)))) (CC and) (S (NP (DT the) (NN manuscript)) (VP (VBZ is) (ADJP (RB fully) (JJ reproducible)))) (. .))

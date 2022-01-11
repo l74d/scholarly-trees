@@ -1,0 +1,2 @@
+(S (NP (JJ Stochastic) (JJ differential) (NNS games)) (VP (VBP are) (VP (VBN considered) (PP (IN in) (NP (DT a) (JJ non-Markovian) (NN setting))))) (. .))
+(S (ADVP (RB Typically)) (, ,) (PP (IN in) (NP (JJ stochastic) (JJ differential) (NNS games))) (NP (NP (DT the) (VBG modulating) (NN process)) (PP (IN of) (NP (NP (DT the) (NN diffusion) (NN equation)) (VP (VBG describing) (NP (DT the) (NN state) (NN flow)))))) (VP (VBZ is) (VP (VBN taken) (S (VP (TO to) (VP (VB be) (ADJP (JJ Markovian))))))) (. .))

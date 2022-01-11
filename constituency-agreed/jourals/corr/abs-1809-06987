@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (DT the) (JJS best) (NNS parameters)) (VP (VBP vary) (ADVP (RB significantly)) (PP (IN across) (NP (NP (NNS datasets)) (PP (JJ such) (IN as) (NP (NP (NNP MNIST)) (, ,) (NP (NNP CIFAR)) (, ,) (CC and) (NP (NP (NNS mixtures)) (PP (IN of) (NP (NNPS Gaussians)))))))))))) (. .))

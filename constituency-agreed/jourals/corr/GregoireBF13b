@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ cooperative) (NN intersection) (NN management))))) (. .))
+(S (ADVP (RB Therefore)) (NP (JJ many) (NNS solutions)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB avoid) (NP (NNS collisions)))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ emphasizes) (NP (NP (NNS connections)) (PP (IN between) (NP (NP (NP (DT the) (JJ usual) (NN notion)) (PP (IN of) (NP (NN vehicle) (NN priority)))) (CC and) (NP (NP (DT an) (JJ abstract) (NN formulation)) (PP (IN of) (NP (NP (DT the) (NN scheduling) (NN problem)) (PP (IN in) (NP (DT the) (NN coordination) (NN space)))))))))) (. .))
+(S (NP (DT A) (JJ constructive) (ADJP (RB locally) (JJ optimal)) (NN algorithm)) (VP (VBZ is) (VP (VBN proposed))) (. .))

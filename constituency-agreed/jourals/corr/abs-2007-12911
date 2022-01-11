@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ probabilistic) (JJ neural) (NNS networks))))) (, ,) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (NN training)))) (VP (VBZ is) (NP (NP (DT a) (NN probability) (NN distribution)) (PP (IN over) (NP (NN network) (NNS weights))))) (. .))

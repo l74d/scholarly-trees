@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP conduct) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ numerical) (NNS experiments)))) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))))))) (. .))
+(S (NP (DT The) (VBN established) (JJ theoretical) (NNS results)) (VP (VBP are) (ADVP (RB also)) (VP (VBN verified) (PP (IN by) (NP (DT the) (JJ numerical) (NNS results))))) (. .))

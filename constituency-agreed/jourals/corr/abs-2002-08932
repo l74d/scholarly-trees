@@ -1,0 +1,3 @@
+(S (NP (NP (PRP$ Our) (NN approach)) (PP (IN in) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB generate) (NP (DT a) (JJR larger) (NN dataset)) (PP (IN by) (S (VP (VBG using) (NP (NP (DT a) (VBN given) (NN dataset)) (SBAR (WHNP (WDT which)) (S (VP (VBZ includes) (NP (NP (DT the) (NNS clusters)) (PP (IN of) (NP (NNS people))))))))))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT the) (NN cluster) (NN information)))) (, ,) (NP (PRP we)) (VP (VBD created) (NP (DT a) (NN framework))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBD showed) (SBAR (IN that) (S (NP (DT the) (VBN created) (NNS datasets)) (VP (VBP have) (NP (NP (JJ similar) (JJ statistical) (NN structure)) (PP (IN with) (NP (DT the) (VBN given) (NN dataset)))))))) (. .))

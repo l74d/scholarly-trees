@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ last) (CD two) (NNS decades))) (, ,) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS algorithms)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (NP (DT This)) (VP (VBZ has) (VP (VBN enabled) (NP (NP (NP (DT an) (JJ empirical) (NN evaluation)) (PP (IN of) (NP (DT these) (NNS algorithms)))) (CC and) (NP (NP (DT a) (JJR better) (NN understanding)) (PP (IN of) (NP (PRP$ their) (JJ relative) (NNS merits))))))) (. .))

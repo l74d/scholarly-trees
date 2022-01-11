@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG classifying) (NP (DT an) (NN entity) (NN mention)) (PP (IN into) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NN entity) (NNS types))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ inadequate) (PP (IN for) (NP (ADJP (ADJP (RB highly) (VBG overlapping)) (CC and) (ADJP (JJ noisy))) (NN type) (NNS labels)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ hinders) (NP (NP (NN information)) (VP (VBG passing) (PP (IN across) (NP (NN sentence) (NNS boundaries))))))))) (. .))

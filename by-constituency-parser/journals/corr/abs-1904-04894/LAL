@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN determination) (NN problem)) (PP (IN of) (NP (NP (DT the) (NN channel) (NN capacity)) (PP (IN for) (NP (NP (DT the) (JJ discrete) (NN memoryless) (NNS channels)) (PP (IN in) (NP (DT the) (JJ finite) (NN blocklength) (NN regime))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (JJ explicit) (UCP (JJR lower) (CC and) (JJ upper)) (NNS bounds)) (PP (IN of) (NP (DT the) (NN capacity))))) (. .))
+(S (NP (PRP We)) (VP (MD shall) (VP (VB demonstrate) (SBAR (IN that) (S (NP (DT the) (NN information) (NN spectrum) (NN approach)) (VP (VBZ is) (ADJP (RB quite) (JJ useful) (PP (IN for) (S (VP (VBG investigating) (NP (DT this) (NN problem))))))))))) (. .))

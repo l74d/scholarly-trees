@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VP (VBZ proves) (NP (NP (DT a) (JJ recent) (NN conjecture)) (PP (IN of) (NP (NNP Steinhardt) (, ,) (NNP Valiant) (CC and) (NNP Wager))))) (CC and) (VP (VBZ shows) (SBAR (IN that) (S (PP (IN for) (NP (DT some) (NN learning) (NNS problems))) (NP (DT a) (JJ large) (NN storage) (NN space)) (VP (VBZ is) (ADJP (JJ crucial))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG learning) (NP (NP (DT the) (NN transition) (NNS matrices)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNP Markov) (NNS chains)))))) (PP (IN from) (NP (NP (DT a) (JJ single) (NN stream)) (PP (IN of) (NP (NP (NNS observations)) (PP (IN on) (NP (DT each) (NN chain)))))))))))) (. .))
+(S (NP (DT The) (NN learner)) (VP (MD can) (VP (VB sample) (NP (NNP Markov) (NNS chains)) (ADVP (RB sequentially)) (S (VP (TO to) (VP (VB observe) (NP (PRP$ their) (NNS states))))))) (. .))

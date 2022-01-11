@@ -1,0 +1,1 @@
+(S (S (NP (NNP Flow) (NN accumulation)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN input)) (PP (IN for) (NP (JJ many) (JJ such) (NNS algorithms)))))) (: ;) (S (ADVP (RB here)) (, ,) (NP (PRP I)) (VP (VBP parallelize) (NP (PRP$ its) (NN calculation)))) (. .))

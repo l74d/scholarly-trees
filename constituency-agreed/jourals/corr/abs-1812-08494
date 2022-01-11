@@ -1,0 +1,4 @@
+(S (NP (DT The) (JJ main) (NN criterion)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT the) (NNS risks)) (PP (IN of) (NP (NN permission) (NN leakage)))))))) (. .))
+(S (NP (NP (DT The) (NN choice)) (PP (IN of) (NP (NP (DT the) (NN role)) (PP (IN for) (NP (NN authorization)))))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ analytic) (NN hierarchy) (NN process))))) (. .))
+(S (NP (NP (DT The) (NN substantiation)) (PP (IN of) (NP (NP (DT a) (NN choice)) (PP (IN of) (NP (NP (NNS criteria)) (PP (IN for) (NP (NP (NN formation)) (PP (IN of) (NP (NP (DT a) (NN hierarchy)) (PP (IN of) (NP (DT the) (JJ first) (NN level)))))))))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (S (NP (DT The) (NN complexity)) (VP (VBZ is) (VP (VBN estimated)))) (CC and) (S (NP (NP (DT the) (NN scalability)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN discussed)))) (. .))

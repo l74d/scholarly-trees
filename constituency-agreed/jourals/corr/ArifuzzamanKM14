@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NNS triangles)))) (ADVP (RB also)) (VP (VBZ has) (NP (NP (JJ important) (NNS applications)) (PP (IN in) (NP (NNS data) (NN mining))))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (VBZ divides) (NP (DT the) (NN network)) (PP (IN into) (NP (JJ non-overlapping) (NNS partitions)))) (. .))
+(S (NP (DT The) (JJ second) (NN algorithm)) (VP (VBZ is) (PP (IN for) (NP (NP (DT the) (NN case)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (JJ main) (NN memory)) (PP (IN of) (NP (DT each) (NN node)))) (VP (VBZ is) (ADJP (JJ large) (RB enough) (S (VP (TO to) (VP (VB contain) (NP (DT the) (JJ entire) (NN network)))))))))))) (. .))

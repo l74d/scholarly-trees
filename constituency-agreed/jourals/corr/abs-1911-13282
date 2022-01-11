@@ -1,0 +1,1 @@
+(S (PP (IN At) (ADJP (JJ optimum))) (, ,) (NP (NP (JJ arbitrary) (NN quantum) (NNS gates)) (, ,) (CC and) (ADVP (RB thus)) (NP (JJ arbitrary) (NN quantum) (NNS programs)) (, ,)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (S (VP (VBG using) (NP (DT the) (NN stuff))))))) (. .))

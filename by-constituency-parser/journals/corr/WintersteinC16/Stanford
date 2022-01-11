@@ -1,0 +1,4 @@
+(S (NP (PRP$ Our) (NN software) (NN system)) (VP (VBZ simulates) (NP (NP (NP (DT the) (JJ classical) (JJ collaborative) (JJ Japanese) (NN poetry) (NN form)) (, ,) (NP (NN renga))) (, ,) (VP (VBN made) (PP (IN of) (NP (VBN linked) (NN haikus)))))) (. .))
+(S (NP (PRP We)) (VP (VBD used) (SBAR (S (NP (NN NLP) (NNS methods)) (VP (VBD wrapped) (PRT (RP up)) (PP (IN as) (NP (NN web) (NNS services))))))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBD were) (NP (RB only) (DT a) (JJ partial) (NN success)) (, ,) (SBAR (IN since) (S (NP (NNS results)) (VP (VBP fail) (S (VP (TO to) (VP (VB satisfy) (NP (JJ classical) (NNS constraints))))))))) (. .))
+(S (S (VP (TO To) (VP (VB gather) (NP (NNS ideas)) (PP (IN for) (NP (JJ future) (NN work)))))) (, ,) (NP (PRP we)) (VP (VBP examine) (NP (JJ related) (NN research)) (PP (IN in) (NP (NNS semiotics) (, ,) (NNS linguistics) (, ,) (CC and) (NN computing)))) (. .))

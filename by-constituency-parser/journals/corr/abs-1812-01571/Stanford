@@ -1,0 +1,6 @@
+(S (NP (DT A) (JJ quasi-static) (JJ flat) (NML (JJ multiple) (HYPH -) (NN antenna)) (NN channel)) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ real) (JJ multilevel) (NN modulation) (NNS symbols)) (VP (MD can) (VP (VB be) (VP (VBN detected) (PP (IN via) (NP (JJ deep) (JJ neural) (NNS networks))))))))) (. .))
+(S (NP (DT A) (JJ multi-plateau) (NN sigmoid) (NN function)) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (ADVP (RB Then)) (, ,) (PP (IN after) (S (VP (VBG showing) (NP (DT the) (NNP DNN) (NN architecture)) (PP (IN for) (NP (NN detection)))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (NML (JJ twin) (HYPH -) (NN network)) (JJ neural) (NN structure))) (. .))
+(S (NP (NP (NN Batch) (NML (NN size) (CC and) (NN training)) (NNS statistics)) (PP (IN for) (NP (JJ efficient) (NN learning)))) (VP (VBP are) (VP (VBN investigated))) (. .))
+(S (NP (NP (NML (NNP Near) (HYPH -) (NNP Maximum) (HYPH -) (NNP Likelihood)) (NN performance)) (PP (IN with) (NP (NP (DT a) (ADJP (RB relatively) (JJ reasonable)) (NN number)) (PP (IN of) (NP (NNS parameters)))))) (VP (VBZ is) (VP (VBN achieved))) (. .))

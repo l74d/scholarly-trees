@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (DT the) (NNP PGMPI) (NN framework)) (S (VP (TO to) (VP (VB detect) (NP (NP (NNS violations)) (PP (IN of) (NP (NN performance) (NNS guidelines)))) (PP (IN through) (NP (NN benchmarking))))))) (. .))
+(S (NP (PRP$ Our) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP PGMPI)) (VP (MD can) (VP (VB pinpoint) (NP (NP (ADJP (ADJP (JJ undesired)) (CC and) (ADJP (RB often) (JJ unexpected))) (NN performance) (NNS degradations)) (PP (IN of) (NP (JJ collective) (NNP MPI) (NNS operations))))))))) (. .))

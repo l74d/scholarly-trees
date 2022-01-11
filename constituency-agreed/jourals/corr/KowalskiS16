@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ canonical) (NN model))) (, ,) (NP (NP (NNS states)) (, ,) (NP (NNS actions)) (CC and) (NP (JJ other) (NNS events))) (VP (VBP are) (VP (VBN represented) (PP (IN with) (NP (NNS timestamps))))) (. .))
+(S (CC But) (PP (IN in) (NP (DT the) (JJ operational) (NNS semantics))) (, ,) (PP (IN for) (NP (NP (DT the) (NN sake)) (PP (IN of) (NP (NN efficiency))))) (, ,) (S (NP (NNS timestamps)) (VP (VBP are) (VP (VBN omitted)))) (CC and) (S (NP (RB only) (DT the) (JJ current) (NN state)) (VP (VBZ is) (VP (VBN maintained)))) (. .))

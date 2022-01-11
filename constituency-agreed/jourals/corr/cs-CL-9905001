@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG building) (NP (JJ large) (VBN annotated) (NN corpora)))))) (VP (VBZ is) (ADJP (RB prohibitively) (JJ expensive))) (. .))
+(S (NP (PRP They)) (VP (VBP account) (PP (IN for) (NP (NP (QP (RB only) (CD 20)) (NN %)) (PP (IN of) (NP (DT all) (NNS constituents)))))) (. .))

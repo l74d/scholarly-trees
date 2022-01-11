@@ -1,0 +1,2 @@
+(S (NP (JJ Various) (NN parallelization) (NNS strategies)) (VP (VBP are) (VP (VBN presented) (CC and) (VBN described) (PP (IN on) (NP (JJ simple) (NNS examples))))) (. .))
+(S (NP (NP (DT The) (NN implementation)) (PP (IN of) (NP (DT these) (NNS strategies)))) (VP (VBZ is) (ADVP (RB then)) (VP (VBN evaluated) (ADVP (RB empirically)) (PP (IN on) (NP (NP (DT a) (NN sample)) (PP (IN of) (NP (NNS problems))))))) (. .))

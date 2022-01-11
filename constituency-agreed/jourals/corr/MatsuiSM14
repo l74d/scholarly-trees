@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (NNS colors)) (VP (MD will) (VP (VB be) (ADJP (JJ distinguishable)))) (. .))
+(S (SBAR (IN Although) (S (NP (DT the) (JJ objective) (NN function)) (VP (VBZ is) (ADJP (JJ fractional))))) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN replaced) (PP (IN by) (NP (DT a) (JJ piece-wise) (JJ linear) (NN convex) (NN function)))))) (. .))

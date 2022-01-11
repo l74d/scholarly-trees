@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Controllers)) (PP (IN for) (NP (JJ autonomous) (JJ robotic) (NNS systems)))) (VP (MD can) (VP (VB be) (VP (VBN specified) (S (VP (VBG using) (NP (NN state) (NNS machines))))))) (. .))
+(S (S (NP (NNS Simulations)) (VP (VBP are) (ADVP (RB often)) (VP (VBN used) (PP (IN during) (NP (DT the) (NN development)))))) (, ,) (CC but) (S (NP (NP (DT a) (JJ rigorous) (NN connection)) (PP (IN between) (NP (NP (DT the) (VBN designed) (NN controller)) (CC and) (NP (DT the) (NN implementation))))) (VP (VBZ is) (ADVP (RB often)) (VP (VBN overlooked)))) (. .))

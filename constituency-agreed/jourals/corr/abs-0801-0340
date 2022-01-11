@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN transmitter)) (CC and) (NP (DT the) (NNS receivers))) (VP (MD may) (DT each) (VP (VB be) (VP (VBN equipped) (PP (IN with) (NP (JJ multiple) (NNS antennas))))))) (CC and) (S (NP (DT each) (NN user)) (VP (MD may) (VP (VB receive) (NP (QP (JJR more) (IN than) (CD one)) (NN data) (NN stream))))) (. .))

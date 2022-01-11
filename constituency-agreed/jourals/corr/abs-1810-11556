@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (VP (VBZ approximates) (NP (DT the) (JJ human)) (PP (IN as) (NP (DT an) (JJ optimal) (NN agent))) (, ,) (PP (IN with) (NP (NP (DT a) (NN reward) (NN function)) (VP (VBN obtained) (PP (IN through) (NP (JJ inverse) (NN reinforcement) (NN learning))))))) (. .))
+(S (NP (PRP We)) (VP (VBD implemented) (NP (DT the) (NN planner)) (PP (IN on) (NP (DT a) (JJ mobile) (NN robot))) (, ,) (S (VP (VBG using) (NP (DT a) (JJ wearable) (JJ haptic) (NN device)) (PP (IN for) (NP (JJ explicit) (NN communication)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NP (DT a) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN trained) (PP (IN on) (NP (NNP ImageNet)))))))) (CC and) (NP (NP (DT another) (NN one)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN trained) (PP (IN without) (NP (NN supervision)))))))))) (. .))

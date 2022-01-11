@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN equation)) (PP (IN of) (NP (DT this) (NN circle)))) (VP (VBZ is) (VP (VBN solved) (PP (IN for) (S (VP (VBG obtaining) (NP (DT the) (NN contact) (NN angle))))))) (. .))
+(S (NP (DT This) (NN procedure)) (VP (VBZ is) (VP (VBN repeated) (PP (IN by) (S (VP (VBG rotating) (NP (DT the) (NN droplet)) (PP (IN about) (NP (DT the) (JJ vertical) (NN axis)))))))) (. .))

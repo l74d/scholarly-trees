@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (JJ modern) (NNP CNN) (NNS architectures)) (VP (VBP make) (NP (NP (JJ heavy) (NN use)) (PP (IN of) (NP (JJ spatial) (NN context)))) (PP (IN for) (S (VP (VBG achieving) (NP (ADJP (RB highly) (JJ accurate)) (NNS predictions)))))) (. .))
+(S (NP (PRP$ Our) (NN ablation) (NNS studies)) (VP (VBP show) (NP (NP (JJ clear) (NNS advantages)) (PP (IN of) (S (VP (VBG using) (NP (JJ contextual) (NN diversity)) (PP (IN for) (NP (JJ active) (NN learning)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (NN finding)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN by) (S (VP (VBG instrumenting) (NP (DT the) (NNP GMRES) (JJ iterative) (NN solver))))))))))) (. .))

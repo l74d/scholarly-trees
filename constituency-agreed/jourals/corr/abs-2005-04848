@@ -1,0 +1,1 @@
+(S (CC And) (NP (PRP we)) (VP (VBP test) (NP (PRP$ our) (NN algorithm)) (PP (IN with) (NP (NP (JJ synthetic) (NNS data)) (CC and) (NP (JJ real) (NNS data)))) (S (VP (TO to) (VP (VB verify) (NP (NP (PRP$ our) (NN algorithm) (POS 's)) (NN effectiveness)))))) (. .))

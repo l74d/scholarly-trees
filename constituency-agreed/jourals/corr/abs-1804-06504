@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN computer) (NN vision))) (NP (PRP it)) (ADVP (RB often)) (VP (VBZ appears) (PP (IN in) (NP (NN motion) (NN analysis)))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (PRP$ our) (NNS findings)))) (PP (IN by) (S (VP (VBG comparing) (PP (IN with) (NP (JJ standard) (JJ robust) (NN regression) (NNS methods))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ improves) (CC and) (VBZ extends) (NP (DT the) (JJ previous) (NNS results))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ improves) (CC and) (VBZ extends) (NP (NP (DT the) (NN contribution)) (VP (VBN presented) (PP (IN in) (NP (DT a) (JJ previous) (NN work)))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ current) (NNS implementations)) (PP (IN of) (NP (NNP IMS)))) (VP (VBP do) (RB not) (VP (VB offer) (NP (JJ automatic) (NN scalability) (CC or) (NN elastisity)) (PP (IN for) (NP (NP (DT the) (VBG growing) (NN number)) (PP (IN of) (NP (NNS customers))))))) (. .))

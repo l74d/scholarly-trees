@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (JJ minimax) (JJ optimal) (NN convergence) (NNS rates)) (PP (IN under) (NP (NP (DT a) (JJ weak) (NN compatibility) (NN condition)) (PP (IN for) (NP (JJ sparse) (JJ additive) (NNS models)))))) (. .))
+(S (NP (DT The) (NN compatibility) (NN condition)) (VP (VBZ holds) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (NNS covariates)))))))) (. .))

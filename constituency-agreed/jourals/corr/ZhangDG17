@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NNS experiments))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ outperforms) (NP (DT the) (NNS baselines)) (PP (IN on) (NP (NP (CD two) (NNS datasets)) (CC and) (NP (CD two) (NN backbone) (NNS networks))))) (. .))

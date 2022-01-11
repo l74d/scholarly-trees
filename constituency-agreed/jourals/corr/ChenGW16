@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG initializing) (CC and) (VBG training) (NP (DT a) (JJ neural) (NN network)))) (VP (VBZ is) (ADJP (RB very) (JJ different) (PP (IN from) (S (VP (VBG fitting) (NP (DT a) (JJ linear) (NN spline))))))) (. .))

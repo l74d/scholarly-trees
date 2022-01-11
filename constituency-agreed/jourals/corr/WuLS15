@@ -1,0 +1,1 @@
+(S (NP (NNS Programmers)) (ADVP (RB only)) (VP (VBP need) (S (VP (TO to) (VP (VB define) (NP (NN task) (NNS dependencies)) (PP (IN without) (S (VP (VBG considering) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB schedule) (NP (PRP them)) (PP (IN on) (NP (DT the) (NN hardware)))))))))))))) (. .))

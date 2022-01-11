@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP take) (NP (NP (DT a) (JJ causal) (JJ graphical) (NN view)) (PP (IN of) (NP (DT the) (NN deconfounder))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB justify) (NP (DT the) (NN deconfounder)) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ makes) (NP (NP (JJ valid) (NNS inferences)) (PP (IN of) (NP (DT the) (NN intervention)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG generating) (NP (NN translation)) (PP (IN with) (NP (NP (JJR less) (NN repetition)) (CC and) (NP (JJR higher) (NN accuracy)))))))))))) (. .))

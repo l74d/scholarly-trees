@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ provides) (NP (NP (JJ detailed) (JJ quantitative) (NN analysis)) (PP (IN for) (NP (NP (JJ accurate) (NN disease) (NN diagnosis)) (, ,) (NP (JJ abnormal) (NN detection)) (, ,) (CC and) (NP (NN classification)))))) (. .))
+(S (NP (NN Attention) (NN mechanism)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VP (VB improve) (NP (NN segmentation) (NN accuracy))) (CC and) (VP (VB estimate) (NP (NP (DT the) (NN segmentation) (NN accuracy)) (PP (IN of) (NP (DT each) (NN slice)))))))))) (. .))

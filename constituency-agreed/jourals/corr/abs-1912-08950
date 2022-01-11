@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NNP Slim) (NNP Graph)) (VP (VBZ uses) (NP (NP (JJ statistical) (NNS divergences)) (CC and) (NP (JJ other) (NNS metrics))) (S (VP (TO to) (VP (VB analyze) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (JJ lossy) (NN graph) (NN compression)))))))) (. .))

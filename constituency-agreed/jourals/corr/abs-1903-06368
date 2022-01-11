@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ explores) (NP (NP (DT the) (JJ theoretical) (NNS limits)) (PP (IN of) (S (VP (VBG using) (NP (JJ discrete) (NNS abstractions)) (PP (IN for) (NP (JJ nonlinear) (NN control) (NN synthesis)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT the) (NN result)) (PP (IN with) (NP (DT a) (JJ nonlinear) (NN control) (NN example)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT Both)) (VP (MD should) (RB not) (VP (VB exist) (SBAR (IN if) (S (NP (NN privacy)) (VP (VBZ is) (VP (VBN proven) (ADVP (RB correctly)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP analyze) (CC and) (VBP fix) (NP (NP (DT the) (NN proof) (NN strategy)) (VP (VBN used) (PP (IN for) (NP (NP (DT this) (NN family)) (PP (IN of) (NP (NNS systems)))))))) (. .))

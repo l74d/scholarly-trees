@@ -1,0 +1,2 @@
+(S (NP (DT Some) (JJ numerical) (NNS implementations)) (VP (VBP are) (ADVP (RB also)) (VP (VBN shown) (PP (IN for) (NP (DT these) (NNS methods))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NNS methods)) (PP (IN in) (NP (NN feature) (NN selection) (CC and) (NN extraction)))) (VP (VBP are) (VP (VBN compared))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN system)) (VP (VBZ is) (VP (VBN solved) (ADVP (RB iteratively)) (S (VP (VBG using) (NP (NNP GMRES)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP rely) (PP (IN on) (NP (NP (DT a) (JJ probabilistic) (NN parametrization)) (PP (IN of) (NP (DT the) (VBN proposed) (NN architecture)))))) (CC and) (VP (VB learn) (NP (DT the) (NN model)) (S (VP (VBG using) (NP (JJ stochastic) (JJ variational) (NN inference)))))) (. .))

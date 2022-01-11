@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN circuit)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (DT this) (JJ basic) (NN adder) (NN unit)))))) (. .))
+(S (NP (JJ Many) (NN research) (NNS works)) (VP (VBP have) (VP (VBN been) (VP (VBN devoted) (PP (IN in) (S (VP (VBG improving) (NP (NP (DT the) (NN delay)) (PP (IN of) (NP (DT the) (NN adder) (NN circuit)))))))))) (. .))

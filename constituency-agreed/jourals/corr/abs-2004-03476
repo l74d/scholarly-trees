@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN delay) (NN performance)) (PP (IN of) (NP (DT the) (NNP NOMA) (NNS users)))) (VP (VBZ is) (VP (VBN analyzed) (PP (IN by) (S (VP (VBG taking) (PP (IN into) (NP (NN consideration))) (NP (NP (DT the) (NN queueing) (NN delay) (NN violation) (NN probability)) (CC and) (NP (DT the) (NN transmission) (NN error) (NN probability)))))))) (. .))

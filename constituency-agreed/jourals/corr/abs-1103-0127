@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN index)))) (, ,) (NP (JJ critical) (NNS buses)) (VP (VBP are) (VP (VBN ranked))) (. .))
+(S (NP (NP (DT The) (NN bus)) (PP (IN with) (NP (JJS highest) (NN rank)))) (VP (VBZ is) (NP (DT the) (JJS weakest) (NN bus)) (SBAR (IN as) (S (NP (PRP it)) (VP (MD can) (VP (VB withstand) (NP (NP (DT a) (JJ small) (NN amount)) (PP (IN of) (NP (NN load)))) (PP (IN before) (S (VP (VBG causing) (NP (NN voltage) (NN collapse)))))))))) (. .))

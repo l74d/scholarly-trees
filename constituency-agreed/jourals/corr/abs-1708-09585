@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN report)) (VP (VBZ introduces) (NP (NP (NNP RCTW)) (, ,) (NP (NP (DT a) (JJ new) (NN competition)) (SBAR (WHNP (WDT that)) (S (VP (VBZ focuses) (PP (IN on) (NP (JJ Chinese) (NN text) (NN reading))))))))) (. .))
+(S (NP (CD 23) (JJ valid) (NNS submissions)) (VP (VBD were) (VP (VBN received) (PP (IN from) (NP (CD 19) (NNS teams))))) (. .))

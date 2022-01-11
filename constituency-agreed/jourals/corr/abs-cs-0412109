@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN procedure)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN dimensionality)) (PP (IN of) (NP (DT the) (NN problem))))) (ADVP (RB polynomially))))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN approach))) (NP (PRP we)) (VP (VBP use) (NP (NP (DT the) (NNS eigenvalues) (CC and) (NNS eigenvectors)) (PP (IN of) (NP (DT the) (NN connection) (NN matrix))))) (. .))

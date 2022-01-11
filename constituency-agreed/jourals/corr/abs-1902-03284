@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VP (VBZ focuses) (NP (NN attention)) (PP (IN in) (NP (DT the) (JJ human) (NN face)))) (CC and) (VP (VBZ uses) (NP (DT a) (JJ Gaussian) (NN space) (NN representation)) (PP (IN for) (NP (NN expression) (NN recognition))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN loss) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ creates) (NP (NP (DT a) (JJ Gaussian) (NN structure)) (PP (IN on) (NP (DT the) (NN representation) (NN space))))))))) (. .))

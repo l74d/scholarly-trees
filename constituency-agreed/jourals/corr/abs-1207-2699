@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN threshold)) (VP (VBZ is) (VP (VBN computed) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ statistical) (NN analysis)) (PP (IN of) (NP (DT the) (NN wavelet) (NNS coefficients)))))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (NP (DT a) (JJ new) (NN type)) (PP (IN of) (NP (JJ non-oblivious) (NN detection) (NN method)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

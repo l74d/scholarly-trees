@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (ADJP (RBR more) (JJ realistic)) (NN scenario)) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN user)) (VP (MD may) (VP (VB experience) (NP (JJ different) (NN link) (NN quality)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN case))) (, ,) (NP (DT the) (NN system) (NN performance)) (VP (MD would) (VP (VB be) (VP (VBN restricted) (PP (IN by) (NP (NP (DT the) (NN user)) (PP (IN with) (NP (DT the) (JJS worst) (NN channel) (NN condition)))))))) (. .))

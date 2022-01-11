@@ -1,0 +1,2 @@
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (NNP ACO)) (VP (VBZ considers) (NP (NP (DT the) (NN pheromone) (NN intensity)) (CC and) (NP (DT the) (NN evaporation) (NNS rates))) (PP (IN as) (NP (NP (DT the) (NNS parameters)) (PP (IN for) (S (VP (VBG selecting) (NP (DT a) (NN route)))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN process)) (VP (VBZ exhibits) (NP (NP (JJR better) (NN convergence) (NNS rates)) (, ,) (RB hence) (NP (JJR better) (NN usability))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Surprisingly)) (, ,) (NP (NP (DT the) (`` ``) (JJ standard) (NN library) ('' '')) (PP (IN of) (NP (JJS most) (NNS systems)))) (VP (VBP do) (RB not) (VP (VB make) (NP (NP (JJ pervasive) (NN use)) (PP (IN of) (NP (DT these) (NNS combinators)))))) (. .))

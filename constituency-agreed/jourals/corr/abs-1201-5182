@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NNP India))) (NP (NN education) (NN sector)) (VP (VBZ has) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS data)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB produce) (NP (JJ valuable) (NN information)))))))))) (. .))
+(S (NP (DT This) (NN information)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB increase) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NN education)))))))))) (. .))

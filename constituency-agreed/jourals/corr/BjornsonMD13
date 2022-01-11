@@ -1,0 +1,2 @@
+(S (NP (JJ Physical) (NNS transceivers)) (VP (VBP have) (NP (NP (NN hardware) (NNS impairments)) (SBAR (WHNP (WDT that)) (S (VP (VBP create) (NP (NP (NNS distortions)) (SBAR (WHNP (WDT which)) (S (VP (VBP degrade) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN communication) (NNS systems))))))))))))) (. .))
+(S (NP (NP (DT A) (JJ similar) (NN analysis)) (PP (IN for) (NP (DT the) (JJ ergodic) (NN capacity)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN pursued) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (JJ new) (JJ upper) (NNS bounds))))))) (. .))

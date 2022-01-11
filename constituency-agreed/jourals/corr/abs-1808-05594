@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (DT a) (JJ finite) (NN range)) (PP (IN of) (NP (NN optimization) (NNS parameters))))) (, ,) (NP (NP (DT a) (JJ large) (NN set)) (PP (IN of) (NP (CD 360) (NNS gaits)))) (VP (MD can) (VP (VB be) (VP (VBN generated) (PP (IN for) (NP (DT this) (NN model)))))) (. .))

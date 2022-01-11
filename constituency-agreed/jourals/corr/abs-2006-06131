@@ -1,0 +1,1 @@
+(S (S (NP (NNS Users)) (VP (VBP define) (NP (NN security) (NNS policies)))) (CC and) (S (NP (DT these) (NNS policies)) (VP (VBP are) (ADVP (RB then)) (VP (VBN executed) (PP (IN by) (NP (DT the) (JJ localized) (NN security) (NNS modules)))))) (. .))

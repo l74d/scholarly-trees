@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (JJ theoretical) (NNS limits)) (PP (IN on) (NP (NN time) (NN delay) (NN estimation)))) (VP (VBP are) (VP (VBN reviewed))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB explain) (NP (DT the) (JJ theoretical) (NNS results))))))) (. .))

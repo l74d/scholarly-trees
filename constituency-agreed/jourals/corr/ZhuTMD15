@@ -1,0 +1,2 @@
+(S (NP (NNS Annotators)) (VP (VP (VBP outline) (CC and) (VBP name) (NP (NP (DT all) (JJ salient) (NNS regions)) (PP (IN in) (NP (DT the) (NN image))))) (CC and) (VP (VB specify) (NP (DT a) (JJ partial) (NN depth) (NN order)))) (. .))
+(S (NP (PRP We)) (VP (VBP create) (NP (NP (CD two) (NNS datasets)) (PP (IN for) (NP (JJ semantic) (JJ amodal) (NN segmentation))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP verify) (NP (NP (DT the) (NN convergence)) (, ,) (NP (JJ online) (NN adaptability)) (, ,) (CC and) (NP (NP (DT the) (NN equivalence)) (PP (IN between) (NP (NP (DT the) (JJ primal) (NN algorithm)) (CC and) (NP (DT the) (JJ dual) (NN algorithm)))))) (PP (IN with) (NP (JJ numerical) (NNS experiments)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Semantic) (NN segmentation)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN component)) (PP (IN in) (NP (NP (DT the) (NN perception) (NNS systems)) (PP (IN of) (NP (JJ autonomous) (NNS vehicles))))))) (. .))
+(S (PP (IN With) (NP (DT these) (NNS improvements))) (NP (PRP$ our) (NN model)) (VP (VBZ outperforms) (NP (DT the) (JJ current) (JJS best) (NN method)) (PP (IN on) (NP (DT the) (NNP SemanticKITTI) (NN benchmark))) (, ,) (S (VP (VBG reaching) (NP (NP (DT an) (NN mIoU)) (PP (IN of) (NP (CD 63.1))))))) (. .))

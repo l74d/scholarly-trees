@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN motion) (NN compensation))) (, ,) (NP (JJ fractional) (NN interpolation)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (JJR more) (NN reference) (NNS blocks)) (PP (IN at) (NP (JJ sub-pixel) (NN level)))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP have) (VP (VBN identified) (NP (NP (DT the) (NN interpolation) (NN efficiency)) (PP (IN of) (NP (PRP$ our) (NNP GVTCNN)))))) (. .))

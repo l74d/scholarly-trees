@@ -1,0 +1,3 @@
+(S (S (NP (DT The) (NN network)) (VP (MD can) (VP (VB have) (NP (JJ different) (NNS states))))) (, ,) (CC and) (S (NP (DT the) (NNS tasks)) (VP (VBP are) (PP (IN of) (NP (JJ different) (NNS types))))) (. .))
+(S (NP (PRP We)) (VP (VBP model) (NP (DT the) (NN problem)) (PP (IN as) (NP (NP (DT a) (JJ multi-state) (JJ stochastic) (JJ cooperative) (NN game)) (PP (IN with) (NP (NN state) (NN uncertainty)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP use) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NP (JJ deterministic) (NN equivalence)) (CC and) (NP (JJ sequential) (NN core))))) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN problem)))))) (. .))

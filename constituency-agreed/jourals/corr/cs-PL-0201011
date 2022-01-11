@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (JJ abstract) (NN interpretation) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ automates) (NP (DT the) (JJ latter) (NN technique))))))) (. .))
+(S (NP (NP (JJ Other) (NNS applications)) (PP (IN of) (NP (DT the) (NN analysis)))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (S (NP (DT A) (NN correctness) (NN argument)) (VP (VBZ is) (VP (VBN presented)))) (CC and) (S (NP (DT an) (NN implementation)) (VP (VBZ is) (VP (VBN reported)))) (. .))

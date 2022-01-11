@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN perception) (NN system)) (PP (IN of) (NP (DT an) (JJ autonomous) (NN vehicle)))) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG mapping) (NP (NN sensor) (NNS observations)) (PP (IN into) (NP (NP (DT a) (JJ semantic) (NN description)) (PP (IN of) (NP (NP (DT the) (NN vehicle) (POS 's)) (NN environment)))))))))) (. .))

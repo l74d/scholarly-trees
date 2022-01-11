@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (DT the) (JJ orthogonal) (NN precoding)) (VP (VBZ outperforms) (NP (PRP$ its) (JJ unitary) (NN counterpart)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (JJ achievable) (NN rate)) (, ,) (NP (NN outage) (NN probability)) (, ,) (CC and) (NP (NN error) (NN rate))))))) (. .))

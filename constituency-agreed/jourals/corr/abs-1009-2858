@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (NN benefit)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN complexity)) (VP (VBZ does) (RB not) (VP (VB grow) (PP (IN with) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS flows)))))))))) (. .))
+(S (NP (NP (DT The) (JJ other) (JJ major) (NN contribution)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (NP (NP (DT the) (JJ new) (JJ analytical) (NN formulation)) (PP (IN of) (NP (DT the) (NN performance) (NNS metrics))))) (. .))

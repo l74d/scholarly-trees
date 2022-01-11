@@ -1,0 +1,2 @@
+(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (NP (DT the) (JJ general) (NNS dynamics)) (PP (IN of) (NP (JJ nonholonomic) (NNS vehicles)))) (VP (VBP are) (VP (VBN considered))) (. .))
+(S (NP (DT A) (JJ numerical) (NN simulation)) (VP (VBZ validates) (NP (DT the) (VBN proposed) (NN strategy))) (. .))

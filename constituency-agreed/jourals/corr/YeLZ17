@@ -1,0 +1,3 @@
+(S (NP (JJ Other) (JJ efficient) (JJ stochastic) (JJ second) (NN order) (NNS methods)) (VP (VBP are) (ADVP (RB also)) (VP (VBN proposed))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB fill) (NP (DT these) (NNS gaps)))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN framework)))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (PRP$ our) (JJ theoretical) (NNS results)) (SBAR (WHNP (WDT which)) (S (VP (VBP match) (NP (NP (DT the) (NN performance)) (PP (IN in) (NP (JJ real) (NNS applications)))) (ADVP (RB well))))))) (. .))

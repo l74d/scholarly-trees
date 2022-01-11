@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN of) (NP (NP (JJ blind) (NN estimation)) (PP (IN of) (NP (NP (NN noise) (NN variance)) (PP (IN in) (NP (DT a) (JJ single) (ADJP (RB highly) (JJ textured)) (NN image)))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (PP (IN For) (NP (DT the) (NNP DCT) (NNS coefficients))) (, ,) (NP (NP (DT a) (JJ robust) (NN estimate)) (PP (IN of) (NP (NN noise) (NN variance)))) (VP (VBZ is) (VP (VBN calculated))) (. .))

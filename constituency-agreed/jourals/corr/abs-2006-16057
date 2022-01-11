@@ -1,0 +1,3 @@
+(S (NP (NP (NNS Inks)) (PP (IN of) (NP (JJ different) (NNS materials)))) (VP (VBP exhibit) (NP (JJ different) (JJ spectral) (NN signature)) (SBAR (RB even) (IN if) (S (NP (PRP they)) (VP (VBP have) (NP (DT the) (JJ same) (NN color)))))) (. .))
+(S (NP (NP (JJ Hyperspectral) (NN analysis)) (PP (IN of) (NP (NN document) (NNS images)))) (VP (VBZ allows) (NP (NP (NN identification) (CC and) (NN discrimination)) (PP (IN of) (NP (ADJP (RB visually) (JJ similar)) (NNS inks))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN analysis)))) (NP (JJ forensic) (NNS experts)) (VP (MD can) (VP (VB identify) (NP (NP (DT the) (NN authenticity)) (PP (IN of) (NP (DT the) (NN document)))))) (. .))

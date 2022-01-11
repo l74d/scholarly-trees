@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (JJ key) (NN notion)) (VP (VBN involved))) (VP (VBZ is) (NP (JJ local) (NN alertness)))) (: :) (S (NP (NNS nodes)) (VP (VBP monitor) (NP (NP (NN change)) (PP (IN within) (NP (PRP$ their) (NNS neighborhoods)))) (PP (IN at) (NP (DT each) (NN time) (NN step))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ financial) (JJ local) (NN alertness) (NN application)) (PP (IN for) (NP (JJ cointegrated) (NN stock) (NNS pairs))))))

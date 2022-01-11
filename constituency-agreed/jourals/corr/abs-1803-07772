@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP transform) (NP (DT the) (JJ fractional) (JJ objective) (NN function)) (PP (IN into) (NP (DT a) (JJ subtractive) (NN form)))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP utilize) (NP (JJ successive) (NN convex) (NN approximation) (NN approach))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VP (VBZ is) (ADJP (JJ unsupervised))) (CC and) (VP (VBZ is) (ADJP (JJ applicable)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN ground) (NN truth) (NNS labels)) (PP (IN of) (NP (NNS events)))) (VP (VBP are) (ADJP (JJ unavailable))))))) (. .))

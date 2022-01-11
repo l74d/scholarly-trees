@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ novel) (NN racing) (NN environment)) (PP (IN for) (NP (NNP OpenAI) (NNP Gym)))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (NP (DT The) (NN training)) (PP (IN of) (NP (NNP SPG)))) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (ADJP (RBR more) (JJ stable)) (SBAR (WHADVP (WRB when)) (S (NP (NNS actions)) (VP (VBP are) (VP (VBN weighted))))))))) (. .))

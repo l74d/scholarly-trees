@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ critical)) (NN requirement)) (PP (IN for) (NP (JJ widespread) (NN sensor) (NNS networks)))) (VP (VBZ is) (NP (NN power) (NN efficiency)) (SBAR (IN since) (S (NP (NN battery) (NN replacement)) (VP (VBZ is) (RB not) (ADJP (JJ viable)))))) (. .))
+(S (NP (NP (DT The) (NNS protocols)) (VP (VBN considered))) (VP (VBP are) (NP (NNP LEACH) (, ,) (NNP VGA) (CC and) (NNP PEGASIS))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT a) (NN comparison)) (PP (IN of) (NP (DT these) (NNS protocols)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN presented))) (. .))

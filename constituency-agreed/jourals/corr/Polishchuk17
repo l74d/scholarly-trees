@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN network) (NN system)) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT a) (JJ complex) (NN network)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNS flows)) (VP (VBP are) (VP (VBN moved))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (JJ complex) (NNS networks)) (PP (IN with) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NNS flows)))))) (VP (VBP generate) (NP (JJ various) (NN network) (NNS systems))))))) (. .))

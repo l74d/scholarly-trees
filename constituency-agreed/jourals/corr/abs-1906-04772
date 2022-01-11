@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (ADJP (RBR more) (JJ general)) (NN case))) (, ,) (NP (NN phrase) (NNS embeddings)) (VP (VBP have) (VP (VBN been) (VP (VBN trained) (PP (IN by) (S (VP (VBG minimizing) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NP (DT the) (NNS vectors)) (VP (VBG representing) (NP (NNS paraphrases)))))))))))) (. .))

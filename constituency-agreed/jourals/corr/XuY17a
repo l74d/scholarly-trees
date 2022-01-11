@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ adversarial) (NN feature) (NN adaptation) (NN technique)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN applied) (PP (IN during) (NP (DT the) (NN model) (NN training))) (S (VP (TO to) (VP (VB reduce) (NP (NN distribution) (NN mismatch))))))) (. .))

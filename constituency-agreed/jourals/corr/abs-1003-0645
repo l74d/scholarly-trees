@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN card) (NN image)) (VP (VBZ is) (VP (VBN split) (PP (IN into) (NP (JJ small) (NNS blocks))))) (. .))
+(S (NP (NP (DT Some)) (PP (IN of) (NP (DT these) (NNS blocks)))) (VP (VBP are) (VP (VBN classified) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN background))))) (PP (VBN based) (PP (IN on) (NP (NN intensity) (NN variance)))))) (. .))

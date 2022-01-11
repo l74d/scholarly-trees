@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN paper)) (VP (VBZ illustrates) (NP (NP (DT the) (NN interface)) (PP (IN of) (NP (NP (DT the) (NN tool)) (SBAR (S (NP (PRP we)) (VP (VBD developed) (PP (IN for) (NP (NN crowd) (NN sourcing))))))))))) (CC and) (S (NP (PRP we)) (VP (VBP explain) (NP (DT the) (NN annotation) (NN procedure)) (PP (IN in) (NP (NN detail))))) (. .))

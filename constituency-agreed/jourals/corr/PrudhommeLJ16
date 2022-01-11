@@ -1,0 +1,2 @@
+(S (NP (NNS Explanations)) (VP (VBP have) (VP (VBN been) (VP (VBN introduced) (PP (IN in) (NP (DT the) (JJ previous) (NN century)))))) (. .))
+(S (ADVP (RB Yet)) (, ,) (NP (NP (PRP$ their) (JJ efficient) (NN implementation)) (PP (IN into) (NP (NNP CSP) (NN solver)))) (VP (VBZ is) (ADVP (RB still)) (NP (DT a) (NN challenge))) (. .))

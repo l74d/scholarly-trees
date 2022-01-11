@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB address) (NP (DT these) (NNS issues)))))) (. .))
+(S (NP (DT The) (NN test) (NN bed)) (VP (VBZ takes) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (DT a) (JJ simulated) (NNP Pioneer) (NN robot)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB navigate) (PP (IN through) (NP (NN maze) (NNS worlds))) (S (VP (VBG detecting) (CC and) (VBG tracking) (NP (NN door) (NNS markers))))))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (VBN proposed) (NN watermarking) (NN method)) (PP (IN in) (NP (NN frequency) (NN domain)))) (VP (VBZ has) (NP (NP (JJ strong) (NN robustness)) (PP (IN against) (NP (NP (DT some) (NNS attacks)) (PP (JJ such) (IN as) (NP (NP (NN frame) (NN dropping)) (, ,) (NP (NN frame) (NN filtering)) (CC and) (NP (JJ lossy) (NN compression)))))))) (. .))

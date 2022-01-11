@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP leverage) (NP (NP (JJ distant) (NN supervision)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB train) (NP (PRP$ our) (NN model)) (S (VP (VBG using) (NP (NP (NNS images)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ different) (PP (IN from) (NP (DT the) (NN target) (NN domain)))))))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP are) (ADVP (RB often)) (VP (VBN compressed) (PP (IN in) (NP (NN memory))))) (. .))
+(S (ADVP (RB However)) (, ,) (SBAR (IN if) (S (NP (NP (DT the) (JJ subsequent) (NN processing)) (PP (IN of) (NP (DT the) (NNS integers)))) (VP (VBZ is) (ADJP (JJ slow))))) (, ,) (NP (NP (DT the) (NN effort)) (VP (VBN spent) (PP (IN on) (S (VP (VBG optimizing) (NP (VBG decoding) (NN speed))))))) (VP (MD can) (VP (VB be) (VP (VBN wasted)))) (. .))

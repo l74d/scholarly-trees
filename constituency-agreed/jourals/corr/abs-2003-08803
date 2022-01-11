@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (DT the) (JJ second) (NN phase))) (, ,) (NP (DT these) (NN candidate) (NNS regions)) (VP (VBP are) (VP (VBN refined) (PP (IN by) (NP (JJ multi-object) (NN loss) (NN function))) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN precision))))))) (. .))

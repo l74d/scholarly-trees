@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT every) (JJ planar) (NN graph)) (VP (VBZ is) (NP (NP (DT the) (NN intersection) (NN graph)) (PP (IN of) (NP (NP (JJ homothetic) (NNS triangles)) (PP (IN in) (NP (DT the) (NN plane)))))))))) (. .))

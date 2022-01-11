@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN difference)) (VP (VBZ consists) (PP (IN in) (S (VP (VBG swapping) (NP (DT the) (NN constraint)) (PP (IN with) (NP (DT the) (NN optimization) (NN criterion))))))) (. .))
+(S (NP (NP (DT An) (JJ exact) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (DT this) (NN problem)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

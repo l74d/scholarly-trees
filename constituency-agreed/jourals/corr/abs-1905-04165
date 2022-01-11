@@ -1,0 +1,1 @@
+(S (ADVP (RB Instead)) (, ,) (S (NP (DT a) (JJ colored) (JJ de-Bruijn) (NN graph)) (VP (VBZ is) (VP (VBN constructed)))) (, ,) (CC and) (S (NP (NP (NN information)) (PP (IN on) (NP (JJ common) (NNS subsequences)))) (VP (VBZ is) (VP (VBN extracted) (S (VP (TO to) (VP (VB infer) (NP (JJ phylogenetic) (NNS splits)))))))) (. .))

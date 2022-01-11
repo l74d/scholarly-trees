@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ functional) (NN regression) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBG learning) (NP (NP (DT a) (NN distribution)) (PP (IN over) (NP (JJ monotonic) (NNS functions))))))))) (VP (MD should) (VP (VB predict) (NP (DT a) (JJR larger) (NN value)) (PP (IN at) (NP (DT a) (JJR larger) (NN input))))) (. .))

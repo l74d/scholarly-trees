@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VP (VBG determining) (NP (NP (DT the) (JJ minimum) (NN number)) (PP (IN of) (NP (NNS buffers))))) (CC or) (VP (VBG verifying) (NP (DT a) (NN buffer) (NN assignment))))) (VP (VBP are) (NP (JJ intractable) (NNS problems)))))) (. .))

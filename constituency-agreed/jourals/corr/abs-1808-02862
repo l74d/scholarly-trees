@@ -1,0 +1,2 @@
+(S (NP (CD Three) (JJ peripheral) (NNS bobbins)) (VP (VBD were) (VP (VBN machined) (PP (IN in) (NP (NP (DT the) (NN cylinder)) (SBAR (WHPP (IN around) (WHNP (WDT which))) (S (NP (CD three) (NNS coils)) (VP (VBP have) (VP (VBN been) (VP (VBN wound)))))))))) (. .))
+(S (NP (DT The) (NN sensor)) (VP (VBD was) (VP (VBN pressed) (PP (IN against) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (NP (DT the) (NN object)) (SBAR (WHNP (WP$ whose) (NN stiffness)) (S (VP (VBD was) (VP (VBG going) (S (VP (TO to) (VP (VB be) (VP (VBN measured))))))))))))))) (. .))

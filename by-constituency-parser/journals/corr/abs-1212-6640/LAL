@@ -1,0 +1,5 @@
+(S (NP (NNS Spinlocks)) (VP (VBP are) (VP (ADVP (RB widely)) (VBN used) (PP (IN in) (NP (NN database) (NNS engines))) (PP (IN for) (NP (NNS processes) (NN synchronization))))) (. .))
+(S (NP (NNP KGX) (NNS mutexes)) (VP (VBZ is) (NP (NP (JJ new) (JJ retrial) (NNS spinlocks)) (VP (VBD appeared) (PP (IN in) (NP (JJ contemporary) (NNP Oracle) (NNS versions))) (PP (IN for) (NP (NN submicrosecond) (NN synchronization)))))) (. .))
+(S (NP (DT The) (NN mutex) (NN contention)) (VP (VBZ is) (ADVP (RB frequently)) (VP (VBN observed) (PP (IN in) (NP (ADJP (RB highly) (JJ concurrent)) (NNP OLTP) (NNS environments))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ explores) (SBAR (WHADVP (WRB how)) (S (NP (NNP Oracle) (FW mutexes)) (VP (NN operate) (, ,) (NN spin) (, ,) (CC and) (NN sleep))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ develops) (NP (JJ predictive) (JJ mathematical) (NN model))) (CC and) (VP (VBZ discusses) (NP (NP (NP (NNS parameters) (CC and) (NNS statistics)) (VP (VBN related) (PP (TO to) (NP (VB mutex) (NN performance) (NN tuning))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNS results)) (PP (IN of) (NP (NN contention) (NNS experiments))))))) (. .))

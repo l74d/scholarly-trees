@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ mathematical) (NN discussion)) (VP (VBZ is) (VP (VBN followed) (PP (IN by) (NP (NP (DT the) (NN description)) (PP (IN of) (NP (JJ computational) (NNS results))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NP (DT the) (NN problem)) (PP (IN for) (NP (JJ finite) (NNS groups))))))) (. .))

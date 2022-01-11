@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (NN style)) (VP (MD can) (VP (VB be) (VP (VBN regarded) (PP (IN as) (NP (NP (DT a) (NN feature)) (PP (IN of) (NP (DT the) (JJ overall) (NN outfit))))))))))) (. .))
+(S (PP (IN In) (NP (DT a) (NN style) (NN extraction) (NN task))) (, ,) (NP (DT the) (VBN proposed) (NN model)) (VP (VBD extracted) (NP (DT some) (ADJP (RB easily) (JJ distinguishable)) (NNS styles))) (. .))

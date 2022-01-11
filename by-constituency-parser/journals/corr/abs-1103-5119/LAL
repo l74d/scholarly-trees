@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (NN communication) (NN system)) (PP (IN for) (NP (NP (DT the) (NNS tiles)) (PP (IN of) (NP (NP (DT the) (NN heptagrid)) (, ,) (NP (NP (DT a) (NN tiling)) (PP (IN of) (NP (DT the) (JJ hyperbolic) (NN plane)))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (MD can) (VP (VB be) (VP (VBN extended) (PP (TO to) (NP (NP (JJ other) (NNS tilings)) (PP (IN of) (NP (DT this) (NN plane)))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT an) (JJ actual) (NN implementation)) (PP (IN at) (NP (DT the) (NN programming) (NN stage))))) (PP (IN with) (NP (NP (DT a) (JJ short) (NN account)) (PP (IN of) (NP (CD two) (NNS experiments)))))) (. .))

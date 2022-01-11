@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ invertible) (NN function)) (VP (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (DT a) (VBN modified) (NN softmax))))) (CC and) (VP (MD can) (VP (VB incorporate) (NP (NP (JJ diverse) (NNS transformations)) (SBAR (WHNP (WDT that)) (S (VP (VBP serve) (NP (JJ different) (JJ specific) (NNS purposes))))))))) (. .))

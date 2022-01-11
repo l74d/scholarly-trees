@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (NN performance) (NNS metrics))) (, ,) (NP (PRP we)) (VP (VBP plot) (NP (DT the) (JJ global) (NN discretization) (NN error)) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (DT the) (JJ numerical) (NN complexity)))))) (. .))
+(S (NP (DT The) (JJ ballistic) (NN update)) (ADVP (RB always)) (VP (VBZ prevails) (NP (NP (NNP Euler) (POS 's)) (NN method)) (SBAR (IN although) (S (NP (DT both)) (VP (VBP are) (PP (IN of) (NP (JJ first) (NN order))))))) (. .))

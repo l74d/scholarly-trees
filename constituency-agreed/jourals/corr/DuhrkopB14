@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Metabolites)) (, ,) (NP (NP (JJ small) (NNS molecules)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN involved) (PP (IN in) (NP (JJ cellular) (NNS reactions)))))))) (, ,)) (VP (VB provide) (NP (NP (DT a) (JJ direct) (JJ functional) (NN signature)) (PP (IN of) (NP (JJ cellular) (NN state))))) (. .))
+(S (S (VP (TO To) (VP (VB obtain) (NP (ADJP (RB biochemically) (JJ meaningful)) (NNS results))))) (VP (VBZ requires) (NP (DT an) (JJ elaborate) (NN optimization) (NN function))) (. .))

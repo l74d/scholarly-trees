@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB outperform) (NP (JJ previous) (ADJP (JJ unsupervised) (CC and) (JJ semi-supervised)) (NN depth) (NN completion) (NNS methods)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN accuracy)))))))))) (. .))

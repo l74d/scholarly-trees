@@ -1,0 +1,2 @@
+(S (NP (NNP Software)) (VP (VBZ becomes) (ADJP (JJ responsible) (PP (IN for) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (JJ critical) (NNS functions)) (PP (IN of) (NP (NNS systems))))))))) (. .))
+(S (NP (NNP FTA) (CC and) (NNP FMEA)) (VP (VBP are) (ADVP (RBS most) (RB commonly)) (VP (VBN used) (PP (IN by) (NP (NN safety) (NNS analysts))))) (. .))

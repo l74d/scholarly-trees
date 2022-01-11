@@ -1,0 +1,1 @@
+(S (ADVP (RB Generally)) (, ,) (NP (NP (DT the) (NN function) (NN value)) (PP (IN for) (NP (DT a) (NN test) (NN input)))) (VP (VBZ is) (VP (VBN estimated) (PP (IN by) (NP (NP (DT a) (JJ weighted) (NN average)) (PP (IN of) (NP (DT the) (VBG surrounding) (NN training) (NNS examples))))))) (. .))

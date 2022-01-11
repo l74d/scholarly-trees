@@ -1,0 +1,4 @@
+(S (NP (NP (NNS Quadrics)) (PP (IN in) (NP (NP (DT the) (NNP Grassmannian)) (PP (IN of) (NP (NP (NNS lines)) (PP (IN in) (NP (JJ 3-space)))))))) (VP (NN form) (NP (DT a) (JJ 19-dimensional) (JJ projective) (NN space))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN subvariety)) (PP (IN of) (NP (NN coisotropic) (NNS hypersurfaces))))) (. .))
+(S (S (VP (VBG Following) (NP (NNP Gel'fand) (, ,) (NNP Kapranov) (CC and) (NNP Zelevinsky)))) (, ,) (NP (PRP it)) (VP (VBZ decomposes) (PP (IN into) (NP (NP (NP (NNP Chow) (NNS forms)) (PP (IN of) (NP (NN plane) (NNS conics)))) (, ,) (NP (NP (NNP Chow) (NNS forms)) (PP (IN of) (NP (NP (NNS pairs)) (PP (IN of) (NP (NNS lines)))))) (, ,) (CC and) (NP (NP (NNP Hurwitz) (NNS forms)) (PP (IN of) (NP (JJ quadric) (NNS surfaces))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compute) (NP (NP (DT the) (NNS ideals)) (PP (IN of) (NP (DT these) (NNS loci))))) (. .))

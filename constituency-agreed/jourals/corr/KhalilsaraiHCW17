@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN simulation) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN estimator)) (VP (VBZ has) (NP (NP (DT a) (JJ good) (NN performance)) (ADJP (JJ comparable) (PP (IN with) (NP (NP (DT that)) (PP (IN of) (NP (DT the) (NNP MMSE) (NN estimator))))))))))) (. .))

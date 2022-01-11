@@ -1,0 +1,1 @@
+(S (SBAR (IN Although) (S (NP (JJ theoretical) (NN work)) (VP (VBZ proves) (SBAR (IN that) (S (NP (JJ certain) (NN storage) (NNS policies)) (VP (VBP behave) (ADVP (RB optimally)) (PP (IN for) (NP (DT some) (NNS workloads))))))))) (, ,) (NP (DT these) (NNS policies)) (ADVP (RB often)) (VP (VBP behave) (ADVP (RB poorly)) (PP (IN in) (NP (NN practice)))) (. .))

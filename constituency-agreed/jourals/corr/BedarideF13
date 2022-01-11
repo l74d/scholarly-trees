@@ -1,0 +1,2 @@
+(S (NP (JJ Aperiodic) (NNS tilings)) (VP (VBP are) (NP (NP (JJ non-periodic) (NNS tilings)) (VP (VBN defined) (PP (IN by) (NP (JJ local) (NNS rules)))))) (. .))
+(S (NP (DT A) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NN condition)) (VP (VBZ is) (VP (VBN obtained) (PP (IN for) (NP (NP (NNS tilings)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN in) (NP (DT the) (ADJP (CD four) (JJ dimensional)) (NNP Euclidean) (NN space)))))))))))) (. .))

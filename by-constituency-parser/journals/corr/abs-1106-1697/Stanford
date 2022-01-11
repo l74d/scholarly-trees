@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ brief)) (VP (VBZ presents) (NP (NP (DT a) (JJ simple) (NN derivation)) (PP (IN of) (NP (NP (DT the) (ADJP (NP (JJ standard) (NN model)) (HYPH -) (JJ free)) (NN control)) (PP (IN for) (NP (DT the) (JJ non-minimum) (NN phase) (NNS systems))))))) (. .))
+(S (NP (NP (DT The) (NN robustness)) (PP (IN of) (NP (DT the) (JJ proposed) (NN method)))) (VP (VBZ is) (VP (VBN studied) (PP (IN in) (NP (NN simulation))) (S (VP (VBG considering) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (VBN switched) (NNS systems)))))))) (. .))

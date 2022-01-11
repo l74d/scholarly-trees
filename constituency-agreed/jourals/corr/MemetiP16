@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (DT each) (NN system) (NN configuration)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN suggested) (PP (IN by) (NP (JJ combinatorial) (NN optimization))))))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NN machine) (NN learning)) (PP (IN for) (NP (NP (NN evaluation)) (PP (IN of) (NP (DT the) (NN system) (NN performance)))))) (. .))

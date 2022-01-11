@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (VBN shared) (NN task)) (PP (IN on) (NP (NP (NNS methodologies) (CC and) (NNS algorithms)) (PP (IN for) (S (VP (VBG evaluating) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (ADJP (VBN generated)) (NNS texts)))))))))) (. .))
+(S (NP (NNS Participants)) (VP (MD will) (VP (VB measure) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NP (NML (NN basketball) (NN game)) (NNS summaries)) (VP (VBN produced) (PP (IN by) (NP (NNP NLG) (NNS systems))) (PP (IN from) (NP (NML (NN basketball) (NN box)) (NN score) (NNS data))))))))) (. .))

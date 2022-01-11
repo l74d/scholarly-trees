@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ indicates) (SBAR (IN that) (S (NP (NP (JJ future) (NN word) (NN context) (NN information)) (PP (IN beyond) (NP (DT the) (NN word) (NN history)))) (VP (MD can) (VP (VB be) (ADJP (JJ useful))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NN performance) (NNS improvements)) (VP (MD can) (VP (VB be) (VP (VBN obtained) (S (VP (VBG using) (NP (NP (NN lattice) (NN rescoring)) (CC and) (NP (JJ subsequent) (NN confusion) (NN network) (NN decoding)))))))) (. .))

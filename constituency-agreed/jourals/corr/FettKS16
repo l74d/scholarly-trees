@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG proving) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NNP OAuth)))) (PP (IN in) (NP (PRP$ our) (NN model)))))) (, ,) (NP (PRP we)) (VP (VBD discovered) (NP (NP (CD four) (NNS attacks)) (SBAR (WHNP (WDT which)) (S (VP (VBP break) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NNP OAuth))))))))) (. .))

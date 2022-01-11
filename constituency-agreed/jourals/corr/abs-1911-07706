@@ -1,0 +1,2 @@
+(S (NP (NNP TruPreTar)) (VP (VBZ possesses) (NP (NP (CD four) (JJ important) (ADJP (JJ economic) (CC and) (JJ computational)) (NNS properties)) (PP (JJ such) (IN as) (NP (NP (NN truthfulness)) (CC and) (NP (NN budget) (NN feasibility)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (SBAR (WHADVP (RB even) (WRB when)) (S (NP (DT the) (NN payment) (NN budget)) (VP (VBZ is) (ADJP (JJ tight))))) (, ,) (NP (DT the) (JJ total) (NN revenue)) (ADVP (RB still)) (VP (VBZ exceeds) (CC or) (VBZ equals) (NP (DT the) (NN budget)))))) (. .))

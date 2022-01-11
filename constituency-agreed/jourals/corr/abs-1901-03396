@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN paper)) (ADVP (RB also)) (VP (VBZ shows) (SBAR (IN that) (S (NP (JJ standard) (NNP GAN) (NN evaluation) (NNS metrics)) (VP (VBP fail) (S (VP (TO to) (VP (VB capture) (NP (NN memorization)) (PP (IN for) (NP (DT some) (JJ deep) (NNS generators)))))))))) (. .))

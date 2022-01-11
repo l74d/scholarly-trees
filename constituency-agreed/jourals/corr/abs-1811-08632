@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (JJ spatial) (NN structure)) (PP (IN of) (NP (NN rain))))))) (NP (PRP we)) (VP (VBP use) (NP (JJ dilated) (NNS convolutions)) (PP (IN as) (NP (PRP$ our) (JJ basic) (NN network) (NN block)))) (. .))

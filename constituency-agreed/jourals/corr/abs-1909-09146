@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN setting))) (, ,) (NP (DT the) (JJ unknown) (NN regression) (NN parameter)) (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB vary) (PP (IN in) (NP (NN time)))))))) (. .))
+(S (NP (DT This) (NN rate)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ optimal))))))) (. .))

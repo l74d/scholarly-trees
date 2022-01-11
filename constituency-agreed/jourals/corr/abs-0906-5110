@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG validating) (NP (NP (NNS implementations)) (PP (IN of) (NP (JJ randomized) (NNS protocols))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN used) (S (VP (TO to) (VP (VB approximate) (NP (NP (DT the) (NN leakage)) (PP (IN of) (NP (NN secret))))))))) (. .))

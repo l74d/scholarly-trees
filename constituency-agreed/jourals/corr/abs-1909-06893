@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NNP MBSS)) (VP (VBZ introduces) (NP (NP (DT a) (NN sampling) (NN error)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB manifest) (PP (IN as) (NP (NP (DT a) (NN bias) (CC or) (NN variance)) (PP (IN in) (NP (DT a) (NN line) (NN search))))))))))) (. .))

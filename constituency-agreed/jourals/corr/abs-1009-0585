@@ -1,0 +1,2 @@
+(S (NP (NNP Wireless) (NN sensor) (NNS networks)) (VP (VBP are) (NP (NP (NNS collections)) (PP (IN of) (NP (NP (JJ large) (NN number)) (PP (IN of) (NP (NN sensor) (NNS nodes))))))) (. .))
+(S (NP (DT These) (NNS attacks)) (VP (MD can) (VP (VB inject) (NP (JJ malicious) (NNS packets)) (PP (IN by) (S (VP (VBG compromising) (NP (DT the) (NN node))))))) (. .))

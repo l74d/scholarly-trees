@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (FRAG (ADJP (JJ phenomenal)))) (, ,) (NP (DT this) (NN growth) (NN spurt)) (VP (VBZ has) (VP (VBN created) (NP (JJ new) (NN security) (NNS threats)))) (. .))
+(S (PP (IN In) (NP (NP (NN light)) (PP (IN of) (NP (DT these) (JJ new) (JJ cyber-physical) (NNS threats))))) (, ,) (NP (DT this) (NN text)) (VP (VBZ proposes) (NP (NP (DT a) (NN security) (NN measure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ promises) (S (VP (TO to) (VP (VB enhance) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (JJ cyber-physical) (NNS systems)))))))))))) (. .))

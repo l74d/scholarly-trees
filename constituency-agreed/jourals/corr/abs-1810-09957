@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP NSML)) (VP (VBZ furnishes) (NP (NP (JJ convenient) (NN visualization) (NNS tools)) (SBAR (WHNP (WDT which)) (S (VP (VBP assist) (NP (DT the) (NNS users)) (PP (IN in) (S (VP (VBG analyzing) (NP (PRP$ their) (NN work)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB verify) (NP (NP (DT the) (NN usefulness) (CC and) (NN accessibility)) (PP (IN of) (NP (NNP NSML))))))) (, ,) (NP (PRP we)) (VP (VBD performed) (NP (DT some) (NNS experiments)) (PP (IN with) (NP (JJ common) (NNS examples)))) (. .))

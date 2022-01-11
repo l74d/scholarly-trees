@@ -1,0 +1,2 @@
+(S (NP (PRP$ Its) (NN logic)) (VP (VBZ is) (ADJP (JJ quantitative)) (, ,) (PP (IN with) (NP (JJ fuzzy) (NNS predicates)))) (. .))
+(S (NP (PRP It)) (VP (VBZ includes) (NP (NP (NN normalisation) (CC and) (NN conditioning)) (PP (IN of) (NP (NNS states))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Among) (NP (DT the) (JJ social) (NNS networks))) (, ,) (NP (NNP Twitter)) (VP (VBZ offers) (NP (NP (DT a) (ADJP (RB particularly) (JJ large)) (NN set)) (PP (IN of) (NP (NP (NNS data)) (ADJP (RB publicly) (JJ available)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP illustrate) (SBAR (WHADVP (WRB how)) (S (NP (JJ geolocated) (NNS tweets)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN mobility)) (PP (IN of) (NP (NP (NNS people)) (PP (IN in) (NP (JJ urban) (NNS areas))))))))))))))) (. .))

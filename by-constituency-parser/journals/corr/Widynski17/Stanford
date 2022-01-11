@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN implementation)) (PP (IN of) (NP (NP (NNP John) (NNP von) (NNP Neumann) (POS 's)) (NML (JJ middle) (JJ square) (JJ random) (NN number)) (NN generator)))) (PRN (-LRB- -LRB-) (NP (NN RNG)) (-RRB- -RRB-))) (. .))
+(S (NP (DT A) (NN Weyl) (NN sequence)) (VP (VBZ keeps) (NP (NP (DT the) (NN generator)) (VP (VBG running) (PP (IN through) (NP (DT a) (JJ long) (NN period)))))) (. .))

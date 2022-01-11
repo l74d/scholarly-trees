@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP adapt) (NP (NP (DT the) (JJ operational) (NNS semantics)) (PP (IN of) (NP (NNP Curry)))) (S (VP (TO to) (VP (VB interpret) (NP (NNS programs)) (ADVP (RB coinductively)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP suggest) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ declarative) (NNS semantics)) (VP (MD can) (VP (VB be) (VP (VBN adapted) (ADVP (RB suitably)))))))) (. .))

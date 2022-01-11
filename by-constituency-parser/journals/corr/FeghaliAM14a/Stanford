@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (S (VP (VBG deciding) (SBAR (IN whether) (S (NP (DT a) (NN graph)) (VP (VBZ is) (ADJP (JJ partitionable)))))))))) (. .))
+(S (PP (IN In) (NP (NN contrast))) (NP (NP (DT a) (JJ finite) (NN list)) (PP (IN of) (NP (ADJP (JJ forbidden) (VBN induced)) (NN subgraphs)))) (VP (VBZ is) (VP (VBN given) (PP (IN for) (NP (JJ partitionable) (NNS cographs))))) (. .))

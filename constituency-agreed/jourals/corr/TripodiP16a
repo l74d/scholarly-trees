@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN game) (JJ theoretic) (NN model)) (PP (IN for) (NP (NN document) (NN clustering))))) (. .))
+(S (NP (NP (DT The) (NN evaluation)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBD was) (VP (VBN conducted) (PP (IN on) (NP (NP (CD 13) (NN document) (NNS datasets)) (VP (VBG using) (NP (JJ different) (NNS settings))))))) (. .))

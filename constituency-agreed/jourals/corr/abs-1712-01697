@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (JJ considerable) (NN number)) (PP (IN of) (NP (NP (JJ current) (NNS methods)) (PP (IN of) (NP (NN analysis)))))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (JJ parametric) (NNS statistics))))) (. .))
+(S (ADVP (RB Alternatively)) (, ,) (NP (NP (DT some) (NNS methods)) (PP (IN in) (NP (NNP Computational) (NNP Intelligence)))) (VP (VBP are) (VP (VBN inspired) (PP (IN by) (NP (NP (NN biology)) (CC and) (NP (JJ other) (NNS sciences)))))) (. .))
+(S (NP (DT The) (NN classification) (NNS results)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (JJ usual) (NN analysis)) (PP (IN of) (NP (DT the) (JJ apparent) (NN diffusion) (NN coefficient) (NN map))))))))) (. .))

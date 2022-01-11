@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PRP$ our) (NN case))) (, ,) (NP (DT the) (NNS projections)) (VP (VBP are) (VP (VBN estimated) (PP (IN by) (NP (DT a) (JJ non-linear) (JJ deep) (JJ neural) (NN network))))) (. .))
+(S (S (NP (CD Three) (JJ different) (NN link) (NNS functions)) (VP (VBP are) (VP (VBN studied) (PP (IN in) (NP (DT the) (JJ experimental) (NN study)))))) (, ,) (CC and) (S (NP (DT the) (NNS results)) (VP (VBP are) (VP (VBN contrasted) (PP (IN with) (NP (JJ statistical) (NN analysis)))))) (. .))

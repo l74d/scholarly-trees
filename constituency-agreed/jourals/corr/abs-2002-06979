@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ little) (JJ theoretical) (NN analysis)) (VP (VBD was) (VP (VBN known) (PP (IN for) (NP (DT this) (NN framework))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN optimization)) (PP (IN of) (NP (JJ deep) (JJ unsupervised) (JJ contrastive) (NN learning))))) (. .))

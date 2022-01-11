@@ -1,0 +1,1 @@
+(S (NP (NNP Software) (NN defect) (NN prediction)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB help) (S (NP (NNS developers)) (VP (VP (VB find) (NP (NNS faults))) (CC and) (VP (VB prioritize) (NP (PRP$ their) (NN testing) (NNS efforts))))))))))) (. .))

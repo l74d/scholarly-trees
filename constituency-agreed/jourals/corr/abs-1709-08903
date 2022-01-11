@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (VBG remaining) (NNS rules)) (PP (IN of) (NP (DT the) (NN language)))))) (VP (VBP are) (ADVP (RB indeed)) (ADJP (JJ necessary)))))) (. .))
+(S (NP (PRP We)) (VP (VBP do) (ADVP (RB however)) (VP (VB leave) (PP (IN as) (NP (DT an) (JJ open) (NN question))) (NP (NP (DT the) (NN necessity)) (PP (IN of) (NP (CD two) (NNS rules)))))) (. .))

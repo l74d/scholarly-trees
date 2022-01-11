@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT these) (NNS works))) (, ,) (NP (DT the) (JJ global) (NN context) (NN information)) (VP (VBZ is) (VP (VBN incorporated) (PP (IN into) (NP (JJ local) (NNS features))) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP are) (VP (VBN fed) (PP (IN into) (NP (JJ convolutional) (NNS layers))))))))) (. .))

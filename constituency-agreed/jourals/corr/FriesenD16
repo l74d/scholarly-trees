@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS variables)) (SBAR (S (VP (TO to) (VP (VB set)))))) (VP (VBP are) (VP (VBN chosen) (PP (IN by) (NP (NN graph) (NN partitioning))) (, ,) (S (VP (VBG ensuring) (NP (NN decomposition)) (SBAR (WHADVP (WRB whenever)) (FRAG (ADJP (JJ possible)))))))) (. .))

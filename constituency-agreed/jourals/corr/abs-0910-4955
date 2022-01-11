@@ -1,0 +1,2 @@
+(S (NP (DT The) (CD two) (NNS encoders)) (VP (VBP make) (NP (NP (JJ distinct) (JJ partial) (NNS observations)) (PP (IN of) (NP (DT a) (NNP Markov) (NN source))))) (. .))
+(S (NP (DT Each) (NN encoder)) (VP (MD must) (VP (VB encode) (NP (PRP$ its) (NNS observations)) (PP (IN into) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (JJ discrete) (NNS symbols))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (NP (NN momentum) (NNS variants)) (PP (IN of) (NP (NP (JJ several)) (PP (IN of) (NP (DT these) (NNS methods)))))) (VP (VBP are) (VP (VBN studied))))))) (. .))
+(S (NP (PRP We)) (VP (VBP choose) (S (VP (TO to) (VP (VB perform) (NP (PRP$ our) (NN analysis)) (PP (IN in) (NP (NP (DT a) (NN setting)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT all)) (PP (IN of) (NP (DT the) (JJ above) (NNS methods)))) (VP (VBP are) (ADJP (JJ equivalent))))))))))) (. .))

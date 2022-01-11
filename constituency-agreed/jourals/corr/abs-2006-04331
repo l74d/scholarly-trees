@@ -1,0 +1,2 @@
+(S (ADVP (RB Yet)) (, ,) (NP (NP (JJ substantial) (NN tuning)) (PP (IN of) (NP (NNS weights)))) (VP (VBZ is) (VP (VBN required) (PP (IN for) (NP (JJ good) (NNS results))))) (. .))
+(S (NP (PRP We)) (ADVP (RB instead)) (VP (VBP use) (NP (JJ randomized) (NN function) (NN approximation))) (. .))

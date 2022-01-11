@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN model)) (ADVP (RB also)) (VP (VBZ includes) (NP (NP (JJ individual) (NNS participants)) (CC and) (NP (PRP$ their) (NNS data) (NNS operations)))) (. .))
+(S (NP (NP (NN Implementation)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBZ is) (VP (VBN transferred) (S (VP (VBG using) (NP (NNP UML)))))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (CD 7) (NNS modules))))) (. .))

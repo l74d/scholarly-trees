@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN architecture)) (VP (MD must) (VP (VB contain) (NP (JJ several) (NN distance) (NNS algorithms)) (PP (VBG depending) (PP (IN on) (NP (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (JJ spectral) (NNS images)))) (CC and) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (DT the) (NN authentication))))))))) (. .))
+(S (NP (NP (DT The) (NN result)) (PP (IN of) (NP (DT a) (NNP RGB) (NN algorithm) (NN implementation)))) (VP (VBD was) (VP (VBN discussed))) (. .))

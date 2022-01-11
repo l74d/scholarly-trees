@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Several) (NNS works)) (VP (VBG dealing) (PP (IN with) (NP (NNP OLAP) (NN personalization))))) (VP (VBD were) (VP (VBN presented) (PP (IN in) (NP (DT the) (JJ last) (JJ few) (NNS years))))) (. .))
+(S (NP (NP (DT A) (NN benchmarking) (NN study)) (PP (IN of) (NP (NNP OLAP) (NN personalization) (NNS methods)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (JJ Several) (NN evaluation) (NNS criteria)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB identify) (NP (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NNS trends)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ potential) (NNS needs)) (PP (IN for) (NP (JJ further) (NNS investigations)))))))))) (. .))

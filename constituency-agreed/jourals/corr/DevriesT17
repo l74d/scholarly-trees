@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP start) (PP (IN with) (NP (VBG existing) (NNS data) (NNS points)))) (CC and) (VP (VB apply) (NP (NP (JJ simple) (NNS transformations)) (PP (JJ such) (IN as) (S (VP (VP (VBG adding) (NP (NN noise))) (, ,) (VP (VBG interpolating)) (, ,) (CC or) (VP (VBG extrapolating) (PP (IN between) (NP (PRP them)))))))))) (. .))

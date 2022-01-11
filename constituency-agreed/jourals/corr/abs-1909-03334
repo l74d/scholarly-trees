@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Several) (NNS defenses)) (PP (IN for) (NP (JJ adversarial) (NNS examples)))) (VP (VBP exist) (PP (IN in) (NP (DT the) (NN literature)))) (. .))
+(S (NP (DT These) (NNS defenses)) (VP (VBP use) (NP (DT a) (JJ generative) (NN model)) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (NN input) (NN distribution)))))) (. .))

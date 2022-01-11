@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (MD will) (VP (VB maintain) (NP (NP (NN non-singularity)) (PP (IN of) (NP (JJ hidden) (NN layer)))) (PP (IN for) (NP (NP (DT any) (JJ finite) (NN number)) (PP (IN of) (NP (NNS iterations)))))))))) (. .))

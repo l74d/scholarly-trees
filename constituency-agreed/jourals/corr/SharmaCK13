@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN data)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN stored) (PP (IN in) (NP (NN database))))) (. .))
+(S (CC But) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ potential) (NN disadvantage)) (PP (IN of) (NP (NN performance) (NN degradation))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBP apply) (NP (NN encryption)) (PP (IN on) (NP (NN database)))))) (ADVP (RB then)) (NP (PRP we)) (VP (MD should) (VP (VB compromise) (PP (IN between) (NP (NP (DT the) (NN security)) (CC and) (NP (JJ efficient) (NN query) (NN processing)))))) (. .))
+(S (NP (NP (DT The) (NN work)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ tries) (S (VP (TO to) (VP (VB fill) (NP (DT this) (NN gap)))))) (. .))

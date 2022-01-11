@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN framework)) (VP (VBZ identifies) (NP (CD four) (ADJP (JJ different) (CC but) (JJ complementary)) (NNS viewpoints))) (. .))
+(S (NP (DT Each) (NN view)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB capture) (NP (NP (DT a) (JJ particular) (NN aspect)) (PP (IN of) (NP (JJ situational) (NNS methods)))))))) (. .))
+(S (NP (NP (NNS Inter-relationships)) (PP (IN between) (NP (DT these) (NNS views)))) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (VBP influence) (NP (DT each) (JJ other)))))) (. .))

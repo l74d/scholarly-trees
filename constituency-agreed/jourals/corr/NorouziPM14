@@ -1,0 +1,2 @@
+(S (NP (JJ Formal) (NN method) (NNS techniques)) (VP (VBZ provides) (NP (NP (DT a) (JJ suitable) (NN platform)) (PP (IN for) (NP (NP (DT the) (NN software) (NN development)) (PP (IN in) (NP (NN software) (NNS systems))))))) (. .))
+(S (ADVP (RB Finally)) (PP (IN by) (S (VP (VBG using) (NP (DT some) (NNS definitions))))) (NP (PRP we)) (VP (VBP explain) (NP (NP (DT the) (NN way)) (SBAR (S (NP (DT these) (NNS behaviors)) (VP (VBP are) (VP (VBN mapped) (PP (IN on) (NP (DT each) (JJ other))) (PP (IN by) (S (VP (VBG using) (NP (PRP$ our) (JJ new) (NNS approaches))))))))))) (. .))

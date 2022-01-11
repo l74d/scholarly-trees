@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (NNP SVM)) (VP (VBZ needs) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (NP (DT a) (JJ quadratic) (NN program)) (SBAR (WHNP (WDT which)) (S (VP (VBP require) (NP (JJ specialized) (NN code))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP SVM)) (VP (VBZ has) (NP (NP (JJ many) (NNS parameters)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ affects) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP SVM) (NN classifier))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT an) (NN approach)) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB overcome) (NP (DT this) (NN problem)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN prediction)) (PP (IN of) (NP (JJ organic) (NN reaction) (NNS outcomes)))) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN problem)) (PP (IN in) (NP (JJ computational) (NN chemistry))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (NN model) (NN accuracy)) (VP (VBZ rivals) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN domain) (NNS experts)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS challenges)) (PP (IN of) (S (VP (VBG performing) (NP (DT this) (NN task)))))))) (VP (VBZ is) (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (NP (DT a) (NN dataset)) (PP (IN of) (NP (NP (JJ visual) (NNS stories)) (PP (IN in) (NP (JJ different) (NNS personas))))))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NNS experiments))) (NP (PRP we)) (VP (VBP use) (NP (CD five) (JJ different) (NNS personas)) (S (VP (TO to) (VP (VB guide) (NP (DT the) (NN generation) (NN process)))))) (. .))

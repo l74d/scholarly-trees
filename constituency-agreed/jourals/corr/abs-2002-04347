@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN study)) (VP (VBZ provides) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NN science)))) (PP (IN from) (NP (DT the) (NNP Wikipedia) (NN perspective)))) (. .))
+(S (NP (NP (DT A) (NN total)) (PP (IN of) (NP (NP (QP (CD 1) (CD 433) (CD 457)) (NNS references)) (ADJP (JJ available) (PP (IN at) (NP (NNP Altmetric.com))))))) (VP (VBP have) (VP (VBN been) (ADVP (RB initially)) (VP (VBN taken) (PP (IN into) (NP (NN account)))))) (. .))

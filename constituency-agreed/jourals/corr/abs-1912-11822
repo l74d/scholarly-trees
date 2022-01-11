@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT each) (NN decision) (NN time))) (, ,) (NP (NP (RB only) (DT the) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB achieve) (NP (DT the) (JJS best) (NN QoE))))))) (VP (VBZ is) (VP (VBN chosen) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN bitrate)) (PP (IN of) (NP (DT the) (VBN requested) (NN video) (NN segment))))))))) (. .))

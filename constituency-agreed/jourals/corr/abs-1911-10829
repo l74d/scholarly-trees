@@ -1,0 +1,2 @@
+(S (NP (VBG Existing) (NNS methods)) (VP (VP (VBP produce) (NP (ADJP (RB very) (JJ inefficient)) (NNS architectures))) (CC and) (VP (VBP do) (RB not) (VP (VB scale)))) (. .))
+(S (PP (IN Without) (NP (DT any) (JJ additional) (NN training) (NNS data))) (, ,) (NP (DT this) (NN transformation)) (VP (VBZ creates) (NP (NP (ADJP (RB very) (JJ efficient)) (JJ neural) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP learn) (NP (NP (DT the) (NN decision) (NNS boundaries)) (PP (IN of) (NP (DT a) (JJ random) (NN forest))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NN density) (NN map))) (, ,) (S (NP (DT each) (NN person)) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (DT a) (JJ Gaussian) (NN blob)))))) (, ,) (CC and) (S (NP (DT the) (JJ final) (NN count)) (VP (VBZ is) (VP (VBN obtained) (PP (IN from) (NP (NP (DT the) (NN integration)) (PP (IN of) (NP (DT the) (JJ whole) (NN map)))))))) (. .))

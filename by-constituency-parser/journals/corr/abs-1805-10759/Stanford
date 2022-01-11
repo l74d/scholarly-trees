@@ -1,0 +1,3 @@
+(S (NP (JJ Pointwise) (NN dimension)) (VP (VBZ is) (ADJP (JJ invariant) (PP (IN under) (NP (NP (DT a) (JJ broad) (NN class)) (PP (IN of) (NP (NNS transformations))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (ADJP (JJ dimensional)) (NN clustering)) (VP (MD can) (VP (VB be) (ADVP (RB usefully)) (VP (VBN applied) (PP (IN to) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NNS datasets)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (PRP$ our) (NN technique)))) (PP (IN to) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NP (JJ dynamical) (NNS systems)) (, ,) (NP (NNS images)) (, ,) (CC and) (NP (JJ complex) (JJ human) (NNS movements))))))) (. .))

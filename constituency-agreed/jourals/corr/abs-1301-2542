@@ -1,0 +1,2 @@
+(S (NP (NNS Moments)) (VP (VBP are) (NP (NP (JJ important) (NNS features)) (VP (VBN used) (PP (IN in) (NP (NP (NN recognition)) (PP (IN of) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NNS images)))))))))) (. .))
+(S (NP (CD Two) (NNS experiments)) (VP (VBP have) (VP (VBN been) (VP (VBN carried) (PRT (RP out)) (PP (IN for) (S (VP (VBG proving) (NP (NP (DT the) (NN worth)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))))))))) (. .))

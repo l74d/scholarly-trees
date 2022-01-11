@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN ability)) (PP (IN of) (NP (JJ autonomous) (NNS vehicles))) (S (VP (TO to) (VP (VB maintain) (NP (DT an) (JJ accurate) (NN trajectory)) (PP (IN within) (NP (PRP$ their) (NN road) (NN lane))))))) (VP (VBZ is) (ADJP (JJ crucial) (PP (IN for) (NP (JJ safe) (NN operation))))) (. .))
+(S (NP (JJ Lateral) (NNS lines)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN computed) (PP (IN from) (NP (NN camera) (NNS images))))) (. .))

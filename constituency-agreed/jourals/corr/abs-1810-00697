@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP appear) (PP (IN in) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NP (NNS applications)) (PP (JJ such) (IN as) (NP (NP (JJ smart) (NNS grids)) (, ,) (NP (NNS robotics)) (, ,) (NP (JJ intelligent) (NN manufacture)) (CC and) (NP (JJ medical) (NN monitoring))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ involves) (NP (NP (NP (DT the) (NN identification)) (PP (IN of) (NP (JJ physical) (NNS systems)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN inference)) (PP (IN of) (NP (NN transition) (NN logic)))))) (. .))

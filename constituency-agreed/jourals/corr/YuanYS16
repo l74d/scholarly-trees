@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN size)) (PP (IN of) (NP (DT the) (NN re-scaling)))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NN momentum) (NN parameter))))))) (. .))
+(S (PP (IN From) (NP (NNS simulations))) (, ,) (NP (NP (DT the) (NN equivalence)) (PP (IN between) (NP (NP (NN momentum)) (CC and) (NP (JJ standard) (JJ stochastic) (NN gradient) (NNS methods))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN observed) (PP (IN for) (NP (ADJP (JJ non-differentiable) (CC and) (JJ non-convex)) (NNS problems))))) (. .))

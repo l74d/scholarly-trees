@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ explains) (SBAR (WHADVP (WRB how)) (S (NP (NN inference) (NNS problems)) (VP (VBP are) (VP (VBN represented) (PP (IN within) (NP (NP (NNS structures)) (VP (VBN known) (PP (IN as) (NP (JJ graphical) (NNS models))))))))))) (. .))
+(S (NP (NP (DT The) (JJ theoretical) (NN basis)) (PP (IN of) (NP (DT the) (NN belief) (NN propagation) (NN algorithm)))) (VP (VBZ is) (ADVP (RB then)) (VP (VBN explained) (CC and) (VBN derived))) (. .))

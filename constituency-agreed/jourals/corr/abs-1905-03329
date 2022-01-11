@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP exploit) (NP (DT this) (NN flexibility)) (PP (IN by) (S (VP (VBG learning) (NP (NP (DT an) (NN embedding)) (SBAR (WHNP (WDT that)) (S (VP (VBZ captures) (NP (JJ semantic) (NN information)) (PP (IN in) (NP (NP (DT the) (NNP Wasserstein) (NN distance)) (PP (IN between) (NP (VBN embedded) (NNS distributions))))))))))))) (. .))

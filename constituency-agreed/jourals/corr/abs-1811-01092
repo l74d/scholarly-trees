@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN output) (NN layer)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB handle) (NP (NP (JJ arbitrary) (NNS degrees)) (PP (IN of) (NP (NN event) (NN overlap))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP introduce) (NP (NP (NP (CD three) (JJ sequential) (NNS losses)) (PP (IN for) (NP (NN network) (NN training)))) (: :) (NP (NP (JJ multi-label) (NN classification) (NN loss)) (, ,) (NP (NN distance) (NN estimation) (NN loss)) (, ,) (CC and) (NP (NN confidence) (NN loss))))) (. .))

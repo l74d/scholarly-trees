@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (JJ active) (NNS elements)) (VP (VBP are) (ADJP (JJ necessary) (S (VP (TO to) (VP (VB design) (NP (NP (NNS circuits)) (SBAR (WHNP (WDT that)) (S (VP (VBP switch) (CC and) (VBP oscillate)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP generalize) (NP (NP (DT the) (JJ classical) (NN passivity) (NN theory)) (PP (IN of) (NP (NN circuit) (NN analysis)))) (S (VP (TO to) (VP (VB account) (PP (IN for) (NP (JJ such) (JJ non-equilibrium) (NNS behaviors))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Spatial) (NN representation)) (PP (IN of) (NP (NN software)))) (VP (VBZ is) (NP (NP (DT a) (JJ promising) (NN approach)) (PP (IN of) (NP (VBG increasing) (NN interest))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ little)) (VP (VBZ is) (VP (VBN known) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (NNS developers)) (VP (VBP interact) (PP (IN with) (NP (NP (JJ spatial) (NNS visualizations)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN embedded) (PP (IN in) (NP (DT the) (NNP IDE))))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (NP (PRP$ our) (NNS results)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NNS observations) (, ,) (NNS hypotheses) (, ,) (CC and) (NNS implications)))))) (. .))

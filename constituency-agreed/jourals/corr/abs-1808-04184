@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN probability)) (PP (IN of) (NP (NN attack) (NN detection)))) (VP (VBZ is) (VP (VBN evaluated) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (DT the) (NN weighting) (NN parameter))))))) (. .))
+(S (NP (NP (DT A) (JJ sufficient) (NN condition)) (PP (IN on) (NP (DT the) (NN weighting) (NN parameter)))) (VP (VBZ is) (VP (VBN given) (PP (IN for) (S (VP (VBG achieving) (NP (NP (DT an) (ADJP (RB arbitrarily) (JJ small)) (NN probability)) (PP (IN of) (NP (NN attack) (NN detection))))))))) (. .))

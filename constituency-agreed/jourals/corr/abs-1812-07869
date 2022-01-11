@@ -1,0 +1,1 @@
+(S (ADVP (RB Indeed)) (, ,) (NP (DT the) (JJ relative) (NNS sub-networks)) (VP (VBP are) (VP (VBN implemented) (S (VP (TO to) (VP (VB smooth) (NP (DT the) (NNP VO) (NN trajectory))))) (, ,) (SBAR (IN while) (S (NP (JJ global) (NNS subnetworks)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB avoid) (NP (NN drift) (NN problem))))))))))) (. .))

@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (JJ discontinuous) (NNP Galerkin) (NN finite) (NN element) (NNS methods)) (VP (VBP are) (VP (VBN applied) (PP (IN to) (NP (CD one) (JJ dimensional) (NNP Rosenau) (NN equation))))) (. .))
+(S (NP (NP (JJ Theoretical) (NNS results)) (PP (VBG including) (NP (NP (NN consistency)) (, ,) (NP (ADJP (FW a) (FW priori)) (NNS bounds)) (CC and) (NP (JJ optimal) (NN error) (NNS estimates))))) (VP (VBP are) (VP (VBN established) (PP (IN for) (NP (NP (DT both) (NN semidiscrete)) (CC and) (NP (ADJP (RB fully) (JJ discrete)) (NNS schemes)))))) (. .))
+(S (NP (NNP Numerical) (NNS experiments)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB validate) (NP (DT the) (JJ theoretical) (NNS results))))))) (. .))
+(S (NP (DT The) (NN decay) (NNS estimates)) (VP (VBP are) (VP (VBN verified) (S (ADJP (RB numerically) (PP (IN for) (NP (DT the) (NNP Rosenau) (NN equation))))))) (. .))

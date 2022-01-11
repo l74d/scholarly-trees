@@ -1,0 +1,2 @@
+(S (NP (NP (DT Each)) (PP (IN of) (NP (DT the) (NNS stages)))) (VP (VBZ is) (ADJP (RB highly) (JJ dependent) (PP (IN on) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (DT the) (JJ previous) (NN stage))))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP implement) (NP (DT the) (NN iRadonMap)) (PP (IN as) (NP (NP (DT an) (JJ appropriative) (JJ neural) (NN network)) (, ,) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (DT the) (NN architecture)) (VP (MD can) (VP (VB be) (VP (VBN divided) (PP (IN into) (NP (CD two) (NNS segments))))))))))) (. .))

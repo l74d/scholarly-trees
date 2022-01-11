@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN devil) (POS 's)) (NNS rules)) (VP (MD can) (VP (VB be) (ADJP (JJ simple)))) (. .))
+(S (PP (IN In) (NP (DT that) (NN case))) (, ,) (NP (DT the) (JJ malicious) (NNS rules)) (VP (VBP serve) (PP (IN as) (NP (NP (DT a) (JJ finite) (NN witness)) (PP (IN for) (NP (NN non-termination)))))) (. .))

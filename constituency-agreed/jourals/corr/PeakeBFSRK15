@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (PRP$ our) (NN runtime) (JJ binary) (NN analysis)))) (, ,) (NP (PRP we)) (VP (VBP create) (NP (NP (NNS graphs)) (SBAR (WHNP (WDT that)) (S (VP (VBP capture) (NP (NP (DT the) (NNS dependencies)) (PP (IN between) (NP (JJ different) (NN software) (NNS parts))))))))) (. .))

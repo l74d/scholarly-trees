@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN method)) (PP (IN for) (S (VP (VBG creating) (NP (NN elasticity) (NN module)) (S (VP (VBG using) (NP (NNS splines)))))))) (VP (VBZ is) (VP (VBN described))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN verified) (PP (IN with) (NP (JJ quadratic) (NN sample) (NN tension) (NN experiment))))) (. .))

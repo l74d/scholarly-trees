@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT each) (NN step))) (, ,) (NP (DT the) (NN algorithm)) (VP (VP (VBZ observes) (NP (NP (DT the) (NN sample) (POS 's)) (NN position) (CC and) (NN label))) (CC and) (VP (MD may) (VP (VB update) (NP (DT the) (JJ current) (NN predictor)) (ADVP (RB accordingly))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN baseline) (NN model))) (, ,) (NP (NP (NN knowledge)) (PP (IN of) (NP (DT the) (NN manipulation) (NNS costs)))) (VP (VBZ is) (VP (VBN assumed))) (. .))

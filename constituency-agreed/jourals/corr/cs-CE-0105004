@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (NP (NN information)) (PP (IN between) (NP (NNS domains)))) (VP (VBZ is) (VP (VBN exchanged))))) (, ,) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN transportation) (NN network) (NN graph)) (VP (VBZ is) (VP (VBN partitioned))))))) (. .))
+(S (NP (DT An) (JJ adaptive) (NN scheme)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB optimize) (NP (NN load) (NN balancing))))))) (. .))

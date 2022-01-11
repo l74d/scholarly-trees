@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS logs)) (VP (VBP contain) (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NN information))) (, ,) (PP (VBG including) (NP (JJ sensitive) (NN information))))) (. .))
+(S (S (VP (VBG Maintaining) (NP (NP (DT a) (NN balance)) (PP (IN between) (NP (NP (NNS data) (NN usefulness)) (CC and) (NP (NN privacy) (NN preservation))))))) (, ,) (ADVP (RB therefore)) (, ,) (VP (VBZ remains) (NP (DT an) (ADJP (JJ open) (CC and) (JJ important)) (NN challenge))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS meshes)) (VP (VBP have) (NP (NP (NNS applications)) (PP (IN in) (NP (NP (JJ scientific) (NN computing)) (CC and) (NP (JJ other) (NNS fields)))))) (. .))
+(S (NP (NP (DT The) (NNS domains)) (SBAR (S (NP (PRP we)) (VP (VBP consider) (ADVP (RB here)))))) (VP (VBP are) (NP (NP (NN space)) (, ,) (NP (JJ infinite) (NN slab)) (, ,) (NP (JJ infinite) (JJ rectangular) (NN prism)) (, ,) (NP (NN cube)) (CC and) (NP (JJ regular) (NN tetrahedron)))) (. .))

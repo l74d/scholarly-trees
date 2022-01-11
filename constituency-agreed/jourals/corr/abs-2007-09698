@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG utilizing) (NP (DT the) (NNP ElGamal) (NN encryption))))) (, ,) (NP (DT the) (NN server)) (VP (VBZ learns) (NP (NP (RB nearly) (NN nothing)) (PP (IN about) (NP (NP (DT the) (JJ private) (NNS data)) (CC or) (NP (DT the) (JJ statistical) (NN result)))))) (. .))

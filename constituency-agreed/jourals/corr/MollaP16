@@ -1,0 +1,1 @@
+(S (ADVP (RB Hence)) (NP (PRP$ our) (NN algorithm)) (VP (VP (VBZ is) (ADJP (JJ scalable) (PP (IN under) (NP (NN bandwidth) (NNS constraints))))) (CC and) (VP (MD can) (VP (VB be) (NP (NP (DT an) (JJ helpful) (NN building) (NN block)) (PP (IN in) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (ADJP (RB topologically) (JJ aware)) (NNS networks))))))))) (. .))

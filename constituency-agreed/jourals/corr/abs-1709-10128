@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT a) (JJ cognitive) (NN radio) (NN network))) (, ,) (NP (DT a) (JJ secondary) (NN user)) (VP (VP (VBZ learns) (NP (DT the) (NN spectrum) (NN environment))) (CC and) (VP (ADVP (RB dynamically)) (VBZ accesses) (NP (NP (DT the) (NN channel)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ primary) (NN user)) (VP (VBZ is) (ADJP (JJ inactive)))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN challenge))))) (, ,) (NP (PRP we)) (VP (VBP utilize) (NP (NP (DT the) (NN attacker) (POS 's)) (NN observation) (NN capability))) (. .))

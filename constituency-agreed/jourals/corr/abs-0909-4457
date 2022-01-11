@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (DT these) (JJ new) (NNS indicators)) (VP (VBP are) (VP (VBN compared) (PP (PP (IN with) (NP (CD one) (DT another))) (CC and) (PP (IN with) (NP (DT the) (JJR older) (NNS ones)))))) (. .))
+(S (NP (NNP PageRank)) (VP (VP (VBZ is) (ADVP (RB mainly)) (NP (NP (DT an) (NN indicator)) (PP (IN of) (NP (NN size))))) (, ,) (CC but) (VP (VBZ has) (NP (NP (JJ important) (NNS interactions)) (PP (IN with) (NP (NN centrality) (NNS measures)))))) (. .))

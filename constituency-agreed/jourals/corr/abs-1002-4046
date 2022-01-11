@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP compare) (NP (NP (DT the) (JJ different) (NN classification) (NNS methods)) (CC and) (NP (PRP$ their) (NNS performances)))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN found) (SBAR (IN that) (S (NP (NNP Mahalanobis) (NN classifier)) (VP (VBD performed) (NP (DT the) (JJS best)) (PP (IN in) (NP (PRP$ our) (NN classification)))))))) (. .))

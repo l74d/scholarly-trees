@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Asymptotic) (NML (NN energy) (HYPH -) (NN distortion)) (NN performance)) (PP (IN of) (NP (NP (NML (CD zero) (HYPH -) (NN delay)) (NN communication) (NNS scenarios)) (PP (IN under) (NP (JJ additive) (JJ white) (JJ Gaussian) (NN noise)))))) (VP (VBZ is) (VP (VBN investigated))) (. .))

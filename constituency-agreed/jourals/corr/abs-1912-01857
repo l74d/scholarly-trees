@@ -1,0 +1,2 @@
+(S (S (VP (VBN Inspired) (PP (IN by) (NP (NNS observations))))) (, ,) (NP (PRP we)) (VP (VBP investigate) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN class) (NN imbalance)) (VP (VP (VBZ affects) (NP (DT the) (NN decision) (NN boundary))) (CC and) (VP (VBZ deteriorates) (NP (DT the) (NN performance))))))) (. .))
+(S (PP (IN Despite) (NP (PRP$ its) (NN simplicity))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ shows) (NP (JJ outstanding) (NN performance))) (. .))

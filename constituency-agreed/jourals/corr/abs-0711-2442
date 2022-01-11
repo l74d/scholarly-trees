@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (PP (IN by) (NP (NNS examples))) (SBAR (IN that) (S (NP (DT the) (NN answer)) (VP (VBZ is) (ADJP (JJ negative))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT an) (NN example)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN node) (NN betweenness) (NN centrality)) (VP (VBZ is) (RB not) (ADVP (RB always)) (NP (NP (DT a) (JJ good) (NN indicator)) (PP (IN for) (NP (DT the) (NN network) (NN synchronizability)))))))) (. .))

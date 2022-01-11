@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (DT the) (VBN proposed) (NN framework)) (PP (IN on) (NP (CD three) (NNP FER) (NNS datasets)))) (. .))
+(S (NP (DT The) (NN accuracy)) (VP (VBZ degrades) (ADVP (RB significantly)) (SBAR (WHADVP (WRB when)) (S (VP (VBG testing) (PP (IN for) (NP (NN dataset) (NN bias))))))) (. .))

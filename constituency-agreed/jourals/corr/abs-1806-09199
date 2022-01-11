@@ -1,0 +1,2 @@
+(S (NP (NNS Adversaries)) (VP (MD may) (VP (VP (VB hijack) (NP (NNS devices))) (CC and) (VP (VB compromise) (NP (PRP$ their) (NNS data))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (JJ reactive) (NNS countermeasures)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN intrusion) (NN detection)) (CC and) (NP (JJ resilient) (NNS analytics)))) (, ,)) (VP (VBP become) (NP (NP (JJ vital) (NNS components)) (PP (IN of) (NP (NN security))))) (. .))

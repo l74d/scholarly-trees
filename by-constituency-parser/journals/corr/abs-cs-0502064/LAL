@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NN lattice)) (PP (IN of) (NP (NN machine) (NN invariant) (NNS classes))))) (. .))
+(S (S (NP (DT This)) (VP (VBZ is) (NP (DT an) (JJ infinite) (ADJP (RB completely) (JJ distributive)) (NN lattice)))) (CC but) (S (NP (PRP it)) (VP (VBZ is) (RB not) (NP (DT a) (JJ Boolean) (NN lattice)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (NP (DT the) (NN subword) (NN complexity)) (CC and) (NP (DT the) (NN growth) (NN function))) (VP (NN create) (NP (NN machine) (JJ invariant) (NNS classes)))))) (. .))
+(S (IN So) (NP (DT the) (NN lattice)) (VP (MD would) (VP (VB serve) (PP (IN as) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NNS words) (JJ cryptographic) (NN quality))))) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP like) (S (VP (TO to) (VP (VB identify) (NP (NP (JJ new) (NN stream) (NNS ciphers)) (ADJP (JJ suitable) (PP (IN for) (NP (JJ widespread) (NN adoption))))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NN sensor) (NNS measurements)) (VP (VBP are) (VP (VBN correlated))))) (, ,) (NP (NP (DT a) (JJ small) (NN set)) (PP (IN of) (NP (JJ principal) (NNS components)))) (VP (MD can) (VP (VB explain) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NNS measurements) (NN variability)))))) (. .))

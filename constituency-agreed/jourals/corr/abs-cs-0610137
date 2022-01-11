@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN correctness)) (PP (IN of) (NP (PRP$ our) (NNS encodings)))) (VP (VBZ is) (VP (VBN proved) (S (VP (VBG using) (NP (NP (DT a) (JJ suitable) (NN notion)) (PP (IN of) (NP (NN bisimulation) (NN equivalence)))))))) (. .))

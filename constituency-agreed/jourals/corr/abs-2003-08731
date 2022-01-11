@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (RB instead) (IN of) (S (VP (VBG computing) (NP (DT the) (JJ exact) (NN distance))))) (, ,) (NP (PRP we)) (VP (VBP compute) (NP (DT an) (JJ approximate) (NN distance)) (S (VP (VBG using) (NP (NN product) (NN quantization))))) (. .))

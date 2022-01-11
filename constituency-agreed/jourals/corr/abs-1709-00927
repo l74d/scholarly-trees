@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ emotional) (NN state)) (PP (IN of) (NP (DT the) (NN player)))) (VP (VBZ is) (VP (VBN recognized) (PP (IN through) (NP (NN voice) (NN analysis))))) (. .))
+(S (NP (DT These) (NNS experiments)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (JJ inductive) (NN control) (NN technique)) (VP (VBZ improves) (NP (DT the) (NN learning) (NN effectiveness)) (PP (IN through) (NP (NP (NN detection) (CC and) (NN stimulation)) (PP (IN of) (NP (JJ positive) (NNS emotions))))))))) (. .))

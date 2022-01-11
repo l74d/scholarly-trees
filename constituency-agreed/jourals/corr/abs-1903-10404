@@ -1,0 +1,1 @@
+(S (NP (NNS Autoencoders)) (VP (VBP are) (NP (NP (JJ deep) (JJ neural) (NN network)) (VP (VBN used) (S (VP (TO to) (VP (VB compress) (NP (NP (ADJP (JJ high) (JJ dimensional)) (NNS data)) (PP (JJ such) (IN as) (NP (JJ pixelated) (NNS images)))) (PP (IN into) (NP (JJ small) (JJ latent) (NNS representations))))))))) (. .))

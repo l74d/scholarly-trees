@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN work)))) (VP (VBZ is) (S (VP (TO to) (VP (VB improve) (NP (NP (NN understandability) (CC and) (NN maintainability)) (PP (IN of) (NP (NNS tactics)))))))) (. .))
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (NP (DT some) (JJ initial) (NNS successes)) (PP (IN with) (NP (DT this))))))) (, ,) (NP (PRP we)) (ADVP (RB here)) (VP (VBP extend) (NP (NNP PSGraph)) (PP (IN with) (NP (NP (JJ additional) (NNS features)) (PP (IN for) (NP (NN development) (CC and) (NN debugging)))))) (. .))

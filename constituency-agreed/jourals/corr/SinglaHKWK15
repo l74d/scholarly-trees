@@ -1,0 +1,1 @@
+(S (ADVP (RB Often)) (NP (NP (DT the) (NN informativeness)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS nodes)))))) (VP (MD can) (VP (VB be) (VP (VBN quantified) (PP (IN via) (NP (DT a) (JJ submodular) (NN utility) (NN function)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN achieved) (PP (IN by) (S (VP (VP (VBG analyzing) (NP (NP (DT the) (NN probability) (NN distribution)) (PP (IN of) (NP (DT the) (JJ linear) (JJ quadratic) (NN cost))))) (CC and) (VP (VBG designing) (NP (NP (DT a) (NN learning) (NN trigger)) (SBAR (WHNP (WDT that)) (S (VP (VBZ leverages) (NP (NNP Chernoff) (NNS bounds)))))))))))) (. .))

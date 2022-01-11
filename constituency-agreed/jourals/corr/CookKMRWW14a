@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN definition)) (VP (MD should) (VP (VB cover) (NP (ADJP (JJ syntactic) (CC and) (JJ semantic)) (NNS issues)))) (. .))
+(S (NP (DT A) (NN preface)) (VP (VP (MD would) (VP (VB be) (ADJP (JJ large)))) (, ,) (CC and) (VP (MD should) (VP (VB be) (VP (VBN organised) (S (VP (VBG using) (NP (NNS packages)))))))) (. .))

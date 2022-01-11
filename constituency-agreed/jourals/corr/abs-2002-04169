@@ -1,0 +1,2 @@
+(S (NP (DT An) (ADJP (RB alternatively) (JJ iterative)) (NN algorithm)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB solve) (NP (DT the) (JJ first) (NN optimization) (NN problem))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB verify) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS schemes))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (NNS instructions)) (VP (VBP are) (VP (VBN turned) (PRT (RP off)))))) (, ,) (NP (NP (DT any) (NN attempt)) (PP (IN of) (S (VP (VBG executing) (NP (PRP them)))))) (VP (MD will) (VP (VB generate) (NP (DT a) (NN fault)))) (. .))

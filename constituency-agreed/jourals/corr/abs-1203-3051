@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NN combinator)) (VP (VBZ has) (NP (JJ several) (JJ good) (NNS properties)))))) (. .))
+(S (PP (IN For) (NP (NN instance))) (, ,) (SBAR (RB even) (IN if) (S (NP (NP (RB just) (CD one)) (PP (IN of) (NP (DT the) (NN base) (NN voting) (NNS rules)))) (VP (VBZ has) (NP (NP (DT a) (JJ desirable) (NN property)) (PP (IN like) (NP (NNP Condorcet) (NN consistency))))))) (, ,) (NP (DT the) (NN combination)) (VP (VBZ inherits) (NP (DT this) (NN property))) (. .))

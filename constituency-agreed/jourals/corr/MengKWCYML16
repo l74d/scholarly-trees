@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (NP (DT the) (NN emergence)) (PP (IN of) (NP (JJ big) (NNS data))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT an) (VBG increasing) (NN need) (S (VP (TO to) (VP (VB parallelize) (NP (NP (DT the) (NN training) (NN process)) (PP (IN of) (NP (NN decision) (NN tree))))))))) (. .))

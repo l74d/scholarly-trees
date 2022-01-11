@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ provides) (NP (NP (DT an) (JJ important) (NN benchmark)) (PP (IN for) (NP (JJ future) (NN work))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN baseline))) (, ,) (NP (NP (DT a) (JJ simple) (NN heuristic)) (PP (IN of) (S (ADVP (RB always)) (VP (VBG predicting) (NP (DT the) (ADJP (RBS most) (JJ common)) (NN outcome)) (PP (IN in) (NP (DT the) (NN past))))))) (VP (VBD was) (VP (VBN used))) (. .))

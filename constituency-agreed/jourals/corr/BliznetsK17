@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT the) (NN graph) (NN model))) (, ,) (NP (NNS clusters)) (VP (VBP are) (ADVP (RB generally)) (VP (VBN defined) (PP (IN as) (NP (NNS cliques))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PDT such) (DT an) (NN approach)) (VP (MD might) (VP (VB be) (ADJP (RB too) (JJ restrictive)) (SBAR (IN as) (S (PP (IN in) (NP (DT some) (NNS applications))) (, ,) (NP (NP (RB not) (DT all) (NNS objects)) (PP (IN from) (NP (DT the) (JJ same) (NN cluster)))) (VP (MD must) (VP (VB be) (VP (VBN connected)))))))) (. .))
+(S (NP (DT That)) (VP (VBZ is) (SBAR (WHADVP (WRB why)) (S (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NNS cliques) (NNS relaxations)))) (ADVP (RB often)) (VP (VBN considered) (PP (IN as) (NP (NNS clusters))))))) (. .))
+(S (ADVP (RB Initially)) (, ,) (NP (JJ such) (NN clusterization)) (VP (VBD was) (VP (VBN proposed) (PP (IN by) (NP (NNP Hartuv) (CC and) (NNP Shamir))))) (. .))

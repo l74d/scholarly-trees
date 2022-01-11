@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (NNS cases))) (, ,) (NP (NP (JJ analytic) (NNS solutions)) (PP (IN of) (NP (JJ partial) (JJ differential) (NNS equations)))) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ possible)))) (. .))
+(S (NP (NP (NNS Conditions)) (PP (IN for) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NNS solutions)))))) (VP (VBP are) (VP (VBN determined) (CC and) (VBN investigated))) (. .))

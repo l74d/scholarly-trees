@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT an) (JJ obvious) (NN tradeoff)) (PP (IN between) (NP (PRP them))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT no) (JJ previous) (NN work)) (VP (VBZ has) (VP (VBN considered) (NP (DT the) (NN tradeoff)) (ADVP (RB quantitatively)))) (. .))

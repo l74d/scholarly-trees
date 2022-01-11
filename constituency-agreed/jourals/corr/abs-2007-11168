@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT A) (NN block) (NN coordinate) (NN descent) (NN algorithm)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN block)) (VP (VBZ is) (NP (DT a) (JJ subdiagonal))))) (, ,)) (VP (VBZ is) (VP (VBN proposed)))) (CC and) (S (NP (PRP$ its) (NN convergence)) (VP (VBZ is) (VP (VBN established) (PP (IN under) (NP (JJ mild) (NNS conditions)))))) (. .))

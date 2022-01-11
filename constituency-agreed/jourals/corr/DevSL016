@@ -1,0 +1,2 @@
+(S (S (PP (IN In) (NP (NP (JJ tropical) (NNS regions)) (PP (JJ such) (IN as) (NP (NNP Singapore))))) (, ,) (NP (NNS clouds)) (VP (VBP are) (ADVP (RB mostly)) (VP (VBN formed) (PP (IN by) (NP (NN convection)))))) (: ;) (S (NP (PRP they)) (VP (VP (VBP are) (ADJP (RB very) (JJ localized))) (, ,) (CC and) (VP (VB evolve) (ADVP (RB quickly))))) (. .))
+(S (NP (PRP They)) (VP (VBP provide) (NP (NP (DT a) (JJ high) (NN resolution)) (CC and) (NP (JJ localized) (NN cloud) (NNS images)))) (. .))

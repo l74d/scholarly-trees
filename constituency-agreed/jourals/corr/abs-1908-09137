@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS approaches))))))) (, ,) (NP (PRP we)) (VP (VBP conduct) (NP (NNS experiments)) (PP (IN with) (NP (DT the) (JJ standard) (NNP HotpotQA) (NN dataset)))) (. .))

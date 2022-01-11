@@ -1,0 +1,2 @@
+(S (NP (NNS Failures)) (VP (VBP are) (VP (VBN defined) (ADVP (RB here)) (, ,) (PP (IN as) (NP (NP (DT a) (JJ temporal) (NN process)) (VP (VBN defined) (PP (IN in) (NP (DT a) (NN sequence)))))))) (. .))
+(S (NP (NP (JJ Theoretical) (NNS examples)) (CC and) (NP (JJ real) (NNS networks))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT this) (NN methodology))))))))) (. .))

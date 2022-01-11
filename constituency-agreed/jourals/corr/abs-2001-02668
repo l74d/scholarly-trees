@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP I)) (VP (VBP provide) (NP (NP (DT an) (JJ explicit) (JJ semi-definite) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB compute) (NP (DT the) (NN success) (NN probability)))))))) (. .))

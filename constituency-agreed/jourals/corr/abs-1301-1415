@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN receiver)) (VP (VBZ has) (S (VP (TO to) (VP (VB compute) (NP (NP (DT an) (NN integer) (JJ linear) (NN combination)) (PP (IN of) (NP (DT the) (NNS symbols)))) (PP (IN as) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (DT the) (NN decoding) (NN process))))))))) (. .))
+(S (NP (NP (DT The) (JJ original) (JJ known) (NN solution)) (PP (IN of) (S (VP (VBG finding) (NP (DT these) (NNS integers)))))) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (JJ exhaustive) (NN search))))) (. .))

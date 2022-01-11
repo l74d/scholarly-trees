@@ -1,0 +1,2 @@
+(S (NP (DT These) (NN synchronization) (NNS points)) (VP (VBP are) (ADVP (RB then)) (VP (VBN annotated) (PP (IN with) (NP (JJ appropriate) (JJ relational) (NNS invariants))) (S (VP (TO to) (VP (VB complete) (NP (DT the) (NN proof))))))) (. .))
+(S (NP (DT This) (NN approach)) (VP (VP (VBZ searches) (PP (IN for) (NP (NN synchronization) (NNS points)))) (CC and) (VP (VBZ synthesizes) (NP (JJ relational) (NNS invariants)) (ADVP (RB simultaneously)))) (. .))

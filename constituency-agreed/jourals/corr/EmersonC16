@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (DT this) (NN approach)))) (PP (IN by) (S (VP (VP (VBG training) (NP (PRP it)) (PP (IN on) (NP (DT a) (JJ parsed) (NN corpus)))) (CC and) (VP (VBG evaluating) (NP (PRP it)) (PP (IN on) (NP (VBN established) (NN similarity) (NNS datasets)))))))) (. .))

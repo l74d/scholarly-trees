@@ -1,0 +1,3 @@
+(NP (NNS Results) (. .))
+(NP (NNS Conclusions) (. .))
+(S (NP (PRP We)) (VP (VBD implemented) (NP (NN eXamine)) (PP (IN as) (NP (DT a) (ADJP (RB freely) (JJ available)) (NNP Cytoscape) (NN app)))) (. .))

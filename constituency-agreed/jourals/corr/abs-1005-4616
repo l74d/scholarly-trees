@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT a) (NN prototype) (NN implementation)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (NN generality)) (PP (IN of) (NP (DT the) (JJ parametric) (NN groundness) (NN analysis)))) (VP (VBZ comes) (PP (IN with) (NP (DT a) (JJ negligible) (JJ extra) (NN cost))))))) (. .))

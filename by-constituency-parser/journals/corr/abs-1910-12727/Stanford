@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT an) (JJ adaptive) (NN pruning) (NN method))) (. .))
+(S (NP (DT This) (NN method)) (VP (MD can) (VP (VB cut) (PRT (RP off)) (NP (DT the) (NN channel) (CC and) (NN layer)) (ADVP (RB adaptively)))) (. .))
+(S (NP (NP (DT The) (NN proportion)) (PP (IN of) (NP (NP (DT the) (NN layer)) (CC and) (NP (DT the) (NN channel) (S (VP (TO to) (VP (VB be) (VP (VBN cut))))))))) (VP (VBZ is) (VP (VBN learned) (ADVP (RB adaptively)))) (. .))
+(S (S (NP (NP (DT The) (NN pruning) (NN method)) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN paper))))) (VP (MD can) (VP (VB reduce) (NP (NP (NN half)) (PP (IN of) (NP (DT the) (NNS parameters))))))) (, ,) (CC and) (S (NP (DT the) (NN accuracy)) (VP (MD will) (RB not) (VP (VP (VB decrease)) (CC or) (ADVP (RB even)) (VP (VB be) (ADJP (ADJP (JJR higher)) (PP (IN than) (NP (NN baseline)))))))) (. .))

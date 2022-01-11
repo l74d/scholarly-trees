@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP aim) (S (VP (TO to) (VP (VB establish) (NP (NP (JJ lexical) (NNS baselines)) (PP (IN for) (NP (DT this) (NN task)))) (PP (IN by) (S (VP (VBG applying) (NP (JJ supervised) (NN classification) (NNS methods)) (S (VP (VBG using) (NP (NP (DT a) (ADJP (RB recently) (VBN released)) (NN dataset)) (VP (VBN annotated) (PP (IN for) (NP (DT this) (NN purpose)))))))))))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NP (NNS directions)) (PP (IN for) (NP (JJ future) (NN work)))))) (VP (VBP are) (VP (VBN discussed))) (. .))

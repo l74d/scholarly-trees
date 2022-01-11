@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ new) (NNS features)) (VP (VBP depend) (PP (IN on) (NP (NP (DT a) (JJ nonlinear) (NN function)) (PP (IN of) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (VBG preexisting) (NNS features)))))))) (. .))
+(S (NP (NP (DT The) (NNS advantages) (CC and) (NNS disadvantages)) (PP (IN of) (NP (DT each) (NN optimization) (NN strategy)))) (VP (VBP are) (VP (VBN discussed))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (JJ fundamental) (NN network) (NN design) (NN problem)) (PP (IN of) (S (VP (VBG constructing) (NP (JJ approximate) (JJ minimum) (NNS spanners))))))) (. .))
+(S (ADVP (RB Similarly)) (, ,) (NP (NP (DT a) (NN separation)) (PP (IN between) (NP (DT the) (ADJP (VBN directed) (CC and) (JJ undirected)) (NNS cases)))) (VP (VBZ is) (VP (VBN implied))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Graphical) (NNS models)) (VP (VBP are) (NP (NP (DT a) (JJ standard) (NN tool)) (PP (IN for) (NP (DT this) (NN task))))) (. .))
+(S (PP (IN Beyond) (NP (DT this))) (, ,) (NP (NP (DT the) (JJ appropriate) (NN structure)) (PP (IN for) (NP (NN inference)))) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN by) (S (VP (VBG imposing) (NP (NNS gates)) (PP (IN on) (NP (NP (NNS edges)) (PP (IN between) (NP (NNS nodes))))))))))) (. .))

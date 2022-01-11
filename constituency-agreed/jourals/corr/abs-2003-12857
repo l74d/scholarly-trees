@@ -1,0 +1,2 @@
+(S (NP (NNP NAS)) (VP (VBZ adopts) (NP (DT a) (NN search) (NN strategy)) (S (VP (TO to) (VP (VB explore) (NP (DT the) (JJ predefined) (NN search) (NN space)) (S (VP (TO to) (VP (VB find) (NP (JJ outstanding) (NN performance) (NN architecture)) (PP (IN with) (NP (DT the) (JJ minimum) (NN searching) (NNS costs)))))))))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (NNP NPENAS))))) (. .))

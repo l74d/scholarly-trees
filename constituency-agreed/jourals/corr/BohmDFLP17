@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Computations)) (PP (IN over) (NP (DT the) (JJ rational) (NNS numbers)))) (ADVP (RB often)) (VP (VBP suffer) (PP (IN from) (NP (JJ intermediate) (NN coefficient) (NN swell)))) (. .))
+(S (PP (IN In) (NP (JJ many) (NNS applications))) (, ,) (ADVP (RB however)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (JJ efficient) (NN way)) (PP (IN of) (S (VP (VBG excluding) (NP (JJ bad) (NNS primes))))))) (. .))

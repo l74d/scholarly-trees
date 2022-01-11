@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN formulation)) (VP (VBD was) (VP (VBN studied) (PP (IN by) (NP (NNP Shibuya) (CC and) (NNP Kurochin))) (PRN (-LRB- -LRB-) (NP (NNP WABI) (CD 2003)) (-RRB- -RRB-))))) (, ,) (CC but) (S (NP (PRP$ their) (NN algorithm)) (VP (VBZ comes) (PP (IN with) (NP (NP (DT no) (NN proof)) (PP (IN of) (NP (NN correctness))))))) (. .))

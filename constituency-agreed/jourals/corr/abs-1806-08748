@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ affine) (NN transformation)) (VP (VBZ includes) (NP (NP (NN rotation) (CC and) (NN reflection)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP change) (NP (NP (DT the) (ADJP (JJ semantic) (CC or) (JJ syntactic)) (NN information)) (PP (IN of) (NP (NP (NNS dimensions)) (PP (IN in) (NP (DT the) (JJ hidden) (NNS states))))))))))) (. .))

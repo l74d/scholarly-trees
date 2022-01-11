@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS approaches)) (ADVP (RB typically)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (DT all) (NNS words)) (PP (IN in) (NP (DT a) (NN document)))) (VP (VBP are) (VP (VBN generated) (PP (IN from) (NP (DT a) (JJ single) (NN event)))))))) (. .))
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ has) (VP (VBN been) (VP (VBN evaluated) (PP (IN on) (NP (NP (CD two) (NNP Twitter) (NNS datasets)) (CC and) (NP (DT a) (NN news) (NN article) (NN dataset))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (RBS most) (JJ suitable)) (NN method)) (VP (VBZ depends) (PP (IN on) (NP (NP (NP (DT the) (NN scale)) (PP (IN of) (NP (DT the) (NN dataset)))) (CC and) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN task))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP explore) (NP (DT the) (JJS best) (NN speech) (NN enhancement) (NN algorithm)) (PP (IN on) (NP (CD two) (JJ different) (NNS datasets)))) (. .))

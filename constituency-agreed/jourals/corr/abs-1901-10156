@@ -1,0 +1,2 @@
+(S (NP (NNP TNT)) (VP (VBZ works) (PP (IN in) (NP (CD two) (JJ basic) (NNS stages)))) (. .))
+(S (ADVP (RB First)) (, ,) (PP (IN along) (PP (IN with) (NP (NN traceroute) (NNS probes)))) (, ,) (NP (PRP it)) (VP (VBZ looks) (PP (IN for) (NP (NP (NNS evidences)) (PP (IN of) (NP (NP (DT the) (JJ potential) (NN presence)) (PP (IN of) (NP (JJ hidden) (NNS tunnels)))))))) (. .))

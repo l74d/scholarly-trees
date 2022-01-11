@@ -1,0 +1,2 @@
+(NP (NNP Comput) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB solve) (NP (NP (JJ new) (NNS cases)) (PP (IN of) (NP (NNP GpI)))) (PP (IN in) (NP (JJ polynomial) (NN time)))) (. .))

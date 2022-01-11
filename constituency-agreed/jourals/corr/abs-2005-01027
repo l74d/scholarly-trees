@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NNP ABSA))) (, ,) (NP (DT a) (NN text)) (VP (MD can) (VP (VB have) (NP (JJ multiple) (NNS sentiments)) (PP (VBG depending) (PP (IN upon) (NP (DT each) (NN aspect)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ leverages) (NP (NP (DT the) (JJ positional) (NN information)) (PP (IN of) (NP (DT the) (NN aspect))))))))) (. .))

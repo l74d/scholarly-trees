@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN method)) (VP (VBZ uses) (NP (JJ projective) (NN quantum) (NN measurement)) (PP (IN as) (NP (NP (DT a) (NN way)) (PP (IN of) (S (VP (VBG building) (NP (DT a) (NN prediction) (NN function)))))))) (. .))
+(S (NP (DT The) (NN state)) (VP (VBZ is) (VP (VBN estimated) (PP (IN from) (NP (NN training) (NNS samples))) (PP (IN through) (NP (NP (DT an) (NN averaging) (NN process)) (SBAR (WHNP (WDT that)) (S (VP (VBZ produces) (NP (DT a) (NN density) (NN matrix))))))))) (. .))
+(S (NP (NP (CD One) (JJ remarkable) (NN characteristic)) (PP (IN of) (NP (DT the) (NN method)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB require) (S (VP (VBG learning) (NP (DT any) (NNS parameters)) (PP (IN through) (NP (NN optimization)))))))))) (. .))

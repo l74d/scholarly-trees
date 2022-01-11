@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ nonlinear) (NN control) (NN algorithm)) (PP (IN for) (NP (NP (NN speed) (NN control)) (PP (IN of) (NP (DT a) (JJ permanent) (NN magnet) (NN motor))))))) (. .))
+(S (NP (DT These) (NNS bounds)) (VP (VBP arise) (PP (IN from) (NP (NP (JJ practical) (NNS limitations)) (PP (IN of) (NP (DT the) (NN power) (NN source)))))) (. .))
+(S (NP (NNS Simulations) (CC and) (NNS computations)) (VP (VBP corroborate) (NP (DT the) (VBN proposed) (NN idea))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN channel) (NN estimation)) (VP (VBZ is) (VP (VBN realized) (PP (IN by) (NP (NN beam) (NN training)))))) (CC and) (S (NP (DT the) (NN quantization) (NN error)) (VP (VBZ is) (VP (VBN analyzed) (PP (IN for) (S (VP (VBG evaluating) (NP (NN performance)))))))) (. .))

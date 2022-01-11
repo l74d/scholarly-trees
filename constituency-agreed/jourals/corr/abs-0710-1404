@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (NP (DT a) (NN persistence) (NN framework)) (VP (VBZ manages) (NP (NP (DT the) (NN database)) (CC and) (NP (NP (DT the) (NN mapping)) (PP (IN between) (NP (NP (DT the) (NN database)) (CC and) (NP (DT the) (NNS objects))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ compares) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (CD two) (NN persistence) (NNS frameworks))))) (. ?))

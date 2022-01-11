@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD implemented) (NP (PRP$ our) (NN tool)) (PP (IN in) (NP (NNP Matlab))) (PP (IN as) (NP (NP (DT a) (NNP Simulink) (NN block)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT any) (NNP Simulink) (NN model))))))))))) (. .))

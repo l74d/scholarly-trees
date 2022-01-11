@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN study))) (NP (DT a) (JJ new) (NN approach)) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (NP (NP (DT the) (NN generation)) (PP (IN of) (NP (NN aircraft) (NNS trajectories))))))) (. .))
+(S (ADVP (RB Then)) (NP (NP (DT the) (NN synthesis)) (PP (IN of) (NP (NP (DT a) (JJ neural) (NN approximator)) (PP (IN for) (NP (JJ optimal) (NNS trajectories)))))) (VP (VBZ is) (VP (VBN discussed))) (. .))

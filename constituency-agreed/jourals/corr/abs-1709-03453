@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Stakeholders)) (PP (IN in) (NP (DT the) (NN science) (NN system)))) (VP (VBP need) (S (VP (TO to) (VP (VB decide) (SBAR (WHADVP (WRB where)) (S (VP (TO to) (VP (VB place) (NP (PRP$ their) (NNS bets)))))))))) (. .))
+(SBARQ (WHNP (WP Who)) (SQ (MD should) (NP (PRP we)) (VP (VB hire))) (. ?))

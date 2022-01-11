@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ first) (NN algorithm)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ linear) (NN programming) (NN formulation))))) (CC and) (VP (VBZ is) (ADJP (JJ appropriate) (S (VP (TO to) (VP (VB solve) (NP (NP (JJ small) (NNS instances)) (PP (IN of) (NP (DT the) (NN problem)))))))))) (. .))

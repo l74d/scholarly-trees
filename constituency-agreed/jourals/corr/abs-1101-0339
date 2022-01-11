@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ is) (VP (VBN done) (PP (IN at) (NP (NP (DT the) (NN expense)) (PP (IN of) (S (VP (VBG losing) (NP (NP (DT the) (JJ optimal) (NN tradeoff)) (PP (IN of) (NP (DT the) (NN channel))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT the) (JJ asymptotic) (JJ average) (NN complexity)) (PP (IN of) (NP (DT the) (JJ sequential) (NN decoder)))) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (DT the) (NN system) (NNS parameters)))))) (. .))

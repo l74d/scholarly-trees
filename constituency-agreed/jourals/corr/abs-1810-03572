@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN result)) (VP (VBZ is) (NP (NP (DT a) (JJ flexible) (NN framework)) (PP (IN for) (S (VP (VBG designing) (NP (NP (NNS choreographies)) (VP (VBN comprised) (PP (IN of) (NP (NP (DT a) (JJ wide) (NN variety)) (PP (IN of) (NP (NNS motions)))))))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN methodology)) (VP (VBD was) (VP (VBN validated) (ADVP (RB experimentally)) (PP (IN by) (S (VP (VBG generating) (CC and) (VBG executing) (NP (NNS choreographies)) (PP (IN on) (NP (NP (DT a) (NN swarm)) (PP (IN of) (NP (CD 25) (NNS quadrotors)))))))))) (. .))

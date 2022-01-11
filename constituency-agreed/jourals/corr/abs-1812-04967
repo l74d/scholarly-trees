@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN privacy) (NNS issues)) (PP (IN of) (NP (JJ vehicular) (NNS data)))) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN addressed)))) (. .))
+(S (S (VP (TO To) (VP (VB evaluate) (NP (DT this) (NN work))))) (, ,) (NP (NN test) (NNS cases)) (VP (VBP are) (ADVP (RB also)) (VP (VBN presented))) (. .))

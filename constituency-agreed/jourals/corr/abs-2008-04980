@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN robustness)) (PP (IN against) (NP (NNS uncertainties)))) (VP (VBZ is) (NP (NP (DT a) (JJ critical) (NN part)) (PP (IN in) (NP (NN control) (NN system) (NN design))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN in) (NP (DT a) (JJ numerical) (NN example))))) (. .))

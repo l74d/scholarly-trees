@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN process)) (PP (IN of) (S (VP (VBG generating) (NP (NP (DT the) (NNS perturbations)) (SBAR (WHNP (WDT that)) (S (VP (VBP expose) (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (NP (NN robustness)) (PP (IN of) (NP (JJ neural) (NNS networks)))))))))))))) (VP (VBZ is) (VP (VBN known) (PP (IN as) (NP (JJ adversarial) (NN input) (NN generation))))) (. .))

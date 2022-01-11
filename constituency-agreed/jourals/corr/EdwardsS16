@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB produce) (NP (NP (NNS statistics)) (SBAR (WHNP (WDT that)) (S (VP (VBP encapsulate) (NP (NP (DT a) (JJ generative) (NN model)) (PP (IN for) (NP (DT each) (NN dataset))))))))))))) (. .))

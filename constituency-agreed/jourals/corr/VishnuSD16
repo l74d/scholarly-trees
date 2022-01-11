@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN implementation)) (S (VP (VBG using) (NP (NP (DT an) (NNP InfiniBand) (NN cluster)) (CC and) (NP (JJ several) (RB well) (NNS knowndatasets)))))) (. .))
+(S (NP (PRP$ Our) (NN evaluation)) (VP (VBZ indicates) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN implementation))))) (. .))

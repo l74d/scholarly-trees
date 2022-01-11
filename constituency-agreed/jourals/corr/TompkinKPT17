@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN formed) (PP (IN as) (NP (NP (JJ semi-supervised) (NN label) (NN propagation)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBP maximize) (NP (NP (DT the) (NN information)) (VP (VBN gained) (PP (IN from) (NP (NP (DT a) (JJ limited) (NN number)) (PP (IN of) (NP (NNS examples)))))))))))))) (. .))

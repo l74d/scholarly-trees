@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (ADVP (RB subtly)) (VBD transform) (NP (NP (DT the) (NN delay) (NN process)) (PP (IN of) (NP (DT the) (NN generator)))) (PP (IN into) (NP (DT the) (JJ current) (JJ measurable) (NN process))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (JJ high-order) (NN convergence) (NN rate)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP analyze) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (PRP$ our) (JJ numerical) (NNS schemes))))) (CC and) (VP (ADVP (RB strictly)) (VB prove) (NP (DT the) (NN error) (VBZ estimates)))) (. .))
+(S (NP (NP (JJ Various) (JJ numerical) (NNS tests)) (ADJP (JJ powerful))) (VP (JJ demonstrate) (NP (NP (JJ high) (NN accuracy)) (PP (IN of) (NP (DT the) (VBN proposed) (JJ numerical) (NNS schemes))))) (. .))

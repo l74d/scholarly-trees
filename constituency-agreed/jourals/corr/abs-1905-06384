@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJS best) (NN classification) (NN accuracy)) (PP (IN of) (NP (CD 75) (NN %)))) (VP (VBZ is) (VP (VBN achieved) (PP (IN by) (S (VP (VBG using) (NP (NNP MLP) (NN classifier))))))) (. .))

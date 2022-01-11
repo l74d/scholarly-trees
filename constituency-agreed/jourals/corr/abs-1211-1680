@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT a) (NN multiresolution) (NN algorithm)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB capture) (NP (NP (DT all) (NN information)) (PP (IN of) (NP (DT each) (NN wavelet) (NN scale)))) (PP (IN in) (NP (NP (DT the) (JJ minimal) (NN number)) (PP (IN of) (NP (NP (NNS samples)) (PP (IN on) (NP (DT the) (NN sphere)))))))))))) (. .))

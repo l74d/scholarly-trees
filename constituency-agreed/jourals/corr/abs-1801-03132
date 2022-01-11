@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN propensity) (NN score)) (VP (VBZ is) (VP (VBN computed) (PP (IN by) (NP (NNP Xgboost)))))) (, ,) (CC and) (S (NP (NP (DT a) (JJ mathematical) (NN justification)) (PP (IN of) (NP (PRP$ our) (NN method)))) (VP (VBZ is) (VP (VBN provided) (PP (IN in) (NP (DT this) (NN paper)))))) (. .))

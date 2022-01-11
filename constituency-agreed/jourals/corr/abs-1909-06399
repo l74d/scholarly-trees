@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (PP (IN for) (NP (DT each) (NN category))) (, ,) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (NP (NNS methods)) (PP (IN for) (NP (NP (DT the) (JJ different) (NNS types)) (PP (IN of) (NP (NP (NN distortion)) (PP (IN on) (NP (DT the) (NNS images)))))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (VP (VP (VB collect) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (DT the) (JJ available) (NNS datasets))))) (CC and) (VP (VB discuss) (NP (DT these)) (PP (IN in) (NP (PRP$ our) (NN paper))))) (. .))

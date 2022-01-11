@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN regularization)) (VP (VBZ affects) (NP (NP (DT the) (NN mean)) (CC and) (NP (NP (DT the) (NN variance)) (PP (IN in) (NP (DT the) (NN prediction) (NN output))))))))) (. .))

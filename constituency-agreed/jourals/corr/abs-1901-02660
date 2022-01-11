@@ -1,0 +1,2 @@
+(S (NP (NP (NN Majority)) (PP (IN of) (NP (DT the) (ADJP (RB currently) (JJ available)) (NNS webpages)))) (VP (VP (VBP are) (ADJP (JJ dynamic) (PP (IN in) (NP (NN nature))))) (CC and) (VP (VBP are) (VP (VBG changing) (ADVP (RB frequently))))) (. .))
+(S (NP (DT This) (NN survey)) (VP (VBZ classifies) (CC and) (VBZ analyzes) (NP (NP (NP (JJ different) (NNS aspects)) (PP (IN of) (NP (NNP CDN) (NNS systems)))) (CC and) (NP (NP (JJ different) (NNS techniques)) (VP (VBN used) (PP (IN for) (NP (DT each) (NN aspect))))))) (. .))

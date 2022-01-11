@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN represented) (PP (IN with) (NP (DT a) (JJ stochastic) (NN integral))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP model) (NP (DT the) (NN bandwidth)) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP have) (NP (JJ multiple) (NNS downloads) (CC or) (NNS uploads)))))) (. .))

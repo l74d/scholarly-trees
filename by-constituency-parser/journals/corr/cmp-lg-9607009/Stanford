@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN article)) (VP (VBZ presents) (SBAR (S (NP (DT a) (JJ new) (ADJP (JJ semantic) (HYPH -) (JJ based)) (NN transfer) (NN approach)) (VP (VBD developed) (CC and) (VBD applied) (PP (IN within) (NP (DT the) (NML (NNP Verbmobil) (NN Machine)) (NN Translation) (NN project))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (DT the) (JJ declarative) (NN transfer) (NN formalism)))) (ADVP (RB together)) (PP (IN with) (NP (PRP$ its) (JJ procedural) (NN realization)))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN discussed) (CC and) (VBN compared) (PP (IN with) (NP (JJ several) (JJ other) (NNS approaches))) (PP (IN from) (NP (DT the) (NN MT) (NN literature))))) (. .))

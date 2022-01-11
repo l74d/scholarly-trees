@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NN desynchronization) (NNS problems)) (PP (IN in) (NP (JJ oscillatory) (NNS networks)))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (S (NP (DT A) (JJ new) (NN desynchronization) (NN notion)) (VP (VBZ is) (VP (VBN introduced)))) (CC and) (S (NP (NN desynchronization) (NNS conditions)) (VP (VBP are) (VP (VBN provided)))) (. .))
+(S (NP (DT The) (NN desynchronization) (NN notion)) (VP (VBZ is) (VP (VBN formulated) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NNP Yakubovich) (NN oscillatority)) (PP (IN of) (NP (DT the) (JJ auxiliary) (NN synchronization) (NN error) (NN system))))))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN example))) (, ,) (NP (NP (DT the) (NN network)) (PP (IN of) (NP (NP (ADJP (RB diffusively) (VBN coupled)) (NML (NNP FitzHugh) (HYPH -) (NNP Nagumo)) (NNS systems)) (PP (IN with) (NP (JJ undirected) (NN graph)))))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (NP (DT The) (JJ simple) (NN inequality)) (VP (VBG guaranteeing) (NP (NN network) (NN desynchronization)))) (VP (VBZ is) (VP (VBN derived))) (. .))
+(S (NP (DT The) (NN simulation)) (VP (VBZ results) (VP (VB confirm) (NP (NP (DT the) (NN validity)) (PP (IN of) (NP (DT the) (ADJP (VBN obtained)) (JJ analytical) (NNS results)))))) (. .))

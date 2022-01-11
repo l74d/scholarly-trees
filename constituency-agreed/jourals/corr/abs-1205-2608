@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN algorithm)) (VP (VBN presented) (ADVP (RB here)))) (VP (VBZ is) (NP (NP (DT the) (JJ first) (ADJP (RB fully) (JJ incremental)) (NN method)) (PP (IN for) (S (VP (VBG learning) (NP (NP (DT a) (JJ predictive) (NN representation)) (PP (IN of) (NP (DT a) (JJ continuous) (JJ dynamical) (NN system))))))))) (. .))

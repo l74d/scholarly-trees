@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG eliminating) (NP (NN recursion)) (PP (IN from) (NP (NP (JJ monadic) (NN datalog) (NNS programs)) (PP (IN on) (NP (NP (NNS trees)) (PP (IN with) (NP (NP (DT an) (JJ infinite) (NN set)) (PP (IN of) (NP (NNS labels)))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NN connection)) (PP (IN between) (NP (DT these) (CD two) (NNS problems)))) (PP (IN in) (NP (JJR more) (NN detail)))) (. .))

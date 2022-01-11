@@ -1,0 +1,2 @@
+(S (NP (JJ Deep) (NN reinforcement) (NN learning)) (VP (VBZ has) (VP (VBN achieved) (NP (JJ many) (JJ impressive) (NNS results)) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (NNS tasks)) (PP (IN with) (NP (NP (JJ sparse) (NNS rewards)) (CC or) (NP (JJ long) (NNS horizons))))) (VP (VBP continue) (S (VP (TO to) (VP (VB pose) (NP (JJ significant) (NNS challenges)))))) (. .))

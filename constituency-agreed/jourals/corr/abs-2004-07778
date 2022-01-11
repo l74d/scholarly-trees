@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ differential) (NN privacy)) (PP (IN as) (NP (NP (DT the) (JJ mathematical) (NN definition)) (PP (IN of) (NP (NN privacy)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG computing) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN privacy)))))) (VP (VBZ has) (NP (NP (NN time) (NN complexity)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ polynomial) (PP (IN in) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (DT the) (NN problem)))))))))))))) (. .))

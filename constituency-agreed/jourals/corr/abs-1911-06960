@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN stability) (, ,) (NN solvability) (CC and) (NN convergence)) (PP (IN in) (NP (NP (DT the) (JJ maximum) (NN norm)) (PP (IN of) (NP (DT the) (JJ numerical) (NN scheme)))))) (VP (VBP are) (VP (VBN given))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB confirm) (NP (PRP$ our) (JJ theoretical) (NN analysis) (NNS results))))))) (. .))

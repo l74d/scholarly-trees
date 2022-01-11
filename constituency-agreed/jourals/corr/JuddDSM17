@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ different) (PP (IN than) (NP (NP (DT the) (JJ original) (NN design)) (SBAR (WHNP (WDT that)) (S (ADVP (RB instead)) (VP (VBD detected) (NP (PRP them)) (PP (IN at) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (DT the) (VBG preceding) (NN layer)))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (JJ extended) (NN CNV)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (ADVP (RB also)) (VP (VB skip) (NP (JJ ineffectual) (NNS weights)))))))) (. .))

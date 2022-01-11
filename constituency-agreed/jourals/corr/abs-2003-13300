@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT a) (VBN given) (NN dataset))) (, ,) (NP (PRP we)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (JJ optimal) (NN combination)) (PP (IN of) (NP (NN hyperparameter) (NNS values)))) (, ,) (PP (IN in) (NP (NP (DT a) (JJ reasonable) (NN amount)) (PP (IN of) (NP (NN time)))))))))) (. .))

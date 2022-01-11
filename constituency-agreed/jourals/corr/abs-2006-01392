@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS data)) (VP (VBP are) (ADJP (JJ compositional)) (, ,) (S (VP (VBG meaning) (SBAR (IN that) (S (NP (DT each) (NN feature)) (VP (VBZ is) (ADJP (RB conditionally) (JJ dependent) (PP (IN on) (NP (DT all) (JJ other) (NNS features)))))))))) (. .))

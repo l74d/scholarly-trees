@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (TO to) (VP (VB understand) (NP (NN language))))) (, ,) (S (VP (VBG knowing) (NP (RB only) (DT the) (NN context)))) (VP (VBZ is) (RB not) (ADJP (JJ sufficient))) (. .))
+(S (S (VP (VBG Embedding) (NP (NP (JJR deeper) (NN word) (NNS relationships)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (RB not) (VP (VBN represented) (PP (IN in) (NP (DT the) (NN context)))))))))) (VP (VBZ enhances) (NP (DT the) (NN word) (NN representation))) (. .))

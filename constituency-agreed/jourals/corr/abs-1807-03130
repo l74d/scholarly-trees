@@ -1,0 +1,2 @@
+(S (NP (JJ Previous) (NNS attempts)) (VP (VBD learned) (NP (PDT such) (DT an) (NN embedding)) (PP (IN in) (NP (DT a) (JJ supervised) (NN manner))) (, ,) (S (VP (VBG requiring) (NP (NP (DT the) (NN availability)) (PP (IN of) (NP (JJ many) (JJ annotated) (NNS images))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (JJ unsupervised) (NN embedding)) (PP (IN of) (NP (JJ natural) (NN image) (NNS patches)))) (, ,) (S (VP (VBG avoiding) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (JJ annotated) (NNS images))))))) (. .))

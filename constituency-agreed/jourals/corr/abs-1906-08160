@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN election) (NN organizer)) (VP (MD must) (VP (VB choose) (NP (NP (NNP K)) (CC and) (NP (DT an) (NN aggregation) (NN rule))))) (. .))
+(S (PP (VBN Given) (NP (DT the) (NN voter) (NN choice) (NN distribution))) (, ,) (NP (DT the) (NN election) (NN planner)) (VP (MD can) (ADVP (RB thus)) (VP (VB identify) (NP (DT the) (ADJP (NN rate) (JJ optimal)) (NN mechanism)))) (. .))

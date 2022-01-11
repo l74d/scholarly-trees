@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VP (VBP approximate) (NP (DT these) (NNS relations)) (ADVP (RB implicitly))) (CC and) (ADVP (RB therefore)) (VP (ADVP (RB often)) (VBP do) (RB not) (VP (VB generalize) (ADVP (RB well))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP address) (NP (DT these) (NNS issues))) (CC and) (VP (VB propose) (NP (DT an) (JJ improved) (NN model) (NN architecture)))) (. .))

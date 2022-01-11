@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ accurate) (NN estimation)) (PP (IN of) (NP (NN evacuation) (NN departure) (NN time)))) (VP (VBZ is) (ADJP (JJ useful) (S (VP (TO to) (VP (VP (VB predict) (NP (NN evacuation) (NN demand)) (PP (IN over) (NP (NN time)))) (CC and) (VP (VB develop) (NP (JJ effective) (NN evacuation) (NNS strategies)))))))) (. .))
+(S (NP (JJ Past) (NNS studies)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (NN departure) (NN time)) (CC and) (NP (NN travel) (NN time))) (VP (MD can) (VP (VB be) (VP (VBN related))))))) (. .))

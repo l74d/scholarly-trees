@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS models)) (VP (VBP evolve) (PP (IN by) (NP (NP (JJ preferential) (NN attachment)) (VP (VBN weighted) (PP (IN by) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NNS nodes))))))))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (NN link) (NNS lengths))))) (. .))

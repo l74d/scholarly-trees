@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (NN survey) (NP (NP (DT the) (JJ different) (NNS properties)) (PP (IN of) (NP (NP (DT an) (JJ intuitive) (NN notion)) (PP (IN of) (NP (NN redundancy)))))) (, ,) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (NP (DT the) (JJ precise) (NNS semantics)) (VP (VBN given) (PP (TO to) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (JJ partial) (NN implication))))))))))) (. .))
+(S (NP (NP (DT The) (JJ final) (NN version)) (PP (IN of) (NP (DT this) (NN survey)))) (VP (MD will) (VP (VB appear) (PP (IN in) (NP (NP (DT the) (NNP Proceedings)) (PP (IN of) (NP (DT the) (NNP Int))))))) (. .))
+(NP (NNP Conf) (. .))
+(NP (NP (JJ Formal) (NNP Concept) (NNP Analysis)) (, ,) (NP (CD 2015)) (. .))

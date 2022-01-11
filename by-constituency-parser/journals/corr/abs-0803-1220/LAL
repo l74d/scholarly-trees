@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT the) (JJ first) (JJ 22-step) (NNS collisions)) (PP (IN for) (NP (NNP SHA-256) (CC and) (NNP SHA-512))))) (. .))
+(S (NP (NP (VBN Detailed) (NN technique)) (PP (IN of) (S (VP (VBG generating) (NP (DT these) (NNS collisions)))))) (VP (MD will) (VP (VB be) (VP (VBN provided) (PP (IN in) (NP (NP (DT the) (JJ next) (NN revision)) (PP (IN of) (NP (DT this) (NN note)))))))) (. .))

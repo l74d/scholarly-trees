@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ creates) (NP (NP (DT a) (NN problem)) (PP (IN of) (NP (NP (NN selection)) (PP (IN of) (NP (NP (DT a) (NN product) (NN measure)) (PP (IN of) (NP (JJ mixed) (NNS strategies))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP propose) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ such) (NNS selections))))) (CC and) (VP (VB prove) (NP (NP (NN existence)) (PP (IN of) (NP (NP (DT an) (NN equilibrium)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB not) (VP (VB depend) (PP (IN on) (NP (DT the) (NN selection)))))))))))) (. .))

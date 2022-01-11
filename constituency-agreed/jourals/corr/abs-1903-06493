@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT an) (NN example))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN method)) (VP (VBZ produces) (NP (NP (JJ neuromorphic) (NNS agents)) (SBAR (WHNP (WDT that)) (S (VP (VBP learn) (ADVP (RB very) (RB efficiently)) (PP (IN from) (NP (NNS rewards))))))))))) (. .))

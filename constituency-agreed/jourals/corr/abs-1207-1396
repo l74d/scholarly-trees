@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS methods)) (VP (VBP allow) (S (NP (PRP us)) (VP (TO to) (VP (VB approximate) (NP (DT the) (JJ joint) (JJ posterior) (NN distribution)) (S (VP (VBG using) (NP (JJ sequential) (NN importance) (NN sampling)))))))) (. .))

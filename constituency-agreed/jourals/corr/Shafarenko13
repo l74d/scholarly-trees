@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ preliminary) (NN version)) (PP (IN of) (NP (DT the) (NN language) (NN report))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ contains) (NP (NP (JJ key) (NNS definitions)) (, ,) (NP (NNS specifications)) (CC and) (NP (DT some) (NNS examples)))) (, ,) (CC but) (VP (VBZ lacks) (NP (NN completeness)))) (. .))

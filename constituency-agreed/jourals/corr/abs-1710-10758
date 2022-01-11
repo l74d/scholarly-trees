@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (NN honeycomb) (NN structure)) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (NN grid)) (S (VP (TO to) (VP (VB reinforce) (NP (DT the) (NN strength)))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (JJ computational) (NN cost)) (PP (IN of) (NP (NP (NN optimization)) (PP (IN for) (NP (DT the) (NN problem)))))) (VP (VBZ is) (VP (VBN decreased) (ADVP (RB greatly)))) (. .))

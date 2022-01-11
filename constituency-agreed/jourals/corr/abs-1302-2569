@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ statistical) (NN model)) (PP (IN for) (NP (JJ computational) (NNS linguistics))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN grammar) (NNS rules)) (VP (VBP are) (VP (VBN fixed) (CC and) (VBN known) (PP (IN in) (NP (NN advance))) (PP (RB instead) (IN of) (S (VP (VBG being) (VP (VBN estimated) (PP (IN on) (NP (DT the) (NN fly))))))))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB prove) (NP (JJ supplementary) (JJ mathematical) (NNS properties)))) (. .))
+(S (NP (PRP$ Our) (NN communication) (NN model)) (VP (VBZ has) (NP (CD two) (NNS purposes))) (. .))
+(S (PP (IN On) (NP (DT the) (CD one) (NN hand))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB define) (ADVP (RB indirectly)) (NP (NP (DT the) (NN probability) (NN distribution)) (PP (IN of) (NP (NP (DT a) (JJ random) (NN sentence)) (PP (IN of) (NP (DT the) (NN language))))))))))) (. .))

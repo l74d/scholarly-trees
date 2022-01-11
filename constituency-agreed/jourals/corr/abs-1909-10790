@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (ADJP (RB particularly) (JJ challenging)) (, ,) (PP (VBN given) (NP (NP (DT the) (JJ high) (NN variability)) (PP (IN in) (NP (JJ typical) (JJ surgical) (NN procedure) (NNS workflows)))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBD was) (ADVP (RB then)) (VP (VBN evaluated) (S (VP (VBG using) (NP (NN cross-validation)))))) (. .))

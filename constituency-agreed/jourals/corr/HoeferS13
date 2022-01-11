@@ -1,0 +1,1 @@
+(S (NP (NNS Users)) (VP (VBP accept) (NP (DT a) (NN resource)) (SBAR (IN if) (S (NP (DT the) (NN load)) (VP (VBZ is) (PP (IN below) (NP (DT a) (NN threshold))))))) (. .))

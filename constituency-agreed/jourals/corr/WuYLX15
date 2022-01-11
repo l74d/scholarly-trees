@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (JJ practical) (NNP OFDM) (NN transmission))) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ uncorrelated) (NNS subchannels)))) (VP (VBZ is) (ADVP (RB often)) (RB not) (ADJP (JJ sufficient))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (JJ key) (NN equivocation)) (VP (VBZ is) (VP (VBN derived) (PP (IN for) (NP (DT the) (JJS worst) (NN case) (NN scenario))))) (. .))

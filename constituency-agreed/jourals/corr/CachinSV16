@@ -1,0 +1,2 @@
+(S (NP (JJ Cryptographic) (NNS operations) (CC and) (NNS secrets)) (VP (MD must) (VP (VB be) (VP (VBN treated) (ADVP (RB specially)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP require) (NP (JJ strong) (NN randomness)) (S (VP (TO to) (VP (VB satisfy) (NP (PRP$ their) (NNS goals))))))))))) (. .))
+(S (NP (DT The) (NN paper)) (ADVP (RB also)) (VP (VBZ introduces) (NP (CD two) (JJ new) (NNS protocols))) (. .))

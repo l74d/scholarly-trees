@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ non-stationary) (NNS data))) (, ,) (NP (DT the) (NN phase) (NN content)) (VP (MD can) (VP (VP (VB stabilize) (NP (NN training))) (CC and) (VP (VB improve) (NP (NP (DT the) (NN generalizability)) (PP (IN of) (NP (JJ neural) (NNS networks))))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ its) (NNS semantics)) (VP (VBZ is) (ADJP (RB somewhat) (JJ unintuitive))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ has) (NP (DT a) (JJ clear) (NNS semantics))) (CC and) (VP (VBZ provides) (NP (NP (DT a) (JJ tight) (NN characterization)) (PP (IN of) (NP (NNP SDSI) (NN name) (NN resolution)))))) (. .))
+(S (NP (NP (DT A) (JJ complete) (NN axiomatization)) (PP (IN of) (NP (DT the) (NN logic)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN provided))) (. .))

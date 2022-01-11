@@ -1,0 +1,4 @@
+(S (NP (NNP Liouvillian) (NNS systems)) (VP (VBD were) (ADVP (RB initially)) (VP (VBN introduced) (PP (IN within) (NP (NP (DT the) (NN framework)) (PP (IN of) (NP (JJ differential) (NN algebra))))))) (. .))
+(S (NP (PRP They)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT a) (JJ natural) (NN extension)) (PP (IN of) (NP (JJ differential) (JJ flat) (NNS systems)))))))) (. .))
+(S (NP (ADJP (JJ Many) (JJ physical)) (ADJP (AFX non) (JJ flat)) (NNS systems)) (VP (VBP seem) (S (VP (TO to) (VP (VB be) (NP (NNP Liouvillian)))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (PP (IN in) (NP (DT this) (NN paper))) (NP (NP (DT an) (JJ alternative) (NN definition)) (PP (IN to) (NP (NP (DT this) (NN class)) (PP (IN of) (NP (NP (NNS systems)) (VP (VBG using) (NP (NP (DT the) (NN language)) (PP (IN of) (NP (NP (NNS diffieties)) (CC and) (NP (JJ infinite) (NN prolongation) (NN theory)))))))))))) (. .))

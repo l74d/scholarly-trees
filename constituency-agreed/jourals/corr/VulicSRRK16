@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (NN word) (NN similarity) (NNS tasks)) (PP (IN for) (NP (DT each) (NN word) (NN class))))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN framework)) (VP (VBZ is) (ADJP (DT both) (JJ effective) (CC and) (JJ efficient)))))) (. .))

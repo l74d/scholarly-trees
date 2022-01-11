@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP conduct) (NP (NNS experiments)) (PP (IN with) (NP (NP (QP (CD 10) (CD million)) (NN text) (NN morphing) (NNS sequences)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN extracted) (PP (IN from) (NP (DT the) (NNP Yelp) (NN review) (NN dataset)))))))))) (. .))

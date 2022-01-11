@@ -1,0 +1,2 @@
+(S (S (VP (VBG Explaining) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (DT a) (JJ deep) (NN network)))))) (VP (VBZ remains) (NP (DT a) (NN challenge))) (. .))
+(S (S (NP (DT This) (NN gradient)) (VP (MD can) (VP (VB be) (VP (VBN interpreted) (PP (IN as) (NP (DT a) (NN sensitivity) (NN map))))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ several) (NNS techniques)) (SBAR (WHNP (WDT that)) (S (VP (VBP elaborate) (PP (IN on) (NP (DT this) (JJ basic) (NN idea))))))))) (. .))

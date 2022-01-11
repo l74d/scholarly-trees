@@ -1,0 +1,1 @@
+(S (ADVP (RB Indeed)) (, ,) (NP (NP (RB only) (DT the) (NN detection)) (PP (IN of) (NP (DT a) (NN failure)))) (VP (VBZ is) (ADJP (JJ insuffcient) (S (VP (TO to) (VP (VB know) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB correct) (NP (DT a) (JJ faulty) (NN model))))))))))) (. .))

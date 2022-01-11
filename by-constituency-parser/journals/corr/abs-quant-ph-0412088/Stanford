@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (JJR lower) (NNS bounds)) (PP (IN for) (NP (NP (NNS tradeoffs)) (PP (IN between) (NP (DT the) (NML (NN communication) (NN C) (CC and) (NN space)) (NN S)))))) (PP (IN for) (S (VP (VBG communicating) (NP (NNS circuits)))))) (. .))
+(S (NP (NP (DT The) (JJ first) (JJ such)) (VP (VBN bound))) (VP (VBZ applies) (PP (IN to) (NP (NN quantum) (NNS circuits)))) (. .))
+(S (NP (DT This)) (VP (VBZ implies) (NP (NP (DT a) (NN separation)) (PP (IN between) (NP (NP (NN quantum)) (CC and) (NP (JJ randomized) (NNS protocols)))))) (. .))

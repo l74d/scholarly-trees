@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP compare) (NP (DT the) (NNS classifiers)) (PP (VBN based) (PP (IN on) (NP (NP (ADJP (RB statistically) (JJ significant)) (NNS differences)) (PP (IN in) (NP (NP (NN accuracy)) (CC and) (NP (JJ relative) (NN execution) (NN time)))))))) (. .))

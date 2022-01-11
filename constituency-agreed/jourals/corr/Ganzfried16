@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VP (VBZ runs) (ADVP (RB quickly)) (PP (IN in) (NP (NN practice)))) (CC and) (VP (VBZ outperforms) (NP (DT the) (JJS best) (JJ prior) (NNS approaches))))))) (. .))

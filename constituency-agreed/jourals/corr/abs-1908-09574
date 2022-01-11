@@ -1,0 +1,2 @@
+(SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (NP (DT the) (NNS assumptions)) (PP (IN of) (NP (JJ different) (NNS methods))))) (. ?))
+(SBARQ (WHNP (WP What)) (SQ (MD can) (NP (PRP we)) (VP (VB achieve) (SBAR (IN if) (S (NP (DT the) (NNS assumptions)) (VP (VBP are) (ADJP (JJ true))))))) (. ?))

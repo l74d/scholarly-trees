@@ -1,0 +1,1 @@
+(S (S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (DT these) (NNS logics)) (VP (VBP are) (ADJP (JJ undecidable)))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP use) (NP (PRP$ our) (NNS translations)) (S (VP (TO to) (VP (VB identify) (NP (JJ decidable) (NNS fragments))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB provide) (NP (NP (DT a) (NN method)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB find) (NP (NP (NNS categories)) (PP (IN of) (NP (NN traffic) (NNS scenarios)))) (ADVP (RB automatically)))))))))))))) (. .))
+(S (PP (IN In) (NP (NP (DT the) (JJ second) (NN part)) (PP (IN of) (NP (DT the) (NN clustering))))) (, ,) (NP (DT the) (NNS similarities)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB define) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS clusters))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN applied) (PP (IN for) (NP (NN highway) (NNS scenarios))))) (. .))

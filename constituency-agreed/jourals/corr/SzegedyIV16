@@ -1,0 +1,1 @@
+(S (NP (CD One) (NN example)) (VP (VBZ is) (NP (NP (DT the) (NNP Inception) (NN architecture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB achieve) (NP (ADJP (RB very) (JJ good)) (NN performance)) (PP (IN at) (NP (ADJP (RB relatively) (JJ low)) (JJ computational) (NN cost))))))))))))) (. .))

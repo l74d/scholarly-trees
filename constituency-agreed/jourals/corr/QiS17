@@ -1,0 +1,1 @@
+(S (S (NP (NNP Softmax)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN used) (PP (IN as) (NP (NN supervision)))))) (, ,) (CC but) (S (NP (PRP it)) (ADVP (RB only)) (VP (VBZ penalizes) (NP (DT the) (NN classification) (NN loss)))) (. .))

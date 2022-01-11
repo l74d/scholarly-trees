@@ -1,0 +1,3 @@
+(S (PP (IN As) (NP (DT a) (JJ particular) (NN case))) (NP (PRP we)) (VP (VBP investigate) (NP (DT the) (NNP Kolmogorov) (NN norm))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (DT this) (NN modification)) (VP (VBZ has) (NP (JJ certain) (JJ statistical) (NNS advantages)))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NNS results)) (PP (IN by) (NP (JJ several) (JJ numerical) (NNS examples)))) (. .))

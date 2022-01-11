@@ -1,0 +1,2 @@
+(S (NP (NP (VBN Distributed) (NN sensor) (NNS networks)) (PP (JJ such) (IN as) (NP (NNP IoT) (NNS deployments)))) (VP (VBP generate) (NP (NP (JJ large) (NNS quantities)) (PP (IN of) (NP (NN measurement) (NNS data))))) (. .))
+(S (ADVP (RB Often)) (, ,) (NP (NP (DT the) (NNS analytics)) (SBAR (WHNP (WDT that)) (S (VP (VBZ runs) (PP (IN on) (NP (DT this) (NN data))))))) (VP (VBZ is) (ADJP (JJ available) (PP (IN as) (NP (NP (DT a) (NN web) (NN service)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN purchased) (PP (IN for) (NP (DT a) (NN fee)))))))))))) (. .))

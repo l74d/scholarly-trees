@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Previous) (NNS methods)) (PP (IN for) (S (VP (VBG finding) (NP (JJ such) (NNS nets)))))) (VP (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (JJ random) (NN search))))) (CC and) (ADVP (RB thus)) (VP (VBP do) (RB not) (VP (VB guarantee) (NP (DT the) (JJ optimal) (NN solution))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ deterministic) (NN procedure))) (. .))

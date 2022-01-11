@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN command) (NN button)) (VP (MD may) (VP (VB contain) (NP (NP (DT a) (JJ textual) (NN label)) (CC or) (NP (DT a) (JJ graphic) (NN image)) (CC or) (NP (DT both))))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ illustrates) (NP (NP (CD 10) (VBN selected) (NNS inventions)) (PP (IN from) (NP (NNP US) (NN patent) (NN database))))) (. .))

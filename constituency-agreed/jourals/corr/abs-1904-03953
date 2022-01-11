@@ -1,0 +1,2 @@
+(S (S (VP (VBG Understanding) (NP (NP (DT the) (NNS mysteries)) (PP (IN of) (NP (DT this) (NN phenomena)))))) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ fascinating)) (JJ fundamental) (JJ theoretical) (NN problem))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP adopt) (NP (DT the) (NNP AdaBoost) (NN algorithm)) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NN base) (NNS classifiers)))))) (. .))

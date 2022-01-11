@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (RB not) (VP (VBN controlled) (ADVP (RB properly))))) (, ,) (NP (DT a) (JJ simple) (NN anomaly)) (VP (MD can) (VP (VB spread) (PP (IN throughout) (NP (DT the) (NNS data) (NN center))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (DT a) (JJ cascading) (NN failure))))))) (. .))
+(S (NP (NNP Amazon) (NNP AWS)) (VP (VBD had) (VP (VBN been) (VP (VBN affected) (PP (IN by) (NP (JJ such) (NNS incidents))) (ADVP (RB recently))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (JJ Synchronous) (NN mini-batch) (NNP SGD)) (VP (VBZ is) (ADJP (JJ state-of-the-art)) (PP (IN for) (NP (JJ large-scale) (JJ distributed) (NN machine) (NN learning)))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NN practice))) (, ,) (NP (PRP$ its) (NN convergence)) (VP (VBZ is) (VP (VBN bottlenecked) (PP (IN by) (NP (NP (JJ slow) (NN communication) (NNS rounds)) (PP (IN between) (NP (NN worker) (NNS nodes))))))) (. .))
+(S (S (NP (DT This) (NN algorithm)) (VP (VBZ improves) (NP (DT the) (JJ computation-communication) (NN trade-off)))) (CC but) (S (NP (PRP$ its) (NN convergence)) (VP (VBZ is) (RB not) (VP (JJ understood) (ADVP (RB very) (RB well))))) (. .))

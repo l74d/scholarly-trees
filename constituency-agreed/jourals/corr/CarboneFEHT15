@@ -1,0 +1,2 @@
+(S (NP (DT Those) (NNS approaches)) (VP (VBP suffer) (PP (IN from) (NP (CD two) (JJ main) (NNS drawbacks)))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP they)) (ADVP (RB often)) (VP (VBP stall) (NP (NP (DT the) (JJ overall) (NN computation)) (SBAR (WHNP (WDT which)) (S (VP (VBZ impacts) (NP (NN ingestion))))))) (. .))

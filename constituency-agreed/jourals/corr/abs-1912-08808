@@ -1,0 +1,1 @@
+(S (PP (IN Unlike) (NP (VBG existing) (NNS techniques))) (, ,) (ADVP (RB however)) (, ,) (NP (NNP DAOR)) (VP (VP (VBZ does) (RB not) (VP (VB require) (NP (DT any) (NN parameter) (NN tuning)))) (CC and) (VP (VBZ improves) (NP (DT the) (NNS embeddings) (NN generation) (NN speed)) (PP (IN by) (NP (NP (JJ several) (NNS orders)) (PP (IN of) (NP (NN magnitude))))))) (. .))

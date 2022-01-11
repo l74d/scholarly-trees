@@ -1,0 +1,2 @@
+(S (NP (NNP CurryCheck)) (VP (VBZ executes) (NP (NP (NN unit) (NNS tests)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NN property) (NNS tests)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN parameterized) (PP (IN over) (NP (QP (CD one) (CC or) (JJR more)) (NNS arguments)))))))))) (. .))
+(S (NP (NN Unit) (NNS tests) (CC and) (NNS properties)) (VP (MD can) (VP (VB be) (VP (VBN defined) (PP (IN in) (NP (DT a) (NNP Curry) (NN module))) (PP (IN without) (S (VP (VBG being) (VP (VBN exported)))))))) (. .))

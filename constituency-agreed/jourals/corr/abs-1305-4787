@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (RBS most) (JJ interesting)) (NN finding)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN error) (NN probability)) (VP (VBZ decays) (ADVP (RB exponentially)) (PP (IN with) (NP (NP (DT the) (NN duration)) (PP (IN of) (NP (NP (DT the) (NN time) (NN window)) (PP (IN of) (NP (JJ single) (NN bit) (NN exchange))))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN demonstrated) (PP (IN with) (NP (JJ practical) (NNS considerations))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT This) (JJ algebraic) (NN structure)) (VP (MD can) (VP (VB be) (VP (VBN given) (NP (JJ different) (NNS forms))))) (. .))
+(S (NP (NNS Questions)) (VP (VBD were) (ADVP (RB originally)) (VP (VBN represented) (PP (IN by) (NP (NP (NNS subsets)) (PP (IN of) (NP (NNS variables))))))) (. .))
+(S (NP (NP (NNS Pieces)) (PP (IN of) (NP (NN information)))) (VP (VBD were) (ADVP (RB then)) (VP (VBN represented) (PP (IN by) (NP (NP (NNS valuations)) (VP (VBN associated) (PP (IN with) (NP (NP (DT the) (NNS domains)) (PP (IN of) (NP (NNS variables)))))))))) (. .))
+(S (NP (JJ Classical) (NN valuation) (NNS algebras)) (VP (VBP are) (ADVP (RB essentially)) (NP (NP (DT a) (JJ special) (NN case)) (PP (IN of) (NP (DT this) (JJ new) (NN system))))) (. .))

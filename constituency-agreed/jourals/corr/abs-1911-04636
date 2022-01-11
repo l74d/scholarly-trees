@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP treat) (NP (NP (DT each) (JJ individual) (NN layer)) (PP (IN of) (NP (DT the) (NNP DNN)))) (PP (IN as) (NP (DT a) (JJ nonlinear) (JJ dynamical) (NN system)))) (CC and) (VP (VB use) (NP (NNP Lyapunov) (NN theory)) (S (VP (TO to) (VP (VB prove) (NP (NN stability) (CC and) (NN robustness)) (ADVP (RB locally))))))) (. .))

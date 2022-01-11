@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (SBAR (IN that) (S (NP (NN operator) (NN induction)) (VP (VBZ serves) (PP (IN as) (NP (NP (DT an) (JJ adequate) (NN model)) (PP (IN of) (NP (NN perception))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN action)) (PP (IN of) (NP (DT the) (NN homeostasis) (NN agent)))) (VP (MD can) (VP (VB be) (VP (VBN explained) (PP (IN by) (NP (DT the) (NN operator) (NN induction) (NN model))))))))) (. .))

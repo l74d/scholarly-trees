@@ -1,0 +1,1 @@
+(S (NP (JJ Large) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN decomposed) (PP (IN into) (NP (NP (NNS sub-models)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VP (VBN refined) (ADVP (RB semi-independently))) (CC and) (VP (VBN executed) (PP (IN in) (NP (NN parallel)))))))))))))) (. .))

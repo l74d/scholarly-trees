@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ covers) (NP (NP (DT the) (NN design) (CC and) (NN implementation)) (PP (IN of) (NP (JJ such) (NNS algorithms))))) (. .))
+(S (NP (NP (DT A) (NN host)) (PP (IN of) (NP (NP (JJ general) (NNS techniques)) (PP (IN for) (S (VP (VBG improving) (NP (NN efficiency)))))))) (VP (VBP are) (VP (VBN described))) (. .))

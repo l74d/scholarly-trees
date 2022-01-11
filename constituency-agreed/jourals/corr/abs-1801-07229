@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (NN usage)) (PP (IN of) (NP (NP (NN multiset) (NNS estimates)) (PP (IN for) (NP (NNS alternatives)))))) (VP (VBZ is) (VP (VBN described) (ADVP (RB as) (RB well)))) (. .))
+(S (NP (DT The) (JJ alternative) (NNS estimates)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (JJ expert) (NN judgment))))) (. .))

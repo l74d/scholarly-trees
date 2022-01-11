@@ -1,0 +1,2 @@
+(S (NP (JJ Recent) (NN work)) (VP (VBZ has) (VP (VBN identified) (SBAR (IN that) (S (PP (IN at) (NP (DT some) (NN point))) (NP (NN ultra-densification)) (VP (MD will) (ADVP (RB no) (RB longer)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB deliver) (NP (JJ significant) (NN throughput) (NNS gains)))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (JJ unified) (NN treatment)) (PP (IN of) (NP (NP (DT the) (NN performance) (NNS limits)) (PP (IN of) (NP (NN network) (NN densification))))))) (. .))

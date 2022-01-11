@@ -1,0 +1,1 @@
+(S (PP (IN Before) (S (VP (VBG making) (NP (DT a) (NN recommendation))))) (, ,) (NP (DT the) (NN system)) (VP (VBZ has) (NP (DT the) (NN opportunity) (S (VP (TO to) (VP (VB elicit) (NP (NP (DT the) (NN user) (POS 's)) (NNS preferences)) (PP (IN by) (S (VP (VBG making) (NP (NNS queries)))))))))) (. .))

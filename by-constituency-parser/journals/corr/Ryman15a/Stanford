@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN article)) (VP (VBZ provides) (NP (NP (DT a) (NN formalization)) (PP (IN of) (NP (NP (DT the) (NN W3C) (NN Draft) (NN Core) (NN SHACL) (NNS Semantics) (NN specification)) (VP (VBG using) (NP (NN Z) (NN notation))))))) (. .))
+(S (NP (DT This) (NN formalization) (NN exercise)) (VP (VBZ has) (VP (VBN identified) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN quality) (NNS issues)))) (PP (IN in) (NP (DT the) (NN draft))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN established) (SBAR (IN that) (S (NP (NP (DT the) (JJ recursive) (NNS definitions)) (PP (IN in) (NP (DT the) (NN draft)))) (VP (VBP are) (ADJP (RB well) (HYPH -) (VBN founded))))))) (. .))
+(S (NP (NP (JJ Further) (JJ formal) (NN validation)) (PP (IN of) (NP (DT the) (NN draft)))) (VP (MD will) (VP (VB require) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT an) (JJ executable) (NN specification) (NN technology)))))) (. .))

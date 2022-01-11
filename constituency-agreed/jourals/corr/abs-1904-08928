@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN difference)) (PP (IN between) (NP (DT the) (CD two) (NNS categories)))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (DT the) (JJ discriminative) (NN information))))))) (. .))
+(S (PP (IN For) (NP (DT the) (JJ second) (NN category))) (, ,) (NP (NP (DT the) (NNS samples)) (PP (IN in) (NP (DT each) (JJ specific) (NN class)))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN described) (ADVP (RB well))))) (. .))

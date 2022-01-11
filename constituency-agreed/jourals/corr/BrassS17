@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN if) (S (NP (CD one)) (ADVP (RB actually)) (VP (VBZ wants) (S (VP (TO to) (VP (VB develop) (NP (DT a) (JJ deductive) (NN database) (NN system)))))))) (, ,) (NP (PRP it)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (JJ many) (NN implementation) (NNS options)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (NP (NN storage) (NN space)) (PP (IN for) (NP (JJ intermediate) (NNS results)))) (VP (MD can) (VP (VB be) (VP (VBN reduced)))) (. .))

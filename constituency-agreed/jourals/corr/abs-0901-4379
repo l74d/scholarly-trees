@@ -1,0 +1,2 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB generalize) (NP (DT this) (NN strategy)) (PP (IN beyond) (NP (JJ Gaussian) (NN channel) (NNS models))))))))) (. .))
+(S (PP (IN For) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ finite) (NN field) (NN interference) (NNS channels))))) (, ,) (NP (DT this) (NN approach)) (VP (VBZ yields) (NP (DT the) (JJ ergodic) (NN capacity) (NN region))) (. .))

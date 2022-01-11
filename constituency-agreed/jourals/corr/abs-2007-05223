@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ motivates) (S (NP (PRP us)) (VP (TO to) (VP (VB update) (NP (DT the) (JJ binary) (JJ convolutional) (NN block) (NN architecture)) (S (VP (TO to) (VP (VB facilitate) (NP (NP (DT the) (NN optimization)) (PP (IN of) (NP (JJ block-wise) (NN distillation) (NN loss))))))))))) (. .))

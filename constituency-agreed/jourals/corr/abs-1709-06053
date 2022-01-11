@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP investigate) (PP (IN in) (NP (DT this) (NN paper))) (NP (NP (DT the) (NN architecture)) (PP (IN of) (NP (JJ deep) (JJ convolutional) (NNS networks))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VP (VBZ is) (ADJP (RB very) (JJ generic))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN with) (NP (RB almost) (DT any) (NNP DCNN) (NN architecture))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (NNS graphics) (NNS applications))) (, ,) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (JJ exact) (JJ geodesic) (NN distance)))) (VP (VBZ is) (ADJP (RB very) (JJ important))) (. .))
+(S (NP (DT The) (VBN proposed) (NNP PCH) (NN algorithm)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB propagate) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NNS windows)))) (ADVP (RB simultaneously) (CC and) (RB independently))))))) (. .))

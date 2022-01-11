@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NN distortion) (NNS varieties)) (PP (IN of) (NP (DT a) (VBN given) (JJ projective) (NN variety)))) (VP (VBP are) (VP (VBN parametrized) (PP (IN by) (S (VP (VP (VBG duplicating) (NP (NNS coordinates))) (CC and) (VP (VBG multiplying) (NP (PRP them)) (PP (IN with) (NP (NNS monomials))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (PRP$ their) (NNS degrees)) (CC and) (NP (VBG defining) (NNS equations)))) (. .))
+(S (NP (JJ Exact) (NNS formulas)) (VP (VBP are) (VP (VBN obtained) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NML (CD one) (HYPH -) (NN parameter)) (NNS distortions))))))) (. .))
+(S (NP (NN Multi-parameter) (NNS distortions)) (VP (VBP are) (VP (VBN studied) (S (VP (VBG using) (NP (JJ tropical) (NN geometry)))))) (. .))
+(S (NP (NP (DT The) (NN motivation)) (PP (IN for) (NP (NN distortion) (NNS varieties)))) (VP (VBZ comes) (PP (IN from) (NP (NP (JJ multi-view) (NN geometry)) (PP (IN in) (NP (NN computer) (NN vision)))))) (. .))
+(S (NP (PRP$ Our) (NN theory)) (VP (VBZ furnishes) (NP (DT a) (JJ new) (NN framework)) (PP (IN for) (S (VP (VBG formulating) (CC and) (VBG solving) (NP (JJ minimal) (NNS problems)) (PP (IN for) (NP (NP (NN camera) (NNS models)) (PP (IN with) (NP (NN image) (NN distortion))))))))) (. .))

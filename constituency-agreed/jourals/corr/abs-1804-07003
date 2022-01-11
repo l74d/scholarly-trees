@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN problem)) (VP (VBZ is) (NP (NP (DT the) (JJ insufficient) (NN study)) (PP (IN of) (NP (NP (DT the) (NN synchronization) (NN process)) (PP (IN of) (NP (NN quantum) (JJ key) (NN distribution) (NNS systems))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ contains) (NP (NP (DT a) (JJ general) (NN description)) (PP (IN of) (NP (NN quantum) (NN cryptography) (NNS principles))))) (. .))

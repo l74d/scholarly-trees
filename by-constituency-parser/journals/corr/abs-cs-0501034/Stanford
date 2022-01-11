@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP recall) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJ early) (NNS occurrences)) (PP (IN of) (NP (NP (DT the) (NNS notions)) (PP (IN of) (NP (NN interactivity) (CC and) (NN symmetry)))))))) (PP (IN in) (NP (NP (DT the) (ADJP (JJ operational) (CC and) (JJ denotational)) (NNS semantics)) (PP (IN of) (NP (NN programming) (NNS languages)))))) (. .))
+(S (NP (PRP We)) (VP (VBP suggest) (NP (DT some) (NNS connections)) (PP (IN with) (NP (NNS ludics)))) (. .))

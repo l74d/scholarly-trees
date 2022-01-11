@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (PRP they)) (VP (VP (VBP are) (ADVP (RB also)) (VP (VBN known) (PP (IN for) (S (VP (VBG having) (NP (DT an) (JJ unstable) (NN training) (NN process))))))) (CC and) (VP (MD might) (VP (VB loose) (NP (NP (NNS parts)) (PP (IN of) (NP (DT the) (NNS data) (NN distribution)))) (PP (IN for) (NP (JJ heterogeneous) (NN input) (NNS data)))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (NN training)) (VP (VBZ gets) (ADJP (RBR more) (JJ stable))) (. .))

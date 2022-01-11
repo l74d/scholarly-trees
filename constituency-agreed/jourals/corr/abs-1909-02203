@@ -1,0 +1,3 @@
+(S (S (VP (VBG Finding) (NP (JJ heavy) (NNS hitters)))) (VP (VBZ has) (VP (VBN been) (PP (IN of) (NP (JJ vital) (NN importance))) (PP (IN in) (NP (NN network) (NN measurement))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (NN room)) (PP (IN for) (NP (NP (NN improvement)) (PP (IN of) (NP (DT the) (NNP Elastic) (NN sketch))))) (PP (IN in) (S (VP (VBG finding) (NP (JJ heavy) (NNS hitters)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB tailor) (NP (NNP Elastic))))) (, ,) (NP (PRP we)) (VP (VP (VBP abandon) (NP (DT the) (JJ light) (NN part))) (, ,) (CC and) (VP (VB improve) (NP (DT the) (NN eviction) (NN strategy)))) (. .))

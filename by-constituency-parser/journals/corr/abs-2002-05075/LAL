@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Satisfiability) (VBG checking)) (PP (IN for) (NP (NN monotone) (NN modal) (NN logic)))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (PRN (-LRB- -LRB-) (ADVP (RB only)) (-RRB- -RRB-)) (ADJP (NNP NP-complete))))))) (. .))

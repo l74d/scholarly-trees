@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ addresses) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG representing) (NP (NNS ambiguities)) (PP (IN in) (NP (NP (DT a) (NN way)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (PP (PP (IN for) (NP (JJ monotonic) (NN disambiguation))) (CC and) (PP (IN for) (NP (JJ direct) (JJ deductive) (NN computation)))))))))))))) (. .))

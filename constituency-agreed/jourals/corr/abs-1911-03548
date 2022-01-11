@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB combat) (NP (DT this) (NN issue))))) (, ,) (NP (JJ several) (NN variance) (VBN reduced) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN with) (NP (NP (JJR faster) (NN convergence) (NNS guarantees)) (PP (IN than) (NP (NN vanilla) (JJ stochastic) (NN gradient) (NN descent)))))))) (. .))

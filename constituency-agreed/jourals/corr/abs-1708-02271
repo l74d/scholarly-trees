@@ -1,0 +1,3 @@
+(S (NP (NN PI) (NNS gains)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN tuned) (PP (IN before) (NP (NP (DT every) (NN match)) (PP (IN along) (NP (DT the) (NN competition)))))))))) (. .))
+(S (NP (NP (CD Three) (JJ different) (NNS carpets)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (DT the) (JJ different) (NN friction) (NNS coefficients))))) (, ,)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (DT the) (NNS experiments))))) (. .))
+(S (NP (NP (DT The) (NN robot) (NN wheel) (POS 's)) (JJ angular) (NN velocity) (NNS profiles)) (VP (VBP are) (VP (VBN generated) (PP (IN from) (NP (DT the) (NN robot) (NNS kinematics))) (PP (IN with) (NP (JJ different) (JJ initial) (NNS conditions))))) (. .))

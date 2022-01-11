@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN transmission)) (VP (VBZ occurs) (PP (IN between) (NP (NP (DT a) (NN source)) (CC and) (NP (CD two) (NNS destinations))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP compare) (NP (PRP it)) (PP (IN with) (NP (NP (JJ other) (VBG existing) (NNS protocols)) (PP (IN in) (NP (DT the) (NN literature)))))) (. .))

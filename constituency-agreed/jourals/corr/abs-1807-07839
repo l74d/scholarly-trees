@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN topology) (NN optimization)) (PP (IN of) (NP (JJ artificial) (JJ neural) (NNS networks)))) (VP (MD can) (VP (VB be) (ADJP (RB particularly) (JJ difficult)) (SBAR (IN if) (S (NP (DT the) (NN fitness) (NNS evaluations)) (VP (VBP require) (NP (JJ expensive) (NNS experiments) (CC or) (NNS simulations))))))) (. .))

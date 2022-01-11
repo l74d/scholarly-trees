@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS methods)) (VP (VBP are) (VP (VBN implemented) (CC and) (VBN evaluated) (PP (IN through) (NP (NP (JJ various) (NNS datasets)) (CC and) (NP (JJ deep) (NN learning) (NNS frameworks)))))) (. .))
+(S (NP (NP (DT The) (NN implementation)) (PP (IN of) (NP (NNP Geoseg)))) (VP (VBZ emphasizes) (NP (NN unification) (, ,) (NN simplicity) (, ,) (CC and) (NN flexibility))) (. .))

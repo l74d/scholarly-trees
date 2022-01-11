@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ uses) (NP (NP (DT a) (NN vector) (NN map)) (PP (IN of) (NP (DT the) (NN path))))) (CC and) (VP (VBZ calculates) (NP (DT the) (JJS shortest) (NN path)) (PP (IN by) (NP (NP (NNP Grid) (NNP Count) (NNP Method)) (PP (IN of) (NP (NNP Dijkstra) (NNP Algorithm))))))) (. .))

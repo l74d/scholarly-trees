@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (NN model) (POS 's)) (NN performance)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NN classification)))))))) (. .))
+(S (NP (DT A) (NN trading) (NN model)) (VP (VBZ is) (VP (VBN obtained) (PP (IN with) (NP (DT this) (NN approach))) (S (VP (TO to) (VP (VB help) (S (VP (VB devise) (NP (NN trading) (NNS strategies))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP simplify) (NP (DT the) (NN learning) (NN process)) (ADVP (RB further)) (PP (IN by) (S (VP (VBG fixing) (NP (DT a) (JJ constant) (NN vector)) (PP (IN as) (NP (NP (DT the) (NN target)) (PP (IN for) (NP (JJ non-matching) (NNS labels))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP apply) (NP (PRP$ our) (NN method)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NP (NNS sounds)) (PP (IN for) (NP (NN machine) (NN condition) (NN monitoring)))))))) (. .))

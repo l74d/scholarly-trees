@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ numerical) (NNS experiments)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NNS methods)) (VP (VBP outperform) (NP (JJ conventional) (NN optimization) (NNS methods)) (PP (IN in) (NP (NP (NN computation) (NN cost)) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NN estimation) (NN performance)))))))) (. .))

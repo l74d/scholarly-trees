@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN proposal)) (VP (VBZ is) (S (VP (TO to) (VP (VB construct) (NP (JJ bilingual) (NN word) (NNS vectors)) (PP (IN from) (NP (DT a) (NN graph))))))) (. .))
+(S (NP (DT This) (NN graph)) (VP (VBZ is) (VP (VBN generated) (S (VP (VBG using) (NP (NP (NN translation) (NNS pairs)) (VP (VBN obtained) (PP (IN from) (NP (DT an) (JJ unsupervised) (NN word) (NN alignment) (NN method))))))))) (. .))

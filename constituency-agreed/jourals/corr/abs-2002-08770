@@ -1,0 +1,2 @@
+(NP (NNP Simul) (. .))
+(S (PP (IN For) (NP (NP (NN simulation)) (PP (IN of) (NP (JJ real) (NNS materials))))) (, ,) (NP (PRP we)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB incorporate) (NP (NP (JJ nonlocal) (NNS pseudopotentials)) (CC and) (NP (JJ finite) (NN temperature) (NNS effects)))))))) (. .))

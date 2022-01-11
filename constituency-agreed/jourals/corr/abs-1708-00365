@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP construct) (NP (DT a) (JJ nonlinear) (NN kernel) (NN matrix)) (PP (IN from) (NP (NP (DT the) (JJ sparse) (NN representation)) (PP (IN of) (NP (NNS data)))))) (. .))
+(S (NP (DT Another) (NN advantage)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ simple)))))) (. .))

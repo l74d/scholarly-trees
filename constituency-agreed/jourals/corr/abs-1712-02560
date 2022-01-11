@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN method)) (PP (IN for) (NP (JJ unsupervised) (NN domain) (NN adaptation))))) (. .))
+(S (NP (CD Two) (NNS problems)) (VP (VBP exist) (PP (IN with) (NP (DT these) (NNS methods)))) (. .))

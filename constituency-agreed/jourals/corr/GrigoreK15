@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ online) (NN runtime) (NN verification))) (, ,) (NP (DT a) (NN monitor)) (VP (VBZ observes) (NP (NP (DT a) (NN program) (POS 's)) (NN execution)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ happens))))) (. .))
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB implement) (NP (NP (NN functionality)) (PP (IN of) (S (VP (VBG capturing) (NP (NNS groups)) (PP (IN in) (NP (JJ regular) (NNS expressions))))))))))))) (. .))

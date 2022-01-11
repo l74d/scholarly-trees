@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (NP (DT the) (NN learning) (NN algorithm)))) (VP (VBZ is) (S (VP (TO to) (VP (VB induce) (NP (DT a) (NN concept)) (PP (IN from) (NP (DT the) (NN training) (NNS examples))))))) (. .))

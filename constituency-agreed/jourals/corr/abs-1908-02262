@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ pre-trained) (JJ contextualized) (NN word) (NNS representations)) (PP (IN from) (NP (NNP BERT)))) (VP (VBP outperform) (NP (DT the) (JJ other) (NNS models)) (PP (ADVP (RB even)) (IN with) (NP (NP (QP (JJR less) (IN than) (CD 10)) (NN %)) (PP (IN of) (NP (DT the) (NN training) (NNS data))))))))) (. .))
+(S (NP (NP (DT The) (NN dataset)) (CC and) (NP (NP (DT the) (NN code)) (PP (IN for) (NP (DT the) (NNS models))))) (VP (VBP are) (ADJP (RB publicly) (JJ available))) (. .))

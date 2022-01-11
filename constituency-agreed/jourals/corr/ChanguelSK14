@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Video) (NN quality) (NN fairness)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (JJ similar) (NN delivery) (NNS delays))) (VP (VBP are) (VP (VBN targeted) (PP (IN among) (NP (NNS streams))))) (. .))
+(S (NP (NP (DT The) (NN transmission) (NN rate)) (PP (IN among) (NP (NNS streams)))) (VP (VBZ is) (VP (VBN adapted) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (DT the) (ADJP (RB already) (VBN encoded) (CC and) (VBN buffered)) (NNS packets)) (PP (IN in) (NP (DT the) (NN aggregator)))))))))) (. .))
+(S (NP (NP (NN Communication) (NNS delays)) (PP (IN between) (NP (NP (DT the) (NNS servers)) (CC and) (NP (DT the) (NN aggregator))))) (VP (VBP are) (VP (VBN taken) (PP (IN into) (NP (NN account))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ is) (VP (VBN described) (PP (IN with) (NP (DT a) (JJ multi-input) (JJ multi-output) (NN model))))) (. .))

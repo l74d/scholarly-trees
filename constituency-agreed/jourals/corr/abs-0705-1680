@@ -1,0 +1,2 @@
+(S (NP (NNS Options)) (VP (VBP have) (VP (VBN provided) (NP (NP (DT a) (NN field)) (PP (IN of) (NP (JJ much) (NN study)))) (PP (IN because) (IN of) (NP (NP (DT the) (NN complexity)) (VP (VBN involved) (PP (IN in) (S (VP (VBG pricing) (NP (PRP them)))))))))) (. .))
+(S (NP (JJ Neural) (NNS Networks)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB predict) (NP (NNS outcomes)) (PP (VBN based) (PP (IN on) (NP (JJ past) (NNS data))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN Although) (S (NP (DT that) (JJ prior) (NN work)) (VP (VBD demonstrated) (NP (NN scaling))))) (, ,) (NP (PRP it)) (VP (VBD did) (RB not) (VP (VB demonstrate) (NP (NN speedup)) (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBD ran) (ADVP (RB entirely)) (PP (IN in) (NP (NN emulation)))))))) (. .))

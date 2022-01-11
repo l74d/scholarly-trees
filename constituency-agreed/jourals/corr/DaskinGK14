@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS eigenvalues)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (NNP Von) (NNP Neumann) (NN entropy))) (S (VP (TO to) (VP (VB quantify) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (DT the) (JJ bipartite) (NN entanglement))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN manner))) (, ,) (NP (NP (JJ random) (NN quantum) (NNS states)) (PP (IN with) (NP (JJ predefined) (JJ bipartite) (NN entanglement) (NNS amounts)))) (VP (MD can) (VP (VB be) (VP (VBN generated) (S (VP (VBG using) (NP (JJ random) (NNP Schmidt) (NN basis))))))) (. .))

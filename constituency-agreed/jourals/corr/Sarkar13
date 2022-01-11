@@ -1,0 +1,2 @@
+(S (CC But) (NP (NN paper) (NNS documents)) (VP (VBP are) (RB not) (VP (VBN recognized) (ADVP (RB directly)) (PP (IN by) (NP (NN computer))))) (. .))
+(S (ADVP (RB Hence)) (NP (NP (DT a) (JJ large) (NN database)) (PP (IN of) (NP (NN document) (NNS images)))) (VP (MD can) (VP (VB replace) (NP (DT the) (NN paper) (NNS documents)))) (. .))

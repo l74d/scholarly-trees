@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ involves) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (NP (CD two) (JJ linear) (NNS systems)) (PP (IN of) (NP (NNS equations))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (S (NP (DT this) (NN method)) (VP (MD can) (VP (VB approximate) (NP (JJ geodesic) (NNS distances)) (ADVP (RB quickly))))) (, ,) (CC and) (S (NP (DT the) (NN approximation)) (VP (VBZ is) (ADJP (RB highly) (JJ accurate)))) (. .))

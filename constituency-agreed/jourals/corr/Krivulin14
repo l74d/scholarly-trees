@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (JJ multidimensional) (NN optimization) (NNS problems)) (PP (IN in) (NP (NP (DT the) (NN framework)) (PP (IN of) (NP (JJ tropical) (NNS mathematics)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP start) (PP (IN with) (NP (DT an) (JJ unconstrained) (NN problem)))) (CC and) (VP (VB offer) (NP (CD two) (JJ complete) (JJ direct) (NNS solutions)) (S (VP (TO to) (VP (VB demonstrate) (NP (JJ different) (JJ practicable) (NN argumentation) (NNS schemes))))))) (. .))
+(S (NP (JJ Simple) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN given) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (JJ computational) (NN technique)) (VP (VBN used) (PP (IN for) (NP (NNS solutions)))))))))) (. .))

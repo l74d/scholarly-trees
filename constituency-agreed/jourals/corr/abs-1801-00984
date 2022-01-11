@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN representation)) (PP (IN of) (NP (NNS sentences)))) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ important)) (NN task))) (. .))
+(S (NP (NP (DT The) (NN grammar)) (PP (IN of) (NP (DT this) (NN language)))) (VP (VBZ affects) (SBAR (WHADVP (WRB how)) (S (NP (PRP we)) (VP (VBP represent) (NP (DT the) (NN sentence)))))) (. .))

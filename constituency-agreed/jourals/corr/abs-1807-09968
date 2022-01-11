@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NNP CNN) (NN architecture)) (PP (IN with) (NP (JJ proper) (NNS constraints) (CC and) (NNS supervisions)))) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB overcome) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG having) (NP (NP (DT no) (NN ground) (NN truth)) (PP (IN for) (NP (DT the) (NN decomposition))))))))))))) (. .))

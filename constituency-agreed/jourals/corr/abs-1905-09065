@@ -1,0 +1,2 @@
+(S (S (VP (VBG Relying) (PP (IN on) (NP (JJ wrong) (NN information))))) (, ,) (ADVP (RB however)) (, ,) (VP (MD can) (VP (VB have) (NP (JJ severe) (NNS consequences)))) (. .))
+(S (SBAR (IN If) (S (NP (JJ multiple) (NNS agents)) (VP (VBP report) (NP (DT the) (JJ same) (NN event))))) (, ,) (NP (PRP$ their) (NN information)) (VP (VBZ is) (VP (VBN fused))) (. .))

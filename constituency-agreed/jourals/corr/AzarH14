@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT the) (JJ correct) (NN diagnosis)) (PP (IN of) (NP (DT these) (NNS diseases)))) (VP (VBZ is) (NP (ADJP (RB very) (JJ important)) (NN topic))) (. .))
+(S (NP (NP (DT The) (NN performance) (NN evaluation)) (PP (IN of) (NP (DT this) (NN system)))) (VP (VBZ is) (VP (VBN estimated) (PP (IN by) (S (VP (VBG using) (NP (NP (NN classification) (NN accuracy)) (CC and) (NP (JJ k-fold) (NN cross-validation)))))))) (. .))

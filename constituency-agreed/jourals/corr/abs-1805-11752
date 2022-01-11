@@ -1,0 +1,1 @@
+(S (PP (IN During) (NP (NN inference))) (, ,) (NP (NP (NN noise) (NNS samples)) (VP (VBN conditioned) (PP (IN on) (NP (DT the) (NN dialogue) (NN history))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB perturb) (NP (NP (DT the) (NN generator) (POS 's)) (JJ latent) (NN space)) (S (VP (TO to) (VP (VB generate) (NP (JJ several) (JJ possible) (NNS responses)))))))))) (. .))

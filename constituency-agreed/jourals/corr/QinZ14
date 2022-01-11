@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ undirected) (NN graph)) (VP (VBZ consists) (PP (IN of) (NP (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS vertices)))) (CC and) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (JJ undirected) (NNS edges)) (PP (IN between) (NP (NNS vertices))))))))) (. .))

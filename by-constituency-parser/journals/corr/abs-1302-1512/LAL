@@ -1,0 +1,3 @@
+(S (NP (JJ Spatially-coupled) (JJ low-density) (NN parity-check) (NNS codes)) (VP (VBP attract) (NP (JJ much) (NN attention)) (PP (JJ due) (PP (TO to) (NP (NP (PRP$ their) (JJ capacity-achieving) (NN performance)) (CC and) (NP (DT a) (JJ memory-efficient) (JJ sliding-window) (NN decoding) (NN algorithm)))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (DT the) (NN encoder)) (VP (VBZ needs) (S (VP (TO to) (VP (VB solve) (NP (JJ large) (JJ linear) (NNS equations))))) (S (VP (TO to) (VP (VB terminate) (NP (DT the) (NN encoding) (NN process)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (VBN modified) (JJ spatially-coupled) (NNS codes))) (. .))

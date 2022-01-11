@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (DT some) (JJ consistent) (NNS estimators)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (ADVP (RBR earlier))))))) (, ,) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ statistical) (NN efficiency)))) (VP (VBZ remains)) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP analyze) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS estimators)))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ unnormalized) (NNS models)) (VP (VBP are) (VP (VBN misspecified)))))) (. .))

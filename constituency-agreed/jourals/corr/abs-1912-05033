@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP discretize) (NP (DT the) (NN problem)) (S (VP (VBG using) (NP (DT a) (JJ finite) (NN element) (NN method))))) (CC and) (VP (VB establish) (NP (NP (NN convergence)) (PP (IN of) (NP (PRP$ our) (JJ numerical) (NN scheme)))))) (. .))

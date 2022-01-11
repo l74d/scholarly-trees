@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP deploy) (NP (CD three) (NNS methods)) (S (VP (TO to) (VP (VB detect) (NP (JJ adversarial) (NNS images)))))) (. .))
+(S (NP (NP (JJ Other) (NNS detectors)) (CC and) (NP (DT a) (JJ colorful) (NN saliency) (NN map))) (VP (VBP are) (PP (IN in) (NP (DT an) (NN appendix)))) (. .))

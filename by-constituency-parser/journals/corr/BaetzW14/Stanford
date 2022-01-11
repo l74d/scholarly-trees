@@ -1,0 +1,6 @@
+(FRAG (NP (NP (NP (NP (NNP Brooks) (POS ')) (NN Theorem)) (-LRB- [) (NP (NNP R.) (NNP L.) (NNP Brooks))) (, ,) (SBAR (S (PP (IN On) (S (VP (VBG Colouring) (NP (NP (DT the) (NNPS Nodes)) (PP (IN of) (NP (DT a) (NN Network)))))))))) (, ,) (NP (NNP Proc)) (. .))
+(NP (NNP Cambridge) (NNP Philos) (. .))
+(FRAG (NP (NN Soc)) (. .) (NP (-RRB- })))
+(NP (NN Theory) (NN Ser) (. .))
+(S (NP (QP (CD 19:269) (HYPH -) (CD 271)) (PRN (, ,) (NP (CD 1975)) (-RRB- ]))) (VP (VBZ gives) (NP (NP (DT an) (JJ algorithmic) (NN proof)) (PP (IN of) (NP (NP (NNP Brooks) (POS ')) (NN Theorem))))) (. .))
+(S (S (ADVP (RB Unfortunately)) (NP (DT this) (NN proof)) (VP (VBZ is) (VP (VBG missing) (NP (JJ important) (NNS details))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB thus)) (ADJP (JJ unclear)) (SBAR (IN whether) (S (NP (PRP it)) (VP (VBZ leads) (PP (IN to) (NP (DT a) (JJ linear) (NN time) (NN algorithm)))))))) (. .))

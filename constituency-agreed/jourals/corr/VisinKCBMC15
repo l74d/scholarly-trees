@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NNP ReNet) (NNS layers)) (VP (VBP are) (VP (VBN stacked) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (JJ pre-trained) (JJ convolutional) (NNS layers))))) (, ,) (S (VP (VBG benefiting) (PP (IN from) (NP (JJ generic) (JJ local) (NNS features))))))) (. .))

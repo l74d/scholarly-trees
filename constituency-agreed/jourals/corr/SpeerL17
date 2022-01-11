@@ -1,0 +1,2 @@
+(S (NP (NNP ConceptNet)) (VP (VBZ is) (NP (NP (DT an) (JJ open) (, ,) (JJ multilingual) (NN knowledge) (NN graph)) (SBAR (WHNP (WDT that)) (S (VP (VBZ focuses) (PP (IN on) (NP (NP (JJ general) (NN knowledge)) (SBAR (WHNP (WDT that)) (S (VP (VBZ relates) (NP (NP (DT the) (NNS meanings)) (PP (IN of) (NP (NNS words) (CC and) (NNS phrases)))))))))))))) (. .))
+(S (NP (PRP$ Our) (NN system)) (VP (VBD took) (NP (JJ first) (NN place)) (PP (IN in) (NP (DT both) (NNS subtasks)))) (. .))

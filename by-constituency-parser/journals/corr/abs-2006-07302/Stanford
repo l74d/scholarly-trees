@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (NN SMS)) (, ,) (NP (NP (PRP$ our) (NN submission)) (PP (IN to) (NP (NP (DT the) (JJ exact) (JJ treedepth) (NN track)) (PP (IN of) (NP (NN PACE) (CD 2020)))))))) (. .))
+(S (NP (NN SMS)) (VP (VBZ computes) (NP (NP (DT the) (NN treedepth)) (PP (IN of) (NP (DT a) (NN graph)))) (PP (IN by) (S (VP (VBG branching) (PP (IN on) (NP (NP (DT the) (JJ small) (JJ minimal) (NNS separators)) (PP (IN of) (NP (DT the) (NN graph))))))))) (. .))

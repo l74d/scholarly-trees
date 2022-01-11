@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN storage) (NN model)) (VP (VBZ maintains) (NP (NP (DT the) (JJ current) (NN graph) (NN snapshot)) (CC and) (NP (DT the) (NN delta)))) (. .))
+(S (NP (PRP We)) (VP (VBP reconstruct) (NP (JJ past) (NNS snapshots)) (PP (IN by) (S (VP (VBG applying) (NP (NP (JJ appropriate) (NNS parts)) (PP (IN of) (NP (DT the) (NN graph) (NN delta)))) (PP (IN on) (NP (DT the) (JJ current) (NN snapshot))))))) (. .))

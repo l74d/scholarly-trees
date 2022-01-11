@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT the) (NN time) (NN discretization))) (NP (DT the) (ADJP (RB fully) (JJ implicit)) (NNP Euler) (NN scheme)) (VP (VBZ has) (VP (VBN been) (VP (VBN used)))) (. .))

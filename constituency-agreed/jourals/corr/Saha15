@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (JJ such) (NN noise) (NN robustness))))) (, ,) (NP (DT the) (NN performance)) (VP (MD may) (VP (VB degrade) (SBAR (WHADVP (WRB when)) (S (NP (JJ such) (JJ spurious) (NNS observations)) (VP (VBP are) (ADJP (JJ absent))))))) (. .))

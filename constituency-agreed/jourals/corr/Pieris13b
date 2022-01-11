@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN part)) (PP (IN of) (NP (DT the) (JJ new) (NN algorithm)))) (VP (VBZ has) (ADVP (RB previously)) (VP (VBN been) (VP (VBN presented)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN algorithm))))) (. .))

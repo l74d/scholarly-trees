@@ -1,0 +1,2 @@
+(S (NP (JJ Bayesian) (NN inference)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN technique)) (PP (IN throughout) (NP (NNS statistics))))) (. .))
+(S (S (VP (TO To) (VP (VB facilitate) (NP (JJ Bayesian) (NN inference)) (PP (IN under) (NP (JJ differential) (NN privacy)))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ proposes) (NP (DT a) (JJ systematic) (NN mechanism))) (. .))

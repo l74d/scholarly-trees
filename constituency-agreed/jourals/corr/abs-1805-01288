@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN label)) (VP (MD may) (VP (VB be) (NP (NP (DT a) (JJ Boolean) (NN function)) (PP (IN of) (NP (DT some) (JJ atomic) (NNS labels)))))) (. .))
+(S (PP (IN For) (S (VP (VBG simplifying) (NP (NN learning))))) (, ,) (NP (PRP we)) (VP (MD may) (ADVP (RB only)) (VP (VB obtain) (NP (NP (DT the) (NN truth) (NNS functions)) (PP (IN of) (NP (DT some) (JJ atomic) (NN label)))))) (. .))

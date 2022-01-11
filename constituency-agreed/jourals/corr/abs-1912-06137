@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (JJ frequentist) (NN property)) (VP (VBZ is) (VP (VBN verified) (PP (IN by) (NP (NN simulation)))))) (, ,) (CC and) (S (NP (NP (DT the) (JJ practical) (NN applicability)) (PP (IN of) (NP (DT the) (NN method)))) (VP (VBZ is) (VP (VBN demonstrated) (S (VP (VBG using) (NP (JJ several) (JJ real) (NNS datasets))))))) (. .))

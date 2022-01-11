@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Generative) (JJ adversarial) (NNS networks)) (, ,) (CC or) (NP (NNP GANs)) (, ,)) (ADVP (RB commonly)) (VP (VBP display) (NP (JJ unstable) (NN behavior)) (PP (IN during) (NP (NN training)))) (. .))

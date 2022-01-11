@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN concept) (NN co-occurrence) (NN graph)) (SBAR (WHNP (WDT that)) (S (VP (VBZ describes) (SBAR (WHADVP (WRB how) (RB frequently)) (S (NP (NNS concepts)) (VP (VBP are) (VP (VBN searched) (ADVP (RB together)) (PP (IN in) (NP (NN search) (NNS sessions)))))))))))))) (. .))

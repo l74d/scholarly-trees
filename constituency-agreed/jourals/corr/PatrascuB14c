@@ -1,0 +1,3 @@
+(S (NP (NP (NNS Images)) (PP (IN of) (NP (NP (DT a) (NN scene)) (VP (VBN observed) (PP (PP (IN under) (NP (DT a) (JJ variable) (NN illumination))) (CC or) (PP (IN with) (NP (DT a) (JJ variable) (JJ optical) (NN aperture)))))))) (VP (VBP are) (RB not) (ADJP (JJ identical))) (. .))
+(SBARQ (WHADVP (WRB How)) (S (VP (TO to) (VP (VB obtain) (NP (PRP it))))) (. ?))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP are) (VP (VBN shown))) (. .))

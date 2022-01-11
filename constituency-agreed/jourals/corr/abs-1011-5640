@@ -1,0 +1,3 @@
+(S (NP (NNP SICStus) (NNP Prolog)) (VP (VBZ has) (VP (VBN evolved) (PP (IN for) (NP (QP (RB nearly) (CD 25)) (NNS years))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP give) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (PRP$ our) (JJ new) (JJ interactive) (NN development) (NN environment))))) (, ,) (CC and) (VP (VB describe) (NP (NP (DT a) (NN sample)) (PP (IN of) (NP (JJ key) (NNS applications)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP try) (S (VP (TO to) (VP (VB identify) (NP (JJ key) (ADJP (ADJP (JJ good)) (CC and) (ADJP (RB not) (RB so) (JJ good))) (NN design) (NNS decisions)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (ADJP (RB numerically) (JJ efficient)) (JJ dynamic) (NN model)) (PP (IN of) (NP (DT the) (NN robot)))) (VP (VBZ is) (ADVP (RB first)) (VP (VBN derived))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT a) (VBN distributed) (NN contact) (NN modal)) (VP (VBZ is) (VP (VBN augmented) (S (VP (TO to) (VP (VB incorporate) (NP (JJ hydrodynamic) (NNS forces))))))) (. .))
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ soft) (JJ robotic) (NNS snakes)) (VP (VBP have) (NP (JJ high) (NN potential) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (JJ marine) (NNS applications)))))))))))) (. .))

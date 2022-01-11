@@ -1,0 +1,4 @@
+(S (NP (NNP Orbit) (NNS codes)) (VP (VBP are) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NP (NNS codes)) (ADJP (JJ employable) (PP (IN for) (NP (NP (NNS communications)) (PP (IN on) (NP (DT a) (NN random) (JJ linear) (NN network) (VBG coding) (NN channel)))))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (NN classification)) (PP (IN of) (NP (DT these) (NNS codes)))))) (. .))
+(S (NP (PRP We)) (VP (VBP start) (PP (IN by) (S (VP (VBG classifying) (NP (NP (DT the) (NN conjugacy) (NNS classes)) (PP (IN of) (NP (NP (JJ cyclic) (NNS subgroups)) (PP (IN of) (NP (DT the) (JJ general) (JJ linear) (NN group)))))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB focus) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (JJ cyclic) (NN orbit) (NNS codes)))) (PP (TO to) (NP (NP (DT a) (VBN restricted) (NN family)) (PP (IN of) (NP (PRP them)))))))))) (. .))

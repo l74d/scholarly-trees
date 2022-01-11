@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (JJ active) (NNS nodes)) (VP (MD should) (VP (VB ensure) (NP (DT a) (NN network) (NN performance)) (PP (IN in) (NP (DT a) (NN parameter) (NN estimation) (NN scenario))))) (. .))
+(S (S (VP (TO To) (VP (VB solve) (NP (JJ such) (NNS problems))))) (, ,) (NP (PRP we)) (VP (VP (VBP present) (NP (JJ tractable) (NN optimization) (NNS formulations))) (CC and) (VP (VB propose) (NP (NP (CD two) (NNS algorithms)) (SBAR (WHNP (WDT that)) (S (VP (VBP satisfy) (NP (DT the) (JJ previous) (NN network) (NNS requirements)))))))) (. .))

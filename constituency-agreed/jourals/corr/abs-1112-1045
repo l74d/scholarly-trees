@@ -1,0 +1,3 @@
+(S (NP (NNP Dodis) (CC and) (NNP Wichs)) (VP (VBD introduced) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (DT a) (JJ non-malleable) (NN extractor)))) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN privacy) (NN amplification)))) (PP (IN with) (NP (DT an) (JJ active) (NN adversary))))))) (. .))
+(S (NP (DT A) (JJ non-malleable) (NN extractor)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB much) (JJR stronger)) (NN version)) (PP (IN of) (NP (DT a) (JJ strong) (NN extractor))))) (. .))
+(S (ADVP (RB Previously)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (QP (RB only) (CD two)) (JJ known) (NNS constructions)) (PP (IN of) (NP (JJ non-malleable) (NNS extractors))))) (. .))

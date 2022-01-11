@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN article)) (VP (VBZ demonstrates) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB develop) (NP (NP (DT a) (ADJP (NNP Microchip) (NNP PIC16F84) (VBN based)) (NN device)) (SBAR (WHNP (WDT that)) (S (VP (VBZ supports) (NP (NP (JJ RS-232) (NN interface)) (PP (IN with) (NP (NN PC))))))))))))) (. .))
+(S (NP (NP (NNP Circuit) (PRN (-LRB- -LRB-) (NNP LED) (NNP Board) (-RRB- -RRB-)) (NN design)) (CC and) (NP (NN software) (NN development))) (VP (MD will) (VP (VB be) (VP (VBN discussed)))) (. .))
+(S (NP (NP (JJ PicBasic) (NNP Pro) (NNP Compiler)) (PP (IN from) (NP (VBG microEngineering) (NNP Labs) (, ,) (NNP Inc.)))) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NNP PIC) (NN programming))))) (. .))
+(S (NP (NP (NNP Development)) (PP (IN of) (NP (NNP LED) (NNP Board) (NNP Control) (NNP Console))) (VP (VBG using) (NP (NNP C/C++)))) (VP (VBZ is) (ADVP (RB also)) (VP (ADVP (NN briefly)) (VBD discussed))) (. .))
+(S (NP (DT The) (NN project)) (VP (VBZ requires) (NP (NP (JJ basic) (NN work) (NN experience)) (PP (IN with) (NP (NP (NNP Microchip) (NNP PICs)) (, ,) (NP (JJ serial) (NN communication)) (CC and) (NP (NN programming)))))) (. .))

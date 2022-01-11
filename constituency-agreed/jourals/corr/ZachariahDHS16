@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (JJ such) (NN information))))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN mechanism)) (SBAR (WHNP (WDT which)) (S (VP (VBZ enables) (NP (JJ simultaneous) (NN synchronization) (CC and) (NN positioning))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP develop) (CC and) (VBP evaluate) (NP (NP (DT an) (JJ online) (NN estimation) (NN method)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (RB statistically) (JJ efficient))))))) (. .))

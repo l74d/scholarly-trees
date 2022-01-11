@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD designed) (NP (NP (DT a) (JJ convolutional) (JJ neural) (NN network) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBD outperformed) (NP (VBG existing) (NNS methods))))))) (. .))
+(S (PP (IN With) (NP (DT this) (NN approach))) (, ,) (NP (PRP we)) (VP (VBD attained) (NP (NP (DT an) (JJ average) (NN classification) (NN accuracy)) (PP (IN of) (NP (CD 70) (NN %))))) (. .))

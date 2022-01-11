@@ -1,0 +1,3 @@
+(S (SBAR (IN Since) (S (NP (JJS most) (NN research)) (VP (VBZ is) (ADJP (JJ algorithmic))))) (, ,) (NP (PRP$ its) (NN significance)) (VP (VBZ is) (ADVP (RB mostly)) (VP (VBN evaluated) (ADVP (RB empirically)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP want) (S (VP (TO to) (VP (VB address) (NP (NNP MaxSAT)) (PP (IN from) (NP (NP (DT the) (ADJP (RBR more) (JJ formal)) (NN point)) (PP (IN of) (NP (NP (NN view)) (PP (IN of) (NP (NNP Proof) (NNP Complexity))))))))))) (. .))
+(S (PP (IN With) (NP (DT that) (NN aim))) (NP (PRP we)) (VP (VBP start) (S (VP (VP (VBG providing) (NP (JJ basic) (NNS definitions))) (CC and) (VP (VBG proving) (NP (DT some) (JJ basic) (NNS results)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Additional) (NN encoding)) (SBAR (S (VP (TO to) (VP (VB capture) (NP (DT the) (ADJP (JJ positional) (CC and) (JJ spatial)) (NN information))))))) (VP (MD can) (VP (VB be) (VP (VBN added) (S (VP (TO to) (VP (VB enhance) (NP (DT the) (NN feature) (NN quality)))))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ separate) (NN text) (CC and) (NN image) (NNS branches)) (VP (VBG facilitating) (NP (NP (JJ respective) (JJ architectural) (NNS refinements)) (PP (IN for) (NP (JJ different) (NNS modalities))))))) (. .))

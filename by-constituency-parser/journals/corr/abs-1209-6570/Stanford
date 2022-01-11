@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NML (CD 2) (HYPH -) (NN matching))) (PP (IN of) (NP (NP (DT a) (NN graph)) (NP ($ $) (CD G$))))) (VP (VBZ is) (NP (NP (DT a) (ADJP (VBG spanning)) (NN subgraph)) (PP (IN with) (NP (JJ maximum) (NN degree) (CD two))))) (. .))

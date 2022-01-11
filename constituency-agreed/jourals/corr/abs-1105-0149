@@ -1,0 +1,2 @@
+(S (NP (CD Two) (NN case) (NNS studies)) (VP (VBD were) (VP (VBN used) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (NNS tools))))))) (. .))
+(S (NP (DT The) (NNS tools)) (VP (VBD were) (ADJP (JJ useful)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD informed) (NP (NN decision) (NNS makers)) (PP (IN about) (NP (NP (DT the) (NNS costs) (, ,) (NNS benefits) (CC and) (NNS risks)) (PP (IN of) (S (VP (VBG using) (NP (DT the) (NN cloud))))))))))) (. .))

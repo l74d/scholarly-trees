@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN work)) (VP (VBZ explores) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (JJ big) (NNS data) (NNS technologies)) (VP (VBN deployed) (PP (IN in) (NP (DT the) (NN cloud)))))) (PP (IN for) (NP (NP (NN processing)) (PP (IN of) (NP (JJ astronomical) (NNS data))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN applied) (NP (NNP Hadoop) (CC and) (NNP Spark)) (PP (TO to) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (JJ co-adding) (NP (JJ astronomical) (NNS images))))))))) (. .))
+(S (NP (PRP We)) (VP (VBN compared) (NP (NP (DT the) (NX (NX (NN overhead)) (CC and) (NX (NN execution) (NN time)))) (PP (IN of) (NP (DT these) (NNS frameworks))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (SBAR (DT that) (S (NP (NP (NN performance)) (PP (IN of) (NP (DT both) (NNS frameworks)))) (VP (VBZ is) (ADVP (RB generally)) (PP (IN on) (NP (NN par))))))) (. .))
+(S (NP (DT The) (NNP Spark) (NNP API)) (VP (VBZ is) (ADJP (RBR more) (JJ flexible)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (S (NP (CD one)) (VP (TO to) (VP (ADVP (RB easily)) (VB construct) (NP (JJ astronomical) (NNS data) (NN processing) (NNS pipelines))))))))) (. .))

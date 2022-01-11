@@ -1,0 +1,2 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (DT the) (NNP ERFNet)) (VP (VBD was) (VP (VBN used) (PP (IN as) (NP (DT the) (NN backbone))) (S (VP (TO to) (VP (VB extract) (NP (NP (DT the) (JJ hierarchical) (NNS features)) (PP (IN of) (NP (DT the) (NN road) (NN image))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (NNS lanes)) (VP (VBD were) (VP (VBN detected) (S (VP (VBG using) (NP (NN image) (NN segmentation)))))) (. .))

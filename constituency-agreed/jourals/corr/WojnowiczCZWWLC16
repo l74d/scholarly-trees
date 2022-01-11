@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (DT the) (NN inspection)) (VP (MD could) (VP (VB target) (NP (NP (JJ important) (VBN mislabeled) (NNS samples)) (CC or) (NP (NP (JJ key) (NNS vulnerabilities)) (ADJP (JJ exploitable) (PP (IN by) (NP (DT an) (JJ adversarial) (NN attack)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (JJ influential) (NNS samples)) (VP (VBP are) (ADJP (RB especially) (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN mislabeled)))))))))) (. .))

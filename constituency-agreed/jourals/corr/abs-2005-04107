@@ -1,0 +1,1 @@
+(S (NP (NP (PRP$ Our) (NN experiment)) (PP (IN with) (NP (JJ synthetic) (NNS functions)))) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (JJ sequential) (NN plane) (NN search)) (VP (MD can) (VP (VB find) (NP (JJ satisfactory) (NNS solutions)) (PP (IN in) (NP (NP (JJR fewer) (NNS iterations)) (PP (IN than) (NP (NNS baselines)))))))))) (. .))

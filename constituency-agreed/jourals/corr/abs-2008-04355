@@ -1,0 +1,5 @@
+(S (ADVP (RB Meanwhile)) (, ,) (NP (JJ new) (NNS orders)) (VP (VBP arrive) (PP (IN at) (NP (DT a) (JJ specific) (NN time))) (PP (IN into) (NP (DT the) (NN system))) (SBAR (IN while) (S (NP (DT the) (NNS vehicles)) (VP (VBP are) (VP (VBG executing) (NP (NP (DT the) (NN delivery)) (PP (IN of) (NP (VBG existing) (NNS orders))))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN stage))) (, ,) (NP (NN construction) (NNS algorithms)) (VP (VBP are) (VP (VBN applied) (S (VP (TO to) (VP (VB develop) (NP (DT the) (JJ initial) (NN route))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN stage))) (, ,) (NP (NN improvement) (NNS algorithms)) (VP (VBP are) (VP (VBN applied))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBD were) (VP (VBN designed) (PP (IN for) (NP (NP (JJ different) (NNS sizes)) (PP (IN of) (NP (NNS problems))))))) (. .))
+(S (NP (NN Analysis) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (. .))

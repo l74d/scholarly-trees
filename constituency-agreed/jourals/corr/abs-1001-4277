@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (PRP$ our) (NN method)) (S (VP (VBG using) (NP (NP (DT a) (NN corpus)) (PP (IN of) (NP (NP (JJ biomedical) (NNS sentences)) (VP (VBN annotated) (PP (IN with) (NP (JJ syntactic) (NNS links)))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (NN model)) (PP (IN of) (NP (NP (DT the) (NNS dependencies)) (PP (IN among) (NP (NNS events)))))) (VP (MD can) (VP (VB be) (VP (VBN constructed) (S (VP (TO to) (VP (VB identify) (NP (JJ potential) (NNS bugs)))))))) (. .))
+(S (NP (DT A) (JJ further) (NN advantage)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP we)) (ADVP (RB also)) (VP (VBP trace) (NP (NP (NNS events)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (RB not) (VP (VB commit)))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB infer) (NP (JJ alternative) (NNS communications)))) (. .))

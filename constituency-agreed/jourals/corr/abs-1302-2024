@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN system)) (VP (VBZ is) (VP (VBN implemented) (S (VP (VBG using) (NP (DT the) (NNP Sony) (NNP PlayStation) (NNP Move) (NN controller) (NN system)))))) (. .))
+(S (NP (DT This) (NN choice)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NN controller) (NN device) (NNS capabilities)) (CONJP (RB as) (RB well) (IN as)) (NP (NN application) (CC and) (NN environment) (NNS constraints)))))) (. .))

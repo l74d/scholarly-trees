@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (DT the) (NN localization) (NN problem))) (. .))
+(S (NP (DT The) (NN camera)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN robot) (POS 's)) (NN orientation))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN line) (VBG matching) (NN algorithm))) (, ,) (NP (DT a) (NN conversion) (NN matrix)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN computation) (NN cost))))))) (. .))

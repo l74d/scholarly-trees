@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ joint) (NN optimization) (NN framework)) (PP (IN of) (S (VP (VP (VBG learning) (NP (NNP DNN) (NNS parameters))) (CC and) (VP (VBG estimating) (NP (JJ true) (NNS labels)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN development)) (VP (VBZ is) (VP (VBN formalized) (S (VP (VBG using) (NP (DT the) (NNP Agda) (NN theorem) (NN prover)))))) (. .))

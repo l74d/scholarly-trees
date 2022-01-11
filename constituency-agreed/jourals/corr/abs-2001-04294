@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ kinetic) (NN theory)) (S (VP (TO to) (VP (VB improve) (NP (NP (NN understanding)) (CC and) (NP (VBG existing) (NNS methods))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (NP (DT the) (NN analysis)) (VP (VBZ is) (VP (VBN validated) (PP (IN by) (NP (NNS numerics))))) (. .))

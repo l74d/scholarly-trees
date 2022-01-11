@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Optimal) (NN search) (NNS strategies)) (SBAR (WHADVP (WRB where)) (S (NP (NNS targets)) (VP (VBP are) (VP (VBN observed) (PP (IN at) (NP (JJ several) (JJ different) (NNS angles)))))))) (VP (VBP are) (VP (VBN found))) (. .))
+(S (S (VP (VBG Finding) (NP (DT an) (JJ optimal) (NN solution)))) (VP (VBZ is) (ADVP (RB generally)) (NP (DT a) (JJ hard) (NN problem))) (. .))

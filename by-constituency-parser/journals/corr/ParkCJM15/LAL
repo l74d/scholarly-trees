@@ -1,0 +1,6 @@
+(S (NP (NP (NNP Hidden) (NNP Markov) (NNP Models)) (PRN (-LRB- -LRB-) (NP (NNP HMMs)) (-RRB- -RRB-))) (VP (VBP are) (NP (NP (VBG learning) (NNS methods)) (PP (IN for) (NP (JJ pattern) (NN recognition))))) (. .))
+(S (NP (DT The) (JJ probabilistic) (NNP HMMs)) (VP (VBP have) (VP (VBN been) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ used)) (NNS techniques))) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ Bayesian) (NN model))))))) (. .))
+(S (NP (NNP First-order) (JJ probabilistic) (NNP HMMs)) (VP (VBD were) (VP (VBN adapted) (PP (TO to) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (JJ belief) (NNS functions))))) (SBAR (JJ such) (IN that) (S (NP (JJ Bayesian) (NNS probabilities)) (VP (VBD were) (VP (VBN replaced) (PP (IN with) (NP (NN mass) (NNS functions))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ second-order) (NNP Hidden) (NNP Markov) (NNP Model)) (VP (VBG using) (NP (JJ belief) (NNS functions))))) (. .))
+(S (NP (NP (JJ Previous) (NNS works)) (PP (IN in) (NP (NN belief) (NNP HMMs)))) (VP (VBP have) (VP (VBN been) (VP (VBN focused) (PP (IN on) (NP (DT the) (JJ first-order) (NNP HMMs)))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (PRP them)) (PP (TO to) (NP (DT the) (JJ second-order) (NN model)))) (. .))

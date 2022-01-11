@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (JJ sensitive) (NNS data)) (VP (VBZ is) (VP (VBN stored))))) (, ,) (ADVP (RB then)) (NP (NN integrity) (CC and) (NN confidentiality)) (VP (MD must) (VP (VB be) (VP (VBN protected) (S (VP (TO to) (VP (VB ensure) (NP (NN reliability) (CC and) (NN privacy)))))))) (. .))

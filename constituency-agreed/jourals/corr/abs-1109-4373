@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN convergence) (NN time)) (PP (IN of) (NP (NNP MDFU)))) (S (VP (VBG showing) (SBAR (IN that) (S (NP (JJ stochastic) (NN message) (NN loss)) (VP (VBZ produces) (NP (JJ low) (NN overhead)))))))) (. .))

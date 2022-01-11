@@ -1,0 +1,1 @@
+(S (S (VP (VBG Scaling) (NP (NP (DT the) (NN bottleneck) (NN representation)) (PP (IN of) (NP (DT a) (VBN shared) (NN autoencoder)))))) (VP (MD can) (VP (VB provide) (NP (JJ variable) (NN rate) (NN compression)) (PP (IN with) (NP (DT a) (JJ single) (VBN shared) (NN autoencoder))))) (. .))

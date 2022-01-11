@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (DT a) (JJ new) (NN result)) (S (VP (VBG using) (NP (NP (DT a) (JJ sparse) (NN lattice)) (PP (IN of) (NP (NNS subsets))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ parameterized) (NN result)) (PP (IN for) (NP (DT the) (NN comparison) (NN complexity))))) (. .))

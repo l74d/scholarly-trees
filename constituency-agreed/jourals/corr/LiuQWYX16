@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ joint) (NN detection) (NN problem)) (PP (IN in) (NP (NNP FDJS)))) (VP (VBZ is) (VP (VP (VBN modeled) (PP (IN as) (NP (JJ non-linear) (NN optimization)))) (CC and) (VP (VBN solved) (PP (IN by) (NP (DT a) (JJ binary) (NN searching) (NN algorithm)))))) (. .))

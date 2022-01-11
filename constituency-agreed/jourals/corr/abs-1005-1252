@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Relations)) (PP (IN between) (NP (NP (DT these) (NNS concepts) (CC and) (NNS mathematics)) (PP (IN of) (NP (NNS semirings)))))) (VP (VBP are) (VP (VBN examined))) (. .))
+(S (NP (NP (DT This) (NN linearity)) (PP (IN over) (NP (NNS semirings)))) (VP (VBZ is) (ADJP (JJ convenient) (PP (IN for) (NP (JJ parallel) (NNS computations))))) (. .))

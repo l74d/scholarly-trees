@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ key) (NN innovation)) (VP (VBZ is) (SBAR (IN that) (S (PP (ADVP (RB even)) (IN after) (NP (NNP CRF) (NN training))) (, ,) (NP (DT the) (NN model)) (VP (MD can) (ADVP (RB still)) (VP (VB improve) (NP (PRP$ its) (NN extraction)) (PP (IN with) (NP (NP (NNS experiences)) (PP (IN in) (NP (PRP$ its) (NNS applications)))))))))) (. .))

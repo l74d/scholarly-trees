@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN construction)) (VP (VBZ works) (PP (IN for) (NP (ADJP (JJ linear) (CC and) (JJ nonlinear)) (NNS codes)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN report))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT both) (NNS parameters)) (VP (VBP are) (ADVP (RB also)) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (DT the) (JJ corresponding) (NNS ones)) (PP (IN of) (NP (DT the) (VBG starting) (NNS codes)))))))))) (. .))

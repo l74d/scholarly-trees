@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP examine) (NP (NNP NICD)) (PP (IN as) (NP (NP (DT a) (NN technique)) (PP (IN for) (NP (NP (NN filtering)) (, ,) (NP (NN instance) (NN weighting)) (, ,) (CC and) (S (VP (VBG selecting) (NP (NP (DT the) (NN base) (NNS classifiers)) (PP (IN of) (NP (DT a) (NN voting) (NN ensemble))))))))))) (. .))

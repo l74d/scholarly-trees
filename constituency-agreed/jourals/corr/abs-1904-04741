@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (S (VP (VBG detecting) (NP (DT the) (NNP Novel) (NNS classes)) (PP (IN in) (NP (ADJP (JJ unsupervised) (CC and) (JJ semi-supervised)) (NNS settings))))) (VP (VBZ is) (NP (NP (DT a) (JJ crucial) (NN step)) (PP (IN in) (NP (JJ such) (NNS tasks))))) (. .))

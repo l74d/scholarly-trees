@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP WSDM) (NNP Cup) (CD 2017)) (VP (VBZ is) (NP (NP (DT a) (JJ binary) (NN classification) (NN task)) (PP (IN for) (S (VP (VBG classifying) (NP (NNP Wikidata) (NNS revisions)) (PP (IN into) (NP (NN vandalism) (CC and) (NN non-vandalism)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (NNS humans)) (VP (VBP see) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (JJ novel) (NNS objects))))))) (, ,) (NP (PRP they)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB estimate) (NP (PRP$ their) (NNS properties)) (PP (IN by) (S (VP (VBG associating) (NP (PRP$ their) (NN appearance)) (PP (IN with) (NP (JJ known) (NNS objects))))))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NN Today)) (VP (VBZ is) (NP (NP (DT the) (NN era)) (PP (IN of) (NP (JJ smart) (NNS devices))))) (. .))
+(S (CC And) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS requests)) (VP (VBN sent))))) (VP (VBZ is) (PP (IN in) (NP (NP (NNS millions)) (PP (IN per) (NP (NN second)))))) (. .))
+(S (NP (NNP NDN)) (VP (VBZ handles) (NP (JJ such) (JJ huge) (NNS numbers)) (PP (IN by) (S (VP (VBG modifying) (NP (DT the) (NNP IP) (NN architecture)) (S (VP (TO to) (VP (VB meet) (NP (DT the) (JJ current) (NNS requirements))))))))) (. .))

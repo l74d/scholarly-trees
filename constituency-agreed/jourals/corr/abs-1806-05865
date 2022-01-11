@@ -1,0 +1,1 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (DT these) (NNS algorithms)) (ADVP (RB currently)) (VP (VBP require) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NN function) (NNS evaluations)))) (, ,) (S (VP (VBG limiting) (NP (PRP$ their) (NN applicability))))) (. .))

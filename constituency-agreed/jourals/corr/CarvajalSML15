@@ -1,0 +1,1 @@
+(S (NP (NN Segmentation)) (VP (VBZ is) (VP (VBN achieved) (PP (IN by) (S (VP (VBG performing) (NP (NN classification)) (PP (IN on) (NP (NP (VBG overlapping) (JJ temporal) (NNS windows)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADVP (RB then)) (VP (VBN merged) (S (VP (TO to) (VP (VB produce) (NP (DT the) (JJ final) (NN result)))))))))))))))) (. .))

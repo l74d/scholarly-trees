@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG embedding) (NP (DT a) (JJ neural) (NN network)) (PP (IN into) (NP (DT a) (NNP DCM)))))) (, ,) (NP (PRP we)) (VP (VBP exploit) (NP (NP (DT a) (JJ neural) (NN network) (POS 's)) (NN function) (NN approximation) (NN capacity)) (S (VP (TO to) (VP (VB reduce) (NP (NN specification) (NN bias)))))) (. .))

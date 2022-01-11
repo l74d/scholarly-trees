@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN hardware)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT an) (JJ abstract) (NN layer)) (PP (IN between) (NP (NP (DT the) (NN insulin) (NN pump)) (CC and) (NP (DT the) (NN cloud)))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN work)) (VP (VP (MD will) (VP (VB protect) (NP (NP (DT the) (NN patient) (POS 's)) (NNS records)) (PP (IN from) (S (VP (VBG being) (VP (VBN breached) (PP (IN from) (NP (JJ unauthorized) (NNS entities))))))))) (, ,) (CC and) (VP (VBZ authenticates) (NP (PRP them)) (PP (IN from) (NP (JJ improper) (NNS modifications))))) (. .))

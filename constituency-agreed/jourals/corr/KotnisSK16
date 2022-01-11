@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ natural) (NN strategy)) (PP (IN for) (S (VP (VBG maintaining) (NP (DT the) (NN intensity)))))) (VP (VBZ is) (S (VP (TO to) (VP (VB provide) (NP (NNS incentives)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP evaluate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT the) (JJ analytical) (NN solution)))) (PP (IN by) (S (VP (VBG performing) (NP (NNS simulations)) (PP (IN on) (NP (JJ real) (NN world) (NNS networks))))))) (. .))

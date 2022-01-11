@@ -1,0 +1,1 @@
+(S (NP (NNP Software) (NN design)) (VP (VBZ describes) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN software) (NN system)) (VP (VBZ is) (VP (VBN decomposed) (CC and) (VBN managed) (PP (IN in) (NP (JJR smaller) (NNS components)))))))) (. .))

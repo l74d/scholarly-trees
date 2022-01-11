@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP combine) (NP (JJ traditional) (NNP Autoregression) (NN model)) (PP (IN with) (NP (DT the) (JJ neural) (NN network))) (S (VP (TO to) (VP (VB solve) (NP (DT the) (ADJP (NN scale) (JJ insensitive)) (NN problem)))))) (. .))

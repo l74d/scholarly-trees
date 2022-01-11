@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN pro-tocol)) (VP (VBZ has) (VP (VBN been) (VP (VBN simulated) (PP (IN in) (NP (DT a) (NN network) (NN simulator)))))) (. .))
+(S (NP (DT The) (NN simulation) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (PRP$ its) (NN performance))))) (. .))

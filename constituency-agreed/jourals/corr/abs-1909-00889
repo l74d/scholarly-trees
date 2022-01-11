@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN segmentation) (NN network)) (VP (VBZ is) (VP (VP (VBN trained) (PP (IN without) (NP (NP (DT any) (NNS data)) (PP (IN of) (NP (NN target) (NNS domains)))))) (CC and) (VP (VBN tested) (PP (IN on) (NP (DT the) (JJ unseen) (NN target) (NNS domains)))))) (. .))

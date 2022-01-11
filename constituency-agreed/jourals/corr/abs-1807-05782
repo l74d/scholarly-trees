@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NN encryption)) (VP (VBZ requires) (NP (JJ random) (NN number) (NN padding))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NNS criteria)) (PP (IN for) (S (VP (VBG determining) (NP (DT the) (JJ appropriate) (NN padding) (NN size)))))) (VP (VBZ remains) (ADJP (JJ unclear))) (. .))

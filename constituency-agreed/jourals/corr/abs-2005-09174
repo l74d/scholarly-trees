@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN field) (NN information)) (PP (IN of) (NP (DT the) (NN dataset)))) (VP (VBZ is) (ADJP (RB very) (JJ rich)) (, ,) (PP (VBG including) (NP (NP (JJ basic) (NNS tweets) (NN information)) (, ,) (NP (JJ interactive) (NN information)) (, ,) (NP (NN location) (NN information)) (CC and) (NP (NN retweet) (NN network))))) (. .))

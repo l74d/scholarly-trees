@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ basic) (NN question)) (PP (IN of) (S (VP (VBG determining) (SBAR (IN if) (S (NP (DT a) (NN graph)) (VP (VBZ is) (VP (VBN connected)))) (CC or) (RB not))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN problem))) (, ,) (S (ADVP (RB locally)) (NP (NP (DT every) (NN part)) (PP (IN of) (NP (DT the) (NN graph)))) (VP (VBZ is) (ADJP (JJ similar)))) (CC and) (S (NP (DT the) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (JJ global) (NN structure)) (PP (IN of) (NP (DT the) (NN graph))))))))) (. .))

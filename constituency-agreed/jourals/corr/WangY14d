@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB tackle) (NP (DT these) (NNS challenges))))) (, ,) (NP (PRP we)) (VP (VBP build) (NP (NP (DT a) (NN mixture)) (PP (IN of) (NP (JJ compositional) (NNS models)))) (S (VP (TO to) (VP (VB represent) (NP (NP (DT the) (NN object) (NN boundary)) (CC and) (NP (NP (DT the) (NNS boundaries)) (PP (IN of) (NP (JJ semantic) (NNS parts))))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

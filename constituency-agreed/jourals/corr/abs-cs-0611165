@@ -1,0 +1,1 @@
+(S (ADVP (RB Also)) (, ,) (NP (NP (DT an) (JJ asynchronous) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ ensures) (NP (NP (DT the) (NN occurrence)) (PP (IN of) (NP (ADJP (RB partially) (VBN ordered)) (NNS executions)))))))) (VP (VBZ is) (VP (VBN given) (PP (IN for) (NP (DT each) (NN case))))) (. .))

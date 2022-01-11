@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS labels)) (VP (VBP are) (VP (VBN combined) (PP (IN with) (NP (NP (JJ graphical) (NN inference) (NNS techniques)) (PP (IN for) (NP (JJ incremental) (NNS updates))))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ theoretical) (NN formulation)) (PP (IN of) (NP (DT the) (JJ active) (NN learning) (NN framework)))) (PP (IN with) (NP (DT an) (JJ analytic) (NN solution)))) (. .))

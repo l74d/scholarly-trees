@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (VBG underlying) (NN graphs)) (VP (VBG corresponding) (PP (TO to) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (VBG halving) (NNS lines)))))))) (. .))
+(S (NP (PRP We)) (VP (VB establish) (NP (NP (JJ many) (NNS properties)) (PP (IN of) (NP (JJ such) (NNS graphs))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP tighten) (NP (NP (DT the) (JJ upper) (NN bound)) (PP (IN for) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (VBG halving) (NNS lines))))))) (. .))

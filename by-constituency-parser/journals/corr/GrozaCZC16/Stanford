@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (NN warning) (NN system)) (PP (IN for) (S (VP (VBG assisting) (NP (NNS drivers)) (PP (IN during) (S (VP (VBG overtaking) (NP (NNS maneuvers))))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ relies) (PP (IN on) (NP (NP (NN Car) (NN -2-Car) (NN communication) (NNS technologies)) (CC and) (NP (JJ multi-agent) (NNS systems))))) (. .))
+(S (NP (NP (DT A) (NN protocol)) (PP (IN for) (NP (NP (NN safety)) (VP (VBG overtaking))))) (VP (VBZ is) (VP (VBN proposed) (PP (VBN based) (PP (IN on) (NP (ADJP (NP (NN ACL)) (JJ communicative)) (NNS acts)))))) (. .))
+(NP (NP (NP (DT The) (JJ mathematical) (NN model)) (PP (IN for) (NP (NN safety)))) (VP (VBG overtaking) (NP (VBN used) (NNP Kalman) (NN filter)) (S (VP (TO to) (VP (VB minimize) (NP (NN localization) (NN error)))))) (. .))

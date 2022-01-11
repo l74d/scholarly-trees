@@ -1,0 +1,2 @@
+(S (NP (NNP Portfolio) (NN theory)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB very) (JJ powerful)) (NN tool)) (PP (IN in) (NP (DT the) (JJ modern) (NN investment) (NN theory))))) (. .))
+(S (NP (NP (DT The) (JJ key) (NN tool)) (PP (IN in) (NP (NNP MPT)))) (VP (VBZ is) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (DT an) (JJ empirical) (NN covariance) (NN matrix))))) (. .))

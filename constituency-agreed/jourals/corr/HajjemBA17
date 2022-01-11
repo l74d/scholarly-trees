@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (PRP they)) (VP (VBP need) (S (VP (TO to) (VP (VB protect) (NP (PRP them)) (PP (IN from) (NP (NP (DT the) (JJ different) (NNS attacks)) (VP (VBG exploiting) (NP (PRP$ their) (NNS vulnerabilities))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NNS vulnerabilities)))) (VP (MD may) (VP (VB change) (, ,) (ADVP (RB periodically)) (, ,) (PP (IN with) (NP (NP (DT the) (JJ continual) (NN appearance)) (PP (IN of) (NP (JJ new) (NNS ones))))))) (. .))

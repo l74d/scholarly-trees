@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT an) (NN adversary)) (VP (VBN located) (PP (IN in) (NP (DT the) (NN middle))))) (VP (MD can) (VP (VB modify) (NP (DT the) (NN flow)) (S (VP (TO to) (VP (VB impair) (NP (DT the) (NN correlation)) (PP (IN by) (S (VP (VP (VBG delaying) (NP (DT the) (NNS packets))) (CC or) (VP (VBG introducing) (NP (JJ dummy) (NN traffic))))))))))) (. .))

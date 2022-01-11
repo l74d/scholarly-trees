@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (NN marginalization)) (VP (VBD worked) (ADVP (RB surprisingly) (RB well)) (PP (IN for) (NP (NNP EGMM))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBP are) (NP (NP (NNS exceptions)) (SBAR (WHADVP (WRB where)) (S (NP (NN reduction)) (VP (VBZ works) (ADVP (RB well)) (PP (IN on) (NP (DT some) (NN benchmark) (NNS problems))))))))) (. .))

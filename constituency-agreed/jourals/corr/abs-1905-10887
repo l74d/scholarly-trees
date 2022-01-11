@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP perform) (NP (DT this) (NN inference)) (PP (IN by) (S (VP (VP (VBG training) (NP (DT an) (NN image) (NN classifier)) (S (VP (VBG using) (NP (RB only) (JJ synthetic) (NNS data))))) (CC and) (VP (VBG using) (NP (DT the) (NN classifier)) (S (VP (TO to) (VP (VB predict) (NP (NNS labels)) (PP (IN on) (NP (JJ real) (NNS data))))))))))) (. .))

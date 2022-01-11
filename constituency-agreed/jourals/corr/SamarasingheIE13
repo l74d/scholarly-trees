@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN base) (NN station)) (VP (VBZ is) (VP (VBN located) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (NP (DT the) (NN cell)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (NP (DT a) (NN disk)) (PP (IN of) (NP (JJ finite) (NN radius))))))))))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN system))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VBP derive) (NP (NP (DT an) (NN expression)) (PP (IN for) (NP (DT the) (NN beam) (NN outage) (NN probability))))) (. .))

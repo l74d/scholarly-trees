@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (NN model) (POS 's)) (NN interpretability)) (PP (IN through) (NP (NP (NN visualization)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS features)) (VP (VBN selected) (PP (IN by) (NP (DT the) (NN network))))))))) (. .))
+(S (NP (PRP$ Our) (NN code)) (VP (VBZ is) (ADJP (RB publicly) (JJ available))) (. .))

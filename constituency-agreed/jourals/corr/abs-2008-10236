@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG using) (NP (NP (DT the) (JJ real) (NN dataset)) (VP (VBN augmented) (PP (IN by) (NP (DT the) (JJ simulated) (NN dataset))))))) (VP (VBD resulted) (PP (IN in) (NP (ADJP (RB slightly) (JJR higher)) (NN accuracy))))))) (. .))

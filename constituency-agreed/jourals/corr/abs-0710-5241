@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ basic) (NN model)) (VP (VBZ assumes) (SBAR (S (NP (DT each) (NN node)) (VP (VBZ has) (NP (NP (DT a) (JJ certain) (NN radio) (NN coverage)) (SBAR (WHPP (IN within) (WHNP (WDT which))) (S (NP (PRP it)) (VP (MD can) (VP (VB make) (NP (JJ relative) (NN distance) (NNS measurements))))))))))) (. .))
+(S (NP (NP (DT The) (JJ theoretical) (NNS results)) (VP (VBN presented) (PP (IN in) (NP (DT the) (NN article))))) (VP (VBP are) (VP (VBN supported) (PP (IN by) (NP (NNS simulations))))) (. .))

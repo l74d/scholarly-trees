@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ its) (NN effectiveness)) (S (VP (VBG using) (NP (JJ deep) (JJ convolutional) (JJ neural) (NNS networks)) (PP (IN on) (NP (JJ various) (JJ popular) (NN image) (NNS datasets)))))) (. .))

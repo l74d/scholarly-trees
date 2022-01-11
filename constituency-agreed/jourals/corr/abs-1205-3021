@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP test) (NP (PRP$ our) (NN cryptosystem)) (S (VP (VBG using) (NP (NP (DT a) (NN computer) (NN program)) (VP (VBN written) (PP (IN in) (NP (DT the) (NNP Java) (NNP Programming) (NNP Language)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP test) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (PRP$ our) (NN cryptosystem)))) (S (VP (VBG using) (NP (JJ statistical) (NNS tests))))) (. .))

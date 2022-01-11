@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (S (VP (TO to) (VP (VB predict) (NP (JJ human) (NN anatomy)) (PP (IN from) (NP (NN body) (NN surface))))))))))) (. .))
+(S (PP (IN By) (S (VP (VBG perturbing) (NP (DT the) (NNS parameters))))) (, ,) (NP (JJ several) (JJ additional) (JJ synthetic) (NN X-ray) (NNS images)) (VP (MD can) (VP (VB be) (VP (VBN generated) (PP (IN from) (NP (DT the) (JJ same) (NN surface) (NN geometry)))))) (. .))

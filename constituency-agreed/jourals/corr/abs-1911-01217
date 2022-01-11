@@ -1,0 +1,5 @@
+(S (NP (JJ Social) (NNS media)) (VP (VBZ is) (VP (VBN filled) (PP (IN with) (NP (JJ toxic) (NN content))))) (. .))
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB build) (NP (NP (DT a) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB detect) (NP (JJ insincere) (NNS questions))))))))))) (. .))
+(S (NP (DT The) (NN dataset)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (ADJP (JJ sincere) (CC and) (JJ insincere)) (NNS questions))) (, ,) (PP (IN with) (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (JJ sincere) (NNS questions))))))) (. .))
+(S (NP (NP (DT The) (NN imbalance)) (PP (IN in) (NP (DT the) (NN dataset)))) (VP (VBZ is) (VP (VBN handled) (PP (IN by) (NP (VBG resampling) (NNS techniques))))) (. .))
+(S (NP (NP (NNS Models)) (VP (VBN discussed))) (VP (VBP include) (NP (NP (NNP SVM)) (, ,) (NP (NNP Naive) (NNP Bayes)) (, ,) (NP (NNP GRU)) (CC and) (NP (NNP LSTM)))) (. .))

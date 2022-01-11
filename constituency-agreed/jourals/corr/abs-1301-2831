@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (ADJP (JJ twofold))) (. .))
+(S (ADVP (RB Correspondingly)) (, ,) (SBAR (WHADVP (WRB whenever)) (S (NP (DT these) (NNS assumptions)) (VP (VBP hold)))) (, ,) (NP (DT the) (JJ stable) (NN sampling) (NN rate)) (VP (VBZ is) (NP (DT a) (JJ universal) (NN quantity))) (. .))

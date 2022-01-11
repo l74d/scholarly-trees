@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB derive) (NP (JJ provable) (NN robustness))))) (, ,) (NP (PRP$ our) (NNP HGM)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB inject) (NP (JJ Gaussian) (NN noise)) (PP (IN into) (NP (DT the) (JJ first) (JJ hidden) (NN layer)))))))) (. .))

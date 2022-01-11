@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN ability) (S (VP (TO to) (VP (VB mimic) (NP (NP (JJ human) (NNS notions)) (PP (IN of) (NP (JJ semantic) (NN distance)))))))) (VP (VBZ has) (NP (JJ widespread) (NNS applications))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT this) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ detailed) (NN study)) (PP (IN of) (NP (JJ distributional) (NNS measures))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN article)) (VP (VBZ presents) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (JJ current) (JJ specialized) (NN ontology) (NN engineering) (NNS tools)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NP (NN texts) (POS ›)) (NN annotation) (NNS tools)) (VP (VBN based) (PP (IN on) (NP (NNS ontologies))))))))) (. .))
+(S (NP (NP (NP (DT The) (JJ main) (NNS functions) (CC and) (NNS features)) (PP (IN of) (NP (DT these) (NNS tools)))) (, ,) (NP (PRP$ their) (NNS advantages) (CC and) (NNS disadvantages))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (NP (DT A) (JJ systematic) (JJ comparative) (NN analysis)) (PP (IN of) (NP (NP (NNS means)) (PP (IN for) (S (VP (NN engineering) (NP (NNS ontologies)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))

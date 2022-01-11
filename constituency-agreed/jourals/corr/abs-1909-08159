@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first)) (VP (VBZ contains) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (JJ useful) (NN information)) (PP (IN for) (NP (DT a) (VBN specified) (JJ supervised) (NN learning) (NN task))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (JJ simple) (CC and) (JJ scalable))) (. .))

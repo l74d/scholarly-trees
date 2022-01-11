@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (VBG labeling) (NNS data)) (VP (VP (VBZ is) (ADJP (JJ costly))) (CC and) (VP (VBZ requires) (NP (NP (DT a) (JJ huge) (NN amount)) (PP (IN of) (NP (NN work)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (ADVP (RB thus)) (VP (VBP address) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG learning) (PP (IN with) (NP (ADJP (RB very) (JJ few)) (NNS labels)))))))) (. .))

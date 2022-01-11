@@ -1,0 +1,2 @@
+(S (NP (NNP Knowledge) (NNP Management)) (VP (VBZ is) (NP (NP (DT a) (JJ global) (NN process)) (PP (IN in) (NP (NNS companies))))) (. .))
+(S (S (NP (JJ Several) (NNS approaches)) (VP (VBP have) (VP (VBN been) (VP (VBN defined) (S (VP (TO to) (VP (VB capitalize) (NP (NN knowledge))))))))) (CC but) (S (NP (NP (JJ few)) (PP (IN of) (NP (PRP them)))) (VP (VB study) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB learn) (PP (IN from) (NP (DT this) (NN knowledge))))))))) (. .))

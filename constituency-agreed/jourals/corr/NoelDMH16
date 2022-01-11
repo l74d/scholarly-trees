@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ active) (NN model))) (, ,) (NP (NNS molecules)) (VP (VBP are) (VP (VBN absorbed) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP collide) (PP (IN with) (NP (DT the) (NN receiver) (NN surface)))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ passive) (NN model))) (, ,) (NP (DT the) (NN receiver)) (VP (VBZ is) (NP (NP (DT a) (JJ virtual) (NN boundary)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB not) (VP (VB affect) (NP (NN molecule) (NN behavior)))))))) (. .))

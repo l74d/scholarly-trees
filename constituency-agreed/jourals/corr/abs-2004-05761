@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VP (VB reduce) (NP (DT the) (NN downtime))) (CC and) (VP (VB locate) (NP (DT the) (NNS failures))))))) (VP (VBZ becomes) (NP (NP (DT a) (NN core) (NN issue)) (PP (IN in) (NP (NN system) (NN design))))) (. .))
+(S (NP (DT This)) (VP (VBZ enables) (NP (JJ automatic) (NN contract) (NN refinement)) (S (VP (VBG taking) (PP (IN into) (NP (NN consideration))) (NP (NP (DT the) (NN communication) (NN overhead)) (PP (IN between) (NP (NNS components))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP implement) (CC and) (VBP test) (NP (NP (DT a) (NN classifier)) (PP (IN for) (NP (DT each) (NN modality))))) (CC and) (VP (VB organize) (NP (DT the) (NNS classifiers)) (PP (IN as) (NP (DT a) (JJ parallel) (JJ binary) (NN decision) (NN fusion) (NN architecture))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (JJ deep) (NN network)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (CD two) (JJ different) (NNS models))))) (. .))
+(S (PP (IN Through) (NP (JJ several) (NNS experiments))) (, ,) (NP (PRP we)) (VP (VBD showed) (SBAR (IN that) (S (NP (DT the) (CD two) (NNS models)) (VP (VBP cooperate) (PP (IN with) (NP (DT each) (JJ other))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS contributions)) (PP (IN of) (NP (DT this) (NN paper)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP$ our) (JJ deep) (NN network)) (VP (VBZ catches) (NP (DT the) (JJ facial) (NN action) (NNS points)) (ADVP (RB automatically)))))) (. .))

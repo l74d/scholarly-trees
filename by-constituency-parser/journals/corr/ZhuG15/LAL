@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ parallel) (NN algorithm)) (PP (IN for) (NP (DT the) (JJ undirected) ($ $) (NN s) (, ,) (JJ t) ($ $) (PRP$ -mincut) (NN problem))) (PP (IN with) (NP (JJ floating-point) (VBN valued) (NNS weights))))) (. .))
+(S (NP (PRP$ Our) (VBG overarching) (JJ algorithm)) (VP (NNS uses) (NP (DT an) (ADJP (RB iteratively) (VBN reweighted)) (JJS least) (NNS squares) (VBP framework))) (. .))
+(S (NP (DT This)) (VP (VBZ generates) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (JJ Laplacian) (JJ linear) (NNS systems))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP solve) (S (VP (VBG using) (NP (JJ parallel) (NN matrix) (NN algorithms))))))))) (. .))
+(S (NP (PRP$ Our) (JJ overall) (NN implementation)) (VP (VBZ is) (ADJP (ADJP (ADVP (RP up) (PP (TO to) (NP (NNS 30-times)))) (RBR faster)) (PP (IN than) (NP (DT a) (JJ serial) (NN solver)))) (SBAR (WHADVP (WRB when)) (S (VP (VBG using) (NP (CD 128) (NNS cores)))))) (. .))

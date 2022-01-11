@@ -1,0 +1,4 @@
+(S (NP (NN Utility) (NN mining)) (VP (VBD emerged) (S (VP (TO to) (VP (VB overcome) (NP (NP (DT the) (NNS limitations)) (PP (IN of) (NP (JJ frequent) (NN itemset) (NN mining)))) (PP (IN by) (S (VP (VBG considering) (NP (NP (DT the) (NN utility)) (PP (IN of) (NP (DT an) (NN item))))))))))) (. .))
+(S (NP (NP (NN Utility)) (PP (IN of) (NP (DT an) (NN item)))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NN user) (POS 's)) (NN interest) (CC or) (NN preference))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (JJ real) (NNS applications))) (, ,) (NP (DT some) (NNS items)) (VP (MD may) (VP (VB have) (NP (JJ negative) (NN profit)))) (. .))
+(S (PP (IN In) (NP (JJ practical) (NNS situations))) (, ,) (NP (JJ temporal) (NNS databases)) (VP (VBP are) (ADVP (RB continually)) (VP (VBN appended) (CC or) (VBN updated))) (. .))

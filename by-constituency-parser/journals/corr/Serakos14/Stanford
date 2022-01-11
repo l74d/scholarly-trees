@@ -1,0 +1,8 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (JJ multitarget) (NN tracking)) (PP (IN with) (NP (NP (JJ multiple) (NNS sensors)) (PP (IN for) (NP (NN BMD)))))) (. .))
+(S (PP (IN In) (NP (DT a) (JJ previous) (NN paper))) (NP (NP (NN multitarget)) (VP (VBG tracking) (PP (IN with) (NP (DT a) (JJ single) (NN sensor))))) (VP (VBD was) (VP (VBN considered) (PRN (-LRB- [) (NP (CD 8)) (-RRB- ])))) (. .))
+(S (NP (DT A) (JJ ballistic) (NN missile)) (VP (MD may) (VP (VB be) (PP (IN in) (NP (JJ several) (NNS pieces))) (, ,) (S (VP (VBG presenting) (NP (JJ multiple) (NNS targets)))))) (. .))
+(S (PP (IN Besides) (NP (NP (NP (DT the) (NN ground)) (VP (VBN based))) (CC or) (NP (NN ship) (NN sensor)))) (NP (EX there)) (VP (VBZ is) (ADVP (RB also)) (NP (DT the) (NN missile) (NN seeker))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NNS algorithms)) (PP (IN for) (S (VP (VBG generating) (CC and) (VBG maintaining) (NP (NP (DT the) (NNS tracks)) (VP (VBN needed) (PP (IN for) (NP (NN BMD))))))))) (. .))
+(S (NP (NP (DT A) (NN cue)) (PP (IN of) (NP (DT a) (NML (NML (NN BM)) (PP (IN from) (NP (DT a) (JJ non-organic) (NN tracking)))) (NN system)))) (VP (MD may) (ADVP (RB also)) (VP (VB be) (VP (VBN received)))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (SBAR (IN whether) (S (NP (DT the) (NN cue)) (VP (VP (VBZ is) (ADVP (RB already)) (PP (IN in) (NP (DT the) (JJ local) (NN track) (NN file)))) (CC or) (VP (VBZ is) (NP (DT a) (JJ new) (NN track))))))) (. .))
+(S (NP (DT The) (NN cue) (NN information)) (VP (MD can) (VP (VB improve) (NP (DT the) (VBG existing) (JJ local) (NN track)))) (. .))

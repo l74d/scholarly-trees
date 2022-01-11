@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ deterministic) (NNS approaches)) (VP (VBP assume) (SBAR (S (NP (NN everything)) (VP (VBZ is) (VP (VBN known) (PP (IN about) (NP (DT the) (NN system)))))))) (. .))
+(S (NP (NNP Time)) (VP (MD will) (VP (VB emerge) (PP (IN from) (NP (NP (DT the) (NN non-commutativity)) (PP (IN of) (NP (NN quantum) (NN theory))))))) (. .))

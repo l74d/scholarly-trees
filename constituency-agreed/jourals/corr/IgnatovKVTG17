@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ first) (CD two) (NNS losses)) (VP (VBP are) (VP (VBN defined) (ADVP (RB analytically)) (, ,) (SBAR (IN while) (S (NP (DT the) (NN texture) (NN loss)) (VP (VBZ is) (VP (VBN learned) (PP (IN in) (NP (DT an) (JJ adversarial) (NN fashion))))))))) (. .))

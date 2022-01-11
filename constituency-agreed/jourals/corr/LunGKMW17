@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN point) (NN cloud)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN converted) (PP (IN into) (NP (DT a) (NN polygon) (NN mesh))))) (. .))
+(S (NP (DT The) (NN encoder)) (VP (VBZ converts) (NP (DT the) (NN sketch)) (PP (IN into) (NP (NP (DT a) (JJ compact) (NN representation)) (VP (VBG encoding) (NP (NN shape) (NN information)))))) (. .))

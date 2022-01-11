@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (DT the) (NN filter) (NN size)) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT a) (JJ continuous) (NN variable)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN optimized) (PP (IN by) (S (VP (VBG minimizing) (NP (DT the) (NN training) (NN loss))))))))))))) (. .))

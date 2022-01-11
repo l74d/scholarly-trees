@@ -1,0 +1,2 @@
+(S (NP (JJ Recent) (NN work)) (VP (VBZ has) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ asynchronous) (NN session) (NN subtyping)) (VP (VBZ is) (ADJP (JJ undecidable))))))) (. .))
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN boundary)) (PP (IN between) (NP (NN decidability) (CC and) (NN undecidability)))) (PP (IN by) (S (VP (VBG considering) (NP (NP (JJ several) (NNS fragments)) (PP (IN of) (NP (NN subtyping)))))))) (. .))

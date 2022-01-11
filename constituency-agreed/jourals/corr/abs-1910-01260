@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ classical) (JJ reduced) (NN order) (NN model)) (PP (IN for) (NP (JJ dynamical) (NNS problems)))) (VP (VBZ involves) (NP (NP (JJ spatial) (NN reduction)) (PP (IN of) (NP (DT the) (NN problem) (NN size))))) (. .))
+(S (NP (DT The) (JJ incremental) (NN algorithm)) (VP (VBZ is) (ADJP (RB fully) (JJ parallel) (CC and) (JJ scalable))) (. .))

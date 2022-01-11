@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ last) (NNS years))) (, ,) (NP (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN proven) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ powerful) (NN framework)) (PP (IN for) (NP (JJ various) (NN image) (NN analysis) (NNS problems))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT some) (NN application) (NNS domains)) (VP (VBP have) (NP (JJ specific) (NNS limitations))) (. .))

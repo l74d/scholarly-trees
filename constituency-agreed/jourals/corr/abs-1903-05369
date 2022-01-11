@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN client) (NN identity) (NN information)) (VP (VBZ is) (RB not) (VP (VBN utilized) (PP (IN in) (NP (JJ previous) (NN face) (NN liveness) (NN detection) (NNS methods))))) (. .))
+(S (NP (PRP We)) (VP (VBP train) (NP (DT a) (JJ Siamese) (NN network)) (PP (IN with) (NP (NN image) (NNS pairs)))) (. .))

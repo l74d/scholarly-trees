@@ -1,0 +1,1 @@
+(S (S (NP (NNP GPU) (NNS workloads)) (VP (VBP are) (VP (VBG becoming) (ADJP (RB very) (JJ diverse) (PP (IN in) (NP (NN nature))))))) (CC and) (S (ADVP (RB hence)) (NP (CD one) (NN heuristic)) (VP (MD may) (RB not) (VP (VB work) (PP (IN for) (NP (DT all) (NNS cases)))))) (. .))

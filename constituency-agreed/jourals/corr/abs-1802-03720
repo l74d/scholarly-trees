@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN summation) (NN procedure)) (PP (IN between) (NP (NP (DT the) (JJ weighted) (NNS subarrays)) (PP (IN in) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (DT the) (NNP MV) (NN beamformer))))))))))))) (. .))

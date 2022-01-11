@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (DT these)) (PP (IN as) (NP (NP (DT a) (NN dataset)) (VP (VBG detailing) (NP (PRP$ their) (NN provenance) (CC and) (NNS properties)))))) (. .))
+(S (NP (NP (DT A) (JJ manual) (NN evaluation)) (PP (IN of) (NP (DT a) (NN dataset) (NN sample)))) (VP (VBZ shows) (NP (NP (DT an) (NN identification) (NN accuracy)) (PP (IN of) (NP (CD 89) (NN %))))) (. .))

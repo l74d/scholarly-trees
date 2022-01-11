@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN transformation) (POS 's)) (NN generality)) (VP (VBZ is) (VP (VBN explained) (PP (IN by) (NP (DT this) (NN example))))) (. .))
+(S (S (NP (PRP$ Its) (NN design)) (ADVP (RB also)) (VP (VBZ permits) (NP (DT the) (JJ inverse) (NN transformation)))) (CC but) (S (NP (DT this)) (VP (VBZ is) (RB not) (ADVP (RB yet)) (VP (VBN implemented)))) (. .))

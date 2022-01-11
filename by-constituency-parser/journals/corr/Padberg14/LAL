@@ -1,0 +1,6 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP deal) (PP (IN with) (NP (NP (JJ additional) (NN control) (VBZ structures)) (PP (IN for) (NP (VBN decorated) (NNP PT) (NNP Nets)))))) (. .))
+(S (NP (DT The) (JJ main) (NN contribution)) (VP (VBP are) (NP (NP (JJ inhibitor) (NN arcs)) (CC and) (NP (NNS priorities)))) (. .))
+(S (NP (DT The) (JJ first)) (VP (VB ensure) (SBAR (IN that) (S (NP (DT a) (NN marking)) (VP (MD can) (VP (VB inhibit) (NP (NP (DT the) (NN firing)) (PP (IN of) (NP (DT a) (NN transition))))))))) (. .))
+(S (NP (NNP Inhibitor) (VBD arcs)) (VP (NN force) (SBAR (IN that) (S (NP (DT the) (NN transition)) (VP (MD may) (ADVP (RB only)) (VP (VB fire) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN place)) (VP (VBZ is) (ADJP (JJ empty)))))))))) (. .))
+(S (NP (NP (DT an) (NN order)) (PP (IN of) (NP (NNS transitions)))) (VP (VBP restrict) (NP (DT the) (NN firing)) (, ,) (SBAR (IN so) (IN that) (S (NP (DT an) (NN transition)) (VP (MD may) (VP (VB fire) (SBAR (RB only) (IN if) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (DT the) (JJS highest) (NN priority)) (PP (IN of) (NP (DT all) (JJ enabled) (NNS transitions)))))))))))) (. .))
+(S (NP (DT This) (NN concept)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ compatible) (PP (IN with) (NP (JJ reconfigurable) (NNP Petri) (NNS nets))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN basis) (NNS vectors)) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN from) (NP (DT the) (VBN observed) (NNS data))))))))) (. .))

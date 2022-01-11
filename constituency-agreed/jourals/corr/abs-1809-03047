@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ main) (NN step)) (PP (IN for) (NP (NN item) (NN recommendation)))) (VP (VBZ is) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (JJ unrated) (NNS items)))))))) (. .))

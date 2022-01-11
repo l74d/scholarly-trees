@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (NN presence)) (PP (IN of) (NP (NNS delays))))) (, ,) (NP (NP (DT no) (NN solution)) (PP (IN with) (NP (JJ provable) (NNS guarantees)))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB exist) (PP (IN with) (NP (JJ sub-exponential) (NN running) (NN time)))))))) (. .))

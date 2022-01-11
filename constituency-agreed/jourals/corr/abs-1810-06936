@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS algorithms)) (VP (VBP need) (NP (NP (JJ vast) (NNS amounts)) (PP (IN of) (NP (NN quality) (NNS data)))) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB work) (ADVP (RB properly)) (PP (IN after) (NP (PRP$ their) (NN training) (NN process))))))))))) (. .))
+(S (NP (DT Those) (NNS problems)) (VP (VBP limit) (NP (NN scale) (CC and) (NN quality))) (. .))

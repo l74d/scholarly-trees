@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS reasons)) (PP (IN for) (NP (JJ poor) (NN performance)))) (VP (VBP are) (ADVP (RB frequently)) (RB not) (ADJP (JJ obvious))) (. .))
+(S (NP (NNS Bottlenecks)) (VP (MD can) (VP (VB occur) (PP (IN in) (NP (NP (DT any)) (PP (IN of) (NP (NP (DT the) (NN software) (NNS components)) (PP (IN along) (NP (DT the) (NN execution) (NN path))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NN web) (NNS data)) (VP (VP (VBZ is) (ADJP (JJ available)) (ADVP (RB freely))) (CC but) (VP (VBZ contains) (NP (NN noise)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG classifying) (NP (NN food) (NNS images)) (PP (IN with) (NP (JJ minimal) (NNS data) (NN curation)))))))) (. .))

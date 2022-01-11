@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ algorithmic) (NN problem)) (PP (IN of) (S (VP (VBG multiplying) (NP (NP (JJ large) (NNS matrices)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ rectangular))))))))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT a) (JJ precise) (JJ numerical) (NN barrier)) (PP (IN for) (NP (DT this) (NN method))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (PRP$ our) (NN result)) (S (VP (VBG using) (NP (NP (DT the) (JJ asymptotic) (NN spectrum)) (PP (IN of) (NP (NNS tensors))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ exact) (JJ computational) (NN complexity)) (PP (IN of) (NP (DT this) (NN approach)))) (VP (VBZ is) (ADVP (RB still)) (ADJP (RB largely) (JJ unknown))) (. .))
+(S (NP (PRP We)) (VP (VBP make) (NP (NP (NN use)) (PP (IN of) (NP (NP (JJ several) (JJ combinatorial) (NNS properties)) (PP (IN of) (NP (NN modularity)))))) (S (VP (TO to) (VP (VB get) (NP (DT these) (NNS results)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ characterizes) (NP (NP (DT the) (NN tradeoff)) (PP (IN among) (NP (JJ various) (NN system) (NNS parameters))))) (. .))
+(S (NP (PRP$ Our) (JJ analytical) (NNS results)) (VP (VBP are) (ADVP (RB finally)) (VP (VBN confirmed) (PP (IN by) (NP (JJ extensive) (NN computer) (NNS simulations))))) (. .))

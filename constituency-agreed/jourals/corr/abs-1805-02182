@@ -1,0 +1,3 @@
+(S (PP (IN For) (S (VP (VBG reaching) (NP (DT the) (NNP NE))))) (, ,) (NP (DT the) (JJS best) (NN response) (NN dynamic)) (VP (VBZ is) (VP (VBN applied))) (. .))
+(S (NP (PRP We)) (VP (VBP calculate) (NP (NP (DT the) (JJS best) (NNS responses)) (PP (IN of) (NP (DT these) (CD three) (NNS variables))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT this) (NN algorithm))) (, ,) (PP (VBG including) (NP (NP (DT the) (NN convergence)) (, ,) (NP (DT the) (NN computation) (NN complexity)) (, ,) (CC and) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NN anarchy)))))))) (. .))

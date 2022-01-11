@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN family)) (PP (IN of) (NP (NP (NN fountain) (NNS codes)) (SBAR (WHNP (WDT which)) (S (VP (VBP overcome) (NP (JJ adversarial) (NNS errors))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (NP (DT no) (JJ secret) (NN channel)) (PP (IN between) (NP (NP (DT the) (NNS senders)) (CC and) (NP (DT the) (NNS receivers))))) (VP (VBZ is) (VP (VBN required))) (. .))

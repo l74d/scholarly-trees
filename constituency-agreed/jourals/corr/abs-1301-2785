@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (NP (NNP RVM)) (VP (VBZ uses) (NP (JJ probabilistic) (NN measure)) (S (VP (TO to) (VP (VB define) (NP (DT this) (NN separation) (NN space)))))) (. .))
+(S (S (NP (NNP RVM)) (VP (VBZ uses) (NP (JJ Bayesian) (NN inference)) (S (VP (TO to) (VP (VB obtain) (NP (JJ succinct) (NN solution))))))) (, ,) (S (ADVP (RB thus)) (NP (NNP RVM)) (VP (VBZ uses) (NP (ADJP (RB significantly) (JJR fewer)) (NN basis) (NNS functions)))) (. .))

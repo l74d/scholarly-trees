@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP formalize) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (DT a) (JJ good) (NN stance) (NN summary))))) (CC and) (VP (VB propose) (NP (DT a) (JJ ranking) (NN model)) (ADVP (RB accordingly)))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB evaluate) (NP (PRP$ our) (NNS methods)) (PP (IN on) (NP (NP (CD five) (JJ controversial) (NNS topics)) (PP (IN on) (NP (NNP Twitter)))))) (. .))

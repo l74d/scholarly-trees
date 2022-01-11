@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (NP (NN energy)) (PP (IN of) (NP (NP (NNS nodes)) (PP (IN of) (NP (DT the) (JJ specific) (NN region)))))) (VP (VBZ is) (ADJP (JJ low))))) (, ,) (NP (NP (NNS nodes)) (PP (IN from) (NP (DT another) (NN region)))) (VP (VBP are) (VP (VBN selected) (PP (IN as) (NP (NN cluster) (NNS heads))))) (. .))
+(S (NP (NP (VBN Optimized) (NN selection)) (PP (IN of) (NP (NN cluster) (NNS heads)))) (VP (VBZ helps) (PP (IN in) (S (VP (VBG improving) (NP (NP (NN lifespan)) (PP (IN of) (NP (DT the) (NN sensor) (NN network)))))))) (. .))

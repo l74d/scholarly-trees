@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ classical) (NN setting))) (, ,) (PP (IN by) (NP (NN contrast))) (, ,) (S (S (VP (VBG recovering) (NP (DT the) (JJ key)))) (VP (VBZ uses) (NP (NP (DT a) (JJ linear) (NN number)) (PP (IN of) (NP (NN decryption) (NNS queries)))))) (, ,) (CC and) (S (NP (DT this)) (VP (VBZ is) (ADJP (JJ optimal)))) (. .))

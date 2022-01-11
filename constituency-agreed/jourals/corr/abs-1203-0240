@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN attack)))) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (NN power) (NN consumption)) (PP (IN of) (NP (DT the) (NN target) (NN node)))) (, ,) (S (ADVP (RB thereby)) (VP (VBG decreasing) (NP (PRP$ its) (NN battery) (NN life)))))))) (. .))

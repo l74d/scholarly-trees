@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ generalizes) (NP (NP (DT the) (NN logic)) (PP (IN of) (NP (NP (ADJP (ADJP (NN goal) (HYPH -) (VBN directed)) (S (VP (VBG knowing) (SBAR (WHADVP (WRB how)) (S (VP (VBN proposed) (PP (IN by) (NP (NP (NNP Yanjing) (NNP Wang)) (NP (CD 2015) (SYM ') (NN A)))))))))) (NN logic)) (PP (IN of) (S (VP (VBG knowing) (NP (WRB how)))) ('' ')))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN sound)) (CC and) (NP (NP (JJ complete) (NN axiomatization)) (PP (IN of) (NP (DT this) (NN logic)))))) (. .))

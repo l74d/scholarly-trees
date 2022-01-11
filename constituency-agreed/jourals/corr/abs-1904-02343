@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN method)) (VP (VP (VBZ requires) (NP (DT no) (JJ explicit) (NN supervision))) (, ,) (CC and) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN with) (NP (NP (RB only) (DT a) (NN seed) (NN dictionary)) (PP (IN of) (NP (NP (NNS words)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (JJ identical) (NNS strings))))))))))))) (. .))

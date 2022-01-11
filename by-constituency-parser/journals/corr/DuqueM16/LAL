@@ -1,0 +1,3 @@
+(S (VP (VB Let) (S (NP ($ $) (NNP S) ($ $)) (VP (VB be) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP ($ $) (JJ n) ($ $) (NNS points)) (PP (IN in) (NP (NP (JJ general) (NN position)) (PP (IN in) (NP (DT the) (NN plane))))))))))) (. .))
+(S (VP (NNP Join) (NP (NP (DT every) (NN pair)) (PP (IN of) (NP (NNS points))) (PP (IN in) (NP ($ $) (NNP S) ($ $)))) (PP (IN with) (NP (DT a) (JJ straight) (NN line) (NN segment)))) (. .))
+(S (VP (VB Suppose) (SBAR (IN that) (S (NP (DT this) (NN number)) (VP (VBZ is) (VP (VBN known)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN engineering) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ limited) (NN healthcare) (NN access)))) (PP (IN with) (NP (DT a) (JJ single) (NN device))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN research))) (, ,) (NP (DT a) (JJ cheap) (NN device)) (VP (VBD was) (VP (VBN created) (S (VP (TO to) (VP (VB allow) (PP (IN for) (NP (NP (JJ straightforward) (NN diagnosis) (CC and) (NN treatment)) (PP (IN of) (NP (JJ human) (NNS diseases)))))))))) (. .))

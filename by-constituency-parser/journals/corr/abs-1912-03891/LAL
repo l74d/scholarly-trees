@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Tropical) (NNP Geometry)) (CC and) (NP (NNP Mathematical) (NNP Morphology))) (VP (NN share) (NP (DT the) (JJ same) (NX (NX (UCP (JJ max-plus) (CC and) (JJ min-plus)) (NN semiring) (JJ arithmetic)) (CC and) (NX (JJ matrix) (NN algebra))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP generalize) (NP (JJ tropical) (JJ geometrical) (NNS objects)) (S (VP (VBG using) (NP (JJ weighted) (NNS lattices))))) (. .))
+(S (NP (DT This)) (ADVP (RB also)) (VP (VBZ includes) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (NP (DT the) (NN convex) (NN regression) (NN problem)) (PP (IN of) (NP (NP (NNS data) (VBG fitting)) (PP (IN with) (NP (JJ max-affine) (NNS functions))))))))))) (. .))

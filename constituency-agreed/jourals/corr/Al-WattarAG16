@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN Operating) (NN System)) (VP (VP (VBZ performs) (NP (JJ online) (NN task) (NN scheduling))) (CC and) (VP (VBZ handles) (NP (NN resource) (NN management)))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ many) (NNS challenges)) (PP (IN in) (NP (NP (JJ adaptive) (NN computing)) (CC and) (NP (JJ dynamic) (JJ reconfigurable) (NNS systems)))))) (. .))

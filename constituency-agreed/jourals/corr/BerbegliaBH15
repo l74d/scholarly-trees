@@ -1,0 +1,2 @@
+(S (NP (NN Consumer) (NNS trials)) (VP (VBP are) (VP (VBN influenced) (PP (IN by) (NP (NP (JJ past) (NNS purchases)) (CC and) (NP (NP (DT the) (NN ranking)) (PP (IN of) (NP (DT each) (NN product)))))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (JJ past) (NNS purchases)) (VP (VBP are) (VP (VBN displayed))))) (, ,) (NP (NN consumer) (NN heterogeneity)) (VP (VBZ makes) (S (NP (NNS buyers)) (VP (VB try) (NP (DT the) (JJ sub-optimal) (NNS products)))) (, ,) (S (VP (VBG reducing) (NP (DT the) (JJ overall) (NNS sales) (NN rate))))) (. .))

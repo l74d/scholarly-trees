@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VP (VBZ outperforms) (NP (PDT all) (DT the) (NNS baselines))) (CC and) (VP (VBZ has) (NP (JJ good) (NN generalizability))))))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (JJ hidden) (NN period) (NN identification)) (CC and) (NP (NP (DT the) (JJ periodic) (NN decomposition)) (PP (IN of) (NP (NNS signals))))))) (. .))
+(S (NP (DT The) (NNP CSMP)) (VP (VBZ is) (VP (VBN performed) (ADVP (RB iteratively)) (PP (IN in) (NP (CD two) (NNS stages))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN stage))) (, ,) (NP (DT the) (JJ dominant) (JJ hidden) (NN period)) (VP (VBZ is) (VP (VBN chosen) (PP (IN with) (NP (DT the) (NN periodicity) (NN strategy))))) (. .))

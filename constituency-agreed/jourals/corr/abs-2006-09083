@@ -1,0 +1,1 @@
+(S (NP (PRP They)) (VP (VBP confirm) (SBAR (IN that) (S (NP (DT this) (NN strategy)) (VP (VBZ reduces) (NP (DT the) (NN training) (NN time)) (SBAR (IN while) (S (NP (PRP it)) (ADVP (RB even)) (VP (VBZ increases) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (VBG resulting) (JJ neural) (NN network))))))))))) (. .))

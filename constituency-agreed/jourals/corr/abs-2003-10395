@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ semirealistic) (JJ linear) (NN model)) (VP (VBZ is) (VP (VP (VBN discretized) (PP (IN by) (NP (JJ finite) (NNS elements)))) (CC and) (VP (VBN studied) (ADVP (RB numerically))))) (. .))

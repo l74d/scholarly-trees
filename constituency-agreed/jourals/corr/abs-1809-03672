@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (JJ few) (NN work)) (VP (VB consider) (NP (NP (DT the) (VBG changing) (NN trend)) (PP (IN of) (NP (NN interest))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP design) (NP (NN interest) (NN extractor) (NN layer)) (S (VP (TO to) (VP (VB capture) (NP (JJ temporal) (NNS interests)) (PP (IN from) (NP (NN history) (NN behavior) (NN sequence))))))) (. .))

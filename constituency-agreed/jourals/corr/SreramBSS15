@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB compute) (NP (NP (DT the) (JJ optimal) (NN smoothing) (NN parameter)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes) (NP (DT the) (JJS best) (NNS estimates))))))))) (, ,) (NP (JJ genetic) (NN algorithm)) (VP (VBZ is) (VP (VBN used))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP are) (VP (VBG using) (NP (JJ deep) (JJ convolutional) (JJ neural) (NNS networks)) (S (VP (TO to) (VP (VB represent) (NP (JJ complex) (NNS features))))))) (. .))
+(S (NP (PRP We)) (VP (VBP train) (NP (DT the) (NN network)) (PP (IN on) (NP (NP (DT a) (NN dataset)) (VP (VBG providing) (NP (NP (DT a) (JJ broad) (NN categorization)) (PP (IN of) (NP (NN health) (NN information)))))))) (. .))

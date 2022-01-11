@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (JJ different) (NN regression) (NNS problems)))) (VP (VBP demonstrate) (NP (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (NN optimization) (NN algorithm)))) (CC and) (NP (NP (PRP$ its) (NN scalability)) (PP (IN with) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN problem)))))))) (. .))

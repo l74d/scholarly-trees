@@ -1,0 +1,1 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (JJ many) (VBG existing) (JJ stochastic) (NN optimization) (NNS algorithms)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN parallelized) (ADVP (RB efficiently))))) (. .))

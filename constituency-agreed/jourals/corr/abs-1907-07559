@@ -1,0 +1,1 @@
+(S (S (NP (PDT All) (DT the) (JJ obvious) (NN security) (NNS goals)) (VP (MD can) (VP (VB be) (VP (VBN proved))))) (: ;) (S (NP (NN session) (NN resumption)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (ADJP (JJ secure)) (SBAR (RB even) (IN if) (S (NP (JJ old) (NN session) (NNS keys)) (VP (VBP have) (VP (VBN been) (VP (VBN compromised))))))))))) (. .))

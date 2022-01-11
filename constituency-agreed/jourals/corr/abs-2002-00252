@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS techniques)) (VP (VBP rely) (PP (IN on) (NP (NP (JJ distinct) (NN router) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB serve) (PP (IN as) (NP (DT a) (NN signature)))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (DT the) (NNS details)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (VP (VBN used) (PP (IN by) (NP (NNP Limited) (NNP Ltd.)))))))) (CC and) (VP (VB illustrate) (NP (PRP$ its) (NN feasibility) (CC and) (NN accuracy)))) (. .))

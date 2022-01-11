@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (VBN given) (NN set)) (PP (IN of) (NP (NNS subgoals)))) (VP (VBZ is) (VP (VBN partitioned) (PP (IN into) (NP (JJR smaller) (NNS sets))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (NN co-occurrence)) (PP (IN of) (NP (JJ free) (NNS variables)))))))) (. .))

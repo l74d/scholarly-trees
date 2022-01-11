@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NNS libraries)) (VP (VBP are) (VP (VBN littered) (PP (IN with) (NP (JJ unnecessary) (NN redundancy))))) (. .))
+(S (NP (NP (JJ Tactic) (NNS languages)) (PP (IN in) (NP (DT these) (NNS systems)))) (VP (VBP are) (VP (VBN plagued) (PP (IN by) (NP (NP (DT a) (ADJP (RB seemingly) (JJ unrelated)) (NN issue)) (: :) (NP (NP (JJ accidental) (NN name) (NN capture)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB often)) (VP (VBZ produces) (NP (ADJP (JJ unexpected) (CC and) (JJ counterintuitive)) (NN behavior)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ semantic) (NN scene) (NN graph)) (SBAR (WHNP (WDT which)) (S (VP (VBZ describes) (NP (NP (PDT all) (DT the) (JJ contextual) (NNS relations)) (PP (IN within) (NP (DT the) (NN scene)))))))) (VP (VBZ is) (VP (VBN constructed) (S (VP (VBG using) (NP (DT this) (NN information)))))) (. .))
+(S (S (VP (TO To) (VP (VB evaluate) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT these) (NNS graphs))))))) (, ,) (NP (JJ multiple) (JJ different) (NNS measures)) (VP (VBP are) (VP (VBN formulated))) (. .))

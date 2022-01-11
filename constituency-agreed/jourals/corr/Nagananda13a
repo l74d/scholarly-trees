@@ -1,0 +1,2 @@
+(S (S (NP (DT A) (JJ linear) (JJ dynamic) (NN model)) (VP (VBZ captures) (NP (NP (DT the) (NN time) (NN evolution)) (PP (IN of) (NP (NN system) (NNS states)))))) (, ,) (CC and) (S (NP (DT a) (JJ simple) (NN procedure)) (VP (VBZ is) (VP (VBN devised) (S (VP (TO to) (VP (VB estimate) (NP (DT the) (NN state) (NN transition) (NN function)) (PP (IN at) (NP (DT each) (NN time) (NN instant))))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (JJ several) (JJ standard) (NNP IEEE) (NN test) (NN bus) (NNS systems))))) (. .))

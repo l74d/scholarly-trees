@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP test) (NP (DT the) (NN algorithm)) (ADVP (RB empirically)) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ works) (ADVP (RB succesfully)) (PP (IN on) (NP (NP (DT a) (NN dataset)) (PP (IN with) (NP (QP (RB roughly) (CD 106)) (NNS labels))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN function)) (VP (VBZ is) (NP (NP (DT a) (JJ multi-objective) (NN cross) (NN entropy)) (SBAR (WHNP (WDT which)) (S (VP (VBZ places) (NP (DT the) (NNS tracklines))))))) (. .))
+(S (NP (DT The) (JJ second) (NN function)) (VP (VBZ sets) (NP (NP (DT the) (JJ optimal) (NNS speeds)) (PP (IN on) (NP (DT each) (NN trackline)))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT an) (JJ interior) (NN point) (NN method)))))) (. .))

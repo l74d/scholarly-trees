@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (, ,) (S (NP (DT the) (JJ objective) (NN function)) (VP (VBZ is) (VP (VBN approximated) (PP (IN by) (NP (DT a) (NN convex) (NN function)))))) (CC and) (S (NP (DT the) (NN integer) (NN programming) (NN problem)) (VP (VBZ is) (VP (VBN solved) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NN constraint) (NN relaxation) (NNS techniques)))))))) (. .))

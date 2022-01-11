@@ -1,0 +1,2 @@
+(S (NP (JJ Interactive) (NN program) (NN verification)) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (NP (NNS iterations)) (PP (IN of) (NP (JJ unfinished) (NN proof) (NNS attempts))))))) (. .))
+(S (NP (DT The) (NN tool)) (VP (VBZ is) (VP (VBN built) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (NP (NNP KeY)) (, ,) (NP (NP (DT a) (NN system)) (PP (IN for) (NP (NP (JJ deductive) (NN verification)) (PP (IN of) (NP (NNP Java) (NNS programs)))))))))))) (. .))

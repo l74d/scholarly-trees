@@ -1,0 +1,1 @@
+(S (NP (NP (NN Visualization)) (PP (IN of) (NP (NN dialogue) (NNS embeddings)))) (VP (VBZ illustrates) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (MD can) (VP (VB learn) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (NN dialogue) (NNS states))))))))) (. .))

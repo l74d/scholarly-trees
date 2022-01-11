@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN studied) (PP (IN as) (NP (JJ separate) (NNS modules))) (, ,) (ADVP (RB however)))) (. .))
+(S (NP (DT The) (NNS weights)) (VP (VBP are) (VP (VBN learned) (PP (IN by) (S (VP (VBG leveraging) (NP (NN feature) (NN attention))))))) (. .))

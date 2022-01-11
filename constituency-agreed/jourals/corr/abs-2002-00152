@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN without) (NP (NP (NP (NN user) (POS 's)) (JJ behavioral) (NN assessment)) (PP (IN of) (NP (NN technology))))) (, ,) (NP (NP (DT the) (JJ ultimate) (NN usefulness)) (PP (IN of) (NP (JJ smart) (NN mobility)))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN achieved)))) (. .))
+(S (ADVP (RB Then)) (NP (NNS responses)) (VP (VBD were) (VP (VBN analyzed) (PP (IN for) (NP (NP (NN reliability) (, ,) (NN validity) (CC and) (NN accuracy)) (PP (IN of) (NP (NN model))))))) (. .))

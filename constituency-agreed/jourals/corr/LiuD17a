@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT each) (NN event))) (, ,) (NP (PRP it)) (VP (VBZ computes) (NP (DT the) (NN motion) (NN direction)) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (CD 9) (NNS directions)))))) (. .))
+(S (NP (NP (DT The) (NN speed)) (PP (IN of) (NP (DT the) (NN motion)))) (VP (VBZ is) (VP (VBN set) (PP (IN by) (NP (DT the) (NN sample) (NN interval))))) (. .))

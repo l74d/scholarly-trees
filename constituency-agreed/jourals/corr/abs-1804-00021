@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN method)) (VP (MD will) (VP (VB boost) (NP (NP (DT the) (NN generalization) (NN performance)) (PP (IN of) (NP (DT the) (NN cloud) (NNP CNN)))) (ADVP (RB significantly)) (, ,) (PP (ADVP (RB especially)) (IN during) (NP (NP (DT the) (JJ early) (NN stage)) (PP (IN of) (NP (NN training))))))) (. .))

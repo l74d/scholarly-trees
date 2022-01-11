@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ converts) (NP (NP (DT the) (NN source) (NN code)) (PP (IN of) (NP (DT a) (NNP RTL) (NN design)))) (PP (IN into) (NP (DT a) (NNP C++) (NN software) (NN program)))) (. .))
+(S (ADVP (RB Then)) (NP (DT a) (JJ powerful) (JJ symbolic) (NN execution) (NN engine)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB execute) (NP (DT the) (JJ converted) (NNP C++) (NN program)) (ADVP (RB symbolically)) (S (VP (TO to) (VP (VB generate) (NP (NN test) (NNS cases)))))))))) (. .))

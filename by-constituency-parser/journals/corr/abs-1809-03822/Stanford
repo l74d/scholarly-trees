@@ -1,0 +1,5 @@
+(S (NP (NP (DT A) (JJ significant) (NN category)) (PP (IN of) (NP (NN NoSQL) (NNS approaches)))) (VP (VBZ is) (VP (VBN known) (PP (IN as) (NP (NP (NN graph)) (NP (NNP da) (HYPH -) (NNS tabases)))))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN represented) (PP (IN by) (NP (NML (CD one) (NN property)) (NN graph))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (DT a) (JJ functional) (NN approach)) (PP (IN to) (S (VP (VBG modelling) (NP (NML (NNS relations) (CC and) (NN property)) (NNS graphs)))))) (. .))
+(S (NP (ADJP (JJ Single) (HYPH -) (SBAR (S (VP (VBN valued) (CC and) (VBN multivalued))))) (NNS functions)) (VP (MD will) (VP (VB be) (ADJP (JJ sufficient) (PP (IN in) (NP (DT this) (NN case)))))) (. .))
+(S (NP (NP (DT Some) (NN integration) (NNS options)) (PP (IN at) (NP (DT the) (NN query) (NN language) (NN level)))) (VP (VBP are) (VP (VBN discussed))) (. .))

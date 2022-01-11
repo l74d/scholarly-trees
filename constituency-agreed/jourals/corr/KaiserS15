@@ -1,0 +1,1 @@
+(S (NP (DT These)) (VP (VBP are) (NP (NP (ADJP (RB fully) (JJ differentiable)) (NNS computers)) (SBAR (WHNP (WDT that)) (S (VP (VBP use) (NP (NN backpropagation)) (S (VP (TO to) (VP (VB learn) (NP (PRP$ their) (JJ own) (NN programming)))))))))) (. .))

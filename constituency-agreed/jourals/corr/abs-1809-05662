@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN recommender) (NNS systems)) (VP (VBP have) (ADVP (RB long)) (VP (VBN been) (VP (VBN investigated) (PP (IN in) (NP (DT the) (NN literature)))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS attempts)))) (VP (VBP have) (VP (VBN been) (VP (VBN made) (S (VP (TO to) (VP (VB resolve) (NP (DT this) (NN issue)))))))) (. .))

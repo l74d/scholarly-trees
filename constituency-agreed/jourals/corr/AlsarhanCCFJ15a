@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS algorithms)) (VP (VP (VBP are) (ADJP (JJ optimal))) (CC and) (VP (VB run) (PP (IN in) (NP (JJ linear) (NN time))))) (. .))

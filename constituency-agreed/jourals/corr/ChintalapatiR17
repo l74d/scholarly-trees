@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ central) (NN point)) (PP (IN in) (NP (JJ spectral) (NN clustering)))) (VP (VBZ is) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG capturing) (NP (JJ pair-wise) (NN similarity))))))) (. .))
+(S (NP (DT These) (JJ local) (NNS features)) (VP (VBP are) (VP (VBN incorporated) (PP (IN into) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (DT the) (NN affinity) (NN matrix))))))) (. .))

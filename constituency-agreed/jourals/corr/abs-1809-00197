@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP penalize) (NP (JJ divergent) (NNS cross-entropies))) (CC and) (VP (VB weigh) (NP (DT the) (NN penalty)) (PP (IN by) (NP (NP (DT the) (JJ cross-entropy) (NN average)) (PP (IN of) (NP (DT both) (NNS models))))))) (. .))

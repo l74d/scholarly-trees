@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (DT these) (NN system) (NNS calculations)))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (JJ comprehensive) (JJ numerical) (NNS results)) (PP (IN for) (NP (JJ typical) (NN transceiver) (NNS parameters))))) (. .))
+(S (NP (DT The) (JJ analytical) (NNS results)) (VP (VBP are) (ADVP (RB also)) (VP (VBN confirmed) (PP (IN with) (NP (JJ full) (NN waveform) (NNS simulations))))) (. .))

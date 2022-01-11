@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN research) (NN paper)) (VP (VBZ provides) (NP (NP (DT the) (NN mechanism)) (SBAR (WHNP (WDT that)) (S (VP (VBZ enhances) (NP (NP (DT the) (NNS data) (NN security)) (PP (IN in) (NP (NN quantum) (NN cryptography)))) (PP (IN during) (NP (NP (NN exchange)) (PP (IN of) (NP (NN information)))))))))) (. .))
+(S (PP (IN In) (NP (JJ next) (NN phase))) (NP (DT the) (VBN proposed) (NN mechanism)) (VP (VBZ is) (VP (VBN explained))) (. .))

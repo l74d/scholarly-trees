@@ -1,0 +1,5 @@
+(S (NP (DT The) (NN need) (SBAR (IN for) (S (NP (NNP Linux) (NN system) (NNS administrators)) (VP (TO to) (VP (VB do) (NP (NN performance) (NN management))))))) (VP (VBZ has) (VP (VBN returned) (PP (IN with) (NP (DT a) (NN vengeance))))) (. .))
+(INTJ (WRB Why) (. ?))
+(NP (DT The) (NN cloud) (. .))
+(S (NP (NP (NNP Resource) (NN consumption)) (PP (IN in) (NP (DT the) (NN cloud)))) (VP (VBZ is) (PP (DT all) (IN about) (NP (NN pay-as-you-go)))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ shows) (NP (PRP you)) (SBAR (WHADVP (WRB how)) (S (NP (NN performance) (NNS models)) (VP (MD can) (VP (VB find) (NP (NP (DT the) (ADJP (RBS most) (JJ cost-effective)) (NN deployment)) (PP (IN of) (NP (DT an) (NN application))) (PP (IN on) (NP (NP (NNP Amazon) (POS 's)) (NN cloud))))))))) (. .))

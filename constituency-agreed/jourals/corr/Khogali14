@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN classification) (NN accuracy)) (PP (IN of) (NP (DT the) (NNP R.R.E) (NN algorithm)))) (VP (VBZ is) (VP (VBN evaluated) (S (VP (VBG using) (NP (NP (NNS simulations)) (VP (VBN conducted) (PP (IN in) (NP (NNP MATLAB))))))))) (. .))

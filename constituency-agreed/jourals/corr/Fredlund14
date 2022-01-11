@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN expression)) (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NP (DT all) (JJ other) (NNS symbols)) (PP (IN in) (NP (DT the) (NN alphabet))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (NN compression) (NN gain)) (SBAR (IN as) (S (VP (VBN defined) (PP (IN in) (NP (DT this) (NN paper))))))) (VP (MD may) (ADVP (RB also)) (VP (VB be) (ADJP (JJ useful) (PP (IN for) (NP (NN feature) (NN selection)))))) (. .))

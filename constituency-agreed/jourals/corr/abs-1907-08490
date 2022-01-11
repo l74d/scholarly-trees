@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN safety) (JJ critical) (NNS systems))) (, ,) (NP (PRP it)) (VP (VBZ plays) (NP (DT a) (JJ crucial) (NN role)) (SBAR (IN since) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN enforced) (PP (IN by) (NP (NN software) (NNS standards)))))))) (. .))
+(S (PP (IN Unlike) (NP (VBG existing) (NNS approaches))) (, ,) (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB impose) (NP (JJ strong) (NNS restrictions)) (PP (IN on) (NP (NP (DT the) (NN expressiveness)) (PP (IN of) (NP (NN use) (NN case) (NNS specifications))))))) (. .))

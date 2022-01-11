@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ right) (NN decomposition) (NNS factors)) (PP (IN for) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS polynomials)))))) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN from) (NP (PRP$ its) (JJ right) (NN decomposition) (NN factor) (NN space))))))))) (. .))

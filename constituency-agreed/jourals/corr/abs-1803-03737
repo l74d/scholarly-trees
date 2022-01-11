@@ -1,0 +1,2 @@
+(S (SBAR (IN Because) (S (NP (JJ such) (NNS evaluations)) (VP (VBP are) (ADJP (JJ costly) (CC and) (JJ noisy))))) (, ,) (NP (JJ several) (NNS challenges)) (VP (VBP emerge) (: :) (SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (JJ available) (NN visitor) (NN traffic)) (VP (VB be) (VP (VBN used) (ADVP (RBS most) (RB efficiently))))))) (. ?))
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (DT a) (JJ high) (NN conversion) (NN rate)) (VP (VB be) (VP (VBN maintained) (PP (IN during) (NP (NN optimization)))))) (. ?))

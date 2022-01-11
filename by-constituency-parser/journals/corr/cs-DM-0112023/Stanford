@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJR lower)) (VP (VBN bound) (PP (IN on) (NP (NP (DT the) (JJ chromatic) (NN number)) (PP (IN of) (NP (DT a) (NN graph))))))) (VP (VBZ is) (VP (VBN derived) (PP (IN by) (NP (NP (NN majorization)) (PP (IN of) (NP (NP (NN spectra)) (PP (IN of) (NP (JJ weighted) (NN adjacency) (NNS matrices))))))))) (. .))
+(S (NP (DT These) (NNS matrices)) (VP (VBP are) (VP (VBN given) (PP (IN by) (NP (NP (NNP Hadamard) (NNS products)) (PP (IN of) (NP (NP (DT the) (NN adjacency) (NN matrix)) (CC and) (NP (JJ arbitrary) (NNP Hermitian) (NNS matrices)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT these) (NNS behaviors)) (VP (VBD were) (RB not) (VP (VBN observed) (PP (IN in) (NP (NP (NN control) (NNS experiments)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NN fitness) (NNS evaluators)) (VP (VBD were) (VP (VBN replaced) (PP (IN by) (NP (JJ random) (NN number) (NNS generators))))))))))) (. .))

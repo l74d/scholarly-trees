@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN article)) (VP (VBZ fails) (S (VP (TO to) (VP (VB fulfill) (NP (NP (DT the) (NN promise)) (VP (VBN made) (PP (IN by) (NP (DT the) (NN headline))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP employ) (NP (DT a) (JJ Siamese) (NN net)) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (NN similarity)) (PP (IN between) (NP (NN source) (CC and) (NN target) (NN information)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NN Information)) (PP (IN of) (NP (NN interest)))) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN extracted) (PP (IN in) (NP (CD two) (NNS steps))))) (. .))
+(S (NP (JJ Previous) (NN information) (NN extraction) (NNS systems)) (VP (VBD focused) (PP (IN on) (NP (DT the) (JJ first) (NN step))) (, ,) (SBAR (RB partly) (IN because) (S (NP (PRP they)) (VP (VBD were) (RB not) (VP (VBN required) (S (VP (TO to) (VP (VB link) (PRT (RP up)) (NP (NP (DT each) (NN piece)) (PP (IN of) (NP (NN information)))) (PP (IN with) (NP (JJ other) (NNS pieces))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN for) (NP (NP (JJ analytic) (NNS functions)) (PP (IN in) (NP (JJ low) (NN dimension))))) (, ,) (NP (NP (DT the) (NN convergence) (NN rate)) (PP (IN of) (NP (DT the) (JJ deep) (NML (JJ neural) (NN network)) (NN approximation)))) (VP (VBZ is) (ADJP (JJ exponential)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Variable) (NN selection)) (VP (VBZ is) (VP (VBN recognized) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ critical)) (NNS steps)) (PP (IN in) (NP (JJ statistical) (NN modeling))))))))) (. .))
+(S (NP (DT The) (NN model) (NN selection)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB be) (VP (VBN performed) (PP (IN in) (NP (CD two) (NNS steps))))))))) (. .))

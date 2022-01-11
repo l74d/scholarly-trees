@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (S (NP (NP (DT the) (NNS classes)) (PP (IN of) (NP (NN interest)))) (VP (MD can) (VP (VB be) (VP (VBN separated) (PP (IN by) (NP (NNS hyperquadrics))))))))) (. .))
+(S (NP (DT The) (NN classification) (NNS results)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (JJ usual) (NN analysis)) (PP (IN of) (NP (DT the) (JJ apparent) (NN diffusion) (NN coefficient) (NN map))))))))) (. .))

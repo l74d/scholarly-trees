@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP improve) (PP (IN on) (NP (DT that) (NN work))) (, ,) (SBAR (IN as) (S (VP (VBN shown) (PP (IN by) (NP (NP (PRP$ our) (NN analysis)) (PP (IN of) (NP (CD five) (JJ open) (NN source) (NNS projects))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNS improvements)) (VP (VBN gained) (PP (IN from) (NP (PRP$ our) (NN approach))))) (VP (MD can) (VP (VB be) (ADJP (RB very) (JJ large))))))) (. .))

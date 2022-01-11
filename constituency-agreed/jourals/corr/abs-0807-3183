@@ -1,0 +1,2 @@
+(S (NP (ADJP (JJR Less) (IN than) (JJ perfect)) (NN accuracy)) (VP (MD can) (VP (VB be) (ADJP (JJ acceptable)) (PP (VBG depending) (PP (IN on) (NP (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (DT the) (NN model)))) (, ,) (NP (NP (NNS problems)) (PP (IN with) (NP (NNS inputs)))) (, ,) (CC or) (NP (NN resource) (NNS constraints))))))) (. .))
+(S (NP (VBG Existing) (NN research) (NNS results)) (VP (VBP tend) (S (VP (TO to) (VP (VB focus) (PP (IN on) (NP (NP (NNS errors)) (PP (IN in) (NP (DT the) (NN spreadsheet) (NN implementation))))))))) (. .))

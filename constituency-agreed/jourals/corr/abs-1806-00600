@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN domain) (NN adaptation) (NN procedure)) (VP (VBZ is) (ADJP (JJ unsupervised)) (, ,) (PP (IN without) (S (VP (VBG using) (NP (DT any) (NN target) (NN domain) (NNS labels)))))) (. .))

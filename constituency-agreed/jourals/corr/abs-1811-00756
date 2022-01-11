@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN proof)) (PP (IN in) (NP (DT this) (NN approach)))) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (NP (CD two) (NNS stages)) (PP (IN of) (NP (ADJP (JJR lower) (CC and) (JJR higher)) (NN abstraction) (NN level))))))) (. .))
+(S (PP (IN At) (NP (DT this) (NN level))) (NP (DT the) (NN algorithm)) (VP (VBZ is) (RB not) (VP (VBN mentioned))) (. .))

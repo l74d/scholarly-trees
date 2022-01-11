@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT this))))) (, ,) (NP (NP (DT the) (NN neighborhood)) (PP (IN of) (NP (DT the) (NN query) (NN image)))) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (NP (JJ coherent) (NNS clusters)) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (DT the) (NN user)) (VP (MD may) (VP (VB choose) (NP (DT the) (JJ relevant) (NNS ones)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN design)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS steps)))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (JJ basic) (NN motion) (NNS primitives)) (VP (VBP are) (VP (VBN designed) (CC and) (VBN verified) (ADVP (RB locally)))) (. .))

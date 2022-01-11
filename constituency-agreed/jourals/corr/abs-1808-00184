@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN encoder)) (VP (VBZ selects) (NP (DT a) (NN subset)) (PP (IN from) (NP (DT the) (NN input) (NN video))) (SBAR (IN while) (S (NP (DT the) (NN decoder)) (VP (VBZ seeks) (S (VP (TO to) (VP (VB reconstruct) (NP (DT the) (NN video)) (PP (IN from) (NP (DT the) (NN selection)))))))))) (. .))
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (DT the) (JJ original) (NN input) (NN video)) (CC and) (NP (DT the) (JJ reconstructed) (NN video))))))))) (. .))

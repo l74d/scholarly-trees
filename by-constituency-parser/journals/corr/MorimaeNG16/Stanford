@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (VBN modified) (NN version)) (PP (IN of) (NP (NP (DT the) (NN group) (NN non-membership) (NN problem)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NN order)) (PP (IN of) (NP (DT the) (NN group)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given) (PP (IN as) (NP (DT an) (JJ additional) (NN input))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (VBZ is) (PP (IN in) (NP (NN AWPP))) (ADJP (JJ relative) (PP (IN to) (NP (DT any) (NN group) (NN oracle)))))))) (. .))
+(S (S (VP (TO To) (VP (VB show) (NP (DT the) (NN result))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (DT the) (NN idea)) (PP (IN of) (NP (DT the) (JJ postselected) (NN quantum) (NN computing))))) (. .))

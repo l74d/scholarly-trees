@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN agent)) (VP (MD can) (VP (VP (VB tune) (NP (NP (DT the) (NN weight)) (PP (IN of) (NP (DT each) (NN domain)))) (PP (IN through) (NP (JJ discrete) (NN action) (NN selection)))) (CC and) (VP (VB obtain) (NP (DT a) (JJ positive) (NN reward)) (SBAR (IN if) (S (NP (DT the) (NN saliency) (NNS results)) (VP (VBP are) (VP (VBN improved)))))))) (. .))

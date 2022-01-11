@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN phase))) (, ,) (NP (DT an) (JJ active) (NN network) (NN topology)) (VP (VBZ is) (VP (VBN created) (PP (IN by) (S (VP (VBG selecting) (NP (NP (DT a) (JJ suitable) (NN subset)) (PP (IN of) (NP (DT all) (JJ available) (NNS links))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN link) (NN schedule)) (VP (VBZ is) (VP (VBN optimized) (PP (IN by) (S (VP (VBG finding) (NP (NP (DT an) (JJ optimal) (NN ordering)) (PP (IN of) (NP (NN transmission) (NNS sets))))))))) (. .))

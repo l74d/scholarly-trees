@@ -1,0 +1,3 @@
+(NP (NP (NP (VBG Supporting) (NN Information)) (PP (IN for) (NP (DT the) (NNP Paper)))) (: :) (NP (NP (NP (JJ Optimal) (NNP Ternary) (NNP Constant-Composition) (NNP Codes)) (PP (IN of) (NP (NNP Weight) (NX (NNP Four) (CC and) (NP (NNP Distance) (NNP Five)))))) (, ,) (NP (NNP IEEE) (NNP Trans))) (. .))
+(S (VP (NN Inform)) (. .))
+(NP (NP (NN Theory)) (, ,) (S (VP (TO To) (VP (NNP Appear)))) (. .))

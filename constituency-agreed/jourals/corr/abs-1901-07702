@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ disentangles) (NP (NNS embeddings)) (PP (IN into) (NP (JJ separate) (NNS representations))) (S (VP (TO to) (VP (VB encode) (NP (JJ different) (NNS similarities)))))) (. .))
+(S (NP (NP (DT This) (NN form)) (PP (IN of) (NP (JJ joint) (NN learning)))) (VP (VBZ eliminates) (NP (DT the) (NN need) (S (VP (TO to) (VP (VB train) (NP (JJ multiple) (JJ independent) (NNS networks)) (PP (IN without) (NP (DT any) (NN performance) (NN degradation)))))))) (. .))

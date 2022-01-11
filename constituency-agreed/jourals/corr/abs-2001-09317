@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP model) (NP (PRP$ our) (NN scheduling) (NN problem)) (PP (IN as) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (NP (DT the) (JJ multi-arm) (NN bandit) (NN problem)) (PP (IN with) (NP (NP (NN communication) (NNS channels)) (PP (IN as) (NP (NNS arms)))))))))) (. .))

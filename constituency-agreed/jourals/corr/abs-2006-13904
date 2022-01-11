@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS weights)) (PP (IN of) (NP (DT these) (NNS cross-connections)))) (VP (VBP are) (VP (VBN learned) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN input) (NNS features)) (PP (IN of) (NP (DT the) (JJ particular) (NN layer)))))))) (. .))

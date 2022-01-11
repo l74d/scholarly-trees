@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ soft) (NNS keyboards)) (VP (VBP are) (NP (NP (JJ onscreen) (NN representation)) (PP (IN of) (NP (NP (JJ physical) (NN keyboard)) (VP (VBG having) (NP (NP (JJ alphanumeric) (NNS characters)) (CC and) (NP (JJ other) (NNS controls)))))))) (. .))
+(S (NP (DT The) (JJ soft) (NN keyboard)) (VP (VP (VBZ is) (NP (NP (DT a) (NN substitute)) (PP (IN of) (NP (DT a) (JJ physical) (NN keyboard))))) (CC and) (VP (VBZ is) (VP (VBN displayed) (PP (IN on) (NP (DT the) (NN screen)))))) (. .))

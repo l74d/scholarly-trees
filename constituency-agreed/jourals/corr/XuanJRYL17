@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP employ) (NP (DT a) (JJ weighted) (NN recommendation) (NN list)) (S (VP (TO to) (VP (VB boost) (NP (DT the) (NN performance)) (PP (IN by) (S (VP (VBG imposing) (NP (NP (DT the) (NNS weights)) (PP (IN of) (NP (JJ multiple) (NNS developers)))) (PP (IN in) (S (VP (VBG training) (NP (DT the) (NN classifier)))))))))))) (. .))

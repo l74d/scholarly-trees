@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NN raindrop) (NN algorithm))))) (. .))
+(S (CC And) (NP (DT the) (JJ global) (JJ optimal) (NN solution)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN with) (NP (NP (JJ small) (NN number)) (PP (IN of) (NP (NNS iterations)))))))) (. .))

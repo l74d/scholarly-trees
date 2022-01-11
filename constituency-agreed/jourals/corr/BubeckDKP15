@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN minimax) (NN regret)) (PP (IN of) (NP (DT the) (JJ adversarial) (NN bandit) (NN convex) (NN optimization) (NN problem))))) (. .))

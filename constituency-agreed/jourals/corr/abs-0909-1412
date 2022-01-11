@@ -1,0 +1,1 @@
+(S (NP (NN Multi-signcryption)) (VP (VBZ is) (VP (VBN used) (SBAR (WHADVP (WRB when)) (S (NP (JJ different) (NNS senders)) (VP (VBZ wants) (S (VP (TO to) (VP (VB authenticate) (NP (DT a) (JJ single) (NN message)) (PP (IN without) (S (VP (VBG revealing) (NP (PRP it))))))))))))) (. .))

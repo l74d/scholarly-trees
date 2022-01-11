@@ -1,0 +1,2 @@
+(S (NP (NNS Results)) (VP (VBP are) (VP (VBN saved) (ADVP (RB incrementally)) (PP (IN for) (NP (JJR better) (NN robustness) (CC and) (NN reliability))))) (. .))
+(S (NP (NNP FlexDM)) (VP (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NNP Java))))) (CC and) (VP (VBZ runs) (PP (IN on) (NP (NNP Windows) (, ,) (NNP Linux) (CC and) (NNP OSX))))) (. .))

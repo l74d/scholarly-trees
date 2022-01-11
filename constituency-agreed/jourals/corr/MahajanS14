@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (NP (DT the) (JJ traditional) (NN algorithm)) (VP (VBZ is) (VP (VBN studied))) (. .))
+(S (ADVP (RB Thirdly)) (, ,) (NP (DT the) (VBN designed) (NN algorithm)) (VP (VBZ is) (VP (VBN realized) (PP (IN for) (NP (NP (JJ small) (JJ prime) (NNS numbers)) (CC and) (NP (JJ large) (JJ prime) (NN number)))))) (. .))

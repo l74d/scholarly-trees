@@ -1,0 +1,2 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (NNS users)) (VP (VBP need) (NP (NN clarification)) (SBAR (IN if) (S (NP (JJR more) (NNS ressources)) (VP (VBP are) (VP (VBN needed) (S (VP (TO to) (VP (VB deliver) (NP (NNS services)) (PP (IN in) (NP (JJ high) (NN quality))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT the) (NNS capabilities)) (PP (IN of) (NP (DT the) (NN framework)))) (VP (VBP are) (VP (VBN tested) (PP (IN on) (NP (NP (DT an) (JJ isolated) (NN platform)) (PP (IN with) (NP (DT a) (JJ specific) (NN workload))))))) (. .))

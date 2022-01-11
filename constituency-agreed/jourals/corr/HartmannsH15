@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB extend) (NP (PRP$ its) (NN reach))))) (, ,) (NP (NP (DT the) (JJ large) (JJ available) (NNS capacities)) (PP (IN of) (NP (NP (JJ secondary) (NN storage)) (PP (JJ such) (IN as) (NP (JJ hard) (NNS disks)))))) (VP (MD can) (VP (VB be) (VP (VBN exploited)))) (. .))
+(S (NP (DT The) (NN technique)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (PP (IN within) (NP (DT the) (NNP Modest) (NNP Toolset)))))) (. .))

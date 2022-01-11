@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP offer) (NP (DT an) (JJ alternative) (NN explanation)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN underspecification)) (PP (IN of) (NP (NP (NNS structures)) (PP (IN within) (NP (DT the) (NN treebank)))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PDT such) (DT a) (JJ compacted) (NN grammar)) (VP (VBZ does) (RB not) (VP (VB yield) (NP (ADJP (RB very) (JJ good)) (NN performance) (NNS figures)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN network)) (PP (IN of) (NP (NN line) (NNS elements)))) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB generate) (NP (NNS topologies))))))) (. .))
+(S (S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (JJ circular) (NNS subregions)))) (VP (VBZ is) (VP (VBN laid) (PP (IN over) (NP (DT this) (NN network)))))) (, ,) (CC and) (S (NP (JJ external) (NN contact) (NNS surfaces)) (VP (VBP are) (VP (VBN generated) (PP (IN within) (NP (DT each) (NN subregion)))))) (. .))

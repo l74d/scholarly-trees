@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN scheme)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (DT the) (JJ wireless) (NN signal))))) (S (VP (TO to) (VP (VB identify) (CC and) (VB authenticate) (NP (DT the) (NNS nodes)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT this) (NN paper)) (VP (VBZ analyzes) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (DT this) (NN scheme))))) (. .))

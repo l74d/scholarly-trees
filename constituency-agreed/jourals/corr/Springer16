@@ -1,0 +1,2 @@
+(S (NP (JJ Multi-language) (JJ virtual) (NNS machines)) (VP (VBP have) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS advantages))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP present) (SBAR (WHADVP (WRB how)) (S (NP (NP (NN software) (NNS components)) (VP (VBN written) (PP (IN in) (NP (DT both) (NNS languages))))) (VP (MD can) (VP (VB interact)))))) (. .))

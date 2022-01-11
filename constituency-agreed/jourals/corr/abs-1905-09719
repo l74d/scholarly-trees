@@ -1,0 +1,3 @@
+(S (S (NP (NP (DT The) (NN input)) (PP (IN of) (NP (PRP$ our) (NN problem)))) (VP (VBZ is) (NP (NP (DT a) (JJ finite) (NN set)) (PP (IN of) (NP (NNS items)))))) (, ,) (CC and) (S (NP (DT each) (NN item)) (VP (VBZ is) (PP (IN in) (NP (NP (DT a) (JJ particular) (NN state)) (PP (IN from) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ possible) (NNS states))))))))) (. .))
+(S (PP (IN After) (S (VP (VBG picking) (NP (DT an) (NN item))))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB observe) (NP (PRP$ its) (NN state))))))) (. .))
+(S (NP (DT This)) (VP (VBZ motivates) (S (NP (PRP us)) (VP (TO to) (VP (VB study) (NP (DT the) (JJ stochastic) (JJ submodular) (NN maximization) (NN problem)) (PP (IN with) (NP (JJ dependent) (NNS items))))))) (. .))

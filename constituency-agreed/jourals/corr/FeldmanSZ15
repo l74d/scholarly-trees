@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (MD can) (ADVP (RB approximately)) (VP (VB maximize) (NP (JJ submodular) (NNS functions)) (PP (IN in) (NP (NP (DT the) (JJ online) (NNS settings)) (SBAR (S (NP (PRP we)) (VP (VBP consider)))))))) (. .))

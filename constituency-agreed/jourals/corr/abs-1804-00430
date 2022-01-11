@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ unknown) (NNS parameters)) (VP (MD can) (VP (VB be) (VP (VBN updated) (PP (IN without) (S (ADVP (RB actually)) (VP (VBG constructing) (NP (DT these) (NNS matrices))))))))))) (. .))
+(S (NP (NP (DT The) (NN convergence) (NN performance)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN studied) (PP (IN via) (NP (JJ numerical) (NNS simulations))))) (. .))

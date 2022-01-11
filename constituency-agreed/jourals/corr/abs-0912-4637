@@ -1,0 +1,2 @@
+(S (NP (DT An) (NN agent)) (VP (VBZ is) (ADJP (JJ trustworthy)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN expected) (SBAR (IN that) (S (NP (PRP it)) (VP (MD will) (VP (VB keep) (NP (DT a) (NN promise))))))))))) (. .))
+(S (NP (DT This) (NN definition)) (VP (VBZ satisfies) (NP (NP (ADJP (RBS most) (JJ commonplace)) (NNS meanings)) (PP (IN of) (NP (NN trust))))) (. .))

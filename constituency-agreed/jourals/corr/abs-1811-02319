@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS methods)) (VP (VBP need) (NP (JJ sufficient) (NN evaluation) (NNS data)) (S (VP (TO to) (VP (VB approximate) (CC and) (VB minimize) (NP (NP (DT the) (NN validation) (NN error) (NN function)) (PP (IN of) (NP (NNS hyperparameters)))))))) (. .))

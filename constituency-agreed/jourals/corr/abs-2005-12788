@@ -1,0 +1,3 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (PRP we)) (VP (VBP observe) (SBAR (IN that) (S (NP (DT the) (VBN given) (NN function)) (VP (VBZ fails) (S (VP (TO to) (VP (VB describe) (NP (DT the) (NN requirement)) (ADVP (RB accurately))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (JJ such) (VBN proposed) (NNS methods)) (VP (MD might) (ADVP (RB eventually)) (VP (VB violate) (NP (DT the) (JJ original) (NNS needs)))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (NP (NNP Zwei)) (VP (VBZ optimizes) (NP (DT the) (NN strategy)) (PP (IN by) (S (VP (VBG maximizing) (NP (DT the) (NN win) (NN rate)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ technical) (NN report)) (VP (VBZ is) (VP (VBN structured) (SBAR (IN as) (S (VP (VBZ follows)))))) (. .))
+(S (NP (NN Section) (CD 3)) (VP (VBZ describes) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB report) (NP (NN benchmark) (NNS results)) (S (VP (VBG using) (NP (DT the) (NN library))))))))) (. .))

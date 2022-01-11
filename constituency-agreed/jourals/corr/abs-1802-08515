@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN case)) (PP (IN of) (NP (CD two) (NNS agents)))) (VP (VBZ is) (VP (VBN investigated))) (. .))
+(S (PP (IN By) (S (VP (VBG using) (NP (DT the) (JJ monocular) (NN camera))))) (, ,) (NP (DT each) (NN agent)) (VP (MD can) (VP (VB observe) (NP (DT the) (JJ other) (NN agent)))) (. .))
+(S (NP (PDT All) (DT the) (JJ inertial) (NNS sensors)) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (VP (VBN affected) (PP (IN by) (NP (DT a) (NN bias))))))))) (. .))

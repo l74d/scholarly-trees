@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (PRP$ our) (NN approach))) (CC and) (VP (VB verify) (SBAR (IN that) (S (NP (DT this) (NN method)) (VP (VBZ is) (ADJP (JJ compatible) (PP (IN with) (NP (JJ traditional) (NN impedance) (NN control))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VP (VBP describe) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (JJ real) (NN time) (NN implementation))))) (, ,) (CC and) (VP (VB perform) (NP (NNS simulations)) (S (VP (TO to) (VP (VB test) (NP (DT the) (NN arbitration) (NNS parameters))))))) (. .))

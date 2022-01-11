@@ -1,0 +1,3 @@
+(S (S (VP (VBG Solving) (NP (JJ Quadratic) (NN equation)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ intrinsic) (NNS interests)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is) (NP (DT the) (JJS simplest) (JJ nonlinear) (NNS equations)))))) (. .))
+(S (NP (NP (NN Generation)) (PP (IN of) (NP (NN trial) (NNS solutions)))) (VP (VBP have) (VP (VBN been) (VP (VBN formed) (PP (IN by) (NP (DT this) (NN method)))))) (. .))
+(S (S (NP (JJ Many) (NNS examples)) (VP (VBP have) (VP (VBN been) (VP (VBN worked) (PRT (RP out)))))) (, ,) (CC and) (S (PP (IN in) (NP (JJS most) (NNS cases))) (NP (PRP we)) (VP (VBP find) (PRT (RP out)) (NP (DT the) (JJ exact) (NN solution)))) (. .))

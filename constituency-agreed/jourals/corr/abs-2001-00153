@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP use) (NP (DT the) (JJ semi-supervised) (NN learning) (NN regularization)) (S (VP (TO to) (VP (VB make) (S (NP (DT the) (NNS representations)) (ADJP (RBR more) (JJ discriminative))))))) (. .))

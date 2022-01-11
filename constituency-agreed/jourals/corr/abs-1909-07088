@@ -1,0 +1,2 @@
+(S (PP (VBN Given) (NP (DT an) (JJ offensive) (NN set) (NN play) (NN sketch))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ simulates) (NP (NP (JJ potential) (NNS scenarios)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB occur) (PP (IN in) (NP (DT the) (NN game))))))))) (. .))
+(S (S (VP (TO To) (VP (VB improve) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NN simulation))))))) (, ,) (NP (PRP we)) (VP (VBP minimize) (NP (CD 1))) (. .) (-RRB- -RRB-))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ next) (NN stage)) (PP (IN of) (NP (DT the) (NN scheme)))) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB overwrite) (NP (DT these) (NNS values))))))) (. .))
+(S (NP (CD Five) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN provided) (PP (IN in) (NP (NP (NN support)) (PP (IN of) (NP (DT the) (NN conjecture))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN problem)) (`` `) (SBAR (IN whether) (S (NP (NP (DT a) (JJ finite) (NN set)) (PP (IN of) (NP (NML (JJ regular) (HYPH -) (JJ linear)) (NNS axioms)))) (VP (VBZ defines) (NP (DT a) (JJ rigid) (NN theory))))) ('' ')) (VP (VBZ is) (ADJP (JJ undecidable)))))) (. .))

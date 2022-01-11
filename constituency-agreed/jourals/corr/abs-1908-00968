@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB establish) (NP (PDT such) (DT a) (NN result))))) (, ,) (NP (DT a) (JJ novel) (NNP Lyapunov) (NN function)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN methodology)))) (VP (VBZ is) (VP (VBN shown) (PP (IN in) (NP (DT an) (NN example))))) (. .))

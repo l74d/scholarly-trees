@@ -1,0 +1,4 @@
+(S (PP (VBN Given) (NP (NP (DT a) (NN text)) (VP (VBG describing) (NP (DT a) (JJ novel) (NN event))))) (, ,) (NP (DT the) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB rank) (NP (JJ related) (NNS videos)) (ADVP (RB accordingly)))))) (. .))
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (PRP we)) (VP (VBP learn) (NP (NP (DT a) (JJ joint) (NN space)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (ADJP (JJ visual) (CC and) (JJ textual)) (NNS representations)) (VP (VBP are) (VP (VBN embedded))))))) (. .))
+(S (NP (DT The) (NN space)) (VP (VBZ casts) (NP (DT a) (JJ novel) (NN event)) (PP (IN as) (NP (NP (DT a) (NN probability)) (PP (IN of) (NP (JJ pre-defined) (NNS events)))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (PRP it)) (VP (VBZ learns) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NP (DT an) (NN event)) (CC and) (NP (PRP$ its) (JJ related) (NNS videos))))))))) (. .))

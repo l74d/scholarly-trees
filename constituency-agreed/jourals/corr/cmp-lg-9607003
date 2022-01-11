@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN dimension)) (PP (IN of) (NP (NN feature) (NN vector)))) (VP (VBZ is) (ADVP (RB then)) (VP (VBN reduced) (PP (IN by) (NP (JJ linear) (NN transformation))) (S (VP (VBG keeping) (NP (DT the) (JJ essential) (NN information)))))) (. .))

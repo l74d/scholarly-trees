@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN method)) (VP (VBD achieved) (NP (NP (DT a) (JJ mean) (NN accuracy)) (PP (IN of) (NP (CD 0.83)))) (PP (IN in) (S (VP (VBG classifying) (NP (CD 123) (NN test) (NNS images)))))) (. .))

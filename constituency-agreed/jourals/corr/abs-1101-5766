@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN computed) (PP (IN by) (S (VP (VBG optimizing) (NP (NN co-occurrence) (NNS groups)) (PP (IN with) (NP (NP (DT a) (JJ maximum) (NN likelihood) (NN estimate)) (VP (VBN calculated) (PP (IN with) (NP (DT a) (NNP Bernoulli) (NN mixture) (NN model))))))))))) (. .))

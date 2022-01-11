@@ -1,0 +1,3 @@
+(S (NP (NP (NN Transposition)) (PP (IN of) (NP (NN music)))) (VP (VBZ is) (VP (VBN carried) (PRT (RP out)) (PP (IN by) (S (VP (VBG multiplying) (NP (NP (DT each) (NN member)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS frequencies)))))) (PP (IN by) (NP (DT a) (JJ single) (NN frequency)))))))) (. .))
+(S (NP (NN Multiplication)) (VP (MD can) (VP (VB be) (VP (VBN defined) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (CD four) (NN notation) (NNS components)))))))) (. .))
+(S (NP (NP (NNS Examples)) (PP (IN of) (NP (NN notation) (NN inversion) (CC and) (NN multiplication)))) (VP (VBP are) (VP (VBN given))) (. .))

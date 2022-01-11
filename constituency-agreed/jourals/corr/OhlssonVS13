@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN approach)) (VP (VBZ has) (NP (CD two) (NNS disadvantages))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (NP (DT the) (JJ temporal) (NN dependency)) (PP (IN in) (NP (DT the) (NN state)))) (VP (MD could) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (NN state) (NNS estimates)))))))))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (S (VP (VBG having) (NP (NP (DT an) (NN estimate)) (PP (IN for) (NP (NP (DT the) (NN state)) (CC and) (NP (PRP$ its) (NN support))))))) (VP (MD could) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (JJ computational) (NN load)) (PP (IN of) (NP (DT the) (JJ subsequent) (NN step)))))))))) (. .))

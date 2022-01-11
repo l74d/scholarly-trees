@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN destination)) (VP (VBZ computes) (NP (DT the) (JJ other) (JJ linear) (NN combination)) (PP (VBN based) (PP (IN on) (NP (DT the) (JJ direct) (NNS transmissions))))) (. .))
+(S (NP (DT The) (NN destination)) (ADVP (RB then)) (VP (VBZ computes) (NP (DT the) (CD two) (JJ linear) (NNS combinations)) (, ,) (ADVP (RB locally))) (. .))

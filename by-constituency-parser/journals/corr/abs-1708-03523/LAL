@@ -1,0 +1,2 @@
+(S (NP (NP (DT Any) (JJ monotone) (NNP Boolean) (NN circuit)) (VP (VBG computing) (NP (DT the) (ADJP (ADJP (QP ($ $) (JJ n) ($ $))) (JJ -dimensional)) (NNP Boolean) (NN convolution)))) (VP (VBZ requires) (NP (QP (IN at) (JJS least) ($ $) (JJ n^2)) ($ $) (NNS and-gates))) (. .))
+(S (NP (DT This)) (VP (ADVP (RB precisely)) (VBZ matches) (NP (DT the) (JJ obvious) (JJ upper) (NN bound))) (. .))

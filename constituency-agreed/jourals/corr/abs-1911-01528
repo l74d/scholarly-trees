@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN component)) (VP (VBZ detects) (NP (DT the) (ADJP (RBS most) (JJ relevant)) (NN answer)) (PP (IN from) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (NN candidate) (NNS answers)))))) (. .))
+(S (NP (DT An) (JJ independent) (NN model)) (VP (MD can) (RB not) (VP (VB comprehend) (NP (NP (DT the) (ADJP (JJ syntactic) (CC and) (JJ semantic)) (NNS features)) (PP (IN of) (NP (NNS questions) (CC and) (NNS answers)))) (PP (IN with) (NP (DT a) (JJ small) (NN training) (NN dataset))))) (. .))
+(S (S (VP (TO To) (VP (VB fill) (NP (DT this) (NN gap))))) (, ,) (NP (NN language) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN employed) (PP (IN in) (S (VP (VBG implementing) (NP (DT the) (NN answer) (NN selection) (NN part)))))))) (. .))

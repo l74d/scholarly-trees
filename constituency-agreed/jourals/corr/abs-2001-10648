@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ mutual) (NN information) (NN leakage)) (VP (VBZ is) (NP (NP (DT a) (VBG decreasing) (NN function)) (PP (IN of) (NP (NP (DT the) (NN training) (NN dataset) (NN size)) (CC and) (NP (DT the) (NN regularization) (NN weight))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB perform) (NP (NN injection))))) (, ,) (NP (NP (DT the) (NN condition)) (PP (IN on) (NP (DT the) (NN encoder)))) (VP (VBZ is) (VP (VBN learned) (SBAR (IN while) (S (NP (NP (DT the) (NN condition)) (PP (IN on) (NP (DT the) (NN decoder)))) (VP (VBZ is) (VP (VBN selected) (PP (IN per) (NP (JJ explicit) (NN feedback))))))))) (. .))

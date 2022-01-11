@@ -1,0 +1,2 @@
+(S (NP (JJ Manual) (NNS annotations)) (VP (VBP are) (NP (NP (DT a) (NN prerequisite)) (PP (IN for) (NP (NP (JJ many) (NNS applications)) (PP (IN of) (NP (NN machine) (NN learning))))))) (. .))
+(S (PP (IN For) (NP (NP (JJ subjective) (NNS tasks)) (PP (JJ such) (IN as) (NP (NP (NN sentiment) (NN analysis)) (, ,) (NP (NN sarcasm)) (, ,) (CC and) (NP (NN stance) (NN detection)))))) (, ,) (NP (JJ such) (NNS choices)) (VP (MD can) (VP (VB impact) (NP (NNS results)))) (. .))

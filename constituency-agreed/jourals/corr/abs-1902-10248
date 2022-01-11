@@ -1,0 +1,1 @@
+(SINV (PP (IN At) (NP (NP (DT the) (NN core)) (PP (IN of) (NP (DT a) (JJ multigrid) (NN solver))))) (VP (VBZ is)) (NP (NP (DT the) (NN prolongation) (NN matrix)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ relates) (PP (IN between) (NP (NP (JJ different) (NNS scales)) (PP (IN of) (NP (DT the) (NN problem))))))))) (. .))

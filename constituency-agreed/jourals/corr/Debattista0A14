@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (S (VP (VBG identifying) (NP (NP (NN quality)) (PP (IN of) (NP (NNS data)))))))) (VP (VBZ is) (VP (VBN faced) (PP (IN by) (NP (JJ many) (NNS data) (NNS consumers))))) (. .))
+(S (NP (NN daQ)) (VP (VBZ is) (NP (NP (DT a) (NN core) (NN vocabulary)) (PP (IN for) (S (VP (VBG representing) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (NN quality) (NN benchmarking)) (PP (IN of) (NP (DT a) (VBN linked) (NN dataset))))))))))) (. .))

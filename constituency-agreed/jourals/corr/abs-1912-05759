@@ -1,0 +1,2 @@
+(S (NP (NNP GPRInvNet)) (VP (VBZ has) (VP (VBN been) (VP (VBN utilized) (S (VP (TO to) (VP (VB reconstruct) (NP (NP (DT the) (NN permittivity) (NN map)) (PP (IN of) (NP (NN tunnel) (NNS linings)))))))))) (. .))
+(S (NP (NP (JJ Comparative) (NNS results)) (PP (IN with) (NP (VBG existing) (NN baseline) (NNS methods)))) (ADVP (RB also)) (VP (VBP demonstrate) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (DT the) (NNP GPRInvNet))))) (. .))

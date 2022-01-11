@@ -1,0 +1,8 @@
+(S (NP (NNP Isabelle)) (VP (VBZ is) (NP (NP (DT a) (JJ generic) (NN theorem) (NN prover)) (, ,) (VP (VBN designed) (PP (IN for) (NP (NP (JJ interactive) (NN reasoning)) (PP (IN in) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ formal) (NNS theories)))))))))) (. .))
+(S (PP (IN At) (ADJP (JJ present))) (NP (PRP it)) (VP (VBZ provides) (NP (NP (JJ useful) (NN proof) (NNS procedures)) (PP (IN for) (NP (NP (NNP Constructive) (NNP Type) (NNP Theory)) (, ,) (NP (JJ various) (JJ first-order) (NNS logics)) (, ,) (NP (NNP Zermelo-Fraenkel) (NN set) (NN theory)) (, ,) (CC and) (NP (NN higher-order) (NN logic)))))) (. .))
+(S (NP (NP (DT This) (NN survey)) (PP (IN of) (NP (NNP Isabelle)))) (VP (VBZ serves) (PP (IN as) (NP (NP (DT an) (NN introduction)) (PP (TO to) (NP (DT the) (NN literature)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ explains) (SBAR (WHADVP (WRB why)) (S (NP (JJ generic) (NN theorem) (NN proving)) (VP (VBZ is) (ADJP (JJ beneficial)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ gives) (NP (NP (NP (DT a) (JJ thorough) (NN history)) (PP (IN of) (NP (NNP Isabelle)))) (, ,) (PP (VBG beginning) (PP (IN with) (NP (NP (PRP$ its) (NNS origins)) (PP (IN in) (NP (DT the) (NNP LCF) (NN system)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ presents) (NP (NP (DT an) (NN account)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (NNS logics)) (VP (VBP are) (VP (VBN represented)))))) (, ,) (VP (VBD illustrated) (S (VP (VBG using) (NP (JJ classical) (NN logic))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN compared) (PP (IN with) (NP (DT the) (NNP Edinburgh) (NNP Logical) (NNP Framework))))) (. .))
+(S (NP (NP (JJ Several)) (PP (IN of) (NP (DT the) (NNP Isabelle) (NNS object-logics)))) (VP (VBP are) (VP (VBN presented))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NNP Clickthrough) (NNS data)) (VP (VBD were) (VP (VBN recorded))) (. .))
+(S (NP (JJ Quantitative) (NNS analyses)) (VP (VBD were) (VP (VBN carried) (PRT (RP out)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (DT the) (JJ statistical) (NN package)) (NP (NNP SPSS)))))))) (. .))
+(S (NP (NP (DT The) (NN overview)) (PP (IN of) (NP (NN search) (NNS results)))) (VP (VBD appeared) (S (VP (TO to) (VP (VB have) (VP (VBN benefited) (NP (NNS searchers)) (PP (IN in) (NP (JJ several) (NNS ways)))))))) (. .))

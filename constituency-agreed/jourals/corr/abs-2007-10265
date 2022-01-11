@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (NNS applications)) (PP (IN of) (NP (DT the) (NN rubber) (NN method))))))) (. .))
+(S (NP (DT The) (NN rubber) (NN method)) (VP (VBZ is) (NP (NP (DT a) (VBG coding) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN developed) (PP (IN in) (NP (CD 2005))) (PP (IN by) (NP (NNP Ahlswede) (, ,) (NNP Deppe) (CC and) (NNP Lebedev))) (PP (IN for) (NP (NP (NNS channels)) (PP (IN with) (NP (NN feedback))))))))))) (. .))
+(S (NP (DT These) (NNS generalizations)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (JJ special) (NNS channels)))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (ADVP (RB also)) (NP (NP (JJ other) (NNS ideas)) (PP (IN for) (S (VP (VBG modifying) (NP (DT the) (NN rubber) (NN method))))))) (. .))

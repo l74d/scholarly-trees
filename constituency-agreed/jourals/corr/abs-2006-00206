@@ -1,0 +1,2 @@
+(S (NP (CD One) (JJ such) (NN application)) (VP (VBZ is) (S (VP (TO to) (VP (VB analyse) (NP (NP (DT the) (JJ popular) (NNS sentiments)) (PP (IN of) (NP (NP (NNS videos)) (PP (IN on) (NP (JJ social) (NNS media)))))) (PP (VBN based) (PP (IN on) (NP (NN viewer) (NNS comments)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VP (VBG creating) (NP (DT the) (NN corpus))) (CC and) (VP (VBG assigning) (NP (NNS polarities)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (ADVP (RB still)) (VP (VBZ has) (NP (NP (NNS limitations)) (PP (IN for) (NP (NP (NNS datasets)) (PP (IN with) (NP (JJ frequent) (NNS queries))) (, ,) (PP (JJ such) (IN as) (NP (NP (DT the) (JJ fast) (NN accumulation)) (PP (IN of) (NP (NN privacy) (NN cost))))))))) (. .))

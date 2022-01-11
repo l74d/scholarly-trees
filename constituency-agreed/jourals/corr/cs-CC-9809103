@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT a) (JJ general) (NN class)) (PP (IN of) (NP (NN bicriteria) (NN network) (NN design) (NNS problems))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (NN framework)) (PP (IN for) (NP (NP (NN bicriteria) (NNS problems)) (CC and) (NP (PRP$ their) (NNS approximations)))))) (. .))

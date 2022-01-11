@@ -1,0 +1,3 @@
+(S (S (VP (TO To) (VP (VB find) (PRT (RP out)) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN intruder)) (VP (VBZ sees))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB construct) (NP (NP (DT an) (NN observer)) (PP (IN of) (NP (DT the) (NN system))))))))) (. .))
+(S (NP (NP (DT The) (NN synchronization)) (PP (IN of) (NP (DT the) (NNS subsystems)))) (VP (VBP generate) (NP (DT a) (JJ large) (NN state) (NN space))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN observer) (NN generation)) (PP (IN with) (NP (JJ exponential) (NN complexity)))) (VP (VBZ adds) (NP (ADJP (RB even) (JJR larger)) (NN state) (NN space))) (. .))

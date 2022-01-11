@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP outline) (NP (NP (DT the) (JJ main) (NNS components)) (PP (IN of) (NP (DT the) (NN algorithm))))) (, ,) (CC and) (ADVP (RB then)) (VP (VB describe) (NP (PRP it)) (PP (IN in) (NP (JJR more) (NN detail))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN on) (NP (JJ parallel) (NN computer) (NNS systems))))))))) (. .))

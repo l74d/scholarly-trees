@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (VBZ is) (ADJP (JJ robust)) (SBAR (WHADVP (RB even) (WRB when)) (S (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN training) (NNS data)))) (VP (VBZ is) (RB not) (ADJP (JJ sufficient))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PDT such) (DT a) (NN system)))) (VP (VBZ is) (VP (VBN limited) (PP (IN by) (NP (NP (DT the) (NN error) (NN propagation)) (PP (IN of) (NP (DT a) (NN state) (NN tracker))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN Because) (S (NP (DT both) (NNS similarities) (CC and) (NNS differences)) (VP (VBP exist) (PP (IN among) (NP (NNS domains)))))) (, ,) (NP (JJ multi-domain) (NNS models)) (VP (MD must) (VP (VB capture) (NP (DT both)) (S (VP (TO to) (VP (VB achieve) (NP (JJ good) (NN performance))))))) (. .))

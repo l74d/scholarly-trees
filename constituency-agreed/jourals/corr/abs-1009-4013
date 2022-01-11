@@ -1,0 +1,3 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (PRP they)) (VP (VP (MD can) (RB not) (VP (VB rely) (ADVP (RB solely)) (PP (IN on) (NP (PRP themselves))))) (, ,) (CC but) (VP (MD must) (VP (VB cooperate) (PP (IN by) (S (VP (VBG combining) (NP (PRP$ their) (NNS advantages)))))))) (. .))
+(S (NP (DT The) (JJ first) (NN type)) (VP (VBD was) (NP (NP (NN transaction) (NNS data)) (PP (IN from) (NP (JJ Japanese) (NNS firms))))) (. .))
+(S (NP (DT These) (CD two) (NNS networks)) (VP (VBD were) (VP (VBN merged) (PP (IN into) (NP (CD one) (NN network))))) (. .))

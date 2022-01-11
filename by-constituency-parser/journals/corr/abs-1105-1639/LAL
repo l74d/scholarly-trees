@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (PRN (PRN (-LRB- -LRB-) (NN d,1) (-RRB- -RRB-)) (JJ -total)) (NN labelling)) (PP (IN of) (NP (NN graphs)))) (VP (VBD was) (VP (VBN introduced) (PP (IN by) (NP (NNP Havet) (CC and) (NNP Yu))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN list) (NN version)) (PP (IN of) (NP (NP (PRN (-LRB- -LRB-) (NP (NN d,1)) (-RRB- -RRB-)) (NP (JJ -total) (NN labelling))) (PP (IN of) (NP (NN graphs))))))) (. .))

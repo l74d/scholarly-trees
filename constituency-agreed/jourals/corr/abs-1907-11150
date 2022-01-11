@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PRP$ our) (NN scenario))) (, ,) (NP (DT the) (NN input)) (VP (VBZ is) (NP (NP (DT a) (JJ random) (NN subset)) (PP (IN of) (NP (NNS modalities))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (NN optimisation) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (DT a) (NN mixture) (NN sampling))))))))) (. .))

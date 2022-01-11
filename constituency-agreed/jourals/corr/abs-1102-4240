@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ second) (NN one)) (VP (VBZ is) (VP (VBN provided) (PP (IN by) (NP (DT a) (JJ particular) (NN coding) (NN rule))) (, ,) (S (VP (VBG acting) (PP (IN as) (NP (NP (DT a) (JJ local) (NN constraint)) (PP (IN in) (NP (DT the) (JJ neural) (NN activity))))))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ is) (VP (VBN assessed) (PP (PP (IN as) (NP (DT a) (NN classifier))) (CC and) (PP (IN as) (NP (DT an) (JJ associative) (NN memory)))))) (. .))

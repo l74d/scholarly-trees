@@ -1,0 +1,2 @@
+(S (NP (NNS Packets)) (VP (VBP have) (NP (NP (DT a) (JJ hard) (NN deadline)) (PP (IN of) (NP (CD one) (NN time) (NN slot))))) (. .))
+(S (NP (DT The) (NN slot)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (CD two) (NNS phases))))) (. .))

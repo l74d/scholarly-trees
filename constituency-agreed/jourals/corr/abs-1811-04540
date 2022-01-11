@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NN connectivity)) (VP (CONJP (RB not) (RB only)) (VP (VBZ reveals) (NP (NP (DT the) (NNS semantics)) (PP (IN of) (NP (NNS entities) (CC and) (NNS relations))))) (, ,) (CONJP (CC but) (RB also)) (VP (VBZ helps) (S (VP (TO to) (VP (VB comprehend) (NP (NP (DT a) (NN user) (POS 's)) (NN interest))))))) (. .))
+(S (NP (NNP KPRN)) (VP (MD can) (VP (VB generate) (NP (NN path) (NNS representations)) (PP (IN by) (S (VP (VBG composing) (NP (NP (DT the) (NNS semantics)) (PP (IN of) (NP (DT both) (NNS entities) (CC and) (NNS relations))))))))) (. .))

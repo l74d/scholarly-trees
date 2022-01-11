@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (CD two) (JJ new) (NNS algorithms)) (VP (VBP are) (VP (VBN proposed))) (. .))
+(S (NP (DT Both) (NNS techniques)) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (RBR more) (JJ efficient)) (PP (IN than) (NP (JJ original) (NN contrast) (NN source) (NN inversion))))))))) (. .))

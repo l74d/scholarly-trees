@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN route)) (SBAR (S (NP (DT a) (NN vehicle)) (VP (VBZ takes) (S (VP (TO to) (VP (VB pass) (PP (IN through) (NP (DT an) (NN intersection)))))))))) (VP (VBZ is) (VP (VBN determined) (PP (IN from) (NP (PRP$ its) (NN movement))))) (. .))
+(S (NP (DT A) (NN vehicle)) (VP (MD can) (VP (VB take) (NP (DT a) (JJ flexible) (NN route)) (PP (IN by) (NP (NP (NN way)) (PP (IN of) (NP (JJ multiple) (NNS arms))))) (S (VP (TO to) (VP (VB pass) (PP (IN through) (NP (DT the) (NN intersection)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (NN dataset)) (PP (IN of) (NP (DT this) (VBN shared) (NN task)))) (VP (VBZ consists) (NP (CD 18) (NNS classes)))) (, ,) (NP (CD 12,000) (JJ short) (NNS texts)) (ADVP (IN along) (PP (IN with))) (VP (VBD corresponded) (NP (NNS labels)) (PP (IN for) (NP (DT each) (NN class)))) (. .))
+(S (NP (NP (DT The) (NN dataset)) (CC and) (NP (NN example) (NN code))) (VP (MD can) (VP (VB be) (VP (VBN accessed) (PP (IN at) (NP (NP (DT this)) (SBAR (S (VP (VBZ https) (NP (NN URL)))))))))))

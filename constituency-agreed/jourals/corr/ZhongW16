@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNS sequences)) (PP (IN with) (NP (JJ pre-miRNA-like) (NNS hairpins)))))) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (NNS genomes)))))) (. .))
+(S (NP (JJ Several) (JJ computational) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB tackle) (NP (DT this) (NN challenge)))))))) (. .))

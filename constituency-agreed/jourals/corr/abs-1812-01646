@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ spatiotemporal) (NNS data) (NN analysis))))) (, ,) (NP (NN correlation) (NNS networks)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (JJ vast) (NN majority)) (PP (IN of) (NP (NNS works))))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN approach))) (, ,) (NP (NNS links)) (VP (VBP are) (VP (VBN established) (SBAR (IN if) (S (NP (CD two) (JJ consecutive) (NNS events)) (VP (VBP occur) (PP (IN in) (NP (CD two) (JJ different) (NNS nodes)))))))) (. .))

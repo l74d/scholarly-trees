@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (CD two) (NNS applications))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP$ our) (NNS results)) (VP (VBP imply) (SBAR (IN that) (S (NP (NP (DT the) (NN limit)) (PP (IN of) (NP (DT the) (JJ minimum) (NN description) (NN length) (NN operator)))) (VP (MD may) (RB not) (VP (VB exist)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ sequential) (NN nature)) (VP (VBZ stops) (NP (DT these) (NNS algorithms)) (PP (IN from) (S (VP (VBG being) (VP (VBN parallelized)))))) (. .))
+(S (NP (VBN Parallelized) (NN version)) (VP (MD can) (ADVP (RB potentially)) (VP (VB yield) (NP (JJR better) (NN scalability) (CC and) (NN performance)))) (. .))

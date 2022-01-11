@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (JJ many) (NN scheduling) (NNS applications))) (, ,) (S (VP (VBG minimizing) (NP (NNS delays)))) (VP (VBZ is) (PP (IN of) (NP (JJ high) (NN importance)))) (. .))
+(S (NP (NP (CD One) (JJ adverse) (NN effect)) (PP (IN of) (NP (JJ such) (NNS delays)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (NN reward)) (PP (IN for) (NP (NP (NN completion)) (PP (IN of) (NP (DT a) (NN job)))))) (VP (MD may) (VP (VB decay) (PP (IN over) (NP (NN time)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP provide) (NP (NN performance) (NNS guarantees)) (PP (IN for) (NP (DT all) (CD three) (NNS policies)))) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ many)) (PP (IN of) (NP (DT these) (NN performance) (NNS bounds)))) (VP (VBP are) (ADJP (JJ tight))))))) (. .))

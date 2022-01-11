@@ -1,0 +1,2 @@
+(S (ADVP (RB Importantly)) (, ,) (NP (JJ intermediate) (NN feature) (NNS maps)) (VP (VBP are) (VP (VBN shared) (PP (IN among) (NP (NNS classifiers))) (, ,) (S (VP (VBG preventing) (NP (PRP them)) (PP (IN from) (NP (NP (DT the) (NN necessity)) (PP (IN of) (S (VP (VBG being) (VP (VBN recomputed))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NN approach)) (PP (PP (IN in) (NP (NN theory))) (CC and) (PP (IN on) (NP (DT a) (JJ synthetic) (NN benchmark))))) (. .))

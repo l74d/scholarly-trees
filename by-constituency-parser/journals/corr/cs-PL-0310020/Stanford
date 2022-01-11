@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (JJ simple) (JJ mathematical) (NN definition)) (PP (IN of) (NP (NP (DT the) (NML (CD 4) (HYPH -) (NN port)) (NN model)) (PP (IN for) (NP (JJ pure) (NNP Prolog)))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ combines) (NP (NP (DT the) (NN intuition)) (PP (IN of) (NP (NP (NNS ports)) (PP (IN with) (NP (NP (DT a) (JJ compact) (NN representation)) (PP (IN of) (NP (NN execution) (NN state))))))))) (. .))
+(S (NP (NP (NNP Forward)) (CC and) (NP (JJ backward) (NN derivation) (NNS steps))) (VP (VBP are) (ADJP (JJ possible))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ satisfies) (NP (DT a) (NN modularity) (NN claim)) (, ,) (S (VP (VBG making) (S (NP (PRP it)) (ADJP (JJ suitable) (PP (IN for) (NP (JJ formal) (NN reasoning)))))))) (. .))

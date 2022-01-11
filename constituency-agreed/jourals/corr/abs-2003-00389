@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ resultant) (NN optimization) (NN problem)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ intractable))) (. .))
+(S (PP (IN In) (NP (DT the) (NNS experiments))) (, ,) (NP (PRP we)) (VP (VBP apply) (NP (PRP$ our) (NN method)) (PP (TO to) (NP (NP (JJ unsupervised) (NN image) (NN translation)) (CC and) (NP (JJ cross-domain) (NN video) (NN synthesis))))) (. .))

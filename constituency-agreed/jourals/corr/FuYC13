@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN result)) (PP (IN of) (NP (DT this) (JJ simple) (NN algorithm)))) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NN benchmark)) (PP (IN for) (NP (NN comparison))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT some) (JJ advanced) (NNS algorithms)) (SBAR (WHNP (WDT that)) (S (VP (VBP extend) (NP (NN inference)) (PP (IN by) (NP (NN information) (NN propagation)))))))) (. .))

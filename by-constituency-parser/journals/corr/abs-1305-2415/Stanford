@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (NNP Exponentiated) (NNP Gradient) (NNP LINUCB)) (, ,) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (ADJP (NP (NN con)) (HYPH -) (JJ textual)) (JJ multi-armed) (NNS bandits)))))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (VBZ uses) (S (NP (NNP Exponentiated) (NNP Gradient)) (VP (TO to) (VP (VB find) (NP (NP (DT the) (JJ optimal) (NN exploration)) (PP (IN of) (NP (DT the) (NNP LINUCB)))))))) (. .))
+(S (PP (IN Within) (NP (DT a) (ADJP (RB deliberately) (VBN designed)) (NML (NML (ADVP (RB offline))) (NN simulation)) (NN framework))) (NP (PRP we)) (VP (VBP conduct) (NP (NNS evaluations)) (PP (IN with) (NP (NML (JJ real) (JJ online) (NN event) (NN log)) (NNS data)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ outperforms) (NP (VBN surveyed) (NNS algorithms)))))) (. .))

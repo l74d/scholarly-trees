@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN correctness)) (PP (IN of) (NP (NN ellipse) (NN regression)))) (VP (VBZ is) (VP (VBN validated) (PP (IN through) (NP (NP (NNS experiments)) (VP (VBN performed) (PP (IN on) (NP (NP (JJ synthetic) (NNS data)) (PP (IN of) (NP (JJ clustered) (NNS ellipses)))))))))) (. .))

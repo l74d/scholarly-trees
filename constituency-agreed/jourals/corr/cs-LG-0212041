@@ -1,0 +1,5 @@
+(S (NP (DT These) (NNS strategies)) (VP (VBP are) (VP (VBN tested) (PP (IN on) (NP (CD three) (NNS domains))))) (. .))
+(S (NP (DT The) (NN context)) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (NP (DT the) (NN identity)) (PP (IN of) (NP (DT the) (NN speaker))))))) (. .))
+(S (NP (DT The) (JJ third) (NN domain)) (VP (VBZ is) (NP (JJ medical) (NN prognosis))) (. .))
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (S (VP (TO to) (VP (VB predict) (SBAR (IN whether) (S (NP (NP (DT a) (NN patient)) (PP (IN with) (NP (NN hepatitis)))) (VP (MD will) (VP (VB live) (CC or) (VB die))))))))) (. .))
+(S (NP (DT The) (NN context)) (VP (VBZ is) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (DT the) (NN patient))))) (. .))

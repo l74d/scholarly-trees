@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT this))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (JJ particular) (NN case)) (PP (IN of) (NP (NP (DT a) (JJ social) (NN network)) (, ,) (ADVP (RB namely)) (NP (NN information) (NNS networks)))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN model)) (S (VP (TO to) (VP (VB characterize) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (NP (NNS communities)) (SBAR (WHNP (WDT that)) (S (VP (VBP emerge) (PP (IN in) (NP (DT this) (NN setting))))))))))))) (. .))

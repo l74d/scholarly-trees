@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP verify) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NNP AnciNet) (NN approach)) (VP (VBZ outperforms) (NP (DT the) (VBG existing) (NNS techniques)) (PP (IN under) (NP (JJ various) (NNS conditions))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (JJ complex) (NNS applications)) (VP (MD may) (VP (VB involve) (NP (NP (DT the) (JJ temporal) (NN study)) (PP (IN of) (NP (JJ several) (JJ heterogeneous) (NNS parameters)))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (JJ early) (NNS results)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (S (VP (VBG monitoring) (NP (NP (DT the) (NN health) (NN status)) (PP (IN of) (NP (NP (DT a) (NN person)) (PP (IN at) (NP (NN home)))))))))))) (. .))

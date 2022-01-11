@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB here)) (VP (VBP propose) (SBAR (IN that) (S (NP (NN node) (NNS classes)) (VP (VBP are) (ADVP (RB also)) (VP (VBN associated) (PP (IN with) (NP (NP (JJ topological) (NNS features)) (PP (IN of) (NP (DT the) (NNS nodes)))))))))) (. .))
+(S (NP (DT This) (NN accuracy)) (VP (VBZ is) (ADJP (ADJP (RB slightly) (JJR less)) (PP (IN than) (NP (NP (DT the) (NN one)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN obtained) (S (VP (VBG using) (NP (ADJP (NN content) (VBN based)) (NNP GCN))))))))))))) (. .))

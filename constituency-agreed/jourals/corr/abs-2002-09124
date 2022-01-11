@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ optimal) (JJ generative) (NN model)) (PP (IN in) (NP (NNP Wasserstein) (NNP GAN) (NNS problems)))) (VP (VBZ provides) (NP (DT a) (JJ proximal) (NN equilibrium)))))) (. .))

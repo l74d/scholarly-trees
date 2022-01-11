@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (NP (JJ online) (NN learning)) (CC and) (NP (JJ stochastic) (NN gradient) (NN descent))))) (, ,) (NP (PRP$ our) (NN system)) (VP (VBZ learns) (NP (CC both) (NP (DT the) (NN structuring) (NN element)) (CC and) (NP (NP (DT the) (NN composition)) (PP (IN of) (NP (NNS operators)))))) (. .))

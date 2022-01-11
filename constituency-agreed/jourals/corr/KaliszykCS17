@@ -1,0 +1,2 @@
+(S (ADVP (RB So) (RB far)) (, ,) (NP (NN machine) (NN learning)) (VP (VBZ has) (ADVP (RB generally)) (RB not) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB filter) (CC or) (VB generate) (NP (DT these) (NNS steps)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP make) (S (NP (DT this) (NN dataset)) (ADJP (RB publicly) (JJ available) (PP (IN under) (NP (DT the) (NNP BSD) (NN license)))))) (. .))

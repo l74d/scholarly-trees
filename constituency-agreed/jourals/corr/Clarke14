@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN concept)) (PP (IN of) (NP (JJ cyclic) (NNS subsets)))) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN introduced) (PP (IN in) (NP (DT an) (JJR earlier) (NN paper)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP prove) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT this) (NN algorithm))))) (CC and) (VP (VB present) (NP (NP (DT an) (JJ asymptotic) (NN time) (NN complexity) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN algorithm) (POS 's)) (NN performance)))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NNP MapReduce))) (, ,) (NP (DT the) (NN reducer)) (VP (VBZ produces) (NP (DT an) (NN output)) (PP (IN from) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (NNS inputs)))))) (. .))

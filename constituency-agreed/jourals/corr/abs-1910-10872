@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP report) (NP (NP (DT a) (NN bias)) (PP (IN in) (NP (NP (DT the) (NNS datasets)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (DT these) (NNS models)) (VP (VBD were) (VP (VBN trained))))))))) (. .))
+(S (NP (NP (DT The) (NN result)) (PP (IN of) (NP (DT this) (NN analysis)))) (VP (VBZ yields) (NP (NP (DT a) (JJ new) (NN benchmark)) (PP (IN for) (NP (NP (NN gender) (NN bias) (NN evaluation)) (PP (IN in) (NP (VBN named) (NN entity) (NN recognition) (NNS systems))))))) (. .))

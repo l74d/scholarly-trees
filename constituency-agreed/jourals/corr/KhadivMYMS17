@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN adaptation) (NN algorithm)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS stages)))) (. .))
+(S (PP (IN After) (NP (DT the) (NN detection))) (, ,) (NP (NP (DT the) (NNS trajectories)) (PP (IN in) (NP (DT the) (NN task) (NN space)))) (VP (VBP are) (VP (VBN modified) (S (VP (TO to) (VP (VB guarantee) (NP (JJ smooth) (NN landing))))))) (. .))

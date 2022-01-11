@@ -1,0 +1,2 @@
+(S (NP (JJ Classical) (NNS computations)) (VP (MD can) (RB not) (VP (VB capture) (NP (NP (DT the) (NN essence)) (PP (IN of) (NP (JJ infinite) (NNS computations)))) (ADVP (RB very) (RB well)))) (. .))
+(S (PP (IN On) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (JJ infinitary) (NNS terms))))) (, ,) (NP (NP (DT a) (NN computation) (NN model)) (PP (IN for) (NP (JJ convergent) (JJ infinite) (NNS computations)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

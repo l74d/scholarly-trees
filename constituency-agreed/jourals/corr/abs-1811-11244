@@ -1,0 +1,1 @@
+(S (S (NP (DT An) (NN evaluation) (NN system) (CC and) (NN model)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB analyze) (NP (NP (DT the) (NNS tradeoffs)) (PP (IN of) (NP (JJ different) (NN edge) (NN cloud) (NNS deployments)))))))))) (CC and) (S (NP (NNS results)) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB support) (NP (DT the) (NNS claims)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN strength)) (PP (IN of) (NP (PRP$ our) (NN chess) (NN engine)))) (VP (VBZ is) (VP (VBN assessed) (PP (IN by) (S (VP (VBG comparing) (NP (PRP$ its) (VBN proposed) (NNS moves)) (PP (IN against) (NP (NP (DT those)) (VP (VBN proposed) (PP (IN by) (NP (NNP Stockfish))))))))))) (. .))

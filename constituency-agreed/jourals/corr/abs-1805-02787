@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (DT this) (NN approach)) (PP (IN on) (NP (NP (DT an) (NNP HMI) (NN case) (NN study)) (PP (IN of) (S (VP (VBG displaying) (NP (NN vehicle) (NN speed)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP show) (SBAR (IN that) (S (NP (NN vehicle) (NN speed)) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (NP (CD 87.6) (NN %)) (PP (IN of) (NP (NNS people)))) (VP (VBP ask) (PP (IN for))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (PP (IN despite) (S (VP (VBG believing) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP need) (NP (DT this) (NN information)))))))) (, ,) (NP (PRP we)) (VP (MD may) (RB not)) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NNS statistics)) (PP (IN of) (NP (NP (DT the) (NN fiber) (POS 's)) (NN frequency) (NN response)))) (VP (VBP are) (ADJP (JJ independent) (PP (IN of) (NP (NN frequency)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ simplifies) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NP (DT the) (JJ average) (NNP Shannon) (NN capacity)) (PP (IN of) (NP (DT the) (NN fiber))))))) (. .))

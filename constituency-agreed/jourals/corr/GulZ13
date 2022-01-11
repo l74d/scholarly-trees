@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN fusion) (NN center))))) (, ,) (NP (NP (DT the) (NNS constraints)) (PP (IN in) (NP (DT the) (NN network) (NN design)))) (VP (VBP are) (VP (VBN determined))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (ADVP (RB finally)) (VP (VBN generalized))) (. .))

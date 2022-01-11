@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG explaining) (NP (NNS data)) (PP (IN through) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ hidden) (NNS factors) (CC or) (NNS features)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN framework)) (PP (IN for) (NP (VBN correlated) (JJ nonparametric) (NN feature) (NNS models)))) (, ,) (S (VP (VBG generalising) (NP (DT the) (NNP IBP))))) (. .))

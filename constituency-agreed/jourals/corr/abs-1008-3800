@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ previous) (NN work))) (, ,) (NP (PRP I)) (VP (VBP have) (VP (VBN developed) (NP (NP (DT an) (NN information) (JJ theoretic) (NN complexity) (NN measure)) (PP (IN of) (NP (NNS networks)))))) (. .))
+(S (NP (CD One) (NN hypothesis)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT this) (NN complexity) (NN surplus)) (VP (VBZ represents) (NP (NP (NN information)) (VP (VBN captured) (PP (IN by) (NP (NP (DT the) (JJ evolutionary) (NN process)) (SBAR (WHNP (WDT that)) (S (VP (VBD generated) (NP (DT the) (NN network))))))))))))) (. .))

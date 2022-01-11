@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ visual) (NN path)) (VP (VBZ is) (VP (VBN extracted) (PP (IN from) (NP (DT the) (NN video))) (PP (IN by) (S (VP (VBG extracting) (NP (DT some) (NNS keyframes)) (PP (IN from) (NP (DT the) (NN video)))))))) (. .))
+(S (NP (DT This)) (VP (VP (VBZ reduces) (NP (DT the) (NN maneuverability))) (CC and) (VP (VBZ limits) (NP (DT the) (NN robot)) (PP (IN from) (S (VP (VBG dealing) (PP (IN with) (NP (DT all) (NNS turnings) (NNS conditions)))))))) (. .))

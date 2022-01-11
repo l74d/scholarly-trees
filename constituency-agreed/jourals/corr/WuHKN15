@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP treat) (NP (NNS points)) (PP (IN as) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS vertices)))))) (, ,) (CC and) (VP (VB build) (NP (DT a) (NN triangle) (NN mesh)) (S (VP (TO to) (VP (VB join) (NP (PRP them)) (PP (IN in) (NP (NN image) (NN space)))))))) (. .))

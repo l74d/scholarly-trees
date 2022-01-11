@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (DT this) (NN problem)) (PP (IN by) (S (VP (VBG combining) (NP (NNP Langevin) (NN diffusion)) (PP (IN with) (NP (JJ simulated) (NN tempering))))))) (. .))
+(S (NP (DT The) (NN result)) (VP (VBZ is) (NP (NP (DT a) (NNP Markov) (NN chain)) (SBAR (WHNP (WDT that)) (S (VP (VBZ mixes) (ADVP (RBR more) (RB rapidly)) (PP (IN by) (S (VP (VBG transitioning) (PP (IN between) (NP (NP (JJ different) (NNS temperatures)) (PP (IN of) (NP (DT the) (NN distribution))))))))))))) (. .))

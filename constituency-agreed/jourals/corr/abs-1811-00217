@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT some) (NNP DES) (NNS criteria)) (VP (VBP are) (RB not) (ADJP (JJ suitable) (PP (IN for) (NP (DT every) (NN classification) (NN problem))))) (. .))
+(S (PP (IN For) (NP (NN instance))) (, ,) (NP (JJ local) (NN accuracy) (NNS estimates)) (VP (MD may) (VP (VB produce) (NP (JJ poor) (NNS results)) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ high) (NN degree)) (PP (IN of) (NP (NP (NN overlap)) (PP (IN between) (NP (DT the) (NNS classes))))))))))) (. .))

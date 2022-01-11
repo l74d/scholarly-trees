@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB prevent) (NP (DT an) (JJ inter-robot) (NN collision))))) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (NP (DT a) (JJ virtual) (JJ propulsive) (NN force)) (PP (IN between) (NP (NNS robots))))) (. .))
+(S (NP (NP (NNS Simulations)) (CC and) (NP (JJ indoor) (NNS experiments))) (VP (VBP have) (VP (VBN been) (VP (VBN conducted) (S (VP (TO to) (VP (VB validate) (NP (DT the) (VBN proposed) (NNS methods)))))))) (. .))

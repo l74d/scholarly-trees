@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (DT the) (JJ first) (VBN improved) (NN algorithm))))))) (. .))
+(S (PP (IN By) (S (VP (VBG combining) (NP (JJ additionnal) (NN scaling) (NNS methods)) (PP (IN with) (NP (DT this) (JJ first) (NN algorithm)))))) (, ,) (NP (PRP we)) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB create) (NP (NP (DT a) (JJ second) (NN algorithm)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB rarely)) (VP (VBZ fails)))))))))) (. .))

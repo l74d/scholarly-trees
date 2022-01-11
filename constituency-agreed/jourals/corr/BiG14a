@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ performs) (ADVP (RB well)) (PP (IN in) (NP (CD one) (NN scenario))))))) (VP (MD may) (VP (VB achieve) (NP (JJ bad) (NNS results)) (PP (IN in) (NP (DT another) (NN scenario))))) (. .))
+(S (NP (DT This) (NN approach)) (VP (MD can) (VP (VB be) (VP (VBN iterated) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (JJ corrective) (NN action)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ possible))))))))) (. .))

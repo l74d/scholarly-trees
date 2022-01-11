@@ -1,0 +1,1 @@
+(S (NP (NNP JSdoop)) (VP (VP (VBZ divides) (NP (DT a) (NN problem)) (PP (IN into) (NP (NNS tasks)))) (CC and) (VP (VBZ uses) (NP (JJ different) (NNS queues)) (S (VP (TO to) (VP (VB distribute) (NP (DT the) (NN computation))))))) (. .))

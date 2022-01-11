@@ -1,0 +1,2 @@
+(S (NP (JJ Dynamic) (NNS sensitivities)) (VP (VBP are) (ADVP (RB often)) (VP (VBN calculated) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ finite) (NNS differences))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN in) (NP (JJ many) (NNS cases))) (, ,) (NP (DT the) (NNS results)) (VP (VBP suffer) (PP (IN from) (NP (JJ low) (NN accuracy))) (SBAR (WHADVP (WRB when)) (S (NP (JJ real) (NNS perturbations)) (VP (VBP are) (VP (VBN used)))))) (. .))

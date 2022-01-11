@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP it)) (VP (VBZ fails) (S (VP (TO to) (VP (VB represent) (NP (NP (DT the) (JJ true) (NNS relationships)) (PP (IN between) (NP (NNS nodes)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ non-parametric) (NN graph) (NN model)) (PP (IN for) (S (VP (VBG constructing) (NP (NP (DT the) (JJ posterior) (NN distribution)) (PP (IN of) (NP (NN graph) (NN adjacency) (NNS matrices))))))))) (. .))

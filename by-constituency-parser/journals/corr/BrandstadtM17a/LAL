@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (ADJP (JJ chordal-) (ADJP (QP ($ $) (CD 1) ($ $))) (VBN -generalized)) (NN split) (NN graphs)) (VP (VBP are) (ADVP (RB exactly)) (NP (DT the) (NN split) (NN graphs))) (. .))
+(S (NP (PRP We)) (VP (VBP characterize) (NP (ADJP (JJ chordal-) ($ $) (VB k) ($ $) (JJ -generalized)) (NN split) (VBN graphs)) (PP (IN by) (NP (NN forbidden) (VBN induced) (NN subgraphs)))) (. .))

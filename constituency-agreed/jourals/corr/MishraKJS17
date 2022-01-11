@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN cost) (NN function)) (VP (VBZ has) (NP (DT a) (JJ finite) (NN sum) (NN structure))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (ADJP (JJ scalable) (CC and) (JJ parallelizable))) (. .))

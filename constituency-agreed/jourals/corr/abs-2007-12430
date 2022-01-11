@@ -1,0 +1,1 @@
+(S (NP (NN Chance) (NNS constraints)) (VP (VB ensure) (SBAR (IN that) (S (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NN collision)))) (VP (VBZ is) (VP (VBN bounded) (PP (IN by) (NP (DT a) (JJ predefined) (NN risk) (NN parameter)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN science)) (PP (IN of) (S (VP (VBG solving) (NP (JJ clinical) (NNS problems)) (PP (IN by) (S (VP (VBG analyzing) (NP (NP (NNS images)) (VP (VBN generated) (PP (IN in) (NP (JJ clinical) (NN practice)))))))))))) (VP (VBZ is) (VP (VBN known) (PP (IN as) (NP (JJ medical) (NN image) (NN analysis))))) (. .))
+(S (NP (NP (DT The) (NN selection) (CC and) (NN calculation)) (PP (IN of) (NP (DT these) (NNS features)))) (VP (VBZ is) (NP (DT a) (JJ challenging) (NN task))) (. .))

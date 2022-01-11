@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN pruning)) (VP (VBZ is) (VP (VBN done) (S (VP (VBG using) (NP (NP (ADJP (RB specifically) (VBN derived)) (NNS bounds)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP exploit) (NP (NP (DT some) (JJ assumed) (NN structure)) (PP (IN in) (NP (DT the) (NN throughput) (NN model)))))))))))) (. .))

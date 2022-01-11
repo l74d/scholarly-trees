@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN theory)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB address) (NP (NP (DT the) (NN uniqueness)) (PP (IN of) (NP (VBG lifting) (NNS factorizations))))))))) (. .))
+(S (PP (IN With) (NP (NP (DT no) (NNS constraints)) (PP (IN on) (NP (DT the) (NN lifting) (NN process))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (VBG lifting) (NNS factorizations)) (VP (VBP are) (ADJP (RB highly) (JJ nonunique))))))) (. .))

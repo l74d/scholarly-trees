@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (NN computer) (NNS systems)) (VP (VBP become) (ADJP (RBR more) (JJ pervasive) (CC and) (JJ complex))))) (, ,) (NP (NN security)) (VP (VBZ is) (ADJP (RB increasingly) (JJ important))) (. .))
+(S (NP (NP (DT The) (NN advantage)) (PP (IN of) (NP (NNP ETEA)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ incorporates) (NP (NN cryptography) (CC and) (NN steganography)))))) (. .))

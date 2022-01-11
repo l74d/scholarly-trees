@@ -1,0 +1,1 @@
+(S (ADVP (RBR More) (RB precisely)) (, ,) (NP (DT this) (NN transformation)) (VP (VBZ is) (VP (VBN done) (ADVP (RB gradually)) (PP (IN by) (S (VP (VP (VBG training) (NP (JJ several) (NN auto) (NNS encoders)) (ADVP (RB independently))) (CC and) (ADVP (RB then)) (VP (VBG combining) (NP (DT these)) (PP (IN as) (NP (DT a) (JJ uniform) (NN model))))))))) (. .))

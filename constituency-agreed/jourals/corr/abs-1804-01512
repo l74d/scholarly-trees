@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (PRP$ our) (NN auction) (NNS schemes)) (VP (MD can) (VP (VB work) (PP (IN in) (NP (JJ polynomial) (NN time)))))))) (. .))

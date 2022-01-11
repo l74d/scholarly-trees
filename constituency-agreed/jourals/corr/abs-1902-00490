@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN inference) (NN technique)) (VP (VBZ leverages) (NP (NP (DT a) (JJ new) (JJ hierarchical) (NN clustering) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (ADJP (JJ robust)) (, ,) (ADJP (RB highly) (JJ effective)) (, ,) (CC and) (ADJP (JJ scalable)))))))) (. .))

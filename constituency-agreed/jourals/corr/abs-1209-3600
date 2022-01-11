@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN solved) (PP (IN by) (S (VP (VBG decomposing) (NP (DT the) (NN controller)) (PP (IN into) (NP (CD two) (NNS components)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (JJ optimal) (NN controller)) (VP (MD can) (VP (VB be) (VP (VBN constructed) (PP (IN through) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (JJ centralized) (JJ spectral) (NN factorization)) (CC and) (NP (JJ quadratic) (NN programming))))))))))))) (. .))

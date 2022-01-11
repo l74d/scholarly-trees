@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP characterize) (NP (NP (DT the) (NN sparsity)) (PP (IN of) (NP (NNS solutions)))) (SBAR (IN if) (S (NP (DT the) (NNP Wasserstein) (NN ball)) (VP (VBZ is) (VP (VBN centred) (PP (IN at) (NP (DT a) (JJ discrete) (NN reference) (NN measure)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (JJ Extensive) (NNS experiments)) (VP (VBP have) (VP (VBN been) (VP (VBN done) (PP (IN on) (NP (JJ various) (NN benchmark) (NNS datasets))))))) (, ,) (CC and) (S (NP (DT the) (NN learning) (NNS results)) (VP (MD will) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness) (CC and) (NN efficiency)) (PP (IN of) (NP (DT the) (NNP GADAM) (NN algorithm))))))) (. .))

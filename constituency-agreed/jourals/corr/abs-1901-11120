@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG evaluating) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT a) (NN configuration)))))) (VP (VBZ is) (ADJP (JJ expensive)) (, ,) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ involves) (NP (NP (JJ many) (JJ costly) (NNS runs)) (PP (IN of) (NP (DT the) (NN target) (NN algorithm)))))))) (. .))

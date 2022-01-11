@@ -1,0 +1,1 @@
+(S (ADVP (RB Intuitively)) (, ,) (NP (NP (DT a) (NN model)) (VP (VBN trained) (PP (IN on) (NP (NN source) (NN domain))))) (ADVP (RB normally)) (VP (VBZ produces) (NP (NP (JJR higher) (NNS uncertainties)) (PP (IN for) (NP (JJ unseen) (NNS data))))) (. .))

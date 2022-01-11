@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS weights) (CC and) (NNS thresholds)) (VP (VBP are) (VP (VBN modified) (S (VP (VBG using) (NP (JJ standard) (NN backpropagation) (NN algorithm)))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (JJ binary) (NN classification)))))) (. .))

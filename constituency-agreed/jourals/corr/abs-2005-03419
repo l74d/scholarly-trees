@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN candidate)) (PP (IN for) (S (VP (VBG selecting) (NP (DT the) (NN scale) (NN parameter)))))) (VP (VBZ is) (NP (DT the) (JJ predictive) (NN information) (NN criterion))) (. .))
+(S (ADVP (RB However)) (NP (NP (DT the) (VBN estimated) (NN model)) (VP (VBG using) (NP (DT this) (NN criterion)))) (VP (VBZ seems) (S (VP (TO to) (VP (VB cause) (NP (NN over-fitting)))))) (. .))

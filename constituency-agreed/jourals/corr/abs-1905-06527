@@ -1,0 +1,1 @@
+(S (ADVP (RB Meanwhile)) (, ,) (NP (PRP we)) (VP (VBP learn) (NP (NP (DT a) (NN policy)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VP (VBN shared) (PP (IN across) (NP (DT all) (NNS tasks)))) (CC and) (VP (VBN conditioned) (PP (IN on) (NP (NN task) (NNS embeddings)))))))))) (. .))

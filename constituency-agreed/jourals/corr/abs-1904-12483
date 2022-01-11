@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS features)) (VP (VBP are) (VP (VBN extracted) (PP (IN in) (NP (DT the) (JJ convolutional) (NN layer))))) (. .))
+(S (NP (DT The) (NN attention) (NN map)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN fed) (PP (IN into) (NP (NP (DT the) (NNP CapsNet) (JJ primary) (NN layer)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN followed) (PP (IN by) (NP (DT a) (NN classification) (NN layer))))))))))) (. .))

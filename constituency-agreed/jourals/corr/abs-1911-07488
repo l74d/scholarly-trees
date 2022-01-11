@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG resulting) (JJ semi-discrete) (NN scheme)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN shown) (S (VP (TO to) (VP (VB entropy) (ADJP (JJ stable))))))) (. .))
+(S (NP (JJ Several) (JJ numerical) (NN test) (NNS cases)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB validate) (NP (NP (DT the) (NN accuracy) (CC and) (NN stability)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS schemes))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN study)))) (VP (VBZ is) (S (VP (TO to) (VP (VB discover) (NP (NP (JJ hidden) (NNS associations)) (PP (IN between) (NP (NNS drugs) (CC and) (NNS conditions)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB construct) (NP (DT the) (JJ final) (NN decision) (NN function)) (PP (IN as) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (DT the) (NN base) (NNS learners)))))))))) (. .))

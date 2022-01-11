@@ -1,0 +1,2 @@
+(S (NP (ADJP (NN Self) (HYPH -) (VBG organizing)) (JJ neural) (NNS networks)) (VP (VBP are) (VP (VBN used) (PP (IN for) (NP (NN brick) (NN finding))) (PP (IN in) (NP (NN OPERA) (NN experiment))))) (. .))
+(S (NP (ADJP (NN Self) (HYPH -) (VBG organizing)) (NML (NML (JJ neural) (NNS networks)) (CC and) (NML (NN wavelet))) (NN analysis)) (VP (VBN used) (PP (IN for) (NP (NP (NN recognition) (CC and) (NN extraction)) (PP (IN of) (NP (NN car) (NNS numbers))))) (PP (IN from) (NP (NNS images)))) (. .))

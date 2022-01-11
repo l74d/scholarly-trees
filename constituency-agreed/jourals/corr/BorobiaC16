@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN list)) (PP (IN of) (NP (JJ complex) (NNS numbers)))) (VP (VBZ is) (ADJP (JJ realizable)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (NN spectrum)) (PP (IN of) (NP (DT a) (JJ nonnegative) (NN matrix)))))))) (. .))
+(S (NP (PRP We)) (VP (MD will) (VP (VB present) (NP (NP (DT an) (JJ unified) (NN account)) (PP (IN of) (NP (DT these) (NNS criteria)))))) (. .))

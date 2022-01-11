@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP detail) (NP (DT the) (NNP Tinker) (NN tool))) (CC and) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN integrated) (PP (IN with) (NP (NP (CD two) (JJ different) (NN theorem) (NNS provers)) (: :) (NP (NNP Isabelle) (CC and) (NNP ProofPower))))))))))) (. .))

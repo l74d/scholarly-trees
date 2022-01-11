@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB find) (NP (DT the) (JJ optimal) (NN tiling)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP build) (NP (NP (DT the) (NNP SoyBean) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ performs) (NP (JJ automatic) (NN parallelization))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT Each) (NN node)) (PP (IN in) (NP (DT the) (NN graph)))) (VP (VBZ represents) (NP (NP (DT the) (NN spectrum)) (PP (IN of) (NP (DT a) (NN pixel)))))) (CC and) (S (NP (NNS edges)) (VP (VBP connect) (NP (NP (DT the) (JJ similar) (NNS pixels)) (PP (IN inside) (NP (DT the) (NN superpixel)))))) (. .))

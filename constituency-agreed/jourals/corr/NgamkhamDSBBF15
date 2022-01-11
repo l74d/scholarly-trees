@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ compact) (JJ programmable) (JJ biphasic) (NN stimulator)) (PP (IN for) (NP (JJ cochlear) (NNS implants))))) (. .))
+(S (PP (IN With) (NP (DT this) (NN structure))) (NP (NP (DT the) (NN power) (NN consumption)) (CC and) (NP (NP (DT the) (NN area)) (PP (IN of) (NP (DT the) (NN circuit))))) (VP (MD can) (VP (VB be) (VP (VBN minimized)))) (. .))

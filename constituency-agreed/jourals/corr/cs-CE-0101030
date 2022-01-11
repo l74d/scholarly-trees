@@ -1,0 +1,2 @@
+(S (NP (JJ Evolutionary) (NNS trees)) (VP (VBP are) (ADJP (JJ useful) (PP (IN for) (S (VP (VBG modeling) (NP (NP (DT the) (JJ evolutionary) (NN history)) (PP (IN of) (NP (NNS species))))))))) (. .))
+(S (NP (NP (DT An) (NN agreement) (NN subtree)) (PP (IN of) (NP (CD two) (JJ evolutionary) (NNS trees)))) (VP (VBZ is) (NP (NP (DT an) (JJ evolutionary) (NN tree)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (JJ topological) (NN subtree)) (PP (IN of) (NP (DT the) (CD two) (VBN given) (NNS trees))))))))) (. .))

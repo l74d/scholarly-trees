@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT a) (NN cardinality) (NN estimator)) (VP (VBZ satisfies) (NP (DT this) (NN definition))))) (, ,) (ADVP (RB then)) (NP (PRP it)) (VP (MD can) (RB not) (VP (VB have) (NP (NP (DT a) (JJ reasonable) (NN level)) (PP (IN of) (NP (NN accuracy))))))))) (. .))

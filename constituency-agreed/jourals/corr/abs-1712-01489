@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Practical) (NNS solutions)) (PP (IN for) (S (VP (VBG exchanging) (NP (NNS theorems)) (PP (IN across) (NP (NN theorem) (NNS provers))))))) (VP (VBP have) (VP (VBN remained) (ADJP (DT both) (JJ weak) (CC and) (JJ brittle)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (DT this) (NN approach))))) (. .))

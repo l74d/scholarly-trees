@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN requirement)) (PP (IN of) (NP (NN information) (NN dropping))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN deletion)) (PP (IN of) (NP (NP (NNS regions)) (PP (IN of) (NP (DT the) (NN input) (NN image))))))))) (. .))
+(S (NP (DT The) (JJ extensive) (NNS experiments)) (VP (VBP manifest) (NP (NP (DT the) (NN effectiveness) (CC and) (NN generality)) (PP (IN of) (NP (DT the) (JJ new) (NN method))))) (. .))

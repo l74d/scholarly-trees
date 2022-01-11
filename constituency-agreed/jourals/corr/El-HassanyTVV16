@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (NN synthesis) (NN task))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ synthesizes) (NP (NP (NNS inputs)) (PP (IN for) (NP (JJ stratified) (NNP Datalog) (NNS programs))))))))) (. .))

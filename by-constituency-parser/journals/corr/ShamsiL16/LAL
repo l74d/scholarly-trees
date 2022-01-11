@@ -1,0 +1,8 @@
+(S (NP (NP (NNS Students)) (VP (VBG opting) (PP (IN for) (NP (VBG Engineering))) (PP (IN as) (NP (PRP$ their) (NN discipline))))) (VP (VBZ is) (VP (VBG increasing) (ADVP (RB rapidly)))) (. .))
+(S (CC But) (PP (JJ due) (TO to) (NP (NP (JJ various) (NNS factors)) (CC and) (NP (NP (JJ inappropriate) (JJ primary) (NN education)) (PP (IN in) (NP (NNP India)))))) (, ,) (NP (NN failure) (NNS rates)) (VP (VBP are) (ADJP (JJ high))) (. .))
+(S (NP (NNS Students)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB excel) (PP (IN in) (NP (NN core) (NN engineering))))))) (PP (IN because) (IN of) (NP (ADJP (JJ complex) (CC and) (JJ mathematical)) (NNS subjects)))) (. .))
+(S (ADVP (RB Hence)) (, ,) (NP (PRP they)) (VP (VBP fail) (PP (IN in) (NP (JJ such) (NNS subjects)))) (. .))
+(S (PP (IN With) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (NNS data) (VBG mining) (NNS techniques))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB predict) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNS students))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NNS grades)) (CC and) (NP (NP (NN failure)) (PP (IN in) (NP (NNS subjects))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP suggest) (NP (NP (JJ various) (NNS ways)) (SBAR (S (VP (TO to) (VP (VB mitigate) (NP (DT these) (NNS factors)))))))) (. .))
+(S (NP (DT This) (NN study)) (VP (VBZ is) (VP (VBN limited) (PP (TO to) (NP (JJ Indian) (NNP Education) (NN system) (NNS scenarios))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NNS factors)) (VP (VBD found))) (VP (MD can) (VP (VB be) (ADJP (JJ helpful)) (PP (IN in) (NP (JJ other) (NNS scenarios))) (ADVP (IN as) (RB well)))) (. .))

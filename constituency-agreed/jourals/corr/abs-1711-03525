@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ attempts) (S (VP (TO to) (VP (VB reduce) (NP (DT that) (NN gap)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (JJ many) (NNS constructions)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT a) (JJ full) (NN balancing)) (VP (MD can) (VP (VB be) (VP (VBN performed) (PP (IN without) (S (VP (VBG showing) (NP (DT the) (NNS steps))))))))))) (. .))

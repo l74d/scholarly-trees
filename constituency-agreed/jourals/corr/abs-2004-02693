@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN optimization)) (VP (VBZ uses) (NP (CD two) (NNS networks))) (. .))
+(S (ADVP (RB Instead)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT another) (NN network)) (S (VP (TO to) (VP (VB emulate) (NP (DT the) (NN loss)))))) (. .))

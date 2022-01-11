@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (NP (NP (JJ such) (NNS tools)) (PP (IN for) (NP (NN regression) (CC and) (NN classification)))) (VP (VBP do) (RB not) (VP (VB capture) (NP (NN model) (NN uncertainty)))) (. .))
+(S (NP (PRP We)) (VP (VBP perform) (NP (NP (DT an) (JJ extensive) (NN study)) (PP (IN of) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NP (NN dropout) (POS 's)) (NN uncertainty))))))) (. .))

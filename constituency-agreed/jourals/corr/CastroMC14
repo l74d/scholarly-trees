@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB identify) (NP (NNS individuals)) (PP (IN by) (S (VP (VBG analyzing) (NP (PRP$ their) (NN gait))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (VP (VBG obtaining) (NP (NP (DT a) (JJ pyramidal) (NN representation)) (PP (IN of) (NP (DT the) (NN gait) (NN motion))))) (. .))

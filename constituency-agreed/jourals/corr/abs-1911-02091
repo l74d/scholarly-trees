@@ -1,0 +1,1 @@
+(S (PP (IN During) (NP (NN training))) (, ,) (NP (NNP DANet)) (VP (VBZ relies) (PP (IN on) (NP (NP (NNS attractors)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN computed) (PP (IN from) (NP (DT the) (NN ground) (NN truth) (NNS separations)))))))))) (. .))

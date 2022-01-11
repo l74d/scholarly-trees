@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ divides) (NP (DT the) (JJ overall) (NN optimization) (NN objective)) (PP (IN into) (NP (CD two) (NNS subproblems))) (PP (IN by) (S (VP (VBG introducing) (NP (DT an) (NN indirection) (NN step)))))) (CC and) (VP (VBZ solves) (NP (DT the) (NNS subproblems)) (ADVP (RB iteratively)))) (. .))

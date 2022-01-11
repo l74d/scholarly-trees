@@ -1,0 +1,2 @@
+(S (ADVP (RB Basically)) (, ,) (NP (DT the) (NN process) (NN model) (NN risk)) (VP (VBZ is) (VP (VBN quantified) (PP (IN by) (NP (DT the) (JJ posterior) (NN distribution))))) (. .))
+(S (NP (PRP$ Our) (JJ numerical) (NN study)) (VP (VBZ indicates) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN approach)) (VP (VBZ demonstrates) (NP (DT the) (JJ promising) (NN performance)))))) (. .))

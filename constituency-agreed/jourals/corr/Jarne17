@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN procedure)) (VP (VBN presented) (ADVP (RB here)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ straightforward))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (JJ different) (NNS applications)) (PP (IN of) (NP (NN time) (NN series) (NN analysis))))))))) (. .))
+(S (NP (NP (DT This) (NN algorithm)) (VP (VBN presented))) (VP (VBZ is) (VP (VBN implemented) (PP (VBN based) (PP (IN on) (NP (NN python) (NNS libraries)))))) (. .))
+(S (NP (DT An) (JJ open) (NN source) (NN code)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN provided))) (. .))
+(S (NP (NP (NNS Aspects)) (PP (IN on) (NP (DT the) (NN parameter) (NN selection)))) (VP (VBP are) (VP (VBN discussed) (S (VP (TO to) (VP (VB adapt) (NP (DT the) (JJ same) (NN method)) (PP (IN for) (NP (JJ different) (NNS applications)))))))) (. .))

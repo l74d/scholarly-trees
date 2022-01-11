@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NP (DT a) (NN filter) (NN algorithm)) (PP (IN for) (NP (JJ unsupervised) (NN feature) (NN selection) (NNS problems))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN filter) (NN algorithm)) (VP (VP (VBZ is) (ADJP (JJ robust) (PP (IN with) (NP (ADJP (JJ high) (JJ dimensional)) (NNS data))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN without) (NP (JJ extra) (NNS parameters))))))) (. .))

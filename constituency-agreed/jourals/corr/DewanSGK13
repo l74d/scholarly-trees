@@ -1,0 +1,3 @@
+(S (NP (DT Each) (NN participant)) (VP (VBD was) (VP (VBN required) (S (VP (TO to) (VP (VB perform) (NP (CD 5) (NNS tasks))))))) (. .))
+(S (NP (DT The) (NN system) (NN usability) (NN score)) (VP (VBD was) (VP (VBN found) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (NP (CD 75.42))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (CD 56.6) (NN %)) (PP (IN of) (NP (DT the) (NNS participants)))) (VP (VBD said) (SBAR (IN that) (S (NP (PRP they)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB use) (NP (NNP ChaMAILeon)) (ADVP (RB frequently)))))))))) (. .))

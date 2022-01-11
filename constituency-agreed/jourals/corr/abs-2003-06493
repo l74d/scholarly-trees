@@ -1,0 +1,2 @@
+(S (ADVP (RB Instead)) (, ,) (NP (NP (DT a) (NN signal)) (SBAR (WHNP (WDT which)) (S (VP (VBZ contains) (NP (NP (NN information)) (PP (IN of) (NP (DT the) (NNS modes)))))))) (VP (MD can) (VP (VB be) (VP (VBN obtained)))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (JJ sufficient) (NN stabilization) (NNS conditions)) (PP (IN for) (NP (NP (DT the) (NN system)) (PP (IN under) (NP (NP (DT both) (NNS types)) (PP (IN of) (NP (NN information) (NN structure)))))))) (VP (VBP are) (VP (VBN derived))) (. .))

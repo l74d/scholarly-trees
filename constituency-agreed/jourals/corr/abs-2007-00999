@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN situation)) (VP (VBZ causes) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (NN information)))) (PP (IN during) (NP (DT the) (NN transformation) (NN process)))) (. .))
+(S (NP (NP (NN Significance)) (PP (IN of) (NP (NP (DT the) (NN research)) (PP (IN on) (S (VP (VP (VBG automating) (NP (NN database) (NN development))) (, ,) (VP (VBG teaching) (NP (JJ conceptual) (NN modeling))) (, ,) (CC and) (VP (VBG using) (NP (JJ formal) (NNS methods))))))))) (VP (MD will) (ADVP (RB also)) (VP (VB be) (VP (VBN discussed)))) (. .))

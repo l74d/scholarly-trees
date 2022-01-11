@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Various) (NNS approaches)) (PP (IN for) (NP (NP (JJ incremental) (NN processing)) (PP (IN of) (NP (NNS queries)))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN over) (NP (DT the) (NNS years)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP do) (RB not) (VP (VB perform) (ADVP (RB well)) (PP (IN for) (NP (NP (JJ large) (NNS databases)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN updated) (PP (IN at) (NP (JJ high) (NNS frequencies))))))))))) (. .))

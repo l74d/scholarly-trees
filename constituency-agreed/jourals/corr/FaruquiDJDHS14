@@ -1,0 +1,1 @@
+(S (NP (NNP Vector) (NN space) (NN word) (NNS representations)) (VP (VBP are) (VP (VBN learned) (PP (IN from) (NP (NP (JJ distributional) (NN information)) (PP (IN of) (NP (NP (NNS words)) (PP (IN in) (NP (JJ large) (NNS corpora))))))))) (. .))

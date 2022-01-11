@@ -1,0 +1,2 @@
+(S (NP (NNP Quantum) (NNS computers)) (VP (MD will) (VP (VB change) (NP (DT the) (JJ cryptographic) (NN panorama)))) (. .))
+(S (ADVP (RB However)) (, ,) (S (NP (PRP it)) (VP (VBZ requires) (NP (DT a) (JJ physical) (NN substrate)))) (, ,) (CC and) (S (NP (JJ optical) (NN fiber)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (JJ usual) (NN choice))))) (. .))

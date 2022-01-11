@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT the) (JJ analogous) (NN idea)) (PP (IN of) (S (VP (VBG learning) (NP (NNS programs)) (PP (IN through) (NP (NN play)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP implement) (NP (PRP$ our) (NN idea)) (PP (IN in) (NP (NP (NNP Playgol)) (, ,) (NP (DT a) (JJ new) (JJ inductive) (NN logic) (NN programming) (NN system))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG setting) (NP (NNS prices)) (PP (IN in) (NP (NP (DT an) (JJ electronic) (NN market)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (QP (JJR more) (IN than) (CD one)) (NN buyer)))))))))))) (. .))
+(S (NP (DT Each) (NN buyer)) (VP (VBZ has) (NP (NP (DT a) (JJ submodular) (NN valuation)) (PP (IN for) (S (VP (VBG purchasing) (NP (NP (DT any) (NN subset)) (PP (IN of) (NP (NNS items))))))))) (. .))

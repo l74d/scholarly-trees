@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN heterogeneity)) (PP (IN of) (NP (DT the) (NN customer)))) (VP (VBZ makes) (S (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (DT the) (NN problem)))) (ADJP (JJ difficult)))) (. .))
+(S (NP (DT The) (NN difficulty)) (VP (VBZ lies) (PP (IN in) (NP (DT the) (NN inability) (S (VP (TO to) (VP (VB characterize) (NP (DT the) (NN equilibrium) (NN queue) (NN arrival) (NNS rates)) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (DT the) (NN admission) (NNS prices))))))))))) (. .))

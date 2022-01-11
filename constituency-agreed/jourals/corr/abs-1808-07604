@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (VBZ achieves) (NP (NP (JJ large) (NNS improvements)) (PP (IN over) (NP (NP (DT the) (NNS baselines)) (PP (IN on) (NP (DT the) (VBN proposed) (NN dataset)))))))))) (. .))

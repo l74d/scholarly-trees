@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (NN compression)))) (, ,) (NP (NP (JJ different) (NNS species)) (PP (IN of) (NP (NNS worms)))) (VP (MD can) (VP (VB be) (VP (VBN clustered) (PP (IN by) (NP (NN type)))))) (. .))
+(S (NP (DT This)) (VP (MD may) (VP (VB become) (NP (DT a) (JJ useful) (NN tool)) (PP (IN in) (NP (NP (DT the) (JJ initial) (NN analysis)) (PP (IN of) (NP (JJ malicious) (NNS binaries))))))) (. .))

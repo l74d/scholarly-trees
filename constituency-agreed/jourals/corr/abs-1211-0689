@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN part))) (NP (NP (DT a) (NN comparison)) (PP (IN of) (NP (NP (JJ various) (NN information) (NN retrieval) (NNS systems)) (PP (JJ such) (IN as) (NP (NNP Solr) (CC and) (NNP Xapian)))))) (VP (VBZ is) (VP (VBN made))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ third) (NN part))) (NP (NN scalability) (NNS tests)) (VP (VBP are) (VP (VBN performed))) (. .))

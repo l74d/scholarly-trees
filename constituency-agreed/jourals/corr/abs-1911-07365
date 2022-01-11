@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (JJR lower) (NN layer))) (, ,) (PP (IN for) (NP (DT each) (NN user))) (, ,) (NP (JJ different) (NNS appliances)) (VP (VBP are) (VP (VBN scheduled) (PP (IN for) (NP (NN energy) (NN consumption))))) (. .))
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (JJ linear) (NNS constraints)))) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB characterize) (NP (DT the) (NNP Stackeberg) (NN equilibrium))))))) (. .))

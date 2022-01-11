@@ -1,0 +1,1 @@
+(S (SBAR (IN Although) (S (NP (DT no) (JJ provable) (NNS results)) (VP (VBP have) (ADVP (RB yet)) (VP (VBN been) (VP (VBN attained)))))) (, ,) (NP (JJ empirical) (NNS studies)) (VP (VBP have) (VP (VBN suggested) (SBAR (S (NP (DT the) (JJ reweighted) (NN version)) (VP (VBZ outperforms) (NP (DT the) (JJ standard) (NN method))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT An) (ADJP (JJ efficient) (CC and) (JJ informative)) (NN representation)) (VP (MD would) (VP (VB facilitate) (NP (NP (DT the) (NN effectiveness) (CC and) (NN generalization)) (PP (IN of) (NP (JJ such) (NNS algorithms)))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN framework)) (PP (IN in) (NP (NP (CD three) (NN manipulation) (NNS tasks)) (PP (IN with) (NP (NN tool) (NN use)))))) (. .))

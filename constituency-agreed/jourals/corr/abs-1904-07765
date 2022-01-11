@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (NN evaluation) (NN framework)) (SBAR (WHNP (WDT which)) (S (VP (VBZ aims) (S (VP (TO to) (VP (VB simulate) (NP (NP (DT the) (NNS users)) (VP (VBG interacting) (PP (IN with) (NP (DT the) (NN recommender))))))))))))) (. .))

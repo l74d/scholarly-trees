@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (S (VP (VBG treating) (NP (DT these) (CD two) (NNS sub-tasks)) (ADVP (RB separately)))) (VP (VBZ is) (ADJP (JJ suboptimal)))))) (. .))
+(S (NP (NP (DT The) (JJ mutual) (NNS benefits)) (PP (IN between) (NP (DT the) (CD two) (JJ complementary) (NNS sub-tasks)))) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ unexplored))) (. .))

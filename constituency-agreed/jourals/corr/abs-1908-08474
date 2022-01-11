@@ -1,0 +1,1 @@
+(S (NP (EX There)) (VP (VBP are) (, ,) (ADVP (RB however)) (, ,) (NP (NP (DT a) (NN multiplicity)) (PP (IN of) (NP (NP (NNS ways)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNP Shapley) (NN value)) (VP (VBZ is) (VP (VBN operationalized) (PP (IN in) (NP (DT the) (NN attribution) (NN problem))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Much)) (PP (IN of) (NP (DT the) (JJ expensive) (NN computation)))) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN performed) (PP (IN on) (NP (DT the) (JJR smaller) (NN matrix))) (, ,) (S (ADVP (RB thereby)) (VP (VBG accelerating) (NP (NP (DT the) (NN solution)) (PP (IN for) (NP (DT the) (JJ original) (NN problem))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS variants)) (PP (IN of) (NP (DT these) (NNS problems))))))) (. .))

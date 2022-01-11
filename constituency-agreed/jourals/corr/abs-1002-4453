@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ whole) (NN analysis)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NN measure) (NN theory))))) (. .))
+(S (NP (DT The) (NN estimator)) (VP (VBZ works) (SBAR (IN whether) (S (NP (DT the) (NN source)) (VP (VBZ is) (ADJP (JJ discrete) (CC or) (JJ continuous)))))) (. .))

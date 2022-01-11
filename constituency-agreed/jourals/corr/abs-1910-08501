@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (NN way)) (SBAR (S (VP (TO to) (VP (VB recognise) (NP (DT an) (NN object))))))) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN echo)) (VP (VBZ has) (VP (VBN been) (VP (VBN shaped) (PP (IN during) (NP (NP (DT the) (NN interaction)) (PP (IN with) (NP (DT the) (NN target)))))))))))))) (. .))
+(S (NP (DT This) (NN information)) (VP (VBZ is) (NP (NP (DT a) (NN key)) (PP (IN for) (NP (JJ automatic) (NN recognition))))) (. .))

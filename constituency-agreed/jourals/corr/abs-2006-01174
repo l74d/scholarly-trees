@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (CD 10) (NNS images)) (VP (VBD were) (VP (VBN annotated) (PP (IN by) (NP (NP (DT a) (NN team)) (PP (IN of) (NP (NNS radiologists))))) (S (VP (TO to) (VP (VB include) (NP (NP (JJ semantic) (NN segmentation)) (PP (IN of) (NP (JJ radiological) (NNS findings))))))))) (. .))

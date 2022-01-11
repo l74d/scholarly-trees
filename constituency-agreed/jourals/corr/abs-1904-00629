@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (DT the) (NN implementation) (NN performance)) (S (VP (VBG using) (NP (NP (DT the) (NNP FPGA) (NN vendor) (POS 's)) (NNS tools))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (PRP$ our) (NNS findings)) (PP (IN with) (NP (NP (DT a) (NNP C++) (NN version)) (PP (IN of) (NP (DT each) (NN algorithm)))))) (. .))

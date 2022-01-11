@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VP (VBP study) (NP (DT the) (ADJP (RB arbitrarily) (VBG varying)) (NN relay) (NN channel))) (, ,) (CC and) (VP (VB establish) (NP (NP (DT the) (NX (NX (NN cutset) (NN bound)) (CC and) (NX (JJ partial) (NN decode-forward) (NN bound)))) (PP (IN on) (NP (DT the) (NN random) (NN code) (NN capacity)))))) (. .))
+(S (NP (PRP We)) (VP (ADVP (VBP further)) (VP (VB determine) (NP (NP (DT the) (NN random) (NN code) (NN capacity)) (PP (IN for) (NP (JJ special) (NNS cases)))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (DT the) (JJ deterministic) (NN code) (NN capacity)) (VP (VBZ is) (VP (VBN determined)))))) (ADVP (RB as) (RB well))) (. .))

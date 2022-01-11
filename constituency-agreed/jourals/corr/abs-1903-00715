@@ -1,0 +1,3 @@
+(S (NP (NP (NN Introduction)) (PP (IN of) (NP (NN background) (NN knowledge)))) (VP (MD can) (VP (VB accelerate) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (NN reinforcement) (NN learning)))))) (. .))
+(S (CC But) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (ADVP (RB effectively)) (VP (VB introduce) (NP (NN background) (NN knowledge)))))) (VP (VBZ is) (ADVP (RB still)) (NP (DT an) (JJ open) (NN question))) (. .))
+(S (PP (IN With) (NP (VBN restricted) (NN strategy))) (, ,) (NP (DT the) (NN agent)) (VP (VBZ wins) (NP (DT the) (JJ human) (NN player)) (PP (IN by) (NP (QP (CD 4) (IN out) (IN of) (CD 5)) (NNS games)))) (. .))

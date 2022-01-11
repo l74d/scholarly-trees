@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN with) (NP (DT any) (VBG existing) (JJ incremental) (JJ multi-label) (NN classification) (NN algorithm))) (PP (IN as) (NP (PRP$ its) (NN base) (NN classifier)))))) (. .))

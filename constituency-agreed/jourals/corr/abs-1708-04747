@@ -1,0 +1,3 @@
+(S (NP (JJ Neural) (NN segmentation)) (VP (VBZ has) (NP (NP (DT a) (JJ great) (NN impact)) (PP (IN on) (NP (NP (DT the) (JJ smooth) (NN implementation)) (PP (IN of) (NP (JJ local) (NN anesthesia) (NN surgery))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ improved) (JJ U-NET) (JJ neural) (NN network)) (PP (IN for) (NP (DT the) (NN segmentation))))) (. .))
+(S (NP (DT This) (NN network)) (VP (VBZ deepens) (NP (DT the) (JJ original) (NN structure)) (PP (IN through) (S (VP (VBG importing) (NP (JJ residual) (NN network)))))) (. .))

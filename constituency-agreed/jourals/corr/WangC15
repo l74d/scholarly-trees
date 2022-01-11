@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD studied) (NP (CD two) (JJ different) (NNS multi-agents) (NNS systems))) (. .))
+(S (NP (DT The) (NN simulation) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (PP (IN for) (NP (DT the) (JJ first) (NN system))) (NP (PRP$ our) (NN algorithm)) (VP (VBZ converges) (ADVP (RB well)))))) (. .))

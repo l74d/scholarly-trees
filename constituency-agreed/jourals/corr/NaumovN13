@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ investigates) (NP (NP (NNS properties)) (PP (IN of) (NP (NP (DT the) (JJ conditional) (NN independence) (NN relation)) (PP (IN between) (NP (NP (NNS pieces)) (PP (IN of) (NP (NN information))))))))) (. .))
+(S (PP (IN In) (NP (CD 1995))) (, ,) (NP (NNP Herrmann)) (VP (VBD proved) (SBAR (IN that) (S (NP (NP (DT the) (JJ propositional) (NN theory)) (PP (IN of) (NP (DT this) (NN relation)))) (VP (VBZ is) (ADJP (JJ undecidable)))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN result)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (NP (NP (DT a) (JJ complete) (ADJP (RB recursively) (JJ enumerable)) (NN axiomatization)) (PP (IN of) (NP (DT this) (NN theory))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (PP (IN For) (NP (NN consistency))) (, ,) (NP (NN site) (NNS schedules)) (VP (MD should) (VP (VB converge)))) (: ;) (S (NP (PRP we)) (VP (VBD designed) (NP (DT a) (VBN decentralised) (, ,) (JJ asynchronous) (NN commitment) (NN protocol)))) (. .))
+(S (NP (DT A) (NN candidate)) (VP (VBZ wins) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ receives) (NP (NP (DT a) (NN majority)) (CC or) (NP (DT a) (NN plurality))))))) (. .))

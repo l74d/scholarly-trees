@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT a) (ADJP (JJ simple) (CC but) (JJ effective)) (NN technique)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD did) (RB not) (VP (VB need) (NP (NNP MapReduce) (NNS chains)))))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed)))) (. .))

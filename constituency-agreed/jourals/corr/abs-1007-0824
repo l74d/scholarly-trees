@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN tested) (PP (PP (IN on) (NP (DT a) (JJ non-linear) (NN toy) (NN example))) (CC and) (PP (IN on) (NP (DT a) (NNP BCI) (NN dataset)))))) (. .))
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN classification) (NN performance)) (PP (IN on) (NP (DT these) (NNS problems)))) (VP (MD can) (VP (VB be) (VP (VBN improved) (PP (IN by) (S (VP (VBG learning) (NP (DT a) (JJ large) (NN margin) (NN filtering))))))))))) (. .))

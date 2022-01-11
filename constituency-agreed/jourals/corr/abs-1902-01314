@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN contribution)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB perform) (NP (NN image) (NN segmentation)) (PP (IN without) (S (VP (VBG relying) (PP (IN on) (NP (NP (DT a) (JJ pre-trained) (NN model)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB generally)) (VP (VBZ is) (ADJP (JJ unavailable) (PP (IN for) (NP (JJ medical) (NNS scans)))))))))))))))) (. .))

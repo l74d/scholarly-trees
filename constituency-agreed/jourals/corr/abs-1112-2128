@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (NP (DT these) (NNS packets)) (VP (VBP are) (VP (VBN sent) (PP (IN along) (NP (NN disjoint) (NNS paths))) (S (VP (TO to) (VP (VB reach) (NP (DT the) (NN receiver))))))) (. .))

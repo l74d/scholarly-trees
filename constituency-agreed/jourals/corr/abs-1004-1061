@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (NN problem))))) (, ,) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NNP Maxent))) (, ,) (PP (IN under) (NP (NNP Tsallis) (NN entropy) (NN framework))) (, ,)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (DT This)) (VP (VBZ entails) (NP (NP (DT a) (JJ quantitative) (NN re-interpretation)) (PP (IN of) (NP (DT the) (NNP Maxent) (NN principle))))) (. .))

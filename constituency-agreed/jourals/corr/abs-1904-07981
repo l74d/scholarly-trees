@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ uses) (NP (NNP Docker) (NNS containers)) (S (VP (TO to) (VP (VB create) (NP (NP (DT an) (NN image)) (PP (IN of) (NP (DT the) (NN application) (NN software) (NN stack)))))))) (. .))

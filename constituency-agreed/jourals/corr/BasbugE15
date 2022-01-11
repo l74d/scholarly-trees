@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (S (NP (NP (DT the) (JJ prior) (NN knowledge)) (PP (IN of) (NP (DT the) (NN distribution)))) (VP (VBZ is) (ADJP (JJ inaccurate)))) (CC or) (S (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ plausible) (NNS distributions)))) (VP (VBZ is) (ADJP (JJ large)))))) (, ,) (NP (DT an) (JJ adaptive) (NN approach)) (VP (VBZ is) (ADJP (JJ essential))) (. .))

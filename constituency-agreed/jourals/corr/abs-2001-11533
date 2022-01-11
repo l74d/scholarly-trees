@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN implemented) (S (VP (VBG using) (NP (DT the) (NNP Hypre) (NN package))))))) (CC and) (S (NP (JJ several) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN presented)))) (. .))

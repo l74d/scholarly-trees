@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (NN degree)) (PP (IN of) (NP (NN swirl)))) (VP (VBZ is) (VP (VBN measured) (PP (IN in) (NP (JJ physical) (NN model) (NNS tests))) (S (VP (VBG using) (NP (DT a) (NN swirl) (NN meter))))))) (CC and) (S (NP (NP (DT a) (NN quantity)) (VP (VBN known) (PP (IN as) (NP (NN swirl) (NN angle))))) (VP (VBZ is) (ADVP (RB generally)) (VP (VBN measured)))) (. .))
+(S (NP (NP (DT The) (NN basis)) (PP (IN for) (NP (DT the) (JJ present) (NN method)))) (VP (VBZ is) (NP (NP (DT the) (NN conservation)) (PP (IN of) (NP (JJ angular) (NN momentum) (NN conservation))))) (. .))

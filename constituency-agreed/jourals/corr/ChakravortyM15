@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ remote) (NN estimation) (NN system)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT a) (NN sensor)) (CC and) (NP (DT an) (NN estimator))))) (. .))
+(S (NP (NN Communication)) (VP (VBZ is) (ADJP (JJ noiseless) (CC but) (JJ costly))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (NN requirement) (CC and) (NN application)))) (, ,) (NP (DT the) (JJ temporal) (NN clustering) (NN layer)) (VP (MD can) (VP (VB be) (VP (VBN customized) (PP (IN with) (NP (DT any) (JJ temporal) (NN similarity) (JJ metric)))))) (. .))
+(S (PP (IN In) (NP (DT each) (NN case))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ outperforms) (NP (JJ traditional) (NNS methods)))))) (. .))

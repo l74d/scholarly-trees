@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB identify) (CC and) (VB quantify) (NP (JJ such) (NNS incentives)))))) (. .))
+(S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (DT this) (JJ stochastic) (NN optimization) (NN problem)))) (VP (VBZ grows) (ADVP (RB exponentially)) (PP (IN with) (NP (NP (DT the) (NN time) (NN horizon)) (VP (VBN considered))))) (. .))

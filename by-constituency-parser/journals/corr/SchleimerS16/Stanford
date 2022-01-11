@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT an) (NN application))) (NP (PRP we)) (VP (VBP produce) (NP (JJ spherical) (NN Droste) (NNS images))) (. .))
+(S (NP (PRP We)) (VP (VBP obtain) (SBAR (S (NP (NP (JJ other) (ADJP (NN self) (HYPH -) (JJ similar)) (JJ visual) (NNS effects)) (VP (VBG using) (NP (NP (JJ rational) (NNS functions)) (, ,) (NP (JJ elliptic) (NNS functions)) (, ,) (CC and) (NP (NNP Schwarz) (HYPH -) (NNP Christoffel))))) (VP (VBZ maps))))) (. .))

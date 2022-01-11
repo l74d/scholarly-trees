@@ -1,0 +1,2 @@
+(S (NP (QP (IN Over) (CD 10) (CD million)) (JJ smart) (NNS contracts)) (VP (VBP have) (VP (VBN been) (VP (VBN deployed) (PP (IN on) (NP (DT the) (NNP Ethereum) (NN blockchain)))))) (. .))
+(S (NP (DT The) (NN tool)) (VP (VBZ generates) (NP (NP (DT a) (NN replay) (NN script)) (PP (IN for) (NP (NP (DT the) (JJ historic) (NNS transactions)) (PP (IN of) (NP (DT a) (JJ smart) (NN contract))))))) (. .))

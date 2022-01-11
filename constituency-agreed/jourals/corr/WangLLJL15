@@ -1,0 +1,1 @@
+(S (ADVP (RB Instead)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT a) (JJ convolutional) (JJ neural) (NN network)) (S (VP (TO to) (VP (VB predict) (NP (DT the) (JJ next) (NN word)) (PP (IN with) (NP (NP (DT the) (NN history)) (PP (IN of) (NP (NP (NNS words)) (PP (IN of) (NP (JJ variable) (NN length))))))))))) (. .))

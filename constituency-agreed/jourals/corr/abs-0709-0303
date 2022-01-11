@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP describe) (NP (NP (DT a) (JJ general) (NN mechanism)) (SBAR (WHNP (WDT that)) (S (VP (VBZ explains) (NP (NP (DT this) (NN connection)) (PP (IN between) (NP (NN network) (NN structure) (CC and) (NN function))))))))) (. .))
+(S (NP (PRP$ Our) (NNS findings)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (JJ real) (NNS networks)) (PP (IN in) (NP (NN nature)))) (VP (VBP have) (NP (NP (VBG underlying) (JJ metric) (NNS spaces)) (SBAR (WHNP (WDT that)) (S (VP (VBP remain) (ADJP (JJ undiscovered)))))))))) (. .))

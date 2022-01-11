@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN systematization)) (PP (IN of) (NP (JJ transient) (NN execution) (NNS attacks))))) (. .))
+(S (NP (PRP$ Our) (NN systematization)) (VP (VP (VBZ yields) (NP (NP (DT a) (ADJP (RBR more) (JJ complete)) (NN picture)) (PP (IN of) (NP (DT the) (NN attack) (NN surface))))) (CC and) (VP (VBZ allows) (PP (IN for) (NP (NP (DT a) (ADJP (RBR more) (JJ systematic)) (NN evaluation)) (PP (IN of) (NP (NNS defenses))))))) (. .))

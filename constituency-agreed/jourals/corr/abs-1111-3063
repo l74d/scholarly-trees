@@ -1,0 +1,1 @@
+(S (NP (JJ Stochastic) (NN network) (NN calculus)) (VP (VBZ is) (NP (NP (DT the) (JJ probabilistic) (NN version)) (PP (IN of) (NP (NP (DT the) (NN network) (NN calculus)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (NNS envelopes)) (S (VP (TO to) (VP (VB perform) (NP (NP (JJ probabilistic) (NN analysis)) (PP (IN of) (NP (VBG queueing) (NNS networks)))))))))))))) (. .))

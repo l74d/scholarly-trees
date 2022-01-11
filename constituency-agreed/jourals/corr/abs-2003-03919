@@ -1,0 +1,2 @@
+(S (NP (NNP Time) (NN series) (NN prediction)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN problem)) (PP (IN in) (NP (NN machine) (NN learning))))) (. .))
+(S (NP (NP (JJ Previous) (NNS methods)) (PP (IN for) (NP (NN time) (NN series) (NN prediction)))) (VP (VBD did) (RB not) (VP (VB involve) (NP (JJ additional) (NN information)))) (. .))

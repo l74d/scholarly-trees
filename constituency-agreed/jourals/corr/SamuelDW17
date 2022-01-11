@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (S (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN case)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNP MIMO) (NN channel)) (VP (VBZ is) (ADJP (JJ constant)))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP learn) (NP (NP (DT a) (NN detector)) (PP (IN for) (NP (DT a) (JJ specific) (NN system)))))) (. .))

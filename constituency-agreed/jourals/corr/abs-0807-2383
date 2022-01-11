@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP CPBPV) (NN framework)) (VP (VP (VBZ uses) (NP (NN constraint) (NNS stores)) (S (VP (TO to) (VP (VB represent) (NP (NP (DT the) (NN specification)) (CC and) (NP (DT the) (NN program))))))) (CC and) (VP (VBZ explores) (NP (NN execution) (NNS paths)) (ADVP (RB nondeterministically)))) (. .))
+(S (NP (NNP CPBPV)) (VP (VBZ uses) (NP (NP (DT the) (JJ rich) (NN language)) (PP (IN of) (NP (NN constraint) (NN programming)))) (S (VP (TO to) (VP (VB express) (NP (DT the) (NN constraint) (NN store)))))) (. .))

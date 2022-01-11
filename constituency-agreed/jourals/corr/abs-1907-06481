@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NP (NNS data)) (PP (IN on) (NP (JJ faulty) (NNS conditions)))) (VP (VBP are) (ADJP (ADJP (JJ rare)) (CC or) (ADJP (RB not) (JJ available)))))) (, ,) (NP (DT the) (NN training)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN performed) (PP (IN in) (NP (DT a) (JJ unsupervised) (NN manner)))))))) (. .))

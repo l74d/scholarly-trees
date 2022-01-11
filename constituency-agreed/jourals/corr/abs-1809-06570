@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (JJ fast) (NNS updates)) (PP (IN of) (NP (DT the) (NN noise) (NN distribution)))) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB facilitate) (NP (NN policy) (NN learning))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NN approach)) (VP (VBZ exhibits) (NP (JJR better) (NN performance)) (PP (IN in) (NP (JJ sparse) (NN reward) (NNS environments))) (PP (IN by) (NP (NP (NN exploration)) (PP (IN with) (NP (DT the) (VBG switching) (NN strategy)))))) (. .))

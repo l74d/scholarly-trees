@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN sentence) (NN model)) (VP (VP (VBZ adopts) (NP (NN convolution)) (PP (IN as) (NP (NP (DT the) (JJ central) (NN operation)) (PP (IN for) (S (VP (VBG composing) (NP (JJ semantic) (NNS vectors)))))))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ novel) (JJ hierarchical) (JJ convolutional) (JJ neural) (NN network)))))) (. .))

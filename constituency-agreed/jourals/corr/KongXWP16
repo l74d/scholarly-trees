@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (RB only) (JJ informative) (NNS regions)) (VP (VBP are) (VP (VBN used) (PP (IN for) (NP (NN classification))))) (. .))
+(S (ADVP (RBR More) (RB interestingly)) (, ,) (NP (DT the) (JJ audio) (NN event) (NN detector)) (VP (VBZ is) (VP (VBN trained) (ADVP (RB successfully)) (PP (IN without) (S (VP (VBG needing) (NP (DT the) (NN event) (NN level) (NN label))))))) (. .))

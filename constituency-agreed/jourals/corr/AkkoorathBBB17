@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ enables) (NP (JJR better) (NN performance)) (PP (IN at) (NP (NP (DT the) (NN expense)) (PP (IN of) (NP (NN linearizability)))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (NN consistency) (NNS semantics)) (PP (IN of) (NP (NP (DT the) (NNS data) (NNS types)) (CC and) (NP (DT the) (JJ associated) (NN programming) (NN model)))))) (. .))

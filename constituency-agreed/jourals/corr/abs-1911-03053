@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN method)) (VP (VBZ selects) (NP (NP (NP (DT the) (NNS components)) (CC and) (NP (PRP$ their) (NN configuration))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (PRP$ their) (JJ numerical) (NNS parameters)))) (. .))
+(S (NP (DT A) (JJ differential) (NN simulator)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG refining) (NP (NP (DT the) (JJ numerical) (NNS values)) (PP (IN of) (NP (DT the) (NNS components))))))))) (. .))

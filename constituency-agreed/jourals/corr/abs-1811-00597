@@ -1,0 +1,3 @@
+(S (S (VP (VBG Determining) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN brain) (NN tumor)))))) (VP (VBZ has) (NP (NP (JJ significant) (NN impact)) (PP (IN on) (NP (NP (DT the) (NN treatment) (NN choice)) (CC and) (NP (NP (NN patient) (POS 's)) (NN survival)))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (JJ recent) (NN work))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN incorporated) (NP (ADJP (RB newly) (VBN developed)) (NNPS CapsNets)) (S (VP (TO to) (VP (VB overcome) (NP (DT this) (NN shortcoming))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ addresses) (NP (DT this) (NN gap))) (. .))

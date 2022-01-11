@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NN discourse)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN phenomena)) (ADJP (RBS most) (JJ difficult) (S (VP (TO to) (VP (VB process))))))))) (. .))
+(S (SBAR (IN Although) (S (NP (NN discourse) (NNS parsers)) (VP (VBP have) (VP (VBN been) (ADVP (RB already)) (VP (VBN developed) (PP (IN for) (NP (JJ several) (NNS languages)))))))) (, ,) (NP (DT this) (NN tool)) (VP (VBZ does) (RB not) (VP (VB exist) (PP (IN for) (NP (NNP Catalan))))) (. .))

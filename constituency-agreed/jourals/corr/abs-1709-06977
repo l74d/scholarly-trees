@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (DT this) (JJ hierarchical) (NN learning) (NN approach))) (, ,) (NP (JJ deep) (NN reinforcement) (NN learning)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (JJ complex) (NNS tasks)) (PP (IN in) (NP (DT a) (JJ modular) (NN way))) (, ,) (PP (IN through) (NP (NN problem) (NN decomposition))))))))) (. .))

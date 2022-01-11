@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NN communication)) (ADVP (RB often)) (VP (VBZ has) (NP (NP (DT a) (JJ related) (NN cost)) (SBAR (WHNP (WDT that)) (S (VP (VBZ affects) (NP (JJ overall) (NN system) (NN performance))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ treats) (NP (DT a) (NN communication) (NN process)) (PP (IN as) (NP (NP (DT an) (NN action)) (SBAR (WHNP (WDT that)) (S (VP (VBZ modifies) (NP (NP (DT the) (JJ epistemic) (NN state)) (PP (IN of) (NP (DT the) (NN team)))))))))) (. .))

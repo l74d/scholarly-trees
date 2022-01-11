@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN on) (NP (CD two) (NNS applications))))) (. .))
+(S (NP (DT The) (JJ first) (NN application)) (VP (VBZ consists) (PP (IN in) (NP (NP (DT a) (JJ simple) (NN function)) (PP (IN in) (NP (ADJP (RB relatively) (JJ high)) (NN dimension)))))) (. .))

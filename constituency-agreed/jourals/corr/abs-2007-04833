@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN query) (NNS users))) (, ,) (NP (PRP we)) (VP (VBP devise) (NP (NP (DT an) (JJ inductive) (JJ relational) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (JJ underlying) (NNS relations)) (PP (IN between) (NP (NP (DT the) (CD two) (NNS groups)) (PP (IN of) (NP (NNS users)))))))))))))) (. .))

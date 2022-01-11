@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT the) (NN voting) (NN system)))) (CC and) (NP (NP (DT the) (NN design) (CC and) (NN verification)) (PP (IN of) (NP (DT the) (NN framework)))))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (DT this) (NN sub-system)))) (PP (VBN based) (PP (IN on) (NP (DT a) (JJ successful) (NN prototype) (NN implementation))))) (. .))

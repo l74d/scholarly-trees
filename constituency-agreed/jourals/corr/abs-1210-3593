@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN thesis))) (NP (PRP we)) (VP (VBP develop) (NP (NP (NNS tools)) (PP (IN for) (NP (ADJP (JJ effective) (CC and) (JJ flexible)) (NN pattern) (NN matching))))) (. .))
+(S (NP (PRP$ Our) (NN framework)) (ADVP (RB also)) (VP (VBZ produces) (NP (JJ dynamic) (NNS parsers))) (. .))

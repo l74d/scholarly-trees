@@ -1,0 +1,2 @@
+(S (S (VP (VBG Detecting) (NP (JJ extreme) (NNS events)) (PP (IN in) (NP (JJ large) (NNS datasets))))) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN challenge)) (PP (IN in) (NP (NN climate) (NN science) (NN research))))) (. .))
+(S (ADVP (RB Often)) (, ,) (NP (JJ multiple) (VBG competing) (NNS methods)) (VP (VBP produce) (NP (ADJP (RB vastly) (JJ different)) (NNS results)) (PP (IN on) (NP (DT the) (JJ same) (NN dataset)))) (. .))

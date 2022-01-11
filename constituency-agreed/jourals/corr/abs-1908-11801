@@ -1,0 +1,2 @@
+(S (NP (NP (NNP North) (NNP Carolina) (POS 's)) (NN constitution)) (VP (VBZ requires) (SBAR (IN that) (S (NP (NN state) (JJ legislative) (NNS districts)) (VP (MD should) (RB not) (VP (VB split) (NP (NNS counties))))))) (. .))
+(S (PP (IN Under) (NP (DT these) (NNS guidelines))) (, ,) (NP (DT the) (NNS counties)) (VP (VBP are) (VP (VBN separated) (PP (IN into) (NP (NNS clusters))))) (. .))

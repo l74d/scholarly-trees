@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP examine) (CC and) (VBP recommend) (NP (NP (JJ critical) (JJ architectural) (NNS changes)) (SBAR (WHNP (WDT that)) (S (VP (VBP forge) (NP (DT an) (JJ optimal) (JJ multi-scale) (NN feature) (NN extraction) (NN process))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (DT the) (VBN proposed) (NNS approaches)) (PP (IN on) (NP (DT the) (NNP MUSDB) (NN test) (NN dataset)))) (. .))

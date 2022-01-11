@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNP WiCode) (NN module)) (PP (IN at) (NP (DT the) (NN client) (NN side)))) (VP (VBZ is) (NP (NP (DT a) (NN browser) (NN plugin)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB not) (VP (VB require) (NP (DT any) (NN client) (NN side) (NN device) (NN configuration) (NNS changes)))))))) (. .))

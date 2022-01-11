@@ -1,0 +1,3 @@
+(S (SBAR (WHADVP (WRB How)) (S (NP (DT the) (NN brain)) (VP (VBZ solves) (NP (DT the) (NN credit) (NN assignment) (NN problem))))) (VP (VBZ is) (ADJP (JJ unclear))) (. .))
+(S (PP (IN In) (NP (NN machine) (NN learning))) (, ,) (NP (NN error) (NN backpropagation)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB highly) (JJ successful)) (NN mechanism)) (PP (IN for) (NP (NP (NN credit) (NN assignment)) (PP (IN in) (NP (JJ deep) (JJ multilayered) (NNS networks))))))) (. .))
+(S (NP (DT This) (JJ architectural) (NN constraint)) (VP (VBZ is) (VP (VBN reduced) (PP (IN with) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ random) (NN feedback) (NNS weights))))))) (. .))

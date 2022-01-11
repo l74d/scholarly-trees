@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN converse)) (VP (VBZ comes) (PP (IN in) (NP (CD two) (NNS flavors)))) (. .))
+(S (PP (IN In) (NP (DT the) (NNP DMC) (NN case))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ runs) (PP (IN in) (NP (DT a) (JJ polynomial) (NN time)))) (. .))

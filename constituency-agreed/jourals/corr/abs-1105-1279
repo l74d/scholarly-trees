@@ -1,0 +1,2 @@
+(S (NP (DT Each) (VBG beamforming) (NN matrix)) (VP (VBZ realizes) (NP (NP (DT a) (NN permutation) (NN pattern)) (PP (IN among) (NP (DT the) (NNS stations))))) (. .))
+(S (PP (IN By) (S (VP (VBG scheduling) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ different) (NN switch) (NNS matrices))))))) (, ,) (NP (NP (JJ full) (NN connectivity)) (PP (IN among) (NP (DT the) (NNS stations)))) (VP (MD can) (VP (VB be) (VP (VBN established)))) (. .))

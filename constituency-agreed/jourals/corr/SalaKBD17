@@ -1,0 +1,1 @@
+(S (PP (IN After) (S (VP (VBG being) (VP (VBN trained))))) (, ,) (NP (NNS classifiers)) (VP (MD must) (ADVP (RB often)) (VP (VB operate) (PP (IN on) (NP (NP (NNS data)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN corrupted) (PP (IN by) (NP (NN noise)))))))))))) (. .))

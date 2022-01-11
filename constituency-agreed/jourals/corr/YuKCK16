@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN word) (NN detector)) (VP (VBZ has) (NP (CD two) (JJ important) (NNS properties))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB require) (NP (DT any) (JJ external) (NN knowledge) (NNS sources)) (PP (IN for) (NP (NN training))))) (. .))

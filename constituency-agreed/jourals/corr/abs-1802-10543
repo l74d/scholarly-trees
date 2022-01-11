@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN sharing)) (PP (IN of) (NP (JJ such) (NNS data)))) (VP (VBZ comes) (PP (IN with) (NP (NNS risks))) (, ,) (SBAR (IN as) (S (NP (NP (NNS problems)) (PP (IN with) (NP (NN privacy)))) (VP (MD may) (VP (VB arise)))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP summarize) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS aspects)) (PP (IN of) (NP (DT each) (NN algorithm))))) (. .))

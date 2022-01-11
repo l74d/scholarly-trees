@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB develop) (NP (NP (DT a) (JJ new) (NN architecture)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB make) (NP (NP (JJ full) (NN use)) (PP (IN of) (NP (NP (DT the) (NN feature) (NNS maps)) (PP (IN of) (NP (JJ convolutional) (NNS networks))))))))))))))) (. .))

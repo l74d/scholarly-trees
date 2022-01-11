@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN combination)))) (VP (MD can) (VP (VB exceed) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (DT the) (NNS components)) (PP (IN in) (NP (NN isolation)))))))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN done) (PP (IN with) (NP (JJ linear) (JJ asymptotic) (NN complexity)))))) (. .))

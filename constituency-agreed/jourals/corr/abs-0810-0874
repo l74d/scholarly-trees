@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (JJ main) (NNS problems)) (PP (IN of) (NP (NNP Software) (NNP Engineering)))) (VP (VBP appear) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NNS incompatibilities)))))) (. .))
+(S (NP (NNP Software) (NN design)) (VP (VBZ is) (NP (DT another) (NN example))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN point)) (PP (IN of) (NP (JJ great) (NN nicety))))) (. .))
+(S (NP (DT All) (NNS elements)) (VP (MD should) (VP (VB create) (NP (NP (DT a) (JJ single) (NN space)) (PP (IN of) (NP (NN interaction)))))) (. .))
+(S (CC And) (SBAR (IN if) (S (NP (NP (DT the) (NNS laws)) (PP (IN of) (NP (PDT such) (DT a) (NN space)))) (VP (VBP are) (ADJP (JJ imperfect))))) (, ,) (S (NP (VBG missequencing)) (VP (VBZ comes))) (CC and) (S (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (DT a) (NN software) (NN system)))) (VP (VBZ fails))) (. .))

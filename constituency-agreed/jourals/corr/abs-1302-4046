@@ -1,0 +1,1 @@
+(S (S (ADVP (RB Technically)) (, ,) (NP (DT an) (NN interception) (NN mode)) (VP (VBZ is) (RB not) (VP (VBN designed) (PP (IN for) (NP (NN client) (NN authentication)))))) (, ,) (CC but) (S (NP (NP (NN implementation)) (PP (IN in) (NP (JJ certain) (NNS organizations)))) (VP (VBZ does) (VP (VB require) (NP (DT this) (NN feature))))) (. .))

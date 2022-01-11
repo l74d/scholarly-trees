@@ -1,0 +1,5 @@
+(S (ADVP (RB Thus)) (, ,) (NP (ADJP (JJ gestural) (CC and) (JJ facial)) (NNS expressions)) (VP (VBP are) (ADJP (JJ important) (PP (IN for) (NP (NN communication))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT an) (JJ interactive) (JJ fuzzy) (JJ emotional) (NN model)) (PP (IN for) (NP (NP (DT the) (NN robot) (NN partner) (POS 's)) (NN gesture) (NN expression))) (, ,) (PP (VBG following) (NP (PRP$ its) (JJ facial) (JJ emotional) (NN model))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT the) (JJ physical) (NN interaction)) (PP (IN between) (NP (NP (DT the) (NN user)) (CC and) (NP (PRP$ its) (NN robot) (NN partner)))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NP (DT the) (JJ emotional) (NN model)) (PP (IN along) (NP (NP (PRP$ its) (NN interactivity)) (PP (IN with) (NP (DT the) (NN user)))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (JJ experimental) (NNS results)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model))))) (. .))

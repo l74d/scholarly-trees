@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (JJ crucial) (NN problem)) (PP (IN in) (NP (NNP UWSN)))) (VP (VBZ is) (VP (VBG finding) (NP (NP (DT an) (JJ efficient) (NN route)) (PP (IN between) (NP (NP (DT a) (NN source)) (CC and) (NP (DT a) (NN destination))))))) (. .))
+(S (NP (JJ Several) (NN routing) (NNS protocols)) (VP (VP (VBP are) (VP (VBN proposed) (PP (IN for) (NP (DT this) (NN issue))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN classified) (PP (IN into) (NP (ADJP (JJ geographic) (CC and) (JJ non-geographic)) (NN routing) (NNS protocols))))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN review) (CC and) (NN comparison)) (PP (IN of) (NP (NP (JJ different) (NNS algorithms)) (VP (VBN proposed) (ADVP (RB recently)) (PP (IN in) (NP (DT the) (NN literature)))))))) (. .))

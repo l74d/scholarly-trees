@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ only) (NN parameter)) (SBAR (S (NP (PRP we)) (VP (VBP store) (PP (IN in) (NP (NN memory))))))) (VP (VBZ is) (NP (NP (DT a) (JJ constant)) (VP (VBN needed) (PP (IN for) (NP (NN scaling)))))) (. .))

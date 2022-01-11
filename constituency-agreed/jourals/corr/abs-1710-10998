@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ their) (NN relation)) (VP (VBZ is) (ADJP (ADJP (RB much) (RBR more) (JJ sophisticated)) (PP (IN than) (NP (DT that))))) (. .))
+(S (S (VP (TO To) (VP (VB simplify) (NP (DT the) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP attempt) (S (VP (TO to) (VP (VB quantify) (NP (NP (NN background) (NN knowledge)) (CC and) (NP (NN de-anonymization) (NN gain))) (PP (IN under) (NP (JJ several) (NNS assumptions))))))) (. .))

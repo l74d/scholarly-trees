@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN design) (CC and) (NN development)) (PP (IN of) (NP (NP (DT the) (NN pressure) (NN cell)) (PP (IN with) (NP (NP (DT this) (JJ dual) (NN diaphragm) (NN structure)) (VP (VBG having) (NP (NN cantilever) (NN pickup)))))))) (VP (VBZ is) (VP (VBN presented) (ADVP (RB here)))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ external) (NNS circuits))) (, ,) (NP (NP (DT the) (JJ average) (NN pressure)) (CC and) (NP (NP (DT the) (JJ differential) (NN pressure)) (VP (VBG acting) (PP (IN on) (NP (CD two) (NNS diaphragms)))))) (VP (VBP are) (VP (VBN computed))) (. .))

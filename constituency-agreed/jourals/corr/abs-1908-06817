@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (VBG pressing) (NN need)) (PP (IN for) (NP (NP (JJ accurate) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP enable) (NP (JJ early) (NN diagnosis))) (CC and) (VP (VB cover) (NP (NP (DT a) (JJ broad) (NN range)) (PP (IN of) (NP (NNS cancers)))))))))))) (. .))
+(S (NP (NP (DT The) (NN suitability)) (PP (IN of) (NP (CD five) (NNS algorithms)))) (VP (VBD were) (VP (VBN assessed) (PP (IN for) (NP (NP (DT the) (NN classification)) (PP (IN of) (NP (CD 17) (JJ different) (NN cancer) (NNS types))))))) (. .))

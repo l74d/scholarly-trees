@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ quadratic) (NN loss)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT the) (NN prediction) (NN error)) (PP (IN for) (NP (NNP LOOCV))))))) (. .))

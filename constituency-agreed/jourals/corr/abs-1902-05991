@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (NP (NN information) (NNS losses)) (VP (VBG arising) (PP (IN from) (NP (NP (DT the) (JJ finite) (NNS datasets)) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (JJ neural) (NNS classifiers))))))))))))) (. .))

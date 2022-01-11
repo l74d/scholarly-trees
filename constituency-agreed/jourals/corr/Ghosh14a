@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (ADJP (JJ possible)) (SBAR (RB only) (IN if) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT some) (NN flexibility)) (PP (IN over) (NP (DT the) (NN spectrum))))))))) (. .))
+(S (ADVP (RB So)) (, ,) (NP (NN orthogonality)) (VP (MD can) (VP (VB be) (VP (VBN maintained) (PP (IN over) (NP (DT the) (NN frequency) (NN response)))))) (. .))

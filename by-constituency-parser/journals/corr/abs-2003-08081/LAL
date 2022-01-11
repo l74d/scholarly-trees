@@ -1,0 +1,5 @@
+(S (NP (NP (DT A) (JJ novel) (NN explicit) (NN method)) (SBAR (S (VP (TO to) (VP (VB model) (NP (NNP Lorentz) (JJ linear) (JJ dispersive) (NNS media)) (PP (IN with) (NP (JJ finite) (NN difference) (NN method)))))))) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ shows) (NP (NP (DT an) (JJ explicit) (NN method)) (PP (IN without) (NP (NP (DT any) (NN modification)) (PP (TO to) (NP (DT the) (JJ Leap-Frogging) (NN scheme))))))) (. .))
+(S (NP (NP (DT The) (NNS polarizations)) (PP (IN of) (NP (DT the) (NNP Lorentz) (NNS media)))) (VP (VBP are) (VP (VBN convoluted) (ADVP (RB simply)) (PP (IN in) (NP (DT the) (JJ current) (NN density))))) (. .))
+(S (NP (DT The) (JJ numerical) (NNS results)) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (NP (NP (JJ competitive) (NN accuracy)) (PP (IN with) (NP (DT a) (JJ conventional) (NN method))))))))) (. .))
+(S (NP (NP (DT The) (NNS codes)) (VP (VBN used) (PP (IN in) (NP (DT the) (JJ numerical) (NN investigation))))) (VP (VBP are) (ADJP (JJ available)) (PP (IN on) (NP (DT the) (NNP GitHub))) (PRN (-LRB- -LRB-) (NP (DT this) (NN https) (NNP URL) (NP (NNP FDTD))) (-RRB- -RRB-))) (. .))

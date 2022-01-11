@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN simulation) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (VBN proposed) (NN scheme)) (VP (MD can) (VP (VB obtain) (NP (NP (DT a) (JJR higher) (NN capacity)) (CC and) (NP (JJR smaller) (NN latency))) (PP (VBN compared) (PP (IN with) (NP (NP (JJ traditional) (NNS schemes)) (PP (IN in) (NP (NNP MRMC) (NNP CRNs))))))))))) (. .))

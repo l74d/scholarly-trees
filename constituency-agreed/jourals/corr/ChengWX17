@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (JJ multiple) (NN occurrence) (NNS positions)) (PP (IN of) (NP (DT this) (NN pattern)))) (VP (MD can) (VP (VB be) (VP (VBN retrieved) (ADVP (RB simultaneously)) (PP (IN by) (S (VP (VBG traversing) (NP (DT the) (NN quadtree)))))))) (. .))

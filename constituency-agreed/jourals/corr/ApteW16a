@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS symmetries)) (VP (MD can) (VP (VB be) (VP (VBN exploited) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN complexity)) (PP (IN of) (S (VP (VBG solving) (NP (DT these) (NNS problems)) (PP (IN through) (NP (JJ polyhedral) (NN projection))))))))))))))))) (. .))

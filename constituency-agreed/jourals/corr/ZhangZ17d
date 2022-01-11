@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NN privacy)) (VP (MD can) (VP (VB be) (VP (VBN violated) (SBAR (IN as) (S (NP (DT some) (NNS tasks)) (VP (MD may) (VP (VB contain) (NP (NP (ADJP (JJ sensitive) (CC and) (JJ private)) (NNS data)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN communicated) (PP (IN between) (NP (NNS nodes) (CC and) (NNS tasks))))))))))))))) (. .))

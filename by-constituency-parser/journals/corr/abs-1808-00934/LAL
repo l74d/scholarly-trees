@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (ADJP (NN memory) (JJ efficient)) (VBG streaming) (NN algorithm)) (VP (VBN based) (PP (IN on) (NP (NP (NP (JJ classical) (NNP Oja) (POS 's)) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ achieves) (NP (DT this) (NN rate)))))))))) (. .))

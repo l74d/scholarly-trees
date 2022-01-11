@@ -1,0 +1,2 @@
+(S (NP (NP (NP (DT A) (JJ new) (NN quantum) (NN algorithm)) (PP (IN for) (NP (DT a) (NN search) (NN problem)))) (CC and) (NP (PRP$ its) (JJ computational) (NN complexity))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (NP (PRP It))) (VP (VBZ is) (VP (VBN shown) (PP (IN in) (NP (NP (DT the) (NN search) (NN problem)) (VP (VBG containing) (NP (CD 2^n) (NNS objects))))) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ runs) (PP (IN in) (NP (JJ polynomial) (NN time)))))))) (. .))

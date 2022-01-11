@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ is) (ADVP (RB indeed)) (NP (NP (DT a) (JJ longstanding) (JJ open) (NN problem)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB first)) (VP (VBN introduced) (PP (IN by) (NP (NNP Knuth))))))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (NP (JJ several) (NNS stacks)) (PP (IN in) (NP (NN series)))) (VP (VBP are) (VP (VBN considered))))) (, ,) (NP (JJ few) (NNS results)) (VP (VBP are) (VP (VBN known))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (CD two) (JJ main) (JJ different) (NNS problems))) (. .))

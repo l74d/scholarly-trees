@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD found) (SBAR (IN that) (S (NP (NNS developers)) (VP (VBP have) (NP (NP (JJ few) (NNS hypotheses)) (, ,) (NP (NP (CD two)) (PP (IN per) (NP (NN defect))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD studied) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NP (CD two) (VBG debugging) (NNS aids)) (: :) (NP (NP (NN fault) (NNS locations)) (CC and) (NP (JJ potential) (NNS hypotheses))))))) (. .))

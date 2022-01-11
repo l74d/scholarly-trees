@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN autoencoder)) (VP (VBZ is) (NP (NP (DT an) (JJ artificial) (JJ neural) (NN network) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (NP (NP (JJ hidden) (NNS representations)) (PP (IN of) (NP (JJ unlabeled) (NNS data))))))))) (. .))

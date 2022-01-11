@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN rank)) (PP (IN of) (NP (DT a) (JJ finite) (JJ dynamical) (NN system)))) (VP (VBZ is) (NP (NP (DT the) (NN cardinality)) (PP (IN of) (NP (PRP$ its) (NN image)))))) (: ;) (S (NP (DT the) (JJ periodic) (NN rank)) (VP (VBZ is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (PRP$ its) (JJ periodic) (NNS points)))))) (. .))

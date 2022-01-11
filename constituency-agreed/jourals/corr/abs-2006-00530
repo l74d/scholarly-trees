@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NN quantization) (NN sensitivity)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN model) (NN architecture)))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (NN model) (NN selection)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (DT the) (NNP QDNN) (NN design) (NN process)))))))) (. .))

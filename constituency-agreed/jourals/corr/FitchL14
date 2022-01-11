@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (DT a) (JJ single) (NN leader))))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (JJ optimal) (NN leader)) (VP (VBZ is) (NP (NP (DT the) (NN node)) (PP (IN with) (NP (JJ maximal) (NN information) (NN centrality)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (PP (IN with) (NP (NNS examples)))) (. .))

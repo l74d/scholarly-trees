@@ -1,0 +1,3 @@
+(S (ADVP (RB So) (RB far)) (NP (NP (QP (RB only) (CD two)) (NNS families)) (PP (IN of) (NP (NNS ovoids)))) (VP (VBP are) (VP (VBN known))) (. .))
+(S (NP (NP (DT The) (NNS objectives)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN subfield) (NNS codes)) (PP (IN of) (NP (NP (DT the) (CD two) (NNS families)) (PP (IN of) (NP (JJ ovoid) (NNS codes)))))))))) (. .))
+(S (NP (NP (DT The) (NNS parameters)) (PP (IN of) (NP (DT the) (NN subfield) (NNS codes)))) (VP (VBP are) (ADJP (JJ new))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (DT this)) (VP (VBZ is) (NP (DT an) (JJ idealized) (NN situation))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VP (VBZ describes) (NP (NP (DT a) (JJ formal) (NN characterization)) (PP (IN of) (NP (DT the) (NN problem))))) (CC and) (VP (VBZ discusses) (NP (NP (DT an) (JJ initial) (NN implementation)) (PP (IN of) (NP (DT the) (VBG resulting) (JJ theoretical) (NN system)))))) (. .))

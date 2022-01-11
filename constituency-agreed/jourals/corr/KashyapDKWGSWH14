@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (NNP JSAI)) (, ,) (NP (NP (DT an) (JJ abstract) (NN interpreter)) (PP (IN for) (NP (NNP JavaScript)))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ comprehensive) (NN evaluation)) (PP (IN of) (NP (NP (NNP JSAI) (POS 's)) (NN performance) (CC and) (NN precision)))) (S (VP (VBG using) (NP (DT an) (JJ extensive) (NN benchmark) (NN suite))))) (. .))

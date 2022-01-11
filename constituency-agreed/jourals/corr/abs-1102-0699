@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP build) (NP (DT a) (NNP Twitter) (NN clone)) (S (VP (VBG using) (NP (NP (CD 16) (NNS machines)) (CC and) (NP (NNP Cassandra)))))) (. .))

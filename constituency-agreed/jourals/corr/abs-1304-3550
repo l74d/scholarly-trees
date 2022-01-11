@@ -1,0 +1,2 @@
+(S (S (NP (JJ Many) (NNS ideas)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB prevent) (NP (DT these) (NNS attacks))))))))) (CC but) (S (NP (PRP they)) (VP (VBP increase) (NP (NP (NN complexity)) (PP (IN of) (NP (DT the) (JJ total) (NNP Kerberos) (NN environment)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ helps) (S (VP (TO to) (VP (VB prevent) (NP (NNP Replay) (NN attack)))))) (. .))

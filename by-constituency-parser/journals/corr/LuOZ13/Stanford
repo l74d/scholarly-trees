@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP improve) (NP (DT that) (NN result) (SBAR (IN once) (FRAG (ADJP (JJR more))))) (, ,) (S (VP (VBG establishing) (NP (NP (VBG interlocking)) (PP (IN between) (NP (NP (DT a) (NML (CD 2) (HYPH -) (NN chain))) (CC and) (NP (DT a) (NML (CD 10) (HYPH -) (NN chain))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (NNS arguments)) (SBAR (WHNP (WDT that)) (S (VP (VBP indicate) (SBAR (IN that) (S (NP (CD 10)) (VP (VBZ is) (ADJP (JJ likely) (NP (DT the) (NN minimum))))))))))) (. .))

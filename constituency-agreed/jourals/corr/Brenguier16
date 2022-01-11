@@ -1,0 +1,2 @@
+(S (NP (NNP Controller) (NN synthesis)) (VP (VBZ is) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG constructing) (NP (DT a) (JJ correct) (NN system)) (ADVP (RB automatically)) (PP (IN from) (NP (PRP$ its) (NN specification)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (PP (VBN given) (NP (DT a) (NN specification))) (, ,) (NP (PRP we)) (VP (VBP identify) (NP (NP (DT the) (JJS weakest) (NNS assumptions)) (SBAR (WHNP (WDT that)) (S (VP (VBZ ensures) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT a) (NN controller))))))))) (. .))

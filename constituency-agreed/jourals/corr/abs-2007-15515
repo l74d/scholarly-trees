@@ -1,0 +1,2 @@
+(S (PP (IN After) (NP (NP (NN formulation)) (PP (IN of) (NP (DT the) (NN problem))))) (, ,) (NP (CD two) (NNS solutions)) (VP (VBP are) (VP (VBN proposed))) (. .))
+(S (NP (DT This) (NN estimation)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN used) (PP (IN for) (NP (NN state) (NN estimation))) (PP (IN through) (NP (NNP Kalman) (NN filtering))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (JJ Such) (NNS problems)) (VP (MD can) (VP (VB be) (VP (VBN modeled) (PP (IN as) (NP (NP (JJ collaborative) (JJ Bayesian) (NNS games)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (NN agent)) (VP (VBZ receives) (NP (JJ private) (NN information)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (PRP$ its) (NN type))))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ nonlinear) (NN control)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ exact) (NN linearization)) (PP (IN via) (NP (NN feedback))))))) (. .))
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NP (VBG corresponding) (NNS diagrams)) (VP (VBN achieved) (PP (IN by) (NP (DT these) (CD two) (NNS methods))))))) (VP (VBP are) (VP (VBN offered) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (JJ new) (NN method))))))))) (. .))
+(S (NP (NNS Optimizations) (CC and) (NNS Simulations)) (VP (VBP are) (VP (VBN worked) (PRT (RP out)) (PP (IN in) (NP (NNP MATLAB) (NN environment))))) (. .))

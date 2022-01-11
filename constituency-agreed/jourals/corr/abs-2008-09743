@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT The) (JJ individual) (NN emotion) (NNS features)) (PP (IN from) (NP (NNP EDA) (NNS signals)))) (CC and) (NP (NP (JJ external) (NN emotion) (NNS benchmarks)) (PP (IN from) (NP (NN music))))) (VP (VBP are) (VP (VBN fused) (PP (IN in) (NP (DT the) (NN classifing) (NNS layers))))) (. .))

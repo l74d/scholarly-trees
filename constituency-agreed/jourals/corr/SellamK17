@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ fundamental) (NN problem)) (VP (VBZ is) (SBAR (IN that) (S (NP (NNS queries)) (VP (VBP are) (NP (NP (JJ symbolic) (NNS objects)) (, ,) (RB not) (NP (NP (NNS vectors)) (PP (IN of) (NP (NNS numbers))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (JJ many) (JJ popular) (JJ statistical) (NNS concepts)) (, ,) (PP (JJ such) (IN as) (NP (NP (NNS means)) (, ,) (NP (NN regression)) (, ,) (CC or) (NP (NN decision) (NNS trees))))) (VP (VBP do) (RB not) (VP (VB apply))) (. .))
+(S (NP (PRP$ Our) (NN project)) (VP (VBZ is) (S (VP (TO to) (VP (VB challenge) (NP (DT this) (NN limitation)))))) (. .))

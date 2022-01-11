@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ sharp) (JJ geometric) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN recovery) (NN performance)) (PP (IN of) (NP (JJ sparse) (NN regularization))))))) (. .))
+(S (NP (PRP We)) (VP (VBP measure) (NP (DT the) (NN stability)) (S (VP (VBG using) (NP (NP (DT an) (JJ optimal) (NN transport) (NN distance)) (VP (VBN constructed) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (DT the) (NNP Fisher) (JJ geodesic) (NN distance)))))))))) (. .))

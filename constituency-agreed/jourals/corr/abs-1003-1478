@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT a) (NN network))) (, ,) (NP (NN arrival) (NN process)) (VP (VBZ is) (VP (VBN converted) (PP (IN into) (NP (NN departure) (NN process))) (PP (IN through) (NP (NN network) (NNS elements))))) (. .))
+(S (PP (IN For) (S (VP (VBG providing) (NP (JJ guaranteed) (NN service))))) (NP (NNS resources)) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN reserved) (SBAR (IN before) (S (NP (NN conversation)) (VP (VBZ takes) (NP (NN place)))))))))) (. .))

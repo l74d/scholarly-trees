@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN documented) (PP (IN with) (NP (NP (NN help)) (PP (IN of) (NP (DT a) (JJ real) (NN time) (NN implementation)))))))) (CC and) (S (NP (NNS results)) (VP (VBP are) (VP (VBN shared)))) (. .))
+(S (NP (NP (DT The) (NN novelty)) (PP (IN of) (NP (DT the) (NN approach)))) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ historic) (NNS values)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB calculate) (NP (JJ overall) (NN link) (NN stability)))))))))) (. .))

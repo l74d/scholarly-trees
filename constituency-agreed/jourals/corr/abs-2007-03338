@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB validate) (NP (DT this) (NN captioning) (NN model))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (NNP Microsoft) (NNP COCO)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT a) (JJ standard) (JJ factual) (NN image) (NN caption) (NN dataset))))))) (. .))

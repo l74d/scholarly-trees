@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (NN modulation) (NN recognition)) (VP (VBZ is) (ADVP (RB mostly)) (VP (VBN approached) (PP (IN as) (NP (NP (DT a) (NN classification) (NN problem)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT a) (JJ supervised) (NN learning) (NN framework))))))))) (. .))

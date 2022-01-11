@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (NP (NN camera) (NN calibration)))) (VP (VBZ is) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (ADJP (JJ intrinsic) (CC and) (JJ extrinsic)) (NNS parameters)) (PP (IN of) (NP (DT a) (NN camera) (NN model)))))))) (. .))

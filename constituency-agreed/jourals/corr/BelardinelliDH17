@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN consequence)) (PP (IN of) (NP (PRP$ our) (NNS semantics)))) (VP (VBZ is) (SBAR (IN that) (S (NP (ADJP (RB modally) (JJ bisimilar)) (NNS states)) (VP (MD may) (VP (VB be) (VP (VBN distinguished) (PP (IN in) (NP (PRP$ our) (NN logic))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT the) (JJ formal) (NN machinery)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ detailed) (JJ epistemic) (NNS scenarios)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN model) (POS 's)) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NN product) (NNS representations)) (PP (IN from) (NP (DT the) (JJ textual) (NNS contents))) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (NNS relationships)) (PP (IN between) (NP (NP (DT the) (NNS products)) (PP (IN in) (NP (DT the) (NNS baskets))))))))))))) (. .))

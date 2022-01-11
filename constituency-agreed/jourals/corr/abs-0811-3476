@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT these) (NNS architectures)))) (, ,) (NP (NP (JJ several) (NNS schemes)) (VP (VBG featuring) (NP (ADJP (JJ monotonic) (CC or) (JJ non-monotonic)) (NNS units)))) (VP (VBP are) (VP (VBN introduced))) (. .))
+(S (NP (NP (DT The) (JJ analytical) (NN performance)) (PP (IN of) (NP (DT these) (NNS schemes)))) (VP (VBZ is) (VP (VBN investigated) (S (VP (VBG using) (NP (NP (DT the) (NN replica) (NN method)) (PP (IN of) (NP (JJ statistical) (NNS mechanics)))))))) (. .))

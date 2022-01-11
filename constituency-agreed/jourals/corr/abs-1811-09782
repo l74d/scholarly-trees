@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (DT the) (NN prediction) (NN problem)) (PP (IN as) (NP (NP (DT a) (JJ supervised) (NN classification)) (PP (IN with) (NP (JJ noisy) (NNS labels)))))) (. .))

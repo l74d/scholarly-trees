@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (JJ recent) (NNS papers)) (VP (VBP use) (NP (NN image) (NN denoising)) (PP (IN with) (NP (NP (DT a) (NNP Fields)) (PP (IN of) (NP (NP (NNS Experts)) (PP (JJ prior) (IN to) (NP (NN benchmark) (JJ discrete) (NN optimization) (NNS methods)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT a) (ADJP (JJ non-linear) (JJS least)) (NNS squares)) (VP (VBP solver) (SBAR (S (ADVP (RB significantly)) (VP (VBZ outperforms) (NP (NP (DT all) (VBN known) (JJ discrete) (NNS methods)) (PP (IN on) (NP (DT this) (NN problem))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN thickenability) (NN problem)) (PP (IN for) (NP (JJ simplicial) (NNS complexes)))) (VP (VBD emerged) (PP (IN in) (NP (NP (DT the) (NN topology)) (PP (IN of) (NP (NNS manifolds))))) (PP (IN in) (NP (DT the) (NNS 1960s)))) (. .))
+(S (ADVP (RB Recently)) (, ,) (NP (NNP Carmesin)) (VP (VBD announced) (SBAR (IN that) (S (NP (NN thickenability)) (VP (MD can) (VP (VB be) (VP (VBN tested) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))

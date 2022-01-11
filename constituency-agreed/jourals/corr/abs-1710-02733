@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ computational) (NN complexity)) (PP (IN of) (NP (DT this) (JJ combinatorial) (NNP MH) (NN algorithm)))) (VP (VBZ is) (ADVP (RB still)) (PP (IN in) (NP (NP (DT the) (JJ same) (NN order)) (PP (IN as) (NP (DT the) (JJ original) (NN one)))))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (DT the) (VBN proposed) (NN algorithm)) (PP (IN through) (NP (JJ several) (JJ numerical) (NNS experiments)))) (. .))

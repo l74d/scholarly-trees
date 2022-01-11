@@ -1,0 +1,2 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (NP (DT the) (VBG existing) (NN work)) (PP (IN on) (NP (JJ automatic) (JJ facial) (NN expression) (NN analysis)))))) (VP (VBZ focuses) (PP (IN on) (NP (NP (JJ discrete) (NN emotion) (NN recognition)) (, ,) (CC or) (NP (JJ facial) (NN action) (NN unit) (NN detection))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ facial) (NNS expressions)) (VP (VBP do) (RB not) (ADVP (RB always)) (VP (VB fall) (ADVP (RB neatly)) (PP (IN into) (NP (JJ pre-defined) (JJ semantic) (NNS categories))))) (. .))

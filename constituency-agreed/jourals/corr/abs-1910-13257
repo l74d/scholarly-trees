@@ -1,0 +1,1 @@
+(S (NP (NNP Fusion) (NNS data)) (VP (VP (VBZ involves) (NP (NP (NNS images)) (CC and) (NP (NN time) (NN series)))) (, ,) (CC and) (VP (VBP are) (NP (NP (DT a) (JJ natural) (NN candidate)) (PP (IN for) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (ADJP (JJ convolutional) (CC and) (JJ recurrent)) (JJ neural) (NNS networks)))))))) (. .))

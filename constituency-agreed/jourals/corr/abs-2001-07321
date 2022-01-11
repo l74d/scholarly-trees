@@ -1,0 +1,2 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (DT each) (NN letter)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN designed) (ADVP (RB individually))))))) (. .))
+(S (NP (JJ Neural) (NN style) (NN transfer)) (VP (VBZ is) (NP (NP (DT a) (NN method)) (PP (IN of) (S (VP (VBG stylizing) (NP (NP (DT the) (NNS contents)) (PP (IN of) (NP (DT an) (NN image)))) (PP (IN with) (NP (NP (DT the) (NNS styles)) (PP (IN of) (NP (DT another) (NN image)))))))))) (. .))

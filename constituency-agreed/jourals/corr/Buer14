@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ exact) (NN bidding) (NN strategy)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (JJ elementary) (NN request) (NNS combinations))))))) (. .))
+(S (NP (DT The) (NN bidding) (NNS strategies)) (VP (VBP are) (VP (VBN evaluated) (PP (IN by) (NP (NP (DT a) (JJ computational) (NN study)) (SBAR (WHNP (WDT that)) (S (VP (VBZ simulates) (NP (DT an) (NN auction))))))))) (. .))

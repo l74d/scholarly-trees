@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (DT a) (NN cost) (NN function))) (, ,) (NP (DT an) (NN alignment)) (VP (VBZ is) (ADJP (JJ optimal)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ contains) (NP (NP (DT the) (JJS least) (NN number)) (PP (IN of) (NP (NP (NNS mismatches)) (PP (IN between) (NP (NP (DT a) (NN log) (NN trace)) (CC and) (NP (DT a) (NN model) (NN trace))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN XML) (NN processing)) (VP (VBZ is) (VP (VBN supported) (PP (IN by) (NP (NP (CD two) (JJ key) (NNS frameworks)) (: :) (NP (NNP DOM) (CC and) (NNP SAX)))))) (. .))
+(S (S (NP (DT The) (NN language)) (VP (VBZ is) (VP (VBN specified)))) (CC and) (S (NP (DT an) (JJ efficient) (NN implementation)) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (DT an) (JJ abstract) (NN machine)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP System) (NN identification)) (VP (VBD was) (VP (VBN performed) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (NN model) (NNS parameters))))))) (. .))
+(S (NP (NP (DT The) (NN interface)) (PP (IN of) (NP (DT the) (NN simulation)))) (VP (VBZ is) (ADJP (RB fully) (JJ compatible) (PP (IN with) (NP (NNP OpenAI) (NNP Gym) (NN environment))))) (. .))

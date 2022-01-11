@@ -1,0 +1,2 @@
+(S (NP (NNP Affine) (NNS systems) (NN reachability)) (VP (VBZ is) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (JJ many) (NN verification) (NNS methods))))) (. .))
+(S (NP (PRP We)) (VP (VBP overcome) (NP (DT these) (NNS challenges)) (PP (IN by) (S (VP (VBG combining) (NP (NP (JJ several) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP leverage) (NP (JJ common) (NN problem) (NN structure)))))))))) (. .))

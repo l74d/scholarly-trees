@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (JJ logistic) (NN regression) (NN algorithm))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN step)) (PP (IN of) (NP (JJ logistic) (NN regression)))) (VP (VBZ is) (NP (NN inference))) (. .))

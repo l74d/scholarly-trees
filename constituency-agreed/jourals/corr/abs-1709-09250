@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ human) (NN language)) (VP (VBZ is) (ADJP (JJ ambiguous))) (. .))
+(S (NP (NN Ambiguity)) (VP (MD may) (VP (VB occur) (PP (IN at) (NP (NP (CD two) (NNS levels)) (: ;) (ADJP (JJ lexical) (CC and) (JJ syntactic)))))) (. .))

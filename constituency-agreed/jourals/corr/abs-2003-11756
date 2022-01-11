@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN topic)) (VP (VBZ draws) (NP (JJ great) (NNS interests)))) (, ,) (CC but) (S (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (NP (ADJP (RB publicly) (JJ available)) (NN benchmark) (NNS databases)) (CC and) (NP (DT a) (JJ fair) (NN validation) (NN platform))))) (VP (VBP are) (VP (VBG hindering) (NP (PRP$ its) (JJ further) (NN development))))) (. .))

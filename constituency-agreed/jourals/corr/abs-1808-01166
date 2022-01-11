@@ -1,0 +1,3 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP$ our) (NN design)) (VP (VBZ aims) (PP (IN for) (NP (DT the) (NNP Vienna) (NNP Fortran) (NNP Compilation) (NNP System)))) (. .))
+(S (NP (DT The) (NNP ViPIOS) (NN design)) (VP (VBZ is) (ADVP (RB partly)) (VP (VBN influenced) (PP (IN by) (NP (NP (DT the) (NNS concepts)) (PP (IN of) (NP (JJ parallel) (NN database) (NN technology))))))) (. .))
+(S (PP (IN At) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (DT the) (NN project))))) (NP (PRP we)) (VP (VBD developed) (NP (NP (DT a) (JJ formal) (NN model)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ forms) (NP (NP (DT a) (JJ theoretical) (NN framework)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (DT the) (NNP ViPIOS) (NN design)) (VP (VBZ is) (VP (VBN based))))))))))) (. .))

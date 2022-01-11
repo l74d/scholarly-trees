@@ -1,0 +1,2 @@
+(S (NP (NNP Matlab)) (VP (VBZ has) (VP (VBN been) (VP (VBN considered) (PP (IN as) (NP (NP (DT a) (NN leader) (JJ computational) (NN platform)) (PP (IN for) (NP (JJ many) (NN engineering) (NNS fields)))))))) (. .))
+(S (ADVP (RB Nevertheless)) (, ,) (NP (NNP Matlab)) (VP (VBZ needs) (NP (DT the) (JJS lowest) (NN time)) (S (VP (TO to) (VP (VB undertake) (NP (DT the) (JJ same) (NN activity)))))) (. .))

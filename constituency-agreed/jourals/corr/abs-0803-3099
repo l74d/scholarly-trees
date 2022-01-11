@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ many) (JJ different) (NNS models)) (PP (IN of) (NP (JJ concurrent) (NNS processes))))) (. .))
+(S (NP (DT This) (NN metamodel)) (VP (VBZ comprises) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (JJ other) (NNS models)) (PP (IN of) (NP (JJ concurrent) (NNS processes))))))) (. .))

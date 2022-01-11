@@ -1,0 +1,1 @@
+(S (NP (NP (NN Applicability)) (PP (IN of) (NP (NP (JJ algorithmic) (NNS choices)) (ADJP (JJ available) (PP (IN for) (S (VP (VBG optimizing) (NP (JJ collective) (NN communication))))))))) (VP (VBZ depends) (ADVP (RB largely)) (PP (IN on) (NP (NP (DT the) (NN scalability) (NN requirement)) (PP (IN for) (NP (DT a) (JJ particular) (NN usecase)))))) (. .))

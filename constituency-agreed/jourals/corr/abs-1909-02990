@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Optimal) (NN order) (NN convergence)) (PP (IN of) (NP (NP (DT a) (JJ consistent) (NN variant)) (PP (IN of) (NP (DT the) (JJ finite) (NN element) (NN method)))))) (VP (VBZ follows) (PP (IN from) (NP (NP (DT this) (JJ new) (NN stability) (NN result)) (CC and) (NP (NP (NN interpolation) (NNS properties)) (PP (IN of) (NP (DT the) (NN trace) (NNP FEM))))))) (. .))

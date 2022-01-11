@@ -1,0 +1,2 @@
+(S (ADVP (RB Currently)) (, ,) (NP (NNP Stack) (NNP Overflow)) (VP (VBZ hides) (NP (NP (NNS comments)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN ranked) (PP (IN beyond) (NP (DT the) (JJ top) (CD 5))))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (QP (CD 4.4) (CD million)) (NNS comments)) (VP (VBP are) (VP (VBN hidden) (PP (IN under) (NP (PRP$ their) (NN answer) (NNS threads))))) (. .))

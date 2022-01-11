@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN network)) (VP (VBZ is) (ADJP (JJ heterogeneous))))) (, ,) (NP (NNS sensors)) (VP (MD can) (VP (VB sense) (NP (JJ different) (NNS phenomena)) (PP (IN from) (NP (JJ different) (NN demand) (NNS points))) (, ,) (PP (IN with) (NP (JJ different) (NN sample) (NNS rates))))) (. .))

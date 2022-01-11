@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (NP (DT the) (NN design)) (PP (IN of) (NP (DT the) (NN framework)))) (, ,) (CC and) (NP (NP (DT the) (NNS benefits)) (PP (IN of) (S (VP (VBG using) (NP (PRP it)))))))) (. .))
+(S (NP (NP (DT The) (NNS ideas)) (VP (VBN presented))) (VP (VP (VBP are) (ADJP (JJ general))) (CC and) (VP (MD should) (VP (VB help) (S (NP (NNS researchers)) (VP (VB organize) (NP (PRP$ their) (NNS computations)) (PP (IN for) (NP (JJR better) (NN reproducibility)))))))) (. .))

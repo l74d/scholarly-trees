@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP start) (PP (IN with) (NP (NP (DT the) (NN optimization)) (PP (IN of) (NP (NP (NN decision) (NN boundary)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (DT the) (NNS posteriors)) (VP (VBP are) (ADJP (JJ equal)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB finally)) (VP (VB clarify) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ theoretical) (NNS concepts)))) (PP (IN with) (NP (NP (NNS simulations)) (SBAR (S (NP (PRP we)) (VP (VBP provide))))))) (. .))

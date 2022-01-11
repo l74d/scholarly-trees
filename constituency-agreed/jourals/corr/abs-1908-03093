@@ -1,0 +1,2 @@
+(S (ADVP (RB bviously)) (, ,) (NP (NN portrait) (NN segmentation)) (VP (VBZ has) (NP (PRP$ its) (JJ unique) (NNS requirements))) (. .))
+(S (ADVP (RB First)) (, ,) (SBAR (IN because) (S (NP (DT the) (NN portrait) (NN segmentation)) (VP (VBZ is) (VP (VBN performed) (PP (IN in) (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (NP (DT a) (JJ whole) (NN process)) (PP (IN of) (NP (JJ many) (NN realworld) (NNS applications))))))))))) (, ,) (NP (PRP it)) (VP (VBZ requires) (NP (ADJP (RB extremely) (JJ lightweight)) (NNS models))) (. .))

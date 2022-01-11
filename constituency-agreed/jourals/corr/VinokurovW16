@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP compare) (NP (NP (DT the) (NNS values)) (PP (IN of) (NP (NP (DT the) (CD two) (JJ top) (NNS elements)) (PP (IN in) (NP (NP (DT this) (NN vector)) (PP (IN of) (NP (NN confidence) (NNS values))))))))) (. .))
+(S (NP (PRP$ Our) (JJ final) (NN novelty) (NN score)) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (NP (DT this) (NN ensemble)) (PP (IN of) (NP (NNS classifiers))))))))) (. .))

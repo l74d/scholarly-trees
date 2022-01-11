@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN dilemma)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ intrinsic) (PP (IN in) (NP (DT the) (NN problem)))))))) (VP (VBZ is) (NP (NP (DT the) (JJ simultaneous) (NN requirement)) (PP (IN of) (NP (NP (NNS data) (NN utility)) (PP (IN in) (NP (DT the) (VBN published) (NNS data))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT this) (NN lack)) (PP (IN of) (NP (NN coverage)))) (VP (MD may) (VP (VB violate) (NP (NP (DT the) (NN principle)) (PP (IN of) (NP (JJ individual) (NN privacy)))))) (. .))

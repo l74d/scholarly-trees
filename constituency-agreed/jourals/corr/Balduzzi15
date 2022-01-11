@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NNS reasons)) (PP (IN for) (NP (PRP$ their) (JJ empirical) (NN success)))) (VP (VBP are) (ADJP (JJ unclear)) (, ,) (SBAR (IN since) (S (S (NP (JJ neural) (NNS networks)) (VP (VBP are) (RB not) (ADJP (JJ convex)))) (CC and) (S (NP (JJ standard) (NNS guarantees)) (VP (VBP do) (RB not) (VP (VB apply))))))) (. .))

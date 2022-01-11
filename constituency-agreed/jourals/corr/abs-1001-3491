@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ optimal) (JJ reactive) (NN power) (NN dispatch) (NN problem)) (VP (VBZ is) (NP (NP (DT a) (JJ nonlinear) (NN optimization) (NN problem)) (PP (IN with) (NP (JJ several) (NNS constraints))))) (. .))
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (JJ reactive) (NN power) (NN dispatch)))) (VP (VBZ is) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (JJ proper) (NN amount) (CC and) (NN location)) (PP (IN of) (NP (JJ reactive) (NN support)))))))) (. .))

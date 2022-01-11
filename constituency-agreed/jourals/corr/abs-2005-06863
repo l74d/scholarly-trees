@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ recursive) (JJ first) (NN moment) (NN equation)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN discretized) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT a) (JJ sparse) (NN approximation) (NN technique)))))))) (, ,) (CC and) (S (NP (DT the) (NN convergence) (NNS rates)) (VP (VBP are) (VP (VBN derived)))) (. .))

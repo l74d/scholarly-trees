@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN bandwidth)) (VP (VBZ is) (ADJP (ADJP (JJR larger)) (PP (IN than) (NP (DT this) (NN threshold))))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT a) (NN capacity) (VBG scaling) (NN gap))) (. .))

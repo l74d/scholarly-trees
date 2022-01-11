@@ -1,0 +1,8 @@
+(S (NP (NN Point) (NN constellation) (NN recognition)) (VP (VBZ is) (NP (NP (DT a) (JJ common) (NN problem)) (PP (IN with) (NP (JJ many) (NML (NN pattern) (NN matching)) (NNS applications))))) (. .))
+(S (SBAR (IN Whilst) (FRAG (ADJP (JJ useful) (PP (IN in) (NP (JJ many) (NNS contexts)))))) (, ,) (NP (DT this) (NN work)) (VP (VBZ is) (ADVP (RB mainly)) (VP (VBN motivated) (PP (IN by) (NP (NN fingerprint) (NN matching))))) (. .))
+(S (NP (NNS Fingerprints)) (VP (VBP are) (ADVP (RB traditionally)) (VP (VBN modelled) (PP (IN as) (NP (NP (NNS constellations)) (PP (IN of) (NP (NP (ADJP (VBN oriented)) (NNS points)) (VP (VBN called) (NP (NNS minutiae))))))))) (. .))
+(S (NP (NP (DT The) (NN fingerprint) (NN verifier) (POS 's)) (NN task)) (VP (VBZ consists) (PP (IN in) (S (VP (VBG comparing) (NP (CD two) (NN point) (NNS constellations)))))) (. .))
+(S (NP (DT The) (VBN compared) (NNS constellations)) (VP (MD may) (VP (VB differ) (PP (PP (IN by) (NP (NN rotation) (CC and) (NN translation))) (CC or) (PP (IN by) (ADJP (ADJP (RB much) (RBR more) (JJ involved)) (SBAR (S (VP (VBZ transforms) (PP (JJ such) (PP (IN as) (NP (NN distortion) (CC or) (NN occlusion)))))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (CD three) (JJ new) (NN constellation)) (VP (VBG matching) (NP (NNS algorithms))))) (. .))
+(S (NP (DT The) (JJ first) (CD two) (NNS methods)) (VP (VB generalize) (NP (DT an) (NN algorithm)) (PP (IN by) (NP (NNP Bringer) (CC and) (NNP Despiegel)))) (. .))
+(S (NP (PRP$ Our) (JJ third) (NN proposal)) (VP (VBZ creates) (NP (NP (DT a) (ADJP (RB very) (JJ interesting)) (NN analogy)) (PP (IN between) (NP (NP (JJ mechanical) (NN system) (NN simulation)) (CC and) (NP (DT the) (NN constellation) (NN recognition) (NN problem)))))) (. .))

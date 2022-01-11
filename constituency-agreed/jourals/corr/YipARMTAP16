@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Abnormalities)) (PP (IN in) (NP (NP (DT the) (NN heart) (POS 's)) (JJ electrical) (NN behaviour)))) (VP (MD can) (VP (VB be) (VP (VBN managed) (PP (IN with) (NP (DT a) (JJ cardiac) (NN pacemaker)))))) (. .))
+(S (NP (DT The) (NN heart) (NN model)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (JJ cardiac) (NNS cells)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN connected) (PP (IN by) (NP (NNS paths))))))))))) (. .))

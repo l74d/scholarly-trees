@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (VP (TO to) (VP (VB train) (NP (NN regression) (NNS models)) (PP (IN for) (NP (NN localization)))))) (, ,) (NP (DT an) (JJ extensive) (NN site) (NN survey)) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB collect) (NP (NN fingerprint) (NNS data)) (PP (IN from) (NP (DT the) (NN target) (NNS areas)))))))) (. .))

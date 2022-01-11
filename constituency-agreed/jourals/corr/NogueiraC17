@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBP input) (NP (DT a) (JJ complex) (NN query))))) (, ,) (ADVP (RB however)) (, ,) (NP (NNS results)) (VP (VBP are) (ADVP (RB often)) (ADVP (RB far) (PP (IN from) (ADJP (JJ satisfactory))))) (. .))
+(S (NP (PRP We)) (VP (VBP train) (NP (DT this) (JJ neural) (NN network)) (PP (IN with) (NP (NN reinforcement) (NN learning)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first) (NN representation)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNS linearizations)) (VP (VBG using) (NP (NP (NNP Taylor) (POS 's)) (NNP Theorem))))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (JJ several) (NNS examples)) (SBAR (WHNP (WDT which)) (S (VP (VBP demonstrate) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (NNS methods))))))))) (. .))

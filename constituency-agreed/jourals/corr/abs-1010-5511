@@ -1,0 +1,1 @@
+(S (NP (JJ Submodular) (NNS functions)) (VP (VP (VBP are) (NP (NP (DT a) (JJ natural) (JJ discrete) (NN analog)) (PP (IN of) (NP (NN convex) (NNS functions))))) (, ,) (CC and) (VP (MD can) (VP (VB be) (VP (VBN minimized) (PP (IN in) (NP (ADJP (RB strongly) (JJ polynomial)) (NN time))))))) (. .))

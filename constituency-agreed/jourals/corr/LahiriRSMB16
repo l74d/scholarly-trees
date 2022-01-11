@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ second) (NN step)) (VP (VBZ refines) (NP (DT the) (JJ pre-trained) (NN model)) (PP (IN on) (NP (NP (DT a) (JJ limited) (NN set)) (PP (IN of) (NP (NN ground) (NN truth) (NNS fixations)))))) (. .))

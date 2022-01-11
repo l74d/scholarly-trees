@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (DT the) (NN observer)) (CC and) (NP (DT the) (NN control) (NN gain))) (VP (VBP are) (VP (VBN given) (PP (IN for) (NP (DT each) (NN mode)))))))) (. .))
+(S (S (VP (TO To) (VP (VB avoid) (NP (NN quantizer) (NN saturation))))) (, ,) (NP (PRP we)) (VP (VBP adjust) (NP (DT the) (NN quantizer)) (PP (IN at) (NP (DT every) (NN switching) (NN time)))) (. .))

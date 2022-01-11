@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN capacity) (NN region)) (PP (IN of) (NP (DT the) (JJ randomized) (NN fixed-composition) (VBG coding) (NN scheme))))) (. .))
+(S (NP (NP (DT A) (JJ complete) (NN characterization)) (PP (IN of) (NP (NP (DT the) (NN capacity) (NN region)) (PP (IN of) (NP (DT the) (VBD said) (JJ coding) (NN scheme)))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (DT The) (NN inner) (NN bound)) (VP (VBZ is) (VP (VBN derived) (PP (IN by) (S (VP (VBG showing) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT a) (JJ positive) (NN error) (NN exponent))) (PP (IN within) (NP (DT the) (NN capacity) (NN region))))))))) (. .))
+(S (NP (DT A) (JJ simple) (JJ universal) (VBG decoding) (NN rule)) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (DT This)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NP (DT the) (JJ average) (NN behavior)) (PP (IN of) (NP (NN random) (NNS codes)))) (VP (VBP are) (RB not) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB get) (NP (JJ new) (NN capacity) (NNS regions)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP DBSCAN)) (VP (VBZ is) (NP (NP (DT an) (JJ unsupervised) (NN learning) (NN algorithm)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (NNP HTDet)))))))))) (. .))
+(S (NP (NP (JJ Experimental) (NN evaluation)) (PP (IN with) (NP (NNS benchmarks)))) (VP (VBZ demenstrates) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (NNP HTDet))))) (. .))

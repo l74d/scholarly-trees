@@ -1,0 +1,2 @@
+(S (NP (NNP Withthegrowthofknowledgegraphs)) (, ,) (NP (NN entity) (NNS descriptions)) (VP (VBP are) (VP (VBG becoming) (ADJP (RB extremely) (JJ lengthy)))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NP (CD two) (NNS modules)) (PP (IN in) (NP (NNP AutoSUM)))) (: :) (NP (NN extractor) (CC and) (NN simulator)))) (. .))

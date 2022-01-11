@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN code)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ compatible) (PP (IN with) (NP (NP (DT the) (NNP OpenAI) (NN gym) (NN framework)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NNP Gazebo) (NN simulator)))))) (. .))

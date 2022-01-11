@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ has) (ADVP (RB only)) (VP (VBN been) (VP (VBN shown) (ADVP (RB so) (RB far)) (PP (IN for) (NP (JJ specific) (NNS problems)))))) (. .))
+(S (PP (IN In) (NP (DT both) (NNS cases))) (, ,) (NP (DT the) (JJ new) (NNS constructions)) (VP (VBP provide) (NP (NP (DT the) (JJ theoretical) (NNS tools)) (VP (VBN required) (S (VP (TO to) (VP (VB characterize) (NP (NP (DT the) (NN power)) (PP (IN of) (NP (JJ arbitrary) (JJ large) (NNS numbers)))))))))) (. .))

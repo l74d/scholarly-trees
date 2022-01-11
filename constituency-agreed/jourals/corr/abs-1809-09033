@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (CD two) (JJ main) (NNS results))) (. .))
+(S (PP (IN In) (NP (DT the) (NN annex))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (SBAR (IN that) (S (NP (NP (DT the) (NN factorization)) (PP (IN of) (NP (DT a) (JJ rational) (NN word)))) (VP (VBZ has) (NP (DT a) (JJ special) (NN form))))) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN from) (NP (NP (DT a) (JJ rational) (NN expression)) (VP (VBG describing) (NP (DT the) (NN word)))))))))))) (. .))

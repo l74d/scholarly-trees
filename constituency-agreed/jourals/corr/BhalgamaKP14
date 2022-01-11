@@ -1,0 +1,2 @@
+(S (NP (JJ Efficient) (JJ virtual) (NN memory)) (VP (MD can) (VP (VB overcome) (NP (DT this) (NN problem)))) (. .))
+(S (CC And) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (JJ virtual) (NN memory)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN replacement) (NN policy)) (VP (VBN used) (PP (IN for) (NP (NN cache))))))) (. .))

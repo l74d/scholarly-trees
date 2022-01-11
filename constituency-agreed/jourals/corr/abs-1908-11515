@@ -1,0 +1,2 @@
+(S (NP (NNP LDP)) (VP (VBZ imposes) (NP (NP (JJ large) (NN amount)) (PP (IN of) (NP (NN noise)))) (SBAR (IN as) (S (NP (DT each) (NN user)) (VP (VBZ executes) (NP (DT the) (NN randomization)) (ADVP (RB independently)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP analyze) (NP (DT the) (NN system) (NN model))) (CC and) (VP (VB identify) (NP (JJ potential) (NNS adversaries)))) (. .))

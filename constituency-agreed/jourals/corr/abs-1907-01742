@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS classifiers)) (VP (VBD were) (VP (VBN trained) (PP (DT both) (IN on) (NP (NP (ADJP (RB randomly) (VBN generated)) (NN label) (NN noise)) (CC and) (NP (NP (DT the) (NN label) (NN noise)) (VP (VBN introduced) (PP (IN by) (NP (JJ human) (NNS errors))))))))) (. .))

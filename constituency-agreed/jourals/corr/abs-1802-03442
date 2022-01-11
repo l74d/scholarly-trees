@@ -1,0 +1,3 @@
+(S (ADVP (RB Generally)) (, ,) (NP (NN distribution) (NNS networks)) (VP (MD can) (VP (VB operate) (PP (IN in) (NP (DT a) (ADJP (RBR more) (JJ resilient) (CC and) (JJ economic)) (NN fashion))) (PP (IN through) (NP (NP (JJ proper) (NN coordination)) (PP (IN of) (NP (NNP DER))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (NN problem)) (VP (VBZ is) (VP (VBN reformulated) (ADVP (RB equivalently)) (PP (IN as) (NP (DT a) (JJ linear) (NN program))))) (. .))
+(S (NP (NP (DT The) (NN influence)) (PP (IN of) (NP (NP (NN capacity) (NN limit)) (CC and) (NP (NN deployment) (NN location))))) (VP (VBP are) (VP (VBN studied))) (. .))

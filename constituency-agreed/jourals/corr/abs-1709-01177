@@ -1,0 +1,2 @@
+(S (S (VP (VBG Dealing) (PP (IN with) (NP (NP (NNS datasets)) (PP (IN of) (NP (ADJP (RB very) (JJ high)) (NN dimension))))))) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN challenge)) (PP (IN in) (NP (NN machine) (NN learning))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT some) (JJ preliminary) (JJ empirical) (NNS results)) (VP (VBG highlighting) (NP (NP (DT the) (NN potential)) (PP (IN of) (NP (DT the) (NN approach))))))) (. .))

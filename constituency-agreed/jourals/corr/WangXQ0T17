@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP represent) (NP (DT each) (JJ compressed) (NN network)) (PP (IN as) (NP (NP (DT a) (JJ binary) (NN individual)) (PP (IN of) (NP (JJ specific) (NN fitness)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT an) (ADJP (RB extremely) (JJ compact)) (NNP CNN)) (VP (VBZ is) (VP (VBN generated) (S (VP (VBG using) (NP (DT the) (JJS fittest) (NN individual)))))) (. .))

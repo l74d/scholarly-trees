@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ second) (NN stage))) (, ,) (NP (PRP we)) (VP (VP (VBP remove) (NP (NP (DT the) (NN requirement)) (PP (IN of) (NP (DT the) (NN text) (NN domain))))) (CC and) (VP (VB train) (NP (DT a) (JJ visual) (NN classifier)) (PP (IN from) (NP (NP (DT the) (NNS features)) (PP (IN of) (NP (DT the) (JJ former) (NN model))))))) (. .))

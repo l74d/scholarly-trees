@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP consider) (NP (NP (DT the) (NN overhead)) (PP (IN of) (NP (NN training) (CC and) (NN feedback))))) (CC and) (VP (VB use) (NP (DT this) (NN framework)) (S (VP (TO to) (VP (VB optimize) (NP (NP (DT the) (NN system) (POS 's)) (JJ effective) (NN throughput))))))) (. .))

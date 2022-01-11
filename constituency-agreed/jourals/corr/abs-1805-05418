@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (PRP$ our) (JJ scalable) (NN infrastructure)) (SBAR (WHNP (WDT which)) (S (VP (VBZ leverages) (NP (NNS abstractions)) (S (VP (TO to) (VP (VB support) (NP (NP (JJ effective) (NN deployment)) (PP (IN of) (NP (NP (VBG existing) (JJ computational) (NNS models)) (CC and) (NP (PRP$ their) (VBN associated) (NNS data))))))))))))) (. .))

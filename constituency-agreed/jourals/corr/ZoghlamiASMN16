@@ -1,0 +1,1 @@
+(S (NP (NNP ABSim)) (VP (VBZ uses) (NP (DT a) (NN similarity) (NN measure)) (S (VP (VP (TO to) (VP (VB discriminate) (NP (DT the) (JJ related) (NNS instances)))) (CC and) (VP (TO to) (VP (VB compute) (NP (DT a) (NNS scores) (NN matrix))))))) (. .))

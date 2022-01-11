@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN work)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG developing) (NP (NP (DT a) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ supports) (NP (NP (JJ French) (NNS firefighters)) (PP (IN in) (NP (NNS data) (NN interpretation)))) (PP (IN during) (NP (NN rescue) (NNS operations))))))))))) (. .))
+(S (NP (DT An) (NN application) (NN ontology)) (VP (VBZ is) (VP (VBN proposed) (PP (VBN based) (PP (IN on) (NP (NP (VBG existing) (NN crisis) (NN management) (NNS ones)) (CC and) (NP (JJ operational) (NN expertise) (NN collection))))))) (. .))
+(S (PP (IN After) (NP (DT that))) (, ,) (NP (DT a) (ADJP (NN knowledge) (HYPH -) (VBN based)) (NN system)) (VP (MD will) (VP (VB be) (VP (VBN developed) (CC and) (VBN integrated) (PP (IN in) (NP (NP (NNS firefighters) (POS ')) (NN environment)))))) (. .))
+(S (NP (PRP$ Our) (JJ first) (NNS studies)) (VP (VBP are) (VP (VBN shown) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

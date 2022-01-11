@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VP (VBZ rectifies) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NNP Floyd) (CC and) (NNP Rivest))))) (, ,) (CC and) (VP (VBZ extends) (NP (PRP it)) (PP (IN to) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ nondistinct) (NNS elements))))))) (. .))
+(S (S (VP (VBG Encouraging) (NP (JJ computational) (NNS results)) (PP (IN on) (NP (JJ large) (NN median) (HYPH -) (NN finding))))) (NP (NNS problems)) (VP (VBP are) (VP (VBN reported))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN error)) (PP (IN of) (NP (NN mapping)))) (VP (MD can) (VP (VB accumulate) (PP (IN over) (NP (NN time))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NNP LiDAR)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN integrated) (PP (IN with) (NP (JJ other) (NNS sensors))))) (. .))

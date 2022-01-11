@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ formal) (NN algorithm)) (VP (VBZ is) (VP (VBN provided) (S (VP (TO to) (VP (VB ensure) (NP (NP (DT the) (JJ asymptotic) (NN stability)) (PP (IN of) (NP (JJ dual) (NNS variables))))))))) (. .))

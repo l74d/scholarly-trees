@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN communication) (NNS endpoints)) (VP (VBP are) (NP (NP (NNS vertices)) (PP (IN on) (NP (DT a) (JJ social) (NN network))))) (. .))
+(S (PP (IN Unlike) (NP (JJ conventional) (NNS botnets))) (, ,) (NP (NNP Stegobot) (NN traffic)) (VP (VBZ does) (RB not) (VP (VB introduce) (NP (NP (JJ new) (NN communication) (NNS endpoints)) (PP (IN between) (NP (NNS bots)))))) (. .))

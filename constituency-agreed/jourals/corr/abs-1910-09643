@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN design)) (VP (VBZ is) (PP (IN by) (NP (NN choice))) (, ,) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (JJ overall) (NNS parameters) (CC and) (NNS computations))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP hypothesize) (SBAR (IN that) (S (NP (NP (DT this) (NN shortcoming)) (PP (IN of) (NP (NNP PWC)))) (VP (VBZ has) (NP (NP (DT a) (JJ significant) (NN impact)) (PP (IN on) (NP (DT the) (NN network) (NN performance)))))))) (. .))

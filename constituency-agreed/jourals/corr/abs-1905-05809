@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJS strongest) (NNS results)) (VP (VBP have) (VP (VBN been) (VP (VBN obtained) (SBAR (WHADVP (WRB when)) (S (NP (NNS policies)) (VP (VBP are) (VP (VBN trained) (S (VP (TO to) (VP (VB mimic) (NP (NP (DT the) (NN search) (NN behaviour)) (PP (IN of) (NP (NNP MCTS)))) (PP (IN by) (S (VP (VBG minimising) (NP (DT a) (JJ cross-entropy) (NN loss))))))))))))))) (. .))

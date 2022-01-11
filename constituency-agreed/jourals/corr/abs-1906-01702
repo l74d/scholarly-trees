@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (DT any) (JJ linguistic) (NN annotation)) (PP (IN of) (NP (NN phrase) (NN segmentation)))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP have) (VP (VBN shown) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (VBD outperformed) (NP (JJ several) (JJ strong) (NN baseline) (NNS models)) (PP (IN on) (NP (JJ different) (NNS data) (NNS sets)))))))) (. .))

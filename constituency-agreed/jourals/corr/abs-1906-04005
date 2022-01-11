@@ -1,0 +1,1 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP MPC)))) (VP (VBZ is) (ADJP (RB highly) (JJ dependent) (PP (IN on) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NP (DT the) (NN model)) (VP (VBN used) (PP (IN for) (NP (NNS predictions)))))))))) (. .))

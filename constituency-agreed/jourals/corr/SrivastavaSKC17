@@ -1,0 +1,5 @@
+(S (PP (IN From) (NP (JJR earlier) (NNS times))) (NP (NNS biometrics)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN authentication)) (PP (IN of) (NP (DT a) (NN person))))))) (. .))
+(S (NP (NNP PCA)) (VP (VBZ is) (NP (NP (DT a) (JJ powerful) (NN tool)) (PP (IN for) (S (VP (VBG analyzing) (NP (NNS data))))))) (. .))
+(S (NP (DT The) (NN implementation)) (VP (VBZ is) (VP (VBN done) (PP (IN by) (S (VP (VP (VBG creating) (NP (DT a) (NN training) (NN set))) (CC and) (ADVP (RB then)) (VP (VBG training) (NP (DT the) (NN recognizer)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ uses) (NP (NNP Eigen) (NN space)) (PP (IN by) (S (VP (VBG processing) (NP (NP (DT the) (NNS eigenvalues) (CC and) (NNS eigenvectors)) (PP (IN of) (NP (NP (DT the) (NNS images)) (PP (IN in) (NP (NN training) (NN set)))))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP PCA)) (VP (VBZ is) (ADJP (JJ feasible) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN hand) (NN gesture) (NN recognition) (NN system)))))))))))) (. .))

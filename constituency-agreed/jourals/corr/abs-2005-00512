@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP annotate) (NP (PRP$ our) (NN dataset)) (PP (IN by) (S (VP (VBG integrating) (NP (ADJP (JJ automatic) (CC and) (JJ human)) (NNS annotations))))) (, ,) (S (VP (VBG leveraging) (NP (VBG existing) (JJ scientific) (NN knowledge) (NNS resources))))) (. .))

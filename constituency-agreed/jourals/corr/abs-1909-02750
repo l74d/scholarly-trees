@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ differential) (NN privacy) (NN framework))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (DT a) (ADJP (RB differentially) (JJ private)) (NN ridge) (NN estimator)) (PP (IN by) (S (VP (VBG perturbing) (NP (DT the) (NN sample) (NN covariance) (NN matrix)))))) (. .))

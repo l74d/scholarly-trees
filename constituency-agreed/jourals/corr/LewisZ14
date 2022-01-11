@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (DT the) (NN persistence) (NN algorithm)) (S (VP (TO to) (VP (VB organize) (NP (DT these) (NNS computations)))))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN stage))) (, ,) (NP (DT any) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB produce) (NP (NP (DT a) (NN cover)) (PP (IN of) (NP (DT the) (NN input) (NN complex)))))))))) (. .))

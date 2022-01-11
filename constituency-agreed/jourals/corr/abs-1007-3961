@@ -1,0 +1,2 @@
+(S (NP (DT The) (CD two) (ADJP (RBS most) (JJ popular)) (NNS strategies)) (VP (VBP are) (NP (ADJP (JJ local) (CC and) (JJ batched)) (NN evaluation))) (. .))
+(S (NP (NP (DT Some) (NNS programs)) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (NN practice))) (VP (MD can) (VP (VB be) (VP (VBN executed) (PP (IN under) (NP (DT the) (JJ local) (NN strategy))))))))) (ADVP (RB quickly)) (VP (VB run) (ADVP (IN out) (PP (IN of) (NP (NN memory)))) (PP (IN under) (NP (VBN batched) (NN evaluation)))) (. .))

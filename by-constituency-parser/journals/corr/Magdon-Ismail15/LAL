@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN reduction)) (VP (VBZ has) (NP (NP (DT a) (NN gap)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP use) (S (VP (TO to) (VP (VB exclude) (NP (DT an) (NNP FPTAS)) (PP (IN for) (NP (NN sparse) (NNP PCA))) (PRN (-LRB- -LRB-) (SBAR (IN unless) (FRAG (NP (NNP P=NP)))) (-RRB- -RRB-)))))))))) (. .))
+(S (PP (IN Under) (NP (JJR weaker) (NN complexity) (NNS assumptions))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP exclude) (NP (JJ polynomial) (NN constant-factor) (NN approximation) (NN algorithms))) (. .))

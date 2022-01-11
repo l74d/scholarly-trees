@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (JJ sure) (NN thing) (NN principle)) (CC and) (NP (NP (DT the) (NN law)) (PP (IN of) (NP (JJ total) (NN probability))))) (VP (VBP are) (NP (NP (JJ basic) (NNS laws)) (PP (IN in) (NP (JJ classic) (NN probability) (NN theory))))) (. .))
+(S (NP (DT Some) (JJ mathematical) (NNS techniques)) (VP (VBP are) (VP (VBN borrowed) (PP (IN from) (NP (NN quantum) (NNS mathematics))))) (. .))
+(S (ADVP (RB Generally)) (, ,) (NP (NN belief) (CC and) (NN action)) (VP (VBP are) (NP (NP (CD two) (NNS parts)) (PP (IN in) (NP (DT a) (NN decision) (NN making) (NN process))))) (. .))
+(S (NP (NP (DT The) (NN uncertainty)) (PP (IN in) (NP (NNS actions)))) (VP (VBZ is) (VP (VBN represented) (PP (IN as) (NP (DT an) (JJ extra) (NN uncertainty) (NN state))))) (. .))

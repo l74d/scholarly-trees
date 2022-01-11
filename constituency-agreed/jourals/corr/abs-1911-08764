@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS experiments)) (SBAR (S (NP (PRP we)) (VP (VBD conducted) (PP (IN on) (NP (NP (ADJP (RB publicly) (JJ available)) (NNS datasets)) (PP (IN of) (NP (NN face) (CC and) (NN fingerprint))))))))) (VP (VBP confirm) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN system))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (VBG Stepping) (NNS controllers)) (VP (VBP are) (VP (VBN designed) (PP (IN for) (NP (NP (JJ global) (NN stabilization)) (PP (IN of) (NP (DT the) (NNS orbits))))))) (. .))
+(S (NP (NP (JJ Valid) (NNS ranges)) (PP (IN of) (NP (NP (DT the) (NNS gains)) (CC and) (NP (PRP$ their) (NN optimality))))) (VP (VBP are) (VP (VBN derived))) (. .))

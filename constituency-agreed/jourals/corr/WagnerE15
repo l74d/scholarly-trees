@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (S (PP (RB instead) (IN of) (S (VP (VBG using) (NP (VBG existing) (NNS metrics))))) (, ,) (NP (JJ new) (NNS metrics)) (VP (VBP are) (VP (VBN proposed) (ADVP (RB frequently))))) (, ,) (CC and) (S (NP (NN privacy) (NNS studies)) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ incomparable)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN survey))) (NP (PRP we)) (VP (VBP alleviate) (NP (DT these) (NNS problems)) (PP (IN by) (S (VP (VBG structuring) (NP (NP (DT the) (NN landscape)) (PP (IN of) (NP (NN privacy) (NNS metrics)))))))) (. .))

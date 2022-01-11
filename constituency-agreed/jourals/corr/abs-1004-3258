@@ -1,0 +1,3 @@
+(S (NP (DT These) (NNS problems)) (VP (VBP are) (ADJP (RB highly) (JJ nonlinear))) (. .))
+(S (ADVP (RB Thus)) (NP (NNP MCDM) (NNS methods)) (VP (VBP have) (VP (VBN gained) (NP (JJ wide) (NN popularity)) (PP (IN in) (NP (JJ different) (NNS sciences) (CC and) (NNS applications))))) (. .))
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB introduce) (NP (NP (DT the) (NN classification) (NN task)) (PP (IN of) (NP (NNS data) (NN mining)))) (PP (IN as) (NP (NP (DT an) (JJ effective) (NN option)) (PP (IN for) (S (VP (VBG identifying) (NP (NP (DT the) (ADJP (RBS most) (JJ effective)) (NNS variables)) (PP (IN of) (NP (DT the) (NNP MCDM) (NNS systems))))))))))))) (. .))

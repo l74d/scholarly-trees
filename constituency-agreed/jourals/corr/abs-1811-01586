@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ linear) (NN regression))))) (. .))
+(S (NP (DT The) (NN regularization)) (VP (VBZ helps) (S (VP (TO to) (VP (VB promote) (NP (NP (DT a) (JJ specific) (NN graph) (JJ spectral) (NN profile)) (PP (IN of) (NP (DT the) (NN graph) (NNS signals)))))))) (. .))

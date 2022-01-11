@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ numerical) (NN scheme)) (VP (VBZ is) (ADJP (JJ consistent) (, ,) (JJ stable) (CC and) (JJ convergent)) (SBAR (IN if) (S (NP (DT a) (JJ nonuniform) (NN time) (NN mesh)) (VP (VBZ is) (VP (VBN considered))))))))) (. .))
+(S (NP (NP (DT The) (NN validity)) (PP (IN of) (NP (PRP$ our) (NNS results)))) (VP (VBZ is) (VP (VBN confirmed) (PP (IN throughout) (NP (JJ several) (JJ numerical) (NNS examples) (CC and) (NNS benchmarks))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NN energy) (NN efficiency)) (PP (IN in) (NP (NP (DT the) (NN process)) (PP (IN of) (NP (NN model) (NN training) (CC and) (NN inference)))))) (VP (VBZ becomes) (NP (DT a) (JJ critical) (NN bottleneck))) (. .))

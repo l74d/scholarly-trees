@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT an) (NN edge) (VBD averaged) (JJ finite) (NN element) (PRN (-LRB- -LRB-) (NNP EAFE) (-RRB- -RRB-)) (NN discretization)) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NNP Heat-PNP) (PRN (-LRB- -LRB-) (NNP Poisson-Nernst-Planck) (-RRB- -RRB-)) (NNS equations)) (ADVP (RB approximately)))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ enforces) (NP (NP (NN positivity)) (PP (IN of) (NP (DT the) (VBN computed) (NX (NX (VBN charged) (NN density) (NNS functions)) (CC and) (NX (NN temperature) (NN function))))))) (. .))
+(S (ADVP (RB Also)) (NP (NP (DT the) (ADJP (JJ thermodynamic) (JJ consistent)) (JJ discrete) (NN energy) (NN estimate)) (SBAR (WHNP (WDT which)) (S (VP (VBZ resembles) (NP (NP (DT the) (JJ thermodynamic) (JJ second) (NN law)) (PP (IN of) (NP (DT the) (NNP Heat-PNP) (NN system)))))))) (VP (VBZ is) (VP (VBN prescribed))) (. .))
+(S (NP (JJ Numerical) (NNS examples)) (VP (VBP are) (VP (VBN provided))) (. .))

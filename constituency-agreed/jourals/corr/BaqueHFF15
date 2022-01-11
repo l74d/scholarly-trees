@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN convergence) (NNS properties)) (PP (IN of) (NP (DT this) (NN algorithm)))) (VP (VBP remain) (ADJP (JJ unclear))) (. .))
+(S (NP (DT A) (NN convergence) (NN rate) (NN estimate)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN derived) (PP (VBN based) (PP (IN on) (NP (NP (JJ recent) (NNS results)) (PP (IN in) (NP (JJ non-convex) (NN optimization))))))))) (. .))

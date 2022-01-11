@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS algorithms)) (VP (VBP match) (NP (DT the) (JJ theoretical) (JJR lower) (NNS bounds)) (PP (IN in) (NP (NP (NN order)) (PP (IN of) (NP (NN magnitude)))))) (. .))
+(S (NP (PRP We)) (VP (VBP observe) (SBAR (IN that) (S (NP (PRP$ our) (NNS algorithms)) (VP (MD can) (VP (VB produce) (NP (JJ satisfactory) (NN performance)) (PP (IN in) (NP (NP (NNS simulations)) (CC and) (NP (JJ practical) (NN testbed))))))))) (. .))

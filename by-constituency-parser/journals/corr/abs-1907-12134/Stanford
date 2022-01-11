@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NN question)) (PP (IN of) (S (VP (VBG identifying) (NP (JJ non-smooth) (NNS points)) (PP (IN in) (NP (JJ affine) (JJ real) (JJ algebraic) (NNS varieties)))))))) (. .))
+(S (NP (DT A) (JJ simple) (JJ algebraic) (NN criterion)) (VP (MD will) (VP (VB be) (VP (VBN formulated) (CC and) (VBN proven)))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (NP (PRP we)) (VP (MD can) (VP (VB answer) (NP (JJ several) (NNS questions)) (PP (IN about) (NP (NP (DT the) (NN configuration) (NNS spaces)) (PP (IN of) (NP (NP (DT some) (NN class)) (PP (IN of) (NP (JJ planar) (NNS linkages))))))))) (. .))

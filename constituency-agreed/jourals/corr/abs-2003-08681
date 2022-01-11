@@ -1,0 +1,3 @@
+(S (NP (NP (NNP Hyphae)) (PP (IN within) (NP (NP (DT the) (NN mycelia)) (PP (IN of) (NP (DT the) (JJ ascomycetous) (NNS fungi)))))) (VP (VBP are) (VP (VBN compartmentalised) (PP (IN by) (NP (NN septa))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NNS pores)) (VP (VBP are) (VP (VBN blocked))))) (, ,) (NP (NP (DT no) (NN flow)) (PP (IN of) (NP (NN cytoplasm)))) (VP (VBZ takes) (NP (NN place))) (. .))
+(S (NP (DT A) (JJ fungal) (NN automaton)) (VP (VBZ is) (NP (NP (DT a) (JJ cellular) (NN automaton)) (SBAR (WHADVP (WRB where)) (S (NP (NP (NN communication)) (PP (IN between) (NP (VBG neighbouring) (NNS cells)))) (VP (MD can) (VP (VB be) (VP (VBN blocked) (PP (IN on) (NP (NN demand)))))))))) (. .))

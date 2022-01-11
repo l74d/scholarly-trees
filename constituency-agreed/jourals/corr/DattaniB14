@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN because) (S (NP (PRP they)) (ADVP (RB only)) (VP (VBP use) (NP (CD 4) (NNS qubits))))) (, ,) (NP (DT these) (NNS factorizations)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN performed) (ADVP (RB trivially)) (PP (IN on) (NP (JJ classical) (NNS computers)))))) (. .))

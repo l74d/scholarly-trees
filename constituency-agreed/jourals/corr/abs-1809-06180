@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN set)) (PP (IN of) (NP (NNS explanations)))) (VP (MD can) (VP (VB be) (VP (VBN found) (S (VP (VBG using) (NP (NP (DT the) (NN tableau) (NN algorithm)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (S (VP (TO to) (VP (VB handle) (NP (NN non-determinism)))))))))))))) (. .))
+(S (NP (NP (NNP Prolog)) (, ,) (PP (IN with) (NP (NP (PRP$ its) (JJ efficient) (NN handling)) (PP (IN of) (NP (NN non-determinism))))) (, ,)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (S (VP (VBG implementing) (NP (DT the) (NN tableau) (NN algorithm))))))) (. .))

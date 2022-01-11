@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS methods)) (VP (VP (VBP use) (NP (JJ small) (NN storage))) (CC and) (VP (VBZ has) (NP (NP (JJ low) (JJ computational) (NN complexity)) (PP (IN per) (NP (NN iteration)))))) (. .))

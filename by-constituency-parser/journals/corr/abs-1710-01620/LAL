@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (JJ oblivious) (NN walking) (NN strategy)) (PP (IN for) (NP (NN convex) (NNS subdivisions))))) (. .))
+(S (NP (PRP$ Our) (NN walk)) (VP (VBZ is) (ADJP (ADJP (ADJP (RBR faster)) (PP (IN than) (NP (DT the) (JJ straight) (NN walk)))) (CC and) (ADJP (ADJP (RBR more) (RB generally) (JJ applicable)) (PP (IN than) (NP (DT the) (NN visibility) (NN walk)))))) (. .))
+(S (S (VP (TO To) (VP (VB prove) (NP (NP (NN termination)) (PP (IN of) (NP (PRP$ our) (NN walk))))))) (NP (PRP we)) (VP (VBP use) (NP (DT a) (NN novel) (ADJP (RB monotonically) (VBG decreasing)) (NN distance) (NN measure))) (. .))

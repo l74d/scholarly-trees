@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT the) (JJ second))) (, ,) (NP (DT the) (NN supertree)) (VP (MD can) (VP (VB be) (ADJP (ADJP (RBR more) (JJ refined)) (PP (IN than) (NP (DT the) (NN input) (NNS trees)))))) (. .))
+(S (ADVP (RB Alternatively)) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN characterized) (PP (IN as) (NP (NP (DT a) (JJ chordal) (NN graph) (NN sandwich) (NN problem)) (PP (IN in) (NP (NP (DT a) (NN structure)) (VP (VBN known) (PP (IN as) (NP (DT the) (NN edge) (NN label) (NN intersection) (NN graph))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP derive) (NP (NP (DT a) (NN characterization)) (PP (IN for) (NP (NN agreement))))) (. .))

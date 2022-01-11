@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ finite) (NN satisfiability) (NN problem)) (PP (IN for) (NP (ADJP (VBN guarded)) (NN fixpoint) (NN logic)))) (VP (VBZ is) (ADJP (JJ decidable) (CC and) (JJ complete)) (PP (IN for) (NP (NP (NN 2ExpTime)) (-LRB- -LRB-) (NP (NN resp))))) (. .))
+(NP (NP (NNP ExpTime)) (PP (IN for) (NP (NP (NNS formulas)) (PP (IN of) (NP (VBN bounded) (NN width)))) (-RRB- -RRB-)) (. .))

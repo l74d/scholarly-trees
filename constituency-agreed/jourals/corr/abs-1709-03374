@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ total) (NN number)) (PP (IN of) (NP (NP (NNS customers)) (SBAR (WHNP (WDT that)) (S (VP (VBP demand) (NP (NN service)))))))) (VP (VP (VBZ is) (ADJP (JJ random))) (, ,) (CC and) (VP (VBZ follows) (NP (DT the) (NNP Poisson) (NN distribution)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN decoder)) (VP (VBZ has) (NP (NP (CD two) (NNS components)) (: :) (NP (NP (DT a) (JJ differentiable) (NN shape) (NN renderer)) (CC and) (NP (DT a) (JJ neural) (NN texture) (NN generator))))) (. .))

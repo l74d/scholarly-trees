@@ -1,0 +1,4 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ essential) (NN security) (NNS services)) (VP (VBN needed) (S (VP (TO to) (VP (VB safeguard) (NP (JJ online) (NNS transactions))))))))) (VP (VBZ is) (NP (JJ fair) (NN exchange))) (. .))
+(S (NP (CD Three) (JJ different) (NNS protocols)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN protocol))) (, ,) (NP (DT the) (CD two) (JJ main) (NNS parties)) (VP (VBP exchange) (NP (PRP$ their) (NNS signatures)) (PP (IN on) (NP (DT a) (JJ common) (NN message)))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN protocol))) (, ,) (NP (DT the) (NNS signatures)) (VP (VBP are) (VP (VBN exchanged) (PP (IN on) (NP (CD two) (JJ different) (NNS messages))))) (. .))

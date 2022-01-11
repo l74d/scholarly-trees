@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB give) (NP (DT a) (NN machine) (NN learning) (NN system)) (NP (JJ similar) (NNS abilities)) (SBAR (IN so) (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB learn) (ADVP (RBR more) (RB efficiently)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (NNP Knorf)) (, ,) (NP (NP (DT a) (NN system)) (SBAR (WHNP (WDT which)) (S (VP (VBZ solves) (NP (DT the) (NN refactoring) (NN problem)) (S (VP (VBG using) (NP (NN constraint) (NN optimisation)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN objectness) (NN score)) (VP (VBZ is) (VP (VBN defined) (S (VP (TO to) (VP (VB measure) (SBAR (WHADVP (WRB how) (RB well)) (S (NP (DT the) (NN detector)) (VP (VBZ identifies) (NP (NP (DT the) (NNS locations) (CC and) (NNS classes)) (PP (IN of) (NP (NNS objects)))) (PP (IN during) (NP (NN navigation))))))))))) (. .))

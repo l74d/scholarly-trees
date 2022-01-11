@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN algorithm)) (VP (VBZ requires) (NP (DT a) (JJ feasible) (NN initialization))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (MD can) (ADVP (RB even)) (VP (VB be) (VP (VBN initialized) (PP (IN at) (NP (DT an) (JJ infeasible) (NN point)))))) (. .))

@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (NN spam)))) (CC and) (NP (NP (DT the) (NN technology)) (VP (VBN used) (PP (IN by) (NP (NNS spammers))))))) (. .))
+(S (NP (PRP We)) (VP (VBD observed) (SBAR (IN that) (S (NP (NNS spammers)) (VP (VBP use) (NP (NN software) (NNS tools)) (S (VP (TO to) (VP (VB send) (NP (NN spam)) (PP (IN with) (NP (NN attachment)))))))))) (. .))
+(S (NP (NNS Spammers)) (VP (VBP do) (RB not) (VP (VB use) (NP (NN spam) (NN software)) (S (VP (TO to) (VP (VB send) (NP (NN spam)) (PP (IN without) (NP (NN attachment)))))))) (. .))
+(S (NP (NP (ADJP (RB Relatively) (JJ new)) (NN email) (NNS accounts)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (NP (CD 14) (NNS months)) (JJ old)))))) (VP (VBP do) (RB not) (VP (VB receive) (NP (NN spam)))) (. .))

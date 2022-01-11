@@ -1,0 +1,2 @@
+(S (NP (JJ Adversarial) (NN classification)) (VP (VBZ is) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG performing) (NP (JJ robust) (NN classification)) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT a) (JJ strategic) (NN attacker)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBD highlight) (NP (NP (DT the) (NNS parallels)) (PP (IN between) (NP (NP (DT these) (CD two) (NNS fields)) (CC and) (NP (JJ secure) (NN machine) (NN learning)))))) (. .))

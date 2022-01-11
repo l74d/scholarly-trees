@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (ADVP (RB here)) (S (VP (TO to) (VP (VB give) (PRT (RP up)) (NP (NN completeness)))))) (. .))
+(SINV (PP (IN At) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (PRP$ our) (NN algorithm))))) (VP (VBZ is)) (NP (NP (DT an) (JJ iterative) (NN refinement)) (PP (IN of) (NP (NP (DT the) (NN program)) (PP (IN of) (NP (NN interest)))))) (. .))

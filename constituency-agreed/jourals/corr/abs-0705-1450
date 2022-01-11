@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN manipulator) (NNS kinematics))) (, ,) (NP (NN cusp) (NNS points)) (VP (VBP are) (NP (NP (JJ special) (NNS points)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP appear) (PP (IN on) (NP (NP (DT the) (JJ singular) (NNS curves)) (PP (IN of) (NP (DT the) (NNS manipulators)))))))))) (. .))
+(S (PP (IN At) (NP (NP (DT each)) (PP (IN of) (NP (DT these) (NNS points))))) (, ,) (NP (CD three) (JJ direct) (JJ kinematic) (NNS solutions)) (VP (VBP coincide)) (. .))

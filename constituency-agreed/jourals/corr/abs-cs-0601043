@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT both) (NNS extensions)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ several) (NNS examples))))))) (. .))
+(S (NP (NP (DT The) (JJ current) (NN implementation)) (, ,) (VP (VBN written) (PP (IN in) (NP (NNP Java))) (S (VP (VBG using) (NP (JJ local) (NN search) (NNS techniques))))) (, ,)) (VP (VBZ is) (VP (VBN described))) (. .))

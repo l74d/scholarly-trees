@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ mobile) (NN robot)) (VP (MD will) (VP (VP (VB detect) (NP (NN obstacle))) (CC and) (ADVP (RB also)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB control) (NP (DT the) (NN speed))))))))) (. .))
+(S (NP (JJ Different) (NNS modules)) (VP (MD will) (VP (VB be) (NP (NP (NNS Actuators)) (, ,) (NP (NNS Sensors)) (, ,) (NP (JJ wireless) (NN transmission))))) (. .))

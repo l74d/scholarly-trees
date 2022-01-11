@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NN curvature) (NNS measures)) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN for) (NP (NP (JJ finite) (NNS unions)) (PP (IN of) (NP (NNS balls))))))))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN interpreted) (PP (IN as) (NP (NP (DT a) (NN framework)) (PP (IN for) (NP (NP (DT an) (ADJP (JJ effective) (CC and) (JJ robust)) (NN notion)) (PP (IN of) (NP (NN curvature)))))))))) (. .))

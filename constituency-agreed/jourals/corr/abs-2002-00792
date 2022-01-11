@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS states)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB approximate) (NP (NNS gradients)) (PP (IN in) (NP (DT a) (JJ stochastic) (NN gradient) (NN descent) (NN scheme)))))))) (. .))

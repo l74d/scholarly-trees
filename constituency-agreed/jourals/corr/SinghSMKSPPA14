@@ -1,0 +1,3 @@
+(S (ADVP (RB Initially)) (NP (PRP it)) (VP (VBZ establishes) (NP (NP (DT a) (JJ thorough) (NN understanding)) (PP (IN of) (NP (NP (DT these) (NNS frameworks)) (CC and) (NP (PRP$ their) (NNS applications)))))) (. .))
+(S (NP (DT These) (NNS frameworks)) (VP (VBP are) (VP (VBN meant) (S (VP (TO to) (VP (VP (VB provide) (NP (DT an) (JJ open) (NN source) (NN environment)) (PP (IN for) (NP (DT the) (NNS programmers) (CC or) (NNS users)))) (CC and) (VP (VB implement) (NP (PRP them)) (PP (IN in) (NP (NNS applications))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT these) (NNS metrics)) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN code) (NN quality)) (PP (IN of) (NP (DT both) (NNP MARF) (CC and) (NNP GIPSY)))))))) (. .))

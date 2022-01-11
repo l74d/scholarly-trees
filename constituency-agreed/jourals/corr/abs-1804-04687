@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN known) (PP (IN as) (NP (DT the) (NN domain) (NN adaptation) (NN problem))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ generates) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ intermediate) (NNS domains))))) (. .))

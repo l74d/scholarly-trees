@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP ConvNets)))) (VP (MD would) (VP (VB degrade) (SBAR (WHADVP (WRB when)) (S (VP (VBG encountering) (NP (DT the) (NN domain) (NN shift))))))) (. .))

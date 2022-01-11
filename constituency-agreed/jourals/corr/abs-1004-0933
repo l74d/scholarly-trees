@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN module)) (ADVP (RB then)) (VP (VBZ appears) (PP (IN as) (NP (NP (DT an) (JJ independent) (JJ individual) (NN player)) (PP (IN of) (NP (DT the) (NN game)))))) (. .))
+(S (NP (NP (NN None)) (PP (IN of) (NP (DT the) (NNS players)))) (VP (VBZ knows) (NP (NP (DT the) (JJ exact) (NN payoff) (NNS values)) (PP (IN of) (NP (NP (DT any)) (PP (IN of) (NP (DT the) (NNS others))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN edge) (NN effect)) (PP (IN of) (NP (DT the) (NNP HF) (NN series)))) (VP (VBZ is) (VP (VBN addressed))) (. .))
+(S (NP (DT The) (NNP HF) (NN series)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN used) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (JJ analytical) (NNS solutions)) (PP (IN of) (NP (NP (JJ linear) (NN diffusion) (NNS problems)) (PP (IN of) (NP (JJ arbitrary) (NN dimensionality) (CC and) (NN geometry))))))))))) (. .))

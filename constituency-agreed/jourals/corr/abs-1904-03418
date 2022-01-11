@@ -1,0 +1,1 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT the) (NN addition)) (PP (IN of) (NP (NP (DT an) (JJ adversarial) (JJ acoustic) (NN regression) (NN loss)) (SBAR (WHNP (WDT that)) (S (VP (VBZ promotes) (NP (DT a) (JJR richer) (NN feature) (NN extraction)) (PP (IN at) (NP (DT the) (NN discriminator)))))))))) (. .))

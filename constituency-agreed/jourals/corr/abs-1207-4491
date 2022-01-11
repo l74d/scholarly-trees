@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT no) (ADJP (RB extremely) (JJ efficient)) (JJ algorithmic) (NN tool)) (PP (IN for) (NP (DT this) (NN purpose))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ shows) (NP (NP (DT an) (JJ efficient) (JJ algorithmical) (NN method)) (PP (IN of) (S (VP (VBG finding) (NP (JJ such) (NNS combinations))))))) (. .))

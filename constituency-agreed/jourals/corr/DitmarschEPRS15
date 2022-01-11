@@ -1,0 +1,4 @@
+(S (NP (DT A) (NN gossip) (NN protocol)) (VP (VBZ is) (NP (NP (DT a) (NN procedure)) (PP (IN for) (S (VP (VBG spreading) (NP (NNS secrets)) (PP (IN among) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS agents))))) (, ,) (S (VP (VBG using) (NP (DT a) (NN connection) (NN graph))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (ADJP (VBN distributed) (CC and) (JJ dynamic)) (NN gossip) (NNS protocols))) (. .))
+(S (NP (DT This) (NN result)) (VP (VBZ is) (ADJP (JJ surprising)) (SBAR (IN because) (S (NP (DT the) (NNS protocols)) (VP (VBP are) (ADJP (RB fairly) (JJ different)))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ sixth) (NN protocol))) (NP (DT an) (NN agent)) (VP (MD may) (ADVP (RB only)) (VP (VB call) (NP (DT another) (NN agent)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB know) (NP (NP (DT the) (JJ other) (NN agent) (POS 's)) (NN secret)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (DT the) (NN database) (NN optimization) (NN task)) (PP (IN as) (NP (NP (DT an) (NN energy) (NN minimization) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN solved) (S (VP (VBG using) (NP (JJ standard) (JJ numerical) (NNS tools)))))))))))) (. .))

@@ -1,0 +1,4 @@
+(S (ADVP (RB Also)) (, ,) (NP (PRP it)) (VP (VBZ admits) (NP (JJ multiple) (NNS solutions))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NNS solutions)) (VP (VBP depend) (PP (IN on) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN parameter)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NNS solutions)) (VP (VBP exist) (PP (IN for) (NP (NP (JJ small) (JJ positive) (NNS values)) (PP (IN of) (NP (DT this) (NN parameter))))))))) (. .))
+(S (PP (IN For) (NP (NP (JJ large) (JJ positive) (NNS values)) (PP (IN of) (NP (DT this) (NN parameter))))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT the) (NN nonexistence)) (PP (IN of) (NP (NNS solutions))))) (. .))

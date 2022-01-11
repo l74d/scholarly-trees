@@ -1,0 +1,2 @@
+(S (NP (NN Clustering)) (VP (VBZ is) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG partitioning) (NP (NP (DT a) (VBN given) (NN set)) (PP (IN of) (NP (JJ geometric) (NNS objects))))))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (ADVP (RB also)) (NP (NP (JJ several) (NNS approaches)) (PP (IN for) (NP (NP (NNS points)) (PP (IN in) (NP (JJ general) (JJ metric) (NNS spaces))))))) (. .))

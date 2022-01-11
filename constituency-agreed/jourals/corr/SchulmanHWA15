@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (VBG resulting) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (DT the) (NN gradient) (NN estimator)))))) (VP (VBZ is) (NP (NP (DT a) (JJ simple) (NN modification)) (PP (IN of) (NP (DT the) (JJ standard) (NN backpropagation) (NN algorithm))))) (. .))

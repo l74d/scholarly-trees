@@ -1,0 +1,3 @@
+(S (NP (NN Influence) (NNS diagrams)) (VP (VBP are) (NP (NP (DT a) (JJ decision-theoretic) (NN extension)) (PP (IN of) (NP (JJ probabilistic) (JJ graphical) (NNS models))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NNP Goddard) (NN problem))))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (JJ present) (NP (NP (NNS results)) (PP (IN of) (NP (NP (JJ numerical) (NNS experiments)) (PP (IN with) (NP (DT this) (NN problem))))))) (CC and) (VP (VB compare) (NP (NP (DT the) (NNS solutions)) (VP (VBN provided) (PP (IN by) (NP (NN influence) (NNS diagrams))))) (PP (IN with) (NP (DT the) (JJ optimal) (NN solution))))) (. .))

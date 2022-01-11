@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS authors)) (VP (VBP confuse) (PP (IN between) (NP (NP (NNS statements)) (PP (IN of) (NP (JJ propositional) (NN logic)))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP they)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT a) (NN truth)) (VP (VBZ implies) (NP (NP (DT a) (NN falsehood)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT a) (JJ wrong) (NN statement)))))))))) (. .))

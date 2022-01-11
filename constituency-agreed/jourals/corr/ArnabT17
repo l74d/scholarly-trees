@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT an) (JJ initial) (JJ semantic) (NN segmentation) (NN module)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ feeds) (PP (IN into) (NP (DT an) (NN instance) (NN subnetwork)))))))))) (. .))

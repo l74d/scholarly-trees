@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ resistive) (NN divider)) (VP (VP (VBZ is) (VP (VBN implemented) (S (VP (VBG using) (NP (NNS memristors)))))) (CC and) (VP (VBZ provides) (NP (NN output) (NN voltage)) (PP (IN as) (NP (NP (DT a) (NN summation)) (PP (IN of) (NP (NP (JJ weighted) (NN product)) (PP (IN of) (NP (NN input) (NNS voltages))))))))) (. .))

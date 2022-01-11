@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN analysis)) (PP (IN of) (NP (DT the) (NN noise) (NN influence)))) (VP (VBZ is) (VP (VBN performed))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ linear) (NN relation)) (PP (IN between) (NP (NP (DT the) (NN signal)) (CC and) (NP (DT the) (NN sparsity) (NN domain) (NN transformation))))) (VP (VBZ is) (VP (VBN lost))) (. .))

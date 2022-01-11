@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ semi-supervised) (NN learning))) (, ,) (NP (DT this) (NN target) (NN distribution)) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN generated) (PP (IN by) (NP (DT a) (JJ pre-trained) (NN teacher) (NN model))) (S (VP (TO to) (VP (VB train) (NP (DT the) (JJ main) (NN network))))))) (. .))

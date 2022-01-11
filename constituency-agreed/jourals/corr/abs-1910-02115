@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN success)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN availability)) (PP (IN of) (NP (JJ big) (NNS data))))) (SBAR (IN since) (S (NP (DT the) (NN training) (NN process)) (VP (VBZ requires) (NP (ADJP (JJ massive) (CC and) (JJ representative)) (NNS data) (NNS sets)))))) (. .))

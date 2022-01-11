@@ -1,0 +1,4 @@
+(S (NP (NN Graph) (NN clustering)) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN used) (PP (IN in) (NP (NP (JJ many) (NNS data)) (NP (NN analysis) (NNS applications)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ several) (JJ parallel) (NN graph) (NN clustering) (NNS algorithms)) (PP (VBN based) (PP (IN on) (NP (NP (NML (NNP Monte) (NNP Carlo)) (NNS simulations)) (CC and) (NP (NP (NN expectation) (NN maximization)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ stochastic) (NN block) (NNS models))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP apply) (NP (DT those) (NNS algorithms)) (PP (IN to) (NP (NP (DT the) (JJ specific) (NNS problems)) (PP (IN of) (NP (NML (NML (NN recommender) (NNS systems)) (CC and) (NML (JJ social) (NN network))) (NN anonymization)))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (DT the) (JJ experimental) (NNS results)) (PP (IN to) (NP (JJ previous) (NNS propositions)))) (. .))

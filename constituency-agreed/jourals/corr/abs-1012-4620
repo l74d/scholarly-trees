@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT this) (NN generator)) (VP (VBZ behaves) (ADVP (RB chaotically)) (, ,) (SBAR (IN as) (S (VP (VBN defined) (PP (IN by) (NP (NNP Devaney))))))) (. .))
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (PRP$ our) (NN generator)) (ADJP (JJ suitable) (PP (IN for) (NP (JJ cryptographic) (NNS applications)))))) (. .))

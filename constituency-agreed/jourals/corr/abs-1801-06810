@@ -1,0 +1,1 @@
+(S (NP (NP (NN Security) (NN engineering)) (PP (IN in) (NP (DT the) (NN software) (NN lifecycle)))) (VP (VBZ aims) (PP (IN at) (S (VP (VBG protecting) (NP (NN information) (CC and) (NNS systems)) (S (VP (TO to) (VP (VB guarantee) (NP (NN confidentiality) (, ,) (NN integrity) (, ,) (CC and) (NN availability))))))))) (. .))

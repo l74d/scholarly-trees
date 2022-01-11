@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (VBG existing) (VBG resampling) (NNS oracles)) (PP (IN for) (NP (JJ perfect) (NNS matchings) (CC and) (NNS permutations)))) (VP (VBP do) (VP (VB satisfy) (NP (DT this) (NN condition))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP hypothesize) (SBAR (IN that) (S (NP (DT a) (NN journal) (NN name)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB occur) (PP (IN in) (NP (DT a) (JJ specific) (NN context))))))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT the) (NN journal) (NN name) (NNS extractions)))) (VP (VBP suggest) (SBAR (IN that) (S (NP (DT the) (NN distribution) (NN hypothesis)) (VP (VBZ plays) (NP (DT an) (JJ important) (NN role)) (PP (IN in) (S (VP (VBG identifying) (NP (DT the) (NN journal) (NNS names))))))))) (. .))

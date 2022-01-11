@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN chapter)) (VP (VBZ introduces) (NP (NP (DT the) (JJ basic) (NN structure)) (PP (IN of) (NP (NP (JJ deep) (JJ neural) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP simulate) (NP (JJ human) (JJ neural) (NNS networks))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (JJ recent) (NNS developments)) (PP (IN in) (NP (NP (NN training) (NNS strategies)) (PP (IN for) (NP (NP (JJ effective) (NN learning)) (PP (IN of) (NP (JJ complex) (JJ deep) (JJ neural) (NNS networks)))))))) (VP (VBP are) (VP (VBN addressed))) (. .))

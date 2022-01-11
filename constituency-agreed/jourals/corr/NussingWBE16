@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN geometry)) (VP (VP (VBZ is) (VP (VBN described) (S (VP (VBG using) (NP (NN level) (VBN set) (NNS functions)))))) (CC and) (VP (VBZ is) (VP (VBN incorporated) (ADVP (RB implicitly)) (PP (IN in) (NP (PRP$ its) (JJ mathematical) (NN formulation)))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP it)) (VP (VBZ maintains) (NP (NN conservation) (NNS laws)) (PP (IN on) (NP (DT a) (JJ discrete) (NN level)))) (. .))

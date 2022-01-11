@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP compare) (NP (PRP it)) (PP (IN with) (NP (NP (ADJP (RB previously) (VBN proposed)) (NNS notions)) (PP (IN of) (NP (NN explanation)))))) (, ,) (CC and) (VP (VB study) (NP (PRP$ their) (NN complexity)))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (DT an) (JJ experimental) (NN evaluation)) (PP (IN with) (NP (NP (CD two) (JJ real) (NNS datasets)) (PP (IN from) (NP (DT the) (JJ financial) (NN domain)))))) (. .))

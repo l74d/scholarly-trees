@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (CC and) (VBP train) (NP (DT a) (JJ deep) (JJ convolutional) (JJ neural) (NN network)) (PP (IN for) (NP (DT the) (JJ semantic) (NN segmentation) (NN task)))) (. .))
+(S (S (VP (TO To) (VP (VB cater) (PP (IN for) (NP (NP (DT the) (JJ low) (NN quantity)) (PP (IN of) (NP (VBN annotated) (NNS data)))))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (JJ unsupervised) (NN pre-training)) (CC and) (NP (NNS data) (NN augmentation)))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (NP (DT a) (JJ first) (NN step)) (PP (IN towards) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NNP Prolog) (NNS programs))))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ non-termination) (NN condition)) (PP (IN for) (NP (NP (NNP Logic) (NNP Programs)) (VP (VBG containing) (NP (NN integer) (NNS arithmetics))))))) (. .))

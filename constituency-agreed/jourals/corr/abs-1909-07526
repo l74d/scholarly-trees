@@ -1,0 +1,1 @@
+(S (NP (NP (CD One) (NN method)) (PP (IN of) (S (VP (VBG classifying) (NP (NNS data)) (PP (IN with) (NP (NP (DT a) (JJ limited) (NN number)) (PP (IN of) (NP (NN training) (NNS samples))))))))) (VP (VBZ is) (S (VP (TO to) (VP (VB employ) (NP (NN transfer) (NN learning)))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT the) (JJ top) (NN layer))) (, ,) (S (NP (DT each) (NN tuple)) (VP (VBZ is) (NP (DT a) (NN hypernode)))) (, ,) (CC and) (S (NP (DT a) (NN relation)) (VP (VBZ is) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS hypernodes)))))) (. .))

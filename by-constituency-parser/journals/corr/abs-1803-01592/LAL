@@ -1,0 +1,2 @@
+(S (S (NP (NN OpenMath) (CC and) (NNP SMT-LIB)) (VP (VBP are) (NP (NP (VBZ languages)) (PP (IN with) (NP (ADJP (RB very) (JJ different)) (NNS origins)))))) (, ,) (CC but) (S (NP (DT both)) (`` ``) (VP (NN represent) (NP (NNS mathematics))) ('' '')) (. .))
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (JJ SMT-LIB)) (PP (IN for) (NP (DT the) (NNP OpenMath) (NN community)))) (CC and) (VP (VB consider) (NP (NP (NNS adaptations)) (PP (IN for) (NP (DT both) (NNS languages)))) (S (VP (TO to) (VP (VB support) (NP (DT the) (VBG growing) (NNP SC-Square) (NN initiative))))))) (. .))

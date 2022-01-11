@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN model)) (PP (IN of) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (NP (DT the) (NNS networks)) (PP (IN of) (NP (JJ scientific) (NNS citations))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (PRP$ our) (NN model)) (PP (IN with) (NP (NP (CD three) (NN network) (JJ structural) (NNS quantities)) (PP (IN of) (NP (DT an) (JJ empirical) (NN citation) (NN network)))))) (. .))

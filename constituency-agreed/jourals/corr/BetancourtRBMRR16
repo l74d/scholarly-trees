@@ -1,0 +1,1 @@
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ non-linear) (JJ manifold) (NNS methods)) (VP (MD can) (VP (VB capture) (NP (JJ contextual) (NNS patterns)) (PP (IN from) (NP (JJ global) (NNS features))) (PP (IN without) (S (VP (VBG compromising) (NP (JJ large) (JJ computational) (NNS resources)))))))))) (. .))

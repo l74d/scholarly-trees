@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (JJ kinematic) (NNS constraints)) (VP (VBP appear) (PP (IN in) (NP (DT the) (NN problem)))))) (, ,) (NP (DT the) (NN configuration) (NN space)) (ADVP (RB typically)) (VP (VBZ becomes) (NP (DT a) (JJ non-parametrizable) (, ,) (JJ implicit) (NN manifold))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ solves) (NP (NP (DT the) (VBG overlapping) (NN issue)) (SBAR (WHADVP (WRB where)) (S (NP (NP (NNS instances)) (PP (IN from) (NP (CD one) (NN dataset)))) (VP (VBP are) (RB not) (VP (VBN labelled) (PP (IN in) (NP (DT the) (JJ other) (NN dataset))))))))) (. .))

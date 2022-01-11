@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN task))) (, ,) (NP (NP (DT no) (NNS annotations)) (PP (IN on) (NP (NP (JJ individual) (NNS instances)) (PP (IN inside) (NP (DT the) (NN bag)))))) (VP (VBP are) (VP (VBN needed) (PP (IN during) (NP (NP (NN training)) (PP (IN of) (NP (DT the) (NNS models))))))) (. .))

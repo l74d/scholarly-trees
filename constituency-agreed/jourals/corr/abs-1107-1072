@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP observe) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NP (DT no) (NN increase)) (PP (IN in) (NP (DT the) (NN message) (NN complexity)))) (CC and) (NP (NP (RB only) (DT a) (JJ small) (NN overhead)) (PP (IN in) (NP (DT the) (JJ computational) (NN complexity))))))))) (. .))

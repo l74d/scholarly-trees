@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN degree)) (PP (IN of) (NP (NP (NN consolidation)) (PP (IN of) (NP (JJ cross-disciplinary) (JJ academic) (NNS communities)))))) (VP (VBZ is) (RB not) (ADJP (JJ clear))) (. .))
+(S (NP (NP (DT A) (JJ total) (NN amount)) (PP (IN of) (NP (CD 1580) (NNS papers)))) (VP (VBD were) (VP (VBN processed) (PP (IN through) (NP (NN co-citation) (NN network) (NN analysis))))) (. .))

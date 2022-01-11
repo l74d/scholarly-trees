@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (NN application)) (PP (IN of) (NP (NP (NN duality) (NNS relations)) (PP (IN of) (NP (JJ stochastic) (NNS processes)))))) (VP (VBZ is) (VP (VBN demonstrated))) (. .))
+(S (PP (IN As) (NP (DT a) (NN demonstration))) (, ,) (NP (NP (NN estimation) (NNS problems)) (PP (IN of) (NP (NP (JJ hidden) (NNS variables)) (PP (IN in) (NP (JJ stochastic) (JJ differential) (NNS equations)))))) (VP (VBP are) (VP (VBN discussed))) (. .))

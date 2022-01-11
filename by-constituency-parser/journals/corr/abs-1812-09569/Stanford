@@ -1,0 +1,8 @@
+(S (NP (DT This) (NN article)) (VP (VBZ suggests) (NP (NP (DT an) (NN algorithm)) (PP (IN of) (NP (NP (NN formation)) (NP (DT a) (NN training) (NN set))))) (PP (IN for) (NP (NP (JJ artificial) (JJ neural) (NN network)) (PP (IN in) (NP (NP (NN case)) (PP (IN of) (NP (NN image) (NN segmentation)))))))) (. .))
+(S (NP (NP (DT The) (JJ distinctive) (NN feature)) (PP (IN of) (NP (DT this) (NN algorithm)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBG using) (NP (RB only) (CD one) (NN image)) (PP (IN for) (NP (NN segmentation))))))) (. .))
+(S (NP (DT The) (NN segmentation)) (VP (VBZ performs) (S (VP (VBG using) (NP (NML (CD three) (HYPH -) (NN layer)) (NN perceptron))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN method)) (PP (IN of) (NP (DT the) (NN segmentation)))) (VP (VBZ is) (NP (NP (DT a) (NN method)) (PP (IN of) (NP (NN region) (VBG growing))))) (. .))
+(S (NP (JJ Neural) (NN network)) (VP (VBZ is) (VP (VBG using) (PP (IN for) (S (VP (VP (VB get) (NP (DT a) (NN decision)) (S (VP (TO to) (VP (VB include) (NP (NN pixel)) (PP (IN into) (NP (DT an) (NN area))))))) (CC or) (RB not)))))) (. .))
+(S (NP (NN Impulse) (NN noise)) (VP (VBZ is) (VP (VBG using) (PP (IN for) (NP (NP (NN generation)) (PP (IN of) (NP (DT a) (NN training) (NN set))))))) (. .))
+(S (NP (NP (NNS Pixels)) (VP (VBN damaged) (PP (IN by) (NP (NN noise))))) (VP (VBP are) (RB not) (VP (VBN related) (PP (IN to) (NP (DT the) (JJ same) (NN region))))) (. .))
+(S (VP (VBD Suggested) (SBAR (S (NP (NN method)) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (PP (IN with) (NP (NP (NN help)) (PP (IN of) (NP (NN computer) (NN experiment))))) (PP (IN in) (NP (ADJP (JJ automatic) (CC and) (JJ interactive)) (NNS modes))))))))) (. .))

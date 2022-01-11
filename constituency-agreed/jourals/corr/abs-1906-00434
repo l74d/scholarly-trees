@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (CD two) (NN benchmark) (NNS datasets)))) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB yield) (NP (JJ consistent) (NNS improvements)) (PP (VBN compared) (PP (IN with) (NP (DT the) (NN baseline) (NNS methods))))))))) (. .))

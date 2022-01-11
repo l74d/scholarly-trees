@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS vectors)) (SBAR (WHNP (WDT that)) (S (VP (VBP result) (PP (IN from) (NP (DT the) (NN projection))))))) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NP (NNS features)) (PP (IN in) (NP (NP (DT any) (NN classifier)) (PP (IN of) (NP (NN choice)))))))))) (. .))

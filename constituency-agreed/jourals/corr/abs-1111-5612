@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN estimated) (NNS features)) (VP (VBP have) (S (VP (VP (TO to) (VP (VB comply) (PP (IN with) (NP (DT the) (JJ compressed) (NN information))))) (CC and) (VP (TO to) (VP (VB represent) (NP (NP (JJ consistent) (NN transformation)) (PP (IN between) (NP (NNS images))))))))) (. .))
+(S (NP (DT The) (NN correlation) (NN model)) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (NP (DT the) (JJ relative) (JJ geometric) (NNS transformations)) (PP (IN between) (NP (VBG corresponding) (NNS features))))))) (. .))

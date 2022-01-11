@@ -1,0 +1,2 @@
+(S (CC But) (NP (DT these) (NNS models)) (ADVP (RB still)) (VP (VBP rely) (PP (IN on) (NP (JJ correct) (JJ token) (NNS boundaries)))) (. .))
+(S (NP (PRP It)) (VP (VBZ requires) (NP (DT no) (NN tokenizer))) (. .))

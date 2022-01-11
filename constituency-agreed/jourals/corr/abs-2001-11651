@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN noise)) (PP (IN of) (NP (DT the) (NNP CMB) (NN map)))) (VP (VBZ has) (NP (NP (DT a) (JJ significant) (NN impact)) (PP (IN on) (NP (NP (DT the) (NN estimation) (NN precision)) (PP (IN for) (NP (JJ cosmological) (NNS parameters))))))) (. .))
+(S (NP (NP (DT The) (NN input) (CC and) (NN output)) (PP (IN of) (NP (NNP CosmoVAE)))) (VP (VBP are) (NP (JJ square) (NNS images))) (. .))

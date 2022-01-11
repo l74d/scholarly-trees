@@ -1,0 +1,2 @@
+(S (PP (VBN Given) (NP (NP (DT a) (NN database)) (PP (IN of) (NP (CD 40) (NN pattern) (NNS classes))))) (, ,) (NP (DT the) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (DT a) (VBN given) (NN image) (NN sample)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NNS reasons)) (PP (IN behind) (NP (DT this) (NN success)))) (, ,) (S (VP (VBG shedding) (NP (NN light)) (PP (IN on) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (NP (DT the) (NNP Tsallis) (NN entropy)))))))) (. .))

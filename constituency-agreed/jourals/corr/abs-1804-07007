@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (DT an) (NN input) (NN sequence)) (VP (MD could) (VP (VB be) (NP (NP (DT a) (NN word) (NN sequence)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN review) (NN sentence)) (CC and) (NP (NN advertisement) (NN text))))))) (. .))
+(S (NP (JJ Extensive) (JJ experimental) (NNS results)) (VP (VBP are) (VP (VBN reported) (CC and) (VBN discussed) (S (VP (TO to) (VP (VB elaborate) (NP (NP (DT the) (NNS peculiarities)) (PP (IN of) (NP (PRP$ our) (NN framework))))))))) (. .))

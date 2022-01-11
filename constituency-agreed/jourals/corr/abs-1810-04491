@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ previous) (NN work))) (, ,) (NP (PRP we)) (VP (VBD developed) (NP (NP (JJ binary) (NN classifier)) (VP (VBN inspired) (PP (IN by) (NP (NNP Quantum) (NNP Detection) (NNP Theory)))))) (. .))
+(S (PP (IN In) (NP (DT this) (JJ extended) (NN abstract))) (, ,) (NP (PRP$ our) (JJ main) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB develop) (NP (JJ multi-class) (NN classifier)))))) (. .))

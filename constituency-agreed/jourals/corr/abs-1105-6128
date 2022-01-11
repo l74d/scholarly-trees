@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN issue)) (VP (VBD had) (VP (VBN been) (VP (VBN discussed) (PP (IN in) (NP (NP (JJ several) (NNS domains)) (CC and) (NP (JJ various) (NNS models))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (DT the) (NN domain) (NN ontology)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ other) (NNS resources)) (PP (JJ such) (IN as) (NP (NNS dictionaries)))))) (. .))

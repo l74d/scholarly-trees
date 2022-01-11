@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP model) (NP (JJ such) (NNS interactions)) (PP (IN as) (NP (JJ Bayesian) (NN interference) (NNS games)))) (. .))
+(S (NP (NP (JJ Such) (NNS games)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN modeled) (PP (IN as) (NP (JJ Bayesian) (NNS games))))))) (, ,)) (VP (MD can) (VP (VB exhibit) (NP (ADJP (RB significantly) (JJ different)) (NNS equilibria)))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (S (NP (DT the) (NN transferability)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN defined) (PP (IN as) (NP (JJ discrete) (NNS states)))))) (CC and) (S (NP (PRP it)) (VP (VBZ differs) (PP (IN with) (NP (NP (NNS domains)) (CC and) (NP (NN network) (NNS architectures)))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN with) (NP (NP (JJ various) (NN network) (NNS architectures)) (CC and) (NP (JJ multiple) (NN transfer) (NN domain) (NNS pairs)))))) (. .))

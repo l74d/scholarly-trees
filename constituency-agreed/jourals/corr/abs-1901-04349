@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB do) (NP (DT this))))) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN emptiness) (NN problem)) (PP (IN of) (NP (JJ qualitative) (JJ universal) (NN parity) (NN tree) (NN automata)))) (VP (VBZ is) (ADJP (JJ undecidable)))))) (. .))

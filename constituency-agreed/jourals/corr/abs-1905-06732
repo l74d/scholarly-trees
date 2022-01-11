@@ -1,0 +1,4 @@
+(S (PP (IN By) (S (VP (VBG detecting) (NP (NP (DT a) (NN change)) (PP (IN in) (NP (DT a) (NN component))))))) (, ,) (NP (DT the) (NN component)) (VP (VBZ is) (VP (VBN adapted))) (. .))
+(S (ADVP (RB Otherwise)) (, ,) (NP (DT the) (NN change)) (VP (VBZ is) (VP (VBN propagated))) (. .))
+(S (PP (IN In) (NP (DT this) (NN case))) (, ,) (NP (NP (DT all) (NNS components)) (VP (VBN affected) (PP (IN by) (NP (DT the) (NN change))))) (VP (VP (VBP are) (VP (VBN adapted))) (CC and) (VP (VBP are) (VP (VBN composed) (S (VP (TO to) (VP (VB form) (NP (DT a) (JJ composite) (NN component)))))))) (. .))
+(S (NP (DT This) (NN procedure)) (VP (VBZ continues) (SBAR (IN until) (S (NP (DT the) (NN change)) (VP (VBZ does) (RB not) (VP (VB propagate)))))) (. .))

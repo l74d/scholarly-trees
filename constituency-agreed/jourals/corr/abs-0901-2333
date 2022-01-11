@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (NP (DT the) (NN delay) (NN performance)) (PP (IN of) (NP (DT these) (NNS algorithms)))) (VP (MD can) (VP (VB be) (ADJP (RB quite) (JJ bad))))))) (. .))

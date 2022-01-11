@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ neglects) (NP (NP (DT the) (ADJP (RBR more) (JJ practical)) (NN scenario)) (SBAR (WHADVP (WRB where)) (S (NP (NNS data)) (VP (VBP are) (VP (VBN distributed) (PP (IN in) (NP (NP (JJ numerous) (JJ different) (NNS domains)) (PP (IN in) (NP (DT the) (JJ real) (NN world))))))))))) (. .))
+(S (NP (DT The) (JJ second) (NN benchmark)) (VP (VBZ is) (NP (NP (NNP DomainBank)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN collected) (PP (IN from) (NP (CD 56) (VBG existing) (NN vision) (NNS datasets))))))))) (. .))

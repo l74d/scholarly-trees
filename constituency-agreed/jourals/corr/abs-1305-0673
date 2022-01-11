@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (NP (DT the) (NN server)) (VP (MD will) (VP (VP (VB locate) (NP (DT the) (NN patient)) (PP (IN on) (NP (NNP Google) (NN map)))) (CC and) (VP (VB retrieve) (NP (NP (DT the) (NN patient) (POS 's)) (NN information)) (PP (IN from) (NP (DT the) (NN database)))))) (. .))

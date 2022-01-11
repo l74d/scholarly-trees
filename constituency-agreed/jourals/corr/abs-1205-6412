@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN structure)) (VP (VBZ is) (VP (VBN represented) (PP (IN as) (NP (NP (DT a) (NN tree)) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (JJ non-empty) (NN node)) (VP (VBZ represents) (NP (DT a) (JJ functional) (NN group))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN assumed) (SBAR (IN that) (S (NP (NP (DT the) (JJ active) (NN site) (NN configuration)) (PP (IN of) (NP (DT the) (NN target) (NN protein)))) (VP (VBZ is) (VP (VBN known) (PP (IN with) (NP (NP (NN position)) (PP (IN of) (NP (DT the) (JJ essential) (NNS residues))))))))))) (. .))

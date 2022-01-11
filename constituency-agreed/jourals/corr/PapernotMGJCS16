@@ -1,0 +1,1 @@
+(S (ADVP (RB Yet)) (, ,) (NP (DT all) (VBG existing) (JJ adversarial) (NN example) (NNS attacks)) (VP (VBP require) (NP (NP (NN knowledge)) (PP (IN of) (NP (CC either) (NP (DT the) (NN model) (NNS internals)) (CC or) (NP (PRP$ its) (NN training) (NNS data)))))) (. .))

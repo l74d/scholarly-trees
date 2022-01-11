@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN detector) (POS 's)) (JJ only) (NN information)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT the) (NNS messages)) (SBAR (S (NP (PRP she)) (VP (VBZ receives) (PP (IN from) (NP (DT the) (NN principal))))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN setting))) (, ,) (NP (PRP we)) (VP (VBP determine) (NP (NP (DT the) (JJ optimal) (NNS strategies)) (PP (IN of) (NP (NP (DT the) (NN principal)) (CC and) (NP (DT the) (NN detector)))))) (. .))

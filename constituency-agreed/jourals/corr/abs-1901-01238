@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN regularizer) (NN block)) (VP (VBZ is) (VP (VBN removed) (PP (IN after) (NP (NN training))) (, ,) (SBAR (IN so) (IN that) (S (NP (NP (DT the) (JJ original) (NN number)) (PP (IN of) (NP (NN network) (NNS parameters)))) (VP (VBZ does) (RB not) (VP (VB change))))))) (. .))

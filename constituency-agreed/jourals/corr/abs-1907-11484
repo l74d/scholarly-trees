@@ -1,0 +1,1 @@
+(S (NP (JJ Previous) (NNS works)) (VP (VBP use) (NP (JJ adversarial) (NN training)) (S (VP (VP (TO to) (VP (VB align) (NP (JJ global) (NNS features)) (PP (IN across) (NP (DT the) (NN domain) (NN shift))))) (CC and) (VP (TO to) (VP (VB achieve) (NP (NN image) (NN information) (NN transfer))))))) (. .))

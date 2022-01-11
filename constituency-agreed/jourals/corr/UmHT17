@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (NN velocity) (NN modification))) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (DT a) (JJ heteroscedastic) (NN model))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN method)) (PP (IN for) (NP (NP (JJ different) (JJ spatial) (NNS scales)) (, ,) (NP (NN simulation) (NNS setups)) (, ,) (CC and) (NP (NNS solvers))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (NN principle)) (PP (IN of) (S (VP (VBG adding) (NP (DT a) (NN reference) (NN signal)) (PP (IN in) (NP (NN holography)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB recover) (NP (DT the) (NN signal))))) (, ,) (NP (PRP we)) (VP (VBP implement) (NP (DT an) (JJ iterative) (NN phase) (NN retrieval) (NN method)) (PP (IN as) (NP (DT an) (JJ unrolled) (NN network)))) (. .))

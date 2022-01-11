@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN hyperplane)) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (NN support) (NNS vectors))))) (. .))
+(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NN support) (NNS vectors)))) (VP (VBZ is) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NN generalization) (NNS errors))))) (. .))

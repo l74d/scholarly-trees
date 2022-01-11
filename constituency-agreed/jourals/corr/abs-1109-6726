@@ -1,0 +1,2 @@
+(S (S (VP (VBG Targeting) (NP (DT the) (NNS users) (NN group)) (PP (IN for) (NP (JJ various) (JJ promotional) (NNS activities))))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN aspect)) (PP (IN of) (NP (NN marketing) (NNS practices))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (JJ real) (NN dataset))) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (VBN proposed) (NN algorithm))))))))) (. .))

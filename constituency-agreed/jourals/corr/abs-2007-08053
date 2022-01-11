@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (ADJP (RBR more) (JJ challenging)) (SBAR (IN since) (S (NP (DT the) (JJ new) (NNS nodes)) (VP (VP (VBP do) (RB not) (VP (VB have) (NP (NN structure) (NN information)))) (CC and) (VP (MD can) (RB not) (VP (VB be) (VP (VBN seen) (PP (IN during) (NP (DT the) (NN model) (NN training)))))))))) (. .))

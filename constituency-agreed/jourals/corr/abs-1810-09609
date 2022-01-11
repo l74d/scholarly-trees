@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (NP (NN linearization)))) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (DT a) (JJ grammatical) (NN order)) (PP (VBN given) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS words))))))))) (. .))
+(S (NP (JJ Traditional) (NNS models)) (VP (VBP use) (NP (JJ statistical) (NNS methods))) (. .))

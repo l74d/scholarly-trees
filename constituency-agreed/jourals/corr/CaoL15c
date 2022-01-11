@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NNP Paillier) (POS 's)) (NN encryption)) (VP (MD can) (VP (VB be) (ADVP (RB naturally)) (VP (VBN transformed) (PP (IN into) (NP (DT a) (NN signature) (NN scheme))))))) (CC but) (S (NP (DT these) (NNS variants)) (VP (VBP miss) (NP (DT the) (NN feature)))) (. .))

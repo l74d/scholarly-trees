@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT a) (JJ useful) (NN model)) (PP (IN for) (NP (NP (NN predication)) (PP (IN of) (NP (NP (JJ neuronal) (NNS responses)) (VP (VBN recorded) (PP (IN in) (NP (JJ visual) (NN system)))))))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NNP CNN)) (VP (MD could) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB reveal) (NP (NP (NN structure) (NNS components)) (PP (IN of) (NP (JJ neuronal) (NNS circuits))))))))))))) (. .))

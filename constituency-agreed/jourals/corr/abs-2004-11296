@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN trained) (PP (IN by) (NP (DT an) (NNP EM) (NN algorithm)))))) (CC and) (S (NP (DT the) (NNP Viterbi) (NN algorithm)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB recover) (NP (DT the) (NN state)))))))) (. .))

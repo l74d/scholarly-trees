@@ -1,0 +1,3 @@
+(S (NP (NN Application) (NNS designers)) (ADVP (RB often)) (VP (VBP face) (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (IN whether) (S (VP (TO to) (VP (VB store) (NP (JJ large) (NNS objects)) (PP (PP (IN in) (NP (DT a) (NN filesystem))) (CC or) (PP (IN in) (NP (DT a) (NN database))))))))))) (. .))
+(S (ADVP (RB Often)) (NP (DT this) (NN decision)) (VP (VBZ is) (VP (VBN made) (PP (IN for) (NP (NN application) (NN design) (NN simplicity))))) (. .))
+(S (ADVP (RB Sometimes)) (, ,) (NP (NN performance) (NNS measurements)) (VP (VBP are) (ADVP (RB also)) (VP (VBN used))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Landmark) (NN localization)) (PP (IN in) (NP (NNS images) (CC and) (NNS videos)))) (VP (VBZ is) (NP (NP (DT a) (JJ classic) (NN problem)) (VP (VBN solved) (PP (IN in) (NP (JJ various) (NNS ways)))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT both) (NNS issues))))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ adversarial) (NN training) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (VBZ leverages) (NP (JJ unlabeled) (NNS data)) (S (VP (TO to) (VP (VB improve) (NP (NN model) (NN performance)))))))))) (. .))

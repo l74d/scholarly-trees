@@ -1,0 +1,2 @@
+(S (ADVP (NNP Hence)) (NP (PRP$ our) (NN work)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (SBAR (WHNP (WDT that)) (S (VP (VBP achieve) (NP (DT the) (JJ same) (NN preprocessing) (NN time)) (PP (IN for) (NP (JJ optimal) (NX (NX (JJ orthogonal) (NX (NN range) (NN reporting))) (CC and) (NX (NN range) (NN successor)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP apply) (NP (PRP$ our) (NNS results)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN construction) (NN time)) (PP (IN of) (NP (NN text) (NNS indexes)))))))) (. .))

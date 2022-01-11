@@ -1,0 +1,2 @@
+(S (NP (JJ Stable) (NN gonality)) (VP (VBZ is) (NP (NP (DT a) (NN multigraph) (NN parameter)) (SBAR (WHNP (WDT that)) (S (VP (VBZ measures) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT a) (NN graph))))))))) (. .))
+(S (NP (JJ Stable) (NN gonality)) (VP (VBZ is) (ADJP (JJ relevant) (PP (IN for) (NP (NP (NNS problems)) (PP (IN in) (NP (NN number) (NN theory))))))) (. .))

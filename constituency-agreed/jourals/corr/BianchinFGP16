@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP allow) (PP (IN for) (NP (NP (NNS perturbations)) (PP (IN of) (NP (JJ certain) (NN edge) (NNS weights))))) (, ,) (PP (IN with) (NP (NP (DT the) (NN objective)) (PP (IN of) (S (VP (VBG preventing) (NP (NP (NN observability)) (PP (IN of) (NP (NP (DT some) (NNS modes)) (PP (IN of) (NP (DT the) (NN network) (NNS dynamics)))))))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ proposes) (NP (NP (CD two) (NNS sets)) (PP (IN of) (NP (NNS results))))) (. .))

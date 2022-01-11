@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ new) (JJ 4-pass) (JJ Key-Agreement) (NNP Protocol)) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NP (DT The) (NN security)) (PP (IN of) (NP (DT the) (NN protocol)))) (ADVP (RB mainly)) (VP (VBZ relies) (PP (IN on) (NP (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT a) (PRN (-LRB- -LRB-) (JJ polynomial-computable) (-RRB- -RRB-)) (NN One-Way-Function)))) (CC and) (NP (NP (DT the) (VBN supposed) (JJ computational) (NN hardness)) (PP (IN of) (S (VP (VBG solving) (NP (NP (DT a) (JJ specific) (NN system)) (PP (IN of) (NP (NNS equations))))))))))) (. .))

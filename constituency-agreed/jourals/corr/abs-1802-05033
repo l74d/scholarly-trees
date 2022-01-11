@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ unequal) (NN label) (NN distribution)) (PP (IN in) (NP (JJS most) (JJ multilabel) (NNS datasets))) (, ,) (PP (IN with) (NP (JJ disparate) (NN imbalance) (NNS levels))) (, ,)) (VP (MD could) (VP (VB be) (NP (DT a) (NN handicap)) (SBAR (IN while) (S (VP (VBG learning) (NP (JJ new) (NNS classifiers))))))) (. .))

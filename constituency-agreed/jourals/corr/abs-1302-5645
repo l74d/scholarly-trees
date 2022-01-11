@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD focused) (PP (IN on) (S (VP (VBG making) (NP (DT the) (NN inference) (NN time)) (PP (IN in) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NN system))))))))) (. .))
+(S (PP (IN For) (NP (DT that))) (NP (PRP we)) (VP (VBP have) (VP (VBN built) (CC and) (VBN analyzed) (NP (NP (DT a) (NN body)) (VP (VBN built) (PP (IN from) (NP (NP (NNS questions)) (VP (VBN collected) (PP (IN through) (NP (DT the) (NN web)))))))))) (. .))

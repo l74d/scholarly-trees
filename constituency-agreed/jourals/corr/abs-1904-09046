@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (, ,) (S (NP (DT a) (NNP Lyapunov) (NN function)) (VP (VBZ is) (VP (VBN sought) (S (VP (TO to) (VP (VB certify) (NP (JJ robust) (NN stability)))))))) (CC and) (S (NP (JJ subsequent) (NN optimization)) (VP (MD can) (VP (VB be) (VP (VBN performed) (S (VP (TO to) (VP (VB find) (NP (JJ optimal) (NN hyperparameter) (NNS tunings))))))))) (. .))

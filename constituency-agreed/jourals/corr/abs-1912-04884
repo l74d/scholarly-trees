@@ -1,0 +1,1 @@
+(S (ADVP (RB Recently)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (JJ much) (NN interest)) (PP (IN in) (S (VP (VBG quantifying) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (JJ neural) (NN network) (NNS classifiers)))) (PP (IN through) (NP (JJ adversarial) (NN risk) (NNS metrics))))))))) (. .))

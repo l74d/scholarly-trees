@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG minimizing) (NP (JJ submodular) (NNS functions)))) (VP (VBZ poses) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ algorithmic) (NNS challenges))))) (. .))
+(S (S (ADVP (RB Empirically)) (, ,) (NP (DT this) (NN algorithm)) (VP (VBZ performs) (ADVP (RB extremely) (RB well)))) (, ,) (CC but) (S (NP (DT no) (JJ theoretical) (NN analysis)) (VP (VBD was) (VP (VBN given)))) (. .))

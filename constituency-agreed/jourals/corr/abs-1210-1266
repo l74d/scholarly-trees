@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN relation)) (VP (VBZ is) (VP (VBN established) (PP (IN by) (S (VP (VBG imposing) (NP (DT a) (NN realizability) (NN constraint)) (PP (IN on) (NP (NP (DT the) (NN reconstruction) (JJ conditional) (NN distribution)) (PP (IN of) (NP (DT the) (JJ classical) (NNP RDF)))))))))) (. .))
+(S (NP (NP (DT The) (NN realization)) (PP (IN of) (NP (NP (DT the) (NN reconstruction) (JJ conditional) (NN distribution)) (SBAR (WHNP (WDT which)) (S (VP (VBZ achieves) (NP (NP (DT the) (NN infimum)) (PP (IN of) (NP (DT the) (JJ nonanticipative) (NNP RDF)))))))))) (VP (VBZ is) (VP (VBN described))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT an) (NN example)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (NNS concepts))))))) (. .))

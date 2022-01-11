@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN learner)) (VP (VBZ gets) (NP (DT the) (JJ required) (NN score))))) (, ,) (NP (DT the) (NN concept)) (VP (MD will) (VP (VB be) (VP (VBN trained)))) (. .))
+(S (ADVP (RB Finally)) (NP (DT the) (NN learner)) (VP (MD will) (VP (VB be) (VP (VBN evaluated) (PP (IN by) (NP (DT a) (NN post-test)))))) (. .))

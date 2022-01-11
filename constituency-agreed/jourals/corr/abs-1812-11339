@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB avoid) (NP (DT these) (NNS artifacts)) (PP (IN by) (S (VP (VBG imposing) (NP (JJ additional) (NNS constraints)) (PP (IN on) (NP (NP (DT the) (NN image) (NNS gradients)) (PP (IN of) (NP (DT the) (JJ novel) (NN view))))))))))))) (. .))

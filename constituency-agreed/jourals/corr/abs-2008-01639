@@ -1,0 +1,2 @@
+(S (SBAR (IN Since) (S (NP (DT a) (JJ continuous) (NN function)) (VP (VBZ is) (VP (VBN learned))))) (, ,) (NP (DT the) (NNS reconstructions)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN extracted) (PP (IN at) (NP (DT any) (JJ arbitrary) (NN resolution)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ large) (NNS datasets)) (PP (JJ such) (IN as) (NP (NNP ShapeNet)))) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB train) (NP (JJ such) (NNS models))))))) (. .))

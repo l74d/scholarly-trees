@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (NN terminology) (CC and) (NN entity) (NNS characters)) (VP (VBP are) (ADVP (JJ first)) (VP (VBN fed) (PP (IN into) (NP (JJ pre-trained) (NN language) (NN model))) (S (VP (TO to) (VP (VB obtain) (NP (JJ semantic) (NN embedding))))))) (. .))

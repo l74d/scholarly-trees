@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB minimize) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS labels)) (VP (VBN crowdsourced) (PP (IN from) (NP (DT the) (NNS annotators)))))))))) (, ,) (NP (PRP we)) (VP (VBP adopt) (NP (DT an) (JJ active) (NN learning) (NN approach))) (. .))
+(S (NP (DT This)) (VP (VBZ yields) (NP (NP (JJ provable) (NNS guarantees)) (PP (IN on) (NP (DT the) (NN regret))))) (. .))

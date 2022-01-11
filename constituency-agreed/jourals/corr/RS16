@@ -1,0 +1,2 @@
+(S (S (VP (VBG Playing) (NP (NN chess)))) (VP (VBZ is) (NP (CD one) (JJ such) (NN task))) (. .))
+(S (PP (PP (IN With) (NP (DT a) (ADJP (RB very) (JJ simple)) (NN setup))) (CC and) (PP (IN after) (NP (NP (QP (RB only) (CD 1000)) (NNS generations)) (PP (IN of) (NP (NN evolution)))))) (, ,) (NP (DT the) (NN player)) (VP (VBZ reaches) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (DT an) (NNP International) (NNP Master))))) (. .))

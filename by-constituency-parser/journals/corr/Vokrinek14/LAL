@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ present) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ same) (NN problem)) (PP (IN for) (NP (NP ($ $) (NNP Y) ($ $)) (NP (DT an) (JJ odd-dimensional) (NN sphere))))) (VP (VBZ is) (ADJP (JJ decidable)))))) (. .))

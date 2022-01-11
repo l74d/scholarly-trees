@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB test) (NP (DT the) (NN approach))))) (, ,) (NP (DT a) (NN simulation)) (VP (VBD was) (VP (VBN used) (, ,) (S (VP (VBG working) (PP (IN with) (NP (NP (JJ realistic) (JJ urban) (NN network) (NNS data)) (CC and) (NP (NN background) (NN traffic) (NNS models)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NN Localization)) (VP (VBZ is) (VP (VBN performed) (PP (IN with) (NP (DT an) (JJ extended) (NNP Kalman) (NN filter))) (PP (IN with) (NP (NP (NN odometry)) (, ,) (NP (NN compass)) (, ,) (CC and) (NP (JJ sparse) (NN landmark) (NN measurement) (NNS updates)))))) (. .))

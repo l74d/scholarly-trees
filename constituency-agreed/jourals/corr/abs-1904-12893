@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (NN architecture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ integrates) (NP (NNP VC)) (PP (IN with) (NP (NP (NNP metro) (NN fog) (NNS nodes)) (CC and) (NP (DT the) (JJ central) (NN cloud)))) (S (VP (TO to) (VP (VB ensure) (NP (NN service) (NN continuity)))))))))) (. .))

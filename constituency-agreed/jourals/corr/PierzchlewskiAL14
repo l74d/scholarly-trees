@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ simple) (JJ numerical) (NN example)) (VP (VBZ demonstrates) (NP (DT the) (NN principle))) (. .))
+(S (S (NP (DT The) (NN work)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (DT an) (JJ ongoing) (NN research) (NN effort)))))) (CC and) (S (NP (DT the) (JJ different) (NN project) (NNS phases)) (VP (VBP are) (VP (VBN explained)))) (. .))

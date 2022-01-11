@@ -1,0 +1,1 @@
+(S (S (NP (JJ Dynamical) (NNS systems)) (VP (MD can) (VP (VB be) (VP (VBN modelled) (PP (IN by) (NP (JJ partial) (JJ differential) (NNS equations))))))) (CC and) (S (NP (JJ numerical) (NNS computations)) (VP (VBP are) (VP (VBN used) (ADVP (RB everywhere)) (PP (IN in) (NP (NN science) (CC and) (NN engineering)))))) (. .))

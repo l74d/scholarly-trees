@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS distances)) (VP (VBP are) (VP (VBN computed) (PP (IN on) (NP (NP (NN frame) (NNS representations)) (VP (VBN obtained) (PP (IN with) (NP (DT a) (JJ convolutional) (JJ neural) (NN network)))))))) (. .))

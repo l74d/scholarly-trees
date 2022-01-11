@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN phrase) (NN tree)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN by) (NP (DT a) (NN matrix))))))) (CC and) (S (NP (NP (DT the) (NNS elements)) (PP (IN of) (NP (DT the) (NN matrix)))) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN by) (NP (NNS triangles))))))) (. .))

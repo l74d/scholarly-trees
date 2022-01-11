@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ special) (NN class)) (VP (VBZ has) (VP (VBN attracted) (NP (JJ strong) (NN interest)) (ADVP (RB very) (RB recently)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (DT the) (NN communication) (NN complexity)) (PP (IN for) (NP (JJ single) (NNS qubits)))) (VP (VBZ is) (ADJP (ADJP (JJR smaller)) (PP (IN than) (NP (CD 1.28) (NNS bits)))))))) (. .))

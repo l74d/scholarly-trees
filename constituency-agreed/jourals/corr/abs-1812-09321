@@ -1,0 +1,2 @@
+(S (NP (NNS Themes)) (VP (VBP are) (VP (VBN defined) (PP (IN by) (NP (DT the) (NN application) (NN documentation) (NNS topics))))) (. .))
+(S (NP (DT The) (JJ other) (NN method)) (VP (VBZ introduces) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NP (JJ thematic) (NN density)) (VP (VBN distributed) (PP (IN around) (NP (NP (JJ specific) (NN word) (NNS positions)) (PP (IN in) (NP (DT a) (NN conversation)))))))))) (. .))

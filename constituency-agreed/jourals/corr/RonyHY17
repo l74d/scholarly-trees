@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (VP (VBZ uses) (NP (NP (VBN distributed) (JJ sub-word) (NNS embeddings)) (VP (VBN learned) (PP (IN from) (NP (DT a) (JJ large) (NN corpus)))))) (. .))
+(S (NP (NP (DT The) (NN accuracy)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBZ is) (NP (CD 98.3) (NN %))) (. .))

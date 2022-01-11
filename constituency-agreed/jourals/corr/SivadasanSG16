@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VP (VBZ is) (ADJP (JJ fast))) (CC and) (VP (VBZ uses) (NP (ADJP (RB very) (JJ small)) (NN memory) (NN footprint)))) (. .))
+(S (NP (NP (JJ Few) (NNS applications)) (PP (IN of) (NP (NP (NN abundance) (NNS histograms)) (VP (VBN computed) (PP (IN by) (NP (NNP Kmerlight))))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN shown))) (. .))

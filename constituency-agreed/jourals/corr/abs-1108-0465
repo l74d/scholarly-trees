@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (NP (DT the) (NNS semantics)) (PP (IN for) (NP (NN process) (NN calculi)))) (VP (VBZ is) (ADJP (JJ compositional))))) (, ,) (NP (DT this)) (VP (VBZ is) (RB not) (NP (NP (DT the) (NN case)) (PP (IN for) (NP (NN graph) (NN transformation) (NNS systems)))) (, ,) (PP (IN in) (ADJP (JJ general)))) (. .))

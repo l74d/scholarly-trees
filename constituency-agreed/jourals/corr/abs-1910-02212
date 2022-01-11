@@ -1,0 +1,2 @@
+(S (NP (CD Two) (NNS heads)) (VP (VP (VBP are) (VP (VBN trained) (ADVP (RB jointly)))) (CC and) (VP (VB enhance) (NP (DT each) (JJ other)))) (. .))
+(S (PP (IN For) (NP (DT the) (NN backbone))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (JJ multi-branch) (JJ multi-scale) (NN graph) (NN convolution) (NNS networks)) (S (VP (TO to) (VP (VB extract) (NP (ADJP (JJ spatial) (CC and) (JJ temporal)) (NNS features)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ operational) (NNS semantics)) (VP (VBZ is) (ADJP (CONJP (RB not) (RB only)) (ADJP (RBR more) (JJ accessible) (PP (IN than) (NP (NN trace) (NNS semantics)))) (CONJP (CC but) (RB also)) (ADJP (JJ indispensable) (PP (IN for) (S (VP (VBG ensuring) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT the) (NN implementation)))))))))) (. .))

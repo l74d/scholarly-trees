@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN problem)) (VP (VBN concerned) (PP (IN in) (NP (DT this) (NN work))))) (VP (VBZ is) (NP (NP (DT the) (NN shape) (NN extraction)) (PP (IN in) (NP (JJ such) (JJ challenging) (NNS situations))))) (. .))
+(S (NP (PRP We)) (VP (VBP approach) (NP (DT the) (NN shape) (NN extraction)) (PP (IN through) (NP (NN shape) (NN alignment) (CC and) (NN recovery)))) (. .))
+(S (NP (PRP$ Our) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (NP (JJ general) (NN model)) (PP (IN of) (NP (NN shape) (NN deformation)))) (PP (IN in) (S (VP (VBG minimizing) (NP (JJ active) (NN contour) (NNS energies))))))))) (. .))

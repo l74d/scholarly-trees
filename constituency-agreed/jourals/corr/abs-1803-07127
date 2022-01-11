@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN control)) (PP (IN under) (NP (JJ relaxed) (NNS constraints)))) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN by) (NP (DT a) (NN threshold))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN in) (NP (DT the) (JJ homogeneous) (NN case))) (NP (DT the) (NN index) (NN policy)) (VP (VBZ is) (ADJP (RB asymptotically) (JJ optimal)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS users)))) (VP (VBZ is) (ADJP (JJ large))))))))) (. .))

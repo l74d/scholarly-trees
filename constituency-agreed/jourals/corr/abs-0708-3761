@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NP (JJ many) (JJ identical) (VBG interacting) (NNS agents)) (VP (VBG obeying) (NP (DT a) (JJ global) (JJ additive) (NN constraint)))))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (NP (DT The) (JJ asymptotic) (NN distribution)) (PP (IN of) (NP (DT that) (JJ statistical) (NN behavior)))) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (JJ geometrical) (NNS arguments))))) (. .))
+(S (NP (NP (DT The) (NN parallelism)) (PP (IN with) (NP (PDT all) (DT these) (NNS systems)))) (VP (VBZ is) (VP (VBN established))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN instance))) (, ,) (S (VP (VBG using) (NP (JJ local) (JJ spectral) (NNS histograms)) (PP (IN as) (NP (NNS features))))) (, ,) (NP (PRP it)) (VP (VBZ allows) (PP (IN for) (NP (JJ robust) (NN texture) (NN segmentation)))) (. .))

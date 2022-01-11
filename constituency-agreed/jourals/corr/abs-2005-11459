@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (NNS probabilities)) (VP (VBP are) (NP (ADJP (RB poorly) (VBN calibrated)) (NN confidence) (NNS estimates)))) (, ,) (CC and) (S (NP (NP (NNS samples)) (PP (IN with) (NP (JJ low) (NNS probabilities)))) (VP (VBP are) (VP (VBN ignored)))) (. .))

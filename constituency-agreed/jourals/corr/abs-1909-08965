@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Traditional) (NNS methods)) (PP (IN in) (NP (DT this) (NN area)))) (VP (VBP have) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ inefficient)))))))) (. .))
+(S (NP (JJ Manual) (NN processing)) (VP (VBZ does) (RB not) (VP (VB scale) (ADVP (RB well)))) (. .))

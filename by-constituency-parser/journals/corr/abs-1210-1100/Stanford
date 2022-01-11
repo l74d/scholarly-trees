@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN formalization)) (PP (IN of) (NP (NP (VBG decreasing) (NNS diagrams)) (PP (IN in) (NP (DT the) (NML (NN theorem) (NN prover)) (NNP Isabelle))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ discusses) (NP (JJ mechanical) (NNS proofs)) (S (VP (VBG showing) (SBAR (IN that) (S (NP (DT any) (NP (ADJP (RB locally) (VBG decreasing)) (JJ abstract) (NML (S (VP (VB rewrite)))) (NN system))) (VP (VBZ is) (ADJP (JJ confluent)))))))) (. .))
+(S (NP (NP (DT The) (NN valley)) (CC and) (NP (NP (DT the) (NN conversion) (NN version)) (PP (IN of) (NP (VBG decreasing) (NNS diagrams))))) (VP (VBP are) (VP (VBN considered))) (. .))

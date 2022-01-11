@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT a) (JJ general) (JJ technical) (NN overview)) (PP (IN of) (NP (DT the) (NNP Multimedia) (NNP Home) (NNP Platform) (PRN (-LRB- -LRB-) (NP (NNP MHP)) (-RRB- -RRB-)) (NNS specifications))))) (. .))
+(S (NP (NNP MHP)) (VP (VBZ is) (NP (NP (DT a) (JJ generic) (NN interface)) (PP (IN between) (NP (NP (JJ digital) (NNS applications)) (CC and) (NP (JJ user) (NNS machines))))) (, ,) (SBAR (IN whether) (S (NP (PRP they)) (VP (VBP happen) (S (VP (TO to) (VP (VB be) (NP (NP (VBN set) (JJ top) (NNS boxes)) (, ,) (NP (JJ digital) (NN TV) (NNS sets)) (CC or) (NP (NNP Multimedia) (NNP PC) (POS 's)))))))))) (. .))
+(S (NP (NNP MHP)) (VP (VBZ extends) (NP (DT the) (NNP DVB) (JJ open) (NNS standards))) (. .))
+(SINV (VP (VBN Addressed)) (VP (VBP are)) (NP (NP (NNP MHP) (NN architexture)) (, ,) (NP (NNP System) (NN core)) (CC and) (NP (NNP MHP) (NNP Profiles))) (. .))

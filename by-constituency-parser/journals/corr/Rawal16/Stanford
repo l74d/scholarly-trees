@@ -1,0 +1,4 @@
+(S (NP (NP (JJ Many) (NNS variants)) (PP (IN of) (NP (NNP RSA) (NN cryptosystem)))) (VP (VBP exist) (PP (IN in) (NP (DT the) (NN literature)))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (PRP them)))) (VP (VBZ is) (NP (NP (NN RSA)) (PP (IN over) (NP (NP (NNS polynomials)) (PP (VBN based) (PP (IN on) (NP (NNP Galois) (NN approach)))))))) (. .))
+(S (PP (IN In) (NP (JJ standard) (NNP RSA))) (NP (NN modulus)) (VP (VBZ is) (NP (NP (NN product)) (PP (IN of) (NP (CD two) (JJ large) (NNS primes)))) (SBAR (IN whereas) (S (PP (IN in) (NP (DT the) (NNP Galois) (NN approach))) (NP (NN author)) (VP (VBD considered) (NP (DT the) (NN modulus)) (PP (IN as) (NP (NP (DT a) (NN product)) (PP (IN of) (NP (CD two) (JJ irriduciable) (NNS polynomials))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP use) (NP (DT this) (NN idea))) (CC and) (VP (VB extend) (NP (NN Multi-prime) (NN RSA)) (PP (IN over) (NP (NNS polynomials))))) (. .))

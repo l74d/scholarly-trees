@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NN issue)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBP have) (VP (VBN written) (NP (DT this) (NN survey) (NN paper))))))) (VP (VBZ is) (NP (NP (NNS losses)) (PP (IN in) (NP (JJ electrical) (NN system))))) (. .))
+(S (NP (NP (NN Theft)) (PP (IN in) (NP (NN electricity)))) (VP (VBP produce) (NP (JJ non-technical) (NNS losses))) (. .))

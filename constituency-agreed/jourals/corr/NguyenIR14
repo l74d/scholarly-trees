@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS techniques)) (VP (VBP anonymize) (NP (DT a) (JJ deterministic) (NN graph)) (PP (IN by) (S (VP (VBG converting) (NP (PRP it)) (PP (IN into) (NP (DT an) (JJ uncertain) (NN form))))))) (. .))

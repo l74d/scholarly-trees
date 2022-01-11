@@ -1,0 +1,2 @@
+(S (ADVP (RB Further)) (, ,) (S (VP (TO to) (VP (VB aid) (NP (NN hardware) (NNS implementations))))) (, ,) (NP (PRP$ our) (NN network)) (VP (VBZ employs) (NP (RB only) (JJ binary) (NNS synapses))) (. .))
+(S (NP (PRP It)) (VP (VBZ trains) (NP (DT the) (NNP WTA) (NN network)) (PP (IN through) (NP (NP (NN formation) (CC and) (NN elimination)) (PP (IN of) (NP (NP (NNS connections)) (PP (IN between) (NP (NNS inputs) (CC and) (NNS synapses)))))))) (. .))

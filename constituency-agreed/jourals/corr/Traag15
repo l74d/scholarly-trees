@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (JJ complex) (NNS networks)) (VP (VBP exhibit) (NP (NP (DT a) (JJ modular) (NN structure)) (PP (IN of) (NP (NP (ADJP (RB densely) (VBN connected)) (NNS groups)) (PP (IN of) (NP (NNS nodes))))))) (. .))
+(S (ADVP (RB Usually)) (, ,) (NP (PDT such) (DT a) (JJ modular) (NN structure)) (VP (VBZ is) (VP (VBN uncovered) (PP (IN by) (NP (NP (DT the) (NN optimization)) (PP (IN of) (NP (DT some) (NN quality) (NN function))))))) (. .))

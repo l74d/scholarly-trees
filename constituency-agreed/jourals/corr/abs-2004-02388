@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Real) (NN quantum) (NN computer)) (PP (IN with) (NP (NN noise)))) (, ,) (ADVP (RB however)) (, ,) (VP (MD may) (VP (VB be) (VP (VBN simulated) (ADVP (RB polynomially)) (PP (IN with) (NP (NP (JJ various) (NNS methods)) (VP (VBG considering) (NP (JJ different) (NN noise) (NNS models)))))))) (. .))

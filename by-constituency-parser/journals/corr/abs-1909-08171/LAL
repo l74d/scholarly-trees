@@ -1,0 +1,6 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NNP Multiple) (NNP Human) (NNP Tracking) (NN method)) (VP (VBG using) (NP (NP (NNS multi-cues)) (PP (VBG including) (NP (NP (JJ Primitive) (NN Action) (NNP Features)) (PRN (-LRB- -LRB-) (NP (NNP MHT-PAF)) (-RRB- -RRB-)))))))) (. .))
+(S (NP (NNP MHT-PAF)) (VP (MD can) (VP (VB perform) (NP (DT the) (JJ accurate) (JJ human) (VBG tracking)) (PP (IN in) (NP (NP (JJ dynamic) (JJ aerial) (NNS videos)) (VP (VBN captured) (PP (IN by) (NP (DT a) (NN drone)))))))) (. .))
+(S (NP (NNP PAF)) (VP (VBZ employs) (NP (NP (DT a) (JJ global) (NN context)) (, ,) (NP (NP (JJ rich) (NN information)) (PP (IN by) (NP (JJ multi-label) (NNS actions)))) (, ,) (CC and) (NP (DT a) (JJ middle) (NN level) (NN feature)))) (. .))
+(S (NP (NP (DT The) (JJ accurate) (JJ human) (VBG tracking) (NN result)) (VP (VBG using) (NP (NNP PAF)))) (VP (VBZ helps) (NP (JJ multi-frame-based) (NN action) (NN recognition))) (. .))
+(S (PP (IN In) (NP (DT the) (NNS experiments))) (, ,) (NP (PRP we)) (VP (VBD verified) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN method)))) (S (VP (VBG using) (NP (DT the) (NNP Okutama-Action) (NN dataset))))) (. .))
+(S (NP (PRP$ Our) (NN code)) (VP (VBZ is) (ADJP (JJ available)) (ADVP (NN online))) (. .))

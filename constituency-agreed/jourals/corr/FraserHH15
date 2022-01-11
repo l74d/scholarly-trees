@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN result)) (VP (VBZ implies) (SBAR (S (NP (NP (DT the) (JJ chromatic) (NN index)) (PP (IN of) (NP (NP (DT a) (NN graph)) (PP (IN with) (NP (NP (DT no) (NN matching)) (PP (IN of) (NP (NN size) (CD four)))))))) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))

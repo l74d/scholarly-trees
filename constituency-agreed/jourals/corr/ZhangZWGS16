@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ is) (ADJP (JJ difficult)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB inherently) (JJ unidentifiable)))))) (. .))
+(S (NP (JJ Recent) (NNS approaches)) (VP (VBP have) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (NN identifiability) (NN problem)) (VP (MD could) (VP (VB be) (VP (VBN reduced) (PP (IN by) (S (VP (VBG introducing) (NP (NN domain) (NN knowledge)) (PP (IN into) (NP (DT the) (NN model))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ convolutional) (JJ neural) (NNS networks)) (S (VP (TO to) (VP (VB train) (NP (DT the) (NN model)))))) (. .))

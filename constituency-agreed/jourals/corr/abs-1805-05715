@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS solvers)) (VP (VP (VBP suffer) (PP (IN from) (NP (JJR lower) (NN convergence) (NN rate)))) (, ,) (CC and) (VP (MD may) (VP (VB take) (NP (DT a) (JJ long) (NN time)) (S (VP (TO to) (VP (VB compute) (NP (DT an) (JJ accurate) (NN result)))))))) (. .))

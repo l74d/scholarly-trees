@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ proposes) (CC and) (VBZ evaluates) (NP (NP (DT a) (JJ lightweight) (NN framework)) (PP (IN for) (S (VP (VBG scheduling) (NP (NP (DT a) (NN workload)) (SBAR (WHNP (WDT which) (NN part)) (S (VP (MD could) (VP (VB be) (ADJP (JJ unreliable)))))))))))) (. .))
+(S (NP (DT This) (NN unreliability)) (VP (MD could) (VP (VB be) (VP (VBN caused) (PP (IN by) (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NNS failures) (CC or) (NNS attacks)))))))) (. .))

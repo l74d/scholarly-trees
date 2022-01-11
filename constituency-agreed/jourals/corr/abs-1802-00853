@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (CD four) (JJ main) (NNS problems)) (PP (IN with) (NP (DT these) (NNS approaches))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (DT the) (NN loss) (NN function)) (VP (VBZ is) (RB not) (ADJP (JJ efficient) (PP (IN for) (NP (NN classification))))) (. .))

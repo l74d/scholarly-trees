@@ -1,0 +1,1 @@
+(S (NP (DT Another) (NN limitation)) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (NN information)) (PP (IN about) (NP (DT the) (NN context)))) (VP (VBZ is) (VP (VBN stored) (PP (IN in) (NP (DT the) (JJ same) (JJ element-wise) (NNS representations)))))))) (. .))

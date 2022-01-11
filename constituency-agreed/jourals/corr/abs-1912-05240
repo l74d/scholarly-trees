@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (DT this) (NN data) (NN augmentation))) (, ,) (NP (DT a) (JJ deep) (JJ residual) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB learn) (NP (NP (DT the) (NN noise) (NN map)) (PP (IN of) (NP (DT the) (JJ noisy) (NNS images))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ stable) (JJ analytic) (NN reconstruction) (NN procedure)) (PP (IN of) (NP (JJ low) (NN complexity)))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (S (NP (NP (DT A) (JJ practical) (NN implementation)) (PP (IN with) (NP (CD 4) (JJ deterministic) (NN diffraction) (NNS patterns)))) (VP (VBZ is) (VP (VBN provided)))) (CC and) (S (NP (NP (DT some) (JJ numerical) (NNS experiments)) (PP (IN with) (NP (JJ noisy) (NNS measurements)))) (VP (VBP complement) (NP (DT the) (JJ analytic) (NN approach)))) (. .))

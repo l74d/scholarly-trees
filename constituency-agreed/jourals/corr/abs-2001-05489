@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ quantitative) (NNS metrics)) (PP (JJ such) (IN as) (NP (NP (JJ pixel-wise) (NN similarity)) (, ,) (NP (JJ structural) (NN level) (NN similarity)) (CC and) (NP (JJ perceptual) (NN level) (NN similarity))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB judge) (NP (DT the) (NN performance))))))) (. .))

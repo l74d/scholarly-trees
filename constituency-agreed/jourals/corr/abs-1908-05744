@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS networks)) (VP (MD can) (VP (VB be) (VP (VBN trained) (PP (IN during) (NP (DT the) (JJ same) (NN training) (NN cycle))) (S (VP (TO to) (VP (VB decrease) (NP (DT the) (NN training) (NN time)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (, ,) (S (PP (IN after) (NP (NP (DT a) (JJ sufficient) (NN number)) (PP (IN of) (NP (NNS iterations))))) (, ,) (NP (NP (DT the) (NN inverse)) (VP (VBG using) (NP (JJ iterative) (NNS methods)))) (VP (MD can) (VP (VB provide) (NP (DT a) (JJ similar) (NN error) (NN performance))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ current) (JJ multi-tasking) (NN optimization) (NNS algorithms)) (VP (VBP have) (NP (DT some) (NNS deficiencies))) (. .))
+(S (PP (IN For) (NP (JJ low) (NN similarity) (NNS problems))) (, ,) (NP (NP (DT the) (NN probability)) (PP (IN of) (S (VP (VBG generating) (NP (JJ negative) (NN transfer)))))) (VP (VBZ is) (ADJP (JJ high)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB result) (PP (IN in) (NP (NN optimization) (NN performance) (NN degradation)))))))) (. .))

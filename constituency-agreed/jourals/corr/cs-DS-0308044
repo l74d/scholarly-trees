@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (JJ new) (NN method)) (PP (IN of) (NP (NP (JJ hierarchical) (NN clustering)) (PP (IN of) (NP (NN graph) (NNS vertexes)))))) (VP (VBZ is) (VP (VBN suggested))) (. .))
+(S (NP (NP (JJ Iterative) (NN application)) (PP (IN of) (NP (DT the) (NN partitioning)))) (VP (VBZ yields) (NP (NP (DT a) (JJ hierarchical) (NN clustering)) (PP (IN of) (NP (NN graph) (NNS vertexes))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NNS tests)))) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN classification)) (VP (VBN obtained))) (VP (VBZ is) (ADJP (JJ adequate)))))) (. .))

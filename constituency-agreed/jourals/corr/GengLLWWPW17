@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NP (DT the) (NNS problems)) (PP (IN of) (NP (NN image) (NN retrieval) (CC and) (NN annotation))))) (, ,) (NP (NP (JJ complete) (JJ textual) (NN tag) (NNS lists)) (PP (IN of) (NP (NNS images)))) (VP (VBP play) (NP (JJ critical) (NNS roles))) (. .))
+(S (NP (NP (DT The) (NNP CNN) (NNS parameters)) (, ,) (NP (JJ linear) (NN predictor)) (, ,) (CC and) (NP (DT the) (JJ complete) (NNS tags))) (VP (VBP are) (VP (VBN learned) (ADVP (RB jointly)) (PP (IN by) (NP (PRP$ our) (NN method))))) (. .))
+(S (NP (DT An) (JJ iterative) (NN algorithm)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN minimization) (NN problem))))))) (. .))

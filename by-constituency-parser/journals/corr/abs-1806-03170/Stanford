@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (PP (IN for) (NP (NP (DT every) (JJ simple) (NN game)) (PP (IN with) (NP (NN n) (NNS players))))) (NP (DT the) (JJ critical) (NN threshold) (NN value)) (VP (VBZ is) (ADVP (IN at) (RBS most)) (NP (NP (NN n)) (PP (SYM /) (NP (CD 4)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ verifies) (NP (NP (DT the) (NN conjecture)) (PP (IN of) (NP (NNP Freixas) (CC and) (NNP Kurz))))) (. .))

@@ -1,0 +1,3 @@
+(NP (NP (NN Computation)) (PP (IN of) (NP (NP (DT the) (JJ extended) (NN gcd)) (PP (IN of) (NP (CD two) (JJ quadratic) (NNS integers))))) (. .))
+(S (NP (NP (DT The) (NN ring)) (PP (IN of) (NP (NP (NNS integers)) (VP (VBN considered))))) (VP (VP (VBZ is) (ADJP (JJ principal))) (CC but) (VP (MD could) (VP (VB be) (NP (ADJP (JJ euclidean) (CONJP (CC or) (RB not)) (JJ euclidean)) (NN ring))))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBP rely) (PP (IN on) (NP (NP (JJ principal) (JJ ideal) (NN ring) (CC and) (NN reduction)) (PP (IN of) (NP (JJ binary) (JJ quadratic) (NNS forms)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ second) (NN cost) (NN function)) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (NP (DT the) (NN cross) (NN relation)) (PP (IN between) (NP (DT the) (NN receiver) (NNS channels))))))) (. .))
+(S (S (VP (TO To) (VP (VB estimate) (NP (DT the) (NNS parameters))))) (, ,) (NP (PRP we)) (VP (VBP seek) (PP (IN for) (NP (NP (DT the) (NN minimum)) (PP (IN of) (NP (DT these) (NN cost) (NNS functions)))))) (. .))

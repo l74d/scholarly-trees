@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NNS semantics)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ fuzzy) (NNS sets)) (PP (IN of) (NP (NNS interpretations))))))) (. .))
+(S (NP (DT A) (JJ possibilistic) (NN knowledge) (NN base)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN viewed) (PP (IN as) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN possibility) (NNS distributions)) (SBAR (WHNP (WDT that)) (S (VP (VBP satisfy) (NP (PRP it))))))))))) (. .))

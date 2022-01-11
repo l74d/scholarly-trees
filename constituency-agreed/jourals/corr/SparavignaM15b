@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (PP (IN as) (NP (NP (DT a) (NN criterion)) (PP (IN for) (S (VP (VBG optimizing) (NP (DT the) (NN filtering) (NNS parameters))))))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN maximization)) (PP (IN of) (NP (DT the) (NN image) (NN entropy))))) (. .))

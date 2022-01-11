@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NN practice))) (, ,) (NP (NP (NN information)) (PP (IN about) (NP (NP (DT the) (JJ global) (NN structure)) (PP (IN of) (NP (DT the) (NN contact) (NN network)))))) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ available)))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (NN immunization) (NNS strategies)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB deal) (PP (IN with) (NP (NP (DT a) (JJ limited) (NN knowledge)) (PP (IN of) (NP (DT the) (NN network) (NN structure)))))))))) (VP (VBP are) (VP (VBN required))) (. .))

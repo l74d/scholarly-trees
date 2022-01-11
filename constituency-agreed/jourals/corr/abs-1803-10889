@@ -1,0 +1,2 @@
+(S (NP (NP (DT These) (NNS kinds)) (PP (IN of) (NP (JJ neural) (NNS networks)))) (VP (VBP have) (VP (VBN distinguished) (NP (NN performance)))) (. .))
+(S (NP (DT These) (JJ adversarial) (NNS examples)) (VP (MD can) (VP (VB increase) (NP (NP (DT the) (NN detection) (NN error)) (PP (IN of) (NP (JJ steganalytic) (NNP CNN)))))) (. .))

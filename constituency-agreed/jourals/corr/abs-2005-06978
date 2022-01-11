@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (ADJP (RB newly) (VBN introduced)) (NNS products))) (NP (JJ insufficient) (NN training) (NNS data)) (VP (VBZ is) (ADJP (JJ available) (S (VP (TO to) (VP (VB train) (NP (JJ accurate) (NNS models))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN case))) (, ,) (NP (JJ human) (NN expert) (NNS systems)) (VP (VBP are) (VP (VBN implemented) (S (VP (TO to) (VP (VB improve) (NP (NN prediction) (NN performance))))))) (. .))

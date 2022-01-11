@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG evaluating) (NP (NN image) (NN description) (NN generation) (NNS systems))))))) (. .))
+(S (NP (DT The) (JJ metric)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ able) (S (VP (TO to) (VP (VB take) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (JJ relative) (NN importance)) (PP (IN of) (NP (NP (NNS objects)) (VP (VBN mentioned) (PP (IN in) (NP (JJ human) (NN reference) (NNS descriptions))) (PP (IN during) (NP (NN evaluation)))))))))))) (. .))

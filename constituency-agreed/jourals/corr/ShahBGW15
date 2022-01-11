@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB propose) (CC and) (VB study) (NP (NP (NNS algorithms)) (SBAR (WHNP (WDT that)) (S (VP (VBP achieve) (NP (DT the) (NN minimax) (NN rate)) (PP (IN over) (NP (NP (JJ interesting) (NNS sub-classes)) (PP (IN of) (NP (DT the) (JJ full) (ADJP (RB stochastically) (JJ transitive)) (NN class)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP complement) (NP (PRP$ our) (JJ theoretical) (NNS results)) (PP (IN with) (NP (JJ thorough) (JJ numerical) (NNS simulations)))) (. .))

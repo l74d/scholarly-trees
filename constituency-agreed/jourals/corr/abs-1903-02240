@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB further)) (VP (VB improve) (NP (NP (DT the) (JJ perceptual) (NN quality)) (PP (IN of) (NP (DT the) (NN output)))) (PP (IN by) (S (VP (VBG employing) (NP (NP (DT the) (JJ adversarial) (NN learning) (NN paradigm)) (CC and) (NP (DT a) (JJ multi-scale) (NN discriminator) (NN approach))))))) (. .))

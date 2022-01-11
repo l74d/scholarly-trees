@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG training) (NP (DT a) (JJ good) (NNP CNN) (NN model)))) (VP (MD can) (ADVP (RB still)) (VP (VB be) (NP (DT a) (JJ challenging) (NN task)))) (. .))
+(S (NP (DT A) (NN case) (NN study)) (VP (VBZ has) (VP (VBN been) (VP (VBN conducted) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN system)))))))))) (. .))

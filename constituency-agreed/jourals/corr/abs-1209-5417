@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG recognizing) (NP (NN speech)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (JJ high) (NN gain) (CC and) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (. .))

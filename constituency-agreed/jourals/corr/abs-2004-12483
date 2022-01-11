@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Weak) (NNS functions)) (CC and) (NP (JJ weak) (NNS derivatives))) (VP (MD can) (VP (VB be) (VP (VBN approximated) (PP (IN by) (NP (NP (NNS polynomials)) (PP (IN with) (NP (JJ various) (NNS degrees)))))))) (. .))
+(S (NP (DT These) (NNS tables)) (VP (VBP serve) (NP (CD two) (NNS purposes))) (. .))

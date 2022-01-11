@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT an) (JJ adaptive) (NN pruning) (NN method))) (. .))
+(S (NP (DT This) (NN method)) (VP (MD can) (VP (VB cut) (PRT (RP off)) (NP (DT the) (NN channel) (CC and) (NN layer)) (ADVP (RB adaptively)))) (. .))

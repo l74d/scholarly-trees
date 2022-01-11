@@ -1,0 +1,2 @@
+(S (ADVP (RB First) (CC and) (RB foremost)) (, ,) (NP (PRP it)) (VP (VBZ provides) (NP (NP (DT a) (JJ consistent) (NN interface)) (PP (IN of) (NP (NN communication))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (DT a) (NN comparison)) (PP (IN of) (NP (JJ various) (NNS results)))) (VP (VBZ is) (ADJP (RBR less) (JJ complicated))) (. .))

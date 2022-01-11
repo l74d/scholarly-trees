@@ -1,0 +1,2 @@
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (CD four) (NN benchmark) (NN network) (NNS datasets))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADJP (RB particularly) (JJ significant)) (SBAR (IN because) (S (NP (NP (DT the) (NN addition)) (PP (IN of) (NP (DT the) (JJ third) (NN objective)))) (VP (VBZ does) (RB not) (VP (VB worsen) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (DT the) (JJ other) (CD two) (NNS objectives))))))))) (. .))

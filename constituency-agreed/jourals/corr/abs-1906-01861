@@ -1,0 +1,2 @@
+(S (PP (IN Among) (NP (NP (DT the) (VBN known) (NNS challenges)) (PP (IN in) (NP (NN graph) (NN generation) (NNS tasks))))) (, ,) (NP (NP (NN scalability) (NN handling)) (PP (IN of) (NP (JJ large) (NNS graphs) (CC and) (NNS datasets)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important))) (PP (IN for) (NP (JJ practical) (NNS applications))))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP apply) (NP (CD two) (NNS techniques)) (S (VP (TO to) (VP (VB reduce) (NP (JJ computational) (NN complexity)))))) (. .))

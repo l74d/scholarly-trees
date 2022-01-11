@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (NP (PRP it)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NP (DT the) (NN aggregation)) (PP (IN of) (NP (NN feature) (NNS vectors))))) (S (VP (TO to) (VP (VB generate) (NP (JJ discriminative) (NNS embeddings))))))) (. .))

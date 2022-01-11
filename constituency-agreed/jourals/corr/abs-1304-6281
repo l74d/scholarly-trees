@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (JJ many) (JJ practical) (NNS applications))) (, ,) (NP (DT this) (NN requirement)) (VP (MD may) (VP (VB be) (ADJP (RB too) (JJ restrictive)))) (. .))
+(S (NP (NP (DT A) (NN generalization)) (PP (IN of) (NP (DT the) (JJ standard) (NN sparsity) (NN assumption)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN signal)) (VP (VBZ lies) (PP (IN in) (NP (NP (DT a) (NN union)) (PP (IN of) (NP (NNS subspaces))))))))) (. .))

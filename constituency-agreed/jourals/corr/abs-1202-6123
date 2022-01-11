@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP consider) (NP (NN nondeterminism)) (PP (IN in) (NP (PRP$ our) (NNS models)))) (. .))
+(S (ADVP (RB Hence)) (, ,) (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB check) (PP (PP (IN for) (NP (NN equivalence))) (, ,) (CC but) (PP (IN for) (NP (NN refinement)))))) (. .))

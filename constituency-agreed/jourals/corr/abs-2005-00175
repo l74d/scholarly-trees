@@ -1,0 +1,1 @@
+(S (PP (IN During) (NP (DT the) (NN finetuning) (NN process))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT this) (NN learner)) (S (VP (TO to) (VP (VB decide) (SBAR (IN whether) (CC or) (RB not) (S (NP (DT each) (VBN given) (NN example)) (VP (MD should) (VP (VB be) (VP (VP (VBN trained) (PP (IN on))) (CC or) (VP (VBN skipped))))))))))) (. .))

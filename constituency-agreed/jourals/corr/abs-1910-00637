@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many) (NNS techniques)) (PP (IN for) (NP (NP (JJ automatic) (NN paraphrase) (NN mining)) (PP (IN from) (NP (JJ general) (NNS corpora)))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (NP (DT The) (VBG resulting) (NN graph)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (NN candidate) (NNS paraphrases))))))) (. .))

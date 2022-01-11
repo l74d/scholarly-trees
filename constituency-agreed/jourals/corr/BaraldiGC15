@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (PP (IN by) (S (VP (VBG comparing) (NP (PRP$ our) (NN algorithm)) (PP (IN against) (NP (NP (JJ recent) (NNS proposals)) (PP (IN for) (NP (JJ automatic) (NN scene) (NN segmentation))))))))))))) (. .))

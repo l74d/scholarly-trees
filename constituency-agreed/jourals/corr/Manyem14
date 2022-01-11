@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (DT the) (NNS domains)) (, ,) (NP (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NNS vertices)))) (CC and) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NNS edges))))) (, ,)) (VP (VBP are) (VP (VBN ordered)))))) (. .))

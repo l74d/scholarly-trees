@@ -1,0 +1,2 @@
+(S (SBAR (IN Since) (S (NP (NNP PCA)) (VP (VBZ is) (VP (VBN performed) (PP (IN by) (S (VP (VBG using) (NP (RB only) (JJ explanatory) (NNS variables))))))))) (, ,) (NP (DT the) (JJ principal) (NNS components)) (VP (VBP have) (NP (NP (DT no) (NN information)) (PP (IN about) (NP (DT the) (NN response) (NN variable))))) (. .))
+(S (NP (DT An) (NN estimation) (NN algorithm)) (VP (VBZ is) (VP (VBN developed) (PP (IN by) (S (VP (VBG using) (NP (NP (VBG alternating) (NN direction) (NN method)) (PP (IN of) (NP (NNS multipliers))))))))) (. .))

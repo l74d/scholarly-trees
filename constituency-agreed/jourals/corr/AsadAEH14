@@ -1,0 +1,1 @@
+(S (NP (NNS Features) (NN selection)) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN step)) (PP (IN for) (NP (JJ successful) (NNS data) (NN classification)))) (, ,) (SBAR (IN since) (S (NP (PRP it)) (VP (VBZ reduces) (NP (DT the) (NNS data) (NN dimensionality)) (PP (IN by) (S (VP (VBG removing) (NP (JJ redundant) (NNS features))))))))) (. .))

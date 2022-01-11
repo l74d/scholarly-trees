@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (NNS classes)) (PP (IN of) (NP (NNS decoders))) (, ,) (PP (IN with) (CC and) (IN without) (NP (NN interference) (NN cancellation))) (, ,)) (VP (VBP are) (VP (VBN studied))) (. .))
+(S (NP (JJ Achievable) (NNS rates)) (VP (VBP are) (VP (VP (VBN established) (PP (IN by) (NP (NN analysis)))) (CC and) (VP (VBN illustrated) (PP (IN by) (NP (NNS simulations)))))) (. .))

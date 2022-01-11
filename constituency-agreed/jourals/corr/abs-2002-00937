@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP want) (S (VP (TO to) (VP (VB detect) (SBAR (IN whether) (S (NP (DT a) (JJ particular) (NN image) (NN dataset)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT a) (NN model)))))))))))))) (. .))

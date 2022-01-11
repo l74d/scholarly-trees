@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN response)) (PP (IN of) (NP (DT this) (NN system)))) (VP (VBZ is) (ADJP (JJ non-smooth)))) (CC and) (S (NP (DT the) (JJ kinematic) (NNS variables)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN written) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (JJ dynamic) (NNS variables))))) (, ,) (ADVP (RB explicitly)))))) (. .))

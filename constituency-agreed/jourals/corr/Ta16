@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN security) (NNS properties)) (PP (IN of) (NP (DT the) (VBN proposed) (NN system)))) (VP (VBP have) (VP (VBN been) (VP (VBN discussed) (CC and) (VBN analysed) (S (VP (VBG using) (NP (DT the) (NNP ProVerif) (NN protocol) (NN verification) (NN tool))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (NNS VANETs)) (VP (VBP have) (VP (VBN received) (NP (JJ wide) (NN attention))))) (CC and) (S (NP (JJ numerous) (NN research) (NNS issues)) (VP (VBP have) (VP (VBN been) (VP (VBN identified) (PP (IN in) (NP (DT the) (JJ recent) (NN time))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN justified) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (NP (PRP$ our) (VBN proposed) (NN protocol)) (PP (IN for) (NP (NNP VANET)))))))) (. .))

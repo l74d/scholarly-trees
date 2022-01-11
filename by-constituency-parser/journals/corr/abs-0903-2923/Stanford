@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB prove) (NP (DT an) (NN uncertainty) (NN principle)) (PP (IN for) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (NP (DT a) (NN vector)) (PP (IN in) (NP (CD two) (NNS bases))))))))))) (. .))
+(S (NP (PRP$ Our) (NN result)) (VP (VBZ extends) (NP (ADJP (RB previously) (VBN known)) (JJ qualitative) (NN uncertainty) (NNS principles)) (PP (IN into) (NP (JJ quantitative) (NNS estimates)))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB transfer) (NP (DT this) (NN result)) (PP (IN to) (NP (NP (DT the) (JJ discrete) (NN version)) (PP (IN of) (NP (DT the) (JJ Short) (NNP Time) (NNP Fourier) (NNP Transform)))))))))) (. .))
+(S (NP (NP (DT An) (NN application)) (PP (IN to) (NP (JJ trigonometric) (NNS polynomials)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP Shapelet)) (VP (VBZ is) (NP (NP (DT a) (JJ discriminative) (NN subsequence)) (PP (IN of) (NP (NN time) (NN series))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ shows) (NP (JJ several) (NNS limitations))) (. .))

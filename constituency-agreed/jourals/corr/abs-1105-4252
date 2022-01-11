@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Users)) (PP (IN of) (NP (NNP MapReduce)))) (ADVP (RB often)) (VP (VBP run) (PP (IN into) (NP (NN performance) (NNS problems))) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP scale) (PRT (RP up)) (NP (PRP$ their) (NNS workloads)))))) (. .))

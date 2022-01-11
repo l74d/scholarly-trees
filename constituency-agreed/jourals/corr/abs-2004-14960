@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ semantic) (NN segmentation))))) (, ,) (NP (DT this)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (NN pixelwise) (NNS annotations)))) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB learn) (NP (JJ accurate) (NNS models)))))))))) (. .))

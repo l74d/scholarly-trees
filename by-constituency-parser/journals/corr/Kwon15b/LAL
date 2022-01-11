@@ -1,0 +1,5 @@
+(S (NP (NP (NNP Logic) (VBG programming)) (PP (IN with) (NP (JJ fixed-point) (NNS definitions)))) (VP (VBZ is) (NP (NP (DT a) (JJ useful) (NN extension)) (PP (IN of) (NP (JJ traditional) (JJ logic) (NN programming))))) (. .))
+(S (NP (JJ Fixed-point) (NNS definitions)) (VP (MD can) (VP (VB capture) (NP (NP (JJ simple) (NN model) (VBG checking) (NNS problems)) (CC and) (NP (JJ closed-world) (NNS assumptions))))) (. .))
+(S (NP (PRP$ Its) (JJ operational) (NNS semantics)) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN based) (PP (IN on) (NP (JJ intuitionistic) (NN provability))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (NP (DT the) (JJ operational) (NNS semantics)) (PP (IN of) (NP (DT these) (NNS languages)))) (PP (IN with) (NP (NN game) (NNS semantics)))) (. .))
+(S (S (NP (DT This) (JJ extended) (NN semantics)) (VP (VBZ has) (NP (JJ several) (JJ interesting) (NNS aspects)))) (: :) (S (PP (IN in) (NP (JJ particular))) (, ,) (NP (PRP it)) (VP (VBZ gives) (NP (DT a) (JJ logical) (NN status)) (PP (TO to) (NP (DT the) (ADJP ($ $) (JJ read)) ($ $) (NN predicate))))) (. .))

@@ -1,0 +1,3 @@
+(S (S (VP (VBG Adopting) (NP (DT the) (NN cloud) (NN computing)))) (VP (VBZ is) (PP (IN like) (S (VP (VBG signing) (PRT (RP up)) (NP (NP (JJ new) (NN form)) (PP (IN of) (NP (DT a) (NN website)))))))) (. .))
+(S (NP (NP (DT The) (NN difficulty) (NN part)) (PP (IN in) (NP (NN cloud) (NN computing)))) (VP (VBZ is) (S (VP (TO to) (VP (VB deploy) (PP (IN in) (NP (JJ real) (NN environment))))))) (. .))
+(S (PP (IN By) (S (VP (VBG using) (NP (DT the) (NN simulator))))) (NP (PRP it)) (VP (MD will) (VP (VB save) (NP (PRP us)) (NP (NP (NNS lots)) (PP (IN of) (NP (NN time) (CC and) (NN money)))))) (. .))

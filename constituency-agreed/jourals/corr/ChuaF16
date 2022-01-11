@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN approach)) (VP (VP (VBZ is) (VP (VBN motivated) (PP (IN by) (NP (NP (NNS applications)) (PP (IN in) (NP (NN image) (NN analysis))))))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (NNS priors)) (VP (VBN defined) (PP (IN by) (NP (JJ stochastic) (NNS grammars))))))))))) (. .))
+(S (NP (CD One) (NN application)) (VP (VBZ involves) (NP (NP (DT the) (NN reconstruction)) (PP (IN of) (NP (JJ binary) (NN contour) (NNS maps))))) (. .))

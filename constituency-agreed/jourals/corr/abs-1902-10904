@@ -1,0 +1,1 @@
+(S (PP (IN For) (S (VP (VP (VBG training) (NP (DT the) (JJ deep) (JJ neural) (NN network))) (CC and) (VP (VBG testing) (NP (DT the) (JJ entire) (NN system)))))) (, ,) (NP (JJ realistic) (JJ synthetic) (JJ urban) (NNS datasets)) (VP (VBP are) (VP (VBN rendered) (S (VP (VBG using) (NP (NNP Blender)))))) (. .))

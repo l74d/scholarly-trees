@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (JJ negative) (NN sampling) (NN trick)) (SBAR (WHNP (WDT which)) (S (VP (VBZ corrupts) (NP (CONJP (RB not) (RB only)) (NP (NNS entities)) (, ,) (CONJP (CC but) (RB also)) (NP (NNS relations))) (, ,) (PP (IN in) (NP (JJ different) (NNS probabilities)))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ is) (ADJP (JJ effective)))))) (. .))

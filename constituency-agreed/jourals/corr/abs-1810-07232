@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Various) (NNS processes)) (PP (IN for) (NP (NP (DT the) (JJ conceptual) (NN structuring)) (PP (IN of) (NP (NN hypertext)))))) (VP (VBP are) (VP (VBN discussed) (: :) (NP (NP (NN summarization)) (, ,) (NP (JJ conceptual) (NN scaling)) (, ,) (CC and) (NP (NP (DT the) (NN creation)) (PP (IN of) (NP (JJ conceptual) (NNS links))))))) (. .))
+(S (NP (NP (DT The) (JJ important) (NN notion)) (PP (IN of) (NP (JJ conceptual) (NN linkage)))) (VP (VBZ is) (VP (VBN introduced) (PP (IN as) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT a) (NN hyperlink))))))) (. .))

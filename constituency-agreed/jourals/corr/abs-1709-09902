@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ current) (JJ deep) (NN net) (NNS architectures)) (VP (VP (VBP are) (ADJP (JJ heavy) (PP (IN with) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS parameters))))))) (CC and) (VP (VBP require) (NP (NP (NNS billions)) (PP (IN of) (NP (VBG floating) (NN point) (NNS operations)))))) (. .))

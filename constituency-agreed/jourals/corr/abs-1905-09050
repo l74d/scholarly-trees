@@ -1,0 +1,2 @@
+(S (NP (NNP Matrix) (NNP Factorization)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (JJ non-convex) (NN optimization) (NN problem)) (, ,) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (VBG alternating) (NN minimization) (NNS schemes)) (VP (VBP are) (ADVP (RB mostly)) (VP (VBN used))))))) (. .))
+(S (NP (DT A) (NN remedy)) (VP (VBZ is) (NP (JJ non-alternating) (NNS schemes))) (. .))

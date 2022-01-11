@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN result)) (VP (VBZ gives) (NP (NP (DT a) (ADJP (RB purely) (JJ continuous)) (ADJP (JJ elegant) (CC and) (JJ simple)) (NN characterization)) (PP (IN of) (NP (NNP PTIME))))) (. .))
+(S (NP (PRP We)) (VP (VBP believe) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (NN complexity) (NNS classes)) (VP (VBP are) (VP (VBN characterized) (S (VP (VBG using) (NP (RB only) (JJ ordinary) (JJ differential) (NNS equations))))))))))))) (. .))

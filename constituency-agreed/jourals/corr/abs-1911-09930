@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Intrinsic) (NN image) (NN decomposition)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN task)) (PP (IN in) (NP (NN computer) (NN vision))))))) (, ,)) (VP (VBZ aims) (S (VP (TO to) (VP (VB infer) (NP (NP (DT the) (NN reflectance) (CC and) (NN shading)) (PP (IN of) (NP (DT the) (NN scene)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT An) (NN ontology)) (VP (VBZ uses) (NP (JJ formal) (NNS axioms)) (S (VP (TO to) (VP (VB constrain) (NP (NP (DT the) (NN interpretation)) (PP (IN of) (NP (DT these) (NNS primitives)))))))) (. .))
+(S (PP (IN In) (ADJP (JJ short))) (, ,) (NP (DT an) (NN ontology)) (VP (VBZ specifies) (NP (DT a) (JJ logical) (NN theory))) (. .))

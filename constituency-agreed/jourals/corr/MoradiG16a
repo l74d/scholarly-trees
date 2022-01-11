@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN summarizer)) (VP (VP (VBZ selects) (NP (DT the) (ADJP (RBS most) (JJ related) (CC and) (JJ informative)) (NNS sentences))) (CC and) (VP (VBZ generates) (NP (DT the) (JJ final) (NN summary)))) (. .))

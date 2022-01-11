@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (DT the) (NN model)) (VP (VBZ is) (ADJP (RB very) (JJ efficient) (PP (IN in) (S (VP (VBG generating) (NP (NP (NNS representations)) (PP (IN of) (NP (JJ unseen) (NNS documents)))) (PP (IN at) (NP (NN test) (NN time)))))))) (. .))

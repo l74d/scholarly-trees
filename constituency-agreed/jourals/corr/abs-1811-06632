@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Symbolic) (NN analysis)) (PP (IN of) (NP (NP (NN security) (NNS exploits)) (PP (IN in) (NP (JJ smart) (NNS contracts)))))) (VP (VBZ has) (VP (VBN demonstrated) (S (VP (TO to) (VP (VB be) (ADJP (JJ valuable) (PP (IN for) (S (VP (VBG analyzing) (NP (JJ predefined) (NN vulnerability) (NNS properties))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB have) (NP (NP (JJR safer) (JJ smart) (NNS contracts)) (PP (IN against) (NP (VBG emerging) (NNS threats)))))))) (. .))

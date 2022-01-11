@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (NN order) (S (VP (TO to) (VP (VB improve) (NP (NP (NNS children)) (NP (NN speech) (NN therapy)))))))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (DT a) (JJ Fuzzy) (NML (NNP Expert) (NNP System)) (ADJP (VBN based) (PP (IN on) (NP (DT a) (NN speech)))) (NN therapy) (NN guide))) (. .))
+(S (NP (NP (DT This) (NN guide)) (, ,) (NP (NP (NN write)) (PP (IN in) (NP (JJ natural) (NN language)))) (, ,)) (VP (VBD was) (VP (VBN formalized) (S (VP (VBG using) (NP (JJ fuzzy) (NN logic) (NN paradigm)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN manner))) (NP (PRP we)) (VP (VBP obtain) (NP (DT a) (NN knowledge) (NN base)) (PP (IN with) (NP (NP (QP (IN over) (CD 150)) (NNS rules)) (CC and) (NP (CD 19) (JJ linguistic) (NNS variables))))) (. .))
+(S (NP (NP (PDT All) (DT these) (NNS researches)) (, ,) (PP (VBG including) (NP (NN expert) (NN system) (NN validation))) (, ,)) (VP (VBP are) (NP (NP (NN part)) (PP (IN of) (NP (NNP TERAPERS) (NN project))))) (. .))

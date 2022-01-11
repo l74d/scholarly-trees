@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ uses) (NP (DT a) (JJ single) (JJ dynamic) (NN program)) (S (VP (TO to) (VP (VB solve) (NP (NP (DT all)) (PP (IN of) (NP (DT the) (NN optimization) (NNS problems)))) (ADVP (RB simultaneously)))))) (. .))

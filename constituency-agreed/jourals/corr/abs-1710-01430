@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (JJ computational) (NN fabric)) (VP (MD can) (VP (VB be) (VP (VBN tampered) (PP (IN with))))))) (, ,) (NP (PRP we)) (VP (MD may) (ADVP (RB no) (RB longer)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB trust) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT the) (NN computation)))))))))) (. .))

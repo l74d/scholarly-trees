@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (NP (DT the) (NNS models)) (VP (VBN learned) (PP (IN by) (NP (PRP$ our) (NN method))))) (ADVP (RB still)) (VP (VB allow) (PP (IN for) (NP (JJ joint) (NN inference))) (PP (IN at) (NP (NN test) (NN time)))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (DT this)) (PP (IN on) (NP (NP (CD two) (JJ new) (NNS datasets)) (SBAR (WHNP (WDT that)) (S (VP (VBP form) (NP (NP (DT a) (JJ second) (NN contribution)) (PP (IN of) (NP (DT this) (NN paper)))))))))) (. .))

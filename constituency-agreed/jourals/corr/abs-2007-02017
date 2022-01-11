@@ -1,0 +1,1 @@
+(S (NP (NNP Model) (NN quantization)) (VP (VBZ helps) (S (VP (TO to) (VP (VB reduce) (NP (NP (NN model) (NN size) (CC and) (NN latency)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))))))) (. .))

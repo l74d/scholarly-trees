@@ -1,0 +1,3 @@
+(S (NP (ADJP (JJ Micro-) (CC and) (JJ molecular-robotic)) (NNS systems)) (VP (NN act) (PP (IN as) (NP (JJ large-scale) (NNS swarms)))) (. .))
+(S (NP (NP (NNS Capabilities)) (PP (IN of) (NP (NP (NN sensing)) (, ,) (NP (NN communication)) (CC and) (NP (NN information) (NN processing))))) (VP (VBP are) (ADJP (RB very) (JJ limited)) (PP (IN on) (NP (DT these) (NNS scales)))) (. .))
+(S (NP (DT This) (JJ short) (NN position) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (JJ swarm-based) (JJ minimalistic) (NN approach)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN for) (S (VP (VBG coordinating) (NP (NP (JJ collective) (NN behavior)) (PP (IN in) (NP (JJ such) (NNS systems)))))))))))))) (. .))

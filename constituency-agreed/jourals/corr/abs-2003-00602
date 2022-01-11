@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VP (VBZ is) (ADJP (RBR more) (JJ robust))) (CC and) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (NP (JJR smaller) (NN variance)) (PP (IN than) (NP (NP (JJ individual) (NNS models)) (VP (VBN learned) (PP (IN by) (NP (JJ independent) (NNS entities)))))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (JJ Such) (NNS modules)) (ADVP (RB typically)) (VP (VBP represent) (NP (NP (NNS data) (NNS layers)) (, ,) (NP (NNS encoders)) (, ,) (NP (NNS decoders)) (, ,) (NP (NN language) (NNS models)) (, ,) (NP (NN loss) (NNS functions)) (, ,) (CC or) (NP (NP (NNS methods)) (PP (IN of) (S (VP (VBG combining) (NP (NNS activations)))))))) (. .))

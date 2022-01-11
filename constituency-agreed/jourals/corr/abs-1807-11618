@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (JJ effective) (NN solution)) (PP (IN for) (NP (NN information) (NN overload))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (NP (DT the) (NN part)) (PP (IN of) (NP (NN speech) (NN tagger)))) (VP (VBZ is) (VP (VBN utilized) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN dimension)) (PP (IN of) (NP (NNP LSA))))))))) (. .))

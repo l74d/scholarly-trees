@@ -1,0 +1,3 @@
+(S (ADVP (RB Recently)) (, ,) (NP (JJ new) (VBN automated) (NNS approaches)) (VP (VBP are) (VP (VBG becoming) (ADJP (RBR more) (JJ useful)))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP Suncode) (NNS summaries)) (VP (MD can) (VP (VB improve) (CC and) (VB support) (NP (DT the) (JJ current) (NN software) (NN documentation)))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBD found) (SBAR (IN that) (S (NP (ADJP (RB manually) (VBN written)) (NNS summaries)) (VP (VBD were) (ADJP (RBR more) (JJ precise) (CC and) (JJ short)) (ADVP (RB as) (RB well)))))) (. .))

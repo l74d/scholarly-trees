@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (SBAR (WHADVP (WRB how)) (S (NP (DT an) (NN agent)) (VP (MD can) (VP (VB navigate) (NP (JJ long) (NNS paths)) (SBAR (WHADVP (WRB when)) (S (VP (VBG learning) (PP (IN from) (NP (NP (DT a) (NN corpus)) (SBAR (WHNP (WDT that)) (S (VP (VBZ consists) (PP (IN of) (NP (JJR shorter) (NNS ones)))))))))))))))) (. .))
+(S (NP (DT The) (NN learning) (NN process)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (CD two) (NNS phases))))) (. .))

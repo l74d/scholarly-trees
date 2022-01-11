@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Multiple) (NNS profiles)) (, ,) (NP (NP (CD one)) (PP (IN for) (NP (DT each) (NN context)))) (, ,)) (VP (VBD were) (VP (VBN created) (PP (IN for) (NP (DT every) (NN user))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBD was) (VP (VBN evaluated) (PP (IN over) (NP (NP (DT a) (JJ diverse) (NN population)) (PP (IN of) (NP (CD 57) (NNS users))))))) (. .))
+(S (NP (NP (DT A) (NN series)) (PP (IN of) (NP (JJ statistical) (NNS tests)))) (VP (VBD were) (VP (VBN conducted) (S (VP (TO to) (VP (VB compare) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NNS classifiers))))))))) (. .))

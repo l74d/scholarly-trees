@@ -1,0 +1,2 @@
+(S (NP (NNP Depression)) (VP (VBZ is) (NP (NP (DT a) (JJ serious) (JJ medical) (NN condition)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN suffered) (PP (IN by) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNS people)) (PP (IN around) (NP (DT the) (NN world))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN network)) (S (VP (TO to) (VP (VB regress) (NP (DT the) (NN depression) (NN level)))))) (. .))

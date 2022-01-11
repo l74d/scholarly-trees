@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN approximation)) (VP (VBZ is) (VP (VBN optimized) (PP (IN for) (NP (JJ numerical) (NNS applications)))))) (, ,) (CC and) (S (NP (DT the) (NN error) (NN estimate)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (NN efficacy)) (PP (IN of) (NP (DT the) (NN method)))))))))) (. .))

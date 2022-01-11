@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NNS tasks)))))) (VP (VBP show) (SBAR (IN that) (S (NP (NNP DropAttention)) (VP (MD can) (VP (VP (VB improve) (NP (NN performance))) (CC and) (VP (VB reduce) (NP (NN overfitting)))))))) (. .))

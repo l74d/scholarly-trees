@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS components)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN developed) (CC and) (VBN optimized) (ADVP (RB independently)))) (. .))
+(S (PP (IN With) (NP (DT this) (JJ unified) (NN approach))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB infer) (NP (DT the) (JJ semantic) (NN meaning)) (ADVP (RB directly)) (PP (IN from) (NP (JJ audio) (NNS features))) (PP (IN without) (NP (DT the) (JJ intermediate) (NN text) (NN representation))))) (. .))

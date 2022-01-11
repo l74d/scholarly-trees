@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (JJ popular) (NN embedding) (NNS models)) (VP (VBP are) (ADVP (RB indeed)) (ADJP (JJ uncalibrated)))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB use) (NP (NP (NNP Platt) (NN scaling)) (CC and) (NP (JJ isotonic) (NN regression))) (PP (IN alongside) (NP (PRP$ our) (NN method))))))) (. .))

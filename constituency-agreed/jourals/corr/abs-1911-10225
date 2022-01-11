@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ recent) (JJ novel) (NN extension)) (PP (IN of) (NP (JJ multi-output) (JJ Gaussian) (NNS processes)))) (VP (VBZ handles) (NP (JJ heterogeneous) (NNS outputs)) (S (VP (VBG assuming) (SBAR (IN that) (S (NP (DT each) (NN output)) (VP (VBZ has) (NP (PRP$ its) (JJ own) (NN likelihood) (NN function)))))))) (. .))

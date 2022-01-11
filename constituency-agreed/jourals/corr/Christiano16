@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT all) (NNS users)) (VP (VP (VBP are) (ADJP (JJ honest))) (CC and) (VP (VBP have) (NP (JJ similar) (NNS tastes)))))) (NP (PRP$ our) (NN algorithm)) (VP (VBZ matches) (NP (NP (DT the) (NN performance)) (PP (IN of) (S (VP (VP (VBG pooling) (NP (NNS data))) (CC and) (VP (VBG using) (NP (DT a) (JJ traditional) (NN algorithm)))))))) (. .))

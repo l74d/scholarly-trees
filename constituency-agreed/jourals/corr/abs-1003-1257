@@ -1,0 +1,2 @@
+(S (NP (NP (VBG Corresponding) (NNS expressions)) (PP (IN for) (NP (JJ other) (JJ regular) (NN convex) (NNS polytopes)))) (VP (VBP are) (VP (VBN summarized))) (. .))
+(S (NP (NP (ADJP (RB Numerically) (JJ stable)) (NNS versions)) (PP (IN of) (NP (DT these) (NN error) (NNS probabilities)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN obtained))) (. .))

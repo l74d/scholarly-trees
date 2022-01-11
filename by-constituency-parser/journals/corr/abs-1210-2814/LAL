@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN concept)) (PP (IN of) (NP (NNP S-permutation) (NN matrix)))) (VP (VBZ is) (VP (VBN considered) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (PRP It)) (VP (VBZ defines) (SBAR (WHADVP (WRB when)) (S (NP (CD two) (JJ binary) (NNS matrices)) (VP (VBP are) (ADJP (NN disjoint)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (NP (DT a) (JJR lower) (NN band)) (PP (IN of) (NP (DT the) (NN probability) (SBAR (IN of) (S (NP (CD two) (ADJP (NNS randomly) (VBD generated)) (NNP S-permutation) (NNS matrices)) (VP (TO to) (VP (VB be) (ADJP (NN disjoint))))))))) (VP (VBZ is) (VP (VBN found))) (. .))
+(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (NP (DT a) (JJ different) (NN proof)) (PP (IN of) (NP (DT a) (JJ known) (NN assertion)))) (VP (VBZ is) (VP (VBN obtained) (PP (IN in) (NP (DT the) (NN work))))) (. .))
+(S (NP (DT The) (NNS cases)) (SBAR (WHADVP (WRB when)) (S (NP (NP ($ $) (RB n=2) ($ $)) (CC and) (NP ($ $) (JJ n=3) ($ $))) (VP (VBP are) (VP (VBN discussed) (PP (IN in) (NP (NN detail))))))) (. .))

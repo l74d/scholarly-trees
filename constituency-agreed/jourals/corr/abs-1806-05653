@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (DT the) (NN segmentation) (NN sub-network)) (VP (VBZ is) (VP (VBN trained) (PP (IN without) (NP (NN depth) (NN information))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (RB particularly) (JJ robust) (PP (IN against) (NP (NP (NNS challenges)) (PP (JJ such) (IN as) (NP (NP (NN illumination) (NNS variations)) (CC and) (NP (JJ complex) (NNS backgrounds)))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (MD can) (VP (VB operate) (PP (IN at) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP (CD 23) (NNS ms)) (PP (IN per) (NP (NN frame))))))))) (. .))

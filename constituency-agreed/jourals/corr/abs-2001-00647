@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN approach)) (VP (VP (VBZ avoids) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (JJ post-processing))))) (CC and) (VP (VBZ enables) (NP (NP (DT a) (ADJP (RB fully) (JJ implicit)) (NN formulation)) (PP (IN for) (S (VP (VBG modelling) (NP (DT the) (VBG evolving) (NN crack) (NN front)))))))) (. .))

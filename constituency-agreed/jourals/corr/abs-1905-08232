@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG training) (NP (NNS classifiers)) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (DT these) (NN feature) (NNS extractors)))))))) (, ,) (NP (PRP we)) (VP (VBP produce) (NP (NP (JJ new) (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (VBP inherit) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (PRP$ their) (NN parent) (NNS networks))))))))) (. .))

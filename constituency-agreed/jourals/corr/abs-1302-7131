@@ -1,0 +1,3 @@
+(S (ADVP (RB Also)) (, ,) (PP (IN in) (NP (NN summarization))) (NP (NP (RB only) (DT a) (NN set)) (PP (IN of) (NP (JJ representative) (NNS sentences)))) (VP (VBP are) (VP (VBN extracted))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (CC and) (VBN evaluated) (ADVP (RB experimentally))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ has) (VP (VBN shown) (NP (JJ promising) (NNS results)))) (. .))

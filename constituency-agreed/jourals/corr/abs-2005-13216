@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG mapping) (NP (JJ human) (NN proximity) (NNS networks)) (PP (IN into) (NP (JJ hyperbolic) (NNS spaces)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP justify) (NP (DT this) (NN compatibility)) (ADVP (RB theoretically))) (CC and) (VP (VB validate) (NP (PRP it)) (ADVP (RB experimentally)))) (. .))

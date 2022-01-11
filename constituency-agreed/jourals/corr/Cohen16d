@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ common)) (NNS statistics)) (VP (VBN computed) (PP (IN over) (NP (NNS data) (NNS elements))))))) (VP (VBZ is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ distinct) (NNS keys))))) (. .))
+(S (NP (PRP$ Our) (NN design)) (VP (VBZ combines) (NP (NP (JJ theoretical) (NN optimality)) (CC and) (NP (JJ practical) (NN simplicity)))) (. .))

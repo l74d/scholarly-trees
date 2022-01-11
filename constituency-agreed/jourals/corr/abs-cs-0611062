@@ -1,0 +1,2 @@
+(S (SBAR (IN Since) (S (NP (JJR larger) (NNS protocols)) (ADVP (RB quite) (RB often)) (VP (VBP are) (VP (VBN composed) (PP (IN of) (NP (JJ many) (JJ small) (NNS protocols))))))) (, ,) (NP (JJ compositional) (NN analysis)) (VP (VBZ is) (NP (DT an) (ADJP (JJ attractive) (, ,) (CC but) (JJ non-trivial)) (NN approach))) (. .))
+(S (PP (IN Except) (PP (IN for) (NP (NP (DT a) (JJ small) (NN amount)) (PP (IN of) (NP (JJ trivial) (NN reasoning)))))) (, ,) (NP (DT the) (NN analysis)) (VP (VBZ is) (VP (VBN done) (S (VP (VBG using) (NP (JJ automatic) (NNS tools)))))) (. .))

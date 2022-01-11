@@ -1,0 +1,4 @@
+(S (NP (NP (NNS Data)) (VP (VBG processing) (NP (NNS systems)))) (VP (VB impose) (NP (JJ multiple) (NNS views)) (PP (IN on) (NP (NNS data))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN processed) (PP (IN by) (NP (DT the) (NN system)))))))) (. .))
+(S (NP (DT These) (NNS views)) (VP (VBP include) (NP (NNS spreadsheets) (, ,) (NNS databases) (, ,) (NNS matrices) (, ,) (CC and) (NNS graphs))) (. .))
+(S (NP (JJ Associative) (NNS arrays)) (VP (VP (VB unify)) (CC and) (VP (VB simplify) (NP (DT these) (JJ different) (NNS approaches)) (PP (IN into) (NP (NP (DT a) (JJ common) (ADJP (CD two) (HYPH -) (JJ dimensional)) (NN view)) (PP (IN of) (NP (NNS data))))))) (. .))
+(S (NP (NP (JJ Algebraic) (NNS structures)) (SBAR (WHNP (WDT that)) (S (VP (VBP comply) (PP (IN with) (NP (DT the) (NNS criteria))))))) (VP (MD will) (VP (VB be) (VP (VBN identified) (CC and) (VBN discussed)))) (. .))

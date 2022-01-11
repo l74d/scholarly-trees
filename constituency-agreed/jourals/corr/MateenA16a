@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN felt) (SBAR (IN that) (S (NP (NN software) (NNS errors) (CC or) (NN correction)) (VP (VBZ takes) (NP (NN time)) (S (VP (TO to) (VP (VB be) (VP (VBN removed)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN research) (NN work))) (NP (PRP we)) (VP (VBP predict) (NP (DT the) (NN software) (NN reliability)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN time)) (VP (VBN taken) (S (VP (TO to) (VP (VB maintain) (NP (DT the) (NNS errors) (CC and) (NNS enhancements))))))))))) (. .))

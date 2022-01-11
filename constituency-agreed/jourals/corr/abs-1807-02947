@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (JJ dynamic) (NN image)) (VP (VBZ reduces) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (NN recognition) (NN process)))) (PP (IN by) (S (VP (VBG extracting) (NP (DT a) (JJ sparse) (NN matrix)) (PP (IN from) (NP (DT a) (NN video))))))) (. .))

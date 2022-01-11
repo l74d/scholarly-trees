@@ -1,0 +1,3 @@
+(S (NP (DT Each) (NN user)) (VP (VBZ interacts) (PP (IN with) (NP (DT these) (NNS events))) (PP (IN in) (NP (JJ different) (NNS ways))) (, ,) (S (ADVP (RB thus)) (VP (VBG receiving) (NP (NP (JJ different) (NNS recommendations)) (VP (VBN curated) (PP (IN by) (NP (NP (NNP Facebook) (POS 's)) (JJ intelligent) (NNS systems)))))))) (. .))
+(S (NP (NNP Facebook)) (VP (VBZ segregates) (NP (PRP$ its) (NNS users)) (PP (IN into) (NP (NNS chambers))) (, ,) (S (VP (VBG fragmenting) (NP (PRP them)) (PP (IN into) (NP (NNS communities)))))) (. .))
+(S (NP (NNP Facebook)) (VP (VBZ is) (RB not) (NP (DT a) (JJ neutral) (NN product))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ last) (NN decade))) (, ,) (NP (NP (NNS simulations)) (PP (IN of) (NP (NN software) (NNS processes)))) (VP (VBD were) (VP (VBN used) (PP (IN in) (NP (JJ several) (NNS settings) (CC and) (NNS environments))))) (. .))
+(S (NP (NP (DT The) (NN model)) (VP (VBN introduced) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VBZ captures) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (DT a) (JJ detailed) (NN code) (NN inspection) (NN process))))) (. .))

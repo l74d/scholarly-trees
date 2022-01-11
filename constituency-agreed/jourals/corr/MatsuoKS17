@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD performed) (NP (NNS experiments)) (PP (IN with) (NP (NP (CD three) (NNS types)) (PP (IN of) (NP (NN alignment) (NNS methods))))) (S (VP (VBG using) (NP (NN word) (NNS embeddings))))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (PRP$ our) (VBN proposed) (NNS methods)) (PP (IN with) (NP (JJ various) (NN translation) (NNS datasets)))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (DT the) (NNS iterations)) (VP (VBP proceed)))) (, ,) (NP (DT the) (NN error)) (VP (VBZ decreases) (S (VP (VP (VBG making) (S (NP (DT the) (NNS gradients)) (ADJP (JJ small)))) (CC and) (ADVP (RB thus)) (VP (VBG requiring) (NP (NP (JJ efficient) (NN training)) (PP (IN of) (NP (NNP DCNNs)))) (S (VP (TO to) (VP (VB mitigate) (NP (DT this))))))))) (. .))

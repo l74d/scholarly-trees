@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN agent)) (VP (VBZ has) (NP (NP (JJ simple) (NN integrator) (NNS dynamics)) (, ,) (NP (DT a) (JJ limited) (NN communication) (NN range)) (, ,) (CC and) (NP (NP (NN knowledge)) (PP (IN of) (NP (NP (DT the) (NN position)) (PP (IN of) (NP (DT every) (NN target)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP do) (RB not) (VP (VB require) (NP (NP (NN connectivity)) (PP (IN of) (NP (DT the) (NN communication) (NN graph)))) (PP (IN at) (NP (DT any) (NN time))))) (. .))

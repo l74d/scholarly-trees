@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (JJ mathematical) (NNS models)) (PP (IN of) (NP (NNS projectiles)))) (VP (VBP contain) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (JJ important) (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (MD should) (VP (VB be) (VP (VBN taken) (PP (IN into) (NP (NN account))) (PP (IN for) (S (VP (VBG having) (NP (DT a) (JJ realistic) (NN prediction)))))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (PDT all) (DT these) (NNS issues))))) (NP (PRP we)) (VP (VBP formulate) (NP (NP (DT a) (JJ stochastic) (NN model)) (PP (IN for) (NP (DT the) (NN projectile))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (ADVP (RB still)) (VP (VBZ suffers) (PP (IN from) (NP (NP (NN size)) (PP (IN of) (NP (DT the) (NN system)))))) (. .))

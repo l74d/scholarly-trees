@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN article)) (VP (VBZ starts) (PP (IN by) (S (VP (VBG characterizing) (NP (NP (DT this) (NN center)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN defined) (PP (IN for) (NP (NP (DT any) (NN type)) (PP (IN of) (NP (NN front)))))))))))))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (NP (DT a) (JJ Bayesian) (JJ multi-objective) (NN optimization) (NN method)) (PP (IN for) (S (VP (VBG directing) (NP (DT the) (NN search)) (PP (IN towards) (NP (PRP it))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

@@ -1,0 +1,3 @@
+(NP (NNP SIAM) (NNP J.) (NNP Sci) (. .))
+(NP (NNP Comput) (. .))
+(S (ADVP (RBR More) (RB importantly)) (, ,) (NP (NP (DT a) (JJ local) (JJ linear) (NN rate)) (PP (IN of) (NP (NN convergence)))) (VP (VBZ is) (VP (VBN established))) (. .))

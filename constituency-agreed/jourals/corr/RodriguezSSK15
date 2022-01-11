@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB define) (, ,) (PP (IN for) (NP (DT an) (JJ abstract) (NN execution) (NN model))) (, ,) (NP (NP (VBG unfolding) (NNS semantics)) (VP (VBN parameterized) (PP (IN over) (NP (DT an) (JJ arbitrary) (NN independence) (NN relation)))))) (. .))

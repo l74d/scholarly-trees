@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN network)) (VP (MD can) (VP (VB be) (VP (VBN trained) (ADVP (RB efficiently)) (SBAR (IN as) (S (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB fully) (JJ differentiable)))) (CC and) (S (NP (PRP$ its) (NNS modules)) (VP (VBP operate) (PP (IN on) (NP (JJ small) (NNS sub-spaces)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ requires) (NP (NP (JJ stateful) (NN load) (NNS balancers)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADVP (RB mostly)) (VP (VBN implemented) (PP (IN in) (NP (NN software))))))))) (. .))

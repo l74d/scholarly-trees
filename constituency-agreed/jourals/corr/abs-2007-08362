@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (VBG competing) (NNS resources)) (PP (IN of) (NP (NN interest)))) (VP (VBP are) (VP (VBN penalized) (ADVP (RB hierarchically)) (PP (IN during) (NP (DT the) (NN search))))) (. .))
+(S (NP (DT The) (NN framework)) (VP (VBZ is) (VP (VBN intended) (S (VP (TO to) (VP (VB capture) (NP (NP (NNS problems)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT a) (NN robot)) (VP (MD must) (VP (VB manage) (NP (NP (NNS resources)) (PP (JJ such) (IN as) (NP (NP (NN risk)) (PP (IN of) (NP (NN collision)))))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN correlation)) (PP (IN between) (NP (NN fame) (CC and) (NN merit)))) (VP (VBZ is) (NP (CD 0.38))) (. .))
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (NP (NP (DT the) (NN correlation)) (PP (IN between) (NP (NP (DT the) (NN logarithm)) (PP (IN of) (NP (NN fame) (CC and) (NN merit)))))) (VP (VBZ is) (NP (CD 0.61))) (. .))

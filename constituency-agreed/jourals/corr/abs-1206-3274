@@ -1,0 +1,1 @@
+(S (NP (NP (NN Confidence) (NNS measures)) (PP (IN for) (NP (DT the) (NN generalization) (NN error)))) (VP (VBP are) (ADJP (JJ crucial)) (SBAR (WHADVP (WRB when)) (S (NP (JJ small) (NN training) (NNS samples)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB construct) (NP (NNS classifiers)))))))))) (. .))

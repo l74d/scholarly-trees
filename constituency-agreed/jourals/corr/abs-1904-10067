@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN if) (S (NP (PRP they)) (VP (MD can) (RB not) (VP (VB break) (NP (NN safety)))))) (, ,) (NP (PRP they)) (VP (MD will) (RB not) (VP (VB try) (S (VP (TO to) (VP (VB prevent) (NP (NP (NN liveness)) (PP (IN of) (NP (DT the) (NN protocol))))))))) (. .))

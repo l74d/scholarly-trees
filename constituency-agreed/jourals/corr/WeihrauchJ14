@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP extend) (NP (DT this) (NN result))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ canonical) (JJ linear) (NNS bijections)) (PP (IN between) (NP (NP (DT these) (NNS spaces)) (CC and) (NP (PRP$ their) (NNS inverses))))) (VP (VBP are) (ADJP (JJ computable)))))) (. .))

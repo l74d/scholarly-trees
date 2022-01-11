@@ -1,0 +1,3 @@
+(S (ADVP (RB Moreover)) (, ,) (PP (IN for) (NP (DT some) (NN rheology) (NNS laws))) (, ,) (NP (NP (NNS aspects)) (PP (IN of) (NP (NN solvability)))) (VP (VBP are) (ADVP (RB still)) (ADJP (JJ unknown))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (DT a) (ADJP (JJ basic) (CC but) (JJ representative)) (JJ viscoplastic) (NN rheology) (NN law))) (. .))
+(S (S (NP (PRP We)) (VP (VBP derive) (NP (DT both) (NNS variants)) (PP (IN from) (NP (NN energy) (NN minimization) (NNS principles))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP use) (NP (DT this) (NN perspective)) (S (VP (TO to) (VP (VB argue) (SBAR (WHADVP (WRB when)) (S (NP (NNS solutions)) (VP (VBP are) (ADJP (JJ unique)))))))))) (. .))

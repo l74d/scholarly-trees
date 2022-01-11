@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBZ uses) (NP (NP (DT a) (NN fraction)) (PP (IN of) (NP (DT the) (NNP DNN) (NNS inputs)))) (PP (IN by) (S (VP (VBG scaling) (NP (PRP$ their) (NNS values)) (PP (IN through) (NP (NP (NNS weights)) (SBAR (WHNP (WDT that)) (S (VP (VBP follow) (NP (ADJP (RB monotonically) (JJ non-increasing)) (NNS functions))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT this) (NN reason))) (, ,) (NP (NP (VBG existing) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP work) (PP (IN by) (S (VP (VBG taking) (NP (DT each) (NN node)) (PP (IN as) (NP (DT a) (NN candidate) (NN middlepoint)))))))))) (VP (VBP are) (ADJP (JJ inefficient))) (. .))
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (DT this))))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB select) (NP (QP (RB just) (DT a) (JJ few)) (JJ important) (NNS nodes)) (PP (IN as) (NP (NP (NNS middlepoints)) (PP (IN for) (NP (DT all) (NN traffic))))))))) (. .))

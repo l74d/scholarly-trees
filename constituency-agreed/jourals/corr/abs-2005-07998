@@ -1,0 +1,1 @@
+(S (NP (JJ Conventional) (JJ adversarial) (NNS defenses)) (VP (VB reduce) (NP (NN classification) (NN accuracy)) (SBAR (IN whether) (CC or) (RB not) (S (NP (DT a) (NN model)) (VP (VBZ is) (PP (IN under) (NP (NNS attacks))))))) (. .))

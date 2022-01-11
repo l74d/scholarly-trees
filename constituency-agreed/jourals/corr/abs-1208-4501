@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (DT the) (NN result)) (PP (IN on) (NP (NNS multisequences)))) (S (VP (TO to) (VP (VB count) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNP Hankel) (NNS matrices)) (PP (IN of) (NP (DT any) (VBN given) (NN dimension)))))))))) (. .))

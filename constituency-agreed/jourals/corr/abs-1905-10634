@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first) (NN method)) (VP (VP (VBZ leverages) (NP (DT the) (JJ conformal) (NN inference) (NN framework))) (CC and) (VP (VBZ provides) (NP (JJ average) (NN coverage)))) (. .))
+(S (NP (DT The) (JJ second) (NN method)) (VP (VBZ provides) (NP (DT a) (JJ new) (, ,) (JJR stronger) (NN guarantee)) (PP (IN by) (S (VP (VBG conditioning) (PP (IN on) (NP (DT the) (VBN observed) (NNS data))))))) (. .))

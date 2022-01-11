@@ -1,0 +1,1 @@
+(S (NP (NN Component) (NNS frameworks)) (VP (VBP are) (NP (NP (JJ complex) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP rely) (PP (IN on) (NP (NP (JJ many) (NNS layers)) (PP (IN of) (NP (NN abstraction))))) (S (VP (TO to) (VP (VB function) (ADVP (RB properly)))))))))) (. .))

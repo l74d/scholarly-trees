@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS predictions)) (VP (VBP are) (VP (VBN revised) (PP (IN by) (NP (NP (DT a) (JJ human) (NN agent)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ introduces) (NP (NP (NNS corrections)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NNS characters))))))))))))) (. .))
+(S (NP (DT The) (JJ final) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (JJ human) (NN effort)) (VP (VBN required) (PP (IN during) (NP (DT this) (NN correction) (NN process))))))))) (. .))

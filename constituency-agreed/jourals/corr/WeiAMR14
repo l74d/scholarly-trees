@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (VBG remaining) (NN bandwidth)) (VP (VBZ is) (ADJP (JJ available) (PP (IN for) (NP (NN packet) (NN traffic)))))) (CC and) (S (NP (PRP we)) (VP (VBP conduct) (NP (NP (DT an) (JJ approximate) (NN analysis)) (PP (IN of) (NP (NP (DT the) (VBG resulting) (JJ mean) (NN delay)) (PP (IN of) (NP (NN packet) (NN traffic)))))))) (. .))

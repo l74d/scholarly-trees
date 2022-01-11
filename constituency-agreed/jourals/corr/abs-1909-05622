@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ general) (NN idea)) (PP (IN of) (NP (NN inception) (NNS networks)))) (VP (VBZ is) (S (VP (TO to) (VP (VB implement) (NP (NP (JJR wider) (NNS networks)) (PP (RB instead) (IN of) (NP (JJR deeper) (NNS networks)))))))) (. .))
+(S (NP (DT This) (NN network) (NN design)) (VP (VBD was) (VP (VBN shown) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN image) (NN classification))))))))) (. .))

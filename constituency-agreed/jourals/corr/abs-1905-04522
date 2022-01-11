@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN training) (NN process)) (VP (VBZ is) (VP (VBN formulated) (PP (IN in) (NP (NP (DT an) (NN error) (NN minimization) (NN problem)) (SBAR (WHNP (WDT which)) (S (VP (VBZ consists) (PP (IN of) (NP (NP (JJ many) (JJ local) (NN optima)) (PP (IN in) (NP (DT the) (NN search) (NN landscape)))))))))))) (. .))

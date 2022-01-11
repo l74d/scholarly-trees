@@ -1,0 +1,1 @@
+(FRAG (NP ($ $)) (NP ($ $)) (NP (NP (NP (DT This) (ADJP (JJR lower) (JJ bound)) (NNS matches)) (ADJP (NP (DT the) (JJ upper)) (JJ bound))) (VP (VBN given) (PP (IN by) (NP (DT the) (NML (NNP Johnson) (HYPH -) (NNP Lindenstrauss)) (NN lemma))) (PRN (-LRB- [) (NP (NN JL84)) (-RRB- ])))) (. .))

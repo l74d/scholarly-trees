@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (CC and) (VBP study) (NP (NP (DT a) (JJ simple) (NN model)) (PP (IN for) (S (VP (VBG auctioning) (NP (JJ such) (NN ad) (NNS slots)) (PP (IN in) (NP (NN advance)))))))) (. .))
+(S (NP (NNS Bidders)) (VP (VP (VBP arrive) (ADVP (RB sequentially))) (CC and) (VP (VB report) (SBAR (WHNP (WDT which) (NNS slots)) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in)))))))) (. .))
+(S (NP (DT This) (NN mechanism)) (VP (VBZ has) (NP (JJ many) (JJ desirable) (NNS properties))) (. .))

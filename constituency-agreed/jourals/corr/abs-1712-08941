@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT a) (NN review)) (PP (IN of) (NP (NP (DT the) (NN area)) (PP (IN of) (NP (JJ comparative) (NN opinion) (NN mining))))))) (. .))
+(S (NP (DT This) (NN survey)) (VP (VBZ covers) (NP (JJ comparative) (NN opinion) (NN mining)) (PP (IN from) (NP (CD two) (JJ different) (NNS angles)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN irregularity)) (VP (VBN caused) (PP (IN by) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (NNS pointers)) (CC and) (NP (NN indirection) (NNS arrays)))))))) (VP (VBP are) (NP (NP (DT a) (JJ major) (NN challenge)) (PP (IN for) (S (VP (VBG optimizing) (NP (NNS compilers))))))) (. .))

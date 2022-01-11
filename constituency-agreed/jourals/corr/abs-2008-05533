@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (DT the) (NN training) (NN process)))) (VP (VP (VBZ is) (ADVP (RB still)) (ADJP (RB comparatively) (JJ low))) (, ,) (NP (NP (DT a) (NN problem)) (VP (VBN known) (PP (IN from) (NP (NP (NNS methods)) (VP (VBG using) (NP (NN value) (NNS functions)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (ADJP (RB purely) (JJ discrete)) (NN scenario)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NNS dynamics)) (PP (IN of) (NP (DT each) (NN agent)))) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (DT a) (JJ finite) (NN transition) (NN system))))))))) (. .))
+(S (NP (DT The) (VBN proposed) (JJ computational) (NN framework)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (JJ main) (NNS steps)))) (. .))

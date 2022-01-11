@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT an) (JJ effective) (NN regularization) (NN method))) (, ,) (NP (JJ adversarial) (NN training)) (VP (VBZ improves) (NP (NP (NN robustness) (CC and) (NN generalization)) (PP (IN of) (NP (PRP$ our) (NN model))))) (. .))

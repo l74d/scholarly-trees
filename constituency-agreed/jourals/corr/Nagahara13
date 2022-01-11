@@ -1,0 +1,2 @@
+(S (NP (NP (NNP MATLAB) (NNS codes)) (PP (IN for) (NP (DT these) (NN design) (NNS methods)))) (VP (VBP are) (VP (VBN given))) (. .))
+(S (NP (DT An) (NN design) (NN example)) (VP (VBZ shows) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT these) (NNS methods))))) (. .))

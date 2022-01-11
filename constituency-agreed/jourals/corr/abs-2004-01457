@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (NNS simulations)) (PP (IN of) (NP (JJ multiscale) (JJ dynamical) (NNS systems))))) (, ,) (NP (RB not) (DT all) (JJ relevant) (NNS processes)) (VP (MD can) (VP (VB be) (VP (VBN resolved) (ADVP (RB explicitly))))) (. .))
+(S (S (VP (VBG Taking) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (DT the) (JJ unresolved) (NNS processes)))) (PP (IN into) (NP (NN account))))) (VP (VBZ is) (ADJP (JJ important)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ introduces) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (NNS paramerizations)))))))) (. .))

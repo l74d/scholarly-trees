@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN theory)) (PP (IN of) (NP (NNS matroids)))) (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NP (JJ linear) (NN independence)) (PP (IN in) (NP (NN vector) (NNS spaces))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NNS connections)) (PP (IN between) (NP (DT the) (JJ above) (CD two) (NNS constructions))))) (. .))

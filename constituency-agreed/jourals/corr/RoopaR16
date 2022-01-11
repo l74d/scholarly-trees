@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ defines) (NP (NP (DT a) (NN distance) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ measures) (NP (NP (DT the) (NN dissimilarity)) (PP (IN between) (NP (NP (NN planar) (JJ geometric) (NNS figures)) (VP (VBN formed) (PP (IN with) (NP (JJ straight) (NNS lines)))))))))))) (. .))
+(S (NP (DT This) (NN function)) (VP (MD can) (PP (IN in) (NP (NN turn))) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (JJ partial) (NN matching)) (PP (IN of) (NP (JJ different) (JJ geometric) (NNS figures)))))))) (. .))
+(S (NP (DT The) (NN distance) (NN function)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN defined) (PP (IN as) (NP (NP (DT the) (NN convex) (NN sum)) (PP (IN of) (NP (DT these) (CD two) (NNS functions))))))) (. .))

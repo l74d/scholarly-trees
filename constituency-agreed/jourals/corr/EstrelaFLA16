@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PRP$ our) (NN model))) (, ,) (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NN noise)))) (VP (MD can) (VP (VB be) (VP (VBN handled) (, ,) (S (VP (VBG representing) (NP (NP (JJ different) (NNS sources)) (PP (IN of) (NP (NN error))))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP indicate) (SBAR (IN that) (S (NP (DT this) (NN approach)) (VP (VBZ provides) (NP (NP (JJ robust) (NNS estimates)) (PP (IN of) (NP (DT the) (JJ optical) (NN flow)))))))) (. .))

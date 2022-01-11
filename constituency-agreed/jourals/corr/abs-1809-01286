@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ fake) (NN news) (NN detection)) (VP (VBZ is) (NP (NP (DT a) (JJ non-trivial) (NN task)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ requires) (NP (NP (JJ multi-source) (NN information)) (PP (JJ such) (IN as) (NP (NP (NN news) (NN content)) (, ,) (NP (JJ social) (NN context)) (, ,) (CC and) (NP (JJ dynamic) (NN information)))))))))) (. .))

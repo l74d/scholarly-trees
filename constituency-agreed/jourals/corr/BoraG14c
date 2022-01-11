@@ -1,0 +1,2 @@
+(S (NP (NN Image) (NN processing)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN research) (NN area)) (PP (IN in) (NP (NN computer) (NN vision))))) (. .))
+(S (NP (EX There)) (VP (VBP exist) (NP (NP (ADJP (RB so) (JJ many)) (NNS methods)) (PP (IN for) (NP (NN image) (NN segmentation))))) (. .))

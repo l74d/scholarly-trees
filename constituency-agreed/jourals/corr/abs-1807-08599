@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (ADJP (JJ simple) (CC and) (JJ efficient)) (NN algorithm)) (PP (IN for) (S (VP (VBG training) (NP (JJ large) (NNP CNN) (NNS models)))))) (VP (VBZ is) (VP (VBN introduced))) (. .))

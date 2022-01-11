@@ -1,0 +1,3 @@
+(S (NP (VBG Phishing) (NNS emails)) (VP (VBP are) (NP (NP (DT the) (JJ first) (NN step)) (PP (IN for) (NP (NP (JJ many)) (PP (IN of) (NP (NP (NN today) (POS 's)) (NNS attacks))))))) (. .))
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (ADVP (RB generally)) (S (VP (TO to) (VP (VB trick) (NP (DT the) (NN user)) (S (VP (TO to) (VP (ADVP (RB voluntarily)) (VB give) (PRT (RP away)) (NP (NP (PRP$ his) (JJ sensitive) (NN information)) (PP (JJ such) (IN as) (NP (NN login) (NNS credentials))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NN problem)) (ADVP (RB still)) (VP (VBZ lacks) (NP (DT a) (ADJP (JJ complete) (CC and) (JJ comprehensive)) (NN solution))) (. .))

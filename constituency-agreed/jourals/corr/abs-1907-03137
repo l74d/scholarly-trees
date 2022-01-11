@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NNP SDA))) (, ,) (NP (DT the) (NN model)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (JJ differential) (NNS equations)) (SBAR (WHNP (WDT that)) (S (VP (VBP describe) (NP (NP (DT the) (NNS dynamics)) (PP (IN of) (NP (DT a) (JJ physical) (NN system)))))))))))) (. .))
+(S (PP (IN For) (NP (NNP ML))) (, ,) (NP (DT the) (NN model)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN constructed) (S (VP (VBG using) (NP (JJ other) (NNS strategies)))))) (. .))

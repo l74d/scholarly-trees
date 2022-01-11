@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (NNS vertices)) (PP (IN of) (NP (DT the) (JJ final) (NN mesh)))) (PP (IN by) (NP (NP (DT an) (VBG advancing) (NN front) (NN strategy)) (PP (IN along) (NP (DT the) (NN direction) (NN field))))))))) (. .))

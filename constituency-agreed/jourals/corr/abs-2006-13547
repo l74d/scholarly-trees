@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ enables) (NP (NP (DT a) (JJ dramatic) (NN reduction)) (PP (IN in) (NP (NP (NN storage)) (PP (IN for) (NP (NN target) (NNS addresses))))))) (. .))
+(S (NP (DT The) (JJ latter) (NN optimization)) (VP (VBZ eliminates) (NP (DT the) (NN need) (S (VP (TO to) (VP (VB store) (NP (DT the) (JJ basic) (NN block) (NN size)) (PP (IN in) (NP (DT each) (NNP BTB) (NN entry)))))))) (. .))

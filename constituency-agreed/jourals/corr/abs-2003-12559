@@ -1,0 +1,1 @@
+(S (NP (NP (DT Each) (NN coordinate)) (PP (IN in) (NP (DT the) (NN map)))) (VP (VBZ is) (VP (VBN assigned) (NP (NP (DT a) (NN weight)) (SBAR (WHNP (WDT which)) (S (VP (VBZ dictates) (NP (NP (DT the) (NN priority)) (PP (IN of) (NP (NN exploration)))))))))) (. .))

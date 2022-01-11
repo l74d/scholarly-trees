@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (JJ small) (NNS datasets))) (, ,) (NP (NNS networks)) (VP (VBP generalize) (ADVP (RB poorly))) (. .))
+(S (ADVP (RB Nevertheless)) (, ,) (NP (JJ generative) (NNS models)) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN used) (PP (IN for) (S (VP (VBG augmenting) (NP (NNS data)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (DT another) (JJ generative) (NN model))))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Instead)) (, ,) (NP (PRP we)) (VP (VBP make) (NP (NP (NN use)) (PP (IN of) (NP (DT a) (JJ pre-trained) (NN sentence) (NN encoder)))) (S (VP (TO to) (VP (VB encode) (NP (DT the) (NN book) (NNS sentences)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (VBN Distributed) (JJ adaptive) (VBG conforming) (NN refinement)) (VP (VBZ requires) (NP (NP (NP (JJ multiple) (NNS iterations)) (PP (IN of) (NP (DT the) (JJ serial) (NN refinement) (NN algorithm)))) (CC and) (NP (JJ global) (NN communication))) (SBAR (IN as) (S (NP (DT the) (NN refinement)) (VP (MD can) (VP (VB be) (VP (VBN propagated) (PP (IN over) (NP (JJ several) (NN processor) (NNS boundaries))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (NNS bounds)) (PP (IN on) (NP (NP (DT the) (JJ maximum) (NN number)) (PP (IN of) (NP (NNS iterations))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN implemented) (PP (IN within) (NP (NP (DT the) (NN software) (NN package)) (NP (NNP DUNE-ALUGrid)))))) (. .))

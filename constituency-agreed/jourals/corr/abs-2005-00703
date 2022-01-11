@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ malicious) (NN node)) (VP (MD can) (VP (VB obtain) (NP (NP (JJ sensitive) (NN information)) (PP (IN of) (NP (JJ other) (NNS nodes)))) (PP (IN by) (S (VP (VBG inferring) (PP (IN from) (NP (DT the) (VBN observed) (NNS data)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (NNS Processes)) (VP (VBP denote) (NP (NP (JJ continuous) (NNS functions)) (PP (IN between) (NP (DT these) (NNS domains)))))) (, ,) (CC and) (S (NP (NN process) (NN composition)) (VP (VBZ is) (VP (VBN interpreted) (PP (IN by) (NP (DT a) (NN trace) (NN operator)))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NNS semantics)) (PP (IN by) (S (VP (VBG validating) (NP (VBN expected) (NN program) (NNS equivalences)))))) (. .))

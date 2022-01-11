@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ yields) (NP (NP (JJ robust) (NNS solvers)) (PP (IN for) (NP (JJ nontrivial) (JJ elliptic) (NNS problems))))) (. .))
+(S (NP (DT These) (JJ hierarchical) (NNS differences)) (VP (MD can) (VP (VB be) (VP (VBN stored) (CC and) (VBN exchanged) (PP (IN with) (NP (JJ small) (NN memory) (NN footprint)))))) (. .))

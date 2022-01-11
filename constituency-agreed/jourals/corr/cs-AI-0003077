@@ -1,0 +1,3 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (PRP it)) (VP (MD may) (RB not) (VP (VB be) (NP (NP (DT a) (JJ practical) (JJ computational) (NN tool)) (PP (IN for) (NP (JJ such) (NNS problems)))))) (. .))
+(S (NP (DT The) (NNS semantics)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ simple) (CC and) (JJ natural)) (NN extension)) (PP (IN of) (NP (NP (DT the) (NNS semantics)) (PP (IN of) (NP (DT the) (JJ propositional) (NN logic))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (DT the) (NN syntax) (CC and) (NNS semantics)) (PP (IN of) (NP (NNP DC))))) (, ,) (CC and) (VP (VB study) (NP (PRP$ its) (NNS properties)))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (JJ joint) (NNS estimates)))) (VP (MD may) (VP (VB be) (ADJP (JJ poor)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NNS datasets)) (PP (IN at) (NP (DT each) (NN site)))) (VP (VBP are) (ADJP (JJ small))))))) (. .))

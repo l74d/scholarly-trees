@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ simple) (JJ randomized) (JJ incremental) (NN algorithm)) (PP (IN for) (S (VP (NN building) (NP (VBN compressed) (NNS quadtrees))))))) (. .))
+(S (NP (DT The) (VBG resulting) (NN algorithm)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (JJR simpler)) (PP (IN than) (NP (NP (ADJP (RB previously) (VBN known)) (NN algorithms)) (PP (IN for) (NP (DT this) (NN task)))))))))) (. .))

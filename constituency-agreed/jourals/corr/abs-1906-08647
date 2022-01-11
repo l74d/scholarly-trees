@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (CD two) (NNS approaches))) (. .))
+(S (S (VP (VBG Using) (NP (NP (QP (RB approximately) (CD 11)) (NNS hours)) (PP (IN of) (NP (JJ untranscribed) (NN speech)))))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT both) (NNS approaches)) (VP (VBP benefit) (PP (IN from) (NP (JJ semi-supervised) (NN training))))))) (. .))

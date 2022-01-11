@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN scheme)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN service) (NNS profiles)) (PP (IN of) (NP (NP (NNS contents)) (VP (VBN requested) (PP (IN by) (NP (DT the) (NNS users))) (PP (IN at) (NP (NP (DT the) (NN server) (NN side)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN hosted) (PP (IN at) (NP (DT the) (NN library)))))))))))))))) (. .))
+(S (PP (IN For) (S (VP (VBG analyzing) (NP (DT the) (NN service) (NN quality))))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (CD two) (JJ analytical) (NNS models))) (. .))

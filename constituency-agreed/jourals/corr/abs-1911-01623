@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ masked) (NN word) (NNS embeddings)) (VP (VP (VBP do) (RB not) (VP (VB hurt) (NP (DT the) (NN performance)))) (CC and) (VP (MD can) (VP (VB improve) (NP (PRP it)) (PP (IN by) (NP (CD 3) (NN %))))))))) (. .))

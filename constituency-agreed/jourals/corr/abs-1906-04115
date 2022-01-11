@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ hidden) (NN space)) (VP (VBZ is) (VP (VBN learned) (PP (IN via) (NP (NP (DT a) (JJ generative) (NN network)) (VP (VBN conditioned) (PP (IN on) (NP (JJ individual) (NN sensor) (NNS modalities)))))))) (. .))

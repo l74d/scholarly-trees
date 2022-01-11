@@ -1,0 +1,2 @@
+(S (NP (NP (CD 4) (NNS operations)) (PP (IN per) (NP (NP (NN bit)) (PP (IN of) (NP (NN input)))))) (VP (MD can) (VP (VB be) (VP (VBN achieved)))) (. .))
+(S (S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (RB very) (JJ flexible)))) (CC and) (S (NP (PRP it)) (VP (VBZ works) (PP (IN with) (NP (NP (NNS messages)) (PP (IN of) (NP (DT any) (NN length))))))) (. .))

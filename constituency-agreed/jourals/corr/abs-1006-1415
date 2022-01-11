@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBD was) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (VBG winning) (NNS strategies)) (PP (IN for) (NP (JJ pushdown) (NNS games)))) (VP (MD can) (VP (VB be) (VP (VBN implemented) (ADVP (RB again)) (PP (IN as) (NP (JJ pushdown) (NN automata)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN for) (NP (DT the) (CD two) (VBG remaining) (NNS cases))) (NP (DT this) (NN correspondence)) (VP (VBZ fails))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN conclusion))) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN question)) (PP (IN of) (NP (NP (DT an) (JJ abstract) (NN criterion)) (SBAR (WHNP (WDT that)) (S (VP (VBZ explains) (NP (DT the) (NNS results))))))))) (. .))

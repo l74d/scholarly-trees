@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP apply) (NP (NP (NNS methods)) (PP (IN of) (NP (NN machine) (NN learning)))) (S (VP (TO to) (VP (VB detect) (NP (JJ malicious) (NN traffic)))))) (. .))
+(S (NP (DT A) (NN prototype) (NN project)) (VP (VBZ is) (VP (VBN implemented) (PP (IN as) (NP (NP (DT a) (NN module)) (PP (IN for) (NP (DT the) (NNP Floodlight) (NN controller))))))) (. .))
+(S (NP (DT The) (NN prototype)) (VP (VBD was) (VP (VBN tested) (PP (IN on) (NP (DT the) (NNP Mininet) (NN simulation) (NN platform))))) (. .))
+(S (NP (DT The) (NN server) (NNS hosts)) (VP (VBP run) (NP (JJ simple) (NN web) (NNS servers))) (. .))

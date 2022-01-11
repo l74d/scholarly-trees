@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (JJ conceptual) (NN framework)) (VP (VBN introduced) (PP (IN in) (NP (DT the) (NNP Agile) (NNP Manifesto))) (PP (IN in) (NP (CD 2001)))))) (. .))
+(S (NP (NNP Survey)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (DT a) (NN research) (NN method))) (S (VP (TO to) (VP (VB know) (NP (NP (DT the) (NN significance)) (PP (IN of) (NP (NN teamwork))))))))) (. .))

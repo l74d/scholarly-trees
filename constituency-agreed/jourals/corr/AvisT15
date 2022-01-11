@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN extension) (NN complexity)) (VP (VBZ remains) (ADJP (JJ exponential)) (SBAR (RB even) (IN if) (S (NP (PRP we)) (VP (VBP exclude) (NP (DT these) (NNS inequalities))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN extension) (NN complexity)) (PP (IN of) (NP (NP (NN polytope)) (VP (VBN formed) (PP (IN by) (NP (DT all) (NN comb) (NNS inequalities))))))) (VP (VBZ is) (ADJP (JJ exponential)))))) (. .))

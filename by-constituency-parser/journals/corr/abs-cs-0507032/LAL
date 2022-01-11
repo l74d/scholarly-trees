@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ develops) (NP (NP (DT the) (NN quantum) (NN analog)) (PP (IN of) (NP (NP (DT the) (NN message) (NN ensemble)) (PP (IN of) (NP (JJ classical) (NN information) (NN theory))))) (SBAR (IN as) (S (VP (VBN developed) (PP (IN by) (NP (NNP Shannon) (CC and) (NNP Khinchin)))))))) (. .))
+(S (NP (DT The) (JJ principal) (JJ mathematical) (NN tool)) (VP (VBZ is) (NP (NP (JJ harmonic) (NN analysis)) (PP (IN on) (NP (NP (DT the) (JJ free) (NN group)) (PP (IN with) (NP (CD two) (NNS generators))))))) (. .))

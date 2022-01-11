@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (PRP we)) (VP (VP (VBP consider) (NP (NP (NNS regions)) (PP (IN of) (NP (NN interest))))) (CC and) (VP (VB discretize) (NP (PRP them)) (PP (IN into) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS patterns))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT a) (JJ representative) (NN movement)) (PP (IN of) (NP (JJ key) (NNS patterns)))) (S (VP (TO to) (VP (VB detect) (NP (NP (NN movement)) (PP (IN of) (NP (NN interest)))))))) (. .))
+(S (NP (NP (DT The) (JJ experimental) (NN analysis)) (PP (IN on) (NP (DT a) (JJ standard) (NN dataset)))) (VP (VBZ reveals) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (PP (IN with) (NP (JJ noisy) (NNS labels))))) (VP (VBZ has) (VP (VBN drawn) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN attention)))))) (. .))
+(S (NP (DT The) (NN confidence) (NNS scores)) (VP (VBP are) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (NN noise) (NNS functions)) (PP (IN of) (NP (DT each) (NN instance)))) (PP (IN with) (NP (JJ minimal) (NNS assumptions)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT Each) (NN tweet)) (PP (IN from) (NP (DT the) (NN text) (NN corpora)))) (VP (VBD was) (VP (VBN assigned) (NP (DT a) (NN category)) (PP (VBN based) (PP (IN on) (NP (PRP$ its) (NN sentiment) (NN score)))))) (. .))

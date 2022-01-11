@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN system)))) (VP (VBZ has) (VP (VBN been) (VP (VBN evaluated) (PP (IN by) (NP (NP (NN selection) (NN time)) (, ,) (NP (NN selection) (NN accuracy)) (, ,) (NP (JJ false) (NN alarm) (NN rate)) (CC and) (NP (JJ average) (NN success) (NN rate))))))) (. .))
+(S (NP (DT The) (NN success) (NN rate)) (VP (VBZ has) (VP (VBN found) (NP (CD 98.1) (NN %)))) (. .))

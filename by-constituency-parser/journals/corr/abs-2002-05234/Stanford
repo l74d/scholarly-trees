@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (JJ practical) (NNS methods)) (S (VP (TO to) (VP (VB visualize) (NP (JJ modular) (NNS forms)))))) (. .))
+(S (NP (PRP We)) (VP (VBP survey) (NP (JJ several) (JJ current) (NNS visualizations))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP introduce) (NP (NP (DT an) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VP (VB take) (NP (NP (NN advantage)) (PP (IN of) (NP (NP (NNS colormaps)) (PP (IN in) (NP (NP (NN python) (POS 's)) (NN matplotlib) (NN library))))))) (CC and) (VP (VB describe) (NP (DT an) (NN implementation))))))))) (. .))

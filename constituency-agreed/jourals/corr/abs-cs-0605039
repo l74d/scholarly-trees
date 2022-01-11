@@ -1,0 +1,2 @@
+(S (NP (DT These)) (VP (VBP are) (ADVP (RB often)) (VP (VBN used) (PP (IN in) (NP (NN practice))) (PP (IN for) (NP (NN microprocessor) (NN verification))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (NP (PRP$ our) (NN algorithm)) (VP (VBZ is) (ADJP (JJ general) (RB enough) (S (VP (TO to) (VP (VB support) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN consistency) (NNS models)))) (PP (IN without) (NP (NP (DT any) (NN degradation)) (PP (IN in) (NP (NN performance)))))))))) (. .))

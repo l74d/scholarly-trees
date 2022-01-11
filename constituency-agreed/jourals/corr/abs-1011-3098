@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ new) (NN scheme)) (PP (IN for) (S (VP (VBG safeguarding) (NP (NN location) (NN privacy)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (DT The) (JJ exact) (NN location) (NN information)) (PP (IN of) (NP (DT a) (NN user)))) (VP (VBZ is) (VP (VBN replaced) (PP (IN by) (NP (PRP$ his) (NNP MBR))))) (. .))

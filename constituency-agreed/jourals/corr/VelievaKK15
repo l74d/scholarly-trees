@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN process)) (PP (IN of) (NP (NP (NN construction)) (PP (IN of) (NP (JJ such) (NN stand)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB conduct) (NP (NN verification)) (PP (IN on) (NP (DT a) (JJ real) (NN router)))))))) (. .))
+(SINV (PP (IN As) (NP (DT a) (NN result))) (VP (VBD was)) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG designing) (NP (DT an) (JJ experimental) (NN stand)))))) (. .))

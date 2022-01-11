@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT an) (NN example))) (, ,) (NP (DT the) (NN model)) (VP (VBD was) (VP (VBN split) (PP (IN into) (NP (NP (CD 154) (NNS simulations)) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (VP (VBN run) (ADVP (RB simultaneously)) (PP (IN on) (NP (NP (CD 64) (JJ separate) (NNS containers)) (PP (IN across) (NP (CD 4) (NNS servers))))))))))))) (. .))

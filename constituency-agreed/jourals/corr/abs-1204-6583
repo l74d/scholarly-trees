@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NN learning) (NN algorithm))) (, ,) (NP (NP (DT the) (JJ empirical) (NN mean)) (PP (IN of) (NP (DT the) (NN loss) (NN function)))) (VP (VBZ is) (VP (VBN minimized) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (NN classifier))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN learning) (NN algorithm))) (, ,) (ADVP (RB firstly)) (, ,) (NP (DT the) (NN uncertainty) (NN set)) (VP (VBZ is) (VP (VBN defined) (PP (IN for) (NP (DT each) (JJ binary) (NN label))) (PP (VBN based) (PP (IN on) (NP (DT the) (NN training) (NNS samples)))))) (. .))

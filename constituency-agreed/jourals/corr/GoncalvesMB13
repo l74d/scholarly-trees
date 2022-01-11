@@ -1,0 +1,4 @@
+(S (NP (NN Texture)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (JJ visual) (NN attribute)) (VP (VBN used) (S (VP (TO to) (VP (VB describe) (NP (NNS images)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP do) (RB not) (VP (VB capture) (NP (NP (DT the) (NNS details) (NN richness)) (PP (IN of) (NP (DT the) (NN image) (NN surface)))))) (. .))
+(S (NP (DT This) (NN model)) (VP (VBZ assumes) (SBAR (IN that) (S (NP (DT each) (NN agent)) (VP (MD can) (VP (VB interact) (PP (IN with) (NP (NP (DT the) (NN environment)) (CC and) (NP (DT each) (JJ other))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (JJ different) (NN texture) (NNS applications))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN technique)) (VP (CONJP (RB not) (RB only)) (VP (VBZ helps) (S (VP (TO to) (VP (VB avoid) (NP (NN overfitting)))))) (, ,) (CONJP (CC but) (RB also)) (VP (MD can) (VP (VB result) (PP (IN in) (NP (JJR lower) (NN training) (NN loss)))))) (. .))

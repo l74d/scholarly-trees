@@ -1,0 +1,1 @@
+(S (ADVP (RB Together)) (NP (DT the) (JJ different) (NNS implementations) (CC and) (NNS optimizations)) (VP (VBP comprise) (NP (NP (DT a) (JJ cohesive) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (NP (NP (JJ low) (NN latency)) (, ,) (NP (JJ high) (NN availability)) (, ,) (CC and) (NP (JJ strong) (NNS guarantees)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN framework)) (VP (VBZ is) (ADJP (JJ absent) (PP (IN of) (NP (DT any) (NNP Riemann) (NNS solvers)))) (SBAR (IN while) (S (NP (PRP it)) (VP (VBZ achieves) (NP (JJ numerical) (NN conservation)) (ADVP (RB naturally)))))) (. .))

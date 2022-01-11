@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN thesis)))) (VP (VBD was) (NP (NP (DT the) (NN design) (CC and) (NN development)) (PP (IN of) (NP (NP (DT an) (JJ interactive) (NN system)) (VP (VBG enhancing) (NP (JJ collaborative) (NN sensemaking))))))) (. .))
+(S (NP (DT The) (NN system) (NN design)) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (NP (JJ related) (NN work) (NN research)) (CC and) (NP (JJ preliminary) (NN user) (NN study)))))) (. .))
+(S (NP (DT The) (JJ spatial) (NN awareness)) (VP (VBZ is) (VP (VBN established) (PP (IN with) (NP (DT a) (NN motion) (VBG tracking) (NN system))))) (. .))
+(S (NP (NP (DT The) (NN information)) (PP (IN about) (NP (NP (NN position)) (PP (IN of) (NP (NNS tablets)))))) (VP (VBZ is) (VP (VBN received) (PP (IN by) (NP (DT a) (NN server))))) (. .))
+(S (NP (DT The) (NN server)) (VP (VP (VBZ communicates) (PP (IN with) (NP (DT the) (NNS devices)))) (CC and) (VP (VBZ manages) (NP (NP (DT the) (NN content)) (PP (IN of) (NP (DT each) (NN device)))))) (. .))
+(S (NP (NP (DT The) (NN evaluation)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBD was) (VP (VBN done) (PP (IN by) (NP (DT a) (NN user) (NN study))))) (. .))

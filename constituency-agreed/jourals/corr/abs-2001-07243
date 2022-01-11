@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN calibration)) (VP (VBZ is) (VP (VBN performed) (PP (IN in) (NP (NP (CD two) (NNS stages)) (, ,) (NP (CD 1)))))) (. .))
+(S (NP (NP (DT The) (JJ first) (NN stage)) (PP (IN of) (NP (JJ intrinsic) (NN calibration)))) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ valid) (PP (IN for) (NP (JJ thermal) (NNS cameras))))) (. .))

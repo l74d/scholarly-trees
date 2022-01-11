@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN method)) (VP (VBZ has) (NP (NP (DT a) (JJ single) (JJ free) (NN parameter)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VP (VBP determine) (ADVP (RB numerically))) (CC and) (VP (VB justify) (S (VP (VBG using) (NP (DT a) (JJ simple) (NN argument)))))))))) (. .))

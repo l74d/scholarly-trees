@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (NNP CUDA) (NN implementation)) (PP (IN of) (NP (NP (NNP Wagener) (POS 's)) (NNP PRAM) (NN convex) (NN hull) (NN algorithm))) (PP (IN in) (NP (CD two) (NNS dimensions))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN presented) (PP (IN in) (NP (NP (NNP Knuth) (POS 's)) (NN literate) (NN programming) (NN style))))) (. .))

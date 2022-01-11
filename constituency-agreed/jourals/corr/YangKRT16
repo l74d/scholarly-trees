@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ first) (NN algorithm)) (VP (VBZ uses) (NP (DT a) (JJ linear) (NN approximation)))) (, ,) (CC and) (S (NP (DT the) (NN second)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ submodular) (NN structure)) (PP (IN of) (NP (DT the) (NN optimization) (NN problem)))))))) (. .))

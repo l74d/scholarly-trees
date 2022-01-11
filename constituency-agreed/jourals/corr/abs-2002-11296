@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ differentiable) (NN sorting)) (PP (IN of) (NP (JJ internal) (NNS representations))))))) (. .))
+(S (ADVP (RB Concretely)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (NN meta) (VBG sorting) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (S (VP (TO to) (VP (VB generate) (NP (JJ latent) (NNS permutations)) (PP (IN over) (NP (NNS sequences))))))))))) (. .))

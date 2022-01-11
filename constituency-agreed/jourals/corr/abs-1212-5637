@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN cutsize)) (VP (VBZ is) (VP (VBN induced) (PP (IN by) (NP (NP (DT the) (JJ unknown) (JJ adversarial) (NN labeling)) (PP (IN of) (NP (DT the) (NN graph) (NNS nodes))))))) (. .))

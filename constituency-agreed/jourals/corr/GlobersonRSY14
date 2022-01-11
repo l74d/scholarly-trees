@@ -1,0 +1,3 @@
+(S (NP (NP (VBN Structured) (NN prediction) (NNS tasks)) (PP (IN in) (NP (NN machine) (NN learning)))) (VP (VBP involve) (NP (NP (DT the) (JJ simultaneous) (NN prediction)) (PP (IN of) (NP (JJ multiple) (NNS labels))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (ADVP (RB currently)) (NP (NP (DT no) (JJ theoretical) (NN account)) (PP (IN of) (NP (DT this) (NN intuition))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ takes) (NP (NP (DT a) (JJ significant) (NN step)) (PP (IN in) (NP (DT this) (NN direction))))) (. .))

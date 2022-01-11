@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NNS databases)) (VP (VBP are) (NP (NP (NN collection)) (PP (IN of) (NP (NNS tables)))))) (CC and) (S (NP (DT every) (NN table)) (VP (VBZ consists) (PP (IN of) (NP (NP (NNS numbers)) (PP (IN of) (NP (NNS attributes))))))) (. .))
+(S (NP (NP (DT The) (NNS queries)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBG being) (VP (VBN executed))))))) (VP (MD could) (VP (VB be) (VP (VBN analyzed) (PP (IN for) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NNS optimizations)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Lagrangian) (NN relaxation)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (ADVP (RB extensively)) (PP (IN in) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (NN approximation) (NN algorithms)))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (NNS studies) (NP (NP (PRP$ its) (NNS strengths) (CC and) (NNS limitations)) (SBAR (WHADVP (WRB when)) (S (VP (VBN applied) (PP (TO to) (NP (NNP Partial) (NNP Cover)))))))) (. .))

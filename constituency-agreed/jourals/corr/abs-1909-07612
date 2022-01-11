@@ -1,0 +1,4 @@
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT the) (NN goal))))) (, ,) (NP (PRP we)) (VP (VBP simplify) (NP (DT the) (NN rescue) (NN robot)) (PP (IN as) (NP (NP (DT a) (NN skeleton)) (PP (IN on) (NP (JJ inflated) (NN terrain)))))) (. .))
+(S (NP (PRP$ Its) (NN morphology)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN by) (NP (NP (NNS configurations)) (PP (IN of) (NP (JJ several) (NNS parameters)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP perform) (NP (JJ real) (NN robot) (NNS experiments)) (PP (IN on) (NP (CD three) (JJ different) (NNS obstacles)))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP we)) (VP (VP (VBP move) (NP (DT the) (NNS flippers)) (ADVP (RB very) (RB effectively))) (CC and) (VP (VBP are) (ADVP (RB thus)) (ADJP (JJ able) (S (VP (TO to) (VP (VB tackle) (NP (DT those) (NNS terrains)) (ADVP (RB very) (RB well))))))))))) (. .))

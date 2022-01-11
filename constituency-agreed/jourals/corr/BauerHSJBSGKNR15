@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP apply) (NP (NP (JJ various) (NN optimization) (NNS techniques)) (, ,) (PP (VBG including) (NP (NP (VBG buffering) (NNS techniques)) (, ,) (NP (JJ explicit) (NNP SIMD) (NN kernel) (NN vectorization)) (, ,) (CC and) (NP (NN communication) (NN hiding)))))) (. .))

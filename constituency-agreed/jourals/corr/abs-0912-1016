@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ concentrates) (PP (IN on) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (S (VP (VBG adapting) (NP (DT this) (NN concept)) (S (VP (TO to) (VP (VB work) (PP (IN as) (NP (DT a) (JJ generic) (NN template)))))))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VP (VBZ presents) (NP (NP (DT a) (NN drawback)) (PP (IN of) (S (VP (VBG using) (NP (NN java)) (PP (IN for) (NP (NN constraint) (NN extraction)))))))) (CC and) (VP (VBZ proposes) (NP (DT an) (NN alternative)))) (. .))

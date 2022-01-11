@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (CD two) (JJ main) (NNS challenges)) (PP (IN for) (NP (DT the) (JJ conventional) (NN kernel) (NN approximation) (NNS methods))))) (. .))
+(S (ADVP (RB First)) (, ,) (PP (IN before) (S (VP (VBG performing) (NP (NN kernel) (NN approximation))))) (, ,) (NP (DT a) (JJ good) (NN kernel)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN chosen)))))) (. .))
+(S (S (VP (VBG Picking) (NP (DT a) (JJ good) (NN kernel)))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB very) (JJ challenging)) (NN problem)) (PP (IN in) (NP (PRP itself))))) (. .))

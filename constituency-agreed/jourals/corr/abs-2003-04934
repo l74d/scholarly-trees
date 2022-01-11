@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN accuracy) (CC and) (NN robustness)) (PP (IN of) (NP (DT an) (NNP ML) (NN potential)))) (VP (VBZ is) (ADVP (RB primarily)) (VP (VBN limited) (PP (IN by) (NP (NP (DT the) (NN quality) (CC and) (NN diversity)) (PP (IN of) (NP (DT the) (NN training) (NN dataset))))))) (. .))

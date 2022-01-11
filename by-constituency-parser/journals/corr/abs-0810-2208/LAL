@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN capacity)) (PP (IN of) (NP (NN discrete-time) (, ,) (NN noncoherent) (, ,) (NN multipath) (NN fading) (NNS channels)))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NP (DT the) (NNS variances)) (PP (IN of) (NP (DT the) (NN path) (NNS gains)))) (VP (VBP decay) (ADVP (ADVP (JJR faster)) (PP (IN than) (ADVP (RB exponentially))))))) (, ,) (ADVP (RB then)) (NP (NN capacity)) (VP (VBZ is) (ADJP (VBN unbounded)) (PP (IN in) (NP (DT the) (NN transmit) (NN power)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (JJ such) (NNS functions)) (VP (VBP exhibit) (NP (JJ random) (NNS properties))))) (, ,) (NP (PRP they)) (VP (VBP are) (ADVP (RB locally)) (VP (VBN determined) (PP (IN by) (NP (NNP Morlet) (NN wavelet) (NNS parameters))))) (. .))

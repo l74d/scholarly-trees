@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (NP (DT a) (JJ feedforward) (JJ neural) (NN network)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB approximate) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (DT the) (JJ partial) (JJ differential) (NN equation))))))))) (. .))

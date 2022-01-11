@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (NP (VBG existing) (NN factorization) (NNS algorithms)) (VP (VBP are) (RB not) (ADJP (JJ suitable) (S (VP (TO to) (VP (VB process) (PP (IN in) (NP (NP (DT all) (CD three) (NNS conditions)) (PP (IN of) (NP (NP (NN size) (, ,) (NN density) (, ,) (CC and) (NN rank)) (PP (IN of) (NP (DT the) (NN tensor)))))))))))) (. .))

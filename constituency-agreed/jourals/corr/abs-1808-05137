@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS tasks)) (VP (VBP rely) (PP (IN on) (NP (DT a) (NN computer)))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (JJ computational) (NN integration)) (VP (MD can) (VP (VB be) (VP (VBN performed) (ADVP (RB directly)) (PP (IN with) (NP (DT the) (JJ human) (NN eye))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (JJ multiple) (NNS datasets) (CC and) (NNS models)))) (VP (VBP show) (SBAR (IN that) (S (NP (NNP UBVI)) (VP (VBZ provides) (NP (JJ reliable) (, ,) (JJ accurate) (JJ posterior) (NNS approximations)))))) (. .))

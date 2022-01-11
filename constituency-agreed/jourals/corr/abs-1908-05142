@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP concatenate) (NP (NP (DT the) (NNS features)) (PP (IN of) (NP (DT all) (CD three) (NNS branches)))) (PP (IN as) (NP (NP (DT the) (JJ final) (NN feature) (NN representation)) (PP (IN for) (NP (NNP Re-ID)))))) (. .))

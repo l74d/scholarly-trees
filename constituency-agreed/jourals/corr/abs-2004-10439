@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN method)) (PP (IN for) (S (VP (VBG classifying) (SBAR (IN whether) (CC or) (RB not) (S (NP (DT an) (NN action)) (VP (MD should) (VP (VB be) (VP (VBN considered) (S (ADJP (JJ safe)))))))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN introduced))) (. .))
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (DT the) (JJ estimated) (NN uncertainty)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB choose) (NP (JJ safe) (NNS actions)) (PP (IN in) (NP (JJ unknown) (NNS situations)))))))) (. .))

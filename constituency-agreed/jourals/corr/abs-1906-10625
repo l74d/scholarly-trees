@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (JJ next) (NN stage)) (PP (IN of) (NP (DT the) (NN assessment))))) (, ,) (NP (JJ anti-virus) (NNS engines)) (ADVP (RB then)) (VP (VBP test) (NP (DT the) (NN malware) (NN evasion) (NNS capabilities))) (. .))
+(S (NP (DT The) (NN thesis)) (VP (VP (VBZ examines) (NP (DT the) (NNS results))) (CC and) (VP (VBZ discusses) (NP (NP (DT the) (NNS strengths) (CC and) (NNS weaknesses)) (PP (IN of) (NP (DT each) (NN evasion) (NN technique)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS results)) (PP (IN on) (NP (JJ synthetic) (NNS datasets)))) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP GOPC) (NN algorithm)) (VP (MD can) (VP (VB recognize) (NP (NP (DT all) (NNS kinds)) (PP (IN of) (NP (NNS clusters)))) (ADVP (RB regardless) (PP (IN of) (NP (PRP$ their) (NNS shapes) (, ,) (NNS sizes) (, ,) (CC or) (NNS densities))))))))) (. .))

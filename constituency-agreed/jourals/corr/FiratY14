@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (VBN proposed) (NN learning) (NN method))) (, ,) (NP (JJ local) (NNS meshes)) (VP (VBP are) (VP (VBN formed) (PP (IN around) (NP (DT each) (NN voxel))))) (. .))
+(S (NP (NP (DT The) (NN distance)) (PP (IN between) (NP (NP (NNS voxels)) (PP (IN in) (NP (DT the) (NN mesh)))))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (S (VP (VBG using) (NP (DT a) (JJ functional) (NN neighbourhood) (NN concept))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP VCG)) (VP (VBZ is) (NP (NP (DT a) (JJ classical) (JJ combinatorial) (NN auction)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (JJ social) (NN welfare))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP re-visit) (NP (DT the) (NNP VCG) (NN auction) (NN vulnerability))) (CC and) (VP (VB consider) (NP (DT the) (NN bidder) (NN behavior)) (PP (IN in) (NP (JJ Bayesian) (NNS settings))))) (. .))

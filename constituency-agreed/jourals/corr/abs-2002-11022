@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (PRP they)) (VP (VBP bring) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN over-fitting))))) (. .))
+(S (SBAR (IN Although) (S (NP (NP (DT the) (NN generalization) (NN ability)) (PP (IN of) (NP (DT the) (VBG resulting) (NNS models)))) (VP (MD can) (VP (VB be) (VP (VBN enhanced) (PP (IN by) (NP (DT these) (NNS approaches)))))))) (, ,) (NP (DT the) (JJ conventional) (JJ binary) (NN dropout)) (VP (VBZ is) (RB not) (NP (DT the) (JJ optimal) (NN solution))) (. .))

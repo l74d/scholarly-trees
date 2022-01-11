@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN model)) (ADVP (RB often)) (VP (VBZ suffers) (PP (IN from) (NP (NP (DT the) (VBG vanishing) (NN gradient) (NN problem)) (SBAR (WHNP (WDT which)) (S (VP (VBZ limits) (NP (PRP$ its) (NNS performances)))))))) (. .))

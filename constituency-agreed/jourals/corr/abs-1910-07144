@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (NP (NNP EmApprox)) (VP (MD can) (VP (VB achieve) (NP (JJ significant) (NNS speedups)) (SBAR (IN if) (S (NP (NNS users)) (VP (MD can) (VP (VB tolerate) (NP (NP (JJ small) (NNS amounts)) (PP (IN of) (NP (NNS inaccuracies)))))))))) (. .))

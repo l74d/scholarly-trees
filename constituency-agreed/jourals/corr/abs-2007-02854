@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS rules)) (ADVP (RB then)) (VP (VBP are) (VP (VBN selected) (CC and) (VBN fuzzified) (PP (VBN based) (PP (IN on) (NP (NP (NN information)) (PP (IN from) (NP (NP (NN discretization)) (PP (IN of) (NP (JJ numerical) (NNS attributes)))))))))) (. .))

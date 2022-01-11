@@ -1,0 +1,1 @@
+(S (PP (IN Under) (NP (DT some) (JJ generic) (NNS assumptions))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN capacity)) (VP (VBZ grows) (ADVP (ADVP (RB much) (RBR more) (RB slowly)) (PP (IN than) (ADVP (RB linearly)))) (PP (IN with) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS antennas))))))))) (. .))

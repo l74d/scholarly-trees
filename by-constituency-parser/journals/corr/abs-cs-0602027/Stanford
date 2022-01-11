@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (RB here) (NN constraint) (NN programming) (PRN (-LRB- -LRB-) (NP (NN CP)) (-RRB- -RRB-))) (PP (IN by) (S (VP (VBG using) (NP (ADJP (NP (DT a) (NN proof)) (HYPH -) (JJ theoretic)) (NN perspective))))))) (. .))
+(S (PP (IN To) (NP (DT this) (NN end))) (NP (PRP we)) (VP (VBP identify) (NP (NP (CD three) (NNS levels)) (PP (IN of) (NP (NN abstraction))))) (. .))
+(S (NP (DT Each) (NN level)) (VP (VBZ sheds) (NP (NN light)) (PP (IN on) (NP (NP (DT the) (NN essence)) (PP (IN of) (NP (NN CP)))))) (. .))
+(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (DT the) (JJS highest) (NN level)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB bring) (NP (NN CP)) (ADVP (RBR closer) (PP (IN to) (NP (DT the) (NN computation)))) (PP (IN as) (NP (NN deduction) (NN paradigm))))))) (. .))
+(S (PP (IN At) (NP (DT the) (JJ middle) (NN level))) (NP (PRP we)) (VP (MD can) (VP (VB explain) (NP (JJ various) (NN constraint) (NN propagation) (NNS algorithms)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (PP (IN at) (NP (DT the) (JJS lowest) (NN level))) (NP (PRP we)) (VP (MD can) (VP (VB address) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NML (NML (JJ automatic) (NN generation)) (CC and) (NML (NML (NN optimization)) (PP (IN of) (NP (DT the) (NN constraint) (NN propagation))))) (NNS algorithms)))))) (. .))

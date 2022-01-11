@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT an) (NN image)) (VP (VBN resectioned) (PP (IN against) (NP (DT this) (NN model)))))) (, ,) (NP (PRP we)) (VP (VBP generate) (NP (NP (JJ robust) (NNS predictions)) (PP (IN of) (NP (NP (NN depth)) (, ,) (NP (NN surface) (NNS normals)) (, ,) (CC and) (NP (JJ semantic) (NNS labels)))))) (. .))

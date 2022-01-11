@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (CD one) (NN drawback)) (PP (IN of) (NP (DT this) (NN approach)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB weaken) (NP (NP (DT the) (JJ inductive) (NN bias)) (VP (ADVP (RB generally)) (VBN set) (PRT (RP up)) (PP (IN by) (NP (DT the) (JJ joint) (NN task) (NN optimization)))))))))) (. .))

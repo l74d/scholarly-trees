@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT a) (JJ different) (NN query) (NN algorithm)) (, ,) (S (VP (VP (VBG improving) (PP (IN on) (NP (NP (NNP Indyk) (POS 's)) (NN approximation) (NN factor)))) (CC and) (VP (VBG reducing) (NP (DT the) (NN running) (NN time)) (PP (IN by) (NP (DT a) (JJ logarithmic) (NN factor))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ theoretical) (NN analysis)) (, ,) (CC and) (NP (JJ experimental) (NNS results)))) (. .))

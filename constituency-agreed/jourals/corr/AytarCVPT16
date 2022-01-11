@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB learn) (NP (NP (JJ cross-modal) (NN scene) (NNS representations)) (SBAR (WHNP (WDT that)) (S (VP (VBP transfer) (PP (IN across) (NP (NNS modalities)))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB study) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT a) (JJ new) (JJ cross-modal) (NN scene) (NN dataset))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP suggest) (SBAR (IN that) (S (NP (PRP$ our) (NN scene) (NN representation)) (VP (MD can) (VP (VB help) (S (VP (VB transfer) (NP (NNS representations)) (PP (IN across) (NP (NP (NNS modalities)) (PP (IN for) (NP (NN retrieval)))))))))))) (. .))

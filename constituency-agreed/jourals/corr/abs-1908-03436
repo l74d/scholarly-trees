@@ -1,0 +1,3 @@
+(S (PP (IN By) (NP (NN design))) (NP (DT these) (NNS transformations)) (VP (VBP are) (ADJP (JJ composable)) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (JJ composable) (NN security)))))) (. .))
+(S (ADVP (RB Crucially)) (, ,) (NP (DT the) (JJ new) (NNS definitions)) (VP (VBP are) (ADJP (JJ finite))) (. .))
+(S (NP (NN Security)) (VP (VBZ does) (RB not) (VP (VB rely) (PP (IN on) (NP (NP (DT the) (JJ asymptotic) (NN hardness)) (PP (IN of) (NP (DT a) (JJ computational) (NN problem))))))) (. .))

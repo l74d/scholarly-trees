@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN result)))) (, ,) (NP (NP (DT some) (NNS properties)) (PP (IN of) (NP (NNP MDS) (NNS codes)))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN multiuser) (NN error) (NN probability)) (PP (IN of) (NP (NNP Reed) (NNP Solomon) (NNS codes))))) (. .))

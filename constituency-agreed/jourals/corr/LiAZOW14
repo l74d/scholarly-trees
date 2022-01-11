@@ -1,0 +1,2 @@
+(S (NP (NP (NN Uncertainty)) (PP (IN of) (NP (NP (DT the) (NN feature) (NN presence)) (PP (IN in) (NP (NNS transactions)))))) (VP (VBZ is) (VP (VBN taken) (PP (IN into) (NP (NN account))) (PP (IN in) (NP (PRP$ our) (NN model))))) (. .))
+(S (NP (DT The) (JJ statistical) (NN test)) (VP (VBZ is) (VP (VBN used) (PP (RB instead) (IN of) (NP (JJ global) (NNS thresholds))) (S (VP (TO to) (VP (VB detect) (NP (JJ significant) (NN co-location) (NNS patterns) (CC and) (NNS rules))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS methods)) (ADVP (RB usually)) (VP (VBP ignore) (NP (NP (DT the) (JJ semantic) (NN class) (NN information)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB help) (NP (NP (DT the) (NN improvement)) (PP (IN of) (NP (NP (DT the) (JJ semantic) (JJ discriminative) (NN ability)) (PP (IN of) (NP (NN hash) (NNS codes)))))))))))) (. .))

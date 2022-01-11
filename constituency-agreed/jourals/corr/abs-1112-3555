@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT these) (NNS conditions)) (VP (MD can) (VP (VB be) (VP (VBN verified) (PP (IN with) (NP (JJ exponential) (NN complexity)))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT the) (NN synthesis)) (PP (IN of) (NP (NN bisimilarity) (NNS supervisors)))) (VP (VBZ is) (VP (VBN presented) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN existence) (NN condition)) (VP (VBZ holds)))))) (. .))

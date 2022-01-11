@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP do) (NP (NP (DT an) (JJ extrinsic) (NN evaluation)) (PP (IN of) (NP (PRP$ our) (NNS paraphrases)))) (PP (IN by) (S (VP (VBG plugging) (NP (PRP them)) (PP (IN into) (NP (NP (DT a) (JJ semantic) (NN parser)) (PP (IN for) (NP (NNP Freebase))))))))) (. .))

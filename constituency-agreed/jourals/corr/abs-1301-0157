@@ -1,0 +1,2 @@
+(S (NP (NNP Mobile) (NNS phones)) (VP (VBP play) (NP (ADJP (RB increasingly) (JJR bigger)) (NN role)) (PP (IN in) (NP (PRP$ our) (JJ everyday) (NNS lives)))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN system)))) (PP (VBN based) (PP (IN on) (NP (NP (NN power) (NN consumption)) (PP (IN of) (NP (DT the) (JJ mobile) (NN client))))))) (. .))

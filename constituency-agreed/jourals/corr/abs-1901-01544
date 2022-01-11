@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (MD would) (VP (VP (VB speed) (PRT (RP up)) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (DT the) (NN model))))) (CC and) (VP (VB preserve) (NP (DT the) (NN training) (NN accuracy))))) (. .))

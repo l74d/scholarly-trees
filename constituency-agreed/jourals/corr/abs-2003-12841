@@ -1,0 +1,1 @@
+(S (S (NP (DT These) (NNS data)) (ADVP (RB often)) (VP (VBP cover) (NP (NP (RB only) (DT a) (ADJP (RB very) (JJ limited)) (NN set)) (PP (IN of) (NP (NN use) (NNS cases)))))) (: ;) (S (ADVP (RB therefore)) (, ,) (NP (DT the) (NNS results)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN generalised))))) (. .))

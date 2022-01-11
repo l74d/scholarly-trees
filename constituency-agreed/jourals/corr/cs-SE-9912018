@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (CD one) (NN version)) (PP (IN of) (NP (DT the) (NN problem)))) (VP (VBZ is) (ADJP (JJ intractable)) (, ,) (SBAR (IN while) (S (NP (DT another)) (VP (VBZ is) (ADJP (JJ solvable) (PP (IN by) (NP (DT an) (JJ efficient) (NN algorithm)))))))))))) (. .))
+(S (NP (NP (DT An) (NN implementation)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN described))) (. .))

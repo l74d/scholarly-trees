@@ -1,0 +1,2 @@
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (DT a) (JJ multi-robot) (NN system)) (VP (MD should) (VP (VB be) (VP (VBN connected) (S (VP (TO to) (VP (VB obtain) (NP (DT a) (JJ certain) (JJ common) (NN objective)))))))) (. .))
+(S (S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ mathematical) (NN proof)) (PP (IN of) (NP (DT the) (NN method)))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP demonstrate) (NP (PRP$ its) (NN versatility)) (PP (IN with) (NP (NP (NNS simulations)) (PP (IN of) (NP (JJ different) (NNS applications))))))) (. .))

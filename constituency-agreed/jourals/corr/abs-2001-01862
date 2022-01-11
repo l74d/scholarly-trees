@@ -1,0 +1,2 @@
+(S (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN question)) (PP (IN of) (NP (NN computer) (NN science))))) (. .))
+(S (NP (NNP Moschovakis)) (VP (VBD pointed) (PRT (RP out)) (SBAR (IN that) (S (NP (NP (JJ recursive) (NNS algorithms)) (PP (JJ such) (IN as) (NP (NN mergesort)))) (VP (VBP are) (RB not) (VP (VBN covered) (PP (IN by) (NP (DT this) (NN theory)))))))) (. .))

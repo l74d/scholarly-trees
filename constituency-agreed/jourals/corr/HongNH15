@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ deep) (JJ neural) (NN network) (NN architecture)) (PP (IN for) (NP (NP (JJ semi-supervised) (JJ semantic) (NN segmentation)) (VP (VBG using) (NP (JJ heterogeneous) (NNS annotations))))))) (. .))

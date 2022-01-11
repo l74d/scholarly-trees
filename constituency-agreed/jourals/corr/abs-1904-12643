@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ additional) (NN source)) (PP (IN of) (NP (NN preference) (NN information)))) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (NP (DT the) (NNS ratings)) (SBAR (WHNP (WDT that)) (S (NP (NNS users)) (VP (VBP provide) (PP (IN on) (NP (NP (NNS sets)) (PP (IN of) (NP (NNS items))))))))))))) (. .))
+(S (NP (NP (DT The) (NNS advantages)) (PP (IN of) (S (VP (VBG using) (NP (NNS preferences)) (PP (IN on) (NP (NNS sets))))))) (VP (VBP are) (ADJP (JJ two-fold))) (. .))

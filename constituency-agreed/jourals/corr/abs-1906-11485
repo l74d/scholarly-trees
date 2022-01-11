@@ -1,0 +1,2 @@
+(S (ADVP (RB Usually)) (, ,) (NP (PRP they)) (VP (VBP translate) (NP (DT the) (NNS expressions)) (ADVP (RB manually)) (PP (IN between) (NP (NNP DPS) (CC and) (NNP CAS)))) (. .))
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB automate) (NP (DT this) (NN translation)))))) (. .))

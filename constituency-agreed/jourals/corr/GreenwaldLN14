@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB predict)))) (, ,) (NP (NNP RoxyBot)) (VP (VBZ builds) (NP (NP (DT a) (JJ stochastic) (NN model)) (PP (IN of) (NP (NN market) (NNS prices)))) (PP (IN by) (S (VP (VBG simulating) (NP (JJ simultaneous) (VBG ascending) (NNS auctions)))))) (. .))

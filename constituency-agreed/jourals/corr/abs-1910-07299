@@ -1,0 +1,2 @@
+(S (NP (NNS Modules)) (VP (VBD were) (VP (VBN introduced) (PP (IN as) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NNP Boolean) (NN automata) (NNS networks))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ present) (NN paper))) (NP (PRP we)) (VP (VP (VBP extend) (NP (DT this) (JJ new) (NN formalism))) (CC and) (VP (VB study) (NP (NP (DT the) (JJ specific) (NN case)) (PP (IN of) (NP (JJ acyclic) (NNS modules)))))) (. .))

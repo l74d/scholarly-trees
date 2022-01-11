@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN task)) (VP (VBZ aims) (S (VP (TO to) (VP (VB search) (NP (DT a) (NN query) (NN person)) (PP (IN in) (NP (DT a) (JJ large) (NN image) (NN pool))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT the) (NN misalignment) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (SBAR (IN that) (S (NP (NN alignment)) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN from) (NP (DT an) (NN identification) (NN procedure))))))))) (. .))

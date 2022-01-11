@@ -1,0 +1,2 @@
+(S (NP (JJ Multiple) (NNS requests)) (VP (MD may) (VP (VB be) (PP (IN for) (NP (DT the) (JJ same) (NN page))))) (. .))
+(S (NP (PRP We)) (VP (MD will) (VP (VB assume) (SBAR (IN that) (S (NP (NP (DT the) (NN power)) (VP (VBN consumed))) (VP (VBZ is) (VP (VBN modeled) (PP (IN by) (NP (DT an) (JJ arbitrary) (NN convex) (NN function))))))))) (. .))

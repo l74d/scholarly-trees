@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (JJ skeletal) (JJ kinetic) (NN scheme)) (PP (IN of) (NP (NN hydrogen) (NN oxidation)))) (VP (VBZ has) (VP (VBN been) (VP (VBN developed)))) (. .))
+(S (NP (NP (DT The) (NN relationship)) (PP (IN between) (NP (NP (NN grid) (NN spacing)) (, ,) (NP (NN timestep)) (, ,) (NP (NN accuracy)) (, ,) (CC and) (NP (JJ computational) (NN cost))))) (VP (VBD were) (VP (VBN analyzed))) (. .))

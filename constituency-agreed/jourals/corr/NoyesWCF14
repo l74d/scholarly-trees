@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN tool)) (VP (VBZ generates) (NP (NP (JJ efficient) (NNS updates)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB respect) (NP (NP (NNS invariants)) (VP (VBN specified) (PP (IN by) (NP (DT the) (NN operator)))))))))))))) (. .))

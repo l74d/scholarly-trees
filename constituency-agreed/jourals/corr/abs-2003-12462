@@ -1,0 +1,1 @@
+(S (NP (NP (PRP$ Our) (NN analysis)) (PP (IN with) (NP (ADJP (JJ automatic) (CC and) (JJ human)) (NNS studies)))) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (JJ new) (NNP TextCaps) (NN dataset)) (VP (VBZ provides) (NP (NP (JJ many) (JJ new) (JJ technical) (NNS challenges)) (PP (IN over) (NP (JJ previous) (NNS datasets)))))))) (. .))

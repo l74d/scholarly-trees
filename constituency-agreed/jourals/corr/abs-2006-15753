@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP MSA) (NN problem)) (VP (VP (VBZ is) (VP (VBN formulated) (PP (IN as) (NP (DT a) (JJ discrete) (NN optimization) (NN problem))))) (CC and) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN solved) (PP (IN by) (NP (JJ dynamic) (NN programming)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Robotic) (NN manipulation)) (VP (VBZ involves) (NP (NP (NNS actions)) (SBAR (WHADVP (WRB where)) (S (NP (NNS contacts)) (VP (VBP occur) (PP (IN between) (NP (NP (DT the) (NN robot)) (CC and) (NP (DT the) (NNS objects))))))))) (. .))
+(S (NP (DT The) (NN proposal)) (VP (VP (VBZ has) (VP (VBN been) (VP (VBN implemented)))) (CC and) (VP (VBZ is) (VP (VBN illustrated) (CC and) (VBN validated) (PP (IN with) (NP (DT a) (JJ simple) (NN example)))))) (. .))

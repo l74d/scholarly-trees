@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT this) (NN regularizer)))) (PP (IN across) (NP (NP (JJ several) (NNS architectures)) (VP (VBN trained) (PP (IN on) (NP (JJ common) (NN benchmark) (NN image) (NN generation) (NNS tasks))))))) (. .))
+(S (NP (PRP$ Our) (NN regularization)) (VP (VBZ turns) (NP (NNP GAN) (NNS models)) (PP (IN into) (NP (NP (JJ reliable) (NN building) (NNS blocks)) (PP (IN for) (NP (JJ deep) (NN learning)))))) (. .))

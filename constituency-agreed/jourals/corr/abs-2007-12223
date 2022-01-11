@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP combine) (NP (DT these) (NNS observations)) (S (VP (TO to) (VP (VB assess) (SBAR (IN whether) (S (NP (JJ such) (JJ trainable) (, ,) (JJ transferrable) (NNS subnetworks)) (VP (VBP exist) (PP (IN in) (NP (JJ pre-trained) (NNP BERT) (NNS models)))))))))) (. .))

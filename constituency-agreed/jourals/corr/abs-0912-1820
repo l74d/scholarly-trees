@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN taken) (NP (JJ Assamese) (NN language)) (S (VP (TO to) (VP (VB check) (NP (NP (DT the) (NNS grammars)) (PP (IN of) (NP (DT the) (NN input) (NN sentence))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN made) (NP (NN grammar) (NNS rules)) (PP (IN by) (S (VP (VBG analyzing) (NP (NP (DT the) (NNS structures)) (PP (IN of) (NP (JJ Assamese) (NNS sentences))))))))) (. .))

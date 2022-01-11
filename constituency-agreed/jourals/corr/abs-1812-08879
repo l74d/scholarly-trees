@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT a) (JJ semantic) (NN representation)) (VP (VBN provided) (PP (IN by) (NP (DT the) (NN dialogue) (NN manager)))))) (, ,) (NP (DT the) (NN language) (NN generator)) (VP (MD should) (VP (VB generate) (NP (NP (NNS sentences)) (SBAR (WHNP (WDT that)) (S (VP (VBP convey) (NP (VBN desired) (NN information)))))))) (. .))

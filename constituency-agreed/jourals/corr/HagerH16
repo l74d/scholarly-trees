@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (MD would) (ADVP (RB never)) (VP (VB happen) (ADVP (RB here)))) (. .))
+(SQ (CC Or) (MD could) (NP (PRP it)) (. ?))
+(S (S (NP (PRP You)) (VP (VBP are) (VP (VBN instructed) (S (VP (TO to) (VP (VB lie) (PRT (RP down)) (PP (IN on) (NP (DT the) (NN operating) (NN table))))))))) (, ,) (CC and) (S (NP (DT the) (NNP OR) (NN system)) (VP (VBZ takes) (PRT (RP over)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ creates) (NP (NP (DT a) (NN system)) (PP (IN with) (NP (CD three) (JJ dependent) (NNS queues))))) (. .))
+(S (S (NP (JJ Various) (NN performance) (NNS measures)) (VP (VBP are) (VP (VBN calculated)))) (CC and) (S (NP (JJ numerical) (NNS results)) (VP (VBP are) (VP (VBN presented)))) (. .))

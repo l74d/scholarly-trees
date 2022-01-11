@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (JJ original) (NN problem))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (S (NP (DT an) (NN algorithm)) (VP (MD can) (VP (VB solve) (NP (DT the) (NN problem)) (PP (IN in) (NP (DT the) (JJ illustrative) (NN case)))))))) (. .))
+(S (S (VP (TO To) (VP (VB reduce) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (JJ original) (NN problem))))))) (, ,) (NP (DT an) (NN approximation)) (VP (VBZ is) (VP (VBN proposed))) (. .))

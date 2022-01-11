@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS models)) (VP (VBP are) (VP (VBN developed) (PP (IN for) (NP (NP (JJ light) (NN duty) (NNS vehicles)) (, ,) (NP (NNS buses)) (, ,) (CC and) (NP (JJ heavy) (NN duty) (NNS trucks)))))) (. .))
+(S (S (VP (VBG Using) (NP (DT these) (NNS models)))) (NP (PRP we)) (VP (VBP estimate) (NP (NP (DT the) (JJ potential) (NN fuel) (NN reduction)) (VP (VBN associated) (PP (IN with) (NP (NP (JJ homogeneous) (NNS platoons)) (PP (IN of) (NP (NP (JJ light) (NN duty) (NNS vehicles)) (, ,) (NP (NNS buses)) (, ,) (CC and) (NP (JJ heavy) (NN duty) (NNS trucks))))))))) (. .))

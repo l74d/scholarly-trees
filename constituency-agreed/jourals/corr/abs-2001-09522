@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (PP (IN in) (NP (JJ many) (NNS applications))) (, ,) (NP (NP (JJ dynamic) (NNS expansions)) (PP (IN of) (NP (DT an) (VBG existing) (NN taxonomy)))) (VP (VBP are) (PP (IN in) (NP (JJ great) (NN demand)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB expand) (NP (DT an) (VBG existing) (NN taxonomy)) (PP (IN by) (S (VP (VBG adding) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ new) (NNS concepts)))))))))))) (. .))

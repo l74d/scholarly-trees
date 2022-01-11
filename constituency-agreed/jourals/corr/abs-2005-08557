@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ discrete) (JJ stochastic) (JJ nonlinear) (JJ dynamical) (NN system)) (VP (VBZ is) (VP (VBN studied) (PP (IN over) (NP (DT a) (JJ finite) (NN time) (NN horizon))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (DT an) (NN example)) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (DT the) (JJ genetic) (NN algorithm)) (VP (VBZ outperforms) (NP (DT a) (JJ random) (NN trial) (NN optimization)))))) (. .))

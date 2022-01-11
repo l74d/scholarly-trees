@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NP (NNS advantages)) (PP (IN of) (NP (DT this) (NN approach)))))) (VP (VBP are) (VP (VBN presented) (, ,) (PP (IN by) (NP (NNS examples))))) (. .))
+(S (NP (DT All) (NNS examples)) (VP (VBP are) (VP (VBN supplied) (PP (IN by) (NP (JJ open) (NN source) (NN code))))) (. .))

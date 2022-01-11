@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB optimize) (NP (DT the) (NN training) (NN procedure))))) (, ,) (NP (PRP we)) (VP (VBP apply) (NP (DT a) (JJ posterior) (NN regularization) (NN strategy)) (S (VP (TO to) (VP (VB integrate) (NP (JJ indirect) (NN supervision)))))) (. .))

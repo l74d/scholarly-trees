@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ co-sparse) (NN analysis) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (NN interdependency)) (PP (IN of) (NP (CD two) (NN image) (NNS modalities))))))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ extends) (NP (NP (DT the) (NN work)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS authors)))))) (PP (IN by) (NP (CD two) (JJ major) (NNS contributions)))) (. .))

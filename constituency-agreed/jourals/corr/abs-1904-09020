@@ -1,0 +1,2 @@
+(S (NP (NNP Genie)) (VP (VBZ needs) (NP (NP (RB only) (DT a) (JJ small) (JJ realistic) (NN set)) (PP (IN of) (NP (NN input) (NNS sentences)))) (PP (IN for) (S (VP (VBG validating) (NP (DT the) (JJ neural) (NN model)))))) (. .))
+(S (NP (PRP We)) (VP (VBP apply) (NP (DT these) (NNS principles)) (S (VP (TO to) (VP (VB revise) (NP (NP (NNP ThingTalk)) (, ,) (NP (NP (DT the) (NN language)) (VP (VBN used) (PP (IN by) (NP (DT the) (NNP Almond) (JJ virtual) (NN assistant)))))))))) (. .))

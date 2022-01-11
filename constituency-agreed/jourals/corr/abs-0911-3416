@@ -1,0 +1,2 @@
+(SBARQ (WHADVP (WRB How)) (SQ (VBZ does) (NP (DT this) (NN transformation)) (VP (VB affect) (NP (DT the) (NN analysis)))) (. ?))
+(S (NP (PRP We)) (VP (VBP recommend) (PP (IN against) (NP (DT the) (JJ logarithmic) (NN transformation))) (SBAR (WHADVP (WRB when)) (S (NP (NNS sets)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN defined) (ADVP (RB unambiguously)))))))) (. .))

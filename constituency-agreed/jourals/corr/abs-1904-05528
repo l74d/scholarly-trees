@@ -1,0 +1,1 @@
+(S (NP (NN Cryptography)) (VP (VBZ is) (NP (NP (DT the) (NN science)) (SBAR (WHNP (WDT that)) (S (VP (VBZ secures) (NP (NNS data) (CC and) (NN communication)) (PP (IN over) (NP (DT the) (NN network))) (PP (IN by) (S (VP (VBG applying) (NP (NNS mathematics) (CC and) (NN logic)) (S (VP (TO to) (VP (VB design) (NP (JJ strong) (NN encryption) (NNS methods))))))))))))) (. .))

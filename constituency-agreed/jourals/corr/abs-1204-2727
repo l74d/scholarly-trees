@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN ratio)) (PP (IN between) (NP (NP (NP (DT the) (JJ maximum) (NN weight)) (PP (IN of) (NP (DT a) (JJ perfect) (NN matching)))) (CC and) (NP (NP (DT the) (JJ maximum) (NN weight)) (PP (IN of) (NP (DT a) (JJ general) (NN matching)))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP characterize) (NP (NP (NNS graphs)) (SBAR (WHNP (WDT that)) (S (VP (VBP attain) (NP (DT the) (JJ extreme) (NNS ratios))))))) (. .))

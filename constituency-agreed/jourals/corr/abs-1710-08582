@@ -1,0 +1,2 @@
+(S (NP (JJ Extensive) (NNS simulations)) (VP (VBP are) (VP (VBN conducted) (PP (IN for) (NP (NP (NN analysis) (NN validation)) (CC and) (NP (NN performance) (NN evaluation)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (JJ optimal) (NN clustering)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed) (S (VP (VBG considering) (NP (NP (DT the) (NNS influences)) (PP (IN of) (NP (JJ different) (NN system) (NNS parameters)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP call) (S (NP (PRP it)) (NP (DT the) (NN descriptor) (NN network)))) (. .))
+(S (NP (DT The) (JJ second) (NN model)) (VP (VBZ is) (NP (NP (DT a) (NN generator) (NN network)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (JJ non-linear) (NN version)) (PP (IN of) (NP (NN factor) (NN analysis))))))))) (. .))

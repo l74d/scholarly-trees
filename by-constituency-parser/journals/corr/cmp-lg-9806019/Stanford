@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (ADJP (NN corpus) (HYPH -) (VBN based)) (NN investigation)) (PP (IN of) (NP (NP (NNS proposals)) (PP (IN in) (NP (NN dialogue))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VP (VBP describe) (NP (PRP$ our) (NNP DRI) (NML (ADJP (JJ compliant)) (NN coding)) (NN scheme))) (CC and) (VP (VB report) (NP (PRP$ our) (NN inter-coder) (NN reliability) (NNS results)))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (PRP we)) (VP (VBP test) (NP (JJ several) (NNS hypotheses)) (PP (IN about) (SBAR (WHNP (WP what)) (S (VP (VBZ constitutes) (NP (DT a) (ADJP (RB well) (HYPH -) (VBN formed)) (NN proposal))))))) (. .))

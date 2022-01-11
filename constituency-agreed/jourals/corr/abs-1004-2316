@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP clarify) (SBAR (IN that) (S (NP (DT the) (NN deviance) (NN information) (NNS criteria)) (VP (VBP are) (ADJP (JJ different) (PP (IN from) (NP (NP (DT the) (NNP Bayes) (NN cross-validation)) (CC and) (NP (DT the) (ADJP (RB widely) (JJ applicable)) (NN information) (NN criterion))))))))) (. .))

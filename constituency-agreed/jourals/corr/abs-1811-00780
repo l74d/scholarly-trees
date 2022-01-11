@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (NNS annotators)) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ unreliable)))) (CC and) (S (NP (JJ current) (NN aggregation) (NNS methods)) (VP (MD can) (RB not) (VP (VB capture) (NP (NP (JJ common) (NNS types)) (PP (IN of) (NP (NN span) (NN annotation) (NNS errors))))))) (. .))

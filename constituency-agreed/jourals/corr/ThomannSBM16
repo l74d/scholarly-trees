@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT a) (NN decomposition) (NN strategy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (PP (IN on) (NP (JJ small) (, ,) (ADJP (RB spatially) (VBN defined)) (NNS data) (NNS chunks)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP report) (NP (NP (DT an) (NN experiment)) (PP (IN on) (NP (QP (CD 32) (CD million)) (NN training) (NNS samples))))) (. .))

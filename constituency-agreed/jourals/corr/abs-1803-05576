@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT this) (NN model)) (VP (VBZ learns) (PP (IN from) (NP (NP (JJ unpaired) (NN image) (NNS sets)) (PP (IN with) (NP (JJ different) (NNS attributes)))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN framework)) (VP (MD can) (VP (VB handle) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NP (NNS expressions)) (, ,) (NP (NNS accessories)) (, ,) (CC and) (NP (NN makeup) (NNS effects)))))))))) (. .))

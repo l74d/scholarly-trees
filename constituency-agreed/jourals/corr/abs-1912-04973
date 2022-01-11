@@ -1,0 +1,1 @@
+(S (ADVP (RB Secondly)) (, ,) (NP (PRP we)) (VP (VBP account) (PP (IN for) (NP (NP (DT the) (JJ variable) (NN variance)) (PP (IN of) (NP (JJ different) (NNS categories))))) (PP (IN by) (S (VP (VBG using) (NP (DT a) (NN network)) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NN variance)) (PP (IN of) (NP (DT each) (NN class))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (ADJP (RB naturally) (VBG occurring)) (NN curriculum)) (VP (VBZ is) (VP (VBN supplemented) (PP (IN by) (NP (NP (DT an) (JJ active) (NN learning) (NN curriculum)) (VP (VBG resulting) (PP (IN from) (NP (NP (DT the) (NN agent) (POS 's)) (JJ intrinsic) (NNS motivations)))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN presented) (PP (IN with) (NP (NP (DT a) (JJ simulated) (JJ robotic) (NN arm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interacts) (PP (IN with) (NP (NP (JJ several) (NNS objects)) (PP (VBG including) (NP (NNS tools)))))))))))) (. .))

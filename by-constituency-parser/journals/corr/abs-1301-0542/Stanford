@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (ADJP (JJ compressed) (S (VP (VBG sensing)))) (NN setting))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (WRB how)) (PP (IN to) (NP (NP (VBN bound) (DT this) (NN rate)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (JJ restricted) (NN isometry) (NN constant)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP make) (NP (DT no) (NN attempt)) (PP (IN at) (S (VP (VBG characterizing) (NP (DT the) (JJ transient) (NN regime)) (S (VP (VBG preceding) (NP (NP (DT the) (NN onset)) (PP (IN of) (NP (JJ linear) (NN convergence)))))))))) (. .))

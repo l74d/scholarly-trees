@@ -1,0 +1,2 @@
+(S (ADVP (RB Indeed)) (, ,) (NP (PRP it)) (VP (VBZ represents) (NP (NP (DT a) (JJ special) (NN case)) (PP (IN of) (NP (NP (DT a) (JJ multi-objective) (NN problem)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT all) (NNS objectives)) (VP (VBP are) (VP (VBN prioritized) (ADVP (RB equally)))))))))) (. .))
+(S (NP (NNS Agents)) (VP (VBP update) (NP (PRP$ their) (NN decision) (NNS variables)) (PP (IN by) (S (VP (VBG exchanging) (NP (NN information)) (PP (IN with) (NP (NP (JJ other) (NNS agents)) (PP (IN in) (NP (DT the) (NN network))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN detection) (NN system)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB detect) (NP (NN propeller) (NN failure)) (PP (IN in) (NP (DT a) (JJ short) (NN time)))) (CC and) (VP (VB stabilize) (NP (DT the) (NN quadcopter)))))))) (. .))

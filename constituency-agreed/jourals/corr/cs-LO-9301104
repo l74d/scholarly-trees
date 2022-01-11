@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ interactive) (NN theorem) (NN prover)) (, ,) (NP (NNP Isabelle)) (, ,)) (VP (VBZ is) (PP (IN under) (NP (NN development)))) (. .))
+(S (PP (IN In) (NP (NNP Isabelle))) (, ,) (NP (DT each) (NN inference) (NN rule)) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (DT a) (NNP Horn) (NN clause))))) (. .))

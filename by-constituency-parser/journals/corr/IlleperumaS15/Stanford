@@ -1,0 +1,7 @@
+(S (NP (NNP Honey) (NNS bees)) (VP (VBP use) (NP (JJ optical) (NN flow)) (S (VP (TO to) (VP (VB avoid) (NP (NNS obstacles)) (ADVP (RB effectively)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN research) (NN work))) (NP (JJ similar) (NN methodology)) (VP (VBD was) (VP (VBN tested) (PP (IN on) (NP (DT a) (JJ simulated) (JJ mobile) (NN robot))))) (. .))
+(S (NP (NNP Simulation) (NN framework)) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (NNP VRML) (CC and) (NNP Simulink))) (PP (IN in) (NP (DT a) (JJ 3D) (NN world))))) (. .))
+(S (NP (NML (JJ Optical) (NN flow)) (NNS vectors)) (VP (VBD were) (VP (VBN calculated) (PP (IN from) (NP (NP (DT a) (JJ video) (NN scene)) (VP (VBN captured) (PP (IN by) (NP (NP (DT a) (JJ virtual) (NN camera)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN used) (PP (IN as) (NP (NNS inputs))) (PP (IN to) (NP (DT a) (JJ fuzzy) (NN logic) (NN controller)))))))))))))) (. .))
+(S (NP (JJ Fuzzy) (NN logic) (NN controller)) (VP (VBD decided) (NP (NP (DT the) (NN locomotion)) (PP (IN of) (NP (DT the) (NN robot))))) (. .))
+(S (NP (JJ Different) (JJ fuzzy) (NN logic) (NNS rules)) (VP (VBD were) (VP (VBN evaluated))) (. .))
+(S (NP (DT The) (NN robot)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB navigate) (PP (IN through) (NP (NP (JJ complex) (NN static)) (CC and) (NP (JJ dynamic) (NNS environments)))) (ADVP (RB effectively)))))) (, ,) (S (VP (VBG avoiding) (NP (NNS obstacles)) (PP (IN on) (NP (PRP$ its) (NN path)))))) (. .))

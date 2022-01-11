@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (DT a) (NN solution)) (PP (IN to) (NP (NP (NP (DT the) (NNP Petri) (HYPH -) (NNPS Nets)) (TO to) (NP (NNS statecharts) (NN case))) (VP (VBG using) (NP (NN UML) (HYPH -) (NN RSDS)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT a) (ADJP (RB highly) (JJ declarative)) (NN solution)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ confluent) (CC and) (JJ invertible)))))) (VP (MD can) (VP (VB be) (VP (VBN given) (S (VP (VBG using) (NP (DT this) (NN approach)))))))))) (. .))

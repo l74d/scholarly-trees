@@ -1,0 +1,3 @@
+(S (S (NP (NP (NN Correctness)) (PP (IN in) (NP (DT this) (NN sense)))) (VP (VBZ does) (RB not) (ADVP (RB necessarily)) (VP (VB preserve) (NP (NN security))))) (: :) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (JJ standard) (NNS optimizations)) (VP (MD may) (VP (VB break) (CC or) (VB weaken) (NP (NP (NN security) (NNS properties)) (SBAR (WHNP (WDT that)) (S (VP (VBP hold) (PP (IN of) (NP (DT the) (NN source) (NN program)))))))))))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ develops) (NP (NP (DT a) (NN translation) (NN validation) (NN method)) (PP (IN for) (NP (JJ secure) (NN compilation))))) (. .))
+(S (NP (DT This) (NN process)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN for) (NP (JJ common) (NNS optimizations))))) (. .))

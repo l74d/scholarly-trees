@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (VBG existing) (NNS methods)) (ADVP (RB typically)) (VP (VBP employ) (NP (RB only) (DT a) (JJ single) (NN policy))) (. .))
+(S (NP (NP (DT An) (JJ appropriate) (JJ pre-trained) (NN policy)) (PP (IN from) (NP (DT the) (NN map)))) (VP (MD can) (VP (VB be) (VP (VBN recalled) (S (VP (VBG using) (NP (JJ Bayesian) (NN optimization))))))) (. .))

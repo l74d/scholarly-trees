@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN approach)) (PP (IN for) (NP (NP (NN game) (NN bot) (NN detection)) (PP (IN in) (NP (NNP MMORPGs)))))) (VP (VBZ is) (VP (VBN proposed) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NN game) (VBG playing) (NN behavior)))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP it)) (VP (VBZ develops) (NP (NP (DT a) (JJ local) (NN bot) (NN detection) (NN model)) (PP (IN for) (NP (DT each) (NN player) (NN group))))) (. .))

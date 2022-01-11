@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (PRP$ our) (NN target)) (PP (IN as) (NP (NP (DT an) (NN optimization) (NN problem)) (PP (IN with) (NP (JJ nonlinear) (NNS constraints)))))) (. .))
+(S (ADVP (RB Further)) (, ,) (PP (VBN compared) (PP (IN with) (NP (JJ normal) (NNS models)))) (, ,) (NP (DT the) (JJ robust) (NNS models)) (VP (VBP have) (NP (NP (ADJP (RB even) (JJR larger)) (JJ non-uniform) (NNS bounds)) (CC and) (NP (JJR better) (NN interpretability)))) (. .))

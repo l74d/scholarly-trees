@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ combinatorial) (NN optimization) (NNS problems)))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN assumed) (SBAR (IN that) (S (NP (DT a) (NN solution)) (VP (MD can) (VP (VB be) (VP (VBN constructed) (PP (IN in) (NP (CD two) (NNS stages)))))))))) (. .))

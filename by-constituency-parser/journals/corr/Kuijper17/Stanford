@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (ADJP (JJ oblivious)) (NN walk)) (PP (IN for) (NP (NN point) (NN location)))) (PP (IN in) (NP (NP (ADJP (CD 2) (HYPH -) (JJ dimensional)) (NNS triangulations)) (CC and) (NP (DT a) (VBG corresponding)))))) (, ,) (S (ADVP (RB strictly)) (ADVP (RB monotonically)) (VP (VBG decreasing) (NP (NN distance) (NN measure)))) (. .))

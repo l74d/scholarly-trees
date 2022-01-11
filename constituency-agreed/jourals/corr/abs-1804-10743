@@ -1,0 +1,2 @@
+(S (CC And) (NP (DT the) (NN face) (NN detection) (NN model)) (VP (VBZ is) (VP (VBN trained) (PP (IN by) (NP (DT the) (JJ above) (NNS labels))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN face) (NN detection) (NN network)))) (VP (MD can) (ADVP (RB consistently)) (VP (VB be) (VP (VBN improved) (PP (VBN based) (PP (IN on) (NP (PRP$ our) (VBN proposed) (NN scheme)))))))))) (. .))

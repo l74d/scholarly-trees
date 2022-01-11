@@ -1,0 +1,3 @@
+(S (NP (DT The) (NML (JJ Regular) (NNP Post)) (NNP Embedding) (NNP Problem)) (VP (VBD extended) (PP (IN with) (NP (NP (JJ partial) (PRN (-LRB- -LRB-) (NP (NN co)) (-RRB- -RRB-)) (NN directness)) (SBAR (S (VP (VBZ is) (VP (VBN shown) (S (ADJP (JJ decidable)))))))))) (. .))
+(S (NP (DT This)) (VP (VP (VBZ extends) (PP (IN to) (NP (JJ universal)))) (CONJP (CC and) (HYPH /) (CC or)) (VP (VBG counting) (NP (NNS versions)))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown) (SBAR (IN that) (S (S (VP (VBG combining) (NP (NN directness) (CC and) (NN codirectness)) (PP (IN in) (NP (NNP Post) (NN Embedding) (NNS problems))))) (VP (VBZ leads) (PP (IN to) (NP (NN undecidability)))))))) (. .))

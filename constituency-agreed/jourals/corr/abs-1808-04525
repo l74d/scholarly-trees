@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNS codes)) (VP (VBP are) (VP (VBN learned) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (JJ coarse) (NN structure)) (PP (IN of) (NP (DT the) (NN target) (NN sentence))))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN translation) (NN performance)) (VP (VBP are) (ADVP (RB generally)) (VP (VBN improved) (PP (IN by) (S (VP (VBG planning) (ADVP (RB ahead)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (NNS translations)) (PP (IN with) (NP (JJ different) (NNS structures)))) (VP (MD can) (VP (VB be) (VP (VBN obtained) (PP (IN by) (S (VP (VBG manipulating) (NP (DT the) (NN planner) (NNS codes))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ uses) (NP (NP (DT a) (JJ linear) (NN model)) (VP (VBN trained) (PP (IN on) (NP (NP (NNS data)) (VP (VBN gathered) (PP (IN at) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (NN search))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB use) (NP (JJ such) (NN cost) (NNS estimations)) (S (VP (TO to) (VP (VB select) (NP (DT a) (NN solver)) (PP (IN from) (NP (DT a) (NN portfolio))))))))))) (. .))

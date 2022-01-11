@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NNS platoons)) (VP (VBP need) (S (VP (TO to) (VP (VB coordinate) (PP (IN with) (NP (DT each) (JJ other))) (S (VP (TO to) (VP (VB ensure) (NP (NP (DT the) (JJ groupcast) (NN quality)) (PP (IN of) (NP (DT each) (NN platoon))))))))))) (. .))
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (PRP we)) (VP (VBP decrease) (NP (DT the) (NN training) (NN burden)) (PP (IN by) (S (VP (VBG sharing) (NP (DT the) (JJ neural) (NN network) (NNS parameters)))))) (. .))

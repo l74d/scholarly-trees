@@ -1,0 +1,2 @@
+(S (NP (JJ Transitional) (NNS patterns)) (VP (VBP are) (NP (NP (DT the) (NNS patterns)) (SBAR (WHNP (WDT which)) (S (VP (VBP specify) (NP (NP (DT the) (JJ dynamic) (NN behavior)) (PP (IN of) (NP (NP (JJ frequent) (NNS patterns)) (PP (IN in) (NP (DT a) (NN transaction) (NN database))))))))))) (. .))
+(S (NP (DT These) (JJ frequent) (NNS patterns)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN generation)) (PP (IN of) (NP (JJ transitional) (NNS patterns))))))) (. .))

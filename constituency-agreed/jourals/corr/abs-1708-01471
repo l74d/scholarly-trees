@@ -1,0 +1,1 @@
+(S (S (VP (VBG Combining) (NP (DT the) (VBN proposed) (NNP MFB) (NN approach)) (PP (IN with) (NP (NP (NN co-attention) (NN learning)) (PP (IN in) (NP (DT a) (JJ new) (NN network) (NN architecture))))))) (VP (VBZ provides) (NP (NP (DT a) (JJ unified) (NN model)) (PP (IN for) (NP (NNP VQA))))) (. .))

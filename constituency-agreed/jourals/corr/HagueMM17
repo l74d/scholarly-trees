@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ such) (NNS games))) (, ,) (NP (NP (NNS non-terminals)) (PP (IN of) (NP (DT the) (NN grammar)))) (VP (VBP are) (VP (VBN controlled) (PP (IN by) (NP (VBG opposing) (NNS players))))) (. .))
+(S (NP (PRP We)) (VP (VBP contribute) (NP (NP (DT a) (JJ new) (NN domain)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (NP (NP (DT a) (NN representation)) (PP (IN of) (NP (NP (DT the) (VBG winning) (NN region)) (PP (IN of) (NP (JJ such) (NNS games))))))))))) (. .))

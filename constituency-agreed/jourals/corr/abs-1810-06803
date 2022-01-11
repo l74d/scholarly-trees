@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ unsupervised) (NN approach)) (VP (VBZ consists) (PP (IN of) (NP (CD three) (NNS components)))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB solve) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NN optimization) (NNS problems)))) (S (VP (TO to) (VP (VB estimate) (NP (DT a) (JJ complete) (NN matrix)) (PP (IN at) (NP (NP (JJ multiple) (NNS scales)) (PP (IN of) (NP (NN smoothness))))))))) (. .))

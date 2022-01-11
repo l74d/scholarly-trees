@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB evaluate) (NP (DT the) (VBN proposed) (NN model))))) (, ,) (NP (PRP we)) (VP (VBP determine) (NP (NP (JJ optimal) (NNS hyperparameters)) (SBAR (WHNP (WDT which)) (S (VP (VBP represent) (NP (NNS samples)) (ADVP (RBR better))))))) (. .))

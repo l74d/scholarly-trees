@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (MD will) (VP (VB use) (NP (DT a) (JJ deep) (JJ neural) (NN network)) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (NN downscaling) (NN operation))))))) (. .))
+(S (NP (PRP$ Our) (JJ numerical) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN scheme)) (VP (MD can) (VP (VB achieve) (NP (DT a) (JJ good) (NN accuracy) (CC and) (NN efficiency))))))) (. .))

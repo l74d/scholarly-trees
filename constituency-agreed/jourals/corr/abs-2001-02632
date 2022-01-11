@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT the) (JJ second) (NN cryptosystem))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ required) (NN security) (NNS conditions)) (VP (VBP prevent) (NP (DT the) (JJ legitimate) (NN user)) (PP (IN from) (S (VP (VBG decoding) (NP (DT the) (NN plaintext)) (ADVP (RB uniquely))))))))) (. .))

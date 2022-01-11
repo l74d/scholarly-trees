@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ deep) (NNS features)) (VP (VBN extracted) (PP (IN from) (NP (JJ multiple) (NNS spectrograms))))) (VP (VBP are) (ADVP (RB then)) (VP (VBN fused) (S (VP (TO to) (VP (VB discriminate) (NP (DT the) (JJ acoustic) (NNS scenes))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (NNP Goppa) (NNS codes)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN constructed) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (JJ Elliptic) (NN function) (NN field)) (CC and) (NP (NN Hyperelliptic) (NN function) (NN field)))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (DT a) (JJ simple) (NN criterion)) (PP (IN for) (NP (NP (NN self) (HYPH -) (NN duality)) (PP (IN of) (NP (DT these) (NNS codes)))))) (. .))

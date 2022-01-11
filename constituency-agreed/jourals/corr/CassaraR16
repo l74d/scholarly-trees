@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT this) (NN goal))))) (, ,) (NP (NN feature) (NN selection) (NNS methods)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN employed))) (. .))
+(S (NP (DT These) (NNS approaches)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT the) (NN data)) (VP (VBZ contains) (NP (NP (ADJP (JJ redundant) (CC or) (JJ irrelevant)) (NNS attributes)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN eliminated))))))))))) (. .))

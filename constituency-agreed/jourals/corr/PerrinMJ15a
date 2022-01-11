@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ concurrent) (NN specification)) (PP (IN of) (NP (NNS objects)))) (VP (VBZ uses) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (JJ concurrent) (NNS events))))) (. .))
+(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN concurrency)))) (VP (VBZ depends) (PP (PP (IN on) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NN object))))) (, ,) (RB not) (PP (IN on) (NP (PRP$ its) (NN specification))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT Each) (NN node)) (PP (IN in) (NP (DT the) (NN network)))) (VP (VBZ bears) (NP (NP (DT an) (JJ initial) (NN load)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (PP (IN below) (NP (NP (DT the) (NN capacity)) (PP (IN of) (NP (DT the) (NN node)))))))))) (. .))

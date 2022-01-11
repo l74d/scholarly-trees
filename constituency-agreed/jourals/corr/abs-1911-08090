@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (VBN automated) (NNS classifiers)) (VP (VBP are) (ADVP (RB increasingly)) (VP (VBN used) (PP (IN in) (NP (NP (JJ industrial) (NN control) (NNS systems)) (CC and) (NP (NN machinery)))))))) (, ,) (NP (DT these) (JJ adversarial) (NNS errors)) (VP (MD could) (VP (VB grow) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ serious) (NN problem))))))) (. .))

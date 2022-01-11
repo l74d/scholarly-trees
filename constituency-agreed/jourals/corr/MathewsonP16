@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Semi-autonomous) (NNS actions)) (PP (IN of) (NP (DT the) (JJ robotic) (NN agent)))) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN shaped) (PP (IN by) (NP (JJ human) (NN feedback))) (, ,) (S (VP (VBG simplifying) (NP (NN user) (NN control))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (DT some) (NN benefit)) (VP (MD can) (VP (VB be) (VP (VBN gained) (PP (IN with) (NP (NP (DT the) (NN inclusion)) (PP (IN of) (NP (ADJP (JJ human) (VBN generated)) (NN feedback))))))))))) (. .))

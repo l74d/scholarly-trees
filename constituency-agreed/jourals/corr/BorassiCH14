@@ -1,0 +1,1 @@
+(S (ADVP (ADVP (RB As) (RB far)) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP know))))) (, ,) (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJS fastest) (NN algorithm)) (PP (IN for) (NP (JJ sparse) (JJ transitive) (NN digraph) (NN recognition))))) (. .))

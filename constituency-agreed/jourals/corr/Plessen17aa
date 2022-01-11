@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN path) (NN planning) (NN method)) (PP (IN for) (NP (JJ partial) (NN field) (NN coverage))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT a) (JJ specific) (NN path) (NN planning) (NN pattern)) (VP (VBZ is) (VP (VBN proposed))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (NP (NN understanding)) (PP (IN of) (SBAR (WHADVP (WRB why)) (S (NP (DT this)) (VP (VBZ works) (ADVP (RB so) (RB well)))))))))) (. .))
+(S (NP (DT The) (NNS domains)) (VP (VBP are) (VP (VBN parameterized) (PP (PP (IN by) (NP (NN size))) (, ,) (CC and) (PP (IN by) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN structure)))))))) (. .))

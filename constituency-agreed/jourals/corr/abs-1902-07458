@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN difference)) (PP (IN between) (NP (DT the) (CD two) (NNS schemes)))) (VP (VBZ is) (NP (NP (DT the) (NN detection)) (PP (IN of) (NP (JJ detailed) (NNS lines))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT the) (VBN given) (NN line) (NNS points)))) (, ,) (NP (CD 13) (NNS features)) (VP (VBP are) (VP (VBN extracted) (PP (IN from) (NP (DT each) (NN line))) (, ,) (PP (IN as) (NP (NP (DT a) (NN summary)) (PP (IN of) (NP (NN line) (NN information))))))) (. .))

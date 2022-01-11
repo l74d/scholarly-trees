@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (JJ intelligent) (NN inference) (NNS engines)) (VP (ADVP (RB widely)) (VBN deployed) (PP (IN in) (NP (NNS biometrics))))))) (. .))
+(S (NP (NP (JJ Computational) (NN intelligence) (NNS applications)) (SBAR (WHNP (WDT that)) (S (VP (VBP cover) (NP (NP (DT a) (JJ wide) (NN spectrum)) (PP (IN of) (NP (NP (JJ biometric) (NNS tasks)) (VP (VBG using) (NP (ADJP (JJ physiological) (CC and) (JJ behavioral)) (NNS traits)))))))))) (VP (VBP are) (VP (VBN chosen) (PP (IN for) (NP (NN illustration))))) (. .))

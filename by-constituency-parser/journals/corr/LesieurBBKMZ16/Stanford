@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP determine) (S (NP (DT the) (NN accuracy)) (ADJP (JJ achievable) (PP (IN by) (NP (DT the) (ADJP (NP (NNP Bayes)) (HYPH -) (JJ optimal)) (NN estimation) (NN algorithm)))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Through) (NP (DT an) (NN example))) (, ,) (NP (PRP we)) (VP (VBP illustrate) (SBAR (IN that) (S (NP (DT a) (JJ bilateral) (NN call) (NN option)) (VP (MD can) (VP (VB reduce) (NP (NP (DT the) (NN payment) (NN volatility)) (PP (IN of) (NP (NN market) (NNS participants))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (PP (IN through) (NP (DT an) (NN example))) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ centralized) (NN clearing) (NN mechanism)) (VP (VBZ generalizes) (NP (DT the) (JJ bilateral) (NN trade)))))) (. .))

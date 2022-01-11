@@ -1,0 +1,1 @@
+(S (S (VP (VBG Protecting) (PP (IN against) (NP (NP (NN link) (NNS failures)) (PP (IN in) (NP (NN communication) (NNS networks))))))) (VP (VBZ is) (ADJP (JJ essential) (S (VP (TO to) (VP (VB increase) (NP (NP (NN robustness) (, ,) (NN accessibility) (, ,) (CC and) (NN reliability)) (PP (IN of) (NP (NNS data) (NN transmission))))))))) (. .))

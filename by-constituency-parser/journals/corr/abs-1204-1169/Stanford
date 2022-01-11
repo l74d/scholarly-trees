@@ -1,0 +1,4 @@
+(NP (NP (DT This) (NN paper) (NNS deals)) (PP (IN with) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG analyzing) (NP (NP (NN application) (NN event) (NNS logs)) (PP (IN in) (NP (NN relevance)))) (PP (IN to) (NP (NN dependability) (NN evaluation)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NN significance)) (PP (IN of) (NP (NN application) (NNS logs)))) (PP (IN as) (NP (NP (DT a) (JJ valuable) (NN source)) (PP (IN of) (NP (NP (NN information)) (PP (IN on) (NP (JJ operational) (NNS profiles) (, ,) (NNS anomalies) (CC and) (NNS errors)))))))) (. .))
+(S (NP (PRP They)) (VP (MD can) (VP (VB enhance) (NP (JJ classical) (NNS approaches)) (PP (VBN based) (PP (IN on) (S (VP (VBG monitoring) (NP (NP (NN system) (NNS logs)) (CC and) (NP (NN performance) (NNS variables))))))))) (. .))
+(FRAG (NP (NNS Keywords)) (: ;) (NP (NP (NN event) (NN monitoring)) (, ,) (NP (JJ operational) (NNS profiles)) (, ,) (NP (NNS anomalies))))

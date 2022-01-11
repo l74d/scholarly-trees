@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP adopt) (NP (DT the) (JJ variational) (NN autoencoder)) (S (VP (TO to) (VP (VB estimate) (NP (DT the) (JJ intractable) (JJ posterior) (NN distribution)))))) (. .))

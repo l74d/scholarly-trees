@@ -1,0 +1,2 @@
+(S (NP (NNS Hypernetworks)) (VP (VBP are) (NP (NP (JJ neural) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP generate) (NP (NP (NNS weights)) (PP (IN for) (NP (DT another) (JJ neural) (NN network))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP explain) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (JJ simple) (NN formulation)) (VP (VBZ generalizes) (NP (JJ variational) (NN inference)))))) (. .))

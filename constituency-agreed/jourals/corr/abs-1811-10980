@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ such) (NNS methods)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN trained) (PP (IN without) (NP (JJ clean) (NNS targets))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (JJ noisy) (NN image) (NNS pairs)) (, ,) (CC nor) (NP (JJ clean) (NN target) (NNS images))))) (. .))

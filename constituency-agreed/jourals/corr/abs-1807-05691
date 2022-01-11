@@ -1,0 +1,3 @@
+(FRAG (RB Not) (PP (IN in) (NP (DT any) (JJ meaningful) (NN sense))) (. .))
+(S (NP (DT That) (NN burden)) (VP (VBZ falls) (PP (IN upon) (NP (NP (JJ human) (NN knowledge) (NNS workers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (ADVP (RB increasingly)) (VP (VBN asked) (S (VP (TO to) (VP (VB write) (CC and) (VB understand) (NP (NN code)))))))))))) (. .))
+(S (NP (PRP They)) (VP (VBP deserve) (S (VP (TO to) (VP (VB have) (NP (NP (JJ intelligent) (NNS tools)) (SBAR (WHNP (WDT that)) (S (VP (VBP reveal) (NP (NP (DT the) (NNS connections)) (PP (IN between) (NP (NP (NN code)) (CC and) (NP (PRP$ its) (JJ subject) (NN matter))))))))))))) (. .))

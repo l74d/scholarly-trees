@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG identifying) (NP (NP (DT a) (NN pattern)) (PP (IN of) (NP (NNS faults)))) (PP (IN from) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ noisy) (JJ linear) (NNS measurements)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB solve) (NP (DT the) (NN fault) (NN identification) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ non-parametric) (NN belief) (NN propagation) (NN approach))) (. .))

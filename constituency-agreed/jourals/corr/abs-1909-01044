@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ optimal) (NN state)) (PP (IN of) (NP (DT the) (NN quantum) (NN computer)))) (VP (VBZ is) (VP (VBN set) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT an) (JJ objective) (NN function)) (PP (IN of) (NP (NP (DT an) (JJ arbitrary) (NN problem)) (VP (VBN fed) (PP (IN into) (NP (DT the) (NN quantum) (NN computer)))))))))))) (. .))

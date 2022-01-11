@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NNS eigenvalues)) (PP (IN of) (NP (JJ isomorphic) (NNS graphs)))) (VP (VBP are) (ADJP (JJ identical))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NNS isomorphisms)) (VP (MD can) (VP (VB be) (VP (VBN detected) (PP (IN by) (S (VP (VBG solving) (NP (DT a) (JJ linear) (NN assignment) (NN problem))))))))))) (. .))
+(S (NP (DT The) (NNS methods)) (VP (MD will) (VP (VB be) (VP (VBN illustrated) (PP (IN with) (NP (JJ several) (VBG guiding) (NNS examples)))))) (. .))

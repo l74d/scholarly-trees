@@ -1,0 +1,4 @@
+(S (PP (IN With) (NP (NN unit) (NNS weights))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB compute) (NP (NP (NN subset) (NNS sizes)) (SBAR (WHNP (WDT which)) (S (ADVP (RB together) (PP (IN with) (NP (DT the) (JJ previous) (NNS sums)))) (VP (VBP provide) (NP (DT the) (NN subset) (NNS averages)))))))) (. .))
+(S (NP (DT This) (NN variance)) (VP (VBZ is) (VP (VBN measured) (PP (IN as) (NP (NP (DT the) (NN average)) (PP (IN over) (NP (NP (DT all) (NNS subsets)) (PP (IN of) (NP (DT any) (VBN given) (NN size))))))))) (. .))
+(S (NP (JJ Such) (JJ powerful) (NNS results)) (VP (MD can) (ADVP (RB never)) (VP (VB be) (VP (VBN established) (ADVP (RB experimentally))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBP are) (VP (VBN derived) (ADVP (RB mathematically)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Theoretical) (NN analysis)) (PP (IN on) (NP (NN convergence) (NN speed)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN performed) (S (VP (TO to) (VP (VB investigate) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))))))) (. .))
+(S (NP (JJ Extensive) (JJ numerical) (NNS simulations)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB validate) (NP (DT the) (JJ analytic) (NNS findings))))))) (. .))

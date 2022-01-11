@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS results)) (VP (VBP are) (ADVP (RB then)) (VP (VBN modified) (PP (IN by) (S (VP (VBG adding) (NP (DT a) (NN noise)) (S (VP (TO to) (VP (VB simulate) (NP (JJ experimental) (NNS measurements)))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (PP (IN for) (NP (NP (DT each) (NN sample)) (PP (IN of) (NP (NN observation))))) (, ,) (NP (DT the) (NN parameter) (NN estimation) (NN problem)) (VP (VBZ is) (VP (VBN solved) (S (VP (VBG using) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (CD two) (JJ mathematical) (NNS models)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (NNS spreadsheets)))) (VP (VBZ is) (ADJP (JJ widespread))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB do) (ADVP (RB so)) (PP (IN by) (S (VP (VBG applying) (NP (NP (DT a) (JJ structured) (NN methodology)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (ADVP (RB already)) (VP (VBN shown) (NP (PRP$ its) (NN value)) (PP (IN in) (NP (NP (DT the) (NN estimation)) (PP (IN of) (NP (NP (NN maintainability)) (PP (IN of) (NP (NN software) (NNS products))))))))))))))))))) (. .))

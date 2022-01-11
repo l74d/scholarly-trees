@@ -1,0 +1,2 @@
+(S (PP (IN Besides) (NP (DT this))) (, ,) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NN communication)))) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ important))) (. .))
+(S (NP (PRP We)) (VP (VBD proposed) (NP (NP (DT a) (NN solution)) (SBAR (WHNP (WDT that)) (S (VP (VBD outperformed) (NP (JJ other) (NNS methods))))))) (. .))

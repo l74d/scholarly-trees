@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ functional) (NN connectivity) (NN matrix)) (PP (IN of) (NP (DT each) (NN subject)))) (VP (VBD was) (VP (VBN generated) (S (VP (VBG using) (NP (CD 90) (JJ predefined) (NN brain) (NNS regions)))))) (. .))
+(S (NP (DT A) (NN feature)) (VP (VBD was) (ADJP (RB significantly) (JJ different) (PP (IN between) (NP (NP (NNP ASD)) (CC and) (NP (JJ normal) (NNS controls)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN problem)) (PP (PP (IN in) (ADJP (JJ general))) (, ,) (CC and) (PP (IN of) (NP (NP (JJ particular) (NN interest)) (PP (IN for) (NP (JJ Bayesian) (NNS networks)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ logical) (NN consequence)) (PP (IN of) (NP (NP (DT the) (VBG existing) (NN ignorance)) (PP (IN about) (NP (DT the) (NN incompleteness) (NN mechanism))))))) (. .))

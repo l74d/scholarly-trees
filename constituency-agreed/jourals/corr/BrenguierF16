@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NNS games)) (VP (VBP have) (ADVP (RB previously)) (VP (VBN been) (VP (VBN shown) (S (RB not) (VP (TO to) (VP (VB be) (VP (VBN determined))))))))) (, ,) (CC and) (S (NP (NP (DT an) (NN approximation) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (DT a) (NNP Pareto) (NN curve)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN given))))) (. .))

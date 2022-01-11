@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ is) (ADJP (JJ modular) (CC and) (JJ extensible))) (. .))
+(S (NP (PRP We)) (VP (VBP view) (NP (PDT such) (DT a) (JJ general) (NN purpose) (NN framework)) (PP (IN as) (NP (NP (DT an) (JJ essential) (NN foundation)) (PP (IN for) (NP (NP (DT a) (JJR larger) (NN system)) (VP (VBG emulating) (NP (NP (DT the) (JJ cognitive) (NNS abilities)) (PP (IN of) (NP (DT the) (JJ whole) (NN brain)))))))))) (. .))

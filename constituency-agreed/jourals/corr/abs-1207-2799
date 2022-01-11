@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN cost)) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT the) (NN network)))) (CC and) (NP (NP (DT the) (NN sequence)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS nodes)) (VP (VBP are) (VP (VBN installed)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NNS catalogues)) (PP (IN of) (NP (NNS mutations)))) (VP (VBP reveal) (SBAR (IN that) (S (NP (NP (RB only) (DT a) (JJ small) (NN fraction)) (PP (IN of) (NP (DT the) (NNS genes)))) (VP (VBP are) (VP (VBN altered) (ADVP (RB frequently)) (PP (IN in) (NP (NNS patients)))))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (NP (JJ different) (JJ genomic) (NNS alterations)) (VP (MD may) (VP (VB perturb) (NP (DT the) (JJ same) (NNS pathways)))) (. .))

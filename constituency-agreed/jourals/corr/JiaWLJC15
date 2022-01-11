@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ optimal) (NN loss) (NN function)) (VP (VBZ is) (VP (VBN determined) (PP (IN during) (NP (NP (NNS experiments)) (SBAR (WHNP (WP$ whose) (NNS parameters)) (S (VP (VBP are) (VP (VBN examined) (PP (IN among) (NP (NP (DT a) (JJ closed) (NN set)) (PP (IN of) (NP (NNS candidates))))))))))))) (. .))

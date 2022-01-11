@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN relationship)) (PP (IN between) (NP (NP (DT the) (NNP Fisher) (NN information)) (CC and) (NP (DT the) (JJ characteristic) (NN function))))) (VP (VBZ is) (VP (VBN established) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (CD two) (NNS inequalities))))))) (. .))
+(S (NP (NP (DT A) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NN condition)) (PP (IN for) (NP (NN equality)))) (VP (VBZ is) (VP (VBN found))) (. .))

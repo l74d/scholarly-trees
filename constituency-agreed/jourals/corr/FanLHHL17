@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ efficient) (JJ iterative) (NN algorithm)) (VP (VBZ is) (VP (VBN developed) (PP (IN with) (NP (DT a) (NN convergence) (NN guarantee))))) (. .))
+(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN on) (NP (CD four) (NNS benchmarks)))) (VP (VBP demonstrate) (NP (NP (DT the) (NN correctness) (CC and) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (NP (NN Convergence)) (PP (IN of) (NP (DT the) (JJ numerical) (NN method)))) (VP (VBZ is) (VP (VBN analyzed)))) (, ,) (CC and) (S (NP (JJ precise) (NN error) (NNS estimates)) (VP (VBP are) (VP (VBN provided)))) (. .))
+(S (S (NP (DT The) (NN method)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN implemented)))) (, ,) (CC and) (S (NP (DT the) (NN convergence)) (VP (VBZ is) (VP (VBN verified) (S (VP (VBG using) (NP (JJ numerical) (NNS experiments))))))) (. .))

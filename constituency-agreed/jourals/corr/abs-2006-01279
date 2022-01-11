@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NN entity) (NNS links)) (PP (IN in) (NP (DT the) (JJ real) (NN world)))) (ADVP (RB also)) (VP (VBP contain) (NP (JJ rich) (JJ hierarchical) (NN inheritance) (NNS relations))) (. .))
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (DT the) (NN vulnerability)) (PP (IN of) (NP (DT a) (NN product) (NN version)))) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN inherited) (PP (IN from) (NP (PRP$ its) (JJR older) (NNS versions))))))))) (. .))

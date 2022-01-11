@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (NN transmission) (NNS schemes)) (PP (IN for) (S (VP (VBG releasing) (NP (NNS molecules)) (PP (IN into) (NP (DT the) (NN medium))))))) (VP (VBP are) (VP (VBN considered))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT the) (JJ optimal) (NN decision) (NNS rules)) (PP (IN for) (NP (DT both) (NNP DTM) (CC and) (NNP STM))))) (. .))

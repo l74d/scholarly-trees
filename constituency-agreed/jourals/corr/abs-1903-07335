@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP MMSE) (NN estimator)) (VP (VBZ requires) (NP (ADJP (RB perfectly) (VBN estimated)) (NN phase) (NN knowledge)) (SBAR (IN whereas) (S (NP (DT the) (NNP LMMSE) (CC and) (NNP LS)) (VP (VBP are) (VP (VBN derived) (PP (IN without) (NP (PRP it)))))))) (. .))

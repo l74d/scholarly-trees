@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP describe) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (NN refactoring) (NNS tools)) (S (VP (TO to) (VP (VB transform) (NP (DT a) (NNP Java) (NN program)) (S (VP (VBG conforming) (PP (IN to) (NP (DT the) (NNP Composite) (NN design) (NN pattern))) (PP (IN into) (NP (NP (DT a) (NN program)) (VP (VBG conforming) (PP (IN to) (NP (DT the) (NNP Visitor) (NN design) (NN pattern))) (PP (IN with) (NP (DT the) (JJ same) (JJ external) (NN behavior)))))))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP describe) (NP (DT the) (NN inverse) (NN transformation))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (NN refactoring) (NN tool)) (PP (VBN provided) (PP (IN by) (NP (NNP IntelliJ) (NNP IDEA))))) (. .))

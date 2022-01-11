@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS strokes)) (, ,) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBP construct) (NP (NNS characters))))) (, ,)) (VP (VBP are) (VP (VBN extracted) (PP (IN by) (S (VP (VBG exploiting) (NP (DT a) (NN character) (NN skeleton) (NN dataset))))))) (. .))

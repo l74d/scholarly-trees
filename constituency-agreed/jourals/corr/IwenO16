@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NNP SVD)) (PP (IN of) (NP (DT a) (NN matrix)))) (VP (MD can) (VP (VB be) (VP (VBN constructed) (ADVP (RB efficiently)) (PP (IN in) (NP (DT a) (JJ hierarchical) (NN approach))))))))) (. .))

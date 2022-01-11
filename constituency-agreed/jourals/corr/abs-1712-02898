@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN work)) (PP (IN of) (NP (DT a) (JJ single) (NN musician) (, ,) (NN group) (CC or) (NN composer)))) (VP (MD can) (VP (VB vary) (ADVP (RB widely)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ musical) (NN style))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP suggest) (SBAR (IN that) (S (NP (DT a) (JJ convolutional) (NN network)) (VP (MD may) (VP (VB learn) (NP (DT these) (JJ subtle) (NNS clues) (CC or) (NNS features)) (PP (VBN given) (NP (NP (DT an) (JJ appropriate) (NN representation)) (PP (IN of) (NP (DT the) (NN music)))))))))) (. .))

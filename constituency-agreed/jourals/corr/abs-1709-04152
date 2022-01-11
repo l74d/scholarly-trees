@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN technique)) (PP (IN for) (NP (NP (NN deadlock) (NN detection)) (PP (IN of) (NP (NNP Java) (NNS programs))))))) (. .))
+(S (NP (PRP$ Our) (NN technique)) (VP (VBZ is) (VP (VBN complemented) (PP (IN by) (NP (NP (DT a) (NN prototype) (NN verifier)) (SBAR (WHNP (WDT that)) (S (ADVP (RB also)) (VP (VBZ covers) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NNP Java) (NNS features))))))))))) (. .))

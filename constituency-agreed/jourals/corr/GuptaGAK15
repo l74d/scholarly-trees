@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (NN concept))))) (, ,) (NP (PRP we)) (VP (VBP enumerate) (PP (IN through) (NP (NP (DT a) (JJ random) (NN pool)) (PP (IN of) (NP (QP (CD 1.16) (CD million)) (NN phone) (NNS numbers)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD found) (NP (NP (CD 91,487) (ADJP (RB highly) (JJ attractive)) (NNS targets)) (SBAR (WHNP (WP who)) (S (VP (MD can) (VP (VB be) (VP (VBN attacked) (PP (IN by) (S (VP (VBG crafting) (NP (VBG whaling) (NNS attacks)))))))))))) (. .))

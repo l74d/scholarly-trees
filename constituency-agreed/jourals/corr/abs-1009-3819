@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS designs)) (VP (VBP are) (VP (VBN minimized) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN hardware) (NN complexity)) (, ,) (NP (NN gate) (NN count)) (, ,) (NP (JJ constant) (NNS inputs)) (CC and) (NP (NN garbage) (NNS outputs)))))))) (. .))

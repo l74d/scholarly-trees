@@ -1,0 +1,2 @@
+(S (ADVP (RB Nevertheless)) (NP (NP (JJ ordinary) (NNS developers)) (VP (VBG wishing) (S (VP (TO to) (VP (VB develop) (NP (JJ trusted) (NNS applications))))))) (VP (VBP face) (NP (JJ significant) (NNS challenges))) (. .))
+(S (NP (NP (NNS Tools) (CC and) (NN software)) (VP (VBN needed) (S (VP (TO to) (VP (VB develop) (CC and) (VB debug) (NP (VBN trusted) (NNS applications))))))) (VP (MD may) (VP (VB be) (ADJP (JJ expensive) (CC or) (JJ non-existent)))) (. .))

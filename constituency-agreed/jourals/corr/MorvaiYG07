@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN setting)) (VP (VBZ is) (NP (DT a) (JJ stationary) (, ,) (JJ ergodic) (NN time) (NN series))) (. .))
+(S (S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (JJ simple)))) (CC and) (S (NP (PRP$ its) (NN verification)) (VP (VBZ is) (ADJP (RB fairly) (JJ transparent)))) (. .))

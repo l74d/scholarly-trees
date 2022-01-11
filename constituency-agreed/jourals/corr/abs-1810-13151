@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Semantic) (NN modeling)) (PP (IN of) (NP (JJ textural) (NNS relationships)))) (VP (VBZ is) (ADJP (RB notoriously) (JJ difficult))) (. .))
+(S (NP (DT The) (JJ cross-modal) (NN similarity) (NN measure)) (VP (VBZ is) (VP (VBN learned) (PP (IN by) (NP (NN distance) (JJ metric) (NN learning))))) (. .))

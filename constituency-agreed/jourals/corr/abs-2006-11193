@@ -1,0 +1,2 @@
+(S (ADVP (RB So)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ direct) (JJ spatial) (NN correspondence)) (PP (IN between) (NP (NP (NP (DT a) (NN unit)) (PP (IN in) (NP (DT a) (NN feature) (NN map)))) (CC and) (NP (NP (DT the) (NN voxel)) (PP (IN in) (NP (DT the) (JJ same) (NN location)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (RB not) (DT all) (NN feature) (NNS maps)) (VP (VBP have) (NP (NP (DT the) (JJ same) (NN relevance)) (PP (IN for) (NP (NP (DT the) (NNS classes)) (VP (VBG being) (VP (VBN predicted))))))) (. .))

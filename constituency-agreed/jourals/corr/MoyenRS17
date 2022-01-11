@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Several) (NNS techniques)) (PP (IN for) (NP (NN analysis) (CC and) (NNS transformations)))) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (NNS compilers))))) (. .))
+(S (S (NP (DT This) (NN block)) (VP (MD could) (VP (VB be) (NP (DT an) (JJ inner) (NN loop))))) (, ,) (CC and) (S (PP (IN in) (NP (DT that) (NN case))) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (DT the) (JJ overall) (NN program)))) (VP (MD can) (VP (VB be) (VP (VBN decreased))))) (. .))

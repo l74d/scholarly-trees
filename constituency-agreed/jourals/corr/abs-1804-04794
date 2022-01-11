@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (CD three) (JJ main) (NNS shortcomings)) (PP (IN of) (NP (VBG existing) (NNS tools)))) (VP (VBP are) (NP (NP (NN complexity)) (, ,) (NP (JJ limited) (NN measurement) (NN range)) (, ,) (CC and) (NP (JJ low) (NN accuracy)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP propose) (NP (DT a) (JJ novel) (NN calibration) (NN technique))) (CC and) (VP (VB report) (NP (DT the) (NN calibration) (NNS parameters)) (PP (IN under) (NP (JJ various) (NNS settings))))) (. .))

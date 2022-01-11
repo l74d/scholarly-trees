@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN solution)) (VP (VP (VBZ is) (ADJP (ADJP (JJR simpler)) (PP (IN than) (NP (JJ previous) (NNS solutions))))) (CC and) (VP (VBZ employs) (NP (JJ adversarial) (NN training)))) (. .))
+(S (NP (NP (DT The) (NN utility)) (PP (IN of) (NP (DT the) (JJ new) (NN method)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (PP (IN on) (NP (JJ visual) (NNS datasets))) (CONJP (RB as) (RB well) (IN as)) (PP (IN on) (NP (JJ financial) (NNS data)))))) (. .))

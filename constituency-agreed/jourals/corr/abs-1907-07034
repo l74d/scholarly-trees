@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ achieves) (NP (JJ high) (NN performance) (NNS gains)) (PP (IN by) (S (VP (VBG incorporating) (NP (DT the) (JJ unlabeled) (NNS data))))))))) (. .))

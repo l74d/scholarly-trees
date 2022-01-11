@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB obtain) (NP (NP (DT a) (JJ good) (NN description)) (PP (IN of) (NP (DT the) (NN network))))))) (NP (PRP we)) (VP (VBP calculate) (NP (JJ descriptive) (NNS parameters)) (PP (IN from) (NP (VBN given) (NNS topologies)))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (JJ vertical) (NN handover) (NN decision) (NN method)) (PP (IN as) (NP (NP (DT a) (JJ special) (NN application)) (PP (IN of) (NP (PRP$ our) (NN model) (NN framework)))))) (. .))

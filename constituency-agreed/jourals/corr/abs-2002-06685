@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS methods)) (VP (MD can) (VP (VB capture) (NP (NP (DT the) (JJ global) (NN structure)) (PP (IN of) (NP (NNS networks)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP evolve) (NP (DT these) (NNS techniques)) (S (VP (TO to) (ADVP (RB also)) (VP (VB encode) (NP (NP (DT the) (JJ local) (NN structure)) (PP (IN of) (NP (NNS neighborhoods)))))))) (. .))

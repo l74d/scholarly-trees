@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN debugging) (NN query) (NN mechanism)) (VP (VBZ allows) (NP (JJ arbitrary) (NN provenance) (NNS queries)) (, ,) (S (VP (VBG constructing) (NP (NP (JJ partial) (NN proof) (NNS trees)) (PP (IN of) (NP (NP (NNS tuples)) (PP (IN with) (NP (JJ minimal) (NN height))))))))) (. .))

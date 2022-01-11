@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN work)) (VP (VBZ consists) (PP (IN of) (NP (CD three) (NNS parts)))) (. .))
+(S (NP (NN Super-additivity)) (VP (VBZ is) (VP (VBN demonstrated) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (DT the) (JJ deterministic) (NN code) (NN capacity)) (VP (MD can) (VP (VB be) (ADJP (ADJP (RB strictly) (JJR larger)) (PP (IN than) (NP (NP (DT the) (JJ weighted) (NN sum)) (PP (IN of) (NP (DT the) (JJ parametric) (NNS capacities)))))))))))))) (. .))

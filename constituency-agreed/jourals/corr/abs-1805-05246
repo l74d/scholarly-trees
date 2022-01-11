@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP ChaosMachine)) (VP (VBZ reveals) (NP (NP (DT both) (NNS strengths) (CC and) (NNS weaknesses)) (PP (IN of) (NP (NP (DT the) (NN resilience) (NN code)) (PP (IN of) (NP (DT a) (NN software) (NN system)))))) (PP (IN at) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (NN exception) (NN handling))))))))) (. .))

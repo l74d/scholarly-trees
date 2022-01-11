@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT the) (JJ unsupervised) (NN learning) (NN problem)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (S (VP (VBG detecting) (NP (DT the) (JJ main) (NN foreground) (NNS objects)) (PP (IN in) (NP (JJ single) (NNS images))))))))) (. .))

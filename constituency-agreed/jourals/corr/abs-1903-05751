@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (PP (IN for) (NP (NN generalization))) (, ,) (NP (PRP we)) (VP (VBP parameterize) (NP (DT the) (NNS policies)) (PP (IN with) (NP (NN goal) (NNS locations))) (, ,) (SBAR (IN so) (IN that) (S (NP (DT the) (NN agent)) (VP (MD can) (VP (VB be) (VP (VBN trained) (PP (IN for) (NP (JJ multiple) (NNS goals))) (ADVP (RB simultaneously)))))))) (. .))

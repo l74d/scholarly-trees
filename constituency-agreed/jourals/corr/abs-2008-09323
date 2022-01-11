@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN work)) (VP (VBZ addresses) (NP (NP (NP (DT an) (JJ important) (NN consideration)) (PP (IN of) (NP (NP (JJ federated) (NN learning)) (PP (IN at) (NP (DT the) (NN network) (NN edge)))))) (: :) (NP (NP (NN communication) (NNS delays)) (PP (IN between) (NP (NP (DT the) (NN edge) (NNS nodes)) (CC and) (NP (DT the) (NN aggregator))))))) (. .))

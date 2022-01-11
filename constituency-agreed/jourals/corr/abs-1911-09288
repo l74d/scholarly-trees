@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB adjudicate) (PP (IN between) (NP (NNS theories)))))) (, ,) (NP (PRP we)) (VP (MD must) (VP (VB design) (NP (NP (NNS experiments)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NNS theories)) (VP (VBP make) (NP (JJ distinct) (NNS predictions)))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG comparing) (NP (JJ deep) (JJ neural) (NNS networks)) (PP (IN as) (NP (NP (NNS models)) (PP (IN of) (NP (JJ human) (JJ visual) (NN recognition)))))))))) (. .))

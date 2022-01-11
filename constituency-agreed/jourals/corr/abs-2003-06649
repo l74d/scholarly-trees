@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ whole) (NN constraint) (NN network)) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN learned) (PP (IN with) (NP (NP (DT a) (JJ polynomial) (NN number)) (PP (IN of) (NP (JJ partial) (NNS queries)))))))) (. .))

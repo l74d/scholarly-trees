@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP it)) (VP (VBZ is) (VP (VBN assumed) (SBAR (IN that) (S (NP (DT the) (NN item) (NNS costs)) (VP (VBP are) (ADJP (JJ uncertain))))))) (. .))
+(S (NP (NP (JJ Several) (ADJP (JJ positive) (CC and) (JJ negative)) (NN complexity) (NNS results)) (PP (IN for) (NP (NP (DT both)) (PP (IN of) (NP (PRP them)))))) (VP (VBP are) (VP (VBN provided))) (. .))

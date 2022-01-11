@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (DT the) (NNP Ubuntu) (NNP Dialog) (NNP Corpus)))) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (MD can) (VP (VB capture) (NP (NP (JJ multiple) (NN turn) (NN interaction)) (PP (IN between) (NP (NNS participants))))))))) (. .))

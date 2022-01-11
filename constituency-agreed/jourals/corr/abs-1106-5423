@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN voting) (NN rule)) (VP (VBZ is) (NP (DT a) (JJ weighted) (NN plurality))))) (, ,) (ADVP (RB then)) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (PP (IN with) (NP (JJ high) (NN probability))) (, ,) (NP (DT the) (JJ preferred) (NN candidate)) (VP (MD will) (VP (VB win) (NP (DT the) (NN election))))))) (. .))
+(S (ADVP (RB Conversely)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN statement)) (VP (VBZ fails) (PP (IN for) (NP (DT all) (JJ other) (JJ reasonable) (NN voting) (NNS rules))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN machine) (NN learning))))) (, ,) (NP (NNS data) (NN understanding)) (VP (VBZ is) (NP (NP (DT the) (NN practice)) (PP (IN of) (S (VP (VBG getting) (NP (JJ initial) (NNS insights)) (PP (IN in) (NP (JJ unknown) (NNS datasets)))))))) (. .))
+(S (S (VP (TO To) (VP (VB showcase) (NP (PRP$ our) (NN approach))))) (NP (PRP we)) (ADVP (RB also)) (VP (VBP demonstrate) (NP (DT an) (JJ early) (NN prototype))) (. .))

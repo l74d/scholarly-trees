@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN motivated) (PP (IN by) (NP (NP (JJ metric) (NNS spaces)) (SBAR (WHNP (WDT that)) (S (VP (VBP appear) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ topological) (NNS data) (NN analysis)))))))))))) (. .))
+(S (PP (IN For) (NP (NNS spanners))) (, ,) (NP (PRP we)) (VP (VBP evaluate) (NP (JJ several) (NN exploration) (NNS strategies)) (PP (IN through) (NP (JJ extensive) (JJ experimental) (NN evaluation)))) (. .))

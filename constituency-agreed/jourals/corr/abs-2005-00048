@@ -1,0 +1,2 @@
+(S (CC But) (NP (DT the) (NN downside)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN network)) (VP (VBZ does) (RB not) (VP (VB learn) (PP (IN about) (NP (DT the) (NN context)))))))) (. .))
+(S (NP (NP (JJ Several) (NNS methods)) (PP (IN of) (S (VP (VBG extracting) (NP (DT the) (NN context) (NNS vectors)))))) (VP (VBP are) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN work))))) (. .))

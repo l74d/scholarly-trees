@@ -1,0 +1,2 @@
+(S (NP (JJ Operational) (NN state) (NN complexity)) (VP (VBZ is) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NP (DT the) (NN state) (NN complexity)) (PP (IN of) (NP (NP (NNS operations)) (PP (IN over) (NP (NNS languages))))))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP revisit) (NP (NP (DT the) (NN state) (NNS complexities)) (PP (IN of) (NP (NP (DT the) (NN combination)) (PP (IN of) (NP (JJ individual) (NNS operations))))))) (. .))

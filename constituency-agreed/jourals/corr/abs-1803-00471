@@ -1,0 +1,3 @@
+(S (NP (NNS Intersections)) (VP (VBP are) (NP (JJ hazardous) (NNS places))) (. .))
+(S (NP (NNS Accidents)) (VP (MD can) (ADVP (RB also)) (VP (VB occur) (SBAR (IN because) (S (NP (NNS drivers) (, ,) (NNS cyclists) (CC and) (NNS pedestrians)) (VP (VBP do) (RB not) (VP (VB have) (NP (NP (DT the) (NN information)) (SBAR (S (NP (PRP they)) (VP (VBP need) (S (VP (TO to) (VP (VB avoid) (NP (JJ wrong) (NNS decisions))))))))))))))) (. .))
+(S (PP (IN In) (NP (DT these) (NNS cases))) (, ,) (NP (DT the) (VBG missing) (NN information)) (VP (MD can) (VP (VB be) (VP (VBN computed) (CC and) (VBN broadcast) (PP (IN by) (NP (DT an) (JJ intelligent) (NN intersection)))))) (. .))

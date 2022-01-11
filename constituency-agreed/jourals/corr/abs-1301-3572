@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (PRP we)) (VP (VBP apply) (NP (DT a) (JJ multiscale) (JJ convolutional) (NN network)) (S (VP (TO to) (VP (VB learn) (NP (NNS features)) (ADVP (RB directly)) (PP (IN from) (NP (NP (DT the) (NNS images)) (CC and) (NP (DT the) (NN depth) (NN information)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (NN attention) (NNS modules)) (CC and) (NP (NN knowledge) (NN distillation))) (VP (VBP are) (VP (VBN utilized) (S (VP (TO to) (VP (VB enhance) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (JJ shallow) (NNS classifiers))))))))) (. .))

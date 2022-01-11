@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP discuss) (NP (NP (JJ theoretical) (NNS aspects)) (PP (IN of) (NP (NP (DT the) (NN algorithm) (POS 's)) (JJ continuous) (NN version))))) (. .))
+(S (NP (PRP We)) (VP (VBP suggest) (S (VP (TO to) (VP (VB define) (NP (DT the) (NNS coefficients)) (PP (IN at) (NP (NP (DT the) (NN formulation)) (PP (IN of) (NP (DT the) (NN algorithm))))) (PP (IN by) (S (VP (VBG applying) (NP (NP (DT a) (JJ novel) (NN kind)) (PP (IN of) (NP (JJ discrete) (NN derivative))))))))))) (. .))

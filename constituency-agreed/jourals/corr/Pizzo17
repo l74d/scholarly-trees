@@ -1,0 +1,2 @@
+(S (NP (NNS Memristors)) (VP (VBP are) (NP (NP (JJ passive) (NNS elements)) (SBAR (WHNP (WDT that)) (S (VP (VBP allow) (S (NP (PRP us)) (VP (TO to) (VP (VB store) (NP (NN information)) (S (VP (VBG using) (NP (NP (DT a) (JJ single) (NN element)) (PP (IN per) (NP (NN bit)))))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ is) (RB not) (NP (NP (DT the) (JJ only) (NN utility)) (PP (IN of) (NP (DT the) (NN memristor))))) (. .))

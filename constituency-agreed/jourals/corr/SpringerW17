@@ -1,0 +1,2 @@
+(S (NP (JJ Current) (NN annotation) (NNS approaches)) (VP (VBP rely) (PP (IN on) (NP (DT a) (JJ strong) (NN sparsity) (NN assumption)))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PRP$ our) (NN method)))) (S (VP (VBG using) (NP (ADJP (VBN synthesized) (CC and) (JJ real)) (NN reflection) (NNS images))))) (. .))

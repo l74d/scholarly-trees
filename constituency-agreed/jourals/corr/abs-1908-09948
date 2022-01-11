@@ -1,0 +1,1 @@
+(S (S (NP (NP (JJ Variational) (NNS autoencoders)) (PP (IN with) (NP (DT a) (JJ factorial) (NN decoder)))) (VP (MD can) (VP (VB capture) (NP (JJ global) (NN information)) (ADVP (RB easily))))) (, ,) (CC but) (S (NP (PRP they)) (ADVP (RB often)) (VP (VBP fail) (S (VP (TO to) (VP (VB reconstruct) (NP (NNS details)) (ADVP (RB faithfully))))))) (. .))

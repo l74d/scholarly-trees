@@ -1,0 +1,3 @@
+(S (S (VP (VBG Driving) (PP (IN in) (NP (JJ urban) (NNS environments))))) (ADVP (RB often)) (VP (VBZ presents) (NP (NP (JJ difficult) (NNS situations)) (SBAR (WHNP (WDT that)) (S (VP (VBP require) (NP (NP (JJ expert) (NN maneuvering)) (PP (IN of) (NP (DT a) (NN vehicle))))))))) (. .))
+(S (NP (DT These) (NNS situations)) (VP (VBP become) (ADJP (ADVP (RB even) (RBR more)) (JJ challenging)) (SBAR (WHADVP (WRB when)) (S (VP (VBG considering) (NP (NP (JJ large) (NNS vehicles)) (, ,) (PP (JJ such) (IN as) (NP (NNS buses)))))))) (. .))
+(S (NP (DT These) (NNS approximations)) (VP (VBP allow) (PP (IN for) (NP (NP (DT the) (NN formulation)) (PP (IN of) (NP (ADJP (JJ safe) (CC and) (JJ non-conservative)) (NN collision) (NN avoidance) (NNS constraints)))))) (. .))

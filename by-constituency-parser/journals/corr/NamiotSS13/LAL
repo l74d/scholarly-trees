@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (JJ new) (NN model)) (PP (IN for) (S (VP (VBG presenting) (NP (JJ local) (NN information))))) (VP (VBN based) (PP (IN on) (NP (DT the) (NN network) (NN proximity)))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN novelty) (NN mobile) (NN mashup)) (SBAR (WHNP (WDT which)) (S (VP (VBZ combines) (NP (NNP Wi-Fi) (NN proximity) (NNS measurements)) (PP (IN with) (NP (NNP QR-codes)))))))) (. .))
+(S (NP (PRP$ Our) (JJ mobile) (NN mashup)) (VP (ADVP (RB automatically)) (VBZ adds) (NP (JJ context) (NN information)) (NP (NP (DT the) (NN content)) (VP (VBN presented) (PP (IN by) (NP (NNP QR-codes)))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ simplifies) (NP (DT the) (NN deployment) (NNS schemes))) (CC and) (VP (NNS allows) (S (VP (TO to) (VP (VB use) (NP (JJ unified) (NN presentation)) (PP (IN for) (NP (DT all) (NNS data) (NNS points))) (, ,) (PP (IN for) (NP (NN example)))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB combine) (NP (NP (NNP QR-codes)) (CC and) (NP (NN network) (NN proximity) (NN information)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ different) (NN activation) (NNS functions)) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN autoencoder) (POS 's)) (NN bottleneck))))) (VP (VBZ distributes) (NP (NP (DT a) (NN training) (NN corpus) (POS 's)) (NN embedding)))))) (. .))

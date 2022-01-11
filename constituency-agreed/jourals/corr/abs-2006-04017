@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN machine) (NN learning))) (, ,) (NP (NN observation) (NNS features)) (VP (VBP are) (VP (VBN measured) (PP (IN in) (NP (DT a) (JJ metric) (NN space))) (S (VP (TO to) (VP (VB obtain) (NP (PRP$ their) (NN distance) (NN function)) (PP (IN for) (NP (NN optimization)))))))) (. .))

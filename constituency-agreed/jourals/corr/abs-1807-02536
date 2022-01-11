@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP extract) (NP (JJ semantic) (NN edge) (NNS features)) (S (VP (VBG using) (NP (DT a) (ADJP (RB recently) (VBN introduced)) (NNP CASENet) (NN architecture))))) (CC and) (VP (VB utilize) (NP (NNP VLAD) (NN framework)) (S (VP (TO to) (VP (VB perform) (NP (NN image) (NN retrieval))))))) (. .))

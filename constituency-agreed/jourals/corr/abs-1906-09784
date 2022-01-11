@@ -1,0 +1,2 @@
+(S (NP (PRP$ Its) (NN core) (NN principle)) (VP (VBZ is) (S (VP (TO to) (VP (VB stabilize) (NP (NN greediness)) (PP (IN through) (NP (NP (JJ stochastic) (NNS mixtures)) (PP (IN of) (NP (JJ consecutive) (NNS policies))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP introduce) (NP (NP (JJ adaptive) (NN mixture) (NNS rates)) (VP (VBN inspired) (PP (IN by) (NP (DT the) (NN theory)))))) (. .))

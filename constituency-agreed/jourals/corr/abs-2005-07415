@@ -1,0 +1,1 @@
+(S (S (VP (VBG Solving) (NP (DT a) (JJ combinatorial) (NN optimization) (NN problem)))) (VP (VBZ is) (ADVP (RB usually)) (NP (DT a) (JJ hard) (NN task)) (SBAR (IN because) (S (NP (PRP$ its) (NN solution) (NN space)) (VP (VBZ grows) (ADVP (RB exponentially)) (PP (IN with) (NP (PRP$ its) (NN size))))))) (. .))

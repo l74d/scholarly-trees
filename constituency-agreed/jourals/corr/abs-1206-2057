@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ fair) (NN sharing)) (, ,) (NP (NP (DT a) (NN principle)) (VP (ADVP (RB commonly)) (VBN adopted) (PP (IN in) (NP (JJ current) (NN congestion) (NN control) (NNS protocols))))) (, ,)) (VP (VBZ is) (ADVP (RB far) (PP (IN from) (ADJP (JJ optimal)))) (PP (IN for) (S (VP (VBG satisfying) (NP (NN latency) (NNS requirements)))))) (. .))

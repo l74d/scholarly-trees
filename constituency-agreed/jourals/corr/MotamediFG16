@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN with) (S (VP (VBG running) (NP (NNP Squeezenet)) (PP (IN on) (NP (CD three) (JJ different) (JJ mobile) (NNS devices))))))) (VP (VBP confirm) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach))))) (. .))

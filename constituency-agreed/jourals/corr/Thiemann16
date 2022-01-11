@@ -1,0 +1,2 @@
+(S (NP (JJ Regular) (NNS languages)) (VP (VBP are) (VP (VBN closed) (PP (IN under) (NP (NP (DT a) (NN wealth)) (PP (IN of) (NP (JJ formal) (NN language) (NNS operators))))))) (. .))
+(S (NP (DT Some) (JJ derivable) (NNS operators)) (VP (VBP do) (RB not) (VP (VB preserve) (NP (NN regularity)))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PRP$ our) (VBN proposed) (NN model))) (, ,) (NP (NNS users)) (VP (VBP are) (VP (VBG running) (NP (ADJP (JJ elastic) (CC or) (JJ inelastic)) (NN traffic)))) (. .))
+(S (NP (NP (DT The) (NNP UE) (POS 's)) (NN decision)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN carrier) (NN price)) (PP (IN per) (NP (NN unit) (NN bandwidth))))))) (. .))

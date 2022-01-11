@@ -1,0 +1,1 @@
+(S (ADVP (RB Meanwhile)) (, ,) (NP (JJ random) (NN code)) (VP (MD may) (VP (VB achieve) (NP (JJR larger) (NN secrecy) (NN capacity)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN state) (NN sequence)) (VP (VBZ is) (ADJP (JJ unknown) (PP (IN by) (NP (DT the) (NN receiver))))))))) (. .))

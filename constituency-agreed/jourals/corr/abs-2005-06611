@@ -1,0 +1,3 @@
+(S (NP (NNS Citations)) (VP (VBP play) (NP (DT a) (JJ vital) (NN role)) (PP (IN in) (S (VP (VBG understanding) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (JJ scientific) (NN literature)))))))) (. .))
+(S (NP (NP (DT The) (NN contribution)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (ADJP (JJ two-fold))) (. .))
+(S (NP (DT All) (NNS evaluations)) (VP (VBP are) (VP (VBN performed) (PP (IN on) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (ADJP (RB publicly) (JJ available)) (NN citation) (NN analysis) (NNS datasets))))))) (. .))

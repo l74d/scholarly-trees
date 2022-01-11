@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT an) (NN autoencoder) (NN architecture)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBZ allows) (S (VP (TO to) (VP (VB reconstruct) (NP (JJ original) (NNS vectors)) (PP (IN from) (NP (DT the) (JJ binary) (NNS ones))))))))))))) (. .))

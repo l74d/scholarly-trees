@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (JJ deep) (JJ convolutional) (JJ neural) (NNS networks)))) (VP (VBZ has) (VP (VBN improved) (NP (DT the) (NN accuracy)) (ADVP (RB significantly)))) (. .))
+(S (NP (NP (ADJP (RB Relatively) (JJ large)) (NNS changes)) (PP (IN in) (NP (NN gaze) (NNS angles)))) (VP (MD may) (VP (VB result) (PP (IN in) (NP (NP (ADJP (RB relatively) (JJ small)) (NNS changes)) (PP (IN in) (NP (NN eye) (NN appearance))))))) (. .))

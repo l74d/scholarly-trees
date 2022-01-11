@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VP (VBZ acts) (PP (IN as) (NP (DT a) (NN regularizer)))) (CC and) (VP (VBZ encourages) (S (NP (DT the) (CD two) (NNS networks)) (VP (TO to) (VP (VB inform) (NP (DT each) (JJ other)) (PP (IN in) (S (VP (VBG making) (NP (PRP$ their) (JJ respective) (NNS predictions)) (S (VP (VBG using) (NP (JJ distinct) (NN information)))))))))))) (. .))

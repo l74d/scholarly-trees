@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD learned) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN protocol)))) (PP (IN through) (NP (NNS simulations)))) (. .))
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (VBN proposed) (NN protocol)) (VP (VBZ attains) (NP (NP (JJ major) (NN improvement)) (PP (IN in) (NP (NN network) (NN reachability) (CC and) (NN connectivity)))))))) (. .))

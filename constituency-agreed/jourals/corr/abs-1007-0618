@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG determining) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (DT a) (NN face) (NN image)))) (PP (IN by) (S (VP (VBG extracting) (NP (PRP$ its) (NNS components))))))))) (. .))
+(S (S (VP (TO To) (VP (VB generate) (NP (DT the) (JJ new) (NN face) (NN image))))) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB store) (NP (DT the) (NN face) (NNS components)) (PP (IN in) (NP (DT the) (NN database))))))) (. .))
+(S (PP (IN After) (NP (NP (NN extraction)) (PP (IN of) (NP (DT the) (JJ facial) (NN feature) (NNS points))))) (NP (PRP we)) (VP (VBP have) (VP (VBN analyzed) (NP (DT the) (NNS components)) (S (VP (TO to) (VP (VB determine) (NP (PRP$ their) (NNS characteristics))))))) (. .))

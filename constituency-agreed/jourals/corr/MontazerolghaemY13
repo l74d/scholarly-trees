@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (PRP we)) (VP (VBP know)))) (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ only) (NN overload) (NN control) (NN method)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN implemented) (PP (IN on) (NP (DT a) (JJ real) (NN platform))) (PP (IN without) (S (VP (VBG using) (NP (JJ explicit) (NN feedback))))))))))) (. .))

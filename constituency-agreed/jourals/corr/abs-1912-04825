@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ neural) (NN network)) (VP (MD can) (VP (VP (VB perform) (NP (JJ symbolic) (NN regression))) (CC and) (VP (VB learn) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (JJ several) (NNS functions)))))))))) (. .))

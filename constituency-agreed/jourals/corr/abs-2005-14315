@@ -1,0 +1,4 @@
+(S (NP (DT This)) (VP (VP (VBZ is) (NP (DT a) (JJ new) (NN task))) (CC and) (VP (VBZ has) (RB not) (VP (VBN received) (NP (JJ much) (NN attention)) (PP (IN from) (NP (DT the) (NN community)))))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (DT the) (VBN proposed) (NN architecture)) (ADVP (RB extensively))) (. .))
+(S (PP (IN Through) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS experiments))))) (NP (PRP we)) (VP (VBP make) (NP (DT some) (JJ interesting) (NNS observations))) (. .))
+(S (NP (DT This)) (VP (VBZ leads) (S (NP (PRP us)) (VP (TO to) (VP (VB explore) (NP (NP (JJ interesting) (NNS ways)) (PP (IN of) (S (VP (VBG combining) (NP (ADJP (JJ semantic) (CC and) (JJ structural)) (NN information)) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN performance))))))))))))) (. .))

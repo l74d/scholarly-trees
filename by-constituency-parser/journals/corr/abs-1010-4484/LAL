@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NNP Type) (NNP II) (NN lattice)) (PP (IN of) (NP (JJ norm) (CD 8))) (PP (IN in) (NP (NN dimension) (CD 72)))) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (NP (NP (NNP Construction) (NNP A)) (VP (VBD applied) (PP (TO to) (NP (DT an) (VBN extended) (NNP Quadratic) (NNP Residue) (NN code))) (PP (IN over) (NP (NNP Z8)))))))) (. .))
+(S (NP (PRP$ Its) (NN automorphism) (NN group)) (VP (VBZ contains) (NP (NP (NP (DT a) (NN subgroup)) (ADJP (JJ isomorphic) (PP (TO to) (NP (NNP PSL))))) (PRN (-LRB- -LRB-) (NP (CD 2,71)) (-RRB- -RRB-)))) (. .))

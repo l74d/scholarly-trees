@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP compute) (NP (DT all) (VBG synchronizing) (NNS DFAs)) (PP (IN with) (NP (NP (CD 7) (NNS states)) (CC and) (NP (NN synchronization) (NML (NML (NN length)) (PP (SYM >) (NP (SYM =)))) (CD 29))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP compute) (SBAR (S (NP (NN alphabet) (NN size)) (VP (VBZ ranges) (PP (IN for) (NP (ADJP (JJ maximal) (, ,) (JJ minimal) (CC and) (JJ semi-minimal)) (NN synchronizing) (NNS DFAs))) (PP (IN with) (NP (QP (RB up) (IN to) (CD 7)) (NNS states))))))) (. .))

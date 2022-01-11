@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (JJ linear) (NN inverse) (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN formulated) (PP (IN in) (NP (DT the) (JJ continuous) (NN domain))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP find) (NP (NP (DT the) (JJ experimental) (NNS solutions)) (PP (IN for) (NP (NP (DT some) (NN measurement) (NNS models)) (PP (IN in) (NP (CD one) (NN dimension))))))) (. .))

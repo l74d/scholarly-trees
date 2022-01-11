@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (JJ recursive) (NN learning)) (, ,) (NP (DT an) (JJ iterative) (NN training) (NN protocol)) (, ,)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN generator)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ consists) (PP (IN of) (NP (JJ multiple) (NNS steps)))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (S (VP (VBG Estimating) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS sources)) (VP (VBG impinging) (PP (IN on) (NP (NP (DT an) (NN array)) (PP (IN of) (NP (NNS sensors))))))))))) (VP (VBZ is) (NP (DT a) (ADJP (ADJP (RB well) (VBN known)) (CC and) (ADJP (RB well) (VBN investigated))) (NN problem))) (. .))
+(S (PP (IN Over) (NP (DT the) (NNS years))) (NP (JJ several) (JJ alternative) (NN estimation) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (CC and) (VBN tested)))) (. .))
+(S (ADVP (RB Nevertheless)) (, ,) (NP (DT these) (JJ robust) (NNS algorithms)) (VP (VBP have) (NP (JJ high) (JJ computational) (NN complexity)) (, ,) (S (VP (VBG requiring) (NP (JJ several) (JJ multi-dimensional) (NNS searches))))) (. .))

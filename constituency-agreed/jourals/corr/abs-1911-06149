@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (VBN proposed) (NN model))) (, ,) (NP (DT the) (JJ whole) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB minimize) (NP (NP (NN loss)) (PP (IN of) (NP (NNP VC) (CC and) (NNP TTS))))))))) (. .))

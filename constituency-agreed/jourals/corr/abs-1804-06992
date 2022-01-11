@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (DT the) (NN source) (NNS images)) (VP (VBP are) (VP (VBN decomposed) (PP (IN into) (NP (NP (NN base) (NNS parts)) (CC and) (NP (NN detail) (NN content)))))) (. .))
+(S (PP (IN For) (NP (DT the) (NN detail) (NN content))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT a) (JJ deep) (NN learning) (NN network)) (S (VP (TO to) (VP (VB extract) (NP (JJ multi-layer) (NNS features)))))) (. .))

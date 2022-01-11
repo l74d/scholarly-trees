@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN battery)) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN component)) (PP (IN of) (NP (JJ autonomous) (NNS robots))))) (. .))
+(S (NP (PRP$ Its) (NN performance)) (VP (VBZ limits) (NP (NP (DT the) (NN robot) (POS 's)) (NN safety) (CC and) (NN reliability))) (. .))

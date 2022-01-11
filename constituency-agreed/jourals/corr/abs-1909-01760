@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (JJ empirical) (NN study)) (PP (IN of) (NP (NP (DT the) (NNS relationships)) (PP (IN between) (NP (NP (NN code) (NN readability)) (CC and) (NP (NN program) (NN complexity)))))))) (. .))
+(S (NP (DT The) (NN analysis)) (VP (VBZ includes) (NP (NP (CD six) (NN readability) (NNS metrics)) (CC and) (NP (CD two) (NN complexity) (NNS metrics)))) (. .))

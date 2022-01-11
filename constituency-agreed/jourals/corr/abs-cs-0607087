@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NP (JJ human) (NN action) (NN recognition)) (PP (IN in) (NP (NN video) (NNS sequences))))))) (, ,) (NP (DT a) (JJ temporal) (NN belief) (NN filter)) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NNP TBM)) (VP (VBZ emphasizes) (NP (NP (DT the) (NN conflict)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN exploited) (PP (IN for) (NP (NN action) (NN recognition))))))))) (. .))

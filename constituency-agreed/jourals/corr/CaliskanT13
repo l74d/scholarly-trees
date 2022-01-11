@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ classical) (NNS models)) (VP (VBN used) (S (VP (TO to) (VP (VB study) (NP (JJ transient) (NN stability))))))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (JJ several) (JJ implicit) (NNS assumptions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN violated) (SBAR (WHADVP (WRB when)) (S (NP (NNS transients)) (VP (VBP occur)))))))))))) (. .))

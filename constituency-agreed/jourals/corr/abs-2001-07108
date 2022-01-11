@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ standard) (JJ convolutional) (NN kernel)) (VP (VBZ neglects) (NP (NP (DT the) (JJ intrinsic) (NNS connections)) (PP (IN between) (NP (NNS data) (NNS points)))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (NP (JJ poor) (NN region) (NN delineation)) (CC and) (NP (JJ small) (JJ spurious) (NNS predictions))))))) (. .))

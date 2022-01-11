@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP TWSVM)) (VP (VBZ learns) (NP (CD two) (JJ non-parallel) (VBG classifying) (NNS hyperplanes)) (PP (IN by) (S (VP (VBG solving) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (ADJP (JJR smaller) (JJ sized)) (NNS problems)))))))) (. .))
+(S (NP (DT The) (NNP Twin) (NNP NN)) (ADVP (RB also)) (VP (VBZ learns) (NP (DT an) (JJ optimal) (NN feature) (NN map)) (, ,) (S (VP (VBG allowing) (PP (IN for) (NP (NP (JJR better) (NN discrimination)) (PP (IN between) (NP (NNS classes)))))))) (. .))

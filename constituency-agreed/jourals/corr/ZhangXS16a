@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (ADVP (RB instead)) (, ,) (NP (PRP we)) (VP (VP (VBP explore) (NP (JJ generative) (NNS models))) (CC and) (VP (VB propose) (NP (DT a) (JJ variational) (JJ neural) (NN discourse) (NN relation) (NN recognizer)))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (NNP VarNDRR)) (VP (TO to) (VP (VB be) (VP (VBN trained) (PP (IN with) (NP (JJ standard) (JJ stochastic) (NN gradient) (NNS methods)))))))) (. .))

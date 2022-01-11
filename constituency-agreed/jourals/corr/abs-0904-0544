@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paer))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (NN class)) (PP (IN of) (NP (NP (NNP MAC) (NNS protocols)) (SBAR (WHNP (WDT that)) (S (VP (VBP utilize) (NP (NP (JJ available) (JJ past) (NN information)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ current) (NN information)))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (VBN proposed) (NNS protocols)) (VP (VBP require) (NP (NP (JJ short) (NN memory)) (CC and) (NP (DT no) (NN message) (NNS exchanges)))) (. .))

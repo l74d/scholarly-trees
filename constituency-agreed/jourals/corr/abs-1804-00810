@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT an) (JJ efficient) (NN state) (NN representation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ breaks) (PRT (RP down)) (NP (NP (DT the) (NN complexity)) (VP (VBN caused) (PP (IN by) (NP (NP (DT the) (JJ large) (NN state) (NN space)) (PP (IN in) (NP (DT the) (NN game) (NN environment)))))))))))) (. .))
+(S (NP (DT The) (NN learning) (NN policy)) (VP (VBZ is) (VP (VBN shared) (PP (IN among) (NP (PRP$ our) (NNS units))) (S (VP (TO to) (VP (VB encourage) (NP (JJ cooperative) (NNS behaviors))))))) (. .))

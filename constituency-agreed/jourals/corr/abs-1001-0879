@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN quality)) (PP (IN of) (NP (NNS predictions)))) (VP (VBZ is) (VP (VBN measured) (PP (IN by) (NP (DT the) (NNP Brier) (NN loss) (NN function))))) (. .))

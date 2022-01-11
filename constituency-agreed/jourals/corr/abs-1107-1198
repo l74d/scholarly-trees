@@ -1,0 +1,3 @@
+(S (NP (NP (DT All) (NNS inputs)) (PP (IN of) (NP (DT the) (NN analysis)))) (VP (VBP are) (VP (VBN specified) (PP (IN at) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (DT a) (NNP UML) (NN model))))))) (. .))
+(S (ADVP (RB Thus)) (NP (NP (DT the) (NN analysis) (NN model)) (CC and) (NP (NP (DT the) (JJ formal) (NNS methods)) (VP (VBN used) (PP (IN during) (NP (DT the) (NN analysis)))))) (VP (VBP are) (VP (VBN hidden) (PP (IN from) (NP (DT the) (NN user))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (S (VP (VBG using) (NP (DT an) (JJ industrial) (NN strength) (NN case) (NN study))))) (. .))

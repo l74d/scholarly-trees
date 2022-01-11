@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Numerous) (NNS methods)) (PP (IN for) (NP (JJ human) (NN activity) (NN recognition)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN in) (NP (DT the) (JJ past) (CD two) (NNS decades)))))) (. .))
+(S (NP (NP (JJ Many)) (PP (IN of) (NP (DT these) (NNS methods)))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (JJ sparse) (NN representation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ describes) (NP (DT the) (JJ whole) (NN video) (NN content)) (PP (IN by) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ local) (NNS features)))))))))))) (. .))

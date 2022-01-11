@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN countermeasure)) (VP (VBZ relies) (PP (IN on) (S (VP (VBG approximating) (NP (DT a) (JJ noisy) (NN identity) (NN mapping)) (PP (IN with) (NP (DT a) (NNP Convolutional) (NNP NN))))))) (. .))
+(S (NP (PRP We)) (VP (VBP explain) (SBAR (WHADVP (WRB why)) (S (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (JJ new) (JJ parasitic) (NNS layers)))) (VP (VBZ complexifies) (NP (DT the) (NNS attacks)))))) (. .))

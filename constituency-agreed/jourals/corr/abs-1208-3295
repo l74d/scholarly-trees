@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ suggests) (NP (NP (DT some) (JJ alternative) (NNS techniques)) (PP (IN for) (NP (NN cache) (NN replacement))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN paper)) (VP (VBZ concludes) (PP (IN with) (NP (NP (DT a) (NN discussion)) (PP (IN on) (NP (JJ future) (NN research) (NNS directions)))))) (. .))

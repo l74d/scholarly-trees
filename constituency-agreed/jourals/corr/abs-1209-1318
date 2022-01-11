@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN rate)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (JJ scholarly) (NN literature)) (VP (VBZ is) (VP (VBG being) (VP (VBN produced))))))) (VP (VBZ has) (VP (VBN been) (VP (VBG increasing) (PP (IN at) (NP (NP (QP (RB approximately) (CD 3.5)) (NN percent)) (PP (IN per) (NP (NN year))))) (PP (IN for) (NP (NNS decades)))))) (. .))
+(S (NP (NP (DT The) (NNS methods)) (SBAR (S (NP (NNS scholars)) (VP (VBP use) (S (VP (TO to) (VP (VB discover) (NP (JJ relevant) (NN literature))))))))) (VP (MD must) (VP (VB change))) (. .))
+(S (ADVP (RB Now)) (NP (NP (RB much)) (PP (IN of) (NP (DT this) (NN discovery) (NN process)))) (VP (VBZ is) (VP (VBN mediated) (PP (IN by) (NP (JJ online) (JJ scholarly) (NN information) (NNS systems))))) (. .))
+(S (S (NP (PDT All) (DT these) (NNS systems)) (VP (VBP are) (ADJP (RB relatively) (JJ new)))) (, ,) (CC and) (S (NP (DT all)) (VP (VBP are) (ADVP (RB still)) (VP (VBG changing)))) (. .))

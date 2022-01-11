@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBD observed) (SBAR (IN that) (S (NP (PRP$ their) (NN elimination)) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ modern) (NN theorem) (NNS provers)))) (, ,) (PP (ADVP (RB especially)) (IN on) (NP (JJ satisfiable) (NN problem) (NNS instances)))))))) (. .))

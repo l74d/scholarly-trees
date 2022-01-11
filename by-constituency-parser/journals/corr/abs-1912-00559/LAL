@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN proof)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN energy) (NN estimate)) (PP (IN with) (NP (DT a) (JJ new) (NN multiplier) (NN technique))))))) (. .))
+(S (PP (IN For) (NP (JJ nonlinear) (ADJP (NN hyperbolic) (CC and) (JJ kinetic)) (NNS equations))) (, ,) (NP (PRP we)) (VP (ADVP (RB numerically)) (VBP verify) (NP (DT the) (JJ same) (NN property)) (S (VP (VBG using) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS examples))))))) (. .))

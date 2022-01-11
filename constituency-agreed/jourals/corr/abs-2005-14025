@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Statistical) (NN independence)) (CC and) (NP (JJ conditional) (NN independence))) (VP (VBP are) (NP (NP (DT the) (JJ fundemental) (NNS concepts)) (PP (IN in) (NP (NP (NNS statistics)) (CC and) (NP (NN machine) (NN learning)))))) (. .))
+(S (NP (NP (DT The) (NN implementation) (NN detail)) (PP (IN of) (NP (DT the) (NN package)))) (VP (VBZ is) (VP (VBN presented) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

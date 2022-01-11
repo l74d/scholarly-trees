@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN sememe)) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT the) (JJ minimum) (JJ semantic) (NN unit)) (PP (IN of) (NP (JJ human) (NNS languages))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (CD two) (ADJP (JJ simple) (CC and) (JJ effective)) (NNS models)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP exploit) (NP (NP (JJ different) (NN information)) (PP (IN of) (NP (NNS synsets))))))))) (. .))

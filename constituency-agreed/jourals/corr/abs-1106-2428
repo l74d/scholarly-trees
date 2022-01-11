@@ -1,0 +1,2 @@
+(S (PP (IN By) (NP (DT an) (NN extension) (NN technique))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB classify) (NP (NP (DT all) (JJ optimal) (NNS codes)) (PP (IN of) (NP (NN length) (CD 11) (CC and) (CD 12))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP find) (NP (NP (DT the) (JJS smallest) (NNS codes)) (PP (IN with) (NP (JJ trivial) (NN automorphism) (NN group))))) (. .))

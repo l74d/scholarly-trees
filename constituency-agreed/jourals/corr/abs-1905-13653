@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN solution)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ new) (NNS definitions)) (PP (IN of) (NP (NN blob) (NN response) (NNS functions))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (MD can) (VP (VB be) (VP (VBN viewed) (PP (IN as) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT the) (NN grayscale) (NN blob) (NN detection) (NN technique))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (JJ stochastic) (NNS encoders) (CC and) (NNS decoders)) (VP (VBP do) (RB not) (ADVP (RB usually)) (VP (VB enhance) (NP (DT the) (NN capacity) (NN region)))))) (, ,) (NP (PRP$ their) (NN use)) (VP (VBZ simplifies) (NP (DT the) (NN analysis))) (. .))
+(S (NP (NP (DT The) (JJ asymptotic) (NNS forms)) (PP (IN of) (NP (DT these) (NNS expressions)))) (VP (VBZ is) (NP (NP (DT the) (JJ same)) (PP (IN as) (NP (NP (DT that)) (PP (IN of) (NP (JJ classical) (NNS results))))))) (. .))

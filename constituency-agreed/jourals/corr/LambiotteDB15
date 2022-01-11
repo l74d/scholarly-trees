@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP Markov) (NNP Stability)) (VP (MD can) (VP (VB be) (VP (VBN computed) (ADVP (RB efficiently)) (S (VP (TO to) (VP (VB find) (NP (JJ multi-scale) (NN community) (NN structure)) (PP (IN in) (NP (JJ large) (NNS networks)))))))))))) (. .))

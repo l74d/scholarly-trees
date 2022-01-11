@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN denoising) (NN network)) (VP (MD can) (ADVP (RB also)) (VP (VB operate) (PP (IN with) (NP (JJR shorter) (JJ computational) (NN time))) (SBAR (IN while) (S (ADVP (RB still)) (VP (VBG outperforming) (NP (DT the) (NN benchmark) (NN algorithm)) (PP (IN by) (S (VP (VBG tuning) (NP (DT the) (NN reconstruction) (NN stride) (NNS sizes)))))))))) (. .))

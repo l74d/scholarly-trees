@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN graph) (NN g)) (PP (IN in) (NP (DT a) (NN database)))) (VP (VBZ is) (ADJP (JJ complete)) (SBAR (IN if) (S (NP (NP (DT every) (NN pair)) (PP (IN of) (NP (JJ distinct) (NNS vertices)))) (VP (VBZ is) (VP (VBN connected) (PP (IN by) (NP (DT a) (JJ unique) (NN edge)))))))) (. .))

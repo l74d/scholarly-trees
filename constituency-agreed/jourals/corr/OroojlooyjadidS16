@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ numerous) (NNS extensions)) (PP (IN of) (NP (DT this) (NN problem))))) (. .))
+(S (SBAR (IN If) (S (NP (NP (DT the) (NN probability) (NN distribution)) (PP (IN of) (NP (DT the) (NN demand)))) (VP (VBZ is) (VP (VBN known))))) (, ,) (NP (DT the) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB analytically))))) (. .))

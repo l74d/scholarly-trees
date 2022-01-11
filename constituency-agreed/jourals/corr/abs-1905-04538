@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (JJ structural) (NN content) (NN branch))) (, ,) (NP (PRP we)) (VP (VP (VBP project) (NP (DT the) (JJ latent) (NN factor)) (PP (IN into) (NP (DT a) (JJ soft) (JJ structured) (NN point) (NN tensor)))) (CC and) (VP (VB constrain) (NP (PRP it)) (PP (IN with) (NP (NP (NNS losses)) (VP (VBN derived) (PP (IN from) (NP (JJ prior) (NN knowledge)))))))) (. .))
+(S (NP (DT Another) (NN branch)) (VP (VBZ learns) (NP (DT the) (JJ complementary) (NN style) (NN information))) (. .))

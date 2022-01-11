@@ -1,0 +1,1 @@
+(S (ADVP (RB Recently)) (, ,) (NP (JJ non-autoregressive) (NN sequence) (NNS models)) (VP (VBD were) (VP (VBN proposed) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN inference) (NN time))))))) (. .))

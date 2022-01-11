@@ -1,0 +1,2 @@
+(S (NP (NN Regionalization)) (VP (VBZ is) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG dividing) (PRT (RP up)) (NP (DT a) (NN landscape)) (PP (IN into) (NP (NP (JJ homogeneous) (NNS patches)) (PP (IN with) (NP (JJ similar) (NNS properties)))))))))) (. .))
+(S (SBAR (IN Although) (S (NP (DT this) (NN task)) (VP (VBZ has) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NNS applications))))))) (, ,) (NP (PRP it)) (VP (VBZ has) (NP (CD two) (JJ notable) (NNS challenges))) (. .))

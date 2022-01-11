@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (EX there)) (VP (VBP exist) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ different) (NN sampling) (NNS costs))))))) (, ,) (NP (NNS queries)) (ADVP (RB typically)) (VP (VBP occur) (ADVP (RB asynchronously)) (PP (IN in) (NP (NNP MFBO)))) (. .))

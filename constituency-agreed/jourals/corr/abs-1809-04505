@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (NNP Emo2Vec)) (SBAR (WHNP (WDT which)) (S (VP (VBZ encodes) (NP (JJ emotional) (NNS semantics)) (PP (IN into) (NP (NNS vectors)))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (DT the) (NNP HASYv2) (NN dataset))) (. .))
+(S (NP (NNP HASY)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB publicly) (JJ available)) (, ,) (ADJP (JJ free) (PP (IN of) (NP (NN charge)))) (NN dataset)) (PP (IN of) (NP (JJ single) (NNS symbols))) (ADJP (JJ similar) (PP (TO to) (NP (NNP MNIST)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ contains) (NP (NP (CD 168233) (NNS instances)) (PP (IN of) (NP (CD 369) (NNS classes))))) (. .))
+(S (NP (NNP HASY)) (VP (VBZ contains) (NP (NP (CD two) (NNS challenges)) (: :) (NP (NP (NP (DT A) (NN classification) (NN challenge)) (PP (IN with) (NP (NP (CD 10) (JJ pre-defined) (NNS folds)) (PP (IN for) (NP (JJ 10-fold) (NN cross-validation)))))) (CC and) (NP (DT a) (NN verification) (NN challenge))))) (. .))

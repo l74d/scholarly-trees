@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (NP (NP (NNS effects)) (PP (IN of) (NP (DT this) (NN problem)))) (VP (MD must) (VP (VB be) (VP (VBN controlled)))) (. .))
+(S (ADVP (RB Thus)) (NP (NN output) (NN power)) (VP (VBZ has) (VP (VBN been) (VP (VBN regulated) (PP (IN in) (NP (ADJP (JJ optimal) (CC and) (JJ nominal)) (NN range))) (PP (IN by) (NP (NN pitch) (NN angle) (NN regulation)))))) (. .))

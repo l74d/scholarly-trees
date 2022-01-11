@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (NN training) (NN time))) (, ,) (NP (DT the) (JJ joint) (NN architecture)) (VP (VBZ learns) (NP (DT a) (JJ relevant) (JJ nonlinear) (NN representation)) (PP (IN from) (NP (NNS data)))) (. .))

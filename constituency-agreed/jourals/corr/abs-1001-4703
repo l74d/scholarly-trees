@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (PRP$ our) (NN model))) (, ,) (NP (DT each) (NN sensor)) (VP (VBZ compresses) (NP (PRP$ its) (NN observation) (NN sequence)) (S (VP (VBG using) (NP (DT a) (JJ linear) (NN precoder))))) (. .))

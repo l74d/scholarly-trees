@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNP Maxwell) (NNS equations)) (VP (VBP have) (NP (DT a) (ADJP (RB fairly) (JJ simple)) (NN form))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (VBG finding) (NP (NP (NNS solutions)) (PP (IN of) (NP (NP (NNP Maxwell) (POS 's)) (NNS equations)))))) (VP (VBZ is) (NP (DT an) (ADJP (RB extremely) (JJ difficult)) (NN task))) (. .))
+(S (NP (NP (DT The) (NN basis)) (PP (IN of) (NP (JJ geometric) (NNS optics)))) (VP (VBZ is) (NP (DT the) (JJ eikonal) (NN equation))) (. .))

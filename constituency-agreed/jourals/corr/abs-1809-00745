@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NNP IoTDots)) (, ,) (NP (NP (DT a) (JJ novel) (JJ digital) (JJ forensic) (NN framework)) (PP (IN for) (NP (NP (DT a) (JJ smart) (NN environment)) (PP (JJ such) (IN as) (NP (NP (JJ smart) (NNS homes)) (CC and) (NP (JJ smart) (NNS offices))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (PP (IN at) (NP (NN runtime))) (, ,) (NP (DT the) (NNS logs)) (VP (VBP are) (VP (VBN stored) (PP (IN into) (NP (DT a) (NNP IoTDots) (NN database))))) (. .))

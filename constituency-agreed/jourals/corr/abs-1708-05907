@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NNP NTL) (NN detection))) (, ,) (NP (NNS researchers)) (VP (VBP use) (NP (JJ artificial) (NN intelligence)) (S (VP (TO to) (VP (VB analyse) (NP (NNS data)))))) (. .))
+(S (PP (IN With) (NP (DT these) (NNS features))) (, ,) (NP (DT the) (NN prediction) (NN quality)) (VP (MD will) (VP (VB increase))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (DT the) (NN checkerboard) (NN extraction)) (PP (IN as) (NP (NP (DT a) (JJ combinatorial) (NN optimization) (NN problem)) (PP (IN with) (NP (DT a) (JJ clear) (NN cut) (JJ objective) (NN function)))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach)))) (PP (IN by) (S (VP (VBG providing) (NP (NP (JJ numerical) (NNS simulations)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ experimental) (NNS results))))))) (. .))

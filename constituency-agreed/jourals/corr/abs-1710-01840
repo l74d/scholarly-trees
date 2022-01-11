@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ addresses) (NP (NP (DT a) (JJ common) (NN weakness)) (PP (IN of) (NP (NP (JJ modular) (NN robot) (NNS systems)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB often)) (VP (VBP struggle) (S (VP (TO to) (VP (VB traverse) (NP (JJ large) (NNS obstacles)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NN system)) (PP (IN in) (NP (NN hardware) (NNS experiments)))))

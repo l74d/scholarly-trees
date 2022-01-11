@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (VBZ outperforms) (NP (JJ several) (NNS baselines)) (PP (IN by) (NP (DT a) (JJ large) (NN margin))))))) (. .))

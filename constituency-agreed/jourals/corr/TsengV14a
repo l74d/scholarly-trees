@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ defines) (NP (NP (DT a) (JJ new) (NN consensus) (NN problem)) (, ,) (NP (NN convex) (NN consensus)))) (. .))
+(S (NP (NNP Convex) (NN consensus)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (JJ other) (JJ related) (NNS problems)))))))) (. .))

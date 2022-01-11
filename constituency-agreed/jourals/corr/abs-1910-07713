@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (NN method)) (PP (IN of) (S (VP (VBG creating) (NP (NN knowledge) (NNS embeddings)) (PP (IN from) (NP (DT each) (NN knowledge) (NN base)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP contribute) (NP (NP (DT a) (NN method)) (PP (IN of) (S (VP (VBG contextualizing) (NP (NNP BERT)) (PP (IN after) (S (VP (VBG combining) (PP (IN with) (NP (NN knowledge) (NN base) (NNS embeddings))))))))))) (. .))

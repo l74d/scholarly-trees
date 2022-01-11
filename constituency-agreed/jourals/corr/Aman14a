@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NN benefit)) (PP (IN for) (NP (NP (NNS scientists)) (CONJP (RB as) (RB well) (IN as)) (NP (NNS publishers)))))) (. .))
+(S (NP (NP (DT An) (JJ immense) (NN advantage)) (PP (IN of) (NP (NN arXiv)))) (VP (VBZ is) (S (VP (TO to) (VP (VB overcome) (NP (NP (DT the) (JJ long) (NN publication) (NN delay)) (VP (VBG resulting) (PP (IN from) (NP (NN peer) (NN review))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT These) (NNS problems)) (VP (VBP occur) (ADVP (RB naturally)) (PP (IN in) (NP (NP (JJ several) (NML (JJ real) (HYPH -) (NN world)) (NNS applications)) (PP (IN in) (NP (NNS data) (NML (NML (NN science)) (, ,) (NML (NN machine) (NN learning)) (, ,) (CC and) (NML (JJ artificial) (NN intelligence)))))))) (. .))
+(S (NP (DT The) (NNS problems)) (VP (VBP are) (ADVP (RB ordinarily)) (ADJP (JJ inapproximable)) (PP (IN to) (NP (DT any) (NN factor))) (PRN (-LRB- -LRB-) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP show)))) (-RRB- -RRB-))) (. .))
+(S (NP (JJ Computational) (NNS experiments)) (VP (VBP are) (ADVP (RB also)) (VP (VBN provided) (S (VP (VBG supporting) (NP (PRP$ our) (NN analysis)))))) (. .))

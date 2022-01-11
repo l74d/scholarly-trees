@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (VBG increasing) (NN number)) (PP (IN of) (NP (NNS datasets)))) (VP (VBP contain) (NP (NP (JJ multiple) (NNS views)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN video)) (, ,) (NP (NN sound)) (CC and) (NP (JJ automatic) (NNS captions)))))) (. .))
+(S (NP (NP (DT A) (JJ basic) (NN challenge)) (PP (IN in) (NP (NN representation) (NN learning)))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB leverage) (NP (JJ multiple) (NNS views)) (S (VP (TO to) (VP (VB learn) (NP (JJR better) (NNS representations)))))))))) (. .))

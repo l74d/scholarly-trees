@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS dynamics)) (PP (IN of) (NP (NP (DT the) (NN delay) (JJ logistic) (NN equation)) (PP (IN with) (NP (NP (JJ complex) (NNS parameters)) (CC and) (NP (JJ arbitrary) (JJ complex) (JJ initial) (NNS conditions))))))) (VP (VBZ is) (VP (VBN investigated))) (. .))
+(S (NP (NP (DT The) (NN analysis)) (PP (IN of) (NP (NP (DT the) (JJ local) (NN stability)) (PP (IN of) (NP (DT this) (NN difference) (NN equation)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN carried) (PRT (RP out))))) (. .))

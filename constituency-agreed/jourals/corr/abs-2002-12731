@@ -1,0 +1,4 @@
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (NN prerequisite)) (PP (IN for) (NP (NN motion) (NN planning) (CC and) (NN execution))))) (. .))
+(S (NP (NP (DT The) (JJR higher) (NN precision)) (PP (IN of) (NP (DT the) (NN localization) (NN system)))) (VP (MD may) (VP (VB be) (VP (VBN achieved) (PP (IN through) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (DT a) (ADJP (RBR more) (JJ sophisticated)) (NN observation) (NN model)) (VP (VBG considering) (NP (JJ various) (NN measurement) (NN error) (NNS sources)))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT an) (NN observation) (NN model)) (PP (IN for) (NP (ADJP (RB visually) (VBN detected)) (JJ linear) (NNS features))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN observation) (NN model)) (VP (VBZ depicts) (NP (NP (CD two) (NN core) (NN detection) (NN error) (NNS sources)) (: :) (NP (NP (NN shift) (NN error)) (CC and) (NP (JJ angular) (NN error))))) (. .))

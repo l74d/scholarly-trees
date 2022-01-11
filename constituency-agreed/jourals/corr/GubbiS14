@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NN image) (NN denoising)) (PP (IN in) (NP (JJ additive) (JJ white) (NN noise)))))) (PP (IN without) (S (VP (VBG placing) (NP (JJ restrictive) (NNS assumptions)) (PP (IN on) (NP (PRP$ its) (JJ statistical) (NN distribution))))))) (. .))

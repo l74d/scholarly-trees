@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN result)) (PP (IN of) (S (VP (VBG using) (NP (JJ dense) (NN matrix) (NNS multiplications) (CC and) (NNS convolutions))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ sparse) (NNS computations)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (ADVP (RB much) (RBR more)) (JJ efficient))))))) (. .))

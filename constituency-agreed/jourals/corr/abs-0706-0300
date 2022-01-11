@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN article)) (VP (VBZ describes) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NP (DT a) (NN system)) (VP (VBN designed) (S (VP (TO to) (ADVP (RB automatically)) (VP (VB detect) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ pulmonary) (NN embolism)))) (PP (IN in) (NP (NN lung) (NNS scans))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ provides) (NP (NP (DT a) (JJ good) (NN overview)) (PP (IN of) (NP (DT the) (NN project) (NN status))))) (. .))
+(S (SBAR (IN Although) (S (NP (DT the) (NNS customizations)) (VP (VBP are) (VP (VBN intended) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN task) (NN board) (POS 's)) (NN usability) (CC and) (NN effectiveness))))))))) (, ,) (NP (PRP they)) (VP (MD may) (ADVP (RB also)) (VP (VB complicate) (NP (PRP$ its) (NN comprehension) (CC and) (NN use)))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ means) (SBAR (IN that) (S (ADVP (RB formally)) (NP (EX there)) (VP (VBP are) (NP (NP (DT no) (NNS restrictions)) (PP (IN on) (NP (NN role) (NNS combinations)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ means) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ hidden) (NNS restrictions)) (PP (IN on) (NP (NN role) (NNS combinations)))))))) (. .))
+(S (NP (NP (DT The) (NNS consequences)) (PP (IN of) (NP (DT this) (NN approach)))) (VP (VBP are) (VP (VBN considered))) (. .))

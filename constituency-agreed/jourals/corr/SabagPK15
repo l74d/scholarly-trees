@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (JJ a-priori) (NN knowledge)) (PP (IN of) (NP (NP (DT the) (NN erasure)) (PP (IN at) (NP (DT the) (NN encoder)))))) (VP (VBZ does) (RB not) (VP (VB increase) (NP (DT the) (NN feedback) (NN capacity))))))) (. .))

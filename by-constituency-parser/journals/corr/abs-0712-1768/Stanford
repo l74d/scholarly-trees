@@ -1,0 +1,5 @@
+(S (NP (JJ Educative) (NNS platforms)) (VP (VBP are) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (JJ online) (NN education)))))))) (. .))
+(S (NP (PRP They)) (VP (MD can) (RB not) (ADVP (RB only)) (VP (VB be) (VP (VBN reduced) (PP (IN to) (NP (JJ technological) (NNS aspects)))))) (. .))
+(S (NP (JJ Underlying) (NNS models)) (VP (VBP impact) (NP (NN teaching) (CC and) (NN learning)) (PP (IN from) (NP (DT the) (NML (S (VP (VBG preparing) (PP (IN of) (NP (NNS lessons))) (PP (IN to) (NP (DT the) (NN learning)))))) (NNS sessions)))) (. .))
+(S (S (NP (NP (NN Research)) (VP (VBN related) (PP (IN to) (NP (DT these) (NNS platforms))))) (VP (VBP are) (ADJP (JJ numerous)))) (CC and) (S (NP (PRP$ their) (NNS stakes)) (VP (VBP are) (ADJP (JJ important)))) (. .))
+(S (ADVP (RB So)) (NP (JJ educative) (NNS platforms)) (VP (VBP are) (VP (VBG Learning) (NP (NP (NP (NNP Management) (NNPS Systems)) (-LRB- -LRB-) (NP (NNP LMS)) (-RRB- -RRB-)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ specific) (PP (IN to) (NP (NN education) (NNS contexts)))))))))) (. .))

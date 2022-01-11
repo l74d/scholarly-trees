@@ -1,0 +1,2 @@
+(S (CC And) (NP (DT the) (NNP ResCNN)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB reconstruct) (NP (DT the) (JJ original) (NN image)) (PP (IN with) (NP (JJ high) (NN quality)))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VP (VBZ is) (NP (DT a) (JJ pre-processing) (NN module))) (, ,) (CC and) (VP (VBZ does) (RB not) (VP (VB modify) (NP (NP (DT the) (NN classifier) (POS 's)) (NN structure)) (PP (IN during) (NP (DT the) (JJ whole) (NN process)))))) (. .))

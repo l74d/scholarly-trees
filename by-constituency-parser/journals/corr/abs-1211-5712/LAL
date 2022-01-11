@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (JJ elliptical) (NNS shapes)) (PP (IN in) (NP (DT an) (NN image))))))) (VP (MD will) (VP (VB be) (VP (VBN considered)))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NN solution)) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (NN cross-entropy) (NN clustering))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN method)) (VP (VBZ allows) (NP (NP (DT the) (NN search)) (PP (IN for) (NP (NP (NNS ellipses)) (PP (IN with) (NP (JJ predefined) (NX (NX (NNS sizes)) (CC and) (NX (NX (NN position)) (PP (IN in) (NP (DT the) (NN space))))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ works) (ADVP (RB well)) (PP (IN for) (NP (NP (NN search)) (PP (IN of) (NP (NNS ellipsoids))) (PP (IN in) (NP (JJR higher) (NNS dimensions)))))) (. .))

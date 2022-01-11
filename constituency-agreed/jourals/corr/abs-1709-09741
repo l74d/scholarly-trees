@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Effective) (NN collaboration)) (PP (IN between) (NP (NP (DT a) (NN robot)) (CC and) (NP (DT a) (NN person))))) (VP (VBZ requires) (NP (JJ natural) (NN communication))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (NN robot)) (VP (VBZ travels) (PP (IN with) (NP (DT a) (JJ human) (NN companion)))))) (, ,) (NP (DT the) (NN robot)) (VP (MD should) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB explain) (NP (PRP$ its) (NN navigation) (NN behavior)) (PP (IN in) (NP (JJ natural) (NN language))))))))) (. .))

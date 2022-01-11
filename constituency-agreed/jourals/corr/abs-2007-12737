@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (JJS simplest) (NN implementation)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (VP (MD would) (VP (VB lose) (NP (NN parallelism))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB recover) (NP (NN parallelism)) (S (VP (VBG using) (NP (NN speculation)))))))))) (. .))

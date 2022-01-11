@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NNP CBOW)) (VP (VBZ is) (RB not) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG capturing) (NP (DT the) (NN word) (NN order))))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ is) (NP (NP (DT an) (NN adaptation)) (PP (IN of) (NP (NN word2vec)))) (, ,) (SBAR (IN so) (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN trained) (PP (IN on) (NP (NP (JJ large) (NNS quantities)) (PP (IN of) (NP (JJ unlabeled) (NN text))))))))))) (. .))

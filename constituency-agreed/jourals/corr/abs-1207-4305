@@ -1,0 +1,2 @@
+(S (NP (NNS Methods)) (VP (VBP are) (VP (VBN developed) (S (VP (TO to) (VP (VB approximate) (NP (DT a) (VBN given) (NN filter)) (PP (IN by) (NP (DT a) (ADJP (RB differentially) (JJ private)) (NN version))) (, ,) (SBAR (IN so) (IN that) (S (NP (NP (DT the) (NN distortion)) (VP (VBN introduced) (PP (IN by) (NP (DT the) (NN privacy) (NN mechanism))))) (VP (VBZ is) (VP (VBN minimized)))))))))) (. .))
+(S (NP (CD Two) (JJ specific) (NNS scenarios)) (VP (VBP are) (VP (VBN considered))) (. .))

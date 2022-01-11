@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS bounds)) (VP (VBP are) (ADJP (RB particularly) (JJ suitable)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN sparsity)) (PP (IN of) (NP (NP (DT the) (NN analysis) (NN representation)) (PP (IN of) (NP (DT the) (NN signal)))))) (VP (VBZ is) (RB not) (ADJP (RB very) (JJ small)))))) (. .))

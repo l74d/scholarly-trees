@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP We)) (VP (VBP have) (VP (VBN explained) (NP (NP (JJ different) (NNP CNN) (NNS architectures)) (PP (IN for) (NP (NN image) (NN classification)))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN drawn) (NP (NP (DT a) (NN comparison)) (PP (IN among) (NP (DT those) (NNS models)))))) (. .))

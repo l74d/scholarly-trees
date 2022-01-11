@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (JJ new) (JJ incoming) (NN trace)) (VP (VBZ poses) (NP (NP (NNS requirements)) (PP (IN on) (NP (JJ future) (NNS traces))))) (. .))
+(S (NP (DT A) (NN hyperproperty)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN violated) (PP (IN by) (NP (NP (JJ multiple) (NNS runs)) (PP (IN of) (NP (DT the) (NN system))))) (SBAR (IN if) (S (NP (DT the) (NN constraint) (NN system)) (VP (VBZ becomes) (ADJP (JJ unsatisfiable))))))) (. .))

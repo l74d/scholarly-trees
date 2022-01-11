@@ -1,0 +1,7 @@
+(S (NP (DT The) (JJ distributed) (NN control) (NNS systems)) (VP (VBP are) (VP (ADVP (JJR more) (CC and) (RBR more)) (VBN used) (PP (IN in) (NP (JJ many) (JJ industrial) (NNS applications))))) (. .))
+(S (NP (DT These) (NNS systems)) (VP (VBP are) (ADVP (RB often)) (VP (VBN referred) (PP (IN as) (`` ``) (NP (NNP Networked) (NN control) (NNS systems)) ('' '')))) (. .))
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN network) (NN influence)) (PP (IN on) (NP (NN feedback) (NN control) (NNS systems)))))))) (. .))
+(S (NP (NP (CD Two) (NNS networks))) (VP (VBP are) (VP (VBN considered) (: :) (NP (NP (VBN Switched) (NNP Ethernet) (NN network)) (CC and) (NP (NNP CAN) (NN fieldbus))))) (. .))
+(S (S (NP (DT The) (JJ first) (CD one)) (VP (VBZ represents) (NP (DT the) (ADJP (NN non) (JJ deterministic)) (NN network)))) (CC and) (S (NP (JJ second) (CD one)) (VP (VBZ represents) (NP (DT the) (JJ deterministic) (NN one)))) (. .))
+(S (NP (JJ Several) (NNS scenarii)) (VP (VBP are) (VP (VBN studied) (S (VP (TO to) (VP (VB analyse) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (NN system))) (PP (VBG according) (PP (TO to) (NP (NP (JJ different) (NN network) (NNS parameters)) (PRN (-LRB- -LRB-) (NP (NP (NNS packets) (NNS losses)) (, ,) (NP (NN congestion)) (CC and) (NP (NN frame) (NN priority))) (-RRB- -RRB-))))))))))) (. .))
+(S (NP (DT The) (NNP Truetime) (NN simulator)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (DT this) (NN work))))) (. .))

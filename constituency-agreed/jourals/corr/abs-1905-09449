@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (JJ compressive) (NNS networks)) (VP (VBP are) (VP (VBN desired) (PP (IN in) (NP (JJ many) (JJ real) (NN world) (NNS applications)))))) (CC and) (S (NP (NP (JJ direct) (NN training)) (PP (IN of) (NP (JJ small) (NNS networks)))) (VP (MD may) (VP (VB be) (VP (VBN trapped) (PP (IN in) (NP (JJ local) (NN optima))))))) (. .))

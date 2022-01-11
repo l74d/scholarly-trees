@@ -1,0 +1,1 @@
+(S (NP (DT These)) (VP (VBP are) (VP (VBN merged) (PP (PP (IN with) (NP (DT the) (NN word) (NN embedding))) (CC or) (PP (IN with) (NP (NP (DT a) (NN sentence) (NN embedding)) (PP (IN of) (NP (DT the) (NN question)))))) (S (VP (TO to) (VP (VB predict) (NP (DT the) (NN answer))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NN issue)) (PP (IN of) (S (VP (VBG verifying) (ADVP (RB automatically)) (SBAR (IN whether) (S (NP (NP (DT the) (NNS executions)) (PP (IN of) (NP (NP (DT an) (NN implementation)) (PP (IN of) (NP (DT a) (NN data) (NN structure)))))) (VP (VBP are) (ADJP (RB causally) (JJ consistent)))))))))) (. .))

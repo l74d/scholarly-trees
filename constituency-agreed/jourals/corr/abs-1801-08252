@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (NN model)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBN retrained) (PP (IN by) (S (VP (VBG collecting) (NP (JJ new) (VBN labeled) (NNS data)) (PP (IN in) (NP (DT the) (JJ new) (NN context))))))))))) (. .))

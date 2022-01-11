@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (NP (DT the) (NN architecture)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN application) (NN speedup)))))) (CC and) (VP (VB analyze) (NP (NP (DT the) (NN mechanism)) (PP (IN for) (NP (DT the) (NN status) (NN communication)))))) (. .))

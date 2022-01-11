@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ dynamic) (NN schedulability) (NN test)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (NNS tasks)) (VP (VBP are) (ADJP (JJ schedulable) (PP (IN within) (NP (DT a) (JJ finite) (NN time) (NN window)))))))))))) (. .))
+(S (NP (NP (NN Robustness)) (PP (IN of) (NP (NN battery) (NN management)))) (VP (VBZ is) (VP (VBN quantified) (ADVP (RB analytically)) (PP (IN by) (NP (NP (DT an) (JJ adaptive) (NN threshold)) (PP (IN on) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NN charge))))))))) (. .))

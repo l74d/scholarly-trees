@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ addresses) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG fusing) (NP (CD two) (JJ random) (NNS vectors)) (PP (IN with) (NP (JJ unknown) (NNS cross-correlations)))))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ decentralized) (NN state) (NN estimation)) (PP (IN for) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS agents))))))))) (. .))

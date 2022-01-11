@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (NNS dimensions)) (PP (IN of) (NP (DT these) (NNS codes)))) (VP (VBP are) (VP (VBN settled)))) (CC and) (S (NP (NP (DT the) (JJR lower) (NNS bounds)) (PP (IN on) (NP (PRP$ their) (JJ minimum) (NNS distances)))) (VP (VBP are) (VP (VBN presented)))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (NNS codes)) (PP (IN with) (NP (JJ great) (JJ minimum) (NNS distances)))) (VP (VBP are) (VP (VBN desired) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN resistance))))))))))) (. .))

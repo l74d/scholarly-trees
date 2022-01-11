@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ relational) (NN database)) (VP (VBZ is) (ADJP (JJ inconsistent)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB satisfy) (NP (NP (DT a) (VBN given) (NN set)) (PP (IN of) (NP (NN integrity) (NNS constraints))))))))) (. .))

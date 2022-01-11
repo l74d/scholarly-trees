@@ -1,0 +1,3 @@
+(S (NP (JJ Binary) (NNS decisions)) (VP (VBP are) (NP (NP (DT the) (JJS simplest) (NN form)) (PP (IN of) (NP (NP (NNS decisions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN made) (PP (IN in) (NP (PRP$ our) (JJ daily) (NNS lives))))))))))) (. .))
+(S (NP (DT These) (NNS decisions)) (VP (VBP are) (ADVP (RB also)) (VP (VBN made) (PP (IN by) (NP (NP (NNS computers)) (, ,) (NP (NNS machines)) (CC and) (NP (JJ various) (JJ electronic) (NNS components)))))) (. .))
+(S (NP (JJ Such) (NNS systems)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ separate) (NN hardware) (NN infrastructure)) (CONJP (RB rather) (IN than)) (NP (NN computer) (NNS codes)))))) (. .))

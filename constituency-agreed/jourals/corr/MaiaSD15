@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (DT a) (ADJP (RB fully) (JJ functional)) (NN vehicle)) (VP (VBZ has) (RB not) (ADVP (RB yet)) (VP (VBN been) (VP (VBN realized)))) (. .))
+(S (NP (DT The) (NN invention)) (VP (VBD was) (VP (VBN built) (PP (IN on) (NP (NP (DT a) (JJ bio-inspired) (NN locomotion) (NN force) (NN analysis)) (SBAR (WHNP (WDT that)) (S (VP (VBZ combines) (NP (NN flight) (CC and) (NN swimming))))))))) (. .))
+(S (NP (NP (CD Three) (JJ main) (NNS advances)) (PP (IN in) (NP (DT the) (JJ present) (NN work)))) (VP (VBZ has) (VP (VBN allowed) (NP (DT this) (NN invention)))) (. .))

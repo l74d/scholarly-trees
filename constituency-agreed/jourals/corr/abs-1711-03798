@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS files)) (SBAR (WHNP (WDT that)) (S (VP (VBP include) (NP (DT a) (JJ certain) (NN subfile)))))))) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (NP (NN commonness)) (PP (IN of) (NP (DT this) (NN subfile))))))))) (. .))

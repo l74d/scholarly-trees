@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NNS data)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN leaked) (PP (IN in) (NP (DT the) (NNS attacks))))))))) (VP (VBP are) (VP (VBN summarized))) (. .))
+(S (ADVP (RB Further)) (, ,) (S (NP (DT the) (VBG existing) (NNS attacks)) (VP (VBP are) (VP (VBN compared)))) (, ,) (CC and) (S (NP (NP (DT the) (NNS limitations)) (PP (IN of) (NP (DT these) (NNS attacks)))) (VP (VBP are) (VP (VBN discussed) (PP (VBN based) (PP (IN on) (NP (DT the) (VBN proposed) (NNS metrics))))))) (. .))

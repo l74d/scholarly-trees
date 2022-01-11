@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP analyze) (NP (NP (DT the) (JJ joint) (JJ nonlinear) (NN complexity)) (PP (IN of) (NP (DT these) (NNS multisequences))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN length) (CC and) (NN dimension)) (PP (IN of) (NP (DT these) (NNS multisequences)))) (VP (VBP are) (ADJP (JJ flexible))) (. .))

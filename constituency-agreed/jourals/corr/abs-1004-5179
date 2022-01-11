@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP offer) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ answers) (NP (DT this) (NN question))))))) (. .))
+(S (NP (NP (DT A) (JJ dynamic) (NN programming) (NN search)) (PP (IN through) (NP (DT this) (NN graph)))) (VP (VBZ determines) (NP (DT the) (JJS longest) (NN path))) (. .))

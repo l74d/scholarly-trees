@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN text)) (VP (VBZ is) (NP (NP (DT a) (NN development)) (PP (IN of) (NP (NP (DT a) (NN preprint)) (PP (IN of) (NP (NNP Ankit) (NNP Gupta))))))) (. .))
+(S (ADVP (RB However)) (NP (PRP we)) (VP (VBD failed) (S (VP (TO to) (VP (VB implement) (NP (DT this) (NN plan)) (ADVP (RB completely)))))) (. .))

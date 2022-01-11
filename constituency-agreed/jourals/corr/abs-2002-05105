@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN specification)) (PP (IN of) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NNS parameters)))))) (VP (VBZ affects) (NP (NP (DT the) (JJ computational) (NN efficiency)) (CC and) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (NP (NN implementation)) (PP (IN of) (NP (DT a) (NN control) (NN strategy)))))))) (. .))
+(S (NP (DT A) (NN control) (NN strategy)) (VP (VBZ is) (VP (VBN provided) (PP (IN with) (NP (DT the) (VBN proposed) (JJ linear) (NN model))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ non-linear) (NN transformation)) (PP (IN of) (NP (DT this) (NN transition) (NN model)))) (VP (MD can) (VP (VB be) (VP (VBN parametrized) (PP (IN by) (NP (DT a) (JJ feedforward) (JJ neural) (NN network)))))) (. .))

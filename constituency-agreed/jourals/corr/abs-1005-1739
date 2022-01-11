@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN work)) (VP (VBD was) (VP (VBN simulated) (PP (IN in) (NP (NNP TOSSIM) (NN simulator)))))) (CC and) (S (NP (DT the) (JJ same)) (VP (VBD was) (VP (VBN tested) (PP (IN in) (NP (NNP Crossbow) (NNP IRIS) (NN radio) (NN test) (NN bed)))))) (. .))

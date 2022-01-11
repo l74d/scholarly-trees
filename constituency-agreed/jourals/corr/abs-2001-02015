@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS methods)) (VP (VBP assume) (NP (NP (DT an) (JJ identical) (NN label) (NN space)) (PP (IN between) (NP (DT the) (CD two) (NNS domains))))) (. .))
+(S (NP (DT This) (NN assumption)) (VP (VBZ imposes) (NP (DT a) (JJ significant) (NN limitation)) (PP (IN for) (NP (JJ real) (NNS applications))) (SBAR (IN since) (S (NP (DT the) (NN target) (NN training) (NN set)) (VP (MD may) (RB not) (VP (VB contain) (NP (NP (DT the) (JJ complete) (NN set)) (PP (IN of) (NP (NNS classes))))))))) (. .))
+(S (NP (DT Both) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN methodology))))) (. .))

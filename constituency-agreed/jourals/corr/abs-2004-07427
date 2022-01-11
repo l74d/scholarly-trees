@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB illustrate) (NP (PRP$ its) (NN application))))) (, ,) (NP (DT a) (JJ federated) (JJ logistic) (NN regression) (NN algorithm)) (VP (VBZ is) (VP (VBN provided) (PP (IN as) (NP (DT an) (NN example))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (ADVP (RB also)) (VP (VBN made) (PP (IN for) (S (VP (VBG validating) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (DT this) (NN approach))))))))) (. .))

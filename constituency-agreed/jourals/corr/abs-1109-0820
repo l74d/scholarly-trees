@@ -1,0 +1,2 @@
+(S (NP (NNP Multiclass) (NN prediction)) (VP (VBZ is) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG classifying) (NP (DT an) (NN object)) (PP (IN into) (NP (DT a) (JJ relevant) (NN target) (NN class)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ implies) (SBAR (IN that) (S (NP (NNS features)) (VP (MD should) (VP (VB be) (VP (VBN shared) (PP (IN by) (NP (JJ several) (NNS classes))))))))) (. .))

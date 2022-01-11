@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ general) (NN formulation)) (VP (VBZ includes) (NP (NP (JJ basic) (NNS aggregates)) (PP (JJ such) (IN as) (NP (NP (DT the) (NNP Jaccard) (NN coefficient)) (, ,) (NP (VBG Hamming) (NN distance)) (, ,) (CC and) (NP (NN association) (NNS rules)))))) (. .))
+(S (PP (IN On) (NP (JJ massive) (NNS data) (NNS sets))) (, ,) (NP (JJ exact) (NN computation)) (VP (MD can) (VP (VB be) (ADJP (JJ inefficient) (CC or) (JJ infeasible)))) (. .))

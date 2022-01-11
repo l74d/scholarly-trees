@@ -1,0 +1,1 @@
+(S (ADVP (RB Formally)) (, ,) (NP (NN graph) (NNS patterns)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB express) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (NNS constraints)) (SBAR (WHNP (WDT which)) (S (VP (VBP control) (NP (NN dependency) (NNS creations))))))))))))) (. .))

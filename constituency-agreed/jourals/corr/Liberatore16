@@ -1,0 +1,2 @@
+(S (ADVP (RB Yet)) (, ,) (NP (NP (DT no) (NNS examples)) (CC or) (NP (JJ previous) (NNS revisions))) (VP (MD may) (VP (VB be) (ADJP (JJ available)))) (. .))
+(S (NP (NP (DT The) (JJ first) (NN theorem)) (PP (IN of) (NP (DT this) (NN article)))) (VP (VBZ proves) (SBAR (IN that) (S (NP (PDT such) (DT a) (NN scenario)) (VP (VBZ is) (ADVP (RB indeed)) (ADJP (JJ possible)))))) (. .))

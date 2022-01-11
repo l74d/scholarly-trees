@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN hypothesis)) (VP (VBZ is) (VP (VBN known) (PP (IN as) (NP (NNP Electroweak) (NNP Baryogenesis))))) (. .))
+(S (NP (NP (DT The) (NN sonification) (NN component)) (PP (IN in) (ADJP (JJ particular)))) (ADVP (RB also)) (VP (VBD had) (NP (NP (DT the) (JJ unexpected) (NN benefit)) (PP (IN of) (S (VP (VBG being) (ADJP (JJ useful) (PP (IN in) (S (VP (VBG debugging) (NP (DT the) (NNP Mathematica) (NN code))))))))))) (. .))

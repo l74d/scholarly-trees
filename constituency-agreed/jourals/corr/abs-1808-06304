@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP observe) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ logarithmic) (NN relationship)) (PP (IN between) (NP (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT a) (JJ semantic) (NN parser)))) (CC and) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN training) (NNS data))))))))))) (. .))

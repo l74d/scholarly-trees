@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT an) (JJ optimal) (NN solution)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB efficiently)) (PP (IN without) (S (VP (VBG affecting) (NP (DT the) (NN training) (NN performance)))))))))))) (. .))

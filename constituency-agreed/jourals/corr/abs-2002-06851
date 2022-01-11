@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NN Today) (POS 's)) (NN research) (NN progress)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (JJ multi-document) (NN summarization)))))) (VP (VBZ is) (VP (VBN obstructed) (PP (IN by) (NP (NP (DT the) (JJ small) (NN number)) (PP (IN of) (NP (JJ available) (NNS datasets))))))) (. .))

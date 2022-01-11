@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (DT the) (ADJP (RB recently) (VBN proposed)) (NN multi-parameter-server) (NN architecture))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (NN parameter) (NNS servers)) (SBAR (WHNP (WDT that)) (S (VP (VBP learn) (NP (DT a) (NN model)) (PP (VBN based) (PP (IN on) (NP (NP (JJ randomized) (NNS gradients)) (VP (VBN received) (PP (IN from) (NP (NNS clients)))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ nonlinear) (NNP MPC)) (VP (VP (VP (VBZ predicts) (NP (NP (DT the) (NNS dynamics)) (PP (IN of) (NP (DT the) (NN system))))) (CC and) (VP (VBZ solves) (NP (DT the) (NN control) (NN problem)) (ADVP (RB efficiently)))) (, ,) (CC but) (VP (VBZ requires) (NP (NP (DT the) (JJ exact) (NN information)) (PP (IN of) (NP (DT the) (NN system) (NNS models)))))) (. .))
+(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (NN robot) (NN stability)) (VP (VBZ has) (VP (VBN increased) (PP (IN by) (NP (CD 78) (NN %))))) (. .))

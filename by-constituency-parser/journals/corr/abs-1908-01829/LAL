@@ -1,0 +1,8 @@
+(S (NP (PRP We)) (VP (VBP compare) (NP (NP (JJ bipartite) (PRN (-LRB- -LRB-) (NNP Euclidean) (-RRB- -RRB-)) (VBG matching) (NNS problems)) (PP (IN in) (NP (ADJP (JJ classical) (CC and) (JJ quantum)) (NNS mechanics))))) (. .))
+(S (NP (DT The) (NN quantum) (NN case)) (VP (VBZ is) (VP (VBN treated) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT a) (JJ quantum) (NN version)) (PP (IN of) (NP (NP (DT the) (NNP Wasserstein) (NN distance)) (VP (VBN introduced) (PP (IN in) (PRN (NNP -LSB-) (NP (NP (NNP F.) (NNP Golse)) (, ,) (NP (NNP C.) (NNP Mouhot)) (, ,) (NP (NNP T.) (NNP Paul)) (, ,) (NP (NNP Commun))) (. .)))))))))))))
+(NP (NN Math) (. .))
+(NP (NNP Phys) (. .))
+(NP (NP (CD 343)) (PRN (-LRB- -LRB-) (NP (CD 2016)) (-RRB- -RRB-)) (, ,) (ADVP (JJ 165-205) (NN -RSB-)) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ optimal) (NN quantum) (NN cost)) (VP (MD can) (VP (VB be) (ADJP (ADJP (JJR cheaper)) (PP (IN than) (NP (DT the) (JJ classical) (CD one))))))))) (. .))
+(S (S (NP (PRP We)) (VP (VBP treat) (PP (IN in) (NP (NN detail))) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (CD two) (NNS particles)))))) (: :) (S (NP (DT the) (JJ equal) (NN mass) (NN case)) (VP (VBZ leads) (PP (TO to) (NP (VB equal) (UCP (NN quantum) (CC and) (JJ classical)) (NNS costs))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (VBZ examples)) (PP (IN with) (NP (JJ different) (NNS masses))) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NN quantum) (NN cost)) (VP (VBZ is) (ADJP (ADJP (RB strictly) (JJR cheaper)) (PP (IN than) (NP (DT the) (JJ classical) (NN cost))))))))) (. .))

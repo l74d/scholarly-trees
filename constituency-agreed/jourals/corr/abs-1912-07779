@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN characterization)) (VP (VBZ is) (ADJP (JJ different) (PP (IN from) (NP (NP (NNP Dau) (CC and) (NNP Milenkovic) (POS 's)) (NNP MaxMinSum) (NN model)))) (, ,) (SBAR (IN while) (S (NP (NP (DT the) (JJ minimum) (NN sum)) (PP (IN of) (NP (NNS labels)))) (VP (VBZ is) (VP (VBN maximized)))))) (. .))

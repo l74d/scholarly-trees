@@ -1,0 +1,1 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT the) (NN analysis)))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB rely) (PP (IN on) (NP (JJ convolutional) (JJ neural) (NNS networks))) (PP (IN for) (S (VP (VBG learning) (NP (JJ textual) (NNS representations))))))))) (. .))

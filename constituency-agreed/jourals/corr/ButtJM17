@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN optimization) (NN problem)) (VP (VBZ is) (RB not) (ADJP (JJ convex)))) (CC and) (S (NP (PRP we)) (VP (VBP use) (NP (JJ stochastic) (NN optimization) (NN technique)) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN problem))))))) (. .))

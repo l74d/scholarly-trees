@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (PRP it)) (VP (VBZ increases) (NP (JJ inter-class) (NN variance)) (PP (IN by) (S (VP (VBG learning) (NP (NP (VBG warping) (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RBR more) (JJ discriminative)))))))))) (. .))

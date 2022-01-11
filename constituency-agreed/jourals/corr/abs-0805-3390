@@ -1,0 +1,2 @@
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (NN communication) (NNS satellites)))) (VP (VBD were) (VP (VBN designed) (S (VP (TO to) (VP (VB be) (VP (VBN operated) (PP (IN in) (NP (JJ geostationary) (NN orbit))))))))) (. .))
+(S (NP (DT The) (NN control) (NN performance)) (VP (VBZ is) (VP (VBN evaluated) (PP (VBN based) (PP (IN on) (NP (NN time) (NN response) (NN analysis)))))) (. .))

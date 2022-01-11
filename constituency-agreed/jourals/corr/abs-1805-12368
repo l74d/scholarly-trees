@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS features)) (PP (IN of) (NP (DT the) (NN learning)))))) (PP (IN at) (NP (NP (NP (JJ finite) (NN number)) (PP (IN of) (NP (NNS neurons)))) (CC and) (NP (NP (JJ finite) (NN number)) (PP (IN of) (NP (NNS patterns))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NN Information) (NN diffusion)) (PP (IN in) (NP (NNS networks)))) (VP (VBZ has) (VP (VBN received) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ recent) (NN attention)))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (EX there)) (VP (MD may) (VP (VB be) (NP (NP (NNS settings)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN seed) (NNS nodes)) (VP (VBP are) (VP (VBN predetermined)))))))) (. .))

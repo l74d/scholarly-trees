@@ -1,0 +1,8 @@
+(S (NP (DT This) (NN work)) (VP (VBZ investigates) (NP (NP (DT the) (NNP TRACON) (JJ flow) (NN management)) (PP (IN around) (NP (DT a) (JJ major) (NN airport))))) (. .))
+(S (NP (NN Aircraft) (NNS flows)) (VP (VBP are) (VP (VBN analyzed) (PP (IN through) (NP (NP (DT a) (NN study)) (PP (IN of) (NP (NNP TRACON) (NNS trajectories) (NNS records))))))) (. .))
+(S (S (NP (VBG Rerouting) (CC and) (VBG queuing) (NNS processes)) (VP (VBP are) (VP (VBN highlighted)))) (CC and) (S (NP (JJ airport) (NNS characteristics)) (VP (VBP are) (VP (VBN shown) (PP (IN as) (NP (NP (NN function)) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS planes))) (PP (IN in) (NP (DT the) (NNP TRACON)))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT a) (JJ simple) (JJ input-output) (NNP TRACON) (NN queuing) (CC and) (VBG landing) (NN model)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN calibrated) (CC and) (VBN validated) (S (VP (VBG using) (NP (JJ available) (NNP TRACON) (NN data)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ reproduces) (NP (NP (DT the) (JJ same) (NN phenomenon)) (PP (IN as) (NP (DT the) (JJ real) (NN system))))) (. .))
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN impact)) (PP (IN of) (S (VP (VBG limiting) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS aircrafts))) (PP (IN in) (NP (DT the) (NNP TRACON))))))))))))) (. .))
+(S (NP (NP (DT A) (JJ limited) (NN number)) (PP (IN of) (NP (NN aircraft)))) (VP (VP (VBZ does) (RB not) (VP (VB increase) (NP (NNS delays)))) (CC but) (VP (VP (VBZ reduces) (NP (NP (DT the) (NN controller) (POS 's)) (NN workload))) (CC and) (VP (VBZ increases) (NP (NN safety))))) (. .))

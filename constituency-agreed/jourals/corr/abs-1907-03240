@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VB build) (NP (DT the) (JJ multimodal) (NNS transactions)) (PP (IN by) (S (VP (VBG concatenating) (NP (NP (DT the) (NNP CNN) (NNS activations)) (CC and) (NP (DT the) (NN word) (NNS indices))))))) (. .))

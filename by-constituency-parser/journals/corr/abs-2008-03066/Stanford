@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (ADJP (NP (JJ novel) (NN game)) (HYPH -) (JJ theoretic)) (NN approach)) (PP (IN for) (VP (VB drone) (NP (NP (NN service) (NN composition)) (VP (VBG considering) (S (VP (VBG recharging) (NP (NNS constraints))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP design) (NP (NP (DT a) (JJ non-cooperative) (NN game) (NN model)) (PP (IN for) (NP (NML (S (VP (VB drone)))) (NNS services))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ non-cooperative) (NN game) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN selection) (CC and) (NN composition)) (PP (IN of) (NP (JJ optimal) (NML (S (VP (VB drone)))) (NNS services)))))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (S (NP (NP (JJ several) (NNS experiments)) (PP (IN on) (NP (DT a) (NN real)))) (VP (VB drone) (NP (NN dataset)) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN approach)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (NP (DT the) (JJ few) (NNS samples)) (PP (IN with) (NP (JJ random) (NNS supports)))) (VP (VBZ ensures) (NP (NN identifiability))))) (, ,) (NP (DT the) (NN support) (NN distribution)) (VP (MD can) (VP (VB look) (ADJP (RB almost) (JJ arbitrary)) (PP (IN in) (NP (NN aggregate))))) (. .))

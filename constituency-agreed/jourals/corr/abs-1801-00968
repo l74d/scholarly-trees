@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD three) (NNS sub-networks)) (, ,) (NP (NP (CD two) (JJ convolutional) (JJ neural) (NNS pyramids)) (VP (VBN concatenated) (PP (IN by) (NP (DT a) (JJ normal) (JJ convolutional) (JJ neural) (NN network)))))))) (. .))

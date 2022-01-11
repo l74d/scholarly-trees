@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN algorithm)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ solves) (NP (DT these) (NNS problems))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (SBAR (S (NP (PRP we)) (VP (VBP have) (VP (VBN received)))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB describe) (NP (NP (DT the) (NN topology)) (PP (IN of) (NP (DT the) (JJ different) (NN weaving) (NNS structures))))))))) (. .))

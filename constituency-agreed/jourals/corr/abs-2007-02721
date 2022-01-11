@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN student)) (ADVP (RB additionally)) (VP (VBZ learns) (PP (IN from) (NP (NP (DT an) (JJ adversarial) (NN loss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ pushes) (S (NP (PRP it)) (VP (TO to) (VP (VB follow) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (DT the) (JJ real) (NNS images))))))))))))) (. .))
+(S (NP (NP (DT A) (NN student)) (VP (VBN trained) (PP (IN without) (NP (DT the) (JJ adversarial) (NN loss))))) (VP (MD would) (RB not) (VP (VB use) (NP (DT this) (NN information)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNP TreeLSTM)) (VP (VBZ defines) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (DT a) (NN sentence)))) (PP (IN by) (S (VP (VBG estimating) (NP (NP (DT the) (NN generation) (NN probability)) (PP (IN of) (NP (PRP$ its) (NN dependency) (NN tree)))))))) (. .))

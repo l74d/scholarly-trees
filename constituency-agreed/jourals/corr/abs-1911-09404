@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Efficient) (NNS models) (CC and) (NNS techniques)) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB capture) (NP (PRP$ their) (JJ complex) (NN structure))) (CC and) (VP (VB identify) (NP (JJ critical) (JJ cyber-physical) (NNS components)))))))) (VP (VBP are) (ADVP (RB therefore)) (ADJP (JJ essential))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT a) (JJ thorough) (NN performance) (NN evaluation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ shows) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (PRP$ our) (NN method))))))))) (. .))

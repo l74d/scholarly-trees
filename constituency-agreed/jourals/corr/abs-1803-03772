@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (ADVP (RB usually)) (VP (VBZ implies) (NP (DT the) (JJ large) (NN capacity))) (. .))
+(S (NP (PRP It)) (ADVP (RB usually)) (VP (VBZ requires) (NP (JJ small) (NN capacity)) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN variance)))))) (. .))

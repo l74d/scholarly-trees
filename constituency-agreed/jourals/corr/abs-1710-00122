@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB conduct) (NP (DT an) (JJ initial) (NN performance) (NN study))))) (, ,) (NP (PRP we)) (VP (VBD implemented) (NP (DT the) (NN method)) (PP (IN on) (NP (DT an) (NNP Intel) (NNP Xeon) (NNP Phi) (NN accelerator) (NN system)))) (. .))

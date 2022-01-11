@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN practice)) (PP (IN of) (NP (JJ compressed) (VBG sensing)))) (VP (NNS suffers) (ADVP (RB importantly)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN efficiency/accuracy) (NN trade-off)) (SBAR (WHADVP (WRB when)) (S (VP (VBG acquiring) (NP (JJ noisy) (NNS signals)) (ADVP (RB prior) (PP (TO to) (NP (NN measurement)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (JJ such) (NNS features)) (, ,) (S (VP (VBG providing) (NP (ADJP (RB relatively) (JJ simple) (CC and) (JJ precise)) (JJ theoretical) (NNS guarantees))))) (. .))

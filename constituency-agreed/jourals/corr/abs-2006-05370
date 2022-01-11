@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (JJ such) (JJ optimal) (NN convergence) (NNS orders)) (PP (IN for) (NP (PRP$ our) (JJ full) (NN discretization))) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (VBN distributed) (NN noise)) (CC and) (NP (DT the) (JJ initial) (NN condition))) (VP (VBP are) (ADJP (RB sufficiently) (JJ smooth)))))) (. .))

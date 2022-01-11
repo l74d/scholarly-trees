@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ anonymized) (NNS datasets)) (VP (VBN generated) (PP (IN by) (NP (PRP$ our) (VBN proposed) (NN algorithm))))) (VP (VBZ protects) (NP (JJ individual) (NN privacy)))))) (. .))

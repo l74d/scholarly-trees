@@ -1,0 +1,3 @@
+(S (NP (JJ Such) (NNS headlines)) (VP (VBP are) (VP (VBN known) (PP (IN as) (NP (NNS Clickbaits))))) (. .))
+(S (NP (DT The) (NN extension)) (ADVP (RB also)) (VP (VBZ offers) (NP (DT each) (NN reader)) (NP (DT an) (NN option) (S (VP (TO to) (VP (VB block) (NP (NP (NNS clickbaits)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB see)))))))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (S (VP (VBG using) (NP (JJ such) (NN reader) (NNS choices)))) (, ,) (NP (DT the) (NN extension)) (ADVP (RB automatically)) (VP (VBZ blocks) (NP (JJ similar) (NNS clickbaits)) (PP (IN during) (NP (PRP$ her) (JJ future) (NNS visits)))) (. .))

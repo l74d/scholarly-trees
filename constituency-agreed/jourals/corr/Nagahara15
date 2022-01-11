@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN difficulty)) (PP (IN of) (NP (DT this) (NN problem)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (DT the) (NN reconstruction)))) (VP (VBZ is) (ADJP (JJ exponential)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is)))))))) (. .))

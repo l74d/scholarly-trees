@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD found) (SBAR (IN that) (S (PP (IN at) (NP (NP (CD 0.05) (NN level)) (PP (IN of) (NP (NN significance))))) (, ,) (NP (NP (DT the) (NNS terms)) (PP (IN in) (NP (DT the) (NNS clusters)))) (VP (VBD showed) (NP (NP (DT a) (JJ high) (NN level)) (PP (IN of) (NP (JJ semantic) (NN consistency)))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (ADJP (RB highly) (JJ scalable)) (, ,) (PP (IN with) (NP (NP (NNS interpretations)) (PP (IN in) (NP (NN philosophy)))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (NNS chatbots)) (VP (VBP have) (VP (VBN been) (ADJP (RB very) (JJ popular)) (PP (IN in) (NP (JJ recent) (NNS years))))))) (, ,) (NP (PRP they)) (ADVP (RB still)) (VP (VBP have) (NP (NP (DT some) (JJ serious) (NNS weaknesses)) (SBAR (WHNP (WDT which)) (S (VP (VBP limit) (NP (NP (DT the) (NN scope)) (PP (IN of) (NP (PRP$ their) (NNS applications))))))))) (. .))
+(S (NP (PRP$ Our) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (S (NP (NNP LiLi)) (VP (VBZ is) (ADJP (RB highly) (JJ promising)))))) (. .))

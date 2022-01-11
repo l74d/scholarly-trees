@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN paper) (POS 's)) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (CD two) (NNS phases))))) (. .))
+(S (NP (NP (DT The) (JJ theoretical) (NN optimality)) (PP (IN of) (NP (NP (DT the) (NN sensor) (NN placement)) (PP (IN alongside) (NP (DT a) (NN state) (NN estimator) (NN design)))))) (VP (VBP are) (ADVP (RB then)) (VP (VBN given))) (. .))

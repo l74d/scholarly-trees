@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (NN test) (NN time))) (, ,) (NP (DT these) (NNS filters)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (JJ visual) (NNS classifiers)) (PP (IN of) (NP (JJ unseen) (NNS categories))))))))) (. .))

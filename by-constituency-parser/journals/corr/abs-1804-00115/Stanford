@@ -1,0 +1,4 @@
+(S (NP (NNP Actigraphy)) (VP (VBZ has) (VP (VBN been) (ADVP (RB widely)) (VP (VBN used) (PP (IN for) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (JJ circadian) (NN rhythm)))))))) (. .))
+(S (NP (JJ Current) (NN practice)) (VP (VBZ applies) (NP (NN regression) (NN analysis)) (PP (IN to) (NP (NP (NNS data)) (PP (IN from) (NP (JJ multiple) (NNS days))))) (S (VP (TO to) (VP (VB estimate) (NP (DT the) (JJ circadian) (NN phase)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN filtering) (NN method)) (PP (IN for) (NP (NP (JJ online) (NN processing)) (PP (IN of) (NP (JJ biometric) (NNS data)))))) (S (VP (TO to) (VP (VB estimate) (NP (DT the) (JJ circadian) (NN phase)))))) (. .))
+(S (NP (PRP We)) (VP (VBP apply) (NP (DT the) (JJ proposed) (NN method)) (PP (IN on) (NP (NP (JJ actigraphy) (NNS data)) (PP (IN of) (NP (NN fruit) (NNS flies))))) (PRN (-LRB- -LRB-) (NP (NNP Drosophila) (NNP melanogaster)) (-RRB- -RRB-))) (. .))

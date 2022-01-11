@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (JJ new) (NN definition)) (PP (IN of) (NP (NP (JJ structural) (NN information)) (PP (IN in) (NP (NN tensor) (NNS data))))))) (. .))
+(S (NP (NP (CD Two) (NN simulation) (NNS examples)) (CC and) (NP (NP (DT a) (JJ real) (NN case) (NN study)) (PP (IN in) (NP (JJ medical) (NN image) (NN analysis))))) (VP (VBP illustrate) (NP (NP (DT the) (NN versatility) (CC and) (NN effectiveness)) (PP (IN of) (NP (DT the) (NNP ATD) (NN framework))))) (. .))

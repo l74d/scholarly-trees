@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN classifier)) (VP (VBZ is) (VP (VBN trained) (PP (IN by) (S (VP (VBG using) (NP (DT a) (JJ new) (JJ adaptive) (NN learning) (NN method))))))) (. .))
+(S (NP (DT The) (NN training) (NNS data)) (VP (VBP are) (ADVP (RB initially)) (VP (VBN collected) (PP (IN from) (NP (JJ social) (NNS networks))))) (. .))

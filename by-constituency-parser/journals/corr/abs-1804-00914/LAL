@@ -1,0 +1,4 @@
+(S (NP (DT A) (NN data) (NN store)) (VP (VBZ allows) (S (NP (NN application) (VBZ processes)) (VP (TO to) (VP (VP (VB put)) (CC and) (VB get) (NP (NNS data)) (PP (IN from) (NP (DT a) (VBN shared) (NN memory))))))) (. .))
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (DT a) (NNS data) (NN store)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN modelled) (PP (IN as) (NP (DT a) (ADJP (RB strictly) (JJ sequential)) (NN process)))))) (. .))
+(S (NP (NNS Applications)) (VP (VBP observe) (NP (NP (JJ non-sequential) (NNS behaviours)) (, ,) (VP (VBN called) (S (NP (NNS anomalies)))))) (. .))
+(S (NP (NP (DT The) (NN set)) (PP (PP (IN of) (NP (ADJP (JJ pos-) (JJ sible)) (NNS behaviours))) (, ,) (CC and) (ADVP (RB conversely)) (PP (IN of) (NP (JJ possible) (NNS anomalies))) (, ,))) (VP (VBZ constitutes) (NP (NP (DT the) (NN consistency) (NN model)) (PP (IN of) (NP (DT the) (NNS data) (NN store))))) (. .))

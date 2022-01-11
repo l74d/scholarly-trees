@@ -1,0 +1,1 @@
+(S (NP (NN Class) (NN imbalance)) (VP (VP (VBZ is) (NP (NP (DT a) (JJ common) (NN problem)) (PP (IN in) (NP (JJ supervised) (NN learning))))) (CC and) (VP (VBZ impedes) (NP (NP (DT the) (JJ predictive) (NN performance)) (PP (IN of) (NP (NN classification) (NNS models)))))) (. .))

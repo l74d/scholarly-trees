@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ synthetic) (NN dataset)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT a) (JJ supervised) (NN image) (NN segmentation) (NN model))))))) (. .))

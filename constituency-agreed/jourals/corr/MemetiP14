@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (JJ parallel) (NN algorithm)) (ADVP (RB empirically)) (PP (IN by) (S (VP (VBG comparing) (NP (PRP it)) (PP (IN with) (NP (NP (DT a) (ADJP (RB commonly) (VBN used)) (NN algorithm)) (PP (IN for) (NP (JJ sequential) (JJ regular) (NN expression) (NN matching))))))))) (. .))

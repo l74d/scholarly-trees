@@ -1,0 +1,2 @@
+(S (NP (CD One) (JJ essential) (NN requirement)) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (NN addition) (CC or) (NN removal)) (PP (IN of) (NP (JJ small) (NNS servers)))) (VP (MD should) (RB not) (VP (VB require) (S (NP (PRP us)) (VP (TO to) (VP (VB recompute) (NP (DT the) (JJ complete) (NN assignment)))))))))) (. .))
+(S (ADVP (RB Recently)) (, ,) (NP (DT an) (JJ elegant) (NN extension)) (VP (VBD was) (VP (VBN provided) (S (VP (TO to) (VP (VB account) (PP (IN for) (NP (NN server) (NNS bounds)))))))) (. .))

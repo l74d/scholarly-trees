@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ main) (NN task)) (PP (IN in) (NP (NNS data) (NN analysis)))) (VP (VBZ is) (S (VP (TO to) (VP (VB organize) (NP (NNS data) (NNS points)) (PP (IN into) (NP (JJ coherent) (NNS groups) (CC or) (NNS clusters))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (JJ total) (NN variation) (NN minimization)) (PP (IN as) (NP (NP (DT a) (NN method)) (PP (IN for) (NP (DT this) (NN clustering) (NN task)))))) (. .))

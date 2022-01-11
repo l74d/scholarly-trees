@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (DT the) (JJ epitomic) (NN convolution)) (PP (IN as) (NP (NP (DT a) (JJ new) (NN building) (NN block)) (PP (IN for) (NP (JJ deep) (JJ neural) (NNS networks)))))) (. .))
+(S (NP (NP (DT The) (JJ topographic) (NN version)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBZ uses) (NP (JJ large) (NNS epitomes)) (S (VP (TO to) (VP (VB learn) (NP (NP (NN filter) (NNS maps)) (VP (VBN organized) (PP (IN in) (NP (JJ translational) (NNS topographies))))))))) (. .))

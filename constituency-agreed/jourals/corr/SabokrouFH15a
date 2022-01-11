@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (DT a) (NN video)) (PP (IN as) (S (VP (VBG being) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ cubic) (NNS patches)))))))) (. .))
+(S (NP (DT The) (ADJP (JJ local) (CC and) (JJ global)) (NNS features)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NP (NN structure) (NN similarity)) (PP (IN between) (NP (JJ adjacent) (NNS patches)))) (CC and) (NP (NP (DT the) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN learned) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN way)))))))))))) (. .))

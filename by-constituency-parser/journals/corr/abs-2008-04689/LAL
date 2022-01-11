@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ general) (NN superapproximation) (NN result))) (VP (VBZ is) (VP (VBN derived) (PP (IN in) (NP (DT this) (NN paper))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ useful) (PP (IN for) (NP (NP (DT the) (JJ local/interior) (NN error) (NN analysis)) (PP (IN of) (NP (JJ finite) (NN element) (NNS methods))))))))))) (. .))

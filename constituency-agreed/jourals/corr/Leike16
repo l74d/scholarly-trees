@@ -1,0 +1,1 @@
+(S (NP (NP (PRP$ Our) (NNS experiments)) (PP (IN in) (NP (JJ multi-armed) (NNS bandits)))) (VP (VBP use) (NP (NN exploration) (NN potential)) (S (VP (TO to) (VP (VB illustrate) (SBAR (WHADVP (WRB how)) (S (NP (JJ different) (NNS algorithms)) (VP (VBP make) (NP (NP (DT the) (NN tradeoff)) (PP (IN between) (NP (NN exploration) (CC and) (NN exploitation))))))))))) (. .))

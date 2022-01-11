@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN challenge)) (PP (IN in) (NP (DT this) (NN paper)))))) (NP (PRP we)) (VP (VBP investigate) (NP (ADJP (RB semantically) (JJ configurable)) (NN model) (NN analysis))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ parametrized) (NN analysis)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN instantiated) (S (VP (TO to) (VP (VB comply) (PP (IN with) (NP (NP (DT every) (JJ legal) (NN configuration)) (PP (IN of) (NP (DT the) (NN feature) (NN model))))))))))))))) (. .))

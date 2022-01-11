@@ -1,0 +1,2 @@
+(S (NP (VBG Operating) (NNS networks)) (VP (VBZ depends) (PP (IN on) (S (VP (VBG collecting) (CC and) (VBG analyzing) (NP (NN measurement) (NNS data)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (NNP Sonata)) (, ,) (NP (NP (DT a) (NN network) (NN telemetry) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (DT a) (JJ uniform) (NN query) (NN interface)) (S (VP (TO to) (VP (VB drive) (NP (NP (DT the) (JJ joint) (NN collection) (CC and) (NN analysis)) (PP (IN of) (NP (NN network) (NN traffic))))))))))))) (. .))

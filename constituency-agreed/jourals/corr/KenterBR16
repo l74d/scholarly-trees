@@ -1,0 +1,1 @@
+(S (NP (JJ Siamese) (NNP CBOW)) (VP (VBZ handles) (NP (DT this) (NN problem)) (PP (IN by) (S (VP (VBG training) (NP (NN word) (NNS embeddings)) (ADVP (RB directly)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (S (VP (VBG being) (VP (VBN averaged))))))))))) (. .))

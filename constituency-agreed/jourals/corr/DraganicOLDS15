@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN hardware) (NN architecture)) (PP (IN for) (NP (DT the) (JJ single) (NN iteration) (NN algorithm)))) (VP (VBZ is) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (DT the) (NNP FPGA) (NN realization))))) (. .))

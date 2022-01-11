@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ considerable) (NN corpus)) (PP (IN of) (NP (NP (NN research)) (PP (IN on) (NP (NN software) (NN evolution)))))) (VP (VP (VBZ focuses) (PP (IN on) (NP (NP (NN mining) (NNS changes)) (PP (IN in) (NP (NN software) (NNS repositories)))))) (, ,) (CC but) (VP (VBZ omits) (NP (PRP$ their) (JJ pre-integration) (NN history)))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (JJ real) (NN world) (NNS situations))) (, ,) (NP (JJ collective) (NNS decisions)) (VP (VBP are) (VP (VBN made) (S (VP (VBG using) (NP (NN voting)))))) (. .))
+(S (NP (DT An) (NN agent)) (VP (MD may) (VP (VB manipulate) (NP (DT the) (NN vote)) (S (VP (TO to) (VP (VB achieve) (NP (DT a) (JJR better) (NN outcome)) (PP (IN by) (S (VP (VBG voting) (PP (IN in) (NP (NP (DT a) (NN way)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB not) (VP (VB reflect) (NP (PRP$ their) (JJ true) (NNS preferences)))))))))))))))) (. .))

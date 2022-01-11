@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP propose) (NP (DT a) (NN sequent) (NN calculus) (NN system))) (CC and) (VP (VB discuss) (NP (PRP$ its) (NNS semantics)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT a) (JJ concrete) (JJ relational) (NN model)) (PP (IN for) (NP (DT this) (NN calculus))))) (. .))

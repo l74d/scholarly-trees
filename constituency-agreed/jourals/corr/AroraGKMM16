@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (JJ empirical) (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ works) (PP (IN on) (NP (JJ realistic) (NN topic) (NNS models))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (JJ independent) (NNS sets)) (PP (IN of) (NP (NN closure) (NNS operations)))) (VP (VBP are) (VP (VBN introduced))) (. .))
+(S (NP (PRP We)) (VP (VBP characterize) (NP (NP (JJ minimal) (NNS keys) (CC and) (NNS antikeys)) (PP (IN of) (NP (NN closure) (NNS operations)))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ independent) (NNS sets)))))) (. .))
+(S (NP (PRP We)) (VP (VBP estimate) (NP (NP (DT the) (NN time) (NN complexity)) (PP (IN of) (NP (DT these) (NNS algorithms))))) (. .))

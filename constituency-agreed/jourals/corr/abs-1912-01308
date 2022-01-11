@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN criterion)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN analyzed)))) (CC and) (S (NP (DT an) (NN oracle) (NN inequality)) (VP (VBZ is) (VP (VBN derived) (S (VP (VBG using) (NP (DT a) (JJ Gaussian) (NN concentration) (NN inequality))))))) (. .))

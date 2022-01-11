@@ -1,0 +1,8 @@
+(S (NP (JJ ATM-UBR) (NNS switches)) (VP (NN respond) (PP (TO to) (NP (NN congestion))) (PP (IN by) (S (VP (VBG dropping) (NP (NNS cells)) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ their) (NNS buffers)) (VP (VBP become) (ADJP (JJ full))))))))) (. .))
+(S (NP (NP (NNP TCP) (NNS connections)) (VP (VBG running) (PP (IN over) (NP (NNP UBR))))) (VP (NN experience) (NP (NP (JJ low) (NN throughput)) (CC and) (NP (JJ high) (NN unfairness)))) (. .))
+(S (PP (IN For) (NP (ADJP (CD 100) (NN %)) (NNP TCP) (NN throughput))) (NP (DT each) (NN switch)) (VP (VBZ needs) (NP (NP (NNS buffers)) (ADJP (JJ equal) (PP (TO to) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (DT the) (NN window) (NNS sizes)) (PP (IN of) (NP (PDT all) (DT the) (NNP TCP) (NNS connections)))))))))) (. .))
+(S (NP (JJ Intelligent) (NN drop) (NNS policies)) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP TCP))) (PP (IN over) (NP (NP (NNP UBR)) (PP (IN with) (NP (JJ limited) (NNS buffers)))))))) (. .))
+(S (NP (DT The) (NNP UBR+) (NN service)) (VP (VBZ proposes) (NP (NP (NNS enhancements)) (PP (TO to) (NP (NNP UBR))) (PP (IN for) (NP (JJ intelligent) (NN drop))))) (. .))
+(S (NP (JJ Early) (NNP Packet) (NNP Discard)) (VP (VP (VBZ improves) (NP (RB throughput))) (CC but) (VP (VBZ does) (RB not) (VP (VB attempt) (S (VP (TO to) (VP (VB improve) (NP (NN fairness)))))))) (. .))
+(S (NP (NP (JJ Selective) (NN packet) (NN drop)) (VP (VBN based) (PP (IN on) (NP (NN per-connection) (NN buffer) (NN occupancy))))) (VP (VBZ improves) (NP (RB fairness))) (. .))
+(S (NP (DT The) (NNP Fair) (NNP Buffer) (NNP Allocation) (NN scheme)) (ADVP (RBR further)) (VP (VBZ improves) (NP (DT both) (NN throughput) (CC and) (NN fairness))) (. .))

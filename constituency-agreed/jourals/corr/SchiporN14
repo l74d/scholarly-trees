@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS recordings)) (VP (VP (VBP are) (VP (VBN obtained) (PP (IN from) (NP (NP (NNS children)) (PP (IN with) (NP (NN dyslalia))))))) (CC and) (VP (VBP are) (ADJP (JJ necessary) (PP (IN for) (NP (NP (DT an) (JJ accurate) (NN identification)) (PP (IN of) (NP (NN speech) (NNS problems)))))))) (. .))
+(S (S (NP (PRP We)) (VP (VBP develop) (NP (DT the) (NNP ADM) (NN algorithm)))) (CC and) (S (NP (PRP we)) (VP (VBP analyze) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT this) (NN solution)))))) (. .))

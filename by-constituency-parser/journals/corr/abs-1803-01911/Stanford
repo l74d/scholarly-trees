@@ -1,0 +1,4 @@
+(S (NP (DT This) (JJ doctoral) (NN thesis)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ mathematical) (NN study)) (PP (IN of) (NP (NN quantum) (NN computing)))) (, ,) (VP (VBG concentrating) (PP (IN on) (NP (CD two) (ADJP (JJ related) (, ,) (CC but) (JJ independent)) (NNS topics)))))) (. .))
+(SINV (ADVP (RB First) (RB up)) (VP (VBP are)) (NP (NP (NNS dilations)) (, ,) (VP (VBN covered) (PP (IN in) (NP (NN chapter) (CD 2))))) (. .))
+(S (PP (IN In) (NP (NP (NN chapter) (CD 3)) (`` ") (NP (NN diamond) (, ,) (NN andthen) (, ,) (NN dagger)) ('' "))) (NP (PRP we)) (VP (VBP turn) (PP (IN to) (NP (DT the) (JJ second) (NN topic))) (: :) (NP (NN effectus) (NN theory))) (. .))
+(S (NP (NP (DT Both) (NNS chapters)) (, ,) (CONJP (CC or) (RB rather)) (NP (NNS parts)) (, ,)) (VP (VP (MD can) (VP (VB be) (VP (VBN read) (ADVP (RB separately))))) (CC and) (VP (VBP feature) (NP (NP (DT a) (JJ comprehensive) (NN introduction)) (PP (IN of) (NP (PRP$ their) (JJ own)))))) (. .))

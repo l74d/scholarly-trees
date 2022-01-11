@@ -1,0 +1,3 @@
+(S (ADVP (RB Oftentimes)) (, ,) (S (NP (JJ such) (NNS equations)) (VP (VBP are) (VP (VBN posed) (PP (IN in) (NP (JJ high) (NNS dimensions)))))) (, ,) (CC and) (S (NP (DT this)) (VP (VBZ poses) (NP (JJ great) (JJ numerical) (NNS challenges)))) (. .))
+(S (PP (IN By) (S (VP (VBG using) (NP (DT the) (JJ sparse) (NN grid) (NNS techniques))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB treat) (NP (ADJP (RB moderately) (JJ high) (JJ dimensional)) (NNS cases)))) (. .))
+(S (NP (NNP Adaptivity)) (VP (VBZ is) (VP (VBN incorporated) (S (VP (TO to) (VP (VB capture) (NP (NP (NNS kinks)) (CC and) (NP (NP (JJ other) (JJ local) (NNS structures)) (PP (IN of) (NP (DT the) (NNS solutions)))))))))) (. .))

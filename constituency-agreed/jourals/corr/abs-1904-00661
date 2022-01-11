@@ -1,0 +1,3 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB understand) (NP (NP (DT the) (NN problem)) (SBAR (S (NP (PRP we)) (VP (VBP want) (S (VP (TO to) (VP (VB solve)))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP do) (NP (NP (DT a) (NN sensitivity) (NN analysis)) (PP (IN of) (NP (NNS priors))))) (. .))
+(S (NP (PRP We)) (VP (VBP hope) (SBAR (IN that) (S (PP (IN through) (NP (DT these) (NNS examples))) (, ,) (NP (DT the) (NN reader)) (VP (MD will) (VP (VB see) (NP (NP (DT the) (NNS advantages)) (PP (IN of) (S (VP (VBG using) (NP (NNP BDA))))))))))) (. .))

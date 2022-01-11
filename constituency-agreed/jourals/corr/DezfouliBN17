@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP evaluate) (NP (PRP$ our) (NN model)) (PP (IN on) (NP (CD three) (NNS applications))) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ outperforms) (NP (JJ previous) (NNS approaches)))))))) (. .))

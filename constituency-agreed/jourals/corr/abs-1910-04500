@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT a) (JJ naive) (NN use)) (PP (IN of) (NP (DT the) (JJ multi-head) (NN attention)))) (VP (VBZ does) (RB not) (VP (VB guarantee) (NP (JJ such) (NN richness)) (SBAR (IN as) (S (NP (DT the) (NN attention) (NNS heads)) (VP (MD may) (VP (VB have) (NP (ADJP (JJ positional) (CC and) (JJ representational)) (NN redundancy)))))))) (. .))

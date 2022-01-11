@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB combat) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBD created) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBD combined) (NP (NP (DT the) (NNP DBSCAN) (NN algorithm)) (CC and) (NP (DT a) (NN consensus) (NN matrix)))))))) (. .))

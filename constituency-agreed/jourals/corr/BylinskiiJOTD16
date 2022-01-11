@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN choice)) (PP (IN of) (NP (NN evaluation) (JJ metric)))) (VP (VBZ depends) (PP (IN on) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (NN saliency)) (VP (VBZ is) (VP (VBN defined))))) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN ground) (NN truth)) (VP (VBZ is) (VP (VBN represented)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (NP (CD 8) (JJ different) (NN evaluation) (NNS metrics)) (CC and) (NP (PRP$ their) (NNS properties)))))) (. .))

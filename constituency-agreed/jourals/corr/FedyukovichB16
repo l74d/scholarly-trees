@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN for) (NP (NP (DT some) (NNS classes)) (PP (IN of) (NP (DT the) (JJ sequential) (NN prefix) (NN sum) (NNS problems))))) (, ,) (NP (JJ such) (NN parallelization)) (VP (MD can) (VP (VB be) (VP (VBN performed) (ADVP (RB efficiently)))))))) (. .))

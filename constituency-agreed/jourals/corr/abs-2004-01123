@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN prediction)) (PP (IN of) (NP (NP (CC both) (DT the) (NN quality) (CC and) (NN performance)) (PP (IN of) (NP (DT the) (NN target) (NN algorithm))))))))) (. .))
+(S (NP (DT The) (NN prediction)) (VP (VBZ is) (ADVP (RB furtherly)) (VP (VBN used) (PP (IN as) (NP (NP (NNS objectives)) (PP (IN for) (NP (NP (DT the) (NN optimization) (CC and) (NN tuning)) (PP (IN of) (NP (DT the) (NN algorithm))))))))) (. .))

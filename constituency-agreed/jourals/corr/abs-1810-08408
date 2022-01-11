@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ typical) (NN analysis) (NN task)) (VP (VBZ is) (NP (NP (DT the) (NN finding)) (PP (IN of) (NP (NP (NNS motifs)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (JJ small) (NN subgraph) (NNS patterns)) (SBAR (WHNP (WDT that)) (S (VP (VBP repeat) (NP (PRP themselves)) (PP (IN in) (NP (DT the) (NN network)))))))))))))) (. .))

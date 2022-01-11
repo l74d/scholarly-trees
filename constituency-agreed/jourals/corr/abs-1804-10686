@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (NNP Watasense)) (, ,) (NP (NP (DT an) (JJ unsupervised) (NN system)) (PP (IN for) (NP (NN word) (NN sense) (NN disambiguation)))))) (. .))
+(S (NP (NNP Watasense)) (VP (VBZ has) (NP (NP (CD two) (NNS modes)) (PP (IN of) (NP (NN operation))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN approach)) (VP (VBD was) (VP (VBN trained) (PP (IN with) (NP (NP (JJ different) (NNS songs)) (PP (IN of) (NP (DT a) (JJ classical) (NN composer))))))) (. .))
+(S (NP (NP (DT An) (JJ additional) (NN feature)) (PP (IN of) (NP (DT this) (NN system)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT a) (JJ small) (NN dataset)) (VP (VBD was) (VP (VBN used) (PP (IN for) (NP (NN training)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN system)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB return) (NP (JJ accurate) (NNS representations) (CC and) (NNS predictions)) (PP (IN in) (NP (JJ unseen) (NNS data))))))))))) (. .))

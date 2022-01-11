@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT the) (NN time) (NN integrator))) (NP (PRP we)) (VP (VBP use) (NP (DT a) (JJ semi-implicit) (NNP IMEX) (NNP Runge) (NNP Kutta) (NN method))) (. .))

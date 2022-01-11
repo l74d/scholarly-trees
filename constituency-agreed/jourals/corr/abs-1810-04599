@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS operators)) (VP (VBP are) (VP (VBN implemented) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (DT a) (NN property) (NN graph) (NN backend))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (NP (PRP$ our) (NN query) (NNS methods)) (ADVP (RB extensively))) (CC and) (VP (VB show) (NP (NP (DT the) (NN effectiveness) (CC and) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS methods)))))) (. .))

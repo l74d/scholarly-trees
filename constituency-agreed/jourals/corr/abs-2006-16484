@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN framework)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NP (NN energy) (NN method) (NNS computations)) (CC and) (NP (JJ linear) (NN stability) (NN analysis))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN from) (NP (PRP$ our) (ADJP (RB analytically) (VBN derived)) (NNS bounds)))) (VP (VBP are) (ADJP (JJ consistent) (PP (IN with) (NP (NP (DT the) (NNS bounds)) (VP (VBN identified) (PP (IN through) (NP (JJ exhaustive) (NNS simulations)))))))) (. .))

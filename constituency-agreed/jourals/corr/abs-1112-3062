@@ -1,0 +1,3 @@
+(S (S (VP (VP (VBG Conducting) (NP (NNS experiments))) (CC and) (VP (VBG documenting) (NP (NNS results))))) (VP (VBZ is) (NP (NP (JJ daily) (NN business)) (PP (IN of) (NP (NNS scientists))))) (. .))
+(S (ADVP (RB Originally)) (, ,) (NP (DT these) (NNS notebooks)) (VP (VBD were) (ADJP (NN paper) (VBN based))) (. .))
+(S (S (NP (NN Provenance) (NN recording)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB meet) (NP (NP (NNS requirements)) (PP (IN of) (NP (NN traceability)))))))))) (, ,) (CC and) (S (NP (DT this) (NN information)) (VP (MD can) (ADVP (RB later)) (VP (VB be) (VP (VBN queried) (PP (IN for) (NP (JJ further) (NN analysis))))))) (. .))

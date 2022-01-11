@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (S (VP (VBG learning) (S (VP (TO to) (VP (VB solve) (NP (PDT such) (DT a) (JJ complex) (NN task)) (PP (IN on) (NP (NP (DT a) (NN dataset)) (PP (IN with) (NP (ADJP (RB very) (JJ limited)) (JJ annotated) (NNS samples)))))))))) (VP (VBZ is) (RB not) (ADJP (JJ reasonable))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (NP (NNS researchers)) (VP (VBP do) (RB not) (VP (VB prefer) (S (VP (TO to) (VP (VB use) (NP (DT the) (JJ deep) (NN learning) (NNS approaches)) (PP (IN for) (NP (DT this) (NN problem)))))))) (. .))

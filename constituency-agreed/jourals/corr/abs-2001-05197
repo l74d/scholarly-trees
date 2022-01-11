@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (VBG exploiting) (NP (NP (DT the) (NNS multi-shots)) (PP (IN of) (NP (DT the) (JJ same) (NN identity)))) (S (VP (TO to) (VP (VB guide) (NP (NP (DT the) (NN feature) (NN learning)) (PP (IN of) (NP (DT each) (JJ individual) (NN image)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (NP (NN decompilation)))) (VP (VBZ is) (ADJP (RB extremely) (JJ important) (PP (IN for) (NP (NN security) (NNS researchers))))) (. .))
+(S (NP (NP (DT The) (NN cost)) (PP (IN of) (S (VP (VBG supporting) (NP (NP (JJ additional) (NNS languages)) (CC or) (NP (JJ new) (NN language) (NNS features))) (PP (IN in) (NP (DT these) (NNS models))))))) (VP (VBZ is) (ADJP (RB very) (JJ high))) (. .))

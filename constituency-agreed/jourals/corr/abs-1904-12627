@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN used) (S (VP (TO to) (VP (VB pass) (NP (JJ unlabelled) (NNS signatures)) (SBAR (JJ such) (IN that) (S (NP (RB only) (DT the) (JJ genuine) (NNS ones)) (VP (MD will) (ADVP (RB successfully)) (VP (VB be) (VP (VBN reconstructed) (PP (IN by) (NP (DT the) (NNP VAE))))))))))))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (NP (NP (NNP VAE) (NN disentanglement)) (CC and) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (JJ posterior) (NN collapse))))) (VP (VBP are) (VP (VBN ascertained) (CC and) (VBN analysed))) (. .))

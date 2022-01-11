@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP implement) (NP (PRP$ our) (NN design)) (PP (IN on) (NP (NNP Hyperledger)))) (CC and) (VP (VB evaluate) (NP (PRP$ its) (NN performance)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN latency)) (, ,) (NP (NN network) (NN size)) (, ,) (CC and) (NP (NN payload) (NN size)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (RB even) (DT this) (ADJP (RB relatively) (JJ simple)) (NN requirement)) (VP (VBZ is) (PP (IN beyond) (NP (NP (DT the) (NN capacity)) (PP (IN of) (NP (NP (NN today) (POS 's)) (JJ average) (NNP RFID) (NN tag)))))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (NP (JJ practical) (NNS considerations)) (VP (VBP prevent) (NP (DT this) (NN approach)) (PP (IN from) (S (VP (VBG reaching) (NP (PRP$ its) (JJ full) (NN potential)))))) (. .))

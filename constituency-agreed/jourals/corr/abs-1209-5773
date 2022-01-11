@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (JJ false) (NNS assertions)) (VP (MD can) (ADVP (RB usually)) (VP (VB be) (VP (VBN disproved) (S (VP (VBG using) (NP (JJ small) (NNS counter-examples))))))))) (, ,) (NP (DT this) (NN approach)) (VP (VBZ suffices) (PP (IN for) (NP (JJS most) (NNS applications)))) (. .))

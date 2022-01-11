@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formalize) (NP (NP (DT the) (NNS notions)) (PP (IN of) (NP (NP (JJ fuzzy) (NN controllability) (NN condition)) (CC and) (NP (JJ fuzzy) (NN observability) (NN condition)))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT this) (NN result)) (VP (MD can) (VP (VB decide) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NNS supervisors)))))) (. .))

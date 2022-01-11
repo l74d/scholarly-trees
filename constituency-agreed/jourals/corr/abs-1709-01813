@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN tool)) (VP (VP (VBZ combines) (NP (DT the) (CD two) (NNS methods))) (, ,) (VP (VBZ allows) (NP (DT a) (JJ semi-automatic) (JJ final) (NN delineation))) (CC and) (VP (VBZ is) (VP (VBN implemented) (PP (IN as) (NP (DT a) (ADJP (RB publicly) (JJ available)) (NNP QGIS) (NN plugin)))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN Despite) (S (VP (VBG reducing) (NP (NN perplexity))))) (, ,) (NP (DT the) (JJ semi-supervised) (NN language) (NN model)) (VP (VBD was) (RB not) (ADJP (JJ able) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NNP ASR) (NN performance))))))) (. .))

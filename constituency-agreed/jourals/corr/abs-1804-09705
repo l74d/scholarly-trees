@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ positive) (NN case))) (NP (PRP$ our) (NN procedure)) (VP (VBZ yields) (NP (DT a) (JJ parametric) (JJ positive) (NN solution)) (PP (IN as) (NP (NP (DT a) (JJ rational) (NN function)) (PP (IN in) (NP (DT the) (NNS coefficients)))))) (. .))
+(S (NP (PRP We)) (VP (VBP apply) (NP (PRP$ our) (NNS results)) (S (VP (TO to) (VP (VB characterize) (NP (NP (DT the) (NN incompleteness)) (PP (IN of) (NP (DT those) (NNS methods)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN initialized) (PP (IN by) (NP (NP (DT the) (NNP GP) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (PP (IN from) (NP (PDT all) (DT the) (NNS scenes))) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (JJ generalizable) (NN translation) (NN knowledge)))))))))))) (. .))

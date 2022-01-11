@@ -1,0 +1,2 @@
+(S (NP (JJ Non-causal) (NN side) (NN information)) (VP (VBZ means) (SBAR (IN that) (S (NP (NNS codewords)) (VP (VBP are) (VP (VBN known) (PP (IN at) (NP (DT an) (JJ active) (NN adversary))) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP are) (VP (VBN transmitted)))))))))) (. .))
+(S (NP (NP (DT A) (JJ single) (NN letter) (NN formula)) (PP (IN for) (NP (DT the) (JJ common) (NN randomness) (NN secrecy) (NN capacity)))) (VP (VBZ is) (VP (VBN derived))) (. .))

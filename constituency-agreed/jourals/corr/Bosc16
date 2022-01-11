@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS parameters)) (VP (VBP are) (VP (VBN stored) (PP (IN in) (NP (NP (DT the) (NN cell) (NN state)) (PP (IN of) (NP (DT the) (NNP LSTM))))))) (. .))

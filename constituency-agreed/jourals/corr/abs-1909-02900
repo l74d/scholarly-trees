@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB characterize) (CC and) (VB estimate) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NNS networks)))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (JJ little) (NN research)) (PP (IN with) (NP (JJ statistical) (NNS guarantees)))))) (. .))

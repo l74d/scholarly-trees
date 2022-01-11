@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Adversarial) (NNS subspaces)) (PP (IN with) (NP (JJR higher) (NN dimensionality)))) (VP (VBP are) (ADJP (RBR more) (JJ likely) (S (VP (TO to) (VP (VB intersect)))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (PP (IN for) (NP (CD two) (JJ different) (NNS models))) (, ,) (NP (NP (DT a) (JJ significant) (NN fraction)) (PP (IN of) (NP (PRP$ their) (NNS subspaces)))) (VP (VBZ is) (VP (VBN shared) (, ,) (S (ADVP (RB thus)) (VP (VBG enabling) (NP (NN transferability))))))))) (. .))

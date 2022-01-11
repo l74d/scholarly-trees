@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB model) (NP (JJ reactive) (NNS systems))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (JJ monotonic) (NN property) (NNS transformers)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP transform) (NP (NP (NNS sets)) (PP (IN of) (NP (NN output) (NNS traces)))) (PP (IN into) (NP (NP (NNS sets)) (PP (IN of) (NP (NN input) (NNS traces)))))))))) (. .))

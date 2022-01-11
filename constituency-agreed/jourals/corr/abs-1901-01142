@@ -1,0 +1,1 @@
+(S (NP (NNP Fuzzing)) (VP (VBZ is) (NP (NP (DT a) (NN technique)) (PP (IN of) (S (VP (VBG finding) (NP (NNS bugs)) (PP (IN by) (S (VP (VBG executing) (NP (DT a) (NN software)) (ADVP (RB recurrently)) (PP (IN with) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (JJ abnormal) (NNS inputs))))))))))))) (. .))

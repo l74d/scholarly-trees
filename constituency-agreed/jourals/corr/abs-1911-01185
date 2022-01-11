@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ general) (NN allocator)) (VP (VBZ is) (NP (NP (DT an) (NN abstraction)) (PP (IN of) (NP (NP (DT all) (JJ complete) (NNS labelings)) (PP (IN for) (NP (DT an) (NN argumentation) (NN framework))))))) (. .))
+(S (NP (PRP We)) (VP (VBD proved) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT the) (JJ general) (NNS allocators)))) (PP (IN in) (NP (PRP$ our) (JJ previous) (NN work)))) (. .))
+(S (NP (NP (DT The) (NN method)) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB compute) (NP (JJ general) (NNS allocators)) (PP (IN without) (S (VP (VBG enumerating) (NP (JJ complete) (NNS labelings))))))))) (. .))

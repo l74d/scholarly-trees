@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ gives) (NP (NP (DT a) (JJ new) (NN characterization)) (PP (IN of) (NP (DT the) (NN phase) (NN retrieval) (NN problem))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT the) (NN characterization) (NN theorem)) (S (VP (TO to) (VP (VB develop) (NP (DT an) (JJ efficient) (NN denoising) (NN algorithm)))))) (. .))

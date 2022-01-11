@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB cover) (NP (DT all) (JJ possible) (JJ good) (NNS architectures))))) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB search) (PP (IN in) (NP (NP (DT an) (ADJP (RB extremely) (JJ large)) (NN search) (NN space)) (PP (IN with) (NP (NP (NNS billions)) (PP (IN of) (NP (NN candidate) (NNS architectures))))))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (VBG existing) (NNS methods)) (VP (MD may) (ADVP (RB often)) (VP (VB produce) (NP (JJ suboptimal) (NNS architectures)))) (. .))

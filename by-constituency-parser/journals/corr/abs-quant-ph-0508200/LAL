@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN for) (S (VP (VBG proving) (NP (NP (JJR lower) (NNS bounds)) (PP (IN on) (NP (NN quantum) (NN query) (NN algorithms))))))))) (. .))
+(S (NP (DT The) (JJ new) (NN method)) (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (JJ adversary) (NN method)))) (, ,) (PP (IN by) (S (VP (VBG analyzing) (NP (NP (DT the) (NN eigenspace) (NN structure)) (PP (IN of) (NP (DT the) (NN problem)))))))) (. .))
+(S (S (VP (VBG Using) (NP (DT the) (JJ new) (NN method)))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT a) (JJ strong) (JJ direct) (NN product) (NN theorem)) (PP (IN for) (NP (JJ quantum) (NN search))))) (. .))
+(S (NP (DT This) (NN result)) (VP (VBD was) (ADVP (RB previously)) (VP (VBN proven) (PP (IN by) (NP (NP (NNP Klauck) (, ,) (NNP Spalek) (CC and) (FW de) (NNP Wolf)) (PRN (-LRB- -LRB-) (NP (NN quant-ph/0402123)) (-RRB- -RRB-)))) (S (VP (VBG using) (NP (NNS polynomials) (NN method)))))) (. .))
+(S (NP (NP (DT No) (NN proof)) (VP (VBG using) (NP (JJ adversary) (NN method)))) (VP (VBD was) (VP (VBN known) (ADVP (RB before)))) (. .))

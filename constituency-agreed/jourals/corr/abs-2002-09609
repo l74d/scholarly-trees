@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP revisit) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ private) (JJ stochastic) (NN convex) (NN optimization))))) (. .))
+(S (PP (IN Unlike) (NP (JJ prior) (NN work))) (, ,) (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB require) (NP (NP (NNP Lipschitz) (NN continuity)) (PP (IN of) (NP (JJ stochastic) (NNS gradients)))) (S (VP (TO to) (VP (VB achieve) (NP (JJ optimal) (NNS rates))))))) (. .))

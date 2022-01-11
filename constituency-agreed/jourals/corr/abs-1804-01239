@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN fog) (VBG computing) (NN coordinator)) (ADVP (RB also)) (VP (VBZ manages) (NP (NNS jobs)) (SBAR (IN so) (IN that) (S (NP (DT all) (VBG computing) (NNS nodes)) (VP (MD can) (VP (VB collaborate) (PP (IN on) (NP (JJ complex) (NNS tasks)))))))) (. .))

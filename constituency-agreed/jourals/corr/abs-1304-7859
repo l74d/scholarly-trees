@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (JJ emergent) (NN property)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN verified) (ADVP (RB monolithically))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NN checker)) (VP (VBZ is) (ADJP (JJ correct)))))) (. .))

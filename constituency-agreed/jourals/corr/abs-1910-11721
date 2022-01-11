@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Mixtures)) (PP (IN of) (NP (VBG ranking) (NNS models)))) (VP (VBP have) (VP (VBN been) (ADVP (RB widely)) (VP (VBN used) (PP (IN for) (NP (JJ heterogeneous) (NNS preferences)))))) (. .))
+(S (PP (IN In) (NP (JJ such) (NNS cases))) (, ,) (NP (NP (DT the) (NN parameter)) (PP (IN of) (NP (DT the) (NN model)))) (VP (MD may) (RB not) (VP (VB be) (ADJP (RB even) (JJ identifiable)))) (. .))

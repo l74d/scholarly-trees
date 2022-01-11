@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ unordered) (NN case))) (, ,) (NP (PRP we)) (VP (VBD had) (VP (VBN identified) (NP (DT the) (NNP Wasserstein) (NN space)) (PP (IN as) (NP (NP (DT the) (NN colimit)) (PP (IN of) (NP (NP (DT the) (NNS spaces)) (PP (IN of) (NP (NP (JJ empirical) (NNS distributions)) (PP (IN of) (NP (JJ finite) (NNS sequences))))))))))) (. .))

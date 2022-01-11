@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN protocol)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB control) (NP (DT the) (JJ possible) (NN energy) (NN outage)) (PP (IN during) (NP (NN consumption) (NN phase))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN protocol)) (ADVP (RB also)) (VP (VBZ allows) (PP (IN for) (NP (JJ limited) (NN battery) (NN energy) (NN state) (NN information)))) (. .))

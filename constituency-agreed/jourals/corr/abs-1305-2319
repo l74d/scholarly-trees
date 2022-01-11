@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP review) (NP (NP (PRP$ our) (NN architecture) (NN design)) (, ,) (NP (DT the) (JJ current) (NN deployment)) (CC and) (NP (NNS prototypes)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP reflect) (PP (IN on) (NP (NP (NNS lessons)) (VP (VBN learned))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Different) (NNS approaches)) (VP (VBP vary) (PP (IN in) (NP (NP (NN expressiveness)) (, ,) (NP (NP (NN ease)) (PP (IN of) (NP (NN use)))) (, ,) (CC and) (NP (NN implementation) (NNS techniques))))) (. .))
+(S (NP (DT Some) (NN work)) (VP (VBZ has) (VP (VBN been) (VP (VBN done) (PP (IN in) (S (VP (VBG comparing) (NP (DT the) (JJ different) (NNS approaches)) (ADVP (RB informally)))))))) (. .))

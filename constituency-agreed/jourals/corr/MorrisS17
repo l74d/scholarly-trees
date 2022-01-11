@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (NNP MPI)) (VP (VBZ provides) (NP (NN performance) (CC and) (NN portability))))) (, ,) (NP (PRP it)) (VP (VBZ lacks) (PP (IN in) (NP (NP (NN productivity)) (CC and) (NP (NN fault) (NN tolerance))))) (. .))
+(S (NP (NP (JJ Additional) (NNS concepts)) (PP (IN of) (NP (NN fault) (NN tolerance) (CC and) (NN productivity)))) (VP (VBP are) (VP (VBN considered))) (. .))

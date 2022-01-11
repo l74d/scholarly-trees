@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (DT an) (NN optimization) (NN problem)) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (NN payload) (NN allocation) (NNS weights)) (SBAR (WHNP (WDT that)) (S (VP (VBP maximize) (NP (DT the) (NN reliability)) (PP (IN at) (NP (JJ specific) (NN target) (NN latency) (NNS values))))))))))) (. .))
+(S (NP (DT The) (NN model)) (VP (VP (VBZ has) (VP (VBN been) (VP (VBN validated) (PP (IN through) (NP (NN simulation)))))) (CC and) (VP (VBZ is) (VP (VBN supported) (PP (IN by) (NP (JJ experimental) (NNS results)))))) (. .))

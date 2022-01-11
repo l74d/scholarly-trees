@@ -1,0 +1,2 @@
+(S (NP (NP (NN Uncertainty)) (PP (IN in) (NP (NP (NNS workloads)) (, ,) (NP (NNS predictions)) (, ,) (CC and) (NP (NN counter) (NNS values))))) (VP (VBP are) (VP (VBN characterized) (PP (IN with) (NP (JJ Gaussian) (NNS distributions))))) (. .))
+(S (NP (NP (JJ Initial) (NNS results)) (PP (IN in) (S (VP (VBG diagnosing) (NP (NNS bottlenecks)))))) (VP (VBP are) (VP (VBN presented))) (. .))

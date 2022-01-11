@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN remedy)) (PP (IN for) (NP (DT this)))) (VP (VBZ is) (NP (NP (JJ synthetic) (NNS data)) (PP (IN with) (NP (JJ perfect) (NN ground) (NN truth))))) (. .))
+(S (NP (PRP We)) (VP (VBP observe) (SBAR (IN that) (S (NP (RB not) (DT all) (JJ synthetic) (NNS samples)) (VP (VBP are) (ADJP (RB equally) (JJ informative) (PP (IN for) (NP (NN training)))) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ informative) (NNS samples)) (VP (VBP are) (ADJP (JJ different) (PP (IN for) (NP (DT each) (NN training) (NN stage))))))))))) (. .))

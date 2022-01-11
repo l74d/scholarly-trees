@@ -1,0 +1,2 @@
+(S (ADVP (RB Importantly)) (, ,) (NP (DT these) (NNS improvements)) (VP (VBP are) (VP (VBN obtained) (PP (IN without) (S (VP (VBG increasing) (NP (DT the) (NN model) (NN complexity))))))) (. .))
+(S (NP (PRP$ Our) (VBN proposed) (NN approach)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB train) (NP (ADJP (RB extremely) (JJ deep)) (NNS networks))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NN baseline)) (VP (VBZ shows) (NP (JJ severe) (NN optimization) (NNS issues)))))) (. .))

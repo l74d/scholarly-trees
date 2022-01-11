@@ -1,0 +1,2 @@
+(S (S (VP (VBG Understanding) (NP (NP (DT the) (NN connectivity)) (PP (IN in) (NP (DT the) (NN brain)))))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN prerequisite)) (PP (IN for) (S (VP (VBG understanding) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN brain)) (VP (VBZ processes) (NP (NN information)))))))))) (. .))
+(S (NP (NP (DT The) (NN processing)) (PP (IN of) (NP (DT the) (NNS images)))) (VP (VBZ requires) (NP (NP (DT the) (NN detection) (CC and) (NN segmentation)) (PP (IN of) (NP (DT the) (JJ axonal) (NN tracer) (NN signal))))) (. .))

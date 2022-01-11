@@ -1,0 +1,2 @@
+(S (NP (NNP MPI)) (VP (VBZ uses) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NNS communicators)))) (S (VP (TO to) (VP (VB connect) (NP (NP (NNS groups)) (PP (IN of) (NP (NNS processes)))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT a) (JJ new) (NN communicator)) (VP (VBZ synchronizes) (NP (DT all) (NNS processes)) (SBAR (IN as) (S (NP (NN communicator) (NN creation) (NNS routines)) (VP (VBP are) (VP (VBG blocking) (NP (JJ collective) (NNS operations))))))) (. .))

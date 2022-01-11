@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT the) (JJ second) (NN subtask))) (, ,) (NP (PRP we)) (VP (VBP incorporate) (NP (JJ contextual) (NNS features)) (PP (IN in) (NP (NP (DT a) (JJ pre-trained) (NNP RoBERTa) (NN model)) (PP (IN for) (NP (NP (DT the) (NN classification)) (PP (IN of) (NP (NN propaganda) (NNS techniques)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT the) (NNS requirements)) (PP (IN for) (NP (DT the) (NN measurement) (NN system)))) (VP (VBD were) (VP (VBN established))) (. .))
+(S (ADVP (RB Then)) (NP (DT the) (NN system)) (VP (VBD was) (VP (VP (VBN built) (PRT (RP up))) (CC and) (VP (VBN characterized)))) (. .))

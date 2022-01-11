@@ -1,0 +1,2 @@
+(S (NP (NNS Cyber-attacks)) (VP (VBP have) (VP (VBN increased) (PP (PP (IN in) (NP (NNS numbers))) (CONJP (RB as) (RB well) (IN as)) (PP (IN in) (NP (NP (DT the) (NN extent)) (PP (IN of) (NP (NP (NN damage)) (VP (VBN caused) (PP (IN in) (NP (DT every) (NN attack))))))))))) (. .))
+(S (NP (NP (DT The) (NN inspection)) (PP (IN of) (NP (NNS cyber-alerts)))) (VP (VBZ is) (NP (NP (DT a) (JJ critical) (NN part)) (PP (IN of) (NP (NNP CSOC) (NNS operations))))) (. .))

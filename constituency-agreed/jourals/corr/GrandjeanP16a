@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (CD two) (NNS classes)) (VP (VBP are) (ADJP (JJ equal))))) (ADVP (RB then)) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ simulated) (NNS instances)))) (VP (MD can) (VP (VB be) (ADJP (JJ polynomial)))) (. .))

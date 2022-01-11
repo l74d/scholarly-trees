@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (DT these) (NNS kernels)) (VP (VBP are) (RB not) (NP (ADJP (RB fully) (JJ functional)) (NNP CFD) (NNS solvers))))) (, ,) (NP (PRP they)) (VP (VBP are) (VP (VBN equipped) (PP (IN with) (NP (DT a) (JJ solid) (NN verification) (NN method))))) (. .))
+(S (NP (DT The) (NNS kernels)) (VP (MD may) (VP (VB act) (PP (PP (IN as) (NP (NP (DT an) (NN reference)) (PP (IN for) (NP (NN performance) (NNS comparisons))))) (CC and) (PP (IN as) (NP (NP (DT a) (JJ blue) (NN print)) (PP (IN for) (NP (NN optimization) (NNS strategies)))))))) (. .))

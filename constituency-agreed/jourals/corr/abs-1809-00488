@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN computation) (NN time)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach)))) (VP (VBZ is) (ADJP (JJ independent) (PP (IN from) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT the) (NN training) (NN set)) (VP (VBN used) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NN shape) (JJ prior) (NN distribution)) (ADVP (RB nonparametrically)))))))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN potential)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

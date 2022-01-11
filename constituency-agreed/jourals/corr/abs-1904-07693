@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP are) (VP (VBG dealing) (PP (IN with) (NP (DT the) (JJ frequent) (NN itemset) (NN mining))))) (. .))
+(S (NP (DT This) (JJ combinatorial) (NN optimization) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (NP (DT any) (NN optimization) (NN algorithm)))))) (. .))
+(S (NP (DT The) (NN disadvantage)) (VP (VBZ is) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NN guaranty)) (PP (IN for) (NP (NP (NN accuracy)) (PP (IN of) (NP (DT the) (NN result)))))))))) (. .))
+(S (NP (DT The) (NN evaluation)) (VP (VBZ indicates) (NP (JJ good) (NNS results))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (PP (IN in) (NP (DT the) (NN evaluation) (NN phase))) (NP (PRP we)) (VP (VBP analyze) (NP (NP (JJ various) (NNP IoT) (NNS devices) (NNS data)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN infected) (PP (IN by) (NP (NNP Mirai) (NN attack))))))))) (. .))

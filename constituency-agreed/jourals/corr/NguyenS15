@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ consists) (PP (IN of) (NP (CD four) (JJ basic) (NNS steps)))) (. .))
+(S (PP (IN From) (NP (NP (DT the) (NN objectness) (NN map)) (CC and) (NP (DT the) (NN foreground) (NN map)))) (, ,) (NP (DT the) (NN compactness) (NN map)) (VP (VBZ is) (VP (VBN formed) (S (VP (TO to) (VP (VB favor) (NP (DT the) (JJ compact) (NNS objects))))))) (. .))

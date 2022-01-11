@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NN practice))) (, ,) (NP (DT the) (NN target) (NN domain)) (VP (VBZ is) (ADVP (RB often)) (ADJP (JJ unlabeled)) (, ,) (S (VP (VBG requiring) (NP (JJ unsupervised) (NN adaptation))))) (. .))

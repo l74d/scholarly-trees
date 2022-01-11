@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (SBAR (IN that) (S (NP (DT this) (NN search) (NN space)) (VP (VBZ is) (VP (VBN connected))))) (CC and) (SBAR (IN that) (S (NP (NP (DT the) (NN score)) (PP (IN of) (NP (DT the) (NNS neighbours)))) (VP (MD can) (VP (VB be) (VP (VBN evaluated) (ADVP (RB incrementally))))))))) (. .))

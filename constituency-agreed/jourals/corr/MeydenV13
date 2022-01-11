@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN program) (NN synthesis))) (, ,) (NP (PRP we)) (VP (VBP transform) (NP (DT a) (NN specification)) (PP (IN into) (NP (NP (DT a) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB satisfy) (NP (DT the) (NN specification)))))))))))) (. .))
+(S (ADVP (RB Often)) (, ,) (NP (DT the) (NN program)) (VP (MD can) (RB not) (VP (VB observe) (NP (NP (DT all) (NNS attributes)) (PP (IN of) (NP (PRP$ its) (NN environment)))))) (. .))

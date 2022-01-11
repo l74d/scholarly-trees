@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ other) (NN curvature) (NN incoherence)) (VP (VP (VBZ measures) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (NN condition) (NNS numbers)) (PP (IN of) (NP (DT the) (NN sample) (NNS losses))))))) (CC and) (VP (VBZ determines) (NP (NP (DT the) (NN convergence) (NN rate)) (PP (IN of) (NP (NNP SGD)))))) (. .))

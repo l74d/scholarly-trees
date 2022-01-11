@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP explore) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN base) (NN kernel)) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN classification) (NN problem))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP build) (PP (IN on) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (NP (JJ valid) (NN assignment) (NNS kernels)) (VP (VBN derived) (PP (IN from) (NP (NP (NNS hierarchies)) (VP (VBN defined) (PP (IN on) (NP (DT the) (NNS parts)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ first) (JJ experimental) (NNS results)) (SBAR (WHNP (WDT which)) (S (VP (VBP demonstrate) (NP (NP (DT the) (NN feasibility) (CC and) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN approach))))))))) (. .))

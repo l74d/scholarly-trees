@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ great) (NN video) (NN title)) (VP (VP (VBZ describes) (NP (DT the) (ADJP (RBS most) (JJ salient)) (NN event)) (ADVP (RB compactly))) (CC and) (VP (VBZ captures) (NP (NP (DT the) (NN viewer) (POS 's)) (NN attention)))) (. .))
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NNS sentences)))) (VP (MD might) (VP (VB be) (VP (VBN required) (S (VP (TO to) (VP (VB learn) (NP (NP (DT the) (NN sentence) (NN structure)) (PP (IN of) (NP (NNS titles))))))))))))) (. .))

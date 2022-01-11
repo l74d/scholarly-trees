@@ -1,0 +1,2 @@
+(S (S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NN nonuniformity)) (VP (MD can) (VP (VB break) (NP (DT the) (NNP Poisson) (NN distribution) (NN property)))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ strengthens) (NP (NP (DT the) (NN link)) (PP (IN between) (NP (NN isolation) (CC and) (NN connectivity)))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ stretches) (PRT (RP out)) (NP (DT the) (NN connectivity) (NN transition))) (. .))

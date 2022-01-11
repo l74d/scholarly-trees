@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN measured) (PP (IN against) (NP (JJ human) (NNS users))) (PP (IN for) (NP (NP (CD 50) (NNS videos)) (PP (IN in) (NP (DT the) (NNP VSUMM) (NN dataset))))))) (. .))

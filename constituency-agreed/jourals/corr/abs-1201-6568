@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ structural) (NN correlation) (NN pattern)) (VP (VBZ is) (NP (NP (DT a) (JJ dense) (NN subgraph)) (VP (VBN induced) (PP (IN by) (NP (DT a) (JJ particular) (NN attribute) (NN set)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP evaluate) (NP (NP (DT the) (NN interestingness)) (PP (IN of) (NP (JJ structural) (NN correlation) (NNS patterns)))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN size) (CC and) (NN density)))))) (. .))

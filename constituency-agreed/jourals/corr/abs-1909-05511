@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN implementation)) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB simplify) (CC and) (VB display) (NP (JJ large) (NN line) (NNS datasets)) (ADVP (RB interactively))))))) (. .))

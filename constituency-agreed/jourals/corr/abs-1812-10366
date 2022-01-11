@@ -1,0 +1,2 @@
+(S (NP (NN Fluorescence) (NN microscopy)) (VP (VBZ has) (VP (VBN enabled) (NP (NP (DT a) (JJ dramatic) (NN development)) (PP (IN in) (NP (JJ modern) (NN biology)))))) (. .))
+(S (SBAR (IN While) (S (NP (JJ such) (NNS algorithms)) (VP (VBP exist)))) (, ,) (NP (DT no) (JJ such) (NNS datasets)) (VP (VBP are) (ADJP (JJ available))) (. .))

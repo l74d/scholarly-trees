@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN framework)) (VP (VBZ aims) (S (VP (TO to) (VP (VB create) (NP (NP (DT an) (JJ abstract) (NN model)) (PP (IN for) (NP (ADJP (VBN distributed) (, ,) (JJ heterogeneous) (, ,) (CC and) (JJ non-linear)) (NNS systems)))))))) (. .))
+(S (S (VP (VBG Managing) (NP (NP (DT the) (NN variability)) (PP (IN in) (NP (JJ such) (NNS environments)))))) (VP (VBZ plays) (NP (DT a) (JJ key) (NN role)) (PP (IN in) (S (VP (VBG handling) (NP (NP (JJ complex) (NN automation) (NNS tasks)) (PP (JJ such) (IN as) (PP (IN in) (NP (JJ smart) (NN production) (NNS systems))))))))) (. .))

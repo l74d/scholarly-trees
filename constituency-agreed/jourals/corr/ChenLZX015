@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN optimization) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB maximize) (NP (DT the) (JJ average) (NN system) (NN reward))) (CC and) (VP (VB keep) (NP (NP (DT the) (NN rejection) (NN probability)) (PP (IN of) (NP (NN service) (NNS requests)))) (PP (IN under) (NP (DT a) (JJ certain) (NN threshold)))))))) (. .))

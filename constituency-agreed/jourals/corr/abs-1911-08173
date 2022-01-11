@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Robotic) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB move) (ADVP (RB continuously)) (PP (IN along) (NP (DT the) (NN line)))))))) (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB gather) (NP (ADJP (JJ continuous) (CC and) (JJ uninterrupted)) (NN information)))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (JJ potential) (NNS problems)) (VP (MD can) (VP (VB be) (VP (VBN detected) (CC and) (VBN identified) (PP (IN in) (NP (NN advance)))))) (. .))

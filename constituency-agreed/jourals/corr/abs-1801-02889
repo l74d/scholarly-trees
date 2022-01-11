@@ -1,0 +1,1 @@
+(S (S (NP (DT A) (JJ greedy) (NN replication) (NN scheme)) (VP (VBZ is) (VP (VBN proposed)))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (NN scheme)) (VP (VBZ provides) (NP (DT a) (JJ constant) (NN factor) (NN approximation) (NN guarantee)))))))) (. .))

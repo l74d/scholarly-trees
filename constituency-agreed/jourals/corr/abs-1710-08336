@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN survey))) (, ,) (NP (NP (DT an) (JJ comprehensive) (NN overview)) (PP (IN of) (NP (NP (NN hardware) (NNS implementations)) (PP (IN of) (NP (NNP ECC)))))) (VP (VBZ is) (VP (VBN provided))) (. .))
+(S (ADVP (RB Then)) (NP (NP (NNS methods) (, ,) (NNS steps) (CC and) (NNS considerations)) (PP (IN of) (NP (NNP ECC) (NN implementation)))) (VP (VBP are) (VP (VBN presented))) (. .))

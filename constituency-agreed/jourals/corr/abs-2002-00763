@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (DT the) (NN model)) (VP (VBN built) (PP (IN on) (NP (DT the) (VBN proposed) (NN framework))))) (VP (MD can) (VP (VB recognize) (NP (JJ fake) (NN news)) (ADVP (RB effectively)) (PP (IN with) (NP (ADJP (RB very) (JJ few)) (VBN labeled) (NNS data)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (VBG existing) (NNS methods)) (VP (MD can) (RB not) (VP (VB handle) (NP (NP (NNS networks)) (VP (VBN distributed) (PP (IN on) (NP (NP (NNS surfaces)) (PP (IN of) (NP (JJ complex) (NN topology))))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Hodge) (NN decomposition) (NN theorem))))) (CC and) (VP (VBZ uses) (NP (JJ holomorphic) (NNS differentials)) (PP (IN on) (NP (NNP Riemann) (NNS surfaces))))) (. .))

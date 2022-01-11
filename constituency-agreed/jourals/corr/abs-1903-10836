@@ -1,0 +1,2 @@
+(S (S (NP (DT This)) (VP (VBZ thwarts) (NP (DT any) (JJ possible) (NN face) (NN recognition)))) (, ,) (CC but) (S (SBAR (IN because) (S (NP (DT all) (JJ facial) (NNS details)) (VP (VBP are) (VP (VBN obscured))))) (, ,) (NP (DT the) (NN result)) (VP (VBZ is) (PP (IN of) (NP (JJ limited) (NN use))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (DT a) (JJ Gaussian) (NN Process)) (S (VP (TO to) (VP (VB refine) (NP (DT the) (JJ raw) (NNS trajectories)))))) (. .))

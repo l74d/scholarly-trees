@@ -1,0 +1,2 @@
+(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP find) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS indexes)) (SBAR (WHNP (WDT that)) (S (VP (VBP influence) (NP (DT the) (NN weighting) (NNS coefficients))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VP (VBZ is) (VP (VBN validated))) (CC and) (VP (VBZ shows) (NP (DT the) (JJ practical) (NN viability)))) (. .))

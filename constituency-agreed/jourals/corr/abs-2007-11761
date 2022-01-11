@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NN algorithm)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN applied) (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (JJ variational) (NN inequality) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ appears) (PP (IN in) (NP (JJ optimal) (NN control) (NNS problems)))))))))))) (. .))

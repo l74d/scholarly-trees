@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ neural) (NN network)) (VP (VBN applied))) (VP (VBZ is) (NP (NP (DT the) (JJ multi-layer) (NN perceptron)) (PP (IN with) (NP (NP (NN backpropagation) (NN algorithm)) (PP (IN for) (NP (NN learning))))))) (. .))

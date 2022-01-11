@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN network)) (VP (MD can) (ADVP (RB then)) (VP (VB use) (NP (JJ unsupervised) (NN reconstruction) (NN error)) (PP (IN as) (NP (DT an) (JJ additional) (NN signal))) (S (VP (TO to) (VP (VB improve) (NP (PRP$ its) (JJ intermediate) (NNS representations))))))) (. .))

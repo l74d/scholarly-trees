@@ -1,0 +1,2 @@
+(S (NP (CD One) (JJ particular) (NN challenge)) (VP (VBZ is) (S (VP (TO to) (VP (VB tackle) (NP (DT these) (NNS problems)) (PP (IN with) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (DT a) (JJ generic) (NN tutoring) (NN system))))))))) (. .))
+(S (S (NP (CD Two) (NNS experiments)) (VP (VBD were) (VP (VBN conducted)))) (, ,) (CC and) (S (NP (DT the) (NNS results)) (VP (VBP are) (VP (VBN presented) (PP (IN in) (NP (DT this) (NN paper)))))) (. .))

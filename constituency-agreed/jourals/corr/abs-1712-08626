@@ -1,0 +1,2 @@
+(S (ADVP (RB Often)) (NP (DT the) (NNS discoveries)) (VP (VBP are) (VP (VBN made) (PP (IN under) (NP (NP (NN uncertainty)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN as) (NP (NNS probabilities)))))))))))) (. .))
+(S (NP (DT The) (NNS results)) (ADVP (RB also)) (VP (VBP support) (SBAR (IN that) (S (NP (DT the) (NN approach)) (ADVP (RB often)) (VP (VBZ improves) (NP (NP (DT the) (NN precision) (CC and) (NN recall)) (PP (IN of) (NP (NNS predictions)))))))) (. .))

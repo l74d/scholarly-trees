@@ -1,0 +1,2 @@
+(S (CC And) (NP (DT that) (JJ initial) (NN image) (NN segmentation)) (VP (VBZ is) (ADVP (RB certainly)) (NP (DT an) (JJ unsupervised) (NN process))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT some) (JJ illustrative) (NNS examples)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP support) (NP (PRP$ our) (NNS claims))))))) (. .))

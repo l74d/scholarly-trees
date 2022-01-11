@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (JJ large) (NN scale) (NNS problems))) (, ,) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (DT these) (NNS eigenvectors)))) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN performed) (PP (IN via) (NP (NP (JJ iterative) (NNS schemes)) (PP (JJ such) (IN as) (NP (NP (NN subspace) (NN iteration)) (CC or) (NP (NNP Krylov) (NNS methods)))))))) (. .))

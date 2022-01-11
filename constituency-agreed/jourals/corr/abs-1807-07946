@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP extend) (NP (PRP$ our) (NN model)) (S (VP (TO to) (VP (VB use) (NP (JJ bidirectional) (NNP ConvLSTM)) (S (VP (TO to) (VP (VB capture) (NP (JJ temporal) (NN information)) (PP (IN in) (NP (DT both) (NNS directions)))))))))) (. .))

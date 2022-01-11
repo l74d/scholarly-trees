@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG searching) (PP (IN for) (NP (NP (JJ precise) (NNS facts)) (VP (VBN described) (PP (IN in) (NP (NNS stories)))))))) (VP (VBZ is) (ADJP (JJ hard))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ general) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ leverages) (NP (DT the) (NNP Wikidata) (NN knowledge) (NN base)) (S (VP (TO to) (VP (VB produce) (NP (NP (JJ semantic) (NNS annotations)) (PP (IN of) (NP (NN news) (NNS articles)))))))))))) (. .))

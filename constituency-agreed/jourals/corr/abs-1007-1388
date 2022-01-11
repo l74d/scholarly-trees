@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (PRP$ our) (NNP GPU) (NN implementation))) (, ,) (NP (PRP we)) (VP (VBP achieve) (NP (ADJP (RB nearly) (JJ perfect)) (JJ weak) (NN scalability)) (PP (IN on) (NP (NNP InfiniBand) (NNS clusters)))) (. .))

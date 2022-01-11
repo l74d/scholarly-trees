@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ such) (NN performance)) (VP (MD may) (RB not) (VP (VB reflect) (NP (NP (NP (DT the) (NN model) (POS 's)) (JJ true) (NN ability)) (PP (IN of) (NP (NN language) (NN understanding) (CC and) (NN reasoning)))))) (. .))
+(S (PP (IN Under) (NP (JJ un-answerable) (NNS data) (NN training))) (, ,) (NP (NNP BERT)) (VP (VBZ achieves) (NP (ADJP (RB unexpectedly) (JJ high)) (NN performance))) (. .))

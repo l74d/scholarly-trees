@@ -1,0 +1,3 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (ADVP (RB first)) (VP (VBP provide) (NP (NP (DT the) (NN regularity) (NN estimate)) (PP (IN of) (NP (DT the) (NN solution))))) (. .))
+(S (NP (DT The) (JJ finite) (NN element) (NN method)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB discretize) (NP (DT the) (NNP Laplace) (NN operator)) (PP (IN with) (NP (DT the) (JJ optimal) (NN convergence) (NNS rates)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN error) (NNS estimates)) (PP (IN of) (NP (NP (DT the) (ADJP (NN time) (JJ semi-discrete)) (NNS schemes)) (CC and) (NP (DT the) (ADJP (RB fully) (JJ discrete)) (NNS schemes))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN provided))) (. .))

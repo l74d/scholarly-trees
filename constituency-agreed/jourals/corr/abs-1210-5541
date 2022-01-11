@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ double) (NN auction) (NN game)) (PP (IN with) (NP (NP (DT an) (JJ infinite) (NN number)) (PP (IN of) (NP (NNS buyers) (CC and) (NNS sellers)))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (NP (DT Each) (NN seller)) (CC and) (NP (DT each) (NN buyer))) (VP (VBZ has) (NP (NP (DT a) (JJ private) (NN valuation)) (PP (IN of) (NP (DT the) (JJ good))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN importance)) (PP (IN of) (S (VP (VBG capturing) (NP (NP (JJ implicit) (JJ global) (JJ structural) (NN information)) (SBAR (WHNP (WDT that)) (S (VP (VBZ resides) (PP (IN in) (NP (DT the) (NN input) (NN space))))))))))) (VP (VBZ is) (ADJP (RB largely) (JJ unexplored))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP conduct) (NP (JJ extensive) (NNS experiments)) (S (VP (TO to) (VP (VB investigate) (NP (NP (PRP$ our) (NN model) (POS 's)) (NN effectiveness) (CC and) (NN robustness)))))) (. .))

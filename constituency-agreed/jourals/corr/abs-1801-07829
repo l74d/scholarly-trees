@@ -1,0 +1,2 @@
+(S (NP (NNP EdgeConv)) (VP (VBZ acts) (PP (IN on) (NP (NP (NNS graphs)) (VP (ADVP (RB dynamically)) (VBN computed) (PP (IN in) (NP (NP (DT each) (NN layer)) (PP (IN of) (NP (DT the) (NN network))))))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ is) (ADJP (JJ differentiable))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN plugged) (PP (IN into) (NP (VBG existing) (NNS architectures))))))) (. .))

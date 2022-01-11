@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (JJ bicategory) (NN theory)) (PP (IN in) (NP (JJ univalent) (NNS foundations)))) (. .))
+(S (NP (NP (DT All)) (PP (IN of) (NP (PRP$ our) (NN work)))) (VP (VBZ is) (VP (VBN formalized) (PP (IN in) (NP (NNP Coq))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NNP UniMath) (NN library)) (PP (IN of) (NP (JJ univalent) (NNS mathematics))))))))) (. .))

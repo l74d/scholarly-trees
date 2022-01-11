@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT an) (ADJP (RB approximately) (JJ optimal)) (JJ non-simple) (NN path)) (VP (MD can) (VP (VB be) (ADVP (RB efficiently)) (VP (VBN computed) (PP (IN under) (NP (DT some) (JJ natural) (NNS constraints))))))))) (. .))

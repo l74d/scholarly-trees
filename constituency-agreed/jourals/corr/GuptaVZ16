@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB process) (NP (NP (CD 15) (NNS images)) (PP (IN per) (NP (NN second)))) (PP (IN on) (NP (DT a) (NNP GPU))))) (. .))

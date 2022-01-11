@@ -1,0 +1,2 @@
+(S (NP (NNS Spreadsheets)) (VP (VBP are) (VP (VBN used) (ADVP (RB extensively)) (PP (IN within) (NP (NP (NN today) (POS 's)) (NNS organisations))))) (. .))
+(S (SBAR (IN Although) (S (NP (NNS spreadsheets)) (VP (VBP have) (NP (JJ many) (NNS benefits))))) (, ,) (NP (PRP they)) (VP (MD can) (ADVP (RB also)) (VP (VB present) (NP (DT a) (JJ significant) (NN risk) (NN exposure)) (, ,) (S (VP (VBG requiring) (NP (JJ appropriate) (NN management)))))) (. .))

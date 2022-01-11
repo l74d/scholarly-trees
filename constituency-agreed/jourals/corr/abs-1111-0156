@@ -1,0 +1,1 @@
+(S (SBAR (IN Because) (S (NP (NNP Cath)) (VP (VBZ holds) (NP (DT a) (JJ single) (NN card))))) (, ,) (NP (DT this)) (ADVP (RB also)) (VP (VBZ implies) (SBAR (IN that) (S (NP (NNP Alice) (CC and) (NNP Bob)) (VP (MD will) (VP (VB learn) (NP (DT the) (NN card) (NN deal)) (PP (IN from) (NP (NP (DT the) (JJ other) (NN player) (POS 's)) (NN announcement)))))))) (. .))

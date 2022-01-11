@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN computation)) (VP (VP (VBZ is) (VP (VBN performed) (ADVP (RB centrally)))) (CC and) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB work) (PP (IN without) (NP (NP (DT a) (JJ large) (NN change)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ active) (NN communication) (NNS links))))))))))))) (. .))

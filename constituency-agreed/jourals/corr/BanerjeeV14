@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN sensor) (NN network)) (VP (VBZ is) (VP (VBN considered) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (JJ random) (NNS variables)))) (VP (VBZ is) (VP (VBN observed) (PP (IN at) (NP (DT each) (NN sensor))))))))) (. .))

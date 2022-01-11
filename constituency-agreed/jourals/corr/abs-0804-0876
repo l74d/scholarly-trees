@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (JJ upper) (NN semi-continuity)) (PP (IN of) (NP (JJ such) (NNS functions)))) (VP (VBZ is) (NP (NP (DT a) (JJ sufficient) (JJ semantic) (NN criterion)) (PP (IN for) (NP (NN admissibility))))))))) (. .))
+(S (S (VP (TO To) (VP (VB provide) (NP (DT a) (JJ syntactical) (NN criterion))))) (, ,) (NP (NP (DT a) (NN calculus)) (PP (IN for) (NP (JJ semi-continuous) (NNS functions)))) (VP (VBZ is) (VP (VBN developed))) (. .))

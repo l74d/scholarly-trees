@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ neural) (NN network)) (VP (VB minimize) (NP (NP (DT a) (NN loss) (NN function)) (SBAR (WHNP (WDT which)) (S (VP (VBZ maximizes) (NP (DT the) (NN correlation) (NNS coefficients))))))) (. .))

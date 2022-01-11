@@ -1,0 +1,2 @@
+(SQ (NNP Do) (NP (NN complexity) (NNS classes)) (VP (VBP have) (NP (JJ many-one) (JJ complete) (NNS sets)) (SBAR (IN if) (CC and) (RB only) (IN if) (S (NP (PRP they)) (VP (VBP have) (NP (JJ Turing-complete) (NNS sets)))))) (. ?))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (PP (IN in) (NP (DT the) (JJ same) (JJ relativized) (NN world))) (NP (DT this) (NN class)) (VP (VP (VBZ has) (NP (JJ 2-truth-table) (JJ complete) (NNS sets))) (CC but) (VP (VBZ lacks) (NP (JJ 1-truth-table) (JJ complete) (NNS sets))))))) (. .))

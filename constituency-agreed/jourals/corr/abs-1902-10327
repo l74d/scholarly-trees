@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN marketing))) (, ,) (S (VP (VBG knowing) (NP (NP (DT the) (NNS persons)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB buy) (NP (DT a) (JJ new) (NN product)))))))))))) (VP (MD would) (VP (VB reduce) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN spam)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ new) (JJ efficient) (NNS methods)) (VP (VBP are) (VP (VBN needed) (PP (IN in) (NP (DT this) (NN domain))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG computing) (NP (DT the) (ADJP (RB lexicographically) (JJ first)) (NML (CD four) (HYPH -) (NN coloring))) (PP (IN for) (NP (JJ planar) (NNS graphs))))) (VP (VBZ is) (NP (ADJP (NP (NP (NN P)) (SYM ^) (NP (-LRB- {) (NN NP) (-RRB- }))) (HYPH -) (JJ hard))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP discuss) (NP (DT this) (NN application)) (PP (IN to) (NP (NN non-self-reducibility)))) (CC and) (VP (VB provide) (NP (DT a) (JJ general) (JJ related) (NN result)))) (. .))

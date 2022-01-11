@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN scheme)) (VP (VBZ is) (VP (VP (VBN implemented) (PP (IN on) (NP (JJ real) (NN emulator) (NNS devices)))) (CC and) (VP (VBN evaluated) (PP (IN through) (NP (JJ experimental) (NNS tests)))))) (. .))
+(S (NP (DT The) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN scheme)) (VP (VBZ is) (ADJP (JJ lightweight) (CC and) (JJ effective)))))) (. .))

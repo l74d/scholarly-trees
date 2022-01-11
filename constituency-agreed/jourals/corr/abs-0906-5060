@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN computer) (NN network)) (VP (MD can) (VP (VB be) (VP (VBN attacked) (PP (IN in) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS ways)))))))) (. .))
+(S (S (NP (NN Incidence) (NN response)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (NP (NP (DT an) (JJ important) (NN aspect)) (PP (IN of) (NP (NN information) (NN security))))))) (CC but) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN overlooked) (PP (IN by) (NP (NN security) (NNS administrators)))))) (. .))

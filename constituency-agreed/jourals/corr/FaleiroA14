@@ -1,0 +1,1 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NN concurrency)))) (ADVP (RB usually)) (VP (VBZ comes) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN transaction) (NN serializability)))))) (. .))

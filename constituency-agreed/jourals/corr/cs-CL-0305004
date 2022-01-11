@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NNS rules)) (PP (IN of) (NP (DT an) (JJ approximate) (NN grammar)))) (VP (MD can) (VP (VB be) (VP (VBN given) (PP (IN by) (NP (DT a) (NN user))))))) (CC or) (S (NP (DT the) (NN machine)) (VP (MD can) (VP (VB learn) (NP (DT the) (NNS rules)) (PP (IN from) (NP (DT an) (JJ annotated) (NN document)))))) (. .))

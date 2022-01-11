@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN phase))) (, ,) (NP (PRP we)) (VP (VBP grow) (NP (DT a) (NN tree)) (S (VP (TO to) (VP (VB partition) (NP (DT the) (NN covariate) (NN space)))))) (. .))
+(S (NP (NP (DT Each) (NN node)) (PP (IN in) (NP (DT the) (NN tree)))) (VP (VBZ is) (VP (VBN split) (S (VP (VBG using) (NP (NP (JJ statistical) (NNS tests)) (SBAR (WHNP (WDT that)) (S (VP (VBP determine) (SBAR (IN if) (S (NP (NP (DT the) (NNS risks)) (PP (IN of) (NP (DT the) (NN child) (NNS nodes)))) (VP (VBP are) (ADJP (JJ different)))) (CC or) (RB not)))))))))) (. .))

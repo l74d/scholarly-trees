@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT a) (NN simulation) (NN study)))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ posterior) (NNS approximations)) (VP (VBP outperform) (NP (NP (DT the) (JJ naive) (NN method)) (PP (IN of) (S (VP (VBG ignoring) (NP (DT the) (NN noise) (NN addition) (NN mechanism)))))))))) (. .))

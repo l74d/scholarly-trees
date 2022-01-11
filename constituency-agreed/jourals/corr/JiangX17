@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (JJ different) (NNS techniques) (CC and) (NNS tools)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (CC and) (VBN developed)))) (. .))
+(S (NP (NP (DT A) (JJ possible) (NN reason)) (PP (IN for) (NP (DT this) (JJ low) (NN performance)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (NN test) (NNS suites)) (PP (IN of) (NP (JJ real) (NN world) (NNS programs)))) (VP (VBP are) (ADVP (RB usually)) (ADJP (RB too) (JJ weak) (S (VP (TO to) (VP (VB guarantee) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (DT the) (NN program)))))))))))) (. .))

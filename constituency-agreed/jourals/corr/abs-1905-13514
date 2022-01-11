@@ -1,0 +1,2 @@
+(S (NP (NNS Hyperproperties)) (VP (VBP are) (NP (NP (NNS properties)) (PP (IN of) (NP (NP (NNS sets)) (PP (IN of) (NP (NN computation) (NNS traces))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (JJ quantitative) (NNS hyperproperties)) (PP (IN in) (NP (NP (DT the) (NN setting)) (PP (IN of) (NP (NP (NNP HyperLTL)) (, ,) (NP (NP (DT a) (JJ temporal) (NN logic)) (PP (IN for) (NP (NNS hyperproperties))))))))) (. .))

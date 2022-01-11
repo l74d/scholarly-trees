@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT a) (JJ concrete) (NN implementation)) (PP (IN of) (NP (DT the) (NN approach)))) (, ,) (PP (IN by) (S (VP (VBG extending) (NP (DT the) (NNP Scala) (NN programming) (NN language)))))) (. .))

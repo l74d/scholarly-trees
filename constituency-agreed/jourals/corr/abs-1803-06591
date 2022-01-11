@@ -1,0 +1,2 @@
+(S (S (VP (VP (VBG Recognizing) (NP (NP (NN number)) (PP (IN of) (NP (NNS communities))))) (CC and) (VP (VBG detecting) (NP (NP (NN community) (NNS structures)) (PP (IN of) (NP (JJ complex) (NN network))))))) (VP (VBP are) (VP (VBN discussed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (JJ experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (. .))

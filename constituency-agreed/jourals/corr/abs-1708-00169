@@ -1,0 +1,2 @@
+(S (SBAR (IN Though) (S (NP (NP (DT a) (JJ considerable) (NN number)) (PP (IN of) (NP (JJ such) (NNS metrics)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN in) (NP (DT the) (NN literature)))))))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ notable) (NNS problems)) (PP (IN in) (NP (PRP them))))) (. .))
+(S (NP (DT The) (NNS metrics)) (VP (VBP are) (VP (VBN evaluated) (PP (IN by) (S (VP (VBG correlating) (NP (JJ metric) (NNS scores)) (PP (IN with) (NP (DT the) (JJ human) (JJ subjective) (NNS ratings)))))))) (. .))

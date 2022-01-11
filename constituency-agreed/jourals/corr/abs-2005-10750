@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD found) (SBAR (IN that) (S (NP (NNS autoencoders)) (VP (MD may) (VP (VB use) (NP (NP (JJ robust) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBP cause) (NP (JJ inherent) (JJ adversarial) (NN robustness))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN autoencoder)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ able) (S (VP (TO to) (VP (VB detect) (NP (NP (NNS patterns)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB indicate) (NP (NP (JJ spatial) (NNS interactions)) (PP (IN between) (NP (JJ cellular) (NNS components)))))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NNS FREEs)) (VP (VP (VBP are) (ADJP (RB inherently) (JJ soft))) (CC and) (VP (MD can) (VP (VB impart) (NP (JJ spatial) (NNS forces)) (PP (IN without) (S (VP (VBG imposing) (NP (DT a) (JJ rigid) (NN structure)))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN configured) (S (VP (TO to) (VP (VB produce) (NP (NP (DT a) (JJ large) (NN variety)) (PP (IN of) (NP (NN force) (CC and) (NN moment) (NNS combinations)))))))))) (. .))
+(S (NP (DT This) (NN force) (NN zonotope)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB inform) (NP (NP (DT the) (NN design) (CC and) (NN control)) (PP (IN of) (NP (NP (JJ parallel) (NNS combinations)) (PP (IN of) (NP (JJ soft) (NNS actuators)))))))))))) (. .))

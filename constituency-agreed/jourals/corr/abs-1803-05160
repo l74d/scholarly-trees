@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (NN sentiment) (NN classification)) (PP (IN of) (NP (NNP Twitter) (NNS data)))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (NP (NP (DT no) (JJ significant) (NN difference)) (PP (IN between) (NP (NP (DT the) (JJS best) (NN cross-validation)) (CC and) (NP (JJ sequential) (NN validation)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP observe) (SBAR (IN that) (S (NP (DT all) (NN cross-validation) (NNS variants)) (VP (VBP tend) (S (VP (TO to) (VP (VB overestimate) (NP (DT the) (NN performance))))) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ sequential) (NNS methods)) (VP (VBP tend) (S (VP (TO to) (VP (VB underestimate) (NP (PRP it)))))))))))) (. .))

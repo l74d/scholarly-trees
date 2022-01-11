@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VP (VB improve) (NP (NP (DT the) (NN utilization)) (PP (IN of) (NP (NN hardware) (NNS resources))))) (CC and) (VP (VB make) (S (NP (PRP them)) (NP (NP (NN power) (NN efficiency)) (PP (IN in) (NP (NNS datacenters))))))))) (, ,) (NP (NN workload) (NN characterization) (CC and) (NN analysis)) (VP (VBZ is) (PP (IN at) (NP (DT the) (NN foundation)))) (. .))

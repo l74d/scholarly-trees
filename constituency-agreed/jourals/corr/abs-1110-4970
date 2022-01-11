@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (NP (NNS measures)) (PP (IN for) (S (VP (VBG assessing) (NP (NP (DT the) (JJ objective) (NN quality)) (PP (IN of) (NP (NP (DT the) (JJ spatial) (NN resolution)) (PP (IN for) (NP (DT the) (NN fusion) (NNS methods))))))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT an) (JJ objective) (NN quality)) (PP (IN of) (NP (NP (DT the) (JJ spatial) (NN resolution) (NN assessment)) (PP (IN for) (NP (NN fusion) (NNS images)))))) (VP (VBZ is) (VP (VBN required))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (PP (IN by) (S (VP (VBG taking) (NP (NN hardware) (NNS impairments)) (PP (IN into) (NP (NN consideration)))))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN energy) (NN efficiency) (NN analysis)) (PP (IN of) (NP (NNP IRS) (NN system)))))) (. .))
+(S (PP (IN After) (NP (DT that))) (, ,) (NP (PRP we)) (VP (VBP characterize) (NP (DT the) (JJ asymptotic) (NN channel) (NN capacity))) (. .))

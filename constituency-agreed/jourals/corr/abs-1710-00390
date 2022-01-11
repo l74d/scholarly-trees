@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (ADVP (RB already)) (VP (VBZ has) (VP (VBN been) (VP (VBN demonstrated) (SBAR (IN that) (S (NP (NN software) (NNS vulnerabilities)) (VP (VBP give) (NP (DT an) (NN attacker)) (NP (JJ ample) (NN opportunity) (S (VP (TO to) (VP (VB insert) (NP (JJ arbitrary) (NN code)) (PP (IN into) (NP (DT the) (NN program))))))))))))) (. .))

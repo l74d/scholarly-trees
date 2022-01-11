@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP show) (SBAR (IN that) (S (NP (JJ full) (NN determinisation)) (VP (MD can) (VP (VB be) (VP (VBN avoided))))))) (: :) (S (NP (NN subset) (CC and) (NN breakpoint) (NNS constructions)) (VP (NN suffice)))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN implemented) (NP (NP (PRP$ our) (NN approach)) (: —) (NP (CC -both) (ADJP (JJ explicit) (CC and) (JJ symbolic)) (NNS versions)) (: —)) (PP (VB -in) (NP (DT a) (NN prototype) (NN tool))))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN prototype)) (VP (MD can) (VP (VB compete) (PP (IN with) (NP (NP (NN mature) (NNS tools)) (PP (IN like) (NP (NNP PRISM)))))))))) (. .))

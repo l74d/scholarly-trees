@@ -1,0 +1,1 @@
+(S (PP (ADVP (RB Even)) (IN without) (NP (NP (DT a) (NN penalty)) (PP (IN on) (NP (JJ incomplete) (NNS jobs))))) (, ,) (NP (DT the) (NN optimization) (NN problem)) (VP (VBZ turns) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (JJ non-convex)))))) (. .))

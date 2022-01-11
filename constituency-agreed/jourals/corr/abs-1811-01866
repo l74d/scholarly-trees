@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP investigate) (SBAR (IN whether) (S (NP (NNP RNN) (NN language) (NNS models)) (VP (VBP learn) (NP (JJ humanlike) (NN word) (NN order) (NNS preferences)) (PP (IN in) (NP (JJ syntactic) (NNS alternations))))))) (. .))

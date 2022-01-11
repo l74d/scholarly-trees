@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB resolve) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN summarization) (NN method)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ produces) (NP (DT a) (JJ single) (NN text)) (PP (IN from) (NP (JJ multiple) (NNS descriptions)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method)))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NNS experiments)))))) (. .))

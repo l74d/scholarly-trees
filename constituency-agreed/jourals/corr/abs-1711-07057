@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Lyapunov) (NN exponent)) (VP (VBZ is) (VP (VBN calculated) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (JJ chaotic) (NN behaviour)) (PP (IN of) (NP (DT this) (NN circuit))))))))) (. .))
+(S (NP (JJ Simulated) (NNS results)) (VP (VBP are) (PP (IN in) (NP (NP (JJ good) (NN agreement)) (PP (IN with) (NP (JJ experimental) (NNS data)))))) (. .))

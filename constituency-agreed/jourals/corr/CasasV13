@@ -1,0 +1,2 @@
+(S (NP (JJ Nonlocal) (NNS filters)) (VP (VBP are) (NP (NP (ADJP (JJ simple) (CC and) (JJ powerful)) (NNS techniques)) (PP (IN for) (NP (NN image) (NN denoising))))) (. .))
+(S (NP (NP (DT The) (NN simplicity)) (PP (IN of) (NP (DT this) (NN formulation)))) (VP (VBZ allows) (S (VP (TO to) (VP (VB perform) (NP (NP (DT a) (JJ detailed) (NN analysis)) (PP (IN of) (NP (PRP$ its) (NNS properties)))))))) (. .))

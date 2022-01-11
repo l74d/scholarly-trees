@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN keyboard)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN input) (NN device)) (PP (IN for) (NP (DT a) (NN computer))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ several) (NNS inventions)) (SBAR (WHNP (WDT which)) (S (VP (VBP attempt) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT a) (JJ conventional) (NN keyboard)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ German) (NN language) (NN model)) (PP (IN for) (NP (DT the) (NNP Xerox) (NNP HMM) (NN tagger)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN model) (POS 's)) (NN error) (NNS types)) (VP (VBP are) (VP (VBN described))) (. .))

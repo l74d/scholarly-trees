@@ -1,0 +1,2 @@
+(S (NP (JJ Conventional) (NNS methods)) (ADVP (RB usually)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT a) (NN label)) (VP (MD will) (VP (VB be) (VP (VBN revealed) (PP (IN after) (NP (NN prediction))) (PP (IN at) (NP (DT each) (NN time) (NN step))))))))) (. .))
+(S (ADVP (RB Thus)) (NP (PRP we)) (VP (VBP need) (NP (DT a) (NN buffer)) (S (VP (TO to) (VP (VB store) (NP (NP (NN part)) (PP (IN of) (NP (PRP them)))))))) (. .))

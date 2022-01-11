@@ -1,0 +1,2 @@
+(S (NP (NP (NN Decision) (NNS makers)) (PP (IN in) (NP (JJ many) (NNS countries)))) (VP (VBP are) (VP (VBG exploiting) (NP (JJ spatial) (NNS databases)) (PP (IN for) (S (VP (VP (VBG collecting) (NP (NN information))) (, ,) (VP (VBG analyzing) (NP (PRP them))) (CC and) (VP (VBG planning) (PP (IN for) (NP (DT the) (NN future))))))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (RB not) (DT every) (JJ spatial) (NN database)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NN application))))))) (. .))

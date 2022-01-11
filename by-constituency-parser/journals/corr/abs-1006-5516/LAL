@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ left-linear) (JJ generalized) (JJ semi-monadic) (NNP TRSs)) (VP (ADVP (RB effectively)) (VBG preserving) (NP (NP (NN recognizability)) (PP (IN of) (NP (JJ finite) (JJ tree) (NNS languages)))))) (PRN (-LRB- -LRB-) (VP (VBP are) (NP (NNP EPRF-TRSs))) (-RRB- -RRB-))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (DT that) (S (NP (NP (NN reachability)) (, ,) (NP (NN joinability)) (, ,) (CC and) (NP (JJ local) (NN confluence))) (VP (VBP are) (ADJP (JJ decidable)) (PP (IN for) (NP (NNP EPRF-TRSs))))))) (. .))

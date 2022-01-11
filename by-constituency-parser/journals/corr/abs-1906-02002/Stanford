@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN method)) (ADVP (RB substantially)) (VP (VBZ improves) (NP (NP (JJ previous) (NML (NML (NN state)) (HYPH -) (PP (IN of) (HYPH -) (NP (DT the) (HYPH -) (NN art)))) (NNS results)) (PP (IN on) (NP (NP (DT the) (NNP SemEval) (HYPH -) (CD 2016)) (NP (NNP Task) (CD 13))))) (PP (IN on) (NP (NN taxonomy) (NN extraction)))) (. .))

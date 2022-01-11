@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ final) (NN representation)) (VP (VBZ is) (ADJP (RB completely) (JJ binary))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (MD can) (VP (VP (VB binarize) (NP (DT the) (JJ last) (NN layer) (NN representation)) (PP (IN without) (NP (NP (NN loss)) (PP (IN of) (NP (NN performance)))))) (CC and) (VP (VB binarize) (NP (PDT all) (DT the) (NNS layers)) (PP (IN with) (NP (ADJP (RB reasonably) (JJ small)) (NNS degradations)))))) (. .))

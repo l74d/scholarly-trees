@@ -1,0 +1,4 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT no) (JJ detailed) (NN study)) (PP (IN of) (NP (PRP$ its) (NN performance)))))) (. .))
+(S (NP (DT The) (NN parameter) (NN selection) (NN rule)) (VP (VBZ is) (VP (VBN established) (PP (IN for) (S (VP (VBG achieving) (NP (DT the) (JJS best) (NN performance))))))) (. .))
+(S (S (VP (VBN Approximated) (PP (IN with) (NP (NNP Taylor) (NN series))))) (, ,) (NP (DT the) (JJ instantaneous) (NN behavior)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN derived))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT all)) (PP (IN of) (NP (DT the) (JJ theoretical) (NNS results)))) (VP (VP (VBP are) (VP (VBN compared) (PP (IN with) (NP (NNS simulations))))) (CC and) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB agree) (ADVP (RB well)) (PP (IN in) (NP (NP (DT a) (JJ large) (NN range)) (PP (IN of) (NP (NN parameter) (NN setting))))))))))) (. .))

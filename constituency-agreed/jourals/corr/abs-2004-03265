@@ -1,0 +1,1 @@
+(S (NP (NP (CD Six) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP avoid) (NP (NP (NNS conflicts)) (PP (IN between) (NP (DT the) (CD two) (NN optimization) (NNS objectives)))))))) (VP (VBP are) (VP (VBN proposed) (CC and) (VBN evaluated) (S (VP (VBG using) (NP (DT a) (JJ simple) (JJ linear) (NN system)))))) (. .))

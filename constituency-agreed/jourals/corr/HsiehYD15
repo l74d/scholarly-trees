@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NP (NN implementation)) (PP (IN with) (NP (JJ atomic) (NNS operations))))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (JJ linear) (NN convergence)) (PP (IN under) (NP (JJ mild) (NNS conditions)))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NNS methods)) (VP (VBP are) (ADJP (ADJP (JJ much) (JJR faster)) (PP (IN than) (NP (JJ previous) (JJ parallel) (NN coordinate) (NN descent) (NNS solvers)))))))) (. .))

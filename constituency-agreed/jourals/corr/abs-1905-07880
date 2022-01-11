@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN signal)) (VP (VBZ is) (VP (VBN modelled) (PP (IN as) (NP (NP (JJ non-Gaussian) (NNS sources)) (PP (IN in) (NP (DT a) (JJ Gaussian) (NN background))))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN assessed) (PP (IN on) (NP (JJ simulated) (NNS signals))))) (. .))

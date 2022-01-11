@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN difficulty)) (VP (VBZ is) (NP (NP (ADJP (RB potentially) (JJ exponential)) (NN size)) (PP (IN of) (NP (NNP Zimin) (NNS words))))) (. .))
+(S (NP (PRP It)) (VP (VBZ gives) (NP (NP (DT a) (JJ new) (NN interpretation)) (PP (IN of) (NP (NNP Zimin) (NN algorithm)))) (PP (IN in) (NP (JJ compressed) (NN setting)))) (. .))

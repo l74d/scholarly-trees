@@ -1,0 +1,7 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NN design) (NN consideration) (CC and) (NN simulation)) (PP (IN of) (NP (NP (NN interpolator)) (PP (IN of) (NP (NNP OSR) (CD 128))))))) (. .))
+(S (NP (DT The) (JJ proposed) (NN structure)) (VP (VBZ uses) (NP (NP (DT the) (NN half) (NN band) (NNS filers)) (CC &) (NP (NN Comb) (HYPH /) (NN Sinc) (NN filter)))) (. .))
+(S (NP (JJ Experimental) (NN result)) (VP (VBZ shows) (SBAR (IN that) (S (NP (VBN proposed) (NN interpolator)) (VP (VP (VBZ achieves) (NP (DT the) (NN design) (NN specification))) (, ,) (CC and) (ADVP (RB also)) (VP (VBZ has) (NP (JJ good) (NN noise) (NN rejection) (NNS capabilities))))))) (. .))
+(S (NP (DT The) (NN interpolator)) (VP (VBZ accepts) (NP (DT the) (NN input)) (PP (IN at) (NP (NP (CD 44.1) (NN kHz)) (PP (IN for) (NP (NP (NNS applications)) (PP (IN like) (NP (NNP CD) (CC &) (NNP DVD))))))) (NML (NN audio))) (. .))
+(S (NP (DT The) (NN interpolation) (NN filter)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN to) (NP (DT the) (NML (NN delta) (NN sigma)) (NN DAC)))))) (. .))
+(S (NP (DT The) (JJ related) (NN work)) (VP (VBZ is) (VP (VBN done) (PP (IN with) (NP (DT the) (NNP MATLAB) (CC &) (NNP XILINX) (NNP ISE) (NNS simulators))))) (. .))
+(S (NP (DT The) (JJ maximum) (NN operating) (NN frequency)) (VP (VBZ is) (VP (VBN achieved) (PP (IN as) (NP (CD 34.584) (NN MHz))))) (. .))

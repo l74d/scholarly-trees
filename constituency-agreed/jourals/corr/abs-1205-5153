@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG finding) (NP (DT the) (JJ optimal) (NN allocation)))) (VP (VBZ entails) (NP (NP (DT a) (JJ computational) (NN complexity)) (SBAR (WHNP (WDT that)) (S (VP (VBZ increases) (ADVP (RB sharply)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS users) (CC or) (NNS slots)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT this))) (, ,) (NP (PRP they)) (VP (VBP need) (S (VP (TO to) (VP (VB find) (CC and) (VB categorize) (NP (JJ suspicious) (NNS patterns)) (PP (IN from) (NP (NP (JJ large) (NNS collections)) (PP (IN of) (NP (NN execution) (NNS traces))))))))) (. .))
+(S (NP (NP (DT The) (NN paper)) (PP (IN at) (NP (NN hand)))) (VP (VBZ is) (NP (NP (DT a) (NN design) (NN study)) (SBAR (WHNP (WDT that)) (S (VP (VBZ describes) (NP (NP (DT the) (NN design) (, ,) (NN implementation) (, ,) (CC and) (NN evaluation)) (PP (IN of) (NP (DT the) (NN prototype))))))))) (. .))

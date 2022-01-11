@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP argue) (SBAR (WHADVP (WRB why)) (S (NP (DT these) (NNS claims)) (VP (VBP are) (ADJP (JJ erroneous)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT a) (JJ consistent) (NN treatment)) (VP (VBZ solves) (NP (DT the) (NN paradox))))))) (. .))

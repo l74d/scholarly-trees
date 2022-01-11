@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN saliency) (NN detection))) (, ,) (NP (DT every) (NN pixel)) (VP (VBZ needs) (NP (JJ contextual) (NN information)) (S (VP (TO to) (VP (VB make) (NP (NN saliency) (NN prediction)))))) (. .))
+(S (NP (JJ Previous) (NNS models)) (ADVP (RB usually)) (VP (VBP incorporate) (NP (NNS contexts)) (ADVP (RB holistically))) (. .))

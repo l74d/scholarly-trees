@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN recommended) (S (VP (TO to) (ADVP (RB also)) (VP (VB use) (NP (JJ spatial) (NN partitioning)) (PP (IN for) (NP (NP (NN cross-validation) (NN hyperparameter) (NN tuning)) (PP (IN of) (NP (JJ spatial) (NNS data)))))))))) (. .))

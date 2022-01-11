@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NN image) (NN segmentation)) (CC and) (NP (JJ principal) (NN component) (NN analysis))) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN dimensionality)) (PP (IN of) (NP (DT the) (NNS data)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NN Diagnosis)) (CC and) (NP (NN treatment) (NN guidance))) (VP (VBP are) (VP (VBN aided) (PP (IN by) (S (VP (VBG detecting) (NP (JJ relevant) (NNS biomarkers)) (PP (IN in) (NP (JJ medical) (NNS images)))))))) (. .))
+(S (NP (JJ Anomalous) (NNS regions)) (VP (MD can) (ADVP (RB then)) (VP (VB serve) (PP (IN as) (NP (NP (NNS candidates)) (PP (IN for) (NP (NN biomarker) (NN discovery))))))) (. .))

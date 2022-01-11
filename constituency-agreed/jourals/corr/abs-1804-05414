@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (NN vesicle) (NN traffic) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP move) (NP (NN cargo)) (PP (IN within) (NP (JJ eukaryotic) (NNS cells))))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB exhibit) (NP (NP (JJ several) (NN graph) (NNS properties)) (PP (JJ such) (IN as) (NP (CD three) (NN connectivity)))))))))) (. .))
+(S (NP (DT These) (NNS properties)) (VP (VBP are) (NP (NP (NNS consequences)) (PP (IN of) (NP (VBG underlying) (JJ biophysical) (NNS constraints))))) (. .))

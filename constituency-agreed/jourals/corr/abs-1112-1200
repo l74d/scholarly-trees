@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ enables) (S (VP (TO to) (VP (VB find) (NP (DT the) (NN object) (NNS trajectories)) (SBAR (RB even) (IN if) (S (NP (DT the) (NNS objects)) (VP (VBP are) (VP (VBN misdetected) (PP (IN in) (NP (DT some) (NNS frames))))))))))) (. .))
+(S (NP (DT A) (NN trajectory) (NN filter)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB remove) (NP (JJ noisy) (NNS trajectories))))))) (. .))

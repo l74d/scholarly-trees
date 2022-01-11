@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN solution)) (VP (VBZ includes) (NP (NP (CD two) (NNS groups)) (PP (IN of) (NP (NN prediction) (NNS models))))) (. .))
+(S (NP (DT The) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (JJ promised) (NN solution)) (VP (VBP make) (NP (JJ correct) (NNS predictions)) (PP (IN with) (NP (JJ high) (NNS accuracies))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VP (VBZ is) (ADJP (RB foundationally) (JJ unconstrained))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN instantiated) (PP (IN with) (NP (JJ specific) (JJ formal) (NNS languages))))))) (. .))
+(S (NP (DT A) (NN plugin) (NN interface)) (VP (VBZ permits) (S (VP (VBG injecting) (NP (NP (ADJP (JJ syntactic) (CC and) (JJ semantic)) (NNS idiosyncrasies)) (PP (IN of) (NP (JJ individual) (JJ formal) (NNS languages))))))) (. .))

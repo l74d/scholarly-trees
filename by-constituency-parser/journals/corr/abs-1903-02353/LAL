@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN parameter) ($ $) (VB k) ($ $)) (VP (VBZ denotes) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS subcurves))) (SBAR (WHPP (IN into) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBP divide) (NP (DT the) (NN input) (NNS curves))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD present) (NP (NP (DT an) (NN approximation) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ outputs) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS subcurves))) (PP (IN of) (NP (QP (IN at) (JJS most) (RB twice)) (DT the) (JJ optimal) (NN size))))))))) (. .))

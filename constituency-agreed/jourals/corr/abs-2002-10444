@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN insight)) (S (VP (TO to) (VP (VB develop) (NP (NP (DT a) (JJ simple) (NN initialization) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB train) (NP (JJ deep) (JJ residual) (NNS networks)) (PP (IN without) (NP (NN normalization)))))))))))) (. .))

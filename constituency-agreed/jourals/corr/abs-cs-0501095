@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (NNS resources))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT an) (JJ initial) (NN ontology)) (CC and) (NP (NP (DT a) (ADJP (RB partially) (VBN processed)) (NN corpus)) (PP (IN of) (NP (DT a) (NN domain)))))) (. .))
+(S (NP (PRP We)) (VP (VBP exploit) (NP (NP (DT the) (JJ specific) (NN characteristic)) (PP (IN of) (NP (NP (DT the) (NN sublanguage)) (PP (IN in) (NP (DT the) (NN corpus))))))) (. .))

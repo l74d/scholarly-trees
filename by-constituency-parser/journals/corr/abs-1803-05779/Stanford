@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN training)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS nets)))) (VP (VBZ is) (ADJP (JJ expensive))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (NN predictor) (HYPH -) (NN corrector) (NN method)) (PP (IN for) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS nets)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ alternates) (S (NP (DT a) (NN predictor)) (VP (VB pass) (PP (IN with) (NP (DT a) (NN corrector) (NN pass))) (S (VP (VBG using) (NP (JJ stochastic) (NN gradient) (NN descent)) (PP (IN with) (NP (NN backpropagation))) (SBAR (JJ such) (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NN loss)) (PP (IN in) (NP (NN validation) (NN accuracy)))))))))))) (. .))
+(S (NP (NP (DT No) (JJ special) (NNS modifications)) (PP (IN to) (NP (NP (NNP SGD)) (PP (IN with) (NP (NN backpropagation)))))) (VP (VBZ is) (VP (VBN required) (PP (IN by) (NP (DT this) (NN methodology))))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBD showed) (NP (NP (DT a) (NN time) (NN improvement)) (PP (IN of) (NP (CD 9) (NN %)))) (PP (IN on) (NP (DT the) (NML (NN CIFAR) (HYPH -) (CD 10)) (NN dataset)))) (. .))

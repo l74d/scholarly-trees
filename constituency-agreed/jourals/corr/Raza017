@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (NP (NN shapelet) (NN discovery)) (PP (IN for) (NP (JJ large) (NN time) (NN series) (NNS datasets)))) (ADVP (RB quickly)) (VP (VBZ becomes) (ADJP (JJ intractable))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NNS improvements)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN training) (NN time)))))))) (. .))

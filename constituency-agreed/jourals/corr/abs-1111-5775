@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NP (DT each) (NN execution)) (PP (IN of) (NP (NNP CS))))) (, ,) (NP (DT the) (NN set) (NN nbh)) (VP (MD can) (VP (VB be) (VP (VBN given) (PP (IN by) (NP (DT the) (NN environment)))))) (. .))
+(S (NP (NP (DT The) (NN correctness)) (PP (IN of) (NP (DT the) (NN solution)))) (VP (VBZ is) (VP (VBN argued) (PP (IN with) (NP (NP (NNS invariants)) (CC and) (NP (JJ temporal) (NN logic)))))) (. .))

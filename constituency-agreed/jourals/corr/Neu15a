@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP conduct) (NP (NP (DT a) (JJ simple) (NN experiment)) (SBAR (WHNP (WDT that)) (S (VP (VBZ illustrates) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (PRP$ our) (JJ implicit) (NN exploration) (NN technique))))))))) (. .))

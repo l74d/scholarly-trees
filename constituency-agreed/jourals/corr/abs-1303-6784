@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNS researchers)) (VP (VBP have) (VP (VBN hypothesised) (NP (NP (NNS models)) (SBAR (WHNP (WDT which)) (S (VP (VBP explain) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (NP (DT the) (NN topology)) (PP (IN of) (NP (DT a) (NN target) (NN network)))))))))))) (. .))
+(S (NP (DT The) (NN framework)) (ADVP (RB also)) (VP (VBZ considers) (NP (NP (NNS models)) (VP (VBN made) (PP (IN from) (NP (NP (JJ linear) (NNS combinations)) (PP (IN of) (NP (NN model) (NNS components)))))))) (. .))

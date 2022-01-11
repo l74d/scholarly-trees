@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NN protocol)) (VP (VBZ lacks) (NP (NP (DT any) (NN form)) (PP (IN of) (NP (NN source) (NN authentication))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB preempt) (NP (DT the) (NN attack)) (SBAR (IN before) (S (NP (DT any) (NN damage)) (VP (VBZ is) (VP (VBN caused)))))))))) (. .))

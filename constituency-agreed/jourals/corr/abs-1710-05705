@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ major) (NN drawback)) (PP (IN of) (NP (JJ hyperspectral) (NN imaging) (NNS devices)))) (VP (VBZ is) (NP (PRP$ their) (JJ intrinsic) (JJ low) (JJ spatial) (NN resolution))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN approach)))) (, ,) (NP (PRP$ our) (NN model)) (VP (MD can) (VP (VB realign) (NP (DT the) (VBN given) (NNS images)) (SBAR (IN if) (S (VP (VBN needed)))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NN implementation)) (CC and) (NP (NP (JJ computational) (NNS results)) (PP (IN of) (NP (NP (DT a) (JJ polynomial) (NN test)) (PP (IN of) (NP (JJ total) (NN unimodularity)))))))) (. .))
+(S (NP (DT The) (NN test)) (VP (VBZ is) (NP (NP (DT a) (VBN simplified) (NN version)) (PP (IN of) (NP (DT a) (JJ prior) (NN method))))) (. .))
+(S (NP (DT The) (NN program)) (ADVP (RB also)) (VP (VBZ decides) (NP (CD two) (JJ related) (NN unimodularity) (NNS properties))) (. .))
+(S (NP (DT The) (NN software)) (VP (VBZ is) (ADJP (ADJP (JJ available) (JJ free)) (PP (IN of) (NP (NP (NN charge)) (PP (IN in) (NP (NN source) (NN code) (NN form)))))) (PP (IN under) (NP (DT the) (NNP Boost) (NNP Software) (NN License)))) (. .))

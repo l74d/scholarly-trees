@@ -1,0 +1,4 @@
+(S (NP (NP (NN Identification)) (PP (IN of) (NP (JJ non-functional) (NNS requirements)))) (VP (VBZ is) (ADJP (JJ important) (PP (IN for) (NP (NP (JJ successful) (NN development) (CC and) (NN deployment)) (PP (IN of) (NP (DT the) (NN software) (NN product))))))) (. .))
+(S (PP (IN For) (NP (DT this))) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB identify) (NP (NP (PDT all) (DT the) (JJ non-functional) (NNS requirements)) (VP (VBN required) (PP (IN by) (NP (DT all) (NNS stakeholders))))))))) (. .))
+(S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (DT this) (NN approach))))) (NP (DT some) (NNS rules)) (VP (VBP are) (ADVP (RB also)) (VP (VBN proposed) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT each) (NN layer))))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN applied) (ADVP (RB successfully)) (PP (IN on) (NP (CD two) (NN case) (NNS studies))))) (. .))

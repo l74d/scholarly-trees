@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (NP (NP (NNP Cristian) (NNP S.) (NNP Calude)) (, ,) (NP (NNP Sanjay) (NNP Jain)) (, ,) (NP (NNP Bakhadyr) (NNP Khoussainov)) (, ,) (NP (NNP Wei) (NNP Li)) (CC and) (NP (NNP Frank) (NNP Stephan))) (VP (VBD proposed) (NP (NP (DT a) (JJ quasi-polynomial) (NN time) (NN algorithm)) (PP (IN for) (NP (NN parity) (NNS games))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ short) (NN proof)) (PP (IN of) (NP (NP (NN correctness)) (PP (IN of) (NP (PRP$ their) (NN algorithm))))))) (. .))

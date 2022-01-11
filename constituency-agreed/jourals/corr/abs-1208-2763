@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP prove) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ universal) (JJ non-deterministic) (JJ cellular) (NN automaton)) (, ,) (CC but) (NP (DT no) (JJ universal) (JJ stochastic) (JJ cellular) (NN automaton))))))) (. .))

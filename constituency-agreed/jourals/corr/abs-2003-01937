@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ weak) (NN solution)) (VP (VBZ is) (NP (NP (DT a) (NN solution)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ optimal) (PP (IN for) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJ possible) (NNS values)) (PP (IN of) (NP (DT the) (NNS coefficients))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP characterize) (NP (NP (DT the) (JJ strong) (NNS solutions)) (PP (IN for) (NP (VBN considered) (NNS problems))))) (. .))

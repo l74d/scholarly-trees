@@ -1,0 +1,3 @@
+(S (NP (NP (DT Each) (NN layer)) (PP (IN of) (NP (DT the) (JJ neural) (NN network)))) (VP (VBZ is) (VP (VBN decoupled) (CC and) (VBN trained) (ADVP (RB separately)))) (. .))
+(S (SBAR (IN After) (S (NP (DT the) (NN training)) (VP (VBZ is) (VP (VBN completed) (PP (IN for) (NP (DT each) (NN layer))))))) (, ,) (NP (PRP they)) (VP (VBP are) (VP (VBN combined) (ADVP (RB together)))) (. .))
+(S (NP (DT The) (NN performance)) (VP (VBZ is) (VP (VBN verified) (PP (IN by) (NP (DT a) (JJ simple) (NN example))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP Community) (NN detection)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN used) (S (VP (TO to) (VP (VB understand) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (ADJP (JJ large) (CC and) (JJ complex)) (NNS networks))))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT the) (NNP Leiden) (NN algorithm))) (. .))

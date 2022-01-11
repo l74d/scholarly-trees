@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (JJ strong) (NN interest)) (PP (IN in) (S (VP (VBG measuring) (NP (NP (DT the) (JJ available) (NN bandwidth)) (PP (IN of) (NP (NN network) (NNS paths)))))))))) (. .))
+(S (S (NP (JJ Several) (NNS methods) (CC and) (NNS techniques)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed))))) (CC and) (S (NP (JJ various) (NN measurement) (NNS tools)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (CC and) (VBN evaluated))))) (. .))

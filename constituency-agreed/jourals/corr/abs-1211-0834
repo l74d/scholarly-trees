@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP exhibit) (NP (NP (CD three) (NNS examples)) (PP (IN of) (NP (NNS processes))))) (. .))
+(S (S (NP (NP (DT The) (JJ first) (NN example)) (, ,) (VP (VBN considered) (ADVP (RB previously))) (, ,)) (VP (VBZ is) (ADJP (JJ nonergodic)))) (CC and) (S (NP (NP (DT the) (JJ mutual) (NN information)) (PP (IN between) (NP (DT the) (NNS blocks)))) (VP (VBZ is) (VP (VBN bounded) (PP (IN by) (NP (NP (DT the) (NN logarithm)) (PP (IN of) (NP (DT the) (NN block) (NN length)))))))) (. .))

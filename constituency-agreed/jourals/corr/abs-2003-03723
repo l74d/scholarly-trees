@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS findings)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (NNS vulnerabilities)) (PP (IN in) (NP (JJ critical) (NN infrastructure)))) (VP (MD may) (VP (VB arise) (PP (CONJP (RB not) (RB only)) (PP (IN from) (NP (NN hardware) (CC and) (NN software))) (, ,) (CONJP (CC but) (RB also)) (PP (IN from) (NP (JJ behavioral) (NN manipulation))))))))) (. .))

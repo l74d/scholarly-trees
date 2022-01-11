@@ -1,0 +1,2 @@
+(S (NP (JJ Deep) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN achieved) (NP (JJ tremendous) (NN success)) (PP (IN in) (NP (NP (JJ various) (NNS fields)) (PP (VBG including) (NP (JJ medical) (NN image) (NN segmentation))))))) (. .))
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (NP (JJ retinal) (NN vessel) (NN segmentation)))) (VP (VBZ is) (VP (VBN investigated) (PP (IN for) (NP (DT this) (NN purpose))))) (. .))

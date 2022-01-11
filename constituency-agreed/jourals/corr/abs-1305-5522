@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN destination)) (VP (VBZ is) (ADJP (JJ unknown))))) (, ,) (ADVP (RB then)) (NP (DT the) (NN system)) (VP (VP (MD will) (VP (VB check) (PP (IN for) (NP (NP (NNS potholes)) (PP (IN in) (NP (DT the) (JJ current) (NN road))))))) (CC and) (VP (VBZ displays) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (NN damage)))))) (. .))

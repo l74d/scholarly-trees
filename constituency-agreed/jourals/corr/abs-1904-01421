@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ algebraic) (NN structure)) (VP (VBZ defines) (NP (NP (DT a) (NN superspace)) (VP (VBN filled) (PP (IN with) (NP (NNS instances)))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN model)) (PP (IN on) (NP (NP (NNS datasets)) (PP (IN from) (NP (CD two) (JJ different) (NNS domains)))))) (. .))

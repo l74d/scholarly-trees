@@ -1,0 +1,2 @@
+(S (NP (JJ Semantic) (NN segmentation)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN problem)) (PP (IN in) (NP (NN computer) (NN vision))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ pixel-wise) (NN loss)) (VP (VBZ ignores) (NP (NP (DT the) (NNS dependencies)) (PP (IN between) (NP (NP (NNS pixels)) (PP (IN in) (NP (DT an) (NN image))))))) (. .))

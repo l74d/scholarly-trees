@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP derive) (NP (NP (DT an) (JJ analytical) (NN threshold)) (PP (IN for) (NP (NP (DT the) (JJ residual) (NN error)) (PP (IN at) (NP (DT each) (NN iteration)))))) (, ,) (S (VP (TO to) (VP (VB design) (NP (NP (DT the) (VBG stopping) (NN criterion)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))))))) (. .))

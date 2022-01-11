@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN result)) (VP (VBZ is) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN ground) (NNS clauses)) (PP (IN with) (NP (NN equality))))))) (. .))
+(S (SBAR (IN If) (S (NP (NN satisfiability)) (VP (VBZ is) (VP (VBN detected))))) (, ,) (NP (QP (CD one) (CC or) (JJR more)) (NNS models)) (VP (VBP are) (VP (VBN printed))) (. .))

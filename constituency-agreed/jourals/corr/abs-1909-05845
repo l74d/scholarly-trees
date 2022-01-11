@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB exploit) (NP (DT this) (NN representation)) (S (VP (TO to) (VP (VB learn) (SBAR (WHNP (WDT which) (NN range)) (S (VP (TO to) (VP (VB prune) (PP (IN for) (NP (DT each) (NN pixel))))))))))) (. .))

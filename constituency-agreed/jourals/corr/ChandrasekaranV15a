@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS tasks)) (VP (VBP involve) (S (VP (VP (VBG predicting) (NP (NP (DT the) (NN funniness)) (PP (IN of) (NP (DT a) (NN scene))))) (CC and) (VP (VBG altering) (NP (NP (DT the) (NN funniness)) (PP (IN of) (NP (DT a) (NN scene)))))))) (. .))
+(S (NP (PRP$ Our) (NNS datasets)) (VP (VBP are) (ADJP (RB publicly) (JJ available))) (. .))

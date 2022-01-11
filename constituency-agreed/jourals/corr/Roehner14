@@ -1,0 +1,2 @@
+(SQ (VBZ Is) (NP (DT this) (NN conjecture)) (VP (VBN confirmed) (PP (IN by) (NP (NN observation)))) (. ?))
+(S (ADVP (RB Surprisingly)) (, ,) (NP (NP (DT the) (ADJP (RBS most) (JJ tricky)) (NN part)) (PP (IN of) (NP (DT the) (NN investigation)))) (VP (VBD was) (S (VP (TO to) (VP (VB find) (NP (JJ reliable) (JJ monthly) (NN suicide) (NNS data)))))) (. .))

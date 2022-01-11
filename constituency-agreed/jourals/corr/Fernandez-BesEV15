@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (VBN proposed) (NN approximation)) (VP (VBZ preserves) (NP (NP (DT the) (JJ linear) (NN complexity)) (PP (IN of) (NP (DT the) (JJ standard) (NNP LMS))))) (. .))

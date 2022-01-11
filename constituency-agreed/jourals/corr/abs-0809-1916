@@ -1,0 +1,4 @@
+(S (NP (CD Two) (NNS issues)) (VP (VBP remain) (ADJP (JJ open))) (. .))
+(S (NP (DT The) (JJ first)) (VP (VBZ is) (NP (DT the) (NN optimality))) (. .))
+(S (NP (VBG Modeling)) (VP (VBZ defines) (NP (DT the) (NN optimality))) (. .))
+(S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (DT the) (JJ local) (NN model)))) (VP (VBZ is) (NP (NP (DT the) (NN communication) (NN range)) (PP (IN among) (NP (NNS nodes))))) (. .))

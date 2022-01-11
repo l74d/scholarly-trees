@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NN feature) (NN redundancy)) (VP (VBZ is) (NP (NP (DT a) (JJ necessary) (NN condition)) (PP (IN for) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (JJ adversarial) (NNS examples)))))))))) (. .))

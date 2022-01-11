@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (DT an) (ADJP (RB independently) (VBN marked)) (NNP Poisson) (NN point) (NN process)))))) (CC and) (S (NP (DT the) (NN source) (NNS nodes)) (VP (MD may) (VP (VB choose) (NP (PRP$ their) (NNS relays)) (PP (IN from) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ inactive) (NNS nodes)))))))) (. .))

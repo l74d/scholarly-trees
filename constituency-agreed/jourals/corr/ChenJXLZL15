@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (JJ invariant) (NNS properties)) (PP (IN of) (NP (NP (NNP SANDLog) (NNS programs)) (SBAR (WHNP (WDT that)) (S (VP (VBP run) (PP (IN in) (NP (DT an) (JJ adversarial) (NN environment)))))))))) (. .))

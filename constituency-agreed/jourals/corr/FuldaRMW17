@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBG resulting) (NN word) (NNS vectors)) (VP (VBP are) (VP (VBN treated) (PP (IN as) (NP (NP (DT a) (JJ common) (NN knowledge) (NN database)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN queried) (S (VP (VBG using) (NP (JJ linear) (NN algebra))))))))))))) (. .))

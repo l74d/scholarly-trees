@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP fuse) (NP (NP (DT the) (NNS outputs)) (PP (IN of) (NP (JJ distinct) (NNS branches)))) (, ,) (S (VP (VBG applying) (NP (DT a) (NN reprojection) (NN consistency) (NN loss)) (PP (IN during) (NP (NN training)))))) (. .))

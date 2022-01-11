@@ -1,0 +1,5 @@
+(S (NP (DT The) (VBN modified) (NP (NNP Maxwell) (POS 's)) (NNP Stekloff) (NN eigenvalue) (NN problem)) (VP (VBZ arises) (ADVP (RB recently)) (PP (IN from) (NP (NP (DT the) (JJ inverse) (JJ electromagnetic) (NN scattering) (NN theory)) (PP (IN for) (NP (JJ inhomogeneous) (NNS media)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ contains) (NP (NP (DT a) (JJ rigorous) (NN analysis)) (PP (IN of) (NP (CC both) (NP (DT the) (NN eigenvalue) (NN problem)) (CC and) (NP (NP (DT the) (VBN associated) (NN source) (NN problem)) (PP (IN on) (NP (NNP Lipschitz) (NN polyhedra)))))))) (. .))
+(S (NP (DT A) (JJ new) (JJ finite) (NN element) (NN method)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB compute) (NP (NNP Stekloff) (NNS eigenvalues))))))) (. .))
+(S (PP (IN By) (S (VP (VBG applying) (NP (DT the) (NNP Babuska-Osborn) (NN theory))))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (DT an) (NN error) (NN estimate)) (PP (IN without) (NP (JJ additional) (NN regularity) (NNS assumptions)))) (. .))
+(S (NP (JJ Numerical) (NNS results)) (VP (VBP are) (VP (VBN presented) (PP (IN for) (NP (NN validation))))) (. .))

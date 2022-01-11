@@ -1,0 +1,1 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (NP (NN test) (NNS inputs)) (PP (IN for) (NP (JJ such) (NN program)))) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB satisfy) (NP (NP (JJ non-trivial) (NNS constraints)) (SBAR (WHNP (WDT which)) (S (VP (MD must) (VP (VB be) (VP (VBN specified) (ADVP (RB precisely))))))))))))) (. .))

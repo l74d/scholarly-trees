@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ deep) (JJ convolutional) (NN sub-network)) (VP (VBZ is) (ADVP (JJ first)) (VP (VBN designed) (CC and) (VBN pre-trained) (PP (IN from) (NP (NN scratch))))) (. .))

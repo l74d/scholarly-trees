@@ -1,0 +1,2 @@
+(S (NP (DT These) (CD two) (NN sensor) (NNS modalities)) (VP (VBP provide) (NP (JJ complementary) (NN information))) (. .))
+(S (PP (IN In) (NP (NP (NN absence)) (PP (IN of) (NP (JJ conventional) (NN image) (NNS frames))))) (, ,) (NP (DT the) (NN filter)) (VP (MD can) (VP (VB be) (VP (VBN run) (PP (IN on) (NP (NNS events))) (ADVP (RB only))))) (. .))

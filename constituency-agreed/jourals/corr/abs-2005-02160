@@ -1,0 +1,1 @@
+(S (PP (IN Of) (NP (DT the) (CD three) (NNS models))) (, ,) (NP (PRP$ our) (VBN proposed) (NN model)) (VP (VBZ outperforms) (NP (DT the) (NNS others)) (SBAR (WHADVP (WRB when)) (S (VP (VBN trained) (CC and) (VBN validated) (PP (IN on) (NP (NP (NNS images)) (PP (IN from) (NP (DT a) (JJ single) (NN printer))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (VP (VB Let) (S (NP ($ $) (VB P) ($ $)) (VP (VB be) (NP (NP (DT a) (JJ simple) (NN polytope)) (PP (IN with) (NP ($ $) (JJ n-d)) (VP (NNP =) (NP (CD 2) ($ $)))) (, ,) (SBAR (WHADVP (WRB where)) (S (S (NP ($ $) (VB d) ($ $)) (VP (VBZ is) (NP (DT the) (NN dimension)))) (CC and) (S (NP ($ $) (JJ n) ($ $)) (VP (VBZ is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS facets)))))))))))) (. .))
+(S (NP (NP (DT The) (NN graph)) (PP (IN of) (NP (JJ such) (DT a) (NN polytope)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN called) (S (NP (DT a) (NN grid))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (JJ same) (NN bound)) (VP (VBZ holds) (PP (IN for) (NP (DT the) (ADJP (RBR more) (JJ general)) (JJ unique) (NN sink) (NNS orientations))))))) (. .))

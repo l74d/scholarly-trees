@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT the) (JJ first) (CD two) (JJ continuous) (NNS bloomings)) (PP (IN of) (NP (DT all) (NN convex) (NN polyhedra))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (DT the) (NN source) (NN unfolding)) (VP (MD can) (VP (VB be) (VP (ADVP (RB continuously)) (VBN bloomed)))) (. .))
+(S (ADVP (JJ Second)) (, ,) (NP (NP (DT any) (NN unfolding)) (PP (IN of) (NP (DT a) (NN convex) (NN polyhedron)))) (VP (MD can) (VP (VB be) (VP (VBN refined) (PRN (-LRB- -LRB-) (ADVP (JJ further)) (NN cut) (, ,) (PP (IN by) (NP (NP (DT a) (JJ linear) (NN number)) (PP (IN of) (NP (NNS cuts))))) (-RRB- -RRB-)) (S (VP (TO to) (VP (VB have) (NP (DT a) (JJ continuous) (NN blooming)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN successor) (NN node)) (VP (VBZ is) (VP (VBN selected) (PP (IN from) (NP (NP (DT the) (JJ topological) (NN neighborhood)) (PP (IN of) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (NNS nodes))))))) (PP (VBN based) (PP (IN on) (NP (DT this) (JJ stochastic) (NN pheromone) (NN deposit)))))) (. .))

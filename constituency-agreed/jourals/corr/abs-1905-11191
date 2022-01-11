@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN report)) (VP (MD will) (VP (VB develop) (CC and) (VB investigate) (NP (DT this) (NN concept)) (PP (IN by) (S (VP (VBG implementing) (NP (NP (NN foot) (NN control)) (PP (IN of) (NP (DT a) (JJ robotic) (JJ surgical) (NN arm))))))))) (. .))
+(S (PP (IN With) (NP (DT these) (JJ experimental) (NNS data))) (, ,) (NP (DT the) (NN mapping) (NNS models)) (VP (VBD were) (VP (VBN built) (CC and) (VBN verified))) (. .))

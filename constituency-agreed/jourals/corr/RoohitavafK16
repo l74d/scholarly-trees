@@ -1,0 +1,3 @@
+(S (S (VP (VBG Using) (NP (NNP HLC)))) (, ,) (NP (NNP GentleRain) (NN protocl)) (VP (VBZ is) (RB not) (ADJP (JJ sensitive) (PP (IN on) (NP (DT the) (NN clock) (NN skew)))) (ADVP (RB anymore))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (SBAR (RB even) (IN if) (S (NP (NNS clocks)) (VP (VBP go) (ADVP (RB backward))))) (, ,) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBZ is) (RB not) (VP (VBN violated))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN shown) (SBAR (IN that) (S (S (VP (VBG using) (NP (NP (NNP HLC)) (PP (RB instead) (IN of) (NP (JJ physical) (NN clock)))))) (VP (VBZ does) (RB not) (VP (VB have) (NP (DT any) (NN overhead)))))))) (. .))

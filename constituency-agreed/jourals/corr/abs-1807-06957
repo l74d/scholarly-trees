@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN discretization)) (PP (IN of) (NP (DT the) (NN action) (NN space))))))) (. .))
+(S (PP (IN Despite) (NP (DT the) (ADJP (RB commonly) (VBN used)) (NN discretization) (NNS methods))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ does) (RB not) (VP (VB increase) (NP (DT the) (JJ discretized) (NN problem) (NN dimensionality)) (ADVP (RB exponentially)))) (. .))

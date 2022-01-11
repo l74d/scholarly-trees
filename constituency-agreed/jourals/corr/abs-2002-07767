@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (NNS obstacles)) (PP (IN of) (NP (JJ abstractive) (NN summarization)))))) (VP (VBZ is) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ various) (ADJP (RB potentially) (JJ correct)) (NNS predictions))))) (. .))
+(S (ADVP (RB Rather)) (, ,) (NP (PRP they)) (VP (VBP act) (PP (IN as) (NP (DT a) (NN training) (NN noise)))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (NNS concepts)) (PP (IN from) (NP (JJ classical) (NN market) (NN equilibrium)))) (VP (MD can) (VP (VB be) (VP (VBN extended) (S (VP (TO to) (VP (VB reflect) (NP (JJ such) (NN uncertainty))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (JJ theoretical) (NN analysis)) (PP (IN of) (NP (NP (DT the) (JJ allocative) (NNS properties)) (PP (IN of) (NP (NNP RME)))))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN envy) (CC and) (NN regret)))))) (. .))

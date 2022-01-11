@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Lanczos) (NN method)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ powerful) (CC and) (JJ fundamental)) (NNS techniques)) (PP (IN for) (S (VP (VBG solving) (NP (DT an) (JJ extremal) (JJ symmetric) (NN eigenvalue) (NN problem))))))))) (. .))
+(S (PP (IN In) (NP (NN practice))) (, ,) (NP (DT this) (NN gap)) (VP (VBZ is) (ADVP (RB often)) (ADJP (RB relatively) (JJ small)) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (NP (JJ significant) (NNS overestimates)) (PP (IN of) (NP (NN error)))))))) (. .))

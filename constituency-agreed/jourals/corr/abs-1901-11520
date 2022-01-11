@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB achieve) (NP (NP (DT this) (NN level)) (PP (IN of) (NP (NN security))))))) (, ,) (NP (DT the) (NNP FAPI)) (VP (VBZ employs) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NP (NNS mechanisms)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB harden) (NP (NNP OAuth) (CD 2.0)))))))))))))) (. .))

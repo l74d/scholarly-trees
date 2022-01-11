@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (PRP we)) (VP (VBP model) (NP (NP (DT the) (NNS costs)) (VP (VBN experienced) (PP (IN by) (NP (DT the) (NNS vehicles))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (ADVP (RB always)) (VP (VBZ exists) (NP (NP (DT an) (NN equilibrium)) (PP (IN for) (NP (PRP$ our) (NN model)))))))) (. .))

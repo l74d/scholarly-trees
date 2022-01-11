@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN abstraction) (NN technique)) (VP (VBZ provides) (NP (NP (DT a) (JJ correct) (NN approximation)) (PP (IN of) (NP (DT the) (JJ concrete) (NN cost) (NNS computations)))))))) (. .))

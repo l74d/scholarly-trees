@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN consistency) (NNS rules)) (SBAR (WHNP (WDT that)) (S (VP (VBP disambiguate) (NP (NP (DT the) (NN meaning)) (PP (IN of) (NP (NNP UML) (JJ composite) (NNS structures))))))))))) (. .))
+(S (NP (DT This) (NN formalization)) (VP (VBD was) (VP (VBN applied) (PP (IN on) (NP (JJ different) (JJ complex) (NNS models))) (PP (IN for) (NP (NP (DT the) (NN evaluation) (CC and) (NN validation)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS principles))))))) (. .))

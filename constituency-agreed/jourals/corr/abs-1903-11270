@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT an) (JJ optimal) (NN scheduling) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ arises) (PP (IN in) (NP (DT this) (NN context)))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (JJ multiple) (NNS cells)) (VP (MD must) (VP (VB be) (VP (VBN scheduled) (ADVP (RB simultaneously)) (PP (IN for) (NP (JJ efficient) (NN operation)))))) (. .))

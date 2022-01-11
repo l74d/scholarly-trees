@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ grammatical) (NNS relations)) (VP (VBP are) (NP (NP (DT the) (JJ functional) (NN structure)) (PP (IN of) (NP (DT a) (NN language))))) (. .))
+(S (NP (PRP They)) (VP (VBP rely) (ADVP (RB very) (RB much)) (PP (IN on) (NP (NP (DT the) (NN function) (NN tag)) (PP (IN of) (NP (DT the) (NNS tokens)))))) (. .))

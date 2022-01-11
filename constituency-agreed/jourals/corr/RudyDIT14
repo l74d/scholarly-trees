@@ -1,0 +1,1 @@
+(S (NP (NN Regularization)) (VP (VBZ is) (ADJP (JJ essential)) (SBAR (WHADVP (WRB when)) (S (VP (VBG training) (NP (JJ large) (JJ neural) (NNS networks)))))) (. .))

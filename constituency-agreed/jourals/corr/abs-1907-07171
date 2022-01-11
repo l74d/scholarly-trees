@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ open) (NN secret)) (PP (IN in) (NP (JJ contemporary) (NN machine) (NN learning)))) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ many) (NNS models)) (VP (VP (VBP work) (ADVP (RB beautifully)) (PP (IN on) (NP (JJ standard) (NNS benchmarks)))) (CC but) (VP (VBP fail) (S (VP (TO to) (VP (VB generalize) (PP (IN outside) (NP (DT the) (NN lab))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (VBG existing) (NNS methods))) (, ,) (NP (DT this) (NN algorithm)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (JJ prior) (NN construction)) (PP (IN of) (NP (DT the) (NNP Delaunay) (NN triangulation)))))) (. .))
+(S (NP (NP (DT The) (JJ false) (NNS positives)) (PP (IN from) (NP (DT this) (NN estimation) (NN stage)))) (VP (VBP are) (VP (VBN removed) (PP (IN in) (NP (DT a) (JJ subsequent) (NN pruning) (NN stage))) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (JJ correct) (NN alpha) (NN complex))))))) (. .))

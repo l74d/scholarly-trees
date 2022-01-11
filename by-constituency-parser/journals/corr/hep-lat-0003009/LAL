@@ -1,0 +1,3 @@
+(S (NP (PRP I)) (VP (VBP describe) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS data) (NN management) (NNS issues)) (PP (IN in) (NP (NN lattice) (NNP Quantum) (NNP Chromodynamics) (NNS calculations))))))) (. .))
+(S (NP (PRP I)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN experience)) (PP (IN of) (NP (DT the) (NNP UKQCD) (NN collaboration)))))) (. .))
+(S (NP (PRP I)) (VP (VBP describe) (NP (DT an) (NN attempt) (S (VP (TO to) (VP (VB use) (NP (DT a) (JJ relational) (NN database)) (S (VP (TO to) (VP (VB store) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NNS data)) (VP (VBN produced) (PP (IN by) (NP (DT a) (NN lattice) (NNP QCD) (NN calculation))))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NNS ontologies)) (VP (VBP cover) (NP (VBG overlapping) (NNS topics))))) (, ,) (NP (DT the) (NN overlap)) (VP (MD can) (VP (VB be) (VP (VBN represented) (S (VP (VBG using) (NP (NN ontology) (NNS alignments))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN evaluation))) (, ,) (NP (DT the) (JJS best) (NNS classifiers)) (VP (VBD reached) (NP (NP (DT a) (NN precision)) (PP (IN of) (NP (CD 0.8))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Naturally)) (, ,) (NP (PRP$ its) (NNS predictions)) (VP (VBP are) (ADJP (RB relatively) (JJ coarse))) (. .))
+(S (NP (DT The) (JJ coarse) (NNS predictions)) (VP (VBP are) (VP (VBN treated) (PP (IN as) (NP (DT the) (JJ prior))) (S (VP (TO to) (VP (VB guide) (NP (NP (DT the) (NN feature) (NN learning)) (PP (IN of) (NP (JJ later) (NNS stages)))) (PP (IN for) (NP (DT a) (JJ accurate) (NN prediction)))))))) (. .))

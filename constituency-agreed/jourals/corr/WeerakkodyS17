@@ -1,0 +1,2 @@
+(S (S (VP (VBG Maintaining) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NN control) (NNS systems)))) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NN integrity) (NNS attacks))))))) (VP (VBZ is) (NP (DT a) (JJ significant) (NN challenge))) (. .))
+(S (NP (NP (JJ Potential) (NN attack) (NNS strategies)) (CC and) (NP (NP (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN attacker) (POS 's)) (NN performance))))) (VP (VBP are) (VP (VBN provided))) (. .))

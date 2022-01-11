@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Several) (JJ standard) (NNS theories)) (PP (IN of) (NP (NP (NN persistence)) (CC and) (NP (PRP$ their) (NN stability))))) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN in) (NP (DT this) (NN framework)))))) (. .))
+(S (NP (DT This)) (VP (VBZ includes) (NP (NP (DT the) (JJ classical) (NN case)) (PP (IN of) (NP (NN sublevelset) (JJ persistent) (NN homology))))) (. .))

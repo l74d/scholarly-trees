@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ serves) (PP (IN as) (NP (NP (DT a) (NN data) (NN exchange)) (PP (IN between) (NP (NP (NNS systems)) (CC and) (NP (JJ other) (NNS applications))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ determines) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN XML)) (VP (MD should) (VP (VB be) (VP (VBN fragmented))))))) (. .))

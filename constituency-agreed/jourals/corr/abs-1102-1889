@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NNS ologs)) (ADVP (RB carefully))) (CC and) (VP (VB illustrate) (PP (IN with) (NP (JJ many) (NNS examples))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT any) (JJ primitive) (JJ recursive) (NN function)) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN by) (NP (DT an) (NN olog))))))))) (. .))

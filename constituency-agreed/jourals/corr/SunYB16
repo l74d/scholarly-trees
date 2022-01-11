@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG completing) (NP (DT a) (ADJP (RB partially) (VBN observed)) (NN matrix) (NN network))))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP we)) (VP (VB recover) (NP (DT the) (JJ entire) (NN matrix) (NN network)) (PP (IN from) (NP (JJ incomplete) (NNS observations))))) (. ?))

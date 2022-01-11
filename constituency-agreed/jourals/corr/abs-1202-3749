@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ key) (NN insight)) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (JJS most) (NN action) (NNS sequences)) (PP (IN of) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS agents)))))) (VP (VBP have) (NP (NP (DT the) (JJ same) (NN effect)) (PP (IN on) (NP (DT a) (VBN given) (NN agent)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VP (VB treat) (NP (DT these) (NNS sequences)) (ADVP (RB similarly))) (CC and) (VP (VB use) (NP (JJR fewer) (NNS variables))))))) (. .))

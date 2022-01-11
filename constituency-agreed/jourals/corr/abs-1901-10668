@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Computations)) (PP (IN for) (NP (DT the) (NN softmax) (NN function)))) (VP (VBP are) (ADJP (RB significantly) (JJ expensive)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN output) (NNS classes)))) (VP (VBZ is) (ADJP (JJ large)))))) (. .))

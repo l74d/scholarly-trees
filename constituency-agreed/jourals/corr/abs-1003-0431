@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ symbolic) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (VBN timed) (NN automata)))))))) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ solves) (NP (NP (DT a) (NN path) (NN planning) (NN problem)) (PP (IN for) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS gliders))))))) (. .))
+(S (NP (DT The) (NNS gliders)) (VP (VBP are) (VP (VBN tasked) (PP (IN with) (S (VP (VBG visiting) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN interest) (NNS points))))))))) (. .))

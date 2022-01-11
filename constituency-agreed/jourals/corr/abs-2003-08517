@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (ADJP (RB fast) (VBG moving)) (NN conveyor) (NNS belts))) (, ,) (NP (DT the) (NN robot)) (VP (MD can) (RB not) (VP (VB wait) (PP (IN for) (NP (DT a) (JJ perfect) (NN estimate))) (SBAR (IN before) (S (NP (PRP it)) (VP (VBZ starts) (S (VP (VBG executing) (NP (PRP$ its) (NN motion))))))))) (. .))

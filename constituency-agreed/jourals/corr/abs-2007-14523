@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS models)) (VP (VP (VBP have) (NP (JJ large) (NN memory) (NNS requirements))) (CC and) (VP (VBP need) (NP (NP (DT a) (JJ huge) (NN amount)) (PP (IN of) (NP (NN training) (NNS data)))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (DT the) (VBN proposed) (NNS models)) (PP (IN on) (NP (CD two) (NN product) (NNS surfaces)))) (. .))

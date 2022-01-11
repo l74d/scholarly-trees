@@ -1,0 +1,2 @@
+(S (CC But) (, ,) (NP (DT these) (NNS tasks)) (ADVP (RB only)) (VP (VBP evaluate) (NP (JJ lexical) (NNS semantics)) (ADVP (RB indirectly))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (NN definition) (NN modeling)) (, ,) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG generating) (NP (NP (DT a) (NN definition)) (PP (IN for) (NP (NP (DT a) (VBN given) (NN word)) (CC and) (NP (PRP$ its) (NN embedding))))))))))) (. .))

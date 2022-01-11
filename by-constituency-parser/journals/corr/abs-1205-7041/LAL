@@ -1,0 +1,2 @@
+(S (PP (VBN Given) (NP (NP (NP (DT a) (JJ basic) (NN process) (NN algebra)) (PRN (-LRB- -LRB-) (NP (NNP BPA)) (-RRB- -RRB-))) (CC and) (NP (CD two) (NN stack) (NNS symbols)))) (, ,) (NP (DT the) (NNP BPA) (NN bisimilarity) (NN problem)) (VP (VBZ asks) (SBAR (IN whether) (S (NP (DT the) (CD two) (NN stack) (NNS symbols)) (VP (VBP are) (ADJP (JJ bisimilar)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN problem)) (VP (VBZ is) (ADJP (NNP EXPTIME-hard)))))) (. .))

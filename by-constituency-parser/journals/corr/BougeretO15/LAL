@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (ADJP (JJ trivial)) (PP (IN for) (NP (NP (DT the) (NN intersection)) (PP (IN of) (NP (DT these) (CD five) (NNS classes)))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (VBZ is) (ADJP (NNP NP-complete)) (PP (IN for) (NP (NP (DT the) (NN intersection)) (PP (IN of) (NP (NP (CD two) (NNS subsets)) (PP (IN of) (NP (NN size) (CD four))))) (PP (IN among) (NP (DT the) (CD five) (NNS classes))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (NP (NNP NP-completeness)) (PP (IN for) (NP (NP (JJ other) (JJ small) (NNS classes)) (, ,) (PP (JJ such) (IN as) (NP (NP (NP (NN graphs)) (PP (IN with) (NP (JJ maximum) (JJ degree) (CD 4)))) (CC and) (NP (NN line) (NN graphs))))))) (. .))

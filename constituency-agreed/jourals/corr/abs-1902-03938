@@ -1,0 +1,1 @@
+(S (NP (VBG Existing) (JJ multimodal) (NN translation) (NNS models)) (VP (VBP are) (ADVP (RB mainly)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ disentangled) (NNS representations)) (PP (IN with) (NP (DT an) (NN image) (NN reconstruction) (NN loss))))))) (. .))

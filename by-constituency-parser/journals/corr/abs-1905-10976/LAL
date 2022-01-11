@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ resulted) (NN dependence) (JJ epistemic) (JJ logic)) (VP (NNS possesses) (NP (NP (JJ decent) (NN expressivity)) (CC and) (NP (JJ beautiful) (NNS properties)))) (. .))
+(S (NP (NP (JJ Several) (JJ interesting) (NNS examples))) (VP (VBP are) (VP (VBN provided) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD highlight) (NP (NP (DT this) (NN logic) (POS 's)) (JJ practical) (NN usage))))))) (. .))
+(S (S (NP (NP (DT The) (NN logic) (POS 's)) (NN bisimulation)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN discussed)))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (ADJP (ADJP (NN sound)) (CC and) (ADJP (RB strongly) (JJ complete))) (NN axiomatization)) (PP (IN for) (NP (NP (DT a) (NN sub-language)) (PP (IN of) (NP (DT the) (NN logic)))))))) (. .))

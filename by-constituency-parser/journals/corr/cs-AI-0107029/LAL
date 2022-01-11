@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN implementation)) (PP (IN of) (NP (NP (DT an) (JJ answer-set) (NN programming) (NN paradigm)) (, ,) (VP (VBN called) (S (NP (S (NP (NN aspps))) (PRN (-LRB- -LRB-) (ADJP (JJ short) (PP (IN for) (NP (NP (JJ answer-set) (NN programming)) (PP (IN with) (NP (JJ propositional) (NN schemata)))))) (-RRB- -RRB-))))))))) (. .))
+(S (NP (DT The) (NN system) (NN aspps)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB process) (NP (NNP PS+) (NNS theories))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (JJ basic) (NNS modules)))) (. .))
+(S (NP (NP (DT The) (JJ first) (NN module)) (, ,) (NP (NN psgrnd)) (, ,)) (VP (VBZ grounds) (NP (DT an) (NNP PS+) (NN theory))) (. .))
+(S (NP (NP (DT The) (JJ second) (NN module)) (, ,) (VP (VBD referred) (PP (TO to)) (PP (IN as) (NP (NN aspps)))) (, ,)) (VP (VBZ is) (NP (DT a) (NN solver))) (. .))
+(S (NP (PRP It)) (VP (VBZ computes) (NP (NP (NNS models)) (PP (IN of) (NP (NN ground) (NNP PS+) (NNS theories))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ heterogeneous) (NN set)) (PP (IN of) (NP (NNS sensors)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB perform) (NP (DT this) (NN task)) (ADVP (RB robustly))))))) (. .))
+(S (SBAR (IN Since) (S (NP (ADJP (JJR more) (CC and) (JJR more)) (NN radar) (NNS sensors)) (VP (VBP are) (VP (VBN deployed) (PP (IN on) (NP (DT the) (NNS streets))))))) (, ,) (NP (JJ mutual) (NN interference)) (VP (MD must) (VP (VB be) (VP (VBN dealt) (PP (IN with))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP verify) (SBAR (IN that) (S (NP (NP (DT a) (NN controller)) (PP (IN with) (NP (NP (JJ strong) (NN robustness)) (PP (IN against) (NP (NNS disturbances)))))) (VP (VBZ is) (NP (NP (DT a) (JJ good) (NN choice)) (PP (IN for) (NP (JJ practical) (NNS applications)))))))) (. .))

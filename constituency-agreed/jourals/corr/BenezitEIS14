@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT these) (NNS schemes)))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ analytical) (NN modeling)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NNS schemes)) (VP (VBP achieve) (NP (JJ quasi-ideal) (NN load) (NN balancing)))))) (. .))

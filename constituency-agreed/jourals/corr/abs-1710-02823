@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG classifying) (NP (NN business) (NN process) (NNS instances)) (PP (VBN based) (PP (IN on) (NP (NP (JJ structural) (NNS features)) (VP (VBN derived) (PP (IN from) (NP (NN event) (NNS logs)))))))))))) (. .))

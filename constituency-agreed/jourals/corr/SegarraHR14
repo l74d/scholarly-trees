@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN similarity)) (PP (IN between) (NP (DT the) (VBN given) (NNS vectors)))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NN similarity)) (PP (IN of) (NP (DT the) (JJ respective) (NN diffusion) (NNS profiles))))))) (. .))
+(S (NP (DT The) (NN diffusion) (NN distance)) (VP (VBZ determines) (NP (NP (DT a) (NN distance)) (PP (IN between) (NP (NP (DT the) (NNS integrals)) (PP (IN of) (NP (DT the) (JJ diffused) (NNS signals))))))) (. .))

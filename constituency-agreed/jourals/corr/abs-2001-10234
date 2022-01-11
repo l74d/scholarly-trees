@@ -1,0 +1,1 @@
+(S (NP (NP (CD Two) (JJ iterative) (NNS algorithms)) (CC and) (NP (CD two) (JJ alternative) (NN optimization) (NNS algorithms))) (VP (VBP are) (ADVP (RB respectively)) (VP (VBN proposed) (S (VP (TO to) (VP (VB address) (NP (NP (DT the) (JJ non-convex) (NNS problems)) (VP (VBN formulated) (PP (IN in) (NP (DT this) (NN paper)))))))))) (. .))

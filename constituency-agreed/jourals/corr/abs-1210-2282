@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NN multi-threading)) (VP (VBZ is) (VP (VBN combined) (PP (IN with) (NP (NN tabling))))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB exploit) (NP (NP (DT the) (NN power)) (PP (IN of) (NP (NP (JJR higher) (JJ procedural) (NN control)) (CC and) (NP (JJ declarative) (NNS semantics))))))) (. .))

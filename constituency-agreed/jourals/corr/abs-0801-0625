@@ -1,0 +1,2 @@
+(S (NP (NP (NP (DT The) (NN algorithm) (POS 's)) (NN robustness)) (PP (IN against) (NP (NN collusion) (NNS attacks)))) (VP (VBZ is) (VP (VBN investigated))) (. .))
+(S (NP (NNS Analyses) (CC and) (NNS experiments)) (VP (VBP are) (VP (VBN given) (S (VP (TO to) (VP (VB show) (NP (DT the) (NNS improvements))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBD evaluated) (NP (NP (JJ several) (NNS configurations)) (PP (IN of) (NP (DT a) (JJ multi-scale) (NNP CNN) (NN architecture)))) (SBAR (IN until) (S (NP (NN training) (CC and) (NN validation) (NNS accuracies)) (VP (VBD became) (ADJP (JJ consistent)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ requires) (NP (NP (DT an) (JJ invasive) (NN biopsy)) (, ,) (VP (VBN followed) (PP (IN by) (NP (NP (JJ histological) (NN evaluation)) (PP (IN for) (NP (NN diagnosis)))))))) (. .))
+(S (ADVP (RB Also)) (, ,) (PP (IN during) (NP (NN tumor) (NN resection))) (, ,) (NP (NN tumor) (NNS margins)) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN verified) (PP (IN by) (NP (JJ histological) (NN analysis)))))))) (. .))

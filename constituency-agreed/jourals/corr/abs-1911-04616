@@ -1,0 +1,2 @@
+(S (NP (CD Three) (NNS models)) (VP (VBP are) (VP (VBN created) (PP (IN with) (NP (NP (JJ different) (NNS assumptions)) (ADJP (JJ suitable) (PP (IN for) (NP (JJ different) (NNS cases)))))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG making) (NP (DT an) (NN inference))))) (, ,) (NP (PRP we)) (VP (VBP keep) (NP (NP (DT a) (NN balance)) (PP (IN between) (NP (DT the) (NN accuracy) (CC and) (NN complexity))))) (. .))

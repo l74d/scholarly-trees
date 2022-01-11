@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN prediction) (NN accuracy)) (PP (IN of) (NP (JJ equal) (NN width) (NN bin) (NN partitioning)))) (VP (VBZ is) (NP (CD 57.7) (NN %)) (SBAR (IN while) (S (NP (NP (DT the) (NN accuracy)) (VP (VBN achieved) (PP (IN after) (S (VP (VBG optimising) (NP (DT the) (NNS partitions))))))) (VP (VBZ is) (NP (CD 72.8) (NN %)))))) (. .))

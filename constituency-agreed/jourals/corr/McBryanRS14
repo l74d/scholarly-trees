@@ -1,0 +1,2 @@
+(S (NP (NNP Computer) (NNS users)) (VP (VBP are) (ADVP (RB generally)) (VP (VBN authenticated) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT a) (NN password))))))) (. .))
+(S (S (NP (DT Some) (NNS people)) (VP (VBP write) (NP (PRP$ their) (NNS passwords)) (PRT (RP down)))) (CC but) (S (NP (DT these) (NNS records)) (VP (MD can) (ADVP (RB easily)) (VP (VB be) (VP (VBN lost) (CC or) (VBN stolen))))) (. .))

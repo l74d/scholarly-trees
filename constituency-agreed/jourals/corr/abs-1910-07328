@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN result)) (PP (IN of) (NP (NN tomography)))) (VP (VBZ is) (NP (DT a) (JJ gray) (NN image))) (. .))
+(S (NP (NP (NN Image) (NN filtering)) (PP (IN as) (NP (DT a) (JJ preprocessing) (NN procedure)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NN segmentation))))))))) (. .))
+(S (ADVP (RB Nevertheless)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN problem)) (PP (IN of) (S (VP (VBG choosing) (NP (DT an) (JJ optimal) (NN filter))))))) (. .))

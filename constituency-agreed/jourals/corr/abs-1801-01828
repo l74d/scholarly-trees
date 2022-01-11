@@ -1,0 +1,2 @@
+(S (NP (NP (DT This) (NN kind)) (PP (IN of) (NP (NN hostility)))) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN expressed) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (JJ toxic) (NN language)) (, ,) (NP (NN profanity)) (CC or) (NP (JJ abusive) (NNS statements)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (ADVP (RB firstly)) (VP (VBP characterise) (NP (JJ such) (JJ adversarial) (NNS attacks)) (PP (IN as) (S (VP (VBG using) (NP (NP (NN obfuscation)) (CC and) (NP (NN polarity) (NNS transformations))))))) (. .))

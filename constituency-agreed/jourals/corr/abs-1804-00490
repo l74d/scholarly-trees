@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ requires) (NP (JJ huge) (NN training) (NN dataset))) (. .))
+(S (NP (DT This) (NN scheme)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB train) (NP (DT the) (NN network)) (PP (IN without) (NP (DT the) (NN privacy) (NNS issues))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT a) (JJ simple) (JJ learnable) (NN image) (NN encryption) (NN algorithm)) (VP (VBZ is) (VP (VBN proposed))) (. .))

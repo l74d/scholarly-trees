@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN research))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN optimization) (NNS challenges)) (PP (IN of) (NP (NP (NNP MANET)) (CC and) (NP (NN cross-layer) (NN technique))))) (S (VP (TO to) (VP (VB improve) (NP (PRP$ its) (NN performance)))))) (. .))
+(S (NP (DT The) (NNP MAC) (NN layer)) (VP (VBZ utilizes) (NP (DT the) (JJ physical) (NN layer) (NN information)) (PP (IN for) (S (VP (VBG differentiating) (NP (JJ false) (NN link) (NN failure)) (PP (IN from) (NP (JJ true) (NN link) (NN failure))))))) (. .))

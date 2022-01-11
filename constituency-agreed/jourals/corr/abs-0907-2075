@@ -1,0 +1,2 @@
+(S (NP (JJ Medical) (NN image) (NN registration)) (VP (VBZ is) (NP (DT a) (JJ difficult) (NN problem))) (. .))
+(S (NP (DT This)) (VP (VBZ transforms) (NP (NN image) (NNS intensities)) (PP (IN into) (NP (NP (DT a) (JJ standard) (NN intensity) (NN scale)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (NP (NP (ADJP (RB highly) (JJ accurate)) (NN registration)) (PP (IN of) (NP (JJ medical) (NNS images)))))))))) (. .))

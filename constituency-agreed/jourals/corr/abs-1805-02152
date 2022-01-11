@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN teacher) (NN network)) (VP (VBZ is) (VP (VBN quantized))))) (, ,) (NP (NP (DT the) (NN search) (NN scope)) (PP (IN of) (NP (DT the) (NN student) (NN network)))) (VP (MD will) (VP (VB be) (ADJP (JJR smaller)))) (. .))
+(S (S (VP (VBG Using) (NP (NP (DT this) (NN feature)) (PP (IN of) (NP (DT the) (NN quantization)))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NNP Quantization) (NNP Mimic))) (. .))

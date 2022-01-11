@@ -1,0 +1,3 @@
+(S (ADVP (RB Recently)) (, ,) (S (NP (JJ social) (NN infrastructure)) (VP (VBZ is) (VP (VBG aging)))) (, ,) (CC and) (S (NP (PRP$ its) (JJ predictive) (NN maintenance)) (VP (VBZ has) (VP (VBN become) (NP (JJ important) (NN issue))))) (. .))
+(S (PP (IN For) (NP (NN diagnosis))) (, ,) (NP (JJ primary) (NN damage) (NN region)) (VP (VBP are) (VP (VBN recognized) (PP (IN for) (NP (NN repair) (NNS targets))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (NNP Sobel) (NN gradient) (NN operator)) (S (VP (TO to) (VP (VB enhance) (NP (NN structure) (NN edge)))))) (. .))

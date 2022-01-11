@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ explicit) (NN formula)) (PP (IN for) (NP (NP (DT the) (NNS coefficients)) (PP (IN of) (NP (DT the) (JJ implicit) (NN curve)))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (NNS conditions)) (PP (IN for) (SBAR (WHADVP (WRB when)) (S (NP (DT an) (JJ unwanted) (NN singularity)) (VP (VBZ occurs) (PP (IN in) (NP (NP (DT the) (NN region)) (PP (IN of) (NP (NN interest))))))))))) (. .))

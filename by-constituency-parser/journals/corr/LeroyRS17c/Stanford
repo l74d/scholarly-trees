@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP count) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (JJ distinct) (-LRB- -LRB-) (JJ scattered) (-RRB- -RRB-) (NNS subwords)) (VP (VBG occurring) (PP (IN in) (NP (NP (DT the) (NML (NN base) (HYPH -) (NN b)) (NN expansion)) (PP (IN of) (NP (DT the) (JJ non-negative) (NNS integers)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN robot)) (SBAR (WHNP (WDT that)) (S (VP (VBZ moves) (PP (IN by) (NP (JJ successive) (NNS revolvings)))))))) (. .))
+(S (NP (NP (DT The) (NN robot) (POS 's)) (NN structure)) (VP (VBZ is) (VP (VBN analyzed) (, ,) (VBN simulated) (CC and) (VBN discussed) (PP (IN in) (NP (NN detail))))) (. .))

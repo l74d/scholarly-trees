@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB minimize) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NN sensor) (NNS failures))))))) (, ,) (NP (PRP we)) (VP (MD must) (VP (VB detect) (NP (PRP them)) (ADVP (RB promptly) (CC and) (RB accurately)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP characterize) (NP (NP (JJ critical) (NNS sensors)) (, ,) (SBAR (WHNP (WP$ whose) (NN failure)) (S (VP (MD can) (VP (VB have) (NP (NP (JJ high) (NN impact)) (PP (IN on) (NP (DT the) (NN route) (NN planning) (NN application)))))))))) (. .))

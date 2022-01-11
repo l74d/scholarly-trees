@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (NP (NNS issues)) (PP (IN in) (NP (JJ automated) (NN treebank) (NN construction))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ standard) (JJ part-of-speech) (NN tagging) (NNS techniques)) (VP (VBP extend) (PP (TO to) (NP (NP (DT the) (ADJP (RBR more) (JJ general)) (NN problem)) (PP (IN of) (NP (JJ structural) (NN annotation))) (, ,) (PP (ADVP (RB especially)) (IN for) (S (VP (VBG determining) (NP (NP (JJ grammatical) (NNS functions)) (CC and) (NP (JJ syntactic) (NNS categories)))))))))))) (. .))
+(S (NP (NN Annotation)) (VP (VBZ is) (VP (VBN viewed) (PP (IN as) (NP (NP (DT an) (JJ interactive) (NN process)) (SBAR (WHADVP (WRB where)) (S (NP (NN manual) (CC and) (JJ automatic) (NN processing)) (VP (NN alternate)))))))) (. .))
+(S (NP (NN Efficiency) (CC and) (NN accuracy) (NNS results)) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (JJ further) (NN automation) (NNS steps))) (. .))

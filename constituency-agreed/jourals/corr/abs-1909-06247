@@ -1,0 +1,1 @@
+(S (NP (NNP Speaker) (NN diarization)) (VP (VBZ has) (VP (VBN been) (ADVP (RB mainly)) (VP (VBN developed) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN clustering)) (PP (IN of) (NP (NN speaker) (NNS embeddings))))))))) (. .))

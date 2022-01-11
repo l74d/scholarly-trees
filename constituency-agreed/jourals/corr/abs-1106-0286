@@ -1,0 +1,2 @@
+(S (NP (DT Another) (NN dimension)) (VP (VBZ is) (NP (NN similarity))) (. .))
+(S (NP (DT The) (NN framework)) (VP (VBZ admits) (NP (NP (DT a) (JJ geometric) (NN interpretation)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NN popularity) (NN preference)) (VP (VBZ emerges) (PP (IN from) (NP (JJ local) (NN optimization)))))))) (. .))

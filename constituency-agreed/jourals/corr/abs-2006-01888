@@ -1,0 +1,1 @@
+(S (NP (NP (VBG Existing) (NN work)) (PP (IN on) (NP (NP (JJ adversarial) (NNS images)) (PP (IN in) (NP (NN recommender) (NNS systems)))))) (VP (VBZ investigates) (NP (NP (DT the) (NNS implications)) (PP (IN of) (NP (NP (JJ conventional) (NNS attacks)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP target) (NP (JJ deep) (NN learning) (NNS classifiers))))))))) (. .))

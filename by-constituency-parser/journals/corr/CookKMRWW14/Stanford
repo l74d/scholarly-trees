@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (NNP November) (CD 1998))) (NP (DT the) (NNS authors)) (VP (VBD participated) (PP (IN in) (NP (NP (DT a) (NML (CD two) (HYPH -) (NN day)) (NN workshop)) (PP (IN on) (NP (DT the) (NN Object) (NML (NNP Constraint) (NNP Language)) (PRN (-LRB- -LRB-) (NP (NNP OCL)) (-RRB- -RRB-)))))) (PP (IN in) (NP (NNP Amsterdam)))) (. .))
+(S (NP (DT The) (NN focus)) (VP (VBD was) (S (VP (VP (TO to) (VP (VB clarify) (NP (NNS issues)) (PP (IN about) (NP (NP (DT the) (NNS semantics)) (CC and) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNP OCL)))))))) (, ,) (CC and) (VP (TO to) (VP (VB discuss) (NP (NP (ADJP (JJ useful) (CC and) (JJ necessary)) (NNS extensions)) (PP (IN of) (NP (NN OCL))))))))) (. .))
+(S (NP (JJ Various) (NNS topics)) (VP (VBP have) (VP (VBN been) (VP (VBN raised) (CC and) (VBN clarified)))) (. .))
+(S (NP (DT This) (NN manifesto)) (VP (VBZ contains) (NP (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (DT that) (NN workshop)))) (CC and) (NP (NP (DT the) (VBG following) (NN work)) (PP (IN on) (NP (DT these) (NNS topics)))))) (. .))
+(NP (NP (NN Overview)) (PP (IN of) (NP (NN OCL))) (. .))

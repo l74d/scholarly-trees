@@ -1,0 +1,1 @@
+(S (ADVP (RB Instead)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (JJ pseudo) (NN training) (NNS examples)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN optimized) (PP (IN as) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (NN model) (NNS parameters))))))))))) (. .))

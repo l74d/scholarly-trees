@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (CD two) (NNS types)) (PP (IN of) (NP (NN consistency))))) (. .))
+(S (CC But) (PP (IN for) (NP (JJ heteroskedastic) (NNS models))) (, ,) (NP (DT a) (NN counterexample)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (NP (DT the) (CD two) (NNS types)) (PP (IN of) (NP (NN consistency)))) (VP (VBP do) (RB not) (VP (VB coincide)))))))))) (. .))

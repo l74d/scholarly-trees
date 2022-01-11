@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB analyse) (NP (NN information) (NNS flows)))))))) (. .))
+(S (NP (DT The) (JJ same) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (DT a) (JJ full) (NN network) (NN emulation)))))) (. .))

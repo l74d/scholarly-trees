@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG estimating) (NP (NN brain) (NN connectivity))))) (NP (DT a) (NN challenge)) (VP (VBZ is) (VP (VBN imposed) (PP (IN by) (NP (NP (NP (DT the) (NN paucity)) (PP (IN of) (NP (NN time) (NNS samples)))) (CC and) (NP (NP (DT the) (JJ large) (NN dimensionality)) (PP (IN of) (NP (DT the) (NNS measurements)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (NNS examples)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (NP (NNS properties)) (PP (IN of) (NP (DT some) (JJ recursive) (NNS functions)))) (VP (MD may) (VP (VB be) (VP (VBN established) (PP (IN in) (NP (PRP$ our) (NN system))))))))))) (. .))
+(S (NP (DT The) (NN proof)) (VP (VBZ is) (PP (IN by) (NP (NN model) (NN construction)))) (. .))

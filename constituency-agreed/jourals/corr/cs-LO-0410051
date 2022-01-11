@@ -1,0 +1,1 @@
+(S (NP (NP (NNP C++) (NNP Simulator)) (PP (IN of) (NP (NP (DT a) (NNP Turing) (NN machine)) (PP (IN with) (NP (NNS faults) (, ,) (NNS failures) (CC and) (NN recovery)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN developed)))) (. .))

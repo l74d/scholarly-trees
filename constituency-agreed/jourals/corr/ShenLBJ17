@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT an) (NN instance)) (PP (IN of) (NP (NP (DT a) (JJ broad) (NN family)) (PP (IN of) (NP (NP (NNS problems)) (PP (VBG including) (NP (NP (NN machine) (NN translation)) (, ,) (NP (NN decipherment)) (, ,) (CC and) (NP (NN sentiment) (NN modification)))))))))) (. .))
+(S (NP (DT The) (JJ key) (NN challenge)) (VP (VBZ is) (S (VP (TO to) (VP (VB separate) (NP (DT the) (NN content)) (PP (IN from) (NP (NP (JJ other) (NNS aspects)) (PP (JJ such) (IN as) (NP (NN style))))))))) (. .))

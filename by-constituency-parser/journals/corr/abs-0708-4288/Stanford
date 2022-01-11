@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (NP (JJ efficient) (NNS algorithms)) (PP (IN for) (NP (JJ combinatorial) (NN pattern) (NN matching))))))) (. .))
+(S (NP (NP (JJR More)) (ADVP (RB concretely))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (NP (NNS algorithms)) (PP (IN for) (NP (NN tree) (NN matching)))) (, ,) (NP (NN string) (NN matching)) (, ,) (CC and) (NP (NP (NN string) (NN matching)) (PP (IN in) (NP (ADJP (JJ compressed)) (NNS texts)))))) (. .))

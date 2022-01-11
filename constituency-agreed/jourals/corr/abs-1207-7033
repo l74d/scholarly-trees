@@ -1,0 +1,2 @@
+(S (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (ADJP (NP (CD 165) (NN year)) (JJ old)) (NN result)) (PP (IN in) (NP (NN graph) (NN theory)))))) (CC and) (S (NP (DT the) (NN proof)) (VP (VBZ is) (ADJP (RB conceptually) (JJ simple)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN elegance)) (PP (IN of) (NP (DT this) (NN result)))) (VP (VBZ is) (SBAR (S (NP (PRP it)) (VP (VBZ connects) (NP (NP (JJ many) (ADJP (RB apparently) (JJ unrelated)) (NNS concepts)) (PP (IN in) (NP (NP (JJ linear) (NN algebra)) (CC and) (NP (NN graph) (NN theory))))))))) (. .))

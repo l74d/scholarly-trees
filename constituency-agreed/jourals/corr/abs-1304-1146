@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT A) (NN measure)) (PP (IN of) (NP (NN conflict)))) (VP (VBZ is) (VP (VBN defined)))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (JJ medical) (JJ diagnostic) (NN system)) (NP (NNP MUNIN))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN discussed) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB distinguish) (PP (IN between) (NP (NP (VBG conflicting) (NNS data)) (CC and) (NP (DT a) (JJ rare) (NN case)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ recent) (NNS experiments)) (VP (VBP have) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ small) (, ,) (JJ imperceptible) (NNS perturbations)) (VP (MD can) (VP (VB change) (NP (DT the) (NN network) (NN prediction)))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NNS experiments))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN defense))))) (. .))

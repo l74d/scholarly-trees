@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NN word) (NN recognition)) (PP (IN in) (NP (JJ natural) (NNS images)))) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT an) (JJ open) (NN problem)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB generally)) (VP (VBZ requires) (NP (ADJP (NN time) (VBG consuming)) (JJ post-processing) (NNS steps))))))) (. .))

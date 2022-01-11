@@ -1,0 +1,5 @@
+(S (NP (JJ Non-linear) (NNS techniques)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB optimize) (NP (NP (DT the) (JJ harvested) (NN energy)) (PP (IN from) (NP (ADJP (JJ piezoelectric) (CC and) (JJ electromagnetic)) (NNS generators))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT an) (JJ analytical) (NN study)) (PP (IN for) (NP (NP (DT the) (NN voltage) (NN amplification)) (VP (VBN obtained) (PP (IN from) (NP (DT these) (NNS techniques)))))))) (. .))
+(S (NP (DT The) (JJ analytical) (NN study)) (VP (VBZ is) (VP (ADVP (RB experimentally)) (VBN validated) (S (VP (VBG using) (NP (NP (DT a) (JJ macro) (NN model)) (PP (IN of) (NP (JJ piezoelectric) (NN generator)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN integration) (NNS influences)) (PP (IN on) (NP (DT these) (NNS techniques)))) (VP (VBZ is) (VP (VBN studied))) (. .))
+(S (PP (IN Through) (NP (PDT all) (DT the) (VBN obtained) (NNS results))) (, ,) (NP (NP (DT a) (JJ suitable) (NN structure)) (PP (IN for) (NP (JJ autonomous) (NNS microsystems)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

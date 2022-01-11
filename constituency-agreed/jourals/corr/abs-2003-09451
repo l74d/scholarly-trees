@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (NP (DT any) (JJ practical) (NNS systems)) (PP (IN with) (NP (JJ finite) (NN memory) (NN length))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP use) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ numerical) (NNS examples)))) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method)))))))) (. .))

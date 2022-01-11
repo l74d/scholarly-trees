@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ underlying) (NN idea)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (S (VP (TO to) (VP (VB generate) (NP (DT the) (JJ optimal) (NN projection) (NN matrix)) (PP (IN by) (S (VP (VBG retaining) (NP (NP (DT the) (JJ original) (NN distribution)) (PP (IN of) (NP (DT the) (NNS data))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT an) (JJ iterative) (NN algorithm)) (VP (VBZ is) (VP (VBN described) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN optimization) (NN problem))))))) (. .))

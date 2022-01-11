@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (JJ extended) (NN abstract))) (NP (PRP we)) (VP (VBP look) (PP (IN at) (NP (NP (CD two) (JJ open) (NNS questions)) (PP (IN about) (NP (DT this) (NN algorithm)))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (VBZ does) (NP (PRP it)) (VP (VB perform) (PP (IN on) (NP (NP (JJ real) (JJ social) (NNS networks)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (NP (JJ complex) (NNS topologies)) (VP (VBN structured) (PP (IN in) (NP (NNS communities)))))))))))) (. ?))

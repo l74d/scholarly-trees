@@ -1,0 +1,2 @@
+(S (NP (JJS Most) (JJ supervised) (NN learning) (NNS models)) (VP (VBP are) (VP (VBN trained) (PP (IN for) (NP (JJ full) (NN automation))))) (. .))
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (DT this) (JJ empirical) (NN observation))))) (, ,) (NP (PRP$ our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB design) (NP (NP (NNS classifiers)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN optimized) (S (VP (TO to) (VP (VB operate) (PP (IN under) (NP (JJ different) (NN automation) (NNS levels))))))))))))))) (. .))

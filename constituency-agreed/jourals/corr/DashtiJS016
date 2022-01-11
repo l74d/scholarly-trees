@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN dependency) (NN graph)) (ADVP (RB also)) (VP (VBZ contains) (NP (NP (DT the) (NNS constructs)) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN validation) (NN phase)) (PP (IN of) (NP (DT the) (NNP MVCC) (NN algorithm)))))))) (. .))

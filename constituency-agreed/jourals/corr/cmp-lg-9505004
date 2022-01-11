@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ rectifies) (NP (DT the) (NN situation)) (PP (IN by) (S (VP (VBG providing) (NP (NP (DT a) (JJ mathematical) (NNS semantics)) (PP (IN for) (NP (NNP DATR)))))))) (. .))
+(S (NP (DT The) (JJ formal) (NN model)) (VP (VBZ provides) (NP (NP (DT a) (JJ transparent) (NN treatment)) (PP (IN of) (NP (NP (NP (NNP DATR) (POS 's)) (NN notion)) (PP (IN of) (NP (JJ global) (NN context))))))) (. .))

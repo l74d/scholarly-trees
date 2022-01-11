@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN equipped) (PP (IN with) (NP (NP (DT an) (JJ external) (NN memory) (NN component)) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (S (NP (PRP it)) (VP (TO to) (VP (VB integrate) (NP (NP (NN information)) (VP (VBN gathered) (PP (IN from) (NP (NP (JJ different) (NNS parts)) (PP (IN of) (NP (DT the) (NN graph))))))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN model)))) (PP (IN through) (NP (JJ various) (NNS experiments)))) (. .))

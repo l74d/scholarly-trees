@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (ADVP (RB recently)) (VP (VBN shown) (SBAR (IN that) (S (NP (DT a) (JJ convolutional) (JJ neural) (NN network)) (VP (MD can) (VP (VB learn) (NP (JJ optical) (NN flow) (NN estimation)) (PP (IN with) (NP (JJ unsupervised) (NN learning)))))))))) (. .))

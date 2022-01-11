@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (NP (DT the) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (VBG using) (NP (NP (JJ stochastic) (NN gradient) (NN descent)) (CC and) (NP (DT the) (NN backpropagation) (NN algorithm))))))) (. .))

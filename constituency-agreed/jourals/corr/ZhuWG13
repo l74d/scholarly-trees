@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN perturbation)) (PP (IN on) (NP (DT the) (VBG sensing) (NN matrix)))) (VP (VBZ exacerbates) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP ML) (NN estimator)))) (PP (IN in) (NP (JJS most) (NNS cases))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ suitable) (NN perturbation)) (VP (MD may) (VP (VB improve) (NP (DT the) (NN performance)) (PP (IN in) (NP (DT some) (JJ special) (NNS cases))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (JJ numerical) (NNS simulations)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB validate) (NP (PRP$ our) (JJ theoretical) (NN analysis))))))) (. .))

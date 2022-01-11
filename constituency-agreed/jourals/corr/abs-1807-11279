@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (CC and) (VBN tested) (PP (DT both) (PP (IN on) (NP (JJ synthetic) (NNS data))) (CC and) (PP (IN on) (NP (ADJP (RB publicly) (JJ available)) (JJ real) (NN dataset))))))) (. .))
+(S (NP (DT The) (NNS experiments)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (NN method)) (VP (VBZ is) (ADJP (ADJP (JJ correct)) (, ,) (ADJP (RB numerically) (JJ stable)) (CC and) (ADJP (JJ robust))))))) (. .))

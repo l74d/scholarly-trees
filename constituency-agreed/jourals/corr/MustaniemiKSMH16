@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NN process))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP perform) (NP (NP (DT a) (ADJP (JJ temporal) (CC and) (JJ spatial)) (NN alignment)) (PP (IN of) (NP (NP (DT the) (NN camera)) (CC and) (NP (DT the) (NNP IMU)))))) (. .))

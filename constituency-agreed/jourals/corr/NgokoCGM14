@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ complete) (NN solution))) (. .))
+(S (PP (IN Among) (NP (NP (DT the) (VBG existing) (NNS techniques)) (PP (IN for) (S (VP (VBG solving) (NP (NNP CSP))))))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (DT the) (NN backtracking))) (. .))
+(S (NP (DT The) (VBN proposed) (NNS variants)) (VP (VBP are) (VP (VBN inspired) (PP (IN by) (NP (NP (VBG existing) (NNS heuristics)) (PP (IN for) (NP (DT the) (NNP CSP))))))) (. .))

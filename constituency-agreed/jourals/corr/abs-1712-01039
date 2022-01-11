@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN network)) (VP (VBZ consists) (PP (IN of) (NP (CD three) (NNS parts)))) (. .))
+(S (NP (NP (DT The) (JJ initial) (NN disparity)) (CC and) (NP (DT the) (VBN shared) (NNS features))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB calculate) (NP (NP (DT the) (NN feature) (NN constancy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ measures) (NP (NP (NN correctness)) (PP (IN of) (NP (NP (DT the) (NN correspondence)) (PP (IN between) (NP (CD two) (NN input) (NNS images))))))))))))))) (. .))

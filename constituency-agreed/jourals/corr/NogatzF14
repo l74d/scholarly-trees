@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT an) (NN implementation)) (PP (IN of) (NP (DT a) (NN language) (NN translator))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NNP Prolog) (CC and) (NNP CHR))))) (. .))

@@ -1,0 +1,1 @@
+(S (CC But) (NP (DT the) (NN problem)) (VP (VBZ is) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NNS deadlines)))) (VP (VBZ is) (ADJP (JJ large) (RB enough))))) (, ,) (ADVP (RB then)) (NP (JJR lower) (NN priority) (NNS queues)) (VP (VBP have) (S (VP (TO to) (VP (VB starve)))))))) (. .))

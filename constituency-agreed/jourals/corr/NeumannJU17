@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN estimation)) (PP (IN of) (NP (DT the) (NN covariance) (NNS matrices)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN impeded) (PP (IN by) (NP (DT the) (NN interference))) (PP (IN during) (NP (DT the) (NN training) (NN phase))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN coherence) (NN interval)) (PP (IN of) (NP (DT the) (NN covariance) (NNS matrices)))) (VP (VBZ is) (ADJP (ADJP (JJR larger)) (PP (IN than) (NP (NP (DT that)) (PP (IN of) (NP (DT the) (NN channel) (NNS vectors))))))) (. .))

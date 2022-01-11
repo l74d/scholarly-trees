@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ main) (NN advantage)) (PP (IN of) (NP (DT this) (NN generalization)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ inherits) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT the) (JJ original) (NNP Fourier) (NN theorem)))))))))) (. .))
+(S (NP (DT The) (JJ new) (NN tool)) (VP (MD will) (VP (VB be) (VP (VBN compared) (PP (IN with) (NP (NNS wavelets) (CC and) (NNS frames)))))) (. .))
+(S (NP (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (NNS properties)))) (, ,) (CC and) (NP (NP (NNS applications)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (ADVP (RB promptly)) (VP (VB benefit) (PP (IN from) (NP (DT the) (NN theory)))))))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN discussed)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (JJ contrastive) (NN regularizer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (NP (NP (DT a) (JJ natural) (NN notion)) (PP (IN of) (NP (NN disentanglement)))) (: :) (NP (NN latent) (NN traversal)))))))))) (. .))

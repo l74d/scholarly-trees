@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ automotive) (NNS cars) (CC and) (NNS robots)) (VP (VBP are) (VP (VBN equipped) (PP (IN with) (NP (NP (DT a) (JJ large) (NN suite)) (PP (IN of) (NP (NNS sensors))))) (S (VP (TO to) (VP (VB achieve) (NP (DT a) (JJ high) (NN redundancy))))))) (. .))
+(S (PP (IN For) (NP (NP (DT the) (JJS best)) (PP (IN of) (NP (PRP$ our) (NN knowledge))))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (JJ first) (JJ realistic) (NNS data) (NN augmentation)) (PP (IN for) (NP (JJ automotive) (NNS ultrasonics))))) (. .))

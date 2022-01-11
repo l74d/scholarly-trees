@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many) (JJ different) (NNS types)) (PP (IN of) (NP (JJ empirical) (NNS methods)))) (VP (VBP are) (VP (VBN applied) (S (VP (TO to) (VP (VB pinpoint) (NP (NP (DT the) (NNS strengths) (CC and) (NNS weaknesses)) (PP (IN of) (NP (DT the) (NN approach))))))))) (. .))
+(S (NP (DT A) (ADJP (RB fully) (JJ automatic)) (NN system)) (VP (VBZ has) (VP (VBN been) (VP (VBN developed) (CC and) (VBN evaluated) (PP (IN on) (NP (JJ unseen) (NN test) (NNS data))) (, ,) (PP (IN with) (NP (NP (JJ good) (NNS results)) (PP (IN on) (NP (DT both) (NNS data) (NNS sets)))))))) (. .))

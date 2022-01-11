@@ -1,0 +1,3 @@
+(S (NP (JJ High) (NN annotation) (NNS costs)) (VP (VBP are) (NP (NP (DT a) (JJ major) (NN bottleneck)) (PP (IN for) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (JJ semantic) (NN segmentation) (NNS systems))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (NNS methods)) (VP (VBG working) (PP (IN with) (NP (JJR less) (NN annotation) (NN effort))))) (VP (VBP are) (PP (IN of) (NP (JJ special) (NN interest)))) (. .))
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (RB only) (DT a) (JJ small) (NN subset)) (PP (IN of) (NP (DT the) (NN training) (NNS images)))) (VP (VBZ is) (VP (VBN annotated) (SBAR (IN while) (S (NP (DT the) (JJ other) (NN training) (NNS images)) (VP (VBP do) (RB not) (VP (VB contain) (NP (DT any) (NN annotation))))))))))) (. .))

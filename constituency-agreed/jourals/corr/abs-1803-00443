@@ -1,0 +1,1 @@
+(S (NP (JJ Recent) (NNS methods)) (ADVP (RB also)) (VP (VBP match) (NP (NP (DT the) (NNPS Jacobians)) (, ,) (CC or) (NP (NP (DT the) (NN gradient)) (PP (IN of) (NP (NN output) (NNS activations))))) (PP (IN with) (NP (DT the) (NN input)))) (. .))

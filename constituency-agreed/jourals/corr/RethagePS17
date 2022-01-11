@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS modifications)) (VP (VBP make) (S (NP (DT the) (NN model)) (ADJP (RB highly) (JJ parallelizable) (PP (IN during) (NP (DT both) (NN training) (CC and) (NN inference)))))) (. .))

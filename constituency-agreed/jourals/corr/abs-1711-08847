@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN analysis)) (VP (VP (VBZ is) (ADJP (RB fully) (JJ automatic))) (CC and) (VP (VBZ derives) (NP (NP (JJ symbolic) (NNS bounds)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (NP (NP (JJ multivariate) (NNS polynomials)) (PP (IN of) (NP (DT the) (NNS inputs)))))))))) (. .))

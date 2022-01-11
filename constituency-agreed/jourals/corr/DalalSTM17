@@ -1,0 +1,2 @@
+(S (NP (PRP$ Their) (NNS iterates)) (VP (VBP have) (NP (NP (CD two) (NNS parts)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN updated) (S (VP (VBG using) (NP (JJ distinct) (NNS stepsizes)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN projection) (NN scheme)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NN time)) (PP (IN between) (NP (JJ successive) (NNS projections)))) (VP (VBZ increases) (ADVP (RB exponentially))))))) (. .))

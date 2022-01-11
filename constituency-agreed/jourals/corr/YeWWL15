@@ -1,0 +1,3 @@
+(S (NP (DT Both)) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN as) (NP (JJ discrete) (NNS distributions)))))) (. .))
+(S (S (NP (NP (DT The) (NNS strengths) (CC and) (NNS weaknesses)) (PP (IN of) (NP (NP (PRP$ our) (NN method)) (CC and) (NP (PRP$ its) (NNS alternatives))))) (VP (VBP are) (VP (VBN examined) (PP (IN through) (NP (NNS experiments)))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP recommend) (NP (NP (NNS scenarios)) (PP (IN for) (NP (PRP$ their) (JJ respective) (NN usage)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT both) (JJ serial) (CC and) (JJ parallelized) (NNS versions)) (PP (IN of) (NP (DT the) (NN algorithm))))) (. .))

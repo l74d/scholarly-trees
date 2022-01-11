@@ -1,0 +1,2 @@
+(S (NP (JJ Reversible) (NN video) (NN watermarking)) (VP (MD can) (VP (VB guarantee) (SBAR (IN that) (S (NP (NP (DT the) (NN watermark) (NN logo)) (CC and) (NP (DT the) (JJ original) (NN frame))) (VP (MD can) (VP (VB be) (VP (VBN recovered) (PP (IN from) (NP (DT the) (JJ watermarked) (NN frame))) (PP (IN without) (NP (DT any) (NN distortion)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP suggest) (S (VP (VBG using) (NP (JJ temporal) (NNS correlations)) (PP (IN for) (S (VP (VBG improving) (NP (DT the) (NN prediction) (NN accuracy)))))))) (. .))

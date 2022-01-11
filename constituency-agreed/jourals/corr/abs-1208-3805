@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (NN block) (NNP Kaczmarz) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (DT a) (JJ randomized) (NN control) (NN scheme)) (S (VP (TO to) (VP (VB choose) (NP (DT the) (NN subset)) (PP (IN at) (NP (DT each) (NN step))))))))))) (. .))

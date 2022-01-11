@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (JJ main) (NNS results)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (JJ conditional) (NN mean) (NN estimator)) (VP (MD can) (RB not) (VP (VB be) (ADJP (JJ linear)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ dark) (JJ current) (NN parameter)) (PP (IN of) (NP (DT the) (NNP Poisson) (NN noise)))) (VP (VBZ is) (ADJP (JJ non-zero))))))))))) (. .))
+(S (NP (DT The) (JJ second) (NN result)) (VP (VBZ produces) (NP (NP (DT a) (JJ quantitative) (NN refinement)) (PP (IN of) (NP (DT the) (JJ first) (NN result))))) (. .))

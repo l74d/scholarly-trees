@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ whole) (NN processing) (NN pipeline))) (, ,) (NP (DT the) (JJ spectral) (JJ residual) (NN analysis)) (VP (VBZ is) (VP (VBN integrated) (PP (IN with) (NP (NNP VAE) (CC and) (NNP LSTM))) (S (VP (TO to) (VP (VB boost) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT both))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (CD two) (JJ distinct) (NNS algorithms))) (. .))
+(S (NP (DT That) (NN speed)) (VP (VBZ guarantees) (SBAR (IN that) (S (NP (DT all) (NNS deadlines)) (VP (VBP are) (VP (VBN met) (SBAR (IN if) (S (NP (DT the) (NNS jobs)) (VP (VBP are) (VP (VBN scheduled) (S (VP (VBG using) (NP (NNP EDF))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN part)) (VP (VP (VBZ starts) (PP (IN by) (NP (DT a) (NN definition)))) (CC and) (VP (VBZ proposes) (NP (NP (DT a) (NN model)) (PP (IN for) (NP (DT the) (NN context)))))) (. .))
+(S (NP (DT The) (JJ second) (NN part)) (VP (VBZ is) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (NNS architectures)) (PP (IN for) (NP (JJ adaptable) (NNS applications))))))) (. .))

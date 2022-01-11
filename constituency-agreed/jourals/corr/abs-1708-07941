@@ -1,0 +1,1 @@
+(S (SBAR (IN Unless) (S (NP (NP (DT all)) (PP (IN of) (NP (DT these) (NNS blocks)))) (VP (VBP are) (VP (VBN cached) (PP (IN in) (NP (NN memory))))))) (, ,) (NP (DT no) (NN speedup)) (VP (MD will) (VP (VB result))) (. .))

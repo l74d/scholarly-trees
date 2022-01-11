@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ Gaussian) (NN dropout)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT a) (JJ local) (NN reparametrization) (NN trick)) (PP (IN of) (NP (DT the) (NNP SGVB) (NN objective)))))))) (. .))

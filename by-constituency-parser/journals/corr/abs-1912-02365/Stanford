@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJR lower)) (VP (VBN bound))) (VP (VP (VBZ is) (ADJP (JJ tight))) (, ,) (CC and) (VP (VBZ establishes) (SBAR (S (NP (DT that) (JJ stochastic) (NN gradient) (NN descent)) (VP (VBZ is) (NP (NP (JJ minimax) (JJ optimal)) (PP (IN in) (NP (DT this) (NN model))))))))) (. .))

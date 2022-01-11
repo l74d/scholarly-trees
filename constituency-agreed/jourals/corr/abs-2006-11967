@@ -1,0 +1,1 @@
+(S (NP (NN Quantization)) (VP (VBZ reduces) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (NNS weights)))) (PP (IN by) (S (VP (VBG replacing) (NP (PRP them)) (PP (IN with) (NP (NP (ADJP (RB numerically) (JJ similar)) (NNS values)) (SBAR (WHNP (WDT that)) (S (VP (VBP require) (NP (JJR less) (NN storage))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT Any) (JJ statistical) (NN model) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (NP (NP (JJ independent) (NN calculation)) (PP (IN of) (NP (JJ local) (NNS statistics)))))))) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN through) (NP (PRP$ our) (NN protocol)))))) (. .))

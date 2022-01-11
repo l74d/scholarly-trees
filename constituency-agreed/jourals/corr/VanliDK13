@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG estimating) (NP (NP (DT an) (JJ unknown) (JJ deterministic) (NN signal)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN observed) (PP (IN through) (NP (DT an) (JJ unknown) (JJ deterministic) (NNS data) (NN matrix))) (PP (IN under) (NP (JJ additive) (NN noise))))))))))))) (. .))

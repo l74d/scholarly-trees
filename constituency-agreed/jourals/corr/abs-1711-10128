@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP Lanczos) (NN method)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ standard) (NNS approaches)) (PP (IN for) (S (VP (VBG computing) (NP (NP (DT a) (JJ few) (NNS eigenpairs)) (PP (IN of) (NP (DT a) (JJ large) (, ,) (JJ sparse) (, ,) (JJ symmetric) (NN matrix))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS attacks)) (VP (VBP are) (VP (VBN conducted) (CC and) (VBN evaluated) (S (VP (VBG using) (NP (NN commodity) (NN hardware)))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ concludes) (PP (IN by) (S (VP (VBG suggesting) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NP (NNS countermeasures)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB mitigate) (NP (DT the) (NNS attacks))))))))))))))))) (. .))

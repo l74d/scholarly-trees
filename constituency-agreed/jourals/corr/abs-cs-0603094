@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN channel)) (VP (VBZ is) (ADJP (JJ semi-correlated))))) (, ,) (NP (PRP we)) (VP (VP (VBP propose) (NP (NP (DT an) (JJ attractive) (NN optimization) (NN algorithm)) (PP (IN of) (NP (DT the) (JJ large) (NN system) (NN approximant))))) (, ,) (CC and) (VP (VB establish) (NP (DT some) (NN convergence) (NNS results)))) (. .))

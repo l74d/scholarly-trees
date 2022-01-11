@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Kernels)) (PP (IN for) (NP (DT the) (JJ convolutional) (NN layer)))) (VP (VBP are) (VP (VBN trained) (S (VP (VBG using) (NP (JJ local) (NN learning)))))) (. .))

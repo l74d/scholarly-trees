@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN by) (S (VP (VBG bounding) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (NP (DT the) (NNS traces)) (PP (IN in) (NP (DT the) (NN automaton))))))))) (, ,) (NP (JJ effective) (NN determinization)) (VP (VBZ becomes) (ADJP (JJ possible))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VP (VBN implemented) (PP (IN in) (NP (DT a) (NN prototype) (NN tool)))) (CC and) (VP (VBN evaluated) (PP (IN on) (NP (JJ several) (NNS examples)))))) (. .))

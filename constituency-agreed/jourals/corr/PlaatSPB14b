@@ -1,0 +1,2 @@
+(S (ADVP (RB Further)) (, ,) (NP (JJS most) (NNS games)) (VP (VBP have) (NP (NNS transpositions)) (, ,) (S (VP (VBG implying) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ exists) (NP (NP (DT a) (JJ minimal) (NN graph)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (ADJP (JJR smaller)) (PP (IN than) (NP (DT the) (JJ minimal) (NN tree)))))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ conventional) (NN definition)) (PP (IN of) (NP (DT the) (JJ minimal) (NN graph)))) (VP (VBZ is) (ADJP (JJ wrong))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (DT this) (NN approach))) (, ,) (NP (NP (DT the) (NN unpredictability) (CC and) (NN variability)) (PP (IN of) (NP (NN task) (NN execution) (NNS times)))) (VP (MD can) (VP (VB be) (VP (VBN attacked)))) (. .))
+(S (NP (JJ Extensive) (NNS simulations)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))))))) (. .))

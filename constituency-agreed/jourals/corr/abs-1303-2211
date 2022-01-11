@@ -1,0 +1,2 @@
+(S (NP (NNP Watermark)) (VP (MD can) (VP (VB be) (VP (VBN embedded) (PP (PP (IN into) (NP (DT an) (NN image))) (CC or) (PP (IN in) (NP (DT a) (NN video))))))) (. .))
+(S (SBAR (IN As) (S (NP (NN video) (NNS data)) (VP (VBZ is) (NP (NP (DT a) (JJ huge) (NN amount)) (PP (IN of) (NP (NN information))))))) (, ,) (ADVP (RB therefore)) (NP (DT a) (JJ large) (NN storage) (NN area)) (VP (VBZ is) (VP (VBN needed) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (RB not) (ADJP (JJ feasible))))))) (. .))

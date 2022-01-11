@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (NNS data) (NN exchange)) (VP (VBZ is) (VP (VBN supported) (PP (IN by) (NP (NN multihop) (NNS communications))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT a) (JJ particular) (NN routing) (NN protocol)))) (ADVP (RB mainly)) (VP (VBZ depends) (PP (PP (IN on) (NP (NP (DT the) (NNS capabilities)) (PP (IN of) (NP (DT the) (NNS nodes))))) (CC and) (PP (IN on) (NP (DT the) (NN application) (NNS requirements))))) (. .))

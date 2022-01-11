@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN regularization) (NN method)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ enables) (S (VP (VBG learning) (NP (JJ robust) (NNS classifiers)) (PP (IN in) (NP (NP (NN presence)) (PP (IN of) (NP (JJ noisy) (NNS data)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Empirically)) (, ,) (NP (NP (JJ neural) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP attempt) (S (VP (TO to) (VP (VB learn) (NP (NNS programs)) (PP (IN from) (NP (NNS data)))))))))) (VP (VBP have) (VP (VBN exhibited) (NP (JJ poor) (NN generalizability)))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (JJ superior) (NN generalizability) (CC and) (NN interpretability)) (PP (IN with) (NP (NP (JJ small) (NNS amounts)) (PP (IN of) (NP (NN training) (NNS data)))))) (. .))

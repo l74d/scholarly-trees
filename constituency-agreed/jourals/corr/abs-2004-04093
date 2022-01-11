@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (S (NP (JJ multiple) (NNS experiments)) (VP (VBP have) (VP (VBN been) (VP (VBN performed) (PP (IN on) (NP (DT the) (NN benchmark) (NNS datasets))))))) (CC and) (S (NP (DT the) (VBN proposed) (NN model)) (VP (VBZ illustrates) (NP (NP (JJ superior) (NN performance)) (PP (IN for) (NP (JJR higher) (NNS scales)))))) (. .))

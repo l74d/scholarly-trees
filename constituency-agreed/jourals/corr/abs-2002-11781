@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB recognize) (NP (NP (JJ unseen) (NNS phonemes)) (PP (IN in) (NP (DT the) (NN target) (NN language)))) (PP (IN without) (NP (DT any) (NN training) (NNS data)))))))) (. .))

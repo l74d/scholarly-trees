@@ -1,0 +1,2 @@
+(S (NP (PRP$ Its) (NN validation)) (VP (VBZ is) (VP (VBN achieved) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (NNS simulations)) (CC and) (NP (JJ competitive) (NN analysis)))))))) (. .))
+(S (NP (DT The) (JJ final) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP QBPS)) (VP (VBZ outperforms) (NP (NP (JJ other) (JJ recent) (NNS proposals)) (PP (IN of) (NP (DT the) (NN literature)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (NN application) (NNS domains)) (PP (JJ such) (IN as) (NP (NN healthcare))))) (, ,) (NP (PRP we)) (VP (VBP want) (NP (NP (JJ accurate) (JJ predictive) (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB also)) (ADJP (RB causally) (JJ interpretable))))))) (. .))

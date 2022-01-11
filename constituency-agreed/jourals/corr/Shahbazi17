@@ -1,0 +1,2 @@
+(S (S (NP (PRP We)) (VP (MD may) (VP (VB have) (NP (DT the) (NN source)) (PP (IN without) (NP (NP (DT a) (JJ computable) (NN algorithm)) (PP (IN for) (NP (DT that)))))))) (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB produce) (NP (ADJP (JJ compressible) (CC or) (JJ incompressible)) (NNS strings))))) (. .))
+(S (NP (EX There)) (VP (VBZ is) (ADVP (RB however)) (NP (DT no) (NN need) (S (VP (TO to) (VP (VB enter) (PP (IN into) (NP (DT this) (NN matter))) (ADVP (RB here))))))) (. .))

@@ -1,0 +1,4 @@
+(S (PP (IN As) (NP (DT an) (NN example))) (, ,) (S (VP (VBG finding) (NP (JJ similar) (NNS documents)))) (VP (MD can) (VP (VB be) (VP (VBN recommended)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN case))) (NP (JJ many) (NNS methods)) (VP (VBP are) (VP (VBN existed))) (. .))
+(S (PP (IN For) (S (VP (VBG finding) (NP (JJ similar) (NNS documents))))) (, ,) (NP (NP (DT the) (NNS similarities)) (PP (IN of) (NP (NP (NNS sets)) (SBAR (WHNP (WDT that)) (S (VP (VBN related) (PP (IN with) (NP (PRP them))))))))) (VP (VBP have) (VP (VBN been) (VP (VBN calculated)))) (. .))
+(S (NP (DT These) (NNS methods)) (VP (VBP do) (RB n't) (VP (VB consider) (NP (NP (NN repetition)) (PP (IN of) (NP (NNS symbols)))))) (. .))

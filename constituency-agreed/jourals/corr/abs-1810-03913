@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN key)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB analyze) (NP (NP (DT the) (NNS datapaths)) (PP (IN of) (NP (DT the) (JJ adversarial) (NNS examples))))) (CC and) (VP (VB compare) (NP (PRP them)) (PP (IN with) (NP (NP (DT those)) (PP (IN of) (NP (DT the) (JJ normal) (NNS examples)))))))))) (. .))
+(S (NP (DT A) (NN datapath)) (VP (VBZ is) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (JJ critical) (NNS neurons)) (CC and) (NP (PRP$ their) (NNS connections)))))) (. .))

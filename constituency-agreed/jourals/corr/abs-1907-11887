@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBZ introduces) (NP (NP (JJ new) (NNS vulnerabilities)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN exploited) (PP (IN by) (NP (NNS attackers)))))))))) (. .))

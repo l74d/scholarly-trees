@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN subspace)) (VP (VBZ is) (VP (VBN known))))) (, ,) (NP (DT these) (NNS signals)) (VP (MD can) (VP (VB be) (VP (VBN modeled) (PP (IN as) (NP (JJ bandlimited) (NN graph) (NNS signals)))))) (. .))

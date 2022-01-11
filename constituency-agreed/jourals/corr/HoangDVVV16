@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NP (DT a) (JJ perceptual) (NN system)) (PP (IN for) (NP (DT a) (JJ mobile) (NN robot))))))) (. .))
+(S (NP (DT The) (NN combination)) (VP (VBZ is) (VP (VBN carried) (PRT (RP out)) (PP (IN by) (NP (DT an) (JJ extended) (NNP Kalman) (NN filter))))) (. .))

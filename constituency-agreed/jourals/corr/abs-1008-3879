@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN example)) (VP (VBZ is) (NP (NP (DT a) (NN formalism)) (VP (VBG aiming) (PP (IN at) (S (VP (VBG capturing) (NP (JJ causal) (NNS explanations)) (PP (IN from) (NP (JJ causal) (NN information))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ recent) (NNS improvements)) (PP (IN in) (NP (VBG working) (NNP ASP) (NNS systems)))) (VP (VBP facilitate) (NP (DT the) (NN translation)))))) (. .))

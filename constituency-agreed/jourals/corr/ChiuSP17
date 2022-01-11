@@ -1,0 +1,3 @@
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT these) (NNS objectives))))) (, ,) (NP (DT a) (JJ multiobjective) (NN approach)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (PP (IN By) (S (VP (VBG using) (NP (DT the) (VBN proposed) (NN approach))))) (, ,) (NP (NP (DT a) (JJ fair) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB not) (VP (VB advantage) (NP (CD one) (JJ particular) (NN objective))))))) (VP (MD can) (VP (VB be) (VP (VBN attained)))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB validate) (NP (DT the) (VBN proposed) (NN methodology))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ generates) (NP (NP (DT a) (NN map)) (PP (IN of) (NP (ADJP (JJ dynamic) (CC and) (JJ static)) (NN structure))))) (CC and) (VP (VBZ has) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB extract) (NP (NP (NNS velocities)) (PP (IN of) (NP (NP (JJ rigid) (VBG moving) (NNS objects)) (PP (IN in) (NP (DT the) (NN scene)))))))))))) (. .))

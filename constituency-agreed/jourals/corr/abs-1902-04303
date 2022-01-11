@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ raises) (NP (NN privacy) (CC and) (NN security) (NNS concerns)) (SBAR (IN as) (S (NP (DT these) (JJ genetic) (NNS markers)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB identify) (NP (NNS individuals)) (ADVP (RB uniquely))))))))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (VBN proposed) (NN algorithm))))) (. .))

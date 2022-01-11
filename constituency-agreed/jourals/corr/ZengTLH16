@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (VBN proposed) (NN framework)) (VP (VBZ involves) (NP (CD two) (JJ main) (NNS stages))) (. .))
+(S (NP (NP (DT The) (JJ primary) (NN dataset)) (VP (VBN used) (PP (IN in) (NP (PRP$ our) (NNS experiments))))) (VP (VBZ contains) (NP (CD 500,000) (NN cover) (NNS images)) (, ,) (SBAR (IN while) (S (NP (PRP$ our) (JJS largest) (NN dataset)) (VP (VBZ contains) (NP (QP (CD five) (CD million)) (NN cover) (NNS images)))))) (. .))

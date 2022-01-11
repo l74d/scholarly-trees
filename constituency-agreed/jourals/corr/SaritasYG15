@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (DT all) (NNP Stackelberg) (NN equilibria) (NNS policies)) (VP (VBP are) (ADJP (RB fully) (JJ informative))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ noisy) (NN setup))) (, ,) (NP (DT a) (JJ Gaussian) (NN source)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN transmitted) (PP (IN over) (NP (DT an) (JJ additive) (JJ Gaussian) (NN channel)))))))) (. .))

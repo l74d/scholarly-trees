@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBD were) (RB not) (VP (VBN engineered) (S (VP (TO to) (VP (VB support) (NP (NP (DT the) (NN tuning)) (PP (IN of) (NP (NP (DT a) (NN compiler) (POS 's)) (NN optimizer)))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NN compiler) (POS 's)) (JJ daily) (NN development) (NN cycle)))))))))) (. .))

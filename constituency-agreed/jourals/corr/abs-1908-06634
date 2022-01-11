@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ total) (NN cost)) (PP (IN in) (NP (DT this) (NN optimization) (NN problem)))) (VP (VBZ is) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (DT the) (JJ local) (NN convex) (NN cost)) (PP (IN of) (NP (NP (DT the) (NNS subagents)) (PP (IN of) (NP (DT each) (NN cluster))))))))) (. .))

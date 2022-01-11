@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN approach)) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (NP (NP (JJ direct) (NN optimization)) (PP (IN of) (NP (DT the) (JJ relevant) (NN loss) (NNS functions))))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (SBAR (IN that) (S (NP (DT the) (PRP$ our) (NN algorithm)) (VP (VBZ is) (ADJP (JJ fast))))) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ works) (ADVP (RB very) (RB well))))))) (. .))

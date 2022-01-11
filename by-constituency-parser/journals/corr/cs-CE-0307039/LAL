@@ -1,0 +1,3 @@
+(S (NP (NN Business) (NNS concepts)) (VP (VBP are) (VP (VBN studied) (S (VP (VP (VBG using) (NP (DT a) (JJ metamodel-based) (NN approach))) (, ,) (S (VP (VBG using) (NP (NNP UML) (CD 2.0)))))))) (. .))
+(S (NP (DT The) (NNP Notation) (NNP Independent) (NNP Business) (NNS concepts) (NN metamodel)) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ offers) (NP (NP (DT a) (NN mapping)) (PP (IN between) (NP (JJ different) (NN business) (NN modeling) (NNS notations))) (SBAR (WHNP (WDT which)) (S (VP (MD could) (VP (VB be) (VP (VBN used) (PP (IN for) (S (VP (VP (VBG bridging) (NP (NNP BM) (NNS tools))) (CC and) (VP (VBG boosting) (NP (DT the) (NNP MDA) (NN approach))))))))))))) (. .))

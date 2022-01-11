@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN baseline)) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ is) (ADJP (JJ suboptimal)) (SBAR (IN since) (S (NP (DT the) (NN detection) (NN frequency)) (VP (MD should) (VP (VB depend) (PP (IN on) (NP (DT the) (NN tracking) (NN quality)))))))) (. .))

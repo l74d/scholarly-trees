@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NN practice))) (, ,) (NP (DT the) (NN regularity) (NN assumption)) (VP (MD may) (VP (VB be) (VP (VBN violated)))) (. .))
+(S (ADVP (RB Then)) (, ,) (S (NP (DT the) (NN singularity)) (VP (VBZ is) (VP (VBN explained) (PP (IN in) (NP (NN detail)))))) (CC and) (S (NP (DT a) (JJ new) (NN projection) (NN matrix)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB avoid) (NP (NN singularity)))))))) (. .))
+(S (NP (DT The) (NN invariance) (NN principle)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB analyze) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (DT the) (NN solution))))))))) (. .))

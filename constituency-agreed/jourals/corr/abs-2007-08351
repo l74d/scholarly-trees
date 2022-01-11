@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ common) (NN approach)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB use) (NP (NP (DT a) (JJ limited) (NN amount)) (PP (IN of) (NP (NN memory))))) (CC and) (VP (VB randomize) (PP (IN over) (NP (JJ potential) (NNS choices)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB handle) (NP (NP (DT an) (JJ arbitrary) (NN number)) (PP (IN of) (NP (JJ such) (NNS specifications))))))))) (. .))

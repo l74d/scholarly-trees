@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ optical) (NN flow)) (PP (IN of) (NP (DT a) (NN stixel)))) (VP (VBZ is) (VP (VBN described) (PP (IN by) (NP (DT a) (NN homography))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP exploit) (NP (NP (DT a) (NN scene) (NN model)) (CC and) (NP (JJ semantic) (NN information))) (S (VP (TO to) (VP (VB handle) (NP (VBG moving) (NNS objects)))))) (. .))

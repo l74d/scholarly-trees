@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (NN decision) (NNS procedures)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN for) (NP (DT these) (NNS relations))) (PP (IN under) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ equational) (NNS theories)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (NP (DT each) (NN theory)) (VP (VBZ has) (NP (PRP$ its) (JJ particular) (NN algorithm)))) (, ,) (CC and) (S (NP (NN none)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (ADVP (RB so) (RB far)))))) (. .))

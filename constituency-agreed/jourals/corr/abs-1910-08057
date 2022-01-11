@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Generative) (NNS models)) (PP (IN of) (NP (NN graph) (NN structure)))) (VP (VBP have) (NP (NP (NNS applications)) (PP (IN in) (NP (NP (NN biology)) (CC and) (NP (JJ social) (NNS sciences)))))) (. .))
+(S (NP (NP (DT The) (NN state)) (PP (IN of) (NP (DT the) (NN art)))) (VP (VBZ is) (NP (NP (NNP GraphRNN)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ decomposes) (NP (DT the) (NN graph) (NN generation) (NN process)) (PP (IN into) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ sequential) (NNS steps)))))))))) (. .))

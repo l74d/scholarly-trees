@@ -1,0 +1,2 @@
+(S (PP (IN Since) (NP (NP (DT the) (NN advent)) (PP (IN of) (NP (JJ deep) (NN learning))))) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (JJ various) (NNS problems)) (S (VP (VBG using) (NP (JJ many) (JJ different) (NNS architectures)))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS architectures)) (VP (VBP do) (RB not) (ADVP (RB always)) (VP (ADVP (RB adequately)) (VB consider) (NP (NP (DT the) (JJ temporal) (NNS dependencies)) (PP (IN in) (NP (NNS data)))))) (. .))

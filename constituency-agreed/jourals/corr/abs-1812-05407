@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN supervisor)) (CC and) (NP (DT the) (NN goal) (NN tacker))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB guide) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (PRP$ our) (NN framework)))) (PP (IN in) (NP (DT an) (JJ adversarial) (NN manner)))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (ADVP (RB also)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (NP (DT each) (NN module)) (PP (IN in) (NP (PRP$ our) (NN framework))))))) (. .))

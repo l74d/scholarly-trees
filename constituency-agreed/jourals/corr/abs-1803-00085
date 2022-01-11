@@ -1,0 +1,2 @@
+(S (NP (NP (NN Lack)) (PP (IN of) (NP (NN training) (NNS data)))) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (NN problem)) (, ,) (PP (ADVP (RB especially)) (IN for) (NP (NP (JJ deep) (NN learning) (NNS methods)) (SBAR (WHNP (WDT which)) (S (VP (VBP require) (NP (JJ massive) (NN training) (NNS data))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ challenging) (NN dataset)) (PP (IN with) (NP (JJ good) (NN diversity))))) (. .))

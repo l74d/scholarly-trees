@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (JJ optimal) (NN teaching) (NN framework)) (VP (VBN aimed) (PP (IN at) (NP (NP (NNS learners)) (SBAR (WHNP (WP who)) (S (VP (VBP employ) (NP (JJ Bayesian) (NNS models)))))))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VP (VBZ optimizes) (NP (DT the) (JJ aggregate) (JJ sufficient) (NNS statistics))) (, ,) (ADVP (RB then)) (VP (VBZ unpacks) (NP (PRP them)) (PP (IN into) (NP (JJ actual) (NN teaching) (NNS examples))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (JJ several) (NNS examples)) (S (VP (TO to) (VP (VB illustrate) (NP (PRP$ our) (NN framework)))))) (. .))

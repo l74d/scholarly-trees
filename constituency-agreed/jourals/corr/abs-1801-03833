@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Classical) (NN control)) (PP (IN of) (NP (JJ cyber-physical) (NNS systems)))) (VP (VBN used) (S (VP (TO to) (VP (VB rely) (PP (IN on) (NP (JJ basic) (JJ linear) (NNS controllers))))))) (. .))
+(S (NP (JJ Deductive) (NNS methods)) (VP (VBP are) (ADVP (RB then)) (VP (VBN used) (S (VP (TO to) (VP (VB prove) (ADVP (RB automatically)) (NP (NP (DT the) (NN validity)) (PP (IN of) (NP (DT these) (NNS assertions))))))))) (. .))

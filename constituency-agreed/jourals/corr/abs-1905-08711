@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP explain) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB improve) (NP (NN accuracy)) (PP (IN by) (S (VP (VBG distilling) (PP (IN from) (NP (NP (JJ multiple) (NNS models)) (PP (IN with) (NP (JJ different) (NNS modalities))))) (PP (IN into) (NP (DT a) (JJ single) (NN model))))))))))) (. .))
+(S (NP (NP (DT The) (NNS models)) (CC and) (NP (DT the) (NN training) (NN code))) (VP (VBP are) (ADJP (JJ available))) (. .))

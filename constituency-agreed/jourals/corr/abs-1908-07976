@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (NNS challenges)) (PP (IN in) (S (VP (VBG anonymizing) (NP (NP (JJ physical) (NN activity) (NNS data)) (VP (VBN collected) (ADVP (RB periodically)))))))))) (VP (VBZ is) (NP (PRP$ its) (JJ sequential) (NN nature))) (. .))
+(S (PP (VBN Compared) (PP (IN with) (NP (DT the) (JJ conventional) (NNS methods)))) (, ,) (NP (DT the) (VBN proposed) (NN approach)) (VP (VBZ improves) (NP (NN time) (NN complexity)) (PP (IN by) (S (VP (VBG reducing) (NP (DT the) (NN clustering) (NN time)) (ADVP (RB drastically)))))) (. .))

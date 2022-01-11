@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB mitigate) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VP (VBP store) (NP (DT all) (NNS hypotheses)) (PP (IN in) (NP (DT a) (JJ single) (NN priority) (NN queue)))) (CC and) (VP (VB use) (NP (DT a) (JJ universal) (NN score) (NN function)) (PP (IN for) (NP (NN hypothesis) (NN selection))))) (. .))

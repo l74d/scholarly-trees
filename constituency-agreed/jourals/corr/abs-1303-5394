@@ -1,0 +1,3 @@
+(S (NP (NN Influence) (NN diagram)) (VP (VBZ is) (NP (NP (DT a) (JJ graphical) (NN representation)) (PP (IN of) (NP (NP (NN belief) (NNS networks)) (PP (IN with) (NP (NN uncertainty))))))) (. .))
+(S (NP (DT Both) (NNS properties)) (VP (MD can) (VP (VB be) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NNS ranks)) (PP (IN of) (NP (DT the) (NN system) (NNS matrices)))))))) (. .))
+(S (NP (DT The) (JJ structural) (NN analysis)) (VP (VBZ explores) (NP (NP (DT the) (NN connection)) (PP (IN between) (NP (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT a) (NN model)))) (CC and) (NP (NP (DT the) (JJ functional) (NN dependence)) (PP (IN among) (NP (PRP$ its) (NNS elements)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (VBG using) (NP (JJ large) (JJ uncontrolled) (NN image) (NNS collections)) (PP (IN without) (NP (NN ground) (NN truth))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP IFF)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NN category) (NN theory))))) (. .))
+(S (NP (DT The) (NNP IFF)) (VP (VBZ maintains) (NP (NNS ontologies)) (S (VP (VBG using) (NP (NP (JJ powerful) (NN composition) (NNS primitives)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ includes) (NP (DT the) (NN fusion) (NN construction))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (ADJP (RB newly) (VBN developed)) (NNS classifiers)) (VP (VBD helped) (PP (IN in) (S (VP (VBG investigating) (NP (NP (DT the) (NNS complexities)) (PP (IN of) (NP (DT the) (NNP UCI) (NN dataset)))) (PP (IN as) (NP (DT a) (NN multiclass) (NN problem))))))) (. .))

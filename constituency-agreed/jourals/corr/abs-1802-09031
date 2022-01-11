@@ -1,0 +1,1 @@
+(S (NP (NP (CD One) (JJ attractive) (NN viewpoint)) (PP (IN on) (NP (NNP ResNet)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG optimizing) (NP (NP (DT the) (NN risk)) (PP (IN in) (NP (DT a) (JJ functional) (NN space)))) (PP (IN by) (S (VP (VBG combining) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (JJ effective) (NNS features)))))))))))) (. .))

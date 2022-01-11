@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (S (VP (VBG finding) (NP (NP (DT the) (NN coding) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ minimizes) (NP (NP (DT the) (JJ overall) (NN cost)) (PP (IN in) (NP (DT the) (NN network)))))))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (VP (VP (VBN illustrated) (PP (IN by) (NP (JJ numerical) (NNS examples)))) (CC and) (VP (VBN verified) (PP (IN by) (NP (JJ extensive) (NN computer) (NNS simulations)))))) (. .))

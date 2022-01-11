@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN found) (SBAR (IN that) (S (PP (IN for) (NP (NP (JJ small) (NN number)) (PP (IN of) (NP (NNS iterations))))) (, ,) (NP (NP (DT the) (NN difference)) (PP (IN in) (NP (JJ computational) (NN time)))) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ considerable)))))))) (. .))
+(S (CC But) (PP (VBN given) (NP (NP (DT any) (JJ large) (NN number)) (PP (IN of) (NP (NNS iterations))))) (, ,) (NP (DT the) (NN difference)) (VP (VBZ is) (ADJP (JJ noticeable))) (. .))

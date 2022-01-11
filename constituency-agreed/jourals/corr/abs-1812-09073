@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ pre-trained) (NN model)) (VP (VBD was) (VP (VBN trained) (PP (IN on) (NP (QP (IN over) (CD 30) (CD million)) (NN bioactivity) (NNS data))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (PP (IN In) (NP (DT the) (NN streaming) (NN model))) (NP (DT the) (NN input)) (VP (VBZ arrives) (PP (IN over) (NP (NN time))))) (CC and) (S (PP (IN at) (NP (NP (DT every) (NN point)) (PP (IN in) (NP (NN time))))) (NP (PRP we)) (VP (VBP are) (ADVP (RB only)) (VP (VBN allowed) (S (VP (TO to) (VP (VB use) (NP (JJ sublinear) (NN space)))))))) (. .))

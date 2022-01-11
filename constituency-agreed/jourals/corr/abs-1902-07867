@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBD explored) (NP (NP (JJ several) (JJ other) (JJ competitive) (JJ pre-trained) (NN word) (CC and) (NN sentence) (NNS representations)) (PP (VBG including) (NP (NNP ELMo) (, ,) (NNP BERT) (CC and) (NNP InferSent))))) (CC but) (VP (VBD found) (NP (JJ inferior) (NN performance)))) (. .))

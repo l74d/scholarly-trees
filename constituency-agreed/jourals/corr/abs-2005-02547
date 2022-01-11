@@ -1,0 +1,2 @@
+(S (SBAR (IN With) (S (NP (DT the) (NN system) (NN complexity)) (VP (VBZ keeps) (S (VP (VBG increasing)))))) (, ,) (NP (JJ such) (JJ obscure) (NNS failures)) (VP (MD will) (ADVP (RB likely)) (VP (VB occur) (ADVP (RBR more) (RB often)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN by) (S (VP (VBG applying) (NP (JJ simple) (NNS rules))))) (, ,) (NP (NN X-Ray)) (VP (MD can) (VP (VB highlight) (NP (JJ critical) (NNS nodes)) (ADVP (RB automatically)))) (. .))

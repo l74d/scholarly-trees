@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN submission)) (VP (VBZ is) (NP (NP (DT a) (NN report)) (PP (IN on) (NP (ADJP (NNP RRAM) (VBN based)) (JJ neuromorphic) (NN algorithms))))) (. .))
+(S (NP (DT This) (NN report)) (ADVP (RB basically)) (VP (VBZ gives) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (DT the) (NN algorithms)) (VP (VBN implemented) (PP (IN on) (NP (NP (JJ neuromorphic) (NN hardware)) (PP (IN with) (NP (NP (JJ crossbar) (NN array)) (PP (IN of) (NP (NNP RRAM) (NNS synapses)))))))))))) (. .))
+(S (NP (DT This) (NN report)) (ADVP (RB mainly)) (VP (VBZ talks) (PP (IN about) (NP (NP (NP (DT the) (NN work)) (PP (IN on) (NP (JJ deep) (JJ neural) (NN network) (TO to) (VBG spiking) (JJ neural) (NN network) (NN conversion)))) (CC and) (NP (PRP$ its) (NN significance))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG training) (NP (DT these) (NNS models)) (PP (IN on) (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (NNS data))))))) (VP (MD can) (VP (VB take) (NP (JJ several) (NNS days)))) (. .))
+(S (NP (DT Both) (NNS methods)) (VP (VP (VBP are) (ADJP (RB very) (RB fast))) (CC and) (VP (VB achieve) (NP (JJ significant) (NNS improvements)) (PP (IN without) (S (VP (VBG overfitting) (NP (DT the) (JJ small) (NN adaptation) (NNS data))))))) (. .))

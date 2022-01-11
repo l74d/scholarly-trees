@@ -1,0 +1,2 @@
+(S (SBAR (IN Because) (S (NP (PRP$ our) (NNP CNN) (NN model)) (VP (VBZ makes) (NP (NP (DT no) (NNS assumptions)) (PP (IN about) (NP (DT the) (JJ underlying) (NN scene))))))) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB predict) (NP (JJ future) (JJ optical) (NN flow)) (PP (IN on) (NP (NP (DT a) (JJ diverse) (NN set)) (PP (IN of) (NP (NNS scenarios))))))) (. .))
+(S (NP (PRP We)) (VP (VBP outperform) (NP (DT all) (JJ previous) (NNS approaches)) (PP (IN by) (NP (JJ large) (NNS margins)))) (. .))

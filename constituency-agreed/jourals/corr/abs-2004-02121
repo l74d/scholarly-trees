@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ generates) (NP (NP (DT a) (NN proximity) (NN matrix)) (SBAR (WHNP (WDT which)) (S (VP (VBZ contains) (NP (DT a) (NN similarity) (NN measure))))))) (. .))
+(S (NP (NP (DT The) (NN knowledge)) (PP (IN of) (NP (NN traffic) (NN scenario) (NNS clusters)))) (VP (VBZ is) (ADJP (JJ crucial) (S (VP (TO to) (VP (VB accelerate) (NP (DT the) (NN validation) (NN process))))))) (. .))
+(S (NP (NP (DT The) (NN clue)) (PP (IN of) (NP (DT the) (NN method)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NN scenario) (NNS templates)) (VP (MD can) (VP (VB be) (VP (VBN generated) (ADVP (RB automatically)) (PP (IN from) (NP (JJ actual) (NN traffic) (NNS situations))))))))) (. .))
+(S (NP (DT These) (NNS templates)) (VP (MD can) (VP (VB be) (VP (VBN employed) (PP (IN in) (NP (NP (DT all) (NNS stages)) (PP (IN of) (NP (DT the) (NN development) (NN process)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (ADVP (RB also)) (VP (VBP compare) (NP (PRP$ our) (NNS results)) (PP (IN with) (NP (NNP Wikipedia) (NNS data))))) (CC and) (S (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NNP UGC) (NN content)))) (S (VP (VBG using) (NP (DT an) (NNP Amazon) (NN dataset)))))) (. .))

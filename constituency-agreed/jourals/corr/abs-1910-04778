@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ fundamental) (NN problem)) (PP (IN in) (NP (NN computer) (NN vision)))) (VP (VBZ is) (NP (NP (NN image) (NN segmentation)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB delineate) (NP (NP (DT the) (NN boundary)) (PP (IN of) (NP (NP (DT an) (NN object)) (PP (IN in) (NP (DT the) (NN image)))))))))))))) (. .))

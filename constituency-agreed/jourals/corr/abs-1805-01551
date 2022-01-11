@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN controller)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB guarantee) (NP (NN convergence)) (PP (IN in) (NP (JJ finite) (NN time)))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (VP (VBN demonstrated) (PP (IN through) (NP (NNS simulations))))) (. .))

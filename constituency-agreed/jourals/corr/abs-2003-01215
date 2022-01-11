@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG treating) (NP (NP (DT both) (NNS densities) (CC and) (NNS positions)) (PP (IN of) (NP (DT the) (NN carrier) (NNS particles)))) (PP (IN as) (NP (NN optimization) (NNS variables)))))) (, ,) (NP (NNP LETO)) (VP (VBZ reparameterizes) (NP (NP (DT the) (JJ Eulerian) (NN solution) (NN space)) (PP (IN of) (NP (NN topology) (NN optimization)))) (PP (IN in) (NP (DT a) (JJ Lagrangian) (NN view)))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (NP (DT an) (JJ extensive) (NN set)) (PP (IN of) (NP (NNS experiments))))) (. .))

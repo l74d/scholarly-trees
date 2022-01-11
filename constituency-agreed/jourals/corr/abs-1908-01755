@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Rashomon) (NN effect)) (VP (VBZ occurs) (SBAR (WHADVP (WRB when)) (S (NP (JJ many) (JJ different) (NNS explanations)) (VP (VBP exist) (PP (IN for) (NP (DT the) (JJ same) (NN phenomenon))))))) (. .))
+(S (NP (DT These) (NNS models)) (VP (MD might) (VP (VB obey) (NP (NP (JJ various) (NNS constraints)) (PP (JJ such) (IN as) (NP (NN interpretability) (, ,) (NN fairness) (, ,) (CC or) (NN monotonicity)))))) (. .))

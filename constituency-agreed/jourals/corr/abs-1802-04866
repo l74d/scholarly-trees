@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (CD one) (NN method))) (, ,) (NP (DT the) (NN falsification) (NN problem)) (VP (VBZ is) (VP (VBN solved) (PP (IN by) (S (VP (VBG minimizing) (NP (NP (DT a) (NN robustness) (JJ metric)) (VP (VBN induced) (PP (IN by) (NP (DT the) (NNS requirements)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (ADJP (RB almost) (JJ perfect)) (NN classification) (NN accuracy)) (VP (MD can) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (JJ different) (NN fault) (NNS types))) (PP (IN with) (NP (NP (JJ low) (JJ computational) (NN overhead)) (CC and) (NP (JJ minimal) (NN delay)))))))))) (. .))

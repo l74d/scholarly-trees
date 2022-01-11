@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN optimizing) (NN transformation)) (SBAR (WHNP (WDT which)) (S (VP (VBZ reduces) (NP (NN program) (NN runtime)) (PP (IN at) (NP (NP (DT the) (NN expense)) (PP (IN of) (NP (NN program) (NN size))))) (PP (IN by) (S (VP (VBG eliminating) (NP (JJ conditional) (NNS jumps)))))))))) (. .))

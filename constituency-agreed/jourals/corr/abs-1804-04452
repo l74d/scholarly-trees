@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS problems)) (VP (VBP are) (ADVP (RB now)) (VP (VBN known) (PP (IN as) (NP (NNP Bongard) (NNS problems))))) (. .))
+(S (SBAR (IN While) (S (NP (DT this) (NN approach)) (VP (VBZ is) (ADVP (RB far) (PP (IN from) (S (VP (VBG solving) (NP (DT all) (NNP Bongard) (NNS problems))))))))) (, ,) (NP (PRP it)) (VP (VBZ solves) (NP (DT the) (JJS biggest) (NN fraction)) (ADVP (RB yet))) (. .))

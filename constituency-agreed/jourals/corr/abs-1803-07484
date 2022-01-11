@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formalize) (NP (DT this) (NN problem)) (PP (IN by) (S (VP (VBG introducing) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (DT a) (JJ collective) (NN schedule)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (S (VP (VBG finding) (NP (JJ collective) (NNS schedules))))))) (. .))

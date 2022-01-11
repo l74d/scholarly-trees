@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP look) (PP (IN at) (NP (NP (NN cross-layer) (NNS problems)) (PP (JJ such) (IN as) (NP (NN debugging) (CC and) (NN troubleshooting)))))) (. .))
+(S (PP (IN In) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB anticipate) (NP (NP (DT the) (JJ future) (NN evolution)) (PP (IN of) (NP (DT this) (JJ new) (NN paradigm))))))))) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (JJ main) (JJ ongoing) (NN research) (NNS efforts) (CC and) (NNS challenges)) (PP (IN of) (NP (NNP SDN))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (SBAR (IN If) (S (NP (DT the) (NN channel) (NN gain)) (VP (VBZ exceeds) (NP (DT a) (NN threshold))))) (, ,) (NP (DT a) (JJ short) (NN packet)) (VP (MD can) (VP (VB be) (VP (VBN transmitted) (PP (IN with) (NP (DT a) (JJ small) (NN error) (NN probability))))))) (: ;) (S (ADVP (RB otherwise)) (NP (EX there)) (VP (VBZ is) (NP (DT a) (NN packet) (NN loss)))) (. .))

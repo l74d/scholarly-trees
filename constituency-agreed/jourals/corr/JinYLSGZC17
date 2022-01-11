@@ -1,0 +1,4 @@
+(S (NP (NNP Blind) (NNP Vision)) (VP (VP (VBZ uses) (NP (JJ standard) (JJ cryptographic) (NNS tools))) (CC and) (VP (VBZ is) (ADJP (RB painfully) (JJ slow) (S (VP (TO to) (VP (VB compute))))) (, ,) (S (VP (VBG taking) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS hours)))) (S (VP (TO to) (VP (VB scan) (NP (DT a) (JJ single) (NN image))))))))) (. .))
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN work)))) (VP (VBZ is) (S (VP (TO to) (VP (VB explore) (NP (NP (DT an) (JJ efficient) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB speed) (PRT (RP up)) (NP (DT the) (NN process))))))))))) (. .))
+(S (NP (DT The) (JJ original) (NN image)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (JJ random) (NN base) (NNS images))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (NP (DT the) (NN content)) (PP (IN of) (NP (DT the) (NN image)))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN leaked)))) (. .))

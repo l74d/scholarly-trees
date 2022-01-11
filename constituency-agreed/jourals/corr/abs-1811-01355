@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ additional) (NN loss)) (PP (IN over) (NP (DT the) (NN attention) (NNS weights)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB encode) (NP (JJ prior) (NN knowledge))))))) (. .))

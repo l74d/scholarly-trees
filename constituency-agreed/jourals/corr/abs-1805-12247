@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ is) (VP (VBN split) (PP (IN into) (NP (CD two) (NNS parts))))) (. .))
+(S (NP (DT The) (JJ first) (NN part)) (VP (VBZ considers) (NP (NP (DT the) (JJ minimum) (NN rank)) (, ,) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBP derive) (NP (NP (DT the) (JJ first) (JJ meaningful) (NNS results)) (VP (VBN known) (ADVP (RB so) (RB far))))))))) (. .))

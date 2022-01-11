@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN gravity) (NNS gradients)) (VP (VBP contain) (NP (NP (JJ useful) (NN position) (NN information)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN extracted) (PP (IN by) (S (VP (VBG matching) (NP (DT the) (NNS observations)) (PP (IN with) (NP (DT a) (JJ precise) (NN gravity) (NN model))))))))))))) (. .))
+(S (NP (DT The) (JJ extended) (NNP Kalman) (NN filter)) (VP (VBZ is) (VP (VBN investigated) (PP (IN as) (NP (DT the) (JJ principal) (NN estimator))))) (. .))

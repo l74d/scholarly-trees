@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT a) (JJ minimal) (JJ binary) (NN constraint) (NN network))) (, ,) (NP (NP (DT every) (NN tuple)) (PP (IN of) (NP (DT a) (NN constraint) (NN relation)))) (VP (MD can) (VP (VB be) (VP (VBN extended) (PP (IN to) (NP (DT a) (NN solution)))))) (. .))
+(S (NP (NP (DT The) (NN tractability) (CC or) (NN intractability)) (PP (IN of) (S (VP (VBG computing) (NP (DT a) (NN solution)) (PP (IN to) (NP (PDT such) (DT a) (JJ minimal) (NN network))))))) (VP (VBD was) (NP (DT a) (ADJP (NP (JJ long) (NN standing)) (JJ open)) (NN question))) (. .))
+(S (NP (NNP Dechter)) (VP (VBD conjectured) (NP (DT this) (NN computation) (NN problem)) (S (VP (TO to) (VP (VB be) (ADJP (NP (NNP NP)) (HYPH -) (JJ hard)))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (DT this) (NN conjecture))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP establish) (NP (NP (DT the) (NN tractability) (NN frontier)) (PP (IN for) (NP (NP (DT this) (NN problem)) (PP (IN with) (NP (NN respect)))))) (PP (IN to) (NP (NP (DT the) (NN domain) (NN cardinality)) (CC and) (NP (DT the) (NN parameter) (NN k.))))))

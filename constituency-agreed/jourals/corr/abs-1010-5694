@@ -1,0 +1,2 @@
+(S (NP (NNP Urbi) (NNP SDK)) (VP (VBZ is) (NP (NP (DT a) (NN software) (NN platform)) (PP (IN for) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (JJ portable) (JJ robotic) (NNS applications))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NN support)) (PP (IN for) (NP (NP (NNS events)) (PP (IN in) (NP (NN urbiscript))))))) (. .))

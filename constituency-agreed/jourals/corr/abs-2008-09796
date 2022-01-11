@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBP are) (ADVP (RB altogether)) (NP (CD three) (NNS players))) (. .))
+(S (PP (IN During) (NP (DT each) (NN round))) (, ,) (NP (CD two) (NNS players)) (VP (VBP win) (PP (IN with) (NP (JJ equal) (NN probability)))) (. .))
+(S (NP (CD One)) (VP (VBZ is) (VP (VBN asked) (S (VP (TO to) (VP (VB calculate) (NP (NP (DT the) (NN expectation)) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS rounds))))))))))) (. .))

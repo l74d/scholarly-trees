@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNP AutoPruner)) (VP (VP (VBZ takes) (NP (JJ previous) (NN activation) (NNS responses)) (PP (IN as) (NP (DT an) (NN input)))) (CC and) (VP (VBZ generates) (NP (NP (DT a) (JJ true) (JJ binary) (NN index) (NN code)) (PP (IN for) (NP (NN pruning)))))) (. .))

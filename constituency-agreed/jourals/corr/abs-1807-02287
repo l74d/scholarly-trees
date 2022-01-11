@@ -1,0 +1,2 @@
+(S (S (VP (VBG Estimating) (NP (DT a) (JJ large) (NN alphabet) (NN probability) (NN distribution)) (PP (IN from) (NP (NP (DT a) (JJ limited) (NN number)) (PP (IN of) (NP (NNS samples))))))) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN problem)) (PP (IN in) (NP (NP (NN machine) (NN learning)) (CC and) (NP (NNS statistics)))))) (. .))
+(S (NP (DT This) (NN way)) (NP (PRP we)) (VP (VP (VBP regulate) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS parameters))))) (CC and) (VP (VB improve) (NP (NN generalization)))) (. .))

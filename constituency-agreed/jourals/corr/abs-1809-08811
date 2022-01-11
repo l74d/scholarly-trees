@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN correctness)) (PP (IN of) (NP (DT these) (NNS operations)))) (VP (VBZ is) (ADVP (RB therefore)) (ADJP (JJ essential) (PP (IN for) (NP (NP (DT the) (JJ proper) (NN execution)) (PP (IN of) (NP (DT any) (NN program))))))) (. .))
+(S (NP (DT The) (NN countermeasure)) (VP (VBZ comprises) (NP (CD two) (NN building) (NNS blocks))) (. .))
+(S (NP (DT The) (NN redundancy) (NN information)) (VP (VBZ is) (VP (VBN stored) (PP (IN in) (NP (NP (DT the) (JJ unused) (JJ upper) (NNS bits)) (PP (IN of) (NP (DT the) (NN pointer))))) (PP (IN with) (NP (NP (CD zero) (NN overhead)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN storage))))))))) (. .))

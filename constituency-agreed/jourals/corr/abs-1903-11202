@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NN noise) (NN sensitivity)) (VP (VBZ is) (NP (DT a) (JJ major) (NN bottleneck))) (. .))
+(S (S (NP (NP (DT The) (NN convergence)) (PP (IN of) (NP (DT the) (NN proposal)))) (VP (VBP are) (VP (VBN proved)))) (, ,) (CC and) (S (NP (NP (JJ detailed) (NNS analyses)) (PP (IN of) (NP (NN robustness)))) (VP (VBP are) (VP (VBN given)))) (. .))

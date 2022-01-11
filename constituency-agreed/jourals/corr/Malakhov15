@@ -1,0 +1,2 @@
+(S (PP (RB Instead) (IN of) (S (VP (VBG using) (NP (JJ explicit) (NN synchronization))))) (, ,) (NP (DT the) (NN algorithm)) (VP (VP (VBZ detects) (NP (DT the) (NN race) (NN condition))) (CC and) (VP (VBZ restarts) (NP (DT the) (NN lookup) (NN operation)))) (. .))
+(S (NP (NP (DT The) (NN response) (NN time)) (PP (IN of) (NP (DT the) (NNS operations)))) (VP (VBZ is) (ADVP (RB also)) (ADJP (RBR more) (JJ predictable))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN travel) (NN cost)) (PP (IN per) (NP (NN unit) (NN distance)))) (VP (VBZ is) (NP (NP (DT a) (JJ linear) (NN function)) (PP (IN of) (NP (DT the) (NN vehicle) (NN weight)))))) (CC and) (S (NP (DT the) (NN customer) (NN demand)) (VP (MD can) (VP (VB be) (VP (VBN fulfilled) (PP (IN by) (NP (JJ multiple) (NNS vehicles))))))) (. .))

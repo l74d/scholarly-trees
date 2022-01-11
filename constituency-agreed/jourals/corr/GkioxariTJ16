@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN model))) (NP (NP (DT the) (NN output) (NNS variables)) (PP (IN for) (NP (DT a) (VBN given) (NN input)))) (VP (VBP are) (VP (VBN predicted) (ADVP (RB sequentially)) (S (VP (VBG using) (NP (JJ neural) (NNS networks)))))) (. .))
+(S (NP (NP (DT The) (NN prediction)) (PP (IN for) (NP (DT each) (NN output) (JJ variable)))) (VP (VBZ depends) (PP (CONJP (RB not) (RB only)) (PP (IN on) (NP (DT the) (NN input))) (CONJP (CC but) (RB also)) (PP (IN on) (NP (DT the) (ADJP (RB previously) (VBN predicted)) (NN output) (NNS variables))))) (. .))

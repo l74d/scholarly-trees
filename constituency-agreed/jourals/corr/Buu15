@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN sensitivity) (NN matrix)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ defines) (NP (DT this) (NN relationship))))) (, ,)) (VP (VBZ is) (VP (VBN obtained) (PP (IN from) (NP (NP (DT the) (NNS systems) (NNS eigenvectors)) (CC and) (NP (NP (DT the) (NN derivative)) (PP (IN of) (NP (PRP$ its) (NNS eigenvalues)))))))) (. .))

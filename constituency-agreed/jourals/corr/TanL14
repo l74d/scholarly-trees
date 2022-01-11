@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN algorithm)) (VP (VBZ achieves) (NP (DT the) (JJ maximum) (NN throughput) (NN limit)) (SBAR (IN if) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS channels)))) (VP (VBZ is) (ADJP (RB sufficiently) (JJ large))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (VBG overcoming) (NP (DT these) (NNS issues)) (PP (IN by) (S (VP (VBG using) (NP (NNS constraints)) (S (VP (TO to) (VP (VB restrict) (NP (DT this) (JJ open) (NN world))))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP provide) (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NP (CD one) (NN class)) (PP (IN of) (NP (NNS queries)))))) (, ,) (CC and) (VP (VB establish) (NP (DT a) (JJ basic) (NN hardness) (NN result)) (PP (IN for) (NP (DT another))))) (. .))

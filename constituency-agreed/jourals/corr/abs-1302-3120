@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP incorporate) (NP (NNP CS) (CC and) (NNP MF)) (PP (IN within) (NP (NP (DT an) (JJ sparse) (NN regularization) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB then)) (VP (VBN solved) (PP (IN by) (NP (DT a) (JJ fast) (JJ iterative) (NN thresholding) (NN algorithm)))))))))) (. .))

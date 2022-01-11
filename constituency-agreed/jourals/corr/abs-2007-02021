@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ recent) (NNS advancements)) (PP (IN in) (NP (NN dataplane) (NN programmability)))) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB enhance) (NP (NN system) (NN performance)))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN protocol)) (VP (VBZ is) (VP (VBN called) (S (NP (NNP SMARTHO))) (, ,) (S (VP (VBG illustrating) (NP (DT a) (JJ smart) (NN handover)))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (NNS Clients)) (VP (VBP are) (NP (JJ individual) (NNS analyses)))) (CC and) (S (NP (DT the) (NN server)) (VP (VBZ mediates) (NP (PRP$ their) (NN communication)))) (. .))
+(S (S (NP (DT A) (NN client)) (VP (MD can) (RB not) (VP (VB see) (NP (NP (NNS properties)) (PP (IN of) (NP (DT any) (JJ other))))))) (CC and) (S (NP (DT the) (NN communication)) (VP (VBZ is) (ADJP (JJ anonymous)))) (. .))

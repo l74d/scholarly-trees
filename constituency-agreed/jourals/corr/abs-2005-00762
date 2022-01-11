@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (JJ partial) (NN convolution)) (VP (VBZ is) (VP (VBN applied) (PP (IN for) (NP (NP (NN projection) (NN inpainting)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB only)) (VP (VBZ relies) (PP (IN on) (NP (JJ valid) (NNS pixels) (NNS values)))))))))) (. .))

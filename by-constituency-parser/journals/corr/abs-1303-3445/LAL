@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP apply) (NP (NP (NNS results)) (PP (IN on) (NP (NP (NN number) (NNS systems)) (VP (VBN based) (PP (IN on) (NP (JJ continued) (NN fraction) (NNS expansions))))))) (PP (TO to) (NP (VB modular) (JJ arithmetic)))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (CD two) (JJ new) (NNS algorithms)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB compute) (NP (NP (JJ modular) (NN multiplication)) (CC and) (NP (JJ modular) (NN division)))))))) (. .))
+(S (NP (DT The) (VBN presented) (NN algorithms)) (VP (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Euclidean) (NN algorithm))))) (CC and) (VP (VBP are) (PP (IN of) (NP (JJ quadratic) (NN complexity))))) (. .))

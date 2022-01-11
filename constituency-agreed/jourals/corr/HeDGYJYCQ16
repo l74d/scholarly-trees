@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN corpus)) (VP (VBZ has) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS limitations))))) (. .))
+(S (S (NP (NP (DT Some) (JJ additional) (NNS types)) (PP (IN of) (NP (JJ clinical) (NN text)))) (VP (MD should) (VP (VB be) (VP (VBN introduced) (S (VP (TO to) (VP (VB improve) (NP (NN corpus) (NN coverage))))))))) (CC and) (S (NP (JJ active) (NN learning) (NNS methods)) (VP (MD should) (VP (VB be) (VP (VBN utilized) (S (VP (TO to) (VP (VB promote) (NP (NN annotation) (NN efficiency))))))))) (. .))

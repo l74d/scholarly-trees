@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ popular) (NN approach)) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (DT the) (JJ global) (NNP GMRES) (NN algorithm)))))) (. .))
+(S (NP (JJ Theoretical) (NN analysis)) (VP (VBZ is) (VP (VBN given) (S (VP (TO to) (VP (VB show) (SBAR (WHADVP (WRB why)) (S (NP (DT the) (JJ new) (NN algorithm)) (VP (VBZ works) (ADVP (RB effectively)))))))))) (. .))

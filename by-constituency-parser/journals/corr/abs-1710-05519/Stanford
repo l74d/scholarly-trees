@@ -1,0 +1,5 @@
+(S (NP (NN Dependency) (NN treebank)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN resource)) (PP (IN in) (NP (DT any) (NN language))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (PRP$ our) (NN work)) (PP (IN on) (S (VP (VBG building) (NP (NP (NNP BKTreebank)) (, ,) (NP (NP (DT a) (NN dependency) (NN treebank)) (PP (IN for) (NP (NNP Vietnamese))))))))) (. .))
+(S (NP (NP (JJ Important) (NNS points)) (PP (IN on) (S (VP (VBG designing) (NP (NP (NN POS) (NN tagset)) (, ,) (NP (NN dependency) (NNS relations)) (, ,) (CC and) (NP (NN annotation) (NNS guidelines))))))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (NNS experiments)) (PP (IN on) (NP (NP (NN POS) (NN tagging) (CC and) (NN dependency)) (VP (VBG parsing) (PP (IN on) (NP (DT the) (NN treebank))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN treebank)) (VP (VBZ is) (NP (NP (DT a) (JJ useful) (NN resource)) (PP (IN for) (NP (JJ Vietnamese) (NN language) (NN processing)))))))) (. .))

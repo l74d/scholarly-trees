@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNP Dykstra) (POS 's)) (NN algorithm)) (VP (MD may) (VP (VB stall) (PP (IN for) (NP (DT an) (ADJP (RB arbitrarily) (JJ long)) (NN time)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT some) (JJ open) (NNS problems))) (. .))

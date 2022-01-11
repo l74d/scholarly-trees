@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB address) (NP (DT the) (JJ latter) (NN issue)))))) (. .))
+(S (NP (DT The) (JJ theoretical) (NNS results)) (VP (VBP are) (VP (VBN verified) (PP (IN by) (NP (JJ numerical) (NNS simulations))))) (. .))

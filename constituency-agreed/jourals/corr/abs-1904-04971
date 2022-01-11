@@ -1,0 +1,2 @@
+(S (NP (JJ Convolutional) (NNS layers)) (VP (VBP are) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ basic) (NN building) (NNS blocks)) (PP (IN of) (NP (JJ modern) (JJ deep) (JJ neural) (NNS networks))))))) (. .))
+(S (NP (CD One) (JJ fundamental) (NN assumption)) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ convolutional) (NNS kernels)) (VP (MD should) (VP (VB be) (VP (VBN shared) (PP (IN for) (NP (NP (DT all) (NNS examples)) (PP (IN in) (NP (DT a) (NN dataset))))))))))) (. .))

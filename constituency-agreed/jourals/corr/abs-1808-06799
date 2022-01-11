@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG diagnosing) (NP (NN link) (NN status)) (PP (IN from) (NP (DT the) (NN control) (NN plane))))) (VP (VBZ has) (NP (JJ high) (NN latency) (CC and) (NN overhead))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (NN communication)) (PP (IN with) (NP (DT the) (JJ industrial) (NN controller)))) (VP (MD may) (VP (VB impose) (NP (JJ additional) (NN network) (NN latency)))) (. .))

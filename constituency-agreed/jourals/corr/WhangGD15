@@ -1,0 +1,2 @@
+(S (NP (NNP Community) (NN detection)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN task)) (PP (IN in) (NP (NN network) (NN analysis))))) (. .))
+(S (PP (IN Within) (NP (DT this) (NN seed) (NN expansion) (NN method))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN problem)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB determine) (NP (JJ good) (NN seed) (NNS nodes)) (PP (IN in) (NP (DT a) (NN graph)))))))))) (. .))

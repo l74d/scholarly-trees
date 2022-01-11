@@ -1,0 +1,1 @@
+(S (NP (NN Performance)) (VP (VBZ is) (VP (VBN tested) (PP (IN by) (S (VP (VBG calculating) (NP (NP (NNP PSNR) (CC and) (NNP SSIM)) (PP (IN of) (NP (NNS images))))))))) (. .))

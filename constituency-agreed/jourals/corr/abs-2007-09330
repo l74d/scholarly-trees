@@ -1,0 +1,3 @@
+(S (NP (CD Two) (JJ specific) (NNS examples)) (VP (VBP include) (NP (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (JJ granular) (NNS materials)))) (CC and) (NP (NP (JJ atomic) (NN structure)) (PP (IN of) (NP (JJ metallic) (NNS glasses)))))) (. .))
+(S (PP (IN In) (NP (JJ many) (JJ complex) (NNS networks))) (, ,) (NP (NP (DT the) (JJ spatial) (NN information)) (PP (IN of) (NP (NNS nodes)))) (VP (VBP play) (NP (ADJP (RB very) (JJ important)) (NN role)) (PP (IN in) (S (VP (VBG determining) (NP (DT the) (NN network) (NNS properties)))))) (. .))
+(S (RB So) (S (VP (VBG understanding) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (JJ such) (NNS networks)))))) (VP (VBZ is) (ADJP (RB very) (JJ crucial))) (. .))

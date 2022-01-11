@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PDT such) (DT a) (NN setting))) (, ,) (NP (NP (DT the) (NN overhead)) (VP (VBN imposed) (PP (IN by) (NP (NN channel) (NN estimation))))) (VP (VBZ is) (ADJP (JJ substantial)) (, ,) (S (ADVP (RB thereby)) (VP (VBG demanding) (NP (JJ noncoherent) (NN communication))))) (. .))
+(S (NP (DT The) (NN scheme)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NN basis)) (PP (IN for) (NP (NP (DT a) (JJ simple) (NN protocol)) (PP (IN for) (NP (NN collision) (NN resolution))))))))) (. .))

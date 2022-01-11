@@ -1,0 +1,2 @@
+(S (NP (NN Cryptography)) (VP (VBZ is) (NP (NP (DT the) (NN science)) (PP (IN of) (S (VP (VBG using) (NP (NNS mathematics)) (S (VP (TO to) (VP (VB encrypt) (CC and) (VB decrypt) (NP (NNS data)))))))))) (. .))
+(S (SBAR (IN While) (S (NP (NN cryptography)) (VP (VBZ is) (NP (NP (DT the) (NN science)) (PP (IN of) (S (VP (VBG securing) (NP (NNS data))))))))) (, ,) (NP (NN cryptanalysis)) (VP (VBZ is) (NP (NP (DT the) (NN science)) (PP (IN of) (S (VP (VBG analyzing) (CC and) (VBG breaking) (NP (JJ secure) (NN communication))))))) (. .))

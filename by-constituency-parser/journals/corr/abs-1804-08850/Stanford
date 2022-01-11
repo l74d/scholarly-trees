@@ -1,0 +1,2 @@
+(S (NP (JJ Achievable) (NN information) (NNS rates)) (VP (VBP are) (VP (VBN used) (PP (IN as) (NP (DT a) (JJ metric))) (S (VP (TO to) (VP (VB design) (NP (NP (JJ novel) (NN modulation) (NNS formats)) (PP (IN via) (NP (JJ geometric) (NN shaping))))))))) (. .))
+(S (NP (DT The) (ADJP (ADJP (VBN proposed)) (ADJP (ADVP (RB geometrically)) (VBN shaped))) (NML (CD 256) (HYPH -) (NN ary)) (NN constellation)) (VP (VBZ achieves) (NP (NP (NN SNR) (NNS gains)) (PP (IN of) (NP (QP (RB up) (IN to) (CD 1.18)) (NN dB))))) (. .))

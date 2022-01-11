@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Various) (JJ other) (NNS approaches)) (PP (IN for) (S (VP (VBG discovering) (NP (NN web) (NNS services)))))) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ available))) (. .))
+(S (SBAR (IN As) (S (NP (DT these) (NNS approaches)) (VP (VBP are) (ADJP (JJ different))))) (, ,) (NP (CD one) (NN solution)) (VP (MD may) (VP (VB be) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (DT another)))) (PP (VBG depending) (PP (IN on) (NP (NNS requirements)))))) (. .))

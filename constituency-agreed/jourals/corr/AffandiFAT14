@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (VBG using) (NP (JJ Bayesian) (NNS methods)) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NNP DPP) (NN kernel) (NNS parameters)))))))) (. .))

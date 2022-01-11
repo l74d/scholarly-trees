@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN security)) (PP (IN of) (NP (JJ many) (JJ cryptographic) (NNS constructions)))) (VP (VBZ depends) (PP (IN on) (NP (JJ random) (NN number) (NNS generators))) (PP (IN for) (S (VP (VBG providing) (NP (NP (JJ unpredictable) (NNS keys)) (, ,) (NP (NNS nonces)) (, ,) (NP (NN initialization) (NNS vectors)) (CC and) (NP (JJ other) (NNS parameters))))))) (. .))

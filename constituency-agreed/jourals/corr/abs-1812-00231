@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT each) (JJ natural) (NN image)) (VP (VBZ has) (NP (NP (PRP$ its) (JJ own) (JJ internal) (NNS statistics)) (, ,) (VP (VBN captured) (PP (IN by) (NP (NP (PRP$ its) (JJ unique) (NN distribution)) (PP (IN of) (NP (NNS patches)))))))) (. .))
+(S (NP (NNP InGAN)) (VP (VBZ provides) (NP (NP (DT a) (JJ unified) (NN framework)) (PP (IN for) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS tasks)))))) (, ,) (S (VP (VBG bridging) (NP (NP (DT the) (NN gap)) (PP (IN between) (NP (NP (NNS textures)) (CC and) (NP (JJ natural) (NNS images)))))))) (. .))

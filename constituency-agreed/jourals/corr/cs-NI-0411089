@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (MD shall) (VP (VB detail) (NP (PRP$ our) (NN proposition)) (, ,) (PP (IN by) (S (VP (VBG basing) (NP (PRP it)) (PP (IN on) (NP (NP (DT the) (NNP Fractal) (NN component) (NN model)) (PP (IN of) (NP (NNP Objectweb)))))))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (NN prototype)) (PP (IN of) (NP (DT the) (VBN proposed) (NN solution))))) (. .))

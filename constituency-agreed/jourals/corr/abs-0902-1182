@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS graphs)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ perfect))))) (PRN (-LRB- -LRB-) (S (VP (VBN proved) (PP (IN by) (NP (NNP Monma) (CC and) (NNP Wei))) (PP (IN in) (NP (CD 1986))))) (-RRB- -RRB-)))) (. .))
+(S (ADVP (RB Indeed)) (, ,) (NP (PDT such) (DT a) (NN kernel)) (VP (VBZ exists) (PP (IN for) (NP (DT any) (JJ perfect) (NN graph))) (PP (IN by) (NP (NP (DT a) (NN theorem)) (PP (IN of) (NP (NNP Boros) (CC and) (NNP Gurvich)))))) (. .))

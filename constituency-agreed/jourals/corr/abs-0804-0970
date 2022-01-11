@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN framework))) (, ,) (NP (DT the) (NN conformance) (NN relation)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN satisfaction)) (PP (IN of) (NP (NNS axioms))))))) (. .))
+(S (NP (NP (JJ Various) (NNS criteria)) (PP (IN for) (S (VP (VBG selecting) (NP (JJ finite) (NN test) (NNS sets)))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN system) (NN model)) (VP (VBZ is) (VP (VBN supposed) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (JJ possible) (NN core) (CC and) (NN foundation)) (PP (IN of) (NP (DT the) (NNP UML) (NNS semantics) (NN definition))))))))) (. .))
+(S (NP (DT This) (NN chapter)) (VP (VBZ is) (ADJP (JJ important) (S (VP (TO to) (VP (VB understand) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT this) (NN document))))))))) (. .))
+(S (NP (NN Chapter) (CD 2)) (VP (VBZ contains) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (NP (DT the) (JJ structural) (NN part)) (PP (IN of) (NP (DT the) (NN system) (NN model))))))) (. .))
+(S (NP (NN Chapter) (CD 8)) (VP (VBZ concludes) (NP (DT the) (NN document))) (. .))

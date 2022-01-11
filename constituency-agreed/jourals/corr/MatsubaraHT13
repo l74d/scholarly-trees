@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN correlation)) (PP (IN in) (NP (DT the) (NN flow)))) (VP (VBZ is) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (JJR weaker)) (PP (IN than) (NP (NP (DT that)) (PP (IN in) (NP (DT the) (NN send) (NNS requests))))))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (DT the) (NN correlation)) (PP (IN in) (NP (DT the) (NN flow)))) (VP (VBZ originates) (PP (IN from) (NP (NP (DT that)) (PP (IN in) (NP (NP (DT the) (NN sequence)) (PP (IN of) (NP (NN send) (NNS requests))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP evaluate) (NP (NP (DT the) (NNS performances)) (PP (IN of) (NP (NP (JJ different) (NN encoder) (NNS architectures)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP include) (NP (NNP LSTM) (CC and) (NNP GRU))))))))) (. .))

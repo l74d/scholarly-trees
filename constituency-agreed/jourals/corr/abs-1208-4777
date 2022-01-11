@@ -1,0 +1,2 @@
+(S (NP (NN Outage)) (VP (VBZ is) (RB not) (VP (VBN permitted) (PP (IN in) (NP (DT any) (NN communication) (NN block))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT an) (NN upperbound)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN channel) (NNS laws)) (VP (VBP are) (RB not) (ADJP (JJ identical)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP define) (CC and) (VBP prove) (NP (NP (NNS isomorphisms)) (PP (IN between) (NP (CD three) (JJ combinatorial) (NNS classes)))) (S (VP (VBG involving) (NP (VBN labeled) (NNS trees))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (DT an) (NN alternative) (NN proof)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (VBG generating) (NNS functions)))))) (. .))

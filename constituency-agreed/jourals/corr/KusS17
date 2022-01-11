@@ -1,0 +1,3 @@
+(S (NP (DT These) (NNS concepts)) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN combined) (PP (IN within) (NP (DT a) (JJ parallel) (JJ adaptive) (JJ finite) (NN element) (NN software)))))))) (. .))
+(S (NP (DT A) (NN prototype) (NN implementation)) (VP (VBZ is) (VP (VBN presented) (PP (IN for) (NP (DT this) (NN purpose))))) (. .))
+(S (S (NP (DT The) (JJ basic) (NNS concepts)) (VP (VBP are) (VP (VBN recalled)))) (CC and) (S (NP (NP (NNS components)) (ADJP (JJ necessary) (PP (IN for) (NP (DT the) (NN combination))))) (VP (VBP are) (VP (VBN studied) (PP (IN in) (NP (NN detail)))))) (. .))

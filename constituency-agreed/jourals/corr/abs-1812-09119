@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NP (JJ efficient) (NN computation)) (PP (IN in) (NP (JJ deep) (NN kernel) (NNS networks))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reduces) (ADVP (RB dramatically)) (NP (NP (DT the) (NN complexity)) (PP (IN of) (S (VP (VBG evaluating) (NP (DT these) (JJ deep) (NNS kernels))))))))))) (. .))

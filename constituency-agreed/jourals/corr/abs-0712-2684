@@ -1,0 +1,4 @@
+(S (NP (DT The) (NNS agents)) (VP (VBP are) (VP (VBN arranged) (PP (IN in) (NP (NP (DT a) (JJ linear) (NN array)) (SBAR (WHADVP (WRB where)) (S (NP (RB only) (JJ local) (NNS couplings)) (VP (VBP are) (VP (VBN allowed))))))))) (. .))
+(S (NP (NP (DT The) (JJ deterministic) (NNS dynamics)) (PP (IN of) (NP (DT each) (NN agent)))) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (DT a) (NN map))))) (. .))
+(S (NP (DT This) (NN map)) (VP (VBZ is) (VP (VBN expressed) (PP (IN by) (NP (CD two) (NNS factors))))) (. .))
+(S (NP (NP (JJ Other) (NNS properties)) (PP (IN of) (NP (DT the) (NN system))) (, ,) (PP (JJ such) (IN as) (NP (NP (DT the) (JJ mean) (NN wealth)) (, ,) (NP (DT the) (JJ standard) (NN deviation)) (CC and) (NP (DT the) (NNP Gini) (NN coefficient)))) (, ,)) (VP (VBP are) (ADVP (RB also)) (VP (VBN calculated))) (. .))

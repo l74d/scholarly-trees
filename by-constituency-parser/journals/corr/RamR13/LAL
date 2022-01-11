@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB obtain) (NP (NP (DT the) (JJ chromatic) (NN number)) (PP (IN of) (NP (DT a) (NN finite) (, ,) (VBN connected) (NN graph))))))))) (VP (VBZ is) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NN contraction)) (PP (IN of) (NP (ADJP (JJ non) (JJ adjacent)) (NNS vertices))))))) (. .))

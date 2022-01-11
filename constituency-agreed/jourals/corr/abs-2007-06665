@@ -1,0 +1,2 @@
+(S (NP (NNP Quantum) (NNS annealers)) (VP (VBP are) (NP (NP (DT a) (JJ prominent) (NN example)) (PP (IN of) (NP (JJ such) (NNS efforts))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (CD one) (JJ such) (NN design)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (NP (JJ bistable) (NNS nodes)) (, ,) (VP (VBN coupled) (PP (IN with) (NP (ADJP (JJ programmable) (CC and) (JJ variable)) (NNS strengths)))))))))) (. .))

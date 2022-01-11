@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ provides) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (NP (DT an) (JJ objective) (NN measure)) (PP (IN of) (SBAR (IN whether) (CC or) (RB not) (S (NP (NP (DT a) (JJ particular) (NN value)) (PP (IN of) (NP (NN modularity)))) (VP (VBZ is) (ADJP (JJ meaningful)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (PP (IN by) (S (VP (VBG applying) (NP (DT this) (NN methodology)) (S (VP (TO to) (VP (VB investigate) (NP (NP (DT a) (JJ multi-edge) (NN network)) (PP (IN of) (NP (JJ corporate) (NN email) (NNS interactions))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NNP Twitter) (NN blogosphere))) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS followers)))) (VP (VBZ is) (ADVP (RB probably)) (NP (NP (DT the) (ADJP (RBS most) (JJ basic) (CC and) (JJ succinct)) (NN quantity)) (PP (IN for) (S (VP (VBG measuring) (NP (NP (NN popularity)) (PP (IN of) (NP (NNS users))))))))) (. .))
+(S (NP (NP (DT A) (JJ first) (NN type)) (PP (IN of) (NP (NN user)))) (VP (VBZ follows) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (JJ other) (NNS users))))) (. .))

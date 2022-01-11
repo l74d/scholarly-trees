@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS data)) (VP (VBP depend) (PP (IN on) (NP (NP (CD one) (NN variable)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NN time)))))))) (. .))
+(S (NP (DT The) (NN theory)) (VP (VBZ guarantees) (NP (NP (DT the) (JJ global) (NN convergence)) (PP (IN of) (NP (DT this) (NN method))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN advection) (NNS currents)) (VP (VBP are) (VP (VBN estimated) (PP (IN by) (NP (JJ kinematic) (NN analysis)))))) (, ,) (CC and) (S (NP (NP (DT the) (NNS changes)) (PP (IN in) (NP (JJ physical) (NNS quantities)))) (VP (VBP are) (VP (VBN estimated) (PP (IN by) (NP (NNP Koopman) (NN operator) (NN analysis)))))) (. .))

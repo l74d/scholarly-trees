@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB additionally)) (VP (VBP show) (NP (NP (DT a) (JJ close) (NN connection)) (PP (IN between) (NP (NP (JJ unsupervised) (NNP Searn)) (CC and) (NP (NN expectation) (NN maximization)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT a) (JJ semi-supervised) (NN extension))))) (. .))

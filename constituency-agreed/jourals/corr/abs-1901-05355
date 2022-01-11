@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ uses) (NP (ADJP (RB easily) (JJ obtainable)) (JJ prior) (NN animation) (NNS data))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB generate) (NP (JJ convincing) (NNS animations)) (S (VP (VBG using) (NP (RB only) (DT a) (JJ monocular) (NN video) (NN input))))))))) (. .))

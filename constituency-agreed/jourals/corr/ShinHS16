@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN text) (NN generation)) (VP (MD can) (VP (VB be) (VP (VBN conducted) (PP (IN by) (NP (CC either) (NP (DT the) (NN teacher)) (CC or) (NP (DT the) (NN student) (NN network))))))) (. .))
+(S (ADVP (RB Especially)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ soft) (NNS labels)) (PP (IN of) (NP (JJ multiple) (NNS devices)))) (VP (VBP are) (VP (VBN aggregated) (PP (IN via) (NP (DT a) (JJ trusted) (JJ third) (NN party))))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB expect) (NP (ADJP (RB very) (JJ strong)) (NN privacy) (NN protection)))) (. .))

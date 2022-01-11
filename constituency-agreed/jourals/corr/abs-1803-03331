@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG using) (NP (DT this) (NN technique))))) (, ,) (NP (NN hardware) (NNS tasks)) (VP (MD can) (VP (VB be) (VP (VBN loaded) (CC and) (VBN reloaded) (PP (IN on) (NP (NN demand))) (PP (VBG depending) (PP (IN on) (NP (DT the) (NN system) (NNS requirements))))))) (. .))
+(S (PP (IN In) (NP (DT the) (VBN proposed) (NN implementation))) (, ,) (NP (JJ different) (NNS scenarios)) (VP (VBP have) (VP (VBN been) (VP (VBN tested)))) (. .))

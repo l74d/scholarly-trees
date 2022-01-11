@@ -1,0 +1,1 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS difficulties)) (PP (IN in) (S (VP (VBG analyzing) (NP (JJ neural) (NNS networks)))))))) (VP (VBZ is) (NP (NP (DT the) (NN non-convexity)) (PP (IN of) (NP (NP (DT the) (NN loss) (NN function)) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB have) (NP (JJ many) (JJ bad) (JJ local) (NN minima)))))))))) (. .))

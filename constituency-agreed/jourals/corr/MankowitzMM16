@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (NNP IHOMP)) (: :) (NP (NP (DT an) (NN approach)) (PP (IN for) (S (VP (VBG solving) (NP (VBN misspecified) (NNS problems)))))))) (. .))
+(S (NP (PRP$ Our) (JJ main) (NN contribution)) (VP (VBZ is) (VP (VBG proving) (SBAR (IN that) (S (NP (NNP IHOMP)) (VP (VBZ enjoys) (NP (JJ theoretical) (NN convergence) (NNS guarantees))))))) (. .))

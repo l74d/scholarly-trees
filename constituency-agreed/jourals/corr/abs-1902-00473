@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (TO to) (VP (VB guarantee) (NP (NN convergence))))) (, ,) (NP (DT the) (JJ dynamical) (NN system)) (VP (MD must) (VP (VB be) (VP (VBN coupled) (PP (IN with) (NP (DT an) (JJ algebraic) (NN equation)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (NN control) (NN law)) (SBAR (WHNP (WDT that)) (S (VP (VBZ attempts) (S (VP (TO to) (VP (VB optimize) (NP (NP (DT the) (NN convergence) (NN behavior)) (PP (IN of) (NP (DT the) (NN observer))))))))))) (VP (VBZ is) (VP (VBN presented))) (. .))

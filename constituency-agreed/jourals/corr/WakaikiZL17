@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN state) (NN estimate)) (PP (IN from) (NP (DT a) (NNP Luenberger) (NN observer)))) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NP (NN control) (NNS inputs)) (CC and) (NP (NN quantization) (NNS centers)))))) (. .))

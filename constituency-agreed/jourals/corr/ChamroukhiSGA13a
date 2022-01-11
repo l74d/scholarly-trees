@@ -1,0 +1,2 @@
+(S (NP (VBG Modeling) (NNS techniques)) (VP (MD may) (ADVP (RB then)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB give) (NP (NP (DT a) (JJ synthetic) (NN representation)) (PP (IN of) (NP (JJ such) (NNS data)))))))))) (. .))
+(S (NP (NP (DT A) (JJ new) (NN approach)) (PP (IN for) (NP (NN time) (NN series) (NN modeling)))) (VP (VBZ is) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

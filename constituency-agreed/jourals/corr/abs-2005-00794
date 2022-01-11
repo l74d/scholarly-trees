@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS protocols)) (VP (VBP are) (ADJP (JJ compatible) (PP (IN with) (NP (NP (DT a) (JJ wide) (NN variety)) (PP (IN of) (NP (NNS endpoints))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP analyze) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (PRP$ our) (NNS protocols))))) (CC and) (VP (VB evaluate) (NP (PRP$ their) (NN performance) (CC and) (NN cost)) (PP (IN against) (NP (DT the) (JJ common) (NNS approaches))))) (. .))

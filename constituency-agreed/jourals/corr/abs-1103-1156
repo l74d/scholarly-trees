@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT this) (NN structure)) (VP (VP (VBZ is) (ADJP (RB hierarchically) (JJ expandable))) (CC and) (VP (MD can) (VP (VB compute) (NP (NNS operations)) (PP (IN in) (NP (JJ real) (NN time))) (SBAR (IN since) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN implemented) (PP (IN through) (NP (NN analog) (NNS circuits)))))))))) (. .))

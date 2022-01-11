@@ -1,0 +1,1 @@
+(S (PP (IN Upon) (NP (NP (NN tuning)) (PP (IN of) (NP (DT the) (JJ various) (NNS hyperparameters))))) (, ,) (NP (DT this) (NN model)) (VP (VBD achieved) (NP (NP (DT a) (JJ final) (NN accuracy)) (PP (IN of) (NP (CD 0.60))))) (. .))

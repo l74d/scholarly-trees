@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP investigate) (S (VP (VBG proving) (NP (NP (NNS properties)) (PP (IN of) (NP (NNP Curry) (NNS programs)))) (S (VP (VBG using) (NP (NNP Agda))))))) (. .))
+(S (NP (DT The) (JJ first) (NN approach)) (VP (VBZ eliminates) (NP (NN non-determinism)) (PP (IN by) (S (VP (VBG considering) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (DT all) (JJ non-deterministic) (NNS values)) (VP (VBN produced) (PP (IN by) (NP (DT an) (NN application))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP parameterize) (NP (DT this) (NN function)) (PP (IN with) (NP (DT a) (JJ neural) (NN network)))) (CC and) (VP (VB fit) (NP (PRP$ its) (NNS parameters)) (S (VP (TO to) (VP (VB maximize) (NP (DT the) (NN discrepancy))))))) (. .))

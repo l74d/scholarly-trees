@@ -1,0 +1,1 @@
+(S (NP (NNP Tensor) (NN decomposition) (NNS methods)) (VP (VBP have) (ADVP (RB recently)) (VP (VBN proven) (S (VP (TO to) (VP (VB be) (ADJP (JJ efficient) (PP (IN for) (S (VP (VBG compressing) (CC and) (VBG accelerating) (NP (JJ neural) (NNS networks))))))))))) (. .))

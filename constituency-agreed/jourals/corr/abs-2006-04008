@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NNP Cryptography)))) (VP (VBZ is) (NP (NP (DT the) (NN construction) (CC and) (NN analysis)) (PP (IN of) (NP (NP (NNS protocols)) (SBAR (WHNP (WDT that)) (S (VP (VBP prevent) (NP (JJ third) (NNS parties)) (PP (IN from) (S (VP (VBG understanding) (NP (JJ private) (NNS messages)))))))))))) (. .))

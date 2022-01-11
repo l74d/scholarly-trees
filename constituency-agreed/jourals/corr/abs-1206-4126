@@ -1,0 +1,2 @@
+(S (NP (NNS Mathematicians) (CC and) (NNS Engineers)) (VP (VBP have) (ADVP (RB historically)) (VP (VBN relied) (PP (IN on) (NP (JJ different) (JJ algorithmic) (NNS techniques))) (S (VP (TO to) (VP (VB secure) (NP (NNS messages) (CC and) (NNS signals))))))) (. .))
+(S (ADVP (RB Indeed)) (, ,) (NP (NP (DT the) (NN protection)) (PP (IN of) (NP (JJ sensitive) (NNS communications)))) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN emphasis)) (PP (IN of) (NP (NN cryptography)))) (PP (IN throughout) (NP (NP (JJ much)) (PP (IN of) (NP (PRP$ its) (NN history))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT Both) (NNS criteria)) (VP (VBP are) (VP (VBN applied) (PP (IN in) (NP (NP (DT an) (JJ iterative) (NN process)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (PP (IN at) (NP (DT each) (NN iteration))) (NP (NP (DT a) (NN value)) (PP (IN for) (NP (NN regularization) (NN parameter)))) (VP (VBZ is) (VP (VBN estimated))))))))) (. .))

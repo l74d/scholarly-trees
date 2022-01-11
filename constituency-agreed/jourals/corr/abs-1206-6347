@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (DT an) (JJ essential) (NN kind)) (PP (IN of) (NP (NN referent)))) (VP (VBZ is) (NP (NP (DT a) (JJ geographic) (NN place)) (, ,) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (NNS users)) (VP (MD may) (VP (VB contribute) (NP (NNS observations)))))))) (. .))
+(S (NP (NP (DT The) (NN technology) (NN stack)) (PP (IN of) (NP (DT the) (JJ semantic) (NN web)))) (VP (MD should) (VP (VB be) (VP (VBN extended) (PP (IN by) (NP (JJ such) (NNS operations)))))) (. .))

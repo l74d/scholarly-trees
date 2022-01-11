@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ robust) (JJ linear) (NN regression)) (PP (IN with) (NP (NN response) (JJ variable) (NNS corruptions))))))) (. .))
+(S (NP (NP (VBG Existing) (NNS results)) (PP (IN in) (NP (DT this) (NN setting)))) (VP (CC either) (VP (VBP do) (RB n't) (VP (VB guarantee) (NP (JJ consistent) (NNS estimates)))) (CC or) (VP (MD can) (ADVP (RB only)) (VP (VB handle) (NP (NP (DT a) (JJ small) (NN fraction)) (PP (IN of) (NP (NNS corruptions))))))) (. .))

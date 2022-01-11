@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NN training) (NN stage))) (, ,) (NP (DT an) (JJ objective) (NN function)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN adopted) (S (VP (TO to) (VP (VB optimize) (NP (DT the) (NN model) (NNS parameters))))))) (. .))

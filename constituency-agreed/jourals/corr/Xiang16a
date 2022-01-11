@@ -1,0 +1,3 @@
+(S (NP (NP (DT All) (JJ linear) (NNS codes)) (PP (IN over) (NP (JJ finite) (NNS fields)))) (VP (MD can) (VP (VB be) (VP (VBN generated) (PP (IN by) (NP (DT a) (NN generator) (NN matrix)))))) (. .))
+(S (CC But) (ADVP (RB so) (RB far)) (, ,) (NP (NP (DT no) (NN proof)) (PP (IN of) (NP (DT this) (NN claim)))) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (DT the) (NN literature))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN byproduct))) (, ,) (NP (NP (DT a) (NN trace) (NN representation)) (PP (IN of) (NP (NP (DT all) (JJ linear) (NNS codes)) (PP (IN over) (NP (JJ finite) (NNS fields)))))) (VP (VBZ is) (VP (VBN presented))) (. .))

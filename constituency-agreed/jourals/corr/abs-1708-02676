@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (NN power)) (VP (VBZ is) (VP (VBN digitized) (CC and) (VBN quantized))) (. .))
+(S (NP (DT A) (NN network) (NN structure)) (VP (VBZ is) (VP (VBN defined) (S (VP (VBG using) (NP (NP (DT a) (NN graph)) (SBAR (WHNP (WP$ whose) (NNS nodes)) (S (VP (VBP represent) (NP (NNS routers) (, ,) (NNS sources) (, ,) (CC and) (NNS destinations)))))))))) (. .))

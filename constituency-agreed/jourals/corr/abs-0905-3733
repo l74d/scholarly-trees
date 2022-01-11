@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VB obtain) (NP (DT the) (JJ asymptotic) (NNS expressions)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN block) (NN length)) (VP (VBZ tends) (PP (TO to) (NP (NN infinity))))))) (CC and) (VP (VB evaluate) (NP (PRP them)) (ADVP (RB numerically)))) (. .))

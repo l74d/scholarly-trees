@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN aim)) (VP (VBZ is) (S (VP (TO to) (VP (VB capture) (NP (NP (JJ different) (NNS characteristics)) (PP (IN of) (NP (NP (DT the) (NN research) (NN performance)) (PP (IN of) (NP (NNS publishers)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (DT the) (JJ main) (NNS publishers)) (PP (IN by) (NP (NNS fields)))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (JJ main) (NNS challenges)) (VP (VBN presented) (SBAR (WHADVP (WRB when)) (S (VP (VBG developing) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NNS tools)))))))))) (. .))

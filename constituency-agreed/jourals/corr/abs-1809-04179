@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Joe) (NNP Pater) (POS 's)) (NN target) (NN article)) (VP (VBZ calls) (PP (IN for) (NP (NP (JJR greater) (NN interaction)) (PP (IN between) (NP (NP (JJ neural) (NN network) (NN research)) (CC and) (NP (NNS linguistics))))))) (. .))
+(S (NP (PRP I)) (VP (VP (VBP expand) (PP (IN on) (NP (DT this) (NN call)))) (CC and) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (JJ such) (NN interaction)) (VP (MD can) (VP (VB benefit) (NP (DT both) (NNS fields)))))))) (. .))

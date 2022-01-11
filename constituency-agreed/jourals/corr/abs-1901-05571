@@ -1,0 +1,2 @@
+(S (S (VP (VBG Being) (ADJP (JJ aware) (PP (IN of) (NP (DT this) (NN problem)))))) (, ,) (NP (NN coflow)) (VP (VBZ is) (VP (VBN proposed) (PP (IN as) (NP (DT a) (JJ new) (NN network) (NN abstraction))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT the) (JJ real) (NN application) (NN performance)) (VP (MD can) (VP (VB be) (VP (VBN hurt) (, ,) (PP (ADVP (RB especially)) (IN in) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (JJ hard) (NNS barriers)))))))) (. .))

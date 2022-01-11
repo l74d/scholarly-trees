@@ -1,0 +1,2 @@
+(S (NP (NNP Alice)) (VP (MD can) (VP (VB draw) (NP (NP (DT a) (NN sample)) (PP (IN of) (NP (DT any) (NN size)))) (PP (IN before) (S (VP (VBG issuing) (NP (PRP$ her) (NN prediction))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN sense))) (, ,) (NP (NP (PDT half) (DT the) (NN information)) (PP (IN in) (NP (DT an) (JJ infinite) (NN sample)))) (VP (VBZ is) (VP (VBN contained) (PP (IN in) (NP (NP (DT a) (NN sample)) (PP (IN of) (NP (NN size) (CD one))))))) (. .))

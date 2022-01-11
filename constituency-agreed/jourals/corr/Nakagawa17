@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ exists) (NP (NP (DT a) (NN subgame) (JJ perfect) (NN equilibrium)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (NN firm)) (VP (VBZ chooses) (NP (DT a) (JJ symmetric) (JJ mixed) (NN strategy) (NN equilibrium) (NN profile)))))))))) (. .))
+(S (NP (DT This) (NN equilibrium)) (VP (VBZ includes) (NP (NP (JJ symmetric) (NN location) (NNS pairs)) (CC and) (NP (JJ asymmetric) (NN location) (NNS pairs)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (CD two) (NNS theorems)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP support) (NP (PRP$ our) (NN methodology))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (PRP$ our) (JJ theoretical) (NNS results)))) (, ,) (NP (PRP we)) (VP (VBP outline) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (DT an) (ADJP (RB adversarially) (JJ resilient)) (NN classifier))))) (. .))

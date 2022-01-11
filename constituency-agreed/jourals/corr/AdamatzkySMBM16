@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Values)) (PP (IN of) (NP (NNP Boolean) (NNS variables)))) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NN plant) (NNS roots))))) (. .))
+(S (NP (JJ Logical) (NNS functions)) (VP (VBP are) (VP (VBN calculated) (PP (IN via) (NP (NP (NN interaction)) (PP (IN between) (NP (NNS roots))))))) (. .))

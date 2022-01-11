@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (S (VP (VBG seeking) (NP (NP (JJ spectral) (NNS peaks)) (VP (VBN associated) (PP (IN with) (NP (NN heart) (NN rate))))))) (VP (VBZ is) (VP (VBN simplified))) (. .))
+(S (S (NP (DT The) (JJ average) (JJ absolute) (NN estimation) (NN error)) (VP (VBD was) (NP (NP (CD 1.28) (NN beat)) (PP (IN per) (NP (NN minute)))))) (CC and) (S (NP (DT the) (JJ standard) (NN deviation)) (VP (VBD was) (NP (NP (CD 2.61) (NN beat)) (PP (IN per) (NP (NN minute)))))) (. .))

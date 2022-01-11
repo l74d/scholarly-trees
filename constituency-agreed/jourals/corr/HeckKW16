@@ -1,0 +1,2 @@
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (DT this)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN with) (NP (JJ redundant) (NN communication) (NNS paths)))))) (. .))
+(S (ADVP (RB Mathematically)) (, ,) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (JJ redundant) (NNS paths)))) (VP (VBZ is) (VP (VBN expressed) (PP (IN with) (NP (DT the) (NN network) (NN connectivity))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Impurity)) (VP (VBZ lowers) (NP (NP (DT the) (NN interpretability)) (PP (IN of) (NP (NN topic) (NNS models))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ hierarchical) (NN re-estimation) (NN process)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG removing) (NP (NN generality) (CC and) (NN impurity)))))))) (. .))

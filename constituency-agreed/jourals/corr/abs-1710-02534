@@ -1,0 +1,2 @@
+(S (NP (NP (NN Image) (NN captioning)) (, ,) (NP (NP (DT a) (JJ popular) (NN topic)) (PP (IN in) (NP (NN computer) (NN vision)))) (, ,)) (VP (VBZ has) (VP (VBN achieved) (NP (JJ substantial) (NN progress)) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN distinctiveness)) (PP (IN of) (NP (JJ natural) (NNS descriptions)))) (VP (VBZ is) (ADVP (RB often)) (VP (VBN overlooked) (PP (IN in) (NP (JJ previous) (NN work))))) (. .))

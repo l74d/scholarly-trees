@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP define) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (VBG alternating) (NNS polygons))))) (, ,) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT any) (NN polygon)) (PP (IN from) (NP (DT this) (NN family)))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN convexified) (PP (IN by) (NP (NN pop) (NNS operations)))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (S (VP (VBG learning) (NP (PDT such) (DT a) (NN word) (NN mapping)) (PP (IN without) (NP (DT any) (NN supervision) (NN signal))))))) (. .))
+(S (NP (DT This) (JJ alternate) (NN optimization) (NN process)) (VP (VBZ is) (ADJP (RB relatively) (JJ hard) (CC and) (JJ unstable))) (. .))
+(S (NP (JJ Extensive) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (VBN proposed) (NN model)) (VP (VBZ outperforms) (NP (JJ competitive) (NNS baselines)) (PP (IN by) (NP (DT a) (JJ large) (NN margin))))))) (. .))

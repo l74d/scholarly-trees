@@ -1,0 +1,2 @@
+(S (NP (PRP$ Its) (JJ operational) (NNS semantics)) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN based) (PP (IN on) (NP (JJ intuitionistic) (NN provability))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (NP (DT the) (JJ operational) (NNS semantics)) (PP (IN of) (NP (DT these) (NNS languages)))) (PP (IN with) (NP (NN game) (NNS semantics)))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN encoder)) (ADVP (RB only)) (VP (VBZ knows) (NP (NP (DT the) (NNS statistics)) (PP (IN of) (NP (DT the) (NN channel) (NN state))))))) (, ,) (NP (NP (DT the) (NN secrecy)) (CC and) (NP (DT the) (NN reliability))) (VP (VBP are) (VP (VBN defined) (PP (IN in) (NP (DT a) (JJ probabilistic) (NN framework))))) (. .))

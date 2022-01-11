@@ -1,0 +1,3 @@
+(S (NP (VBN Supervised) (NN learning)) (VP (VBZ requires) (NP (NP (DT a) (JJ sufficient) (NN training) (NN dataset)) (SBAR (WHNP (WDT which)) (S (VP (VBZ includes) (NP (DT all) (NN label))))))) (. .))
+(S (PP (IN In) (NP (NN training))) (, ,) (NP (NN clustering)) (VP (VBZ is) (VP (VBN done) (PP (IN for) (NP (NN training) (NNS data))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ has) (VP (VBN been) (VP (VBN published) (PP (IN in) (NP (NP (DT the) (NNP Journal)) (PP (IN of) (NP (NP (NNP Ambient) (NNP Intelligence)) (CC and) (NP (NNP Humanized) (NNP Computing))))))))) (. .))

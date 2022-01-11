@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (NN model)) (, ,) (NP (NNP IPRank)) (, ,)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NN institution) (CC and) (NN paper)))) (ADVP (RB simultaneously))))))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (NP (NNP PageRank)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB quantify) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NN institution) (CC and) (NN paper))))))))) (. .))

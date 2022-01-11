@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN packing)) (VP (MD must) (VP (VB be) (ADJP (JJ non-overlapping))))) (CC and) (S (NP (DT the) (NNS rectangles)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN rotated))))) (. .))

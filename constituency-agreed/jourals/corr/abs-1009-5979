@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ key) (NN assumption)) (PP (IN in) (NP (DT the) (JJ previous) (NN work)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (CD two) (NNS matrices)) (VP (VBP have) (NP (DT the) (JJ same) (NN interference) (NNS statistics)))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ general) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (VBZ covers) (NP (DT the) (VBG existing) (NNS schemes))))))) (. .))

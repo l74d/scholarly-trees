@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBD was) (VP (VBN initialized) (PP (IN with) (NP (NNP Imagenet) (NNS weights))))) (. .))

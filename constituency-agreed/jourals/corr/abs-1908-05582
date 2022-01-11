@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ main) (NN focus)) (VP (VBZ is) (PP (IN on) (NP (NP (JJ nonlinear) (JJ differential) (NNS equations)) (PP (IN with) (NP (JJ multiscale) (NNS coefficients)))))) (. .))
+(S (NP (DT The) (NN test) (NNS functions)) (VP (VP (VBP are) (VP (VBN defined) (PP (IN via) (NP (NN optimization))))) (CC and) (VP (VB play) (NP (DT a) (JJ crucial) (NN role)) (PP (IN in) (NP (JJ nonlinear) (NN upscaling))))) (. .))

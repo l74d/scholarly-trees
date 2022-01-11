@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VP (VBP proceed) (PP (IN in) (NP (JJ multiple) (NNS rounds)))) (, ,) (CC and) (VP (VBP are) (VP (VBN affected) (PP (IN by) (SBAR (WHADVP (WRB how)) (S (NP (NNS ties)) (VP (VBP are) (VP (VBN broken) (PP (IN in) (NP (DT each) (NN round))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NN literature)) (VP (VBZ is) (ADJP (RB surprisingly) (JJ vague) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (NNS ties)) (VP (MD should) (VP (VB be) (VP (VBN broken))))))))) (. .))

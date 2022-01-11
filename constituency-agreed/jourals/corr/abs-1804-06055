@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN co-occurrence) (NNS features)) (VP (VBP are) (VP (VBN learned) (PP (IN with) (NP (NP (DT a) (JJ hierarchical) (NN methodology)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (JJ different) (NNS levels)) (PP (IN of) (NP (JJ contextual) (NN information)))) (VP (VBP are) (VP (VBN aggregated) (ADVP (RB gradually)))))))))) (. .))

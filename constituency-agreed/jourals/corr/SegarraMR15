@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (PP (IN for) (NP (NP (DT the) (NNS cases)) (SBAR (WHADVP (WRB where)) (S (NP (JJ perfect) (NN implementation)) (VP (VBZ is) (ADJP (JJ infeasible))))))) (, ,) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (NP (JJ optimal) (NNS approximations)) (PP (IN for) (NP (JJ different) (NN error) (NNS metrics)))))) (VP (VBZ is) (VP (VBN analyzed))) (. .))

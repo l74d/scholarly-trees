@@ -1,0 +1,1 @@
+(S (NP (NP (VBG Existing) (NN image) (NN restoration) (NNS methods)) (VP (VBG working) (PP (IN in) (NP (DT the) (NNP RGB) (NN domain))))) (VP (VBP have) (NP (NP (NN difficulty)) (PP (IN in) (S (VP (VBG distinguishing) (NP (NN moire) (NNS patterns)) (PP (IN from) (NP (JJ true) (NN scene) (NN texture)))))))) (. .))

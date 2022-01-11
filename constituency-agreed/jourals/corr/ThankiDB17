@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN robustness) (CC and) (NN security)) (PP (IN of) (NP (DT the) (JJ biometric) (NN watermarking) (NN approach)))) (VP (MD can) (VP (VB be) (VP (VBN improved) (PP (IN by) (S (VP (VBG using) (NP (DT a) (JJ multiple) (NN watermarking)))))))) (. .))
+(S (NP (DT This) (JJ multiple) (NN watermarking)) (VP (VBN proposed) (PP (IN for) (S (VP (VBG improving) (NP (NP (NN security)) (PP (IN of) (NP (JJ biometric) (NNS features) (CC and) (NNS data)))))))) (. .))

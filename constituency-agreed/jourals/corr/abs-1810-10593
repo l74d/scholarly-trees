@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB stabilize) (NP (NN training))))) (, ,) (NP (PRP we)) (VP (VP (VBP normalize) (NP (DT the) (NN reward))) (CC and) (VP (VB increase) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN discriminator) (NN training) (NN dataset)))))) (. .))

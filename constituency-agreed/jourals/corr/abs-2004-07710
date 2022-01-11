@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN synthesis)) (PP (IN of) (NP (DT a) (NN quantum) (NN circuit)))) (VP (VBZ consists) (PP (IN in) (S (VP (VBG decomposing) (NP (DT a) (JJ unitary) (NN matrix)) (PP (IN into) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ elementary) (NNS operations))))))))) (. .))

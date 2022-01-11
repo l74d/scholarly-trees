@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (DT the) (NN network)) (VP (VBZ learns) (S (VP (TO to) (VP (VB use) (NP (JJ latent) (NNS variables)) (PP (IN as) (NP (NP (DT an) (NN approximation)) (PP (IN of) (NP (ADJP (JJ phonetic) (CC and) (JJ phonological)) (NNS representations)))))))))))) (. .))

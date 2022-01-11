@@ -1,0 +1,1 @@
+(S (ADVP (RB Hence)) (NP (NP (DT a) (NN loss) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ accounts) (PP (IN for) (NP (NP (DT the) (NN reconstruction) (NN error)) (PP (IN of) (NP (NNS images))))))))) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT the) (NNS translators)))))))) (. .))

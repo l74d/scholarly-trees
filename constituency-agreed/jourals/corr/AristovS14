@@ -1,0 +1,2 @@
+(S (NP (NP (NN Evaluation)) (PP (IN of) (NP (NP (DT the) (NN error)) (PP (IN for) (NP (DT this) (NN case)))))) (VP (VBZ is) (VP (VBN performed))) (. .))
+(S (S (VP (VBG Constructing) (NP (NP (DT the) (JJ analytical) (NN representation)) (PP (IN of) (NP (NP (DT the) (NNS solutions)) (PP (IN for) (NP (DT these) (NNS systems)))))) (PP (IN by) (NP (DT the) (JJ developed) (NN method))))) (VP (VBZ is) (VP (VBN presented))) (. .))

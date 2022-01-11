@@ -1,0 +1,2 @@
+(S (PP (IN During) (NP (NN inference))) (, ,) (NP (DT the) (JJ appropriate) (NN filter)) (VP (VBZ is) (VP (VBN selected) (PP (VBG depending) (PP (IN on) (NP (NP (DT the) (NNS dimensions)) (PP (IN of) (NP (DT the) (NN target) (NN thumbnail)))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP it)) (VP (VBZ eliminates) (NP (DT the) (NN need) (S (VP (TO to) (VP (VB conduct) (NP (NN region) (NN search)) (PP (IN on) (NP (DT the) (NN saliency) (NN map)))))))) (. .))

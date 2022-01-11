@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN randomness)) (VP (VBZ is) (VP (VBN analyzed) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN autocorrelation) (NN function)) (PP (IN of) (NP (NP (DT the) (NN sequence)) (PP (IN of) (NP (NP (NN number)) (PP (IN of) (NP (NNS partitions))))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ such) (NN ellipse) (NNS sequences)) (ADVP (RB also)) (VP (VBP have) (NP (JJ excellent) (NN randomness) (NN property))))))) (. .))

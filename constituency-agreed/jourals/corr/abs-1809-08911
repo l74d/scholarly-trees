@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (PP (IN in) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ empirical) (NNS applications))))) (SBAR (IN that) (S (NP (NP (DT this) (NN framework)) (, ,) (VP (VBG consisting) (PP (IN of) (NP (JJ compressive) (JJ adversarial) (NN privacy)))) (, ,)) (VP (MD can) (VP (VB preserve) (NP (JJ sensitive) (NN information))))))) (. .))

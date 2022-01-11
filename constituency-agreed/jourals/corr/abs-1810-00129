@@ -1,0 +1,1 @@
+(S (NP (NP (NP (CD Two) (NNS architectures)) (PP (IN with) (NP (CD five) (NNS qubits)))) (, ,) (NP (NP (CD one)) (PP (IN with) (NP (CD 16)))) (, ,) (CC and) (NP (NP (CD one)) (PP (IN with) (NP (CD 20) (NNS qubits))))) (VP (VBP are) (ADJP (JJ available) (S (VP (TO to) (VP (VB run) (NP (NNS experiments))))))) (. .))

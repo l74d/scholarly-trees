@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (JJ coarse) (NN discretization) (NNS parameters)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP do) (RB not) (VP (VB resolve) (NP (DT the) (JJ fine) (NNS scales)))))) (, ,)) (VP (MD can) (VP (VB be) (VP (VBN considered)))) (. .))

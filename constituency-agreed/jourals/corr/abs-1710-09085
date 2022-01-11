@@ -1,0 +1,2 @@
+(S (S (NP (DT These) (NNS algorithms)) (VP (VBP offer) (NP (JJ acceptable) (NN performance)) (PP (IN in) (NP (JJS most) (NNS cases))))) (CC but) (S (NP (PRP they)) (VP (VBP are) (VP (VBN associated) (PP (IN with) (NP (DT a) (JJ substantial) (NN cost)))))) (. .))
+(S (NP (PRP They)) (VP (VBP require) (NP (ADJP (RB significantly) (JJR greater)) (NNS resources)) (S (VP (TO to) (VP (VB operate))))) (. .))

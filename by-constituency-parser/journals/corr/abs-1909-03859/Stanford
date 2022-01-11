@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN article)) (VP (VBD included) (NP (NP (JJ theoretical) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (ADVP (IN along) (PP (IN with) (NP (NN simulation) (NNS results))))))) (PP (IN under) (NP (JJ different) (NNS scenarios)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ transient) (NN analysis)) (VP (VBD was) (VP (VBN left) (S (ADJP (JJ incomplete))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ presents) (NP (NP (DT the) (JJ complete) (JJ transient) (NN analysis)) (, ,) (PP (VBG including) (NP (DT the) (NN learning) (NN behavior))))) (. .))
+(S (NP (DT The) (NN analysis) (NNS results)) (VP (VBP are) (VP (VBN verified) (PP (IN through) (NP (JJ several) (JJ experimental) (NNS results))))) (. .))

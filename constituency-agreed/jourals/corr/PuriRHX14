@@ -1,0 +1,2 @@
+(S (NP (NNP Loop) (NN pipelining)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ critical) (CC and) (JJ complex)) (NNS transformations)) (VP (VBN employed) (PP (IN in) (NP (JJ behavioral) (NN synthesis)))))))) (. .))
+(S (NP (NP (DT The) (NN completion)) (PP (IN of) (NP (DT the) (NN proof)))) (VP (VBZ is) (NP (NP (NN work)) (PP (IN in) (NP (NN progress))))) (. .))

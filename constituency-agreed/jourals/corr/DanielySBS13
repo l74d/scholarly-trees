@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (NNS classes)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ learnable) (PP (IN by) (NP (DT some) (NNP ERM) (NNS learners)))) (, ,) (SBAR (IN while) (S (NP (JJ other) (NNP ERM) (NNS learners)) (VP (MD will) (VP (VB fail) (S (VP (TO to) (VP (VB learn) (NP (PRP them)))))))))))))) (. .))

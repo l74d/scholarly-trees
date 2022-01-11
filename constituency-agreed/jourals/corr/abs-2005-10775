@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (CD one)) (VP (MD may) (VP (VB encounter) (NP (JJ non-smooth) (NNS integrands)))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (JJ numerical) (NNS illustrations)) (PP (IN of) (NP (NP (DT the) (JJ relative) (NN accuracy) (CC and) (NN efficiency)) (PP (IN of) (NP (NP (DT the) (JJ several) (NNS approaches)) (SBAR (S (NP (PRP we)) (VP (VBP develop)))))))))) (. .))

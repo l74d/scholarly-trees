@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN family)) (PP (IN of) (NP (JJ isospectral) (NNS graphs)))) (VP (VBP are) (VP (VBN found) (PRT (RP out)) (PP (IN by) (S (VP (VBG utilizing) (NP (DT an) (JJ appropriate) (NN similarity) (NN transformation))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NNS solutions)) (VP (VBP are) (VP (VBN validated) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (JJ sufficient) (NNS examples))))))) (. .))

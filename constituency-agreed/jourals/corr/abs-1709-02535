@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN mirror) (NN descent) (NN method)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT a) (JJ general) (NN optimization) (NN algorithm))))))))) (. .))
+(S (NP (NP (DT The) (NN contribution)) (PP (IN of) (NP (DT this) (NN research)))) (VP (VBZ is) (ADJP (RB roughly) (JJ twofold))) (. .))

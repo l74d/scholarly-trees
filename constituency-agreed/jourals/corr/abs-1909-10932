@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NNP Newton) (NN interpolation)) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (JJ computational) (NN cost)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (JJ numerical) (NNS simulations)) (S (VP (TO to) (VP (VB compare) (NP (DT this) (NN approach)) (PP (IN with) (NP (DT a) (JJ few) (JJ other) (NNS schemes))))))) (. .))

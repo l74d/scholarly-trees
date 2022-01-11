@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN software)) (VP (VP (VBZ is) (ADJP (RB freely) (JJ available) (PP (IN for) (NP (NN download))))) (, ,) (CC and) (VP (VBZ contains) (NP (NP (DT a) (NN user) (NN guide)) (CC and) (NP (NN installation) (NNS instructions))))) (. .))
+(S (SBAR (RB Even) (IN though) (S (NP (NNP Atlas)) (VP (VBZ is) (ADVP (RB mainly)) (VP (VBN coded) (PP (IN in) (NP (NNP C++))))))) (, ,) (NP (DT an) (JJ equivalent) (NNP Fortran) (NN interface)) (VP (VBZ is) (VP (VBN presented) (PP (IN without) (NP (JJ additional) (NN runtime) (NN overhead))))) (. .))

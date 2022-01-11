@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (PRP$ its) (NN performance)))) (VP (VBD remained) (ADJP (JJ elusive))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VB establish) (NP (PRP$ its) (NN optimality)) (PP (IN in) (NP (NP (DT the) (NN neighborhood)) (PP (IN of) (NP (NP (DT a) (JJ specific) (NN system) (POS 's)) (NN state)))))) (. .))

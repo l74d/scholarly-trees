@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (JJ scalar) (NN multiplication)) (VP (VBZ is) (VP (VBN conserved) (PP (IN by) (NP (DT the) (NN transport) (NN equation))) (, ,) (SBAR (IN while) (S (NP (NP (NN positivity)) (PP (IN of) (NP (NNS probabilities)))) (VP (VBZ is) (VP (VBN conserved) (PP (IN by) (NP (DT the) (NN continuum) (NN equation))))))))) (. .))

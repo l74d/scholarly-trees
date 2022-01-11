@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Such) (JJ combinatorial) (NNS constraints)) (PP (IN in) (NP (NN system) (NN design) (CC and) (NN implementation)))) (VP (MD can) (VP (VB be) (VP (VBN captured) (S (VP (VBG using) (NP (NP (DT a) (NN structure)) (VP (VBN known) (PP (IN as) (NP (NNS matroids)))))))))) (. .))

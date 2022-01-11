@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN observation)))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (DT a) (JJ deterministic) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ achieves) (NP (NP (DT an) (NN approximation) (NN factor)) (PP (IN of) (NP (CD 2))))))))) (. .))
+(S (NP (JJ Empirical) (NNS results)) (VP (VBP verify) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

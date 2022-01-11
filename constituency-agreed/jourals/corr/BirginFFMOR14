@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (NP (NP (DT the) (NN minimization)) (PP (IN of) (NP (DT the) (NN makespan))))) (. .))
+(S (NP (NP (ADJP (JJ Theoretical) (CC and) (JJ practical)) (NNS advantages)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBP are) (VP (VBN discussed))) (. .))

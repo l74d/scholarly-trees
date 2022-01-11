@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP study) (NP (NP (JJ probabilistic) (NNS models)) (PP (IN of) (NP (JJ natural) (NNS images))))) (CC and) (VP (VB extend) (NP (NP (DT the) (JJ autoregressive) (NN family)) (PP (IN of) (NP (NNP PixelCNN) (NNS architectures)))) (PP (IN by) (S (VP (VBG incorporating) (NP (JJ auxiliary) (NNS variables))))))) (. .))

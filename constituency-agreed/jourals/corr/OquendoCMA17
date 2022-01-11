@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN identification)) (PP (IN of) (NP (JJ correct) (JJ potential) (NNS outliers)))) (VP (VBD had) (ADVP (RB already)) (VP (VBN been) (NP (NP (DT an) (JJ open) (NN problem)) (VP (VBN proposed) (PP (IN in) (NP (NN literature))))))) (. .))
+(S (PP (IN In) (NP (NP (DT a) (NN literature)) (SBAR (WHADVP (WRB where)) (S (NP (NNP Vector) (NNP Fusion)) (VP (VBD was) (VP (VBN used))))))) (, ,) (NP (CD 10) (JJ potential) (NNS outliers)) (VP (VBD were) (VP (VBN identified))) (. .))

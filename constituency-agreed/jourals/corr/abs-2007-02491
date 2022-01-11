@@ -1,0 +1,1 @@
+(S (NP (JJ Many) (NNS algorithms)) (VP (VBP try) (S (VP (TO to) (VP (VB predict) (NP (NP (NN model) (NN performance)) (PP (IN of) (NP (DT the) (VBN pruned) (NNS sub-nets)))) (PP (IN by) (S (VP (VBG introducing) (NP (JJ various) (NN evaluation) (NNS methods))))))))) (. .))

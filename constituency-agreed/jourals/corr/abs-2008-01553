@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ centralized) (NN architecture)) (VP (VBZ has) (NP (NP (NNS drawbacks)) (PP (JJ such) (IN as) (NP (NP (NN performance) (NN bottleneck)) (, ,) (NP (JJ poor) (NN scalability)) (CC and) (NP (NP (JJ single) (NN point)) (PP (IN of) (NP (NN failure)))))))) (. .))

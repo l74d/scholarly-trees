@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP are) (ADJP (RB particularly) (JJ interested) (PP (IN in) (S (VP (VBG addressing) (NP (NP (DT the) (NNS complexities)) (VP (VBG arising) (PP (IN in) (NP (JJ non-deterministic) (, ,) (JJ multi-agent) (NNS domains)))))))))) (. .))
+(S (NP (DT The) (NN language)) (VP (VBZ contributes) (NP (NP (DT the) (JJ explicit) (NN definition)) (PP (IN of) (NP (NP (JJ controllable) (NNS agents)) (CC and) (NP (JJ uncontrollable) (NN environment) (NNS agents)))))) (. .))

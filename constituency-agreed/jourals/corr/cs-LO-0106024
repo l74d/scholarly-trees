@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (NP (PRP$ their) (NNS properties)) (PP (IN within) (NP (DT a) (JJ computational) (NN domain)))) (VP (VBP are) (RB not) (ADVP (RB yet)) (VP (VBN studied) (ADVP (RB properly)))) (. .))
+(S (NP (DT Some) (JJ important) (NNS metaoperators)) (VP (VBP are) (VP (VBN used) (S (VP (VP (TO to) (VP (VB unify) (NP (DT the) (NNS approaches)))) (CC and) (VP (TO to) (VP (VB establish) (NP (PRP$ their) (JJ possible) (NNS correspondences)))))))) (. .))

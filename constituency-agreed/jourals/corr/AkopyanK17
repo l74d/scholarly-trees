@@ -1,0 +1,2 @@
+(S (NP (DT Both) (NNS approaches)) (VP (VBP need) (NP (NP (DT a) (JJ large) (NN dataset)) (PP (IN of) (NP (NN input) (NNS data))))) (. .))
+(S (NP (NP (DT The) (NN set)) (PP (IN of) (NP (NP (NNS experiments)) (PP (IN for) (S (VP (VBG handling) (NP (JJ imbalanced) (NN training) (NNS data)))))))) (VP (VBZ has) (VP (VBN been) (VP (VBN conducted)))) (. .))

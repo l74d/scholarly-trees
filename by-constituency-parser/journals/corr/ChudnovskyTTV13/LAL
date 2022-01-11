@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (ADJP ($ $) (NNP O)) (PRN (-LRB- -LRB-) (NN n^5) (-RRB- -RRB-)) ($ $) (VBP algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes) (NP (NP (DT a) (JJ maximum) (JJ stable) (NN set)) (PP (IN of) (NP (NP (DT any) (JJ perfect) (NN graph)) (PP (IN with) (NP (DT no) (JJ balanced) (NN skew-partition))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (ADJP ($ $) (NNP O)) (PRN (-LRB- -LRB-) (NN n^7) (-RRB- -RRB-)) ($ $) (NN time) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ colors) (NP (PRP them))))))) (. .))

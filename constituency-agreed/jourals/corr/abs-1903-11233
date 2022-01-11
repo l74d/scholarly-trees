@@ -1,0 +1,1 @@
+(S (SBAR (RB Even) (IN if) (S (NP (DT each) (NN model)) (VP (VBZ learns) (PP (IN on) (NP (DT the) (JJ same) (JJ non-annotated) (NNS images)))))) (, ,) (NP (NN diversity)) (VP (VBZ is) (VP (VBN preserved) (PP (IN with) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ adversarial) (NNS samples))))))) (. .))

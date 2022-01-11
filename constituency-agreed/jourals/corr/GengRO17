@@ -1,0 +1,1 @@
+(S (PP (IN After) (NP (NN training))) (, ,) (NP (ADJP (RB randomly) (VBN selected)) (NNS clips)) (VP (VBD were) (VP (VBN modified) (PP (IN by) (S (VP (VBG maximizing) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (NNS outputs)) (PP (IN from) (NP (DT the) (NN network) (NNS layers))))))))))) (. .))

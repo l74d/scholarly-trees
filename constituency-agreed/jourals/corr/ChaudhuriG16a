@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB test) (PP (IN for) (NP (NP (NN efficiency)) (PP (IN of) (NP (NN clustering)))))) (. .))
+(S (SBAR (IN If) (S (NP (PRP we)) (VP (VP (VBP fix) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS clusters))))) (CC and) (ADVP (RB then)) (VP (VB increase) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS variables)))))))) (, ,) (NP (DT this)) (VP (MD should) (VP (VB have) (NP (NP (DT some) (NN impact)) (PP (IN on) (NP (VBG clustering) (NN efficiency)))))) (. .))

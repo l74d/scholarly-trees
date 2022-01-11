@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (DT these) (NNS algorithms)) (VP (VBP perform) (ADVP (RB well)) (PP (IN for) (NP (JJ bi-partitioning) (NNS tasks)))))) (, ,) (NP (PRP$ their) (JJ recursive) (NNS extensions)) (VP (VBP yield) (NP (JJ unimpressive) (NNS results)) (PP (IN for) (NP (NN multiclass) (NN clustering) (NNS tasks)))) (. .))

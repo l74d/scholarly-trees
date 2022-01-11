@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NNP Go) (NNS programs))) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN concurrency) (NNS bugs)))) (VP (MD can) (VP (VB be) (VP (VBN caused) (PP (IN by) (NP (NP (DT a) (NN mixture)) (PP (IN of) (NP (NP (NNS data) (NNS races)) (CC and) (NP (NN communication) (NNS problems))))))))) (. .))

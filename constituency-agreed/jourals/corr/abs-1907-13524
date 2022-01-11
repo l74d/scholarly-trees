@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB learn) (NP (DT a) (JJ probabilistic) (NN motion) (NN model)) (PP (IN from) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS images))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ enables) (NP (NP (NN simulation) (CC and) (NN interpolation)) (PP (IN of) (NP (NP (JJ realistic) (NN motion) (NNS patterns)) (VP (VBN given) (NP (NP (RB only) (CD one)) (CC or) (NP (NP (DT any) (NN subset)) (PP (IN of) (NP (NP (NNS frames)) (PP (IN of) (NP (DT a) (NN sequence)))))))))))) (. .))

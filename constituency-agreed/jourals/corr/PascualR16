@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (NNS tasks)) (VP (VBP are) (ADJP (JJ heterogeneous))))) (, ,) (NP (DT the) (VBG resulting) (NN performance) (NNS dependencies)) (VP (VBP are) (ADJP (JJ complex))) (. .))
+(S (PP (IN For) (NP (NP (DT a) (JJ constant) (NN number)) (PP (IN of) (NP (NNS types))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NNP PTAS)) (, ,) (NP (DT a) (JJ fast) (NN approximation) (NN algorithm)) (, ,) (CC and) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS heuristics)))))) (. .))

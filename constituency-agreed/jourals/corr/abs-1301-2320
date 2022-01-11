@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP treat) (NP (JJ collaborative) (NN filtering)) (PP (IN as) (NP (DT a) (JJ univariate) (NN time) (NN series) (NN estimation) (NN problem))))) (: :) (S (PP (VBN given) (NP (NP (DT a) (NN user) (POS 's)) (JJ previous) (NNS votes))) (, ,) (VP (VBP predict) (NP (DT the) (JJ next) (NN vote)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Dynamic) (NN recovery)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (DT the) (NN order)) (PP (IN of) (NP (NN execution)))) (VP (VBZ is) (VP (VBN determined) (PP (IN at) (NP (NN runtime)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP provide) (NP (NP (DT a) (JJ formal) (, ,) (JJ operational) (NNS semantics)) (PP (IN for) (NP (DT the) (NN calculus))))) (, ,) (CC and) (VP (VB illustrate) (NP (PRP$ its) (JJ expressive) (NN power)) (PP (IN with) (NP (DT a) (NN case) (NN study))))) (. .))

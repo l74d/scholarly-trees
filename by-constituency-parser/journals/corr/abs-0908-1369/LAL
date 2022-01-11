@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP exam) (NP (NP (JJ various) (JJ geometric) (JJ active) (NN contour) (NNS methods)) (PP (IN for) (NP (NN radar) (NN image) (NN segmentation))))) (. .))
+(S (PP (JJ Due) (TO to) (NP (NP (JJ special) (NNS properties)) (PP (IN of) (NP (NN radar) (NNS images))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (PRP$ our) (JJ new) (NN model)) (PP (VBN based) (PP (IN on) (NP (JJ modified) (JJ Chan-Vese) (NN functional)))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (ADJP (JJ efficient) (PP (IN in) (S (VP (VBG separating) (NP (JJ non-meteorological) (NNS noises)) (PP (IN from) (NP (JJ meteorological) (NNS images)))))))) (. .))

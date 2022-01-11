@@ -1,0 +1,2 @@
+(S (NP (JJ Cartesian) (NN impedance) (NN controller) (NNS parameters)) (VP (VBP are) (VP (VBN learned) (PP (IN from) (NP (DT the) (NNS demonstrations))) (S (VP (TO to) (VP (VB reproduce) (NP (NP (DT each) (NN phase)) (PP (IN of) (NP (DT the) (NN task))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (NN method)) (VP (MD can) (ADVP (RB also)) (VP (VB handle) (NP (JJ rotational) (NNS motions))))))) (. .))

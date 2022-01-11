@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT some) (JJ new) (JJ architectural) (NNS metrics)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ appropriate) (PP (IN for) (S (VP (VBG evaluating) (NP (NP (DT the) (JJ architectural) (NNS attributes)) (PP (IN of) (NP (DT a) (NN software) (NN system))))))))))))) (. .))

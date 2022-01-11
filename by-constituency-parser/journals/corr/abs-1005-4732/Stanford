@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN approximation) (NN accuracy)) (PP (IN of) (NP (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBG using) (NP (NP (DT a) (JJ powerful) (NN inequality)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBP derive)))))))))) (. .))
+(S (NP (DT This) (NN inequality)) (VP (VP (VBZ bounds) (NP (NP (DT the) (JJ spectral) (NN norm)) (PP (IN of) (NP (DT a) (JJ random) (NN tensor))))) (CC and) (VP (VBZ is) (PP (IN of) (NP (JJ independent) (NN interest))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (JJ novel) (NNS bounds)) (PP (IN for) (NP (DT the) (NN tensor) (NN sparsification) (NN problem)))) (. .))

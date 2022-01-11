@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (NNS parties)) (VP (VBG observing) (NP (VBN correlated) (NNS data)))) (VP (VBP seek) (S (VP (TO to) (VP (VB exchange) (NP (PRP$ their) (NNS data)) (S (VP (VBG using) (NP (JJ interactive) (NN communication)))))))) (. .))
+(SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS bits)) (SQ (MD must) (NP (PRP they)) (VP (VB communicate))) (. ?))

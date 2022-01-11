@@ -1,0 +1,2 @@
+(S (NP (NN Classification) (NNS algorithms)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB make) (NP (JJ reliable) (NNS models)) (PP (IN on) (NP (NP (DT the) (NNS datasets)) (PP (IN with) (NP (JJ huge) (NNS sizes)))))))))) (. .))
+(S (NP (DT These) (NNS datasets)) (VP (VBP contain) (NP (NP (JJ many) (ADJP (JJ irrelevant) (CC and) (JJ redundant)) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBP mislead) (NP (DT the) (NNS classifiers))))))) (. .))

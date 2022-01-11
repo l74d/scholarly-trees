@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (NN approach)) (PP (IN for) (NP (JJ medical) (NN synonym) (NN extraction))))) (. .))
+(S (NP (PRP We)) (VP (VBP aim) (S (VP (TO to) (VP (VB integrate) (NP (DT the) (NN term) (VBG embedding)) (PP (IN with) (NP (NP (DT the) (JJ medical) (NN domain) (NN knowledge)) (PP (IN for) (NP (NN healthcare) (NNS applications))))))))) (. .))
+(S (NP (NP (CD One) (NN advantage)) (PP (IN of) (NP (PRP$ our) (NN method)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB very) (JJ scalable)))))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (NP (DT a) (NN dataset)) (PP (IN with) (NP (QP (JJR more) (IN than) (CD 1M)) (NN term) (NNS pairs)))))) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN approach)) (VP (VBZ outperforms) (NP (DT the) (NN baseline) (NNS approaches)) (PP (IN by) (NP (DT a) (JJ large) (NN margin))))))) (. .))

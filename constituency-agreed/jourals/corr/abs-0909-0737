@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT these) (NNS algorithms)))) (, ,) (NP (NN parameter) (NN training)) (VP (MD can) (ADVP (RB thus)) (VP (VB be) (VP (VBN attempted) (PP (IN for) (NP (NP (ADJP (RBR more) (JJ complex)) (NNS models)) (CC and) (NP (JJR longer) (NN training) (NNS sequences))))))) (. .))

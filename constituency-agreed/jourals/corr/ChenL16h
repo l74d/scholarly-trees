@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ simple) (JJ Euclidean) (NN average)) (VP (MD can) (VP (CC neither) (VP (VB guarantee) (SBAR (S (NP (DT the) (JJ averaged) (NN transformation)) (VP (VBZ is) (NP (DT a) (NN diffeomorphism)))))) (, ,) (CC nor) (VP (VB get) (NP (JJ reasonable) (NN result)) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (DT a) (JJ local) (NN rotation)))))))) (. .))

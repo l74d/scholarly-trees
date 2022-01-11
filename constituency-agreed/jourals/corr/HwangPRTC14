@@ -1,0 +1,2 @@
+(S (NP (NP (PRP$ Our) (JJ asymptotic) (NNS approximations)) (PP (IN for) (NP (NP (DT the) (NN mean)) (CC and) (NP (DT the) (NN variance))))) (VP (VBP represent) (NP (NP (DT the) (JJS strongest)) (PP (IN of) (NP (PRP$ their) (NN kind))))) (. .))
+(S (SBAR (IN While) (S (NP (JJS most) (NNS approximations)) (VP (VBP have) (NP (PRP$ their) (JJ simple) (JJ formal) (NN nature))))) (, ,) (NP (PRP we)) (VP (VBP elaborate) (PP (IN on) (NP (NP (DT the) (JJ delicate) (NN error) (NN analysis)) (VP (VBN required) (PP (IN for) (NP (JJ rigorous) (NNS justifications))))))) (. .))

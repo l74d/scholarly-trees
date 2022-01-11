@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN method)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ linear) (JJ discriminant) (NN analysis))))) (CC and) (VP (VBZ provides) (NP (NNP Bayes)) (NP (NP (JJ optimal) (JJ single) (NN point) (NNS estimates)) (PP (IN for) (NP (DT the) (NN weight) (NNS values)))))) (. .))

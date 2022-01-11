@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN target) (NN domain)) (VP (MD can) (VP (VB contain) (NP (NP (NNS samples)) (PP (IN of) (NP (NP (NNS classes)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (VP (VBN shared) (PP (IN by) (NP (DT the) (NN source) (NN domain)))))))))))) (. .))

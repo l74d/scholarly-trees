@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN agent)) (VP (VBZ has) (NP (NP (DT a) (JJ private) (JJ objective) (NN function)) (CC and) (NP (NP (DT a) (NN constraint)) (PP (IN about) (NP (PRP$ its) (NN output)))))) (. .))
+(S (NP (CD Two) (NNS examples)) (VP (VBP are) (ADVP (RB finally)) (VP (VBN given) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN algorithm))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ acoustic) (NN model)) (VP (VBZ is) (NP (NP (DT a) (JJ neural) (NN network)) (VP (VBN used) (PP (IN for) (S (VP (VBG estimating) (NP (NP (DT the) (NNS probabilities)) (PP (IN of) (NP (NP (NNS pitches)) (PP (IN in) (NP (NP (DT a) (NN frame)) (PP (IN of) (NP (NN audio)))))))))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VP (VBZ is) (ADJP (JJ general))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB transcribe) (NP (JJ polyphonic) (NN music)) (PP (IN without) (S (VP (VBG imposing) (NP (DT any) (NNS constraints)) (PP (IN on) (NP (DT the) (NN polyphony))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP perform) (NP (NP (CD two) (NNS sets)) (PP (IN of) (NP (NNS experiments))))) (. .))

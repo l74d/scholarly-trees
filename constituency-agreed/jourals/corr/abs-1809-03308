@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ physical) (NN model)) (VP (VBZ is) (VP (VBN incorporated) (PP (IN into) (NP (DT the) (VBN proposed) (NN framework))) (, ,) (SBAR (IN so) (IN that) (S (NP (DT the) (NN parameter) (NNS maps)) (VP (MD can) (VP (VB be) (ADVP (RB efficiently)) (VP (VBN estimated) (ADVP (RB directly)) (PP (IN from) (NP (JJ undersampled) (NNS images)))))))))) (. .))

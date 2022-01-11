@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ autoregressive) (NN model)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (NN correlation)) (PP (IN between) (NP (DT the) (JJ intersample) (NNS distances))))))))) (. .))

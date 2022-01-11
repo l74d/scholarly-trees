@@ -1,0 +1,2 @@
+(S (PP (VBN Given) (NP (DT a) (NN lowpass) (NN filter))) (, ,) (S (VP (VBG finding) (NP (DT a) (JJ dual) (NN lowpass) (NN filter)))) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN step)) (PP (IN in) (S (VP (VBG constructing) (NP (JJ non-redundant) (NN wavelet) (NN filter) (NNS banks))))))) (. .))
+(S (S (VP (VBG Obtaining) (NP (JJ dual) (NN lowpass) (NNS filters)))) (VP (VBZ is) (RB not) (NP (DT an) (JJ easy) (NN task))) (. .))

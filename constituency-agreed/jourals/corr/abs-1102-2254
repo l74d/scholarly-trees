@@ -1,0 +1,2 @@
+(S (NP (CD One) (JJ direct) (NN application)) (VP (VBZ comes) (PP (IN from) (NP (JJ robust) (JJ collaborative) (NN filtering)))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (ADVP (RB therefore)) (VP (ADVP (RB sharply)) (VB characterize) (NP (NP (DT the) (NNS tradeoffs)) (PP (IN between) (NP (NN sample) (, ,) (NN robustness) (CC and) (NN rank))) (PP (IN in) (NP (NN matrix) (NN completion))))) (. .))

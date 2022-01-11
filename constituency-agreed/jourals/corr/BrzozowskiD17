@@ -1,0 +1,3 @@
+(S (NP (DT These) (CD five) (NNS witnesses)) (VP (VBP use) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (CD six) (JJ different) (NNS transformations))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (NP (NP (DT the) (JJ maximal) (NN state) (NNS complexities)) (PP (IN of) (NP (NP (NNS atoms)) (PP (IN of) (NP (JJ non-returning) (NNS languages))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ exists) (NP (NP (DT a) (ADJP (RBS most) (JJ complex)) (JJ non-returning) (NN language)) (SBAR (WHNP (WDT that)) (S (VP (VBZ meets) (NP (NP (DT the) (NNS bounds)) (PP (IN for) (NP (PDT all) (DT these) (NN complexity) (NNS measures)))))))))))) (. .))

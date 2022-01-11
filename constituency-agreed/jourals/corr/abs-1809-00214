@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (JJ important) (NNS observations)) (VP (VBP are) (VP (VBN made))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NNS experiments)) (VP (VBD revealed) (SBAR (IN that) (S (NP (JJ incorrect) (NN image) (NN segmentation)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ prevalent)) (NN cause)) (PP (IN of) (NP (NN recognition) (NN accuracy) (NN decrease)))))))) (. .))

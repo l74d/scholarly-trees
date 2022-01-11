@@ -1,0 +1,3 @@
+(S (NP (NP (JJS Most) (NN optimization) (NNS problems)) (PP (IN in) (NP (JJ real) (NN life) (NNS applications)))) (VP (VBP are) (ADVP (RB often)) (ADJP (RB highly) (JJ nonlinear))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VP (VB study) (NP (NNP HH))) (CC and) (VP (VB validate) (NP (PRP it)) (PP (IN against) (NP (DT some) (NN test) (NNS functions)))))) (. .))
+(S (NP (NNS Investigations)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (VP (VBZ is) (ADJP (RB very) (JJ promising))) (CC and) (VP (MD could) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT an) (NN optimization)) (PP (IN of) (NP (NP (DT the) (JJ powerful) (NN algorithm)) (PP (IN of) (NP (NN cuckoo) (NN search)))))))))))))) (. .))

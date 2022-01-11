@@ -1,0 +1,2 @@
+(S (NP (VBG Existing) (NN software) (NN reliability) (NNS models)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB follow) (NP (NN waterfall) (NN software) (NN development) (NN life) (NN cycle) (NN process))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (NN failure) (NN rate) (NN model)) (VP (VBN centered) (PP (IN on) (NP (JJ iterative) (NN software) (NN development) (NN life) (NN cycle) (NN process))))) (VP (VBZ has) (VP (VBN been) (VP (VBN developed)))) (. .))

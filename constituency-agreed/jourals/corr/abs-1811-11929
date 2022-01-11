@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PDT such) (DT a) (NN scenario))) (, ,) (NP (NP (DT the) (NN privacy) (CC and) (NN reliability)) (PP (IN of) (NP (DT the) (JJ delegated) (NNS computations)))) (VP (VBP are) (NP (JJ important) (NNS concerns))) (. .))
+(S (NP (DT Each) (NN client) (NN part)) (VP (VBZ is) (VP (VBN kept) (S (ADJP (JJ secret) (PP (IN from) (NP (NP (DT the) (NN server)) (CC and) (NP (DT the) (JJ other) (NNS clients)))))))) (. .))

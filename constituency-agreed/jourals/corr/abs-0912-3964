@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN channel) (VBG coding) (NN scheme)) (PP (IN for) (NP (NP (JJ progressive) (NN transmission)) (PP (IN of) (NP (JJ large) (NNS images)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (ADVP (RB Finally)) (NP (DT the) (NNS components)) (VP (VBP are) (VP (VP (VBN coded) (PP (IN for) (NP (NN error) (NN control)))) (CC and) (VP (VBN transmitted)))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Particularly)) (, ,) (NP (NP (DT the) (NN query) (NN set)) (CC and) (NP (NP (DT the) (NNS sets)) (PP (IN in) (NP (NN dataset) (NN collection))))) (VP (MD can) (VP (VB have) (NP (VBG varying) (NNS cardinalities)))) (. .))

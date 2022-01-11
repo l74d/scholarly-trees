@@ -1,0 +1,2 @@
+(S (NP (NNS Computers)) (VP (VBP are) (ADVP (RB increasingly)) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (NP (NNS decisions)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (NP (JJ significant) (NN impact)) (PP (IN in) (NP (NP (NNS people) (POS 's)) (NNS lives))))))))))))) (. .))
+(S (ADVP (RB Often)) (, ,) (NP (DT these) (NNS predictions)) (VP (MD can) (VP (VB affect) (NP (JJ different) (NN population) (NNS subgroups)) (ADVP (RB disproportionately)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ sound) (CC and) (JJ complete)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADJP (RB particularly) (JJ suitable) (PP (IN for) (NP (JJ parallel) (NNS implementations))))) (. .))

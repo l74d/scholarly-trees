@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ current) (NNP Hadoop) (NN implementation)) (VP (VBZ assumes) (SBAR (IN that) (S (NP (NP (VBG computing) (NNS nodes)) (PP (IN in) (NP (DT a) (NN cluster)))) (VP (VBP are) (ADJP (JJ homogeneous) (PP (IN in) (NP (NN nature)))))))) (. .))

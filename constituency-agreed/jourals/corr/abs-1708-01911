@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG vanishing) (NN gradient) (NN problem)) (VP (VBD was) (NP (NP (DT a) (JJ major) (NN obstacle)) (PP (IN for) (NP (NP (DT the) (NN success)) (PP (IN of) (NP (JJ deep) (NN learning))))))) (. .))
+(S (PP (IN In) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS papers))))) (, ,) (NP (PRP we)) (VP (VBP are) (VP (VBG going) (S (VP (TO to) (VP (VB analyze) (NP (NP (JJ alternative) (JJ neural) (NN network) (NNS structures)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (RB not) (VP (VBN based) (PP (IN on) (NP (NN dot) (NNS products))))))))))))) (. .))

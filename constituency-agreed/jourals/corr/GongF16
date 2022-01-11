@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN input)) (VP (VBZ is) (NP (NP (DT a) (NN stroke)) (SBAR (WHNP (WDT that)) (S (VP (VBZ defines) (NP (NP (DT an) (NN area)) (VP (VBG covering) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS pixels)) (SBAR (WHNP (WP$ whose) (NNS intensities)) (S (VP (VBP are) (VP (VBN influenced) (ADVP (RB predominately)) (PP (IN by) (NP (DT the) (NN illumination) (NN variation))))))))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT some) (NN evaluation) (NNS results)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

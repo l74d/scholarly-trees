@@ -1,0 +1,1 @@
+(S (CC And) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NN steganalysis)))) (VP (VBZ is) (S (VP (TO to) (VP (CONJP (RB not) (RB only)) (VP (VB detect) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT the) (JJ hidden) (NN message))))) (CONJP (CC but) (RB also)) (VP (VB extract) (NP (PRP it))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NNS Packets)) (VP (VBP arrive) (PP (IN over) (NP (NN time)))) (. .))
+(S (NP (DT Each) (NN packet)) (VP (VBZ has) (NP (NP (DT a) (JJ non-negative) (NN value)) (CC and) (NP (DT an) (NN integer) (NN deadline)))) (. .))
+(S (NP (NNS Packets)) (VP (MD can) (VP (VB be) (VP (VBN dropped) (PP (IN at) (NP (DT any) (NN time))) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP are) (VP (VBN sent)))))))) (. .))

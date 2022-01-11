@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN key)) (PP (IN for) (S (VP (VBG fighting) (NP (DT the) (NN complexity)))))) (VP (VBZ is) (S (VP (TO to) (VP (VB develop) (NP (JJ compositional) (NNS methods)))))) (. .))
+(S (NP (DT The) (NN requirement)) (, ,) (ADVP (RB however)) (, ,) (ADVP (RB often)) (VP (VBZ hinders) (NP (DT the) (NNS users)) (PP (IN from) (S (VP (VBG applying) (NP (JJ such) (NNS tools)))))) (. .))

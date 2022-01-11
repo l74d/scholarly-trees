@@ -1,0 +1,5 @@
+(S (NP (JJ Cryptographic) (NNS systems)) (VP (VBP are) (VP (VBN derived) (S (VP (VBG using) (NP (NP (NNS units)) (PP (IN in) (NP (NN group) (NNS rings)))))))) (. .))
+(S (NP (NP (NNS Combinations)) (PP (IN of) (NP (NP (NNS types)) (PP (IN of) (NP (NNS units))))) (PP (IN in) (NP (NN group) (NNS rings)))) (VP (VBP give) (NP (NP (NNS units)) (PP (RB not) (IN of) (NP (DT any) (JJ particular) (NN type))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ enables) (S (NP (NP (NN encryption)) (CC and) (NP (PRN (-LRB- -LRB-) (VBG error-correcting) (-RRB- -RRB-)) (NN coding))) (VP (TO to) (VP (VB be) (VP (VBN combined) (PP (IN within) (NP (CD one) (NN system)))))))) (. .))
+(S (S (NP (DT These) (NN group) (VBG ring) (JJ cryptographic) (NNS systems)) (VP (MD may) (VP (VB be) (VP (VBN combined) (PP (IN in) (NP (DT a) (JJ neat) (NN way))) (PP (IN with) (NP (NP (VBG existing) (JJ cryptographic) (NNS systems)) (, ,) (PP (JJ such) (IN as) (NP (NNP RSA))))))))) (, ,) (CC and) (S (NP (DT a) (NN combination)) (VP (VBZ has) (NP (NP (DT the) (JJ combined) (NN strength)) (PP (IN of) (NP (DT both) (NNS systems)))))) (. .))
+(S (NP (NNS Examples)) (VP (VBP are) (VP (VBN given))) (. .))

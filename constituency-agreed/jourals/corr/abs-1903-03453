@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN interpolation) (NN procedure)) (VP (VBZ is) (VP (VBN formulated) (PP (IN in) (NP (DT a) (JJ natural) (NN coordinate) (NN system))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ presents) (NP (NP (DT the) (NN methodology)) (PP (IN of) (S (VP (VP (VBG constructing) (NP (NP (NN shape) (NNS functions)) (PP (IN of) (NP (NNP Pascal) (NN type))))) (CC and) (VP (VBG establishing) (NP (NP (DT a) (NN transformation) (NN relation)) (PP (IN between) (NP (ADJP (JJ natural) (CC and) (JJ Cartesian)) (NNS variables)))))))))) (. .))

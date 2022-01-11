@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ digital) (NN precoder)) (VP (VBZ is) (VP (VBN designed) (PP (VBN based) (PP (IN on) (NP (NP (NN quantization) (CC and) (NN feedback)) (PP (IN of) (NP (JJ effective) (NN channel)))))) (S (VP (TO to) (VP (VB mitigate) (NP (NN multiuser) (NN interference))))))) (. .))

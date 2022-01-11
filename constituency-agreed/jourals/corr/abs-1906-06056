@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN system)) (VP (VBZ uses) (NP (DT the) (NN biLSTM) (NN network)) (PP (IN with) (NP (NP (NN co-attention) (NN mechanism)) (PP (IN between) (NP (NN query) (CC and) (NN passage) (NNS representations)))))) (. .))

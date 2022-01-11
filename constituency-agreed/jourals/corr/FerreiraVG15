@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NNP Euclidean) (NN distance)) (VP (MD may) (RB not) (ADVP (RB always)) (VP (VB be) (NP (NP (DT a) (JJ good) (NN dissimilarity) (NN measure)) (PP (IN for) (S (VP (VBG comparing) (NP (NP (NNS data) (NNS samples)) (VP (VBG lying) (PP (IN on) (NP (DT a) (NN manifold))))))))))) (. .))

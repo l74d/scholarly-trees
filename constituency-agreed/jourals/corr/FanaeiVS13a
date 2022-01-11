@@ -1,0 +1,1 @@
+(S (NP (DT Each) (NN sensor)) (VP (MD will) (ADVP (RB then)) (VP (VB transmit) (NP (PRP$ its) (NN analog) (NNS observations)) (S (VP (VBG using) (NP (PRP$ its) (JJ optimal) (VBN quantized) (NN amplification) (NN gain)))))) (. .))

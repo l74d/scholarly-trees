@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS networks)) (VP (VP (VBP are) (VP (VBN trained) (ADVP (RB jointly)))) (CC and) (VP (MD can) (VP (VB learn) (NP (NP (ADJP (RB arbitrarily) (JJ complex)) (NNS relationships)) (PP (IN between) (NP (NP (PRP$ their) (NN input) (NN feature)) (CC and) (NP (DT the) (NN output)))))))) (. .))

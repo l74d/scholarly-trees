@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN query)) (VP (VBZ is) (VP (VBN granted) (PP (IN with) (NP (JJS least) (NN access) (NNS privileges)))))) (, ,) (CC and) (S (NP (DT a) (NN session) (NN key)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NN session) (NN management)))))) (. .))

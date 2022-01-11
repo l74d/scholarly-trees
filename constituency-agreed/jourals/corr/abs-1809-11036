@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBD implemented) (NP (NP (DT an) (JJ initial) (NN version)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN algorithm))))) (CC and) (VP (VBD evaluated) (NP (DT the) (NN accuracy)) (PP (IN on) (NP (NNP CARLA) (NN simulator))))) (. .))

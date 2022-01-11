@@ -1,0 +1,4 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBD did) (RB not) (VP (VB consider) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (JJ uncovered) (NNS mutants)))))) (. .))
+(S (NP (DT A) (NN mutant)) (VP (VBZ is) (VP (VBN uncovered) (SBAR (IN if) (S (NP (NP (DT the) (NN statement)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (DT the) (NN mutant)) (VP (VBZ is) (VP (VBN generated)))))) (VP (VBZ is) (RB not) (VP (VBN executed) (PP (IN by) (NP (DT any) (NN test) (NNS cases))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ uncovered) (NNS mutants)) (VP (VBP inflate) (NP (JJ previous) (NNP PMT) (NNS results)))))) (. .))
+(S (NP (PRP We)) (VP (VBD replicated) (NP (DT the) (JJ previous) (NNP PMT) (NN research))) (. .))

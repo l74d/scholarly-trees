@@ -1,0 +1,2 @@
+(S (NP (DT All) (NNS agents)) (VP (VBP are) (VP (VBN allowed) (S (VP (TO to) (VP (VB possess) (NP (NP (JJ parametric) (NNS uncertainties)) (SBAR (WHNP (WDT that)) (S (VP (VBP range) (PP (IN over) (NP (DT an) (ADJP (RB arbitrarily) (JJ large)) (JJ compact) (NN set)))))))))))) (. .))
+(S (NP (NP (DT The) (NN efficacy)) (PP (IN of) (NP (DT this) (NN control)))) (VP (VBZ is) (VP (VBN verified) (PP (IN by) (NP (DT a) (JJ numerical) (NN example))))) (. .))

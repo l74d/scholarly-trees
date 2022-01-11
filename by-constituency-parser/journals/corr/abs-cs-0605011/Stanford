@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN characterization)) (PP (IN of) (NP (NP (DT the) (NN degree) (NNS sequences)) (PP (IN of) (NP (CD 2) (HYPH -) (NNS trees)))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (DT This) (NN characterization)) (VP (VBZ yields) (NP (DT a) (NML (JJ linear) (HYPH -) (NN time)) (NN algorithm)) (PP (IN for) (S (VP (VBG recognizing) (CC and) (VBG realizing) (NP (NP (NN degree) (NNS sequences)) (PP (IN of) (NP (CD 2) (HYPH -) (NNS trees)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (ADVP (RB first)) (VP (VBZ computes) (NP (NP (DT the) (NN transformation) (NNS matrices)) (PP (IN for) (NP (NP (NNS data) (NNS matrices)) (CC and) (NP (NN label) (NN matrix)))))) (. .))
+(S (ADVP (RB Then)) (, ,) (PP (IN with) (NP (DT these) (NN transformation) (NNS matrices))) (, ,) (NP (JJ fuzzy) (NN logic)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB estimate) (NP (DT a) (NN label) (NN matrix)) (PP (IN for) (NP (JJ unlabeled) (NNS data)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NP (NNP UDP)) (PP (IN as) (NP (JJ such)))) (VP (VBZ is) (ADJP (JJ unreliable)))) (CC and) (S (NP (NN packet) (NNS losses)) (VP (MD can) (VP (VB occur)))) (. .))

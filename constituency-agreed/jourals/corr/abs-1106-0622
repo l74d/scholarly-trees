@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NN process))) (, ,) (NP (PRP we)) (VP (VP (VBP investigate) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (NP (DT a) (ADJP (RB fully) (JJ discrete)) (NN approximation)) (PP (IN of) (NP (DT the) (NN state) (NN equation))))))) (, ,) (CC and) (VP (VB obtain) (NP (NP (JJ optimal) (NNS orders)) (PP (IN of) (NP (NN convergence)))) (PP (IN under) (NP (JJ weak) (NN regularity) (NNS assumptions))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (PP (IN with) (NP (DT a) (JJ numerical) (NN example)))) (. .))

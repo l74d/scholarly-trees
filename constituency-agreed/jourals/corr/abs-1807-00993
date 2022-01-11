@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ alleviates) (NP (NP (DT the) (NN overfitting) (NN problem)) (VP (VBN caused) (PP (IN by) (NP (NP (DT the) (NN sparseness)) (PP (IN of) (NP (DT the) (NN training) (NN set)))))))) (. .))

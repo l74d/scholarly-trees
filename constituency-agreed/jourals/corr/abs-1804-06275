@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (NN subgraph) (NN image) (NN representation)) (PP (IN for) (NP (NP (NN classification)) (PP (IN of) (NP (NN network) (NNS fragments)))))) (PP (IN with) (S (NP (DT the) (NNS targets)) (VP (VBG being) (NP (PRP$ their) (NN parent) (NNS networks)))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN image) (NN representation)) (PP (IN in) (NP (CD two) (NNS modes)))) (. .))

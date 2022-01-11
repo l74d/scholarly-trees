@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ supports) (S (VP (VBG proving) (NP (NN safety) (CC and) (NN termination)) (S (VP (VBG using) (NP (NNS preconditions) (, ,) (NNS postconditions) (CC and) (NNS assertions))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP Fault) (NN detection) (NNS methods)) (VP (VBP have) (NP (PRP$ their) (NNS pros) (CC and) (NNS cons))) (. .))
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (NN case)) (PP (IN of) (NP (JJ multiple) (NNS faults) (NN detection)))))))) (. .))

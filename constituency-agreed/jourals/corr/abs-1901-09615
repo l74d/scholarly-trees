@@ -1,0 +1,2 @@
+(SBARQ (SBAR (IN If) (S (NP (DT the) (JJ same) (NNS patterns)) (ADVP (RB also)) (VP (VBP occur) (PP (IN at) (NP (NP (DT the) (JJR deeper) (NNS layers)) (PP (IN of) (NP (DT the) (NN network)))))))) (, ,) (WHADVP (WRB why)) (SQ (MD would) (RB n't) (NP (DT the) (JJ same) (JJ convolutional) (NNS filters)) (VP (VB be) (VP (VBN used) (ADVP (RB also)) (PP (IN in) (NP (DT those) (NNS layers)))))) (. ?))
+(S (NP (NP (DT The) (NN source) (NN code)) (CC and) (NP (JJ pretrained) (NNS models))) (VP (VBP are) (ADJP (RB publicly) (JJ available))) (. .))

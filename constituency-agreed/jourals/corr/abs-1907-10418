@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN holdout) (NN test)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBN conducted) (S (VP (TO to) (VP (VB verify) (SBAR (WHADVP (WRB how) (RB well)) (S (NP (DT the) (VBN proposed) (NN model)) (VP (VBZ generalizes) (PP (IN on) (NP (JJ unseen) (NNS data)))))))))))) (. .))
+(S (NP (PRP$ Our) (JJS best) (NN model)) (VP (VBZ achieves) (NP (NP (DT an) (NN accuracy)) (PP (IN of) (NP (QP (RB almost) (CD 97.77)) (NN %))))) (. .))

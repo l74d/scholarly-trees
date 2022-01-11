@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP hypothesize) (SBAR (IN that) (S (NP (DT this) (JJ poor) (NN generalization)) (VP (VBZ is) (NP (NP (DT a) (NN consequence)) (PP (IN of) (NP (NP (JJ adversarial) (NN training)) (PP (IN with) (NP (NP (JJ uniform) (NN perturbation) (NN radius)) (PP (IN around) (NP (DT every) (NN training) (NN sample)))))))))))) (. .))

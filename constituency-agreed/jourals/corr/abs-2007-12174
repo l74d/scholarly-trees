@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ supports) (S (VP (VBG describing) (NP (DT a) (NN state)) (PP (IN as) (NP (DT a) (NN tree))))) (, ,) (S (VP (VBG allowing) (NP (NP (JJ direct) (NN modeling)) (PP (IN of) (NP (DT the) (NN heap))))))) (. .))
+(S (NP (PRP We)) (VP (VBD implemented) (NP (NN dtree)) (PP (IN in) (NP (NP (NNP DMC)) (, ,) (NP (PRP$ our) (JJ multi-core) (NN model) (NN checker))))) (. .))

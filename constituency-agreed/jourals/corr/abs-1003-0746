@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (JJ simple) (NN rule)) (VP (VBZ has) (NP (DT some) (JJ obvious) (NNS limitations))) (. .))
+(S (PP (IN For) (NP (NN instance))) (, ,) (NP (DT a) (NN transformation)) (VP (MD may) (ADVP (RB only)) (VP (VB use) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT a) (NN metamodel)))))) (. .))

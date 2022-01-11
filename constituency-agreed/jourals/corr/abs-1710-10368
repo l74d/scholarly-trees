@@ -1,0 +1,1 @@
+(S (PP (IN Despite) (NP (NP (NNS advances)) (PP (IN in) (NP (JJ deep) (NN learning))))) (, ,) (NP (JJ neural) (NNS networks)) (VP (MD can) (ADVP (RB only)) (VP (VB learn) (NP (JJ multiple) (NNS tasks)) (SBAR (WHADVP (WRB when)) (S (VP (VBN trained) (PP (IN on) (NP (PRP them))) (ADVP (RB jointly))))))) (. .))

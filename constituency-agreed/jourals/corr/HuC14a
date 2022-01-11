@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN projection)) (PP (IN onto) (NP (DT the) (NN intersection)))) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (NP (NP (JJ cyclic) (NNP Dykstra) (POS 's)) (NN projection) (NN method))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (JJ numerous) (NN simulation)) (VP (VBZ proves) (NP (NP (DT the) (NN validity)) (PP (IN of) (NP (PRP$ our) (NN algorithm))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNP Model) (NNS checkers)) (VP (VBP compute) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (NN verification) (NNS facts)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ necessary) (PP (IN for) (S (VP (VBG verifying) (SBAR (IN if) (S (NP (DT a) (VBN given) (NN specification)) (VP (VBZ holds))))))))))))))) (. .))

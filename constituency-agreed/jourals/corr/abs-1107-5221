@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ defines) (NP (NP (DT a) (JJ multi-parameter) (NN auction) (NN design) (NN problem)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (JJ private) (NN valuation)) (PP (IN of) (NP (DT every) (NN buyer)))) (VP (VBZ is) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (JJ other) (VBG winning) (NNS buyers))))))))) (. .))

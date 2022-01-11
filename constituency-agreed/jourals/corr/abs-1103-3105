@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS transactions)) (PP (IN within) (NP (DT the) (NN bulk)))) (VP (VBP are) (VP (VBN executed) (ADVP (RB concurrently)) (PP (IN on) (NP (DT the) (NNP GPU))))) (. .))

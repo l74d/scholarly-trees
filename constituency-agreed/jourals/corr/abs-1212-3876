@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (NN orchestrator)) (VP (VBZ has) (NP (DT a) (NN need) (S (VP (TO to) (VP (VB check) (SBAR (IN whether) (S (NP (DT the) (JJ complex) (NN service)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB satisfy) (NP (JJ certain) (NNS properties)))))))))))))) (. .))
+(S (NP (DT Some) (NNS properties)) (VP (VBP are) (VP (VBN expressed) (PP (IN with) (NP (NP (NNS metrics)) (PP (IN for) (NP (NP (JJ precise) (NN definition)) (PP (IN of) (NP (NNS requirements))))))))) (. .))

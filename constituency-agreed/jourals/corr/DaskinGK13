@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ large) (NN class)) (PP (IN of) (NP (JJ such) (NNS analyses) (NNS methods)))) (VP (VBP quantify) (NP (NP (DT the) (JJ topological) (NN similarity)) (PP (IN of) (NP (NP (NNS nodes)) (PP (IN across) (NP (NNS networks))))))) (. .))
+(S (NP (NNS Nodes)) (VP (VBP are) (VP (VBN considered) (S (ADJP (JJ similar))) (SBAR (IN if) (S (NP (PRP$ their) (NNS neighbors)) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ similar))))))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN gap)) (PP (IN between) (NP (NP (DT the) (JJ deep) (NN learning) (NN model)) (CC and) (NP (DT the) (JJ cognitive) (NN mode)))))) (. .))
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB evaluate) (CC and) (VB shrink) (NP (DT the) (JJ cognitive) (NN gap)))))) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ important)) (NN issue))) (. .))
+(S (S (NP (NP (DT The) (NN uniqueness)) (PP (IN of) (NP (NP (NN solution)) (PP (IN of) (NP (DT the) (NN problem)))))) (VP (VBZ is) (VP (VBN proved)))) (CC and) (S (NP (NP (NN condition)) (PP (IN of) (NP (JJ unique) (NN solution)))) (VP (VBZ is) (VP (VBN obtained)))) (. .))

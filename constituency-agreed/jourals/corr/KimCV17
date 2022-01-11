@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NP (NN topology)) (, ,) (NP (NN interference) (NN alignment)) (, ,) (CC and) (NP (NP (NN interplay)) (PP (IN between) (NP (NN interference) (CC and) (NN noise))))))))) (. .))
+(S (NP (NP (DT The) (JJ representative) (NNS channels)) (SBAR (S (NP (PRP we)) (VP (VBP consider))))) (VP (VBP are) (NP (NP (DT the) (NNS ones)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (JJ clear) (NN interference) (NN alignment) (NN gain))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (PRP$ our) (NN network))) (, ,) (NP (NP (DT the) (NNS channels)) (PP (IN of) (NP (DT the) (JJ temporal) (NNS inputs)))) (VP (VBP are) (VP (VBN distributed) (PP (IN among) (NP (NP (JJ several) (JJ compact) (NN attention) (NNS heads)) (VP (VBG operating) (PP (IN in) (NP (NN parallel)))))))) (. .))

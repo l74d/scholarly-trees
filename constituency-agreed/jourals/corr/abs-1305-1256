@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN solution)) (VP (VBZ is) (VP (VBN found) (PP (IN by) (S (VP (VBG applying) (NP (DT the) (JJ iterative) (JJ proximal) (NN gradient) (NN descent) (NN method)) (PP (IN with) (NP (NNP FISTA) (NN acceleration)))))))) (. .))

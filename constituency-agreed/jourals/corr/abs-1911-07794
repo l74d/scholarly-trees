@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG using) (NP (DT the) (NN timescale)) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN estimator) (POS 's)) (NNS inputs)))))))) (NP (PRP we)) (VP (MD can) (VP (VB estimate) (NP (NN value)) (PP (IN for) (NP (JJ arbitrary) (NNS timescales))))) (. .))

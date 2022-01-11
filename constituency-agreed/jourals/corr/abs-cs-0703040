@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (JJ basic) (JJ statistical) (NNS methods)) (PP (IN of) (NP (NNS data) (NN representation)))) (VP (VBD did) (RB not) (VP (VB change) (PP (IN since) (NP (PRP$ their) (NN emergence))))) (. .))
+(S (NP (NP (DT A) (NN method)) (VP (VBG solving) (NP (DT these) (NNS problems)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NN modification)) (PP (IN of) (NP (NNS data) (NN representation))))))) (. .))
+(S (NP (DT The) (NN program) (NNS performances)) (VP (VBP are) (VP (VBN illustrated) (PP (IN through) (NP (JJ varied) (NNS examples))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (JJ previous) (NN work))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NP (DT a) (JJ single) (NN run)) (PP (IN of) (NP (DT the) (NN algorithm)))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (NN algorithm)) (PP (IN for) (NP (JJ general) (NN mixture) (NNS distributions))))) (. .))

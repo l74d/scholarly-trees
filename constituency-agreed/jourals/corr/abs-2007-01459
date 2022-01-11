@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT some) (JJ numerical) (NNS examples)) (S (VP (TO to) (VP (VB verify) (NP (NP (DT the) (NN correctness) (CC and) (NN computability)) (PP (IN of) (NP (PRP$ our) (JJ theoretical) (NNS results)))))))) (. .))

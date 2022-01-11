@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ generative) (NN phase)) (VP (VBZ refines) (NP (NP (DT the) (JJ predictive) (NN performance)) (PP (IN of) (NP (NP (DT the) (JJ discriminative) (NN model)) (VP (VBG exploiting) (NP (JJ unlabeled) (NNS data))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (DT each) (NN instrument)) (VP (VBZ requires) (NP (JJ individual) (NN calibration)))))) (. .))
+(S (NP (DT The) (NN calibration)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN system)) (VP (VBZ is) (RB not) (ADJP (RB fully) (JJ linear)))))) (. .))

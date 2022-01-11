@@ -1,0 +1,2 @@
+(S (NP (NNS Numbers)) (VP (VBD were) (VP (VBN stored) (PP (IN in) (NP (DT a) (JJ mechanical) (NN memory))))) (. .))
+(S (NP (DT The) (NN machine)) (VP (VBD did) (RB not) (VP (VB include) (NP (JJ conditional) (NN branching)) (PP (IN in) (NP (DT the) (NN instruction) (NN set))))) (. .))

@@ -1,0 +1,6 @@
+(NP (NP (NP (NNP Brooks) (POS ›)) (NNP Theorem)) (VP (NNP -LSB-) (NP (NP (NNP R.) (NNP L.) (NNP Brooks)) (, ,) (PP (IN On) (S (VP (VBG Colouring) (NP (NP (DT the) (NNP Nodes)) (PP (IN of) (NP (DT a) (NNP Network))))))) (, ,) (NP (NNP Proc)))) (. .))
+(NP (NNP Cambridge) (NNP Philos) (. .))
+(NP (NNP Soc) (. .) (-RRB- -RCB-))
+(NP (NNP Theory) (NNP Ser) (. .))
+(S (NP (NP (CD 19:269-271)) (, ,) (NP (CD 1975)) (NN -RSB-)) (VP (VBZ gives) (NP (NP (DT an) (JJ algorithmic) (NN proof)) (PP (IN of) (NP (NP (NNP Brooks) (POS ›)) (NNP Theorem))))) (. .))
+(S (S (ADVP (RB Unfortunately)) (NP (DT this) (NN proof)) (VP (VBZ is) (VP (VBG missing) (NP (JJ important) (NNS details))))) (CC and) (S (NP (NP (PRP it))) (VP (VBZ is) (ADVP (RB thus)) (ADJP (JJ unclear)) (SBAR (IN whether) (S (NP (PRP it)) (VP (VBZ leads) (PP (TO to) (NP (DT a) (JJ linear) (NN time) (NN algorithm)))))))) (. .))

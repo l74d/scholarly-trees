@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ neural) (NN network) (NN classifier)) (VP (MD can) (VP (VB be) (VP (VBN trained) (PP (IN on) (NP (JJ large) (NN dataset)))))) (. .))
+(S (NP (JJ Neural) (NN network) (NN model)) (VP (VBZ is) (VP (VBN trained) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (NN word) (NN embedding))))))) (. .))

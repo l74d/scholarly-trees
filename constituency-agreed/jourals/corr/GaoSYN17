@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP CTRL)) (VP (VBZ outperforms) (NP (JJ previous) (NNS methods)) (ADVP (RB significantly)) (PP (IN on) (NP (DT both) (NNS datasets))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT a) (NN network)) (PP (IN of) (NP (NNP CDC) (NNS constraints))))) (, ,) (NP (DT the) (NN consistency) (NN problem)) (VP (VBZ is) (VP (VBG deciding) (SBAR (IN if) (S (NP (DT the) (NN network)) (VP (VBZ is) (ADJP (JJ realizable) (PP (IN by) (NP (NP (JJ connected) (NNS regions)) (PP (IN in) (NP (DT the) (JJ real) (NN plane))))))))))) (. .))

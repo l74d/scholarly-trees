@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN fusion) (NN center)) (VP (VBZ computes) (NP (NP (DT an) (NN estimate)) (PP (IN of) (NP (DT the) (NN process) (NN state)))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT a) (NNP Kalman) (NN filter)))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ ends) (PP (IN with) (NP (NP (DT some) (JJ numerical) (NNS examples)) (SBAR (WHNP (WDT that)) (S (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach)))))))))) (. .))

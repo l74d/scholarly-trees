@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ elderly)) (ADVP (RB often)) (VP (VBP struggle) (SBAR (WHADVP (WRB when)) (S (VP (VBG interacting) (PP (IN with) (NP (NNS technologies))))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (MD can) (ADVP (RB potentially)) (VP (VB benefit) (NP (JJ intelligent) (NN interface) (NN agent) (NN design)) (SBAR (WHADVP (WRB when)) (S (NP (JJ such) (NNS agents)) (VP (VBP need) (S (VP (TO to) (VP (VB interact) (PP (IN with) (NP (JJ elderly) (NNS users))))))))))) (. .))

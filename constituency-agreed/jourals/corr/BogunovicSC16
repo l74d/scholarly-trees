@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP model) (NP (DT the) (NN reward) (NN function)) (S (VP (VBG using) (NP (NP (DT a) (JJ Gaussian) (NN process)) (SBAR (WHNP (WP$ whose) (NN evolution)) (S (VP (VBZ obeys) (NP (DT a) (JJ simple) (NNP Markov) (NN model))))))))) (. .))

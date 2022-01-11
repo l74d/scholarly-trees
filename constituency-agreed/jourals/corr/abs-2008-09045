@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ numerical) (NN implementation)) (VP (VBZ is) (ADJP (JJ robust)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ handles) (NP (NP (DT the) (JJ electromechanical) (NNS instabilities)) (PP (IN in) (NP (JJ soft) (JJ flexoelectric) (NNS materials)))))))) (. .))

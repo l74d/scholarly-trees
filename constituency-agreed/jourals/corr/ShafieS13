@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN optimization) (NN problem)) (VP (VBZ is) (VP (VBN split) (PP (IN into) (NP (CD two) (NNS subproblems))))) (. .))
+(S (NP (DT Both) (NNS subproblems)) (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB efficiently))))) (. .))

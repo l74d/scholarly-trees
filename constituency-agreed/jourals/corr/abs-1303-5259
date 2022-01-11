@@ -1,0 +1,2 @@
+(S (NP (DT These) (JJ non-convex) (NN target) (NNS sets)) (VP (MD can) (VP (VB be) (VP (VBN characterized) (PP (IN as) (NP (NP (NNS intersections)) (PP (IN of) (NP (NP (DT a) (NN simplex)) (CC and) (NP (DT a) (NN hypersphere))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP improve) (PP (IN on) (NP (DT this))) (PP (IN by) (NP (NP (NN adaptation)) (PP (IN of) (NP (NP (DT a) (JJ linear) (NN time) (NN algorithm)) (PP (IN for) (S (VP (VBG projecting) (PP (IN onto) (NP (NNS simplexes))))))))))) (. .))

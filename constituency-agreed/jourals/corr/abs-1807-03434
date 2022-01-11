@@ -1,0 +1,1 @@
+(S (ADVP (RB Hence)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (NN discriminator)) (SBAR (WHNP (WDT that)) (S (VP (VBZ distinguishes) (NP (NN segmentation) (NNS predictions)) (PP (IN from) (NP (NN ground) (NN truth) (NNS masks)))))))) (. .))

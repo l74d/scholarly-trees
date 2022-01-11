@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS characteristics)) (VP (MD can) (VP (VB be) (VP (VBN employed) (S (VP (TO to) (VP (VB take) (NP (NP (DT an) (NN attack)) (PP (IN against) (NP (DT the) (NN origin) (NN server)))) (PP (IN by) (S (VP (VBG exploiting) (NP (NN edge) (NNS servers))))))))))) (. .))
+(S (NP (PRP$ Our) (NN strategy)) (VP (VBZ adopts) (NP (NP (DT a) (JJ simple) (NN gossip) (NN protocol)) (VP (VBN executed) (PP (IN by) (NP (NN edge) (NNS servers))) (S (VP (TO to) (VP (VB detect) (NP (DT the) (NN attack)))))))) (. .))

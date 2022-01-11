@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (NNS applications))) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB measure) (NP (NP (NN similarity)) (PP (IN between) (NP (NP (NNS nodes)) (PP (IN in) (NP (DT a) (JJ large) (NN network)))))) (PP (VBN based) (PP (IN on) (NP (NP (NNS features)) (PP (IN of) (NP (PRP$ their) (NNS neighborhoods)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (JJ unified) (JJ parametric) (NN model)) (CC and) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (CD four) (NN instance) (NNS measures)))))) (. .))

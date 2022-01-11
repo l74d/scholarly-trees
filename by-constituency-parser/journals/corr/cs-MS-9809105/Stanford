@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (JJ novel) (JJ parallel) (NN algorithm)) (PP (IN for) (NP (NN matrix) (NN multiplication)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT The) (ADJP (JJ hyper) (HYPH -) (JJ systolic)) (NN algorithm)) (VP (VBZ makes) (NP (NP (NN use)) (PP (IN of) (NP (DT a) (ADJP (CD one) (HYPH -) (JJ dimensional)) (NN processor) (NN abstraction))))) (. .))
+(S (NP (DT The) (NN procedure)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN on) (NP (NP (DT all) (NNS types)) (PP (IN of) (NP (JJ parallel) (NNS systems)))))))) (. .))
+(S (S (NP (PRP It)) (VP (MD can) (VP (VB handle) (NP (NML (NN matrix) (HYPH -) (NN vector)) (NNS multiplications))))) (CONJP (RB as) (RB well) (IN as)) (FRAG (VP (VBN transposed) (NP (NN matrix) (NNS products)))) (. .))

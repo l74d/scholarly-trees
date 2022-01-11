@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN formulated) (PP (IN as) (NP (NP (DT a) (JJ nondifferentible) (NN optimization) (NN problem)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ nonconvex) (PP (IN with) (NP (ADJP (RB highly) (VBN coupled)) (NNS constraints))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN proof)) (VP (VBZ requires) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ technical) (NNS innovations))) (, ,) (PP (VBG including) (S (VP (VBG proving) (NP (NN soundness) (CC and) (NN completeness)) (PP (IN in) (NP (DT a) (ADJP (RB mutually) (JJ recursive)) (NN fashion)))))))) (. .))

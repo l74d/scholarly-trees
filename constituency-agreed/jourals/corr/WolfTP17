@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN learning) (NN problem)) (VP (VBZ extends) (NP (NP (CD two) (NN literature) (NNS problems)) (: :) (NP (NP (JJ unsupervised) (NN domain) (NN adaptation)) (CC and) (NP (NN cross) (NN domain) (NN transfer))))) (. .))

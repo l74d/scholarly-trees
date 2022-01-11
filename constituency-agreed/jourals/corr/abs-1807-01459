@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN loss) (NN function)) (VP (VBZ contains) (NP (NP (CD three) (JJ basic) (NNS components)) (, ,) (PP (VBG including) (NP (NP (DT the) (JJ semantic) (NN loss)) (, ,) (NP (DT the) (NN saliency) (NN loss)) (, ,) (CC and) (NP (DT the) (NN quantization) (NN loss)))))) (. .))

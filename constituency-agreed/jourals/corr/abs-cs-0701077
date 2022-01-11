@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN searchlight)) (VP (VBZ is) (NP (NP (DT a) (NN ray)) (VP (VBN emitted) (PP (IN by) (NP (NP (DT an) (NN agent)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (RB not) (VP (VB penetrate) (NP (NP (DT the) (NN boundary)) (PP (IN of) (NP (DT the) (NN environment))))))))))))) (. .))
+(S (NP (NNS Targets)) (VP (VBP are) (NP (NP (NNS points)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB move) (ADVP (RB continuously)) (PP (IN with) (NP (JJ unbounded) (NN speed))))))))) (. .))

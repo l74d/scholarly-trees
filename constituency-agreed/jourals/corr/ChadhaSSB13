@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (NN communication) (NNS channels)) (VP (VBP are) (VP (VBG increasing) (PP (IN in) (NP (NN number))))))) (, ,) (NP (NP (NN reliability)) (PP (IN of) (NP (JJ faithful) (NN communication)))) (VP (VBZ is) (VP (VBG reducing))) (. .))
+(S (NP (DT This)) (VP (VBZ raises) (NP (NP (DT the) (NN importance)) (PP (IN of) (NP (NN steganography))))) (. .))

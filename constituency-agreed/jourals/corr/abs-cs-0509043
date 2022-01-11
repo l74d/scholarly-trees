@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (ADVP (RB furthermore)) (VP (VBZ has) (NP (DT a) (NN componentwise) (JJ minimal) (NN element))) (. .))
+(S (SBAR (IN If) (S (NP (DT the) (JJ feasible) (NN power) (NN region)) (VP (VBZ is) (ADJP (JJ nonempty))))) (, ,) (NP (DT the) (NN minimum)) (VP (VBZ is) (VP (VBN attained))) (. .))

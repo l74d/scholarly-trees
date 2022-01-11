@@ -1,0 +1,1 @@
+(S (PP (VBN Compared) (PP (IN with) (NP (DT the) (JJ main) (VBG existing) (NNS methods)))) (, ,) (NP (PRP$ our) (NN algorithm)) (VP (VBZ has) (NP (NP (DT a) (JJ distinct) (NN advantage)) (PP (IN in) (NP (CC both) (NP (DT the) (NN training) (NN speed)) (CC and) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (JJ unsupervised) (NN representation) (NN learning)))))))) (. .))

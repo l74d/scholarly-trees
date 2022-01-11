@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN formulation)) (VP (MD can) (VP (VB generate) (NP (NP (NNS messages)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN divided) (PP (IN into) (NP (CD two) (NNS parts))))))))))) (. .))
+(S (PP (IN During) (NP (NN message) (NN transmission))) (, ,) (S (NP (CD one) (NN part)) (VP (VBZ is) (VP (VBN transmitted) (PP (IN through) (NP (DT a) (NN socket)))))) (CC and) (S (NP (DT the) (JJ other) (NN part)) (VP (VBZ uses) (NP (VBN shared) (NN memory)))) (. .))
+(S (NP (NP (DT The) (NN part)) (PP (IN within) (NP (VBN shared) (NN memory)))) (VP (VBZ is) (ADVP (RB never)) (VP (VBN copied) (CC or) (VBN serialized) (PP (IN during) (NP (PRP$ its) (NN lifetime))))) (. .))

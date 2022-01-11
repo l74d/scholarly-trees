@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (DT a) (JJ semantic) (NN understanding)) (VP (VBZ is) (VP (VBN required) (PP (IN in) (NP (NP (DT the) (NN change) (NN detection) (NN research)) (PP (JJ such) (IN as) (NP (NN disaster) (NN investigation))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP employ) (NP (NP (JJ multi-scale) (NN feature) (NN representation)) (VP (VBN captured) (PP (IN by) (NP (JJ different) (NN image) (NNS patches)))))) (. .))

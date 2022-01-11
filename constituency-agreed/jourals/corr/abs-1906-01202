@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (JJ multi-agent) (NNS interactions)) (VP (MD can) (VP (VB be) (ADVP (RB naturally)) (VP (VBN modeled) (PP (IN as) (NP (DT a) (NN graph)))))))) (, ,) (NP (DT the) (NN environment)) (VP (VBZ has) (ADVP (RB traditionally)) (VP (VBN been) (VP (VBN considered) (PP (IN as) (NP (DT a) (JJ black) (NN box)))))) (. .))
+(S (NP (NNS Agents)) (VP (VBP learn) (S (VP (TO to) (VP (VB cooperate) (PP (IN by) (S (VP (VBG exchanging) (NP (NNS messages)) (PP (IN along) (NP (NP (DT the) (NNS edges)) (PP (IN of) (NP (DT this) (NN graph)))))))))))) (. .))

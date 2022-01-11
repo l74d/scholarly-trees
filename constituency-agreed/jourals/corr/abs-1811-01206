@@ -1,0 +1,1 @@
+(S (S (VP (VBN Inspired) (PP (IN by) (NP (DT the) (ADJP (RB recently) (VBN introduced)) (JJ deformable) (JJ convolutional) (NNS networks))))) (, ,) (NP (PRP we)) (VP (VBP integrate) (NP (DT the) (JJ deformable) (NN convolution)) (PP (IN into) (NP (DT the) (VBN proposed) (NN network)))) (. .))

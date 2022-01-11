@@ -1,0 +1,2 @@
+(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (PP (IN on) (NP (NP (DT the) (NNS structures) (CC and) (NNS architectures)) (PP (IN of) (NP (NN quantum) (NNS networks))))) (CC and) (RB not) (PP (IN on) (NP (NP (JJ concrete) (JJ physical) (NNS implementations)) (PP (IN of) (NP (NN network) (NNS elements))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ several) (NNS protocols)) (VP (VBG operating) (PP (IN on) (NP (DT these) (NNS layers)))))) (. .))

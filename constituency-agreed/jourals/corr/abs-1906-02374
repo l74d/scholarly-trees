@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB handle) (NP (PDT all) (DT these) (NNS questions))))) (, ,) (NP (DT an) (JJ efficient) (NN algorithm)) (VP (VBZ is) (VP (VBN needed) (S (VP (TO to) (VP (VB replace) (NP (DT the) (ADJP (RB traditionally) (JJ visual)) (NN checking) (NN method))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (NNS pages)) (PP (IN with) (NP (NP (JJ local) (NNS defects)) (PP (VBG including) (NP (NP (JJ gray) (NNS spots)) (CC and) (NP (JJ solid) (NNS spots))))))))) (. .))

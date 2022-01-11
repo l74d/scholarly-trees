@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ digital) (NN communication) (NNS systems))) (NP (NP (JJ different) (NN clock) (NNS frequencies)) (PP (IN of) (NP (NN transmitter) (CC and) (NN receiver)))) (ADVP (RB usually)) (VP (VBZ is) (VP (VBN translated) (PP (IN into) (NP (NN cycle) (NNS slips))))) (. .))
+(S (NP (NP (JJ Considerable) (NNS results)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNP BER)))))) (VP (VBP confirm) (NP (DT the) (NN algorithm) (NN proficiency))) (. .))

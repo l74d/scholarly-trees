@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP Kaczmarz) (NN algorithm)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB well) (VBN known)) (JJ iterative) (NN method)) (PP (IN for) (S (VP (VBG solving) (NP (JJ overdetermined) (JJ linear) (NNS systems))))))) (. .))

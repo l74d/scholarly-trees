@@ -1,0 +1,1 @@
+(S (S (NP (NNS Results)) (VP (VBP are) (VP (VBN formulated) (PP (IN for) (NP (JJ general) (NN parameter) (NNS distributions)))))) (CC and) (S (NP (JJ detailed) (NNS expressions)) (VP (VBP are) (VP (VBN provided) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ underlying) (NN distribution)) (VP (VBZ is) (ADJP (JJ Gaussian)))))))) (. .))

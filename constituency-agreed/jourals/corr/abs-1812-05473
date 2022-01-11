@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (JJ realistic) (NNS applications))) (, ,) (NP (DT these) (NNS networks)) (VP (MD may) (VP (VB vary) (PP (IN over) (NP (NN time))))) (. .))
+(S (S (VP (VBG Modeling) (CC and) (VBG analyzing) (NP (JJ such) (JJ temporal) (NNS properties)))) (VP (VBZ is) (PP (IN of) (NP (JJ additional) (NN interest))) (SBAR (IN as) (S (NP (PRP it)) (VP (MD can) (VP (VB provide) (NP (NP (DT a) (JJR richer) (NN characterization)) (PP (IN of) (NP (NP (NNS relations)) (PP (IN between) (NP (NP (NNS nodes)) (PP (IN in) (NP (NNS networks))))))))))))) (. .))

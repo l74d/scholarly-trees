@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN methodology)) (VP (VBZ presents) (NP (JJ several) (NNS drawbacks))) (. .))
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ overcomes) (NP (JJ such) (NNS drawbacks))))))) (. .))
+(S (NP (DT A) (NN simulation) (NN exercise)) (VP (VBZ is) (VP (VBN produced) (S (VP (TO to) (VP (VB validate) (NP (NP (DT the) (NN model)) (CC and) (NP (PRP$ its) (NN robustness)))))))) (. .))

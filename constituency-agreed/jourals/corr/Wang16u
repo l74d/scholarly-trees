@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP find) (NP (NP (DT the) (JJ algebraic) (NNS laws)) (PP (IN for) (NP (JJ true) (NN concurrency))))) (. .))
+(S (CC And) (ADVP (RB also)) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (DT the) (NNS applications) (CC and) (NNS extensions)) (PP (IN of) (NP (NNP APTC))))) (. .))

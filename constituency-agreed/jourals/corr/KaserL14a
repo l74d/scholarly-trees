@@ -1,0 +1,2 @@
+(S (NP (VBN Compressed) (NN bitmap) (NNS indexes)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB speed) (PRT (RP up)) (NP (NP (JJ simple) (NN aggregate) (NNS queries)) (PP (IN in) (NP (NNS databases))))))))) (. .))
+(S (NP (PRP$ Our) (NN work)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NN bitmap) (NNS indexes)) (VP (VBP are) (ADJP (ADJP (ADVP (RBR more) (RB broadly)) (JJ applicable)) (SBAR (IN than) (S (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN believed)))))))))) (. .))

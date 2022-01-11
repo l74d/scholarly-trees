@@ -1,0 +1,2 @@
+(S (NP (NNP Video) (NN interpolation)) (VP (VBZ increases) (NP (NP (DT the) (JJ temporal) (NN resolution)) (PP (IN of) (NP (DT a) (NN video) (NN sequence)))) (PP (IN by) (S (VP (VBG synthesizing) (NP (NP (JJ intermediate) (NNS frames)) (PP (IN between) (NP (CD two) (JJ consecutive) (NNS frames)))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP approximate) (NP (JJ bi-directional) (NNS motions)) (S (VP (TO to) (VP (VB predict) (NP (NP (DT a) (JJ different) (NN kind)) (PP (IN of) (NP (JJ bilateral) (NNS motions)))))))) (. .))

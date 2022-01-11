@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT each) (NN instruction))) (, ,) (NP (PRP we)) (VP (VBP extract) (NP (NP (DT the) (NN information)) (VP (VBG describing) (NP (NP (PRP$ its) (NN behavior)) (, ,) (NP (PRP$ its) (JJ binary) (NN encoding)) (, ,) (CC and) (NP (PRP$ its) (NN assembly) (NN syntax)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP generate) (NP (NP (NP (NNS tests)) (PP (IN for) (NP (DT the) (NN decoder)))) (CC and) (NP (NP (DT a) (JJ formal) (NN specification)) (PP (IN in) (NP (NNP Coq)))))) (. .))

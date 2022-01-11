@@ -1,0 +1,1 @@
+(S (NP (NNP Elfe)) (VP (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NNP Haskell))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN accessed) (PP (PP (IN via) (NP (DT a) (JJ reactive) (NN web) (NN interface))) (CC or) (PP (IN from) (NP (DT the) (NN command) (NN line)))))))) (. .))

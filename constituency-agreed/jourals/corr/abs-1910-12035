@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBZ is) (VP (VP (VBN evaluated) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN coverage) (NN probability)))))) (CC and) (VP (VBN validated) (PP (IN against) (NP (JJ intensive) (NNS simulations)))))) (. .))

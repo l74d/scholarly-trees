@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN methodology)) (VP (VBZ uses) (NP (NP (DT a) (NN population)) (PP (IN of) (NP (NN integer) (NNS particles))))) (. .))
+(S (NP (NP (DT The) (NN methodology)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ follows) (NP (ADJP (RB fully) (VBN connected)) (NN neighborhood) (NN topology))))) (, ,)) (VP (MD can) (VP (VB offer) (NP (NP (JJ many) (NNS solutions)) (PP (IN of) (NP (JJ such) (NNS equations)))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Maximizing) (NP (DT the) (NN production) (NN yield)))) (VP (VBZ is) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (DT the) (NN manufacturing) (NN industry)))))) (. .))
+(S (PP (IN At) (NP (DT the) (NNP Bosch) (NN assembly) (NN line))) (, ,) (NP (NN data)) (VP (VBZ is) (VP (VBN recorded) (PP (IN for) (NP (NNS products))) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP progress) (PP (IN through) (NP (DT each) (NN stage)))))))) (. .))

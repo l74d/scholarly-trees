@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG achieving) (NP (NN invariance)) (PP (IN for) (NP (JJ large) (NN rotation) (NNS angles))))))) (VP (VBZ remains) (ADJP (RB largely) (JJ unexplored))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (JJ generic) (NNP CNN) (NNS architectures)) (VP (VBP are) (RB not) (ADJP (JJ suitable) (PP (IN for) (NP (DT this) (NN purpose)))))))) (. .))

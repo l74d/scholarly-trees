@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN built) (ADVP (RB incrementally)) (S (VP (VBG adding) (NP (NP (CD one) (NN node)) (PP (IN at) (NP (DT a) (NN time)))))))) (. .))
+(S (PP (IN In) (NP (NN practice))) (NP (DT the) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN in) (NP (JJ various) (NNS ways)))))) (. .))

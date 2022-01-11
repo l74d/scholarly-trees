@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBD flipped) (NP (DT the) (NNS labels)) (PP (IN for) (NP (ADJP (JJ real) (CC and) (JJ fake)) (NNS images)))) (CC and) (VP (VBD added) (NP (NN noise)) (PP (IN in) (NP (NN discriminator))))) (. .))
+(S (NP (NP (VBN Generated) (NNS images)) (PP (IN for) (NP (JJ diverse) (JJ textual) (NNS descriptions)))) (VP (VBP show) (NP (JJ promising) (NNS results))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (JJ many) (NNS models)) (VP (VBN used) (PP (IN in) (NP (NN engineering) (CC and) (NN science)))))) (, ,) (NP (NN material) (NNS properties)) (VP (VBP are) (ADJP (ADJP (JJ uncertain)) (CC or) (ADJP (RB spatially) (VBG varying)))) (. .))
+(S (NP (DT These) (JJ random) (NNS fields)) (VP (MD can) (VP (VB be) (ADJP (RB highly) (JJ anisotropic)))) (. .))

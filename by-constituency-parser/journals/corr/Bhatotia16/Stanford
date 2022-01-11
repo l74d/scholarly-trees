@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (JJ asymptotic) (NN analysis)) (PP (IN of) (NP (ADJP (NN self) (HYPH -) (VBG adjusting)) (NN contraction) (NNS trees)))) (PP (IN for) (NP (NP (JJ incremental) (VBG sliding) (NN window)) (NML (NNS analytics))))) (. .))

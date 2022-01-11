@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Joint) (NN estimation) (CC and) (NN scheduling)) (PP (IN for) (NP (NN sensor) (NNS networks)))) (VP (VBZ is) (VP (VBN considered) (PP (IN in) (NP (NP (DT a) (NN system)) (VP (VBN formed) (PP (IN by) (NP (NP (CD two) (NNS sensors)) (, ,) (NP (DT a) (NN scheduler)) (CC and) (NP (DT a) (JJ remote) (NN estimator))))))))) (. .))
+(S (NP (DT Each) (NN sensor)) (VP (VBZ observes) (NP (NP (DT a) (JJ Gaussian) (NN source)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB be) (VP (VBN correlated)))))))) (. .))

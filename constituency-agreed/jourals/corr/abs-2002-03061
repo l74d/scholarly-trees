@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB improve) (NP (NN accuracy) (CC and) (NN generalization)) (PP (IN by) (S (VP (VBG incorporating) (NP (NNS symmetries)) (PP (IN into) (NP (JJ deep) (JJ neural) (NNS networks)))))))))) (. .))

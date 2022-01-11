@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (PRP$ their) (NN robustness)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT a) (JJ close) (NN approximation)) (PP (IN of) (NP (DT the) (JJ real) (NN error) (NN distribution)))))))) (, ,) (NP (PRP$ their) (NN parametrization)) (VP (VBZ is) (ADJP (JJ crucial))) (. .))

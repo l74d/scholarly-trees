@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN model)) (VP (VBD was) (ADVP (RB also)) (VP (VBN evaluated) (PP (IN on) (NP (CD three) (JJ other) (NNS databases))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (DT a) (JJ thorough) (NN analysis)) (PP (IN of) (NP (NP (NP (DT the) (NN model) (POS 's)) (NN performance)) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NP (JJ different) (NNS levels)) (PP (IN of) (NP (NN noise)))))))))) (VP (VBD was) (VP (VBN carried) (PRT (RP out)))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NNS Swaptions)) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN priced) (PP (IN as) (NP (NP (NNS options)) (PP (IN on) (NP (NP (DT a) (NN basket)) (PP (IN of) (NP (JJ lognormal) (NNS assets))))))))))) (CC and) (S (NP (DT an) (NN approximation) (NN formula)) (VP (VBZ is) (VP (VBN derived) (PP (IN for) (NP (JJ such) (NNS options)))))) (. .))

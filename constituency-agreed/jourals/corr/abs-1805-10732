@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN extended) (S (VP (TO to) (VP (VB introduce) (NP (DT the) (NNS effects) (NN polarization))))))) (. .))
+(S (NP (NP (DT The) (JJ fundamental) (NN assumption)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT a) (NN parameter)) (PP (IN of) (NP (NN importance)))) (VP (VBZ governs) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NN message) (NN responsiveness)))))))) (. .))

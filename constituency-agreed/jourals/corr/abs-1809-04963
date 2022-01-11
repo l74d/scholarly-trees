@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ common) (NN throughput) (NN maximization)) (VP (VBZ is) (NP (NP (DT a) (JJ non-convex) (NN optimization) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB be) (VP (VBN solved) (ADVP (RB optimally)))))))))))) (. .))

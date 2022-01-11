@@ -1,0 +1,3 @@
+(S (NP (DT The) (CD two) (NNS subproblems)) (VP (VBP are) (VP (VBN optimized) (ADVP (RB alternately)))) (. .))
+(S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN solved) (PP (IN by) (S (VP (VBG using) (NP (JJ fractional) (NN programming))))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP optimize) (NP (DT the) (NN power) (NN control)) (PP (IN by) (S (VP (VBG using) (NP (DT the) (NNP Dinkelbach) (NN method)))))) (. .))

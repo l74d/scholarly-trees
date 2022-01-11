@@ -1,0 +1,3 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (CD two) (NNS players)))) (VP (VBZ knows) (NP (DT the) (NNS valuations)) (PP (IN with) (NP (NN certainty)))) (. .))
+(S (NP (DT The) (JJ other)) (VP (VBZ knows) (NP (NP (RB only) (DT a) (NN distribution)) (PP (IN on) (NP (DT the) (NN battlefield) (NNS realizations))))) (. .))
+(S (NP (PRP We)) (VP (VBP characterize) (NP (NP (DT the) (JJ unique) (NN equilibrium) (NNS payoffs)) (CC and) (NP (JJ mixed) (NN equilibrium) (NNS strategies)))) (. .))

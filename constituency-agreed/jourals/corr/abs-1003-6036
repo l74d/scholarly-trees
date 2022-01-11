@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (NN correctness)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN shown)))) (CC and) (S (NP (DT the) (JJ computational) (NN complexity)) (VP (VBZ is) (VP (VBN analyzed)))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (CD two) (JJ main) (NNS results))) (. .))

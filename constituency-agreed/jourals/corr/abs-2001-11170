@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (S (VP (VBG decoding) (NP (DT a) (NN word)))) (VP (MD might) (VP (VB require) (NP (NP (DT a) (NN delay)) (PP (IN of) (NP (NP (DT a) (JJ finite) (NN number)) (PP (IN of) (NP (NNS bits))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN concatenation)) (PP (IN of) (NP (DT the) (CD three) (NNP CNN) (NN model) (NNS outputs)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB predict) (NP (DT the) (NN class) (NN label))))))) (. .))

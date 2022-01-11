@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (PRP it)) (VP (VBZ illustrates) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS principles)) (VP (MD could) (VP (VB be) (ADJP (JJ effective) (PP (IN for) (NP (JJ other) (NNS applications))))))))) (. .))
+(S (NP (NP (NNS Details)) (PP (IN of) (NP (DT the) (NN implementation)))) (VP (VP (VBP are) (RB not) (VP (VBN provided) (ADVP (RB here)))) (, ,) (CC but) (VP (VBP are) (ADJP (JJ available)))) (. .))

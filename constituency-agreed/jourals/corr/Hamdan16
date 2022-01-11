@@ -1,0 +1,2 @@
+(S (NP (CD Ten) (NN correlation) (NNS metrics)) (VP (VBP are) (VP (VBN proposed) (CC and) (VBN evaluated) (ADVP (RB intrinsically)))) (. .))
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ outperforms) (NP (DT these) (NNS algorithms)) (PP (IN with) (NP (JJ several) (NN correlation) (NNS metrics)))) (. .))

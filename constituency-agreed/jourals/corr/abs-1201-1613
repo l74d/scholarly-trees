@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB particularly)) (VP (VBP look) (PP (IN at) (NP (DT the) (NNP Multi-Layer) (NNP Perceptron)))) (. .))
+(S (NP (PRP$ Our) (NN technique)) (VP (VBZ outperforms) (NP (NP (JJ classical) (NNS models)) (PP (IN for) (NP (PDT all) (DT the) (NNS places))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (JJ main) (NN difficulty) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)))))))) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (JJ huge) (NNS dimensions)) (PP (IN of) (NP (DT the) (NN blur) (NN matrix)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP justify) (NP (DT this) (NN approach)) (PP (IN from) (NP (NP (DT a) (JJ mathematical) (NN point)) (PP (IN of) (NP (NN view)))))) (CC and) (VP (VB investigate) (NP (DT the) (NN approximation) (NN quality)) (ADVP (RB numerically)))) (. .))

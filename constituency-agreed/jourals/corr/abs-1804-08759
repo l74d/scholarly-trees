@@ -1,0 +1,2 @@
+(S (NP (NNS Annotations)) (VP (VBD were) (VP (VBN done) (S (VP (VBG using) (NP (NN crowdsourcing)))))) (. .))
+(S (NP (PRP They)) (VP (MD could) (VP (VB be) (ADJP (JJ useful) (PP (IN for) (S (VP (VBG designing) (NP (JJ conversational) (NN search) (NNS systems)))))))) (. .))

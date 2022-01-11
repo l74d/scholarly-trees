@@ -1,0 +1,3 @@
+(S (NP (JJ Several) (JJ logical) (NNS operators)) (VP (VBP are) (VP (VBN defined) (PP (IN as) (NP (JJ dual) (NNS pairs))) (, ,) (PP (IN in) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NNS logics))))))) (. .))
+(S (NP (NP (JJ Such) (JJ dual) (NNS pairs)) (PP (IN of) (NP (NNS operators)))) (ADVP (RB also)) (VP (VBP occur) (PP (IN in) (NP (NP (JJ other) (JJ algebraic) (NNS theories)) (, ,) (PP (JJ such) (IN as) (NP (JJ mathematical) (NN morphology)))))) (. .))
+(S (NP (NP (DT A) (NN hint)) (PP (IN on) (NP (NP (DT the) (JJ potential) (NN interest)) (PP (IN of) (NP (NP (DT the) (VBN proposed) (NN framework)) (PP (IN for) (NP (JJ spatial) (NN reasoning)))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN provided))) (. .))

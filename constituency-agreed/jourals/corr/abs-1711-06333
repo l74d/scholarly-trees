@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN mesh) (NNS nodes)) (VP (VBP are) (VP (VBN treated) (SBAR (IN as) (IN if) (S (NP (PRP they)) (VP (VBD were) (VP (VBN linked) (PP (IN by) (NP (NP (JJ virtual) (NNS springs)) (SBAR (WHNP (WDT that)) (S (VP (VBP obey) (NP (NP (NNP Hooke) (POS 's)) (NN law))))))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ converges) (ADVP (RB rapidly))) (. .))

@@ -1,0 +1,2 @@
+(S (S (ADVP (RB Therefore)) (, ,) (NP (JJ several) (NNS models)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN for) (NP (NN hysteresis) (NN simulation))) (PP (IN in) (NP (JJ different) (NNS fields))))))) (: ;) (S (ADVP (RB however)) (, ,) (NP (NP (RB almost) (DT neither)) (PP (IN of) (NP (PRP them)))) (VP (MD can) (VP (VB be) (VP (VBN utilized) (ADVP (RB universally)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN comprised) (PP (IN of) (NP (NP (NN input)) (, ,) (NP (NN output)) (CC and) (, ,) (NP (CD two) (JJ hidden) (NNS layers)))))) (. .))

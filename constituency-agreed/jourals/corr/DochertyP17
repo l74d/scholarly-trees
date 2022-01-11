@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (NN decidability)) (PP (IN of) (NP (DT the) (NN logic)))) (PP (IN by) (S (VP (VBG showing) (SBAR (S (NP (DT the) (JJ finite) (NN embeddability) (NN property)) (VP (VBZ holds) (PP (IN for) (NP (DT the) (JJ algebraic) (NNS semantics)))))))))) (. .))

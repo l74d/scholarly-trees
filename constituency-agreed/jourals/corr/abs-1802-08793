@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN dataset)) (PP (IN of) (NP (CD 12) (NNS images)))) (VP (VBZ is) (VP (VBN given) (PP (IN with) (NP (NP (DT the) (NN ground) (NN truth)) (PP (IN of) (NP (NNS shadings) (CC and) (NN reflectance))))) (, ,) (SBAR (IN so) (IN that) (S (NP (DT the) (JJ objective) (NNS evaluations)) (VP (MD can) (VP (VB be) (VP (VBN conducted)))))))) (. .))

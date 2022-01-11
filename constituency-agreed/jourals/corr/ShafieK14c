@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN time) (NN resource)) (VP (VBZ is) (VP (VBN partitioned) (PP (IN into) (NP (JJ discrete) (NN time) (NNS slots))))) (. .))
+(S (NP (DT The) (NN optimization) (NN problem)) (VP (VBZ is) (VP (VBN stated) (PP (IN under) (NP (JJ such) (NN condition))))) (. .))

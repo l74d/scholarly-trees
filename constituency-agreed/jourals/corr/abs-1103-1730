@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (JJ high) (NN complexity) (NNS operations)) (PP (IN like) (NP (JJ modular) (NN multiplication) (, ,) (NN exponentiation) (CC and) (NN inversion)))) (VP (VBP are) (VP (VBN avoided) (S (VP (TO to) (VP (VB increase) (NP (PRP$ its) (NN efficiency))))))) (. .))

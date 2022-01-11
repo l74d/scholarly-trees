@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN cost)) (PP (IN of) (NP (DT a) (NN query)))) (VP (VBZ is) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (DT the) (NNS costs)) (PP (IN of) (NP (NP (DT the) (NNS entries)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN read) (PP (IN from) (NP (DT the) (JJ hidden) (NN relation))))))))))))) (. .))

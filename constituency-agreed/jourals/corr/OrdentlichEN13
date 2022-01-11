@@ -1,0 +1,1 @@
+(S (ADVP (RB Nonetheless)) (, ,) (PP (ADVP (RB even)) (IN for) (NP (NP (DT the) (JJ optimal) (NN choice)) (PP (IN of) (NP (NN integer) (NNS coefficients))))) (, ,) (NP (NP (DT the) (JJ additive) (NN noise)) (PP (IN at) (NP (NP (DT the) (NN equalizer) (POS 's)) (NN output)))) (VP (VBZ is) (ADVP (RB still)) (VP (VBN correlated))) (. .))

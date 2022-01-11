@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN dependency)) (PP (IN of) (NP (JJ characteristic) (NN distance))) (PP (IN on) (NP (NN energy) (NN dissipation) (NN model))))) (. .))
+(S (NP (DT Both) (DT the) (UCP (NN many-to-one) (CC and) (JJ any-to-any)) (NN communication) (NNS paradigm)) (VP (VBP have) (VP (VBN been) (VP (VBN presented) (PP (IN for) (NP (NN performance) (NN analysis)))))) (. .))
+(S (NP (JJ Characteristic) (NN distance)) (VP (VBZ has) (VP (VBN been) (VP (VBN derived) (PP (IN for) (NP (CD three) (JJ different) (NNS cases)))))) (. .))
+(S (NP (DT This) (NN study)) (VP (MD will) (VP (VB be) (ADJP (JJ useful) (PP (IN for) (S (VP (VBG designing) (NP (NP (DT an) (JJ energy-efficient) (NN wireless) (NN network)) (SBAR (WHADVP (WRB where)) (S (NP (NNS nodes)) (VP (VBP are) (ADJP (JJ energy-constrained)))))))))))) (. .))

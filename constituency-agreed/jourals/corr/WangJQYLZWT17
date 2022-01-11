@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN experiment)) (ADVP (RB also)) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (PRP$ our) (NN network)) (VP (VBZ is) (ADJP (JJ robust) (PP (IN against) (NP (JJ noisy) (NNS labels)))))))) (. .))

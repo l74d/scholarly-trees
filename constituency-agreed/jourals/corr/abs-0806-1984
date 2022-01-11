@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Curves)) (, ,) (ADJP (JJ equivalent) (PP (IN under) (NP (DT an) (JJ affine) (NN transformation)))) (, ,)) (VP (VBP have) (NP (DT the) (JJ same) (NN signature))) (. .))
+(S (NP (NP (DT The) (NN comparison)) (PP (IN with) (NP (NP (JJ other) (NNS types)) (PP (IN of) (NP (NNS invariants)))))) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (DT the) (NN introduction))))) (. .))

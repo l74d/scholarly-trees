@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB converge) (PP (IN in) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (NNS iterations)))))))) (, ,) (ADVP (RB however)) (, ,) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN coupled) (PP (IN with) (NP (DT an) (JJ efficient) (NN preconditioner)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS solutions)) (VP (VBP are) (VP (VBN given) (PP (IN in) (NP (NP (DT a) (JJ compact) (NN vector) (NN form)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ extends) (NP (JJ known) (NNS solutions))) (CC and) (VP (VBZ involves) (NP (JJ modest) (JJ computational) (NNS efforts)))))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (VP (VBN obtained))) (VP (VBP are) (VP (VBN illustrated) (PP (IN with) (NP (JJ numerical) (NNS examples))))) (. .))

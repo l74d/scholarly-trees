@@ -1,0 +1,1 @@
+(S (S (NP (NP (JJ Neural) (NNS networks)) (PP (IN with) (NP (ADJP (RB sufficiently) (JJ smooth)) (NN activation) (NNS functions)))) (VP (MD can) (VP (VB approximate) (NP (NP (NNS values) (CC and) (NNS derivatives)) (PP (IN of) (NP (DT any) (JJ smooth) (NN function))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ differentiable)) (NP (PRP themselves)))) (. .))

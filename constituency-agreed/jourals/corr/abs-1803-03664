@@ -1,0 +1,3 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (S (VP (VP (VBG handling) (NP (JJ rare) (NNS words))) (CC and) (VP (VBG generating) (NP (NP (DT the) (ADJP (RBS most) (JJ appropriate)) (NN question)) (VP (VBN given) (NP (DT a) (NN candidate) (NN answer))))))) (VP (VBP are) (ADVP (RB still)) (NP (NP (NNS challenges)) (VP (VBG facing) (NP (VBG existing) (NNS approaches)))))))) (. .))
+(S (NP (DT This) (NN analysis)) (VP (VBZ is) (VP (VBN supported) (PP (IN by) (NP (JJ extensive) (JJ experimental) (NNS evaluations))))) (. .))
+(S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach)))))) (. .))

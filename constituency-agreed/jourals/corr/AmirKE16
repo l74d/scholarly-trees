@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ unknown) (NN number)) (PP (IN of) (NP (NNS eavesdroppers)))) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB decode) (NP (NP (DT the) (NNS messages)) (VP (VBN sent) (PP (IN by) (NP (DT the) (NNS transmitters)))))))))) (. .))
+(S (NP (DT The) (JJ legitimate) (NNS transmitters) (CC and) (NNS receivers)) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB have) (NP (JJ global) (NN channel) (NN knowledge))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (VBN Distributed) (NN power) (NN control)) (PP (IN for) (NP (JJ parallel) (JJ Gaussian) (NN interference) (NNS channels)))) (ADVP (RB recently)) (VP (VBZ draws) (NP (JJ great) (NNS interests))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT this) (NN problem)) (PP (IN for) (NP (JJ stochastic) (JJ parallel) (JJ Gaussian) (NN interference) (NNS channels))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ has) (VP (VBN created) (NP (NP (DT a) (NN need)) (PP (IN for) (NP (JJ large) (JJ annotated) (NNS datasets)))))) (. .))
+(S (NP (NP (DT This) (NN process)) (PP (IN of) (NP (NN annotation)))) (VP (VP (VBZ is) (ADJP (JJ expensive))) (CC and) (VP (VBZ needs) (NP (NP (DT the) (NN involvement)) (PP (IN of) (NP (NNS clinicians)))))) (. .))
+(S (NP (DT The) (NN output) (NN layer)) (VP (VBZ estimates) (NP (NP (DT the) (NNS coordinates)) (PP (IN of) (NP (NP (DT the) (NNS vertices)) (PP (IN of) (NP (DT a) (JJ polygonal) (NN region))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ little)) (VP (VBZ is) (VP (VBN known) (PP (IN about) (NP (DT this) (NN process))))) (. .))
+(SBARQ (PP (IN For) (NP (NN example))) (, ,) (WHNP (WHNP (WRB how) (JJ much)) (PP (IN of) (NP (NP (DT a) (NN network) (POS 's)) (NN assembly)))) (SQ (VBZ is) (VP (VBN driven) (PP (IN by) (NP (JJ simple) (NN growth))))) (. ?))

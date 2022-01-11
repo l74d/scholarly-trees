@@ -1,0 +1,2 @@
+(SQ (VBP Do) (NP (PRP they)) (VP (VB see) (NP (PRP it)) (PP (IN as) (NP (NP (DT an) (JJ economic) (NN opportunity)) (CC or) (NP (DT a) (NN security) (NN threat))))) (. ?))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB evaluate) (NP (NP (DT the) (NN friendliness)) (PP (IN of) (NP (DT the) (NN news) (NN coverage)))) (PP (VBN based) (PP (IN on) (NP (NN sentiment) (NN analysis))))) (. .))

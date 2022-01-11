@@ -1,0 +1,1 @@
+(S (NP (DT Each) (NN agent)) (ADVP (RB initially)) (VP (VBZ receives) (NP (NP (DT a) (JJ noisy) (NN observation)) (PP (IN of) (NP (NP (DT the) (JJ true) (NN state)) (PP (IN of) (NP (DT the) (NN world))))))) (. .))

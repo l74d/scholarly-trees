@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Metadata)) (PP (IN in) (NP (JJ relational) (NNS databases)))) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB extract) (NP (NN ontology)) (PP (IN from) (NP (NP (NN database)) (PP (IN in) (NP (DT a) (JJ special) (NN domain))))))))))) (. .))

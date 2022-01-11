@@ -1,0 +1,1 @@
+(S (PP (IN Through) (S (VP (VBG minimizing) (NP (DT the) (NN loss) (NN function))))) (, ,) (NP (DT the) (NN network)) (VP (MD could) (VP (VB approximate) (NP (DT the) (NN solution)))) (. .))

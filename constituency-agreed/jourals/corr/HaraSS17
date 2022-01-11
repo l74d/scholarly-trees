@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN learning)) (VP (VBZ uses) (NP (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NNS layers)))) (, ,) (NP (NP (JJ huge) (NN number)) (PP (IN of) (NP (NNS units)))) (, ,) (CC and) (NP (NNS connections)))) (. .))
+(S (S (VP (TO To) (VP (VB avoid) (NP (DT this) (NN problem))))) (, ,) (NP (NN dropout) (NN learning)) (VP (VBZ is) (VP (VBN proposed))) (. .))

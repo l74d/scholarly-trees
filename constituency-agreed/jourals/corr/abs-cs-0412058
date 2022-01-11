@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (DT a) (JJ few) (NN clustering) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN for) (S (VP (VBG analyzing) (NP (JJ numeric) (NNS data) (NNS streams)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (VP (VBN proved) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ uses) (NP (JJ small) (NN memory) (NNS footprints)))))))) (. .))

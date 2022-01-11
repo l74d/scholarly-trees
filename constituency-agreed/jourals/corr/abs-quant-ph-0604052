@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (JJ same)) (VP (VBZ is) (RB not) (ADJP (JJ true) (PP (IN for) (NP (NN entanglement)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP base) (NP (DT the) (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (DT a) (JJ strong) (JJ direct) (NN product) (NN theorem)) (PP (IN for) (NP (NP (NN communication) (NN complexity)) (PP (IN of) (NP (NP (DT a) (JJ certain) (NN class)) (PP (IN of) (NP (JJ relational) (NNS problems)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP believe) (SBAR (IN that) (S (NP (DT the) (NN theorem)) (VP (MD might) (VP (VB have) (NP (NP (NNS applications)) (PP (IN outside) (NP (NP (DT the) (NN scope)) (PP (IN of) (NP (DT this) (NN work))))))))))) (. .))

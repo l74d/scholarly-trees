@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG discovering) (NP (JJ long) (NNS cycles)) (PP (IN inside) (NP (DT a) (NN graph)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (CC and) (VBP test) (NP (CD two) (NNS algorithms)) (PP (IN for) (NP (DT this) (NN task)))) (. .))
+(S (NP (DT The) (JJ first) (CD one)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ recent) (NNS advances)) (PP (IN in) (NP (JJ statistical) (NNS mechanics))))))) (CC and) (VP (VBZ relies) (PP (IN on) (NP (DT a) (NN message) (VBG passing) (NN procedure))))) (. .))
+(S (NP (DT The) (JJ second)) (VP (VBZ follows) (NP (DT a) (ADJP (RBR more) (JJ standard)) (NML (NNP Monte) (NNP Carlo) (NNP Markov) (NNP Chain)) (NN strategy))) (. .))
+(S (NP (JJ Special) (NN attention)) (VP (VBZ is) (VP (VBN devoted) (PP (IN to) (NP (NP (JJ Hamiltonian) (NNS cycles)) (PP (IN of) (NP (-LRB- -LRB-) (JJ non-regular) (-RRB- -RRB-) (JJ random) (NNS graphs))) (PP (IN of) (NP (NP (JJ minimal) (NN connectivity)) (ADJP (JJ equal) (PP (IN to) (NP (CD three)))))))))) (. .))

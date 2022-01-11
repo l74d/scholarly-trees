@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NNP StarGAN) (NN v2)) (, ,) (NP (NP (DT a) (JJ single) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ tackles) (NP (DT both))) (CC and) (VP (VBZ shows) (NP (NP (ADJP (RB significantly) (VBN improved)) (NNS results)) (PP (IN over) (NP (DT the) (NNS baselines))))))))))) (. .))

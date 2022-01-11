@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (NN approach)) (SBAR (WHNP (WDT which)) (S (VP (VBZ exploits) (NP (NP (RB only) (ADJP (RB naturally) (VBG occurring)) (NN information)) (: :) (NP (NP (JJ unlabeled) (NNS documents)) (CC and) (NP (NNP Wikipedia))))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS stages)))) (. .))

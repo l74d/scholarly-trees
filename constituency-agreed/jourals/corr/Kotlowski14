@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (DT a) (NN threshold)) (VP (VBZ is) (VP (VBN tuned) (PP (IN on) (NP (DT a) (JJ separate) (NN validation) (NN sample))) (, ,) (PP (IN by) (NP (NP (JJ direct) (NN optimization)) (PP (IN of) (NP (NNP AMS))))))) (. .))
+(S (ADVP (RB Hence)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (S (VP (VBG minimizing) (NP (JJ logistic) (NN surrogate)))) (VP (VBZ is) (NP (NP (DT a) (JJ consistent) (NN method)) (PP (IN of) (S (VP (VBG optimizing) (NP (NNP AMS)))))))))) (. .))

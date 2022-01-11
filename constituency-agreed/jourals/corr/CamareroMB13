@@ -1,0 +1,4 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (PRP they)) (VP (VBP are) (RB not) (ADJP (RB so) (JJ good)) (SBAR (WHADVP (WRB when)) (S (VP (VBG dealing) (PP (IN with) (NP (JJ global) (NNS communications))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN focused) (PP (IN on) (S (VP (VBG improving) (NP (NP (DT the) (JJ topological) (NNS properties)) (PP (IN of) (NP (DT these) (NNS networks))))))))) (. .))
+(S (NP (JJ Other) (ADJP (JJR higher) (JJ dimensional)) (NNS networks)) (VP (MD can) (VP (VB be) (VP (VBN composed) (PP (IN over) (NP (DT these) (NNS graphs))) (, ,) (SBAR (IN as) (S (VP (VBN illustrated) (PP (IN in) (NP (DT this) (NN research))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT some) (JJ practical) (NNS issues)) (PP (JJ such) (IN as) (NP (NP (NN implementability)) (CC and) (NP (JJ preliminary) (NN performance) (NNS evaluations))))) (VP (VBP have) (VP (VBN been) (VP (VBN addressed)))) (. .))

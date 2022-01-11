@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN radio) (NN network) (NN model)) (VP (VBZ is) (NP (NP (DT a) (JJ well-studied) (NN model)) (PP (IN of) (NP (NN wireless) (, ,) (JJ multi-hop) (NNS networks))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NN radio) (NNS networks)) (VP (VBP make) (NP (DT the) (JJ strong) (NN assumption) (SBAR (IN that) (S (NP (NNS messages)) (VP (VBP are) (VP (VBN delivered) (ADVP (RB deterministically)))))))) (. .))
+(S (NP (DT The) (ADJP (RB recently) (VBN introduced)) (NN noisy) (NN radio) (NN network) (NN model)) (VP (VB relaxes) (NP (DT this) (NN assumption)) (PP (IN by) (S (VP (VBG dropping) (NP (NNS messages)) (ADVP (RB independently)) (PP (IN at) (NP (NN random))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP quantify) (NP (NP (DT the) (JJ relative) (JJ computational) (NN power)) (PP (IN of) (NP (NP (JJ noisy) (NN radio) (NNS networks)) (CC and) (NP (JJ classic) (NN radio) (NNS networks)))))) (. .))

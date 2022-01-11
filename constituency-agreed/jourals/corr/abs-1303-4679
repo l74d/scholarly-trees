@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN clustering) (NN algorithm)) (VP (VBP are) (VP (VBN considered) (PP (IN as) (NP (NP (DT a) (NN kind)) (PP (IN of) (NP (NP (JJ key) (NN technique)) (VP (VBN used) (S (VP (TO to) (VP (VB reduce) (NP (NN energy) (NN consumption)))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB logically)) (VP (VBP divide) (NP (DT the) (NN network)) (PP (IN into) (NP (CD two) (NNS parts))) (, ,) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (DT the) (JJ residual) (NN energy)) (PP (IN of) (NP (NNS nodes)))))))) (. .))

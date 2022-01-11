@@ -1,0 +1,2 @@
+(S (NP (NP (NN Image) (NN blur)) (CC and) (NP (NN image) (NN noise))) (VP (VBP are) (NP (NP (JJ common) (NNS distortions)) (PP (IN during) (NP (NN image) (NN acquisition))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP examine) (NP (DT the) (NNP DNN) (NN classifier) (NN performance)) (PP (IN under) (NP (NP (CD four) (NNS types)) (PP (IN of) (NP (NNS distortions)))))) (. .))

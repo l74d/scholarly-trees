@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Successful) (NN training)) (PP (IN of) (NP (JJ convolutional) (JJ neural) (NNS networks)))) (VP (VBZ is) (ADVP (RB often)) (VP (VBN associated) (PP (IN with) (NP (NP (ADJP (RB sufficiently) (JJ deep)) (NNS architectures)) (VP (VBN composed) (PP (IN of) (NP (NP (JJ high) (NNS amounts)) (PP (IN of) (NP (NNS features)))))))))) (. .))

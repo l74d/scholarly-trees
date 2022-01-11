@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NNP Pascal) (NN triangle)))) (PP (VBN based) (PP (IN on) (NP (NP (JJ binomial) (NNS coefficients)) (PP (IN of) (NP (JJ finite) (NNS words))))))) (. .))
+(S (NP (DT These) (NNS coefficients)) (VP (VBP count) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS times)) (SBAR (S (NP (DT a) (NN word)) (VP (VBZ appears) (PP (IN as) (NP (NP (DT a) (NN subsequence)) (PP (IN of) (NP (DT another) (JJ finite) (NN word)))))))))))) (. .))

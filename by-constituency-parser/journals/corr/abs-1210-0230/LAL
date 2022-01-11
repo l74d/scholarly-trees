@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN network) (NN congestion) (NN game)) (PP (IN with) (NP (NP (JJ atomic) (NNS players)) (, ,) (NP (JJ asymmetric) (NNS strategies)) (, ,) (CC and) (NP (NP (DT the) (JJ maximum) (NN latency)) (PP (IN among) (NP (DT all) (NNS players))))))) (PP (IN as) (NP (JJ social) (NN cost)))) (. .))
+(S (NP (DT This) (JJ important) (JJ social) (NN cost) (NN function)) (VP (VBZ is) (ADJP (ADJP (ADVP (RB much) (JJR less)) (JJ understood)) (PP (IN than) (NP (DT the) (JJ average) (NN latency))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NN anarchy)))) (VP (VBZ is) (NP (ADVP (IN at) (JJS most)) (NP (CD two))) (, ,) (SBAR (WHADVP (WRB when)) (S (S (NP (DT the) (NN network)) (VP (VBZ is) (NP (DT a) (NN ring)))) (CC and) (S (NP (DT the) (NN link) (NNS latencies)) (VP (VBP are) (ADJP (JJ linear)))))))))) (. .))
+(S (NP (PRP$ Our) (NN bound)) (VP (VBZ is) (ADJP (JJ tight))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ sharp) (NN bound)) (PP (IN for) (NP (DT the) (JJ maximum) (NN latency) (NN objective))))) (. .))

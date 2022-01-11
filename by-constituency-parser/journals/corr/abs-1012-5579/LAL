@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBD was) (ADVP (RB also)) (VP (VBN motivated) (PP (IN by) (NP (NP (NP (DT the) (NN add) (CC and) (JJ double) (NN point) (NN operation)) (NP (NNP E=kG))) (PP (IN in) (NP (DT the) (JJ elliptic) (NN curve) (NN cryptosystem))))))) (. .))
+(S (NP (NP (DT The) (JJ hard) (NN mathematical) (NN problem)) (VP (VBG surrounding) (NP (DT this) (ADJP (RB newly) (VBN designed)) (JJ asymmetric) (NN cryptosystem)))) (VP (VBZ is) (NP (NP (DT the) (JJ NP-complete) (NN problem)) (VP (VBN known) (PP (IN as) (NP (DT the) (NN subset) (NN sum) (NN problem)))))) (. .))

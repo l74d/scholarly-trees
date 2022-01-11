@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN vertex)) (VP (VBZ is) (VP (VBN equipped) (PP (IN with) (NP (NP (NNS scores)) (PP (IN of) (NP (NN adultness) (CC and) (NN decentness))))))) (. .))
+(S (NP (NP (DT The) (NNS scores)) (VP (VBN obtained))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB classify) (NP (NNS images)) (PP (IN by) (S (VP (VBG choosing) (NP (DT an) (JJ appropriate) (NN threshold)))))))))) (. .))

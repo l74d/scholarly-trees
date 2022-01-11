@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NN transformation)) (VP (VBZ improves) (NP (NP (DT the) (NN accuracy)) (PP (IN on) (NP (JJ adversarial) (NNS images)))) (PP (IN at) (NP (NP (DT the) (NN expense)) (PP (IN of) (NP (NP (DT the) (NN accuracy)) (PP (IN on) (NP (JJ clean) (NNS images)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (NP (NN softmax)) (VP (VBN induced) (PP (IN by) (NP (JJ stochastic) (NNS transformations)))))))) (. .))

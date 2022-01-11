@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ fundamental) (NN task)) (PP (IN in) (NP (JJ numerical) (NN computation)))) (VP (VBZ is) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (JJ large) (JJ linear) (NNS systems))))) (. .))
+(S (NP (NP (DT The) (NNS estimates)) (VP (VBN obtained) (PP (IN in) (NP (DT this) (NN case))))) (VP (VBP are) (PP (IN of) (NP (JJ little) (NN value))) (SBAR (IN unless) (S (NP (JJ further) (NN information)) (VP (MD can) (VP (VB be) (VP (VBN provided) (PP (IN about) (NP (DT the) (JJ numerical) (NN error))))))))) (. .))

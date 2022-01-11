@@ -1,0 +1,2 @@
+(S (S (VP (VBG Benefiting) (PP (IN from) (NP (NP (DT the) (JJ explicit) (NN representation)) (PP (IN of) (NP (NNS objects))))))) (, ,) (NP (DT the) (NN policy)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB be) (VP (VBN endowed) (PP (IN with) (NP (NP (JJR more) (NN generalization) (NN power)) (PP (IN over) (NP (JJ new) (NNS objects) (CC and) (NNS environments))))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (NP (NP (JJ impressive) (NN robustness) (CC and) (NN generalization)) (PP (IN of) (NP (PRP$ our) (NN system))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP-TMP (NP (DT The) (NN complexity)) (PP (IN of) (NP (-LRB- -LRB-) (JJ unbounded) (HYPH -) (NN arity) (-RRB- -RRB-)))) (NP (NP (NNP Max) (HYPH -) (NNP CSPs)) (PP (IN under) (NP (JJ structural) (NNS restrictions)))) (VP (VBZ is) (ADJP (RB poorly) (VBN understood))) (. .))

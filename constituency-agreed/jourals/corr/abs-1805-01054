@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP develop) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS techniques)) (PP (IN for) (NP (NP (NN text) (NN preprocessing)) (CC and) (NP (NN feature) (NN selection)))))))) (CC and) (VP (VB compare) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (JJ different) (NN classification) (NNS models)))))) (. .))

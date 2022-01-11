@@ -1,0 +1,1 @@
+(S (S (VP (VBG Extending) (NP (DT the) (NNP MNIST) (NN dataset)) (PP (IN by) (NP (NNS translations))))) (, ,) (NP (PRP$ our) (JJ sparse) (NNP CNN)) (VP (VBZ gets) (NP (NP (DT a) (NN test) (NN error)) (PP (IN of) (NP (CD 0.31) (NN %))))) (. .))

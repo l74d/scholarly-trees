@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP use) (NP (JJ variational) (NNS methods)) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (JJ stochastic) (NN distribution)) (S (VP (VBG using) (NP (NP (JJ multi-modal) (NNS mixtures)) (PP (IN of) (NP (JJ factorized) (NNS distributions)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN thesis))) (NP (PRP I)) (VP (VBP develop) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS techniques)))) (S (VP (TO to) (VP (VP (VB train)) (, ,) (VP (VB evaluate)) (, ,) (CC and) (VP (NP (NN sample)) (PP (IN from) (NP (ADJP (JJ intractable) (CC and) (JJ high)) (ADJP (JJ dimensional) (JJ probabilistic)) (NNS models)))))))) (. .))
+(S (NP (NNP Abstract)) (VP (VBZ exceeds) (NP (NP (NN arXiv) (NN space) (NNS limitations)) (: --) (VP (VB see) (NP (NN PDF))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN related) (PP (TO to) (NP (NP (VB type) (NNS systems)) (VP (VBG originating) (PP (IN from) (NP (DT the) (NNP Automath) (NN project)))))))) (. .))
+(S (NP (NP (DT Some) (NNS properties))) (VP (VBP are) (VP (VBN shown) (PP (VBG including) (NP (NP (NN confluence)) (, ,) (NP (JJ subject) (NN reduction)) (, ,) (NP (NP (NN uniqueness)) (PP (IN of) (NP (NNS types)))) (, ,) (NP (JJ strong) (NN normalization)) (, ,) (CC and) (NP (NN consistency)))))) (. .))

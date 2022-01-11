@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NNS contributions)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBP are) (ADJP (JJ two-fold))) (. .))
+(S (NP (DT All) (NNS results)) (VP (VBP are) (VP (VBN demonstrated) (PP (IN on) (NP (CD two) (ADJP (RB publicly) (JJ available)) (NNS datasets))))) (. .))

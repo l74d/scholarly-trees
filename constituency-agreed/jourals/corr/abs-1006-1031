@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ occurs) (PP (IN in) (NP (NP (DT the) (NN radiotherapy) (NN treatment)) (PP (IN of) (NP (NN cancer)))))) (. .))
+(S (NP (DT The) (NNS leaves) (NNS positions)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN by) (NP (NP (NNS segments)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (NP (NP (JJ binary) (NNS matrices)) (PP (IN with) (NP (DT the) (JJ consecutive) (NNS ones) (NN property)))))))))))) (. .))
+(S (S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN carried) (PRT (RP out)) (PP (IN on) (NP (JJ different) (NN size) (NNS instances)))))) (CC and) (S (NP (DT the) (NNS results)) (VP (VBP are) (VP (VBN reported)))) (. .))

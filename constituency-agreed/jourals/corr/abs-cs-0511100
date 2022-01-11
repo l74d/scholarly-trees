@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT these) (NNS ensembles))) (NP (DT the) (NN density) (NN evolution) (NNS equations)) (VP (MD can) (VP (VB be) (VP (VBN written) (ADVP (RB compactly))))) (. .))
+(S (ADVP (RB Surprisingly)) (, ,) (NP (DT the) (NN threshold)) (VP (VBZ is) (RB not) (NP (NP (DT a) (JJ monotonic) (NN function)) (PP (IN of) (NP (DT the) (NN alphabet) (NN size))))) (. .))

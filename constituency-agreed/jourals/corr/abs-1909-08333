@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG accelerating) (NP (NP (DT the) (JJ numerical) (NN simulation)) (PP (IN of) (NP (ADJP (NN time) (JJ dependent)) (NNS problems)))) (PP (IN by) (NP (NN time) (NN domain) (NN decomposition)))))))) (. .))

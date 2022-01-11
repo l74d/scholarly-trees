@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP bring) (NP (NP (DT a) (JJ extrinsic) (NN correlation)) (PP (IN between) (NP (NP (DT the) (NN space) (NNS structures)) (PP (IN of) (NP (NP (DT each) (NNS modalities)) (PP (IN in) (NP (NN coreference) (NN resolution))))))))) (. .))
+(S (PP (IN With) (NP (DT this) (NN correlation))) (, ,) (NP (NP (DT a) (JJ semi-supervised) (NN learning) (NN model)) (PP (IN for) (NP (JJ multi-modal) (NN coreference) (NN resolution)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

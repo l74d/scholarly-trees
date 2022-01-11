@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NN number)) (PP (IN of) (NP (NP (NNS techniques)) (PP (IN for) (NP (NN image) (NN segmentation))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP illustrate) (NP (JJ promising) (NNS results)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN classification) (NN accuracy)))))) (. .))

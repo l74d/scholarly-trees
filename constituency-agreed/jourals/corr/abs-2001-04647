@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN consistency) (NN loss)) (VP (VBZ has) (VP (VBN played) (NP (DT a) (JJ key) (NN role)) (PP (IN in) (S (VP (VBG solving) (NP (NNS problems)) (PP (IN in) (NP (NP (JJ recent) (NNS studies)) (PP (IN on) (NP (JJ semi-supervised) (NN learning)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ structured) (NN consistency) (NN loss)) (S (VP (TO to) (VP (VB address) (NP (NP (DT this) (NN limitation)) (PP (IN of) (NP (JJ extant) (NNS studies)))))))) (. .))

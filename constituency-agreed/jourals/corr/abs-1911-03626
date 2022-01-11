@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT these) (JJ statistical) (NNS relations)) (VP (VBP suffer) (PP (IN from) (NP (DT the) (NN underfitting) (NN problem))) (SBAR (IN because) (S (NP (DT some) (NN music) (NNS styles)) (VP (VBP have) (NP (JJ little) (NN training) (NNS data)))))) (. .))

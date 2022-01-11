@@ -1,0 +1,3 @@
+(S (NP (NN Pufferfish)) (VP (VBZ is) (NP (NP (DT a) (JJ Bayesian) (NN privacy) (NN framework)) (PP (IN for) (S (VP (VBG designing) (CC and) (VBG analyzing) (NP (NN privacy) (NNS mechanisms))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ refines) (NP (NP (JJ differential) (NN privacy)) (, ,) (NP (NP (DT the) (JJ current) (NN gold) (NN standard)) (PP (IN in) (NP (NNS data) (NN privacy)))) (, ,)) (PP (IN by) (S (VP (VBG allowing) (NP (NP (JJ explicit) (JJ prior) (NN knowledge)) (PP (IN in) (NP (NN privacy) (NN analysis)))))))) (. .))
+(S (PP (IN Through) (NP (DT these) (NN privacy) (NNS frameworks))) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN privacy) (NNS mechanisms)))) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN in) (NP (NN literature)))))) (. .))

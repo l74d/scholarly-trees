@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (NN survey)) (PP (IN on) (NP (NP (NN brain)) (CC and) (NP (PRP$ its) (NNS operations))))) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (DT The) (JJ current) (NNS systems)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB present) (NP (JJ few) (NNS expressions) (CC and) (NNS emotions)) (PP (IN on) (NP (DT a) (JJ single) (NN device)))))))) (. .))

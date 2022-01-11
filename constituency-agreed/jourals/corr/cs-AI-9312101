@@ -1,0 +1,2 @@
+(S (NP (NP (NP (DT The) (JJ new) (NNS features)) (VP (VBN studied))) (, ,) (VP (ADVP (RB often)) (VBN required) (PP (IN in) (NP (JJ practical) (NNS applications)))) (, ,)) (VP (MD can) (VP (VB be) (VP (VBN summarized) (PP (IN in) (NP (CD three) (JJ main) (NNS points)))))) (. .))
+(S (NP (PRP$ Our) (NN calculus)) (VP (VBZ extends) (NP (NP (DT the) (JJ general) (NN technique)) (PP (IN of) (NP (NN constraint) (NNS systems))))) (. .))

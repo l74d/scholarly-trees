@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (JJ deep) (NN network)) (VP (VBZ has) (VP (VBN shown) (NP (PRP$ its) (JJ brilliant) (NN performance)) (PP (IN in) (NP (NP (JJ many) (NNS fields)) (PP (VBG including) (NP (NN feature) (NN extraction) (CC and) (NN projection))))))) (. .))
+(S (PP (IN In) (NP (NNP DSFA) (NN model))) (, ,) (NP (CD two) (JJ symmetric) (JJ deep) (NNS networks)) (VP (VBP are) (VP (VBN utilized) (PP (IN for) (S (VP (VBG projecting) (NP (NP (DT the) (NN input) (NNS data)) (PP (IN of) (NP (JJ bi-temporal) (NN imagery))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (RB Even) (WRB when)) (S (NP (NN user) (NNS traces)) (VP (VBP are) (VP (VBN anonymized))))) (, ,) (NP (JJ statistical) (NN matching)) (VP (MD can) (VP (VB be) (VP (VBN employed) (S (VP (TO to) (VP (VB infer) (NP (JJ sensitive) (NN information)))))))) (. .))

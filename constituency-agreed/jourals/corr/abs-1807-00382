@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN insight)) (VP (MD may) (VP (VB be) (VP (VBN derived) (PP (IN from) (NP (NP (NNS surveys)) (PP (IN on) (NP (NP (DT the) (NNS applications)) (PP (IN of) (NP (NN graph) (NN analysis)))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (JJS most) (NNS applications)) (VP (VBP combine) (NP (JJ multiple) (NNS features) (CC and) (NNS methods))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ non-parametric) (NN technique)) (PP (IN for) (S (VP (VBG modeling) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (NN power) (NNS amplifiers)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT The) (VBN proposed) (NN methodology)) (VP (VBZ transforms) (NP (DT the) (NN input) (NN domain)) (PP (IN into) (NP (DT an) (JJ orthogonal) (NN memory) (NN domain)))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN implementation))) (, ,) (NP (NP (DT the) (JJ computational) (NN overhead)) (PP (IN against) (NP (DT the) (JJ original) (NN U-Net)))) (VP (VBD was) (NP (QP (RB only) (DT a) (JJ few)) (JJ convolutional) (NNS layers))) (. .))

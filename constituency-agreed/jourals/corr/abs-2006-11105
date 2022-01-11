@@ -1,0 +1,3 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (DT these) (NNS metrics)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN taken) (PP (IN at) (NP (NN face) (NN value))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (DT some) (VBN published) (NNS classifiers)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (ADJP (JJ misleading))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ agnostic) (PP (IN of) (NP (DT the) (VBG underlying) (NN classifier))))) (. .))

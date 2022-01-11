@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT the) (NNP KITTI) (CC and) (NNP Argoverse) (NNS datasets))) (, ,) (NP (PRP we)) (VP (VBP outperform) (NP (DT all) (NNS baselines)) (PP (IN by) (NP (DT a) (JJ significant) (NN margin)))) (. .))

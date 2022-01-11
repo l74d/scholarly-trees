@@ -1,0 +1,3 @@
+(S (NP (NP (DT An) (JJ exciting) (NN application)) (PP (IN of) (NP (NN crowdsourcing)))) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (JJ social) (NNS networks)) (PP (IN in) (NP (JJ complex) (NN task) (NN execution))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT no) (NN mechanism)) (VP (MD can) (VP (VB satisfy) (NP (PDT all) (DT the) (JJ desirable) (NNS properties)) (ADVP (RB simultaneously))))))) (. .))
+(S (NP (DT This)) (VP (VBZ leads) (NP (PRP us)) (ADVP (RB naturally)) (S (VP (TO to) (VP (VB explore) (NP (NP (JJ approximate) (NNS versions)) (PP (IN of) (NP (DT the) (JJ critical) (NNS properties)))))))) (. .))

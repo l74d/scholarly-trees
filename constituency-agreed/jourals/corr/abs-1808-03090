@@ -1,0 +1,2 @@
+(S (NP (NN Vision)) (VP (VBZ is) (NP (NP (DT a) (JJ common) (NN source)) (PP (IN of) (NP (NP (NN inspiration)) (PP (IN for) (NP (NN poetry))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB generate) (NP (NP (NNS poems)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (ADJP (RBR more) (JJ artistic)) (PP (IN than) (NP (DT the) (NN baseline) (NNS methods))))))))))))) (. .))

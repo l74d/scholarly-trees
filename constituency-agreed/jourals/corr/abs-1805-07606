@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN question)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (NNS people)) (VP (VBP vote) (ADVP (RB strategically)) (PP (IN under) (NP (NN uncertainty)))))))) (VP (VBZ has) (VP (VBN attracted) (NP (JJ much) (NN attention)) (PP (IN in) (NP (JJ several) (NNS disciplines))))) (. .))
+(S (NP (DT The) (NN model) (NNS weights)) (VP (MD can) (VP (VB be) (VP (VBN tuned) (ADVP (RB individually)) (PP (IN for) (NP (DT each) (NN voter)))))) (. .))

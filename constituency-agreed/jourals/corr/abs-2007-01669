@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN weight) (NN vector)) (PP (IN of) (NP (DT the) (ADJP (RB locally) (JJ linear)) (NN model)))) (VP (VBZ is) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (VP (VBN generated) (PP (IN from) (NP (JJ multivariate) (JJ Gaussian) (NN process) (NNS priors))))))))) (. .))
+(S (NP (NP (DT The) (NNS hyperparameters)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS models)))) (VP (VBP are) (VP (VBN estimated) (PP (IN by) (S (VP (VBG maximizing) (NP (DT the) (JJ marginal) (NN likelihood))))))) (. .))

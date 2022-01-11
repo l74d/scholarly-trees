@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (JJ asymmetrical) (NNS networks))) (, ,) (NP (NP (JJ different) (NNS sensors)) (PP (IN with) (NP (JJ various) (NNS abilities)))) (VP (VBP are) (VP (VBN used))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBD utilized) (NP (DT an) (NN algorithm)) (S (VP (TO to) (VP (VB select) (NP (NN monitoring) (NNS sensors)))))) (. .))
+(S (NP (DT The) (NN selection)) (VP (VBZ is) (VP (VBN done) (PP (IN by) (S (VP (VBG using) (NP (NP (DT a) (JJ novel) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBN used) (PP (IN by) (NP (JJ simulated) (NN annealing)))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Subsequently)) (NP (PRP we)) (VP (VBD used) (NP (DT this) (JJ pre-trained) (NN network)) (PP (IN as) (NP (NN feature) (NN extractor))) (PP (IN for) (NP (NP (DT the) (NNS nodules)) (PP (IN in) (NP (PRP$ our) (NN dataset)))))) (. .))

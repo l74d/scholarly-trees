@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN search) (NN query)) (VP (VBZ consists) (PP (IN of) (NP (JJ several) (NNS words)))) (. .))
+(S (NP (DT The) (NN search) (NN result)) (VP (VBZ is) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (NP (NNS documents)) (VP (VBG containing) (NP (DT these) (NNS words))))))) (. .))

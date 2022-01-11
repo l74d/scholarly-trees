@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB have) (NP (NP (NNS sets)) (PP (IN of) (NP (ADJP (ADJP (JJ different)) (CC but) (ADJP (RB statistically) (JJ similar))) (NNS images)))))))) (. .))
+(S (NP (DT The) (NN dataset)) (VP (VBZ is) (VP (VBN made) (S (ADJP (JJ available))) (PP (IN at) (NP (NN www.fips.fi/photographic_dataset.php))))) (. .))

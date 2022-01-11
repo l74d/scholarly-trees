@@ -1,0 +1,3 @@
+(S (NP (NNP Game) (NN theory)) (VP (VBZ has) (NP (NP (JJ many) (NNS limitations)) (ADJP (VBP implicit) (PP (IN in) (NP (PRP$ its) (NN application)))))) (. .))
+(S (PP (IN By) (S (VP (VBG utilizing) (NP (NN multiagent) (NN modeling))))) (, ,) (NP (NP (PRP it))) (VP (VBZ is) (ADJP (JJ possible)) (S (VP (TO to) (VP (VB solve) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ unsolvable)) (S (VP (VBG using) (NP (JJ traditional) (NN game) (NN theory)))))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NN reinforcement) (NN learning)) (VP (VBZ is) (VP (VBN applied) (PP (TO to) (NP (JJ neural) (NNS networks))) (S (VP (TO to) (VP (VB create) (NP (JJ intelligent) (NNS agents))))))))

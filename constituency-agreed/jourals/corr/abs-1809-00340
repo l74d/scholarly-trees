@@ -1,0 +1,1 @@
+(S (NP (NP (NN Image) (NN classification)) (VP (VBG using) (NP (JJ deep) (NN learning)))) (VP (MD can) (VP (VB help) (S (VP (VB speed) (PRT (RP up)) (NP (DT this) (NN process)) (PP (IN by) (S (VP (VBG removing) (NP (NP (DT the) (JJ manual) (NN task)) (PP (IN of) (S (VP (VBG classifying) (NP (DT each) (NN image))))))))))))) (. .))

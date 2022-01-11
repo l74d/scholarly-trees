@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ dual) (NNS problems)) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (JJ same) (NNS solutions)) (PP (IN as) (NP (DT the) (JJ primal) (NNS ones))))))))) (. .))
+(S (NP (PDT All) (DT these) (NN allocation) (NNS strategies)) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ robust))))))) (. .))

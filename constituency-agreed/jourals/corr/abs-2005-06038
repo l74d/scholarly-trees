@@ -1,0 +1,1 @@
+(SQ (MD Can) (NP (PRP we)) (VP (VB learn) (NP (JJ robust) (JJ multi-view) (NNS embeddings)) (PP (IN without) (NP (NP (DT any) (NN knowledge)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS views)) (VP (VBP are) (VP (VBN acquired))))))))) (. ?))

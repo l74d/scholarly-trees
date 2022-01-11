@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (CD two) (NNS settings))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT all) (NNS processors)) (CC and) (NP (DT the) (NN coordinator))) (VP (MD may) (ADVP (RB privately)) (VP (VB randomize))) (. .))

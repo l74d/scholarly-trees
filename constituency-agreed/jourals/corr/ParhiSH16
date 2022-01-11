@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ enables) (NP (NP (JJR cheaper) (NN registration) (CC and) (NN lookup)) (VP (VBN required) (PP (IN for) (NP (DT the) (NN protocol)))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT an) (NN evaluation)) (PP (IN of) (NP (NP (DT the) (NN performance) (CC and) (NN scalability)) (PP (IN of) (NP (DT both) (NNS protocols))))))) (. .))

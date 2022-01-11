@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN algorithm)) (PP (IN on) (NP (DT the) (NNP Yelp) (NN dataset))))) (CC and) (S (NP (DT the) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ achieves) (NP (DT a) (JJR better) (NN accuracy))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN termination) (NN condition)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN trained) (S (VP (TO to) (VP (VB optimize) (NP (DT a) (NN control) (NN objective)))))))) (: :) (S (NP (DT an) (NN option)) (VP (MD ought) (S (VP (TO to) (VP (VB terminate) (SBAR (IN if) (S (NP (DT another)) (VP (VBZ has) (NP (JJR better) (NN value)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN network) (NN information) (NN system)) (VP (VBZ is) (NP (NP (DT a) (JJ military) (NN information) (NN network) (NN system)) (PP (IN with) (NP (NN evolution) (NNS characteristics))))) (. .))
+(S (NP (DT The) (JJ evolutionary) (NN simulation)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VP (VB predict) (NP (NP (DT the) (JJ optimal) (NN scheme)) (PP (IN of) (NP (DT the) (NN network) (NN information) (NN architecture))))) (CC and) (VP (VB provide) (NP (NP (DT a) (NN reference)) (PP (IN for) (NP (NN system) (NN construction)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN Among) (NP (NNS others))) (, ,) (NP (DT this)) (VP (VBZ includes) (NP (NP (NN probability) (NNS distributions)) (VP (VBN generated) (PP (IN by) (NP (NP (JJ hidden) (NNP Markov) (NNS models)) (CC and) (NP (JJ probabilistic) (NN automata))))))) (. .))

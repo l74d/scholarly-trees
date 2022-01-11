@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ autoregressive) (NN module) (NN training)) (VP (VBZ is) (VP (VBN affected) (PP (IN by) (NP (NP (DT the) (NN exposure) (NN bias)) (, ,) (CC or) (NP (NP (DT the) (NN mismatch)) (PP (IN between) (NP (NP (DT the) (JJ different) (NNS distributions)) (PP (IN of) (NP (ADJP (JJ real) (CC and) (VBN predicted)) (NNS data)))))))))) (. .))

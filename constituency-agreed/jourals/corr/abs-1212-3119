@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG separating) (NP (JJ audio) (NNS sources)) (PP (IN from) (NP (DT a) (JJ single) (JJ linear) (NN mixture)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN convex) (NN formulation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ relies) (PP (IN on) (NP (DT a) (JJ nuclear) (NN norm) (NN penalty))) (S (VP (TO to) (VP (VB induce) (NP (JJ low) (NN rank)) (PP (IN for) (NP (DT the) (NNS contributions))))))))))) (. .))

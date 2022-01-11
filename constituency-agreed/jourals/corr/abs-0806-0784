@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (DT the) (NN interface)))) (VP (MD will) (RB not) (VP (VB be) (VP (VBN restricted) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN support)) (PP (IN of) (NP (NP (DT the) (NNS interactions)) (PP (IN between) (NP (NP (DT the) (NN ground) (NN operator)) (CC and) (NP (NNS vehicles))))))))))))) (. .))
+(S (NP (NN Interface)) (VP (MD must) (VP (VB take) (NP (NN part)) (PP (IN in) (NP (DT the) (NN interaction) (NN management))) (ADVP (RB too)))) (. .))

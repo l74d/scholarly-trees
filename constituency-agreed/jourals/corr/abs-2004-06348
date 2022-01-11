@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NN summation) (NN evaluation)) (PP (IN of) (NP (NNS secrets))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (DT a) (JJ few) (JJ numerical) (NNS examples)) (SBAR (WHNP (WDT that)) (S (VP (VBP demonstrate) (NP (PRP$ their) (NN effectiveness)))))) (VP (VBP are) (VP (VBN provided))) (. .))

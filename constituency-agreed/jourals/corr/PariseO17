@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN setting)) (VP (VBZ is) (VP (VBN motivated) (PP (IN by) (NP (CD two) (NNS applications))))) (. .))
+(S (S (VP (TO To) (VP (VB derive) (NP (DT this) (NN result))))) (NP (PRP we)) (VP (VBP assume) (NP (NP (JJ strong) (NN monotonicity)) (PP (IN of) (NP (NP (DT the) (NN mapping)) (VP (VBN associated) (PP (IN with) (NP (DT the) (NN game)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS dynamics)) (PP (IN of) (NP (DT the) (NNS agents)))) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT a) (JJ Lagrangian) (NN function)) (PP (IN of) (NP (DT that) (JJ joint) (NN distribution))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB investigate) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (`` ``) (NN semicoordinate) ('' '') (JJ variable) (NNS transformations))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Environmental) (NNS data)) (PP (IN from) (NP (NN sensor) (NNS nodes)))) (VP (VBP are) (VP (VBN sent) (PP (IN through) (NP (NNP ZigBee) (NN communication) (NN protocol))))) (. .))

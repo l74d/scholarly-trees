@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (DT these) (NNS problems)) (PP (IN within) (NP (NP (DT a) (JJ unified) (JJ Bayesian) (NN framework)) (PP (IN for) (NP (NP (JJ joint) (JJ multi-object) (NN tracking)) (CC and) (NP (NN sensor) (NN registration))))))) (. .))
+(S (NP (NNS Results)) (VP (VBP are) (VP (VBN shown) (PP (IN on) (NP (JJ simulated) (NNS data))))) (. .))

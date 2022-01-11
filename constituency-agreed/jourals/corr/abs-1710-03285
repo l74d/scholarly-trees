@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (PRP we)) (VP (MD will) (VP (VB prove))))) (, ,) (NP (NNP Poisson) (NNP DNs)) (VP (VBP do) (RB not) (VP (VB admit) (NP (JJ small) (NNS coresets)))) (. .))
+(NP (DT The) (NNS results))

@@ -1,0 +1,2 @@
+(S (NP (NNP Haken)) (VP (VBD proved) (SBAR (IN that) (S (NP (NP (DT every) (NN resolution) (NN refutation)) (PP (IN of) (NP (DT the) (NN pigeonhole) (NN formula)))) (VP (VBZ has) (NP (UCP (ADVP (IN at) (JJS least)) (JJ exponential)) (NN size)))))) (. .))
+(S (NP (NNP Groote) (CC and) (NNP Zantema)) (VP (VBD proved) (SBAR (IN that) (S (NP (NP (DT a) (JJ particular) (NNP OBDD) (NN computation)) (PP (IN of) (NP (DT the) (NN pigeonhole) (NN formula)))) (VP (VBZ has) (NP (DT an) (JJ exponential) (NN size)))))) (. .))

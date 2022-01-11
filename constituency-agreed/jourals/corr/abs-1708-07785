@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG identifying) (NP (JJ individual) (NNS cetaceans)) (PP (IN from) (NP (NP (NNS images)) (VP (VBG showing) (NP (NP (DT the) (VBG trailing) (NN edge)) (PP (IN of) (NP (PRP$ their) (NNS fins)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP explore) (NP (NP (CD two) (VBG ranking) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP use) (NP (DT this) (NN representation))))))) (. .))
+(S (NP (NN Feature) (NNS keypoints)) (VP (VBP are) (VP (VBN defined) (PP (IN at) (NP (NP (DT the) (JJ local) (NN extrema)) (PP (IN of) (NP (DT the) (NN representation))))))) (. .))

@@ -1,0 +1,1 @@
+(S (CC But) (NP (NP (DT a) (ADJP (RB rather) (JJ high)) (NN variance)) (VP (VBN introduced) (PP (IN by) (NP (NP (DT the) (JJ stochastic) (NN gradient)) (PP (IN in) (NP (DT each) (NN step))))))) (VP (MD may) (VP (VB slow) (PRT (RP down)) (NP (DT the) (NN convergence)))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP improve) (NP (NP (DT the) (NN performance)) (PP (IN on) (NP (NNP Twitter) (NNS images)))) (PP (IN by) (S (VP (VBG inducing) (NP (NN domain) (NN transfer)) (PP (IN with) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (ADJP (RB manually) (VBN labeled)) (NNP Twitter) (NNS images))))))))) (. .))

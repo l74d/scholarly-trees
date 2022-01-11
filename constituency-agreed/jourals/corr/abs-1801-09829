@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ semi-supervised) (NN clustering) (NN problem))) (, ,) (NP (PRP$ our) (NN method)) (ADVP (RB only)) (VP (VBZ needs) (NP (JJ several) (NNS labels)) (S (VP (TO to) (VP (VB work) (ADVP (RB perfectly)) (PP (IN in) (NP (JJ classic) (NNS datasets))))))) (. .))

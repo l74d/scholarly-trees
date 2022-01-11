@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ invariant) (NN theory)))) (PP (IN in) (NP (NP (JJ symbolic) (NN computing)) (PP (IN of) (NP (JJ classical) (NN geometry)))))))) (, ,) (VP (VBD advanced) (SBAR (S (NP (NNS invariants)) (VP (VBP are) (VP (VBN introduced) (PP (IN via) (NP (NNP Clifford) (NN product)))))))) (. .))
+(S (NP (DT These) (NNS results)) (ADVP (RB beautifully)) (VP (VBP extend) (NP (NP (DT the) (NN straightening)) (PP (IN of) (NP (NNP Young) (NN tableaux)))) (PP (IN to) (NP (JJ advanced) (NNS invariants)))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG modeling) (NP (NP (JJ complex) (NNS activities)) (SBAR (WHNP (WDT that)) (S (VP (VBP occur) (PP (IN in) (NP (DT a) (JJ typical) (NN household)))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (ADVP (RB nowadays)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NN database)) (VP (VBG providing) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NN information))))))) (. .))

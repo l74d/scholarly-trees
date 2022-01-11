@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG existing) (NN approach)) (VP (VBZ requires) (NP (JJ huge) (NN computation) (NN resource)) (PP (IN for) (S (VP (VBG analysing) (NP (NP (JJ large) (NN number)) (PP (IN of) (NP (NNS tweets)))))))) (. .))
+(S (NP (PRP We)) (VP (VBD performed) (NP (PRP$ our) (NNS experiments)) (S (VP (VBG using) (NP (QP (CD 1.6) (CD million)) (NNS tweets))))) (. .))

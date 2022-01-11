@@ -1,0 +1,2 @@
+(S (NP (NP (NN Information)) (PP (IN about) (NP (NP (DT the) (NN connection)) (PP (IN between) (NP (NP (NNS users)) (PP (IN on) (NP (DT the) (NNP OSN)))))))) (VP (VBZ is) (ADVP (RB often)) (ADJP (RB very) (JJ scarce))) (. .))
+(S (NP (NP (NN Accuracy)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBD was) (VP (VBN verified) (PP (IN on) (NP (NP (DT the) (NN example)) (PP (IN of) (S (VP (VBG determining) (NP (NP (DT a) (JJR better) (NN friend)) (PP (IN in) (NP (DT the) (VBN offered) (NN pair))))))))))) (. .))

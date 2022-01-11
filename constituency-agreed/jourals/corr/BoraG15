@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN computer) (NN vision))) (, ,) (NP (NN image) (NN segmentation)) (VP (VBZ is) (ADVP (RB always)) (VP (VBN selected) (PP (IN as) (NP (DT a) (JJ major) (NN research) (NN topic))) (PP (IN by) (NP (NNS researchers))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VP (VBP give) (NP (NN importance)) (PP (IN on) (NP (NN color) (NN space)))) (CC and) (VP (VB choose) (NP (NN lab)) (PP (IN for) (NP (DT this) (NN task))))) (. .))

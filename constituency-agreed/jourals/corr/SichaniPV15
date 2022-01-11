@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS interconnections)) (PP (IN between) (NP (NP (DT the) (NN plant)) (CC and) (NP (DT the) (NN controller))))) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (VP (VBN established) (PP (IN through) (NP (NN quantum) (JJ bosonic) (NNS fields))))))))) (. .))
+(S (NP (NP (DT The) (NN class)) (PP (IN of) (NP (VBG stabilizing) (NN quantum) (NNS controllers)))) (VP (VBZ is) (VP (VBN parameterized) (PP (IN in) (NP (DT the) (NN frequency) (NN domain))))) (. .))

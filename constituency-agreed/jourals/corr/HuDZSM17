@@ -1,0 +1,3 @@
+(S (NP (NP (NN Information)) (VP (VBN derived) (PP (IN from) (NP (JJ local) (NN image) (NNS patches))))) (VP (VBZ is) (ADJP (JJ necessary) (S (VP (TO to) (VP (VB describe) (NP (NP (DT the) (JJ detailed) (NN shape)) (PP (IN of) (NP (JJ individual) (NNS objects))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN information)) (VP (VP (VBZ is) (ADJP (JJ ambiguous))) (CC and) (VP (MD can) (VP (VB result) (PP (IN in) (NP (JJ noisy) (NNS labels)))))) (. .))
+(S (NP (PRP We)) (VP (VBP advocate) (SBAR (IN that) (S (NP (NP (JJ holistic) (NN inference)) (PP (IN of) (NP (NN image) (NNS concepts)))) (VP (VBZ provides) (NP (NP (JJ valuable) (NN information)) (PP (IN for) (NP (JJ detailed) (NN pixel) (NN labeling)))))))) (. .))

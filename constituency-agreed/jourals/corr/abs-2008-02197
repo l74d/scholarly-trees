@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ systematic) (NN approach)) (PP (IN of) (S (VP (VBG leveraging) (NP (JJ adversarial) (NNS examples)) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (JJ popular) (NN ranking) (NNS models)))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ linear) (NN inverse) (NNS problems))) (, ,) (NP (DT the) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB recover) (NP (DT a) (NN target) (NN signal)) (PP (IN from) (NP (ADJP (JJ undersampled) (, ,) (JJ incomplete) (CC or) (JJ noisy)) (JJ linear) (NNS measurements))))))) (. .))

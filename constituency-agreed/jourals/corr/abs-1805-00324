@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD tested) (NP (PRP$ our) (NN model)) (PP (IN on) (NP (NP (CD two) (JJ standard) (NNS datasets)) (VP (VBN annotated) (PP (IN by) (NP (NP (NNS identities)) (CC and) (NP (NN face) (NNS attributes)))))))) (. .))

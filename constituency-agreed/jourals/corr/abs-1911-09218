@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ main) (NN challenge)) (VP (VBZ is) (NP (NN scalability))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN memory) (NN cost)) (PP (IN of) (NP (DT the) (NN approach)))) (VP (VBZ is) (ADJP (ADJP (RB significantly) (JJR smaller)) (PP (IN than) (NP (NP (DT that)) (PP (IN of) (NP (JJ random) (NN projection)))))))))) (. .))

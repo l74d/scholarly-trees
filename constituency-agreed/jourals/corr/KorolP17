@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (ADVP (RB here)) (NP (NP (DT the) (NN interaction)) (PP (IN between) (NP (NP (DT a) (NN user)) (CC and) (NP (DT the) (NNP SND) (NNS databases)))))) (. .))
+(S (NP (DT A) (JJ new) (NN template) (NN engine)) (VP (VBZ is) (VP (VBN created))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (VBG existing) (NNS methods)) (VP (VBP have) (VP (VBN explored) (NP (DT these) (JJ key) (NNS properties)))))) (, ,) (NP (NP (DT the) (NN prediction) (NN process)) (PP (IN of) (NP (DT these) (NNS methods)))) (VP (VBZ is) (ADJP (JJ autoregressive))) (. .))
+(S (NP (DT This)) (VP (VBZ means) (SBAR (S (NP (PRP they)) (VP (MD can) (ADVP (RB only)) (VP (VB predict) (NP (JJ future) (NNS locations)) (ADVP (RB sequentially))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN concept)) (VP (VBZ is) (NP (NP (DT an) (NN abstraction)) (PP (IN for) (NP (NP (NNS processes)) (VP (VP (VBN based) (PP (IN on) (NP (DT a) (JJ main) (NN execution) (NN thread)))) (CC but) (VP (VBG allowing) (S (VP (TO to) (VP (VB delay) (NP (DT some) (NNS computations))))))))))) (. .))

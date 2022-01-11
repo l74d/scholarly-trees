@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS links)) (PP (IN between) (NP (DT the) (NNS nodes)))) (VP (VBP are) (VP (VBN modeled) (PP (IN as) (NP (JJ binary) (NN erasure) (NNS channels))))) (. .))
+(S (NP (DT The) (NN relay)) (VP (VBZ performs) (NP (NN network) (NN coding))) (. .))

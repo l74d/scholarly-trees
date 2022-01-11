@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN model) (NN checking))) (, ,) (NP (DT a) (NN counterexample)) (VP (VBZ is) (VP (VBN considered) (PP (IN as) (NP (NP (DT a) (JJ valuable) (NN tool)) (PP (IN for) (NP (NN debugging))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (VBG understanding) (NP (DT the) (NN counterexample)))) (VP (VBZ is) (RB not) (NP (DT an) (JJ easy) (NN task))) (. .))

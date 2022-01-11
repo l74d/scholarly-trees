@@ -1,0 +1,2 @@
+(S (NP (NNS Humans)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB create) (NP (NP (JJ rich) (NNS representations)) (PP (IN of) (NP (PRP$ their) (JJ external) (NN reality))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (DT the) (NNP MHVAE)) (PP (IN on) (NP (JJ standard) (JJ multimodal) (NNS datasets)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Activity) (NN detection)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN problem)) (PP (IN in) (NP (NN computer) (NN vision))))) (. .))
+(S (PP (IN On) (NP (NP (DT each) (NN level)) (PP (IN of) (NP (DT the) (JJ temporal) (NN feature) (NN pyramid))))) (, ,) (NP (NP (DT an) (NN activity) (NN proposal) (NN detector)) (CC and) (NP (DT an) (NN activity) (NN classifier))) (VP (VBP are) (VP (VBN learned) (S (VP (TO to) (VP (VB detect) (NP (NP (NNS activities)) (PP (IN of) (NP (JJ specific) (JJ temporal) (NNS scales))))))))) (. .))

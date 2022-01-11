@@ -1,0 +1,2 @@
+(S (NP (NN Information) (NN diffusion) (NN prediction)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN task)) (PP (IN for) (S (VP (VBG understanding) (NP (DT the) (NN information) (NN propagation) (NN process))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN diffusion) (NNS paths)) (PP (IN of) (NP (JJ different) (NNS messages)))) (ADVP (RB naturally)) (VP (VBP constitute) (NP (DT a) (JJ dynamic) (NN diffusion) (NN graph))) (. .))

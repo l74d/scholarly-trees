@@ -1,0 +1,2 @@
+(S (NP (CD Two) (NNS algorithms)) (VP (VBD were) (VP (VBN implemented) (CC and) (VBN tested))) (. .))
+(S (NP (DT The) (JJ formant) (NNS frequencies)) (VP (VBP are) (NP (NP (DT the) (JJ resonant) (NNS frequencies)) (PP (IN of) (NP (DT the) (JJ vocal) (NN tract))))) (. .))

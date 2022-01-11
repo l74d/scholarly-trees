@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (SBAR (IN if) (S (NP (DT the) (NN pre-processing)) (VP (VBZ is) (RB not) (VP (VBN completed) (ADVP (RB properly)))))) (, ,) (NP (DT the) (NNP SAT) (NN solver)) (VP (MD will) (VP (VP (VB get) (ADJP (JJ stuck))) (CC or) (VP (VB return) (NP (JJ incorrect) (NN key))))) (. .))

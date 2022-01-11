@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ stochastic) (JJ geometric) (NN approach)) (VP (VBZ is) (VP (VBN employed) (PP (IN as) (NP (NP (DT the) (NN basis)) (PP (IN for) (NP (PRP$ our) (NN analysis))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB validate) (NP (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (JJ analytical) (NN model)))) (CC and) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT the) (NNS bounds)))))))))) (. .))

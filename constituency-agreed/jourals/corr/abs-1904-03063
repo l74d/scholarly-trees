@@ -1,0 +1,1 @@
+(S (S (VP (VBG Annotating) (NP (JJ unstructured) (NNS data)) (S (VP (VBG using) (NP (NP (NN crowdsourcing)) (CC or) (NP (VBN automated) (NNS classifiers))))))) (VP (VBZ produces) (NP (JJ individual) (NNS classifications)) (PP (IN at) (NP (NP (JJ sparse) (NNS locations)) (SBAR (WHNP (WDT that)) (S (ADVP (RB typically)) (VP (VBP contain) (NP (JJ many) (NNS errors)))))))) (. .))

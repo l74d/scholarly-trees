@@ -1,0 +1,2 @@
+(S (NP (JJ Simple) (NN scaling)) (ADVP (RB inevitably)) (VP (VBZ introduces) (NP (JJ unnatural) (JJ geometric) (NNS distortions)) (PP (IN on) (NP (NP (DT the) (JJ important) (NN content)) (PP (IN of) (NP (DT the) (NN image)))))) (. .))
+(S (NP (DT The) (NN warping) (NN map)) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (NP (PRP$ its) (NNP Beltrami) (NN representation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ captures) (NP (NP (DT the) (JJ local) (JJ geometric) (NN distortion)) (PP (IN of) (NP (DT the) (NN map))))))))))) (. .))

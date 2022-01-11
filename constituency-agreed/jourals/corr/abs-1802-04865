@@ -1,0 +1,1 @@
+(S (S (NP (JJ Modern) (JJ neural) (NNS networks)) (VP (VBP are) (NP (ADJP (RB very) (JJ powerful)) (JJ predictive) (NNS models)))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ incapable) (PP (IN of) (S (VP (VBG recognizing) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ their) (NNS predictions)) (VP (MD may) (VP (VB be) (ADJP (JJ wrong)))))))))))) (. .))

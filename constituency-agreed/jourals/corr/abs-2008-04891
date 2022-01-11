@@ -1,0 +1,1 @@
+(S (NP (NNP PSM)) (VP (VBZ builds) (NP (NP (DT a) (JJ probabilistic) (NN model)) (PP (IN of) (NP (NP (DT a) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG evaluating) (CC and) (VBG generating) (NP (NN runtime) (NNS data))))))))))))) (. .))

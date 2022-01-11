@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ attentional) (NN context)) (VP (VBZ is) (VP (VBN specified) (PP (IN by) (NP (NP (DT an) (NN embedding) (NN vector)) (SBAR (WHNP (WDT which)) (S (VP (VBZ modifies) (NP (NP (DT the) (NN processing)) (PP (IN of) (NP (DT a) (JJ neural) (NN network)))) (PP (IN through) (NP (DT an) (JJ additive) (NN bias)))))))))) (. .))

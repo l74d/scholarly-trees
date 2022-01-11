@@ -1,0 +1,2 @@
+(S (NP (NNP Software) (NN project) (NN estimation)) (VP (VBZ is) (NP (NP (JJ crucial) (NN aspect)) (PP (IN in) (S (VP (VBG delivering) (NP (NN software)) (PP (PP (IN on) (NP (NN time))) (CC and) (PP (IN on) (NP (NN budget))))))))) (. .))
+(S (NP (NNP Software) (NN size)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (JJ metric)) (PP (IN in) (S (VP (VBG determining) (NP (DT the) (NN effort) (, ,) (NN cost) (, ,) (CC and) (NN productivity))))))) (. .))

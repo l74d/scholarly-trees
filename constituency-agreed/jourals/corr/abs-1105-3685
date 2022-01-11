@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP describe) (NP (NP (NP (DT the) (NNS procedures)) (VP (VBN involved) (PP (IN in) (S (VP (VBG developing) (NP (DT a) (NN benchmark))))))) (CC and) (NP (NP (NNS issues)) (VP (VBN involved))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP review) (NP (NP (DT the) (JJ different) (NN performance) (NN evaluation) (NNS measures)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN developed) (CC and) (VBN used) (PP (IN by) (NP (NP (NNS researchers)) (PP (IN in) (NP (DT the) (NN community))))))))))) (. .))

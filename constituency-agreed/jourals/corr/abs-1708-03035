@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ convolutional) (JJ neural) (NN network) (NN architecture)) (PP (IN for) (S (VP (VBG estimating) (NP (NP (JJ geospatial) (NNS functions)) (PP (JJ such) (IN as) (NP (NP (NN population) (NN density)) (, ,) (NP (NN land) (NN cover)) (, ,) (CC or) (NP (NN land) (NN use)))))))))) (. .))

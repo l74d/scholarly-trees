@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (, ,) (S (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN network) (NN packet) (NN delay) (NN variance)) (VP (VBZ is) (ADJP (JJ large))))) (, ,) (NP (DT the) (NN buffer) (NN delay)) (VP (VBZ becomes) (ADJP (JJ negligible))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (PP (IN in) (NP (DT this) (NN case))) (NP (DT the) (NN delay) (NN budget)) (VP (MD should) (VP (VB be) (VP (VBN spent) (ADVP (RB mainly)) (PP (IN on) (NP (DT the) (NN erasure) (NN code)))))) (. .))

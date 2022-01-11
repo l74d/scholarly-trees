@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN concerned) (PP (IN with) (NP (NP (DT a) (JJ binary) (NN detection) (NN problem)) (PP (IN over) (NP (DT a) (JJ non-secure) (NN network))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP perform) (NP (NNS simulations)) (S (VP (TO to) (VP (VB validate) (NP (PRP$ our) (JJ theoretical) (NNS results)))))) (. .))

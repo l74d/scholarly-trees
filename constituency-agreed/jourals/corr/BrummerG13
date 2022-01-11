@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ Bayesian) (NN analysis)) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (NP (DT the) (NN uncertainty)) (VP (VBN associated) (PP (IN with) (NP (DT the) (JJ unsupervised) (NN calibration) (NN parameter) (NNS estimates))))) (VP (VBZ is) (ADJP (RB surprisingly) (JJ small)))))) (. .))

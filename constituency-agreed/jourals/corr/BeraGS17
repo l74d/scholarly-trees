@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT a) (NNP RRT) (NN planner)) (VP (VBZ is) (RB not) (NP (DT an) (ADJP (RB asymptotically) (JJ optimal)) (NN motion) (NN planner)))))) (. .))
+(S (NP (PRP$ Our) (NN result)) (, ,) (SBAR (IN while) (S (VP (VBG being) (ADJP (JJ consistent) (PP (IN with) (NP (NP (JJ similar) (NNS results)) (SBAR (WHNP (WDT which)) (S (VP (VBP exist) (PP (IN in) (NP (DT the) (NN literature)))))))))))) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ brings) (PRT (RP out)) (NP (NP (DT an) (JJ important) (NNS characteristics)) (PP (IN of) (NP (DT a) (NNP RRT) (NN planner))))) (. .))
+(S (NP (DT A) (NN simulation) (NN result)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB support) (NP (DT the) (JJ theoretical) (NN claim))))))) (. .))

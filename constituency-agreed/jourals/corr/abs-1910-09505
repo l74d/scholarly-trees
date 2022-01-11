@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ key) (NN challenge)) (PP (IN in) (NP (JJ weak) (NN supervision)))) (VP (VBZ is) (VP (VBG estimating) (NP (NP (DT the) (JJ unknown) (NNS accuracies) (CC and) (NNS correlations)) (PP (IN of) (NP (DT these) (NNS sources)))) (PP (IN without) (S (VP (VBG using) (NP (VBN labeled) (NNS data))))))) (. .))

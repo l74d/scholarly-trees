@@ -1,0 +1,2 @@
+(S (S (NP (NNS Interpretations)) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NNS vectors)))))) (CC and) (S (NP (NNS programs)) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NNS matrices)))))) (. .))
+(S (NP (NP (DT The) (JJS least) (NN model)) (PP (IN of) (NP (DT a) (JJ definite) (NN program)))) (VP (VBZ is) (VP (VBN computed) (PP (IN by) (S (VP (VBG multiplying) (NP (NP (DT an) (NN interpretation) (NN vector)) (CC and) (NP (DT a) (NN program) (NN matrix)))))))) (. .))

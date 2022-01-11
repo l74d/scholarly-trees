@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN learner)) (VP (VBZ uses) (NP (DT a) (JJ local) (NN classifier)) (S (VP (TO to) (VP (VB make) (NP (DT a) (JJ local) (NN prediction)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP test) (NP (PRP$ our) (NN scheme)) (PP (IN by) (S (VP (VBG performing) (NP (DT an) (NN evaluation) (NN study)) (PP (IN on) (NP (JJ several) (NNS data) (NNS sets))))))) (. .))

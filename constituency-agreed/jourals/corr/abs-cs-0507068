@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VP (VBP reformulate) (CC and) (VBP generalise) (NP (DT the) (NN problem))) (, ,) (CC and) (VP (VB improve) (PP (IN on) (NP (DT this) (NN construction))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT some) (NNS directions)) (PP (IN for) (NP (JJ further) (NN research))))) (. .))

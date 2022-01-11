@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS models)) (VP (VBN obtained) (S (VP (VBG using) (NP (NNP VarNet)))))) (VP (VP (VBP are) (ADJP (JJ smooth))) (CC and) (VP (VBP do) (RB not) (VP (VB require) (NP (NN interpolation))))) (. .))

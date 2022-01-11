@@ -1,0 +1,4 @@
+(S (NP (DT Some) (JJ key) (NNS switches)) (VP (VBP use) (NP (NNS springs))) (. .))
+(S (NP (DT The) (JJ key) (NN switch)) (VP (VBZ depresses) (NP (NP (DT the) (JJ key) (NN stem)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ actuates) (NP (NP (DT the) (NN button)) (PP (IN on) (NP (DT the) (NN membrane) (NN circuit))))))))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ illustrates) (NP (NP (CD 10) (NNS inventions)) (PP (IN on) (NP (JJ different) (JJ key) (NN switch) (NN mechanism))))) (. .))
+(S (NP (DT The) (NNS inventions)) (VP (VBP are) (VP (VBN selected) (PP (IN from) (NP (NNP US) (NN patent) (NN database))))) (. .))

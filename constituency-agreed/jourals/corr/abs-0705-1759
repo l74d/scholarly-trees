@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN response) (NN surface) (NN method)) (VP (VBZ is) (VP (VBN implemented) (PP (IN by) (S (VP (VBG approximating) (NP (DT the) (JJ finite) (NN element) (NN model) (NN surface) (NN response) (NN equation)) (PP (IN by) (NP (DT a) (JJ multi-layer) (NN perceptron)))))))) (. .))

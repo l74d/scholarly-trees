@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP exploit) (NP (DT a) (JJ convolutional) (JJ neural) (NN network)) (S (VP (TO to) (VP (VP (VB detect) (NP (DT the) (NNS actors))) (CC and) (VP (VB compute) (NP (PRP$ their) (JJ initial) (NNS states))))))) (. .))

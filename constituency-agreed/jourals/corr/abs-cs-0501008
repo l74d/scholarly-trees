@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NN probability) (NNS distributions))))) (CC and) (VP (VB give) (NP (NP (DT the) (JJ full) (NN characterization)) (PP (IN of) (NP (PRP$ its) (NN distillation) (NNS properties)))))) (. .))
+(S (NP (DT This) (NN formalism)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB design) (NP (NP (DT a) (JJ rich) (NN variety)) (PP (IN of) (NP (JJ cryptographic) (NNS scenarios)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (DT this) (NN paper))))) (, ,) (NP (PRP it)) (VP (VBD focused) (PP (IN on) (NP (NP (NN malware) (NN intrusion)) (CC and) (NP (NP (JJ traditional) (NN worm)) (RRC (ADVP (RB namely)) (NP (JJ sasser) (NN worm) (NNS variants))))))) (. .))
+(S (NP (NP (DT The) (NN concept)) (PP (IN of) (NP (NN trace) (NN pattern)))) (VP (VBZ is) (VP (VBN created) (PP (IN by) (S (VP (VBG fusing) (NP (NP (NP (DT the) (NN attacker) (POS 's)) (CC and) (NP (NN victim) (POS 's))) (NN perspective))))))) (. .))

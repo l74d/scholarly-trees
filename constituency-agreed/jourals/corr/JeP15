@@ -1,0 +1,3 @@
+(S (NP (NNP Interface) (NN reflection)) (VP (VBZ is) (VP (VBN separated) (PP (IN by) (S (VP (VBG using) (NP (NP (DT a) (JJ Gaussian) (NN function)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ removes) (NP (DT a) (JJ critical) (NN thresholding) (NN problem))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN method)) (VP (VBZ does) (RB not) (VP (VB require) (NP (DT any) (NN region) (NN segmentation)))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model) (CC and) (NN method))))) (. .))

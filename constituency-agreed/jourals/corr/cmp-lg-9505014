@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN approach)) (VP (VBZ is) (VP (VBN pursued) (ADVP (RB here)))) (. .))
+(S (PP (IN Over) (NP (PDT such) (DT a) (NN structure))) (, ,) (NP (JJ compositional) (NNS rules)) (VP (VBP are) (VP (VBN provided) (PP (IN for) (S (VP (VBG obtaining) (NP (NP (DT the) (NNS presuppositions)) (PP (IN of) (NP (DT a) (JJ logical) (NN statement)))) (PP (IN from) (NP (NP (PRP$ its) (JJ atomic) (NNS subformulas)) (CC and) (NP (PRP$ their) (NNS presuppositions))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (CD Three) (NNS approaches)) (SBAR (S (VP (TO to) (VP (VB implement) (NP (JJ genetic) (NN programming)) (PP (IN on) (NP (NNP GPU) (NN hardware)))))))) (VP (VBP are) (NP (NP (NN compilation)) (, ,) (NP (NN interpretation)) (CC and) (NP (NP (JJ direct) (NN generation)) (PP (IN of) (NP (NN machine) (NN code)))))) (. .))

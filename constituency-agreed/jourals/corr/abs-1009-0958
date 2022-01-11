@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (NP (DT a) (JJ diverse) (NN set)) (PP (IN of) (NP (NN color) (NNS images)))))) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NNS methods)) (VP (VBP provide) (NP (JJ substantial) (JJ computational) (NNS gains)) (PP (IN without) (NP (NP (JJ significant) (NN loss)) (PP (IN of) (NP (NN accuracy))))))))) (. .))

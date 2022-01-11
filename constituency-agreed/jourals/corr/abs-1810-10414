@@ -1,0 +1,3 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN system)) (VP (VBZ has) (NP (DT the) (NN adaptivity) (S (VP (TO to) (VP (VB generate) (NP (NN motion)) (PP (IN for) (NP (JJ similar) (NN scooping) (NNS tasks))))))))))) (. .))
+(S (NP (JJ Detailed) (NN analysis)) (VP (VBZ is) (VP (VBN performed) (PP (VBN based) (PP (IN on) (NP (NP (NN failure) (NNS cases)) (PP (IN of) (NP (DT the) (JJ experimental) (NNS results)))))))) (. .))
+(S (NP (NP (DT Some) (NNS insights)) (PP (IN about) (NP (NP (DT the) (NNS cans) (CC and) (NNS cannots)) (PP (IN of) (NP (DT the) (NN system)))))) (VP (VBP are) (VP (VBN summarized))) (. .))

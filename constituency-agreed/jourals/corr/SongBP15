@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (PP (IN after) (NP (DT some) (NNS modifications))) (NP (DT the) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN adapted) (S (VP (TO to) (VP (VB incorporate) (NP (NP (JJ spectral) (NNS constraints)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (S (NP (DT the) (NN design)) (ADJP (RBR more) (JJ flexible))))))))))))) (. .))

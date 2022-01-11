@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ short) (NN memo)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG explaining) (NP (PRP$ our) (NN approach)) (PP (IN for) (NP (NP (DT the) (NN challenge) (NN IEEE) (HYPH -) (NN ISBI)) (PP (IN on) (NP (NML (NN Bone) (NN Texture)) (NN Characterization))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN covariance) (NNS matrices)))) (CC and) (NP (NP (NN wavelet) (NNS marginals)) (PP (IN in) (NP (DT an) (NNP SVM) (NN classifier))))))) (. .))

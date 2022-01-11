@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (JJ important) (JJ common) (NNS properties)) (PP (IN of) (NP (NP (JJS most)) (PP (IN of) (NP (DT these) (NNS languages)))))) (VP (VBP are) (VP (VBN discussed) (ADVP (RB here)))) (. .))
+(S (S (NP (DT No) (NN programming) (NN language)) (VP (VBZ is) (VP (VBN designed) (PP (IN in) (NP (DT a) (NN vacuity)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ solves) (NP (NP (DT some) (JJ specific) (NNS kinds)) (PP (IN of) (NP (NNS problems)))))) (. .))

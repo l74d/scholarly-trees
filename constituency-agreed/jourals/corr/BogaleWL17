@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN beamforming) (NN problem)) (VP (VBZ is) (VP (VBN formulated) (PP (IN as) (NP (DT a) (NNP Rayleigh) (NN quotient) (NN optimization))) (SBAR (WHADVP (WRB where)) (S (NP (PRP$ its) (JJ global) (JJ optimal) (NN solution)) (VP (VBZ is) (VP (VBN guaranteed))))))) (. .))

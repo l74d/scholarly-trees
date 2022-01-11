@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD conducted) (NP (CD two) (NNS experiments)) (S (VP (TO to) (VP (VB evaluate) (NP (PRP$ our) (VBN proposed) (NN approach)))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN approach)) (VP (VBZ is) (ADJP (JJ effective) (PP (IN in) (S (VP (VBG recognizing) (NP (NN head) (NNS gestures)))))))))) (. .))

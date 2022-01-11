@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ evolutionary) (NN model)) (VP (MD would) (VP (VB have) (NP (DT the) (NN capability) (S (VP (TO to) (VP (VB optimize) (NP (PRP itself)) (PP (IN towards) (NP (DT the) (NN fitness) (NN function))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB observe) (NP (NP (DT the) (JJ serendipitous) (NN nature)) (PP (IN of) (NP (NN evolution))))))))) (CC and) (VP (VBP have) (VP (VBN exploited) (NP (PRP it)) (S (VP (TO to) (VP (VB reach) (NP (PRP$ our) (JJ optimal) (NN solution)))))))) (. .))

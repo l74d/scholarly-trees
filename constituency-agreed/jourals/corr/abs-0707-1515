@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (NNS intersections)) (PP (IN between) (NP (NP (DT a) (NN line)) (CC and) (NP (DT a) (NN surface))))))))))) (. .))
+(S (NP (DT These) (CD three) (NNS bases)) (VP (VBP satisfy) (NP (NP (DT the) (NN basis) (NNS properties)) (VP (VBN required) (PP (IN by) (NP (NNP KTS)))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (S (NP (DT the) (NN input) (NN text)) (VP (MD could) (VP (VB be) (NP (NP (DT a) (NN product) (NN description)) (PP (IN on) (NP (NNP Amazon.com))))))) (CC and) (S (NP (DT the) (NNS labels)) (VP (MD could) (VP (VB be) (NP (NN product) (NNS categories))))) (. .))

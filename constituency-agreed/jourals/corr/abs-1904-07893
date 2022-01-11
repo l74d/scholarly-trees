@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN structure)) (VP (VBZ comes) (PP (IN in) (NP (NP (NN form)) (PP (IN of) (NP (NP (DT some) (NN compressibility)) (PP (VBG including) (NP (NP (JJ different) (NNS notions)) (PP (IN of) (NP (NP (NN sparsity)) (CC and) (NP (JJ low) (NN rankness))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (ADVP (RB explicitly)) (NP (NP (NNS cases)) (SBAR (WHADVP (WRB where)) (S (NP (JJ optimal) (NNS weights)) (VP (VBP are) (VP (VBN used) (S (VP (VBG reflecting) (NP (NP (DT an) (JJ optimal) (NN tuning)) (PP (IN of) (NP (DT the) (NN reconstruction)))))))))))) (. .))

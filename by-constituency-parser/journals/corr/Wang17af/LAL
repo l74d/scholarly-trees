@@ -1,0 +1,3 @@
+(S (NP (NNP Owl)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (JJ numerical) (NN library)) (VP (VBD developed) (PP (IN in) (NP (DT the) (NNP OCaml) (NN language)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ focuses) (PP (IN on) (S (VP (VBG providing) (NP (NP (DT a) (JJ comprehensive) (NN set)) (PP (IN of) (NP (JJ high-level) (JJ numerical) (NNS functions)))) (SBAR (IN so) (IN that) (S (NP (NNS developers)) (VP (MD can) (ADVP (RB quickly)) (VP (VB build) (PRT (RP up)) (NP (NNS data) (JJ analytical) (NNS applications)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN abstract))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB present) (NP (NP (NP (NNP Owl) (POS 's)) (NX (NN design))) (, ,) (NX (NN core) (NNS components)) (, ,) (CC and) (NP (PRP$ its) (JJ key) (NN functionality))))) (. .))

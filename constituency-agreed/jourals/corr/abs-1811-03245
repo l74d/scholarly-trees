@@ -1,0 +1,3 @@
+(S (ADVP (RB Traditionally)) (, ,) (NP (NN concept) (NNS hierarchies)) (VP (VBP have) (VP (VBN been) (VP (VBN built) (ADVP (RB manually)) (PP (IN by) (NP (NP (NN knowledge) (NNS engineers)) (CC or) (NP (NN domain) (NNS experts))))))) (. .))
+(S (NP (DT These) (JJ different) (NNS proposals)) (VP (VBP have) (ADVP (RB never)) (VP (VBN been) (VP (VBN contrasted) (PP (IN against) (NP (DT each) (JJ other))) (PP (PP (IN on) (NP (NP (DT the) (JJ same) (NN set)) (PP (IN of) (NP (NNS data))))) (CC and) (PP (IN across) (NP (JJ different) (NNS languages))))))) (. .))
+(S (NP (JJ Such) (NN comparison)) (VP (VBZ is) (ADJP (JJ important) (S (VP (TO to) (VP (VB see) (SBAR (IN whether) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ complementary) (CC or) (JJ incremental)))))))))) (. .))

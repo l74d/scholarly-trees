@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ is) (RB not) (ADJP (JJ suitable) (PP (IN for) (NP (NN production) (NNS systems)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ cumbersome) (CC and) (JJ slow)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (VBG unfolding)) (VP (MD can) (ADVP (RB already)) (VP (VB improve) (NP (DT the) (NN runtime)) (PP (IN in) (NP (NN practice))) (SBAR (IN since) (S (NP (JJR more) (NN work)) (VP (MD can) (VP (VB be) (VP (VBN done) (PP (IN on) (NP (DT the) (NNP GPU))))))))))))) (. .))

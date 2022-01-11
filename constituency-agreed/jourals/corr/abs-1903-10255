@@ -1,0 +1,2 @@
+(S (NP (JJ Robust) (NN feature) (NN extraction)) (VP (VBZ is) (NP (NP (DT an) (JJ integral) (NN part)) (PP (IN of) (NP (JJ scientific) (NN visualization))))) (. .))
+(S (NP (VBN Supervised) (JJ deep) (NN learning)) (ADVP (RB typically)) (VP (VBZ requires) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (NN training) (NNS data))))) (. .))

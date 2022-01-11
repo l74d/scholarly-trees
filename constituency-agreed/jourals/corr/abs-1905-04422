@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN designed) (PP (VBN based) (PP (IN on) (NP (NP (JJ certain) (JJ natural) (NNS languages)) (PP (IN with) (NP (JJ restricted) (NN lexicon) (CC and) (NN grammar)))))))) (. .))
+(S (NP (PRP They)) (VP (VBP preserve) (NP (NP (DT the) (NN expressiveness) (CC and) (NN coherence)) (PP (IN of) (NP (JJ natural) (NNS languages))))) (. .))

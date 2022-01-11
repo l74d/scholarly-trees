@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN representation)))) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG constructing) (NP (NP (DT a) (NN committee) (NN solution)) (PP (IN of) (NP (NP (DT an) (JJ inconsistent) (NN plane) (NN system)) (PP (IN of) (NP (JJ linear) (NNS inequalities)))))))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (NP (DT A) (NN solution)) (PP (IN of) (NP (NP (CD two) (NNS problems)) (PP (IN on) (NP (NP (JJ minimal) (NN committee)) (PP (IN of) (NP (DT a) (NN plane) (NN system)))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

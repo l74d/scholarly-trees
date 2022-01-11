@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ randomized) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ approaches) (NP (NNP ML) (NN performance)) (PP (IN with) (NP (NP (JJ linear) (NN complexity)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS measurements)))))))))))) (. .))

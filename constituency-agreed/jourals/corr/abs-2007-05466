@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN privacy)) (PP (IN of) (NP (NP (NNS interactions)) (PP (IN between) (NP (NP (NNS individuals)) (PP (IN in) (NP (DT a) (NN network))))))))) (. .))
+(S (PP (IN For) (NP (NN example))) (, ,) (PP (IN in) (NP (NN blockchain) (NNS cryptocurrencies))) (, ,) (NP (NP (NNS transactions)) (PP (IN between) (NP (CD two) (JJ anonymous) (NNS accounts)))) (VP (VBP are) (VP (VBN published) (ADVP (RB openly)))) (. .))

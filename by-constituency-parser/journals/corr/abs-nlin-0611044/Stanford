@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN origin)) (PP (IN of) (NP (DT the) (JJ Boltzmann) (NN factor)))) (VP (VBZ is) (VP (VBN revisited))) (. .))
+(S (NP (NP (DT An) (JJ alternative) (NN derivation)) (PP (IN from) (NP (DT the) (JJ microcanonical) (NN picture)))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (NP (DT The) (NNP Maxwellian) (NN distribution)) (PP (IN in) (NP (DT a) (ADJP (NN mono) (HYPH -) (JJ dimensional)) (JJ ideal) (NN gas)))) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (S (VP (VBG following) (NP (DT this) (NN insight))))))) (. .))
+(S (NP (NP (JJ Other) (JJ possible) (NNS applications)) (, ,) (SBAR (IN as) (S (PP (IN for) (NP (NN instance) (DT the))) (VP (VBG obtaining) (PP (IN of) (NP (NP (DT the) (NN wealth) (NN distribution)) (PP (IN in) (NP (DT the) (JJ human) (NN society)))))))) (, ,)) (VP (VBP are) (VP (VBN suggested) (PP (IN in) (NP (DT the) (NNS remarks))))) (. .))

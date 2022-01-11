@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN network) (NN security)) (VP (VBZ is) (VP (VBN ensured) (ADVP (RB continuously)) (PP (IN through) (NP (NP (DT an) (JJ iterative) (NN price) (NN negotiation) (NN process)) (PP (IN between) (NP (NP (DT the) (NN distribution) (NN network) (NN operator)) (CC and) (NP (DT the) (NNS aggregators)))))))) (. .))
+(S (NP (NP (DT The) (NN optimality)) (PP (IN of) (NP (DT the) (NN solution)))) (VP (VBZ is) (VP (VBN guaranteed) (PP (IN by) (NP (NP (NN convexification)) (PP (IN of) (NP (DT the) (JJ mixed) (NN integer) (NN formulation))))))) (. .))

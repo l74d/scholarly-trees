@@ -1,0 +1,2 @@
+(S (PP (IN Among) (NP (JJ many) (JJ other) (NNS techniques))) (, ,) (NP (NN dimensionality) (NN reduction)) (VP (VP (VBZ plays) (NP (DT a) (JJ key) (NN role)) (PP (IN in) (NP (JJ such) (NNS analyses)))) (CC and) (VP (VBZ facilitates) (NP (NP (DT the) (NN procedure)) (PP (IN of) (NP (NP (NN feature) (NN selection)) (CC and) (NP (NN feature) (NN extraction))))))) (. .))
+(S (NP (VBN Randomized) (NNS algorithms)) (VP (VBP are) (NP (NP (JJ efficient) (NNS tools)) (PP (IN for) (S (VP (VBG handling) (NP (JJ big) (NNS data) (NNS tensors))))))) (. .))

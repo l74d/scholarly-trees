@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB guarantee) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NN multicast))))))) (, ,) (NP (DT the) (NN group) (NN key)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB encrypt) (CC and) (VB decrypt) (NP (DT the) (NNS packages))))))) (. .))

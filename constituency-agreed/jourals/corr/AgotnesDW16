@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ true) (NN lie)) (VP (VBZ is) (NP (NP (DT a) (NN lie)) (SBAR (WHNP (WDT that)) (S (VP (VBZ becomes) (ADJP (JJ true)) (SBAR (WHADVP (WRB when)) (S (VP (VBN announced))))))))) (. .))
+(S (NP (JJ Detailed) (NNS examples)) (VP (VBP illustrate) (NP (PRP$ our) (VBG lying) (NNS concepts))) (. .))

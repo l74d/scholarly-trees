@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT a) (JJ multi-agent) (NN setting))) (, ,) (NP (NP (DT the) (JJ optimal) (NN policy)) (PP (IN of) (NP (DT a) (JJ single) (NN agent)))) (VP (VBZ is) (ADJP (RB largely) (JJ dependent) (PP (IN on) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (JJ other) (NNS agents))))))) (. .))
+(S (NP (DT The) (NN curriculum)) (VP (VBZ has) (NP (CD two) (NNS stages))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VP (VBP figure) (PRT (RP out)) (NP (NP (DT the) (NN relationship)) (PP (IN of) (NP (NP (DT the) (NN quantization) (NN interval)) (CC and) (NP (DT the) (NN convergence) (NN speed)))))) (CC and) (VP (ADVP (RB also)) (VBP provide) (NP (NP (DT the) (NNS estimates)) (PP (IN of) (NP (DT the) (NN convergence) (NN rate)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP are) (VP (VBN given) (S (VP (TO to) (VP (VB verify) (NP (DT the) (JJ theoretical) (NN analysis))))))) (. .))

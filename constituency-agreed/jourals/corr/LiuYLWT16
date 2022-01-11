@@ -1,0 +1,2 @@
+(S (NP (JJ Visual) (NN fashion) (NN analysis)) (VP (VBZ has) (VP (VBN attracted) (NP (JJ many) (NNS attentions)) (PP (IN in) (NP (DT the) (JJ recent) (NNS years))))) (. .))
+(S (PP (IN With) (NP (DT this) (NN dataset))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NN fashion) (NN alignment)) (PP (IN by) (S (VP (VBG cascading) (NP (JJ multiple) (JJ convolutional) (JJ neural) (NNS networks)) (PP (IN in) (NP (CD three) (NNS stages))))))) (. .))

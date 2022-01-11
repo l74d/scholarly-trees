@@ -1,0 +1,2 @@
+(S (NP (NNP Mobile) (NNS robots)) (VP (VBP have) (VP (VBN received) (NP (NP (DT a) (JJ great) (NN deal)) (PP (IN of) (NP (NN research)))) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ dynamic) (NN modelling)) (PP (IN of) (NP (JJ mobile) (NNS robots)))) (VP (VBZ is) (ADJP (RB very) (JJ important)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VP (VB travel) (PP (IN at) (NP (JJR higher) (NN speed)))) (CC and) (VP (VB perform) (NP (JJ heavy) (NN duty) (NN work))))))))))) (. .))

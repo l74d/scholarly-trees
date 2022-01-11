@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NNP NB) (NN problem)) (VP (VBZ is) (ADJP (JJ non-convex)) (SBAR (IN if) (S (NP (JJ total) (NN power) (NNS constraints)) (VP (VBP are) (ADVP (RB also)) (VP (VBN imposed) (PP (IN on) (NP (DT the) (NNS users)))))))) (. .))

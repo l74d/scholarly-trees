@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP evaluate) (NP (PRP$ our) (NN method)) (PP (IN on) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ unsupervised) (NN word) (NN translation))))) (, ,) (PP (IN by) (S (VP (VBG aligning) (NP (NP (NN word) (NNS embeddings)) (VP (VBN trained) (PP (IN on) (NP (JJ monolingual) (NNS data))))))))) (. .))

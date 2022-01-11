@@ -1,0 +1,2 @@
+(S (NP (NP (NN Misinformation)) (PP (JJ such) (IN as) (NP (JJ fake) (NN news)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ big) (NNS challenges)) (PP (IN of) (NP (PRP$ our) (NN society))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS methods)) (VP (VBP require) (NP (NP (JJ substantial) (NN feature) (NN modeling)) (CC and) (NP (JJ rich) (NNS lexicons)))) (. .))

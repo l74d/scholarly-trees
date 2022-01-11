@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN framework)))) (, ,) (NP (PRP we)) (VP (VBP calculate) (NP (NP (DT the) (JJ final) (NN generalisation) (NN error)) (PP (IN of) (NP (NP (NN student) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (NP (JJR more) (NNS parameters)) (PP (IN than) (NP (PRP$ their) (NNS teachers))))))))))) (. .))

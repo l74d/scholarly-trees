@@ -1,0 +1,3 @@
+(S (S (NP (DT A) (JJ Circumconic)) (VP (NNS passes) (PP (IN through) (NP (NP (DT a) (NN triangle) (POS 's)) (NNS vertices))))) (: ;) (S (NP (DT an) (NNP Inconic)) (VP (VBZ is) (ADJP (JJ tangent) (PP (TO to) (NP (DT the) (NNS sidelines)))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ variable) (NN geometry)) (PP (IN of) (NP (NP (JJ certain) (NNS conics)) (VP (VBN derived) (PP (IN from) (NP (NP (DT the) (CD 1d) (NN family)) (PP (IN of) (NP (NNS 3-periodics))) (PP (IN in) (NP (DT the) (NNP Elliptic) (NNP Billiard)))))))))) (. .))
+(S (NP (DT Some)) (VP (NN display) (NP (NP (JJ intriguing) (NNS invariances)) (PP (JJ such) (IN as) (NP (NP (JJ aspect) (NN ratio)) (CC and) (NP (NP (NN pairwise) (NN ratio)) (PP (IN of) (NP (JJ focal) (NNS lengths)))))))) (. .))

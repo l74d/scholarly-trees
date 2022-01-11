@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN generator) (, ,) (NN discriminator) (CC and) (NN encoder)) (VP (VBP are) (VP (VBN parameterized) (PP (IN by) (NP (JJ deep) (JJ convolutional) (JJ neural) (NNS networks))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (JJ empirical) (NN success))) (, ,) (NP (DT this) (NN approach)) (VP (VBZ has) (NP (JJ notable) (NNS drawbacks))) (. .))
+(S (NP (PRP We)) (VP (VBP address) (NP (DT these) (NNS problems)) (PP (IN by) (S (VP (VBG incorporating) (NP (NP (NN tensor) (JJ algebraic) (NNS operations)) (SBAR (WHNP (WDT that)) (S (VP (VBP preserve) (NP (JJ multilinear) (NN structure)) (PP (IN at) (NP (DT every) (NN layer))))))))))) (. .))

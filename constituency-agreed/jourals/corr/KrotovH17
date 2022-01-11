@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT the) (NN minima)) (PP (IN of) (NP (DT the) (JJ objective) (NN function)))) (VP (VBP are) (ADJP (JJ free) (PP (IN from) (NP (JJ rubbish) (NNS images)))) (, ,) (SBAR (IN so) (IN that) (S (NP (DT each) (NN minimum)) (VP (VBZ is) (NP (DT a) (ADJP (RB semantically) (JJ meaningful)) (NN pattern)))))) (. .))

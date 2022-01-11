@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (NNP DCGANs)) (ADJP (JJ unable) (S (VP (TO to) (VP (VB reflect) (NP (NP (DT the) (JJ inherent) (NN structure)) (PP (IN of) (NP (DT the) (NN training) (NNS data)))))))))) (. .))

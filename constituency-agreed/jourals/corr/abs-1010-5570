@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP investigate) (SBAR (WHADVP (WRB how)) (S (NP (NNS contracts)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB regulate) (NP (NP (DT the) (NN interaction)) (PP (IN between) (NP (NNS processes))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP proceed) (PP (IN in) (NP (CD two) (NNS directions)))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ several) (NNS models)) (PP (IN for) (NP (NN concurrency)))) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN through) (NP (PRP$ our) (NNS primitives))))))))) (. .))

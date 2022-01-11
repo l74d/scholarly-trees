@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT a) (JJ deterministic) (NN world))) (, ,) (NP (DT a) (NN planning) (NN agent)) (VP (MD can) (VP (VB be) (ADJP (JJ certain) (PP (IN of) (NP (NP (DT the) (NNS consequences)) (PP (IN of) (NP (NP (PRP$ its) (JJ planned) (NN sequence)) (PP (IN of) (NP (NNS actions)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP assess) (CC and) (VBP analyse) (NP (NP (DT the) (NNS features)) (PP (IN of) (NP (NP (NNS domains)) (SBAR (WHNP (WDT which)) (S (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB exploit))))))))) (. .))

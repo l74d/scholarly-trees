@@ -1,0 +1,1 @@
+(S (NP (NNP ScoutBot)) (VP (MD will) (VP (VB prompt) (PP (IN for) (NP (NN clarification))) (SBAR (IN if) (S (NP (NP (DT the) (NN user) (POS 's)) (NN instruction)) (VP (VBZ needs) (NP (JJ additional) (NN input))))))) (. .))

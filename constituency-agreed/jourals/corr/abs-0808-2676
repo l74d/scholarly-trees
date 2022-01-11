@@ -1,0 +1,2 @@
+(S (CC But) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (JJ such) (NNS faults)) (VP (VBP persist))))) (, ,) (NP (DT no) (NN aggregation) (NN result)) (VP (MD can) (VP (VB be) (VP (VBN obtained)))) (. .))
+(S (NP (NP (NP (DT The) (NN detection)) (PP (IN of) (NP (NN aggregation) (NNS disruptions)))) (CC and) (NP (NP (DT the) (NN removal)) (PP (IN of) (NP (JJ faulty) (NNS nodes))))) (VP (VBZ provides) (NP (NN robustness))) (. .))

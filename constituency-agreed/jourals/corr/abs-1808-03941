@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Residual) (NNS autoencoders)) (VP (VBN combined) (PP (IN with) (NP (NN deconvolution) (NNS operations))))) (VP (VBP are) (VP (VBN introduced) (PP (IN into) (NP (DT the) (NN generator) (NN network))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ standard) (NN way)) (PP (IN of) (S (VP (VBG reconstructing) (NP (DT the) (NNS entities)))))) (VP (MD will) (VP (VB involve) (S (VP (VBG joining) (NP (DT the) (NNS tables)))))) (. .))
+(S (NP (NP (DT The) (NN result) (NNS tuples)) (VP (VBN produced) (PP (IN by) (NP (PRP$ our) (NN system))))) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB strike) (NP (NP (DT a) (JJ favorable) (NN balance)) (PP (IN between) (NP (NN precision) (CC and) (NN recall))))))))) (. .))

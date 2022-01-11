@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN connection)) (VP (VBZ establishes) (NP (NP (DT the) (NN optimality)) (PP (IN of) (NP (DT the) (NNP CSP) (NN algorithm)))) (PP (ADVP (IN at) (JJS least)) (IN for) (NP (NP (JJ memoryless) (JJ stationary) (NNS sources)) (, ,) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (JJ fundamental) (NNS limits)) (VP (VBP are) (VP (VBN known)))))))) (. .))

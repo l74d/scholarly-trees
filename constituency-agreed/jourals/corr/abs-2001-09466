@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ weighted) (NN average)) (PP (IN of) (NP (DT the) (NNS embeddings)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB predict) (NP (DT the) (NN price) (NN movement))))))) (. .))

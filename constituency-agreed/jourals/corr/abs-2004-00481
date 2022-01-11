@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ second) (NN technique)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VP (VBG deriving) (NP (NP (DT the) (JJ symbolic) (NN representation)) (PP (IN of) (NP (DT the) (NNS queries))))) (CC and) (VP (VBG proving) (NP (PRP$ their) (NN equivalence)) (S (VP (VBG using) (NP (DT the) (NN satisfiability) (NN modulo) (NN theory)))))))))) (. .))

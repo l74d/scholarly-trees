@@ -1,0 +1,2 @@
+(S (NP (CD One) (JJ main) (NN reason)) (VP (VBZ is) (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN corpus))))))) (. .))
+(S (NP (DT The) (JJ second) (NN task)) (VP (VBZ is) (S (VP (TO to) (VP (VB infer) (NP (DT the) (JJ probable) (NN emotion)))))) (. .))

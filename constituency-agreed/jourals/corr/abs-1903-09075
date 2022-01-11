@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN benchmark))) (, ,) (NP (PRP we)) (VP (VBP compare) (NP (PRP$ our) (NN system)) (PP (IN with) (NP (NP (JJ live) (JJ terrestrial) (NN network)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NN backhaul) (NN connection)) (VP (VBZ is) (NP (JJ cellular) (NN backhaul)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NNS Emotions)) (VP (VBP play) (NP (DT a) (JJ key) (NN role)) (PP (IN in) (NP (NP (JJ human) (NN communication)) (CC and) (NP (JJ public) (NNS presentations))))) (. .))
+(S (NP (JJ Human) (NNS emotions)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN expressed) (PP (IN through) (NP (JJ multiple) (NNS modalities))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (S (VP (VBG exploring) (NP (NP (JJ multimodal) (NNS emotions)) (CC and) (NP (PRP$ their) (NN coherence))))) (VP (VBZ is) (PP (IN of) (NP (NP (JJ great) (NN value)) (PP (IN for) (S (VP (VP (VBG understanding) (NP (JJ emotional) (NNS expressions)) (PP (IN in) (NP (NNS presentations)))) (CC and) (VP (VBG improving) (NP (NN presentation) (NNS skills))))))))) (. .))

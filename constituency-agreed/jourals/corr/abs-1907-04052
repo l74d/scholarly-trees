@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB tackle) (NP (DT both) (NNS problems))))) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VP (VB enrich) (NP (DT the) (NN feature) (NN representation))) (CC and) (VP (VB improve) (NP (DT the) (NN feature) (NN discriminativeness))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (JJ intra-slice) (JJ spatial) (NN attention)) (S (VP (TO to) (VP (VB focus) (NP (DT the) (NN feature) (NN learning)) (PP (IN in) (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NNS regions))))))) (. .))

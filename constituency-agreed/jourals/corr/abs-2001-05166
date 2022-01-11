@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN graph)) (VP (VBZ captures) (NP (NP (DT the) (JJ structural) (NNS characteristics)) (PP (IN of) (NP (DT the) (NN point) (NN cloud)))))) (, ,) (CC and) (S (NP (PRP$ its) (NNS weights)) (VP (VBP are) (VP (VBN determined) (S (VP (VBG using) (NP (DT a) (NNP Finite) (NNP Markov) (NNP Chain))))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (ADVP (RB still)) (VP (VBP have) (NP (NNS limitations))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN in) (NP (DT the) (NN sequence) (NN model))) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (CD two) (NN attention) (NNS mechanisms)) (S (VP (TO to) (VP (VB highlight) (NP (NP (JJ important) (JJ historical) (NNS states)) (PP (IN of) (NP (NNS students)))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP prove) (NP (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN model)))) (CC and) (NP (NP (DT the) (NN diversity)) (PP (IN of) (NP (PRP$ its) (NN application) (NNS scenarios)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP conduct) (NP (NNS experiments)) (S (VP (TO to) (VP (VP (VB verify) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (PRP$ our) (NN model) (NNS assumptions))))) (CC and) (VP (VB prove) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN pipeline))))))))) (. .))

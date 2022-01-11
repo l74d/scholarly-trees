@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD proved) (SBAR (IN that) (S (NP (JJ typical) (NNS encodings)) (VP (VBP yield) (NP (DT the) (JJ asymptotic) (NN equipartition) (NN property)) (PP (IN for) (NP (DT the) (NN output) (NNS variables))))))) (. .))

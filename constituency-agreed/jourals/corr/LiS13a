@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN classification)) (PP (IN of) (NP (DT these) (NNS linkages))))) (. .))
+(S (NP (PRP It)) (VP (VBZ turns) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (CD three) (NNS types)))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP have) (NP (NP (DT the) (NNS linkages)) (PP (IN with) (NP (NN line) (NN symmetry))))) (. .))
+(S (NP (DT The) (JJ second) (NN type)) (VP (VBZ is) (ADJP (JJ new))) (. .))

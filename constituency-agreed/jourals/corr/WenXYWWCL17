@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT a) (NN performance) (NN model)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN scalability)) (PP (IN of) (NP (NNP TernGrad))))))))) (. .))

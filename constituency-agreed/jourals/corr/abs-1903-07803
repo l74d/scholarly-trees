@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP train) (NP (PRP$ our) (JJ deep) (NNS networks)) (PP (IN with) (NP (NP (JJ dynamic) (NNS weights)) (SBAR (WHNP (WDT that)) (S (VP (VBP fluctuate) (PP (IN during) (NP (DT each) (NN training) (NN iteration))))))))) (. .))

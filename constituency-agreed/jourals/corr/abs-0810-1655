@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN case) (NN study)) (SBAR (WHNP (WDT that)) (S (VP (VBZ illustrates) (SBAR (WHADVP (WRB how)) (S (NP (NP (NN traffic) (NNS characteristics)) (PP (IN of) (NP (JJ individual) (NNS hosts)))) (VP (VBP are) (VP (VBN distorted) (PP (IN by) (NP (NN anonymization)))))))))))) (. .))

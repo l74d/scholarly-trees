@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (ADVP (RB often)) (VP (VBP fail) (S (VP (TO to) (VP (VB tackle) (NP (NP (DT the) (JJ real) (NNS data)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN corrupted) (PP (IN by) (NP (NP (DT the) (NN noise)) (PP (IN with) (NP (JJ unknown) (NN distribution)))))))))))))) (. .))

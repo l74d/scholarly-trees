@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN thesis)) (VP (VBZ is) (SBAR (IN that) (S (NP (NN database) (NN design)) (VP (VBZ remains) (NP (DT a) (JJ critical) (JJ unsolved) (NN problem)))))) (. .))
+(S (ADVP (RB Hence)) (, ,) (NP (PRP it)) (VP (MD should) (VP (VB be) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (JJR more) (NN research)))))) (. .))

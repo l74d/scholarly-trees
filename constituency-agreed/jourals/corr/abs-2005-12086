@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NNS systems)) (PP (IN on) (NP (CD two) (NN benchmark) (NNS datasets)))) (. .))
+(S (NP (DT These) (NN evaluation) (NNS metrics)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB determine) (NP (DT a) (JJ stable) (NN system))))))) (. .))
+(S (NP (NP (RB Only) (JJ robust) (NNS systems)) (PP (IN in) (NP (DT all) (NN evaluation) (NNS metrics)))) (VP (VBP are) (ADJP (JJ suitable) (PP (IN for) (NP (NP (NN use)) (PP (IN in) (NP (JJ real) (NNS applications))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN extension) (NN proposal)) (PP (IN of) (NP (NP (DT the) (JJ semi-supervised) (NN learning) (NN method)) (VP (VBN known) (PP (IN as) (NP (NNP Particle) (NNP Competition) (CC and) (NNP Cooperation)))))) (PP (IN for) (S (VP (VBG carrying) (PRT (RP out)) (NP (NP (NNS tasks)) (PP (IN of) (NP (NN image) (NN segmentation))))))))) (. .))
+(S (NP (JJ Preliminary) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (NP (DT a) (JJ promising) (NN approach)))))) (. .))

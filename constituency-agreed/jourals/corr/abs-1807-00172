@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (VBG resulting) (NN optimization) (NN problem)) (SBAR (S (VP (TO to) (VP (VB solve) (PP (IN for) (NP (NP (DT the) (JJ optimal) (NN vector)) (VP (VBG minimizing) (NP (DT the) (JJ empirical) (NN risk)))))))))) (VP (VBZ is) (, ,) (ADVP (RB however)) (, ,) (ADJP (RB highly) (JJ nonlinear))) (. .))

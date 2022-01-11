@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (DT a) (NNP LSTM) (NN network)) (VP (VBZ is) (VP (VBN formulated) (CC and) (VBN trained))) (. .))
+(S (NP (PRP$ Its) (NN performance)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN compared) (PP (IN with) (NP (JJ other) (VBG existing) (NNS methods))))) (. .))

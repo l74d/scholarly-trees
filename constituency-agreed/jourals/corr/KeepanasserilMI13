@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBD reviewed) (NP (NP (NN conference) (NNS proceedings)) (CC and) (NP (JJ grey) (NN literature)))) (CC and) (VP (VBN conducted) (NP (NN citation) (NN tracking)))) (. .))
+(S (NP (PRP$ Our) (JJ initial) (JJ systematic) (NN search)) (VP (VBD yielded) (NP (CD 15,365) (NNS articles))) (. .))
+(S (S (NP (CD 144) (JJ full) (NN text) (NNS articles)) (VP (VBD were) (VP (VBN read)))) (CC and) (S (NP (NP (CD 40)) (PP (IN of) (NP (PRP them)))) (VP (VBD were) (VP (VBN selected) (S (VP (TO to) (VP (VB be) (VP (VBN included) (PP (IN in) (NP (DT the) (NN review)))))))))) (. .))

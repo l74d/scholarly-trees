@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN presence)) (PP (IN of) (NP (NN time) (NN delay)))) (VP (VBZ is) (VP (VBN seen) (S (VP (TO to) (VP (VB enhance) (NP (NP (DT the) (NN onset)) (PP (IN of) (NP (JJ first) (NN order) (NN synchronization))))))))) (. .))
+(S (NP (DT The) (NN star) (NN network)) (ADVP (RB also)) (VP (VBZ exhibits) (NP (JJ different) (NN synchronization) (NNS transitions)) (PP (VBG depending) (PP (IN on) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (NN time) (NN delay))))))) (. .))

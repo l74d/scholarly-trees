@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (NP (NP (JJ algorithmic) (NNS transformations)) (CC and) (NP (JJ judicious) (NNS approximations))) (VP (VBP are) (VP (VBN explored) (S (VP (TO to) (VP (VB minimize) (NP (DT the) (JJ overall) (NN computation) (NN complexity))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (CD Two) (NN interaction) (NNS scenarios)) (VP (VBP are) (VP (VBN evaluated))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (NP (NP (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBP outperform) (NP (JJ competitive) (NNS baselines)) (PP (IN in) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NNS metrics) (CC and) (NNS datasets)))))))))) (. .))

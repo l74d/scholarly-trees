@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (NP (JJ many) (NNS classes)) (PP (IN of) (NP (NP (JJ binary) (JJ linear) (NNS codes)) (PP (IN with) (NP (JJ explicit) (NN weight) (NNS enumerators)))))) (VP (VBP are) (VP (VBN obtained))) (. .))
+(S (NP (NP (DT Some) (JJ binary) (JJ linear) (NNS codes)) (CC and) (NP (NP (PRP$ their) (NNS duals)) (VP (VBN obtained)))) (VP (VBP are) (ADJP (ADJP (JJ optimal)) (CC or) (ADJP (RB almost) (JJ optimal)))) (. .))

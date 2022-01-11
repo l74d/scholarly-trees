@@ -1,0 +1,1 @@
+(S (NP (DT All) (NNS transactions)) (VP (VBP are) (ADVP (RB also)) (VP (VBN processed) (PP (IN in) (NP (DT a) (JJ concurrent) (JJ pessimistic) (NN manner))) (S (VP (TO to) (VP (VB ensure) (NP (JJ mutual) (NN consistency))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Also)) (NP (NNP Wu) (JJ characteristic)) (VP (VBZ produces) (NP (DT a) (NN ring) (NN homomorphism))) (. .))
+(S (NP (NP (DT The) (NNP Kuenneth) (NN correspondence)) (PP (IN between) (NP (NN cohomology) (NNS groups)))) (VP (VBZ is) (ADJP (JJ explicit)) (SBAR (IN as) (S (NP (NP (DT a) (NN basis)) (PP (IN for) (NP (DT the) (NN product)))) (VP (MD can) (VP (VB be) (VP (VBN obtained) (PP (IN from) (NP (NP (DT a) (NN basis)) (PP (IN of) (NP (DT the) (NNS factors))))))))))) (. .))

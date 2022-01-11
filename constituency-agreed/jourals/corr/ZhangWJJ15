@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ asymptotic) (NN performance) (NNS expressions)) (VP (MD can) (VP (VB be) (VP (VBN evaluated) (ADVP (RB quickly) (CC and) (RB efficiently)))))) (: ;) (S (ADVP (RB thus)) (, ,) (NP (PRP they)) (VP (VBP are) (ADJP (JJ useful) (PP (IN in) (NP (NN system) (NN design) (NN optimization)))))) (. .))

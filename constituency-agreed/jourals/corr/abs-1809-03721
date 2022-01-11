@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (NNS features)) (VP (VBN learned) (PP (IN by) (NP (DT the) (NNS nodes))))) (VP (VBP are) (VP (VBN sorted) (PP (IN by) (NP (DT the) (NN node) (NNS indices))) (PP (IN in) (NP (NP (DT the) (NN order)) (PP (IN of) (NP (PRP$ their) (NN importance))))))) (. .))

@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (JJ recent) (NNS decades))) (, ,) (NP (JJ cold) (NN atom) (NNS experiments)) (VP (VBP have) (VP (VBN become) (ADJP (RB increasingly) (JJ complex)))) (. .))
+(S (SBAR (IN While) (S (NP (NNS computers)) (VP (VBP control) (NP (JJS most) (NNS parameters))))) (, ,) (NP (NN optimization)) (VP (VBZ is) (ADVP (RB mostly)) (VP (VBN done) (ADVP (RB manually)))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ time-consuming) (NN task)) (PP (IN for) (NP (NP (DT a) (JJ high-dimensional) (NN parameter) (NN space)) (PP (IN with) (NP (JJ unknown) (NNS correlations)))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP automate) (NP (DT this) (NN process)) (S (VP (VBG using) (NP (NP (DT a) (JJ genetic) (NN algorithm)) (VP (VBN based) (PP (IN on) (NP (NNP Differential) (NNP Evolution)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (SBAR (IN that) (S (NP (DT this) (NN algorithm)) (VP (VBZ optimizes) (NP (CD 21) (JJ correlated) (NNS parameters))))) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ robust) (PP (IN against) (NP (NP (JJ local) (NN maxima)) (CC and) (NP (JJ experimental) (NN noise)))))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (JJ flexible) (CC and) (JJ easy) (SBAR (S (VP (TO to) (VP (VB implement))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (JJ presented) (NN scheme)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (TO to) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (JJ experimental) (NN optimization) (NNS tasks)))))))) (. .))

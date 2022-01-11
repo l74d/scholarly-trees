@@ -1,0 +1,2 @@
+(S (NP (NP (NN Security)) (PP (IN of) (NP (JJ complex) (NNS systems)))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN issue)) (PP (IN in) (NP (NN software) (NN engineering))))) (. .))
+(S (PP (IN For) (NP (NP (JJ complex) (NN computer) (NNS systems)) (VP (VBG involving) (NP (JJ many) (NNS actors))))) (, ,) (NP (NN security) (NNS protocols)) (VP (VBP are) (ADVP (RB often)) (VP (VBN used) (PP (IN for) (NP (NP (DT the) (NN communication)) (PP (IN of) (NP (JJ sensitive) (NNS data))))))) (. .))

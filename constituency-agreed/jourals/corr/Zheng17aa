@@ -1,0 +1,1 @@
+(S (NP (JJ Traditional) (NN recommender) (NNS systems)) (ADVP (RB only)) (VP (VBP focus) (PP (IN on) (S (VP (VBG optimizing) (NP (NP (DT the) (NN utility)) (PP (IN of) (NP (NP (DT the) (NN end) (NNS users)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (NP (NP (DT the) (NN receiver)) (PP (IN of) (NP (DT the) (NNS recommendations)))))))))))))) (. .))

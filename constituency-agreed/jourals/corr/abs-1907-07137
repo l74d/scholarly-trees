@@ -1,0 +1,1 @@
+(S (NP (NNP SPH)) (VP (VBZ approximates) (NP (DT these) (NNS equations)) (S (VP (VBG using) (NP (NP (DT an) (JJ integral) (NN interpolant)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB then)) (VP (VBN solved) (ADVP (RB numerically)))))))))) (. .))

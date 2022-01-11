@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (NP (DT a) (JJ simple) (NN proof)) (PP (IN of) (NP (NN concept))))) (, ,) (NP (NP (DT a) (NN device)) (VP (VBG comprising) (NP (NP (NN microcontroller)) (, ,) (NP (NN temperature) (NN sensor)) (, ,) (CC and) (NP (NNP EEPROM))))) (VP (VBZ is) (VP (VBN considered) (PP (IN in) (NP (DT this) (NN work))))) (. .))

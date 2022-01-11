@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (NNS cases)) (PP (IN of) (NP (NNS data) (NN transmission)))) (VP (VBP are) (VP (VBN considered))) (. .))
+(S (PP (IN In) (NP (DT both) (NNS cases))) (, ,) (NP (JJ parallel) (JJ additive) (JJ white) (JJ Gaussian) (NNS channels)) (VP (VBP are) (VP (VBN assumed))) (. .))

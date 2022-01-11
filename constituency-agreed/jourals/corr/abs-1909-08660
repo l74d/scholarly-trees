@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ first) (JJ main) (NN result)) (VP (VBZ is) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (NP (DT the) (JJ optimal) (NN policy)) (PP (IN for) (NP (DT this) (NN setting))))))) (. .))
+(S (NP (PRP$ Our) (JJ second) (JJ main) (NN result)) (VP (VBZ is) (VP (VBG proving) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS candidates)))) (VP (VBZ is) (ADJP (JJ large))))) (, ,) (NP (DT a) (JJ single) (NN threshold) (NN policy)) (VP (VBZ is) (ADJP (RB almost) (JJ optimal))))))) (. .))

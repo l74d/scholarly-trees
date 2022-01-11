@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ naive) (NN approach)) (VP (VBZ requires) (S (NP (PRP us)) (VP (TO to) (VP (VB select) (NP (NNS thresholds)))))) (. .))
+(S (NP (PRP$ Our) (JJ experimental) (NN evaluation)) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB discover) (NP (ADJP (RB statistically) (JJ significant)) (NNS patterns)) (ADVP (RB efficiently))))))) (. .))

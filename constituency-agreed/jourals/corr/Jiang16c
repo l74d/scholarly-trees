@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (VBG existing) (NN correlation) (NNS coefficients)) (PP (IN of) (NP (NN belief) (NNS functions)))) (VP (VBP have) (NP (DT some) (NNS shortcomings))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT a) (JJ new) (NN correlation) (NN coefficient)) (VP (VBZ is) (VP (VBN proposed) (PP (IN with) (NP (JJ many) (JJ desirable) (NNS properties))))) (. .))
+(S (NP (DT Some) (JJ numerical) (NNS examples) (CC and) (NNS comparisons)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN correlation) (NN coefficient))))) (. .))

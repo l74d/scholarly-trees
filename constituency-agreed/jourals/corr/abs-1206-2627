@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (NN line)) (PP (IN of) (NP (NN research)))) (VP (VBZ uses) (NP (NN compression) (NNS methods)) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN similarity)) (PP (IN between) (NP (NNS signals)))))))) (. .))
+(S (NP (NP (DT The) (NN efficacy)) (PP (IN of) (NP (DT the) (VBN proposed) (NN measure)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN through) (NP (NP (DT the) (JJ high) (NNS accuracies)) (VP (VBN achieved) (PP (IN in) (NP (NN image) (NN clustering) (, ,) (NN retrieval) (CC and) (NN classification)))))))) (. .))

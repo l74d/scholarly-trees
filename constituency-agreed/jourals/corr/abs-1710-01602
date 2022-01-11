@@ -1,0 +1,2 @@
+(NP (NN tree) (. .))
+(S (NP (DT The) (JJ first)) (VP (VBZ is) (NP (NP (DT a) (NN score)) (VP (VBN computed) (PP (IN from) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NP (DT the) (NNP Fisher) (NNS vectors)) (PP (IN of) (NP (DT any) (CD two) (NNS images)))))))))) (. .))

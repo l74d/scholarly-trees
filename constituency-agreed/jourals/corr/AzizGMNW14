@@ -1,0 +1,2 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (NP (DT an) (NN agent)) (VP (VBG manipulating) (NP (DT the) (NNP PS) (NN rule))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT a) (JJ pure) (NNP Nash) (NN equilibrium)) (VP (VBZ is) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB exist) (PP (IN under) (NP (DT the) (NNP PS) (NN rule))))))))))) (. .))

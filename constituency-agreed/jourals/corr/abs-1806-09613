@@ -1,0 +1,1 @@
+(S (NP (NP (DT Another) (NN challenge)) (PP (IN of) (NP (DT the) (NN person) (NN re-identification) (NN problem)))) (VP (VBZ is) (NP (NP (NP (DT the) (JJ small) (NN inter-class) (NN difference)) (PP (IN between) (NP (JJ different) (NNS identities)))) (CC and) (NP (NP (JJ large) (JJ intra-class) (NN difference)) (PP (IN of) (NP (DT the) (JJ same) (NN identity)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT No) (NN minimax) (JJ optimal) (NN algorithm)) (VP (VBD was) (ADVP (RB previously)) (VP (VBN known) (PP (IN in) (NP (DT the) (NN anytime) (NN setting))) (, ,) (ADVP (RB regardless) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS experts)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP design) (NP (NP (DT the) (JJ first) (NN minimax) (JJ optimal) (NN algorithm)) (PP (IN for) (S (VP (VBG minimizing) (NP (NN regret)) (PP (IN in) (NP (DT the) (NN anytime) (NN setting)))))))) (. .))

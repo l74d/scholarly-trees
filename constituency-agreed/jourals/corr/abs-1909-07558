@@ -1,0 +1,2 @@
+(S (S (VP (VBG Studying) (NP (NP (DT the) (NN defense)) (PP (IN of) (NP (JJ adversarial) (NNS examples)))))) (VP (VBZ is) (PP (IN of) (NP (JJ considerable) (JJ practical) (NN importance)))) (. .))
+(S (NP (NP (JJS Most) (JJ adversarial) (NNS examples)) (SBAR (WHNP (WDT that)) (S (VP (VBP misclassify) (NP (NNS networks)))))) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ undetectable) (PP (IN by) (NP (NNS humans))))) (. .))

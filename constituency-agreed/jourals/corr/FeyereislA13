@@ -1,0 +1,2 @@
+(S (ADVP (RB Traditionally)) (NP (NP (JJ such) (NN fusion)) (PP (IN of) (NP (NN information)))) (VP (VBD was) (NP (NP (DT the) (NN domain)) (PP (IN of) (NP (JJ semi-supervised) (NN learning))))) (. .))
+(S (ADVP (RBR More) (RB recently)) (NP (NP (DT the) (NN inclusion)) (PP (IN of) (NP (NP (NN knowledge)) (PP (IN from) (NP (JJ separate) (JJ hypothetical) (NNS spaces)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (PP (IN by) (NP (NNP Vapnik))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (JJ supervised) (NN setting)))))))) (. .))

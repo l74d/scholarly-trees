@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS modes)) (VP (VBP are) (VP (VBN modeled) (PP (IN as) (NP (NP (NNS probabilities)) (SBAR (WHPP (IN by) (WHNP (WDT which))) (S (NP (NP (DT the) (NN receiver)) (CC and) (NP (DT the) (NN transmitter))) (VP (VBP are) (VP (VBN activated))))))))) (. .))

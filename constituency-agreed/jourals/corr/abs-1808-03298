@@ -1,0 +1,2 @@
+(S (NP (JJ Collaborative) (NN filtering)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN technique)) (PP (IN for) (NP (NN recommendation))))) (. .))
+(S (PP (IN In) (NP (DT each) (NN iteration))) (, ,) (NP (DT a) (JJ new) (NN filter)) (VP (VBZ is) (VP (VP (VBN derived) (PP (IN from) (NP (JJ re-weighted) (NNS entries)))) (CC and) (VP (VBN incorporated) (PP (IN into) (NP (DT the) (NN ensemble)))))) (. .))

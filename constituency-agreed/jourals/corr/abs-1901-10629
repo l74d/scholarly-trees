@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (S (NP (NN speech) (NNS signals)) (VP (VBP are) (VP (VBN used) (PP (IN as) (NP (NN input) (NNS data)))))) (CC and) (S (NP (PRP$ their) (NN noise)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (NN uncertainty)))))) (. .))

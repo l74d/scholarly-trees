@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN system))) (, ,) (NP (DT each) (NN client)) (ADVP (RB initially)) (VP (VBZ obtains) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (NNS packets))))) (. .))

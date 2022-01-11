@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS data)) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB have) (VP (VBN been) (VP (VBN generated) (PP (IN by) (NP (JJ arbitrary) (JJ unknown) (JJ stationary) (JJ ergodic) (NNS distributions)))))))))) (. .))
+(S (NP (DT The) (JJ theoretical) (NNS results)) (VP (VBP are) (VP (VBN complemented) (PP (IN with) (NP (JJ experimental) (NNS evaluations))))) (. .))

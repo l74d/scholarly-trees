@@ -1,0 +1,1 @@
+(S (NP (NNP Kernel) (NN alignment)) (VP (VBZ provides) (NP (NP (NN control)) (PP (IN over) (NP (NP (DT the) (JJ hidden) (NN representation)) (VP (VBN learned) (PP (IN by) (NP (DT the) (NN autoencoder)))))))) (. .))

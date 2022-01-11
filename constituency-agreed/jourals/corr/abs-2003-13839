@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN control)) (VP (VBZ combines) (NP (DT a) (JJ conventional) (NN control) (NN method)) (PP (IN with) (NP (JJ deep) (NN reinforcement) (NN learning)))) (. .))
+(S (PP (IN In) (NP (DT the) (VBN proposed) (NN control))) (, ,) (NP (DT a) (JJ nominal) (NN system)) (VP (VBZ is) (VP (VBN employed) (PP (IN for) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (DT a) (NN baseline) (NN control) (NN law))))) (S (VP (VBG using) (NP (DT a) (JJ conventional) (NN control) (NN approach)))))) (. .))

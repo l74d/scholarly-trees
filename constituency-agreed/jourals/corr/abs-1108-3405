@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB design) (NP (PDT such) (DT a) (JJ hybrid) (NN controller))))) (, ,) (NP (NP (DT a) (JJ spherical) (NN abstraction)) (PP (IN of) (NP (DT the) (NN state) (NN space)))) (VP (VBZ is) (VP (VBN proposed) (PP (IN as) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN of) (NP (NN abstraction))))))) (. .))
+(S (NP (DT This) (NN supervisor)) (VP (VBZ drives) (NP (DT the) (NNP UAV) (NNS dynamics)) (S (VP (TO to) (VP (VB satisfy) (NP (DT the) (NN design) (NNS requirements)))))) (. .))

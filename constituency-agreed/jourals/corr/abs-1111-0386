@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN mechanism)) (VP (VBZ does) (RB not) (VP (VB apply) (NP (DT any) (JJ cryptographic) (NNS primitives)) (PP (IN on) (NP (DT the) (NN routing) (NNS messages))))) (. .))

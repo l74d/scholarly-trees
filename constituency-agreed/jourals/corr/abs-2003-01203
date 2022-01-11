@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN analysis)) (PP (IN of) (NP (DT the) (JJ second) (JJ randomized) (NN algorithm)))) (VP (VBZ is) (ADJP (JJ valid)) (SBAR (RB even) (IN if) (S (NP (DT the) (NN scheduler)) (VP (VBZ is) (ADJP (JJ adversarial)))))) (. .))

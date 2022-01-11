@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (NN initialization) (NN method)) (PP (IN for) (NP (NP (JJ hidden) (NNS parameters)) (PP (IN in) (NP (DT a) (JJ neural) (NN network)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (S (VP (VBN Derived) (PP (IN from) (NP (NP (DT the) (JJ integral) (NN representation)) (PP (IN of) (NP (DT the) (JJ neural) (NN network))))))) (, ,) (NP (NP (DT a) (JJ nonparametric) (NN probability) (NN distribution)) (PP (IN of) (NP (JJ hidden) (NNS parameters)))) (VP (VBZ is) (VP (VBN introduced))) (. .))

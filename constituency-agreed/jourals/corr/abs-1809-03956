@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NN gap)) (PP (IN between) (NP (NP (JJ artificial) (NN intelligence)) (CC and) (NP (JJ human) (NN intelligence))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB learn) (NP (NN abstraction)) (ADVP (RB directly)))))) (. .))
+(S (NP (PRP We)) (VP (VBP tackle) (NP (NP (CD three) (JJ main) (NNS challenges)) (: :) (NP (NP (NN representation)) (, ,) (NP (JJ objective) (NN function)) (, ,) (CC and) (NP (VBG learning) (NN algorithm))))) (. .))

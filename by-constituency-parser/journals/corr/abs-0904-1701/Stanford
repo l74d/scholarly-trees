@@ -1,0 +1,5 @@
+(NP (NP (DT The) (NML (NN star) (NN height)) (NN hierarchy)) (-LRB- -LRB-) (NP (NN resp)) (. .))
+(PP (IN to) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (ADJP (JJ bound)) (NNS variables)) (-RRB- -RRB-)))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (, ,) (PP (IN under) (NP (DT some) (NNS assumptions))) (, ,) (SBAR (IN that) (S (NP (DT the) (JJ variable) (NN hierarchy)) (VP (VBZ is) (NP (NP (DT a) (JJ proper) (NN refinement)) (PP (IN of) (NP (DT the) (NN star) (NN height) (NN hierarchy)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP mean) (SBAR (IN that) (S (NP (NP (DT the) (ADJP (AFX non) (NN collapse))) (PP (IN of) (NP (DT the) (JJ variable) (NN hierarchy)))) (VP (VBZ implies) (NP (NP (DT the) (NML (INTJ (FW non))) (NN collapse)) (PP (IN of) (NP (DT the) (NN star) (NN height) (NN hierarchy)))))))) (. .))
+(S (NP (DT The) (NN proof)) (VP (VBZ relies) (PP (IN on) (NP (NP (DT the) (JJ combinatorial) (NN characterization)) (PP (IN of) (NP (DT the) (CD two) (NNS hierarchies)))))) (. .))

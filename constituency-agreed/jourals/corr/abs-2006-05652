@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP extract) (NP (NNS features)) (PP (IN from) (NP (DT each) (NN region)))) (. .))
+(S (NP (PRP We)) (VP (VBD used) (NP (CD three) (NN face) (NNS databases)) (PP (IN in) (NP (DT the) (NNS experiments)))) (. .))

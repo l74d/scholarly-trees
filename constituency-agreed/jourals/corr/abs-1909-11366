@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Trainable) (NN scaling) (NNS factors)) (PP (IN for) (NP (DT both) (NNS weights) (CC and) (NNS activations)))) (VP (VBP are) (VP (VBN introduced) (S (VP (TO to) (VP (VB increase) (NP (DT the) (NN value) (NN range))))))) (. .))

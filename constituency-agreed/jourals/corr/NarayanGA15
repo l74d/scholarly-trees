@@ -1,0 +1,1 @@
+(S (NP (NP (NN Nondeterminism)) (PP (IN in) (NP (NN scheduling)))) (VP (VBZ is) (NP (NP (DT the) (JJ cardinal) (NN reason)) (PP (IN for) (NP (NP (NN difficulty)) (PP (IN in) (S (VP (VBG proving) (NP (NP (NN correctness)) (PP (IN of) (NP (JJ concurrent) (NNS programs))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (VBG Jamming) (NNS attacks)) (VP (VBP target) (NP (DT a) (JJ wireless) (NN network)) (S (VP (VBG creating) (NP (NP (DT an) (JJ unwanted) (NN denial)) (PP (IN of) (NP (NN service))))))) (. .))
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT these) (NNS techniques)))) (VP (VBP are) (ADJP (JJ inefficient) (PP (IN in) (S (VP (VBG detecting) (NP (JJ smart) (NNS jammers))))))) (. .))

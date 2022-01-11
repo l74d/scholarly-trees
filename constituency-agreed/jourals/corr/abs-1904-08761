@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ runs) (NP (DT a) (NN particle) (NN filter)) (PP (IN on) (NP (NP (DT the) (NN time) (NN sequence)) (PP (IN of) (NP (DT the) (NN experience)))))))))) (. .))
+(S (PP (IN In) (NP (DT a) (NN task))) (, ,) (S (NP (DT the) (NN trainer)) (VP (VBZ controls) (NP (DT a) (NN robot)))) (, ,) (CC and) (S (NP (DT the) (NN robot)) (VP (VBZ records) (NP (NP (PRP$ its) (NN sensor) (NNS readings)) (CC and) (NP (PRP$ its) (NNS actions))))) (. .))

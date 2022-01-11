@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NN tobacco) (NNS users)) (VP (VBP discuss) (NP (PRP$ their) (NNS habits) (CC and) (NNS preferences)) (PP (IN on) (NP (JJ social) (NNS media)))) (. .))
+(S (NP (JJ Experimental) (NN evaluation)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (PRP$ our) (NN system)) (VP (MD would) (VP (VB perform) (ADVP (RB well)) (SBAR (IN if) (S (VP (VBN deployed))))))))) (. .))

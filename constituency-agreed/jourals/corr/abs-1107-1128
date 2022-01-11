@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (JJ enumerative)))) (, ,) (CC but) (S (NP (NP (JJ sufficient) (NN pruning)) (PP (IN of) (NP (DT the) (NN pattern) (NN search) (NN space)))) (VP (VBZ has) (VP (VBN been) (VP (VBN incorporated) (S (VP (VBG using) (NP (JJ immune) (NN system) (NNS concepts)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN note)) (VP (VBZ presents) (NP (NP (DT a) (VBN modified) (NN protocol)) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ achieves) (NP (NP (NN robustness)) (PP (IN against) (NP (DT a) (ADJP (RB fully) (JJ malicious)) (NN user))))) (, ,) (CC and) (VP (VBZ establishes) (NP (DT some) (JJ simple) (NN security) (NNS properties)))))))) (. .))

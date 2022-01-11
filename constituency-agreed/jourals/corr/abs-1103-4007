@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (DT each)) (PP (IN of) (NP (CD two) (NNS encoders)))) (VP (VBZ obtains) (NP (NP (DT a) (JJ deterministic) (NN function)) (PP (IN of) (NP (DT the) (JJ other) (NN encoder) (NN output)))) (PP (IN with) (CC or) (IN without) (NP (NN delay))))))) (. .))

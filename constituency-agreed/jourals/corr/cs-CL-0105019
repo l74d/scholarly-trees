@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ new) (NN language) (NN model)) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (DT the) (NN parser)))))))) (VP (VBZ is) (ADVP (RB then)) (VP (VBN defined))) (. .))

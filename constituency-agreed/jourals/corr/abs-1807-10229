@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NNP Markov) (NN chain)) (S (VP (TO to) (VP (VB model) (NP (NP (NNS constraints)) (PP (IN of) (NP (DT the) (NN optimization) (NN problem)))))))) (. .))

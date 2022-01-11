@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (PRP he)) (VP (MD can) (VP (VB infer) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ specific) (NN person)) (ADVP (JJ first)) (VP (VBZ appears) (PP (IN in) (NP (NP (DT the) (NNS photos)) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT a) (JJ binary) (NN gender) (NN classifier))))))))))))) (. .))

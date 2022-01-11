@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some) (NNS symbols)) (PP (IN in) (NP (DT the) (NNS strings)))) (VP (MD may) (VP (VB be) (VP (VBN interpreted) (PP (IN as) (NP (NP (NNS instructions)) (PP (IN for) (NP (NN simulation) (NN software)))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (NN sequence)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB model) (NP (NP (DT the) (NNS steps)) (PP (IN of) (NP (DT a) (NN process)))))))))) (. .))

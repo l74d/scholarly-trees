@@ -1,0 +1,2 @@
+(S (NP (JJ Grainy) (NNS numbers)) (VP (VBP are) (VP (VBN defined) (PP (IN as) (NP (NP (NNS tuples)) (PP (IN of) (NP (NNS bits))))))) (. .))
+(S (NP (PRP They)) (VP (MD may) (VP (VB be) (VP (VBN substituted) (PP (IN for) (NP (NP (DT the) (JJ real) (NNS numbers)) (PP (IN in) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (JJ fuzzy) (NNS sets)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT These) (NNS algorithms)) (ADVP (RB usually)) (VP (VBP assume) (NP (JJ generic) (NNS environments)))) (, ,) (CC but) (S (NP (JJR tighter) (NN approximation) (NNS bounds)) (VP (MD can) (VP (VB be) (VP (VBN reached) (S (VP (VBG focusing) (PP (IN on) (NP (JJ specific) (NNS environments))))))))) (. .))

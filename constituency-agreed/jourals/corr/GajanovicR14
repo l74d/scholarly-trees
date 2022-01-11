@@ -1,0 +1,1 @@
+(S (NP (NNS Components)) (VP (VBP send) (CC and) (VBP receive) (NP (JJ asynchronous) (NNS messages)) (PP (IN via) (NP (DT these) (NNS channels)))) (. .))

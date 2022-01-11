@@ -1,0 +1,3 @@
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP$ our) (NNS brains)) (VP (ADVP (RB robustly)) (VBP recognize) (NP (NNS characters)))) (. ?))
+(S (PP (IN In) (NP (NP (DT the) (JJ visual) (NN processing)) (PP (IN in) (NP (PRP$ our) (NN brain))))) (, ,) (NP (NP (JJ essential) (NNS features)) (PP (IN of) (NP (DT an) (NN object)))) (VP (MD will) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN recognition)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (NN extraction)) (PP (IN of) (NP (DT the) (NNS features)))) (VP (VBZ is) (ADJP (JJ difficult))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (PP (IN under) (NP (PRP$ our) (NN framework))) (, ,) (NP (JJ many) (NN regularization) (NNS terms)) (VP (MD can) (VP (VB bring) (NP (NP (NN multi-modality) (CC and) (NN sparsity)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (RB potentially) (JJ useful) (PP (IN in) (NP (NN reinforcement) (NN learning)))))))))) (. .))

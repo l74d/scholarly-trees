@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (NNP PARIS)) (, ,) (NP (NP (DT an) (NN approach)) (PP (IN for) (NP (NP (DT the) (JJ automatic) (NN alignment)) (PP (IN of) (NP (NNS ontologies)))))))) (. .))
+(S (NP (NNP PARIS)) (VP (VBZ aligns) (NP (CONJP (RB not) (RB only)) (NP (NNS instances)) (, ,) (CONJP (CC but) (RB also)) (NP (NNS relations) (CC and) (NNS classes)))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (NNP PARIS)) (VP (TO to) (VP (VB run) (PP (IN without) (NP (DT any) (NN parameter) (NN tuning))))))) (. .))

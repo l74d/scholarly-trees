@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP say) (SBAR (IN that) (S (NP (DT a) (NN digraph)) (VP (VBZ is) (ADJP (RB essentially) (JJ cyclic)) (SBAR (IN if) (S (NP (PRP$ its) (JJ Laplacian) (NN spectrum)) (VP (VBZ is) (RB not) (ADJP (RB completely) (JJ real))))))))) (. .))
+(S (NP (NP (DT The) (JJ main) (JJ technical) (NN tool)) (SBAR (S (NP (PRP we)) (VP (VBP employ))))) (VP (VBZ is) (NP (NP (DT the) (NNP Chebyshev) (NNS polynomials)) (PP (IN of) (NP (DT the) (JJ second) (NN kind))))) (. .))

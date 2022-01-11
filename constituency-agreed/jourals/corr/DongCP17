@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ layer-wise) (NN pruning) (NN method)) (PP (IN for) (NP (JJ deep) (JJ neural) (NNS networks))))) (. .))

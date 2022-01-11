@@ -1,0 +1,2 @@
+(S (NP (JJ Cross-view) (NN image) (NN generation)) (VP (VBZ has) (VP (VBN been) (ADVP (RB recently)) (VP (VBN proposed) (S (VP (TO to) (VP (VB generate) (NP (NP (NNS images)) (PP (IN of) (NP (CD one) (NN view)))) (PP (IN from) (NP (DT another) (ADJP (RB dramatically) (JJ different)) (NN view))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (S (VP (VBG transforming) (NP (DT the) (NNS appearances)) (PP (IN across) (NP (DT the) (CD two) (NNS views))))) (VP (VBZ is) (NP (DT a) (JJ non-trivial) (NN task))) (. .))

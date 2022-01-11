@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB test) (NP (DT this) (NN framework))))) (NP (PRP we)) (VP (VBP build) (NP (NP (DT an) (JJ initial) (, ,) (JJ naive) (NN implementation)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP use) (S (VP (TO to) (VP (VB interrogate) (NP (NP (DT the) (NNS assumptions)) (PP (IN of) (NP (DT the) (NN framework)))))))))))) (. .))

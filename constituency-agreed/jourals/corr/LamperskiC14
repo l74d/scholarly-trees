@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT the) (JJ linear) (JJ quadratic) (NN case))) (, ,) (NP (DT the) (JJ optimal) (NN controller)) (VP (VP (VBZ is) (ADJP (JJ linear))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN from) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT the) (JJ classical) (NNP Riccati) (JJ differential) (NN equation))))))))) (. .))

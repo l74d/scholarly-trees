@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN facelift)) (VP (MD can) (VP (VB be) (VP (VBN approximated) (PP (IN by) (NP (NP (DT an) (NN optimization) (NN problem)) (PP (IN over) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ neural) (NNS networks))))))) (PP (IN under) (NP (NP (NNS constraints)) (PP (IN on) (NP (NP (DT the) (JJ neural) (NN network)) (CC and) (NP (PRP$ its) (NN derivative)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP end) (PP (IN by) (NP (JJ numerical) (NNS experiments)))) (. .))

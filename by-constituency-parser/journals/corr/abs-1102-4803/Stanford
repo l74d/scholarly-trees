@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (ADJP (JJ novel) (JJ probabilistic)) (NN method)) (PP (IN for) (NP (NP (NN detection)) (PP (IN of) (NP (NP (NNS objects)) (PP (IN in) (NP (JJ noisy) (NNS images))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ uses) (NP (NNS results)) (PP (IN from) (NP (NP (NN percolation)) (CC and) (NP (JJ random) (NN graph) (NNS theories))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (VP (TO to) (VP (VB detect) (NP (NP (NNS objects)) (PP (IN of) (NP (JJ unknown) (NNS shapes)))) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ random) (NN noise))))))))))))) (. .))
+(S (NP (PRP$ Our) (NN procedure)) (ADVP (RB substantially)) (VP (VBZ differs) (PP (IN from) (NP (NP (NP (NNS wavelets)) (HYPH -) (VP (VBN based))) (NP (NNS algorithms))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ has) (NP (UCP (NP (JJ linear) (NN complexity)) (CC and) (ADJP (JJ exponential))) (NN accuracy))) (CC and) (VP (VBZ is) (ADJP (JJ appropriate) (PP (IN for) (NP (NML (JJ real) (HYPH -) (NN time)) (NNS systems)))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (NP (NNS results)) (PP (IN on) (NP (NN consistency)))) (CC and) (NP (NP (JJ algorithmic) (NN complexity)) (PP (IN of) (NP (PRP$ our) (NN procedure)))))) (. .))

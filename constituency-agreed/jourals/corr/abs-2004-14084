@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN motivation)) (PP (IN of) (NP (DT the) (NN synchronization) (NN mechanism)))) (VP (VBZ is) (S (VP (TO to) (VP (VB solve) (NP (DT a) (JJ theoretical) (NN problem)))))) (. .))
+(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (PRP we)) (VP (VBP want) (S (VP (TO to) (VP (VB avoid) (NP (NN synchronization)))))) (. .))

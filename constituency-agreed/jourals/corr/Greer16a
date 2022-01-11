@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NNS tests)))) (VP (VBP have) (VP (VBN demonstrated) (NP (NP (DT the) (NN soundness)) (PP (IN of) (NP (DT the) (NN architecture)))))) (. .))
+(S (S (VP (VBG Building) (NP (DT the) (NNS trees)) (PP (IN from) (NP (NN text) (NNS documents))))) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN tree) (NN structure)) (VP (MD could) (VP (VB be) (ADJP (JJ inherent) (PP (IN in) (NP (JJ natural) (NN language))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NP (CD two) (NNS types)) (PP (IN of) (NP (NN query) (NN language)))) (VP (VBP are) (VP (VBN described))) (. .))

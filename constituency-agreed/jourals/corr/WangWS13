@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN motivated) (PP (IN by) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG integrating) (NP (NP (JJ multiple) (NNS sources)) (PP (IN of) (NP (NNS measurements))))))))))) (. .))
+(S (NP (DT An) (JJ analytical) (NN solution)) (VP (VBZ is) (VP (VBN provided) (PP (IN in) (NP (DT a) (JJ special) (NN case))))) (. .))

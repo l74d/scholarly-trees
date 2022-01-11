@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ quadratic) (NN sieve) (NN algorithm)) (VP (VBZ is) (VP (VP (VBN split) (PP (IN into) (NP (DT the) (JJ different) (NNP MapReduce) (NNS phases)))) (CC and) (VP (VBN compared) (PP (IN against) (NP (DT a) (JJ standard) (NN implementation)))))) (. .))

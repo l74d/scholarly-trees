@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (VBG existing) (NNS methods)))) (VP (VBP fail) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NNS categories)) (PP (IN of) (NP (NN query) (NNS sketches)))) (VP (VBP have) (ADVP (RB never)) (VP (VBN been) (VP (VBN seen) (PP (IN during) (NP (NN training))))))))) (. .))

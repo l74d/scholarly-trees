@@ -1,0 +1,1 @@
+(S (NP (JJ Previous) (NNS attempts)) (VP (VBP have) (VP (VBN been) (VP (VBN made) (S (VP (TO to) (VP (VB use) (NP (JJ unlabeled) (NNS data)) (S (VP (TO to) (VP (VB improve) (NP (NN model) (NN performance)) (PP (IN by) (S (VP (VBG applying) (NP (JJ unsupervised) (NNS techniques)))))))))))))) (. .))

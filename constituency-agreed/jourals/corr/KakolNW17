@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ crucial) (NNS resources)) (PP (IN in) (NP (NN knowledge) (NN economy)))))) (VP (VBZ is) (NP (NN time))) (. .))
+(S (NP (NP (DT A) (JJ multi-agent) (NN model)) (PP (IN with) (NP (DT an) (VBG evolving) (JJ social) (NN network)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB verify) (NP (PRP$ our) (NNS hypotheses))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (VBN Interconnected) (NN power) (NN grid)) (VP (VBZ exhibits) (NP (JJ oscillatory) (NN response)) (PP (IN after) (NP (NP (DT a) (NN disturbance)) (PP (IN in) (NP (DT the) (NN system)))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT the) (NNP MIMO) (NN transfer) (NN function)))) (NP (NP (DT the) (JJ optimal) (NN control) (NN loop)) (PP (IN for) (NP (NNP WADC)))) (VP (VBZ is) (VP (VBN estimated))) (. .))

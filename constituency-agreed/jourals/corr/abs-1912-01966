@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (NP (DT the) (NN labeling) (NNS procedures)) (ADVP (RB often)) (VP (VBP seem) (S (VP (TO to) (VP (VB be) (ADJP (JJ inaccurate))))))) (CC and) (S (NP (JJ many) (JJ wrong) (NNS labels)) (VP (VBP are) (VP (VBN integrated)))) (. .))
+(S (NP (DT This)) (VP (MD may) (VP (VB have) (NP (NP (JJ fatal) (NNS consequences)) (PP (IN on) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT both) (NN training) (CC and) (NN evaluation)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB find) (NP (DT those) (JJ optimal) (NNS parameters))))) (, ,) (NP (DT the) (NN problem)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (NP (CD two) (NNS sub-problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN solved) (ADVP (RB iteratively)))))))))) (. .))

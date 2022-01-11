@@ -1,0 +1,1 @@
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (NP (DT the) (NN literature)) (PP (IN on) (NP (JJ differential) (NN privacy))))))) (, ,) (NP (DT the) (NNS measurements)) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (VP (VBN corrupted) (PP (IN by) (NP (NNP Laplace) (NN noise))))))))) (. .))

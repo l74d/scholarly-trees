@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN thesis)) (VP (VBZ aims) (S (VP (TO to) (VP (VB use) (NP (JJ intelligent) (NNS systems)) (S (VP (TO to) (VP (VB extend) (CC and) (VB improve) (NP (NP (NN performance) (CC and) (NN security)) (PP (IN of) (NP (JJ cryptographic) (NNS techniques))))))))))) (. .))
+(S (S (NP (DT A) (JJ complete) (NN cipher) (NN structure)) (VP (VBZ is) (VP (VBN given)))) (CC and) (S (NP (DT a) (JJ key) (NN scheduling)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown)))) (. .))

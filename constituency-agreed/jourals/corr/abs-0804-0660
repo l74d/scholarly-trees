@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN embedding)) (VP (VBZ passes) (PP (IN through) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (NP (DT a) (NN subsystem)) (PP (IN of) (NP (NNP SRN)))))))) (. .))
+(S (PP (IN On) (NP (CD one) (NN side))) (, ,) (NP (DT this)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NNP SRN)) (, ,) (PP (IN in) (NP (NN fact))) (, ,) (VP (MD can) (VP (VB be) (VP (VBN redefined) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (ADJP (RBR more) (JJ primitive)) (NNS constructs))))))))))) (. .))

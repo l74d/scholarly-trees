@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (NP (NNS parameters)) (PP (IN of) (NP (DT the) (NN range)))) (VP (VP (VBP are) (ADJP (JJ independent) (PP (IN of) (NP (DT any) (JJ additional) (NN input))))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ local) (NN intensity) (NNS values)))))))) (, ,) (ADVP (RB hence)) (NP (DT the) (NN approach)) (VP (VBZ is) (ADJP (JJ adaptive))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ temporal) (NN coverability)) (PP (IN for) (NP (NN realizability) (CC and) (NN synthesis))))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS issues)) (PP (IN with) (NP (JJ practical) (NN realizability)))))) (VP (VBZ is) (NP (NP (DT the) (NN interaction)) (PP (IN between) (NP (NP (NN environment) (NNS assumptions)) (CC and) (NP (NN system) (NNS guarantees)))))) (. .))

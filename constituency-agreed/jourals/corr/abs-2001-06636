@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT both) (NNS quantities)) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (PP (IN by) (S (VP (VBG solving) (NP (DT a) (JJ specific) (JJ optimal) (NN control) (NN problem))))) (CC and) (PP (IN by) (S (VP (VBG considering) (NP (RB only) (JJ periodic) (NNS inputs))))))))) (. .))

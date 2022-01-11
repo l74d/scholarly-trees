@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (DT a) (NN solution)) (PP (IN for) (NP (DT the) (NN downlink)))) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (S (VP (VBG solving) (NP (DT the) (NN uplink) (NN problem))))))) (. .))

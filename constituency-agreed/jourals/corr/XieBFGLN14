@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB make) (NP (DT an) (NN inference)) (S (VP (VBG using) (NP (DT the) (NN model)))) (, ,) (PP (IN without) (S (VP (VBG jeopardizing) (NP (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (NN prediction)))) (CC or) (NP (NP (DT the) (NN privacy)) (PP (IN of) (NP (DT the) (NNS data)))))))))))) (. .))

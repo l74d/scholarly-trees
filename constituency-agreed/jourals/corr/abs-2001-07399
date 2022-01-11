@@ -1,0 +1,1 @@
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN approach)) (VP (MD can) (VP (VB detect) (NP (JJ semantic) (NNS clones)) (PP (IN in) (NP (NP (DT the) (JJ complete) (NN absence)) (PP (IN of) (NP (JJ syntactic) (NN similarity))))) (PP (IN with) (NP (NP (JJ high) (NN precision)) (CC and) (NP (JJ low) (NN error) (NNS rates))))))))) (. .))

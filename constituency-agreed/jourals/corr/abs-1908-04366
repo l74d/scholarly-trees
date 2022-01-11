@@ -1,0 +1,4 @@
+(NP (NNS Objectives) (. .))
+(NP (NNS Methods) (. .))
+(S (NP (JJ Other) (NNS fields)) (VP (VBP use) (NP (JJ observational) (NNS studies)) (PP (IN for) (S (VP (VBG proving) (NP (NN causality)))))) (. .))
+(NP (NN Conclusion) (. .))

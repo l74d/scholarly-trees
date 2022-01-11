@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NP (DT a) (JJ general) (NN construction)) (PP (IN of) (NP (NN verdict) (NNS functions)))) (CC and) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN verification) (NNS conditions)) (SBAR (WHNP (WDT which)) (S (VP (VBP achieve) (NP (NN soundness) (CC and) (NN completeness)))))))))) (. .))

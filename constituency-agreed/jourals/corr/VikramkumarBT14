@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ statistical) (NN classification))) (NP (DT the) (NNP Bayes) (NN classifier)) (VP (VBZ minimises) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NN misclassification))))) (. .))

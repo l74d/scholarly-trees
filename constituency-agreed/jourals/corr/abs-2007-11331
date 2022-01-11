@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN revenue) (NN maximization) (NN problem)) (PP (IN of) (NP (NP (DT a) (NN publisher)) (VP (VBG selling) (NP (NN consumer) (NN software))))))) (. .))
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT the) (NN publisher)) (VP (VBZ sells) (NP (CC either) (NP (JJ traditional) (JJ perpetual) (NNS licenses)) (, ,) (NP (NN subscription) (NNS licenses)) (, ,) (CC or) (NP (DT both))))))) (. .))

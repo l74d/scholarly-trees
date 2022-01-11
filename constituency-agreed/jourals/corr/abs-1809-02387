@@ -1,0 +1,2 @@
+(S (NP (JJ Deep) (NN reinforcement) (NN learning)) (VP (VBZ has) (VP (VBN obtained) (NP (JJ significant) (NNS breakthroughs)) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (NP (JJ Such) (NN reward) (NNS signals)) (VP (VBP represent) (NP (NP (DT the) (JJ immediate) (NN feedback)) (PP (IN of) (NP (NP (DT a) (JJ particular) (NN action)) (VP (VBN performed) (PP (IN by) (NP (DT an) (NN agent)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (JJ geometric) (NN method)) (VP (VBG using) (NP (NP (JJ adaptive) (NNS estimates)) (PP (IN of) (NP (JJ local) (NNP Lipschitz) (NNS constants)))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (DT The) (NNS estimates)) (VP (VBP are) (VP (VBN calculated) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (JJ local) (NN tuning) (NN technique)) (VP (VBN proposed) (ADVP (RB recently))))))))) (. .))

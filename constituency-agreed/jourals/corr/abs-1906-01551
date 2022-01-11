@@ -1,0 +1,2 @@
+(S (NP (JJ Visual) (NN object) (NN tracking)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS challenges)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN computer) (NN vision))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP supervise) (NP (NP (DT the) (NN detection) (NN stage)) (PP (IN of) (NP (NNP DCF) (NNS trackers)))) (PP (IN by) (S (VP (VBG eliminating) (NP (JJ false) (NNS positives)) (PP (IN in) (NP (DT the) (NN convolution) (NN response) (NN map))))))) (. .))

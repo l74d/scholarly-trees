@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG using) (NP (NNS morphisms))))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NN composition)) (VP (VBZ preserves) (NP (NP (NN soundness)) (PP (IN of) (NP (NNS components)))))))) (. .))
+(S (NP (DT A) (NN quality) (NN evaluation)) (VP (VBZ shows) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (NP (NNS models)) (VP (VBN discovered) (PP (IN by) (NP (DT the) (VBN proposed) (NN approach)))))))))) (. .))

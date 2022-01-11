@@ -1,0 +1,2 @@
+(S (S (VP (VBG Combining) (NP (DT all) (NN candidate) (NNS images)))) (, ,) (NP (DT a) (NN background) (NN image)) (VP (VBZ is) (VP (VBN produced))) (. .))
+(S (NP (NP (DT The) (NN background) (NN candidate) (NNS masks)) (, ,) (NP (NN candidate) (NNS images)) (, ,) (CC and) (NP (DT the) (NN background) (NN image))) (VP (VBP are) (ADVP (RB then)) (VP (VBN updated) (ADVP (RB alternately)) (PP (IN until) (NP (NN convergence))))) (. .))

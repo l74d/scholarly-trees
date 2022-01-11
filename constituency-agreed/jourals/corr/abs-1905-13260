@@ -1,0 +1,1 @@
+(S (S (VP (VBG Distinguishing) (PP (IN between) (NP (NP (DT an) (VBG increasing) (NN number)) (PP (IN of) (NP (ADJP (RB visually) (JJ similar)) (NNS classes))))))) (VP (VBZ is) (ADJP (RB particularly) (JJ challenging)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN training) (NNS data)) (VP (VBZ is) (ADJP (JJ unbalanced)))))) (. .))

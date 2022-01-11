@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PRP$ our) (NN work))) (NP (PRP we)) (VP (VBP define) (NP (NP (DT a) (JJ new) (NN algebra)) (PP (IN of) (NP (NNS operators)))) (PP (IN as) (NP (NP (DT a) (NN substitute)) (PP (IN for) (NP (JJ fuzzy) (NN logic)))))) (. .))
+(S (NP (PRP$ Its) (JJ primary) (NN purpose)) (VP (VBZ is) (PP (IN for) (NP (NP (NN construction)) (PP (IN of) (NP (NP (JJ binary) (NNS discriminators)) (PP (IN for) (NP (NNS phonemes))) (VP (VBN based) (PP (IN on) (NP (JJ spectral) (NN content))))))))) (. .))

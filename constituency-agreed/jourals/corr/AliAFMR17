@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Different) (NNS kinds)) (PP (IN of) (NP (NNS analytics)))) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB extract) (NP (JJ useful) (NN information)) (PP (IN from) (NP (DT this) (JJ raw) (NN data)))))))) (. .))
+(S (NP (DT These) (NNS techniques)) (VP (VBP require) (NP (NP (JJ appropriate) (NN selection)) (PP (IN of) (NP (NP (NNS attributes)) (PP (IN of) (NP (NNS data)))))) (PP (IN for) (S (VP (VBG getting) (NP (JJ accurate) (NNS results)))))) (. .))

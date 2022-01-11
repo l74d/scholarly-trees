@@ -1,0 +1,3 @@
+(S (PP (IN By) (NP (NN contrast))) (, ,) (NP (NP (DT the) (NN assistance) (CC and) (NN consensus)) (PP (IN among) (NP (JJ different) (NNS features)))) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN video) (NN fingerprinting)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN video) (NN fingerprint)) (VP (VBZ is) (VP (VBN computed) (S (VP (VBG using) (NP (DT this) (NN feature)))))) (. .))
+(S (NP (NP (DT A) (NN matching) (NN strategy)) (VP (VBN used) (PP (IN for) (S (VP (VBG narrowing) (NP (DT the) (NN search))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN proposed) (PP (VBN based) (PP (IN on) (NP (DT the) (NN core) (NN tensor)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ is) (ADJP (ADJP (RB considerably) (RBR more) (JJ complicated)) (PP (IN than) (NP (NP (JJ previous) (NNS studies)) (PP (IN on) (NP (NP (NN covariance) (NN control)) (PP (IN for) (NP (JJ linear) (NNS systems))))))))) (. .))
+(S (NP (JJ Several) (NNS examples)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN framework))))))))) (. .))

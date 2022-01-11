@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP find) (NP (NP (DT a) (ADJP (RB statistically) (JJ significant)) (NN reduction)) (PP (IN in) (NP (NN entropy)))) (SBAR (WHADVP (WRB when)) (S (VP (VBG modeling) (NP (NP (DT a) (NN word) (NN form)) (VP (VBN conditioned) (PP (IN on) (NP (PRP$ its) (JJ semantic) (NN representation))))))))) (. .))

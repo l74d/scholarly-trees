@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (DT the) (JJ optimal) (NNS edges))))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (NNS heuristics)) (SBAR (WHNP (WDT that)) (S (VP (VBP exploit) (NP (NP (NNS properties)) (PP (IN of) (NP (DT this) (NN data) (NN structure))))))))))) (. .))

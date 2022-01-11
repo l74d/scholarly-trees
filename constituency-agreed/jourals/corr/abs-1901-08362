@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB detect) (NP (JJ salient) (NNS objects)) (ADVP (RB accurately))))) (, ,) (NP (VBG existing) (NNS methods)) (ADVP (RB usually)) (VP (VBP design) (NP (JJ complex) (NN backbone) (NN network) (NNS architectures)) (S (VP (TO to) (VP (VB learn) (CC and) (VB fuse) (NP (JJ powerful) (NNS features)))))) (. .))

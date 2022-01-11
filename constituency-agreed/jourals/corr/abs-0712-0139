@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ direct) (NN definition)) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (NP (DT a) (JJ deterministic) (JJ finite) (NN automaton)) (PP (IN with) (NP (NN output))))))) (. .))
+(S (PP (IN In) (ADJP (JJ short))) (, ,) (NP (DT the) (NN sequence)) (VP (VBZ is) (ADJP (JJ automatic))) (. .))

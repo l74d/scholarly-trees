@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VP (VBN abstracted) (PP (IN from) (NP (JJ raw) (NNS measurements)))) (, ,) (VP (VBN generated) (ADVP (RB procedurally))) (, ,) (CC or) (VP (VBN created) (ADVP (RB manually)))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (DT the) (NN user)) (PP (IN with) (NP (NP (JJ direct) (NN control)) (PP (IN over) (NP (NP (DT the) (NN variability)) (PP (IN of) (NP (DT the) (NN output)))))))) (. .))

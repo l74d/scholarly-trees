@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ key) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB learn) (NP (NP (DT the) (NN user) (POS 's)) (NNS preferences)) (PP (IN by) (S (VP (VBG drawing) (NP (DT the) (NN evidence)) (PP (IN from) (NP (NNP OLAP) (NNS logs)))))))))) (. .))

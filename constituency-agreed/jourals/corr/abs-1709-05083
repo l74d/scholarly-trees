@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (PDT all) (DT the) (NNS subproblems)) (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB exactly))))))) (, ,) (NP (DT the) (VBN proposed) (NN optimization) (NN algorithm)) (VP (VBZ is) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (JJ optimal) (NN solution))))))) (. .))

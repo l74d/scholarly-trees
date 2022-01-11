@@ -1,0 +1,1 @@
+(S (ADVP (RB Likewise)) (, ,) (NP (NP (JJ computational) (NNS problems)) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (RB algorithmically) (JJ uncomputable))))))) (VP (VBP do) (RB not) (VP (VB seem) (S (VP (TO to) (VP (VB be) (ADJP (JJ computable) (PP (IN by) (NP (DT any) (JJ physical) (NNS means))))))))) (. .))

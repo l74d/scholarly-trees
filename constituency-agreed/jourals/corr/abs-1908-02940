@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN calculus)) (VP (VBZ includes) (NP (NP (NN linearity)) (, ,) (NP (NN recursion)) (, ,) (CC and) (NP (NP (JJ recursive) (NNS sessions)) (PP (IN with) (NP (NN subtyping)))))) (. .))
+(S (NP (JJ Asynchronous) (NN communication)) (VP (VBZ is) (VP (VBN modeled) (PP (IN with) (NP (DT an) (NN encoding))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT Some) (JJ numerical) (NNS experiments)) (SBAR (WHNP (WDT that)) (S (VP (VBP compare) (NP (NP (NN behavior)) (PP (IN of) (NP (NP (DT the) (NNP Bareiss) (NN algorithm)) (CC and) (NP (DT the) (NNP Levinson) (NN algorithm))))))))) (VP (VBP are) (VP (VBN presented))) (. .))

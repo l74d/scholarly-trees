@@ -1,0 +1,2 @@
+(S (NP (NNS Machines)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB communicate) (ADVP (RB widely) (CC and) (RB efficiently))))))) (. .))
+(S (NP (NNS Machines)) (VP (VBP do) (RB not) (VP (VB need) (NP (NP (DT these) (NNS kinds)) (PP (IN of) (NP (NNS conditions)))))) (. .))

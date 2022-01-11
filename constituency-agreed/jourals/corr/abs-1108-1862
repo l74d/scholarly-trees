@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Reo) (NN coordination) (NN language)) (VP (VBZ is) (NP (NP (DT an) (JJ extensible) (NN notation)) (PP (IN for) (NP (NP (JJ formal) (NN modeling) (CC and) (NN execution)) (PP (IN of) (NP (NN service) (NNS compositions))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NNS channels)) (VP (VBP are) (VP (VBN composed) (ADVP (RB together)) (S (VP (TO to) (VP (VB realize) (NP (ADJP (RB arbitrarily) (JJ complex)) (JJ behavioral) (NNS protocols))))))) (. .))

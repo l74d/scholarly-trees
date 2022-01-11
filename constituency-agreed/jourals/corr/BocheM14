@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (SBAR (IN if) (S (NP (ADJP (RBR more) (JJ general)) (NN measurement) (NNS functionals)) (VP (VBP are) (VP (VBN considered))))) (, ,) (NP (DT a) (JJ stable) (NN approximation)) (VP (VBZ is) (ADJP (JJ possible)) (SBAR (IN if) (S (NP (NN oversampling)) (VP (VBZ is) (VP (VBN used)))))) (. .))

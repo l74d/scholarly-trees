@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ raises) (NP (NP (DT the) (NN security) (NN problem)) (PP (IN of) (NP (NN overprivilege))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (NP (CD 16,343) (JJ popular) (NNS apps)) (VP (VBN collected) (PP (IN from) (NP (NNP Google) (NNP Play)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS targets)) (VP (MD may) (VP (VB be) (NP (NP (NP (NNS survivors)) (PP (IN of) (NP (DT some) (JJ natural) (NN disaster)))) (, ,) (CC or) (NP (NP (NNS prisoners)) (VP (VBN held) (PP (IN by) (NP (DT an) (NN adversary)))))))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (NN search)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (NP (DT the) (NN probability)) (PP (IN of) (S (VP (VBG recovering) (NP (PDT all) (DT the) (NNS targets)))))))))))))) (. .))

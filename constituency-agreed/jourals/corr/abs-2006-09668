@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (JJ finite) (JJ stochastic) (JJ partial) (NN monitoring)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (JJ general) (NN model)) (PP (IN for) (NP (NP (JJ sequential) (NN learning)) (PP (IN with) (NP (JJ limited) (NN feedback))))))))))) (. .))

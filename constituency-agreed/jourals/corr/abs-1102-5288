@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NNS methods)))) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN for) (NP (DT this) (NN recovery) (NN problem)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT a) (JJ principled) (NN method)) (PP (IN for) (S (VP (VBG choosing) (NP (DT the) (JJ unknown) (NN target) (NN rank)))))) (VP (VBZ is) (ADVP (RB generally)) (RB not) (VP (VBN provided))) (. .))

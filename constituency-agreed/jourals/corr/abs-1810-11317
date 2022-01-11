@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (PP (IN from) (NP (DT an) (JJ imbalanced) (NN dataset))))) (VP (VBZ is) (NP (DT a) (JJ tricky) (NN proposition))) (. .))
+(S (NP (JJ Conventional) (NNS classifiers)) (ADVP (RB usually)) (VP (VBP aim) (S (VP (TO to) (VP (VB optimize) (NP (DT the) (JJ overall) (NN accuracy)) (PP (IN without) (S (VP (VBG considering) (NP (NP (DT the) (JJ relative) (NN distribution)) (PP (IN of) (NP (DT each) (NN class))))))))))) (. .))

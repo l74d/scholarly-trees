@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (VBG crowdsourcing) (NN part)) (PP (IN of) (NP (DT the) (NN detection) (NN mechanism)))) (VP (VBZ is) (VP (VBN implemented) (ADVP (RB implicitly)) (, ,) (PP (IN by) (S (ADVP (RB simply)) (VP (VBG observing) (NP (NP (DT the) (JJ natural) (NN interaction)) (PP (IN between) (NP (NP (NNS users)) (VP (VBG encountering) (NP (DT the) (NNS messages))))))))))) (. .))

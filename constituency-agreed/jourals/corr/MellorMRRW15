@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN model)) (ADVP (RB also)) (VP (VBZ incorporates) (NP (NNS ignorants) (, ,) (NNS susceptibles) (, ,) (CC and) (NNS adopters))) (. .))
+(S (NP (NP (DT The) (NN evolution)) (PP (IN of) (NP (DT this) (NN system)))) (VP (VBZ is) (VP (VBN investigated) (UCP (ADVP (RB analytically)) (CC and) (PP (IN by) (NP (JJ stochastic) (NNS simulations)))))) (. .))

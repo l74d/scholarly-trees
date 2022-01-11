@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (JJ tight) (NNS bounds)) (PP (IN for) (NP (NP (JJ regular) (NNS caterpillars)) (CC and) (NP (NN spider) (NN graphs)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (JJ close-to-optimal) (JJ differential) (NN coloring) (NN algorithms)) (PP (IN for) (NP (NP (JJ general) (NNS caterpillars)) (CC and) (NP (VBD biconnected) (JJ triangle-free) (JJ outer-planar) (NN graphs)))))) (. .))

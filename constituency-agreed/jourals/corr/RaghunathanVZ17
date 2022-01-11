@@ -1,0 +1,2 @@
+(S (ADVP (RB Surprisingly)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (PRP$ our) (NN estimator) (POS 's)) (NN accuracy)) (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS populations)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NNS methods) (CC and) (NN theory)) (PP (IN through) (NP (JJ extensive) (NNS experiments)))) (. .))

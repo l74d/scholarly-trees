@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (DT an) (NN integer) (NN optimization) (NN formulation)) (S (VP (TO to) (VP (VB minimize) (NP (DT the) (JJ total) (NN cost)) (PP (IN under) (NP (NP (DT a) (NN guarantee)) (PP (IN of) (NP (NN service) (NN execution))))) (PP (IN despite) (NP (NP (DT the) (NN uncertainty)) (PP (IN of) (NP (NNS resources) (NN availability))))))))) (. .))

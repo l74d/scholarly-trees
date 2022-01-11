@@ -1,0 +1,2 @@
+(S (CC But) (S (NP (NNS interviews)) (VP (VBP are) (ADJP (JJ costly)))) (, ,) (CC and) (S (NP (PRP we)) (VP (MD may) (VP (VB wish) (S (VP (TO to) (VP (VB minimize) (NP (PRP$ their) (NN use)))))))) (. .))
+(S (NP (NP (CD One) (NN way)) (SBAR (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT an) (NN interview) (NN strategy))))))))) (VP (VBZ is) (S (VP (TO to) (VP (VB compare) (NP (PRP it)) (PP (IN against) (NP (NP (DT a) (JJ naive) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ conducts) (NP (DT all) (NNS interviews))))))))))) (. .))

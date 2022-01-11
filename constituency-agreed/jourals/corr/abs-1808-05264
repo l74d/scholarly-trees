@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP take) (NP (DT a) (JJ supervised) (NN learning) (NN approach)) (, ,) (SBAR (IN since) (S (S (VP (VBG obtaining) (NP (VBN labeled) (NNS data)))) (VP (MD can) (VP (VB be) (VP (VBN done) (ADVP (RB automatically)))))))) (. .))

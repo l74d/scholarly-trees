@@ -1,0 +1,2 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (DT each) (NN set)) (VP (VBZ is) (VP (VBN contained) (PP (IN into) (NP (DT the) (JJ next))))) (. .))
+(S (PP (IN Under) (NP (DT this) (NN condition))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (DT a) (NN duality)) (PP (IN between) (NP (NP (NP (DT the) (NN resource) (NN theory)) (PP (IN of) (NP (JJ microcanonical) (NNS thermodynamics)))) (CC and) (NP (NP (DT the) (NN resource) (NN theory)) (PP (IN of) (NP (JJ pure) (JJ bipartite) (NN entanglement)))))))) (. .))

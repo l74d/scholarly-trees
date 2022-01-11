@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN turn))) (, ,) (NP (JJ modern) (NNS jobs)) (VP (VBP are) (ADVP (RB often)) (VP (VBN designed) (S (VP (TO to) (VP (VB run) (PP (IN on) (NP (NP (DT any) (NN number)) (PP (IN of) (NP (NNS cores)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB answer) (NP (DT this) (NN question))))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT an) (JJ analytical) (NN model)) (PP (IN of) (NP (NP (NNS jobs)) (VP (VBG running) (PP (IN on) (NP (DT a) (JJ multi-core) (NN machine)))))))) (. .))

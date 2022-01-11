@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (PP (IN with) (NP (NNS kernels))))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN concept)) (PP (IN in) (NP (NN machine) (NN learning))))) (. .))
+(S (NP (NP (JJ Standard) (NNS approaches)) (PP (IN for) (NP (NN kernel) (NNS methods)))) (ADVP (RB often)) (VP (VBP use) (NP (NP (JJ predefined) (NNS kernels)) (SBAR (WHNP (WDT that)) (S (VP (VBP require) (NP (NP (JJ careful) (NN selection)) (PP (IN of) (NP (NNS hyperparameters))))))))) (. .))

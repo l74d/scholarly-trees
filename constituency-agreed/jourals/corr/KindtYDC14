@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB minimize) (NP (NN power) (NN consumption))))) (, ,) (NP (DT the) (NN protocol) (NNS parameters)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN optimized) (PP (IN for) (NP (DT a) (VBN given) (NN application)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (NN none)) (PP (IN of) (NP (PRP them)))) (VP (MD can) (VP (VB model) (NP (NP (PDT all) (DT the) (NN operating) (NNS modes)) (PP (IN of) (NP (DT the) (NN protocol)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT This) (NN kind)) (PP (IN of) (NP (NN desire)))) (VP (MD can) (VP (VB be) (VP (VBN answered) (PP (IN by) (NP (NN quantum) (NN computing)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ needs) (NP (NP (DT a) (JJ high) (NN requirement)) (PP (IN of) (NP (NN hardware) (NN support)))) (S (VP (TO to) (VP (VB implement) (NP (DT the) (JJ real) (NN quantum) (NN computing)))))) (. .))
+(S (NP (DT This) (NN research)) (VP (VBZ presents) (NP (NP (DT a) (NN study)) (PP (IN about) (NP (NN quantum) (NN computing))))) (. .))

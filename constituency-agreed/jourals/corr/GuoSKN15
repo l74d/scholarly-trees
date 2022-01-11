@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN tradeoff) (NN parameter)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB balance) (NP (DT these) (CD two) (VBG conflicting) (NNS objectives))))))) (. .))
+(S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT this) (NN problem)) (VP (VBZ is) (ADJP (JJ indexable)))))))) (CC and) (S (NP (DT the) (NNP Whittle) (NNS indexes)) (VP (VBP are) (VP (VBN derived)))) (. .))

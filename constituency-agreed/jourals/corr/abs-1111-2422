@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN procedure))) (, ,) (NP (DT the) (NN problem)) (VP (VBZ is) (VP (VBN partitioned) (PP (IN into) (NP (CD two) (NNS parts))) (SBAR (IN until) (S (NP (DT the) (NN problem)) (VP (VBZ is) (ADJP (RB trivially) (JJ solvable))))))) (. .))
+(S (S (VP (VBG Finding) (NP (NP (DT the) (NN distance)) (PP (IN of) (NP (DT the) (JJS closest) (NN pair)))))) (VP (VBZ is) (NP (NP (DT an) (JJ interesting) (NN topic)) (PP (IN in) (NP (NN computer) (NN science))))) (. .))
+(S (ADVP (RB Here)) (ADVP (RB also)) (NP (DT the) (NN problem)) (VP (VBZ is) (VP (VBN partitioned) (PP (IN into) (NP (CD two) (NNS parts))) (SBAR (IN until) (S (NP (DT the) (NN problem)) (VP (VBZ is) (ADJP (RB trivially) (JJ solvable))))))) (. .))

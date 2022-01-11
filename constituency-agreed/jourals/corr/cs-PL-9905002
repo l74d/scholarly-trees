@@ -1,0 +1,3 @@
+(S (PP (IN During) (NP (PRP$ its) (NN execution))) (, ,) (NP (DT a) (NN task)) (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (DT all) (JJ other) (NNS tasks))))) (. .))
+(S (PP (IN For) (NP (NP (DT an) (NN application)) (SBAR (WHNP (WDT which)) (S (VP (VBZ executes) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS tasks)))))))))) (, ,) (NP (DT the) (NN application) (NN definition)) (VP (MD can) (VP (VB be) (ADJP (JJ free) (PP (IN of) (NP (NP (DT the) (NNS details)) (PP (IN of) (NP (DT the) (NN execution)))))))) (. .))
+(S (S (NP (DT A) (NN task)) (VP (VBZ consists) (PP (IN of) (NP (NNS items))))) (CC and) (S (ADVP (RB thus)) (NP (DT the) (NN application)) (VP (VBZ is) (VP (VBN defined) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS items)))))))) (. .))

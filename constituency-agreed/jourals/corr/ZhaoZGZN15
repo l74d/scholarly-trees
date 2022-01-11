@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN policy)) (ADVP (RB also)) (VP (VBZ applies) (NP (DT a) (NN priority) (NN queue)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN delay) (NNS requirements)) (PP (IN of) (NP (NNS applications)))))))) (. .))
+(S (NP (NP (DT The) (JJ optimal) (NNS thresholds)) (PP (VBG depending) (PP (IN on) (NP (DT the) (NN traffic) (NN load))))) (VP (VBZ is) (VP (VBN obtained) (PP (IN via) (NP (DT a) (VBN proposed) (NN algorithm))))) (. .))

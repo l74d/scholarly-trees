@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (NP (NNS applications)) (VP (VBG using) (NP (NP (JJ physical) (NN layer) (NN security)) (CC or) (NP (NN mode) (NN division) (NN multiplexing)))))) (, ,) (NP (DT the) (JJ complex) (NN transmission) (NN matrix)) (VP (MD must) (VP (VB be) (VP (VBN known)))) (. .))
+(S (NP (DT The) (NN advancement)) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN by) (NP (NP (DT a) (NN mode) (NN decomposition)) (PP (IN with) (NP (CD 10) (NNS modes))))) (ADVP (RB experimentally)))) (. .))
+(S (NP (DT The) (NN training) (NN process)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ synthetic) (NNS data))))) (. .))

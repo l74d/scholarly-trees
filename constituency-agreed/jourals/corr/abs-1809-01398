@@ -1,0 +1,1 @@
+(S (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB conduct) (NP (JJ local) (NN computation)) (ADVP (RB independently)))))))) (CC and) (S (NP (DT all) (NNS nodes)) (VP (MD can) (VP (VB do) (NP (PRP$ their) (JJ local) (NN work)) (PP (IN in) (NP (NN parallel)))))) (. .))

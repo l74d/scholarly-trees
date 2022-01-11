@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ basic) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB exploit) (NP (NP (DT the) (VBG shading) (NN information)) (PP (IN in) (NP (DT the) (NN color) (NN image)))))))) (. .))
+(S (NP (DT The) (JJ key) (JJ technical) (NN challenge)) (VP (VBZ is) (S (VP (TO to) (VP (VB establish) (NP (NP (NNS correspondences)) (PP (IN over) (NP (DT the) (JJ entire) (NN image) (NN set)))))))) (. .))

@@ -1,0 +1,8 @@
+(S (NP (NP (NNS Bases) (, ,) (NNS mappings) (, ,) (NNS projections) (CC and) (NNS metrics)) (, ,) (ADJP (JJ natural) (PP (IN for) (NP (NNP Neural) (NN network) (NN training)))) (, ,)) (VP (VBP are) (VP (VBN introduced))) (. .))
+(S (NP (JJ Graph-theoretical) (NN interpretation)) (VP (VBZ is) (VP (VBN offered))) (. .))
+(S (NP (NNP Non-Gaussianity)) (VP (ADVP (RB naturally)) (VBZ emerges) (, ,) (PP (ADVP (RB even)) (IN in) (NP (ADJP (RB relatively) (JJ simple)) (NNS datasets)))) (. .))
+(S (NP (NP (VBG Training) (NNS statistics)) (, ,) (NNS hierarchies) (CC and) (NX (NNS energies))) (VP (VBP are) (VP (VBN analyzed) (, ,) (PP (IN from) (NP (NP (NNS physics) (NN point)) (PP (IN of) (NP (NN view))))))) (. .))
+(S (NP (NP (NN Duality)) (PP (IN between) (NP (NP (NP (NNS observables)) (PRN (-LRB- -LRB-) (PP (IN for) (NP (NN example))) (, ,) (NP (NNS pixels)) (-RRB- -RRB-))) (CC and) (NP (NNS observations))))) (VP (VBZ is) (VP (VBN established))) (. .))
+(S (NP (NP (NN Relationship)) (PP (IN between) (NP (ADJP (NN exact) (CC and) (JJ numerical)) (NNS solutions)))) (VP (VBZ is) (VP (VBN studied))) (. .))
+(S (NP (NP (NNS Physics) (CC and) (NP (JJ financial) (NNS mathematics)) (NNS interpretations)) (PP (IN of) (NP (DT a) (NN key) (NN problem)))) (VP (VBP are) (VP (VBN offered))) (. .))
+(S (NP (NNS Examples)) (VP (VBP support) (NP (DT all) (JJ new) (NNS concepts))) (. .))

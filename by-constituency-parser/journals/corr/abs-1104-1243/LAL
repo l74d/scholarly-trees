@@ -1,0 +1,2 @@
+(S (NP (NP (NP (NNP Miller) (CC and) (NNP Muller)) (PRN (-LRB- -LRB-) (NP (CD 1960)) (-RRB- -RRB-))) (CC and) (NP (NP (ADVP (RB independently)) (NNP Moon) (CC and) (NNP Moser)) (PRN (-LRB- -LRB-) (NP (CD 1965)) (-RRB- -RRB-)))) (VP (VBD determined) (NP (NP (DT the) (JJ maximum) (NN number)) (PP (IN of) (NP (JJ maximal) (JJ independent) (NNS sets))) (PP (IN in) (NP (DT an) (ADJP ($ $) (JJ n) ($ $)) (JJ -vertex) (NN graph))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (ADJP (JJ new) (CC and) (JJ simple)) (NN proof)) (PP (IN of) (NP (DT this) (NN result))))) (. .))

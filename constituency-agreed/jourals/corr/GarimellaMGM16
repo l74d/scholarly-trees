@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ considers) (NP (NP (RB only) (DT a) (NN fraction)) (PP (IN of) (NP (NP (PDT all) (DT the) (NNS combinations)) (PP (IN of) (NP (JJ possible) (NNS edges))))))))))) (. .))

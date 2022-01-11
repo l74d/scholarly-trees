@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ deep) (JJ neural) (NN network))) (, ,) (NP (DT the) (JJ cross-entropy) (NN loss) (NN function)) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN used) (PP (IN for) (NP (NN classification))))) (. .))

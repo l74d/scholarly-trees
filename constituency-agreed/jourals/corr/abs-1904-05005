@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB learn) (NP (DT an) (JJ optimal) (NN distance) (NN function)) (PP (IN by) (S (VP (VBG constructing) (NP (DT a) (ADJP (RB locally) (JJ adaptive)) (NN decision) (NN rule)) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (JJ privileged) (NN information)))))))))))) (. .))

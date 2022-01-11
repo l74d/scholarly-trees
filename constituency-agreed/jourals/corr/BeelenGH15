@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN seen) (SBAR (IN that) (S (NP (DT the) (VBG resulting) (NN code)) (VP (VBZ has) (NP (NP (RB only) (DT a) (JJ small) (NN number)) (PP (IN of) (NP (JJ distinct) (NNS weights))))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VB obtain) (NP (DT the) (JJ complete) (NN weight) (NN distribution))) (. .))

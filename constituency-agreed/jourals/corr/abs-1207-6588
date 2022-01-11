@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Social) (NNS networks)) (PP (IN with) (NP (ADJP (JJ positive) (CC and) (JJ negative)) (NNS links)))) (ADVP (RB often)) (VP (VBP split) (PP (IN into) (NP (CD two) (JJ antagonistic) (NNS factions)))) (. .))
+(S (NP (DT An) (JJR earlier) (NN model)) (VP (MD could) (VP (VB explain) (NP (NP (DT the) (NN formation)) (PP (IN of) (NP (JJ such) (NNS factions)))) (SBAR (IN if) (S (NP (NNS reputations)) (VP (VBD were) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (JJ symmetric))))))))))) (. .))

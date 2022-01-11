@@ -1,0 +1,2 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT these) (NNS predictions)) (VP (VBP are) (VP (VBN visualized) (PP (IN on) (NP (DT the) (NNS walls))) (PP (IN from) (NP (NP (DT the) (NNS images)) (VP (VBN provided)))))) (. .))
+(S (PP (VBN Given) (NP (DT the) (NN room) (NN image))) (, ,) (NP (DT this) (NN method)) (VP (VBZ finds) (NP (NP (DT the) (JJS best) (NN color) (NN scheme)) (PP (IN for) (NP (DT the) (NNS walls))))) (. .))

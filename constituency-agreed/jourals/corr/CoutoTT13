@@ -1,0 +1,2 @@
+(SQ (CC But) (VBP are) (NP (NN bank) (NNS customers)) (ADJP (JJ ready) (S (VP (TO to) (VP (VB move) (ADVP (RB forward)))))) (. ?))
+(S (PP (IN For) (NP (NNS data) (NN collection))) (, ,) (NP (PRP we)) (VP (VBD used) (NP (DT an) (JJ online) (NN snowball) (NN process))) (. .))

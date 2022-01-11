@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN k-satisfiability) (NN problem)) (VP (VBZ is) (NP (NP (DT a) (JJ well-known) (NN task)) (PP (IN in) (NP (JJ computational) (NN complexity) (NN theory))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (NN approach)) (PP (IN for) (NP (NP (PRP it) (VBZ 's)) (VBG solving)))) (VP (VBZ is) (VP (VBN introduced))) (. .))

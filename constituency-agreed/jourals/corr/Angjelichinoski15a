@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN technique)) (VP (VBZ is) (VP (VBN implemented) (PP (IN by) (S (VP (VBG modifying) (NP (DT the) (NN droop) (NN control) (NNS parameters)) (PP (IN from) (NP (DT the) (JJ primary) (NN control) (NN level)))))))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN model)))) (, ,) (NP (PRP we)) (VP (VP (VBP present) (NP (NP (NN design)) (PP (IN of) (NP (NP (NN symbol) (NNS constellations)) (PP (IN of) (NP (JJ arbitrary) (NN order))))))) (CC and) (VP (VB analyze) (NP (DT the) (NN error) (NN probability) (NN performance)))) (. .))

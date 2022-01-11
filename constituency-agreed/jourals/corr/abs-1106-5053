@@ -1,0 +1,2 @@
+(S (S (NP (NP (NNS Networks)) (VP (VBG arising) (PP (IN from) (NP (ADJP (JJ social) (, ,) (JJ technological) (CC and) (JJ natural)) (NNS domains))))) (VP (VBP exhibit) (NP (JJ rich) (NN connectivity) (NNS patterns)))) (CC and) (S (NP (NP (NNS nodes)) (PP (IN in) (NP (JJ such) (NNS networks)))) (VP (VBP are) (ADVP (RB often)) (VP (VBN labeled) (PP (IN with) (NP (NNS attributes) (CC or) (NNS features)))))) (. .))
+(S (NP (PRP We)) (VP (VBP develop) (NP (DT a) (JJ scalable) (JJ variational) (NN expectation) (NN maximization) (NN parameter) (NN estimation) (NN method))) (. .))

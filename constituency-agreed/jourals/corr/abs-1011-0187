@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NP (CD three) (NNS computers)) (PP (IN with) (NP (JJ natural) (NN intelligence)))) (CC and) (NP (NP (CD one)) (PP (IN with) (NP (JJ artificial) (NN intelligence)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN in) (NP (NP (DT this) (NN game)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN played) (PP (IN by) (NP (CD four) (NNS people))))))))) (, ,) (NP (NNS players)) (VP (VBP are) (VP (VBN divided) (PP (IN into) (NP (CD 2) (NNS pairs))))) (. .))

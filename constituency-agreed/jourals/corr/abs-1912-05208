@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (DT the) (NN blockchain)))) (VP (VBZ is) (VP (VBN sacrificed))) (. .))
+(S (S (NP (VBG Existing) (NN measurement) (NNS studies)) (VP (MD could) (RB not) (VP (VB identify) (NP (PRP them))))) (CC but) (S (NP (PRP$ our) (NN simulation)) (VP (VBZ enables) (NP (PRP it)))) (. .))

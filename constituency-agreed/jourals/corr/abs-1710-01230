@@ -1,0 +1,4 @@
+(S (CC But) (, ,) (NP (JJ current) (NN literature)) (VP (VBZ has) (ADVP (RB only)) (VP (VBN focused) (PP (IN on) (NP (NP (NN steganalysis)) (PP (IN of) (NP (NN mp3stego))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP$ its) (NN detection)) (VP (VBZ is) (ADJP (ADJP (RB much) (JJR harder)) (PP (IN than) (NP (NN mp3stego))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ different) (NN mp3) (NNS encoders)) (VP (VBP have) (NP (JJ dissimilar) (NNS performances)))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (NNS advantages)) (PP (IN of) (NP (DT this) (NN architecture)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (NN feature) (NN extraction)) (CC and) (NP (NN feature) (NN selection))) (VP (MD can) (VP (VB be) (VP (VBN optimized) (PP (IN for) (NP (DT each) (NN encoder))) (ADVP (RB separately)))))))) (. .))

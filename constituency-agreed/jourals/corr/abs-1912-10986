@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN experimented) (PP (IN on) (NP (NP (JJ numerous) (NNS types)) (PP (IN of) (NP (NNS datasets))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (, ,) (PP (ADVP (RB partially)) (IN on) (NP (JJ large) (NNS instances)))))

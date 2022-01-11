@@ -1,0 +1,2 @@
+(S (S (NP (EX There)) (VP (VBP are) (ADVP (RB generally)) (NP (NP (CD three) (NNS types)) (PP (IN of) (NP (JJ artificial) (NN intelligence)))))) (CC and) (S (NP (DT these)) (VP (VBP are) (NP (NP (NN machine) (NN learning)) (, ,) (NP (JJ evolutionary) (NN programming)) (CC and) (NP (JJ soft) (NN computing))))) (. .))
+(S (NP (JJ Evolutionary) (NN programming)) (VP (VBZ is) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ natural) (JJ evolutionary) (NNS systems))) (S (VP (TO to) (VP (VB design) (NP (JJ intelligent) (NNS machines))))))) (. .))

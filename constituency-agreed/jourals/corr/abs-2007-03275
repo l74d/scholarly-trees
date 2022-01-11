@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS defenses)) (VP (VBP are) (VP (VBN given) (PP (IN under) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NN security) (NN pattern) (NNS combinations))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN stage))) (, ,) (NP (DT these) (NNS trees)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB guide) (NP (NNS developers)) (PP (IN in) (NP (DT the) (NN test) (NN case) (NN generation)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBD observed) (NP (NP (DT some) (NNS correlations)) (PP (IN between) (NP (NP (VBG overlapping) (NNS snippets)) (PP (IN in) (NP (DT the) (JJ same) (NNS keywords))))))) (. .))
+(S (NP (PRP We)) (VP (VBD found) (SBAR (IN that) (S (NP (NP (JJ significant) (NN number)) (PP (IN of) (NP (NNS snippets)))) (VP (VBP are) (NP (NP (JJ scholarly) (NNS articles)) (CC and) (NP (JJ rich) (NNS cards) (NN carousel))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (NP (PRP$ our) (NNS findings)) (PP (IN with) (NP (NN conclusion) (CC and) (NN research) (NNS limitations)))) (. .))

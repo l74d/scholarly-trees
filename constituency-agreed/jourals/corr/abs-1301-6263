@@ -1,0 +1,2 @@
+(S (NP (NNP AdLeaks)) (VP (VBZ leverages) (NP (NP (DT the) (NN ubiquity)) (PP (IN of) (NP (JJ unsolicited) (JJ online) (NN advertising)))) (S (VP (TO to) (VP (VB provide) (NP (JJ complete) (NN sender) (NN unobservability)) (SBAR (WHADVP (WRB when)) (S (VP (VBG submitting) (NP (NNS disclosures))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (NNP AdLeaks))))) (CC and) (VP (VB evaluate) (NP (PRP$ its) (NN performance)) (PP (IN through) (NP (NN analysis) (CC and) (NN experimentation))))) (. .))

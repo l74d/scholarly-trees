@@ -1,0 +1,4 @@
+(S (NP (NP (NN Comparison)) (PP (IN of) (NP (NP (NNP RISC) (CC &) (NNP CISC)) (PP (IN in) (NP (NNS details)))))) (, ,) (VP (VBG encompassing) (NP (DT the) (VP (VBG addressing) (NP (NP (NNS modes)) (, ,) (NP (NN evolution)) (, ,) (NP (NNS definitions)) (CC and) (NP (NNS characteristics)))))) (. .))
+(S (S (VP (VB Pre) (HYPH -) (NP (NNP RISC) (NN design)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN elaborated))) (. .))
+(S (NP (CC Both) (NP (DT the) (NNS architectures))) (VP (VBP are) (VP (VBN explained) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (NN example))))))) (. .))
+(S (NP (NN Analysis)) (VP (VBZ is) (VP (VBN made) (PP (VBN based) (PP (IN on) (NP (NN performance)))))) (. .))

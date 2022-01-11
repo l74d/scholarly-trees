@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS measurements)) (VP (VBP are) (ADVP (RB often)) (VP (VBN used) (PP (IN in) (NP (JJ clinical) (NN care))) (PP (IN despite) (S (VP (VBG suffering) (PP (IN from) (NP (NP (JJ large) (NN variability)) (PP (IN between) (NP (NNS observers)))))))))) (. .))
+(S (NP (DT These) (NNS images)) (ADVP (RB often)) (VP (VBP contain) (NP (NP (JJ fuzzy) (NNS boundaries)) (CC and) (NP (NP (VBG varying) (NN reflection) (NNS patterns)) (PP (IN between) (NP (NNS frames)))))) (. .))

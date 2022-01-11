@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (RB not) (NP (DT the) (NN case))))) (CC and) (SBAR (IN that) (S (NP (JJ geometric) (NN information)) (VP (VBZ is) (NP (DT an) (JJ ambiguous) (NN cue))))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (CD two) (NNS sources)) (PP (IN for) (NP (DT this) (NN ambiguity))))) (. .))

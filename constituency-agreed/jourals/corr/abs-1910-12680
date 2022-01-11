@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG learning) (NP (DT the) (VBG governing) (NN equation))))) (, ,) (NP (DT the) (NN network)) (VP (VBZ predicts) (NP (NP (DT the) (JJ future) (NN evolution)) (PP (IN of) (NP (DT the) (NN solution)))) (PP (IN by) (S (VP (VBG using) (NP (QP (RB only) (DT a) (JJ few)) (JJ trainable) (NNS parameters)))))) (. .))

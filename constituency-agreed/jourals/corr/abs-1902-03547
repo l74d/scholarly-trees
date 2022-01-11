@@ -1,0 +1,4 @@
+(S (NP (PRP They)) (VP (VP (VBP are) (ADJP (JJ powerful))) (CC and) (VP (MD can) (VP (VB carry) (NP (JJ heavy) (NNS loads))))) (. .))
+(S (NP (DT The) (JJ mechanical) (NN structure)) (VP (VBZ is) (VP (VBN designed) (CC and) (VBN optimized) (PP (IN in) (NP (NNP Solidworks))))) (. .))
+(S (S (NP (DT The) (NN transmitter) (NN program)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NN supervisor) (NN computer))) (S (VP (VBG using) (NP (NNP LabVIEW))))))) (CC and) (S (NP (DT a) (NN microcontroller)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (DT the) (JJ main) (NN controller)))))) (. .))
+(S (NP (NNP Microcontroller) (NN programming)) (VP (VBZ is) (VP (VBN done) (PP (IN in) (NP (NNP Code) (NNP Vision))))) (. .))

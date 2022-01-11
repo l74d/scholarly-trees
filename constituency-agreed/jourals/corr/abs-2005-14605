@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP explore) (NP (NP (NNS relations)) (PP (IN between) (NP (NP (DT the) (NNP Langevin) (NNS dynamics)) (CC and) (NP (JJ stochastic) (NN optimization)))))) (. .))
+(S (NP (JJ Empirical) (NNS results)) (VP (VBP confirm) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (JJ theoretical) (NN approach))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP Bisimulation)) (VP (VBZ is) (NP (NP (DT a) (NN concept)) (SBAR (WHNP (WDT that)) (S (VP (VBZ captures) (NP (JJ behavioural) (NN equivalence))))))) (. .))
+(S (S (PP (IN In) (NP (DT the) (JJ latter))) (NP (NN time)) (VP (VBZ is) (ADJP (JJ continuous)))) (CC but) (S (NP (DT the) (NN evolution)) (ADVP (RB still)) (VP (VBZ proceeds) (PP (IN in) (NP (NNS jumps))))) (. .))

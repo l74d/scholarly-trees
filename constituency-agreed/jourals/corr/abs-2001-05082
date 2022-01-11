@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NN network) (NN capacity)))) (VP (VBZ is) (VP (VBN ignored))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB address) (NP (DT the) (CD two) (NNS limitations)))))) (. .))

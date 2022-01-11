@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP are) (VP (VBG releasing) (NP (NP (DT a) (NN dataset)) (PP (IN of) (NP (NP (JJ diagram) (NNS drawings)) (PP (IN with) (NP (JJ dynamic) (VBG drawing) (NN information)))))))) (. .))
+(S (NP (DT The) (NN dataset)) (VP (VBZ aims) (S (VP (TO to) (VP (VB foster) (NP (NP (NN research)) (PP (IN in) (NP (JJ interactive) (JJ graphical) (NN symbolic) (NN understanding)))))))) (. .))
+(S (NP (DT The) (NN dataset)) (VP (VBD was) (VP (VBN obtained) (S (VP (VBG using) (NP (DT a) (VBN prompted) (NN data) (NN collection) (NN effort)))))) (. .))

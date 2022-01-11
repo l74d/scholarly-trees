@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNP Gromov) (HYPH -) (NNP Hausdorff) (-LRB- -LRB-) (NNP GH) (-RRB- -RRB-)) (NP (NN distance))) (VP (VBZ is) (NP (DT a) (JJ natural) (NN way) (S (VP (TO to) (VP (VB measure) (NP (NP (NN distance)) (PP (IN between) (NP (CD two) (JJ metric) (NNS spaces))))))))) (. .))

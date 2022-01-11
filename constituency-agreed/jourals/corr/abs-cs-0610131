@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP examine) (NP (CD two) (JJ different) (NNS scenarios))) (. .))
+(S (NP (DT The) (JJ first) (NN model)) (VP (VBZ assumes) (SBAR (IN that) (S (NP (DT the) (NN data)) (VP (VBZ consists) (PP (IN of) (NP (ADJP (JJ independent) (CC and) (JJ identical)) (NNS tasks))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP consolidate) (NP (DT the) (JJ theoretical) (NNS results))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (DT a) (NN query))) (, ,) (NP (DT the) (NN task)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (DT the) (ADJP (RBS most) (JJ relevant)) (NN table)) (PP (IN from) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NNS tables))))))))) (. .))

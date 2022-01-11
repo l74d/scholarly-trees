@@ -1,0 +1,2 @@
+(S (NP (JJ Traditional) (NN language) (NNS models)) (VP (VBP treat) (NP (NN language)) (PP (IN as) (NP (NP (DT a) (JJ finite) (NN state) (NN automaton)) (PP (IN on) (NP (NP (DT a) (NN probability) (NN space)) (PP (IN over) (NP (NNS words)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ strong)) (NN assumption)) (SBAR (WHADVP (WRB when)) (S (VP (VBG modeling) (NP (NP (NP (NN something)) (ADJP (RB inherently) (JJ complex))) (PP (JJ such) (IN as) (NP (NN language)))))))) (. .))

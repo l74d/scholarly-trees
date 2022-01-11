@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN security) (NNS requirements)) (PP (IN for) (NP (NN emergency) (NN response) (NNS communications)))) (VP (VBP include) (NP (NP (NN privacy)) (, ,) (NP (NNS data) (NN integrity)) (, ,) (NP (NN authentication)) (, ,) (NP (JJ key) (NN management)) (, ,) (NP (NN access) (NN control)) (CC and) (NP (NN availability)))) (. .))

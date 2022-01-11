@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN amount)) (PP (IN of) (NP (NN information)))) (VP (VBZ does) (RB n't) (VP (VB mean) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS symbols)) (PP (IN of) (NP (NNS data)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ depends) (PP (IN on) (NP (NP (NN occurrence) (NNS probabilities)) (PP (IN of) (NP (NP (NNS symbols)) (PP (IN of) (NP (DT the) (NNS data)))))))) (. .))

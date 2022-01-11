@@ -1,0 +1,4 @@
+(S (NP (CD One) (JJ important) (NN requirement)) (VP (VBZ is) (NP (NP (NN transparency)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN associated) (PP (IN with) (NP (NN model) (NN interpretability)))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NNS people)) (VP (VBP have) (NP (NN difficulty) (S (VP (TO to) (VP (VB trust) (NP (NP (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (RB not) (VP (VB be) (VP (VBN explained)))))))))))) (. .))
+(S (NP (DT These) (NNS methods)) (ADVP (RB usually)) (VP (VBP look) (PP (IN inside) (NP (DT the) (JJ black) (NNS models))) (S (VP (TO to) (VP (VB explain) (NP (PRP$ their) (JJ inner) (NN work)))))) (. .))
+(S (PP (IN By) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (PRP they)) (VP (VBP allow) (NP (NP (DT the) (NN interpretation)) (PP (IN of) (NP (NP (DT the) (NN decision) (NN making) (NN process)) (VP (VBN used) (PP (IN by) (NP (JJ black) (NN box) (NNS models)))))))) (. .))

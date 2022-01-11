@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (NNS presentations)) (PP (IN of) (NP (NN reduction) (NNS monads))))) (. .))
+(S (NP (PRP$ Our) (JJ main) (NN result)) (VP (VBZ identifies) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (NN reduction) (NNS signatures)) (SBAR (WHNP (WDT which)) (S (VP (VBP specify) (NP (DT a) (NN reduction) (NN monad)) (PP (IN in) (NP (DT the) (JJ above) (NN sense)))))))))) (. .))

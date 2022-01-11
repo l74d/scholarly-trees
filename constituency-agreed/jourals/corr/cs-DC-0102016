@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP describe) (SBAR (WHADVP (WRB how)) (S (NP (PRP we)) (VP (VBD designed) (CC and) (VBD implemented) (NP (NNP SDM)) (S (VP (TO to) (VP (VB support) (NP (JJ irregular) (NNS applications))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT the) (NNP SDM) (NN user) (NN interface)) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (PRP we)) (VP (VBD implemented) (NP (PRP it)) (S (VP (TO to) (VP (VB achieve) (NP (JJ high) (NN performance)))))))))) (. .))

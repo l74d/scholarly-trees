@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ second) (NN test) (NN set)) (VP (VBZ is) (NP (NP (DT a) (NN portfolio) (NN optimization) (NN problem)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBP use) (NP (JJ different) (NN covariance) (NNS structures)) (PP (IN for) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (CD 5) (NNS stocks)))))))))) (. .))

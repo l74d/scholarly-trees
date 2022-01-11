@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ scalar) (NN field)) (VP (VBZ is) (VP (VBN replaced) (PP (IN by) (NP (DT a) (NN lattice))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NNS mnesors)) (VP (MD can) (VP (VB be) (NP (NP (DT the) (NN foundation)) (PP (IN for) (NP (DT a) (JJ linear) (NN calculus))))))))) (. .))

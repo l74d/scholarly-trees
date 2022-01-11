@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT these) (NNS structures))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (NP (DT these) (NNS structures)))) (VP (VBZ is) (VP (VBN examined) (PP (IN in) (NP (NP (DT the) (NN framework)) (PP (IN of) (NP (JJ mechanical) (NN multiset) (NN processing))))))) (. .))

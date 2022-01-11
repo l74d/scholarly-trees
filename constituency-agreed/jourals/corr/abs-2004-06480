@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN system) (POS 's)) (NN output)) (VP (VBD was) (VP (VBN compared) (PP (IN with) (NP (NP (DT the) (NN recognition) (NNS rates)) (VP (VBN achieved) (PP (IN by) (NP (NP (DT a) (JJ semi-supervised) (NN system)) (VP (VBN trained) (PP (IN on) (NP (ADJP (RB manually) (VBN assigned)) (NNS segments))))))))))) (. .))

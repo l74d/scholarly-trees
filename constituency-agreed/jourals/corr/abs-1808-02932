@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ stochastic) (NN bandit) (NN setting))) (, ,) (PP (IN at) (NP (DT each) (NN interaction))) (, ,) (NP (NP (DT the) (NN reward)) (PP (IN for) (NP (DT the) (VBN selected) (NN action)))) (VP (VBZ is) (VP (VBN generated) (PP (IN from) (NP (DT an) (JJ unknown) (NN distribution))))) (. .))

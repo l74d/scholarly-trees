@@ -1,0 +1,2 @@
+(S (PP (IN Among) (NP (NP (DT all) (VBN restricted) (NN integer) (NNS compositions)) (PP (IN with) (NP (NP (QP (ADVP (IN at) (RBS most)) ($ $) (CD m)) (NML (NML (NML (NML ($ $)) (NNS parts)) (, ,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ has) (NP (NP (NN size)) (ADVP (IN at) (RBS most))))))) (NML ($ $)) (NN l))) (NP ($ $)))))) (, ,) (VP (VB choose) (NP (CD one)) (ADVP (RB uniformly) (PP (IN at) (ADJP (JJ random))))) (. .))
+(SBARQ (WHNP (WDT Which) (NN integer)) (SQ (VBZ does) (NP (DT this) (NN composition)) (VP (VB represent))) (. ?))

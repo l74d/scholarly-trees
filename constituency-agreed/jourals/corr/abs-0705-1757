@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN population)) (PP (IN of) (NP (NP (NNS committees)) (PP (IN of) (NP (NP (NNS agents)) (SBAR (WHNP (WDT that)) (S (VP (VBP learn) (PP (IN by) (S (VP (VBG using) (NP (JJ neural) (NNS networks))))))))))))) (VP (VBZ is) (VP (VBN implemented) (S (VP (TO to) (VP (VB simulate) (NP (DT the) (NN stock) (NN market))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN found) (SBAR (IN that) (S (NP (DT no) (NN player)) (VP (VBZ has) (NP (DT a) (JJ monopolistic) (NN advantage))))))) (. .))

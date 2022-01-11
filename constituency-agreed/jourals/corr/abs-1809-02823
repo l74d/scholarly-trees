@@ -1,0 +1,1 @@
+(S (S (NP (NNS Cities)) (VP (VBP are) (ADVP (RB frequently)) (VP (VBN mentioned) (PP (IN in) (NP (NN news) (NNS articles)))))) (, ,) (CC and) (S (NP (QP (CD two) (CC or) (JJR more)) (NNS cities)) (VP (MD may) (VP (VB co-occur) (PP (IN in) (NP (DT the) (JJ same) (NN article)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ is) (ADJP (JJ randomized))) (CC and) (VP (VBZ runs) (PP (IN in) (NP (JJ polynomial) (NN time))) (SBAR (IN if) (S (NP (CD one)) (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB call) (NP (NNS oracles)) (PP (IN for) (NP (NN factoring) (NNS integers)))))))))))) (. .))

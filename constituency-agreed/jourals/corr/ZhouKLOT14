@@ -1,0 +1,1 @@
+(S (NP (NP (CD One) (JJ important) (NN factor)) (PP (IN for) (NP (JJ continued) (NN progress)))) (VP (VBZ is) (S (VP (TO to) (VP (VB understand) (NP (NP (DT the) (NNS representations)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN learned) (PP (IN by) (NP (NP (DT the) (JJ inner) (NNS layers)) (PP (IN of) (NP (DT these) (JJ deep) (NNS architectures)))))))))))))) (. .))

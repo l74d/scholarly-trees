@@ -1,0 +1,2 @@
+(S (NP (JJ Different) (NNS graphs)) (VP (VBP are) (VP (VBN induced) (PP (IN from) (NP (DT the) (NN knowledge) (NN base))) (PP (IN by) (S (VP (VBG fixing) (NP (JJ different) (NNS parameters))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NNP Part) (NNP IV)) (VP (VBZ describes) (NP (NP (DT an) (NN investigation)) (PP (IN on) (NP (NNS rules))))) (. .))

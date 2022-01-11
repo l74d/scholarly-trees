@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ transforms) (NP (DT a) (JJ probabilistic) (NN program)) (PP (IN into) (NP (NP (DT a) (JJ non-probabilistic) (NN program)) (SBAR (WHNP (WDT which)) (S (VP (VBZ simulates) (NP (NP (CD two) (NNS executions)) (PP (IN of) (NP (DT the) (JJ original) (NN program)))))))))) (. .))

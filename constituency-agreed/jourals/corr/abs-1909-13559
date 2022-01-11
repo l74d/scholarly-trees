@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (MD can) (VP (VB understand) (NP (DT this) (NN result)) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (NN noise))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ implies) (SBAR (IN that) (S (NP (DT a) (NNP Data) (NNP Processing) (NNP Inequality)) (VP (VBZ exists) (PP (IN for) (NP (NN transfer) (NN entropy))))))) (. .))

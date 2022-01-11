@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN geometry)) (PP (IN of) (NP (DT the) (NN robot) (NN group)))) (VP (VBZ is) (NP (NP (DT a) (JJ lateral) (NN line) (NN formation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB split) (CC and) (VB rejoin) (SBAR (WHADVP (WRB when)) (S (VP (VBG passing) (NP (NNS obstacles)))))))))))))) (. .))
+(S (NP (NP (DT No) (NN information)) (PP (IN of) (NP (DT the) (NN topography)))) (VP (VBZ is) (VP (VBN recorded))) (. .))

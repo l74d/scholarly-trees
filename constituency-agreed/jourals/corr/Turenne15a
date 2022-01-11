@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (PRP we)) (VP (VBP show)))) (, ,) (NP (DT a) (JJ trivial) (NN key)) (VP (VBZ is) (RB not) (ADJP (JJ available) (S (VP (TO to) (VP (VB delete) (NP (JJ useless) (NNS documents))))))) (. .))
+(S (S (VP (VBG Merging) (NP (JJ heteregeneous) (NN document) (NNS databases)) (S (VP (TO to) (VP (VB get) (NP (NP (DT a) (NN maximum)) (PP (IN of) (NP (NN information))))))))) (VP (MD can) (VP (VB be) (PP (IN of) (NP (NN interest))))) (. .))

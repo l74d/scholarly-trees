@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (ADVP (RB mainly)) (VP (VBZ has) (NP (CD three) (VBN gated) (NNS structures))) (. .))
+(S (S (NP (DT The) (JJ global) (NN image) (NN feature)) (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (DT the) (JJ first) (NN gate)))))) (CC and) (S (NP (DT the) (JJ local) (NN image) (NN feature)) (VP (VBZ is) (VP (VBN selected) (PP (IN by) (NP (DT the) (NN attention) (NN mechanism)))))) (. .))

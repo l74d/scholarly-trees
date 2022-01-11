@@ -1,0 +1,3 @@
+(S (NP (JJ Neurodegenerative) (NNS diseases)) (VP (VBP are) (ADVP (RB frequently)) (VP (VBN associated) (PP (IN with) (NP (NP (JJ structural) (NNS changes)) (PP (IN in) (NP (DT the) (NN brain))))))) (. .))
+(S (NP (DT The) (NN hippocampus)) (VP (VBZ has) (VP (VBN been) (VP (VBN known) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN biomarker)) (PP (IN for) (NP (NP (NNP Alzheimer) (NN disease)) (CC and) (NP (JJ other) (ADJP (JJ neurological) (CC and) (JJ psychiatric)) (NNS diseases))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ requires) (NP (NP (ADJP (JJ accurate) (, ,) (JJ robust) (CC and) (JJ reproducible)) (NN delineation)) (PP (IN of) (NP (JJ hippocampal) (NNS structures))))) (. .))

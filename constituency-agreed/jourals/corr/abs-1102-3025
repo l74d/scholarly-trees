@@ -1,0 +1,2 @@
+(S (NP (DT Both) (NNS players)) (VP (VBP want) (S (VP (TO to) (VP (VB conquer) (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (DT the) (NNS nodes)))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN solitaire) (NN version))) (, ,) (NP (NP (DT the) (NN goal)) (PP (IN of) (NP (DT the) (JJ single) (NN player)))) (VP (VBZ is) (S (VP (TO to) (VP (VB conquer) (NP (DT the) (JJ entire) (NN graph)) (PP (IN with) (NP (NP (DT the) (JJ minimum) (NN number)) (PP (IN of) (NP (NNS moves))))))))) (. .))

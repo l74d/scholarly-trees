@@ -1,0 +1,1 @@
+(S (SBAR (IN Although) (S (NP (DT this) (NN problem)) (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (JJ optimal) (NN design)))))))))) (, ,) (NP (NP (DT no) (JJ efficient) (NNS solutions)) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN with) (NP (JJ many) (NNS functionals)))))) (VP (VBP exist)) (. .))

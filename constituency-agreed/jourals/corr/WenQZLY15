@@ -1,0 +1,2 @@
+(S (NP (NNP Core) (NN decomposition)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN graph) (NN problem)) (PP (IN with) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NNS applications))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT this) (NN approach)) (VP (MD can) (ADVP (RB hardly)) (VP (VB handle) (NP (NN graph) (NNS updates)))) (. .))

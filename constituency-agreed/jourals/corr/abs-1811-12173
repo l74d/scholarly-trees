@@ -1,0 +1,4 @@
+(S (NP (JJ Computational) (NN chemistry)) (VP (VBZ is) (NP (NP (DT a) (JJ scientific) (NN field)) (SBAR (WHPP (IN within) (WHNP (WDT which))) (S (NP (DT the) (NN computer)) (VP (VBZ is) (NP (DT a) (JJ pivotal) (NN element))))))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (PP (IN in) (NP (NN detail))) (NP (NP (CD two) (NN flame) (NNS wars)) (SBAR (WHNP (WDT that)) (S (VP (VBP exemplify) (NP (DT these) (NNS tensions))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (SBAR (IN that) (S (NP (NNS models) (CC and) (NN software)) (VP (MD must) (VP (VB be) (VP (VBN addressed) (ADVP (RB together)))))))) (. .))
+(S (NP (NP (NNS Interrelations)) (PP (IN between) (NP (DT both)))) (VP (VBP imply) (SBAR (IN that) (S (NP (NP (NN openness)) (PP (IN in) (NP (JJ computational) (NN science)))) (VP (VBZ is) (ADJP (JJ complex)))))) (. .))

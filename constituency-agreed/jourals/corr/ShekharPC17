@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS attempts)) (VP (VBP have) (VP (VBN been) (VP (VBN aimed) (PP (IN at) (S (VP (VBG modifying) (NP (DT the) (NN probe) (NN image)) (SBAR (JJ such) (IN that) (S (NP (DT the) (JJ resultant) (NN image)) (VP (VBZ provides) (NP (JJR better) (NN discrimination))))))))))) (. .))
+(S (NP (NP (DT An) (JJ important) (NN feature)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB handle) (NP (NN resolution) (NN change)) (PP (IN along) (PP (IN with) (NP (NN illumination) (NNS variations))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NP (NN performance) (NNS metrics)) (PP (IN of) (NP (NP (NN speech) (NNS samples)) (VP (VBN taken) (PP (IN from) (NP (DT a) (ADJP (RB publicly) (JJ available)) (NN database))))))))) (VP (VBD were) (VP (VBN compared) (PP (IN with) (NP (JJ subjective) (NNS scores))))) (. .))

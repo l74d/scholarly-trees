@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (NNP ACID)) (VP (VBZ is) (NP (NP (DT the) (JJ previous) (JJ golden) (NN rule)) (PP (IN for) (NP (NN transaction) (NN support))))))) (, ,) (NP (NN durability)) (VP (VBZ is) (ADVP (RB now)) (RB not) (NP (NP (DT a) (JJ basic) (NN requirement)) (PP (IN for) (NP (NNS data) (NN storage))))) (. .))
+(S (NP (CD Four) (JJ major) (NN condition) (NNS changes)) (VP (VBP exist)) (. .))

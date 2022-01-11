@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ key) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB randomize) (NP (DT the) (NNS mappings))) (CC and) (VP (VB control) (NP (NP (DT the) (NNP Shannon) (NN entropy)) (PP (IN of) (NP (DT the) (NN system)))) (PP (IN during) (NP (NN optimization)))))))) (. .))

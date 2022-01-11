@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN method)) (VP (VBD was) (VP (VBN trained) (CC and) (VBN tested) (PP (IN on) (NP (NP (CD 26) (NNS datasets)) (PP (IN from) (NP (CD 20) (JJ real) (NNS patients))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN network)) (VP (VBZ outperforms) (NP (DT the) (NN baseline) (NNS methods)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT all) (NN evaluation) (NNS criteria)))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Meanwhile)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (NNS operators)))) (VP (VBP are) (ADVP (RB only)) (VP (VBN applied) (PP (IN in) (NP (JJ shallow) (NNS architectures))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP revisit) (NP (DT the) (JJ representative) (JJ local) (NN aggregation) (NNS operators))) (CC and) (VP (VB study) (NP (PRP$ their) (NN performance)) (S (VP (VBG using) (NP (DT the) (JJ same) (JJ deep) (JJ residual) (NN architecture)))))) (. .))

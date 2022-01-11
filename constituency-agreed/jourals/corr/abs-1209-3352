@@ -1,0 +1,2 @@
+(S (NP (NNP Thompson) (NNP Sampling)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS oldest) (NNS heuristics)) (PP (IN for) (NP (JJ multi-armed) (NN bandit) (NNS problems))))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT the) (JJ first) (JJ theoretical) (NNS guarantees)) (PP (IN for) (NP (NP (DT the) (JJ contextual) (NN version)) (PP (IN of) (NP (NNP Thompson) (NNP Sampling))))))) (. .))

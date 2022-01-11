@@ -1,0 +1,1 @@
+(S (ADVP (RB Subsequently)) (, ,) (NP (NP (ADJP (JJ high) (JJ dimensional)) (JJ non-linear) (NN function) (NNS approximators)) (PP (IN like) (NP (JJ neural) (NNS networks)))) (VP (VBP have) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB learn) (NP (NNS policies)) (PP (IN from) (NP (NN scratch))))))))) (. .))

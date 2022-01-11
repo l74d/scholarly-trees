@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB improve) (NP (DT the) (NN accuracy))))) (, ,) (NP (DT the) (VBN proposed) (NN approach)) (VP (VP (VBZ uses) (NP (JJ multiple) (NNS curves))) (CC and) (VP (VBZ adjusts) (NP (DT the) (NN color) (NNS positions)))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN performed) (NP (JJ extensive) (NNS experiments)) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN effectiveness) (CC and) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))))))) (. .))

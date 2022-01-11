@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS models)) (VP (VP (VBP need) (NP (NP (JJ massive) (NNS amounts)) (PP (IN of) (NP (NNS data)))) (S (VP (TO to) (VP (VB train))))) (, ,) (CC and) (VP (VBP are) (VP (VBN limited) (PP (IN by) (NP (DT the) (NN dataset) (NNS characteristics)))))) (. .))

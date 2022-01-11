@@ -1,0 +1,2 @@
+(S (NP (NN Interference)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN issue)) (VP (VBG limiting) (NP (NP (DT the) (NN performance)) (PP (IN in) (NP (JJ wireless) (NNS networks))))))) (. .))
+(S (NP (NP (DT The) (NN rate)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (NNS receivers)) (VP (VBP cooperate))))) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ is) (VP (VBN limited) (PP (IN in) (NP (JJS most) (NNS scenarios))))) (. .))

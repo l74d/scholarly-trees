@@ -1,0 +1,2 @@
+(S (NP (NNP Service) (NN ecosystem)) (VP (VBZ is) (NP (NP (DT a) (JJ complex) (JJ dynamic) (NN system)) (PP (IN with) (NP (JJ continuous) (NN evolution))))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (PRP we)) (VP (VBP explain) (NP (DT the) (NN prediction) (NN model)) (, ,) (S (VP (VBG showing) (SBAR (WHADVP (WRB how)) (S (NP (JJ different) (NNS factors)) (VP (VBP affect) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (DT the) (NN service) (NN community)))))))))) (. .))

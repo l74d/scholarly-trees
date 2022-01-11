@@ -1,0 +1,2 @@
+(S (NP (NN Noise)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN factor)) (SBAR (WHNP (WDT that)) (S (VP (VBZ degrades) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (JJ medical) (NNS images))))))))) (. .))
+(S (PP (IN In) (NP (NN software) (NNS techniques))) (, ,) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (NN noise) (NN removal)))) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ important)) (PP (IN than) (NP (NP (DT the) (NN algorithm) (POS 's)) (NN complexity))))) (. .))

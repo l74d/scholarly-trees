@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ executes) (PP (IN in) (NP (JJ synchronous) (NNS rounds))) (PP (IN without) (S (VP (VBG exchanging) (NP (DT any) (NN message)))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN explained) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ our) (VBN proposed) (NN algorithm)) (VP (MD can) (VP (VP (VB achieve) (NP (JJ optimal) (NN energy) (NN consumption))) (CC and) (VP (JJ handle) (NP (NN random) (NN sensor) (JJ node) (NN deployment)) (PP (IN for) (NP (JJ optimal) (NN spreading)))))))))) (. .))

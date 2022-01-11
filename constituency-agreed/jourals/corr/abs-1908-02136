@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ crucial)) (NN problem)) (PP (IN of) (NP (DT this) (NN algorithm)))) (VP (VBZ is) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (VP (VBG running) (PP (IN in) (NP (JJ serial) (NN mode)))))) (, ,) (NP (PRP it)) (VP (VBZ decreases) (NP (NP (DT the) (NN speed)) (PP (IN of) (NP (NN clustering)))))))) (. .))

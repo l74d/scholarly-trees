@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ small) (NN part)) (PP (IN of) (NP (DT the) (NNP Torah)))) (VP (VBZ is) (VP (VBN arranged) (PP (IN into) (NP (DT a) (ADJP (CD two) (JJ dimensional)) (NN array))))) (. .))
+(S (NP (DT The) (NNS characters)) (VP (VBP are) (ADVP (RB then)) (VP (VBN permuted) (S (VP (VBG using) (NP (DT a) (JJ simple) (JJ recursive) (JJ deterministic) (NN algorithm)))))) (. .))

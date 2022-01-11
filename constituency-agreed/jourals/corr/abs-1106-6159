@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (MD can) (VP (VB analyze) (NP (DT these) (NN code) (NNS segments)) (S (VP (TO to) (VP (VB get) (NP (DT the) (NN code) (NN quality))))))) (. .))
+(S (NP (NP (DT Each)) (PP (IN of) (NP (DT these) (NN code) (NNS snippets)))) (VP (VBZ has) (NP (DT an) (NN impact))) (. .))

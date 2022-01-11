@@ -1,0 +1,1 @@
+(S (S (PP (IN In) (NP (DT some) (NNS cases))) (NP (PRP$ our) (NNS bounds)) (VP (VBP are) (ADJP (RB asymptotically) (JJ tight)))) (: ;) (S (PP (IN in) (NP (DT some) (NNS cases))) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB determine) (NP (JJ exact) (NNS values)))))))) (. .))

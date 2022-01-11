@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (PRP$ our) (NN knowledge)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (VBN automated) (NNS agents)) (VP (VBP are) (VP (VBG interacting) (PP (IN with) (NP (DT each) (JJ other))))))))) (VP (VBZ is) (ADJP (RB rather) (JJ poor))) (. .))
+(S (ADVP (RB Yet)) (, ,) (PP (ADVP (RB just)) (IN like) (NP (NNS humans))) (, ,) (NP (NP (NNS bots)) (PP (IN in) (NP (JJ different) (JJ cultural) (NNS environments)))) (VP (MD may) (VP (VB behave) (ADVP (RB differently)))) (. .))

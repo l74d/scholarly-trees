@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD proposed) (NP (NP (NNS regularisers)) (SBAR (WHNP (WDT which)) (S (VP (VBP support) (NP (NP (DT a) (JJ simple) (NN mechanism)) (PP (IN of) (S (VP (VBG dropping) (NP (NNS neurons)) (PP (IN during) (NP (DT a) (NN network) (NN training) (NN process)))))))))))) (. .))
+(S (NP (DT The) (NNS valuations)) (VP (VBP demonstrate) (NP (JJ excellent) (NN performance))) (. .))

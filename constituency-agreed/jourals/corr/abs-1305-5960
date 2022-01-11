@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ first)) (VP (VBZ says) (SBAR (IN that) (S (NP (NP (JJ linear) (NN encoder)) (PP (IN over) (NP (JJ non-field) (NN ring)))) (VP (MD can) (VP (VB be) (ADJP (RB equally) (JJ optimal) (PP (IN for) (S (VP (VBG compressing) (NP (NP (NNS data)) (VP (VBN generated) (PP (IN by) (NP (DT an) (JJ irreducible) (NNP Markov) (NN source)))))))))))))) (. .))

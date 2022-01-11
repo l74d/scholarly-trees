@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP extend) (NP (DT the) (VBN proposed) (NN idea)) (PP (IN with) (NP (NP (DT a) (JJ multi-head) (NN self) (NN attention) (NN mechanism)) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN attention) (NN head)) (VP (VBZ processes) (NP (DT the) (JJ audio) (NN embedding)) (PP (IN with) (NP (JJ explicit) (NN attention) (NN width) (NNS values))))))))) (. .))

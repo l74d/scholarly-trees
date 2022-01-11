@@ -1,0 +1,2 @@
+(S (NP (NN Image) (NN denoising)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ fundamental) (NNS problems)) (PP (IN in) (NP (NN image) (NN processing))))))) (. .))
+(S (NP (NP (DT The) (NN estimation)) (PP (IN of) (NP (DT the) (JJ noisy) (NNS pixels)))) (VP (VBD was) (VP (VBN obtained) (PP (IN by) (NP (JJ local) (NN averaging))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP prove) (NP (JJ finite) (NN sample) (NN complexity) (NN result))) (CC and) (VP (VB validate) (NP (DT the) (NNS results)) (PP (IN by) (NP (NNS simulations))))) (. .))

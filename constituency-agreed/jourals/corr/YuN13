@@ -1,0 +1,2 @@
+(S (NP (DT All) (NNS receivers)) (VP (VBP overhear) (NP (DT the) (JJ same) (NNS transmissions))) (. .))
+(S (NP (DT This) (NN problem)) (VP (VP (VBZ is) (VP (VBN known) (PP (IN as) (NP (DT the) (NN index) (VBG coding) (NN problem))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN by) (NP (DT a) (JJ bipartite) (NN digraph))))))) (. .))

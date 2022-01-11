@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT the) (NN adjacency) (NN matrix)))) (S (VP (TO to) (VP (VB obtain) (NP (JJR better) (NN role) (NN extraction)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP define) (NP (DT a) (JJ new) (JJ non-recursive) (NN similarity) (NN measure))) (CC and) (VP (VB compare) (NP (PRP$ its) (NNS results)) (PP (IN with) (NP (NP (DT the) (NNS ones)) (VP (VBN obtained) (PP (IN with) (NP (NP (NNP Browet) (POS 's)) (NN similarity) (NN measure)))))))) (. .))
+(S (NP (PRP We)) (VP (MD will) (VP (VB show) (NP (NP (DT the) (NN extraction)) (PP (IN of) (NP (DT the) (JJ different) (NNS roles)))) (PP (IN with) (NP (DT a) (JJ linear) (NN time) (NN complexity))))) (. .))

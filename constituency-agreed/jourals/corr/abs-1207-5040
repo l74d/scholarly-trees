@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT this) (NN problem)) (VP (VBZ is) (VP (VBN investigated) (PP (IN from) (NP (DT an) (NN information) (JJ theoretic) (NN viewpoint))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT these) (NNS bounds)) (VP (VBP coincide) (PP (IN for) (NP (DT some) (JJ special) (NNS cases)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ approximate) (NN algorithm)) (VP (VBZ is) (VP (VBN analyzed)))) (, ,) (CC and) (S (NP (NP (DT the) (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (PRP$ its) (NN output)) (VP (VBZ is) (ADJP (JJ different) (PP (IN from) (NP (DT the) (NNP ML) (NN output)))))))) (VP (VBP are) (VP (VBN deduced)))) (. .))

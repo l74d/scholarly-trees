@@ -1,0 +1,1 @@
+(S (S (VP (VBG Dereferencing) (NP (DT a) (NNP URI)))) (VP (VBZ returns) (NP (NP (DT a) (NN representation)) (PP (IN of) (NP (NP (DT the) (JJ current) (NN state)) (PP (IN of) (NP (NP (DT the) (NN resource)) (VP (VBN identified) (PP (IN by) (NP (DT that) (NNP URI)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (DT a) (JJ further) (NN study)) (PP (IN of) (NP (NP (DT the) (JJ relative) (NN phase) (NNP Toffoli) (NNS implementations)) (CC and) (NP (PRP$ their) (NN use))))) (VP (MD may) (VP (VB yield) (NP (JJ other) (NNS optimizations))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ iterative) (NNP RTD) (NN algorithm)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN proposed) (S (VP (TO to) (VP (VB obtain) (NP (DT a) (JJ suboptimal) (NN solution))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (VBN proposed) (NNP RTD) (NN algorithm)) (VP (VBZ outperforms) (NP (DT the) (JJ conventional) (JJ non-robust) (NN transmission) (NN design)) (ADVP (RB greatly)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN network) (JJ spectral) (NN efficiency)))))) (. .))

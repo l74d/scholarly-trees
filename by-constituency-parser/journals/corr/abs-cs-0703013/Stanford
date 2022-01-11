@@ -1,0 +1,5 @@
+(S (NP (NN NLC) (HYPH -) (NN width)) (VP (VBZ is) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (NP (NN clique) (HYPH -) (NN width)) (PP (IN with) (NP (NP (JJ many) (NN application)) (PP (IN in) (NP (NN graph) (JJ algorithmic))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN devoted) (PP (IN to) (NP (NP (NNS graphs)) (PP (IN of) (NP (NN NLC) (HYPH -) (NN width) (CD two))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NN alogrithm)) (VP (VBZ is) (ADJP (JJ simple) (S (VP (TO to) (VP (VB understand)))))) (. .))
+(S (NP (NP (DT The) (JJ above) (NNS properties)) (CC and) (NP (NN algorithm))) (VP (VBP allow) (S (NP (PRP us)) (VP (TO to) (VP (VB propose) (NP (NP (NP (DT a) (JJ robust) (NN $) (NN O)) (-LRB- -LRB-) (NP (NN n) (SYM ^) (CD 2) (NN m)) (-RRB- -RRB-) (NML (NML ($ $)) (HYPH -) (NML (NN time) (NN isomorphism))) (NN algorithm)) (PP (IN for) (NP (NML (NN NLC) (HYPH -) (CD 2)) (NNS graphs)))))))) (. .))
+(S (ADVP (ADVP (RB As) (RB far)) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP know))))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (DT the) (JJ first) (ADJP (JJ polynomial) (HYPH -) (NN time)) (NN algorithm))) (. .))

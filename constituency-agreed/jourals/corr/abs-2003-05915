@@ -1,0 +1,1 @@
+(S (S (VP (VBG Splitting) (NP (DT a) (JJ literal) (JJ genomic) (NN sequence)) (PP (IN into) (NP (CD 4) (JJ binary) (NNS files))))) (VP (VBZ is) (ADJP (JJ enough) (S (VP (TO to) (VP (VB ensure) (NP (NN confidentiality) (CC and) (NN integrity)) (PP (IN during) (NP (NP (NN storage) (CC and) (NN transfer)) (PP (IN of) (NP (NN information)))))))))) (. .))

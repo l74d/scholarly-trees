@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (S (VP (TO to) (VP (VB use) (NP (JJ double) (JJ stochastic) (NN gradient) (NN descent)) (, ,) (PP (DT both) (PP (IN on) (NP (DT the) (NNS data))) (CC and) (PP (IN on) (NP (DT the) (NNS perturbations)))) (, ,) (PP (IN for) (NP (JJ efficient) (NN learning))))))) (. .))

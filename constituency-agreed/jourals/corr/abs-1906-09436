@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP start) (PP (IN with) (NP (NN projection) (CC and) (NN reconstruction)))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP discuss) (PP (IN on) (NP (NP (NP (DT the) (NN rank)) (PP (IN of) (NP (DT the) (NNS scatters)))) (CC and) (NP (NP (DT the) (NN dimensionality)) (PP (IN of) (NP (DT the) (NN subspace))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NP (JJ possible) (NN singularity)) (PP (IN of) (NP (DT the) (NN scatter)))) (VP (VBZ is) (VP (VBN discussed) (S (VP (TO to) (VP (VB introduce) (NP (JJ robust) (NNP FDA))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (NNP FDA)) (CC and) (NP (JJ linear) (JJ discriminant) (NN analysis))) (VP (VBP are) (ADJP (JJ equivalent)))))) (. .))

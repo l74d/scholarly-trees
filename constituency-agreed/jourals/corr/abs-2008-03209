@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN effect)) (PP (IN of) (S (VP (VBG training) (NP (DT an) (JJ infinite) (NN mixture) (NN distribution)) (PP (IN with) (NP (NP (DT the) (JJ maximum) (NN likelihood) (NN method)) (PP (RB instead) (IN of) (NP (JJ variational) (NN inference)))))))))) (. .))

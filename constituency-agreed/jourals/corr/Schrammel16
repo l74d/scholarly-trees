@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NNS instances)) (PP (IN of) (NP (NP (JJ such) (NNS encodings)) (PP (IN for) (NP (JJ large) (NNS programs)))))) (VP (MD can) (ADVP (RB quickly)) (VP (VB overwhelm) (NP (DT these) (JJ back) (NN end) (NNS solvers)))) (. .))

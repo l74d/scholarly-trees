@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN response))) (, ,) (NP (NP (JJ pre-processing) (NNS techniques)) (PP (IN on) (NP (NN dataset)))) (VP (VP (VBZ minimizes) (NP (DT the) (NN side) (NNS effects))) (CC and) (VP (VBP have) (VP (VBN shown) (NP (NN success)) (PP (IN in) (S (VP (VBG maintaining) (NP (DT the) (JJ adequate) (NN accuracy)))))))) (. .))

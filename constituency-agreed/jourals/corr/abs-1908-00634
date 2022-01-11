@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (PRP$ our) (CD two) (VBN proposed) (NNS systems)))) (VP (VBZ is) (VP (VBN assessed) (PP (IN by) (S (VP (VBG using) (NP (CD five) (NNS databases))))))) (. .))
+(S (ADVP (RB Indeed)) (, ,) (NP (DT the) (NN recognition) (NN rate)) (VP (VBZ exceeds) (NP (CD 98) (NN %))) (. .))

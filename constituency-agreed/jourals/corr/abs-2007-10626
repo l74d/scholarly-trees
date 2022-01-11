@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ detailed) (NN error) (NNS bounds)) (PP (IN under) (NP (NP (JJ specific) (NN noise) (NNS distributions)) (PP (VBG including) (NP (NP (JJ additive) (JJ Gaussian) (NN noise)) (, ,) (NP (JJ additive) (NNP Laplace) (NN noise)) (, ,) (CC and) (NP (NNP Poisson) (NNS observations))))))) (VP (MD can) (VP (VB be) (VP (VBN derived)))) (. .))

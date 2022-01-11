@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN estimation) (NN method)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ efficient)) (SBAR (IN as) (S (NP (PRP$ its) (NN computation) (NN cost)) (VP (VBZ does) (RB not) (VP (VB increase) (ADVP (RB exponentially)) (PP (IN with) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS classes)))))))))) (. .))

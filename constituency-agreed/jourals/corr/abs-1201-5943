@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN memory) (NN network)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ simple) (NN network) (NNS cells)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN arranged) (PP (IN in) (NP (DT a) (JJ hierarchical) (JJ modular) (NN architecture))))))))))) (. .))
+(S (NP (NP (JJ Cognitive) (NN functionality)) (PP (IN of) (NP (DT this) (NN network)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN by) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NN character) (NN recognition))))))) (. .))

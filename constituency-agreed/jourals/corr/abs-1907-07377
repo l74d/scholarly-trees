@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (NP (DT the) (JJ traditional) (NNP IDS)) (PP (IN for) (NP (NNP Internet))))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ small) (NN number)) (PP (IN of) (NP (NP (JJ known) (NN attack) (NNS signatures)) (PP (IN for) (NP (NN vehicle) (NNS networks))))))) (. .))
+(S (NP (NNP GIDS)) (VP (MD can) (VP (VB learn) (S (VP (TO to) (VP (VB detect) (NP (JJ unknown) (NNS attacks)) (S (VP (VBG using) (NP (RB only) (JJ normal) (NNS data))))))))) (. .))

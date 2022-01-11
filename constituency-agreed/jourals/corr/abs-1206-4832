@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT these) (NNS methods)))) (VP (VBZ depends) (PP (IN on) (NP (NP (JJ several) (NNS parameters)) (, ,) (PP (JJ such) (IN as) (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (DT a) (JJ suitable) (NN smoothing) (NN kernel)))))))) (. .))

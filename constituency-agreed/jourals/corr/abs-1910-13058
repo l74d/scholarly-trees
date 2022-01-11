@@ -1,0 +1,3 @@
+(S (NP (NNS Datasets)) (VP (VP (VBP play) (NP (DT an) (JJ important) (NN role)) (PP (IN in) (NP (NP (DT the) (NN advancement)) (PP (IN of) (NP (NN software) (NNS tools)))))) (CC and) (VP (VB facilitate) (NP (PRP$ their) (NN evaluation)))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT these) (JJ incorrect) (NNS claims)) (CC and) (NP (NP (JJ other) (NNS contributions)) (VP (VBN listed) (PP (IN by) (NP (NNP CriticalReview))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (NP (JJ general) (NNS misconceptions)) (PP (IN about) (NP (NNP BugSwarm)))) (, ,) (CC and) (NP (NP (PRP$ our) (NN vision)) (PP (IN for) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT the) (NN infrastructure) (CC and) (NN dataset)))))))) (. .))

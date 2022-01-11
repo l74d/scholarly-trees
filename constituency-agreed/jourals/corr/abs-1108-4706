@@ -1,0 +1,3 @@
+(S (S (VP (VBG Debugging) (NP (JJ lazy) (JJ functional) (NNS programs)))) (VP (VBZ poses) (NP (JJ serious) (NNS challenges))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ supplemental) (NN tool)) (, ,) (NP (DT the) (JJ algebraic) (NN program) (NN stepper)))) (. .))
+(S (NP (DT An) (JJ algebraic) (NN stepper)) (VP (VBZ shows) (NP (NN computation)) (PP (IN as) (NP (DT a) (JJ mathematical) (NN calculation)))) (. .))

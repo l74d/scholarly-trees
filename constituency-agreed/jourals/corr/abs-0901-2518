@@ -1,0 +1,4 @@
+(S (NP (NNP GSTE)) (VP (VBZ uses) (NP (NN abstraction)) (, ,) (S (VP (VBG meaning) (SBAR (IN that) (S (NP (NP (NNS details)) (PP (IN of) (NP (DT the) (NN circuit) (NN behaviour)))) (VP (VBP are) (VP (VBN removed) (PP (IN from) (NP (DT the) (NN circuit) (NN model)))))))))) (. .))
+(S (NP (JJ Several) (NNS semantics)) (VP (VBP have) (VP (VBN been) (VP (VBN described) (PP (IN for) (NP (NNP GSTE)))))) (. .))
+(S (NP (NP (DT The) (NNS semantics)) (VP (VBN mentioned) (ADVP (RB above)))) (VP (MD can) (RB not) (VP (VB help) (NP (DT the) (NN user)) (PP (IN in) (S (VP (VBG doing) (ADVP (RB so))))))) (. .))
+(S (NP (NP (DT The) (NN contribution)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (NP (NP (DT a) (JJ faithful) (NNS semantics)) (PP (IN for) (NP (NNP GSTE))))) (. .))

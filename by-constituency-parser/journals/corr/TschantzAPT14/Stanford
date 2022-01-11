@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (NML (NN censorship) (NN evasion)) (NNS tools)))) (VP (MD should) (VP (VB depend) (PP (IN upon) (NP (NP (JJ economic) (NNS models)) (PP (IN of) (NP (NN censorship)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NN position)) (PP (IN with) (NP (NP (DT a) (JJ simple) (NN model)) (PP (IN of) (NP (NP (DT the) (NNS costs)) (PP (IN of) (NP (NN censorship)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (NN model)) (VP (VBZ makes) (NP (NP (NNS suggestions)) (PP (IN for) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB evade) (NP (NN censorship)))))))))))) (. .))
+(S (PP (IN In) (ADJP (JJ particular))) (, ,) (PP (IN from) (NP (PRP it))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NN evaluation) (NNS criteria))) (. .))
+(S (NP (PRP We)) (VP (VBP examine) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ our) (NNS criteria)) (VP (VBP compare) (PP (IN to) (NP (NP (DT the) (JJ traditional) (NNS methods)) (PP (IN of) (NP (NP (NN evaluation)) (VP (VBN employed) (PP (IN in) (NP (JJ prior) (NNS works)))))))))))) (. .))

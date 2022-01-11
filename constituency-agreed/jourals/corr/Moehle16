@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN done) (PP (IN by) (S (VP (VP (VBG dividing) (NP (DT the) (NN planning) (NN horizon)) (PP (IN into) (NP (CD two) (NNS segments)))) (, ,) (CC and) (VP (VBG using) (NP (DT a) (JJ quadratic) (NN function)) (S (VP (TO to) (VP (VB approximate) (NP (NP (DT the) (JJ optimal) (NN cost)) (PP (IN over) (NP (DT the) (JJ second) (NN segment))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (PP (IN with) (NP (CD two) (JJ simulated) (NNS examples)))) (. .))

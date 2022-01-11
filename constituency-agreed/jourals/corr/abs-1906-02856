@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ current) (NN diffusion) (NNS models)) (VP (MD can) (RB not) (VP (VB capture) (NP (NP (NNS transmissions)) (VP (VBG occurring) (PP (IN for) (NP (JJ indirect) (NNS interactions))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (JJ current) (NN diffusion) (NNS models)) (VP (VBP miss) (NP (NNS transmissions)) (PP (IN during) (NP (JJ indirect) (NNS interactions)))) (. .))
+(S (S (NP (NP (DT The) (NN behaviour)) (PP (IN of) (NP (NNP SPDT) (NN diffusion)))) (VP (VBZ is) (VP (VBN analysed) (PP (IN on) (NP (JJ real) (JJ dynamic) (NN contact) (NNS networks)))))) (CC and) (S (NP (NP (DT a) (JJ significant) (NN amplification)) (PP (IN in) (NP (NN diffusion) (NNS dynamics)))) (VP (VBZ is) (VP (VBN observed)))) (. .))

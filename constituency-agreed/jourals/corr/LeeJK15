@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (NP (JJ advanced) (NN analysis)) (PP (IN of) (NP (JJ large) (NN dataset)))) (VP (VBZ is) (PP (IN in) (NP (JJ high) (NN demand)))))) (, ,) (NP (NNS data) (NNS sizes)) (VP (VBP have) (VP (VBN surpassed) (NP (NP (NNS capabilities)) (PP (IN of) (NP (JJ conventional) (NN software) (CC and) (NN hardware)))))) (. .))

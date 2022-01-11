@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (NN power) (NN efficiency)) (VP (VBZ is) (ADJP (RB much) (JJR lower))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT the) (NN power) (NN efficiency)) (CC and) (NP (NP (DT the) (NN fairness)) (PP (IN along) (NP (NN time))))) (VP (VBP are) (NP (CD two) (JJ incompatible) (NNS objects))) (. .))

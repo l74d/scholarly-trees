@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ embeddable) (NN hardware) (NN module)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB denoise) (NP (JJ medical) (NNS images)) (PP (IN before) (CC and) (IN during) (NP (JJ surgical) (NNS operations))))))))))) (VP (MD could) (VP (VB be) (ADJP (RB very) (JJ helpful)))) (. .))

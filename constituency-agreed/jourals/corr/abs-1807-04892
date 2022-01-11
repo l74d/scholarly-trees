@@ -1,0 +1,2 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ automatic) (NN computer) (NN analysis)) (VP (MD can) (ADVP (RB automatically)) (VP (VB identify) (NP (NP (DT the) (JJ geographical) (NN location)) (PP (IN of) (NP (DT the) (NNP StreetView) (NN image))))))))) (. .))
+(S (NP (NP (DT The) (NN source) (NN code)) (VP (VBN used) (PP (IN for) (NP (DT the) (NN analysis))))) (VP (VBZ is) (ADJP (ADJP (JJ open)) (CC and) (ADJP (RB publicly) (JJ available)))) (. .))

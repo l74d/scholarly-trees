@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN gap)) (VP (MD may) (VP (VP (VB prevent) (NP (DT a) (NN classifier)) (PP (IN from) (S (VP (VBG learning) (NP (DT the) (JJ optimal) (NN decision) (NN boundary)))))) (CC and) (VP (VB increase) (NP (DT the) (NN generalization) (NN error))))) (. .))

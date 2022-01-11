@@ -1,0 +1,2 @@
+(S (NP (NP (RB Only) (DT the) (JJ active) (NN set)) (PP (IN of) (NP (NN sensor) (NNS nodes)))) (VP (VBP participate) (PP (IN in) (NP (NNS data) (NN collection)))) (. .))
+(S (SBAR (IN If) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ active) (NN sensor) (NNS nodes)))) (VP (MD can) (VP (VB be) (VP (VBN minimized)))))) (, ,) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN energy)))) (VP (MD can) (VP (VB be) (VP (VBN saved)))) (. .))

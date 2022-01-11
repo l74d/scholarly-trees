@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ diagonal) (NN processor)) (VP (VBZ uses) (NP (NP (NN priority) (NNS encoders)) (, ,) (NP (NNP Barrel) (NNS shifters)) (, ,) (CC and) (NP (NNS comparators))) (S (VP (TO to) (VP (VB calculate) (NP (DT the) (NN rotation) (NNS angles)))))) (. .))
+(S (NP (DT Both) (NNS processors)) (VP (VBP use) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS adders)))) (S (VP (TO to) (VP (VB apply) (NP (DT the) (NN rotation) (NNS angles)))))) (. .))

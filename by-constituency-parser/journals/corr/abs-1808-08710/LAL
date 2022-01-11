@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ lengthy) (NN proof)) (PP (IN of) (NP (DT a) (JJ small) (NN result))))) (. !))
+(S (NP (DT A) (NN graph)) (VP (VBZ is) (ADJP (JJ bisplit)) (SBAR (IN if) (S (NP (PRP$ its) (NN vertex) (VBN set)) (VP (MD can) (VP (VB be) (VP (VBN partitioned) (PP (IN into) (NP (NP (CD three) (JJ stable) (NNS sets)) (PP (IN with) (S (NP (NP (CD two)) (PP (IN of) (NP (PRP them)))) (VP (VBG inducing) (NP (DT a) (JJ complete) (NN bipartite) (NN graph))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Essentially)) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB distinguish) (PP (IN between) (NP (NP (ADJP (JJ positive) (CC and) (JJ negative)) (NN information)) (PP (IN on) (NP (JJ closed) (NNS sets))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (PDT all) (DT the) (CD four) (VBG resulting) (NNS versions)) (PP (IN of) (NP (DT the) (NNP Baire) (NNP Category) (NNP Theorem))))) (. .))

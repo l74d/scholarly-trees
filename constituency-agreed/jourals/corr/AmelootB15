@@ -1,0 +1,2 @@
+(S (NP (JJ Reducible) (NNS tasks)) (VP (VBP have) (NP (DT an) (JJ acyclic) (NN solution))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (ADVP (RB syntactically)) (VB characterize) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT the) (JJ final) (NN policy))))) (. .))

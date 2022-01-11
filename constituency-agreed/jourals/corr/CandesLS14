@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ develops) (NP (NP (NP (DT a) (JJ non-convex) (NN formulation)) (PP (IN of) (NP (DT the) (NN phase) (NN retrieval) (NN problem)))) (CONJP (RB as) (RB well) (IN as)) (NP (DT a) (JJ concrete) (NN solution) (NN algorithm)))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NNS methods)))) (PP (IN with) (NP (NP (JJ various) (NNS experiments)) (PP (IN on) (NP (NN image) (NNS data)))))) (. .))

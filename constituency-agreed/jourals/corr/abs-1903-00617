@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (NNP VB)) (VP (VBZ approximates) (NP (DT the) (JJ posterior) (NN mean)) (ADVP (RB perfectly)))))) (. .))
+(S (NP (NP (NNS Factors)) (VP (VBG affecting) (NP (NP (DT the) (NN magnitude)) (PP (IN of) (NP (NP (NN underestimation)) (PP (IN in) (NP (JJ posterior) (NN variance) (CC and) (NN mode)))))))) (VP (VBP are) (VP (VBN revealed))) (. .))
+(S (ADVP (RB Importantly)) (, ,) (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NNP VB)) (VP (VBZ estimates) (NP (JJ predictive) (NNS densities)) (ADVP (RB accurately)))))) (. .))

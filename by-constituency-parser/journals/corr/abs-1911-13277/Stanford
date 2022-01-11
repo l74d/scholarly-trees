@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN note)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT the) (NN matrix) (NNS forms)) (PP (IN of) (NP (JJ several) (NML (CD one) (HYPH -) (NN parameter)) (NN distribution) (NNS families)))) (VP (VBP satisfy) (NP (DT a) (JJ hierarchical) (NML (JJ low) (HYPH -) (NN rank)) (NN structure)))))) (. .))
+(S (NP (DT The) (NN proof)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN uniform)) (VP (ADVP (JJ relative)) (VBN bound) (PP (IN of) (NP (DT a) (JJ related) (NN divergence) (NN function)))))))) (. .))
+(S (NP (NNP Numerical) (NNS results)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB confirm) (NP (DT the) (JJ theoretical) (NNS findings))))))) (. .))

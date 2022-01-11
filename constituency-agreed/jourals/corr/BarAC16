@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT a) (JJ novel) (JJ non-parametric) (NN clustering) (NN technique))) (. .))
+(S (S (VP (VBG Analyzing) (NP (NP (DT the) (NN density)) (PP (IN of) (NP (DT the) (JJ local) (NNS neighborhoods)))))) (VP (VBZ allows) (S (VP (VP (VBG identifying) (NP (DT the) (NN border) (NNS points))) (CC and) (VP (VBG associating) (NP (PRP them)) (PP (IN with) (NP (NP (NNS points)) (PP (IN of) (NP (JJ inner) (NNS layers))))))))) (. .))

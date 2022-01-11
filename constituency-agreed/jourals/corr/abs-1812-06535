@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ optimal) (NN clustering)) (VP (VBZ is) (VP (VBN found) (PP (IN by) (S (VP (VBG minimizing) (NP (NP (DT the) (NN reconstruction) (NN loss)) (PP (IN of) (NP (NP (DT the) (NN mixture)) (PP (IN of) (NP (NN autoencoder) (NN network))))))))))) (. .))

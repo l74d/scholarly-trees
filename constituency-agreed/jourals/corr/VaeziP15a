@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (NN light)) (PP (IN of) (NP (DT this) (NN capacity) (NN result))))) (, ,) (NP (NP (DT the) (NN capacity) (NN region)) (PP (IN of) (NP (DT the) (JJ degraded) (JJ Gaussian) (NN interference) (NN channel)))) (VP (VBZ is) (VP (VBN established) (ADVP (RB immediately)))) (. .))
+(S (NP (JJ Optimal) (NNS values)) (VP (VBP are) (VP (VBN found) (ADVP (RB explicitly)) (, ,) (PP (VBN based) (PP (IN on) (NP (DT the) (JJ above) (NNS parameters)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBD developed) (NP (DT a) (ADJP (JJ flexible) (CC and) (JJ general)) (NN framework))) (CC and) (VP (VBD implemented) (NP (PRP$ our) (NN approach)) (PP (IN inside) (NP (DT that) (NN framework))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD released) (NP (PRP$ our) (NN implementation)) (PP (IN as) (NP (JJ open) (NN source) (NNP C++) (NN code)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ transient) (NN performance)) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ non-zero) (NN initialization) (NNS errors)))))) (VP (VBZ is) (VP (VBN quantified) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (VBG decreasing) (NNS functions))))))) (. .))
+(S (NP (NP (JJ Rigorous) (JJ mathematical) (NN analysis)) (CC and) (NP (JJ illustrative) (NNS examples))) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB validate) (NP (DT the) (JJ theoretical) (NNS claims))))))) (. .))

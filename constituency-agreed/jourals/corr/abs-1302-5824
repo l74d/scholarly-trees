@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP confirm) (SBAR (IN that) (S (NP (DT both)) (VP (VBP are) (NP (DT the) (JJ minimal) (NNS sets)))))) (CC and) (VP (VB verify) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (PRP$ their) (NNS members)))) (ADVP (RB computationally)))) (. .))

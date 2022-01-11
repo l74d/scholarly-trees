@@ -1,0 +1,2 @@
+(S (NP (DT An) (NN operad)) (VP (VBZ is) (NP (NP (DT an) (JJ algebraic) (NN structure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ mimics) (NP (NP (DT the) (NN composition)) (PP (IN of) (NP (DT the) (NNS functions))))))))) (. .))
+(S (NP (DT The) (JJ involved) (NNS operads)) (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ combinatorial) (NNS objects))))))) (. .))

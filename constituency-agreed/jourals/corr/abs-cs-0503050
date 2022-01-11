@@ -1,0 +1,1 @@
+(S (NP (NP (NN Execution)) (PP (IN of) (NP (NP (DT all) (NNS paths)) (PP (IN from) (NP (DT the) (NN set)))))) (VP (VBZ ensures) (ADVP (RB also)) (NP (NN statement) (NN coverage))) (. .))

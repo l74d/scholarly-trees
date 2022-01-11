@@ -1,0 +1,2 @@
+(S (NP (NP (DT No) (JJ prior) (NN knowledge)) (PP (IN of) (NP (DT each) (NN set)))) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB extract) (NP (DT the) (NNS samples))))))) (. .))
+(S (S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (CD three) (ADJP (RB publicly) (JJ available)) (NNS data) (NNS sets)))))) (CC and) (S (NP (DT the) (NN performance) (NNS scores)) (VP (VBP are) (ADJP (JJ competitive)))) (. .))

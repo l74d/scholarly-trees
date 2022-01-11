@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG obtaining) (NP (NN example) (NNS registrations)))) (VP (VBZ is) (RB not) (ADJP (JJ trivial))) (. .))
+(S (SBAR (IN After) (S (NP (DT a) (NNP ConvNet)) (VP (VBZ has) (VP (VBN been) (VP (VBN trained) (PP (IN with) (NP (DT the) (NNP DLIR) (NN framework)))))))) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB register) (NP (NP (NNS pairs)) (PP (IN of) (NP (JJ unseen) (NNS images)))) (PP (IN in) (NP (CD one) (NN shot))))))))) (. .))

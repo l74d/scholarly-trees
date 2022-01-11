@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Empirical) (NNS data)) (PP (IN from) (NP (NN benchmark) (NNS networks)))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN interplay)) (PP (IN between) (NP (NP (NN network) (NN structure)) (CC and) (NP (JJ operational) (NN efficiency) (, ,) (NN reliability) (CC and) (NN robustness)))))))))) (. .))

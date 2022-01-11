@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (JJ probabilistic) (NN density)) (VP (VBZ is) (ADJP (JJ unknown))))) (, ,) (NP (PRP we)) (VP (VBP estimate) (NP (PRP it)) (PP (IN by) (S (VP (VBG using) (NP (DT the) (NN kernel) (NN density) (NN estimation)) (PP (IN on) (NP (DT each) (NN training) (NN mini-batch))))))) (. .))

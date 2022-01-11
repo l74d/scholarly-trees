@@ -1,0 +1,2 @@
+(S (S (NP (DT This) (NN strategy)) (VP (VBZ brings) (NP (JJ full) (NN diversity)))) (CC but) (S (NP (DT the) (NN symbol) (NN rate)) (VP (VBZ is) (RB not) (ADJP (JJ optimal)))) (. .))
+(S (NP (DT This) (JJ last) (NN strategy)) (VP (VBZ brings) (NP (CC both) (NP (JJ full) (NN diversity)) (CC and) (NP (JJ full) (NN symbol) (NN rate)))) (. .))

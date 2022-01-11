@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NNS bounds)) (VP (VBP depend) (PP (IN on) (NP (NP (NNS properties)) (PP (IN of) (NP (DT the) (NN training) (NNS data))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP investigate) (NP (PRP$ their) (JJ empirical) (NNS values)) (PP (IN with) (NP (JJ real) (NNS data))))) (. .))

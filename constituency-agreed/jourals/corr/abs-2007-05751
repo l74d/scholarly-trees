@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN value)) (PP (IN of) (NP (JJ canonical) (NN correlation)))) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NN feature) (NN selection))))) (. .))
+(S (NP (NP (JJ Gaussian) (NN mixture) (NN model)) (CC and) (NP (JJ Gaussian) (NN process) (NN regression))) (VP (VBP are) (VP (VBN applied) (PP (IN for) (NP (NN driver) (NN behavior) (NN modelling))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP are) (ADJP (JJ consistent) (PP (IN with) (NP (NP (DT the) (NN driver) (POS 's)) (NN judgment))))) (. .))
+(S (NP (JJ Comparative) (NNS studies)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN framework)) (VP (MD can) (VP (VB obtain) (NP (DT a) (JJR better) (NN performance))))))) (. .))

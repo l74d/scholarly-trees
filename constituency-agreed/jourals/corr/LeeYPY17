@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NN range) (NNS data))))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VP (VB build) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN scene) (NNS fragments)))) (S (VP (VBG using) (NP (NNP KinectFusion))))) (CC and) (VP (VB register) (NP (PRP them)) (PP (IN through) (NP (NN pose) (NN graph) (NN optimization))))) (. .))

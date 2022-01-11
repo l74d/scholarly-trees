@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN node)) (VP (MD can) (VP (VB employ) (NP (DT the) (NN algorithm)) (S (VP (TO to) (VP (VB estimate) (NP (DT the) (JJ global) (NN time)) (PP (VBN based) (PP (IN on) (NP (PRP$ its) (JJ local) (NN clock) (NN time))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT a) (NN modification)) (PP (IN on) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN presented) (S (VP (TO to) (VP (VB improve) (NP (DT the) (JJ initial) (NN convergence) (NN speed))))))) (. .))

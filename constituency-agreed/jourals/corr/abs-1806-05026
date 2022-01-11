@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (JJ industrial) (NNS applications))) (, ,) (ADVP (RB however)) (, ,) (NP (NN reliability)) (VP (VBZ is) (ADJP (JJ essential))) (. .))
+(S (NP (NP (DT The) (NN slot) (NN schedule)) (VP (VBN used) (PP (IN in) (NP (DT these) (NNS networks))))) (VP (VBZ is) (PP (IN of) (NP (NP (JJ high) (NN importance)) (PP (IN for) (NP (DT the) (NN network) (NN performance)))))) (. .))
+(S (NP (DT An) (NN evaluation)) (VP (VBZ compares) (NP (DT the) (NN model)) (PP (IN with) (NP (NP (DT a) (NN simulation)) (PP (IN of) (NP (DT the) (NNP Orchestra) (NN schedule)))))) (. .))

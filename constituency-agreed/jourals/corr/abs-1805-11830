@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN framework)) (PP (IN for) (NP (NN interpolation)))) (VP (VBZ is) (VP (VBN provided) (PP (IN by) (NP (NNP Universal) (NNP Kriging))))) (. .))
+(S (NP (DT A) (JJ first) (NN contribution)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (DT an) (JJ original) (NN sampling) (NN strategy)))))) (. .))

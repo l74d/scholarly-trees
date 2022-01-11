@@ -1,0 +1,1 @@
+(S (S (NP (PRP It)) (VP (VBZ generates) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN candidate) (NNS patterns)))) (PP (IN from) (NP (NP (JJ frequent) (NNS patterns)) (PP (IN of) (NP (JJR smaller) (NN size))))))) (: ;) (S (NP (DT all) (JJ possible) (NNS patterns)) (VP (VBP are) (RB not) (VP (VBN counted)))) (. .))

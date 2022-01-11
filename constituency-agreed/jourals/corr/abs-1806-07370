@@ -1,0 +1,3 @@
+(S (S (NP (JJ Convolutional) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN achieved) (NP (JJ great) (NN success)) (PP (IN in) (NP (JJ various) (NN vision) (NNS tasks)))))) (: ;) (S (ADVP (RB however)) (, ,) (NP (PRP they)) (VP (VBP incur) (NP (JJ heavy) (NN resource) (NNS costs)))) (. .))
+(S (PP (IN By) (S (VP (VBG using) (NP (ADJP (JJR deeper) (CC and) (JJR wider)) (NNS networks))))) (, ,) (NP (NN network) (NN accuracy)) (VP (MD can) (VP (VB be) (VP (VBN improved) (ADVP (RB rapidly))))) (. .))
+(S (NP (DT This) (NN study)) (VP (VBZ shows) (SBAR (IN that) (S (NP (JJ naive) (NN convolution)) (VP (MD can) (VP (VB be) (VP (VBN deconstructed) (PP (IN into) (NP (NP (DT a) (NN shift) (NN operation)) (CC and) (NP (NN pointwise) (NN convolution)))))))))) (. .))

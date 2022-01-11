@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (DT both)) (PP (IN of) (NP (PRP them)))) (VP (VBP have) (NP (NNS drawbacks))) (. .))
+(S (NP (NNP OIM) (NN loss)) (VP (VP (VBZ treats) (NP (DT all) (NNS samples)) (ADVP (RB equally))) (CC and) (VP (VBZ puts) (NP (DT no) (NN emphasis)) (PP (IN on) (NP (JJ hard) (NNS samples))))) (. .))

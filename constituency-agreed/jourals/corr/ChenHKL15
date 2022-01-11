@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN modified) (NN reduction)) (VP (VBZ does) (RB not) (VP (VB solve) (NP (DT any) (JJ auxiliary) (JJ linear) (NN difference) (NN equation)) (ADVP (RB explicitly)))) (. .))
+(S (NP (DT The) (JJ new) (NN algorithm)) (VP (MD can) (VP (VB avoid) (NP (NP (DT the) (JJ costly) (NN computation)) (PP (IN of) (NP (NNS certificates)))))) (. .))

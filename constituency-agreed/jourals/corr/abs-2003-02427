@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN grasp) (NN point) (NN detection)) (PP (IN for) (NP (NN bin) (NN picking)))) (VP (VBZ is) (VP (VBN described) (PP (IN for) (NP (DT the) (NN kitting) (NN task))) (, ,) (S (VP (VBG using) (NP (DT a) (JJ single) (NN depth) (NN map)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (PP (IN through) (NP (NP (NNS experiments)) (VP (VBN performed) (PP (IN during) (NP (DT the) (NN competition))))))) (. .))

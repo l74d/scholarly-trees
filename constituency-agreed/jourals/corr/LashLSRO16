@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS works)) (VP (VBP are) (ADVP (RB often)) (VP (VBN accompanied) (PP (IN by) (NP (JJ naive) (NNS assumptions))))) (. .))
+(S (NP (DT Each) (NN change)) (VP (VBZ incurs) (NP (NP (DT an) (JJ individual) (NN cost)) (, ,) (ADJP (CC either) (JJ linear) (CC or) (JJ non-linear)))) (. .))

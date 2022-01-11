@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN analysis)) (VP (VP (VBZ uses) (NP (NP (DT the) (NN curvature)) (PP (IN of) (NP (DT the) (JJ submodular) (NN set) (NN function))))) (, ,) (CC and) (VP (VBZ proves) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ runs) (PP (IN in) (NP (JJ polynomial) (NN time)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ formulates) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ combinatorial) (NN optimization) (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP appear) (PP (IN in) (NP (NNS robotics)))))))))) (. .))

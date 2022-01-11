@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN choice)) (PP (IN of) (NP (DT these) (JJ abstract) (NN domain)))) (VP (VBZ is) (NP (NP (DT a) (NN parameter)) (PP (IN of) (NP (DT the) (NN analysis))))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (JJ various) (NNS instances)) (VP (VBN built) (PP (IN from) (NP (VBG existing) (JJ abstract) (NNS domains)))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ its) (NN potential)) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ representative) (NNS examples)))))) (. .))

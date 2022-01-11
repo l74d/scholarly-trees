@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NNP SPO) (NNS sentences)))) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN as) (NP (NP (DT a) (NN knowledge) (NN graph)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN transformed) (PP (IN into) (NP (DT an) (NN adjacency) (NN tensor))))))))))))) (. .))

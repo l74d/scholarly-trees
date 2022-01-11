@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (JJ global) (NN variance))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (VBZ is) (PP (IN in) (NP (NNP PSPACE)))))) (, ,) (CC and) (SBAR (IN that) (S (NP (DT the) (NN answer)) (VP (MD can) (VP (VB be) (VP (VBN approximated) (PP (IN in) (NP (JJ pseudo-polynomial) (NN time)))))))))) (. .))
+(S (PP (IN For) (NP (JJ local) (NN variance))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN decision) (NN problem)) (VP (VBZ is) (PP (IN in) (NP (NNP NP))))))) (. .))

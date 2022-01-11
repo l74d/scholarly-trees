@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ complex) (NN pattern) (NN recognition) (NN problem)) (PP (IN like) (NP (NN face) (NN recognition)))) (VP (VBZ involves) (NP (NP (JJ huge) (NN dimension)) (PP (IN of) (NP (NN input) (NN feature) (NN vector))))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBZ has) (VP (VBN shown) (NP (ADJP (RB very) (JJ good)) (NN performance)))) (. .))

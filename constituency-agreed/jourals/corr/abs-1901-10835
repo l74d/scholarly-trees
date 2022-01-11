@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (JJ spectral) (NN analysis)) (PP (IN of) (NP (DT some) (JJ special) (NNS kernels)))) (VP (VBP are) (VP (VBN provided))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT a) (JJ numerical) (NN example)) (VP (VBZ is) (VP (VBN given) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT the) (VBN proposed) (NN kernel))))))))) (. .))

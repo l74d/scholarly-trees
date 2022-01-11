@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB efficiently)) (PP (IN despite) (NP (NP (DT the) (JJ high) (NN dimensionality)) (PP (IN of) (NP (DT the) (NNS data))))))))))) (. .))

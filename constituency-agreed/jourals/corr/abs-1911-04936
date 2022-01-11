@@ -1,0 +1,2 @@
+(S (NP (NP (DT Each) (NN layer)) (PP (IN of) (NP (DT the) (NN hierarchy)))) (VP (VBZ is) (VP (VBN designed) (PP (IN with) (NP (DT a) (JJ separate) (NN reward) (NN function))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (JJ stable) (NN training))))))) (. .))
+(S (PP (IN In) (NP (NP (DT the) (NN spirit)) (PP (IN of) (NP (JJ reproducible) (NN research))))) (NP (PRP we)) (VP (VBP make) (S (NP (PRP$ our) (NNS data) (, ,) (NNS models) (, ,) (CC and) (NN code)) (ADJP (RB publicly) (JJ available)))) (. .))

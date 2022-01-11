@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN test)) (VP (MD may) (RB not) (VP (VB succeed) (SBAR (IN if) (S (NP (DT the) (NN approximation)) (VP (VBZ is) (ADJP (JJ inaccurate))))))) (. .))

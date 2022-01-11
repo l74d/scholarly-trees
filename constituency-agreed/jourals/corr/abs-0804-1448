@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ main) (NN drawback)) (PP (IN of) (NP (DT this) (NN task)))) (VP (VBZ lies) (PP (IN in) (NP (PRP$ its) (NN computation) (NN burden))) (, ,) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ grows) (ADVP (RB polynomially)) (PP (IN with) (NP (DT the) (NNS data) (NN size))))))) (. .))

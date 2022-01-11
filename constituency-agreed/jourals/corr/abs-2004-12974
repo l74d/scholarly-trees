@@ -1,0 +1,1 @@
+(S (ADVP (RB Secondly)) (, ,) (NP (PRP we)) (VP (VP (VBP move) (PP (IN beyond) (NP (DT the) (NN simulation) (NNS environments)))) (CC and) (VP (VB evaluate) (NP (DT the) (NN algorithm)) (PP (IN on) (NP (JJ real) (JJ physical) (NN hardware))))) (. .))

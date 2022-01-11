@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT each) (NN sub-task))) (, ,) (NP (NP (DT a) (NN description)) (PP (IN of) (NP (NP (DT the) (JJ technical) (NN approach)) (CC and) (NP (NP (DT the) (JJ hidden) (NNS challenges)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN overcome) (PP (IN during) (NP (NN development))))))))))) (VP (VBP are) (VP (VBN presented))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Memory) (NN system) (NNS features)) (VP (VBP are) (ADVP (RB frequently)) (VP (VBN exploited) (SBAR (IN since) (S (NP (PRP they)) (VP (VBP create) (NP (JJ detectable) (NN timing) (NNS variations))))))) (. .))
+(S (NP (NP (DT The) (NN access) (NN time)) (PP (IN of) (NP (DT an) (NN encryption) (NN kernel)))) (VP (VBZ is) (ADJP (JJ dependent) (PP (IN on) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS transactions))))))) (. .))

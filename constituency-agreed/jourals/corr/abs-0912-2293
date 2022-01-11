@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NNS honeypots)) (VP (MD would) (VP (VB serve) (NP (DT a) (ADJP (RB slightly) (JJ different)) (NN purpose)) (PP (IN in) (NP (PRP$ our) (JJ proposed) (NN system))))) (. .))
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ striking)) (NN advantage)) (PP (IN of) (S (VP (VBG implementing) (NP (DT this) (NN technology)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT an) (JJ effective) (JJ initial) (NN control)) (VP (MD can) (VP (VB be) (VP (VBN exercised) (PP (IN on) (NP (NN malware))))))))) (. .))

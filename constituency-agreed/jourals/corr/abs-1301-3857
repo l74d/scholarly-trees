@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS priors)) (VP (VP (VBP are) (ADJP (JJ semi-parametric) (PP (IN in) (NP (NN nature))))) (CC and) (VP (MD can) (VP (VB learn) (NP (ADJP (RB almost) (JJ arbitrary)) (JJ noisy) (JJ functional) (NNS relations))))) (. .))

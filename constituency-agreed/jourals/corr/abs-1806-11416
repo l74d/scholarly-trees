@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT a) (NN network)))))) (VP (VBP are) (VP (VBN established) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN approximation) (NN error)) (CC and) (NP (NN network) (NN depth) (CC and) (NN width)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ separate) (NNP SNN)) (, ,) (NP (NP (DT each)) (PP (IN with) (NP (DT the) (JJ same) (NN architecture)))) (, ,)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (DT each)) (PP (IN of) (NP (NP (DT the) (NNS states)) (PP (IN of) (NP (DT the) (NNP HMM))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS consequences)) (PP (IN of) (NP (NN instruction) (NN reordering)))) (VP (VP (MD can) (VP (VB be) (ADJP (JJ complex) (CC and) (JJ subtle)))) (, ,) (CC and) (VP (MD can) (VP (VB impact) (PP (IN on) (S (VP (VBG ensuring) (NP (NN correctness)))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NN memory) (NNS models)) (VP (MD may) (VP (VB use) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NN storage) (NNS systems)))))) (. .))

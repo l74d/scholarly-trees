@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Statistics)) (PP (IN in) (NP (NN dialogue) (NN processing)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB predict) (SBAR (S (NP (ADJP (VB follow) (HYPH -) (RP up)) (NN dialogue)) (VP (VBZ acts))))))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application) (NN example))) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (VBZ supports) (NP (NP (NN repair)) (SBAR (WHADVP (WRB when)) (S (NP (JJ unexpected) (NN dialogue) (NNS states)) (VP (VBP occur))))))))) (. .))

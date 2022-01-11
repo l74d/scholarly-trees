@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN algorithm)) (PP (IN of) (NP (DT the) (JJ underlying) (NN attack)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP comment) (PP (IN about) (NP (NP (NNS implementations)) (CC and) (NP (JJ statistical) (NNS results))))) (. .))

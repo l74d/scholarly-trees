@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (VBG existing) (NNS frameworks)) (PP (IN of) (NP (JJ adaptive) (NN loss) (NNS functions)))) (ADVP (RB often)) (VP (VBP suffer) (PP (IN from) (NP (NP (JJ slow) (NN convergence)) (CC and) (NP (NP (JJ poor) (NN choice)) (PP (IN of) (NP (NP (NNS weights)) (PP (IN for) (NP (DT the) (NN loss) (NNS components))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ adversarial) (NN training) (NN regime))) (, ,) (NP (NNS models)) (VP (VBP are) (VP (VBN trained) (PP (IN with) (NP (NP (NNS mini-batches)) (VP (VBN augmented) (PP (IN with) (NP (JJ adversarial) (NNS samples)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (DT an) (JJ algebraic) (NN test)) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (DT an) (JJ arbitrary) (NN network)) (VP (MD can) (VP (VB compute) (NP (JJ linear) (NNS functions)) (S (VP (VBG using) (NP (JJ linear) (NNS codes)))))))))))) (. .))
+(S (PP (IN For) (NP (NP (JJ linear) (NNS functions)) (PP (IN over) (NP (DT the) (JJ binary) (NN field))))) (, ,) (NP (DT the) (CD two) (NNS classes)) (VP (VBP are) (NP (NP (NNS complements)) (PP (IN of) (NP (DT each) (JJ other))))) (. .))

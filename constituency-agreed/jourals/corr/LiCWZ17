@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ effective) (NN replay) (NN detection) (NN method)) (VP (VBZ is) (ADVP (RB therefore)) (ADJP (RB highly) (JJ desirable))) (. .))
+(S (NP (DT The) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NN device)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ influential)) (NN factor)) (SBAR (WHNP (WDT that)) (S (VP (VBZ contributes) (NP (DT the) (JJS highest) (JJ over-fitting) (NN risk)))))))))) (. .))

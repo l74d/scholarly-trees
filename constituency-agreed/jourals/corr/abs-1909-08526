@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ key) (NN observation)) (VP (VBZ is) (SBAR (IN that) (S (NP (NNS attackers)) (VP (VBP rely) (PP (IN on) (NP (NNP ML) (NNS classifiers))) (PP (IN in) (NP (NN inference) (NNS attacks))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB turn) (NP (NP (DT the) (NNS vulnerabilities)) (PP (IN of) (NP (NNP ML)))) (PP (IN into) (NP (NP (NNS defenses)) (PP (IN against) (NP (NN inference) (NNS attacks))))))) (. .))

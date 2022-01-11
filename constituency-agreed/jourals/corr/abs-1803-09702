@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP enable) (NP (NP (JJ efficient) (NN training)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks))))) (. .))
+(S (PP (IN Throughout) (NP (DT the) (NN process))) (, ,) (NP (NNS experts)) (VP (VBP become) (ADJP (RBR more) (JJ consistent)) (, ,) (SBAR (IN while) (S (NP (DT the) (NN algorithm)) (VP (VBZ provides) (NP (PRP them)) (PP (IN with) (NP (NP (JJ explainable) (NN feedback)) (PP (IN for) (NP (NN confirmation))))))))) (. .))

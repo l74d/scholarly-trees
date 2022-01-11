@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ has) (NP (DT a) (ADJP (JJ complex) (CC and) (JJ rich)) (NN morphology))) (. .))
+(S (NP (VBG Stemming)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB convert) (NP (DT a) (NN word)) (PP (IN into) (NP (PRP$ its) (JJ respective) (NN root) (NN form)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN evaluated) (NP (PRP$ our) (NNS results)) (PP (IN by) (S (VP (VBG verifying) (NP (PRP it)) (PP (IN with) (NP (DT a) (JJ human) (NN expert)))))))) (. .))

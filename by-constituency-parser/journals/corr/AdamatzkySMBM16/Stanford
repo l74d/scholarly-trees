@@ -1,0 +1,4 @@
+(S (NP (NP (JJ Theoretical) (NNS constructs)) (PP (IN of) (NP (NP (JJ logical) (NNS gates)) (VP (VBN implemented) (PP (IN with) (NP (NN plant) (NNS roots))))))) (VP (VBP are) (NP (ADJP (NP (JJ morphological) (NN computing)) (JJ asynchronous)) (NNS devices))) (. .))
+(S (NP (NP (NNS Values)) (PP (IN of) (NP (NNP Boolean) (NNS variables)))) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NN plant) (NNS roots))))) (. .))
+(S (NP (JJ Logical) (NNS functions)) (VP (VBP are) (VP (VBN calculated) (PP (IN via) (NP (NP (NN interaction)) (PP (IN between) (NP (NNS roots))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN design)) (PP (IN of) (NP (JJ binary) (NN half) (HYPH -) (NN adder)))) (PP (VBN based) (PP (IN on) (NP (DT the) (NNS gates))))) (. .))

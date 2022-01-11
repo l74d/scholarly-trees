@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD conducted) (NP (CD two) (NNS experiments)) (PP (IN over) (NP (NNP Skype))) (PP (IN in) (NP (DT the) (JJ present) (NN study)))) (. .))
+(S (NP (NNS Participants)) (VP (VBD were) (VP (VBN presented) (PP (IN with) (NP (NP (DT a) (JJ robotic) (NN interface)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (NP (NP (NNS arms)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (VP (VBN teleoperated) (PP (IN by) (NP (DT an) (NN experimenter))))))))))))))) (. .))

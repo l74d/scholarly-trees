@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ full) (NN description)) (PP (IN of) (NP (NP (DT the) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN included) (PP (IN in) (NP (PRP$ our) (NN submission))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP start) (PP (IN with) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (DT the) (NNS datasets)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN used) (PP (IN for) (NP (NN training) (CC and) (NN development)))))))))))) (. .))

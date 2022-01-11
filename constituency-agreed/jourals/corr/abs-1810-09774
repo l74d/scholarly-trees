@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (S (VP (VBG using) (NP (JJ large) (JJ pre-trained) (NN language) (NNS models)))) (VP (VBZ helps) (PP (IN with) (NP (NN transfer) (NN learning))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS datasets)) (VP (VBP are) (ADJP (JJ similar) (RB enough))))))))) (. .))

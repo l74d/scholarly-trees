@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN blinker)) (VP (VBZ is) (VP (VBN represented) (PP (IN as) (NP (DT the) (JJ basic) (JJ computational) (NN unit)))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN recreated) (PP (IN in) (NP (NP (NN case)) (PP (IN of) (NP (DT a) (NN failure))))))))))))) (. .))

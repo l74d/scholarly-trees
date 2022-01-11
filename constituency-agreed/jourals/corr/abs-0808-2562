@@ -1,0 +1,2 @@
+(S (NP (CD Two) (NN test) (NNS statistics)) (VP (VBP are) (ADVP (RB then)) (VP (VBN extracted) (PP (IN from) (NP (DT the) (NN sample) (NN covariance) (NN matrix))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (DT no) (NN synchronization)) (VP (VBZ is) (VP (VBN needed))) (. .))

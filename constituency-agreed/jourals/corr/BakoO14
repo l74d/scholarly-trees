@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (ADJP (JJ hard)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ exhibits) (NP (DT some) (JJ intrinsic) (JJ combinatorial) (NNS features)))))) (. .))
+(S (NP (DT The) (JJ current) (NN paper)) (VP (VP (VBZ discusses) (NP (DT a) (JJ nonsmooth) (NN convex) (NN optimization) (NN approach))) (CC and) (VP (VBZ provides) (NP (NP (DT a) (JJ new) (NN analysis)) (PP (IN of) (NP (PRP$ its) (NN behavior)))))) (. .))

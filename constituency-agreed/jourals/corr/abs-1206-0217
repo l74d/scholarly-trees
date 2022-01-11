@@ -1,0 +1,6 @@
+(S (NP (NN Clustering)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS tasks)) (PP (IN in) (NP (NNS data) (NN mining))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ has) (NP (JJ several) (NNS advantages))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ does) (RB not) (VP (VB require) (NP (JJ many) (NN input) (NNS parameters)))) (. .))
+(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (DT the) (NNS cells)) (PP (IN in) (NP (DT the) (NN grid)))))) (VP (VBZ reflects) (NP (NP (DT the) (NN accuracy)) (SBAR (WHNP (WDT that)) (S (VP (MD should) (VP (VB be) (VP (VBN achieved) (PP (IN by) (NP (DT the) (NN algorithm)))))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG discovering) (NP (NP (NNS clusters)) (PP (IN of) (NP (JJ arbitrary) (NNS shapes))))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (CC and) (VBN tested) (PP (IN against) (NP (NP (JJ different) (NNS ranges)) (PP (IN of) (NP (NN database) (NNS sizes)))))))) (. .))

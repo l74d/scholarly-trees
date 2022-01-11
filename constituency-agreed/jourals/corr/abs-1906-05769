@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Global) (NN gender) (NN disparity)) (PP (IN in) (NP (NN science)))) (VP (VBZ is) (NP (DT an) (JJ unsolved) (NN problem))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (DT this) (NN problem)) (PP (IN within) (NP (DT the) (NNP UK) (, ,) (NNP Malaysia) (CC and) (NNP China)))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ our) (NN tool)) (PP (IN through) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ experimental) (NNS results)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ limited) (NN sensor) (NN availability)) (VP (VBZ induces) (NP (NP (DT a) (NN sensor) (NN drift) (NN problem)) (VP (VBG questioning) (NP (NP (DT the) (NN reliability)) (PP (IN of) (NP (DT the) (NN sensor) (NNS estimates))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (NNS simulations)) (PP (IN of) (NP (DT the) (NNP UAV) (NN model)))) (VP (VP (VBP demonstrate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN framework))))) (CC and) (VP (VB provide) (NP (JJ analytical) (NNS results)))) (. .))

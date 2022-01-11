@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP MCI)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (NNS integrals))))) (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ provides) (NP (NP (DT the) (NN variance)) (PP (IN of) (NP (NP (DT the) (NN error)) (PP (IN in) (NP (DT the) (NN integration))))))))))) (. .))

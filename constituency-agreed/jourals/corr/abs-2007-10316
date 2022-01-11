@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN solved) (ADVP (RB satisfactorily))))) (. .))
+(S (PP (IN On) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (PRP it))))) (, ,) (NP (DT a) (NN sample) (NN set)) (VP (VBZ is) (VP (VBN constructed))) (. .))

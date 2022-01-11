@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (NP (NP (NNS genes)) (PP (IN in) (NP (DT these) (NNS sentences)))) (VP (VBP are) (VP (VBN represented) (PP (IN as) (NP (NN gene) (NNS embeddings))) (S (VP (TO to) (VP (VB reduce) (NP (NNS data) (NN sparsity))))))) (. .))

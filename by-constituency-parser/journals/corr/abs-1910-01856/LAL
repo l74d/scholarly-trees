@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN construction)) (VP (VBZ uses) (NP (NP (NP (NNP Voevodsky) (POS 's)) (NNP Univalence) (NNP Axiom)) (CC and) (NP (JJ propositional) (NN truncation))) (, ,) (S (VP (VBG yielding) (NP (NP (DT a) (JJ stand-alone) (NN construction)) (PP (IN of) (NP (DT the) (NN circle))) (VP (RB not) (VBG using) (NP (RBR higher) (JJ inductive) (NNS types))))))) (. .))

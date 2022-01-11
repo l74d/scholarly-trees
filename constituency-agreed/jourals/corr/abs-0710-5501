@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS beliefs)) (VP (VBP are) (ADVP (RB thereby)) (VP (VBN given) (PP (IN by) (NP (NP (DT the) (NN symbol) (NNS probabilities)) (VP (VBN computed) (PP (IN in) (NP (DT the) (NN constituent) (NNS trellises)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (NN generalisation)) (PP (IN of) (NP (JJ iterative) (NN decoding)))) (VP (VBZ is) (VP (VBN presented))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP determine) (NP (NP (DT the) (JJ optimal) (NN power) (NN allocation)) (PP (IN between) (NP (DT the) (CD two) (NNS users)))) (PP (IN by) (S (VP (VBG maximizing) (NP (NP (DT the) (JJ free) (NN distance)) (PP (IN of) (NP (DT the) (NN tensor) (NN product) (NN trellis)))))))) (. .))

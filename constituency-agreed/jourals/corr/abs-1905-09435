@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ main) (NN idea)) (PP (IN of) (NP (NNP MATCHA)))) (VP (VBZ is) (S (VP (TO to) (VP (VB parallelize) (NP (JJ inter-node) (NN communication)) (PP (IN by) (S (VP (VBG decomposing) (NP (DT the) (NN topology)) (PP (IN into) (NP (NNS matchings)))))))))) (. .))

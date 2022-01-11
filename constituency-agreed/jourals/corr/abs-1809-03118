@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS labels)) (ADVP (RB usually)) (VP (VBP have) (NP (JJ internal) (NNS correlations))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ traditional) (NNS methods)) (VP (VBP tend) (S (VP (TO to) (VP (VB ignore) (NP (NP (DT the) (NNS correlations)) (PP (IN between) (NP (NNS labels)))))))) (. .))

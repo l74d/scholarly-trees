@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ such) (NNS games)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB assist) (PP (IN in) (S (VP (VBG diagnosing) (NP (NP (NN non-conformance)) (PP (IN between) (NP (NN implementation) (CC and) (NN specification)))))))))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS games)) (VP (MD can) (VP (VB be) (VP (VBN extended) (S (VP (TO to) (VP (VB distinguish) (NP (NNS divergences))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNP Fuzzing)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB widely) (VBN used)) (NN technique)) (PP (IN for) (S (VP (VBG detecting) (NP (NN software) (NNS bugs) (CC and) (NNS vulnerabilities))))))) (. .))

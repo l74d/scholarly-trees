@@ -1,0 +1,2 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (VBG existing) (JJ skeletal) (NN representation) (NNS approaches)))) (VP (VBP use) (NP (CC either) (NP (DT the) (JJ joint) (NN location)) (CC or) (NP (DT the) (NNS dynamics) (NN model)))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (JJ discriminative) (NN validity)) (PP (IN of) (NP (DT the) (JJ hidden) (NN representation))))))))) (. .))

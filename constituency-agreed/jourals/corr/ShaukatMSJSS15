@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD applied) (NP (NNP DBSCAN) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN clustering)) (PP (IN of) (NP (NN dengue) (NN fever)))))) (. .))

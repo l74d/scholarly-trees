@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN triangulation)) (PP (IN of) (NP (DT a) (NN surface)))) (VP (VBZ is) (ADJP (JJ irreducible)) (SBAR (IN if) (S (NP (DT no) (NN edge)) (VP (MD can) (VP (VB be) (VP (VBN contracted) (S (VP (TO to) (VP (VB produce) (NP (NP (DT a) (NN triangulation)) (PP (IN of) (NP (DT the) (JJ same) (NN surface))))))))))))) (. .))

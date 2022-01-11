@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (NNS robots)) (VP (VBP are) (ADJP (JJ opaque))))) (, ,) (SBAR (IN if) (S (NP (CD three) (NNS robots)) (VP (VBP lie) (PP (IN on) (NP (DT a) (NN line)))))) (, ,) (NP (DT the) (JJ middle) (NN robot)) (VP (VBZ obstructs) (NP (NP (DT the) (NNS visions)) (PP (IN of) (NP (DT the) (CD two) (JJ other) (NNS robots))))) (. .))

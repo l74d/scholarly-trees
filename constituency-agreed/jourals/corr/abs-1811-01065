@@ -1,0 +1,2 @@
+(S (NP (NNP Magnetometer)) (VP (VBZ is) (NP (NP (DT a) (JJ significant) (NN sensor)) (PP (IN for) (NP (JJ integrated) (NN navigation))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ suffers) (PP (IN from) (NP (NP (JJ many) (NNS kinds)) (PP (IN of) (NP (JJ unknown) (JJ dynamic) (JJ magnetic) (NNS disturbances)))))) (. .))

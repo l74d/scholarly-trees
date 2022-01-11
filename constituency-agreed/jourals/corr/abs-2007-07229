@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Final) (NN representation)) (PP (IN of) (NP (DT a) (NN candidate)))) (VP (VBZ is) (NP (NP (DT the) (NN concatenation)) (PP (IN of) (NP (NP (DT these) (NNS vectors)) (CC and) (NP (JJ other) (NNS features)))))) (. .))
+(S (ADVP (RB Eventually)) (, ,) (NP (DT a) (NN classifier)) (VP (VBZ is) (VP (VBN built) (PP (IN on) (NP (NP (DT the) (NN concatenation)) (PP (IN of) (NP (NNS features))))))) (. .))

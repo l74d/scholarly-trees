@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP lack) (NP (NP (DT a) (JJ rigorous) (JJ common) (JJ semantic) (NN framework)) (PP (IN for) (NP (JJ autonomous) (NNS systems))))) (. .))
+(S (NP (DT The) (NN architecture) (NN model)) (VP (VBZ allows) (NP (NP (NN expression)) (PP (IN of) (NP (NP (JJ dynamic) (JJ reconfigurable) (JJ multi-mode) (NN coordination)) (PP (IN between) (NP (NNS components))))))) (. .))

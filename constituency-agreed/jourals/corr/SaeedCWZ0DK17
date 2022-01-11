@@ -1,0 +1,2 @@
+(S (NP (JJ Reversible) (NN logic)) (VP (VBZ has) (NP (CD two) (JJ main) (NNS properties))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN security) (NNS benefits)) (PP (IN of) (NP (NP (JJ automatic) (NN synthesis)) (PP (IN of) (NP (JJ reversible) (NNS circuits))))))) (. .))

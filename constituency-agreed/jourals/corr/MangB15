@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP treat) (NP (NN image) (NN registration)) (PP (IN as) (NP (DT a) (JJ variational) (JJ optimal) (NN control) (NN problem)))) (. .))
+(S (NP (DT The) (NN deformation) (NN map)) (VP (VBZ is) (VP (VBN parametrized) (PP (IN by) (NP (PRP$ its) (NN velocity))))) (. .))

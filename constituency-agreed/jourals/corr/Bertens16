@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (ADVP (RB thus)) (VP (VBZ learns) (S (VP (TO to) (VP (VB reconstruct) (ADVP (RB optimally)) (S (VP (VBG using) (NP (NP (DT the) (JJS least) (NN number)) (PP (IN of) (NP (JJ active) (NN output) (NNS units)))))))))) (. .))

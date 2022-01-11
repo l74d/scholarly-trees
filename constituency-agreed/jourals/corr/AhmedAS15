@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (PP (IN against) (NP (NNP HDDStream))) (PP (IN for) (NP (NP (NN cluster) (NN purity)) (, ,) (NP (NN memory) (NN usage)) (, ,) (CC and) (NP (DT the) (NN cluster) (NN sensitivity))))))) (. .))

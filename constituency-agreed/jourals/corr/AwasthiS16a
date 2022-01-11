@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB control) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (NP (NNS peers)) (PP (IN in) (NP (DT the) (NN network))))))))) (, ,) (NP (NN reputation) (NN system)) (VP (MD can) (VP (VB be) (VP (VBN used)))) (. .))
+(S (PP (IN In) (NP (DT a) (NN reputation) (NN system))) (, ,) (NP (NP (NN aggregation)) (PP (IN of) (NP (NN trust)))) (VP (VBZ is) (NP (DT a) (JJ primary) (NN issue))) (. .))

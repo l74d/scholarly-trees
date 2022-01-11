@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ key) (NN point)) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN algorithm)) (VP (VBZ learns) (NP (JJ sufficient) (NN information)) (PP (IN from) (NP (NP (JJR more) (NNS neighbors)) (PP (IN with) (NP (JJ different) (NN hop) (NNS distances))))))))) (. .))

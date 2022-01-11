@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP argue) (SBAR (IN that) (S (NP (JJ such) (NN issue)) (VP (VBZ is) (ADVP (RB mainly)) (VP (VBN caused) (PP (IN by) (S (VP (VBG adopting) (NP (JJ autoregressive) (NN manner)))))))))) (. .))
+(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (DT the) (NN context) (NN encoder)) (VP (VBZ embeds) (NP (DT the) (VBN given) (NNS poses)) (PP (IN from) (NP (ADJP (JJ temporal) (CC and) (JJ spatial)) (NNS perspectives)))) (. .))

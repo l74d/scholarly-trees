@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (DT a) (NN user)) (VP (MD can) (VP (VB use) (NP (DT a) (NN text)) (S (VP (TO to) (VP (VB retrieve) (NP (JJ relevant) (NNS pictures) (CC or) (NNS videos))))))) (. .))
+(S (NP (JJ Various) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (PDT such) (DT a) (NN problem))))))))) (. .))

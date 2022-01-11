@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ polynomial-sized) (JJ linear) (VBG programming) (NN formulation)) (PP (IN of) (NP (NP (DT the) (NNP Quadratic) (NNP Assignment) (NNP Problem)) (PRN (-LRB- -LRB-) (NP (NNP QAP)) (-RRB- -RRB-)))))) (. .))
+(S (NP (DT The) (VBN proposed) (JJ linear) (NN program)) (VP (VBZ is) (NP (DT a) (NN network) (JJ flow-based) (NN model))) (. .))
+(S (ADVP (RB Hence)) (, ,) (NP (PRP it)) (VP (VBZ provides) (PP (IN for) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (DT the) (NNP QAP))) (PP (IN in) (NP (JJ polynomial) (NN time)))))) (. .))
+(S (NP (JJ Computational) (NN testing) (CC and) (NNS results)) (VP (VBP are) (VP (VBN discussed))) (. .))

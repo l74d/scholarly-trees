@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP study) (SBAR (WHADVP (WRB how)) (S (NP (NNS competitions)) (VP (VBP affect) (NP (JJ physical) (NN activity)))))) (. .))
+(S (NP (PRP We)) (VP (VBP observe) (SBAR (IN that) (S (PP (IN during) (NP (VBG walking) (NNS competitions))) (, ,) (NP (DT the) (JJ average) (NN user)) (VP (VBZ increases) (NP (JJ physical) (NN activity)) (PP (IN by) (NP (CD 23) (NN %))))))) (. .))

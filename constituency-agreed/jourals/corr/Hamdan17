@@ -1,0 +1,1 @@
+(S (NP (NP (CD Ten) (NNS instances)) (PP (IN of) (NP (DT this) (NN network)))) (VP (VBP are) (VP (VBN initialized) (PP (PP (IN with) (NP (NP (DT the) (JJ same) (NN word) (NNS embeddings)) (PP (IN as) (NP (NNS inputs))))) (CC but) (PP (IN with) (NP (NP (JJ different) (NNS initializations)) (PP (IN for) (NP (DT the) (NN network) (NNS weights)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Machine) (NN translation)) (VP (VBZ is) (VP (VBG evolving) (ADVP (RB quite) (RB rapidly)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN quality))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (NP (DT these) (NNS systems)) (VP (VBP are) (RB not) (ADJP (JJ perfect)))) (, ,) (CC and) (S (NP (PRP$ their) (NN quality)) (VP (MD may) (VP (VB decrease) (PP (IN in) (NP (DT some) (JJ specific) (NNS domains)))))) (. .))

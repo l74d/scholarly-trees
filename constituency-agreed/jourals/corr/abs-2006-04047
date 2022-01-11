@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NN prediction) (NN accuracy)) (VP (VBZ tends) (S (VP (TO to) (RB not) (VP (VB generalize) (ADVP (RB well)) (PP (IN on) (NP (NP (NNS scenes)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ different) (PP (IN from) (NP (DT the) (NN training) (NNS datasets))))))))))))) (. .))

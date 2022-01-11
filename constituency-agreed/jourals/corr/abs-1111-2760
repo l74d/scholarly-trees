@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ last) (JJ major) (NN contribution)) (VP (VBZ is) (NP (NP (DT a) (NN debugging) (NN technique)) (SBAR (WHNP (WDT that)) (S (VP (VBZ helps) (PP (IN on) (NP (NP (DT the) (NN detection)) (PP (IN of) (NP (NP (NNS flaws)) (PP (IN in) (NP (NN security) (NNS protocols)))))))))))) (. .))

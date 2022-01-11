@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN weight)) (PP (IN of) (NP (DT the) (NN edge)))) (VP (VBZ is) (NP (DT the) (NN transaction) (NN amount))) (. .))
+(S (NP (NP (NNS Examples)) (PP (IN of) (NP (NP (NNS anomalies)) (PP (IN in) (NP (NNS networks)))))) (VP (VBP include) (NP (NP (NP (JJ long) (NNS paths)) (PP (IN of) (NP (JJ large) (NN transaction) (NNS amounts)))) (, ,) (NP (NP (NNS rings)) (PP (IN of) (NP (JJ large) (NNS payments)))) (, ,) (CC and) (NP (NP (NNS cliques)) (PP (IN of) (NP (NNS accounts)))))) (. .))

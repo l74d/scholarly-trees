@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT this) (NN data)) (VP (VBZ is) (ADJP (JJ private))))) (, ,) (NP (EX there)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT an) (VBN increased) (NN need)) (PP (IN for) (S (VP (VBG maintaining) (NP (NN security) (CC and) (NN privacy))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP assess) (NP (NP (NN performance)) (PP (IN of) (NP (NP (JJ common) (JJ statistical) (NNS programs)) (VP (VBG using) (NP (NNP PICCO))))))) (. .))

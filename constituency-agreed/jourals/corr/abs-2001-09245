@@ -1,0 +1,1 @@
+(S (S (NP (JJ Correct) (NN synthesis)) (VP (VBZ is) (ADJP (JJ difficult)))) (, ,) (CC and) (S (NP (NP (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP provide) (NP (JJ formal) (NNS guarantees)))))) (VP (VBP suffer) (PP (IN from) (NP (NN scalability) (NNS issues))))) (. .))

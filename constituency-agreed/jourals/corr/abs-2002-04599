@@ -1,0 +1,2 @@
+(S (NP (JJ Adversarial) (NNS examples)) (VP (VBP are) (NP (NP (JJ malicious) (NNS inputs)) (VP (VBN crafted) (S (VP (TO to) (VP (VB induce) (NP (NN misclassification)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (JJ fundamental) (NNS tradeoffs)) (PP (IN between) (NP (NP (DT these) (CD two) (NNS types)) (PP (IN of) (NP (JJ adversarial) (NNS examples))))))) (. .))

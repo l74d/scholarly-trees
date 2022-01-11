@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT a) (JJ hostile) (NN network) (NN environment))) (, ,) (NP (NNS users)) (VP (MD must) (VP (VB communicate) (PP (IN without) (S (VP (VBG being) (VP (VBN detected))))))) (. .))
+(S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (NP (NP (DT a) (JJR higher) (NN degree)) (PP (IN of) (NP (NN secrecy)))) (VP (VBZ is) (VP (VBN required))) (. .))

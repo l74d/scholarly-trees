@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS simulations)) (VP (VBP demonstrate) (NP (NP (DT the) (NN performance) (NN boost)) (VP (VBN obtained) (PP (IN by) (S (VP (VBG enhancing) (NP (JJ various) (NN replacement) (NNS policies)) (PP (IN with) (NP (DT the) (NNP TinyLFU) (NN eviction) (NN policy))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (NN map) (NN decay)))) (VP (VBZ is) (S (VP (TO to) (VP (VB correct) (NP (NP (JJ invalid) (NN occupancy) (NNS probabilities)) (PP (IN of) (NP (NP (NN map) (NNS cells)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ unobservable) (PP (IN by) (NP (NNS sensors)))))))))))))) (. .))

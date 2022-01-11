@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN output)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (NP (DT the) (NN loss) (NN function)) (SBAR (S (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB minimize))))))))))) (. .))

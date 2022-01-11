@@ -1,0 +1,1 @@
+(S (NP (DT An) (ADJP (RB even) (JJR worse)) (JJ transient) (NN behaviour)) (VP (VBZ is) (SBAR (IN that) (S (NP (NNS packets)) (VP (VBP are) (VP (VBN dropped) (SBAR (RB even) (IN though) (S (NP (NNS destinations)) (VP (VBP are) (ADJP (JJ reachable)))))))))) (. .))

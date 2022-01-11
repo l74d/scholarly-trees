@@ -1,0 +1,1 @@
+(S (ADVP (RB Thereby)) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (NP (DT an) (NML (NN O) (PRN (-LRB- -LRB-) (NP (CD 1.3303) (SYM ^) (NN n)) (-RRB- -RRB-)) (HYPH -) (NN time)) (JJ deterministic) (NN algorithm)) (PP (IN for) (NP (NP (CD 3) (HYPH -) (NN SAT)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB currently)) (ADJP (JJS fastest))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT A) (NNP Lyapunov) (NN function)) (VP (VBZ ensures) (NP (NP (NP (NN stability)) (PP (IN in) (NP (NN probability)))) (CC and) (NP (NP (DT a) (NN finiteness)) (PP (IN of) (NP (NP (DT the) (NN expectation)) (PP (IN of) (NP (DT the) (JJ stochastic) (NN settling) (NN time) (NN function)))))))) (. .))

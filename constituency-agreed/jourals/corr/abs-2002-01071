@@ -1,0 +1,4 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP need) (NP (NP (DT an) (JJ effective) (NN similarity) (NN measure)) (PP (IN between) (NP (NNS concepts))))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (NP (JJ promising) (NNS results))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NNS words) (CC and) (NNS concepts)) (VP (VBP become) (ADJP (JJ comparable))) (. .))
+(S (NP (DT This)) (VP (MD could) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (JJ conceptual) (NN indexing) (NN process)))))))) (. .))

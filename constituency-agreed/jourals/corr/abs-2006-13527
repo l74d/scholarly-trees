@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ combines) (NP (NP (DT a) (JJ conditional) (JJ adversarial) (NN network)) (, ,) (NP (DT a) (NN rotation) (NN module)) (, ,) (NP (DT a) (NN mode) (NN module)) (, ,) (CC and) (NP (DT a) (NN rotation) (NN discriminator) (NN module)))) (. .))

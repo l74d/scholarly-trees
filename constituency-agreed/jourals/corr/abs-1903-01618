@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ enables) (NP (NP (JJ fast) (NN detection)) (PP (IN of) (NP (NN malware)))) (PP (IN by) (S (VP (VBG using) (NP (NP (NN creator) (NN information)) (PP (JJ such) (IN as) (NP (NP (JJ serial) (NN number)) (PP (IN of) (NP (NN certificate)))))))))) (. .))
+(S (NP (DT The) (NN system)) (ADVP (RB also)) (VP (MD can) (VP (VB classify) (NP (NN malware)) (PP (VBN based) (PP (IN on) (NP (NN similarity) (NN scoring)))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (PRP$ Our) (NN work)) (VP (VBZ aims) (S (VP (TO to) (VP (VB fill) (NP (DT the) (JJ above) (JJ technological) (NN gap)))))) (. .))
+(S (S (VP (TO To) (VP (VB identify) (NP (NP (VBG conflicting) (NN information)) (PP (IN in) (NP (JJ medical) (NNS documents))))))) (, ,) (NP (PRP we)) (VP (VBP enact) (NP (JJ textual) (NN entailment) (NN technology))) (. .))
+(S (S (VP (TO To) (VP (VB encapsulate) (NP (VBG existing) (JJ medical) (NN knowledge))))) (, ,) (NP (PRP we)) (VP (VBP rely) (PP (IN on) (NP (NNS ontologies)))) (. .))
+(S (S (VP (TO To) (VP (VB harmonize) (NP (DT this) (NN disagreement))))) (, ,) (NP (PRP we)) (VP (VBP design) (NP (NN mediation) (NNS protocols)) (PP (IN within) (NP (DT a) (JJ multi-agent) (NN framework)))) (. .))

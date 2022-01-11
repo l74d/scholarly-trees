@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS distances)) (VP (VBN obtained) (PP (IN from) (NP (DT these) (NNS metrics))))) (VP (VBP are) (ADVP (RB then)) (VP (VBN used) (S (VP (TO to) (VP (VB cluster) (NP (DT the) (JJ active) (NNS regions))))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (DT these) (NNS metrics)) (VP (VBP result) (PP (IN in) (NP (NP (JJ natural) (NNS clusterings)) (PP (IN of) (NP (JJ active) (NNS regions))))))))) (. .))

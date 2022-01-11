@@ -1,0 +1,4 @@
+(S (CC But) (, ,) (NP (DT the) (NN protocol) (NNS performances)) (VP (MD can) (VP (VB be) (VP (VBN lowered) (PP (IN by) (NP (NNS multiples) (NNS errors)))))) (. .))
+(S (ADVP (RB Indeed)) (, ,) (NP (NP (DT the) (NN integration)) (PP (IN of) (NP (PRP$ our) (NN method)))) (VP (VBZ generates) (NP (NP (NP (DT an) (JJ important) (NN progess)) (PP (IN in) (NP (NN security)))) (CC and) (NP (NP (DT a) (JJ large) (NN decrease)) (PP (IN of) (NP (DT the) (NNP QBER)))))) (. .))
+(S (NP (DT The) (NN gain)) (VP (VBZ is) (VP (VBN obtained) (PP (IN with) (NP (DT a) (JJ reasonable) (NN complexity) (NN increase))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (NP (DT the) (NN novelty)) (PP (IN of) (NP (PRP$ our) (NN work)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD tested) (NP (DT the) (NN reconciliation) (NN method)) (PP (IN on) (NP (DT a) (JJ real) (JJ photonic) (NN system))) (PP (IN under) (NP (NNP VPItransmissionMaker))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN choice)) (PP (IN of) (NP (DT a) (JJ suitable) (NN service) (NN provider)))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN issue)) (VP (ADVP (RB often)) (VBN overlooked) (PP (IN in) (NP (VBG existing) (NNS architectures)))))) (. .))
+(S (NP (DT These) (NNS registries)) (VP (VBP have) (VP (VBN been) (VP (VBN criticized) (PP (IN for) (S (RB not) (VP (VBG being) (ADJP (RB completely) (JJ trustworthy)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT an) (NN enhancement)) (PP (IN of) (NP (NP (VBG existing) (NNS mechanisms)) (PP (IN for) (S (VP (VBG finding) (NP (NNS services)))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

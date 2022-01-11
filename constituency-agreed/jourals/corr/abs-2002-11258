@@ -1,0 +1,2 @@
+(S (NP (JJ Probabilistic) (NN convergence) (NNS guarantees)) (VP (VBP are) (VP (VBN provided))) (. .))
+(S (NP (JJ Several) (JJ numerical) (NNS examples)) (VP (VBP illustrate) (NP (NP (DT the) (NNS approaches)) (PP (VBG including) (NP (NP (NP (DT a) (NN swing) (NN option)) (PP (IN with) (NP (CD four) (NNS constraints)))) (, ,) (CC and) (NP (NP (DT a) (NN passport) (NN option)) (PP (IN with) (NP (CD 16) (NNS constraints)))))))) (. .))

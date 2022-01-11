@@ -1,0 +1,1 @@
+(S (NP (DT All) (NN model) (NNS parameters)) (VP (VBP are) (VP (VBN estimated) (PP (IN from) (NP (DT the) (VBN observed) (NNS data))) (, ,) (PP (IN without) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (JJ manual) (NN tuning))))))) (. .))

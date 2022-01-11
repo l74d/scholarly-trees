@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (NP (NP (DT the) (JJ informative) (NNS features)) (PP (IN of) (NP (DT a) (NN face)))) (VP (MD can) (VP (VB be) (VP (VBN extracted) (PP (IN in) (NP (DT a) (ADJP (JJ low) (JJ dimensional)) (NN space)))))) (. .))
+(S (S (VP (VBG Using) (NP (NN specificity) (CC and) (NN sensitivity)))) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (DT the) (JJS best)) (VP (VBZ is) (VP (VBN achieved) (SBAR (WHADVP (WRB when)) (S (NP (NNP Renyi) (NN entropy)) (VP (VBZ is) (VP (VBN applied) (PP (IN on) (NP (DT the) (NNP DCT) (NNS coefficients)))))))))))) (. .))

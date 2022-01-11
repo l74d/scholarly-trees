@@ -1,0 +1,3 @@
+(S (ADVP (NP (QP (JJR More) (IN than) (CD 30)) (NNS years)) (RB ago)) (, ,) (NP (NNP Shiloach)) (VP (VBD published) (NP (NP (DT an) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (JJ minimum) (JJ linear) (NN arrangement) (NN problem)) (PP (IN for) (NP (JJ undirected) (NNS trees)))))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VP (VBP fix) (NP (NP (DT a) (JJ small) (NN error)) (PP (IN in) (NP (NP (DT the) (JJ original) (NN version)) (PP (IN of) (NP (DT the) (NN algorithm))))))) (CC and) (VP (VB discuss) (NP (NP (PRP$ its) (NN effect)) (PP (IN on) (NP (JJ subsequent) (NN literature)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VB improve) (NP (NP (DT some) (NNS aspects)) (PP (IN of) (NP (DT the) (NN notation))))) (. .))

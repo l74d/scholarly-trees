@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ malicious) (NN app)) (VP (VBN installed) (PP (IN in) (NP (DT a) (NN device))))) (VP (MD can) (ADVP (RB potentially)) (VP (VB obtain) (NP (JJ sensitive) (NN information)) (PP (IN through) (NP (DT a) (NN browser) (NN app))))) (. .))

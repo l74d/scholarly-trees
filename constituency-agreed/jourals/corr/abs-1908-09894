@@ -1,0 +1,4 @@
+(S (NP (NNS Criminals)) (VP (VBP are) (PP (IN in) (NP (NP (DT the) (JJ constant) (NN state)) (PP (IN of) (S (VP (VBG attempting) (NP (NP (NN cybersecurity) (NN defense)) (PP (IN of) (NP (JJ various) (NNS infrastructures) (CC and) (NNS businesses)))))))))) (. .))
+(S (NP (NNS Airports)) (VP (VBP are) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS areas)) (SBAR (WHADVP (WRB where)) (S (NP (NN cybersecurity)) (VP (VBZ means) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things))))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (PP (IN about) (NP (NP (NN airport) (NN cybersecurity)) (CC and) (NP (NN resilience) (NNS controls))))) (. .))
+(SINV (PP (IN At) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (DT the) (NN article))))) (VP (VBZ is)) (NP (NP (DT a) (JJ comprehensive) (NN introduction)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (NP (NP (DT a) (NN preview)) (PP (IN of) (NP (DT the) (JJ entire) (NN content)))))))) (. .))

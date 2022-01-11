@@ -1,0 +1,2 @@
+(S (NP (JJ Recent) (NNS advances)) (VP (VBP indicate) (SBAR (IN that) (S (NP (NN quantum) (NNS computers)) (VP (MD will) (ADVP (RB soon)) (VP (VB be) (NP (NN reality))))))) (. .))
+(S (PP (IN In) (NP (DT all) (JJ non-trivial) (NNS cases))) (, ,) (NP (PRP we)) (VP (VBP identify) (NP (NP (JJ specific) (NN quantum) (NNS attacks)) (SBAR (WHNP (WDT that)) (S (VP (VBP violate) (NP (DT these) (NNS properties))))))) (. .))

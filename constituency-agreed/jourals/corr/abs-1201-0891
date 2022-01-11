@@ -1,0 +1,3 @@
+(S (NP (NP (DT An) (NN execution)) (PP (IN of) (NP (DT a) (JJ nondeterministic) (NN quantum) (NN program)))) (VP (VBZ is) (VP (VBN modeled) (PP (IN by) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NP (NNS actions)) (PP (IN of) (NP (JJ individual) (NNS processes))))))))) (. .))
+(S (NP (DT These) (NNS actions)) (VP (VBP are) (VP (VBN described) (PP (IN by) (NP (NP (NNS super-operators)) (PP (IN on) (NP (DT the) (NN state) (NNP Hilbert) (NN space))))))) (. .))
+(S (PP (IN At) (NP (NP (DT each) (NN step)) (PP (IN of) (NP (DT an) (NN execution))))) (, ,) (NP (DT a) (NN process)) (VP (VBZ is) (VP (VBN chosen) (ADVP (RB nondeterministically)) (S (VP (TO to) (VP (VB perform) (NP (DT the) (JJ next) (NN action))))))) (. .))

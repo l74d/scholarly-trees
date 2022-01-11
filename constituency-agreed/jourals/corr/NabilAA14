@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VP (VBP investigate) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT the) (NN dataset))))) (, ,) (CC and) (VP (VB present) (NP (PRP$ its) (NNS statistics)))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (PRP$ our) (JJ previous) (NN work)) (PP (IN by) (S (VP (VBG performing) (NP (DT a) (JJ comprehensive) (NN analysis)) (PP (IN on) (NP (DT the) (NN dataset))))))) (. .))
+(S (NP (PRP We)) (VP (VBP make) (S (NP (NP (DT the) (NN dataset)) (CC and) (NP (JJ experimental) (NNS details))) (ADJP (RB publicly) (JJ available)))) (. .))

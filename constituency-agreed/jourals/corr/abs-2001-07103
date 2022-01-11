@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN trend)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB increase) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS cores))))) (CC and) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN memory) (NN system))))))))) (. .))
+(S (S (VP (VBG Providing) (NP (DT an) (JJ efficient) (NN multicore) (NN implementation)) (PP (IN for) (NP (DT a) (JJ important) (JJ algorithmic) (NN kernel))))) (VP (VBZ is) (NP (DT a) (JJ genuine) (NN contribution))) (. .))

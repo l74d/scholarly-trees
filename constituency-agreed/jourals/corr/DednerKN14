@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (NP (JJ many) (NNS improvements)) (VP (VBP have) (VP (VBN been) (VP (VBN introduced) (PP (IN into) (NP (DT the) (NN code))) (S (VP (VP (TO to) (VP (VB increase) (NP (DT the) (JJ parallel) (NN efficiency)))) (CC and) (VP (TO to) (VP (VB decrease) (NP (DT the) (NN memory) (NN footprint))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT this) (JJ new) (NN model)) (VP (MD will) (VP (VB benefit) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNP DUNE) (NNS users)))))) (. .))

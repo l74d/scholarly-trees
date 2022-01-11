@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ fundamental)) (NNS problems)) (PP (IN in) (NP (NNP Computer) (NNP Science)))))) (VP (VBZ is) (NP (DT the) (NNP Knapsack) (NN problem))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP initiate) (NP (NP (DT a) (JJ systematic) (NN study)) (PP (IN of) (NP (NP (JJ general) (VBN capacitated) (JJ dynamic) (NN programming)) (, ,) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (NNP Knapsack)) (VP (VBZ is) (NP (DT a) (NN core) (NN problem))))))))) (. .))

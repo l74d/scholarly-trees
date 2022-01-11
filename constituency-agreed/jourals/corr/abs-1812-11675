@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ deep) (NN learning)) (VP (VBZ is) (VP (VBN criticized) (PP (IN for) (NP (NP (NN lack)) (PP (IN of) (NP (NN interpretability))))))) (. .))
+(S (S (PP (IN As) (NP (NP (DT a) (JJ successful) (JJ unsupervised) (NN model)) (PP (IN in) (NP (JJ deep) (NN learning))))) (, ,) (NP (DT the) (NN autoencoder)) (VP (VBZ embraces) (NP (NP (DT a) (JJ wide) (NN spectrum)) (PP (IN of) (NP (NNS applications)))))) (, ,) (CC yet) (S (NP (PRP it)) (VP (VBZ suffers) (PP (IN from) (NP (DT the) (NN model) (NN opaqueness))) (ADVP (RB as) (RB well)))) (. .))

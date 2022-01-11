@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP compare) (NP (PRP$ our) (NN system)) (PP (IN with) (NP (NP (DT some) (NNP IE) (NNS baselines)) (PP (IN on) (NP (PRP$ our) (NN benchmark))))))) (CC and) (S (NP (DT the) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN system)) (VP (VBZ achieves) (NP (JJ great) (NNS improvements))))))) (. .))

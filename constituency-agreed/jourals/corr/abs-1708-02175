@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (JJ formal) (NN model)) (VP (VBZ has) (NP (JJ manageable) (JJ computational) (NN complexity)))) (CC and) (S (NP (PRP$ its) (NN implementation)) (VP (VBZ has) (VP (VBN shown) (NP (NP (JJ excellent) (NN performance)) (CC and) (NP (JJ good) (NN scalability)))))) (. .))

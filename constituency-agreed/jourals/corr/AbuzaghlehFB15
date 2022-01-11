@@ -1,0 +1,2 @@
+(S (S (NP (NNP Melanoma)) (VP (VBZ spreads) (PP (IN through) (NP (NN metastasis))))) (, ,) (CC and) (S (ADVP (RB therefore)) (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (VBN proven) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ fatal))))))))) (. .))
+(S (NP (JJ Statistical) (NN evidence)) (VP (VBZ has) (VP (VBN revealed) (SBAR (IN that) (S (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NP (NNS deaths)) (VP (VBG resulting) (PP (IN from) (NP (NN skin) (NN cancer))))))) (VP (VBP are) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NN melanoma)))))))))) (. .))

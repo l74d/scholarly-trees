@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ seems) (SBAR (IN that) (S (NP (JJ convolutional) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN found) (NP (DT a) (NN way))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ defines) (NP (DT a) (ADJP (JJ bi-Lipschitz) (CC and) (JJ invertible)) (NN representation)))))) (. .))
+(S (NP (NP (DT The) (NNS correlations)) (PP (IN of) (NP (NN phase) (NNS harmonics) (NNS coefficients)))) (VP (VBP characterise) (NP (JJ coherent) (NNS structures)) (PP (IN from) (NP (NP (PRP$ their) (NN phase) (NN dependence)) (PP (IN across) (NP (NNS frequencies)))))) (. .))

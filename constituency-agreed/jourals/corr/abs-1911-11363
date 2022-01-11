@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP explore) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN privacy) (NN noise)) (VP (VBZ affects) (NP (DT the) (NN optimization) (NN property)))))) (. .))
+(S (NP (NP (JJ Extensive) (NNS experiments)) (PP (IN on) (NP (JJ real) (NN world) (NNS datasets)))) (VP (VBP corroborate) (NP (PRP$ our) (JJ theoretical) (NNS findings))) (. .))

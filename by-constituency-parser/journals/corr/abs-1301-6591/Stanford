@@ -1,0 +1,7 @@
+(S (NP (JJ Scientific) (NNS journals)) (VP (VBP are) (ADJP (RB very) (JJ important) (PP (IN in) (S (VP (VBG recording) (NP (DT the) (NN finding)) (PP (IN from) (NP (NP (NNS researchers)) (PP (IN around) (NP (DT the) (NN world)))))))))) (. .))
+(S (NP (NP (DT The) (JJ recent) (NNS media)) (PP (IN to) (S (VP (VB disseminate) (NP (JJ scientific) (NNS journals)))))) (VP (VBZ is) (NP (NN PDF))) (. .))
+(S (PP (IN On) (NP (NN scheme) (S (VP (TO to) (VP (VB find)))))) (NP (NP (DT the) (JJ scientific) (NNS journals)) (PP (IN over) (NP (DT the) (NN internet)))) (VP (VBZ is) (PP (IN via) (NP (NN metadata)))) (. .))
+(NP (NP (NNP Metadata) (NNS stores) (NN information)) (PP (IN about) (NP (NN article) (NN summary))) (. .))
+(S (S (VP (VBG Embedding) (NP (NN metadata)) (PP (IN into) (NP (NP (NN PDF)) (PP (IN of) (NP (JJ scientific) (NN article))))))) (VP (MD will) (VP (VB grant) (NP (NP (DT the) (NN consistency)) (PP (IN of) (NP (NN metadata) (NN readness)))))) (. .))
+(SINV (VP (VBG Harvesting) (NP (DT the) (NN metadata)) (PP (IN from) (NP (JJ scientific) (NN journal)))) (VP (VBZ is) (ADJP (RB very) (JJ interesting))) (NP (NP (NN field)) (PP (IN at) (NP (DT the) (NN moment)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (MD will) (VP (VB discuss) (NP (RB about) (JJ scientific) (NN journal)) (NP (NP (NN metadata) (NNS harvesters)) (PP (VBG involving) (NP (NNP XMP)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Physical) (NN universality)) (PP (IN of) (NP (DT a) (JJ cellular) (NN automaton)))) (VP (VBD was) (VP (VBN defined) (PP (IN by) (NP (VBG Janzing))) (PP (IN in) (NP (CD 2010))) (PP (IN as) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB implement) (NP (NP (DT an) (JJ arbitrary) (NN transformation)) (PP (IN of) (NP (JJ spatial) (NNS patterns))))))))))) (. .))
+(S (PP (IN In) (NP (CD 2014))) (, ,) (NP (NNP Schaeffer)) (VP (VBD gave) (NP (NP (DT a) (NN construction)) (PP (IN of) (NP (DT a) (JJ two-dimensional) (ADJP (RB physically) (JJ universal)) (JJ cellular) (NN automaton))))) (. .))
+(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT a) (JJ one-dimensional) (NN version)) (PP (IN of) (NP (DT the) (NN automaton))))) (. .))

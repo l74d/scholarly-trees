@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Polar) (NN coding)) (PP (IN over) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ binary) (JJ discrete) (NN memoryless) (NNS channels))) (PP (IN with) (NP (NP (NNS channel) (NN knowledge)) (PP (IN at) (NP (DT the) (NN encoder)))))))) (VP (VBZ is) (VP (VBN studied))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ polar) (NNS codes)) (VP (VBP achieve) (NP (NP (DT the) (NN capacity)) (PP (IN of) (NP (NP (ADJP (NN convex) (CC and) (JJ one-sided)) (NNS classes)) (PP (IN of) (NP (JJ symmetric) (NNS channels))))))))))) (. .))

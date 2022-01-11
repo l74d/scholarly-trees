@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (DT the) (NN difficulty)))) (, ,) (VP (VBD was) (ADVP (RB never)) (VP (VBN considered))) (. .))
+(S (NP (DT The) (NN proof)) (ADVP (RB also)) (VP (VBZ provides) (NP (NP (DT some) (JJ explicit) (JJ upper) (NNS bounds)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (PP (IN of) (NP (NP (NN use)) (PP (IN for) (NP (NN bootstrap) (NN percolation)))))))))) (. .))

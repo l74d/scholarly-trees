@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (JJ extra) (NNS iterations)))) (VP (VBP are) (VP (VBN needed) (S (VP (TO to) (VP (VB compensate) (PP (IN for) (NP (DT these) (JJ wrong) (NNS rewards)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (DT the) (JJ wrong) (NNS rewards)) (VP (MD can) (VP (VB be) (VP (VBN corrected) (ADVP (RB instantly))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHPP (IN under) (WHNP (WDT which) (NNS conditions))) (S (NP (DT a) (NN bilinear) (NN system)) (VP (VBZ is) (ADJP (RB asymptotically) (JJ stable)))))) (. .))
+(S (NP (DT This) (NN result)) (VP (VBZ has) (NP (NP (JJ several) (NNS consequences)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN model) (NN order) (NN reduction))))))) (. .))

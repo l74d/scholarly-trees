@@ -1,0 +1,2 @@
+(S (NP (ADJP (JJ Necessary) (CC and) (JJ sufficient)) (NNS conditions)) (VP (VBP are) (VP (VBN given) (SBAR (IN for) (S (NP (DT the) (NNS polynomials)) (VP (TO to) (VP (VB be) (NP (JJ permutation) (NNS polynomials)))))))) (. .))
+(S (PP (IN For) (NP (DT this))) (, ,) (NP (NP (DT the) (NNS structures) (CC and) (NNS properties)) (PP (IN of) (NP (DT the) (NN field) (NNS elements)))) (VP (VBP are) (VP (VBN analyzed))) (. .))

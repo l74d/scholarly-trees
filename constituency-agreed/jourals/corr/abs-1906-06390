@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB require) (NP (DT any) (JJ subjective) (NN outlier) (NN removal)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP it)) (VP (VBZ characterizes) (NP (NP (DT the) (NN uncertainty)) (PP (IN around) (NP (NNP RPV)))) (PP (IN by) (S (VP (VBG providing) (NP (DT a) (NN confidence) (NN interval)))))) (. .))

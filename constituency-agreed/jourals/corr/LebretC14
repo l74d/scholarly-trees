@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Recent) (NNS works)) (PP (IN on) (NP (NN word) (NNS representations)))) (ADVP (RB mostly)) (VP (VBP rely) (PP (IN on) (NP (JJ predictive) (NNS models)))) (. .))
+(S (NP (JJ Such) (NNS models)) (VP (VBP have) (VP (VBN succeeded) (PP (IN in) (S (VP (VBG capturing) (NP (NP (NN word) (NNS similarties)) (CONJP (RB as) (RB well) (IN as)) (NP (ADJP (JJ semantic) (CC and) (JJ syntactic)) (NNS regularities)))))))) (. .))

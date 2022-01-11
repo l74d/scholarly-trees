@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (JJ several) (NNS parameters)) (VP (MD must) (VP (VB be) (VP (VBN selected) (PP (IN before) (S (VP (VBG applying) (NP (NNP Mapper))))))))) (CC and) (S (NP (DT the) (VBG resulting) (NN graph)) (VP (MD may) (VP (VB vary) (ADVP (RB dramatically)) (PP (IN with) (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (NNS parameters)))))))) (. .))

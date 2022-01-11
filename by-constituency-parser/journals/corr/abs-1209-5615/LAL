@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ computes) (NP (DT the) (NNP Landau) (VBP constant)) (PP (RP up) (PP (TO to) (NP (DT any) (VBN given) (NN precision))))))))) (. .))

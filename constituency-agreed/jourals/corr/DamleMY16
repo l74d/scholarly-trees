@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (S (NP (PRP it)) (VP (VBZ scales) (ADVP (RB linearly)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS nodes)) (PP (IN of) (NP (DT the) (NN graph))))))))) (CC and) (S (NP (DT a) (JJ randomized) (NN variant)) (VP (VBZ provides) (NP (JJ significant) (JJ computational) (NNS gains)))) (. .))

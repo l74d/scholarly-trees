@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBZ is) (VP (VBN measured) (PP (IN by) (NP (NP (DT a) (NN payoff) (NN function)) (VP (VBN evaluated) (PP (IN on) (NP (NP (NNS actions)) (VP (VBN produced) (PP (IN at) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (NNS nodes))) (, ,) (PP (VBG including) (NP (DT the) (NN adversary))))))))))))) (. .))

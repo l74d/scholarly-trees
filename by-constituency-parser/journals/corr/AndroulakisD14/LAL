@@ -1,0 +1,4 @@
+(S (NP (JJ Bayesian) (NNS methods)) (VP (VBP suffer) (PP (IN from) (NP (NP (DT the) (NN problem)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB specify) (NP (JJ prior) (NNS beliefs)))))))))) (. .))
+(S (NP (CD One) (JJ interesting) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB consider) (NP (JJ worst-case) (NNS priors)))))) (. .))
+(S (NP (DT This)) (VP (VBZ requires) (S (VP (VBG solving) (NP (DT a) (JJ stochastic) (JJ zero-sum) (NN game))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP extend) (NP (NP (JJ well-known) (NNS results)) (PP (IN from) (NP (NN bandit) (NN theory)))) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VP (VB discover) (NP (JJ minimax-Bayes) (NNS policies))) (CC and) (VP (NN discuss) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ practical))))))))))) (. .))

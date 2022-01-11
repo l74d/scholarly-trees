@@ -1,0 +1,3 @@
+(S (NP (DT This) (JJ lexical) (NN selection) (NN approach)) (VP (VBZ has) (NP (CD two) (NNS advantages))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ learnable))) (. .))
+(S (NP (NP (JJ Little) (JJ human) (NN effort)) (PP (IN on) (NP (NN knowledge) (NN engineering)))) (VP (VBZ is) (VP (VBN required))) (. .))

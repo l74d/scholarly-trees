@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NN integration) (NNS techniques)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (, ,) (SBAR (IN although) (S (NP (NP (NN none)) (PP (IN of) (NP (DT these)))) (VP (VBP have) (VP (VBN proven) (S (VP (TO to) (VP (VB be) (ADJP (RB fully) (JJ effective)))))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT this) (NN work)) (VP (VBZ proposes) (NP (NP (NNP FMIT)) (, ,) (NP (NP (DT a) (NN technique)) (PP (IN for) (S (VP (VBG integrating) (NP (NN feature) (NNS models)))))))) (. .))

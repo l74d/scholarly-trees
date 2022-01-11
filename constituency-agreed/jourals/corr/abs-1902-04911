@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ few) (JJ previous) (NN work)) (VP (VBZ has) (VP (VBN focused) (PP (IN on) (S (VP (VBG selecting) (NP (JJ appropriate) (NN knowledge)) (PP (IN in) (NP (DT the) (NN learning) (NN process)))))))) (. .))
+(S (NP (NP (DT The) (JJ inappropriate) (NN selection)) (PP (IN of) (NP (NN knowledge)))) (VP (MD could) (VP (VB prohibit) (NP (DT the) (NN model)) (PP (IN from) (S (VP (VBG learning) (S (VP (TO to) (VP (VB make) (NP (NP (JJ full) (NN use)) (PP (IN of) (NP (DT the) (NN knowledge)))))))))))) (. .))

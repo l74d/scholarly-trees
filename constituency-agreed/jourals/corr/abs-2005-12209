@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN system)) (VP (VBZ is) (VP (VBN optimized) (S (VP (TO to) (VP (VB satisfy) (NP (NP (DT the) (JJ implicit) (NNS constraints)) (PP (IN between) (NP (JJ different) (NNS tasks)))) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN manner)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NN proof)) (PP (IN in) (NP (NP (NN support)) (PP (IN of) (NP (DT this) (NN belief))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (ADJP (RB incredibly) (JJ simple)) (JJ classical) (NN cryptosystem)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB generate) (NP (ADJP (RB completely) (JJ secure)) (NN key)))))))) (. .))

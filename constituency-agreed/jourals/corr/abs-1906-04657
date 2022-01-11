@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN error) (NN estimator)))) (, ,) (NP (NP (NN error) (NNS indicators)) (PP (IN for) (NP (JJ local) (NN mesh) (NN adaptivity)))) (VP (VBP are) (VP (VBN extracted))) (. .))
+(S (NP (DT These) (JJ theoretical) (NNS developments)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB formulate) (NP (DT an) (JJ adaptive) (NN mesh) (NN refinement) (NN algorithm))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Traditional) (NNS models)) (PP (IN of) (NP (NN synchronization)))) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (NNS interactions)) (PP (IN between) (NP (NNS nodes)))) (VP (VBP are) (VP (VBN mediated) (PP (IN by) (NP (NP (DT a) (JJ conservative) (NN process)) (, ,) (PP (JJ such) (IN as) (NP (NN diffusion)))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (ADJP (JJ social) (CC and) (JJ biological)) (NNS processes)) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ non-conservative))) (. .))

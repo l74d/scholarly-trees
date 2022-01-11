@@ -1,0 +1,1 @@
+(S (NP (NNS Attackers)) (VP (VBP try) (S (VP (TO to) (VP (VB subvert) (NP (NNS defenses)) (PP (IN by) (S (VP (VBG finding) (NP (NP (JJ arbitrary) (JJ unambiguous) (NNS inputs)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN model)) (VP (VBZ assigns) (NP (DT an) (JJ incorrect) (NN label)) (PP (IN with) (NP (JJ high) (NN confidence)))))))))))))) (. .))

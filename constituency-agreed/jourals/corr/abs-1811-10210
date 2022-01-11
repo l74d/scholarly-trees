@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Road) (NNS networks)) (PP (IN in) (NP (NNS cities)))) (VP (VP (VBP are) (ADJP (JJ massive))) (CC and) (VP (VBZ is) (NP (NP (DT a) (JJ critical) (NN component)) (PP (IN of) (NP (NN mobility)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNS labels)) (VP (VBN required) (PP (IN for) (NP (NN road) (NN audit))))))) (VP (VBP have) (NP (NP (JJ high) (NN ambiguity)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP overcome) (PP (IN by) (S (VP (VBG proposing) (NP (DT a) (NN label) (NN hierarchy)))))))))) (. .))

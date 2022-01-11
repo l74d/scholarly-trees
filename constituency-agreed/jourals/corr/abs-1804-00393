@@ -1,0 +1,1 @@
+(S (ADVP (RB Alternatively)) (, ,) (NP (JJ generative) (NNS models)) (VP (VBP learn) (NP (NP (DT the) (JJ underlying) (NN distribution)) (PP (IN of) (NP (DT the) (NNS data)))) (, ,) (S (VP (VBG creating) (NP (NP (JJ holistic) (NNS representations)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NN learning)))))))))))) (. .))

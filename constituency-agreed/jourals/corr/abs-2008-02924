@@ -1,0 +1,2 @@
+(S (S (NP (CD One)) (VP (VBZ is) (NP (DT the) (NN distance) (NNS criteria)))) (, ,) (CC and) (S (NP (DT the) (JJ other)) (VP (VBZ is) (NP (DT the) (NN recall) (NNS criteria)))) (. .))
+(S (NP (NP (DT The) (NN algorithm)) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VP (VBZ unifies) (NP (NP (DT the) (CD two) (NNS kinds)) (PP (IN of) (NP (NN approximation) (NN criterion))))) (, ,) (CC and) (VP (VBZ has) (NP (JJ full) (JJ theoretical) (NNS guarantees)))) (. .))

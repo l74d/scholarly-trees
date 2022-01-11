@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ sharp) (NN phase) (NN transition)) (VP (VBZ emerges) (PP (IN in) (NP (NN convex) (NNS programs))) (SBAR (WHADVP (WRB when)) (S (VP (VBG solving) (NP (NP (DT the) (JJ linear) (NN inverse) (NN problem)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ aims) (S (VP (TO to) (VP (VB recover) (NP (DT a) (JJ structured) (NN signal)) (PP (IN from) (NP (PRP$ its) (JJ linear) (NNS measurements)))))))))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB demonstrate) (NP (PRP$ our) (NNS results))))))) (. .))

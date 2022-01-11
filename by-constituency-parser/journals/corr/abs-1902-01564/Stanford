@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN drag)) (CC and) (NP (NN drop) (NN interaction) (NN technique))) (PP (IN for) (NP (NNS graphs)))) (. .))
+(S (NP (PRP We)) (VP (VBD designed) (NP (DT this) (NN interaction)) (S (VP (TO to) (VP (VB support) (NP (NN analysis)) (PP (IN in) (NP (JJ complex) (ADJP (JJ multidimensional) (CC and) (JJ temporal)) (NNS graphs))))))) (. .))
+(S (NP (NP (DT The) (NN drag)) (CC and) (NP (NN drop) (NN interaction))) (VP (VBZ is) (VP (VBN enhanced) (PP (IN with) (NP (DT an) (ADJP (JJ intuitive) (CC and) (JJ controllable)) (NN animation))) (, ,) (PP (IN in) (NP (NP (NN support)) (PP (IN of) (NP (NN comparison) (NNS tasks))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NN transportation)))) (SBAR (IN while) (S (NP (DT the) (NNS objects)) (VP (VBP are) (VP (VBN replenished) (PP (IN over) (NP (NN time))))))))))) (. .))
+(S (NP (PRP$ Our) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN implemented) (CC and) (VBN tested) (ADVP (RB extensively)) (PP (IN in) (NP (DT the) (NN simulation)))))) (. .))

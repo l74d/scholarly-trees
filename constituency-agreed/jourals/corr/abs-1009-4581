@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB evaluate) (NP (NP (DT these) (NNS methods)) (PP (IN of) (NP (NN filtering))))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (CD two) (NN error) (NNS metrics))) (. .))
+(S (S (NP (DT The) (JJ first)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNS vertices)))))) (CC and) (S (NP (DT the) (NN second)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNS normals)))))) (. .))

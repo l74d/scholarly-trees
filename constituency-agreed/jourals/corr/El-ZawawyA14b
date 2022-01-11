@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (ADVP (RB also)) (VP (VBZ presents) (NP (NP (DT a) (JJ novel) (JJ operational) (NNS semantics)) (PP (IN for) (NP (JJ concurrent) (NNS programs))))) (. .))
+(S (NP (DT The) (NNS semantics)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN correctness) (CC and) (NN efficiency)) (PP (IN of) (NP (NP (DT the) (VBN proposed) (NNS techniques)) (PP (IN for) (NP (NP (NN connectivity) (NN analysis)) (CC and) (NP (NN trace) (NN simplification)))))))))))) (. .))

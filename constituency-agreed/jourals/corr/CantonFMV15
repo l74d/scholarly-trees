@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN coefficient)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ relevant) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (JJ affine) (NN type)) (PP (IN of) (NP (DT the) (NN quadric))))))))) (. .))
+(S (NP (NP (NNS Spheres) (CC and) (NNS quadrics)) (PP (IN of) (NP (NN revolution)))) (VP (VBP are) (VP (VBN characterised) (PP (IN within) (NP (DT this) (NN framework))))) (. .))

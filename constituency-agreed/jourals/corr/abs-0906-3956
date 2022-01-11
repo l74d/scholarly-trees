@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS protocols)) (ADVP (RB normally)) (VP (VBP add) (NP (NP (NN communication) (NN overhead)) (CONJP (RB as) (RB well) (IN as)) (NP (NN computation) (NN overhead))) (PP (PP (IN at) (NP (DT the) (NN group) (JJ key) (NN controller))) (CC and) (PP (IN at) (NP (DT the) (NN group) (NNS members))))) (. .))

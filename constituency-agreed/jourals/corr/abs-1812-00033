@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NP (JJ previous) (NNS works)) (VP (VBG using) (NP (NP (NNS models)) (PP (IN of) (NP (DT this) (NN kind)))))))) (VP (VBP have) (VP (VBN trained) (NP (PRP them)) (PP (IN in) (NP (DT a) (ADJP (RB fully) (JJ supervised)) (NN manner))) (, ,) (S (VP (VBG requiring) (NP (DT a) (ADJP (RB fully) (VBN annotated)) (NN dataset)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN control) (NN action)) (VP (VBZ is) (VP (VBN selected) (PP (IN by) (NP (DT the) (NN decoder))) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN message)) (VP (VBN encoded) (PP (IN by) (NP (DT the) (NN source) (NN node))))))))) (. .))
+(S (NP (DT The) (NN control) (NNS actions)) (VP (VBP are) (VP (VBN selected) (PP (IN by) (NP (DT the) (NN decoder))) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS messages)) (VP (VBN encoded) (PP (IN by) (NP (DT both) (NN source) (NNS nodes))))))))) (. .))

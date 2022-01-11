@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS works)) (VP (VBP suffer) (PP (IN from) (NP (CD two) (JJ key) (NNS limitations)))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN hyperparameter) (NN precision)) (PP (IN in) (NP (DT the) (NNP SGD) (NN training) (NN algorithm)))))) (VP (VBP are) (VP (VBN obtained))) (. .))

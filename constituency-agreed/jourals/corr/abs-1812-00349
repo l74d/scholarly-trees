@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (NN program) (NNS logics)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN for) (NP (NP (NN verification)) (PP (IN of) (NP (JJ non-recursive) (NN quantum) (NNS programs)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP fill) (NP (NP (DT the) (NN gap)) (PP (IN in) (NP (DT this) (NN paper)))) (PP (IN by) (S (VP (VBG presenting) (NP (NP (DT a) (NN logic)) (PP (IN for) (NP (JJ recursive) (NN quantum) (NNS programs)))))))) (. .))

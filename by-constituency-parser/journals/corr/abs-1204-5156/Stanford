@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP extend) (NP (DT the) (NN sequent) (NN calculus) (NN LKF)) (PP (IN into) (NP (NP (DT a) (NN calculus)) (NP (NNP LK) (-LRB- -LRB-) (NN T) (-RRB- -RRB-)))) (, ,) (S (VP (VBG allowing) (NP (NNS calls)) (PP (IN to) (NP (DT a) (NN decision) (NN procedure)))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (NN cut) (HYPH -) (NN elimination)) (PP (IN of) (NP (NNP LK)))) (PRN (-LRB- -LRB-) (NP (NN T)) (-RRB- -RRB-))) (. .))

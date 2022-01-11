@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN probability) (NN distribution)) (PP (IN on) (NP (DT the) (NNS models)))) (VP (VBZ is) (VP (VBN computed) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ relative) (NN accuracy)) (PP (IN of) (NP (NP (DT each) (NN pair)) (PP (IN of) (NP (NNS models)))))))))) (. .))

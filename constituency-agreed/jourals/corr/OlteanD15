@@ -1,0 +1,2 @@
+(S (NP (NNP MEP)) (VP (VBZ uses) (NP (DT a) (JJ linear) (NN solution) (NN representation))) (. .))
+(S (NP (DT A) (NNP MEP) (NN individual)) (VP (MD may) (VP (VB encode) (NP (NP (JJ multiple) (NNS solutions)) (PP (IN of) (NP (DT the) (JJ current) (NN problem)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN approach)) (VP (VBZ is) (ADVP (RB mainly)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ recent) (NN technique)) (PP (IN of) (NP (NN system) (NN abstraction))))))) (. .))
+(S (NP (DT An) (NN example)) (VP (VBD was) (VP (VBN given) (S (VP (TO to) (VP (VB show) (NP (PRP$ its) (NN effectiveness))))))) (. .))

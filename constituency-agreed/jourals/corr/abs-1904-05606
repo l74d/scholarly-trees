@@ -1,0 +1,3 @@
+(S (NP (CD Two) (JJ multi-lingual) (NNS models)) (VP (VBP are) (VP (VBN proposed) (PP (IN for) (NP (DT this) (NN task))))) (. .))
+(S (NP (DT The) (JJ first) (NN approach)) (VP (VBZ uses) (NP (NP (CD one) (JJ general) (NN model)) (VP (VBN trained) (PP (IN on) (NP (NP (DT the) (NNS embeddings)) (PP (IN from) (NP (DT all) (JJ available) (NNS languages)))))))) (. .))
+(S (NP (DT The) (JJ multi-lingual) (NNS models)) (VP (VBP are) (VP (VBN validated) (ADVP (RB experimentally)) (PP (IN on) (NP (NP (CD two) (NNS languages)) (PP (IN from) (NP (DT the) (NNP Verbmobil) (NN corpus))))))) (. .))

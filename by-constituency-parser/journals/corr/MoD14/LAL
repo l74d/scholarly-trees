@@ -1,0 +1,6 @@
+(S (NP (NNP Dempster-Shafer) (NN evidence) (NN theory)) (VP (VBZ is) (NP (NP (DT a) (JJ powerful) (NN tool)) (PP (IN in) (NP (NN information) (NN fusion))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN evidence)) (VP (VBP are) (ADJP (RB highly) (VBG conflicting))))) (, ,) (NP (DT the) (JJ counter-intuitive) (NNS results)) (VP (MD will) (VP (VB be) (VP (VBN presented)))) (. .))
+(S (S (VP (TO To) (VP (VB adress) (NP (DT this) (JJ open) (NN issue))))) (, ,) (NP (NP (DT a) (JJ new) (NN method)) (VP (VBN based) (PP (IN on) (NP (NP (NN evidence) (NN distance)) (PP (IN of) (NP (NNP Jousselme) (CC and) (NNP Hausdorff) (NN distance))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (NNP Weight)) (PP (IN of) (NP (DT each) (NN evidence)))) (VP (MD can) (VP (VB be) (VP (VP (VBN computed)) (, ,) (S (VP (VB preprocess) (NP (DT the) (JJ original) (NN evidence)) (S (VP (TO to) (VP (VB generate) (NP (DT a) (JJ new) (NN evidence)))))))))) (. .))
+(S (NP (NP (DT The) (NNP Dempster) (POS 's)) (NN combination) (NN rule)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB combine) (NP (DT the) (JJ new) (NN evidence))))))) (. .))
+(S (S (VP (VBG Comparing) (PP (IN with) (NP (DT the) (VBG existing) (NNS methods))))) (, ,) (NP (DT the) (JJ new) (VBN proposed) (NN method)) (VP (VBZ is) (ADJP (JJ efficient))) (. .))

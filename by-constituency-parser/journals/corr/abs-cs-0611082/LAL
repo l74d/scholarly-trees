@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP Traveling) (NNP Salesman) (NNP Problem)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN solved) (PP (IN in) (NP (NN polynomial-time))) (PP (IN on) (NP (DT a) (JJ classical) (NN computer))))))))) (. .))

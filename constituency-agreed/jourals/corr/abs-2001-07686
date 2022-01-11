@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN application)) (VP (VBZ implements) (NP (DT a) (JJ simple) (NNP Kalman) (NN filter)) (PP (IN in) (NP (DT the) (NN smartphone))) (, ,) (PP (IN without) (NP (NP (DT the) (NN need)) (PP (IN of) (NP (DT the) (NNP Cloud))))) (, ,) (S (VP (TO to) (VP (VB improve) (NP (NN localization) (NN precision) (CC and) (NN accuracy)))))) (. .))

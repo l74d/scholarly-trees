@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP test) (NP (DT this) (NN method)) (PP (IN on) (NP (DT a) (ADJP (RB highly) (JJ parallel)) (NN corpus)))) (CC and) (VP (VB learn) (NP (NP (JJ semantic) (NNS representations)) (PP (IN of) (NP (NP (NNS words)) (PP (IN in) (NP (NP (CD 1259) (JJ different) (NNS languages)) (PP (IN in) (NP (DT a) (JJ single) (JJ common) (NN space)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN built) (PP (IN upon) (NP (NP (DT a) (JJ compositional) (NN architecture)) (PP (IN for) (NP (JJ multi-step) (NN color) (NN correction))))) (, ,) (PP (IN with) (NP (NP (DT a) (JJ comprehensive) (NN loss) (NN function)) (VP (VBN designed) (S (VP (TO to) (VP (VB handle) (NP (JJ large) (NN quantization) (NNS errors)))))))))) (. .))

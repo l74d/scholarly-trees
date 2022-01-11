@@ -1,0 +1,2 @@
+(SQ (VBZ Is) (NP (EX there)) (NP (NP (DT a) (NN theory)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB explain) (NP (DT both))))))) (. ?))
+(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT a) (JJ general) (NN theory)) (PP (IN of) (NP (NP (JJ local) (NNS descriptors)) (PP (IN for) (NP (JJ visual) (NN matching))))))) (. .))

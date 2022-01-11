@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP assess) (NP (NP (DT the) (NN importance)) (PP (IN of) (NP (NN punctuation) (CC and) (NN capitalization))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (JJS best) (NNS results)) (VP (VBP are) (VP (VBN achieved) (PP (IN by) (S (VP (VBG combining) (NP (NN tokenization)) (PP (IN at) (NP (DT both) (NNS levels)))))))) (. .))

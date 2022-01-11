@@ -1,0 +1,2 @@
+(S (NP (JJ Multiple) (NNS transactions)) (VP (VBP are) (VP (VBN allowed) (S (VP (TO to) (VP (VB execute) (ADVP (RB concurrently))))))) (. .))
+(S (PP (IN On) (NP (NN completion))) (, ,) (S (NP (DT each) (NN transaction)) (VP (VBZ is) (VP (VBN validated)))) (CC and) (S (SBAR (IN if) (S (NP (DT any) (NN inconsistency)) (VP (VBZ is) (VP (VBN observed))))) (NP (PRP it)) (VP (VBZ is) (VP (VBN aborted)))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT a) (JJ virtualized) (NN environment))) (, ,) (NP (NN contextualization)) (VP (VBZ is) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG configuring) (NP (DT a) (NNP VM) (NN instance)) (PP (IN for) (NP (NP (DT the) (NNS needs)) (PP (IN of) (NP (JJ various) (NN deployment) (NN use) (NNS cases)))))))))) (. .))
+(S (NP (NNP CernVM) (NNP Online)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB publicly) (JJ accessible)) (NN web) (NN interface)) (SBAR (WHNP (WDT that)) (S (VP (VBZ unifies) (NP (DT these) (CD two) (NNS procedures))))))) (. .))

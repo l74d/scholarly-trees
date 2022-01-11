@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN mapping) (NN handler)) (VP (VP (VBZ reads) (NP (NP (DT the) (NN mapping) (NNS rules)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN defined) (PP (IN by) (NP (NNS developers))))))))) (CC and) (VP (VBZ does) (NP (DT the) (NN mapping)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (PRP them))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB do) (NP (DT this))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (NP (NNP Zeckendorf) (POS 's)) (NNP Theorem)) (, ,) (NP (NP (DT a) (NN property)) (PP (IN of) (NP (NP (DT the) (NNP Fibonacci) (NN sequence)) (PP (IN of) (NP (NNS numbers)))))))) (. .))

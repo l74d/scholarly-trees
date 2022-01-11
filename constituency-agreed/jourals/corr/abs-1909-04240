@@ -1,0 +1,2 @@
+(S (NP (JJ Structural) (NN optimization)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN method)) (PP (IN for) (S (VP (VBG designing) (NP (NP (NNS objects)) (PP (JJ such) (IN as) (NP (NP (NN bridge) (NNS trusses)) (, ,) (NP (NN airplane) (NNS wings)) (, ,) (CC and) (NP (JJ optical) (NNS devices)))))))))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NNS solutions)))) (VP (VBZ depends) (ADVP (RB heavily)) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN problem)) (VP (VBZ is) (VP (VBN parameterized))))))) (. .))

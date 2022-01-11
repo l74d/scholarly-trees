@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT the) (NN idea)) (PP (IN of) (NP (DT an) (NNP IoTScanner))))) (. .))
+(S (NP (DT The) (NNP IoTScanner)) (VP (VBZ integrates) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NNS radios)))) (S (VP (TO to) (VP (VB allow) (NP (NP (JJ local) (NN reconnaissance)) (PP (IN of) (NP (NP (VBG existing) (JJ wireless) (NN infrastructure)) (CC and) (NP (VBG participating) (NNS nodes))))))))) (. .))

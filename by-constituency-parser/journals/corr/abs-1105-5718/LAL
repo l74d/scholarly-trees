@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN document)) (VP (VBZ specifies) (NP (NP (DT the) (NNP Relational) (NNP Schema) (NNP Protocol)) (PRN (-LRB- -LRB-) (NP (NNP RSP)) (-RRB- -RRB-)))) (. .))
+(S (NP (NNP RSP)) (VP (VBZ enables) (S (NP (ADJP (RB loosely) (VBN coupled)) (NNS applications)) (VP (TO to) (VP (NN share) (CC and) (NN exchange) (NP (JJ relational) (NNS data)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ defines) (NP (NP (VBN fixed) (NN message) (NN format)) (PP (IN for) (NP (DT an) (JJ arbitrary) (JJ relational) (NN schema)))) (SBAR (IN so) (IN that) (S (NP (NP (DT the) (NNS changes)) (PP (IN in) (NP (DT the) (NNS data) (NNS schema)))) (VP (VBP do) (RB not) (VP (VB affect) (NP (DT the) (NN message) (NN format))))))) (. .))
+(S (NP (DT This)) (VP (VBZ prevents) (NP (DT the) (NN interacting) (NNS applications)) (PP (IN from) (S (VP (VBG having) (S (VP (TO to) (VP (VB be) (VP (VBN reimplemented) (PP (IN during) (NP (DT the) (NNS data) (NN schema) (NN evolvement))))))))))) (. .))

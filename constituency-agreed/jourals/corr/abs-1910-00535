@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (DT an) (JJ auxiliary) (JJ neural) (NN network)) (S (VP (TO to) (VP (VB express) (NP (NP (DT the) (NN potential)) (PP (IN of) (NP (NP (DT the) (JJ optimal) (NN transport) (NN map)) (PP (IN between) (NP (CD two) (NNS data) (NNS distributions)))))))))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN sequel))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT the) (JJ aforementioned) (NN map)) (S (VP (TO to) (VP (VB train) (NP (JJ generative) (NNS networks)))))) (. .))

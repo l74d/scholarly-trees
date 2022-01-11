@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN method)) (VP (VBZ is) (RB not) (ADJP (RB very) (JJ robust) (S (VP (TO to) (VP (VB handle) (NP (NP (NN image) (NN noise)) (, ,) (NP (NNS variances)) (CC and) (NP (JJ different) (NN illumination) (NNS conditions)))))))) (. .))

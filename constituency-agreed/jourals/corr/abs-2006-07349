@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB deal) (PP (IN with) (NP (DT this) (NN heterogeneity)))))) (, ,) (NP (NN virtualization) (NN technology)) (VP (VBZ is) (NP (JJ key) (NN technology))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN besides) (NP (NP (DT the) (NNS advantages)) (PP (IN from) (NP (NN service) (NN virtualization))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN expected) (SBAR (IN that) (S (NP (NN network) (NN performance) (CC and) (NN availability)) (VP (VBP do) (RB not) (VP (VB be) (VP (VBN affected) (PP (IN by) (NP (PRP$ its) (NN usage)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (DT these) (NNS schemes)) (VP (VBP require) (NP (JJ important) (NNS sub-iterations)) (SBAR (WHADVP (WRB when)) (S (VP (VBG treating) (NP (JJ non-linear) (NNS problems)))))) (. .))
+(S (NP (DT A) (JJ first) (NN case) (NN study)) (VP (VBZ has) (VP (VBN been) (VP (VBN considered) (PP (IN with) (NP (NP (DT the) (NN hypothesis)) (PP (IN of) (NP (JJ linear) (NN transfer)))))))) (. .))

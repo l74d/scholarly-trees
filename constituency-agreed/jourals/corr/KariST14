@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN notion)) (VP (VP (VBZ is) (VP (VBN defined) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN trace) (NN function)) (PP (IN of) (NP (DT the) (NN system))))))))) (, ,) (CC and) (VP (VBZ aims) (S (VP (TO to) (VP (VB capture) (NP (PRP$ its) (NNS dynamics))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (DT some) (NNS implications) (CC and) (NNS limitations)) (PP (IN of) (NP (DT the) (NN construction))))) (. .))

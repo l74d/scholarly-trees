@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (JJS most) (NN duration) (NNS distributions)) (VP (VBP are) (VP (VBN defined) (PP (IN over) (NP (DT the) (JJ positive) (NNS integers))))))) (, ,) (NP (NP (NN truncation)) (CC or) (NP (JJ other) (NNS approximations))) (VP (VBP are) (ADVP (RB usually)) (VP (VBN required) (S (VP (TO to) (VP (VB perform) (NP (NNP EDHMM) (NN inference))))))) (. .))

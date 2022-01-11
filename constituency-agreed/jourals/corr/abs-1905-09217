@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (DT the) (JJ contextual) (NN text) (NNS representations)) (PP (IN from) (NP (NNP BERT)))) (VP (VBP are) (ADJP (ADJP (RBR more) (JJ effective)) (PP (IN than) (NP (JJ traditional) (NN word) (NNS embeddings)))))))) (. .))

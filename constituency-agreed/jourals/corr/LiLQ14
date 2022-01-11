@@ -1,0 +1,2 @@
+(S (NP (JJ Empirical) (JJ spectral) (NN density)) (VP (VBZ is) (NP (NP (DT the) (JJ relevant) (NN information)) (SBAR (S (NP (PRP we)) (VP (VBP seek) (PP (IN for))))))) (. .))
+(S (NP (DT This) (NN model)) (VP (VBZ is) (ADJP (RB extremely) (JJ general)) (S (VP (TO to) (VP (VB allow) (PP (IN for) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (ADJP (JJ non-linear) (CC and) (JJ non-Gaussian)) (NN phenomenon))))))))) (. .))

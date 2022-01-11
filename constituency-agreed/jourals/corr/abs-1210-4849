@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP seek) (S (VP (TO to) (VP (VB minimize) (NP (JJ such) (NN wastage)))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT the) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (SBAR (IN that) (S (NP (DT each) (NN taxi)) (VP (VB be) (VP (VBN equipped) (PP (IN with) (NP (NP (DT an) (JJ intelligent) (NN agent)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB guide) (NP (DT the) (NN driver)) (SBAR (WHADVP (WRB when)) (S (VP (VBG cruising) (PP (IN for) (NP (NNS passengers))))))))))))))))) (. .))
+(S (NP (DT The) (JJ first) (NN formulation)) (VP (VBZ assumes) (NP (ADJP (RB fully) (JJ cooperative)) (NNS drivers))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (DT a) (NNP Markov) (NN decision) (NN process))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (NP (DT a) (JJ stochastic) (NN congestion) (NN game)) (, ,) (NP (NP (DT a) (NN specialization)) (PP (IN of) (NP (JJ stochastic) (NNS games)))))))) (. .))

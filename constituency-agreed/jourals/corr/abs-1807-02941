@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ post-processing) (NN module)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VP (VB filter) (PRT (RP out)) (NP (NNS outliers))) (CC and) (VP (VB reduce) (NP (JJ false) (NNS alarms)))))))) (. .))

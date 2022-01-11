@@ -1,0 +1,2 @@
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (NP (DT the) (NNP PASCAL) (NNP VOC)) (CC and) (NP (DT the) (NNP Caltech) (NN benchmark) (NNS datasets)))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT each) (JJ novel) (NN component)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN analyzed))) (. .))

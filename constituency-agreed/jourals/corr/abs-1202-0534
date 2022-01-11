@@ -1,0 +1,4 @@
+(S (NP (NN Trimness) (CC and) (NN properness)) (VP (VBP are) (NP (NP (JJ dual) (NNS properties)) (PP (IN of) (NP (NN constraint) (NNS codes))))) (. .))
+(S (NP (DT A) (JJ linear) (NN realization)) (VP (VBZ is) (ADJP (RB locally) (JJ reducible)) (SBAR (IN if) (S (NP (DT any) (NN constraint) (NN code)) (VP (VBZ is) (RB not) (ADJP (DT both) (JJ trim) (CC and) (JJ proper)))))) (. .))
+(S (NP (NN Observability) (CC and) (NN controllability)) (VP (VBP are) (NP (JJ dual) (NNS properties))) (. .))
+(S (NP (DT An) (ADJP (JJ unobservable) (CC or) (JJ uncontrollable)) (NN realization)) (VP (VBZ is) (ADJP (RB locally) (JJ reducible))) (. .))

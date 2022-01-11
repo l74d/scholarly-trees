@@ -1,0 +1,2 @@
+(S (NP (NNP Task) (NN allocation) (NNS problems)) (VP (VBP have) (ADVP (RB traditionally)) (VP (VBN focused) (PP (IN on) (NP (NN cost) (NN optimization))))) (. .))
+(S (PP (IN Among) (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NN test) (NNS instances))))) (, ,) (NP (NN fairness)) (VP (VBZ comes) (PP (IN with) (NP (NP (DT a) (ADJP (RB very) (JJ small)) (NN price)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN cost)))))))) (. .))

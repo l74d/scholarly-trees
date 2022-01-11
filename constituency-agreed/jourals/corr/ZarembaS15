@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS capabilities)) (PP (IN of) (NP (DT a) (NN model)))) (VP (MD can) (VP (VB be) (VP (VBN extended) (PP (IN by) (S (VP (VBG providing) (NP (PRP it)) (PP (IN with) (NP (NP (JJ proper) (NNS Interfaces)) (SBAR (WHNP (WDT that)) (S (VP (VBP interact) (PP (IN with) (NP (DT the) (NN world)))))))))))))) (. .))
+(S (NP (NP (DT Some)) (PP (IN of) (NP (DT these) (NNS Interfaces)))) (VP (VBP are) (VP (VBN provided) (PP (IN by) (NP (NP (DT the) (NNS developers)) (PP (IN of) (NP (DT the) (NN model))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT These) (CD two) (NNS issues)) (VP (VBP are) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (DT this) (NN paper))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN solution)) (VP (VP (VBZ is) (ADJP (RB highly) (JJ scalable))) (, ,) (VP (VBZ does) (RB not) (VP (VB sacrifice) (NP (NN accuracy)) (PP (IN for) (NP (NN scalability))))) (, ,) (CC and) (VP (VBZ is) (ADJP (RB highly) (JJ responsive) (PP (IN in) (S (VP (VBG raising) (NP (NNS alerts)))))))) (. .))

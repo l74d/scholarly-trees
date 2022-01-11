@@ -1,0 +1,1 @@
+(S (S (NP (JJ Cryptographic) (NNS keys)) (VP (VBP are) (VP (VBN associated) (PP (IN with) (NP (DT each) (NN security) (NN label)))))) (CC and) (S (S (VP (VBG demonstrating) (NP (NP (NN knowledge)) (PP (IN of) (NP (DT an) (JJ appropriate) (NN key)))))) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT the) (NN basis)) (PP (IN for) (NP (NN authentication)))))))) (. .))

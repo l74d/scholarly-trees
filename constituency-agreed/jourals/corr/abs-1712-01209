@@ -1,0 +1,1 @@
+(S (NP (NNP BigClam)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN graph) (NN mining) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG finding) (NP (VBG overlapping) (NNS communities)) (PP (IN in) (NP (NP (NNS networks)) (VP (VBG containing) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS nodes)))))))))))))))) (. .))

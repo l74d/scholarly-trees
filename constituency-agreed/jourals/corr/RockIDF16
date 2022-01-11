@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ rests) (PP (IN on) (NP (NP (NN innovation)) (PP (IN in) (NP (NP (JJ generative) (NNS models)) (PP (IN for) (NP (NNS images)))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VP (VBZ is) (ADJP (JJ general))) (, ,) (CC and) (VP (VBZ does) (RB not) (VP (VB require) (SBAR (IN that) (S (NP (NNS layers)) (VP (VBP admit) (NP (DT a) (JJ physical) (NN interpretation)))))))) (. .))

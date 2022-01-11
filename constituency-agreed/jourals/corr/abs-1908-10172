@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB additionally)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB utilize) (NP (ADJP (JJ high) (JJ dimensional)) (NNS keys)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN robustness)) (PP (IN against) (NP (NNS attacks)))) (PP (IN without) (S (VP (VBG increasing) (NP (DT the) (NN model) (NN complexity))))))))))))) (. .))
+(S (NP (PRP$ Our) (JJ detailed) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN technique))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (JJ Relaxed) (NN memory) (NNS models)) (VP (VBP are) (ADJP (RB notoriously) (JJ delicate))) (. .))
+(S (S (VP (TO To) (VP (VB ease) (NP (PRP$ their) (NN study))))) (, ,) (NP (JJ several) (ADJP (FW ad) (FW hoc)) (NNS simulators)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN for) (NP (ADJP (JJ axiomatic)) (NN memory) (NNS models)))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (NN memory) (NNS models)) (PP (VBN based) (PP (IN on) (NP (NN event) (NNS structures))))) (VP (MD can) (VP (VB be) (VP (VBN simulated) (S (VP (VBG using) (NP (NP (DT a) (NN solver)) (PP (IN for) (NP (NNP MSO)))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (NP (DT a) (NN solver)) (PP (IN for) (ADVP (RB SO)))) (, ,) (VP (VBN built) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (NN QBF) (NNS solvers)))))))) (. .))

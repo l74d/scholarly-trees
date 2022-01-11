@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NN security) (NNS countermeasures))))) (, ,) (NP (NP (DT a) (NN malware)) (VP (VBN designed) (PP (IN for) (NP (NNS data) (NN exfiltration))))) (VP (MD must) (VP (VB do) (ADVP (RB so)) (S (VP (VBG using) (NP (DT a) (JJ covert) (NN channel)) (S (VP (TO to) (VP (VB achieve) (NP (PRP$ its) (NN goal))))))))) (. .))

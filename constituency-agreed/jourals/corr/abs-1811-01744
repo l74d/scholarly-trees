@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ optimal) (NN solution)) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (DT a) (JJ greedy) (JJ fractional) (NN knapsack) (NN algorithm))))) (. .))

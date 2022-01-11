@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model) (NN output)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (NP (JJ virtual) (NNS measurements)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB subsequently)) (VP (VBN used) (S (VP (TO to) (VP (VP (VB run) (NP (DT the) (NN filter))) (CC and) (VP (VB validate) (NP (DT the) (VBN proposed) (NN estimator)))))))))))))))) (. .))

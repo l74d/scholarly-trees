@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN implemented) (PP (IN with) (NP (NP (DT a) (JJ non-linear) (NN convolution) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBZ iterates) (PP (IN over) (NP (NN wavelet) (CC and) (NN modulus) (NNS operators)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP AMT) (NN algorithm)) (VP (VBZ is) (VP (VBN derived) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (JJ multi-armed) (NNS bandits)))))))) (. .))

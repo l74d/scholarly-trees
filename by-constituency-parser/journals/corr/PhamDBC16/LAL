@@ -1,0 +1,5 @@
+(S (NP (DT The) (NNP IDP) (NN knowledge) (NN base) (NN system)) (ADVP (RB currently)) (VP (VBZ uses) (NP (NP (NNP MiniSAT)) (PRN (-LRB- -LRB-) (NP (NNP ID)) (-RRB- -RRB-))) (PP (IN as) (NP (PRP$ its) (NN backend) (NN Constraint) (NNP Programming) (PRN (-LRB- -LRB-) (NNP CP) (-RRB- -RRB-)) (NN solver)))) (. .))
+(S (NP (DT A) (JJ few) (JJ similar) (NNS systems)) (VP (VBP have) (VP (VBN used) (NP (DT a) (NNP Mixed) (NNP Integer) (NNP Programming) (PRN (-LRB- -LRB-) (NNP MIP) (-RRB- -RRB-)) (NN solver)) (PP (IN as) (NP (NN backend))))) (. .))
+(S (ADVP (RB However)) (, ,) (ADVP (IN so) (RB far)) (NP (JJ little)) (VP (VBZ is) (VP (VBN known) (PP (IN about) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP MIP) (NN solver)) (VP (VBZ is) (ADJP (JJ preferable)))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ explores) (NP (DT this) (NN question))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ describes) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNP CPLEX))) (PP (IN as) (NP (NP (DT a) (NN backend)) (PP (IN for) (NP (NNP IDP))))))) (CC and) (VP (NNS reports) (PP (IN on) (NP (NP (NNS experiments)) (VP (VBG comparing) (NP (DT both) (NNS backends))))))) (. .))

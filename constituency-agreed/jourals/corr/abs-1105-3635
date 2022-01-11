@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ exploits) (NP (NP (DT the) (NN calculation) (NNS properties)) (PP (IN of) (NP (NP (JJ finite) (NN mixture) (NNS models)) (, ,) (NP (JJ conjugate) (NNS families)) (CC and) (NP (NN factorization)))))) (. .))
+(S (NP (NP (DT This) (NN ability)) (, ,) (ADJP (RB extremely) (JJ useful) (PP (IN in) (NP (JJ certain) (NNS situations)))) (, ,)) (VP (VBZ is) (RB not) (VP (VBN found) (PP (IN in) (NP (JJS most) (JJ alternative) (NNS methods))))) (. .))

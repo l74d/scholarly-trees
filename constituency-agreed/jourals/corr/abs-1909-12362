@@ -1,0 +1,1 @@
+(S (ADVP (RB Theoretically)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (VP (VBN trained) (PP (IN on) (NP (DT a) (JJ single) (NN example)))))) (, ,) (NP (NNS autoencoders)) (VP (VBP store) (NP (DT the) (NN example)) (PP (IN as) (NP (DT an) (NN attractor))))))) (. .))

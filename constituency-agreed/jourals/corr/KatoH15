@@ -1,0 +1,2 @@
+(S (NP (NP (NN Image) (NN reconstruction)) (PP (IN from) (NP (NNS features)))) (VP (MD can) (VP (VB be) (NP (NP (DT a) (NN means)) (PP (IN of) (S (VP (VBG identifying) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (NNS features)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PRP$ our) (NN method))))))) (, ,) (NP (PRP we)) (VP (VBP reconstruct) (NP (NP (NNS images)) (PP (IN of) (NP (NP (NNS objects)) (PP (IN of) (NP (CD 101) (NNS kinds))))))) (. .))

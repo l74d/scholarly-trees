@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP are) (ADVP (RB often)) (NP (NP (JJ several) (ADJP (RB equally) (JJ viable)) (NNS options)) (PP (IN of) (S (VP (VBG grasping) (NP (DT an) (NN object))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN ambiguity)) (VP (VBZ is) (RB not) (VP (VBN modeled) (PP (IN in) (NP (NP (JJ conventional) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP estimate) (NP (DT a) (JJ single) (, ,) (JJ optimal) (NN grasp) (NN position))))))))) (. .))

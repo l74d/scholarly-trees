@@ -1,0 +1,2 @@
+(S (NP (JJ Physical) (NNS systems)) (VP (VBP are) (VP (VBN modelled) (CC and) (VBN investigated) (PP (IN within) (NP (NN simulation) (NN software))) (PP (IN in) (NP (NP (DT an) (VBG increasing) (NN range)) (PP (IN of) (NP (NNS applications))))))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT an) (NN infill) (NN criterion)) (SBAR (WHNP (WDT which)) (S (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (NN identification)) (PP (IN of) (NP (JJ local) (NN optima)))))))))) (. .))

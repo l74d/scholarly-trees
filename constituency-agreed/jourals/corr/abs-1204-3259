@@ -1,0 +1,2 @@
+(S (NP (NP (CD Three) (NNS generations)) (PP (IN of) (NP (NNP ZigBee) (NN protocol)))) (VP (VBP are) (VP (VBN examined))) (. .))
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NN protocol) (NN change) (NNS operations)))) (VP (VBZ is) (VP (VBN generated) (CC and) (VBN described))) (. .))

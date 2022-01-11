@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP generate) (NP (DT the) (NN preconditioner)) (ADVP (RB rapidly)) (PP (IN via) (NP (NP (DT a) (JJ randomized) (NN procedure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ succeeds) (PP (IN with) (NP (ADJP (RB extremely) (JJ high)) (NN probability))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (JJ Private) (NN prediction)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN achieved) (S (VP (VBG using) (NP (NP (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN trained) (PP (IN by) (NP (JJ private) (NN training) (NNS methods))))))))))))) (. .))

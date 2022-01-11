@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (, ,) (NP (NP (DT the) (JJ automatic) (NN detection) (CC and) (NN modelling)) (PP (IN of) (NP (JJ creaky) (NN voice)))) (VP (MD may) (VP (VB have) (NP (NP (NNS implications)) (PP (IN for) (NP (NN speech) (NN technology) (NNS applications)))))) (. .))
+(S (NP (NP (DT The) (JJ acoustic) (NNS characteristics)) (PP (IN of) (NP (JJ creaky) (NN voice)))) (VP (VBP are) (, ,) (ADVP (RB however)) (, ,) (ADJP (RB rather) (JJ distinct) (PP (IN from) (NP (JJ modal) (NN phonation))))) (. .))

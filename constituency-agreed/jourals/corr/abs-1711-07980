@@ -1,0 +1,2 @@
+(S (NP (NP (NP (DT The) (NN bag)) (PP (IN of) (NP (NN disease) (CC and) (NNS comorbidities)))) (VP (VBN recorded) (PP (IN at) (NP (DT each) (NN hospital) (NN visit))))) (VP (VBP are) (VP (VBN modeled) (PP (IN as) (NP (NP (NN function)) (PP (IN of) (NP (NNS sets))))))) (. .))
+(S (NP (DT The) (JJ same)) (VP (VBZ holds) (PP (IN for) (NP (NP (DT the) (NN bag)) (PP (IN of) (NP (NNS treatments)))))) (. .))

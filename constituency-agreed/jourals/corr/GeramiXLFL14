@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB maintain) (NP (NN reliability))))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN storage) (NN node)) (VP (VBZ fails)))) (, ,) (NP (DT a) (JJ new) (NN node)) (VP (MD should) (VP (VB be) (VP (VBN regenerated) (PP (IN by) (NP (DT a) (NN repair) (NN process)))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ minimal) (NN storage)) (PP (IN of) (S (VP (VBG repairing) (NP (NN storage) (NNS nodes))))))) (. .))

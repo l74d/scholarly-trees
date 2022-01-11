@@ -1,0 +1,3 @@
+(S (NP (NP (CD Two) (NNS methods)) (PP (IN of) (NP (NN hardware) (NNS realizations)))) (VP (VBP are) (ADJP (JJ possible))) (. .))
+(S (NP (DT The) (NNP First)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ special) (NN purpose) (NN chip)) (PP (IN for) (NP (JJ fuzzy) (NN inferencing))))))) (. .))
+(S (NP (DT The) (NN second)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ simple) (NN memory) (NN chip))))) (. .))

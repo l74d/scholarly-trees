@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN over-approximation)) (VP (MD may) (VP (VB be) (ADJP (RB too) (JJ coarse)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which) (NN case))) (S (NP (DT the) (VBG underlying) (NN verification) (NN tool)) (VP (MD might) (VP (VB return) (NP (DT a) (JJ spurious) (NN counterexample)))))))) (. .))

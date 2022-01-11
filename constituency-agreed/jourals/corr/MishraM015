@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (PP (IN in) (NP (DT this) (NN paper))) (NP (NP (DT a) (ADJP (NN space) (JJ efficient)) (NN version)) (PP (IN of) (NP (NNP ENLU) (NN approach)))) (VP (VBZ is) (VP (VBN proposed) (PP (IN without) (S (VP (VBG compromising) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS comparisons))))))))) (. .))
+(S (ADVP (RB However)) (NP (DT this) (NN approach)) (VP (VBZ does) (RB not) (VP (VB work) (ADVP (RB satisfactorily)) (PP (IN in) (NP (PDT all) (DT the) (NNS cases))))) (. .))

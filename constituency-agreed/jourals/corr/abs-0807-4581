@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ main) (NN result)) (VP (VBZ is) (NP (NP (DT an) (NN equivalence) (NN condition)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (DT the) (VBN proposed) (NN convex) (NN algorithm)) (VP (VBZ is) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB recover) (NP (DT the) (JJ original) (NN signal))))))))))) (. .))

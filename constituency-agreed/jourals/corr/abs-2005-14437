@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN scheme)) (VP (VP (VBZ is) (ADJP (JJ variational) (PP (IN in) (NP (NN nature))))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ conditional) (JJ incremental) (NN minimization)))))) (. .))
+(S (NP (NP (DT The) (NNP GENERIC) (NN structure)) (PP (IN of) (NP (DT the) (NN scheme)))) (VP (VBZ provides) (NP (NP (NN stability) (CC and) (NN convergence)) (PP (IN of) (NP (DT the) (NN scheme))))) (. .))

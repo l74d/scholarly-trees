@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ runs) (PP (IN in) (NP (NNP PTime))) (SBAR (WHADVP (WRB whenever)) (S (NP (JJ deterministic) (NNS rewritings)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (NNP PTime))))))))) (. .))

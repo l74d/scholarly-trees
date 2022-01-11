@@ -1,0 +1,4 @@
+(S (ADVP (RB However)) (, ,) (NP (RB not) (DT all) (NN tail) (NNS items)) (VP (VBP are) (NP (DT the) (JJ same))) (. .))
+(S (NP (DT Each) (NN item)) (VP (VBZ acquires) (NP (NP (JJ different) (NNS kinds)) (PP (IN of) (NP (NNS users))))) (. .))
+(S (NP (DT Some) (NNS items)) (VP (VBP are) (VP (VBN loved) (PP (IN by) (NP (DT the) (JJ general) (NN public))) (, ,) (SBAR (IN while) (S (NP (DT some) (NNS items)) (VP (VBP are) (VP (VBN consumed) (PP (IN by) (NP (JJ eccentric) (NNS fans))))))))) (. .))
+(S (NP (JJ Eccentric) (NNS items)) (VP (VBP are) (VP (VBN defined) (PP (IN as) (NP (NP (NNS items)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN consumed) (PP (IN by) (NP (JJ eccentric) (NNS users))))))))))) (. .))

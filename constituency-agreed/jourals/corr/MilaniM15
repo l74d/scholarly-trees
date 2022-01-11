@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ ensures) (SBAR (IN that) (S (ADVP (RB eventually)) (NP (DT every) (NN node)) (VP (VP (VBZ knows) (NP (NP (DT the) (JJ exact) (NN size)) (PP (IN of) (NP (DT the) (NN system))))) (CC and) (VP (VBZ stops) (S (VP (VBG executing) (NP (DT the) (NN algorithm))))))))) (. .))

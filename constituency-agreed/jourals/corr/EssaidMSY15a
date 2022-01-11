@@ -1,0 +1,2 @@
+(S (NP (DT Some) (NNS rules)) (VP (VBP help) (S (VP (TO to) (VP (VB choose) (NP (DT the) (ADJP (RBS most) (JJ likely)) (NN hypothesis)))))) (. .))
+(S (NP (NNS Others)) (VP (VBP allow) (SBAR (IN that) (S (NP (DT a) (NN decision)) (VP (VBZ is) (VP (VBN made) (PP (IN on) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS hypotheses)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS findings)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (NNS models)) (VP (VBN trained) (S (VP (VBG using) (NP (NNS cues)))))) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (JJ reliable) (NN training) (NNS data))))))))))) (. .))

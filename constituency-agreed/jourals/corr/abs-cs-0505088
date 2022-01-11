@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (NP (DT an) (NN application)) (PP (IN of) (NP (DT the) (NN method))))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT all) (JJ such) (NNS graphs)) (VP (VBP have) (NP (DT a) (JJ Hamiltonian) (NN cycle)))))) (. .))

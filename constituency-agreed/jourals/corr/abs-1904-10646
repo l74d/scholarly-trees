@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ current) (NN design) (NN support) (NNS tools)) (VP (VBP require) (NP (NP (JJ manual) (NN floorplanning)) (PP (IN of) (NP (DT the) (JJ partial) (NNS modules))))) (. .))
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (PRP them)))) (VP (VP (VBP are) (VP (VBN defined) (PP (IN for) (NP (JJ old) (NNP FPGA) (NNS architectures))))) (CC and) (VP (VBP have) (NP (DT a) (JJ high) (JJ computational) (NN time)))) (. .))

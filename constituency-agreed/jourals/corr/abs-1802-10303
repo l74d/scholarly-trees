@@ -1,0 +1,2 @@
+(S (S (VP (VBG Selecting) (NP (NP (DT the) (JJS best) (NNS items)) (PP (IN in) (NP (DT a) (NN dataset)))))) (VP (VBZ is) (NP (NP (DT a) (JJ common) (NN task)) (PP (IN in) (NP (NNS data) (NN exploration))))) (. .))
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (NNS users)) (VP (VBP do) (VP (VB understand) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN rank) (NN ordering)))))) (. .))

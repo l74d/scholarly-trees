@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ is) (VP (VBN implemented) (PP (IN on) (NP (DT a) (NNP GPU) (NN architecture))))) (CC and) (VP (VBZ addresses) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ related) (NNS challenges)))))) (. .))

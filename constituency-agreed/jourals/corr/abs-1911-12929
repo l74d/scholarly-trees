@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG routing) (NP (NNS payments)) (PP (IN through) (NP (JJ multiple) (NNS channels))))) (VP (VBZ bears) (NP (JJ nontrivial) (NNS overheads))) (. .))
+(S (NP (NP (DT The) (JJ intermediary) (NNS nodes)) (PP (IN in) (NP (DT a) (NN payment) (NN path)))) (VP (MD may) (ADVP (RB also)) (VP (VB charge) (NP (NNS fees)) (PP (IN for) (S (VP (VBG routing) (NP (DT a) (NN payment))))))) (. .))

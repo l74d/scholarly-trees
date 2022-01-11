@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ central) (NN idea)) (VP (VBZ is) (S (VP (VP (TO to) (VP (VB fix) (NP (NP (DT the) (NN computation) (NN time)) (PP (IN of) (NP (DT each) (NN worker)))))) (CC and) (ADVP (RB then)) (VP (TO to) (VP (VB combine) (NP (NP (JJ distinct) (NNS contributions)) (PP (IN of) (NP (DT all) (NNS workers))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP provide) (NP (DT a) (NN convergence) (NN analysis))) (CC and) (VP (VB optimize) (NP (DT the) (NN combination) (NN function)))) (. .))

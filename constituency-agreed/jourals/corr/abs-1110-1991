@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NNP Grid)) (VP (VBZ consists) (PP (IN of) (NP (NNS clusters))))) (CC and) (S (NP (DT each) (NN cluster)) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (DT a) (NN coordinator)))))) (. .))
+(S (NP (DT This) (NN process)) (VP (VBZ is) (VP (VBN repeated) (ADVP (RB periodically)))) (. .))

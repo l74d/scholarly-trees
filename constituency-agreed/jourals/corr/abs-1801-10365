@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN through) (NP (JJ unsupervised) (JJ adversarial) (NN training))) (, ,) (NP (DT the) (JJ adversarial) (NN model)) (VP (MD can) (VP (VB produce) (NP (NP (JJ robust) (JJ steganographic) (NNS solutions)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP act) (PP (IN like) (NP (DT an) (NN encryption)))))))))))) (. .))

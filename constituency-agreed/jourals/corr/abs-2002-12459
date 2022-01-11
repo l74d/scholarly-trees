@@ -1,0 +1,1 @@
+(S (ADVP (RB Crucially)) (, ,) (NP (PRP$ our) (NNS algorithms)) (VP (VBP are) (VP (VBN parameterized) (PP (IN by) (NP (NP (DT the) (NN output) (NN size)) (PP (IN of) (NP (DT the) (JJ final) (NN result))))) (, ,) (S (VP (VBG allowing) (PP (IN for) (NP (NP (NN choice)) (PP (IN of) (NP (DT the) (JJS best) (NN execution) (NN strategy))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (VBG resulting) (JJ nonlinear) (NN stabilization)) (VP (VBZ is) (ADJP (JJ non-smooth)))) (CC and) (S (NP (JJ nonlinear) (NNS solvers)) (VP (MD can) (VP (VB fail) (S (VP (TO to) (VP (VB converge))))))) (. .))

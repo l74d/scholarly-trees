@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ operates) (PP (IN in) (NP (JJ real) (NN time)))) (CC and) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (DT any) (JJ prior) (NN knowledge)) (PP (IN of) (NP (NP (DT the) (JJ statistical) (NN information)) (PP (IN of) (NP (DT the) (NN system))))))))) (. .))

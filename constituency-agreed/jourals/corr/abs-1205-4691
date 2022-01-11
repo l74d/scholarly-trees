@@ -1,0 +1,2 @@
+(S (NP (DT That)) (VP (VBD was) (NP (NP (DT a) (JJ strong) (NN conjecture)) (PP (IN of) (NP (NNP Bucciarelli) (, ,) (NNP Carraro) (, ,) (NNP Ehrhard) (CC and) (NNP Manzonetto))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP exhibit) (NP (DT a) (NN counter-example))) (. .))

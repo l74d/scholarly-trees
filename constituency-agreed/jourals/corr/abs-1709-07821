@@ -1,0 +1,1 @@
+(S (NP (VBN Compressed) (NN bitmap) (NNS indexes)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (NP (NNS systems)) (PP (JJ such) (IN as) (NP (NNP Git) (CC or) (NNP Oracle))))) (S (VP (TO to) (VP (VB accelerate) (NP (NNS queries))))))) (. .))

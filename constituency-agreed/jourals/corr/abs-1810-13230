@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN segmentation) (NN algorithm)) (VP (VBD achieved) (NP (NP (DT an) (NN accuracy) (NN score)) (PP (IN of) (NP (CD 0.78))))) (. .))
+(S (NP (DT The) (NN classification) (NN algorithm)) (VP (VBD achieved) (NP (NP (DT an) (NN accuracy) (NN score)) (PP (IN of) (NP (CD 0.81))))) (. .))

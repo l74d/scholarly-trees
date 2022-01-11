@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP formulate) (NP (DT this) (NN partition) (NN assignment) (NN problem)) (PP (IN into) (NP (DT a) (JJ balanced) (NN edge) (NN partitioning) (NN problem)))) (, ,) (CC and) (VP (VB evaluate) (NP (PRP it)) (PP (IN with) (NP (NP (NNS simulations)) (PP (IN on) (NP (JJ realistic) (NNS topologies))))))) (. .))

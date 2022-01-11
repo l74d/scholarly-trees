@@ -1,0 +1,2 @@
+(S (NP (NNP RCC) (, ,) (NNP MFCC) (, ,) (NNP MFCC) (, ,) (NNP MFCC) (, ,) (NNP LPC) (CC and) (NNP LPCC)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB extract) (NP (DT the) (NNS features)))))))) (. .))
+(S (NP (NNS Features)) (VP (VBP are) (VP (VBN extracted) (PP (IN by) (S (VP (VBG using) (NP (JJ different) (NNS techniques)) (S (VP (TO to) (VP (VB optimize) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN identification)))))))))))) (. .))

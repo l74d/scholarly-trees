@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN filter)) (VP (VBZ is) (VP (VBN implemented) (ADVP (RB efficiently)) (PP (IN on) (NP (DT the) (NNP GPU))))) (. .))

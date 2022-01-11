@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN system)) (VP (VBZ has) (S (VP (TO to) (VP (VB satisfy) (NP (PRP$ its) (NN specification)) (PP (IN in) (NP (DT all) (JJ possible) (NNS environments))))))) (. .))
+(S (NP (JJ Modern) (NNS systems)) (ADVP (RB often)) (VP (VBP interact) (PP (IN with) (NP (NP (JJ other) (NNS systems)) (, ,) (CC or) (NP (NNS agents))))) (. .))
+(S (NP (DT The) (NN output)) (VP (MD should) (VP (VB satisfy) (NP (CD two) (NNS conditions)))) (. .))

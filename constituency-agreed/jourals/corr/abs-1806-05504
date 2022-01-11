@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ major) (NN proportion)) (PP (IN of) (NP (DT a) (NN text) (NN summary)))) (VP (VBZ includes) (NP (NP (JJ important) (NNS entities)) (VP (VBN found) (PP (IN in) (NP (DT the) (JJ original) (NN text)))))) (. .))
+(S (NP (DT These) (NNS entities)) (VP (VBP build) (PRT (RP up)) (NP (NP (DT the) (NN topic)) (PP (IN of) (NP (DT the) (NN summary))))) (. .))

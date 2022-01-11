@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ key) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB suspect) (NP (NP (NNS workers)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RB potentially) (JJ defective)))))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP Zeno)) (VP (VBZ outperforms) (NP (VBG existing) (NNS approaches)))))) (. .))

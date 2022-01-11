@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN framework)) (VP (VBZ includes) (NP (NP (NNS repositories)) (PP (IN of) (NP (NN game) (NNS rules))))) (. .))
+(S (NP (NP (VBG Existing) (NN work)) (PP (IN on) (NP (NNP IGGP)))) (VP (VBZ has) (ADVP (RB always)) (VP (VBN assumed) (SBAR (IN that) (S (NP (NP (DT the) (NN game) (NN player)) (VP (VBG being) (VP (VBN observed)))) (VP (VBZ makes) (NP (JJ random) (NNS moves))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Automatic) (NN detection) (CC and) (NN segmentation)) (PP (IN of) (NP (NP (VBG overlapping) (NNS leaves)) (PP (IN in) (NP (JJ dense) (NN foliage)))))) (VP (MD can) (VP (VB be) (NP (DT a) (JJ difficult) (NN task)) (, ,) (PP (ADVP (RB particularly)) (IN for) (NP (NP (NNS leaves)) (PP (IN with) (NP (NP (JJ strong) (NNS textures)) (CC and) (NP (JJ high) (NNS occlusions)))))))) (. .))
+(S (NP (NP (VBG Promising) (NN segmentation) (NNS results)) (PP (IN for) (NP (NP (NNS leaves)) (PP (IN in) (NP (JJ dense) (NN foliage)))))) (VP (VBP are) (VP (VBN obtained))) (. .))

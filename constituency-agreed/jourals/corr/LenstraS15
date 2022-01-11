@@ -1,0 +1,1 @@
+(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ discrete) (NN logarithm) (NN problem)) (PP (IN in) (NP (NP (DT the) (NN group)) (PP (IN of) (NP (NP (NNS roots)) (PP (IN of) (NP (NN unity)))))))) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))

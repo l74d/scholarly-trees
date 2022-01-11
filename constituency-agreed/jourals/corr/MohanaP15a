@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN method)) (VP (VBZ begins) (PP (IN with) (S (VP (VBG reducing) (NP (NP (DT the) (JJ specular) (NN reflection)) (CC and) (NP (JJ small) (NN noise))) (S (VP (VBG using) (NP (DT a) (JJ bilateral) (NN filter)))))))) (. .))
+(S (NP (DT The) (NN experiment) (NN result)) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (NN technique)) (VP (VBZ achieves) (NP (JJS highest) (NN accuracy)))))) (. .))

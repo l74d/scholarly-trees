@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS maps)) (VP (VBP are) (ADVP (RB then)) (VP (VBN fed) (PP (IN into) (NP (DT a) (JJ pre-trained) (JJ deep) (JJ convolutional) (JJ neural) (NN network))) (S (VP (TO to) (VP (VB generate) (NP (DT the) (JJ deep) (NN representation))))))) (. .))

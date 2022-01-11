@@ -1,0 +1,3 @@
+(S (NP (NP (NNS Examples)) (PP (IN of) (NP (JJ exclusive) (JJ social) (NNS groups)))) (VP (VBP include) (NP (NP (JJ academic) (NNS departments)) (CC and) (NP (JJ fraternal) (NNS organizations)))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN model))) (, ,) (NP (DT every) (NN group) (NN member)) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (NP (PRP$ his) (NN opinion)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN represented) (PP (IN as) (NP (NP (DT a) (NN point)) (PP (IN on) (NP (DT the) (JJ real) (NN line))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (JJ several) (JJ natural) (NN admission) (NNS rules)) (PP (VBG including) (NP (NN majority) (CC and) (NN consensus))))) (. .))

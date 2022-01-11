@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (VBN proposed) (NN model)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ soft) (JJ neural) (NN attention) (NN model))) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (S (VP (VBG encoding) (NP (JJ long) (NNS sequences))))))))))) (. .))

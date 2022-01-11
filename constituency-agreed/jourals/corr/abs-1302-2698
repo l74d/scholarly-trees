@@ -1,0 +1,1 @@
+(S (S (NP (DT A) (NN graph)) (VP (VBZ is) (ADJP (JJ hypohamiltonian)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (RB not) (ADJP (JJ Hamiltonian))))))) (, ,) (CC but) (S (NP (NP (DT the) (NN deletion)) (PP (IN of) (NP (DT any) (JJ single) (NN vertex)))) (VP (VBZ gives) (NP (DT a) (JJ Hamiltonian) (NN graph)))) (. .))

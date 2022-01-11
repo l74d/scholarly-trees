@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (ADVP (RB here)) (S (VP (TO to) (VP (VB rely) (PP (IN on) (NP (JJ semantic) (NN segmentation))) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT that) (JJ initial) (NN registration))))))))))) (. .))
+(S (ADVP (RB Simultaneously)) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (JJ semantic) (NN segmentation)))) (PP (IN through) (NP (DT the) (NN registration))))))) (. .))

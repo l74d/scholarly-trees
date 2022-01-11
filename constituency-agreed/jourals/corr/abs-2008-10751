@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP DD)) (VP (MD can) (VP (VB reveal) (NP (NP (JJ structural) (NNS properties)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (VP (VBN obtained) (PP (IN from) (NP (NP (JJ other) (JJ such) (NNS measures)) (PP (IN in) (NP (NN network) (NN science))))))))))))))) (. .))
+(S (ADVP (RB Notably)) (, ,) (NP (NNP DD)) (VP (VBZ is) (NP (NP (DT the) (JJ atomic) (NN root)) (PP (IN of) (NP (NN assortativity))))) (. .))

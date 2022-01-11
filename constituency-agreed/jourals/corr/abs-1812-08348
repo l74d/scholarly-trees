@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ accurate) (NN detection)) (PP (IN of) (NP (NN rain) (NNS streaks)))) (VP (VBZ determines) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (JJ overall) (NN performance))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method)))) (PP (IN through) (NP (ADJP (JJ quantitative) (CC and) (JJ qualitative)) (NNS evaluations)))) (. .))

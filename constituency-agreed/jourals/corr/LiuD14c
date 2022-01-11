@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP characterize) (NP (NP (DT the) (NN convex) (NN hull)) (PP (IN of) (NP (NN multipermutation) (NNS matrices))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (DT a) (JJ numerical) (NN example)) (PP (IN of) (NP (PRP$ our) (NN algorithm))))) (. .))

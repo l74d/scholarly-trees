@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB benefit) (PP (IN from) (NP (DT the) (NN controllability)))))) (, ,) (NP (NP (DT an) (NN optimality) (NN analysis)) (PP (IN of) (NP (DT the) (NN control) (NN parameter)))) (VP (VBZ is) (VP (VBN needed))) (. .))
+(S (NP (PRP We)) (VP (VBD validated) (NP (PRP$ our) (NN analysis)) (PP (IN through) (NP (NNS simulations)))) (. .))

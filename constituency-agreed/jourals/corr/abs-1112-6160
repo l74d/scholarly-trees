@@ -1,0 +1,2 @@
+(S (ADVP (RB Often)) (NP (JJ noisy) (NN point) (NNS clouds)) (VP (VBP are) (VP (VBN given) (PP (IN as) (NP (NP (DT an) (NN approximation)) (PP (IN of) (NP (NP (DT a) (JJ particular) (JJ compact) (NN set)) (PP (IN of) (NP (NN interest))))))))) (. .))
+(S (NP (DT A) (JJ finite) (NN point) (NN cloud)) (VP (VBZ is) (NP (DT a) (JJ compact) (NN set))) (. .))

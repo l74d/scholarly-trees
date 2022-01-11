@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB here)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ addresses) (NP (DT this) (NN issue))))))) (. .))
+(S (NP (DT The) (NN noise)) (VP (MD can) (ADVP (RB thus)) (VP (VB be) (VP (VBN generated) (PP (IN in) (NP (DT a) (JJ semi-automated) (NN manner)))))) (. .))

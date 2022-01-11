@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB extract) (NP (DT the) (NNS features))))) (, ,) (NP (DT a) (JJ ternary) (NN tree)) (VP (VBZ is) (VP (VBN formed) (PP (IN for) (NP (DT each) (NN pixel))) (PP (IN with) (NP (NP (PRP$ its) (CD eight) (NNS neighbors)) (PP (IN in) (NP (DT each) (NN block))))))) (. .))

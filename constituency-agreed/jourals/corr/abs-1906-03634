@@ -1,0 +1,1 @@
+(S (PP (IN After) (NP (NN training))) (, ,) (NP (PRP we)) (VP (VP (VBP query) (NP (DT the) (NN model)) (PP (IN for) (NP (NP (DT the) (NN plausibility)) (PP (IN of) (NP (ADJP (RB automatically) (VBN generated)) (JJ novel) (NNS combinations)))))) (CC and) (VP (VB verify) (SBAR (IN whether) (S (NP (DT the) (NNS classifications)) (VP (VBP are) (ADJP (JJ accurate))))))) (. .))

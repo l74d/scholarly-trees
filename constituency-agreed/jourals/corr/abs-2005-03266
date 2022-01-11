@@ -1,0 +1,1 @@
+(S (NP (NP (NN Noise)) (PP (IN in) (NP (DT the) (NN training) (NNS data)))) (VP (VBZ reduces) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (NN algorithm))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP compare) (NP (NP (DT these) (NNS techniques)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ linear) (NN interpolation))) (PP (IN in) (NP (NP (CD three) (NNS scenarios)) (PP (IN with) (NP (NP (JJ abundant) (NN training) (NNS data)) (PP (IN per) (NP (NN component) (NN model)))))))) (. .))

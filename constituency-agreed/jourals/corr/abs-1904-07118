@@ -1,0 +1,2 @@
+(S (ADVP (RB Yet)) (, ,) (NP (JJ neural) (NNS networks)) (VP (MD can) (ADVP (RB only)) (VP (VB process) (NP (JJ continuous) (NN input) (NNS data)))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT this) (NN scenario)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (JJ different) (NN input) (NNS options)) (PP (IN as) (NP (DT a) (NN classification) (NN task)))))))) (. .))

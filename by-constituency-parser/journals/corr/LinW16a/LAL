@@ -1,0 +1,6 @@
+(S (NP (NNP Holant) (NN problem)) (VP (VBZ is) (NP (NP (DT a) (JJ general) (NN framework)) (SBAR (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (VBG counting) (NNS problems)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NN complexity) (NN dichotomy) (NN theorem)) (PP (IN for) (NP (NP (NNP Holant) (NNS problems)) (PP (IN over) (NP (NP (NNP Boolean) (NN domain)) (PP (IN with) (NP (JJ non-negative) (NNS weights))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ complete) (NNP Holant) (NN dichotomy)) (SBAR (WHADVP (WRB where)) (S (NP (NN constraint) (NNS functions)) (VP (VBP are) (ADJP (RB not) (RB necessarily) (VB symmetric))))))) (. .))
+(S (S (VP (TO To) (VP (VB capture) (NP (PRP them))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT the) (NNP Block-rank-one) (NN condition))) (. .))
+(S (NP (PRP It)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (DT the) (NN condition)) (VP (VBZ leads) (PP (TO to) (NP (DT a) (JJ clear) (NN separation))))))) (. .))
+(S (NP (JJ Holographic) (NNS transformations)) (VP (VBP play) (NP (DT an) (JJ important) (NN role)) (PP (IN in) (NP (CC both) (NP (DT the) (NN hardness) (NN proof)) (CC and) (NP (NP (DT the) (NN characterization)) (PP (IN of) (NP (NN tractability))))))) (. .))

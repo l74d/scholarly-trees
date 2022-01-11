@@ -1,0 +1,2 @@
+(S (NP (JJ Stochastic) (NN network) (NN calculus)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB newly) (VBN developed)) (NN theory)) (PP (IN for) (NP (NP (JJ stochastic) (NN service) (NN guarantee) (NN analysis)) (PP (IN of) (NP (NN computer) (NNS networks))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (NN network) (NNS scenarios)) (SBAR (WHADVP (WRB where)) (S (NP (NP (JJ direct) (NN application)) (PP (IN of) (NP (JJ such) (NNS models)))) (VP (VBZ is) (ADJP (JJ difficult))))))) (. .))

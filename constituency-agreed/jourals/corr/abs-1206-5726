@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP make) (NP (DT the) (NNS computations)) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (NN function) (NN symrcm)) (PP (IN of) (NP (NNP MATLAB)))))))) (. .))
+(S (NP (DT Some) (JJ numerical) (NNS results)) (VP (VBP are) (VP (VBN shown))))

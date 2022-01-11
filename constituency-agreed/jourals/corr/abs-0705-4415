@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB achieve) (NP (JJ large) (NN flexibility))))) (, ,) (NP (DT the) (NNS tests)) (VP (VBP are) (VP (VBN controlled) (PP (IN by) (NP (NNS scripts))))) (. .))
+(S (S (VP (TO To) (VP (VB achieve) (NP (JJ good) (NN performance))))) (, ,) (NP (PRP we)) (VP (VBD were) (ADJP (JJ careful) (PP (IN about) (NP (NP (VBG timing) (NN accuracy)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (JJS greatest) (NN problem)) (PP (IN in) (NP (JJ computerized) (NN perception) (NNS tests))))))))))) (. .))

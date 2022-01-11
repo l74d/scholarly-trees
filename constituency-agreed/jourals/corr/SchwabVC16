@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (DT the) (JJ global) (NN level)) (PP (IN of) (NP (NN sparsity)))) (VP (MD must) (VP (VB be) (ADJP (ADJP (JJR greater)) (PP (IN than) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS voxels))))))))))) (. .))

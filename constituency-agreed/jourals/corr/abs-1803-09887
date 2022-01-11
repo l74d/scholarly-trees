@@ -1,0 +1,2 @@
+(S (NP (JJ Major) (NN approximation) (NNS approaches)) (VP (VBP include) (NP (NP (NN pseudolikelihood)) (CC and) (NP (NNP Laplace) (NN approximation)))) (. .))
+(S (PP (IN For) (S (VP (VBG reconstructing) (NP (DT the) (JJ joint) (NN likelihood) (NN function))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT an) (JJ appropriate) (NN copula)) (S (VP (TO to) (VP (VB link) (PRT (RP up)) (NP (DT these) (JJ marginal) (NN likelihood) (NNS functions)))))) (. .))

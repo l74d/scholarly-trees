@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (ADJP (JJ ontological) (CC and) (JJ epistemological)) (NNS questions)) (VP (VBP remain) (PP (IN about) (NP (NP (DT the) (NN nature)) (PP (IN of) (NP (JJ urban) (NNS environments)))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (VBP do) (NP (PRP we)) (VP (VB translate) (NP (DT a) (NN city)) (PP (IN into) (NP (NNS data))))) (. ?))

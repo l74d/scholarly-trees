@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP GEDI)) (VP (VBZ achieves) (NP (JJ high) (NN accuracy)) (PP (IN with) (NP (NP (DT a) (NN runtime)) (VP (VBG scaling) (ADVP (RB linearly)) (PP (IN with) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS markers) (CC and) (NNS samples)))))))))))) (. .))

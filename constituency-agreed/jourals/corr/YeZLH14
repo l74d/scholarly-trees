@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT an) (JJ effective) (JJ memetic) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (JJ linear) (NN ordering) (NN problem)) (PP (IN with) (NP (JJ cumulative) (NNS costs))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT some) (JJ critical) (NNS ingredients)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))) (VP (VBP are) (VP (VBN analyzed) (S (VP (TO to) (VP (VB understand) (NP (NP (DT the) (NN source)) (PP (IN of) (NP (PRP$ its) (NN performance))))))))) (. .))

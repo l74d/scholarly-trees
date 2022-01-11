@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ partial) (NN extraction)) (VP (MD could) (VP (VB be) (ADJP (JJ useful) (PP (IN in) (NP (NP (NNS applications)) (, ,) (PP (JJ such) (IN as) (NP (VBN set) (NN reconciliation)))))))))))) (. .))
+(S (NP (DT The) (JJ numerical) (NNS results)) (VP (VBP are) (VP (VP (VBN derived) (ADVP (RB analytically))) (, ,) (CC and) (VP (VBN confirmed) (PP (IN by) (NP (DT the) (NN computer) (NNS simulations)))))) (. .))

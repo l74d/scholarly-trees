@@ -1,0 +1,3 @@
+(S (NP (DT These) (NNS associations)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (CD two) (NNS ways))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (JJ periodic) (NN service) (NNS advertisements)) (VP (VBP are) (VP (VBN performed) (PP (VBN based) (PP (IN on) (NP (DT these) (NNS associations)))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN response)) (PP (IN of) (NP (DT a) (NN service) (NN discovery) (NN request)))) (VP (VBZ is) (VP (VBN generated))))) (, ,) (NP (VBN correlated) (NNS services)) (VP (VBP are) (ADVP (RB also)) (VP (VBN attached) (PP (IN with) (NP (DT the) (NN response))))) (. .))

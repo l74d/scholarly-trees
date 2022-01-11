@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (NN way)) (SBAR (S (VP (TO to) (VP (VB coordinate)))))) (VP (VBZ is) (PP (IN by) (S (VP (VBG learning) (S (VP (TO to) (VP (VB communicate) (PP (IN with) (NP (DT each) (JJ other)))))))))) (. .))
+(S (NP (DT These) (NNS agents)) (VP (MD can) (VP (VB communicate) (PP (IN along) (NP (NP (DT the) (NNS edges)) (PP (IN of) (NP (DT this) (NN network))))) (PP (IN by) (S (VP (VBG exchanging) (NP (JJ discrete) (NNS symbols))))))) (. .))

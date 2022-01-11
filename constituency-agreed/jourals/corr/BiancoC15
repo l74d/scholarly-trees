@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN task)) (VP (VBZ is) (VP (VBN formulated) (PP (IN as) (NP (DT an) (NN optimization) (NN problem))))) (. .))
+(S (NP (NP (DT A) (JJ first) (JJ subjective) (NN experiment)) (SBAR (WHADVP (WRB where)) (S (NP (JJ several) (NNS subjects)) (VP (VBD evaluated) (NP (DT the) (NNS collages)))))) (, ,) (VP (VBZ emphasizes) (SBAR (IN that) (S (NP (JJ different) (NNS criteria)) (VP (VBP are) (VP (VBN involved) (PP (IN in) (NP (NP (DT the) (JJ subjective) (NN definition)) (PP (IN of) (NP (NN pleasantness)))))))))) (. .))

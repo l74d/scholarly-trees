@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (CC and) (VBP study) (NP (NP (DT the) (JJ incomplete) (NN version)) (PP (IN of) (NP (DT the) (JJ intermodal) (JJ terminal) (NN location) (NN problem))))) (. .))
+(S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT the) (JJ classical) (NN version)))) (PP (IN by) (S (VP (VBG relaxing) (NP (DT the) (NN assumption) (SBAR (IN that) (S (NP (NP (DT the) (JJ induced) (NN graph)) (PP (IN by) (NP (VBN located) (NNS terminals)))) (VP (VBZ is) (ADJP (JJ complete)))))))))) (. .))
+(S (S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ mixed) (NN integer) (NN program)) (SBAR (S (VP (TO to) (VP (VB model) (NP (DT the) (NN problem))))))))) (CC and) (S (NP (PRP we)) (VP (VBP provide) (NP (JJ several) (NNS extensions)))) (. .))
+(S (NP (DT All) (NNS models)) (VP (VBP are) (VP (VBN tested) (PP (IN through) (NP (NN validation))) (PP (IN in) (NP (NNP CPLEX) (NN solver))))) (. .))
+(S (NP (JJ Numerical) (NNS results)) (VP (VBP are) (VP (VBN reported) (S (VP (VBG using) (NP (NP (JJ well-known) (NNS data) (NN set)) (PP (IN from) (NP (DT the) (NN literature)))))))) (. .))

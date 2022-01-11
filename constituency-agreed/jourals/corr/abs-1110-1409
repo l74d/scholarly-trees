@@ -1,0 +1,3 @@
+(S (NP (NNP Switzerland)) (VP (VBZ is) (VP (VBN recognized) (PP (IN as) (NP (NP (DT a) (NN country)) (PP (IN of) (NP (NN peace) (, ,) (NN stability) (CC and) (NN prosperity))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP analyze) (SBAR (WHADVP (WRB how)) (S (NP (JJ peaceful) (NN stability)) (VP (VBZ is) (VP (VBN maintained)))))) (. .))
+(S (NP (NNS Mountains) (CC and) (NNS lakes)) (VP (VBP are) (NP (NP (DT an) (JJ important) (NN part)) (PP (IN of) (NP (NP (DT the) (NNS boundaries)) (PP (IN between) (NP (ADJP (RB sharply) (VBN defined)) (JJ linguistic) (NNS areas))))))) (. .))

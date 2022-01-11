@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NN stability) (NNS conditions)) (VP (VBP are) (VP (VBN formulated))) (. .))
+(S (NP (DT The) (JJ sufficient) (NN stability) (NNS conditions)) (VP (VBP are) (VP (VBN applied) (S (VP (TO to) (VP (VB design) (NP (DT the) (NN state) (NN feedback) (NN control) (NNS laws))))))) (. .))

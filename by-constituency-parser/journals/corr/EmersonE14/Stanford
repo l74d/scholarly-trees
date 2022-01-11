@@ -1,0 +1,3 @@
+(S (NP (JJ Atomic) (NNS broadcasts)) (VP (VBP play) (NP (NP (DT a) (JJ central) (NN role)) (PP (IN in) (NP (JJ serialisable) (NML (IN in) (HYPH -) (NN memory)) (NNS transactions))))) (. .))
+(NP (NP (ADJP (JJS Best) (VBG performing)) (NNS ones)) (NP (NP (NN block) (PRN (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN node) (NNS crashes)))) (, ,))) (SBAR (IN until) (S (NP (DT a) (JJ new) (NN view)) (VP (VBZ is) (VP (VBN installed)))))) (. .))
+(S (NP (PRP We)) (VP (VBP augment) (NP (DT a) (JJ new) (NN protocol)) (PP (IN for) (NP (NP (JJ uninterrupted) (NN progress)) (PP (IN in) (NP (DT the) (JJ interim) (NN period)))))) (. .))

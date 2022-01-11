@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NN algorithm)) (VP (VBZ is) (ADJP (JJ different) (PP (IN from) (NP (NP (DT the) (JJ traditional) (NNS approaches)) (PP (IN in) (NP (DT this) (NN area)))))) (, ,) (PP (IN by) (S (VP (VBG utilizing) (NP (NP (NNS priors)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN learned) (PP (IN from) (NP (JJ similar) (NNS images)))))))))))) (. .))
+(S (NP (DT The) (NN code) (NNS vectors)) (VP (VBP are) (VP (VBN designed) (S (VP (VBG using) (NP (DT the) (JJ blurred) (NNS images)))))) (. .))

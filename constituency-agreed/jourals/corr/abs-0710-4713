@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP extend) (NP (NP (JJ recent) (NNS advances)) (PP (IN in) (NP (JJ statistical) (NN timing) (NN analysis)))) (PP (IN into) (NP (DT an) (NN optimization) (NN framework)))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NP (JJ statistical) (JJ critical) (NNS paths)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP account) (PP (IN for) (NP (NP (DT both) (NNS means) (CC and) (NNS variances)) (PP (IN of) (NP (NN performance) (NN variation)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP ($ $) (NNP P_2)) ($ $) (VBG -packing) (NN problem)) (VP (NNS asks) (PP (IN for) (SBAR (IN whether) (S (NP (DT a) (NN graph)) (VP (VBZ contains) (NP (NP (ADJP ($ $) (VB k)) ($ $) (JJ vertex-disjoint) (NNS paths)) (NP (DT each)) (PP (IN of) (NP (NN length) (CD two))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP continue) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (PRP$ its) (NN kernelization) (NN algorithms))))) (, ,) (CC and) (VP (VB develop) (NP (DT a) (ADJP ($ $) (CD 5k) ($ $)) (CD -vertex) (NN kernel)))) (. .))

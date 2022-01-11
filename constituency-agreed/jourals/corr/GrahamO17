@@ -1,0 +1,2 @@
+(S (NP (NNP Convex) (NNS hulls)) (VP (VBP are) (NP (NP (JJ fundamental) (NNS objects)) (PP (IN in) (NP (JJ computational) (NN geometry))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (RB particularly) (JJ effective) (PP (IN for) (S (VP (VBG approximating) (NP (NP (NN convex) (NNS hulls)) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (NP (DT a) (ADJP (RB relatively) (JJ small)) (NN number)) (PP (IN of) (NP (JJ extreme) (NNS points))))))))))))) (. .))

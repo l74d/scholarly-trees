@@ -1,0 +1,3 @@
+(S (NP (NNS People)) (ADVP (RB often)) (VP (VBP plan) (ADVP (RB hierarchically))) (. .))
+(S (SBAR (IN Although) (S (NP (JJ much) (NN work)) (VP (VBZ explores) (SBAR (WHADVP (WRB how)) (S (NP (NNS people)) (VP (VBP decompose) (NP (NNS tasks)))))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (JJR less) (NN analysis)) (PP (IN of) (SBAR (WHADVP (WRB why)) (S (NP (NNS people)) (VP (VBP decompose) (NP (NNS tasks)) (PP (IN in) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP they)) (VP (VBP do)))))))))))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN model)))) (, ,) (NP (PRP we)) (VP (VBP replicate) (NP (JJ several) (VBG existing) (NNS findings))) (. .))

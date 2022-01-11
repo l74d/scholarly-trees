@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN sentiment) (NN weight)) (PP (IN of) (NP (DT the) (NNS adjectives)))) (VP (VBZ is) (VP (VBN determined) (PP (IN through) (NP (NNP AFINN) (NN library))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (DT a) (NN word) (NN cloud)) (VP (VBZ is) (VP (VBN generated) (S (VP (TO to) (VP (VB provide) (NP (NP (JJ visual) (NN display)) (PP (IN of) (NP (NP (DT the) (ADJP (ADVP (RBS most) (RB frequently)) (VBG occurring)) (NNS terms)) (PP (IN in) (NP (DT the) (NNS reviews))))))))))) (. .))

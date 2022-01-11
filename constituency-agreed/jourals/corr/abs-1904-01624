@@ -1,0 +1,1 @@
+(S (S (VP (VP (TO To) (VP (VB optimize) (NP (NN storage)))) (CC and) (VP (TO to) (VP (VB parallelize) (NP (NN target) (NN generation)))))) (, ,) (NP (PRP we)) (VP (VBP store) (NP (NP (ADJP (JJ high) (VBN valued)) (NNS logits)) (PP (IN from) (NP (DT the) (NN teacher) (NN model))))) (. .))

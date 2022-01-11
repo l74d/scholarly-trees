@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG constructing) (NP (VBN labeled) (NN image) (NNS datasets)))) (VP (VBZ is) (ADJP (JJ laborious) (CC and) (JJ monotonous))) (. .))
+(S (S (VP (TO To) (VP (VB eliminate) (NP (JJ manual) (NN annotation))))) (, ,) (PP (IN in) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ novel) (NN image) (NN dataset) (NN construction) (NN framework)) (PP (IN by) (S (VP (VBG employing) (NP (JJ multiple) (JJ textual) (NNS queries)))))) (. .))

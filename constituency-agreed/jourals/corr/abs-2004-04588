@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ contains) (NP (NP (DT a) (JJ rigorous) (NN analysis)) (PP (IN of) (NP (CC both) (NP (DT the) (NN eigenvalue) (NN problem)) (CC and) (NP (NP (DT the) (VBN associated) (NN source) (NN problem)) (PP (IN on) (NP (NNP Lipschitz) (NN polyhedra)))))))) (. .))
+(S (NP (DT A) (JJ new) (JJ finite) (NN element) (NN method)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB compute) (NP (NNP Stekloff) (NNS eigenvalues))))))) (. .))

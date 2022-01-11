@@ -1,0 +1,2 @@
+(S (S (VP (VBG Identifying) (NP (NP (DT the) (NN veracity)) (PP (IN of) (NP (DT a) (NN news) (NN article)))))) (VP (VBZ is) (NP (DT an) (JJ interesting) (NN problem)) (SBAR (IN while) (S (S (VP (VBG automating) (NP (DT this) (NN process)))) (VP (MD can) (VP (VB be) (NP (DT a) (JJ challenging) (NN task))))))) (. .))
+(S (PP (VBN Given) (NP (DT a) (NN news) (NN article))) (, ,) (NP (DT the) (NN task)) (VP (VBZ is) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN relevance)) (PP (IN of) (NP (NP (DT the) (NN body)) (CC and) (NP (PRP$ its) (NN claim))))))))) (. .))

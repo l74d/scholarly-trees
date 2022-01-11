@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN framework)))) (, ,) (NP (NP (DT the) (NNS tradeoffs)) (PP (IN among) (NP (NP (NN energy) (NN efficiency)) (, ,) (NP (NN delay)) (, ,) (NP (NN throughput)) (CC and) (NP (NN constellation) (NN size))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN studied) (CC and) (VBN quantified))) (. .))

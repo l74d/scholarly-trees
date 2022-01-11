@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT the) (NN limit)) (PP (IN of) (NP (DT an) (JJ infinite) (NN capacity) (NN decoder))))) (, ,) (NP (DT the) (JJ optimal) (JJ generative) (NN model)) (VP (VBZ is) (NP (NP (DT a) (JJ uniform) (NN mixture)) (PP (IN over) (NP (DT the) (NN training) (NNS data))))) (. .))

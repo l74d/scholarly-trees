@@ -1,0 +1,1 @@
+(S (PP (IN During) (NP (DT the) (NN packet) (NN exchange) (NN process))) (, ,) (NP (DT the) (NN relay)) (ADVP (RB also)) (VP (VBZ works) (PP (IN as) (NP (NP (DT a) (NN coordinator)) (SBAR (WHNP (WDT which)) (S (VP (VBZ coordinates) (NP (NP (DT the) (NN transmission)) (PP (IN of) (NP (NN source) (NNS nodes)))))))))) (. .))

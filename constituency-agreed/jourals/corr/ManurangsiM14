@@ -1,0 +1,1 @@
+(NP (NP (DT A) (JJ sub-exponential) (NN time) (NN algorithm)) (PP (IN with) (NP (ADJP (JJ much) (JJR tighter)) (NN approximation))) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ smooth) (NN projection) (NNS games))))) (. .))

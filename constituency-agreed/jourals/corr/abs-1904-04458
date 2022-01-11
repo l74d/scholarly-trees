@@ -1,0 +1,2 @@
+(S (NP (JJ Traditional) (NN language) (NNS models)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (ADVP (RB efficiently)) (VP (VB model) (NP (NP (NN entity) (NNS names)) (VP (VBN observed) (PP (IN in) (NP (NN text)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP do) (RB not) (VP (VB require) (NP (NP (DT any) (JJ additional) (NN information)) (PP (JJ such) (IN as) (NP (VBN named) (NN entity) (NNS tags)))))) (. .))

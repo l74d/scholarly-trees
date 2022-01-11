@@ -1,0 +1,2 @@
+(S (NP (CD Six) (NNS metrics)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB represent) (NP (DT the) (CD two) (NNS structures))))))) (. .))
+(S (NP (NP (DT The) (NNS behaviors)) (PP (IN of) (NP (DT the) (NN network) (NN structure)))) (VP (VBP are) (VP (VBN affected) (PP (IN by) (NP (DT the) (JJ spatial) (NN structure))))) (. .))

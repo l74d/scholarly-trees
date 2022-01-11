@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NNS controversies)) (VP (VBP occur) (PP (IN across) (NP (JJ many) (NNS topics) (CC and) (NNS domains))) (, ,) (PP (IN with) (NP (NP (JJ great) (NNS changes)) (PP (IN over) (NP (NN time)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (NP (JJ neural) (NNS classifiers)) (PP (IN as) (NP (NP (DT a) (ADJP (RBR more) (JJ robust)) (NN methodology)) (PP (IN for) (NP (NP (NN controversy) (NN detection)) (PP (IN in) (NP (JJ general) (NN web) (NNS pages)))))))) (. .))

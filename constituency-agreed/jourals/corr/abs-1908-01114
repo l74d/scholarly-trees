@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT a) (JJ new) (JJ efficient) (NN form)) (PP (IN of) (NP (NN orthogonality) (NN constraint)))) (VP (VBZ is) (VP (VBN derived) (S (VP (TO to) (VP (VB enforce) (NP (NN orthogonality)) (PP (IN on) (NP (DT both) (JJ hidden) (NNS activations) (CC and) (NNS weights)))))))) (. .))

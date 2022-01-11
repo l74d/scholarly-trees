@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ structural) (NN cyclicity)) (VP (VBZ is) (ADJP (JJ decidable) (PP (IN in) (NP (JJ deterministic) (JJ polynomial) (NN time)))))))) (. .))

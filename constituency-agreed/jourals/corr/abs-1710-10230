@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ produces) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NN feature) (NNS maps)))) (, ,) (S (ADVP (RB iteratively)) (VP (VBG refining) (NP (DT the) (NNP SVM) (NN margin))))) (. .))

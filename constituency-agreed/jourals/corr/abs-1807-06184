@@ -1,0 +1,3 @@
+(S (NP (DT Those) (NNS challenges)) (VP (VBP demonstrate) (NP (NP (DT a) (NN need)) (PP (IN for) (NP (NP (JJ further) (NNS investigations)) (SBAR (WHNP (WDT which)) (S (VP (VBP address) (NP (DT the) (NN problem))))))))) (. .))
+(S (PP (IN For) (NP (DT this))) (, ,) (NP (DT a) (NN survey)) (VP (VBD was) (VP (VBN used) (PP (IN as) (NP (DT the) (JJ main) (JJ methodological) (NN instrument))) (, ,) (S (VP (VBG reaching) (NP (CD 157) (JJ distinct) (NNS companies)))))) (. .))
+(S (NP (NP (DT The) (NNP COBIT) (NN maturity) (NNS levels)) (CC and) (NP (DT a) (NN risk) (NN analysis) (NN matrix))) (VP (VBD were) (ADVP (RB also)) (VP (VBN used))) (. .))

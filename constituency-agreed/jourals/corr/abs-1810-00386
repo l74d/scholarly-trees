@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP leverage) (NP (DT this) (NN assumption)) (S (VP (TO to) (VP (VB construct) (NP (NP (DT an) (JJ isometric) (NN alignment)) (PP (IN between) (NP (DT the) (NNS data)))))))) (. .))
+(S (NP (DT These) (NNS expansions)) (VP (VBP encode) (NP (DT each) (NN feature)) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (DT the) (NNS data) (NN geometry)))))) (. .))

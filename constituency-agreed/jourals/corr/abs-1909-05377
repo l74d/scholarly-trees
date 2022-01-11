@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN scalability)) (PP (IN of) (NP (DT the) (VBN proposed) (NN control) (NN strategy)))) (VP (VBZ is) (VP (VBN explained) (CC and) (VBN verified) (PP (IN via) (NP (JJ numerical) (NN simulation))))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (JJ real) (NNS robots)))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB test) (NP (DT the) (VBN proposed) (NN control) (NN law))))))) (. .))

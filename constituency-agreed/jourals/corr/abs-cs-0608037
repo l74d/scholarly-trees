@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP use) (NP (NP (JJ several) (NNS levels)) (PP (IN of) (NP (NN hash) (NNS tables))))) (. .))
+(S (NP (NP (JJ Different) (NNS parameters)) (PP (IN of) (NP (NN cascade) (NN hash) (NNS tables)))) (VP (VBP are) (VP (VBN tested))) (. .))

@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ variable) (NN neighborhood) (NN search) (NN approach)) (PP (IN as) (NP (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG solving) (NP (JJ combinatoric) (NN optimization) (NNS problems)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NP (DT The) (NN object)) (CC and) (NP (NP (DT the) (NN methodology)) (PP (IN of) (NP (NN study))))) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (NP (DT The) (JJ main) (NNS objectives)) (PP (IN of) (NP (DT the) (NN experiment)))) (VP (VBP are) (VP (VBN formulated))) (. .))
+(S (NP (NP (DT The) (NNS conditions)) (PP (IN for) (S (VP (VBG conducting) (NP (DT the) (NN experiment)))))) (VP (VBP are) (VP (VBN specified))) (. .))
+(S (NP (NP (DT The) (JJ future) (NNS trends)) (PP (IN of) (NP (NP (NN work)) (PP (IN in) (NP (DT this) (NN field)))))) (VP (VBP are) (VP (VBN presented))) (. .))

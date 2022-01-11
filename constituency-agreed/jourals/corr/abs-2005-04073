@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT an) (JJ effective) (NN oversampling) (NN strategy)) (VP (VBZ is) (VP (VBN applied) (PP (IN for) (NP (NNS data) (NN imbalance))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP have) (VP (VBN shown) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach)))))) (. .))

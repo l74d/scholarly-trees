@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN source)) (VP (VBZ operates) (PP (IN under) (NP (DT a) (JJ total) (NN power) (NN constraint)))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ injects) (NP (JJ artificial) (NN noise)) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN secrecy) (NN rate)))))) (. .))

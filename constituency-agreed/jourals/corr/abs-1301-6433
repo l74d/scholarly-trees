@@ -1,0 +1,1 @@
+(S (NP (NP (DT Each)) (PP (IN of) (NP (DT the) (NNS clients)))) (ADVP (RB already)) (VP (VBZ has) (PP (IN in) (NP (PRP$ its) (NN cache))) (NP (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (JJ original) (NNS packets)))) (, ,) (CC and) (NP (NP (NNS requests)) (PP (IN for) (NP (PDT all) (DT the) (VBG remaining) (NNS packets)))))) (. .))

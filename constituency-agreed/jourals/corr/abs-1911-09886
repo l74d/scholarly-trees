@@ -1,0 +1,1 @@
+(S (S (NP (DT A) (NN relation) (NN tuple)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD two) (NNS entities)) (CC and) (NP (NP (DT the) (NN relation)) (PP (IN between) (NP (PRP them)))))))) (, ,) (CC and) (S (ADVP (RB often)) (NP (JJ such) (NNS tuples)) (VP (VBP are) (VP (VBN found) (PP (IN in) (NP (JJ unstructured) (NN text)))))) (. .))

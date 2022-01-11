@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD analyzed) (NP (NP (CD 2,000) (NNP GitHub) (NNS projects)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN written) (PP (IN in) (NP (NP (CD two) (NNS languages)) (: :) (NP (NNP Java) (CC and) (NNP Python)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD investigated) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ different) (NN category)) (PP (IN of) (NP (NNS comments)))) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (JJ different) (NNS projects)))))))) (. .))

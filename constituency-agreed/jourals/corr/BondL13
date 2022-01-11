@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (JJS least) (NN action) (NN principle)) (PP (IN for) (NP (JJ abelian) (NNS networks))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ abelian) (NNS networks)) (VP (MD can) (VP (VB solve) (NP (JJ certain) (ADJP (JJ linear) (CC and) (JJ nonlinear)) (NN integer) (NNS programs)) (ADVP (RB asynchronously))))))) (. .))

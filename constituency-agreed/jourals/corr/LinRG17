@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ new) (JJ modular) (NN robot)) (VP (MD can) (VP (VB be) (VP (VBN built) (PP (IN for) (NP (DT a) (JJ specific) (NN task))) (PP (IN by) (S (VP (VBG using) (NP (NNS modules)) (PP (IN as) (NP (NN building) (NNS blocks))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (VBG constructing) (NP (NP (DT a) (JJ kinematic) (NN model)) (PP (IN for) (NP (DT a) (ADJP (RB newly) (VBN conceived)) (NN robot)))))) (VP (VBZ requires) (NP (JJ significant) (NN work))) (. .))

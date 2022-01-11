@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN attack) (, ,) (NN worm) (CC or) (NN virus)) (VP (VBZ has) (NP (PRP$ its) (JJ own) (JJ distinctive) (NN signature))) (. .))
+(S (NP (DT The) (NN hardware)) (VP (VBZ is) (VP (VP (VBN designed) (PP (IN in) (NP (NNP Verilog)))) (CC and) (VP (VBN implemented) (S (VP (VBG using) (NP (NNP Xilinx) (NNP ISE))))))) (. .))

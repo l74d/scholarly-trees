@@ -1,0 +1,1 @@
+(FRAG (NP (NML (NN arXiv) (NN admin)) (NN note)) (: :) (S (NP (DT This) (NN submission)) (VP (VBZ has) (VP (VBN been) (VP (VBN removed) (PP (IN by) (NP (NN arXiv) (NNS administrators))) (PP (IN due) (PP (IN to) (NP (ADJP (JJ unprofessional) (JJ personal)) (NN attack)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (DT the) (JJ canonical) (NNS forms)))) (, ,) (NP (NNS logics)) (VP (VBP are) (VP (VBN developed) (PP (IN for) (NP (NP (JJ complete) (NNS problems)) (PP (IN in) (NP (JJ various) (NN complexity) (NNS classes))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN extended) (PP (IN beyond) (NP (JJ complete) (NNS problems))))) (. .))

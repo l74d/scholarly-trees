@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT an) (JJ interesting) (NN observation))) (, ,) (NP (DT the) (NN analysis)) (ADVP (RB also)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN attack) (NN model)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NNP DSR) (NN protocol))))))))))))) (. .))

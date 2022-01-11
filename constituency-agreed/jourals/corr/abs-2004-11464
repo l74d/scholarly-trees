@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (JJ short) (NN text)))) (. .))
+(S (NP (JJ Many) (NNS studies)) (VP (VBP have) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (JJR simpler) (NN assumption)) (PP (IN of) (NP (DT a) (NN mixture) (NN model)))) (VP (VBZ fits) (NP (JJ short) (NN text)) (ADVP (RBR better))))))) (. .))

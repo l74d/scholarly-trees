@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (VBG augmenting) (NP (JJ deep) (JJ neural) (NNS networks)) (PP (IN with) (NP (NP (DT an) (NN attention) (NN mechanism)) (PP (IN for) (NP (DT the) (JJ visual) (NN object) (NN detection) (NN task)))))))) (. .))
+(S (S (VP (VBN Inspired) (PP (IN by) (NP (DT the) (JJ human) (NN vision) (NN system))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ deep) (NN network) (NN architecture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ imitates) (NP (DT this) (NN attention) (NN mechanism))))))) (. .))

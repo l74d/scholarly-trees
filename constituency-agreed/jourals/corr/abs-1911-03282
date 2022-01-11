@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (JJ previous) (NNS tools))) (, ,) (NP (NN nanoBench)) (VP (MD can) (VP (VB execute) (NP (NNS microbenchmarks)) (ADVP (RB directly)) (PP (IN in) (NP (NN kernel) (NN space))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NP (DT the) (NN utility)) (PP (IN of) (NP (NN nanoBench)))) (PP (IN at) (NP (NP (DT the) (NN hand)) (PP (IN of) (NP (CD two) (NN case) (NNS studies)))))) (. .))

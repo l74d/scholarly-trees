@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Visual) (NN understanding)) (PP (IN of) (NP (JJ complex) (JJ urban) (NN street) (NNS scenes)))) (VP (VBZ is) (NP (NP (DT an) (VBG enabling) (NN factor)) (PP (IN for) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NNS applications))))))) (. .))
+(S (ADVP (RB Crucially)) (, ,) (NP (PRP$ our) (NN effort)) (VP (VBZ exceeds) (NP (JJ previous) (NNS attempts)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN dataset) (NN size)) (, ,) (NP (NN annotation) (NN richness)) (, ,) (NP (NN scene) (NN variability)) (, ,) (CC and) (NP (NN complexity))))))) (. .))

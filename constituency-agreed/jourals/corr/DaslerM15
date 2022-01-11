@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ motivates) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ interesting) (JJ algorithmic) (NNS problems))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ challenging)) (NNS aspects)) (PP (IN of) (NP (NN traffic) (NN coordination)))))) (VP (VBZ involves) (NP (NN traffic) (NNS intersections))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (CD three) (NNS results))) (. .))

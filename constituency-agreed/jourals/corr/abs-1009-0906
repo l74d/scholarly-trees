@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ adversarial) (NN setting))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NN estimation) (NN accuracy)) (VP (VBZ comes) (PP (IN within) (NP (NP (DT a) (JJ constant) (NN factor)) (PP (IN of) (NP (DT the) (NN noise) (NN power)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP target) (NP (DT this) (NN problem))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT a) (JJ naive) (NN use)) (PP (IN of) (NP (NNP DP)))) (VP (MD can) (VP (VB result) (PP (IN in) (NP (JJ poor) (NN performance)))))))) (. .))

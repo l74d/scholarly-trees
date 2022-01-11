@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (NNS melodies)) (ADVP (RB typically)) (VP (VBP involve) (NP (JJ non-Markovian) (NNS dependencies))))) (NP (PRP$ their) (NN prediction)) (VP (VBZ requires) (NP (DT a) (JJ capable) (NN learning) (NN algorithm))) (. .))

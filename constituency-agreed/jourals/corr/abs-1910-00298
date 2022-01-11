@@ -1,0 +1,1 @@
+(S (NP (DT This)) (ADVP (RB usually)) (VP (VBZ happens) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN system)) (VP (VBZ has) (NP (QP (JJR more) (IN than) (CD two)) (JJ independent) (NNS parameters)))))) (. .))

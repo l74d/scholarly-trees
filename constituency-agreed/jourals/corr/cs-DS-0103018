@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (NP (DT the) (JJ existential) (NN theory)) (PP (IN of) (NP (NP (NNS equations)) (PP (IN in) (NP (JJ free) (NNS groups)))))) (VP (VBZ is) (ADJP (JJ decidable))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ famous) (NN result)) (PP (IN of) (NP (NNP Makanin))))) (. .))

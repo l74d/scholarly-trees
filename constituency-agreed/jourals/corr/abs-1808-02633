@@ -1,0 +1,4 @@
+(S (ADVP (RB Typically)) (, ,) (NP (JJ autonomous) (NNS cars)) (VP (VBP optimize) (PP (IN for) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (NN safety)) (, ,) (NP (NN efficiency)) (, ,) (CC and) (NP (VBG driving) (NN quality))))))) (. .))
+(S (NP (NP (DT The) (NN car) (POS 's)) (NN behavior)) (VP (VBZ exposes) (NP (NP (DT the) (NNS incentives)) (SBAR (S (NP (PRP we)) (VP (VBP provide) (PP (IN in) (NP (PRP$ its) (NN cost) (NN function)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NN courtesy)))) (PP (IN in) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS scenarios)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (PDT such) (DT a) (JJ courtesy) (NN term)) (VP (MD can) (VP (VB help) (S (VP (VB explain) (NP (NP (JJ real) (JJ human) (NN driver) (NN behavior)) (PP (IN on) (NP (DT the) (NNP NGSIM) (NN dataset))))))))))) (. .))

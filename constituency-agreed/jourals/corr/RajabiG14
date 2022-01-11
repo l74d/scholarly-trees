@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN approach))) (, ,) (NP (JJ spectral) (NN signature) (NN matrix)) (VP (MD can) (VP (VB be) (VP (VBN modeled) (PP (IN as) (NP (NP (DT a) (NN product)) (PP (IN of) (NP (JJ sparse) (NNS matrices)))))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (NP (NNP MLNMF)) (VP (VBZ decomposes) (NP (DT the) (NN observation) (NN matrix)) (ADVP (RB iteratively)) (PP (IN in) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS layers)))))) (. .))

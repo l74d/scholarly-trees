@@ -1,0 +1,2 @@
+(S (NP (NP (NN Exploration)) (PP (IN of) (NP (NNP Mars)))) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (S (ADJP (JJ possible))) (S (VP (VBG using) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS landers) (, ,) (NNS rovers) (CC and) (NNS orbiters))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (MD can) (ADVP (RB only)) (VP (VB cover) (NP (NP (DT a) (JJ small) (NN area)) (PP (IN of) (NP (NNP Mars)))) (PP (IN through) (NP (NP (DT the) (NN course)) (PP (IN of) (NP (PRP$ their) (NN mission))))))) (. .))

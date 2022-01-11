@@ -1,0 +1,2 @@
+(S (NP (JJ Conversational) (NNS agents)) (VP (VBP are) (VP (VBG exploding) (PP (IN in) (NP (NN popularity))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT these) (NNS metrics)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (JJ reasonable) (NN proxy)) (PP (IN for) (NP (JJ human) (NN judgment))))))))))) (. .))

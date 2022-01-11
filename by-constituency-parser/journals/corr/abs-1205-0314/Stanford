@@ -1,0 +1,2 @@
+(NP (NP (NN Scribe) (NNS notes)) (PP (IN from) (NP (DT the) (CD 2012) (NNP Barbados) (NN Workshop))) (PP (IN on) (NP (JJ Computational) (NN Complexity))) (. .))
+(FRAG (NP (NP (DT A) (NN series)) (PP (IN of) (NP (NP (NNS lectures)) (PP (IN on) (NP (NP (NN Analysis)) (PP (IN of) (NP (NNP Boolean) (NNPS Functions)))))))) (PP (IN by) (NP (NNP Ryan) (NNP O'Donnell))) (, ,) (PP (IN with) (NP (DT a) (NN guest) (NN lecture))) (PP (IN by) (NP (IN Per) (NN Austrin))) (. .))

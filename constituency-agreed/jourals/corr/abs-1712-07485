@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Conditions)) (PP (IN for) (NP (PRP$ its) (NN existence) (CC and) (NN uniqueness)))) (VP (VBP are) (VP (VBN given))) (. .))
+(S (NP (NP (NNS Examples)) (PP (IN of) (S (VP (VBG constructing) (NP (DT a) (NN spline) (NN curve)))))) (VP (VBP are) (VP (VBN given))) (. .))

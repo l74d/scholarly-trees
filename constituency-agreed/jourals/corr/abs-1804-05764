@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB evaluate) (NP (DT each) (NN task))))) (, ,) (NP (DT the) (VBN proposed) (NN model)) (VP (VBD was) (VP (VP (VBN trained) (PP (IN on) (NP (CD 2137) (NNS images)))) (CC and) (VP (VBN tested) (PP (IN on) (NP (DT the) (VBG remaining) (CD 1281) (NNS images)))))) (. .))

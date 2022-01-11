@@ -1,0 +1,1 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NP (DT a) (NN cQPL) (NN compiler)) (SBAR (WHNP (WDT which)) (S (VP (VBZ generates) (NP (NP (NN code)) (PP (IN for) (NP (DT a) (NN quantum) (NN simulator))))))))))) (. .))

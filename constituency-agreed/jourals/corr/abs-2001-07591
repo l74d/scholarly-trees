@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assess) (NP (NN system) (NN performance)) (PP (IN by) (S (VP (VBG comparing) (NP (NN power) (NN production)) (PP (IN against) (NP (NP (NNS baselines)) (PP (JJ such) (IN as) (NP (NP (JJ omniscient) (NN control)) (CC and) (NP (JJ stationary) (NN flight)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN with) (NP (JJ few) (NNS sensors))) (, ,) (NP (NP (NN control) (NNS strategies)) (SBAR (WHNP (WDT that)) (S (VP (VBP reward) (NP (NN exploration)))))) (VP (VBP are) (VP (VBN favored)))))) (. .))

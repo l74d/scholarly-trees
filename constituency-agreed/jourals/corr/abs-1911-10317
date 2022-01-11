@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB show) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (PRP$ our) (NN dataset))))))) (, ,) (NP (PRP we)) (VP (VBP learn) (NP (NP (CD 3) (NNS models)) (PP (IN for) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (NN plant) (NN disease) (NN classification))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN importance)) (PP (IN of) (NP (NP (JJ statistical) (NNS patterns)) (PP (IN of) (NP (NN language)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN debated) (PP (IN over) (NP (NNS decades)))))) (. .))
+(S (SBAR (IN Although) (S (NP (NP (NNP Zipf) (POS 's)) (NN law)) (VP (VBZ is) (ADVP (RB perhaps)) (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN case))))) (, ,) (ADVP (RB recently)) (, ,) (NP (NP (NNP Menzerath) (POS 's)) (NN law)) (VP (VBZ has) (VP (VBN begun) (S (VP (TO to) (VP (VB be) (VP (VBN involved))))))) (. .))

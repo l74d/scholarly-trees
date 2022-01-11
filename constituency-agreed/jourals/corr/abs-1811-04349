@@ -1,0 +1,2 @@
+(S (NP (NNP Lockcoin)) (VP (VBZ provides) (NP (NP (NN anonymity)) (, ,) (NP (NN scalability)) (, ,) (NP (NN bitcoin) (NN compatibillity)) (, ,) (NP (NN theft) (NN impossibility)) (CC and) (NP (NN accountability)))) (. .))
+(S (NP (NP (NNP Lockcoin) (POS 's)) (NN source) (NNS codes)) (VP (VBP are) (VP (VBN released) (PP (IN on) (NP (NN github.com/Northeastern-University-Blockchain/Lockcoin))))) (. .))

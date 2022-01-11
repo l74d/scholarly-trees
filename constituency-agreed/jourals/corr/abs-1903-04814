@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN depth) (NN information)) (PP (IN in) (NP (DT the) (NNS images)))) (VP (VBZ has) (NP (NP (DT a) (JJ strong) (JJ complementary) (NN effect)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB enhance) (NP (DT the) (NN classification) (NN accuracy)) (ADVP (RB significantly)))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN method)) (VP (VBZ has) (NP (JJ good) (NN performance)))))) (. .))

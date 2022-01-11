@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (NNS applications)) (SBAR (WHADVP (WRB where)) (S (NP (NNS inputs)) (VP (VP (VBP arrive) (PP (IN at) (NP (JJ high) (NN throughput)))) (, ,) (CC or) (VP (VBP are) (ADJP (JJ ephemeral)))))))) (, ,) (S (VP (VBG training) (NP (DT a) (NN network)) (PP (IN from) (NP (NN scratch))))) (VP (VBZ is) (RB not) (ADJP (JJ practical))) (. .))

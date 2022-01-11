@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT a) (JJ weighted) (JJ temporal) (NN graph))) (, ,) (NP (DT each) (NN edge)) (VP (VBZ has) (NP (NP (DT an) (NN availability) (NN time)) (, ,) (NP (DT a) (JJ traversal) (NN time)) (CC and) (NP (DT some) (JJ real) (NN cost)))) (. .))

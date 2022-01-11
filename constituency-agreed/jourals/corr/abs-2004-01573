@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (S (VP (VBG using) (NP (JJ multi-scale) (NNS convolutions)) (PP (IN without) (S (VP (VBG considering) (NP (PRP$ their) (NN importance))))))) (VP (MD may) (VP (VB confuse) (NP (DT the) (NN model)))) (. .))

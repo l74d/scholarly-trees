@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN assumed) (SBAR (IN that) (S (NP (DT the) (NN controller)) (VP (VBZ communicates) (PP (IN with) (NP (DT each) (NN actuator))) (PP (IN through) (NP (DT a) (JJ different) (NN communication) (NN channel)))))))) (. .))

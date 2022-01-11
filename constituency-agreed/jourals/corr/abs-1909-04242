@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NNS methods)) (VP (MD can) (VP (VP (VB alleviate) (NP (NP (DT the) (JJ negative) (NN effect)) (PP (IN of) (NP (DT the) (NNS artifacts))))) (CC and) (VP (VB improve) (NP (NP (DT the) (NN generalization) (NN ability)) (PP (IN of) (NP (NNS models)))))))))) (. .))

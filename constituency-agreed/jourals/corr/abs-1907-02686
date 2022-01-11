@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN transformation)) (ADVP (RB often)) (VP (VBZ requires) (NP (NP (JJ additional) (NNS gates)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB affect) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (S (VP (VBG running) (NP (DT the) (NN circuit)))))))))))) (. .))

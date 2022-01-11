@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN detection) (NN component)) (PP (IN of) (NP (NNP RetinaMask)))) (VP (VP (VBZ has) (NP (NP (DT the) (JJ same) (JJ computational) (NN cost)) (PP (IN as) (NP (DT the) (JJ original) (NNP RetinaNet))))) (, ,) (CC but) (VP (VBZ is) (ADJP (RBR more) (JJ accurate)))) (. .))

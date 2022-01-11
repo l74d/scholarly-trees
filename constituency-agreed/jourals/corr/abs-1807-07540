@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ neural) (NN network) (NN optimization)))) (PP (IN as) (NP (NP (JJ Bayesian) (NN filtering)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS observations)) (VP (VBP are) (NP (DT the) (JJ backpropagated) (NNS gradients)))))))) (. .))

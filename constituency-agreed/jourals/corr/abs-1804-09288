@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT a) (JJR deeper) (NN understanding)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (JJ weak) (NNS labels)) (VP (VBP affect) (NP (NP (DT the) (NN learning)) (PP (IN for) (NP (JJ sound) (NNS events))))))))) (VP (VBZ is) (ADVP (RB still)) (VP (VBG missing) (PP (IN from) (NP (NN literature))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT these) (NNS aspects)) (PP (IN of) (NP (JJ weak) (NNS labels)))) (VP (VBP affect) (NP (NP (DT the) (NN generalization)) (PP (IN of) (NP (NNS models)))))))) (. .))

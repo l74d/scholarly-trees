@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (PP (IN under) (NP (JJ unsupervised) (NN setting))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ outperforms) (NP (NP (JJ recent) (JJ unsupervised) (NN domain) (JJ adaptive) (NNS methods)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP leverage) (NP (JJR more) (NNS labels)) (PP (IN for) (NP (NN training)))))))) (. .))

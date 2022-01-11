@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN divergence) (NN triangle)) (VP (VBZ is) (NP (NP (DT a) (JJ robust) (NN training) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB learn) (PP (IN from) (NP (JJ incomplete) (NNS data))))))))) (. .))

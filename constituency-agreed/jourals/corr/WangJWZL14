@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (NN software) (NNP ILOG) (NNP CPLEX))))) (, ,) (NP (DT the) (NN approach)) (VP (VBZ is) (VP (VBN accomplished) (PP (IN by) (S (VP (VBG controlling) (NP (NP (DT the) (NN exit) (NN criterion)) (PP (IN of) (NP (NNP ATSP) (NN model))))))))) (. .))

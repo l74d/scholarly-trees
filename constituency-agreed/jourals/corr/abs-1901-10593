@@ -1,0 +1,2 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (DT each) (NN loss) (NN function)) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (NP (CD two) (NNS components)) (: :) (NP (NP (DT the) (JJ adversarial) (NN component)) (CC and) (NP (DT the) (JJ stochastic) (NN component))))))) (. .))
+(S (NP (JJ Empirical) (NNS studies)) (VP (VBP are) (ADVP (RB also)) (VP (VBN conducted) (S (VP (TO to) (VP (VB validate) (NP (PRP$ our) (NN analysis))))))) (. .))

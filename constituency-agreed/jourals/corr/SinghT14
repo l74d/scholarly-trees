@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP need) (NP (DT a) (JJ strong) (JJ mathematical) (NN model)) (S (VP (TO to) (VP (VB extract) (NP (JJ such) (JJ useful) (NN parameter)))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN scheme)))) (VP (VBZ is) (VP (VBN verified) (PP (IN through) (NP (DT the) (NN simulation))))) (. .))

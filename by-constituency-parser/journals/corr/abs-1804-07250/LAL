@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (ADJP (NNP GPU) (VBD accelerated)) (NNS implementations)) (PP (IN of) (NP (NNP Markov) (NN chain) (NN algorithms))) (SBAR (S (VP (TO to) (VP (VB sample) (NP (NP (JJ random) (NNS tilings)) (, ,) (NP (NNS dimers)) (, ,) (CC and) (NP (DT the) (JJ six-vertex) (NN model))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NNS semantics)) (PP (IN of) (NP (DT this) (NN mapping)))) (VP (VBZ is) (VP (VBN defined) (S (VP (VBG using) (NP (NNP Datalog)))))) (. .))
+(S (NP (CD Two) (JJ fundamental) (NNS properties)) (VP (VBP are) (NP (NP (NN information) (NN preservation)) (CC and) (NP (NN query) (NN preservation)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP consider) (NP (NP (CD two) (JJ desirable) (NNS properties)) (: :) (NP (NP (NN monotonicity)) (CC and) (NP (NNS semantics) (NN preservation))))) (. .))

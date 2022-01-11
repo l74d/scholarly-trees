@@ -1,0 +1,2 @@
+(S (PP (IN By) (NP (DT the) (NML (JJ Chinese) (NN Remainder)) (NNP Theorem))) (, ,) (NP (NP (JJ structural) (NNS properties)) (CC and) (NP (NP (DT the) (NN decomposition)) (PP (IN of) (NP (NNP GQC) (NNS codes))))) (VP (VBP are) (VP (VBN given))) (. .))
+(S (PP (IN For) (NP (NML (CD 1) (HYPH -) (NN generator)) (NN GQC) (NNS codes))) (, ,) (NP (NP (JJ minimal) (NN generating) (NNS sets)) (CC and) (NP (NP (JJR lower) (NNS bounds)) (PP (IN on) (NP (DT the) (JJ minimum) (NN distance))))) (VP (VBP are) (VP (VBN given))) (. .))

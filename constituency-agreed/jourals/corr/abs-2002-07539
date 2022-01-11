@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (, ,) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (VP (VBZ achieves) (NP (JJ round) (NN synchronization)) (PP (IN with) (NP (NP (VBN expected) (JJ linear) (NN message) (NN complexity)) (CC and) (NP (VBN expected) (JJ constant) (NN latency))))))))) (. .))

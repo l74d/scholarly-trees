@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NNS methods)) (VP (VBP provide) (NP (JJ substantial) (NNS speedups)) (PP (IN on) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NP (NNS datasets)) (CC and) (NP (NN hardware) (NNS platforms)))))))))) (. .))

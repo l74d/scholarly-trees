@@ -1,0 +1,2 @@
+(S (NP (JJ Optical) (NNS interferometers)) (VP (VBP provide) (NP (JJ multiple) (NN wavelength) (NNS measurements))) (. .))
+(S (SBAR (IN Since) (S (NP (DT the) (JJ objective) (NN function)) (VP (VBZ is) (RB not) (ADJP (JJ differentiable))))) (, ,) (NP (PRP we)) (VP (VBD had) (S (VP (TO to) (VP (VB develop) (NP (NP (DT a) (JJ specialized) (NN optimization) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBZ accounts) (PP (IN for) (NP (NP (NN non-negativity)) (PP (IN of) (NP (DT the) (NN brightness) (NN distribution))))))))))))) (. .))

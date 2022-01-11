@@ -1,0 +1,2 @@
+(S (NP (NP (NN Correctness)) (PP (IN of) (NP (NN program) (NNS transformations)))) (VP (VBZ depends) (PP (IN on) (NP (NP (NN preservation)) (PP (IN of) (NP (NP (DT some) (JJ important) (NNS properties)) (PP (IN of) (NP (DT the) (NN input) (NN program)))))))) (. .))
+(S (PP (IN In) (NP (JJ temporal) (NN logic))) (, ,) (NP (DT a) (NN formula)) (VP (VBZ is) (VP (VBN interpreted) (PP (IN on) (NP (DT a) (JJ single) (NN program))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB validate) (NP (DT the) (NN algorithms))))))) (. .))
+(S (NP (DT The) (JJ numerical) (NNS results)) (VP (VBP are) (ADVP (RB also)) (VP (VBN found) (S (VP (TO to) (VP (VB be) (PP (ADVP (RB well)) (IN in) (NP (NP (NN agreement)) (PP (IN with) (NP (DT the) (JJ theoretical) (NNS results)))))))))) (. .))

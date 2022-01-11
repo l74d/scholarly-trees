@@ -1,0 +1,1 @@
+(S (ADVP (RB Apart) (PP (IN from) (NP (NP (DT the) (NN information) (NN loss)) (PP (IN during) (NP (NN quantization)))))) (, ,) (NP (DT another) (NN cause)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NNP SIFT) (NN feature)) (ADVP (RB only)) (VP (VBZ describes) (NP (DT the) (JJ local) (NN gradient) (NN distribution)))))) (. .))

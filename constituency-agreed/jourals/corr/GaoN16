@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (NN dataset)) (PP (IN for) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG learning) (NP (NNS actions)) (PP (IN from) (NP (NNS descriptions))))))))) (VP (VBZ is) (VP (VBN built))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ outperforms) (NP (JJ several) (NN baseline) (NNS methods)) (ADVP (RB significantly)))))) (. .))

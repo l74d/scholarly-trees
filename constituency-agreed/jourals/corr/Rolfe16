@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Probabilistic) (NNS models)) (PP (IN with) (NP (JJ discrete) (NN latent) (NNS variables)))) (ADVP (RB naturally)) (VP (VBP capture) (NP (NP (NNS datasets)) (VP (VBN composed) (PP (IN of) (NP (JJ discrete) (NNS classes)))))) (. .))

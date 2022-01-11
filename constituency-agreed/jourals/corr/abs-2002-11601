@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT a) (JJR larger) (NN batch) (NN size)) (VP (MD can) (VP (VB make) (NP (DT a) (NN generalization) (NN gap)) (ADVP (RBR more) (RB easily)))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (JJ empirical) (NNS results)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP SEBS)) (VP (MD can) (VP (VB outperform) (NP (JJ other) (NNS baselines))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NN Computation)) (PP (IN of) (NP (DT this) (NN quantity)))) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN made) (ADVP (RB iteratively)) (PP (IN with) (NP (NP (DT a) (JJ large) (NN use)) (PP (IN of) (NP (JJ computational) (NN time))))))) (. .))
+(S (PP (IN Through) (NP (DT this) (JJ new) (NN representation))) (NP (PRP we)) (VP (MD can) (ADVP (RB now)) (VP (VB compute) (NP (DT the) (NNP PageRank)) (PP (IN without) (NP (JJ iterative) (NNS techniques))))) (. .))

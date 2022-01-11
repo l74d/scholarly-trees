@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB combat) (NP (DT this)) (PP (IN with) (NP (NP (VBG varying) (NNS amounts)) (PP (IN of) (NP (NN success))))))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP denoise) (NP (DT the) (NN image)) (S (VP (VBG using) (NP (JJ statistical) (NNS methods))))) (. .))

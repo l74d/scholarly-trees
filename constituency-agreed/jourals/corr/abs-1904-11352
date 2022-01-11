@@ -1,0 +1,2 @@
+(S (NP (JJ Spectral) (NN clustering)) (VP (VBZ is) (NP (NP (DT a) (JJ powerful) (NN method)) (PP (IN for) (S (VP (VBG finding) (NP (NP (NN structure)) (PP (IN in) (NP (DT a) (NN dataset)))) (PP (IN through) (NP (NP (DT the) (NNS eigenvectors)) (PP (IN of) (NP (DT a) (NN similarity) (NN matrix)))))))))) (. .))
+(S (NP (PRP$ Its) (NN accuracy)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN similarity)) (PP (IN between) (NP (NP (NNS pairs)) (PP (IN of) (NP (NNS data) (NNS points)))))) (VP (VBZ is) (VP (VBN defined))))))) (. .))

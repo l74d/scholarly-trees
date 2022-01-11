@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NN packet) (NN loss))))) (NP (NP (DT the) (NN coordination) (NN information)) (PP (IN among) (NP (NNS agents)))) (VP (VBZ is) (VP (VBN lost))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN analysis))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VBP show) (SBAR (IN that) (S (NP (NN packet) (NN loss)) (VP (MD may) (VP (VB result) (PP (IN in) (NP (NP (NN loss)) (PP (IN of) (NP (NN rigidity)))))))))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (NP (DT this)) (VP (VBZ reduces) (NP (NP (DT the) (NN communication) (NN overhead)) (VP (VBN required) (PP (IN for) (NP (NN information) (NN exchange)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN illustrated) (S (VP (VBG using) (NP (JJ suitable) (NN simulation) (NN example)))))) (. .))

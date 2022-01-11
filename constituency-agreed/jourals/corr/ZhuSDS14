@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (DT this) (NN approach)) (VP (VBZ evolves)))) (, ,) (NP (PRP it)) (VP (VBZ becomes) (ADJP (JJ able) (S (VP (TO to) (VP (VB provide) (NP (JJ additional) (NN information)) (PP (IN for) (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NNS analyses)))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN in) (NP (JJ many) (NNS cases))) (NP (DT the) (NNS results)) (VP (VBP suffer) (PP (IN from) (NP (JJ low) (NN accuracy))) (SBAR (WHADVP (WRB when)) (S (NP (JJ real) (NNS perturbations)) (VP (VBP are) (VP (VBN used)))))) (. .))

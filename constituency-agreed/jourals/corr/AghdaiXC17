@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Many) (NN network) (NNS functions)) (PP (JJ such) (IN as) (NP (NP (NNS firewalls)) (, ,) (NP (NN load) (NNS balancers)) (, ,) (CC and) (NP (NN intrusion) (NN detection) (NNS systems))))) (VP (MD can) (VP (VB be) (VP (VBN virtualized) (PP (IN by) (NP (NNS servers)))))) (. .))

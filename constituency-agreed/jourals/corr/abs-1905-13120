@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ important) (NN aspect)) (PP (IN of) (NP (NP (DT the) (JJ practical) (NN implementation)) (PP (IN of) (NP (NNP BPS)))))) (VP (VBZ is) (NP (NP (DT the) (NN simulation)) (PP (IN of) (NP (NN event) (NNS times))))) (. .))
+(S (NP (JJ Such) (NNS bounds)) (VP (MD can) (VP (VP (VB slow) (PRT (RP down)) (NP (DT the) (NN algorithm))) (CC and) (VP (VB limit) (NP (DT the) (JJ computational) (NN performance))))) (. .))

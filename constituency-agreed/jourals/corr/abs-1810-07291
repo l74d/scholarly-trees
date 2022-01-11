@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP DNM)) (VP (MD can) (VP (VB learn) (NP (NP (JJ efficient) (NNS representations)) (PP (IN of) (NP (NP (DT the) (NN input) (NNS data)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ reflects) (NP (NP (NNS characteristics)) (PP (IN of) (NP (DT each) (NN class))))))))))))))) (. .))

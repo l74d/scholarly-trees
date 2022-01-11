@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN coupling)) (VP (VBZ is) (VP (VBN realized) (PP (IN with) (NP (NP (DT the) (NN aid)) (PP (IN of) (NP (NP (DT a) (NN mortar) (NN variable)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (DT an) (NN impedance) (NN trace)) (PP (IN on) (NP (DT the) (NN coupling) (NN boundary))))))))))))) (. .))
+(S (NP (DT The) (VBG resulting) (JJ sesquilinear) (NN form)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB satisfy) (NP (DT a) (NNP Garding) (NN inequality))))))) (. .))
+(S (NP (JJ Quasi-optimal) (NN convergence)) (VP (VBZ is) (VP (VBN shown) (PP (IN for) (NP (ADJP (RB sufficiently) (JJ fine)) (NNS meshes))))) (. .))

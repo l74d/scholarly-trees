@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT these) (NNS policies)) (VP (VBP are) (VP (VBN violated))))) (, ,) (NP (NNS applications)) (VP (MD may) (VP (VB produce) (NP (NNS misbehaviors) (CC and) (NNS failures)) (PP (IN at) (NP (NN runtime))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG learning) (NP (NP (JJ disentangled) (NNS representations)) (SBAR (WHNP (WDT that)) (S (VP (VBP encode) (NP (NP (JJ distinct) (NNS aspects)) (PP (IN of) (NP (DT the) (NNS data)))) (PP (IN into) (NP (JJ separate) (NNS variables)))))))))))) (. .))

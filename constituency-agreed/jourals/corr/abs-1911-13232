@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP CONAN)) (VP (VBZ has) (NP (NP (DT a) (NN disease) (NN detector)) (SBAR (WHNP (WDT that)) (S (VP (VBZ serves) (PP (IN as) (NP (DT the) (NN discriminator))) (PP (IN during) (NP (NP (DT the) (JJ adversarial) (NN training)) (PP (IN for) (S (VP (VBG identifying) (NP (JJ rare) (NNS diseases)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (NNP CONAN)) (PP (IN on) (NP (CD two) (NN disease) (NN detection) (NNS tasks)))) (. .))

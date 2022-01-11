@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ novel) (JJ stochastic) (NN version)) (PP (IN of) (NP (ADJP (JJ damped) (CC and) (JJ regularized)) (NNP BFGS) (NN method))) (PP (IN for) (S (VP (VBG addressing) (NP (DT the) (JJ above) (NNS problems))))))) (. .))

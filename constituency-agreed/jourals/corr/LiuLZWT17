@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN result)) (VP (VBZ illustrates) (SBAR (S (NP (DT the) (JJ new) (NN approach)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB analyze) (NP (NP (DT the) (JJ key) (NNS properties)) (PP (IN of) (NP (JJ electronic) (NN payment) (NNS protocols)))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (JJ new) (NN approach)) (VP (MD can) (VP (VB be) (VP (VBN introduced) (S (VP (TO to) (VP (VB analyze) (NP (NP (JJ other) (NN time) (NNS properties)) (PP (IN of) (NP (JJ cryptographic) (NNS protocols)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP Minirhizotron) (NN technology)) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN used) (PP (IN for) (S (VP (VBG studying) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NNS roots))))))))) (. .))
+(S (NP (DT Both) (NNS datasets)) (VP (VBD were) (VP (VBN paired) (PP (IN with) (NP (ADJP (RB manually) (VBN labeled)) (NN ground) (NN truth) (NNS masks))))) (. .))

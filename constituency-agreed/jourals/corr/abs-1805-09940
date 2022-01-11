@@ -1,0 +1,2 @@
+(S (NP (DT Each) (JJ vascular) (NN branch)) (VP (VP (VBZ is) (VP (VBN separated) (PP (IN from) (NP (DT the) (NN vasculature))))) (CC and) (VP (VBZ is) (VP (VBN tracked) (ADVP (RB independently))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (DT an) (JJ undirected) (JJ acyclic) (NN graph) (NN establishment) (NN technique))) (. .))

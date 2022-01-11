@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS outputs)) (PP (IN of) (NP (DT the) (NNS models)))) (VP (VBP are) (PP (IN in) (NP (JJS most) (NNS cases))) (ADJP (RB highly) (JJ realistic))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNS methods)) (VP (VBP have) (NP (JJ potential) (S (VP (TO to) (VP (VB enhance) (CC and) (VB detect) (NP (NNS abnormalities)))))))))) (. .))

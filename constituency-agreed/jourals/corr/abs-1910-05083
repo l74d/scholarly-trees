@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ traditional) (NN estimation) (NN procedure)) (PP (IN for) (NP (DT the) (NN coefficient) (NN parameter)))) (ADVP (RB often)) (VP (VBZ fails) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ true) (NN rank)) (PP (IN of) (NP (DT the) (NN parameter)))) (VP (VBZ is) (ADJP (JJ high)))))) (. .))
+(S (S (VP (VBG Using) (NP (JJ sparse) (NN regularization)))) (, ,) (NP (PRP we)) (VP (MD can) (ADVP (RB also)) (VP (VB select) (NP (NP (DT an) (JJ optimal) (NN value)) (PP (IN of) (NP (DT the) (NN rank)))))) (. .))

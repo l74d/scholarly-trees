@@ -1,0 +1,2 @@
+(S (VP (VB Consider) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS agents)) (SBAR (WHNP (WDT that)) (S (VP (VBP wish) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT a) (NN vector)) (PP (IN of) (NP (NP (NNS parameters)) (PP (IN of) (NP (PRP$ their) (JJ mutual) (NN interest)))))))))))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN estimation) (NN goal))) (, ,) (NP (NNS agents)) (VP (MD can) (VP (VB sense) (CC and) (VB communicate))) (. .))

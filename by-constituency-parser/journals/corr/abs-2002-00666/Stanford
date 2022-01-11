@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NN multicut) (NN rule))) (PP (IN with) (NP (NP ($ $)) (SBAR (S (VP (VBD shared) (NP (NP ($ $)) (NP (NNS cuts)))))))))) (. .))
+(S (NP (DT This) (NN approach)) (VP (VBZ is) (ADJP (JJ modular) (CC and) (JJ easy)) (S (VP (TO to) (VP (VB use) (, ,) (VB read) (CC and) (VB automate))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NNP LFD)) (NP (NP (DT an) (ADJP (JJ appealing)) (NN alternative)) (PP (IN to) (NP (NP (`` `) (NN flow) (NN proof) ('' ')) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ popular) (PP (IN in) (NP (JJ mathematical) (NN education))))))))))) (. .))
+(S (NP (DT Some) (NNS examples)) (VP (VBP are) (VP (VBN provided))) (. .))

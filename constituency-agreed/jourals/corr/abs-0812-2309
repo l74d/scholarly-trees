@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NP (NNS statistics)) (PP (IN on) (NP (NNS images)))))) (VP (VBP are) (VP (VBN implemented) (PP (IN in) (NP (NNP C++))))) (. .))
+(S (PP (IN From) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS images)) (PP (IN of) (NP (JJ human) (NN blood) (NNS cells))))))) (NP (DT these) (NNS statistics)) (VP (VBP are) (VP (VBN collected))) (. .))

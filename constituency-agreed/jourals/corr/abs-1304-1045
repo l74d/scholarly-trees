@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (DT this) (NN work))))) (, ,) (NP (PRP we)) (VP (VBD observed) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN architecture)) (VP (VBD presented) (NP (DT a) (JJ low) (NN handover) (NN time)) (, ,) (PP (IN with) (NP (NP (JJR lower) (NN packet) (NN loss)) (CC and) (NP (JJR lower) (NN delay)))))))) (. .))

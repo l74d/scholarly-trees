@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (JJ alternative) (NN method)) (PP (IN for) (NP (NP (JJ collaborative) (NN decoding)) (PP (IN of) (NP (JJ interleaved) (JJ Reed-Solomon) (NNS codes))))))) (. .))
+(S (NP (NP (NN Simulation) (NNS results)) (PP (IN for) (NP (NP (DT a) (JJ concatenated) (NN coding) (NN scheme)) (VP (VBG using) (NP (JJ polar) (NNS codes)) (PP (IN as) (NP (JJ inner) (NNS codes))))))) (VP (VBP are) (VP (VBN included))) (. .))

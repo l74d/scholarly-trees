@@ -1,0 +1,3 @@
+(S (ADVP (RB Thus)) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NN research)) (VP (VBG aiming) (PP (IN at) (S (VP (VBG automating) (NP (DT the) (NN process))))))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP aim) (PP (IN at) (S (VP (VBG bridging) (NP (DT this) (NN gap)))))) (. .))
+(S (NP (DT The) (NN evaluation) (NNS results)) (VP (VBP show) (NP (NP (JJ sizable) (NNS improvements)) (PP (IN over) (NP (DT the) (NN baseline))))) (. .))

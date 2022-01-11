@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN architecture)) (VP (VBZ is) (ADJP (JJ generic)))) (: ;) (S (NP (PRP it)) (VP (VBZ works) (PP (IN for) (NP (DT all) (JJ binary) (NN constraint) (NN satisfaction) (NNS problems))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ new) (NNS data)) (ADVP (RB therefore)) (VP (VBZ provides) (NP (NP (DT an) (JJ exciting) (NN opportunity)) (PP (IN for) (NP (JJ computational) (NN modelling))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN technique)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB recover) (NP (DT the) (JJ original) (NNP Boolean) (NN network) (NNS rules)))))))))) (. .))

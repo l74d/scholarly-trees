@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN work)) (VP (MD will) (VP (VB have) (NP (JJ important) (JJ practical) (NNS applications)))) (. .))
+(S (NP (PRP$ Our) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (ADVP (RB typically)) (NP (NP (RB only) (DT a) (JJ small) (NN number)) (PP (IN of) (NP (NNS bits)))) (VP (VBP are) (VP (VBN needed)))))) (. .))
+(S (NP (JJ Extensive) (JJ experimental) (NNS results)) (VP (VBP are) (VP (VBN provided))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (JJ upper) (NN body) (NNS keypoints)) (, ,) (NP (JJ facial) (NN action) (NNS units)) (CC and) (NP (NNS poses))) (PP (IN as) (NP (NP (JJ intermediate) (NNS representations)) (PP (IN between) (NP (NP (NN source) (NN video)) (CC and) (NP (NN target) (NN video))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBD demonstrated) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

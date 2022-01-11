@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (JJ local) (NN search) (NN algorithm)) (PP (IN for) (NP (NN satisfiability) (NNS problems))))) (. .))
+(S (NP (JJ Usual) (NNS approaches)) (VP (VBP focus) (ADVP (RB uniformly)) (PP (IN on) (NP (JJ unsatisfied) (NNS clauses)))) (. .))
+(S (NP (NP (NNS Consequences)) (PP (IN for) (NP (JJ algorithmic) (NN design)))) (VP (VBP are) (VP (VBN discussed))) (. .))

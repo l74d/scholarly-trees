@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (S (VP (TO to) (VP (VB capture) (NP (NP (NNS interactions)) (PP (IN between) (NP (JJ adjacent) (NNS characters))))))) (, ,) (NP (NN bigram) (NNS features)) (VP (VBP are) (ADVP (RB also)) (VP (VBN applied) (PP (IN in) (NP (DT the) (JJ joint) (NN model))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Semantic) (NN wikis)) (, ,) (NP (NP (NN wikis)) (VP (VBN enhanced) (PP (IN with) (NP (JJ Semantic) (NN Web) (NNS technologies))))) (, ,)) (VP (VBP are) (NP (NP (JJ appropriate) (NNS systems)) (PP (IN for) (NP (NML (NN community) (HYPH -) (VBN authored)) (NN knowledge) (NNS models))))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (ADJP (RB particularly) (JJ suitable) (PP (IN for) (NP (JJ scientific) (NN collaboration))))) (. .))
+(NP (NP (DT This) (NN paper) (NNS details)) (NP (NP (DT the) (NML (NN design) (NNS principles)) (NNP ofWikiBridge)) (, ,) (NP (DT a) (JJ semantic) (NN wiki))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN Though) (S (NP (NNP Scrum) (NN process) (NN model)) (VP (VBP have) (NP (JJ several) (NNS features) (CC and) (NNS strengths))))) (CC but) (NP (PRP it)) (ADVP (RB still)) (VP (VBZ lacks) (PP (IN in) (NP (NN management) (CC and) (NN quality)))) (. .))
+(S (NP (NNP Survey)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB validate) (NP (DT the) (VBN proposed) (NN framework))))))) (. .))

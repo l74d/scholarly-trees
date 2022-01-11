@@ -1,0 +1,2 @@
+(S (NP (JJ Pancreatic) (NN cancer)) (VP (VBZ has) (NP (NP (DT the) (JJS poorest) (NN prognosis)) (PP (IN among) (NP (DT all) (NN cancer) (NNS types))))) (. .))
+(S (NP (VBN Extracted) (NNS features)) (VP (VBP are) (VP (VBN used) (PP (IN for) (NP (NN classification))))) (. .))

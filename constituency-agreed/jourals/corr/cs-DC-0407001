@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ presents) (NP (NP (PRP$ our) (NN implementation)) (PP (IN of) (NP (NP (DT a) (NN resource) (NN broker)) (PP (IN for) (NP (NNP UNICORE)))))) (SBAR (IN as) (S (NP (DT this) (NN functionality)) (VP (VBD was) (RB not) (VP (VBN supported) (PP (IN in) (NP (PRP it)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (JJ Recent) (NN work)) (VP (VBD showed) (SBAR (IN that) (S (NP (NP (NNS embeddings)) (PP (IN from) (NP (JJ related) (NNS languages)))) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN sequence) (NN tagging)))) (, ,) (PP (ADVP (RB even)) (IN for) (NP (JJ monolingual) (NNS models)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ obvious) (NN example)) (VP (VBZ is) (NP (NP (DT the) (JJ incognito) (NN mode)) (PP (IN in) (NP (NN internet) (NNS browsers))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (SBAR (IN since) (S (NP (NP (DT the) (NN user) (POS 's)) (NNS requests)) (VP (VBP depend) (PP (IN on) (NP (NP (JJ personal) (NNS attributes)) (PP (JJ such) (IN as) (NP (NP (NN age)) (, ,) (NP (NN gender)) (, ,) (CC and) (NP (JJ political) (NNS views))))))))) (, ,) (NP (PRP they)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN correlated) (PP (IN over) (NP (NN time))))) (. .))

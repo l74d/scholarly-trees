@@ -1,0 +1,4 @@
+(S (NP (NP (NP (NNP Shannon) (POS 's)) (NN analysis)) (PP (IN of) (NP (NP (DT the) (JJ fundamental) (NN capacity) (NNS limits)) (PP (IN for) (NP (JJ memoryless) (NN communication) (NNS channels)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN refined) (PP (IN over) (NP (NN time)))))) (. .))
+(S (NP (DT This) (NN expression)) (VP (VBZ holds) (PP (IN under) (NP (NP (JJ mild) (NN regularity) (NNS assumptions)) (PP (IN on) (NP (DT the) (NN channel))) (, ,) (PP (VBG including) (NP (NN nonsingularity)))))) (. .))
+(S (NP (DT The) (NN derivation)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ strong) (NNS large-deviations) (NN analysis)) (CC and) (NP (JJ refined) (JJ central) (NN limit) (NNS asymptotics)))))) (. .))
+(S (NP (NP (DT A) (NN random) (VBG coding) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ achieves) (NP (DT the) (JJR lower) (NN bound)))))) (VP (VBZ is) (VP (VBN presented))) (. .))

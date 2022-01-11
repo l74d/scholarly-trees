@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NN goal)) (PP (IN of) (NP (DT this) (NN task)))) (VP (VBZ is) (S (VP (TO to) (VP (VB classify) (NP (NP (DT the) (NN polarity)) (PP (IN of) (NP (DT a) (NN message)))))))) (. .))
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (JJ distant) (NN supervision)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (JJR larger) (NNS datasets)))))))) (. .))

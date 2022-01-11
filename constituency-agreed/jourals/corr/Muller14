@@ -1,0 +1,4 @@
+(S (NP (NNP WebSocket)) (VP (VBZ is) (NP (NP (DT the) (NN technology)) (VP (VBG enabling) (NP (DT this) (NN revolution))))) (. .))
+(S (S (NP (NNS WebSockets)) (VP (VBP are) (VP (VBN supported) (PP (IN by) (NP (DT all) (JJ current) (NNS browsers)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT a) (JJ new) (NN technology)) (PP (IN in) (NP (JJ constant) (NN evolution)))))) (. .))
+(S (NP (DT The) (JJ second) (NN part)) (VP (VBZ is) (NP (NP (DT a) (NN benchmark)) (PP (IN of) (NP (DT a) (JJ new) (JJ promising) (NN library))))) (. .))
+(S (NP (NNP SocketCluster)) (VP (VBZ provides) (NP (NP (DT a) (ADJP (RB highly) (JJ scalable)) (NNP WebSocket) (NN server)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NP (NN use)) (PP (IN of) (NP (NP (DT all) (JJ available) (NN cpu) (NNS cores)) (PP (IN on) (NP (DT an) (NN instance))))))))))) (. .))

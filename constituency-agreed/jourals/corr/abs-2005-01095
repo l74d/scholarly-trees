@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBN compared) (PP (IN with) (NP (JJ discriminative) (JJ deep) (JJ neural) (NNS networks)))))) (, ,) (NP (PRP$ our) (VBN proposed) (NN model)) (VP (VBZ shows) (NP (NP (JJ superior) (NN robustness)) (PP (IN against) (NP (JJ unseen) (NNS manipulations))))) (. .))

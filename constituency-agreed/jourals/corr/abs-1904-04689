@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN supervised) (PP (IN by) (NP (NP (JJ single) (NNS timestamps)) (VP (VBN located) (PP (IN around) (NP (DT each) (NN action) (NN instance))) (, ,) (PP (IN in) (NP (JJ untrimmed) (NNS videos)))))))))))) (. .))

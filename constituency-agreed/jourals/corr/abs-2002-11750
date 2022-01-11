@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP generalize) (NP (JJ randomized) (NN smoothing)) (S (VP (TO to) (VP (VB defend) (PP (IN against) (NP (NN backdoor) (NNS attacks))))))) (. .))

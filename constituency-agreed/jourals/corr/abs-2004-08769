@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (JJ new) (VBN labeled) (NNS images)) (VP (MD can) (VP (VB be) (VP (VBN generated) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT a) (JJ final) (NN target) (NN classifier)))))))))))) (. .))

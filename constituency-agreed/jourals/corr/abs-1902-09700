@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (JJ evolutionary) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN utilized) (S (VP (TO to) (VP (VB generate) (NP (JJ hard) (NNS instances)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP generate) (NP (NP (RB only) (JJ finite) (NN number)) (PP (IN of) (NP (JJ hard) (NNS instances))))) (. .))
+(S (NP (PRP We)) (VP (VBP seek) (PP (IN for) (NP (NP (DT a) (JJ probabilistic) (NN generator)) (PP (IN of) (NP (JJ hard) (NNS instances)))))) (. .))

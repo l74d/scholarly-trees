@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN translation)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (PP (IN in) (NP (NP (DT a) (NN prototype) (NN tool)) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (DT the) (NN tamarin) (NN prover)) (PP (IN as) (NP (DT a) (NN backend))))))))))) (. .))

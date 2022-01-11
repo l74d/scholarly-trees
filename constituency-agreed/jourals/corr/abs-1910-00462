@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ implies) (NP (NP (DT the) (NN ability)) (PP (IN of) (S (VP (VBG predicting) (NP (NP (NNS triples)) (SBAR (WHNP (WDT which)) (S (VP (VBP do) (RB not) (VP (VB appear) (PP (IN in) (NP (DT the) (NN training) (NN set))))))))))))) (. .))

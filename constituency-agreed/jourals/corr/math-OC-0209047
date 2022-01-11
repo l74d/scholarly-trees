@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (JJ mechanical) (NN device)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (DT an) (NN analog) (NN computer))) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN transportation) (NN problem)))))))))))) (. .))
+(S (PP (IN In) (NP (NN practice))) (NP (DT this) (NN device)) (VP (VBZ is) (VP (VBN simulated) (PP (IN by) (NP (DT a) (JJ numerical) (NN algorithm))))) (. .))

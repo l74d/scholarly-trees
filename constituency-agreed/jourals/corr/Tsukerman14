@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT the) (NN existence) (CC and) (NN uniqueness)) (PP (IN of) (NP (DT an) (NN eigenvalue))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN eigenvalue)) (VP (MD can) (VP (VB be) (VP (VBN computed) (ADVP (RB efficiently)) (PP (IN via) (NP (DT a) (JJ linear) (NN program))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP suggest) (NP (NP (JJ possible) (NNS directions)) (PP (IN of) (NP (NN research))))) (. .))

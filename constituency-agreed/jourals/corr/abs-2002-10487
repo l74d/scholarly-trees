@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (NP (DT the) (NN mirror) (NN descent) (NN reparameterization)) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN as) (S (VP (VBG training) (NP (DT a) (VBN modified) (NN network)) (PP (IN with) (NP (JJ standard) (NN backpropagation))))))))) (. .))
+(S (NP (NP (PRP$ Our) (NN construction)) (PP (IN for) (NP (DT the) (NN reparameterization) (NN argument)))) (VP (VBZ is) (VP (VBN done) (PP (IN for) (NP (NP (DT the) (JJ continuous) (NNS versions)) (PP (IN of) (NP (DT the) (NNS updates))))))) (. .))

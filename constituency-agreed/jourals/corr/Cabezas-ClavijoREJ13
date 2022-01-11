@@ -1,0 +1,3 @@
+(S (NP (JJ Bibliometric) (NNS indicators)) (VP (MD may) (ADVP (RB well)) (VP (VB present) (NP (PRP themselves)) (PP (IN as) (NP (DT a) (NN complement))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBD applied) (NP (DT a) (JJ multiple) (JJ logistic) (NN regression) (NN analysis)) (S (VP (TO to) (VP (VB determine) (SBAR (IN if) (S (NP (JJ bibliometric) (NNS indicators)) (VP (MD can) (VP (VB explain) (PP (IN by) (NP (PRP themselves))) (NP (NP (DT the) (NN concession)) (PP (IN of) (NP (NN grant) (NNS proposals)))))))))))) (. .))
+(S (NP (NP (CD 63.4) (NN %)) (PP (IN of) (NP (DT the) (NNS applications)))) (VP (VBD were) (VP (VBN funded))) (. .))

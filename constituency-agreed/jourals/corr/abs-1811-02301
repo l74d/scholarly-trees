@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (S (VP (VBG controlling) (NP (DT an) (JJ underactuated) (JJ robotic) (NN finger)) (PP (IN with) (NP (NP (DT a) (JJ single) (NN tendon)) (CC and) (NP (DT a) (JJ single) (NN actuator)))))))) (VP (VBZ is) (ADJP (JJ difficult))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this) (JJ particular) (NN system)) (VP (VBZ does) (RB not) (VP (VB fall) (PP (IN into) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (JJ underactuated) (NN system))))))) (. .))

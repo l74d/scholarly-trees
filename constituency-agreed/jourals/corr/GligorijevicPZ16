@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN aspect)) (PP (IN of) (NP (NN network) (NN analysis)))))) (VP (VBZ is) (NP (NP (NN community) (NN detection)) (CC or) (NP (NN network) (NN clustering)))) (. .))
+(S (NP (DT The) (JJ composite) (NNS clusters)) (VP (VBP are) (VP (VBN extracted) (PP (IN from) (NP (DT the) (JJ common) (NN feature) (NN representation))))) (. .))

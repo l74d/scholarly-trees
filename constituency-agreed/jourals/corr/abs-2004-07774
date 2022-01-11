@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN property)) (VP (VBZ is) (NP (NP (DT a) (NN prerequisite)) (PP (IN for) (NP (NP (JJ meaningful) (NN parameter) (NN identification)) (PP (IN in) (NP (NN practice))))))) (. .))
+(S (NP (PRP$ Our) (JJ first) (JJ main) (NN result)) (VP (VBZ is) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes) (NP (DT all) (JJ identifiable) (NNS functions)) (PP (IN without) (NP (DT any) (JJ additional) (NNS assumptions)))))))) (. .))

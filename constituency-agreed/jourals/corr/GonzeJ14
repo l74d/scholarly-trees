@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Cerny) (POS 's)) (NN conjecture)) (VP (VBZ is) (NP (NP (DT a) (JJ longstanding) (JJ open) (NN problem)) (PP (IN in) (NP (NN automata) (NN theory))))) (. .))
+(S (NP (PRP$ Our) (NN contribution)) (VP (VBZ is) (ADJP (JJ twofold))) (. .))

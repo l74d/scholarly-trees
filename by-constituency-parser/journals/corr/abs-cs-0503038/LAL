@@ -1,0 +1,6 @@
+(S (NP (NP (DT A) (JJ binary) (JJ linear) (NN error) (VBG correcting) (NNS codes)) (VP (VBN represented) (PP (IN by) (NP (NP (CD two) (NN code) (NNS families)) (NP (NNP Kronecker) (NNS products) (NN sum)))))) (VP (VBP are) (VP (VBN considered))) (. .))
+(S (NP (NP (DT The) (NN dimension) (CC and) (NN distance)) (PP (IN of) (NP (JJ new) (NN code)))) (VP (VBZ is) (VP (VBN investigated))) (. .))
+(S (NP (NP (ADJP (NNP Upper) (CC and) (JJR lower)) (NNS bounds)) (PP (IN of) (NP (NN distance)))) (VP (VBP are) (VP (VBN obtained))) (. .))
+(S (NP (DT Some) (NNS examples)) (VP (VBP are) (VP (VBN given))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT some) (JJ classic) (NNS constructions)) (VP (VBP are) (NP (NP (DT the) (JJ private) (NNS cases)) (PP (IN of) (NP (VBN considered) (CD one))))))))) (. .))
+(S (NP (NP (DT The) (NN subclass)) (PP (IN of) (NP (NP (NNS codes)) (PP (IN with) (NP (JJ equal) (ADJP (JJR lower) (CC and) (JJ upper)) (NN distance) (NNS bounds)))))) (VP (VBZ is) (VP (VBN allocated))) (. .))

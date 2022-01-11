@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN optimization) (NN problem)) (VP (VBZ is) (ADJP (JJ non-convex)))) (CC and) (S (NP (PRP we)) (VP (VBP are) (VP (VBN forced) (S (VP (TO to) (VP (VB explore) (NP (ADJP (RB locally) (JJ optimal)) (NNS solutions)))))))) (. .))

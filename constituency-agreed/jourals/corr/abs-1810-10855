@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN system)) (VP (VBZ starts) (S (VP (TO to) (VP (VB grow) (PP (IN in) (NP (NN complexity))))))))) (, ,) (NP (PRP they)) (ADVP (RB usually)) (VP (VBP start) (S (VP (VP (VBG re-architecting) (NP (PRP$ their) (NNS systems))) (, ,) (VP (VBG considering) (NP (JJ different) (JJ architectural) (NNS patterns)))))) (. .))

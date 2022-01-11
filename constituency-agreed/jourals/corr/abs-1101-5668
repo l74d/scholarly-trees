@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN log) (NNS files)) (VP (VBP are) (VP (VBN maintained) (PP (IN by) (NP (DT the) (NN web) (NNS servers))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ provides) (NP (NP (DT the) (NN idea)) (PP (IN of) (S (VP (VP (VBG creating) (NP (DT an) (JJ extended) (NN log) (NN file))) (CC and) (VP (VBG learning) (NP (DT the) (NN user) (NN behaviour)))))))) (. .))

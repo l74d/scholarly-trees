@@ -1,0 +1,1 @@
+(S (NP (NNS Applications)) (VP (VBP include) (NP (NP (JJ improved) (NNS bounds)) (PP (IN for) (NP (DT the) (NN probability) (SBAR (IN that) (S (NP (DT a) (JJ Gaussian) (NN measurement) (NN matrix)) (VP (VBZ has) (NP (DT a) (VBN given) (JJ restricted) (NN isometry) (NN constant)) (PP (IN in) (NP (JJ compressed) (NN sensing)))))))))) (. .))

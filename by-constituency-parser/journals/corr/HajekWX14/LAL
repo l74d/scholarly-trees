@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS results)) (ADVP (RB also)) (VP (VBP lead) (PP (TO to) (NP (NP (DT the) (JJ average-case) (NN hardness) (NNS results)) (PP (IN for) (S (VP (VP (VBG recovering) (NP (DT the) (NN dense) (NN community))) (CC and) (VP (VBG approximating) (NP (DT the) (JJS densest) ($ $) (NNP K) ($ $) (NNP -subgraph))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (ADJP (RB especially) (JJ true) (PP (IN for) (NP (JJ geospatial) (JJ big) (NNS data)))) (, ,) (SBAR (IN since) (S (NP (DT the) (JJ massive) (NNS datasets)) (VP (MD must) (VP (VB be) (VP (VBN analyzed) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NN space) (CC and) (NN time))))))))))) (. .))

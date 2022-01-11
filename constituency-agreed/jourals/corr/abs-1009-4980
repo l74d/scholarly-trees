@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (MD will) (VP (VB show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN layout)) (VP (MD will) (VP (VP (VB increase) (NP (DT the) (VBG typing) (NN speed))) (CC and) (VP (VB be) (ADJP (JJ flexible) (PP (IN for) (NP (NN thumb))))))))))) (. .))
+(S (NP (NNS Approaches)) (VP (VBP have) (VP (VBN been) (VP (VBN explored) (S (VP (TO to) (VP (VB speed) (PRT (RP up)) (NP (DT the) (NN typing) (NN process)))))))) (. .))
+(S (NP (PRP We)) (VP (VBD found) (SBAR (IN that) (S (NP (DT no) (NN manufacturer)) (VP (VBZ has) (VP (VBN considered) (NP (NP (DT the) (NN frequency)) (PP (IN of) (NP (DT the) (NN alphabet))))))))) (. .))

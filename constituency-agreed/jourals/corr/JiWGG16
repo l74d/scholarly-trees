@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN confusion) (NNS matrices)) (VP (VBP are) (VP (VBN calculated) (PP (IN for) (NP (PDT all) (DT the) (NNS methods))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (NNP PGM) (NN method)) (VP (MD can) (VP (VB achieve) (NP (DT the) (JJS best) (NN performance)) (PP (IN with) (NP (DT the) (JJS highest) (JJ overall) (NN accuracy)))))))) (. .))

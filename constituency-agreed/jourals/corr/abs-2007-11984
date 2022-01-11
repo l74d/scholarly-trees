@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN motivation)) (PP (IN of) (NP (PRP$ our) (JJ unsupervised) (NN learning)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT a) (JJ robust) (NN tracker)) (VP (MD should) (VP (VB be) (ADJP (JJ effective) (PP (IN in) (NP (JJ bidirectional) (NN tracking))))))))) (. .))

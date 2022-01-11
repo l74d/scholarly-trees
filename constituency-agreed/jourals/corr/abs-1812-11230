@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN application) (NN layer)) (VP (VBZ is) (VP (VBN designed) (PP (IN into) (NP (CD two) (NNS types))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN design))) (, ,) (S (NP (DT the) (NN system) (NN sensor) (NN layer)) (VP (VBZ ensures) (NP (NP (JJ stable) (NN transmission)) (PP (IN of) (NP (JJ various) (NNS data) (CC and) (NNS instructions)))))) (, ,) (CC and) (S (NP (DT the) (NN network) (NN layer)) (VP (VBZ has) (NP (NP (DT a) (JJ high) (NN degree)) (PP (IN of) (NP (NP (NN concurrency)) (CC and) (NP (JJ real) (NN time))))))) (. .))

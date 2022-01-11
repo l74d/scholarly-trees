@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN graph)) (VP (VBZ is) (NP (DT a) (NN path) (NN graph)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (NN intersection) (NN graph)) (PP (IN of) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NP (NNS subpaths)) (PP (IN of) (NP (DT a) (NN tree)))))))))))) (. .))

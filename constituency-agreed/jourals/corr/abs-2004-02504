@@ -1,0 +1,1 @@
+(S (NP (VBN Generated) (NNS executables)) (VP (VP (VBP are) (VP (VBN stored) (PP (IN as) (NP (JJ binary) (NNS files))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN loaded) (CC and) (VBN unloaded) (ADVP (RB dynamically)))))) (. .))

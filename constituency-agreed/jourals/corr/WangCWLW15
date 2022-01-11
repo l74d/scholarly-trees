@@ -1,0 +1,2 @@
+(S (ADVP (RB Particularly)) (, ,) (NP (NP (DT the) (JJ theoretical) (NN foundation)) (PP (IN for) (NP (DT the) (VBN proposed) (NN approximation) (NN approach)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NP (DT The) (NN accuracy) (CC and) (NN efficiency)) (PP (IN of) (NP (DT the) (NN method)))) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (NP (JJ several) (JJ numerical) (NNS examples))))) (. .))

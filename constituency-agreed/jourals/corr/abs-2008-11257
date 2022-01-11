@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (ADJP (RB sufficiently) (JJ large)) (NN amount)) (PP (IN of) (NP (NNS data)))) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB build) (NP (DT a) (JJ robust) (NN sentiment) (NN classification) (NN system))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ such) (NNS resources)) (VP (VBP are) (RB not) (ADVP (RB always)) (ADJP (JJ available) (PP (PP (IN for) (NP (DT all) (NNS domains))) (CC or) (PP (IN for) (NP (DT all) (NNS languages)))))) (. .))

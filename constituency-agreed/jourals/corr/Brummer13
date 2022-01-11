@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ scalar) (NN proportionality) (NN constant)) (VP (VBZ is) (NP (DT the) (JJ only) (NN plugin) (NN parameter))) (. .))
+(S (NP (DT All) (JJ other) (NN model) (NNS parameters)) (VP (VBP are) (VP (VBN intergated) (PRT (RP out)) (PP (IN in) (NP (JJ closed) (NN form))))) (. .))

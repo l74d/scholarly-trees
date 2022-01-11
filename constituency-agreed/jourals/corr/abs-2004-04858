@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ colored) (NN string)) (VP (VBZ is) (NP (NP (DT a) (NN string)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (NN position)) (VP (VBZ is) (VP (VBN colored) (PP (IN with) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT a) (JJ finite) (NN set)) (PP (IN of) (NP (NNS colors))))))))))))) (. .))

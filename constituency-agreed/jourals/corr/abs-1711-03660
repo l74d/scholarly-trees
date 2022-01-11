@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ heterogeneous) (JJ cellular) (NN network))) (, ,) (NP (NP (NN task) (NN scheduling)) (PP (IN for) (NP (NN computation) (NN offloading)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest) (NNS challenges))))) (. .))
+(S (CC But) (NP (NP (DT the) (NN selfishness)) (PP (IN of) (NP (NN network) (NNS users)))) (VP (VBZ is) (ADVP (RB seldom)) (VP (VBN considered))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (DT the) (JJ same) (NN latent))) (, ,) (NP (DT the) (NN policy)) (VP (VBZ generates) (NP (NP (DT a) (NN trajectory)) (SBAR (WHNP (WDT which)) (S (VP (MD should) (VP (VB match) (NP (NP (DT the) (NN trajectory)) (VP (VBN predicted) (PP (IN by) (NP (DT the) (NN model))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (JJ key) (NN issue)) (SBAR (WHNP (WDT that)) (S (VP (VBZ comes) (PP (IN with) (NP (NN proximity))))))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB ensure) (SBAR (IN that) (S (NP (NNS users)) (ADVP (RB always)) (VP (VBP receive) (NP (JJ good) (NN performance)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP move) (PP (IN across) (NP (JJ different) (NNS locations)))))))))))))) (. .))
+(S (NP (NP (NNS Insights)) (VP (VBN drawn) (PP (IN from) (NP (DT the) (NN experimentation) (NNS results))))) (VP (VBP are) (VP (VBN discussed))) (. .))

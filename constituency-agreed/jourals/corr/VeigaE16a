@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN corpus)) (VP (VBZ comprises) (NP (NP (CD 850) (NNS users)) (SBAR (WHNP (WP who)) (S (VP (VBP generate) (NP (ADJP (RB predominantly) (JJ English)) (NN content))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT a) (JJ common) (NN use) (NN case)) (, ,) (NP (JJ cross-platform) (NN user) (NN identification)))) (. .))

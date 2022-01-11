@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (NP (NP (NNS mechanisms)) (SBAR (WHNP (WDT that)) (S (VP (VBP maximize) (NP (JJ social) (NN welfare))))))))) (. .))
+(S (PP (IN For) (NP (DT each) (NN mechanism))) (NP (PRP we)) (VP (VP (VBP introduce) (NP (JJ natural) (JJ optimal) (NNS strategies))) (CC and) (VP (VBP observe) (SBAR (IN that) (S (PP (IN in) (NP (DT each) (NN mechanism))) (NP (DT these) (NNS strategies)) (VP (VBP exhibit) (NP (JJ different) (NN behaviour))))))) (. .))

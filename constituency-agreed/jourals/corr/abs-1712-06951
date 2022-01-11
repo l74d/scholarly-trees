@@ -1,0 +1,2 @@
+(S (PP (VBN Compared) (PP (IN with) (NP (DT the) (JJ traditional) (NN image) (NN steganography)))) (, ,) (NP (DT this) (NN method)) (VP (VBZ does) (RB not) (VP (VB modify) (NP (NP (DT the) (NN content)) (PP (IN of) (NP (DT the) (JJ original) (NN image)))))) (. .))
+(S (ADVP (RB therefore)) (, ,) (NP (DT this) (NN method)) (VP (MD can) (VP (VB resist) (NP (NN image) (NN steganalysis) (NNS tools)) (ADVP (RB effectively)))) (. .))

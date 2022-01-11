@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (MD may) (VP (VB provide) (NP (JJ significant) (NNS speedups)) (PP (IN in) (NP (JJ different) (NN sampling) (NNS problems)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP use) (NP (DT a) (NN discriminator)) (S (VP (TO to) (VP (VB compute) (NP (NP (NN compatibility)) (PP (IN between) (NP (NN fashion) (NNS items)))))))) (. .))
+(S (NP (DT This) (NN strategy)) (VP (VBZ yields) (NP (NP (DT a) (NN compatibility) (NN prediction) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ meets) (CC or) (VBZ exceeds) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (DT the) (NN art))))))))) (. .))

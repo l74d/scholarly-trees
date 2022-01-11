@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP learn) (NP (NP (JJ stochastic) (NNS policies)) (PP (IN for) (NP (DT these) (NNS agents)))) (ADVP (RB directly)) (PP (IN from) (NP (JJ observational) (NNS data))) (, ,) (PP (IN without) (S (VP (VBG constructing) (NP (DT a) (NN reward) (NN function)))))) (. .))

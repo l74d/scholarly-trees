@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ such) (NNS models)) (VP (VBP are) (ADVP (RB often)) (VP (VBN chosen) (S (VP (TO to) (VP (VB satisfy) (NP (DT the) (NNP Markov) (NN property)) (S (VP (TO to) (VP (VB maintain) (NP (NN tractability)))))))))) (. .))

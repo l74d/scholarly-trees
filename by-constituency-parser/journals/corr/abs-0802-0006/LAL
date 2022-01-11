@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (JJ important) (NNS inequalities)) (VP (VBN associated) (PP (IN with) (NP (NN quantum) (NN entropy))))))) (VP (VBP are) (NP (NP (JJ immediate) (JJ algebraic) (NNS consequences)) (PP (IN of) (NP (DT the) (NNP Hansen-Pedersen-Jensen) (NN inequality))))) (. .))
+(S (NP (DT A) (JJ general) (NN argument)) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (JJ matrix) (NN perspective)) (PP (IN of) (NP (DT an) (NN operator) (NN convex) (NN function))))))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (DT The) (NN proxy)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN intended) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (NN place)) (PP (IN of) (NP (DT the) (NN target) (NN object))))))))))) (. .))
+(S (ADVP (RB Ideally)) (, ,) (NP (DT a) (NN proxy)) (VP (VBZ is) (RB not) (ADJP (JJ distinguishable) (PP (IN from) (NP (JJ other) (NNS objects))))) (. .))
+(S (SBAR (IN Because) (S (NP (NP (DT a) (NN proxy)) (, ,) (VP (VBG wrapping) (NP (DT a) (NN target) (NN object))) (, ,)) (VP (VBZ is) (UCP (NP (DT a) (JJ new) (NN object)) (CC and) (ADJP (JJ different) (PP (IN from) (NP (PRP$ its) (NN target)))))))) (, ,) (NP (DT the) (NN interposition)) (VP (VBZ changes) (NP (NP (DT the) (NN behaviour)) (PP (IN of) (NP (DT some) (NN core) (NNS components))))) (. .))
+(S (ADVP (RBR More) (RB precisely)) (, ,) (NP (DT the) (JJ expected) (NN result)) (VP (VBZ depends) (PP (IN on) (NP (NN use) (NN case)))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN limitation))))) (NP (PRP we)) (VP (MD will) (VP (VB discuss) (NP (NNS alternatives)))) (. .))

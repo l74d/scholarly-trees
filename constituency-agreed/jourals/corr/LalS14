@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (NN design)) (PP (IN for) (NP (JJ U-shaped) (NN microstrip) (NN patch) (NN antenna)))) (VP (VBZ is) (VP (VBN proposed) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NNP WiMAX) (NN communication) (NNS systems)))))))))) (. .))
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB optimize) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN microstrip) (NN patch) (NN antenna)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (JJ dynamical) (NN origin)) (VP (VBZ remains) (NP (DT an) (JJ open) (NN question))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN found) (SBAR (IN that) (S (S (PP (IN for) (NP (DT a) (JJ small) (NN coupling) (NN strength))) (, ,) (NP (DT the) (JJ networked) (NN system)) (VP (MD can) (RB not) (VP (VB reach) (NP (DT any) (NN synchronization))))) (CC and) (S (NP (DT the) (NN network) (NN topology)) (VP (VBZ is) (ADJP (JJ homogeneous)))))))) (. .))
+(S (ADVP (RB Meanwhile)) (, ,) (NP (DT the) (NN network) (NN topology)) (VP (VBZ becomes) (ADJP (JJ heterogeneous) (PP (IN with) (NP (JJ modular) (NNS structures))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNP Code) (NN refactoring)) (VP (VBZ is) (NP (NP (DT a) (NN process)) (PP (IN of) (S (VP (VBG changing) (NP (NP (DT the) (JJ internal) (NN structure)) (PP (IN of) (NP (DT the) (NN code)))) (PP (IN without) (S (VP (VBG altering) (NP (PRP$ its) (JJ external) (NN behavior)))))))))) (. .))

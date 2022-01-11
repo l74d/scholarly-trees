@@ -1,0 +1,2 @@
+(S (NP (NNS Benchmarks)) (VP (VBP are) (NP (NP (DT a) (JJ useful) (NN tool)) (PP (IN for) (NP (JJ empirical) (NN performance) (NNS comparisons))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (JJ initial) (NNS responses)))) (, ,) (NP (NP (DT a) (JJ few) (NNS challenges)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN considered) (PP (IN in) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (JJ realistic) (NNS benchmarks))))))))))))) (VP (MD can) (ADVP (RB already)) (VP (VB be) (VP (VBN identified)))) (. .))

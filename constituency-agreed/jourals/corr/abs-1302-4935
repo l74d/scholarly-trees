@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN algorithm)) (VP (VBG obtaining) (NP (NP (DT the) (NN identification)) (PP (IN of) (NP (DT the) (NN structure)))))) (VP (MD will) (VP (VB be) (VP (VBN suggested) (PRN (-LRB- -LRB-) (NP (NNP Castro) (CD 1995)) (-RRB- -RRB-))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN identification) (NNS parameters)) (VP (MD shall) (VP (VB be) (VP (VBN obtained) (ADVP (RB simultaneously))))) (. .))

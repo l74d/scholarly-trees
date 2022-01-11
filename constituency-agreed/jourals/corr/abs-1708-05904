@@ -1,0 +1,2 @@
+(S (NP (JJ Modern) (NNS networks)) (VP (VBP achieve) (NP (NN robustness) (CC and) (NN scalability)) (PP (IN by) (S (VP (VBG maintaining) (NP (NNS states)) (PP (IN on) (NP (PRP$ their) (NNS nodes))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNS abstractions)) (VP (VBP do) (RB not) (VP (VB lose) (NP (NN precision)) (SBAR (WHADVP (WRB when)) (S (NP (NNS middleboxes)) (VP (MD may) (VP (VB reset) (PP (IN in) (NP (DT any) (NN state)))))))))))) (. .))

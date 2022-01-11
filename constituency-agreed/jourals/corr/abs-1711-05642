@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN method)) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (JJ certain) (NN stability) (, ,) (NN accuracy) (CC and) (NN complexity))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (VBG existing) (NN literature)) (VP (VBZ does) (RB not) (VP (VB provide) (NP (DT an) (JJ appropriate) (NN comparison)))) (. .))

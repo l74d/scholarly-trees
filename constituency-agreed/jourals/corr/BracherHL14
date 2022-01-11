@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN secrecy)) (PP (IN of) (NP (NP (DT a) (VBN distributed) (NN storage) (NN system)) (PP (IN for) (NP (NNS passwords))))))) (. .))
+(S (NP (NP (DT The) (JJ legitimate) (NN receiver)) (, ,) (NP (NNP Bob)) (, ,)) (VP (VBZ observes) (NP (DT both) (NNS hints))) (. .))

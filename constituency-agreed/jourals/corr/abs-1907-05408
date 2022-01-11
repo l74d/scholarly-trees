@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (JJ timely) (NN status) (NN updating)))) (VP (VBZ is) (VP (VBN investigated) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NN cloud) (NN computing))))))) (. .))
+(S (NP (DT A) (NN scheduler)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB optimize) (NP (DT the) (NN measurement) (NN acquisition) (NNS times))))))) (. .))

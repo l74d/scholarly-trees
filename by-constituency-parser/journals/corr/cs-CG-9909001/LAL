@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (DT the) (NNP NSF-funded) (NNP Workshop)) (PP (IN on) (NP (NNP Computational) (NNP Topology))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD met) (PP (IN on) (NP (NNP June) (CD 11) (CC and) (CD 12))) (PP (IN in) (NP (NP (NNP Miami) (NNP Beach)) (, ,) (NP (NNP Florida))))))))))) (. .))
+(S (NP (DT This) (NN report)) (VP (VBZ identifies) (NP (NP (JJ important) (NNS problems)) (VP (VBG involving) (NP (DT both) (NN computation) (CC and) (NN topology))))) (. .))

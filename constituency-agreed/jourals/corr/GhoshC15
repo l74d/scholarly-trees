@@ -1,0 +1,3 @@
+(S (NP (JJ Nonhydrostatic) (NNS models)) (VP (VBP require) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (DT the) (JJ compressible) (NNP Euler) (NNS equations))))) (. .))
+(S (NP (NP (DT The) (ADJP (JJ acoustic) (CC and) (JJ advective)) (NNS components)) (PP (IN of) (NP (DT the) (JJ hyperbolic) (NN flux)))) (VP (VBP are) (VP (VBN separated) (PP (IN in) (NP (DT the) (JJ characteristic) (NN space))))) (. .))
+(S (NP (NP (DT The) (NN time) (NN step)) (PP (IN of) (NP (DT the) (JJ overall) (NN algorithm)))) (VP (VBZ is) (ADVP (RB thus)) (VP (VBN determined) (PP (IN by) (NP (DT the) (JJ advective) (NN scale))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (ADVP (RB also)) (VP (VBZ applies) (NP (NP (DT the) (NN estimate)) (PP (IN for) (NP (NN route) (NN maintenance)))) (S (VP (TO to) (VP (VB lessen) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ overhead) (NNS messages)))))))) (. .))

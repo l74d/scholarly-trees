@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN class)) (VP (VBZ has) (VP (VBN been) (ADVP (RB recently)) (VP (VBN proposed) (PP (IN as) (NP (NP (DT a) (JJ robust) (NN class)) (VP (VBG subsuming) (NP (NP (NNP CFL)) (CC and) (NP (JJ commutative) (NNP CFL))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP identify) (NP (NP (DT a) (JJ natural) (VBG corresponding) (NN automaton) (NN model)) (: :) (NP (JJ stateless) (JJ multi-pushdown) (NN automata)))) (. .))

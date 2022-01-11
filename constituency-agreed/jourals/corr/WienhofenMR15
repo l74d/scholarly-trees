@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN maturity)) (PP (IN of) (NP (DT a) (NN research) (NN field)))) (VP (MD can) (VP (VB be) (VP (VBN measured) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS publications)) (VP (VBG containing) (NP (JJ empirical) (NNS results)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (JJ current) (NN status)) (PP (IN of) (NP (NP (JJ empirical) (NN research)) (PP (IN in) (NP (NNP Big) (NNP Data))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBD addressed) (NP (NP (DT the) (NN application) (NNS areas)) (PP (IN of) (NP (NNP Big) (NNP Data))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN similarity)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (NN distance))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (, ,) (ADVP (RB mathematically)) (, ,) (SBAR (IN that) (S (NP (PRP$ our) (NN distance)) (VP (VBZ is) (ADJP (JJ metric)))))) (. .))

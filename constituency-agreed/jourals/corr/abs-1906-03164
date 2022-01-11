@@ -1,0 +1,1 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (NN research)) (VP (VBZ has) (VP (VBN demonstrated) (SBAR (IN that) (S (NP (DT these) (NNS techniques)) (VP (MD may) (VP (VB be) (ADJP (JJ robust) (PP (IN against) (NP (JJ adversarial) (NNS perturbations)))))))))) (. .))

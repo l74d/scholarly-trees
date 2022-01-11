@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN validation) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ improves) (NP (NP (DT the) (NN accuracy) (NN rate)) (PP (IN of) (NP (NP (DT the) (JJ current) (NN geolocation) (NNS methods)) (PP (IN of) (NP (JJ dictionary) (NN approach)))))) (PP (IN by) (NP (QP (RB as) (JJ much) (IN as) (CD 25)) (NN %))))))) (. .))

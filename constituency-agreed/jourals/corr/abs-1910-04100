@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ requires) (NP (NP (NP (DT a) (JJ geometric) (NN view)) (PP (IN on) (NP (DT the) (NNS varieties)))) (CONJP (RB rather) (IN than)) (NP (NP (DT an) (JJ algebraic) (NN view)) (PP (IN on) (NP (DT the) (NNS ideals)))))) (. .))
+(S (NP (NP (PRP$ Our) (NNS methods)) (PP (IN over) (NP (DT the) (JJ complex) (NNS numbers)))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NNP Gröbner) (NN basis) (NNS techniques)) (CC and) (NP (NN binomiality) (NNS tests)))))) (. .))

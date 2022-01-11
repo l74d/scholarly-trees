@@ -1,0 +1,5 @@
+(S (NP (DT The) (NN algorithm)) (ADVP (RB consecutively)) (VP (VBZ uses) (NP (NP (NN convex) (NNS hulls)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN made) (PP (IN by) (NP (NP (DT the) (NNS points)) (VP (VBG representing) (NP (DT the) (NNS objects))))))))))) (. .))
+(S (NP (DT The) (VBG existing) (NNS templates)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB provide) (NP (NP (DT a) (NN description)) (PP (IN of) (NP (DT the) (JJ new) (NN observation))))))))) (. .))
+(S (NP (DT This) (NN description)) (VP (VBZ is) (VP (VBN provided) (PP (IN in) (NP (DT the) (NNS templates) (NN space))))) (. .))
+(S (NP (DT Each) (NN template)) (VP (VBZ represents) (NP (NP (DT a) (NN dimension)) (PP (IN of) (NP (DT the) (NN feature) (NN space))))) (. .))
+(S (NP (NP (JJ Various) (NNS implementations)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBP have) (VP (VBN been) (VP (VBN compared)))) (. .))

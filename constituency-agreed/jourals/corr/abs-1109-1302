@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN time)) (PP (IN for) (S (VP (VBG adding) (NP (DT the) (JJ new) (NN database) (NN server)))))) (VP (VBZ depends) (PP (PP (IN on) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS objects))))) (, ,) (PP (IN on) (NP (DT the) (NN replication) (NN group))) (CC and) (PP (IN on) (NP (DT the) (NN network) (NNS conditions))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ pre-processing) (NN technique)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN proposed) (S (VP (TO to) (VP (VB achieve) (NP (NP (JJR better) (NNS performances)) (PP (IN of) (NP (DT the) (NN algorithm))))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT a) (JJ numerical) (NN experiment)))) (VP (VBP are) (VP (VBN reported) (S (VP (TO to) (VP (VB give) (NP (NP (DT an) (NN evidence)) (PP (IN of) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))))))))) (. .))

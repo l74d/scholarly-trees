@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (DT an) (JJ optimal) (NN control) (NN formulation))) (. .))
+(S (NP (PRP We)) (VP (VBP invert) (PP (IN for) (NP (NP (DT a) (JJ stationary) (NN velocity) (NN field)) (SBAR (WHNP (WDT that)) (S (VP (VBZ parameterizes) (NP (DT the) (NN deformation) (NN map)))))))) (. .))

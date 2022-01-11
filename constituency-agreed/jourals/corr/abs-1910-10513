@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB close) (NP (DT this) (NN gap))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ adaptive) (NN kNN) (NN method)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (JJ different) (NN k)) (VP (VBZ is) (VP (VBN selected) (PP (IN for) (NP (JJ different) (NNS samples))))))))) (. .))
+(S (NP (PRP$ Our) (NN selection) (NN rule)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (JJ precise) (NN knowledge)) (PP (IN of) (NP (NP (DT the) (JJ underlying) (NN distribution)) (PP (IN of) (NP (NNS features)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Concurrently)) (, ,) (NP (NP (JJ deep) (NN learning)) (PP (IN for) (NP (JJ semantic) (NN segmentation)))) (VP (VBZ has) (VP (VBN shown) (NP (JJ great) (NN progress)) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (NP (NP (DT Another) (JJ key) (NN advantage)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT a) (JJ single) (NN network)) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG outputting) (NP (NP (NN disparity) (NNS estimates)) (CC and) (NP (JJ semantic) (NNS labels))))))))))) (. .))

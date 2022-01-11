@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (VBN proposed) (NN emulator)) (VP (VBZ is) (ADJP (JJ flexible) (, ,) (JJ robust) (, ,) (JJ efficient)))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ preserves) (NP (NP (DT the) (NN passivity)) (PP (IN of) (NP (DT the) (JJ real) (NN device)))))) (. .))

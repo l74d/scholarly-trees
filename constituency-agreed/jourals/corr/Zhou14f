@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ supervised) (NN setting))) (, ,) (NP (JJ joint) (NN training)) (ADVP (RB also)) (VP (VBZ shows) (NP (JJ superior) (NN performance)) (SBAR (WHADVP (WRB when)) (S (VP (VBG training) (NP (JJR deeper) (NNS models)))))) (. .))

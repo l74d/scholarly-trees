@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT a) (ADJP (JJ new) (CC and) (JJ intrinsic)) (NN proof)) (PP (IN of) (NP (NP (DT an) (JJ important) (NN theorem)) (PP (IN in) (NP (NN contraction) (NN analysis)))))) (VP (VBZ is) (VP (VBN given) (PP (IN via) (NP (NP (DT the) (JJ complete) (NN lift)) (PP (IN of) (NP (DT a) (NN vector) (NN field))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this)))) (, ,) (NP (NP (CD two) (NNP Lyapunov) (NNS characterizations)) (PP (IN of) (NP (JJ incremental) (JJ stable) (NNS systems)))) (VP (VBP are) (VP (VBN derived))) (. .))

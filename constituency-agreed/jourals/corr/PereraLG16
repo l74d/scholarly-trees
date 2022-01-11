@@ -1,0 +1,2 @@
+(S (NP (CD Two) (JJ complementary) (NNS challenges)) (VP (VBP arise) (SBAR (WHADVP (WRB when)) (S (VP (VBG programming) (NP (JJ such) (NNS systems)))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ untyped) (NN language)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (JJ concurrent) (NNS objects)) (VP (VBP are) (VP (VBN checked) (ADVP (RB automatically)) (PP (IN for) (NP (NN compatibility) (CC and) (NN compliance))))))))) (. .))

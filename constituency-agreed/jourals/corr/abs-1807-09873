@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formalize) (PP (IN in) (NP (DT the) (NN proof) (NN assistant) (NNP Isabelle))) (NP (NP (JJ essential) (JJ basic) (NNS notions) (CC and) (NNS results)) (PP (IN in) (NP (JJ financial) (NNS mathematics))))) (. .))
+(S (NP (DT This)) (VP (VBZ entails) (SBAR (IN that) (S (PP (IN in) (NP (DT this) (NN model))) (, ,) (NP (DT every) (JJ derivative) (NN product)) (VP (VBZ admits) (NP (DT a) (JJ unique) (JJ fair) (NN price)))))) (. .))

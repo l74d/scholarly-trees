@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP define) (NP (NP (DT the) (JJ computational) (NN problem)) (PP (IN of) (S (VP (VBG reconstructing) (NP (DT the) (NN isoform) (NN graph))))))) (CC and) (VP (VB provide) (NP (NP (DT some) (NNS conditions)) (SBAR (WHNP (WDT that)) (S (VP (MD must) (VP (VB be) (VP (VBN met) (S (VP (TO to) (VP (VB allow) (NP (JJ such) (NN reconstruction))))))))))))) (. .))

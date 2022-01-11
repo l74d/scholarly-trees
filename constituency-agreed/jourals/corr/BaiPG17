@@ -1,0 +1,2 @@
+(S (VP (VB Consider) (NP (NP (DT a) (JJ stochastic) (NN process)) (VP (VBG being) (VP (VBN controlled) (PP (IN across) (NP (DT a) (NN communication) (NN channel))))))) (. .))
+(S (NP (NP (DT The) (NN control) (NN signal)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN transmitted) (PP (IN across) (NP (DT the) (NN control) (NN channel)))))))) (VP (MD can) (VP (VB be) (VP (VBN replaced) (PP (IN by) (NP (DT a) (JJ malicious) (NN attacker)))))) (. .))

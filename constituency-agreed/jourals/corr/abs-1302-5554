@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT these) (NNS filters)) (VP (VBP are) (NP (NP (JJ fractional) (JJ Laplacian) (NNS wavelets)) (VP (VBN composed) (PP (IN with) (NP (DT the) (NNP Leray) (NN projector))))))))) (. .))
+(S (SBAR (IN Although) (S (NP (DT the) (JJ latter) (NN decomposition)) (VP (VBZ involves) (NP (VBN correlated) (NN wavelet) (NNS coefficients))))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB handle) (NP (DT this) (NN dependence)) (PP (IN in) (NP (NN practice)))))))) (. .))

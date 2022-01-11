@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Requirements)) (PP (IN for) (NP (JJ medical) (NN watermarking)))) (VP (MD will) (VP (VB be) (VP (VBN discussed)))) (. .))
+(S (NP (DT The) (NN purpose)) (VP (VBZ is) (S (VP (TO to) (VP (VB verify) (NP (NP (DT the) (NN integrity) (CC and) (NN authenticity)) (PP (IN of) (NP (NNP DICOM) (NNS images)))))))) (. .))

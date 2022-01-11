@@ -1,0 +1,1 @@
+(S (NP (DT All) (NNS experiments)) (VP (VBP are) (VP (VBN done) (PP (IN in) (NP (DT a) (JJ simulated) (NN cloud) (NN environment))) (PP (IN by) (NP (DT the) (NNP CloudSim) (NN simulation) (NN tool))))) (. .))

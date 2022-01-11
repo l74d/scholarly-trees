@@ -1,0 +1,2 @@
+(S (ADVP (RB Accordingly)) (, ,) (NP (DT some) (JJ powerful) (NN defense) (NNS techniques)) (VP (VBD were) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (NN image) (NN entropy)) (VP (VBZ is) (VP (VBN employed) (PP (IN as) (NP (DT a) (JJ metric))) (S (VP (TO to) (VP (VB implement) (NP (DT an) (JJ adaptive) (NN noise) (NN reduction)) (PP (IN for) (NP (NP (JJ different) (NNS kinds)) (PP (IN of) (NP (NNS images)))))))))) (. .))

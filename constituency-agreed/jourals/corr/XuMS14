@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NN interference) (NN alignment)) (VP (VBD was) (VP (VBN proposed) (S (VP (TO to) (VP (VB exploit) (NP (NN interference)) (S (VP (TO to) (VP (VB enable) (NP (NP (JJ concurrent) (NNS transmissions)) (PP (IN of) (NP (JJ multiple) (NNS signals)))))))))))) (. .))
+(S (NP (NP (DT The) (JJ superior) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN scheme)))) (VP (VBZ is) (VP (VBN validated) (PP (IN with) (NP (NNS simulations))))) (. .))

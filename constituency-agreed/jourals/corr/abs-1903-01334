@@ -1,0 +1,2 @@
+(S (NP (JJ Local) (NNS approaches)) (VP (MD might) (VP (VB help) (S (VP (VP (TO to) (VP (VB relieve) (NP (DT these) (NNS issues)))) (CC and) (VP (TO to) (VP (VB improve) (NP (JJ statistical) (NN accuracy)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN shown) (SBAR (IN that) (S (NP (DT these) (JJ local) (NNS approaches)) (VP (VBP are) (ADJP (JJ consistent) (CC and) (JJ robust)) (PP (IN in) (NP (DT a) (JJ basic) (NN sense))))))))) (. .))

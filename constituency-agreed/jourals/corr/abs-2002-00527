@@ -1,0 +1,2 @@
+(S (NP (JJ Australian) (NNS languages)) (VP (VBP have) (VP (VBN been) (VP (VBN characterized) (PP (IN as) (S (VP (VBG having) (NP (NP (DT a) (JJ high) (NN degree)) (PP (IN of) (NP (JJ phonotactic) (NN homogeneity)))))))))) (. .))
+(S (ADVP (RB Nevertheless)) (, ,) (NP (PRP we)) (VP (VBP detect) (NP (JJ phylogenetic) (NN signal)) (PP (IN in) (NP (DT all) (NNS datasets)))) (. .))

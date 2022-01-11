@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN trained) (PP (IN on) (NP (NP (DT the) (NNP FFHQ) (NN dataset)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBD labeled) (PP (IN for) (NP (NP (NNS ages)) (, ,) (NP (NN gender)) (, ,) (CC and) (NP (JJ semantic) (NN segmentation))))))))))) (. .))

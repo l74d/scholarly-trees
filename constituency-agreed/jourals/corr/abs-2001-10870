@@ -1,0 +1,2 @@
+(S (NP (NNP Quantum) (NNS computers)) (VP (VBP are) (VP (VBG becoming) (ADJP (RBR more) (JJ mainstream)))) (. .))
+(S (SBAR (IN As) (S (NP (JJR more) (NNS programmers)) (VP (VBP are) (VP (VBG starting) (S (VP (TO to) (VP (VB look) (PP (IN at) (S (VP (VBG writing) (NP (NN quantum) (NNS programs)))))))))))) (, ,) (NP (PRP they)) (VP (VBP face) (NP (NP (DT an) (JJ inevitable) (NN task)) (PP (IN of) (S (VP (VBG debugging) (NP (PRP$ their) (NN code))))))) (. .))

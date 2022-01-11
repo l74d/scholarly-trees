@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT those) (NNS weights)) (VP (MD can) (VP (VB be) (VP (VBN approximated)))))) (, ,) (NP (DT the) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN trained) (S (VP (TO to) (VP (VB differentiate) (PP (IN between) (NP (ADJP (JJ strong) (CC and) (JJ weak)) (NNS relations))))))))) (. .))

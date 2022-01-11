@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Solomonoff) (POS 's)) (JJ inductive) (NN learning) (NN model)) (VP (VBZ is) (NP (NP (DT a) (ADJP (ADJP (JJ powerful)) (, ,) (ADJP (JJ universal)) (CC and) (ADJP (RB highly) (JJ elegant))) (NN theory)) (PP (IN of) (NP (NN sequence) (NN prediction))))) (. .))
+(S (NP (PRP$ Its) (JJ critical) (NN flaw)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VP (VBZ is) (ADJP (JJ incomputable))) (CC and) (ADVP (RB thus)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NN practice)))))))))) (. .))

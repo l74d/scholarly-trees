@@ -1,0 +1,1 @@
+(S (NP (JJ Scalable) (NN learning) (NNS algorithms)) (VP (VBP are) (VP (VBN derived) (S (VP (VBG using) (NP (NP (DT the) (JJ stochastic) (NN gradient) (NN descent) (NN algorithm)) (CC and) (NP (JJ negative) (NN sampling))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN signal) (NN flow)) (SBAR (WHNP (WDT which)) (S (VP (VBZ specifies) (NP (DT the) (NN model) (NN implementation)))))) (VP (VBZ is) (VP (VBN provided) (PP (IN in) (NP (NP (NN form)) (PP (IN of) (NP (DT the) (NN block) (NN diagram))))))) (. .))

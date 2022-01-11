@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN spacecraft)) (VP (VBZ is) (VP (VBN equipped) (PP (IN with) (NP (NP (DT a) (NN fibre) (NN laser)) (CC and) (NP (DT a) (JJ solar) (NN concentrator)))))) (. .))
+(S (NP (DT The) (NN laser)) (VP (VBZ induces) (NP (NP (DT the) (NN sublimation)) (PP (IN of) (NP (NP (DT a) (NN portion)) (PP (IN of) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN asteroid))))))))) (. .))

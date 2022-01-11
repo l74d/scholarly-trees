@@ -1,0 +1,2 @@
+(S (NP (NN Score) (NN matching)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN method)) (PP (IN for) (S (VP (VBG estimating) (NP (JJ unnormalized) (JJ statistical) (NNS models))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (DT this) (NN difficulty)) (VP (MD can) (VP (VB be) (VP (VBN mitigated) (PP (IN by) (S (VP (VBG projecting) (NP (DT the) (NNS scores)) (PP (IN onto) (NP (JJ random) (NNS vectors))) (PP (IN before) (S (VP (VBG comparing) (NP (PRP them)))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP consider) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (NP (VBG computing) (NNS allocations)) (VP (VBG minimizing) (NP (NN inequality))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP run) (NP (NNS experiments)) (S (VP (TO to) (VP (VB explore) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT these) (NNS methods)))))))) (. .))

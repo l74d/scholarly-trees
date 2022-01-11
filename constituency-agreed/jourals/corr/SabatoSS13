@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (JJ binary) (NN classification)) (PP (IN in) (NP (NP (DT an) (JJ extreme) (NN case)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN algorithm)) (ADVP (RB only)) (VP (VBZ pays) (PP (IN for) (NP (JJ negative) (NNS labels))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (NNP Bregman) (NN divergence) (CC and) (NN sufficiency)))) (VP (MD will) (VP (VB be) (VP (VBN defined) (PP (IN on) (NP (JJ general) (NN convex) (NN state) (NNS spaces)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN demonstrated) (SBAR (IN that) (S (NP (RB only) (JJ spectral) (NNS sets)) (VP (MD can) (VP (VB have) (NP (NP (DT a) (NNP Bregman) (NN divergence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ satisfies) (NP (DT a) (NN sufficiency) (NN condition)))))))))))) (. .))

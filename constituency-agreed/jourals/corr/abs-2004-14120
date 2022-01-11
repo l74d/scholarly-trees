@@ -1,0 +1,2 @@
+(SBARQ (ADVP (RB Also)) (, ,) (WHADVP (WRB how)) (SQ (VBP do) (NP (DT these) (JJ automatic) (NNS orderings)) (VP (VBP compare) (PP (IN with) (NP (NP (DT the) (JJ actual) (NN behaviour)) (PP (IN of) (NP (JJ human) (NNS translators))))))) (. ?))
+(S (NP (JJ Current) (NNS models)) (VP (VP (VBP rely) (PP (IN on) (NP (ADJP (RB manually) (VBN built)) (NNS biases)))) (CC or) (VP (VBP are) (VP (VBN left) (S (VP (TO to) (VP (VB explore) (NP (DT all) (NNS possibilities)) (PP (IN on) (NP (PRP$ their) (JJ own))))))))) (. .))

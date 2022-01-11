@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (PP (IN as) (PP (IN in) (NP (NNP MV)))) (, ,) (NP (NP (DT each) (NN edge)) (PP (IN of) (NP (DT the) (NN path)))) (VP (MD can) (VP (VB be) (VP (VBN computed) (S (VP (VBG using) (NP (NP (DT a) (JJ single) (NN iteration)) (PP (IN over) (NP (DT the) (NNP Voronoi) (JJ relevant) (NNS vectors))))))))) (. .))

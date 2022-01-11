@@ -1,0 +1,3 @@
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN examined) (PP (IN from) (NP (NP (DT the) (NN point)) (PP (IN of) (NP (NP (NN view)) (PP (IN of) (NP (NN cost) (, ,) (NN complexity) (, ,) (CC and) (NN application))))))))) (. .))
+(S (NP (NP (DT The) (NNS advantages) (CC and) (NNS issues)) (PP (IN of) (NP (JJ multi-layer) (NN survivability)))) (VP (VBP have) (VP (VBN been) (VP (VBN identified)))) (. .))
+(S (NP (DT The) (JJ main) (NN idea)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (JJ optical) (NN layer)) (VP (MD can) (VP (VB provide) (NP (JJ fast) (NN protection)) (SBAR (IN while) (S (NP (DT the) (JJR higher) (NNS layers)) (VP (MD can) (VP (VB provide) (NP (JJ intelligent) (NN restoration))))))))))) (. .))

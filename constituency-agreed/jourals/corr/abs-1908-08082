@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP build) (PP (IN upon) (NP (NP (NNP Horovod)) (: :) (NP (NP (DT an) (JJ open) (NN source) (NN ring) (NN architecture) (NN framework)) (PP (IN over) (NP (NNP TensorFlow))))))) (. .))

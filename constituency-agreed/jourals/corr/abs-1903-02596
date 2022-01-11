@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (NNP GPU) (NN device) (NN memory)) (VP (VBZ tends) (S (VP (TO to) (VP (VB be) (ADJP (RB relatively) (JJ small))))))) (CC and) (S (NP (DT the) (NN memory) (NN capacity)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN increased) (PP (IN by) (NP (DT the) (NN user))))))) (. .))

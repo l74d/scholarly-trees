@@ -1,0 +1,1 @@
+(S (S (VP (VBG Learning) (NP (NP (JJ new) (NNS representations)) (PP (IN of) (NP (NN input) (NNS observations)))) (PP (IN in) (NP (NN machine) (NN learning))))) (VP (VBZ is) (ADVP (RB often)) (VP (VBN tackled) (S (VP (VBG using) (NP (NP (DT a) (NN factorization)) (PP (IN of) (NP (DT the) (NNS data)))))))) (. .))

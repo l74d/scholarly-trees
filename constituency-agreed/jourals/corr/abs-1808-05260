@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN reality))) (, ,) (NP (PRP they)) (VP (MD could) (RB not) (VP (VB be) (ADJP (RBR more) (JJ different)))) (. .))
+(S (PP (IN Along) (NP (DT the) (NN way))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (JJ asymptotic) (NN normality)) (PP (IN of) (NP (DT the) (NN test) (NN statistic)))) (PP (IN under) (NP (NP (PRP$ our) (JJ null) (NN model)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (IN of) (NP (JJ independent) (NN interest))))))))) (. .))

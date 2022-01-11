@@ -1,0 +1,1 @@
+(S (NP (NP (CD Two) (NNS methods)) (SBAR (S (VP (TO to) (VP (VB integrate) (NP (DT this) (JJ new) (NN regularization)) (PP (IN in) (NP (DT the) (JJ stochastic) (NN backpropagation)))))))) (VP (VBP are) (VP (VBN proposed))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (S (VP (VBG understanding) (NP (NP (DT the) (JJ collective) (JJ human) (NN behavior)) (PP (IN of) (NP (JJ urban) (NN city))))))) (, ,) (NP (DT the) (NN modeling) (NNS techniques)) (VP (MD could) (VP (VB be) (VP (VBN used)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN study))) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN feature)) (PP (IN of) (NP (JJ human) (NN mobility)))) (VP (VBZ is) (VP (VBN considered) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN radius)) (PP (IN of) (NP (NN gyration))))))))) (. .))

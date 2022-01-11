@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN application) (NN example)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given) (PP (IN for) (NP (NP (JJ practical) (NNS guidelines)) (PP (IN of) (NP (NP (JJ perfect) (NN recovery)) (PP (IN of) (NP (NN quaternion) (NNS signals))))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (MD may) (VP (VB find) (NP (PRP$ its) (JJ potential) (NN application)) (SBAR (WHADVP (WRB when)) (S (NP (NNP CS) (NN theory)) (VP (VBZ meets) (NP (DT the) (NN quaternion) (NN signal) (NN processing))))))) (. .))

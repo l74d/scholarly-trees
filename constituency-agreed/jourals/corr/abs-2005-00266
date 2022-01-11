@@ -1,0 +1,2 @@
+(S (ADVP (RB Clearly)) (, ,) (NP (DT any) (JJ non-trivial) (NN template)) (VP (VBZ has) (NP (NP (NNS instances)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (RB not) (ADJP (JJ sensitive))))))) (. .))
+(S (S (NP (DT Both) (NNS conditions)) (VP (MD can) (VP (VB be) (VP (VBN characterized) (PP (IN by) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT a) (JJ near) (NN unanimity) (NN operation))))))))) (, ,) (CC but) (S (NP (NP (DT the) (NNS arities)) (PP (IN of) (NP (DT the) (NNS operations)))) (VP (VBP differ) (PP (IN by) (NP (CD 1))))) (. .))

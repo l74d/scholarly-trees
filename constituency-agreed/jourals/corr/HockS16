@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NN stability)) (VP (VBZ is) (RB not) (VP (VBN affected) (PP (IN by) (NP (NP (DT a) (JJ linear) (JJ dynamic) (NN coupling)) (PP (IN between) (NP (NNS neighbors)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB use) (NP (DT an) (JJ additional) (NN consensus) (NN feedback) (NN controller)) (S (VP (TO to) (VP (VB compensate) (PP (IN for) (NP (JJ non-repetitive) (NNS disturbances)))))))))) (. .))

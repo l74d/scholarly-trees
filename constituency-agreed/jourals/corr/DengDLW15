@@ -1,0 +1,2 @@
+(S (NP (NNP Quantum) (NN game) (NN theory)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (JJ interdisciplinary) (NN field)) (PP (IN between) (NP (NP (NN game) (NN theory)) (CC and) (NP (JJ physical) (NN research)))))) (. .))
+(S (NP (PRP$ Our) (NN result)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN quantum) (NN inspection) (NN game)) (VP (VBZ has) (NP (JJ various) (NNP Nash) (NN equilibrium)) (PP (VBG depending) (PP (IN on) (NP (NP (DT the) (JJ initial) (NN quantum) (NN state)) (PP (IN of) (NP (DT the) (NN game)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Namely)) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB acquire) (NP (JJ non-instantaneous) (NNS samples)) (PP (IN at) (NP (JJ random) (NNS times))))))) (. .))
+(S (ADVP (RB Mathematically)) (, ,) (NP (DT this)) (VP (VBZ is) (VP (VBN implemented) (PP (IN by) (S (VP (VBG acquiring) (NP (NP (DT a) (JJ small) (JJ random) (NN subset)) (PP (IN of) (NP (NNP Gabor) (NNS coefficients))))))))) (. .))

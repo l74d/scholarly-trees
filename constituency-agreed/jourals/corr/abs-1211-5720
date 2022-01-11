@@ -1,0 +1,2 @@
+(S (S (VP (VBG Sensing) (NP (DT the) (JJ primary) (NN transmitter)))) (VP (VBZ does) (RB not) (VP (VB help) (PP (IN in) (NP (DT this) (NN regard))))) (. .))
+(S (S (VP (VBG Assuming) (NP (NP (DT a) (JJ primary) (NN channel) (NN state)) (SBAR (WHNP (WDT that)) (S (VP (VBZ follows) (NP (DT a) (NNP Markov) (NN chain)))))))) (, ,) (NP (DT this) (NN feedback)) (VP (VBZ gives) (NP (DT the) (JJ cognitive) (NN radio)) (NP (NP (DT an) (NN indication)) (PP (IN of) (NP (DT the) (JJ primary) (NN link) (NN quality))))) (. .))

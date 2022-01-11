@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN approach)) (PP (TO to) (NP (NP (NN evaluation)) (PP (IN of) (NP (NN hardware) (CC and) (NN software) (NN testability))))) (, ,) (VP (VBN represented) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NN register) (NN transfer) (NN graph)))))) (, ,)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (NNS Instances)) (PP (IN of) (NP (NP (VBG making)) (PP (IN of) (NP (NN software) (NN graph) (NNS models))) (PP (IN for) (NP (PRP$ their) (JJ subsequent) (NN testing) (CC and) (NN diagnosis)))))) (VP (VBP are) (VP (VBN shown))) (. .))

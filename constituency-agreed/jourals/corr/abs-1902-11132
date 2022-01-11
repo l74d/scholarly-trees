@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT a) (JJ generative) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB map) (NP (DT a) (JJ compact) (NN code)) (PP (IN into) (NP (DT an) (NN image)))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT these) (NNS proofs))) (, ,) (NP (NP (DT the) (NN graph)) (VP (VBG underlying) (NP (DT a) (NN proof)))) (VP (VP (VBZ is) (RB not) (NP (DT a) (JJ finite) (NN tree))) (CC but) (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB contain) (NP (NNS cycles)))))))) (. .))

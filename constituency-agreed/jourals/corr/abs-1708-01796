@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NN software) (NNS requirements)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN written) (PP (IN in) (NP (DT some) (JJ natural) (NN language)))))) (, ,) (CC and) (S (NP (DT the) (NN analysis) (NN modeling)) (VP (VBZ is) (ADVP (RB normally)) (VP (VBN performed) (PP (IN by) (NP (JJ experienced) (JJ human) (NNS analysts)))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ works) (PP (IN in) (NP (CD four) (NNS steps)))) (. .))

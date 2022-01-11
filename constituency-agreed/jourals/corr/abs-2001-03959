@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (NN status) (NN update) (NN system)) (VP (VBG consisting) (PP (IN of) (NP (NP (CD two) (JJ independent) (NNS sources)) (, ,) (NP (CD one) (NN server)) (, ,) (CC and) (NP (CD one) (NN sink))))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (DT the) (VBG following) (NN packet) (NN management) (NN policy))) (. .))

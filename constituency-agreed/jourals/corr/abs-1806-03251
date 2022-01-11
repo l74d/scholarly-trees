@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN questionnaire)) (ADVP (RB primarily)) (VP (VBZ involves) (NP (NP (DT the) (NN perception)) (PP (IN of) (NP (NP (NN evaluation)) (PP (IN of) (NP (NN supplier))))))) (. .))
+(S (NP (DT The) (NN research)) (ADVP (RB also)) (VP (VBD depicted) (SBAR (IN that) (S (NP (NN supplier) (NN evaluation)) (VP (VBZ has) (NP (NP (DT a) (JJ significant) (NN influence)) (PP (IN on) (NP (NN process) (NN improvement)))))))) (. .))
+(S (NP (JJ Many) (NNS researchers)) (VP (VBP have) (VP (VBN considered) (NP (NN quality) (, ,) (NN cost) (CC and) (NN delivery)) (PP (IN as) (NP (NP (DT the) (NNS factors)) (PP (IN for) (S (VP (VBG evaluating) (NP (DT the) (NNS suppliers))))))))) (. .))

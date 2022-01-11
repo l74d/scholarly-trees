@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN agent)) (VP (VBZ wishes) (S (VP (TO to) (VP (VB generate) (NP (DT the) (ADJP (JJS longest) (JJ possible)) (JJ individual) (NN key)) (PP (IN with) (NP (DT the) (NN base) (NN station))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ public) (NN communication))))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (DT an) (JJ explicit) (NN coding) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ achieves) (NP (JJ such) (NNS allocations)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

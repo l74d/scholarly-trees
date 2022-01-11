@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (JJ large) (NNS datasets)))) (VP (VP (VBP are) (VP (VBN maintained) (PP (IN by) (NP (JJ private) (NNS companies))))) (CC and) (VP (VBP are) (RB not) (ADJP (RB publicly) (JJ available)))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (JJ large) (NN dataset)) (VP (MD can) (VP (VB be) (VP (VBN collected) (CC and) (VBN annotated) (S (VP (VBG using) (NP (NP (JJ human) (NNS annotators)) (CC and) (NP (JJ deep) (NNS networks))))))))))) (. .))

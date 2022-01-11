@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN prediction)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (ADJP (RB possibly) (JJ inaccurate)) (NN discretization)) (PP (IN of) (NP (DT the) (JJ nonlinear) (NN system) (NNS dynamics))))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN on) (NP (JJ simple) (NN hardware))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (ADVP (RB furthermore)) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN prediction)) (VP (MD can) (VP (VB be) (VP (VBN implemented))))))) (. .))

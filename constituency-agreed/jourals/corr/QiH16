@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NNS noises)) (VP (MD can) (VP (VB be) (VP (VBN regarded) (PP (IN as) (NP (NP (DT the) (JJ intrinsic) (NN fingerprint) (NNS traces)) (PP (IN of) (NP (DT an) (JJ audio) (NN recording) (NN device)))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (PP (IN in) (NP (PRP$ our) (NN research))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT the) (NN noise)) (PP (IN as) (NP (DT the) (JJ intrinsic) (NNS features)))) (. .))

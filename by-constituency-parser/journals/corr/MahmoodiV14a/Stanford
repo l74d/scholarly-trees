@@ -1,0 +1,4 @@
+(S (ADVP (RB Currently)) (NP (EX there)) (VP (VBP are) (NP (NP (NNS lots)) (PP (IN of) (NP (NN plagiarism) (NN detection) (NNS approaches))))) (. .))
+(S (CC But) (NP (NP (JJ few)) (PP (IN of) (NP (PRP them)))) (VP (VBD implemented) (CC and) (VBD adapted) (PP (IN for) (NP (NNP Persian) (NNS languages)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (NP (PRP$ our) (NN work)) (PP (IN on) (S (VP (VBG designing))))) (CC and) (NP (NP (NN implementation)) (PP (IN of) (NP (NP (DT a) (NN plagiarism) (NN detection) (NN system)) (PP (VBN based) (PP (IN on) (NP (NP (JJ pre-processing)) (CC and) (NP (NN NLP) (NNS technics))))))))) (VP (MD will) (VP (VB be) (VP (VBN described)))) (. .))
+(S (CC And) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (NN testing)) (PP (IN on) (NP (DT a) (NN corpus)))))) (VP (MD will) (VP (VB be) (VP (VBN presented)))) (. .))

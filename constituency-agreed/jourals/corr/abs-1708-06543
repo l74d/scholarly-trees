@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT the) (JJ second) (NN step))) (, ,) (NP (DT the) (NNS dynamics)) (VP (VBP are) (VP (VBN decomposed) (PP (IN over) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ parallel) (JJ orthogonal) (NNS branches))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN repeated) (PP (IN for) (NP (NP (DT each) (NN branch)) (PP (IN of) (NP (DT the) (NN model))))))) (. .))
+(S (NP (NP (DT The) (NN consistency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN initialization) (NN procedure)))) (VP (VBZ is) (VP (VBN proven))) (. .))

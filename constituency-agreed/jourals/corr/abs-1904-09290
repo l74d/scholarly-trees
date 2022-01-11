@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN need)) (PP (IN for) (S (VP (VP (VBG improving) (NP (DT the) (NN performance))) (CC and) (VP (VBG reducing) (NP (DT the) (NN complexity)))))))) (. .))
+(S (ADVP (RB Meanwhile)) (, ,) (NP (DT the) (NNP MMFD) (NN dataset)) (VP (VBZ is) (VP (VBN collected) (S (VP (TO to) (VP (VB provide) (NP (JJR more) (NNS attacks) (CC and) (NN diversity)) (S (VP (TO to) (VP (VB gain) (NP (JJR better) (NN generalization)))))))))) (. .))

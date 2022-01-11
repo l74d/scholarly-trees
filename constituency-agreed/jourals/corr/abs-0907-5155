@@ -1,0 +1,3 @@
+(S (NP (NN Classification)) (VP (VBZ is) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NN cognition))))) (. .))
+(S (PP (IN Unlike) (NP (JJ other) (NNS solutions))) (, ,) (NP (DT this) (NN study)) (VP (VBZ approaches) (NP (PRP it)) (PP (IN from) (NP (NP (DT the) (NN view)) (PP (IN of) (NP (NNS outliers)))))) (. .))
+(S (NP (DT The) (JJ corresponding) (NN result)) (VP (VBZ implies) (NP (NP (DT the) (JJ potential) (JJ wide) (NN use)) (PP (IN of) (NP (DT the) (VBG expanding) (NN algorithm))))) (. .))

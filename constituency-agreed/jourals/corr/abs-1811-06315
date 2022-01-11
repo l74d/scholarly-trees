@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS models)) (VP (VBP require) (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (NNS data))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (NP (NNS data)) (PP (IN from) (NP (CD one) (NN speaker)))))) (VP (MD can) (VP (VB be) (VP (VBN compensated) (PP (IN with) (NP (NP (NNS data)) (PP (IN from) (NP (JJ other) (NNS speakers))))))))))) (. .))

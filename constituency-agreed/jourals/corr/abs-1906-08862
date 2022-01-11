@@ -1,0 +1,1 @@
+(S (NP (NP (DT These) (NNS models)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP use) (NP (DT the) (NN memory)) (S (VP (TO to) (VP (VB store) (NP (NNS data)) (PP (IN for) (NP (DT a) (JJ neural) (NN controller))))))))) (, ,)) (VP (MD can) (VP (VB learn) (NP (NP (NNS algorithms)) (CC and) (NP (JJ other) (JJ complex) (NNS tasks))))) (. .))

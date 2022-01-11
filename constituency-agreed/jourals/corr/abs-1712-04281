@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT this)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB conclude) (SBAR (IN that) (S (NP (NP (DT the) (VBG interleaving) (NN distance)) (PP (IN of) (NP (NN interval) (JJ decomposable) (NNS modules)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN characteristic)) (PP (IN of) (NP (DT the) (NN field)))))))))))) (. .))
+(S (NP (NP (NN Persistence) (NNS modules)) (VP (VBN valued) (PP (IN in) (NP (NP (DT the) (NN category)) (PP (IN of) (NP (NNS sets))))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN studied))) (. .))

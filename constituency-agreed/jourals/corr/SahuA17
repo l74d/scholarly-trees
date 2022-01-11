@@ -1,0 +1,1 @@
+(S (NP (DT All) (CD three) (NNS models)) (VP (VP (VBP utilize) (NP (NN word) (CC and) (NN position) (NN embedding)) (PP (IN as) (NP (NN latent) (NNS features)))) (CC and) (ADVP (RB thus)) (VP (VBP do) (RB not) (VP (VB rely) (PP (IN on) (NP (JJ explicit) (NN feature) (NN engineering)))))) (. .))

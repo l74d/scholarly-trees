@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ significant) (NN number)) (PP (IN of) (NP (JJ current) (JJ industrial) (NNS applications)))) (VP (VBP rely) (PP (IN on) (NP (NN web) (NNS services)))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT those) (NNS services)) (VP (MD can) (VP (VB be) (VP (VBN composed) (S (VP (TO to) (VP (VB perform) (NP (JJ specific) (NNS functionalities)))))))) (. .))

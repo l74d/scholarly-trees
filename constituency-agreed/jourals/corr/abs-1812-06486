@@ -1,0 +1,2 @@
+(SQ (CC or) (MD could) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VB be) (ADJP (RB equally) (JJ good))) (. ?))
+(S (NP (DT This)) (VP (VBZ provides) (NP (NP (DT a) (JJ partial) (NN explanation)) (PP (IN for) (NP (NP (DT the) (JJ successful) (NN application)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks))))))) (. .))

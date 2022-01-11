@@ -1,0 +1,1 @@
+(S (NP (NP (DT Each) (NN pair)) (PP (IN of) (NP (NN program) (NNS versions)))) (VP (VBZ passes) (PP (IN through) (NP (NP (DT a) (NN pipeline)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT an) (NN attempt)) (PP (IN of) (S (VP (VBG reproducing) (NP (NP (DT a) (NN bug)) (CC and) (NP (PRP$ its) (NN patch))))))) (VP (VBZ is) (VP (VBN performed)))))))) (. .))

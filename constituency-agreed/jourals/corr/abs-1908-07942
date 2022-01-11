@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN system) (NN architecture)) (, ,) (NP (NN training) (NNS models)) (CC and) (NP (NN overparametrization))) (VP (MD can) (VP (VB address) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN device) (NNS limitations))))))))) (. .))

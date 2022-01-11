@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ fuzzy) (NN clustering) (NN model)) (PP (IN for) (NP (NP (JJ fuzzy) (NNS data)) (PP (IN with) (NP (NNS outliers)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (NNP Keller) (POS 's)) (NN approach)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VP (VB identify) (NP (NNS outliers))) (CC and) (VP (VB reduce) (NP (PRP$ their) (NNS influences)))))))) (. .))

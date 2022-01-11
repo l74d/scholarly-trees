@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN technique))) (, ,) (NP (NP (CD 8) (NNS bits)) (PP (IN of) (NP (NP (JJ blue) (NNS components)) (PP (IN of) (NP (NNS pixels)))))) (VP (VBP are) (VP (VBN replaced) (PP (IN with) (NP (JJ secret) (NNS data) (NNS bits))))) (. .))
+(S (S (VP (TO To) (VP (VB prove) (NP (DT this) (NN scheme))))) (, ,) (NP (JJ several) (NNS experiments)) (VP (VP (VBP are) (VP (VBN performed))) (, ,) (CC and) (VP (VBP are) (VP (VBN compared) (NP (DT the) (JJ experimental) (NNS results)) (PP (IN with) (NP (DT the) (JJ related) (JJ previous) (NNS works)))))) (. .))

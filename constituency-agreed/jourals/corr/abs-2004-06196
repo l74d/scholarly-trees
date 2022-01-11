@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN framework)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NP (DT the) (JJ dynamical) (NN system) (POS 's)) (NN viewpoint)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ formulates) (NP (DT a) (NNP ResNet)) (PP (IN as) (NP (NP (DT the) (NN discretization)) (PP (IN of) (NP (DT an) (JJ initial) (NN value) (NN problem)))))))))))) (. .))

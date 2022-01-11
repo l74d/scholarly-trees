@@ -1,0 +1,3 @@
+(S (NP (NNP Network) (NN softwarization)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ major) (NN paradigm) (NNS shifts)) (PP (IN in) (NP (NP (DT the) (JJ next) (NN generation)) (PP (IN of) (NP (NNS networks))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ enables) (NP (NP (ADJP (JJ programmable) (CC and) (JJ flexible)) (NN management) (CC and) (NN deployment)) (PP (IN of) (NP (DT the) (NN network))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NN network) (NN softwarization))))) (. .))

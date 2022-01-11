@@ -1,0 +1,2 @@
+(S (NP (JJ Efficient) (NN update) (NNS rules)) (VP (VBP are) (VP (VBN derived) (S (VP (TO to) (VP (VB solve) (NP (DT both) (NN optimization) (NNS problems))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (DT the) (JJ integrated) (NN method)))) (VP (VBZ is) (VP (VBN presented) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ exploits) (NP (NP (DT the) (JJ temporal) (NNS dependencies)) (PP (IN of) (NP (DT the) (NN speech) (NN signal))))))))) (. .))

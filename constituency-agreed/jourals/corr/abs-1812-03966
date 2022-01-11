@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBD created) (NP (JJ smart) (NN home) (NN environment)) (PP (IN in) (NP (NNP Simulink)))) (CC and) (VP (VBD showed) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNS conflicts)) (VP (VBP affect) (NP (NP (NNS actions)) (CC and) (NP (VBG corresponding) (NNS features)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN experimented) (NP (NP (DT the) (NN scalability) (, ,) (NN efficiency) (, ,) (CC and) (NN accuracy)) (PP (IN of) (NP (PRP$ our) (NN method)))) (PP (IN in) (NP (DT the) (JJ simulated) (NN environment))))) (. .))

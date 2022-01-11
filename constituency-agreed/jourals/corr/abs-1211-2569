@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NN landmark) (NNS constraints)) (VP (VBP are) (VP (VBN enforced))))) (, ,) (NP (JJ conformal) (NNS mappings)) (ADVP (RB generally)) (VP (VBP do) (RB not) (VP (VB exist))) (. .))
+(S (NP (DT This)) (VP (VBZ motivates) (S (NP (PRP us)) (VP (TO to) (VP (VB look) (PP (IN for) (NP (NP (DT a) (JJ unique) (NN landmark)) (VP (VBG matching) (NP (NP (JJ quasi-conformal) (NN registration)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ minimizes) (NP (DT the) (NN conformality) (NN distortion))))))))))))) (. .))

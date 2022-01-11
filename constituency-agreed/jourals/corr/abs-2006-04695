@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (JJ live) (NN demo)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (NNP LDP)) (VP (MD can) (VP (VB prevent) (NP (JJ untrusted) (NNS aggregators)) (PP (IN from) (S (VP (VBG recovering) (NP (JJ sensitive) (NN training) (NNS data)))))))))) (. .))

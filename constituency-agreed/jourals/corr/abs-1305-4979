@@ -1,0 +1,1 @@
+(S (NP (JJ Semi-definite) (NN relaxation)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB transform) (NP (DT the) (VBN proposed) (NN formulation)) (PP (IN into) (NP (NP (DT a) (NN convex) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB efficiently)))))))))))))) (. .))

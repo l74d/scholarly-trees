@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN contribution)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (ADJP (JJ twofold))) (. .))
+(S (NP (DT This) (NN view)) (VP (VBZ acts) (PP (IN as) (NP (NP (DT a) (NN proxy)) (PP (IN for) (NP (NP (NNS data)) (VP (VBN stored) (PP (IN in) (NP (DT the) (NN cloud))))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBD applied) (NP (DT a) (JJ systematic) (NN review) (NN approach)) (PP (IN in) (NP (CD seven) (JJ scientific) (NNS databases)))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (PRP$ their) (NNS contents)))) (, ,) (NP (PRP we)) (VP (VBD selected) (NP (NP (NP (CD 47) (NNS papers)) (PP (IN on) (NP (NNS ontologies)))) (, ,) (NP (NP (CD 22) (NNS papers)) (PP (IN on) (NP (NNS taxonomies)))) (, ,) (CC and) (NP (NP (CD 11) (NNS papers)) (PP (IN on) (NP (NNS surveys)))))) (. .))
+(S (NP (DT A) (NN taxonomy)) (VP (VBZ has) (VP (VBN been) (VP (VBN devised) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (DT the) (NNS papers)))))))))))) (. .))
+(S (NP (NP (NNS Summaries)) (, ,) (NP (NNS tables)) (, ,) (CC and) (NP (NP (DT a) (JJ preliminary) (NN analysis)) (PP (IN of) (NP (DT the) (VBN selected) (NNS works))))) (VP (VBP are) (VP (VBN presented))) (. .))

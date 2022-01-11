@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN part)) (PP (IN of) (NP (NN feature) (NN extraction))))) (, ,) (NP (JJ several) (NNS features)) (VP (VBP are) (VP (VBN investigated) (PP (IN for) (NP (JJ effective) (JJ acoustic) (NN scene) (NN classification))))) (. .))
+(S (NP (DT The) (JJ final) (NN result)) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (S (VP (VBG fusing) (NP (DT the) (JJ individual) (NNS systems))))))) (. .))

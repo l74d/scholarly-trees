@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (JJ such) (NNP PNC) (NNS systems)))) (VP (VBZ poses) (NP (JJ many) (NNS challenges))) (. .))
+(S (NP (NNP FPNC)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NNP OFDM))))) (. .))

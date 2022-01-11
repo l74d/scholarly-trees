@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT a) (JJ weighted) (NN version)) (PP (IN of) (NP (DT the) (JJ popular) (NNP PageRank) (NN algorithm)))) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT a) (JJ metric)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reflects) (NP (NN prestige))))))))))))))) (. .))

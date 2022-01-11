@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NN doc2vec)) (VP (VBZ has) (VP (VBN achieved) (NP (JJ excellent) (NNS results)) (PP (IN in) (NP (JJ different) (NNS tasks))))) (. .))
+(S (NP (PRP They)) (VP (MD might) (VP (VB result) (PP (IN from) (NP (NP (JJ deep) (JJ neural) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP learn) (NP (JJ hidden) (NNS representations)) (PP (IN with) (NP (DT the) (JJS least) (NN entropy)))))))))) (. .))

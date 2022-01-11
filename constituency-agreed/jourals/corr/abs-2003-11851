@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN input)) (VP (VBZ is) (NP (NP (DT a) (JJ few) (JJ continuous) (NNS frames)) (PP (IN of) (NP (JJ angiographic) (NN video)))))) (, ,) (CC and) (S (NP (DT the) (NN output)) (VP (VBZ is) (NP (NP (DT a) (NN mask)) (PP (IN of) (NP (NN segmentation) (NN result)))))) (. .))

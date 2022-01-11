@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ generic) (NN feature)) (PP (IN of) (NP (VBN bounded) (NN confidence) (NN type) (NNS models)))) (VP (VBZ is) (NP (NP (DT the) (NN formation)) (PP (IN of) (NP (NP (NNS clusters)) (PP (IN of) (NP (NNS agents))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ relaxed) (NN version)) (PP (IN of) (NP (DT the) (NN control))))) (. .))

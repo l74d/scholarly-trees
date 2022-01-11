@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (S (VP (VBG decreasing) (NP (NP (DT the) (NN time)) (VP (VBN spent) (PP (IN on) (NP (NN error) (NN reconciliation))))))) (ADVP (RB also)) (VP (VBZ improves) (NP (DT the) (JJ key) (NN rate))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN rapidity)) (PP (IN of) (NP (DT the) (VBN proposed) (NN protocol))))) (. .))

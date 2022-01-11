@@ -1,0 +1,2 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT these) (NNS sequences)))) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ new))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (JJ quaternary) (NNS sequences)))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN generalized) (PP (IN from) (NP (NP (JJ binary) (NNS sequences)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ different) (PP (IN from) (NP (VBN known) (NNS constructions)))))))))))) (. .))

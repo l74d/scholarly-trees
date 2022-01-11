@@ -1,0 +1,3 @@
+(S (NP (DT A) (NN network)) (VP (VBZ is) (VP (VBN called) (S (ADJP (JJ localizable))) (SBAR (IN if) (S (NP (NP (DT the) (NNS positions)) (PP (IN of) (NP (NP (PDT all) (DT the) (NNS nodes)) (PP (IN of) (NP (DT the) (NN network)))))) (VP (MD can) (VP (VB be) (VP (VBN computed) (ADVP (RB uniquely))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (S (VP (VBG identifying) (NP (JJ localizable) (NNS networks)))) (VP (VBZ is) (NP (DT an) (JJ important) (NN function))) (. .))
+(S (PP (IN In) (NP (NN reality))) (, ,) (NP (JJ exact) (NN distance)) (VP (VBZ is) (ADJP (RB almost) (JJ impossible) (CC or) (JJ costly))) (. .))

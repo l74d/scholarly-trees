@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN Chapter))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB focus) (ADVP (RB mostly)) (PP (IN on) (NP (DT the) (JJ technical) (NN side))))) (. .))
+(S (NP (PRP We)) (VP (VBP explain) (SBAR (WHADVP (WRB how)) (S (NP (NN speech)) (VP (MD can) (VP (VB be) (VP (VBN represented) (CC and) (VBN encoded) (PP (IN with) (NP (JJ audio) (NNS features))))))))) (. .))

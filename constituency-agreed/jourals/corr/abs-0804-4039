@@ -1,0 +1,2 @@
+(S (S (S (VP (VBN Motivited) (PP (IN by) (NP (JJ real) (NN multiprocessor) (NNS systems))))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (NNS architectures)) (SBAR (WHNP (WDT that)) (S (VP (VBP exhibit) (NP (JJ limited) (NN asymmetry)))))))) (: :) (S (NP (EX there)) (VP (VBP are) (NP (CD two) (ADJP (RB essentially) (JJ different)) (NNS speeds)))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ refined) (NN analysis)) (PP (IN of) (NP (DT a) (JJ recent) (NN scheduling) (NN method))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ has) (VP (VBN been) (VP (VBN studied) (S (VP (VBG using) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS distances) (CC and) (NNS robustifiers))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ spatial) (NN distribution)) (PP (IN of) (NP (JJ local) (NN minima))))) (. .))

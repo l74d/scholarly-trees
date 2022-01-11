@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN noninterference) (NN property)) (VP (MD can) (VP (VB be) (VP (VBN stated) (CC and) (VBN proved) (PP (IN for) (NP (DT the) (NN dependency) (NN analysis)))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN designed) (CC and) (VBN implemented) (NP (NP (DT a) (NN dependency) (NN analysis)) (PP (IN for) (NP (NNP JavaScript)))))) (. .))

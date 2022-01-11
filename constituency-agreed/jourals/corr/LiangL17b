@@ -1,0 +1,2 @@
+(S (NP (NNP GrabCut) (NN algorithm)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB get) (NP (NP (DT each) (NN food) (POS 's)) (NN contour))))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP estimate) (NP (NP (DT each) (NN food) (POS 's)) (NN calorie))) (. .))

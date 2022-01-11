@@ -1,0 +1,1 @@
+(S (NP (JJ Adversarial) (NN training)) (VP (VBZ has) (VP (VBN been) (VP (VBN proven) (S (VP (TO to) (VP (VB be) (NP (NP (DT an) (JJ effective) (NN technique)) (PP (IN for) (S (VP (VBG improving) (NP (NP (DT the) (JJ adversarial) (NN robustness)) (PP (IN of) (NP (NNS models)))))))))))))) (. .))

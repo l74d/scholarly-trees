@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ optimal) (JJ circular) (NN partition)) (VP (VBZ minimizes) (NP (NP (DT the) (JJ maximum) (NN ratio)) (PP (IN over) (NP (NP (DT all) (NNS pieces)) (PP (IN in) (NP (DT the) (NN partition))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNP DSO)) (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (VBG searching) (NN behavior)) (PP (IN of) (NP (NNS donkeys))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NNP Smuggler) (NN mode))) (, ,) (S (NP (PDT all) (DT the) (JJ possible) (NNS paths)) (VP (VBP are) (VP (VBN discovered)))) (CC and) (S (NP (DT the) (JJS shortest) (NN path)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN found)))) (. .))
+(S (NP (JJ Real) (NN world) (NNS data) (CC and) (NNS applications)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB test) (NP (DT the) (NN algorithm))))))) (. .))

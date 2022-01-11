@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN re-weighting)) (VP (VP (VBZ is) (VP (VBN done) (PP (IN in) (NP (DT the) (NN representation) (NN space))))) (CC and) (VP (VBZ is) (VP (VBN learned) (PP (IN during) (NP (DT the) (NN optimization) (NN procedure)))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (JJ multi-path) (NN routing)) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN flooding) (NN attack)) (VP (VBZ occurs)))) (, ,) (NP (NP (DT the) (NN energy) (NN efficiency)) (PP (IN of) (NP (DT the) (NN sensor) (NN node)))) (VP (VBZ is) (VP (VBN increased) (PP (IN by) (S (VP (VBG determining) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS pathways))))))))) (. .))

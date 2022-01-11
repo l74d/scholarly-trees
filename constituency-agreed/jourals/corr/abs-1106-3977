@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NNS values)) (PP (IN of) (NP (NNS sources) (CC and) (NNS sinks)))) (VP (VBP are) (VP (VBN provided) (PP (IN by) (NP (NNS contracts))))) (. .))
+(S (NP (NN Equipment)) (VP (VBZ is) (VP (VBN modeled) (PP (IN by) (NP (NNS edges))))) (. .))
+(S (NP (ADJP (RBR More) (JJ sophisticated)) (NN equipment)) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (NNS sub-networks))))) (. .))

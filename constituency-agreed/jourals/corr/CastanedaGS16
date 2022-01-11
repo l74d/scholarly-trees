@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (VBG resulting) (NN problem)) (VP (VBZ is) (ADJP (JJ non-convex))))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NN convergence) (NNS guarantees)) (PP (IN for) (NP (PRP$ our) (NN algorithm)))) (. .))

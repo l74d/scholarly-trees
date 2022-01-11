@@ -1,0 +1,2 @@
+(S (NP (JJ Psychological) (NNS studies)) (VP (VBP have) (VP (VBN shown) (SBAR (IN that) (S (NP (NN personality) (NNS traits)) (VP (VBP are) (VP (VBN associated) (PP (IN with) (NP (NN book) (NNS preferences))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ past) (NNS findings)) (VP (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NNS questionnaires)) (VP (VBG focusing) (PP (IN on) (NP (JJ conventional) (NN book) (NNS genres)))))))) (CC and) (VP (VBP are) (ADJP (JJ unrepresentative) (PP (IN of) (NP (NN niche) (NN content)))))) (. .))

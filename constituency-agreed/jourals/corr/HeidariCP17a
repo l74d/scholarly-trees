@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ new) (NN coding) (NN strategy)) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN shown) (PP (IN through) (NP (DT an) (NN example))))) (. .))
+(S (ADVP (RB Particularly)) (, ,) (NP (DT the) (NNS codebooks)) (VP (MD must) (VP (VB be) (VP (VBN closed) (PP (IN under) (NP (JJ binary) (NN addition)))))) (. .))

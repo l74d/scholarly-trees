@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ experimental) (NNS results)) (VP (VBP indicate) (NP (NP (DT the) (JJ high) (NN security)) (PP (IN of) (NP (DT the) (ADJP (RB newly) (VBN developed)) (NN scheme))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (PP (IN via) (NP (JJ extensive) (NNS comparisons))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ new) (NN scheme)) (VP (VBZ outperforms) (NP (JJ other) (JJ popular) (NNS schemes)))))) (. .))

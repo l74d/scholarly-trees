@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN method)) (VP (VBZ combines) (NP (NP (DT the) (JJ representational) (NN power)) (PP (IN of) (NP (JJ deep) (NN learning)))) (, ,) (PP (IN with) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB generalize) (PP (IN from) (NP (NP (JJ small) (NNS datasets)) (PP (IN of) (NP (JJ Gaussian) (NN process) (NNS models))))))))))) (. .))

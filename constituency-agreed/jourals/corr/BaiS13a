@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (NN synchronization)) (PP (IN of) (NP (NP (JJ nonlinear) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP satisfy) (NP (DT an) (JJ incremental) (NN passivity) (NN property))))))))) (. .))
+(S (NP (NP (NNP Simulation) (NNS results)) (PP (IN of) (NP (NNP Goodwin) (NNS oscillators)))) (VP (VBP illustrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN control) (NN law))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Proving) (NP (DT these) (NNS bounds)) (PP (IN under) (NP (DT a) (JJ certain) (NN decoding) (NN algorithm))))) (, ,) (VP (VBZ validates) (NP (PRP them)) (ADVP (RB automatically)) (ADVP (RB also)) (PP (IN under) (NP (DT any) (JJ sub-optimal) (NN decoding) (NN algorithm)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT some) (JJ interesting) (JJ open) (NNS problems)) (VP (VBP are) (VP (VBN considered))) (. .))

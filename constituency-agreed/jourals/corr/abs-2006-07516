@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (DT the) (NN classification) (NN performance)) (PP (PP (VBN based) (PP (IN on) (NP (JJ various) (NN feature) (NNS combinations)))) (CONJP (RB as) (RB well) (IN as)) (PP (IN with) (NP (DT the) (NN baseline) (NN model))))) (. .))
+(S (NP (PRP$ Our) (NNS findings)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (S (VP (VBG integrating) (NP (NP (JJ diverse) (NNS sources)) (PP (IN of) (NP (NNS data)))) (S (VP (TO to) (VP (VB gain) (NP (JJ satisfactory) (NN classification) (NN performance)))))))))) (. .))

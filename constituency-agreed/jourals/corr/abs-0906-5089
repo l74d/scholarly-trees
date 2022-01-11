@@ -1,0 +1,2 @@
+(S (NP (NP (PRP$ Our) (JJ second) (NN class)) (PP (IN of) (NP (NNS measures)))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NNP Hausdorff) (NN distance))))) (. .))
+(S (NP (DT Each) (NN tree)) (VP (VBZ is) (VP (VBN viewed) (PP (IN as) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (DT all) (JJ possible) (NNS ways)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN tree)) (VP (MD could) (VP (VB be) (VP (VBN refined) (S (VP (TO to) (VP (VB eliminate) (NP (JJ unresolved) (NNS nodes)))))))))))))))) (. .))

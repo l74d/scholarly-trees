@@ -1,0 +1,2 @@
+(S (NP (JJ Local) (JJ directional) (NN order)) (VP (VBZ is) (NP (NP (DT the) (JJ multi-radius) (NN relationship) (NN factor)) (PP (IN in) (NP (DT a) (JJ particular) (NN direction))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB transform) (NP (DT the) (NN center) (NN value)) (PP (IN into) (NP (NP (DT the) (NN range)) (PP (IN of) (NP (VBG neighboring) (NNS orders)))))))))) (. .))

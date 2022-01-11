@@ -1,0 +1,5 @@
+(S (NP (NP (DT A) (NN lidar) (NN odometry) (NN method)) (, ,) (VP (VBG integrating) (PP (IN into) (NP (DT the) (NN computation))) (NP (NP (DT the) (NN knowledge)) (PP (IN about) (NP (NP (DT the) (NNS physics)) (PP (IN of) (NP (DT the) (NN sensor))))))) (, ,)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (DT A) (NN model)) (PP (IN of) (NP (JJ measurement) (NN error)))) (VP (VBZ enables) (NP (NP (JJR higher) (NN precision)) (PP (IN in) (NP (NP (NN estimation)) (PP (IN of) (NP (DT the) (NN point) (JJ normal) (NN covariance))))))) (. .))
+(S (NP (NNP Adjacent) (NN laser) (NNS beams)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (DT an) (JJR outlier) (NN correspondence) (NN rejection) (NN scheme))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN ranked) (PP (IN in) (NP (NP (DT the) (NNP KITTI) (POS 's)) (NN leaderboard))) (PP (IN with) (NP (ADJP (CD 1.37) (NN %)) (VBG positioning) (NN error))))) (. .))
+(S (NP (CD 3.67) (NN %)) (VP (VBZ is) (VP (VBN achieved) (PP (IN in) (NP (NP (NN comparison)) (PP (IN with) (NP (NP (DT the) (NNP LOAM) (NN method)) (PP (IN on) (NP (DT the) (JJ internal) (NN dataset))))))))) (. .))

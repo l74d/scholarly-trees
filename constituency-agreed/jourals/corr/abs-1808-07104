@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP formalize) (NP (DT this) (NN approach)) (PP (IN by) (S (VP (VBG defining) (NP (DT a) (JJ quantitative) (JJ metric)))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (JJ metric)) (ADVP (RB indeed)) (VP (VBZ correlates) (PP (IN with) (NP (NP (DT the) (JJ human) (NNS judgments)) (PP (IN of) (NP (NN engagingness))))))))) (. .))

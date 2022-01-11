@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT each) (NN contour)) (PP (IN of) (NP (NN shape)))) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS points))))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VP (VBP find) (NP (NP (DT the) (JJS best) (NN alignment)) (PP (IN of) (NP (CD two) (JJ complete) (NNS strings))))) (CC and) (VP (VB compute) (NP (NP (DT the) (JJ optimal) (NN cost)) (PP (IN of) (NP (NN similarity)))))) (. .))

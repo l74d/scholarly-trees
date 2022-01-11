@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN by) (NP (NP (JJ infinite) (NNS words)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (VBN fixed) (NNS points)) (PP (IN of) (NP (NNS anti-morphisms)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (RB not) (ADVP (RB necessarily)) (ADJP (ADJP (ADJP (RB uniformly) (JJ discrete)) (CC and) (ADJP (RB relatively) (JJ dense))) (PP (IN in) (NP (DT the) (JJ real) (NNS numbers)))))))) (. .))

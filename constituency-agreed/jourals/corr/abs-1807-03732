@@ -1,0 +1,2 @@
+(SBARQ (WHADVP (WRB Where)) (SQ (MD would) (NP (NNP Haskell)) (VP (VB be) (PP (IN without) (NP (NNS monads))))) (. ?))
+(S (NP (DT This) (NN workshop)) (VP (VBZ is) (NP (NP (DT a) (NN forum)) (PP (IN for) (NP (NP (NNS researchers)) (SBAR (WHNP (WP who)) (S (VP (VBP seek) (S (VP (TO to) (VP (VB reflect) (NP (JJ mathematical) (NNS phenomena)) (PP (IN in) (NP (NNS data) (CC and) (NN control))))))))))))) (. .))

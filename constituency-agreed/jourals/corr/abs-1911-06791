@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG maximizing) (NP (DT a) (JJ non-monotone) (JJ submodular) (NN function)) (PP (IN under) (NP (JJ multiple) (NN knapsack) (NNS constraints)))))))) (. .))

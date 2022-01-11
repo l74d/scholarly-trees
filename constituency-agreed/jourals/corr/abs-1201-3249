@@ -1,0 +1,2 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (PRP we)) (VP (VBP extend) (NP (DT the) (NN system)) (S (VP (TO to) (VP (VB enable) (NP (JJ temporal) (NN state) (NN decomposition)))))) (. .))
+(S (NP (PRP$ Our) (JJ final) (NN system)) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (DT a) (JJ simulated) (NNS robotics) (NN platform))))) (. .))

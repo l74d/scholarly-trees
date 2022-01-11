@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP find) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (JJ regular) (JJ toric) (NNS codes)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ optimal))))))))) (. .))
+(S (PP (IN For) (NP (JJ physical) (NNS implementations))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (JJ planar) (JJ topological) (NNS codes))) (. .))

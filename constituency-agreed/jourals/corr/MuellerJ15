@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN method)) (VP (VBZ operates) (PP (IN by) (S (VP (VBG finding) (NP (NP (DT the) (NN projection)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (NP (DT the) (NNP Wasserstein) (NN divergence)) (PP (IN between) (NP (DT the) (VBG resulting) (JJ univariate) (NNS populations)))))))))))) (. .))
+(S (NP (PRP$ Our) (JJR broader) (NN framework)) (VP (VBZ extends) (PP (IN beyond) (NP (NP (DT the) (JJ specific) (NN choice)) (PP (IN of) (NP (NNP Wasserstein) (NN divergence)))))) (. .))

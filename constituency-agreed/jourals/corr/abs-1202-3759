@@ -1,0 +1,1 @@
+(S (S (PP (IN In) (NP (JJ several) (NNS applications))) (, ,) (NP (NP (NN estimation)) (PP (IN of) (NP (DT the) (NN state) (NN sequence)))) (VP (VBZ is) (RB not) (NP (DT the) (NN end) (NN goal)))) (: ;) (S (ADVP (RB instead)) (NP (DT the) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB compute) (NP (NP (DT some) (NN function)) (PP (IN of) (NP (PRP it))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD developed) (CC and) (VBD tested) (NP (NP (JJ various) (NNS implementations)) (PP (IN of) (NP (DT this) (NN idea)))) (, ,) (S (VP (VBG investigating) (NP (PRP$ their) (NN performance)) (PP (IN by) (S (VP (VBG taking) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (JJ computational) (NN cost)) (PP (IN of) (NP (DT each) (NN variant)))))))))) (. .))

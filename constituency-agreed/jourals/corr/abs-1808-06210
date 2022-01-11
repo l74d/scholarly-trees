@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ rectifies) (NP (DT the) (NN face)) (PP (IN by) (NP (NP (JJ local) (NN homography) (NNS transformations)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN estimated) (PP (IN by) (NP (DT a) (NN face) (NN rectification) (NN network)))))))))) (. .))

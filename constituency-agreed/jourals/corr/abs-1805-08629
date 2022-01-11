@@ -1,0 +1,2 @@
+(S (NP (CD One) (NN task)) (VP (MD may) (VP (VB need) (NP (QP (JJR more) (IN than) (CD one)) (NN robot)) (S (VP (TO to) (VP (VB finish) (NP (PRP it))))))) (. .))
+(S (ADVP (RB Therefore)) (NP (DT the) (NNS robots)) (VP (VBP need) (S (VP (TO to) (VP (VB form) (NP (NNS coalitions)) (S (VP (TO to) (VP (VB complete) (NP (DT these) (NNS tasks))))))))) (. .))

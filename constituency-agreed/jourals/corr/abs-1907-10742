@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ networked) (NN system)) (VP (MD can) (VP (VB be) (VP (VBN made) (S (ADJP (JJ resilient) (PP (IN against) (NP (NNS adversaries) (CC and) (NNS attacks))))) (SBAR (IN if) (S (NP (DT the) (VBG underlying) (NN network) (NN graph)) (VP (VBZ is) (ADJP (RB structurally) (JJ robust)))))))) (. .))
+(S (NP (NP (NNS Nodes)) (PP (IN in) (NP (DT a) (NN network)))) (VP (VP (MD can) (VP (VB be) (PP (IN of) (NP (JJ different) (NNS types))))) (CC and) (VP (MD can) (VP (VB have) (NP (JJ multiple) (NNS variants))))) (. .))

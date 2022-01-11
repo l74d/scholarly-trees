@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (JJ efficient) (NN procedure)) (SBAR (WHNP (WDT which)) (S (VP (VBZ computes) (NP (PRP$ its) (NN solution)) (ADVP (RB exactly)) (PP (IN in) (NP (JJ polynomial) (NN time)))))))) (. .))

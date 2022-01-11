@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VB introduce) (NP (NP (DT a) (NN graph) (NN attention) (NN convolution) (NN module)) (SBAR (WHNP (WDT that)) (S (VP (VBZ incorporates) (NP (NP (JJ global) (JJ contextual) (NN information)) (CC and) (NP (JJ local) (JJ structural) (NNS features)))))))) (. .))

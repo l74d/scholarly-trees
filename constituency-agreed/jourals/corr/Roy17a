@@ -1,0 +1,2 @@
+(S (NP (NN Prosody) (NNS phenomena)) (VP (VBP are) (VP (VBN explored) (PP (IN in) (NP (NP (DT the) (NN domain)) (PP (IN of) (NP (NP (JJR higher) (JJ phonological) (NNS constituents)) (PP (JJ such) (IN as) (NP (NP (NN word)) (, ,) (NP (JJ phonological) (NN phrase)) (CC and) (NP (JJ intonational) (NN phrase)))))))))) (. .))
+(S (NP (NNP Word) (NNP Prosody)) (VP (VBZ describes) (NP (NN stress) (NN pattern)) (PP (IN by) (S (VP (VBG comparing) (NP (NP (DT the) (JJ prosodic) (NNS features)) (PP (IN of) (NP (PRP$ its) (NN constituent) (NNS syllables)))))))) (. .))

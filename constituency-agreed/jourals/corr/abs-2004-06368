@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS consequences)) (PP (IN of) (NP (NP (NN delay) (NN requirement) (NN violation)) (PP (IN in) (NP (JJ such) (NNS systems)))))) (VP (MD may) (VP (VB become) (ADJP (RB increasingly) (JJ severe)))) (. .))
+(S (NP (DT The) (NN mechanism)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG providing) (NP (NP (JJ high) (NN level)) (PP (IN of) (NP (NN accuracy)))) (PP (IN with) (NP (JJR lower) (NN communication) (NN overhead))))))) (. .))

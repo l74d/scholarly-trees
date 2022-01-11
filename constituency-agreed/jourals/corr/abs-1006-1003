@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes) (NP (NP (DT the) (JJ final) (NN state)) (PP (IN of) (NP (JJ certain) (NN growth) (NNS models)))) (PP (IN without) (S (VP (VBG computing) (NP (DT all) (JJ intermediate) (NNS states)))))))))) (. .))

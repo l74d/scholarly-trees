@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (NP (JJ optimal) (NN complexity) (NNS bounds)) (PP (IN for) (NP (NNS quadratics)))) (CC and) (NP (NP (ADJP (RB asymptotically) (JJ optimal)) (NNS rates)) (PP (IN on) (NP (JJ general) (NN convex) (NN minimization) (NNS problems)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP BERT)) (VP (VBZ has) (VP (VBN performed) (ADVP (RB well)) (PP (IN at) (NP (NP (NN level) (CD 1)) (SBAR (WHNP (WDT which)) (S (VP (VBZ does) (RB not) (VP (VB require) (NP (JJ common) (NN knowledge)))))))))) (. .))
+(S (NP (DT This) (NN system)) (VP (VBZ consists) (PP (IN of) (NP (CD three) (NNS parts)))) (. .))

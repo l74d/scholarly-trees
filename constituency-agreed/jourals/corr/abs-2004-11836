@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG making) (NP (NP (NN use)) (PP (IN of) (NP (JJ efficient) (JJ intelligent) (NNS models))))))) (, ,) (NP (NNS signs)) (VP (MD can) (VP (VB be) (VP (VBN recognized) (PP (IN with) (NP (NN precision)))))) (. .))
+(S (NP (DT The) (NNP IMU) (NN device)) (VP (VBZ makes) (NP (NP (NN use)) (PP (IN of) (NP (JJ tri-axial) (NN accelerometer) (CC and) (NN gyroscope))))) (. .))

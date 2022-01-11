@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (NN symbol) (NN level) (NN precoding)))) (, ,) (NP (NP (DT a) (JJ new) (NN approach)) (PP (IN towards) (NP (DT the) (NN multiuser) (NN interference)))) (VP (VBZ is) (VP (VBN discussed) (PP (IN along) (NP (DT this) (NN paper))))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (NP (NP (DT a) (NN relation)) (PP (IN between) (NP (NP (DT the) (JJ constructive) (NN interference) (NN downlink) (NN transmission)) (CC and) (NP (JJ physical) (NN layer) (NN multicasting))))) (VP (VBZ is) (VP (VBN established))) (. .))

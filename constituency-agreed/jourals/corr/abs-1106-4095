@@ -1,0 +1,2 @@
+(S (SBAR (IN Before) (S (NP (PRP we)) (VP (VBP combine) (NP (NNS actions) (CC and) (NNS probabilities))))) (NP (CD two) (ADJP (RB very) (JJ obvious)) (NNS questions)) (VP (MD should) (VP (VB be) (VP (VBN asked)))) (. .))
+(SBARQ (ADVP (RB Secondly)) (, ,) (WHADVP (WRB how)) (SQ (VBZ does) (NP (NN probability)) (VP (VB interact) (PP (IN with) (NP (NN nondeterminism))))) (. ?))

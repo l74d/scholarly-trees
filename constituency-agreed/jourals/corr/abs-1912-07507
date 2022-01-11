@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (NP (JJ numerous) (NNS examples))))) (. .))
+(S (NP (DT This) (NN manuscript)) (VP (VBZ extends) (NP (NP (PRP$ our) (JJ preliminary) (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBD appeared) (PP (IN in) (NP (NNP CASC) (CD 2018)))))))) (. .))

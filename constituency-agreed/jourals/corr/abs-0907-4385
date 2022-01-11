@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (NP (DT some) (JJ coalitional) (NNS games)) (VP (VBP have) (NP (JJ empty) (NNS cores)))) (, ,) (CC and) (S (NP (NP (DT any) (NN outcome)) (PP (IN in) (NP (PDT such) (DT a) (NN game)))) (VP (VBZ is) (ADJP (JJ unstable)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG stabilizing) (NP (DT a) (JJ coalitional) (NN game)) (PP (IN by) (S (VP (VBG using) (NP (JJ external) (NNS payments)))))))))) (. .))

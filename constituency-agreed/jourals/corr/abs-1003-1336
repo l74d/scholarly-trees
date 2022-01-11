@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Virtual) (NN memory)) (PP (IN of) (NP (NNS computers)))) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN implemented) (PP (IN by) (NP (NN demand) (NN paging))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NN ratio)) (VP (MD can) (VP (VB be) (ADJP (RB arbitrarily) (JJ large))))))) (. .))

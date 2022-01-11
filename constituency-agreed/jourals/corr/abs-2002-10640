@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP describe) (NP (NP (DT a) (NN pretraining) (NN scheme)) (PP (IN for) (NP (DT the) (JJ contextual) (NN representation) (NN encoder)))) (PP (IN by) (S (VP (VBG generating) (NP (JJ hard) (JJ negative) (NNS examples)) (S (VP (VBG using) (NP (VBG existing) (NN knowledge) (NNS bases)))))))) (. .))

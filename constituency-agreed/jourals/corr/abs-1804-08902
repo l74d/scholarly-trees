@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN system)) (VP (MD may) (VP (VB include) (NP (JJ many) (VBG interacting) (NNS packages)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT these)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT the) (NNS developers)) (VP (VBP declare) (NP (NP (PDT all) (DT the) (NNS dependencies) (CC and) (NNS conflicts)) (PP (IN between) (NP (DT the) (NNS packages)))))))) (. .))

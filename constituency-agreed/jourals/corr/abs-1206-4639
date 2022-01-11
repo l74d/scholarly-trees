@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ first) (NN algorithm)) (VP (VP (VBZ maintains) (NP (NP (DT a) (JJ diagonal) (NN covariance)) (PP (IN over) (NP (DT the) (NNS parameters))))) (CC and) (VP (MD can) (VP (VB handle) (NP (JJ large) (NN covariance) (NNS matrices))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN energy) (NN consumption)) (VP (VBN required) (PP (IN by) (NP (JJ several) (NN integer) (NN vector) (NNS representations)))))) (. .))
+(S (NP (PRP We)) (VP (VBP execute) (NP (JJ typical) (NNS operations)) (PP (IN over) (NP (NP (NNS datasets)) (PP (IN of) (NP (JJ different) (NN nature)))))) (. .))

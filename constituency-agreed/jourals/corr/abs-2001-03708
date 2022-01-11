@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (JJ second) (NN version))) (, ,) (NP (PRP we)) (VP (VBP leverage) (NP (NP (JJR more)) (PP (IN of) (NP (NP (DT the) (JJ structural) (NN metadata)) (PP (IN in) (NP (NNS patents))))))) (. .))
+(S (NP (DT The) (NN text) (NN flow)) (VP (MD can) (VP (VB go) (ADVP (RB backward)) (SBAR (IN because) (S (NP (DT the) (NN relation)) (VP (VBZ is) (VP (VBN trained) (ADVP (RB bidirectionally)))))))) (. .))

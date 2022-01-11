@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (DT a) (NN skeleton) (NN sequence))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB encode) (NP (NP (NN skeleton) (NNS poses)) (CC and) (NP (PRP$ their) (NNS motions))) (PP (IN into) (NP (DT a) (JJ single) (NNP RGB) (NN image))))))) (. .))

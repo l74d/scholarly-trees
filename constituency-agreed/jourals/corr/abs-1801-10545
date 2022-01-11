@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT a) (ADJP (JJ fast) (CC and) (JJ robust)) (NN algorithm)) (VP (VBZ is) (VP (VBN developed))) (. .))
+(S (NP (NNS Comparisons)) (VP (VBP are) (VP (VBN done) (PP (IN with) (NP (JJ other) (NNS procedures))))) (. .))

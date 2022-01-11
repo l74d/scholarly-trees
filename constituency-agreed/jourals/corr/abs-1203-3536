@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN efficiency))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT an) (VBG alternating) (NN method)) (S (VP (TO to) (VP (VB learn) (NP (NP (NP (DT the) (JJ optimal) (NN model) (NNS parameters)) (PP (IN for) (NP (DT each) (NN task)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NNS relationships)) (PP (IN between) (NP (NNS tasks))))))))) (. .))

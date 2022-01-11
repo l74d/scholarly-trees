@@ -1,0 +1,2 @@
+(S (NP (NNP ManiGen)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (DT any) (NN knowledge)) (PP (IN of) (NP (NP (DT the) (JJ inner) (NN state)) (PP (IN of) (NP (DT the) (NN target) (NN classifier)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ generates) (NP (JJ adversarial) (NNS examples)) (PP (IN by) (S (VP (VBG searching) (PP (IN along) (NP (NP (DT the) (NN manifold)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (JJ concise) (NN representation)) (PP (IN of) (NP (NN input) (NNS data))))))))))))) (. .))

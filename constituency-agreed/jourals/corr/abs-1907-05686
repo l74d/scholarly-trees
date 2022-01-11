@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG reducing) (NP (NP (DT the) (NN memory) (NN footprint)) (PP (IN of) (NP (JJ convolutional) (NN network) (NNS architectures))))))))) (. .))

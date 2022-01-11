@@ -1,0 +1,2 @@
+(FRAG (CC and) (NP (JJ spatial) (NN footprint)) (. .))
+(S (PP (IN Over) (NP (CD three) (NNS blocks))) (, ,) (NP (DT the) (JJ average) (NN entry) (NN speed)) (VP (VBD was) (NP (NP (NP (CD 3.54) (NN wpm)) (PP (IN for) (NP (DT the) (NN mouse)))) (, ,) (NP (NP (CD 3.33) (NN wpm)) (PP (IN for) (NP (DT the) (NN gamepad)))) (CC and) (NP (NP (QP (RB only) (CD 2.11)) (NN wpm)) (PP (IN for) (NP (DT the) (NN eye) (NN tracker)))))) (. .))

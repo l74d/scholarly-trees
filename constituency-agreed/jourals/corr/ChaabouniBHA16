@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Salient) (NNS patches)) (PP (IN in) (NP (NN video) (NNS frames)))) (VP (VBP are) (VP (VBN predicted) (ADVP (RB first)))) (. .))
+(S (NP (DT The) (NNS experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (CD two) (ADJP (RB publicly) (JJ available)) (NNS datasets))))) (. .))

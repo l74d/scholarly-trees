@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN navigation) (NN planning) (NN method)) (SBAR (WHNP (WDT which)) (S (VP (VBZ generates) (NP (JJ hybrid) (NN locomotion) (NNS paths))))))) (. .))
+(S (SBAR (IN If) (S (NP (NNS steps)) (VP (VBP are) (VP (VBN required))))) (, ,) (NP (DT the) (NN planner)) (VP (VBZ includes) (NP (DT those))) (. .))

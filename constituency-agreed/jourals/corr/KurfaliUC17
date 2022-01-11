@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP adopt) (NP (JJ prior) (NN information)) (PP (IN from) (NP (NP (JJ different) (NNS sources)) (PP (IN in) (NP (DT the) (NN model)))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NN letter) (NN successor) (NN variety) (NNS counts)) (VP (VBN obtained) (PP (IN from) (NP (NP (NNS tries)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN built) (PP (IN by) (NP (JJ neural) (NN word) (NNS embeddings)))))))))))) (. .))

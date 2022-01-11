@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (JJ variational) (NN inference)) (CC and) (NP (JJ stochastic) (NN optimization))) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (JJ posterior) (NN distribution)))))) (. .))

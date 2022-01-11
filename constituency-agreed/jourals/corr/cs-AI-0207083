@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS frequencies)) (VP (VBG characterizing) (NP (DT the) (JJ relevant) (NNS models)))) (VP (VBP reflect) (NP (NP (VBN known) (NNS frequencies)) (PP (IN in) (NP (PRP$ our) (JJ actual) (NN world))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ avoids) (NP (NP (DT the) (NNS implausibilities)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (ADVP (RB otherwise)) (VP (VB result) (PP (IN from) (NP (NP (DT the) (NN chaining)) (PP (IN of) (NP (NN default) (NNS inferences)))))))))))))) (. .))

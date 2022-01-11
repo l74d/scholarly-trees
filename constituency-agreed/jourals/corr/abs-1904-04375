@@ -1,0 +1,2 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT these) (NNS works)))) (VP (VBP ignore) (NP (NP (DT the) (JJ temporal) (NNS dependencies)) (PP (IN between) (NP (DT the) (NN image) (NNS frames))))) (. .))
+(S (NP (DT This) (NN problem)) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN studied) (PP (IN in) (NP (DT the) (NN literature))) (ADVP (RB widely))))) (. .))

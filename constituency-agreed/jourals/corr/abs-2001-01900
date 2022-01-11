@@ -1,0 +1,1 @@
+(S (NP (VBG Existing) (NNS approaches)) (ADVP (RB typically)) (VP (VBP use) (NP (NN cross-validation)) (S (VP (TO to) (VP (VB impose) (NP (NP (DT this) (NN smoothing)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ uniform) (PP (IN across) (NP (DT all) (NN training) (NNS data)))))))))))) (. .))

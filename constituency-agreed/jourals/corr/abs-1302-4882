@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN attack)) (VP (VBZ becomes) (ADJP (RBR more) (JJ severe)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN group)) (PP (IN of) (NP (JJ malicious) (NNS nodes)))) (VP (VBP cooperate) (NP (DT each) (JJ other)))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN mechanism)) (VP (VBZ does) (RB not) (VP (VB apply) (NP (DT any) (JJ cryptographic) (NNS primitives)) (PP (IN on) (NP (DT the) (NN routing) (NNS messages))))) (. .))

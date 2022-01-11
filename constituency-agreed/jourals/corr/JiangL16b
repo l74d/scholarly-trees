@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN training)) (VP (VBZ is) (VP (VBN done) (PP (IN in) (NP (DT a) (NN reinforcement) (NN manner))) (, ,) (S (VP (VBG maximizing) (NP (NP (DT the) (JJ accumulative) (NN return)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN regarded) (PP (IN as) (NP (NP (DT the) (NN reward) (NN function)) (PP (IN of) (NP (DT the) (NN network)))))))))))))) (. .))

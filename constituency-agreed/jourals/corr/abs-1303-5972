@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN cover) (NNS data)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN transmitted) (PP (IN through) (NP (DT the) (NN internet)))))))) (VP (VBZ hides) (NP (DT the) (NN watermark)) (PP (IN in) (NP (DT a) (ADJP (NN computer) (VBN aided)) (NN assertion) (NN method))) (SBAR (JJ such) (IN that) (S (NP (PRP it)) (VP (VBZ becomes) (ADJP (JJ undetectable)))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP it)) (VP (VBZ stands) (PP (IN as) (NP (NP (DT a) (NN hindrance)) (PP (IN over) (NP (JJ many) (NNS operations))))) (PP (IN without) (S (VP (VBG harming) (NP (DT the) (VBN embedded) (NN host) (NN document)))))) (. .))
+(S (NP (NNP Digital) (NNS media) (NN distribution)) (VP (VBZ occurs) (PP (IN through) (NP (JJ various) (NNS channels)))) (. .))

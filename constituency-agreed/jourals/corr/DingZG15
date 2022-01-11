@@ -1,0 +1,1 @@
+(S (NP (NNP Quantum) (JJ convolutional) (NNS codes)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB protect) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NP (NNS qubits)) (PP (IN of) (NP (JJ arbitrary) (NN length)))))) (PP (IN against) (NP (NN decoherence))))))))) (. .))

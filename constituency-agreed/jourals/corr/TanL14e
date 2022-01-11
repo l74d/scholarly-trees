@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN strength)) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (NP (DT a) (NN statement)) (VP (VBZ is) (VP (VBN made)))))) (VP (MD can) (VP (VB have) (NP (NP (DT a) (JJ significant) (NN impact)) (PP (IN on) (NP (DT the) (NN audience)))))) (. .))
+(S (NP (DT A) (JJ first) (NN step)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB distinguish) (PP (IN between) (NP (ADJP (JJ strong) (CC and) (JJ weak)) (NNS statements))))))))))) (. .))

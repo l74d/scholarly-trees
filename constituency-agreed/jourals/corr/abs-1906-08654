@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (EX there)) (VP (VBP are) (NP (JJ many) (NNS attempts) (S (VP (TO to) (VP (VB understand) (NP (JJ popular) (NNS heuristics))))))) (. .))
+(S (S (NP (DT This) (NN algorithm)) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN used) (PP (IN in) (NP (NN practice)))))) (, ,) (CC but) (S (NP (EX there)) (VP (VBP are) (NP (NP (ADJP (RB very) (JJ few)) (JJ theoretical) (NNS works)) (VP (VBG studying) (NP (PRP$ its) (NN behavior)))))) (. .))

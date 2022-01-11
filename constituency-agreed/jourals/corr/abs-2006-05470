@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ several) (NNS aspects)) (VP (VBP are) (RB not) (VP (VBN standardised))) (. .))
+(S (NP (NP (NNS Features)) (VP (VBN derived) (PP (IN from) (NP (NN filter) (NN response) (NNS maps))))) (VP (VBP have) (VP (VBN been) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (RB poorly) (JJ reproducible)))))))) (. .))

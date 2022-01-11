@@ -1,0 +1,2 @@
+(S (NP (DT These) (JJ convolutional) (NNS codes)) (VP (VBP are) (VP (VBN derived) (PP (IN from) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (NN group) (NN character) (NNS codes))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (DT the) (JJ new) (NN code) (NNS parameters)) (VP (VBP are) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NP (DT the) (NNS ones)) (ADJP (JJ available) (PP (IN in) (NP (DT the) (NN literature)))))))) (. .))

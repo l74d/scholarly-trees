@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Traditional) (NNS approaches)) (PP (IN in) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NN downlink) (NNS systems)))))) (VP (VBP decouple) (NP (NP (DT the) (NN precoding)) (CC and) (NP (DT the) (NN channel) (NN estimation) (NNS problems)))) (. .))
+(S (PP (IN In) (NP (JJ typical) (NNS scenarios))) (, ,) (NP (DT these) (NNS bounds)) (VP (VBP are) (ADJP (JJ close))) (. .))

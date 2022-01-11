@@ -1,0 +1,1 @@
+(S (NP (NNP Time) (NN discretization)) (VP (VBZ is) (VP (VBN performed) (S (VP (VBG using) (NP (DT an) (JJ implicit) (NNP Euler) (NN method)))))) (. .))

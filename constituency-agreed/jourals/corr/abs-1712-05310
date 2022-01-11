@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Various) (NNS extensions)) (PP (IN of) (NP (JJ public) (NN announcement) (NN logic)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN with) (NP (NP (NN quantification)) (PP (IN over) (NP (NNS announcements)))))))) (. .))
+(S (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ decidable)))) (CC and) (S (NP (PRP it)) (VP (VBZ has) (NP (DT a) (JJ finitary) (NN axiomatization)))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT A) (ADJP (QP ($ $) (CD 2k))) (NN computer)) (VP (MD can) (VP (VB execute) (NP (QP (IN about) (CD 8k)) (NNS transactions)) (PP (IN per) (NP (NN second))))) (. .))
+(S (S (NP (DT This)) (VP (VBZ is) (NP (NP (QP (CD 80x)) (JJR more)) (PP (IN than) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS largest) (NNP US) (NN bank) (POS 's)) (NP (CD 1970) (POS 's)) (NN traffic)))))))) (: -) (S (NP (PRP it)) (VP (VBZ approximates) (NP (DT the) (JJ total) (NNP US) (NP (CD 1970) (POS 's)) (JJ financial) (NN transaction) (NN volume)))) (. .))
+(S (NP (ADJP (RB Very) (JJ modest)) (JJ modern) (NNS computers)) (VP (MD can) (ADVP (RB easily)) (VP (VB solve) (NP (NP (NN yesterday) (POS 's)) (NNS problems)))) (. .))

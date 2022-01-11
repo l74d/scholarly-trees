@@ -1,0 +1,2 @@
+(S (NP (NNP CSI) (NN error)) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NP (DT the) (NN scenario)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNP SINR)) (VP (VBZ increases) (ADVP (RB linearly)) (PP (IN with) (NP (DT the) (NN relay) (NN antenna) (NN number))))))) (VP (VBZ is) (VP (VBN studied))) (. .))

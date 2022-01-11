@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT the) (NNP COCO) (NN dataset))) (, ,) (S (NP (PRP$ our) (JJ single) (NN model) (NN performance)) (VP (VBZ is) (NP (CD 45.7) (NN %)))) (CC and) (S (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (CD 3) (NNS networks)))) (VP (VBZ obtains) (NP (NP (DT an) (NN mAP)) (PP (IN of) (NP (CD 48.3) (NN %)))))) (. .))

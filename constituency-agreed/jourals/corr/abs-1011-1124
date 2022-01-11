@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN loser)) (VP (CC either) (VP (VBZ adopts) (NP (NP (DT the) (NN opinion)) (PP (IN of) (NP (DT the) (NN winner))))) (CC or) (VP (VBZ rewires) (NP (DT the) (NN link)))) (. .))
+(S (NP (DT These) (NNS rules)) (VP (VBP define) (NP (NP (DT an) (JJ adaptive) (NN network)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (NP (DT the) (NN agent) (POS 's)) (NNS opinions)) (VP (VBP coevolve) (PP (IN with) (NP (NP (DT the) (NN network) (NN topology)) (PP (IN of) (NP (JJ social) (NNS contacts)))))))))) (. .))

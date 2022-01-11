@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (S (VP (VBG solving) (NP (JJ linear) (NN programming) (NNS problems)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT an) (NN analog) (NN computer)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (JJ various) (NN probability) (NNS ensembles)) (PP (IN of) (NP (JJ linear) (NN programming) (NNS problems))))) (. .))

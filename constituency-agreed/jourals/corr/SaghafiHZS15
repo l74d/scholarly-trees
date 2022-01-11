@@ -1,0 +1,2 @@
+(S (NP (DT Some) (NNS methods)) (VP (VBP have) (VP (VBN used) (NP (JJ simple) (JJ constant) (NNS metrics)) (, ,) (SBAR (IN whereas) (S (NP (NNS others)) (VP (VBP have) (VP (VBN utilised) (NP (NNS models)) (S (VP (TO to) (VP (VB obtain) (NP (JJ optimised) (NNS metrics))))))))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP$ their) (NNS advantages) (CC and) (NNS disadvantages)) (VP (VBP are) (VP (VBN mentioned) (CC and) (VBN compared))) (. .))

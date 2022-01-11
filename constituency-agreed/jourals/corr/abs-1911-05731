@@ -1,0 +1,2 @@
+(S (NP (NNS Companies)) (VP (VBP report) (PP (IN on) (NP (NP (PRP$ their) (JJ financial) (NN performance)) (PP (IN for) (NP (NNS decades)))))) (. .))
+(S (ADVP (RBR More) (RB recently)) (NP (PRP they)) (VP (VBP have) (ADVP (RB also)) (VP (VBN started) (S (VP (TO to) (VP (VB report) (PP (IN on) (NP (NP (PRP$ their) (JJ environmental) (NN impact)) (CC and) (NP (PRP$ their) (JJ social) (NN responsibility))))))))) (. .))

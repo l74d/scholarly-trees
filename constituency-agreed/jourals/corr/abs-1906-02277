@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ reliable) (NN controller)) (VP (VBZ is) (ADJP (JJ critical) (PP (IN for) (NP (NP (NN execution)) (PP (IN of) (NP (NP (ADJP (JJ safe) (CC and) (JJ smooth)) (NNS maneuvers)) (PP (IN of) (NP (DT an) (JJ autonomous) (NN vehicle))))))))) (. .))
+(S (NP (DT These) (NNS factors)) (VP (VBP introduce) (NP (NP (NNS issues)) (PP (IN in) (NP (NN controller) (NN performance))))) (. .))

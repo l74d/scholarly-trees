@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ has) (NP (CD two) (NNS messages))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (JJ neural) (NNS networks)) (VP (MD can) (VP (VB learn) (S (VP (TO to) (VP (VB exploit) (NP (NP (NNS correlations)) (PP (IN between) (NP (NP (JJ noisy) (NNS data)) (CC and) (NP (JJ suitable) (JJ auxiliary) (NN noise))))))))))))) (. .))

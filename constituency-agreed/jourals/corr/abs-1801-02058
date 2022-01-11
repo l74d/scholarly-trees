@@ -1,0 +1,2 @@
+(S (S (VP (VBG Utilizing) (NP (PRP$ our) (JJ robust) (NN odometry)))) (, ,) (NP (JJ local) (JJ environmental) (NNS views)) (VP (MD can) (VP (VB be) (VP (VBN associated) (CC and) (VBN fused)))) (. .))
+(S (ADVP (RB Furthermore)) (NP (PRP$ our) (JJ robust) (NN odometry)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB detect) (CC and) (VB exclude) (NP (JJ erroneous) (NN position) (NNS estimates)))))))) (. .))

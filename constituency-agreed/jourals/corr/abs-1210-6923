@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG resulting) (JJ orthogonal) (NN array)) (VP (VBZ has) (NP (NP (DT the) (JJ same) (NN strength)) (PP (IN as) (NP (DT the) (NN seed) (JJ orthogonal) (NN array))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (DT the) (NN proof)) (PP (IN of) (NP (NP (NN correctness)) (PP (IN of) (NP (DT the) (NN algorithm))))))) (. .))

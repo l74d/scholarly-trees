@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (NP (DT the) (VBG increasing) (NN complexity)) (PP (IN of) (NP (VBG computing) (NNS systems))))) (, ,) (NP (JJ complete) (NN hardware) (NN reliability)) (VP (MD can) (ADVP (RB no) (RB longer)) (VP (VB be) (VP (VBN guaranteed)))) (. .))
+(S (NP (PRP We)) (VP (VBP need) (, ,) (ADVP (RB however)) (, ,) (S (VP (TO to) (VP (VB ensure) (NP (JJ overall) (NN system) (NN reliability)))))) (. .))

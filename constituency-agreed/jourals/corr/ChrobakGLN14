@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN model)) (PP (IN with) (NP (NN unit) (NNS jobs)))))) (. .))
+(S (NP (NP (JJ Other) (NNS versions)) (SBAR (S (NP (PRP we)) (VP (VBP study))))) (VP (VBP include) (S (VP (VP (VBG minimizing) (NP (JJ maximum) (NN gap))) (CC or) (VP (VBG maximizing) (NP (JJ minimum) (NN gap)))))) (. .))

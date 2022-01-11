@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT Each) (NN robot) (POS 's)) (NN motion)) (PP (IN in) (NP (DT the) (NN environment)))) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (DT a) (JJ weighted) (NN transition) (NN system))))) (. .))

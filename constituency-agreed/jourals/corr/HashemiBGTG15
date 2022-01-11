@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (NN hardware) (NN implementation)) (VP (VBZ requires) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (NN memory)))) (, ,) (S (ADVP (RB mainly)) (VP (TO to) (VP (VB store) (NP (JJ intermediate) (NNS results)))))) (. .))
+(S (NP (DT The) (NN decoder) (NN tree)) (VP (VBZ is) (VP (VBN broken) (PP (IN into) (NP (NP (NNS partitions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN decoded) (ADVP (RB separately)))))))))) (. .))

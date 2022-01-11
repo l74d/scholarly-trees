@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (MD can) (VP (VP (VB learn) (PP (IN from) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNS samples)) (VP (VBN written) (PP (IN by) (NP (NNS people))))))))) (CC and) (VP (VB obtain) (NP (NP (DT a) (JJ good) (NN estimate)) (PP (IN of) (NP (DT the) (JJ statistical) (NN language) (NN model))))))) (. .))

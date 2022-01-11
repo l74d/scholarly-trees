@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB provide) (NP (NP (DT a) (JJR better) (NN understanding)) (PP (IN of) (NP (DT a) (JJ symmetric) (NN loss)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP conduct) (NP (NNS experiments)) (S (VP (TO to) (VP (VB validate) (NP (NP (DT the) (NN relevance)) (PP (IN of) (NP (DT the) (JJ symmetric) (NN condition)))))))) (. .))

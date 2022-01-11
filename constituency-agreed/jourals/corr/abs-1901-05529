@@ -1,0 +1,2 @@
+(S (NP (NP (NN Convergence) (NNS properties)) (PP (IN of) (NP (JJ many) (JJ such) (NNS algorithms)))) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ unclear))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ enjoys) (NP (NP (JJ lightweight) (NNS updates)) (CC and) (NP (JJ small) (NN memory) (NN footprint)))) (. .))

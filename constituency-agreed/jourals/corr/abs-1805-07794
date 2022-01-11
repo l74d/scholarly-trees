@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ iterates) (SBAR (IN until) (S (NP (NP (DT all)) (PP (IN of) (NP (DT the) (NNS objects)))) (VP (VBP are) (VP (VBN recognized) (CC and) (VBN reconstructed) (PP (IN in) (NP (DT the) (NN scene)))))))) (. .))
+(S (NP (JJ Various) (NNS experiments) (CC and) (NNS comparisons)) (VP (VBP have) (VP (VBN shown) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN approach)))))) (. .))

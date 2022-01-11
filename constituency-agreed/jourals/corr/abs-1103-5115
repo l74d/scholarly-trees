@@ -1,0 +1,3 @@
+(S (NP (DT Each) (NN correspondent)) (VP (VBZ is) (VP (VBN distributed) (NP (DT a) (JJ different) (JJ disposable) (NN home) (NN address)))) (. .))
+(S (S (VP (VBG Blocking) (NP (CD one) (NN address)))) (VP (VBZ does) (RB not) (VP (VB affect) (NP (JJ other) (NNS addresses)))) (. .))
+(S (NP (JJ Other) (NNS correspondents)) (VP (MD can) (ADVP (RB still)) (VP (VB reach) (NP (DT the) (JJ mobile) (NN host)))) (. .))

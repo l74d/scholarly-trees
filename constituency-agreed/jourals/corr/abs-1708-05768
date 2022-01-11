@@ -1,0 +1,1 @@
+(S (NP (PRP$ Their) (NN construction)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NP (DT an) (JJ iterative) (NN refinement) (NN procedure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ exploits) (NP (NP (DT the) (NNS co-dependencies)) (PP (IN between) (NP (NNS features) (CC and) (NNS observations))))))))))) (. .))

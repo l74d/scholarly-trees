@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NNS analyses)) (PP (IN of) (NP (DT the) (CD two) (NNS problems)))) (VP (VBP rely) (PP (IN on) (NP (DT the) (ADJP (RB recently) (VBN developed)) (NN bearing) (NN rigidity) (NN theory)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (CD two) (NNS problems)) (VP (VP (VBP have) (NP (DT the) (JJ same) (JJ mathematical) (NN formulation))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (NP (JJ identical) (NNS protocols)))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN supported) (PP (IN with) (NP (JJ illustrative) (NNS simulations))))) (. .))

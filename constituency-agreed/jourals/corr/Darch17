@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS datasets)) (VP (MD must) (VP (VB win) (NP (NP (DT the) (NN trust)) (PP (IN of) (NP (DT the) (JJ scientific) (NN community)))))) (. .))
+(S (NP (NP (DT The) (NN task)) (PP (IN of) (S (VP (VBG securing) (NP (NN credibility)))))) (VP (VBZ involves) (, ,) (PP (IN in) (NP (NN part))) (, ,) (S (VP (VBG applying) (NP (JJ standard) (JJ scientific) (NNS procedures)) (S (VP (TO to) (VP (VB clean) (NP (DT these) (NNS datasets)))))))) (. .))

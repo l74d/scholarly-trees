@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (NNP QoS)) (VP (VBZ is) (VP (VBN derived) (PP (IN via) (NP (NP (DT an) (NN optimization) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (DT the) (JJ total) (NN revenue))))))))) (. .))

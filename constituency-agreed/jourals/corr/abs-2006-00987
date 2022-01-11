@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ classical) (JJ exhaustive) (NN enumeration)) (VP (VBZ is) (VP (VBN shown) (PP (IN for) (NP (DT a) (JJ few) (NNS examples))))) (. .))
+(S (NP (NP (DT The) (JJ precise) (NN quantum) (NN circuit) (NN design)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (VP (VBG executing) (NP (NP (DT a) (NN superposition)) (PP (IN of) (NP (NN automata)))))))))) (VP (VBZ is) (VP (VBN presented))) (. .))

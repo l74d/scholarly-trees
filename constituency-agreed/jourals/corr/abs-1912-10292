@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG applying) (NP (JJ deep) (NNS networks)) (PP (IN in) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (NN training) (NN dataset)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP perform) (NP (JJ thorough) (NN ablation) (NN study)) (S (VP (TO to) (VP (VB validate) (NP (PRP$ our) (NN design) (NNS choices)))))) (. .))

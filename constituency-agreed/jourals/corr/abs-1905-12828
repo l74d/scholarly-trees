@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN insight)))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB mix) (NP (JJ different) (NN target) (NNS styles)) (, ,) (S (VP (VBG using) (NP (NP (NNP Wasserstein) (NN barycenter)) (PP (IN of) (NP (JJ Gaussian) (NNS measures))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN ability) (S (VP (TO to) (VP (VB interpret) (NP (DT a) (NN scene)))))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN capability)) (PP (IN for) (NP (NP (DT a) (NN robot)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN supposed) (S (VP (TO to) (VP (VB interact) (PP (IN with) (NP (PRP$ its) (NN environment)))))))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP address) (NP (NP (DT the) (NN deployment)) (PP (IN on) (NP (DT a) (JJ real) (JJ robotic) (NN platform))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT these) (JJ adversarial) (NN latent) (NNS vectors)) (VP (MD can) (VP (VB be) (VP (VBN shaped) (SBAR (RB so) (IN as) (S (VP (TO to) (VP (VB be) (ADJP (RB statistically) (JJ indistinguishable) (PP (IN from) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ genuine) (NNS inputs)))))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN practice))) (, ,) (ADVP (RB however)) (, ,) (NP (NNS contents)) (VP (MD may) (VP (VB have) (NP (JJ heterogeneous) (NN timeliness) (NNS requirements)) (PP (VBG depending) (PP (IN on) (NP (NP (DT the) (NNS applications)) (SBAR (WHNP (WDT that)) (S (VP (VBP operate) (PP (IN on) (NP (PRP them))))))))))) (. .))
+(S (NP (DT The) (JJ main) (NNS results)) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (NP (JJ numerical) (NNS examples))))) (. .))

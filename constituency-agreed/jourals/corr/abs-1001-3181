@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT a) (JJ reasonable) (NN explanation)) (PP (IN for) (NP (DT this)))) (PP (IN by) (NP (JJ extra) (NN analysis) (CC and) (NNS experiments)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP conclude) (SBAR (IN that) (S (NP (JJ weak) (NNS ties)) (VP (VBP play) (NP (DT a) (JJ subtle) (NN role)) (PP (IN in) (NP (NP (DT the) (NN information) (NN diffusion)) (PP (IN in) (NP (JJ online) (JJ social) (NNS networks))))))))) (. .))

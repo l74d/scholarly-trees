@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NP (DT an) (JJ operable) (JJ second) (NN version)) (PP (IN of) (NP (DT this) (NN software)))) (VP (VBD was) (VP (VBN released))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT a) (JJ brief) (NN overview)) (PP (IN of) (NP (NP (DT the) (JJ key) (NNS improvements)) (PP (IN in) (NP (DT the) (NNP Cadabra) (NN system))))))) (. .))

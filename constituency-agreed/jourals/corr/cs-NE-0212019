@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN advantage)) (VP (VBZ is) (SBAR (IN that) (S (NP (NN evolution)) (VP (VP (VBZ takes) (NP (NN place)) (PP (IN in) (NP (NP (DT the) (NN space)) (PP (IN of) (NP (NNS constructs)))))) (CC and) (VP (MD can) (ADVP (RB thus)) (VP (VB exploit) (NP (NP (DT the) (JJ mathematical) (NNS structures)) (PP (IN of) (NP (DT this) (NN space)))))))))) (. .))
+(S (NP (DT A) (NN prototype)) (VP (VBZ has) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB implement) (NP (DT the) (NN scheme)) (PP (IN in) (NP (NNP PERL))))))))) (. .))

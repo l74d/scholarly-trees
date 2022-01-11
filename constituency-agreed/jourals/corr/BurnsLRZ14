@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP identify) (CC and) (VBP fix) (NP (NP (JJ potential) (NN livelock) (NNS conditions)) (PP (IN in) (NP (PRP$ our) (NN approach)))) (, ,) (S (VP (VBG proving) (NP (PRP$ its) (NN correctness)) (S (VP (VBG using) (NP (JJ temporal) (NN logic))))))) (. .))

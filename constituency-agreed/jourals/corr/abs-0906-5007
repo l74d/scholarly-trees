@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN individual)) (VP (VBZ holds) (NP (NP (DT a) (NN belief)) (VP (VBN represented) (PP (IN by) (NP (DT a) (NN scalar)))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ characterizes) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ forceful) (NNS agents)))) (VP (VBZ interferes) (PP (IN with) (NP (NN information) (NN aggregation))))))) (. .))

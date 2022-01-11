@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (JJ inductive) (NN method)) (S (VP (TO to) (VP (VB show) (NP (NP (NN correctness)) (PP (IN of) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (JJ dead) (NN code) (NN elimination)))))))))) (. .))

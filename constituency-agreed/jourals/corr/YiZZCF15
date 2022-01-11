@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN inspiration)) (VP (VBZ comes) (PP (IN from) (NP (DT the) (NN frog) (NN scooter) (CC and) (NN breaststroke)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ underwater) (NNS experiments)))) (VP (VBD were) (VP (VBN performed) (S (VP (TO to) (VP (VB verify) (NP (NP (NP (DT the) (NN design) (NN feasibility)) (PP (IN of) (NP (NNP FroBot)))) (CC and) (NP (NP (DT the) (NN rationality)) (PP (IN of) (NP (DT the) (NN control) (NN algorithm)))))))))) (. .))

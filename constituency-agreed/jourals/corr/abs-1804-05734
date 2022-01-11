@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (VBZ outperforms) (NP (DT the) (NN baseline) (NNS solutions)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (JJR better) (NN tagging) (NNS performances)) (CC and) (NP (NN stability)))))))))) (. .))

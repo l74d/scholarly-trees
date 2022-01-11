@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN number) (CC or) (NN size)) (PP (IN of) (NP (DT the) (NN output) (NNS clusters)))) (VP (VBZ is) (RB not) (VP (VBN constrained) (PP (IN in) (NP (DT any) (NN way))))) (. .))
+(S (NP (DT This) (JJ simple) (NN idea)) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (ADJP (JJ evasive)))))) (. .))

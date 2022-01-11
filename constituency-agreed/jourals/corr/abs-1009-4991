@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (JJ second) (NN stage)) (VP (VBZ includes) (S (VP (VBG fixing) (NP (NP (DT the) (NN input) (NNS values)) (PP (IN of) (NP (DT the) (JJ neural) (NN network)))))))) (: ;) (S (NP (PDT all) (DT the) (NNS values)) (VP (VBP remain) (PP (IN between) (NP (CD 0) (CC and) (CD 1))))) (. .))
+(S (NP (NP (DT The) (NNS variations)) (PP (IN in) (NP (DT those) (NNS values)))) (VP (VBP affect) (NP (DT the) (NN output))) (. .))

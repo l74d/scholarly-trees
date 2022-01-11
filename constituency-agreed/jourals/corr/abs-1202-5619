@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (JJ closed) (NN walk)) (SBAR (WHNP (WDT that)) (S (VP (VBZ minimizes) (NP (NP (DT the) (JJ maximum) (JJ weighted) (NN latency)) (PP (IN of) (NP (DT any) (NN vertex)))))))))))) (. .))

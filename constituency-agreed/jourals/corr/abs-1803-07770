@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Decades)) (PP (IN of) (NP (NP (NN research)) (PP (IN on) (NP (NP (DT the) (JJ neural) (NN code)) (VP (VBG underlying) (NP (JJ spatial) (NN navigation)))))))) (VP (VBP have) (VP (VBN revealed) (NP (NP (DT a) (JJ diverse) (NN set)) (PP (IN of) (NP (JJ neural) (NN response) (NNS properties)))))) (. .))
+(S (NP (NP (PDT All) (DT these) (JJ different) (JJ functional) (NNS types)) (PP (IN of) (NP (NNS neurons)))) (VP (VBP have) (VP (VBN been) (VP (VBN observed) (ADVP (RB experimentally))))) (. .))

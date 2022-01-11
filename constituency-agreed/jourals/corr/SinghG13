@@ -1,0 +1,2 @@
+(S (PP (IN From) (NP (DT a) (NN scene))) (, ,) (NP (NP (NNS clusters)) (PP (IN of) (NP (NNS objects)))) (VP (VBP are) (VP (VBN formed) (PP (VBN based) (PP (IN on) (NP (DT the) (NN scale) (CC and) (NN shape)))))) (. .))
+(S (NP (DT The) (JJ minimum) (NN operation) (S (VP (TO to) (VP (VB detect) (NP (NP (DT the) (JJ possible) (NN shape)) (PP (IN of) (NP (DT the) (NN object)))))))) (VP (VBZ is) (VP (VBN performed))) (. .))

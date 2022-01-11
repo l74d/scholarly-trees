@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (PRP$ our) (JJ supervised) (NN approach)))) (PP (IN with) (NP (NP (NNS models)) (VP (VBN generated) (PP (IN from) (NP (JJ different) (NN segment) (NNS lengths))))))) (. .))

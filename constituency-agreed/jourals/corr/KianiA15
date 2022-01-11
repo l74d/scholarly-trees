@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN convexity)) (PP (IN of) (NP (PRP$ our) (NN optimization) (NN problem)))))) (CC and) (S (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN workload) (NN distribution) (NN strategy)))) (VP (VBZ is) (VP (VBN evaluated) (PP (IN via) (NP (NNS simulations)))))) (. .))

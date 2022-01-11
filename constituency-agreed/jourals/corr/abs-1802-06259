@@ -1,0 +1,1 @@
+(S (NP (VBG Existing) (NNS works)) (VP (VB interpret) (NP (DT a) (JJ pre-trained) (JJ neural) (NN network)) (PP (IN by) (S (VP (VP (VBG analyzing) (NP (JJ hidden) (NNS neurons))) (, ,) (VP (VBG mimicking) (NP (JJ pre-trained) (NNS models))) (CC or) (VP (VBG approximating) (NP (JJ local) (NNS predictions))))))) (. .))

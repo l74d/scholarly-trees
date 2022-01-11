@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBD was) (VP (VBN determined) (SBAR (IN that) (S (NP (DT a) (NN diphone) (NN synthesis) (NN system)) (VP (VBD was) (NP (NP (DT the) (ADJP (RBS most) (JJ effective)) (NN choice)) (PP (IN for) (NP (NP (DT the) (NN scope)) (PP (IN of) (NP (DT this) (NN project))))))))))) (. .))
+(S (NP (NP (DT A) (NN system)) (PP (IN for) (S (VP (VBG smoothing) (NP (NP (DT the) (NNS transitions)) (PP (IN between) (NP (NN diphone) (NNS recordings)))))))) (VP (VBD was) (VP (VBN designed) (CC and) (VBN implemented))) (. .))

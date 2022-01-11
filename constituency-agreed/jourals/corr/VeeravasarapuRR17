@@ -1,0 +1,1 @@
+(S (ADVP (RB Initially)) (, ,) (NP (PRP we)) (VP (VBP assume) (NP (JJ uniform) (NNS distributions)) (PP (IN as) (NP (NP (NNS priors)) (PP (IN on) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (NP (DT a) (NN scene)) (VP (VBN described) (PP (IN by) (NP (DT a) (JJ generative) (JJ graphical) (NN model))))))))))) (. .))

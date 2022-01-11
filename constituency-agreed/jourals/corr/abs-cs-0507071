@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN approach)) (VP (VBG securing) (NP (DT a) (NN system)) (PP (IN without) (NP (NP (DT any) (NN knowledge)) (PP (IN of) (NP (DT the) (NN system) (NN source) (NN code)))))))) (. .))
+(S (ADVP (RB Moreover)) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (NN hardware) (NNS tokens)) (CC and) (NP (JJ proactive) (NN computing))))) (VP (VBZ is) (VP (VBN demonstrated))) (. .))

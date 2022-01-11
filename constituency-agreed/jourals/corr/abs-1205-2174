@@ -1,0 +1,3 @@
+(S (S (VP (VBG Speaking) (PP (IN about) (NP (NN synchronization) (NNS costs))))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (JJ deterministic) (NN automata)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (NN transition)) (VP (VBZ has) (NP (DT a) (JJ certain) (NN price))))))) (. .))
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (SBAR (IN whether) (CC or) (RB not) (S (NP (DT a) (VBN given) (NN automaton)) (VP (MD can) (VP (VB be) (VP (VBN synchronized) (PP (IN within) (NP (DT a) (VBN given) (NN budget))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT this) (NN problem))))) (. .))

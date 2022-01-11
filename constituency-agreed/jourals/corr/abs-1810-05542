@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NNS contracts)) (VP (VBP are) (VP (VBN supported) (PP (IN by) (NP (NP (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBP enable) (NP (NP (NP (DT the) (NN verification)) (PP (IN of) (NP (NN contract) (NN implementation)))) (CC and) (NP (NP (DT the) (NN comparison)) (PP (IN of) (NP (NNS contracts)))))))))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (DT a) (NN vehicle) (VBG following) (NN system))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (DT a) (VBN given) (NN network)) (VP (VBZ has) (NP (NP (JJ many) (NNS factorizations)) (SBAR (WHNP (WDT which)) (S (VP (VBP change) (NP (NP (DT the) (NNS weights)) (PP (IN of) (NP (DT the) (NN network)))) (PP (IN without) (S (VP (VBG changing) (NP (PRP$ its) (NN function)))))))))) (. .))

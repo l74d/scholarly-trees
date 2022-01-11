@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN course) (NN aggregation) (NN model)) (PP (IN of) (NP (DT the) (JJ original) (NN covariance) (NN matrix)))) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (JJ iterative) (NN solution)) (PP (IN of) (NP (DT the) (NN eigenvalue) (NN problem))))) (PP (IN by) (NP (DT a) (NN power) (NNS iterations) (NN method))))) (. .))

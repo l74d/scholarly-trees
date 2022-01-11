@@ -1,0 +1,3 @@
+(S (NP (NN Co-simulation) (NNS platforms)) (VP (VBP are) (ADJP (JJ necessary) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NNS interactions)) (PP (IN of) (NP (NP (JJ complex) (NNS systems)) (VP (VBN integrated) (PP (IN in) (NP (JJ future) (JJ smart) (NNS grids)))))))))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (CD two) (NNS objectives))) (. .))
+(S (NP (NP (NNS Results)) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS systems)) (VP (VBP interact) (S (VP (VBG using) (NP (NP (DT a) (JJ real) (NN network)) (CC and) (NP (NN consumption) (NNS data)))))))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN presented))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT These)) (VP (VBP are) (ADVP (RB mostly)) (NP (NNS batteries))) (. .))
+(S (NP (NP (DT The) (NN lifetime)) (PP (IN of) (NP (DT the) (NNS devices)))) (VP (VBZ depends) (PP (PP (IN on) (NP (DT the) (NN power) (NN consumption))) (CC and) (PP (IN on) (NP (NP (DT the) (NN quality) (CC and) (NN capacitance)) (PP (IN of) (NP (DT the) (NN battery))))))) (. .))

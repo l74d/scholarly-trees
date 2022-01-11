@@ -1,0 +1,4 @@
+(SQ (MD Could) (NP (PRP we)) (VP (VB define) (NP (PRP I))) (. ?))
+(S (CC But) (NP (DT this) (JJ negative) (NN answer)) (VP (VBZ depends) (PP (IN on) (NP (NP (PRP$ our) (NN definition)) (PP (IN of) (NP (NN definability)))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP try) (S (VP (TO to) (VP (VB consider) (NP (NP (JJ sufficient) (VBN generalized) (NN definition)) (PP (IN of) (NP (NN definability)))))))) (. .))
+(S (PP (IN In) (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (NN paper))))) (NP (DT a) (NN paradox)) (VP (MD will) (VP (VB arise) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (S (NP (PRP us)) (VP (TO to) (VP (VB modify) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP we)) (VP (VBP use) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN property) (CC and) (NN definability)))))))))))))))) (. .))

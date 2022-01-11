@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN proof)) (VP (VBZ is) (ADJP (ADJP (JJR simpler)) (PP (IN than) (NP (NP (JJ previous) (NN proofs)) (PP (IN of) (NP (DT this) (NN result))))))) (. .))
+(S (S (NP (NP (DT The) (NN technique)) (PP (IN of) (NP (DT the) (NN proof)))) (VP (VBZ is) (ADJP (JJ new)))) (, ,) (FRAG (WHADVP (JJ i.e.)) (, ,) (S (NP (PRP it)) (VP (VBZ is) (RB not) (NP (NP (RB merely) (DT a) (JJ coinductive) (NN reformulation)) (PP (IN of) (NP (DT any) (JJR earlier) (NN proofs))))))) (. .))
+(S (NP (PRP We)) (VP (VBD formalised) (NP (DT the) (NN proof)) (PP (IN in) (NP (DT the) (NNP Coq) (NN proof) (NN assistant)))) (. .))

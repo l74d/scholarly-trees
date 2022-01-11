@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN relevance)) (PP (IN of) (NP (DT each) (NN input) (NN variable)))) (VP (VBZ is) (VP (VBN calculated)))) (CC and) (S (NP (NP (DT a) (NN model)) (VP (VBG approximating) (NP (DT the) (NN target) (NN variable)))) (VP (VBZ is) (VP (VBN created)))) (. .))

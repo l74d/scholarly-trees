@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (NP (NP (JJ fair) (NN division)) (PP (IN of) (NP (JJ indivisible) (NNS goods)))))) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN problem)) (PP (IN of) (NP (JJ social) (NN choice))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (JJ polynomial) (NN time)))))) (. .))

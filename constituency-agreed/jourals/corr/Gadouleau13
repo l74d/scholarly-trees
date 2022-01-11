@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN entropy)) (PP (IN of) (NP (DT a) (NN closure) (NN operator)))) (VP (VBZ has) (VP (VBN been) (ADVP (RB recently)) (VP (VBN proposed) (PP (IN for) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NP (NN network) (NN coding)) (CC and) (NP (JJ secret) (NN sharing))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP justify) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN solvability)) (PP (IN of) (NP (NN closure) (NNS operators))))) (ADVP (RB only)))))) (. .))

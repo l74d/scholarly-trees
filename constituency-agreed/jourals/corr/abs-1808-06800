@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB perform) (NP (DT the) (NN operation)) (PP (PP (IN in) (NP (NP (DT a) (JJ reasonable) (NN amount)) (PP (IN of) (NP (NN space))))) (CC and) (PP (IN with) (NP (ADJP (RB sufficiently) (JJ low)) (NN latency))))))) (, ,) (NP (VBN approximated) (NNS methods)) (VP (VBP are) (VP (VBN used))) (. .))
+(S (PP (IN By) (S (VP (VBG using) (NP (JJ multiple) (NN hash) (NNS functions))))) (, ,) (NP (PRP they)) (VP (VBP summarize) (NP (JJ massive) (NNS streams)) (PP (IN in) (NP (JJ sub-linear) (NN space)))) (. .))

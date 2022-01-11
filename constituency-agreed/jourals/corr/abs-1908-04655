@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Priors)) (PP (IN in) (NP (JJ Bayesian) (NNS analyses)))) (ADVP (RB often)) (VP (VBP encode) (NP (NP (JJ informative) (NN domain) (NN knowledge)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (ADJP (JJ useful) (PP (IN in) (S (VP (VBG making) (S (NP (DT the) (NN inference) (NN process)) (ADJP (RBR more) (JJ efficient))))))))))))) (. .))

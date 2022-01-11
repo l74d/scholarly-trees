@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (VBG following))) (NP (DT an) (NN architecture)) (VP (VBZ is) (VP (VBN introduced) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (NN pipeline)) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN time) (NN complexity)) (PP (IN of) (NP (NN algorithm)))))))))))) (. .))

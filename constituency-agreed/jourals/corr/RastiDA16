@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN technique)) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (PP (IN on) (NP (NNP Lena) (, ,) (NNP Elaine) (, ,) (NNP Pepper) (, ,) (CC and) (NNP Baboon)))))) (. .))
+(S (PP (IN For) (NP (NP (NNP Lena) (POS 's)) (NN image))) (, ,) (NP (DT the) (NNP PSNR)) (VP (VBZ is) (ADJP (ADJP (NP (CD 6.52) (NN dB)) (JJR higher)) (PP (IN than) (NP (DT the) (JJ bicubic) (NN interpolation))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN diversity)) (PP (IN of) (NP (JJ complex) (NNS models)))) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (PP (IN for) (NP (NP (DT a) (JJ wide) (NN variety)) (PP (IN of) (NP (NNS applications)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ efficient) (NN CD) (NNS approaches)) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN derived) (PP (IN for) (NP (ADJP (RBR more) (JJ complex)) (NNS models)))))) (. .))

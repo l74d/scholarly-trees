@@ -1,0 +1,1 @@
+(S (NP (NNS diagrams)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ useful) (CC and) (JJ successful)) (NN method)) (PP (IN for) (S (VP (VP (VBG providing) (NP (NP (DT a) (NNS semantics)) (PP (IN of) (NP (DT a) (JJ functional) (NN programming) (NN language))))) (CC and) (VP (VBG proving) (NP (NP (NN correctness)) (PP (IN of) (NP (NN program) (NNS transformations)))))))))) (. .))

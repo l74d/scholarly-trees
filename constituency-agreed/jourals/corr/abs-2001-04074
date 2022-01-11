@@ -1,0 +1,2 @@
+(S (NP (NP (NN Segmentation)) (PP (IN of) (NP (DT an) (NN image)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ indispensable) (NNS tasks)) (PP (IN in) (NP (NN computer) (NN vision))))))) (. .))
+(S (ADVP (RB Basically)) (, ,) (NP (NN image) (NN segmentation)) (VP (MD can) (VP (VB be) (PP (IN of) (NP (NP (CD two) (NNS types)) (: :) (NP (NP (JJ semantic) (NN segmentation)) (CC and) (NP (NN instance) (NN segmentation))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN index) (VBG coding) (NN problem)) (VP (VBZ includes) (NP (NP (DT a) (NN server)) (, ,) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS clients)))) (, ,) (CC and) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS data) (NNS chunks)))))) (. .))
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT the) (NN problem)))) (VP (VBZ is) (S (VP (TO to) (VP (VB satisfy) (NP (NP (DT the) (NNS demands)) (PP (IN of) (NP (DT all) (NNS clients)))) (PP (IN with) (NP (NP (DT the) (JJ minimum) (NN number)) (PP (IN of) (NP (NNS transmissions))))))))) (. .))

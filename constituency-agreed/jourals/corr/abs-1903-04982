@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NP (DT the) (NN growth)) (PP (IN of) (NP (JJ deep) (NN learning)))) (VP (VBZ has) (VP (VBN produced) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))))) (. .))
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB describe) (NP (DT these) (NNS networks)) (ADVP (RB unifiedly)))))) (VP (VBZ is) (VP (VBG becoming) (NP (DT an) (JJ important) (NN issue)))) (. .))

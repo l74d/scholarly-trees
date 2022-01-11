@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN edit) (NN distance)) (PP (IN under) (NP (DT the) (NNP DCJ) (NN model)))) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN in) (NP (JJ linear) (NN time))) (PP (PP (IN for) (NP (NP (NNS genomes)) (PP (IN with) (NP (JJ equal) (NN content))))) (CC or) (PP (IN with) (NP (NNP Indels))))))) (. .))

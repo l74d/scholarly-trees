@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (NN approach)) (PP (IN for) (S (VP (VBG representing) (NP (NN term) (NNS positions)) (PP (IN in) (NP (NNS documents))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

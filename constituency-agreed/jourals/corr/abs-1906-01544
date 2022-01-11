@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ reduces) (NP (NP (DT the) (JJ computational) (NN cost)) (PP (IN of) (NP (DT the) (NN algorithm))))) (. .))
+(S (NP (NP (NNP Numerical) (NNS examples)) (SBAR (WHNP (WDT which)) (S (VP (VBP confirm) (NP (DT the) (JJ theoretical) (NNS results)))))) (VP (VBP are) (VP (VBN presented) (CC and) (VBN discussed))) (. .))

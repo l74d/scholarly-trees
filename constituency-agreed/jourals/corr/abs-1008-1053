@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN as) (NP (NP (DT a) (NN tool)) (PP (IN for) (NP (NN graph) (NN representation))))) (, ,) (NP (NN proximity) (NNS graphs)) (VP (VBP have) (NP (NP (DT some) (NNS limitations)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB be) (VP (VBN overcome) (PP (IN with) (NP (JJ suitable) (NNS generalizations)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN emergency) (NNS situations))) (, ,) (NP (NP (NNS actions)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP save) (NP (NNS lives))) (CC and) (VP (VB limit) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NNS hazards))))))))) (VP (VBP are) (ADJP (JJ crucial))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ poses) (NP (NP (NNS challenges)) (PP (IN in) (NP (NP (JJ big) (NNS data)) (CC and) (NP (NN information) (NN overflow)))))) (. .))

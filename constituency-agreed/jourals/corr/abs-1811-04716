@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNS models)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB use) (NP (JJ multiple) (NNS sources))) (CC and) (VP (VB improve) (PP (IN over) (NP (JJ single) (NN source) (NNS baselines)))))))))))) (. .))

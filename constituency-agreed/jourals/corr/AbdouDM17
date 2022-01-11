@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN communication) (NN mode)) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN used) (PP (IN for) (S (VP (VBG sending) (NP (NP (NN safety) (NNS messages)) (CC and) (NP (NN traffic) (NN information)))))))) (. .))
+(S (NP (DT The) (JJ first) (NN step)) (VP (VBZ uses) (NP (DT a) (JJ genetic) (NN algorithm)) (S (VP (TO to) (VP (VB find) (NP (NP (NNS solutions)) (SBAR (WHNP (WDT that)) (S (VP (VBP fit) (NP (DT the) (NN network) (NN context)))))))))) (. .))

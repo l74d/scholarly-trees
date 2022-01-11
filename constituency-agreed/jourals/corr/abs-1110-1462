@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Wasserstein) (NN distance)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB compare) (NP (CD two) (NNS histograms))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT this)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (S (VP (VBG using) (NP (JJ adaptive) (NNS distances)))))))))) (. .))

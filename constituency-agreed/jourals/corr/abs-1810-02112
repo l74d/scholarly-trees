@@ -1,0 +1,2 @@
+(S (S (VP (VBG Estimating) (NP (NP (DT the) (NN dependency)) (PP (IN of) (NP (NNS variables)))))) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN task)) (PP (IN in) (NP (NNS data) (NN analysis))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP MWP)) (VP (VP (VBZ satisfies) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ desirable) (NNS properties))))) (CC and) (VP (MD can) (VP (VB accommodate) (NP (NP (DT any) (NN kind)) (PP (IN of) (NP (JJ numerical) (NNS data)))))))))) (. .))

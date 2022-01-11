@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT the) (NNS 1950-ies))) (NP (NNP P.) (NNP F.) (NNP Strawson)) (VP (VBD proposed) (NP (NP (DT the) (NNP Logic)) (PP (IN of) (NP (NNP Presuppositions))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN system))) (NP (NP (VBZ sentences)) (PP (IN with) (NP (JJ empty) (NN subject)))) (VP (VBP are) (VP (VBN considered) (ADJP (RB neither) (JJ true) (CC nor) (JJ false)))) (. .))
+(S (NP (NNP Strawson)) (VP (VBD considered) (NP (NP (RB only) (JJ simple) (NNS sentences)) (PP (IN with) (NP (CD two) (NN predicate) (NNS letters))))) (. .))
+(S (CC But) (NP (DT the) (NN concept)) (VP (MD can) (VP (VB be) (VP (VBN extended) (PP (TO to) (NP (JJ arbitrary) (NN monadic) (, ,) (RB even) (JJ polyadic) (NNS sentences))) (VP (VBG utilizing) (NP (NP (JJ truth-relevant) (NN logic)) (VP (VBN developed) (PP (IN by) (NP (NNP Richard) (NNP Diaz))))))))) (. .))

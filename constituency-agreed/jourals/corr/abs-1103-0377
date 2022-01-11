@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (NP (DT the) (NNS entropies)) (PP (IN of) (NP (DT the) (NNS sub-trees)))))) (NP (PRP we)) (VP (VBD proved) (NP (NP (DT an) (NN inequality)) (SBAR (WHNP (WDT that)) (S (VP (VBZ compares) (NP (NP (DT the) (JJR lower) (NNS bounds)) (VP (VBN obtained) (PP (IN from) (NP (JJ different) (NNS sub-trees)))))))))) (. .))

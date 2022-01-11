@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (ADVP (RB always)) (VP (VBZ generates) (NP (JJ complete) (NNS objects)) (, ,) (SBAR (RB even) (IN though) (S (NP (NP (DT a) (JJ significant) (NN fraction)) (PP (IN of) (NP (NN training) (NNS images)))) (VP (VBP contain) (NP (NNS occlusions)))))) (. .))

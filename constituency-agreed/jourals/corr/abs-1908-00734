@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN challenge))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (JJ adversarial) (NN autoencoder) (NNS networks))))) (. .))
+(S (NP (NP (NP (NNS Experiments)) (PP (IN on) (NP (CD two) (NNS datasets)))) (CC and) (NP (NP (JJ initial) (NN feedback)) (VP (VBN received) (PP (IN by) (NP (JJ forensic) (NNS accountants)))))) (VP (VBD underpinned) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN approach))))) (. .))

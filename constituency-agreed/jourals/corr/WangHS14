@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP they)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT an) (NN agent)) (VP (MD may) (VP (VB estimate) (NP (NP (DT the) (NN trustworthiness)) (PP (IN of) (NP (DT another) (NN agent)))) (PP (VBN based) (PP (IN on) (NP (JJ prior) (NNS interactions))))))))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG maintaining) (NP (NN trust)))))) (VP (VBZ has) (VP (VBN drawn) (NP (JJ little) (NN attention)))) (. .))

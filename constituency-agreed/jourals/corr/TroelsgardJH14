@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (JJ multi-modal) (NN topic) (NN model)) (PP (IN as) (NP (NP (DT a) (NN basis)) (PP (IN for) (S (VP (VBG defining) (NP (NP (PDT such) (DT a) (NN similarity)) (PP (IN between) (NP (NNS objects)))))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (DT a) (NN music) (NN dataset))))) (. .))

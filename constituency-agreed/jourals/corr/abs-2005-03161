@@ -1,0 +1,1 @@
+(S (NP (JJ Such) (NNS attacks)) (VP (VBP train) (NP (DT a) (NN clone) (NN model)) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (NNS predictions)) (PP (IN of) (NP (DT the) (NN target) (NN model)))) (PP (IN for) (NP (JJ different) (NNS inputs))))))) (. .))

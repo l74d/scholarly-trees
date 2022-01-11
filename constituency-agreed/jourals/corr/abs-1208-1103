@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN model)) (VP (VBZ is) (VP (VBN developed) (PP (IN within) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (DT a) (JJ specific) (NN control) (NN problem))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN framework)) (VP (MD should) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB adapt) (CC and) (VB emphasize) (NP (JJ different) (NNS properties)) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN control) (NN objective)) (CC and) (NP (NP (DT the) (NN nature)) (PP (IN of) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (DT the) (NN system))))))))))))))) (. .))

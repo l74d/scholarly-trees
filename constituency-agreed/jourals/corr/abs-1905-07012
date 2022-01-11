@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (CD two) (JJ different) (NNS approaches))) (. .))
+(S (NP (DT These) (NNS primitives)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB define) (NP (CD 24) (JJ multi-modal) (JJ primitive) (NNS features))))))) (. .))
+(S (NP (DT The) (JJ primitive) (NNS features)) (VP (MD can) (PP (IN in) (NP (NN turn))) (VP (VB be) (VP (VP (VBN used) (PP (IN as) (NP (NP (DT an) (JJ abstract) (NN representation)) (PP (IN of) (NP (DT the) (JJ multi-modal) (NN signal)))))) (CC and) (VP (VBN employed) (PP (IN for) (NP (NN action) (NN recognition))))))) (. .))
+(S (NP (DT The) (JJ visual) (NNS features)) (VP (VBP are) (ADVP (RB subsequently)) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT the) (NN classifier))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT both) (NNS approaches)) (VP (VBP produce) (NP (DT a) (JJ comparable) (NN performance)))))) (. .))

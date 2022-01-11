@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Incorrect) (NNS implementations)) (PP (IN of) (NP (NN network) (NN protocol) (NN message) (NNS specifications)))) (VP (VBP affect) (NP (NP (DT the) (NN stability) (, ,) (NN security) (, ,) (CC and) (NN cost)) (PP (IN of) (NP (NN network) (NN system) (NN development))))) (. .))
+(S (NP (JJS Most) (NN implementation) (NNS defects)) (VP (VBP fall) (PP (IN into) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD three) (NNS categories)) (PP (IN of) (NP (ADJP (RB well) (VBN defined)) (NN message) (NNS constraints)))))))) (. .))

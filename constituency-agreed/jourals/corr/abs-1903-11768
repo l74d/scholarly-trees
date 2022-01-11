@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN process)) (VP (VBZ stops) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN algorithm)) (VP (VBZ reaches) (NP (NP (DT a) (JJ stable) (NN set)) (PP (IN of) (NP (NNS invariants)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP SymInfer)) (VP (VBZ outperforms) (NP (VBG existing) (JJ invariant) (NN generation) (NNS systems)))))) (. .))

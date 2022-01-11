@@ -1,0 +1,2 @@
+(S (S (NP (DT These) (NNS systems)) (VP (VBP are) (ADJP (JJ essential) (PP (IN for) (NP (PRP$ our) (NN life)))))) (, ,) (S (ADVP (RB thus)) (NP (NP (NNS cyberattacks)) (PP (IN against) (NP (DT the) (NN system)))) (VP (MD must) (VP (VB be) (VP (VBN prevented))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP implement) (NP (NP (DT the) (JJ initial) (NN prototype)) (PP (IN of) (NP (DT the) (NN architecture))))) (CC and) (VP (VB show) (NP (PRP$ its) (NN feasibility)))) (. .))

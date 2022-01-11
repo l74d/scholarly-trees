@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP predict) (NP (NP (JJ vulnerable) (NNS classes)) (PP (IN in) (NP (DT a) (NN software) (NN system)))) (PP (IN by) (S (VP (VBG establishing) (NP (NP (DT the) (NN system) (POS 's)) (JJ weighted) (NN software) (NN network)))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT these) (NNS data)))) (, ,) (NP (DT the) (NN prediction) (NN model)) (VP (VBZ is) (VP (VBN trained) (CC and) (VBN tested))) (. .))

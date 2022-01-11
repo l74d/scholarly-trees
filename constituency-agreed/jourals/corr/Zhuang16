@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN segmentation)) (VP (VBZ is) (NP (NP (DT a) (NN procedure)) (PP (IN of) (NP (NN texture) (NN classification)))))) (, ,) (CC and) (S (NP (DT the) (NNP MvMM)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB model) (NP (NP (DT the) (JJ joint) (NN intensity) (NN distribution)) (PP (IN of) (NP (DT the) (NNS images)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (JJ Overall) (NN plant)) (VP (VBZ is) (ADJP (JJ nonlinear)))) (: ;) (S (ADVP (RB therefore)) (, ,) (NP (NN system) (NN identification)) (VP (VBZ is) (VP (VBN performed) (PP (IN in) (NP (CD three) (JJ different) (NNS regions))) (PP (VBG depending) (PP (IN upon) (NP (DT the) (NN plant) (NN input))))))) (. .))
+(S (NP (NP (VBG Switching)) (PP (IN of) (NP (NNS controllers)))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNS regions)) (VP (VBN defined) (PP (IN by) (NP (NN plant) (NN input)))))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN effect)) (PP (IN of) (NP (JJ mechanical) (NN fatigue))) (PP (IN on) (NP (NP (JJ structural) (NNS performances)) (PP (IN of) (NP (NN gold) (NNS devices)))))) (VP (VBZ is) (VP (VBN investigated))) (. .))
+(S (NP (NP (DT The) (JJ pull-in) (NN voltage)) (PP (IN of) (NP (JJ special) (VBG testing) (NN micro-systems)))) (VP (VBZ is) (VP (VBN monitored) (PP (IN during) (NP (DT the) (JJ cyclical) (NN load) (NN application))))) (. .))
+(S (NP (DT The) (JJ mechanical) (NN collapse)) (VP (VBZ is) (VP (VBN identified) (PP (IN as) (NP (NP (DT a) (JJ dramatic) (NN loss)) (PP (IN of) (NP (NP (JJ mechanical) (NN strength)) (PP (IN of) (NP (DT the) (NNS specimen))))))))) (. .))
+(S (NP (DT The) (NN fatigue) (NN limit)) (VP (VBZ is) (VP (VBN estimated) (PP (IN through) (NP (DT the) (JJ stair-case) (NN method))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT the) (JJ pull-in) (NN voltage) (NNS measurements))))))) (. .))
+(S (NP (NNS Measurements)) (VP (VBP are) (VP (VBN performed) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT the) (JJ optical) (NN interferometric) (NN technique))))))) (. .))

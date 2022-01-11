@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ approximates) (NP (DT the) (JJ original) (NN cost) (NN function)) (PP (IN with) (NP (NP (DT a) (JJ differentiable) (NN one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN solved) (PP (IN as) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (JJ weighted) (JJ quadratic) (NN transportation) (NNS problems)))))))))))) (. .))

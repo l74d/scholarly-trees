@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN result)) (PP (IN of) (NP (NN training)))) (VP (VBZ is) (ADVP (RB therefore)) (NP (NP (DT a) (NN machine)) (SBAR (WHNP (WDT that)) (S (VP (VBZ generates) (NP (NNS samples)) (PP (IN through) (NP (DT this) (NNP Markov) (NN chain)))))))) (. .))

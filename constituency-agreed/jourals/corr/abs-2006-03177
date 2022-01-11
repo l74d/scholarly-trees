@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBG existing) (NN hardness) (NNS results)) (VP (VP (VBP focus) (PP (IN on) (NP (DT the) (NN network) (NN architecture)))) (, ,) (CC and) (VP (VB assume) (SBAR (IN that) (S (NP (NP (DT the) (NN network) (POS 's)) (NNS weights)) (VP (VBP are) (ADJP (JJ arbitrary))))))) (. .))

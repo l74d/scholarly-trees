@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (DT the) (JJ immutable) (NN part)) (PP (IN as) (S (VP (VBG defining) (NP (DT a) (JJ new) (JJ logical) (NN system)))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this)))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT an) (JJ abductive) (NN framework)) (PP (IN for) (NP (NNP Horn) (NN knowledge) (NN base) (NNS dynamics))))) (. .))

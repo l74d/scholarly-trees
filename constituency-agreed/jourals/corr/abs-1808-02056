@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ binary) (JJ U-Net) (NN output)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN analyzed) (PP (IN by) (NP (DT a) (JJ separate) (NNP CNN))) (PP (IN for) (S (VP (VBG estimating) (NP (DT the) (JJ cardiac) (NNS parameters))))))) (. .))

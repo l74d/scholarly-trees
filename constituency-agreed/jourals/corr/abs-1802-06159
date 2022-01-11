@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP consider) (NP (NP (DT all) (JJ possible) (NNS combinations)) (PP (IN of) (NP (NP (JJ semantic) (NNS representations)) (CC and) (NP (NN similarity) (NNS measures)))))) (CC and) (VP (VB use) (NP (DT these)) (PP (IN as) (NP (NP (NNS features)) (PP (IN in) (NP (DT a) (JJ supervised) (NN learning) (NN model))))))) (. .))

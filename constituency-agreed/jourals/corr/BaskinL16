@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT that) (NN reason))) (, ,) (NP (NP (JJR higher) (NNS gains)) (CC and) (NP (JJR larger) (NNS bandwidths))) (VP (VBP become) (ADJP (JJ necessary))) (. .))
+(S (SBAR (IN As) (S (NP (DT the) (NN stabilization) (NN loop)) (VP (VBZ satisfies) (NP (NP (DT these) (NNS requirements)) (PP (IN for) (NP (JJ good) (NN disturbance) (NN attenuation))))))) (, ,) (NP (PRP it)) (VP (MD must) (ADVP (RB also)) (VP (VB satisfy) (NP (JJ sufficient) (NN loop) (NN stability)))) (. .))

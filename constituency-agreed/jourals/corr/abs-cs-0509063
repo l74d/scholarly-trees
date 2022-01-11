@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NN rationalizability))))) (NP (DT this) (NN criterion)) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN considered)))) (. .))
+(S (NP (DT This) (NN result)) (VP (VBZ does) (RB not) (VP (VB hold) (PP (IN for) (NP (DT the) (JJ other) (CD two) (NN reduction) (NNS relations))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN under) (NP (DT a) (JJ natural) (NN assumption))) (NP (NP (DT the) (NNS iterations)) (PP (IN of) (NP (DT all) (CD three) (NN reduction) (NNS relations)))) (VP (VBP yield) (NP (DT the) (JJ same) (NN outcome))) (. .))

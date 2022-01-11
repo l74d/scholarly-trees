@@ -1,0 +1,1 @@
+(S (NP (NN Design) (NNS matrices)) (VP (VBP are) (NP (NP (JJ sparse) (NNS matrices)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NNS supports)) (PP (IN of) (NP (JJ different) (NNS columns)))) (VP (VBP intersect) (PP (IN in) (NP (DT a) (JJ few) (NNS positions)))))))) (. .))

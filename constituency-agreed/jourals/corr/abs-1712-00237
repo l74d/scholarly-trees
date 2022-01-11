@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP divide) (NP (PRP$ our) (NNS experiments)) (PP (IN into) (NP (CD two) (NNS parts)))) (. .))
+(S (ADVP (RB Meanwhile)) (, ,) (NP (PRP we)) (VP (VBP emulate) (NP (NP (JJ different) (NN network) (NNS conditions)) (PP (IN between) (NP (NN client) (CC and) (NN server)))) (S (VP (VBG using) (NP (NNP Traffic) (NNP Control))))) (. .))

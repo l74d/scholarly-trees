@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ other) (NN module)) (, ,) (VP (VBG chasing) (NP (NN planner))) (, ,)) (VP (VBZ is) (PP (IN in) (NP (NP (DT a) (JJ bi-level) (NN structure)) (VP (VBN composed) (PP (IN of) (NP (NP (NN preplanner)) (CC and) (NP (JJ smooth) (NN planner)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NN approach)) (PP (IN with) (NP (NP (JJ multiple) (JJ complex) (NNS scenarios)) (CC and) (NP (JJ actual) (NNS experiments))))) (. .))

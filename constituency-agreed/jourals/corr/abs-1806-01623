@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ addresses) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ robust) (NN attitude) (NN control)) (PP (IN of) (NP (NNS quadcopters))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (NP (DT the) (JJ mathematical) (NN model)) (PP (IN of) (NP (DT the) (NN quadcopter)))) (VP (VBZ is) (VP (VBN derived) (S (VP (VBG considering) (NP (NP (NNS factors)) (PP (JJ such) (IN as) (NP (NP (NN nonlinearity)) (, ,) (NP (JJ external) (NNS disturbances)) (, ,) (NP (JJ uncertain) (NNS dynamics)) (CC and) (NP (JJ strong) (NN coupling))))))))) (. .))

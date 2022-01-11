@@ -1,0 +1,1 @@
+(S (NP (JJ Adversarial) (NN training)) (VP (VBZ is) (NP (NP (DT a) (NN technique)) (PP (IN of) (S (VP (VBG improving) (NP (NN model) (NN performance)) (PP (IN by) (S (VP (VBG involving) (NP (JJ adversarial) (NNS examples)) (PP (IN in) (NP (DT the) (NN training) (NN process))))))))))) (. .))

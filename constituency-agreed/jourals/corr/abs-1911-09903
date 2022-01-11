@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ threatens) (ADVP (RB also)) (NP (NP (NN privacy) (CC and) (NN transparency)) (PP (IN of) (NP (NNS voters))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (NN solution)) (VP (VBG using) (NP (NNP Blockchain)) (S (VP (TO to) (VP (VB eliminate) (NP (NP (PDT all) (DT the) (NNS disadvantages)) (PP (IN of) (NP (JJ conventional) (NNS elections)))))))))) (. .))
+(S (NP (NNP Voter) (NN privacy)) (VP (VBZ is) (NP (NP (DT another) (NN requirement)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN ensured) (PP (IN in) (NP (DT the) (NN system))))))))) (. .))

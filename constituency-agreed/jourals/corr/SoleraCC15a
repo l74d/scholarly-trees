@@ -1,0 +1,2 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (NNS ambiguities)) (VP (VBP arise) (PP (IN in) (NP (NP (NN presence)) (PP (IN of) (NP (NP (NNS occlusions)) (CC or) (NP (NN detection) (NNS errors))))))) (. .))
+(S (NP (DT The) (JJ complete) (NN framework)) (VP (VBZ is) (VP (VBN cast) (PP (IN as) (NP (NP (DT a) (JJ structural) (NN learning) (NN task)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ unifies) (NP (DT these) (NNS phases))) (CC and) (VP (VBZ learns) (NP (NN tracker) (NNS parameters)) (PP (IN from) (NP (NNS examples))))))))))) (. .))

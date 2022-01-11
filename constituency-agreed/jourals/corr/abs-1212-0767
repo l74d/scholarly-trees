@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (NNP Lyapunov) (NN redesign) (NN procedure)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB minimize) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (DT the) (NN uncertainty)))))))))) (. .))

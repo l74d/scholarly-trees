@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP explore) (SBAR (WHADVP (WRB how)) (S (NP (NP (NN reformulation)) (PP (IN of) (NP (DT the) (NN problem)))) (VP (MD can) (VP (VB help) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN computation) (NN time)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (ADJP (RB vastly) (JJ different)) (NN computation) (NN time)))))) (. .))

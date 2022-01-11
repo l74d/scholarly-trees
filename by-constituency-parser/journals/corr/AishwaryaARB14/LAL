@@ -1,0 +1,6 @@
+(S (NP (NN Option) (NNS contracts)) (VP (MD can) (VP (VB be) (VP (VBN valued) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (NNP Black-Scholes) (NN equation)) (, ,) (NP (NP (DT a) (JJ partial) (JJ differential) (NN equation)) (PP (IN with) (NP (JJ initial) (NNS conditions))))))))))) (. .))
+(S (NP (NP (DT An) (JJ exact) (NN solution)) (PP (IN for) (NP (JJ European) (NN style) (NNS options)))) (VP (VBZ is) (VP (VBN known))) (. .))
+(S (NP (NP (DT The) (NN computation) (NN time)) (CC and) (NP (DT the) (NN error))) (VP (NN need) (S (VP (TO to) (VP (VB be) (VP (VBN minimized) (ADVP (RB simultaneously))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT the) (NNS authors)) (VP (VBP have) (VP (VBN solved) (NP (DT the) (NNP Black-Scholes) (NN equation)) (PP (IN by) (S (VP (VBG employing) (NP (DT a) (ADJP (RB reasonably) (JJ accurate)) (JJ implicit) (NN method))))))) (. .))
+(S (NP (NP (NNS Options)) (PP (IN with) (NP (VBN known) (JJ analytic) (NNS solutions)))) (VP (VBP have) (VP (VBN been) (VP (VBN evaluated)))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT an) (JJ overall) (JJ second) (NN order) (NN accurate) (NN space) (CC and) (NN time) (NN discretization)) (VP (VBZ has) (VP (VBN been) (VP (VBN accomplished) (PP (IN in) (NP (DT this) (NN paper)))))) (. .))

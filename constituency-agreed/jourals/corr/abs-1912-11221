@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (ADJP (RB so) (VBN called)) (JJ full) (NN reciprocity) (NN property)) (VP (VBZ does) (RB not) (VP (VB hold) (SBAR (IN while) (S (NP (DT the) (JJ partial) (NN reciprocity) (NN property)) (VP (VBZ holds)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN channel) (NN measurement) (NN campaign)) (VP (VBZ is) (VP (VBN conducted) (S (VP (TO to) (VP (VB verify) (NP (PRP$ our) (JJ theoretical) (NN analysis))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Epidemics)) (VP (VBP have) (ADVP (RB so) (RB far)) (VP (VBN been) (ADVP (RB mostly)) (VP (VBN studied) (PP (IN in) (NP (JJ undirected) (NNS networks)))))) (. .))
+(S (NP (PRP We)) (VP (VBP define) (NP (DT the) (NN directionality)) (PP (IN as) (NP (NP (DT the) (NN percentage)) (PP (IN of) (NP (JJ unidirectional) (NNS links)))))) (. .))

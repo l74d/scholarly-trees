@@ -1,0 +1,1 @@
+(S (ADVP (RB Traditionally)) (, ,) (NP (NP (DT the) (NN network) (NN architecture)) (PP (IN of) (NP (JJ neural) (NNS networks)))) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (DT an) (NN input) (NN layer)) (, ,) (NP (NP (DT some) (NN combination)) (PP (IN of) (NP (JJ hidden) (NNS layers)))) (, ,) (CC and) (NP (DT an) (NN output) (NN layer)))))) (. .))

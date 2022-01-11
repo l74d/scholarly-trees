@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ explains) (NP (JJ genetic) (NN algorithm)) (PP (IN for) (NP (NP (NN novice)) (PP (IN in) (NP (DT this) (NN field)))))) (. .))
+(S (NP (NP (JJ Basic) (NN philosophy)) (PP (IN of) (NP (NP (JJ genetic) (NN algorithm)) (CC and) (NP (PRP$ its) (NN flowchart))))) (VP (VBP are) (VP (VBN described))) (. .))

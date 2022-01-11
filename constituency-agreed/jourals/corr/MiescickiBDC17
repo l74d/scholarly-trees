@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (NN verification) (NN process)) (PP (IN for) (NP (JJ such) (NN engineering) (NN software))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN phase))) (, ,) (NP (DT the) (NNS modifications)) (VP (VBP are) (VP (VBN performed) (PP (IN in) (ADJP (JJ necessary))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ last) (NN phase))) (NP (DT the) (NN code)) (VP (VBZ is) (VP (VBN generated))) (. .))

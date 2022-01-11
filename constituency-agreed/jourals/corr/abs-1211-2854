@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Various) (NNS approaches)) (PP (IN for) (NP (NN process) (NNS documents)))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN developed) (PP (IN for) (NP (NN recruitment)))))) (. .))
+(S (NP (DT This) (NN ontology)) (VP (VBZ is) (ADVP (RB thereafter)) (VP (VBN used) (S (VP (TO to) (VP (VB annotate) (ADVP (RB automatically)) (NP (DT the) (NNS resumes))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP perform) (NP (NNS experiments)) (PP (IN on) (NP (CD two) (JJ standard) (NNS datasets)))) (CC and) (VP (VB compare) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PRP$ our) (NN method)))) (PP (IN with) (NP (JJ different) (NN reference) (NNS methods))))) (. .))

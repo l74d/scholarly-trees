@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJS most) (JJ diagnostic) (NNS settings))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN tradeoff)) (PP (IN between) (NP (NP (DT these) (CD two) (NNS kinds)) (PP (IN of) (NP (NNS costs))))))) (. .))
+(S (NP (DT The) (NN paper)) (ADVP (RB then)) (VP (VBZ addresses) (NP (NP (DT the) (NN question)) (PP (IN of) (S (VP (VBG learning) (NP (JJ diagnostic) (NNS policies)) (PP (IN from) (NP (NNS examples)))))))) (. .))

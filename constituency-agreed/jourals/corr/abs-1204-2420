@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP confirm) (NP (DT the) (NNP MaxEnt) (NNS predictions)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (JJ numerical) (NNS experiments)) (PP (IN with) (NP (JJ random) (NNS walkers)))))))) (, ,) (CC and) (VP (VB compare) (NP (PRP them)) (PP (IN with) (NP (DT some) (JJ empirical) (NNS data))))) (. .))

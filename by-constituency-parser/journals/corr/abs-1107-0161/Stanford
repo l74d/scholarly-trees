@@ -1,0 +1,4 @@
+(NP (NP (NP (DT This) (NN paper) (NNS deals)) (PP (IN with) (NP (NP (JJ optimal) (NN control) (NNS problems)) (PP (IN for) (NP (NNS systems)))))) (ADJP (JJ affine) (PP (IN in) (NP (DT the) (NN control) (NN variable)))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NP (JJ nonnegativity) (NNS constraints)) (PP (IN on) (NP (DT the) (NN control)))) (, ,) (CC and) (NP (NP (ADJP (RB finitely) (JJ many)) (NN equality)) (CC and) (NP (NP (NN inequality) (NNS constraints)) (PP (IN on) (NP (DT the) (JJ final) (NN state))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (ADJP (NP (JJ second) (NN order)) (JJ necessary)) (NN optimality) (NNS conditions))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (DT a) (JJ second) (NN order) (JJ sufficient) (NN condition)) (PP (IN for) (NP (DT the) (JJ scalar) (NN control) (NN case))))) (. .))

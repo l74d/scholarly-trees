@@ -1,0 +1,2 @@
+(S (NP (DT An) (NN alphabet)) (VP (VBZ reflects) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS processes)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ static) (CC but) (JJ unknown))))))))) (. .))
+(S (NP (DT The) (NN synthesis) (NN problem)) (ADVP (RB then)) (VP (VBZ asks) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ finite) (NN number)) (PP (IN of) (NP (NP (NNS processes)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NN system)) (VP (MD can) (VP (VB satisfy) (NP (DT the) (NN specification))))))))))))) (. .))

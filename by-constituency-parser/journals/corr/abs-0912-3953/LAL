@@ -1,0 +1,2 @@
+(NP (NP (DT A) (NN review)) (PP (IN of) (NP (NP (DT the) (JJ empirical) (NN literature)) (PP (IN on) (NP (NP (NN access)) (PP (TO to) (NP (JJ scholarly) (NN information))))))) (. .))
+(S (NP (DT This) (NN review)) (VP (VBZ focuses) (PP (IN on) (NP (NP (NP (NNS surveys)) (PP (IN of) (NP (NNS authors)))) (, ,) (NP (NN article) (NN download)) (CC and) (NP (NN citation) (NN analysis))))) (. .))

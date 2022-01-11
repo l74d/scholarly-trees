@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT every) (JJ closed) (NN graph)) (NP ($ $) (CD G$))) (VP (VBZ is) (ADVP (IN up) (PP (IN to) (NP (NN isomorphism)))) (NP (DT a) (JJ proper) (NN interval) (NN graph)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (NP (PRP we)) (VP (VBP obtain) (SBAR (IN that) (S (NP (EX there)) (VP (VBP exist) (NP (NP (NML (JJ linear) (HYPH -) (NN time)) (NNS algorithms)) (PP (IN for) (NP (JJ closed) (NN graph) (NN recognition)))))))) (. .))

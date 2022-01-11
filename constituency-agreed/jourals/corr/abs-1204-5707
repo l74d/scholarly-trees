@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ asymptotic) (NNS results)) (VP (VBN obtained) (PP (IN by) (NP (DT the) (JJ non-rigorous) (NN replica) (NN method))))) (VP (VBP are) (VP (VBN found) (S (VP (TO to) (VP (VB have) (NP (NP (DT an) (JJ excellent) (NN agreement)) (PP (IN with) (NP (ADJP (JJ finite) (JJ sized)) (JJ numerical) (NNS simulations))))))))) (. .))

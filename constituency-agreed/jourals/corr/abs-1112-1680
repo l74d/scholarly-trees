@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ has) (VP (VBN been) (VP (VBN withdrawn) (PP (IN by) (NP (DT the) (NN author)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (ADVP (RB now)) (ADJP (JJ obsolete))) (. .))

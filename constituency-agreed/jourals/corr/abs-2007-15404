@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (NNP SVM) (NNS predictions)) (PP (IN for) (NP (DT a) (JJ central) (NN region)))) (VP (VBD outperformed) (NP (NP (DT the) (JJ other) (CD two) (NNS regions)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (JJ untrained) (NN classifier)))) (. .))

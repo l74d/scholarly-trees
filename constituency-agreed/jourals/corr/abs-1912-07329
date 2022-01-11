@@ -1,0 +1,2 @@
+(S (S (NP (NNP Pneumothorax)) (VP (VBZ is) (NP (DT a) (JJ deadly) (NN condition)))) (CC and) (S (SBAR (IN if) (S (RB not) (VP (VBN diagnosed) (CC and) (VBN treated) (PP (IN at) (NP (NN time)))))) (ADVP (RB then)) (NP (PRP it)) (VP (VBZ causes) (NP (NN death)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN in) (NP (DT some) (NNS cases))) (, ,) (NP (PRP we)) (VP (VBP need) (NP (JJ quick) (NNS diagnoses))) (. .))

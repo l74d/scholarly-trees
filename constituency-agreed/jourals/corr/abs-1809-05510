@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN contrast) (NN agent)) (ADVP (RB subsequently)) (VP (VBZ leaks) (ADVP (RB back)) (PP (IN into) (NP (DT the) (JJ vascular) (NN space))) (, ,) (S (VP (VBG creating) (NP (DT a) (NN washout) (NN effect))))) (. .))
+(S (NP (NP (DT The) (JJ normal) (JJ parenchymal) (NN tissue)) (PP (IN of) (NP (DT the) (NN breast)))) (VP (MD can) (ADVP (RB also)) (VP (VB enhance) (PP (IN after) (NP (NN contrast) (NN injection))))) (. .))
+(S (NP (DT This) (NN enhancement)) (ADVP (RB generally)) (VP (VBZ increases) (PP (IN over) (NP (NN time)))) (. .))

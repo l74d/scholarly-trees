@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG detecting) (NP (JJ semantic) (NNS parts)) (PP (IN on) (NP (ADJP (RB partially) (VBN occluded)) (NNS objects)))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ detects) (NP (JJ semantic) (NNS parts)) (PP (IN by) (S (VP (VBG accumulating) (NP (NP (DT the) (NN confidence)) (PP (IN of) (NP (JJ local) (JJ visual) (NNS cues)))))))) (. .))

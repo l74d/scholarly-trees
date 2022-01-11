@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB analyze) (NP (NP (ADJP (JJ stable) (CC and) (JJ unstable)) (NNS modes)) (PP (IN of) (NP (JJ generic) (NN image) (NNS denoisers)))) (PP (IN through) (NP (JJ nonlinear) (JJ eigenvalue) (NN analysis))))))) (. .))
+(S (NP (PRP We)) (VP (VBP treat) (NP (DT this)) (PP (IN as) (NP (DT a) (JJ nonlinear) (NN eigenvalue) (NN problem)))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN method)))) (NP (PRP we)) (VP (VBP reveal) (NP (NP (JJ stable) (NNS modes)) (PP (IN of) (NP (JJ nonlinear) (NNS denoisers))))) (. .))

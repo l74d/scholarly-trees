@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS bounds)) (VP (VBP show) (SBAR (IN that) (, ,) (S (PP (IN with) (NP (JJ sufficient) (NN over-parameterization))) (, ,) (NP (NP (DT the) (JJ maximum) (NN margin) (NN algorithm)) (VP (VBN trained) (PP (IN on) (NP (JJ noisy) (NNS data))))) (VP (MD can) (VP (VB achieve) (NP (ADJP (RB nearly) (JJ optimal)) (NN population) (NN risk))))))) (. .))

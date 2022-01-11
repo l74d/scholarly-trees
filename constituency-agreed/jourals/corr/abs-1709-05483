@@ -1,0 +1,2 @@
+(S (NP (NP (NN Today) (POS 's)) (NN network) (NNS cards)) (VP (VBP contain) (NP (NP (ADJP (RB rather) (JJ powerful)) (NNS processors)) (VP (VBN optimized) (PP (IN for) (NP (NNS data) (NN movement)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ such) (NN network) (NN acceleration)) (VP (VBZ enables) (NP (NP (DT an) (NN eco-system)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (ADVP (RB significantly)) (VP (VB speed) (PRT (RP up)) (NP (NP (NNS applications)) (CC and) (NP (NN system) (NNS services)))))))))))) (. .))

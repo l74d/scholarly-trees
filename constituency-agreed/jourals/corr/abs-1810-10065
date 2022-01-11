@@ -1,0 +1,1 @@
+(S (ADVP (RB Often)) (, ,) (NP (NP (JJ large) (, ,) (ADJP (JJ high) (JJ dimensional)) (NNS datasets)) (VP (VBN collected) (PP (IN across) (NP (JJ multiple) (NNS modalities))))) (VP (MD can) (VP (VB be) (VP (VBN organized) (PP (IN as) (NP (DT a) (JJR higher) (NN order) (NN tensor)))))) (. .))

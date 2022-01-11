@@ -1,0 +1,2 @@
+(S (NP (DT All) (NNS networks)) (VP (MD can) (VP (VB be) (VP (VBN analyzed) (PP (IN at) (NP (JJ multiple) (NNS scales)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP use) (NP (DT this) (NN procedure)) (S (VP (TO to) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ several) (JJ structural) (NNS properties)) (PP (IN of) (NP (JJ preferential) (NN attachment) (NNS networks)))) (VP (VBP vary) (PP (IN across) (NP (NNS scales)))))))))) (. .))

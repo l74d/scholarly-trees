@@ -1,0 +1,2 @@
+(S (NP (VBN Queued) (NNS systems)) (VP (VBP are) (VP (VBN built) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (JJ direct) (NNS systems))))))) (. .))
+(S (NP (NNS Queues)) (VP (VBP are) (NP (NP (JJ interesting) (NNS databases)) (PP (IN with) (NP (JJ interesting) (NN concurrency) (NN control))))) (. .))

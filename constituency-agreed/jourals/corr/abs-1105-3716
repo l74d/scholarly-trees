@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS devices)) (PP (IN of) (NP (DT the) (NN network)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN cloned))))))) (. .))
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (S (VP (TO to) (VP (VB detect) (NP (DT this) (NN attack)))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN solution)) (PP (IN in) (NP (NP (NNS networks)) (PP (IN of) (NP (NP (JJ mobile) (NNS devices)) (VP (VBN carried) (PP (IN by) (NP (NNS individuals)))))))))) (. .))

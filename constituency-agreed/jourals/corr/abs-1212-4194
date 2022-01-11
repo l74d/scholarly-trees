@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP adopt) (NP (DT a) (JJ spectral) (NN approach))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN model))) (, ,) (NP (NP (DT the) (NN contact) (NN network)) (CC and) (NP (DT the) (NNS interconnections))) (VP (VBP are) (ADJP (JJ generic))) (. .))

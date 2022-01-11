@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN posed) (PP (IN as) (NP (NP (DT a) (JJ non-convex) (NN integer) (NN program) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (CD two) (NNS parts))))))))) (. .))

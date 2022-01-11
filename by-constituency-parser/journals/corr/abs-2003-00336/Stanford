@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ standard) (NN proof)) (PP (IN of) (NP (NP (NNP NP)) (HYPH -) (NP (NN Hardness)))) (PP (IN of) (NP (NN 3DM)))) (VP (VBZ provides) (NP (NP (DT a) (NML (NML (NN power)) (: -) (NML (NML ($ $) (CD 4)) (NML ($ $)))) (NN reduction)) (PP (IN of) (NP (NN 3SAT)))) (PP (IN to) (NP (NN 3DM)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (DT a) (NML (JJ linear) (HYPH -) (NN time)) (NN reduction))) (. .))

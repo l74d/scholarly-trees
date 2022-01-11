@@ -1,0 +1,7 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (NP (DT a) (JJ simple) (NN method)) (CC and) (NP (JJ relevant) (JJ theoretical) (NN analysis))) (PP (IN for) (S (VP (ADVP (RB efficiently)) (VBG estimating) (NP (NN higher-order) (NN lp) (NNS distances))))))) (. .))
+(S (SBAR (IN While) (S (NP (DT the) (NN analysis)) (ADVP (RB mainly)) (VP (VBZ focuses) (PP (IN on) (NP (NN l4)))))) (, ,) (NP (PRP$ our) (NN methodology)) (VP (VBZ extends) (ADVP (RB naturally)) (PP (TO to) (NP (S (NP (VB p)) (VP (JJ =) (CD 6,8,10))) (: ...) (, ,) (PRN (-LRB- -LRB-) (FW i.e.) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NN p)) (VP (VBZ is) (ADVP (RB even))))) (-RRB- -RRB-))))) (. .))
+(S (NP (JJ Distance-based) (NNS methods)) (VP (VBP are) (ADJP (JJ popular)) (PP (IN in) (NP (NN machine) (NN learning)))) (. .))
+(S (PP (IN In) (NP (JJ large-scale) (NNS applications))) (, ,) (S (VP (VBG storing) (, ,) (VBG computing) (, ,) (CC and) (VBG retrieving) (NP (DT the) (NNS distances)))) (VP (MD can) (VP (VB be) (ADJP (NP (DT both) (NN space) (CC and) (NN time)) (NN prohibitive)))) (. .))
+(S (NP (NP (JJ Efficient) (NNS algorithms))) (VP (VBP exist) (PP (IN for) (S (VP (VBG estimating) (NP (JJ lp) (NNS distances))))) (SBAR (IN if) (S (NP (NP (CD 0)) (NN <) (NP (NN p))) (VP (NNP <) (VP (VBZ =) (NP (CD 2))))))) (. .))
+(S (NP (NP (DT The) (NN task)) (PP (IN for) (NP (QP (NN p) (NN >) (CD 2))))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ difficult))))))) (. .))
+(S (NP (PRP$ Our) (NN work)) (VP (ADVP (RB partially)) (VBZ fills) (NP (DT this) (NN gap))) (. .))

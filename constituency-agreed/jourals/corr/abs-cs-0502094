@@ -1,0 +1,4 @@
+(S (SBAR (IN As) (S (VP (VBN shown) (PP (IN in) (NP (JJ recent) (NNS studies)))))) (, ,) (NP (NN compromise)) (VP (MD may) (VP (VP (VB facilitate) (NP (NN coalition) (NN formation))) (CC and) (VP (VB increase) (NP (NN agent) (NNS utilities))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN study))) (NP (PRP we)) (VP (VBP leverage) (PP (IN on) (NP (DT those) (JJ new) (NNS results)))) (. .))
+(S (NP (PRP We)) (VP (VBP devise) (NP (NP (DT a) (JJ novel) (NN coalition) (NN formation) (NN mechanism)) (SBAR (WHNP (WDT that)) (S (VP (VBZ enhances) (NP (NN compromise))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (NP (NN information)) (PP (IN on) (NP (NN task) (NNS dependencies)))) (VP (VBZ is) (VP (VBN used))))) (, ,) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NN coalition) (NN formation)))) (VP (VBZ is) (ADVP (RB further)) (VP (VBN reduced)))))) (. .))

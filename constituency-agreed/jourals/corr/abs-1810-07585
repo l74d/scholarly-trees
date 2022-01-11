@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (S (NP (DT the) (NN graph) (NN structure)) (VP (VBZ is) (NP (DT a) (NN tree)))) (, ,) (CC and) (S (NP (DT the) (NNP PSP)) (VP (VBZ facilitates) (NP (DT all) (NNS transactions)))))) (, ,) (NP (DT the) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN formulated) (PP (IN as) (NP (DT a) (JJ linear) (NN program)))))) (. .))

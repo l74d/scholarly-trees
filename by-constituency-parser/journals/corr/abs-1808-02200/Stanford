@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB combine) (NP (NP (NN model) (JJ predictive) (NN control)) (PP (IN with) (NP (JJ deep) (NN learning)))) (PP (IN for) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (NP (JJ accurate) (JJ human) (NN motion)) (VP (VBG tracking) (PP (IN with) (NP (DT a) (NN robot)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP design) (S (NP (DT the) (NNP MPC)) (VP (TO to) (VP (VB allow) (S (VP (VBG switching) (PP (IN between) (NP (DT the) (UCP (VP (VBN learned)) (CC and) (ADJP (DT a) (JJ conservative))) (NN prediction))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD explored) (NP (JJ online) (NN learning)) (PP (IN with) (NP (DT a) (NN DyBM) (NN model)))) (. .))
+(S (NP (PRP We)) (VP (VBD applied) (NP (DT this) (NN method)) (PP (IN to) (NP (NP (JJ human) (NN handwriting) (NN motion)) (VP (VBG tracking) (PP (IN with) (NP (DT a) (NML (NN UR) (HYPH -) (CD 5)) (NN robot))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN framework)) (ADVP (RB significantly)) (VP (VBZ improves) (S (VP (VBG tracking) (NP (NN performance)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP test) (NP (PRP$ our) (NN approach)) (PP (IN on) (NP (NP (JJ several) (NN classification) (NNS datasets)) (PP (IN with) (NP (ADJP (RB elaborately) (VBN generated)) (JJ noisy) (NNS labels)))))) (. .))

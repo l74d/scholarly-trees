@@ -1,0 +1,2 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (PRP they)) (VP (VBP do) (VP (VB differ) (PP (IN in) (NP (JJ important) (NNS ways))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ new) (NN steganography) (NN method)) (PP (IN for) (NP (JJ textual) (NNS data))))) (. .))

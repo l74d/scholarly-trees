@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (NN method)) (S (VP (TO to) (VP (VB correct) (PP (IN for) (NP (NP (JJ chromatic) (NN aberration)) (PP (IN in) (NP (DT a) (JJ single) (NN photograph))))))))) (. .))
+(NP (NP (PRP$ Our) (NN method) (NNS replicates)) (SBAR (WHNP (WDT what)) (S (NP (DT a) (NN user)) (VP (MD would) (VP (VB do) (PP (IN in) (NP (DT a) (NN photo) (NN editing) (NN program))) (S (VP (TO to) (VP (VB account) (PP (IN for) (NP (DT this) (NN defect)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (S (NP (NP (VBG matching) (NNS keypoints)) (PP (IN in) (NP (DT each) (NN colour) (NN channel)))) (ADVP (RB then)) (VP (VB align) (NP (PRP them)) (SBAR (IN as) (S (NP (DT a) (NN user)) (VP (MD would))))))) (. .))

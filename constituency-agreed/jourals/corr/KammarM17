@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Models)) (VP (VBG containing) (NP (RB only) (DT a) (JJ single) (NN monad)))) (VP (VBP are) (RB not) (ADJP (JJ stable))) (. .))
+(S (NP (NP (NNP Cartwright) (CC and) (NNP Felleisen)) (, ,) (CC and) (NP (NNP Wadler)) (, ,)) (VP (VBD conjectured) (SBAR (S (NP (JJ such) (JJ monadic) (NNS semantics)) (VP (MD can) (VP (VB be) (VP (VBN generated))))))) (. .))

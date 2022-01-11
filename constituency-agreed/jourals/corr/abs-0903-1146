@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (JJ common) (NN type)) (PP (IN of) (NP (NN symmetry)))) (VP (VBZ is) (SBAR (WHADVP (WRB when)) (S (NP (NNS values)) (VP (VBP are) (ADJP (JJ symmetric)))))) (. .))
+(S (PP (IN For) (NP (NP (DT a) (NN problem)) (PP (IN with) (NP (NN value) (NNS symmetries))))) (, ,) (NP (DT all) (JJ symmetric) (NNS solutions)) (VP (MD can) (VP (VB be) (VP (VBN eliminated) (PP (IN in) (NP (JJ polynomial) (NN time)))))) (. .))

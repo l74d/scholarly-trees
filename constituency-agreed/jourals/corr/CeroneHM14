@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (NP (DT the) (NN proof) (NN methodology)))) (PP (IN by) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS examples)))))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN proof) (NN method)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ complete)) (, ,) (PP (IN for) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (NNS systems))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (NN performance)) (VP (VBZ depends) (ADVP (RB directly)) (PP (IN from) (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (NP (DT the) (NN kernel) (NN function)) (CC and) (NP (PRP$ their) (NNS hyperparameters))))))) (. .))

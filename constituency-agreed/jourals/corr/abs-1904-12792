@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN user)) (VP (MD can) (VP (VB decrypt) (NP (DT the) (JJ marked) (NN ciphertext)) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (JJ marked) (NN plaintext))))))) (. .))

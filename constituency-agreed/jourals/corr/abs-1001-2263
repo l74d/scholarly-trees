@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ minimum) (NNS words)) (SBAR (WHNP (WDT that)) (S (VP (VBP cover) (NP (JJ maximum) (NNS syllables)))))) (VP (VBP are) (VP (VBN identified))) (. .))
+(S (NP (DT This) (NN approach)) (VP (VBZ is) (VP (VBN applied) (PP (IN on) (NP (NP (DT the) (NNP CIIL) (NNP Mysore) (NN text) (NN corpus)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (IN of) (NP (QP (CD 3) (CD million)) (NNS words)))))))))) (. .))

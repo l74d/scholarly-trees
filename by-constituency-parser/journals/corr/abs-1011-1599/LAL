@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ numerical) (NN explicit) (NN method)) (SBAR (S (VP (TO to) (VP (VB evaluates) (NP (NP (JJ transient) (NNS solutions)) (PP (IN of) (NP (NP (JJ linear) (JJ partial) (JJ differential) (JJ non-homogeneous) (NN equation)) (PP (IN with) (NP (JJ constant) (NNS coefficients))))))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT an) (NN example))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN network) (NN selection)))))) (. .))
+(S (SBAR (IN While) (S (S (VP (VBG choosing) (NP (DT the) (JJ right) (NN network)))) (VP (VBZ is) (ADJP (JJ vital) (PP (IN for) (NP (JJ good) (NN performance))))))) (, ,) (NP (DT a) (JJ decentralized) (NN solution)) (VP (VBZ remains) (NP (DT a) (NN challenge))) (. .))

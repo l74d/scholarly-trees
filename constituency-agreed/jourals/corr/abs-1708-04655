@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN project)) (VP (VBZ comprises) (NP (NP (CD three) (JJ major) (NNS phases)) (: :) (NP (NP (NN requirement) (NN analysis)) (, ,) (NP (NN application) (NN development)) (CC and) (NP (NN testing) (CC and) (NN evaluation))))) (. .))
+(S (NP (NP (DT The) (JJ initial) (NN analysis) (CC and) (NN evaluation)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN version)) (PP (IN of) (NP (DT the) (VBN projected) (NN app)))))) (VP (VBZ demonstrates) (NP (ADJP (RB very) (JJ promising)) (NNS results))) (. .))

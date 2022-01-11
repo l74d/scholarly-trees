@@ -1,0 +1,4 @@
+(S (PP (RB Instead) (IN of) (S (VP (VBG using) (NP (DT a) (NN system)) (S (VP (TO to) (VP (VB solve) (NP (DT a) (NN problem)))))))) (, ,) (NP (PRP we)) (VP (VBP suggest) (S (VP (VBG using) (NP (DT the) (NN problem)) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (NN system)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (NP (NP (DT a) (NN comparison)) (PP (IN between) (NP (NP (JJ different) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP solve) (NP (NP (DT the) (JJ same) (NN set)) (PP (IN of) (NP (NNS problems))))))))))) (. .))
+(S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (DT the) (NN pattern)))) (VP (VBZ is) (VP (VBN calculated) (S (VP (VBG using) (NP (JJ linguistic) (NN complexity)))))) (. .))
+(S (NP (NP (JJ Future) (NN research) (CC and) (NNS implementations)) (PP (IN of) (NP (DT this) (NN technique)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed))) (. .))

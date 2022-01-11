@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (RBS most) (JJ common)) (JJ sellar) (NN lesion)) (VP (VBZ is) (NP (DT the) (JJ pituitary) (NN adenoma))) (. .))
+(S (NP (DT This) (NN scheme)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (JJ automatic) (NN adenoma) (NN segmentation))))) (. .))

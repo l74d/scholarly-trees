@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (JJ several) (NN classification) (NNS benchmarks)))) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (VBG resulting) (JJ non-greedy) (NN decision) (NNS trees)) (VP (VBP outperform) (NP (JJ greedy) (NN decision) (NN tree) (NNS baselines)))))) (. .))

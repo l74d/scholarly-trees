@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ requires) (NP (DT no) (NNS parameters)) (SBAR (WHADVP (WRB when)) (S (VP (VBG detecting) (NP (NN road) (NN damage)))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP illustrate) (SBAR (IN that) (S (NP (PRP$ our) (VBN proposed) (NN algorithm)) (VP (VBZ performs) (ADVP (DT both) (RB accurately) (CC and) (RB efficiently)))))) (. .))

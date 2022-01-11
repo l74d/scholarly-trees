@@ -1,0 +1,1 @@
+(S (NP (NNP TensorFlow)) (VP (VBZ supports) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS applications)))) (, ,) (PP (IN with) (NP (NP (ADJP (RB particularly) (JJ strong)) (NN support)) (PP (IN for) (NP (NP (NN training) (CC and) (NN inference)) (PP (IN on) (NP (JJ deep) (JJ neural) (NNS networks)))))))) (. .))

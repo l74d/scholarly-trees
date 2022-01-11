@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ new) (NN algorithm)) (VP (VBZ is) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (JJ robust) (PP (IN in) (NP (NP (JJ practical) (NNS cases)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB otherwise)) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (ADJP (JJ difficult) (PP (IN for) (NP (JJ iterative) (NNS solvers))))))))))))))))))) (. .))

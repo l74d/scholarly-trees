@@ -1,0 +1,5 @@
+(S (NP (JJR Higher) (JJ transcendental) (NN function)) (VP (VBP occur) (ADVP (RB frequently)) (PP (IN in) (NP (NP (DT the) (NN calculation)) (PP (IN of) (NP (NNP Feynman) (NNS integrals))) (PP (IN in) (NP (JJ quantum) (NN field) (NN theory)))))) (. .))
+(S (NP (NP (PRP$ Their) (NN expansion)) (PP (IN in) (NP (DT a) (JJ small) (NN parameter)))) (VP (VBZ is) (NP (DT a) (JJ non-trivial) (NN task))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (PP (IN on) (NP (NP (DT a) (NN computer) (NN program)) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (NP (NP (DT the) (JJ systematic) (NN expansion)) (PP (IN of) (NP (NP (JJ certain) (NNS classes)) (PP (IN of) (NP (NNS functions)))))))))))) (. .))
+(S (NP (DT The) (NN algorithms)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNP Hopf) (NN algebra)) (PP (IN of) (NP (JJ nested) (NNS sums))))))) (. .))
+(S (NP (DT The) (NN program)) (VP (VP (VBZ is) (VP (VBN written) (PP (IN in) (NP (NNP C++))))) (CC and) (VP (VBZ uses) (NP (DT the) (NNP GiNaC) (NN library)))) (. .))

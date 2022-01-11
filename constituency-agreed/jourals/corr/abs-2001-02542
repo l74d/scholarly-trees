@@ -1,0 +1,2 @@
+(S (NP (NNS Triangulations)) (VP (VBP are) (NP (NP (DT an) (JJ ubiquitous) (NN input)) (PP (IN for) (NP (DT the) (JJ finite) (NN element) (NN community))))) (. .))
+(S (NP (JJ Several) (NNS examples)) (VP (VBP illustrate) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (DT the) (VBG resulting) (NN implementation))))) (. .))

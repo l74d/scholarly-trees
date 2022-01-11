@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (VBG existing) (NNS techniques)) (ADVP (RB mainly)) (VP (VBP extract) (NP (NP (DT the) (NN latent) (NNS representations)) (PP (IN for) (NP (NNS users) (CC and) (NNS items)))) (PP (IN in) (NP (DT an) (ADJP (JJ independent) (CC and) (JJ static)) (NN manner)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN image) (NN generator)) (VP (VBZ transforms) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ such) (JJ latent) (NNS variables)))) (PP (IN into) (NP (DT a) (NN video)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NNS methods))))) (. .))

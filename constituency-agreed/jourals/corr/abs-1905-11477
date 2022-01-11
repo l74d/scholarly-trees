@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN measurement) (VBG coding) (NN scheme)) (PP (IN with) (NP (CD two) (NNS goals))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NNS simulations) (NNS results)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB confirm) (NP (PRP$ our) (NNS claims))))))) (. .))

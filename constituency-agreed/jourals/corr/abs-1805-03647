@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN feature) (NN extraction) (NNS parameters)) (VP (VBP are) (VP (VBN updated) (PP (IN during) (NP (NN training))) (, ,) (S (VP (VBG resulting) (PP (IN with) (NP (NP (DT a) (NN representation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN optimized) (PP (IN for) (NP (DT the) (JJ specific) (NN task))))))))))))) (. .))

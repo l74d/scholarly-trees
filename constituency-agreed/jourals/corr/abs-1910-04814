@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN evaluated) (NP (NNP ErrorNet)) (S (VP (VBG using) (NP (CD five) (JJ public) (NNS datasets)) (PP (IN for) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (JJ retinal) (NN vessel) (NN segmentation))))))))) (. .))

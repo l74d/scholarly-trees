@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (DT a) (JJ novel) (JJ parametrized) (NN space)) (PP (IN of) (NP (JJ double) (NNS auctions))))) (, ,) (CC and) (ADVP (RB then)) (VP (VB introduce) (NP (NP (DT an) (JJ evolutionary) (NN search) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ searches) (NP (NP (DT this) (NN space)) (PP (IN of) (NP (NNS parameters)))))))))) (. .))

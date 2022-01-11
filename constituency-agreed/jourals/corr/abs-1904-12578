@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT this))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (PRP$ our) (NNP HAXMLNet)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (DT an) (ADJP (JJ efficient) (CC and) (JJ effective)) (JJ hierarchical) (NN structure)) (PP (IN with) (NP (DT the) (JJ multi-label) (NN attention)))))))) (. .))

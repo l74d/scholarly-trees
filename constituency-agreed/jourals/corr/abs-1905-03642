@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN classification) (NN problem)) (VP (MD must) (VP (VB be) (VP (VBN obtained) (PP (IN through) (NP (NNS images)))))))) (, ,) (ADVP (RB currently)) (, ,) (NP (DT the) (JJ standard) (NN methodology)) (VP (VBZ is) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ convolutional) (JJ neural) (NNS networks))))) (. .))

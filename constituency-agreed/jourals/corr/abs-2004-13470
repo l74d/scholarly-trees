@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN weighting) (NN scheme)) (VP (VBZ is) (VP (VBN calculated) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ pixel-wise) (NN prediction) (NN accuracy)) (PP (IN during) (NP (DT the) (NN training) (NN process)))))))) (. .))

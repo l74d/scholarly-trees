@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB prove) (SBAR (IN that) (S (NP (DT a) (NN program)) (VP (VBZ satisfies) (NP (DT a) (VBN given) (NN property)))))))) (, ,) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (NP (JJ intermediate) (NNS states)) (PP (IN of) (NP (DT the) (NN program)))))) (VP (MD must) (VP (VB be) (VP (VBN characterized)))) (. .))

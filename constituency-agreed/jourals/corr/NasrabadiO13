@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (DT the) (NN decision) (NN maker)) (VP (VP (VBZ selects) (NP (DT an) (JJ initial) (NN decision))) (, ,) (VP (VBZ observes) (NP (NP (DT the) (NN realization)) (PP (IN of) (NP (DT the) (JJ uncertain) (NN cost) (NNS parameters))))) (, ,) (CC and) (ADVP (RB then)) (VP (VBZ is) (VP (VBN permitted) (S (VP (TO to) (VP (VB modify) (NP (DT the) (JJ initial) (NN decision)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ robust) (JJ incremental) (NNS variants)) (PP (IN of) (NP (JJ several) (NN optimization) (NNS problems))))) (. .))

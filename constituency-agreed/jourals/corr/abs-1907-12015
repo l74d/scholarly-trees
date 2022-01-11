@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB create) (NP (NP (NNS timeslices)) (PP (IN of) (NP (JJ equal) (JJ visual) (NN complexity)))))))) (. .))
+(S (NP (DT A) (NN case) (NN study)) (VP (VBZ has) (VP (VBN been) (VP (VBN conducted) (, ,) (PP (IN in) (NP (NP (NN comparison)) (PP (IN with) (NP (JJ uniform) (NN timeslicing))))) (, ,) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach)))))))))) (. .))

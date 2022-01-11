@@ -1,0 +1,1 @@
+(S (S (NP (NP (NNS Data)) (VP (VBN collected) (PP (IN from) (NP (NNP Twitter))))) (VP (VBZ is) (ADJP (RB highly) (JJ unstructured)))) (, ,) (CC and) (S (S (VP (VBG extracting) (NP (JJ useful) (NN information)) (PP (IN from) (NP (NNS tweets))))) (VP (VBZ is) (NP (DT a) (JJ challenging) (NN task)))) (. .))

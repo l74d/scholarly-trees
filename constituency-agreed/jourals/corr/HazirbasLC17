@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS challenges)) (SBAR (S (NP (PRP we)) (VP (VBP face))))))) (VP (VBZ is) (NP (NP (DT the) (NN hunger)) (PP (IN for) (NP (NP (NNS data)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks))))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (ADVP (RB digitally)) (VP (VB create) (NP (NP (JJ focal) (NNS stacks)) (PP (IN of) (NP (VBG varying) (NNS sizes)))))))) (. .))

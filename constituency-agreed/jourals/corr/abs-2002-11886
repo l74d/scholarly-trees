@@ -1,0 +1,1 @@
+(S (ADVP (RB Concretely)) (, ,) (PP (IN after) (S (VP (VBG obtaining) (NP (NP (NN representation)) (PP (IN of) (NP (DT each) (NN frame)))) (PP (IN through) (NP (DT a) (JJ pre-trained) (NN network)))))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VBP fuse) (NP (DT the) (ADJP (JJ visual) (CC and) (JJ lexical)) (NN information))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN contrast))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (ADVP (RB only)) (VP (VBP require) (NP (JJ local) (NN correctness))))) (, ,) (NP (NN non-interference)) (VP (VBZ is) (ADJP (JJ implementable))) (. .))

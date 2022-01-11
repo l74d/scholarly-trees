@@ -1,0 +1,2 @@
+(S (NP (JJ Proper) (NNS parameters)) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (JJ surgical) (NN effect))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT a) (NN simulation) (NN method)) (VP (VBD was) (VP (VBN proposed) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (NNS parameters))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ fundamental) (NNS challenges)) (PP (IN of) (S (VP (VBG mitigating) (NP (JJ adversarial) (NNS inputs)))))) (VP (VBP stem) (PP (IN from) (NP (PRP$ their) (ADJP (JJ adaptive) (CC and) (JJ variable)) (NN nature)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN practice)) (VP (VBZ entails) (NP (NP (DT the) (JJ distinct) (JJ distributional) (NNS properties)) (PP (IN of) (NP (NP (JJ adversarial) (NNS inputs)) (PP (IN in) (NP (DT the) (NN input) (NN space)))))))))) (. .))

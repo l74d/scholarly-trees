@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP conduct) (NP (JJ extensive) (NNS experiments))) (CC and) (VP (VB report) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (JJ several) (VBG existing) (NNS methods)) (VP (VBG using) (NP (PRP$ our) (NN protocol)))))))) (. .))
+(S (NP (DT The) (JJ reproducible) (NN code)) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (S (ADJP (RB publicly) (JJ available)))))))

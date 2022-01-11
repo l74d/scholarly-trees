@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP formulate) (NP (DT the) (NN datapath) (NN extraction)) (PP (IN as) (NP (DT a) (NN subset) (NN selection) (NN problem)))) (CC and) (VP (VB solve) (NP (PRP it)) (PP (IN by) (S (VP (VBG constructing) (CC and) (VBG training) (NP (DT a) (JJ neural) (NN network))))))) (. .))

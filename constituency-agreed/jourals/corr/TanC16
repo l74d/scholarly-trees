@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (DT this) (NN study)) (VP (VBZ conceptualizes) (NP (JJ actionable) (NN insight)) (PP (IN as) (NP (DT a) (JJ multi-component) (NN concept)))) (. .))
+(S (ADVP (RB Collectively)) (, ,) (NP (DT the) (NNS components)) (VP (VBP provide) (NP (NP (DT a) (JJ holistic) (NN definition)) (PP (IN for) (NP (JJ actionable) (NN insight))))) (. .))
+(S (S (NP (NP (DT Each) (NN component) (POS 's)) (ADJP (JJ analytical) (, ,) (JJ cognitive) (, ,) (CC and) (JJ computational)) (NNS requirements)) (VP (VBP are) (VP (VBN explained)))) (CC and) (S (NP (JJ relevant) (NN design) (NNS considerations)) (VP (VBP are) (VP (VBN suggested)))) (. .))

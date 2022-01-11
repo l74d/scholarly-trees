@@ -1,0 +1,2 @@
+(S (NP (JJ Different) (NNS materials)) (VP (VBP absorb) (NP (NN energy)) (PP (IN at) (NP (JJ different) (NNS levels)))) (. .))
+(S (NP (NP (DT The) (NN level)) (PP (IN of) (NP (NN absorption)))) (ADVP (RB also)) (VP (VBZ varies) (PP (IN across) (NP (NNS frequencies)))) (. .))

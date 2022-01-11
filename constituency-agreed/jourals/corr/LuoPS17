@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ actual) (NN implementation) (NN case)) (PP (IN of) (NP (NNP VOLTTRON)))) (VP (VBZ is) (ADVP (RB then)) (VP (VBN presented) (PP (IN in) (NP (DT the) (NN case) (NN study))))) (. .))
+(S (NP (DT The) (NN demonstration)) (VP (VBZ uses) (NP (DT the) (NNP VOLTTRON) (NN platform)) (PP (IN as) (NP (DT a) (NN message) (NN bus)))) (. .))

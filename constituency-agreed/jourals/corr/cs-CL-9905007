@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (NP (DT a) (NN probability) (NN model)) (PP (IN of) (NP (NP (DT the) (NN source)) (SBAR (WHNP (WDT that)) (S (VP (VBD generated) (NP (DT the) (NN text))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Automatic) (NN authentication)) (PP (IN of) (NP (NN paper) (NN money)))) (VP (VBZ has) (VP (VBN been) (VP (VBN targeted)))) (. .))
+(S (NP (JJ Indian) (NN bank) (NNS notes)) (VP (VBP are) (VP (VBN taken) (PP (IN as) (NP (NN reference))) (S (VP (TO to) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN system)) (VP (MD can) (VP (VB be) (VP (VBN developed) (PP (IN for) (S (VP (VBG discriminating) (NP (JJ fake) (NNS notes)) (PP (IN from) (NP (JJ genuine) (NNS ones)))))))))))))))) (. .))

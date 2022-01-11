@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem) (NN solution)) (VP (VBZ is) (VP (VBN derived) (S (VP (VBG using) (NP (DT the) (ADJP (RB fully) (JJ implicit)) (NN scheme)))) (, ,) (SBAR (IN whereas) (S (NP (DT a) (NN time) (NN step)) (VP (VBZ is) (VP (VBN selected) (PP (IN via) (NP (JJ explicit) (NNS calculations))))))))) (. .))
+(S (ADVP (RB First)) (, ,) (S (VP (VBG using) (NP (DT the) (JJ explicit) (NN scheme)))) (, ,) (NP (PRP we)) (VP (VBP calculate) (NP (DT the) (NN solution)) (PP (IN at) (NP (DT a) (JJ new) (NN time) (NN level)))) (. .))

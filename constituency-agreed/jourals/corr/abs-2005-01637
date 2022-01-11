@@ -1,0 +1,2 @@
+(S (NP (NNS Supercomputers)) (VP (VBP produce) (NP (NP (JJ huge) (NNS amounts)) (PP (IN of) (NP (NN research) (NNS data))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT a) (NN research) (NN question))))) (, ,) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS simulations)))) (VP (VBP are) (VP (VBN run) (PP (IN over) (NP (DT a) (JJ large) (NN parameter) (NN space))))) (. .))

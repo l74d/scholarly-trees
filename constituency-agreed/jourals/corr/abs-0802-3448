@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Summaries)) (PP (IN of) (NP (JJ massive) (NNS data) (NNS sets)))) (VP (VBP support) (NP (NP (JJ approximate) (NN query) (NN processing)) (PP (IN over) (NP (DT the) (JJ original) (NNS data))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ their) (NN benefit)) (PP (IN on) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NNP Pareto) (NNS distributions)))))) (. .))

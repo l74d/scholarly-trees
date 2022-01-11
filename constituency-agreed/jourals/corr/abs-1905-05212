@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS masks)) (VP (VBP are) (VP (VBN trained) (ADVP (RB jointly)) (S (VP (TO to) (VP (VB exploit) (NP (NP (NP (NNS relations)) (PP (IN between) (NP (NP (NNS filters)) (PP (IN at) (NP (JJ different) (NNS layers)))))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NN redundancy)) (PP (IN within) (NP (DT the) (JJ same) (NN layer)))))))))) (. .))

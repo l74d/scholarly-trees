@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ prevalent) (NN heuristic)) (VP (VP (VBZ is) (ADVP (RB however)) (ADJP (JJ agnostic) (PP (IN of) (NP (NP (NNS dependencies)) (PP (IN among) (NP (NP (NNS gradients)) (PP (IN across) (NP (DT the) (JJ various) (NNS layers))))))))) (CC and) (VP (VBZ captures) (NP (RB only) (JJ firstorder) (NNS effects)))) (. .))

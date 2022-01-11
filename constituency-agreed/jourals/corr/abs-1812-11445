@@ -1,0 +1,1 @@
+(S (ADVP (RB Additionally)) (, ,) (S (NP (NN environment) (NNS features)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB estimate) (NP (NP (NN motion)) (PP (IN of) (NP (JJ individual) (NNS sensors))))))))))) (CC and) (S (NP (DT the) (NN calibration)) (VP (VBZ is) (VP (VBN found) (PP (IN by) (S (VP (VBG aligning) (NP (DT these) (NNS estimates)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NN framework))) (, ,) (S (NP (NNS constraints)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB model) (NP (NNS components) (CC and) (NNS connectors)))))))) (CC and) (S (NP (NN constraint) (NN aggregation)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB represent) (NP (PRP$ their) (NNS interactions)))))))) (. .))

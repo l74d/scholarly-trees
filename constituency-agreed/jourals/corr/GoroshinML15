@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN done) (PP (IN by) (S (VP (VBG training) (NP (DT a) (JJ generative) (NN model)) (S (VP (TO to) (VP (VB predict) (NP (NN video) (NNS frames)))))))))) (. .))

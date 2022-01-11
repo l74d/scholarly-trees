@@ -1,0 +1,2 @@
+(S (ADVP (RB Particularly)) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB make) (NP (NP (JJ polar) (NNS queries)) (PP (VBG regarding) (NP (NP (NP (DT the) (NN victim) (POS 's)) (NN group) (NNS memberships)) (CC and) (NP (NP (DT the) (NN victim) (POS 's)) (NN identity))))))) (. .))
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB de-anonymize) (NP (DT the) (NN victim)) (PP (IN with) (NP (NP (DT the) (JJ minimum) (NN number)) (PP (IN of) (NP (NNS queries))))))))) (. .))

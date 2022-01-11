@@ -1,0 +1,2 @@
+(S (NP (NNS Images)) (VP (VBP are) (VP (VBN stored) (PP (IN by) (S (VP (VBG calculating) (NP (DT a) (JJ corresponding) (NN weight) (NN matrix))))))) (. .))
+(S (NP (DT The) (JJ simulated) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP Hopfield) (NN model)) (VP (VBZ is) (NP (NP (DT the) (JJS best)) (PP (IN for) (S (VP (VBG storing) (CC and) (VBG recalling) (NP (NNS images)))))))))) (. .))

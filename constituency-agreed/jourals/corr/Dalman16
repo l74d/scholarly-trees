@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NNS restrictions)) (PP (IN on) (NP (NP (DT some) (NNS items) (CC and) (NNS conveyances)) (PP (IN of) (NP (DT the) (NN model))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (DT some) (JJ particular) (NNS items)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN transported) (PP (IN by) (NP (DT some) (JJ exceptional) (NNS conveyances)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT a) (JJ numerical) (NN example)) (VP (VBZ is) (VP (VBN given) (S (VP (TO to) (VP (VB illustrate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NNS models))))))))) (. .))

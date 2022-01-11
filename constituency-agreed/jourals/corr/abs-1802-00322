@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (ADVP (RB also)) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NP (NN entropy)) (PP (IN of) (NP (JJ thermodynamic) (NN graph))))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (NP (NP (DT the) (JJ maximum) (NN length)) (PP (IN of) (NP (NP (DT the) (NN time) (NN step)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (DT the) (NN entropy)) (VP (VBZ does) (RB not) (VP (VB decrease) (PP (IN in) (NP (DT the) (JJ general) (NN case))))))))))) (. .))

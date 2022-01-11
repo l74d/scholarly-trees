@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN network)) (VP (VBZ is) (VP (VBN validated) (PP (IN on) (NP (JJ real) (JJ multispectral) (NNS data) (NNS sets))))) (. .))
+(S (NP (NP (DT Both) (ADJP (JJ visual) (CC and) (JJ quantitative)) (NN analysis)) (PP (IN of) (NP (JJ experimental) (NNS results)))) (VP (VBZ demonstrates) (NP (NP (JJ competitive) (NN performance)) (PP (IN in) (NP (DT the) (VBN proposed) (NN mode))))) (. .))

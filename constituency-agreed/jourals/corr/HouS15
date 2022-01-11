@@ -1,0 +1,4 @@
+(S (NP (DT A) (NN shape) (NN function)) (VP (MD could) (VP (VB be) (NP (DT any) (JJ periodic) (NN function)))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN model)))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB solve) (NP (DT an) (NN optimization) (NN problem)) (S (VP (TO to) (VP (VB extract) (NP (DT the) (NN shape) (NN function))))))))) (. .))
+(S (NP (DT This) (NN structure)) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB extract) (NP (DT the) (NN shape) (NN function)) (PP (IN from) (NP (DT the) (NN signal))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (ADJP (RB very) (JJ encouraging))) (. .))

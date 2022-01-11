@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (VBG using) (NP (NP (DT a) (JJ stochastic) (NN saddle) (NN point) (NN algorithm)) (VP (VBN inspired) (PP (IN by) (NP (NNP Arrow) (CC and) (NNP Hurwicz)))))))) (. .))

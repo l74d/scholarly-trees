@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (ADJP (RB temporally) (VBN extended)) (NNS tasks))) (, ,) (NP (DT the) (VBG underlying) (NN reward) (NN function)) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ expressible) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (NP (JJ individual) (NNS states)) (PP (IN of) (NP (DT the) (NNP MDP)))))))))) (. .))

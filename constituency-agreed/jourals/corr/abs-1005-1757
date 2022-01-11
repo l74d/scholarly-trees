@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN strategy)) (PP (IN through) (NP (JJ extensive) (NNS simulations)))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN strategy)) (VP (VBZ outperforms) (NP (DT the) (VBG existing) (NN prefetching) (NNS mechanisms)))))) (. .))

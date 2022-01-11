@@ -1,0 +1,2 @@
+(S (S (NP (JJ Holomorphic) (NNS functions)) (VP (VBP are) (ADJP (JJ ideal) (PP (IN for) (NP (NP (NN activation) (NNS functions)) (PP (IN of) (NP (JJ complex) (JJ neural) (NNS networks)))))))) (, ,) (CC but) (S (NP (DT the) (NNP Liouville) (NN theorem)) (VP (VBZ makes) (S (NP (PRP them)) (ADJP (JJ useless))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (NNS examples)) (PP (IN of) (NP (JJ such) (NNS functions))))) (. .))

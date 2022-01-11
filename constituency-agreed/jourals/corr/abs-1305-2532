@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Many) (NN prediction) (NNS domains)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN ad) (NN placement)) (, ,) (NP (NN recommendation)) (, ,) (NP (NN trajectory) (NN prediction)) (, ,) (CC and) (NP (NN document) (NN summarization)))) (, ,)) (VP (VBP require) (S (VP (VBG predicting) (NP (NP (DT a) (NN set) (CC or) (NN list)) (PP (IN of) (NP (NNS options))))))) (. .))

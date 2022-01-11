@@ -1,0 +1,3 @@
+(S (CC But) (PP (IN for) (NP (JJ unseen) (NNS relations))) (, ,) (NP (DT the) (NN performance)) (VP (MD will) (VP (VB drop) (ADVP (RB rapidly)))) (. .))
+(S (NP (PRP We)) (VP (VBP employ) (NP (NP (DT the) (JJ adversarial) (NN objective)) (CC and) (NP (DT the) (NN reconstruction) (NN objective))) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN mapping) (NN performance)))))) (. .))
+(S (NP (PRP We)) (VP (VBP re-organize) (NP (DT the) (JJ popular) (NNP SimpleQuestion) (NN dataset)) (S (VP (TO to) (VP (VB reveal) (CC and) (VB evaluate) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG detecting) (NP (JJ unseen) (NNS relations)))))))))) (. .))

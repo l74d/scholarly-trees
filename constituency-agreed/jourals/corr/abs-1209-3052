@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ makes) (NP (NP (DT a) (NN review)) (PP (IN of) (NP (DT the) (JJ above) (NNS parameters)))) (, ,) (S (VP (VBG considering) (NP (NP (DT the) (NNS pros) (CC and) (NNS cons)) (PP (IN of) (NP (NP (DT the) (JJ various) (NNS techniques)) (VP (VBN used) (PP (IN in) (S (VP (VBG addressing) (NP (DT each) (NN parameter)))))))))))) (. .))
+(S (NP (NP (DT The) (NN efficiency) (CC and) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN design)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN analyzed))) (. .))

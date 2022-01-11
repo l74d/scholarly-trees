@@ -1,0 +1,3 @@
+(S (NP (CD Two) (NNS strategies)) (VP (VBP exist) (PP (IN in) (S (VP (VBG combing) (NP (DT these) (JJ numerical) (NNS methods)))))) (. .))
+(S (PP (IN For) (NP (DT the) (JJ first) (CD one))) (, ,) (S (NP (DT the) (JJ whole) (NN domain)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (JJ multiple) (NNS subdomains)))))) (CC and) (S (NP (JJ different) (NNS domains)) (VP (VBP use) (NP (JJ various) (JJ numerical) (NNS methods)))) (. .))
+(S (NP (NP (NN Message) (NN passing)) (PP (IN among) (NP (NNS subdomains)))) (VP (VBZ decides) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (JJ multiscale) (JJ numerical) (NN method))))))) (. .))

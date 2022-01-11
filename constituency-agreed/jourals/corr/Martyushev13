@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ deals) (PP (IN with) (NP (NP (DT a) (JJ minimal) (NN set)) (PP (IN of) (NP (NP (CD six) (NN scene) (NNS points)) (PP (IN in) (NP (NP (CD three) (NNS views)) (VP (VBN taken) (PP (IN by) (NP (NP (DT a) (NN camera)) (PP (IN with) (NP (ADJP (VBN fixed) (CC but) (JJ unknown)) (JJ intrinsic) (NNS parameters))))))))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN implemented) (CC and) (VBN validated) (PP (IN on) (NP (JJ synthetic) (NN image) (NNS data))))) (. .))

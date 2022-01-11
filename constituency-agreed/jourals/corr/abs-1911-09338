@@ -1,0 +1,5 @@
+(S (NP (NP (JJ Cross-modal) (NNS associations)) (PP (IN between) (NP (NN voice) (CC and) (NN face))) (PP (IN from) (NP (DT a) (NN person)))) (VP (MD can) (VP (VB be) (VP (VBN learnt) (ADVP (RB algorithmically)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB benefit) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS applications))))))))))) (. .))
+(S (NP (JJ Much) (NN research) (NN attention)) (VP (VBZ has) (VP (VBN been) (VP (VBN paid) (PP (IN on) (NP (DT these) (NNS tasks))) (ADVP (RB recently))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN research)) (VP (VBZ is) (ADVP (RB still)) (PP (IN in) (NP (DT the) (JJ early) (NN stage)))) (. .))
+(S (NP (NP (NN Performance) (NNS metrics)) (PP (IN on) (NP (JJ various) (NNS tasks)))) (VP (VBP are) (ADJP (JJ scarce))) (. .))
+(S (NP (NP (DT A) (NN benchmark)) (PP (IN for) (NP (DT this) (NN problem)))) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBN established)))))) (. .))

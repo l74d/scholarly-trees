@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN criterion)))) (, ,) (NP (DT a) (JJ fast) (NN algorithm)) (VP (VBZ is) (VP (VBN given) (PP (IN for) (NP (NP (DT the) (NN scenario)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN dependency) (NN model)) (VP (VBZ is) (NP (DT a) (NN tree))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN definition)) (PP (IN of) (NP (NP (JJ atomic) (NN codeword)) (PP (IN for) (NP (DT a) (NN group) (NN code)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NP (DT Some) (NNS properties)) (PP (IN of) (NP (NP (JJ atomic) (NNS codewords)) (PP (IN of) (NP (NN group) (NNS codes)))))) (VP (VBP are) (VP (VBN investigated))) (. .))

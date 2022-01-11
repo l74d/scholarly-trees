@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT a) (NN flow) (NN method)) (, ,) (VP (VBN driven) (PP (IN by) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ differential) (NNS equations)))))))) (. .))
+(S (NP (CD Two) (NNS examples)) (VP (VBP are) (VP (VBN demonstrated) (PP (IN in) (NP (NN detail))))) (. .))

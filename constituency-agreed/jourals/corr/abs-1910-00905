@@ -1,0 +1,2 @@
+(S (NP (NN Non-interference)) (VP (VBZ is) (NP (NP (DT a) (NN program) (NN property)) (SBAR (WHNP (WDT that)) (S (VP (VBZ ensures) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (NN information) (NNS leaks))))))))) (. .))
+(S (NP (DT The) (JJ former) (NNS parts)) (VP (VBP are) (VP (VBN verified) (PP (IN through) (NP (NN type) (NN checking))) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ latter) (NNS parts)) (VP (VBP are) (VP (VBN verified) (PP (IN through) (NP (JJ manual) (NN proof))))))))) (. .))

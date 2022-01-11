@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ new) (NN feature)) (PP (IN of) (NP (JJ such) (JJ fuzzy) (NNP Petri) (NNS nets)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (NNS labels)) (PP (IN of) (NP (NNS transitions)))) (VP (VBP are) (NP (NP (DT some) (JJ special) (NNS words)) (VP (VBN modeled) (PP (IN by) (NP (JJ fuzzy) (NNS sets))))))))) (. .))
+(S (NP (DT A) (JJ few) (JJ small) (NNS examples)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (JJ theoretical) (NN development))))))) (. .))

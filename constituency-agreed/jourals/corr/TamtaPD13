@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Direct) (NN implication)) (PP (IN of) (NP (DT this) (NN solution)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN clique) (NN problem)) (VP (VBZ gets) (VP (VBN solved) (PP (IN in) (NP (JJ polynomial) (NN time)))))))) (. .))

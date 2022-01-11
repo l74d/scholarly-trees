@@ -1,0 +1,1 @@
+(S (PP (RB Instead) (IN of) (S (VP (VBG modeling) (NP (JJ raw) (NN waveform))))) (, ,) (NP (PRP we)) (VP (VBP model) (NP (NP (NNS features)) (VP (VBN produced) (PP (IN by) (NP (NP (DT a) (JJ parametric) (NN vocoder)) (SBAR (WHNP (WDT that)) (S (VP (VBZ separates) (NP (NP (DT the) (NN influence)) (PP (IN of) (NP (NN pitch) (CC and) (NN timbre)))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ private) (NN module)) (VP (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (NP (DT the) (JJ local) (NNS data)) (PP (IN in) (NP (DT each) (NN platform))))))))))) (, ,) (CC and) (VP (VBZ is) (VP (VBN updated) (S (VP (VBG using) (NP (JJ local) (VBN labeled) (NNS data))))))) (. .))

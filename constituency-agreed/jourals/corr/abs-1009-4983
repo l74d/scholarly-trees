@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN on) (NP (NP (JJ several) (NNS benchmarks) (NNS problems)) (PP (IN in) (NP (JJ neural) (NNS networks)))))) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (NP (DT the) (VBN proposed) (NN approach)) (PP (IN with) (NP (JJ good) (NN generalization) (NN ability))))))) (. .))

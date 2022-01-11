@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ leverages) (NP (NP (NNS datasets)) (PP (IN of) (NP (NP (NNS images)) (CC and) (NP (PRP$ their) (NN sentence) (NNS descriptions))))) (S (VP (TO to) (VP (VB learn) (PP (IN about) (NP (NP (DT the) (JJ inter-modal) (NNS correspondences)) (PP (IN between) (NP (NP (NN language)) (CC and) (NP (JJ visual) (NNS data)))))))))) (. .))

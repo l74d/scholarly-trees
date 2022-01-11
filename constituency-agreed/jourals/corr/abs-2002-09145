@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ leverages) (NP (CONJP (RB not) (RB only)) (NP (DT the) (NNS data)) (CONJP (CC but) (RB also)) (NP (NP (DT the) (NN information)) (PP (IN from) (NP (DT the) (NNS embeddings))))) (S (VP (TO to) (VP (VB approximate) (NP (PRP$ their) (JJ joint) (JJ posterior) (NN distribution)))))) (. .))

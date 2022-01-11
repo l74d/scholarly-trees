@@ -1,0 +1,2 @@
+(S (NP (NNP Capsule) (JJ neural) (NN network)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ new) (CC and) (JJ popular)) (NN technique)) (PP (IN in) (NP (JJ deep) (NN learning))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (VBG squashing) (NN function)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB classify) (NP (DT the) (JJ facial) (NN expression))))))) (. .))

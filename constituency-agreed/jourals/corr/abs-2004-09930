@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (NP (DT the) (NNS confidences)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB adjust) (NP (NP (DT the) (NN training) (NNS losses)) (PP (IN of) (NP (NNS extractors))))))))) (. .))

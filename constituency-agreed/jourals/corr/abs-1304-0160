@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ current) (NN paper))) (NP (NP (DT a) (JJ formal) (NN definition)) (PP (IN of) (NP (JJ autonomous) (NN learning)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (ADJP (JJ Sequential) (CC and) (JJ parallel)) (NNS implementations)) (PP (IN of) (NP (DT this) (NN model)))) (VP (VBP are) (VP (VBN discussed))) (. .))

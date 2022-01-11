@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (NN triangulation) (NNS graphs)) (VP (VBP are) (ADJP (RB very) (JJ sparse))))) (, ,) (NP (DT this)) (VP (VBZ is) (ADJP (RB informationally) (JJ efficient)) (, ,) (S (VP (VBG requiring) (NP (NP (DT an) (ADJP (RB almost) (JJ minimal)) (NN amount)) (PP (IN of) (NP (NN distance) (NN information))))))) (. .))

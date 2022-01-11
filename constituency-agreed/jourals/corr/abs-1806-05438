@@ -1,0 +1,1 @@
+(S (PP (IN As) (PP (IN for) (NP (DT the) (JJ averaged) (JJ stochastic) (NN gradient) (NN descent)))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ same) (NN convergence) (NN rate)) (VP (VBZ holds) (PP (IN from) (NP (NP (DT the) (JJ early) (NN phase)) (PP (IN of) (NP (NN training))))))))) (. .))

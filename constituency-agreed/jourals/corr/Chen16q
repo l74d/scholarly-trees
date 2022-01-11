@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN robustness) (CC and) (NN correctness)) (PP (IN of) (NP (NNP SAT) (NNS solvers)))) (VP (VBP are) (VP (VBG receiving) (NP (ADJP (JJR more) (CC and) (JJR more)) (NN attention)))) (. .))
+(S (ADVP (RB So) (RB far)) (, ,) (NP (DT no) (NN proof) (NN checker)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ efficient)) (PP (IN for) (NP (DT every) (NN case))))) (. .))

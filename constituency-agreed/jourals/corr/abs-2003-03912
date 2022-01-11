@@ -1,0 +1,1 @@
+(S (S (NP (JJ Theoretical) (NNS guarantees)) (VP (VBP are) (VP (VBN provided) (S (VP (VBG using) (NP (NNP Lyapunov) (NN theory))))))) (CC and) (S (NP (DT a) (NN simulation) (NN example)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN technique)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN memory)) (PP (IN on) (NP (DT a) (NNP GPU)))) (VP (VBZ is) (RB not) (ADJP (JJ large) (RB enough) (S (VP (TO to) (VP (VB train) (NP (DT the) (NNS models))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (NN communication) (NN overhead)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT the) (ADJP (RBS most) (JJ important)) (NN issue))))) (, ,)) (VP (VBD was) (VP (VBN reduced) (PP (IN by) (NP (CD 17.1) (NN %))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ Entangled) (NN plaquette) (NNS states)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN as) (NP (NP (DT a) (JJ backpropagatable) (NN layer)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (JJ neural) (NNS networks)))))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB alleviate) (NP (DT these) (NNS problems))))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB introduce) (NP (JJ explicit) (NN phrase) (NN alignment)) (PP (IN into) (NP (NP (DT the) (NN translation) (NN process)) (PP (IN of) (NP (JJ arbitrary) (NNP NMT) (NNS models))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP design) (NP (NP (DT a) (JJ new) (NN decoding) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (ADVP (RB easily)) (VP (VB impose) (NP (ADJP (JJ lexical) (CC and) (JJ structural)) (NNS constraints)))))))) (. .))

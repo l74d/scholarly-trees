@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP represent) (NP (JJ chemical) (NNS compounds)) (PP (IN by) (NP (NP (NNS strings)) (, ,) (NP (NNS images)) (, ,) (CC and) (NP (JJ numerical) (NNS features))))) (. .))
+(S (NP (PRP We)) (VP (VBP train) (NP (NP (ADJP (RB fully) (VBN connected) (, ,) (JJ convolutional) (, ,) (CC and) (JJ recurrent)) (JJ neural) (NNS networks)) (CC and) (NP (PRP$ their) (NNS ensembles)))) (. .))
+(S (NP (PRP$ Our) (NN motivation)) (VP (VBZ is) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT a) (JJ collective) (NN performance)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB go) (PP (IN beyond) (NP (NP (JJ individual) (NN performance)) (PP (IN of) (NP (NP (DT each) (NN data) (NN representation)) (CC or) (NP (DT each) (JJ neural) (NN network) (NN type))))))))))))))) (. .))

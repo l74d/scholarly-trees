@@ -1,0 +1,2 @@
+(S (NP (JJ Genetic) (NN algorithm)) (VP (VBZ is) (VP (VBN used) (PP (RB instead) (IN of) (NP (JJ exhaustive) (NN search))) (S (VP (TO to) (VP (VB learn) (NP (NP (NNS parameters)) (PP (IN of) (NP (JJ such) (NN classifier))))))))) (. .))
+(S (NP (VBN Proposed) (NN approach)) (ADVP (RB also)) (VP (VBZ takes) (NP (NP (NNS cases)) (SBAR (WHADVP (WRB when)) (S (NP (NP (JJ effective) (NN algorithm)) (PP (IN for) (S (VP (VBG learning) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN classifier) (NNS parameters)))))))) (VP (VBZ exists) (PP (IN into) (NP (NN account)))))))) (. .))

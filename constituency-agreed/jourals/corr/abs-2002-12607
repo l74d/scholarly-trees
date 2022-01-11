@@ -1,0 +1,2 @@
+(S (NP (CD One)) (VP (VBZ is) (NP (NP (DT a) (JJ sufficient) (NN condition)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB not) (VP (VB depend) (PP (IN on) (NP (DT the) (NN measurement) (NNS values))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP identify) (NP (NP (CD two) (ADJP (JJ sufficient) (CC and) (JJ necessary)) (NN vulnerability) (NNS conditions)) (SBAR (WHNP (WDT which)) (S (VP (VBP depend) (PP (IN on) (NP (DT the) (NN measurement) (NNS values)))))))) (. .))

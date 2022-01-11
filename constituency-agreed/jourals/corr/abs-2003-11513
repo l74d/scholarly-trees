@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ global) (NN convergence)) (PP (IN of) (NP (DT the) (JJ numerical) (NN procedure)))) (VP (VBZ is) (VP (VBN established) (ADVP (RB analytically)))) (. .))
+(S (NP (DT The) (JJ numerical) (NN verification)) (VP (VBZ is) (VP (VBN performed) (S (VP (VBG using) (NP (NP (JJ experimental) (NNS data)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (JJ raw) (NN backscatter) (NNS data)) (PP (IN of) (NP (DT the) (JJ electric) (NN field)))))))))))) (. .))

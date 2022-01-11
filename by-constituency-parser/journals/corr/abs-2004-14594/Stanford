@@ -1,0 +1,2 @@
+(S (ADVP (RB Subsequently)) (, ,) (NP (DT the) (NML (S (VP (VBN learned)))) (NNS dynamics)) (VP (MD can) (VP (VB lead) (PP (IN to) (NP (NP (ADJP (RBR less) (JJ conservative)) (NNS designs)) (PP (IN for) (NP (NML (NN performance) (HYPH /) (NN robustness)) (NN tradeoff))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (NP (DT the) (VBN proposed) (NN architecture)) (PP (IN via) (NP (JJ numerical) (NNS simulations))))))) (. .))

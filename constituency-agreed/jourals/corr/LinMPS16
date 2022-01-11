@@ -1,0 +1,1 @@
+(S (ADVP (RB Intuitively)) (, ,) (NP (PRP it)) (VP (VBZ discovers) (NP (NP (NN target) (NNS entities)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ reachable) (PP (IN from) (NP (NP (NN source) (NNS entities)) (VP (VBN specified) (PP (IN by) (NP (DT the) (NN query)))))))))))) (. .))

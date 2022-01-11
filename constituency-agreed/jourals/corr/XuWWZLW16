@@ -1,0 +1,2 @@
+(S (S (VP (VBG Choosing) (NP (DT a) (JJ good) (NN location)) (SBAR (WHADVP (WRB when)) (S (VP (VBG opening) (NP (DT a) (JJ new) (NN store))))))) (VP (VBZ is) (ADJP (JJ crucial) (PP (IN for) (NP (NP (DT the) (JJ future) (NN success)) (PP (IN of) (NP (DT a) (NN business))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ final) (NN stage))) (, ,) (NP (PRP we)) (VP (VBP solve) (NP (DT the) (NN location) (NN optimization) (NN problem)) (PP (IN by) (S (VP (VBG predicting) (CC and) (VBG ranking) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS customers)))))))) (. .))

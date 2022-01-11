@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (NNS services)) (PP (IN from) (NP (JJ heterogeneous) (, ,) (ADJP (RB possibly) (JJ unknown)) (NNS sources)))) (VP (MD may) (VP (VB be) (VP (VBN used)))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN for) (NP (NN reliability) (CC and) (NN responsiveness) (NNS properties))) (PP (IN with) (NP (DT the) (NN model) (NN checker) (NNP CMC))))) (. .))

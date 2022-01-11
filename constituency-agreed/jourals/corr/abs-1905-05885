@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ diagonal) (NN matrix)) (VP (MD can) (VP (VB learn) (NP (NP (DT a) (NN rescaling)) (PP (IN of) (NP (NP (DT the) (NN problem)) (PP (IN in) (NP (DT the) (NNS coordinates)))))) (PP (IN within) (NP (NP (JJ linear) (NN number)) (PP (IN of) (NP (NN function) (NNS evaluations))))))) (. .))

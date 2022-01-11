@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN network)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD two) (NNS neurons)) (PP (IN with) (NP (NP (JJ symmetric) (JJ nonlinear) (NN response)) (PP (IN over) (NP (DT a) (JJ spectral) (NN range)))))))) (. .))
+(S (NP (JJ Other) (NNS advantages)) (VP (VBP include) (NP (NP (NN interpretability)) (, ,) (NP (NP (NNS guarantees)) (PP (IN of) (NP (NP (NN performance)) (PP (IN on) (NP (JJ unseen) (NNS data)))))) (CC and) (NP (JJ low) (NNP Kolmogorov) (NN complexity)))) (. .))

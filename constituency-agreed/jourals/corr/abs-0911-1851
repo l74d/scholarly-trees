@@ -1,0 +1,2 @@
+(S (PP (IN Like) (NP (NN thread))) (, ,) (NP (NN service)) (VP (VBZ is) (NP (DT an) (JJ abstract) (JJ behavioural) (NN concept))) (. .))
+(S (NP (DT A) (NN state) (NN space)) (VP (VBZ is) (ADJP (JJ inherent) (PP (IN in) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (DT a) (JJ functional) (NN unit)))))) (, ,) (SBAR (IN whereas) (S (NP (PRP it)) (VP (VBZ is) (RB not) (ADJP (JJ inherent) (PP (IN in) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (DT a) (NN service)))))))))) (. .))

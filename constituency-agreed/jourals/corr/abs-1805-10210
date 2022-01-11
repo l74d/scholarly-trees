@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NNP Computer) (NNP Vision)) (VP (VBZ has) (VP (VBN attempted) (PP (IN at) (S (VP (VBG defining) (NP (JJ automatic) (NN detection) (NNS thresholds))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN in) (NP (DT that) (NN way))) (NP (NP (DT a) (ADJP (RBR more) (JJ precise)) (NN definition)) (PP (PP (IN of) (NP (DT the) (NN alignment) (NN gestalt))) (CC and) (PP (IN of) (NP (PRP$ its) (JJ computational) (NN formulation))))) (VP (VBZ seems) (S (VP (TO to) (VP (VB emerge)))))))) (. .))

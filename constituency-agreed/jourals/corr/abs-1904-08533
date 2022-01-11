@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (JJ annotated) (NN homonym) (NN resource)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB test) (NP (PRP$ our) (NNS hypotheses)) (PP (IN on) (NP (VBG existing) (NNP WSD) (NNS resources))))))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT the) (NNS experiments)))) (VP (VBP provide) (NP (NP (JJ strong) (JJ empirical) (NN evidence)) (PP (IN for) (NP (DT the) (NNS hypotheses))))) (. .))

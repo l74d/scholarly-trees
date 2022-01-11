@@ -1,0 +1,2 @@
+(S (S (VP (VBG Calculating) (NP (NP (DT the) (NN capacity)) (PP (IN of) (NP (NN interference) (NNS channels)))))) (VP (VBZ is) (NP (NP (DT a) (JJ notorious) (JJ open) (NN problem)) (PP (IN in) (NP (JJ classical) (NN information) (NN theory))))) (. .))
+(S (S (NP (JJ Such) (NNS channels)) (VP (VBP have) (NP (NP (CD two) (NNS senders)) (CC and) (NP (CD two) (NNS receivers))))) (, ,) (CC and) (S (NP (DT each) (NN sender)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB communicate) (PP (IN with) (NP (DT a) (NN partner) (NN receiver))))))))) (. .))

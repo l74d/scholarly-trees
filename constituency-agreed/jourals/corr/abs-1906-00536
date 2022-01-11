@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ neutral) (NN accuracy)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ is) (NP (DT the) (JJ geometric) (NN mean))) (CC and) (VP (VBZ is) (ADJP (JJ consistent) (PP (IN with) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (DT the) (NNP Shannon) (NN cross-entropy)))))))))) (, ,)) (VP (VBZ is) (VP (VBN improved))) (. .))

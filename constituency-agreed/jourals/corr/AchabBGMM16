@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN matrix)) (VP (CONJP (RB not) (RB only)) (VP (VBZ encodes) (NP (NP (DT the) (JJ mutual) (NNS influences)) (PP (IN of) (NP (NP (DT each) (NNS nodes)) (PP (IN of) (NP (DT the) (NN process))))))) (, ,) (CONJP (CC but) (RB also)) (VP (VBZ disentangles) (NP (NP (DT the) (NN causality) (NNS relationships)) (PP (IN between) (NP (PRP them)))))) (. .))

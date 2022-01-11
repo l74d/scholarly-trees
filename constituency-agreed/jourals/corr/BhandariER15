@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ considers) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN super-resolution))))) (. .))
+(S (ADVP (RB Classically)) (, ,) (NP (JJ such) (NNS problems)) (VP (VBP have) (VP (VBN been) (VP (VBN dealt) (PP (IN with) (NP (NN parameter) (NN estimation) (NNS methods)))))) (. .))

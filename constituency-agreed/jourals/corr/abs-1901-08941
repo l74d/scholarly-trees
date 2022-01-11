@@ -1,0 +1,2 @@
+(S (S (NP (JJ Many) (NNS approaches)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed))))) (, ,) (S (ADVP (RB however)) (, ,) (NP (JJS most) (JJ previous) (NN model) (NNS frameworks)) (VP (VBP are) (ADJP (RB fairly) (JJ restrictive)))) (. .))
+(S (NP (DT The) (NNS models)) (VP (VBP allow) (S (NP (PRP us)) (VP (TO to) (VP (VB describe) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN user)) (VP (VBZ processes) (NP (NP (PRP$ their) (JJ past) (NN behavior)) (CC and) (NP (PRP$ their) (JJ social) (NNS inputs)))))))))) (. .))

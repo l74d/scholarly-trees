@@ -1,0 +1,4 @@
+(S (S (NP (CD One) (NN strategy)) (VP (VBZ promotes) (NP (NP (JJ global) (NN smoothing)) (PP (IN over) (NP (DT the) (NN graph)))))) (CC and) (S (NP (DT a) (JJ second) (NN strategy)) (VP (VBZ promotes) (NP (NP (JJ local) (NN smoothing)) (PP (IN over) (NP (NNS neighbourhoods)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (NN cooperation)) (PP (IN with) (NP (NNS neighbours)))) (VP (VBZ is) (ADJP (JJ necessary))) (. .))
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (NN cooperation)) (VP (MD can) (RB not) (VP (VB rely) (PP (IN on) (S (VP (VBG combining) (NP (DT the) (NN classifier) (NNS parameters)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NN performance)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NN computer) (NNS simulations)))))) (. .))

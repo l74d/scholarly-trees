@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ latter)) (VP (VBZ allows) (S (VP (VBG solving) (NP (DT the) (NN robot) (NN localization) (NN problem)) (PP (IN as) (NP (DT the) (NNP Kalman) (NN filtering) (NN problem)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP advocate) (PP (IN for) (S (VP (VBG rethinking) (SBAR (WHADVP (WRB how)) (S (NP (NN time)) (VP (VBZ is) (VP (VBN managed) (PP (IN in) (NP (DT a) (NN system) (NN stack))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN clock) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ characterizes) (NP (NP (JJ various) (NNS sources)) (PP (IN of) (NP (NP (VBG timing) (NNS uncertainties)) (PP (IN in) (NP (JJ true) (NN time))))))))))) (. .))

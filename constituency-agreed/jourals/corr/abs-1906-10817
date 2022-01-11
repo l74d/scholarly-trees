@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ standard) (NN method)) (PP (IN of) (S (VP (VBG solving) (NP (DT this) (NN problem)))))) (VP (VBZ is) (VP (VBG using) (NP (NP (NNP State) (NNP Machine) (NNP Replication)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ achieves) (NP (JJ high) (NN security)) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (JJ low) (NN efficiency))))))))))) (. .))

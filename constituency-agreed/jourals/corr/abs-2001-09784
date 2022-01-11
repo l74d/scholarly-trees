@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ begins) (PP (IN by) (S (VP (VBG discussing) (NP (NP (NP (DT the) (NNS causes)) (PP (IN of) (NP (JJ algorithmic) (NN bias) (CC and) (NN unfairness)))) (CC and) (NP (NP (DT the) (JJ common) (NNS definitions) (CC and) (NNS measures)) (PP (IN for) (NP (NN fairness))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN paper)) (VP (VBZ ends) (PP (IN by) (S (VP (VBG reviewing) (NP (NP (JJ several) (VBG emerging) (NN research) (NNS sub-fields)) (PP (IN of) (NP (JJ algorithmic) (NN fairness)))))))) (. .))

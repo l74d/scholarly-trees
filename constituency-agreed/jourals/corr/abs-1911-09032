@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (NP (JJ numerous) (NNS efforts)) (PP (IN of) (NP (DT the) (NN research) (NN community))))) (, ,) (NP (NN novelty) (NN detection)) (VP (VBZ remains) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ significant) (NNS limitations)) (PP (IN of) (NP (JJ neural) (NNS networks))))))) (. .))
+(S (PP (IN For) (NP (DT each) (NN neuron))) (, ,) (NP (DT the) (NNS boxes)) (VP (VBP range) (PP (IN over) (NP (NP (DT the) (NNS values)) (VP (VBN seen) (PP (IN in) (NP (NN training))))))) (. .))

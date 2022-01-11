@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NNP Eclipse) (NNS plug-ins)) (PP (IN for) (NP (NP (DT the) (NNP Task) (NNP Flow) (NN model)) (PP (IN in) (NP (DT the) (NNP Discovery) (NNP Method))))))) (. .))
+(S (NP (DT These) (NNS plug-ins)) (VP (VBP provide) (NP (NP (DT an) (NNP IDE)) (PP (IN for) (NP (NP (DT the) (NNP Task) (NNP Algebra) (NN compiler)) (CC and) (NP (DT the) (JJ model-checking) (NNS tools)))))) (. .))
+(S (S (NP (DT The) (NNP Task) (NNP Algebra)) (VP (VBZ is) (NP (NP (DT the) (JJ formal) (NN representation)) (PP (IN for) (NP (DT the) (NNP Task) (NNP Model)))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (ADJP (JJ simple) (CC and) (JJ compound)) (NNS tasks)))))) (. .))
+(S (NP (DT The) (JJ model-checking) (NNS techniques)) (VP (VBD were) (VP (VBN developed) (S (VP (TO to) (VP (VB validate) (NP (NP (NNP Task) (NNP Models)) (VP (VBN represented) (PP (IN in) (NP (DT the) (NN algebra)))))))))) (. .))

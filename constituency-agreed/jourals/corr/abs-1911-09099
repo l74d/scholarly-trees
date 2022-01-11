@@ -1,0 +1,2 @@
+(S (ADVP (RB Obviously)) (, ,) (NP (NN portrait) (NN segmentation)) (VP (VBZ has) (NP (PRP$ its) (JJ unique) (NNS requirements))) (. .))
+(S (NP (DT The) (NN information) (VBG blocking) (NN decoder)) (VP (VBZ uses) (NP (NN confidence) (NNS estimates)) (S (VP (TO to) (VP (VB recover) (NP (JJ local) (JJ spatial) (NN information)) (PP (IN without) (S (VP (VBG spoiling) (NP (JJ global) (NN consistency))))))))) (. .))

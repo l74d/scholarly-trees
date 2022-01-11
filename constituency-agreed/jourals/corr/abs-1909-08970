@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (NNP Amazon) (NNP Mechanical) (NNP Turk)))) (, ,) (NP (PRP we)) (VP (VBD collected) (NP (NP (DT a) (NN dataset)) (PP (IN of) (NP (NP (CD 2515) (NNS instructions)) (VP (VBN aligned) (PP (IN with) (NP (NP (JJ actual) (NNS routes)) (PP (IN over) (NP (NP (CD three) (NNS regions)) (PP (IN of) (NP (NNP Manhattan)))))))))))) (. .))

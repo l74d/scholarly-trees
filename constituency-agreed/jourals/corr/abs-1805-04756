@@ -1,0 +1,1 @@
+(S (SBAR (RB Even) (IN though) (S (NP (NNP Dropout)) (VP (VBZ induces) (NP (DT a) (JJ non-smooth) (NN energy) (NN function)) (PP (IN with) (NP (DT no) (JJ such) (NN convergence) (NNS guarantees)))))) (, ,) (NP (NP (DT the) (VBG resulting) (NN discretization)) (PP (IN of) (NP (DT the) (JJ Hamiltonian)))) (VP (VBZ proves) (NP (JJ empirical) (NN success))) (. .))

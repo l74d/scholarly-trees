@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ major) (NN challenge)) (PP (IN in) (NP (NN paraphrase) (NN research)))) (VP (VBZ is) (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (JJ parallel) (NNS corpora))))) (. .))
+(S (NP (PRP We)) (VP (VBP make) (S (NP (PRP$ our) (NN code) (CC and) (NNS data)) (ADJP (RB freely) (JJ available)))) (. .))

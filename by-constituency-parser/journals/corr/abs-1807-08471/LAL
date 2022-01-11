@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD participated) (NP (NP (DT the) (NNP Task) (CD 1)) (: :) (NP (NN Lesion) (NNP Segmentation)))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ describes) (NP (NP (PRP$ our) (NN algorithm)) (CC and) (NP (NP (DT the) (JJ final) (NN result)) (PP (IN of) (NP (NP (NN validation)) (VP (VBN set) (PP (IN for) (NP (NP (DT the) (NNP ISIC) (NNP Challenge) (CD 2018)) (: -) (NP (NP (NNP Skin) (NNP Lesion) (NNP Analysis)) (PP (NNP Towards) (NP (NNP Melanoma) (NNP Detection)))))))))))) (. .))

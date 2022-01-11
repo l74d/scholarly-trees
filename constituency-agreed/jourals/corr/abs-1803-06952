@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP start) (PP (IN by) (S (VP (VBG using) (NP (NP (NNS data) (NNS centers)) (CONJP (RB rather) (IN than)) (NP (DT all) (NN training) (NNS samples))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (ADVP (RB empirically)) (NP (NP (DT the) (NN reliability)) (PP (IN of) (NP (DT the) (NN model))))) (. .))

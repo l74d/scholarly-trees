@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (NP (DT a) (NN set)) (PP (IN with) (NP (JJ maximum) (NN cohesion)))) (PP (IN in) (NP (DT an) (JJ undirected) (NN network))))))) (VP (VBZ is) (ADJP (NNP NP-hard)))))) (. .))

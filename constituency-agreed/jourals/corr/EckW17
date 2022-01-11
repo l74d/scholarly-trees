@@ -1,0 +1,2 @@
+(S (NP (NNP CitNetExplorer)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB cluster) (NP (NP (DT a) (JJ large) (NN set)) (PP (IN of) (NP (NP (NNS publications)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN astronomy) (CC and) (NNS astrophysics))))))))))))) (. .))
+(S (NP (DT The) (NNS publications)) (VP (VBP are) (VP (VBN clustered) (PP (VBN based) (PP (IN on) (NP (JJ direct) (NN citation) (NNS relations)))))) (. .))

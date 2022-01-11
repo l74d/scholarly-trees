@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS generators) (CC and) (NNS discriminators)) (VP (VBP are) (VP (VBN trained) (ADVP (RB together)) (S (VP (VBG using) (NP (JJ adversarial) (NN learning)))))) (. .))

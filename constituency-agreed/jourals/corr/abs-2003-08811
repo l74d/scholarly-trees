@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ temporal) (NN evolution)) (PP (IN of) (NP (DT these) (NNS relations)))) (VP (VBZ is) (VP (VBN described) (PP (IN by) (NP (NP (JJ dynamic) (NN word) (NNS embeddings)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB learn) (NP (JJ semantic) (NNS changes)) (PP (IN over) (NP (NN time)))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN method)) (VP (VBN founded) (PP (IN on) (NP (NP (DT the) (JJ costate) (NN equation)) (CC and) (NP (NP (NNS models)) (PP (IN of) (NP (DT the) (NN state) (NNS dynamics))))))))) (. .))
+(S (CC And) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ creates) (NP (DT a) (NN model))))) (, ,) (NP (DT the) (NN costate) (NN method)) (VP (MD can) (ADVP (RB also)) (VP (VB learn) (PP (IN from) (NP (JJ mental) (NN practice))))) (. .))

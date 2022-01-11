@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ key) (NN feature)) (PP (IN of) (NP (DT a) (NN memristor)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP$ its) (JJ current) (NN resitance)) (VP (VBZ is) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (PRP$ its) (JJ previous) (NN resistance)))))))) (. .))
+(S (ADVP (RB Ultimately)) (, ,) (NP (NN information)) (VP (MD can) (VP (VB be) (VP (VBN encoded) (PP (IN on) (NP (NNS memristors)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ many) (JJ memristive) (NNS devices)) (VP (VBP are) (ADVP (RB yet)) (S (VP (TO to) (VP (VB be) (VP (VBN found)))))) (. .))

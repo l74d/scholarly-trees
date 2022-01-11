@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ real) (NNS scenarios))) (, ,) (NP (EX there)) (VP (MD might) (RB not) (VP (VB exist) (NP (NP (DT a) (JJ single) (NN path)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB enable) (NP (NP (NN transfer)) (PP (IN of) (NP (JJ high) (NN value) (NNS payments))))))))))) (. .))
+(S (PP (IN For) (NP (JJ such) (NNS cases))) (, ,) (S (VP (VBG splitting) (PRT (RP up)) (NP (DT the) (NN transaction) (NN value)) (PP (IN across) (NP (JJ multiple) (NNS paths))))) (VP (VBZ is) (NP (DT a) (JJR better) (NN approach))) (. .))

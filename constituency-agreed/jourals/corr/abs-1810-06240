@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ novel) (NN measure)) (VP (VP (VBZ is) (ADJP (JJ flexible))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN in) (NP (JJ various) (NN application) (NNS domains))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ quadratic) (NN programming) (NN formulation)) (CC and) (NP (DT an) (JJ efficient) (NN heuristic)))) (. .))

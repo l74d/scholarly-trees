@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (JJ general) (JJ variational) (NN inference) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ preserves) (NP (NP (NN dependency)) (PP (IN among) (NP (DT the) (NN latent) (NNS variables))))))))) (. .))

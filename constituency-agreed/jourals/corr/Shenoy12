@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some) (NNS limitations)) (PP (IN of) (NP (JJ such) (NNS networks)))) (VP (VBP are) (SBAR (IN as) (S (VP (VBZ follows))))) (. .))
+(S (S (NP (DT All) (JJ continuous) (NN chance) (NNS variables)) (VP (MD must) (VP (VB have) (NP (JJ conditional) (JJ linear) (JJ Gaussian) (NNS distributions))))) (, ,) (CC and) (S (NP (JJ discrete) (NN chance) (NNS nodes)) (VP (MD can) (RB not) (VP (VB have) (NP (JJ continuous) (NNS parents))))) (. .))

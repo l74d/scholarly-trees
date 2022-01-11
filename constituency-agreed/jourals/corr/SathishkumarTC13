@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ important) (NNS steps)) (PP (IN in) (NP (NN knowledge) (NN discovery))))))) (. .))
+(S (S (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (NNS genes)))) (VP (MD may) (VP (VB be) (ADJP (JJ redundant))))) (, ,) (CC and) (S (NP (NNS others)) (VP (MD may) (VP (VB be) (ADJP (JJ irrelevant) (CC and) (JJ noisy))))) (. .))

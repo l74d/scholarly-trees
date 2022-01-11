@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ first) (NN operation)) (VP (VBZ is) (NP (NP (DT the) (NN filtering)) (PP (IN of) (NP (NN image))))) (. .))
+(S (NP (NP (DT The) (JJ pre-processing) (NN system)) (CC and) (NP (DT the) (NN modeling) (NN approach))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (CD two) (JJ basic) (NNS steps))))) (. .))
+(S (NP (DT The) (JJ first) (NN step)) (VP (VBZ is) (NP (NP (DT the) (NN extraction)) (PP (IN of) (NP (NP (DT the) (JJ temporal) (NN order)) (PP (IN in) (NP (NP (DT the) (NN image)) (PP (IN of) (NP (DT the) (JJ handwritten) (NN trajectory))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS optimizations)) (VP (VP (VBP expand) (NP (NNS quantifiers))) (CC and) (VP (VB utilize) (NP (NP (JJ unreachable) (NNS states)) (CC and) (NP (JJ variable) (NNS independencies))))) (. .))

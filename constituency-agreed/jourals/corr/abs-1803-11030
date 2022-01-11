@@ -1,0 +1,3 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (JJ several) (NNS auctions)) (VP (VBP do) (RB not) (VP (VB satisfy) (NP (NP (DT the) (JJ stringent) (NNS conditions)) (PP (IN for) (NP (NN supermodularity)))))) (. .))
+(S (NP (DT These) (NNS auctions)) (VP (VBP include) (NP (NP (NN electricity) (NNS markets)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (DT the) (JJ main) (NN motivation)) (PP (IN of) (NP (PRP$ our) (NN study))))))))) (. .))
+(S (S (VP (TO To) (VP (VB characterize) (NP (JJ nonsupermodular) (NNS functions))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT the) (NN supermodularity) (NN ratio)) (CC and) (NP (DT the) (JJ weak) (NN supermodularity)))) (. .))

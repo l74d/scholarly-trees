@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN idea)) (PP (IN of) (NP (NNP Gray) (NN code)))) (VP (VBZ is) (VP (VBN applied))) (. .))
+(S (NP (DT Some) (NN comparison)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN made))) (. .))
+(S (NP (NP (NN Symmetry)) (PP (IN among) (NP (NP (NN restriction) (NNS enzymes)) (VP (VBG having) (NP (CD four) (NNS letters)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN studied))) (. .))

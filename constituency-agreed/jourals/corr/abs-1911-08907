@@ -1,0 +1,1 @@
+(S (NP (NNP APS)) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN accuracy)) (PP (IN for) (NP (DT all) (NNS precisions)))) (PP (IN with) (NP (DT a) (JJ trivial) (NN communication) (NN cost))))) (. .))

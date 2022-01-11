@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ generative) (NN model)) (PP (IN for) (NP (DT the) (NNS states) (CC and) (NNS actions))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (PRP$ our) (NN approach)) (VP (VBZ enables) (NP (NP (NN prediction)) (PP (IN of) (NP (NP (NNS actions)) (PP (IN for) (NP (JJ new) (NNS states))))))) (. .))

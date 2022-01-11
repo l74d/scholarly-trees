@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (DT this) (NN number)) (PP (IN of) (NP (NNS confirmations)))) (VP (VBZ is) (NP (NP (NP (QP (RB only) (CD 1) (CC or) (CD 2))) (PP (IN for) (NP (JJ average) (NNS transactions)))) (CC and) (NP (NP (DT a) (JJ small) (NN hashrate)) (PP (IN of) (NP (DT the) (NN attacker))))))))) (. .))

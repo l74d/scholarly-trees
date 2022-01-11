@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP GAN) (NN framework))))) (CC and) (VP (VBZ is) (VP (VBN trained) (PP (IN by) (NP (DT the) (NNP REINFORCE) (NN algorithm)))))) (. .))

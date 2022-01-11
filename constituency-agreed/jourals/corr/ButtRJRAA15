@@ -1,0 +1,3 @@
+(S (NP (DT Every) (NN research)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT some) (JJR earlier) (NN research) (NN outcome))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (NP (DT a) (ADJP (ADJP (RB manually) (VBN annotated)) (CC and) (ADJP (NN class) (VBN labelled))) (NN collection)) (PP (IN of) (NP (NP (CD 150) (NN research) (NNS papers)) (PP (IN from) (NP (NP (DT the) (NN domain)) (PP (IN of) (NP (NN computer) (NN science))))))))))) (. .))
+(S (NP (PRP$ Our) (JJ preliminary) (NNS results)) (VP (VBP show) (NP (NP (DT an) (NN accuracy)) (PP (IN of) (NP (CD 80) (NN %))))) (. .))

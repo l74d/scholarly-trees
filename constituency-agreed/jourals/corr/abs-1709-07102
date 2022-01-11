@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ neural) (NNS models)) (VP (VBP are) (VP (VBN estimated) (PP (IN on) (NP (NP (DT a) (JJ large) (NN training) (NN set)) (PP (IN of) (NP (NP (NNS domains)) (VP (VBN generated) (PP (IN by) (NP (JJ various) (NNS malwares)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (JJR deeper) (NNS layers))) (NP (NP (DT the) (NN gap)) (PP (IN with) (NP (JJ manual) (NN supervision)))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN closed) (SBAR (RB even) (IN if) (S (NP (NP (NNS millions)) (PP (IN of) (NP (JJ unlabelled) (NNS images)))) (VP (VBP are) (VP (VBN used) (PP (IN for) (NP (NN training)))))))))) (. .))

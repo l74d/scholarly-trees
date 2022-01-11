@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ several) (NNS studies)) (VP (VBP document) (SBAR (IN that) (S (NP (DT this) (NN distinction)) (VP (VBZ is) (ADJP (RB too) (JJ simple)))))) (. .))
+(S (NP (NP (DT A) (NN mix)) (PP (IN of) (NP (NNS methods)))) (VP (VBZ is) (VP (VBN used))) (. .))
+(S (NP (NP (DT The) (ADJP (JJ internal) (CC and) (JJ external)) (NN validation)) (PP (IN of) (NP (DT the) (NN counting) (NNS methods)))) (VP (VBP are) (VP (VBN assessed))) (. .))

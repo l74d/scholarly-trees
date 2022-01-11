@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ social) (NN influence)) (VP (VBN obtained) (PP (IN from) (NP (PRP$ our) (JJ generative) (NNS models))))) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN group) (NN recommendation))))))))) (. .))
+(S (NP (NP (DT The) (JJ unified) (JJ generative) (NN model)) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VBZ obtains) (NP (DT the) (JJS best) (NN performance))) (. .))

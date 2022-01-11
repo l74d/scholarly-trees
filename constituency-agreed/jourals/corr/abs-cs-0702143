@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN normalization)) (PP (IN of) (NP (DT a) (NN data) (NN cube)))) (VP (VBZ is) (NP (NP (DT the) (NN ordering)) (PP (IN of) (NP (DT the) (NN attribute) (NNS values))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (NNS dimensions)) (VP (VBP are) (RB not) (ADJP (JJ independent))))) (, ,) (NP (PRP we)) (VP (VBP propose) (CC and) (VBP evaluate) (NP (JJ several) (NNS heuristics))) (. .))

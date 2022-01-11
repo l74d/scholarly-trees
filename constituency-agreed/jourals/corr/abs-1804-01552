@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP do) (ADVP (RB so)) (PP (IN by) (S (VP (VBG building) (PP (IN on) (NP (NP (JJ several) (JJ recent) (NNS ideas)) (PP (IN in) (NP (JJ unsupervised) (NN landmark) (NN detection))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ pre-trained) (NN representation)) (VP (VBZ is) (ADJP (JJ excellent) (PP (IN for) (NP (JJ semantic) (NN object) (NN matching)))))))) (. .))

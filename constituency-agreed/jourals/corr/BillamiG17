@@ -1,0 +1,1 @@
+(S (NP (DT The) (ADJP (RBS most) (JJ straightforward)) (NN approach)) (VP (VBZ uses) (NP (NP (DT a) (JJ semantic) (NN proximity) (NN measure)) (PP (IN between) (NP (NP (NP (DT the) (NN word) (NN sense) (NNS candidates)) (PP (IN of) (NP (DT the) (NN target) (NN word)))) (CC and) (NP (NP (DT those)) (PP (IN of) (NP (PRP$ its) (NN context)))))))) (. .))

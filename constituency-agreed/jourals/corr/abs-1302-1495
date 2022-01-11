@@ -1,0 +1,1 @@
+(S (NP (NP (NN Cryptography) (CC and) (NN simulation)) (PP (IN of) (NP (NNS systems)))) (VP (VBP require) (SBAR (IN that) (S (NP (NP (NNS events)) (PP (IN of) (NP (JJ pre-defined) (NN probability)))) (VP (VB be) (VP (VBN generated)))))) (. .))

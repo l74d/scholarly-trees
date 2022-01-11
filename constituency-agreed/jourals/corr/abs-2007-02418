@@ -1,0 +1,2 @@
+(S (CC But) (SBAR (WHADVP (RB even) (WRB when)) (S (NP (DT a) (NN model)) (VP (VBZ is) (ADJP (JJ imperfect))))) (, ,) (NP (PRP it)) (VP (MD may) (ADVP (RB still)) (VP (VB contain) (NP (NP (NN information)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ useful) (PP (IN for) (NP (NN planning)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP emphasize) (NP (NP (DT the) (NN importance)) (PP (IN of) (NP (NN model) (NN inadequacy))))) (. .))

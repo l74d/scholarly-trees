@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NN graph) (NNS properties)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN checked) (PP (IN from) (NP (NP (NNS labels)) (, ,) (NP (ADVP (FW i.e.)) (, ,) (NN bit) (NNS sequences)) (, ,) (PP (IN of) (NP (NP (JJ logarithmic) (NN length)) (VP (VBN attached) (PP (IN to) (NP (NNS vertices))))))))))))))) (. .))
+(S (NP (NP (DT Some)) (PP (IN of) (NP (DT these) (NNS results)))) (VP (VBP are) (VP (VBN extended) (PP (IN to) (NP (VBG counting) (NNS queries))))) (. .))

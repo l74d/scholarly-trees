@@ -1,0 +1,3 @@
+(S (NP (DT All) (NNS players)) (ADVP (RB initially)) (VP (VBP receive) (NP (NNS endowments)) (PP (IN from) (NP (NP (DT the) (JJ available) (NN amount)) (PP (IN of) (NP (JJ common) (NNS resources)))))) (. .))
+(S (SBAR (IN If) (S (NP (DT the) (NN target)) (VP (VBZ is) (RB not) (VP (VBN reached))))) (, ,) (NP (NP (DT the) (NNS endowments)) (PP (IN of) (NP (DT all) (NNS players)))) (VP (VBP are) (VP (VBN lost))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN model))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (NN feedback)) (PP (IN between) (NP (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (JJ common) (NNS resources)))) (CC and) (NP (NP (DT the) (NNS contributions)) (PP (IN of) (NP (NNS cooperators)))))))) (. .))

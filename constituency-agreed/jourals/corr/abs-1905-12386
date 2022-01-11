@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP exploit) (SBAR (IN that) (S (NP (JJ recent) (NN attribution) (NNS methods)) (VP (VP (VBP rest) (PP (IN on) (NP (NN machine) (NN learning)))) (CC and) (ADVP (RB thus)) (VP (MD can) (VP (VB be) (VP (VBN deceived) (PP (IN by) (NP (NP (JJ adversarial) (NNS examples)) (PP (IN of) (NP (NN source) (NN code)))))))))))) (. .))

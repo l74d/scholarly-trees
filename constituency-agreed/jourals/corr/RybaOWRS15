@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN severity)) (PP (IN of) (NP (NN amplification) (NNS attacks)))) (VP (VBZ has) (VP (VBN grown) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ offers) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (NP (DT these)) (CC and) (NP (JJ many) (JJ other) (NN amplification) (NNS attacks)))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (NP (NP (DT a) (JJ wide) (NN selection)) (PP (IN of) (NP (NP (JJ different) (NNS proposals)) (PP (IN for) (S (VP (VBG detecting) (CC and) (VBG preventing) (NP (NN amplification) (NNS attacks)))))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNS proposals)) (PP (IN for) (S (VP (VBG tracing) (NP (DT the) (NNS attackers)))))))) (. .))

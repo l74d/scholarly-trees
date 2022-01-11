@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (DT the) (NN training) (NN library)) (VP (MD must) (VP (VB support) (NP (JJ inter-GPU) (NN communication)))) (. .))

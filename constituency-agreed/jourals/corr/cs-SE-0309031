@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP wish) (S (VP (TO to) (VP (VB automate) (NP (DT this)))))) (. .))
+(S (NP (NNS Measurements)) (VP (VBP show) (SBAR (IN that) (S (NP (NN position)) (VP (MD can) (VP (VB be) (VP (VBN provided) (PP (IN with) (NP (NP (DT an) (JJ acceptable) (NN amount)) (PP (IN of) (NP (NN overhead))))))))))) (. .))

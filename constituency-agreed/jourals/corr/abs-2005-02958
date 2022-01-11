@@ -1,0 +1,1 @@
+(S (S (NP (JJ Spatial) (NN domain) (NNS features)) (VP (VBP are) (VP (VBN extracted) (PP (IN by) (NP (JJ facial) (JJ semantic) (NN segmentation)))))) (, ,) (CC and) (S (NP (NN frequency) (NN domain) (NNS features)) (VP (VBP are) (VP (VBN extracted) (PP (IN by) (NP (NNP Discrete) (NNP Fourier) (NNP Transform)))))) (. .))

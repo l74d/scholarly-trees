@@ -1,0 +1,1 @@
+(S (NP (JJ Facial) (NN emotion) (NN recognition)) (VP (VBZ is) (NP (DT the) (NN task) (S (VP (TO to) (VP (VB classify) (NP (JJ human) (NNS emotions)) (PP (IN in) (NP (NN face) (NNS images)))))))) (. .))

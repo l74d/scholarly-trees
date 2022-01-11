@@ -1,0 +1,1 @@
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB discover) (NP (NP (NN parameter) (NNS configurations)) (SBAR (WHNP (WDT that)) (S (VP (VBP yield) (NP (NP (DT a) (ADJP (JJ consistent) (CC and) (JJ interpretable)) (NN collection)) (PP (IN of) (NP (NNS clusters)))))))))))))))) (. .))

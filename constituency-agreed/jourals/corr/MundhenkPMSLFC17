@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN achieved) (S (VP (VBG using) (NP (DT an) (NN authentication) (NN framework)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NNS challenges)) (PP (IN of) (S (VP (VBG designing) (NP (NN authentication) (NNS protocols)) (PP (IN for) (NP (JJ automotive) (NNS systems)))))))) (. .))

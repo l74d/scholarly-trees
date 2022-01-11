@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN task)) (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB reliably)) (S (VP (VBG using) (NP (RB only) (JJ simple) (NNS components)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (JJ individual) (NNS components)) (PP (IN of) (NP (PRP$ our) (NN system)))) (PP (IN on) (NP (DT the) (JJ real) (NN platform)))) (. .))

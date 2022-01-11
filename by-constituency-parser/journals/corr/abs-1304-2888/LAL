@@ -1,0 +1,8 @@
+(NP (NN Roborobo) (. !))
+(S (VP (VBZ is) (NP (NP (DT a) (JJ multi-platform) (, ,) (ADJP (RB highly) (JJ portable)) (, ,) (JJ robot) (NN simulator)) (PP (IN for) (NP (JJ large-scale) (JJ collective) (NNS robotics) (NNS experiments))))) (. .))
+(NP (NN Roborobo) (. !))
+(S (VP (VP (VBZ is) (VP (VBN coded) (PP (IN in) (NP (NNP C++))))) (, ,) (CC and) (VP (VBZ follows) (NP (NP (DT the) (NNP KISS) (NN guideline)) (PRN (-LRB- -LRB-) (`` ``) (S (VP (VB Keep) (S (NP (PRP it)) (ADJP (JJ simple))))) ('' '') (-RRB- -RRB-))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP$ its) (JJ external) (NN dependency)) (VP (VBZ is) (VP (ADVP (RB solely)) (JJ limited) (PP (TO to) (NP (NP (DT the) (ADJP (RB widely) (JJ available)) (NNP SDL) (NN library)) (PP (IN for) (NP (RB fast) (CD 2D) (NNS Graphics))))))) (. .))
+(NP (NN Roborobo) (. !))
+(S (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (NNP Khepera/ePuck) (NN model))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ is) (VP (VBN targeted) (PP (IN for) (NP (JJ fast) (JJ single) (CC and) (JJ multi-robots) (NN simulation))))) (, ,) (CC and) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN used) (PP (IN in) (NP (NP (QP (JJR more) (IN than) (DT a) (NN dozen)) (VBN published) (NN research)) (VP (ADVP (RB mainly)) (VBD concerned) (PP (IN with) (NP (NP (JJ evolutionary) (NN swarm) (NNS robotics)) (, ,) (PP (VBG including) (NP (NP (JJ environment-driven) (NN self-adaptation)) (CC and) (NP (VBD distributed) (JJ evolutionary) (NN optimization)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ online) (NN onboard) (VBN embodied) (NN evolution)) (CC and) (NP (JJ embodied) (NN morphogenesis)))))))))))) (. .))

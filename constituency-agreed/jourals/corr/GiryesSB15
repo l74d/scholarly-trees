@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT these) (JJ fundamental) (NNS properties)) (VP (VBP are) (VP (VBN satisfied) (PP (IN by) (NP (NP (DT the) (NN architecture)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))))))))) (. .))
+(S (NP (NP (JJ Similar) (NNS points)) (PP (IN at) (NP (NP (DT the) (NN input)) (PP (IN of) (NP (DT the) (NN network)))))) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB have) (NP (DT a) (JJ similar) (NN output))))))) (. .))

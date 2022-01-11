@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (VBG existing) (JJ adversarial) (NN defense) (NNS methods)))) (VP (VBP achieve) (NP (NN robustness)) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG sacrificing) (NP (NN prediction) (NN accuracy))))))))))))) (. .))

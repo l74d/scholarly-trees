@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Strong) (JJ non-Gaussian) (NNS constraints)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP require) (NP (DT a) (JJ non-perturbative) (NN treatment))))) (, ,)) (VP (VBP are) (VP (VBN found) (S (VP (TO to) (VP (VB play) (NP (DT a) (JJ major) (NN role)) (PP (IN in) (S (VP (VBG reducing) (NP (NN distribution) (NN uncertainty)))))))))) (. .))
+(S (NP (NP (DT A) (NN software) (NN implementation)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (VP (VBN provided))) (. .))

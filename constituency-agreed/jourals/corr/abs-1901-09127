@@ -1,0 +1,2 @@
+(S (ADVP (RB Sometimes)) (NP (DT these) (NNS encodings)) (VP (MD may) (VP (VB display) (NP (ADJP (RB significantly) (JJ different)) (NN performance)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ claims) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ interesting) (NN program) (NNS rewritings))))))) (. .))

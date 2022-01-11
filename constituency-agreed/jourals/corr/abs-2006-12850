@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT this) (NN algorithm)))) (PP (IN by) (S (VP (VBG reformulating) (CC and) (VBG discretizing) (NP (NP (DT the) (JJ feasible) (NN region)) (PP (IN of) (NP (DT the) (NN optimization) (NN model)))))))) (. .))

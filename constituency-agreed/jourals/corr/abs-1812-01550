@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NNS data) (NNS miners)) (VP (MD can) (VP (VB generate) (NP (NP (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN explored) (PP (IN by) (NP (NNS optimizers)))))))))) (. .))

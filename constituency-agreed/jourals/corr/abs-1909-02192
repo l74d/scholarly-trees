@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Non-asymptotic) (NNS characterizations)) (PP (IN of) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN system) (NN identification) (NNS methods)))))) (VP (VBP provide) (NP (DT this) (NN knowledge))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ provides) (NP (NP (DT a) (JJ non-asymptotic) (NN characterization)) (PP (IN of) (NP (NP (CD one) (JJ particular) (NN variant)) (PP (IN of) (NP (DT these) (NNS algorithms))))))) (. .))

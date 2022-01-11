@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ combines) (NP (NP (CD two) (JJ different) (NNS types)) (PP (IN of) (NP (NN information))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (NN color) (NN segmentation)) (VP (VBZ is) (VP (VBN performed) (S (VP (TO to) (VP (VB divide) (NP (DT the) (NN scene)) (PP (IN into) (NP (ADJP (RB perceptually) (JJ similar)) (NNS regions)))))))) (. .))

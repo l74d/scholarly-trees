@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT this) (NN corpus)) (S (VP (TO to) (VP (VB explore) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (S (VP (VBG inferring) (NP (NNS tags)) (PP (IN from) (NP (NN plot) (NNS synopses))))))))))) (. .))

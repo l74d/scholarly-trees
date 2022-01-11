@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN file) (NNS systems)) (VP (MD may) (VP (VB be) (PP (IN from) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (CD two) (JJ fundamental) (NNS categories))))))) (. .))
+(S (NP (DT Another) (NN file) (NN system)) (VP (VP (MD may) (VP (VB be) (VP (VBN developed) (PP (IN in) (NP (DT the) (NN kernel) (NN space)))))) (CC and) (VP (VBZ runs) (PP (IN as) (NP (DT a) (JJ privileged) (NN process))))) (. .))

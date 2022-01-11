@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Various) (NNS definitions) (CC and) (NNS motivations)) (PP (IN for) (NP (DT these) (NNS weights)))) (VP (VBP are) (VP (VBN given))) (. .))
+(S (NP (NP (DT The) (NN detection)) (PP (IN of) (NP (NNS communities) (CC or) (NNS clusters)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB illustrate) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN clique) (NN graph)) (VP (MD may) (VP (VB be) (VP (VBN exploited))))))))))) (. .))

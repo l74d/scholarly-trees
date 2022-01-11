@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ real) (JJ multilevel) (NN modulation) (NNS symbols)) (VP (MD can) (VP (VB be) (VP (VBN detected) (PP (IN via) (NP (JJ deep) (JJ neural) (NNS networks))))))))) (. .))
+(S (NP (DT A) (JJ multi-plateau) (NN sigmoid) (NN function)) (VP (VBZ is) (VP (VBN introduced))) (. .))

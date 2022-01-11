@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB validate) (NP (PRP$ our) (NNS ideas))))) (, ,) (NP (PRP we)) (VP (VBD implemented) (NP (PRP$ our) (NN protocol)) (PP (IN in) (NP (NP (CD two) (JJ popular) (NN blockchain) (NNS clients)) (SBAR (WHNP (WDT that)) (S (VP (VBP use) (NP (DT the) (NNP Ethereum) (JJ virtual) (NN machine)))))))) (. .))

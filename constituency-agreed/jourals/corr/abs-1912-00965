@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (DT a) (JJ marginal) (NN distribution) (NN technique)) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN complexity)) (PP (IN of) (S (VP (VBG optimizing) (NP (DT the) (JJ adversarial) (NN prediction) (NN formulation)) (PP (IN over) (NP (NP (DT a) (JJ vast) (NN range)) (PP (IN of) (NP (JJ non-decomposable) (NNS metrics))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (DT this) (NN stage)) (VP (MD can) (VP (VB separate) (NP (DT the) (NN mixture)))))) (, ,) (NP (PRP it)) (ADVP (RB still)) (VP (VBZ contains) (NP (DT the) (JJ residual) (NN interference))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ is) (NP (DT a) (ADJP (RB fully) (JJ convolutional)) (NN speech) (NN separation) (NN network))) (CC and) (VP (VBZ uses) (NP (DT the) (NN waveform)) (PP (IN as) (NP (DT the) (NN input) (NNS features))))) (. .))

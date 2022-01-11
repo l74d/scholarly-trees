@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP collect) (NP (NP (ADJP (RB recently) (VBN published)) (NNS papers)) (PP (IN in) (NP (DT this) (NN field))))) (CC and) (VP (VB summarize) (NP (PRP them)) (PP (IN from) (NP (CD two) (NNS perspectives))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NNS datasets)) (VP (VBN used) (PP (IN in) (NP (DT these) (NNS works)))))) (. .))

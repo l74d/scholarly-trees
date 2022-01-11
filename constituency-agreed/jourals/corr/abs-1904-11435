@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP review) (CC and) (VBP analyze) (NP (NP (DT the) (JJ major) (NN security) (CC and) (NN privacy) (NNS issues)) (PP (IN of) (NP (NNP Bitcoin))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (NP (DT a) (JJ comprehensive) (NN background)) (PP (IN of) (NP (NNP Bitcoin)))) (CC and) (NP (NP (DT the) (JJ preliminary)) (PP (IN on) (NP (NN security)))))) (. .))

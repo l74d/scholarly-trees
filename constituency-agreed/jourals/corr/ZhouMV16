@@ -1,0 +1,3 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP adapt) (NP (JJ stable) (JJ principal) (NN component) (NN pursuit)) (S (VP (TO to) (VP (VB detect) (NP (NNS anomalies)) (PP (IN for) (NP (DT each) (NN road) (NN segment))))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB pinpoint) (NP (NN traffic) (NNS anomalies)) (ADVP (RB early) (CC and) (RB precisely)) (PP (IN in) (NP (NN space))))))) (. .))
+(S (NP (DT These) (NNS events)) (VP (MD can) (VP (VB be) (VP (ADVP (RB easily)) (VBN clustered) (, ,) (VBN visualized) (, ,) (CC and) (VBN analyzed) (PP (IN by) (NP (JJ urban) (NNS planners)))))) (. .))

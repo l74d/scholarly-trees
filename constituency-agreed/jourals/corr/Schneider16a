@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (NN range) (NNS queries)) (PP (IN with) (NP (JJ small) (NN result) (NNS sets))))) (, ,) (NP (JJ sequential) (NNS scans)) (VP (VBP exhibit) (NP (JJ poor) (JJ asymptotic) (NN performance))) (. .))

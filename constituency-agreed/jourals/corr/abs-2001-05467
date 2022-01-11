@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (NP (JJ various) (JJ useful) (NNS efforts)) (PP (IN on) (S (VP (VBG trying) (S (VP (TO to) (VP (VB eliminate) (NP (PRP them))))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP experiment) (PP (IN with) (NP (DT a) (JJ hybrid) (NN model))) (PP (IN by) (S (VP (VBG combining) (NP (NP (DT the) (NN loss) (NNS terms)) (PP (IN of) (NP (NNP MinAvgOut) (CC and) (NNP RL)))))))) (. .))

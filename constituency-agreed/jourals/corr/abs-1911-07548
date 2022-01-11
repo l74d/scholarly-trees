@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN controller)))) (VP (VBZ is) (VP (VBN measured) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT a) (JJ linear) (JJ quadratic) (NN cost) (NN function))))))) (. .))
+(S (NP (NP (DT The) (JJ optimal) (NN control) (NN law)) (PP (IN for) (NP (NP (DT a) (NN system)) (VP (VBG operating) (PP (IN with) (NP (NN communication) (NN packet) (NNS losses))))))) (VP (VBZ is) (VP (VBN derived) (PP (IN under) (NP (CD two) (NN communication) (NNS protocols))))) (. .))

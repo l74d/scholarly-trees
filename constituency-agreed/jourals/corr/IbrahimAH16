@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT the) (NN dataset)))) (VP (VBZ is) (S (VP (TO to) (VP (VB support) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (JJ new) (VBN automated) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB detect) (CC and) (VB analyze) (NP (NN text))))))))))))) (. .))
+(S (S (NP (CD One) (NN network)) (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (DT the) (NNP GoogLeNet) (NN architecture)))))) (, ,) (CC and) (S (NP (DT the) (JJ second) (NN one)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NNP CaffeNet)))))) (. .))

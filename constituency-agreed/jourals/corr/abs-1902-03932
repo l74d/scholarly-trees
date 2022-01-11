@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN mode)) (ADVP (RB typically)) (VP (VBZ characterizes) (NP (NP (DT a) (ADJP (RB meaningfully) (JJ different)) (NN representation)) (PP (IN of) (NP (DT the) (NNS data))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (NP (NP (JJ non-asymptotic) (NN convergence)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN algorithm))))) (. .))

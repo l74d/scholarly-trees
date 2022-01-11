@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Hypotheses)) (PP (IN about) (NP (NP (DT the) (NNS mechanics) (CC and) (NN effectiveness)) (PP (IN of) (NP (DT these) (NNS campaigns)))))) (VP (VBD were) (VP (VBN established) (CC and) (VBN evaluated))) (. .))
+(S (NP (DT The) (NN article)) (VP (VBZ presents) (NP (NP (DT an) (NN assessment)) (PP (IN of) (NP (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (JJ such) (NNS campaigns)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ various) (NN security) (NNS challenges)) (VP (VBN created) (PP (IN by) (NP (DT these) (NNS campaigns))))))))) (. .))

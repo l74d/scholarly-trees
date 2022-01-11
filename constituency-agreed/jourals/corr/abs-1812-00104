@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG using) (NP (JJ synthetic) (NNS data)))) (VP (MD could) (VP (VB be) (ADJP (JJ beneficial) (PP (IN in) (S (VP (VBG retrieving) (NP (JJ real) (NNS data))))))))))) (. .))
+(S (NP (DT The) (NN code) (CC and) (NN dataset)) (VP (VBP are) (ADJP (RB publicly) (JJ available))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (NP (DT a) (JJ lightweight) (NN library)) (PP (IN with) (NP (NP (JJ minimal) (JJ external) (NNS dependencies)) (CC and) (NP (DT a) (JJ permissive) (NN software) (NN license)))))) (, ,) (NP (NNP NOESIS)) (VP (MD can) (VP (VB be) (VP (VBN incorporated) (PP (IN into) (NP (JJ other) (NN software) (NNS projects)))))) (. .))

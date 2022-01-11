@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB answer) (NP (DT this) (JJ fundamental) (NN question)))))) (. .))
+(S (NP (DT These) (NNS expressions)) (VP (VBP prove) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNS parameters)) (VP (VBP interact))))) (. .))

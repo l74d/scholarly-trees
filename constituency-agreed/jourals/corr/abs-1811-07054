@@ -1,0 +1,2 @@
+(S (NP (NN Drug) (NN resistance)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT a) (JJ major) (NN challenge)) (PP (IN in) (NP (NN cancer) (NN therapy))))) (. .))
+(S (NP (NN Drug) (NN combination)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB overcome) (NP (NN drug) (NN resistance))))))) (. .))

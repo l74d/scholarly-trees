@@ -1,0 +1,2 @@
+(S (NP (VBG Pouring)) (VP (VBZ is) (NP (NP (DT a) (JJ simple) (NN task)) (SBAR (S (NP (NNS people)) (VP (VBP perform) (ADVP (RB daily))))))) (. .))
+(S (S (VP (TO To) (VP (VB test) (NP (PRP$ our) (NN approach)) (PP (IN in) (NP (NN simulation)))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBD created) (CC and) (VBD trained) (NP (DT a) (NN force) (NN estimation) (NN system))) (. .))

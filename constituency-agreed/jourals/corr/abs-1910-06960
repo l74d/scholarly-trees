@@ -1,0 +1,1 @@
+(S (ADVP (RB Equivalently)) (, ,) (PP (IN for) (NP (DT the) (JJ same) (NN channel) (NN estimation) (NN performance))) (, ,) (NP (DT this)) (VP (VBZ means) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (JJR more) (NNS antennas)) (VP (VBP are) (VP (VBN employed))))) (, ,) (NP (JJR fewer) (NNS pilots)) (VP (VBP are) (VP (VBN required)))))) (. .))

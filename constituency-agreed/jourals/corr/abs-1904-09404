@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN publisher)) (VP (VBZ picks) (NP (DT the) (NN order) (CC and) (NNS prices)) (S (VP (TO to) (VP (VB maximize) (NP (PRP$ her) (NN revenue)))))) (. .))
+(S (NP (DT This)) (VP (MD will) (VP (VB incur) (NP (DT a) (JJ linear) (NN regret)))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN number) (CC and) (NNS positions)) (PP (IN of) (NP (JJ active) (NNS users)))) (VP (VBP are) (ADJP (JJ dynamic))) (. .))
+(S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (NP (NP (DT the) (JJ full) (NN distribution)) (PP (IN of) (NP (DT the) (NN load)))) (VP (MD can) (VP (VB be) (VP (VBN derived)))) (. .))
+(S (ADVP (RB Otherwise)) (NP (PRP we)) (VP (VBP derive) (NP (NP (NNS formulas)) (PP (IN for) (NP (DT the) (JJ first) (CC and) (JJ second) (NNS moments))))) (. .))
+(S (NP (NP (NNS Networks)) (PP (PP (IN on) (NP (DT the) (NN line))) (CC and) (PP (IN on) (NP (DT the) (NN plane))))) (VP (VBP are) (VP (VBN considered))) (. .))

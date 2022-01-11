@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN concept)) (VP (VBZ is) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (NNS superconcepts)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP determine) (NP (NP (DT the) (NN concept) (POS 's)) (NN dimensionality) (CC or) (NNS properties))))))))) (. .))
+(S (NP (DT An) (NN item)) (VP (VBZ is) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (NNS superitems)) (VP (VBN taken) (PP (IN by) (NP (CD one))) (PP (IN from) (NP (PDT all) (DT the) (NNS superconcepts)))))))) (. .))

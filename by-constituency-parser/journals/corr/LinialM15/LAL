@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (NN graph)) (PP (IN with) (NP (DT a) (JJ trivial) (NN automorphism) (NN group)))) (VP (VBZ is) (VP (VBD said) (S (VP (TO to) (VP (VB be) (ADJP (JJ rigid))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (SBAR (IN that) (S (PP (IN for) (NP (DT all) (ADJP ($ $) (JJ p)) ($ $))) (, ,) (NP (NP (DT a) (NN graph)) (PP (IN in) (NP ($ $) (NNP G) (PRN (-LRB- -LRB-) (JJ n) (, ,) (NN p) (-RRB- -RRB-)) ($ $)))) (VP (VBZ is) (NP (JJ reconstrutible) (NN whp)))))) (. .))
+(S (NP (DT This)) (VP (VBZ extends) (NP (NP (DT the) (NN range)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (PDT such) (DT an) (NN algorithm)) (VP (VBZ is) (ADVP (RB currently)) (VP (VBN known))))))) (. .))

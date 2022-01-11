@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (DT this) (NN method))) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB prove) (NP (DT the) (JJ following) (NNS results))))))) (. .))
+(S (ADVP (RB Again)) (, ,) (NP (PRP we)) (VP (VBP observe) (SBAR (IN that) (S (NP (DT these) (NNS bounds)) (VP (VBP are) (ADJP (JJ tight)))))) (. .))

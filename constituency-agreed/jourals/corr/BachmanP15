@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP connect) (NP (NP (DT a) (JJ broad) (NN class)) (PP (IN of) (NP (JJ generative) (NNS models)))) (PP (IN through) (NP (NP (PRP$ their) (VBN shared) (NN reliance)) (PP (IN on) (NP (JJ sequential) (NN decision) (NN making)))))) (. .))
+(S (NP (PRP$ Our) (NNS models)) (VP (VBP generate) (NP (NNS predictions)) (PP (IN through) (NP (NP (DT an) (JJ iterative) (NN process)) (PP (IN of) (NP (NN feedback) (CC and) (NN refinement)))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN estimated) (SBAR (IN that) (S (NP (QP (CD 285) (CD million)) (NNS people)) (ADVP (RB globally)) (VP (VBP are) (ADJP (RB visually) (VBN impaired))))))) (. .))
+(S (NP (NP (DT A) (NN majority)) (PP (IN of) (NP (DT these) (NNS people)))) (VP (VP (VBP live) (PP (IN in) (NP (VBG developing) (NNS countries)))) (CC and) (VP (VBP are) (PP (IN among) (NP (DT the) (JJ elderly) (NN population))))) (. .))
+(S (SBAR (IN While) (S (ADVP (RB naturally)) (, ,) (NP (NN voice) (NN recognition)) (VP (VBZ is) (NP (NP (DT a) (JJ common) (NN method)) (PP (IN of) (NP (NN identification))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (DT an) (ADJP (JJ intuitive) (CC and) (JJ difficult)) (NN process))) (. .))

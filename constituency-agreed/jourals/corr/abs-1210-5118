@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN procedure)) (VP (VBZ is) (ADJP (RB generally) (JJ valid)) (SBAR (IN as) (S (NP (DT a) (NN time) (NN series)) (VP (VBZ is) (VP (VBN normalized) (SBAR (IN before) (S (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NNP SAX) (NN algorithm)))) (VP (VBZ is) (VP (VBN applied)))))))))) (. .))

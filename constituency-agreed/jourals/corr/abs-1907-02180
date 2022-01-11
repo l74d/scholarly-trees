@@ -1,0 +1,1 @@
+(S (S (NP (NNP Software) (NN bloat)) (VP (VBZ is) (ADJP (JJ pervasive)))) (, ,) (CC and) (S (NP (JJ several) (VBG debloating) (NNS techniques)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB address) (NP (DT this) (NN problem))))))))) (. .))

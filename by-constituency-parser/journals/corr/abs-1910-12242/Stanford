@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NNP Lee) (NN weight) (NNS distributions)) (PP (IN of) (NP (DT the) (JJ quaternary) (NNS codes))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (NP (DT some) (JJ new) (JJ linear) (NN quaternary) (NNS codes)) (CC and) (NP (JJ good) (JJ binary) (NNS codes))) (PP (IN by) (S (VP (VBG using) (NP (DT the) (NNP Gray) (NN map)))))) (. .))

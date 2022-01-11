@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP aim) (PP (IN at) (S (VP (VBG developing) (NP (DT an) (JJ abstractive) (NN summarizer)))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP$ our) (VBN proposed) (NN approach)) (VP (VBZ identifies) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN document)) (PP (IN in) (NP (DT the) (JJ multi-document) (NN set))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (ADVP (RB also)) (VP (VBZ outperforms) (NP (DT a) (JJ recent) (JJ abstractive) (NN summarization) (NN technique))) (. .))
+(S (PP (IN In) (NP (JJ manual) (NN evaluation))) (, ,) (NP (PRP$ our) (NN approach)) (ADVP (RB also)) (VP (VBZ achieves) (NP (NP (JJ promising) (NNS results)) (PP (IN on) (NP (NN informativeness) (CC and) (NN readability))))) (. .))

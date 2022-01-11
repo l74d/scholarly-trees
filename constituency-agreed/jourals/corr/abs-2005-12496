@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (JJ modern) (NNS models)) (PP (IN for) (S (VP (VBG predicting) (NP (NN uncertainty)) (PP (IN in) (NP (NN regression) (NNS settings))))))) (ADVP (RB typically)) (VP (VBP produce) (NP (ADJP (JJ uncalibrated) (CC and) (JJ overconfident)) (NNS estimates))) (. .))

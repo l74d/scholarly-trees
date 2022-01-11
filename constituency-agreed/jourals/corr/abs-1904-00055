@@ -1,0 +1,2 @@
+(S (NP (NP (NN Identification) (CC and) (NN localization)) (PP (IN of) (NP (NNS sounds)))) (VP (VBP are) (DT both) (NP (NP (JJ integral) (NNS parts)) (PP (IN of) (NP (JJ computational) (JJ auditory) (NN scene) (NN analysis))))) (. .))
+(S (S (VP (VBG Analyzing) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (JJ spatial) (NN scene) (NN arrangement)))))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN robot)) (VP (MD could) (VP (VB facilitate) (NP (JJ high) (NN performance)) (PP (IN through) (NP (JJ optimal) (NN head) (NN rotation)))))))) (. .))

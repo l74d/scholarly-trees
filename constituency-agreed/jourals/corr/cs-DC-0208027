@@ -1,0 +1,3 @@
+(S (PP (IN Before) (NP (DT this) (NN work))) (, ,) (NP (NN consistency) (NNS models)) (VP (VBD were) (VP (VBN defined) (ADVP (RB independently)))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN work))) (NP (PRP we)) (VP (VBP have) (VP (VBN defined) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (CD four) (NN consistency) (NNS properties)))))) (. .))
+(S (NP (NP (DT Every) (NN consistency) (NN model)) (VP (ADVP (RB previously)) (VBN described) (PP (IN in) (NP (DT the) (NN literature))))) (VP (MD can) (VP (VB be) (VP (VBN defined) (PP (VBN based) (PP (IN on) (NP (PRP$ our) (CD four) (NNS properties))))))) (. .))

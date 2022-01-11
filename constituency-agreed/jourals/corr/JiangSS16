@@ -1,0 +1,2 @@
+(S (NP (JJ Typical) (NNS data) (NNS examples)) (VP (MD would) (VP (VB include) (NP (NP (NN voting) (NNS records)) (, ,) (NP (JJ organizational) (NNS memberships)) (, ,) (CC and) (NP (NN pairwise) (NNS associations)) (, ,) (CC or) (NP (JJ other) (JJ binary) (NNS datasets))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (JJ global) (NN cuisine) (NN dataset)) (PP (IN of) (NP (NP (DT the) (NN association)) (PP (IN between) (NP (NP (NNS recipes)) (CC and) (NP (NN food) (NNS ingredients)))))))) (. .))

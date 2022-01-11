@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NNP GReTL) (NN reference) (NN solution)) (PP (IN of) (NP (DT the) (NNP TTC) (CD 2011) (NNP Reengineering) (NN case))))) (. .))
+(S (PP (VBN Given) (NP (DT a) (NNP Java) (NN syntax) (NN graph))) (, ,) (NP (DT a) (JJ simple) (NN state) (NN machine) (NN model)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN extracted)))))) (. .))
+(S (NP (DT The) (VBN submitted) (NN solution)) (VP (VBZ covers) (NP (CC both) (NP (DT the) (NN core) (NN task)) (CC and) (NP (DT the) (CD two) (NN extension) (NNS tasks)))) (. .))

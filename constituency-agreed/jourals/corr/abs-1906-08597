@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ univariate) (NN model)) (ADVP (JJ first)) (VP (VBZ reveals) (NP (NP (JJ obvious) (NN influence)) (PP (IN of) (NP (NP (NN matrix) (NN effect)) (CC and) (NP (JJ important) (JJ experimental) (NN fluctuation)))))) (. .))
+(S (NP (NN Machine) (NN learning)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB develop) (NP (DT the) (NN model)))))))) (. .))

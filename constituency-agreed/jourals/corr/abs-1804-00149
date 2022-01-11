@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (NN hardware) (NN implementation)) (PP (IN of) (NP (DT a) (JJ neuromorphic) (NN system)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NP (DT A) (NN description)) (PP (IN of) (NP (DT the) (JJ entire) (NN circuit)))) (VP (VBZ is) (VP (VBN provided))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NNS capabilities)) (PP (IN of) (NP (DT the) (VBN proposed) (NN architecture)))) (VP (VBP have) (VP (VBN been) (VP (VBN evaluated) (PP (IN by) (S (VP (VBG simulating) (NP (NP (DT a) (NN motif)) (VP (VBN composed) (PP (IN of) (NP (NP (CD three) (NNS neurons)) (CC and) (NP (CD two) (NNS synapses)))))))))))) (. .))

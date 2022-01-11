@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (JJ extreme) (NN pruning)) (, ,) (NP (NP (DT the) (JJ current) (JJS fastest) (NN algorithm)) (PP (IN for) (NP (NN lattice) (NN enumeration)))) (, ,)) (VP (MD can) (VP (VB be) (VP (VBN run) (PP (IN on) (NP (DT an) (JJ obtuse) (NN basis)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN readout) (NN layer)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN trained) (S (VP (TO to) (VP (VB reconstruct) (NP (DT a) (NN target) (NN output)) (PP (IN from) (NP (NP (DT the) (NN reservoir) (POS 's)) (NN state)))))))) (. .))

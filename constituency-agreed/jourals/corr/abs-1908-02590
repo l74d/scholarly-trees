@@ -1,0 +1,1 @@
+(S (NP (NP (CD One) (NN advantage)) (PP (IN of) (NP (DT this) (JJ generative) (NN approach)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (NNS pairs)) (PP (IN of) (NP (ADJP (JJ clean) (CC and) (JJ noisy)) (NN speech) (NNS signals)))) (PP (IN at) (NP (NN training)))))))) (. .))

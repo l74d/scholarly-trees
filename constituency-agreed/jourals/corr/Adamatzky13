@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS cells)) (VP (VBZ shows) (NP (NP (DT a) (JJ wide) (NN spectrum)) (PP (IN of) (NP (JJ intelligent) (NN behaviour))))) (. .))
+(S (NP (DT The) (NNP Physarum) (NNS computers)) (VP (VBP are) (ADJP (JJ capable) (S (VP (TO to) (VP (VB solve) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NP (NNS tasks)) (PP (IN of) (NP (JJ computational) (NN geometry) (, ,) (NN optimisation) (CC and) (NN logic))))))))))) (. .))

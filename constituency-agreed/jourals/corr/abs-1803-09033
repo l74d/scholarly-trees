@@ -1,0 +1,2 @@
+(S (NP (JJ Automatic) (JJ musical) (NN accompaniment)) (VP (VBZ is) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (JJ human) (NN musician)) (VP (VBZ is) (VP (VBN accompanied) (PP (IN by) (NP (DT a) (NN computer) (NN musician)))))))) (. .))
+(S (NP (DT The) (NN accompaniment)) (VP (MD should) (VP (VB follow) (NP (DT the) (NN performance)) (S (VP (VBG using) (NP (NP (NNS observations)) (PP (IN of) (NP (NP (DT the) (NNS notes)) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBG playing)))))))))))) (. .))

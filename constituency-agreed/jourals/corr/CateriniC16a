@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (DT these) (NNS problems)) (VP (VBP are) (VP (VBN addressed))) (. .))
+(S (NP (NP (NNS Gradients)) (PP (IN of) (NP (NNP DNN) (NN loss) (NNS functions)))) (VP (VBP are) (VP (VBN calculated) (ADVP (RB directly)) (PP (IN over) (NP (NP (DT the) (JJ inner) (NN product) (NN space)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (DT the) (NNS parameters)) (VP (VBP are) (VP (VBN defined))))))))) (. .))

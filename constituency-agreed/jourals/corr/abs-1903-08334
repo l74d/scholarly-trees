@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ convenient)) (NN way)) (SBAR (S (VP (TO to) (VP (VB consider) (NP (DT an) (NN index))))))) (VP (VBZ is) (S (VP (TO to) (VP (VB think) (PP (IN like) (NP (DT a) (NN dictionary))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (NP (NP (NNS words)) (CC and) (NP (NP (PRP$ its) (JJ corresponding) (NNS definitions)) (PP (IN against) (NP (DT those) (NNS words)))))) (. .))

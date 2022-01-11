@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ regular) (NNS sequences)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (EX there)) (VP (VBZ is) (NP (NP (JJ general) (NN agreement)) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB continue)))))))))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NNS sequences)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT every) (NN continuation)) (VP (VBZ is) (VP (VBN perceived) (S (VP (TO to) (VP (VB be) (ADJP (JJ arbitrary))))))))))) (. .))
+(S (NP (NP (DT All) (JJ other) (NNS properties)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBP are) (ADJP (JJ arbitrary))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP achieve) (NP (DT this)) (PP (IN by) (S (VP (VBG training) (NP (NNS learners)) (PP (IN on) (NP (NP (NNS concepts)) (CONJP (RB rather) (IN than)) (NP (JJ individual) (NNS words)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NN word) (NNS vectors)) (VP (MD can) (VP (VB be) (VP (VBN learned) (ADVP (RB directly)) (PP (IN from) (NP (PRP$ our) (NNS concepts))) (S (VP (TO to) (VP (VB achieve) (NP (ADJP (RB even) (JJR better)) (NNS results))))))))))) (. .))

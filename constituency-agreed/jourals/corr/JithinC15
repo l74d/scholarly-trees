@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (NP (NP (DT a) (NN security) (NN module)) (PP (IN on) (NP (DT a) (NN hypervisor)))) (VP (MD can) (RB not) (VP (VB provide) (NP (NN security)) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT an) (JJ infected) (NN hypervisor))))))) (. .))

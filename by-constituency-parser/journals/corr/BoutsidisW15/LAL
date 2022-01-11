@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (NNP Principal) (NNP Component) (NNP Analysis) (PRN (-LRB- -LRB-) (NNP PCA) (-RRB- -RRB-)) (NN problem)) (PP (IN in) (NP (NP (DT the) (ADJP (JJ distributed) (CC and) (JJ streaming)) (NNS models)) (PP (IN of) (NP (NN computation)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (JJ improved) (NN algorithms)) (PP (IN for) (NP (NP (VBN distributed) (NNP PCA)) (CC and) (NP (VBG streaming) (NNP PCA)))))) (. .))

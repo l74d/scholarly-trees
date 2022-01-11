@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ iterative) (JJ numerical) (NN method)) (PP (IN for) (NP (JJ such) (JJ nonlinear) (NNS systems)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (NN convergence) (NN theorem)) (VP (VBZ is) (VP (VBN proved))) (. .))

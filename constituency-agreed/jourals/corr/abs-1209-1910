@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN algorithm)) (VP (VP (VBZ is) (ADJP (JJ sequential))) (CC and) (VP (VBZ causes) (NP (NP (DT a) (NN bottleneck)) (PP (IN in) (NP (JJ parallel) (NN computing)))))) (. .))

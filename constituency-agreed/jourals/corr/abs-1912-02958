@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ asynchronous) (NN problem)) (PP (IN between) (NP (DT the) (NN encoding) (CC and) (NN decoding)))) (VP (VBZ makes) (S (NP (DT these) (NNS models)) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB be) (VP (VBN applied) (PP (IN for) (NP (JJ online) (NN speech) (NN recognition)))))))))) (. .))

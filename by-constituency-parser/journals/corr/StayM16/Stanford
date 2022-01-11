@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG deriving) (NP (DT a) (NML (JJ spatial) (HYPH -) (NML (JJ behavioral) (NN type))) (NN system)) (PP (IN from) (NP (NP (DT a) (JJ formal) (NN presentation)) (PP (IN of) (NP (DT a) (JJ computational) (NN calculus))))))))) (. .))
+(S (NP (DT This) (NN interpretation)) (VP (VBZ is) (ADJP (JJ consistent) (PP (CC both) (PP (IN with) (NP (DT the) (NML (NNP Curry) (HYPH -) (NNP Howard)) (NN isomorphism))) (CC and) (PP (IN with) (NP (NN realizability)))))) (. .))

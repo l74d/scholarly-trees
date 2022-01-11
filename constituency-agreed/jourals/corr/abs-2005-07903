@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT the) (JJ predefined) (NN length)) (VP (VBZ is) (ADJP (ADJP (JJR shorter)) (PP (IN than) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT the) (NN target) (NN sequence))))))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB hurt) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN model)))))) (. .))

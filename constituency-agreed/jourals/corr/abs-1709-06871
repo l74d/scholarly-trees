@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ new) (JJ large) (NN dataset)) (PP (IN of) (NP (NNP Arabic) (NNS numerals)))) (VP (VBD was) (VP (VBN collected) (PP (IN for) (NP (NP (NN training) (CC and) (NN evaluation)) (PP (IN of) (NP (DT the) (NN network))))))) (. .))
+(S (NP (CD Two) (JJ neural) (NN network) (NNS models)) (VP (VBD were) (VP (VBN investigated))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS objects)) (VP (VBP represent) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (NNP MS) (NNP COCO) (NN label) (NN set))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (JJ temporal) (NN contiguity)) (PP (IN of) (NP (NN video)))) (VP (MD can) (ADVP (RB potentially)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (JJ such) (NNS inferences))))))))))) (. .))

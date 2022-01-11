@@ -1,0 +1,1 @@
+(S (NP (NN Sentence) (NN classification)) (VP (VBZ is) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG classifying) (NP (DT an) (NN input) (NN sentence)) (PP (VBN based) (PP (IN on) (NP (JJ predefined) (NNS categories))))))))) (. .))

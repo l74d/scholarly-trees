@@ -1,0 +1,6 @@
+(S (NP (NNS Explanations)) (VP (VBP have) (VP (VBN been) (VP (VBN introduced) (PP (IN in) (NP (DT the) (JJ previous) (NN century)))))) (. .))
+(S (NP (NP (PRP$ Their) (NN interest)) (PP (IN in) (S (VP (VBG reducing) (NP (DT the) (NN search) (NN space)))))) (VP (VBZ is) (ADVP (RB no) (RB longer)) (VP (VBN questioned))) (. .))
+(S (ADVP (RB Yet)) (, ,) (NP (NP (PRP$ their) (JJ efficient) (NN implementation)) (PP (IN into) (NP (NNP CSP) (NN solver)))) (VP (VBZ is) (ADVP (RB still)) (NP (DT a) (NN challenge))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NNP ESeR)) (, ,) (NP (NP (DT an) (JJ Event) (NN Selection) (NNP Rules) (VBZ algorithm)) (SBAR (WHNP (IN that)) (S (VP (NNS filters) (NP (NP (NNS events)) (VP (VBD generated) (PP (IN during) (NP (NN propagation))))))))))) (. .))
+(S (NP (DT This) (JJ dynamic) (NN selection)) (VP (VBZ enables) (NP (NP (DT an) (JJ efficient) (NN computation)) (PP (IN of) (NP (NP (NNS explanations)) (PP (IN for) (NP (JJ intelligent) (VBG backtracking) (JJ al-) (NN gorithms))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach))) (PP (IN on) (NP (NP (DT the) (NNS instances)) (PP (IN of) (NP (DT the) (JJ last) (CD three) (NNP MiniZinc) (NNS challenges))))))))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (JJ conventional) (NN robot) (NNS manipulators)) (PP (IN with) (NP (JJ rigid) (NNS links)))) (VP (MD can) (ADVP (RB only)) (VP (VB manipulate) (NP (NNS objects)) (S (VP (VBG using) (NP (JJ specific) (NN end) (NNS effectors)))))) (. .))
+(S (S (VP (VBN Inspired) (PP (IN by) (NP (NN biology))))) (, ,) (NP (NNS researchers)) (VP (VBP have) (VP (VBN been) (ADJP (JJ able) (S (VP (TO to) (VP (VB design) (CC and) (VB build) (NP (JJ soft) (NNS robots)))))))) (. .))

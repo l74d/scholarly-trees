@@ -1,0 +1,2 @@
+(S (PP (IN As) (PP (IN in) (NP (DT the) (JJ commutative) (NN case)))) (, ,) (NP (DT an) (JJ effective) (NN verification) (NN test)) (VP (VBZ is) (ADVP (RB only)) (VP (VBN known) (PP (IN to) (NP (PRP us))) (PP (IN in) (NP (DT the) (VBN graded) (NN case))))) (. .))
+(S (NP (NP (DT A) (JJ particular) (NN feature)) (PP (IN of) (NP (DT the) (JJ modular) (NN algorithm)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ allows) (NP (JJ parallel) (NNS runs)))))) (. .))

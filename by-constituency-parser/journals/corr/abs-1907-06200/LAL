@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT a) (NN model)) (PP (IN of) (NP (NP (NNS vendors)) (VP (VBG competing) (S (VP (TO to) (VP (VB sell) (NP (DT a) (JJ homogeneous) (NN product)) (PP (TO to) (NP (NP (NNS customers)) (VP (VBN spread) (ADVP (RB evenly)) (PP (IN along) (NP (DT a) (JJ linear) (NN city)))))))))))))) (. .))
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NP (NNP Hotelling) (POS 's)) (JJ celebrated) (NN paper)) (PP (IN in) (NP (CD 1929))))))) (. .))
+(S (NP (NP (PRP$ Our) (NN aim)) (PP (IN in) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB present) (NP (NP (DT a) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NN condition)) (PP (IN for) (NP (DT the) (NN equilibrium)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ yields) (NP (NP (DT a) (NN representation)) (PP (IN for) (NP (DT the) (NN equilibrium))))) (. .))
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT this))))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VBP formulate) (NP (DT the) (NN model)) (ADVP (RB mathematically))) (. .))
+(S (ADVP (JJ Next)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN condition)) (VP (VBZ holds) (SBAR (WHADJP (IN if) (CC and) (RB only) (IN if)) (S (NP (NNS vendors)) (VP (VBP are) (NP (NN equilibrium))))))))) (. .))

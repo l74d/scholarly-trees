@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP find) (NP (DT a) (JJ feasible) (NN trajectory)) (PP (IN under) (NP (NN control) (NNS constraints))) (PP (IN by) (S (VP (VBG scaling) (NP (DT the) (NN trajectory)))))) (. .))

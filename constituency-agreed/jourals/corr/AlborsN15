@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN implementation)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ has) (VP (VBN been) (VP (VBN written) (PP (IN in) (NP (NNP Prolog))))))) (CC but) (S (NP (DT the) (NN prototype)) (VP (VBZ has) (NP (NP (DT a) (NNP Java) (NN interface)) (PP (IN for) (NP (DT an) (ADJP (JJ easy) (CC and) (JJ friendly)) (NN use)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN projection) (NN operator)) (VP (VBZ is) (NP (NP (DT the) (NN composition)) (PP (IN of) (NP (NP (DT a) (NN reduction)) (CC and) (NP (DT a) (NN reconstruction) (NN step)))))) (. .))
+(S (NP (DT These) (JJ theoretical) (NNS results)) (VP (VBP are) (VP (VBN confirmed) (PP (IN by) (NP (JJ numerical) (NNS experiments))))) (. .))

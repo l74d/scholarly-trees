@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN painting) (NN agent) (NN policy)) (VP (VBZ is) (VP (VBN determined) (S (VP (VBG using) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (JJ proximal) (NN policy) (NN optimization) (NN reinforcement) (NN learning)))))))) (. .))
+(S (PP (IN During) (NP (NN training))) (, ,) (NP (PRP$ our) (NN agent)) (VP (VBZ is) (VP (VBN presented) (PP (IN with) (NP (NP (NNS patches)) (VP (VBN sampled) (PP (IN from) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (NN reference) (NNS images)))))))))) (. .))

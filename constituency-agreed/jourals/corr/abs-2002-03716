@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (NNS features)) (VP (VBP are) (VP (VBN extracted) (PP (IN from) (NP (DT a) (JJ specific) (JJ public) (NN speech) (NN dataset))) (S (VP (TO to) (VP (VB construct) (NP (DT a) (NN feature) (NN dataset)) (PP (IN as) (NP (DT the) (NN source) (NN domain)))))))) (. .))

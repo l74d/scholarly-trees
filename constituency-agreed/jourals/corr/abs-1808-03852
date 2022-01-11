@@ -1,0 +1,2 @@
+(S (S (NP (JJ Many) (JJ different) (NN description) (NNS logics)) (VP (VBP have) (VP (VBN been) (VP (VBN developed))))) (, ,) (CC and) (S (NP (NP (JJ numerous) (JJ computational) (NNS problems)) (PP (IN for) (NP (DT these) (NNS logics)))) (VP (VBP have) (VP (VBN been) (VP (VBN studied) (PP (IN for) (NP (PRP$ their) (JJ computational) (NN complexity))))))) (. .))
+(S (NP (PRP We)) (VP (VBP substantiate) (NP (PRP$ our) (NN argument)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (CD three) (NN case) (NNS studies)))))) (. .))

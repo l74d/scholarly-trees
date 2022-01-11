@@ -1,0 +1,2 @@
+(NP (NP (DT some) (NNS inequalities)) (PP (IN among) (NP (PRP them))) (. .))
+(S (S (VP (VBG Applying) (NP (DT some) (NNS properties)))) (, ,) (NP (NP (JJ upper) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NN error)))))) (VP (VBP are) (VP (VBN established) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

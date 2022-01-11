@@ -1,0 +1,2 @@
+(S (ADVP (RB Indeed)) (, ,) (PP (IN in) (NP (JJ various) (NNS disciplines))) (, ,) (S (VP (VBG being) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NN flow))))))) (VP (VBD was) (VP (VBN shown) (S (VP (TO to) (VP (VB improve) (NP (NNS performances) (CC and) (NN learning))))))) (. .))
+(S (S (NP (NNS Results)) (VP (VBD showed) (SBAR (IN that) (S (NP (DT the) (NN difficulty) (NN adaptation)) (VP (VBD induced) (NP (DT a) (JJR higher) (NN flow) (NN state))))))) (, ,) (S (ADVP (RB however)) (NP (NN music)) (VP (VBD had) (NP (DT no) (NN effect)))) (. .))

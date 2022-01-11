@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG covering) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN line) (NNS segments)))) (PP (IN in) (NP (NN sensor) (NNS networks)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (DT a) (NNP PTAS)) (VP (VBZ exists) (PP (IN for) (NP (DT this) (NN problem))))))) (. .))

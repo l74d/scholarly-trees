@@ -1,0 +1,2 @@
+(S (SBAR (IN Since) (S (NP (NP (NNP AlphaGo)) (CC and) (NP (NNP AlphaGo) (NNP Zero))) (VP (VBP have) (VP (VBN achieved) (NP (NN breakground) (NNS successes)) (PP (IN in) (NP (NP (DT the) (NN game)) (PP (IN of) (NP (NNP Go))))))))) (, ,) (NP (DT the) (NNS programs)) (VP (VBP have) (VP (VBN been) (VP (VBN generalized) (S (VP (TO to) (VP (VB solve) (NP (JJ other) (NNS tasks)))))))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (NP (NNP AlphaZero)) (VP (VBD was) (VP (VBN developed) (S (VP (TO to) (VP (VB play) (NP (NNP Go) (, ,) (NNP Chess) (CC and) (NNP Shogi))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG learning) (NP (DT a) (JJ single) (NN model)) (PP (IN for) (NP (JJ multiple) (NNS domains)))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT an) (JJ ideal) (NN model)) (PP (IN for) (NP (NN cloud) (NN computing)))) (VP (VBZ has) (S (VP (TO to) (VP (VB perform) (ADVP (RB well)) (PP (IN at) (NP (DT each) (JJ applicable) (NN domain))))))) (. .))

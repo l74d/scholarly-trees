@@ -1,0 +1,1 @@
+(S (ADVP (RB Thus)) (, ,) (NP (JJ continuous) (NNS variables)) (VP (VBP are) (ADVP (RB often)) (VP (VBN discretized) (SBAR (WHADVP (WRB when)) (S (VP (VBG learning) (NP (DT a) (JJ Bayesian) (NN network))))))) (. .))

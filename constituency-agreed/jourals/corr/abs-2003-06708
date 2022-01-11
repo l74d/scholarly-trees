@@ -1,0 +1,2 @@
+(S (NP (NNP Scrutinizer)) (VP (VBZ coordinates) (NP (NP (NNS teams)) (PP (IN of) (NP (JJ human) (NN fact) (NNS checkers))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP Scrutinizer)) (VP (VBZ uses) (NP (NP (JJ tentative) (NN execution)) (PP (IN of) (NP (NN query) (NNS candidates)))) (S (VP (TO to) (VP (VB narrow) (PRT (RP down)) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NNS alternatives)))))))) (. .))

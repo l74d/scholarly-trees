@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (NP (DT a) (NNP Knowledge) (NNP Graph)) (PP (IN about) (NP (NP (NNS relations)) (PP (IN between) (NP (NP (NNS agents)) (PP (IN in) (NP (DT a) (JJ political) (NN system))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ discusses) (NP (DT the) (JJ main) (NN modeling) (NNS challenges)) (, ,) (PP (IN with) (NP (NP (NN emphasis)) (PP (IN on) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NN trust) (CC and) (NN provenance)))))))) (. .))
+(S (NP (NN Implementation) (NNS decisions)) (VP (VBP are) (ADVP (RB also)) (VP (VBN presented))))

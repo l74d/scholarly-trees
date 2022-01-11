@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (DT these) (NNS methods)) (ADVP (RB still)) (VP (VBP suffer) (PP (IN from) (NP (NP (DT a) (NN degradation)) (PP (IN in) (NP (NN performance))))) (SBAR (WHADVP (WRB when)) (S (VP (VBG testing) (PP (IN on) (NP (NP (JJ new) (NNS datasets)) (SBAR (WHNP (WDT that)) (S (VP (VBP stem) (PP (IN from) (NP (DT a) (JJ different) (NN distribution)))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN known) (PP (IN as) (NP (DT the) (NN domain) (NN shift) (NN effect))))) (. .))

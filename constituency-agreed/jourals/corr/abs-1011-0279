@@ -1,0 +1,2 @@
+(S (NP (NP (NN E-commerce)) (PP (IN in) (NP (NP (NN today) (POS 's)) (NNS conditions)))) (VP (VBZ has) (NP (NP (DT the) (JJS highest) (NN dependence)) (PP (IN on) (NP (NP (NN network) (NN infrastructure)) (PP (IN of) (NP (NN banking))))))) (. .))
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG communicating) (PP (IN with) (NP (DT the) (NNP Banking) (NN network))))))) (VP (VBZ is) (RB not) (VP (VBN provided))))) (, ,) (NP (NN business) (NNS activities)) (VP (MD will) (VP (VB suffer))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (VP (VBN trained) (S (VP (VBG using) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNS documents)) (VP (VBN extracted) (PP (IN from) (NP (NNP Wikipedia))))))))))) (. .))

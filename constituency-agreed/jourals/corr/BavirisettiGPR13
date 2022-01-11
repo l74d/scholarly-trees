@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ algebraic) (NN formulation)) (PP (IN for) (NP (NP (JJ linear) (NN network) (VBG coding)) (PP (IN in) (NP (NP (JJ acyclic) (NNS networks)) (PP (IN with) (NP (NP (DT the) (NNS links)) (VP (VBG having) (NP (NN integer) (NN delay)))))))))) (VP (VBZ is) (ADJP (RB well) (VBN known))) (. .))
+(S (NP (PRP$ Their) (NN feasibility) (NNS conditions)) (VP (VBP are) (ADVP (RB then)) (VP (VBN analyzed))) (. .))

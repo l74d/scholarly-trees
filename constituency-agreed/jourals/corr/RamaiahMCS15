@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (DT a) (JJ new) (NN robot) (NN image))) (, ,) (NP (PRP we)) (VP (VBP perform) (NP (JJ inverse) (NNS kinematics)) (ADVP (RB visually)) (PP (IN by) (S (VP (VBG interpolating) (PP (IN between) (NP (NP (JJ nearby) (NNS images)) (PP (IN in) (NP (DT the) (NN image) (NN space))))))))) (. .))

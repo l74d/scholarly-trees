@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN method)) (VP (VP (VBZ makes) (NP (NP (NN use)) (PP (IN of) (NP (NP (DT the) (NNS features)) (PP (IN in) (NP (DT a) (JJ pre-trained) (JJ deep) (NN model))))))) (, ,) (CC but) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (DT any) (JJ explicit) (NN specification)) (PP (IN of) (NP (NNS sub-goals))))))) (. .))

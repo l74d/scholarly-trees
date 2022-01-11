@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ second) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (NN log) (NN determinant)) (PP (IN of) (NP (NP (DT the) (NN covariance) (NN matrix)) (PP (IN of) (NP (NP (NNS activations)) (PP (IN in) (NP (NP (DT each) (NN layer)) (PP (IN of) (NP (DT the) (NN network)))))))))))))) (. .))

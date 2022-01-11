@@ -1,0 +1,3 @@
+(S (NP (NP (NNP SVM) (NNS classifiers)) (PP (IN for) (NP (NP (DT the) (NN title)) (CC and) (NP (DT the) (NN body) (NNS blocks))))) (VP (VBP are) (VP (VBN trained) (S (VP (VBG using) (NP (DT these) (NNS features)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NNS classifiers)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB extract) (NP (DT the) (JJ main) (NN content)) (PP (IN from) (NP (NN blog) (NNS pages)))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP verify) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN extractor))))) (. .))

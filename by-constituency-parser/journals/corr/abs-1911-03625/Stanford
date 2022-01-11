@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP survey) (NP (NP (JJ recent) (NNS results)) (PP (IN on) (NP (VBN controlled) (NN particle) (NNS systems))))) (. .))
+(S (NP (DT The) (NN control) (NN aspect)) (VP (VBZ introduces) (NP (JJ new) (NNS challenges)) (PP (IN in) (NP (NP (DT the) (NN discussion)) (PP (IN of) (NP (NP (NNS properties)) (CC and) (NP (JJ suitable) (JJ mean) (NN field) (NNS limits))))))) (. .))
+(S (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (NNS aspects)))) (VP (VBP are) (VP (VBN highlighted) (PP (IN in) (NP (NP (DT a) (JJ detailed) (NN discussion)) (PP (IN of) (NP (DT a) (ADJP (JJ particular) (VBN controlled)) (NN particle) (NNS dynamics))))))) (. .))
+(S (NP (DT The) (JJ applied) (NNS techniques)) (VP (VBP are) (VP (VBN shown) (PP (IN on) (NP (DT this) (JJ simple) (NN problem))) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (JJ basic) (NNS methods))))))) (. .))
+(S (S (NP (NP (JJ Computational) (NNS results)) (VP (VBG confirming) (NP (DT the) (JJ theoretical) (NNS findings)))) (VP (VBP are) (VP (VBN presented)))) (CC and) (S (ADVP (RB further)) (NP (NN particle) (NNS models)) (VP (VBP are) (VP (VBN discussed)))) (. .))

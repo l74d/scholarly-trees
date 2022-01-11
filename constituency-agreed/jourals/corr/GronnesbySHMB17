@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN analysis) (NN pipeline)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNS features)) (VP (VBN extracted) (PP (IN from) (NP (NP (JJ small) (NNS windows)) (PP (IN in) (NP (JJ audio) (NNS files)))))))))) (. .))

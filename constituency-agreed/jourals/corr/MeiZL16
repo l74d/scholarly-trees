@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN scalability)) (PP (IN of) (NP (JJ submodular) (NN optimization) (NNS methods)))) (VP (VBZ is) (ADJP (JJ critical) (PP (IN for) (NP (NP (PRP$ their) (NN usability)) (PP (IN in) (NP (NN practice))))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN reducibility)))) (S (VP (VBG using) (NP (JJ marginal) (NNS gains))))) (. .))

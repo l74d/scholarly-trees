@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN idea)) (PP (IN of) (S (VP (VBG assisting) (NP (NNS teachers)) (PP (IN with) (NP (JJ technological) (NNS tools))))))) (VP (VBZ is) (RB not) (ADJP (JJ new))) (. .))
+(S (NP (DT The) (NN software)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ independent) (PP (IN from) (NP (NP (DT the) (NN intervention)) (PP (IN of) (NP (DT the) (NN teacher))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (PP (IN in) (NP (DT this) (NN paper))) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (PRP$ our) (JJ preliminary) (NN exploration)) (PP (IN of) (NP (NP (JJ possible) (NNS avenues)) (PP (IN for) (NP (DT this) (NN task))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (NP (PRP$ our) (NNS constraints)) (VP (VBP are) (ADJP (RB quite) (JJ specific)))) (CC and) (S (NP (DT some) (NN adaptation)) (VP (MD would) (VP (VB be) (VP (VBN required) (S (VP (TO to) (VP (VB use) (NP (DT an) (VBG existing) (NN prover))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB therefore)) (VP (VBN implemented) (NP (NP (DT a) (NN prototype)) (PP (IN of) (NP (VBN automated) (NN prover)))) (S (VP (TO to) (VP (VB suit) (NP (PRP$ our) (NNS needs))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Fraud)) (PP (IN in) (NP (NN healthcare)))) (VP (VBZ is) (ADJP (JJ widespread)) (, ,) (SBAR (IN as) (S (NP (NNS doctors)) (VP (MD could) (VP (VB prescribe) (NP (JJ unnecessary) (NNS treatments)) (S (VP (TO to) (VP (VB increase) (NP (NNS bills)))))))))) (. .))
+(S (NP (DT That)) (VP (VBZ is) (SBAR (WHADVP (WRB why)) (S (NP (NP (JJ unsupervised) (NN fraud) (NN detection) (NN system)) (PP (IN in) (NP (NN healthcare)))) (VP (VBZ is) (ADVP (RB also)) (PP (IN of) (NP (JJ great) (NN importance))))))) (. .))

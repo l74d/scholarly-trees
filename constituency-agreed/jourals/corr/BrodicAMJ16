@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN document)) (VP (VBZ is) (VP (VBN mapped) (PP (IN into) (NP (NP (DT a) (ADJP (RB uniformly) (VBN coded)) (NN text)) (PP (IN of) (NP (JJ numerical) (NNS values))))))) (. .))
+(S (NP (DT Each) (NN code)) (VP (VBZ is) (VP (VBN considered) (PP (IN as) (NP (DT a) (JJ gray) (NN level))))) (. .))

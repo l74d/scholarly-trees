@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ realistic) (NN demo) (NN system)) (VP (VBG using) (NP (PRP$ our) (NN algorithm)))) (VP (VBZ has) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB illustrate) (NP (PRP$ its) (NN feasibility) (CC and) (NN availability)))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (MD can) (VP (VB improve) (NP (DT the) (NN localization) (NN accuracy))))))) (. .))

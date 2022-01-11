@@ -1,0 +1,4 @@
+(S (PP (IN Since) (NP (NP (NNP Leonard) (NNP Savage) (POS 's)) (JJ epoch-making) (`` ``) (NX (NP (NNS Foundations)) (PP (IN of) (NP (NNPS Statistics)))) ('' ''))) (, ,) (NP (NNP Subjective) (NNP Expected) (NNP Utility) (NNP Theory)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJ presumptive) (NN model)) (PP (IN for) (NP (NN decision-making)))))) (. .))
+(S (NP (NN Savage)) (VP (VBD provided) (NP (NP (DT an) (JJ act-based) (NN axiomatization)) (PP (IN of) (NP (NN standard) (VBN expected) (NN utility) (NN theory))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (JJ Savage-like) (NN axiomatization)) (PP (IN of) (NP (NN nonstandard) (VBN expected) (NN utility) (NN theory))))) (. .))
+(S (NP (PRP It)) (VP (VBZ corresponds) (PP (TO to) (NP (NP (DT a) (NN weakening)) (PP (IN of) (NP (NP (NNP Savage) (POS 's)) (CD 6th) (NN axiom)))))) (. .))

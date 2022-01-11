@@ -1,0 +1,1 @@
+(S (NP (JJ Recent) (NN research)) (VP (VBZ has) (VP (VBN shown) (SBAR (IN that) (S (NP (NNS classifiers)) (VP (MD can) (VP (VB be) (VP (VBN attacked) (PP (IN by) (NP (JJ physical) (JJ adversarial) (NNS examples))) (PP (IN under) (NP (JJ various) (JJ physical) (NNS conditions)))))))))) (. .))

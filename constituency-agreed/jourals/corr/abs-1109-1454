@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ is) (NP (NP (DT a) (JJ multimodal) (NN interface)) (VP (VBN concerned) (PP (IN with) (S (VP (VBG controlling) (NP (DT the) (NN computer)))))))) (. .))
+(S (ADVP (RB However)) (NP (DT these) (NNS peripheries)) (VP (VBP are) (ADVP (RB usually)) (RB not) (ADJP (JJ suitable) (PP (IN for) (NP (JJ handicapped) (NNS people))))) (. .))
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ has) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB provide) (NP (NN computer) (NN access)) (PP (IN for) (NP (NP (NNS people)) (PP (IN with) (NP (JJ severe) (NNS disabilities))))))))))) (. .))

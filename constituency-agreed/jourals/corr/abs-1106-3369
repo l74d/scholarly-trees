@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS difficulties)) (VP (VBP include) (NP (NN accessibility) (, ,) (NN scalability) (, ,) (NN performance) (, ,) (NN flexibility) (CC and) (NN integration))) (. .))
+(S (S (NP (NP (DT The) (NN result)) (PP (IN of) (NP (NP (DT each)) (PP (IN of) (NP (DT these) (NNS evaluations)))))) (VP (VBD were) (VP (VBN analysed)))) (CC and) (S (NP (DT the) (NN system)) (VP (VBD was) (VP (VBN rectified) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (JJ iterative) (NN design) (NN process)))))))) (. .))

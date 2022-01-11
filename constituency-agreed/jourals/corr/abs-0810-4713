@@ -1,0 +1,1 @@
+(S (PP (IN After) (S (VP (VBG defining) (NP (DT these) (NNS coefficients))))) (, ,) (NP (JJ chaotic) (JJ discrete) (NNS iterations)) (VP (VBP are) (VP (VBN used) (S (VP (VP (TO to) (VP (VB encrypt) (NP (DT the) (NN watermark)))) (CC and) (VP (TO to) (VP (VB embed) (NP (PRP it)) (PP (IN in) (NP (DT the) (NN carrier) (NN medium))))))))) (. .))

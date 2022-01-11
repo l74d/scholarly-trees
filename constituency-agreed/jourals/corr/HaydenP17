@@ -1,0 +1,2 @@
+(S (SBAR (IN Because) (S (NP (NP (NNS qubits)) (PP (IN of) (NP (NN communication)))) (VP (MD can) (VP (VB establish) (NP (NP (NNS ebits)) (PP (IN of) (NP (NN entanglement)))))))) (, ,) (NP (NNS qubits)) (VP (VBP are) (NP (NP (ADJP (RBR more) (JJ powerful)) (NNS resources)) (PP (IN than) (NP (NNS ebits))))) (. .))
+(S (NP (NP (DT The) (NN source)) (PP (IN of) (NP (DT these) (NNS results)))) (VP (VBZ is) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (JJ approximate) (NN quantum) (NN error) (NN correction))))) (. .))

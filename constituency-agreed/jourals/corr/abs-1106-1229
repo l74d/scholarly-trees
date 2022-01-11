@@ -1,0 +1,2 @@
+(S (NP (CD One) (JJ main) (NN reason)) (VP (VBZ is) (NP (NP (DT the) (JJ complex) (NN transition) (NN relation)) (PP (IN of) (NP (NNS systems))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (SBAR (IN if) (S (NP (NP (DT the) (NN granularity)) (PP (IN of) (NP (DT the) (NNS partitions)))) (VP (VBZ is) (ADJP (RB too) (JJ fine))))) (, ,) (NP (NP (DT the) (NN time)) (VP (VBN required) (PP (IN for) (NP (NN verification))))) (VP (MD may) (VP (VB increase))) (. .))

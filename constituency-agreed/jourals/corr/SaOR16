@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB speed) (PRT (RP up)) (NP (NNP Gibbs) (NN sampling))))) (, ,) (NP (EX there)) (VP (VBZ has) (ADVP (RB recently)) (VP (VBN been) (NP (NP (NN interest)) (PP (IN in) (S (VP (VBG parallelizing) (NP (PRP it)) (PP (IN by) (S (VP (VBG executing) (ADVP (RB asynchronously))))))))))) (. .))

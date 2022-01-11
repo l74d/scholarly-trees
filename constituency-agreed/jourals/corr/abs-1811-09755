@@ -1,0 +1,1 @@
+(S (PP (IN From) (NP (DT each) (NN dataset))) (, ,) (NP (NP (CD three) (NNS kinds)) (PP (IN of) (NP (NNS features)))) (VP (VBP are) (VP (VBN extracted) (: :) (NP (NP (JJ explicit) (NN expression)) (, ,) (NP (JJ implicit) (NN expression)) (, ,) (CC and) (NP (NN alphabet) (NNS characters))))) (. .))

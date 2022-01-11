@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN tracker)) (VP (VBZ is) (ADVP (RB additionally)) (VP (VBN proposed) (S (VP (TO to) (VP (VB be) (VP (VBN applied) (PP (IN in) (NP (NNP UAV) (NN localization))))))))) (. .))
+(S (NP (NP (JJ Considerable) (NNS tests)) (PP (IN in) (NP (DT the) (JJ indoor) (JJ practical) (NNS scenarios)))) (VP (VBP have) (VP (VBN proven) (NP (NP (DT the) (NN effectiveness) (CC and) (NN versatility)) (PP (IN of) (NP (PRP$ our) (NN localization) (NN method)))))) (. .))

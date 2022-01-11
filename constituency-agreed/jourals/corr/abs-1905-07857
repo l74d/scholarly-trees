@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS counterfactuals)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB examine) (NP (NP (NNS issues)) (PP (IN of) (NP (NN robustness) (, ,) (NN interpretability) (, ,) (NN transparency) (, ,) (CC and) (NN fairness))))))))))))) (. .))

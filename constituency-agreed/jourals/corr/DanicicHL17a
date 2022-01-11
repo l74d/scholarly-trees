@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN subschema)) (PP (IN of) (NP (DT a) (NN schema)))) (VP (VBZ is) (VP (VBN obtained) (PP (IN from) (NP (DT a) (NN schema))) (PP (IN by) (S (VP (VBG deleting) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (NNS statements))))))))) (. .))

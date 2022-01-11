@@ -1,0 +1,3 @@
+(S (NP (DT The) (VBG helping) (NML (NML (NNP Lemma) (CD 7)) (PP (IN in)) (PRN (-LRB- [) (NP (NP (NNP Maslowski) (CC and) (NNP Wijsen)) (, ,) (NP (NN ICDT)) (, ,) (NP (CD 2014))) (-RRB- ])))) (VP (VBZ is) (ADJP (JJ false))) (. .))
+(S (NP (DT The) (NN lemma)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (PRN (-LRB- -LRB-) (ADVP (NP (QP (CC and) (RB only))) (RB in)) (-RRB- -RRB-)) (NP (DT the) (NN proof))) (PP (IN of) (NP (NP (NNP Theorem) (CD 3)) (PP (IN of) (NP (DT that) (JJ same) (NN paper))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN corrigendum))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (JJ new) (NN proof)) (PP (IN for) (NP (DT the) (JJ latter) (NN theorem))))) (. .))

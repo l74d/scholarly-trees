@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS parameters)) (SBAR (S (NP (PRP we)) (VP (VBP consider))))) (VP (VBP include) (NP (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS voters)))) (, ,) (CC and) (NP (NP (DT the) (NNS budgets)) (PP (IN of) (NP (NP (DT the) (NN attacker)) (CC and) (NP (DT the) (NN defender))))))) (. .))

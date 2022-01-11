@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP extend) (NP (DT this) (NN result))) (CC and) (VP (VB compute) (NP (DT the) (JJ optimal) (NN auction)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ multiple) (NNS buyers)) (PP (IN with) (NP (JJ heterogeneous) (NNP Markov) (NNS chains))))))))) (. .))
+(S (S (VP (TO To) (VP (VB conclude)))) (, ,) (NP (PRP we)) (VP (VBP apply) (NP (PRP$ our) (NN theory)) (PP (IN in) (NP (JJ online) (NN assortment) (NNS problems)))) (. .))

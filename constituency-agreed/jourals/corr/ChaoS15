@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Typical) (NN processing) (NNS steps)) (VP (VBN performed) (PP (IN at) (NP (DT the) (NN server))))) (VP (VBP include) (NP (NP (NN keypoint) (NN detection)) (, ,) (NP (NN descriptor) (NN calculation)) (, ,) (CC and) (NP (NN feature) (NN matching)))) (. .))

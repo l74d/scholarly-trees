@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (NNP Vanilla) (NNP GANs)) (, ,) (NP (NNP LSGANs)) (CC and) (NP (NNP Wasserstein) (NNP GANs))) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (JJ different) (JJ pixel-wise) (NN reconstruction) (NNS losses)))))) (. .))

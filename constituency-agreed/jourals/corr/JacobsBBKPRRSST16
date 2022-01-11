@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP report) (PP (IN on) (NP (NP (NNS changes)) (PP (IN of) (NP (NP (DT the) (NN evaluation) (NN scheme)) (CC and) (NP (DT the) (JJ experimental) (NN setup))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (NP (DT the) (NNS entrants)) (PP (IN into) (NP (NNP SYNTCOMP) (CD 2015)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (PRP$ our) (JJ experimental) (NN evaluation)))))) (. .))

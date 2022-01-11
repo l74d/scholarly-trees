@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ current) (JJ public) (NN key) (NN infrastructure)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN used) (SBAR (IN since) (S (NP (NP (DT the) (NN user) (POS 's)) (JJ public) (NN key)) (VP (VBZ identifies) (NP (DT the) (NN user)))))))) (. .))

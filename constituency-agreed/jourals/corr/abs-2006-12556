@@ -1,0 +1,2 @@
+(S (ADVP (RB Initially)) (, ,) (NP (DT the) (JJ hyperspectral) (NN image)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (NP (NN number)) (PP (IN of) (NP (JJ spectral) (NNS bands))))))) (. .))
+(S (NP (DT These) (NNS bands)) (VP (VBP are) (VP (VBN given) (PP (IN as) (NP (NN input))) (PP (IN in) (NP (NP (DT the) (NN input) (NN layer)) (PP (IN of) (NP (NN perceptron))))))) (. .))

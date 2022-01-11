@@ -1,0 +1,2 @@
+(S (NP (NP (NN Application)) (PP (IN of) (NP (JJ humanoid) (NNS robots)))) (VP (VBZ has) (VP (VBN been) (ADJP (JJ common)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN healthcare) (CC and) (NN education))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (NP (NNS people)) (PP (IN of) (NP (JJ different) (NN age) (CC and) (NN gender)))) (VP (VBP have) (NP (NP (DT a) (JJ different) (NN opinion)) (PP (IN towards) (NP (NP (DT the) (NN application) (CC and) (NN acceptance)) (PP (IN of) (NP (JJ humanoid) (NNS robots)))))))))) (. .))

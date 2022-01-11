@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP emit) (NP (NNS warnings) (CC and) (NNS errors)) (SBAR (IN while) (S (NP (DT these) (JJ risky) (NNS constructs)) (VP (VBP are) (VP (VBN used)))))) (. .))

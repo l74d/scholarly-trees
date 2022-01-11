@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS embeddings)) (PP (IN for) (NP (ADJP (JJ normal) (CC and) (JJ degraded)) (NNS machines)))) (VP (VP (VBP tend) (S (VP (TO to) (VP (VB be) (ADJP (JJ different)))))) (, ,) (CC and) (VP (VBP are) (ADVP (RB therefore)) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (JJ useful) (PP (IN for) (NP (NNP RUL) (NN estimation)))))))))) (. .))

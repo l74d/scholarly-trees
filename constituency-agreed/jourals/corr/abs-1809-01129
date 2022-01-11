@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT an) (NN application))) (NP (PRP we)) (VP (VBP show) (SBAR (S (NP (DT the) (ADJP (RB distributionally) (JJ robust)) (NN risk)) (VP (VBZ upperbounds) (NP (DT the) (JJ adversarial) (NN training) (NN risk)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ key) (NN challenge)) (PP (IN in) (NP (DT this) (NN problem)))) (VP (VBZ is) (VP (VBG learning) (NP (NP (DT the) (NNS correlations)) (PP (IN between) (NP (DT the) (NNS classes)))))) (. .))
+(S (NP (NP (JJ Extensive) (NN experimentation)) (PP (IN on) (NP (JJ real) (NN world) (NNS datasets)))) (VP (VBZ reveals) (NP (NP (DT the) (JJ superior) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ our) (NN algorithm)) (VP (VBZ has) (NP (DT a) (ADJP (RB much) (JJR smaller)) (JJ computational) (NN complexity))) (. .))
+(S (ADVP (RB Perhaps)) (ADVP (RBS most) (RB interestingly)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN seen) (ADVP (RB empirically)) (S (VP (TO to) (VP (VB require) (NP (ADJP (RB visibly) (JJR fewer)) (NNS samples))))))) (. .))

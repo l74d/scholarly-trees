@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ novel) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ produces) (NP (ADJP (RB much) (JJR simpler)) (NNS linkages))) (, ,) (CC but) (VP (VBZ works) (ADVP (RB only)) (PP (IN for) (NP (JJ parametric) (NNS curves))))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (S (VP (TO to) (VP (VB transform) (NP (DT the) (NN problem)) (PP (IN into) (NP (NP (DT a) (NN factorization) (NN task)) (PP (IN over) (NP (DT some) (JJ noncommutative) (NN algebra))))))))) (. .))

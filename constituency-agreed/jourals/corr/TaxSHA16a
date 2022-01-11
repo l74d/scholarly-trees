@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (DT a) (NN motion) (NN sensor)) (PP (IN in) (NP (DT a) (NN bedroom)))) (VP (MD can) (VP (VB be) (VP (VBN triggered) (PP (PP (IN by) (S (VP (VBG tossing) (CC and) (VBG turning) (PP (IN in) (NP (NN bed)))))) (CC or) (PP (IN by) (S (VP (VBG getting) (PRT (RP up))))))))) (. .))

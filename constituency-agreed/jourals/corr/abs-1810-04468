@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT the) (JJ overall) (NN regret)) (PP (IN of) (NP (DT the) (JJ entire) (NN network)))))))) (. .))

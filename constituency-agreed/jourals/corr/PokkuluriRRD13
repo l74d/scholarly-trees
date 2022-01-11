@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ homogeneous) (JJ non-communicating) (JJ multi-agent) (NN architecture)) (VP (VBG using) (NP (DT the) (NN representation)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (NP (DT A) (NN technique)) (PP (IN for) (S (VP (VBG selecting) (NP (NNS strategies)) (PP (VBN based) (PP (IN on) (NP (NN sequence) (NN analysis)))))))) (VP (VBZ is) (VP (VBN adopted))) (. .))

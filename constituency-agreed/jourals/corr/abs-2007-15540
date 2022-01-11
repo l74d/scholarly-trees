@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN introduction)) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB detect) (NP (JJ object-wise) (NN scene) (NNS changes)) (PP (IN without) (NP (JJ precise) (NN image) (NN alignment))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBD verified) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN network))))) (. .))

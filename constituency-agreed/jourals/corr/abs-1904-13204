@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS filters)) (PP (IN in) (NP (NP (DT the) (JJ first) (NN layer)) (PP (IN of) (NP (DT the) (NN network)))))) (VP (VBP are) (VP (VBN constrained) (S (VP (TO to) (VP (VB fit) (NP (DT the) (NNP Gabor) (NN function))))))) (. .))
+(S (NP (NP (DT The) (NNS parameters)) (PP (IN of) (NP (NNP Gabor) (NNS functions)))) (VP (VP (VBP are) (ADJP (JJ learnable))) (CC and) (VP (VBP are) (VP (VBN updated) (PP (IN by) (NP (JJ standard) (NN backpropagation) (NNS techniques)))))) (. .))

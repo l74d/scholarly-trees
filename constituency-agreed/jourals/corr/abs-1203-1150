@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Characteristic) (NNS properties)) (PP (IN of) (NP (NP (DT the) (NN phenomena)) (PP (IN of) (NP (NN interest)))))) (VP (VBP are) (VP (VBN visualized) (PP (IN for) (NP (NP (DT each) (NN category)) (PP (IN of) (NP (NNS nodes))))))) (. .))
+(S (NP (NP (DT The) (NN validity)) (PP (IN of) (NP (PRP$ our) (NN method)))) (VP (VBZ is) (VP (VBN demonstrated) (S (VP (VBG using) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (CD two) (NN simulation) (NNS models)))))))) (. .))

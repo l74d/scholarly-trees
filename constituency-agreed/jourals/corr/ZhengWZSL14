@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ standard) (NNP ADMM) (NN algorithm)) (VP (VBZ is) (VP (VBN extended) (S (VP (VBG using) (NP (DT a) (VBG varying) (NN penalty) (NN parameter)) (S (VP (TO to) (VP (VB improve) (NP (NN convergence))))))))) (. .))

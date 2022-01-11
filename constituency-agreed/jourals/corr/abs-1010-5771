@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN promise)) (PP (IN of) (NP (NN punishment) (CC and) (NN reward))) (PP (IN in) (S (VP (VBG promoting) (NP (JJ public) (NN cooperation)))))) (VP (VBZ is) (ADJP (JJ debatable))) (. .))
+(S (NP (NNS Rewards)) (, ,) (ADVP (RB however)) (, ,) (VP (MD can) (VP (VB promote) (NP (NN cooperation)) (, ,) (SBAR (ADVP (RB especially)) (IN if) (S (NP (NP (DT the) (JJ synergetic) (NNS effects)) (PP (IN of) (NP (NN cooperation)))) (VP (VBP are) (ADJP (JJ low))))))) (. .))

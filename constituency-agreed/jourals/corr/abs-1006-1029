@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBD achieved) (NP (NP (JJ predictive) (NN accuracy)) (PP (IN of) (NP (CD 0.87)))) (PP (IN with) (NP (NP (CD 0.69) (NN recall)) (CC and) (NP (CD 0.64) (NN precision))))) (. .))

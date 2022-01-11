@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Models)) (PP (IN for) (NP (CD 18) (NNS languages)))) (VP (VBD were) (VP (VBN trained) (CC and) (VBN evaluated))) (. .))
+(S (NP (NP (JJ Many)) (PP (IN of) (NP (DT the) (NN accuracy) (NNS measurements)))) (VP (VBP are) (PP (IN above) (NP (CD 99) (NN %)))) (. .))

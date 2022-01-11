@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (JJ mobile) (NNS agents)) (, ,) (VP (VBG starting) (PP (IN at) (NP (JJ arbitrary) (, ,) (ADJP (RB possibly) (JJ different)) (NNS times))) (PP (IN from) (NP (NP (JJ arbitrary) (NNS nodes)) (PP (IN of) (NP (DT an) (JJ unknown) (NN network)))))) (, ,)) (VP (VBP have) (S (VP (TO to) (VP (VB meet) (PP (IN at) (NP (DT some) (NN node))))))) (. .))
+(S (NP (NNS Agents)) (VP (VBP have) (NP (NP (JJ different) (NNS labels)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (JJ positive) (NNS integers))))))) (. .))

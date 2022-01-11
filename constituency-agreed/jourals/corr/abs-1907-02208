@@ -1,0 +1,3 @@
+(S (NP (NP (NNP Parametric) (NNS studies)) (PP (IN for) (NP (JJ dynamic) (NNS systems)))) (VP (VBP are) (PP (IN of) (NP (JJ high) (NN interest))) (S (VP (TO to) (VP (VB detect) (NP (NN instability) (NNS domains)))))) (. .))
+(S (NP (NP (JJ Relevant) (NNS quantities)) (PP (IN of) (NP (NN interest)))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (DT This) (NN indicator)) (VP (VBZ is) (VP (VBN estimated) (S (VP (VBG using) (NP (DT a) (NN perturbation) (NN method)))))) (. .))

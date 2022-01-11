@@ -1,0 +1,2 @@
+(S (NP (DT This) (VBG coding) (NN scheme)) (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT a) (NN block) (NNP Markov) (NN code)))))) (. .))
+(S (NP (DT The) (NN transmitter)) (VP (VBZ uses) (NP (DT a) (NN superposition) (NNP Markov) (NN code))) (. .))

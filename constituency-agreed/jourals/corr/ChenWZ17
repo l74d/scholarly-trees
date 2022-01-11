@@ -1,0 +1,2 @@
+(FRAG (ADVP (RB Recently)) (, ,) (NP (NNP Hinton) (NN etal)) (. .))
+(S (NP (DT These) (NN knowledge)) (VP (VBP are) (ADJP (RB vastly) (JJ beneficial) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN generalization) (NN ability)) (PP (IN of) (NP (DT the) (NN student) (NN model))))))))) (. .))

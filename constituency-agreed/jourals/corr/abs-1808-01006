@@ -1,0 +1,1 @@
+(S (ADVP (RB Traditionally)) (, ,) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ collaborative) (NN filtering)))) (VP (VBZ has) (VP (VBN been) (VP (VBN tackled) (S (VP (VBG using) (NP (NP (NNP Matrix) (NNP Factorization)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ linear) (PP (IN in) (NP (NN nature))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (RB Early) (NNS attempts)) (PP (IN at) (S (VP (VBG explaining) (NP (DT this) (NN phenomenon)))))) (VP (VBD focused) (PP (IN on) (NP (NN nonlinearity) (CC and) (NN overfitting)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT this) (NN view)) (VP (VBZ yields) (NP (NP (DT a) (ADJP (JJ simple) (CC and) (JJ fast)) (NN method)) (PP (IN of) (S (VP (VBG generating) (NP (JJ adversarial) (NNS examples))))))) (. .))

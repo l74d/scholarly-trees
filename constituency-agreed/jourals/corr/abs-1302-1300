@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ sequential) (NN search)) (PP (IN for) (NP (NN noise) (NN detection)))) (VP (VBD was) (VP (VBN made) (S (VP (VBG using) (NP (NN kXk) (NN window) (NN size)) (S (VP (TO to) (VP (VB determine) (NP (JJ non-noisy) (NNS pixels)) (ADVP (RB only))))))))) (. .))

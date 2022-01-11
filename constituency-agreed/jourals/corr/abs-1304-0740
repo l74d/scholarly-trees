@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ aims) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS projections)) (PP (IN for) (NP (JJ stochastic) (NN optimization)))))))))))))) (. .))
+(S (NP (PRP$ Our) (JJ empirical) (NN study)) (VP (VBZ verifies) (NP (DT the) (JJ theoretical) (NN result))) (. .))

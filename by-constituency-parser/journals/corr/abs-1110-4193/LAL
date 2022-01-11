@@ -1,0 +1,5 @@
+(S (VP (VB Let) (S (NP ($ $) (DT A) ($ $)) (VP (VB be) (NP (DT a) (ADJP (ADJP (QP ($ $) (JJ n) ($ $))) (PP (IN by) (NP ($ $) (JJ n) ($ $)))) (NN matrix))))) (. .))
+(S (NP (DT A) (NN skeleton) (NN decomposition)) (VP (VBZ is) (NP (NP (DT any) (NN factorization)) (PP (IN of) (NP (DT the) (JJ form) ($ $) (NNP CUR) ($ $))) (SBAR (WHADVP (WRB where)) (S (S (NP ($ $) (NNP C) ($ $)) (VP (VBZ comprises) (NP (NP (NN columns)) (PP (IN of) (NP ($ $) (DT A) ($ $)))))) (, ,) (CC and) (S (NP ($ $) (NNP R) ($ $)) (VP (VBZ comprises) (NP (NP (NNS rows)) (PP (IN of) (NP ($ $) (DT A) ($ $)))))))))) (. .))
+(S (NP (NP (DT A) (JJ key) (NN step)) (PP (IN in) (NP (DT this) (JJ algorithm)))) (VP (VBZ involves) (NP (NN regularization))) (. .))
+(S (NP (DT This) (NN step)) (VP (VBZ is) (ADJP (JJ crucial) (PP (IN for) (NP (DT a) (JJ nonsymmetric) ($ $) (DT A) ($ $)))) (SBAR (IN as) (S (NP (JJ empirical) (NNS results)) (VP (VBP suggest))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (PRP$ our) (NN proof) (NN framework)) (S (VP (TO to) (VP (VB analyze) (NP (CD two) (VBG existing) (NN algorithms)) (PP (IN in) (NP (DT an) (JJ intuitive) (NN way))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (DT a) (JJ minimum) (NN cost) (NN routing)))))) (. .))
+(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (CD two) (NNS settings)))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN setting))) (, ,) (NP (NN packet) (NNS sets)) (VP (MD can) (VP (VB have) (NP (JJ non-trivial) (NN intersection)))) (. .))

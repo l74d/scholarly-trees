@@ -1,0 +1,1 @@
+(S (NP (NNP Langevin) (NNP MCMC) (NN gradient) (NN optimization)) (VP (VBZ is) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (ADJP (RB increasingly) (JJ popular)) (NNS methods)) (PP (IN for) (S (VP (VBG estimating) (NP (DT a) (JJ posterior) (NN distribution))))))))) (. .))

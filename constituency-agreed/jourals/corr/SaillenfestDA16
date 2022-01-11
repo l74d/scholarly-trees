@@ -1,0 +1,4 @@
+(S (NP (NNP ST)) (VP (VBZ has) (VP (VBN been) (VP (VBN designed) (S (VP (TO to) (VP (VB describe) (CC and) (VB predict) (NP (NP (NN interest)) (PP (IN in) (NP (NN communication)))))))))) (. .))
+(S (NP (DT The) (NN decision) (NN rule)) (VP (VBZ produces) (SBAR (WHNP (WP what)) (S (VP (MD can) (VP (VB be) (VP (VBN regarded) (PP (IN as) (NP (NP (DT an) (JJ elementary) (NN form)) (PP (IN of) (NP (NN creativity))))))))))) (. .))
+(S (NP (DT This) (NN study)) (VP (VBZ is) (VP (VBN meant) (PP (IN as) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (NN principle))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (DT some) (JJ creative) (NNS actions)) (VP (MD may) (VP (VB be) (VP (VBN motivated) (PP (IN by) (NP (NP (DT the) (NN search)) (PP (IN for) (NP (JJ unexpected) (NN simplicity))))))))))) (. .))

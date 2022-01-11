@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN agent)) (VP (VBZ receives) (NP (DT some) (NN utility)) (PP (IN for) (S (VP (VBG being) (PP (IN in) (NP (NP (DT a) (NN match)) (PP (IN with) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (JJ opposite) (NN set))))))))))) (. .))
+(S (NP (NNS Agents)) (VP (VBP learn) (NP (PRP$ their) (NNS policies)) (ADVP (RB separately)) (, ,) (S (VP (VBG using) (NP (JJ separate) (NN training) (NNS modules))))) (. .))

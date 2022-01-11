@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP MBCH)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ new) (NNS techniques) (CC and) (NNS architectures)) (PP (VBG including) (NP (NP (NN highway) (NNS networks)) (, ,) (NP (NNP DenseNet)) (, ,) (NP (NN batch) (NN normalization)) (CC and) (NP (NN bottleneck) (NNS layers)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN decision)) (VP (VBZ is) (NP (NP (DT an) (NN act) (CC or) (NN event)) (PP (IN of) (NP (NN decision) (NN taking))))) (. .))
+(S (NP (NN Decision) (NNS outcomes)) (VP (VBP are) (ADVP (RB supposedly)) (VP (VBN expected) (PP (IN by) (NP (DT the) (NN decider))))) (. .))

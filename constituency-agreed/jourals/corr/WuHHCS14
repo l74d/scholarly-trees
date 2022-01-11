@@ -1,0 +1,3 @@
+(S (NP (NNS Users)) (VP (VBP are) (VP (VBN allowed) (S (VP (TO to) (VP (VB choose) (NP (NP (PRP$ their) (JJ interested) (NN flight)) (PP (IN of) (NP (JJ aerial) (NN mission))))))))) (. .))
+(S (CC And) (NP (DT the) (NN flight) (NNS statuses)) (VP (MD would) (VP (VB be) (VP (VBN stored)))) (. .))
+(S (NP (DT The) (NN flight) (NN trajectory)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN recreated))) (. .))

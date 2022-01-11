@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN abstraction)) (VP (VBN adopted) (PP (IN in) (NP (DT this) (NN work))))) (VP (VBZ assumes) (SBAR (IN that) (S (NP (NNS agents)) (VP (VBP are) (NP (NP (JJ discrete) (NNS items)) (VP (VBG moving) (PP (IN in) (NP (DT an) (JJ undirected) (NN graph))) (PP (IN by) (S (VP (VBG traversing) (NP (NNS edges))))))))))) (. .))

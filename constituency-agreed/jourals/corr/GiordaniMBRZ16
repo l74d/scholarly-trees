@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (JJ several) (ADJP (RB recently) (VBN proposed)) (NNS techniques))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ optimal) (NN strategy)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN target) (NNP SNR) (NN regime))))))) (. .))

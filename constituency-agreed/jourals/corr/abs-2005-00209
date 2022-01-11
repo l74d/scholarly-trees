@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (NP (JJ stochastic) (NNS maps)) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NP (NNS maps)) (PP (IN in) (NP (NP (DT the) (NNP Kleisli) (NN category)) (PP (IN of) (NP (DT some) (NN probability) (NN monad))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NNP Kleisli) (NN category)) (PP (IN of) (NP (DT this) (NN quantum) (NN monad)))) (VP (VBZ is) (NP (DT an) (NN effectus)))))) (. .))

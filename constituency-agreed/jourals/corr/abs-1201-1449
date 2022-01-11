@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ chaotic) (JJ cryptographic) (NNS schemes)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (NP (DT These) (NNS schemes)) (VP (VBP have) (NP (NP (JJ typical) (NN structure)) (SBAR (WHNP (WDT which)) (S (VP (VBD performed) (NP (NP (DT the) (NN permutation)) (CC and) (NP (DT the) (NN diffusion) (NNS stages))) (, ,) (ADVP (RB alternatively))))))) (. .))

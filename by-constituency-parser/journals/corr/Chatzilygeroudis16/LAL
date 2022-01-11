@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ leads) (PP (TO to) (NP (NP (DT a) (JJ semi-episodic) (NN learning) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ increases) (NP (NP (DT the) (NN robot) (POS 's)) (JJ lifetime) (NN autonomy) (CC and) (NN adaptivity)))))))) (. .))
+(S (NP (NP (JJ Preliminary) (NNS experiments)) (PP (IN on) (NP (NP (DT a) (JJ toy) (NN simulation)) (CC and) (NP (DT a) (JJ 6-legged) (NN robot) (NN locomotion) (NN task))))) (VP (NN show) (NP (JJ promising) (NNS results))) (. .))

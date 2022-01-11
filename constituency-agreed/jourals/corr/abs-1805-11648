@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ joint) (NN model)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN learned) (S (VP (TO to) (VP (VB produce) (NP (DT both) (NNS labels) (CC and) (NNS explanations)) (PP (IN from) (NP (DT the) (NN input) (NNS features)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NN literature))) (, ,) (NP (NP (DT the) (NNS difficulties)) (VP (VBN associated) (PP (IN with) (NP (DT an) (JJ appropriate) (NNS data) (NN annotation))))) (VP (VBZ has) (VP (VBN been) (VP (VBN underestimated)))) (. .))
+(S (NP (NP (DT The) (NN construction)) (PP (IN of) (NP (DT this) (NN corpus)))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT an) (JJ Algerian) (NN sentiment) (NN lexicon)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB also)) (VP (VBN constructed) (ADVP (RB automatically)))))))))) (. .))

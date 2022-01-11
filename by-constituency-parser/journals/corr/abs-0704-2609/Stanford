@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (ADJP (JJ discrete) (PRN (-LRB- -LRB-) (NP (JJ finite) (HYPH -) (NN difference)) (-RRB- -RRB-))) (NN analogue)) (PP (IN of) (NP (JJ differential) (NNS forms)))) (VP (VBZ is) (VP (VBN considered) (, ,) (VP (VBN defined) (PP (IN on) (NP (JJ simplicial) (NNS complexes)))) (, ,) (PP (VBG including) (NP (NP (NNS triangulations)) (PP (IN of) (NP (JJ continuous) (NNS manifolds))))))) (. .))
+(S (NP (JJ Various) (NNS operations)) (VP (VBP are) (ADVP (RB explicitly)) (VP (VBN defined) (PP (IN on) (NP (DT these) (NNS forms))) (, ,) (PP (VBG including) (NP (NP (NN exterior) (NN derivative)) (CC and) (NP (NN exterior) (NN product)))))) (. .))
+(S (NP (DT The) (JJ latter) (NN one)) (VP (VBZ is) (ADJP (JJ non-associative))) (. .))

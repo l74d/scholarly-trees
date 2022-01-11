@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Freeway) (NN merging)) (PP (IN in) (NP (JJ congested) (NN traffic)))) (VP (VBZ is) (NP (NP (DT a) (JJ significant) (NN challenge)) (PP (IN toward) (NP (ADJP (RB fully) (VBN automated)) (NN driving))))) (. .))
+(S (NP (VBG Merging) (NNS vehicles)) (VP (VBP need) (S (VP (TO to) (VP (VB decide) (UCP (CONJP (RB not) (RB only)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB merge) (PP (IN into) (NP (DT a) (NN spot))))))) (, ,) (CONJP (CC but) (RB also)) (SBAR (WHADVP (WRB where)) (S (VP (TO to) (VP (VB merge)))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ selects) (NP (DT a) (NN merging) (NN spot) (NN candidate)) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (NN state) (NN value)) (VP (VBN learned) (PP (IN with) (NP (NN pAC))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN method)) (S (VP (VBG using) (NP (JJ real) (NN traffic) (NNS data))))) (. .))

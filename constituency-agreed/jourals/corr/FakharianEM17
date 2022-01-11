@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (NN prediction)) (PP (IN for) (NP (NP (JJ linear) (NNS systems)) (PP (IN with) (NP (VBG missing) (NN information)))))) (VP (VBZ is) (VP (VBN investigated))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN modified) (CC and) (VBN optimized) (PP (IN for) (NP (VBG missing) (NNS scenarios))))) (. .))

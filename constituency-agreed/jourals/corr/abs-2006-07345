@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ crucial) (NN objective)) (PP (IN of) (NP (NN surveillance)))) (VP (VBZ is) (NP (NP (VBG monitoring) (CC and) (NN security)) (PP (IN in) (NP (JJ public) (NNS places))))) (. .))
+(S (NP (DT The) (JJ Local) (JJ tri-directional) (NN pattern) (NN descriptor)) (VP (VBZ is) (VP (VBN exhibited) (S (VP (TO to) (VP (VB extract) (NP (NP (NNS features)) (PP (IN of) (NP (NP (JJ different) (JJ human) (NN body) (NNS parts)) (PP (VBG including) (NP (NN head) (, ,) (NN trunk) (, ,) (CC and) (NNS limbs))))))))))) (. .))

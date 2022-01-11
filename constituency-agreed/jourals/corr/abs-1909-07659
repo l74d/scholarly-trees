@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB now)) (VP (VBP consider) (NP (NP (DT a) (NN method)) (PP (IN of) (S (VP (VBG solving) (NP (NN parity) (NNS games)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT a) (JJ naive) (NN fixpoint) (NN iteration)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ relies) (PP (IN on) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (DT a) (NN distraction)))))))))) (. .))

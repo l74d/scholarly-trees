@@ -1,0 +1,1 @@
+(S (ADVP (RB Lastly)) (, ,) (S (VP (VBG considering) (SBAR (S (NP (NN person) (NN retrieval)) (VP (VBZ is) (NP (DT a) (JJ special) (NN image) (NN retrieval) (NN task))))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ novel) (JJ ranking) (NN loss)) (S (VP (TO to) (VP (VB optimize) (NP (DT the) (JJ whole) (NN network)))))) (. .))

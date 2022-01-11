@@ -1,0 +1,1 @@
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP UDepLambda)) (VP (VBZ outperforms) (NP (JJ strong) (NNS baselines)) (PP (IN across) (NP (NNS languages) (CC and) (NNS datasets))))))) (. .))

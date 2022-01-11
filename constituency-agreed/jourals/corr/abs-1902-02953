@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (NN minmax) (NN theory)))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP derive) (NP (NP (JJ fundamental) (NN performance) (NNS limits)) (PP (IN for) (NP (DT the) (VBN correlated) (NN bandit) (NN problem))))) (. .))

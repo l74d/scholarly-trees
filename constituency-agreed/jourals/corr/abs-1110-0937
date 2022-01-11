@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (ADVP (RB currently)) (VP (VBZ consists) (PP (IN of) (NP (NP (NP (CD 10) (NNP PB)) (PP (IN of) (NP (NN storage)))) (CC and) (NP (NP (NNS thousands)) (PP (IN of) (NP (JJ computational) (NNS cores))))))) (. .))
+(S (NP (DT The) (NN infrastructure)) (VP (VBZ has) (VP (VBN been) (VP (VBN constructed) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS requirements)) (PP (IN of) (NP (DT the) (NNS applications))))))))) (. .))

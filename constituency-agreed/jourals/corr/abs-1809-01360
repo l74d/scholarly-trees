@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN validation)) (VP (VBZ is) (VP (VBN carried) (PRT (RP out)) (PP (IN with) (NP (NP (DT a) (NN dataset)) (VP (VBN compiled) (PP (IN from) (NP (NP (CD four) (NN software) (NNS repositories)) (VP (VBN tracked) (PP (IN in) (NP (DT the) (NNP Snyk) (NN vulnerability) (NN database))))))))))) (. .))

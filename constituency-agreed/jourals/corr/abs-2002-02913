@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ helps) (NP (NP (NN co-training)) (PP (IN of) (NP (JJ multiple) (NNS autoencoders)))) (SBAR (RB even) (IN if) (S (NP (PRP they)) (VP (VBP have) (NP (NP (JJ heterogeneous) (NNS architectures)) (CC and) (NP (JJ incomparable) (NN latent) (NNS spaces))))))) (. .))

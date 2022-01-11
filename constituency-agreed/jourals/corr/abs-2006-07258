@@ -1,0 +1,1 @@
+(S (NP (NP (PRP$ Our) (NN evaluation)) (PP (IN on) (NP (NP (NNP ImageNet)) (CC and) (NP (CD five) (JJ different) (NN model) (NN architecture))))) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (PRP$ our) (NN attack)) (VP (VBZ is) (ADJP (RB quite) (JJ effective)))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Additionally)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NNS gains)) (PP (IN from) (NP (JJ unsupervised) (NN transfer) (NNS techniques)))) (VP (MD can) (VP (VB be) (ADVP (RB further)) (VP (VBN improved) (PP (IN by) (NP (JJ supervised) (NN transfer))))))))) (. .))

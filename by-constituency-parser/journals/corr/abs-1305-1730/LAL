@@ -1,0 +1,4 @@
+(S (PRN (NN -LSB-) (NP (NNP Draft)) (NN -RSB-)) (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (NN redundancy)) (PP (IN of) (NP (JJ Slepian) (NNP Wolf) (NN coding)))) (VP (VBZ is) (VP (VBN revisited))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NNS results)) (VP (VBP reflect) (NP (NP (JJR more) (NNS details)) (PP (IN about) (NP (NP (DT the) (NN high-order) (NNS terms)) (PP (IN of) (NP (DT the) (NN coding) (NN rate))))))) (. .))
+(S (NP (DT The) (NN redundancy)) (VP (VBZ is) (VP (VBN investigated) (PP (IN for) (NP (ADJP (DT both) (JJ fixed-rate) (CC and) (JJ variable-rate)) (NNS cases))))) (. .))
+(S (NP (NP (DT The) (JJ normal) (NN approximation)) (PRN (-LRB- -LRB-) (CC or) (NP (NN dispersion)) (-RRB- -RRB-))) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN obtained) (PP (IN with) (NP (JJ minor) (NN modification)))))) (. .))

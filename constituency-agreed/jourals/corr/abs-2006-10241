@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP are) (ADVP (RB also)) (VP (VBN used) (PP (IN for) (S (VP (VBG comparing) (NP (NP (DT the) (NNS outcomes)) (VP (VBN produced) (PP (IN by) (NP (JJ different) (NNS algorithms)))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP they)) (VP (MD may) (ADVP (RB also)) (VP (VB be) (VP (VBN adopted) (PP (IN as) (NP (DT an) (JJ objective) (NN function))) (S (VP (TO to) (VP (VB obtain) (NP (NP (NNS clusters)) (CC and) (NP (JJ representative) (NN interaction) (NNS primitives))))))))) (. .))

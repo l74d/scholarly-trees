@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (DT each) (NN word)) (PP (IN in) (NP (DT an) (NN utterance))))) (, ,) (NP (PRP$ our) (NN model)) (VP (VBZ learns) (NP (DT a) (NN representation)) (PP (IN from) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (NN subword) (NNS units)))))) (. .))

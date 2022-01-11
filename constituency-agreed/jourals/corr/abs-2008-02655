@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (S (VP (VBG training) (NP (DT a) (JJ noisy) (NN student) (NN network)) (ADVP (RB iteratively)))) (VP (VBZ helps) (PP (IN in) (S (VP (VBG achieving) (NP (ADJP (RB significantly) (JJR better)) (NNS results))))))))) (. .))

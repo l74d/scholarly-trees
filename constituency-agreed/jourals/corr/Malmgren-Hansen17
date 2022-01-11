@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT The) (JJ high) (NN dimensionality)) (PP (IN of) (NP (JJ internal) (NNS representations)))) (CC and) (NP (NP (DT the) (JJ high) (NNS abstractions)) (PP (IN of) (NP (JJ deep) (NNS layers))))) (VP (VBP are) (NP (DT the) (JJ main) (NNS challenges)) (SBAR (WHADVP (WRB when)) (S (VP (VBG visualizing) (NP (NNP Convnet) (NN functionality)))))) (. .))

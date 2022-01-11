@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN instance)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (DT a) (JJ global) (NN state)) (SBAR (WHNP (WDT which)) (S (VP (VBZ indicates) (NP (NP (DT the) (NN occurrence)) (PP (IN of) (NP (DT an) (NN event))))))))))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB uncover) (NP (NP (DT a) (JJ small) (NN set)) (PP (IN of) (NP (NP (JJ discriminative) (NNS subnetworks)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (ADVP (RB optimally)) (VP (VB classify) (NP (JJ global) (NN network) (NNS values))))))))))))) (. .))

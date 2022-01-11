@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN viewed) (PP (IN as) (NP (NP (DT a) (JJ partial) (NN minimization) (NN algorithm)) (PP (IN of) (NP (DT a) (ADJP (RB strictly) (JJ convex)) (NN function))))))))))) (. .))
+(S (S (PP (IN Under) (NP (JJ appropriate) (NNS conditions))) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NN convergence)))) (VP (VBZ is) (ADJP (JJ geometric)))) (CC and) (S (NP (PRP we)) (VP (VBP estimate) (NP (DT the) (NN rate)))) (. .))

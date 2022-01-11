@@ -1,0 +1,2 @@
+(SQ (MD Can) (NP (PRP we)) (VP (VB predict) (SBAR (WHADVP (WRB how) (RB well)) (S (NP (NP (DT a) (NN team)) (PP (IN of) (NP (NNS individuals)))) (VP (MD will) (VP (VB perform) (ADVP (RB together))))))) (. ?))
+(S (NP (PRP We)) (VP (VBP apply) (NP (PRP$ our) (NNS methods)) (S (VP (TO to) (VP (VB study) (NP (NP (NP (NNS teams)) (PP (IN of) (NP (JJ artificial) (NNP RL) (NNS agents)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ real) (NN world) (NNS teams)) (PP (IN from) (NP (JJ professional) (NNS sports))))))))) (. .))

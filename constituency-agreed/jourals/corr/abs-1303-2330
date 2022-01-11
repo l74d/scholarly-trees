@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ anti-forensics) (NN method)) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG removing) (NP (NP (DT the) (NNS traces)) (PP (IN of) (NP (NN image) (NN compression))))))))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBZ is) (VP (VBN targeted) (S (VP (TO to) (VP (VB remove) (NP (NP (DT the) (NN compression) (NNS fingerprints)) (PP (IN of) (NP (NNP JPEG) (NN compression))))))))) (. .))

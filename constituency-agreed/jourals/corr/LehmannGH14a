@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN optimization) (NNS problems)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN approximated) (PP (IN within) (NP (DT any) (JJ constant) (NN factor))))))))) (. .))

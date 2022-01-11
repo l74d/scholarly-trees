@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (ADJP (JJ sufficient) (CC and) (JJ necessary)) (NNS conditions)) (PP (IN for) (NP (NN linearity)))) (VP (VBP are) (VP (VBN found))) (. .))
+(S (ADVP (RB Interestingly)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (JJ conditional) (NN mean) (NN estimator)) (VP (MD can) (RB not) (VP (VB be) (ADJP (JJ linear)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ dark) (JJ current) (NN parameter)) (PP (IN of) (NP (DT the) (NNP Poisson) (NN noise)))) (VP (VBZ is) (ADJP (JJ non-zero))))))))))) (. .))

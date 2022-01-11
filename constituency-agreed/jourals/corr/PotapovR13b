@@ -1,0 +1,2 @@
+(S (NP (JJ Rational) (NNS agents)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN built) (S (VP (TO to) (VP (VB maximize) (NP (NNS rewards))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NNP AGI) (NNS agents)) (VP (MD can) (VP (VB find) (NP (NP (JJ undesirable) (NNS ways)) (PP (IN of) (S (VP (VBG maximizing) (NP (DT any) (JJ prior) (NN reward) (NN function)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ includes) (NP (CD two) (JJ new) (NNS mechanisms))) (. .))
+(S (NP (DT A) (JJ local) (NN search)) (VP (VBZ is) (VP (VBN used) (S (VP (VP (TO to) (VP (VB improve) (NP (NN convergence) (NN speed)))) (CC and) (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN runtime) (NN complexity)) (PP (IN of) (NP (DT the) (NN energy) (NN calculation)))))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (DT a) (JJ local) (NN movement)) (VP (VBZ is) (VP (VBN introduced) (PP (IN within) (NP (DT the) (JJ local) (NN search))))) (. .))

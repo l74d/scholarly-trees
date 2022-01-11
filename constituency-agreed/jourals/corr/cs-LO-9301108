@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN design)) (VP (VBZ is) (ADJP (RB highly) (JJ modular))) (. .))
+(S (NP (DT Each) (NN function)) (VP (VBZ performs) (NP (NP (DT a) (JJ basic) (, ,) (JJ specific) (NN task)) (, ,) (PP (JJ such) (IN as) (S (VP (VBG recognizing) (NP (NP (DT a) (JJ certain) (NN form)) (PP (IN of) (NP (NN tautology))))))))) (. .))
+(S (NP (DT Each) (NN operator)) (VP (VBZ implements) (NP (NP (CD one) (NN method)) (PP (IN of) (S (VP (VBG building) (NP (DT a) (VBG rewriting) (NN function)) (PP (IN from) (NP (JJR simpler) (NNS ones)))))))) (. .))
+(S (NP (DT The) (NN code)) (VP (VBZ is) (PP (IN in) (NP (JJ daily) (NN use))) (PP (IN at) (NP (NNP Cambridge))) (, ,) (S (VP (VBG demonstrating) (NP (NP (DT the) (JJ practical) (NN use)) (PP (IN of) (NP (JJ functional) (NN programming))))))) (. .))

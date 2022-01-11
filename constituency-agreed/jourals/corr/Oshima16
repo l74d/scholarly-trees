@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (DT a) (JJ deterministic) (NN algorithm)) (PP (IN by) (S (VP (VBG derandomizing) (NP (DT that) (NN algorithm)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN expression)) (VP (VBZ covers) (NP (NP (DT the) (NNS cases)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN system) (NN input)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN system) (NNS parameters)))))))) (. .))

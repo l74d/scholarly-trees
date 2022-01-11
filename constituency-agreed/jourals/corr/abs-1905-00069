@@ -1,0 +1,1 @@
+(S (ADVP (RB Also)) (, ,) (NP (NP (ADJP (JJ exact) (CC and) (JJ asymptotic)) (NNS expressions)) (PP (IN for) (NP (DT the) (NN outage) (NN probability)))) (VP (VBP are) (VP (VBN provided) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ valid) (PP (IN for) (NP (NP (DT any) (NN choice)) (PP (IN of) (NP (NN baseline) (VBG fading) (NN distribution))))))))))) (. .))

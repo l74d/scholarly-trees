@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (ADVP (RB even)) (VP (VBG using) (NP (NN normalization)) (PP (IN on) (NP (JJ large) (NNS texts))))) (, ,) (NP (NP (DT the) (NN curse)) (PP (IN of) (NP (NN dimensionality)))) (VP (MD can) (VP (VB disturb) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNS summarizers)))))) (. .))
+(S (NP (NP (NNS Summaries)) (PP (IN on) (NP (JJ trilingual) (NNS corpora)))) (VP (VBD were) (VP (VBN evaluated) (ADVP (RB automatically)) (PP (IN with) (NP (NNP Fresa))))) (. .))

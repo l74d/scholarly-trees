@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN estimator)) (VP (VBZ takes) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (DT a) (JJ weighted) (NN kernel) (NN estimator)) (PP (IN with) (NP (NP (NNS weights)) (SBAR (WHNP (WDT that)) (S (VP (VBP vary) (ADVP (RB adversarially))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (NN benchmark) (NNS datasets)))) (VP (VBD demonstrated) (SBAR (IN that) (S (NP (PRP$ our) (VBN proposed) (NN dlADMM) (NN algorithm)) (VP (VBZ outperforms) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN comparison) (NNS methods)))))))) (. .))

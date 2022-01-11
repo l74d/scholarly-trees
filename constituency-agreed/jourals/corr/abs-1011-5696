@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN solution)) (PP (IN for) (NP (NP (DT the) (NN vulnerability)) (PP (IN of) (NP (NN trust)))))) (VP (MD must) (ADVP (RB thus)) (VP (VB be) (VP (VBN sought) (ADVP (RB elsewhere)) (, ,) (PP (IN without) (S (VP (VBG tampering) (PP (IN with) (NP (PRP$ its) (NN distribution))))))))) (. .))
+(S (NP (NP (DT The) (NN method)) (VP (VBN used) (S (VP (TO to) (VP (VB break) (NP (NN privacy))))))) (VP (VBZ is) (ADVP (RB thus)) (ADVP (RB also)) (VP (VBN used) (S (VP (TO to) (VP (VB secure) (NP (NN trust))))))) (. .))

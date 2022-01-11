@@ -1,0 +1,3 @@
+(S (NP (DT These) (NNS structures)) (VP (VBP are) (VP (VBN modeled) (PP (IN with) (NP (DT a) (JJ nonlinear) (JJ hyperelastic) (NN shell) (NN model))))) (. .))
+(S (NP (DT These) (NNS solutions)) (VP (VBP are) (VP (VBN used) (PP (IN for) (NP (NP (DT the) (NN verification)) (PP (IN of) (NP (DT the) (JJ numerical) (NNS results))))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ several) (NNS examples))))))) (. .))

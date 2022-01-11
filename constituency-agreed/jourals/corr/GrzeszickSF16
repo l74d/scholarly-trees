@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN method)) (PP (IN for) (S (VP (VBG adjusting) (NP (NP (DT the) (NN network) (POS 's)) (NNS predictions)) (PP (VBN based) (PP (IN on) (NP (NN uncertainty) (NN information)))))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (PP (IN Besides) (NP (DT the) (JJ methodological) (NNS aspects))) (, ,) (NP (NP (NN implementation) (NNS details)) (VP (VBG allowing) (PP (IN for) (NP (DT a) (JJ fast) (NN evaluation))))) (VP (VBP are) (VP (VBN presented))) (. .))

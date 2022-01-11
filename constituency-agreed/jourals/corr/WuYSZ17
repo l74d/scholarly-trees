@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB catch) (NP (DT the) (JJ spatial) (NN information))))) (, ,) (NP (JJ spatial) (NNS pyramids)) (VP (VBP are) (VP (VBN exploited) (S (VP (TO to) (VP (VB encode) (NP (NNP CNN) (NNS features))))))) (. .))
+(S (NP (PRP We)) (VP (VBD experimented) (PP (IN with) (NP (NP (DT a) (NN dataset)) (PP (IN of) (NP (NP (CD 10) (NNS categories)) (PP (IN of) (NP (NN traffic) (NNS scenes))))))) (, ,) (PP (IN with) (NP (JJ satisfactory) (NN categorization) (NNS performances)))) (. .))

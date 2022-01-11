@@ -1,0 +1,2 @@
+(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT some) (NNS variants)) (PP (IN of) (NP (NP (DT the) (JJ original) (NN definition)) (PP (IN of) (NP (DT a) (JJ strategic) (NN game))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VP (VBP introduce) (NP (NP (DT the) (NNS basics)) (PP (IN of) (NP (NN mechanism) (NN design))))) (CC and) (VP (VB use) (NP (JJ pre-Bayesian) (NNS games)) (S (VP (TO to) (VP (VB explain) (NP (PRP it))))))) (. .))

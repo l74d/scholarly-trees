@@ -1,0 +1,1 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (JJ recent) (JJ theoretical) (NNS results)) (VP (VBP suggest) (SBAR (IN that) (S (NP (JJ adversarial) (NN training)) (VP (VBZ induces) (NP (NP (DT a) (JJ strict) (NN tradeoff)) (PP (IN between) (NP (NP (NN classification) (NN accuracy)) (CC and) (NP (JJ adversarial) (NN robustness))))))))) (. .))

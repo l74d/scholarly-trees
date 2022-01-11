@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ general) (JJ dual) (NN ascent) (NN framework)) (PP (IN for) (NP (NP (NNP Lagrangean) (NN decomposition)) (PP (IN of) (NP (JJ combinatorial) (NNS problems))))))) (. .))
+(S (PP (IN In) (NP (PRP$ his) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (PDT such) (DT a) (JJ general) (NN algorithm))) (. .))

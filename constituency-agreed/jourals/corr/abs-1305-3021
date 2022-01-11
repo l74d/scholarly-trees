@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN information) (NN spread)) (VP (MD will) (VP (VB ensure) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (DT the) (NN watermark) (NNS data)))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN scheme)) (VP (VBZ has) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB withstand) (NP (JJ malicious) (NNS operations) (CC and) (NNS attacks))))))) (. .))

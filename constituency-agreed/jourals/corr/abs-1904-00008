@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN research)) (PP (IN on) (NP (JJ aerial) (NN manipulation) (NNS systems)))) (VP (VBZ has) (VP (VBN been) (VP (VBN increased) (ADVP (RB rapidly)) (PP (IN in) (NP (JJ recent) (NNS years)))))) (. .))
+(S (PP (IN For) (NP (NN teleoperation) (NN purpose))) (, ,) (NP (DT the) (NN contact) (NN force)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBN identified)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (VBN proposed) (NN segmentation) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NNS superpixels))))) (. .))
+(S (NP (DT A) (NN majority) (NN voting)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG obtaining) (NP (DT an) (JJ initial) (NN segmentation) (NN map)) (PP (IN from) (NP (DT these) (CD three) (NN superpixel) (NNS scales)))))))) (. .))

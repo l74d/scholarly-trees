@@ -1,0 +1,2 @@
+(S (NP (NP (DT This) (NN observation)) (VP (VBN made) (PP (IN by) (NP (NNP Uspensky))))) (VP (VBZ explains) (SBAR (WHADVP (WRB why)) (S (NP (NP (JJ many) (NNS theorems)) (PP (IN of) (NP (NN recursion) (NN theory)))) (VP (MD can) (VP (VB be) (VP (VBN relativized))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ main) (NN result)) (PP (IN of) (NP (DT the) (JJ present) (NN article))))) (. .))

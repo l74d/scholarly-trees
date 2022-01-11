@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (NP (NP (DT the) (NN consistency)) (PP (IN of) (NP (DT this) (NN extension)))) (PP (IN by) (NP (DT a) (NN normalization) (NN argument)))) (. .))
+(S (S (NP (NP (NNP Markov) (POS 's)) (NN principle)) (VP (VBZ does) (RB not) (VP (VB hold) (PP (IN in) (NP (DT this) (NN extension)))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ follows) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN proved) (PP (IN in) (NP (NN type) (NN theory)))))))))) (. .))

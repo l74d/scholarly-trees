@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ intractable) (JJ posterior) (NN probability) (NNS distributions)) (PP (IN over) (NP (NNS weights)))) (VP (VBP are) (VP (VBN inferred) (PP (IN by) (NP (NNP Bayes))) (PP (IN by) (NP (NNP Backprop))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (JJ reliable) (JJ variational) (NN inference) (NN method)) (VP (MD can) (VP (VB serve) (PP (IN as) (NP (NP (DT a) (JJ fundamental) (NN construct)) (PP (IN for) (NP (JJ various) (NN network) (NNS architectures)))))))))) (. .))

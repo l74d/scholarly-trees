@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT that) (NN case))) (, ,) (NP (NP (NN addition)) (PRN (-LRB- -LRB-) (CC and) (ADVP (RBR more) (RB generally)) (NP (NP (NN normalization)) (PP (IN on) (NP (DT any) (NN alphabet)))) (-RRB- -RRB-))) (VP (VBZ is) (ADJP (JJ realizable) (PP (IN by) (NP (DT a) (JJ finite) (NN transducer))))) (. .))

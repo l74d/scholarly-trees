@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN success)) (PP (IN of) (NP (NNP NAS)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (DT the) (NN search) (NN space)))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN formalism))) (, ,) (S (NP (DT each) (NN decision)) (VP (VBZ is) (NP (DT a) (NN vertex)))) (CC and) (S (NP (DT each) (NN action)) (VP (VBZ is) (NP (DT an) (NN edge)))) (. .))

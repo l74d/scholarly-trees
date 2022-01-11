@@ -1,0 +1,2 @@
+(S (PP (IN For) (S (VP (VBG measuring) (NP (DT these) (NNS factors))))) (, ,) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB express) (NP (PRP them)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS metrics) (CC or) (NNS models))))))))) (. .))
+(S (NP (NNS Researchers)) (VP (VBP have) (VP (VBN developed) (NP (NP (NN quality) (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (VBP attempt) (S (VP (TO to) (VP (VB measure) (NP (NN quality)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS attributes) (, ,) (NNS characteristics) (CC and) (NNS metrics)))))))))))))) (. .))

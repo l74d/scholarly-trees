@@ -1,0 +1,2 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT these) (NNS technologies)))) (VP (VBP function) (PP (VBN based) (PP (IN on) (NP (NP (NN estimation) (, ,) (NN extraction) (, ,) (CC and) (NN characterization)) (PP (IN of) (NP (NN tremor) (NN movement) (NNS signals))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (NN design) (, ,) (NN implementation) (CC and) (NN evaluation)) (PP (IN of) (NP (NNP WAKE)))) (VP (VBP are) (VP (VBN given))) (. .))

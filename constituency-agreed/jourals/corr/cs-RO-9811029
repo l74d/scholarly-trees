@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT An) (NN interface)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (S (NP (DT the) (NN transfer)) (ADJP (JJ possible))))))) (VP (VBZ is) (VP (VBN described)))) (, ,) (CC and) (S (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (PRP$ its) (NN use)) (PP (IN in) (NP (DT a) (JJ virtual) (NN environment)))))) (VP (VBZ is) (VP (VBN shown)))) (. .))

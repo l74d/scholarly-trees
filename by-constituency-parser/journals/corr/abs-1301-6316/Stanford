@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN data) (NN representation) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ demonstrates) (NP (NP (JJ hierarchical) (NN feature) (NN learning)) (VP (VBG using) (NP (NN nsNMF))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (NN unit) (NN algorithm)) (PP (IN into) (NP (JJ several) (NNS layers)))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN with) (NP (NN document) (CC and) (NN image) (NNS data)))) (ADVP (RB successfully)) (VP (VBD discovered) (NP (NN feature) (NNS hierarchies))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (JJ proposed) (NN method) (NNS results)) (PP (IN in) (NP (NP (ADJP (RB much) (JJR better)) (NML (NN classification) (CC and) (NN reconstruction)) (NN performance)) (, ,) (ADVP (RB especially))))) (PP (IN for) (NP (NP (JJ small) (NN number)) (PP (IN of) (NP (NNS features)))))))) (. .))
+(NP (NN feature) (NNS hierarchies) (. .))

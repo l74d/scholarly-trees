@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN variety)) (PP (IN of) (NP (NN loss) (NNS functions)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB achieve) (NP (DT this) (NN goal)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (DT the) (JJ large) (NN margin) (NN softmax) (NN loss)) (PP (IN with) (NP (NP (JJ different) (NNS configurations)) (PP (IN in) (NP (NN speaker) (NN verification)))))) (. .))

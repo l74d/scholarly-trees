@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN map)) (VP (VBZ is) (ADJP (JJ basic) (S (VP (TO to) (VP (VB design) (NP (DT the) (NN trajectory))))))) (. .))
+(S (NP (DT The) (NN obstacle) (NN avoidance)) (VP (VBZ is) (VP (VBN addressed) (PP (IN with) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN sonar) (NNS sensors))))))) (. .))
+(S (S (NP (NNS Experiments)) (VP (VBP have) (VP (VBN been) (VP (VBN conducted))))) (CC and) (S (NP (DT the) (NN result)) (VP (VBZ is) (VP (VBN encouraged)))) (. .))

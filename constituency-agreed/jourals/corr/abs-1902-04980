@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG integrating) (NP (NN uncertainty)) (PP (IN into) (NP (DT the) (JJ hidden) (NNS states)))))) (, ,) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NN network)))) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB learn) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (JJ complex) (NNS sequences))))))))) (. .))

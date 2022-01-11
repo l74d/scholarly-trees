@@ -1,0 +1,3 @@
+(S (NP (NN Information) (NN entropy)) (VP (VBZ is) (NP (NP (DT an) (ADJP (JJ important) (CC and) (JJ effective)) (NN method)) (PP (IN for) (S (VP (VBG measuring) (NP (NN uncertainty))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT the) (NN information) (NN entropy) (NN theory)))) (, ,) (NP (NP (DT a) (JJ new) (NN algorithm)) (VP (VBG using) (NP (NN information) (NN entropy)) (S (VP (TO to) (VP (VB evaluate) (NP (DT a) (NN classification) (NN result))))))) (VP (VBZ is) (VP (VBN developed))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ experimental) (NN analysis) (NN section))) (, ,) (NP (NP (CD six) (NNS databases)) (CC and) (NP (CD four) (VBN proposed) (NNS algorithms))) (VP (VBP are) (VP (VBN executed))) (. .))

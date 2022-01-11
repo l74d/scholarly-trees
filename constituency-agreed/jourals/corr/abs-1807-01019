@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP test) (NP (DT the) (VBG resulting) (NN model)) (PP (IN in) (NP (DT an) (NN optimization) (NN framework))) (, ,) (S (VP (VBG using) (NP (JJ symbolic) (NN regression) (NN problem) (NNS instances)) (PP (IN as) (NP (DT a) (NN benchmark)))))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (VBZ provides) (NP (JJ valuable) (NN information)))))) (. .))

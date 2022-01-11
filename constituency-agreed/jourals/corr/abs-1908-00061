@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Methods)) (VP (VBN used) (PP (IN in) (NP (JJ conditional) (NN computation))))) (VP (VB define) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (DT these) (NNS transformations)))) (PP (IN as) (NP (NP (JJ learnable) (NNS functions)) (PP (IN of) (NP (VBG conditioning) (NN information)))))) (. .))

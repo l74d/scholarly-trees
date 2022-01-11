@@ -1,0 +1,2 @@
+(S (NP (DT That) (NN extension) (NN task)) (VP (MD can) (VP (VB be) (VP (VBN considered) (PP (IN as) (NP (DT an) (NN optimisation) (NN problem)))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (NP (DT the) (JJ multi-objective) (JJ evolutionary) (NN approach)) (PP (IN for) (NP (DT the) (NNS breakwaters) (NN optimisation)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (NNS cases))) (, ,) (NP (JJ such) (NNS networks)) (VP (VBP contain) (NP (NP (NP (JJ multiple) (NNS types)) (PP (IN of) (NP (NNS objects) (CC and) (NNS links)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ different) (NNS kinds)) (PP (IN of) (NP (NNS attributes)))))) (. .))
+(S (NP (NP (DT The) (NN clustering)) (PP (IN of) (NP (DT these) (NNS objects)))) (VP (MD can) (VP (VB provide) (NP (JJ useful) (NNS insights)) (PP (IN in) (NP (JJ many) (NNS applications))))) (. .))

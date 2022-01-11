@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ executes) (PP (IN in) (NP (JJ synchronous) (NNS rounds))) (PP (IN without) (S (VP (VBG exchanging) (NP (DT any) (NN message)))))) (. .))

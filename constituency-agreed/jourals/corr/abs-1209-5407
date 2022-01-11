@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT both) (NNS cases))) (NP (PRP we)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (NP (NP (JJ syntactical) (NNS properties)) (PP (IN of) (NP (NP (JJ residual) (NNS programs)) (VP (VBN produced) (PP (IN by) (NP (NN supercompilation)))))))))) (. .))
+(S (NP (DT The) (NN interpreter)) (VP (MD may) (ADVP (RB also)) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT an) (NN encoding)) (PP (IN of) (NP (DT a) (JJ non-deterministic) (NN protocol)))))))) (. .))

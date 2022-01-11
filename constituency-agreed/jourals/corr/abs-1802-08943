@@ -1,0 +1,2 @@
+(S (NP (NNP Intergroup) (NN migration)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN permitted))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP simulate) (NP (NP (DT a) (JJ discrete) (NN time) (NN version)) (PP (IN of) (NP (DT the) (NN model))))) (. .))

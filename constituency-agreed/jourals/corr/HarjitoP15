@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN technique)) (VP (VBZ is) (ADJP (JJ robust) (PP (IN against) (NP (NP (NNS data) (NN deletion)) (, ,) (NP (NN packet) (NN replication)) (CC and) (NP (NNP Sybil) (NNS attacks)))))))

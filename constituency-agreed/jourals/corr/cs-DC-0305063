@@ -1,0 +1,2 @@
+(S (S (VP (VBN Described) (PP (IN at) (NP (NNP CHEP) (CD 2001))))) (, ,) (NP (NNP McRunjob)) (VP (VBZ converts) (NP (NN core) (NN metadata)) (PP (IN into) (NP (NP (NNS jobs)) (ADJP (JJ submittable) (PP (IN in) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS environments))))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ has) (NP (NP (JJ simple) (NN control) (NNS structures)) (PP (IN for) (NP (NP (NN parallelization)) (PP (IN of) (NP (JJ large) (NNS jobs))))))) (. .))

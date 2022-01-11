@@ -1,0 +1,2 @@
+(S (S (VP (VBG Analyzing) (NP (JJ frequent) (NN itemset)))) (VP (VBZ is) (NP (NP (DT a) (JJ crucial) (NN step)) (PP (PP (IN in) (S (VP (VBG analysing) (NP (VBN structured) (NNS data))))) (CC and) (PP (IN in) (S (VP (VBG finding) (NP (NP (NN association) (NN relationship)) (PP (IN between) (NP (NNS items)))))))))) (. .))
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (NP (DT the) (VBN structured) (NNS data)) (PP (IN in) (NP (JJ scientific) (NN domain)))))) (VP (VBP are) (ADJP (JJ voluminous))) (. .))

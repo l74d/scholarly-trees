@@ -1,0 +1,2 @@
+(S (NP (NN Feature) (NN redundancy)) (VP (VBZ exercises) (NP (JJ great) (NN influence)) (PP (IN on) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN classification) (NN process)))))) (. .))
+(S (PP (IN Towards) (NP (DT the) (JJR better) (NN classification) (NN performance))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ addresses) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (S (VP (VBG truncating) (NP (DT the) (ADJP (ADJP (RB highly) (VBN correlated)) (CC and) (ADJP (JJ redundant))) (NNS attributes))))))) (. .))

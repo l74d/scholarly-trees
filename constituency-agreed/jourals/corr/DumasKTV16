@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN preconditioner)) (VP (VP (VBZ takes) (NP (JJ linear) (NN time)) (S (VP (TO to) (VP (VB be) (VP (VBN applied)))))) (CC and) (VP (VBZ uses) (NP (QP (RB only) (CD two)) (JJ random) (NNS entries)))) (. .))

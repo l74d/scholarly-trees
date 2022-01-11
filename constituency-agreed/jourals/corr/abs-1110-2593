@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (NNS samples)) (VP (VBP are) (VP (VBN acquired) (PP (IN in) (NP (DT the) (NN time) (NN domain))))))) (, ,) (NP (DT this)) (VP (VBZ means) (SBAR (IN that) (S (NP (DT the) (NNS sensors)) (VP (VBP need) (RB not) (VP (VB be) (VP (VBN synchronized))))))) (. .))

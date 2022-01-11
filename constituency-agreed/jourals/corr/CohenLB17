@@ -1,0 +1,3 @@
+(S (S (VP (VBG Counting) (NP (NNS objects)) (PP (IN in) (NP (JJ digital) (NNS images))))) (VP (VBZ is) (NP (NP (DT a) (NN process)) (SBAR (WHNP (WDT that)) (S (VP (MD should) (VP (VB be) (VP (VBN replaced) (PP (IN by) (NP (NNS machines)))))))))) (. .))
+(S (NP (DT The) (NN regression) (NN network)) (VP (VBZ predicts) (NP (NP (DT a) (NN count)) (PP (IN of) (NP (NP (DT the) (NNS objects)) (SBAR (WHNP (WDT that)) (S (VP (VBP exist) (PP (IN inside) (NP (DT this) (NN frame)))))))))) (. .))
+(S (S (VP (TO To) (VP (VB recover) (NP (DT the) (JJ true) (NN count))))) (NP (PRP we)) (VP (VBP take) (NP (NP (DT the) (NN average)) (PP (IN over) (NP (DT the) (JJ redundant) (NNS predictions))))) (. .))

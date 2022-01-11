@@ -1,0 +1,2 @@
+(S (NP (JJ Thematic) (NN information)) (VP (VBZ is) (VP (VBN represented) (PP (IN as) (NP (JJ thematic) (NNS propositions))) (PP (IN on) (NP (NP (DT the) (NN base)) (PP (IN of) (NP (NN domain) (NN ontology))))))) (. .))
+(S (ADVP (RB Then)) (NP (DT the) (NN similarity)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (NP (JJ thematic) (NN similarity)) (CC and) (NP (JJ spatial) (NN similarity)))))) (. .))

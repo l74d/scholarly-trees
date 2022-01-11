@@ -1,0 +1,4 @@
+(S (NP (NNS Packets)) (VP (VBP arrive) (PP (IN over) (NP (NN time)))) (. .))
+(S (NP (DT Each) (NN packet)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (DT a) (JJ non-negative) (NN value)) (CC and) (NP (DT an) (NN integer) (NN deadline)))))) (. .))
+(S (NP (PRP$ Our) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (JJ total) (NN value)) (VP (VBN gained) (PP (IN by) (NP (NP (DT the) (NNS packets)) (VP (VBN sent) (PP (IN by) (NP (PRP$ their) (NNS deadlines))) (PP (IN in) (NP (DT an) (JJ online) (NN manner)))))))))))) (. .))
+(S (NP (NP (DT The) (JJ algorithmic) (NN framework)) (CC and) (NP (PRP$ its) (JJ theoretical) (NN analysis))) (VP (VBP include) (NP (JJ several) (JJ interesting) (NNS features))) (. .))

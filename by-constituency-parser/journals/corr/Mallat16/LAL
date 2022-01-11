@@ -1,0 +1,5 @@
+(S (NP (JJ Deep) (JJ convolutional) (NNS networks)) (VP (VBP provide) (NP (NP (NAC (NN state) (PP (IN of) (NP (DT the) (NN art)))) (NNS classifications) (CC and) (NNS regressions) (NNS results)) (PP (IN over) (NP (JJ many) (JJ high-dimensional) (NNS problems))))) (. .))
+(S (NP (PRP We)) (VP (VBP review) (NP (NP (PRP$ their) (NN architecture)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ scatters) (NP (NNS data)) (PP (IN with) (NP (NP (DT a) (NN cascade)) (PP (IN of) (NP (NP (JJ linear) (NN filter) (NNS weights)) (CC and) (NP (NNS non-linearities))))))))))) (. .))
+(S (NP (DT A) (JJ mathematical) (NN framework)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB analyze) (NP (PRP$ their) (NNS properties))))))) (. .))
+(S (NP (NP (NNS Computations)) (PP (IN of) (NP (NNS invariants)))) (VP (VBP involve) (NP (NP (JJ multiscale) (NNS contractions)) (, ,) (NP (NP (DT the) (NN linearization)) (PP (IN of) (NP (JJ hierarchical) (NNS symmetries)))) (, ,) (CC and) (NP (JJ sparse) (NNS separations)))) (. .))
+(S (NP (NNS Applications)) (VP (VBP are) (VP (VBN discussed))) (. .))

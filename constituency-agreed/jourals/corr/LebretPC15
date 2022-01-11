@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN model)) (VP (VBZ has) (NP (NP (DT a) (JJ strong) (NN focus)) (PP (IN on) (NP (NP (DT the) (NN syntax)) (PP (IN of) (NP (DT the) (NNS descriptions))))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ is) (ADVP (RB then)) (ADJP (JJ able) (S (VP (TO to) (VP (VB infer) (NP (NNS phrases)) (PP (IN from) (NP (DT a) (VBN given) (NN image) (NN sample)))))))) (. .))

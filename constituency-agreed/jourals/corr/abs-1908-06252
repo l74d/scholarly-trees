@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (JJ joint) (NN control) (NN level))) (, ,) (ADVP (RB however)) (, ,) (NP (NP (DT the) (NN robot) (POS 's)) (NNS actuators)) (VP (VBP operate) (PP (IN in) (NP (DT a) (JJ continuous) (NN domain))) (, ,) (S (VP (VBG requiring) (NP (NP (JJ smooth) (NNS transitions)) (PP (IN between) (NP (JJ individual) (NNS states))))))) (. .))

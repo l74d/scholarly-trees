@@ -1,0 +1,1 @@
+(S (NP (DT Any) (NN autoencoder) (NN network)) (VP (MD can) (VP (VB be) (VP (VBN turned) (PP (IN into) (NP (DT a) (JJ generative) (NN model))) (PP (IN by) (S (VP (VBG imposing) (NP (DT an) (JJ arbitrary) (JJ prior) (NN distribution)) (PP (IN on) (NP (PRP$ its) (JJ hidden) (NN code) (NN vector))))))))) (. .))

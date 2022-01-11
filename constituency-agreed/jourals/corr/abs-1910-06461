@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN security) (NN issue)) (PP (IN of) (NP (JJ mobile) (NNS robots)))) (VP (VBP have) (VP (VBN attracted) (NP (JJ considerable) (NN attention)) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN condition)) (VP (VBZ is) (VP (VBN obtained) (S (VP (TO to) (VP (VB guarantee) (NP (NP (DT the) (NN success)) (PP (IN of) (NP (DT the) (NN attack))))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP illustrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN framework))))) (. .))

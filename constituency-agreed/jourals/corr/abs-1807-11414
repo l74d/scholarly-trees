@@ -1,0 +1,2 @@
+(S (NP (JJ Deep) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN gained) (NP (JJ tremendous) (NN popularity)) (PP (IN in) (NP (JJ last) (JJ few) (NNS years))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (DT these) (NNS networks)) (VP (VBP require) (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (NNS data)))) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB generalize))))))))) (. .))

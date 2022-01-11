@@ -1,0 +1,2 @@
+(S (S (NP (NNP Malware)) (VP (MD may) (VP (VB detect) (NP (NN emulation))))) (CC and) (S (PP (IN as) (NP (DT a) (NN result))) (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB execute) (NP (DT the) (NN payload)) (S (VP (TO to) (VP (VB prevent) (NP (DT the) (NN analysis)))))))) (. .))
+(S (NP (NNP Glassbox)) (VP (VBZ is) (NP (NP (DT a) (JJ functional) (NN prototype)) (PP (IN for) (NP (NP (DT the) (JJ dynamic) (NN analysis)) (PP (IN of) (NP (NN malware) (NNS applications))))))) (. .))

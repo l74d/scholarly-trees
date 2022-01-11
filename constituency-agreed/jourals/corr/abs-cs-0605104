@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (NP (DT this) (NN test)) (PP (IN in) (NP (NN hand))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VP (VB develop) (NP (PRP$ our) (VBG parsing) (NN algorithm))) (CC and) (VP (VB prove) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ correct)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN Despite) (S (VP (VBG using) (NP (NP (DT the) (NN method)) (PP (IN of) (NP (JJ pessimistic) (NNS estimators))))))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ has) (NP (DT a) (JJ polynomial) (NN runtime)) (ADVP (RB also)) (PP (IN in) (NP (NP (DT the) (NNP RAM) (NN model)) (PP (IN of) (NP (NN computation)))))) (. .))

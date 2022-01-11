@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (ADVP (RB thus)) (VP (VBZ learns) (S (VP (TO to) (VP (VP (VB generate) (NP (JJ weak) (NNS perturbations))) (, ,) (CONJP (RB rather) (IN than)) (VP (VB defend) (PP (IN against) (NP (JJ strong) (NNS ones)))))))) (. .))

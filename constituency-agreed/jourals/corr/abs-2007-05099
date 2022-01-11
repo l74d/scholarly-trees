@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PDT such) (DT a) (NN manner)) (VP (MD can) (RB not) (VP (VB take) (NP (NP (JJ full) (NN advantage)) (PP (IN of) (NP (DT the) (NN attention) (NN mechanism))))))))) (. .))
+(S (NP (PRP$ Our) (NNP DCANet)) (VP (VBZ is) (ADJP (JJ generic))) (. .))

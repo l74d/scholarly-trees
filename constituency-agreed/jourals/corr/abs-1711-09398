@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG finding) (NP (DT the) (JJ optimum) (NN result)))) (VP (VBZ requires) (NP (NN exploitation))) (. .))
+(S (NP (PRP We)) (VP (VBP utilize) (NP (DT an) (JJ adaptive) (JJ genetic) (NN operator)) (S (VP (TO to) (VP (VP (VB select) (NP (JJ high) (NN fitness) (NNS individuals)) (PP (IN as) (NP (NNS parents)))) (CC and) (VP (VB mutate) (NP (JJ low) (NN fitness) (NNS ones))))))) (. .))

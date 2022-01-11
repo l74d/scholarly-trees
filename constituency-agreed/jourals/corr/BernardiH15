@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN way))) (NP (NP (DT the) (JJ standard) (NN refinement) (NN preorder)) (PP (IN between) (NP (NNS servers)))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (PRP$ their) (NN ability) (S (VP (TO to) (VP (VB satisfy) (NP (NNS clients))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ uniform) (NN account)) (PP (IN of) (NP (DT these) (CD three) (NNS preorders))))) (. .))
+(S (NP (DT The) (JJ first)) (VP (VBZ is) (ADJP (JJ behavioural)) (, ,) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NNS traces)) (CC and) (NP (JJ ready) (NNS sets))))))) (. .))
+(S (NP (NP (DT The) (JJ second)) (, ,) (PP (IN for) (NP (JJ finite) (NNS processes))) (, ,)) (VP (VBZ is) (ADJP (JJ equational))) (. .))

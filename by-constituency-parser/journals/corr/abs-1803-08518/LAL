@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (JJ present) (NP (NP (JJ simple) (JJ graph-theoretic) (NNS characterizations)) (PP (IN of) (NP (NNP Cayley) (NN graphs))) (PP (IN for) (NP (NP (JJ left-cancellative) (NNS monoids)) (, ,) (NP (NNS groups)) (, ,) (NP (NNS left-quasigroups)) (CC and) (NP (NNS quasigroups)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT these) (NNS characterizations)) (VP (VBP are) (ADJP (JJ effective)) (PP (IN for) (NP (NP (DT the) (JJ end-regular) (NN graphs)) (PP (IN of) (NP (JJ finite) (NN degree))))))))) (. .))

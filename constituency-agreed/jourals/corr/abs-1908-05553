@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ many) (NNS methods)) (VP (VBN used) (PP (IN for) (NP (NN speaker) (NN verification)))))) (. .))
+(S (NP (DT The) (NN performance)) (VP (VBD was) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (JJ average)) (SBAR (WHADVP (WRB when)) (S (NP (DT these) (NNS features)) (VP (VBD were) (VP (VBN used) (ADVP (RB independently))))))))))) (. .))
+(S (CC But) (NP (ADJP (RB very) (JJ encouraging)) (NNS results)) (VP (VBD were) (VP (VBN observed) (SBAR (WHADVP (WRB when)) (S (NP (DT both) (NNS features)) (VP (VBD were) (VP (VBN combined) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (NN decision)) (PP (IN for) (NP (NN speaker) (NN verification))))))))))))) (. .))

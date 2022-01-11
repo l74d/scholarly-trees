@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ fast) (NAC (NNP Central) (NNP Processing) (NNP Unit) (PRN (-LRB- -LRB-) (NNP CPU) (-RRB- -RRB-))) (NN implementation)) (PP (IN of) (NP (JJ geodesic) (JJ morphological) (NNS operations))) (VP (VBG using) (NP (NN stream) (NN processing))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ discrete) (NN scheme)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN method)) (PP (IN of) (NP (JJ discrete) (NNS singularities))))))) (. .))
+(S (NP (NP (DT The) (NN convergence)) (PP (IN of) (NP (DT the) (VBN proposed) (JJ numerical) (NN method)))) (VP (VBZ is) (VP (VBN demonstrated))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (S (VP (TO to) (VP (VB accelerate) (NP (DT the) (NN training) (NN process))))) (, ,) (NP (PRP we)) (VP (VBP do) (NP (JJ exponential) (NN decay)) (PP (IN on) (NP (NP (DT the) (NN population) (NN size)) (PP (IN of) (NP (DT the) (JJ genetic) (NN algorithm)))))) (. .))

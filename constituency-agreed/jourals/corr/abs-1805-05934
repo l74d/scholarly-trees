@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (NN interoperability) (NNS challenges)) (VP (VBP are) (VP (VBN discussed) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ cross-domain) (NNS transactions))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS principles)) (VP (VBP are) (VP (VBG informing) (NP (NP (DT the) (NN interoperability) (NN architecture)) (PP (IN of) (NP (DT the) (NNP MIT) (NNP Tradecoin) (NN system))))))))) (. .))

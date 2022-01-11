@@ -1,0 +1,1 @@
+(S (NP (VBN Supervised) (NN learning)) (VP (VBZ is) (NP (NP (DT the) (NN mainstay)) (PP (IN of) (NP (JJ current) (NNS approaches)))) (, ,) (SBAR (IN though) (S (NP (PRP$ its) (NN success)) (VP (VBZ requires) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ large) (, ,) (ADJP (RB fully) (VBN labeled)) (NNS datasets)))))))) (. .))

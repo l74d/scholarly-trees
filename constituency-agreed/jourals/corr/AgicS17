@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP experiment) (PP (IN with) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS baselines)))))) (. .))
+(S (NP (PRP$ Our) (NNS systems)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (JJ cross-lingual) (NN word) (NNS embeddings)) (CC and) (NP (NN machine) (NN translation)))))) (. .))

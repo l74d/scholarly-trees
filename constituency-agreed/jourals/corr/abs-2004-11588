@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN user) (NN review) (NNS data)) (VP (VBP have) (VP (VBN been) (VP (VBN demonstrated) (S (VP (TO to) (VP (VB be) (ADJP (JJ effective) (PP (IN in) (S (VP (VBG solving) (NP (JJ different) (NN recommendation) (NNS problems)))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS methods)) (ADVP (RB mainly)) (VP (VBP capture) (NP (NP (DT the) (ADJP (JJ local) (CC and) (JJ consecutive)) (NN dependency)) (PP (IN between) (NP (NP (VBG neighbouring) (NNS words)) (PP (IN in) (NP (DT a) (NN word) (NN window))))))) (. .))

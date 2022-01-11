@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN integration)) (PP (IN of) (NP (JJ immigrant) (NNS communities)))) (VP (MD may) (VP (VB be) (VP (VBN affected) (PP (IN by) (NP (NP (JJ social) (NN polarization)) (CC and) (NP (JJ spatial) (NN segregation))))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (VBP are) (NP (DT these) (NNS dynamics)) (VP (VBG evolving) (PP (IN over) (NP (NN time))))) (. ?))
+(S (S (NP (JJ Such) (NNS sources)) (VP (VBP are) (ADJP (JJ safe) (S (VP (TO to) (VP (VB avoid) (NP (JJ spurious) (NNS biases)))))))) (, ,) (CC but) (S (NP (DT the) (NNS data) (NN collection)) (VP (VBZ becomes) (NP (DT an) (ADJP (ADJP (JJ intensive)) (CC and) (ADJP (RB rather) (JJ expensive))) (NN work)))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ brings) (NP (PRP us)) (NP (JJ two-fold) (NNS benefits))) (. .))
+(S (PP (IN In) (NP (NN training))) (, ,) (NP (PRP it)) (VP (VBZ allows) (NP (NP (JJ joint) (NN optimization)) (PP (IN over) (NP (NP (DT the) (JJ deep) (NNS networks)) (VP (VBG dealing) (PP (IN with) (NP (JJ different) (NN input) (NNS scales)))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP$ our) (NN approach)) (VP (VBZ enjoys) (NP (JJR better) (NN convergence) (NNS properties)) (, ,) (S (VP (VBG making) (S (NP (PRP it)) (ADJP (RBR more) (JJ efficient) (CC and) (JJ reliable)) (PP (IN in) (NP (NN practice))))))) (. .))

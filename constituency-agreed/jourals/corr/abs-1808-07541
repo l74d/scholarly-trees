@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ general) (NN purpose)) (PP (IN of) (NP (DT a) (JJ scientific) (NN publication)))) (VP (VBZ is) (NP (NP (DT the) (NN exchange) (CC and) (NN spread)) (PP (IN of) (NP (NN knowledge))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (ADVP (RB here)) (NP (PRP I)) (VP (VBP propose) (NP (NP (DT a) (NN data) (NN citation) (NN format)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (PP (IN for) (NP (NP (DT an) (JJ automatic) (NN reproduction)) (PP (IN of) (NP (DT all) (NNS computations)))))))))) (. .))

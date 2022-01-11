@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (NP (NP (NN today) (POS 's)) (JJ abundant) (NNS streams)) (PP (IN of) (NP (NNS data))))) (, ,) (NP (NP (DT the) (JJ only) (NN constant)) (SBAR (S (NP (PRP we)) (VP (MD can) (VP (VB rely) (PP (IN on))))))) (VP (VBZ is) (NP (NN change))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN by) (S (VP (VP (VBG monitoring) (NP (DT the) (NN model) (NN error))) (, ,) (CC and) (VP (VBG triggering) (NP (NN counter) (NNS measures)) (SBAR (IN as) (S (NP (NNS changes)) (VP (VBP occur))))))))))) (. .))

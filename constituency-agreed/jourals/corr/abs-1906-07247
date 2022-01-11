@@ -1,0 +1,2 @@
+(S (NP (NN Activity) (NN recognition)) (VP (VBZ is) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB identify) (CC and) (VB recognize) (NP (NP (DT the) (NN action) (CC or) (NNS goals)) (PP (IN of) (NP (DT the) (NN agent))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ such) (NNS applications)) (VP (VBP require) (NP (NP (JJ physical) (NN contact)) (PP (IN of) (NP (DT the) (NN person))))) (. .))

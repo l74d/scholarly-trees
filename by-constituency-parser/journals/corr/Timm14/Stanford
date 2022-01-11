@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNP Voynich) (NN manuscript)) (VP (VBZ is) (NP (NP (DT a) (JJ medieval) (NN book)) (VP (VBN written) (PP (IN in) (NP (DT an) (JJ unknown) (NN script)))))) (. .))
+(FRAG (NP (DT This) (NN paper) (NNS studies)) (NP (NP (DT the) (NN relation)) (PP (IN between) (NP (NP (ADJP (RB similarly) (VBN spelled)) (NNS words)) (PP (IN in) (NP (DT the) (NNP Voynich) (NN manuscript)))))) (. .))
+(S (PP (IN By) (NP (NP (NNS means)) (PP (IN of) (NP (NP (DT a) (JJ detailed) (NN analysis)) (PP (IN of) (NP (ADJP (JJ similar) (VBN spelled)) (NNS words))))))) (NP (PRP it)) (VP (VBD was) (ADJP (JJ possible) (S (VP (TO to) (VP (VB reveal) (NP (NP (DT the) (NN text) (NN generation) (NN method)) (VP (VBN used) (PP (IN for) (NP (DT the) (NNP Voynich) (NN manuscript)))))))))) (. .))

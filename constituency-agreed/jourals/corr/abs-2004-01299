@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ unsupervised) (NN case))) (, ,) (NP (JJ many) (JJ popular) (NNS algorithms)) (VP (VBP aim) (PP (IN at) (S (VP (VBG maintaining) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT the) (JJ original) (NNS data)))))))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP validate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN feature) (NN selection) (NN scheme))))) (. .))

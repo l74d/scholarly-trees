@@ -1,0 +1,2 @@
+(S (NP (JJ Deep) (JJ convolutional) (JJ neural) (NNS networks)) (VP (VBP demonstrate) (NP (JJ impressive) (NNS results)) (PP (IN in) (NP (DT the) (NN super-resolution) (NN domain)))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP handle) (NP (NN super-resolution)) (PP (IN with) (NP (DT a) (JJ multi-objective) (NN approach)))) (. .))

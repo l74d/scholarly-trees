@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN payload) (NNS angles)) (VP (VBP are) (ADVP (RB then)) (VP (VBN determined) (S (VP (VBG using) (NP (NP (JJ linear) (NN triangulation)) (PP (IN of) (NP (DT the) (NN image) (NNS points)))))))) (. .))
+(S (NP (DT An) (JJ extended) (NNP Kalman) (NN filter)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NP (NN estimation)) (PP (IN of) (NP (NP (NN payload) (NNS angles)) (CC and) (NP (JJ angular) (NN velocity)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (NN Research)) (PP (IN in) (NP (NN blockchain) (NNS systems)))) (VP (VBZ has) (ADVP (RB mainly)) (VP (VBN focused) (PP (IN on) (S (VP (VP (VBG improving) (NP (NN security))) (CC and) (VP (VBG bridging) (NP (NP (DT the) (NN performance) (NNS gaps)) (PP (IN between) (NP (NNS blockchains) (CC and) (NNS databases)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (PRP$ our) (NN vision)) (PP (IN of) (NP (JJ interoperable) (NNS blockchains))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (CD three) (JJ open) (NNS problems)) (: :) (NP (NP (NN access) (NN control)) (, ,) (NP (JJ general) (NN cross-chain) (NNS transactions)) (, ,) (CC and) (NP (JJ cross-chain) (NN communication))))) (. .))

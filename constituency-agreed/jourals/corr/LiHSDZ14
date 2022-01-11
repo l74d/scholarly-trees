@@ -1,0 +1,2 @@
+(S (NP (JJ Spectral) (NN clustering)) (VP (VBZ is) (NP (NP (DT a) (JJ powerful) (NN tool)) (PP (IN for) (NP (JJ unsupervised) (NNS data) (NN analysis))))) (. .))
+(S (S (VP (VBG Using) (NP (DT both) (NNP CAHSM) (CC and) (NNP DHPC)))) (, ,) (NP (DT a) (JJ robust) (JJ spectral) (NN clustering) (NN algorithm)) (VP (VBZ is) (VP (VBN developed))) (. .))

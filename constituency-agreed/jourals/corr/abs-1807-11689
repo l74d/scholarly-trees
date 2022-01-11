@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN separation)) (VP (VBZ seeks) (S (VP (TO to) (VP (VB improve) (NP (JJ human) (NN readability)))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ adopts) (NP (NP (DT a) (JJ hierarchical) (NN learning) (NN structure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ combines) (NP (NP (JJ multiple) (NNS variants)) (PP (IN of) (NP (JJ neural) (NN document) (NN pair) (NNS encoders)))) (PP (IN with) (NP (NP (DT a) (JJ comprehensive) (NN set)) (PP (IN of) (NP (JJ explicit) (NNS features)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Secondly)) (, ,) (NP (NN network) (NN architecture)) (VP (VBZ is) (VP (VBN evolved) (PP (IN with) (NP (NP (DT the) (NN guidance)) (PP (IN of) (NP (NN block) (NNS credits))))) (S (VP (TO to) (VP (VB acquire) (NP (JJ accurate) (NN super-resolution) (NN network))))))) (. .))
+(S (NP (DT The) (NN block) (NN credit)) (VP (VP (VBZ reflects) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (JJ current) (NN block))))) (CC and) (VP (VBZ is) (VP (VBN earned) (PP (IN during) (NP (NN model) (NN evaluation) (NN process)))))) (. .))

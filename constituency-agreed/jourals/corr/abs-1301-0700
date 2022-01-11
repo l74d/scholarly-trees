@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (NN setup)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT a) (JJ few) (NNS sensors)) (VP (VBP are) (VP (VBN mounted) (PP (IN on) (NP (DT a) (JJ rigid) (NN body))))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB corroborate) (CC and) (VB analyze) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS estimators))))))))) (. .))

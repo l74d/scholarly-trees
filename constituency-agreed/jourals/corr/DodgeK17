@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (VP (VBN formulated) (PP (IN as) (NP (NP (DT a) (NN mixture)) (PP (IN of) (NP (NNS experts))))))) (. .))
+(S (NP (DT Each) (NN expert) (NN network)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB predict) (NP (NN saliency)) (PP (IN for) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (ADJP (RB closely) (JJ related)) (NNS images)))))))))) (. .))
+(S (NP (DT This) (NN gating) (NN network)) (VP (VBZ is) (VP (VBN guided) (PP (IN by) (NP (JJ global) (NN scene) (NN information))) (S (VP (TO to) (VP (VB predict) (NP (NNS weights))))))) (. .))

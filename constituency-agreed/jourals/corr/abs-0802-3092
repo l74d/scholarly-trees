@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN preamplifier)) (VP (VBZ is) (NP (NP (DT a) (JJ critical) (NN component)) (PP (IN of) (NP (NP (NN gyrometer) (POS 's)) (NNS electronics))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (CD five) (JJ different) (NNS kinds)) (PP (IN of) (NP (NNS preamplifiers)))) (VP (VBP are) (VP (VBN presented) (CC and) (VBN compared))) (. .))

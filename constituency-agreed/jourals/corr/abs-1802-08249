@@ -1,0 +1,1 @@
+(S (PP (IN Unlike) (NP (DT the) (JJ original) (JJ non-smooth) (NN formulation))) (, ,) (NP (PRP$ our) (NN algorithm)) (ADVP (RB only)) (VP (VBZ requires) (S (VP (VBG solving) (NP (DT the) (NN discriminator)) (S (VP (TO to) (VP (VB approximate) (NP (NN optimality)))))))) (. .))

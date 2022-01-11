@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN falsifier)) (VP (VBZ computes) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS inputs)) (SBAR (WHNP (WDT that)) (S (ADVP (RB definitely)) (VP (VBP crash) (NP (DT a) (NN program))))))))) (. .))

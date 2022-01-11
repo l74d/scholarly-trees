@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP have) (NP (PRP$ their) (JJ relative) (NNS pros) (CC and) (NNS cons)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN performance)) (, ,) (NP (NN complexity)) (CC and) (NP (NN implementation) (NNS issues))))))) (. .))
+(S (PP (IN For) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (NNS approaches))))) (, ,) (NP (NP (DT the) (NN problem) (NN setup)) (, ,) (NP (DT the) (JJ general) (NN solution)) (CC and) (NP (DT the) (NN design) (NN methodology))) (VP (VBP are) (VP (VBN discussed))) (. .))

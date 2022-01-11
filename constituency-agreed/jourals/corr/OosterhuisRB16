@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ unsupervised) (NN label) (NN propagation) (NN approach)) (PP (IN for) (NP (DT this) (NN task))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP showcase) (NP (NP (NN example) (NN video) (NNS trailers)) (VP (VBN generated) (PP (IN by) (NP (PRP$ our) (NN system)))))) (. .))

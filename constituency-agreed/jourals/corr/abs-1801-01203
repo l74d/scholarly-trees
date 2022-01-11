@@ -1,0 +1,1 @@
+(S (NP (JJ Modern) (NNS processors)) (VP (VBP use) (NP (NP (NN branch) (NN prediction)) (CC and) (NP (JJ speculative) (NN execution))) (S (VP (TO to) (VP (VB maximize) (NP (NN performance)))))) (. .))

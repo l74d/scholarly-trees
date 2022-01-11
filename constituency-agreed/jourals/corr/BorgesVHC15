@@ -1,0 +1,2 @@
+(S (NP (NNP GitHub)) (VP (VBZ is) (NP (NP (NP (DT the) (NN world) (POS 's)) (JJS largest) (NN collection)) (PP (IN of) (NP (JJ open) (NN source) (NN software))))) (. .))
+(S (PP (IN Throughout) (NP (DT the) (NN paper))) (NP (PRP we)) (VP (VBP illustrate) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (PRP$ our) (NN framework)))) (S (VP (VBG using) (NP (NP (JJ real) (NNS data)) (VP (VBN extracted) (PP (IN from) (NP (NNP GitHub)))))))) (. .))

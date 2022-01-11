@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ optimal) (NN detector)) (VP (VBZ is) (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (NP (DT a) (JJ true) (NN channel) (NN model)) (, ,) (NP (NP (JJ true) (NN distribution)) (PP (IN of) (NP (NN input) (NNS signals)))) (, ,) (CC and) (NP (NP (JJ perfect) (NN knowledge)) (PP (IN about) (NP (NN quantization)))))))))) (. .))

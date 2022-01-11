@@ -1,0 +1,3 @@
+(S (PP (IN By) (NP (NN default))) (, ,) (NP (DT the) (NNP Linux) (NN network) (NN stack)) (VP (VBZ is) (RB not) (VP (VBN configured) (PP (IN for) (NP (NN highspeed) (JJ large) (NN file) (NN transfer))))) (. .))
+(S (NP (NP (DT The) (NN reason)) (PP (IN behind) (NP (DT this)))) (VP (VBZ is) (S (VP (TO to) (VP (VB save) (NP (NN memory) (NNS resources)))))) (. .))
+(S (PP (IN By) (S (VP (VBG being) (NP (DT a) (JJ sandboxed) (NN environment))))) (, ,) (NP (JJ risky) (NNS configurations)) (VP (MD can) (VP (VB be) (VP (VBN tested) (PP (IN without) (NP (NP (DT the) (NN danger)) (PP (IN of) (S (VP (VBG harming) (NP (DT the) (NN system)))))))))) (. .))

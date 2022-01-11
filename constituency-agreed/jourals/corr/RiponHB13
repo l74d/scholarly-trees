@@ -1,0 +1,4 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (NP (ADJP (RB precisely) (VBN defined)) (JJ formal) (NNS notations)) (PP (IN for) (S (VP (VBG representing) (CC and) (VBG verifying) (NP (JJ such) (NNS models))))))))) (. .))
+(S (NP (NNP UML)) (VP (VBZ provides) (NP (NP (DT an) (JJ overall) (NN modelling) (NN view)) (PP (IN of) (NP (DT the) (NN system))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP model) (NP (NP (NNS variants)) (CC and) (NP (PRP$ their) (NNS dependencies))) (PP (IN by) (S (VP (VBG using) (NP (JJ propositional) (NNS connectives)))))) (CC and) (VP (VB build) (NP (JJ logical) (NNS expressions)))) (. .))
+(S (NP (DT These) (NNS expressions)) (VP (VBP are) (ADVP (RB then)) (VP (VBN validated) (PP (IN by) (NP (DT the) (NNP Alloy) (NN verification) (NN tool))))) (. .))

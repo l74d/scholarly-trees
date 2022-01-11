@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (DT the) (NN fault)) (VP (VBZ is) (RB not) (PP (IN with) (NP (NNP Solomonoff) (NN induction)))))))) (: ;) (S (ADVP (RB instead)) (NP (PRP we)) (VP (MD should) (VP (VB reject) (NP (NP (NNP Nicod) (POS 's)) (NN criterion))))) (. .))

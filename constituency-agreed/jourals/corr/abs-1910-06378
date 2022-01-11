@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NNP SCAFFOLD)) (VP (VP (VBZ requires) (NP (ADJP (RB significantly) (JJR fewer)) (NN communication) (NNS rounds))) (CC and) (VP (VBZ is) (RB not) (VP (VBN affected) (PP (IN by) (NP (NP (NNS data) (NN heterogeneity)) (CC or) (NP (NN client) (NN sampling)))))))))) (. .))

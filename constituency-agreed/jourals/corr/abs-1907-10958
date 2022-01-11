@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT the) (JJ semantic) (NN segmentation) (NN task)) (PP (IN with) (NP (NP (DT a) (JJ deep) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBZ combines) (NP (NP (JJ contextual) (NNS features)) (CC and) (NP (JJ spatial) (NN information))))))))) (. .))
+(S (ADVP (RB Then)) (NP (DT the) (NNP FCA) (NN module)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB combine) (NP (DT these) (CD two) (NNS branches))))))) (. .))

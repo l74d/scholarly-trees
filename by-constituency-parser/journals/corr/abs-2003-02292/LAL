@@ -1,0 +1,6 @@
+(S (NP (NP (DT A) (JJ new) (JJ numerical) (NN method))) (VP (VBZ is) (VP (VBN introduced) (PP (IN for) (NP (NP (NN calculation)) (PP (IN of) (NP (JJ quasi-polynomial) (NN zeros))) (PP (IN with) (NP (JJ constant) (JJ single) (NN delay))))))) (. .))
+(S (NP (NP (DT The) (NNS trajectories)) (PP (IN of) (NP (NNS zeros)))) (VP (VBP are) (VP (VBN obtained) (PP (VBG depending) (PP (IN on) (NP (NP (NN time-delay)) (PP (IN from) (NP (CD zero))) (PP (TO to) (NP (JJ final) (NN time-delay) (NN value)))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ determines) (NP (NP (PDT all) (DT the) (NN zeros)) (PP (IN of) (NP (DT the) (JJ quasi-polynomial))) (PP (IN in) (NP (DT any) (JJ right) (NN half-plane))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB determine) (NP (NP (NN stability) (NN analysis)) (PP (IN of) (NP (JJ time-delay) (NNS systems))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (ADJP (ADJP (JJ easy) (SBAR (S (VP (TO to) (VP (VB implement)))))) (, ,) (ADJP (JJ robust)) (CC and) (ADJP (JJ applicable) (PP (TO to) (NP (NP (NNS quasi-polynomials)) (PP (IN with) (NP (JJ high) (NN order)))))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN method)))) (VP (VBZ is) (VP (VBN shown) (PP (IN on) (NP (DT an) (NN example))))) (. .))

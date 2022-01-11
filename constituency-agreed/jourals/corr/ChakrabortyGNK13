@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN congestion)) (PP (IN of) (NP (DT the) (NN sensor) (NNS nodes)))) (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (S (VP (VBG regulating) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NN traffic) (NN flow)))) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (DT the) (NN priority)) (PP (IN of) (NP (DT the) (NN traffic)))))))))))) (. .))

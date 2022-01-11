@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ comprises) (NP (CD three) (JJ major) (NNS components))) (. .))
+(S (NP (JJ Next) (NN step)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NP (NN price) (NN elasticity)) (PP (IN of) (NP (NN demand)))))) (S (VP (TO to) (VP (VB get) (NP (DT the) (JJ multiple) (NN demand) (NNS values)) (PP (IN by) (S (VP (VBG varying) (NP (DT the) (NN discount) (NN percentage))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT this))))) (, ,) (NP (PRP we)) (VP (VBP reexamine) (NP (JJ variational) (NN inference)) (PP (IN from) (NP (NP (PRP$ its) (NNS roots)) (PP (IN as) (NP (DT an) (NN optimization) (NN problem)))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NNS operators)) (, ,) (CC or) (NP (NP (NNS functions)) (PP (IN of) (NP (NNS functions)))) (, ,)) (S (VP (TO to) (VP (VB design) (NP (JJ variational) (NNS objectives)))))) (. .))

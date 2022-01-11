@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN transition) (NNS probabilities)) (VP (VBP are) (VP (VP (VBN estimated) (PP (IN for) (NP (NP (JJ several) (NNS lengths)) (PP (IN of) (NP (DT the) (NNS walks)))))) (CC and) (VP (VBN used) (S (VP (TO to) (VP (VB calculate) (NP (NP (DT the) (JJ outward) (NN accessibility)) (PP (IN of) (NP (DT each) (NN node)))))))))) (. .))

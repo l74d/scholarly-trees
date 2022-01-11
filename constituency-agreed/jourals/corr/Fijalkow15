@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ undecidable))))))) (. .))
+(S (NP (NP (DT The) (JJ first) (NN contribution)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB give) (NP (NP (DT a) (NN characterisation)) (PP (IN of) (NP (DT the) (NNP Markov) (NNP Monoid) (NN algorithm)))))))) (. .))

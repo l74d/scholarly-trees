@@ -1,0 +1,2 @@
+(S (NP (NNP PUMA)) (VP (VBZ is) (VP (VBN validated) (PP (IN on) (NP (JJ synthetic) (NNS datasets))))) (. .))
+(S (ADVP (RB Importantly)) (, ,) (NP (NNP PUMA)) (VP (VBZ annotates) (NP (JJ many) (JJ additional) (NNS measurements))) (. .))

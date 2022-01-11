@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Sensors)) (PP (IN in) (NP (DT the) (NN sensor) (NN array)))) (VP (VBP are) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG sensing) (NP (PRP$ their) (NN target) (NN gas) (NNS components)) (ADVP (RB only))))))) (. .))
+(S (NP (NP (JJ Various) (NN performance) (NNS parameters)) (CC and) (NP (NP (NN complexity)) (PP (IN of) (NP (DT the) (NN problem))))) (VP (VBZ influences) (NP (NNP NN) (NN training))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD trained) (NP (CD 31) (NN word) (NN embedding) (NNS models)) (S (VP (VBG using) (NP (NNP FastText) (, ,) (NNP GloVe) (, ,) (NNP Wang2Vec) (CC and) (NNP Word2Vec))))) (. .))

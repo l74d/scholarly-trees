@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN inequality))) (VP (VBZ is) (VP (VBN derived) (PP (IN for) (NP (NP (DT the) (NN correlation)) (PP (IN of) (NP (NP (CD two) (JJ univariate) (NNS functions)) (VP (VBG operating) (PP (IN on) (NP (JJ symmetric) (NN bivariate) (JJ normal) (JJ random) (NNS variables)))))))))) (. .))
+(S (NP (DT The) (NN inequality)) (VP (VBZ is) (NP (NP (DT a) (JJ simple) (NN consequence)) (PP (IN of) (NP (DT the) (NNP Cauchy-Schwarz) (NN inequality))))) (. .))

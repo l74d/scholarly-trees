@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ small) (NN number)) (PP (IN of) (NP (JJ required) (NNS instructions)))) (VP (VBZ shows) (SBAR (IN that) (S (NP (ADJP (RB very) (JJ small)) (NN instruction) (NNS sets)) (VP (MD could) (VP (VB be) (VP (VBN encoded) (PP (IN on) (NP (NNS cores))) (S (VP (TO to) (VP (VB perform) (NP (JJ memoryless) (NN computation))))))))))) (. .))

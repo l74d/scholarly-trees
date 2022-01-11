@@ -1,0 +1,1 @@
+(S (NP (NN Proof) (NNS assistants)) (ADVP (RB often)) (VP (VBP call) (NP (VBN automated) (NN theorem) (NNS provers)) (S (VP (TO to) (VP (VB prove) (NP (NNS subgoals)))))) (. .))

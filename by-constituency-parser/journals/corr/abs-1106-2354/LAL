@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN parameterization)) (PP (IN of) (NP (NP (NNP Alfred) (NNP Gray) (POS 's)) (NX (NX (NNP Elliptical) (NNP Catenoid)) (CC and) (NX (NNP Elliptical) (NNP Hellicoid)))))) (S (VP (VBG using) (NP (NP (NNP Jacobi) (POS 's)) (JJ elliptic) (NNS functions))))) (. .))
+(S (NP (DT This) (NN parameterization)) (VP (VBZ avoids) (NP (NP (DT some) (NNS problems)) (ADJP (VBP present) (PP (IN in) (NP (NP (DT the) (JJ original) (NN depiction)) (PP (IN of) (NP (DT these) (NNS surfaces)))))))) (. .))

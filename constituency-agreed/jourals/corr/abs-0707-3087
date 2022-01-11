@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT an) (NN agent)) (VP (VBG interacting) (PP (IN with) (NP (DT an) (JJ unmodeled) (NN environment)))))) (. .))
+(S (PP (IN At) (NP (DT each) (NN time))) (, ,) (NP (DT the) (NN agent)) (VP (VP (VBZ makes) (NP (DT an) (NN observation))) (, ,) (VP (VBZ takes) (NP (DT an) (NN action))) (, ,) (CC and) (VP (VBZ incurs) (NP (DT a) (NN cost)))) (. .))
+(S (NP (PRP$ Its) (NNS actions)) (VP (MD can) (VP (VB influence) (NP (JJ future) (NNS observations) (CC and) (NNS costs)))) (. .))

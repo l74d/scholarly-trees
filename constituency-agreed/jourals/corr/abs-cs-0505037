@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (JJ simple) (NN device)) (VP (VBZ is) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB formalize) (NP (NP (DT all) (JJ recursive) (NNS functions)) (PP (IN between) (NP (CD two) (VBN given) (NNS types)))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP mention) (SBAR (IN that) (S (NP (NP (DT the) (NN formalization)) (, ,) (PP (IN with) (NP (JJ appropriate) (JJ structural) (NNS maps))) (, ,)) (VP (VBZ defines) (NP (DT a) (JJ strong) (NN monad)))))) (. .))

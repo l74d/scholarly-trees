@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ maximum) (NN likelihood) (NNS estimates)) (PP (IN for) (NP (DT both) (NNS models)))) (VP (VBP are) (ADJP (JJ consistent)))))) (. .))
+(S (NP (NP (DT A) (NN list)) (PP (IN of) (NP (JJ open) (NNS problems)))) (VP (VBP are) (VP (VBN presented))) (. .))

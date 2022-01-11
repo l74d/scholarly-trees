@@ -1,0 +1,1 @@
+(S (NP (NP (NNP VUSFA)) (, ,) (NP (PRP$ our) (JJ final) (NN architecture)) (, ,)) (VP (VBZ is) (NP (NP (DT a) (JJ straightforward) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN implemented) (S (VP (VBG using) (NP (PRP$ our) (JJ open) (NN source) (NN repository))))))))))) (. .))

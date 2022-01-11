@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VP (VBN tested) (PP (IN on) (NP (CD two) (JJ public) (NNS databases)))) (CC and) (VP (VBN compared) (PP (IN with) (NP (CD five) (VBG existing) (NNS methods)))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ outperforms) (NP (DT the) (JJ other) (NNS methods)))))) (. .))

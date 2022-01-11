@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (NP (PRP$ its) (NN significance)) (PP (IN in) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ interdisciplinary) (NNS applications))))))) (, ,) (NP (PRP$ its) (NN computation)) (VP (VBZ is) (ADJP (RB very) (JJ expensive))) (. .))
+(S (NP (NP (DT The) (NN algorithm)) (VP (VBN introduced) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VBZ achieves) (NP (DT the) (JJ same)) (PP (IN in) (NP (NP (DT a) (ADJP (RB significantly) (JJR lesser)) (NN time)) (PP (IN than) (NP (NP (NN repetition)) (PP (IN of) (NP (DT the) (NNP Brandes) (NN algorithm)))))))) (. .))

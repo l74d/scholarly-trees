@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ common) (NN approach)) (VP (VBZ is) (VP (VBG using) (NP (NP (DT a) (JJ weighted) (NN sum)) (PP (IN of) (NP (NNS losses)))))) (. .))
+(S (NP (DT The) (NNS weights)) (VP (VBP are) (VP (VBN adjusted) (S (VP (TO to) (VP (VB induce) (NP (JJ positive) (NN transfer))))))) (. .))

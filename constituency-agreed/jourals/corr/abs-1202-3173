@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ critical) (NN bottleneck)) (PP (IN in) (S (VP (VBG parallelizing) (NP (NP (NNP Strassen) (POS 's)) (NN algorithm)))))) (VP (VBZ is) (NP (NP (DT the) (NN communication)) (PP (IN between) (NP (DT the) (NNS processors))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS labels)) (VP (VBP are) (ADJP (JJ useful) (PP (IN for) (NP (NP (NN topic) (NN identification)) (PP (IN in) (NP (NN summarization) (NNS systems))))))) (. .))
+(S (NP (DT This) (NN approach)) (VP (VBZ ensures) (SBAR (IN that) (S (NP (DT the) (NN topic) (NN inference) (NN process)) (VP (VBZ is) (ADJP (JJ consistent) (PP (IN with) (NP (VBG existing) (NN knowledge)))))))) (. .))

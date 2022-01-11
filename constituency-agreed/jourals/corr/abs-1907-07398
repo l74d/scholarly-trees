@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD tried) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (NP (JJ various) (NNS models)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN trained) (PP (IN by) (S (VP (VBG using) (NP (JJ different) (JJ semi-supervised) (NN learning) (NNS principles))))))))))))) (. .))

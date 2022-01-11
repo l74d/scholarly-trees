@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NNS wavelengths)))) (VP (VBZ is) (VP (VBN reserved) (S (VP (TO to) (VP (VB transfer) (NP (NP (NN control) (NN information)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NN control) (NNS wavelengths))))))))))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (PP (IN in) (NP (NN datagram) (NN network))) (, ,) (NP (PDT all) (DT the) (NNS packets)) (VP (VBP are) (VP (VBN sent) (PP (IN with) (NP (DT the) (NN control) (NNS wavelengths))))) (. .))
+(S (NP (NP (DT The) (NN allocation)) (PP (IN of) (NP (NNS wavelengths)))) (VP (MD may) (VP (VB be) (ADJP (RB fully) (JJ dynamic)))) (. .))

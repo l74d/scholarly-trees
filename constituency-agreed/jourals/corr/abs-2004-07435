@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (JJ several) (NN ground) (NNS stations)))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB determine) (NP (NP (DT the) (NN location)) (PP (IN of) (NP (NP (DT a) (NNP UAV)) (VP (VBN equipped) (PP (IN with) (NP (NP (DT a) (NNP LoRaWAN) (NN module)) (SBAR (WHNP (WDT that)) (S (VP (VBZ transmits) (NP (DT the) (NNP UAV) (NNP Remote) (NNP ID))))))))))))) (. .))

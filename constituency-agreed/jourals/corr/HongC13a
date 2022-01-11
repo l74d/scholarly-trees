@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (PDT such) (DT a) (JJ pipelined) (NN scheme))) (, ,) (NP (DT the) (NN source)) (VP (VP (VBZ is) (ADJP (JJ active))) (CC and) (VP (VBZ sends) (NP (DT a) (JJ new) (NN information) (NN message)) (PP (IN in) (NP (DT each) (NN time) (NN slot))))) (. .))

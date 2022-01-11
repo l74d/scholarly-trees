@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Features)) (SBAR (WHNP (WDT that)) (S (VP (VBP capture) (ADVP (RB well)) (NP (NP (DT the) (JJ textural) (NNS patterns)) (PP (IN of) (NP (NP (DT a) (JJ certain) (NN class)) (PP (IN of) (NP (NNS images)))))))))) (VP (VBP are) (ADJP (JJ crucial) (PP (IN for) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN texture) (NN segmentation) (NNS methods))))))) (. .))

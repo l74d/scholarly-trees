@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS dictionaries)) (VP (VBP enrich) (NP (DT a) (NN sentence)) (PP (IN with) (NP (NP (NNS words)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (DT a) (JJ similar) (NN meaning)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (JJ WSD) (NNS rules)) (VP (VBP are) (VP (VBN built))))) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (NN information) (NN extraction) (NNS techniques)) (VP (MD can) (VP (VB benefit) (PP (IN from) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (DT these) (NNS rules))))))))))) (. .))

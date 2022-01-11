@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN system)) (VP (VBZ utilizes) (NP (NP (DT the) (NN movement)) (PP (IN of) (NP (NN eye)))) (PP (IN as) (NP (NP (DT the) (NN element)) (PP (IN of) (NP (NN purpose))))) (PP (IN for) (S (VP (VBG controlling) (NP (NP (DT the) (NN movement)) (PP (IN of) (NP (DT the) (NN wheel) (NN chair)))))))) (. .))
+(S (NP (DT A) (NN prototype) (NN system)) (VP (VBD was) (VP (VBN developed) (CC and) (VBN tested))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBD showed) (NP (JJ promising) (NNS results))) (. .))

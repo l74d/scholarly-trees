@@ -1,0 +1,2 @@
+(S (NP (VBG Queuing) (NNS constraints)) (VP (VBP are) (VP (VBN imposed) (PP (IN as) (NP (NP (NNS limitations)) (PP (IN on) (NP (NN buffer) (NN violation) (NNS probabilities))))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN under) (NP (JJ such) (NNS constraints)))) (VP (VBZ is) (VP (VBN captured) (PP (IN through) (NP (DT the) (JJ effective) (NN capacity) (NN formulation))))) (. .))

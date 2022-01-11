@@ -1,0 +1,1 @@
+(S (NP (JJ A-priori) (NN error) (NNS estimates)) (VP (VBP are) (VP (VBN derived) (, ,) (SBAR (IN while) (S (NP (JJ numerical) (NNS examples)) (VP (VP (VBP illustrate) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NN method))))) (CC and) (VP (VB validate) (NP (DT the) (JJ theoretical) (NNS findings)))))))) (. .))

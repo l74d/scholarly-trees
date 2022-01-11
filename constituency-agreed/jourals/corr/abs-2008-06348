@@ -1,0 +1,2 @@
+(S (NP (DT These) (JJ multifunctional) (JJ neural) (NNS networks)) (VP (VBP are) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG performing) (NP (QP (JJR more) (IN than) (CD one)) (NN task)) (PP (IN without) (S (VP (VBG changing) (NP (DT any) (NN network) (NNS connections)))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP conduct) (NP (NP (DT a) (NN bifurcation) (NN analysis)) (PP (IN of) (NP (DT these) (JJ untrained) (NNS attractors))))) (CC and) (VP (VB discuss) (NP (NP (DT the) (NNS implications)) (PP (IN of) (NP (PRP$ our) (NNS results)))))) (. .))

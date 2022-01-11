@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (JJ multi-armed) (NN bandit) (NN problem)) (PP (IN with) (NP (NP (NNS arms)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (NNP Markov) (NNS chains)) (PP (IN with) (NP (NNS rewards)))))))))) (. .))

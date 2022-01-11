@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBD addressed) (NP (NP (DT the) (NN issue)) (PP (IN of) (S (VP (VBG combining) (NP (JJ linear) (NNS classifiers)) (S (VP (VBG using) (NP (PRP$ their) (NN score) (NNS functions))))))))) (. .))
+(S (S (NP (CD Two) (NN score) (NNS functions)) (VP (VBP have) (VP (VBN been) (VP (VBN tested))))) (CC and) (S (NP (CD four) (JJ different) (NN combination) (NNS strategies)) (VP (VBD were) (VP (VBN investigated)))) (. .))
+(S (NP (DT The) (NN comparison)) (VP (VBD was) (VP (VBN made) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (CD seven) (JJ different) (NN quality) (NNS criteria))))))) (. .))

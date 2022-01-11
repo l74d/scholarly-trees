@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ critical) (NN part)) (PP (IN for) (S (VP (VBG building) (NP (DT any) (NN software) (NN system)))))) (VP (VBZ is) (NP (PRP$ its) (NN architecture))) (. .))
+(S (NP (JJ Architectural) (NN design)) (VP (VBZ is) (NP (NP (DT a) (NN design)) (PP (IN at) (NP (NP (DT a) (JJR higher) (NN level)) (PP (IN of) (NP (NN abstraction))))))) (. .))
+(S (NP (DT A) (JJ good) (NN architecture)) (VP (VBZ ensures) (SBAR (IN that) (S (NP (NN software)) (VP (MD will) (VP (VB satisfy) (NP (PRP$ its) (NN requirement))))))) (. .))

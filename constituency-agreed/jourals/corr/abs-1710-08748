@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN model)) (PP (IN of) (NP (NP (NN automata)) (PP (IN over) (NP (JJ unranked) (NNS data) (NNS trees)))))) (PP (IN with) (NP (DT a) (JJ decidable) (NN emptiness) (NN problem)))) (. .))

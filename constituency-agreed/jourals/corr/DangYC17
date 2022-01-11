@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN adversary)) (VP (MD can) (ADVP (RB only)) (VP (VB manipulate) (NP (JJ malicious) (NNS samples)) (S (VP (VBG using) (NP (DT a) (NN blackbox) (NN morpher)))))) (. .))

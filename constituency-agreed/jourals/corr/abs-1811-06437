@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ hybrid) (NN model)) (VP (VBZ leverages) (NP (NP (JJ neural) (NNS networks)) (CC and) (NP (NN decision) (NNS trees)))) (. .))
+(S (NP (NP (DT The) (NNS corrections)) (SBAR (IN as) (S (VP (VBN suggested) (PP (IN by) (NP (DT the) (NNS experts))))))) (VP (VBP are) (VP (VBN incorporated) (PP (IN into) (NP (DT the) (NN model))))) (. .))

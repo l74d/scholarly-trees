@@ -1,0 +1,1 @@
+(S (S (NP (PRP$ Our) (JJ metric)) (VP (VBZ is) (ADJP (JJ learnable)))) (, ,) (CC but) (S (NP (PRP$ its) (NN training)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (NNS labels)) (PP (IN of) (NP (JJ human) (NN satisfaction))))))) (. .))

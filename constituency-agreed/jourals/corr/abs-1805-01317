@@ -1,0 +1,1 @@
+(S (S (NP (NNP Convolution) (JJ neural) (NN network)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB meet) (NP (DT the) (NN challenge))))))))) (, ,) (CC but) (S (NP (PRP it)) (ADVP (RB often)) (VP (VBZ requires) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NN computation) (NNS resources)))))) (. .))

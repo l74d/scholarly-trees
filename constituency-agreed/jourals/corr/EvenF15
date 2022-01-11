@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBD implemented) (NP (DT the) (NN algorithm))) (CC and) (VP (VBD tested) (NP (PRP it)) (PP (IN with) (NP (DT the) (NNP MCSL) (NN benchmark))))) (. .))

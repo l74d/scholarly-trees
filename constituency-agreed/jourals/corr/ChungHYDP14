@@ -1,0 +1,1 @@
+(S (NP (JJ Sparse) (NNS systems)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN parameterized) (PP (IN by) (NP (NP (DT a) (NN tuning) (NN parameter)) (SBAR (WHNP (WDT that)) (S (VP (VBZ determines) (NP (NP (DT the) (NN sparsity)) (PP (IN of) (NP (DT the) (NN system))))))))))) (. .))

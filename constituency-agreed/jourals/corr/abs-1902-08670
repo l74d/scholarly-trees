@@ -1,0 +1,1 @@
+(S (ADVP (RB Particularly)) (, ,) (NP (DT a) (ADJP (RB fully) (JJ convolutional)) (NN autoencoder)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB learn) (NP (NP (DT the) (JJ dominant) (JJ structural) (NNS patterns)) (PP (IN among) (NP (JJ normal) (NN image) (NNS patches))))))))) (. .))

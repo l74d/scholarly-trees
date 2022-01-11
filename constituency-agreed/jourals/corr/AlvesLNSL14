@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ numerical) (NNS results)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN secrecy) (NNS metrics)) (VP (VBP are) (VP (VBN affected) (PP (IN by) (NP (NP (DT the) (NN disposition)) (PP (IN of) (NP (NP (DT the) (VBN desired) (NN receiver)) (, ,) (NP (DT the) (NN eavesdropper)) (CC and) (NP (DT the) (JJ legitimate) (NN transmitter))))))))))) (. .))

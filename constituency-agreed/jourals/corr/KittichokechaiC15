@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NNS problems)) (PP (IN of) (NP (NP (NN authentication)) (VP (VBG using) (NP (JJ secret) (JJ key) (NN generation)) (PP (IN under) (NP (NP (DT a) (NN privacy) (NN constraint)) (PP (IN on) (NP (DT the) (VBN enrolled) (NN source) (NNS data)))))))))) (. .))

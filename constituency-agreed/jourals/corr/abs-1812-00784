@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT the) (NNS discoveries)))) (, ,) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS rules)))) (VP (VBD was) (VP (VBN elaborated) (S (VP (TO to) (VP (VB detect) (NP (DT those) (NNS features)) (PP (IN in) (NP (NNS binaries)))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (NP (DT a) (NN dataset)) (PP (IN of) (NP (CD 815) (NNS samples))))))) (. .))

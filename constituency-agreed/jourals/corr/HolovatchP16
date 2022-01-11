@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first) (NN part)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN text) (NNS sizes)) (VP (VBP are) (ADJP (RB sufficiently) (JJ large) (S (VP (TO to) (VP (VB observe) (NP (JJ statistical) (NNS properties)))))))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VP (VBP examine) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ such) (NNS representations)) (PP (IN of) (NP (DT the) (NN language) (NN network))))))) (CC and) (VP (VB perform) (NP (NP (DT a) (JJ comparative) (NN analysis)) (PP (IN of) (NP (PRP$ their) (NNS characteristics)))))) (. .))

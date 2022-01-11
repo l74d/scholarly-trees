@@ -1,0 +1,2 @@
+(S (NP (NP (CD Three) (NNS generations)) (PP (IN of) (NP (NNS telerobotics) (NNS systems)))) (VP (VBP have) (VP (VBN evolved) (PP (IN in) (NP (DT this) (NN research))))) (. .))
+(S (NP (DT The) (JJ second) (NN generation)) (VP (VBD was) (VP (VBN developed) (S (VP (VBG using) (NP (NNP Java)))))) (. .))

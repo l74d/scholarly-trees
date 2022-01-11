@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ 's) (VP (VBN considered) (SBAR (IN that) (S (NP (DT these) (NNS datesets)) (VP (VBP contain) (NP (ADJP (RB highly) (JJ useful) (CC and) (JJ valuable)) (NN information))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (JJ effective) (NNS solutions)) (VP (VBP are) (VP (VBN proposed) (S (VP (VBG using) (NP (NP (DT the) (VBG alternating) (NN direction) (NN method)) (PP (IN of) (NP (NNS multipliers)))))))) (. .))

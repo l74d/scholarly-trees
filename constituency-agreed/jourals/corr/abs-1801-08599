@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN cost)) (PP (IN for) (NP (NP (DT each) (NN node)) (PP (IN of) (NP (DT the) (NN graph)))))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (DT the) (NNP UNet) (NN probability) (NNS maps))))) (. .))

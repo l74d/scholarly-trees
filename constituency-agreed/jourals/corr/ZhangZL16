@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP show) (ADVP (RB quantitatively)) (NP (NP (DT the) (NN severity)) (PP (IN of) (NP (NP (NN contention)) (PP (IN on) (NP (JJ different) (NN memory) (NNS resources))))))) (. .))
+(S (NP (PRP We)) (VP (VBP implement) (NP (DT a) (JJ full) (NN prototype)) (PP (IN on) (NP (DT the) (NNP OpenStack) (NN cloud) (NN system)))) (. .))

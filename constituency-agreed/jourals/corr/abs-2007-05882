@@ -1,0 +1,3 @@
+(S (NP (NN Optimization)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN part)) (PP (IN of) (NP (JJ human) (NN effort))))) (. .))
+(S (NP (JJ Binary) (NNS constraints)) (VP (MD can) (VP (VB be) (VP (VBN built) (PP (IN into) (NP (DT the) (JJ physical) (NN optimization)))))) (. .))
+(S (NP (NP (DT A) (JJ wide) (NN variety)) (PP (IN of) (NP (NNS machines)))) (VP (VBP have) (VP (VBN had) (NP (JJ recent) (NN success)) (PP (IN at) (S (VP (VBG optimizing) (NP (DT the) (NNP Ising) (JJ magnetic) (NN energy))))))) (. .))

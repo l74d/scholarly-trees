@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (VBN distributed) (NN training)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN done) (PP (IN on) (NP (DT the) (NNP GPU))))))) (, ,) (NP (NN simulation)) (VP (VBZ is) (RB not)) (. .))

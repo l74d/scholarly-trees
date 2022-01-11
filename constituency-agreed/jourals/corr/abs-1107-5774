@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ other)) (VP (VBZ is) (NP (NP (DT an) (JJ inverse) (NN source) (NN problem)) (PP (IN with) (NP (NP (NN observation)) (PP (IN on) (NP (DT the) (JJ lateral) (NN boundary))))))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT the) (NN uniqueness)) (PP (IN of) (NP (DT the) (NN source))))) (. .))

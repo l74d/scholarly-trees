@@ -1,0 +1,3 @@
+(S (SBAR (IN As) (S (NP (DT an) (NN author)) (VP (VBZ composes) (NP (DT a) (NN text))))) (, ,) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS words)))) (VP (VBZ is) (VP (VBN produced))) (. .))
+(S (NP (DT The) (NN extension)) (VP (VBZ has) (NP (JJ several) (NNS benefits))) (. .))
+(S (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN suite)) (PP (IN of) (NP (NN time) (NN series) (NN analysis) (NNS tools))))))))) (, ,) (NP (JJ many) (NNS measures)) (VP (MD can) (VP (VB be) (VP (VBN extracted) (PP (IN in) (NP (CD one) (JJ common) (NN framework)))))) (. .))

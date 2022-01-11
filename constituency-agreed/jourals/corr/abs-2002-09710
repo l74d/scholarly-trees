@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN robot)) (VP (VBZ plans) (NP (NP (DT an) (JJ optimal) (NN path)) (PP (IN towards) (NP (DT the) (NNP NBV)))) (, ,) (S (VP (VBG avoiding) (NP (NP (NNS obstacles)) (CC and) (NP (JJ un-traversable) (NN terrain)))))) (. .))

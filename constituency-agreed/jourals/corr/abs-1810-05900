@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN time) (NN series)) (VP (MD can) (VP (VB be) (VP (VBN modelled) (PP (IN as) (NP (NP (DT the) (NN trajectory)) (PP (IN of) (NP (NP (DT a) (NN particle)) (VP (VBG moving) (PP (IN in) (NP (DT a) (NN force) (NN field))) (PP (IN with) (NP (NP (CD one) (NN degree)) (PP (IN of) (NP (NN freedom))))))))))))) (. .))
+(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (DT a) (JJ discrete) (NN time) (NN series)) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN as) (NP (NP (DT a) (NN string)) (PP (IN of) (NP (CD 13) (NNS symbols)))))))) (. .))

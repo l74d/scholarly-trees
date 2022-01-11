@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (NP (NN vertex-monotone) (NNS properties)) (PP (IN with) (NP (JJ sharp) (NNS thresholds)))))) (PP (IN in) (NP (DT a) (NNP Poisson) (NN random) (JJ geometric) (NN graph) (CC or) (NN hypergraph)))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (JJ geometric) (NN model)) (PP (IN of) (NP (JJ random) (JJ k-SAT)))) (VP (NNS exhibits) (NP (NP (DT a) (JJ sharp) (NN threshold)) (PP (IN for) (NP (NN satisfiability)))))))) (. .))

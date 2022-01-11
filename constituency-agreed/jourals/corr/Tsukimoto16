@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (JJ logical) (NNS formulas)) (VP (VBP are) (VP (VBN transformed) (PP (IN into) (NP (JJ elementary) (JJ algebraic) (NNS formulas))))) (. .))
+(S (NP (NP (DT The) (JJ computational) (NN complexity)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (ADVP (RB probably)) (ADJP (JJ polynomial))) (. .))

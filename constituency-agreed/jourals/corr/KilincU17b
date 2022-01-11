@@ -1,0 +1,1 @@
+(S (NP (NP (NN Adjacency)) (PP (IN of) (NP (DT the) (NNS examples)))) (VP (VBZ is) (VP (VBN inferred) (S (VP (VBG using) (NP (NP (DT the) (NNS predictions)) (PP (IN of) (NP (NP (DT a) (JJ neural) (NN network) (NN model)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (JJ first)) (VP (VBN initialized) (PP (IN by) (NP (DT a) (JJ supervised) (NN pretraining)))))))))))))) (. .))

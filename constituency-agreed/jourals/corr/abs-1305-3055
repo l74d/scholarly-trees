@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (JJ maximum) (JJ cumulative) (NN outage) (NN secrecy) (NN rate)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN achieved))))))))) (. .))
+(S (NP (NP (NNS Bounds)) (PP (IN on) (NP (DT these) (NNS metrics)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN derived) (, ,) (S (VP (VBG taking) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (NNS statistics)) (PP (IN of) (NP (DT the) (JJ parallel) (NNS channels)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (JJ scientific) (NNS simulations))))) (, ,) (NP (NP (NN visualization) (NNS tools)) (PP (IN like) (NP (NNP Paraview)))) (VP (VBP have) (ADVP (RB long)) (VP (VBN been) (VP (VBN utilized) (S (VP (TO to) (VP (VB provide) (NP (NNS insights) (CC and) (NNS understandings)))))))) (. .))
+(S (NP (NP (RB Only) (DT a) (JJ small) (NN number)) (PP (IN of) (NP (NP (NNS lines)) (PP (IN of) (NP (NNS codes)))))) (VP (VBP are) (VP (VBN injected) (PP (IN in) (NP (NNP TensorFlow) (NN framework))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT the) (JJ first) (NN phase)) (PP (IN of) (NP (DT the) (NN method))))) (, ,) (NP (ADJP (JJ generative) (CC and) (JJ predictive)) (NNS models)) (VP (VBP are) (VP (VBN trained) (ADVP (RB separately)) (PP (IN with) (NP (DT a) (JJ supervised) (NN learning) (NN algorithm))))) (. .))

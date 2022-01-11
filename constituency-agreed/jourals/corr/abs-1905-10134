@@ -1,0 +1,3 @@
+(S (NP (DT No) (JJ external) (NNS actuators)) (VP (VBP are) (VP (VBN used))) (. .))
+(S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB use) (NP (DT this) (NN principle)) (PP (IN for) (S (VP (VBG controlling) (NP (DT the) (NN robot)) (S (VP (TO to) (VP (VP (VB move) (ADVP (RB forward))) (CC and) (VP (VB turn) (PRT (RP around))))))))))) (. .))
+(S (NP (DT The) (NNS robots)) (VP (VBP are) (VP (VBN shaped) (PP (IN as) (NP (JJ spheroidal) (NNS ellipsoids))) (SBAR (IN so) (S (NP (PRP they)) (VP (VBP resemble) (NP (NNS eggs))))))) (. .))

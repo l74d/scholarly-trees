@@ -1,0 +1,2 @@
+(S (NP (JJ Various) (NNS techniques)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN for) (S (VP (VBG hiding) (NP (DT a) (JJ secret) (NN message)) (PP (IN in) (NP (DT a) (NN carrier) (NN document))))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBD proved) (SBAR (IN that) (S (NP (PRP it)) (VP (MD could) (VP (VB be) (VP (VBN applied) (PP (IN in) (NP (JJ various) (JJ steganographic) (NNS applications))))))))) (. .))

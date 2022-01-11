@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN work)) (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (NN design) (NN principle)) (PP (IN of) (S (VP (VBG separating) (NP (NN mechanism) (CC and) (NN policy))))))))) (. .))
+(S (NP (NP (VBG Existing) (NN research)) (PP (IN on) (NP (NN shadow) (NNS stacks)))) (VP (VBP focus) (PP (IN on) (S (VP (VBG optimizing) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NP (DT the) (NN shadow) (NN stack)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT the) (NN mechanism)))))))))))) (. .))

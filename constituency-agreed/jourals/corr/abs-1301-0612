@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (NNP Markov) (JJ random) (NN field)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB encourage) (NP (NP (DT the) (JJ spatial) (NN connectivity)) (PP (IN of) (NP (DT the) (JJ segmented) (NNS regions))))))))) (. .))
+(S (NP (DT The) (NN solution)) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (S (VP (VBG maximizing) (NP (NP (DT the) (JJ posterior) (NN possibility) (NN density)) (PP (IN of) (NP (DT the) (NN segmentation) (NN field))))))))) (. .))

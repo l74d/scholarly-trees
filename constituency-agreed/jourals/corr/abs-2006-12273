@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG introducing) (NP (JJ proper) (NN scaling))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ weak) (NN form)) (SBAR (WHNP (WDT that)) (S (VP (VBZ avoids) (NP (NN degeneracy))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (JJ efficient) (JJ linear) (NNS solvers)) (PP (IN for) (NP (JJ discrete) (NNS problems))))) (. .))

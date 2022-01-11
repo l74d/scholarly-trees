@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN kernel)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ efficient)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN matrix) (NN size)) (VP (MD would) (RB not) (VP (VB fit) (PP (IN in) (NP (DT the) (NNP GPU) (NN memory)))))))))))) (. .))

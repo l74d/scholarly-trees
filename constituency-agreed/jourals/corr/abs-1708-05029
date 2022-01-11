@@ -1,0 +1,2 @@
+(S (ADVP (RB Intuitively)) (, ,) (NP (NP (JJR larger) (NN capacity)) (PP (IN of) (NP (JJ neural) (NN network)))) (VP (MD can) (ADVP (RB always)) (VP (VB deposit) (NP (JJR more) (NN information)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN discrimination) (NN ability)) (PP (IN of) (NP (DT the) (NN model))))))))) (. .))
+(S (CC But) (, ,) (NP (DT the) (JJ learnable) (NN parameter) (NN scale)) (VP (VBZ is) (RB not) (ADJP (JJ feasible) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (NN capacity)) (PP (IN of) (NP (JJ deep) (JJ neural) (NN network))))))))) (. .))

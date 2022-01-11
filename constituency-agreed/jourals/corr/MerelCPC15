@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN practice))) (, ,) (NP (DT the) (NN decoder)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN learned) (PP (IN by) (S (VP (VBG updating) (NP (PRP$ its) (NNS parameters)) (SBAR (IN while) (S (NP (DT the) (NN user)) (VP (VBZ performs) (NP (DT a) (NN task)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NNP SVD)) (VP (VBZ has) (NP (NP (DT the) (NN advantage)) (PP (IN of) (S (VP (VBG parallelizing) (NP (DT the) (NNP MIMO) (NN channel)))))))) (, ,) (CC but) (S (NP (NP (DT each)) (PP (IN of) (NP (DT the) (NNS sub-channels)))) (VP (VBZ has) (NP (JJ different) (NN gain)))) (. .))

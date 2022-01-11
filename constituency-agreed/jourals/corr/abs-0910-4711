@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (NP (DT the) (NN codebook)) (VP (VBN formed) (PP (IN from) (NP (DT a) (NN training) (NN set))))))) (, ,) (NP (DT any) (JJ arbitrary) (NN input) (NNS data)) (VP (VBZ is) (VP (VBN replaced) (PP (IN with) (NP (NP (DT the) (JJS nearest) (NN codevector)) (PP (IN from) (NP (DT the) (NN codebook))))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN indicated))) (. .))

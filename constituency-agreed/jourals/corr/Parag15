@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ considerable) (NN amount)) (PP (IN of) (NP (JJ human) (NN labor)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN required) (PP (IN for) (S (VP (VBG annotating) (NP (NN groundtruth) (NNS volumes)) (PP (IN for) (S (VP (VBG training) (NP (NP (DT the) (NNS classifiers)) (PP (IN of) (NP (DT a) (NN segmentation) (NN framework)))))))))))) (. .))

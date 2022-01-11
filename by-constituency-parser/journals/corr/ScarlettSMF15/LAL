@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (NNS studies) (NP (NP (DT the) (JJ mismatched) (NN decoding) (NN problem)) (PP (IN for) (NP (JJ binary-input) (JJ discrete) (NN memoryless) (NNS channels))))) (. .))
+(S (NP (DT Both) (NP (JJ numerical) (NNS evaluations)) (CC and) (NP (JJ theoretical) (NNS results))) (VP (VBP are) (VP (VBN used) (PP (IN in) (S (VP (VBG establishing) (NP (DT this) (NN claim))))))) (. .))

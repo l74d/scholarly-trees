@@ -1,0 +1,2 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NNS nodes)) (VP (VBP are) (VP (VBG sharing) (NP (DT a) (JJ single) (NN channel)))))) (, ,) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB contend) (PP (IN with) (NP (CD one) (DT another))) (PP (IN for) (NP (DT a) (JJ successful) (NN transmission))))))) (. .))
+(S (NP (JJ Extensive) (NNS simulations)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB verify) (NP (DT the) (JJ analytical) (NNS results))))))) (. .))

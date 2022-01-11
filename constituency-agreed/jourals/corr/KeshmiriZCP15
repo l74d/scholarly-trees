@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (DT the) (JJ last) (JJ hidden) (NN layer)) (VP (VBZ uses) (NP (DT a) (JJ linear) (NN transformation)) (S (VP (TO to) (VP (VB generate) (NP (NP (DT the) (JJ final) (NN output)) (PP (IN of) (NP (DT this) (NN architecture)))))))) (. .))

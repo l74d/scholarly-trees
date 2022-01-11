@@ -1,0 +1,3 @@
+(S (NP (JJ Modern) (NN science)) (ADVP (RB clearly)) (VP (VBZ demands) (PP (IN for) (NP (NP (DT a) (JJR higher) (NN level)) (PP (IN of) (NP (NN reproducibility) (CC and) (NN collaboration)))))) (. .))
+(S (NP (NP (NN Virtualization) (NNS techniques)) (PP (IN like) (NP (NNP Docker) (CC or) (NNP Vagrant)))) (VP (MD can) (VP (VB help) (S (VP (VB deal) (PP (IN with) (NP (NNS environments))))))) (. .))
+(S (NP (NNP Jupyter) (NNS notebooks)) (VP (VBP are) (NP (NP (DT a) (JJ powerful) (NN platform)) (PP (IN for) (S (VP (VBG conducting) (NP (NN research)) (PP (IN in) (NP (DT a) (JJ collaborative) (NN manner)))))))) (. .))

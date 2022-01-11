@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ looks) (PP (IN at) (NP (NP (CD three) (NNS scenarios)) (PP (IN of) (NP (VBG increasing) (NN complexity)))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN setting))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (CD two) (NNS benchmarks))) (. .))

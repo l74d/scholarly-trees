@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ few) (NNS orchestrations)) (VP (VBP are) (ADVP (RB indeed)) (ADJP (JJ monotonic)) (, ,) (SBAR (ADVP (RB mostly)) (IN since) (S (NP (NN latency)) (VP (MD can) (VP (VB be) (VP (VBN traded) (PP (IN for) (NP (NP (NN quality)) (PP (IN of) (NP (NNS data)))))))))))))) (. .))

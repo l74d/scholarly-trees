@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ binary) (NN vector)) (VP (VBZ denotes) (NP (NP (NP (DT the) (NN node) (POS 's)) (NN membership)) (PP (IN in) (NP (QP (CD one) (CC or) (JJR more)) (NNS communities))))) (. .))
+(S (NP (DT This)) (VP (VP (MD can) (VP (VB be) (ADJP (JJ slow)))) (CC and) (VP (MD may) (VP (VB take) (NP (DT a) (JJ long) (NN time)) (S (VP (TO to) (VP (VB converge))))))) (. .))

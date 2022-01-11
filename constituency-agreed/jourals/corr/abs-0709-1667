@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (JJ such) (NNS applications))) (, ,) (NP (NNS variables)) (VP (VBP are) (VP (VBN fixed) (ADVP (RB sequentially)) (S (VP (TO to) (VP (VB satisfy) (NP (DT the) (NNS constraints))))))) (. .))
+(S (NP (NN Message) (NN passing)) (VP (VBZ is) (VP (VBN run) (PP (IN after) (NP (DT each) (NN step))))) (. .))
+(S (NP (DT This) (NN conjecture)) (VP (VBZ is) (VP (VBN confirmed) (PP (IN by) (NP (JJ numerical) (NNS simulations))))) (. .))

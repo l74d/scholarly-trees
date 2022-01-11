@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (JJ significant) (NN interest))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN dearth)) (PP (IN of) (NP (NP (JJ academic) (NN literature)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ describes) (NP (NP (JJ key) (NNS components)) (PP (IN of) (NP (NNS blockchains))))) (CC and) (VP (VBZ discusses) (NP (JJ potential) (NNS applications)))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB address) (NP (DT this) (NN gap)))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (NN summarization) (NNS tasks)) (PP (IN with) (NP (NP (DT the) (NN goal)) (PP (IN of) (S (VP (VBG maximizing) (NP (NN coverage) (CC and) (NN diversity))))))))) (, ,) (NP (JJ submodular) (NN set) (NNS functions)) (VP (VBP are) (NP (DT a) (JJ natural) (NN choice))) (. .))

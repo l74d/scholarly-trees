@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP observe) (SBAR (IN that) (S (NP (DT the) (JJ dominant) (NN error) (NNS patterns)) (VP (VBP are) (NP (NP (NP (NNS deletions)) (PP (IN in) (NP (DT the) (JJ same) (NN run)))) (CC or) (NP (NP (NNS errors)) (VP (VBG resulting) (PP (IN from) (NP (VBG alternating) (NNS sequences)))))))))) (. .))
+(S (NP (DT These) (JJ theoretical) (NNS results)) (VP (VBP are) (VP (VBN verified) (PP (IN by) (NP (VBG corresponding) (NNS simulations))))) (. .))

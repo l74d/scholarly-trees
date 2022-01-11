@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (JJ cyber) (NN security) (NNS issues)) (PP (IN in) (NP (NP (JJ networked) (NN control)) (PP (IN of) (NP (DT a) (JJ linear) (JJ dynamical) (NN system)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (PRP$ our) (NNS results)))) (PP (IN with) (NP (JJ numerical) (NNS examples)))) (. .))

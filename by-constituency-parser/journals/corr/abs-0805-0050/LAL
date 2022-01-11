@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NN network) (NN coding) (NNS rates)) (PP (IN for) (NP (ADJP (JJ directed) (CC and) (JJ undirected)) ($ $) (JJ k) ($ $) (CD -pairs) (NNS networks))))) (. .))
+(S (PP (IN For) (NP (VBN directed) (NNS networks))) (, ,) (NP (NN meagerness)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (NP (NP (DT an) (JJ upper) (NN bound)) (PP (IN on) (NP (NN network) (VBG coding) (NNS rates))))))))) (. .))
+(S (PP (IN For) (NP (DT the) (JJ undirected) (NN case))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (DT some) (NN progress)) (PP (IN in) (NP (NP (DT the) (NN direction)) (PP (IN of) (NP (DT the) ($ $) (JJ k) ($ $) (JJ -pairs) (NN conjecture))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ functional) (NN programming) (NN language)) (PP (IN for) (S (VP (VBG specifying) (NP (NP (NNS constraints)) (PP (IN over) (NP (JJ tree-shaped) (NNS data))))))))) (. .))
+(S (NP (DT The) (NN language)) (VP (VBZ allows) (PP (IN for) (NP (NP (NNP Haskell-like) (NN algebraic) (NNS data) (NNS types)) (CC and) (NP (NN pattern) (NN matching))))) (. .))
+(S (NP (PRP$ Our) (NN constraint) (NN compiler) (NNP CO4)) (VP (VBZ translates) (NP (DT these) (NNS programs)) (PP (IN into) (NP (NP (NN satisfiability) (NNS problems)) (PP (IN in) (NP (JJ propositional) (NN logic)))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN application)) (PP (IN from) (NP (NP (DT the) (NN area)) (PP (IN of) (NP (NP (JJ automated) (NN analysis)) (PP (IN of) (NP (NP (PRN (-LRB- -LRB-) (JJ non-) (-RRB- -RRB-)) (NN termination)) (PP (IN of) (NP (JJ rewrite) (NNS systems))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN degeneration)) (VP (VBZ does) (RB not) (VP (VB occur) (SBAR (WHADVP (WRB when)) (S (NP (DT both) (NNS logics)) (VP (VBP are) (ADJP (JJ linear))))))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (ADVP (RB then)) (VP (VBN related) (PP (IN via) (NP (CD two) (NNS adjunctions))))) (. .))

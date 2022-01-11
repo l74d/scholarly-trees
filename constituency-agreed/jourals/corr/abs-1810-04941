@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (NNS challenges)) (PP (IN for) (S (VP (VBG achieving) (NP (NN collaboration)) (PP (IN in) (NP (NP (DT a) (NN team)) (PP (IN of) (NP (NNS robots))))))))))) (VP (VBZ is) (NP (JJ mutual) (NN tracking) (CC and) (NN identification))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ runs) (PP (IN in) (NP (NN realtime))) (PP (IN on) (NP (NP (DT the) (JJ limited) (NN hardware)) (PP (IN of) (NP (DT the) (NN observer) (NN robot)))))) (. .))

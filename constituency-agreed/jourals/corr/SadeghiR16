@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP they)) (ADVP (RB often)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (DT the) (NN number) (CC and) (NNS locations)) (PP (IN of) (NP (DT the) (NNS relays)))) (VP (VBP are) (VP (VBN known)))))) (. .))
+(S (NP (DT An) (JJ exact) (JJ analytical) (NN expression)) (VP (VBZ is) (VP (VBN derived) (PP (IN for) (NP (NP (DT the) (JJ average) (NN power)) (VP (VBN consumed) (PP (IN by) (NP (DT each) (NN relay)))))))) (. .))

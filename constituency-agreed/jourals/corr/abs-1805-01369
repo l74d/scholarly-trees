@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (DT each) (NN stream)) (PP (IN as) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS frames)))))) (. .))
+(S (NP (DT Each) (JJ short) (NN spectrogram)) (VP (VBD was) (VP (VP (VBN considered) (PP (IN as) (NP (DT a) (NN picture)))) (CC and) (VP (VBN processed) (PP (IN by) (NP (JJ convolutional) (NN network))) (ADVP (RB too))))) (. .))

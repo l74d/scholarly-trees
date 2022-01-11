@@ -1,0 +1,2 @@
+(S (NP (PRP He)) (ADVP (RB later)) (VP (VBD proved) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (ADVP (RB indeed)) (NP (DT the) (NN case)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP he)) (VP (VBD overlooked) (NP (DT a) (JJ non-trivial) (NN case)) (PP (IN in) (NP (PRP$ his) (NN proof)))) (. .))

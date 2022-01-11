@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP tune) (NP (NP (DT the) (JJ temporal) (NN resolution)) (PP (IN of) (NP (NNS datasets)))) (S (VP (TO to) (VP (VB test) (NP (NN model) (NN robustness) (CC and) (NN generalization)))))) (. .))

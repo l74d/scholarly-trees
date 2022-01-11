@@ -1,0 +1,6 @@
+(S (NP (JJ Decimal-to-binary) (NN conversion)) (VP (VBZ is) (ADJP (JJ important) (PP (TO to) (NP (JJ modern) (JJ binary) (NNS computers))))) (. .))
+(S (NP (NP (DT The) (JJ classical) (NN method)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem))))))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NN division) (NN operation))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT a) (JJ decimal-to-binary) (NN conversion) (NN method)) (VP (VBN based) (PP (IN on) (NP (NN addition) (NN operation)))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (ADVP (RB very) (RB easily)) (VBN implemented) (PP (IN by) (NP (NN software))))) (. .))
+(S (NP (DT The) (NN cost) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN latter)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ preferable)) (PP (IN than) (NP (DT the) (JJ classical) (NN method)))))))) (. .))
+(S (ADVP (RB Thus)) (NP (NP (DT the) (JJ current) (NNP Input/Output) (NN translation) (NN hardware)) (SBAR (S (VP (TO to) (VP (VB convert) (PP (IN between) (NP (NP (DT the) (JJ internal) (NN digit) (NNS pairs)) (CC and) (NP (DT the) (JJ external) (NN standard) (NNP BCD) (NNS codes))))))))) (VP (MD can) (VP (VB be) (VP (ADVP (RB reasonably)) (VBN removed)))) (. .))

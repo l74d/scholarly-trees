@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (NN way)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem))))))) (VP (VBZ is) (S (VP (TO to) (VP (VB evaluate) (NP (DT all) (JJ possible) (NN feature) (NNS subsets)))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (S (VP (VBG evaluating) (NP (DT all) (JJ possible) (NN feature) (NNS subsets)))) (VP (VBZ is) (NP (DT an) (JJ exhaustive) (NN search)))) (CC and) (S (ADVP (RB thus)) (NP (PRP it)) (VP (VBZ has) (NP (JJ high) (JJ computational) (NN complexity)))) (. .))

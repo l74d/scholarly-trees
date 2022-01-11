@@ -1,0 +1,1 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (DT no) (NN need) (S (VP (TO to) (VP (VB obtain) (NP (DT a) (JJ semantic) (NN segmentation)) (PP (IN for) (NP (NP (DT each) (NN frame)) (PP (IN in) (NP (DT a) (NN sequence))))) (, ,) (SBAR (IN so) (IN that) (S (NP (PRP it)) (VP (MD could) (VP (VB achieve) (NP (DT a) (JJ reasonable) (NN computation) (NN time))))))))))) (. .))

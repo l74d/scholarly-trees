@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN verification) (NN code)) (VP (VBZ is) (NP (NP (DT an) (JJ automated) (NN test) (NN method)) (VP (VBN used) (S (VP (TO to) (VP (VB distinguish) (PP (IN between) (NP (NNS humans) (CC and) (NNS computers))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (S (VP (VBG identifying) (NP (DT a) (NN verification) (NN code)) (S (VP (VBG using) (NP (DT a) (JJ convolutional) (JJ neural) (NN network)))))) (VP (VBZ is) (ADJP (JJ difficult)) (SBAR (WHADVP (WRB when)) (S (NP (NN training) (NNS data)) (VP (VBP are) (ADJP (JJ insufficient)))))) (. .))

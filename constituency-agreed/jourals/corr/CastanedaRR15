@@ -1,0 +1,3 @@
+(S (NP (NNS Tasks) (CC and) (NNS objects)) (VP (VBP are) (NP (NP (CD two) (JJ predominant) (NNS ways)) (PP (IN of) (S (VP (VBG specifying) (NP (VBN distributed) (NNS problems))))))) (. .))
+(S (NP (DT An) (NN object)) (VP (VBZ is) (VP (VBN specified) (PP (IN by) (NP (NP (DT an) (NN automaton)) (VP (VBG describing) (NP (NP (DT the) (NNS outputs)) (SBAR (S (NP (DT the) (NN object)) (VP (MD may) (VP (VB produce) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN accessed) (ADVP (RB sequentially)))))))))))))))) (. .))
+(S (PP (IN For) (NP (NNS objects))) (NP (NN linearizability)) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN used) (, ,) (NP (DT a) (ADJP (RB very) (JJ elegant) (CC and) (JJ useful)) (NN consistency) (NN condition)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (JJ Many) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN in) (NP (JJ prior) (NN literature))) (S (VP (TO to) (VP (VB guarantee) (NP (JJ resilient) (JJ multi-agent) (NN consensus)) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ adversarial) (NNS attacks) (CC or) (NNS faults))))))))))) (. .))

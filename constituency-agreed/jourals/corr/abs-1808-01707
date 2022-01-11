@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB obtain) (NP (DT the) (NN solution) (NNS values))))) (, ,) (NP (JJ iterative) (NNS computations)) (VP (VBP are) (VP (VBN required) (, ,) (PP (ADVP (RB even)) (IN for) (NP (NP (JJ simple) (NNS cases)) (PP (IN with) (NP (JJ compact) (JJ mathematical) (NNS formulations))))))) (. .))
+(S (NP (DT This) (JJ fresh) (NN viewpoint)) (VP (VBZ provides) (NP (NP (JJ useful) (NN mechanism)) (CC and) (NP (JJ fundamental) (NN information))) (PP (IN in) (S (VP (VBG finding) (NP (DT the) (NN optimization) (NN solution) (NNS values)))))) (. .))

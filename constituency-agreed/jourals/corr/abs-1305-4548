@@ -1,0 +1,1 @@
+(S (S (NP (DT Each) (NN agent)) (VP (VBZ begins) (PP (IN with) (NP (NP (DT a) (JJ single) (NN sample)) (PP (IN from) (NP (DT the) (NN distribution))))))) (, ,) (CC and) (S (NP (DT the) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB learn) (NP (NP (DT the) (JJ empirical) (NN distribution)) (PP (IN of) (NP (DT the) (NNS samples))))))))) (. .))

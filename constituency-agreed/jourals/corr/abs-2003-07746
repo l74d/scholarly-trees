@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN spread)) (PP (IN of) (NP (NP (JJ social) (NN influence)) (, ,) (NP (DT an) (NN alarm)) (, ,) (CC or) (NP (DT a) (JJ social) (NN contagion))))) (VP (MD can) (VP (VB be) (VP (VBN modeled) (S (VP (VBG using) (NP (NN graph) (NN burning))))))) (. .))
+(S (ADVP (RB Computationally)) (, ,) (NP (NN graph) (NN burning)) (VP (VBZ is) (ADJP (JJ hard))) (. .))

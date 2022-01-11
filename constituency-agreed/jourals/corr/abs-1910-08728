@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP test) (NP (PRP$ our) (NN module)) (PP (IN on) (NP (CD three) (NN segmentation) (NN benchmark) (NNS datasets))))) (CC and) (S (NP (JJ experimental) (NNS results)) (VP (VBP show) (NP (JJ significant) (NN improvement)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN communication)) (PP (IN between) (NP (NP (DT the) (NN client)) (CC and) (NP (DT the) (NN server))))) (VP (VBZ is) (VP (VBN established) (PP (IN through) (NP (NNP GPRS))))) (. .))

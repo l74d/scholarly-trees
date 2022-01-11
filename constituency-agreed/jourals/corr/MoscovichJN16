@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (JJ semi-supervised) (NN regression)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN predictor) (NNS variables)) (VP (VBP are) (VP (VBN drawn) (PP (IN from) (NP (DT an) (JJ unknown) (NN manifold)))))))) (. .))

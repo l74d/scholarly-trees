@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ pre-trained) (NNS models)) (VP (VBP are) (ADVP (RB also)) (NP (NP (DT a) (ADJP (RBR more) (JJ effective)) (NN base) (NN mode)) (PP (IN for) (NP (NP (NN transfer) (NN learning)) (PP (IN on) (NP (DT a) (JJ different) (NN document) (NN domain))))))) (. .))

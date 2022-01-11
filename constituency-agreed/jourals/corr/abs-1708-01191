@@ -1,0 +1,1 @@
+(S (PP (IN Without) (NP (DT any) (JJ manual) (NN annotation))) (, ,) (NP (DT the) (NN model)) (VP (VBZ learns) (NP (NP (DT a) (JJ structured) (NN representation)) (PP (IN of) (NP (NP (NNS postures)) (CC and) (NP (PRP$ their) (JJ temporal) (NN development)))))) (. .))

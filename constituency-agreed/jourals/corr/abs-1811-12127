@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN implementation) (NN regime)) (SBAR (WHNP (WDT that)) (S (VP (VBZ leverages) (NP (JJ propositional) (NN knowledge) (NN compilation)) (PP (IN for) (S (VP (VBG scaling) (PRT (RP up)) (NP (NN inference)))))))))) (. .))

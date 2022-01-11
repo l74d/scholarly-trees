@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT the) (JJ typical) (NN case)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NN game)) (VP (VBZ is) (ADJP (JJ decomposable))))))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP Shapley) (NN value)) (VP (MD can) (VP (VB be) (VP (VBN obtained) (ADVP (RB separately)) (PP (IN for) (NP (DT each) (NN subgame))))))))) (. .))

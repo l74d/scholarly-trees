@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN perceptron)) (VP (VBZ is) (NP (NP (DT the) (JJ basic) (NN form)) (PP (IN of) (NP (DT a) (JJ neural) (NN network))))))) (, ,) (NP (NP (DT the) (JJ efficient) (NN implementation)) (PP (IN of) (NP (NN analog) (NN activation) (NNS functions)))) (VP (VBZ is) (VP (VBN required))) (. .))

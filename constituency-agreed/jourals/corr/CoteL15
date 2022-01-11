@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (DT the) (JJ hidden) (NN layer) (NN size)) (VP (VP (VBZ is) (ADJP (JJ adaptive))) (CC and) (VP (MD can) (VP (VB grow) (PP (IN during) (NP (NN training)))))) (. .))

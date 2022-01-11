@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN benchmark)) (VP (VBD was) (VP (VBN run) (PP (IN for) (NP (NP (JJ various) (NNS settings)) (PP (IN of) (NP (DT the) (JJ relevant) (NN gcc) (NN compiler) (NNS options))))))) (. .))
+(S (NP (DT The) (JJ final) (NNP HS06) (NN benchmark) (NN result)) (VP (VBZ is) (NP (CD 10.4))) (. .))

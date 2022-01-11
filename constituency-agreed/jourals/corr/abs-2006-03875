@@ -1,0 +1,1 @@
+(S (NP (NNS Coresets)) (VP (VBP are) (NP (NP (JJ small) (NNS data) (NNS summaries)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ sufficient) (PP (IN for) (NP (NN model) (NN training))))))))) (. .))

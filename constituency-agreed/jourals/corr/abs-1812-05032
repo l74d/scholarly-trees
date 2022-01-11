@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT the) (NN relay) (NN network)))) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (DT the) (NN transaction) (NN confirmation) (NN time)) (PP (IN by) (S (VP (VBG minimizing) (NP (DT the) (NN information) (NN propagation) (NN latency))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (JJ significant) (NN amount)) (PP (IN of) (NP (NN research)))) (VP (VBZ has) (VP (VBN been) (VP (VBN conducted) (S (VP (TO to) (VP (VB explore) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG using) (NP (JJ spectral) (NN imaging)) (PP (IN in) (NP (JJ biomedical) (NNS applications))))))))))))) (. .))
+(S (NP (DT A) (JJ spectral) (NN estimation) (NN technique)) (VP (VBZ is) (VP (VBN applied) (PP (IN on) (NP (DT each) (NNP RGB) (NN video) (NNS frames))))) (. .))

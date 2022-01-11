@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT these) (NNS subspaces))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB apply) (NP (NP (NP (JJ elliptical) (NN slice) (NN sampling)) (CC and) (NP (JJ variational) (NN inference))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP struggle) (PP (IN in) (NP (DT the) (JJ full) (NN parameter) (NN space)))))))))))) (. .))

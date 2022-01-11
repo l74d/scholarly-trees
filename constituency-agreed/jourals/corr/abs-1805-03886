@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS attractors)) (VP (VBP form) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (PDT all) (DT the) (JJ possible) (NN limit) (NNS behaviors)) (PP (IN of) (NP (DT the) (JJ neural) (NN network))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (CD two) (NN network) (NNS structures)) (SBAR (WHNP (WDT that)) (S (VP (VBP maximize) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ possible) (NN limit) (NNS behaviors)))))))))))) (. .))

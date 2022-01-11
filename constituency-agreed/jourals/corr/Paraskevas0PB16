@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG routing) (NP (NNS packets)) (PP (IN though) (NP (NP (NNS paths)) (PP (IN with) (NP (NP (JJ large) (NN percentage)) (PP (IN of) (NP (JJ malicious) (NNS nodes))))))))))))) (. .))

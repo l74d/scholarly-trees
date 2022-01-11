@@ -1,0 +1,1 @@
+(S (S (NP (NP (JJS Nearest) (NNS neighbors)) (PP (IN in) (NP (NN word) (NN embedding) (NNS models)))) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN observed) (S (VP (TO to) (VP (VB be) (ADJP (RB semantically) (JJ similar)))))))) (, ,) (CC but) (S (NP (NP (DT the) (NNS relations)) (PP (IN between) (NP (PRP them)))) (VP (MD can) (VP (VB vary) (ADVP (RB greatly))))) (. .))

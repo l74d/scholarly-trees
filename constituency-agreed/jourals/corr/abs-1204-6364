@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN context)) (PP (IN of) (NP (DT the) (NN knowledge) (NN domain)))) (VP (VBZ is) (NP (NNP DC) (JJ electrical) (NN circuit))) (. .))
+(S (SBAR (IN As) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (JJ available) (NN corpus)) (PP (IN for) (NP (DT the) (NN domain))))))) (, ,) (NP (PRP we)) (VP (VBD developed) (CC and) (VBD annotated) (NP (DT a) (JJ representative) (NN corpus))) (. .))

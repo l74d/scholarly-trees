@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP finetune) (NP (CD 4) (JJ popular) (NNP CNN) (NNS architectures)) (PP (IN for) (NP (DT this) (NN task)))) (, ,) (CC and) (VP (VB provide) (NP (NP (JJ extensive) (NNS comparisons)) (PP (IN of) (NP (PRP$ their) (NNS outputs)))))) (. .))

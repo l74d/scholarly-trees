@@ -1,0 +1,2 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (JJ such) (NN protection)) (VP (VBZ does) (RB not) (VP (VB prevent) (NP (DT an) (NN attacker)) (PP (IN from) (S (VP (VBG exploiting) (NP (NNS vulnerabilities)) (PP (IN at) (NP (NN runtime)))))))) (. .))
+(S (NP (DT This) (NN information)) (VP (VBZ helps) (S (VP (TO to) (VP (VB resolve) (NP (DT the) (JJ semantic) (NN gap) (NN issue)))))) (. .))

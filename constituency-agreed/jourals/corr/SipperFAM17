@@ -1,0 +1,2 @@
+(SBARQ (WHADJP (WRB How) (JJ big)) (SQ (MD should) (NP (DT the) (NN population)) (VP (VB be))) (. ?))
+(SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS generations)) (SQ (MD should) (NP (DT the) (NN algorithm)) (VP (VB run))) (. ?))

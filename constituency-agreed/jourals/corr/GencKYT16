@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (S (VP (VBG using) (NP (NP (NNP Shannon) (POS 's)) (NN channel) (NN capacity) (NN formulation)) (PP (IN for) (NP (JJ memoryless) (NN channel))))) (VP (VBZ is) (RB not) (ADJP (JJ appropriate) (PP (IN for) (NP (DT the) (NNP MCvD) (NN channel))))) (. .))

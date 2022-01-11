@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (ADJP (NN custom) (VBN made)) (NNS data) (NNS sets)) (PP (IN of) (NP (NP (CD 650) (NNS samples)) (PP (IN of) (NP (CD 13) (JJ different) (NN tabla) (NNS strokes)))))) (VP (VBD were) (VP (VBN used) (PP (IN for) (NP (JJ experimental) (NN purpose))))) (. .))
+(S (NP (NP (CD 31) (JJ different) (NNS features)) (PP (IN with) (NP (PRP$ their) (NN mean) (CC and) (NNS variances)))) (VP (VBD were) (VP (VBN extracted) (PP (IN for) (NP (NN classification))))) (. .))

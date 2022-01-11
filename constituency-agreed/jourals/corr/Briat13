@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN convexification)) (PP (IN of) (NP (DT the) (NNS conditions)))) (VP (VBZ is) (VP (VBN performed) (PP (IN by) (NP (NP (DT a) (NN lifting) (NN process)) (SBAR (WHNP (WDT which)) (S (VP (VBZ introduces) (NP (NP (DT a) (JJ moderate) (NN number)) (PP (IN of) (NP (JJ additional) (NN decision) (NNS variables))))))))))) (. .))
+(S (NP (JJ Several) (NNS examples)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN approach))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB First)) (, ,) (NP (NN agent) (NNS models)) (VP (VBP are) (VP (VBN estimated) (PP (IN from) (NP (NP (DT the) (NNS trajectories)) (VP (VBN obtained) (PP (IN from) (NP (NN image) (NNS sequences)))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (NNS trajectories)) (VP (VBP are) (VP (VBN divided) (PP (IN into) (NP (ADJP (RB semantically) (JJ meaningful)) (NNS segments))))) (. .))
+(S (NP (NP (DT The) (NNS subsegments)) (PP (IN of) (NP (DT a) (NN trajectory)))) (VP (VBP are) (VP (VBN modeled) (PP (IN by) (S (VP (VBG applying) (NP (DT a) (JJ hidden) (NNP Markov) (NN model)) (S (VP (VBG using) (NP (DT the) (VBN estimated) (NN agent) (NNS models))))))))) (. .))

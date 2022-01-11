@@ -1,0 +1,2 @@
+(SBARQ (WHADVP (WRB how)) (SQ (VBZ is) (NP (DT a) (NN network)) (VP (VBN trained))) (. ?))
+(SBARQ (WHNP (WP what)) (SQ (VBZ is) (NP (DT the) (JJ stochastic) (NN gradient) (NN method))) (. ?))

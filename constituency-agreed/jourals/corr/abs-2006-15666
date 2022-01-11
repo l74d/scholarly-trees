@@ -1,0 +1,2 @@
+(S (NP (NNP New) (NNS centroids)) (VP (VBP are) (VP (VBN inserted) (PP (IN in) (NP (NP (NNS areas)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (MD will) (ADVP (RB likely)) (VP (VB reduce) (NP (DT the) (NN error)))))))))) (. .))
+(S (NP (NP (DT The) (JJ subsequent) (NN removal)) (PP (IN of) (NP (NNS centroids)))) (VP (VBZ is) (VP (VBN done) (SBAR (JJ such) (IN that) (S (NP (NP (DT the) (VBG resulting) (NN raise)) (PP (IN in) (NP (NN error)))) (VP (VBZ is) (ADJP (JJ small))))))) (. .))

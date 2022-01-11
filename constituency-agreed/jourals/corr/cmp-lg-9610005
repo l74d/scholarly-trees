@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ stochastic) (NN model)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB learn) (NP (DT a) (NN string) (NN edit) (NN distance) (NN function)) (PP (IN from) (NP (NP (DT a) (NN corpus)) (PP (IN of) (NP (NNS examples))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP it)) (VP (VBZ pro-vides) (NP (NP (DT a) (ADJP (RB publicly) (JJ available)) (NN benchmark) (NN dataset)) (VP (ADVP (RB manually)) (VBN tagged) (PP (IN against) (NP (CD 6) (NNS classes)))))) (. .))

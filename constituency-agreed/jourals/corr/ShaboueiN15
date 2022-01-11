@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ mathematical) (NNS properties)) (VP (VBP include) (NP (NP (DT the) (JJ total) (JJ minimum) (JJ mechanical) (NN power)) (, ,) (NP (JJ minimum) (NN dissipation) (NN theorem)) (, ,) (NP (JJ reciprocal) (NN relation)) (, ,) (CC and) (NP (NP (JJ maximum) (NN principle)) (PP (IN for) (NP (DT the) (NN vorticity)))))) (. .))
+(S (NP (PDT All) (DT the) (VBN developed) (NNS theorems)) (VP (VP (VBP have) (NP (JJ firm) (JJ mechanical) (NNS bases))) (CC and) (VP (VBP are) (ADJP (JJ independent) (PP (IN of) (NP (JJ numerical) (NNS methods)))))) (. .))

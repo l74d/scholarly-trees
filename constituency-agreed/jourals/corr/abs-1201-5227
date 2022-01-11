@@ -1,0 +1,2 @@
+(S (NP (VBG Thresholding)) (VP (VBZ plays) (NP (DT a) (JJ major)) (PP (IN in) (NP (NP (NN binarization)) (PP (IN of) (NP (NNS images)))))) (. .))
+(S (PP (IN In) (NP (JJ such) (NNS cases))) (, ,) (NP (NP (NN binarization)) (PP (IN with) (NP (JJ local) (NN thresholding)))) (VP (VBZ is) (ADJP (RBR more) (JJ appropriate))) (. .))

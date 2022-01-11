@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT each) (NN pattern))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT an) (ADJP (RB easily) (VBN constructed)) (NN automaton)) (SBAR (WHNP (WDT that)) (S (VP (VBZ recognises) (NP (NP (JJ prolific) (NNS compositions)) (PP (IN for) (NP (DT that) (NN pattern))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (DT these) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB have) (NP (JJ discriminatory) (NNS effects)))))))) (. .))
+(S (NP (DT Some) (NNS organizations)) (VP (VBP have) (VP (VBN tried) (S (VP (TO to) (VP (VB mitigate) (NP (DT these) (NNS effects)) (PP (IN by) (S (VP (VBG removing) (NP (JJ demographic) (NNS features)) (PP (IN from) (NP (NP (DT an) (NN algorithm) (POS 's)) (NNS inputs))))))))))) (. .))

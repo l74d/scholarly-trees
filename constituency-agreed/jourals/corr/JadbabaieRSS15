@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ complementary) (NN direction)) (VP (VBZ is) (S (VP (TO to) (VP (VB develop) (NP (NP (NN prediction) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP perform) (ADVP (RB well)) (PP (IN against) (NP (JJ complex) (NNS benchmarks))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT these) (CD two) (NNS directions)) (ADVP (RB together))) (. .))

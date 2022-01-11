@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN loop) (NN iteration) (NNS specifications)) (ADVP (RB also)) (VP (VBP reveal) (SBAR (WHADVP (WRB where)) (S (NP (NN synchronisation)) (VP (VBZ is) (VP (VBN needed) (PP (IN in) (NP (DT the) (JJ parallelised) (NN program)))))))) (. .))

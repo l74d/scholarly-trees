@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ prominent) (NN feature)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (JJ same) (NNP LSTM) (NN architecture)) (, ,) (PP (IN with) (NP (JJ identical) (NNS parameters))) (, ,)) (VP (VBZ is) (VP (VBN trained) (PP (IN across) (NP (NN frequency) (NNS bins)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS schemes)) (VP (VBP take) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (JJ inherent) (NN computation) (NN order)) (PP (IN within) (NP (DT a) (NN worker) (NN node))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP confirm) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NNS techniques))))) (. .))

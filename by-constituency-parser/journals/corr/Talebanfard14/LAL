@@ -1,0 +1,1 @@
+(S (VP (VB Let) (S (NP ($ $) (VB m) (PRN (-LRB- -LRB-) (UH n) (, ,) (NN k) (-RRB- -RRB-)) ($ $)) (VP (VB be) (NP (NP (DT the) (JJ maximum) (NN number)) (PP (IN of) (NP (NP (JJ prime) (NNS implicants)) (SBAR (WHNP (IN that)) (S (NP (NP (DT any) (ADJP ($ $) (JJ k)) ($ $) (NN -CNF)) (PP (IN on) (NP (JJ n) (NNS variables)))) (VP (MD can) (VP (VB have))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN paper)) (VP (VBZ reviews) (NP (NP (DT the) (JJ main) (NN performance) (NNS issues)) (, ,) (PP (VBG including) (NP (NP (NN latency)) (, ,) (NP (NN energy) (NN consumption)) (CC and) (NP (NN network) (NN throughput)))))) (. .))

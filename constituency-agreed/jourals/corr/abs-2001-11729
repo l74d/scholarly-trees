@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm) (NN design)) (VP (VBZ is) (VP (VBN formulated) (PP (IN as) (NP (DT a) (JJ non-convex) (NN optimization) (NN problem))) (S (VP (VBG taking) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (JJ maximum) (NN interference) (NN tolerance)) (PP (IN of) (NP (DT the) (JJ primary) (NNS users)))))))) (. .))

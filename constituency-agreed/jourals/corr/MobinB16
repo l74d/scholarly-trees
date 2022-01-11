@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP review) (NP (NP (NP (JJ generative) (NNS models)) (VP (VBN built) (PP (IN with) (NP (JJ neural) (NNS networks))))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNS architectures)) (PP (IN for) (S (VP (VBG creating) (NP (NP (JJ neural) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP learn) (NP (NNS analogies)))))))))))) (. .))

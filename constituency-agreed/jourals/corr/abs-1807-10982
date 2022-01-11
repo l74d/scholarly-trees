@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ is) (VP (VBN implemented) (PP (IN as) (NP (JJ neural) (NNS networks))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN trained) (ADVP (RB jointly)) (PP (IN with) (NP (DT an) (VBG existing) (NN action) (NN detection) (NN system))))))) (. .))

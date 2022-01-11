@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ assumes) (SBAR (IN that) (S (NP (NNS labels)) (VP (VBP are) (VP (VBN generated) (PP (IN by) (NP (NP (DT a) (NN probability) (NN distribution)) (PP (IN over) (NP (NNS items) (CC and) (NNS labels)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB finally)) (VP (VBP show) (NP (NP (DT some) (JJ empirical) (NNS evaluations)) (PP (IN over) (NP (JJ real) (NNS datasets))))) (. .))

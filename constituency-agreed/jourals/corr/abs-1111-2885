@@ -1,0 +1,1 @@
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (NN recommender) (NNS systems))))) (, ,) (NP (NP (DT the) (NN statistic)) (SBAR (S (NP (PRP we)) (VP (VBP consider))))) (VP (VBZ is) (NP (NP (DT a) (JJ linear) (NN predictor) (NN function)) (PP (IN with) (NP (ADJP (RB publicly) (VBN known)) (NNS weights))))) (. .))

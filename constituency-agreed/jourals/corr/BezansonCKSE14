@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN core) (NN abstraction)) (SBAR (S (NP (PRP we)) (VP (VBP use))))) (VP (VBZ is) (NP (JJ multiple) (NN dispatch))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN come) (S (VP (TO to) (VP (VB believe) (SBAR (IN that) (S (SBAR (IN while) (S (NP (JJ multiple) (NN dispatch)) (VP (VBZ has) (RB not) (VP (VBN been) (ADJP (RB especially) (JJ popular)) (PP (IN in) (NP (NP (JJS most) (NNS kinds)) (PP (IN of) (NP (NN programming))))))))) (, ,) (NP (JJ technical) (NN computing)) (VP (VBZ is) (NP (PRP$ its) (NN killer) (NN application)))))))))) (. .))

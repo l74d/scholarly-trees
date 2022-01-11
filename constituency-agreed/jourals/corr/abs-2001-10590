@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ has) (NP (NP (CD three) (NNS phases)) (, ,) (PP (VBG including) (NP (NP (DT a) (NN feature) (NN extractor)) (, ,) (NP (DT a) (NN tag) (NN generator)) (, ,) (CC and) (NP (DT an) (NN image) (NN annotator)))))) (. .))

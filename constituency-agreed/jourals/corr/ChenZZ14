@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ numerical) (NN algorithm)) (PP (IN of) (NP (JJ inverse) (NNS kinematics)))) (VP (VBD was) (VP (VBN given) (ADVP (RB too)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN reliability)) (PP (IN of) (NP (NP (JJ numerical) (NN algorithm)) (PP (IN of) (NP (JJ inverse) (NNS kinematics)))))) (VP (VBD was) (VP (VBN verified) (PP (IN by) (NP (DT the) (NN simulation) (NN result))))) (. .))

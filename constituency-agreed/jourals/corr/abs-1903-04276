@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ constant) (NN growth)) (PP (IN of) (NP (DT the) (NN e-commerce) (NN industry)))) (VP (VBZ has) (VP (VBN rendered) (S (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN product) (NN retrieval)))) (ADJP (RB particularly) (JJ important))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NNP UPM)) (, ,) (NP (NP (DT an) (JJ unsupervised) (NN algorithm)) (PP (IN for) (S (VP (VBG matching) (NP (NNS products)) (PP (IN by) (NP (PRP$ their) (NNS titles))))))))) (. .))

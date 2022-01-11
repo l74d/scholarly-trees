@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (JJ present) (CC and) (VBZ analyze) (NP (NP (DT a) (JJ numerical) (NN method)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (DT the) (JJ time-dependent) (JJ linear) (NNP Pauli) (NN equation)) (PP (IN in) (NP (CD three) (NNS space-dimensions))))))))) (. .))
+(S (NP (NP (DT Some) (NAC (NN proof) (PP (IN of) (NP (NN concept)))) (NNS examples)) (PP (IN of) (NP (JJ numerical) (NNS simulations)))) (VP (VBP are) (VP (VBN presented))) (. .))

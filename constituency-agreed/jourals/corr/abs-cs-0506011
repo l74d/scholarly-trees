@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN conjecture)) (VP (VBD was) (VP (VBN made) (PP (IN for) (NP (NP (DT the) (NNS dimensions)) (PP (IN of) (NP (DT these) (NNS codes))))) (SBAR (WHADVP (WRB when)) (S (NP (NN q)) (VP (VBZ is) (ADJP (JJ odd))))))) (. .))
+(S (NP (DT The) (NN conjecture)) (VP (VBZ is) (VP (VBN proved) (PP (IN in) (NP (DT this) (NN note))))) (. .))

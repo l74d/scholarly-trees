@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN optimization)) (PP (IN of) (NP (JJ dynamic) (NNS problems)))) (VP (VBZ is) (ADJP (DT both) (JJ widespread) (CC and) (JJ difficult))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG conducting) (NP (JJ dynamic) (NN optimization))))) (, ,) (NP (NP (DT a) (NN balance)) (PP (IN between) (NP (NP (NN reinitialization)) (CC and) (NP (JJ computational) (NN expense))))) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN found)))))) (. .))
+(S (PP (IN In) (NP (JJ parallel) (JJ genetic) (NNS algorithms))) (, ,) (NP (JJ multiple) (NNS sub-populations)) (ADVP (RB concurrently)) (VP (VBP try) (S (VP (TO to) (VP (VB optimize) (NP (DT a) (ADJP (RB potentially) (JJ dynamic)) (NN problem)))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN By) (NP (NN construction))) (, ,) (NP (NN decision) (NNS trees)) (VP (VBP attempt) (S (VP (TO to) (VP (VB create) (NP (JJ homogeneous) (NN class) (NNS distributions)) (PP (IN in) (NP (PRP$ their) (NN leaf) (NNS nodes))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ non-homogeneous) (NN leaf) (NNS nodes)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN produced))) (. .))

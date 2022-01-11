@@ -1,0 +1,3 @@
+(S (S (VP (TO To) (VP (VB maximize) (NP (PRP$ its) (NN success))))) (, ,) (NP (DT an) (NN AGI)) (ADVP (RB typically)) (VP (VBZ needs) (S (VP (TO to) (VP (VB explore) (NP (PRP$ its) (ADJP (RB initially) (JJ unknown)) (NN world)))))) (. .))
+(SQ (VBZ Is) (NP (EX there)) (NP (NP (DT an) (JJ optimal) (NN way)) (PP (IN of) (S (VP (VBG doing) (ADVP (RB so)))))) (. ?))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP derive) (NP (DT an) (JJ affirmative) (NN answer)) (PP (IN for) (NP (NP (DT a) (JJ broad) (NN class)) (PP (IN of) (NP (NNS environments)))))) (. .))

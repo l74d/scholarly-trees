@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP formalize) (NP (DT the) (NN collision) (NN detection) (NN problem))) (CC and) (VP (VB prove) (NP (NP (PRP$ our) (NN algorithm) (POS 's)) (NN correctness)))) (. .))

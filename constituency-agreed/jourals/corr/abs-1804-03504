@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN algorithm)) (VP (MD may) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB predict) (NP (NP (DT any) (NNS clusters)) (VP (ADVP (RB previously)) (VBN observed) (PP (IN in) (NP (NP (DT a) (NN driver) (POS 's)) (NN trip) (NN history))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ assumes) (SBAR (IN that) (S (NP (NP (DT the) (NN driver) (POS 's)) (JJ historical) (NNS trips)) (VP (VBP are) (VP (VBN grouped) (PP (IN into) (NP (NP (NNS clusters)) (VP (VBG sharing) (NP (JJ similar) (NNS patterns)))))))))) (. .))
+(S (ADVP (RB Rather)) (NP (PRP it)) (VP (VBZ relies) (PP (IN on) (NP (NP (DT the) (NNS frequencies)) (PP (IN of) (NP (NP (NNS co-occurrences)) (PP (IN of) (NP (NP (NN road) (NNS links)) (CC and) (NP (NN trip) (NNS clusters))))))))) (. .))

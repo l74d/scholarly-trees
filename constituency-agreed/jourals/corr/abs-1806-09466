@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (DT these) (NNS parameters))) (, ,) (NP (NP (DT the) (NN playback) (NN time)) (PP (IN of) (NP (NN video) (NNS segments)))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (S (VP (VBG characterizing) (NP (NP (DT the) (NN download) (NN time)) (PP (IN of) (NP (NP (DT each) (VBN coded) (NN chunk)) (PP (IN for) (NP (DT each) (NN video) (NN segment))))))))))) (. .))

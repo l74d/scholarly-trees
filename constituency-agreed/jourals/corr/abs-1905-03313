@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (NN classification) (NN network)) (S (VP (TO to) (VP (VB filter) (PRT (RP out)) (NP (NP (NNS data)) (ADJP (JJ unsuitable) (PP (IN for) (NP (DT the) (NN segmentation) (NN network))))))))) (. .))

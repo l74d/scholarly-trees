@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD studied) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (DT a) (JJ robotic) (NN orthosis)) (VP (VBN designed) (S (VP (TO to) (VP (VB assist) (NP (DT the) (JJ paretic) (NN hand)) (PP (IN after) (NP (NN stroke))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (JJ clinical) (NNS outcomes)) (PP (IN of) (NP (NP (DT a) (NN pilot) (NN study)) (VP (VBN designed) (PP (IN as) (NP (NP (DT a) (NN feasibility) (NN test)) (PP (IN for) (NP (DT these) (NNS hypotheses)))))))))) (. .))

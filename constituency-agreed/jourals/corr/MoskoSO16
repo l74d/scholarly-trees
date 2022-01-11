@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT a) (NN hop) (NN limit)))) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (DT the) (NN origin)) (PP (IN of) (NP (DT a) (NN packet)))) (VP (MD must) (VP (VB know) (NP (NP (DT the) (JJ maximum) (NN distance)) (SBAR (S (NP (DT a) (NN packet)) (VP (MD could) (VP (VB travel) (PP (IN without) (NP (NNS loops))))))))))))) (. .))

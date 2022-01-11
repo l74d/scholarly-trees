@@ -1,0 +1,1 @@
+(S (SBAR (IN Although) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN thought) (S (VP (TO to) (VP (VB be) (ADJP (JJ intractable))))))))) (, ,) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (PRP$ its) (NN hardness)))) (VP (VBZ has) (VP (VBN been) (VP (VBG lacking)))) (. .))

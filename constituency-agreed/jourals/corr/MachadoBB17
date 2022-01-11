@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP are) (ADJP (JJ useful) (PP (IN for) (NP (JJ multiple) (NNS tasks)))) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP are) (VP (VBN discovered) (PP (IN without) (S (VP (VBG taking) (NP (NP (DT the) (NN environment) (POS 's)) (NNS rewards)) (PP (IN into) (NP (NN consideration))))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (JJ different) (NNS options)) (VP (VBP act) (PP (IN at) (NP (JJ different) (NN time) (NNS scales))) (, ,) (S (VP (VBG making) (S (NP (PRP them)) (ADJP (JJ helpful) (PP (IN for) (NP (NN exploration)))))))) (. .))

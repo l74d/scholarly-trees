@@ -1,0 +1,2 @@
+(S (NP (NNS Results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (NP (DT the) (NN inclusion)) (PP (IN of) (NP (DT the) (VBN proposed) (NN histogram) (NN layer)))) (VP (VBZ improves) (NP (NN performance)))))) (. .))
+(S (NP (NP (DT The) (NN source) (NN code)) (PP (IN for) (NP (DT the) (NN histogram) (NN layer)))) (VP (VBZ is) (ADJP (RB publicly) (JJ available))) (. .))

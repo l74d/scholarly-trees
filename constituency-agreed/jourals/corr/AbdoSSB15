@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP subdivide) (NP (NP (DT the) (NNS objects)) (PP (IN in) (NP (NNS containers)))) (PP (IN by) (S (VP (VBG modeling) (NP (DT a) (JJ spectral) (NN clustering) (NN problem)))))) (. .))
+(S (NP (PRP$ Our) (NN solution)) (VP (VP (VBZ is) (ADJP (JJ easy) (S (VP (TO to) (VP (VB update)))))) (, ,) (VP (VBZ does) (RB not) (VP (VB require) (NP (JJ complex) (NN modeling)))) (, ,) (CC and) (VP (VBZ improves) (PP (IN with) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN user) (NNS data))))))) (. .))

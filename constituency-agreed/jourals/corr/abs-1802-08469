@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP investigate) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ various) (NNS constraints)) (PP (IN on) (NP (NNS reconfigurations)))) (VP (VBP affect) (NP (NP (DT the) (NN decidability) (CC and) (NN complexity)) (PP (IN of) (NP (DT the) (NN synchronization) (NN problem)))))))) (. .))

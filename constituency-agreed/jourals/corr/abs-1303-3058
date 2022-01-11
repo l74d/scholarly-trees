@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN weight) (NN vector)) (VP (VBZ is) (VP (VBN iterated) (PP (IN by) (S (VP (VBG subtracting) (NP (DT the) (NN scaling) (JJ auxiliary) (NN vector)) (PP (IN from) (NP (DT the) (NN reference) (NN vector)))))))) (. .))

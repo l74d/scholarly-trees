@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN focus)) (PP (IN of) (NP (DT this) (NN essay)))) (VP (VBZ is) (NP (NP (DT a) (JJ rigorous) (NN treatment)) (PP (IN of) (NP (JJ infinite) (NNS games))))) (. .))
+(S (NP (DT Both)) (VP (VBP differ) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS imputations)))))) (. .))
+(S (S (ADVP (RB Therefore)) (NP (DT all) (JJ infinite) (NNS games)) (VP (VBP have) (NP (NP (DT a) (ADJP (RB countably) (JJ infinite)) (NN number)) (PP (IN of) (NP (NNS turns)))))) (: ;) (S (NP (NP (DT the) (NN set)) (PP (IN of) (NP (DT all) (JJ infinite) (NNS games)))) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (DT each) (ADJP (JJ strong) (CC and) (JJ weak)) (JJ infinite) (NN game)))))) (. .))
+(S (NP (DT This) (NN result)) (VP (VBZ has) (NP (NP (DT a) (ADJP (RB very) (JJ important)) (NN consequence)) (: :) (NP (NP (DT the) (NN ordinality)) (PP (IN of) (NP (NNS turns)))))) (. .))

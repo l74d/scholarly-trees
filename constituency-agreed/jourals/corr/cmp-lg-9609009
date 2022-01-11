@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Several) (JJ automatic) (NNS methods)) (PP (IN for) (NP (DT this) (NN task)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN in) (NP (JJ recent) (NNS years)))))) (. .))
+(S (NP (NP (DT The) (JJ greedy) (NN nature)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ independent) (PP (IN of) (NP (NN memory) (NNS resources)))))) (. .))
+(S (NP (PRP$ Its) (NN output)) (VP (MD can) (VP (VB be) (VP (VBN converted) (ADVP (RB quickly) (CC and) (RB easily)) (PP (IN into) (NP (DT a) (NN sentence) (NN alignment)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN tracking)) (PP (IN of) (NP (NP (DT a) (NN trajectory)) (PP (IN for) (NP (DT a) (JJ nonholonomic) (NN system)))))) (PP (IN by) (S (VP (VBG recasting) (NP (DT the) (NN problem)) (PP (IN as) (NP (DT an) (JJ optimal) (NN control) (NN problem))))))) (. .))

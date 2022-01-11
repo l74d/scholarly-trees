@@ -1,0 +1,2 @@
+(S (ADVP (JJR Worse)) (, ,) (NP (JJ fresh) (NNS patches)) (VP (VBP tend) (S (VP (TO to) (VP (VB harm) (NP (NN system) (NN dependability))))) (, ,) (S (ADVP (RB hence)) (VP (VBG deterring) (NP (NNS users)) (PP (IN from) (S (VP (VBG deploying) (NP (PRP them)))))))) (. .))
+(S (NP (DT The) (NN evaluation)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN system)) (VP (VBZ is) (ADJP (JJ effective) (CC and) (JJ efficient)))))) (. .))

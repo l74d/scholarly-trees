@@ -1,0 +1,2 @@
+(S (NP (NN Topic) (NNS models)) (VP (VBP are) (NP (NP (JJ probabilistic) (NNS models)) (PP (IN for) (S (VP (VBG discovering) (NP (JJ topical) (NNS themes)) (PP (IN in) (NP (NP (NNS collections)) (PP (IN of) (NP (NNS documents)))))))))) (. .))
+(S (NP (JJ Few) (NNS models)) (VP (VBD were) (VP (VBN developed) (S (VP (TO to) (VP (VB address) (NP (DT this) (CD two) (NNS deficiencies))))))) (. .))

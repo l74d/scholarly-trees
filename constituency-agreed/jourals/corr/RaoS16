@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP examine) (NP (CD two) (NNS applications)) (PP (IN in) (ADJP (JJ particular)))) (. .))
+(S (NP (DT The) (NN model)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB classify) (NP (NNS messages)) (PP (IN with) (NP (NP (DT a) (JJ high) (NN accuracy)) (PP (IN of) (NP (CD 87.57) (NN %)))))))))) (. .))

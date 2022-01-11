@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT a) (NN multiview) (NN system))) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB answer) (NP (CD two) (JJ important) (NNS questions)) (SBAR (WHADVP (WRB when)) (S (VP (VBG dealing) (PP (IN with) (NP (NP (NNS ambiguities)) (SBAR (WHNP (WDT that)) (S (VP (VBP arise) (PP (IN from) (NP (NNS occlusions))))))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT these) (NNS questions))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (NN multiview) (NN detection) (NN system)) (, ,) (NP (NNP MVDet)))) (. .))

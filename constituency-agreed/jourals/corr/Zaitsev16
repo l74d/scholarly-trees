@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN neighborhood)) (VP (VBZ is) (VP (VBN extended) (S (VP (TO to) (VP (VB include) (NP (NP (DT a) (NN concept)) (PP (IN of) (NP (NN radius))))))))) (. .))
+(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NNS neighbors)))) (VP (VBZ is) (VP (VBN calculated))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN runtime)) (VP (VBZ supports) (NP (JJ reactive) (VBN distributed) (NNS systems)) (PP (IN by) (NP (NN design)))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN framework)))) (NP (PRP we)) (VP (VBP implement) (NP (NP (DT a) (NN case) (NN study) (NN application)) (SBAR (WHNP (WDT which)) (S (VP (VBZ highlights) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (PRP$ our) (NN approach))))))))) (. .))

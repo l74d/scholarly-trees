@@ -1,0 +1,2 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NN face) (NN hallucination) (NNS methods)))) (VP (VBP are) (VP (VBN designed) (PP (IN for) (NP (JJ complete) (NNS inputs))))) (. .))
+(S (NP (DT The) (VBG following) (JJ upsampling) (NN network)) (VP (VBZ is) (S (VP (TO to) (VP (VB upsample) (NP (NP (DT the) (NN output)) (PP (IN of) (NP (VBG inpainting) (NN network)))))))) (. .))

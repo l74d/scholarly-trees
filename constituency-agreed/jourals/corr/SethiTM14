@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG verifying) (NP (NN deadlock) (NN freedom)) (PP (IN for) (NP (JJ symmetric) (NN cache) (NN coherence) (NNS protocols)))))))) (. .))
+(S (NP (JJ Efficient) (NNS abstractions)) (VP (MD can) (VP (VB be) (VP (VBN constructed) (S (VP (TO to) (VP (VB verify) (NP (DT these) (NNS invariants)))))))) (. .))

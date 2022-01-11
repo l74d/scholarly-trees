@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ main) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (SBAR (IN since) (S (S (VP (VBG avoiding) (NP (NN orthogonalization)))) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN scalability)) (PP (IN of) (NP (DT the) (VBN proposed) (JJ numerical) (NN method))))))))) (. .))

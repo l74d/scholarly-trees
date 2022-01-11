@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NML (NN formulation) (CC and) (NN training)) (NN procedure)) (PP (IN for) (NP (NP (JJ full) (JJ Boltzmann) (NNS machines)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT a) (JJ mixed) (JJ binary) (JJ quadratic) (NN feasibility) (NN problem)))))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (PP (IN As) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (NN concept))))) (, ,) (NP (DT the) (NN theory)) (VP (VBZ is) (UCP (ADVP (RB analytically)) (CC and) (VP (ADVP (RB numerically)) (VBN tested) (PP (IN on) (NP (NN XOR) (NNS patterns)))))) (. .))

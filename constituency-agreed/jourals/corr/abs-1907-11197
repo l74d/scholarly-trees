@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ main) (NN focus)) (VP (VBZ lies) (PP (IN on) (NP (NP (DT the) (NN convergence) (NN analysis)) (PP (IN of) (NP (DT the) (NN discretization) (NN method)))))) (. .))
+(S (NP (DT The) (NNS controls)) (VP (VBP are) (RB not) (VP (VBN discretized))) (. .))
+(S (NP (DT The) (JJ theoretical) (NN convergence) (NNS rates)) (VP (VBP are) (VP (VBN confirmed) (PP (IN in) (NP (DT a) (JJ numerical) (NN example))))) (. .))

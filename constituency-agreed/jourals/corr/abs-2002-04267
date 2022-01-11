@@ -1,0 +1,2 @@
+(SQ (MD Can) (NP (PRP we)) (VP (VB train) (NP (ADJP (JJ interpretable) (CC and) (JJ accurate)) (NNS models)) (, ,) (PP (IN without) (NP (JJ timeless) (NN feature) (NN engineering)))) (. ?))
+(S (NP (NNP New) (NNS models)) (VP (VBP are) (VP (VBN created) (PP (IN on) (NP (NP (ADJP (RB newly) (VBN engineered)) (NNS features)) (VP (VBN extracted) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (DT a) (JJ surrogate) (NN model)))))))))) (. .))

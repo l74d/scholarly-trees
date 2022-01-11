@@ -1,0 +1,3 @@
+(S (NP (DT These) (NNS applications)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP require) (NP (NP (JJ fast) (NNS handoffs)) (PP (IN between) (NP (NN base) (NNS stations)))) (S (VP (TO to) (VP (VB maintain) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NNS connections)))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN scheme)) (VP (VBZ allocates) (NP (NP (DT the) (NN guard) (NNS channels)) (PP (IN for) (NP (NN handoff) (NNS requests)))) (ADVP (RB dynamically)) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN traffic) (NN load)) (PP (IN for) (NP (JJ certain) (NN time) (NN period))))))) (. .))
+(S (NP (DT This) (NN approach)) (VP (VBZ maximizes) (NP (DT the) (NN channel) (NN utilization))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ short) (NN paper)) (VP (VBZ introduces) (NP (NP (NP (DT a) (NN model)) (PP (IN for) (NP (NP (DT the) (NN specification) (CC and) (NN verification)) (PP (IN of) (NP (NML (JJ real) (HYPH -) (NN time)) (NN system) (NN design)))))) (: :) (NP (VBN timed) (NML (NN state) (NN transition)) (NNS diagrams)))) (. .))

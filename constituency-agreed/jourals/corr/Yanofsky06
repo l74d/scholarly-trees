@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN set)) (PP (IN of) (NP (DT all) (NNS programs)))) (VP (VBZ is) (VP (VBN partitioned) (PP (IN into) (NP (NN equivalence) (NNS classes))))) (. .))
+(S (NP (NP (NNP Universal) (NNS properties)) (PP (IN of) (NP (NP (DT the) (NN category)) (PP (IN of) (NP (NNS algorithms)))))) (VP (VBP are) (VP (VBN proved))) (. .))

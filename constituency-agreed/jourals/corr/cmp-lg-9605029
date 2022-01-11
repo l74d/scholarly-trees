@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB devise) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ implements) (NP (PRP$ our) (JJ general) (NN strategy))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ improves) (PP (IN upon) (NP (VBG existing) (NNS methods))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN quality)) (PP (IN of) (NP (NN web) (NNS sources)))) (VP (VBZ has) (VP (VBN been) (ADVP (RB traditionally)) (VP (VBN evaluated) (S (VP (VBG using) (NP (NP (JJ exogenous) (NNS signals)) (PP (JJ such) (IN as) (NP (NP (DT the) (NN hyperlink) (NN structure)) (PP (IN of) (NP (DT the) (NN graph))))))))))) (. .))
+(S (NP (NP (DT A) (NN source)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (JJ few) (JJ false) (NNS facts)))))) (VP (VBZ is) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (ADJP (JJ trustworthy))))))) (. .))
+(S (NP (NP (JJ Manual) (NN evaluation)) (PP (IN of) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (NNS results)))))) (VP (VBZ confirms) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN method))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (JJ numerical) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN training) (NN signal)) (VP (MD can) (VP (VB improve) (NP (DT the) (NNP MSE) (NN performance))))))) (. .))

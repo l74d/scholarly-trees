@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (NP (NP (NN society) (POS 's)) (JJ strong) (NN dependence)) (PP (IN on) (NP (NN electricity))))) (, ,) (NP (NN power) (NNS outages)) (VP (VBP remain) (ADJP (JJ prevalent))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (JJ complementary) (NN technique)) (PP (IN of) (NP (NN power) (NN outage) (NN detection)))))))) (. .))

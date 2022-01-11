@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes) (NP (NP (DT the) (JJ geodesic) (NN center)) (PP (IN of) (NP (DT a) (VBN given) (JJ polygonal) (NN domain))))))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB handle) (NP (JJ general) (JJ polygonal) (NNS domains)) (S (VP (VBG having) (NP (QP (CD one) (CC or) (JJR more)) (JJ polygonal) (NNS holes)))))))))) (. .))

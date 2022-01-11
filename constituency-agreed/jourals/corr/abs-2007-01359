@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ experimental) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (JJ parallel) (NNS data)))) (VP (VBZ improves) (NP (NP (DT the) (JJ overall) (NN performance)) (PP (IN of) (NP (NNS embeddings)))))))) (. .))
+(S (ADVP (RB Nonetheless)) (, ,) (S (VP (VBG exploiting) (NP (DT the) (NNS uncertainties)))) (VP (VBZ is) (ADVP (RB always)) (ADJP (JJ beneficial))) (. .))

@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (DT the) (NN article))) (NP (DT the) (NNS authors)) (VP (VBP present) (NP (NP (DT a) (JJ numerical) (NN method)) (PP (IN for) (S (VP (VBG modelling) (NP (NP (DT a) (JJ laminar-turbulent) (NN transition)) (PP (IN in) (NP (JJ magnetohydrodynamic) (NNS flows))))))))) (. .))
+(S (NP (NP (DT The) (NNS equations)) (PP (IN in) (NP (DT the) (JJ small) (JJ magnetic) (NNP Reynolds) (NNS numbers) (NN approach)))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (NP (NN Speed)) (, ,) (NP (NN pressure)) (CC and) (NP (JJ electrical) (NN potential))) (VP (VBP are) (VP (VBN decomposed) (PP (TO to) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (DT the) (NN state) (NNS values)) (CC and) (NP (DT the) (JJ finite) (NN amplitude) (NNS perturbations)))))))) (. .))
+(S (NP (NP (DT A) (NN solver)) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Nectar++) (NN framework))))) (VP (VBZ is) (VP (VBN described))) (. .))
+(S (NP (DT The) (NNS authors)) (VP (VBP suggest) (S (VP (TO to) (VP (VB use) (PP (IN of) (NP (JJ small-length) (JJ local) (NNS disturbances))) (PP (IN as) (NP (DT a) (NN transition) (NN trigger))))))) (. .))
+(S (NP (PRP They)) (VP (MD can) (VP (VB be) (VP (VBN imposed) (PP (IN by) (NP (NP (VBG blowing)) (CC or) (NP (JJ electrical) (NN enforcing))))))) (. .))
+(S (NP (NP (NP (DT The) (NN stability)) (PP (IN of) (NP (DT the) (NNP Hartmann) (NN flow)))) (CC and) (NP (NP (DT the) (NN flow)) (PP (IN in) (NP (DT the) (NN bend))))) (VP (VBP are) (VP (VBN considered) (PP (IN as) (NP (NNS examples))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN modelled) (PP (IN by) (S (VP (VBG defining) (NP (NP (DT these) (NNS attributes)) (CC and) (NP (PRP$ their) (NNS values))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP model) (NP (DT these) (NNS relationships)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NNS tuples)))))) (. .))

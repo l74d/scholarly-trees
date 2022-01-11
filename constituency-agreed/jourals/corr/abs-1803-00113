@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (, ,) (ADJP (RB fully) (JJ generative)) (NN model)) (PP (IN for) (S (VP (VBG constructing) (NP (JJ astronomical) (NNS catalogs)) (PP (IN from) (NP (JJ optical) (NN telescope) (NN image) (NNS sets)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (NP (CD two) (NNS procedures)) (PP (IN for) (NP (JJ posterior) (NN inference))))) (. .))

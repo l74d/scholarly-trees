@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT every) (NN video) (NN sequence))) (, ,) (NP (NP (DT a) (NN document)) (SBAR (WHNP (WDT that)) (S (VP (VBZ represents) (NP (NN motion) (NN information)))))) (VP (VBZ is) (VP (VBN generated))) (. .))
+(S (NP (DT This)) (VP (VBZ provides) (NP (PRP us)) (PP (IN with) (NP (NP (JJ coarse) (NN localization)) (PP (IN of) (NP (NP (NNS objects)) (PP (IN in) (NP (DT the) (JJ unseen) (NN video)))))))) (. .))

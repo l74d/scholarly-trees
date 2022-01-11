@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NN redundancy)) (VP (MD can) (VP (VB facilitate) (NP (JJ evolutionary) (NNS searches)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (ADJP (RB too) (JJ much)) (NN redundancy)) (VP (MD could) (VP (VB reduce) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NP (NN adaptation)) (PP (IN of) (NP (DT an) (JJ evolutionary) (NN process)))))))) (. .))

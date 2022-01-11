@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (MD can) (VP (VB be) (VP (VP (VBN trained) (PP (IN on) (NP (NN scene) (NNS subvolumes)))) (CC but) (VP (VBN deployed) (PP (IN on) (NP (ADJP (RB arbitrarily) (JJ large)) (NNS scenes))) (PP (IN at) (NP (NN test) (NN time))))))) (. .))

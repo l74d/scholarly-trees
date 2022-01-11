@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (NNP ASR)) (VP (VBZ transcribes) (NP (DT the) (JJ unlabeled) (NN speech) (NNS features))))) (, ,) (NP (NNP TTS)) (VP (VBZ attempts) (S (VP (TO to) (VP (VB reconstruct) (NP (DT the) (JJ original) (NN speech) (NN waveform)) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN text)) (PP (IN from) (NP (NNP ASR)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NN Test) (NN set)) (PP (IN with) (NP (NN redundancy)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS focuses)) (PP (IN in) (NP (JJ recent) (NNS bioinformatics) (NN research))))))) (. .))
+(S (NP (NP (NNP Set) (NN cover) (NN greedy) (NN algorithm)) (PRN (-LRB- -LRB-) (NP (NP (NNP SGA)) (PP (IN for) (ADJP (JJ short)))) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB commonly) (VBN used)) (NN algorithm)) (PP (IN for) (NP (NP (NN test) (VBN set)) (PP (IN with) (NP (NN redundancy))))))) (. .))

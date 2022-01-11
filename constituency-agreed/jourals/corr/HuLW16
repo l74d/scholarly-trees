@@ -1,0 +1,2 @@
+(S (PP (IN From) (NP (NP (DT the) (VBN combined) (NN spectrum)) (VP (VBN aided) (PP (IN by) (NP (DT the) (JJ supplementary) (NNS sensors)))))) (, ,) (NP (DT the) (JJ false) (NNS peaks)) (VP (VBP are) (VP (VBN removed) (SBAR (IN while) (S (NP (DT the) (JJ true) (NNS peaks)) (VP (VBP remain)))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS methods)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN by) (NP (NN simulation) (NNS examples))))) (. .))

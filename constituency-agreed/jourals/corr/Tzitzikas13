@@ -1,0 +1,2 @@
+(S (ADVP (RB Subsequently)) (NP (DT the) (NN paper)) (VP (VBZ reports) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (DT an) (NN evaluation)) (PP (IN with) (NP (NNS users))))))) (. .))
+(S (S (NP (DT The) (NNS results)) (VP (VBD were) (ADJP (RB very) (JJ surprising)))) (: :) (S (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NNS users)))) (VP (VBD responded) (SBAR (IN that) (S (NP (PRP they)) (VP (MD could) (VP (VB tolerate) (NP (DT this) (NN music)) (PP (IN in) (NP (JJ various) (NNS occasions))))))))) (. .))

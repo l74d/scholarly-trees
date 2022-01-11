@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB discover) (NP (NP (DT the) (JJ intrinsic) (NNS relationships)) (PP (IN between) (NP (NP (DT the) (NNS events)) (PP (IN in) (NP (DT a) (NN stream))))))))) (, ,) (NP (PRP we)) (VP (VBD utilized) (NP (DT the) (NNP LSTM) (NN model)) (PP (IN by) (S (VP (VBG rendering) (NP (PRP it)) (PP (IN for) (NP (DT the) (NN activity) (NN segmentation))))))) (. .))

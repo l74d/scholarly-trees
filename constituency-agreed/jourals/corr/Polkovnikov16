@@ -1,0 +1,4 @@
+(S (NP (NNS Convexities)) (VP (VBP define) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (NP (DT the) (NN background)))))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN treated) (PP (IN as) (NP (JJ separate) (JJ gray) (NNS objects))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ multiple) (NNS relations)) (PP (IN among) (NP (NP (PRP them)) (CC and) (NP (PRP$ their) (NNS descendants)))))) (. .))
+(S (NP (NP (JJ Unusual) (NNS effects)) (PP (IN on) (NP (JJ levelized) (JJ gray) (NNS objects)))) (VP (VBP are) (VP (VBN shown))) (. .))

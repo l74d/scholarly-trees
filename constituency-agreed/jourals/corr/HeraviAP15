@@ -1,0 +1,2 @@
+(S (S (VP (VBG Understanding) (NP (NP (DT the) (JJ internal) (NN process)) (PP (IN of) (NP (NNP ConvNets)))))) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN done) (S (VP (VBG using) (NP (NN visualization) (NNS techniques)))))) (. .))
+(S (NP (PRP$ Our) (JJ next) (NNS experiments)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT a) (NN convolution) (NN kernel)) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (DT a) (ADJP (RBR more) (JJ concentrated)) (NN frequency) (NN response)))))) (VP (MD could) (VP (VB be) (ADJP (RBR more) (JJ stable))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP include) (NP (NP (DT the) (NN code)) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NN framework)))))))) (. .))
+(S (NP (NP (DT The) (NNS groups)) (VP (VBN established))) (VP (VBP are) (VP (VBN based) (NP (JJ modular) (NN multiplication) (CC and) (NN addition)))) (. .))

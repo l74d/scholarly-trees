@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (ADVP (RB always)) (NP (NP (QP (JJR more) (IN than) (CD one)) (NN ontology)) (PP (IN for) (NP (DT the) (JJ same) (NN domain))))) (. .))
+(S (NP (NP (NNS Methods)) (PP (IN for) (S (VP (VBG merging) (NP (JJ heterogeneous) (NN domain) (NNS ontologies)))))) (VP (VBP are) (RB not) (VP (VBN included) (PP (IN in) (NP (JJS most) (NNS tools))))) (. .))

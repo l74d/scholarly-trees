@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN built) (CC and) (VBN deployed) (NP (NP (DT a) (NN prototype)) (PP (IN of) (NP (NNP PrivacyGuard)))) (PP (IN with) (NP (NP (NNP Ethereum)) (CC and) (NP (NNP Intel) (NNP SGX)))))) (. .))

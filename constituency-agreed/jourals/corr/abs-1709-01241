@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NNS obstacles)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN traversed) (PP (IN by) (NP (DT the) (NN robot))))))) (, ,) (CC but) (S (NP (DT some)) (VP (MD can) (VP (VB be) (VP (VBN pushed) (CC and) (VBN pulled) (PP (IN by) (NP (DT the) (NN robot))) (PP (IN into) (NP (JJ adjacent) (NNS squares))))))) (. .))

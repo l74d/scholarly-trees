@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG demonstrating) (NP (NP (NN communication) (NNS capabilities)) (PP (IN of) (NP (NNP IPT)))))))) (. .))
+(S (ADVP (RB Further)) (NP (DT the) (NN paper)) (VP (MD can) (VP (VB be) (VP (VBN enhanced) (PP (IN by) (S (VP (VBG looking) (PP (IN for) (NP (NP (NN fault) (NN analysis)) (PP (IN inside) (NP (DT the) (NN motor))))))))))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN done) (PP (IN by) (S (VP (VBG analyzing) (NP (NP (JJ various) (NNS parameters)) (PP (IN of) (NP (DT the) (NN motor)))))))))) (. .))

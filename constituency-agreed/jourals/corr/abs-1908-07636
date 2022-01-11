@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN agent) (POS 's)) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximise) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (DT these) (NNS rewards)))) (PP (IN across) (NP (NP (DT some) (NN number)) (PP (IN of) (NP (NN time) (NNS steps))))))))) (. .))
+(S (NP (DT The) (VBN given) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ novel) (NN variation)) (PP (IN of) (NP (DT the) (NN problem))))) (. .))
+(S (NP (DT The) (JJ theoretical) (NN result)) (VP (VBP are) (VP (VBN supported) (PP (IN by) (NP (JJ experimental) (NN study))))) (. .))

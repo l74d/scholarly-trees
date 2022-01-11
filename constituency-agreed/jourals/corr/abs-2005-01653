@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ efficient) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (NP (DT the) (NN choropleth) (NN map) (NN classification) (NN scheme)) (VP (VBN known) (PP (IN as) (NP (NP (JJ equal) (NN area) (NNS breaks)) (CC or) (NP (JJ geographical) (NNS quantiles)))))))))) (VP (VBZ is) (VP (VBN introduced))) (. .))

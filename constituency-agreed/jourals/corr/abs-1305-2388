@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS packets)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS features))))) (. .))
+(S (CC But) (NP (NP (RB not) (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB be) (VP (VBN analyzed) (S (VP (TO to) (VP (VB detect) (NP (NP (DT that) (JJ specific) (NN type)) (PP (IN of) (NP (NN attack))))))))))))) (. .))

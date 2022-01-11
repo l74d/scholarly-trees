@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN implementation)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (NP (NNS examples)) (PP (IN from) (NP (DT the) (NNP Mizar) (NN library)))))))) (, ,) (CC and) (S (NP (JJ future) (NNS extensions)) (VP (VBP are) (VP (VBN discussed)))) (. .))

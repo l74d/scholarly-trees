@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD focused) (PP (IN on) (S (VP (VBG finding) (NP (NP (DT the) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB learn) (NP (DT the) (JJ same) (NNS data)) (ADVP (RBR more) (RB effectively))))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBD constructed) (NP (DT the) (NN dataset)) (PP (IN with) (NP (JJ simple) (NNS vectors)))) (CC and) (VP (VBD used) (NP (PRP them)) (PP (IN for) (NP (DT the) (NN experiment))))) (. .))

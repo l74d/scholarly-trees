@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN found) (SBAR (IN that) (S (NP (JJ semi-supervised) (NN approach)) (VP (VBZ is) (ADJP (RBR more) (JJ accurate) (CC and) (JJ effective))))))) (. .))
+(S (NP (NP (DT The) (NN car) (NN dataset)) (PP (IN for) (NP (DT the) (NN evaluation) (NN purpose)))) (VP (VBZ is) (VP (VBN collected) (PP (IN from) (NP (NP (NNP UCI) (NN repository) (NN dataset)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT some) (NNS changes)) (VP (VBP have) (VP (VBN been) (VP (VBN done) (PP (IN from) (NP (PRP$ our) (NN side)))))))))))) (. .))

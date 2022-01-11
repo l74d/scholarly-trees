@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP ask) (SBAR (IN whether) (S (NP (JJ neural) (NNS networks)) (VP (MD can) (VP (VB learn) (S (VP (TO to) (VP (VB use) (NP (JJ secret) (NNS keys)) (S (VP (TO to) (VP (VB protect) (NP (NN information)) (PP (IN from) (NP (JJ other) (JJ neural) (NNS networks)))))))))))))) (. .))

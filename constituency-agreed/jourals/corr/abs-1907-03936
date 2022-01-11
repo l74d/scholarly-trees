@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NN database) (NNS implementations)) (VP (VBG adopting) (NP (DT the) (NN property) (NN graph) (NN model)))))) (VP (VBP have) (VP (VBN emerged))) (. .))
+(S (NP (DT The) (NN model)) (VP (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (JJ specific) (NNS implementations))))) (CC and) (VP (VBZ provides) (NP (NP (DT a) (NN basis)) (PP (IN of) (NP (NP (JJ interoperable) (NN management)) (PP (IN of) (NP (NN property) (NN graph) (NNS data)))))))) (. .))

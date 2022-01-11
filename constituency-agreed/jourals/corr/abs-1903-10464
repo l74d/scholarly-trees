@@ -1,0 +1,2 @@
+(S (NP (NNP Shapley) (NNS values)) (VP (VBZ is) (NP (NP (DT a) (NN game) (JJ theoretic) (NN concept)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (DT this) (NN purpose)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (DT the) (NN case)) (SBAR (RB even) (IN if) (S (NP (DT a) (JJ simple) (JJ linear) (NN model)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NNS predictions)))))))) (. .))

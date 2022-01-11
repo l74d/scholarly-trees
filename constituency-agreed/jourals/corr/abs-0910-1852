@@ -1,0 +1,2 @@
+(S (NP (QP (CD Two) (CC or) (CD four)) (JJ virtual) (NNS channels)) (VP (VBD shared) (NP (DT the) (JJ same) (NN buffer) (NN space))) (. .))
+(S (PP (IN On) (NP (DT the) (NN message) (VBG switching) (NN layer))) (, ,) (NP (PRP we)) (VP (VBP make) (NP (NN improvement)) (S (VP (TO to) (VP (VB boost) (NP (NN system) (NN performance)) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBP are) (NP (NP (NNS faults)) (VP (VBN involved) (PP (IN in) (NP (DT the) (NNS components) (NN communication)))))))))))) (. .))

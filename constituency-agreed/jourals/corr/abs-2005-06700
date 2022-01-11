@@ -1,0 +1,3 @@
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (JJ computational) (NN challenge))))) (, ,) (NP (JJ various) (JJ multiscale) (NNS methods)) (VP (VBP are) (VP (VBN developed))) (. .))
+(S (NP (PRP$ Our) (JJ multiscale) (NN basis) (NNS functions)) (VP (VBP are) (ADJP (JJ local))) (. .))
+(S (NP (DT The) (NN construction)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT some) (JJ suitable) (NNS choices)) (PP (IN of) (NP (NP (JJ local) (NN snapshot) (NNS spaces)) (CC and) (NP (JJ local) (JJ spectral) (NN decomposition)))))) (, ,) (PP (IN with) (NP (NP (DT the) (NN goal)) (PP (IN of) (S (VP (VBG extracting) (NP (NP (JJ dominant) (NNS modes)) (PP (IN of) (NP (DT the) (NNS solutions))))))))))) (. .))

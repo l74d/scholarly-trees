@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN learnability)) (PP (IN of) (NP (JJ different) (JJ neural) (NNS architectures)))) (VP (MD can) (VP (VB be) (VP (VBN characterized) (ADVP (RB directly)) (PP (IN by) (NP (NP (JJ computable) (NNS measures)) (PP (IN of) (NP (NNS data) (NN complexity)))))))) (. .))
+(S (NP (PRP$ Our) (JJ empirical) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (PP (IN at) (NP (NP (DT every) (NN level)) (PP (IN of) (NP (NN dataset) (NN complexity))))) (, ,) (NP (JJ neural) (NNS networks)) (VP (VBP exhibit) (NP (JJ topological) (NN phase) (NNS transitions)))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN context))) (, ,) (NP (DT the) (NN discovery) (NN process)) (VP (MD can) (VP (VB be) (VP (VBN modeled) (PP (IN as) (NP (NP (NNS agents)) (VP (VBG walking) (PP (IN in) (NP (DT a) (NN knowledge) (NN space))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBD were) (VP (VBN analyzed) (UCP (ADVP (RB globally)) (CC and) (PP (IN by) (NP (NNS regions)))))) (. .))

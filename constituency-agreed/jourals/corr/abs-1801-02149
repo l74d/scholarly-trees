@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (JJ multi-label) (NN classification) (NN problem)) (VP (VBZ has) (VP (VBN become) (NP (DT a) (JJ controversial) (NN issue)))) (. .))
+(S (PP (IN In) (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN classification))))) (, ,) (NP (DT each) (NN sample)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN class) (NNS labels))))))) (. .))

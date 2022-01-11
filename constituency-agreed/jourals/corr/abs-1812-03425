@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (JJ final) (NN test))) (NP (PRP we)) (VP (VBP implement) (NP (PRP it)) (PP (IN on) (NP (DT a) (NN seq2seq) (NN network)))) (. .))

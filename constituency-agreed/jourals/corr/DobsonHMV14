@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN graph)) (VP (VBZ is) (ADJP (JJ irreducible)) (SBAR (IN if) (S (NP (DT no) (CD two) (JJ distinct) (NNS vertices)) (VP (VBP have) (NP (DT the) (JJ same) (NN neighborhood)))))) (. .))

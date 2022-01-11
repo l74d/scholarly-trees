@@ -1,0 +1,2 @@
+(S (NP (JJ Ordinal) (NN regression)) (VP (VBZ is) (VP (VBN aimed) (PP (IN at) (S (VP (VBG predicting) (NP (DT an) (JJ ordinal) (NN class) (NN label))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP conduct) (NP (NNS experiments)) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (NP (PRP$ our) (NN framework)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (JJ Relative) (NN thresholding)) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB alleviate) (NP (DT the) (NN burden))))))))) (: ;) (S (ADVP (RB however)) (, ,) (NP (DT this)) (VP (VBZ is) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NP (NN reduction)) (PP (IN in) (NP (NN throughput))))))))) (. .))

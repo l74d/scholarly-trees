@@ -1,0 +1,3 @@
+(S (NP (NN Article)) (VP (VP (VBZ presents) (NP (DT the) (NN compatibility) (NN matrix) (NN method))) (CC and) (VP (VBZ illustrates) (NP (PRP it)) (PP (IN with) (NP (NP (DT the) (NN application)) (PP (TO to) (NP (UCP (NNP P) (NN vs) (NNP NP)) (NN problem))))))) (. .))
+(S (S (NP (DT The) (NN method)) (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (JJ descriptive) (NN geometry)))))) (: :) (S (PP (IN in) (NP (DT the) (NN method))) (, ,) (NP (PRP we)) (VP (VP (VBP draft) (NP (NNS problems))) (CC and) (VP (VB solve) (NP (PRP them)) (S (VP (VBG utilizing) (NP (DT the) (NN image) (NN creation) (NN technique))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (NNS reveals) (: :) (S (NP (NNP P)) (NNP =) (NP (NNP NP)) (VP (NNP =) (NP (NNP PSPACE))))))

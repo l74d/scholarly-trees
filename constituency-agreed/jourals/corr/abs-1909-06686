@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NNP CNAS)) (VP (VBZ outperforms) (NP (NP (NNS architectures)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN optimized) (PP (IN for) (NP (DT the) (JJ entire) (NN dataset)))))))))))) (. .))

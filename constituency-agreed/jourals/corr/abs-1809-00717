@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT the) (NNS weights)) (PP (IN of) (NP (JJ various) (JJ pretrained) (NNS models)))) (, ,) (PP (IN for) (S (VP (VBG initializing) (NP (NP (JJ specific) (NNS layers)) (PP (IN of) (NP (PRP$ our) (NNS networks)))))))) (. .))
+(S (NP (DT The) (VBN submitted) (NN model)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (DT the) (JJ aforementioned) (NNP TL) (NNS models)))))) (. .))

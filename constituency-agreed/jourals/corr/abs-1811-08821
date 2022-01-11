@@ -1,0 +1,2 @@
+(S (NP (DT These) (CD two) (NNS indexes)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (DT the) (VBN processed) (NN depth) (NN map)) (CC and) (NP (DT the) (NN ground) (NN truth) (NN depth) (NN map)))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP fuse) (NP (DT these) (NNS indexes)) (S (VP (VBG considering) (NP (NP (DT the) (ADJP (JJ temporal) (CC and) (JJ spatial)) (NNS complexities)) (PP (IN of) (NP (DT the) (NN content))))))) (. .))

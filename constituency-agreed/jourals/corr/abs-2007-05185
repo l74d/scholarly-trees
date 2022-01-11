@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT The) (NNS interconnections)) (PP (IN between) (NP (DT the) (NNS agents)))) (VP (VBP are) (VP (VBN modeled) (PP (IN by) (NP (DT a) (NN network)))))) (CC and) (S (NP (JJ local) (NNS interactions)) (VP (VBP are) (VP (VBN considered)))) (. .))
+(S (NP (PRP We)) (VP (VBP examine) (NP (CD two) (JJ extreme) (NNS cases))) (. .))

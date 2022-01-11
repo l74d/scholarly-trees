@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (JJ statistical) (NN model)) (PP (IN over) (NP (JJ linguistic) (NNS areas) (CC and) (NN phylogeny))))) (. .))
+(S (NP (PRP$ Our) (NN model)) (VP (VP (VBZ recovers) (NP (VBN known) (NNS areas))) (CC and) (VP (VBZ identifies) (NP (NP (DT a) (JJ plausible) (NN hierarchy)) (PP (IN of) (NP (JJ areal) (NNS features)))))) (. .))
+(S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (NNS areas)))) (VP (VBZ improves) (NP (NP (JJ genetic) (NN reconstruction)) (PP (IN of) (NP (NNS languages)))) (ADVP (CC both) (RB qualitatively) (CC and) (RB quantitatively)) (PP (VBG according) (PP (IN to) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS metrics))))))) (. .))
+(S (NP (PRP We)) (VP (VBP model) (NP (JJ linguistic) (NNS areas)) (PP (IN by) (NP (NP (DT a) (NML (NNP Pitman) (HYPH -) (NNP Yor)) (NN process)) (CC and) (NP (NP (JJ linguistic) (NN phylogeny)) (PP (IN by) (NP (NP (NNP Kingman) (POS 's)) (JJ coalescent))))))) (. .))

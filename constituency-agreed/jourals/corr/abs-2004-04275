@@ -1,0 +1,4 @@
+(S (NP (NNP Weather) (NN forecasting)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS applications)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NN prediction)) (PP (IN of) (NP (JJ meteorological) (NNS data)))) (VP (VBP are) (VP (VBN corrected) (PP (VBN given) (NP (DT the) (NNS observations))))))))))) (. .))
+(S (NP (JJ Numerous) (NNS approaches)) (VP (VBP are) (VP (VBN contained) (PP (IN in) (NP (NNS data) (NN assimilation))))) (. .))
+(S (NP (CD One) (JJ specific) (JJ sequential) (NN method)) (VP (VBZ is) (NP (DT the) (NNP Kalman) (NNP Filter))) (. .))
+(S (NP (DT The) (NN core)) (VP (VBZ is) (S (VP (TO to) (VP (VB estimate) (NP (JJ unknown) (NN information)) (PP (IN with) (NP (NP (NP (DT the) (JJ new) (NNS data)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN measured)))))) (CC and) (NP (NP (DT the) (JJ prior) (NNS data)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN predicted)))))))))))) (. .))

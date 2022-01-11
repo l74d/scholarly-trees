@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NN performance) (NNS parameters)) (PP (IN of) (NP (NP (DT the) (NN device)) (PP (IN in) (NP (DT the) (NN field))))))))))) (. .))
+(S (NP (NP (DT The) (NN estimation) (NN error)) (PP (IN for) (NP (NNP LNA) (NN performance) (NNS parameters)))) (VP (VBP are) (VP (VBN obtained) (PP (IN in) (NP (NP (DT the) (NN simulation) (NN environment)) (CONJP (RB as) (RB well) (IN as)) (NP (NN chip) (NNS measurements)))))) (. .))

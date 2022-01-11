@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN solution)) (VP (VBN obtained) (PP (IN from) (NP (DT this) (NN method))))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB highly) (JJ accurate)) (JJ analytical) (NN approximation)) (PP (IN of) (NP (DT the) (JJ true) (NN solution))))) (. .))
+(S (NP (NP (NNS Comparisons)) (PP (IN with) (NP (NP (JJ alternative) (NNS methods)) (VP (VBG appearing) (PP (IN in) (NP (NN literature))))))) (VP (VBP validate) (NP (DT the) (VBN proposed) (NN approach))) (. .))

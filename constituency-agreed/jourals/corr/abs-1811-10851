@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN application) (NNS developers))) (, ,) (NP (PRP it)) (VP (VBZ shows) (SBAR (IN that) (S (NP (RB even) (ADJP (JJ old) (CC and) (JJ mature)) (NNS compilers)) (VP (MD can) (VP (VB present) (NP (NNS bugs))))))) (. .))

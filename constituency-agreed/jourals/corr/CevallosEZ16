@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN context))) (, ,) (NP (PRP it)) (VP (VBZ has) (ADVP (RB recently)) (VP (VBN received) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN attention)))))) (. .))
+(S (NP (JJ Negative) (NN type) (NNS distances)) (VP (VBP include) (PP (IN as) (NP (JJ special) (NNS cases))) (NP (NP (JJ Euclidean) (NNS distances)) (CC and) (NP (JJ many) (JJ further) (JJ natural) (NNS distances)))) (. .))

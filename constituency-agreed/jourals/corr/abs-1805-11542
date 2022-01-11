@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (CD two) (NNS examples)) (PP (IN of) (NP (JJ variational) (NN marginalization))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (JJ first) (NN example))) (NP (PRP we)) (VP (VBP train) (NP (DT a) (JJ Bayesian) (NN forecaster)) (PP (IN for) (S (VP (VBG predicting) (NP (NP (DT a) (VBN simplified) (JJ chaotic) (NN model)) (PP (IN of) (NP (JJ atmospheric) (NN convection)))))))) (. .))

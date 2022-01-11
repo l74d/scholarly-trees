@@ -1,0 +1,4 @@
+(S (NP (DT The) (NNP FR) (NNS codes)) (VP (VBP allow) (PP (IN for) (NP (NP (NN exact) (JJ uncoded) (NN repair)) (PP (IN with) (NP (JJ minimum) (NN repair) (NN bandwidth)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NNP FR) (NNS codes)) (VP (VBP are) (VP (VBN constructed) (S (VP (VBG using) (NP (JJ finite) (JJ binary) (NNS sequences)))))) (. .))
+(S (NP (NP (DT The) (NN condition)) (PP (IN for) (NP (ADJP (RB universally) (JJ good)) (NNP FR) (NNS codes)))) (VP (VBZ is) (VP (VBN calculated) (PP (IN on) (NP (JJ such) (NNS sequences))))) (. .))
+(S (PP (IN For) (NP (DT some) (NNS sequences))) (, ,) (NP (DT the) (ADJP (RB universally) (JJ good)) (NNP FR) (NNS codes)) (VP (VBP are) (VP (VBN explored))) (. .))

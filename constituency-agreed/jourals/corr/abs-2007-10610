@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (NN word) (NN representation) (NN strategy)) (PP (IN for) (NP (NN rhythm) (NNS patterns))))) (. .))
+(S (NP (NNP BERT) (NN model)) (VP (VBZ is) (VP (VBN created) (S (VP (TO to) (VP (VB explore) (NP (NP (JJ syntactic) (NNS potentials)) (PP (IN of) (NP (NN rhythm) (NNS words))))))))) (. .))

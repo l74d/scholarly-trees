@@ -1,0 +1,2 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT these) (NNS datasets)))) (VP (VBP are) (VP (VBN acquired) (PP (IN from) (NP (NP (NNS webpages)) (PP (IN with) (NP (JJ automatic) (NNS procedures))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (JJ noisy) (NNS data)) (VP (VBP are) (ADVP (RB often)) (VP (VBN found))) (. .))

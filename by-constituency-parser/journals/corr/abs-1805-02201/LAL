@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (TO to) (NP (NP (JJ numerous) (NNS problems)) (VP (VBG coming) (PP (IN from) (NP (NP (NN engineering) (NNS sciences)) (, ,) (NP (NN program) (NN verification)) (CC and) (NP (JJ cyber-physical) (NNS systems)))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ hybrid) (JJ symbolic-numeric) (NNS algorithms)) (VP (VBN based) (PP (IN on) (NP (JJ semi-definite) (NN programming)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN result)) (VP (VBZ shows) (SBAR (IN that) (S (PP (IN by) (S (VP (VBG using) (NP (NNP CNN))))) (, ,) (NP (PRP we)) (VP (VBD reduced) (NP (NP (NNS errors)) (VP (VBN caused) (PP (IN by) (NP (DT a) (JJ noisy) (NN image))))))))) (. .))

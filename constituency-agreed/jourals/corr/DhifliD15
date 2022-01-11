@@ -1,0 +1,1 @@
+(S (NP (VBG Existing) (NN classification) (NNS methods)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB classify) (NP (JJ unknown) (NNS instances)) (PP (IN within) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (ADJP (RB previously) (VBN known)) (NN training) (NNS classes)))))))))) (. .))

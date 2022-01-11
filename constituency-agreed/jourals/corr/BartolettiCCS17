@@ -1,0 +1,2 @@
+(S (NP (NNP Ponzi) (NNS schemes)) (VP (VBP are) (NP (NP (JJ financial) (NNS frauds)) (SBAR (WHNP (WDT which)) (S (VP (VBP lure) (NP (NNS users)) (PP (IN under) (NP (NP (DT the) (NN promise)) (PP (IN of) (NP (JJ high) (NNS profits)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ comprehensive) (NN survey)) (PP (IN of) (NP (NP (NNP Ponzi) (NNS schemes)) (PP (IN on) (NP (NNP Ethereum)))))) (, ,) (S (VP (VBG analysing) (NP (NP (PRP$ their) (NN behaviour)) (CC and) (NP (PRP$ their) (NN impact))) (PP (IN from) (NP (JJ various) (NNS viewpoints)))))) (. .))

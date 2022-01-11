@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ hierarchical) (NN network) (NNS models))) (NP (NP (DT any) (NN possibility)) (PP (IN of) (NP (NN fault)))) (VP (MD may) (VP (VB collapse) (NP (JJ entire) (NN network)))) (. .))
+(S (ADVP (RB Thus)) (NP (PRP it)) (VP (VBZ affects) (NP (JJ entire) (NNS networks) (NN performance))) (. .))

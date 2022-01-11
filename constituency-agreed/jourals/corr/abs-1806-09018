@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (NN label) (NN inference) (NN problem)) (VP (MD can) (ADVP (RB never)) (VP (VB infer) (NP (DT the) (NN ground) (NN truth)) (ADVP (RB perfectly)))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT the) (JJ above) (NN challenge))))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB tackle) (NP (NP (CD three) (NN research) (NNS problems)) (, ,) (ADVP (RB namely)) (NP (NN inference) (, ,) (NN learning) (, ,) (CC and) (NN teaching))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (ADJP (RB practically) (JJ useful)) (NN malware) (NN classifier)) (VP (MD must) (VP (VB be) (ADJP (JJ robust) (PP (IN against) (NP (NN evasion) (NNS attacks)))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (VBG achieving) (NP (JJ such) (NN robustness)))) (VP (VBZ is) (NP (DT an) (ADJP (RB extremely) (JJ challenging)) (NN task))) (. .))

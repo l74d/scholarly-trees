@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ simple) (NN citation) (NNS models)) (VP (VBP fail) (S (VP (TO to) (VP (VB capture) (NP (DT this) (NN behaviour))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (DT the) (NNS fluctuations)) (PP (IN in) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT an) (JJ academic) (NN publication) (POS 's)) (NN bibliography)))))) (VP (VBZ is) (ADJP (JJ important) (PP (IN for) (NP (DT the) (NN model)))))))) (. .))
+(S (NP (DT This)) (VP (VP (VBZ is) (RB not) (VP (VBN addressed) (PP (IN in) (NP (JJS most) (NNS models))))) (CC and) (VP (VBZ needs) (NP (JJ further) (NN work)))) (. .))

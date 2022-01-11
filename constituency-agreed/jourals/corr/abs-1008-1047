@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN objective) (CC and) (NNS constraints)) (VP (VBP are) (ADJP (JJ free) (PP (IN of) (NP (NP (DT any) (NN design) (NNS parameters)) (PP (IN of) (NP (JJ non-unique) (NN choice))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (PRP$ our) (NN problem))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT an) (JJ efficient) (NN solution)) (VP (MD can) (VP (VB be) (VP (VBN found) (S (VP (VBG using) (NP (DT the) (JJ semi-definite) (NN relaxation) (NN technique)))))))))) (. .))

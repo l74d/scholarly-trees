@@ -1,0 +1,1 @@
+(S (S (NP (JJ Traditional) (NNS methods)) (VP (VBP depend) (PP (IN on) (NP (NNS data) (NNS dependencies))) (S (VP (TO to) (VP (VB check) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NP (NNS errors)) (PP (IN in) (NP (NNS data))))))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP fail) (S (VP (TO to) (VP (VB rectify) (NP (DT the) (NNS errors))))))) (. .))

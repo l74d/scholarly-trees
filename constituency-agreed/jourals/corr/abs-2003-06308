@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB balance) (PP (IN between) (NP (NN latency) (CC and) (NN accuracy))) (PP (IN by) (S (VP (VBG retaining) (NP (JJ full) (NN precision)) (PP (IN on) (NP (NP (DT a) (VBN selected) (NN subset)) (PP (IN of) (NP (NN network) (NNS components))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ simple) (NNS examples)) (SBAR (WHNP (WDT that)) (S (NP (NN language) (NNS learners)) (VP (VBP receive))))) (VP (VBP are) (ADVP (RB often)) (ADJP (RB equally) (JJ compatible) (PP (IN with) (NP (JJ linear) (NNS rules))))) (. .))
+(S (NP (PRP We)) (VP (VBP simulate) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (NN question) (NN formation)) (, ,) (NP (DT a) (JJ hierarchical) (NN transformation)) (, ,)))) (PP (IN in) (NP (NP (DT a) (NN fragment)) (PP (IN of) (NP (NNP English)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VP (VBZ ensures) (NP (NN serializability))) (, ,) (CC and) (VP (VBZ is) (ADJP (JJ live) (CC and) (JJ safe)) (PP (IN in) (NP (NP (NN spite)) (PP (IN of) (NP (NNS faults))))))) (. .))

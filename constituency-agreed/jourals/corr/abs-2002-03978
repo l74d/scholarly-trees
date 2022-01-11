@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT the) (ADJP (JJ necessary) (CC and) (JJ sufficient)) (NNS conditions)) (PP (IN for) (NP (NP (NN controllability)) (PP (IN of) (NP (DT the) (NN system)))))) (, ,) (PP (IN without) (S (VP (VBG imposing) (NP (DT any) (NNS constraints)) (PP (IN on) (NP (DT the) (NN system) (NNS matrices))))))) (. .))

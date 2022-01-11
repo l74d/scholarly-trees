@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS properties)) (VP (MD can) (VP (VB be) (ADJP (JJ qualitative) (CC &) (JJ quantitative)))) (. .))
+(S (PP (IN For) (NP (NP (NN measurement)) (PP (IN of) (NP (DT these) (NNS properties))))) (, ,) (S (NP (EX there)) (VP (VBP are) (NP (JJ different) (NN unit)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (S (NP (EX there)) (VP (VBP are) (NP (JJ different) (NN optimization) (NNS techniques)))) (. .))

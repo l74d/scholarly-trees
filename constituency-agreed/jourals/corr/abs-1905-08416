@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN detection)) (PP (IN of) (NP (NP (NN anemia)) (, ,) (NP (NN leukemia)) (CC and) (NP (JJ other) (NN blood) (NNS diseases)))))) (, ,) (NP (NP (DT the) (NN number) (CC and) (NN type)) (PP (IN of) (NP (NNS leukocytes)))) (VP (VBP are) (NP (JJ essential) (NN evaluation) (NNS parameters))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (NP (JJ many) (NN automation) (NNS methods)) (VP (VBP are) (VP (VBN introduced) (PP (IN for) (NP (NP (DT the) (NN diagnosis)) (PP (IN of) (NP (JJ medical) (NNS images))))))) (. .))

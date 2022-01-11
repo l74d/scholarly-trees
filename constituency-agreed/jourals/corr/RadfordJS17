@@ -1,0 +1,2 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP find) (NP (NP (DT a) (JJ single) (NN unit)) (SBAR (WHNP (WDT which)) (S (VP (VBZ performs) (NP (NN sentiment) (NN analysis))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP demonstrate) (SBAR (S (NP (DT the) (NN sentiment) (NN unit)) (VP (VBZ has) (NP (NP (DT a) (JJ direct) (NN influence)) (PP (IN on) (NP (NP (DT the) (JJ generative) (NN process)) (PP (IN of) (NP (DT the) (NN model)))))))))) (. .))

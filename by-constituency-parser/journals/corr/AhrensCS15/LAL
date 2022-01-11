@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NN conjecture)) (PP (IN about) (NP (NP (DT the) (NN constructibility)) (PP (IN of) (NP (JJ coinductive) (NNS types))) (PRN (: -) (PP (IN in) (NP (NP (DT the) (JJ principled) (NN form)) (PP (IN of) (NP (JJ indexed) (NNP M-types))))) (: -))))) (PP (IN in) (NP (NNP Homotopy) (NNP Type) (NNP Theory)))) (. .))
+(S (NP (DT The) (NN conjecture)) (VP (VBZ says) (SBAR (IN that) (S (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ inductive) (NNS types))))) (, ,) (NP (JJ coinductive) (NNS types)) (VP (VBP are) (ADJP (JJ derivable)))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (VP (VBN mechanized) (PP (IN in) (NP (DT the) (NN computer) (NN proof) (NN assistant) (NNP Agda))))) (. .))

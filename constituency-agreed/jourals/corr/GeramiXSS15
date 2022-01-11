@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN broadcast) (NN information)) (PP (IN from) (NP (DT a) (NN caching) (NN node)))) (VP (VBZ is) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (VP (VBN received) (PP (IN without) (NP (DT any) (NN error))) (PP (IN by) (NP (DT all) (JJ other) (VBG caching) (NNS nodes))))))))) (. .))

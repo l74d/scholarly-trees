@@ -1,0 +1,3 @@
+(S (NP (CD One) (NN slice)) (VP (VBZ is) (VP (VBN taken) (PP (IN in) (NP (DT each) (NN turn))))) (. .))
+(S (NP (DT The) (JJ first) (NN turn)) (VP (VBZ is) (NP (NNP Alice) (POS 's))) (. .))
+(S (NP (PRP She)) (VP (MD may) (VP (VB choose) (NP (NP (DT any)) (PP (IN of) (NP (DT the) (NNS slices)))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP examine) (NP (NP (DT the) (JJ extensive) (NN network) (NNS traces)) (SBAR (WHNP (WDT that)) (S (VP (VBP reflect) (NP (NP (NN mobility)) (PP (IN of) (NP (NN communication) (NNS devices))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN periodicity)) (PP (IN in) (NP (NN encounter) (NN pattern)))) (PP (IN by) (S (VP (VBG using) (NP (NN power) (JJ spectral) (NN analysis)))))) (. .))

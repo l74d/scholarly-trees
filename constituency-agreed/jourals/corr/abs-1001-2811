@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN process)) (VP (VP (VBZ consumes) (NP (JJ significant) (NN time))) (CC and) (VP (VBZ needs) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN effort)))))) (. .))
+(S (VP (VP (VBD gave) (NP (JJ formal) (NNS specifications))) (CC and) (VP (VB synthesize) (NP (DT the) (NNP AMBA) (NNP AHB) (NNP Arbiter)))) (. .))

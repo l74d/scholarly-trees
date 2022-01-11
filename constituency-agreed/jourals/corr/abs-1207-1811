@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP revisit) (NP (DT the) (NNP SeqBin) (NN constraint))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP identify) (NP (NP (DT the) (NN cause)) (PP (IN for) (NP (DT these) (NNS problems))))) (, ,) (CC and) (VP (VB propose) (NP (NP (DT a) (JJ new) (NN propagator)) (SBAR (WHNP (WDT that)) (S (VP (VBZ overcomes) (NP (DT both) (NNS issues)))))))) (. .))

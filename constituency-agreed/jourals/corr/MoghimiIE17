@@ -1,0 +1,1 @@
+(S (NP (NNP Intel)) (VP (VBD proposed) (NP (NNP SGX)) (S (VP (TO to) (VP (VB create) (NP (DT a) (JJ trusted) (NN execution) (NN environment)) (PP (IN within) (NP (DT the) (NN processor))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN reduction)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB solve) (NP (DT the) (NN triangulation) (NN problem)) (PP (IN on) (NP (DT a) (JJR smaller) (NN graph))))))) (. .))
+(S (PP (IN From) (NP (NP (DT the) (JJR smaller) (NN graph) (POS 's)) (NN triangulation))) (, ,) (NP (NP (DT a) (NN triangulation)) (PP (IN of) (NP (DT the) (JJ original) (NN graph)))) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (S (VP (VBG reversing) (NP (DT the) (NN reduction) (NNS steps))))))) (. .))

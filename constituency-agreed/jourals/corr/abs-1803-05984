@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ original) (NNP Co-Training)) (VP (VBZ learns) (NP (NP (CD two) (NNS classifiers)) (PP (IN on) (NP (NP (CD two) (NNS views)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (NNS data)) (PP (IN from) (NP (NP (JJ different) (NNS sources)) (SBAR (WHNP (WDT that)) (S (VP (VBP describe) (NP (DT the) (JJ same) (NNS instances))))))))))))))) (. .))

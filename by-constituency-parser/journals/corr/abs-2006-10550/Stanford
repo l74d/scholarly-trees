@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Instance) (NN level) (NN detection)) (PP (IN of) (NP (JJ thoracic) (NNS diseases) (CC or) (NNS abnormalities)))) (VP (VBP are) (ADJP (JJ crucial) (PP (IN for) (NP (NP (JJ automatic) (NN diagnosis)) (PP (IN in) (NP (NN chest) (NN X-ray) (NNS images))))))) (. .))
+(S (NP (NP (JJS Most) (JJ existing) (NNS works)) (PP (IN on) (NP (NN chest) (NNS X-rays)))) (VP (VBP focus) (PP (IN on) (NP (UCP (NML (NN disease) (NN classification)) (CC and) (ADJP (RB weakly) (JJ supervised))) (NN localization)))) (. .))
+(FRAG (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB push) (ADVP (RB forward)))))) (NP (NP (NP (DT the) (NN research)) (PP (IN on) (NP (NN disease) (NN classification)))) (CC and) (NP (NP (NN localization)) (PP (IN on) (NP (NN chest) (NNS X-rays))))) (. .))
+(S (NP (DT The) (NNS annotations)) (VP (VBP are) (VP (VBN located) (PP (IN at) (NP (NP (DT this)) (SBAR (S (VP (VBZ https) (NP (NN URL))))))))))

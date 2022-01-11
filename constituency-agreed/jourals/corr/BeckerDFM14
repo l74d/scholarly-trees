@@ -1,0 +1,3 @@
+(S (NP (DT These) (NNS fields)) (VP (VBP move) (NP (DT each) (NN robot)) (ADVP (RB maximally)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ hits) (NP (NP (DT a) (JJ stationary) (NN obstacle)) (CC or) (NP (DT another) (JJ stationary) (NN robot))))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ positive) (NN side))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (S (NP (PRP we)) (VP (MD can) (VP (VB build) (NP (JJ useful) (NNS systems)) (PP (IN by) (S (VP (VBG designing) (NP (NNS obstacles)))))))))) (. .))
+(S (S (VP (VBG Using) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT these) (NNS gates)) (CC and) (NP (JJ appropriate) (NNS interconnects))))))) (NP (PRP we)) (VP (MD can) (VP (VB evaluate) (NP (DT any) (JJ logical) (NN expression)))) (. .))

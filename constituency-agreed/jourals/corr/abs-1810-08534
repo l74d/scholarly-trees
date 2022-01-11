@@ -1,0 +1,1 @@
+(S (NP (NNP MsCGAN)) (VP (VBZ is) (NP (NP (DT a) (JJ multi-scale) (JJ adversarial) (NN network)) (VP (VBG consisting) (PP (IN of) (NP (NP (CD two) (NNS generators)) (CC and) (NP (CD two) (NNS discriminators))))))) (. .))

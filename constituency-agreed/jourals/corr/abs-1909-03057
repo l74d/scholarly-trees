@@ -1,0 +1,1 @@
+(S (NP (JJ Many) (JJ scientific) (NNS workloads)) (VP (VBP are) (VP (VBN comprised) (PP (IN of) (NP (JJ many) (NNS tasks))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN task)) (VP (VBZ is) (NP (NP (DT an) (JJ independent) (NN simulation) (CC or) (NN analysis)) (PP (IN of) (NP (NNS data))))))))) (. .))

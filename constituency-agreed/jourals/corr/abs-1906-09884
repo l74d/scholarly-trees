@@ -1,0 +1,2 @@
+(S (S (VP (VBG Observing) (SBAR (IN that) (S (NP (DT each) (NN channel)) (VP (VBZ has) (NP (JJ different) (NN estimation) (NN complexity))))))) (, ,) (NP (PRP we)) (VP (VBP reconstruct) (NP (DT each) (NN channel)) (PP (IN by) (NP (DT an) (JJ individual) (NN sub-network)))) (. .))
+(S (NP (DT This) (NN strategy)) (VP (VBZ allows) (S (VP (VBG recovering) (NP (DT the) (ADJP (RBS most) (JJ complex)) (NN channel)) (PP (IN by) (NP (DT a) (JJ light) (NN weight) (NN network)))))) (. .))

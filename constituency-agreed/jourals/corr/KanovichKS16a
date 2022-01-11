@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Lambek) (NN calculus)) (VP (MD can) (VP (VB be) (VP (VBN considered) (PP (IN as) (NP (NP (DT a) (NN version)) (PP (IN of) (NP (JJ non-commutative) (JJ intuitionistic) (JJ linear) (NN logic)))))))) (. .))
+(S (ADVP (RB Nevertheless)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (CD two)) (PP (IN of) (NP (DT the) (CD three) (NNS conditions)))) (VP (MD can) (VP (VB be) (VP (VBN implemented))))))) (. .))

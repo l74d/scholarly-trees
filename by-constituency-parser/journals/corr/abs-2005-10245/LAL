@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP define) (NP (DT an) (JJ 'oriented) (NN convex) (NN region) ('' ›)) (PP (IN as) (NP (NP (DT a) (JJ convex) (NN region)) (PP (IN with) (NP (NP (DT a) (NN direction)) (PP (IN of) (NP (NN symmetry)))))))) (. .))
+(S (NP (DT An) (JJR earlier) (NN article)) (VP (VBD had) (VP (VBN touched) (PP (IN upon) (NP (NNS isosceles) (NNS triangles) (, ,) (NNS rectangles) (CC and) (NNS ellipses))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VP (VBP examine) (NP (NP (DT some) (ADJP (RBR more) (JJ possible)) (JJ oriented) (NNS containers)) (PRN (: -) (NP (NP (NNS semicircles)) (, ,) (NP (NP (NNS segments)) (PP (IN of) (NP (NNS circles)))) (CC and) (NP (NNS sectors))) (: -)))) (CC and) (VP (VB raise) (NP (DT some) (NNS questions)))) (. .))

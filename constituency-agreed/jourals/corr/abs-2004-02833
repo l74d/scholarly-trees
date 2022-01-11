@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP apply) (NP (NP (JJ several) (NN optimization) (NNS techniques)) (, ,) (PP (VBG including) (NP (NP (DT a) (JJ new) (NN memory) (NN layout)) (CC and) (NP (JJ explicit) (NNP SIMD) (NN vectorization)))))) (. .))

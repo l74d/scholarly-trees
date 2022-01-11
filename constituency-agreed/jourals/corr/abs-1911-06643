@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP Forgetgol)) (VP (VBZ outperforms) (NP (DT the) (JJ alternative) (NNS approaches)) (SBAR (WHADVP (WRB when)) (S (VP (VBG learning) (PP (IN from) (NP (QP (IN over) (CD 10,000)) (NNS tasks)))))))))) (. .))

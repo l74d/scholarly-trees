@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ main) (NN method)) (VP (VBZ is) (NP (NP (DT a) (JJ numerical) (NN blackbox) (NN solver)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN implemented) (PP (IN for) (NP (DT all) (NNP Laurent) (NNS systems))))))))) (. .))

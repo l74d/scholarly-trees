@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (ADVP (RB basically)) (VP (VBZ requires) (NP (NP (CD two) (JJ important) (NNS things)) (: :) (NP (NP (JJ minimum) (NN support)) (CC and) (NP (JJ minimum) (NN confidence))))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (DT the) (JJ minimum) (NN confidence) (NN constraint)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB form) (NP (NN association) (NNS rules))))))) (. .))

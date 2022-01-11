@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (JJ new) (NN shrinkage) (NN operator)) (PP (IN for) (NP (NP (NNP Spohn) (POS 's)) (JJ fourth) (NN order) (NN model))))) (. .))
+(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP are) (VP (VBN demonstrated) (PP (IN for) (NP (JJ fourth) (NN order) (NNS problems))) (PP (IN under) (NP (JJ periodic) (JJ boundary) (NN condition))))) (. .))

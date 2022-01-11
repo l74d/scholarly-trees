@@ -1,0 +1,2 @@
+(S (ADVP (RB Typically)) (, ,) (NP (DT the) (NNS images)) (VP (VBP are) (VP (VBN related) (PP (IN via) (NP (NP (JJ optical) (NN flow)) (CC and) (NP (JJ consecutive) (NN image) (NN warping)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN processing)) (PP (IN of) (NP (NP (JJ whole) (NNS images)) (CONJP (RB rather) (IN than)) (NP (JJ independent) (NNS patches))))) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (NP (NP (DT a) (JJ large) (NN increase)) (PP (IN in) (NP (NN accuracy)))))))))) (. .))

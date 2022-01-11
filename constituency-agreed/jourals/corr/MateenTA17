@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN research)) (VP (VBZ is) (VP (VBG paying) (NP (NN attention)) (PP (IN on) (NP (NP (ADJP (JJ dangerous) (CC and) (JJ unresolved)) (NNS issues)) (VP (VBG resulting) (PP (IN from) (NP (NN waste)))))))) (. .))
+(S (S (NP (NNP Survey)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG collecting) (NP (NN information)))))))) (CC and) (S (NP (NNS results)) (VP (VBP are) (VP (VBN evaluated) (PP (IN by) (S (VP (VBG applying) (NP (DT some) (JJ statistical) (NN tool)))))))) (. .))

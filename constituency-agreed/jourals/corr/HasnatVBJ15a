@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NNS images)) (PP (IN of) (NP (NP (CD two) (ADJP (RB politically) (JJ significant)) (NNS entities)) (PP (IN of) (NP (NNP France))))))) (. .))
+(S (PP (IN For) (NP (DT the) (NNS experiments))) (, ,) (ADVP (RB first)) (NP (PRP we)) (VP (VBP use) (NP (JJ synthetic) (JJ temporal) (NNS data))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ sample) (NN complexity)) (PP (IN of) (NP (JJ active) (VBG learning))) (PP (IN under) (NP (DT the) (NN realizability) (NN assumption)))) (VP (VBZ has) (VP (VBN been) (VP (JJ well-studied)))) (. .))
+(S (NP (DT The) (NN realizability) (NN assumption)) (, ,) (ADVP (RB however)) (, ,) (ADVP (RB rarely)) (VP (VBZ holds) (PP (IN in) (NP (NN practice)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (ADVP (RB theoretically)) (VBP characterize) (NP (NP (DT the) (JJ sample) (NN complexity)) (PP (IN of) (NP (JJ active) (NN learning))) (PP (IN in) (NP (DT the) (JJ non-realizable) (NN case))) (PP (IN under) (NP (NN multi-view) (NN setting))))) (. .))

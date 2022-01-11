@@ -1,0 +1,1 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (JJ new) (JJ difficult) (NN problem)))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN cryptosystem)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP include) (NP (NP (DT a) (JJ key) (NN exchange) (NN protocol)) (CC and) (NP (DT a) (JJ public) (NN key) (NN encryption) (NN algorithm)))))))) (. .))

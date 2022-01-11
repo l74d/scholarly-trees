@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN approximation)) (VP (VBZ causes) (NP (DT an) (NN accuracy) (NN decline))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (NN computer) (NN modelling)) (PP (IN of) (NP (NNP DECT)))) (VP (MD could) (VP (VB be) (VP (VBN used)))) (. .))

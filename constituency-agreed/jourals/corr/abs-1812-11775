@@ -1,0 +1,2 @@
+(S (VP (VB Consider) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS agents)) (SBAR (WHNP (WP who)) (S (VP (VBP play) (NP (DT a) (NN network) (NN game)) (ADVP (RB repeatedly))))))))) (. .))
+(S (NP (NNS Agents)) (VP (MD may) (RB not) (VP (VB know) (NP (DT the) (NN network)))) (. .))

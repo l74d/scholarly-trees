@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB recognize) (NP (NNS textures))))) (NP (JJ many) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN along) (NP (DT the) (NNS years)))))) (. .))
+(S (NP (CD Four) (NNS datasets)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB evaluate) (NP (PRP$ our) (NN approach))))))) (. .))

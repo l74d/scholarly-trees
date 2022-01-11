@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (JJ variational) (NN principle)) (PP (IN between) (NP (NP (JJ mean) (NN dimension) (NN theory)) (CC and) (NP (NN rate) (NN distortion) (NN theory)))))) (. .))
+(S (NP (DT The) (NN proof)) (VP (VBZ exhibits) (NP (NP (DT a) (JJ new) (NN combination)) (PP (IN of) (NP (NP (JJ ergodic) (NN theory)) (, ,) (NP (NN rate) (NN distortion) (NN theory)) (CC and) (NP (JJ geometric) (NN measure) (NN theory)))))) (. .))

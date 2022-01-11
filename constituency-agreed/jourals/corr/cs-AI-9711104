@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN policy)) (PP (IN for) (NP (DT the) (NN agent)))) (VP (VBZ is) (NP (NP (DT a) (NN function)) (SBAR (WHNP (WDT which)) (S (VP (VBZ assigns) (NP (DT an) (NN action)) (PP (TO to) (NP (NP (DT every) (NN history)) (PP (IN of) (NP (NNS observations) (CC and) (NNS actions)))))))))) (. .))
+(S (NP (CD Two) (JJ basic) (NN feedback) (NNS structures)) (VP (VBP are) (VP (VBN considered))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ develops) (NP (NP (NN information) (JJ geometric) (NNS representations)) (PP (IN for) (NP (NP (JJ nonlinear) (NNS filters)) (PP (IN in) (NP (JJ continuous) (NN time))))))) (. .))
+(S (NP (NP (CD Three) (NN example) (NNS systems)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (JJ infinite) (NN dimension)))) (, ,)) (VP (VBP are) (VP (VBN developed) (PP (IN in) (NP (NN detail))))) (. .))

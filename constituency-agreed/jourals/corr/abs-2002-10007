@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (PRP$ our) (NN framework))) (, ,) (NP (NNS complexities)) (VP (VBP are) (VP (VBN captured) (PP (IN by) (NP (NP (DT the) (NN reconstruction) (NN error)) (PP (IN of) (NP (NP (DT an) (NN autoencoder)) (SBAR (WHNP (WDT that)) (S (VP (VBZ operates) (PP (IN on) (NP (NP (DT the) (NNS quantiles)) (PP (IN of) (NP (DT the) (NN distribution)))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN extended) (ADVP (RB trivially)) (S (VP (TO to) (VP (VB recognize) (NP (JJ individual) (NN activity))))))) (. .))
+(S (SBAR (IN Since) (S (NP (DT the) (NN crowd) (NN behavior)) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (PRP$ its) (NN constituent) (NNS groups))))))) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (NP (NN group) (NN level) (NNS features)))) (PP (IN during) (NP (NN classification)))) (. .))

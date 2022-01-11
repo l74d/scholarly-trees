@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ polynomial-time) (NN attack)) (PP (IN on) (NP (DT the) (NN hHB) (NN protocol)))) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (DT the) (NN protocol)) (VP (VBZ does) (RB not) (VP (VB attain) (NP (DT the) (JJ claimed) (NN security))))))))) (. .))
+(S (NP (PRP$ Our) (NN attack)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP GRS) (NN attack))))) (. .))

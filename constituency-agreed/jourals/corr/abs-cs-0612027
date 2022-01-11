@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Statistical) (NN modeling)) (PP (IN of) (NP (JJ physical) (NNS laws)))) (VP (VBZ connects) (NP (NNS experiments)) (PP (IN with) (NP (NP (JJ mathematical) (NNS descriptions)) (PP (IN of) (NP (JJ natural) (NNS phenomena)))))) (. .))
+(S (NP (DT The) (NN modeling)) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN on) (NP (JJ noisy) (JJ chaotic) (NNS data))))) (. .))

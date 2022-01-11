@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (NP (DT a) (JJ probabilistic) (NN model)) (PP (IN for) (NP (NN classification))))) (, ,) (NP (PRP we)) (VP (VBP adopt) (NP (DT a) (JJ multinomial) (JJ logistic) (NN regression))) (. .))

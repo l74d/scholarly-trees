@@ -1,0 +1,2 @@
+(S (S (VP (VBG Using) (NP (NP (DT the) (NN information)) (VP (VBN collected) (PP (IN by) (NP (NP (DT the) (NNS traverses)) (PP (IN of) (NP (NP (DT these) (NNS agents)) (PP (IN in) (NP (DT the) (NN network))))))))))) (, ,) (NP (DT the) (NN network) (NN structure)) (VP (VBZ is) (VP (VBN revealed))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (DT the) (NN network) (NN modularity)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG determining) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS communities))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN output)) (VP (VBZ is) (VP (VBN evaluated) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN accuracy) (NN measure)) (, ,) (NP (NNP Kappa) (NN measure)) (, ,) (CC and) (NP (NNP ROC) (NN area))))))) (. .))

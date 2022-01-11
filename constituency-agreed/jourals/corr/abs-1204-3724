@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ primary) (NNS sources)) (PP (IN of) (NP (NP (NN information)) (PP (IN on) (NP (NNP Quora)))))) (VP (VBP are) (VP (VBN judged) (S (ADJP (JJ authoritative)))))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (NNS users)) (VP (VBP judge) (NP (NP (DT the) (NN reputation)) (PP (IN of) (NP (JJ other) (NNS users)))) (PP (VBN based) (PP (IN on) (NP (PRP$ their) (JJ past) (NNS contributions))))) (. .))

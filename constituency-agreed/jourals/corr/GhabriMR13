@@ -1,0 +1,1 @@
+(S (S (NP (DT These) (NNS flaws)) (VP (MD can) (VP (VB be) (VP (VBN interpreted) (PP (IN as) (NP (JJ potential) (NNS attacks) (NNS scenarios))))))) (CC but) (S (NP (NP (DT the) (NN feasability)) (PP (IN of) (NP (DT these) (NNS scenarios)))) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN confirmed) (PP (IN at) (NP (DT the) (NN implementation) (NN level))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Visual) (NNS features)) (VP (MD can) (VP (VB help) (S (VP (VB predict) (SBAR (IN if) (S (NP (DT a) (NN manipulation) (NN behavior)) (VP (MD will) (VP (VB succeed) (PP (IN at) (NP (DT a) (VBN given) (NN location))))))))))) (. .))
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (DT the) (NN success)) (PP (IN of) (NP (NP (DT a) (NN behavior)) (SBAR (WHNP (WDT that)) (S (VP (VBZ flips) (NP (JJ light) (NNS switches)))))))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN location)) (PP (IN of) (NP (DT the) (NN switch)))))) (. .))

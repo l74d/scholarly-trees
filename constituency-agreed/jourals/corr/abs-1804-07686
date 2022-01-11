@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBD was) (VP (VBN tested) (PP (IN on) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (CD 53) (JJ public) (NNS articles)) (VP (VBG containing) (NP (CD 392) (NNS claims))))))))) (. .))
+(S (NP (PRP$ Our) (NN test) (NNS cases)) (VP (VBP include) (NP (NP (NP (NNS articles)) (PP (IN from) (NP (JJ major) (NNS newspapers)))) (, ,) (NP (NP (NNS summaries)) (PP (IN of) (NP (NN survey) (NNS results)))) (, ,) (CC and) (NP (NNP Wikipedia) (NNS articles)))) (. .))

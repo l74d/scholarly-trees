@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN core) (NN idea)) (PP (IN of) (NP (PRP$ our) (NN method)))) (VP (VBZ is) (S (VP (TO to) (VP (VB split) (NP (DT a) (ADJP (JJ long) (CC and) (JJ secure)) (NN password)) (PP (IN into) (NP (CD two) (NNS components))))))) (. .))
+(S (NP (DT The) (JJ first) (NN component)) (VP (VBZ is) (VP (VBN memorized) (PP (IN by) (NP (DT the) (NN user))))) (. .))

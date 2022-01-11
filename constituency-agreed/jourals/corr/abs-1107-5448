@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT the) (NN subsolution) (NN approach)))) (NP (PRP we)) (VP (VP (VBP construct) (NP (NNS schemes))) (CC and) (VP (VB identify) (NP (NP (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (DT the) (NNS schemes)) (VP (MD will) (VP (VB be) (ADJP (RB asymptotically) (JJ optimal))))))))) (. .))

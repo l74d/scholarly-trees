@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP present) (NP (DT a) (JJ related) (NN matrix) (NN factorization))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NNS templates)) (VP (VBP are) (RB not) (VP (VBN required) (S (VP (TO to) (VP (VB be) (NP (NP (ADJP (JJ nonnegative) (CC nor) (JJ convex)) (NNS combinations)) (PP (IN of) (NP (DT the) (JJ original) (NNS data))))))))) (. .))

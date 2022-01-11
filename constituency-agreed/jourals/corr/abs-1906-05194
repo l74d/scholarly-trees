@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NNS results)) (PP (IN for) (NP (JJ active) (NN learning)))) (VP (VBP are) (VP (VBN extended) (PP (IN for) (S (VP (VBG automating) (NP (NNP Koopman) (NNS observables)))))))) (CC and) (S (NP (PRP we)) (VP (VBP implement) (NP (PRP$ our) (NN method)) (PP (IN on) (NP (JJ real) (JJ robotic) (NNS systems))))) (. .))

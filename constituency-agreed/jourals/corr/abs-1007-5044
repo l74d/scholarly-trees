@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT an) (JJ optimal) (NN storage) (NN allocation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (JJ successful) (NN recovery)))))))))))) (. .))

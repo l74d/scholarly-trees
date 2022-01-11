@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN size)) (PP (IN of) (NP (NP (JJ multi-modal) (, ,) (JJ heterogeneous) (NNS data)) (VP (VBN collected) (PP (IN through) (NP (JJ various) (NNS sensors))))))) (VP (VBZ is) (VP (VBG growing) (ADVP (RB exponentially)))) (. .))
+(S (S (NP (NNS Patterns)) (VP (VBP are) (VP (VBN stored)))) (, ,) (CC and) (S (NP (JJ unique) (NNS patterns)) (VP (VBP are) (VP (VBN transmited)))) (. .))

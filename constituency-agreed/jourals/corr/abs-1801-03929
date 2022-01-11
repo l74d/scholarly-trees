@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (ADJP (RB highly) (JJ influential)) (NN framework)) (PP (IN of) (NP (JJ conceptual) (NNS spaces)))) (VP (VBZ provides) (NP (NP (DT a) (JJ geometric) (NN way)) (PP (IN of) (S (VP (VBG representing) (NP (NN knowledge))))))) (. .))
+(S (S (NP (NNS Instances)) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NP (NNS points)) (PP (IN in) (NP (DT a) (NN similarity) (NN space)))))))) (CC and) (S (NP (NNS concepts)) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NP (NN convex) (NNS regions)) (PP (IN in) (NP (DT this) (NN space)))))))) (. .))

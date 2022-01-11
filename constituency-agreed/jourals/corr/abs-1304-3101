@@ -1,0 +1,3 @@
+(S (NP (NN Explanation) (NNS facilities)) (VP (VBP are) (NP (NP (DT a) (ADJP (RB particularly) (JJ important)) (NN feature)) (PP (IN of) (NP (NN expert) (NN system) (NNS frameworks))))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (NP (DT any) (NN effect) (NN measure)) (VP (VBG operating) (PP (IN in) (NP (DT this) (NN context))))) (VP (MD must) (VP (VB satisfy) (NP (JJ certain) (NNS properties))))))) (. .))
+(S (NP (DT That) (NN facility)) (VP (VBZ is) (VP (VBN described) (PP (IN in) (NP (NN detail))))) (. .))

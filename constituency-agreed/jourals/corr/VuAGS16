@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT both) (NNS models))) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (JJ different) (JJ architectural) (NNS choices))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG combining) (NP (ADJP (JJ convolutional) (CC and) (JJ recurrent)) (JJ neural) (NNS networks)) (S (VP (VBG using) (NP (DT a) (JJ simple) (NN voting) (NN scheme)))))) (VP (VBZ is) (ADJP (JJ accurate) (RB enough) (S (VP (TO to) (VP (VB improve) (NP (NNS results)))))))))) (. .))

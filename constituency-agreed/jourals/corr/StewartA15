@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG decoding) (NP (DT an) (NN image)) (PP (IN into) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS people) (NNS detections)))))))))))))) (. .))
+(S (SBAR (IN Because) (S (NP (PRP we)) (VP (VBP generate) (NP (NNS predictions)) (ADVP (RB jointly))))) (, ,) (NP (NP (JJ common) (JJ post-processing) (NNS steps)) (PP (JJ such) (IN as) (NP (JJ non-maximum) (NN suppression)))) (VP (VBP are) (ADJP (JJ unnecessary))) (. .))

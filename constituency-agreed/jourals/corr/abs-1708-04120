@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (MD can) (ADVP (RB then)) (VP (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NP (DT an) (JJ unsupervised) (NN labeling)) (PP (IN of) (NP (NNS tokens))))))) (, ,) (CC or) (VP (VB be) (NP (NP (DT the) (NN basis)) (PP (IN for) (NP (DT a) (JJ semi-supervised) (NN information) (NN extraction) (NN system))))))) (. .))

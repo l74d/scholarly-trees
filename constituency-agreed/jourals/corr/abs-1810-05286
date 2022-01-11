@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN method)) (SBAR (S (NP (PRP we)) (VP (VBP present) (ADVP (RB here)))))) (ADVP (RB also)) (VP (VBZ accounts) (PP (IN for) (NP (NP (NP (DT the) (NN non-determinism)) (PP (IN of) (NP (NN test) (NNS outcomes)))) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (NN test) (NN flakiness))))))) (. .))

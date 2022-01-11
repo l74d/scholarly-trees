@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN plausibility)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN domain) (NN label)) (PP (IN of) (NP (DT each) (NN node))))))))) (. .))
+(S (NP (NNP ELP) (NN algorithm)) (VP (MD will) (VP (VB converge) (SBAR (IN after) (S (NP (NP (DT the) (NN domain) (NNS labels)) (PP (IN of) (NP (PDT all) (DT the) (NNS nodes)))) (VP (VBP become) (ADJP (JJ unchanged))))))) (. .))
+(S (NP (DT The) (NN mass) (NNS assignments)) (VP (VBP are) (VP (VBN calculated) (ADVP (RB finally)) (PP (IN as) (NP (NP (NNS memberships)) (PP (IN of) (NP (NNS nodes))))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (NNP ELP))))) (. .))

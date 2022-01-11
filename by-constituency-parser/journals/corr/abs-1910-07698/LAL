@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN concerned) (PP (IN with) (NP (NP (JJ statistical) (NN estimation)) (PP (IN of) (NP (NP (CD two) (JJ preferential) (NN attachment) (NNS models)) (: :) (NP (NP (DT the) (NNP Buckley-Osthus) (NN model)) (CC and) (NP (DT the) (JJ hierarchical) (JJ preferential) (NN attachment) (NN model))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ maximum) (NN likelihood) (NNS estimates)) (PP (IN for) (NP (DT both) (NNS models)))) (VP (VBP are) (ADJP (JJ consistent)))))) (. .))
+(S (NP (PRP We)) (VP (VBP perform) (NP (JJ simulation) (NNS studies)) (S (VP (TO to) (VP (VB corroborate) (NP (PRP$ our) (JJ theoretical) (NNS findings)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP apply) (NP (DT both) (NNS models)) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (DT a) (JJ real-world) (NN network)))))))) (. .))
+(S (NP (NP (DT A) (NN list)) (PP (IN of) (NP (JJ open) (NNS problems)))) (VP (VBP are) (VP (VBN presented))) (. .))

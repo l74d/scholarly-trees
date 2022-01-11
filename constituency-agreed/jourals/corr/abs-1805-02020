@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (JJ monocular) (NN depth) (NN recovery)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN studied) (PP (IN as) (NP (DT an) (JJ independent) (NN part)))))) (, ,) (CC and) (S (NP (DT a) (JJR better) (NN depth) (NN estimation)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN pose)))))))) (. .))
+(S (CC And) (NP (PRP$ our) (NNS results)) (VP (VBP get) (NP (JJR better) (NN performance))) (. .))

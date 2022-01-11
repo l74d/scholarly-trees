@@ -1,0 +1,3 @@
+(S (NP (CD One) (NN example)) (VP (VBZ is) (NP (NP (DT an) (NN environment)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ many) (JJ available) (NNS plans)) (PP (IN for) (S (VP (VBG achieving) (NP (DT a) (JJ specific) (NN goal))))))))))) (. .))
+(S (NP (DT This) (NN bias)) (VP (VBZ is) (VP (VBN calculated) (PP (IN with) (NP (JJ simple) (NN plan) (NN prediction))))) (. .))
+(S (NP (PRP$ Our) (NN model)) (VP (VBD had) (NP (NP (DT a) (JJR higher) (NN correlation)) (PP (IN with) (NP (JJ human) (NN inference))))) (. .))

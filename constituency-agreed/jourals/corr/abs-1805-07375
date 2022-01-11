@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ extra) (NN information)) (VP (MD can) (VP (VB manifest) (PP (PP (IN as) (NP (DT a) (NN classification))) (, ,) (CC or) (PP (IN as) (NP (NP (DT a) (JJ multidimensional) (NN vector)) (PP (IN of) (NP (NNS features)))))))) (. .))
+(S (NP (DT These) (NNS methods)) (ADVP (RB often)) (VP (VBP rely) (PP (IN on) (NP (NP (DT some) (NN assumption)) (PP (IN of) (NP (NP (DT the) (NN dependency) (NNS relationships)) (PP (IN between) (NP (NNS attributes) (CC and) (NN connectivity)))))))) (. .))

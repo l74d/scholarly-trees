@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ significant) (NN amount)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (NN knowledge)))) (VP (VBZ is) (VP (VBN stored) (PP (IN in) (NP (JJ relational) (NNS databases))))) (. .))
+(S (NP (DT This) (NN dataset)) (VP (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB train) (NP (PRP$ our) (NN model))))))) (CC and) (VP (VBZ is) (ADJP (ADJP (NP (NP (DT an) (NN order)) (PP (IN of) (NP (NN magnitude)))) (JJR larger)) (PP (IN than) (NP (JJ comparable) (NNS datasets)))))) (. .))

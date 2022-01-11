@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (CD two) (NNS classifiers)) (VP (VBP are) (VP (VBN constructed) (S (VP (VBG using) (NP (JJ random) (NNS forests)))))) (. .))
+(S (S (VP (TO To) (VP (VB begin)))) (, ,) (NP (NP (DT the) (JJ first) (CD two) (NNS semesters)) (PP (IN of) (NP (NP (NNS courses)) (VP (VBN completed) (PP (IN by) (NP (DT a) (NN student))))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB predict) (SBAR (IN if) (S (NP (PRP they)) (VP (MD will) (VP (VB obtain) (NP (DT an) (JJ undergraduate) (NN degree))))))))))) (. .))
+(S (NP (NNP Random) (NNS forests)) (ADVP (RB also)) (VP (VBP allow) (PP (IN for) (NP (JJ reliable) (JJ variable) (NN importance) (NNS measurements)))) (. .))

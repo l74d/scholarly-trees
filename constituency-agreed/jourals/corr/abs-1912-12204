@@ -1,0 +1,2 @@
+(S (ADVP (RB Similarly)) (, ,) (NP (NNS robots)) (VP (MD can) (ADVP (RB also)) (VP (VB implement) (NP (DT this)) (PP (IN by) (NP (NN imitation) (NN learning))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NP (DT a) (NN knowledge) (NN fusion) (NN algorithm)) (PP (IN in) (NP (NNP FIL)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

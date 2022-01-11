@@ -1,0 +1,2 @@
+(FRAG (S (NP (NP (DT Any) (ADJP (JJ monotone) (JJ Boolean)) (NN circuit)) (VP (VBG computing) (NP (DT the) (NML (NML ($ $)) (NN n)) (NML (NML ($ $)) (HYPH -) (NML (ADJP (JJ dimensional) (JJ Boolean)) (NN convolution)))))) (VP (VBZ requires) (ADVP (IN at) (RBS least)))) (FRAG (NP ($ $)) (NP (NN n) (SYM ^) (CD 2)) (NP ($ $) (CD and-gates))) (. .))
+(S (NP (DT This)) (ADVP (RB precisely)) (VP (VBZ matches) (NP (NP (DT the) (JJ obvious) (JJ upper)) (VP (VBN bound)))) (. .))

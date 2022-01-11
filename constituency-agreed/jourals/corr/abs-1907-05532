@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT these) (NNS conditions)) (S (VP (TO to) (VP (VB quantify) (NP (NP (DT the) (NN scale)) (PP (IN of) (NP (NP (NN parameter) (NNS disturbances)) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (DT the) (NN network)) (VP (VBZ is) (ADJP (JJ robust)))))))))))) (. .))

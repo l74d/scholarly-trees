@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ computes) (NP (NP (DT the) (NNS correspondences)) (PP (IN between) (NP (NP (DT an) (NN input) (NN set)) (CC and) (NP (DT some) (JJ hidden) (NNS sets))))) (PP (IN by) (S (VP (VBG solving) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NN network) (NN flow) (NNS problems)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Computational) (NN complexity)) (VP (VBZ is) (VP (VBN examined) (S (VP (VBG using) (NP (NP (DT the) (NN principle)) (PP (IN of) (NP (VBG increasing) (NN entropy)))))))) (. .))
+(S (PP (IN In) (NP (JJ computational) (NNS terms))) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBG solving) (NP (NNS problems)) (PP (IN in) (NP (DT the) (NN class) (NNP NP)))))) (, ,) (NP (NNS decisions)) (VP (MD will) (VP (VB affect) (NP (NP (ADJP (RB subsequently) (JJ available)) (NNS sets)) (PP (IN of) (NP (NNS decisions)))))) (. .))

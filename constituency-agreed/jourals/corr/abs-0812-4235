@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (VBN proposed) (JJ algorithmic) (NN framework)) (, ,) (VP (VBN based) (PP (IN on) (NP (NP (NN regularization) (NN theory)) (CC and) (NP (NN kernel) (NNS methods))))) (, ,)) (VP (VBZ uses) (NP (NP (DT a) (JJ suitable) (NN class)) (PP (IN of) (NP (JJ mixed) (NN effect) (NNS kernels))))) (. .))
+(S (NP (DT The) (JJ new) (NN method)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN through) (NP (DT a) (JJ simulated) (NN music) (NN recommendation) (NN system))))) (. .))

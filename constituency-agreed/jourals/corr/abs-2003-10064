@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT this) (JJ new) (NN architecture)) (VP (MD might) (VP (VB render) (NP (JJ many) (JJ invalid) (NNS transactions)) (SBAR (WHADVP (WRB when)) (S (VP (VBG serializing) (NP (PRP them))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ proper) (JJ Hamiltonian) (NN cycle)) (VP (VBZ is) (NP (NP (DT a) (NN cycle)) (VP (VBG containing) (NP (NP (PDT all) (DT the) (NNS vertices)) (PP (IN of) (NP (DT the) (NN multigraph)))) (SBAR (JJ such) (IN that) (S (NP (DT no) (CD two) (JJ adjacent) (NNS edges)) (VP (VBP have) (NP (DT the) (JJ same) (NN color)))))))) (. .))

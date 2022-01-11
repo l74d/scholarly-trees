@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP study) (NP (JJ various) (NN text) (NNS classifiers))) (CC and) (VP (VBP observe) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ big) (NN performance) (NN drop)) (PP (IN on) (NP (DT these) (NNS datasets))))))))) (. .))

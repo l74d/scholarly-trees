@@ -1,0 +1,3 @@
+(S (NP (NP (NNS Notes)) (PP (IN of) (NP (DT a) (NN melody)))) (VP (MD can) (VP (VB be) (VP (VBN treated) (PP (IN as) (NP (NP (NNS nodes)) (PP (IN of) (NP (DT a) (NN network)))))))) (. .))
+(S (NP (NNS Connections)) (VP (VBP are) (VP (VBN created) (SBAR (WHADVP (WRB whenever)) (S (NP (NNS notes)) (VP (VBP are) (VP (VBN played) (PP (IN in) (NP (NN sequence))))))))) (. .))
+(S (NP (NNS Outcomes)) (VP (VBP confirm) (SBAR (IN that) (S (NP (NP (JJ peculiar) (NNS features)) (PP (IN of) (NP (DT the) (NNS tracks)))) (VP (MD can) (VP (VB be) (VP (VBN extracted) (PP (IN from) (NP (DT this) (NN analysis) (NN methodology))))))))) (. .))

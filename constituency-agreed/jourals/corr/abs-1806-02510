@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT an) (JJ approximate) (NN solution)) (PP (IN with) (NP (NP (DT an) (ADJP (RB arbitrarily) (JJ high)) (NN level)) (PP (IN of) (NP (NN precision)))))) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN with) (NP (JJ linear) (NN programming))))))))) (. .))

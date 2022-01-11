@@ -1,0 +1,2 @@
+(S (S (VP (VBG Capturing) (NP (NN correlation)) (PP (IN within) (NP (DT the) (NN approximation))))) (VP (VBZ requires) (NP (DT an) (JJ explicit) (NN parametrization))) (. .))
+(S (ADVP (RB Here)) (NP (NP (NNS correlations)) (PP (IN between) (NP (DT all) (NN model) (NNS parameters)))) (VP (VBP are) (VP (VBN taken) (PP (IN into) (NP (NN account))) (, ,) (SBAR (IN while) (S (ADVP (RB still)) (VP (VBG scaling) (ADVP (RB linearly)) (PP (IN in) (NP (JJ computational) (NN time) (CC and) (NN memory)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN challenge))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ novel) (NN feedback) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ considers) (NP (NP (DT the) (NN uncertainty)) (PP (IN of) (NP (JJ human) (NN feedback))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ incurs) (NP (NP (JJ intractable) (NN calculus)) (PP (IN in) (NP (DT the) (NNP EM) (NN algorithm))))) (. .))

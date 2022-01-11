@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN work)) (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (JJ human) (NN ability)) (PP (IN of) (NP (NN inference))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN framework)) (VP (VBZ is) (VP (VBN trained) (PP (IN in) (NP (JJ adversarial) (NN fashion))) (PP (IN with) (NP (JJ unsupervised) (NN learning))))) (. .))

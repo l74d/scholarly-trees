@@ -1,0 +1,2 @@
+(S (S (VP (VBG Comparing) (PP (IN with) (NP (JJ conventional) (NN sentence) (NN summarization))))) (, ,) (NP (NN product) (NN title) (NN summarization)) (VP (VBZ has) (NP (DT some) (ADJP (JJ extra) (CC and) (JJ essential)) (NNS constraints))) (. .))
+(S (NP (DT The) (JJ first) (NN constraint)) (VP (VBZ is) (VP (VBN handled) (PP (IN by) (NP (NN pointer) (NN mechanism))))) (. .))

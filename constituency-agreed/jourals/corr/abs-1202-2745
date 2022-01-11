@@ -1,0 +1,2 @@
+(S (NP (RB Only) (NN winner) (NNS neurons)) (VP (VBP are) (VP (VBN trained))) (. .))
+(S (PP (IN On) (NP (DT a) (NN traffic) (NN sign) (NN recognition) (NN benchmark))) (NP (PRP it)) (VP (VBZ outperforms) (NP (NNS humans)) (PP (IN by) (NP (NP (DT a) (NN factor)) (PP (IN of) (NP (CD two)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN detector)) (VP (VP (VBZ keeps) (S (VP (VBG updating) (NP (PRP$ its) (NN state)) (PP (VBN based) (PP (IN on) (NP (DT every) (JJ successful) (NN transmission))))))) (CC and) (VP (VBZ makes) (NP (NN detection) (NNS decisions)) (PP (IN by) (S (VP (VBG comparing) (NP (PRP$ its) (NN state)) (PP (IN with) (NP (DT a) (NN threshold)))))))) (. .))

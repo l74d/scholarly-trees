@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NNP Shapley) (NN value)) (VP (VBZ requires) (NP (JJ exponential) (NN complexity)) (S (VP (TO to) (VP (VB calculate) (ADVP (RB exactly)))))) (. .))

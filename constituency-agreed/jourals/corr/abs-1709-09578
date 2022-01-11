@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN problem)) (SBAR (S (NP (PRP we)) (VP (VBP seek) (S (VP (TO to) (VP (VB solve)))))))) (VP (VBZ is) (NP (DT the) (NN layout) (NN problem))) (. .))
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ has) (NP (JJ excellent) (NN generalization) (NNS properties))) (. .))
+(S (NP (NP (DT The) (JJ successful) (NNS results)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NNS drawbacks)) (PP (IN of) (NP (DT the) (JJ current) (NN method)))) (, ,)) (VP (VBP are) (VP (VBN discussed))) (. .))

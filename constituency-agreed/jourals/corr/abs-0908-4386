@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN error) (NN backpropagation) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT the) (NNP MLP) (NN network)))))))) (. .))

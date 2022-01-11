@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN problem)) (VP (VBZ is) (ADJP (RB polynomially) (JJ solvable)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS vertices)))) (CC and) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS classes))))) (VP (VBP are) (VP (VBN fixed))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP PSO)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB widely) (VBN recognized)) (NN optimization) (NN algorithm)) (VP (VBN inspired) (PP (IN by) (NP (JJ social) (NN swarm)))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (DT the) (NN cooperation)) (PP (IN between) (NP (NP (CD two) (NNS types)) (PP (IN of) (NP (NNS particles)))))) (VP (MD can) (VP (VB facilitate) (NP (NP (DT a) (JJ good) (NN balance)) (PP (IN between) (NP (NN exploration) (CC and) (NN exploitation)))) (, ,) (S (VP (VBG yielding) (NP (JJR better) (NN performance))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT the) (JJ strict) (NNP PB))) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (DT the) (NN problem)) (S (VP (TO to) (VP (VB maximize) (NP (CD one) (NN rate)) (SBAR (IN while) (S (NP (DT the) (JJ other) (NN rate)) (VP (VBZ is) (VP (VBN fixed) (SBAR (JJ such) (IN that) (S (NP (DT a) (JJ strict) (NNP PB) (NN point)) (VP (VBZ is) (VP (VBN reached))))))))))))) (. .))

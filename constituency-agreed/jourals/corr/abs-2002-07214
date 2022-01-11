@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN attack) (NN value)) (VP (VBZ does) (RB not) (ADVP (RB necessarily)) (VP (VB follow) (NP (DT a) (JJ statistical) (NN distribution)))) (. .))
+(S (NP (DT These) (NNS bounds)) (VP (VBP are) (VP (VBN achieved) (PP (IN under) (NP (ADJP (JJ arbitrary) (CC and) (JJ unbounded)) (NN reward) (NN perturbation))) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (DT the) (NN attack) (NN probability)) (VP (VBZ does) (RB not) (VP (VB exceed) (NP (DT a) (JJ certain) (JJ constant) (NN threshold))))))))) (. .))

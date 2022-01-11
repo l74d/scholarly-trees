@@ -1,0 +1,2 @@
+(S (NP (NP (NN Segmentation)) (PP (IN of) (NP (JJ anatomical) (NNS structures) (CC and) (NNS pathologies)))) (VP (VBZ is) (ADJP (RB inherently) (JJ ambiguous))) (. .))
+(S (PP (IN For) (NP (NN instance))) (, ,) (S (NP (NN structure) (NNS borders)) (VP (MD may) (RB not) (VP (VB be) (ADJP (RB clearly) (JJ visible))))) (CC or) (S (NP (JJ different) (NNS experts)) (VP (MD may) (VP (VB have) (NP (NP (JJ different) (NNS styles)) (PP (IN of) (S (VP (VBG annotating)))))))) (. .))

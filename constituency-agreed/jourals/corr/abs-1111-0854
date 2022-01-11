@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB investigate) (NP (NP (DT the) (NN homology) (NNS groups)) (PP (IN of) (NP (NP (JJ mathematical) (NNS models)) (PP (IN of) (NP (NN concurrency)))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (DT the) (NN algorithm))) (CC and) (VP (VB give) (NP (NP (NNS examples)) (PP (IN of) (S (VP (VBG calculating) (NP (DT the) (NN homology) (NNS groups)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (MD can) (VP (VB improve) (NP (DT the) (NN accuracy)) (PP (IN without) (S (VP (VBG increasing) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (JJ original) (JJ online) (NN application) (NN process))))))))) (. .))

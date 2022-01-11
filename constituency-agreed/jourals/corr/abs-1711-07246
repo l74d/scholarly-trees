@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (NN face) (NN detection)))) (VP (VBZ has) (VP (VBN been) (ADVP (RB largely)) (VP (VBN improved) (PP (IN with) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (JJ convolutional) (JJ neural) (NN network)))))))) (. .))
+(S (NP (NP (DT The) (NN improvement)) (PP (IN on) (NP (NP (DT the) (NN recall)) (PP (IN of) (NP (DT these) (VBN occluded) (NNS cases)))))) (ADVP (RB usually)) (VP (VBZ brings) (NP (NP (DT the) (NN risk)) (PP (IN of) (NP (JJ high) (JJ false) (NNS positives))))) (. .))
+(S (NP (DT The) (NN code)) (VP (MD will) (VP (VB be) (VP (VBN released) (PP (IN for) (NP (NN reproduction)))))) (. .))

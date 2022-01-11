@@ -1,0 +1,2 @@
+(S (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN work)) (PP (IN on) (S (VP (VBG overcoming) (NP (DT these) (NNS shortcomings)))))))) (, ,) (CC but) (S (NP (NP (DT each)) (PP (IN of) (NP (DT these)))) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN addressed) (PP (IN in) (NP (NN isolation)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB address) (NP (DT all) (CD three) (NNS aspects)) (ADVP (RB simultaneously))))))) (. .))

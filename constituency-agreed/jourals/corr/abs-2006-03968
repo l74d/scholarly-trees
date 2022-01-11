@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (S (VP (VBG using) (NP (DT the) (JJ same) (NN quantization)) (PP (IN for) (NP (DT every) (NN layer))))) (VP (MD may) (VP (VB be) (ADJP (JJ sub-optimal)) (, ,) (S (VP (VBG increasing) (NP (NP (DT the) (NN designspace)) (PP (IN of) (NP (JJ possible) (NN quantization) (NNS choices)))))))) (. .))

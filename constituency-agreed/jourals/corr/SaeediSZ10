@@ -1,0 +1,2 @@
+(S (NP (DT All) (NNS decompositions)) (VP (VBP contain) (NP (NP (DT the) (JJ maximum) (NN number)) (PP (IN of) (NP (NN disjoint) (NNS cycles))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT each) (NN pair)) (VP (VBZ is) (VP (VBN synthesized) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (JJ available) (NNS components)) (PP (IN of) (NP (DT the) (NN library))))))))) (. .))

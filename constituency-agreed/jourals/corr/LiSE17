@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB infer) (NP (NP (DT the) (JJ latent) (NN structure)) (PP (IN of) (NP (JJ expert) (NNS demonstrations)))) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN way))))))))) (. .))

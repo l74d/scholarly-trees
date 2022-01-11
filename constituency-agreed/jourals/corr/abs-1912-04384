@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (SBAR (IN that) (, ,) (S (ADVP (RB often)) (, ,) (NP (NP (NNS views)) (PP (IN of) (NP (JJ indoor) (NNS spaces)))) (VP (VBP contain) (NP (JJ high) (NN depth) (NN disparity)))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG detecting) (NP (JJ repeatable) (NN feature) (NNS locations)) (PP (IN under) (NP (JJ true) (NN viewpoint) (NN change))))))))) (. .))

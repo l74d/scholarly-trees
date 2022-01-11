@@ -1,0 +1,2 @@
+(S (NP (NNS Nodes)) (VP (VP (VBP cooperate) (S (VP (TO to) (VP (VB provide) (NP (NN connectivity)))))) (, ,) (VP (VBZ operates) (PP (IN without) (NP (JJ centralized) (NN administration))))) (. .))
+(S (NP (VBG Routing)) (VP (VBZ is) (ADVP (RB always)) (NP (NP (DT the) (ADJP (RBS most) (JJ significant)) (NN part)) (PP (IN for) (NP (DT any) (NNS networks))))) (. .))

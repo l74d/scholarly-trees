@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (VP (VBN found) (SBAR (IN that) (S (NP (DT an) (NN algorithm)) (VP (MD can) (VP (VB generate) (NP (JJ true) (JJ random) (NNS numbers)) (PP (IN on) (NP (JJ classical) (NN computer)))))))))) (. .))

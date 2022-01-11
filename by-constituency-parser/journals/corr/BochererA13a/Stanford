@@ -1,0 +1,4 @@
+(S (NP (NP (VBN Rooted) (NNS trees)) (PP (IN with) (NP (NNS probabilities)))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB analyze) (NP (NP (NNS properties)) (PP (IN of) (NP (DT a) (NML (JJ variable) (NN length)) (NN code))))))))) (. .))
+(S (NP (DT A) (ADJP (JJ bound))) (VP (VBZ is) (VP (VBN derived) (PP (IN on) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (DT the) (NN entropy) (NNS rates)) (PP (IN of) (NP (NP (DT the) (NN code)) (CC and) (NP (DT a) (JJ memoryless) (NN source)))))))))) (. .))
+(S (NP (DT The) (VBN bound)) (VP (VBZ is) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (VBN normalized) (JJ informational) (NN divergence)))))) (. .))
+(S (NP (DT The) (VBN bound)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB derive) (NP (NP (NNS converses)) (PP (IN for) (NP (JJ exact) (NML (NML (JJ random) (NN number) (NN generation)) (, ,) (NML (NN resolution) (NN coding)) (, ,) (CC and) (NML (NN distribution) (NN matching))))))))))) (. .))

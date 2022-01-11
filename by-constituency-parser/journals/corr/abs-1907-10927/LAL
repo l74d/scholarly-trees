@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBD used) (NP (NP (DT a) (NN collocation) (NN method)) (PP (IN in) (NP (JJ refinable) (JJ spline) (NN space)))) (S (VP (TO to) (VP (VB solve) (NP (NP (DT a) (JJ linear) (JJ dynamical) (NN system)) (VP (VBG having) (NP (NP (JJ fractional) (NN derivative)) (PP (IN in) (NP (NN time)))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ takes) (NP (NN advantage)) (PP (IN of) (NP (NP (DT an) (JJ explicit) (NN derivation) (NN rule)) (PP (IN for) (NP (DT the) (JJ B-spline) (NN basis))) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (ADVP (RB efficiently)) (VB evaluate) (NP (NP (DT the) (NN collocation) (NNS matrices)) (VP (VBG appearing) (PP (IN in) (NP (DT the) (NN method)))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP proof) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (DT the) (NN method))))) (. .))
+(S (NP (DT Some) (JJ numerical) (NNS results)) (VP (VBP are) (VP (VBN shown))) (. .))

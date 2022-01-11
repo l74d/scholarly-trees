@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NNP StyleFusion)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ bridges) (NP (NP (NN conversation) (NN modeling)) (CC and) (NP (JJ non-parallel) (NN style) (NN transfer))) (PP (IN by) (S (VP (VBG sharing) (NP (DT a) (JJ structured) (NN latent) (NN space)))))))))) (. .))

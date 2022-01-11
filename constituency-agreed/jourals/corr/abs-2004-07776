@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VP (VBZ learns) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB split) (NP (NN compound) (NNS words)) (PP (IN into) (NP (CD two) (NNS parts)))))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB derive) (NP (NP (DT the) (JJ constituent) (NN structure)) (PP (IN of) (NP (DT any) (NN word) (NN form))))))))))) (. .))

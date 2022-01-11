@@ -1,0 +1,2 @@
+(S (S (VP (VBG Understanding) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NN algorithm)))) (PP (IN from) (NP (NP (DT a) (JJ theoretical) (NN point)) (PP (IN of) (NP (NN view))))))) (VP (VBZ is) (NP (DT a) (JJ challenging) (NN task))) (. .))
+(S (NP (NP (DT The) (JJ first) (NNS results)) (PP (IN on) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (NNP GP)))))) (VP (VBP have) (VP (VBN been) (VP (VBN obtained) (PP (IN for) (NP (NP (NNS problems)) (PP (IN with) (NP (JJ isolated) (NN program) (NNS semantics)))))))) (. .))

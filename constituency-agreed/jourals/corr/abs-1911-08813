@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN power) (NN consumption)) (PP (IN of) (NP (DT a) (NN microprocessor)))) (VP (VBZ is) (NP (NP (DT a) (JJ huge) (NN channel)) (PP (IN for) (NP (NN information) (NN leakage))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (NP (NP (DT the) (NN leakage)) (PP (IN in) (NP (DT these) (NNS modules))))) (CC and) (ADVP (RB then)) (VP (VB add) (NP (JJ suitable) (NNS countermeasures)))) (. .))

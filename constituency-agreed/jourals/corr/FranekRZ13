@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN formula)) (VP (VBZ is) (ADJP (JJ robust)) (, ,) (SBAR (IN if) (S (NP (PRP$ its) (NN satisfiability)) (VP (VBZ does) (RB not) (VP (VB change) (PP (IN under) (NP (JJ small) (NNS perturbations)))))))) (. .))

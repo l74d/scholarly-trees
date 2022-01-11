@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB compute) (NP (DT the) (NN localization) (NN uncertainty)) (ADVP (RB directly)) (PP (IN from) (NP (NP (DT the) (NN intensity) (NNS values)) (PP (IN of) (NP (NP (DT every) (NN pixel)) (PP (IN in) (NP (DT the) (NN image))))))))))) (. .))

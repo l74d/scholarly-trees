@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNS users)) (VP (VBP do) (RB not) (VP (VB respect) (NP (NP (DT the) (NNS limitations)) (PP (IN of) (NP (JJ such) (NNS systems)))))))) (, ,) (NP (NN performance)) (ADVP (RB typically)) (VP (VBZ degrades)) (. .))
+(S (NP (NP (DT The) (NNS values)) (PP (IN for) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NN evaluation) (NNS measures)))))) (VP (VBP are) (ADVP (RB then)) (VP (VBN extracted) (PP (IN from) (NP (DT this) (NN corpus))))) (. .))

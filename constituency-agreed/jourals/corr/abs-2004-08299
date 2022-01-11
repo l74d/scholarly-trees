@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB alleviate) (NP (DT the) (NNS problems))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (NNP Multimodal) (NNP Semantic) (NNP Transformer) (NNP Network))) (. .))
+(S (PP (IN With) (NP (DT this) (NN design))) (, ,) (NP (PRP$ our) (NN model)) (VP (VBZ keeps) (S (VP (VBG considering) (NP (NP (DT the) (NN meaning)) (PP (IN of) (NP (DT the) (NNS words)))) (PP (IN at) (NP (DT the) (NN generation) (NN stage)))))) (. .))

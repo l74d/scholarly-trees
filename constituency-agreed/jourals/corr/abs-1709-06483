@@ -1,0 +1,2 @@
+(S (NP (NP (DT Both)) (PP (IN of) (NP (DT these) (NNS settings)))) (VP (VBP show) (NP (ADJP (RB very) (JJ different)) (JJ computational) (NNS characteristics))) (. .))
+(S (NP (DT This)) (VP (VBZ has) (NP (NP (JJ important) (NNS consequences)) (PP (IN for) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (ADJP (RBR more) (JJ efficient)) (JJ numerical) (NNS methods))))))) (. .))

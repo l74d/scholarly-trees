@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (NN client) (NN side))) (NP (NP (DT an) (NN installation)) (PP (IN without) (NP (NP (JJ administrative) (NNS rights)) (CC or) (NP (JJ privileged) (NNS ports))))) (VP (MD can) (VP (VB turn) (NP (DT any) (NN computer)) (PP (IN into) (NP (DT a) (NN worker) (NN node))))) (. .))
+(S (S (NP (NNS Clients)) (VP (VBP request) (NP (JJ new) (NN task) (NNS descriptions)) (ADVP (RB periodically)))) (, ,) (S (ADVP (RB thus)) (NP (DT the) (NN system)) (VP (VBZ is) (ADJP (JJ robust) (PP (IN against) (NP (NN network) (NNS failures)))))) (. .))

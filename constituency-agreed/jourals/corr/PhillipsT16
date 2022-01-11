@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB construct) (CC and) (VB estimate) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (NP (DT the) (NN median)) (PP (IN of) (NP (DT a) (NN point) (NN set))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ includes) (NP (NP (NP (DT the) (JJ geometric) (NN median)) (PP (IN for) (NP (JJ high) (NNS dimensions)))) (CC and) (NP (NP (DT the) (NNP Siegel) (NN estimator)) (PP (IN for) (NP (JJ linear) (NN regression)))))) (. .))

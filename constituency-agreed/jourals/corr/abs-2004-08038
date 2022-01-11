@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS methods)) (VP (VBP require) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (NP (NN training) (NNS data)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBN collected) (PP (IN over) (NP (NP (DT a) (JJ significant) (NN period)) (PP (IN of) (NP (NN time)))))))))))))))) (. .))

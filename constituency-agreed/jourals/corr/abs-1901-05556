@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (JJ supervised) (NNS tasks))) (, ,) (NP (DT the) (NN user) (NN engagement)) (VP (VBZ occurs) (PP (IN via) (NP (NP (DT the) (NN manipulation)) (PP (IN of) (NP (DT the) (NN training) (NNS data)))))) (. .))
+(S (PP (VBG Depending) (PP (IN on) (NP (DT the) (NN application) (NN domain)))) (, ,) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NNS features)))) (VP (MD can) (VP (VB be) (VP (VBN extracted) (PP (IN from) (NP (DT the) (JJ raw) (NN data)))))) (. .))

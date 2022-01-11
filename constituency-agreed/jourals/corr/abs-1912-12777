@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NNS issues)) (PP (IN of) (NP (NP (NN generalization) (NN error)) (CC and) (NP (JJ implicit) (NN regularization))))) (VP (MD can) (VP (VB be) (VP (VBN studied) (PP (IN under) (NP (DT this) (NN framework))))))))) (. .))

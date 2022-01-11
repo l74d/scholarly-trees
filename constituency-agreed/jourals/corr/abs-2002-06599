@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ practical) (NN improvement)) (PP (IN of) (NP (DT this) (VBN informed) (NN search)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (NN heuristic)))))) (. .))
+(S (S (VP (VBG Selecting) (NP (DT an) (JJ appropriate) (NN heuristic)))) (VP (VBZ is) (ADJP (JJ difficult))) (. .))

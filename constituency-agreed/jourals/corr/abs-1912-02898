@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (VP (VB interrogate) (NP (PRP it))) (. .))
+(S (ADVP (RB Finally)) (, ,) (SBAR (IN as) (S (VP (VBN shown) (PP (IN in) (NP (PRP$ our) (JJ experimental) (NNS studies)))))) (, ,) (NP (PRP they)) (VP (VBP allow) (NP (NP (DT an) (JJ efficient) (NN handling)) (PP (IN of) (NP (NN inconsistency))))) (. .))

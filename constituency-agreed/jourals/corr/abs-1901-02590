@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN concept)) (PP (IN of) (NP (JJ secure) (NN list) (NN decoding))))) (. .))
+(S (NP (DT This) (NN protocol)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NP (JJ anonymous) (NN auction)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ realizes) (NP (NP (DT the) (NN anonymity)) (PP (IN for) (NP (NN bidding)))))))))))) (. .))

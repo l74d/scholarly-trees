@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN compilator)) (VP (VBZ is) (NP (NP (DT a) (NN program)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (NN development)) (PP (IN in) (NP (NP (DT a) (NN programming) (NN language)) (SBAR (WHNP (WDT that)) (S (VP (VBD read) (NP (NP (DT a) (NN file)) (VP (VBN known) (PP (IN as) (NP (NN source)))))))))))))))) (. .))
+(S (VP (TO To) (VP (VB like) (S (VP (TO to) (VP (VB generate) (NP (NP (DT a) (NN tool)) (SBAR (WHNP (WDT that)) (S (VP (VBP permit) (NP (NP (DT a) (NN learning)) (PP (IN in) (NP (NN university) (NN course))))))))))))) (. .))

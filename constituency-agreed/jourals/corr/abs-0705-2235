@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NNP ANN)) (VP (VBZ is) (VP (VBN trained) (PP (IN by) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (DT the) (NN ground) (NN motion) (NNS data))))))))) (, ,) (NP (PRP it)) (VP (MD can) (ADVP (RB also)) (VP (VB identify) (NP (NP (DT the) (NNS responses)) (PP (IN of) (NP (DT the) (JJ structural) (NN system)))) (ADVP (RB well)))) (. .))

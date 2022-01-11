@@ -1,0 +1,2 @@
+(S (NP (PRP$ Their) (NN state) (NNS updates)) (VP (VBP follow) (NP (DT a) (JJ generic) (JJ conservative) (NN algorithm))) (. .))
+(S (NP (DT The) (JJ conservative) (NN update) (NN rule)) (VP (VBZ determines) (NP (NP (DT the) (NN growth)) (PP (IN of) (NP (DT a) (JJ virtual) (NN time) (NN surface))))) (. .))

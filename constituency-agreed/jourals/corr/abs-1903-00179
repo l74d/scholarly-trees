@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB extract) (NP (JJ effective) (NNS features)))))) (VP (VBZ is) (NP (NP (DT a) (JJ critical) (NN point)) (PP (IN for) (NP (NN saliency) (NN detection))))) (. .))
+(S (NP (JJ Recent) (NNS methods)) (ADVP (RB mainly)) (VP (VBP adopt) (S (VP (VBG integrating) (NP (JJ multi-scale) (JJ convolutional) (NNS features)) (ADVP (RB indiscriminately))))) (. .))

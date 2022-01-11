@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT an) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (JJ supervised) (JJ temporal) (NN topic) (NNS models)) (S (VP (TO to) (VP (VB transform) (NP (NP (JJ large) (NNS corpora)) (PP (IN of) (NP (NN news) (NNS articles)))) (PP (IN into) (NP (JJ temporal) (NN topic) (NNS trends))))))))))) (. .))

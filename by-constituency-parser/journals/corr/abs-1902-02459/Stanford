@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ mean) (NN estimation)) (PP (IN for) (NP (ADJP (JJ high) (HYPH -) (JJ dimensional)) (NNS distributions)))))) (, ,) (S (VP (VBG assuming) (NP (NN access)) (PP (IN to) (NP (NP (DT a) (JJ statistical) (NN query) (NN oracle)) (PP (IN for) (NP (DT the) (NN distribution)))))))) (. .))

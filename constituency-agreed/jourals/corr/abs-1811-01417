@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ monocular) (NN camera) (NN pipeline)) (VP (VBZ begins) (PP (IN with) (NP (NP (DT a) (NN fruit) (NN detection) (NN component)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (DT a) (JJ deep) (JJ neural) (NN network)))))))) (. .))

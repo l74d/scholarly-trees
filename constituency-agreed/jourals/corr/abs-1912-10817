@@ -1,0 +1,2 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN implementation)))) (NP (NP (DT a) (NN comparison)) (PP (IN between) (NP (NNP XSLT) (CC and) (NNP Prolog)))) (VP (VBZ follows)) (. .))
+(S (NP (DT These) (NNS criteria)) (VP (VBP are) (VP (VBN validated))) (. .))

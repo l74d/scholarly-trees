@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (JJ basic) (NN building) (NN block))) (, ,) (NP (JJ spatial) (NN bottleneck)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB replace) (NP (NP (DT any) (JJ single) (JJ convolutional) (NN layer)) (, ,) (CC or) (NP (NP (DT the) (NN combination)) (PP (IN of) (NP (CD two) (JJ convolutional) (NNS layers))))))))))) (. .))

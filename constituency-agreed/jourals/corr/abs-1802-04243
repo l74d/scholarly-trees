@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP GPU) (NN algorithm)) (VP (VBD was) (VP (VBN implemented) (PP (IN in) (NP (NP (NP (CD one) (NN kernel)) (PP (IN for) (NP (DT the) (JJ implicit) (NN scheme)))) (CC and) (NP (NP (CD two) (NNS kernels)) (PP (IN for) (NP (DT the) (JJ explicit) (NN scheme)))))))) (. .))

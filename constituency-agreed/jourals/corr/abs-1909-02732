@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Theoretical) (NN error) (NN analysis)) (CC and) (NP (JJ numerical) (NNS examples))) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN formula)) (VP (VBZ converges) (ADVP (RB exponentially)) (PP (IN for) (NP (JJ analytic) (JJ periodic) (NNS functions))))))) (. .))

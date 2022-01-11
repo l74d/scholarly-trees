@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP create) (NP (NP (NN news) (NN article) (NN category) (NN classification) (NNS datasets)) (PP (IN for) (NP (CD 9) (NNS languages)))) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (NNS embeddings)))))) (. .))

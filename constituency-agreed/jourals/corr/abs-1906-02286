@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN architecture)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (DT a) (NN framework)) (CC and) (NP (DT a) (NN pipeline)))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT the) (NN contribution)) (PP (IN of) (NP (DT the) (NN paper)))) (VP (VBZ is) (ADJP (JJ twofold))) (. .))

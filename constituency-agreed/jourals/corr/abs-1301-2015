@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (JJ variational) (NN approximation)) (CC and) (NP (NN expectation) (NN propagation))) (S (VP (TO to) (VP (VB tackle) (NP (DT the) (NN problem)))))) (. .))
+(S (S (NP (DT The) (NN work)) (VP (VBZ is) (ADVP (RB still)) (PP (IN under) (NP (NN progress))))) (CC and) (S (NP (PRP we)) (VP (VBP are) (VP (VP (VBG examining) (NP (DT the) (NNS results))) (CC and) (VP (VBG comparing) (PP (IN with) (NP (DT the) (JJ previous) (NNS works))))))) (. .))

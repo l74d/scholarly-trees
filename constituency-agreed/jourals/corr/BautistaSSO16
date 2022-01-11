@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (JJ weak) (NNS estimates)) (PP (IN of) (NP (JJ local) (NN distance))))) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ single) (NN optimization) (NN problem)) (S (VP (TO to) (VP (VB extract) (NP (NP (NNS batches)) (PP (IN of) (NP (NP (NNS samples)) (PP (IN with) (NP (ADJP (RB mutually) (JJ consistent)) (NNS relations)))))))))) (. .))

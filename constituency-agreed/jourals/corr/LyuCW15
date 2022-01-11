@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN pricing) (NNS strategies)) (VP (VBP are) (VP (VBN designed) (SBAR (IN so) (IN that) (S (NP (DT the) (NN network)) (ADVP (RB always)) (VP (VBZ operates) (PP (IN within) (NP (DT the) (JJ feasible) (NN throughput) (NN region)))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN verified) (PP (IN by) (NP (NNS simulations))))) (. .))

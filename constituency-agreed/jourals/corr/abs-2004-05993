@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (JJ various) (NN problem) (NNS formulations)) (, ,) (NP (ADJP (RB publicly) (JJ available)) (NNS datasets)) (CC and) (NP (NN evaluation) (NNS criteria)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VP (VBP provide) (NP (JJS best) (NNS practices))) (CC and) (VP (VBP suggest) (NP (NP (DT some) (JJ possible) (NNS directions)) (PP (IN for) (NP (JJ future) (NN research)))))) (. .))

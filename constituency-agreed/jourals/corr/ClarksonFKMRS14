@@ -1,0 +1,3 @@
+(S (NP (NP (CD Two) (JJ new) (NNS logics)) (PP (IN for) (NP (NP (NN verification)) (PP (IN of) (NP (NNS hyperproperties)))))) (VP (VBP are) (VP (VBN proposed))) (. .))
+(S (NP (NNS Hyperproperties)) (VP (VBP characterize) (NP (NP (NN security) (NNS policies)) (, ,) (PP (JJ such) (IN as) (NP (NN noninterference))) (, ,)) (PP (IN as) (NP (NP (DT a) (NN property)) (PP (IN of) (NP (NP (NNS sets)) (PP (IN of) (NP (NN computation) (NNS paths)))))))) (. .))
+(S (PP (IN For) (NP (NP (DT a) (NN fragment)) (PP (IN of) (NP (NNP HyperLTL))))) (, ,) (NP (DT a) (NN prototype) (NN model) (NN checker)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented)))) (. .))

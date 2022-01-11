@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBN applied) (PP (IN as) (NP (NP (DT a) (JJ sparse) (NN regularizer)) (PP (IN for) (NP (NN line) (JJ spectral) (NN estimation)))))))) (NP (DT the) (NN solution)) (VP (MD can) (VP (VB be) (VP (VBN obtained) (PP (IN by) (S (VP (VBG solving) (NP (DT a) (NN convex) (NN optimization) (NN problem)))))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VP (VBN cast) (PP (IN as) (NP (DT a) (JJ semidefinite) (NN program)))) (CC and) (VP (VBN solved) (PP (IN by) (NP (JJ standard) (NNS methods))))))) (. .))

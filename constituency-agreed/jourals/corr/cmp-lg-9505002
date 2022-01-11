@@ -1,0 +1,1 @@
+(S (ADVP (RB Together)) (NP (DT these) (NNS techniques)) (VP (VBP result) (PP (IN in) (NP (NP (NN language) (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (NP (JJ few) (NNS states)) (, ,) (NP (RB even) (JJR fewer) (NNS parameters)) (, ,) (CC and) (NP (JJ low) (NN message) (NNS entropies))))))))) (. .))

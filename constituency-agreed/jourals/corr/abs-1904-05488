@@ -1,0 +1,1 @@
+(S (S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (JJ many) (NNS attempts) (S (VP (TO to) (VP (VB define) (NP (NN interpretability)) (PP (IN in) (NP (JJ neural) (NNS networks)))))))))) (, ,) (CC but) (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP lack) (NP (NN causality) (CC or) (NN generality)))) (. .))

@@ -1,0 +1,2 @@
+(SBARQ (WHADVP (WRB How)) (S (VP (TO to) (VP (VB define) (NP (NN simplicity))))) (. ?))
+(S (NP (DT This) (NN definition)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NN information) (NN geometry))))) (CC and) (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (NP (NNS observations)) (, ,) (CC nor) (NP (JJ specific) (NNS parametrizations))))))) (. .))

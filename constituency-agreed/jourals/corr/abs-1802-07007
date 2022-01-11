@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP define) (NP (DT the) (NN traffic) (NN graph) (NN convolution)) (PP (VBN based) (PP (IN on) (NP (DT the) (JJ physical) (NN network) (NN topology))))) (. .))
+(S (NP (NP (DT The) (NN relationship)) (PP (IN between) (NP (NP (DT the) (VBN proposed) (NN traffic) (NN graph) (NN convolution)) (CC and) (NP (DT the) (JJ spectral) (NN graph) (NN convolution))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))

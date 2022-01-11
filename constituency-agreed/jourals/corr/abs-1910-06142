@@ -1,0 +1,2 @@
+(S (NP (JJ Chaotic) (NNS systems)) (VP (VBP have) (VP (VBN been) (VP (VBN investigated) (PP (IN in) (NP (NP (JJ several) (NNS areas)) (PP (IN of) (NP (NN engineering)))))))) (. .))
+(S (NP (DT The) (NN chaoticity)) (VP (VBD was) (VP (VBN evidenced) (PP (IN with) (NP (NP (DT the) (NN calculation)) (PP (IN of) (NP (DT the) (NNP Lyapunov) (NN exponent))))))) (. .))

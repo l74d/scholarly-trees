@@ -1,0 +1,2 @@
+(S (ADVP (RB Particularly)) (, ,) (NP (JJ such) (ADJP (RB highly) (JJ nonlinear)) (NN optimization) (NNS problems)) (VP (VBP are) (VP (VBN solved) (PP (IN by) (NP (NP (DT an) (JJ iterative) (NN procedure)) (PP (IN of) (NP (ADJP (RB very) (JJ low)) (JJ computational) (NN complexity))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB support) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN power) (NN allocation))))))))) (. .))

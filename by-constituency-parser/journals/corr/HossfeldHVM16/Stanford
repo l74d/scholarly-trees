@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Matlab) (NNS scripts)) (PP (IN for) (S (VP (VBG computing) (NP (NP (DT the) (NN QoE) (NNS metrics)) (PP (IN for) (NP (VBN given) (NN data) (NNS sets)))))))) (VP (VBP are) (ADJP (JJ available) (PP (IN in) (NP (NNP GitHub))))) (. .))

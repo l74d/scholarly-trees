@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT the) (NNP Scott) (NN model)) (PP (IN of) (NP (DT the) (NN programming) (NN language) (NNP PCF)))) (PP (IN in) (NP (JJ univalent) (NN type) (NN theory)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP work) (ADVP (RB constructively) (CC and) (RB predicatively))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NN lifting)) (VP (VBZ is) (NP (DT a) (JJ viable) (NN approach)) (PP (TO to) (NP (NN partiality))) (PP (IN in) (NP (JJ univalent) (NN type) (NN theory))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP Scott) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN constructed) (PP (IN in) (NP (DT a) (ADJP (JJ predicative) (CC and) (JJ constructive)) (NN setting))))))))) (. .))
+(S (NP (NP (JJ Other) (NNS approaches)) (PP (TO to) (NP (NN partiality)))) (CC either) (VP (VB require) (NP (NP (NP (DT some) (NN form)) (PP (IN of) (NP (NN choice)))) (CC or) (NP (JJ quotient) (JJ inductive-inductive) (NNS types)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (CD one)) (VP (MD can) (VP (VB do) (PP (IN without) (NP (DT these) (NNS extensions)))))))) (. .))

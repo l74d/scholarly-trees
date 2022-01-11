@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ main) (NN goal)) (PP (IN of) (NP (NNP Angora)))) (VP (VBZ is) (S (VP (TO to) (VP (VB increase) (NP (NN branch) (NN coverage)) (PP (IN by) (S (VP (VBG solving) (NP (NN path) (NNS constraints)) (PP (IN without) (NP (JJ symbolic) (NN execution)))))))))) (. .))

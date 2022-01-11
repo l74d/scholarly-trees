@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN scenario))) (, ,) (NP (NP (DT the) (VBN requested) (NN content)) (PP (IN by) (NP (DT each) (NN user)))) (VP (VBZ is) (VP (VBN served) (PP (IN over) (NP (CD one) (NN frame))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (DT the) (JJ second) (NN scenario))) (, ,) (NP (NP (DT the) (VBN requested) (NN content)) (PP (IN by) (NP (DT each) (NN user)))) (VP (MD can) (VP (VB be) (VP (VBN delivered) (PP (IN over) (NP (JJ several) (NNS frames)))))) (. .))

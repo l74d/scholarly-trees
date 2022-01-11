@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (NN platform) (NN size)) (VP (VBZ is) (VP (VBN reduced))))) (, ,) (NP (NP (DT the) (NN flight)) (PP (IN of) (NP (JJ aerial) (NNS robots)))) (VP (VBZ becomes) (ADJP (RB increasingly) (RB energetically) (JJ expensive))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (ADJP (JJ consistent) (PP (IN with) (NP (DT the) (VBN proposed) (NNS models))))) (. .))

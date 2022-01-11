@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (DT the) (NNP KITTI) (NN dataset))))) (. .))
+(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN through) (NP (ADJP (JJ qualitative) (CC and) (JJ quantitative)) (NN evaluation))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ former)) (VP (VBZ is) (VP (VBN computed) (PP (IN by) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NN entropy))))) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ latter)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (DT a) (JJ stochastic) (NN divergence)))))))))) (. .))

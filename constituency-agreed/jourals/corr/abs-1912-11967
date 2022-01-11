@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN result)) (VP (VBN obtained) (PP (IN by) (NP (DT the) (NN prediction) (NN module))))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB replace) (NP (NP (DT the) (NN target) (NN position) (NN feature)) (VP (VBN obtained) (PP (IN by) (NP (DT the) (JJ original) (NN tracking) (NN algorithm)))))))))) (. .))

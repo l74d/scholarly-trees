@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN governed) (PP (IN by) (NP (NP (DT a) (JJ complex) (NN combination)) (PP (IN of) (NP (NP (NNS parameters)) (VP (VBG dealing) (PP (IN with) (NP (NP (JJ multi-cell) (NNS scenarios)) (CC and) (NP (NN system) (NNS dynamics))))))))))) (. .))
+(S (NP (DT The) (JJ present) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ unified) (NN framework)) (PP (IN for) (NP (DT the) (NN network) (NN analysis) (CC and) (NN optimization))))) (. .))

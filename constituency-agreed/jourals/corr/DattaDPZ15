@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN dataset)) (VP (VBZ has) (VP (VBN been) (VP (VBN classified) (PP (IN by) (NP (DT some) (JJ unknown) (NN classifier))) (PP (IN into) (NP (NP (CD two) (NNS types)) (PP (IN of) (NP (NNS points)))))))) (. .))

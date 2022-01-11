@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (NN method)) (PP (IN for) (NP (NP (DT a) (NN solution)) (PP (IN of) (NP (NP (DT a) (NN system)) (PP (IN of) (NP (JJ linear) (NNS equations))) (PP (IN with) (NP (DT the) (JJ non-negativity) (NN condition))))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Tikhonov) (NN functional))))) (CC and) (VP (VBZ has) (NP (NP (JJR better) (NN accuracy) (CC and) (NN stability)) (PP (IN than) (NP (JJ other) (JJ well-known) (NN algorithms)))))) (. .))

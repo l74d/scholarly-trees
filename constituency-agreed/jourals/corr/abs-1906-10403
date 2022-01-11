@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ important) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ arises) (PP (IN in) (NP (JJ many) (NN engineering) (NNS applications))))))) (VP (VBZ is) (NP (NP (DT the) (JJ boundary) (NN value) (NN problem)) (PP (IN for) (NP (JJ ordinary) (JJ differential) (NNS equations))))) (. .))
+(S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (NP (JJ many) (JJ computational) (NNS methods)) (VP (VBN proposed) (PP (IN for) (S (VP (VBG dealing) (PP (IN with) (NP (DT this) (NN problem)))))))))) (. .))

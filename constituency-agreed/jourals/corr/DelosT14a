@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN algorithm)) (SBAR (S (NP (PRP we)) (VP (VBD developed))))) (VP (MD can) (VP (VB be) (VP (VBN implemented) (CC and) (VBN parallelized) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ easy)) (NN way)))))) (. .))

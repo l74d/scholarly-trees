@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NP (DT the) (JJ visual) (NNS features)) (PP (IN in) (NP (PRP$ our) (NN system)))))) (VP (VBZ is) (ADJP (JJ small)))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (JJ appropriate) (NN use)) (PP (IN of) (NP (JJ additional) (NNS data)))) (VP (VBZ is) (ADJP (JJ effective)))))) (. .))

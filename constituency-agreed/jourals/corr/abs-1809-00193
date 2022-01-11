@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (ADJP (RB very) (JJ little)) (NN progress)) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (PP (IN on) (S (VP (VBG investigating) (SBAR (WHADVP (WRB how)) (S (NP (DT an) (JJ individual) (NN training) (NN sample)) (VP (MD will) (VP (VB influence) (NP (NP (DT the) (NN generalization) (NN ability)) (PP (IN of) (NP (DT a) (NN model)))))))))))))) (. .))

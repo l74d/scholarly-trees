@@ -1,0 +1,3 @@
+(S (PP (IN Besides) (NP (DT the) (NNS labels))) (, ,) (SBAR (IN since) (S (NP (JJ linguistic) (NNS ontologies)) (VP (VBP are) (NP (JJ intrinsic) (NNS hierarchies))))) (, ,) (NP (NP (DT the) (JJ conceptual) (NNS relations)) (PP (IN between) (NP (NNS words)))) (VP (MD can) (ADVP (RB also)) (VP (VB form) (NP (JJ hierarchical) (NNS structures)))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (CD three) (NN benchmark) (NNS datasets))))) (. .))
+(S (S (VP (TO To) (VP (VB facilitate) (NP (JJ future) (NN research))))) (, ,) (NP (PRP$ our) (NN code)) (VP (VBZ is) (ADJP (RB publicly) (JJ available))) (. .))

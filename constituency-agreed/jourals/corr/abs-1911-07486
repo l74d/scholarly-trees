@@ -1,0 +1,2 @@
+(S (NP (NP (NN Reproducibility)) (CC and) (NP (JJ realistic) (NNS datasets))) (VP (VBP are) (ADJP (JJ crucial) (PP (IN for) (S (VP (VBG advancing) (NP (NN research))))))) (. .))
+(S (ADVP (RB Unfortunately)) (, ,) (NP (PRP they)) (VP (VBP are) (ADVP (RB often)) (VP (VBN neglected) (PP (IN as) (NP (JJ valid) (JJ scientific) (NNS contributions))) (PP (IN in) (NP (JJ many) (JJ young) (NNS disciplines))) (, ,) (PP (IN with) (S (NP (NN computer) (NN science)) (VP (VBG being) (NP (DT no) (NN exception))))))) (. .))

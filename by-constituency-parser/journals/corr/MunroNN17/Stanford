@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ new) (NN index)) (VP (VBZ outperforms) (NP (NP (NP (PDT all) (DT the) (JJ other) (JJ compressed) (NNS indexes)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN built) (PP (IN in) (NP (JJ linear) (JJ deterministic) (NN time))))))))) (, ,) (CC and) (NP (DT some) (NNS others)))) (. .))

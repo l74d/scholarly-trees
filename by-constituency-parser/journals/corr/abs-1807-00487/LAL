@@ -1,0 +1,4 @@
+(S (S (VP (VBG Calculating) (NP (JJ leaf) (NN area)))) (VP (VBZ is) (ADJP (RB very) (JJ important))) (. .))
+(S (NP (NNP Computer) (VBD aided) (NN image) (NN processing)) (VP (MD can) (VP (VB make) (S (NP (DT this)) (ADJP (ADJP (JJR faster)) (CC and) (ADJP (JJR more) (NN accurate)))))) (. .))
+(S (NP (DT This)) (VP (VBP include) (S (VP (VP (VBG scanning) (NP (DT the) (NN leaf))) (, ,) (VP (VBG converting) (NP (PRP it)) (PP (TO to) (NP (JJ binary) (NN image)))) (CC and) (NP (NP (NN calculation)) (PP (IN of) (NP (NP (NN number)) (PP (IN of) (NP (NP (NNS pixels)) (VP (VBN covered)))))))))) (. .))
+(S (ADVP (RB Later)) (NP (DT this)) (VP (VBZ is) (VP (VBN converted) (PP (TO to) (NP (VB mm2))))) (. .))

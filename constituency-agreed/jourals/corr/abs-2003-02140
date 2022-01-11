@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (NN parametrization)) (PP (IN of) (NP (NP (DT the) (JJ relative) (NN motion)) (PP (IN between) (NP (NP (CD two) (NNS satellites)) (VP (VBG orbiting) (NP (DT a) (JJ central) (NN body)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT These)) (VP (VBP are) (VP (VBN combined) (PP (IN with) (NP (JJ classical) (JJ orbital) (NNS elements))) (S (VP (TO to) (VP (VB yield) (NP (DT a) (JJ nonsingular) (JJ relative) (NN motion) (NN description))))))) (. .))

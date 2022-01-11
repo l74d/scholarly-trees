@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB learn) (PP (IN from) (NP (NP (DT the) (NN database)) (PP (IN with) (NP (JJ noisy) (NNS labels))))))))) (VP (VBZ is) (NP (NP (DT a) (NN problem)) (PP (IN of) (NP (JJ great) (JJ practical) (NN importance))))) (. .))

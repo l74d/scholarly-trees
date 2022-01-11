@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN framework)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (VBG learning) (NNS stages)))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (DT an) (JJ extended) (JJ Gaussian) (NN mask)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB train) (NP (DT an) (JJ initial) (NN model)) (PP (IN with) (NP (ADJP (RB partially) (VBN labeled)) (NNS data)))))))) (. .))

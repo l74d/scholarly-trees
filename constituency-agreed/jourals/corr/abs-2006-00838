@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD engaged) (PP (IN with) (NP (DT the) (NN task))) (PP (IN by) (S (VP (VBG focusing) (PP (IN on) (NP (NN efficiency))))))) (. .))
+(S (PP (IN For) (NP (DT this))) (NP (PRP we)) (VP (VBD considered) (NP (NP (NN training) (NNS costs)) (CC and) (NP (NN inference) (NN efficiency)))) (. .))

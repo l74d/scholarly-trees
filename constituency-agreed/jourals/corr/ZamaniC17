@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN embedding) (NNS vectors)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN learned) (PP (VBN based) (PP (IN on) (NP (NP (NN term) (NN proximity)) (PP (IN in) (NP (DT a) (JJ large) (NN corpus)))))))) (. .))

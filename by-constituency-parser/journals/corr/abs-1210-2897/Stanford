@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (DT a) (VBN proposed) (NNS means)) (S (VP (TO to) (VP (VB estimate) (NP (NP (NNS parameters)) (PP (IN of) (NP (NP (NN noise)) (VP (VBN corrupted) (NP (NN oscillator) (NNS systems)))))))))) (. .))
+(S (NP (NP (DT An) (NN application)) (PP (IN for) (NP (DT a) (NML (NN submarine) (NN combat)) (NML (NML (NN control) (NNS systems)) (-LRB- -LRB-) (NML (NN CCS)) (-RRB- -RRB-)) (NN rack)))) (VP (VBZ is) (VP (VBN described) (PP (IN as) (NP (NP (JJ exemplary)) (PP (IN of) (NP (DT the) (NN method))))))) (. .))

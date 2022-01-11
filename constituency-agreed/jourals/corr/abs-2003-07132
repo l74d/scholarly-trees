@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN lack)) (PP (IN of) (NP (NN interpretability)))) (VP (VBZ is) (NP (DT an) (JJ inevitable) (NN problem)) (SBAR (WHADVP (WRB when)) (S (VP (VBG using) (NP (JJ neural) (NN network) (NNS models)) (PP (IN in) (NP (JJ real) (NNS applications))))))) (. .))

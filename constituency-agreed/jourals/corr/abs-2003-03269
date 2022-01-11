@@ -1,0 +1,2 @@
+(S (NP (JJ Typical) (NN semiconductor) (NNS chips)) (VP (VBP include) (NP (NP (NNS thousands)) (PP (IN of) (NP (ADJP (RB mostly) (JJ small)) (NNS memories))))) (. .))
+(S (NP (NN Memory) (NNS arrays)) (VP (VP (VBP are) (ADJP (RB highly) (JJ uniform))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN by) (NP (QP (RB approximately) (CD 10)) (NNS parameters))) (PP (VBG depending) (PP (ADVP (RB mostly)) (IN on) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (NN periphery)))))))))) (. .))

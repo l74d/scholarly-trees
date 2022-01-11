@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NNS machines)) (VP (VBP are) (VP (VBN configured) (PP (IN for) (NP (DT each) (NN client))) (ADVP (RB individually)))))) (, ,) (NP (NN cable) (NNS plans)) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN drawn) (ADVP (RB automatically))))))) (. .))

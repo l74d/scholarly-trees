@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ fundamental) (NN problem)) (PP (IN of) (NP (NP (JJ reliable) (JJ interactive) (NN communication)) (PP (IN over) (NP (DT a) (JJ noisy) (NN channel))))))) (. .))
+(S (NP (PRP We)) (VP (VBP believe) (SBAR (IN that) (S (NP (DT this) (NN notion)) (VP (VBZ is) (PP (IN of) (NP (JJ independent) (NN interest))))))) (. .))

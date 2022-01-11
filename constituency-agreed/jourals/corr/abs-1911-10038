@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN text) (NN processing))) (, ,) (NP (JJ deep) (JJ neural) (NNS networks)) (ADVP (RB mostly)) (VP (VBP use) (NP (NN word) (NNS embeddings)) (PP (IN as) (NP (DT an) (NN input)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (DT a) (VBG pressing) (NN need) (S (VP (TO to) (VP (VB interconnect) (NP (NP (JJ physical) (NNS systems)) (PP (JJ such) (IN as) (NP (NP (NN power) (NN grid)) (CC and) (NP (NNS vehicles))))) (PP (IN for) (NP (NP (JJ efficient) (NN management)) (CC and) (NP (JJ safe) (NNS operations))))))))) (. .))
+(S (NP (DT These) (JJ virtual) (NNS networks)) (VP (MD can) (VP (VB be) (VP (VBN tailored) (S (VP (TO to) (VP (VB meet) (NP (NP (DT the) (NNS requirements)) (PP (IN of) (NP (JJ different) (JJ cyber-physical) (NNS systems)))))))))) (. .))

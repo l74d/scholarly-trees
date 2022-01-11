@@ -1,0 +1,2 @@
+(SBARQ (WHADVP (WRB How)) (SQ (MD should) (NP (DT the) (NNS predictions)) (VP (VB be) (VP (VBN used)))) (. ?))
+(SBARQ (WHNP (WP What)) (SQ (VP (VBZ happens) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ inaccurate))))))) (. ?))

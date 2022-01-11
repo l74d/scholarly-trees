@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN computer) (NN search)) (PP (IN for) (NP (JJ large) (JJ constant) (NN dimension) (NNS codes)))) (VP (VBZ is) (ADVP (RB usually)) (ADJP (JJ inefficient)) (SBAR (IN since) (S (NP (DT the) (NN search) (NN space) (NN domain)) (VP (VBZ is) (ADJP (RB extremely) (JJ large)))))) (. .))

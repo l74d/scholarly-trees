@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN research))) (, ,) (NP (PRP we)) (VP (VBD started) (PP (IN with) (NP (NP (DT the) (NN presentation)) (PP (IN of) (NP (DT the) (JJ conceptual) (NN framework)))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT a) (JJ relevant) (NN solution)) (PP (IN for) (NP (DT this) (NN problem))))) (. .))
+(S (S (NP (PRP We)) (VP (VBD scrutinized) (NP (DT the) (VBN selected) (NNS studies)) (, ,) (S (VP (VBG presenting) (NP (PRP$ their) (NNS objectives) (, ,) (NNS methodologies) (CC and) (NNS results)))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBD provided) (NP (PRP$ our) (JJ own) (NN analysis)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (NNS sensors)))) (VP (VBP produce) (NP (NP (JJ large) (NN volume)) (PP (IN of) (NP (NP (NNS data)) (PP (JJ such) (IN as) (NP (NN weather) (NN temperature))))))) (. .))
+(S (NP (NP (DT The) (NN reason)) (SBAR (S (NP (PRP we)) (VP (VBP choose) (NP (PRP them)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ useful) (CC and) (JJ popular)))))) (. .))

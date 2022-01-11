@@ -1,0 +1,2 @@
+(S (S (NP (QP (RB Only) (CD one)) (JJ active) (NN switch)) (VP (VBZ is) (VP (VBN used)))) (CC and) (S (NP (DT no) (NN diode)) (VP (VBZ is) (VP (VBN required)))) (. .))
+(S (S (NP (DT A) (NN prototype)) (VP (VBZ is) (VP (VBN built)))) (CC and) (S (NP (JJ experimental) (NNS works)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB verify) (NP (DT the) (NNS features)))))))) (. .))

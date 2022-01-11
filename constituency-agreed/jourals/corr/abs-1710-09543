@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (PRP we)) (VP (VBD collected) (NP (JJ big) (NN traffic) (NN accident) (NNS data))) (. .))
+(S (PP (IN By) (S (VP (VBG analyzing) (NP (NP (DT the) (ADJP (JJ spatial) (CC and) (JJ temporal)) (NNS patterns)) (PP (IN of) (NP (NN traffic) (NN accident) (NN frequency))))))) (, ,) (NP (PRP we)) (VP (VBD presented) (NP (NP (DT the) (JJ spatiotemporal) (NN correlation)) (PP (IN of) (NP (NN traffic) (NNS accidents))))) (. .))

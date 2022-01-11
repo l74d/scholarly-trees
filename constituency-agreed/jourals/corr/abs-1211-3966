@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (, ,) (NP (DT the) (JJ inactive) (NNS predictors) (CC or) (NNS features)) (VP (MD can) (VP (VB be) (VP (VBN removed) (PP (IN from) (NP (DT the) (NN optimization) (NN problem))) (S (VP (TO to) (VP (VB reduce) (NP (PRP$ its) (NN scale)))))))) (. .))

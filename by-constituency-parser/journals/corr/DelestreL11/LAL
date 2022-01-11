@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG simulating) (NP (NP (NN blood) (NN flow)) (PP (IN in) (NP (NP (NNS arteries)) (PP (IN with) (NP (JJ variable) (NN elasticity)))))) (PP (IN with) (NP (DT a) (ADJP (CD one) (JJ dimensional)) (NN model)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ well-balanced) (NN finite) (NN volume) (NN scheme)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ recent) (NNS developments)) (PP (IN in) (NP (JJ shallow) (NN water) (NNS equations) (NN context)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB thus)) (VP (VB get) (NP (NP (DT a) (NN mass) (JJ conservative) (NN scheme)) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBZ preserves) (NP (NP (NNS equilibria)) (PP (IN of) (NP (NNP Q=0))))))))) (. .))
+(S (NP (DT This) (JJ numerical) (NN method)) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (JJ analytical) (NNS tests))))) (. .))

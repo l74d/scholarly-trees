@@ -1,0 +1,1 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (VBG missing) (NNS edges)))) (VP (VBZ is) (ADJP (JJ constant))))) (, ,) (NP (JJ such) (NN decision)) (VP (MD can) (VP (VB be) (VP (VBN done) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))

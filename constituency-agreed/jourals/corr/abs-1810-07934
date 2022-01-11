@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS users)) (VP (VP (VBP are) (ADJP (JJ random))) (CC and) (VP (MD can) (RB not) (VP (VB be) (VP (VBN controlled) (PP (IN by) (NP (DT any) (JJ central) (NNS directives))))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (NN simulation) (NNS results)) (VP (VBP corroborate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (. .))

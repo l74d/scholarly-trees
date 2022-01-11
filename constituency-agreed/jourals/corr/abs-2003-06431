@@ -1,0 +1,2 @@
+(S (ADVP (RB Likewise)) (, ,) (NP (PRP we)) (VP (VBP explore) (NP (NP (JJ various) (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (VBP help) (PP (IN in) (S (VP (VBG predicting) (NP (NN rogue) (NNS waves)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (JJ nonlinear) (NNS classifiers)) (VP (VBP have) (NP (NP (JJR better) (NN prediction) (NN accuracy)) (PP (IN than) (NP (DT the) (JJ linear) (NNS ones)))))))) (. .))

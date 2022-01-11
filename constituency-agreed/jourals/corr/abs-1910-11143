@@ -1,0 +1,1 @@
+(S (NP (NN Instruction) (NNS costs)) (VP (VBP vary) (PP (VBG depending) (PP (IN on) (NP (NP (DT the) (NN instruction) (NN type)) (CC and) (NP (NP (DT the) (JJ approximate) (JJ computational) (NNS resources)) (VP (VBN required) (S (VP (TO to) (VP (VB execute) (NP (DT the) (NN instruction)) (PP (IN on) (NP (DT the) (NN network)))))))))))) (. .))

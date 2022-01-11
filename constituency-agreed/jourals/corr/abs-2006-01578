@@ -1,0 +1,1 @@
+(S (NP (JJ Deep) (NN learning)) (VP (VBZ uses) (NP (NP (JJ neural) (NNS networks)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN parameterised) (PP (IN by) (NP (PRP$ their) (NNS weights))))))))) (. .))

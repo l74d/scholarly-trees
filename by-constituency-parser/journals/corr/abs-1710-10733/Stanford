@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP Madry) (NNP Lab)) (ADVP (RB recently)) (VP (VBD hosted) (NP (NP (DT a) (NN competition)) (VP (VBN designed) (S (VP (TO to) (VP (VB test) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (PRP$ their) (ADJP (RB adversarially) (VBN trained)) (NN MNIST) (NN model)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (JJ new) (NNS protocols) (CC or) (NNS ideas)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (CC and) (VBN proved) (PP (IN by) (S (VP (VP (VBG using) (NP (DT a) (JJ mathematical) (NN model))) (CC or) (VP (VBG running) (NP (DT a) (NN simulation) (NN program))))))))) (. .))
+(S (S (NP (DT That)) (VP (VBZ is) (ADJP (JJ satisfactory)))) (CC but) (S (NP (DT these) (VBN proposed) (NNS designs)) (VP (MD might) (RB not) (VP (VB work) (PP (IN in) (NP (DT the) (JJ real) (NN world) (NN situation)))))) (. .))

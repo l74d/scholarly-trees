@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT the) (NN incorporation)) (PP (IN of) (NP (JJ hierarchical) (NN feature) (NN representation)))) (VP (MD may) (VP (VB benefit) (PP (IN from) (NP (DT both) (NNS methods))))) (. .))
+(S (PP (IN By) (S (VP (VBG exploiting) (NP (DT the) (JJ metric) (NN distance))))) (, ,) (NP (PRP$ our) (NN framework)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB learn) (NP (DT the) (JJ hierarchical) (NN feature) (NN representation)) (PP (IN without) (NP (NN supervision)))))))) (. .))

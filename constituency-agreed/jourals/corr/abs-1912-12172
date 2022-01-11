@@ -1,0 +1,3 @@
+(S (NP (NNP Lion) (NN attack)) (VP (VBZ is) (NP (NP (JJ multi) (NN layer) (NNS attacks)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN effected) (PP (IN on) (NP (CD two) (NNS layers))))))))) (. .))
+(S (S (VP (TO To) (VP (VB Mitigate) (NP (DT the) (NNP Lion) (NN attack))))) (NP (DT the) (NN cross) (NN layer) (NN design)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN used) (S (VP (TO to) (VP (VB freeze) (NP (PRP$ its) (NNS windows) (NN size)) (PP (IN during) (NP (NN frequency) (NN handoff)))))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN issue)) (PP (IN in) (NP (DT this) (NN solution)))) (VP (VBZ is) (VP (VBG finding) (NP (NP (DT the) (JJS best) (NN strategy)) (PP (IN for) (NP (NN freezing)))))) (. .))

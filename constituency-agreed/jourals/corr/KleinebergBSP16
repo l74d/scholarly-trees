@@ -1,0 +1,3 @@
+(S (NP (JJ Real) (NNS networks)) (ADVP (RB often)) (VP (VBP form) (NP (NP (VBG interacting) (NNS parts)) (PP (IN of) (NP (ADJP (ADJP (JJR larger)) (CC and) (ADJP (RBR more) (JJ complex))) (NNS systems))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT these) (JJ multiplex) (NNS systems)) (VP (VBP are) (RB not) (NP (NP (JJ random) (NNS combinations)) (PP (IN of) (NP (JJ single) (NN network) (NNS layers)))))))) (. .))
+(S (ADVP (RB Instead)) (, ,) (NP (PRP they)) (VP (VBP are) (VP (VBN organized) (PP (IN in) (NP (NP (JJ specific) (NNS ways)) (VP (VBN dictated) (PP (IN by) (NP (NP (JJ hidden) (JJ geometric) (NNS correlations)) (PP (IN between) (NP (DT the) (JJ individual) (NNS layers)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN utility)) (VP (VBZ has) (NP (NP (CD two) (NNS advantages)) (PP (IN over) (NP (NP (DT the) (JJ standard) (NNP Firebird) (NN database) (NN backup) (NN utility)) (, ,) (NP (NN gbak)))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB backup) (CC and) (VB restore) (NP (NP (JJ single) (NN database) (NNS tables)) (SBAR (WHNP (WDT which)) (S (VP (MD might) (VP (VB help) (S (VP (TO to) (VP (VB recover) (NP (JJ corrupted) (NNS databases))))))))))))))) (. .))

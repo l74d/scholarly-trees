@@ -1,0 +1,1 @@
+(S (NP (NP (NN Redundancy)) (PP (IN of) (NP (DT a) (NN parameter)))) (VP (VBZ means) (SBAR (IN that) (S (S (VP (VBG replacing) (NP (PRP it)) (PP (IN by) (NP (DT any) (NN expression))))) (VP (VBZ does) (RB not) (VP (VB change) (NP (DT the) (NN result))))))) (. .))

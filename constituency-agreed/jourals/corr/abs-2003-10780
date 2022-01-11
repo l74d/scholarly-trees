@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (DT this) (NN mismatch)) (PP (IN from) (NP (NP (DT a) (NN domain) (NN adaptation) (NN point)) (PP (IN of) (NP (NN view)))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NN approach)) (PP (IN with) (NP (NP (CD six) (NN benchmark) (NNS datasets)) (CC and) (NP (CD three) (NN loss) (NNS functions))))) (. .))

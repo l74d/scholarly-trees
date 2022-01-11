@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (JJ arbitrary) (NNS assumptions)) (PP (IN on) (NP (DT the) (NN reward) (NNS dynamics)))) (VP (MD can) (VP (VB be) (VP (VBN given))))))) (. .))
+(S (S (NP (DT These) (CD two) (NNS objectives)) (ADVP (RB often)) (VP (VBP conflict))) (CC and) (S (NP (NP (RB only) (DT a) (NN compromise)) (PP (IN between) (NP (PRP them)))) (VP (MD can) (VP (VB be) (VP (VBN reached))))) (. .))

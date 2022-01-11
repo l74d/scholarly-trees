@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ improves) (S (VP (VBG learning) (PP (IN from) (NP (VBN imbalanced) (NNS data))))) (PP (IN by) (S (VP (VBG incorporating) (NP (DT the) (NN majority) (NN distribution) (NN structure)) (PP (IN in) (NP (NP (DT the) (NN generation)) (PP (IN of) (NP (JJ new) (NN minority) (NNS samples))))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN generator)) (VP (VBZ is) (VP (VBN trained) (PP (IN with) (NP (NN feature) (JJ matching) (NN loss) (NN function))) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN training) (NN convergence))))))) (. .))

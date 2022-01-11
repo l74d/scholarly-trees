@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (NNP DTW)) (VP (VBZ obtains) (NP (DT a) (JJ global) (JJ optimal) (NN solution))))) (, ,) (NP (PRP it)) (VP (VBZ does) (RB not) (ADVP (RB necessarily)) (VP (VB achieve) (NP (ADJP (RB locally) (JJ sensible)) (NNS matchings)))) (. .))
+(S (ADVP (RB Concretely)) (, ,) (NP (NP (CD two) (JJ temporal) (NNS points)) (PP (IN with) (NP (ADJP (RB entirely) (JJ dissimilar)) (JJ local) (NNS structures)))) (VP (MD may) (VP (VB be) (VP (VBN matched) (PP (IN by) (NP (NNP DTW)))))) (. .))

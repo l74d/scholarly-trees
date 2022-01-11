@@ -1,0 +1,1 @@
+(S (NP (VBN Selected) (NNS features)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB learn) (NP (DT a) (NN kernel) (NNP SVM) (NN classifier))))))) (. .))

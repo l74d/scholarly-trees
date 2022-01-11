@@ -1,0 +1,2 @@
+(S (PP (IN Within) (NP (CD one) (NN epoch))) (, ,) (NP (NP (DT the) (JJ average) (NN fitness)) (PP (IN in) (NP (DT the) (NN population)))) (VP (VBZ is) (ADJP (RB approximately) (JJ constant))) (. .))
+(S (NP (PRP We)) (VP (VBP verify) (NP (PRP$ our) (JJ theoretical) (NNS considerations)) (PP (IN with) (NP (CD two) (ADJP (RB analytically) (JJ tractable)) (NN bitstring) (NNS models)))) (. .))

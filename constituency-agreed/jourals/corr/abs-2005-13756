@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD provided) (NP (NP (DT a) (JJ modular) (NN baseline) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (NN pipeline)) (PP (IN of) (NP (CD 4) (NNS components))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ shows) (SBAR (IN that) (S (NP (JJ unsupervised) (JJ morphological) (NN paradigm) (NN completion)) (VP (VBZ is) (ADVP (RB still)) (ADJP (RB largely) (JJ unsolved)))))) (. .))

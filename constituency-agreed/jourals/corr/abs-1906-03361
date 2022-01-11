@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG tuning) (NP (DT the) (CD two) (NNS temperatures))))) (NP (PRP we)) (VP (VBP create) (NP (NP (NN loss) (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ non-convex)) (ADVP (RB already)) (PP (IN in) (NP (DT the) (JJ single) (NN layer) (NN case)))))))) (. .))

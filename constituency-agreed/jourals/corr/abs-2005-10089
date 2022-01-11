@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (VBN expected) (NNS margins)) (VP (VBP are) (VP (VBN analyzed) (PP (IN through) (NP (NP (NN visualization)) (PP (IN of) (NP (NN word) (NNS vectors))))) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (DT the) (ADJP (JJ syntactic) (CC and) (JJ semantic)) (NNS relationships)) (VP (VBP are) (ADVP (RB also)) (VP (VBN preserved))))))))) (. .))

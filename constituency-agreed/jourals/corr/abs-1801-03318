@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG being) (NP (DT an) (JJ inherent) (NN imaging) (NN property)))) (, ,) (NP (NN speckle)) (VP (VBZ helps) (PP (IN in) (NP (NN tissue) (NN characterization) (CC and) (NN tracking)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN letter))) (, ,) (NP (PRP we)) (VP (VBP aim) (S (VP (TO to) (VP (VB address) (NP (DT the) (NN despeckling) (NN problem)) (S (VP (VBG using) (NP (DT an) (JJ unsupervised) (JJ deep) (JJ adversarial) (NN approach)))))))) (. .))

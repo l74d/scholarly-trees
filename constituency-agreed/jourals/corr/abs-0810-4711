@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (NN procedure)) (PP (IN of) (S (VP (VBG generating) (NP (NP (NN hash) (NNS functions)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN evaluated) (S (VP (VBG using) (NP (DT some) (JJ mathematical) (NNS tools))))))))))))))) (. .))
+(S (NP (DT This) (NN procedure)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ discrete) (JJ chaotic) (NNS iterations))))) (. .))
+(NP (JJ Topological) (NN chaos) (. .))

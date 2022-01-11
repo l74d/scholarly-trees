@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NN microphone) (NN calibration)) (VP (VBZ is) (RB not) (VP (VBN required))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT a) (JJ recursive) (NN adaptation) (NN mechanism)) (VP (VBZ is) (VP (VBN derived) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ new) (NN streaming) (NNS measurements)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB update) (NP (DT the) (NN model))))))))))) (. .))

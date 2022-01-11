@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (NN simulation) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB study) (NP (DT the) (NN concept)))))))))))) (. .))
+(S (NP (NP (JJ Multiple) (NNS cameras)) (PP (IN on) (NP (DT the) (NN infrastructure)))) (VP (VBP are) (VP (VBN simulated))) (. .))

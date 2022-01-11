@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT these) (NNS questions)))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (ADVP (RB efficiently)) (VP (VB achieve) (NP (NP (JJ proper) (NN diversity) (CC and) (NN sampling)) (PP (IN of) (NP (DT the) (JJ multi-mode) (NNS data) (NN space))))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT this))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NNP BasisGAN)) (, ,) (NP (DT a) (JJ stochastic) (JJ conditional) (JJ multi-mode) (NN image) (NN generator)))) (. .))

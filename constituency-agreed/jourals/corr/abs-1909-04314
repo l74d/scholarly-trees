@@ -1,0 +1,2 @@
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (VBN proposed) (NN framework)) (VP (MD can) (VP (VB be) (VP (VBN extended) (S (VP (TO to) (VP (VB take) (NP (JJ partial) (NN model) (NN knowledge)) (PP (IN into) (NP (NN account)))))))))))) (. .))
+(S (NP (NP (DT The) (NN validity)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach)))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN via) (NP (DT a) (JJ numerical) (NN example))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NNS comparisons)) (PP (IN for) (NP (NP (NP (DT the) (NNS variations)) (PP (IN of) (NP (NN detection) (NN probability)))) (CC and) (NP (NP (JJ standard) (NN derivation)) (PP (IN of) (NP (NN measurement) (NN noise))))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN tested) (PP (IN via) (NP (NN simulation) (NNS experiments))))) (. .))

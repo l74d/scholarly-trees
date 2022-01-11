@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN quantization)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBN included) (PP (IN in) (NP (DT the) (NN optimization)))))))) (. .))
+(S (S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP push) (PP (IN for) (NP (NN quantization))))) (: :) (S (NP (PRP We)) (VP (VBP optimize) (NP (NP (JJ maximum) (NN class) (NN separability)) (PP (IN in) (NP (DT the) (JJ binary) (NN space)))))) (. .))

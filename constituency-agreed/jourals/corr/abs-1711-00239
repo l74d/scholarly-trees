@@ -1,0 +1,2 @@
+(S (NP (JJ Previous) (NNS studies)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG including) (NP (JJR more) (NNS features)))) (VP (VBZ does) (RB not) (ADVP (RB necessarily)) (VP (VB bring) (NP (JJ positive) (NN effect))))))) (. .))
+(S (PP (IN Under) (NP (DT a) (JJ mild) (NN assumption))) (, ,) (NP (DT the) (VBN integrated) (NN classifier)) (VP (VBZ has) (NP (JJ theoretical) (NN security) (NN guarantee))) (. .))

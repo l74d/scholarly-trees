@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN theory)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NNP Kolmogorov) (NN complexity))))) (. .))
+(S (NP (PRP We)) (VP (VBP test) (NP (DT both) (NNS similarities)) (ADVP (RB extensively)) (ADVP (RB experimentally))) (. .))

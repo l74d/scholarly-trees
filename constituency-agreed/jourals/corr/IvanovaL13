@@ -1,0 +1,2 @@
+(S (S (NP (NN Redundancy) (NN generation)) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN simulated))))) (CC and) (S (NP (DT the) (NNS results)) (VP (MD can) (VP (VB be) (VP (VBN decomposed) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NNP TH) (NNS components))))))))) (. .))
+(S (PP (IN Among) (NP (JJ other) (NNS things))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN strength) (CC and) (NN frequency)) (PP (IN of) (NP (DT the) (NNS relations)))) (VP (VBP are) (NP (JJ independent) (NNS parameters)))))) (. .))

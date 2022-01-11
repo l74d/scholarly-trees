@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS sentences)) (VP (VBP have) (VP (VBN been) (VP (VBN extracted) (PP (IN from) (NP (NP (NNP Stormfront)) (, ,) (NP (DT a) (JJ white) (NN supremacist) (NN forum))))))) (. .))
+(S (NP (DT The) (NN dataset)) (VP (VBZ is) (ADJP (RB publicly) (JJ available))) (. .))

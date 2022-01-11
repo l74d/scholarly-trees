@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (DT the) (NN network)) (VP (VBZ learns) (NP (DT these) (NNS mappings))))) (, ,) (NP (PRP it)) (VP (VBZ makes) (NP (NP (JJ phonological) (NNS generalizations)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN embedded) (PP (IN in) (NP (NN connection) (NNS weights))))))))) (. .))
+(S (SBAR (IN Since) (S (NP (DT these) (NNS weights)) (VP (VBP are) (VP (VBN shared) (PP (IN by) (NP (JJ different) (JJ morphological) (NNS categories))))))) (, ,) (NP (NN transfer)) (VP (VBZ is) (VP (VBN enabled))) (. .))

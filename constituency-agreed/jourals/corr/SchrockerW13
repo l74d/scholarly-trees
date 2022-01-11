@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ allows) (NP (DT a) (ADJP (JJ robust) (CC and) (JJ efficient)) (NN implementation) (CC and) (NN parallelization))) (. .))
+(S (PP (IN At) (NP (NP (NN hand)) (PP (IN of) (NP (JJ several) (NNS examples))))) (NP (PRP we)) (VP (VP (VBP explore) (NP (NP (DT the) (JJ asymptotic) (NN behavior)) (PP (IN of) (NP (DT the) (NN algorithm))))) (CC and) (VP (VB compare) (NP (JJ different) (NN implementation) (NNS strategies)))) (. .))

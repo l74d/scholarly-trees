@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ our) (NN analysis)) (VP (MD can) (VP (VB be) (VP (VBN extended) (PP (IN for) (NP (JJ non-homogeneous) (NNP Poisson) (NN packet) (NN generation))))))))) (. .))
+(S (NP (JJ Extensive) (NNS simulations)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB verify) (NP (DT the) (JJ analytical) (NNS results))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT the) (NNP UA) (NN communication) (NNS techniques)) (VP (VBP are) (VP (VBN designed) (CC and) (VBN analyzed) (PP (VBN based) (PP (IN on) (NP (DT a) (JJ geometric) (NN model)))))) (. .))
+(S (NP (DT The) (NN process)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB suppress) (NP (NN noise))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS tasks)) (VP (VBP mimic) (NP (JJ human) (NN performance)) (S (VP (TO to) (VP (VB learn) (NP (ADJP (JJ robust) (CC and) (JJ general)) (NN representation)) (PP (IN from) (NP (JJ few) (NNS examples))))))) (. .))

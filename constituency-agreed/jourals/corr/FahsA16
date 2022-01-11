@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN discreteness)) (PP (IN of) (NP (DT the) (JJ optimal) (NN input)))) (VP (VBZ is) (VP (VBN guaranteed) (SBAR (WHADVP (WRB whenever)) (S (NP (DT the) (NN triplet)) (VP (VB satisfy) (NP (DT some) (NN analyticity) (NNS properties)))))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (ADJP (JJ valid) (PP (IN for) (NP (NP (DT any) (NN cost) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ super-logarithmic))))))))) (. .))

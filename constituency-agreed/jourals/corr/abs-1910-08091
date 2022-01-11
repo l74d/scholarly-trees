@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (ADVP (RB natively)) (PP (IN in) (NP (JJ probabilistic) (NN programming))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP consider) (NP (NN design) (NNS choices)) (S (VP (TO to) (VP (VB enable) (NP (JJ further) (NNS optimisations)))))) (. .))

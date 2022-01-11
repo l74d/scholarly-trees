@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (JJ medical) (NNS data)) (VP (VBZ is) (ADVP (RB usually)) (ADJP (JJ big) (CC and) (JJ sparse)) (S (VP (VBG requiring) (NP (JJ important) (JJ computational) (NNS resources))))) (. .))
+(S (NP (PRP We)) (VP (VBD explored) (NP (CD three) (NNS methods)) (PP (IN on) (NP (CD two) (JJ different) (NNP NN) (NNS architectures)))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB construct) (NP (DT the) (NNS embeddings)) (PP (IN with) (NP (JJ few) (NN basis) (NNS vectors))))))) (. .))
+(S (PP (IN For) (NP (DT each) (NN word))) (, ,) (NP (NP (DT the) (NN composition)) (PP (IN of) (NP (NN basis) (NNS vectors)))) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (NP (DT a) (NN hash) (NN code))))) (. .))
+(S (S (VP (TO To) (VP (VB maximize) (NP (DT the) (NN compression) (NN rate))))) (, ,) (NP (PRP we)) (VP (VBP adopt) (NP (NP (DT the) (NN multi-codebook) (NN quantization) (NN approach)) (PP (RB instead) (IN of) (NP (JJ binary) (VBG coding) (NN scheme))))) (. .))

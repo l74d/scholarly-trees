@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG learning) (NP (DT a) (DT a) (NN pruner) (NN network)) (S (VP (TO to) (VP (VB prune) (NP (DT a) (JJ pre-trained) (NN target) (NN network)))))))))) (. .))

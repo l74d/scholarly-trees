@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP utilize) (NP (JJ neural) (NN network) (NNS embeddings)) (S (VP (TO to) (VP (VB detect) (NP (NNS data) (NN drift)) (PP (IN by) (S (VP (VBG formulating) (NP (DT the) (NN drift) (NN detection)) (PP (IN within) (NP (DT an) (JJ appropriate) (JJ sequential) (NN decision) (NN framework)))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ enables) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (JJ false) (NN alarm) (NN rate)))) (SBAR (IN although) (S (NP (DT the) (JJ statistical) (NNS tests)) (VP (VBP are) (ADVP (RB repeatedly)) (VP (VBN applied)))))) (. .))

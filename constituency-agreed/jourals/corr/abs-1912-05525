@@ -1,0 +1,1 @@
+(S (PP (IN During) (NP (NN training))) (, ,) (NP (DT the) (NN agent)) (VP (VBZ learns) (S (VP (TO to) (VP (VB control) (NP (DT this) (NN gate)) (PP (VBN based) (PP (IN on) (NP (PRP$ its) (JJ current) (NN observation)))))))) (. .))

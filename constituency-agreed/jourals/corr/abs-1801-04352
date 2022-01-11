@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (JJ direct) (NN link)) (PP (IN between) (NP (DT the) (NNS users))))))) (, ,) (NP (DT all) (NNS messages)) (VP (MD must) (VP (VB pass) (PP (IN through) (NP (DT an) (JJ intermediate) (NN relay))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP argue) (SBAR (IN that) (S (NP (NP (DT these) (NNS bounds)) (PP (IN for) (NP (DT this) (NN setup)))) (VP (VBP are) (RB not) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB characterize) (NP (DT the) (NN capacity) (NN region)))))))))) (. .))

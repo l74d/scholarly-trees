@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ overall) (NN design) (CC and) (NN architecture)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBP are) (VP (VBN discussed) (PP (IN in) (NP (NNS details))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN validity)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN framework)))) (VP (VBZ is) (VP (VBN corroborated) (PP (IN through) (NP (NP (DT the) (NN simulation)) (PP (IN of) (NP (DT a) (JJ simple) (NN scenario))))))) (. .))

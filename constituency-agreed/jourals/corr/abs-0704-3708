@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT the) (JJ theoretical) (NN level))) (, ,) (NP (NP (DT the) (JJ main) (NN claim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ syntactic) (NNS networks)) (VP (MD should) (VP (VB be) (VP (VBN interpreted) (PP (IN as) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT the) (JJ syntactic) (NN machinery))))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (DT a) (JJ detailed) (NN example))) (. .))

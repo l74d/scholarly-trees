@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ parallel) (NN optimization) (NN setup)) (VP (VBZ uses) (NP (NP (JJ several) (NNS threads)) (, ,) (NP (NP (DT each)) (VP (VBG applying) (NP (JJ individual) (NN gradient) (NNS descents)) (PP (IN on) (NP (DT a) (JJ local) (NN variable))))))) (. .))

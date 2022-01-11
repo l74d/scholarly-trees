@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB be) (VP (VBN generalized) (PP (IN on) (NP (JJ different) (NNS datasets))) (PP (IN without) (NP (NP (DT any) (NN dependency)) (PP (IN on) (NP (JJ pre-trained) (NN word) (NNS embeddings)))))))) (. .))

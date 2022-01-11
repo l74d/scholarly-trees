@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ augments) (NP (DT this) (NN graph)) (PP (IN with) (NP (NP (NNS types)) (CC and) (NP (JJ semantic) (NNS alignments))))) (, ,) (CC and) (VP (VBZ computes) (NP (DT the) (JJS best) (NNS answers)) (PP (IN by) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NNP Group) (NNP Steiner) (NNP Trees))))))) (. .))

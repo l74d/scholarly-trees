@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP extract) (NP (NNS features)) (PP (IN from) (NP (NN chord) (NNS pairs)))) (CC and) (VP (VB use) (NP (DT a) (NN decision) (NN tree)) (S (VP (TO to) (VP (VB determine) (NP (NN chord) (NNS roots))))))) (. .))

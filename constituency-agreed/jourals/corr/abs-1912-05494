@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (CD one) (NN hand))) (, ,) (S (VP (VBG applying) (NP (NN domain) (NN decomposition) (NNS techniques)))) (VP (VBZ increases) (NP (NP (NNS speedups)) (VP (VBN obtained) (PP (IN by) (S (VP (VBG parallelizing) (NP (DT the) (NN computation)))))))) (. .))

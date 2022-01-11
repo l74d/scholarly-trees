@@ -1,0 +1,6 @@
+(S (NP (DT A) (JJ linear-interval) (NN order)) (VP (VBZ is) (NP (NP (DT the) (NN intersection)) (PP (IN of) (NP (NP (DT a) (JJ linear) (NN order)) (CC and) (NP (DT an) (JJ interval) (NN order)))))) (. .))
+(S (PP (IN For) (NP (NP (DT this) (NN class)) (PP (IN of) (NP (NNS orders))))) (, ,) (NP (JJ several) (JJ structural) (NNS results)) (VP (VBP have) (VP (VBN been) (VP (VBN shown)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT a) (JJ natural) (NN subclass)) (PP (IN of) (NP (JJ linear-interval) (NNS orders))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (NNS linear-semiorders))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ linear) (NNS extensions))))))) (. .))
+(S (NP (DT This)) (VP (VBZ gives) (NP (NP (DT a) (NN vertex) (VBG ordering) (NN characterization)) (PP (IN of) (NP (PRP$ their) (NN incomparability) (NN graphs))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG being) (NP (DT a) (NN linear-semiorder)))) (VP (VBZ is) (NP (DT a) (NN comparability) (NN invariant)))))) (. .))

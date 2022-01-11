@@ -1,0 +1,3 @@
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (NN uncertainty) (NN propagation)) (VP (VBZ influences) (NP (DT the) (JJ cognitive) (NN radio) (NN performance))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (S (VP (VBG mitigating) (NP (NP (DT the) (NN uncertainty)) (PP (IN in) (NP (DT the) (JJ cognitive) (NN cycle)))))) (VP (VBZ is) (NP (DT a) (NN necessity))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT a) (JJ deep) (NN overview)) (PP (IN of) (NP (NP (NNS techniques)) (SBAR (WHNP (WDT that)) (S (VP (VBP handle) (NP (NN uncertainty)) (PP (IN in) (NP (JJ cognitive) (NN radio) (NNS networks)))))))))) (. .))

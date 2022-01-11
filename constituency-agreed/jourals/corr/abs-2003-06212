@@ -1,0 +1,2 @@
+(S (NP (NNP AlphaZero)) (VP (VBZ has) (VP (VBN been) (ADJP (RB very) (JJ successful)) (PP (IN in) (NP (JJ many) (NNS games))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (JJ multiple) (NNS runs)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN needed) (PP (IN for) (NP (JJ different) (NN hyperparameter) (NNS configurations))))) (. .))

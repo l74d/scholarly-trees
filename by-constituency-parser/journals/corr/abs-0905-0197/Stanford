@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP apply) (NP (NP (NN proof) (HYPH -) (JJ theoretic) (NNS techniques)) (PP (IN in) (NP (NP (NN answer)) (VP (VBN Set) (NP (NN Programming))))))) (. .))
+(S (PRN (S (ADJP (NP (DT The) (JJ main) (NNS results)) (SBAR (S (VP (VBP include)) (: :)))))) (LST (LS 1)) (. .))
+(NP (NP (DT A) (NN characterization)) (PP (IN of) (NP (NN continuity) (NNS properties))) (PP (IN of) (NP (NML (NNP Gelfond) (HYPH -) (NNP Lifschitz)) (NN operator))) (PP (IN for) (NP (NN logic) (NN program))) (. .))
+(LST (LS 2) (. .))
+(S (NP (NP (DT A) (JJ propositional) (NN characterization)) (PP (IN of) (NP (NP (JJ stable) (NNS models)) (PP (IN of) (NP (NN logic) (NNS programs))))) (-LRB- -LRB-) (PP (IN without) (S (VP (VBG referring) (PP (IN to) (NP (NN loop) (NNS formulas))))))) (. .))

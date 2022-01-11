@@ -1,0 +1,3 @@
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB locate) (NP (NP (JJ critical) (NN information)) (PP (IN of) (NP (NN interest)))))))) (VP (VBZ is) (NP (DT a) (JJ challenging) (NN task))) (. .))
+(S (NP (NN Suppression)) (VP (VBZ is) (VP (VBN achieved) (PP (IN by) (S (VP (VP (VBG modulating) (NP (DT the) (NN feature) (NNS maps))) (CC and) (VP (VBG threshing) (PRT (RP out)) (NP (JJ weak) (NNS activations)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN video)) (VP (VBZ is) (VP (VBN classified) (PP (VBN based) (PP (IN on) (NP (JJ multiple) (NNS summaries)))))) (. .))

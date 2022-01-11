@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ alternative) (NN algorithm)) (VP (VBZ is) (VP (VBN adopted) (S (VP (TO to) (VP (VB train) (NP (NP (DT the) (NN segmentation) (NN network)) (CC and) (NP (DT the) (NN meta) (NN mask) (NN network))) (, ,) (ADVP (RB simultaneously))))))) (. .))

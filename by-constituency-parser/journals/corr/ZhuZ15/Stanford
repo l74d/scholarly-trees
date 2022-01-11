@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN influence)) (PP (IN of) (NP (NP (JJ outside) (NN quantum) (NNS noises)) (PP (IN on) (NP (NP (DT the) (NN amplification)) (PP (IN of) (NP (JJ weak) (NNS measurements)))))))) (VP (VBZ is) (VP (VBN investigated))) (. .))
+(S (NP (CD Three) (JJ typical) (NN quantum) (NNS noises)) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (NP (DT The) (JJ maximum) (NNS values)) (PP (IN of) (NP (NP (DT the) (NN pointer) (POS 's)) (NNS shifts)))) (VP (VBP decrease) (ADVP (RB sharply)) (PP (IN with) (NP (NP (DT the) (NN strength)) (PP (IN of) (NP (NP (DT the) (NN depolarizing)) (ADJP (NP (NN channel) (CC and) (NN phase)) (VBG damping))))))) (. .))
+(S (PP (IN In) (NP (NN order) (S (VP (TO to) (VP (VB obtain) (NP (JJ significant) (VBN amplified) (NNS signals))))))) (, ,) (NP (DT the) (NN preselection) (NN quantum) (NNS systems)) (VP (MD must) (VP (VB be) (VP (VBN kept) (ADVP (RB away)) (PP (IN from) (NP (DT the) (CD two) (NN quantum) (NNS noises)))))) (. .))
+(S (ADVP (RB Interestingly)) (, ,) (NP (DT the) (NN amplification) (NN effect)) (VP (VBZ is) (ADJP (JJ immune) (PP (IN to) (NP (DT the) (NN amplitude)))) (S (VP (VBG damping) (NP (NN noise))))) (. .))

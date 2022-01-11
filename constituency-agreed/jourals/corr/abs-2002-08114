@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (DT some) (NNS people)) (VP (MD will) (VP (VB follow) (NP (NNS instructions)))))) (, ,) (NP (NNS others)) (VP (MD will) (VP (VB follow) (NP (PRP$ their) (JJ own) (NNS desires)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (JJ specific) (NN form)) (PP (IN of) (NP (NNS constraints)))) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB express) (NP (JJ such) (NNS behaviors))))))))))) (. .))

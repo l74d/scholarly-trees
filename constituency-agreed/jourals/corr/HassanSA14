@@ -1,0 +1,3 @@
+(S (NP (NNS Events)) (VP (VBP are) (VP (VBN characterized) (PP (IN by) (NP (NP (JJ similar) (NN waveform) (NNS patterns)) (VP (VBG re-appearing) (PP (IN within) (NP (QP (CD one) (CC or) (JJR more)) (NNS sensors)))))))) (. .))
+(S (ADVP (RB Further)) (NP (JJ such) (NNS patterns)) (VP (MD can) (VP (VB be) (PP (IN of) (NP (JJ variable) (NN duration))))) (. .))
+(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT the) (NN shape) (NN histogram)) (: :) (NP (NP (DT a) (JJ constant) (NN dimension) (NN descriptor)) (SBAR (WHNP (WDT that)) (S (ADVP (RB nevertheless)) (VP (VBZ captures) (NP (NP (NNS patterns)) (PP (IN of) (NP (JJ variable) (NN duration)))))))))) (. .))

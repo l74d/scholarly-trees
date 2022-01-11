@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ basic) (NN version)) (PP (IN of) (NP (DT these) (NNS methods)))) (VP (VBZ processes) (NP (NP (DT the) (NNP DAE)) (PP (IN as) (NP (DT a) (NN whole))))) (. .))
+(S (NP (DT This) (NN approach)) (VP (VBZ improves) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (S (VP (VBG finding) (NP (DT a) (JJ suitable) (NN conversion)) (PP (IN for) (S (VP (VBG fixing) (NP (NP (NNP SA) (POS 's)) (NNS failures)))))))))) (. .))

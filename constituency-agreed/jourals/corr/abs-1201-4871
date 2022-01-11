@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN scheduler)) (VP (VBZ is) (ADVP (RB then)) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG dispatching) (NP (DT those) (NNS blocks)) (PP (IN on) (NP (DT the) (JJ available) (NNS cores)))))))) (. .))
+(S (NP (NNS Blocks)) (VP (MD can) (VP (VB synchronize) (PP (IN via) (NP (DT a) (JJ global) (NN memory))))) (. .))

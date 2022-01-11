@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (NP (DT this) (NN compression)) (VP (VBZ happens) (ADVP (RB already)) (PP (IN at) (NP (DT the) (NN hardware) (NN level))) (PP (IN during) (NP (NNS data) (NN acquisition)))) (. .))
+(S (NP (DT The) (JJ second) (NN step)) (VP (VBZ consists) (PP (IN of) (NP (DT a) (ADJP (RB specially) (VBN designed) (CC and) (VBN trained)) (JJ deep) (NN network)))) (. .))

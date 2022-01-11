@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (NNP INET) (POS 's)) (NN emulation) (NN mode)))) (VP (VBZ is) (VP (VBN evaluated))) (. .))
+(S (S (NP (NP (CD Two) (NNS errors)) (PP (IN in) (NP (DT the) (NN implementation)))) (VP (VBP are) (VP (VBN identified)))) (CC and) (S (NP (NP (DT an) (JJ alternative) (NN configuration)) (PP (IN for) (NP (NN packet) (NN capturing)))) (VP (VBZ is) (VP (VBN proposed)))) (. .))

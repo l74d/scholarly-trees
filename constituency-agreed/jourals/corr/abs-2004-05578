@@ -1,0 +1,1 @@
+(S (S (NP (JJ Neural) (NNS networks)) (VP (VBD were) (VP (VBN trained) (PP (IN on) (NP (DT a) (JJ large) (JJ local) (NN dataset)))))) (CC and) (S (NP (PRP$ their) (NN performance)) (VP (VBD was) (VP (VBN evaluated) (PP (IN on) (NP (CD four) (JJ independent) (JJ public) (NNS datasets)))))) (. .))

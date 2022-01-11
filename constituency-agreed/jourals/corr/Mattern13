@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NN practice))) (NP (NN probability) (NN estimation)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN based) (PP (IN on) (NP (NP (JJ relative) (NN letter) (NNS frequencies)) (SBAR (WHNP (WDT which)) (S (VP (VBP get) (VP (VBN scaled) (PRT (RP down)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ their) (NN sum)) (VP (VBZ is) (ADJP (RB too) (JJ large))))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (ADVP (RB still)) (VP (VBZ is) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (JJ theoretical) (NN understanding))))) (. .))
+(S (NP (PRP$ Our) (JJ main) (NN contribution)) (VP (VBZ is) (NP (PRP$ its) (JJ theoretical) (NN analysis))) (. .))

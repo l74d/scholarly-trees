@@ -1,0 +1,3 @@
+(UCP (NP (NP (PDT Such) (DT a) (JJ structural) (JJ prior) (NNS acts)) (PP (IN as) (NP (DT an) (JJ effective) (NN network) (NN regularization)))) (, ,) (CC and) (SQ (VP (VBZ facilitates)) (NP (DT the) (NN model) (NN initialization))) (. .))
+(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (JJ impressive) (NNS performances)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT an) (NML (PP (IN in) (HYPH -) (NP (NN depth)))) (NN analysis)) (PP (IN of) (NP (PRP$ its) (NNS behaviors)))) (PP (IN against) (NP (DT the) (NNS competitors)))) (. .))

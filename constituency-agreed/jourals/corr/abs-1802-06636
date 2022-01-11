@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS nodes)) (VP (ADVP (RB collectively)) (VBN visited) (PP (IN by) (NP (DT all) (NNS agents))) (PP (IN during) (NP (DT the) (NN execution))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT the) (NNS agents)) (VP (MD can) (VP (VB communicate) (PP (IN with) (NP (DT each) (JJ other))) (PP (IN at) (NP (JJ arbitrary) (NNS distances)))))))) (. .))

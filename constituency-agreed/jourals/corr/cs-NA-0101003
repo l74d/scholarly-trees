@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (JJ triangular) (NN geometry)) (VP (VBZ exhibits) (NP (NP (DT the) (ADJP (RBS most) (JJ desirable)) (NN tradeoff)) (PP (IN between) (NP (NP (NN accuracy)) (CC and) (NP (JJ computational) (NN cost))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN detection)) (PP (IN of) (NP (VBG moving) (NNS objects)))) (VP (VBZ is) (VP (VBN done) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN way))) (PP (IN by) (S (VP (VBG exploiting) (NP (NN structure)) (PP (IN from) (NP (NN motion)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Stochastic) (JJ spectral) (NNS methods)) (VP (VBP are) (NP (NP (JJ efficient) (NNS techniques)) (PP (IN for) (NP (NN uncertainty) (NN quantification))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ individual) (NN system) (NNS components)) (VP (VBP are) (ADVP (RB often)) (VP (VBN described) (PP (IN by) (NP (NP (JJ surrogate) (NNS models)) (CONJP (RB rather) (IN than)) (NP (NN density) (NNS functions)))))) (. .))

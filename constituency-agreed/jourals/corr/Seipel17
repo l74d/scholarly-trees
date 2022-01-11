@@ -1,0 +1,2 @@
+(S (NP (NP (RB Even) (DT the) (NN file) (NNS systems)) (PP (IN on) (NP (JJ different) (NNS computers)))) (VP (MD can) (VP (VB be) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN knowledge) (NN base)))))) (. .))
+(S (ADVP (RB Also)) (NP (NP (DT the) (NN proof) (NNS trees)) (PP (IN of) (NP (VBN derived) (NNS atoms)))) (VP (MD can) (VP (VB help) (S (VP (TO to) (VP (VB compare) (NP (NP (JJ different) (NNS versions)) (PP (IN of) (NP (DT a) (NN rule) (NN base))))))))) (. .))

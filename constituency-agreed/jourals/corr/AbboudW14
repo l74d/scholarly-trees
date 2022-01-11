@@ -1,0 +1,2 @@
+(SQ (VBZ Is) (NP (EX there)) (NP (NP (DT a) (JJ linear) (NN time) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ detects) (SBAR (IN whether) (S (NP (DT a) (VBN given) (NN graph)) (VP (VBZ contains) (NP (DT a) (NN triangle))))))))) (. ?))
+(NP (CD 5) (. .))

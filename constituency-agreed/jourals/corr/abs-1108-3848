@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (NP (PRP$ our) (NNS methods))) (CC and) (VP (VB compare) (NP (PRP them)) (PP (IN with) (NP (NP (JJ other) (VBG existing) (NNS methods)) (PP (IN on) (NP (NP (DT a) (NN corpora)) (PP (IN of) (NP (NP (NN database) (NN querying)) (CC and) (NP (NN robot) (NN command) (CC and) (NN control)))))))))) (. .))

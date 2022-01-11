@@ -1,0 +1,2 @@
+(S (NP (DT An) (JJ efficient) (JJ local) (NN search) (NN strategy)) (VP (VBZ is) (VP (VBN established))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (DT the) (JJ memetic) (NN algorithm)) (VP (VBZ outperforms) (NP (DT the) (JJ alternative) (JJ stochastic) (NNS approaches)))))) (. .))

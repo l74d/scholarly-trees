@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN model)) (VP (VBZ involves) (NP (NP (ADJP (RB asymptotically) (JJ stable)) (JJ linear) (NNS dynamics)) (, ,) (NP (NN time) (NN delay)) (, ,) (NP (DT a) (NN washout) (NN filter)) (, ,) (CC and) (NP (DT a) (NN saturation) (NN nonlinearity)))) (. .))

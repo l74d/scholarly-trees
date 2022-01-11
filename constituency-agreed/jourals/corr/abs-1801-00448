@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN followed) (PP (IN by) (NP (DT a) (JJ neural) (NN network) (NN encoder))) (S (VP (TO to) (VP (VB remove) (NP (DT the) (NN quantization) (NNS errors))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT the) (NN resolution) (NN improvement)) (PP (IN of) (NP (JJ traditional) (NNP Hopfield) (NNP NADC)))) (VP (VBZ creates) (NP (NP (JJ digital) (NN error)) (SBAR (WHNP (WDT that)) (S (VP (VBZ increases) (PP (IN with) (NP (NP (DT the) (VBG increasing) (NN number)) (PP (IN of) (NP (NNS bits)))))))))) (. .))

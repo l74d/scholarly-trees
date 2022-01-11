@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ unsupervised) (NN component)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ generative) (NN model)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (JJ latent) (NNS sentences)) (VP (VBP generate) (NP (DT the) (JJ unpaired) (JJ logical) (NNS forms))))))))) (. .))

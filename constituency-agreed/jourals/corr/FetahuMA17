@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Facts)) (PP (IN in) (NP (DT these) (NN entity) (NNS pages)))) (VP (VBP are) (ADVP (RB typically)) (VP (VBN supported) (PP (IN by) (NP (NNS references))))) (. .))
+(S (PP (ADVP (RB Even)) (IN for) (NP (DT the) (ADJP (RB already) (JJ present)) (NNS references))) (, ,) (NP (EX there)) (VP (VBZ is) (ADVP (RB often)) (NP (NP (DT a) (NN delay)) (PP (IN between) (NP (NP (DT the) (NN news) (NN article) (NN publication) (NN time)) (CC and) (NP (DT the) (NN reference) (NN time)))))) (. .))

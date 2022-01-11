@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ polar) (NNS codes)) (VP (MD can) (VP (VB be) (VP (ADVP (RB recursively)) (VBN constructed) (PP (IN from) (NP (NNP UPO))) (PP (IN by) (S (VP (ADVP (RB continuously)) (VBG solving) (NP (JJ several) (JJ polynomial) (NNS equations)) (PP (IN at) (NP (DT each) (JJ recursive) (NN step)))))))))))) (. .))
+(S (NP (DT Both) (NP (JJ asymptotic) (NN analysis)) (CC and) (NP (NN simulation) (NNS results))) (VP (VBP validate) (NP (PRP$ our) (JJ theoretical) (NNS claims))) (. .))

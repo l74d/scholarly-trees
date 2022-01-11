@@ -1,0 +1,2 @@
+(S (ADVP (RB Ideally)) (, ,) (NP (DT the) (JJ objective) (NN function)) (VP (MD should) (VP (VB be) (VP (VBN designed) (SBAR (JJ such) (IN that) (S (S (NP (DT the) (NN solution)) (VP (VBZ is) (ADJP (JJ unique)))) (CC and) (S (NP (DT the) (NN optimization) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (ADVP (RB stably))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN issue))))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NN solution) (NN manifold)) (PP (IN in) (NP (NN optimization))))))) (. .))

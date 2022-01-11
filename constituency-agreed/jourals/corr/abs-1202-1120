@@ -1,0 +1,2 @@
+(S (S (NP (NP (JJ Individual) (NN power) (NNS constraints)) (PP (IN for) (NP (NP (DT the) (NN source)) (CC and) (NP (DT the) (NN relay))))) (VP (VBP are) (VP (VBN assumed)))) (CC and) (S (NP (DT the) (JJ related) (NN optimization) (NN problem)) (VP (VBZ is) (VP (VBN analyzed) (PP (IN for) (NP (CD two) (NNS scenarios)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (NNS implications)) (PP (IN of) (NP (JJ theoretical) (NNS results)))) (VP (VBP are) (VP (VBN discussed) (PP (IN through) (NP (NP (NNS simulations)) (PP (IN for) (NP (DT each) (NN scenario))))))) (. .))

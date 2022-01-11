@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ lexical) (NN inheritance) (NN hierarchy)) (VP (VBZ facilitates) (NP (NP (DT the) (NN enforcement)) (PP (IN of) (NP (NN type) (NNS constraints))))) (. .))
+(S (NP (NP (JJ Semantic) (NNS compositions)) (PP (IN in) (NP (NNS inflections) (CC and) (NNS derivations)))) (VP (VBP are) (VP (VBN constrained) (PP (IN by) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT the) (NNS terms) (CC and) (NNS predicates))))))) (. .))

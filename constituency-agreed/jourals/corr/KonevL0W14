@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN difference)) (PP (IN between) (NP (NP (CD two) (NNS versions)) (PP (IN of) (NP (DT an) (NN ontology)))))) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (NNS queries)) (SBAR (WHNP (WDT that)) (S (VP (VBP receive) (NP (JJ different) (NNS answers))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN hypothesis) (NN test)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (RB only) (DT the) (JJ original) (NN test) (NNS data)) (S (VP (TO to) (VP (VB detect) (NP (NN overfitting)))))))))) (. .))
+(S (NP (NN Overfitting)) (VP (VBZ is) (VP (VBN detected) (SBAR (IN if) (S (NP (DT this) (NN error) (NN estimate)) (VP (VBZ is) (ADJP (RB sufficiently) (JJ different) (PP (IN from) (NP (DT the) (JJ original) (NN test) (NN error) (NN rate))))))))) (. .))

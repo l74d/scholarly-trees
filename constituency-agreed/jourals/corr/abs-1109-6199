@@ -1,0 +1,2 @@
+(S (ADVP (RB Primarily)) (NP (NN cricket)) (VP (VBZ has) (VP (VBN been) (VP (VBN selected) (PP (IN for) (NP (NP (DT the) (JJ first) (NN implementation)) (PP (IN of) (NP (DT the) (NN idea)))))))) (. .))
+(S (NP (DT A) (NN positioning) (NN system)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG locating) (NP (NP (DT the) (NNS objects)) (VP (VBG moving) (PP (IN in) (NP (DT the) (NN field)))))))))) (. .))

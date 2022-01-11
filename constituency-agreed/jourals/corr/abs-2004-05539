@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS probabilities)) (PP (IN of) (NP (NP (DT each) (NN element)) (PP (IN of) (NP (DT the) (NN partition)))))) (VP (VB allow) (S (NP (PRP us)) (VP (TO to) (VP (VB compute) (NP (NP (DT the) (ADJP (JJ conditional) (CC and) (JJ marginal)) (NNS probabilities)) (PP (IN of) (NP (VBG winning)))))))) (. .))

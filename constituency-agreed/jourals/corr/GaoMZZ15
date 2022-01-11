@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB tackle) (NP (DT this) (NN problem)))))))) (. .))
+(S (NP (NP (DT The) (JJ practical) (NN effectiveness)) (PP (IN of) (NP (DT the) (JJ new) (NN algorithm)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN by) (NP (JJ competitive) (JJ numerical) (NNS results))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNP Multigrid)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (JJ iterative) (NN solver)) (PP (IN for) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (NP (JJ linear) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP arise) (PP (IN from) (NP (VBN discretized) (JJ partial) (JJ differential) (NNS equations)))))))))))) (. .))

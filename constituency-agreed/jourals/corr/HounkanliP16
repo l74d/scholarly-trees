@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN broadcasting))) (, ,) (NP (NP (CD one) (NN node)) (PP (IN of) (NP (DT a) (NN network)))) (VP (VBZ has) (NP (NP (DT a) (NN message)) (SBAR (WHNP (WDT that)) (S (VP (MD must) (VP (VB be) (VP (VBN learned) (PP (IN by) (NP (DT all) (JJ other) (NNS nodes)))))))))) (. .))

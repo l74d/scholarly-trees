@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (PP (ADVP (RB even)) (IN for) (NP (JJ simple) (JJ non-linear) (NNS cases))) (, ,) (NP (JJ linear) (NN regression)) (VP (MD may) (VP (VB fail) (S (VP (TO to) (VP (VB report) (NP (DT the) (JJ correct) (NN significance) (NN level))))))) (. .))

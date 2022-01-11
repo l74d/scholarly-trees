@@ -1,0 +1,2 @@
+(S (S (VP (VBG Finding) (NP (DT the) (NN camera) (NN pose)))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN step)) (PP (IN in) (NP (JJ many) (JJ egocentric) (NN video) (NNS applications))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (JJ specific) (NN motion) (NN profile)) (S (VP (TO to) (VP (VB perform) (NP (NP (JJ short) (NN loop) (NNS closures)) (VP (VBN aligned) (PP (IN with) (NP (NP (NN wearer) (POS 's)) (NNS footsteps))))))))) (. .))

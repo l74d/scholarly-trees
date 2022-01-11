@@ -1,0 +1,1 @@
+(S (PP (IN Despite) (NP (PRP$ their) (NN success))) (, ,) (NP (DT these) (NNS approaches)) (VP (VBP tend) (S (VP (TO to) (VP (VB have) (NP (JJ poor) (NN generalization) (NNS properties)) (SBAR (WHADVP (WRB when)) (S (VP (VBG attempting) (S (VP (TO to) (VP (VB align) (NP (JJ unseen) (NN point) (NNS clouds)) (PP (IN at) (NP (NN test) (NN time))))))))))))) (. .))

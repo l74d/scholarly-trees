@@ -1,0 +1,2 @@
+(S (NP (JJ Good) (NN detection) (NNS results)) (VP (VBP facilitate) (NP (JJ multi-cell) (NN tracking))) (. .))
+(S (S (NP (DT A) (NN mitosis) (NN detection) (NN algorithm)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB detect) (NP (NN cell) (NN mitosis)))))))) (CC and) (S (NP (DT the) (NN cell) (NN lineage)) (VP (VBZ is) (VP (VBN built) (PRT (RP up))))) (. .))

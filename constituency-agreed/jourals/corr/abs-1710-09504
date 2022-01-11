@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP consider) (NP (CD two) (NN user) (NN association) (NNS schemes))) (CC and) (VP (VB evaluate) (NP (PRP$ their) (NN performance)) (PP (IN through) (NP (NN simulation))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (VBN proposed) (NN algorithm)) (VP (MD can) (VP (VB maintain) (NP (NP (DT a) (JJ comfortable) (NN distance)) (PP (IN among) (NP (DT the) (NNS drones)))) (S (VP (TO to) (VP (VB avoid) (NP (JJ physical) (NN collision)))))))))) (. .))

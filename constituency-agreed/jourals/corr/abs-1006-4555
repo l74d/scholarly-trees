@@ -1,0 +1,4 @@
+(S (NP (PRP They)) (VP (VBP need) (S (VP (TO to) (VP (VB fulfill) (NP (NP (JJ different) (NN security) (NNS objectives)) (VP (VBN specified) (PP (IN by) (NP (DT the) (NN legislation))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP they)) (VP (VBP control) (NP (NN access)) (S (VP (TO to) (VP (VB prevent) (NP (JJ unauthorized) (NNS users)) (PP (IN from) (S (VP (VBG using) (NP (NNS data))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (DT the) (NN necessity)) (PP (IN of) (S (VP (VBG incorporating) (NP (NP (DT the) (NNS requirements)) (PP (IN of) (NP (NN legislation)))) (PP (IN into) (NP (NN access) (NN control)))))))) (. .))
+(S (PP (IN By) (S (VP (VBG including) (NP (NN legislation)) (ADVP (RB directly)) (PP (IN into) (NP (NN access) (NNS decisions)))))) (, ,) (NP (DT this) (NN lawfulness)) (VP (MD can) (VP (VB be) (VP (VBN ensured)))) (. .))

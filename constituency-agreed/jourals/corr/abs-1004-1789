@@ -1,0 +1,3 @@
+(S (ADVP (RB Thereafter)) (, ,) (NP (NP (DT a) (NN codebook)) (PP (IN of) (NP (NN size) (CD 128)))) (VP (VBD was) (VP (VBN generated) (PP (IN for) (NP (DT the) (NNP Entropy) (NN image))))) (. .))
+(S (NP (DT These) (CD 8) (NNS images)) (VP (VBD were) (VP (VBN displayed) (PP (IN as) (NP (DT a) (NN result))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ gives) (NP (JJR better) (NN segmentation)) (PP (IN with) (NP (JJR less) (NN complexity)))) (. .))

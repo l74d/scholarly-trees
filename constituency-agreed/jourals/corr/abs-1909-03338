@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN extension)) (VP (VBZ consists) (PP (IN in) (S (VP (VBG modifying) (NP (NP (DT the) (NN method)) (PP (IN of) (NP (NN curvature) (NN estimation)))))))) (. .))
+(S (NP (DT An) (NN eigenproblem)) (VP (VBD was) (VP (VBN solved) (PP (IN for) (NP (NP (DT the) (NN matrix)) (PP (IN of) (NP (DT this) (JJ quadratic) (NN form))))))) (. .))

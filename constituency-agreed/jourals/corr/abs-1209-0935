@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NNP Holliday) (CC and) (NNP ICard)) (VP (VBP have) (VP (VBN given) (NP (NP (DT a) (JJ complete) (NN characterization)) (PP (IN for) (NP (DT the) (JJ single) (NN agent) (NN case)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN problem)) (PP (IN for) (NP (DT the) (JJ multi-agent) (NN case)))) (VP (VBZ is) (ADJP (JJ open))) (. .))

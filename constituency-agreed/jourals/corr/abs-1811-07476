@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT a) (JJ single) (NN interaction)) (PP (IN with) (NP (VBN linked) (NNS bandits))))) (, ,) (NP (JJ multiple) (NNS arms)) (VP (VBP are) (VP (VBN played) (ADVP (RB sequentially)) (SBAR (IN until) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))) (VP (VBZ receives) (NP (DT a) (JJ positive) (NN reward))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP corroborate) (NP (PRP$ our) (JJ theoretical) (NNS results)) (PP (IN with) (NP (NNS experiments)))) (. .))

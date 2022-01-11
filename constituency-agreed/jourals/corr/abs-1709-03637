@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Experiments)) (PP (IN across) (NP (CD two) (NNS tasks)))) (VP (VBP show) (NP (NP (JJ substantial) (NNS improvements)) (PP (IN over) (NP (JJ strong) (NNP CRF) (CC and) (NNP LSTM) (NNS baselines))))) (. .))

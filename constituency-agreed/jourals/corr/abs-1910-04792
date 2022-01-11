@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (SBAR (IN if) (S (NP (PRP we)) (VP (VBD were) (S (VP (TO to) (VP (VB tackle) (NP (NN problem) (NN video) (NN summarization)) (PP (IN through) (NP (DT a) (JJ supervised) (NN learning) (NN path))))))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB require) (NP (NP (JJ extensive) (JJ personalized) (NN labeling)) (PP (IN of) (NP (NNS data)))))) (. .))

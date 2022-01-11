@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN work)) (VP (MD can) (VP (VB be) (VP (VBN split) (PP (IN in) (NP (CD two) (NNS parts)))))) (. .))
+(S (ADVP (RB Secondly)) (NP (NP (PRP$ our) (JJ simple) (NN representation)) (PP (IN of) (NP (DT the) (NNS integers)))) (VP (VBZ allows) (NP (NP (DT an) (NN implementation)) (PP (IN on) (NP (NNP FPGA))))) (. .))

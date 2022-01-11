@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP elucidate) (SBAR (WHADVP (WRB why)) (S (NP (DT this) (NN constraint)) (VP (MD can) (VP (VB guarantee) (NP (NN fairness)) (PP (IN for) (NP (DT each) (NN individual)))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ learns) (NP (DT an) (ADJP (RB individually) (JJ fair)) (NN classifier)) (PP (IN at) (NP (NP (DT a) (JJ slight) (NN cost)) (PP (IN of) (NP (NN prediction) (NN accuracy))))))))) (. .))

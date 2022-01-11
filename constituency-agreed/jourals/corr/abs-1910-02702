@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG modifying) (NP (DT the) (NN cycleGAN) (NN model))))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB learn) (NP (NP (DT a) (NN mapping)) (PP (IN between) (NP (DT these) (NNS domains)))) (PP (IN on) (NP (JJ unpaired) (JJ retinal) (JJ optical) (NN coherence) (NN tomography) (NNS images)))))))) (. .))

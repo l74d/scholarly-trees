@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB fuse) (NP (JJ multi-modal) (NNS data)) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN segmentation) (NN performance))))))))) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (NN research) (NN hotspot)))) (. .))
+(S (NP (DT The) (NNS channels)) (VP (VBP are) (VP (VP (VBN clustered) (PP (IN into) (NP (NNS groups)))) (CC and) (VP (VBN processed) (PP (IN on) (NP (JJ different) (NN task) (NNS pipelines)))))) (. .))

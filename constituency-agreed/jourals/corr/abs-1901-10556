@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NN investment) (NN problem))))) (, ,) (ADVP (RB aside) (PP (IN from) (NP (DT the) (NN investment) (NN risk)))) (NP (DT the) (NN background) (NN risk)) (VP (VBZ appears)) (. .))
+(S (S (NP (DT A) (NN portfolio) (NN problem)) (VP (VBZ is) (VP (VBN formulated) (PP (IN for) (NP (DT each) (NN model)))))) (CC and) (S (NP (NP (DT an) (JJ approximate) (NN calculation) (NN formula)) (PP (IN of) (NP (DT the) (JJ optimal) (NN solution)))) (VP (VBZ is) (VP (VBN proved)))) (. .))

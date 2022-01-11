@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ describes) (NP (NP (DT an) (JJ extensive) (NN experiment)) (PP (IN in) (NP (NP (JJ inside-outside) (NN estimation)) (PP (IN of) (NP (NP (DT a) (JJ lexicalized) (JJ probabilistic) (NN context) (JJ free) (NN grammar)) (PP (IN for) (NP (JJ German) (JJ verb-final) (NNS clauses))))))))) (. .))
+(S (NP (NP (NNP Grammar) (CC and) (NN formalism) (NNS features)) (SBAR (WHNP (WDT which)) (S (VP (VBP make) (S (NP (DT the) (NN experiment)) (ADJP (JJ feasible))))))) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (JJ Successive) (NNS models)) (VP (VBP are) (VP (VBN evaluated) (PP (IN on) (NP (NP (NN precision) (CC and) (NN recall)) (PP (IN of) (NP (NN phrase) (NN markup))))))) (. .))

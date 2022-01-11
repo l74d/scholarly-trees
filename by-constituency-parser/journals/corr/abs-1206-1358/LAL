@@ -1,0 +1,5 @@
+(S (NP (DT An) (JJ optimized) (NN broadcast) (NN protocol)) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (NP (NNP VANETs))))) (. .))
+(S (NP (NP (DT The) (NN efficiency)) (PP (IN of) (NP (DT this) (NN technique)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN packet) (NN delivery)) (, ,) (NP (JJ bandwidth) (NN gain)) (CC and) (NP (NP (NN probability)) (PP (IN of) (NP (NN transmission) (NN success)))))))))) (. .))
+(S (NP (DT An) (JJ analytical) (NN model)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB calculate) (NP (DT the) (NN transmission) (NN area))))))) (. .))
+(S (NP (DT This) (NN model)) (VP (VBZ allows) (S (VP (VBG capturing) (NP (NP (DT the) (NN propagation) (NN shape)) (PP (IN of) (NP (DT the) (JJ forwarding) (NN area))))))) (. .))
+(S (NP (NP (NNS Comparisons)) (PP (IN with) (NP (NNS simulations)))) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ analytical) (NN model)) (VP (VBZ is) (ADJP (JJ precise)))))) (. .))

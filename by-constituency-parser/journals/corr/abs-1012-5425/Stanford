@@ -1,0 +1,3 @@
+(S (S (NP (NP (DT The) (JJ new) (NN algorithm) (POS 's)) (JJ finite) (NN termination) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN by) (NP (JJ equivalent) (NNS conditions))))))) (, ,) (NP (RB so) (PDT all) (DT the) (JJ above) (NNS algorithms)) (VP (MD can) (VP (VB be) (VP (VBN determined) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP terminate) (ADVP (RB finitely)))))))) (. .))
+(S (PP (IN At) (NP (JJ last))) (, ,) (NP (DT a) (JJ new) (NN criterion)) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (NN improvement)) (PP (IN for) (NP (DT the) (NML (NN Rewritten) (CC and) (NN Signature)) (NNP Criterion))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (S (VP (VP (VBG running) (NP (NP (CD two) (NNS types)) (PP (IN of) (NP (NNS methods))))) (CC and) (VP (VBG associating) (NP (CD two) (JJ resultant) (NN information))))) (VP (VP (VBZ requires) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN computation))))) (CC and) (VP (VBZ complicates) (NP (DT the) (NN software) (NN architecture)))) (. .))

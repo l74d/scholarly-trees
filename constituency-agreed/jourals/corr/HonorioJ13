@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ performs) (NP (NP (DT a) (JJ singular) (NN value) (NN decomposition)) (PP (IN of) (NP (DT the) (NN training) (NNS data))))))))) (. .))

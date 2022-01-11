@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NNP GMM)) (VP (VBN constrained) (PP (IN by) (NP (DT each) (NN subspace))))) (VP (VBZ is) (VP (VBN estimated)))) (: ;) (CC and) (S (NP (NP (DT the) (NN model)) (VP (VBG yielding) (NP (DT the) (JJ maximum) (NN likelihood)))) (VP (VBZ is) (VP (VBN chosen)))) (. .))

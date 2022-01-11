@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN operation)) (VP (VBN associated) (PP (IN with) (NP (PRP$ our) (NN reduction))))) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (ADJP (JJ associative) (CC and) (JJ commutative)))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ is) (ADJP (JJ optimal) (PP (IN for) (NP (DT all) (NNS configurations))))) (. .))

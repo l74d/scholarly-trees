@@ -1,0 +1,1 @@
+(S (S (NP (DT Each) (NN subproblem)) (VP (VBZ is) (VP (VBN modeled) (PP (IN with) (NP (DT a) (NN pointer) (NN network)))))) (CC and) (S (NP (DT the) (NN model)) (VP (VBZ is) (VP (VBN trained) (PP (IN with) (NP (NN reinforcement) (NN learning)))))) (. .))

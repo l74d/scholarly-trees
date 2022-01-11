@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ erroneous) (NNS outputs)) (VP (VBN produced) (PP (IN in) (NP (JJ approximate) (NN computing))))) (VP (MD can) (VP (VB be) (ADVP (RB partially)) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (NP (DT each) (NN chip) (POS 's)) (NN process) (NN variation)))))) (. .))

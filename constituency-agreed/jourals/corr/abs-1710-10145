@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ malicious) (NN node)) (VP (MD can) (VP (VB be) (VP (VBN eliminated) (PP (IN from) (NP (DT the) (NN networking) (NN function))))))) (CC and) (S (NP (NP (DT the) (NN overhead)) (PP (IN on) (NP (DT the) (NN protocol)))) (VP (MD can) (VP (VB be) (VP (VBN reduced))))) (. .))

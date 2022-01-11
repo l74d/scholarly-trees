@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN edge)) (PP (IN of) (NP (DT the) (NN graph)))) (VP (VBZ is) (NP (NP (DT a) (JJ private) (NN channel)) (PP (IN of) (NP (NP (NN communication)) (PP (IN between) (NP (PRP$ its) (NNS endpoints))))))) (. .))
+(S (NP (DT The) (NNS processors)) (VP (VBP have) (S (VP (TO to) (VP (VB compute) (NP (NP (DT a) (VBN given) (NN function)) (PP (IN of) (NP (DT all) (PRP$ their) (NNS inputs)))) (PP (IN by) (S (VP (VBG communicating) (PP (IN along) (NP (DT these) (NNS channels)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP turn) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (JJ identical)))))) (. .))
+(S (NP (NP (DT The) (NN difference)) (PP (IN in) (NP (DT the) (NNS results)))) (VP (VBZ seems) (S (VP (TO to) (VP (VB stem) (ADVP (RB directly)) (PP (IN from) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NP (DT the) (JJ local) (NN update) (NN rule)) (VP (VBN used) (S (VP (TO to) (VP (VB perform) (NP (DT the) (JJ associated) (JJ numerical) (NNS simulations)))))))))))))) (. .))

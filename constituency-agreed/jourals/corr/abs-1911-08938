@@ -1,0 +1,4 @@
+(S (ADVP (RB Thus)) (, ,) (NP (NP (NNS problems)) (PP (IN with) (NP (DT the) (NNP SZZ) (NN algorithm)))) (VP (MD may) (VP (VB have) (NP (NP (DT a) (JJ strong) (JJ indirect) (NN impact)) (PP (IN on) (NP (NP (RB almost) (DT the) (JJ complete) (NN state)) (PP (IN of) (NP (NP (DT the) (NN art)) (PP (IN of) (NP (NN defect) (NN prediction)))))))))) (. .))
+(S (PP (IN Within) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT an) (JJ extensive) (JJ empirical) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN defect) (NNS labels)) (VP (VBN created) (PP (IN with) (NP (DT the) (NNP SZZ) (NN algorithm)))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (CD two) (JJ defective) (NNS files)) (VP (VBP are) (VP (VBN missed))) (. .))
+(S (NP (PRP We)) (VP (VBD found) (SBAR (IN that) (S (NP (NP (DT the) (NN difference)) (PP (IN of) (S (VP (VBG using) (NP (JJR more) (NNS features)))))) (VP (VBZ is) (ADJP (JJ negligible)))))) (. .))

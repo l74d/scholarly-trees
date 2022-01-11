@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS conditions)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB characterize) (NP (NP (NNS families)) (PP (IN of) (NP (ADJP (JJ optimal) (CC and) (JJ nonoptimal)) (NNS paths))))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN validated) (ADVP (RB numerically)))) (. .))

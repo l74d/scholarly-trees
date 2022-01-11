@@ -1,0 +1,3 @@
+(S (NP (JJ Automatic) (NN image) (NN registration)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ crucial) (NNS steps)) (PP (IN in) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (ADJP (RB remotely) (VBN sensed)) (NNS data))))))))) (. .))
+(S (NP (DT A) (JJ new) (VBN acquired) (NN image)) (VP (MD must) (VP (VB be) (VP (VBN transformed) (, ,) (S (VP (VBG using) (NP (NN image) (NN registration) (NNS techniques)))) (, ,) (S (VP (TO to) (VP (VB match) (NP (NP (DT the) (NN orientation) (CC and) (NN scale)) (PP (IN of) (NP (JJ previous) (JJ related) (NNS images)))))))))) (. .))
+(S (NP (NP (DT A) (NN relaxation) (NN parameter)) (PP (IN on) (NP (DT the) (NN histogram) (NNS modes) (NN delineation)))) (VP (VBZ is) (VP (VBN introduced))) (. .))

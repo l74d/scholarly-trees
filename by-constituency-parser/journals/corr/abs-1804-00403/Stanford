@@ -1,0 +1,1 @@
+(NP (NP (DT Some) (NNS explanations)) (PP (IN to) (NP (NP (NNP Kaldi) (POS 's)) (NN PLDA) (NN implementation))) (S (VP (TO to) (VP (VB make) (ADJP (ADJP (NP (NN formula) (NN derivation)) (JJR easier)) (S (VP (TO to) (VP (VB catch)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ multi-tower) (JJ temporal) (JJ convolutional) (NN network) (NN architecture)) (PP (IN for) (NP (DT the) (VBN proposed) (NN task))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (JJ multi-receptive) (NN field) (NN architecture)))) (PP (IN through) (NP (JJ appropriate) (NN ablation) (NNS studies)))) (. .))

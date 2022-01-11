@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NN position)) (PP (IN with) (NP (NP (DT a) (JJ simple) (NN model)) (PP (IN of) (NP (NP (DT the) (NNS costs)) (PP (IN of) (NP (NN censorship)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (NN model)) (VP (VBZ makes) (NP (NP (NNS suggestions)) (PP (IN for) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB evade) (NP (NN censorship)))))))))))) (. .))

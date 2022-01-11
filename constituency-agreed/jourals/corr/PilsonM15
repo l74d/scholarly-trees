@@ -1,0 +1,2 @@
+(S (ADVP (RB Too) (RB often)) (, ,) (NP (JJ such) (NNS systems)) (VP (VBP are) (VP (VBN designed) (PP (IN around) (NP (JJ technical) (NNS specifications))) (PP (IN without) (NP (NP (NN regard)) (PP (IN for) (NP (DT the) (NN end) (NN user))))))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (S (VP (VBG doing) (ADVP (RB so)))) (VP (MD may) (ADVP (RB actually)) (VP (VB compromise) (NP (NP (DT a) (NN system) (POS 's)) (NN security))))))) (. .))

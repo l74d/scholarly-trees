@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN service) (NN time)) (PP (IN at) (NP (DT each) (NN facility)))) (VP (VP (VBZ is) (ADJP (JJ stochastic))) (CC and) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN service) (NN capacity)))) (CC and) (VP (VBZ follows) (NP (NP (DT a) (JJ general) (NN distribution)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB differ) (PP (IN for) (NP (DT each) (NN facility)))))))))) (. .))
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN formulated) (S (VP (VBG using) (NP (JJ quadratic) (JJ conic) (NN optimization)))))) (. .))

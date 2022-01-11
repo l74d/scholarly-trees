@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT the) (NN purpose))) (, ,) (NP (JJ semantic) (NN segmentation)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB classify) (NP (DT the) (NNS objects)) (SBAR (IN while) (S (NP (DT the) (NN vehicle)) (VP (VBZ is) (VP (VBN driven) (ADVP (RB autonomously))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NNS outcomes)) (VP (VBP are) (VP (VBN analyzed) (S (VP (TO to) (VP (VB give) (NP (DT a) (NN conclusion))))))) (. .))

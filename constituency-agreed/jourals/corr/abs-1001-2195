@@ -1,0 +1,1 @@
+(S (S (VP (VBG Ensuring) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NNS computers)))))) (VP (VBZ is) (NP (DT a) (JJ non-trivial) (NN task)) (, ,) (PP (IN with) (NP (NP (JJ many) (NNS techniques)) (VP (VBN used) (PP (IN by) (NP (JJ malicious) (NNS users))) (S (VP (TO to) (VP (VB compromise) (NP (DT these) (NNS systems))))))))) (. .))

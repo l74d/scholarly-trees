@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN slowdown) (NN ratio)) (VP (VBZ describes) (SBAR (WHADVP (WRB how)) (S (NP (JJ additional) (NNS constraints)) (VP (VBP affect) (NP (DT the) (NN makespan)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (NNS implications)) (PP (IN of) (NP (PRP$ our) (NNS results))))) (. .))

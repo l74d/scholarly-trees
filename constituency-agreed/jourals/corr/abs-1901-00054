@@ -1,0 +1,1 @@
+(S (NP (JJ Adversarial) (NNS examples)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (VP (TO to) (VP (VB attack) (NP (JJ deep) (JJ neural) (NNS networks)))) (CC or) (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks))))))))))) (. .))

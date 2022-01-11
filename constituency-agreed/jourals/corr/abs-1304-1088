@@ -1,0 +1,2 @@
+(S (NP (NNP Kutato)) (VP (VBZ constructs) (NP (NP (DT an) (JJ initial) (NN belief) (NN network)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT all) (NNS variables)) (PP (IN in) (NP (DT the) (NN database)))) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (RB marginally) (JJ independent))))))))))) (. .))
+(S (NP (NP (JJ Conditional) (NNS probabilities)) (PP (IN for) (NP (DT an) (NN arc)))) (VP (VBP are) (VP (VBN obtained) (ADVP (RB directly)) (PP (IN from) (NP (DT the) (NN database))))) (. .))

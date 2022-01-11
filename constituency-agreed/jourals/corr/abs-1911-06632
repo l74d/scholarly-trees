@@ -1,0 +1,2 @@
+(S (NP (NP (NN Singularity)) (PP (IN in) (NP (NN robot) (NNS controls)))) (VP (VBZ is) (NP (DT an) (JJ important) (NN problem))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (DT an) (NN identification) (NN algorithm)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB control) (NP (DT the) (NN robot)) (SBAR (JJ such) (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB change) (NP (PRP$ its) (NN direction)) (S (VP (TO to) (VP (VB avoid) (NP (DT the) (NN singularity) (NN situation)))))))))))))) (. .))

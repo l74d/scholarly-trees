@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (DT these) (NNS methods)) (VP (VBP demonstrate) (NP (JJ satisfactory) (NN performance))))) (, ,) (NP (DT the) (NNS networks)) (VP (VBP are) (RB not) (VP (VBN trained) (ADVP (RB directly)) (PP (IN on) (NP (DT the) (NN task))))) (. .))
+(S (NP (NP (DT The) (NN feature) (NN extractor)) (CC and) (NP (DT the) (NN classifier))) (VP (VBP are) (VP (VBN trained) (ADVP (RB jointly)))) (. .))

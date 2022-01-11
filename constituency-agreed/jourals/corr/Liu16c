@@ -1,0 +1,2 @@
+(S (NP (JJ Efficient) (NNS algorithms)) (VP (VBP are) (VP (VBN proposed) (S (VP (TO to) (VP (VB find) (NP (DT the) (JJ optimal) (NNS solutions))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP verify) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS schemes))))) (. .))

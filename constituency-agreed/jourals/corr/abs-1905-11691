@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first)) (VP (VBZ is) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN line) (NN graph))))) (. .))
+(S (NP (NP (DT The) (NN line) (NN graph)) (PP (IN of) (NP (DT a) (NN graph)))) (VP (VBZ is) (NP (NP (DT another) (NN graph)) (VP (VBG representing) (NP (NP (DT the) (NN adjacency)) (PP (IN between) (NP (NP (NNS edges)) (PP (IN of) (NP (DT the) (JJ original) (NN graph))))))))) (. .))

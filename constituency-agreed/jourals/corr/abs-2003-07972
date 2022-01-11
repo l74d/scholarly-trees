@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ asymptotic) (NN convergence)) (PP (IN of) (NP (ADJP (JJ differential) (CC and) (JJ algebraic)) (NNS states)))) (VP (VBZ is) (VP (VBN established) (PP (IN by) (S (VP (VBG considering) (NP (NP (JJ local) (NNP Lipschitz) (NN continuity) (NN property)) (PP (IN of) (NP (NN system) (NNS nonlinearities))))))))) (. .))

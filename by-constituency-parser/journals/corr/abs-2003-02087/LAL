@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT a) (ADJP (RB computably) (JJ definable)) (NN predicate)) (VP (VBZ is) (VP (VBN defined) (CC and) (VBN characterized))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN proved) (SBAR (IN that) (S (NP (NP (DT every) (JJ separable) (JJ infinite-dimensional) (NNP Hilbert) (NN structure)) (PP (IN in) (NP (DT an) (ADJP (RB effectively) (VBN presented)) (NN language)))) (VP (VBZ is) (ADJP (JJ computable))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT every) (JJ definable) (NN predicate)) (PP (IN in) (NP (DT these) (NNS structures)))) (VP (VBZ is) (ADJP (JJ computable))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ previous) (NN work))) (, ,) (NP (DT these) (NNS issues)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN tackled) (ADVP (RB separately) (CC and) (RB independently)))) (. .))
+(S (S (VP (VBG Optimizing) (NP (PRP them)) (ADVP (RB independently)))) (VP (MD would) (VP (VB result) (PP (IN in) (NP (JJ suboptimal) (NNS solutions))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (JJ available) (NN propagation) (NNS models)))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (ADJP (JJ omnidirectional) (CC or) (JJ isotropic)) (NNS antennas))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (VBG modifying) (NP (DT this) (NN model)) (PP (IN by) (S (VP (VBG determining) (NP (NN attenuation)) (PP (IN for) (NP (NP (DT any) (NN direction)) (PP (IN of) (NP (DT the) (NN antenna) (NNS patterns))))))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN aim))) (, ,) (NP (DT the) (JJ multi-elliptic) (NN channel) (NN model)) (VP (VBZ is) (VP (VBN used))) (. .))

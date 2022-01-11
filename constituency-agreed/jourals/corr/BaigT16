@@ -1,0 +1,1 @@
+(S (ADVP (RB Thus)) (, ,) (S (VP (TO to) (VP (VB disambiguate) (NP (DT the) (NN colorization) (NN problem))))) (NP (DT some) (JJ additional) (NN information)) (VP (MD must) (VP (VB be) (VP (VBN stored) (S (VP (TO to) (VP (VB reproduce) (NP (DT the) (JJ true) (NNS colors)) (PP (IN with) (NP (JJ good) (NN accuracy))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (SBAR (IN that) (S (NP (DT these) (NN excitation) (NNS waves)) (VP (MD can) (VP (VB be) (VP (VBN employed) (S (VP (TO to) (VP (VB implement) (NP (DT a) (NN computation)) (PP (IN in) (NP (DT the) (NN mycelium) (NNS networks)))))))))))) (. .))
+(S (NP (JJ Boolean) (NNS values)) (VP (VBP are) (VP (VBN encoded) (PP (IN by) (NP (NP (NNS spikes)) (PP (IN of) (NP (JJ extracellular) (NN potential))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ important) (NN feature)) (PP (IN of) (NP (DT this) (NN logic)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ supports) (NP (NP (JJ explicit) (NN modeling)) (PP (IN of) (NP (NP (NNS constraints)) (PP (IN on) (NP (NP (NNS cardinalities)) (PP (IN of) (NP (NNS sets)))))))))))) (. .))

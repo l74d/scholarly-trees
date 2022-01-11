@@ -1,0 +1,2 @@
+(S (SBAR (IN Since) (S (NP (NN keyphrase) (NN extraction)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB facilitate) (NP (NP (DT the) (NN management) (, ,) (NN categorization) (, ,) (CC and) (NN retrieval)) (PP (IN of) (NP (NN information))))))))))) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN received) (NP (JJ much) (NN attention)) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (NP (NN Sequence) (NN labeling)) (VP (VBZ is) (RB not) (ADJP (JJ able) (S (VP (TO to) (VP (VB tackle) (NP (VBG overlapping) (NNS phrases))))))) (. .))

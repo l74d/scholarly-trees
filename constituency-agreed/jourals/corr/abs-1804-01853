@@ -1,0 +1,2 @@
+(S (NP (NNS Hyperproperties)) (VP (VBP characterize) (NP (NP (DT the) (NN relation)) (PP (IN between) (NP (NP (JJ different) (JJ independent) (NNS executions)) (PP (IN of) (NP (DT a) (NN system))))))) (. .))
+(S (NP (JJ Probabilistic) (NNS hyperproperties)) (VP (VBP express) (NP (NP (JJ quantitative) (NNS dependencies)) (PP (IN between) (NP (JJ such) (NNS executions))))) (. .))

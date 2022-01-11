@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN process)) (PP (IN of) (S (VP (VBG identifying) (NP (NNS stars)))))) (VP (VBZ is) (ADJP (JJ integral) (PP (IN toward) (NP (NP (ADJP (JJ stellar) (VBN based)) (NN orientation) (NN determination)) (PP (IN in) (NP (NN spacecraft))))))) (. .))
+(S (S (NP (DT Each) (NN method)) (VP (VBD was) (VP (VBN presented) (NP (DT an) (JJ artificial) (NN image))))) (, ,) (CC and) (S (NP (NP (NNS aspects)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (ADJP (JJ interchangeable) (PP (IN among) (NP (DT each) (NN process)))))))) (VP (VBD were) (VP (VBN normalized)))) (. .))

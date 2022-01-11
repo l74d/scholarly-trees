@@ -1,0 +1,3 @@
+(S (ADVP (RB Hence)) (NP (DT a) (JJ separate) (NN algorithm)) (VP (MD should) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB collect) (NP (PRP them)))))))) (. .))
+(S (CC But) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN transformation) (CC and) (NN optimization)))) (VP (VBP are) (NP (DT the) (NN core) (NNS issues))) (. .))
+(S (NP (DT An) (NN attempt)) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (S (VP (TO to) (VP (VB walk) (PP (IN through) (NP (DT these) (NNS issues))))))))) (. .))

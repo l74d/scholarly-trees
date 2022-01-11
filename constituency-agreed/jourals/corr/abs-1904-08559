@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (JJ objective) (NN function)) (PP (IN for) (S (VP (VBG optimizing) (NP (DT these) (NNS models)))))) (VP (VBZ is) (VP (VBN derived) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS concepts)) (PP (IN of) (NP (JJ variational) (NN inference)))))))) (. .))

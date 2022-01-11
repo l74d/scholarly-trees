@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP extract) (NP (DT these) (NNS features)) (PP (IN by) (NP (NP (DT the) (NNS means)) (PP (IN of) (NP (DT a) (JJ deep) (JJ neural) (NN network)))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (JJ experimental) (NNS results)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN scheme))))))))) (. .))

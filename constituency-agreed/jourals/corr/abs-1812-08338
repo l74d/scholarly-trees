@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB discuss) (NP (NP (DT a) (JJ formal) (NN link)) (PP (IN between) (NP (NP (JJ neural) (NNS networks)) (CC and) (NP (NN quantum) (NN computing))))))) (. .))
+(S (NP (NP (DT The) (NN change)) (PP (IN of) (NP (DT the) (NN graph)))) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (NP (DT the) (NNS deformations)) (PP (IN of) (NP (DT the) (NNS loops))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB discuss) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB interpret) (NP (NN learning) (CC and) (NN intuition)) (PP (IN in) (NP (DT this) (NN model))))))))) (. .))

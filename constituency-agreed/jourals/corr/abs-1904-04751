@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB ensure) (NP (DT a) (NN dataset) (NN coverage))))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (DT an) (JJ adversarial) (NN loss) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ penalizes) (PP (IN for) (NP (NP (JJ incorrect) (NNS reproductions)) (PP (IN of) (NP (DT a) (VBN given) (NN texture)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN architecture)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (JJ several) (NN memory) (NNS units)) (, ,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ summarizes) (NP (NP (DT a) (NN fraction)) (PP (IN of) (NP (DT the) (NN database)))) (PP (IN by) (NP (DT a) (JJ single) (NN representative) (NN vector)))))))))) (. .))

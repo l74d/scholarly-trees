@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNS dynamics)) (VP (VBP are) (VP (VBN predicted) (PP (IN from) (NP (NP (DT a) (JJ robust) (NN regression) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN learned) (PP (IN from) (NP (NNS data))))))))))) (. .))

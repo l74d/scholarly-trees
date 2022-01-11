@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (JJS most) (NNS points)) (VP (VBP agree) (PP (IN with) (NP (NP (DT a) (NN stroke) (POS 's)) (NN type)))))) (, ,) (NP (DT this) (NN type)) (VP (VBZ is) (VP (VBN accepted))) (. .))
+(S (NP (NP (DT The) (NN algorithm) (POS 's)) (NN performance)) (VP (VBZ is) (VP (VBN experimented) (PP (IN with) (NP (NP (CD 1500) (NNS strokes)) (PP (IN of) (NP (CD 20) (NNS shapes))))))) (. .))

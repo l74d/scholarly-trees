@@ -1,0 +1,3 @@
+(S (NP (NP (NNS Configurations)) (PP (IN of) (NP (JJ such) (NNS systems)))) (VP (VBP are) (NP (NP (JJ finite) (NNS words)) (PP (IN of) (NP (JJ arbitrary) (NNS lengths))))) (. .))
+(S (NP (DT The) (NNS processes)) (VP (VBP communicate) (S (VP (VBG using) (NP (NP (JJ global) (NNS transitions)) (VP (VBN constrained) (PP (IN by) (NP (PRP$ their) (JJ relative) (NNS priorities)))))))) (. .))
+(S (ADVP (RB Intuitively)) (, ,) (NP (NP (DT an) (NN element)) (PP (IN of) (NP (DT the) (JJ symbolic) (NN representation)))) (VP (VBZ has) (NP (NP (DT a) (NN base)) (CC and) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS counters)))))) (. .))

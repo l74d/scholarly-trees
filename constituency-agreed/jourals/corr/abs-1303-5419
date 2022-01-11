@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NN sensor) (NNS data)) (VP (VBZ is) (ADVP (RB often)) (ADJP (ADVP (RB partially) (CC or) (RB totally)) (JJ incorrect))) (. .))
+(S (S (NP (DT This) (NN node)) (VP (VBZ provides) (NP (NP (DT a) (JJ qualitative) (NN explanation)) (PP (IN of) (NP (JJ inconsistent) (NNS data)))))) (: :) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN caused) (PP (IN by) (NP (DT a) (JJ defective) (NN sensor)))))) (. .))

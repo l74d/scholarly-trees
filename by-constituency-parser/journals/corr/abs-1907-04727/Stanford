@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VP (VBP develop) (NP (NP (DT a) (NN definition)) (PP (IN of) (NP (NNP Ricci) (NN curvature)))) (PP (IN on) (NP (VBN directed) (NNS hypergraphs)))) (CC and) (VP (VB explore) (NP (NP (DT the) (NNS consequences)) (PP (IN of) (NP (DT that) (NN definition)))))) (. .))
+(S (NP (DT The) (NN definition)) (VP (VBZ generalizes) (NP (NP (NP (NNP Ollivier) (POS 's)) (NN definition)) (PP (IN for) (NP (NNS graphs))))) (. .))
+(S (NP (PRP It)) (VP (VBZ involves) (NP (NP (DT a) (ADJP (RB carefully) (VBN designed)) (JJ optimal) (NN transport) (NN problem)) (PP (IN between) (NP (NP (NNS sets)) (PP (IN of) (NP (NNS vertices))))))) (. .))

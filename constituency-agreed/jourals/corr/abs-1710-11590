@@ -1,0 +1,2 @@
+(S (NP (NNP Network) (NN virtualization)) (VP (VBZ has) (VP (VBN caught) (NP (NP (DT the) (NN attention)) (PP (IN of) (NP (JJ many) (NNS researchers)))) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (NP (PRP It)) (VP (VBZ facilitates) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG creating) (NP (JJ several) (JJ virtual) (NNS networks)) (PP (IN over) (NP (DT a) (JJ single) (JJ physical) (NN network)))))))) (. .))

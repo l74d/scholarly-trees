@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN tumor) (NNS tissues)) (VP (VBP include) (NP (NP (NN necrosis)) (, ,) (NP (JJ peritumoral) (NN edema)) (, ,) (CC and) (NP (JJ active) (NN tumor)))) (. .))
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (JJ healthy) (NN brain) (NNS tissues)) (VP (VBP include) (NP (NP (JJ white) (NN matter)) (, ,) (NP (JJ gray) (NN matter)) (, ,) (CC and) (NP (JJ cerebrospinal) (NN fluid)))) (. .))
+(S (NP (PRP It)) (VP (VBZ produces) (NP (NP (JJ detailed) (NNS pictures)) (PP (IN of) (NP (JJ internal) (NN body) (NNS structures))))) (. .))

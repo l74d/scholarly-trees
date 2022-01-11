@@ -1,0 +1,1 @@
+(S (NP (NNP Delay)) (VP (VBZ is) (VP (VBN caused) (SBAR (WHADVP (WRB whenever)) (S (NP (DT the) (NN transducer)) (VP (VP (VBZ reads) (NP (DT a) (NN symbol)) (PP (IN from) (NP (DT the) (NN input) (NN tree)))) (CC but) (VP (VBZ does) (RB not) (VP (VB produce) (NP (NN output))))))))) (. .))

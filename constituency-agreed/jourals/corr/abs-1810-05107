@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN approach)) (VP (VBZ performs) (ADVP (RB well)) (PP (IN in) (NP (NP (JJ large) (NN viewpoint) (NNS changes)) (, ,) (NP (NN background) (NN noise)) (, ,) (NP (NNS shadows)) (, ,) (CC and) (NP (NN occlusion))))) (. .))
+(S (NP (NP (DT The) (NN efficacy)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBZ is) (VP (VBN shown) (PP (IN on) (NP (JJ standard) (NN road) (NN crack) (NNS datasets))))) (. .))

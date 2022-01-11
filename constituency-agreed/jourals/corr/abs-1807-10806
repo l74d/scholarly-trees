@@ -1,0 +1,3 @@
+(S (SBAR (IN If) (S (NP (DT the) (NN input) (NN image)) (VP (VBZ contains) (NP (JJ degraded) (NNS pixels))))) (, ,) (NP (NP (DT the) (NNS artifacts)) (VP (VBN caused) (PP (IN by) (NP (DT the) (NN degradation))))) (VP (MD could) (VP (VB be) (VP (VBN amplified) (PP (IN by) (NP (NN super-resolution) (NNS methods)))))) (. .))
+(S (NP (NN Image) (NN blur)) (VP (VBZ is) (NP (DT a) (JJ common) (NN degradation) (NN source))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (DT the) (NN super-resolution) (NN task))) (PP (IN with) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NN motion) (NN blur)))))) (. .))

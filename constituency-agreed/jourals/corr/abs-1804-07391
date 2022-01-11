@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NN block) (NN creation)) (VP (VBZ is) (VP (VBN rewarded) (PP (IN with) (NP (JJ new) (NN stake))))))) (, ,) (NP (RB even) (DT a) (JJ minor) (NN bias)) (VP (MD can) (VP (VB have) (NP (DT a) (JJ severe) (JJ cumulative) (NN effect)))) (. .))
+(S (PP (IN For) (NP (NN leader) (NN selection))) (NP (PRP we)) (VP (VBP use) (NP (DT a) (JJ deterministic) (NN approach))) (. .))

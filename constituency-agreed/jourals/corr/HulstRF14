@@ -1,0 +1,2 @@
+(SBAR (IN while) (S (NP (DT all) (JJ non-invalidating) (NN behavior)) (VP (VBZ is) (VP (VBN retained)))) (. .))
+(S (NP (DT This)) (VP (VBZ induces) (NP (JJ maximal) (NN permissiveness)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ supervisory) (NN control)))))) (. .))

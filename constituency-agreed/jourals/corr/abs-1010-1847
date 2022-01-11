@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NN recovery) (NNS algorithms)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB succeed) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (VBN restricted) (NN isometry) (NNS constants)) (PP (IN of) (NP (DT the) (NN sampling) (NN matrix)))) (VP (VBP are) (ADJP (JJ small)))))))))) (. .))
+(S (PP (IN At) (ADJP (JJ present))) (, ,) (NP (NP (DT the) (JJ theoretical) (NN analysis)) (PP (IN of) (NP (DT this) (NN measurement) (NN technique)))) (VP (VBZ is) (VP (VBG lacking))) (. .))

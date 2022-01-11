@@ -1,0 +1,1 @@
+(S (NP (NNP Tcl)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB conduct) (NP (DT the) (NNS simulations))))) (, ,) (SBAR (IN while) (S (NP (NN perl)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VP (VB extract) (NP (NNS data)) (PP (IN from) (NP (DT the) (NN simulation) (NN output)))) (CC and) (VP (VB calculate) (NP (NN convergence) (NN time)))))))))))) (. .))

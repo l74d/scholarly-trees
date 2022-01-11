@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ conceptual) (NN map)) (SBAR (S (VP (TO to) (VP (VB navigate) (NP (JJ causal) (NN analysis) (NNS problems)))))))) (. .))
+(S (S (VP (VBG Focusing) (PP (IN on) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ discrete) (NN random) (NNS variables))))))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (NN causal) (NN effect) (NN estimation)) (PP (IN from) (NP (JJ observational) (NNS data))))))) (. .))
+(S (S (NP (DT The) (JJ presented) (NNS approaches)) (VP (RB apply) (ADVP (RB also)) (PP (TO to) (NP (JJ continuous) (NNS variables))))) (, ,) (CC but) (S (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NN estimation)))) (VP (VBZ becomes) (ADJP (RBR more) (JJ complex)))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP introduce) (NP (NP (DT the) (CD four) (NNS schools)) (PP (IN of) (NP (NN thought))) (PP (IN for) (NP (NN causal) (NN analysis))))))

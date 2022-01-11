@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ key) (NN bottleneck)) (VP (VBZ is) (NP (NP (DT the) (NN communication) (NN overhead)) (PP (IN for) (S (VP (VBG exchanging) (NP (NP (NN information)) (, ,) (PP (JJ such) (IN as) (NP (JJ stochastic) (NNS gradients))) (, ,)) (PP (IN among) (NP (JJ different) (NNS nodes)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (DT this) (NN task)) (PP (IN from) (NP (DT an) (JJ interactive) (NN music) (NN creation) (NN perspective)))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (VP (VBZ generates) (NP (JJ meaningful) (NNS inpaintings))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (JJ interactive) (NN music) (NN creation) (NNS applications)))))))))) (. .))

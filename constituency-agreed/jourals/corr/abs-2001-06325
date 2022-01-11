@@ -1,0 +1,1 @@
+(S (S (NP (NNP DAmageNet)) (VP (VBZ is) (NP (DT the) (JJ first) (JJ universal) (JJ adversarial) (NN dataset)))) (CC and) (S (NP (PRP it)) (VP (MD may) (VP (VB serve) (PP (IN as) (NP (NP (DT a) (NN benchmark)) (PP (IN for) (NP (NP (NN robustness) (NN testing)) (CC and) (NP (JJ adversarial) (NN training))))))))) (. .))

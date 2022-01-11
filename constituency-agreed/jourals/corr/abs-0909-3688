@@ -1,0 +1,1 @@
+(S (S (VP (VBG Drawing) (PP (IN from) (NP (JJ extensive) (NNS measurements))))) (, ,) (NP (PRP we)) (VP (VBP build) (NP (NP (DT a) (NN classifier)) (SBAR (WHNP (WDT that)) (S (VP (VBZ detects) (NP (JJ such) (JJ malicious) (NNS domains)) (PP (IN with) (NP (JJ high) (NN accuracy)))))))) (. .))

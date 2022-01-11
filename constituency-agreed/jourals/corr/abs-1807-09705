@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP Lipschitz) (NN constant)) (VP (MD may) (ADVP (RB indeed)) (VP (VB enable) (NP (ADJP (RB adversarially) (JJ robust)) (JJ neural) (NNS networks))))))) (. .))

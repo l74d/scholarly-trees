@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBP watch) (NP (NNS videos))))) (, ,) (NP (NP (DT the) (ADJP (JJ visual) (CC and) (JJ auditory)) (NN information)) (SBAR (S (NP (PRP we)) (VP (VBP experience))))) (VP (MD can) (VP (VB evoke) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (JJ affective) (NNS responses)))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (ADJP (RB publicly) (JJ available)) (NN video) (NN corpus)) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT a) (JJ diverse) (NN set)) (PP (IN of) (NP (NN video) (NN content)))))))) (. .))

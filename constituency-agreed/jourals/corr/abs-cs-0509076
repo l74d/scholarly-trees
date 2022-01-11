@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (DT a) (NN vulnerability)) (VP (VBZ exists) (PP (IN in) (NP (DT the) (NN software) (NN application))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ allows) (NP (NP (NN violation)) (PP (IN of) (NP (DT these) (NNS constraints) (CC and) (NNS assumptions)))))))) (. .))
+(S (NP (DT The) (NN taxonomy)) (VP (VBZ classifies) (NP (DT these) (NNS constraints) (CC and) (NNS assumptions))) (. .))

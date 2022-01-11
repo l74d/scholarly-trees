@@ -1,0 +1,2 @@
+(S (NP (VBG Sketching) (CC and) (VBG streaming) (NNS algorithms)) (VP (VBP are) (PP (IN in) (NP (NP (DT the) (NN forefront)) (PP (IN of) (NP (NP (JJ current) (NN research) (NNS directions)) (PP (IN for) (NP (NP (NN cut) (NNS problems)) (PP (IN in) (NP (NN graphs)))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP make) (NP (NP (JJ first) (NNS steps)) (PP (NNS towards) (S (VP (VBG sketching) (NP (NP (JJ general) (NNP CSPs)) (PRN (-LRB- -LRB-) (NP (NNP Constraint) (NNP Satisfaction) (NNP Problems)) (-RRB- -RRB-)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NNS Fingerprints)) (VP (VBP have) (VP (VBN grown) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (ADJP (RBS most) (JJ robust) (CC and) (JJ efficient)) (NNS means)) (PP (IN of) (NP (JJ biometric) (NN identification))))))))) (. .))
+(S (NP (JJ Latent) (NNS fingerprints)) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN found) (PP (IN at) (NP (NN crime) (NNS scenes))))) (. .))
+(S (NP (DT The) (NN region) (NNS masks)) (VP (VBP are) (ADVP (RB then)) (ADVP (RB further)) (VP (VBN used) (S (VP (TO to) (VP (VB separate) (NP (DT the) (NNS fingerprints))))))) (. .))

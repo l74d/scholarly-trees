@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ eliminates) (NP (DT the) (NN need) (S (VP (TO to) (VP (VB model) (NP (DT all) (NNS factors)) (S (VP (TO to) (VP (VB derive) (NP (NP (DT the) (NN cost)) (PP (IN for) (NP (DT every) (NN robot)))))))))))) (. .))
+(S (NP (DT The) (NN necessity) (S (VP (TO to) (VP (VB identify) (CC and) (VB estimate) (NP (DT these) (NN travel) (NNS times)))))) (VP (VBZ is) (VP (VBN proved) (PP (IN by) (S (VP (VBG using) (NP (PRP them)) (PP (IN in) (NP (NN route) (NN planning)))))))) (. .))

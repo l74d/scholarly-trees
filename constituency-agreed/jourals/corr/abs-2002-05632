@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ resolves) (NP (NP (DT an) (JJ open) (NN question)) (VP (VBN posed) (PP (IN in) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ prior) (NNS works)))))))) (. .))
+(S (PP (VBN Given) (NP (DT this) (JJ structural) (NN result))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB use) (NP (NNP SGD)) (S (VP (TO to) (VP (VB solve) (NP (DT the) (VBG underlying) (NN learning) (NN problem))))))) (. .))

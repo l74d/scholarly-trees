@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (DT each) (NN robot) (NN path) (NN planner)) (VP (VBZ negotiates) (NP (JJ spatial) (NNS conflicts)) (PP (IN by) (S (VP (VBG applying) (NP (DT a) (JJ multi-robot) (NN traversability) (NN function)))))) (. .))
+(S (NP (NP (JJ Continuous) (NNS interactions)) (PP (IN between) (NP (DT these) (CD two) (NNS levels)))) (VP (VB ensure) (NP (NP (NN coordination)) (CC and) (NP (NNS conflicts) (NN resolution)))) (. .))

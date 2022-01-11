@@ -1,0 +1,2 @@
+(S (NP (NNP Preterm) (NN birth)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ common)) (NN cause)) (PP (IN of) (NP (JJ neonatal) (NN death))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ allows) (S (VP (TO to) (VP (VB estimate) (NP (JJ ultrasound) (NNS markers)) (PP (IN without) (NP (JJ human) (NN oversight))))))) (. .))

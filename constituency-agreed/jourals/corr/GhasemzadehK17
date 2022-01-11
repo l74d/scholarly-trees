@@ -1,0 +1,2 @@
+(S (PP (IN Like) (NP (NP (PRP$ their) (NNS counterparts)) (PP (IN in) (NP (NN cryptology))))) (, ,) (NP (NN steganography) (CC and) (NN steganalysis)) (VP (VBP are) (PP (IN in) (NP (DT a) (JJ constant) (NN battle)))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VP (VBP implement) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ recent)) (JJ audio) (NN steganalysis) (NNS methods))))) (CC and) (VP (VB conduct) (NP (DT a) (JJ comparative) (NN analysis)) (PP (IN on) (NP (PRP$ their) (NNS performances))))) (. .))

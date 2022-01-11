@@ -1,0 +1,3 @@
+(S (NP (NP (NN Point) (NNS features)) (PP (IN inside) (NP (DT the) (NN object)))) (VP (VBP are) (VP (VBN sampled) (PP (IN as) (NP (NNS measurements))))) (. .))
+(S (NP (NP (DT An) (JJ ellipsoidal) (NN approximation)) (PP (IN of) (NP (DT the) (NN shape)))) (VP (VBZ is) (VP (VBN assumed) (PP (IN as) (NP (DT a) (JJ primitive) (NN shape))))) (. .))
+(S (NP (NP (DT The) (NN shape)) (PP (IN of) (NP (DT an) (NN ellipse)))) (VP (VBZ is) (VP (VBN estimated) (S (VP (VBG using) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NN image) (NNS moments)))))))) (. .))

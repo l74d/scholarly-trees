@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP calculate) (NP (DT the) (JJ average) (NN symbol) (NN error) (NN probability)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (DT a) (JJ maximum) (JJ a-posteriori) (NN probability) (NN detector)) (PP (IN at) (NP (DT the) (NN receiver)))))))) (. .))
+(S (PP (IN Through) (NP (JJ numerical) (NN analysis))) (, ,) (NP (PRP we)) (VP (VBP explore) (NP (DT the) (NN system) (NN performance))) (. .))

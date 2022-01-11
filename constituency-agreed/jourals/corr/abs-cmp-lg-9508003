@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ first) (NN pass))) (, ,) (NP (DT the) (NN input)) (VP (VBZ is) (VP (VBN parsed) (S (VP (VBG using) (NP (NP (DT the) (JJ original) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ enforces) (NP (NP (DT the) (NNS constraints)) (PP (IN on) (NP (NNS links)))) (S (VP (TO to) (VP (VB ensure) (NP (NN grammaticality))))))))))))) (. .))
+(S (NP (DT The) (JJ final) (NN pass)) (VP (VBZ counts) (NP (NP (DT the) (JJ total) (NN number)) (PP (IN of) (NP (NP (NNS parses)) (PP (IN with) (NP (JJ minimal) (NN cost))))))) (. .))

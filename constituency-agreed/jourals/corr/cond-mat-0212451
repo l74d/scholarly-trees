@@ -1,0 +1,1 @@
+(S (NP (NNP Survey) (NNP Propagation)) (VP (VBZ is) (NP (NP (DT an) (NN algorithm)) (VP (VBN designed) (PP (IN for) (S (VP (VBG solving) (NP (NP (JJ typical) (NNS instances)) (PP (IN of) (NP (JJ random) (NN constraint) (NN satisfiability) (NNS problems)))))))))) (. .))

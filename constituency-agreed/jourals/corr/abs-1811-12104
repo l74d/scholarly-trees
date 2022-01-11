@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB derive) (NP (DT this) (NN information)) (PP (IN from) (NP (JJ human) (NNS annotations)))))) (, ,) (NP (PRP$ our) (NN model)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB extract) (NP (NN information)) (PP (PP (IN from) (NP (DT the) (NN target))) (CC and) (PP (IN from) (NP (DT the) (NN environment))))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach))))) (. .))

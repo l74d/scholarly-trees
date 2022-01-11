@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN measure)) (PP (IN between) (NP (JJ heterogeneous) (NNS data)))) (VP (VBZ is) (ADVP (RB still)) (NP (DT an) (JJ open) (NN problem))) (. .))
+(S (NP (DT The) (JJ extensive) (NNS experiments)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (VBN proposed) (NN framework)) (PP (IN on) (NP (DT the) (CD three) (JJ public) (NNS datasets)))))))) (. .))

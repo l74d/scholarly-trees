@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP identify) (NP (NP (CD two) (JJ important) (NNS limitations)) (PP (IN of) (NP (JJ current) (JJ metric) (NN learning) (NNS approaches))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN thesis))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (ADJP (JJ theoretical) (CC and) (JJ algorithmic)) (NNS contributions)) (SBAR (WHNP (WDT that)) (S (VP (VBP address) (NP (DT these) (NNS limitations))))))) (. .))

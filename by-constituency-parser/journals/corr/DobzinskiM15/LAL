@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN greedy) (NN algorithm)) (PP (IN for) (NP (NP (JJ combinatorial) (NNS auctions)) (PP (IN with) (NP (JJ submodular) (NNS bidders))))))) (. .))
+(S (NP (NP (PRP It))) (VP (VBZ is) (VP (ADVP (RB well)) (VBN known) (SBAR (IN that) (S (NP (DT this) (NN algorithm)) (VP (VBZ provides) (NP (NP (DT an) (NN approximation) (NN ratio)) (PP (IN of) (NP ($ $) (CD 2) ($ $)))) (PP (IN for) (NP (NP (DT every) (NN order)) (PP (IN of) (NP (DT the) (NNS items)))))))))) (. .))

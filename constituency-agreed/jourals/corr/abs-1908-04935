@@ -1,0 +1,3 @@
+(S (ADVP (RB Usually)) (, ,) (NP (NNS robots)) (VP (VBP are) (VP (VBN limited) (PP (IN by) (NP (PRP$ their) (JJ own) (NNS capabilities))))) (. .))
+(S (NP (PRP$ Its) (NN ability)) (VP (VBZ includes) (NP (NP (DT the) (NN sharing)) (PP (IN of) (NP (NP (NN information)) (PP (JJ such) (IN as) (NP (NP (NNS maps)) (, ,) (NP (NNS images)) (CC and) (NP (DT the) (NN processing) (NN power)))))))) (. .))
+(S (NP (DT This) (JJ whole) (NN process)) (VP (VBZ involves) (S (VP (VBG distributing) (NP (NP (NNS data)) (SBAR (WHNP (WDT which)) (S (VP (VBP intend) (S (VP (TO to) (VP (VB rise) (ADVP (RB enormously)))))))))))) (. .))

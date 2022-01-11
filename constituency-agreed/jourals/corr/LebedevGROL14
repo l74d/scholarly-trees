@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT the) (JJ second) (NN step))) (, ,) (NP (DT this) (NN decomposition)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB replace) (NP (DT the) (JJ original) (JJ convolutional) (NN layer)) (PP (IN with) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NP (CD four) (JJ convolutional) (NNS layers)) (PP (IN with) (NP (JJ small) (NNS kernels)))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (JJ theoretical) (NN convergence)) (PP (IN of) (NP (NP (DT the) (NN method)) (PP (IN for) (NP (JJ non-convex) (NN optimization)))))) (PP (IN under) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ explicit) (NNS assumptions)))))) (. .))

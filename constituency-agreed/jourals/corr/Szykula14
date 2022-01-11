@@ -1,0 +1,1 @@
+(S (NP (DT An) (NN automaton)) (VP (VBZ is) (ADJP (JJ monotonic)) (SBAR (IN if) (S (NP (PRP$ its) (NNS states)) (VP (MD can) (VP (VB be) (VP (VBN arranged) (PP (IN in) (NP (NP (DT a) (JJ linear) (NN order)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN preserved) (PP (IN by) (NP (NP (DT the) (NN action)) (PP (IN of) (NP (DT every) (NN letter))))))))))))))))) (. .))

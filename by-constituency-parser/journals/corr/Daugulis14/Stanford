@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB study) (NP (NN maximum) (NN flow) (NNS problems)) (PP (IN for) (NP (NN connectome) (NNS graphs))))))) (. .))
+(S (NP (PRP We)) (VP (VBP suggest) (NP (NP (DT a) (JJ few) (JJ computational) (NNS problems)) (: :) (S (S (VP (VBG finding) (NP (NN vertex) (NNS pairs)) (PP (IN with) (NP (JJ maximal) (NN flow))))) (, ,) (S (VP (VBG finding) (NP (NP (JJ new) (NNS edges)) (SBAR (WHNP (WDT which)) (S (VP (MD would) (VP (VB increase) (NP (DT the) (JJ maximal) (NN flow)))))))))))) (. .))
+(S (NP (NP (JJ Initial) (NN computation) (NNS results)) (PP (IN for) (NP (DT some) (ADJP (RB publicly) (JJ available)) (NN connectome) (NNS graphs)))) (VP (VBP are) (VP (VBN described))) (. .))

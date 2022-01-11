@@ -1,0 +1,2 @@
+(S (NP (NNP Convolution) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN achieved) (NP (JJ remarkable) (NN performance)) (PP (IN in) (NP (NP (JJ many) (NNS tasks)) (PP (IN of) (NP (VBG computing) (NN vision))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT a) (JJ new) (NN regularization) (NN method)) (PP (IN by) (S (VP (VBG constraining) (NP (NP (DT the) (NN frequency) (NN spectra)) (PP (IN of) (NP (NP (DT the) (NN filter)) (PP (IN of) (NP (DT the) (NN model)))))))))) (. .))

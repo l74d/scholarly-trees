@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT a) (NN scheduling) (NN problem)) (VP (VBG arising) (PP (IN in) (NP (NP (NN demand) (NN response) (NN management)) (PP (IN in) (NP (JJ smart) (NN grid)))))))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB schedule) (NP (DT all) (NNS requests)) (PP (IN with) (NP (DT the) (JJ minimum) (JJ total) (NN electricity) (NN cost))))))) (. .))

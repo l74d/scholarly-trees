@@ -1,0 +1,1 @@
+(S (NP (DT Each) (NN image)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN convolved) (PP (IN with) (NP (NP (CD 64) (JJ separable) (NNP Gabor) (NNS filters)) (PP (IN in) (NP (DT the) (JJ spatial) (NN domain))))))) (. .))

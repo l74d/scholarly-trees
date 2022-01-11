@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (NN approach)) (SBAR (S (VP (TO to) (VP (VB generate) (NP (NNS samples)) (PP (IN from) (NP (JJ conditional) (NN belief) (NNS functions))) (PP (IN for) (NP (NP (DT a) (ADJP (ADJP (VBN restricted)) (CC but) (ADJP (JJ non) (JJ trivial))) (NN subset)) (PP (IN of) (NP (JJ conditional) (NN belief) (NNS functions))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ assumes) (NP (NP (DT the) (NN factorization)) (PRN (-LRB- -LRB-) (NN decomposition) (-RRB- -RRB-)) (PP (IN of) (NP (DT a) (NN belief) (NN function))) (PP (IN along) (NP (DT a) (JJ bayesian) (NN network) (NN structure))))) (. .))
+(S (NP (PRP It)) (VP (VBZ applies) (NP (JJ general) (JJ conditional) (NN belief) (NNS functions))) (. .))

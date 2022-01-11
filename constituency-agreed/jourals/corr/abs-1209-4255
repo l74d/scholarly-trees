@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ common) (NN approach)) (VP (VBZ is) (S (VP (VP (TO to) (VP (VB truncate) (NP (NP (JJ several) (NN output) (NNS bits)) (PP (IN of) (NP (DT the) (NN hash) (NN function)))))) (CC and) (VP (TO to) (VP (VB look) (PP (IN for) (NP (NP (NNS collisions)) (PP (IN of) (NP (DT this) (VBN modified) (NN function)))))))))) (. .))

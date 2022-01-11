@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NNP LIO) (NN monad)) (VP (VBZ offers) (NP (NP (DT a) (JJ simple) (NN form)) (PP (IN of) (NP (NP (VBN labeled) (JJ mutable) (NNS references)) (CC and) (NP (NN exception) (NN handling)))))) (. .))

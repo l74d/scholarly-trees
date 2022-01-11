@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ key) (NN component)) (PP (IN of) (NP (PRP$ our) (NN method)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP train) (NP (DT a) (JJ posterior) (NN inference) (NN network)) (PP (IN for) (NP (DT the) (JJ hidden) (NNS variables))))))) (. .))

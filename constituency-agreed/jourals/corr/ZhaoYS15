@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Errors)) (PP (IN in) (NP (NNS standards)))) (VP (MD could) (VP (VP (VB mislead) (NP (NP (NN system) (NN developer) (POS 's)) (NN understanding))) (CC and) (VP (VB introduce) (NP (NNS bugs)) (PP (IN into) (NP (NN system) (NNS implementations)))))) (. .))

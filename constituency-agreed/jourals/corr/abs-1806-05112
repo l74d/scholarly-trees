@@ -1,0 +1,2 @@
+(S (SBAR (IN while) (S (NP (JJ several) (JJ different) (NNS notions)) (VP (VBP are) (VP (VBN studied) (PP (IN in) (NP (DT the) (NN literature))))))) (, ,) (NP (JJ little) (NNS studies)) (VP (VBP are) (VP (VBN done) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS notions)) (VP (VBP affect) (NP (DT the) (NNS individuals)))))))) (. .))
+(S (NP (NP (JJ Empirical) (NNS studies)) (PP (IN on) (NP (NP (DT the) (JJ social) (NN welfare) (CC and) (NN disparity)) (PP (IN of) (NP (DT these) (NNS policies)))))) (VP (VBP are) (VP (VBN conducted))) (. .))

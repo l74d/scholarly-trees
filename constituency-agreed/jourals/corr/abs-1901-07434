@@ -1,0 +1,2 @@
+(S (ADVP (RB Similarly)) (, ,) (NP (DT the) (JJ second) (NN variant)) (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT the) (NNP Graph) (NNP Search) (NNP Problem))))) (. .))
+(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (JJ computational) (NNS experiments)))) (VP (VBD was) (VP (VBN conducted) (PP (IN over) (NP (NP (DT the) (NN benchmark) (NNS instances)) (VP (VBN derived) (PP (IN from) (NP (DT the) (NNP TSPLIB) (NN library)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (VP (TO to) (VP (VB detect) (NP (NP (NNS objects)) (PP (IN of) (NP (JJ unknown) (NNS shapes)))) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ random) (NN noise))))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT No) (NN defense) (NN technique)) (VP (VBZ has) (VP (VBN been) (VP (VBN proved) (S (ADJP (JJ successful) (PP (IN in) (S (VP (VBG handling) (NP (DT these) (NNS threats)))))))))) (. .))
+(S (NP (DT These) (NNS techniques)) (VP (VBP are) (VP (VBG getting) (NP (ADJP (JJR more) (CC and) (JJR more)) (NN attention)))) (. .))
+(S (S (NP (NNP Focus) (NN group)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (JJ qualitative) (NN analysis)))))) (CC and) (S (NP (NN experiment)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (JJ quantitative) (NN analysis)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ former) (NN challenge)) (VP (VBZ is) (VP (VBN addressed) (PP (IN by) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (DT a) (JJ convolutional) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (NP (NP (DT a) (JJ multi-class) (JJ semantic) (NN segmentation)) (PP (IN of) (NP (DT the) (NN image))))))))))))) (. .))

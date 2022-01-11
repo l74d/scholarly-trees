@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ optimal) (NN tradeoff)) (PP (IN between) (NP (NN delay) (, ,) (NN rate) (, ,) (CC and) (NN energy)))) (VP (VBZ is) (VP (VBN achieved) (PP (IN for) (NP (NP (NP (JJ different) (NNS values)) (PP (IN of) (NP (NN delay) (NN constraint)))) (CC and) (NP (NP (DT the) (NN scaling) (NNS factors)) (PP (IN between) (NP (NN rate) (CC and) (NN energy)))))))) (. .))

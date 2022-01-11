@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (ADJP (RB currently) (JJ popular)) (NN relaxation) (NNS models)) (PP (IN with) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NN convolution) (NN operation)))))) (VP (VBP require) (NP (NP (DT some) (NN material) (NNS parameters)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (RB not) (ADJP (RB readily) (JJ available))))))) (. .))
+(S (NP (DT The) (JJ next) (CD two) (NNS reports)) (VP (VBP are) (PP (IN about) (NP (NP (DT the) (NN frequency) (NN decomposition) (NN model)) (CC and) (NP (DT the) (JJ fractional) (JJ derivative) (NN model))))) (. .))

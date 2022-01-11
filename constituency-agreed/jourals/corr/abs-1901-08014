@@ -1,0 +1,2 @@
+(S (NP (NN Sentiment)) (VP (VBZ is) (ADVP (RB always)) (VP (VBN coupled) (PP (IN with) (NP (NN sarcasm))) (SBAR (WHADVP (WRB where)) (S (NP (JJ intensive) (NN emotion)) (VP (VBZ is) (VP (VBN expressed))))))) (. .))
+(S (ADVP (RB Nevertheless)) (, ,) (NP (JJS most) (NN literature)) (VP (VBZ considers) (NP (PRP them)) (PP (IN as) (NP (CD two) (JJ separate) (NNS tasks)))) (. .))

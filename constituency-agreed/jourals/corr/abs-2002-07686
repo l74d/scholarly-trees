@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP validate) (NP (NP (PRP$ our) (NN method) (POS 's)) (NN effectiveness)) (PP (IN on) (NP (JJ different) (NNP ImageNet) (NNS models)))) (. .))

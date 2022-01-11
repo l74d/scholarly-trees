@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN system)) (VP (VBZ contains) (NP (NP (CD three) (JJ main) (NNS modules)) (PP (VBG including) (NP (NP (NN feature) (NN extraction)) (, ,) (NP (NN feature) (NN reduction)) (, ,) (CC and) (NP (NN classification)))))) (. .))
+(S (NP (NP (DT All)) (PP (IN of) (NP (PRP them)))) (VP (VBP are) (ADJP (JJ linear))) (. .))

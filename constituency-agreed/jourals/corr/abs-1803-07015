@@ -1,0 +1,2 @@
+(S (S (NP (NN Test) (NNS runs)) (VP (VBD were) (VP (VBN made)))) (CC and) (S (NP (NP (NNS outputs)) (PP (IN of) (NP (DT the) (NN application)))) (VP (VBD were) (VP (VBN noted)))) (. .))
+(S (NP (NP (DT A) (NN tractor)) (VP (VBN parked) (PP (IN at) (NP (DT a) (NN parking) (NN lot))))) (VP (VBD was) (VP (VBN classified) (PP (IN with) (NP (NP (DT the) (NN proximity)) (PP (IN of) (NP (CD 12.88) (NN %))))))) (. .))

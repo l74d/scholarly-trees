@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ linear) (VBG probing)) (VP (VBZ requires) (NP (JJ 5-independent) (JJ hash) (NNS functions)) (PP (IN for) (NP (VBN expected) (JJ constant-time) (NN performance)))))) (, ,) (S (VP (VBG matching) (NP (NP (DT an) (JJ upper) (NN bound)) (PP (IN of) (PRN (NNP -LSB-) (NNP Pagh) (FW et) (NN al) (. .))))))))
+(NP (NNP STOC'07) (NNP -RSB-) (. .))
+(S (ADVP (RBR More) (RB precisely)) (, ,) (NP (PRP we)) (VP (VBP construct) (NP (NP (DT a) (JJ 4-independent) (NN hash) (NNS functions)) (VP (VBG yielding) (NP (VBN expected) (JJ logarithmic) (NN search) (NN time))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (ADJP (RB very) (JJ fast)) (JJ 2-independent) (JJ multiply-shift) (NN scheme)) (PP (IN of) (NP (NP (NNP Dietzfelbinger)) (PRN (NNP -LSB-) (NP (NNP STACS'96)) (NNP -RSB-))))) (VP (VBZ fails) (ADVP (RB badly)) (PP (IN in) (NP (DT both) (NNS applications))))))) (. .))

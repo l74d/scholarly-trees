@@ -1,0 +1,3 @@
+(S (NP (JJ Multiple) (NNS measures)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN as) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (JJ integrated) (NN information)))))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VP (VBP analyze) (NP (NP (CD four)) (PP (IN of) (NP (DT the) (ADJP (RB previously) (VBN proposed)) (NNS measures))))) (CC and) (VP (VB elucidate) (NP (PRP$ their) (NNS relations)) (PP (IN from) (NP (NP (DT a) (NN viewpoint)) (PP (IN of) (NP (NN information) (NN geometry))))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (JJ explicit) (NNS expressions)) (PP (IN of) (NP (DT these) (NNS measures))))) (. .))

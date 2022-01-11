@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (ADJP (RB particularly) (JJ challenging)) (SBAR (IN because) (S (NP (JJ appropriate) (NNS expressions)) (VP (VBP depend) (PP (IN on) (NP (NP (DT the) (NN target) (NN object)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (PRP$ its) (NNS surroundings)))))))) (. .))
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP ABEN)) (VP (VBD outperformed) (NP (DT the) (NN baseline)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT these) (NNS metrics))))))))) (. .))

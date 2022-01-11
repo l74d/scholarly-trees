@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN input) (NNS parameters)) (PP (IN of) (NP (DT the) (NN model)))) (VP (VBP include) (NP (NP (NN coal) (NNS characteristics)) (CC and) (NP (NP (DT the) (JJ operational) (NNS parameters)) (PP (IN of) (NP (DT the) (NNS boilers)))))) (. .))
+(S (NP (DT The) (NN dataset)) (VP (VBZ has) (VP (VBN been) (VP (VP (VBN collected) (PP (IN from) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN power) (NNS plants)))))) (CC and) (VP (VBN employed) (S (VP (TO to) (VP (VB educate) (CC and) (VB examine) (NP (DT the) (VBN proposed) (NN model))))))))) (. .))

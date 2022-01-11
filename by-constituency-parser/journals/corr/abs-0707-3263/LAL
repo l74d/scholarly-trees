@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP outline) (NP (NP (NN design)) (CC and) (NP (NP (NNS lines)) (PP (IN of) (NP (NN development)))) (PP (IN of) (NP (NP (JJ autonomous) (NNS tools)) (PP (IN for) (NP (DT the) (VBG computing) (NNP Grid) (NN management) (, ,) (NN monitoring) (CC and) (NN optimization))))))) (. .))
+(S (NP (DT The) (NN management)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB be) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN utility))))))))))) (. .))
+(S (NP (NNP Grid) (NN optimization)) (VP (VBZ is) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (ADJP (JJ application-oriented))))))) (. .))
+(S (NP (DT A) (JJ generic) (NNP Grid) (NN simulator)) (VP (VBZ is) (VP (VBN proposed) (PP (IN as) (NP (NP (DT an) (NN optimization) (NN tool)) (PP (IN for) (NP (NNP Grid) (NN structure) (CC and) (NN functionality))))))) (. .))

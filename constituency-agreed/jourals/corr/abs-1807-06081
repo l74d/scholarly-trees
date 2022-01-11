@@ -1,0 +1,2 @@
+(S (NP (JJ Stochastic) (NN inference)) (VP (VBD was) (VP (VBN used) (S (VP (TO to) (VP (VB show) (NP (NP (NNS uncertainties)) (PP (IN of) (NP (DT the) (JJ individual) (NNS models))))))))) (. .))
+(S (NP (DT The) (JJS highest) (NN efficiency)) (VP (VBD was) (VP (VBN achieved) (PP (IN by) (NP (NNP ENet))) (PP (IN with) (NP (NP (DT a) (JJ mean) (NN inference) (NN time)) (PP (IN of) (NP (NP (CD 9.22) (NNS ms)) (PP (IN per) (NP (NN image))))))))) (. .))

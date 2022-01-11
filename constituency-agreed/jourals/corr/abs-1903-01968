@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NN trend)) (PP (IN toward) (NP (JJ quantitative) (NN outcome) (NNS measures)))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ rigorous) (NN analysis)) (PP (IN of) (NP (PRP$ our) (NN system)))) (, ,) (S (VP (VBG focusing) (PP (IN on) (NP (PRP$ its) (NN ability) (S (VP (TO to) (VP (VB simulate) (NP (NN reach) (, ,) (NN grasp) (, ,) (CC and) (NN touch)) (PP (IN in) (NP (NNP AR))))))))))) (. .))
+(S (NP (NP (DT A) (NN washout) (NN phase)) (PP (IN of) (NP (CD 5) (NNS days)))) (VP (VBD was) (VP (VBN incorporated) (S (VP (TO to) (VP (VB observe) (NP (DT the) (NN effect)) (PP (IN without) (NP (NN training)))))))) (. .))

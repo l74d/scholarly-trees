@@ -1,0 +1,3 @@
+(S (NP (QP (CD 10) (CD billion)) (NNS users)) (VP (MD will) (VP (VB be) (UCP (ADJP (JJ online)) (CC and) (VP (VBG accessing) (NP (NP (DT the) (NN web)) (CC and) (NP (PRP$ its) (JJ various) (NN content))))))) (. .))
+(S (NP (DT The) (NN industry)) (VP (VBZ has) (VP (VBN seen) (NP (NP (DT a) (NN convergence)) (PP (IN around) (NP (ADJP (NNP IP) (VBN based)) (NN technology)))))) (. .))
+(S (NP (DT The) (NN end) (NN customer)) (VP (MD will) (VP (VB develop) (NP (NN business) (NNS applications)) (PP (IN on) (NP (DT the) (NN server))))) (. .))

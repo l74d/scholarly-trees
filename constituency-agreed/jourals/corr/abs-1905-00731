@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN service) (NN time)) (SBAR (WHPP (IN during) (WHNP (WDT which))) (S (NP (DT the) (NN resource)) (VP (VBZ is) (VP (VBN used) (PP (IN by) (NP (DT the) (NN customer)))))))) (VP (VBZ is) (ADJP (JJ stochastic)))) (CC and) (S (NP (DT the) (NN firm)) (VP (MD may) (VP (VB incur) (NP (DT a) (NN service) (NN cost))))) (. .))

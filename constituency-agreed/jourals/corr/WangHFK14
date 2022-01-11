@@ -1,0 +1,2 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (JJ little) (NN work)) (VP (VBZ has) (VP (VBN been) (VP (VBN focused) (PP (IN on) (NP (DT this) (NN area)))))) (. .))
+(S (S (NP (NP (NN Lack)) (PP (IN of) (NP (JJ raw) (NNS data)))) (VP (MD could) (VP (VB be) (NP (CD one) (NN reason))))) (: ;) (S (NP (DT another) (NN reason)) (VP (VBZ is) (SBAR (IN that) (S (NP (NNS people)) (ADVP (RB still)) (VP (VBP use) (NP (NP (DT the) (JJ traditional) (NNS models) (CC or) (NNS methods)) (VP (VBN shared) (PP (IN under) (NP (JJ non-virtualized) (NN environment)))))))))) (. .))

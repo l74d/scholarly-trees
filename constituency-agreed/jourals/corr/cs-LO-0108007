@@ -1,0 +1,2 @@
+(S (ADVP (RB Intuitively)) (, ,) (NP (JJ concrete) (NNS models)) (VP (VBP depend) (PP (IN on) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NN algebra)))))) (. .))
+(S (PP (IN In) (NP (NP (DT the) (NN course)) (PP (IN of) (NP (DT this) (NN investigation))))) (, ,) (NP (NP (JJ interesting) (NNS aspects)) (PP (IN of) (NP (NN continuity) (, ,) (NN extensionality) (CC and) (NN non-determinism)))) (VP (VBP are) (VP (VBN uncovered))) (. .))

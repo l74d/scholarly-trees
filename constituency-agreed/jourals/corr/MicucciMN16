@@ -1,0 +1,1 @@
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN dataset)) (VP (VBZ has) (VP (VBN been) (VP (VBN benchmarked) (PP (PP (IN with) (NP (CD four) (JJ different) (NNS classifiers))) (CC and) (PP (IN with) (NP (CD two) (JJ different) (NN feature) (NNS vectors))))))) (. .))

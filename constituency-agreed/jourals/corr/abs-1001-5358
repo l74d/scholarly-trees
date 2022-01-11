@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NN practice))) (, ,) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT the) (NN software)) (PP (IN for) (NP (JJ real) (NN time) (NNS applications)))))) (VP (VBZ is) (VP (VBG growing))) (. .))
+(S (NP (NP (DT The) (NN run) (NN time) (NN architecture)) (PP (IN of) (NP (JJ real) (NN time) (NNS applications)))) (VP (VBZ is) (VP (VBG becoming) (ADJP (RB increasingly) (JJ complex)))) (. .))

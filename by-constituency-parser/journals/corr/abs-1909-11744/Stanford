@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN connection)) (PP (IN between) (NP (DT the) (JJ above) (CD two) (NNS problems)))) (VP (VBZ has) (ADVP (RB recently)) (VP (VBN been) (VP (VBN studied)))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP design) (NP (NP (DT a) (NN streaming) (NNP PTAS)) (PP (IN for) (NP (DT the) (JJ former))))) (CC and) (VP (VB use) (NP (DT this) (NN connection)) (S (VP (TO to) (VP (VB obtain) (NP (NN streaming) (NNS PTAS)) (PP (IN for) (NP (DT the) (JJ latter)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ constant) (NN pass)) (, ,) (NP (NP (NML (NN polylog) (HYPH -) (NN space)) (NN streaming) (NN algorithm)) (PP (IN for) (NP (NP (DT either)) (PP (IN of) (NP (DT the) (CD two) (NNS problems)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG extracting) (NP (NNS features)) (PP (IN from) (NP (DT the) (JJ original) (NNS representations)))))) (, ,) (NP (DT the) (NNS weights)) (VP (MD can) (VP (VB contain) (NP (JJ rich) (NN information)) (S (VP (TO to) (VP (VB achieve) (NP (JJ high) (JJ predictive) (NN performance))))))) (. .))

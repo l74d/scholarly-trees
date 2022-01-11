@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ asks) (SBAR (IN whether) (S (NP (DT an) (NN automaton)) (VP (VBZ accepts) (NP (NP (DT all) (NNS words)) (PP (IN over) (NP (PRP$ its) (NN alphabet)))))))) (. .))

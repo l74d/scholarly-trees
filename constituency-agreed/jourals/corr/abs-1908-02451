@@ -1,0 +1,1 @@
+(S (NP (NP (NNP BERT)) (, ,) (VP (VBN introduced) (PP (IN by) (NP (NNP Google))) (PP (IN in) (NP (CD 2018)))) (, ,)) (VP (VBZ provides) (NP (NP (NNS embeddings)) (PP (IN for) (NP (NP (NNS words)) (CONJP (RB as) (RB well) (IN as)) (NP (NNS sentences)))))) (. .))

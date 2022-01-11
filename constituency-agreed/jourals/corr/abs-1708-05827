@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP$ our) (NN model)) (VP (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN at) (NP (JJ several) (JJ semantic) (NNS levels)))))) (CC and) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (DT any) (NN domain) (NN knowledge)) (CC or) (NP (VBN handcrafted) (NNS features)))))) (. .))
+(S (PP (IN At) (NP (DT all) (NNS levels))) (, ,) (NP (PRP$ our) (NN approach)) (VP (VBZ outperforms) (NP (VBG existing) (NNS methods))) (. .))

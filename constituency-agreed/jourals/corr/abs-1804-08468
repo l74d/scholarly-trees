@@ -1,0 +1,2 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (JJ extra) (NN denoising) (NNS procedures)) (VP (VBN adopted) (PP (IN by) (NP (JJS most) (NNS methods))))) (VP (VBP ruin) (NP (DT the) (NNS details))) (. .))
+(S (NP (NP (NNS Results)) (PP (IN of) (NP (JJ extensive) (NNS experiments)))) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness) (CC and) (NN practicability)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NN evaluation) (NNS results)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (PP (IN on) (NP (CD three) (JJ scientific) (NNS articles)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ semantic) (NN role) (NN information)) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBN integrated) (PP (IN with) (NP (DT a) (NNP PageRank) (NN system)))))) (, ,)) (VP (MD can) (VP (VB become) (NP (DT a) (JJ new) (JJ lexical) (NN feature))))))) (. .))

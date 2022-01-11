@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN region)) (VP (VBZ is) (VP (VBN characterized) (ADVP (RB indirectly)) (PP (IN in) (NP (CD two) (NNS phases))))) (. .))
+(S (NP (DT The) (JJ first) (NN phase)) (VP (VBZ assumes) (SBAR (S (NP (NNS relays)) (VP (MD can) (VP (VB operate) (ADVP (RB non-causally))))))) (. .))

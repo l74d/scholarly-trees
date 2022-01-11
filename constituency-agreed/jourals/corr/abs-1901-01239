@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP MTL)) (VP (VBZ utilizes) (NP (DT a) (ADJP (RB jointly) (VBN trained)) (JJ auxiliary) (NN task)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (JJ main) (NN task)))))))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (DT the) (NNP Microsoft) (JJ short) (NN message) (NN dictation) (NN task)))) (VP (VBD demonstrated) (SBAR (IN that) (S (NP (NNP MTL)) (VP (VBZ outperforms) (NP (NNP KLD) (NN regularization)))))) (. .))

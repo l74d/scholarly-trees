@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN spirit)) (PP (IN of) (NP (NNP Sahlqvist) (NN theory)))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ processes) (NP (NNS inequalities)) (PP (IN with) (NP (NP (DT the) (NN aim)) (PP (IN of) (S (VP (VBG eliminating) (NP (JJ propositional) (NNS variables))))))))))))))) (. .))

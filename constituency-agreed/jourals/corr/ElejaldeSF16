@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (JJR newer) (NNS versions)) (PP (IN of) (NP (DT these) (NNS data) (NNS structures)))) (VP (VBP allow) (PP (IN for) (NP (NP (DT a) (JJ fair) (NN degree)) (PP (IN of) (NP (NN dynamism)))))) (. .))
+(S (NP (NP (CD One) (NN limitation)) (PP (IN of) (NP (NNP HTM)))) (VP (VBZ is) (ADVP (RB still)) (PP (IN on) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT each) (NN transaction)))))) (. .))

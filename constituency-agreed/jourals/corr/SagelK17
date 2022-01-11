@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ nearby) (JJ descriptive) (NN model)) (PP (IN for) (NP (JJ visual) (NNS processes)))) (VP (VBZ is) (ADVP (RB thus)) (NP (NP (DT a) (JJ statistical) (NN distribution)) (SBAR (WHNP (WDT that)) (S (VP (VBZ varies) (PP (IN over) (NP (NN time)))))))) (. .))
+(S (NP (NP (NNS Parameters)) (PP (IN of) (NP (JJ linear) (JJ dynamic) (NNS systems)))) (VP (VBP suffer) (PP (IN from) (NP (NNS ambiguities)))) (. .))

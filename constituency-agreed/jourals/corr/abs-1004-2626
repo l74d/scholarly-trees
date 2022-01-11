@@ -1,0 +1,2 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (JJ simultaneous) (JJ bipartite) (NNS matchings))))))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (JJ new) (NN propagator)) (VP (MD can) (VP (VB offer) (NP (NP (JJ significant) (NNS benefits)) (PP (IN over) (NP (VBG existing) (NNS methods))))))))) (. .))

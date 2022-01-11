@@ -1,0 +1,5 @@
+(S (NP (NN Ontology) (NN merging)) (VP (VBZ is) (UCP (ADJP (JJ important)) (, ,) (CONJP (CC but) (RB not)) (FRAG (ADVP (RB always)) (ADJP (JJ effective))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN reason)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (NN ontology) (NN merging)) (VP (VBZ is) (RB not) (ADJP (JJ effective))))) (, ,)) (VP (VBZ is) (SBAR (IN that) (S (NP (NN ontology) (NN merging)) (VP (VBZ is) (VP (VBN performed) (PP (IN without) (S (VP (VBG considering) (NP (NNS goals)))))))))) (. .))
+(S (NP (NNS Goals)) (VP (VBP define) (NP (NP (DT the) (NN way)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNS ontologies)) (VP (TO to) (VP (VB be) (VP (VBN merged) (ADVP (RBR more) (RB effectively))))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ illustrates) (NP (NP (NN ontology)) (VP (VBG merging) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (NNS rules)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN generated) (PP (IN from) (NP (DT these) (NNS ontologies)))))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ necessary) (PP (IN for) (NP (NP (JJ further) (NN use)) (PP (IN in) (NP (NN expert) (NNS systems))))))) (. .))

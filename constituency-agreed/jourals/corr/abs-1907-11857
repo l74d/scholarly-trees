@@ -1,0 +1,3 @@
+(S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (JJR more))))) (, ,) (NP (NNS objects)) (VP (MD may) (VP (VB have) (NP (JJ multiple) (JJ semantic) (NNS meanings)))) (. .))
+(S (S (NP (NP (DT The) (NN quality)) (PP (IN of) (NP (NP (NNS data)) (VP (VBN collected) (PP (IN from) (NP (JJ different) (NNS channels))))))) (VP (VBP are) (ADJP (JJ inconsistent)))) (CC and) (S (NP (NP (DT some)) (PP (IN of) (NP (PRP them)))) (VP (MD may) (RB not) (VP (VB benefit) (PP (IN for) (NP (NN prediction)))))) (. .))
+(S (PP (IN In) (NP (JJ real) (NN life))) (, ,) (NP (RB not) (PDT all) (DT the) (NNS modalities)) (VP (VBP are) (VP (VBN needed) (PP (IN for) (NP (NN prediction))))) (. .))

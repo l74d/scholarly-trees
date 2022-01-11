@@ -1,0 +1,1 @@
+(S (NP (NNP Software) (NNS engineers)) (ADVP (RB typically)) (VP (VBP use) (NP (NN software) (NNS abstractions)) (S (VP (TO to) (VP (VB hide) (CC and) (VB manage) (NP (NP (DT the) (JJ high) (NN complexity)) (PP (IN of) (NP (JJ such) (NNS systems)))))))) (. .))

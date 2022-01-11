@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBD resulted) (PP (IN in) (NP (NP (NP (DT an) (JJ average) (NN classification) (NN accuracy)) (PP (IN of) (NP (CD 90.5) (NN %)))) (, ,) (NP (NP (NN sensitivity)) (PP (IN of) (NP (CD 94.2) (NN %)))) (, ,) (CC and) (NP (NP (NN specificity)) (PP (IN of) (NP (CD 85.4) (NN %))))))) (. .))

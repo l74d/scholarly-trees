@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP compare) (NP (CD two) (JJ analytical) (NNS models)) (PP (IN for) (NP (NP (NN evaluation)) (PP (IN of) (NP (NP (NN cache) (NN coherence) (NN overhead)) (PP (IN of) (NP (NP (DT a) (VBN shared) (NN bus) (NN multiprocessor)) (PP (IN with) (NP (JJ private) (NNS caches)))))))))) (. .))
+(S (NP (DT The) (NNS models)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (DT a) (NML (JJ closed) (NN queuing)) (NN network))) (PP (IN with) (NP (JJ different) (NN service) (NNS disciplines))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (DT the) (NN priority) (NN discipline)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NML (JJR lower) (HYPH -) (NN level))) (VP (VBN bound)))))))))) (. .))
+(S (NP (DT Some) (JJ numerical) (NNS results)) (VP (VBP are) (VP (VBN shown) (ADVP (RB graphically)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (MD will) (VP (VB apply) (NP (PRP it)) (PP (IN on) (NP (CD three) (ADJP (RB closely) (JJ related)) (NNS problems))))) (. .))
+(S (NP (PRP We)) (VP (MD will) (VP (VB prove) (NP (PRP it)) (PP (IN by) (S (VP (VBG defining) (CC and) (VBG analyzing) (NP (DT a) (NN limit) (NN problem))))))) (. .))

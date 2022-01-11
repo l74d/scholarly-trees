@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ experimental) (NN investigation)) (PP (IN of) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP MPI) (VBD derived) (NNS datatypes))))))) (. .))
+(S (PP (IN For) (NP (NP (NNS messages)) (PP (RB up) (PP (TO to) (NP (DT the) (NN megabyte) (NN range)))))) (NP (RBS most) (NNS schemes)) (VP (VBP perform) (ADVP (ADVP (RB comparably)) (PP (PP (TO to) (NP (DT each) (JJ other))) (CC and) (PP (TO to) (NP (NP (VB manual) (NN copying)) (PP (IN into) (NP (DT a) (JJ regular) (NN send) (NN buffer)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (JJ large) (NNS messages))) (NP (NP (DT the) (JJ internal) (NN buffering)) (PP (IN of) (NP (NNP MPI)))) (VP (NNS causes) (NP (NP (NNS differences)) (PP (IN in) (NP (NN efficiency))))) (. .))
+(S (NP (DT The) (JJ optimal) (NN scheme)) (VP (VBZ is) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (VBG packing)) (CC and) (NP (VBN derived) (NNS types)))))) (. .))

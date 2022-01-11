@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ key) (NN feature)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (VP (VBZ is) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB model) (NP (VBG varying) (NNS communities)) (PP (IN at) (NP (JJ different) (NN network) (NNS layers)))))))) (. .))
+(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (JJ many) (VBG existing) (NNS models)) (VP (VBP assume) (NP (NP (DT the) (JJ same) (NNS communities)) (PP (IN for) (NP (DT all) (NNS layers))))) (. .))

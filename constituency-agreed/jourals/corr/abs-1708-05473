@@ -1,0 +1,1 @@
+(S (PP (VBN Compared) (PP (IN with) (NP (DT the) (ADJP (RB recently) (VBN proposed)) (JJ residual) (NN denoiser)))) (, ,) (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB achieve) (NP (JJ comparable) (NN performance)) (PP (IN with) (NP (JJR less) (JJ computational) (NN cost))))) (. .))

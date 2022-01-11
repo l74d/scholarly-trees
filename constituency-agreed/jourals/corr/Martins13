@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS implementations)) (VP (VBN described))) (VP (VBD were) (VP (VBN developed) (PP (IN in) (NP (DT the) (NN software) (NNP MATLAB))))) (. .))
+(S (NP (DT The) (JJ first) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (DT the) (NN maximization)) (PP (IN of) (NP (NP (DT the) (JJ mutual) (NN information)) (PP (IN of) (NP (NP (DT the) (NN bifurcation) (NNS regions)) (PP (IN of) (NP (NP (DT the) (NNS features)) (PP (IN of) (NP (NNS images))))))))))))) (. .))

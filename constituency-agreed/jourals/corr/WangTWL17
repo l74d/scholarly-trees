@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN translation))) (, ,) (S (VP (VBG considering) (NP (DT the) (NN document)) (PP (IN as) (NP (DT a) (NN whole))))) (VP (MD can) (VP (VB help) (S (VP (TO to) (VP (VB resolve) (NP (NNS ambiguities) (CC and) (NNS inconsistencies))))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (DT this) (NN history)) (VP (VBZ is) (VP (VBN summarized) (PP (IN in) (NP (DT a) (JJ hierarchical) (NN way))))) (. .))

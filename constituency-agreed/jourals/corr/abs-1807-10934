@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT each) (NN graph))) (, ,) (S (NP (NNS nodes)) (VP (VBP are) (NP (NNS stations)))) (, ,) (CC and) (S (NP (NNS edges)) (VP (VBP are) (NP (NP (DT a) (JJ certain) (NN type)) (PP (IN of) (NP (NP (NNS relations)) (PP (IN between) (NP (NNS stations)))))))) (. .))

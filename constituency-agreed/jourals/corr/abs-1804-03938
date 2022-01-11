@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN decision) (NN procedure)) (PP (IN for) (NP (NP (NNS entailments)) (PP (IN of) (NP (NP (JJ symbolic) (NNS heaps)) (PP (IN with) (NP (JJ inductive) (NNS definitions)))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given))) (. .))
+(S (NP (NP (NN Decidability)) (PP (IN for) (NP (NP (NNS entailments)) (PP (IN of) (NP (NP (JJ symbolic) (NNS heaps)) (PP (IN with) (NP (JJ inductive) (NNS definitions)))))))) (VP (VBZ is) (NP (DT an) (JJ important) (NN question))) (. .))
+(S (NP (NP (NN Completeness)) (PP (IN of) (NP (JJ cyclic) (NN proof) (NNS systems)))) (VP (VBZ is) (ADVP (RB also)) (NP (DT an) (JJ important) (NN question))) (. .))

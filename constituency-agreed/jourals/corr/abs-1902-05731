@@ -1,0 +1,1 @@
+(S (NP (NP (DT Some) (JJ good) (NN math) (NNS properties)) (PP (IN of) (NP (NNP SVM))) (, ,) (PP (JJ such) (IN as) (NP (DT the) (NN convex) (NN optimization))) (, ,)) (VP (VBZ is) (VP (VBN introduced) (PP (IN into) (NP (DT the) (NNP DSN) (NN framework))) (PP (IN by) (NP (PRP$ our) (NN model))))) (. .))

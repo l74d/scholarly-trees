@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT some) (NNS interests) (CC and) (NNS drawbacks)) (PP (IN of) (NP (DT the) (VBG existing) (NNS measures))))) (. .))
+(S (PP (IN On) (NP (DT these) (NNS observations))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NN contradiction))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (NP (DT the) (NN degree)) (PP (IN of) (NP (NN specificity)))) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN specificity)) (PP (IN of) (NP (DT a) (NN fusion) (NN rule)))))))))))) (. .))
+(S (NP (NP (NNS Illustrations)) (PP (IN on) (NP (JJ simple) (NNS examples)))) (VP (VBP are) (VP (VBN given))) (. .))

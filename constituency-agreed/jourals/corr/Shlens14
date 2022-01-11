@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB dispel) (NP (NP (DT the) (NN magic)) (PP (IN behind) (NP (DT this) (JJ black) (NN box)))))))) (. .))
+(S (NP (DT This) (NN manuscript)) (VP (VBZ focuses) (PP (IN on) (S (VP (VBG building) (NP (NP (DT a) (JJ solid) (NN intuition)) (PP (IN for) (SBAR (WHADVP (WRB how) (CC and) (WRB why)) (S (NP (JJ principal) (NN component) (NN analysis)) (VP (VBZ works)))))))))) (. .))
+(S (NP (DT This) (NN manuscript)) (VP (VBZ crystallizes) (NP (DT this) (NN knowledge)) (PP (IN by) (S (VP (VBG deriving) (PP (IN from) (NP (NP (JJ simple) (NNS intuitions)) (, ,) (NP (NP (DT the) (NNS mathematics)) (PP (IN behind) (NP (NNP PCA)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN robustness)))) (PP (IN in) (NP (JJ stable) (NN matching) (NNS problems)))) (. .))
+(S (NP (NP (PRP$ Our) (JJ empirical) (NN evaluation)) (PP (IN on) (NP (JJ large) (NNS instances)))) (VP (VBP show) (SBAR (IN that) (S (NP (JJ local) (NN search)) (VP (VBZ outperforms) (NP (DT the) (JJ other) (NNS approaches)))))) (. .))

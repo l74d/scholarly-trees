@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NNS errors)) (VP (MD can) (VP (VB become) (NP (DT a) (JJ significant) (NN issue)) (SBAR (IN if) (S (NP (DT the) (JJ unsafe) (NN program)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (JJ critical) (NNS systems))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (SBAR (IN if) (S (NP (DT a) (NN bug)) (VP (VBZ occurs) (PP (IN in) (NP (DT the) (NN blockchain)))))) (, ,) (NP (NP (JJ serious) (NNS consequences)) (PP (JJ such) (IN as) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (NN money)))))) (VP (MD can) (VP (VB happen))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (S (VP (VBG determining) (NP (NP (JJ suitable) (NN program) (NNS phases)) (CC and) (NP (PRP$ their) (VBN associated) (JJ optimal) (NNS frequencies))))) (VP (VBZ is) (NP (DT a) (JJ complex) (NN problem))) (. .))
+(S (NP (DT The) (NN problem) (NN solution)) (ADVP (RB then)) (VP (VBZ estimates) (NP (NP (DT the) (JJ minimal) (NN energy) (NN consumption)) (CC and) (NP (DT the) (JJ associated) (NN frequency) (NN schedule)))) (. .))

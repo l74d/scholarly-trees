@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Energy) (NN consumption)) (PP (IN for) (NP (JJ hot) (NN water) (NN production)))) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN draw)) (PP (IN in) (NP (JJ high) (NN efficiency) (NNS buildings))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NN optimization)) (ADVP (RB usually)) (VP (VBZ presupposes) (NP (NP (NN existence)) (PP (IN of) (NP (NP (DT a) (JJ detailed) (NNS dynamics) (NN model)) (PP (IN for) (NP (DT the) (JJ hot) (NN water) (NN system))))))) (. .))

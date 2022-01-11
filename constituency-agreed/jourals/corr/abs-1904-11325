@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NN practice))) (, ,) (NP (PRP$ its) (NN convergence)) (VP (VBZ is) (VP (VBN bottlenecked) (PP (IN by) (NP (NP (JJ slow) (NN communication) (NNS rounds)) (PP (IN between) (NP (NN worker) (NNS nodes))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (NN Debate)) (PP (IN about) (NP (NP (NN fairness)) (PP (IN in) (NP (NN machine) (NN learning)))))) (VP (VBZ has) (ADVP (RB largely)) (VP (VBN centered) (PP (IN around) (NP (NP (VBG competing) (NNS definitions)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (NP (NN fairness) (CC or) (NN nondiscrimination)) (PP (IN between) (NP (NNS groups)))) (VP (VBZ requires))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (DT this) (JJ ontological) (NN picture)) (VP (VBZ is) (ADJP (JJ false)))))) (. .))

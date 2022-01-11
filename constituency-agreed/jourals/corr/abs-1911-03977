@@ -1,0 +1,2 @@
+(S (NP (NP (DT Each)) (PP (IN of) (NP (DT these) (NNS tasks)))) (VP (VBZ involves) (NP (NP (DT a) (JJ single) (NN modality)) (PP (IN in) (NP (PRP$ their) (NN input) (NNS signals))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ many) (NNS applications)) (PP (IN in) (NP (DT the) (JJ artificial) (NN intelligence) (NN field)))) (VP (VBP involve) (NP (JJ multiple) (NNS modalities))) (. .))

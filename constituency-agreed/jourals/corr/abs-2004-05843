@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (JJ limited) (NN communication) (NN bandwidth)) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN bottleneck)) (PP (IN of) (NP (NP (NN model) (NN aggregation)) (PP (IN for) (NP (NP (JJ federated) (NN machine) (NN learning)) (PP (IN over) (NP (NN radio) (NNS channels))))))))) (. .))

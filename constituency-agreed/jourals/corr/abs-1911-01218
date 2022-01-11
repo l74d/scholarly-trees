@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ has) (VP (VBN motivated) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (JJ semi-supervised) (NNS techniques)) (SBAR (WHNP (WDT that)) (S (VP (VBP learn) (PP (IN from) (NP (NP (DT a) (NN mixture)) (PP (IN of) (NP (ADJP (VBN labeled) (CC and) (JJ unlabeled)) (NNS images))))))))))))) (. .))

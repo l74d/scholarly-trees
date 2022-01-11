@@ -1,0 +1,2 @@
+(S (NP (JJ Convolutional) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN achieved) (NP (JJ astonishing) (NNS results)) (PP (IN in) (NP (JJ different) (NN application) (NNS areas))))) (. .))
+(S (ADVP (RB Especially)) (NP (JJ binary) (JJ neural) (NNS networks)) (VP (VBP seem) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ promising) (NN approach)) (PP (IN for) (NP (NP (DT these) (NNS devices)) (PP (IN with) (NP (JJ low) (JJ computational) (NN power)))))))))) (. .))

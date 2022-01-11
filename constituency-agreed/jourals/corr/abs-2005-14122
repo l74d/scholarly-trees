@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG allocating) (NP (JJ indivisible) (NNS goods)) (PP (IN among) (NP (NP (NNS agents)) (PP (IN with) (NP (JJ additive) (NNS valuations)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP settle) (NP (DT this)) (ADVP (RB positively)) (PP (IN by) (S (VP (VBG designing) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ achieves) (NP (DT both) (NNS properties)) (ADVP (RB simultaneously)))))))))) (. .))

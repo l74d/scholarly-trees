@@ -1,0 +1,1 @@
+(S (ADVP (RB Indeed)) (, ,) (PP (IN for) (NP (NP (DT a) (JJ certain) (NN amount)) (PP (IN of) (NP (NNS measurements))))) (NP (DT the) (NN tuning) (NN parameter)) (VP (VBZ becomes) (ADJP (JJ independent) (PP (IN on) (NP (DT the) (NN sparsity))))) (. .))

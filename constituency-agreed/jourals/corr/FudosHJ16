@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT no) (NN solution)) (VP (VBZ exists)))) (, ,) (NP (DT the) (NN solver)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB announce) (SBAR (IN that) (S (NP (DT no) (NN solution)) (VP (VBZ has) (VP (VBN been) (VP (VBN found))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP$ our) (NN architecture)) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG estimating) (NP (DT a) (JJ full) (NN disparity) (NN map)) (PP (IN in) (NP (DT a) (JJ single) (NN forward) (NN pass))))))) (, ,) (SBAR (IN whereas) (S (NP (DT the) (NN baseline)) (VP (VBZ needs) (NP (CD two) (NNS passes)))))) (. .))

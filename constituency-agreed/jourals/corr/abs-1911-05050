@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNS agents)) (VP (VBP do) (RB not) (VP (VB have) (NP (NP (DT any) (NN information)) (PP (IN about) (NP (DT the) (NN future)))))) (. .))
+(S (NP (PRP We)) (VP (VBP verify) (NP (PRP$ our) (JJ theoretical) (NNS results)) (PP (IN through) (NP (JJ numerical) (NNS experiments)))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NNP PCA)) (VP (VBZ has) (NP (CD two) (JJ major) (NNS weaknesses))) (. .))
+(S (NP (JJ Variable) (NNS transformations)) (VP (VP (VBP are) (ADJP (JJ unknown))) (, ,) (VP (MD can) (VP (VB be) (ADJP (JJ nonlinear)))) (CC and) (VP (VBP are) (VP (VBN computed) (PP (IN in) (NP (DT an) (NN optimization)))))) (. .))

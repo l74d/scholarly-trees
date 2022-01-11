@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NP (DT a) (JJ non-cut) (NN set)) (PP (IN of) (NP (NNS lines)))) (VP (VBP are) (VP (VBN tripped) (ADVP (RB simultaneously)))))) (, ,) (NP (PRP$ its) (NN impact)) (VP (VBZ is) (VP (VBN localized) (PP (IN within) (NP (NP (DT each) (NN cell)) (SBAR (WHNP (WDT that)) (S (VP (VBZ contains) (NP (DT a) (NN line) (NN outage))))))))) (. .))

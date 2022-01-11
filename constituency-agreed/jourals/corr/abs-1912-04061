@@ -1,0 +1,2 @@
+(S (S (VP (VBG Tuning) (NP (DT a) (NN data) (NN miner)) (PP (IN for) (PP (IN for) (NP (NN software) (NNS analytics)))))) (VP (VBZ is) (NP (NP (NN something)) (PP (IN of) (NP (DT a) (JJ black) (NN art))))) (. .))
+(S (CC But) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP show)))) (, ,) (NP (DT the) (JJ same)) (VP (VBD was) (RB not) (VP (VBN observed) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBD applied) (NP (PRP it)) (PP (IN on) (NP (JJ non-SE) (NNS data)))))))) (. .))

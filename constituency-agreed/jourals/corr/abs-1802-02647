@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN complexity) (NN level)) (PP (IN of) (NP (DT a) (NN block)))) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT the) (JJ total) (NN number)) (PP (IN of) (NP (NP (JJ non-zero) (NNS components)) (PP (IN of) (NP (NP (DT a) (JJ sparse) (NN representation)) (PP (IN of) (NP (DT that) (NN block))))))))))) (. .))

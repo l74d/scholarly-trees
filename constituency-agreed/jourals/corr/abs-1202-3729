@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (JJ general) (NN case)) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBP are) (NP (NP (DT no) (NNS restrictions)) (PP (IN on) (NP (NN transition) (NNS costs))))))))) (, ,) (NP (DT the) (NN analysis)) (VP (VBZ is) (ADJP (RBR more) (JJ complex))) (. .))
+(S (CC But) (NP (PRP we)) (VP (VBP present) (NP (NP (JJ preliminary) (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBP show) (SBAR (S (NP (JJ such) (NNS bounds)) (VP (VBP are) (ADJP (JJ possible)))))))))) (. .))

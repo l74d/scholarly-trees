@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ additive) (NN noise) (NNS signals)) (PP (IN on) (NP (DT each) (NN measurement) (NN vector)))) (VP (VBP are) (VP (VBN assumed) (S (VP (VP (TO to) (VP (VB be) (ADJP (JJ Gaussian)))) (CC and) (VP (TO to) (VP (VB exhibit) (NP (JJ different) (NNS variances)))))))) (. .))

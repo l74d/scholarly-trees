@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP apply) (NP (PRP$ our) (NN method)) (PP (TO to) (NP (NNP AdaGrad))) (PP (IN in) (S (VP (VBG training) (NP (JJ deep) (JJ neural) (NNS networks)))))) (. .))

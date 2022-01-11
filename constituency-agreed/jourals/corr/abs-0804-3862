@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (S (VP (TO to) (VP (VB detect) (CC and) (VB track) (NP (NP (NN feature) (NNS points)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (NNS factors)) (PP (IN of) (NP (NN navigation)))))))))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (NN fixation) (NNS areas)) (VP (VBP are) (VP (VP (VBN detected) (PP (IN as) (NP (NNS sub-images)))) (CC and) (VP (VBN matched)))) (. .))

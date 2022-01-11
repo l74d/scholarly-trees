@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (JJ main) (NN tool)) (PP (IN for) (S (VP (VBG updating) (NP (NNS probabilities)))))) (VP (VBZ is) (NP (DT the) (JJ logarithmic) (JJ relative) (NN entropy)))) (: ;) (S (NP (NP (JJ other) (NNS entropies)) (PP (JJ such) (IN as) (NP (NP (DT those)) (PP (IN of) (NP (NNP Renyi) (CC or) (NNP Tsallis)))))) (VP (VBP are) (VP (VBN ruled) (PRT (RP out))))) (. .))

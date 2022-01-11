@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ softmax) (JJ cross-entropy) (NN loss) (NN function)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN used) (PP (IN for) (NP (NN classification) (NNS tasks))))) (. .))

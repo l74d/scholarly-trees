@@ -1,0 +1,2 @@
+(S (PP (IN Under) (NP (NP (DT a) (ADJP (RB slightly) (JJ stringent)) (NN condition)) (PP (IN on) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (DT the) (JJ true) (NN game))))))) (, ,) (NP (PRP$ our) (NN method)) (VP (VBZ recovers) (NP (NP (DT the) (JJ exact) (NN structure)) (PP (IN of) (NP (DT the) (JJ graphical) (NN game))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ runs) (PP (IN in) (NP (JJ polynomial) (NN time)))) (. .))

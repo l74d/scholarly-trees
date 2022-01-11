@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (VBN proposed) (NN ePFC) (POS 's)) (NN stability)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN by) (NP (NNP Lyapunov) (NN approach)))))) (, ,) (CC and) (S (NP (PRP$ its) (NN performance)) (VP (VBZ is) (VP (VBN simulated) (PP (IN in) (NP (DT a) (NNP Matlab) (NN environment)))))) (. .))

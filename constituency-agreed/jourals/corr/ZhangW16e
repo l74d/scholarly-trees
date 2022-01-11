@@ -1,0 +1,3 @@
+(S (ADVP (RB Surprisingly)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (JJ prior) (NN work)) (SBAR (WHNP (WDT that)) (S (VP (VBD tried) (S (VP (TO to) (VP (VB study) (NP (PRP it)))))))))) (. .))
+(S (NP (DT Each) (NN error)) (VP (VBZ represents) (NP (NP (CD one) (NN aspect)) (PP (IN of) (NP (NN stability))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP it)) (ADVP (RB indeed)) (VP (VBZ captures) (NP (NP (DT a) (JJ different) (NN perspective)) (PP (IN of) (NP (NN quality))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ incorporates) (NP (NP (DT the) (NN trip) (NN compatibility)) (PP (IN for) (NP (NP (DT the) (NN scheduling) (NN problem)) (PP (IN in) (NP (DT the) (NN routing) (NN problem))))))) (. .))
+(S (SBAR (IN Since) (S (NP (DT the) (NN problem)) (VP (VBZ is) (ADVP (RB inherently)) (NP (RB just) (DT a) (NN routing) (NN problem))))) (, ,) (S (VP (VBG finding) (NP (DT a) (JJ good) (NN solution)))) (VP (VBZ is) (RB not) (ADJP (JJ cumbersome))) (. .))
+(S (S (VP (TO To) (VP (VB compare) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN model)))) (PP (IN with) (NP (JJ traditional) (NN routing) (NNS problems)))))) (, ,) (NP (PRP we)) (VP (VBP generate) (NP (CD eight) (JJ mid-size) (NNS data) (NNS sets))) (. .))

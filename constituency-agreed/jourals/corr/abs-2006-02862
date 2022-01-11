@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ is) (VP (VBN done) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN research) (NN master) (POS 's)) (NN thesis) (NN project))))))) (. .))
+(S (S (VP (TO To) (VP (VB do) (NP (DT this))))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VBD transformed) (NP (DT the) (NN input) (NN ontology)) (PP (IN into) (NP (NP (DT an) (NNP RDF) (NN graph)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reflects) (NP (NP (DT the) (NNS semantics)) (VP (VBN represented) (PP (IN in) (NP (DT the) (NN ontology))))))))))) (. .))

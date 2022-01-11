@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN method)) (ADVP (RB generally)) (VP (VBZ works) (ADVP (RBR better)) (PP (IN in) (NP (JJ large) (NNS networks)))) (. .))
+(S (NP (DT These) (NN finding)) (VP (VBP are) (VP (VBN confirmed) (PP (IN in) (NP (DT both) (JJ real) (ADJP (JJ social) (CC and) (JJ nonsocial)) (NNS networks))))) (. .))

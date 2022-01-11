@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (JJ smooth) (NNS solutions))) (, ,) (NP (JJR higher) (NN order) (NNS approximations)) (VP (MD can) (VP (VB be) (ADJP (RB particularly) (JJ efficient)) (SBAR (IN since) (S (NP (NNS errors)) (VP (VBP decrease) (ADVP (RB exponentially)) (PP (IN in) (NP (DT the) (JJ polynomial) (NN degree)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ trained) (NN network)) (VP (VP (VBZ operates) (PP (IN at) (NP (JJ full) (NN resolution)))) (CC and) (VP (VBZ runs) (PP (IN in) (NP (JJ constant) (NN time))))) (. .))
+(S (NP (DT All) (NNS operators)) (VP (VBP are) (VP (VBN approximated) (PP (IN by) (NP (DT the) (JJ same) (NN model))))) (. .))

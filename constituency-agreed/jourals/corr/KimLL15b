@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ final) (NN model)) (VP (VBZ uses) (NP (CD 20) (NN weight) (NNS layers))) (. .))
+(S (PP (IN With) (NP (ADJP (RB very) (JJ deep)) (NNS networks))) (, ,) (ADVP (RB however)) (, ,) (NP (NN convergence) (NN speed)) (VP (VBZ becomes) (NP (DT a) (JJ critical) (NN issue)) (PP (IN during) (NP (NN training)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN regularization)) (VP (VBZ pushes) (NP (DT the) (NNS weights)) (PP (IN into) (NP (NP (JJ discrete) (NNS points)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN encoded) (PP (IN as) (NP (NNS integers))))))))))) (. .))

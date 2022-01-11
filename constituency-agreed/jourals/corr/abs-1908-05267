@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (, ,) (ADVP (RB however)) (, ,) (SBAR (IN that) (S (PP (IN in) (NP (DT the) (JJ popular) (NNP FEVER) (NN dataset))) (NP (DT this)) (VP (MD might) (RB not) (ADVP (RB necessarily)) (VP (VB be) (NP (DT the) (NN case))))))) (. .))
+(S (NP (PRP We)) (VP (VBP create) (NP (NP (DT an) (NN evaluation) (NN set)) (SBAR (WHNP (WDT that)) (S (VP (VBZ avoids) (NP (DT those) (NNS idiosyncrasies))))))) (. .))

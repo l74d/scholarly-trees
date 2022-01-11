@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (NP (CD three) (JJ discriminative) (NNS models)) (PP (IN with) (NP (JJ different) (NNS encoders) (CC and) (NNS decoders)))))) (PP (IN for) (NP (PRP$ our) (JJ final) (NN submission)))) (. .))

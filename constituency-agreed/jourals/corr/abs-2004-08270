@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (JJ geodesic) (NNS distances)) (SBAR (IN since) (S (NP (NP (NN voxel) (NNS features)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ spatial) (NN relationship)) (PP (IN among) (NP (NNS voxels))))) (VP (VBZ is) (VP (VBN incorporated) (PP (IN in) (NP (DT this) (NN measure)))))))) (. .))

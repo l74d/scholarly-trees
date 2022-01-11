@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN computation)) (VP (VBZ is) (VP (VBN done) (PP (IN in) (NP (CD two) (NNS steps))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN prediction) (NN step))) (, ,) (NP (NP (DT an) (NN approximation)) (PP (IN of) (NP (DT the) (JJ pseudospectral) (NN abscissa)))) (VP (VBZ is) (VP (VBN obtained) (PP (VBN based) (PP (IN on) (NP (NP (NP (DT a) (JJ rational) (NN approximation)) (PP (IN of) (NP (DT the) (JJ characteristic) (NN matrix)))) (CC and) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (DT a) (NN bisection) (NN algorithm))))))))) (. .))

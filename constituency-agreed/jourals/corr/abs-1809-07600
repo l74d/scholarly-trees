@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT the) (NN style) (NN transfer)))) (PP (IN by) (S (VP (VBG training) (NP (JJ separate) (NN style) (NN validation) (NNS classifiers)))))) (. .))

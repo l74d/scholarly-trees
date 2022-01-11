@@ -1,0 +1,1 @@
+(S (NP (NP (DT All) (NNS examples)) (VP (VBN described) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VBP are) (VP (VBN verified) (ADVP (RB mechanically)) (PP (IN in) (NP (NNP Coq))))) (. .))

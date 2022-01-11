@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ their) (NN generalization) (NN performance)) (VP (MD can) (VP (VB be) (VP (VBN improved) (ADVP (RB significantly)) (PP (IN by) (NP (NP (JJ Bayesian) (NN learning)) (PP (IN of) (NP (DT the) (JJ same) (NN form))))))))))) (. .))

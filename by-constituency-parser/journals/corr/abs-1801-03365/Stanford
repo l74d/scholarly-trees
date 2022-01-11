@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP discuss) (NP (NP (CD five) (NNS ways)) (PP (IN of) (S (VP (VBG proving) (NP (NP (NNP Chernoff) (POS 's)) (VP (VBN bound)))))))) (CC and) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (VBP lead) (PP (IN to) (NP (NP (JJ different) (NNS extensions)) (PP (IN of) (NP (DT the) (JJ basic) (VBN bound)))))))))) (. .))

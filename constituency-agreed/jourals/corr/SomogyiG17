@@ -1,0 +1,2 @@
+(S (NP (JJ Biological) (NNS cells)) (VP (VBP are) (NP (NP (DT the) (JJ prototypical) (NN example)) (PP (IN of) (NP (JJ active) (NN matter))))) (. .))
+(S (NP (DT A) (NN compiler)) (VP (MD must) (ADVP (RB then)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB generate) (NP (DT an) (JJ executable) (NN model)) (PP (IN from) (NP (DT this) (ADJP (RB physically) (JJ motivated)) (NN description))))))))) (. .))

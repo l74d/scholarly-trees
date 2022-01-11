@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ malicious) (NN attacker)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB compromise) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (NNS agents))))) (CC and) (VP (VB manipulate) (NP (DT the) (NNS observations)) (ADVP (RB arbitrarily)))))))) (. .))

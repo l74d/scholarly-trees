@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ is) (ADJP (JJ free) (PP (IN from) (NP (NNS collisions) (CC and) (NNS deadlocks))))) (, ,) (CC and) (VP (VBZ handles) (NP (NP (DT a) (JJ dynamic) (NN arrival)) (PP (IN of) (NP (NNS robots)))))) (. .))

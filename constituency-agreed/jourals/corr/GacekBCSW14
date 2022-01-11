@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Arguments)) (PP (IN about) (NP (NP (DT the) (NN safety) (, ,) (NN security) (, ,) (CC and) (NN correctness)) (PP (IN of) (NP (DT a) (JJ complex) (NN system)))))) (VP (VBP are) (ADVP (RB often)) (VP (VBN made) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT an) (NN assurance) (NN case))))))) (. .))
+(S (NP (DT The) (NN argument)) (VP (MD may) (VP (VB combine) (NP (NP (JJ different) (NNS kinds)) (PP (IN of) (NP (NN evidence)))) (S (VP (TO to) (VP (VB justify) (NP (PRP$ its) (JJ top) (NN level) (NN claim))))))) (. .))

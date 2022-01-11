@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB estimate) (NP (NP (DT the) (NN location) (CC and) (NN orientation)) (PP (IN of) (NP (DT the) (NN robot))))))) (, ,) (NP (PRP we)) (VP (VBP investigate) (S (VP (VBG using) (NP (CD four) (NNS cameras)) (PP (PP (IN as) (NP (JJ non-overlapping) (NNS individuals))) (, ,) (CC and) (PP (IN as) (NP (CD two) (NN stereo) (NNS pairs))))))) (. .))
+(S (NP (NP (DT The) (NNS pros) (CC and) (NNS cons)) (PP (IN of) (NP (DT the) (CD two) (NNS approaches)))) (VP (VBP are) (VP (VBN elucidated))) (. .))

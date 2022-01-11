@@ -1,0 +1,2 @@
+(S (NP (VBG Phishing) (NNS attacks)) (VP (VBP are) (VP (VBG becoming) (ADJP (RBR more) (JJ frequent) (CC and) (JJ sophisticated)))) (. .))
+(S (NP (NP (DT The) (NN impact)) (PP (IN of) (NP (NN phishing)))) (VP (VBZ is) (ADJP (JJ drastic) (CC and) (JJ significant)) (SBAR (IN since) (S (NP (PRP it)) (VP (MD can) (VP (VB involve) (NP (NP (DT the) (NN risk)) (PP (IN of) (NP (NP (NN identity) (NN theft)) (CC and) (NP (JJ financial) (NNS losses)))))))))) (. .))

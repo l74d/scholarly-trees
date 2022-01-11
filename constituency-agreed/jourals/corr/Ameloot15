@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (VP (VBZ uses) (NP (NP (JJ positive) (NN connection) (NNS weights)) (CC and) (NP (JJ multiple) (NN input) (NNS neurons)))) (. .))
+(S (NP (JJ Different) (NNS behaviors)) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN by) (S (VP (VBG varying) (NP (DT the) (NN connection) (NNS weights)))))))) (. .))

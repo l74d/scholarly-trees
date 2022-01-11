@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (NN summarization) (NN framework)) (PP (IN for) (NP (NP (NNS reviews)) (PP (IN of) (NP (NNS products) (CC and) (NNS services)))))) (PP (IN by) (S (VP (VBG selecting) (NP (ADJP (JJ informative) (CC and) (JJ concise)) (NN text) (NNS segments)) (PP (IN from) (NP (DT the) (NNS reviews))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (JJ major) (NNS steps)))) (. .))

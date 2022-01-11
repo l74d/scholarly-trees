@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP suggest) (NP (CD four) (NNS principles))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT these) (NNS principles)) (PP (IN with) (NP (DT an) (NN example)))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (PP (IN for) (NP (NN discussion))) (NP (NP (DT a) (NN framework) (CC and) (NN terminology)) (PP (IN for) (S (VP (VBG evaluating) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (JJ analytical) (NN spreadsheet) (NNS models))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP suggest) (SBAR (IN that) (S (NP (DT the) (JJ ultimate) (NN goal)) (VP (VBZ is) (NP (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS guidelines)) (PP (IN for) (NP (DT an) (NN evaluator)))))) (, ,) (CC and) (NP (NP (DT a) (NN checklist)) (PP (IN for) (NP (DT a) (NN developer))))))))) (. .))

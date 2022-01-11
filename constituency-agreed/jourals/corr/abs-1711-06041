@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN cooperation)) (PP (IN among) (NP (DT the) (JJ smart) (NNS filters)))) (VP (VBZ is) (VP (VBN supervised) (PP (IN by) (NP (DT a) (JJ central) (NN controller))))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NNP MECshield) (NN framework)))) (VP (VBZ is) (VP (VBN verified) (S (VP (VBG using) (NP (CD three) (JJ typical) (NNP IoT) (NN traffic) (NNS scenarios)))))) (. .))
+(S (NP (DT The) (JJ numerical) (NNS results)) (VP (VBP reveal) (SBAR (IN that) (S (NP (NNP MECshield)) (VP (VBZ outperforms) (NP (VBG existing) (NNS solutions)))))) (. .))

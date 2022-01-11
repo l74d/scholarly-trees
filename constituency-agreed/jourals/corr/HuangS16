@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN dataset)) (VP (VBZ is) (ADJP (JJ crucial) (PP (IN for) (NP (NN model) (NN learning) (CC and) (NN evaluation))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP compare) (NP (DT the) (NNS datasets))) (CC and) (VP (VB summarize) (NP (PRP them)))) (. .))

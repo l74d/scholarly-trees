@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN satisfiability) (NN problem)) (PP (IN for) (NP (NP (DT the) (JJ fluted) (NN fragment)) (PP (IN with) (NP (NP (CD one) (JJ transitive) (NN relation)) (CC and) (NP (NN equality))))))) (VP (VBZ remains) (ADJP (JJ decidable)))))) (. .))

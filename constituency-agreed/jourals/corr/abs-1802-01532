@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (NNS data)))) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB fit) (NP (DT an) (JJ effective) (JJ predictive) (NN model))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP assess) (SBAR (IN whether) (S (NP (VBN simulated) (NNS data)) (VP (MD can) (VP (VB help) (S (VP (VB alleviate) (NP (DT this) (NN issue))))))))) (. .))

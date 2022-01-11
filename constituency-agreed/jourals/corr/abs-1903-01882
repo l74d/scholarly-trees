@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ smooth) (NN kernel) (NN regularizer)) (SBAR (WHNP (WDT that)) (S (VP (VBZ encourages) (NP (NP (JJ spatial) (NNS correlations)) (PP (IN in) (NP (NN convolution) (NN kernel) (NNS weights))))))))) (. .))

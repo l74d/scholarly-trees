@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (NNS theories)) (VP (VBP are) (VP (VBN expressed) (ADVP (RB formally)) (PP (IN as) (NP (JJ computational) (NNS models))))))) (, ,) (NP (NP (VBG existing) (NNS languages)) (PP (IN for) (S (VP (VBG encoding) (CC and) (VBG automating) (NP (JJ experimental) (NNS protocols)))))) (ADVP (RB often)) (VP (VBP lack) (NP (JJ formal) (NNS semantics))) (. .))

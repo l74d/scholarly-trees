@@ -1,0 +1,2 @@
+(S (S (VP (VBG Playing) (NP (NNP Minesweeper)))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ co-NP-complete))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP comment) (PP (IN on) (NP (NP (NNS expectations)) (PP (IN for) (NP (NP (DT the) (JJ asymptotic) (NN behavior)) (PP (IN of) (NP (DT the) (NN phase) (NN transition)))))))) (. .))

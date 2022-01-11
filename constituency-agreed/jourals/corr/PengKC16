@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ non-convex) (NN approach)) (, ,) (NP (NNP AltProj)) (, ,)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBN proposed) (PP (IN with) (NP (NP (JJR lighter) (NN complexity)) (CC and) (NP (JJR better) (NN scalability))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ does) (RB not) (VP (VB need) (NP (NP (DT the) (JJ precise) (NN value)) (PP (IN of) (NP (DT the) (JJ true) (NN rank)))))) (. .))

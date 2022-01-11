@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN structure)) (VP (VBZ is) (VP (VBN identified) (PP (IN as) (S (VP (VBG having) (NP (NP (DT the) (JJ formal) (JJ mathematical) (NN structure)) (PP (IN of) (NP (DT a) (NN sheaf))))))))) (. .))
+(S (PP (IN In) (NP (NN essence))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ introduces) (NP (NP (DT the) (JJ basic) (NNS concepts)) (PP (IN of) (NP (NN sheaf) (NN theory)))) (PP (IN into) (NP (NP (DT the) (NN domain)) (PP (IN of) (NP (JJ graphical) (NNS datasets)))))) (. .))

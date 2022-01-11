@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NNS journalists)) (VP (VBP cover) (NP (DT a) (NN news) (NN story))))) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB cover) (NP (DT the) (NN story)) (PP (IN from) (NP (JJ multiple) (NNS angles) (CC or) (NNS perspectives))))) (. .))
+(S (NP (NNS Researchers)) (VP (MD can) (VP (VP (VB submit) (NP (PRP$ their) (NNS documents))) (CC and) (VP (VB obtain) (NP (NP (NNS frames)) (PP (IN of) (NP (DT the) (NNS documents))))))) (. .))

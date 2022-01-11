@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN model)) (VP (VBZ is) (VP (VBN benchmarked) (PP (IN against) (NP (VBN measured) (NN silicon) (NNS data))))) (. .))
+(S (NP (DT The) (JJ analytical) (NN framework)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (JJ optimal) (NN energy) (NN partition) (NN point)) (PP (IN between) (NP (NP (DT the) (NN client)) (CC and) (NP (DT the) (NN cloud))))) (PP (IN at) (NP (NN runtime)))))))) (. .))

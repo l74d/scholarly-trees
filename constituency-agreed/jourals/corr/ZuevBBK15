@@ -1,0 +1,2 @@
+(S (S (NP (DT All) (JJ real) (NNS networks)) (VP (VBP are) (ADJP (JJ different)))) (, ,) (CC but) (S (NP (JJ many)) (VP (VBP have) (NP (NP (DT some) (JJ structural) (NNS properties)) (PP (IN in) (NP (JJ common)))))) (. .))
+(S (ADVP (RB Surprisingly)) (, ,) (NP (EX there)) (VP (VBZ exists) (NP (NP (DT no) (JJ simple) (JJ generative) (NN mechanism)) (VP (VBG explaining) (NP (PDT all) (DT the) (CD three) (NNS properties)) (ADVP (IN at) (RB once)) (PP (IN in) (NP (VBG growing) (NNS networks)))))) (. .))

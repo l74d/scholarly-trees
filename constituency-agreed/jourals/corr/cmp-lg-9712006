@@ -1,0 +1,2 @@
+(S (NP (NNP Word) (NN sense) (NN disambiguation)) (VP (VBZ assumes) (NP (NN word) (NNS senses))) (. .))
+(S (PP (IN In) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (JJ such) (NNS purposes))))) (, ,) (NP (NN word) (NNS senses)) (VP (VBP do) (RB not) (VP (VB exist))) (. .))

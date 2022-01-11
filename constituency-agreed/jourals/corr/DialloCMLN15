@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ temporal) (NNS phenomena)) (VP (VBP have) (NP (NP (JJ many) (NNS facets)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN studied) (PP (IN by) (NP (JJ different) (NNS communities))))))))) (. .))
+(S (NP (DT These) (NNS data)) (ADVP (RB often)) (VP (VBP have) (NP (NP (ADJP (JJ informal) (, ,) (JJ semi-formal) (CC or) (JJ formal)) (JJ temporal) (NN information)) (SBAR (WHNP (WDT which)) (S (VP (MD must) (VP (VB be) (VP (VBN interpreted) (PP (IN by) (NP (NN software) (NNS agents)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN information)) (VP (VBZ is) (ADVP (RB later)) (VP (VBN utilized) (PP (IN in) (NP (NP (DT a) (JJ post-processing) (NN step)) (SBAR (WHNP (WDT that)) (S (VP (VBZ translates) (NP (DT every) (NNP OOV) (NN word)) (S (VP (VBG using) (NP (DT a) (NN dictionary))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN system)) (VP (VBD exhibited) (NP (NP (DT a) (NN classification) (NN accuracy)) (PP (IN of) (NP (CD 0.831)))) (SBAR (WHADVP (WRB when)) (S (VP (VBG classifying) (NP (CD 15) (JJ acoustic) (NNS scenes)))))) (. .))

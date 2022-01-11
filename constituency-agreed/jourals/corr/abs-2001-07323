@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN advantage)) (PP (IN of) (NP (DT a) (NN kernel) (NN method)))) (ADVP (RB often)) (VP (VBZ depends) (ADVP (RB critically)) (PP (IN on) (NP (NP (DT a) (JJ proper) (NN choice)) (PP (IN of) (NP (DT the) (NN kernel) (NN function)))))) (. .))
+(S (NP (DT A) (JJ promising) (NN approach)) (VP (VBZ is) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NN kernel)) (PP (IN from) (NP (NNS data))) (ADVP (RB automatically)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (JJ nonlinear) (NN face) (NN verification)) (PP (IN via) (S (VP (VBG learning) (NP (DT the) (NN kernel) (NN matrix)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (DT A) (JJ few) (JJ such) (NNS tools)) (VP (VBP are) (ADJP (JJ available)))) (CC and) (S (NP (PRP they)) (VP (VBP are) (ADVP (RB mostly)) (VP (VBN derived) (PP (IN from) (NP (JJ optical) (NN character) (NN recognition)))))) (. .))
+(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ deep) (JJ neural) (NN network) (NN model)) (PP (IN for) (NP (JJ optical) (NN compound) (NN recognition))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ final) (NN algorithm)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN derived) (PP (IN by) (NP (JJ abstract) (NN interpretation))))) (. .))
+(S (NP (NP (DT The) (JJ combinatorial) (NN explosion)) (, ,) (VP (VBN ensued) (PP (IN from) (NP (NP (DT the) (JJ explicit) (NN consideration)) (PP (IN of) (NP (DT all) (NNS interleavings)))))) (, ,)) (VP (VBZ is) (ADVP (RB thus)) (VP (VBN avoided))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN implemented) (NP (NN prototype) (NNS tools)) (, ,) (S (VP (VBG demonstrating) (NP (NP (DT the) (NN practicality)) (PP (IN of) (NP (DT the) (NN approach)))))))) (. .))

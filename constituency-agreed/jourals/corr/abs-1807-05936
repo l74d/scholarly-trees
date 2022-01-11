@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBG reinterpreting) (NP (DT the) (JJ variational) (NN inference)) (PP (IN in) (NP (DT a) (JJ new) (NN perspective)))) (. .))
+(S (S (NP (DT The) (NN proof)) (ADVP (RB also)) (VP (VBZ reveals) (SBAR (S (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (JJ standard) (NNP GAN)))) (VP (VBZ is) (ADJP (JJ incomplete))))))) (CC and) (S (NP (PRP it)) (VP (VBZ explains) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB train) (NP (NNP GAN)) (ADVP (RB cautiously)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP extend) (NP (JJ additive) (NN hardness) (NNS results))) (, ,) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (JJ broad) (NN range)) (PP (IN of) (NP (NNS functions)))) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN as) (NP (NP (DT the) (NN difference)) (PP (IN of) (NP (JJ submodular) (NNS functions)))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (PP (IN in) (NP (NP (DT the) (JJ special) (NN case)) (PP (IN of) (NP (JJ non-negative) (NNS ensembles))))) (, ,) (NP (DT a) (NN sparsity) (NN condition)) (VP (VBZ is) (ADJP (JJ sufficient) (PP (IN for) (NP (JJ exact) (NN recovery)))))))) (. .))

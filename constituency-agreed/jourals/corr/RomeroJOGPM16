@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD developed) (NP (NP (DT a) (JJ new) (NN version)) (PP (IN of) (NP (DT the) (NNP NCBO) (NNP Ontology) (NNP Recommender))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (MD can) (VP (VB be) (VP (VBN customized) (S (VP (TO to) (VP (VB fit) (NP (NP (DT the) (NNS needs)) (PP (IN of) (NP (JJ different) (NNS scenarios)))))))))) (. .))

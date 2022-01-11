@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NNP SetIntersection) (NN variant))) (, ,) (NP (NP (PDT all) (DT the) (NNS elements)) (PP (IN in) (NP (NP (DT the) (NN intersection)) (PP (IN of) (NP (DT the) (NN query) (NNS sets)))))) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB be) (VP (VBN reported))))))) (. .))

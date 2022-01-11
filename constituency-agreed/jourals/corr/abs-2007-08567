@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ dynamic) (NN system)) (VP (VBZ is) (NP (NP (DT a) (NN system)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NNS rates)) (PP (IN of) (NP (NP (NNS changes)) (PP (IN of) (NP (PRP$ its) (NN state) (NNS variables)))))) (VP (VBP are) (RB not) (ADJP (JJ negligible))))))) (. .))
+(S (NP (NNP Quantum) (NN cryptography)) (VP (VBZ is) (NP (NP (DT a) (NN capability)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (NP (VBN guaranteed) (NN security))))))) (. .))

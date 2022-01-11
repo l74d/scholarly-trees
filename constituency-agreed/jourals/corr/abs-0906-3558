@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP hypothesize) (SBAR (IN that) (S (NP (NP (DT the) (JJ same) (JJ functional) (NN relation)) (PP (IN between) (NP (NN achievement) (CC and) (NN fame)))) (VP (VBZ holds) (PP (IN for) (NP (JJ other) (NNS professions))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (PRP$ our) (NNS results)) (PP (IN with) (NP (NP (NNP Landau) (POS 's)) (NN ranking)))) (. .))

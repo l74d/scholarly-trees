@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB enhance) (NP (NP (NN effectiveness)) (PP (IN of) (NP (NNS calculations))))))) (, ,) (NP (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN parallelized) (S (VP (VBG using) (NP (NNP OpenMP) (NN library))))))) (. .))

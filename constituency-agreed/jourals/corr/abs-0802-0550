@@ -1,0 +1,2 @@
+(S (NP (NNP Energy) (NN consumption)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN factor)) (SBAR (WHNP (WDT that)) (S (VP (VBZ determines) (NP (NN sensor) (NN node) (NN lifetime))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (NP (DT the) (NNP SAND) (POS 's)) (NN algorithm)) (, ,) (NP (NP (PRP$ its) (NN analysis)) (PP (IN of) (NP (NN convergence)))) (, ,) (CC and) (NP (NN simulation) (NNS results)))) (. .))

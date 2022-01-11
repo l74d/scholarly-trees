@@ -1,0 +1,2 @@
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN energy)) (PP (IN on) (NP (NN board)))) (VP (VP (VBZ is) (ADJP (JJ minimal))) (CC and) (VP (MD must) (VP (VB be) (VP (VBN conserved) (CC and) (VBN used) (ADVP (RB sparingly)))))) (. .))
+(S (S (NP (DT No) (NN exoplanet) (NNS images)) (VP (MD should) (VP (VB be) (VP (VBN missed))))) (, ,) (CC but) (S (S (VP (VBG using) (NP (NN energy)) (ADVP (RB erroneously)))) (VP (MD would) (VP (VB be) (ADJP (JJ detrimental))))) (. .))

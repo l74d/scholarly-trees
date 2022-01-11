@@ -1,0 +1,3 @@
+(S (S (NP (NP (JJ Many) (JJ adversarial) (NN attack) (NNS approaches)) (PP (IN for) (NP (NN classification) (NNS problems)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed))))) (, ,) (CC but) (S (NP (JJ few)) (VP (VBP have) (VP (VBN considered) (NP (NP (NN target) (JJ adversarial) (NNS attacks)) (PP (IN for) (NP (NN regression) (NNS problems))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (CD two) (JJ such) (NNS approaches))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (CD two) (NNP BCI) (NN regression) (NNS problems)))) (VP (VBD verified) (SBAR (IN that) (S (NP (DT both) (NNS approaches)) (VP (VBP are) (ADJP (JJ effective)))))) (. .))

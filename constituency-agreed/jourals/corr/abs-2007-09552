@@ -1,0 +1,2 @@
+(S (NP (NN Super-resolution)) (VP (VBZ is) (NP (NP (DT a) (JJ classical) (NN issue)) (PP (IN in) (NP (NN image) (NN restoration) (NN field))))) (. .))
+(S (NP (NP (DT The) (NNS combinations)) (PP (IN for) (NP (NN feature) (NN exploitation)))) (VP (VBP are) (VP (VBN defined) (PP (IN in) (NP (DT a) (JJ recursive) (NN fashion))) (PP (IN for) (S (VP (VBG introducing) (NP (NP (DT the) (NN non-linearity)) (CC and) (NP (JJR better) (NN feature) (NN representation))) (PP (IN with) (NP (JJ limited) (NNS parameters)))))))) (. .))

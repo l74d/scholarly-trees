@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN core) (NN technique)) (PP (IN in) (NP (PRP$ our) (NN mechanism)))) (VP (VBZ is) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNS copulas))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (ADJP (RB differentially) (JJ private)) (NN way)) (PP (IN of) (S (VP (VBG constructing) (NP (DT the) (JJ Gaussian) (NN copula)) (PP (IN without) (S (VP (VBG compromising) (NP (JJ computational) (NN efficiency)))))))))) (. .))

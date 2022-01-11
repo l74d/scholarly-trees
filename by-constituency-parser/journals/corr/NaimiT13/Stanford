@@ -1,0 +1,3 @@
+(S (NP (NP (NN Quorum)) (VP (VBN based) (NP (JJ mutual) (NN exclusion) (NNS algorithms)))) (VP (VBP enjoy) (NP (NP (JJ many) (NNS advantages)) (PP (JJ such) (IN as) (NP (NP (JJ low) (NN message) (NN complexity)) (CC and) (NP (JJ high) (NN failure) (NN resiliency)))))) (. .))
+(S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (NNS quorums)))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB well) (VBN known)) (NN approach)) (PP (IN to) (S (VP (VBG achieving) (NP (NP (JJ mutual) (NN exclusion)) (PP (IN in) (NP (VBN distributed) (NNS environments))))))))) (. .))
+(S (NP (NP (JJ Several)) (VP (VBN distributed) (PP (VBN based) (NP (NN quorum) (JJ mutual) (NN exclusion))))) (VP (VBD was) (VP (VBN presented))) (. .))

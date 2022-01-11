@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NNS microservices)) (VP (VBP are) (ADVP (RB often)) (VP (VBN mentioned) (PP (IN in) (NP (CD one) (NN breath))) (PP (IN with) (NP (NP (NN container) (NNS technologies)) (PP (IN like) (NP (NNP Docker))))))) (. .))
+(S (NP (DT These) (NNS impacts)) (VP (MD can) (VP (VB be) (VP (VBN minimized) (PP (IN on) (NP (JJ several) (NN system) (NNS layers)))))) (. .))

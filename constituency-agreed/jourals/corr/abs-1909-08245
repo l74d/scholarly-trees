@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (S (VP (VBG learning) (ADVP (RB autonomously)))) (VP (VBZ allows) (S (VP (VBG discovering) (NP (NP (JJ invariant) (NNS regularities)) (SBAR (WHNP (WDT which)) (S (VP (VBP help) (NP (NN generalization))))))))) (. .))
+(S (NP (DT This) (JJ universal) (NN framework)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (JJ prior) (NN knowledge)) (PP (IN of) (NP (NP (DT the) (NN domain)) (PP (IN of) (NP (NN interest)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ aims) (S (VP (TO to) (VP (VB classify) (NP (JJ chronological) (NNS data)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (NN none)) (PP (IN of) (NP (DT these) (NNS approaches)))) (VP (VBZ does) (VP (VB take) (NP (NNS data) (NN uncertainty)) (PP (IN into) (NP (NN account))))) (. .))

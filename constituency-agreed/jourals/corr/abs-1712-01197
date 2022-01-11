@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (JJ internal) (NN logic))) (, ,) (NP (PRP we)) (VP (VBP investigate) (SBAR (WHADVP (WRB how)) (S (NP (JJ arbitrary) (NNS computations)) (VP (MD can) (VP (VB be) (VP (VBN implemented))))))) (. .))
+(S (S (VP (VBG Using) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT these) (NNS gates)) (CC and) (NP (JJ appropriate) (NNS interconnects))))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB evaluate) (NP (DT any) (JJ logical) (NN expression)))) (. .))

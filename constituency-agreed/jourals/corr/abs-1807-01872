@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NNP Bindlib) (NN library)) (PP (IN for) (NP (NNP OCaml)))) (VP (VBZ provides) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS tools)) (PP (IN for) (NP (NP (DT the) (NN manipulation)) (PP (IN of) (NP (NP (NNS data) (NNS structures)) (PP (IN with) (NP (JJ variable) (NN binding))))))))))) (. .))
+(S (S (NP (NNP Bindlib)) (VP (VBZ is) (VP (VBN optimised) (PP (IN for) (NP (JJ fast) (NN substitution)))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ supports) (NP (JJ variable) (NN renaming)))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (JJ variable) (NNS names)) (VP (VBP are) (RB not) (VP (VBN updated) (PP (IN at) (NP (NN substitution) (NN time))))) (. .))

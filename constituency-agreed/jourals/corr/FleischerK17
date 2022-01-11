@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NP (NNP Green) (POS 's)) (NNS relations)))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN semigroup)) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (NP (NNS transformations)) (PP (IN on) (NP (DT a) (JJ finite) (NN set)))))))))) (. .))
+(S (NP (DT Another) (JJ important) (NN parameter)) (VP (VBZ is) (NP (NP (DT the) (JJ maximal) (NN length)) (PP (IN of) (NP (NP (DT a) (NN chain)) (PP (IN of) (NP (NNS components))))))) (. .))
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (JJ simple) (NN construction)) (PP (IN for) (NP (NP (DT an) (JJ arbitrary) (NN set)) (PP (IN of) (NP (NNS generators))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN proof)) (PP (IN for) (NP (JJ constant) (NN alphabet)))) (VP (VBZ is) (ADJP (RB rather) (JJ involved))) (. .))

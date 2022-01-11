@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ consists) (PP (IN of) (S (VP (VBG formulating) (NP (DT the) (NN indexing) (NN problem)) (PP (IN as) (NP (DT a) (JJ combinatorial) (NN optimization) (NN problem))))))) (. .))
+(S (NP (PRP We)) (VP (VBP begin) (PP (IN with) (NP (NP (DT a) (NN database)) (, ,) (VP (VBN abstracted) (PP (IN as) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NNS strings))))))))) (. .))
+(S (PP (IN From) (NP (DT this) (NN data) (NN set))) (NP (PRP we)) (VP (VBP generate) (NP (DT a) (NN query) (NN workload))) (. .))

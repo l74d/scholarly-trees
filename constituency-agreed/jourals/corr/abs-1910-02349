@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (NP (NP (JJ autonomous) (NN parking)) (PP (IN of) (NP (NN vehicle) (NNS fleets)))))) (VP (VBZ is) (VP (VBN addressed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (JJ hierarchical) (NN framework)) (CC and) (NP (JJ algorithmic) (NNS details)))) (. .))

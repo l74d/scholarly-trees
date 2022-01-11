@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS contributions)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBP are) (ADJP (JJ two-fold))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (NP (DT this) (NN construction)))) (PP (IN by) (S (VP (VBG employing) (NP (PRP it)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NP (NN recommendation) (NNS systems)) (CC and) (NP (JJ explainable) (NN machine) (NN learning)))))))))) (. .))

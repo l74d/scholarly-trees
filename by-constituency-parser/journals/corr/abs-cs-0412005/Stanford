@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (S (VP (VBG using) (NP (DT the) (NML (NML (NN Maple)) (CC and) (NML (NML (NNP Giac) (HYPH /) (NNP Xcas)) (NN computer))) (NN algebra) (NNS systems))))))) (. .))

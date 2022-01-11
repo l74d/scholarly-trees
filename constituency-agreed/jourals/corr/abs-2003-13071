@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ only) (NNS data)) (ADJP (JJ available) (PP (IN with) (NP (JJ reasonable) (NN accuracy)))))) (. .))
+(S (NP (NN Infection) (CC and) (NN recovery) (NNS rates)) (VP (MD can) (VP (VB be) (VP (VBN infered) (PP (IN from) (NP (NP (DT the) (NN model)) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NN model) (NNS parameters))))))) (. .))

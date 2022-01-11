@@ -1,0 +1,1 @@
+(S (PP (IN During) (NP (NN optimization))) (, ,) (NP (DT the) (NN reward) (NN estimator)) (ADVP (RB often)) (VP (VP (VBZ overwhelms) (NP (DT the) (NN policy) (NN generator))) (CC and) (VP (VBZ produces) (NP (ADJP (RB excessively) (JJ uninformative)) (NNS gradients)))) (. .))

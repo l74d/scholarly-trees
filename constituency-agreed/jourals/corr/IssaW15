@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN secrecy)) (PP (IN of) (NP (NP (DT a) (NN communication) (NN system)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CC both) (NP (DT the) (JJ legitimate) (NN receiver)) (CC and) (NP (DT an) (NN eavesdropper))) (VP (VBP are) (VP (VBN allowed) (NP (DT some) (NN distortion))))))))) (VP (VBZ is) (VP (VBN investigated))) (. .))

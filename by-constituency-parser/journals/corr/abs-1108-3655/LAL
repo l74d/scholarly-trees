@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (DT no) (JJ other) (NNS constraints)) (VP (VBP are) (VP (VBN placed) (PP (IN on) (NP ($ $) (NNP G) ($ $))))))) (ADVP (RB then)) (NP (DT a) (NN solution)) (ADVP (RB always)) (VP (VBZ exists) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT a) (NN tree)))))) (. .))
+(S (NP (PRP$ Our) (NN algorithms)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN extended) (PP (TO to) (NP (NP (JJ other) (NNS norms)) (PP (JJ such) (IN as) (NP (DT the) ($ $) (NNP L_p) ($ $) (NNS planes)))))))) (. .))

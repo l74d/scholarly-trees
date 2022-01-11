@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ introduces) (NP (NN obfuscation)) (PP (IN by) (S (VP (VBG inserting) (NP (DT some) (JJ extra) (NN hardware)) (PP (IN into) (NP (DT a) (NN design))) (S (VP (TO to) (VP (VB hide) (NP (PRP$ its) (NN functionality)) (PP (IN from) (NP (JJ unauthorized) (NNS users)))))))))) (. .))

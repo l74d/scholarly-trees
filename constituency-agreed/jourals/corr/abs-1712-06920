@@ -1,0 +1,2 @@
+(S (ADVP (RB Nowadays)) (NP (JJ many) (JJ artificial) (NN intelligence) (NNS systems)) (VP (VBP rely) (PP (IN on) (NP (NN knowledge) (NNS bases))) (PP (IN for) (S (VP (VBG enriching) (NP (NP (DT the) (NN information)) (SBAR (S (NP (PRP they)) (VP (VBP process))))))))) (. .))
+(S (NP (DT The) (NN solution)) (VP (VBZ is) (VP (VBN made) (S (ADJP (JJ available))) (PP (IN on) (NP (NNP GitHub))))) (. .))

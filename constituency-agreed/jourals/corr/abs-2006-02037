@@ -1,0 +1,2 @@
+(S (NP (NN Diffusion) (NNS maps)) (VP (VBZ is) (NP (NP (DT a) (JJ manifold) (NN learning) (NN algorithm)) (VP (ADVP (RB widely)) (VBN used) (PP (IN for) (NP (NN dimensionality) (NN reduction)))))) (. .))
+(S (NP (NP (JJ Theoretical) (NNS bounds)) (PP (IN on) (NP (DT the) (NN approximation) (NN error)))) (VP (VBP are) (ADVP (RB however)) (ADVP (RB generally)) (ADJP (ADJP (JJ much) (JJR weaker)) (PP (IN than) (NP (NP (DT the) (NNS rates)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN seen) (PP (IN in) (NP (NN practice))))))))))) (. .))

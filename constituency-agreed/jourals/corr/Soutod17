@@ -1,0 +1,3 @@
+(S (NP (JJ Configurable) (NNS systems)) (VP (VBP are) (NP (NP (DT those)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN adapted) (PP (IN from) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS options)))))))))))) (. .))
+(S (S (NP (PRP They)) (VP (VBP are) (ADJP (JJ prevalent)))) (CC and) (S (S (VP (VBG testing) (NP (PRP them)))) (VP (VBZ is) (ADJP (JJ important) (CC and) (JJ challenging)))) (. .))
+(S (S (VP (VBG Handling) (NP (DT both) (NNS scenarios)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NN evolution))))))) (VP (VBZ is) (ADJP (JJ important))) (. .))

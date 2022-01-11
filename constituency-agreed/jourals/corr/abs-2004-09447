@@ -1,0 +1,2 @@
+(S (NP (NN Flexibility) (S (VP (TO to) (VP (VB use) (NP (JJ multiple) (NNS languages)) (PP (IN in) (NP (CD one) (NN text) (NN message))))))) (VP (MD might) (VP (VB help) (S (VP (TO to) (VP (VB communicate) (ADVP (RB efficiently)) (PP (IN with) (NP (DT the) (NN target) (NN audience)))))))) (. .))
+(S (NP (NP (DT The) (NNS translations)) (PP (IN of) (NP (NNS sentences)))) (VP (VBP are) (VP (VBN done) (ADVP (RB manually)) (PP (IN by) (NP (DT the) (NNS annotators))))) (. .))

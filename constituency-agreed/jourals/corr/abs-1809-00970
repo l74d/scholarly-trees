@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (ADVP (RB particularly)) (NP (NP (DT the) (NN case)) (PP (IN for) (S (VP (VBG generating) (NP (JJ precise) (JJ pixel-wise) (NNS annotations)) (PP (IN in) (NP (NP (NN video)) (CC and) (NP (JJ volumetric) (NN image) (NNS data))))))))) (. .))

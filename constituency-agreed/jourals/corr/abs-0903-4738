@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ multi-input) (JJ multi-output) (NN transmission) (NN technique)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ singular) (NN value) (NN decomposition)) (PP (IN of) (NP (DT a) (NN channel) (NN matrix))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (DT the) (NN beamformer)) (VP (VBZ is) (VP (VBN precoded) (S (VP (TO to) (VP (VB improve) (NP (PRP$ its) (NN diversity) (NN performance))))))) (. .))

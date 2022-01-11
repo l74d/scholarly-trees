@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP allow) (PP (IN for) (NP (NN feature) (NN selection))) (PP (IN by) (S (VP (VBG imposing) (NP (JJ structured) (NN sparsity)) (S (VP (VBG using) (NP (JJ weighted) (NNS kernels)))))))) (. .))

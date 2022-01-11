@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ active) (NN learning) (NN algorithm)) (PP (IN for) (NP (NP (JJ parametric) (JJ linear) (NN regression)) (PP (IN with) (NP (JJ random) (NN design))))))) (. .))
+(S (PP (IN For) (NP (DT a) (VBN given) (NN distribution))) (, ,) (S (VP (VBG achieving) (NP (DT the) (JJ optimal) (NN risk)))) (VP (VBZ requires) (NP (NP (JJ prior) (NN knowledge)) (PP (IN of) (NP (DT the) (NN distribution))))) (. .))

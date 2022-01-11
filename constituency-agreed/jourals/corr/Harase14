@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBG resulting) (NN point) (NNS sets)) (VP (VP (VBP improve) (NP (NP (DT the) (NNS rates)) (PP (IN of) (NP (NN convergence)))) (PP (IN for) (NP (JJ smooth) (NNS functions)))) (CC and) (VP (VBP are) (ADJP (JJ robust) (PP (IN for) (NP (JJ non-smooth) (NNS functions))))))))) (. .))

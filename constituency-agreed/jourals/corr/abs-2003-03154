@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (JJ important) (NN application)) (PP (IN of) (NP (DT the) (NN scheme)))) (VP (VBZ is) (PP (IN for) (NP (NP (JJ parabolic) (JJ partial) (JJ differential) (NNS equations)) (VP (VBN discretized) (PP (IN on) (NP (DT a) (JJ nonuniform) (NN grid))))))) (. .))
+(S (NP (DT The) (JJ theoretical) (NNS results)) (VP (VBP are) (VP (VBN confirmed) (ADVP (RB numerically)))) (. .))

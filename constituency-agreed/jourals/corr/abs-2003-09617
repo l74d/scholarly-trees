@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN system)) (VP (MD can) (VP (VB recover) (PP (IN from) (NP (NP (JJ transient) (NNS errors)) (VP (VBG occurring) (PP (IN in) (NP (NP (JJ different) (NN pipeline) (NNS stages)) (PP (IN of) (NP (DT the) (NN router)))))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN analysis)))) (, ,) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (NP (NNS failures)) (PP (IN in) (NP (NP (DT the) (NN network) (POS 's)) (JJ principal) (NNS components)))))) (VP (VBP are) (VP (VBN determined))) (. .))

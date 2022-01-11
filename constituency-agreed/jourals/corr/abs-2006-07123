@@ -1,0 +1,1 @@
+(S (S (ADVP (RB Moreover)) (, ,) (NP (PRP they)) (VP (VBP do) (RB not) (VP (VB require) (NP (JJ precise) (NNS labels))))) (: ;) (S (ADVP (RB instead)) (, ,) (NP (PRP they)) (VP (VBP rely) (PP (IN on) (NP (NP (DT the) (NN similarity)) (PP (IN between) (NP (DT the) (VBN desired) (NNS outputs))))))) (. .))

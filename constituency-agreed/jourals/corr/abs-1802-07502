@@ -1,0 +1,3 @@
+(S (NP (NP (NN Definition)) (PP (IN of) (NP (NN coverage) (JJ metric)))) (VP (VBZ depends) (PP (IN on) (NP (NP (PRP$ its) (NNS applications)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (NNS sensors)) (VP (VBP are) (VP (VBN deployed)))))))) (. .))
+(S (NP (DT A) (NN road) (NN segment)) (VP (VBZ is) (NP (NP (DT a) (NN sub-part)) (PP (IN of) (NP (DT a) (NN road) (NN network))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ different) (NNS definitions)) (PP (IN of) (NP (NN road) (NN coverage) (NNS metrics))))) (. .))

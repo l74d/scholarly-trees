@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN importance)) (PP (IN of) (NP (VBG coding) (NNS guidelines)))) (VP (VBZ is) (ADVP (RB generally)) (VP (VBN accepted) (PP (IN throughout) (NP (NP (NNS developers)) (PP (IN of) (NP (DT every) (NN programming) (NN language))))))) (. .))
+(S (ADVP (RB Naturally)) (, ,) (NP (NNP Prolog)) (VP (VBZ makes) (NP (DT no) (NN exception))) (. .))

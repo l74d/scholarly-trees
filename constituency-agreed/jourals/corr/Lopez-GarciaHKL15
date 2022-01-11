@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN verification) (NN system)) (VP (MD can) (VP (VB prove) (SBAR (IN whether) (S (NP (JJ such) (NN energy) (NN usage) (NNS specifications)) (VP (VBP are) (VP (VBN met)))) (CC or) (RB not)))) (. .))
+(S (NP (PRP It)) (VP (MD can) (ADVP (RB also)) (VP (VB infer) (NP (NP (DT the) (JJ particular) (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (DT the) (NNS specifications)) (VP (VBP hold))))))) (. .))

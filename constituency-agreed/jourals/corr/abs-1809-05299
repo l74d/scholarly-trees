@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (DT the) (NN problem) (S (VP (TO to) (VP (VB design) (NP (JJ physical) (NN watermark) (NNS signals)) (S (VP (TO to) (VP (VB protect) (NP (DT a) (NN control) (NN system)) (PP (IN against) (NP (NN replay) (NNS attacks))))))))))) (. .))

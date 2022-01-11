@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN retrieval))) (, ,) (NP (JJS best) (NNS results)) (VP (VBP are) (VP (VBN achieved) (SBAR (WHADVP (WRB when)) (S (NP (ADJP (NN class) (VBN based)) (NNS predictions)) (VP (VBP are) (VP (VBN used))))))) (. .))
+(S (NP (NP (NP (DT An) (JJ average) (NN classification) (NN accuracy)) (PP (IN of) (NP (CD 99.77) (NN %)))) (CC and) (NP (NP (DT a) (JJ mean) (JJ average) (NN precision)) (PP (IN of) (NP (CD 0.69))))) (VP (VBZ is) (VP (VBN achieved) (PP (IN for) (NP (NN retrieval) (NN task))))) (. .))

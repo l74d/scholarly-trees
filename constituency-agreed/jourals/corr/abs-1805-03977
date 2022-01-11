@@ -1,0 +1,1 @@
+(S (NP (NN Evaluation) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN model)) (VP (VBZ outperforms) (NP (DT the) (NNS baselines)) (PP (IN by) (NP (DT a) (JJ large) (NN margin))))))) (. .))

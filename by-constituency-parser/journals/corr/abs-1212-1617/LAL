@@ -1,0 +1,4 @@
+(S (ADVP (RB Unfortunately)) (, ,) (NP (PRP it)) (VP (VBZ exhibits) (NP (NP (DT a) (JJ high) (NN sensitivity)) (PP (TO to) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NNS outliers))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (PDT such) (DT a) (NN variant)) (ADVP (RB here))) (. .))
+(S (NP (NP (DT An) (JJ exact) (NN solution)) (PP (TO to) (NP (CD one) (NN problem)))) (VP (MD would) (VP (VB imply) (NP (NP (DT an) (JJ exact) (NN solution)) (PP (TO to) (NP (DT the) (JJ other) (NN problem)))))) (. .))
+(S (NP (DT This)) (VP (VBZ motivates) (NP (NP (DT the) (NN search)) (PP (IN for) (NP (JJ approximate) (NNS solutions))))) (. .))

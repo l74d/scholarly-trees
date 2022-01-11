@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ unused) (NNS passwords)) (VP (MD will) (VP (VB be) (VP (VBN discarded)))) (. .))
+(S (NP (DT A) (NN password)) (VP (VBZ is) (VP (VBN generated) (S (VP (TO to) (VP (VB be) (VP (VBN used) (ADVP (RB only) (RB once)))))))) (. .))

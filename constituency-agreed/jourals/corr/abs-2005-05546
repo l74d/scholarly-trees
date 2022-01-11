@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ Gaussian) (NN discriminant)) (VP (MD can) (VP (VB be) (VP (VBN approximated) (S (VP (VBG using) (NP (NP (JJ randomized) (NNS projections)) (PP (IN of) (NP (DT the) (NNS data)))))))))))) (. .))

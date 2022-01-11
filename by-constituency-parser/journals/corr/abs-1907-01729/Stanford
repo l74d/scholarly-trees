@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN report))) (, ,) (NP (PRP we)) (VP (VBP review) (NP (NP (DT the) (NN calculation)) (PP (IN of) (NP (NP (NN entropy) (HYPH -) (VBN regularised) (NNP Wasserstein) (NN loss)) (VP (VBN introduced) (PP (IN by) (NP (NP (NNP Cuturi)) (CC and) (NP (NP (NN document)) (NP (DT a) (JJ practical) (NN implementation))))) (PP (IN in) (NP (NNP PyTorch)))))))) (. .))
+(S (NP (NN Code)) (VP (VBZ is) (ADJP (JJ available) (PP (IN at) (NP (NP (DT this)) (SBAR (S (VP (VBZ https) (NP (NN URL))))))))))

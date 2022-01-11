@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (CD one) (NN hand))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN algorithm)) (PP (IN for) (NP (JJ stochastic) (NNS games))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ practical) (NN algorithm)) (PP (ADVP (RB even)) (IN for) (NP (NNP Markov) (NN decision) (NNS processes))))) (. .))

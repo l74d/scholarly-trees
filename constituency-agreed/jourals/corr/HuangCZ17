@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT each) (NN time))) (, ,) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (NNS processes)))) (VP (MD can) (VP (VB be) (VP (VBN probed)))) (. .))
+(S (NP (NP (DT The) (JJ computational) (NN complexity)) (PP (IN of) (NP (DT the) (VBN proposed) (NN test)))) (VP (VBZ is) (ADVP (RB also)) (PP (IN of) (NP (DT a) (ADJP (RB significantly) (JJR lower)) (NN order)))) (. .))

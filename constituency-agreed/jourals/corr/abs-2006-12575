@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NNS data) (NN parallelism)) (VP (VBZ does) (RB not) (VP (VB help) (S (VP (VB reduce) (NP (NP (NN memory) (NN footprint)) (PP (IN per) (NP (NN device)))))))) (. .))

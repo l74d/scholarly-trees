@@ -1,0 +1,2 @@
+(S (NP (JJ Semantic) (NN segmentation)) (VP (VBZ has) (ADVP (RB recently)) (VP (VBN witnessed) (NP (JJ major) (NN progress)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (ADJP (RB fully) (JJ convolutional)) (JJ neural) (NNS networks)) (VP (VBP have) (VP (VBN shown) (S (VP (TO to) (VP (VB perform) (ADVP (RB well))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (JJ previous) (NN work)))) (VP (VBD focused) (PP (IN on) (S (VP (VBG improving) (NP (JJ single) (NN image) (NN segmentation)))))) (. .))

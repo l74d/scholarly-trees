@@ -1,0 +1,2 @@
+(S (NP (DT Some) (NNS results)) (VP (VBP are) (VP (VBN obtained) (PP (IN with) (NP (JJ numerical) (NNS experiments))))) (. .))
+(S (NP (PRP They)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (ADVP (RB clearly)) (VP (VBZ improves) (NP (NP (DT the) (NN satisfaction)) (PP (IN of) (NP (NP (DT the) (NN visitor)) (SBAR (WHNP (WP who)) (S (VP (VBZ follows) (NP (DT the) (VBN proposed) (NN tour)))))))))))) (. .))

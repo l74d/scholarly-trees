@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP apply) (NP (JJ adversarial) (NN training)) (S (VP (TO to) (VP (VB train) (NP (PRP$ our) (VBN proposed) (NN model)))))) (. .))

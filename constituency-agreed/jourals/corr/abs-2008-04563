@@ -1,0 +1,2 @@
+(S (SBAR (IN If) (S (NP (DT the) (VBN recommended) (NNS items)) (VP (VBP are) (VP (VBN purchased))))) (, ,) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NNS sales)))) (VP (VBZ is) (VP (VBN expected))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT an) (JJ unbiased) (NN learning) (NN framework)) (PP (IN for) (NP (NP (DT the) (JJ causal) (NN effect)) (PP (IN of) (NP (NN recommendation))))))) (. .))

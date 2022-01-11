@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN approach)) (VP (VP (VBZ detects) (NP (JJ noisy) (NNS labels))) (CC and) (VP (VBZ learns) (NP (JJ deep) (JJ discriminative) (NNS features)) (PP (IN in) (NP (DT an) (JJ iterative) (NN fashion))))) (. .))

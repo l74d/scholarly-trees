@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN measurement) (NN tool)) (PP (IN for) (NP (NP (DT the) (NN performance) (NN evaluation)) (PP (IN of) (NP (NP (NN wireless) (NNS communications)) (PP (IN with) (NP (NNS drones))) (PP (IN over) (NP (JJ cellular) (NNS networks))))))))) (. .))
+(S (NP (DT The) (NNP Android) (NN software)) (VP (VP (NNS records) (NP (JJ various) (NNP LTE) (NNS parameters))) (, ,) (VP (VBZ evaluates) (NP (DT the) (NNP TCP) (CC and) (NNP UDP) (NN throughput))) (, ,) (CC and) (VP (VBZ tracks) (NP (DT the) (NNP GPS) (NN position)))) (. .))
+(S (NP (JJ Example) (NN measurement) (NNS results)) (VP (VBP are) (VP (VBN presented))) (. .))

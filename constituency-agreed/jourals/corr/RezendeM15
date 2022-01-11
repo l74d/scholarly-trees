@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN choice)) (PP (IN of) (NP (JJ approximate) (JJ posterior) (NN distribution)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN core) (NNS problems)) (PP (IN in) (NP (JJ variational) (NN inference))))))) (. .))
+(S (NP (DT This) (NN restriction)) (VP (VBZ has) (NP (NP (DT a) (JJ significant) (NN impact)) (PP (IN on) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (NNS inferences)) (VP (VBN made) (S (VP (VBG using) (NP (JJ variational) (NNS methods))))))))))) (. .))

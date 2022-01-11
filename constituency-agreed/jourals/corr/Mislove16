@@ -1,0 +1,2 @@
+(S (NP (NNP Random) (NNS variables)) (VP (VBP are) (NP (NP (DT the) (NN mainstay)) (PP (IN of) (NP (NN probability) (NN theory))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP use) (NP (PRP$ our) (NN approach)) (S (VP (TO to) (VP (VB extend) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (NP (NNS domains)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (PRP we)) (VP (MD can) (VP (VB classify) (NP (NP (DT the) (NN domain) (NN structure)) (PP (IN of) (NP (NP (DT the) (NN space)) (PP (IN of) (NP (NN sub-probability) (NNS measures))))))))))))))))) (. .))

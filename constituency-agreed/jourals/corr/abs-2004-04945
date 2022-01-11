@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (MD could) (VP (VB result) (PP (IN in) (NP (NN miscommunication))))) (. .))
+(S (NP (PRP We)) (VP (VBP collect) (NP (NP (NNS examples)) (PP (IN of) (NP (JJ sarcastic) (NNS tweets)))) (PP (ADVP (RB directly)) (IN from) (NP (NP (DT the) (NNS authors)) (SBAR (WHNP (WP who)) (S (VP (VBD posted) (NP (PRP them)))))))) (. .))

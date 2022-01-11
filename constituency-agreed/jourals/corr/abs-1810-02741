@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN way))) (NP (PRP we)) (VP (MD can) (VP (VB increase) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (DT the) (NNS data)))) (SBAR (IN while) (S (RB not) (VP (VB undermine) (NP (NP (DT the) (NN recall)) (PP (IN of) (NP (DT the) (NNS data))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN mainstream) (NN approach)) (VP (MD would) (VP (VB be) (S (VP (TO to) (VP (VB learn) (NP (DT an) (JJ overcomplete) (NN dictionary)) (S (VP (TO to) (VP (VB provide) (NP (NP (JJ good) (NNS approximations)) (PP (IN of) (NP (DT the) (NN training) (NNS samples)))) (S (VP (VBG using) (NP (JJ sparse) (NN synthesis) (NNS coefficients)))))))))))) (. .))

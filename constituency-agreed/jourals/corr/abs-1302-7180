@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN cascade)) (VP (VBZ is) (VP (VBN learned) (PP (IN by) (NP (CD two) (NNS steps))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (NP (DT some) (NN kind)) (PP (IN of) (NP (JJ prepared) (NNS features)))) (VP (VBP are) (VP (VBN grouped) (PP (IN into) (NP (JJ several) (JJ nested) (NNS stages))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Encrypting) (NP (DT the) (NNP RAM)))) (VP (MD will) (VP (VB protect) (NP (NP (DT the) (NN user) (POS 's)) (NN content)) (PP (IN against) (NP (JJ passive) (NN eavesdropping))))) (. .))
+(SQ (CC But) (VBZ is) (NP (DT this)) (ADJP (JJ enough) (S (VP (TO to) (VP (VB prevent) (NP (DT an) (JJ active) (NN adversary)) (PP (IN from) (S (VP (VBG performing) (NP (JJ malicious) (NNS tasks))))))))) (. ?))

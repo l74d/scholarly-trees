@@ -1,0 +1,2 @@
+(S (NP (NP (DT Each) (NN vehicle)) (PP (IN in) (NP (DT this) (NN network)))) (VP (VBZ senses) (NP (NP (DT the) (NN energy) (NN level)) (PP (IN of) (NP (DT the) (NN channel)))) (PP (IN before) (CC and) (IN during) (NP (PRP$ its) (NN transmission)))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN scheme)) (VP (MD would) (VP (VB experience) (NP (DT a) (JJR shorter) (NN collision) (NN duration)))))))) (. .))

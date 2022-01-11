@@ -1,0 +1,2 @@
+(S (NP (NP (DT Each) (NN node)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ is) (VP (VBN endowed) (PP (IN with) (NP (NP (DT a) (NN fitness)) (SBAR (WHNP (WDT which)) (S (VP (VBZ represents) (NP (PRP$ its) (NN activity))))))))) (. .))
+(S (NP (PDT All) (DT the) (NNS nodes)) (VP (VBP have) (NP (NP (CD two) (JJ discrete) (NNS stages)) (: :) (ADJP (JJ active) (CC and) (JJ inactive)))) (. .))

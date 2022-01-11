@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB improve) (NP (DT the) (NN policy) (NN generalization)) (PP (IN in) (NP (NN practice)))))) (, ,) (NP (NP (JJ random) (NN noise)) (CC and) (NP (NNS dynamics) (NN randomization))) (VP (VBP are) (VP (VBN introduced) (PP (IN during) (NP (DT the) (NN training) (NN process))))) (. .))

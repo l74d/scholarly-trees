@@ -1,0 +1,5 @@
+(S (NP (NP (NNP Colour) (CC and) (NN coarseness)) (PP (IN of) (NP (NN skin)))) (VP (VBP are) (ADJP (RB visually) (JJ different))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (NN image) (NN processing)) (VP (VBZ is) (VP (VBN involved) (PP (IN in) (NP (DT the) (NN skin) (NN analysis))))))) (, ,) (NP (NP (PRP it))) (VP (VBZ is) (ADJP (JJ important)) (S (VP (TO to) (VP (ADVP (RB quantitatively)) (VB evaluate) (NP (JJ such) (NNS differences)) (S (VP (VBG using) (NP (NN texture) (NNS features)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (NP (DT a) (NN texture) (NN analysis)) (CC and) (NP (NNS measurements))) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ statistical) (NN approach)) (PP (TO to) (NP (DT the) (NN pattern) (NN recognition)))))))) (. .))
+(S (NP (NNP Grain) (NN size) (CC and) (NN anisotropy)) (VP (VBP are) (VP (VBN evaluated) (PP (IN with) (NP (JJ proper) (NNS diagrams))))) (. .))
+(S (NP (DT The) (NN possibility) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ pattern) (NNS defects)))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))

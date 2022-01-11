@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBN trained) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NN satisfiability)) (PP (IN of) (NP (NN toy) (NNS problems)))))))))) (, ,) (NP (PRP it)) (VP (VBD was) (VP (VBN shown) (S (VP (TO to) (VP (VB find) (NP (NP (NNS solutions)) (CC and) (NP (JJ unsatisfiable) (NNS cores))) (PP (IN on) (NP (PRP$ its) (JJ own)))))))) (. .))

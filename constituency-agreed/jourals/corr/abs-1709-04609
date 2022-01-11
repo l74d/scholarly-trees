@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN method)) (ADVP (RB mainly)) (VP (VBZ consists) (PP (IN of) (NP (CD three) (NNS steps)))) (. .))
+(S (NP (DT Each) (NN score) (NN map)) (VP (VP (VBZ indicates) (NP (DT the) (NN objectness) (NN likelihood))) (CC and) (VP (VBZ is) (ADVP (RB only)) (VP (VBN computed) (PP (IN within) (NP (NP (DT the) (NN foreground) (NN mask)) (VP (VBN obtained) (PP (IN in) (NP (DT the) (JJ first) (NN step))))))))) (. .))

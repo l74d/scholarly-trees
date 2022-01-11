@@ -1,0 +1,2 @@
+(S (S (NP (PRP We)) (VP (VBD performed) (NP (DT a) (JJ complete) (NN data) (NN analysis)))) (CC and) (S (PP (IN during) (NP (DT the) (JJ exploratory) (NN phase))) (, ,) (NP (PRP we)) (VP (VBD selected) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (ADJP (RB differentially) (VBN expressed)) (NNS genes)))))) (. .))
+(S (PP (IN Despite) (NP (NP (PRP$ their) (NN association)) (PP (IN with) (NP (DT the) (JJ diseased) (NN state))))) (, ,) (NP (PRP we)) (VP (MD could) (RB not) (VP (VB use) (NP (PRP them)) (PP (IN as) (NP (DT a) (NN biomarker) (NN tool))))) (. .))

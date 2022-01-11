@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT these) (NNS varieties)) (PP (IN from) (NP (NP (DT the) (NN perspective)) (PP (IN of) (NP (JJ combinatorial) (JJ commutative) (NN algebra)))))) (. .))
+(S (PP (IN For) (NP (DT these) (NNS models))) (NP (PRP we)) (VP (VBP examine) (NP (NP (DT the) (JJ toric) (NN algebra)) (, ,) (NP (PRP$ its) (NN lattice) (NN polytope)) (, ,) (CC and) (NP (PRP$ its) (NNP Markov) (NN basis)))) (. .))

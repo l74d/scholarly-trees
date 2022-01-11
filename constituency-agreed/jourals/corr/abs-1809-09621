@@ -1,0 +1,2 @@
+(S (NP (JJ Complementary) (NNS products)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN inferred) (PP (IN from) (NP (NN basket) (NNS data))))) (. .))
+(S (NP (DT These) (NN vector) (NNS representations)) (VP (VBP are) (VP (VBN used) (PP (IN for) (S (VP (VBG making) (NP (JJ complementary) (NNS products) (NN recommendation))))))) (. .))

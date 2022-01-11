@@ -1,0 +1,2 @@
+(S (NP (PDT All) (DT these) (NNS data)) (VP (MD must) (VP (VB be) (VP (VBN transferred) (ADVP (RB securely)) (PP (IN between) (NP (NP (DT the) (JJ final) (NN user)) (CC and) (NP (DT the) (NN institution) (NN application))))))) (. .))
+(S (NP (DT This) (NN vulnerability)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN described) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

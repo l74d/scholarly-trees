@@ -1,0 +1,2 @@
+(S (PP (IN Until) (ADVP (RB recently))) (, ,) (NP (NP (DT the) (JJ vast) (NN majority)) (PP (IN of) (NP (NNS works)))) (VP (VBP have) (VP (VBN studied) (NP (NP (DT each) (CD one)) (PP (IN of) (NP (DT these) (NNS models)))) (PP (IN on) (NP (PRP$ its) (JJ own))))) (. .))
+(S (NP (PRP We)) (VP (VBP perform) (NP (NP (NNS experiments)) (SBAR (WHNP (WDT that)) (S (VP (VBP demonstrate) (NP (NP (DT the) (NN usefulness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN strategy))))))))) (. .))

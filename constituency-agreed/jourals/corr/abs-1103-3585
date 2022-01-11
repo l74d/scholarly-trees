@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN range)) (PP (IN of) (NP (NN tensor) (NNS indices)))) (VP (MD can) (VP (VB be) (VP (VBN extended) (ADVP (RB dynamically)) (PP (IN without) (S (VP (VBG modifying) (NP (DT the) (NN component) (NN representation)))))))) (. .))

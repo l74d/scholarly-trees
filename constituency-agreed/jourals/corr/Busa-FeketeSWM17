@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT the) (NN agent)))) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (NN policy)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB optimize) (NP (DT these) (NNS objectives)) (ADVP (RB simultaneously)) (PP (IN in) (NP (DT a) (JJ fair) (NN way)))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NN evidence)) (PP (IN of) (NP (NNP FPT) (NN intractability))))))) (, ,) (ADVP (RB then)) (NP (DT the) (JJ next) (JJ natural) (NN alternative)) (VP (VBZ is) (S (VP (TO to) (VP (VB consider) (NP (NNP FPT) (NNS approximations)))))) (. .))

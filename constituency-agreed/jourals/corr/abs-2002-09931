@@ -1,0 +1,2 @@
+(S (NP (NN Credit) (NN scoring)) (VP (VBZ is) (PP (IN without) (NP (DT a) (NN doubt))) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS oldest) (NNS applications)) (PP (IN of) (NP (NNS analytics))))))) (. .))
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (NP (DT a) (NN multitude)) (PP (IN of) (NP (JJ sophisticated) (NN classification) (NNS techniques)))) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (JJ statistical) (NN performance)) (PP (IN of) (NP (NN credit) (NN scoring) (NNS models)))))))))) (. .))

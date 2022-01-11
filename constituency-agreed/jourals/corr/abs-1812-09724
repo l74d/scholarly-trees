@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ deep) (JJ neural) (NN network)) (VP (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (DT a) (NN function) (NN approximator))))) (CC and) (VP (VBZ requires) (NP (DT no) (JJ specific) (NN state) (NN information)))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN During) (NP (NN maintenance))) (, ,) (NP (NN software) (NNS developers)) (VP (VBP deal) (PP (IN with) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN software) (NN change) (NNS requests)))))) (. .))
+(S (NP (NNS Studies)) (VP (VBP suggest) (SBAR (IN that) (S (NP (DT the) (NNS developers)) (ADVP (RB often)) (VP (VBP perform) (ADVP (RB poorly)) (PP (IN in) (S (VP (VBG coming) (PRT (RP up)) (PP (IN with) (NP (NP (JJ good) (NN search) (NNS terms)) (PP (IN for) (NP (DT a) (NN change) (NN task)))))))))))) (. .))

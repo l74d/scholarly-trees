@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN classification)) (PP (IN of) (NP (NP (JJ quaternary) (JJ Hermitian) (JJ self-dual) (NNS codes)) (PP (IN of) (NP (NN length) (CD 20)))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN classification)))) (, ,) (NP (NP (DT a) (NN classification)) (PP (IN of) (NP (NP (JJ extremal) (JJ quaternary) (JJ Hermitian) (JJ self-dual) (NNS codes)) (PP (IN of) (NP (NN length) (CD 22)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given))) (. .))

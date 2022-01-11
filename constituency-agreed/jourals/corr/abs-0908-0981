@@ -1,0 +1,2 @@
+(S (NP (NP (DT This) (NN behavior)) (PP (IN of) (NP (DT an) (JJ independent) (JJ mobile) (NN node)))) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN known) (PP (IN as) (NP (NN misbehaving) (CC or) (NN selfishness))))) (. .))
+(S (NP (NP (DT A) (JJ vast) (NN amount)) (PP (IN of) (NP (NN research)))) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN done) (PP (IN for) (S (VP (VBG minimizing) (NP (NP (JJ malicious) (NN behavior)) (PP (IN of) (NP (JJ mobile) (NNS nodes)))))))))) (. .))

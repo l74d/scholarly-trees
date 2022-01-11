@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN testbed)) (VP (VBZ features) (NP (NP (JJ quick) (NN setup)) (, ,) (NP (NP (NN flexibility)) (PP (IN in) (NP (NN deployment)))) (, ,) (NP (NP (DT the) (NN integration)) (PP (IN of) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NNP IoT) (NNS devices)))))) (, ,) (NP (NN resilience)) (, ,) (CC and) (NP (NN scalability)))) (. .))

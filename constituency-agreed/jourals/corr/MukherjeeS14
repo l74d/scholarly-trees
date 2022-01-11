@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ fundamental) (NN idea)) (PP (IN behind) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (S (VP (TO to) (VP (VB learn) (NP (DT a) (JJ sparse) (NN representation)) (PP (IN in) (NP (CD two) (NNS phases))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ second) (NN phase))) (, ,) (NP (DT the) (NNS dictionaries)) (VP (VBP are) (VP (VBN merged) (S (VP (TO to) (VP (VB form) (NP (DT a) (JJ global) (NN dictionary))))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN image) (NN denoising))))) (. .))

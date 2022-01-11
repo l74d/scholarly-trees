@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (JJ previous) (NNS works)) (VP (VP (VBP acknowledge) (NP (DT these) (NNS shortcomings))) (CC but) (VP (VBP do) (RB not) (ADVP (RB really)) (VP (VB explain) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (VBP occur))))))) (. .))
+(S (NP (PRP$ Our) (JJ textural) (NN loss)) (VP (VBZ outperforms) (NP (DT the) (NNP Gram) (NN matrix)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN quality)) (, ,) (NP (NN robustness)) (, ,) (NP (JJ spatial) (NN control)) (, ,) (CC and) (NP (NN interpolation))))))) (. .))

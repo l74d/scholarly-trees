@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBD conducted) (NP (DT a) (NN case) (NN study)) (PP (IN in) (NP (NP (CD one)) (PP (IN of) (NP (DT these) (NNS organizations))))) (S (VP (TO to) (VP (VB investigate) (NP (NP (DT the) (NN correlation)) (PP (IN between) (NP (NP (NN unit) (NN test) (NN coverage)) (CC and) (NP (JJ post-unit) (NN test) (NNS defects))))))))) (. .))
+(S (PP (IN In) (NP (DT both) (NNS cases))) (NP (NP (NN none)) (CC or) (NP (JJ weak) (NNS correlations))) (VP (VBD were) (VP (VBN found))) (. .))

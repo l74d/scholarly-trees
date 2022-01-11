@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (ADVP (RB however)) (, ,) (NP (NP (NN synthesis)) (PP (IN from) (NP (NNP TSL)))) (VP (VBZ is) (ADJP (JJ scalable)) (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (VBN handled) (NNS data)))))))))) (. .))

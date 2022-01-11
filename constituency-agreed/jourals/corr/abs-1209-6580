@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (JJ initial) (NN implementation)) (VP (VBZ demonstrates) (NP (JJ promising) (NNS results)) (, ,) (PP (IN with) (S (NP (NNP HadoopTest)) (VP (VP (VBG coordinating) (NP (NN test) (NNS cases)) (PP (IN across) (NP (VBN distributed) (NNP MapReduce) (NNS workers)))) (, ,) (CC and) (VP (VBG finding) (NP (NNS bugs))))))) (. .))

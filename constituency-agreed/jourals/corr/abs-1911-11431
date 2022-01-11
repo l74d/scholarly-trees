@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS correspondences)) (VP (VBP are) (RB not) (ADJP (RB generally) (JJ available))) (. .))
+(S (NP (ADJP (RB Manually) (VBN placed)) (NNS landmarks)) (VP (VBP are) (ADVP (RB often)) (VP (VBN used) (PP (IN for) (NP (NN correspondence))) (PP (IN in) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (JJ statistical) (NN shape) (NNS models))))))) (. .))

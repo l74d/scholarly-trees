@@ -1,0 +1,2 @@
+(S (CC But) (NP (EX there)) (VP (VBP are) (NP (NP (NNS applications)) (SBAR (WHNP (WDT which)) (S (ADVP (RB inherently)) (VP (MD would) (VP (VB require) (NP (JJ symmetric) (NNS keys)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ symmetric) (JJ key) (NN encryption) (NN scheme)) (PP (IN with) (NP (ADJP (RB fully) (JJ homomorphic)) (NN evaluation) (NNS capabilities))))) (. .))

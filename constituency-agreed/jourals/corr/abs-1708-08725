@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT both) (NNS algorithms)) (VP (MD could) (VP (VB detect) (NP (JJ nonTor) (NN traffic)) (PP (IN in) (NP (DT the) (NN dataset)))))))) (. .))

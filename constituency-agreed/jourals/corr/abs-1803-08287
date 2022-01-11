@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (JJ previous) (NNS approaches))) (, ,) (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB assume) (SBAR (IN that) (S (NP (NN model) (NNS uncertainties)) (VP (VBP are) (ADJP (JJ independent))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT these) (NNS predictions)))) (, ,) (NP (PRP we)) (VP (VBP guarantee) (SBAR (IN that) (S (NP (NNS trajectories)) (VP (VBP satisfy) (NP (NN safety) (NNS constraints)))))) (. .))

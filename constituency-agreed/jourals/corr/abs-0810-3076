@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB enable) (NP (NP (JJ easy) (NN creation) (CC and) (NN modification)) (PP (IN of) (NP (NNS ontologies)))) (PP (IN through) (NP (DT the) (NN web))))))) (. .))
+(S (NP (JJ Previous) (NN evaluation)) (VP (VBD showed) (SBAR (IN that) (S (NP (JJ ordinary) (NNS people)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB use) (NP (NNP AceWiki)) (PP (IN without) (S (VP (VBG being) (VP (VBN instructed))))))))))))) (. .))

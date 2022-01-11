@@ -1,0 +1,2 @@
+(S (NP (NNP John) (NNP Bell)) (VP (VBZ has) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (NNS correlations)) (VP (VBN entailed) (PP (IN by) (NP (NN quantum) (NNS mechanics))))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN reproduced) (PP (IN by) (NP (NP (DT a) (JJ classical) (NN process)) (VP (VBG involving) (NP (JJ non-communicating) (NNS parties)))))))))))) (. .))
+(SQ (CC But) (MD can) (NP (PRP they)) (VP (VB be) (VP (VBN simulated) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (VBN bounded) (NN communication))))))) (. ?))

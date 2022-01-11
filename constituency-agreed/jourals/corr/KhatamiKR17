@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (NN solution)) (SBAR (S (VP (TO to) (VP (VB address) (NP (DT this) (NN challenge))))))) (VP (VBZ is) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN runtime) (NNS methods))))) (. .))
+(S (NP (DT These) (NNS optimizations)) (VP (VBP include) (NP (NP (JJ asynchronous) (NN tasking)) (, ,) (NP (NN loop) (NN interleaving)) (, ,) (NP (JJ dynamic) (NN chunk) (NN sizing)) (, ,) (CC and) (NP (NNS data) (NN prefetching)))) (. .))

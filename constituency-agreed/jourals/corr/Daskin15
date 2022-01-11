@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP draw) (NP (NP (DT an) (NN estimate)) (PP (IN for) (NP (DT the) (NN success) (NN probability)))) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (NN variance)) (PP (IN of) (NP (NP (DT the) (NN column) (NNS sums)) (PP (IN of) (NP (DT the) (NN operator)))))))))) (. .))

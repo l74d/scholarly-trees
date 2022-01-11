@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (DT these) (NNS artifacts)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN handled) (PP (IN by) (NP (NN imputation))))))) (, ,) (NP (PRP we)) (VP (VBP achieve) (NP (JJ superior) (JJ predictive) (NN performance)) (PP (IN by) (S (VP (VBG treating) (NP (DT the) (NNS artifacts)) (PP (IN as) (NP (NNS features))))))) (. .))

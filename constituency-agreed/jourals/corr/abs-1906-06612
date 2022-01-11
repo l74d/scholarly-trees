@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NNS players)) (VP (VP (VBP do) (RB not) (VP (VB have) (NP (NP (JJ full) (NN information)) (PP (IN of) (NP (DT the) (NN game)))))) (CC and) (ADVP (RB thus)) (VP (MD can) (RB not) (VP (VB pre-compute) (NP (DT a) (NNP Nash) (NN equilibrium)))))))) (. .))

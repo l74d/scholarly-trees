@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT a) (JJ reversible) (NN language))) (, ,) (NP (DT any) (JJ forward) (NN computation)) (VP (MD can) (VP (VB be) (VP (VBN undone) (PP (IN by) (NP (NP (DT a) (JJ finite) (NN sequence)) (PP (IN of) (NP (JJ backward) (NNS steps)))))))) (. .))

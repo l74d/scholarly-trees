@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN nature)) (PP (IN of) (NP (NN concept) (NN learning)))) (VP (VBZ is) (NP (NP (DT a) (NN core) (NN question)) (PP (IN in) (NP (JJ cognitive) (NN science))))) (. .))
+(S (NP (NNS Theories)) (VP (MD must) (VP (VB account) (PP (IN for) (NP (NP (DT the) (JJ relative) (NN difficulty)) (PP (IN of) (S (VP (VBG acquiring) (NP (JJ different) (NNS concepts)) (PP (IN by) (NP (JJ supervised) (NNS learners)))))))))) (. .))
+(S (PP (IN For) (NP (NP (DT a) (JJ canonical) (NN set)) (PP (IN of) (NP (CD six) (NN category) (NNS types))))) (, ,) (NP (NP (CD two) (JJ distinct) (NNS orderings)) (PP (IN of) (NP (NN classification) (NN difficulty)))) (VP (VBP have) (VP (VBN been) (VP (VBN found)))) (. .))

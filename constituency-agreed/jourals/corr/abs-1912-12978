@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (NP (DT the) (NN color) (NNS channels)) (PP (IN of) (NP (DT the) (NN input) (NN image)))) (VP (VBP are) (VP (VBN separated))) (. .))
+(S (NP (DT The) (JJ comparative) (NNS results)) (VP (VBD showed) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN approach)) (VP (VBZ offers) (NP (NP (JJR higher) (NN precision) (NN rate)) (PP (IN than) (NP (JJ many) (VBN known) (NNS methods)))))))) (. .))

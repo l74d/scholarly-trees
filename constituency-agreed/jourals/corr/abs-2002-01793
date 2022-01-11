@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN framework)) (VP (VBZ is) (ADJP (JJ flexible)) (, ,) (S (VP (VBG enabling) (NP (NP (JJ different) (NN proximity) (NNS definitions)) (PP (IN between) (NP (NNS data) (NNS points))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ useful) (PP (IN for) (NP (NP (JJ many) (JJ other) (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN translated) (PP (IN into) (NP (VBN signed) (NN graph) (NN cut)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (JJ isodual) (JJ quasi-cyclic) (NNS codes))))) (. .))
+(S (ADVP (RB Then)) (NP (DT these) (NNS conditions)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (JJ isodual) (JJ quasi-cyclic) (NNS codes))))))) (. .))

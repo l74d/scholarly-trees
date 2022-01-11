@@ -1,0 +1,1 @@
+(S (ADVP (RB Meanwhile)) (, ,) (NP (DT an) (NN uncertainty) (NN calibration) (NN approach)) (VP (VBZ is) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ whole) (NN pipeline))) (S (VP (TO to) (VP (VB make) (S (NP (NP (DT the) (NN uncertainty)) (VP (VBN generated) (PP (IN by) (NP (JJ Bayesian) (NN network))))) (ADJP (JJ interpretable)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP refine) (NP (DT the) (NN model)) (PP (IN by) (S (VP (VBG adding) (NP (JJ extra) (NNS restrictions)))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (JJ nominal) (NN executability)) (VP (VBZ provides) (NP (NP (DT a) (JJ new) (NN expressiveness) (NN criterion)) (PP (IN for) (NP (NN process) (NN calculi))))) (. .))

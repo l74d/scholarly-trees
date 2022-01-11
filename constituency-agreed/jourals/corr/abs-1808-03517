@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP Caterpillar) (NN compiler)) (VP (VBZ supports) (NP (NP (DT a) (JJ large) (NN array)) (PP (IN of) (NP (NNP BPMN) (NNS constructs))) (, ,) (PP (VBG including) (NP (NP (NNS subprocesses)) (, ,) (NP (JJ multi-instances) (NNS activities)) (CC and) (NP (NN event) (NNS handlers)))))) (. .))

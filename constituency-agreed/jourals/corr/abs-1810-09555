@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (MD can) (ADVP (RB also)) (VP (VB reduce) (NP (NP (DT the) (JJ cumulative) (NN amount)) (PP (IN of) (NP (NP (NN time)) (VP (VBN spent) (S (VP (VBG interpreting) (NP (NN code)))))))))) (. .))
+(S (NP (NP (DT All) (CD three)) (PP (IN of) (NP (DT these) (NNS effects)))) (VP (MD can) (VP (VB improve) (NP (JJ actual) (NN runtime) (NN performance)))) (. .))

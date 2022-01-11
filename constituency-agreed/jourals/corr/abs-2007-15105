@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (VBN considered) (NN scenario))) (, ,) (NP (DT a) (NNP UAV)) (VP (VBZ plays) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (DT an) (JJ aerial) (NN cloudlet)))) (S (VP (TO to) (VP (VB collect) (CC and) (VB process) (NP (NP (DT the) (NN computation) (NNS tasks)) (VP (VBN offloaded) (PP (IN by) (NP (NN ground) (NNS users))))))))) (. .))

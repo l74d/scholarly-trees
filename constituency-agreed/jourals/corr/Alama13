@@ -1,0 +1,2 @@
+(S (PP (IN Without) (NP (DT this) (NN axiom))) (, ,) (NP (DT the) (NN axiom) (NN system)) (VP (VBZ is) (ADVP (RB indeed)) (ADJP (JJ independent))) (. .))
+(S (PP (IN For) (NP (DT every) (NN axiom))) (, ,) (ADVP (RB then)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT a) (JJ finite) (NN independence) (NN model))) (. .))

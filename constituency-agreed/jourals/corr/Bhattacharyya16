@@ -1,0 +1,3 @@
+(S (NP (VBG Crowdsourcing) (NNS environments)) (VP (VBP have) (VP (VBN shown) (NP (NN promise)) (PP (IN in) (S (VP (VBG solving) (NP (JJ diverse) (NNS tasks)) (PP (IN in) (NP (JJ limited) (NN cost) (CC and) (NN time)))))))) (. .))
+(S (ADVP (RB Interestingly)) (, ,) (NP (NP (DT the) (NN success)) (PP (IN of) (NP (JJ such) (NNS models)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN volume)) (PP (IN of) (NP (NP (DT the) (JJ total) (NN number)) (PP (IN of) (NP (NNS workers)))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (NN dropout) (NN prediction)) (PP (IN in) (NP (JJ such) (NNS environments)))) (VP (VBZ is) (NP (DT a) (JJ promising) (NN task))) (. .))

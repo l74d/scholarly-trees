@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ exhibits) (NP (JJ local) (NN convergence))))) (CC and) (SBAR (IN that) (S (NP (DT the) (NN convergence) (NN rate)) (VP (VBZ improves) (ADVP (RB exponentially)) (PP (IN with) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN overlap)))))))))) (. .))

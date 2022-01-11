@@ -1,0 +1,1 @@
+(S (S (VP (VBG Inferring) (NP (NP (DT some) (NN information)) (PP (IN on) (NP (DT the) (VBG leading) (JJ Laplacian) (NNS eigenvectors)))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP use) (NP (PRP$ our) (NN framework)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NN network) (NN clustering)))))) (. .))

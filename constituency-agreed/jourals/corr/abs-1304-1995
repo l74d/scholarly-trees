@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (ADJP (RBS most) (JJ important)) (NNS issues)) (PP (IN of) (NP (NN image) (NN retrieval)))) (VP (VBP are) (NP (NP (DT the) (NN representation) (CC and) (NN ranking)) (PP (IN of) (NP (DT the) (NNS images))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS technologies)) (VP (VBP have) (ADVP (RB never)) (VP (VBN been) (VP (VBN used) (ADVP (RB together))))) (. .))

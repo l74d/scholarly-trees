@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ relevant) (NN one)) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (NNS scores) (CC and) (NNS loadings)) (PP (IN in) (NP (NN sPCA)))) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ orthogonal))))))) (. .))

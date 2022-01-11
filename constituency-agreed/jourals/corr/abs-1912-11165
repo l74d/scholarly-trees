@@ -1,0 +1,2 @@
+(S (NP (JJ Sequential) (NN pattern) (NN mining)) (VP (VBZ is) (NP (NP (DT an) (JJ interesting) (NN research) (NN area)) (PP (IN with) (NP (NP (JJ broad) (NN range)) (PP (IN of) (NP (NNS applications))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (JJ traditional) (NNS frameworks)) (PP (IN for) (NP (JJ sequential) (NN pattern) (NN mining)))) (VP (VBP assume) (SBAR (S (NP (DT all) (NNS events)) (VP (VBP have) (NP (DT the) (JJ same) (NN weight) (CC or) (NN utility)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (RB Not) (PDT all) (DT the) (NNS constraints)) (VP (VBP are) (VP (VBN evaluated) (PP (IN during) (NP (NP (DT every) (NN iteration)) (PP (IN of) (NP (DT the) (NN algorithm))))) (, ,) (S (VP (VBG providing) (NP (NP (DT a) (JJ significant) (NN acceleration)) (PP (IN of) (NP (DT the) (NN search)))))))) (. .))
+(S (NP (NP (NN Test) (NNS problems)) (CC and) (NP (JJ extensive) (JJ numerical) (NNS experiments))) (VP (VBP are) (VP (VBN presented))) (. .))

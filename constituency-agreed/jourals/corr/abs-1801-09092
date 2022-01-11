@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS models)) (VP (VP (VBP learn) (NP (NP (ADJP (RB semantically) (JJ meaningful)) (NNS representations)) (PP (IN of) (NP (DT the) (NN face))))) (CC and) (VP (VB generate) (NP (ADJP (ADJP (JJ appropriate)) (CC and) (ADJP (RB temporally) (JJ smooth))) (JJ facial) (NNS behaviors)) (PP (IN in) (NP (JJ dyadic) (NNS interactions))))) (. .))

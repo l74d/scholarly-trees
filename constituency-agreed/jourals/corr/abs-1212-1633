@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NN sign)) (PP (IN of) (NP (DT a) (VBN given) (NN relationship)))) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS evidences)) (VP (VBN provided) (PP (IN in) (NP (NP (DT the) (JJ current) (NN snapshot)) (PP (IN of) (NP (DT the) (NN network))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (JJ quadratic) (NN correlation)) (PP (IN between) (NP (NN peer) (NNS members)))) (S (VP (TO to) (VP (VB train) (NP (DT the) (NN predictor)))))) (. .))
+(S (PP (IN In) (NP (JJ many) (NNS cases))) (NP (PRP it)) (VP (VBZ shows) (NP (ADJP (RB almost) (JJ perfect)) (NN prediction) (NN accuracy))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ first) (NN release)) (PP (IN of) (NP (PRP$ our) (NN benchmark)))) (VP (VBZ has) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NNS sequences)))) (, ,) (S (VP (VBG covering) (NP (NP (QP (JJR more) (IN than) (CD 50)) (NN km)) (PP (IN of) (NP (JJ indoor) (NNS floors))))))) (. .))
+(S (NP (JJR More) (NNS data)) (VP (MD will) (VP (VB be) (VP (VBN added) (SBAR (IN as) (S (NP (DT the) (NN robot) (NN fleet)) (VP (VBZ continues) (S (VP (TO to) (VP (VB operate) (PP (IN in) (NP (JJ real) (NN life)))))))))))) (. .))

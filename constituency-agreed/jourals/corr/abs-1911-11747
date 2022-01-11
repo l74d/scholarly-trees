@@ -1,0 +1,2 @@
+(S (NP (NNS Voters)) (VP (VBP provide) (NP (PRP$ their) (NNS preferences)) (PP (IN by) (S (VP (VBG approving) (NP (NP (DT an) (JJ arbitrary) (NN number)) (PP (IN of) (NP (NNS candidates)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ formalizes) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (DT the) (CD two) (NNS types)) (PP (IN of) (NP (NN proportionality))))))) (. .))

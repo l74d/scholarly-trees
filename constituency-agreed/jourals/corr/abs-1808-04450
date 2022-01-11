@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NN end))) (, ,) (NP (DT the) (NN network)) (VP (VBZ is) (VP (VBN trained) (CC and) (VBN tested) (PP (IN in) (NP (NNP KITTI) (NN road) (NN benchmark))))) (. .))

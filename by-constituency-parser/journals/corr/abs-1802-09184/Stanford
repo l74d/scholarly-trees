@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (JJ technical) (NN issue)) (PP (IN in) (NP (NP (DT the) (NN analysis)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (ADJP (RB easily) (JJ fixable))))))))) (. .))
+(FRAG (NP (PRP We)) (, ,) (S (ADVP (RB therefore)) (, ,) (VP (VB withdraw) (NP (DT the) (NN submission)))) (. .))
+(ADJP (JJ Sorry) (PP (IN for) (NP (DT the) (NN inconvenience))) (. .))

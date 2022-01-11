@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NNP GP) (NN technique)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (JJ multi-objective) (NNP GP) (NN problem)) (PP (IN as) (NP (DT a) (NN vector) (NN optimization) (NN problem))))))))) (. .))

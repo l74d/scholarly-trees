@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NN architecture) (NN community))) (, ,) (NP (NP (DT the) (NN lion) (NN share)) (PP (IN of) (NP (NN effort)))) (VP (VBZ has) (VP (VBN targeted) (NP (NP (NNP CNN) (NN inference)) (PP (IN for) (NP (NN image) (NN recognition)))))) (. .))
+(S (NP (NP (DT The) (ADJP (RB closely) (JJ related)) (NN problem)) (PP (IN of) (NP (NN video) (NN recognition)))) (VP (VBZ has) (VP (VBN received) (NP (ADJP (RB far) (JJR less)) (NN attention)) (PP (IN as) (NP (DT an) (NN accelerator) (NN target))))) (. .))

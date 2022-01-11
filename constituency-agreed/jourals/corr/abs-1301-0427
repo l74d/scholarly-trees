@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ respective) (NN partition) (NN function))) (, ,) (NP (NP (NNP Kolmogorov) (NN complexity)) (PP (IN of) (NP (DT a) (NN code)))) (VP (VBZ plays) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (PRP$ its) (NN energy))))) (. .))
+(S (NP (DT This) (NN version)) (VP (VBZ contains) (NP (JJ minor) (NNS corrections) (CC and) (NNS additions))) (. .))

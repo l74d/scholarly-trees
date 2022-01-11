@@ -1,0 +1,1 @@
+(S (S (NP (DT Each) (JJ new) (NN module)) (VP (VBZ works) (PP (IN at) (NP (NP (DT a) (JJR slower) (NN frequency)) (PP (IN than) (NP (DT the) (JJ previous) (NNS ones))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN initialized) (S (VP (TO to) (VP (VB encode) (NP (NP (DT the) (JJ subsampled) (NN sequence)) (PP (IN of) (NP (JJ hidden) (NNS activations)))))))))) (. .))

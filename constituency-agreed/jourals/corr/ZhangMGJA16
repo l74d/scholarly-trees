@@ -1,0 +1,1 @@
+(S (NP (VBN Imbalanced) (NNS datasets)) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN handled) (S (VP (VBG using) (NP (NN minority) (NN oversampling)))) (, ,) (SBAR (IN whereas) (S (NP (DT the) (NNP SMOTE) (NN algorithm)) (VP (VBZ is) (NP (NP (DT a) (JJ successful) (NN oversampling) (NN algorithm)) (PP (IN with) (NP (JJ numerous) (NNS extensions))))))))) (. .))

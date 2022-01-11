@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP explore) (SBAR (IN whether) (S (NP (NNP VQA)) (VP (VBZ is) (ADJP (JJ solvable)) (SBAR (WHADVP (WRB when)) (S (NP (NNS images)) (VP (VBP are) (VP (VBN captured) (PP (IN in) (NP (DT a) (JJ sub-Nyquist) (JJ compressive) (NN paradigm))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ nighttime) (NN photography))) (, ,) (NP (DT the) (NN sky)) (VP (MD can) (ADVP (RB also)) (VP (VB suffer) (PP (IN from) (NP (NN noise) (CC and) (NN color) (NNS artifacts))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN dataset)) (S (VP (TO to) (VP (VB train) (NP (DT a) (JJ neural) (NN network)) (PP (IN for) (NP (JJ semantic) (NN sky) (NN segmentation))))))) (. .))

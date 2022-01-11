@@ -1,0 +1,2 @@
+(S (NP (NN Machine) (NN learning)) (VP (VBZ has) (NP (NP (DT a) (VBN recognised) (NN need)) (PP (IN for) (NP (NP (JJ large) (NNS amounts)) (PP (IN of) (NP (VBN annotated) (NNS data))))))) (. .))
+(S (SBAR (IN Although) (S (NP (JJ many) (JJ promising) (NNS results)) (VP (VBP are) (VP (VBN reported))))) (, ,) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (JJ diagnostic) (JJ crowdsourced) (NNS labels)))) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ unclear))) (. .))

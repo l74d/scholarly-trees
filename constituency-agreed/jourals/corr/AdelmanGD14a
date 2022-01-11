@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS solutions)) (VP (VBP require) (NP (NP (JJ special) (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (ADJP (RB easily) (JJ computable))))))) (. .))
+(S (PP (IN For) (NP (DT this) (NN reason))) (, ,) (NP (PRP$ their) (JJ asymptotic) (NNS forms)) (VP (VBP are) (ADVP (RB typically)) (VP (VBN used) (SBAR (IN since) (S (NP (PRP they)) (VP (VBP are) (ADJP (ADVP (RBR more) (RB readily)) (JJ available))))))) (. .))

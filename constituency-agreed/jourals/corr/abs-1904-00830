@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP learn) (NP (JJ hierarchical) (NNS features)) (S (VP (TO to) (VP (VB gather) (NP (JJ contextual) (NN information)) (PP (IN from) (NP (VBG neighboring) (NNS pixels))))))) (. .))
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (ADJP (ADJP (JJ compact)) (, ,) (ADJP (JJ efficient)) (, ,) (CC and) (ADJP (RB fully) (JJ differentiable)))) (. .))

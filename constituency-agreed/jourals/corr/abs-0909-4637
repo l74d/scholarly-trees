@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB regain) (NP (JJ sequential) (NN consistency))))) (, ,) (NP (DT a) (NN programmer)) (VP (VBZ has) (S (VP (TO to) (VP (VB follow) (NP (DT an) (JJ appropriate) (NN programming) (NN discipline)))))) (. .))
+(S (ADVP (RB Instead)) (, ,) (NP (NNS threads)) (VP (VBP use) (NP (NN ghost) (NNS operations)) (S (VP (TO to) (VP (VB acquire) (CC and) (VB release) (NP (NP (NN ownership)) (PP (IN of) (NP (NN memory) (NNS addresses)))))))) (. .))

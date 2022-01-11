@@ -1,0 +1,1 @@
+(S (S (NP (DT These) (NNS networks)) (VP (VBP are) (VP (VBN trained) (PP (IN on) (NP (JJ large) (NNS datasets))) (S (VP (TO to) (VP (VB imitate) (NP (JJ human) (NNS actions)))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP lack) (NP (NP (JJ semantic) (NN understanding)) (PP (IN of) (NP (NN image) (NNS contents)))))) (. .))

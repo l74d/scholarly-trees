@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB recognize) (NP (NP (NNS actions)) (PP (IN in) (NP (NN video)))) (PP (IN without) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (NNS examples))))))))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (CD four) (NN action) (NNS datasets)))) (VP (VBP demonstrate) (NP (NP (DT the) (NN potential)) (PP (IN of) (NP (PRP$ our) (NN approach))))) (. .))

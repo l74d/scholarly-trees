@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP look) (PP (IN at) (NP (DT the) (NN possibility) (S (VP (TO to) (VP (VB implement) (NP (DT the) (NN algorithm)) (S (VP (TO to) (VP (VB construct) (NP (NP (DT a) (JJ discrete) (NN line)) (VP (VBN devised) (PP (IN by) (NP (NP (DT the) (JJ first) (NN author)) (PP (IN in) (NP (JJ cellular) (NN automata)))))))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (PDT such) (DT an) (NN implementation)) (VP (VBZ is) (ADJP (JJ feasible)))))) (. .))

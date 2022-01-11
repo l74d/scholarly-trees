@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (NP (NNP Lyapunov) (NNS inequalities)) (PP (IN for) (NP (NP (DT this) (NN class)) (PP (IN of) (NP (NNS systems)))))) (VP (VBP admit) (NP (JJ diagonal) (NNS solutions))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (PP (IN by) (S (VP (VBG illustrating) (NP (NP (DT some) (NNS advantages) (CC and) (NNS limitations)) (PP (IN of) (NP (PRP$ our) (NNS results)))) (PP (IN with) (NP (JJ numerical) (NNS examples))))))) (. .))

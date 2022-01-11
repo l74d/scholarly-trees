@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (NP (DT a) (NN concise) (NN description)) (PP (IN of) (NP (NNP Orthogonal) (NNP Polar) (NNP Grassmann) (NNP Codes))))) (CC and) (VP (VB motivate) (NP (PRP$ their) (NN relevance)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP describe) (NP (NP (JJ efficient) (NN encoding) (CC and) (VBG decoding) (NN algorithms)) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NNP Line) (NNPS Grassmannians))))))) (CC and) (VP (VB introduce) (NP (DT some) (JJ open) (NNS problems)))) (. .))

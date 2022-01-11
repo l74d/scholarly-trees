@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (NP (NN word) (NNS embeddings)))) (VP (VBZ has) (VP (VBN received) (NP (NP (DT a) (JJ significant) (NN amount)) (PP (IN of) (NP (NN attention)))) (ADVP (RB recently)))) (. .))
+(S (ADVP (RB Often)) (, ,) (NP (NN word) (NNS embeddings)) (VP (VBP are) (VP (VBN learned) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN manner))) (PP (IN from) (NP (NP (DT a) (JJ large) (NN collection)) (PP (IN of) (NP (NN text))))))) (. .))

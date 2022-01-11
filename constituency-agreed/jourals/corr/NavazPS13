@@ -1,0 +1,4 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ several) (JJ important) (NNS requirements)) (PP (IN for) (NP (NNS data) (NNS grids))) (, ,) (PP (VBG including) (NP (NP (NN information) (NN survivability)) (, ,) (NP (NN security)) (, ,) (CC and) (NP (NN access) (NN performance)))))) (. .))
+(S (NP (NNP DATA) (NNP PARTITIONING)) (VP (VBZ is) (VP (VBN known) (SBAR (IN as) (S (NP (DT the) (JJ single) (NNS data)) (VP (MD can) (VP (VB be) (VP (VBN divided) (PP (IN into) (NP (JJ multiple) (NNS objects)))))))))) (. .))
+(S (VP (VBG storing) (NP (JJ same) (NNS data)) (PP (IN in) (NP (JJ multiple) (NNS systems)))) (. .))
+(S (NP (NN Replication) (NNS techniques)) (VP (VBP are) (ADVP (RB frequently)) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NNS data) (NN availability))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (ADJP (RBR More) (JJ recent)) (NNS developments)) (VP (VBP have) (VP (VBN established) (NP (PRP$ their) (NN application)) (PP (IN in) (NP (NP (ADJP (RBR more) (JJ general)) (NN inference) (NNS problems)) (PP (JJ such) (IN as) (NP (JJ Bayesian) (NN modeling))))))) (. .))
+(S (NP (DT These) (NNS algorithms)) (VP (VBP have) (VP (VBN attracted) (NP (JJ considerable) (NNS attentions)) (PP (IN in) (NP (JJ recent) (NNS years))) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP admit) (NP (ADJP (JJ natural) (CC and) (JJ scalable)) (NNS parallelizations))))))) (. .))

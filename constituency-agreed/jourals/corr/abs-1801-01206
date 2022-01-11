@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ radial) (NN basis) (NN function) (NN collocation) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (ADVP (RB easily)) (VP (VB tackle) (NP (DT the) (JJ irregular) (NN domain) (NNS problems)))))))) (. .))
+(S (NP (DT The) (JJ directional) (JJ fractional) (NNP Laplacian)) (VP (VBZ is) (VP (VBN chosen) (PP (IN from) (NP (NP (JJ varied) (NNS definitions)) (PP (IN of) (NP (JJ fractional) (NNP Laplacian))))))) (. .))

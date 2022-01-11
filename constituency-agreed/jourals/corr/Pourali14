@@ -1,0 +1,2 @@
+(S (NP (JJ Automatic) (NN image) (NN annotation)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ challenging)) (NNS problems)) (PP (IN in) (NP (NN machine) (NN vision) (NNS areas))))))) (. .))
+(S (CC But) (NP (NP (DT the) (NN computation) (NN cost)) (PP (IN of) (NP (DT these) (NNS approaches)))) (VP (VBZ is) (ADJP (RB very) (JJ high))) (. .))

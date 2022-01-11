@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG inferring) (NP (JJ such) (JJ latent) (JJ physical) (NNS properties)) (PP (IN from) (NP (NNS observations)))))))) (. .))
+(S (NP (PRP$ Our) (NN solution)) (VP (VBZ is) (NP (NP (DT an) (JJ iterative) (NN refinement) (NN procedure)) (PP (IN with) (NP (NP (NN simulation)) (PP (IN at) (NP (PRP$ its) (NN core))))))) (. .))

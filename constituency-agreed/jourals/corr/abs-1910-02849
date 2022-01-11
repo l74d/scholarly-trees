@@ -1,0 +1,2 @@
+(S (NP (NN Multiplication)) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN step)) (PP (IN in) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS calculations))))))) (. .))
+(S (PP (IN With) (NP (JJ straightforward) (NN schoolbook) (NNS methods))) (NP (DT this)) (VP (MD would) (VP (VB result) (PP (IN in) (NP (NP (NP (DT a) (JJ quadratic) (NN number)) (PP (IN of) (NP (NNP Toffoli) (NNS gates)))) (CC and) (NP (NP (DT a) (JJ linear) (NN number)) (PP (IN of) (NP (NNP CNOT) (NNS gates)))))))) (. .))

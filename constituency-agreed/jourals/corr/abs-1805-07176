@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB represent) (NP (NP (NNS logics)) (, ,) (NP (VBG programming) (NNS languages)) (, ,) (CC and) (NP (NN security) (NNS systems)))))))) (. .))
+(S (S (NP (DT These)) (VP (VBP are) (NP (NP (CD three) (NNS aspects)) (PP (IN of) (NP (DT the) (JJ same) (NN message)))))) (: :) (S (NP (NP (NN programming)) (VP (VBG using) (NP (DT the) (JJ right) (NN abstraction)))) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB solve) (NP (JJR deeper) (NNS problems)) (PP (IN with) (NP (JJR less) (NN effort)))))))) (. .))

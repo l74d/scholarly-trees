@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (JJ exact) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN time) (NN complexity)) (PP (IN of) (NP (VBN distributed) (NN graph) (NN colouring)))))) (. .))

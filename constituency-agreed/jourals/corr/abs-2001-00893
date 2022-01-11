@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB quantify) (NP (DT these) (NNS uncertainties)) (PP (IN with) (NP (JJ random) (NNS forests))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN regard))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP compare) (NP (JJ random) (NNS forests)) (PP (IN with) (NP (NP (JJ deep) (JJ neural) (NNS networks)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (VP (VBN been) (VP (VBN used) (PP (IN for) (NP (DT a) (JJ similar) (NN purpose))))))))))) (. .))

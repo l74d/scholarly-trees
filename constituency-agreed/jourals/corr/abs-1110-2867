@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN transmitter)) (VP (VBZ has) (NP (JJ multiple) (NNS antennas)) (, ,) (SBAR (IN while) (S (NP (DT each) (NN receiver)) (VP (VBZ uses) (NP (DT a) (JJ single) (NN antenna)))))) (. .))
+(S (NP (DT The) (NN channel) (NN estimation) (NNS errors)) (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (VP (VBN bounded) (PP (IN in) (NP (NP (JJ elliptical) (NNS regions)) (SBAR (WHNP (WP$ whose) (NN geometry)) (S (VP (VBZ is) (VP (VBN known) (PP (IN at) (NP (DT the) (NNS transmitters))))))))))))))) (. .))

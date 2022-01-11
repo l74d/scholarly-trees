@@ -1,0 +1,1 @@
+(S (SBAR (IN Although) (, ,) (S (NP (DT the) (NNP LMS) (NN algorithm)) (VP (VBZ is) (ADJP (JJ robust) (CC and) (JJ reliable))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ slow) (PP (IN in) (NP (NN convergence))))) (. .))

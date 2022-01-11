@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS circuits)) (VP (VBP verify) (SBAR (IN that) (S (NP (NP (DT a) (VBN given) (NN sequence)) (PP (IN of) (NP (NNS edges) (CC and) (NNS nodes)))) (VP (VBZ is) (ADVP (RB indeed)) (NP (NP (DT a) (NN path)) (PP (IN in) (NP (NP (DT the) (NN graph)) (SBAR (S (NP (PRP they)) (VP (VBP represent))))))))))) (. .))

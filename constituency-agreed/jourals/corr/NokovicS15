@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB reduce) (NP (NN validation) (NN time)))))) (. .))
+(S (PP (IN On) (NP (NP (DT the) (NN series)) (PP (IN of) (NP (NNS examples))))) (NP (PRP we)) (VP (VBP illustrate) (SBAR (WHADVP (WRB how)) (S (NP (NNS models) (CC and) (NNS properties)) (VP (VBP are) (VP (VBN specified) (S (VP (VBG using) (NP (NN pState))))))))) (. .))

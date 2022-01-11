@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN generator)) (ADVP (RB therefore)) (VP (VBZ learns) (S (VP (VP (TO to) (VP (VB produce) (NP (NP (NNS values)) (SBAR (S (NP (DT the) (NN adversary)) (VP (MD can) (RB not) (VP (VB predict)))))))) (, ,) (CONJP (RB rather) (IN than)) (VP (TO to) (VP (VB approximate) (NP (DT an) (JJ explicit) (NN reference) (NN distribution))))))) (. .))

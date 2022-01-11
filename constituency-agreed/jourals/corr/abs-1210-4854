@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ main) (NN intuition)) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ correct) (NNS correspondences)) (VP (VBP tend) (S (VP (TO to) (VP (VB occur) (ADVP (RBR more) (RB frequently))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN method)) (PP (IN on) (NP (NP (PRP$ our) (JJ novel) (NN dataset)) (PP (IN of) (NP (JJ professional) (NN soccer) (NNS commentaries)))))) (. .))

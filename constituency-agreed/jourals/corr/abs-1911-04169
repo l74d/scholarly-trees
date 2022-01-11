@@ -1,0 +1,2 @@
+(S (ADVP (RB Traditionally)) (NP (DT this)) (VP (VBZ has) (VP (VBN been) (VP (VBN accomplished) (S (VP (VBG using) (NP (NN template) (NN matching))))))) (. .))
+(S (PP (IN In) (NP (JJ traditional) (NN template) (VBG matching))) (NP (NP (DT the) (NN comparison)) (PP (IN between) (NP (NP (DT a) (NN template)) (CC and) (NP (DT the) (NN image))))) (VP (VBZ is) (ADJP (JJ independent) (PP (IN of) (NP (DT the) (JJ other) (NNS templates))))) (. .))

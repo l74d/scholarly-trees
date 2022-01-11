@@ -1,0 +1,2 @@
+(S (NP (DT This) (JJ joint) (NN deployment) (NN scenario)) (VP (VBZ is) (VP (VBN cast) (PP (IN as) (NP (DT a) (JJ multi-objective) (NN optimization) (NN problem))) (PP (IN under) (NP (NP (DT the) (NNS constraints)) (PP (IN of) (NP (NP (JJ limited) (NN backhaul) (NN capacity)) (CC and) (NP (NN outage) (NN probability)))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN joint) (NN deployment) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (S (VP (VBG planning) (NP (JJ small) (NN cell) (NNS networks)))))))) (. .))

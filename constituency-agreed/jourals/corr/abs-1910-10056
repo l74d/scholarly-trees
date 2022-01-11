@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (DT both)) (VP (VBP are) (VP (VBN combined) (S (VP (VBG using) (NP (JJ deep) (JJ neural) (NNS networks)))))) (. .))
+(S (NP (DT This)) (VP (VBZ urges) (NP (DT the) (NN need) (S (VP (TO to) (VP (VB explore) (NP (NP (JJ different) (NNS cues) (CC or) (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB extract) (NP (NN motion)) (PP (IN in) (NP (DT a) (ADJP (RBR more) (JJ informative)) (NN fashion))))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Neural) (NN machine) (NN translation~)) (PRN (-LRB- -LRB-) (NP (NNP NMT)) (-RRB- -RRB-))) (VP (VBZ is) (ADJP (JJ ineffective)) (PP (IN for) (NP (NN zero-resource) (NNS languages)))) (. .))
+(S (NP (NP (JJ Recent) (VBZ works)) (VP (VBG exploring) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (NP (JJ unsupervised) (JJ neural) (NN machine) (NN translation)) (PRN (-LRB- -LRB-) (NP (NNP UNMT)) (-RRB- -RRB-)) (PP (IN with) (NP (JJ only) (JJ monolingual) (NNS data)))))))) (VP (MD can) (VP (VB achieve) (NP (JJ promising) (NNS results)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBP are) (ADVP (RB still)) (NP (NP (JJ big) (NNS gaps)) (PP (IN between) (NP (NNP UNMT) (CC and) (NNP NMT))) (PP (IN with) (NP (JJ parallel) (NN supervision))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ evaluates) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (DT the) (JJ architectural) (NN style)))) (VP (VBZ affects) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (DT the) (VBG resulting) (NN system)))))))) (. .))
+(S (ADVP (RB Then)) (NP (DT the) (VBN evaluated) (NNS designs)) (VP (VBP are) (VP (VBN compared) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (SBAR (IN whether) (S (NP (EX there)) (VP (VBP are) (NP (JJ significant) (NNS differences)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (NNS data)) (VP (MD may) (RB not) (VP (VB fit) (PP (IN in) (NP (NN memory))))) (. .))
+(SBARQ (WHADVP (WRB How)) (S (VP (TO to) (VP (VB select) (NP (JJ useful) (NNS features)) (PP (IN with) (NP (JJ limited) (NN memory) (NN space)))))) (. ?))

@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP ZOSPI)) (VP (VBZ achieves) (NP (NP (JJ competitive) (NNS results)) (PP (IN on) (NP (NNP MuJoCo) (NN locomotion) (NNS tasks)))) (PP (IN with) (NP (DT a) (JJ remarkable) (NN sample) (NN efficiency))))))) (. .))

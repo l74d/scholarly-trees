@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NNS contributions)) (ADVP (RB mainly)) (VP (VBP consist) (PP (IN of) (NP (CD three) (NNS parts)))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (PRP we)) (VP (VBP analyse) (NP (NP (DT the) (NN list) (NN decodability)) (PP (IN of) (NP (JJ random) (NN insdel) (NNS codes))))) (. .))

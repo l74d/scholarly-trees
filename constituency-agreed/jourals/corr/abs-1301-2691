@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBD was) (VP (VBN established) (PP (IN by) (NP (NNP Honkala))) (PP (IN in) (NP (CD 1986))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VBN verified) (PP (IN in) (NP (JJ linear) (NN time))) (SBAR (IN if) (S (NP (DT a) (VBN given) (JJ minimal) (NN automaton)) (VP (VBZ meets) (NP (DT this) (NN description)))))))))) (. .))

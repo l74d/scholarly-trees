@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (CD two) (JJ basic) (NNS classes)) (PP (IN of) (NP (NN evaluation) (NNS metrics))))) (. .))
+(S (NP (DT The) (JJ first)) (VP (VBZ characterizes) (NP (NP (NN accuracy)) (PP (IN over) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ individual) (NNS predictions)))))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ average) (JJ absolute) (NN deviation)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (NP (DT the) (JJ local) (NNS controllers)) (CC and) (NP (DT the) (JJ remote) (NN controller))))) (VP (VBZ is) (S (VP (TO to) (ADVP (RB cooperatively)) (VP (VB minimize) (NP (NP (DT the) (JJ infinite) (NN horizon) (NN time) (NN average)) (PP (IN of) (NP (VBN expected) (JJ quadratic) (NN cost)))))))) (. .))
+(S (PP (IN Above) (NP (DT these) (NNS thresholds))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT no) (NN strategy)) (VP (MD can) (VP (VB achieve) (NP (JJ finite) (NN cost))))))) (. .))

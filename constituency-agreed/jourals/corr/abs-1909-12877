@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (RB only) (DT a) (NN heuristic)) (VP (VBD was) (VP (VBN provided) (PP (IN for) (NP (PRP$ its) (NN computation))))) (. .))
+(S (PP (IN In) (NP (CD 2006))) (, ,) (NP (NNP Bergeron) (, ,) (NNP Mixtacki) (CC and) (NNP Stoye)) (VP (VBD showed) (SBAR (IN that) (S (NP (DT the) (NNP DCJ) (NN distance)) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN in) (NP (JJ linear) (NN time))) (PP (IN with) (NP (DT a) (ADJP (RB very) (JJ simple)) (NN procedure))))))))) (. .))

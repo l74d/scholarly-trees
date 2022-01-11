@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN processor)) (VP (MD must) (VP (VB process) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NP (NNS jobs)) (PP (IN of) (NP (JJ various) (NNS sizes)))))))) (. .))
+(S (NP (NNP Jobs)) (VP (VP (VBP arrive) (PP (IN at) (NP (JJ different) (NNS times)))) (CC and) (VP (VBP have) (NP (JJ different) (NNS deadlines)))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NNP Time)) (VP (VBZ is) (VP (VBN modeled) (S (VP (VBG using) (NP (NN clock) (NNS variables))))))) (, ,) (CC and) (S (NP (NN recursion)) (VP (VBG using) (NP (NNS stacks)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN interference)) (VP (VBZ is) (VP (VBN represented) (PP (IN as) (NP (DT a) (NNP Poisson) (NN point) (NN process))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (CC and) (VBP discuss) (NP (NP (NP (NNS examples)) (PP (IN of) (NP (NNS applications)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT some) (JJ numerical) (NNS results)))) (. .))

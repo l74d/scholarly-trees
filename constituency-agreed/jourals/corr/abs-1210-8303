@@ -1,0 +1,1 @@
+(S (ADVP (RB Then)) (NP (CD one)) (ADVP (RB only)) (VP (VBZ needs) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT the) (NN checker)))))))) (. .))

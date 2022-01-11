@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN sensor) (NNS nodes)) (VP (VBP are) (ADJP (ADJP (JJ autonomous)) (CC and) (ADJP (RB spatially) (VBN distributed) (PP (IN in) (NP (NP (DT an) (NN area)) (PP (IN of) (NP (NN investigation)))))))) (. .))
+(S (SBAR (IN For) (S (NP (DT this)) (VP (TO to) (VP (VB happen))))) (, ,) (NP (DT the) (NN sensor) (NNS nodes)) (VP (MD must) (VP (VB be) (ADJP (JJ aware) (PP (IN of) (NP (PRP$ their) (JJ relative) (NNS positions)))))) (. .))

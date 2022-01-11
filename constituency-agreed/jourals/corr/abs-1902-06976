@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ past) (JJ few) (NNS years))) (, ,) (NP (JJ several) (JJ smart) (NNS contracts)) (VP (VBP have) (VP (VBN been) (VP (VBN exploited) (PP (IN by) (NP (NNS attackers)))))) (. .))
+(S (ADVP (RB Instead)) (, ,) (NP (PRP they)) (VP (VBP try) (S (VP (TO to) (VP (VB lure) (NP (PRP$ their) (NNS victims)) (PP (IN into) (NP (NNS traps))) (PP (IN by) (S (VP (VBG deploying) (NP (NP (ADJP (RB seemingly) (JJ vulnerable)) (NNS contracts)) (SBAR (WHNP (WDT that)) (S (VP (VBP contain) (NP (JJ hidden) (NNS traps))))))))))))) (. .))

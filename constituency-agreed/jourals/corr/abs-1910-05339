@@ -1,0 +1,1 @@
+(S (NP (NP (NN Dependency) (NNS failures)) (, ,) (NP (NN code) (NNS bugs)) (, ,) (NP (NN infrastructure) (NNS failures)) (, ,) (CC and) (NP (JJ other) (NNS problems))) (VP (MD can) (VP (VB cause) (NP (NN performance) (NNS regressions)))) (. .))

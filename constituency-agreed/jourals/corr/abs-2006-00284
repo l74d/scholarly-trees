@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT the) (NN problem)) (VP (MD might) (VP (VB be) (ADJP (JJ nonconvex)))) (. .))
+(S (PP (IN With) (NP (DT the) (NN curve))) (, ,) (S (NP (DT a) (NN convex) (JJ linear) (NN programming)) (VP (VBZ is) (VP (VBN formulated)))) (, ,) (CC and) (S (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (DT a) (JJ governmental) (NN policy)))) (VP (VBZ is) (VP (VBN discussed)))) (. .))

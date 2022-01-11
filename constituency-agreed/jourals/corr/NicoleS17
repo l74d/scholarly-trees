@@ -1,0 +1,2 @@
+(S (ADVP (RB Non-trivially)) (, ,) (PP (VBG depending) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ relevant) (NNS limits)) (VP (VBP are) (VP (VBN taken))))))) (, ,) (NP (NP (QP (JJR more) (IN than) (CD one)) (NN type)) (PP (IN of) (NP (NN equilibrium)))) (VP (MD can) (VP (VB be) (VP (VBN selected)))) (. .))
+(S (NP (DT The) (JJ theoretical) (NNS results)) (VP (VBP are) (VP (VBN confirmed) (PP (IN by) (NP (JJ multi-agent) (NNS simulations))))) (. .))

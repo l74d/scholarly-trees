@@ -1,0 +1,2 @@
+(S (NP (DT The) (ADJP (JJ certain) (CC and) (JJ possible)) (NNS rules)) (VP (VBP are) (ADVP (RB then)) (VP (VBN generated) (PP (VBN based) (PP (IN on) (NP (DT these) (JJ fuzzy) (NNS approximations)))))) (. .))
+(S (NP (DT These) (NNS rules)) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB classify) (NP (JJ unknown) (NNS objects)))))))) (. .))

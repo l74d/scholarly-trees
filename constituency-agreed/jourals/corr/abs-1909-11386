@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (JJ neural) (NNS methods)) (ADVP (RB generally)) (VP (VBP offer) (NP (JJ little) (NN transparency)))) (, ,) (CC and) (S (NP (NN interpretability)) (ADVP (RB often)) (VP (VBZ comes) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN performance))))))) (. .))

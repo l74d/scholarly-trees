@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ exact) (NN expression)) (PP (IN of) (NP (DT the) (NN network) (NN coverage) (NN probability)))) (VP (VBZ is) (VP (VBN derived))) (. .))
+(S (PP (IN As) (NP (DT a) (NN conclusion))) (, ,) (NP (NN cooperation) (NNS schemes)) (VP (MD can) (VP (VB improve) (NP (NN system) (NN performance)) (PP (IN without) (NP (NP (NN exploitation)) (PP (IN of) (NP (JJ extra) (NN network) (NNS resources))))))) (. .))

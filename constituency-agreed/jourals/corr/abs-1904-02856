@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB find) (NP (NP (NN graph) (NNS patterns)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ useful) (PP (IN for) (S (VP (VBG predicting) (NP (NNS facts)))))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NN model)) (VP (VBZ is) (ADJP (RB easily) (JJ interpretable)) (SBAR (IN because) (S (NP (DT the) (NN output) (NNS facts)) (VP (VBP are) (VP (VBN described) (PP (IN by) (NP (NN graph) (NNS patterns)))))))) (. .))

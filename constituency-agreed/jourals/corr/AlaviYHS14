@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN followed) (PP (IN by) (S (VP (VBG using) (NP (NP (DT a) (JJ discriminative) (NN mapping)) (PP (IN of) (NP (NN similarity) (NNS vectors)))) (PP (IN for) (NP (JJ final) (NN classification)))))))) (. .))

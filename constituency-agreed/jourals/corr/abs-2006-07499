@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN trained) (PP (IN in) (NP (DT a) (JJ semi-supervised) (NN fashion))) (PP (IN by) (S (VP (VBG utilising) (NP (JJ unlabelled) (NNS data)) (S (VP (TO to) (VP (VB boost) (NP (PRP$ its) (NN performance)))))))))))))) (. .))

@@ -1,0 +1,6 @@
+(S (NP (JJ Indian) (NNS languages)) (VP (VBP have) (NP (NP (JJ long) (NN history)) (PP (IN in) (NP (NML (NNP World) (NNP Natural)) (NNS languages))))) (. .))
+(S (NP (NNP Panini)) (VP (VBD was) (NP (NP (DT the) (ADJP (JJ first) (S (VP (TO to) (VP (VB define) (NP (NP (NNP Grammar)) (PP (IN for) (NP (NNP Sanskrit)))))))) (NN language)) (PP (IN with) (NP (NP (QP (RB about) (CD 4000)) (NNS rules)) (PP (IN in) (NP (JJ fifth) (NN century))))))) (. .))
+(S (NP (DT These) (NNS rules)) (VP (VBP contain) (NP (NN uncertainty) (NN information))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (RB not) (ADJP (JJ possible) (PP (IN to) (NP (NP (NN Computer) (NN processing)) (PP (IN of) (NP (NNP Sanskrit) (NN language)))))) (PP (IN with) (NP (JJ uncertain) (NN information)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (JJ fuzzy) (NN logic)) (CC and) (NP (JJ fuzzy) (NN reasoning))) (VP (VBP are) (VP (VBN proposed) (S (VP (TO to) (VP (VB deal) (S (VP (TO to) (VP (VB eliminate) (NP (NP (JJ uncertain) (NN information)) (PP (IN for) (NP (NN reasoning)))) (PP (IN with) (NP (NNP Sanskrit) (NN grammar))))))))))) (. .))
+(S (NP (DT The) (NNP Sanskrit) (NN language) (NN processing)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

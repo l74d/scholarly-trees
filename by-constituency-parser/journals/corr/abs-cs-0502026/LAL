@@ -1,0 +1,2 @@
+(S (S (VP (VBG Getting) (NP (DT an) (JJ unbiased) (NN result)))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB remarkably) (RB long) (VBG standing)) (NN problem)) (PP (IN of) (NP (JJ collective) (NN observation/measurement))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN pointed) (PRT (RP out)) (SBAR (IN that) (S (NP (NN quantum) (NN coin) (VBG tossing)) (VP (MD can) (VP (VB generate) (NP (JJ unbiased) (ADJP (NN result) (VBG defeating)) (NN dishonesty)))))))) (. .))

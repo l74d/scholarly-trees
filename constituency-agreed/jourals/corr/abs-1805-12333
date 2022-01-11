@@ -1,0 +1,1 @@
+(S (S (PP (IN In) (NP (NP (NN case)) (PP (IN of) (NP (DT a) (NN match))))) (, ,) (NP (DT the) (NN authentication) (NN request)) (VP (VBZ is) (VP (VBN approved)))) (, ,) (S (ADVP (RB otherwise)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN rejected)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP describe) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (CC and) (VBN verified) (PP (IN within) (NP (NP (CD one) (JJ single) (NN software) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (PRP$ our) (NN case))) (VP (VBZ is) (NP (DT the) (NNP Theorema) (NN system))))))))))))) (. .))

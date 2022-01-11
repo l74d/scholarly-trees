@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NN practice))) (, ,) (NP (NN gradient) (NNS penalties)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB regularize) (NP (DT the) (NN discriminator))))))) (. .))

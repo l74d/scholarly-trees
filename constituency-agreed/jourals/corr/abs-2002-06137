@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ real) (NN world))) (, ,) (NP (NNP RL) (NNS agents)) (VP (MD should) (VP (VB be) (VP (VBN rewarded) (PP (IN for) (S (VP (VBG fulfilling) (NP (JJ human) (NNS preferences)))))))) (. .))
+(S (NP (DT The) (JJ human) (NN preference) (NN classifier)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NP (DT the) (NN reward) (NN function)) (PP (IN of) (NP (DT an) (NNP RL) (NN agent))))) (S (VP (TO to) (VP (VB make) (S (NP (NNP RL) (NN agent)) (ADJP (RBR more) (JJ beneficial) (PP (IN for) (NP (NNS humans))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN work)) (VP (VBZ aims) (S (VP (TO to) (VP (VB address) (NP (NP (DT the) (NN defect)) (PP (IN of) (NP (NNP DRL)))) (PP (IN in) (NP (JJ tedious) (NN training) (NN time))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS experiments)))) (VP (VBP are) (VP (VBN executed) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN presented) (NN control) (NN framework))))))))) (. .))

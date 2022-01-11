@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP relax) (NP (DT this) (NN assumption))) (CC and) (VP (VB replace) (NP (PRP it)) (PP (IN with) (NP (JJR weaker) (JJ integral) (NNS constraints))))) (. .))
+(S (NP (VBG Existing) (NNS results)) (VP (MD can) (VP (VB be) (VP (VBN recovered) (PP (IN as) (NP (NP (JJ special) (NNS cases)) (PP (IN of) (NP (PRP$ our) (NNS results)))))))) (. .))

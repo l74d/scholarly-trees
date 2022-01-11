@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN way)) (, ,) (NP (DT each) (NN feature) (NN descriptor)) (VP (MD will) (VP (VB be) (ADJP (RBR more) (JJ robust) (S (VP (TO to) (VP (VB scale) (NP (NN change)) (PP (IN without) (NP (JJ significant) (NNS computations))))))))) (. .))
+(S (S (VP (VBG Using) (NP (DT the) (VBN proposed) (NN stereo) (NN feature) (NN descriptor)))) (, ,) (NP (DT a) (JJ visual) (NN odometry) (NN algorithm)) (VP (VBZ is) (VP (VBN designed) (CC and) (VBN tested) (PP (IN on) (NP (DT the) (NNP KITTI) (NN dataset))))) (. .))

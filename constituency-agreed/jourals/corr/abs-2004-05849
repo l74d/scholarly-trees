@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN problem) (NN conversion) (NN method)) (NP (NNP Binary) (NNP Relevance))) (VP (VBZ converts) (NP (DT a) (JJ familiar) (JJ single) (NN label)) (PP (IN into) (NP (DT a) (JJ multi-label) (NN algorithm)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ performs) (ADVP (RB well)) (PP (IN on) (NP (NNS data) (NNS sets))))))) (. .))

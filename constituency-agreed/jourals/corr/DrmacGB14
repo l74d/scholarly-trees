@@ -1,0 +1,2 @@
+(S (NP (NNP Vector) (NNP Fitting)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN method)) (PP (IN of) (S (VP (VBG constructing) (NP (NP (JJ rational) (NNS approximants)) (VP (VBN designed) (S (VP (TO to) (VP (VB fit) (NP (VBN given) (NN frequency) (NN response) (NNS measurements)))))))))))) (. .))
+(S (NP (JJ Several) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB support) (NP (DT the) (JJ theoretical) (NN discussion))))))) (. .))

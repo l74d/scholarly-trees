@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN written) (PP (IN for) (NP (NP (DT a) (JJ general) (NN audience)) (ADJP (JJ interested) (PP (IN in) (NP (NN science) (CC and) (NN philosophy)))))))) (. .))
+(S (ADVP (RB Intuitively)) (, ,) (NP (NN randomness)) (VP (VBZ is) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (NN order) (CC or) (NN predictability))))) (. .))
+(S (SBAR (IN If) (S (NP (NN randomness)) (VP (VBZ is) (NP (NP (DT the) (NN opposite)) (PP (IN of) (NP (NN determinism))))))) (, ,) (ADVP (RB then)) (NP (JJ algorithmic) (NN randomness)) (VP (VBZ is) (NP (NP (DT the) (NN opposite)) (PP (IN of) (NP (NN computability))))) (. .))

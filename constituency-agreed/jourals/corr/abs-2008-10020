@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ develops) (NP (DT a) (JJ novel) (JJ passive) (JJ stochastic) (NN gradient) (NN algorithm))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (NP (DT the) (JJ weak) (NN convergence)) (PP (IN of) (NP (DT the) (JJ multi-kernel) (NN algorithm)))) (CC and) (NP (NP (PRP$ its) (NN rate)) (PP (IN of) (NP (NN convergence)))))) (. .))
+(S (PP (IN In) (NP (JJ numerical) (NNS examples))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ multi-kernel) (NN version)) (PP (IN of) (NP (DT the) (NNP LMS) (NN algorithm)))) (S (VP (TO to) (VP (VB compare) (NP (DT the) (NN performance)) (PP (IN with) (NP (DT the) (JJ classical) (JJ passive) (NN version))))))) (. .))

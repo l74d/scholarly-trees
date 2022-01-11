@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ overall) (NN performance)) (PP (IN of) (NP (PRP$ our) (NN classification) (NN model)))) (VP (VBZ is) (ADJP (RB pretty) (JJ good))) (. .))
+(S (PP (IN After) (S (VP (VBG tuning) (NP (NNS hyperparameters))))) (, ,) (NP (PRP we)) (VP (VBD discovered) (SBAR (S (NP (DT the) (NNP Random) (NNP Forest)) (VP (VBZ gives) (NP (DT the) (JJS best) (NN performance)) (, ,) (S (VP (VBG improving) (NP (DT the) (NN classification) (NN result)) (PP (IN by) (NP (CD 316) (NN %))))))))) (. .))

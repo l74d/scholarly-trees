@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB endorse) (NP (DT a) (NN transaction))))) (, ,) (NP (DT an) (NN endorser)) (VP (VBZ mentions) (NP (PRP$ its) (NN identity)) (PP (IN along) (PP (IN with) (NP (DT the) (NN signature)))) (SBAR (IN so) (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN verified) (ADVP (RB later)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (JJ certain) (NNS transactions))) (, ,) (NP (NP (NN difference)) (PP (IN in) (NP (NN opinion)))) (VP (MD may) (VP (VB exist) (PP (IN among) (NP (NNS endorsers))))) (. .))

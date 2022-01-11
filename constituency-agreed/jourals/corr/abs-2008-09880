@@ -1,0 +1,2 @@
+(S (NP (NNP Metric) (NN learning)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN problem)) (PP (IN in) (NP (NN machine) (NN learning))))) (. .))
+(S (SBAR (IN As) (S (S (VP (VBG obtaining) (NP (NN class) (NNS labels)) (PP (IN in) (NP (DT all) (NNS applications))))) (VP (VBZ is) (RB not) (ADJP (JJ feasible))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ unsupervised) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (NP (DT a) (JJ metric)) (PP (IN without) (S (VP (VBG making) (NP (NP (NN use)) (PP (IN of) (NP (NN class) (NNS labels)))))))))))) (. .))

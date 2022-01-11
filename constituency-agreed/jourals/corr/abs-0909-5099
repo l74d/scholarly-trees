@@ -1,0 +1,2 @@
+(S (NP (CD One) (NN solution)) (VP (VBZ is) (S (VP (TO to) (VP (VB focus) (PP (IN on) (NP (NP (RB just) (NNS symmetries)) (SBAR (WHNP (WDT that)) (S (VP (VBP generate) (NP (DT the) (NN symmetry) (NN group))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (VBG focusing) (PP (IN on) (NP (RB just) (NNS generators))))) (VP (VBZ improves) (NP (NN tractability))) (. .))

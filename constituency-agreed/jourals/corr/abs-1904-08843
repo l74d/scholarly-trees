@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB formulate) (NP (DT this))))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (DT a) (NN logic)) (SBAR (WHNP (WP$ whose) (NNS formulas)) (S (VP (VBP specify) (NP (JJ behavioural) (NNS properties))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ general) (NN theory)) (PP (IN of) (NP (JJ such) (NNS modalities))))) (. .))

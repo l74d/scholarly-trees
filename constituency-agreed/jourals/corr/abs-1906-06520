@@ -1,0 +1,1 @@
+(S (S (VP (VBG Rendering) (NP (NP (DT an) (JJ accurate) (NN image)) (PP (IN of) (NP (NP (DT an) (NN isosurface)) (PP (IN in) (NP (DT a) (JJ volumetric) (NN field)))))))) (ADVP (RB typically)) (VP (VBZ requires) (NP (NP (JJ large) (NNS numbers)) (PP (IN of) (NP (NNS data) (NNS samples))))) (. .))

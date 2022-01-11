@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN network)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN trained) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT the) (NN reconstruction) (NN error)) (PP (IN of) (NP (DT each) (NN source)))) (PP (IN by) (S (VP (VBG optimizing) (NP (DT the) (NNS embeddings)))))))))) (. .))

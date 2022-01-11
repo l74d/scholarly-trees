@@ -1,0 +1,3 @@
+(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ free) (CC and) (JJ open))) (. .))
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB get) (NP (NP (DT an) (NN opinion)) (PP (IN about) (NP (PRP$ its) (NN security)))) (PP (IN from) (NP (DT the) (NN cryptology) (NN community))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN separated) (PP (IN in) (NP (NP (CD two) (NNS parts)) (, ,) (NP (NP (DT a) (JJ technical) (NN description)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (CC and) (NP (PRP$ its) (NN cryptanalysis))))))))) (. .))

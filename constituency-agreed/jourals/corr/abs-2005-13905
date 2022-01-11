@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VP (VBP analyze) (NP (DT the) (NN problem))) (CC and) (VP (VB compare) (NP (JJ different) (NN optimization) (NNS strategies)))) (. .))
+(S (PP (IN For) (NP (PRP$ our) (NN simulation))) (, ,) (NP (PRP we)) (VP (VP (VBP employ) (NP (JJ various) (JJ realistic) (NNS scenarios))) (CC and) (VP (VB evaluate) (NP (JJ several) (NN performance) (NNS indicators)))) (. .))
+(S (NP (PRP$ Our) (JJ new) (NN optimization) (NN approach)) (VP (VBZ shows) (NP (DT a) (JJ significant) (NN improvement))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ little)) (VP (VBZ is) (VP (VBN known) (PP (IN about) (NP (PRP$ its) (JJ theoretical) (NN analysis))))) (. .))
+(S (ADVP (RB Perhaps)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS simplest) (NNS treatments)))) (VP (VBZ is) (S (VP (TO to) (VP (VB modify) (NP (DT the) (NN initialization) (NN procedure)))))) (. .))

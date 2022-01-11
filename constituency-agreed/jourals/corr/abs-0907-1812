@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (JJ true) (JJ posterior) (NN sample)) (VP (VBZ is) (VP (VBN desired))))) (, ,) (NP (NP (DT the) (NN solution)) (VP (VBN found) (PP (IN by) (NP (NN search))))) (VP (MD can) (VP (VB serve) (PP (IN as) (NP (NP (DT a) (JJ good) (NN initializer)) (PP (IN for) (NP (NNP MCMC))))))) (. .))

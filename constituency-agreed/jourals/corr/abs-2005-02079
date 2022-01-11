@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN inaccuracy)) (PP (IN of) (NP (JJ ionospheric) (NNS parameters)))) (VP (VBZ has) (NP (NP (DT a) (JJ significant) (JJ deleterious) (NN effect)) (PP (IN on) (NP (NP (DT the) (NN target) (NN localization)) (PP (IN of) (NP (NNP OTHR))))))) (. .))
+(S (NP (DT The) (NN simulation)) (VP (VBZ indicates) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (JJ cortical) (NN learning)) (PP (IN from) (NP (NP (DT the) (NN perspective)) (PP (IN of) (NP (NN mechanism) (NN design)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP backpropagate) (NP (NNS incentives)))))) (VP (MD can) (VP (VB learn) (NP (JJ simple) (NNS tasks))))))) (. .))

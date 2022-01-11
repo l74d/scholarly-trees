@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ open) (NNS systems))) (, ,) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBZ bounds) (NP (NP (DT the) (NN quality) (NN factor)) (PP (IN of) (NP (NN oscillation))))) (. .))
+(S (NP (NP (DT The) (NNS consequences)) (PP (IN of) (NP (DT this) (NN limit)))) (VP (VBP are) (VP (VBN explored) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NP (NN chemical) (NNS clocks)) (CC and) (NP (NN limit) (NNS cycles)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NNS gradients)) (VP (MD can) (VP (VB vanish)))) (, ,) (S (NP (DT the) (NN forward) (NN flow)) (ADVP (RB often)) (VP (VBZ diminishes))) (, ,) (CC and) (S (NP (DT the) (NN training) (NN time)) (VP (MD can) (VP (VB be) (ADJP (RB painfully) (JJ slow))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Analyzing) (NP (NP (ADJP (NN simple) (CC and) (JJ natural)) (JJ price-adjustment) (NNS processes)) (SBAR (WHNP (WDT that)) (S (VP (VBP converge) (PP (TO to) (NP (DT a) (NN market) (NN equilibrium))))))))) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN question)) (PP (IN in) (NP (NNS economics))))) (. .))
+(S (NP (JJ Such) (DT an) (NN analysis)) (VP (MD may) (VP (VB have) (NP (NP (NNS implications)) (PP (IN in) (NP (NP (JJ economic) (NN theory)) (, ,) (NP (JJ computational) (NNS economics)) (, ,) (CC and) (NP (VBD distributed) (NNS systems))))))) (. .))

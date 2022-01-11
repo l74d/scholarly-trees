@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADVP (RB mainly)) (VP (VBN composed) (PP (IN of) (NP (CD three) (NNS steps))))) (. .))
+(S (NP (DT This) (NN feature) (NN vector)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (DT a) (NN svm) (NN classifier))))))) (. .))

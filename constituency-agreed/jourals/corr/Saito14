@@ -1,0 +1,3 @@
+(S (NP (NP (NNS Formulas)) (PP (IN for) (S (VP (VBG evaluating) (NP (NP (DT the) (NN probability)) (PP (IN of) (S (VP (VBG disconnecting) (NP (CD two) (VBN given) (NNS nodes)))))))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN derived))) (. .))
+(S (NP (DT An) (JJ optimal) (NN server) (NN placement)) (VP (VBZ is) (VP (VBN shown) (PP (IN as) (NP (NP (DT an) (NN application)) (PP (IN of) (NP (DT the) (JJ theoretical) (NNS results))))))) (. .))
+(S (NP (DT These) (NN analysis) (NNS results)) (VP (VBP are) (VP (VBN validated) (PP (IN through) (NP (JJ empirical) (NN earthquake) (NNS data))))) (. .))

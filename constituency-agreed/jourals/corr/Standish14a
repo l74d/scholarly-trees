@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP I)) (VP (VBP report) (PP (IN on) (NP (NP (DT a) (JJ mechanical) (NN network) (NN generation) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (VP (VB produce) (NP (DT this) (NN complexity) (NN surplus))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ indicates) (SBAR (IN that) (S (NP (NN complexity) (NN surplus)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RBR more) (JJ fundamental)) (NN trait)) (PP (IN than) (NP (NP (DT that)) (PP (IN of) (S (VP (VBG being) (NP (DT an) (JJ evolutionary) (NN system)))))))))))) (. .))

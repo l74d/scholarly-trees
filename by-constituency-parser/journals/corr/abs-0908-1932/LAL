@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Geometric) (NN complexity) (NN theory)) (PRN (-LRB- -LRB-) (NP (NNP GCT)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT an) (NN approach)) (PP (TO to) (NP (NP (DT the) (NNP P) (FW vs.) (NNP NP)) (CC and) (NP (VBN related) (NNS problems)))))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ gives) (NP (PRP$ its) (NN complexity) (JJ theoretic) (NN overview)) (PP (IN without) (S (VP (VBG assuming) (NP (NP (DT any) (NN background)) (PP (IN in) (NP (NP (JJ algebraic) (NN geometry)) (CC or) (NP (NN representation) (NN theory))))))))) (. .))

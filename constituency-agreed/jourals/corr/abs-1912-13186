@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP examine) (NP (NP (NP (DT the) (NNS components)) (PP (IN of) (NP (DT these) (NNS models)))) (CC and) (NP (NP (DT the) (NN way)) (SBAR (S (NP (DT those) (NNS components)) (VP (VBP interact))))))) (. .))
+(S (ADVP (RB Ultimately)) (, ,) (NP (JJ such) (NNS models)) (VP (MD should) (VP (VB provide) (NP (NP (DT the) (NN basis)) (PP (IN for) (NP (JJ direct) (NN representation)))))) (. .))

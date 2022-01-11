@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT these) (NN optimization) (NNS problems)))) (, ,) (NP (PRP we)) (VP (VP (VBP quantify) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (JJ initial) (NN output))))) (CC and) (VP (VB prove) (SBAR (IN that) (S (NP (DT a) (JJ random) (JJ non-zero) (NN one)) (VP (VBZ increases) (NP (DT the) (NN generalization) (NN error))))))) (. .))

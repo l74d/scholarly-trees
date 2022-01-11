@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (ADJP (JJ long) (CC and) (JJ lasting)) (NN problem)) (PP (IN in) (NP (NN agent) (NN research)))) (VP (VBZ has) (VP (VBN been) (S (VP (TO to) (VP (VB close) (NP (NP (DT the) (NN gap)) (PP (IN between) (NP (NP (NN agent) (NNS logics)) (CC and) (NP (NN agent) (NN programming) (NNS frameworks)))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (NN proof) (NN theory)) (PP (IN for) (S (VP (VBG proving) (NP (NP (NNS properties)) (PP (IN of) (NP (NNP GOAL) (NNS agents)))))))) (VP (VBZ is) (VP (VBN introduced))) (. .))

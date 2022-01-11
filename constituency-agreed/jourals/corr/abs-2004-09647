@@ -1,0 +1,3 @@
+(S (NP (NP (DT Each)) (PP (IN of) (NP (DT these) (NNS targets)))) (VP (VBZ has) (NP (NP (DT an) (JJ internal) (NN state)) (SBAR (WHNP (WDT that)) (S (VP (VBZ evolves) (PP (IN with) (NP (JJ linear) (JJ stochastic) (NNS dynamics)))))))) (. .))
+(S (S (NP (DT The) (NNS agents)) (VP (MD can) (VP (VB observe) (NP (DT these) (NNS states))))) (, ,) (CC and) (S (NP (DT the) (NN observation) (NN quality)) (VP (VBZ is) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NP (DT the) (NN agent)) (CC and) (NP (DT a) (VBN given) (NN target))))))))) (. .))
+(S (NP (DT The) (NN goal)) (, ,) (ADVP (RB therefore)) (, ,) (VP (VBZ becomes) (S (VP (TO to) (VP (VB minimize) (NP (DT the) (JJ steady) (NN state) (NN uncertainty)))))) (. .))

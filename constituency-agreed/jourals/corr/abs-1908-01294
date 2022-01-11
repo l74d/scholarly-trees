@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN sentence)) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN treated) (PP (IN as) (NP (NP (DT the) (JJ minimal) (JJ syntactic) (NN unit)) (VP (VBN used) (PP (IN for) (S (VP (VBG extracting) (NP (JJ valuable) (NN information)) (PP (IN from) (NP (NP (DT a) (RBR longer) (NN piece)) (PP (IN of) (NP (NN text))))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (VBN written) (NNP Thai))) (, ,) (NP (EX there)) (VP (VBP are) (NP (DT no) (JJ explicit) (NN sentence) (NNS markers))) (. .))

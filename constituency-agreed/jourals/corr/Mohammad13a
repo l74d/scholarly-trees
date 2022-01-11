@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NN search)) (ADVP (RB still)) (VP (VBZ relies) (ADVP (RB heavily)) (PP (IN on) (NP (JJ key) (NNS words)))) (. .))
+(S (S (VP (VBG Using) (NP (DT the) (NNP Google) (NNP Books) (NNP Corpus)))) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB determine) (NP (NP (DT an) (NN entity) (POS 's)) (NN emotion) (NNS associations)) (PP (IN from) (NP (JJ co-occurring) (NNS words)))))))) (. .))

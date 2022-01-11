@@ -1,0 +1,2 @@
+(S (S (NP (DT The) (NN input) (NN distribution)) (VP (VBZ is) (VP (VBN known)))) (, ,) (CC and) (S (NP (DT the) (NN estimation) (NN process)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS algorithms))))) (. .))
+(S (NP (NNS Bounds)) (VP (VBP are) (VP (VBN expressed) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NNP Fisher) (NN information))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG computing) (NP (NP (JJS shortest) (NNS paths)) (PP (IN in) (NP (JJ massive) (NN road) (NNS networks)))) (PP (IN with) (NP (NN traffic) (NNS predictions)))))))) (. .))
+(S (NP (DT The) (NN index)) (ADVP (RB only)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN road) (NN network)) (CC and) (NP (DT the) (NN traffic) (NNS patterns))))) (. .))

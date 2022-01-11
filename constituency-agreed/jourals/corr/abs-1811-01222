@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS features)) (VP (VBP are) (VP (VBN extracted) (PP (IN in) (NP (CD two) (NNS stages))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (NP (DT a) (JJ preset) (NN number)) (PP (IN of) (NP (JJ prominent) (JJ spectral) (NN peak) (NNS locations)))) (VP (VBP are) (VP (VBN identified) (PP (IN from) (NP (NP (DT the) (NN spectra)) (PP (IN of) (NP (DT each) (NN frame))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ is) (VP (VBN termed) (PP (IN as) (NP (NNP GenHMM))))) (. .))
+(S (NP (NP (DT The) (NN convergence)) (PP (IN of) (NP (DT the) (NN learning) (NNP GenHMM)))) (VP (VBZ is) (VP (VBN analyzed))) (. .))

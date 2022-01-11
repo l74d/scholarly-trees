@@ -1,0 +1,2 @@
+(S (S (NP (DT A) (JJ fuzzy) (JJ discrete) (NN event) (NN system)) (VP (VBZ has) (VP (VBN been) (VP (VBN modelled) (PP (IN by) (NP (DT a) (JJ fuzzy) (NN automaton))))))) (: ;) (S (NP (PRP$ its) (NN behavior)) (VP (VBZ is) (VP (VBN described) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (JJ fuzzy) (NN language)) (VP (VBN generated) (PP (IN by) (NP (DT the) (NN automaton))))))))))) (. .))
+(S (NP (JJ Simple) (NNS examples)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (JJ theoretical) (NN development))))))) (. .))

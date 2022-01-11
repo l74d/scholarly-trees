@@ -1,0 +1,2 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ our) (VBN proposed) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN in) (NP (DT a) (JJ decentralized) (NN manner))))))))) (. .))
+(S (NP (DT A) (NN simulation) (NN study)) (VP (VBZ demonstrates) (NP (PRP$ our) (NNS results))) (. .))

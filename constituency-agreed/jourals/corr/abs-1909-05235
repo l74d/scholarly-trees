@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ inspires) (S (NP (PRP us)) (VP (TO to) (VP (VB investigate) (NP (NP (DT the) (NN formulation)) (PP (IN of) (NP (NNP SoftMax)))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT the) (NNP SoftTriple) (NN loss)) (S (VP (TO to) (VP (VB extend) (NP (DT the) (NNP SoftMax) (NN loss)) (PP (IN with) (NP (NP (JJ multiple) (NNS centers)) (PP (IN for) (NP (DT each) (NN class))))))))) (. .))

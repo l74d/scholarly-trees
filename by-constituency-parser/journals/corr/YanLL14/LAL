@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Polar) (NNS lattices)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN constructed) (PP (IN from) (NP (JJ polar) (NNS codes))))))) (, ,)) (VP (VBP are) (ADJP (RB provably) (JJ good) (PP (IN for) (NP (DT the) (JJ additive) (JJ white) (JJ Gaussian) (NN noise) (PRN (-LRB- -LRB-) (NNP AWGN) (-RRB- -RRB-)) (NN channel))))) (. .))
+(S (NP (DT This) (NN construction)) (VP (VBZ leads) (PP (TO to) (NP (NP (DT an) (JJ AWGN-good) (NN lattice)) (CC and) (NP (DT a) (JJ secrecy-good) (NN lattice)))) (ADVP (RB simultaneously))) (. .))

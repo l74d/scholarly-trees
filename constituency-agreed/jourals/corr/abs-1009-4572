@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP MFNNCA)) (VP (MD can) (VP (VB produce) (NP (NP (JJ optimal) (JJ neural) (NN network) (NN architecture)) (PP (IN with) (NP (JJ good) (NN generalization) (NN ability))))))))) (. .))

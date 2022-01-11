@@ -1,0 +1,1 @@
+(S (NP (NN eBPF)) (VP (VBZ is) (NP (NP (DT a) (JJ virtual) (NN machine)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN included) (PP (IN in) (NP (DT the) (NNP Linux) (NN kernel))))))))) (. .))

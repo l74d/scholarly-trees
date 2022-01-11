@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT a) (NN link) (NN failure)) (VP (VBZ is) (VP (VBN detected))))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ recovers) (NP (DT the) (NN route)) (ADVP (RB automatically))) (. .))

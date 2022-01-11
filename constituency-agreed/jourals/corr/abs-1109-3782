@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ common) (NN problem)) (PP (IN in) (NP (NP (DT the) (NN optimization)) (PP (IN of) (NP (NNS structures)))))) (VP (VBZ is) (NP (NP (DT the) (NN handling)) (PP (IN of) (NP (NP (NNS uncertainties)) (PP (IN in) (NP (DT the) (NNS parameters))))))) (. .))
+(S (NP (NP (JJ Simple) (JJ numerical) (NNS examples)) (PP (IN of) (NP (JJ typical) (NNS problems)))) (VP (VBP illustrate) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (DT the) (NN method))))) (. .))

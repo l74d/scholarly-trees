@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (JJ conventional) (NNS networks))) (, ,) (NP (DT the) (VBN proposed) (NN architecture)) (VP (VBZ has) (NP (NP (CD two) (NN input) (NNS branches)) (CC and) (NP (CD two) (NN loss) (NNS functions)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this)) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN performance)) (PP (IN for) (NP (JJ single) (NN image) (NN classification))))))))) (. .))

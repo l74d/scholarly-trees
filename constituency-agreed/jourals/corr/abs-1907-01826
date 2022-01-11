@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (NN machine) (NN learning))) (, ,) (NP (DT this) (JJ cross-modal) (NN learning)) (VP (VBZ is) (NP (DT a) (JJ nontrivial) (NN task)) (SBAR (IN because) (S (NP (JJ different) (NNS modalities)) (VP (VBP have) (NP (DT no) (JJ homogeneous) (NNS properties)))))) (. .))
+(S (NP (JJ Previous) (NNS works)) (VP (VBP discover) (SBAR (IN that) (S (NP (EX there)) (VP (MD should) (VP (VB be) (NP (NP (NNS bridges)) (PP (IN among) (NP (JJ different) (NNS modalities))))))))) (. .))

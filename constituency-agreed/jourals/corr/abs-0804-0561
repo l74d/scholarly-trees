@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ multimodal) (JJ interactive) (NNS simulations))) (, ,) (NP (JJ haptic) (NN feedback) (NN computation)) (ADVP (RB often)) (VP (VBZ comes) (PP (IN from) (NP (NN contact) (NNS forces)))) (. .))
+(S (NP (DT This) (JJ last) (NN point)) (VP (VBZ is) (ADJP (JJ crucial) (S (VP (TO to) (VP (VB keep) (NP (JJ stable) (JJ haptic) (NN feedback))))))) (. .))

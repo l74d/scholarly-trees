@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN severity)) (PP (IN of) (NP (DT the) (NN sparseness) (NN problem)))) (VP (MD will) (VP (VB be) (ADJP (JJ high)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN corpus) (NN size)) (PP (IN of) (NP (ADJP (RB morphologically) (JJR richer)) (NN language)))) (VP (VBZ is) (ADJP (RBR less))))))) (. .))
+(S (NP (PRP We)) (VP (VBP observe) (SBAR (IN that) (S (NP (DT the) (NN morphology) (NN injection) (NN method)) (VP (VBZ helps) (PP (IN in) (S (VP (VBG improving) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NN translation))))))))))) (. .))

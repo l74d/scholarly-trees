@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN evaluation) (NN protocol)) (VP (VBZ is) (VP (VBN discussed) (PP (IN from) (NP (NP (DT the) (NN perspective)) (PP (IN of) (NP (NP (DT the) (NN usefulness) (CC and) (NN trust)) (PP (IN of) (NP (DT the) (NN recommendation))))))))) (. .))
+(S (NP (DT This) (NN measure)) (VP (VBZ evaluates) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (DT the) (JJ personalized) (NN recommendation))))) (. .))

@@ -1,0 +1,2 @@
+(SBARQ (SBAR (IN If) (S (NP (PRP they)) (VP (VBP do)))) (, ,) (WHADVP (WRB when)) (SQ (MD will) (NP (DT the) (NN burst)) (VP (VB happen))) (. ?))
+(SBARQ (WHADVP (WRB How) (RB long)) (SQ (MD will) (NP (PRP they)) (VP (VB remain) (ADJP (JJ active)))) (. ?))

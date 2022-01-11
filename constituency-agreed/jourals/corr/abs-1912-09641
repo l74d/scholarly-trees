@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (JJ Chinese) (NNS signboards)) (PP (IN in) (NP (NN street) (NN view)))) (VP (VBP are) (NP (NP (DT a) (JJ good) (NN choice)) (PP (IN for) (NP (JJ Chinese) (NN scene) (NN text) (NNS images)))) (SBAR (IN since) (S (NP (PRP they)) (VP (VBP have) (NP (JJ different) (NNS backgrounds) (, ,) (NNS fonts) (CC and) (NNS layouts)))))) (. .))
+(S (NP (DT This) (NN report)) (VP (VBZ presents) (NP (NP (DT the) (JJ final) (NNS results)) (PP (IN of) (NP (DT the) (NN competition))))) (. .))
+(S (NP (DT The) (NN competition)) (VP (VP (VBD started) (PP (IN on) (NP (NNP March) (CD 1) (, ,) (CD 2019)))) (CC and) (VP (VBD ended) (PP (IN on) (NP (NNP April) (CD 30) (, ,) (CD 2019))))) (. .))
+(S (NP (NP (CD 262) (NNS submissions)) (PP (IN from) (NP (CD 46) (NNS teams)))) (VP (VBP are) (VP (VBN received))) (. .))

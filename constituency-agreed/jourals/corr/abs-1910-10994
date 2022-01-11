@@ -1,0 +1,2 @@
+(S (NP (JJ Recent) (NN work)) (ADVP (RB also)) (VP (VBD showed) (SBAR (S (NP (ADJP (RB adversarially) (JJ robust)) (NN generalization)) (VP (VBZ requires) (NP (JJR more) (NNS data)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (ADJP (RB very) (JJ few)) (NNS efforts)) (VP (VBP have) (VP (VBN been) (VP (VBN devoted) (PP (IN towards) (NP (DT this) (NN direction)))))) (. .))

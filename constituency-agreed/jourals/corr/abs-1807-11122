@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP use) (NP (DT both) (ADJP (JJ unsupervised) (CC and) (JJ supervised)) (NNS methods)) (S (VP (TO to) (VP (VB predict) (NP (DT the) (NN climax)))))) (. .))

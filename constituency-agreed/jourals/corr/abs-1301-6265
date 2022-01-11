@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB optimize) (NP (NN inference) (NN algorithm) (NNS parameters)) (SBAR (WHADVP (WRB when)) (S (VP (VBG knowing) (NP (NP (JJ statistical) (NNS properties)) (PP (IN of) (NP (JJ internal) (NN noise)))))))))))) (. .))

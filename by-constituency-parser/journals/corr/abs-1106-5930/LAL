@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (JJ efficient) (NN algorithm)) (PP (IN for) (NP (NP (NN classification)) (PP (IN of) (NP (JJ binary) (JJ self-dual) (NNS codes)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (, ,) (NP (NP (DT a) (JJ complete) (NN classification)) (PP (IN of) (NP (NP (DT the) (JJ self-dual) (NNS codes)) (PP (IN of) (NP (NN length) (CD 38)))))) (VP (VBZ is) (VP (VBN given))) (. .))

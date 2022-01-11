@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Simulink) (NN subsystem)) (VP (VBG implementing) (NP (NP (DT the) (NN method)) (PP (IN of) (NP (NNS characteristics)))))) (VP (VBZ is) (VP (VBN developed))) (. .))
+(S (NP (DT The) (NN implementation)) (VP (VP (VBZ is) (ADJP (JJ available) (PP (IN for) (NP (NN download))))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NNS models))))))))) (. .))

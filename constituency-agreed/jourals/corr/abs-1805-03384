@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBG existing) (NNS methods)) (ADVP (RB usually)) (VP (VBP employ) (NP (DT a) (JJ frame-wise) (JJ maximal) (NN likelihood) (NN loss)) (S (VP (TO to) (VP (VB optimize) (NP (DT the) (NNS models)))))) (. .))

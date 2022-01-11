@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NN cause)) (PP (IN of) (NP (DT this)))) (VP (VBZ lies) (PP (IN in) (NP (NN over-smoothing)))) (. .))
+(S (ADVP (RB Theoretically)) (, ,) (NP (NNP DropEdge)) (VP (CC either) (VP (VBZ reduces) (NP (NP (DT the) (NN convergence) (NN speed)) (PP (IN of) (NP (NN over-smoothing))))) (CC or) (VP (VBZ relieves) (NP (NP (DT the) (NN information) (NN loss)) (VP (VBN caused) (PP (IN by) (NP (NN dimension) (NN collapse))))))) (. .))

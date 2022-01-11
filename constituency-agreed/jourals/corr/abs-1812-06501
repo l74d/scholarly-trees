@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (PP (IN unlike) (NP (NP (JJ other) (NNS models)) (PP (IN in) (NP (DT the) (NN literature))))) (, ,) (NP (NP (JJ different) (NNS chunks)) (PP (IN of) (NP (DT the) (JJ same) (NN video)))) (VP (VBP are) (RB not) (VP (VBN fetched) (CC and) (VBN cached) (PP (IN in) (NP (DT the) (JJ same) (NNP MEC) (NN server))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ looks) (PP (IN into) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG detecting) (NP (NN network) (NNS anomalies)) (PP (IN by) (S (VP (VBG analyzing) (NP (NNP NetFlow) (NNS records))))))))))) (. .))

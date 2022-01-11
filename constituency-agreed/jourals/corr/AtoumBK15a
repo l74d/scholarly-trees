@@ -1,0 +1,2 @@
+(S (NP (CD Three) (NNS experts)) (VP (VBD were) (VP (VBN chosen) (S (VP (TO to) (VP (VB annotate) (NP (DT the) (NNS data)) (S (VP (VBG using) (NP (DT a) (VBN proposed) (NN annotation) (NN scheme))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN annotation) (NN scheme)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB extend) (NP (DT the) (JJ current) (NN dataset)))))))) (. .))

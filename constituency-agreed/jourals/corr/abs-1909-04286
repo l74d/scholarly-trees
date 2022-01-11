@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (CD four) (NN gate) (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN introduced) (PP (IN into) (NP (NN loss) (NNS functions))))))))) (. .))
+(S (NP (NP (DT The) (CD four) (NNS gates)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP control) (NP (DT the) (NN gradient))))) (, ,)) (VP (MD can) (VP (VB deliver) (NP (NP (JJ diverse) (NNS combinations)) (PP (IN of) (NP (NN knowledge) (NN transfer)))))) (. .))

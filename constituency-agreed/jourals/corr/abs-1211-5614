@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN work)))) (VP (VBZ is) (S (VP (VP (TO to) (VP (VB increase) (NP (DT the) (NN security) (NN level)))) (CC and) (VP (TO to) (VP (VB improve) (NP (DT the) (NN storage) (NN capacity)) (PP (IN with) (NP (NN compression) (NNS techniques)))))))) (. .))
+(S (NP (JJ Various) (NNS tests)) (VP (VBP have) (VP (VBN been) (VP (VBN done) (S (VP (TO to) (VP (VB check) (NP (NP (DT the) (NN storage) (NN capacity)) (CC and) (NP (NN message) (NN distribution))))))))) (. .))

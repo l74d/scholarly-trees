@@ -1,0 +1,2 @@
+(S (NP (DT These)) (VP (VBP are) (: :) (S (VP (VP (VBG producing) (NP (JJ accurate) (NN recommendation))) (, ,) (VP (VBG handling) (NP (JJ many) (NNS recommendations)) (ADVP (RB efficiently))) (CC and) (VP (VBG coping) (PP (IN with) (NP (NP (DT the) (JJ vast) (NN growth)) (PP (IN of) (NP (NP (NN number)) (PP (IN of) (NP (NP (NNS participants)) (PP (IN in) (NP (DT the) (NN system))))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT the) (NN topic)) (PP (IN of) (NP (NN recommender) (NN system))))) (. .))

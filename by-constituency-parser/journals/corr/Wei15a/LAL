@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN contribution)) (VP (VBZ summarizes) (NP (NP (DT the) (NNS results)) (PP (IN on) (NP (NP (DT the) (JJ asymptotic) (NN performance)) (PP (IN of) (NP (NP (JJ several) (NNS variants)) (PP (IN of) (NP (DT the) (NNP FastICA) (NN algorithm))))))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (JJ new) (JJ closed-form) (NNS expressions)))) (VP (VBP are) (VP (VBN presented))) (. .))

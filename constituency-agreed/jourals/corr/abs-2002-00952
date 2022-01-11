@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NNS models)))) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (NP (DT an) (JJ unseen) (NN dataset)) (VP (VBG containing) (NP (JJ manual) (NNS delineations))))))) (. .))

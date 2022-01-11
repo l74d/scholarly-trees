@@ -1,0 +1,2 @@
+(NP (NN modality) (CC and) (NN recursion) (. .))
+(S (NP (NP (DT The) (NN construction)) (PP (IN of) (NP (PRP$ our) (NN model)))) (VP (VBZ is) (PP (IN by) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (VBG existing) (NNS techniques)) (VP (VBN taken) (PP (PP (IN from) (NP (NP (DT the) (NNS semantics)) (PP (IN of) (NP (JJ classical) (NN computation))))) (CONJP (RB as) (RB well) (IN as)) (PP (IN from) (NP (NN process) (NN theory)))))))))) (. .))

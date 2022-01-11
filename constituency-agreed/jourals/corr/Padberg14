@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ first)) (VP (VB ensure) (SBAR (IN that) (S (NP (DT a) (NN marking)) (VP (MD can) (VP (VB inhibit) (NP (NP (DT the) (NN firing)) (PP (IN of) (NP (DT a) (NN transition))))))))) (. .))
+(S (NP (DT This) (NN concept)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ compatible) (PP (IN with) (NP (JJ reconfigurable) (NNP Petri) (NNS nets))))))))) (. .))

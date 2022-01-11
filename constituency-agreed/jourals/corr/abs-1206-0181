@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP consider) (NP (JJ parametric) (NNS ideals))) (CC and) (VP (VB introduce) (NP (NP (DT a) (NN notion)) (PP (IN of) (NP (JJ comprehensive) (JJ involutive) (NN system)))))) (. .))
+(S (PP (VBN Given) (NP (DT a) (JJ parametric) (NN ideal))) (, ,) (NP (NP (DT the) (NN space)) (PP (IN of) (NP (NNS parameters)))) (VP (VBZ is) (VP (VBN decomposed) (PP (IN into) (NP (NP (DT a) (JJ finite) (NN set)) (PP (IN of) (NP (NNS cells))))))) (. .))

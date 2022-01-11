@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (JJ first) (NNS results)) (PP (IN for) (S (VP (VBG neuralizing) (NP (DT an) (JJ Unsupervised) (NNP Hidden) (NNP Markov) (NNP Model))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (PRP$ our) (NN approach)) (PP (IN on) (NP (JJ tag) (JJ in-) (NN duction))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VP (VBZ outperforms) (NP (VBG existing) (JJ generative) (NNS models))) (CC and) (VP (VBZ is) (ADJP (JJ competitive) (PP (IN with) (NP (DT the) (JJ state-of-the-art)))) (PP (IN though) (PP (IN with) (NP (NP (DT a) (NN simpler) (NN model)) (VP (ADVP (RB easily)) (VBN extended) (S (VP (TO to) (VP (VB include) (NP (JJ additional) (NN context))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (JJ Previous) (NNS efforts)) (VP (VP (VBP have) (VP (VBN achieved) (NP (JJ great) (NNS speedups)) (PP (IN with) (NP (ADJP (RB loosely) (VBN coupled)) (NNS programs))))) (, ,) (CC but) (VP (VBP have) (VP (VBN done) (ADVP (RB so)) (PP (IN with) (NP (NP (JJ careful) (JJ manual) (NN tuning)) (PP (IN of) (NP (DT all) (VBN shared) (NN file) (NN system) (NN access)))))))) (. .))

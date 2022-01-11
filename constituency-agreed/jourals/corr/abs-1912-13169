@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ decremented) (NN learning) (NNS algorithms)) (VP (VBP are) (VP (VBN required) (PP (IN in) (NP (NN machine) (NN learning))) (, ,) (S (VP (TO to) (VP (VP (VB prune) (NP (JJ redundant) (NNS nodes))) (CC and) (VP (VB remove) (NP (JJ obsolete) (NN inline) (NN training) (NNS samples)))))))) (. .))

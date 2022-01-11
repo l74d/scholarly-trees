@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ basic) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB let) (S (NP (DT the) (NN user)) (VP (VB stipulate) (NP (DT the) (NNS clusters)) (PP (IN for) (NP (DT some) (JJ elementary) (NNS measures))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN done) (PP (IN without) (NP (NP (DT the) (NN need)) (PP (IN of) (NP (NP (DT any) (NN notion)) (PP (IN of) (NP (JJ metric) (, ,) (NN similarity) (CC or) (NN dissimilarity))))))))) (. .))

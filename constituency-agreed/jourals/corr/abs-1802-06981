@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN computation)) (VP (VBZ is) (VP (VBN formulated) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS manipulations)) (PP (IN for) (NP (NP (DT a) (NN union)) (PP (IN of) (NP (NNS polytopes))))))))))))) (. .))
+(S (NP (DT A) (JJ numerical) (NN example)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB illustrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach))))))))) (. .))

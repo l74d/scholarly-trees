@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN problem)) (VP (VBZ gets) (ADJP (JJR worse)) (SBAR (IN as) (S (NP (NP (DT the) (NN size)) (PP (IN of) (NP (JJ neural) (NNS networks)))) (VP (VBZ grows) (ADVP (RB exponentially)))))) (. .))

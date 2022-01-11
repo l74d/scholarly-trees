@@ -1,0 +1,3 @@
+(S (NP (NP (NNP Tool) (NN support)) (PP (IN for) (S (VP (VBG experimenting) (PP (IN with) (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (NNP Haskell) (NNS expressions))))))))) (VP (VBZ is) (ADVP (RB currently)) (VP (VBG lacking))) (. .))
+(S (NP (NNS Instructors)) (VP (MD can) (VP (VB add) (CC or) (VB change) (NP (NN function) (NNS definitions)) (PP (IN without) (NP (NP (NN knowledge)) (PP (IN of) (NP (NP (DT the) (NN tool) (POS 's)) (JJ internal) (NN implementation))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT some) (JJ preliminary) (NNS results)) (PP (IN of) (NP (NP (DT a) (JJ small) (NN survey)) (PP (IN about) (NP (DT the) (NN tool))))))) (. .))

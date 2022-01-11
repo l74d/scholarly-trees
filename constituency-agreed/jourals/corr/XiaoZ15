@@ -1,0 +1,2 @@
+(S (CC And) (NP (DT the) (JJ final) (NNS outputs)) (VP (VBP are) (NP (NP (DT the) (NN probability) (NN distribution)) (PP (IN for) (NP (NP (JJ different) (NNS clusters)) (PP (IN in) (NP (DT the) (NN clustering) (NN process))))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP illustrate) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ outperforms) (NP (NP (PDT all) (DT the) (JJ other) (NNS baselines)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (NP (ADJP (RBS most) (JJ popular)) (NN clustering) (NNS methods)))))))))) (. .))

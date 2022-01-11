@@ -1,0 +1,6 @@
+(S (PP (IN In) (NP (NP (DT the) (NN winter)) (PP (IN of) (NP (CD 1976))))) (, ,) (NP (NP (NNP Alexander) (NNP Rinnooy) (NNP Kan)) (CC and) (NP (NNP Jan) (NNP Karel) (NNP Lenstra))) (VP (VBD defended) (NP (PRP$ their) (NN PhD) (NNS theses)) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Amsterdam)))))) (. .))
+(S (NP (NNP Gene) (NNP Lawler)) (VP (VBD was) (PP (IN on) (NP (PRP$ their) (NNS committees)))) (. .))
+(S (NP (NNS Colleagues)) (VP (VBD were) (VP (VBN asked) (S (VP (VP (TO to) (VP (VB contribute) (NP (NNS chapters)))) (CC or) (VP (TO to) (VP (VB complete) (NP (VBG existing) (NNS drafts)))))))) (. .))
+(S (PP (IN Over) (NP (DT the) (NNS years))) (, ,) (NP (JJ several) (NNS chapters)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (PP (IN in) (NP (DT the) (NN classroom)))))) (. .))
+(S (NP (DT This) (NN document)) (VP (VBZ is) (NP (NP (DT a) (NN compilation)) (PP (IN of) (SBAR (WHNP (WP what)) (S (ADVP (RB currently)) (VP (VBZ exists))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP have) (VP (VBN made) (NP (DT a) (JJ marginal) (NN effort)) (PP (IN in) (S (VP (VBG patching) (NP (PRP it)) (PRT (RP up)) (PP (IN at) (NP (DT some) (NNS places)))))))) (CC but) (VP (VBZ is) (ADVP (RB essentially)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (VP (VBN written) (ADVP (RB long) (RB ago)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ computes) (NP (NP (DT a) (JJ minimum) (NN vertex) (NN cover)) (PP (IN of) (NP (DT each) (NN input) (JJ simple) (NN graph))))) (. .))

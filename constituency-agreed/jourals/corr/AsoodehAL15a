@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NN tradeoff)) (PP (IN between) (NP (NN privacy) (CC and) (NN utility)))) (PP (IN in) (NP (NP (DT a) (NN situation)) (SBAR (WHADVP (WRB where)) (S (NP (DT both) (NN privacy) (CC and) (NN utility)) (VP (VBP are) (VP (VBN measured) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ mutual) (NN information)))))))))))) (. .))

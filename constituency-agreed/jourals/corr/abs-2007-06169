@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN discriminator)) (VP (VBZ maximizes) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (PRP$ its) (NN classification)))) (SBAR (IN while) (S (NP (DT the) (NN generator)) (VP (VBZ minimizes) (NP (PRP it)))))) (. .))

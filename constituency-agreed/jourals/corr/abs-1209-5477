@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (PP (IN in) (NP (NN topic) (NN classification))) (, ,) (NP (DT every) (NN paper)) (VP (MD can) (VP (VB be) (VP (VBN chopped) (PP (IN into) (NP (NP (DT the) (NN title)) (, ,) (NP (DT the) (JJ main) (NN text)) (CC and) (NP (DT the) (NNS references))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Technical) (NNS difficulties)) (PP (IN with) (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (NP (JJ proper) (NNS variables)) (PP (IN for) (NP (DT a) (JJ simple) (NN model)))))))) (VP (VBP are) (VP (VBN solved))) (. .))
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBG analyzing) (NP (DT the) (NNS results))))) (, ,) (NP (NP (DT a) (NN change)) (PP (IN of) (NP (NNS variables)))) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (VP (VBN required) (PP (IN for) (NP (NP (NN ease)) (PP (IN of) (NP (NN interpretation)))))))))) (. .))

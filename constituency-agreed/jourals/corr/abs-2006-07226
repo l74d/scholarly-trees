@@ -1,0 +1,3 @@
+(S (NP (NP (NN Research)) (PP (IN in) (NP (NP (NN point) (NN cloud) (NN analysis)) (PP (IN with) (NP (JJ deep) (JJ neural) (NNS networks)))))) (VP (VBZ has) (VP (VBN made) (NP (JJ rapid) (NN progress)) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (NP (NP (DT The) (JJ pioneering) (NN work)) (NP (NNP PointNet))) (VP (VBD offered) (NP (NP (DT a) (JJ direct) (NN analysis)) (PP (IN of) (NP (NN point) (NNS clouds))))) (. .))
+(S (NP (DT The) (JJ local) (NNS areas)) (VP (VBP are) (VP (VBN defined) (PP (IN by) (NP (NP (NN center) (NNS points)) (CC and) (NP (PRP$ their) (NNS neighbors)))))) (. .))

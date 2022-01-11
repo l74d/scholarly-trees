@@ -1,0 +1,2 @@
+(S (ADVP (RB Rather)) (, ,) (NP (NN crime) (NNS types)) (VP (VBP are) (VP (VBN distributed) (PP (IN across) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NN crime) (NNS topics))))))) (. .))
+(S (ADVP (RB Similarly)) (, ,) (NP (JJ individual) (NN crime) (NNS topics)) (VP (VBP are) (VP (VBN distributed) (PP (IN across) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (JJ formal) (NN crime) (NNS types))))))) (. .))

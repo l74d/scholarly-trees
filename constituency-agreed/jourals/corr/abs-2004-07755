@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB provide) (NP (NP (JJ deterministic) (NN timing)) (CC and) (NP (JJ low) (NN latency))) (PP (IN with) (NP (JJ high) (NN flexibility)))))) (, ,) (NP (PRP we)) (VP (VBD developed) (NP (DT the) (NNP Taskrunner) (NN framework))) (. .))

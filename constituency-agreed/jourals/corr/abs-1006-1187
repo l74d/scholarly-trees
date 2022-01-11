@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS components)) (PP (IN with) (NP (JJ minimum) (NN variance)))) (VP (VBP are) (VP (VBN determined) (PP (IN from) (NP (DT the) (NN training) (NNS samples))))) (. .))
+(S (NP (NNP Hu) (NNS moments)) (VP (VBP are) (VP (VBN applied) (PP (IN on) (NP (DT the) (NNS components))))) (. .))

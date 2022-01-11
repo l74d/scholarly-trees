@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VP (VBZ works) (PP (IN with) (NP (JJ volumetric) (JJ binary) (NN segmentation) (NNS images)))) (, ,) (CC and) (VP (VBZ requires) (NP (NP (DT no) (JJ pre-processing)) (PP (JJ such) (IN as) (NP (NP (DT the) (NN extraction)) (PP (IN of) (NP (NP (NN surface) (NNS points)) (CC or) (NP (DT a) (NN mesh))))))))) (. .))

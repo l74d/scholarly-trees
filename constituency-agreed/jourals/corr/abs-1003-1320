@@ -1,0 +1,2 @@
+(S (ADVP (RB Previously)) (, ,) (NP (DT no) (JJ subquadratic) (NN time) (NN algorithm)) (VP (VBD was) (VP (VBN known) (PP (IN for) (NP (DT this) (NN problem))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP require) (SBAR (IN that) (S (NP (JJS shortest) (NNS paths)) (VP (VBP are) (ADJP (JJ unique)))))) (. .))

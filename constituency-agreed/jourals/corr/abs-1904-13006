@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (JJ abstract) (NNS models)) (VP (VBP are) (ADVP (RB typically)) (ADJP (JJ lossy)))) (CC and) (S (NP (NP (NNS plans) (CC or) (NNS policies)) (VP (VBN computed) (S (VP (VBG using) (NP (PRP them)))))) (VP (MD can) (VP (VB be) (ADJP (JJ unexecutable))))) (. .))

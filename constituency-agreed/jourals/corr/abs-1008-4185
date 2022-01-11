@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Joint) (JJ sparse) (NN recovery)) (PP (IN with) (NP (JJ several) (NN training) (NNS samples)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN estimation) (NN performance))))))) (. .))

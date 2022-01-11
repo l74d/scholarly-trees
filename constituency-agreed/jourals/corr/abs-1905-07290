@@ -1,0 +1,2 @@
+(S (ADVP (RB Instead)) (, ,) (NP (NNS sensors) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN learned) (PP (IN from) (NP (JJ real) (NNS data)))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (NP (NP (DT a) (JJ high) (NN potential)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

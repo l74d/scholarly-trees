@@ -1,0 +1,1 @@
+(S (ADVP (RB Typically)) (, ,) (NP (NNS features)) (VP (VBP are) (VP (VBN selected) (PP (IN by) (S (VP (VBG averaging) (NP (NP (JJ many) (JJ random) (NNS iterations)) (PP (IN of) (NP (DT a) (NN selection) (NN algorithm))))))))) (. .))

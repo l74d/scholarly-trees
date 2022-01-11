@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (JJ first) (ADJP (ADJP (NN explicit)) (, ,) (CC and) (ADJP (RB currently) (JJS simplest)) (, ,)) (VBD randomized) (NN algorithm)) (PP (IN for) (NP (JJ 2-process) (JJ wait-free) (NN test-and-set))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN implemented) (PP (IN with) (NP (CD two) (JJ 4-valued) (JJ single) (NN writer) (JJ single) (NN reader) (JJ atomic) (NNS variables))))) (. .))
+(S (NP (DT A) (JJ test-and-set)) (VP (VBZ takes) (NP (QP (IN at) (JJS most) (CD 11)) (VBN expected) (JJ elementary) (NNS steps)) (, ,) (SBAR (IN while) (S (NP (DT a) (NN reset)) (VP (VBZ takes) (NP (QP (RB exactly) (CD 1)) (JJ elementary) (NN step)))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT a) (JJ finite-state) (NN analysis)))) (, ,) (NP (NP (DT the) (NN proofs)) (PP (IN of) (NP (NP (NN correctness)) (CC and) (NP (VBN expected) (NN length))))) (VP (VBP are) (VP (VBN compressed) (PP (IN into) (NP (CD one) (NN table))))) (. .))

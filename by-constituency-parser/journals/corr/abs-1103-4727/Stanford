@@ -1,0 +1,8 @@
+(S (NP (NP (JJ Widespread) (NN use)) (PP (IN of) (NP (NP (NNS sensors)) (CC and) (NP (JJ multisensory) (JJ personal) (NNS devices))))) (VP (VBP generate) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ personal) (NN information))))) (. .))
+(S (S (VP (VBG Sharing) (NP (DT this) (NN information)) (PP (IN with) (NP (NNS others))))) (VP (MD could) (VP (VB help) (PP (IN in) (NP (JJ various) (NNS ways))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this) (NN information)) (VP (MD may) (VP (VB be) (VP (VBN misused) (SBAR (WHADVP (WRB when)) (S (VP (VBN shared) (PP (IN with) (NP (DT all))))))))) (. .))
+(S (S (VP (VBG Sharing) (PP (IN of) (NP (NP (NN information)) (PP (IN between) (NP (JJ trusted) (NNS parties))))))) (VP (VBZ overcomes) (NP (DT this) (NN problem))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (DT a) (NN model) (S (VP (TO to) (VP (VB share) (NP (NN information)) (PP (VBN based) (PP (IN on) (NP (NNS interactions) (CC and) (NNS opinions)))))))) (S (VP (TO to) (VP (VB build) (NP (NN trust)) (PP (IN among) (NP (NNS peers))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ considers) (NP (NP (ADJP (JJ institutional) (CC and) (JJ other)) (NNS controls)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP influence) (NP (NP (DT the) (NN behaviour)) (PP (IN of) (NP (DT the) (NNS peers))))))))) (. .))
+(S (NP (DT The) (NN trust) (CC and) (NN control)) (VP (VBP build) (NP (NN confidence))) (. .))
+(S (NP (DT The) (VBN computed) (NN confidence)) (VP (VBZ bespeaks) (SBAR (IN whether) (S (VP (TO to) (VP (VP (VB reveal) (NP (NN information))) (CONJP (CC or) (RB not)) (VP (ADVP (RB thereby)) (VBG increasing) (NP (NP (VBN trusted) (NN cooperation)) (PP (IN among) (NP (NNS peers)))))))))) (. .))

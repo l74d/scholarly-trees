@@ -1,0 +1,1 @@
+(NP (NP (NNS Results)) (: :) (S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN validated) (PP (IN on) (NP (DT the) (CD 2018) (NNP PhysioNet) (NN challenge) (NN dataset)))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP consider) (S (NP (JJ reinforcement) (NN learning)) (PP (IN with) (S (NP (NN performance)) (VP (VBN evaluated) (PP (IN by) (NP (DT a) (JJ dynamic) (NN risk) (NN measure)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP construct) (NP (DT a) (JJ projected) (JJ risk-averse) (JJ dynamic) (NN programming) (NN equation))) (CC and) (VP (VB study) (NP (PRP$ its) (NNS properties)))) (. .))
+(S (ADVP (RB Then)) (S (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ risk-averse) (NNS counterparts)) (PP (IN of) (NP (NP (DT the) (NNS methods)) (PP (IN of) (NP (JJ temporal) (NNS differences)))))))) (CC and) (S (NP (PRP we)) (VP (VBP prove) (NP (NP (PRP$ their) (NN convergence)) (PP (IN with) (NP (NN probability) (CD one)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP perform) (NP (NP (DT an) (JJ empirical) (NN study)) (PP (IN on) (NP (DT a) (JJ complex) (NN transportation) (NN problem))))) (. .))

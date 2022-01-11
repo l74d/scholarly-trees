@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP address) (NP (NP (DT the) (NNS problems)) (PP (IN of) (S (VP (VBG estimating) (NP (NP (DT the) (NN computer) (NN efficiency)) (CC and) (NP (DT the) (NN computer) (NN capacity)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ suggested) (NN method)) (VP (MD can) (VP (VB be) (VP (VBN applied) (S (VP (TO to) (VP (VB estimate) (NP (DT the) (NN computer) (NN capacity)))))))))))) (. .))

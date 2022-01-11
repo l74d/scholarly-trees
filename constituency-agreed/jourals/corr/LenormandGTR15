@@ -1,0 +1,2 @@
+(S (NP (NNS Cities)) (VP (VBP are) (VP (VBN characterized) (PP (IN by) (S (VP (VBG concentrating) (NP (NP (NN population)) (, ,) (NP (JJ economic) (NN activity)) (CC and) (NP (NNS services)))))))) (. .))
+(S (NP (DT This) (NN network)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB analyze) (NP (NN centrality) (NNS measures)) (PP (IN at) (NP (JJ different) (NNS scales))))))) (. .))

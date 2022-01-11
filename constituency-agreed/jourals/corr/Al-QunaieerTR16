@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (VBG starting) (NN resolution)) (PP (IN for) (NP (NN segmentation)))) (VP (VBZ is) (ADVP (RB generally)) (VP (VBN selected) (ADVP (RB arbitrarily)) (PP (IN with) (NP (DT no) (JJ clear) (NN selection) (NNS criteria))))) (. .))
+(S (NP (NP (DT An) (JJ automated) (NN method)) (PP (IN for) (NP (NP (NN resolution) (NN selection)) (PP (IN for) (NP (DT an) (NN input) (NN image)))))) (VP (MD would) (ADVP (RB thus)) (VP (VB be) (ADJP (JJ beneficial)))) (. .))

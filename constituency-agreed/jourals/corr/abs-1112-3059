@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP identify) (NP (JJ common) (NNS artifacts))) (CC and) (VP (VB discuss) (NP (JJ alternative) (NNS approaches)))) (. .))
+(S (NP (DT These) (NNS algorithms)) (VP (VBP are) (VP (VBN implemented) (PP (IN within) (NP (NP (DT the) (NNP Cornell) (NNP Spectrum) (NNP Imager)) (, ,) (NP (NP (DT an) (JJ open) (NN source) (NN software) (NN package)) (PP (IN for) (NP (JJ spectroscopic) (NN analysis)))))))) (. .))

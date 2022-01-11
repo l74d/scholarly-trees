@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN training)) (PP (IN of) (NP (PRP$ our) (NN network)))) (VP (VBZ is) (VP (VBN conducted) (PP (IN on) (NP (NP (NNS samples)) (VP (VBN obtained) (PP (IN by) (S (VP (VBG augmenting) (NP (DT a) (ADJP (RB publicly) (JJ accessible)) (NN dataset)))))))))) (. .))

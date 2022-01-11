@@ -1,0 +1,2 @@
+(S (NP (NN Uncertainty) (NNS methods)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB provide) (NP (NP (DT an) (NN estimate)) (PP (IN of) (NP (NN class) (NNS probabilities)))) (SBAR (WHADVP (WRB when)) (S (VP (VBG predicting) (NP (NN class) (NN assignment)))))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (DT the) (NNS scores)) (PP (IN of) (NP (DT the) (NNS methods)))) (ADVP (RB also)) (VP (VBP improve) (ADVP (RB significantly)) (PP (IN over) (NP (NNS benchmarks)))) (. .))

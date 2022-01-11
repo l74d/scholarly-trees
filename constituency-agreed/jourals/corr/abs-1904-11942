@@ -1,0 +1,1 @@
+(S (SBAR (IN Though) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ abundant) (NNS datasets)) (VP (VBN annotated) (PP (IN with) (NP (NP (NN event) (NNS relations)) (PP (IN for) (NP (NN story) (NN comprehension)))))))))) (, ,) (NP (JJ many)) (VP (VBP have) (NP (NP (DT no) (JJ empirical) (NNS results)) (VP (VBN associated) (PP (IN with) (NP (PRP them)))))) (. .))

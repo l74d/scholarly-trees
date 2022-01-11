@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN logic)) (VP (VBZ is) (VP (VBN presented) (PP (IN by) (NP (NN example))))) (. .))
+(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (NP (DT a) (NN version)) (PP (IN of) (NP (DT the) (JJ token) (NN ring))))))) (. .))
+(S (NP (JJ Many) (NNS proofs)) (VP (VBP are) (VP (VBN reconstructed))) (. .))
+(S (NP (NP (DT A) (JJ comprehensive) (NN summary)) (PP (IN of) (NP (DT the) (NN logic)))) (VP (VBZ is) (NP (DT an) (NN appendix))) (. .))

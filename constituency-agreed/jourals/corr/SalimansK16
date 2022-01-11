@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN reparameterization)) (VP (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (NN batch) (NN normalization))))) (CC but) (VP (VBZ does) (RB not) (VP (VB introduce) (NP (NP (DT any) (NNS dependencies)) (PP (IN between) (NP (NP (DT the) (NNS examples)) (PP (IN in) (NP (DT a) (NN minibatch))))))))) (. .))

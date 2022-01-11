@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ cross-lingual) (NN pre-training) (NN method)) (PP (IN for) (NP (JJ unsupervised) (NN machine) (NN translation)))) (PP (IN by) (S (VP (VBG incorporating) (NP (JJ explicit) (JJ cross-lingual) (NN training) (NNS signals)))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB incorporate) (NP (JJ beneficial) (JJ cross-lingual) (NN information)) (PP (IN into) (NP (JJ pre-trained) (NNS models)))))))) (. .))

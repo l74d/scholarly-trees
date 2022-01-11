@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS encodings)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN during) (NP (NN query) (NN processing))) (S (VP (TO to) (VP (VB find) (NP (NP (JJ approximate) (JJS nearest) (NNS neighbors)) (PP (IN of) (NP (DT the) (NN query) (NN point)))) (ADVP (RB quickly)))))))) (. .))

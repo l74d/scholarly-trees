@@ -1,0 +1,2 @@
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (NP (DT the) (NNS constraints)) (PP (IN in) (NP (JJ practical) (NNS networks))))))) (, ,) (NP (PRP we)) (VP (VBP revisit) (NP (DT the) (NN problem))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NNS protocols)) (S (VP (VBG using) (NP (PRP$ our) (NN framework))))) (. .))

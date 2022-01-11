@@ -1,0 +1,2 @@
+(S (NP (ADJP (JJ Orthogonal) (JJS least)) (NNS squares) (PRN (-LRB- -LRB-) (NP (NN OLS)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (JJ classic) (NN algorithm)) (PP (IN for) (NP (NP (JJ sparse) (NN recovery)) (, ,) (NP (NN function) (NN approximation)) (, ,) (CC and) (NP (NN subset) (NN selection)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP analyze) (NP (NP (DT the) (NN performance) (NN guarantee)) (PP (IN of) (NP (DT the) (NNP OLS) (NN algorithm))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Currently)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ several) (NNS frameworks)) (SBAR (WHNP (WDT that)) (S (VP (VBP allow) (NP (JJ cross-platform) (NN application) (NN development))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS approaches)) (ADVP (RB still)) (VP (VBP require) (NP (JJ manual) (NN programming))) (. .))

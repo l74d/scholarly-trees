@@ -1,0 +1,2 @@
+(S (NP (NNP WASP)) (VP (VBZ is) (VP (VBG undergoing) (NP (NP (DT a) (NN refactoring) (NN process)) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB end) (PRT (RP up)) (PP (IN in) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (NP (DT a) (ADJP (ADJP (JJ new)) (CC and) (ADJP (RBR more) (JJ performant))) (NN version)) (PP (IN of) (NP (DT the) (NN software)))))))))))))) (. .))
+(S (NP (NP (DT The) (JJ new) (NN version)) (PP (IN of) (NP (NNP WASP)))) (VP (VBZ shows) (NP (NP (DT a) (JJ substantial) (NN increase)) (PP (IN in) (NP (NN performance))))) (. .))

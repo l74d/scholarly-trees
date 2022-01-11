@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN performance) (NN evaluation) (NN method)) (PP (IN for) (NP (NN security) (NNS protocols))))) (. .))
+(S (NP (PRP We)) (VP (VBP model) (NP (CONJP (RB not) (RB only)) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (JJ regular) (NN message) (NNS components)))) (CONJP (CC but) (RB also)) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (NN ciphertext)) (VP (VBN produced) (PP (IN by) (NP (JJ various) (JJ cryptographic) (NNS operations))))))))) (. .))

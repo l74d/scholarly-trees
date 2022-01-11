@@ -1,0 +1,5 @@
+(S (NP (NP (NNS Decisions)) (PP (IN in) (NP (NP (DT a) (NN shareholder) (NN meeting)) (CC or) (NP (DT a) (JJ legislative) (NN committee))))) (VP (VBP are) (ADVP (RB often)) (VP (VBN modeled) (PP (IN as) (NP (DT a) (JJ weighted) (NN game))))) (. .))
+(S (NP (NP (NN Influence)) (PP (IN of) (NP (DT a) (NN member)))) (VP (VBZ is) (ADVP (RB then)) (VP (VBN measured) (PP (IN by) (NP (DT a) (NN power) (NN index))))) (. .))
+(S (NP (NP (DT A) (JJ large) (NN variety)) (PP (IN of) (NP (JJ different) (NNS indices)))) (VP (VBZ has) (VP (VBN been) (VP (VBN introduced) (PP (IN in) (NP (DT the) (NN literature)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (NP (NP (DT the) (VBN considered) (NN set)) (PP (IN of) (NP (NN power) (NNS indices)))) (VP (MD can) (VP (VB be) (VP (VBN partitioned) (PP (IN into) (NP (CD two) (NNS classes))))))))) (. .))
+(S (NP (DT This)) (VP (MD may) (VP (VB serve) (PP (IN as) (NP (NP (DT another) (NN indication)) (SBAR (WHNP (WDT which) (NN index)) (S (VP (TO to) (VP (VB use) (PP (IN in) (NP (DT a) (VBN given) (NN application))))))))))) (. .))

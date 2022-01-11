@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ has) (NP (CD two) (NNS contributions))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT this) (NN scheme)) (VP (VBZ is) (ADJP (RB asymptotically) (JJ optimal)) (SBAR (IN as) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS rewrites)))) (VP (VBZ gets) (ADJP (JJ large)))))))))) (. .))

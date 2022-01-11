@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (SBAR (IN because) (S (NP (JJ visual) (NNS data)) (ADVP (RB often)) (VP (VBZ forms) (NP (NP (DT a) (JJ special) (NN structure)) (VP (VBG lying) (PP (IN on) (NP (NP (DT a) (ADJP (JJR lower) (JJ dimensional)) (NN space)) (VP (VBN embedded) (PP (IN in) (NP (DT a) (ADJP (JJR higher) (JJ dimensional)) (NN space)))))))))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (CD three) (NNS methods)) (SBAR (WHNP (WDT that)) (S (VP (VBP follow) (NP (PRP$ our) (NN framework))))))) (. .))

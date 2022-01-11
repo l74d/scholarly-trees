@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VP (VBZ works) (ADVP (RB well)) (PP (IN for) (NP (JJ normal) (NN head) (NNS anatomies)))) (, ,) (CC but) (VP (VBZ fails) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ unexpected) (NNS lesions))))))) (. .))
+(S (NP (DT The) (NN analysis)) (VP (VBZ demonstrates) (NP (NP (DT the) (NNS benefits)) (PP (IN of) (S (VP (VBG leveraging) (NP (NP (DT the) (CD three) (NNS sources)) (PP (IN of) (NP (JJ prior) (NN information))))))))) (. .))

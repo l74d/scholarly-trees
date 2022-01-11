@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP give) (NP (NP (DT an) (NN implementation)) (PP (IN of) (NP (DT the) (JJ standard) (NN algorithm)))) (PP (IN to) (NP (NP (NP (NN segment)) (NP (DT a) (JJ real) (JJ algebraic) (NN plane) (NN curve))) (VP (VBN defined) (ADVP (RB implicitly)))))) (. .))
+(S (NP (PRP$ Our) (NN implementation)) (VP (VBZ is) (ADJP (ADJP (JJ efficient)) (CC and) (ADJP (JJR simpler))) (PP (IN than) (NP (JJ previous)))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ global) (NN information)) (S (VP (TO to) (VP (VB count) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN half) (HYPH -) (NNS branches)))) (PP (IN at) (NP (DT a) (JJ critical) (NN point))))))) (. .))

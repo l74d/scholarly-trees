@@ -1,0 +1,1 @@
+(S (ADVP (RB Surprisingly)) (, ,) (SBAR (IN while) (S (NP (JJ similar) (NNS concepts)) (VP (VBP have) (VP (VBN been) (VP (VBN employed) (PP (IN for) (NP (NN graph) (NNS analytics)))))))) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT no) (JJ explicit) (NNS notions)) (PP (IN of) (NP (NN graph) (NN window) (JJ analytic) (NNS functions)))))) (. .))

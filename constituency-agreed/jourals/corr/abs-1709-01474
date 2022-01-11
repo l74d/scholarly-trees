@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN remedy))) (, ,) (PP (IN in) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (NP (JJ joint) (NN frame) (NN synchronization)) (CC and) (NP (NN channel) (NN estimation)))) (. .))
+(S (ADVP (RB Subsequently)) (, ,) (NP (DT the) (NN channel) (NN estimate)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB design) (NP (DT the) (NN equalizer))))))) (. .))

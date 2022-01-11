@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP it)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB apply) (NP (JJ sequential) (JJ quadratic) (NN programming)) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN sub-optimization) (NN problem))))))))) (. .))
+(S (NP (DT These) (NNS examples)) (VP (VBP demonstrate) (NP (NP (DT the) (NN simplicity) (CC and) (NN stableness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN scheme))))) (. .))

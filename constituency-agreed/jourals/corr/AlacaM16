@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Binary) (NNS sequences)) (PP (IN with) (NP (NP (JJ good) (NN autocorrelation) (NNS properties)) (CC and) (NP (JJ large) (JJ linear) (NN complexity))))) (VP (VBP are) (ADJP (JJ useful) (PP (IN in) (NP (NN stream) (NN cipher) (NN cryptography))))) (. .))

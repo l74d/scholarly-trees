@@ -1,0 +1,2 @@
+(S (NP (JJ Syntactical) (NN composition)) (VP (VBZ is) (VP (VBN led) (PP (IN by) (NP (NP (DT the) (NN saturation)) (PP (IN of) (NP (NNS polarities))))))) (. .))
+(S (S (NP (NN Dependency) (NNS relations)) (VP (VBP are) (VP (VBN extracted) (PP (IN from) (NP (DT the) (VBG parsing) (NN process)))))) (: :) (S (NP (DT every) (NN dependency)) (VP (VBZ is) (NP (NP (DT the) (NN consequence)) (PP (IN of) (NP (DT a) (NN polarity) (NN saturation)))))) (. .))

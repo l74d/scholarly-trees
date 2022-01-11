@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (NP (NP (NP (CD one) (ADJP (RB particularly) (JJ salient)) (NN aspect)) (PP (IN of) (NP (NN wording)))) (: :) (NP (NN brevity)))))) (. .))
+(SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (NP (DT the) (JJ linguistic) (NNS traits)) (PP (IN of) (NP (NN brevity))))) (. ?))

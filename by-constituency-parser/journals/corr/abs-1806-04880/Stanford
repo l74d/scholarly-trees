@@ -1,0 +1,4 @@
+(S (NP (NNP Safety) (NNS cases)) (VP (VBP become) (ADJP (RB increasingly) (JJ important) (PP (IN for) (NP (NN software) (NN certification))))) (. .))
+(S (S (NP (NNS Models)) (VP (VBP play) (NP (NP (DT a) (JJ crucial) (NN role)) (PP (IN in) (NP (NN building)))))) (CC and) (S (VP (VBG combining) (NP (NN information)) (PP (IN for) (NP (DT the) (NN safety) (NN case))))) (. .))
+(S (NP (DT This) (NN position) (NN paper)) (VP (VBZ sketches) (NP (NP (DT an) (ADJP (NP (JJ ideal) (NN model)) (HYPH -) (VBN based)) (NN safety) (NN case)) (PP (IN with) (NP (NP (NN defect) (NNS hypotheses)) (CC and) (NP (NN failure) (NNS characterisations)))))) (. .))
+(S (PP (IN From) (NP (DT this))) (, ,) (NP (NML (JJ open) (NN research)) (NNS issues)) (VP (VBP are) (VP (VBN derived))) (. .))

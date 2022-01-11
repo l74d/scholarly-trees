@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN measure)) (VP (VBZ reveals) (NP (NP (NN information)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN hidden) (PP (IN by) (NP (NP (JJ traditional) (NN information) (NNS measures)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB commonly)) (VP (VBP use) (NP (NP (NNP Shannon) (POS 's)) (NN entropy) (NN function)) (PP (IN for) (NP (NP (DT each) (VBN selected) (JJ stationary) (NNS states)) (PP (IN of) (NP (DT the) (NN process)))))))))))))))) (. .))
+(S (NP (DT The) (NN presentation)) (VP (VBZ consists) (PP (IN of) (NP (CD three) (NNS Parts)))) (. .))

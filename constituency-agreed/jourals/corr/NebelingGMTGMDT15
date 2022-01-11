@@ -1,0 +1,3 @@
+(S (NP (NP (NNP Crowd) (NNS workers)) (PP (IN on) (NP (NN desktop) (NNS computers)))) (ADVP (RB actually)) (VP (VBP write) (NP (DT the) (NN document))) (. .))
+(S (NP (PRP We)) (VP (VP (VBD used) (NP (DT this) (NN approach)) (S (VP (TO to) (VP (VB write) (NP (JJ several) (JJ simple) (NNS papers)))))) (, ,) (CC and) (VP (VBD found) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ effective) (PP (IN at) (S (VP (VBG producing) (NP (JJ reasonable) (NNS drafts))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN system) (POS 's)) (NN feasibility)) (PP (IN by) (S (VP (VBG writing) (NP (DT this) (NN paper)) (S (VP (VBG using) (NP (PRP it)))))))) (. .))

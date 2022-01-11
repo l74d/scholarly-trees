@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN cospark)) (PP (IN of) (NP (DT a) (NN matrix)))) (VP (VBZ is) (NP (NP (DT the) (NN cardinality)) (PP (IN of) (NP (NP (DT the) (JJS sparsest) (NN vector)) (PP (IN in) (NP (NP (DT the) (NN column) (NN space)) (PP (IN of) (NP (DT the) (NN matrix))))))))) (. .))

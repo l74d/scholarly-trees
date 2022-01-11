@@ -1,0 +1,2 @@
+(S (NP (NP (NN Evaluation)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (VP (VBN performed) (PP (IN on) (NP (NNP TIMIT) (NN database))))) (. .))
+(S (S (NP (DT The) (NN system)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (NN co-channel) (NN speech)))))) (CC and) (S (NP (NNS results)) (VP (VBP show) (NP (DT a) (JJ significant) (NN improvement)))) (. .))

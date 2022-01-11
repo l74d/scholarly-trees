@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (NN multigranulation) (NNS spaces)) (PP (IN of) (NP (CD two) (NNS equivalences))))) (. .))
+(S (NP (NP (NP (NP (DT The) (NN lattice)) (HYPH -) (PP (NP (JJ theoretical) (NNS properties)) (IN of))) (ADJP (RB so) (HYPH -) (VBN called))) (NP (ADJP (`` ") (JJ optimistic) ('' ") (CC and) (`` ") (JJ pessimistic) ('' ")) (JJ multigranular) (NN approximation) (NNS systems))) (VP (VBP are) (VP (VBN given))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP consider) (NP (NP (DT the) (VBN ordered) (NNS sets)) (PP (IN of) (NP (NP (JJ rough) (NNS sets)) (VP (VBN determined) (PP (IN by) (NP (DT these) (NN approximation) (NNS pairs)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG resulting) (NN collision) (NN avoidance) (NN strategy)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN as) (NP (DT a) (JJ numeric) (NN table)))))) (. .))
+(S (S (VP (TO To) (VP (VB improve) (NP (NN storage) (NN efficiency))))) (, ,) (NP (DT a) (JJ deep) (JJ neural) (NN network)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (NN table))))))) (. .))

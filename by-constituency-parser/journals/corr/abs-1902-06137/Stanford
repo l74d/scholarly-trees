@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB successfully)) (VP (VBP demonstrate) (NP (NP (DT a) (NN transmission)) (PP (IN of) (NP (DT a) (NML (JJ high) (NN layer)) (NN split) (NN mobile) (NN interface)))) (PP (IN for) (NP (NP (JJ cell-less) (, ,) (NML (NML (JJ high) (HYPH -) (NN speed)) (NN train)) (NN network) (NNS applications)) (VP (VBG using) (NP (DT a) (ADJP (RB commercially) (JJ available)) (NN XGS) (HYPH -) (NN PON)))))) (. .))
+(S (NP (NN Operation)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN demonstrated) (PP (IN for) (NP (DT a) (NN GbE) (NN interface))))) (. .))

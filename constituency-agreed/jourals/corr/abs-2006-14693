@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN extension)) (VP (VBZ introduces) (NP (NP (DT a) (JJ separate) (NN margin)) (PP (IN for) (NP (NP (DT each) (JJ negative) (NN proxy)) (PP (IN per) (NP (NN sample))))))) (. .))
+(S (NP (DT These) (NNS margins)) (VP (VBP are) (VP (VBN computed) (PP (IN during) (NP (NN training))) (PP (IN from) (NP (NP (JJ precomputed) (NNS distances)) (PP (IN of) (NP (NP (DT the) (NNS classes)) (PP (IN in) (NP (DT the) (JJ other) (NN modality))))))))) (. .))

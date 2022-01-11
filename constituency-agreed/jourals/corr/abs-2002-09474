@@ -1,0 +1,2 @@
+(S (NP (NP (DT These) (NNS operations)) (PP (IN with) (NP (DT the) (JJ rectangular) (NN structuring) (NN element)))) (VP (VBP are) (ADJP (JJ separable))) (. .))
+(S (NP (JJ Final) (NN implementation)) (VP (VP (VBD was) (VP (VBN improved) (PP (IN with) (NP (NNP SIMD))))) (CC and) (VP (VBD used) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (DT these) (NNS methods)))))) (. .))

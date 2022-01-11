@@ -1,0 +1,2 @@
+(S (PP (IN As) (NP (DT a) (JJ special) (NN case))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (DT the) (JJ Gaussian) (NN noise))) (. .))
+(S (ADVP (RB However)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ underlying) (NNS measurements)) (VP (VBP are) (VP (VBN corrupted) (PP (IN by) (NP (JJ sparse) (NN noise))))))) (, ,) (NP (DT these) (NNS algorithms)) (VP (VBP perform) (ADVP (RB suboptimally))) (. .))

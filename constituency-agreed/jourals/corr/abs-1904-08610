@@ -1,0 +1,2 @@
+(S (NP (NN Segmentation)) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN step)) (PP (IN in) (S (VP (VBG analyzing) (CC and) (VBG processing) (NP (JJ medical) (NNS images))))))) (. .))
+(S (NP (DT The) (JJ final) (NN segmentation)) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN exported) (PP (PP (IN as) (NP (NP (DT a) (NN file)) (VP (VBG storing) (NP (PRP$ its) (NNS contours))))) (CC and) (PP (IN as) (NP (DT a) (JJ binary) (NN segmentation) (NN mask))))))) (. .))

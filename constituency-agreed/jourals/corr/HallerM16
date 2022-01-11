@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN emphasis)) (PP (IN of) (NP (PRP$ our) (NN model)))) (VP (VBZ is) (PP (IN on) (NP (NN simplicity) (, ,) (NN performance) (, ,) (CC and) (NN expressiveness)))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (PP (IN on) (NP (NP (DT a) (NN prototype) (NN implementation)) (PP (IN in) (NP (NNP Scala)))))) (. .))

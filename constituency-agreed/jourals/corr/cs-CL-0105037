@@ -1,0 +1,1 @@
+(S (S (NP (JJ Lexical) (NN information)) (VP (VBZ is) (VP (VBN obtained) (PP (IN from) (NP (DT a) (NN speech) (NN recognizer)))))) (, ,) (CC and) (S (NP (JJ prosodic) (NNS features)) (VP (VBP are) (VP (VBN extracted) (ADVP (RB automatically)) (PP (IN from) (NP (NN speech) (NNS waveforms)))))) (. .))

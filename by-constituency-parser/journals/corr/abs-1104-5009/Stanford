@@ -1,0 +1,3 @@
+(S (NP (NML (CD 3) (HYPH -) (NN list)) (NN colouring)) (VP (VBZ is) (NP (DT an) (ADJP (NP (NNP NP)) (HYPH -) (JJ complete)) (NN decision) (NN problem))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ hard)) (ADVP (RB even)) (PP (IN on) (NP (JJ planar) (JJ bipartite) (NNS graphs)))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (DT a) (ADJP (JJ polynomial) (HYPH -) (NN time)) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (NML (CD 3) (HYPH -) (NN list)) (NN colouring)) (PP (IN on) (NP (NN permutation) (NNS graphs))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP train) (NP (DT the) (NN parser)) (PP (IN with) (NP (NP (DT an) (NN integration)) (PP (IN of) (NP (NP (JJ variational) (NN inference)) (, ,) (NP (JJ posterior) (NN regularization)) (CC and) (NP (NN variance) (NN reduction) (NNS techniques))))))) (. .))

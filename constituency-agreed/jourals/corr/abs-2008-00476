@@ -1,0 +1,2 @@
+(S (NP (JJ Much) (NN research) (NN effort)) (VP (VBZ has) (VP (VBN been) (VP (VBN directed) (PP (IN towards) (NP (DT this) (NN field)))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (VBZ achieves) (NP (JJ good) (NN performance)) (PP (IN with) (NP (JJR fewer) (NNS parameters))))))) (. .))

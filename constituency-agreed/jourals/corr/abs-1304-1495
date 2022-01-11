@@ -1,0 +1,2 @@
+(S (NP (NP (CD Two) (JJ major) (NNS difficulties)) (PP (IN in) (S (VP (VBG using) (NP (NN default) (NNS logics)))))) (VP (VBP are) (NP (NP (PRP$ their) (NN intractability)) (CC and) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG selecting) (PP (IN among) (NP (JJ multiple) (NNS extensions))))))))) (. .))
+(S (PP (IN By) (S (VP (VBG restricting) (NP (NP (DT the) (NN size) (CC and) (NN complexity)) (PP (IN of) (NP (DT the) (JJ nommonotonic) (NNS cycles))))))) (NP (PRP we)) (VP (MD can) (ADVP (RB still)) (VP (VB perform) (NP (JJ efficient) (NNS inferences)))) (. .))

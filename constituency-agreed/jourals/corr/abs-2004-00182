@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ mechanical) (NN energy)) (VP (VBN consumed) (PP (IN by) (NP (NP (NNS rotors)) (PP (IN of) (NP (DT the) (VBG flying) (NN vehicle))))))) (VP (VBZ is) (VP (VBN formulated) (PP (IN with) (NP (DT an) (NN efficiency) (NN function))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (DT the) (NN energy) (NN minimization) (NN problem)) (PP (IN as) (NP (DT an) (JJ optimal) (NN control) (NN problem)))) (. .))

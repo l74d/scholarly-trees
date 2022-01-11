@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (SBAR (IN since) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ uses) (NP (DT the) (JJ singular) (NN value) (NN decomposition)) (PP (IN as) (NP (PRP$ its) (NN core) (NN operation)))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (RB highly) (JJ scalable))) (. .))

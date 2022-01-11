@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN play)) (PP (IN of) (NP (DT each) (NN arm)))) (VP (VBZ yields) (NP (DT a) (ADJP (NN state) (JJ dependent)) (NN reward))) (. .))
+(S (NP (NP (DT The) (JJ current) (NN availability)) (PP (IN of) (NP (NNS arms)))) (VP (VBZ is) (ADJP (RB fully) (JJ observable))) (. .))

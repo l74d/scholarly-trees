@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ anonymizes) (NP (DT the) (NN referent)) (PP (IN by) (S (VP (VBG replacing) (NP (NN candidate) (NNS names)) (PP (IN with) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ common) (NN placeholder) (NNS names))))))))) (. .))

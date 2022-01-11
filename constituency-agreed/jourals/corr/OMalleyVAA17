@@ -1,0 +1,3 @@
+(S (NP (NN Machine) (NN learning)) (VP (VBZ has) (VP (VBN been) (VP (VBN identified) (PP (IN as) (NP (NP (DT an) (NN area)) (SBAR (WHADVP (WRB where)) (S (NP (NN quantum) (NN annealing)) (VP (MD may) (VP (VB be) (ADJP (JJ useful))))))))))) (. .))
+(S (NP (DT This) (NN method)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB analyze) (NP (JJ large) (NNS datasets)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP apply) (NP (DT this) (NN method)) (S (VP (TO to) (VP (VB learn) (NP (DT the) (NNS features)) (PP (IN from) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ facial) (NNS images))))))))) (. .))

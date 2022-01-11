@@ -1,0 +1,2 @@
+(S (PP (IN Among) (NP (NP (DT the) (NNS mechanisms)) (PP (IN for) (NP (DT the) (NNS data))))) (NP (NP (NN security)) (PP (IN in) (NP (NN computer) (NNS networks)))) (VP (VBZ is) (VP (VBN considered) (SBAR (S (VP (VBD trusted) (NP (NN routing))))))) (. .))
+(S (S (NP (PRP$ Its) (NN simulation) (NN method)) (VP (VBZ is) (VP (VBN chosen)))) (CC and) (S (NP (NP (NN choice)) (PP (IN of) (NP (NN network) (NN simulator)))) (VP (VBZ is) (VP (VBN substantiated)))) (. .))

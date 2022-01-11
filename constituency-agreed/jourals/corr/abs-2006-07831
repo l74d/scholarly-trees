@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (PP (VBN given) (NP (CD two) (NNS instances))) (, ,) (SBAR (RB even) (IN if) (S (NP (NP (DT both)) (PP (IN of) (NP (PRP$ their) (NN class) (NNS labels)))) (VP (VBP are) (ADJP (JJ incorrect))))) (, ,) (NP (PRP$ their) (NN similarity) (NN label)) (VP (MD could) (VP (VB be) (ADJP (JJ correct)))) (. .))

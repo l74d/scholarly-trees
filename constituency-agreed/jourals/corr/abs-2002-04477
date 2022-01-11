@@ -1,0 +1,1 @@
+(S (ADVP (RB Thus)) (, ,) (NP (NP (JJ binary) (NNS trees)) (SBAR (JJ such) (IN that) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NN parent) (NNS nodes)))) (VP (VBZ has) (NP (QP (RB only) (CD one)) (NN child) (NN node)))))) (VP (VBP are) (VP (VBN excluded) (PP (IN from) (NP (NP (DT the) (NN set)) (VP (VBN considered) (ADVP (RB here))))))) (. .))

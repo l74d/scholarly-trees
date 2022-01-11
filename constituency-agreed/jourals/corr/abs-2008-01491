@@ -1,0 +1,1 @@
+(S (ADVP (RB Numerically)) (, ,) (NP (DT these) (NNS conditions)) (VP (MD can) (VP (VB be) (VP (VBN enforced) (ADVP (RB exactly)) (PP (IN in) (NP (NP (JJ classical) (JJ numerical) (NNS methods)) (, ,) (PP (JJ such) (IN as) (NP (NP (JJ finite) (NN difference) (NN method)) (CC and) (NP (JJ finite) (NN element) (NN method))))))))) (. .))

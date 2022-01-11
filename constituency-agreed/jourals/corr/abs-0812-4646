@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN mode)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB infer) (NP (NP (DT the) (NN topology)) (PP (IN in) (NP (DT the) (NN future)))) (PP (VBN based) (PP (IN on) (NP (NP (PDT all) (DT the) (NNS topologies)) (PP (IN in) (NP (DT the) (NN past)))))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (NNS parameters)) (PP (IN in) (NP (DT the) (NN model)))) (VP (VBP are) (ADJP (JJ meaningful))) (. .))

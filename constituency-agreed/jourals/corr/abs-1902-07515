@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN simulation)) (VP (VBZ runs) (PP (IN within) (NP (NP (DT a) (JJ constant) (NN overhead)) (PP (IN in) (NP (NN space))))))) (, ,) (CC but) (S (NP (NP (DT the) (NN overhead)) (PP (IN in) (NP (NN time)))) (VP (MD might) (VP (VB be) (ADJP (JJ exponential))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN preconditioner)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (NN system) (NN resolution))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT some) (JJ numerical) (NNS examples)) (PP (VBG including) (NP (ADJP (JJ elastic) (, ,) (JJ hyperelastic) (CC and) (JJ viscoplastic)) (NNS materials)))) (VP (VBP are) (VP (VBN solved) (S (VP (TO to) (VP (VB check) (NP (NP (DT the) (NN accuracy) (CC and) (NN efficiency)) (PP (IN of) (NP (DT the) (NN method))))))))) (. .))

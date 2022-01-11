@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB newly) (VBG emerging)) (NN topic)) (PP (IN in) (NP (NN computer) (NN vision) (NN community))))) (. .))
+(S (NP (NP (NNS Experiments)) (PP (IN on) (NP (CD two) (NNP RGBD) (NN co-saliency) (NNS datasets)))) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NN model))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ logarithmic) (NN model)) (VP (VBZ offers) (NP (NP (JJ new) (NNS tools)) (PP (IN for) (NP (NN image) (NN processing))))) (. .))
+(S (NP (NP (DT An) (JJ efficient) (NN method)) (PP (IN for) (NP (NN image) (NN enhancement)))) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (DT an) (JJ affine) (NN transformation)) (PP (IN with) (NP (NP (DT the) (JJ logarithmic) (NNS operations)) (: :) (NP (NP (NN addition)) (CC and) (NP (JJ scalar) (NN multiplication))))))))) (. .))

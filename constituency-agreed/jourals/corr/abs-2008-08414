@@ -1,0 +1,1 @@
+(S (NP (JJ Such) (NNS methods)) (VP (VP (VBP are) (VP (VBN trained) (ADVP (RB directly)) (PP (IN on) (NP (NP (DT the) (NNS images)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (S (VP (TO to) (VP (VB be) (VP (VBN denoised)))))))))))) (CC and) (VP (VBP do) (RB not) (VP (VB require) (NP (JJ additional) (JJ paired) (NN training) (NNS data))))) (. .))

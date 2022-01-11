@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (NN method)) (PP (IN of) (NP (NP (JJ nonlinear) (NN wavelet) (NN thresholding)) (PP (IN of) (NP (NN time) (NN series))))))) (. .))
+(S (S (VP (TO To) (VP (VB minimize) (NP (DT the) (JJ objective) (NN function))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB use) (NP (NP (JJ genetic) (NNS algorithms)) (: -) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ stochastic) (NN optimization) (NNS methods)))))))))) (. .))

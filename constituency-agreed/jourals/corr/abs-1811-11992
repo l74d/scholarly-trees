@@ -1,0 +1,2 @@
+(S (NP (NNP Reservoir) (NN simulation)) (VP (MD will) (VP (VB play) (NP (DT an) (JJ indispensable) (NN role)) (PP (IN in) (NP (NP (DT the) (NN prediction)) (PP (IN of) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NNP ISC) (NNS projects))))))))) (. .))
+(S (PP (IN For) (NP (ADJP (JJ physical) (CC and) (JJ chemical)) (NNS behaviors))) (, ,) (NP (NP (DT some) (JJ special) (NNS treatments)) (PP (IN for) (NP (DT the) (NNP ISC) (NN simulator)))) (VP (VBP are) (VP (VBN discussed) (CC and) (VBN applied))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN Clustering)) (VP (VBZ is) (NP (NP (DT the) (NN grouping)) (PP (IN of) (NP (JJ similar) (NNS instances) (CC or) (NNS objects))))) (. .))
+(S (NP (NP (DT The) (JJ key) (NN factor)) (PP (IN for) (NP (NN clustering)))) (VP (VBZ is) (NP (NP (DT some) (NN sort)) (PP (IN of) (NP (NP (NN measure)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB determine) (SBAR (IN whether) (S (NP (CD two) (NNS objects)) (VP (VBP are) (ADJP (JJ similar) (CC or) (JJ dissimilar))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ primary) (NN goal)) (PP (IN of) (NP (JJ computational) (NN phenotype) (NN research)))) (VP (VBZ is) (S (VP (TO to) (VP (VB conduct) (NP (JJ medical) (NN diagnosis)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (VBZ offers) (NP (NP (DT a) (ADJP (RB surprisingly) (JJ good)) (NN imputation)) (PP (IN for) (NP (VBG missing) (NNS values)))))))) (. .))

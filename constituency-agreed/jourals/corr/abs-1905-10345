@@ -1,0 +1,2 @@
+(S (NP (JJ Automatic) (NN machine) (NN learning)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN problem)) (PP (IN in) (NP (NP (DT the) (NN forefront)) (PP (IN of) (NP (NN machine) (NN learning))))))) (. .))
+(S (PP (IN In) (NP (NP (DT the) (NN spirit)) (PP (IN of) (NP (JJ reproducible) (NN research))))) (NP (PRP we)) (VP (VBP make) (S (NP (PRP$ our) (NNS data) (, ,) (NNS models) (, ,) (CC and) (NN code)) (ADJP (RB publicly) (JJ available)))) (. .))

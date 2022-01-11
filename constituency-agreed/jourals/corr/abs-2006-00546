@@ -1,0 +1,1 @@
+(S (NP (JJ Deep) (JJ neural) (NNS networks)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (DT each) (NN agent))) (S (VP (TO to) (VP (VB approximate) (NP (NP (DT the) (NN policy) (NN function)) (CC and) (NP (DT the) (NN action) (NN value) (NN function)))))))) (. .))

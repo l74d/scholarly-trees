@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VP (VBP focus) (PP (IN on) (NP (NP (DT the) (JJ mathematical) (NN formulation)) (PP (IN of) (NP (NP (DT each) (NN component)) (PP (IN of) (NP (DT the) (NN model)))))))) (CC and) (VP (VB explain) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ its) (NNS parameters) (CC and) (NNS inputs)) (VP (VBP are) (VP (VBN obtained))))))) (. .))

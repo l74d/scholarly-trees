@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (DT an) (JJ unlabeled) (NN road) (NN map))) (, ,) (NP (PRP we)) (VP (VBP consider) (, ,) (PP (IN from) (NP (DT an) (JJ algorithmic) (NN perspective))) (, ,) (NP (DT the) (JJ cartographic) (NN problem) (S (VP (TO to) (VP (VB place) (NP (NP (JJ non-overlapping) (NN road) (NNS labels)) (VP (VBN embedded) (PP (IN in) (NP (PRP$ their) (NNS roads)))))))))) (. .))

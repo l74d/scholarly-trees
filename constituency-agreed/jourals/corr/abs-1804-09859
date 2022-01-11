@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT the) (NN problem))))) (, ,) (NP (PRP we)) (VP (VP (VBP introduce) (NP (JJ unsupervised) (JJ competitive) (NN learning)) (PP (IN into) (NP (DT the) (JJ convolutional) (NN layer)))) (, ,) (CC and) (VP (VB utilize) (NP (JJ unlabeled) (NNS data)) (PP (IN for) (NP (JJ effective) (NN representation) (NN learning))))) (. .))

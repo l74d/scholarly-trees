@@ -1,0 +1,2 @@
+(S (NP (NP (NP (NNP Chidamber) (CC and) (NNP Kemerer) (POS 's)) (NN suite)) (PP (IN of) (NP (JJ metric)))) (VP (VBD was) (VP (VBN used) (PP (IN as) (NP (JJ metric) (NN tool))))) (. .))
+(S (NP (JJ Descriptive) (NNS statistics)) (VP (VBD was) (VP (VBN used) (S (VP (TO to) (VP (VB analyze) (NP (NNS results))))))) (. .))

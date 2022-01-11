@@ -1,0 +1,1 @@
+(S (S (VP (VBG Using) (NP (DT this) (NN strategy)))) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (NP (NP (DT a) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ learns) (S (VP (TO to) (VP (VB predict) (NP (DT a) (NN walkability) (NN map)) (PP (IN from) (NP (DT a) (JJ single) (NN image))))))))))) (. .))

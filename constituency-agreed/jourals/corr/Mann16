@@ -1,0 +1,1 @@
+(S (NP (JJ Current) (NN encryption) (NNS schemes)) (VP (VBP include) (NP (NP (DT the) (NNP ElGamal) (NN signature) (NN scheme)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (JJ discrete) (NN logarithm) (NN problem)))))))))) (. .))

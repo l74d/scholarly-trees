@@ -1,0 +1,3 @@
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ aims) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN bit) (NN depth)) (VP (VBN used) (PP (IN for) (NP (NN image) (NN storage))))))))) (. .))
+(S (NP (NP (DT The) (JJ basic) (NN technique)) (PP (IN for) (NP (DT the) (VBN proposed) (NN transformation)))) (VP (VBZ is) (VP (VBN based) (PP (IN of) (NP (DT the) (NN modulus) (NN operator))))) (. .))
+(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB transform) (NP (DT the) (JJ whole) (NN image)) (PP (IN into) (NP (NP (NNS multiples)) (PP (IN of) (NP (JJ predefined) (NN integer))))))))) (. .))

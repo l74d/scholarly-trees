@@ -1,0 +1,5 @@
+(S (NP (NNP Context) (NN awareness)) (VP (VBZ is) (ADVP (RB increasingly)) (VP (JJ gaining) (NP (NN applicability)) (PP (IN in) (NP (JJ interactive) (JJ ubiquitous) (JJ mobile) (VBG computing) (NNS systems))))) (. .))
+(S (NP (DT Each) (JJ context-aware) (NN application)) (VP (VBZ has) (NP (NP (PRP$ its) (JJ own) (NN set)) (PP (IN of) (NP (NP (NNS behaviors)) (SBAR (S (VP (TO to) (VP (VB react) (PP (TO to) (NP (VB context) (NNS modifications))))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN concerned) (PP (IN with) (NP (NP (NP (DT the) (NN context) (NN modeling)) (CC and) (NP (DT the) (NN development) (NN methodology))) (PP (IN for) (NP (JJ context-aware) (NNS systems))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBD proposed) (NP (DT a) (JJ rule-based) (NN approach))) (CC and) (VP (VB use) (NP (DT the) (NN adaption) (NN tree)) (S (VP (TO to) (VP (VB model) (NP (NP (DT the) (NN adaption) (NN rule)) (PP (IN of) (NP (JJ context-aware) (NNS systems))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT this) (NN idea)) (PP (IN in) (NP (DT an) (JJ arithmetic) (NN game) (NN application)))) (. .))

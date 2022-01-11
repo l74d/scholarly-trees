@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ broad) (NN absorption) (NN bump)) (PP (IN at) (NP (CD 2175) (NNP Angstrom)))) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NN feature)) (PP (IN in) (NP (DT the) (NN extinction) (NNS curves))))) (. .))
+(S (ADVP (RB Traditionally)) (, ,) (NP (JJ statistical) (NNS methods)) (VP (VBP are) (VP (VBN applied) (S (VP (TO to) (VP (VB detect) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT the) (NN absorption) (NN bump))))))))) (. .))

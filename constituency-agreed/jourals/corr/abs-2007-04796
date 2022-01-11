@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN neuroskin)) (VP (VBZ is) (VP (VBN modelled) (S (VP (VBG using) (NP (JJ finite) (NNS elements)))))) (. .))
+(S (NP (NP (DT Each) (NN element)) (PP (IN of) (NP (DT the) (JJ finite) (NN element)))) (VP (VBZ represents) (NP (DT a) (NN cell))) (. .))

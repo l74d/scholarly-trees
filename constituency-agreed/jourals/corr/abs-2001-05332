@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ spectral) (NN indicator) (NN method)) (VP (VBZ is) (VP (VBN employed) (S (VP (TO to) (VP (VB compute) (NP (DT the) (NNS eigenvalues))))))) (. .))
+(S (NP (DT A) (JJ numerical) (NN example)) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB validate) (NP (DT the) (NN theory))))))) (. .))

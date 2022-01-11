@@ -1,0 +1,2 @@
+(S (S (VP (VBG Finding) (NP (NP (DT the) (NN rank)) (PP (IN of) (NP (DT a) (NN tensor)))))) (VP (VBZ is) (NP (NP (DT a) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (JJ many) (NNS applications))))))) (. .))
+(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (JJ nuclear) (NN norm)) (PP (IN of) (NP (NP (JJ various) (NNS tensors)) (PP (IN of) (NP (NN interest))))))) (. .))

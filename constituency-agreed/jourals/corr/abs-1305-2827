@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJS easiest) (NN approach)) (PP (IN for) (NP (JJ facial) (NN expression) (NN recognition))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN module))) (NP (PRP we)) (VP (VBD used) (NP (NNP Edge) (NNP Projection) (NNP Analysis))) (. .))

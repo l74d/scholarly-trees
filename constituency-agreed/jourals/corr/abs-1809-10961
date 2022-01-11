@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ variational) (NN inference) (NN model)) (SBAR (WHNP (WDT which)) (S (VP (VBZ amounts) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (JJ joint) (NN distribution)) (PP (IN with) (NP (DT a) (JJ factorized) (NN distribution))))))))))) (. .))

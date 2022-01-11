@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Millions)) (PP (IN of) (NP (JJ smart) (NNS contracts)))) (VP (VBP have) (VP (VBN been) (VP (VBN deployed) (PP (IN in) (NP (JJ various) (JJ decentralized) (NNS applications)))))) (. .))
+(S (NP (NP (PRP$ Our) (NN fuzzing)) (PP (IN of) (NP (CD 6991) (JJ smart) (NNS contracts)))) (VP (VBZ has) (VP (VBN flagged) (NP (QP (JJR more) (IN than) (CD 459)) (NNS vulnerabilities)) (PP (IN with) (NP (JJ high) (NN precision))))) (. .))

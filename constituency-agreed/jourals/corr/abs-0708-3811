@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN classification)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN topology)) (PP (IN of) (NP (PRP$ their) (NN workspace))))))) (. .))
+(S (NP (DT This) (NN result)) (VP (VBZ is) (PP (IN of) (NP (NP (NN interest)) (PP (IN for) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (JJ alternative) (NN manipulator) (NNS geometries)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (NNS codes)) (VP (VBN obtained))))) (VP (VBP are) (ADJP (ADJP (JJ optimal)) (CC or) (ADJP (RB almost) (JJ optimal)))) (. .))
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (NP (DT the) (JJ cyclic) (NNS codes)) (VP (VBN constructed) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VBP are) (ADJP (RB very) (JJ good))) (. .))

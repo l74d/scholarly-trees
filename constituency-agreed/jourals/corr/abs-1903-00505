@@ -1,0 +1,2 @@
+(S (NP (VBN Parameterized) (NN complexity) (NN theory)) (VP (VBZ offers) (NP (NP (DT a) (NN framework)) (PP (IN for) (NP (NP (DT a) (JJ refined) (NN analysis)) (PP (IN of) (NP (JJ hard) (JJ algorithmic) (NNS problems))))))) (. .))
+(S (S (VP (TO To) (VP (VB classify) (NP (NN hardness))))) (NP (PRP we)) (VP (VBP introduce) (NP (CD three) (NNS hierarchies))) (. .))

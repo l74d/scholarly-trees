@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN user)) (VP (MD should) (VP (VB assess) (NP (NP (DT the) (NN worth)) (PP (IN of) (NP (DT the) (JJ auxiliary) (NN information)))) (PP (IN before) (S (VP (VBG considering) (NP (NP (DT this) (NN technique)) (PP (IN for) (NP (NN text) (NN mining))))))))) (. .))
+(S (NP (DT The) (JJ clustered) (NNS documents)) (VP (MD would) (ADVP (RB then)) (VP (VB be) (VP (VBN classified) (PP (VBN based) (PP (IN on) (NP (DT the) (JJ necessary) (NNS groups))))))) (. .))

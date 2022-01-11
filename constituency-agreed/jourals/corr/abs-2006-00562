@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ large) (NN class)) (PP (IN of) (NP (NNP MDS) (JJ linear) (NNS codes)))) (VP (VBZ is) (VP (VBN constructed))) (. .))
+(S (NP (DT These) (NNS codes)) (VP (VBP are) (VP (VBN endowed) (PP (IN with) (NP (DT an) (JJ efficient) (NN decoding) (NN algorithm))))) (. .))

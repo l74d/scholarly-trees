@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ involves) (S (VP (VBG looking) (PP (IN at) (NP (CD two) (JJ formal) (NNS languages)))))) (. .))
+(S (NP (DT The) (JJ other)) (VP (VBZ is) (NP (NP (DT a) (JJ modal) (NN fixpoint) (NN language)) (PP (IN with) (NP (NP (NNS expressions)) (PP (IN for) (NP (NN optimality) (, ,) (NN rationality) (CC and) (NN belief))))))) (. .))

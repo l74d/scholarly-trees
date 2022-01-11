@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP investigate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP GTX) (NNP Titan))))) (CC and) (VP (VB find) (PRT (RP out)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB optimize) (NP (DT a) (NNP CUDA) (NN code)) (ADVP (RB appropriately)) (PP (IN for) (NP (PRP it))))))))) (. .))

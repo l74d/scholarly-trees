@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (DT the) (NNP Winograd) (JJ minimal) (NN filtering) (NN method)))) (VP (VBZ allows) (S (VP (TO to) (VP (VB construct) (NP (NP (DT a) (NN module) (NN structure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ requires) (NP (NP (QP (RB only) (CD 4)) (JJ binary) (NNS multipliers)) (CC and) (NP (CD 8) (JJ binary) (NNS adders))))))))))) (. .))

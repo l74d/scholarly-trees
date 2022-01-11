@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN detector)) (ADVP (RB also)) (VP (VBZ helps) (S (VP (TO to) (VP (VB reinitialize) (NP (NNP FaceTrack)) (PP (IN during) (NP (NN drift))))))) (. .))

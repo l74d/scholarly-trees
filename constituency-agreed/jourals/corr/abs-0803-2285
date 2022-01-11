@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP exploit) (NP (NP (DT the) (NN malleability)) (PP (IN of) (NP (DT the) (NN stream) (NN cipher)))) (S (VP (TO to) (VP (VB read) (NP (NP (DT all) (NN memory) (NNS blocks)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN sector)) (PP (IN of) (NP (DT the) (NN card)))))))))) (. .))

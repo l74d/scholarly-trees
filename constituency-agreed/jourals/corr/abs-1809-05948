@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ second) (NN problem)) (VP (VBZ is) (VP (VBN concerned) (PP (IN with) (S (VP (VBG characterizing) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (JJ discrete) (NNS modes)) (PP (IN of) (NP (DT the) (NNP JLS))))))))))) (. .))
+(S (NP (NP (DT The) (NN rank)) (PP (IN of) (NP (DT this) (NN matrix)))) (VP (VBZ gives) (NP (PRP us)) (NP (DT the) (NN state) (NN space) (NN dimension))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (DT This) (NN topic)) (VP (VBZ represents) (NP (DT a) (ADJP (RB very) (JJ challenging)) (NN task)))) (CC and) (S (NP (NP (DT the) (NN advent)) (PP (IN of) (NP (JJ deep) (NN learning)))) (VP (VBD enabled) (S (VP (TO to) (VP (VB tackle) (NP (DT this) (NN problem)) (PP (IN with) (NP (JJ excellent) (NNS results)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT these) (NNS architectures)) (VP (VBP are) (ADJP (RB extremely) (JJ deep) (CC and) (JJ complex))) (. .))

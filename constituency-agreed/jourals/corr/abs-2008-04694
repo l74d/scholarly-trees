@@ -1,0 +1,4 @@
+(S (NP (JJ Limited) (JJ angular) (NN resolution)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS obstacles)) (PP (IN for) (NP (NP (JJ practical) (NNS applications)) (PP (IN of) (NP (JJ light) (NNS fields))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (VBG subsampling) (CC and) (NN reconstruction) (NNS strategies)) (PP (IN for) (NP (JJ light) (NNS fields))))) (. .))
+(S (NP (NP (DT The) (NN influence)) (PP (IN of) (NP (NP (DT the) (JJ angular) (NN density)) (PP (IN of) (NP (DT the) (NN input)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN evaluated))) (. .))
+(S (NP (DT These)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN in) (NP (NP (JJ future) (JJ light) (NN field) (NN research)) (PP (JJ such) (IN as) (NP (NP (NN compression)) (, ,) (NP (JJ angular) (NN super-resolution)) (, ,) (CC and) (NP (NP (NN design)) (PP (IN of) (NP (NN camera) (NNS systems))))))))))) (. .))

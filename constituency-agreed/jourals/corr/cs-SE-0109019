@@ -1,0 +1,4 @@
+(S (NP (DT A) (NN test) (NN suite)) (VP (MD should) (VP (VB drive) (NP (DT a) (NN system)) (PP (IN through) (NP (DT all) (JJ abstract) (NNS states))) (S (VP (TO to) (VP (VB exercise) (NP (NP (DT all) (JJ possible) (NNS cases)) (PP (IN of) (NP (PRP$ its) (NN operation))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ difficult) (NN task))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ our) (NN approach)) (PP (IN on) (NP (NP (JJ common) (NN design) (NNS abstractions)) (PP (JJ such) (IN as) (NP (NP (NNS statecharts)) (, ,) (NP (NN activity) (NNS diagrams)) (, ,) (NP (NN message) (NN sequence) (NNS charts)) (CC and) (NP (NN structure) (NNS diagrams))))))) (. .))
+(S (S (VP (VBG Using) (NP (NN design) (NN coverage)))) (, ,) (NP (NN test) (NNS suites)) (VP (MD could) (VP (VB be) (VP (VBN created) (ADVP (RBR faster)) (PP (IN by) (S (VP (VBG focussing) (PP (IN on) (NP (JJ untested) (NN design) (NNS elements))))))))) (. .))

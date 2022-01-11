@@ -1,0 +1,2 @@
+(S (NP (NNP KK) (NNS codes)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN constructed) (PP (IN from) (NP (NP (NNP Gabidulin) (NNS codes)) (, ,) (NP (NP (DT an) (JJ important) (NN class)) (PP (IN of) (NP (NN rank) (JJ metric) (NNS codes))))))))) (. .))
+(S (S (NP (NNP Rank) (JJ metric) (NNS decoders)) (VP (VBP have) (VP (VBN been) (ADVP (RB recently)) (VP (VBN proposed) (PP (IN for) (NP (DT both) (NNP Gabidulin) (CC and) (NNP KK) (NNS codes))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP have) (NP (JJ high) (JJ computational) (NNS complexities)))) (. .))

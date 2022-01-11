@@ -1,0 +1,3 @@
+(S (NP (NNP Energy) (NN management)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ critical) (NNS parameters)) (PP (IN in) (NP (NNP Wireless) (NNP Sensor) (NNP Networks))))))) (. .))
+(S (NP (PRP$ Our) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNP Energy) (NNP Density)) (PP (IN of) (NP (NP (DT the) (NNS clusters)) (PP (IN in) (NP (NNP Wireless) (NNP Sensor) (NNP Networks))))))))) (. .))
+(S (NP (DT This) (JJ unique) (NN approach)) (VP (VBZ maintains) (NP (NP (DT the) (JJ balanced) (NN energy) (NN utilization)) (PP (IN among) (NP (DT all) (NNS nodes)))) (PP (IN by) (S (VP (VBG selecting) (NP (DT the) (JJ different) (NN cluster) (NNS heads)) (ADVP (RB dynamically)))))) (. .))

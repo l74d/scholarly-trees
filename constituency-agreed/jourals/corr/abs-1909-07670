@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ advantageous)) (SBAR (IN because) (S (NP (DT the) (JJ computational) (NNS costs)) (VP (VBP scale) (ADVP (RB linearly)) (PP (IN with) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN source) (NNS tasks))))))))) (. .))

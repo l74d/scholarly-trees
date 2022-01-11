@@ -1,0 +1,2 @@
+(S (NP (NNS Anomalies)) (VP (VBP are) (VP (VBN detected) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NNS outputs)) (PP (IN of) (NP (DT the) (NN student) (NNS networks)))) (VP (VBP differ) (PP (IN from) (NP (NP (DT that)) (PP (IN of) (NP (DT the) (NN teacher) (NN network)))))))))) (. .))
+(S (NP (NP (DT The) (JJ intrinsic) (NN uncertainty)) (PP (IN in) (NP (DT the) (NN student) (NNS networks)))) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT an) (JJ additional) (NN scoring) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ indicates) (NP (NNS anomalies))))))))) (. .))

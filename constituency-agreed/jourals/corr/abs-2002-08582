@@ -1,0 +1,1 @@
+(S (ADVP (RB Secondly)) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (DT a) (JJ new) (NN parameter) (NN optimization) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ guarantees) (NP (NP (DT the) (JJ monotonic) (NN nonincrease)) (PP (IN in) (NP (DT the) (NN cost) (NN function)))) (, ,) (S (VP (VBG providing) (NP (JJ stable) (NN convergence))))))))) (. .))

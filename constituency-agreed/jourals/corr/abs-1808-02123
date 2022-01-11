@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP derive) (NP (DT the) (JJ functional) (NNS gradients))) (CC and) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (NNS weights)) (VP (MD can) (VP (VB be) (VP (VBN learned) (ADVP (RB simultaneously)) (PP (IN in) (NP (DT an) (JJ efficient) (NN manner)))))))))) (. .))

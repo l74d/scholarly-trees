@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT a) (NN path) (NN tracer) (NN algorithm)) (PP (IN to) (VP (VB compute) (NP (NP (DT the) (JJ global) (NN illumination)) (PP (IN of) (NP (JJ non-Euclidean) (NNS manifolds))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (NN 3D) (NN torus)) (PP (IN as) (NP (DT an) (NN example)))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT each) (NN subwindow))) (, ,) (NP (NP (DT a) (NN histogram)) (PP (IN of) (NP (JJ visual) (NNS words)))) (VP (VBZ is) (VP (VBN generated))) (. .))
+(S (NP (DT All) (CD 15) (NNS models)) (VP (VBP are) (ADVP (RB then)) (VP (VBN averaged) (ADVP (RB together)) (S (VP (TO to) (VP (VB form) (NP (DT a) (JJ single) (JJ strong) (NN model))))))) (. .))

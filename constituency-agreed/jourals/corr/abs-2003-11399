@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG identifying) (NP (NP (NNS viewers)) (PP (IN of) (NP (JJ arbitrary) (NNS images)))) (PP (VBN based) (PP (IN on) (NP (PRP$ their) (NN eye) (NN gaze))))))))) (. .))
+(S (NP (JJ Psychological) (NN research)) (VP (VBZ has) (VP (VBN derived) (NP (NP (JJ generative) (JJ stochastic) (NNS models)) (PP (IN of) (NP (NN eye) (NNS movements)))))) (. .))

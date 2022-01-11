@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBP are) (NP (NP (NNS instances)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT this) (NN method)) (VP (VBZ is) (ADJP (JJ slow) (S (VP (TO to) (VP (VB converge)))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (JJ several) (NNS accelerations)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN method)))))))) (. .))
+(S (S (NP (NP (NN None)) (PP (IN of) (NP (DT the) (VBN proposed) (NN acceleration) (NNS methods)))) (VP (VBP are) (ADJP (RB theoretically) (JJ dominant)))) (CC and) (S (NP (JJ experimental) (NNS comparisons)) (VP (VBP are) (VP (VBG lacking)))) (. .))

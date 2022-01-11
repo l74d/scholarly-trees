@@ -1,0 +1,3 @@
+(S (SBAR (IN While) (S (NP (DT these) (NNS images)) (VP (VBP are) (ADJP (JJ unlabelled))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP assume) (NP (NP (JJ prior) (NN knowledge)) (PP (IN of) (NP (ADJP (JJ related) (CC but) (JJ different)) (NN image) (NNS classes))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ such) (JJ prior) (NN knowledge)) (S (VP (TO to) (VP (VP (VB reduce) (NP (NP (DT the) (NN ambiguity)) (PP (IN of) (NP (NN clustering))))) (, ,) (CC and) (VP (VB improve) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (ADJP (RB newly) (VBN discovered)) (NNS classes))))))))) (. .))
+(S (NP (PRP$ Our) (NNS contributions)) (VP (VBP are) (ADJP (JJ twofold))) (. .))

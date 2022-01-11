@@ -1,0 +1,2 @@
+(S (S (VP (VBG Detecting) (NP (DT a) (JJ specific) (NN horizon)) (PP (IN in) (NP (JJ seismic) (NNS images))))) (VP (VBZ is) (NP (NP (DT a) (JJ valuable) (NN tool)) (PP (IN for) (NP (JJ geological) (NN interpretation))))) (. .))
+(S (NP (PRP$ Our) (NNS networks)) (VP (VBP learn) (PP (IN from) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (JJ large) (JJ seismic) (NNS images))))) (PP (IN without) (S (VP (VBG creating) (NP (NNS patches)))))) (. .))

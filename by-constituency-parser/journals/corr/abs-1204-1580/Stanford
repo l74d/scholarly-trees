@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN concerned) (PP (IN with) (S (NP (NP (DT an) (JJ important) (NN matrix) (NN condition)) (PP (IN in) (ADJP (JJ compressed)))) (VP (VBG sensing) (VP (VBN known) (PP (IN as) (NP (DT the) (JJ restricted) (NN isometry) (NN property))))))) (INTJ (-LRB- -LRB-) (UH RIP) (-RRB- -RRB-)))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (S (VP (VBG testing) (SBAR (IN whether) (S (NP (DT a) (NN matrix)) (VP (VBZ satisfies) (INTJ (UH RIP))))))) (VP (VBZ is) (ADJP (NP (NNP NP)) (HYPH -) (JJ hard)))))) (. .))

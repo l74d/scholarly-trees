@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (NNP QUIC)) (VP (VP (VBZ is) (VP (VBN deployed) (PP (IN at) (NP (DT the) (NN application) (NN layer))))) (, ,) (CC and) (VP (VBZ encapsulates) (NP (PRP$ its) (NNS packets)) (PP (IN in) (NP (NNP UDP) (NNS datagrams))))) (. .))

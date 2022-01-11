@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NNP GTSP))) (NP (NP (DT the) (NNS nodes)) (PP (IN of) (NP (DT a) (JJ complete) (JJ undirected) (NN graph)))) (VP (VBP are) (VP (VBN partitioned) (PP (IN into) (NP (NNS clusters))))) (. .))
+(S (NP (JJ Computational) (NNS results)) (VP (VBP are) (VP (VBN reported) (PP (IN for) (NP (JJ many) (JJ standard) (NN test) (NNS problems))))) (. .))

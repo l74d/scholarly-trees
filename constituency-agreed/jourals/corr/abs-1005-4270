@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB provide) (NP (DT an) (NN indication))))) (NP (JJ various) (NNS implementations)) (VP (VBP are) (VP (VBN studied) (CC and) (VBN summarized) (S (VP (TO to) (VP (VB identify) (NP (NP (DT the) (JJ different) (NNS problems)) (PP (IN in) (NP (VBG existing) (NNS applications))))))))) (. .))
+(S (NP (NNP Time) (NN series) (NNS data)) (VP (VP (VBP are) (ADVP (RB frequently)) (ADJP (JJ large))) (CC and) (VP (MD may) (VP (VB contain) (NP (NNS outliers))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (NN rootkit)) (VP (VBZ is) (ADJP (JJ present))))) (, ,) (NP (DT no) (NNS guarantees)) (VP (MD can) (VP (VB be) (VP (VBN made) (PP (IN about) (NP (NP (DT the) (NN correctness) (, ,) (NN privacy) (CC or) (NN isolation)) (PP (IN of) (NP (DT the) (NN operating) (NN system)))))))) (. .))

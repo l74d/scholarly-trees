@@ -1,0 +1,1 @@
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN finding)))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ rejects) (NP (DT a) (NN candidate)) (SBAR (IN if) (S (NP (DT the) (NN difference)) (VP (VBZ is) (ADJP (ADJP (JJR larger)) (PP (IN than) (NP (DT a) (NN threshold)))))))) (. .))

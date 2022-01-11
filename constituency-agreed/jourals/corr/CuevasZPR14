@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ central) (NN algorithm)) (VP (VBZ is) (NP (DT the) (NNP Learning) (NNP Automata))) (. .))
+(S (NP (NP (DT The) (NN response)) (PP (IN of) (NP (DT the) (NN environment)))) (VP (VBZ is) (VP (VBN used) (PP (IN by) (NP (DT the) (NN automata))) (S (VP (TO to) (VP (VB select) (NP (PRP$ its) (JJ next) (NN action))))))) (. .))
+(S (NP (DT This) (NN procedure)) (VP (VBZ holds) (SBAR (IN until) (S (NP (DT the) (NN goal) (NN task)) (VP (VBZ is) (VP (VBN reached)))))) (. .))

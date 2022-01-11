@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT the) (NN stability) (NNS guarantees)) (PP (IN of) (NP (DT the) (NN network) (NNS layers)))) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ implicit) (NNS constraints)) (VP (VBN imposed) (PP (IN on) (NP (NP (DT the) (NN weight) (POS 's)) (NNS eigenvalues)))))))) (. .))

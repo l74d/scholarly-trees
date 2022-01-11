@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN system)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Kaldi) (NN toolkit))))) (. .))
+(S (NP (NP (NN Multi-condition) (NN training)) (VP (VBG using) (NP (NP (NN background) (NN noise) (NNS profiles)) (VP (VBN extracted) (ADVP (RB automatically)) (PP (IN from) (NP (JJ untranscribed) (NNS data))))))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (DT the) (NN system))))))))) (. .))
+(S (NP (DT The) (NN system)) (ADVP (RB also)) (VP (VBZ performs) (NP (NP (NN punctuation) (NN recovery)) (CC and) (NP (NN speaker) (NN identification)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ computational) (NN complexity) (NN analysis)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ enjoys) (NP (JJ low) (JJ computational) (NN cost)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBZ is) (VP (VBN guaranteed))) (. .))

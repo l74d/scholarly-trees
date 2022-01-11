@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (NP (DT the) (NN search) (NN engine)) (PP (IN of) (NP (NNP Google))))) (, ,) (NP (DT the) (NNP PageRank) (NN algorithm)) (VP (VBZ plays) (NP (DT a) (JJ crucial) (NN role)) (PP (IN in) (S (VP (VBG ranking) (NP (DT the) (NN search) (NNS results)))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ quantifies) (NP (NP (DT the) (NN importance)) (PP (IN of) (NP (DT each) (NN web) (NN page)))) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN link) (NN structure)) (PP (IN of) (NP (DT the) (NN web))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP provide) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (DT the) (JJ original) (NN problem) (NN setup))))) (. .))

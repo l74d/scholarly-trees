@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ compact) (NML (JJ straight) (HYPH -) (NN line)) (NNS embeddings)) (PP (IN of) (NP (NNS trees))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG testing) (SBAR (IN whether) (S (NP (DT a) (VBN given) (NN binary) (NN tree)) (VP (VBZ has) (NP (NP (DT an) (JJ upward) (NN embedding)) (PP (IN with) (NP (NP (DT a) (VBN given) (JJ combinatorial) (NN embedding)) (PP (IN in) (NP (DT a) (VBN given) (NN grid))))))))))) (VP (VBZ is) (ADJP (NP (NNP NP)) (HYPH -) (JJ hard)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Humans)) (VP (MD can) (VP (VB exhibit) (NP (DT this) (JJ cognitive) (NN flexibility)))) (. .))
+(S (NP (PRP We)) (VP (VBP begin) (PP (IN by) (S (VP (VBG learning) (NP (NP (NN vector) (NNS representations)) (PP (IN of) (NP (NNS tasks)))))))) (. .))

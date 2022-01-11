@@ -1,0 +1,1 @@
+(S (NP (NP (PRP$ Our) (NN model)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB reveal) (NP (DT the) (NN constituent) (NNS classes)))))))))) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (DT the) (NN sample)) (VP (VBZ is) (ADJP (JJ novel)))) (CC or) (RB not)))))))) (. .))

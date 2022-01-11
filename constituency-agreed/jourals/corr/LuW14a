@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN uplink) (NN scenario)) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (DT The) (NN uplink) (NNS channels)) (VP (VBP are) (VP (VBN acquired) (PP (IN by) (NP (DT the) (NN base) (NN station))) (PP (IN through) (NP (DT a) (NN training) (NN phase))))) (. .))

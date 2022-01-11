@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN document)) (VP (VBZ is) (PP (IN in) (NP (CD two) (NNS parts)))) (. .))
+(S (NP (DT The) (JJ first) (NN part)) (VP (VBZ describes) (NP (NP (NN software) (NN architecture)) (PP (IN for) (NP (DT the) (JJ smart) (NN space))))) (. .))

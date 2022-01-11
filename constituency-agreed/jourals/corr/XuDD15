@@ -1,0 +1,2 @@
+(S (NP (PDT All) (DT the) (NNS terminals)) (VP (MD can) (VP (VB communicate) (PP (IN with) (NP (DT each) (JJ other))) (PP (IN over) (NP (NP (DT a) (JJ public) (NN channel)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB also)) (VP (VBN observed) (PP (IN by) (NP (NNP Eve))) (ADVP (RB noiselessly)))))))))) (. .))
+(S (NP (DT The) (CD two) (NNS bounds)) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (NP (RB exactly) (DT the) (JJ same))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP derive) (NP (DT the) (JJ variational) (NN inference) (NN update) (NN rule)) (S (VP (VBG using) (NP (JJ various) (NN approximation) (NNS techniques))))) (. .))
+(S (NP (NP (DT The) (NN validity)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (DT the) (NNP BCI) (NN competition) (NN dataset))))) (. .))

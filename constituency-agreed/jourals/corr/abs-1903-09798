@@ -1,0 +1,1 @@
+(S (NP (JJ Conventional) (NNS methods)) (VP (VP (MD can) (RB not) (VP (VB use) (NP (DT the) (JJ available) (NN anomaly) (NNS data)))) (, ,) (CC and) (ADVP (RB also)) (VP (VBP do) (RB not) (VP (VB have) (NP (NP (DT a) (NN robustness)) (PP (IN of) (NP (NN noise))))))) (. .))

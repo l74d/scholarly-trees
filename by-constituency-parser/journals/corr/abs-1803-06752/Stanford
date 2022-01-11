@@ -1,0 +1,2 @@
+(S (S (NP (NN Model) (NN checking)) (VP (VBZ is) (ADJP (JJ decidable) (PP (IN on) (NP (NN orbit) (HYPH -) (JJ finite) (NNS structures)))))) (, ,) (CC and) (S (NP (NP (DT a) (NN correspondence)) (PP (IN to) (NP (NN parity) (NNS games)))) (VP (VBZ holds))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NN satisfiability)) (VP (VBZ becomes) (ADJP (JJ undecidable))) (. .))

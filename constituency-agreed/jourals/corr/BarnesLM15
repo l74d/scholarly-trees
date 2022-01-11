@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN algorithm)) (VP (VBZ does) (RB not) (VP (VB require) (NP (JJ iterative) (NN application))))) (: ;) (S (NP (DT a) (JJ single) (NN pass)) (VP (VBZ is) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB resolve) (NP (DT all) (NNS flats)))))))) (. .))

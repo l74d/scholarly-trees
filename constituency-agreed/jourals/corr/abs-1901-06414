@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (PRP$ their) (VBG increasing) (NN complexity)) (VP (MD might) (VP (VB yield) (NP (NP (JJ poor) (NN generalization) (NN error)) (SBAR (WHNP (WDT that)) (S (VP (VBP make) (S (NP (PRP them)) (ADJP (JJ hard) (S (VP (TO to) (VP (VB be) (VP (VBN deployed) (PP (IN on) (NP (NN edge) (NNS devices))))))))))))))) (. .))
+(S (NP (NNP Foothill)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (PP (IN as) (NP (DT a) (JJ binary) (NN quantizer))) (, ,) (PP (IN as) (NP (DT a) (NN regularizer))) (, ,) (CC or) (PP (IN as) (NP (DT a) (NN loss))))))) (. .))

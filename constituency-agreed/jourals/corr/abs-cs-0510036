@@ -1,0 +1,2 @@
+(S (NP (JJ Such) (NNS queries)) (VP (VBP are) (VP (VBN parameterized) (PP (IN by) (NP (JJ specific) (NN preference) (NNS relations))))) (. .))
+(S (NP (PRP We)) (VP (VBP characterize) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (JJ such) (NNS problems))))) (. .))

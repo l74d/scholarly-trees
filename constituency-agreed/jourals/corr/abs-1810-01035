@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN work)) (VP (VBZ proposes) (NP (NP (DT a) (NN planning) (NN framework)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NN multi-fidelity) (NNS models)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN discrepancy)) (PP (IN between) (NP (DT the) (ADJP (JJ local) (CC and) (JJ global)) (NN planner))))))))))))) (. .))

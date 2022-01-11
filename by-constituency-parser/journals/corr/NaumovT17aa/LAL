@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ bimodal) (NN logic)) (SBAR (WHNP (WDT that)) (S (VP (VBZ describes) (NP (NP (DT an) (NN interplay)) (PP (IN between) (NP (NP (VBN distributed) (NN knowledge) (NN modality)) (CC and) (NP (NN coalition) (NN know-how) (NN modality)))))))))) (. .))
+(S (PP (IN Unlike) (NP (JJ other) (JJ similar) (NNS systems))) (, ,) (NP (NP (DT the) (CD one)) (VP (VBN proposed) (ADVP (RB here)))) (VP (VBZ assumes) (NP (NP (JJ perfect) (NN recall)) (PP (IN by) (NP (DT all) (NNS agents))))) (. .))
+(S (NP (NNP Perfect) (NN recall)) (VP (VBZ is) (VP (VBN captured) (PP (IN in) (NP (DT the) (NN system))) (PP (IN by) (NP (DT a) (JJ single) (NN axiom))))) (. .))
+(S (NP (DT The) (JJ main) (JJ technical) (NNS results)) (VP (VBP are) (NP (NP (DT the) (NN soundness) (CC and) (DT the) (NN completeness) (NN theorems)) (PP (IN for) (NP (DT the) (VBN proposed) (JJ logical) (NN system))))) (. .))

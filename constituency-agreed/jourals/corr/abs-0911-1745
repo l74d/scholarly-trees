@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (ADVP (RB also)) (VP (VBN generalized) (PP (IN for) (NP (JJ multidimensional) (NN synchronization) (NNS patterns)))))) (. .))
+(S (NP (PRP We)) (VP (MD will) (ADVP (RB also)) (VP (VB discuss) (NP (DT these) (NNS problems)))) (. .))
+(S (ADVP (RB Finally)) (, ,) (PP (IN by) (S (VP (VBG using) (NP (NP (DT the) (JJ new) (NN definition)) (PP (IN of) (NP (NN folding))))))) (, ,) (NP (NP (JJ multidimensional) (NN pseudo-random) (NNS arrays)) (PP (IN with) (NP (JJ various) (NNS shapes)))) (VP (VBP are) (VP (VBN generated))) (. .))

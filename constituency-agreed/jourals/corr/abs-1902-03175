@@ -1,0 +1,2 @@
+(S (NP (ADJP (RB Increasingly) (JJ complex)) (NNS datasets)) (VP (VBP pose) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS challenges)) (PP (IN for) (NP (JJ Bayesian) (NN inference))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ our) (NN method)) (PP (IN on) (NP (NP (JJ Gaussian) (NN mixture) (NN model)) (CC and) (NP (JJ sparse) (JJ logistic) (NN regression) (NNS examples))))) (. .))

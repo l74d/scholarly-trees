@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ final) (NN model)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN validated) (PP (IN against) (NP (NP (DT the) (NN workload)) (VP (VBG coming) (PP (IN from) (NP (DT a) (JJ real) (NN grid) (NN system)))))))) (. .))

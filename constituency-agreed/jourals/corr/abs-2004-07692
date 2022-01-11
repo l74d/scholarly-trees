@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG estimating) (NP (NP (NNS parameters)) (PP (IN of) (NP (DT a) (JJ mechanical) (NN vehicle) (NN model)))) (PP (VBN based) (PP (IN on) (NP (NN acceleration) (NNS profiles))))))))) (. .))
+(S (NP (DT This) (NN network)) (VP (VBZ is) (VP (VBN trained) (PP (IN with) (NP (CD two) (JJ objective) (NNS functions))))) (. .))
+(S (NP (DT The) (JJ first) (CD one)) (VP (VBZ constitutes) (NP (NP (DT a) (ADJP (RBR more) (JJ naive)) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (VBZ assumes) (SBAR (IN that) (S (NP (DT the) (JJ true) (NNS parameters)) (VP (VBP are) (VP (VBN known)))))))))) (. .))
+(S (NP (DT The) (JJ second) (JJ objective)) (VP (VP (VBZ incorporates) (NP (NP (DT the) (NN knowledge)) (PP (IN of) (NP (DT the) (VBG underlying) (NNS dynamics))))) (CC and) (VP (VBZ is) (ADVP (RB therefore)) (VP (VBN considered) (PP (IN as) (NP (JJ hybrid) (NN approach)))))) (. .))

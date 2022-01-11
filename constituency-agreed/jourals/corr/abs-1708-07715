@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN tendency) (S (VP (TO to) (VP (VB overestimate) (NP (JJ immediate) (NN utility)))))) (VP (VBZ is) (NP (DT a) (JJ common) (JJ cognitive) (NN bias))) (. .))
+(S (S (VP (VBG Using) (NP (NP (DT the) (JJ graphical) (NN model)) (PP (IN of) (NP (NNP Kleinberg) (CC and) (NNP Oren)))))) (, ,) (NP (PRP we)) (VP (VBP approach) (NP (DT this) (NN problem)) (PP (IN from) (NP (DT an) (JJ algorithmic) (NN perspective)))) (. .))

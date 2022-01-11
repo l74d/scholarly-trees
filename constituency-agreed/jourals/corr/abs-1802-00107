@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB accomplish) (NP (DT this) (NN task))))) (, ,) (NP (NP (DT the) (NNS data)) (VP (VBN collected) (PP (IN in) (NP (DT the) (JJ same) (NN propagation) (NN environment))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB train) (NP (JJ neural) (NNS networks))))))) (. .))

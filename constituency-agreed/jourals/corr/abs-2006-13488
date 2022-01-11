@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (ADJP (JJ linear) (CC and) (JJ logistic)) (NN regression))) (, ,) (NP (DT this) (NN regularizer)) (VP (VBZ is) (NP (NP (DT the) (JJ dual) (NN norm)) (PP (IN of) (NP (DT the) (NN model) (NNS parameters))))) (. .))

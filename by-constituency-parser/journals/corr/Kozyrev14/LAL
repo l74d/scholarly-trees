@@ -1,0 +1,4 @@
+(S (NP (NP (VBG Clustering) (NN procedure)) (PP (IN for) (NP (NP (DT the) (NN case)) (SBAR (WHADVP (WRB where)) (S (PP (RB instead) (IN of) (NP (DT a) (JJ fixed) (JJ metric))) (NP (CD one)) (VP (VBZ applies) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NNS metrics)))))))))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (PP (IN In) (NP (DT this) (NN case))) (PP (RB instead) (IN of) (NP (DT a) (NN classification) (NN tree))) (NP (CD one)) (VP (VBZ obtains) (NP (NP (DT a) (NN classification) (NN network)) (PRN (-LRB- -LRB-) (NP (NP (DT a) (VBN directed) (JJ acyclic) (NN graph)) (PP (IN with) (NP (ADJP (NN non) (VBN directed)) (NNS cycles)))) (-RRB- -RRB-)))) (. .))
+(S (NP (NP (NN Relation)) (PP (TO to) (NP (NNP Bruhat-Tits) (NNS buildings)))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (NP (NP (NN Dimension)) (PP (IN of) (NP (DT a) (JJ general) (NN cluster) (NN system)))) (VP (VBZ is) (VP (VBN considered))) (. .))

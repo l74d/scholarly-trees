@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS labels)) (PP (IN of) (NP (DT the) (NNS transactions)))) (VP (VBP are) (VP (VBN used) (PP (IN for) (NP (JJ supervised) (NN learning) (NNS models))) (ADVP (RB only)))) (. .))

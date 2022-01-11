@@ -1,0 +1,1 @@
+(S (NP (NNS Attackers)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP have) (ADVP (RB recently)) (VP (VBN researched) (NP (NP (JJ new) (NN exploitation) (NNS methods)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG bypassing) (NP (NP (DT the) (NN operating) (NN system) (POS 's)) (NN memory) (NNS mitigations)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN minimax) (NN problem)) (VP (VBZ admits) (NP (NP (DT a) (NN saddle) (NN point)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN characterized))))))) (. .))
+(S (NP (DT The) (JJ robust) (NN test)) (VP (VBZ applies) (NP (NP (DT a) (JJ nonlinear) (NN transformation)) (SBAR (WHNP (WDT which)) (S (VP (VBZ flattens) (NP (DT the) (JJ nominal) (NN likelihood) (NN ratio)) (PP (IN in) (NP (NP (DT the) (NN vicinity)) (PP (IN of) (NP (CD one)))))))))) (. .))

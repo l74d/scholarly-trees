@@ -1,0 +1,2 @@
+(S (PP (IN With) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (DT this) (NN construction))))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NN tileset)) (VP (VBZ has) (NP (JJ positive) (NN entropy)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP explain) (SBAR (WHADVP (WRB why)) (S (NP (DT this) (NN result)) (VP (VBD was) (RB not) (VP (VBN expected)))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT A) (JJ pure) (NNP Galerkin) (NN scheme)) (VP (VBZ is) (ADJP (RB notoriously) (JJ unstable))) (. .))
+(S (S (S (VP (TO To) (VP (VB remedy) (NP (DT this) (NN issue))))) (, ,) (NP (NN stabilization) (NNS terms)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN added)))) (CC and) (S (NP (JJ various) (NNS formulations)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (DT the) (NN literature))))))) (. .))
+(S (NP (DT This)) (VP (VBZ contradicts) (NP (NP (DT the) (JJ general) (NN perception)) (PP (IN of) (NP (NP (NN stability) (NNS problems)) (PP (IN for) (NP (JJ pure) (NNP Galerkin) (NNS schemes))))))) (. .))
+(S (PP (IN In) (NP (JJ numerical) (NNS simulations))) (, ,) (NP (PRP we)) (VP (VBP verify) (NP (PRP$ our) (JJ theoretical) (NN analysis))) (. .))

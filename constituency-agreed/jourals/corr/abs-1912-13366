@@ -1,0 +1,1 @@
+(S (NP (NNP Transmeter)) (VP (VBZ utilizes) (NP (NP (DT a) (JJ pre-trained) (NN source) (NN classifier)) (CC and) (NP (DT a) (NN reconstruction) (NN loss))) (S (VP (TO to) (VP (VB increase) (NP (PRP$ its) (NN efficiency) (CC and) (NN performance)))))) (. .))

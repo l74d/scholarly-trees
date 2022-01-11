@@ -1,0 +1,2 @@
+(S (S (NP (DT Another) (NN calibration) (NN method)) (VP (VBZ uses) (NP (DT a) (NN camera)))) (, ,) (CC but) (S (NP (NP (DT the) (NN system) (NN error)) (VP (VBN caused) (PP (IN by) (NP (NP (DT the) (NN camera) (POS 's)) (NNS parameters))))) (VP (VBZ affects) (NP (NP (DT the) (NN calibration) (NN accuracy)) (PP (IN of) (NP (NP (DT the) (NNS kinematics)) (PP (IN of) (NP (DT the) (NN robot) (NN arm)))))))) (. .))
+(S (ADVP (RB Secondly)) (, ,) (NP (NP (JJ nonlinear) (NN optimization)) (CC and) (NP (NN parameter) (NN compensation))) (VP (VBP are) (VP (VBN performed))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB fix) (NP (DT a) (NN software) (NN bug))))) (, ,) (NP (PRP you)) (VP (MD must) (ADVP (RB first)) (VP (VB find) (NP (PRP it)))) (. .))
+(S (NP (NNS Engineers)) (VP (MD can) (ADVP (RB then)) (VP (VB inspect) (NP (DT the) (NN code)) (PP (IN in) (NP (NP (VBG descending) (NN order)) (PP (IN of) (NP (NN suspiciousness))))) (SBAR (IN until) (S (NP (DT a) (NN fault)) (VP (VBZ is) (VP (VBN found))))))) (. .))

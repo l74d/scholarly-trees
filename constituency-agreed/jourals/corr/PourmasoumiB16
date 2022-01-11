@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ valuable)) (NNS assets)) (PP (IN of) (NP (DT an) (NN organization)))))) (VP (VBZ is) (NP (PRP$ its) (JJ organizational) (NNS data))) (. .))
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (NN process) (NN mining)))) (VP (VBZ is) (S (VP (TO to) (VP (VB extract) (NP (NN knowledge)) (PP (IN from) (NP (NP (NN event) (NNS logs)) (PP (IN of) (NP (NP (NN today) (POS 's)) (JJ organizational) (NN information) (NNS systems))))))))) (. .))

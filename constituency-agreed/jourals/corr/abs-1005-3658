@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN study)) (PP (IN of) (NP (NP (DT the) (NN sub-structure)) (PP (IN of) (NP (JJ complex) (NNS networks)))))) (VP (VBZ is) (PP (IN of) (NP (JJ major) (NN importance))) (S (VP (TO to) (VP (VB relate) (NP (NN topology) (CC and) (NN functionality)))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VP (VBZ generalizes) (NP (DT the) (JJ standard) (NN modularity))) (CC and) (VP (VBZ uses) (NP (JJ spectral) (NN optimization)) (S (VP (TO to) (VP (VB find) (NP (PRP$ its) (NN maximum))))))) (. .))

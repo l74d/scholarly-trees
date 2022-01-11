@@ -1,0 +1,3 @@
+(S (NP (NP (DT This) (NN generality)) (PP (IN in) (NP (NNS programs)))) (VP (VBZ is) (VP (VBN implemented) (PP (IN by) (NP (NP (NN input) (NNS variables)) (SBAR (WHNP (WP$ whose) (NN value)) (S (VP (VBZ does) (RB not) (VP (VB vary) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (DT a) (VBN given) (NN application))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN adapted) (NP (JJ partial) (NN evaluation)) (PP (IN for) (NP (NN program) (NN comprehension))))) (. .))
+(S (NP (PRP It)) (VP (VBZ includes) (NP (DT an) (JJ interprocedural) (NN alias) (NN analysis))) (. .))

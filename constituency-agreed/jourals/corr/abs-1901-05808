@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ semantic) (NN annotation)) (VP (VBZ is) (ADJP (ADJP (NN time) (VBG consuming)) (CC and) (ADJP (RB quite) (JJ expensive)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP explore) (NP (NP (DT an) (JJ alternate) (NN approach)) (PP (IN of) (S (VP (VBG leveraging) (NP (NP (DT the) (NNS annotations)) (PP (IN of) (NP (JJ other) (NNS tasks)))) (S (VP (TO to) (VP (VB improve) (NP (JJ semantic) (NN segmentation)))))))))) (. .))

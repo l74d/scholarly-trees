@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (NP (DT an) (NN estimator)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ unbiased))))))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (S (VP (VBG minimizing) (NP (DT the) (NN variance)))))) (. .))

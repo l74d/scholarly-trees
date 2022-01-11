@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN analysis)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NNP Fisher) (NN information))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN information) (NN gain)) (PP (IN of) (NP (NNP NLOS) (NNS components)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (JJ actual) (NN location)) (PP (IN of) (NP (DT the) (NN reflector) (CC or) (NN scatter))))))))) (. .))

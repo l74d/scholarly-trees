@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ whole) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ represents) (NP (JJ noisy) (NNS labels)))))) (VP (VBZ is) (NP (NP (DT a) (NN sum)) (PP (IN of) (NP (DT the) (CD two) (NNS sub-models))))) (. .))
+(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN on) (NP (JJ several) (NN benchmark) (NNS datasets)))) (VP (VBP indicate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model))))) (. .))

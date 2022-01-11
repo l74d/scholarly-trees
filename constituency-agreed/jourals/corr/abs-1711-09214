@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NN outage) (NN characterization)) (PP (IN of) (NP (NP (DT an) (JJ ambient) (NN backscatter) (NN communication) (NN system)) (PP (IN with) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (JJ passive) (NN tag) (CC and) (NN reader))))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NP (DT the) (NN outage) (NN probability)) (PP (IN at) (NP (DT the) (NN reader)))) (VP (VBZ is) (VP (VBN analyzed) (ADVP (RB rigorously)))) (. .))

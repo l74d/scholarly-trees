@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD implemented) (NP (DT a) (JJ multi-step) (NN procedure))) (. .))
+(S (NP (PRP$ Its) (JJ main) (NNS components)) (VP (VBP are) (NP (NP (JJ deformable) (NNS models)) (, ,) (NP (NN volume) (VBG growing)) (, ,) (CC and) (NP (JJ morphological) (NNS operations)))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (NP (JJS Most) (NN research)) (PP (IN on) (NP (JJ intelligent) (NNS agents)))) (VP (NNS centers) (PP (PP (IN on) (NP (DT the) (NN agent))) (CC and) (RB not) (PP (IN on) (NP (DT the) (NN user))))) (. .))
+(S (NP (PRP We)) (VP (VBP look) (PP (IN at) (NP (NP (DT the) (NNS origins)) (PP (IN of) (NP (NP (JJ agent-centric) (NN research)) (PP (IN for) (NP (NN slot-filling) (, ,) (NN gaming) (CC and) (NN chatbot) (NNS agents)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP argue) (SBAR (IN that) (S (NP (NP (PRP it))) (VP (VBZ is) (ADJP (JJ important)) (S (VP (TO to) (VP (VB concentrate) (ADVP (RBR more)) (PP (IN on) (NP (DT the) (NN user)))))))))) (. .))
+(S (PP (IN After) (S (VP (VBG reviewing) (NP (JJ relevant) (NN literature))))) (, ,) (NP (NP (DT some) (NNS approaches)) (PP (IN for) (S (VP (VBG creating) (CC and) (VBG assessing) (NP (JJ user-centric) (NNS systems)))))) (VP (VBP are) (VP (VBN proposed))) (. .))

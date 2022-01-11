@@ -1,0 +1,1 @@
+(S (S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (ADJP (JJ simple)))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBD used) (NP (DT a) (JJ standard) (JJ logistic) (NN regression) (NN library)) (S (VP (TO to) (VP (VB test) (NP (PRP it))))))) (. .))

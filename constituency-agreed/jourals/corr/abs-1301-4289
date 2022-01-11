@@ -1,0 +1,3 @@
+(S (NP (NNS Players)) (ADVP (RB only)) (VP (VBP know) (NP (NP (PRP$ their) (JJ own) (NNS cards)) (CC and) (SBAR (WHNP (WP what)) (S (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (NNS cards)))) (VP (VBZ is)))))) (. .))
+(S (NP (NP (DT An) (JJ elegant) (NN solution)) (PP (IN by) (NP (NNP Atkinson)))) (VP (VBZ views) (NP (DT the) (NNS cards)) (PP (IN as) (NP (NP (NNS points)) (PP (IN in) (NP (DT a) (JJ finite) (JJ projective) (NN plane)))))) (. .))
+(S (NP (DT This)) (VP (VBZ improves) (PP (IN on) (NP (NP (DT the) (NN collection)) (PP (IN of) (NP (NP (NNS parameters)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (NNS solutions)) (VP (VBP are) (VP (VBN known)))))))))) (. .))

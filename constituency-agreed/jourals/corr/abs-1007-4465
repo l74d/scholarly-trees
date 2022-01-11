@@ -1,0 +1,2 @@
+(S (NP (NP (DT Those) (NNS types)) (PP (IN of) (NP (NNS radios)))) (VP (VBP are) (VP (VBN realized) (S (VP (VBG using) (NP (ADJP (RB highly) (JJ configurable)) (NN hardware) (NNS platforms)))))) (. .))
+(S (NP (JJ Such) (NNS decoders)) (VP (VP (VBP are) (ADJP (JJ complex))) (CC and) (VP (VB dissipate) (NP (NP (JJ large) (NN amount)) (PP (IN of) (NP (NN power)))))) (. .))

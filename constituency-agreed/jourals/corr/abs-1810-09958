@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB formulate) (CC and) (VB apply) (NP (NN instruction) (NN mapping)) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (JJ possible) (NNS ways)) (SBAR (S (NP (DT a) (NN computation)) (VP (MD can) (VP (VB be) (VP (VBN performed) (PP (IN on) (NP (DT a) (NN hardware) (NN system))))))))))))) (. .))

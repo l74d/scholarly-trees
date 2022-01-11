@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN generator)) (VP (VBZ learns) (NP (NP (DT a) (JJ common) (NN subspace)) (SBAR (WHNP (WDT that)) (S (VP (VBZ aligns) (NP (DT the) (JJ unlabeled) (NNS samples)) (PP (VBN based) (PP (IN on) (NP (DT the) (NN target) (NNS pseudo-labels))))))))) (. .))

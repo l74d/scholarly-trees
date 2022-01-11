@@ -1,0 +1,2 @@
+(S (NP (JJ Statistical) (NNS methods)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB set) (PRT (RP apart)) (NP (NP (DT the) (NN approach)) (PP (IN of) (NP (DT an) (NN author)))) (ADVP (RB numerically)))))))) (. .))
+(S (PP (IN For) (NP (DT this))) (NP (JJ different) (NNS classifiers)) (VP (MD can) (VP (VB be) (VP (VBN used)))) (. .))

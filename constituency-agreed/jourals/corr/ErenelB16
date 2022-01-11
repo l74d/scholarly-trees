@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (DT these) (NNS devices)) (VP (VBP come) (PP (IN with) (NP (NP (NNS sensors)) (PP (JJ such) (IN as) (NP (NN accelerometer)))))) (. .))
+(S (NP (DT This) (NN data) (NN set)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NN training))))) (. .))

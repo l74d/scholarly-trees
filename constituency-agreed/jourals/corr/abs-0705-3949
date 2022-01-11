@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (PP (IN about) (NP (NP (NNP Kripke) (NNS structures)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (UCP (PP (IN inside) (NP (DT a) (JJ relational) (NN database))) (CC and) (VP (VBN queried) (PP (IN with) (NP (DT a) (JJ modal) (NN language))))))))))) (. .))

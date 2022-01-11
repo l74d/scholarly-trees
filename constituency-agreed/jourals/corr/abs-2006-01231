@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT A) (NN statement)) (PP (IN about) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NP (NN convergence)) (PP (IN of) (NP (DT the) (NN algorithm)))))))) (VP (VBZ is) (VP (VBN proven)))) (, ,) (CC and) (S (NP (DT some) (JJ additional) (NNS properties)) (VP (VBP are) (VP (VBN discussed)))) (. .))

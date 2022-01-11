@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT the) (JJ first) (NNS results)) (PP (IN of) (NP (NP (DT a) (NN project)) (PP (IN of) (S (VP (VBG analyzing) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (NNS theories)) (NP (JJ formal) (NNS proofs))) (VP (MD can) (VP (VB be) (ADJP (NN ex) (HYPH -) (VBN pressed))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN analysis)) (PP (IN as) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (NN interoperability)) (PP (IN between) (NP (NN proof) (NNS systems)))))))) (. .))

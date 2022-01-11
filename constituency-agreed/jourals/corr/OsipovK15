@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ features) (NP (NP (NN simplicity)) (PP (IN of) (NP (NN implementation))))) (. .))
+(S (NP (DT The) (NN methodology)) (VP (VP (VBD was) (VP (VBN validated) (PP (IN in) (NP (NNS simulations))))) (CONJP (RB as) (RB well) (IN as)) (VP (VBD was) (VP (VBN verified) (PP (IN by) (NP (NP (NNS measurements)) (VP (VBN taken) (PP (IN in) (NP (JJ real) (NNS environments))))))))) (. .))

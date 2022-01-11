@@ -1,0 +1,2 @@
+(S (S (NP (VBG Varying) (NN communication) (NNS topologies)) (VP (VBP are) (ADVP (RB also)) (VP (VBN taken) (PP (IN into) (NP (NN consideration)))))) (, ,) (CC and) (S (NP (PRP$ their) (NN byproduct) (NNS difficulties)) (VP (VBP are) (VP (VBN overcome) (PP (IN by) (S (VP (VBG using) (NP (JJ common) (NNP Lyapunov) (NN function) (NNS techniques)))))))) (. .))
+(S (NP (PRP$ Their) (NN effectiveness)) (VP (VBZ is) (VP (VBN verified) (PP (IN by) (NP (NNS simulations))))) (. .))

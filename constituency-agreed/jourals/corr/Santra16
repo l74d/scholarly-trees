@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ many) (JJ real) (NN life) (NNS problems))) (, ,) (NP (NNS objects)) (VP (VBP are) (VP (VBN described) (PP (IN by) (NP (NP (JJ large) (NN number)) (PP (IN of) (NP (JJ binary) (NNS features))))))) (. .))
+(S (NP (PRP It)) (VP (VBD was) (ADVP (RB also)) (VP (VBN used) (S (VP (TO to) (VP (VB cluster) (NP (NP (JJ real) (NNS datasets)) (VP (VBG arising) (PP (IN from) (NP (NP (NN document) (NN analysis)) (, ,) (NP (JJ handwritten) (NN image) (NN analysis)) (CC and) (NP (NN cancer) (NN research))))))))))) (. .))

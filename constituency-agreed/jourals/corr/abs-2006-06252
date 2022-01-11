@@ -1,0 +1,1 @@
+(S (ADVP (RB First)) (, ,) (NP (JJ unsupervised) (NN machine) (NN learning)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB identify) (CC and) (VB label) (NP (NNS clusters)) (PP (IN from) (NP (NN tribocorrosion) (JJ experimental) (NNS data)))))))) (. .))

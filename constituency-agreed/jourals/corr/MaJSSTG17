@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ second) (NN stage)) (ADVP (RB then)) (VP (VBZ refines) (NP (DT the) (ADJP (JJ initial) (CC and) (JJ blurry)) (NN result)) (PP (IN by) (S (VP (VBG training) (NP (DT a) (JJ U-Net-like) (NN generator)) (PP (IN in) (NP (DT an) (JJ adversarial) (NN way))))))) (. .))

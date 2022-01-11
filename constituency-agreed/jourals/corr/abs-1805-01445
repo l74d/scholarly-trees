@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NP (DT a) (NN model) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB capture) (NP (JJ generalizable) (NN structure)))))) (VP (VBZ is) (ADJP (RB highly) (JJ sensitive)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT this) (NN sensitivity)) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ apparent)) (SBAR (WHADVP (WRB when)) (S (VP (VBG evaluating) (NP (PRP it)) (PP (IN on) (NP (JJ standard) (NN test) (NNS sets)))))))) (. .))

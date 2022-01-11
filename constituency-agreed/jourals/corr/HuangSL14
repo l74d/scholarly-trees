@@ -1,0 +1,3 @@
+(S (NP (NP (DT An) (JJ improved) (JJ characteristic) (NN set) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (NNP Boolean) (JJ polynomial) (NNS systems)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN idea)) (PP (IN of) (S (VP (VP (VBG converting) (NP (PDT all) (DT the) (NNS polynomials)) (PP (IN into) (NP (JJ monic) (NNS ones))) (PP (IN by) (NP (CD zero) (NN decomposition)))) (, ,) (CC and) (VP (VBG using) (NP (NNS additions)) (S (VP (TO to) (VP (VB obtain) (NP (NNS pseudo-remainders))))))))))))) (. .))
+(S (NP (CD Three) (JJ important) (NNS techniques)) (VP (VBP are) (VP (VBN applied) (PP (IN in) (NP (DT the) (NN algorithm))))) (. .))

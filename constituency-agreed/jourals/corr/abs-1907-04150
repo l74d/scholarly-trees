@@ -1,0 +1,2 @@
+(S (S (NP (JJ Nonlinear) (NN expansion)) (VP (VBZ is) (VP (VBN given)))) (CC and) (S (NP (JJ efficient) (JJ multiplicative) (NNS updates)) (VP (VBP are) (VP (VBN developed) (PP (IN with) (NP (JJ theoretical) (NN convergence) (NNS guarantees)))))) (. .))
+(S (NP (JJ Extensive) (JJ experimental) (NNS results)) (VP (VBP have) (VP (VBN confirmed) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))))) (. .))

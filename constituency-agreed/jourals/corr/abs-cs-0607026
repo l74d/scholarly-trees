@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (SBAR (IN that) (S (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NNS jobs)))) (VP (VBZ is) (VP (VBN known) (PP (IN in) (NP (NN advance))))))) (CC but) (SBAR (IN that) (S (NP (NP (DT the) (NN pattern)) (PP (IN of) (NP (NN machine) (NNS failures)))) (VP (VBZ is) (ADJP (JJ unpredictable))))))) (. .))
+(S (NP (JJ Several) (JJ open) (NNS problems)) (VP (VBP are) (VP (VBN discussed))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ soft) (NN robot) (NN skin)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB detect) (NP (JJ human) (NN contact)) (PP (IN through) (NP (JJ thermal) (NNS features))))))))) (. .))
+(S (ADVP (RB Then)) (NP (NP (DT the) (NN temperature)) (PP (IN of) (NP (DT the) (NN water) (NN pipe)))) (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (NP (DT a) (NN heat) (NN source)) (CC and) (NP (DT a) (JJ small) (NN water) (NN pump)))))) (. .))

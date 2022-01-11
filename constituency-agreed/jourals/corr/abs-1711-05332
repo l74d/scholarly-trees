@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN randomness)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN manufacturing) (NN process)))) (. .))
+(S (NP (JJ Physical) (NN randomness)) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (NP (DT the) (NN delay)) (PP (IN of) (NP (JJ different) (NN shift) (NNS paths))))))) (. .))

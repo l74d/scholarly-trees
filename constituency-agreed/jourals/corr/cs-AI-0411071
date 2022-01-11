@@ -1,0 +1,3 @@
+(S (VP (VB Consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG tracking) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (VBG moving) (NNS targets))))))))) (. .))
+(S (NP (DT The) (NNS sensors)) (VP (VBP register) (NP (NP (NNS units)) (PP (IN of) (NP (JJ different) (NN size))))) (. .))
+(S (NP (DT Each) (NN observation)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (CD one) (NN filter) (RB only))))) (. .))

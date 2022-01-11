@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ secret) (NN message)) (VP (VBZ is) (VP (VBN encrypted) (PP (IN with) (NP (NP (JJ blowfish) (NN cipher)) (CC and) (NP (JJ visual) (NN cryptography)))))) (. .))

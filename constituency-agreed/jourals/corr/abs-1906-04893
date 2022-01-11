@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ main) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB interpret) (NP (NN activation) (NNS functions)) (PP (IN as) (NP (NP (NNS gradients)) (PP (IN of) (NP (JJ convex) (JJ potential) (NNS functions))))))))) (. .))
+(S (ADVP (RB Hence)) (, ,) (NP (PRP they)) (VP (VBP satisfy) (NP (NP (JJ certain) (NNS properties)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN described) (PP (IN by) (NP (JJ quadratic) (NNS constraints)))))))))) (. .))

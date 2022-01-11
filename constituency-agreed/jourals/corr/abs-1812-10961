@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN concept)) (PP (IN of) (NP (NN precedent)))) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT an) (NN access) (NN rule)) (VP (ADVP (RB explicitly)) (VBN specified) (PP (IN by) (NP (DT the) (NN security) (NN administrator)))))))) (. .))
+(S (PP (IN On) (NP (NP (DT the) (NN family)) (PP (IN of) (NP (NP (NNS sets)) (PP (IN of) (NP (NN security) (NNS attributes))))))) (, ,) (NP (DT a) (JJ linear) (NN order)) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (S (NP (NP (DT The) (NN analysis)) (PP (IN of) (NP (DT the) (VBN proposed) (NN methodology)))) (VP (VBZ is) (VP (VBN performed)))) (CC and) (S (NP (PRP$ its) (JJ main) (NNS advantages)) (VP (VBP are) (VP (VBN revealed)))) (. .))

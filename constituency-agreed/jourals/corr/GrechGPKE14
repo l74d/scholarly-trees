@@ -1,0 +1,1 @@
+(S (NP (NNP Energy) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN constructed) (PP (IN by) (S (VP (VBG characterizing) (NP (NP (DT the) (NN energy)) (VP (VBN consumed) (PP (IN by) (S (VP (VBG executing) (NP (NP (DT each) (NN instruction)) (PP (IN in) (NP (NP (DT a) (NN processor) (POS 's)) (NN instruction) (NN set))))))))))))))) (. .))

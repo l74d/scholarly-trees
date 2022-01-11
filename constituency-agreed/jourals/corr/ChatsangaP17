@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN transaction) (NNS costs)) (VP (VBN associated) (PP (IN with) (NP (DT both) (NN trading) (CC and) (NN hedging))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN included))) (. .))
+(S (NP (PRP It)) (ADVP (RB hence)) (VP (VBZ improves) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (NP (DT the) (NN uncertainty)) (VP (VBG underlying) (NP (NP (NNS decisions)) (VP (VBN needed) (PP (IN for) (NP (JJ international) (NN portfolio) (NN optimisation) (NNS problems)))))))))) (. .))

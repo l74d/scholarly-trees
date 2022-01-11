@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (JJS most) (JJ previous) (NNS works)) (VP (VBP predict) (NP (DT a) (JJ single) (NN future))))) (, ,) (NP (NP (JJ multiple) (NNS futures)) (PP (IN with) (NP (JJ different) (NN behavior)))) (VP (MD can) (ADVP (RB potentially)) (VP (VB occur))) (. .))
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (DT the) (NNS predictions)) (ADJP (RBR more) (JJ suitable) (PP (IN for) (NP (JJ real) (NNS applications)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ aims) (S (VP (TO to) (VP (VB assist) (NP (DT the) (NN radiologist)) (PP (IN in) (S (VP (VBG identifying) (NP (NN breast) (NN cancer)) (PP (IN at) (NP (PRP$ its) (JJR earlier) (NNS stages)))))))))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (VP (VBN obtained) (PP (IN by) (S (VP (VBG applying) (NP (DT these) (NNS techniques))))))) (VP (VBP are) (VP (VBN described))) (. .))

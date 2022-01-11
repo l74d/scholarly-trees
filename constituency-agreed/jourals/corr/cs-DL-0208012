@@ -1,0 +1,2 @@
+(S (NP (NN Publication)) (VP (VBZ is) (VP (VBG becoming) (NP (DT a) (JJ major) (NN project) (NN component)))) (. .))
+(S (S (NP (VBN Derived) (NNS data)) (VP (MD can) (VP (VB be) (VP (VBN reconstructed) (PP (IN from) (NP (NN metadata))))))) (, ,) (CC but) (S (NP (NN metadata)) (VP (VBZ is) (ADJP (JJ ephemeral)))) (. .))

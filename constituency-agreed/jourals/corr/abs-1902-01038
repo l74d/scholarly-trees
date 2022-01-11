@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NNS kinematics)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBZ evolves) (PP (IN on) (NP (DT a) (JJ principal) (NN fiber) (NN bundle)))) (. .))
+(S (NP (NP (NNS Results)) (PP (IN from) (NP (JJ numerical) (NNS experiments)))) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (NN algorithm))))))) (. .))

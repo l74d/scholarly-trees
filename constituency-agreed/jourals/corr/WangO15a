@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NNS features) (CC and) (NNS weights)) (VP (VBN learned) (PP (IN by) (NP (DT the) (NNP CNNs))))))) (VP (VBZ explains) (SBAR (WHADVP (WRB why)) (S (NP (DT the) (NN approach)) (VP (VBZ works))))) (. .))

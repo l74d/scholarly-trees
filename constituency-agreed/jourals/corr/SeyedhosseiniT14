@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (NP (DT each) (NN level)) (PP (IN of) (NP (DT the) (NN hierarchy))))) (, ,) (NP (DT a) (NN classifier)) (VP (VBZ is) (VP (VBN trained) (PP (VBN based) (PP (IN on) (NP (NP (JJ downsampled) (NN input) (NNS images)) (CC and) (NP (NP (NNS outputs)) (PP (IN of) (NP (JJ previous) (NNS levels))))))))) (. .))

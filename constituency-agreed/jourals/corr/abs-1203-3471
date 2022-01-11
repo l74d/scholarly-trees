@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (DT an) (JJ efficient) (NN tracking) (NN algorithm)) (PP (IN for) (NP (DT this) (NN framework)))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBP are) (NP (JJ slight) (NN model) (NNS mismatches))))) (, ,) (NP (PRP$ our) (NN algorithm)) (VP (VBZ outperforms) (NP (DT the) (JJ Bayesian) (NN algorithm)))))) (. .))

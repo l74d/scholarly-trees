@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (RB even) (DT a) (JJ simple) (NN re-optimization) (NN scheme)) (VP (MD can) (VP (VB improve) (NP (NP (DT the) (NN latency)) (PP (IN of) (NP (JJ many) (ADJP (RB poorly) (VBG performing)) (NNS queries))))))))) (. .))

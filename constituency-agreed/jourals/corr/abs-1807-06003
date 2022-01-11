@@ -1,0 +1,2 @@
+(S (SBAR (IN While) (S (NP (NNS smartphones)) (VP (VBP are) (ADJP (JJ prevalent))))) (, ,) (NP (JJ humanoid) (NNS robots)) (VP (VBP are) (RB not)) (. .))
+(S (PP (IN On) (NP (CD one) (NN hand))) (, ,) (NP (NP (DT the) (NN product) (NN cycle)) (PP (IN of) (NP (NNS robots)))) (VP (VBZ is) (ADJP (ADJP (JJR slower)) (PP (IN than) (NP (NNS smartphones))))) (. .))

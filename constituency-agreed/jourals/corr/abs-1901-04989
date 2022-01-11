@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN throughput)) (CC and) (NP (DT the) (JJ occupied) (NN area))) (VP (VBD were) (VP (VBN analyzed) (PP (IN for) (NP (JJ several) (NNS implementations))) (PP (IN in) (NP (NP (JJ parallel) (NNS instances)) (PP (IN of) (NP (DT the) (NN hash) (NN algorithm))))))) (. .))

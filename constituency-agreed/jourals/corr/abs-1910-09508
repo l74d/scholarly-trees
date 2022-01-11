@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT a) (JJ multi-agent) (NN system))) (, ,) (NP (NP (DT an) (NN agent) (POS 's)) (JJ optimal) (NN policy)) (VP (MD will) (ADVP (RB typically)) (VP (VB depend) (PP (IN on) (NP (NP (DT the) (NNS policies)) (VP (VBN chosen) (PP (IN by) (NP (NNS others)))))))) (. .))

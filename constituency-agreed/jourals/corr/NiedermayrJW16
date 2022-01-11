@@ -1,0 +1,1 @@
+(S (NP (VBN Automated) (NNS tests)) (VP (VBP play) (NP (DT an) (JJ important) (NN role)) (PP (IN in) (NP (NN software) (NN evolution))) (SBAR (IN because) (S (NP (PRP they)) (VP (MD can) (ADVP (RB rapidly)) (VP (VB detect) (NP (NP (NNS faults)) (VP (VBN introduced) (PP (IN during) (NP (NNS changes)))))))))) (. .))

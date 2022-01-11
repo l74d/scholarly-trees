@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP try) (S (VP (TO to) (VP (VP (VB improve) (NP (NN clustering))) (CC and) (VP (VB make) (NP (NP (DT a) (NN change)) (PP (IN on) (NP (PRP$ its) (VBN proposed) (NN index) (NN tree))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP try) (S (VP (TO to) (VP (VB do) (NP (DT this)) (PP (IN by) (S (VP (VBG optimizing) (NP (DT the) (NN query) (NN processing))))))))) (. .))

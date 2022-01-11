@@ -1,0 +1,1 @@
+(S (NP (JJ Experimental) (NN validation)) (VP (VBZ is) (VP (VBN performed) (PP (PP (IN in) (NP (NN simulation))) (CONJP (RB as) (RB well) (IN as)) (PP (IN on) (NP (JJ real) (NN robot) (NN hardware)))))) (. .))

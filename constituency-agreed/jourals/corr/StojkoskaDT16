@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ is) (ADJP (RB very) (JJ suitable) (PP (IN for) (NP (NN intruder) (NN detection) (NNS applications))))) (. .))
+(S (ADVP (RB Otherwise)) (, ,) (NP (DT the) (NN node)) (VP (VBZ takes) (NP (DT no) (NN action))) (. .))

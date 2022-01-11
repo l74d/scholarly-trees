@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN network) (NN architecture) (NN design)) (CC and) (NP (DT the) (NN loss) (NN formulation))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NNP Kalman) (VBG filtering)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ Bayesian) (NN learning))))))))) (. .))

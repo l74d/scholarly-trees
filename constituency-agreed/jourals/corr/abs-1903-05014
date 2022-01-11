@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN localization) (NN filter)) (ADVP (RB also)) (VP (VBZ provides) (NP (NP (DT the) (JJ required) (NN information)) (PP (IN for) (NP (NP (NN shape) (NN identification)) (CC and) (NP (NN measurement) (NN association)))))) (. .))
+(S (NP (DT The) (VBN presented) (NN approach)) (VP (MD will) (VP (VB be) (VP (VBN evaluated) (PP (PP (IN on) (NP (JJ simulated) (NNS data))) (CONJP (RB as) (RB well) (IN as)) (PP (IN on) (NP (JJ real) (NNS measurements))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN construction)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (CD two) (NNS classes)) (PP (IN of) (NP (NN parity) (NNS symbols))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (DT the) (VBN proposed) (NNS codes)) (PP (IN with) (NP (NP (JJ other) (NNS codes)) (VP (VBN proposed) (PP (IN in) (NP (DT the) (NN literature))))))) (. .))

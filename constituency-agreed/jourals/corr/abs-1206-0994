@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ exploits) (NP (NP (NNS properties)) (PP (IN of) (NP (NNP Bregman) (NNS divergences)))) (PP (IN in) (NP (NP (NN conjunction)) (PP (IN with) (NP (NNP Legendre) (NN duality))))) (S (VP (TO to) (VP (VB yield) (NP (DT a) (ADJP (JJ principled) (CC and) (JJ scalable)) (NN approach)))))) (. .))

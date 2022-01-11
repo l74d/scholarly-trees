@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN platform)) (VP (VBZ is) (VP (VBN designed) (PP (IN with) (NP (NP (DT a) (JJ high) (NN degree)) (PP (IN of) (NP (NN modularity))))))) (. .))
+(S (NP (DT The) (NNS modules)) (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB support) (NP (JJ incremental) (NNS additions) (CC and) (NNS modifications))))))) (. .))

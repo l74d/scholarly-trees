@@ -1,0 +1,2 @@
+(S (SBAR (IN Before) (S (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB find) (NP (NN meaning))))))))) (, ,) (NP (PRP we)) (VP (MD should) (ADVP (RB first)) (VP (VB learn) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB discover) (CC and) (VB identify) (NP (NNS objects)))))))) (. .))
+(SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (DT an) (NN object))) (. ?))

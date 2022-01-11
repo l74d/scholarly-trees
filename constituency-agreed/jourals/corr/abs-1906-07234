@@ -1,0 +1,2 @@
+(S (NP (NP (CD One) (JJ major) (NN difficulty)) (PP (IN in) (NP (JJ robust) (JJ unsupervised) (NN feature) (NN learning)))) (VP (VBZ is) (VP (VBG dealing) (PP (IN with) (NP (NN speaker) (NN variation))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP are) (VP (VBN conducted) (PP (IN on) (NP (NNP ZeroSpeech) (CD 2019) (CC and) (CD 2017))))) (. .))

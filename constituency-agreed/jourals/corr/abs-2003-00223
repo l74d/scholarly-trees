@@ -1,0 +1,2 @@
+(S (S (NP (PRP It)) (VP (VBZ has) (NP (JJ full) (NN differentiability)))) (CC and) (S (NP (DT all) (NNS variables)) (VP (VBP are) (NP (JJ learnable) (NNS parameters)))) (. .))
+(S (NP (DT The) (NN attention)) (VP (VBZ is) (ADVP (RB always)) (ADJP (JJ sparse))) (. .))

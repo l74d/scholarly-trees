@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Color)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (ADJP (RBS most) (JJ important)) (CC and) (ADJP (RB easily) (JJ identifiable))) (NNS features)) (PP (IN for) (S (VP (VBG describing) (NP (DT the) (JJ visual) (NN content))))))))) (. .))
+(S (NP (DT The) (NNP Dominant) (NN color) (NN descriptor)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))) (. .))

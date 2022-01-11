@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ key) (NN idea)) (PP (IN of) (NP (PRP$ our) (NN method)))) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (JJ deep) (JJ neural) (NNS networks)) (PP (IN for) (NP (NP (NN image) (NN classification)) (CC and) (NP (JJ adversarial) (NNS attacks)))) (S (VP (TO to) (VP (VB embed) (NP (JJ secret) (NN information)) (PP (IN within) (NP (NNS images)))))))))) (. .))

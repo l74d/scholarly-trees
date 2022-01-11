@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ multiple) (NNS heads)) (VP (VBP learn) (NP (NP (JJ diverse) (NNS types)) (PP (IN of) (NP (NN word) (NNS relationships))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (PP (IN at) (NP (NP (DT no) (NN cost)) (PP (IN in) (NP (NN accuracy))))) (, ,) (NP (NP (NN sparsity)) (PP (IN in) (NP (NN attention) (NNS heads)))) (VP (VBZ helps) (S (VP (TO to) (VP (VB uncover) (NP (JJ different) (NN head) (NNS specializations)))))) (. .))

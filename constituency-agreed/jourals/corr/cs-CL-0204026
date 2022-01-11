@@ -1,0 +1,3 @@
+(S (NP (JJ Such) (NNS databases)) (VP (VBP are) (ADVP (RB typically)) (ADJP (JJ multidimensional) (, ,) (JJ heterogeneous) (CC and) (JJ dynamic))) (. .))
+(S (NP (DT These) (NNS properties)) (VP (VBP present) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ tough) (NNS challenges)) (PP (IN for) (NP (NN representation) (CC and) (NN query))))))) (. .))
+(S (NP (NP (DT The) (JJ temporal) (NN nature)) (PP (IN of) (NP (DT the) (NN data)))) (VP (VBZ adds) (NP (NP (DT an) (JJ additional) (NN layer)) (PP (IN of) (NP (NN complexity))))) (. .))

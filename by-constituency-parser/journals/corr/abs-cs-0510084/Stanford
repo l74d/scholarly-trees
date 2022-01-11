@@ -1,0 +1,2 @@
+(S (NP (JJ New) (NNS definitions)) (VP (VBP are) (VP (VP (VBN suggested) (PP (IN for) (NP (NP (NNS frequencies)) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB be) (ADJP (JJ instantaneous))))))))) (CC or) (VP (RB not)))) (. .))
+(S (NP (NP (DT The) (NML (NNP Heisenberg) (HYPH -) (NNP Gabor)) (NN inequality)) (CC and) (NP (DT the) (NML (NNP Shannon) (NN sampling)) (NN theorem))) (VP (VBP are) (ADVP (RB briefly)) (VP (VBN discussed))) (. .))

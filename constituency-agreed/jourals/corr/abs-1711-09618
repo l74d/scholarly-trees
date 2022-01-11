@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (S (VP (TO to) (VP (VB represent) (CC and) (VB generate) (NP (NNS videos)) (PP (IN from) (NP (JJ unlabeled) (NNS data)))))))) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ challenging)) (NN problem))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (JJ optical) (NN flow)) (PP (IN as) (NP (NN motion) (NN information))) (S (VP (TO to) (VP (VB generate) (NP (NNS videos)))))) (. .))

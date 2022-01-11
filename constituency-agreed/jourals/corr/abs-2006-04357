@@ -1,0 +1,1 @@
+(S (ADVP (RB Meanwhile)) (, ,) (NP (PRP$ our) (NN method)) (VP (MD can) (VP (VB magnify) (NP (NP (NN representation) (NN dimensionality)) (CC and) (NP (NN model) (NN capacity))) (PP (IN with) (NP (JJ negligible) (JJ additional) (NN computation) (NN cost))))) (. .))

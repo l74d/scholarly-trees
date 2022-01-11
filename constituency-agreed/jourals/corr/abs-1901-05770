@@ -1,0 +1,1 @@
+(S (NP (NNP SAFE)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (DT a) (JJ multi-scale) (JJ convolutional) (NN encoder)) (CC and) (NP (DT a) (NN scale) (NN attention) (NN network)))))) (. .))

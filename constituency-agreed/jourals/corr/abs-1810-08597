@@ -1,0 +1,1 @@
+(S (ADVP (RB Secondly)) (NP (DT a) (JJ convolutional) (JJ neural) (NN network)) (VP (VBZ is) (VP (VBN trained) (PP (IN on) (NP (NP (DT a) (JJ similar) (NN dataset)) (PP (IN with) (NP (JJR more) (NNS samples))))))) (. .))

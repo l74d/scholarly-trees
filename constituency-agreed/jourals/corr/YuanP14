@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN multi-bit-decision) (NN approach)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (ADVP (RB significantly)) (VP (VB reduce) (NP (NP (NN latency)) (PP (IN of) (NP (NNP SCL) (NNS decoders)))))))))) (. .))

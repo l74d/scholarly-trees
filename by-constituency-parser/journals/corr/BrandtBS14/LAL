@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT all) (JJ weak) (NNS saddles)) (PP (IN of) (NP (DT a) (VBN given) (JJ zero-sum) (NN game)))) (VP (VBP are) (ADJP (JJ interchangeable) (CC and) (JJ equivalent)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (DT every) (JJ such) (NN game)) (VP (VBZ possesses) (NP (DT a) (JJ unique) (JJ set-based) (NN value))) (. .))

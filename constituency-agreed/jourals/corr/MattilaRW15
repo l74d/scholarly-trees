@@ -1,0 +1,2 @@
+(S (ADVP (RB Often)) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBN applied) (PP (IN in) (NP (NN practice)))))) (, ,) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (DT these) (NNS models)))) (VP (VBP have) (S (VP (TO to) (VP (VB be) (VP (VBN estimated)))))) (. .))
+(S (NP (DT An) (JJ open) (NN question)) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (NN discrepancy)) (VP (MD can) (VP (VB be) (VP (VBN explained))))))) (. .))

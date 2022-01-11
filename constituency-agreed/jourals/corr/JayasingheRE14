@@ -1,0 +1,1 @@
+(S (PP (IN Through) (NP (NNS experiments))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (PRP$ our) (NN countermeasure)) (VP (VBZ is) (ADJP (JJ secure) (PP (IN against) (NP (NP (NNP Bernstein) (POS 's)) (NN cache) (NN timing) (NN attack)))))))) (. .))

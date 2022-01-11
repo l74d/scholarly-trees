@@ -1,0 +1,3 @@
+(S (NP (CD One) (NN method)) (VP (VBZ is) (VP (VBN demonstrated) (ADVP (RB here)) (, ,) (PP (IN in) (NP (NN simulation))))) (. .))
+(S (NP (DT Both) (NNS trajectories)) (VP (VBP are) (VP (VBN broadcast))) (. .))
+(S (NP (NP (DT A) (JJ simple) (NN form)) (PP (IN of) (NP (NN model) (JJ predictive) (NN control)))) (VP (VBZ is) (VP (VBN used))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN receiver)) (VP (VBZ decodes) (NP (NP (DT the) (NN message)) (PP (IN of) (NP (DT each) (NN user)))) (PP (IN by) (S (VP (VBG treating) (NP (NP (DT the) (JJ other) (NN user) (POS 's)) (NNS signals)) (PP (IN as) (NP (NN noise))))))) (. .))

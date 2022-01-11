@@ -1,0 +1,6 @@
+(S (NP (NN Payment) (NN channel) (NNS networks)) (VP (VBP use) (NP (ADJP (IN off) (HYPH -) (NN chain)) (NNS transactions)) (S (VP (TO to) (VP (VB provide) (NP (ADJP (RB virtually) (JJ arbitrary)) (NN transaction) (NNS rates)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP provide) (NP (DT a) (JJ new) (NN perspective)) (PP (IN on) (NP (NN payment) (NNS channels)))) (CC and) (VP (VB consider) (NP (PRP them)) (PP (IN as) (NP (DT a) (NN flow) (NN network))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT an) (JJ extended) (NN push) (HYPH -) (NN relabel) (NN algorithm)) (S (VP (TO to) (VP (VB find) (NP (NN payment) (NNS flows)) (PP (IN in) (NP (DT a) (NN payment) (NN channel) (NN network))))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ enables) (NP (DT a) (ADJP (VBN distributed) (CC and) (JJ concurrent)) (NN execution)) (PP (IN without) (S (VP (VBG violating) (NP (NN capacity) (NNS constraints)))))) (. .))
+(S (PP (IN To) (NP (DT this) (NN end))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN capacity) (NN locking))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NNS flows)) (VP (VBP are) (NP (ADJP (JJ valid) (CC and) (JJ present)) (JJ first) (NNS results)))))) (. .))

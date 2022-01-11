@@ -1,0 +1,3 @@
+(S (CC But) (NP (DT these) (NNS approaches)) (ADVP (RB usually)) (VP (VBP require) (NP (JJ much) (NN training) (NNS data))) (. .))
+(S (NP (PRP We)) (VP (VBP define) (NP (NN graspability) (, ,) (NN ungraspability) (CC and) (NN background)) (PP (IN as) (NP (NN grasp) (NNS affordances)))) (. .))
+(S (NP (DT The) (NN training) (NN sample)) (VP (VBZ is) (ADVP (RB only)) (VP (VBN collected) (PP (IN in) (NP (NN simulation))))) (. .))

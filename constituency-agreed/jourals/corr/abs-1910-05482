@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN exploitation)) (VP (VBZ enables) (NP (NP (DT the) (NN induction)) (PP (IN of) (NP (JJR more) (NN training) (NNS samples)))) (PP (IN without) (S (VP (VBG increasing) (NP (DT the) (NN input) (NN dimension)))))) (. .))

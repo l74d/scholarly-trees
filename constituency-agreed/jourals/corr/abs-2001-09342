@@ -1,0 +1,1 @@
+(S (ADVP (RB Here)) (, ,) (NP (ADJP (JJ real) (CC or) (JJ artificial)) (NN software) (NNS defects)) (VP (MD can) (VP (VB be) (VP (VBN injected) (PP (IN into) (NP (NP (DT the) (NN source) (NN code)) (PP (IN of) (NP (NN software)))))))) (. .))

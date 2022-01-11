@@ -1,0 +1,2 @@
+(S (NP (NNP Quantum) (NNS computers)) (VP (VBP promise) (S (VP (TO to) (VP (VB transform) (NP (NP (PRP$ our) (NNS notions)) (PP (IN of) (NP (NN computation)))) (PP (IN by) (S (VP (VBG offering) (NP (DT a) (ADJP (RB completely) (JJ new)) (NN paradigm))))))))) (. .))
+(S (PP (IN For) (NP (NP (DT each) (NN layer)) (PP (IN of) (NP (DT the) (NN stack))))) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (JJ underlying) (NNS methods)) (PP (IN for) (NP (NN compilation) (CC and) (NN optimization))))) (. .))

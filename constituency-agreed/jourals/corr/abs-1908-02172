@@ -1,0 +1,1 @@
+(S (NP (NP (DT Each) (NN classifier)) (PP (IN in) (NP (DT the) (NN sequence)))) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG predicting) (NP (NP (DT the) (NN relevance)) (PP (IN of) (NP (CD one) (NN label))))))))) (. .))

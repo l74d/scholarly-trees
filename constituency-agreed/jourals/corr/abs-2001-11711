@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Convolutional) (JJ neural) (NNS networks)) (PP (IN with) (NP (JJ Bayesian) (NN inference)))) (VP (VBP are) (NP (NP (DT a) (NN category)) (PP (IN of) (NP (NP (JJ artificial) (JJ neural) (NNS networks)) (SBAR (WHNP (WDT which)) (S (VP (VBP model) (NP (NP (DT the) (NN uncertainty)) (PP (IN of) (NP (DT the) (NN network) (NN output))))))))))) (. .))

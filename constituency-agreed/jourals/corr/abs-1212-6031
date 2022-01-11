@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ solves) (NP (DT this) (NN problem))) (CC and) (VP (VBZ gives) (NP (NP (DT a) (JJ new) (NN solution)) (PP (IN for) (NP (DT the) (NNP ML)))) (ADVP (RB also)))))))) (. .))

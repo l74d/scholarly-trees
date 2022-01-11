@@ -1,0 +1,1 @@
+(S (SBAR (IN As) (S (NP (NP (VBN bounded) (NNS intervals)) (PP (IN over) (NP (DT the) (NNS reals)))) (ADVP (RB still)) (VP (VBP comprise) (NP (ADJP (RB infinitely) (JJ many)) (NNS values))))) (, ,) (NP (DT a) (JJ trivial) (NN instantiation) (NN procedure)) (VP (VBZ is) (RB not) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN problem))))))) (. .))

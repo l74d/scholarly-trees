@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN demonstrated) (SBAR (IN that) (S (NP (DT these) (NNS codes)) (VP (VBP are) (ADJP (JJ optimal)) (PP (IN in) (NP (DT the) (JJ large) (NN alphabet) (NN limit))) (PP (IN for) (NP (NP (DT every) ($ $) (DT a) (, ,) (NN h) (, ,) (JJ t) ($ $)) (CC and) (NP (DT every) (JJ block-length) ($ $) (JJ n) ($ $))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (DT these) (JJ adversarial) (NNS perturbations)) (S (VP (TO to) (VP (VB generate) (NP (JJ adversarial) (NN text) (NNS samples)))))))))) (. .))

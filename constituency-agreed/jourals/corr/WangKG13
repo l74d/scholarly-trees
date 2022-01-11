@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ key) (NN challenge)) (VP (VBZ is) (NP (NP (DT the) (JJ nonlinear) (NN measurement) (NN model)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB often)) (VP (VBN tackled) (S (VP (VBG using) (NP (NN linearization)))) (, ,) (PP (IN despite) (NP (NP (NN divergence)) (CC and) (NP (JJ local) (NN optimality) (NNS issues)))))))))) (. .))

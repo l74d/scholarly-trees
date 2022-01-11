@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (JJ grounded) (NN acquisition) (NNS experiments)) (PP (IN of) (NP (VBG increasing) (NN complexity))))) (. .))
+(S (NP (NNP Humanoid) (NNS robots)) (VP (VB acquire) (NP (NNP English) (JJ spatial) (NNS lexicons)) (PP (IN from) (NP (JJ robot) (NNS tutors)))) (. .))
+(S (NP (PRP We)) (VP (VBP identify) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ various) (JJ spatial) (NN language) (NNS systems)) (, ,) (PP (JJ such) (IN as) (ADJP (JJ projective) (, ,) (JJ absolute) (CC and) (JJ proximal)))) (VP (MD can) (VP (VB be) (VP (VBN learned))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN learning) (NNS mechanisms)) (VP (VBP do) (RB not) (VP (VB rely) (PP (IN on) (NP (NP (JJ direct) (NN meaning) (NN transfer)) (CC or) (NP (NP (JJ direct) (NN access)) (PP (TO to) (NP (NP (NN world) (NNS models)) (PP (IN of) (NP (NNS interlocutors)))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ multiple) (NNS systems)) (VP (MD can) (VP (VB be) (VP (VBN acquired) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))

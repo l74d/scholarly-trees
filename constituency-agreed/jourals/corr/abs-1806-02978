@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ new) (JJ generative) (JJ adversarial) (NN network)) (VP (VBZ is) (VP (VBN developed) (PP (IN for) (NP (JJ joint) (NN distribution) (NN matching))))) (. .))
+(S (NP (NP (JJS Most) (NNS examples)) (VP (VBN considered))) (VP (VBP are) (PP (IN for) (NP (NP (JJ joint) (NN analysis)) (PP (IN of) (NP (CD two) (NNS domains))))) (, ,) (SBAR (IN with) (S (NP (NP (NNS examples)) (PP (IN for) (NP (CD three) (NNS domains)))) (ADVP (RB also)) (VP (VBD presented))))) (. .))

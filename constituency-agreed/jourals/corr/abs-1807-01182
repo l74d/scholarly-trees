@@ -1,0 +1,2 @@
+(S (NP (NP (NN Fashion)) (SBAR (IN as) (S (VP (VBN characterized) (PP (IN by) (NP (PRP$ its) (NN nature))))))) (, ,) (VP (VBZ is) (VP (VBN driven) (PP (IN by) (NP (NN style))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (NN encoder) (NN decoder) (NN architecture)) (S (VP (TO to) (VP (VB solve) (NP (NP (DT this) (NN problem)) (PP (IN of) (S (VP (VBG completing) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NN fashion) (NNS items)))))))))))) (. .))

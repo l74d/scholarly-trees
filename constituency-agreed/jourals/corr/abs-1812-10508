@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ particular) (NN information)) (VP (VBG being) (VP (VBN shared) (PP (IN by) (NP (DT a) (NN user)))))) (VP (MD may) (VP (VB be) (ADJP (JJ legitimate) (CC or) (JJ fake)))) (. .))
+(S (PP (IN In) (NP (DT the) (NN blockchain) (NN model))) (, ,) (NP (DT a) (NN chain)) (VP (VBZ is) (VP (VBN created) (PP (IN by) (S (VP (VBG combining) (NP (NP (NNS blocks)) (PP (IN of) (NP (NN information))))))))) (. .))

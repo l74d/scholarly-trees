@@ -1,0 +1,2 @@
+(S (S (VP (VBG Detecting) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT a) (JJ valid) (NN signal)))))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN task)) (PP (IN of) (NP (DT a) (NN telecommunication) (NN receiver))))) (. .))
+(S (NP (DT The) (JJ theoretical) (NNS results)) (VP (VBP are) (VP (VBN validated) (PP (IN by) (NP (NN computer) (NNS simulations))))) (. .))

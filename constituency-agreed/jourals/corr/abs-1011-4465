@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ second) (NN method)) (VP (VBZ uses) (NP (NN contraction) (NNS hierarchies)) (S (VP (TO to) (VP (VB replace) (NP (NP (NNS subpaths)) (PP (IN of) (NP (DT the) (JJ original) (NN path)))) (PP (IN by) (NP (NNS shortcuts))))))) (. .))
+(S (NP (DT The) (CD two) (NNS methods)) (VP (MD can) (VP (VB be) (VP (VBN combined) (PP (IN with) (NP (DT each) (JJ other)))))) (. .))

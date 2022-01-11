@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP disambiguate) (NP (DT the) (NN input) (NN word) (NNS vectors)) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP are) (VP (VBN fed) (PP (IN into) (NP (DT a) (JJ compositional) (JJ deep) (NN net)))))))) (. .))

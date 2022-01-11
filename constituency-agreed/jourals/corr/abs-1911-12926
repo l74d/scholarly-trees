@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (JJ positive) (NN correlation)) (ADVP (RB still)) (VP (VBZ exists))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN discovery)))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB try) (PRT (RP out)) (NP (JJ different) (NN architecture) (NNS designs) (CC or) (NNS tricks)) (PP (IN without) (S (VP (VBG training) (NP (DT the) (JJ whole) (NN model))))))) (. .))

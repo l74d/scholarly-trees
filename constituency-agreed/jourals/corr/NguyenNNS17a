@@ -1,0 +1,1 @@
+(S (ADVP (RB Nevertheless)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ iterative) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ finds) (NP (JJ local) (NN optima)) (PP (IN at) (NP (DT the) (JJS least)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS formulas)) (VP (VBP are) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (PRP$ their) (NN kind))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (JJR lower) (NNS bounds))) (. .))

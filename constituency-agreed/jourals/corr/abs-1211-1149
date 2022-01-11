@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ common) (JJ technical) (NN challenge)) (PP (IN in) (NP (DT these) (NNS problems)))) (VP (VBZ is) (S (VP (TO to) (VP (VB optimize) (NP (NP (DT some) (NN function)) (PP (IN of) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ random) (NNS variables)))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB tackle) (NP (DT this) (NN difficulty))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT the) (NNP Poisson) (NN approximation) (NN technique))) (. .))

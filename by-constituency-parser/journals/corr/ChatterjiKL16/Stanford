@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NNS cryptosystems)) (PP (VBN based) (PP (IN on) (NP (NP (NN subgroup) (NN distortion)) (PP (IN in) (NP (JJ hyperbolic) (NNS groups))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP include) (NP (NP (JJ concrete) (NNS examples)) (PP (IN of) (NP (JJ hyperbolic) (NNS groups)))) (PP (IN as) (NP (JJ possible) (NNS platforms)))) (. .))

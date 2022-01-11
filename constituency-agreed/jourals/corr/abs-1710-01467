@@ -1,0 +1,2 @@
+(S (NP (JJ Deep) (JJ neural) (NNS networks)) (VP (VBP are) (ADVP (RB widely)) (VP (VBN used) (PP (IN in) (NP (JJ various) (NNS domains))))) (. .))
+(S (S (VP (VBG Increasing) (NP (NP (DT the) (NN interpretability)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))))) (VP (VBZ is) (ADVP (RB thus)) (ADJP (JJ important))) (. .))

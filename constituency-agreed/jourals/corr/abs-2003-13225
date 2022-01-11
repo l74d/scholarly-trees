@@ -1,0 +1,2 @@
+(S (NP (NNS Data)) (VP (VBP are) (VP (VBG being) (VP (VBN collected) (PP (IN from) (NP (NP (JJ various) (NNS aspects)) (PP (IN of) (NP (NN life)))))))) (. .))
+(S (ADVP (RB Sometimes)) (, ,) (NP (VBG clustering) (NNS patterns)) (VP (MD may) (VP (VB drift) (ADVP (RB temporarily)) (PP (IN in) (NP (DT a) (JJ single) (NN batch))) (SBAR (IN while) (S (NP (DT the) (JJ next) (NNS batches)) (VP (VBP do) (RB not) (VP (VB exhibit) (NP (DT the) (NN drift)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PDT All) (DT the) (JJ analytical) (NNS results)) (VP (VBP are) (VP (VBN validated) (PP (IN through) (NP (JJ numerical) (NNS simulations))) (, ,) (S (VP (VBG covering) (ADVP (RB also)) (NP (NP (NN convergence)) (, ,) (NP (NN identifiabilty)) (CC and) (NP (JJ non-Gaussian) (JJ practical) (NNS modulations))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (NNP FlyHash)) (VP (VP (VBZ uses) (NP (JJ random) (NNS projections))) (CC and) (VP (MD can) (RB not) (VP (VB learn) (PP (IN from) (NP (NNS data)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP BioHash)) (VP (VBZ outperforms) (NP (NP (ADJP (RB previously) (VBN published)) (NNS benchmarks)) (PP (IN for) (NP (JJ various) (VBG hashing) (NNS methods)))))))) (. .))

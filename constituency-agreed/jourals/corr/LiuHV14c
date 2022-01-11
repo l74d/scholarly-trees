@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNP Shannon) (POS 's)) (JJ ideal) (NN secrecy)) (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN with) (NP (DT an) (ADJP (RB arbitrarily) (JJ small)) (NN outage) (NN probability))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (JJ Pre-trained) (NN word) (NNS embeddings)) (VP (VBP improve) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (JJ neural) (NN model)))) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG increasing) (NP (DT the) (NN model) (NN size)))))))) (. .))

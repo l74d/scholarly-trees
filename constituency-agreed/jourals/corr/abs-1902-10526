@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Current) (NNS datasets)) (PP (IN for) (NP (NN sentence) (NN fusion)))) (VP (VBP are) (ADJP (JJ small) (CC and) (JJ insufficient) (PP (IN for) (S (VP (VBG training) (NP (JJ modern) (JJ neural) (NNS models))))))) (. .))

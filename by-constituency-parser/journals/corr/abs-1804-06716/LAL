@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN demo) (NN proposal)) (VP (VBZ presents) (NP (DT a) (JJ Phrase-based) (NNP Sanskrit-Hindi) (PRN (-LRB- -LRB-) (NNP SaHiT) (-RRB- -RRB-)) (NNP Statistical) (NNP Machine) (NNP Translation) (NN system))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBZ has) (VP (VBN been) (VP (VBN developed) (PP (IN on) (NP (NNS Moses)))))) (. .))
+(S (NP (NP (NP (CD 43k) (NNS sentences)) (PP (IN of) (NP (NNP Sanskrit-Hindi) (JJ parallel) (NN corpus)))) (CC and) (NP (NP (CD 56k) (NNS sentences)) (PP (IN of) (NP (NP (DT a) (JJ monolingual) (NN corpus)) (PP (IN in) (NP (NP (DT the) (NN target) (NN language)) (PRN (-LRB- -LRB-) (NP (NNP Hindi)) (-RRB- -RRB-)))))))) (VP (VBP have) (VP (VBN been) (VP (VBN used)))) (. .))
+(S (NP (DT This) (NN system)) (VP (VBZ gives) (NP (CD 57) (NNP BLEU) (NN score))) (. .))

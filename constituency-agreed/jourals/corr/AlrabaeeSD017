@@ -1,0 +1,2 @@
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP analyze) (NP (NP (DT the) (NNS features)) (VP (VBN involved) (PP (IN in) (NP (DT those) (NNS techniques)))))) (. .))
+(S (PP (IN By) (S (VP (VBG using) (NP (DT a) (NN case) (NN study))))) (, ,) (NP (PRP we)) (VP (VBP identify) (NP (NP (NNS features)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB survive) (NP (DT the) (NN compilation) (NN process)))))))) (. .))

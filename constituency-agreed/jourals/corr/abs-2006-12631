@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (JJ such) (NNS models)) (VP (VBP are) (ADJP (JJ flexible))))) (, ,) (NP (PRP they)) (VP (VP (VBP are) (ADJP (RB inherently) (JJ sequential))) (CC and) (ADVP (RB therefore)) (VP (MD can) (RB not) (VP (VB benefit) (PP (IN from) (NP (NP (DT the) (NN parallelism)) (PP (IN of) (NP (JJ modern) (NN hardware)))))))) (. .))

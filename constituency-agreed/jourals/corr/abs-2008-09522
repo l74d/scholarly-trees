@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ second) (NN step))) (, ,) (NP (DT the) (NN adjacency) (NN matrix)) (VP (VBZ is) (VP (VBN inferred) (PP (IN from) (NP (DT the) (NNS eigenvectors))) (PP (IN by) (S (VP (VBG solving) (NP (DT a) (NN convex) (NN optimization) (NN problem))))))) (. .))

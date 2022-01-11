@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN research)))) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (JJ deep) (NN learning)) (S (VP (TO to) (VP (VB predict) (NP (JJ pharmaceutical) (NNS formulations))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (CD two) (JJ different) (NNS types)) (PP (IN of) (NP (NN dosage) (NNS forms)))) (VP (VBD were) (VP (VBN chosen) (PP (IN as) (NP (NN model) (NNS systems))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT an) (JJ automatic) (NN dataset) (NN selection) (NN algorithm)) (VP (VBD was) (VP (VBN developed) (PP (IN for) (S (VP (VBG selecting) (NP (DT the) (NN representative) (NNS data)) (PP (IN as) (NP (NN validation) (CC and) (NN test) (NNS datasets)))))))) (. .))

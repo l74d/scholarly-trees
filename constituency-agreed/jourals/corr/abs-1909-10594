@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT a) (NN membership) (NN inference) (NN attack))) (, ,) (NP (DT an) (NN attacker)) (VP (VBZ aims) (S (VP (TO to) (VP (VB infer) (SBAR (IN whether) (S (NP (DT a) (NN data) (NN sample)) (VP (VBZ is) (PP (IN in) (NP (NP (DT a) (NN target) (NN classifier) (POS 's)) (NN training) (NN dataset))))) (CC or) (RB not)))))) (. .))

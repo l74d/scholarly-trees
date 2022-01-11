@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (ADVP (RB slightly)) (VB improve) (NP (NP (DT the) (VBN known) (JJR lower) (NN bound)) (PP (IN on) (NP (NP (DT the) (JJ asymptotic) (JJ competitive) (NN ratio)) (PP (IN for) (NP (NP (JJ online) (NN bin) (NN packing)) (PP (IN of) (NP (NNS rectangles))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ complete) (NN proof)) (PP (IN for) (NP (NP (DT the) (JJ new) (JJR lower) (NN bound)) (, ,) (SBAR (WHNP (WP$ whose) (NN value)) (S (VP (VBZ is) (PP (IN above) (NP (CD 1.91)))))))))) (. .))

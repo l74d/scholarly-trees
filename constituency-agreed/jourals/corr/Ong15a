@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (DT the) (NN normalisation) (NN procedure)))) (PP (IN by) (NP (NN game) (NNS semantics)))) (. .))

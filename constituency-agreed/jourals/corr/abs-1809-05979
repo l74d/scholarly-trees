@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD two) (JJ Siamese) (JJ neural) (NNS networks)) (SBAR (WHNP (WDT that)) (S (VP (VBP extract) (NP (JJ relevant) (NNS features)) (PP (IN despite) (NP (NP (JJ large) (NNS differences)) (PP (IN in) (NP (NNS viewpoints))))))))))) (. .))

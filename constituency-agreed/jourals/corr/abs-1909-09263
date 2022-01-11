@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN denoiser)))) (VP (MD can) (VP (VB decrease) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN noise))))))))) (. .))

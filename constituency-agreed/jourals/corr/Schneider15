@@ -1,0 +1,4 @@
+(S (NP (PRP He)) (VP (VP (VBZ does) (RB not) (VP (VB trust) (NP (DT a) (JJ single) (NN party)))) (CC but) (VP (VBZ believes) (SBAR (IN that) (S (NP (JJ multiple) (NNS parties)) (VP (VBP do) (RB not) (VP (VB collude))))))) (. .))
+(S (NP (DT A) (NN helper)) (VP (VBZ assists) (NP (NN computation)) (ADVP (RB only))) (. .))
+(S (NP (DT This)) (VP (VBZ does) (RB not) (VP (VB hold) (PP (IN for) (S (VP (VBG adding) (NP (DT a) (NN helper))))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (ADVP (RB also)) (VP (VB allow) (PP (IN for) (NP (NP (ADJP (RB very) (JJ efficient)) (NNS computations)) (PP (IN of) (NP (JJ certain) (NNS functions))))) (, ,) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP show) (PP (IN for) (NP (NP (DT the) (JJ exponential) (NN function)) (PP (IN with) (NP (JJ public) (NN base)))))))))) (. .))

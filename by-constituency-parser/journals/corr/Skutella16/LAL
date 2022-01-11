@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (ADJP (RB previously) (JJS best) (VBN known)) (NN approximation) (NN algorithm)) (VP (VBZ dates) (ADVP (RB back)) (PP (TO to) (NP (CD 1997))))) (: ;) (S (NP (PRP$ its) (NN performance) (NN guarantee)) (VP (MD can) (VP (VB be) (VP (VBN made) (ADJP (RB arbitrarily) (RB close) (PP (TO to) (NP (DT the) (NNP Euler) (JJ constant) ($ $) (JJ e) ($ $)))))))) (. .))

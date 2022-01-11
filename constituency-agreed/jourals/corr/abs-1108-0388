@@ -1,0 +1,5 @@
+(S (NP (NNP Time)) (VP (VBZ is) (ADJP (JJ discrete))) (. .))
+(S (NP (EX There)) (VP (VBZ is) (NP (DT a) (NN buffer))) (. .))
+(S (NP (DT Each) (NN packet)) (VP (VBZ has) (NP (NP (DT an) (NN integer) (NN release) (NN time)) (, ,) (NP (DT an) (NN integer) (NN deadline)) (, ,) (CC and) (NP (DT a) (JJ positive) (JJ real) (NN value)))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (JJ total) (NN value)) (PP (IN of) (NP (NP (DT the) (NNS packets)) (VP (VBN sent) (PP (IN by) (NP (PRP$ their) (JJ respective) (NNS deadlines))) (PP (IN in) (NP (DT an) (JJ online) (NN manner))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (PRP$ its) (NN performance)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (JJ competitive) (NN ratio)) (PP (IN for) (NP (NP (DT the) (JJ general) (NN model)) (CC and) (NP (DT a) (JJ few) (JJ important) (NNS variants))))))))) (. .))

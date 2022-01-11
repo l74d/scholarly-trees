@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NN relationship)) (PP (IN between) (NP (NP (VBN memoized) (JJ top-down) (NNS recognizers)) (CC and) (NP (NN chart) (NNS parsers)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ presents) (NP (NP (DT a) (NN version)) (PP (IN of) (NP (NN memoization))) (ADJP (JJ suitable) (PP (IN for) (NP (JJ continuation-passing) (NN style) (NNS programs)))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBN applied) (PP (TO to) (NP (NP (DT a) (JJ simple) (NN formalization)) (PP (IN of) (NP (DT a) (JJ top-down) (NN recognizer)))))))) (NP (PRP it)) (VP (VBZ yields) (NP (DT a) (VBG terminating) (NN parser))) (. .))

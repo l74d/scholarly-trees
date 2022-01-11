@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ unsupervised) (NN domain) (NN adaptation)) (PP (IN in) (NP (JJ semantic) (NN segmentation))))))) (. .))
+(S (NP (DT A) (JJ popular) (NN strategy)) (VP (VBZ is) (S (VP (TO to) (VP (VB align) (NP (NP (DT the) (JJ marginal) (NN distribution)) (PP (IN in) (NP (DT the) (NN feature) (NN space)))) (PP (IN through) (NP (JJ adversarial) (NN learning))))))) (. .))

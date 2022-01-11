@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP revisit) (NP (NP (CD two) (JJ NP-hard) (JJ geometric) (NN partitioning) (NNS problems)) (: -) (NP (NP (NN convex) (NN decomposition)) (CC and) (NP (NN surface) (NN approximation))))) (. .))
+(S (S (VP (NN Building) (PP (IN on) (NP (NP (JJ recent) (NNS developments)) (PP (IN in) (NP (JJ geometric) (NNS separators))))))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (JJ quasi-polynomial) (NN time) (NN algorithms)) (PP (IN for) (NP (DT these) (NNS problems))) (PP (IN with) (NP (JJ improved) (NN approximation) (NNS guarantees))))) (. .))

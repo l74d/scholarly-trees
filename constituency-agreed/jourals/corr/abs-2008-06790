@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN specification)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN described) (PP (IN in) (NP (JJ temporal) (NN logic))))) (. .))
+(S (S (VP (VBG Analyzing) (NP (DT the) (NNS results)))) (, ,) (NP (PRP we)) (VP (VBP observe) (SBAR (IN that) (S (NP (NP (DT the) (NN reason)) (PP (IN for) (NP (NP (DT the) (JJ poor) (NN performance)) (PP (IN of) (NP (NP (NNP Brzozowski) (POS 's)) (NN algorithm)))))) (VP (VBZ is) (NP (NP (DT a) (NN discrepancy)) (PP (IN between) (NP (NN theory) (CC and) (NN practice)))))))) (. .))

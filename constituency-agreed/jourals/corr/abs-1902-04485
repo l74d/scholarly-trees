@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT a) (VBN given) (NN task))) (, ,) (NP (DT some) (NNS architectures)) (VP (VBP are) (ADVP (RB eventually)) (VP (VBN preferred) (PP (IN over) (NP (NNS others))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (DT a) (NN mix)) (PP (IN of) (NP (NN intuition) (, ,) (NN experience) (, ,) (NN experimentation) (CC and) (NN luck)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP consider) (SBAR (WHADVP (WRB how)) (S (NP (NN capacity) (NN allocation)) (VP (MD might) (VP (VB translate) (PP (IN in) (NP (JJ non-linear) (NNS settings)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (PRP$ our) (NNP MFPC))) (, ,) (NP (DT the) (VBN given) (NNS samples)) (VP (VBP are) (VP (VBN projected) (PP (IN into) (NP (JJ multiple) (NNS subspaces))) (S (VP (TO to) (VP (VB discover) (NP (NP (DT the) (JJ global) (NNS structures)) (PP (IN of) (NP (DT the) (JJ implicit) (NNS manifolds))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (DT the) (JJ cross-manifold) (NNS clusters)) (VP (VBP are) (VP (VBN distinguished) (PP (IN from) (NP (DT the) (JJ various) (NNS projections))))) (. .))

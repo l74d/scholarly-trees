@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT a) (JJ novel) (JJ textual) (NN entailment) (NN task)) (SBAR (WHNP (WDT that)) (S (VP (VBZ requires) (NP (NP (NN inference)) (PP (IN over) (NP (JJ multiple) (NN premise) (NNS sentences))))))))) (. .))

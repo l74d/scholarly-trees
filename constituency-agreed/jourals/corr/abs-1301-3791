@@ -1,0 +1,2 @@
+(S (NP (NP (VBN Distributed) (NN storage) (NNS systems)) (PP (IN for) (NP (JJ large) (NNS clusters)))) (ADVP (RB typically)) (VP (VBP use) (NP (NN replication)) (S (VP (TO to) (VP (VB provide) (NP (NN reliability)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB overcome) (NP (DT this) (NN limitation))))))) (. .))

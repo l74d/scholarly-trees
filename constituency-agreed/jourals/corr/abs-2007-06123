@@ -1,0 +1,2 @@
+(S (NP (NNP OtoWorld)) (VP (VBZ is) (NP (NP (DT the) (JJ audio) (NN analogue)) (PP (IN of) (NP (NP (NNP GridWorld)) (, ,) (NP (DT a) (JJ simple) (NN navigation) (NN game)))))) (. .))
+(S (NP (DT The) (NNS sources)) (VP (VP (VBP are) (VP (VBN placed) (ADVP (RB randomly)) (PP (IN within) (NP (DT the) (NN room))))) (CC and) (VP (MD can) (VP (VB vary) (PP (IN in) (NP (NN number)))))) (. .))

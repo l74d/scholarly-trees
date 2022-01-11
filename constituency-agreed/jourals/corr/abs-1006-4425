@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN approach)) (VP (VBZ yields) (NP (NP (DT an) (NN underapproximation)) (PP (IN of) (NP (DT the) (JJ original) (, ,) (JJ infinite) (NN system))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (JJ experimental) (NNS results)) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (PRP$ our) (NN technique)))))))) (. .))

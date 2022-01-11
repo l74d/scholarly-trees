@@ -1,0 +1,1 @@
+(S (NP (VBN Supervised) (NN learning)) (VP (VBZ is) (ADJP (JJ successful)) (SBAR (IN because) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (NP (NP (DT the) (NN minimization)) (PP (IN of) (NP (DT the) (NN training) (NN error) (NN cost) (NN function))))))))))) (. .))

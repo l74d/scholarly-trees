@@ -1,0 +1,2 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (NN inconsistency) (NNS patterns)) (SBAR (WHNP (WDT that)) (S (VP (VBP enable) (S (NP (PRP us)) (VP (TO to) (VP (VB be) (ADJP (JJ aware) (PP (IN of) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (NN inconsistency) (NNS occurrences)))))))))))))) (. .))
+(S (PP (IN By) (S (VP (VBG combining) (NP (DT this) (NN mechanism)) (PP (IN with) (NP (NN version) (NN control) (NNS systems)))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB make) (NP (NNS changes)) (ADVP (RB safely)))) (. .))

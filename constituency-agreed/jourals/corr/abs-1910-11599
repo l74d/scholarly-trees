@@ -1,0 +1,3 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NN machine) (NN learning)) (VP (VBZ has) (VP (VBN started) (S (VP (TO to) (VP (VB play) (NP (DT an) (JJ important) (NN role)) (PP (IN in) (NP (NNP NILM)))))))) (. .))
+(S (NP (DT These) (NNS components)) (VP (VBP provide) (NP (NP (DT a) (NN representation)) (PP (IN of) (NP (DT the) (NN consumption) (NNS patterns))))) (. .))
+(S (S (VP (VBN Designed) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (JJ big) (NNS data)))))))) (, ,) (NP (PRP$ our) (NN algorithm)) (, ,) (PP (IN unlike) (NP (VBG existing) (NNP NILM) (NNS ones))) (, ,) (VP (VBZ does) (RB not) (VP (VB focus) (PP (IN on) (NP (NN appliance) (NN recognition))))) (. .))

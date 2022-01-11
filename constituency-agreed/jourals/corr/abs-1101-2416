@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN context))) (, ,) (NP (NP (DT the) (NN graph)) (PP (IN of) (NP (DT a) (NN formation)))) (VP (VBZ encodes) (NP (CC both) (NP (DT the) (NN information) (NN flow)) (CC and) (NP (DT the) (NN distance) (NNS constraints))) (, ,) (PP (IN by) (S (VP (VBG fixing) (NP (NP (DT the) (NNS lengths)) (PP (IN of) (NP (DT the) (NNS edges)))))))) (. .))

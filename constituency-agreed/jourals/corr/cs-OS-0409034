@@ -1,0 +1,2 @@
+(S (S (VP (VBG Protecting) (NP (NNS data)) (PP (IN from) (NP (JJ malicious) (NN computer) (NNS users))))) (VP (VBZ continues) (S (VP (TO to) (VP (VB grow) (PP (IN in) (NP (NN importance))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (S (VP (VBG using) (NP (DT these) (NNS criteria)))) (, ,) (NP (DT the) (NN paper)) (VP (VP (VBZ explains) (NP (NP (DT the) (JJ relevant) (NNS characteristics)) (PP (IN of) (NP (JJ select) (NN storage) (NNS systems))))) (CC and) (VP (VBZ provides) (NP (NP (DT a) (NN comparison)) (PP (IN of) (NP (DT the) (JJ major) (NNS differences)))))) (. .))

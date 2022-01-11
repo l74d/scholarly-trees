@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (JJ private) (NN cloud) (NN system))) (, ,) (NP (NN information)) (VP (VBZ is) (VP (VBN shared) (PP (IN among) (NP (NP (DT the) (NNS persons)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (PP (IN in) (NP (DT that) (NN cloud)))))))))) (. .))
+(S (ADVP (RB Presently)) (, ,) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (ADJP (NN internet) (VBN based)) (NNS systems)))) (VP (VBP are) (VP (VBG running) (PP (IN in) (NP (NNP Cloud) (NNP Computing) (NN environment))))) (. .))
+(S (NP (NN E-commerce)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))) (. .))

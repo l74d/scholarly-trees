@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN task)) (VP (VBZ focuses) (PP (IN on) (NP (NP (CD two) (JJ such) (NNS relations)) (: :) (NP (NN profession) (CC and) (NN nationality))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN system)) (VP (VBZ achieves) (NP (NP (NP (DT an) (JJ overall) (NN accuracy) (NN score)) (PP (IN of) (NP (CD 0.73)))) (CC and) (NP (NP (NP (NNP Kendall) (POS 's)) (NN tau) (NN score)) (PP (IN of) (NP (CD 0.36)))))) (. .))

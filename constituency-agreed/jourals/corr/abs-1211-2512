@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN issue)) (VP (VBZ has) (VP (VBN been) (VP (VBN addressed) (ADVP (RB recently)) (PP (IN on) (NP (JJ nominal) (NNS data)))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (CD four) (NNP UCI) (NNS data) (NNS sets))))) (. .))

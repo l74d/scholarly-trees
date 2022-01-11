@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (JJ linear) (NNS systems))) (, ,) (NP (NN identifiability)) (VP (VBZ is) (VP (VBN characterized) (PP (IN by) (NP (NP (NN persistence)) (PP (IN of) (NP (NN excitation) (NNS conditions))))))) (. .))
+(S (PP (IN For) (NP (JJ nonlinear) (NNS systems))) (, ,) (NP (NP (DT no) (JJ such) (NN persistence)) (PP (IN of) (NP (NN excitation) (NNS conditions)))) (VP (VBP exist)) (. .))

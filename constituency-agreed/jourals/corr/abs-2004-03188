@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP exploit) (NP (DT this) (JJ hierarchical) (NN structure)) (PP (IN by) (S (VP (VBG introducing) (NP (NP (DT a) (JJ novel) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ avoids) (S (VP (VBG evaluating) (NP (DT the) (NNS clauses)) (ADVP (RB exhaustively)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN practice))) (, ,) (ADVP (RB however)) (, ,) (NP (DT this) (NN assumption)) (VP (VBZ is) (RB not) (ADVP (RB always)) (ADJP (JJ reasonable))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN group) (POS 's)) (NNS scores)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB find) (NP (DT a) (JJ consensual) (NN review))))))))))) (. .))

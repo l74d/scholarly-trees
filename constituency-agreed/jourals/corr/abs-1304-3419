@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (JJ original) (NN definition)) (PP (IN of) (NP (NN certainty) (NNS factors)))) (VP (VBZ is) (ADJP (JJ inconsistent) (PP (IN with) (NP (NP (DT the) (NNS functions)) (VP (VBN used) (PP (IN in) (NP (NNP MYCIN))) (S (VP (TO to) (VP (VB combine) (NP (DT the) (NNS quantities)))))))))))))) (. .))
+(S (NP (NP (NNS Methods)) (PP (IN for) (S (VP (VBG relaxing) (NP (DT the) (NNS assumptions)))))) (VP (VBP are) (VP (VBN suggested))) (. .))

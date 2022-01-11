@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN mechanism)) (VP (VP (VBZ is) (ADJP (JJ effective) (PP (IN in) (S (VP (VBG reducing) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NN load) (NN imbalance))))))))) (CC and) (VP (VBZ increases) (NP (DT the) (JJ parallel) (NN efficiency)) (PP (IN by) (S (VP (VBG pipelining) (NP (JJ multiple) (NNS operations))))))) (. .))

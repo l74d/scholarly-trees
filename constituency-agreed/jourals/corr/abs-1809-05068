@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Recent) (NN research)) (PP (IN in) (NP (DT the) (NN field)))) (VP (VBZ has) (VP (VBN tackled) (NP (DT this) (NN problem)) (PP (IN by) (S (VP (VBG exploiting) (NP (NP (DT the) (NN expressiveness)) (PP (IN of) (NP (JJ deep) (JJ convolutional) (NNS networks))))))))) (. .))

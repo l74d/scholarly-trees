@@ -1,0 +1,2 @@
+(S (NP (JJ Logical) (NNS formulas)) (VP (VBP are) (ADVP (RB then)) (VP (VBN denoted) (PP (IN by) (NP (NNS behaviours))))) (. .))
+(S (ADVP (RB Finally)) (NP (NNS proofs)) (VP (VBP are) (VP (VBN interpreted) (PP (IN as) (NP (NP (NNS designs)) (VP (VBG satisfying) (NP (JJ particular) (NNS properties))))))) (. .))

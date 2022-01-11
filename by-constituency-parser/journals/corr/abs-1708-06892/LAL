@@ -1,0 +1,2 @@
+(S (NP (NP (VBG Coding) (NNS schemes))) (VP (VBP are) (VP (VBN presented) (SBAR (WHNP (IN that)) (S (VP (VBP provide) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB correct) (CC and) (VB detect) (NP (JJ computational) (NNS errors)) (SBAR (IN while) (S (VP (VBG using) (NP (NN dot-product) (NNS engines)) (PP (IN for) (NP (NN integer) (NN vector) (: —) (JJ matrix) (NN multiplication))))))))))))))) (. .))
+(S (NP (DT Both) (NP (DT the) ($ $) (NNP L_1) ($ $) (CD -metric)) (CC and) (NP (DT the) (NNP Hamming) (JJ metric))) (VP (VBP are) (VP (VBN considered))) (. .))

@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ thorough) (NN evaluation)) (PP (IN of) (NP (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (NN knowledge) (NN distillation)))) (CC and) (NP (NP (PRP$ its) (NN dependence)) (PP (IN on) (NP (NN student) (CC and) (NN teacher) (NNS architectures)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN effect)) (VP (MD can) (VP (VB be) (VP (VBN mitigated) (PP (IN by) (S (VP (VBG stopping) (NP (NP (DT the) (NN teacher) (POS 's)) (NN training)) (ADVP (RB early))))))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VB generalize) (PP (IN across) (NP (NNS datasets) (CC and) (NNS models)))) (. .))

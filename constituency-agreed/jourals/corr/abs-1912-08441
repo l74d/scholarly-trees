@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ comprises) (NP (NP (DT a) (NN sentence) (NN encoder)) (CC and) (NP (JJ multiple) (NNS predictors)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP conduct) (NP (NP (JJ quantitative) (NNS analyses)) (CC and) (NP (DT a) (NN case) (NN study))) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness) (CC and) (NN robustness)) (PP (IN of) (NP (PRP$ our) (NN model)))))))) (. .))

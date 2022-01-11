@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNS methods)) (VP (VBP have) (VP (VBN been) (ADVP (RB previously)) (VP (VBN proposed) (S (VP (TO to) (VP (VP (VB solve) (NP (DT this) (NN problem))) (CC and) (VP (VB obtain) (NP (DT the) (JJ optimal) (NN model))))))))) (. .))
+(S (NP (JJ Extensive) (JJ empirical) (NNS studies)) (VP (VBP confirm) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

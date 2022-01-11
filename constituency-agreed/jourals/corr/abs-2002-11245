@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Additional) (NNS constraints)) (SBAR (WHNP (WDT that)) (S (VP (VBP introduce) (NP (NNS loops)))))) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN handled) (PP (IN by) (NP (DT the) (NN algorithm))) (PP (IN without) (S (VP (VBG incurring) (NP (JJ much) (JJ computational) (NN overhead)))))))) (. .))

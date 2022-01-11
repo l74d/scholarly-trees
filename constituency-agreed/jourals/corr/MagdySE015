@@ -1,0 +1,2 @@
+(S (NP (NNP Microblog) (NN classification)) (VP (VBZ has) (VP (VBN received) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN attention)))) (PP (IN in) (NP (JJ recent) (NNS years))))) (. .))
+(S (NP (NP (JJ Further) (NN investigation)) (PP (IN of) (NP (PRP$ our) (NN approach)))) (VP (VBZ shows) (NP (PRP$ its) (NN robustness)) (SBAR (WHADVP (WRB when)) (S (VP (VBN applied) (PP (PP (IN with) (NP (NP (JJ different) (NNS numbers)) (PP (IN of) (NP (NNS classes))))) (CC and) (PP (IN across) (NP (JJ different) (NNS languages)))))))) (. .))

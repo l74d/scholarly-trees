@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (, ,) (NP (NN dropout)) (VP (VBZ has) (VP (VBN seen) (NP (NP (VBG increasing) (NN use)) (PP (IN in) (NP (JJ deep) (NN learning)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (PRP$ its) (NN effect)) (PP (IN in) (S (VP (VBG pooling) (NP (NNS layers)))))) (VP (VBZ is) (ADVP (RB still)) (RB not) (ADJP (JJ clear))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN library)) (VP (VBN presented) (ADVP (RB here)))) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN become) (NP (NP (DT an) (JJ official) (NN implementation)) (PP (IN of) (NP (DT the) (NN nanopublication) (NN community)))))))))) (. .))
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (NP (DT the) (NNS features)) (PP (IN of) (NP (DT the) (NN library)))))) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN accessed) (PP (IN via) (NP (DT an) (JJ online) (NN validator) (NN interface)))))) (. .))

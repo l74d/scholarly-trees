@@ -1,0 +1,1 @@
+(S (ADVP (RB Interestingly)) (, ,) (NP (NP (DT a) (NN recognition) (NN rate)) (PP (IN of) (NP (CD 82.00) (NN %)))) (VP (VBD was) (VP (VBN achieved) (SBAR (WHADVP (WRB when)) (S (VP (VBG using) (NP (DT a) (JJ shallow) (NN classifier)) (PP (IN with) (NP (NP (JJ raw) (JJ acoustic) (NNS data)) (PP (IN as) (NP (NN input)))))))))) (. .))

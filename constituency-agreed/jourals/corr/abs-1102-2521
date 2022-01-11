@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ operates) (PP (IN over) (NP (NP (NN audit) (NNS logs)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP are) (ADJP (RB inherently) (JJ incomplete))) (CC and) (VP (VB evolve) (PP (IN over) (NP (NN time)))))))))) (. .))

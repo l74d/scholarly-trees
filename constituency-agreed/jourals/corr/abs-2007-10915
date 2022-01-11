@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (NN retrieval) (NN task)))) (PP (IN under) (NP (NP (NN power) (CC and) (NN bandwidth) (NNS constraints)) (PP (IN over) (NP (DT the) (JJ wireless) (NN link))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (JJ evolutionary) (NNS algorithms)) (VP (VBP are) (NP (JJ iterative) (NNS methods))))) (, ,) (NP (DT the) (JJ relative) (NN approximation) (NN error)) (VP (VBZ is) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (NNS generations))))) (. .))

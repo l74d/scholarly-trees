@@ -1,0 +1,2 @@
+(S (NP (DT This)) (ADVP (RB generally)) (VP (VBZ involves) (NP (NP (DT a) (JJ huge) (NN number)) (PP (IN of) (NP (NNS features))))) (. .))
+(S (NP (DT Some) (JJ semantic) (NN information)) (VP (VBZ is) (ADVP (RB nevertheless)) (ADVP (RB always)) (VP (VBN lost) (, ,) (SBAR (IN since) (S (NP (RB only) (NNS words)) (VP (VBP are) (VP (VBN considered))))))) (. .))

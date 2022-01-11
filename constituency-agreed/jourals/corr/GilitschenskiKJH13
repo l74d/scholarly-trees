@@ -1,0 +1,2 @@
+(S (NP (NP (JJS Most)) (PP (IN of) (NP (DT these) (NNS techniques)))) (VP (VBP assume) (NP (JJ Gaussian) (NNS distributions)) (S (VP (TO to) (VP (VB account) (PP (IN for) (NP (NP (NN system) (NN noise)) (CC and) (NP (JJ uncertain) (NNS measurements)))))))) (. .))
+(S (NP (DT This) (JJ distributional) (NN assumption)) (VP (VBZ does) (RB not) (VP (VB consider) (NP (NP (DT the) (JJ periodic) (NN nature)) (PP (IN of) (NP (NN pose) (CC and) (NN orientation) (NN uncertainty)))))) (. .))

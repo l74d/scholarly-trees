@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN data) (JJ stationary) (NN architecture)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (NN word)) (VP (VBZ has) (NP (DT an) (ADJP (JJ attached)) (NN address) (NN field))))))) (. .))
+(S (NP (NN Address) (NNS fields)) (ADVP (RB massively)) (VP (VB update) (PP (IN in) (NP (ADJP (JJ parallel) (PP (IN to) (NP (NN record) (NNS data)))) (NNS interchanges)))) (. .))
+(S (NP (NNS Words)) (VP (VBP do) (RB not) (VP (VB move) (SBAR (IN until) (S (NP (NN memory)) (VP (VBZ is) (VP (VBN read) (PP (IN for) (NP (NN post) (NN processing))))))))) (. .))
+(S (NP (NP (DT A) (NN sea)) (PP (IN of) (NP (JJ such) (NNS cells)))) (VP (MD can) (VP (VB test) (NP (NML (JJ large) (HYPH -) (NN scale)) (NN quantum) (NNS algorithms)) (, ,) (SBAR (IN although) (S (NP (JJ other) (NN programming)) (VP (VBZ is) (ADJP (JJ possible))))))) (. .))

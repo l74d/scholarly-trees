@@ -1,0 +1,7 @@
+(S (NP (NP (NAC (NNP Signal) (PP (TO to) (NP (NNP Noise)))) (NNP Ratio)) (PRN (-LRB- -LRB-) (NP (NNP SNR)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN index)) (PP (IN for) (NP (NN wireless) (NNS communications))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ many) (NNS methods)) (PP (IN for) (S (VP (VBG increasing) (NP (NNP SNR))))))) (. .))
+(S (PP (IN In) (NP (NNP CDMA) (NNS systems))) (, ,) (NP (VBG spreading) (NNS sequences)) (VP (VBP are) (VP (VBN used))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP consider) (NP (DT the) (JJ frequency-selective) (JJ wide-sense-stationary) (JJ uncorrelated-scattering) (PRN (-LRB- -LRB-) (NNP WSSUS) (-RRB- -RRB-)) (NN channel))) (CC and) (VP (VB evaluate) (NP (NP (DT the) (JJS worst) (NN case)) (PP (IN of) (NP (NNP SNR)))))) (. .))
+(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT the) (JJ non-linear) (NN programing)) (PP (IN for) (S (VP (VBG maximizing) (NP (NP (DT the) (JJR lower) (NN bound)) (PP (IN of) (NP (NP (DT the) (NN average)) (PP (IN of) (NP (NNP SNR))))))))))) (. .))
+(S (NP (DT This) (NN problem)) (VP (VBZ becomes) (NP (DT the) (NN convex) (VBG programming)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBD did) (RB not) (VP (VB take) (PP (IN into) (NP (NN account))) (NP (DT the) (NN norm) (NN constraint))))))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (JJ necessary) (NNS conditions)) (PP (IN for) (NP (JJ optimal) (NN spreading) (NNS sequences))) (PP (IN for) (NP (DT the) (NN problem))))) (. .))

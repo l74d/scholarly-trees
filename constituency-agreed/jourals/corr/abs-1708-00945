@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (JJ stochastic) (NN grammar) (NN model)) (S (VP (TO to) (VP (VB capture) (NP (NP (DT the) (JJ compositional) (NN structure)) (PP (IN of) (NP (NNS events)))) (, ,) (S (VP (VBG integrating) (NP (NP (JJ human) (NNS actions)) (, ,) (NP (NNS objects)) (, ,) (CC and) (NP (PRP$ their) (NNS affordances))))))))) (. .))

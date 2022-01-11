@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Several) (NN trial) (NNS models)) (PP (IN of) (NP (NNP SARIMA)))) (VP (VBD were) (VP (VBN compared) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (ADJP (RBS most) (JJ appropriate)) (NN model))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (JJ diagnostic) (NNS tests)) (VP (VBD were) (VP (VBN used) (S (VP (TO to) (VP (VB determine) (NP (NN model) (NN validity))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NP (NNP Hotelling) (POS 's)) (JJ celebrated) (NN paper)) (PP (IN in) (NP (CD 1929))))))) (. .))
+(S (NP (DT This)) (VP (VBZ yields) (NP (NP (DT a) (NN representation)) (PP (IN for) (NP (DT the) (NN equilibrium))))) (. .))

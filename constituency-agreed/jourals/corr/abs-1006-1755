@@ -1,0 +1,2 @@
+(S (NP (NN Emphasis)) (VP (VBZ is) (PP (IN on) (NP (NP (DT the) (NN equivalence)) (PP (IN of) (NP (NP (DT the) (JJ binary) (NNS sequences)) (VP (VBN obtained) (PP (IN from) (NP (NP (DT both) (NNS kinds)) (PP (IN of) (NP (NNS generators))))))))))) (. .))
+(S (NP (NP (DT The) (NN linearity)) (PP (IN of) (NP (DT these) (JJ cellular) (NNS models)))) (VP (MD can) (VP (VB be) (ADVP (RB advantageously)) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN cryptanalysis)) (PP (IN of) (NP (DT those) (JJ keystream) (NNS generators)))))))) (. .))

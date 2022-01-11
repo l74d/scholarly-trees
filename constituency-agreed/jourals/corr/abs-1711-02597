@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP model) (NP (NP (DT the) (JJ economic) (NNS incentives)) (PP (IN for) (NP (NP (NNS participants)) (PP (IN in) (NP (NN payment) (NN channel) (NNS networks))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP provide) (NP (NP (DT the) (JJ first) (JJ formal) (NN model)) (PP (IN of) (NP (NN payment) (NN channel) (NNS economics))))) (CC and) (VP (VB analyze) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJS cheapest) (NN path)) (VP (MD can) (VP (VB be) (VP (VBN found)))))))) (. .))

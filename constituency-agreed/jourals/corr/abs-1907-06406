@@ -1,0 +1,2 @@
+(S (NP (NN Image) (NN composition)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS applications)) (PP (IN in) (NP (NN image) (NN processing))))))) (. .))
+(S (NP (JJ Previous) (NNS approaches)) (VP (VBP have) (VP (VBN been) (VP (VBG focusing) (PP (IN on) (S (VP (VBG learning) (ADVP (RB directly)) (PP (IN by) (NP (DT the) (JJ neural) (NN network))))))))) (. .))

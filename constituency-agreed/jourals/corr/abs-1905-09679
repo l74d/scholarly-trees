@@ -1,0 +1,2 @@
+(S (NP (JJ Robotic) (NNS tasks)) (VP (MD can) (VP (VB be) (VP (VBN accomplished) (PP (IN by) (S (VP (VBG exploiting) (NP (NP (JJ different) (NNS forms)) (PP (IN of) (NP (NNS redundancies)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NN nullspace) (NN structure)) (PP (IN in) (NP (NNP MPC)))) (PP (IN with) (NP (NP (NP (DT a) (JJ quadratic) (NN approximation)) (PP (IN of) (NP (DT the) (NN cost)))) (CC and) (NP (NP (DT a) (NN linearization)) (PP (IN of) (NP (DT the) (NNS dynamics))))))) (. .))

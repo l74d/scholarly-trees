@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN task)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT a) (JJ pre-processing) (NN step)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT a) (NN trajectory)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (JJ several) (JJ meaningful) (JJ consecutive) (NNS sub-sequences)))))))))))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (VP (VBZ is) (ADJP (JJ flexible))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (JJ different) (NNS domains))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS constraints)) (VP (MD can) (VP (VB be) (VP (VBN maintained) (ADVP (RB efficiently)) (PP (IN during) (NP (NNP SGD))))))))) (. .))
+(S (ADVP (RB Incidentally)) (, ,) (NP (NNP Parseval) (NNS networks)) (ADVP (RB also)) (VP (VBP tend) (S (VP (TO to) (VP (VP (VB train) (ADVP (RBR faster))) (CC and) (VP (VB make) (NP (NP (DT a) (JJR better) (NN usage)) (PP (IN of) (NP (NP (DT the) (JJ full) (NN capacity)) (PP (IN of) (NP (DT the) (NNS networks))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Connections)) (PP (IN between) (NP (NP (NNS nodes)) (PP (IN of) (NP (ADJP (RB fully) (VBN connected)) (JJ neural) (NNS networks)))))) (VP (VBP are) (ADVP (RB usually)) (VP (VBN represented) (PP (IN by) (NP (NN weight) (NNS matrices))))) (. .))

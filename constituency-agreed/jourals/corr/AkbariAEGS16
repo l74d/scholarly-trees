@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN graph)) (VP (VBZ is) (ADJP (JJ equimatchable)) (SBAR (IN if) (S (NP (NP (DT all)) (PP (IN of) (NP (PRP$ its) (JJ maximal) (NNS matchings)))) (VP (VBP have) (NP (DT the) (JJ same) (NN size)))))) (. .))
+(S (NP (DT This) (NN characterization)) (VP (VBZ implies) (NP (DT an) (JJ efficient) (NN recognition) (NN algorithm))) (. .))

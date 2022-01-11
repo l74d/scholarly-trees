@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN point)) (PP (IN of) (NP (DT a) (JJ digital) (NN space)))) (VP (VBZ is) (VP (VBN called) (S (ADJP (JJ simple))) (SBAR (IN if) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN deleted) (PP (IN from) (NP (DT the) (NN space))) (PP (IN without) (S (VP (VBG altering) (NP (NN topology)))))))))))) (. .))
+(S (NP (DT The) (NN definition)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ contractible) (NNS spaces)) (CC and) (NP (JJ contractible) (NNS transformations)))))) (. .))

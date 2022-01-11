@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ deep) (JJ neural) (NN network)) (PP (IN for) (NP (VBN automated) (NN sarcasm) (NN detection))))) (. .))
+(S (NP (JJ Current) (NNS methods)) (VP (VBP have) (VP (VBN achieved) (NP (DT this)) (PP (IN by) (NP (NP (NN way)) (PP (IN of) (NP (JJ laborious) (NN feature) (NN engineering))))))) (. .))

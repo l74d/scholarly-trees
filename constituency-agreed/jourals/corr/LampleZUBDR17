@@ -1,0 +1,1 @@
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (PP (IN after) (NP (NN training))) (, ,) (NP (PRP$ our) (NN model)) (VP (MD can) (VP (VB generate) (NP (NP (JJ different) (JJ realistic) (NNS versions)) (PP (IN of) (NP (DT an) (NN input) (NN image)))) (PP (IN by) (S (VP (VBG varying) (NP (DT the) (NN attribute) (NNS values))))))) (. .))

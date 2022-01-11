@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NN model)) (VP (VBZ uses) (NP (JJ hard) (JJ binary) (JJ stochastic) (NNS decisions)) (S (VP (TO to) (VP (VB select) (NP (NP (DT the) (NNS timesteps)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (NNS outputs)) (VP (MD will) (VP (VB be) (VP (VBN produced))))))))))) (. .))

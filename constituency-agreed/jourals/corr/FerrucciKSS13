@@ -1,0 +1,1 @@
+(S (NP (NNP Apache) (NNP Hadoop)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ common) (NNS services)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (JJ parallel) (NNS applications)))))))))))) (. .))

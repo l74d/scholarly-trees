@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN action)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (DT an) (NN energy) (NN value)) (, ,) (NP (DT a) (NN reward)) (CC and) (NP (DT a) (NN cost)))))) (. .))
+(S (NP (NP (DT The) (NN sum)) (PP (IN of) (NP (NP (DT the) (NNS energies)) (PP (IN of) (NP (NP (DT the) (NNS actions)) (VP (VBN selected))))))) (VP (MD can) (RB not) (VP (VB exceed) (NP (DT a) (VBN given) (NN energy) (NN budget)))) (. .))

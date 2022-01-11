@@ -1,0 +1,2 @@
+(S (NP (NN Segmentation)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN task)) (PP (IN in) (NP (JJ medical) (NN image) (NN analysis))))) (. .))
+(S (NP (DT The) (JJ clinical) (NN interest)) (VP (VBZ is) (ADVP (RB often)) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN volume)) (PP (IN of) (NP (DT a) (NN structure)))))))) (. .))

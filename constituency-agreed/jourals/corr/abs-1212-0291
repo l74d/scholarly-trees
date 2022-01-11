@@ -1,0 +1,3 @@
+(S (NP (DT The) (VBN proposed) (NN technique)) (VP (VBZ comprises) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (CD four) (NNS filters)) (PP (JJ such) (IN as) (NP (NP (JJ homomorphic) (NN filtering)) (, ,) (NP (NN wavelet) (NN denoising)) (, ,) (NP (JJ bilateral) (NN filter)) (CC and) (NP (NN contrast) (NN equalization)))))))) (. .))
+(S (NP (DT The) (NN experimentation)) (VP (VBZ is) (VP (VBN carried) (PRT (RP out)) (PP (IN in) (NP (CD two) (NNS stages))))) (. .))
+(S (ADVP (RB Similarly)) (, ,) (NP (NP (JJ optimal) (NN filter) (NN bank)) (CC and) (NP (JJ optimal) (NN wavelet) (NN shrinkage) (NN function))) (VP (VBP are) (VP (VBN estimated) (PP (IN for) (NP (NN wavelet) (NN denoising))))) (. .))

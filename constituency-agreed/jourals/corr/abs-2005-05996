@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Many) (NN application) (NNS domains)) (PP (JJ such) (IN as) (NP (NP (NNP Big) (NNP Data)) (, ,) (NP (NNP Machine) (NNP Learning)) (, ,) (NP (NNP Robotics)) (, ,) (NP (NNP Computer) (NNP Vision))))) (VP (VBP are) (ADVP (RBR more) (RB commonly)) (VP (VBN developed) (PP (IN in) (NP (DT the) (NN python) (NN programming) (NN language))))) (. .))

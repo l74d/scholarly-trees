@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (MD can) (VP (VB be) (VP (VBN categorized) (PP (IN into) (NP (NP (CD two) (NNS approaches)) (: :) (NP (NP (NN feature) (NN transformation)) (CC and) (NP (JJ biometric) (NN cryptosystem)))))))) (. .))
+(S (ADVP (RB Meanwhile)) (, ,) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (JJ biometric) (NNS templates)))) (VP (VBZ is) (VP (VBN guaranteed) (PP (IN by) (S (VP (VBG employing) (NP (JJ fuzzy) (NN commitment) (NN protocol))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN task)) (VP (VBZ is) (S (VP (TO to) (VP (VB classify) (NP (NP (DT the) (NNS pixels)) (PP (IN of) (NP (NNS documents)))) (PP (IN into) (NP (NP (CD two) (NNS classes)) (: :) (NP (NP (NN background)) (CC and) (NP (JJ handwritten) (NN annotation))))))))) (. .))

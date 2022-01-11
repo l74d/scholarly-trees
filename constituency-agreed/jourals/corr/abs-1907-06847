@@ -1,0 +1,1 @@
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT the) (JJ quadratic) (NN convergence)) (PP (IN of) (NP (NP (NNP Newton) (POS 's)) (NNS iterates)))) (PP (IN along) (PP (IN with) (NP (JJ complementary) (JJ numerical) (NNS experiments))))) (. .))

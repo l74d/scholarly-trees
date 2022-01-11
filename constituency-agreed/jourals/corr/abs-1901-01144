@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN prediction) (NN process)) (VP (VBZ contains) (NP (CD two) (NNS phases))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN advantage)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ outperforms) (NP (JJ other) (NNS methods)) (PP (IN on) (S (VP (VBG fluctuating) (NP (JJ complex) (NNS data))))))))) (. .))

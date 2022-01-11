@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG covering) (NP (NP (DT the) (NN boundary)) (PP (IN of) (NP (DT a) (JJ simple) (NN polygon)))) (PP (IN on) (NP (NP (NN n) (NNS vertices)) (VP (VBG using) (NP (NP (DT the) (JJ minimum) (NN number)) (PP (IN of) (NP (JJ geodesic) (NN unit) (NNS disks)))))))))))) (. .))

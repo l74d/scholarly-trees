@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN lack)) (PP (IN of) (NP (NP (DT a) (JJ holistic) (NN understanding)) (PP (IN of) (NP (NNS objects)))))) (VP (MD may) (VP (VB increase) (NP (NN fragility) (CC and) (NN overfitting)))) (. .))
+(S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (JJ several) (NNS papers)) (VP (VBP have) (VP (VBN proposed) (S (VP (TO to) (VP (VB address) (NP (DT this) (NN issue)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (NNS occlusions)) (PP (IN as) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NNS data) (NN augmentation)))))))))))))) (. .))

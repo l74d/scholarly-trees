@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (JJ flexible)) (SBAR (IN because) (S (NP (PRP$ its) (NN capacity) (CC or) (NN robustness)) (VP (MD can) (VP (VB be) (VP (VBN improved) (PP (IN by) (S (VP (VBG modifying) (NP (DT some) (NNS parameters))))))))))) (. .))

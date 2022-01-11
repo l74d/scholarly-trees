@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP compute) (NP (NP (DT the) (NN transition) (NN probability)) (PP (IN between) (NP (CD two) (VBG learning) (NNS tasks))))) (, ,) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ decomposes) (PP (IN into) (NP (CD two) (NNS factors)))))))) (. .))
+(S (NP (DT The) (JJ second) (NN factor)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN ease)) (PP (IN of) (S (VP (VBG traversing) (NP (NP (DT the) (NN path)) (PP (IN between) (NP (CD two) (NNS tasks)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN uniformization)) (PP (IN of) (NP (DT a) (JJ binary) (NN relation)))) (VP (VBZ is) (NP (NP (DT a) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ is) (VP (VBN contained) (PP (IN in) (NP (DT the) (NN relation))))) (CC and) (VP (VBZ has) (NP (NP (DT the) (JJ same) (NN domain)) (PP (IN as) (NP (DT the) (NN relation)))))))))) (. .))

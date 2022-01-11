@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN aim)) (VP (VBZ is) (S (VP (TO to) (VP (VB estimate) (NP (NP (NP (DT the) (NN cardinality)) (PP (IN of) (NP (DT the) (NN graph)))) (CC and) (NP (NP (DT the) (NNS neighbours)) (PP (IN of) (NP (DT each) (NN node))))) (PP (IN by) (S (VP (VBG querying) (NP (NP (DT a) (JJ small) (NN portion)) (PP (IN of) (NP (PRP them))))))))))) (. .))

@@ -1,0 +1,3 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (NP (DT the) (NN model) (NN selection)) (PP (IN in) (NP (NNP SVM)))) (VP (VBZ involves) (NP (NP (DT the) (NN tuning)) (PP (IN of) (NP (DT these) (NNS parameters))))) (. .))
+(S (PP (IN From) (NP (DT this) (NN analysis))) (, ,) (NP (PRP we)) (VP (VBD proposed) (NP (DT a) (JJ novel) (NN search) (NN algorithm))) (. .))
+(S (NP (DT This)) (VP (VBZ reduces) (NP (DT the) (JJ computational) (NN time)) (ADVP (RB significantly))) (. .))

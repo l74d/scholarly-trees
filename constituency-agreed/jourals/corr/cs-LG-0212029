@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN theory)) (VP (VBZ indicates) (SBAR (WHADVP (RB precisely) (WRB how)) (S (NP (DT these) (VBG conflicting) (NNS demands)) (VP (MD must) (VP (VB be) (VP (VBN balanced) (, ,) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB minimize) (NP (NN cross-validation) (NN error)))))))))))) (. .))

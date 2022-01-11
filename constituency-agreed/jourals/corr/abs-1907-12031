@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ key) (NN idea)) (PP (IN for) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (DT the) (NNP RK) (NN collocation) (NN scheme)))))) (VP (VBZ is) (S (VP (TO to) (VP (VB compare) (NP (DT the) (NN collocation) (NN scheme)) (PP (IN with) (NP (NP (DT the) (JJ standard) (NNP Galerkin) (NN scheme)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ stable))))))))))) (. .))
+(S (NP (DT The) (JJ theoretical) (NNS results)) (VP (VBP are) (ADVP (RB then)) (VP (VBN validated) (PP (IN with) (NP (JJ numerical) (NNS experiments))))) (. .))

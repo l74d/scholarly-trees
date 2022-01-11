@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN instance))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ concurrent) (NNS sets))))) (. .))
+(S (NP (DT These) (CD two) (NNS invariants)) (VP (VBP are) (ADVP (RB always)) (VP (VBN maintained) (PP (IN at) (NP (NP (DT every) (NN point)) (PP (IN in) (NP (NN time))))))) (. .))
+(S (ADVP (RB Currently)) (, ,) (NP (NP (JJ multiple) (NNS implementations)) (PP (IN of) (NP (JJ concurrent) (NNS sets)))) (ADVP (RB already)) (VP (VBP exist)) (. .))
+(S (ADVP (RB Instead)) (NP (DT each) (NN implementation)) (VP (VP (VBZ ignores) (NP (VBN deleted) (NNS nodes))) (CC or) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN garbage) (NN collector)) (PP (IN of) (NP (DT the) (NN language))))) (S (VP (TO to) (VP (VB handle) (NP (PRP them))))))) (. .))

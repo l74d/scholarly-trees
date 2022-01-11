@@ -1,0 +1,2 @@
+(S (NP (NNS Lattices)) (VP (VBP have) (NP (NN topology))) (. .))
+(S (NP (NP (NNP Dowker) (POS 's)) (NNP Theorem)) (VP (VBZ establishes) (NP (NP (DT a) (NN homotopy) (NN equivalence)) (PP (IN between) (NP (NP (CD two) (JJ simplicial) (NNS complexes)) (VP (VBN derived) (PP (IN from) (NP (DT a) (NN relation)))))))) (. .))

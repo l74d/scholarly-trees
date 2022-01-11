@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP test) (NP (PRP$ our) (NN agent)) (PP (IN on) (NP (JJ simple) (NN gridworld) (NNS environments))) (S (VP (TO to) (VP (VB understand) (CC and) (VB visualize) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN agent)) (VP (VBZ distinguishes) (PP (IN between) (NP (PRP$ its) (NNS skills)))))))))) (. .))

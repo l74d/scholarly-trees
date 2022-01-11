@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus) (RB far)) (, ,) (NP (NN work)) (VP (VBZ has) (VP (VBN concentrated) (PP (IN on) (NP (NP (NNS models)) (PP (IN with) (NP (CD one) (NN covariance) (NN function))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP give) (NP (ADJP (JJ theoretical) (CC and) (JJ experimental)) (NNS results))) (CC and) (VP (VBP show) (SBAR (IN that) (S (PP (IN under) (NP (JJ certain) (NNS conditions))) (NP (DT the) (VBN proposed) (NN model)) (VP (VBZ has) (NP (NP (DT the) (JJ same) (JJ computational) (NN complexity)) (PP (IN as) (NP (NNP FIC))))))))) (. .))

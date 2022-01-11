@@ -1,0 +1,2 @@
+(S (NP (JJ Weighted) (NN voting) (NNS games)) (VP (VBP are) (ADVP (RB frequently)) (VP (VBN used) (PP (IN in) (NP (NN decision) (NN making))))) (. .))
+(S (S (NP (DT Each) (NN voter)) (VP (VBZ has) (NP (DT a) (NN weight)))) (CC and) (S (NP (DT a) (NN proposal)) (VP (VBZ is) (VP (VBN accepted) (SBAR (IN if) (S (NP (NP (DT the) (NN weight) (NN sum)) (PP (IN of) (NP (DT the) (VBG supporting) (NNS voters)))) (VP (VBZ exceeds) (NP (DT a) (NN quota)))))))) (. .))

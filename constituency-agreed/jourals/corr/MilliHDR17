@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN tradeoff)) (PP (IN between) (NP (NP (NP (DT the) (NN obedience)) (PP (IN of) (NP (DT a) (NN robot)))) (CC and) (NP (NP (DT the) (NN value)) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB attain) (PP (IN for) (NP (PRP$ its) (NN owner)))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP study) (SBAR (WHADVP (WRB how)) (S (NP (NNS robots)) (VP (MD can) (VP (VB start) (S (VP (VBG detecting) (NP (JJ such) (NN model) (NN misspecification))))))))) (. .))

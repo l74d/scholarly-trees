@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB do) (ADVP (RB so)) (PP (IN under) (NP (JJ various) (NNS assumptions))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (PP (IN for) (NP (NP (NNS inclusions)) (VP (VBG featuring) (NP (JJ strong) (NN monotonicity) (CC and) (NN cocoercivity))))) (, ,) (NP (JJ linear) (NN convergence)) (VP (VBZ is) (VP (VBN established))) (. .))

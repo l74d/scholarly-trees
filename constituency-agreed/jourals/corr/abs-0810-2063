@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (MD will) (VP (VB introduce) (NP (NP (DT a) (JJ stable) (NN placement)) (SBAR (WHNP (WDT that)) (S (VP (VBZ supports) (NP (NP (NP (JJR larger) (NN buffer) (NN width)) (PP (IN for) (NP (NNS peers)))) (CC and) (NP (NP (JJ small) (NN buffer) (NN width)) (PP (IN for) (NP (NN tracker))))))))))) (. .))
+(S (NP (NP (JJ Real) (VBN deployed) (NN placement) (NN method)) (PP (IN in) (NP (NNP PPLive)))) (VP (VBZ is) (VP (VBN studied) (PP (IN through) (NP (NN measurement))))) (. .))

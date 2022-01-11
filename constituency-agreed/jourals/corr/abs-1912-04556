@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG detecting) (NP (NP (DT an) (JJ accurate) (NN position)) (PP (IN of) (NP (NP (DT the) (JJ main) (NN entrance)) (PP (IN of) (NP (DT the) (NNS buildings)))))))))) (. .))
+(S (S (NP (DT The) (NN experiment) (NNS results)) (VP (VBP have) (VP (VBN shown) (NP (DT an) (JJ interesting) (NN result))))) (CC and) (S (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (JJ whole) (NN system)))) (VP (VBD was) (NP (CD one) (NN meter)))))

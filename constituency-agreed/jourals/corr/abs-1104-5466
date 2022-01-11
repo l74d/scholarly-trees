@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN book)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (DT the) (NN rigor) (CC and) (NN objectivity)) (PP (IN of) (NP (DT the) (NN compression) (NN principle)))) (VP (MD should) (VP (VB set) (NP (DT the) (NN stage)) (PP (IN for) (NP (NP (JJ systematic) (NN progress)) (PP (IN in) (NP (DT these) (NNS fields)))))))))) (. .))
+(S (NP (DT The) (NN book)) (ADVP (RB also)) (VP (VBZ considers) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN machine) (NN learning))))) (. .))

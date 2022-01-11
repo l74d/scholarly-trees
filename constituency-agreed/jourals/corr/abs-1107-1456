@@ -1,0 +1,2 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (JJ basic) (NNS issues)))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB answer) (NP (NP (NNS queries)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN posed) (PP (IN against) (NP (NN target) (NNS data))))))))))))) (. .))
+(S (NP (NP (JJ Several) (NNS semantics)) (PP (IN for) (NP (JJ non-monotonic) (NNS queries)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN in) (NP (DT the) (JJ past) (JJ few) (NNS years)))))) (. .))

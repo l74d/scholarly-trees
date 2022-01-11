@@ -1,0 +1,1 @@
+(S (S (NP (NP (CD One) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN attracted) (NP (DT some) (NN attention))))))) (VP (VBZ is) (NP (DT the) (NNP DAG) (NN automaton)))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN studied) (PP (IN as) (NP (DT a) (JJ probabilistic) (NN model))))))) (. .))

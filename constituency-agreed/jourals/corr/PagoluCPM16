@@ -1,0 +1,1 @@
+(S (S (VP (VBG Understanding) (NP (NP (NN author) (POS 's)) (NN opinion)) (PP (IN from) (NP (NP (DT a) (NN piece)) (PP (IN of) (NP (NN text))))))) (VP (VBZ is) (NP (NP (DT the) (NN objective)) (PP (IN of) (NP (NN sentiment) (NN analysis))))) (. .))

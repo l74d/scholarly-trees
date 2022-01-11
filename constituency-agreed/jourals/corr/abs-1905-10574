@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ triangular) (NNP Sylvester) (NN equation)) (VP (VBZ is) (VP (VBN solved) (PP (IN with) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (JJ backward) (NN substitution))))))) (. .))
+(S (NP (NN Overflow)) (VP (MD can) (VP (VB be) (VP (VBN avoided) (PP (IN by) (NP (NP (JJ dynamic) (NN scaling)) (PP (IN of) (NP (DT the) (NN solution) (NN matrix)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN program)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN represented) (PP (IN as) (NP (DT a) (NN word) (NN chain))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB exactly)) (NP (NP (DT a) (NN word) (NN chain)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ appears) (PP (IN as) (NP (DT the) (JJ lexical) (NN analyzer) (NN output)))) (CC and) (VP (VBZ is) (VP (VBN parsed)))))))) (. .))

@@ -1,0 +1,7 @@
+(S (NP (NP (DT The) (ADJP (NN accurate) (CC and) (JJ efficient)) (NN treatment)) (PP (IN of) (NP (NP (JJ eddy-current) (NNS problems)) (PP (IN with) (NP (NN movement)))))) (VP (VBZ is) (ADVP (RB still)) (NP (DT a) (NN challenge))) (. .))
+(S (NP (NP (ADJP (RB Very) (JJ few)) (NNS works)) (VP (VBG applying) (NP (NN reduced-order) (NNS models)))) (VP (VBP are) (ADJP (JJ available)) (PP (IN in) (NP (DT the) (NN literature)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ proper-orthogonal-decomposition) (NN reduced-order) (NN model)) (SBAR (S (VP (TO to) (VP (VB handle) (NP (NP (DT these) (NN kind)) (PP (IN of) (NP (JJ motional) (NNS problems)))))))))) (. .))
+(S (NP (NP (DT A) (JJ classical) (NN magnetodynamic) (JJ finite) (NN element) (NN formulation)) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ magnetic) (NN vector) (NN potential))))) (VP (VBZ is) (VP (VBN used) (UCP (PP (IN as) (NP (NN reference))) (CC and) (S (VP (TO to) (VP (VB build) (PRT (RP up)) (NP (DT the) (JJ reduced) (NNS models)))))))) (. .))
+(S (NP (CD Two) (NNS approaches)) (VP (VBP are) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (NNP TEAM) (NN workshop) (NN problem) (CD 28)) (VP (VBZ is) (VP (VBN chosen) (PP (IN as) (NP (NP (DT a) (NN test) (NN case)) (PP (IN for) (NP (NN validation))))))) (. .))
+(S (NP (NNS Results)) (VP (VBP are) (VP (VBN compared) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN accuracy)) (CC and) (NP (JJ computational) (NN cost)))))))) (. .))

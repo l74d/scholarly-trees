@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ main) (NN reason)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (NN ontology) (NN merging)) (VP (VBZ is) (RB not) (ADJP (JJ effective))))) (, ,)) (VP (VBZ is) (SBAR (IN that) (S (NP (NN ontology) (NN merging)) (VP (VBZ is) (VP (VBN performed) (PP (IN without) (S (VP (VBG considering) (NP (NNS goals)))))))))) (. .))
+(S (NP (NNS Goals)) (VP (VBP define) (NP (NP (DT the) (NN way)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNS ontologies)) (VP (TO to) (VP (VB be) (VP (VBN merged) (ADVP (RBR more) (RB effectively))))))))) (. .))

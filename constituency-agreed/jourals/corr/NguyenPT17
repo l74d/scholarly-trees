@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT the) (NN architecture))) (, ,) (NP (DT the) (JJ complex) (NN navigation) (NN task)) (VP (VBZ is) (VP (VBN split) (PP (IN into) (NP (JJ principal) (NNS sub-tasks) (CC or) (NNS behaviors))))) (. .))
+(S (NP (NP (DT The) (NN membership) (NNS functions)) (PP (IN of) (NP (DT all) (NNS controllers)))) (VP (VBP are) (ADVP (RB then)) (VP (VBN used) (PP (IN as) (NP (NP (DT the) (JJ objective) (NNS functions)) (PP (IN for) (NP (DT a) (JJ multi-objective) (NN optimization) (NN process))))) (S (VP (TO to) (VP (VB coordinate) (NP (DT all) (NNS behaviors))))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (NNS simulations) (, ,) (NNS comparisons) (, ,) (CC and) (NNS experiments)))) (VP (VBD were) (VP (VBN conducted))) (. .))

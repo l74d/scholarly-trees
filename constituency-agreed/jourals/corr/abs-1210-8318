@@ -1,0 +1,2 @@
+(S (NP (NP (NN Identification)) (PP (IN of) (NP (ADJP (RB deliberately) (VBN modified)) (JJ facial) (NNS images)))) (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN challenge)) (PP (IN for) (NP (NN face) (NN identification) (NN system))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP have) (VP (VBN been) (VP (VBN conducted) (PP (IN with) (NP (JJ real) (NN case) (NNS images))) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT both) (NNS methods)))))))))) (. .))

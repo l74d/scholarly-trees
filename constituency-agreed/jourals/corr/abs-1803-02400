@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ conventional) (JJ supervised) (NN training))) (, ,) (NP (DT a) (NN model)) (VP (VBZ is) (VP (VBN trained) (S (VP (TO to) (VP (VB fit) (NP (PDT all) (DT the) (NN training) (NNS examples))))))) (. .))
+(S (ADVP (RB However)) (, ,) (S (VP (VBG having) (NP (DT a) (JJ monolithic) (NN model)))) (VP (MD may) (RB not) (ADVP (RB always)) (VP (VB be) (NP (DT the) (JJS best) (NN strategy)) (, ,) (SBAR (IN as) (S (NP (NNS examples)) (VP (MD could) (VP (VB vary) (ADVP (RB widely)))))))) (. .))

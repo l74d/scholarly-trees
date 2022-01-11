@@ -1,0 +1,1 @@
+(S (NP (JJ Neural) (JJ abstractive) (NN summarization) (NNS models)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB generate) (NP (NP (NNS summaries)) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (NP (JJ high) (NN overlap)) (PP (IN with) (NP (JJ human) (NNS references))))))))))))) (. .))

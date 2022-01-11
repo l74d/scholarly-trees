@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS classifiers)) (VP (VBP have) (VP (VBN been) (VP (VBN evaluated) (PP (VBN based) (PP (IN on) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (ADJP (NN hand) (VBN labeled)) (NNS synsets))))))))) (. .))
+(S (NP (DT The) (JJ final) (NN sentiment) (NN lexicon)) (VP (VBZ has) (VP (VBN been) (VP (VBN generated) (PP (IN by) (NP (DT the) (JJS best) (NN classifier)))))) (. .))

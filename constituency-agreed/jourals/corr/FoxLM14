@@ -1,0 +1,3 @@
+(S (NP (NP (JJ Efficient) (NN use)) (PP (IN of) (NP (JJ multiple) (NNS batteries)))) (VP (VBZ is) (NP (NP (DT a) (JJ practical) (NN problem)) (PP (IN with) (NP (ADJP (JJ wide) (CC and) (VBG growing)) (NN application))))) (. .))
+(S (S (NP (NP (DT The) (NN construction)) (PP (IN of) (NP (NNS policies)))) (VP (VBZ is) (VP (VBN performed) (S (VP (VBG using) (NP (DT a) (NN classification) (NN approach))))))) (CC and) (S (NP (DT this) (NN idea)) (VP (VBZ offers) (NP (NP (NNS opportunities)) (PP (IN for) (NP (NP (JJR wider) (NN exploitation)) (PP (IN in) (NP (JJ other) (NNS problems)))))))) (. .))
+(S (NP (NP (DT The) (NN approach)) (CC and) (NP (PRP$ its) (NN generality))) (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (DT the) (NN paper))))) (. .))

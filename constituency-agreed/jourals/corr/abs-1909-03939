@@ -1,0 +1,1 @@
+(S (S (NP (JJ Previous) (NNS works)) (VP (VBP consider) (NP (JJ deterministic) (NN value) (NNS gradients)) (PP (IN with) (NP (DT the) (JJ finite) (NN horizon))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB too) (JJ myopic)) (PP (VBN compared) (PP (IN with) (NP (JJ infinite) (NN horizon)))))) (. .))

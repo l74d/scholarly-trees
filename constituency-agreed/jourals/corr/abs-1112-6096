@@ -1,0 +1,2 @@
+(S (NP (NNP Gecode)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ efficient)) (NNS libraries)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN constraint) (NN solving)))))))))))) (. .))
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (NP (NP (JJ several) (NNS formats)) (PP (IN for) (S (VP (VBG representing) (NP (NN constraint) (NNS networks)))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (ADJP (RB Commercially) (JJ available)) (NNS systems)) (VP (VBP suffer) (PP (IN from) (NP (ADJP (RB unacceptably) (JJ high)) (JJ false) (NN alarm) (NNS rates)))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ significant) (NN finding)) (SBAR (IN because) (S (NP (DT the) (NNP Duke) (NN corpus)) (VP (VBD was) (VP (VBN collected) (PP (PP (IN with) (NP (JJ different) (NN instrumentation))) (CC and) (PP (IN at) (NP (JJ different) (NNS hospitals))))))))) (. .))

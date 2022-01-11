@@ -1,0 +1,3 @@
+(S (S (NP (DT This) (JJ covert) (NN channel)) (VP (VBZ is) (ADJP (JJ invisible)))) (CC and) (S (NP (PRP it)) (VP (VBZ works) (SBAR (RB even) (IN while) (S (NP (DT the) (NN user)) (VP (VBZ is) (VP (VBG working) (PP (IN on) (NP (DT the) (NN computer))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (JJ related) (NN work))) (CC and) (VP (VB discuss) (NP (NP (DT the) (ADJP (JJ technical) (CC and) (JJ scientific)) (NN background)) (PP (IN of) (NP (DT this) (JJ covert) (NN channel)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD tested) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NN camera) (NNS receivers)))) (S (VP (TO to) (VP (VB demonstrate) (NP (DT the) (JJ covert) (NN channel)))))) (. .))

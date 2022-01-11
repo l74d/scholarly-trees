@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (PRP we)) (VP (VBP demonstrate)))) (, ,) (NP (DT this) (JJ novel) (NN language)) (VP (VBZ allows) (PP (IN for) (S (VP (VBG expressing) (NP (DT some) (JJ nontrivial) (NN planning) (NNS tasks)) (PP (IN in) (NP (DT a) (JJ declarative) (NN way))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP report) (NP (NP (JJ experimental) (NNS results)) (PP (IN on) (NP (VBN selected) (NNS problems))))) (. .))

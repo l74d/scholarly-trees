@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS derivatives)) (PP (IN of) (NP (DT that) (NN regularizer)))) (VP (VBP are) (ADVP (RB exclusively)) (VP (VBN based) (PP (IN on) (NP (DT the) (NN training) (NN error) (NN signal))))) (. .))

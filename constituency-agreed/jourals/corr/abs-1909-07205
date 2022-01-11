@@ -1,0 +1,2 @@
+(S (NP (JJ Compliant) (NN actuation)) (VP (MD may) (VP (VB reduce) (NP (NNS forces)) (PP (IN during) (NP (NNS collisions))) (, ,) (S (ADVP (RB thus)) (VP (VBG protecting) (NP (NN hardware) (CC and) (NN user)))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (JJ mechanical) (NN impulse)) (VP (VBD was) (VP (VBN reduced) (PP (IN by) (NP (NP (DT a) (NN factor)) (PP (IN of) (NP (CD three))))))) (. .))

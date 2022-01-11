@@ -1,0 +1,2 @@
+(S (NP (NNP Scrum) (NN model)) (VP (VBZ has) (NP (NP (JJ certain) (NNS limitations)) (, ,) (PP (JJ such) (IN as) (S (VP (VBN lacked) (PP (IN in) (NP (NN engineering) (NNS practices)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN achieved) (PP (IN by) (S (VP (VBG proposing) (NP (DT an) (NN eXScrum) (NN model))))))) (. .))

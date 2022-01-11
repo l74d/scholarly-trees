@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (NNS queries)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN in) (NP (JJ polynomial) (NN time)))))))))) (. .))

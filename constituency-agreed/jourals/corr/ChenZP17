@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Interactions)) (PP (IN between) (NP (NNS vehicles) (CC and) (NNS pedestrians)))) (VP (VBP have) (ADVP (RB always)) (VP (VBN been) (NP (NP (DT a) (JJ major) (NN problem)) (PP (IN in) (NP (NN traffic) (NN safety)))))) (. .))
+(S (NP (DT A) (NN simulation)) (VP (VBD was) (ADVP (RB then)) (VP (VBN conducted) (S (VP (TO to) (VP (VB demonstrate) (NP (DT the) (NN evaluation) (NN procedure))))))) (. .))

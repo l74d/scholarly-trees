@@ -1,0 +1,1 @@
+(S (PP (IN With) (NP (JJ supervised) (NN learning))) (, ,) (NP (JJ multiple) (NNS classifiers)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN needed) (PP (VBN given) (NP (DT these) (ADJP (RB partially) (VBN annotated)) (NNS datasets))))) (. .))

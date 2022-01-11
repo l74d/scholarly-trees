@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (NP (JJ considerable) (NNS factors)) (CC and) (NP (NP (PRP$ their) (NNS impacts)) (PP (IN on) (NP (NN query) (NN efficiency))))) (VP (VBP have) (VP (VBN been) (VP (VBN investigated)))))) (, ,) (NP (DT this) (NN problem)) (ADVP (RB still)) (VP (VBZ needs) (NP (JJ further) (NN investigation))) (. .))
+(S (NP (DT A) (NN query)) (VP (VBZ is) (VP (VBN decomposed) (PP (IN into) (NP (NP (NNS subqueries)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN answered) (PP (IN without) (NP (NN inter-partition) (NN processing)))))))))))) (. .))

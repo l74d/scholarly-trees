@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VP (VBZ allows) (PP (IN for) (NP (NP (DT a) (JJ quadratic) (NN improvement)) (PP (IN in) (NP (NN search) (NN complexity)))))) (, ,) (CC and) (VP (VBZ makes) (S (NP (DT the) (NN method)) (ADJP (JJ scalable) (PP (IN in) (S (VP (VBG handling) (NP (JJ large) (NN search) (NNS spaces))))))))) (. .))

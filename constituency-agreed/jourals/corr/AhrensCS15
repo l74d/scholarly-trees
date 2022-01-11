@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN conjecture)) (VP (VBZ says) (SBAR (IN that) (S (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (JJ inductive) (NNS types))))) (, ,) (NP (JJ coinductive) (NNS types)) (VP (VBP are) (ADJP (JJ derivable)))))) (. .))

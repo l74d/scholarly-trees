@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ same) (NN operation)) (VP (VBZ is) (VP (VBN performed) (ADVP (RB repeatedly)) (PP (IN for) (NP (JJ different) (NN block) (NNS sizes))) (PP (IN as) (PP (IN per) (NP (NP (DT the) (NN specification)) (PP (IN of) (NP (DT a) (NN session) (NN key)))))) (S (VP (TO to) (VP (VB generate) (NP (DT the) (JJ final) (VBN encrypted) (NN stream))))))) (. .))

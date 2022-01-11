@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN pipeline)) (VP (VBZ invokes) (NP (JJ deep) (NN learning) (NN inference)) (PP (IN at) (NP (CD three) (NNS stages))) (: ;) (PP (IN during) (NP (NP (JJ deep) (NN feature) (NN extraction)) (, ,) (NP (JJ deep) (JJ metric) (NN mapping)) (, ,) (CC and) (NP (JJ deep) (JJ semantic) (NN segmentation))))) (. .))

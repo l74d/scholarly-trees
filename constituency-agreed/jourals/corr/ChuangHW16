@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT the) (NN classifier))) (, ,) (NP (DT an) (JJ unsupervised) (NN clustering) (NN approach)) (VP (VBZ generates) (NP (NP (DT a) (JJ binary) (NN class) (NN hierarchy)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN node)) (VP (VBZ is) (NP (DT a) (NN classifier))))))) (. .))

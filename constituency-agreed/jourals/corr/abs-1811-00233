@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many) (NN prediction) (NNS approaches)) (SBAR (WHNP (WDT that)) (S (VP (VBP include) (S (VP (VBG understanding) (NP (NP (DT the) (NN environment)) (CC and) (NP (DT the) (JJ internal) (NN state))))))))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NNS datasets)) (VP (VBN used) (S (VP (TO to) (VP (VB evaluate) (NP (NN path) (NN prediction) (NNS methods)) (ADVP (RB quantitatively)))))))) (. .))

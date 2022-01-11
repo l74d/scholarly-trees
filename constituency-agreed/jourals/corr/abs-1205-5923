@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN contour)) (VP (VBZ is) (VP (VBN divided) (PP (IN into) (NP (NP (NNS curves)) (VP (VBG using) (NP (NN corner) (NN detection))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (S (VP (VBG using) (NP (DT the) (JJ dynamic) (NN programming)))) (, ,) (NP (PRP we)) (VP (VBP find) (NP (NP (DT the) (JJ optimal) (NN alignment)) (PP (IN between) (NP (NP (NNS sequences)) (PP (IN of) (NP (NNS symbols))))))) (. .))

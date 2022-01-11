@@ -1,0 +1,2 @@
+(S (NP (NNS Functors) (CC and) (NNS monads)) (VP (VBP are) (PP (IN at) (NP (NP (DT the) (NN core)) (PP (IN of) (NP (NP (JJ many) (NNS applications)) (PP (IN of) (NP (JJ functional) (NN programming)))))))) (. .))
+(S (NP (NP (DT The) (JJ functorial) (NN map)) (PP (IN of) (NP (JJ many) (JJ important) (NNS monads)))) (VP (VBZ preserves) (NP (JJ extensional) (NN equality))) (. .))

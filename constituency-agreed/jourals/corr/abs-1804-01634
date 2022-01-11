@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ typical) (NN issue)) (VP (VBZ is) (NP (DT the) (NN timing) (NN channel))) (. .))
+(S (NP (NP (DT This) (NN kind)) (PP (IN of) (NP (NN channel)))) (VP (MD can) (VP (VB be) (NP (DT a) (JJ cross-VM) (NN information) (NN channel)) (, ,) (SBAR (IN as) (S (VP (VBN proven) (PP (IN by) (NP (JJ many) (NNS researchers)))))))) (. .))
+(S (S (NP (PRP We)) (VP (VBD studied) (NP (CD four) (JJ typical) (NN timing) (NNS channels)))) (, ,) (CC and) (S (NP (DT the) (NNS experiments)) (VP (VBD showed) (SBAR (IN that) (S (NP (DT these) (NNS channels)) (VP (MD can) (VP (VB be) (VP (VBN detected) (CC and) (VBN investigated) (, ,) (PP (ADVP (RB even)) (IN with) (NP (NP (NNS disturbances)) (PP (IN from) (NP (JJ normal) (NNS processes)))))))))))) (. .))

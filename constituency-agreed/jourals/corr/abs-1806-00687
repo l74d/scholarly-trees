@@ -1,0 +1,2 @@
+(S (NP (JJ Several) (ADJP (RB asymptotically) (JJ optimal) (PP (IN by) (NP (NP (DT the) (NN order)) (PP (IN of) (NP (NN magnitude)))))) (NN synthesis) (NNS methods)) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (NP (DT Some) (NN circuit) (POS 's)) (NN complexity) (NN reduction) (NNS approaches)) (VP (VBP are) (VP (VBN considered))) (. .))

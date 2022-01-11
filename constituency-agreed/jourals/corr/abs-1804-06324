@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ unsupervised) (NN depth) (NN computation))) (, ,) (NP (DT the) (NN disparity) (NNS images)) (VP (VBP are) (VP (VBN generated) (PP (IN by) (S (VP (VBG training) (NP (DT the) (NNP CNN)) (PP (IN with) (NP (DT an) (NN image) (NN reconstruction) (NN loss)))))))) (. .))

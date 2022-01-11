@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN majority)) (PP (IN of) (NP (DT the) (VBG existing) (NN literature)))) (VP (VBZ investigates) (NP (NP (DT this) (NN problem)) (PP (IN for) (NP (NP (NNS robots)) (PP (IN with) (NP (JJ unobstructed) (NN visibility))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NNS robots)) (VP (VBP operate) (PP (IN under) (NP (DT a) (ADJP (RB fully) (JJ asynchronous)) (NN scheduler)))) (. .))

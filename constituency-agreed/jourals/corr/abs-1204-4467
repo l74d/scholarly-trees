@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN job)) (VP (VBZ requires) (NP (NP (DT the) (JJ concurrent) (NN usage)) (PP (IN of) (NP (DT some) (NNS resources)))) (S (VP (TO to) (VP (VB be) (VP (VBN processed)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT each) (NN task)) (VP (MD may) (VP (VB require) (SBAR (IN that) (S (NP (NP (DT some) (NN portion)) (PP (IN of) (NP (PRP$ its) (NNS tasks)))) (VP (TO to) (VP (VB be) (VP (VBN completed) (PP (IN on) (NP (NN time)))))))))) (. .))

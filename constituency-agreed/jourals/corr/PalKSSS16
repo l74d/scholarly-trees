@@ -1,0 +1,2 @@
+(S (NP (NP (DT This) (NN limitation)) (PP (IN of) (NP (NN information)))) (VP (VBZ is) (NP (NP (JJ main) (NN flaw)) (PP (IN of) (NP (DT the) (JJ supervised) (NN approach))))) (. .))
+(S (NP (JJ Trivial) (NN filtering) (NN method)) (VP (VBZ is) (VP (VBN utilized) (S (VP (TO to) (VP (VB achieve) (NP (JJ appropriate) (NN training) (NNS data))))))) (. .))

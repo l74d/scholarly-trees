@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN package) (NN dependency)) (VP (VBZ contains) (NP (NP (NNS dependencies)) (PP (IN between) (NP (NP (DT all) (NNS packages)) (VP (VBN required) (S (VP (TO to) (VP (VB build) (CC and) (VB run) (NP (DT the) (NN target) (NN software)))))))))) (. .))

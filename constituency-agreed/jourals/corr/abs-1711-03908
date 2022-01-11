@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG estimating) (NP (NP (JJ finite) (NN sample) (NN confidence) (NNS intervals)) (PP (IN of) (NP (NP (DT the) (NN mean)) (PP (IN of) (NP (DT a) (JJ normal) (NN population)))))) (PP (IN under) (NP (NP (DT the) (NN constraint)) (PP (IN of) (NP (JJ differential) (NN privacy)))))))))) (. .))

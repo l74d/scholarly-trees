@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN instance))) (, ,) (NP (JJ semantic) (NN segmentation)) (VP (VBZ requires) (NP (NP (JJ additional) (NNS components)) (PP (JJ such) (IN as) (NP (NP (JJ dilated) (NNS convolutions)) (CC and) (NP (JJ multiscale) (NN processing)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ common) (NN reason)) (PP (IN for) (NP (NN unrealizability)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (NNS assumptions)) (PP (IN on) (NP (NP (DT the) (NN environment)) (PP (IN of) (NP (DT the) (NN system)))))) (VP (VBP are) (ADJP (JJ incomplete)))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ operates) (PP (IN on) (NP (NP (DT the) (NN game) (NN graph)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB answer) (NP (DT the) (NN realizability) (NN question)))))))))))) (. .))

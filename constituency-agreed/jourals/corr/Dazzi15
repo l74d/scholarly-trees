@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (JJ algorithmic) (NNS skeletons)) (VP (VBD were) (ADVP (RB first)) (VP (VBN introduced) (PP (IN by) (NP (NNP Cole))) (PP (IN in) (NP (JJ late) (CD 1980))))))) (NP (DT the) (NN idea)) (VP (VBD had) (NP (DT an) (ADJP (RB almost) (JJ immediate)) (NN success))) (. .))
+(S (NP (NP (NNP Cole)) (CC and) (NP (JJ other) (NNS researchers))) (, ,) (VP (VBD focused) (NP (DT the) (NN problem))) (. .))

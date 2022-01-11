@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN logic)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ concurrent) (NN separation) (NN logic))))) (. .))
+(S (NP (JJ Concurrent) (NNS reads)) (VP (VBP are) (VP (VBN supported) (PP (IN through) (NP (JJ fractional) (NNS permissions))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB stabilize) (NP (DT the) (JJ overall) (NN training) (NN process))))) (, ,) (NP (PRP$ our) (NN model)) (VP (VBZ uses) (NP (DT an) (NN error) (NN feedback) (NN approach)) (S (VP (TO to) (VP (VB maintain) (NP (NP (DT the) (NN equilibrium)) (PP (IN between) (NP (NP (VBG competing) (NNS networks)) (PP (IN in) (NP (DT the) (NN model)))))))))) (. .))

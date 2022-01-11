@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS features)) (VP (VBN extracted) (PP (IN by) (NP (JJ single) (NN size) (NNS filters))))) (VP (VBP are) (ADJP (JJ insufficient) (PP (IN for) (S (VP (VBG building) (NP (NP (JJ discriminative) (NN representation)) (PP (IN of) (NP (NNS audios))))))))) (. .))

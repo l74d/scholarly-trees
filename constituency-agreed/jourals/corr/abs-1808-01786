@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ new) (NN algorithm)) (VP (VBZ has) (NP (JJ several) (NNS advantages))) (. .))
+(S (S (PP (IN As) (NP (DT a) (JJ dual) (NN algorithm))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ sequential)))) (: :) (S (PP (IN in) (NP (DT each) (NN iteration))) (NP (PRP it)) (VP (VP (VBZ produces) (NP (DT an) (JJ extremal) (NN solution))) (, ,) (ADVP (RB thus)) (VP (MD can) (VP (VB be) (VP (VBN aborted) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ satisfactory) (NN solution)) (VP (VBZ is) (VP (VBN found)))))))))) (. .))

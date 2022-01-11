@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ iterative) (NNS methods)) (VP (VBP tend) (S (VP (TO to) (VP (VB have) (NP (ADJP (RB significantly) (JJR higher)) (JJ computational) (NN complexity)))))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this))))) (, ,) (NP (NP (JJ parallel) (NN processing) (NNS schemes)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB utilise) (NP (JJ several) (VBG computing) (NNS nodes))))))) (VP (VBP are) (ADJP (JJ desirable))) (. .))

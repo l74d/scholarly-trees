@@ -1,0 +1,1 @@
+(S (PP (IN Under) (NP (JJ strong) (NN convexity) (NNS assumptions))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ converges) (ADVP (RB linearly)))))) (. .))

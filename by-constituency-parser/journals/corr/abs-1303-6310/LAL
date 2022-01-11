@@ -1,0 +1,4 @@
+(S (NP (JJ Swarm) (NN intelligence)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB very) (JJ powerful)) (NN technique)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN optimization) (NNS purposes)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN swarm) (NN intelligence) (NN algorithm)) (, ,) (PP (VBN based) (PP (IN on) (NP (DT the) (NN bat) (NN algorithm)))))) (. .))
+(S (NP (DT The) (NNP Bat) (NN algorithm)) (VP (VBZ is) (VP (VBN hybridized) (PP (IN with) (NP (JJ differential) (NN evolution) (NNS strategies))))) (. .))
+(S (PP (IN Besides) (S (VP (VBG showing) (NP (NP (ADJP (RB very) (JJ promising)) (NNS results)) (PP (IN of) (NP (DT the) (JJ standard) (NN benchmark) (NNS functions))))))) (, ,) (NP (DT this) (NN hybridization)) (ADVP (RB also)) (VP (ADVP (RB significantly)) (VBZ improves) (NP (DT the) (JJ original) (NN bat) (NN algorithm))) (. .))

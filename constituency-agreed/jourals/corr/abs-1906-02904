@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN focus)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (NP (NP (DT the) (NN market) (NN implementation)) (PP (IN of) (NP (JJ such) (NNS services))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (NP (NP (DT the) (NNS strengths)) (PP (IN of) (NP (DT the) (NNP MAMD) (NNS services)))) (PP (IN by) (NP (NN simulation)))) (. .))

@@ -1,0 +1,2 @@
+(S (S (VP (VBG Improving) (NP (NN sample) (NN efficiency)))) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (JJ longstanding) (NN goal)) (PP (IN in) (NP (NN reinforcement) (NN learning)))))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (JJ extensive) (NNS experiments)) (S (VP (TO to) (VP (VB show) (SBAR (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ outperforms) (NP (ADJP (NN state) (HYPH -) (IN of) (HYPH -) (DT the) (HYPH -) (NN art)) (NN policy) (NN gradient) (NNS methods)) (PP (IN in) (NP (JJ various) (NNS settings)))))))))) (. .))

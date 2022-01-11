@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ is) (ADJP (RB particularly) (JJ challenging)) (SBAR (WHADVP (WRB when)) (S (NP (VBN proposed) (NNS interventions)) (VP (VBP are) (ADJP (JJ novel) (CC and) (JJ expensive)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ neural) (NN network) (NNS models)) (VP (VBN trained) (S (VP (TO to) (VP (VB predict) (NP (NN agent) (NNS returns)) (PP (IN on) (NP (NN baseline) (NNS environments)))))))) (VP (VBP are) (ADJP (JJ effective) (PP (IN at) (S (VP (VBG selecting) (PP (IN among) (NP (DT the) (NNS interventions))))))))))) (. .))

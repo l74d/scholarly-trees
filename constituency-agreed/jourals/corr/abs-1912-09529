@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Many) (NN control) (NNS policies)) (VP (VBN used) (PP (IN in) (NP (JJ various) (NNS applications))))) (VP (VBP determine) (NP (DT the) (NN input) (CC or) (NN action)) (PP (IN by) (S (VP (VBG solving) (NP (NP (DT a) (NN convex) (NN optimization) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (JJ current) (NN state)) (CC and) (NP (DT some) (NNS parameters)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NN method)) (PP (IN on) (NP (JJ several) (NNS examples)))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT Each) (NN composition)) (VP (MD may) (VP (VB introduce) (NP (DT an) (JJ additional) (NN expectation)))) (. .))
+(S (NP (NP (DT The) (NN series)) (PP (IN of) (NP (NNS expectations)))) (VP (MD may) (VP (VB be) (VP (VBN nested)))) (. .))
+(S (NP (JJ Stochastic) (JJ compositional) (NN optimization)) (VP (VBZ is) (VP (VBG gaining) (NP (NN popularity)) (PP (IN in) (NP (NP (NNS applications)) (PP (JJ such) (IN as) (NP (NP (NN reinforcement) (NN learning)) (CC and) (NP (NN meta) (NN learning)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Currently)) (, ,) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB choose) (NP (DT the) (NNS parameters)) (ADVP (RB adaptively)) (PP (IN for) (NP (NN regularization))))))) (VP (VBZ is) (NP (DT a) (JJ major) (JJ open) (NN problem))) (. .))

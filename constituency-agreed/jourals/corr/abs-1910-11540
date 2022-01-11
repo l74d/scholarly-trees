@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ proves) (SBAR (IN that) (S (NP (DT the) (NN rate)) (VP (VBZ is) (VP (VBN governed) (PP (IN by) (NP (NNP Ddim)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ proves) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (ADVP (RB also)) (VP (VBN governed) (PP (IN by) (NP (NNP Ddim)))))))) (. .))

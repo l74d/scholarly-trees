@@ -1,0 +1,1 @@
+(NP (NP (DT A) (ADJP (RB very) (JJ simple)) (NN idea)) (: :) (S (NP (PRP we)) (VP (VP (VBP decompose) (NP (DT the) (NNS parameters)) (PP (IN into) (NP (CD two) (NNS components)))) (CC and) (VP (VB regularize) (NP (DT these)) (ADVP (RB differently))))) (. .))

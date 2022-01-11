@@ -1,0 +1,3 @@
+(S (NP (NNP CDCL)) (VP (VP (VBZ uses) (NP (NP (JJ systematic) (NN exploration)) (PP (IN of) (NP (DT the) (NN search) (NN space))))) (CC and) (VP (VBZ has) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB learn) (NP (JJ new) (NNS clauses)))))))) (. .))
+(S (NP (NNP SLS)) (VP (VBZ examines) (NP (NP (DT the) (NN neighborhood)) (PP (IN of) (NP (DT the) (JJ current) (JJ complete) (NN assignment))))) (. .))
+(S (PP (IN Unlike) (NP (NNP CDCL))) (, ,) (NP (PRP it)) (VP (VBZ lacks) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB learn) (PP (IN from) (NP (PRP$ its) (NNS mistakes)))))))) (. .))

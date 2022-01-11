@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ trichromatic) (JJ graphical) (NN calculus)) (PP (IN for) (NP (NN quantum) (NN computing))))) (. .))
+(S (NP (DT The) (NNS generators)) (VP (VBP represent) (NP (NP (CD three) (JJ complementary) (NNS observables)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN treated) (PP (IN on) (NP (JJ equal) (NN footing))) (, ,) (S (ADVP (RB hence)) (VP (VBG reflecting) (NP (NP (DT the) (NNS symmetries)) (PP (IN of) (NP (DT the) (NNP Bloch) (NN sphere)))))))))))) (. .))

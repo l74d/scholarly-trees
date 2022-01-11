@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paradigm)) (VP (VBZ is) (VP (VBG evolving))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (S (VP (VBG sparsifying) (NP (DT the) (JJ optimal) (NN graph)))) (VP (MD can) (ADVP (RB potentially)) (VP (VB improve) (NP (NN classification) (NN performance))))))) (. .))

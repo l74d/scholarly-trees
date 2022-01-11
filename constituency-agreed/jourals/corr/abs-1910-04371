@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT each) (NN iteration))) (, ,) (NP (DT the) (NN algorithm)) (VP (VP (VBZ chooses) (NP (JJ few) (JJ unlabeled) (NNS data) (NNS points))) (CC and) (VP (VBZ obtains) (NP (PRP$ their) (NNS labels)) (PP (IN from) (NP (DT an) (NN oracle))))) (. .))

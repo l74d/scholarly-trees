@@ -1,0 +1,2 @@
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN addressed) (PP (IN in) (NP (DT this) (NN paper))) (PP (IN from) (NP (NP (DT the) (NN perspective)) (PP (IN of) (NP (NN representation) (NN learning))))))) (. .))
+(S (PP (IN For) (NP (DT the) (JJ second) (NN issue))) (, ,) (NP (PRP we)) (VP (VBP exploit) (NP (NP (DT the) (JJ temporal) (NN continuity)) (PP (IN in) (NP (NP (DT each) (NN camera)) (PP (IN of) (NP (NN target) (NN domain)))))) (S (VP (TO to) (VP (VB create) (NP (JJ discriminative) (NN information)))))) (. .))

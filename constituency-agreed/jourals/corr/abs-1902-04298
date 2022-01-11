@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ descriptive) (NNS statistics)) (PP (IN of) (NP (NP (JJ several) (NNS snapshots)) (PP (IN of) (NP (DT this) (NN network))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ several) (NN research) (NNS opportunities)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN explored) (S (VP (VBG using) (NP (DT this) (JJ new) (NN dataset))))))))))) (. .))

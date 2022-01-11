@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NNS enterprises)) (VP (VBP deploy) (NP (JJ multiple) (NNS firewalls))))) (, ,) (NP (DT a) (NN packet)) (VP (MD may) (VP (VB be) (VP (VBN examined) (PP (IN by) (NP (NP (JJ different) (NNS sets)) (PP (IN of) (NP (NNS firewalls)))))))) (. .))

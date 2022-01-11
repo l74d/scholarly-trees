@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP VSP) (NN algorithm)) (VP (VBZ is) (VP (VBN developed) (PP (IN under) (NP (DT the) (JJ Bayesian) (NN framework))))) (. .))
+(S (NP (DT The) (NNS hyperparameters)) (VP (MD can) (VP (VB be) (VP (VBN updated) (PP (IN within) (NP (DT the) (NN iteration) (NN process)))))) (. .))

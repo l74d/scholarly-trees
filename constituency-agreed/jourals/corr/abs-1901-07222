@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ poses) (NP (NP (DT a) (NN challenge)) (PP (IN on) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (JJ pre-trained) (NNS models)) (VP (VBN obtained) (PP (IN from) (NP (JJ supervised) (NNS approaches)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN approach))) (, ,) (S (NP (DT a) (NN test) (NN image)) (VP (VBZ is) (VP (VBN analyzed) (PP (IN over) (NP (JJ several) (NNS cycles)))))) (, ,) (CC and) (S (NP (CD one) (NN event)) (VP (VBZ is) (VP (VBN identified) (PP (IN per) (NP (NN cycle)))))) (. .))
+(S (NP (DT These) (CD four) (NNS steps)) (VP (VBP are) (VP (VBN repeated) (SBAR (IN until) (S (NP (PDT all) (DT the) (NNS events)) (VP (VBP have) (VP (VBN been) (VP (VBN identified)))))))) (. .))

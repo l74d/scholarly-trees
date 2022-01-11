@@ -1,0 +1,1 @@
+(S (NP (VBG Alternating) (NN training)) (VP (VP (VBZ requires) (NP (JJR fewer) (NNS hyperparameters))) (CC and) (VP (VBZ achieves) (NP (NP (DT a) (JJR better) (, ,) (ADJP (RBR more) (JJ stable)) (NN performance)) (PP (IN than) (NP (JJ joint) (NN training)))))) (. .))

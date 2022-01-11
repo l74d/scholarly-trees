@@ -1,0 +1,1 @@
+(S (NP (DT A) (NN scheduling) (NN algorithm)) (VP (VBZ minimizes) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN hardware) (NNS resources)))) (PP (IN by) (S (VP (VBG calculating) (NP (NP (DT the) (JJ different) (NNS segments)) (PP (IN of) (NP (DT the) (NN correlation) (NN function)))) (PP (IN on) (NP (DT a) (JJ single) (NN correlator) (NN block))))))) (. .))

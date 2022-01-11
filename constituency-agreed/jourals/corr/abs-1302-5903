@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (JJ unlicensed) (NN band))) (, ,) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NP (JJ primary) (NN user)) (CC and) (NP (JJ secondary) (NN user)))) (PRN (-LRB- -LRB-) (S (VP (TO To) (VP (VB implement) (NP (JJ cognitive) (NN radio))))) (-RRB- -RRB-))) (VP (VBZ is) (RB not) (ADJP (JJ explicit))) (. .))
+(S (PP (IN By) (NP (JJ dynamic) (NN priority) (NN assignment))) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB implement) (NP (JJ cognitive) (NN radio)) (PP (IN in) (NP (DT the) (JJ unlicensed) (NN band))))))) (. .))

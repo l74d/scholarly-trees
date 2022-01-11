@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ effective) (NNS data) (NN preprocessing)) (CC and) (NP (JJ optimum) (NN feature) (NN selection))) (VP (VBZ helps) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN classification) (NN accuracy)) (PP (IN of) (NP (NN hand) (NNS movements))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD found) (SBAR (IN that) (S (NP (DT a) (NN context) (NN encoder)) (VP (VBZ learns) (NP (NP (DT a) (NN representation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ captures) (NP (CONJP (RB not) (RB just)) (NP (NN appearance)) (CONJP (CC but) (RB also)) (NP (NP (DT the) (NNS semantics)) (PP (IN of) (NP (JJ visual) (NNS structures))))))))))))) (. .))

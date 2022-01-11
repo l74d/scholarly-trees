@@ -1,0 +1,1 @@
+(S (NP (DT These) (VBN discretized) (NNS operators)) (ADVP (RB usually)) (VP (VBP depend) (PP (IN on) (NP (NP (NN bandwidth) (NNS parameters)) (SBAR (WHNP (WP$ whose) (NN tuning)) (S (VP (VBZ remains) (NP (DT a) (ADJP (JJ theoretical) (CC and) (JJ practical)) (NN problem)))))))) (. .))

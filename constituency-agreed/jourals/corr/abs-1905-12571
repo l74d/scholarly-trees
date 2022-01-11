@@ -1,0 +1,1 @@
+(S (NP (DT The) (VBN proposed) (JJ flat) (NN representation)) (VP (VBZ encodes) (NP (DT the) (NN layout) (NN information)) (PP (IN into) (NP (NP (NN row) (NNS vectors)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN treated) (PP (IN as) (NP (NP (DT the) (NN training) (NN target)) (PP (IN of) (NP (DT the) (JJ deep) (NN model)))))))))))) (. .))

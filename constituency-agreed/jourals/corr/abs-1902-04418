@@ -1,0 +1,2 @@
+(S (PP (IN At) (NP (DT this) (NN point))) (, ,) (NP (NN cryptology) (NN subject)) (VP (VBZ comes) (PRT (RP up))) (. .))
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT the) (NN study)))) (VP (VBZ is) (S (VP (VP (TO to) (VP (VB store) (NP (NP (DT the) (NN text)) (VP (VBN written) (PP (IN in) (NP (DT a) (JJ safe) (NN manner))))))) (CC and) (ADVP (RB thus)) (VP (TO to) (VP (VB ensure) (SBAR (S (NP (NN information) (NN security)) (VP (VBZ is) (PP (IN by) (S (VP (VBG deciphering) (PP (IN upon) (NP (NN request)))))))))))))) (. .))

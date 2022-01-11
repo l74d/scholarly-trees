@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ diagrammatic) (NN modeling) (NN language)) (, ,) (NP (NNP DML)))) (. .))
+(S (PP (IN With) (NP (DT this) (JJ powerful) (NN tool))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (ADJP (RB quite) (JJ simple)) (NN description)) (PP (IN of) (NP (DT the) (NNP C++) (NNP LinBox) (NN library))))) (. .))

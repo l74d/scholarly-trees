@@ -1,0 +1,2 @@
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP build) (NP (JJ strong) (NNS seeds)) (PP (IN from) (NP (NNP LiDAR))) (S (VP (TO to) (VP (VB enhance) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (NP (NNS matches)) (PP (IN between) (NP (NN stereo) (NNS images)))))))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (DT a) (NN consistency) (NN check)) (VP (VBZ employs) (NP (NNP LiDAR) (NNS seeds)) (S (VP (TO to) (VP (VB remove) (NP (DT the) (JJ possible) (NNS mismatches)))))) (. .))

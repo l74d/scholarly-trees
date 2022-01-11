@@ -1,0 +1,1 @@
+(S (NP (NNS Assignments)) (VP (VBP are) (VP (VBN estimated) (PP (IN by) (S (VP (VBG solving) (NP (NP (DT a) (JJ differentiable) (JJ optimal) (NN transport) (NN problem)) (, ,) (SBAR (WHNP (WP$ whose) (NNS costs)) (S (VP (VBP are) (VP (VBN predicted) (PP (IN by) (NP (DT a) (NN graph) (JJ neural) (NN network))))))))))))) (. .))

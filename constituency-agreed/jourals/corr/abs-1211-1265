@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN process)) (VP (VBZ relies) (PP (IN on) (NP (NP (ADJP (RB very) (JJ broad)) (NNS assumptions)) (PP (IN besides) (NP (NP (DT the) (NN knowledge)) (PP (IN of) (NP (NP (DT the) (NN pattern)) (PP (IN of) (NP (NP (DT the) (NN descriptor)) (PP (IN at) (NP (NN hand)))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ generalizes) (NP (NP (JJ previous) (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBD required) (NP (CC either) (NP (DT a) (JJ prior) (NN learning) (NN database)) (CC or) (NP (JJ non-binarized) (NNS features)))))))) (. .))

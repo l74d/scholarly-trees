@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP they)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB overcome) (NP (NP (DT the) (NNS data) (NN sparsity) (NN problem)) (PP (IN of) (NP (JJ joint) (NN feature) (NNS spaces)))) (, ,) (PP (IN in) (NP (NP (NN spite)) (PP (IN of) (NP (NP (DT the) (JJ limited) (NN size)) (PP (IN of) (NP (PRP$ our) (NN training) (NN corpus)))))))))))) (. .))

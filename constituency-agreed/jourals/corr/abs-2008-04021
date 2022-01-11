@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP they)) (VP (VBP suffer) (PP (IN from) (NP (CC either) (NP (JJ insufficient) (NN training) (NNS data)) (CC or) (NP (NP (JJ high) (NNS costs)) (PP (IN of) (NP (JJ manual) (NN annotation))))))) (. .))
+(S (S (NP (DT A) (NN generator)) (VP (VBZ is) (VP (VBN learned) (S (VP (TO to) (VP (VB produce) (NP (NN quality) (JJ synthetic) (NNS images)))))))) (, ,) (CC and) (S (NP (DT the) (NN discriminator)) (VP (VBZ attempts) (S (VP (TO to) (VP (VB distinguish) (NP (PRP them))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ simple) (NNP Logspace) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ solves) (NP (DT the) (NNP Unary) (NML (NNP Subset) (HYPH -) (NNP Sum)) (NN problem))))))) (. .))

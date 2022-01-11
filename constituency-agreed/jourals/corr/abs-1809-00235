@@ -1,0 +1,2 @@
+(S (NP (NNP Apache) (NNP Hadoop)) (VP (VBZ is) (VP (VBN placed) (PP (IN at) (NP (NP (DT the) (NN core)) (PP (IN of) (NP (DT the) (NN framework))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NNS mappers)) (VP (VBP convert) (NP (NN raster) (NNS mosaics)) (PP (IN into) (NP (NN vector) (NNS counterparts)))) (. .))

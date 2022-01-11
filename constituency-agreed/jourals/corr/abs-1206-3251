@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ novel) (NNP Gibbs) (NN sampling) (NN procedure)) (PP (IN for) (NP (JJ multi-component) (NNS processes))))) (. .))
+(S (NP (DT This) (NN procedure)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB provide) (NP (ADJP (RB asymptotically) (JJ unbiased)) (NN approximation)) (PP (IN in) (NP (JJ such) (NNS processes))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (TO To) (VP (VB guarantee) (NP (PRP$ its) (JJ positive) (NN definiteness))))) (, ,) (NP (PRP we)) (VP (VP (VBP perform) (NP (JJ spectral) (NN decomposition)) (PP (IN on) (NP (DT the) (NN kernel) (NN matrix)))) (CC and) (VP (VB re-parameterize) (NP (PRP it)) (PP (IN via) (NP (DT the) (NNP Cayley) (NN representation))))) (. .))

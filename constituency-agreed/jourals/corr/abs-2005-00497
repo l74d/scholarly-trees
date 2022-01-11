@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG analysing) (NP (DT a) (JJ complex) (NN system))))) (, ,) (ADVP (RB very) (RB often)) (NP (NP (DT an) (NN answer)) (PP (IN for) (NP (CD one) (NN question)))) (VP (VBZ raises) (NP (JJ new) (NNS questions))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT the) (NN grammar)) (PP (IN of) (NP (JJ such) (JJ interactive) (NNS explanations))))) (. .))

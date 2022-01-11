@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ social) (NNS interactions))))) (, ,) (NP (DT this)) (VP (VBZ includes) (NP (NP (NN family)) (, ,) (NP (NNS friends)) (, ,) (CC and) (NP (JJ other) (JJ strong) (JJ social) (NNS ties)))) (. .))
+(S (NP (NP (DT The) (NNS dynamics)) (PP (IN of) (NP (NP (NNS states)) (PP (IN on) (NP (NP (DT a) (NN network)) (PP (IN with) (NP (JJ arbitrary) (NN degree) (NN distribution)))))))) (VP (VBP are) (VP (VBN studied))) (. .))

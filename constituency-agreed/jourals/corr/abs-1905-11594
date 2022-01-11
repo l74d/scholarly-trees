@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ computational) (NNS models)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB achieve) (NP (JJ good) (NN accuracy)) (PP (IN for) (NP (DT these) (NN learning) (NNS applications)))))))) (VP (VBP are) (ADJP (RB very) (JJ different) (PP (IN from) (NP (DT the) (JJ bio-plausible) (NNS models))))) (. .))

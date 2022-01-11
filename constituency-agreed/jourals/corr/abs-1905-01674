@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT the) (NN game))) (, ,) (NP (NNP Alice)) (ADVP (RB first)) (VP (VBZ hides) (NP (DT a) (NN payload)) (PP (IN into) (NP (DT a) (NN cover)))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (NNP Bob)) (VP (VBZ hides) (NP (DT another) (NN payload)) (PP (IN into) (NP (DT the) (VBN modified) (NN cover)))) (. .))

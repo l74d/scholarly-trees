@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN mission)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN achieved) (PP (IN for) (NP (DT any) (JJ over-complete) (NN frame))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ general) (NN construction) (NN method)) (PP (IN of) (NP (NNS frames)))) (S (VP (TO to) (VP (VB demonstrate) (SBAR (S (NP (DT the) (VBN proposed) (NNS conditions)) (VP (VBP are) (ADJP (JJ feasible))))))))) (. .))

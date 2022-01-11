@@ -1,0 +1,3 @@
+(S (NP (JJ Empirical) (NN software) (NN engineering)) (VP (VBZ is) (VP (VBN concerned) (PP (IN with) (NP (NP (DT the) (NN design) (CC and) (NN analysis)) (PP (IN of) (NP (NP (JJ empirical) (NNS studies)) (SBAR (WHNP (WDT that)) (S (VP (VBP include) (NP (NP (NN software) (NNS products)) (, ,) (NP (NNS processes)) (, ,) (CC and) (NP (NNS resources)))))))))))) (. .))
+(S (NP (NN Optimization) (NNS methods)) (VP (VBP are) (VP (VBN aimed) (S (VP (TO to) (VP (VB find) (NP (DT the) (JJS best) (NN decision) (NNS alternatives))))))) (. .))
+(S (NP (JJ Empirical) (NNS studies)) (VP (VBP serve) (PP (DT both) (PP (IN as) (NP (DT a) (NN model))) (CC and) (PP (IN as) (NP (NP (NNS data) (NN input)) (PP (IN for) (NP (NN optimization))))))) (. .))

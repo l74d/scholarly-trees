@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS properties)) (VP (VBP include) (NP (NN associativity) (, ,) (NN commutativity) (, ,) (NN distributivity) (, ,) (NNS identities) (, ,) (NNS annihilators) (, ,) (CC and) (NNS inverses))) (. .))
+(S (NP (NP (NN Performance) (NNS measurements)) (PP (IN on) (NP (NN distributivity) (CC and) (NN associativity)))) (VP (VBP show) (NP (NP (DT the) (NN impact)) (SBAR (S (NP (DT these) (NNS properties)) (VP (MD can) (VP (VB have) (PP (IN on) (NP (JJ associative) (NN array) (NNS operations))))))))) (. .))

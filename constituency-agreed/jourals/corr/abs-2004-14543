@@ -1,0 +1,1 @@
+(S (NP (JJ Adversarial) (NN training)) (VP (VBZ is) (ADJP (JJ effective) (PP (IN in) (S (VP (VBG improving) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (JJ neural) (NNS networks))))))))) (. .))

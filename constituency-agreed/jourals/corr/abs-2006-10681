@@ -1,0 +1,2 @@
+(S (NP (JJ Complex) (NN activity) (NN recognition)) (VP (MD can) (VP (VB benefit) (PP (IN from) (S (VP (VBG understanding) (NP (NP (DT the) (NNS steps)) (SBAR (WHNP (WDT that)) (S (VP (VBP compose) (NP (PRP them))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP summarize) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (DT a) (NN baseline) (NN classification)) (VP (VBG using) (NP (JJ traditional) (NN activity) (NN recognition) (NNS pipelines))))))) (. .))

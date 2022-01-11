@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT a) (NN problem)) (PP (IN of) (NP (JJ fair) (NN division))) (PP (IN in) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (JJ full) (NN information))))))) (. .))
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP we)) (VP (VB construct) (NP (JJ such) (NNS shares)))) (. ?))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VP (VBZ is) (NP (NP (DT a) (JJ slight) (NN modification)) (PP (IN of) (NP (DT the) (NNP Even-Paz) (NN algorithm))))) (CC and) (VP (VBZ allows) (S (VP (TO to) (VP (VB give) (NP (DT a) (JJ connected) (NN part)) (PP (TO to) (NP (DT each) (NN agent)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS cuts))) (VP (VBN used) (PP (IN during) (NP (DT the) (NN algorithm))))) (VP (VBZ is) (ADJP (JJ optimal)) (: :) (NP (NP (NNP O)) (PRN (-LRB- -LRB-) (NP (JJ n) (NN log) (PRN (-LRB- -LRB-) (JJ n) (-RRB- -RRB-))) (-RRB- -RRB-)))) (. .))

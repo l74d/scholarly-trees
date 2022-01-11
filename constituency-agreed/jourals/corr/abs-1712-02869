@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NN inheritance))) (, ,) (NP (NN default) (NNS descriptors)) (VP (VBP are) (VP (VBN realized) (PP (IN by) (NP (NNS rules))))) (. .))
+(S (PP (IN On) (NP (NP (NN top)) (PP (IN of) (NP (NP (DT a) (NN metamodel)) (CC and) (NP (DT a) (NNP Grailog) (NN visualization)))))) (, ,) (NP (NP (NP (NNP PSOA) (POS 's)) (NN atom) (NNS systematics)) (PP (IN for) (NP (NNS facts) (, ,) (NNS queries) (, ,) (CC and) (NNS rules)))) (VP (VBZ is) (VP (VBN explained))) (. .))

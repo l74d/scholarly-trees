@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS probabilities)) (VP (MD can) (VP (VB be) (VP (VBN derived) (PP (IN in) (NP (JJ many) (NNS ways)))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (NNS ways)))) (VP (VBZ is) (S (VP (TO to) (VP (VB calculate) (NP (NP (DT the) (JJ average) (NN probability)) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (NP (DT a) (NN node)) (VP (MD will) (VP (VB meet) (NP (DT another) (JJ particular) (NN node)) (PP (IN at) (NP (NP (DT any) (NN point)) (PP (IN of) (NP (NN time)))))))))))))) (. .))

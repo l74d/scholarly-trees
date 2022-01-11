@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (JJ tractable) (NN computation))) (, ,) (NP (VBN linearized) (NNS models)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (DT the) (NN problem) (NN formulation))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN control)) (VP (VBZ is) (VP (VBN verified) (PP (IN on) (NP (NP (DT the) (JJ full) (JJ nonlinear) (NN model)) (PP (IN in) (NP (NNP Simulink))))))) (. .))

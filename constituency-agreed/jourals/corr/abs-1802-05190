@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT any) (NN time) (NN step))) (, ,) (S (NP (DT the) (NN teacher)) (VP (VBZ provides) (NP (DT an) (NN example)))) (, ,) (S (NP (DT the) (NN learner)) (VP (VBZ performs) (NP (DT an) (NN update)))) (, ,) (CC and) (S (NP (DT the) (NN teacher)) (VP (VBZ observes) (NP (NP (DT the) (NN learner) (POS 's)) (JJ new) (NN state)))) (. .))

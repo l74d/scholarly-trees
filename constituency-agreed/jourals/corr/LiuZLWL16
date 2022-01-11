@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (ADJP (JJ positive) (CC and) (JJ negative)) (NN dependency)) (PP (IN between) (NP (NNS users)))) (VP (VBP are) (VP (VBN modeled) (PP (IN by) (NP (NP (DT the) (NN row) (NN precision) (NN matrix)) (PP (IN of) (NP (DT the) (NNP MVN) (NN distribution))))))) (. .))

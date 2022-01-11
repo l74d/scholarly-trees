@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG designing) (NP (DT a) (VBN distributed) (NN control) (NN system))))) (, ,) (NP (DT the) (NN system) (NN designer)) (VP (VBZ has) (NP (NP (DT a) (NN choice)) (PP (IN in) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB connect) (NP (DT the) (JJ different) (NNS units)) (PP (IN through) (NP (NN communication) (NNS channels)))))))))) (. .))

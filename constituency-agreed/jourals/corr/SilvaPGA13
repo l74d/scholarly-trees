@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (DT the) (CD two) (NNS planners)) (VP (MD could) (VP (VB be) (VP (VBN interfaced)))))) (, ,) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ their) (NN planning) (CC and) (NN backtracking)) (VP (MD could) (VP (VB be) (VP (VBN interleaved)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (JJ Implicit) (NN time) (NN integration)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (DT the) (JJ transient) (NN form))))))) (. .))
+(S (NP (JJ Nonlinear) (NN stabilization) (NNS schemes)) (VP (VBP are) (ADVP (RB usually)) (ADJP (ADJP (JJ stiff)) (CC and) (ADJP (RB highly) (JJ nonlinear)))) (. .))
+(S (NP (NP (DT The) (NN importance)) (PP (IN of) (NP (DT the) (NN differentiability)))) (VP (VBZ is) (VP (VBN assessed) (PP (IN by) (S (VP (VBG comparing) (NP (DT the) (JJ new) (NN scheme)) (PP (IN with) (NP (PRP$ its) (JJ non-differentiable) (NN counterpart)))))))) (. .))

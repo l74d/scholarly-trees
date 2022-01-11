@@ -1,0 +1,6 @@
+(S (NP (DT A) (NN code)) (VP (VBZ is) (VP (VBD said) (S (VP (TO to) (VP (VB be) (ADJP (JJ two-weight))))) (SBAR (IN if) (S (NP (DT the) (JJ non-zero) (NNS codewords)) (VP (VBP have) (NP (NP (QP (RB only) (CD two)) (JJ different) (DT a) (NN weight)) (NP (NN w1) (CC and) (NN w2)))))))) (. .))
+(S (NP (JJ Two-weight) (NNS codes)) (VP (VBP are) (VP (ADVP (RB closely)) (VBN related) (PP (TO to) (NP (ADJP (RB strongly) (JJ regular)) (NN graphs))))) (. .))
+(PP (IN In) (NP (DT this) (NN paper)) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT a) (JJ consta-cyclic) (NN code)) (PP (IN of) (NP (JJ composite) (NN length)))) (VP (MD can) (VP (VB be) (VP (VBN put) (PP (IN in) (NP (DT the) (JJ quasi-twisted) (NN form)))))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN transformation)))) (, ,) (NP (NP (DT a) (JJ new) (NN construction) (NN method)) (PP (IN of) (NP (JJ quasi-twisted) (PRN (-LRB- -LRB-) (NNP QT) (-RRB- -RRB-)) (NN two-weight) (NNS codes)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (S (NP (NP (DT A) (JJ large) (NN amount)) (PP (IN of) (NP (NNP QT) (JJ two-weight) (NNS codes)))) (VP (VBP are) (VP (VBN found)))) (, ,) (CC and) (S (NP (DT some) (JJ new) (NNS codes)) (VP (VBP are) (ADVP (RB also)) (VP (VBN constructed)))) (. .))

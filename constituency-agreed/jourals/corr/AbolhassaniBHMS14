@@ -1,0 +1,2 @@
+(S (NP (NNP Cournot) (NN competition)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (JJ economic) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ represents) (NP (NP (NNS firms)) (VP (VBG competing) (PP (IN in) (NP (NP (DT a) (JJ single) (NN market)) (PP (IN of) (NP (DT a) (JJ homogeneous) (NN good)))))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (JJ nonlinear) (NN price) (NNS functions))) (, ,) (NP (DT this) (NN approach)) (VP (VBZ is) (RB not) (ADJP (JJ feasible))) (. .))

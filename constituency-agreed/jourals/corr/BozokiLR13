@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP we)) (VP (VBP exhibit) (NP (NP (CD two) (JJ such) (NNS sets)) (PP (IN of) (NP (NNS cylinders))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN after) (S (VP (VBG checking) (NP (QP (CD 80) (CD million)) (NNS paths))))) (, ,) (NP (CD two) (NNS solutions)) (VP (VBP are) (VP (VBN found))) (. .))

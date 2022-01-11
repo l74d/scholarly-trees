@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP train) (NP (NP (CD two) (JJ different) (NNS architectures)) (PP (IN of) (NP (ADJP (RB fully) (JJ convolutional)) (JJ neural) (NNS networks))))) (. .))
+(S (NP (DT The) (NN code)) (VP (VBZ is) (VP (VBN provided) (PP (IN for) (ADJP (JJ free))) (PP (IN on) (NP (DT a) (JJ specific) (NN repository))) (, ,) (PP (IN with) (NP (NP (NNS options)) (PP (IN for) (NP (NN training) (CC and) (NN evaluation))))))) (. .))

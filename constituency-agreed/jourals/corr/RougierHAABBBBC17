@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT the) (JJS best) (NN case))) (, ,) (S (NP (NNS authors)) (VP (MD may) (VP (VB provide) (NP (PRP$ their) (NN source) (NN code)) (PP (IN as) (NP (DT a) (JJ compressed) (NN archive)))))) (CC and) (S (NP (PRP they)) (VP (MD may) (VP (VB feel) (ADJP (JJ confident) (SBAR (S (NP (PRP$ their) (NN research)) (VP (VBZ is) (ADJP (JJ reproducible))))))))) (. .))
+(S (CC But) (NP (DT this)) (VP (VBZ is) (RB not) (ADJP (RB exactly) (JJ true))) (. .))
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT this) (NN goal))))) (, ,) (NP (DT the) (JJ whole) (NN publishing) (NN chain)) (VP (VBZ is) (ADJP (RB radically) (JJ different) (PP (IN from) (NP (JJ other) (JJ traditional) (JJ scientific) (NNS journals))))) (. .))

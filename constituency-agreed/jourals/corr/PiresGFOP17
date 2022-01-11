@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT Some) (NNS solutions)) (VP (VBG relying) (PP (IN on) (NP (NN cryptography))))) (VP (VBD were) (VP (VBN proposed) (PP (IN for) (S (VP (VBG countering) (NP (NNS threats)))))))) (CC but) (S (NP (DT these)) (ADVP (RB typically)) (VP (VBP imply) (NP (DT a) (JJ high) (JJ computational) (NN overhead)))) (. .))

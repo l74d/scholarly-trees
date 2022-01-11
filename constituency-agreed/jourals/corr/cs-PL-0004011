@@ -1,0 +1,5 @@
+(S (NP (PRP It)) (VP (VBZ places) (NP (NN activation) (NNS frames)) (PP (IN onto) (NP (DT a) (NN stack)))) (. .))
+(S (NP (DT Each) (NN frame)) (VP (VBZ is) (NP (NP (DT the) (JJ internal) (NN state)) (PP (IN of) (NP (DT an) (VBG executing) (NN routine))))) (. .))
+(S (NP (DT This) (NN presentation)) (VP (VBZ proposes) (NP (NP (DT an) (JJ alternative) (NN execution)) (PP (IN of) (NP (NNS routines))))) (. .))
+(S (NP (PRP It)) (VP (VBZ places) (NP (NN task) (NNS frames)) (PP (IN onto) (NP (DT the) (NN stack)))) (. .))
+(S (NP (NP (DT The) (NN feasibility)) (PP (IN of) (NP (DT the) (JJ alternative) (NN execution)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN by) (NP (DT a) (JJ crude) (NN implementation))))) (. .))

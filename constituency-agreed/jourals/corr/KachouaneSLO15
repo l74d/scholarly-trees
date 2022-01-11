@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Objects) (NN recognition)) (PP (IN in) (NP (NN image)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ difficult)) (NNS problems)) (PP (IN in) (NP (NN computer) (NN vision))))))) (. .))
+(S (NP (NP (DT The) (NN implementation)) (PP (IN of) (NP (PRP$ our) (NN detector)))) (VP (VP (VBZ has) (VP (VBN provided) (NP (JJ good) (NNS results)))) (, ,) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NNS robotics) (NNS tasks))))))) (. .))

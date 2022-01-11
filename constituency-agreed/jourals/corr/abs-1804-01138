@@ -1,0 +1,2 @@
+(S (NP (NNP TensorFlow)) (ADVP (RB primarily)) (VP (VBZ uses) (NP (NN gRPC)) (PP (IN for) (S (VP (VBG communicating) (NP (NP (NNS tensors)) (CC and) (NP (JJ administrative) (NNS tasks))) (PP (IN among) (NP (JJ different) (NNS processes))))))) (. .))
+(S (ADVP (RB Clearly)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (NN lack)) (PP (IN of) (NP (NP (NNS benchmarks)) (ADJP (JJ available) (PP (IN for) (NP (NN system) (NNS researchers)))))))) (. .))

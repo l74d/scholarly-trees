@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (DT an) (NN input))) (, ,) (NP (NP (PRP$ its) (JJ valid) (NNS sequences)) (PP (IN of) (NP (JJ complete) (NNS configurations)))) (VP (VBP are) (VP (VBN normalized) (PP (IN into) (NP (NP (DT a) (JJ relational) (NN model)) (PP (IN of) (NP (NP (VBN shared) (NNS trichoices)) (PP (IN with) (NP (DT no) (NN redundancy))))))))) (. .))

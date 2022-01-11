@@ -1,0 +1,1 @@
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB learn) (NP (NP (DT the) (NNS representations)) (PP (IN of) (NP (JJ implicit) (NNS intentions)))) (PP (IN by) (S (VP (VBG processing) (NP (DT the) (JJ historical) (NNS applications)) (S (VP (VBG using) (NP (NNP LSTM))))))))))) (. .))

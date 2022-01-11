@@ -1,0 +1,1 @@
+(S (PP (IN As) (PP (IN with) (NP (JJ general) (NN graph) (NN processing) (NNS systems)))) (, ,) (S (VP (VBG partitioning) (NP (NNS data)) (PP (IN over) (NP (NP (DT a) (NN cluster)) (PP (IN of) (NP (NNS machines))))))) (VP (VBZ improves) (NP (NP (DT the) (NN scalability)) (PP (IN of) (NP (NN graph) (NN database) (NN management) (NNS systems))))) (. .))

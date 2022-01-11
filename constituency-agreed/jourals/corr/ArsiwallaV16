@@ -1,0 +1,2 @@
+(S (NP (NP (PRP$ Our) (NN goal)) (PP (IN in) (NP (DT this) (NN work)))) (VP (VBZ is) (S (VP (TO to) (VP (VB address) (NP (DT this) (NN problem)))))) (. .))
+(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (S (VP (VBG implementing) (NP (DT the) (JJ maximum) (NN information) (NN partition)))) (VP (VBZ optimizes) (NP (NNS computations)))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NN information)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN transmitted) (PP (IN over) (NP (DT an) (JJ unknown) (, ,) (ADJP (RB possibly) (JJ unreliable)) (NN channel)))))))))) (, ,) (NP (NP (DT an) (NN erasure) (NN option)) (PP (IN at) (NP (DT the) (NN decoder)))) (VP (VBZ is) (ADJP (JJ desirable))) (. .))
+(S (NP (JJ Explicit) (NNS solutions)) (VP (VBP are) (VP (VBN identified))) (. .))

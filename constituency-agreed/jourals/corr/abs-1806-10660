@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN test)) (VP (VBZ has) (NP (NP (DT a) (JJ binary) (NN outcome)) (, ,) (ADJP (JJ positive) (CC or) (JJ negative)))) (. .))
+(S (S (NP (DT A) (JJ positive) (NN test) (NN result)) (VP (VBZ is) (NP (NP (DT an) (NN indication)) (PP (IN of) (NP (NN risk)))))) (, ,) (CC and) (S (NP (NP (DT a) (NN patient) (POS 's)) (NN score)) (VP (VBZ is) (NP (NP (DT the) (JJ total) (NN number)) (PP (IN of) (NP (JJ positive) (NN test) (NNS results)))))) (. .))

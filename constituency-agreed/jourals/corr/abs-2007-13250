@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Traditional) (NNS methods)) (PP (IN for) (NP (NN solvability) (NN region) (NN analysis)))) (VP (MD can) (ADVP (RB only)) (VP (VB have) (NP (NP (JJ inner) (NNS approximations)) (PP (IN with) (NP (JJ inconclusive) (NN conservatism)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN letter))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ deep) (JJ active) (NN learning) (NN framework)) (PP (IN for) (NP (NN power) (NN system) (NN solvability) (NN prediction))))) (. .))

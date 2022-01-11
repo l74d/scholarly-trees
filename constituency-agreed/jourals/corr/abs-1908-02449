@@ -1,0 +1,3 @@
+(S (NP (JJ Automatic) (NN classification) (NNS tools)) (VP (VBP improve) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (JJ such) (NNS tasks))))) (. .))
+(S (NP (NP (NN Usage) (NNS examples)) (PP (IN of) (NP (DT these) (NNS datasets)))) (VP (VBP are) (VP (VBN proposed) (PP (IN in) (NP (DT the) (JJ current) (NN paper))))) (. .))
+(S (NP (DT The) (JJ main) (NN contribution)) (VP (VBZ is) (NP (NP (DT the) (NN availability)) (PP (IN of) (NP (DT the) (CD two) (NNS datasets))))) (. .))

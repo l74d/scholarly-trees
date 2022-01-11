@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ structural) (NN relationship)) (VP (VBZ is) (VP (VBN learned) (PP (IN by) (S (VP (VBG minimizing) (NP (NP (DT an) (NN energy) (NN function)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN defined) (PP (IN by) (NP (DT a) (JJ simple) (JJ convolutional) (JJ neural) (NN network))))))))))))) (. .))
+(S (NP (DT The) (NN code)) (VP (VBZ is) (ADJP (RB publicly) (JJ available))) (. .))

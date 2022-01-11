@@ -1,0 +1,2 @@
+(S (NP (NNP Diabetic) (NN retinopathy)) (VP (VBZ is) (NP (NP (DT the) (JJ basic) (NN reason)) (PP (IN for) (NP (JJ visual) (NN deficiency))))) (. .))
+(S (NP (NP (DT The) (NN location)) (PP (IN of) (NP (DT the) (NN blood) (NNS vessels)))) (VP (VBZ is) (NP (NP (DT the) (JJ fundamental) (NN stride)) (PP (IN in) (NP (NP (DT the) (NN discovery)) (PP (IN of) (NP (JJ diabetic) (NN retinopathy)))))) (SBAR (IN because) (S (NP (DT the) (NN blood) (NNS vessels)) (VP (VBP are) (NP (NP (DT the) (JJ typical) (NNS elements)) (PP (IN of) (NP (DT the) (JJ retinal) (NN picture)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNS Episodes)) (VP (VBP are) (NP (NP (JJ sequential) (NNS patterns)) (VP (VBG describing) (NP (NP (NNS events)) (SBAR (WHNP (WDT that)) (S (ADVP (RB often)) (VP (VBP occur) (PP (IN in) (NP (NP (DT the) (NN vicinity)) (PP (IN of) (NP (DT each) (JJ other)))))))))))) (. .))
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (MD can) (RB not) (VP (VB define) (NP (NN closure)) (PP (VBN based) (PP (IN on) (NP (NN frequency)))))) (. .))

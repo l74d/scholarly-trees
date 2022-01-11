@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VP (VBZ depends) (PP (PP (IN on) (NP (NP (DT the) (NN configuration)) (PP (IN of) (NP (DT the) (NN robot))))) (CC and) (PP (IN on) (NP (NP (DT the) (NN direction)) (PP (IN of) (NP (DT the) (NN force))))))) (, ,) (CC and) (VP (VBZ is) (ADVP (RB always)) (PP (IN between) (NP (CD 0) (CC and) (CD 1))))) (. .))

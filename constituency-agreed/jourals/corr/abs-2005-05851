@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ residual) (NN vector)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (DT the) (NN search) (NN direction)))))) (CC and) (S (S (VP (VBG choosing) (NP (DT the) (NN steplength)))) (VP (VBZ has) (NP (NP (DT a) (JJ crucial) (NN impact)) (PP (IN on) (NP (DT the) (NN performance)))))) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB Specifically)) (, ,) (NP (NP (DT the) (JJ residual) (NN connection)) (CC and) (NP (NN batch) (NN normalization))) (VP (VBP are) (VP (VBN utilized) (S (VP (TO to) (VP (VP (VB speed) (PRT (RP up)) (NP (DT the) (NN training) (NN process))) (CC and) (VP (VB maintain) (NP (DT the) (NN denoising) (NN performance)))))))) (. .))

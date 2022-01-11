@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (PP (IN in) (NP (DT the) (JJ key) (NN generation) (NN phase))) (, ,) (NP (DT the) (JJ private) (NN key)) (VP (VP (VBZ is) (VP (VBN generated) (PP (IN by) (NP (NNP KGC))))) (CC and) (VP (VBZ is) (VP (VBN stored) (PP (IN in) (NP (DT the) (NN cloud) (NN server)))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ outperforms) (NP (JJ other) (NNS methods)) (PP (IN with) (NP (NP (DT a) (JJ maximal) (JJ genuine) (NN data) (NN rate)) (PP (IN of) (NP (CD 0.91)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN library)) (VP (VP (VBZ is) (VP (VBN distributed) (PP (IN under) (NP (DT the) (NNP BSD) (NN license))))) (CC and) (VP (VBZ is) (ADJP (JJ ready) (PP (IN for) (NP (NP (NN use)) (PP (IN in) (NP (NN production) (NNS environments)))))))) (. .))

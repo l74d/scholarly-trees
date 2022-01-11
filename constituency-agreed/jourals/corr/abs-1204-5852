@@ -1,0 +1,1 @@
+(S (ADVP (RB Basically)) (, ,) (NP (DT a) (NN spell) (NN checker)) (VP (VBZ is) (NP (NP (DT a) (NN computer) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (NP (DT a) (NN dictionary)) (PP (IN of) (NP (NNS words)))) (S (VP (TO to) (VP (VB perform) (NP (NN spell) (NN checking)))))))))) (. .))

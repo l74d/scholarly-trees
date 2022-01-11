@@ -1,0 +1,1 @@
+(S (ADVP (RB Thus)) (, ,) (NP (NP (NN computation)) (PP (IN on) (NP (DT each) (NN patch)))) (VP (MD can) (VP (VB be) (VP (VBN optimized) (PP (IN for) (NP (NN speed))) (, ,) (SBAR (IN while) (S (NP (PRP we)) (VP (VBP inherit) (NP (NP (DT the) (NN flexibility)) (PP (IN of) (NP (JJ adaptive) (NNS meshes)))))))))) (. .))

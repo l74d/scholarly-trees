@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG evaluating) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (JJ noisy) (NN optimisation) (NN algorithm))))))) (, ,) (NP (DT a) (JJ key) (NN consideration)) (VP (VBZ is) (NP (NP (DT the) (VBG stopping) (NN condition)) (PP (IN for) (NP (DT the) (NN algorithm))))) (. .))

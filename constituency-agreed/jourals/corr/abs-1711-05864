@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP EM) (NN algorithm)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (NN distribution) (NNS parameters)) (CC and) (NP (DT the) (JJ hidden) (NN component) (NNS memberships)))))))) (. .))

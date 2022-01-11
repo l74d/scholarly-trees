@@ -1,0 +1,1 @@
+(S (S (NP (NNS Pathways)) (VP (VBP are) (VP (VBN modelled) (PP (IN as) (NP (NN integer) (NNS hyperflows)))))) (CC and) (S (NP (PRP we)) (VP (VBP expand) (NP (DT the) (NN network) (NN model)) (PP (IN by) (NP (JJ detailed) (NN routing) (NNS constraints))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (SBAR (IN If) (S (NP (PRP they)) (DT both) (VP (VBP display) (NP (DT the) (JJ same) (NN side))))) (, ,) (ADVP (RB then)) (NP (NNP Alice)) (VP (VBZ wins) (NP (NP (NNP Bob) (POS 's)) (NN penny)))) (: ;) (S (SBAR (IN if) (S (NP (PRP they)) (VP (VBP display) (NP (JJ different) (NNS sides))))) (, ,) (ADVP (RB then)) (NP (NNP Bob)) (VP (VBZ wins) (NP (NP (NNP Alice) (POS 's)) (NN penny)))) (. .))
+(S (S (VP (VBG Randomizing) (NP (PRP$ your) (JJ own) (NNS moves)))) (VP (MD can) (VP (VB be) (VP (VBN made) (S (ADJP (JJ easy)))))) (. .))

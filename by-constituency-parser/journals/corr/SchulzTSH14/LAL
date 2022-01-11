@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (NNP SIGGRAPH) (CD 2014) (NN paper)) (PRN (NNP -LSB-) (NP (NNP SvTSH14)) (NNP -RSB-)))) (NP (NP (DT an) (NN approach)) (PP (IN for) (S (VP (VBG animating) (NP (JJ deformable) (NNS objects)) (S (VP (VBG using) (NP (JJ sparse) (NN spacetime) (NNS constraints)))))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (DT This) (NN report)) (VP (VBZ contains) (NP (NP (DT the) (NN proofs)) (PP (IN of) (NP (NP (CD two) (NNS theorems)) (VP (VBN presented) (PP (IN in) (NP (DT the) (NN paper)))))))) (. .))

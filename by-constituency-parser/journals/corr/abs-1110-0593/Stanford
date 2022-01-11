@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN thesis)) (VP (VBZ derives) (, ,) (UCP (NP (NNS tests)) (CC and) (S (VP (VBZ applies) (NP (NP (CD two) (JJ linear) (NN projection) (NNS algorithms)) (PP (IN for) (NP (NN machine) (NN learning)))) (PP (IN under) (NP (NN non-stationarity))))))) (. .))
+(S (NP (DT The) (JJ first)) (VP (VBZ finds) (NP (NP (DT a) (NN direction)) (PP (IN in) (NP (NP (DT a) (JJ linear) (NN space)) (SBAR (WHPP (IN upon) (WHNP (WDT which))) (S (NP (DT a) (NN data) (NN set)) (VP (VBZ is) (ADVP (RB maximally)) (ADJP (JJ non-stationary))))))))) (. .))
+(S (NP (DT The) (JJ second)) (VP (VBZ aims) (S (VP (TO to) (VP (VB robustify) (NP (NP (NML (CD two) (HYPH -) (NN way)) (NN classification)) (PP (IN against) (NP (NN non-stationarity)))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (NP (DT a) (JJ key) (NN application) (NN scenario)) (, ,) (ADVP (RB namely)) (NP (NNP Brain) (NNP Computer) (NNP Interfacing)))))) (. .))

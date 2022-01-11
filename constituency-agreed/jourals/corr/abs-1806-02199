@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (, ,) (S (VP (TO to) (VP (VB allow) (PP (IN for) (NP (NP (DT a) (JJ probabilistic) (NN interpretation)) (PP (IN of) (NP (PRP$ our) (NN method)))))))) (, ,) (NP (PRP we)) (VP (VBP integrate) (NP (DT a) (NNP Markov) (NN model)) (PP (IN in) (NP (DT the) (NN representation) (NN space)))) (. .))

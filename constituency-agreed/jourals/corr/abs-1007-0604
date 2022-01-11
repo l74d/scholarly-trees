@@ -1,0 +1,2 @@
+(S (NP (NN Symmetry)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB help) (S (VP (VB solve) (NP (JJ many) (NNS problems)))))))))) (. .))
+(S (NP (NNS Symmetries)) (VP (VBP occur) (PP (PP (IN within) (NP (NP (JJ individual) (NNS solutions)) (PP (IN of) (NP (NNS problems))))) (CONJP (RB as) (RB well) (IN as)) (PP (IN between) (NP (NP (JJ different) (NNS solutions)) (PP (IN of) (NP (DT the) (JJ same) (NN problem))))))) (. .))

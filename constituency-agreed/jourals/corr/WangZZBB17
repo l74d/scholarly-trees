@@ -1,0 +1,2 @@
+(S (NP (NN Crime) (NNS occurrences)) (VP (VBP depend) (PP (IN on) (NP (JJ many) (JJ complex) (NNS factors)))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP preprocess) (NP (DT the) (JJ raw) (NN crime) (NNS data))) (. .))

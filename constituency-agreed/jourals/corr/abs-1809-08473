@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Bitcoin) (NN protocol)) (VP (VBZ is) (NP (NP (DT a) (JJ significant) (NN milestone)) (PP (IN in) (NP (NP (DT the) (NN history)) (PP (IN of) (NP (NN money))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP$ its) (NN adoption)) (VP (VBZ is) (ADVP (RB currently)) (VP (VBN constrained) (PP (IN by) (NP (NP (DT the) (NN transaction) (NNS limits)) (PP (IN of) (NP (DT the) (NN system))))))) (. .))

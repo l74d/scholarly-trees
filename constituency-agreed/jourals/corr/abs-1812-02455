@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN system)) (VP (VBZ is) (NP (NP (DT a) (JJ conventional) (NN pipeline) (NN system)) (SBAR (WHNP (WDT which)) (S (VP (VBZ contains) (NP (NP (CD 3) (NNS modules)) (: :) (NP (NP (NN speech) (NN recognition)) (, ,) (NP (JJ post-processing)) (CC and) (NP (NN machine) (NN translation))))))))) (. .))

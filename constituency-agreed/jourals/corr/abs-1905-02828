@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ inconsistent) (NN database)) (VP (VBZ is) (NP (NP (DT a) (NN database)) (SBAR (WHNP (WDT that)) (S (VP (VBZ violates) (NP (NP (QP (CD one) (CC or) (JJR more)) (NN integrity) (NNS constraints)) (, ,) (PP (JJ such) (IN as) (NP (JJ functional) (NNS dependencies))))))))) (. .))

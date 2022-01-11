@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ robust) (NN algorithms)) (PP (IN for) (NP (NP (VBN set) (NNS operations)) (CC and) (NP (NP (NNP Euclidean) (NNS transformations)) (PP (IN of) (NP (NP (JJ curved) (NNS shapes)) (PP (IN in) (NP (DT the) (NN plane)))))))) (VP (VBG using) (NP (JJ approximate) (JJ geometric) (NNS primitives))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (NN refinement) (NN algorithm)) (S (VP (TO to) (VP (VB ensure) (NP (NN consistency)))))) (. .))
+(S (NP (DT The) (NN output)) (VP (VBZ is) (ADJP (ADJP (RB as) (JJ accurate)) (PP (IN as) (NP (DT the) (JJ geometric) (NNS primitives))))) (. .))
+(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (NN algorithms)) (PP (IN in) (NP (VBG floating) (NN point))) (S (VP (VBG using) (NP (NP (NP (NNS sequences)) (PP (IN of) (NP (CD six) (VBN set) (NNS operations)))) (CC and) (NP (NP (NNP Euclidean) (NNS transforms)) (PP (IN on) (NP (NP (NNS shapes)) (VP (VBN bounded) (PP (IN by) (NP (NP (NNS curves)) (PP (IN of) (NP (JJ algebraic) (NN degree~1) (NN to~6))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP test) (NP (ADJP (JJ generic) (CC and) (JJ degenerate)) (NNS inputs))) (. .))
+(NP (NP (NNS Keywords)) (: :) (NP (NP (JJ robust) (JJ computational) (NN geometry)) (, ,) (NP (NN plane) (NNS subdivisions)) (, ,) (NP (VBN set) (NNS operations))) (. .))

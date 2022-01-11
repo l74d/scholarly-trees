@@ -1,0 +1,4 @@
+(S (ADVP (RB Thus)) (, ,) (NP (DT these) (NNS methods)) (VP (VBP fail) (S (VP (TO to) (VP (VB distinguish) (NP (DT the) (NN target) (NN moment)) (PP (IN from) (NP (JJ plausible) (JJ negative) (NNS moments))))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP apply) (NP (DT the) (NN proposal) (NN regularization)) (S (VP (TO to) (VP (VP (VB stabilize) (NP (DT the) (NN training) (NN process))) (CC and) (VP (VB improve) (NP (NN model) (NN performance))))))) (. .))
+(S (NP (DT The) (JJ extensive) (NNS experiments)) (VP (VBP show) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))
+(S (NP (PRP$ Our) (NN code)) (VP (VBZ is) (VP (VBN released) (PP (IN at) (ADVP (RB here))))) (. .))

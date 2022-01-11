@@ -1,0 +1,1 @@
+(S (ADVP (RB Furthermore)) (NP (DT the) (NNP Master) (NNP Key) (NNS bugs)) (VP (MD could) (VP (VB be) (VP (VBN exploited) (PP (IN by) (NP (NN malware))) (S (VP (TO to) (VP (VB hide) (NP (JJ malicious) (NN behavior)) (PP (IN from) (NP (DT the) (NNS sandboxes))))))))) (. .))

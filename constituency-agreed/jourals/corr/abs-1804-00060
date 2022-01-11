@@ -1,0 +1,1 @@
+(S (NP (DT An) (JJ optimal) (NN subset)) (VP (VBZ is) (VP (VBN identified) (PP (IN as) (NP (NP (DT the) (NN set)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (DT this) (JJ submodular) (NN function))))))))) (. .))

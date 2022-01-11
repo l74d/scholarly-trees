@@ -1,0 +1,4 @@
+(S (NP (NNP Wireless) (NN sensor) (NNS networks)) (ADVP (RB usually)) (VP (VBP comprise) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNS sensors)) (VP (VBG monitoring) (NP (NP (NNS changes)) (PP (IN in) (NP (NNS variables))))))))) (. .))
+(S (NP (NP (DT These) (NNS changes)) (PP (IN in) (NP (NNS variables)))) (VP (VBP represent) (NP (NP (NNS changes)) (PP (IN in) (NP (JJ physical) (NNS quantities))))) (. .))
+(S (S (NP (DT The) (NNS changes)) (VP (MD can) (VP (VB occur) (PP (IN for) (NP (JJ various) (NNS reasons)))))) (: ;) (S (NP (DT these) (NNS reasons)) (VP (VBP are) (VP (VBN highlighted) (PP (IN in) (NP (DT this) (NN work)))))) (. .))
+(S (NP (NNS Outliers)) (VP (VBP are) (NP (JJ unusual) (NNS measurements))) (. .))

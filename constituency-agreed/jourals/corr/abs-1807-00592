@@ -1,0 +1,3 @@
+(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ fundamental) (NN parallelotope)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (JJ compact) (NN set)) (PP (IN for) (NP (DT the) (NN approximation))))) (PP (IN by) (NP (DT a) (JJ neural) (NN lattice) (NN decoder)))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (DT a) (JJ first) (JJ optimal) (JJ neural) (NN lattice) (NN decoder)) (VP (VBZ is) (VP (VBN built) (PP (IN from) (NP (NP (JJ Boolean) (NNS equations)) (CC and) (NP (NP (DT the) (NNS facets)) (PP (IN of) (NP (DT the) (NNP Voronoi) (NN cell)))))))) (. .))
+(S (NP (DT This) (NN decoder)) (VP (VBZ needs) (NP (DT no) (NN learning))) (. .))

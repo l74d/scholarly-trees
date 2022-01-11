@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ novel) (NN contribution)) (PP (IN of) (NP (DT this) (NN work)))) (VP (VBZ is) (NP (NP (NNS enhancements)) (PP (IN in) (NP (NP (NN default) (NNS versions)) (PP (IN of) (NP (VBN selected) (NN routing) (NNS protocols))))))) (. .))
+(S (PP (IN From) (NP (JJ extensive) (NNS simulations))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN observed) (SBAR (IN that) (S (NP (NNP DSR)) (VP (VBZ outperforms) (PP (IN among) (NP (DT all) (CD three) (NNS protocols))) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN delay)))))))))) (. .))

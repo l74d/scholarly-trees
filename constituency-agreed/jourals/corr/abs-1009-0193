@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN mobile)) (VP (VBZ is) (PP (IN in) (NP (NN outage))) (SBAR (IN if) (S (NP (DT the) (NNP SINR)) (VP (VBZ falls) (PP (IN below) (NP (DT some) (NN threshold))))))) (. .))

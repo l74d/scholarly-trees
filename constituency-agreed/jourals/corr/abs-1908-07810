@@ -1,0 +1,1 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NN architecture)) (VP (VBZ has) (NP (NP (DT a) (JJ flexible) (NN design)) (SBAR (WHNP (WDT which)) (S (VP (VBZ enables) (S (NP (PRP it)) (VP (TO to) (VP (VB benefit) (PP (IN from) (NP (JJ large) (JJ monolingual) (NNP English) (NN caption) (NNS datasets))))))))))) (. .))

@@ -1,0 +1,2 @@
+(SQ (MD Can) (NP (NNS machines)) (VP (VB trace) (NP (JJ human) (NN knowledge)) (PP (IN like) (NP (NNS humans)))) (. ?))
+(S (ADVP (RB Recently)) (, ,) (NP (JJ several) (NNS attempts)) (VP (VBP have) (VP (VBN been) (VP (VBN made) (S (VP (TO to) (VP (VB use) (NP (JJ deep) (NN learning) (NNS models)) (PP (IN for) (S (VP (VBG tackling) (NP (DT the) (NNP KT) (NN problem))))))))))) (. .))

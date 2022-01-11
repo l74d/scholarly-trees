@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ different) (NN approach)) (, ,) (VP (VBN inspired) (PP (IN by) (NP (DT the) (JJ aforementioned) (JJ human) (NNS capabilities)))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ compositional) (NN structure)) (PP (IN of) (NP (DT the) (NN question))))))) (. .))
+(S (NP (NP (DT The) (JJ basic) (NNS elements)) (PP (IN of) (NP (DT the) (NN representation)))) (VP (VBP are) (NP (NP (JJ logical) (NNS patterns)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN put) (ADVP (RB together)) (S (VP (TO to) (VP (VB represent) (NP (DT the) (NN question))))))))))) (. .))

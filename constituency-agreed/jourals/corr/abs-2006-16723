@@ -1,0 +1,2 @@
+(S (S (VP (VBG Learning) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB predict) (NP (JJ future) (NNS events)) (PP (IN from) (NP (NP (NNS patterns)) (PP (IN of) (NP (JJ past) (NNS events))))))))))) (VP (VBZ is) (ADJP (JJ difficult)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ possible) (NN event) (NNS types)))) (VP (VBZ is) (ADJP (JJ large)))))) (. .))
+(S (NP (NNS Rules)) (VP (VBP serve) (S (VP (TO to) (VP (VB prove) (NP (NNS facts)) (PP (PP (IN from) (NP (JJ other) (NNS facts))) (CC and) (PP (IN from) (NP (JJ past) (NNS events)))))))) (. .))

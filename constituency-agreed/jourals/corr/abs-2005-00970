@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (JJ unsupervised) (JJ morphological) (NN paradigm) (NN completion))))) (. .))
+(S (NP (PRP We)) (VP (VBP perform) (NP (NP (DT an) (NN evaluation)) (PP (IN on) (NP (CD 14) (ADJP (RB typologically) (JJ diverse)) (NNS languages))))) (. .))

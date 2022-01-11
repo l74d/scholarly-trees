@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ mathematical) (NN simplicity)) (PP (IN of) (NP (DT this) (NN architecture)))) (VP (VBZ allows) (NP (NP (DT a) (JJ detailed) (NN analysis)) (PP (IN of) (NP (PRP$ its) (NN behaviour)))) (, ,) (S (VP (VBG providing) (NP (NP (NN robustness) (NNS guarantees)) (PP (IN via) (NP (NNP Lipschitz) (NNS bounds))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (JJ semi-supervised) (NN learning))) (, ,) (NP (NP (NN information)) (PP (IN from) (NP (JJ unlabeled) (NNS examples)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN model)) (VP (VBN learned) (PP (IN from) (NP (VBN labeled) (NNS examples)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ main) (NN result)) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ nondeterministic) (NNP Turing) (NNS machines)) (VP (MD can) (VP (VB be) (VP (VBN simulated) (PP (IN by) (NP (NP (NNS networks)) (PP (IN of) (NP (JJ uniform) (NN splicing) (NNS processors))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNP Lipschitz) (NN constant)) (PP (IN of) (NP (DT a) (JJ neural) (NN network)))) (VP (VBZ is) (NP (NP (DT a) (JJ useful) (JJ metric)) (PP (IN for) (NP (JJ provable) (NN robustness) (CC and) (NN generalization))))) (. .))

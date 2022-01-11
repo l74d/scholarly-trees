@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN model)) (VP (VBZ is) (VP (VBN sampled) (SBAR (IN while) (S (NP (DT the) (NN robot)) (VP (VBZ is) (VP (VBG tracking) (NP (NP (NN reference) (NNS trajectories)) (SBAR (WHNP (WDT that)) (S (VP (VBP excite) (NP (DT the) (NN system) (NNS dynamics)))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (, ,) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (NP (JJ electrical) (NN cardiography) (NN problem)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (, ,) (S (NP (DT the) (JJ electrical) (NN cardiography) (NN model)) (VP (VBZ is) (NP (NP (ADJP (RB completely) (JJ observable)) (NN system)) (PP (IN over) (NP (JJ finite) (NN time)))))))) (. .))

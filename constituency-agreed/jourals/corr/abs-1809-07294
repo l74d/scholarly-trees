@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ adversarial) (NN loss)) (VP (VBN brought) (PP (IN by) (NP (DT the) (NN discriminator))))) (VP (VBZ provides) (NP (NP (DT a) (JJ clever) (NN way)) (PP (IN of) (S (VP (VP (VBG incorporating) (NP (JJ unlabeled) (NNS samples)) (PP (IN into) (NP (NN training)))) (CC and) (VP (VBG imposing) (NP (JJR higher) (NN order) (NN consistency)))))))) (. .))

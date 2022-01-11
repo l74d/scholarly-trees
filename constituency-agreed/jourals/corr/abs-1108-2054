@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJS nearest) (NN neighbor) (NN class)) (PP (IN of) (NP (DT a) (NN test) (NN object)))) (VP (VBZ is) (NP (NP (DT the) (NN class)) (SBAR (WHNP (WDT that)) (S (VP (VBZ maximizes) (NP (NP (DT the) (NN probability)) (PP (IN of) (S (VP (VBG providing) (NP (PRP$ its) (JJS nearest) (NN neighbor))))))))))) (. .))

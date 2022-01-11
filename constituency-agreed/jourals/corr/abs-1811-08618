@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN dependency)) (VP (VBZ is) (VP (VBN learned) (PP (IN from) (NP (NNS data))) (PP (IN by) (NP (DT the) (NN activation) (NNS networks))))) (. .))

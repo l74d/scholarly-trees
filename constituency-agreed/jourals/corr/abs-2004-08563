@@ -1,0 +1,2 @@
+(S (NP (NN Solidity)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN programming) (NNS languages)) (PP (IN for) (S (VP (VBG writing) (NP (JJ smart) (NNS contracts)) (PP (IN on) (NP (DT the) (NNP Ethereum) (NN platform)))))))))) (. .))
+(S (PP (IN Like) (NP (JJ traditional) (NNS programs))) (, ,) (NP (JJ smart) (NNS contracts)) (VP (MD may) (VP (VB contain) (NP (NNS vulnerabilities)))) (. .))

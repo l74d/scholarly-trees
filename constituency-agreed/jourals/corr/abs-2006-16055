@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ random) (NN sampling)) (VP (MD may) (VP (VB miss) (NP (NP (JJ rare) (NNS errors)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NN model)) (VP (VBZ is) (ADJP (ADJP (RB highly) (JJ confident) (PP (IN in) (NP (PRP$ its) (NN prediction)))) (, ,) (CC but) (ADJP (JJ wrong))))))))) (. .))

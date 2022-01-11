@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP try) (S (VP (TO to) (VP (VB explore) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (NN language)))) (PP (IN through) (NP (NN case) (NNS calculations))))))) (. .))
+(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP have) (VP (VBN discovered) (NP (DT a) (JJ specific) (NN language) (NN evolution) (NN tree))))))) (. .))

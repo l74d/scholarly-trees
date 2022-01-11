@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (CC and) (VBP investigate) (NP (NP (NNS assumptions)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP turn) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (JJ crucial) (PP (IN for) (NP (DT this) (NN method)))))))) (, ,) (CC but) (VP (VBP have) (VP (VBN been) (ADVP (RB rarely)) (VP (ADVP (RB explicitly)) (VBN stated) (PP (IN in) (NP (JJ related) (NNS works))))))))))) (. .))
+(S (NP (NNS Simulations)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB verify) (NP (DT the) (JJ theoretical) (NNS results))))))) (. .))

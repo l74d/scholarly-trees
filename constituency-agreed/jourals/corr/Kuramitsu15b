@@ -1,0 +1,1 @@
+(S (NP (NNP Nez)) (VP (MD can) (VP (VB generate) (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NNS parsers)))) (SBAR (IN since) (S (NP (DT all) (NNP Nez) (NNS operations)) (VP (VBP are) (ADJP (JJ independent) (PP (IN of) (NP (DT a) (JJ specific) (NN parser) (NN language))))))))) (. .))

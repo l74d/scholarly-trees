@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBD modeled) (NP (DT the) (NNP Quora) (NN question) (NNS pairs) (NN dataset)) (S (VP (TO to) (VP (VB identify) (NP (DT a) (JJ similar) (NN question)))))) (. .))
+(S (NP (DT The) (NN task)) (VP (VBZ is) (NP (DT a) (JJ binary) (NN classification))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBD experimented) (PP (IN with) (NP (NP (NNP WordPiece) (NN tokenizer)) (SBAR (WHNP (WDT which)) (S (VP (VBZ improves) (NP (DT the) (NN model) (NN performance)) (ADVP (RB significantly)))))))) (. .))

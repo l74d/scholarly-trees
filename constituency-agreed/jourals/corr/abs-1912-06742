@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB address) (NP (DT this) (NN challenge))))) (, ,) (NP (NN redundancy) (NNS schemes)) (VP (VBP are) (VP (VBN introduced))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB determine) (NP (NP (JJ optimal) (NN reliability)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB be) (VP (VBN achieved) (PP (IN with) (NP (JJ minimum) (NN cost))))))))))))) (. .))

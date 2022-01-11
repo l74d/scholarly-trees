@@ -1,0 +1,1 @@
+(S (PP (IN By) (S (VP (VBG deriving) (NP (DT a) (JJR smaller) (NN matrix)) (PP (IN from) (NP (DT the) (JJ nonnegative) (NN input) (NNS data)))))) (, ,) (NP (DT a) (ADJP (RBR more) (JJ efficient)) (JJ nonnegative) (NN decomposition)) (VP (MD can) (VP (VB be) (VP (VBN computed)))) (. .))

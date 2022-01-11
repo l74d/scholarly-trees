@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (ADVP (RB instead)) (VP (VB incorporate) (NP (DT a) (ADJP (RBR more) (JJ efficient)) (JJ counterfactual) (NN risk) (NN minimizer)) (PP (IN into) (NP (DT the) (JJ active) (NN learning) (NN algorithm)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NN E-commerce)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ important)) (NN web) (NNS applications))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (ADVP (RB here)) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS patterns)) (SBAR (WHNP (WDT that)) (S (VP (VBP describe) (NP (NP (NN shopping) (NNS carts)) (, ,) (NP (NNS products)) (, ,) (NP (NN catalogue)) (, ,) (NP (NN customer) (NNS accounts)) (, ,) (NP (NN shipping)) (, ,) (CC and) (NP (NNS invoices)))))))))) (. .))

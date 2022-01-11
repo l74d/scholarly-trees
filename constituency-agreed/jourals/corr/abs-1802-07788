@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP MLP) (NN structure)) (VP (VBZ is) (VP (VBN quantized) (SBAR (JJ such) (IN that) (S (NP (DT the) (NN implementation)) (VP (VBZ does) (RB not) (VP (VB require) (NP (NNS multiplications)))))))) (. .))

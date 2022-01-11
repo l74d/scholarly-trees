@@ -1,0 +1,1 @@
+(S (ADVP (RB Informally)) (, ,) (NP (NNP PAC)) (VP (VBZ says) (SBAR (IN that) (S (NP (DT a) (NN compiler)) (VP (MD should) (VP (VB represent) (NP (DT a) (NN source) (NN language) (NN pointer)) (PP (IN as) (NP (DT a) (NN machine) (NN code) (NN capability)))))))) (. .))

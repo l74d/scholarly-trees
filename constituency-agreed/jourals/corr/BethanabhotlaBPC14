@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (DT this) (NN solution)) (VP (VBZ is) (ADJP (JJ optimal))))) (, ,) (NP (PRP it)) (VP (VBZ requires) (NP (JJ centralized) (NN computation))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBD developed) (NP (NP (CD four) (NNS matrices)) (SBAR (WHNP (WDT which)) (S (VP (VBP calculate) (NP (NP (DT the) (NNP Laplacian)) (PP (IN of) (NP (NN block)))) (ADVP (RB easily)) (PP (IN in) (NP (NNP DCT) (NN domain)))))))) (. .))

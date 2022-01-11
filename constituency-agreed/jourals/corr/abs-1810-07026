@@ -1,0 +1,2 @@
+(S (PP (IN Despite) (NP (NNS initiatives) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (JJ scientific) (NNS codes))))))))) (, ,) (NP (EX there)) (ADVP (RB still)) (VP (VBZ is) (NP (NP (DT a) (JJ large) (NN presence)) (PP (IN of) (NP (NN legacy) (NN code))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NN quality)) (VP (VBZ is) (ADVP (RB rarely)) (VP (VBN improved) (PP (IN by) (NP (NP (NNS optimizations)) (PP (IN for) (NP (JJ new) (NNS architectures))))))) (. .))

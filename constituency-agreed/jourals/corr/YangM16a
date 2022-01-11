@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (JJ robust) (NN estimator)) (VP (VBN presented) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VBZ processes) (NP (DT each) (NN structure)) (ADVP (RB independently))) (. .))
+(S (S (NP (NP (DT The) (NNS scales)) (PP (IN of) (NP (DT the) (NNS structures)))) (VP (VBP are) (VP (VBN estimated) (ADVP (RB adaptively))))) (CC and) (S (NP (DT no) (NN threshold)) (VP (VBZ is) (VP (VBN involved) (PP (IN in) (NP (NP (NN spite)) (PP (IN of) (NP (JJ different) (JJ objective) (NNS functions)))))))) (. .))
+(S (PP (IN Like) (NP (DT any) (JJ robust) (NNS estimators))) (, ,) (NP (DT this) (NN algorithm)) (ADVP (RB also)) (VP (VBZ has) (NP (NP (NNS limitations)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (NN detail))))))))) (. .))

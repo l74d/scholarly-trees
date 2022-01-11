@@ -1,0 +1,1 @@
+(S (PP (IN As) (ADJP (JJ usual))) (, ,) (S (VP (VBG learning) (NP (DT an) (JJ optimal) (NN policy)) (PP (IN in) (NP (DT this) (NN setting))))) (ADVP (RB typically)) (VP (VBZ requires) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (NN training) (NNS experiences))))) (. .))

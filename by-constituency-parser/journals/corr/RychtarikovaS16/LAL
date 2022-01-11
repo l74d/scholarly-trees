@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN article)) (VP (VBZ presents) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (NP (NP (NNS organelles) (POS ›)) (NNS movements)) (ADVP (IN inside) (PP (IN of) (NP (DT an) (JJ unmodified) (NN live) (NN cell)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD used) (NP (NP (DT a) (JJ time-lapse) (NN image) (NN series)) (VP (VBN obtained) (S (VP (VBG using) (NP (JJ wide-field) (JJ bright-field) (NN photon) (NN transmission) (NN microscopy)))))) (PP (IN as) (NP (DT an) (NN algorithm) (NN input)))) (. .))

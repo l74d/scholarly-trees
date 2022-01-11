@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ requires) (NP (NP (DT an) (JJ explicit) (JJ formal) (NN specification)) (PP (IN of) (NP (NP (DT a) (VBN shared) (NN conceptualization)) (PP (IN of) (NP (DT those) (NNS interactions))))))) (. .))
+(S (NP (DT This) (NN vocabulary)) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN reused)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB adapt) (CC and) (VB extend) (NP (PRP it)) (PP (IN for) (S (VP (VBG making) (S (NP (PRP it)) (ADJP (RBR more) (JJ reusable)))))))))) (. .))

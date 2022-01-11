@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN sentiment) (NN score)) (ADVP (RB actually)) (VP (VBZ represents)))) (VP (VBZ has) (ADVP (RB often)) (VP (VBN been) (VP (VBN overlooked)))) (. .))
+(S (PP (IN As) (NP (NP (DT a) (NN measurement)) (PP (IN of) (NP (NP (NNS opinions)) (CC and) (NP (JJ affective) (NNS states)))))) (, ,) (NP (DT a) (NN sentiment) (NN score)) (ADVP (RB generally)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD two) (NNS aspects)) (: :) (NP (NN polarity) (CC and) (NN intensity))))) (. .))

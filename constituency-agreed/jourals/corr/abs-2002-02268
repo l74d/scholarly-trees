@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (NP (DT some) (NNS systems)) (PP (JJ such) (IN as) (NP (NNP Halide) (CC or) (NNP TVM))))) (, ,) (NP (DT a) (JJ separate) (NN schedule)) (VP (VBZ specifies) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN program)) (VP (MD should) (VP (VB be) (VP (VBN optimized))))))) (. .))

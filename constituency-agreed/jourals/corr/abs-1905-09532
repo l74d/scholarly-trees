@@ -1,0 +1,2 @@
+(S (NP (JJ Concolic) (NN execution)) (VP (VBZ is) (NP (NP (DT a) (JJ powerful) (NN program) (NN analysis) (NN technique)) (PP (IN for) (S (VP (VBG exploring) (NP (NN execution) (NNS paths)) (PP (IN in) (NP (DT a) (JJ systematic) (NN manner)))))))) (. .))
+(S (NP (NNP SynFuzz)) (VP (VBZ achieves) (NP (DT this) (NN goal)) (PP (IN by) (S (VP (VBG replacing) (NP (NN interpretation)) (PP (IN with) (NP (NP (JJ dynamic) (NN taint) (NN analysis)) (CC and) (NP (NN program) (NN synthesis)))))))) (. .))

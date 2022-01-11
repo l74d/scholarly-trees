@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN approximation)) (VP (VBZ describes) (NP (DT the) (NN input)) (PP (IN by) (NP (PRP$ its) (NN covariance) (NN matrix))) (, ,) (SBAR (IN while) (S (NP (DT the) (NN channel) (NNS properties)) (VP (VBP are) (VP (VBN described) (PP (IN by) (NP (DT the) (NNP Fisher) (NN information) (NN matrix)))))))) (. .))

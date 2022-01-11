@@ -1,0 +1,2 @@
+(S (NP (ADJP (RB Very) (JJ little)) (NN theory)) (VP (VBZ is) (ADJP (JJ available) (S (VP (TO to) (VP (VB explain) (NP (DT these) (NNS observations))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (JJS nearest) (NN neighbor) (NNS schemes)) (VP (VBP exhibit) (NP (JJ optimal) (NNS rates)) (PP (IN under) (NP (DT some) (JJ standard) (JJ statistical) (NNS assumptions)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (NP (NP (DT the) (NN recall)) (PP (IN of) (NP (NNP Oreo)))) (PP (IN on) (NP (NNP BigCloneBench)))) (, ,) (CC and) (VP (VB perform) (NP (JJ manual) (NN evaluation)) (PP (IN for) (NP (NN precision))))) (. .))

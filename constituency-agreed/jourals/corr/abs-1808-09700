@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD found) (NP (NNS problems)) (PP (IN in) (NP (NP (DT every) (NN evaluation)) (SBAR (S (NP (PRP we)) (VP (VBD considered))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBD performed) (NP (PRP$ our) (JJ own) (JJ extensive) (JJ experimental) (NN evaluation)) (S (VP (VBG using) (NP (DT an) (VBG existing) (NN fuzzer))))) (. .))

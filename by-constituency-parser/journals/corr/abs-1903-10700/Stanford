@@ -1,0 +1,4 @@
+(S (NP (DT The) (NML (JJ maximum) (NN clique)) (NN problem)) (VP (VP (VBZ is) (NP (NP (DT a) (ADJP (NP (JJ classical) (NN NP)) (HYPH -) (JJ complete)) (NN problem)) (PP (IN in) (NP (NN graph) (NN theory))))) (CC and) (VP (VBZ has) (NP (NP (JJ important) (NNS applications)) (PP (IN in) (NP (JJ many) (NNS domains)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP show) (, ,) (PP (IN in) (NP (DT a) (ADJP (RB partially) (JJ non-constructive)) (NN way))) (, ,) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT an) (JJ exact) (ADJP (JJ polynomial) (HYPH -) (NN time)) (NN algorithm)))) (PP (IN for) (NP (DT this) (NN problem)))) (. .))
+(S (NP (PRP We)) (VP (VBP outline) (NP (NP (DT the) (NN algorithm)) (PP (IN in) (NP (NN pseudo-code) (NN style))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP prove) (NP (PRP$ its) (NN exactness) (CC and) (NN efficiency)) (PP (IN by) (NP (NN analysis)))) (. .))

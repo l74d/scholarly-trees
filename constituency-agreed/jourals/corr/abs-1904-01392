@@ -1,0 +1,2 @@
+(S (NP (NNP Misbehavior) (NN detection)) (VP (VBZ is) (NP (DT an) (JJ important) (NN security) (NN component))) (. .))
+(S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (ADJP (JJ predefined) (CC and) (JJ static)) (NN security) (NNS thresholds)))) (VP (VBP are) (NP (NP (DT the) (JJ main) (NNS drawbacks)) (PP (IN of) (NP (DT the) (VBG existing) (NNS solutions))))) (. .))

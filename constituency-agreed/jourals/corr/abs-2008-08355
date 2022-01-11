@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ examines) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (NP (JJ scientific) (NNS collaborations)) (PP (IN in) (NP (DT a) (JJ large) (JJ European) (JJ metropolitan) (NN area))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP BUA) (NNS members)) (VP (VBP shape) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (NP (JJ scientific) (NNS collaborations)) (PP (IN in) (NP (DT the) (NN region)))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP are) (RB not) (VP (VBG collaborating) (ADVP (RB cohesively)) (PP (IN in) (NP (DT all) (NNS disciplines))))) (. .))

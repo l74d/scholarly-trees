@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (JJ main) (NN task)) (PP (IN for) (NP (NP (DT that)) (PP (IN of) (NP (DT a) (NN turbo) (NN code)))))) (VP (VBZ is) (S (VP (TO to) (VP (VB recover) (NP (DT the) (NN interleaver)))))) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (VBZ continues) (PP (IN till) (NP (DT the) (NN end))) (SBAR (RB even) (IN if) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN failed) (PP (IN in) (NP (DT the) (NN halfway)))))))) (. .))
+(S (S (VP (TO To) (VP (VB address) (NP (JJ such) (NNS drawbacks))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ proposes) (NP (NP (DT an) (JJ early) (NN stopping) (NN method)) (PP (IN for) (NP (DT the) (NN algorithm))))) (. .))
+(S (NP (NP (NNS Thresholds)) (VP (VBN needed) (PP (IN for) (NP (DT the) (NN method))))) (VP (VBP are) (VP (VBN set) (PP (IN through) (NP (JJ theoretical) (NN analysis))))) (. .))

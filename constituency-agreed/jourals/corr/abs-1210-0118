@@ -1,0 +1,1 @@
+(S (PP (IN During) (NP (DT a) (JJ computational) (NN episode))) (, ,) (NP (NNS activations)) (VP (VBP are) (VP (VBG spreading) (PP (IN from) (NP (NN input) (NNS neurons))) (PP (IN through) (NP (DT the) (NNP SLIM) (NNP NN))) (SBAR (IN until) (S (NP (DT the) (NN computation)) (VP (VBZ activates) (NP (DT a) (JJ special) (NN halt) (NN neuron))))))) (. .))

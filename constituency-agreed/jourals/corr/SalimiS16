@@ -1,0 +1,2 @@
+(S (NP (JJ Many) (NNS toolkits)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN for) (NP (NP (DT this) (NN purpose)) (SBAR (WHNP (WDT that)) (S (VP (VBZ depends) (PP (IN on) (NP (JJ statistical) (NN software))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (NN quality) (CC and) (NN performance)) (PP (IN of) (NP (PRP$ our) (NNS techniques)))) (PP (IN by) (NP (NP (NNS experiments)) (PP (IN of) (NP (JJ real) (NNS datasets)))))) (. .))

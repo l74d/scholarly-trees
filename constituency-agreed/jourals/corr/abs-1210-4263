@@ -1,0 +1,1 @@
+(S (NP (NNS Threads) (CC and) (NNS events)) (VP (VBP are) (NP (NP (CD two) (JJ common) (NNS abstractions)) (PP (IN for) (S (VP (VBG writing) (NP (JJ concurrent) (NNS programs))))))) (. .))

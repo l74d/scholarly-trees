@@ -1,0 +1,2 @@
+(S (NP (DT Each) (NN member)) (VP (VBZ uses) (NP (NP (PRP$ its) (NN rate)) (PP (IN of) (NP (NP (NN change)) (PP (IN of) (NP (NN opinion)))))) (PP (IN as) (NP (DT a) (NN control) (NN input)))) (. .))
+(S (NP (DT This)) (VP (VBZ defines) (NP (NP (DT a) (JJ dynamic) (JJ non-cooperative) (NN game)) (SBAR (WHNP (WDT that)) (S (VP (VBZ turns) (PRT (RP out)) (S (VP (TO to) (VP (VB have) (NP (DT a) (JJ unique) (NNP Nash) (NN equilibrium)))))))))) (. .))

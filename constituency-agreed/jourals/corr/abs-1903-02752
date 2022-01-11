@@ -1,0 +1,2 @@
+(S (ADVP (RB Consequently)) (NP (NNS consortiums)) (VP (VBP are) (VP (VBG exploring) (NP (JJ private) (NNS blockchains)) (S (VP (TO to) (VP (VB keep) (S (NP (PRP$ their) (NN membership) (CC and) (NNS transactions)) (ADJP (JJ private)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP they)) (VP (VBP require) (SBAR (IN that) (S (NP (NP (DT all) (NNS transactions) (CC and) (NNS members)) (PP (IN of) (NP (DT the) (JJ private) (NN blockchain)))) (VP (VB be) (VP (VBN revealed)))))) (. .))

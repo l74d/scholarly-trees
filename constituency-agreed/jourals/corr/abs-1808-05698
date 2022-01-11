@@ -1,0 +1,1 @@
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN protocol)) (VP (VBZ provides) (NP (NN session) (NNS guarantees)) (PP (IN with) (NP (DT a) (JJ negligible) (NN overhead))) (SBAR (WHADVP (WRB when)) (S (VP (VBN compared) (PP (IN with) (NP (JJ eventual) (NN consistency)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (PP (VBN Given) (NP (DT a) (JJ finite) (NN sample))) (, ,) (NP (DT an) (JJ empirical) (NN average)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (ADVP (RB commonly)) (PP (IN as) (NP (NP (DT a) (JJ standard) (NN estimator)) (PP (IN of) (NP (DT the) (JJ true) (NN kernel) (NN mean)))))))) (. .))

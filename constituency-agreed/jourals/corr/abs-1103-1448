@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ stochastic) (NN coupling) (NNS arguments)) (PP (IN for) (NP (PRP$ our) (NN proof)))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (DT a) (NN simulation) (NN study)) (S (VP (TO to) (VP (VB compare) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ several) (NNS policies)))))))) (. .))

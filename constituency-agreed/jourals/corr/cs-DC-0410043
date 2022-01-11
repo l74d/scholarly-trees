@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP do) (RB not) (VP (VB give) (NP (DT any) (JJ complete) (NN theory)))) (. .))
+(S (NP (PRP We)) (VP (VBP want) (ADVP (RB rather)) (S (VP (TO to) (VP (VB describe) (NP (DT a) (JJ new) (JJ fresh) (NN idea)))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT a) (NN tree) (NN code)) (VP (VBN defined) (PP (IN by) (NP (NNP Schulman)))))) (. .))

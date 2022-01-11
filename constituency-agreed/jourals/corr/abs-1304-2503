@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ conceptual) (NN model)) (PP (IN of) (NP (NP (NNS agents)) (PP (IN in) (NP (JJ multiple) (NN flow) (NNS networks))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN model)) (PP (IN as) (NP (NP (DT a) (NN basis)) (PP (IN for) (S (VP (VBG comparing) (NP (JJ different) (NN power) (NN system) (NNS simulators)))))))) (. .))

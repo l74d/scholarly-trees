@@ -1,0 +1,1 @@
+(S (S (NP (JJ Empirical) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN accuracy) (CC and) (NN speed)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm)))) (VP (VBP are) (ADJP (JJ acceptable))))))) (: ;) (S (ADVP (RB additionally)) (, ,) (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ is) (ADJP (JJ scalable)))) (. .))

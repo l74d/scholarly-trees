@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Several) (NNS models)) (PP (IN for) (NP (NN sequence) (NN labeling)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN over) (NP (DT the) (JJ last) (JJ few) (NNS years)))))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NP (JJ discriminative) (NNS models)) (PP (IN for) (NP (NN sequence) (NN labeling)))))) (. .))

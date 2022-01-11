@@ -1,0 +1,1 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NP (DT the) (NN sub-problem)) (PP (IN of) (S (VP (VBG determining) (NP (DT the) (NN user) (NN association)))))) (VP (VBZ is) (VP (VBN solved) (PP (IN via) (NP (DT a) (JJ simple) (JJ combinatorial) (NN algorithm))))) (. .))

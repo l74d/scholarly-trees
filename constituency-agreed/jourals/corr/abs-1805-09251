@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ former) (NN design)) (VP (VP (VBZ is) (ADJP (JJ inflexible))) (CC and) (VP (VBZ increases) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (CD one) (NN framework)))))) (. .))
+(S (NP (DT The) (JJ new) (NN design)) (VP (VBZ allows) (S (VP (TO to) (VP (VB reuse) (NP (VBN allocated) (NN network) (NNS services)) (, ,) (S (ADVP (RB thus)) (VP (VBG maximizing) (NP (NN resource) (NN utilization)))))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Then)) (, ,) (NP (DT a) (JJ binary) (NN labeling)) (VP (VBZ is) (VP (VBN performed) (S (VP (TO to) (VP (VB achieve) (NP (DT a) (JJ refined) (NN segmentation))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP LooseCut)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (S (VP (VBG enhancing) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (JJ unsupervised) (NN video) (NN segmentation)) (CC and) (NP (NN image) (NN saliency) (NN detection)))))))))))))) (. .))

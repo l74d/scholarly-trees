@@ -1,0 +1,2 @@
+(S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (JJ strict) (NN supervision)) (VP (VBZ requires) (NP (NP (NP (JJ detailed) (NN knowledge)) (PP (IN of) (NP (DT the) (JJ true) (JJ generative) (NNS factors)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (RB not) (ADVP (RB always)) (ADJP (JJ possible))))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NNP TCVAE)))) (, ,) (S (VP (VBG adding) (NP (QP (RB only) (CD one)) (JJ extra) (NN hyperparameter))))) (. .))

@@ -1,0 +1,2 @@
+(S (ADVP (RB Yet)) (, ,) (NP (DT this) (NN step)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN overlooked) (PP (IN in) (NP (JJ scientific) (NNS publications))))) (. .))
+(S (NP (JJ Different) (JJ post-processing) (NNS steps)) (VP (VBP are) (VP (VBN investigated) (, ,) (PP (IN through) (NP (NN smoothing) (, ,) (NN thresholding) (, ,) (CC and) (NN optimization))))) (. .))

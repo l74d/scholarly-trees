@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN motion)) (VP (VBZ is) (VP (VBN estimated) (PP (IN on) (NP (NP (DT a) (JJ sparse) (NN set)) (PP (IN of) (NP (JJ representative) (NNS vertices))))) (S (VP (VBG using) (NP (JJ new) (JJ spectral) (NN graph) (NN wavelet) (NNS descriptors)))))) (. .))

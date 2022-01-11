@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Neural) (NNS networks)) (PP (IN with) (NP (JJ high) (NN performance)))) (VP (MD can) (ADVP (RB still)) (VP (VB be) (VP (VBN biased) (PP (IN towards) (NP (JJ non-relevant) (NNS features)))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP classify) (NP (JJ facial) (NNS expressions)) (PP (IN with) (NP (DT a) (JJ neural) (NN network)))) (. .))

@@ -1,0 +1,1 @@
+(S (CC And) (NP (NP (DT the) (NNS servers)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN placed) (PP (IN in) (NP (DT the) (NN rack)))))))) (VP (MD can) (RB not) (VP (VB make) (NP (NP (JJ full) (NN use)) (PP (IN of) (NP (JJ available) (NN rack) (NN power)))))) (. .))

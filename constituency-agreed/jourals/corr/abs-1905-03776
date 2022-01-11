@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP investigate) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (JJ final) (NNS parameters)) (VP (VBN found) (PP (IN by) (NP (JJ stochastic) (NN gradient) (NN descent))))) (VP (VBP are) (VP (VBN influenced) (PP (IN by) (NP (NN over-parameterization)))))))) (. .))

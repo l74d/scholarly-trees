@@ -1,0 +1,6 @@
+(S (NP (CD Two) (JJ multiplierless) (VBN pruned) (NML (CD 8) (HYPH -) (NN point)) (JJ discrete) (NML (NML (NN cosine) (S (VP (VB transform)))) (-LRB- -LRB-) (NML (NNP DCT)) (-RRB- -RRB-)) (NN approximation)) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (DT Both)) (VP (VBZ transforms) (NP (ADJP (JJ present) (JJR lower)) (NN arithmetic) (NN complexity)) (PP (IN than) (NP (NML (NML (NN state)) (HYPH -) (PP (IN of) (HYPH -) (NP (DT the) (HYPH -) (NN art)))) (NNS methods)))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (JJ such) (JJ new) (NNS methods)))) (VP (VBD was) (VP (VBN assessed) (PP (IN in) (NP (DT the) (NML (NN image) (NN compression)) (NN context))))) (. .))
+(S (NP (DT A) (ADJP (NP (NN JPEG)) (HYPH -) (JJ like)) (NN simulation)) (VP (VBD was) (VP (VBN performed) (, ,) (S (VP (VBG demonstrating) (NP (NP (DT the) (NN adequateness) (CC and) (NN competitiveness)) (PP (IN of) (NP (DT the) (VBN introduced) (NNS methods)))))))) (. .))
+(S (NP (NP (NNP Digital) (NNP VLSI) (NN implementation)) (PP (IN in) (NP (NN CMOS) (NN technology)))) (VP (VBD was) (ADVP (RB also)) (VP (VBN considered))) (. .))
+(S (NP (DT Both) (VBN presented) (NNS methods)) (VP (VBD were) (VP (VBN realized) (PP (IN in) (NP (NNP Berkeley) (NNP Emulation) (NNP Engine))) (PRN (-LRB- -LRB-) (NP (NN BEE3)) (-RRB- -RRB-)))) (. .))

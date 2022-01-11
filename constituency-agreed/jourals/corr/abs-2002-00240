@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ major) (NN difficulty)) (PP (IN in) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (NNS hypernetworks)))))) (VP (VBZ is) (NP (NP (PRP$ their) (NN lack)) (PP (IN of) (NP (NN stability))))) (. .))
+(S (NP (PRP We)) (VP (VBP tackle) (NP (DT this)) (PP (IN by) (S (VP (VBG combining) (NP (NP (DT the) (JJ current) (NN message)) (CC and) (NP (DT the) (JJ first) (NN message))))))) (. .))

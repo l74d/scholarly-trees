@@ -1,0 +1,2 @@
+(S (NP (DT Another) (NN example)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (PRP we)) (VP (MD can) (VP (VB apply) (NP (DT the) (NN algorithm)) (S (VP (TO to) (VP (VB simulate) (NP (JJ mechanical) (NNS linkages)))))))))) (. .))
+(S (ADVP (RB Apparently)) (, ,) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ complex) (NNS detours)))) (VP (VBZ produces) (NP (NP (ADJP (RB physically) (JJ reasonable)) (NN motion)) (PP (IN of) (NP (JJ such) (NNS linkages))))) (. .))

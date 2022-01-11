@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (DT each) (NN iteration))) (, ,) (NP (PRP they)) (VP (VBP compute) (NP (DT a) (JJ new) (NN hash) (NN value)) (PP (IN from) (NP (NP (DT the) (VBG preceding) (NN hash) (NN value)) (CC and) (NP (DT the) (JJ next) (NN character))))) (. .))

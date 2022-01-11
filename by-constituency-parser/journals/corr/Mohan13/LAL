@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NNP ADMM) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP use) (NP (NP (DT a) (NN continuation) (NN strategy)) (PP (IN on) (NP (DT the) (NN penalty) (NN parameter)))) (S (VP (TO to) (VP (VB have) (NP (NP (DT a) (JJ fast) (NN implemenation)) (PP (IN of) (NP (DT the) (NN algorithm)))))))) (. .))

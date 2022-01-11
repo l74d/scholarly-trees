@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB intelligently)) (VP (VBP divide) (NP (DT a) (VBN given) (NN cache)) (PP (IN during) (NP (NP (NN processing)) (PP (IN of) (NP (DT a) (NN query) (NN workload))))) (PP (IN by) (S (VP (VBG using) (NP (JJ novel) (NN cost) (NNS models)))))) (. .))

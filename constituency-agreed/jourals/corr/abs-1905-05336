@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ fractional) (NN order) (NN gradient) (NN method)) (PP (IN for) (NP (NP (DT the) (JJ backward) (NN propagation)) (PP (IN of) (NP (JJ convolutional) (JJ neural) (NNS networks))))))) (. .))

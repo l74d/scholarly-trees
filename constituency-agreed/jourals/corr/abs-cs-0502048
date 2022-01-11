@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (NN probability)) (PP (IN of) (S (VP (VBG detecting) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT an) (NN eavesdropper)))))))) (VP (VBZ increases) (ADVP (RB exponentially)) (PP (IN with) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS qubits)))))))))) (. .))

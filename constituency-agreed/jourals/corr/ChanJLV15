@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ has) (NP (NP (CD two) (NNS components)) (: :) (NP (NP (DT a) (NN listener)) (CC and) (NP (DT a) (NN speller))))) (. .))
+(S (NP (DT The) (NN network)) (VP (VBZ produces) (NP (NN character) (NNS sequences)) (PP (IN without) (S (VP (VBG making) (NP (NP (DT any) (NN independence) (NNS assumptions)) (PP (IN between) (NP (DT the) (NNS characters)))))))) (. .))

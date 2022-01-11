@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT each) (NN problem))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (CD two) (NNS analyses)) (PP (IN of) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ our) (NN algorithm)) (VP (VBZ succeeds))))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN analysis))) (, ,) (NP (DT the) (JJ diversionary) (NNS edges)) (VP (VBP are) (VP (VBN placed) (PP (IN by) (NP (DT an) (NN adversary))))) (. .))

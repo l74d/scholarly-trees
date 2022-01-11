@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBD evaluated) (NP (PRP$ our) (NN approach)) (PP (IN for) (NP (JJ several) (NNS applications)))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (PP (VBN based) (PP (IN on) (NP (NN simulation) (NNS results)))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG replacing) (NP (NP (DT the) (NN comparator) (NN component)) (PP (IN of) (NP (DT an) (NNP SNG) (NN circuit)))) (PP (IN with) (NP (DT a) (JJ weighted) (JJ binary) (NN generator))))) (VP (MD can) (VP (VB reduce) (NP (NNP SCC))))))) (. .))

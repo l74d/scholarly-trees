@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (JJ vertex) (NN connectivity)) (VP (VBZ plays) (NP (DT a) (JJ central) (NN role)))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (ADJP (RB slightly) (JJR weaker)) (NNS bounds)) (PP (IN on) (NP (JJ arbitrary) (NNS networks)))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP initiate) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NP (JJ maximal) (NN identifiability)) (PP (IN in) (NP (JJ random) (NNS networks))))))) (. .))

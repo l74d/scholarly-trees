@@ -1,0 +1,2 @@
+(S (NP (NNP New) (JJ statistical) (NNS properties)) (VP (VBP are) (VP (VBN derived))) (. .))
+(S (NP (DT The) (NN method)) (VP (MD can) (VP (VB be) (ADVP (RB further)) (VP (VBN used) (PP (IN in) (S (VP (VP (VBG representing) (NP (DT the) (JJ complex) (NN vessel) (NNS trees)) (ADVP (RB parametrically))) (CC and) (VP (VBG extracting) (NP (NP (DT the) (NN skeleton) (NN representation)) (PP (IN of) (NP (DT the) (NNS trees))))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (VP (VBG Modeling) (NP (DT a) (JJ temporal) (NN process)) (SBAR (IN as) (IN if) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ Markovian))))))) (VP (VBZ assumes) (SBAR (S (NP (DT the) (JJ present)) (VP (VBZ encodes) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NN process) (POS 's)) (NN history)))))))) (. .))

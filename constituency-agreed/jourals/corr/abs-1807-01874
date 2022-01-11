@@ -1,0 +1,1 @@
+(S (SBAR (IN Since) (S (NP (DT the) (NN search) (NN range)) (VP (VBZ is) (VP (VBN obtained) (PP (IN from) (NP (DT the) (JJ previous) (NN iteration))))))) (, ,) (NP (NNS errors)) (VP (MD may) (VP (VB occur) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (VBN propagated) (NN search) (NN range)) (VP (VBZ is) (RB not) (ADJP (JJ sufficient))))))) (. .))

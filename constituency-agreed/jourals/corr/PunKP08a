@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBD was) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (VBG limiting) (NN distribution)) (PP (IN of) (NP (DT the) (JJ effective) (NNP SIR)))) (VP (VBZ is) (PP (IN of) (NP (DT the) (NNP Frechet) (NN type)))))))) (. .))
+(S (NP (DT These) (JJ novel) (NNS results)) (VP (VBP are) (VP (VBN validated) (PP (IN by) (NP (NN simulation) (NNS results))))) (. .))

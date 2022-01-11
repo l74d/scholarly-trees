@@ -1,0 +1,2 @@
+(S (NP (JJ Strong) (NN rule) (NN generation)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN area)) (PP (IN of) (NP (NNS data) (NN mining))))) (. .))
+(S (NP (DT The) (NN result)) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (VBZ is) (VP (VBN outperformed) (PP (IN by) (NP (NP (DT the) (NNS objectives)) (PP (IN like) (NP (NN accuracy) (, ,) (NN completeness) (, ,) (NN comprehensibility) (CC and) (NN interestingness)))))))))) (. .))

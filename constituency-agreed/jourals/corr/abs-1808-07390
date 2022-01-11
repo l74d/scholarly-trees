@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (VBG existing) (NN work)) (PP (IN on) (NP (JJ explicit) (NNP FNN) (NN construction))))))) (, ,) (NP (DT the) (VBN proposed) (NNP FNN)) (VP (VBZ does) (RB not) (VP (VB rely) (PP (IN on) (NP (NP (NN tensor) (NN structure)) (PP (IN in) (NP (JJ multiple) (NNS dimensions))))))) (. .))
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (DT the) (NN construction)) (ADJP (RBR more) (JJ practical) (PP (IN for) (NP (NNS applications)))))) (. .))

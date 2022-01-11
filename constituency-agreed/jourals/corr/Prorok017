@@ -1,0 +1,3 @@
+(S (ADVP (RB However)) (, ,) (NP (JJ current) (NNS approaches)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (JJ accurate) (NN positioning) (NN information)) (PP (IN for) (NP (NNS passengers) (CC and) (NNS vehicles)))) (VP (VBZ is) (ADJP (RB readily) (JJ available)))))) (. .))
+(S (NP (DT This) (NN assumption)) (VP (VBZ raises) (NP (NN privacy) (NNS concerns))) (. .))
+(S (NP (PRP$ Our) (JJ main) (NNS contributions)) (VP (VBP are) (ADJP (JJ two-fold))) (. .))

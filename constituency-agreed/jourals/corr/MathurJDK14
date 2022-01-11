@@ -1,0 +1,2 @@
+(NP (NP (DT A) (NN source)) (SBAR (WHNP (WP$ whose) (JJ major) (NN purpose)) (S (VP (VBZ is) (S (VP (TO to) (VP (VB facilitate) (NP (JJ human) (NN communication) (CC and) (NN interoperability)))))))) (. .))
+(S (NP (DT This) (NN task)) (VP (VBZ is) (VP (VBN termed) (PP (IN as) (NP (NN ontology) (NN matching))))) (. .))
