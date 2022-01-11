@@ -9,12 +9,8 @@ However for tasks taking parse trees as input, like information extraction, you 
 Currently this repo contains 880k files and 294k directories (Warning: potential performance hazard if you clone this repo on Windows).
 Best practice would be to use a (virtual) ReiserFS (which excels at handling extremely large number of small files) partition, although anywhere on a usual Linux machine should still suffice.
 
-#Abstracts parsed by LAL-Parser: 294101
-
-#Abstracts parsed by Stanford Parser: 294101
-
-#Sentences parsed by Stanford Parser: 1606696
-
-#Sentences parsed by Stanford Parser: 1606696
-
-#Sentences in agreement by both parsers: 75601
+  #Abstracts parsed by LAL-Parser: 294101
+  #Abstracts parsed by Stanford Parser: 294101
+  #Sentences parsed by Stanford Parser: 1606696
+  #Sentences parsed by Stanford Parser: 1606696
+  #Sentences in agreement by both parsers: 75601
