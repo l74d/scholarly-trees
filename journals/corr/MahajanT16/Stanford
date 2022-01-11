@@ -1,0 +1,2 @@
+(S (NP (DT Every) (NN multilinear) (NN polynomial)) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN as) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NNS ROFs)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP prove) (, ,) (PP (IN for) (NP (NP (JJ certain) (JJ multilinear) (NNS polynomials)) (, ,) (NP (DT a) (ADJP (ADVP (RB tight) (JJR lower)) (VBN bound) (PP (IN on) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS summands)) (PP (IN in) (NP (PDT such) (DT an)))))))) (NN expression))))) (. .))

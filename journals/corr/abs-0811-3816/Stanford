@@ -1,0 +1,4 @@
+(S (NP (NP (DT An) (JJ adaptive) (NN voting) (NN algorithm)) (PP (IN for) (NP (JJ digital) (NNS media)))) (VP (VBD was) (VP (VBN introduced) (PP (IN in) (NP (DT this) (NN study))))) (. .))
+(S (NP (NN Availability)) (VP (VBD was) (VP (VBN improved) (PP (IN by) (NP (NN incoherence) (NN scoring))) (PP (IN in) (NP (NP (NN voting) (NN mechanism)) (PP (IN of) (NP (NNP Multi-Modular) (NN Redundancy))))))) (. .))
+(S (NP (NN Regulation) (NNS parameters)) (VP (VBP give) (NP (DT the) (NN algorithm)) (NP (NP (NN flexibility)) (PP (IN of) (S (VP (VBG adjusting) (NP (NNS priorities)) (PP (IN in) (NP (NN decision) (NN process)))))))) (. .))
+(S (NP (NP (VBN Proposed) (JJ adaptive) (NN voting)) (NP (NN algorithm))) (VP (VBD was) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (RBR more) (JJ aware)) (PP (IN of) (NP (NP (NN fault) (NN status)) (PP (IN of) (NP (JJ redundant) (NNS modules))))))))))))

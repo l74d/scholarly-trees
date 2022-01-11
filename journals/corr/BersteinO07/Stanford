@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP establish) (NP (NP (DT an) (ADJP (JJ exponential) (JJR lower)) (ADJP (VBN bound) (PP (IN on) (NP (DT the) (NNP Graver)))) (NN complexity)) (PP (IN of) (NP (NN integer) (NNS programs))))) (. .))
+(S (NP (DT This)) (VP (VBZ provides) (NP (NP (JJ new) (NN type)) (PP (IN of) (NP (NP (NN evidence)) (VP (VBG supporting) (NP (NP (DT the) (JJ presumable) (NN intractability)) (PP (IN of) (NP (NN integer) (NN programming))))))))) (. .))

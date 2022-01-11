@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (JJ low-complexity) (NN algorithm)) (PP (IN for) (NP (NP (NN calculation)) (PP (IN of) (NP (DT the) (NNP LMMSE) (NN filter) (NNS coefficients))) (PP (IN for) (NP (NNP GFDM))) (PP (IN in) (NP (DT a) (JJ block-fading) (NN multipath) (NN environment)))))) (VP (VBZ is) (VP (VBN derived) (PP (IN in) (NP (DT this) (NN letter))))) (. .))
+(S (NP (DT The) (NN simplification)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN block) (NN circularity)) (PP (IN of) (NP (DT the) (JJ involved) (NNS matrices))))))) (. .))
+(S (NP (DT The) (NN proposal)) (VP (VBZ reduces) (NP (NN complexity)) (PP (PP (IN from) (ADJP (JJ cubic))) (PP (TO to) (NP (VBN squared) (NN order))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN approach)) (VP (MD can) (VP (VB be) (VP (VBN generalized) (PP (TO to) (NP (NP (JJ other) (NNS waveforms)) (PP (IN with) (NP (JJ circular) (NN pulse) (NN shaping)))))))) (. .))

@@ -1,0 +1,1 @@
+(FRAG (NP (NN Satisfiability)) (VP (VBG checking) (PP (IN for) (NP (NP (NP (ADJP (JJ monotone) (JJ modal)) (NN logic)) (SBAR (S (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (-LRB- -LRB-) (ADVP (RB only)) (-RRB- -RRB-))))))))) (ADJP (NP (NNP NP)) (HYPH -) (JJ complete))))) (. .))

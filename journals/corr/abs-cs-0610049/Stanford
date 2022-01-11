@@ -1,0 +1,2 @@
+(SBARQ (WHADVP (WRB Why)) (SQ (VBZ has) (NP (NP (DT the) (JJ problematic)) (PP (IN of) (NP (NN complexity)))) (VP (VBD appeared) (ADJP (RB so) (JJ late)))) (. ?))
+(SBARQ (CC And) (WHADVP (WRB why)) (SQ (MD would) (NP (PRP it)) (VP (VB be) (VP (VBN justified)))) (. ?))

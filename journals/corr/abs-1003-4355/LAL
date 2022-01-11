@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (DT the) (NN secure) (NNS communications)) (PP (IN over) (NP (JJ correlated) (JJ wiretap) (NNP Rayleigh) (NN fading) (NNS channels))) (S (VP (VBG assuming) (NP (NP (DT the) (JJ full) (NN channel) (NN state) (NN information)) (PRN (-LRB- -LRB-) (NP (NNP CSI)) (-RRB- -RRB-)) (ADJP (JJ available)))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT the) (NN information) (JJ theoretic) (NN formulation)))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (JJ closed-form) (NNS expressions)) (PP (IN for) (NP (NP (DT the) (JJ average) (JJ secrecy) (NN capacity)) (CC and) (NP (DT the) (NN outage) (NN probability)))))) (. .))
+(S (NP (NN Simulation) (NNS results)) (VP (VBP confirm) (NP (PRP$ our) (JJ analytical) (NNS expressions))) (. .))

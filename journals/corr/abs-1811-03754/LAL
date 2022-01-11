@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ neural) (NN architecture)) (PP (IN for) (NP (NP (JJ Vietnamese) (NN sequence) (VBG labeling) (NNS tasks)) (PP (VBG including) (NP (NP (NN part-of-speech) (PRN (-LRB- -LRB-) (NNP POS) (-RRB- -RRB-)) (NN tagging)) (CC and) (NP (NP (VBN named) (NN entity) (NN recognition)) (PRN (-LRB- -LRB-) (NP (NNP NER)) (-RRB- -RRB-))))))))) (. .))
+(S (NP (PRP$ Our) (NN sourcecode)) (VP (VBZ is) (ADJP (JJ available)) (PP (IN at) (ADVP (RB here)))) (. .))

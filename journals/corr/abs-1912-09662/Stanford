@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (NML ($ $) (CD 2)) (NML (NML ($ $)) (HYPH -) (NML (NML (NN Edge)) (HYPH -) (VP (VBN Connected) (NP (NNP Dominating) (NNP Set))))) (NN problem))) (NP (NML (NML ($ $)) (NN G) (PRN (-LRB- [) (NP (NN S)) (-RRB- ]))) (NP ($ $))) (VP (MD should) (VP (VB be) (NP (NP ($ $) (CD 2)) (ADJP (NML (NML ($ $)) (HYPH -) (NN edge)) (HYPH -) (VBN connected))))) (. .))

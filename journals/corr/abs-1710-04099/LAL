@@ -1,0 +1,4 @@
+(S (NP (PRP I)) (VP (VBP present) (NP (NP (DT a) (NN web) (NN service)) (PP (IN for) (S (VP (VBG querying) (NP (NP (DT an) (NN embedding)) (PP (IN of) (NP (NNS entities))) (PP (IN in) (NP (DT the) (NNP Wikidata) (NN knowledge) (NN graph))))))))) (. .))
+(S (NP (DT The) (NN embedding)) (VP (VBZ is) (VP (VBN trained) (PP (IN on) (NP (DT the) (NNP Wikidata) (NN dump))) (S (VP (VBG using) (NP (NP (NP (NNP Gensim) (POS 's)) (NNP Word2Vec) (NN implementation)) (CC and) (NP (DT a) (JJ simple) (NN graph) (NN walk))))))) (. .))
+(S (NP (DT A) (NNP REST) (NNP API)) (VP (VBZ is) (VP (VBN implemented))) (. .))
+(S (ADVP (RB Together) (PP (IN with) (NP (DT the) (NNP Wikidata) (NNP API)))) (NP (DT the) (NN web) (NN service)) (VP (VBZ exposes) (NP (NP (DT a) (JJ multilingual) (NN resource)) (PP (IN for) (NP (QP (IN over) (CD 600'000)) (NNP Wikidata) (NNS items) (CC and) (NNS properties))))) (. .))

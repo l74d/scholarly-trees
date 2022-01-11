@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (ADVP (RB experimentally)) (VBD assess) (NP (NP (DT the) (NN transmission)) (PP (IN of) (NP (DT a) (NNP PDCP-RLC) (JJ virtualised) (NNP RAN) (NN split) (NN interface))) (PP (IN through) (NP (DT a) (JJ commercial) (NN XGS-PON) (NN system))))) (. .))
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (NP (DT the) (NNS impacts)) (PP (IN of) (NP (NNP DBA))) (PP (IN on) (NP (DT the) (NN uplink)))) (CC and) (NP (NP (NN packet) (NN jitter)) (PP (IN on) (NP (DT the) (NN downlink)))))) (. .))

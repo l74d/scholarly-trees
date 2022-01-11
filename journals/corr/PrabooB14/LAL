@@ -1,0 +1,2 @@
+(S (NP (NNP Servo) (CC and) (NNP Regulatory) (VBG tracking) (NN simulation) (NNS runs)) (VP (VBP are) (VP (VBN carried) (PRT (IN out)) (PP (IN for) (NP (NP (DT the) (NN speed) (NN control)) (PP (IN of) (NP (NNP DC) (NN motor))))))) (. .))
+(S (ADVP (RB Finally)) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (DT both) (NN control) (NN system)))) (VP (VBZ is) (VP (VBN considered))) (. .))

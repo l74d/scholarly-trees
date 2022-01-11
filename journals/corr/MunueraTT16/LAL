@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (NNP Algebraic) (NNP Geometry) (VBZ codes)) (VP (VBG producing) (NP (NP (JJ quantum) (JJ error-correcting) (NNS codes)) (PP (IN by) (NP (DT the) (NNP CSS) (NN construction))))))) (. .))
+(S (NP (PRP We)) (VP (VBP pay) (NP (JJ particular) (NN attention)) (PP (TO to) (NP (NP (DT the) (NN family)) (PP (IN of) (NP (NNP Castle) (NNS codes)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNS examples)) (VP (VBN known) (PP (IN in) (NP (DT the) (NN literature))))))) (PP (IN in) (NP (NN fact))) (VP (NN belong) (PP (TO to) (NP (NP (DT this) (NN family)) (PP (IN of) (NP (NNS codes))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP systematize) (NP (DT these) (NNS constructions)) (PP (IN by) (S (VP (VBG showing) (NP (NP (DT the) (JJ common) (NN theory)) (SBAR (WHNP (IN that)) (S (VP (VBZ underlies) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))))))))))) (. .))

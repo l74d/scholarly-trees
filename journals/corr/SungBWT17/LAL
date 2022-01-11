@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT a) (JJ multi-robot) (NN assignment) (NN problem)) (PP (IN for) (NP (NN multi-target) (NN tracking))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN viewed) (PP (IN as) (NP (DT the) (JJ mixed) (NN packing) (CC and) (VBG covering) (NN problem)))))) (. .))
+(S (S (VP (TO To) (VP (VB deal) (PP (IN with) (NP (NP (DT a) (NN limitation)) (PP (IN on) (NP (DT both) (VBG sensing) (CC and) (NN communication) (NNS ranges)))))))) (, ,) (NP (DT a) (JJ distributed) (NN approach)) (VP (VBZ is) (VP (VBN taken) (PP (IN into) (NP (NN consideration))))) (. .))
+(S (NP (DT A) (JJ local) (NN algorithm)) (VP (VBZ gives) (NP (NP (JJ theoretical) (NNS bounds)) (PP (IN on) (NP (NP (DT both) (DT the) (NX (NN running) (NN time)) (CC and) (NX (NN approximation) (NN ratio))) (PP (TO to) (NP (DT an) (JJ optimal) (NN solution))))))) (. .))
+(S (NP (PRP We)) (VP (VBP employ) (NP (NP (DT a) (JJ local) (NN algorithm)) (PP (IN of) (NP (JJ max-min) (JJ linear) (NNS programs)))) (S (VP (TO to) (VP (VB solve) (NP (DT the) (VBN proposed) (NN task)))))) (. .))
+(S (NP (NN Simulation) (NN result)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT a) (JJ local) (NN algorithm)) (VP (VBZ is) (NP (NP (DT an) (JJ effective) (NN solution)) (PP (TO to) (NP (DT the) (JJ multi-robot) (NN task) (NN allocation)))))))) (. .))

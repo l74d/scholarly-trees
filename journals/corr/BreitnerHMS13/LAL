@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NNP HOLCF-Prelude)) (, ,) (NP (NP (DT a) (NN formalization)) (PP (IN of) (NP (NP (DT a) (JJ large) (NN part)) (PP (IN of) (NP (NP (NP (NNP Haskell) (POS 's)) (JJ standard) (NN prelude)) (PP (IN in) (NP (NNP Isabelle/HOLCF)))))))))) (. .))
+(S (S (VP (VBG Applying) (NP (DT this) (NN formalization)) (PP (TO to) (NP (NP (DT the) (NNS hints)) (VP (VBN suggested) (PP (IN by) (NP (NNP HLint)))))))) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB certify) (NP (PRP them)) (ADVP (RB formally)))))) (. .))

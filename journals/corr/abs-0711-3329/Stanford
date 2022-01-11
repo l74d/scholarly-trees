@@ -1,0 +1,6 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT a) (JJ simple) (NN method)) (S (VP (TO to) (VP (VB fabricate) (NP (NP (NN micro-ball) (NN lens)) (CC and) (NP (PRP$ its) (NN array))))))) (. .))
+(S (NP (DT The) (JJ key) (NN technology)) (VP (VBZ is) (S (VP (TO to) (VP (VB use) (NP (NP (DT the) (JJ hydrophobic) (NNS characteristics)) (PP (IN of) (NP (NML (NN polyterafluoroethylene) (-LRB- -LRB-) (NN PTFE) (-RRB- -RRB-)) (NN substrate)))))))) (. .))
+(S (NP (NP (JJ High) (NN contact) (NN angle)) (PP (IN between) (NP (NP (VBN melted) (NN photoresist) (NN pattern)) (CC and) (NP (NN PTFE))))) (VP (MD can) (VP (VB generate) (NP (NP (NN micro-ball) (NN lens)) (CC and) (NP (PRP$ its) (NN array))))) (. .))
+(S (NP (NNP PTFE) (JJ thin) (NN film)) (VP (VBD was) (VP (VP (VBN spun) (PP (IN onto) (NP (DT a) (NML (NN silicon) (NN wafer))))) (CC and) (VP (VBN dried) (PP (IN in) (NP (NN oven)))))) (. .))
+(S (NP (DT A) (JJ thermal) (NN reflow) (NN process)) (ADVP (RB then)) (VP (VBD was) (VP (VBN applied) (PP (IN to) (NP (NML (S (VP (VB melt) (S (NP (DT these) (JJ micro-column) (NNS patterns)) (VP (VBD resulted) (PP (IN in) (NP (NN micro-ball) (NN lens)))))))) (NN array))))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBZ provides) (NP (DT a) (JJ simple) (NML (NML (NN fabrication) (NN process)) (CC and) (NML (JJ low) (NN material))) (NN cost))) (. .))

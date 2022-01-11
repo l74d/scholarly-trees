@@ -1,0 +1,2 @@
+(S (NP (DT A) (JJ similar) (NN result)) (VP (VBD was) (ADVP (RB independently)) (VP (VBN obtained) (PP (IN by) (NP (NNP Gavinsky) (, ,) (NNP Kempe) (, ,) (NNP de) (NNP Wolf))) (PRN (-LRB- [) (NP (NNP GKdW06)) (-RRB- ])))) (. .))
+(S (NP (NP (PRP$ Our) (NP (JJR lower))) (VP (VBN bound))) (VP (VBZ is) (VP (VBN obtained) (PP (IN by) (NP (NNP Fourier) (NN analysis))) (, ,) (S (VP (VBG using) (NP (NP (DT the) (NN Fourier) (NNS coefficients) (NN inequality)) (PP (IN of) (NP (NNP Kahn) (NNP Kalai) (CC and) (NNP Linial)))))) (PRN (-LRB- [) (NP (NN KKL88)) (-RRB- ])))) (. .))

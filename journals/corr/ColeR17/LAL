@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (VBG caching) (NN overhead)) (VP (VBN incurred) (PP (IN by) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ multithreaded) (NN algorithms))))) (SBAR (WHADVP (WRB when)) (S (VP (VBN scheduled) (PP (IN by) (NP (DT an) (JJ arbitrary) (NN scheduler))))))))) (. .))

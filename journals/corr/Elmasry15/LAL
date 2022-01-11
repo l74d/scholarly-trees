@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (ADJP (NN simple) (CC and) (JJ efficient)) (NN algorithm)) (PP (IN for) (S (VP (ADVP (RB adaptively)) (VBG counting) (NP (NP (NNS inversions)) (PP (IN in) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (ADJP ($ $) (JJ n) ($ $)) (NNS integers))))))))))) (. .))

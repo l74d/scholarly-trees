@@ -1,0 +1,5 @@
+(S (NP (NNP Software) (NN complexity) (NNS metrics)) (VP (VBZ is) (ADJP (JJ essential) (PP (IN for) (S (VP (VBG minimizing) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN software) (NN maintenance))))))))) (. .))
+(S (NP (NNP Package) (NML (NML (NN level)) (CC and) (NML (NN System) (NN level))) (NN complexity)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN measured) (PP (IN without) (NP (NML (NN class) (NN level)) (NN complexity)))))) (. .))
+(S (NP (DT This) (NN research)) (VP (VBZ addresses) (NP (DT the) (NN class) (NN complexity) (NNS metrics))) (. .))
+(UCP (S (NP (DT This) (NN paper) (NNS studies)) (NP (NP (DT the) (VBG existing) (NN class)) (NP (NN complexity) (NNS metrics)))) (CC and) (FRAG (VP (VBZ proposes) (NP (DT a) (NML (JJ new) (NN class)) (NN complexity) (JJ metric) (NN CCC) (PRN (-LRB- -LRB-) (ADJP (NP (NML (JJ Complete) (NN class)) (NN complexity)) (JJ metric)) (-RRB- -RRB-))))) (. .))
+(S (NP (DT The) (NN CCC) (NN metric)) (VP (VBZ is) (ADVP (RB then)) (ADVP (RB analytically)) (VP (VBN evaluated) (PP (IN by) (NP (NP (NNP Weyuker) (POS 's)) (NN property))))) (. .))

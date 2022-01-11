@@ -1,0 +1,4 @@
+(S (NP (DT A) (JJ novel) (NML (JJ variable) (NML (NN dc) (HYPH -) (NN link)) (NN voltage)) (NN technique)) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB reduce) (NP (DT the) (NN traction) (NNS losses)) (PP (IN for) (NP (NML (JJ electrical) (NN drive)) (NNS applications)))))))) (. .))
+(S (NP (DT A) (CD 100) (HYPH -) (NN unit)) (VP (VBD cascaded) (SBAR (S (NP (JJ multilevel) (NN converter)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB generate) (NP (DT the) (JJ variable) (NML (NN dc) (HYPH -) (NN link)) (NN voltage)))))))))) (. .))
+(S (NP (JJ Experimental) (NN measurement)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT the) (NN machine) (JJ additional) (NNS losses)) (CC and) (NP (NML (NN IGBT) (HYPH -) (NN inverter)) (NNS losses))) (VP (VBP are) (VP (VBN reduced) (ADVP (RB substantially))))))) (. .))
+(S (NP (DT The) (NN system) (NN efficiency) (NN enhancement)) (VP (VBZ is) (NP (QP (ADVP (IN at) (JJS least)) (CD 2)) (NN %))) (. .))

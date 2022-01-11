@@ -1,0 +1,4 @@
+(S (NP (NP (CD Five)) (VP (NN car) (HYPH -) (VBG following) (NP (NNS models)))) (VP (VBD were) (VP (VBN calibrated) (, ,) (VBN validated) (CC and) (VBN cross-compared))) (. .))
+(NP (NP (DT The) (JJ intelligent) (NN driver) (NN model)) (VP (VBN performed) (NP (NP (JJS best)) (PP (IN among) (NP (DT the) (VBN evaluated) (NNS models))))) (. .))
+(S (NP (NP (JJ Considerable) (JJ behavioral) (NNS differences)) (PP (IN between) (NP (JJ different) (NNS drivers)))) (VP (VBD were) (VP (VBN found))) (. .))
+(S (NP (VBN Calibrated) (NN model) (NNS parameters)) (VP (MD may) (RB not) (VP (VB be) (ADJP (RB numerically) (JJ equivalent) (PP (IN with) (NP (VBN observed) (NNS ones)))))) (. .))

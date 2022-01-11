@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NN TSP) (JJ exact) (NN solution)) (PP (IN of) (NP (JJ polynomial) (NN complexity))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN considered) (NP (NP (NNS properties)) (PP (IN of) (NP (JJ proposed) (NN method)))))) (. .))
+(S (NP (NP (NN Effectiveness)) (PP (IN of) (NP (VBN proposed) (NN solution)))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (NP (NP (NNS outcomes)) (PP (IN of) (NP (NN computer) (NN modeling))))))) (. .))

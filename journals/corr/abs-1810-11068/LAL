@@ -1,0 +1,1 @@
+(S (S (S (VP (VBG Applying) (NP (DT this) (NN technique)) (PP (TO to) (NP (DT the) (NNS kernels))))) (, ,) (S (NP (NP (DT the) (NNS systems)) (SBAR (S (NP (PRP we)) (VP (VB obtain))))) (VP (VBP are) (ADJP (JJ much) (JJR smaller))))) (CC and) (SINV (ADVP (RB so)) (VP (VBZ is)) (NP (NP (DT the) (NN complexity)) (PP (IN of) (S (VP (VBG solving) (NP (PRP them))))))) (. .))

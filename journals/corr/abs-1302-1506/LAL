@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN rate) (NN privacy)))) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NN wireless) (NN sensor) (NNS networks)))))) (. .))
+(S (NP (PRP$ Our) (NN discussion)) (VP (NNS reveals) (SBAR (IN that) (S (NP (DT the) (NN concept)) (ADVP (RB indeed)) (VP (VBZ is) (PP (IN of) (NP (NP (DT a) (JJ great) (NN importance)) (PP (IN for) (NP (NP (DT the) (NN privacy) (NN preservation)) (PP (IN of) (NP (JJ such) (NNS networks))))))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN buffering) (NN scheme)) (SBAR (S (VP (TO to) (VP (VB protect) (NP (DT the) (NN rate)) (PP (IN from) (NP (NNS adversaries))))))))) (. .))
+(S (NP (NN Simulation) (NNS results)) (VP (VBP verify) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (PRP$ our) (NN approach))))) (. .))

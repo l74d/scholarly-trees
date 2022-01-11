@@ -1,0 +1,7 @@
+(S (NP (NN Classification)) (VP (VBZ is) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NN cognition))))) (. .))
+(S (PP (IN Unlike) (NP (JJ other) (NNS solutions))) (, ,) (NP (DT this) (NN study)) (VP (VBZ approaches) (NP (PRP it)) (PP (IN from) (NP (NP (DT the) (NN view)) (PP (IN of) (NP (NNS outliers)))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (DT an) (VBG expanding) (NN algorithm)) (S (VP (TO to) (VP (VB detect) (NP (NNS outliers)) (PP (PP (IN in) (NP (JJ univariate) (NNS datasets))) (, ,) (RB together) (PP (IN with) (NP (DT the) (JJ underlying) (NN foundation)))))))) (. .))
+(FRAG (NP (NP (DT The) (VBG expanding) (NN algorithm)) (NP (NP (NNS runs)) (PP (IN in) (NP (DT a) (JJ holistic) (NN way))))) (, ,) (VP (VBG making) (NP (PRP it)) (S (NP (DT a) (ADJP (RB rather) (JJ robust)) (NN solution)))) (. .))
+(S (NP (UCP (ADJP (JJ Synthetic)) (CC and) (NML (JJ real) (NNS data))) (NNS experiments)) (VP (VBP show) (NP (PRP$ its) (NN power))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT an) (NN application)) (PP (IN for) (NP (NN multi-class) (NNS problems)))) (VP (VBZ leads) (PP (IN to) (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (DT the) (NN oscillator) (NN algorithm)))))) (. .))
+(S (NP (DT The) (JJ corresponding) (NN result)) (VP (VBZ implies) (NP (NP (DT the) (JJ potential) (JJ wide) (NN use)) (PP (IN of) (NP (DT the) (VBG expanding) (NN algorithm))))) (. .))

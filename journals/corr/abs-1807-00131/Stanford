@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (VBN generalized) (NN concept)) (PP (IN of) (NP (NN vertex) (NN transitivity))) (PP (IN in) (NP (NP (NNS graphs)) (VP (VBN called) (NP (VBN generalized) (JJ vertex) (NN transitivity))))))) (. .))
+(S (NP (PRP We)) (VP (VBD put) (PRT (RP forward)) (NP (NP (DT a) (JJ new) (ADJP (JJ invariant) (VBN called)) (NN transitivity) (NN number)) (PP (IN of) (NP (DT a) (NN graph))))) (. .))
+(S (NP (NP (DT The) (NN value)) (PP (IN of) (NP (NP (DT this) (ADJP (JJ invariant) (PP (IN in) (ADJP (JJ different)))) (NNS classes)) (PP (IN of) (NP (NNS graphs)))))) (VP (VBZ is) (VP (VBN explored))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (NP (JJ different) (NNS results)) (VP (VBG showing) (NP (NP (DT the) (NN importance)) (PP (IN of) (NP (DT this) (NN concept)))))) (VP (VBZ is) (VP (VBN established))) (. .))

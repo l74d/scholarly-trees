@@ -1,0 +1,8 @@
+(S (NP (NP (DT An) (JJ interactive) (NN theorem) (NN prover)) (, ,) (NP (NNP Isabelle)) (, ,)) (VP (VBZ is) (PP (IN under) (NP (NN development)))) (. .))
+(S (PP (IN In) (NP (NNP LCF))) (, ,) (NP (DT each) (NN inference) (NN rule)) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (NP (CD one) (NN function)) (PP (IN for) (NP (NP (NP (NNS forwards)) (ADJP (JJ proof) (CC and) (DT another))) (-LRB- -LRB-) (NP (DT a) (NN tactic)) (-RRB- -RRB-))))) (PP (IN for) (PP (ADVP (RB backwards)) (ADJP (JJ proof)))))) (. .))
+(S (PP (IN In) (NP (NNP Isabelle))) (, ,) (NP (DT each) (NN inference) (NN rule)) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (DT a) (NNP Horn) (NN clause))))) (. .))
+(S (S (NP (NN Resolution)) (VP (VBZ gives) (NP (DT both) (NNS forwards)))) (CC and) (S (ADVP (RB backwards)) (ADJP (JJ proof))) (, ,) (S (VP (VBG supporting) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (NNS logics)))))) (. .))
+(S (NP (NNS Quantifiers)) (VP (VBP pose) (NP (NP (JJ several) (NNS difficulties)) (: :) (NP (NP (NN substitution)) (, ,) (NP (VBN bound) (NNS variables)) (, ,) (NP (NN Skolemization))))) (. .))
+(S (NP (NP (NP (NNP Isabelle) (POS 's)) (NN representation)) (PP (IN of) (NP (JJ logical) (NN syntax)))) (VP (VBZ is) (NP (NP (DT the) (VBN typed) (NN lambda) (HYPH -) (NN calculus)) (, ,) (VP (VBG requiring) (NP (NML (JJR higher) (HYPH -) (NN order)) (NN unification))))) (. .))
+(S (NP (PRP It)) (VP (MD may) (VP (VB have) (NP (NP (JJ potential)) (PP (IN for) (NP (NN logic) (NN programming)))))) (. .))
+(S (NP (NP (NN Depth) (HYPH -) (JJ first) (NN subgoaling)) (PP (IN along) (NP (NN inference) (NNS rules)))) (VP (VBZ constitutes) (NP (DT a) (NML (JJR higher) (HYPH -) (NN order)) (NNP Prolog))) (. .))

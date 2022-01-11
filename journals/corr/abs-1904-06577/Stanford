@@ -1,0 +1,4 @@
+(S (NP (NP (JJ Photometric) (NN bundle) (NN adjustment)) (, ,) (NP (NN PBA)) (, ,)) (ADVP (RB accurately)) (VP (VBZ estimates) (NP (NN geometry)) (PP (IN from) (NP (NN video)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ current) (NN PBA) (NNS systems)) (VP (VBP have) (NP (NP (DT a) (JJ temporary) (NN map)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (RB not) (VP (VB manage) (NP (NN scene) (NNS reobservations)))))))) (. .))
+(FRAG (S (NP (PRP We)) (VP (VBP present))) (, ,) (FRAG (NP (NNP DSM)) (, ,) (NP (NP (DT a) (JJ full) (JJ monocular) (JJ visual) (NN SLAM)) (PP (VBN based) (PP (IN on) (NP (NNP PBA)))))) (. .))
+(S (NP (PRP$ Its) (JJ persistent) (NN map)) (VP (VBZ handles) (NP (NNS reobservations)) (, ,) (S (VP (VBG yielding) (NP (NP (DT the) (ADJP (RBS most) (JJ accurate)) (NNS results)) (ADVP (IN up) (PP (IN to) (NP (NN date))))) (PP (IN on) (NP (NNP EuRoC))) (PP (IN for) (NP (DT a) (JJ direct) (NN method)))))) (. .))

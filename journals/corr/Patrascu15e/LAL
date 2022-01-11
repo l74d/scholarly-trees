@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (DT a) (NN distance)) (PP (IN for) (NP (DT the) (NNP HSL) (NN colour) (NN system))))) (. .))
+(S (ADVP (RB Next)) (, ,) (NP (DT the) (VBN proposed) (NN distance)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (DT a) (JJ fuzzy) (NN colour) (VBG clustering) (JJ algorithm) (NN construction))))) (. .))
+(S (NP (DT The) (JJ presented) (NN algorithm)) (VP (VBZ is) (VP (VBN related) (PP (TO to) (NP (DT the) (JJ well-known) (JJ fuzzy) (NNS c-means) (NN algorithm))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN clustering) (NN algorithm)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (JJ colour) (NN reduction) (NN method))))) (. .))
+(S (NP (DT The) (JJ obtained) (JJ experimental) (NNS results)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN approach))))))))) (. .))

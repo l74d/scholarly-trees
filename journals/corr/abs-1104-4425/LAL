@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Special) (VBD scattered) (NNS subwords)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS gaps)) (VP (VBP are) (PP (IN of) (NP (NN length))) (PP (IN from) (NP (DT a) (VBN given) (NN set)))))) (, ,)) (VP (VBP are) (VP (VBN defined))) (. .))
+(S (NP (NP (DT The) (JJ scattered) (NN subword) (NN complexity)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ such) (JJ scattered) (NNS subwords))))))) (, ,)) (VP (VBZ is) (VP (VBN computed) (PP (IN for) (NP (NN rainbow) (NNS words))))) (. .))

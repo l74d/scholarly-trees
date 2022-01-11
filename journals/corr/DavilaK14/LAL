@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (JJ zero-forcing) (NN number)) (PP (IN for) (NP (JJ triangle-free) (NN graphs))))) (. .))
+(S (S (VP (VBG Using) (NP (DT these) (NNS results)))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB prove) (NP (DT the) (NNP Graph) (NNP Complement) (NNP Conjecture)) (PP (IN on) (NP (JJ minimum) (NN rank))) (PP (IN for) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (NN graphs)))))))))) (. .))

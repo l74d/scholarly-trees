@@ -1,0 +1,6 @@
+(S (NP (JJ Automatic) (NN text) (NN summarization)) (VP (VBZ has) (VP (VBN been) (VP (VBN studied) (PP (IN in) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS domains) (CC and) (NNS languages)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ does) (RB not) (VP (VB hold) (PP (IN for) (NP (DT the) (JJ Russian) (NN language))))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN issue))))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (NNP Gazeta)) (, ,) (NP (NP (DT the) (JJ first) (NN dataset)) (PP (IN for) (NP (NP (NN summarization)) (PP (IN of) (NP (JJ Russian) (NN news)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT this) (NN dataset)))) (CC and) (NP (NP (NN benchmark)) (NP (JJ several) (ADJP (JJ extractive) (CC and) (JJ abstractive)) (NNS models))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (NN dataset)) (VP (VBZ is) (NP (NP (DT a) (JJ valid) (NN task)) (PP (IN for) (NP (NP (NNS methods)) (PP (IN of) (NP (NP (NN text) (NN summarization)) (PP (IN for) (NP (JJ Russian)))))))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (DT the) (JJ pretrained) (NN mBART) (NN model)) (S (VP (TO to) (VP (VB be) (ADJP (JJ useful) (PP (IN for) (NP (JJ Russian) (NN text) (NN summarization)))))))) (. .))

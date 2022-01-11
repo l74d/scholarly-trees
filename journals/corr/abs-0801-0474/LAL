@@ -1,0 +1,3 @@
+(S (NP (NNP Yatsenko)) (VP (VBZ gives) (NP (NP (DT a) (JJ polynomial-time) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (DT the) (VBG traveling) (NN salesman) (NN problem))))))) (. .))
+(S (NP (PRP We)) (VP (VBP examine) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (CC and) (NP (PRP$ its) (NN construction)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP comment) (PP (IN on) (NP (NP (NP (NNP Yatsenko) (POS 's)) (NN evaluation)) (PP (IN of) (NP (DT the) (NN algorithm)))))) (. .))

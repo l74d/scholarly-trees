@@ -1,0 +1,7 @@
+(S (S (VP (VBG Treating) (NP (JJ modern) (NN firewall) (NN policy) (NNS languages)) (PP (IN as) (ADJP (JJ imperative))))) (, ,) (NP (JJ special) (NML (NN purpose) (NN programming)) (NNS languages)) (, ,) (PP (IN in) (NP (DT this) (NN article))) (NP (PRP we)) (VP (MD will) (VP (VB try) (S (VP (TO to) (VP (VB apply) (NP (NN static) (NN code) (NN analysis) (NNS techniques)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NN anomaly) (NN detection)))))))))) (. .))
+(S (S (NP (PRP We)) (VP (MD will) (VP (NP (JJ first) (ADJP (JJ abstract) (NP-TMP (NP (DT a) (NN policy)) (PP (IN in) (NP (JJ common) (NN firewall) (NN policy))))) (NN language)) (PP (IN into) (NP (DT an) (JJ intermediate) (NN language)))))) (, ,) (CC and) (S (ADVP (RB then)) (NP (PRP we)) (VP (MD will) (VP (VB try) (S (VP (TO to) (VP (VB apply) (NP (NN anomaly) (NN detection) (NNS algorithms)) (PP (IN to) (NP (PRP it))))))))) (. .))
+(S (PRN (S (NP (DT The) (NNS contributions)) (VP (VBN made) (PP (IN by) (NP (NP (DT this) (NN work)) (SBAR (S (VP (VBP are)) (: :)))))))) (LST (LS 1)) (. .))
+(NP (NP (DT An) (NN analysis)) (PP (IN of) (NP (NP (JJ various) (NN control) (NN flow) (NNS instructions)) (PP (IN in) (NP (JJ popular) (NN firewall) (NN policy) (NNS languages))) (NP-TMP (CD 2)))) (. .))
+(FRAG (NP (NP (NN Introduction)) (PP (IN of) (NP (DT an) (JJ intermediate) (NN firewall) (NN policy) (NN language)))) (, ,) (PP (IN with) (NP (NN emphasis))) (PP (IN on) (NP (NN control) (NN flow) (NNS constructs))) (. .))
+(LST (LS 3) (. .))
+(LST (LS 4) (. .))

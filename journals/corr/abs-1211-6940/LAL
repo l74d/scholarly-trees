@@ -1,0 +1,3 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ long-standing) (NN research) (NNS problems)) (PP (IN on) (NP (JJ logic) (NN programming)))))) (VP (VBZ is) (S (VP (TO to) (VP (VB treat) (NP (DT the) (NN cut) (NN predicate)) (PP (IN in) (NP (DT a) (JJ logical) (, ,) (JJ high-level) (NN way))))))) (. .))
+(S (VP (NN Note) (SBAR (IN that) (S (NP (QP (RB only) (CD one)) (NN goal)) (VP (MD can) (VP (VB remain) (ADJP (JJ alive)) (PP (IN during) (NP (NN execution)))))))) (. .))
+(S (NP (DT These) (NNS goals)) (ADVP (RB thus)) (VP (VBP allow) (S (NP (PRP us)) (VP (TO to) (VP (VB specify) (NP (ADJP (RB mutually) (JJ exclusive)) (NNS tasks)) (PP (IN in) (NP (DT a) (JJ high-level) (NN way))))))) (. .))

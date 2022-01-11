@@ -1,0 +1,5 @@
+(S (S (VP (VBG Finding) (NP (NP (DT the) (NN multiplicity)) (PP (IN of) (NP (NNS cycles)))) (PP (IN in) (NP (JJ bipartite) (NN graphs))))) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN problem)) (PP (IN of) (NP (NP (NN interest)) (PP (IN in) (NP (NP (JJ many) (NNS fields)) (PP (VBG including) (NP (NP (DT the) (NN analysis) (CC and) (NN design)) (PP (IN of) (NP (JJ low-density) (NN parity-check) (PRN (-LRB- -LRB-) (NNP LDPC) (-RRB- -RRB-)) (NNS codes))))))))))) (. .))
+(S (VP (NN Inform)) (. .))
+(NP (NP (NN Theory) (CD 64)) (PRN (-LRB- -LRB-) (NP (CD 10)) (-RRB- -RRB-)) (NP (NP (CD :6526)) (: —) (NP (CD 6535)) (, ,) (NP (CD 2018)) (-RRB- -RCB-) (NN -RSB-)) (. .))
+(S (VP (NN Inform)) (. .))
+(S (S (VP (TO To) (VP (VB obtain) (NP (DT these) (NNS results))))) (, ,) (NP (PRP we)) (VP (VBP construct) (NP (NP (NNS counter-examples)) (VP (VBG using) (NP (DT the) (NNP Godsil-McKay) (NN switching))))) (. .))

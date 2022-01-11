@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT the) (NAC (JJ arbitrary) (NN precision) (NN approximate) (PRN (-LRB- -LRB-) (NNP APA) (-RRB- -RRB-))) (VBP bilinear) (NN algorithm)) (PP (IN of) (NP (NN length) (CD 46))) (PP (IN for) (NP (NP (NN multiplication)) (PP (IN of) (NP (NP (CD 4) (JJ x) (CD 4)) (CC and) (ADJP (CD 4) (NNS x) (CD 4)) (NNS matrices))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ has) (NP (NP (JJ polynomial) (NN order) (CD 3)) (CC and) (NP (NP (CD 352) (JJ nonzero) (NNS coefficients)) (PP (IN from) (NP (JJ total) (CD 2208)))))) (. .))

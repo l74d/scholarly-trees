@@ -1,0 +1,3 @@
+(S (NP (NP (NP (NN Selection) (NNS statements)) (VP (: --) (PP (IN if) (HYPH -) (ADVP (RB then) (HYPH -) (RB else))))) (, ,) (NP (NP (NN switch)) (CC and) (S (VP (VB try) (HYPH -) (VB catch)))) (: --)) (VP (VBP are) (ADVP (RB commonly)) (VP (VBN used) (PP (IN in) (NP (ADJP (JJ modern) (JJ imperative)) (NN programming) (NNS languages))))) (. .))
+(S (NP (DT This) (NN statement)) (VP (VBZ turns) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB quite) (JJ useful) (PP (IN for) (NP (NP (NN pattern) (NN matching)) (PP (IN among) (NP (JJ several) (NNS merits)))))))))) (. .))
+(S (NP (NNS Examples)) (VP (MD will) (VP (VB be) (VP (VBN provided) (PP (IN for) (NP (DT this) (NN statement)))))) (. .))

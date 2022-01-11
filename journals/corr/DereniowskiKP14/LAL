@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN view)) (PP (IN of) (NP (NP (DT a) (NN node)) (PP (IN in) (NP (DT a) (JJ port-labeled) (NN network)))))) (VP (VBZ is) (NP (NP (DT an) (JJ infinite) (NN tree)) (VP (VBG encoding) (NP (NP (DT all) (NNS walks)) (PP (IN in) (NP (DT the) (NN network))) (VP (VBG originating) (PP (IN from) (NP (DT this) (NN node)))))))) (. .))

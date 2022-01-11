@@ -1,0 +1,6 @@
+(S (NP (DT The) (NNP ElGamal) (NN cryptosystem)) (VP (VBZ is) (NP (DT the) (ADJP (RBS most) (RB widely) (VBN used)) (JJ public) (NN key) (NN cryptosystem))) (. .))
+(S (NP (PRP It)) (VP (VBZ uses) (NP (DT the) (JJ discrete) (NN logarithm) (NN problem)) (PP (IN as) (NP (DT the) (JJ cryptographic) (JJ primitive)))) (. .))
+(S (NP (DT The) (NNP MOR) (NN cryptosystem)) (VP (VBZ is) (NP (DT a) (JJ similar) (NN cryptosystem))) (. .))
+(S (NP (PRP It)) (VP (VBZ uses) (NP (NP (DT the) (JJ discrete) (NN logarithm) (NN problem)) (PP (IN in) (NP (DT the) (NN automorphism) (NN group)))) (PP (IN as) (NP (DT the) (JJ cryptographic) (JJ primitive)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (DT the) (NNP MOR) (NN cryptosystem)) (PP (IN for) (NP (JJ finite) (NML (NML ($ $)) (NN p)) (NML (NML ($ $)) (HYPH -) (NML (NNS groups)))))) (. .))
+(S (PP (IN For) (NP (NML (NML ($ $)) (NN p)) (NML (NML ($ $)) (PP (HYPH -) (NP (NNS automorphisms)))))) (NP (EX there)) (VP (VBP are) (NP (DT some) (ADJP (JJ interesting) (JJ open)) (NNS problems))) (. .))

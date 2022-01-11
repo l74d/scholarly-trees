@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NN quantum)) (NP (JJR lower) (NNS bounds))) (VP (VBN obtained) (S (VP (VBG using) (NP (DT the) (NN adversary) (NN method) (NN hold)) (PP (IN in) (NP (DT the) (JJ Hamiltonian) (NN oracle) (NN model))))))))) (. .))

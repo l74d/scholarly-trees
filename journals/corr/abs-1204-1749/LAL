@@ -1,0 +1,3 @@
+(S (NP (NP (NNP Soldier) (NNS crabs)) (NP (NNP Mictyris) (NN guinotae))) (VP (NN exhibit) (NP (VBD pronounced) (VBG swarming) (NN behaviour))) (. .))
+(S (NP (NP (DT The) (NNS swarms)) (PP (IN of) (NP (DT the) (NN crabs)))) (ADJP (NN tolerant) (PP (IN of) (NP (NNS perturbations)))) (. .))
+(S (PP (IN In) (NP (NP (NN computer) (NNS models)) (CC and) (NP (JJ laboratory) (NNS experiments)))) (NP (PRP we)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (NNS swarms)) (PP (IN of) (NP (JJR soldier) (NNS crabs)))) (VP (MD can) (VP (VB implement) (NP (JJ logical) (NNS gates)) (SBAR (WHADVP (WRB when)) (S (VP (VBN placed) (PP (IN in) (NP (DT a) (ADJP (RB geometrically) (VBN constrained)) (NN environment))))))))))) (. .))

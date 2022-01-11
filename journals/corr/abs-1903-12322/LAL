@@ -1,0 +1,3 @@
+(S (NP (PRP$ Our) (NNS results)) (VP (VB generalize) (CC and) (VB extend) (NP (JJ prior) (NNS works)) (PP (IN in) (NP (JJ several) (NNS directions)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG obtaining) (NP (JJ subsequent) (NNS samples)))) (VP (NNS amounts) (PP (TO to) (S (VP (VBG solving) (NP (NP (DT a) (JJ strongly-convex) (NN optimization) (NN problem)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (RB readily) (JJ achievable)) (S (VP (VBG using) (NP (NP (CD one)) (PP (IN of) (NP (JJ numerous) (VBG existing) (NNS methods))))))))))))))))) (. .))
+(S (NP (NP (JJ Numerical) (NNS examples)) (VP (VBG supporting) (NP (PRP$ our) (JJ theoretical) (NN analysis)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN presented))) (. .))

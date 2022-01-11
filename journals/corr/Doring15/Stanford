@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN topic)) (VP (VBZ is) (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (SBAR (S (NP (NNP DIBADAWN)) (VP (TO to) (VP (VB detect) (NP (NNS bridges) (CC and) (NN articulation) (NNS points)) (PP (IN in) (NP (DT an) (JJ wireless) (NN mess) (NN network))))))))))) (. .))
+(S (ADVP (RB Therefore)) (NP (DT this) (NN algorithm)) (VP (VBZ is) (VP (VBN implemented) (CC and) (VBN evaluated) (PP (IN per) (NP (NN simulation))))) (. .))

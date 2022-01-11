@@ -1,0 +1,1 @@
+(FRAG (S (NP (DT The) (NN receiver)) (VP (MD must) (VP (VP (VB locate)) (CC and) (VP (VB decode) (, ,) (PP (IN with) (NP (NP (VBG vanishing) (NN error) (NN probability)) (PP (IN in) (NP (NP ($ $)) (NP (NN n)))))))))) (FRAG (NP ($ $)) (, ,) (NP (NP (DT all)) (PP (IN of) (NP (DT the) (VBN transmitted) (NNS messages))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG combining) (NP (DT this) (NN reduction)) (PP (IN with) (NP (NP (DT a) (NN converse) (NN bound)) (PP (IN on) (NP (DT the) (NNP GW) (NN network)))))))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (DT a) (NN converse) (NN bound)) (PP (IN on) (NP (DT the) (NNP WAK) (NN network))))) (. .))
+(S (NP (DT The) (VBN derived) (NN bound)) (VP (VBZ gives) (NP (NP (DT an) (JJ alternative) (NN proof)) (PP (IN of) (NP (NP (DT the) (JJ strong) (NN converse) (NN theorem)) (PP (IN for) (NP (DT the) (NNP WAK) (NN network))))))) (. .))

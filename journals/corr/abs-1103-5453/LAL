@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN result)) (VP (VBZ is) (VP (VBN achieved) (PP (IN through) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (JJ non-commutative) (NNP Bernstein) (NNS bounds))))))) (. .))
+(NP (NP (NNS Keywords)) (: :) (NP (NP (NN row-sampling)) (: ;) (NP (CC matrix) (NN multiplication)) (: ;) (NP (CC matrix) (NN reconstruction)) (: ;) (S (VP (VBG estimating) (NP (JJ spectral) (NN norm)))) (: ;) (NP (JJ linear) (NN regression)) (: ;) (VBN randomized)))

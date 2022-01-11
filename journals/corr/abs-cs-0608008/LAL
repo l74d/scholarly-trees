@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ linear) (NN time) (NN algorithm)) (PP (IN for) (NP (DT the) (JJ minimum) (JJ linear) (NN arrangement) (NN problem)))) (PP (IN on) (NP (JJ proper) (NN interval) (NN graphs)))) (. .))
+(S (NP (DT The) (JJ obtained) (NN ordering)) (VP (VBZ is) (NP (NP (DT a) (NN 4-approximation)) (PP (IN for) (NP (JJ general) (NN interval) (NN graphs))))))

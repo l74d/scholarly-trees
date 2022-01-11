@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (NN complexity) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (NML (JJ short) (NN generating)) (NNS functions)))))) (PRN (-LRB- -LRB-) (NP (NN GF)) (-RRB- -RRB-))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (SBAR (IN that) (S (NP (VBN truncated) (NN theta) (NNS functions)) (VP (VBP are) (ADJP (JJ hard) (PP (IN in) (NP (DT this) (NN class)))))))) (. .))

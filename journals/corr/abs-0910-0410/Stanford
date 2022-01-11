@@ -1,0 +1,2 @@
+(S (S (NP (DT This) (NN idea)) (VP (VBZ is) (ADVP (RB implicitly)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN literature)))))) (, ,) (CC but) (S (NP (DT no) (NN attempt)) (VP (VBD was) (VP (VBN made) (PP (IN to) (S (VP (VB formalize) (NP (DT the) (NN proof) (NN scheme)) (ADVP (RB axiomatically)))))))) (. .))
+(S (ADVP (RB Instead)) (, ,) (NP (NNS authors)) (VP (VBD axiomatized) (NP (NP (NNS classes)) (PP (IN of) (NP (NN automata)))) (PP (IN to) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBZ applies)))))) (. .))

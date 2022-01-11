@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ distributed) (JJ semantic) (NN graph) (NN processing) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (NP (NP (NN locality) (NN control)) (, ,) (NP (VBG indexing)) (, ,) (NP (JJ graph) (NN query)) (, ,) (CC and) (NP (JJ parallel) (NN processing) (NNS capabilities))))))) (VP (VBZ is) (VP (VBN presented))) (. .))

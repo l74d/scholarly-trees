@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (JJ new) (NN algorithms)) (PP (IN for) (S (VP (VBG computing) (NP (NP (JJ triangular) (NNS decompositions)) (PP (IN of) (NP (JJ polynomial) (NNS systems)))) (ADVP (RB incrementally))))))) (. .))
+(S (S (VP (VBG Extracting) (NP (JJ common) (NN work)) (PP (IN from) (NP (JJ similar) (JJ expensive) (NNS computations))))) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (JJ key) (NN feature)) (PP (IN of) (NP (PRP$ our) (NN algorithms))))) (. .))

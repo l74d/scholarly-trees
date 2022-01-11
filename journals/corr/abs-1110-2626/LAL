@@ -1,0 +1,6 @@
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ important) (NNS techniques)) (PP (IN of) (NP (NNP Data) (NN mining)))))) (VP (VBZ is) (NP (NNP Classification))) (. .))
+(S (NP (NP (JJ Many) (JJ real) (NN world) (NNS problems)) (PP (IN in) (NP (NP (JJ various) (NNS fields)) (PP (JJ such) (IN as) (NP (NN business) (, ,) (NN science) (, ,) (NN industry) (CC and) (NN medicine)))))) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (S (VP (VBG using) (NP (NN classification) (NN approach)))))))) (. .))
+(S (NP (JJ Neural) (NNS Networks)) (VP (VBP have) (VP (VBN emerged) (PP (IN as) (NP (NP (DT an) (JJ important) (NN tool)) (PP (IN for) (NP (NN classification))))))) (. .))
+(S (NP (NP (DT The) (NNS advantages)) (PP (IN of) (NP (NNP Neural) (NNP Networks)))) (VP (VBZ helps) (PP (IN for) (NP (NP (JJ efficient) (NN classification)) (PP (IN of) (NP (VBN given) (NNS data)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN study))) (NP (DT a) (NNP Heart) (VBZ diseases) (NN dataset)) (VP (VBZ is) (VP (VBN analyzed) (S (VP (VBG using) (NP (NNP Neural) (NNP Network) (NN approach)))))) (. .))
+(S (S (VP (TO To) (VP (VB increase) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (NN classification) (NN process))))))) (NP (JJ parallel) (NN approach)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN adopted) (PP (IN in) (NP (DT the) (NN training) (NN phase))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ generalizes) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (JJ linear) (NNS codes)))) (PP (IN to) (NP (NNP Euclidean) (ADJP (NN self) (HYPH -) (JJ orthogonal)) (NNS codes)))) (. .))
+(S (NP (DT This)) (VP (VBZ implies) (SBAR (IN that) (S (NP (NP (NN list) (HYPH -) (NN decodability)) (PP (IN of) (NP (NN quantum) (NN stabilizer) (NNS codes)))) (VP (MD can) (VP (VB achieve) (NP (NP (DT the) (NN quantum)) (SBAR (S (NP (NNP Gilbert) (HYPH -) (NNP Varshamov)) (VP (VBD bound)))))))))) (. .))
+(S (NP (NP (DT The) (VBG counting) (NN argument)) (PP (IN on) (NP (ADJP (NN self) (HYPH -) (JJ orthogonal)) (NNS codes)))) (VP (VBZ is) (NP (DT an) (JJ important) (NN ingredient) (S (VP (TO to) (VP (VB prove) (NP (PRP$ our) (NN result))))))) (. .))

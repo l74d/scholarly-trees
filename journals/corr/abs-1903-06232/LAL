@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN centrality) (NN measure)) (, ,) (VP (VBN known) (PP (IN as) (NP (NN profile) (NN closeness)))) (, ,) (PP (IN for) (NP (JJ complex) (NNS networks))))) (. .))
+(S (NP (DT This) (NN network) (NN attribute)) (VP (VBZ originates) (PP (IN from) (NP (NP (DT the) (JJ graph-theoretic) (NN analysis)) (PP (IN of) (NP (NN consensus) (NNS problems)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP demonstrate) (NP (NP (PRP$ its) (NN relevance)) (PP (IN in) (S (VP (VBG inferring) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (NN network) (NNS communities))))))))) (. .))
+(NP (NP (NNS Keywords)) (: :) (NP (NP (NNP Complex) (NNS networks)) (, ,) (NP (NNP Centrality)) (, ,) (NP (NNP Community)) (, ,) (NP (NNP Median)) (, ,) (NP (NNP Closeness)) (, ,) (NP (NNP Consensus) (NN theory))))

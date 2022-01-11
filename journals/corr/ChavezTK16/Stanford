@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ parallel) (ADJP (NML (NML (JJ fast) (JJ direct) (NN solver)) (PP (IN for) (NP (NN rank)))) (HYPH -) (JJ compressible)) (NN block)) (NP (JJ tridiagonal) (JJ linear) (NNS systems))) (VP (VBZ is) (VP (VBN presented))) (. .))

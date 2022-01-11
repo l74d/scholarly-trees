@@ -1,0 +1,3 @@
+(S (S (NP (VBN Updated)) (PP (IN on) (NP (CD 24/09/2015)))) (: :) (S (NP (DT This) (NN update)) (VP (VBZ provides) (NP (NP (JJ preliminary) (NN experiment) (NNS results)) (PP (IN for) (NP (ADJP (JJ fine) (HYPH -) (JJ grained)) (NN classification)))) (PP (IN on) (NP (NP (DT the) (NN surveillance) (NNS data)) (PP (IN of) (NP (NNPS CompCars))))))) (. .))
+(S (NP (DT The) (NML (NN train) (, /) (NN test)) (NNS splits)) (VP (VBP are) (VP (VBN provided) (PP (IN in) (NP (DT the) (VBN updated) (NN dataset))))) (. .))
+(S (VP (VB See) (NP (NNS details)) (PP (IN in) (NP (NN Section) (CD 6)))) (. .))

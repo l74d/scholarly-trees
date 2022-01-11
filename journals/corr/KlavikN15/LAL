@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (NN automorphism) (NNS groups)) (PP (IN of) (NP (NN planar) (NN graphs))))) (. .))
+(S (NP (DT The) (JJ main) (NN result)) (VP (VBZ is) (NP (NP (DT a) (JJ complete) (JJ recursive) (NN description)) (PP (IN of) (NP (NP (DT all) (JJ abstract) (NNS groups)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN realized) (PP (IN as) (NP (NP (NN automorphism) (NNS groups)) (PP (IN of) (NP (NN planar) (NN graphs)))))))))))))) (. .))
+(S (NP (DT The) (NN characterization)) (VP (VBZ is) (VP (VBN formulated) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ inhomogeneous) (NN wreath) (NNS products))))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN proof))) (, ,) (NP (PRP we)) (VP (VBP combine) (NP (NP (NNS techniques)) (PP (IN from) (NP (NP (NNS combinatorics)) (, ,) (NP (NN group) (NN theory)) (, ,) (CC and) (NP (NN geometry)))))) (. .))
+(S (NP (DT This)) (VP (ADVP (RB significantly)) (VBZ improves) (NP (NP (NP (DT the) (NNP Babai) (POS 's)) (NN description)) (PRN (-LRB- -LRB-) (NP (CD 1975)) (-RRB- -RRB-)))) (. .))

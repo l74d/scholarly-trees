@@ -1,0 +1,3 @@
+(S (NP (NP (NNP Approximate) (NNS solutions)) (PP (IN of) (NP (DT the) (NNP Fisher) (NN equation))) (VP (VBN obtained) (PP (IN by) (NP (JJ different) (NN splitting) (NNS methods))))) (VP (VBP are) (VP (VBN investigated))) (. .))
+(S (NP (NP (DT The) (NN error)) (PP (IN of) (NP (DT this) (JJ nonlinear) (NN problem)))) (VP (VBZ is) (VP (VBN analyzed))) (. .))
+(S (NP (NP (DT The) (NN order)) (PP (IN of) (NP (NP (JJ different) (VBG splitting) (NNS methods)) (VP (VBN coupled) (PP (IN with) (NP (NP (JJ numerical) (NNS methods)) (PP (IN of) (NP (JJ different) (NN order))))))))) (VP (VBZ is) (VP (VBN calculated) (ADVP (RB numerically) (CC and) (RB symbolically)))) (. .))

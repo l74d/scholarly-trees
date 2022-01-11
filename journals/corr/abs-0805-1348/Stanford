@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (JJ several) (NNS data) (NNS structures)) (PP (IN for) (NP (NP (DT that) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBP use) (NP (NP (NN pseudo-linear) (NN space)) (CC and) (NP (NN answer) (NNS queries))) (PP (IN in) (NP (NN poly) (HYPH -) (JJ logarithmic) (NN time)))))))))) (. .))

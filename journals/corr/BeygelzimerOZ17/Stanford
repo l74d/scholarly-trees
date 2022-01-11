@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ provides) (NP (DT a) (NN solution)) (PP (IN to) (NP (NP (DT the) (JJ open) (NN problem)) (PP (IN of) (-LRB- -LRB-) (NP (NP (NNP J.) (NNP Abernethy)) (CC and) (NP (NNP A.) (NNP Rakhlin))))))) (. .))
+(S (PP (IN In) (NP (NN COLT) (, ,) (CD 2009) (-RRB- -RRB-))) (. .))
+(S (NP (PRP We)) (VP (VBP test) (NP (PRP$ our) (NN algorithm)) (ADVP (RB experimentally)) (, ,) (S (VP (VBG showing) (SBAR (IN that) (S (NP (PRP it)) (ADVP (RB also)) (VP (VBZ performs) (ADVP (RB favorably)) (PP (IN against) (NP (JJR earlier) (NNS algorithms))))))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (DT a) (NN software) (NN framework)) (PP (IN for) (S (VP (VBG solving) (NP (NN user) (NN equilibrium) (NN traffic) (NN assignment) (NNS problems)))))) (. .))
+(S (NP (DT The) (NN design)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN formulation)) (PP (IN of) (NP (NP (DT the) (NN problem)) (PP (IN as) (NP (DT a) (JJ variational) (NN inequality))))))))) (. .))
+(S (NP (DT The) (NN software)) (VP (VBZ implements) (NP (NP (DT these)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ several) (JJ numerical) (NNS methods))) (PP (IN for) (NP (NN find) (NN equilirbria)))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (NP (NP (DT the) (NNS solutions)) (VP (VBN obtained) (PP (IN under) (NP (JJ several) (NNS models))))) (: :) (NP (NP (NN static) (, ,) (NN Merchant) (HYPH -) (NN Nemhauser)) (, ,) (NP (`` `) (NP (NN CTM)) (PP (IN with) (NP (JJ instantaneous) (NN travel) (NN time))) ('' ')) (, ,) (CC and) (NP (`` `) (NP (NN CTM)) (PP (IN with) (NP (JJ actual) (NN travel) (NN time))) ('' '))))) (. .))
+(S (NP (DT Some) (JJ important) (NNS differences)) (VP (VBP are) (VP (VBN demonstrated))) (. .))

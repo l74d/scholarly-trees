@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT an) (JJ expository) (NN article)) (VP (VBG describing) (NP (NP (DT the) (JJ conformalized) (JJ mean) (NN curvature) (NN flow)) (, ,) (VP (ADVP (RB originally)) (VBN introduced) (PP (IN by) (NP (NNP Kazhdan) (, ,) (NNP Solomon) (, ,) (CC and) (NNP Ben-Chen)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG applying) (NP (JJ mean) (NN curvature) (NN flow)) (PP (TO to) (NP (VB surface) (NNS parametrizations)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (NP (PRP$ our) (JJ own) (NN implementation)) (PP (IN of) (NP (PRP$ their) (NN algorithm)))) (CC and) (NP (DT some) (NNS limitations)))) (. .))

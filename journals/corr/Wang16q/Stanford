@@ -1,0 +1,2 @@
+(S (VP (VB Let) (NP ($ $) (CD P$)) (VP (VB be) (NP (NP (DT a) (NN path) (NN graph)) (PP (IN of) (NP (NP (NP ($ $)) (NP (NN n)) (NP ($ $) (CD vertices))) (VP (VBN embedded) (PP (IN in) (NP (DT a) (JJ metric) (NN space))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG adding) (NP (DT a) (JJ new) (NN edge)) (PP (IN to) (NP ($ $) (CD P$))) (SBAR (JJ such) (IN that) (S (NP (NP (DT the) (NN diameter)) (PP (IN of) (NP (DT the) (VBG resulting) (NN graph)))) (VP (VBZ is) (VP (VBN minimized)))))))))) (. .))

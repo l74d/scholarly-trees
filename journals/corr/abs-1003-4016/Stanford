@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (DT a) (NN reconstruction) (NN algorithm))) (. .))
+(S (NP (NP (NP (NNS Theorems)) (PP (IN of) (NP (NNP H.) (NNP G.) (NNP Landau) (PRN (-LRB- -LRB-) (NP (CD 1953)) (-RRB- -RRB-))))) (CC and) (NP (NP (NP (NNP J.) (NNP W.) (NNP Moon)) (-LRB- -LRB-) (NP (CD 1963)) (-RRB- -RRB-)) (PP (IN on) (NP (NP (DT the) (NN score) (NNS sequences)) (PP (IN of) (NP (NNS tournaments))))))) (VP (VBP are) (NP (NP (JJ special) (NNS cases)) (S (NP ($ $) (CD b)) (VP (SYM =) (NP (DT a) (NP (NP (SYM =) (CD 1)) (NP ($ $) (CD resp)))))))) (. .))

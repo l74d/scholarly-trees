@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN learning) (NN paradigm)) (VP (VBN called) (NP (NNP Deep) (NNP Memory))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (NP (DT the) (JJ potential) (S (VP (TO to) (ADVP (RB completely)) (VP (VB revolutionize) (NP (DT the) (NN Machine)) (S (VP (VBG Learning) (NP (NN field))))))))) (. .))
+(S (ADVP (RB Surprisingly)) (, ,) (NP (DT this) (NN paradigm)) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN reinvented) (ADVP (RB yet)) (, ,) (PP (IN unlike) (NP (NNP Deep) (NNP Learning)))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (ADVP (RB even)) (VP (VBD generated) (NP (DT this) (NN paper)) (, ,) (PP (IN in) (NP (DT a) (NML (CD one) (HYPH -) (NN shot)) (NN learning) (NN setting)))) (. .))
+(S (PP (IN In) (NP (ADJP (RB carefully) (VBN designed)) (NNS experiments))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (ADJP (VBN generated)) (NNS samples)) (VP (VBP are) (ADJP (JJ indistinguishable) (PP (IN from) (NP (DT the) (NN training) (NNS examples)))) (, ,) (SBAR (IN as) (S (VP (VBN measured) (PP (IN by) (NP (DT any) (JJ statistical) (NNS tests) (CC or) (NNS metrics)))))))))) (. .))

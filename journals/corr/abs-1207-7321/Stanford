@@ -1,0 +1,7 @@
+(S (PP (IN Within) (NP (NN spin) (NN glass) (NN theory))) (, ,) (NP (NP (JJ special) (NNS cases)) (PP (IN of) (NP (DT these) (NNS mappings)))) (VP (VP (VBP correspond) (PP (IN to) (S (VP (VBG iterating) (NP (DT the) (NN TAP) (NNS equations)))))) (CC and) (VP (VBD were) (VP (VBN studied) (PP (IN by) (NP (NNP Bolthausen))) (PRN (-LRB- [) (NP (NNP Comm)))))) (. .))
+(NP (NNP Math) (. .))
+(NP (NNS Phys) (. .))
+(NP (NP (CD 325)) (NP (-LRB- -LRB-) (CD 2014) (-RRB- -RRB-)) (NP (CD 333) (HYPH -) (CD 366)) (-RRB- ]) (. .))
+(S (PP (IN Within) (NP (NN information) (NN theory))) (, ,) (NP (PRP they)) (VP (VBP are) (VP (VBN known) (PP (IN as) (`` ") (NP (NP (JJ approximate) (NN message)) (VP (VBG passing) (`` ") (NP (NNS algorithms))))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT the) (NN universality)) (PP (IN of) (NP (NP (DT a) (JJ certain) (NN phase) (NN transition)) (VP (VP (VBG arising) (PP (IN in) (NP (NN polytope) (NN geometry)))) (CC and) (VP (VBN compressed) (S (VP (VBG sensing))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ solves) (, ,) (PP (IN for) (NP (NP (DT a) (JJ broad) (NN class)) (PP (IN of) (NP (JJ random) (NNS projections))))) (, ,) (NP (NP (DT a) (NN conjecture)) (PP (IN by) (NP (NP (NNP David) (NNP Donoho)) (CC and) (NP (NNP Jared) (NNP Tanner)))))) (. .))

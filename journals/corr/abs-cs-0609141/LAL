@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NNP O) (PRN (-LRB- -LRB-) (RB n) (-RRB- -RRB-)) (NN test)) (PP (IN for) (NP (NN polygon) (NN convexity)))) (VP (VBZ is) (VP (VBN stated) (CC and) (VBN proved))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN proved) (SBAR (IN that) (S (NP (DT the) (NN test)) (VP (VBZ is) (ADJP (JJ minimal)) (PP (IN in) (NP (DT a) (JJ certain) (JJ exact) (NN sense)))))))) (. .))

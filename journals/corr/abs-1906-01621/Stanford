@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB further)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB achieve) (ADVP (RB even) (RBR faster)) (NP (NNS rates)) (PP (IN by) (S (VP (VBG introducing) (NP (NML (JJR higher) (HYPH -) (NN order)) (NN regularization)))))))))) (. .))
+(S (NP (PRP$ Our) (NNS results)) (VP (VBP rely) (PP (IN on) (NP (NP (JJ recent) (NNS advances)) (PP (IN in) (NP (NP (ADJP (JJ near) (HYPH -) (JJ optimal)) (VBN accelerated) (NNS methods)) (PP (IN for) (NP (NML (JJR higher) (HYPH -) (NN order)) (JJ smooth) (NN convex) (NN optimization)))))))) (. .))

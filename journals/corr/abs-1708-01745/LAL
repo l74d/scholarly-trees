@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ aims) (PP (IN at) (S (VP (VBG finding) (NP (JJ acyclic) (NN graphs)) (PP (IN under) (NP (NP (DT a) (VBN given) (NN set)) (PP (IN of) (NP (NNS constraints))))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VP (VBZ proposes) (NP (NP (JJ several) (NNS encodings)) (PP (IN of) (NP (DT the) (NN problem))))) (CC and) (VP (VBZ compares) (NP (PRP them)) (PP (IN in) (NP (NP (DT an) (JJ experimental) (NN evaluation)) (VP (VBG using) (NP (JJ stateof-the-art) (NNP SAT) (NNS solvers))))))) (. .))

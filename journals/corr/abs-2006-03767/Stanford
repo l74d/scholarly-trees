@@ -1,0 +1,4 @@
+(S (ADVP (RB Generally)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ common)) (SBAR (IN that) (S (VP (VBD cited) (SBAR (S (NP (NNS papers)) (VP (VBP are) (ADJP (ADJP (JJR earlier)) (PP (IN than) (S (VP (VBG citing) (NP (NNS papers))))))))))))) (. .))
+(S (CC But) (NP (PRP we)) (VP (VBD found) (NP (CD three) (JJ different) (NNS cases)) (, ,) (SBAR (IN with) (FRAG (ADJP (JJR more) (JJ undiscovered))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN letter))) (, ,) (NP (PRP we)) (VP (VBD attempted) (S (VP (TO to) (VP (VB explain) (NP (DT the) (NNS reasons)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (JJ negative) (NN time) (NN lag)) (PP (IN between) (S (VP (VP (VBG citing)) (CC and) (VP (VBD cited) (NP (NNS papers))))))) (VP (MD may) (VP (VB mislead) (NP (PRP us)) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (NN science))))))))) (. .))

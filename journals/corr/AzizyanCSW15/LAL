@@ -1,0 +1,5 @@
+(S (NP (NNP Density) (NN mode) (NN clustering)) (VP (VBZ is) (NP (DT a) (JJ nonparametric) (NN clustering) (NN method))) (. .))
+(S (NP (DT The) (NNS clusters)) (VP (VBP are) (NP (NP (DT the) (NNS basins)) (PP (IN of) (NP (NP (NN attraction)) (PP (IN of) (NP (NP (DT the) (NNS modes)) (PP (IN of) (NP (DT a) (NN density) (NN estimator))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN risk)) (PP (IN of) (NP (JJ mode-based) (NN clustering))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN clustering) (NN risk)) (PP (IN over) (NP (NP (DT the) (NN cluster) (NNS cores)) (PRN (: —) (: -) (NP (NP (DT the) (NNS regions)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN density)) (VP (VBZ is) (ADJP (JJ high)))))) (: —) (: -))))) (VP (VBZ is) (ADJP (RB very) (JJ small)) (PP (ADVP (RB even)) (IN in) (NP (JJ high) (NNS dimensions))))))) (. .))
+(S (CC And) (PP (IN under) (NP (DT a) (JJ low) (NN noise) (NN condition))) (, ,) (NP (DT the) (JJ overall) (NN cluster) (NN risk)) (VP (VBZ is) (ADJP (JJ small)) (PP (ADVP (RB even)) (IN beyond) (NP (DT the) (NNS cores))) (, ,) (PP (IN in) (NP (JJ high) (NNS dimensions)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (NN state) (CC and) (VB prove) (NP (NP (DT a) (JJ relevant) (NN version)) (PP (IN of) (NP (DT this) (NN inequality))) (PP (IN for) (NP (NP (DT the) (ADJP (NN hitherto) (JJ unaddressed)) (NN case)) (PP (IN of) (S (NP (DT these) (NNS matrices)) (VP (VBG being) (ADJP (JJ nonnegative))))))))) (. .))
+(S (NP (PRP$ Our) (NN treatment)) (ADVP (RB also)) (VP (VBZ provides) (NP (NP (DT an) (NN alternate) (NN proof)) (PP (IN for) (NP (DT the) (ADJP (RB strictly) (JJ positive)) (NN case))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP point) (PRT (RP out)) (NP (NP (DT a) (JJ simple) (JJ poly-time) (NN log-space) (VBG routing) (NNS algorithm)) (PP (IN in) (NP (NN ad) (NN hoc) (NNS networks))) (PP (IN with) (NP (JJ guaranteed) (NN delivery))) (VP (VBG using) (NP (JJ universal) (NN exploration) (NNS sequences))))) (. .))

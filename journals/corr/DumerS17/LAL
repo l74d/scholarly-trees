@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (JJ recursive) (NN decoding) (NNS techniques)) (PP (IN for) (NP (NP (NNP RM) (NNS codes)) (, ,) (NP (PRP$ their) (NNS subcodes)) (, ,) (CC and) (NP (ADJP (RB newly) (VBN designed)) (NNS codes)))))) (. .))
+(S (PP (IN For) (NP (NP (JJ moderate) (NNS lengths)) (PP (IN up) (PP (TO to) (NP (CD 512)))))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (NP (JJ near-optimum) (VBG decoding)) (PP (IN with) (NP (JJ feasible) (NN complexity))))) (. .))

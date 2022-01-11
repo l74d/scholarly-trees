@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NN complexity) (NN dichotomy) (NN theorem)) (PP (IN for) (NP (DT the) (JJ six-vertex) (NN model))))) (. .))
+(S (PP (IN For) (NP (NP (DT every) (NN setting)) (PP (IN of) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (DT the) (NN model))))))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (S (VP (VBG computing) (NP (DT the) (NN partition) (NN function)))) (VP (VBZ is) (ADJP (DT either) (ADJP (JJ solvable) (PP (IN in) (NP (JJ polynomial) (NN time)))) (CC or) (ADJP (# #) (NNP P-hard))))))) (. .))
+(S (NP (DT The) (JJ dichotomy) (NN criterion)) (VP (VBZ is) (ADJP (JJ explicit))) (. .))

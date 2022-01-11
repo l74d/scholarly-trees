@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (SBAR (S (NP (NP (DT a) (JJ new) (VBG chaining) (NN technique)) (PP (IN for) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNP Hadamard)))))) (VP (VBZ transforms) (PP (IN for) (NP (NP (NN encryption)) (PP (IN of) (NP (DT both) (JJ binary) (CC and) (JJ non-binary) (NNS data))))))))) (. .))
+(S (NP (NP (DT The) (NNS lengths)) (PP (IN of) (NP (DT the) (NML (NN input) (CC and) (NN output)) (NN sequence)))) (VP (MD need) (RB not) (VP (VB be) (ADJP (JJ identical)))) (. .))
+(S (NP (DT The) (NN method)) (VP (MD may) (VP (VB be) (VP (VBN used) (ADVP (RB also)) (PP (IN for) (S (VP (VBG hashing))))))) (. .))

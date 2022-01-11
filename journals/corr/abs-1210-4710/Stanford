@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN article)) (VP (VBZ provides) (NP (NP (JJ structural) (NN characterization)) (PP (IN of) (NP (NP (JJ simple) (NNS graphs)) (SBAR (WHNP (WP$ whose) (NML (NN edge) (HYPH -) (NN set))) (S (VP (MD can) (VP (VB be) (VP (VBN partitioned) (PP (IN into) (NP (JJ maximum) (NNS matchings)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NP (NNP Vizing) (POS 's)) (NN classification)) (PP (IN of) (NP (JJ simple) (NNS graphs)))) (PP (VBN based) (PP (IN on) (NP (NN edge) (JJ chromatic) (NN index))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (ADJP (NP (NP (NN logic)) (PP (IN of) (NP (NN reason)))) (HYPH -) (VBN based)) (NN preference)) (VP (VBN advanced) (PP (IN in) (NP (NNP Osherson) (CC and) (NNP Weinstein))) (PRN (-LRB- -LRB-) (NP (CD 2012)) (-RRB- -RRB-)))) (VP (VBZ is) (VP (VBN extended) (PP (IN to) (NP (NNS quantifiers))))) (. .))
+(S (NP (NP (NNP Basic) (NNS properties)) (PP (IN of) (NP (DT the) (JJ new) (NN system)))) (VP (VBP are) (VP (VBN discussed))) (. .))

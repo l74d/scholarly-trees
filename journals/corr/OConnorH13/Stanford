@@ -1,0 +1,6 @@
+(S (NP (NN ARKref)) (VP (VBZ is) (NP (NP (DT a) (NN tool)) (PP (IN for) (NP (NN noun) (NN phrase) (NN coreference))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (JJ deterministic) (, ,) (ADJP (NN rule) (HYPH -) (VBN based)) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (NP (NP (JJ syntactic) (NN information)) (PP (IN from) (NP (DT a) (NN constituent) (NN parser)))) (, ,) (CC and) (NP (NP (JJ semantic) (NN information)) (PP (IN from) (NP (DT an) (NN entity) (NN recognition) (NN component)))))))))) (. .))
+(S (NP (PRP$ Its) (NN architecture)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN work)) (PP (IN of) (NP (NNP Haghighi) (CC and) (NNP Klein))))) (PRN (-LRB- -LRB-) (NP (CD 2009)) (-RRB- -RRB-)))) (. .))
+(S (NP (NN ARKref)) (VP (VBD was) (ADVP (RB originally)) (VP (VBN written) (PP (IN in) (NP (CD 2009))))) (. .))
+(S (PP (IN At) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (NN writing))))) (, ,) (NP (DT the) (JJ last) (VBN released) (NN version)) (VP (VBD was) (PP (IN in) (NP (NNP March) (CD 2011)))) (. .))
+(S (NP (DT This) (NN document)) (VP (VBZ describes) (PP (IN that) (NP (NP (NN version)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (UCP (NML (JJ open) (HYPH -) (NN source)) (CC and) (ADJP (RB publicly) (JJ available) (PP (IN at) (: :) (NP (DT this) (NN http))))) (NN URL)))))))))

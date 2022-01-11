@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP model) (NP (NP (DT both) (JJ concurrent) (NNS programs)) (CC and) (NP (NP (DT the) (JJ possible) (NNS executions)) (PP (IN from) (NP (CD one) (NN state))))) (PP (IN to) (NP (NP (DT another)) (PP (IN in) (NP (NP (DT a) (JJ concurrent) (NN program)) (VP (VBG using) (NP (NNS simplices)))))))) (. .))
+(S (NP (DT The) (JJ latter)) (VP (VBP are) (VP (VBN calculated) (S (VP (VBG using) (NP (NP (NNS necklaces)) (PP (IN of) (NP (NP (NNS simplices)) (PP (IN in) (NP (DT the) (JJ former)))))))))) (. .))

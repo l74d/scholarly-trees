@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (CD two) (NNS ways)) (SBAR (S (VP (TO to) (VP (VB compute) (NP (JJ singular) (NNS values))))))) (VP (VBP are) (VP (VBN presented) (SBAR (WHNP (WDT which)) (S (VP (VBP use) (NP (NNP Cholesky) (NN decomposition)) (PP (IN as) (NP (PRP$ their) (JJ basic) (NN operation)))))))) (. .))

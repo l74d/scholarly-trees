@@ -1,0 +1,4 @@
+(S (PP (IN For) (NP (JJ many) (NML (NN IT) (HYPH -) (NN security)) (NNS measures))) (NP (JJ exact) (NNS costs) (CC and) (NNS benefits)) (VP (VBP are) (RB not) (VP (VBN known))) (. .))
+(S (NP (DT This)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB allocate) (NP (NNS resources)) (ADVP (RB optimally)) (PP (IN to) (NP (JJ different) (NN security) (NNS measures))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN model)) (PP (IN for) (NP (NNS costs) (CC and) (NNS benefits))) (PP (IN of) (NP (ADJP (RB so) (VBN called)) (NNS Honeynets))))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB foster) (NP (JJ informed) (NN reasoning)) (PP (IN about) (NP (NP (DT the) (NN deployment)) (PP (IN of) (NP (NN honeynet) (NN technology))))))) (. .))

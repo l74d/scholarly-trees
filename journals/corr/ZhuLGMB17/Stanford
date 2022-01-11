@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN document)) (VP (VBZ outlines) (NP (DT the) (NN approach)) (PP (IN to) (S (VP (VBG supporting) (NP (JJ cross-node) (NNS transactions)) (PP (IN over) (NP (DT a) (NNP Redis) (NN cluster))))))) (. .))

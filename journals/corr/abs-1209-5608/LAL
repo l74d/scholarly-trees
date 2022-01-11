@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (JJ new) (JJ deterministic) (NNS bounds)) (PP (IN for) (NP (JJ fully-dynamic) (NN graph) (NN connectivity))))) (. .))
+(S (NP (NP (PRP$ Our) (NN model)) (PP (IN of) (NP (NN computation)))) (VP (VBZ is) (NP (NP (DT the) (JJ same)) (PP (IN as) (NP (NP (DT that)) (PP (IN of) (NP (NP (NNP Thorup)) (, ,) (NP (NN i.e.)) (, ,) (NP (NP (DT a) (NN pointer) (NN machine)) (PP (IN with) (NP (JJ standard) (ADJP ($ $) (NNP AC^0) ($ $)) (NNS instructions)))))))))) (. .))

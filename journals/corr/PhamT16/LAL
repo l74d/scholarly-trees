@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NN structure) (NN theorem)) (PP (IN for) (NP (JJ long-unichord-free) (NN graph))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (ADJP ($ $) (NNP O)) (PRN (-LRB- -LRB-) (NN n^4m) (-RRB- -RRB-)) (ADJP ($ $) (JJ -time)) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB recognize) (NP (PRP them)))))))) (. .))

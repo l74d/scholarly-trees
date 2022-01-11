@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (CC and) (VBP study) (NP (NP (DT a) (NN generalization)) (PP (IN to) (NP (NP (DT the) (ADJP (NN well) (HYPH -) (VBN known)) (NN problem)) (PP (IN of) (NP (NN polyline) (NN simplification))))))) (. .))
+(S (PP (IN As) (NP (DT a) (JJ further) (NN result))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (NML (VBN fixed) (HYPH -) (NN parameter)) (NN tractability)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (VBN shared) (NN bend) (NNS points))))))) (. .))

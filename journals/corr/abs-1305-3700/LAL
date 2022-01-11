@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN construction)) (PP (IN of) (NP (JJ quadratic) (NN bent) (NNS functions))) (PP (IN in) (NP (JJ polynomial) (NNS forms))))) (. .))
+(S (NP (NP (NNP Right) (NNP Euclid) (NN algorithm)) (PP (IN in) (NP (NP (JJ skew-polynomial) (NNS rings)) (PP (IN over) (NP (NP (JJ finite) (NNS fields)) (PP (IN of) (NP (JJ characteristic) (CD 2)))))))) (VP (VBZ is) (VP (VBN applied) (PP (IN in) (NP (DT the) (NN proof))))) (. .))

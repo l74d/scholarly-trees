@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT any) (JJ initial) (JJ positive) (NN vector))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NN method)) (VP (VBZ converges) (ADVP (RB globally)) (PP (IN with) (NP (DT a) (ADJP (RB locally) (JJ quadratic)) (NN convergence) (NN rate))) (PP (IN to) (NP (NP (DT a) (JJ positive) (NN solution)) (PP (IN of) (NP (NNP NAEP))))))))) (. .))
+(S (NP (NNP Numerical) (NNS experiments)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB support) (NP (DT the) (JJ theoretical) (NNS results))))))) (. .))

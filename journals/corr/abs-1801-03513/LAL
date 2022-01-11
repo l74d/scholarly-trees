@@ -1,0 +1,3 @@
+(NP (NP (NNS Proceedings)) (PP (IN of) (NP (NP (DT the) (NNP Workshop)) (PP (IN on) (NP (NNP High) (NNP Performance) (NNP Energy) (NNP Efficient) (VBD Embedded) (NNP Systems))) (PRN (-LRB- -LRB-) (NP (NNP HIP3ES)) (-RRB- -RRB-)) (NP (CD 2018)))) (. .))
+(NP (NP (NP (NNP Manchester)) (, ,) (NP (NNP United) (NNP Kingdom)) (, ,)) (NP (NNP January) (CD 22nd)) (. .))
+(S (VP (VBN Collocated) (PP (IN with) (NP (NNP HIPEAC) (CD 2018) (NNP Conference)))) (. .))

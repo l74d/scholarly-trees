@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT a) (ADJP (NN record) (HYPH -) (VBG breaking)) (JJ binary) (NN code)) (PP (IN of) (NP (NML (NML (NN length) (CD 17)) (, ,) (NML (JJ minimal) (NN distance) (CD 6)) (, ,)) (JJ constant) (NN weight))) (NP-TMP (CD 6))))) (, ,) (CC and) (S (VP (VBG containing) (NP (CD 113) (NNS codewords)))) (. .))

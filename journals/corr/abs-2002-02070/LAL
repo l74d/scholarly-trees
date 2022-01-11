@@ -1,0 +1,8 @@
+(S (NP (NP (DT A) (JJ large) (NN portion)) (PP (IN of) (NP (NP (DT the) (JJ car-buying) (NN experience)) (PP (IN in) (NP (DT the) (NNP United) (NNPS States)))))) (VP (VBZ involves) (NP (NP (NNS interactions)) (PP (IN at) (NP (DT a) (NN car) (NN dealership))))) (. .))
+(S (PP (IN At) (NP (DT the) (NN dealership))) (, ,) (NP (DT the) (NN car-buyer)) (VP (VBZ relays) (NP (PRP$ their) (NNS needs)) (PP (TO to) (NP (DT a) (NNS sales) (NN representative)))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJS most) (NNS car-buyers)) (VP (VBP are) (VP (ADVP (RB only)) (VBP have) (NP (NP (DT an) (JJ abstract) (NN description)) (PP (IN of) (NP (NP (DT the) (NN vehicle)) (SBAR (S (NP (PRP they)) (VP (VBP need))))))))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP they)) (VP (VBP are) (ADVP (RB only)) (ADJP (JJ able) (S (VP (TO to) (VP (VB describe) (NP (PRP$ their) (NN ideal) (NN car)) (PP (IN in) (`` ``) (NP (JJ car-speak)) ('' ''))))))) (. .))
+(S (NP (NNP Car-speak)) (VP (VBZ is) (NP (NP (JJ abstract) (NN language)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pertains) (PP (TO to) (NP (NP (DT a) (NN car) (POS 's)) (JJ physical) (NNS attributes)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (JJ car-speak))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP aim) (S (VP (TO to) (VP (VB curate) (NP (NP (DT a) (JJ reasonable) (NN data) (NN set)) (PP (IN of) (NP (JJ car-speak) (NN language)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP train) (NP (JJ several) (NNS classifiers)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB classify) (NP (NN car-speak))))))) (. .))

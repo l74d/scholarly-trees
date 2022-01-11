@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (CD three) (NNS results)) (PP (IN on) (NP (NNP CREW) (NNP PRAM))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (DT the) (JJ same) (NN technique)) (PP (IN to) (NP (DT the) (NN suffix) (NN tree))) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (VBP show) (SBAR (S (NP (PRP it)) (VP (VBZ is) (, ,) (PP (IN by) (NP (NN design))) (, ,) (ADJP (RB inherently) (JJ sequential)) (PP (IN in) (NP (DT the) (JJS worst) (NN case)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (MD will) (VP (VB present) (NP (NP (JJ many) (JJ strong) (JJ partial) (NNS results)) (PP (IN towards) (NP (NP (DT a) (NN classification)) (PP (IN of) (NP (NP (JJ exceptional) (NN planar/PN) (JJ monomial) (NNS functions)) (PP (IN on) (NP (JJ finite) (NNS fields)))))))))) (. .))
+(S (NP (NP (DT The) (NNS techniques)) (SBAR (S (NP (PRP we)) (VP (VBP use))))) (VP (VBP are) (NP (NP (DT the) (NNP Weil) (NN bound)) (, ,) (NP (NP (NNP Bezout) (POS 's)) (NN theorem)) (, ,) (CC and) (NP (NP (NNP Bertini) (POS 's)) (NN theorem)))) (. .))

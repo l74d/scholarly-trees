@@ -1,0 +1,2 @@
+(S (NP (NNP Linear) (NNS codes)) (VP (VBP have) (VP (VBN been) (NP (DT an) (JJ interesting) (NN topic)) (PP (IN in) (NP (DT both) (NN theory) (CC and) (NN practice))) (PP (IN for) (NP (JJ many) (NNS years))))) (. .))
+(S (NP (DT These) (NNS codes)) (VP (MD may) (VP (VB have) (NP (NP (NNS applications)) (PP (IN in) (NP (NP (NN cryptography)) (CC and) (NP (JJ secret) (NN sharing) (NNS schemes))))))) (. .))

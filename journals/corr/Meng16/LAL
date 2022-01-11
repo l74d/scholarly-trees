@@ -1,0 +1,2 @@
+(S (NP (JJ Modular) (NN arithmetic)) (VP (VBZ is) (VP (ADVP (RB widely)) (VBN used) (PP (IN in) (NP (NP (NN crytography)) (CC and) (NP (JJ symbolic) (NN computation)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (NP (DT a) (JJ vectorized) (NNP Montgomery) (NN algorithm)) (PP (IN for) (NP (JJ modular) (NN multiplication)))) (, ,) (NP (NP (DT the) (NN key)) (PP (TO to) (NP (VB fast) (JJ modular) (JJ arithmetic)))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (ADVP (RB fully)) (VBZ utilizes) (NP (DT the) (NNP SIMD) (NNS instructions))))))) (. .))

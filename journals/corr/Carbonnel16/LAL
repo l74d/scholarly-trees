@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (S (NP (NP (DT the) (NN characterization)) (PP (IN of) (NP (ADJP (RB conservatively) (JJ tractable)) (NNS languages)))) (VP (VBZ is) (PP (IN of) (NP (JJ algebraic) (NN nature))))) (CC and) (S (NP (DT the) (JJ naive) (NN recognition) (NN algorithm)) (VP (VBZ is) (ADJP (JJ super-exponential)) (PP (IN in) (NP (DT the) (NN domain) (NN size))))) (. .))

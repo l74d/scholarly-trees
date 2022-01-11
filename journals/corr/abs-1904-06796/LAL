@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (NP (JJ asymptotic) (NNS approximations)) (PP (IN of) (NP (NP (NNS roots)) (PP (IN of) (NP (NNS polynomials))))) (PP (IN with) (NP (JJ exp-log) (NN function) (NNS coefficients))))))))) (. .))
+(S (NP (NP (DT The) (ADJP (JJ real) (CC and) (JJ imaginary)) (NNS parts)) (PP (IN of) (NP (DT the) (NNS approximations)))) (VP (VBP are) (VP (VBN given) (PP (IN as) (NP (JJ explicit) (JJ exp-log) (NNS expressions))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG deciding) (SBAR (WHNP (WDT which) (NNS approximations)) (S (VP (VBP correspond) (PP (TO to) (NP (JJ real) (NNS roots))))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP report) (PP (IN on) (NP (NP (NN implementation)) (PP (IN of) (NP (DT the) (NN algorithm)))))) (CC and) (VP (JJ present) (NP (JJ empirical) (NNS data)))) (. .))

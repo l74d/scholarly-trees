@@ -1,0 +1,3 @@
+(S (NP (NP (PRP It))) (VP (VBZ is) (VP (VBN defined) (NP (DT an) (JJ unique) (NN class) (NNS problems)) (S (VP (TO to) (VP (VB be) (ADJP (JJ worth) (S (VP (TO to) (VP (VB search) (NP (DT an) (JJ efficient) (VBG solving) (NN algorithm))))))))))) (. .))
+(S (NP (NP (DT The) (NNS problems)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADVP (IN outside) (PP (IN of) (NP (DT this) (NN class))))))) (, ,)) (VP (VBP are) (ADJP (RB inherently) (JJ exponential))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ Hamiltonian) (NN cycle) (NN problem)) (VP (VBZ is) (ADJP (RB inherently) (JJ exponential)))))) (. .))

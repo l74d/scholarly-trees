@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD present) (NP (NP (DT the) (JJ first) (JJ practical) (NN attack)) (PP (IN on) (NP (NP (DT the) (VBN shifted) (JJ conjugacy-based) (NN authentication) (NN protocol)) (VP (VBN proposed) (PP (IN by) (NP (NNP P.) (NNP Dehornoy)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP discuss) (NP (NP (DT the) (NNS weaknesses)) (PP (IN of) (NP (DT that) (JJ primitive))))) (CC and) (VP (JJ propose) (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN protocol))))))))) (. .))

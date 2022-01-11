@@ -1,0 +1,2 @@
+(S (ADVP (RB Here)) (, ,) (NP (NP (DT the) (NN co-tree)) (PP (IN of) (NP ($ $) (CD T$)))) (VP (VBZ is) (NP (NP (DT the) (ADJP (VBG spanning)) (NN tree)) (PP (IN of) (NP (NP (DT the) (JJ dual)) (VP (VBN obtained) (PP (IN by) (S (VP (VBG taking) (NP (NP (DT the) (NNS duals)) (PP (IN of) (NP (DT the) (JJ non-tree) (NNS edges)))))))))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (JJ linear) (NN time)))))) (. .))

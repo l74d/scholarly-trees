@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP parallelize) (NP (NP (JJ several) (ADJP (RB previously) (VBN proposed)) (NN algorithms)) (PP (IN for) (NP (NP (DT the) (JJ minimum) (NN routing) (NN cost) (VBG spanning) (NN tree) (NN problem)) (CC and) (NP (DT some) (JJ related) (NNS problems)))))) (. .))

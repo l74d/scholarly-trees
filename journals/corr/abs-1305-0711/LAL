@@ -1,0 +1,8 @@
+(S (NP (VBG Increasing) (NNS data) (NNS volumes)) (VP (VBZ requires) (NP (JJ additional) (NN rating) (NNS techniques))) (. .))
+(S (NP (NN Reputation) (NNS systems)) (VP (VBP are) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (JJ much) (NN research))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ various) (NNS techniques)) (SBAR (S (VP (TO to) (VP (NN rate) (NP (NN content)))))) (SBAR (WHNP (WDT that)) (S (VP (VBP facilitate) (NP (NP (DT the) (NN search)) (PP (IN of) (NP (NN quality) (NN content))))))))) (. .))
+(S (NP (NP (NNP Page) (NN rank)) (, ,) (NP (NN citation) (NN index)) (CC and) (NP (NP (NNS votes)) (PP (IN from) (NP (NNS users))))) (VP (VBP are) (NP (DT some) (NN rating) (NNS examples))) (. .))
+(S (PP (IN In) (NP (DT the) (NN article))) (NP (PRP I)) (VP (VBP focus) (PP (IN on) (NP (JJ decentralized) (NN vote) (NNS systems)))) (. .))
+(S (NP (DT The) (NN article)) (VP (VBZ reviews) (NP (JJ several) (JJ distributed) (NN vote) (NNS designs))) (. .))
+(S (NP (PRP I)) (VP (VBP list) (NP (DT the) (JJ distributed) (NN vote) (NNS requirements))) (. .))
+(S (NP (NP (DT A) (JJ new) (JJ hybrid) (NN algorithm))) (VP (VBZ is) (VP (VBN proposed) (SBAR (WHNP (WDT which)) (S (VP (VBZ operates) (PP (IN in) (NP (DT the) (JJ structured) (NN overlay) (NNP P2P) (NNP DHT) (NNP Kademlia) (NN network)))))))) (. .))

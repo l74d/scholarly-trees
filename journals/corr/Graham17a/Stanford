@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ defines) (NP (NP (NN homology)) (PP (IN in) (NP (NML (NN homotopy) (NN type)) (NN theory)))) (, ,) (PP (IN in) (NP (NP (DT the) (NN process)) (SBAR (S (NP (JJ stable) (NN homotopy) (NNS groups)) (VP (VBP are) (ADVP (RB also)) (VP (VBN defined)))))))) (. .))
+(S (NP (NP (JJ Previous) (NN research)) (PP (IN in) (NP (JJ synthetic) (NN homotopy) (NN theory)))) (VP (VBZ is) (VP (VBN relied) (PP (IN on)) (, ,) (PP (IN in) (NP (NP (JJ particular) (DT the) (NN definition)) (PP (IN of) (NP (NN cohomology))))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ lays) (SBAR (S (NP (NP (DT the) (NN foundation)) (PP (IN for) (NP (DT a) (NN computer)))) (VP (VBD checked) (NP (NP (NN construction)) (PP (IN of) (NP (NN homology)))))))) (. .))

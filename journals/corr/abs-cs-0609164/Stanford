@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ conditional) (NN expression) (-LRB- -LRB-) (NN CE) (-RRB- -RRB-)) (PP (IN for) (S (VP (VBG finding) (NP (NP (NNS blurs)) (VP (VBN convolved) (PP (IN in) (NP (VBN given) (NNS images)))))))))) (. .))
+(S (NP (DT The) (NN CE)) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (CD zero) (HYPH -) (NNS values)) (PP (IN of) (NP (NP (DT the) (NNS blurs)) (VP (VBN evaluated) (PP (IN at) (NP (NN multi-point)))))))))))) (. .))
+(S (NP (DT The) (NN CE)) (VP (MD can) (VP (VB detect) (NP (JJ multiple) (NN blur)) (ADVP (DT all) (IN at) (RB once)))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT the) (JJ multiple) (NN blur) (HYPH -) (NN detection)) (PP (IN by) (S (VP (VBG using) (NP (DT a) (NN test) (NN image)))))) (. .))

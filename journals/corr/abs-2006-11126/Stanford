@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN proof)) (VP (VP (VBZ is) (ADJP (JJ constructive))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NN fact))) (SBAR (IN that) (S (NP (DT the) (NN normalization)) (VP (VBZ is) (ADJP (JJ realizable) (PP (IN by) (NP (DT a) (NML (NML ($ $)) (NN 2d)) (NML (NML ($ $)) (HYPH -) (NN tape)) (JJ finite) (NN automaton)))))))))) (. .))

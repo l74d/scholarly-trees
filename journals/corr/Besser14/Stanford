@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (DT the) (NNP MINGREEDY) (NN strategy)) (PP (IN for) (NP (NML (NNP Maximum) (NNP Cardinality)) (VBG Matching)))) (. .))
+(S (NP (NNP MINGREEDY)) (ADVP (RB repeatedly)) (VP (VBZ selects) (NP (DT an) (NN edge) (NN incident)) (PP (IN with) (NP (NP (DT a) (NN node)) (PP (IN of) (NP (JJ minimum) (NN degree)))))) (. .))
+(S (ADVP (RB Even)) (SBAR (WHADVP (WRB when)) (S (VP (VBG considering) (NP (NP (VBN expected) (NN approximation) (NNS ratios)) (PP (IN of) (NP (JJ randomized) (JJ greedy) (NNS strategies))))))) (, ,) (ADVP (RB no) (RB better)) (NP (JJS worst) (NN case) (NNS bounds)) (VP (VBP are) (VP (VBN known) (PP (IN for) (NP (NP (NNS graphs)) (PP (IN of) (NP (JJ small) (NNS degrees))))))) (. .))

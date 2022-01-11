@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (CC and) (VBP study) (NP (NP (NNS bisimulations)) (PP (IN for) (NP (NP (NNS coalgebras)) (PP (IN on) (NP (NP (NNP Stone) (NNS spaces)) (PRN (VBP -LSB-) (CD 14) (NN -RSB-)))))))) (. .))
+(S (NP (NP (PRP$ Our) (NN notion)) (PP (IN of) (NP (NN bisimulation)))) (VP (VP (VBZ is) (ADJP (JJ sound) (CC and) (JJ complete)) (PP (IN for) (NP (JJ behavioural) (NN equivalence)))) (, ,) (CC and) (VP (VBZ generalizes) (NP (NP (NNP Vietoris) (NNS bisimulations)) (PRN (VBP -LSB-) (CD 4) (NN -RSB-))))) (. .))

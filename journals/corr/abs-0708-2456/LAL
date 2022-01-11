@@ -1,0 +1,4 @@
+(S (NP (PRP It)) (VP (VBZ arises) (ADVP (RB naturally)) (PP (IN from) (S (VP (VBG decoding) (NP (VBN generalized) (NNP Reed-Solomon) (NNS codes)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS solutions)) (PP (IN of) (NP (DT the) (NN subset) (NN sum) (NN problem)))))) (PP (IN from) (NP (NP (DT a) (JJ mathematical) (NN point)) (PP (IN of) (NP (NN view)))))) (. .))
+(S (PP (IN In) (NP (JJ several) (JJ interesting) (NNS cases))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (NP (ADJP (JJ explicit) (CC or) (JJ asymptotic)) (NNS formulas)) (PP (IN for) (NP (DT the) (NN solution) (NN number))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (NP (DT some) (NNS results)) (PP (IN on) (NP (NP (DT the) (NN decoding) (NN problem)) (PP (IN of) (NP (NNP Reed-Solomon) (NNS codes))))))) (. .))

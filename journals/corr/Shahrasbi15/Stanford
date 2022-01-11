@@ -1,0 +1,4 @@
+(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP study) (NP (DT a) (JJ networked) (NN control) (NN system)) (PP (IN with) (NP (JJ similar) (JJ linear) (ADJP (NN time) (HYPH -) (JJ invariant)) (NNS plants)))) (. .))
+(S (S (VP (VBG Using) (NP (NN master) (NN stability) (NN function) (NN method)))) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (NN network) (NN optimization) (NN method)) (S (VP (TO to) (VP (VB minimize) (NP (DT the) (NN feedback) (NN network) (NN order)) (PP (IN in) (NP (DT the) (NN sense) (NNP Frobenius) (NN norm))))))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP verify) (NP (PRP$ our) (NNS results)) (PP (IN with) (NP (JJ numerical) (NN example)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN method)) (VP (VBZ outperforms) (NP (NP (DT the) (VBN known) (NN feedback) (NN network)) (NP (NP (NN optimization) (NNS methods)) (RRC (ADVP (RB namely)) (NP (JJ matching) (NN condition))))))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (NNP Avionics)) (VP (VBZ is) (NP (NP (CD one) (NN kind)) (PP (IN of) (NP (NP (NN domain)) (SBAR (WHADVP (WRB where)) (S (NP (NN prevention)) (VP (VBZ prevails)))))))) (. .))
+(S (S (ADVP (RB Nonetheless)) (VP (VBZ fails))) (VP (VBP occur)) (. .))
+(FRAG (ADVP (RB Sometimes)) (NP (NP (ADJP (JJ due) (PP (IN to) (NP (NN pilot)))) (NN misreacting)) (, ,) (VP (VBN flooded) (PP (IN in) (NP (NN information))))) (. .))
+(S (ADVP (RB Sometimes)) (NP (NP (NN information)) (SBAR (S (NP (PRP itself)) (VP (MD would) (VP (VB be) (ADVP (RBR better)) (VP (VBN verified) (PP (IN than)))))))) (VP (VBD trusted)) (. .))
+(S (S (VP (TO To) (VP (VB avoid) (NP (NP (DT some) (NN kind)) (PP (IN of) (NP (NN failure))))))) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (VBN thought) (S (VP (TO to) (VP (VB add) (, ,) (PP (IN in) (NP (NP (NN midst)) (PP (IN of) (NP (DT the) (NML (NML (NN ARINC664) (NN aircraft)) (NNS data)) (NN network))))) (, ,) (NP (NP (DT a) (JJ new) (NN kind)) (PP (IN of) (NP (NN monitoring)))))))))) (. .))

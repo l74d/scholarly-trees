@@ -1,0 +1,2 @@
+(S (VP (VB Consider) (NP (DT the) (JJ stable) (NN matching) (NN problem)) (PP (IN on) (NP (CD two) (NNS sets)))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (DT a) (NN preference) (NN cycle))))) (CC and) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (NP (PRP$ its) (JJ natural) (NN presence)) (PP (IN in) (NP (JJ stable) (NNS matchings)))) (VP (VBZ proves) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (JJ classical) (NNS results)) (PP (IN in) (NP (DT an) (JJ elementary) (NN way))))))))))) (. .))

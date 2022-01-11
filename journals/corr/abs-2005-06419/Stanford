@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN graph) (NN separator)) (VP (VBZ is) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (NP (NNS vertices)) (PP (IN of) (NP (NP (DT a) (NN graph)) (SBAR (WHNP (WP$ whose) (NML (NN removal))) (S (VP (VBZ divides) (NP (DT the) (NN graph)) (PP (IN into) (NP (JJ small) (NNS components)))))))))))) (. .))
+(S (NP (NP (NNP Computing)) (NP (NP (JJ small) (NN graph) (NNS separators)) (PP (IN for) (NP (NP (JJ various) (NNS classes)) (PP (IN of) (NP (NNS graphs))))))) (VP (VBZ is) (NP (DT an) (JJ important) (JJ computational) (NN task))) (. .))

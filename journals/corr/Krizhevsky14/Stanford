@@ -1,0 +1,2 @@
+(S (NP (PRP I)) (VP (VBP present) (NP (DT a) (JJ new) (NN way)) (PP (IN to) (VP (VB parallelize) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (JJ convolutional) (JJ neural) (NNS networks)))) (PP (IN across) (NP (JJ multiple) (NNS GPUs)))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ scales) (ADJP (ADJP (RB significantly) (JJR better)) (PP (IN than) (NP (DT all) (NNS alternatives)))) (SBAR (WHADVP (WRB when)) (S (VP (VBN applied) (PP (IN to) (NP (JJ modern) (JJ convolutional) (JJ neural) (NNS networks))))))) (. .))

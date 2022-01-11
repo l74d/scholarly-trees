@@ -1,0 +1,5 @@
+(S (NP (NP (NN Education)) (PP (IN at) (NP (DT all) (NNS levels)))) (VP (VBZ is) (VP (VBG facing) (NP (NP (JJ several) (NNS challenges)) (PP (IN in) (NP (JJS most) (NNS countries))) (, ,) (PP (JJ such) (IN as) (NP (NP (JJ low) (NN quality)) (, ,) (NP (JJ high) (NNS costs)) (, ,) (NP (NP (NN lack)) (PP (IN of) (NP (NNS educators)))) (, ,) (CC and) (NP (JJ unsatisfied) (NN student) (NN demand))))))) (. .))
+(S (NP (JJ Traditional) (NNS approaches)) (VP (VBP are) (VP (VBG becoming) (ADJP (JJ unable) (S (VP (TO to) (VP (VB deliver) (NP (DT the) (JJ required) (NN education)))))))) (. .))
+(S (NP (NP (JJ Several) (NNS causes)) (PP (IN for) (NP (DT this) (NN inefficiency)))) (VP (MD can) (VP (VB be) (VP (VBN identified)))) (. .))
+(S (NP (PRP I)) (VP (VBP argue) (SBAR (IN that) (S (PP (IN beyond) (NP (JJ specific) (NNS causes))) (, ,) (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (JJ effective) (NN education)))) (VP (VBZ is) (VP (VBN related) (PP (IN to) (NP (NN complexity)))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NN information) (NN technology)) (VP (VBZ is) (VP (VBG helping) (S (NP (PRP us)) (VP (VB overcome) (NP (DT this) (NN complexity)))))) (. .))

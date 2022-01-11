@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN density)) (VP (VBZ tends) (PP (IN to) (NP (CD 0))) (SBAR (IN as) (S (NP (DT the) (NN time)) (VP (VBZ goes) (PP (IN to) (NP (NN infinity)))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (PP (IN in) (ADJP (JJ general))) (, ,) (NP (NP (PDT all) (DT the) (NN information)) (PP (IN of) (NP (DT a) (JJ numerical) (NN image)))) (VP (MD will) (VP (VB be) (VP (VBN lost) (PP (IN by) (S (VP (VBG applying) (NP (NP (QP (JJ many) (NNS times)) (DT a) (JJ naive) (NN algorithm)) (PP (IN of) (NP (NN rotation)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN notion)) (PP (IN of) (NP (NNP Kripke) (NN model)))) (PP (IN for) (NP (NP (JJ classical) (NN logic)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (PRP we)) (ADVP (RB constructively)) (VP (VBP prove) (NP (ADJP (NP (NN soundness) (CC and) (NN cut)) (HYPH -) (JJ free)) (NN completeness)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NN novelty)) (PP (IN of) (NP (NP (DT the) (NN notion)) (CC and) (NP (PRP$ its) (JJ potential) (NNS applications)))))) (. .))

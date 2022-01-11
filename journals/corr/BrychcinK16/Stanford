@@ -1,0 +1,7 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ new) (JJ unsupervised) (NN approach)) (PP (IN for) (NP (NN dialogue) (NN act) (NN induction))))) (. .))
+(S (PP (VBN Given) (NP (NP (DT the) (NN sequence)) (PP (IN of) (NP (NN dialogue) (NNS utterances))))) (, ,) (NP (DT the) (NN task)) (VP (VBZ is) (S (VP (TO to) (VP (VB assign) (NP (PRP them)) (NP (NP (DT the) (NNS labels)) (VP (VBG representing) (NP (PRP$ their) (NN function)) (PP (IN in) (NP (DT the) (NN dialogue))))))))) (. .))
+(S (NP (NNS Utterances)) (VP (VBP are) (VP (VBN represented) (PP (IN as) (NP (NP (ADJP (JJ real) (HYPH -) (VBN valued)) (NNS vectors)) (VP (VBG encoding) (NP (PRP$ their) (NN meaning))))))) (. .))
+(S (NP (PRP We)) (VP (VBP model) (NP (NP (DT the) (NN dialogue)) (PP (IN as) (NP (NML (VBN Hidden) (NNP Markov)) (NN model)))) (PP (IN with) (NP (NP (NN emission) (NNS probabilities)) (VP (VBN estimated) (PP (IN by) (NP (JJ Gaussian) (NNS mixtures))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NNP Gibbs) (NN sampling)) (PP (IN for) (NP (JJ posterior) (NN inference))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NNS results)) (PP (IN on) (NP (DT the) (JJ standard) (NML (NN Switchboard) (HYPH -) (NN DAMSL)) (NN corpus))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VP (VBZ achieves) (NP (JJ promising) (NNS results)) (PP (VBN compared) (PP (IN with) (NP (JJ strong) (JJ supervised) (NNS baselines))))) (CC and) (VP (VBZ outperforms) (NP (JJ other) (JJ unsupervised) (NNS algorithms)))) (. .))

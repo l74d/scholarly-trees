@@ -1,0 +1,3 @@
+(S (NP (NN Iteration) (NNS semirings)) (VP (VBP are) (NP (NP (NNP Conway) (NNS semirings)) (VP (VBG satisfying) (NP (NP (NNP Conway) (POS 's)) (NN group) (NNS identities))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (JJ latter) (NN variety)) (VP (NNS coincides) (PP (IN with) (NP (NP (DT the) (NN variety)) (VP (VBN generated) (PP (IN by) (NP (DT the) (ADJP (JJ complete) (, ,) (CC or) (JJ continuous)) (NNS semirings)))))))))) (. .))
+(S (NP (DT This) (NN characterization)) (VP (VBZ corresponds) (PP (TO to) (NP (NP (NP (NNP Kozen) (POS 's)) (NN axiomatization)) (PP (IN of) (NP (JJ regular) (NNS languages)))))) (. .))

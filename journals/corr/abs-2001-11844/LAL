@@ -1,0 +1,2 @@
+(S (PP (IN In) (ADJP (JJ particular))) (NP (NP (NP (DT the) (NNP Least) (NNP Quare) (NNP Problem)) (PRN (-LRB- -LRB-) (NP (NNP LSP)) (-RRB- -RRB-))) (CC and) (NP (NP (DT the) (NNP Linear) (NNP Regression) (NNP Problem)) (PRN (-LRB- -LRB-) (NP (NNP LRP)) (-RRB- -RRB-)))) (VP (VBD was) (VP (VBN discussed))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (JJ corresponding) (NN solution) (CC or) (NNS tests)) (PP (IN as) (NP (NP (DT the) (NN threshold)) (PP (IN for) (NP (DT the) (JJ corresponding) (NN training) (NNS rules)))))) (. .))

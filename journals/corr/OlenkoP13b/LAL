@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ harmonizable) (JJ Piranashvili-type) (JJ stochastic) (NNS processes)) (VP (VBP are) (VP (VBN approximated) (PP (IN by) (NP (JJ finite) (NN time) (VBN shifted) (JJ average) (VBG sampling) (NNS sums))))) (. .))
+(S (NP (NNP Explicit) (NN truncation) (NN error) (JJ upper) (NNS bounds)) (VP (VBP are) (VP (VBN established))) (. .))
+(S (NP (JJ Various) (NX (NX (NNS corollaries)) (CC and) (NX (JJ special) (NNS cases)))) (VP (VBP are) (VP (VBN discussed))) (. .))

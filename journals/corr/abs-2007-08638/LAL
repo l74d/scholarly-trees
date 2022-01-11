@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP make) (NP (NP (DT a) (JJ formal) (NN analogy)) (PP (IN between) (NP (NP (NN random) (NN sampling)) (CC and) (NP (JJ fresh) (NN name) (NN generation)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NNS semantics)) (VP (VBZ is) (ADJP (RB fully) (JJ abstract)) (PP (IN up) (PP (TO to) (NP (JJ first-order) (NNS types)))))))) (. .))
+(S (NP (DT This)) (VP (VP (VBZ is) (ADJP (VBG surprising)) (PP (IN for) (NP (DT an) (JJ 'off-the-shelf) (POS ›) (NN model)))) (, ,) (CC and) (VP (VBZ requires) (NP (NP (DT a) (JJ novel) (NN analysis)) (PP (IN of) (NP (NP (NN probability) (NNS distributions)) (PP (IN on) (NP (NN function) (NNS spaces)))))))) (. .))

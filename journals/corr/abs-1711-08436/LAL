@@ -1,0 +1,2 @@
+(S (NP (DT This)) (VP (VBZ resolves) (NP (NP (DT a) (NN question)) (VP (VBN raised) (, ,) (NN e.g.) (, ,) (PP (IN by) (NP (NNP Danaraj) (CC and) (NNP Klee))) (PP (IN in) (NP (CD 1978)))))) (. .))
+(S (NP (NP (DT Another) (JJ simple) (NN corollary)) (PP (IN of) (NP (PRP$ our) (NN result)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (PRP it))) (VP (VBZ is) (ADJP (JJ NP-hard)) (S (VP (TO to) (VP (VB decide) (SBAR (IN whether) (S (NP (DT a) (VBN given) (NN poset)) (VP (VBZ is) (ADJP (JJ CL-shellable)))))))))))) (. .))

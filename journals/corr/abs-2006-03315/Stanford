@@ -1,0 +1,7 @@
+(S (NP (DT This) (NN report)) (VP (VBZ describes) (NP (PRP$ our) (NN model)) (PP (IN for) (NP (NP (NNP VATEX) (NNP Captioning) (NNP Challenge)) (NP-TMP (CD 2020))))) (. .))
+(S (ADVP (RB First)) (, ,) (S (VP (TO to) (VP (VB gather) (NP (NN information)) (PP (IN from) (NP (JJ multiple) (NNS domains)))))) (, ,) (NP (PRP we)) (VP (VBP extract) (NP (NP (NN motion)) (, ,) (NP (NN appearance)) (, ,) (NP (ADJP (JJ semantic) (CC and) (JJ audio)) (NNS features)))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VB design) (NP (DT a) (NN feature) (NN attention) (NN module)) (S (VP (TO to) (VP (VB attend) (PP (IN on) (NP (JJ different) (NN feature))) (SBAR (WHADVP (WRB when)) (FRAG (NP (NN decoding)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP apply) (NP (NP (CD two) (NNS types)) (PP (IN of) (NP (NP (NNS decoders)) (, ,) (NP (JJ top) (HYPH -) (NN down)) (CC and) (NP (NP (NN X-LAN) (CC and) (NN ensemble)) (NP (DT these) (NNS models)))))) (S (VP (TO to) (VP (VB get) (NP (DT the) (JJ final) (NN result)))))) (. .))
+(S (NP (DT The) (JJ proposed) (NN method)) (VP (VBZ outperforms) (NP (JJ official) (NN baseline)) (PP (IN with) (NP (DT a) (JJ significant) (NN gap)))) (. .))
+(S (NP (PRP We)) (VP (VBP achieve) (NP (NP (CD 76.0) (NN CIDEr)) (CC and) (NP (CD 50.0) (NN CIDEr))) (PP (IN on) (NP (ADJP (NNP English) (CC and) (NNP Chinese)) (JJ private) (NN test) (NN set)))) (. .))
+(S (NP (PRP We)) (VP (VBP rank) (NP (NP (JJ 2nd)) (PP (IN on) (NP (NML (CC both) (NNP English) (CC and) (NNP Chinese)) (JJ private) (NN test) (NN leaderboard))))) (. .))

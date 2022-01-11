@@ -1,0 +1,4 @@
+(S (ADVP (RB Recently)) (NP (NNP Raghavendra) (CC and) (NNP Tan) (PRN (-LRB- -LRB-) (NP (NNP SODA) (CD 2012)) (-RRB- -RRB-))) (VP (VBD gave) (NP (DT a) (NML (CD 0.85) (HYPH -) (NN approximation)) (NN algorithm)) (PP (IN for) (NP (DT the) (NML (NNP Max) (NNP Bisection)) (NN problem)))) (. .))
+(S (NP (PRP We)) (VP (VBP improve) (NP (PRP$ their) (NN algorithm)) (PP (IN to) (NP (DT a) (CD 0.8776) (HYPH -) (NN approximation)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VB obtain) (NP (NP (NP (DT an) (JJ optimal) (NN algorithm)) (-LRB- -LRB-) (VP (VBG assuming) (NP (DT the) (NNP UGC))) (-RRB- -RRB-)) (PP (IN for) (NP (NP (DT the) (JJ analogous) (NN variant)) (PP (IN of) (NP (NP (NNP Max) (CD 2)) (, -) (NP (NNP Sat)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ improves) (PP (IN on) (NP (NP (DT a) (CD 0.93) (HYPH -) (NN approximation)) (PP (IN for) (NP (DT this) (NN problem))))) (PP (IN due) (PP (IN to) (NP (NNP Raghavendra) (CC and) (NNP Tan))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (PRP$ our) (NN approach)) (PP (IN for) (S (VP (VBG making) (S (NP (NNP FPGA) (NNS accelerators)) (ADJP (JJ accessible) (PP (IN to) (NP (NML (NML (NN software)) (-LRB- -LRB-) (NML (NP (NNP SW))) (-RRB- -RRB-)) (NNS programmers))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN intended) (PP (IN as) (NP (NP (DT a) (NN starting) (NN point)) (PP (IN for) (NP (NNS collaborations))))) (PP (IN with) (NP (NP (JJ other) (NNS groups)) (VP (VBG pursuing) (NP (JJ similar) (NNS objectives))))))) (. .))

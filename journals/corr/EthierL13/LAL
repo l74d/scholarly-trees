@@ -1,0 +1,5 @@
+(S (NP (DT The) (NN parlor) (NN game)) (VP (VBD was) (ADVP (RB originally)) (NP (DT a) (JJ three-person) (JJ zero-sum) (NN game))) (. .))
+(S (ADVP (RB Later) (PP (IN in) (NP (DT the) (JJ 19th) (NN century)))) (NP (PRP it)) (VP (VBD was) (VP (VBN simplified) (PP (TO to) (NP (DT a) (JJ two-person) (JJ zero-sum) (NN game))))) (. .))
+(S (ADVP (RB Early) (PP (IN in) (NP (DT the) (JJ 20th) (NN century)))) (NP (DT the) (NN parlor) (NN game)) (VP (VBD became) (NP (NP (DT a) (NN casino) (NN game)) (, ,) (ADJP (ADVP (RB no) (RBR longer)) (ADJP (NN zero-sum))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN mid) (JJ 20th) (NN century))) (, ,) (NP (DT the) (JJ strategic) (NN casino) (NN game)) (VP (VBD became) (NP (DT a) (JJ nonstrategic) (NN game)) (, ,) (PP (IN with) (S (NP (NNS players)) (VP (VBG competing) (PP (PP (IN against) (NP (DT the) (NN house))) (CONJP (RB instead) (IN of)) (PP (IN against) (NP (DT each) (JJ other)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (DT this) (NN evolution)) (VP (VBD was) (VP (VBN motivated) (PP (IN by) (NP (ADJP (DT both) (JJ economic) (CC and) (JJ game-theoretic)) (NNS considerations)))))))) (. .))

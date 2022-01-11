@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNP Kalman) (NN filter)) (VP (VBZ is) (ADVP (RB extensively)) (VP (VBN used) (PP (IN for) (NP (NP (NN state) (NN estimation)) (PP (IN for) (NP (JJ linear) (NNS systems))))) (PP (IN under) (NP (JJ Gaussian) (NN noise))))) (. .))
+(S (NP (PRP It)) (VP (VBZ works) (ADVP (RB effectively)) (PP (IN with) (NP (JJ reasonable) (JJ computational) (NN cost)))) (. .))
+(S (NP (NNP Simulation) (NNS results)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB illustrate) (NP (DT this) (JJ non-Gaussian) (NN filtering) (NN method))))))) (. .))

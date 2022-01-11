@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (NN equivalence) (NN problem)) (PP (IN for) (NP (NP (JJ quasi-cyclic) (NNS codes)) (PP (IN over) (NP (JJ finite) (NNS fields))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (VP (VBN obtained))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB construct) (NP (JJ isodual) (JJ quasi-cyclic) (NNS codes))))))) (. .))

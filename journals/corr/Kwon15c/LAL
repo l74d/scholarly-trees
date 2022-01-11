@@ -1,0 +1,5 @@
+(S (NP (NP (NNS Inductions)) (CC and) (NP (NN game) (NNS semantics))) (VP (VBP are) (NP (NP (CD two) (JJ useful) (NNS extensions)) (PP (TO to) (NP (JJ traditional) (JJ logic) (NN programming))))) (. .))
+(S (S (VP (TO To) (VP (VB be) (ADJP (JJ specific))))) (, ,) (NP (NNS inductions)) (VP (MD can) (VP (VB capture) (NP (NP (DT a) (JJR wider) (NN class)) (PP (IN of) (NP (NP (JJ provable) (NNS formulas)) (PP (IN in) (NP (JJ logic) (NN programming)))))))) (. .))
+(S (S (VP (VBG Adopting) (NP (NN game) (NNS semantics)))) (VP (MD can) (VP (VB make) (S (NP (JJ logic) (VBG programming)) (ADJP (RBR more) (JJ interactive))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (NN execution) (NN model)) (PP (IN for) (NP (NP (DT a) (JJ logic) (NN language)) (PP (IN with) (NP (DT these) (NNS features))))))) (. .))
+(S (NP (DT This) (NN execution) (NN model)) (VP (VBZ follows) (ADVP (RB closely)) (NP (NP (DT the) (VBG reasoning) (NN process)) (PP (IN in) (NP (JJ real) (NN life))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP consider) (NP (NP (DT the) (JJ discrete-time) (NN quantum) (NN walk)) (PP (IN in) (NP (DT the) (NN plane))))) (, ,) (CC and) (VP (VB present) (NP (NP (DT a) (JJ quantum) (NN implementation)) (PP (IN of) (NP (NP (NNP Parrondo) (POS 's)) (NN game))) (PP (IN for) (NP (CD four) (NNS players)))))) (. .))
+(S (NP (NP (JJ Physical) (NN significance)) (PP (IN of) (NP (DT the) (NN game) (NNS strategies)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed))) (. .))

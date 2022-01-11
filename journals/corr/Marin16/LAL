@@ -1,0 +1,5 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ short) (NN tutorial)) (PP (IN of) (NP (DT the) (NX (NNP Case) (NNP Management) (NNP Model) (CC and) (NNP Notation)) (PRN (-LRB- -LRB-) (NP (NNP CMMN)) (-RRB- -RRB-)) (NP (NN version) (CD 1.0)))))) (. .))
+(S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN targeted) (PP (TO to) (NP (NP (NNS readers)) (PP (IN with) (NP (NP (NN knowledge)) (PP (IN of) (NP (JJ basic) (NN process) (CC or) (NN workflow) (NN modeling)))))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ covers) (NP (DT the) (JJ complete) (NNP CMMN) (NN notation)))) (. .))
+(S (NP (DT A) (JJ simple) (NNS complaints) (NN process)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB demonstrate) (NP (DT the) (NN notation))))))) (. .))
+(S (PP (IN At) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (JJ tutorial))))) (NP (DT the) (NN reader)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB understand) (CC and) (VB create) (NP (NNP CMMN) (NNS models)))))))) (. .))
+(S (NP (NP (DT An) (NN appendix)) (VP (VBG summarizing) (NP (DT the) (NN notation)))) (VP (VBZ is) (VP (VBN included) (PP (IN for) (NP (NN reference) (NNS purposes))))) (. .))

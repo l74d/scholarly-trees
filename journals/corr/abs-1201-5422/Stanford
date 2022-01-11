@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NML (NN factor) (HYPH -) (NN graph)) (NN representation)) (PP (IN of) (NP (NN quantum) (HYPH -) (JJ mechanical) (NNS probabilities)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (PP (IN Unlike) (NP (JJ standard) (JJ statistical) (NNS models))) (, ,) (NP (DT the) (VBN proposed) (NN representation)) (VP (VBZ uses) (NP (NP (NP (JJ auxiliary) (NNS variables)) (-LRB- -LRB-) (NP (NN state) (NNS variables)) (-RRB- -RRB-)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (NP (JJ random) (NNS variables))))))) (. .))

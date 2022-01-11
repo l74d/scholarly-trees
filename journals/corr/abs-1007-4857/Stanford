@@ -1,0 +1,1 @@
+(S (NP (NP (VBN Randomized) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ achieves) (NP (ADJP (JJ multi-valued) (JJ Byzantine)) (NN agreement)) (PP (IN with) (NP (JJ high) (NN probability)))) (, ,) (CC and) (VP (VBZ achieves) (NP (JJ optimal) (NN complexity))))))) (. .))

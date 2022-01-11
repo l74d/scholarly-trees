@@ -1,0 +1,4 @@
+(S (NP (DT A) (JJ non-iterative) (NML (NN auto) (HYPH -) (NN calibration)) (NN algorithm)) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (PRP It)) (VP (VBZ deals) (PP (IN with) (NP (NP (DT a) (JJ minimal) (NN set)) (PP (IN of) (NP (NP (CD six) (NN scene) (NNS points)) (PP (IN in) (NP (NP (CD three) (NNS views)) (VP (VBN taken) (PP (IN by) (NP (NP (DT a) (NN camera)) (PP (IN with) (NP (ADJP (VBN fixed) (CC but) (JJ unknown)) (JJ intrinsic) (NNS parameters))))))))))))) (. .))
+(S (NP (NN Calibration)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NN image) (NNS correspondences))) (ADVP (RB only)))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN implemented) (CC and) (VBN validated) (PP (IN on) (NP (JJ synthetic) (NN image) (NNS data))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (VBG Existing) (JJ neural) (NN generation)) (VP (VBZ approaches) (VP (VB create) (NP (NN multi-sentence) (NN text)) (PP (IN as) (NP (DT a) (JJ single) (NN sequence))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ structured) (JJ convolutional) (NN decoder)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN guided) (PP (IN by) (NP (NP (DT the) (NN content) (NN structure)) (PP (IN of) (NP (NN target) (NNS summaries))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (PRP$ our) (NN model)) (PP (IN with) (NP (NP (VBG existing) (JJ sequential) (NNS decoders)) (PP (IN on) (NP (NP (CD three) (NNS data) (NNS sets)) (VP (VBG representing) (NP (JJ different) (NNS domains)))))))) (. .))
+(S (NP (NP (NNP Automatic)) (CC and) (NP (JJ human) (NN evaluation))) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NNS summaries)) (VP (VBP have) (NP (JJR better) (NN content) (NN coverage)))))) (. .))

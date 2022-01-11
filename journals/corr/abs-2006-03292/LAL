@@ -1,0 +1,7 @@
+(S (NP (NNP Automatic) (JJ scientific) (NN keyphrase) (NN extraction)) (VP (VBZ is) (NP (NP (DT a) (VBG challenging) (NN problem)) (VP (VBG facilitating) (NP (NP (JJ several) (NNS downstream) (RB scholarly) (NNS tasks)) (PP (IN like) (NP (NN search) (, ,) (NN recommendation) (, ,) (CC and) (NN ranking))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NNP SEAL)) (, ,) (NP (NP (DT a) (JJ scholarly) (NN tool)) (PP (IN for) (NP (JJ automatic) (NN keyphrase) (NN extraction) (CC and) (NN classification)))))) (. .))
+(S (NP (DT The) (NN keyphrase) (NN extraction) (NN module)) (VP (VBZ comprises) (NP (NP (JJ two-stage) (JJ neural) (NN architecture)) (VP (VBN composed) (PP (IN of) (NP (NP (NNP Bidirectional) (NNP Long) (NNP Short-Term) (NNP Memory) (NNS cells)) (VP (VBD augmented) (PP (IN with) (NP (NNP Conditional) (NNP Random) (NNP Fields))))))))) (. .))
+(S (NP (DT The) (NN classification) (NN module)) (VP (NNS comprises) (PP (IN of) (NP (DT a) (NNP Random) (NNP Forest) (NN classifier)))) (. .))
+(S (NP (PRP We)) (VP (ADVP (RB extensively)) (VBD experiment) (S (VP (TO to) (VP (VB showcase) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (DT the) (NN system)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP evaluate) (NP (JJ multiple) (JJ state-of-the-art) (NNS baselines))) (CC and) (VP (VB show) (NP (DT a) (JJ significant) (NN improvement)))) (. .))
+(S (NP (DT The) (JJ current) (NN system)) (VP (VBZ is) (VP (VBN hosted) (PP (IN at) (NP (DT this) (NN http) (NNP URL))))))

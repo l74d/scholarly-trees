@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN approach)) (PP (TO to) (NP (NNP Machine) (NNP Translation))) (SBAR (WHNP (IN that)) (S (VP (VBZ combines) (NP (NP (DT the) (NNS ideas) (CC and) (NNS methodologies)) (PP (IN of) (NP (DT the) (ADJP (JJ Example-Based) (CC and) (NNP Lexicalist)) (JJ theoretical) (NNS frameworks))))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (PP (IN in) (NP (DT a) (JJ multilingual) (NNP Machine) (NNP Translation) (NN system)))))) (. .))

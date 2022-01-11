@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN presence)) (PP (IN of) (NP (NNS outliers)))) (VP (VP (VBZ is) (ADJP (JJ prevalent)) (PP (IN in) (NP (NN machine) (NN learning) (NNS applications)))) (CC and) (VP (MD may) (VP (VB produce) (NP (VBG misleading) (NNS results))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN for) (S (VP (VBG dealing) (PP (IN with) (NP (NP (NNS outliers)) (CC and) (NP (JJ anomal) (NNS samples)))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT the) (JJR outlier) (NN issue))))) (, ,) (NP (DT the) (VBN proposed) (NN method)) (VP (VBZ combines) (NP (NP (DT the) (JJ global) (CC and) (JJ local) (NNS views)) (PP (IN of) (NP (DT the) (NNS samples))))) (. .))
+(S (PP (IN By) (NP (NP (NN combination)) (PP (IN of) (NP (DT these) (NNS views))))) (, ,) (NP (PRP$ our) (NN algorithm)) (VP (NNS performs) (PP (IN in) (NP (DT a) (JJ robust) (NN manner)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NNS capabilities)) (PP (IN of) (NP (DT the) (VBN proposed) (NN method))))) (. .))

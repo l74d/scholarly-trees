@@ -1,0 +1,2 @@
+(S (NP (NNP Re-Pair)) (VP (VBZ is) (NP (NP (DT an) (JJ effective) (JJ grammar-based) (NN compression) (NN scheme)) (VP (VBG achieving) (NP (JJ strong) (NN compression) (NNS rates)) (PP (IN in) (NP (NN practice)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (CD two) (VBP algorithms)) (VP (VBG improving) (PP (IN on) (NP (NP (DT the) (NN space)) (PP (IN of) (NP (PRP$ their) (JJ original) (NN solution)))))))) (. .))

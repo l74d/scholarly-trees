@@ -1,0 +1,2 @@
+(S (NP (DT The) (NNP Leiden) (NNP Ranking) (CD 2011/2012)) (VP (VBZ provides) (NP (DT the) (NN Proportion)) (NP (NP (NML (NN top) (HYPH -) (CD 10) (NN %)) (NNS publications) (PRN (-LRB- -LRB-) (NP (NN PP) (NN top) (NML (CD 10) (NN %))) (-RRB- -RRB-))) (PP (IN as) (NP (DT a) (JJ new) (NN indicator))))) (. .))
+(S (NP (DT This) (NN indicator)) (VP (VBZ allows) (PP (IN for) (S (VP (VBG testing) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (CD two) (NNS ranks)) (PP (IN for) (NP (JJ statistical) (NN significance)))))))))) (. .))

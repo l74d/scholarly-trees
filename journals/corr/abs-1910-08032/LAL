@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ new) (JJ local) (NN class-purity) (NN theorem)) (PP (IN for) (NP (NNP Lipschitz) (JJ continuous) (NNP DNN) (NNS classifiers))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB achieve) (NP (NN classification) (NN margin)) (PP (IN for) (NP (NN training) (NNS samples)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP describe) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB compute) (NP (NN margin) (NNS p-values)) (PP (IN for) (NP (NN test) (NNS samples)))))))) (. .))

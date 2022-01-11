@@ -1,0 +1,3 @@
+(S (NP (DT This) (JJ technical) (NN note)) (VP (VBZ describes) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN baseline) (NNS tools)) (PP (IN for) (NP (NP (JJ automatic) (NN processing)) (PP (IN of) (NP (NNP Danish) (NN text))))))))) (. .))
+(S (NP (DT The) (NNS tools)) (VP (VBP are) (ADJP (JJ machine-learning) (VBN based)) (, ,) (S (VP (VBG using) (NP (NP (JJ natural) (NN language) (NN processing) (NNS models)) (VP (VBN trained) (PP (IN over) (NP (ADJP (RB previously) (VBN annotated)) (NNS documents)))))))) (. .))
+(S (NP (PRP They)) (VP (VP (VBP are) (VP (VBN maintained) (PP (IN at) (NP (NNP ITU) (NNP Copenhagen))))) (CC and) (VP (MD will) (ADVP (RB always)) (VP (VB be) (ADJP (RB freely) (JJ available))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (NN construction)) (PP (IN of) (NP (NP (NNS supermartingales)) (VP (VBN realized) (PP (IN as) (NP (JJ automatic) (NNS functions)))))))) (. .))
+(S (NP (NP (DT A) (NN capital)) (PP (IN of) (NP (NN supermartingales)))) (VP (VBZ is) (VP (VBN represented) (S (VP (VBG using) (NP (JJ automatic) (NML (NML (NN capital) (NNS groups)) (SYM ~) (NML (-LRB- -LRB-) (NN ACG) (-RRB- -RRB-)))))))) (. .))
+(S (NP (NP (NNP Properties)) (PP (IN of) (NP (DT these) (JJ automatic) (NNS supermartingales)))) (VP (VBP are) (ADVP (RB then)) (VP (VBN studied))) (. .))
+(S (NP (JJ Automatic) (NNS supermartingales)) (VP (VB induce) (NP (NP (DT a) (NN notion)) (PP (IN of) (NP (JJ random) (JJ infinite) (JJ binary) (NN sequence))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN class)) (PP (IN of) (NP (JJ random) (NNS sequences)))) (VP (VBP coincide) (PP (IN with) (NP (NP (DT that)) (PP (IN of) (NP (JJ disjunctive) (NNS sequences))))))))) (. .))

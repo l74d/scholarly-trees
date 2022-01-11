@@ -1,0 +1,7 @@
+(S (NP (NNP Data) (NN clustering)) (VP (VBZ is) (NP (NP (DT a) (NN process)) (PP (IN of) (S (VP (VBG arranging) (NP (JJ similar) (NNS data)) (PP (IN into) (NP (NNS groups)))))))) (. .))
+(S (NP (DT A) (NN clustering) (NN algorithm)) (VP (NNS partitions) (NP (DT a) (NN data) (VBN set)) (PP (IN into) (NP (JJ several) (NNS groups))) (SBAR (JJ such) (IN that) (S (NP (NP (DT the) (NN similarity)) (PP (IN within) (NP (DT a) (NN group)))) (VP (VBZ is) (ADJP (ADJP (JJR better)) (PP (IN than) (PP (IN among) (NP (NNS groups))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ hybrid) (VBG clustering) (NN algorithm)) (VP (VBN based) (PP (IN on) (NP (NP (NNP K-mean)) (CC and) (NP (NP (NNP K-harmonic) (NN mean)) (PRN (-LRB- -LRB-) (NP (NNP KHM)) (-RRB- -RRB-))))))) (VP (VBZ is) (VP (VBN described))) (. .))
+(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (CD five) (JJ different) (NNS datasets))))) (. .))
+(S (NP (DT The) (NN research)) (VP (VBZ is) (VP (VBN focused) (PP (IN on) (NP (ADJP (NN fast) (CC and) (NN accurate)) (NN clustering))))) (. .))
+(S (NP (PRP$ Its) (NN performance)) (VP (VBZ is) (VP (VBN compared) (PP (IN with) (NP (DT the) (JJ traditional) (NNP K-means) (CC &) (NNP KHM) (NN algorithm))))) (. .))
+(S (NP (NP (DT The) (NN result)) (VP (VBN obtained) (PP (IN from) (NP (VBN proposed) (JJ hybrid) (NN algorithm))))) (VP (VBZ is) (ADJP (ADJP (RB much) (JJR better)) (PP (IN than) (NP (DT the) (JJ traditional) (NNP K-mean) (CC &) (NNP KHM) (NN algorithm))))) (. .))

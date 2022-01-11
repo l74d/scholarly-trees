@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP study) (NP (JJ quadratic) (NNS forms)) (PP (IN in) (NP (JJ n) (JJ independent) (NN standard) (JJ normal) (JJ random) (NNS variables)))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN among) (NP (JJ nonnegative) (JJ quadratic) (NNS forms))) (, ,) (NP (NP (DT a) (JJ diagonal) (NN form)) (PP (IN with) (NP (JJ equal) (NNS coefficients)))) (VP (VBZ maximizes) (NP (JJ differential) (NN entropy)) (SBAR (WHADVP (WRB when)) (S (NP (NN variance)) (VP (VBZ is) (VP (VBN fixed))))))))) (. .))

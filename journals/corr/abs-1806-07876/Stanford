@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (VBN improved) (NN form)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (PP (IN for) (NP (VBG constructing) (NNP Jacobi) (NNS rotations))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (ADVP (RB simultaneously)) (NP (NP (DT a) (ADJP (RBR more) (JJ accurate)) (NN code)) (PP (IN for) (S (VP (VBG finding) (NP (NP (DT the) (NNS eigenvalues) (CC and) (NNS eigenvectors)) (PP (IN of) (NP (DT a) (JJ real) (JJ symmetric) (NN 2x2) (NN matrix))))))))) (. .))

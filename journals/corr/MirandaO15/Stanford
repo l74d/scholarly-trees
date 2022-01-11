@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (JJ new) (NN approach)) (PP (IN to) (NP (NP (JJ multiple) (NN access)) (PP (VBN based) (PP (IN on) (NP (JJ finite) (NN field))))))) (VP (VBZ transforms) (SBAR (S (VP (VBZ is) (VP (VBN investigated)))))) (. .))
+(FRAG (NP (NP (DT These) (NNS schemes)) (, ,) (VP (VBN termed) (NP (NML (NNP Galois) (HYPH -) (NNP Division)) (JJ Multiple) (NML (NNP Access) (-LRB- -LRB-) (NNP GDMA) (-RRB- -RRB-))))) (, ,) (NP (NP (NN offer)) (NP (JJ compact) (NN bandwidth) (NNS requirements))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (NN GDMA)) (PP (IN in) (NP (NN conjunction)))))) (PP (IN with) (NP (JJ available) (JJ digital) (NNS systems)))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (NN GDMA)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN evaluated))) (. .))

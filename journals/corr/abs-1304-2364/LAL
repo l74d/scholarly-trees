@@ -1,0 +1,2 @@
+(S (NP (NN Uncertainty)) (VP (NNS enters) (PP (IN into) (NP (JJ human) (NN reasoning) (CC and) (NN inference))) (PP (IN in) (NP (QP (IN at) (JJS least) (CD two)) (NNS ways)))) (. .))
+(S (NP (NP (PRP It))) (VP (VBZ is) (ADJP (JJ reasonable)) (S (VP (TO to) (VP (VB suppose) (SBAR (IN that) (S (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (NNS roles)) (PP (IN for) (NP (NP (DT these) (JJ distinct) (NNS uses)) (PP (IN of) (NP (NN uncertainty)))))) (PP (ADVP (RB also)) (IN in) (NP (JJ automated) (NN reasoning))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (JJ Linear) (NNP NDCG)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG measuring) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (DT the) (NNP Web) (NN content) (NN quality) (NN assessment)) (PP (IN in) (NP (NNP ECML/PKDD) (NNP Discovery) (NNP Challenge) (CD 2010))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB prove) (SBAR (IN that) (S (NP (DT the) (NNP DCG) (NN error)) (VP (VBZ equals) (NP (DT a) (JJ new) (JJ pair-wise) (NN loss))))))) (. .))

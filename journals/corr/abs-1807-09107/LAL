@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN equivalence)) (PP (IN of) (NP (JJ quantum) (NN stabilizer) (NNS codes)))) (PP (IN via) (NP (NP (JJ symplectic) (NNS isometries)) (PP (IN of) (NP (NN stabilizer) (NNS codes)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP define) (NP (ADJP (ADVP (RB monomially) (CC and) (RB symplectically)) (JJ equivalent)) (NN stabilizer) (NNS codes))) (CC and) (VP (VB determine) (SBAR (WHADJP (WRB how) (JJ different)) (S (NP (DT the) (CD two) (NNS notions)) (VP (MD can) (VP (VB be))))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (SINV (PP (TO to) (NP (VB monomial) (NNS maps))) (VP (VB correspond)) (NP (JJ local) (NNP Clifford) (NNS operators))))) (. .))
+(S (NP (PRP We)) (VP (VBP relate) (NP (DT the) (NN latter)) (PP (IN with) (NP (DT the) (JJ LU-LC) (NN Conjecture)))) (. .))

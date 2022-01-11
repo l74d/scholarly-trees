@@ -1,0 +1,6 @@
+(S (NP (NN Vagueness)) (VP (VBZ is) (NP (NP (NN something) (NN everyone)) (SBAR (S (VP (VBZ is) (ADJP (JJ familiar) (PP (IN with)))))))) (. .))
+(S (PP (IN In) (NP (NN fact))) (, ,) (NP (JJS most) (NNS people)) (VP (VBP think) (SBAR (IN that) (S (NP (NN vagueness)) (VP (VP (VBZ is) (ADVP (RB closely)) (VP (VBN related) (PP (IN to) (NP (NN language))))) (CC and) (VP (VBZ exists) (ADVP (RB only)) (ADVP (RB there))))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NN vagueness)) (VP (VBZ is) (NP (NP (DT a) (NN property)) (PP (IN of) (NP (DT the) (JJ physical) (NN world))))) (. .))
+(NP (NP (NNP Quantum) (NNS computers)) (PP (NN harness) (NP (NN superposition) (CC and) (NN entanglement))) (S (VP (TO to) (VP (VB perform) (NP (PRP$ their) (JJ computational) (NNS tasks))))) (. .))
+(S (NP (DT Both) (NN superposition) (CC and) (NN entanglement)) (VP (VBP are) (NP (JJ vague) (NNS processes))) (. .))
+(S (ADVP (RB Thus)) (NP (NP (JJ quantum) (NNS computers)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (NP (NN process) (JJ exact) (NNS data)) (IN without)) (VP (`` ") (VBG exploiting) ('' ") (NP (NN vagueness))))) (, ,)) (VP (VBP are) (ADVP (RB actually)) (NP (JJ vague) (NNS computers))) (. .))

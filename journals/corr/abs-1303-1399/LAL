@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN novel) (NN technique)) (PP (IN for) (S (VP (VBG checking) (NP (NN reachability)) (PP (IN in) (NP (NNP Petri) (NNS nets)))))) (SBAR (WHNP (WDT that)) (S (VP (VBZ relies) (PP (IN on) (NP (NP (DT a) (ADJP (RB recently) (VBN introduced)) (JJ compositional) (NN algebra)) (PP (IN of) (NP (NNS nets)))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN technique)) (VP (VBZ is) (ADJP (JJ correct)))))) (, ,) (CC and) (VP (VB discuss) (NP (PRP$ our) (NN implementation)))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (NP (NP (VBG promising) (JJ experimental) (NNS results)) (PP (IN on) (NP (DT some) (JJ well-known) (NNS examples))))) (. .))

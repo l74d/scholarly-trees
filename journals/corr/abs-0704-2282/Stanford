@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN switching) (NN behaviour)) (VP (VBZ is) (VP (VBN proposed) (PP (IN as) (NP (NP (DT a) (NN basis)) (PP (IN for) (NP (JJ molecular) (NN computation))))))) (. .))
+(S (NP (DT The) (NN proposal)) (VP (VP (VBZ is) (ADJP (RB highly) (JJ speculative))) (CC but) (VP (MD may) (VP (VB have) (NP (JJ tremendous) (NN impact))))) (. .))
+(S (NP (VBN Omniconjugated) (NNS graphs)) (VP (MD may) (VP (VB be) (ADJP (JJ useful) (PP (IN as) (NP (NP (NNS connectors)) (PP (IN between) (NP (JJ computational) (NNS elements)))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB finally)) (VP (VB investigate) (NP (DT some) (NNS examples)) (PP (IN with) (NP (ADJP (RB potentially) (JJ useful)) (NN switching) (NN behaviour)))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN note)) (VP (VBZ describes) (NP (NP (DT some) (JJ cryptographic) (NNS issues)) (VP (VBN related) (PP (TO to) (NP (JJ multi-located) (NNS parties)))))) (. .))
+(S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (JJ multi-located) (NNS parties)) (VP (VBP make) (S (NP (NP (PRP it))) (ADJP (JJ difficult)) (SBAR (IN for) (S (NP (DT the) (NN eavesdropper)) (VP (TO to) (VP (VB mount) (NP (DT the) (JJ man-in-the-middle) (NN attack)))))))) (. .))
+(S (ADVP (RB Conversely)) (, ,) (NP (PRP they)) (VP (VBP make) (S (NP (NP (PRP it))) (ADJP (JJR easier)) (S (VP (TO to) (VP (VB address) (NP (NP (NNS problems)) (PP (JJ such) (IN as) (NP (NP (JJ joint) (NN encryption)) (CC and) (NP (NN error) (NN correction) (NN coding)))))))))) (. .))
+(S (NP (NP (PRP It))) (VP (VBZ is) (ADJP (JJR easier)) (S (VP (TO to) (VP (VB implement) (NP (DT the) (NN three-stage) (NN quantum) (NN cryptography) (NN protocol)))))) (. .))

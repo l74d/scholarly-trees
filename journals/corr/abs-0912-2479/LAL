@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN submission)) (VP (VBZ has) (VP (VBN been) (VP (VBN withdrawn) (PP (IN by) (NP (JJ arXiv) (NN admin)))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (JJ verbatim) (NN copy)) (PP (IN of) (NP (NN arXiv:0912.1810)))) (SBAR (IN with) (S (NP (RB only) (DT the) (NN author) (NN name) (CC and) (NN title)) (VP (VBD changed))))) (. .))

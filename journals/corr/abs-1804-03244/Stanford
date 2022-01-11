@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (DT a) (JJ prompt) (JJ online) (NN mechanism)) (PP (IN for) (S (VP (VBG minimizing) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (-LRB- [) (JJ weighted) (-RRB- ]) (NN completion) (NNS times)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ prompt) (JJ online) (NN algorithm)) (PP (IN for) (NP (DT the) (NN problem))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (NP (JJ such) (NNS jobs)) (VP (VBP are) (NP (JJ strategic) (NNS agents))))) (, ,) (S (VP (VBG delaying) (NP (NN scheduling) (NNS decisions)))) (VP (VBZ makes) (NP (JJ little) (NN sense))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN mechanism)) (VP (VBZ has) (NP (NP (DT a) (ADJP (RB particularly) (JJ simple)) (NN form)) (PP (IN of) (NP (NP (DT an) (JJ anonymous) (NN menu)) (PP (IN of) (NP (NNS options))))))) (. .))

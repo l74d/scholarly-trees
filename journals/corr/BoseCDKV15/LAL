@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (`` ``) (NN shadow) ('' '')) (PP (IN of) (NP (NP (DT a) (JJ subset) (QP ($ $) (NNP S) ($ $))) (PP (IN of) (NP (NNP Euclidean) (NN space)))))) (VP (VBZ is) (NP (NP (DT an) (JJ orthogonal) (NN projection)) (PP (IN of) (NP ($ $) (NNP S) ($ $))) (PP (IN into) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NN coordinate) (NNS hyperplanes))))))) (. .))

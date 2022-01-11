@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (CD four) (NN optimization) (NNS algorithms)) (PP (VBN based) (PP (IN on) (NP (JJ such) (NNS properties))))) (. .))
+(S (S (NP (PRP We)) (VP (VBP compare) (NP (JJ new) (NNS algorithms)) (PP (IN with) (NP (NP (DT the) (ADJP (NN well) (HYPH -) (VBN known)) (JJ Simulated) (NN Annealing)) (PP (IN on) (NP (JJ hard) (NN test) (NNS functions))))))) (CC and) (S (NP (DT the) (NNS results)) (VP (VBP are) (ADJP (RB very) (JJ promising)))) (. .))

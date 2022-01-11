@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Upper) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (JJ maximum) (NN number)) (PP (IN of) (NP (NP (NNS codewords)) (PP (IN in) (NP (NP (DT a) (JJ binary) (NN code)) (PP (IN of) (NP (NP (DT a) (VBN given) (NN length)) (CC and) (NP (NN minimum) (VBG Hamming) (NN distance))))))))))) (VP (VBP are) (VP (VBN considered))) (. .))
+(S (NP (JJ New) (NNS bounds)) (VP (VBP are) (VP (VBN derived) (PP (IN by) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (JJ linear) (NN programming)) (CC and) (NP (VBG counting) (NNS arguments)))))))) (. .))
+(S (NP (NP (DT Some)) (PP (IN of) (NP (DT these) (NNS bounds)))) (VP (VBP improve) (PP (IN on) (NP (DT the) (ADJP (RBS best) (VBN known)) (JJ analytic) (NNS bounds)))) (. .))
+(S (NP (JJ Several) (JJ new) (NN record) (NNS bounds)) (VP (VBP are) (VP (VBN obtained) (PP (IN for) (NP (NP (NNS codes)) (PP (IN with) (NP (JJ small) (NNS lengths))))))) (. .))

@@ -1,0 +1,1 @@
+(SINV (SBAR (IN Since) (S (NP (NP (VBN ordered) (NNS trees)) (CC and) (NP (NNP Dyck) (NNS paths))) (VP (VBP are) (ADJP (JJ equinumerous))))) (, ,) (ADVP (RB so)) (VP (VBP are)) (NP (NP (JJ ordered) (NNS forests)) (CC and) (NP (NP (JJ grand-Dyck) (NNS paths)) (SBAR (WHNP (IN that)) (S (VP (NN start) (PP (IN with) (NP (DT an) (JJ upwards) (NN step)))))))) (. .))

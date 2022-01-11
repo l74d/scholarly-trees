@@ -1,0 +1,1 @@
+(S (NP (JJ Orthogonal) (NN matching) (NN pursuit) (PRN (-LRB- -LRB-) (NP (NN OMP)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB widely) (VBN used)) (NN algorithm)) (PP (IN for) (S (VP (VBG recovering) (NP (JJ sparse) (ADJP (JJ high) (JJ dimensional)) (NNS vectors)) (PP (IN in) (NP (NML (JJ linear) (NN regression)) (NNS models)))))))) (. .))

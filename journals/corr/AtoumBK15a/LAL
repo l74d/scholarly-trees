@@ -1,0 +1,7 @@
+(S (NP (ADJP (NNP Prepared) (NN domain) (JJ specific)) (NNS datasets)) (VP (VBZ plays) (NP (NP (DT an) (JJ important) (NN role)) (PP (TO to) (NP (VBN supervised) (NN learning) (NNS approaches))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (NP (DT a) (JJ new) (NN sentence) (NN dataset)) (PP (IN for) (NP (NN software) (NN quality-in-use)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (CD Three) (NNS experts)) (VP (VBD were) (VP (VBN chosen) (S (VP (TO to) (VP (VB annotate) (NP (DT the) (NNS data)) (S (VP (VBG using) (NP (DT a) (VBN proposed) (NN annotation) (NN scheme))))))))) (. .))
+(S (ADVP (RB Then)) (NP (DT the) (NNS data)) (VP (VBD were) (VP (VBN reconciled) (PP (IN in) (NP (DT a) (PRN (-LRB- -LRB-) (DT no) (NN match) (NN eliminate) (-RRB- -RRB-)) (NN process))) (S (VP (TO to) (VP (VB reduce) (NP (NN bias))))))) (. .))
+(S (NP (DT The) (NNP Kappa) (, ,) (NN k) (NNS statistics)) (VP (VBD revealed) (NP (NP (NP (DT an) (JJ acceptable) (NN level)) (PP (IN of) (NP (NN agreement)))) (: ;) (NP (NP (ADJP (VB moderate) (TO to) (JJ substantial)) (NN agreement)) (PP (IN between) (NP (DT the) (NNS experts)))))) (. .))
+(S (NP (DT The) (VBN built) (NNS data)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB evaluate) (NP (NN software) (JJ quality-in-use) (NNS models)) (PP (IN in) (NP (NN sentiment) (NN analysis) (NNS models))))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN annotation) (NN scheme)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB extend) (NP (DT the) (JJ current) (NN dataset)))))))) (. .))

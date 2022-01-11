@@ -1,0 +1,3 @@
+(VP (VBN Withdrawn) (PP (IN by) (NP (DT the) (NNS authors))) (PP (IN due) (PP (IN to) (NP (NP (DT an) (NN error)) (PP (IN in) (NP (NP (DT the) (NN proof)) (PP (IN of) (NP (NP (DT the) (JJ finite) (NN field) (NN result)) (-LRB- -LRB-) (NP (NN Thm))))))))) (. .))
+(S (S (NP (NML (NML (NML (CD 1.5)) (-RRB- -RRB-)) (: :) (NML (DT The) (JJ random))) (NNS primes)) (VP (VBN used) (PP (IN in) (NP (DT the) (ADJP (JJ proof)) (NN need))))) (SQ (RB NOT) (VP (VB avoid) (NP (DT the) (JJ exceptional) (NNS primes)) (PP (IN from) (NP (NNP Lemma) (CD 2.7))) (, ,) (S (ADVP (RB thus)) (VP (VBG leaving) (NP (NNP Thm)))))) (. .))
+(FRAG (NP (CD 1.5)) (ADJP (JJ unproved)) (. .))

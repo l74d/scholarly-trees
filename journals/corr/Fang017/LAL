@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN study)) (VP (VBZ proposes) (NP (NP (DT a) (JJ new) (JJ linear) (NN programming) (NN approach)) (SBAR (S (VP (TO to) (VP (VB address) (NP (DT this) (NN issue)) (ADVP (RB efficiently)))))))) (. .))
+(S (NP (PRP$ Our) (NNS experiments)) (VP (VBD showed) (SBAR (IN that) (S (NP (DT the) (JJ new) (NN method)) (VP (NNS works) (PP (IN for) (NP (JJ many) (JJ unsatisfiable) (NNS instances))))))) (. .))
+(S (S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (MD must) (VP (VB concede) (SBAR (IN that) (S (NP (DT this) (NN method)) (VP (MD should) (VP (VB be) (ADJP (JJ incomplete))))))))) (: ;) (S (ADVP (RB otherwise)) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB imply) (NP (NNP P=co-NP))))) (. .))

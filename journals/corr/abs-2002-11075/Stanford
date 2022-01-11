@@ -1,0 +1,1 @@
+(S (NP (NN Hybrid) (NNS codes)) (ADVP (RB simultaneously)) (VP (VBP encode) (NP (NP (DT both) (NN quantum)) (CC and) (NP (JJ classical) (NN information))) (, ,) (S (VP (VBG allowing) (PP (IN for) (NP (NP (DT the) (NN transmission)) (PP (IN of) (NP (CC both))))) (PP (IN across) (NP (DT a) (NN quantum) (NN channel)))))) (. .))

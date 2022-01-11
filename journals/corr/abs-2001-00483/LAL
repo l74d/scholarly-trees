@@ -1,0 +1,2 @@
+(S (NP (JJ Generative) (NNS classifiers)) (VP (VBP have) (VP (VBN been) (VP (VBN shown) (S (VP (VBG promising) (S (VP (TO to) (VP (VB detect) (NP (NP (JJ illegal) (NNS inputs)) (PP (VBG including) (NP (NP (JJ adversarial) (NNS examples)) (CC and) (NP (NN out-of-distribution) (NNS samples))))))))))))) (. .))
+(S (JJ Supervised) (NNP Deep) (NNP Infomax~) (PRN (-LRB- -LRB-) (NP (NNP SDIM)) (-RRB- -RRB-)) (VP (VBZ is) (NP (NP (DT a) (JJ scalable) (JJ end-to-end) (NN framework)) (SBAR (S (VP (TO to) (VP (VB learn) (NP (JJ generative) (NNS classifiers)))))))) (. .))

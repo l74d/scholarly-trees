@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (CD two) (JJ optimal) (NNS representations)) (PP (IN for) (NP (NP (DT the) (NNS elements)) (PP (IN of) (NP (NN trace)))))) (NP-TMP (NP (CD zero) (NNS subgroups)) (PP (IN of) (NP (JJ twisted) (NNP Edwards) (NNS curves))))) (. .))
+(S (PP (IN For) (NP (DT both) (NNS representations))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (JJ efficient) (NML (NN compression) (CC and) (NN decompression)) (NNS algorithms))) (. .))
+(S (NP (NP (DT The) (NN efficiency)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (PP (VBN compared) (PP (IN with) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (NP (JJ similar) (NNS algorithms)) (PP (IN on) (NP (NP (JJ elliptic) (NNS curves)) (PP (IN in) (NP (NNP Weierstrass) (NN form))))))))))) (. .))

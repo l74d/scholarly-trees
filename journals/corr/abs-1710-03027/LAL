@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD present) (NP (NP (DT a) (ADJP (NN bottom) (RP up)) (NN procedure)) (PP (IN for) (NP (NP (NN segmentation)) (PP (IN of) (NP (NP (JJ text) (NNS lines)) (VP (VBN written) (CC or) (VBN printed) (PP (IN in) (NP (DT the) (NNP Latin) (NN script)))))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN method)) (VP (VBZ uses) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (NN image) (NN morphology)) (, ,) (NP (NN feature) (NN extraction)) (CC and) (NP (JJ Gaussian) (NN mixture) (NN model))))) (S (VP (TO to) (VP (VB perform) (NP (DT this) (NN task)))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (NP (NP (DT the) (NN validity)) (PP (IN of) (NP (DT the) (NN procedure))))) (. .))

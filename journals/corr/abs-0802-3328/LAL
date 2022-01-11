@@ -1,0 +1,7 @@
+(S (NP (NP (JJ Several)) (PP (IN of) (NP (DT the) (JJ basic) (JJ cryptographic) (NNS constructs)))) (VP (VBP have) (VP (VBN associated) (NP (JJ algebraic) (NNS structures)))) (. .))
+(S (NP (NP (JJ Formal) (NNS models)) (VP (VBN proposed) (PP (IN by) (NP (NNP Dolev) (CC and) (NNP Yao))) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (PRN (-LRB- -LRB-) (JJ unconditional) (-RRB- -RRB-)) (NN security)) (PP (IN of) (NP (JJ public) (NN key) (NNS protocols))))))))) (VP (VBP form) (NP (DT a) (NN group))) (. .))
+(S (NP (NP (DT The) (NN security)) (PP (IN of) (NP (NP (DT some) (NNS types)) (PP (IN of) (NP (NNS protocols)))))) (VP (MD can) (VP (VB be) (VP (ADVP (RB neatly)) (VBN formulated) (PP (IN in) (NP (DT this) (JJ algebraic) (NN setting)))))) (. .))
+(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (NNS classes)) (PP (IN of) (NP (JJ two-party) (NNS protocols))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB consider) (NP (NP (NN extension)) (PP (IN of) (NP (DT the) (JJ formal) (NN algebraic) (NN framework))) (PP (TO to) (NP (JJ private-key) (NNS protocols))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (JJ concrete) (NN realization)) (PP (IN of) (NP (DT the) (JJ formal) (NNS models))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN case))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN definition)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ pseudo-free) (NNS groups))))))) (. .))

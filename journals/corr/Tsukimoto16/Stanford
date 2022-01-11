@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NML (CD 3) (HYPH -) (NN SAT)) (NNS problems))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (JJ logical) (NNS formulas)) (VP (VBP are) (VP (VBN transformed) (PP (IN into) (NP (JJ elementary) (JJ algebraic) (NNS formulas))))) (. .))
+(S (ADVP (RB Second)) (, ,) (S (NP (JJ complex) (JJ trigonometric) (NNS functions)) (VP (VBP are) (VP (VBN assigned) (PP (IN to) (NP (NP (DT the) (NNS variables)) (PP (IN in) (NP (DT the) (JJ elementary) (JJ algebraic) (NNS formulas)))))))) (, ,) (CC and) (S (NP (NP (DT the) (NNS sums)) (PP (IN of) (NP (DT the) (NNS formulas)))) (VP (VBP are) (VP (VBN calculated)))) (. .))
+(FRAG (NP (DT The) (NN algorithm) (NNS outputs)) (NP (NP (DT the) (NN number)) (PP (IN of) (S (VP (VBG satisfying) (NP (NNS assignments)))))) (. .))
+(S (NP (NP (DT The) (JJ computational) (NN complexity)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (ADVP (RB probably)) (ADJP (JJ polynomial))) (. .))

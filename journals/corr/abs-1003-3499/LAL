@@ -1,0 +1,4 @@
+(S (S (VP (VBG Creating) (NP (NP (JJ virtual) (NNS models)) (PP (IN of) (NP (JJ real) (NNS spaces) (CC and) (NNS objects)))))) (VP (VBZ is) (ADJP (ADJP (JJ cumbersome)) (CC and) (ADJP (NN time) (NN consuming)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ geometric) (NN reconstruction)) (PP (IN from) (NP (NP (JJR sparse) (NNS data)) (VP (VBN obtained) (PP (IN from) (NP (JJ certain) (JJ image-based) (NN modeling) (NNS approaches))))))))))) (. .))
+(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (ADJP (JJ elegant) (CC and) (JJ simple-to-state)) (NNS problems)))) (VP (VBP arise) (S (VP (VBG concerning) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN geometry)) (VP (MD can) (VP (VB be) (VP (VBN reconstructed))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NNS results) (CC and) (NNS counterexamples))) (, ,) (CC and) (VP (NN list) (NP (JJ open) (NNS problems)))) (. .))

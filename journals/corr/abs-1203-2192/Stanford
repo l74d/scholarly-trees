@@ -1,0 +1,2 @@
+(S (NP (NNP Jorgensen)) (VP (VBD conjectured) (SBAR (IN that) (S (NP (NP (DT every) (ADJP (NP (CD 6)) (HYPH -) (JJ connected)) (NN graph)) (PP (IN with) (NP (DT no) (NN K_6) (NN minor)))) (VP (VBZ has) (NP (NP (DT a) (NN vertex)) (SBAR (WHNP (WP$ whose) (NML (NN deletion))) (S (VP (VBZ makes) (NP (DT the) (NN graph) (NN planar)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN conjecture)) (PP (IN for) (NP (DT all) (ADJP (RB sufficiently) (JJ large)) (NNS graphs))))) (. .))

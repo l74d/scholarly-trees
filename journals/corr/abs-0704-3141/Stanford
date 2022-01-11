@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NP (NN evaluation)) (PP (IN of) (NP (NP (DT the) (NN interval) (NN extension)) (PP (IN of) (NP (NP (DT the) (NN power) (NN function)) (PP (IN of) (NP (NP (NNS variables) (NN x)) (CC and) (NP (NN y))))))))))) (PP (VBN given) (PP (IN by) (NP (DT the) (NN expression) (NN x) (SYM ^) (NN y))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ reduces) (NP (DT the) (JJ general) (NN case)) (PP (IN to) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ non-negative) (NNS bases)))))) (. .))

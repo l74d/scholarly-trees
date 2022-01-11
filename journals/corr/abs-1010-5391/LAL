@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NNS subsets)) (PP (IN of) (NP (NNP N^d))) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ S-recognizable)) (PP (IN for) (NP (DT all) (JJ abstract) (NN numeration) (NNS systems) (NNP S))))))) (VP (VBP are) (ADVP (RB exactly)) (NP (DT the) (JJ 1-recognizable) (NNS sets)))))) (. .))
+(S (NP (DT This)) (VP (VBZ generalizes) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (NNP Lecomte) (CC and) (NNP Rigo)) (PP (IN in) (NP (DT the) (JJ one-dimensional) (NN setting))))))) (. .))

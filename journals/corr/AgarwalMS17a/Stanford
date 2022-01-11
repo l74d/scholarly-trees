@@ -1,0 +1,2 @@
+(S (NP (NP (NP (NN Application)) (PP (IN to) (NP (NNP Markoff) (NNS chains)))) (CC and) (NP (NML (NN order) (NN m)) (NNP Markoff) (NNS chains))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT The) (JJ main) (NN result)) (VP (VBZ is) (NP (NP (DT the) (NN generalization)) (PP (IN of) (NP (NP (NN Theorem) (CD 1)) (PP (IN in) (NP (NN Part) (CD 1))))))) (. .))

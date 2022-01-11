@@ -1,0 +1,1 @@
+(S (NP (CD One)) (VP (VBZ designs) (NP (NP (DT an) (JJ internal) (NN Stratonovich) (NN noise) (NN feedback) (NN controller)) (SBAR (WHNP (WDT which)) (S (ADVP (RB exponentially)) (VP (VBZ stabilizes) (NP (DT the) (JJ staedy) (NN state) (NNS solutions)) (PP (IN to) (NP (NML (NNP Oseen) (HYPH -) (NNP Stokes)) (NNS equations)))))))) (. .))

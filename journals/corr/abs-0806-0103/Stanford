@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (DT a) (JJ simple) (NN proof)) (SBAR (IN that) (S (NP (NP (DT the) (JJ straightforward) (NN generalisation)) (PP (IN of) (NP (NP (NN clique) (HYPH -) (NN width)) (PP (IN to) (NP (JJ arbitrary) (NNS structures)))))) (VP (MD can) (VP (VB be) (ADJP (JJ unbounded) (PP (IN on) (NP (NP (NNS structures)) (PP (IN of) (NP (VBN bounded) (NN tree) (HYPH -) (NN width))))))))))) (. .))
+(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN corrected) (PP (IN by) (S (VP (VBG allowing) (NP (NP (NN fusion)) (PP (IN of) (NP (NNS elements)))))))))) (. .))

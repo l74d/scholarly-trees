@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP initiate) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (NP (NN communication) (NN complexity)) (PP (IN of) (NP (NP (JJ individual) (NNS inputs)) (VP (VBN held) (PP (IN by) (NP (DT the) (NNS agents)))))) (, ,) (PP (RB rather) (IN than) (ADJP (JJ worst-case) (CC or) (NN average-case))))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (ADJP (NP (ADJP (NP (S (VP (JJ total) (, ,) (JJ partial) (, ,) (CC and)))) (RB partially) (JJ correct)) (NNS protocols)) (, ,) (ADJP (ADJP (JJ one-way)) (NN versus) (NN two-way))) (, ,) (PP (IN with) (CC and) (IN without) (NP (NN help) (NNS bits))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN expressed) (PP (IN in) (NP (NP (NNS trems)) (PP (IN of) (NP (NNP Kolmogorov) (NN complexity))))))) (. .))

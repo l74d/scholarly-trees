@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (NML (CD 2) (HYPH -) (NN player)) (ADJP (NP (NN turn)) (HYPH -) (VBN based)) (NML (ADJP (JJ perfect)) (HYPH -) (NN information)) (JJ stochastic) (NNS games)) (PP (IN with) (NP (ADJP (RB countably) (JJ infinite)) (NN state) (NN space))))) (. .))
+(S (S (NP (DT These) (NNS games)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADVP (RB weakly)) (VP (VBN determined)))))))) (, ,) (S (ADVP (FW i.e.)) (, ,) (NP (PRP they)) (VP (VBP have) (NP (NN value)))) (. .))
+(NP (NP ($ $)) (NP (NML (NML (PP (SYM <) (NP (NN c)))) (NML (NML ($ $)) (-RRB- -RRB-)))) (. ?))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (ADJP (RB almost) (HYPH -) (JJ sure)) (NNS objectives) (PRN (-LRB- -LRB-) (S (NP (NML (SBAR (WHADVP (WRB where)) (FRAG (NP ($ $))))) (NN c)) (VP (SYM =) (NP (NP (CD 1)) (NP ($ $))))) (-RRB- -RRB-))) (VP (VBP are) (ADJP (RB strongly) (JJ determined)))))) (. .))
+(S (NP (DT This)) (ADVP (RB vastly)) (VP (VBZ generalizes) (NP (NP (DT a) (JJ previous) (NN result)) (PP (IN on) (NP (JJ finite) (NNS games)))) (PP (IN with) (NP (ADJP (RB almost) (HYPH -) (JJ sure)) (NN tail) (NNS objectives)))) (. .))

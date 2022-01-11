@@ -1,0 +1,5 @@
+(S (NP (NP (JJ Non-negative) (NN matrix) (NN factorization)) (PRN (-LRB- -LRB-) (NP (NNP NMF)) (-RRB- -RRB-))) (VP (VBZ has) (ADVP (RB previously)) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ useful) (NN decomposition)) (PP (IN for) (NP (NN multivariate) (NNS data)))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP interpret) (NP (DT the) (NN factorization)) (PP (IN in) (NP (DT a) (JJ new) (NN way)))) (CC and) (VP (VB use) (NP (PRP it)) (S (VP (TO to) (VP (VB generate) (NP (VBG missing) (NNS attributes)) (PP (IN from) (NP (NN test) (NNS data)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ joint) (NN optimization) (NN scheme)) (PP (IN for) (NP (NP (DT the) (VBG missing) (NNS attributes)) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NNP NMF) (NNS factors)))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (JJ monotonic) (NN convergence)) (PP (IN of) (NP (PRP$ our) (NN algorithms))))) (. .))
+(S (NP (PRP We)) (VP (JJ present) (NP (NP (NN classification) (NNS results)) (PP (IN for) (NP (NP (NNS cases)) (PP (IN with) (NP (VBG missing) (NNS attributes))))))) (. .))

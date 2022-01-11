@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ examines) (NP (DT the) (`` ") (NN K2) ('' ") (NN network)) (S (VP (VBG scoring) (NP (NP (NN metric)) (PP (IN of) (NP (NNP Cooper) (CC and) (NNP Herskovits))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ shows) (NP (JJ counterintuitive) (NNS results)) (PP (IN from) (S (VP (VBG applying) (NP (DT this) (ADJP (JJ metric) (TO to) (JJ simple)) (NNS networks)))))) (. .))
+(S (NP (NP (CD One) (NN family)) (PP (IN of) (NP (JJ noninformative) (NNS priors)))) (VP (VBZ is) (VP (VBN suggested) (PP (IN for) (S (VP (VBG assigning) (NP (JJ equal) (NNS scores)) (PP (IN to) (NP (JJ equivalent) (NNS networks)))))))) (. .))

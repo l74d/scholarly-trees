@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NNS semantics)) (PP (IN for) (NP (NN permutation) (NN equivalence)))) (PP (IN in) (NP (NML (JJR higher) (HYPH -) (NN order)) (VBG rewriting)))) (. .))
+(S (NP (DT This) (NNS semantics)) (VP (VP (VBZ takes) (NP (NN place)) (PP (IN in) (NP (JJ cartesian) (NML (JJ closed) (CD 2)) (HYPH -) (NNS categories)))) (, ,) (CC and) (VP (VBZ is) (VP (VBN proved) (S (ADJP (JJ sound) (CC and) (JJ complete)))))) (. .))

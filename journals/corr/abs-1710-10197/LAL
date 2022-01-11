@@ -1,0 +1,8 @@
+(S (NP (NP (ADJP (RB Long) (JJ short-term)) (NN memory)) (PRN (-LRB- -LRB-) (NP (NNP LSTM)) (-RRB- -RRB-))) (VP (VBZ is) (ADVP (RB normally)) (VP (VBN used) (PP (IN in) (NP (NP (JJ recurrent) (JJ neural) (NN network)) (PRN (-LRB- -LRB-) (NP (NNP RNN)) (-RRB- -RRB-)))) (PP (IN as) (NP (JJ basic) (NN recurrent) (NN unit))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ conventional) (NNP LSTM)) (VP (VBZ assumes) (SBAR (IN that) (S (NP (NP (DT the) (NN state)) (PP (IN at) (NP (JJ current) (NN time) (NN step)))) (VP (VBZ depends) (PP (IN on) (NP (JJ previous) (NN time) (NN step))))))) (. .))
+(S (NP (DT This) (NN assumption)) (VP (VBZ constraints) (NP (DT the) (NN time) (NN dependency) (VBG modeling) (NN capability))) (. .))
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (NP (DT a) (JJ new) (NN variation)) (PP (IN of) (NP (NNP LSTM)))) (, ,) (NP (NP (VBD advanced) (NNP LSTM)) (PRN (-LRB- -LRB-) (NP (NNP A-LSTM)) (-RRB- -RRB-))) (, ,) (PP (IN for) (NP (JJR better) (JJ temporal) (NN context) (NN modeling))))) (. .))
+(S (NP (PRP We)) (VP (VBP employ) (NP (JJ A-LSTM)) (PP (IN in) (NP (JJ weighted) (NN pooling) (NNP RNN))) (PP (IN for) (NP (NN emotion) (NN recognition)))) (. .))
+(S (NP (DT The) (JJ A-LSTM)) (VP (VBZ outperforms) (NP (DT the) (JJ conventional) (NNP LSTM)) (PP (IN by) (NP (CD 5.5) (NN %))) (ADVP (RB relatively))) (. .))
+(S (NP (DT The) (ADJP (NNP A-LSTM) (VBN based)) (VBD weighted) (VBG pooling) (NNP RNN)) (VP (MD can) (ADVP (RB also)) (VP (VB complement) (NP (DT the) (JJ state-of-the-art) (NN emotion) (NN classification) (NN framework)))) (. .))
+(S (NP (DT This)) (VP (VBZ shows) (NP (NP (DT the) (NN advantage)) (PP (IN of) (NP (NNP A-LSTM))))) (. .))

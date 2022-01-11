@@ -1,0 +1,5 @@
+(S (NP (JJ Autonomous) (NN intelligent) (NNS agents)) (VP (VBP are) (VP (VBG playing) (NP (ADJP (RB increasingly) (JJ important)) (NNS roles)) (PP (IN in) (NP (PRP$ our) (NNS lives))))) (. .))
+(S (NP (PRP They)) (VP (VP (VBP contain) (NP (NP (NN information)) (PP (IN about) (NP (PRP us))))) (CC and) (VP (VB start) (S (VP (TO to) (VP (VB perform) (NP (NNS tasks)) (PP (IN on) (NP (PRP$ our) (NNS behalves)))))))) (. .))
+(S (NP (NNS Chatbots)) (VP (VBP are) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (JJ such) (NNS agents)) (SBAR (WHNP (WDT that)) (S (VP (VBP need) (S (VP (TO to) (VP (VB engage) (PP (IN in) (NP (NP (DT a) (JJ complex) (NNS conversations)) (PP (IN with) (NP (NNS humans))))))))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB ensure) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP behave) (ADVP (RB ethically))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ hybrid) (JJ logic-based) (NN approach)) (PP (IN for) (NP (JJ ethical) (NNS chatbots))))) (. .))

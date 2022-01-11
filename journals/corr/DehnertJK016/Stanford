@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (ADJP (JJ new) (JJ probabilistic)) (NN model) (NN checker) (NN Storm))) (. .))
+(S (S (VP (VBG Using) (NP (ADJP (NN state) (HYPH -) (IN of) (HYPH -) (DT the) (HYPH -) (NN art)) (NNS libraries)))) (, ,) (NP (PRP we)) (VP (VBP aim) (PP (IN for) (NP (NP (DT both) (JJ high) (NN performance)) (CC and) (NP (NN versatility))))) (. .))
+(S (NP (DT This)) (VP (VBD extended) (SBAR (S (NP (JJ abstract)) (VP (VBZ gives) (NP (NP (DT a) (JJ brief) (NN overview)) (PP (IN of) (NP (NP (DT the) (NNS features)) (PP (IN of) (NP (NN Storm)))))))))) (. .))

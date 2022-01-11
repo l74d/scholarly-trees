@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NNS variations)) (PP (IN of) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (JJ hidden) (JJ monomial) (NNS cryptosystems)))))) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB make) (S (NP (PRP it)) (ADJP (VB resistant) (PP (TO to) (NP (DT all) (VBN known) (NNS attacks)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NNS identities)) (VP (VBN built) (PP (IN upon) (NP (NP (DT a) (JJ single) (NN bivariate) (JJ polynomial) (NN equation)) (PP (IN with) (NP (NP (NNS coefficients)) (PP (IN in) (NP (DT a) (JJ finite) (NN field)))))))))) (. .))
+(S (ADVP (RB Indeed)) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN replaced) (PP (IN by) (NP (DT a) (`` ``) (JJ small) ('' '') (NN ideal))) (, ,) (ADVP (RB as) (RB well))))) (. .))
+(S (ADVP (RB Throughout)) (, ,) (NP (PRP we)) (VP (VBP set) (PRT (RP up)) (NP (JJ probabilistic) (NN encryption) (NNS protocols)) (, ,) (ADVP (RB too))) (. .))
+(S (NP (DT The) (JJ same) (NNS ideas)) (VP (VBP extend) (PP (TO to) (NP (JJ digital) (NN signature) (NN algorithms))) (, ,) (ADVP (RB as) (RB well))) (. .))
+(S (NP (PRP$ Our) (NNS schemes)) (VP (VBP work) (ADVP (RB as) (RB well)) (UCP (PP (IN on) (NP (NP (JJ differential) (NNS fields)) (PP (IN of) (NP (JJ positive) (NN characteristic))))) (, ,) (CC and) (ADVP (RB elsewhere)))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP register) (NP (NP (DT a) (JJ stochastic) (NN sequence)) (VP (VBN affected) (PP (IN by) (NP (CD one) (NN disorder)))))) (. .))
+(S (NP (NP (NN Monitoring)) (PP (IN of) (NP (DT the) (NN sequence)))) (VP (VBZ is) (VP (VBN made) (PP (IN in) (NP (NP (DT the) (NNS circumstances)) (SBAR (WHADVP (WRB when)) (S (NP (NP (RB not) (JJ full) (NN information)) (PP (IN about) (NP (NP (NNS distributions)) (PP (IN before) (CC and) (IN after) (NP (DT the) (NN change)))))) (VP (VBZ is) (ADJP (JJ available))))))))) (. .))
+(S (NP (NP (DT The) (JJ initial) (NN problem)) (PP (IN of) (NP (NN disorder) (NN detection)))) (VP (VBZ is) (VP (VBN transformed) (PP (IN to) (NP (NP (JJ optimal) (NN stopping)) (PP (IN of) (NP (VBN observed) (NN sequence))))))) (. .))
+(S (NP (NP (NN Formula)) (PP (IN for) (NP (JJ optimal) (NN decision) (NNS functions)))) (VP (VBZ is) (VP (VBN derived))) (. .))

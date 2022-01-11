@@ -1,0 +1,4 @@
+(S (NP (NN Heterosis)) (VP (VBZ is) (NP (NP (DT the) (ADJP (VBN improved) (CC or) (VBN increased)) (NN function)) (PP (IN of) (NP (NP (DT any) (JJ biological) (NN quality)) (PP (IN in) (NP (DT a) (NN hybrid) (NN offspring))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN studied) (ADVP (RB yet)) (NP (NP (DT the) (JJS largest) (NN maize) (NN SNP) (NN dataset)) (PP (IN for) (NP (NNS traits) (NN prediction)))))) (. .))
+(S (NP (PRP We)) (VP (VBP develop) (NP (NP (ADJP (JJ linear) (CC and) (JJ non-linear)) (NNS models)) (SBAR (WHNP (WDT which)) (S (VP (VBP consider) (NP (NP (NP (NNS relationships)) (PP (IN between) (NP (JJ different) (NNS hybrids)))) (CONJP (RB as) (RB well) (IN as)) (NP (JJ other) (NN effect)))))))) (. .))
+(S (NP (ADJP (RB Specially) (VBN designed)) (NN model)) (VP (VBD proved) (S (VP (TO to) (VP (VB be) (ADJP (JJ efficient) (CC and) (JJ robust)) (PP (IN in) (NP (NP (NN prediction) (NN maize) (POS 's)) (NNS traits))))))) (. .))

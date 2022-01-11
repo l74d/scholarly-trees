@@ -1,0 +1,7 @@
+(NP (NP (NP (DT This) (NN paper) (NNS constructs)) (NP (NP (DT a) (NN tree) (NN structure)) (PP (IN for) (NP (DT the) (NN music) (NN rhythm))))) (VP (VBG using) (NP (DT the) (NN L) (HYPH -) (NN system))) (. .))
+(S (NP (PRP It) (NNS models)) (VP (VP (NP (DT the) (NN structure)) (PP (IN as) (NP (DT an) (NN automata)))) (CC and) (VP (VBZ derives) (NP (PRP$ its) (NN complexity)))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ solves) (NP (NP (DT the) (NN complexity)) (PP (IN for) (NP (DT the) (NN L) (HYPH -) (NN system))))) (. .))
+(S (NP (DT This) (NN complexity)) (VP (MD can) (VP (VB resolve) (NP (NP (DT the) (NN similarity)) (PP (IN between) (NP (NNS trees)))))) (. .))
+(S (NP (DT This) (NN complexity)) (VP (VBZ serves) (PP (IN as) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NP (JJ psychological) (NN complexity)) (PP (IN for) (NP (NNS rhythms)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ resolves) (NP (NP (DT the) (NN music) (NN complexity)) (PP (IN of) (NP (NP (JJ various) (NNS compositions)) (PP (VBG including) (NP (DT the) (NNP Mozart) (NN effect) (NN K488))))))) (. .))
+(NP (NP (NNP Keyword)) (: :) (NP (NP (NP (NN music) (NN perception)) (, ,) (NP (JJ psychological) (NN complexity)) (, ,) (NP (NN rhythm)) (, ,) (NP (NN L) (HYPH -) (NN system)) (, ,) (NP (NN automata)) (, ,) (NP (JJ temporal) (JJ associative) (NN memory)) (, ,) (NP (JJ inverse) (NN problem))) (, ,) (NP (VBG rewriting) (NN rule)) (, ,) (NP (NP (VBN bracketed) (NN string)) (, ,) (NP (NN tree) (NN similarity)))))

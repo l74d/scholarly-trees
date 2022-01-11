@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG proving) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ analytical) (NNS inequalities)))) (PP (IN via) (NP (JJ minimax) (JJ rational) (NNS approximations)))))))) (. .))
+(S (NP (NP (DT All) (JJ numerical) (NNS calculations)) (PP (IN in) (NP (DT this) (NN paper)))) (VP (VBP are) (VP (VBN given) (PP (IN by) (NP (NNP Maple) (NN computer) (NN program))))) (. .))

@@ -1,0 +1,3 @@
+(S (S (VP (VBG Creating) (NP (DT a) (NN photomap)))) (VP (VBZ plays) (NP (DT a) (JJ critical) (NN role)) (PP (IN in) (NP (NN navigation)))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (VBG flying) (NNS vehicles)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN used) (S (VP (TO to) (VP (VB create) (NP (NP (JJ topdown) (NNS maps)) (PP (IN of) (NP (DT the) (NN environment))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN report))) (NP (PRP we)) (VP (VBD used) (NP (CD two) (JJ different) (JJ aerial) (NNS vehicles)) (S (VP (TO to) (VP (VB create) (NP (DT a) (NN map)) (PP (IN in) (NP (DT a) (JJ simulated) (NN environment))))))))

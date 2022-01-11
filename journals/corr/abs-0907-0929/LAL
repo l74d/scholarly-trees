@@ -1,0 +1,5 @@
+(S (NP (DT A) (NNP CRDT)) (VP (VBZ is) (NP (NP (DT a) (NN data) (NN type)) (SBAR (WHNP (WP$ whose) (NNS operations)) (S (VP (VBP commute) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ concurrent)))))))))) (. .))
+(S (NP (NP (NNP Replicas)) (PP (IN of) (NP (DT a) (NNP CRDT)))) (ADVP (RB eventually)) (VP (VB converge) (PP (IN without) (NP (DT any) (JJ complex) (NN concurrency) (NN control)))) (. .))
+(S (PP (IN As) (NP (DT an) (NN existence) (NN proof))) (, ,) (NP (PRP we)) (VP (VBP exhibit) (NP (NP (DT a) (JJ non-trivial) (NN CRDT)) (: :) (NP (NP (DT a) (VBN shared) (NN edit) (NN buffer)) (VP (VBN called) (S (NP (NNP Treedoc))))))) (. .))
+(S (NP (PRP We)) (VP (VBP outline) (NP (NP (DT the) (NN design) (, ,) (NN implementation) (CC and) (NN performance)) (PP (IN of) (NP (NNP Treedoc))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNP CRDT) (NN concept)) (VP (MD can) (VP (VB be) (VP (VBN generalised)))))) (, ,) (CC and) (NP (PRP$ its) (NNS limitations)))) (. .))

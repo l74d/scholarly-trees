@@ -1,0 +1,4 @@
+(S (NP (DT The) (CD 2019) (NNP WMT) (NNP Biomedical) (NN translation) (NN task)) (VP (VBN involved) (S (VP (VBG translating) (NP (NNP Medline) (NNS abstracts))))) (. .))
+(S (NP (PRP We)) (VP (VBD approached) (NP (DT this)) (S (VP (VP (VBG using) (NP (NN transfer) (VBG learning)) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (JJ strong) (JJ neural) (NNS models)) (PP (IN on) (NP (JJ distinct) (NNS domains)))))))))) (, ,) (CC and) (VP (VBG combining) (NP (PRP them)) (PP (IN into) (NP (JJ multi-domain) (NNS ensembles))))))) (. .))
+(S (NP (PRP We)) (ADVP (VBP further)) (VP (JJ experiment) (PP (IN with) (NP (DT an) (JJ adaptive) (NN language-model) (JJ ensemble) (VBG weighting) (NN scheme)))) (. .))
+(S (NP (PRP$ Our) (NN submission)) (VP (VBD achieved) (NP (DT the) (JJS best) (JJ submitted) (NNS results)) (PP (IN on) (NP (NP (DT both) (NNS directions)) (PP (IN of) (NP (JJ English-Spanish)))))) (. .))

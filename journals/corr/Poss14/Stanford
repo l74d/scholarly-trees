@@ -1,0 +1,1 @@
+(S (NP (NP (DT This) (NN introduction)) (PP (IN to) (NP (NNP Haskell)))) (VP (VBZ is) (VP (VBN written) (S (VP (TO to) (VP (VB optimize) (NP (NN learning)) (PP (IN by) (NP (NP (NNS programmers)) (SBAR (WHNP (WP who)) (S (ADVP (RB already)) (VP (VBP know) (NP (NN OCaml)))))))))))) (. .))

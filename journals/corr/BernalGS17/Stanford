@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN technique)) (S (VP (TO to) (VP (VB improve) (NP (DT the) (VP (VBG searching) (PP (IN for) (NP (NP (JJ new) (NNS bounds)) (PP (IN for) (NP (NP (DT the) (JJ minimum) (NN distance)) (PP (IN of) (NP (JJ abelian) (NNS codes))))))))))))) (. .))
+(S (ADVP (RB Then)) (PRN (S (NP (PRP we)) (VP (VB construct) (NP (NP (DT some) (NNS tables)) (PP (IN of) (NP (NP (JJ such) (NNS codes)) (PP (IN as) (NP (DT an) (NN application))))))))))

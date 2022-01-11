@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP devise) (NP (DT a) (JJ new) (NN pseudorandom) (NN generator)) (PP (IN against) (NP (NP (ADJP (JJ degree) (CD 2)) (JJ polynomial) (JJ threshold) (NNS functions)) (PP (IN in) (NP (DT the) (JJ Gaussian) (NN setting)))))) (. .))

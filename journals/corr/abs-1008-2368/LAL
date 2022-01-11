@@ -1,0 +1,6 @@
+(S (PP (IN In) (NP (DT the) (JJ present) (NN article))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (NNP Algebraic) (NNP Geometry) (NNS codes)) (PP (IN on) (NP (DT some) (JJ rational) (NNS surfaces))))) (. .))
+(S (NP (NP (DT The) (NN estimate)) (PP (IN of) (NP (DT the) (JJ minimum) (NN distance)))) (VP (VBZ is) (VP (VBN translated) (PP (IN into) (NP (NP (DT a) (NN point) (NN counting) (NN problem)) (PP (IN on) (NP (NN plane) (NNS curves))))))) (. .))
+(S (NP (NP (DT The) (NNS parameters)) (PP (IN of) (NP (NP (JJ several) (NNS codes)) (PP (IN from) (NP (JJ rational) (NNS surfaces)))))) (VP (VBP are) (VP (VBN computed))) (. .))
+(S (PP (IN Among) (NP (PRP them))) (, ,) (NP (NP (DT the) (NNS codes)) (VP (VBN defined) (PP (IN by) (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (NP (NP (NNS forms)) (PP (IN of) (NP (JJ degree) (CD 3)))) (PP (IN on) (NP (DT an) (JJ elliptic) (NN quadric))))))))) (VP (VBP are) (VP (VBN studied))) (. .))
+(S (ADVP (ADVP (RB As) (RB far)) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP know))))) (, ,) (NP (JJ such) (NNS codes)) (VP (VBP have) (ADVP (RB never)) (VP (VBN been) (VP (VBN treated) (ADVP (IN before))))) (. .))
+(S (S (NP (CD Two) (JJ other) (JJ rational) (NNS surfaces)) (VP (VBP are) (VP (VBN studied)))) (CC and) (S (NP (ADJP (RB very) (JJ good)) (NNS codes)) (VP (VBP are) (VP (VBN found) (PP (IN on) (NP (PRP them)))))) (. .))

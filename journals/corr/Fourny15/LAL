@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ binary) (NN encoding)) (SBAR (WHNP (WDT that)) (S (VP (VBZ supports) (NP (ADJP (RB arbitrarily) (JJ large) (, ,) (JJ small) (CC and) (JJ precise)) (NNS decimals))))))) (. .))
+(S (NP (PRP It)) (VP (ADVP (RB completely)) (VBZ preserves) (NP (NN information) (CC and) (NN order))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ does) (RB not) (VP (VB rely) (PP (IN on) (NP (NP (DT any) (JJ arbitrary) (JJ use-case-based) (NN choice)) (PP (IN of) (NP (NN calibration))))))) (CC and) (VP (VBZ is) (ADJP (RB readily) (JJ implementable) (CC and) (JJ usable)) (, ,) (SBAR (IN as) (S (VP (VBZ is)))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ simple) (SBAR (S (VP (TO to) (VP (VB explain) (CC and) (VB understand))))))) (. .))

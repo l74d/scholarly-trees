@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ expands) (PP (IN upon) (NP (NP (DT the) (JJ finite) (NN state) (NN machine) (NN approach)) (PP (IN for) (NP (NP (DT the) (JJ formal) (NN analysis)) (PP (IN of) (NP (JJ digital) (NN evidence)))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN method)) (VP (MD may) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB support) (NP (NP (DT the) (NN feasibility)) (PP (IN of) (NP (DT a) (VBN given) (NN statement)))) (PP (IN by) (S (VP (VBG testing) (NP (PRP it)) (PP (IN against) (NP (DT a) (JJ relevant) (NN system) (NN model)))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB achieve) (NP (DT this))))) (, ,) (NP (NP (DT a) (JJ novel) (NN method)) (PP (IN for) (S (VP (VBG modeling) (NP (NP (DT the) (NN system)) (CC and) (NP (JJ evidential) (NNS statements))))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN examined) (PP (IN in) (NP (DT a) (NN case) (NN study) (NN example))))) (. .))

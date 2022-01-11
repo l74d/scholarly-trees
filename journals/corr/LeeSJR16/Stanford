@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NN gradient) (NN descent)) (VP (VBZ converges) (PP (IN to) (NP (DT a) (JJ local) (NN minimizer))) (, ,) (ADVP (ADVP (RB almost) (RB surely)) (PP (IN with) (NP (JJ random) (NN initialization)))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (VP (VBN proved) (PP (IN by) (S (VP (VBG applying) (NP (DT the) (JJ Stable) (NML (NML (NNP Manifold) (NNP Theorem)) (PP (IN from) (NP (JJ dynamical) (NNS systems)))) (NN theory))))))) (. .))

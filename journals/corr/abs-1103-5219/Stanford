@@ -1,0 +1,6 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (MD shall) (VP (VB consider) (NP (NP (DT some) (JJ famous) (NNS means)) (PP (JJ such) (IN as) (NP (NP (NN arithmetic)) (, ,) (NP (ADJP (JJ harmonic)) (, ,) (JJ geometric) (, ,) (NML (NN root) (JJ square)) (NN mean)) (, ,) (ADVP (FW etc.))))))) (. .))
+(S (PP (VBG Considering) (NP (NP (DT the) (NN difference)) (PP (IN of) (NP (DT these) (NNS means))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB establish))) (. .))
+(NP (NP (DT some) (NNS inequalities)) (PP (IN among) (NP (PRP them))) (. .))
+(S (ADVP (RB Interestingly)) (, ,) (NP (NP (DT the) (NN difference)) (PP (IN of) (NP (NP (JJ mean)) (VP (VBN considered))))) (VP (VBZ is) (NP (JJ convex) (NNS functions))) (. .))
+(S (S (VP (VBG Applying) (NP (DT some) (NNS properties)))) (, ,) (NP (NP (JJ upper) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NN error)))))) (VP (VBP are) (VP (VBN established) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (NNS results)) (VP (VBN obtained))) (VP (VBP are) (ADJP (ADJP (JJR sharper)) (SBAR (IN than) (S (VP (VBN obtained) (S (ADVP (RB directly)) (VP (VBG applying) (NP (VBN known) (NNS inequalities))))))))))))) (. .))

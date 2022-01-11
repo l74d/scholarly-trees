@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ complete) (NN characterization)) (PP (IN of) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NP (DT the) (NN reachability) (NN problem)) (PP (IN for) (NP (NN vector) (NN addition) (NN system)))))))) (VP (VBZ has) (VP (VBN been) (ADJP (JJ open)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))) (. .))
+(S (NP (DT The) (NN problem)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (NNP Tower) (JJ complete))))))) (. .))

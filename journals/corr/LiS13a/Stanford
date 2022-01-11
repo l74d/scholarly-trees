@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (SBAR (S (NP (NP (DT a) (JJ special) (NN kind)) (PP (IN of) (NP (JJ overconstrained) (NN 6R)))) (VP (VBD closed) (NP (NP (NNS linkages)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NN angle)) (PP (HYPH -) (NP (JJ symmetric) (NN 6R) (NNS linkages)))))))))))) (. .))
+(S (NP (DT These)) (VP (VBP are) (NP (NP (NNS linkages)) (PP (IN with) (NP (NP (DT the) (NN property)) (SBAR (IN that) (S (NP (DT the) (NN rotation) (NNS angles)) (VP (VBP are) (ADJP (JJ equal) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (NP (DT the) (CD three) (NNS pairs)) (PP (IN of) (NP (JJ opposite) (NNS joints))))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN classification)) (PP (IN of) (NP (DT these) (NNS linkages))))) (. .))
+(S (NP (PRP It)) (VP (VBZ turns) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (CD three) (NNS types)))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP have) (NP (NP (DT the) (NNS linkages)) (PP (IN with) (NP (NN line) (NN symmetry))))) (. .))
+(S (NP (DT The) (JJ second) (NN type)) (VP (VBZ is) (ADJP (JJ new))) (. .))
+(S (NP (DT The) (JJ third) (NN type)) (VP (VBZ is) (VP (VBN related) (PP (IN to) (NP (JJ cubic) (NN motion) (NNS polynomials))))) (. .))

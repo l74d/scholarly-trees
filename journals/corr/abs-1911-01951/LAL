@@ -1,0 +1,4 @@
+(S (NP (DT The) (NNP Bron-Kerbosch) (NN algorithm)) (VP (VBZ is) (NP (DT a) (ADJP (RB well) (VBN known)) (JJ maximal) (NN clique) (NN enumeration) (NN algorithm))) (. .))
+(S (ADVP (RB So) (RB far)) (NP (NP (PRP it))) (VP (VBD was) (ADJP (JJ unknown)) (SBAR (IN whether) (S (NP (PRP it)) (VP (VBD was) (ADJP (NN output) (JJ sensitive)))) (CC or) (RB not))) (. .))
+(NP (NP (NNP International) (NNP Symposium)) (PP (IN on) (NP (NNP Algorithms) (CC and) (NNP Computation))) (. .))
+(S (NP (NP (NNP Springer)) (, ,) (NP (NNP Berlin)) (, ,) (NP (NNP Heidelberg)) (, ,) (NP (CD 2010))) ('' '') (VP (VBZ is) (ADJP (NN output) (JJ sensitive))) (. .))

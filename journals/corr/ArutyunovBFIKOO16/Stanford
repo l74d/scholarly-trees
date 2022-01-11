@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (JJ statistical) (NNS properties)) (PP (IN of) (NP (NP (NNS letters) (NNS frequencies)) (PP (IN in) (NP (JJ European) (NN literature) (NNS texts)))))) (VP (VBP are) (VP (VBN investigated))) (. .))
+(S (NP (NP (DT The) (NN determination)) (PP (IN of) (NP (NP (JJ logarithmic) (NN dependence)) (PP (IN of) (NP (NP (NNS letters) (NN sequence)) (PP (IN for) (NP (NML (NML (CD one) (HYPH -) (NN language)) (CC and) (NML (CD two) (HYPH -) (NN language))) (NNS texts)))))))) (VP (VBP are) (VP (VBN examined))) (. .))
+(S (NP (NP (DT The) (NN pare)) (PP (IN of) (NP (NNS languages)))) (VP (VBZ is) (VP (VBN suggested) (PP (IN for) (NP (NNP Voynich) (NNP Manuscript))))) (. .))
+(S (NP (NP (DT The) (JJ internal) (NN structure)) (PP (IN of) (NP (NNP Manuscript)))) (VP (VBZ is) (VP (VBN considered))) (. .))
+(S (NP (NP (DT The) (JJ spectral) (NNS portraits)) (PP (IN of) (NP (NML (CD two) (HYPH -) (NNS letters)) (NN distribution)))) (VP (VBP are) (VP (VBN constructed))) (. .))

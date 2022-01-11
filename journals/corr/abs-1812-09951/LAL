@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB create) (NP (DT a) (JJ 3-colorable) (NNP Delaunay) (NNP Triangulation)))))))) (. .))
+(S (NP (NP (DT The) (NN input)) (PP (IN of) (NP (NP (DT the) (NN problem)) (SBAR (S (NP (PRP we)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB solve))))))))))) (VP (VBZ is) (NP (NP (DT a) (NN set) (NN X)) (PP (IN of) (NP (JJ n) (JJ twodimensional) (NNS points))))) (. .))
+(S (NP (DT The) (NN output)) (VP (VBZ is) (NP (NP (DT a) (JJ 3-colorable) (JJ two-dimensional) (NNP Delaunay) (NN triangulation) (NNP T)) (PP (IN for) (NP (NNP X) (NNP U) (NNP Y))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Y)) (VP (VBZ is) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ m) (JJ new) (NNS points))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP want) (S (VP (TO to) (VP (VB m) (VP (VB be) (ADJP (ADJP (RB as) (JJ few)) (PP (IN as) (ADJP (JJ possible))))))))) (. .))

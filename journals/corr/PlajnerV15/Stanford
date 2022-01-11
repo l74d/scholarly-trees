@@ -1,0 +1,8 @@
+(S (NP (NP (VBN Computerized) (JJ adaptive) (NN testing)) (-LRB- -LRB-) (NP (NN CAT)) (-RRB- -RRB-)) (VP (VBZ is) (NP (NP (DT an) (ADJP (JJ interesting) (CC and) (JJ promising)) (NN approach)) (PP (IN to) (S (VP (VBG testing) (NP (JJ human) (NNS abilities))))))) (. .))
+(S (PP (IN In) (NP (PRP$ our) (NN research))) (NP (PRP we)) (VP (VBP use) (NP (JJ Bayesian) (NNS networks)) (S (VP (TO to) (VP (VB create) (NP (NP (DT a) (NN model)) (PP (IN of) (NP (VBN tested) (NNS humans)))))))) (. .))
+(S (NP (PRP We)) (VP (VBD collected) (NP (NNS data)) (PP (IN from) (NP (NP (NN paper) (NNS tests)) (VP (VBN performed) (PP (IN with) (NP (NML (NN grammar) (NN school)) (NNS students))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (ADVP (RB first)) (VP (VBP provide) (NP (NP (DT the) (NN summary)) (PP (IN of) (NP (NP (NNS data)) (VP (VBN used) (PP (IN for) (NP (PRP$ our) (NNS experiments)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (JJ several) (JJ different) (NML (JJ Bayesian) (NNS networks))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VP (VBD tested)) (CC and) (VP (VBN compared) (PP (IN by) (NP (NN cross-validation))))))))) (. .))
+(S (NP (JJ Interesting) (NNS results)) (VP (VP (VBD were) (VP (VBN obtained))) (CC and) (VP (VBP are) (VP (VBN discussed) (PP (IN in) (NP (DT the) (NN paper)))))) (. .))
+(S (NP (DT The) (NN analysis)) (VP (VBZ has) (VP (VBN brought) (NP (DT a) (ADJP (JJR clearer)) (NN view)) (PP (IN on) (NP (DT the) (NN model) (NN selection) (NN problem))))) (. .))
+(S (NP (JJ Future) (NN research)) (VP (VBZ is) (VP (VBN outlined) (PP (IN in) (NP (NP (DT the) (VBG concluding) (NN part)) (PP (IN of) (NP (DT the) (NN paper))))))) (. .))

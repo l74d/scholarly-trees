@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNP Clique) (NNP Problem)) (VP (VBZ has) (NP (NP (DT a) (NN reduction)) (PP (IN to) (NP (DT the) (NML (NNP Maximum) (NNP Flow) (NNP Network)) (NNP Interdiction) (NNP Problem))))) (. .))
+(S (NP (PRP We)) (VP (VBP review) (NP (DT the) (NN reduction)) (S (VP (TO to) (VP (VB evolve) (NP (DT a) (ADJP (JJ polynomial) (NP-TMP (NN time))) (NN algorithm)) (PP (IN for) (NP (DT the) (NNP Clique) (NNP Problem))))))) (. .))
+(S (NP (NP (DT A) (NN computer) (NN program)) (PP (IN in) (NP (NNP C) (NN language)))) (VP (VBZ has) (VP (VBN been) (VP (VBN written) (S (VP (TO to) (VP (VB validate) (NP (NP (DT the) (NN easiness)) (PP (IN of) (NP (DT the) (NN algorithm)))))))))) (. .))

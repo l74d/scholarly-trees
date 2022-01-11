@@ -1,0 +1,2 @@
+(NP (NP (NN Article)) (PP (IN about) (NP (NP (NN transformation)) (PP (IN of) (NP (NP (NNS methods)) (PP (IN of) (NP (JJ remote) (NNS sales))))) (PP (IN in) (NP (NP (DT the) (NNS conditions)) (PP (IN of) (NP (NN e-commerce))))))) (. .))
+(S (NP (DT The) (NN author)) (VP (NNS classifies) (CC and) (VBZ analyzes) (NP (NP (NNS features)) (PP (IN of) (NP (NP (JJ new) (NNS methods)) (PP (IN of) (NP (JJ electronic) (NNS sales))) (PP (IN in) (NP (DT the) (JJ virtual) (NN environment))))))) (. .))

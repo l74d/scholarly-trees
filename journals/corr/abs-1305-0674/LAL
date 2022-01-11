@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB compress) (NP (VBG string) (NNS dictionaries)) (S (VP (VBG using) (NP (DT the) (NNP Lempel-Ziv) (PRN (-LRB- -LRB-) (NNP LZ78) (-RRB- -RRB-)) (VBZ data) (NN compression) (NN algorithm))))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN validated) (ADVP (RB experimentally)) (PP (IN on) (NP (NP (NNS dictionaries)) (PP (IN of) (NP (NP (QP (IN up) (TO to) (CD 1.5)) (NNP GB)) (PP (IN of) (NP (JJ uncompressed) (NN text))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP achieve) (NP (NP (NN compression) (NNS ratios)) (VP (ADVP (RB often)) (VBG outperforming) (NP (DT the) (VBG existing) (NNS alternatives)))) (, ,) (PP (ADVP (RB especially)) (IN on) (NP (NP (NNS dictionaries)) (VP (VBG containing) (NP (JJ many) (VBN repeated) (NNS substrings)))))) (. .))
+(S (NP (PRP$ Our) (NN query) (NNS times)) (VP (VBP remain) (ADJP (JJ competitive))) (. .))

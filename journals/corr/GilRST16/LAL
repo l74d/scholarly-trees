@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ combines) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (NN series) (NNS expansions)) (, ,) (NP (JJ Poincaré-type) (NNS expansions)) (, ,) (NP (JJ uniform) (JJ asymptotic) (NNS expansions)) (CC and) (NP (NN recurrence) (NNS relations))))) (, ,) (PP (VBG depending) (PP (IN on) (NP (DT the) (NN parameter) (NN region))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN tutorial)) (VP (VP (VBZ presents) (NP (NP (NNS features)) (PP (IN of) (NP (DT the) (JJ new))))) (CC and) (VP (VBD improved) (NP (NP (NNP TeXmacs) (HYPH -) (NNS maxima)) (NP (NN interface))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN designed) (PP (IN for) (S (VP (VBG running) (NP (NP (NNS maxima)) (, -) (NP (NP (CD 5.9.2)) (PP (IN from) (NP (NP (NNP TeXmacs)) (HYPH -) (NP (NP (NN 1.0.5)) (-LRB- -LRB-) (CC or) (ADVP (RB later)))))))))))) (-RRB- -RRB-) (. .))

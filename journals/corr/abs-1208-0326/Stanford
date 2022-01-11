@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ proves) (SBAR (IN that) (S (NP (JJ contractive) (JJ ordinary) (JJ differential) (NN equation) (NNS systems)) (VP (VBP remain) (ADJP (JJ contractive)) (SBAR (WHADVP (WRB when)) (S (NP (NN diffusion)) (VP (VBZ is) (VP (VBN added))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (NP (JJ diffusive) (NNS instabilities)) (, ,) (PP (IN in) (NP (NP (DT the) (NN sense)) (PP (IN of) (NP (DT the) (NNP Turing) (NN phenomenon))))) (, ,)) (VP (MD can) (RB not) (VP (VB arise) (PP (IN for) (NP (JJ such) (NNS systems))))) (. .))
+(S (NP (DT An) (JJ important) (JJ biochemical) (NN system)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB satisfy) (NP (DT the) (JJ required) (NNS conditions))))))) (. .))

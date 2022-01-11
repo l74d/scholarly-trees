@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ sequent-style) (NN proof) (NN system)) (PP (IN for) (NP (NN provability) (NN logic) (NNP GL))) (SBAR (WHNP (IN that)) (S (VP (VBZ admits) (NP (JJ so-called) (JJ circular) (NN proofs))))))) (. .))
+(S (PP (IN For) (NP (DT these) (NNS proofs))) (, ,) (NP (NP (DT the) (NN graph)) (VP (VBG underlying) (NP (DT a) (NN proof)))) (VP (VP (VBZ is) (RB not) (NP (DT a) (JJ finite) (NN tree))) (CC but) (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB contain) (NP (NNS cycles)))))))) (. .))
+(S (PP (IN As) (NP (DT an) (NN application))) (, ,) (NP (PRP we)) (VP (VB establish) (NP (NP (NNP Lindon) (NN interpolation)) (PP (IN for) (NP (NNP GL)))) (ADVP (RB syntactically))) (. .))

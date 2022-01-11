@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (JJ short) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (NP (NN parameter) (NN estimation)) (PP (IN for) (NP (JJ finite) (NN mixture) (NNS models)))) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NP (JJ discrete) (JJ optimal) (NN transportation)) (PP (IN with) (NP (NN convex) (NN regularization)))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN framework)) (VP (VBZ unifies) (NP (ADJP (JJ hard) (CC and) (JJ soft)) (NN clustering) (NNS methods)) (PP (IN for) (NP (JJ general) (NN mixture) (NNS models)))) (. .))

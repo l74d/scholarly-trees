@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT the) (JJ present) (NN study))) (, ,) (NP (DT an) (NML (NN advection) (HYPH -) (NN diffusion)) (NN problem)) (VP (VBZ has) (VP (VBN been) (VP (VBN considered) (PP (IN for) (NP (DT the) (JJ numerical) (NN solution)))))) (. .))
+(S (NP (DT The) (NN continuum) (NN equation)) (VP (VP (VBZ is) (VP (VBN discretized) (S (VP (VBG using) (NP (DT both) (NN upwind)))))) (CC and) (VP (VBD centered) (NP (NN scheme)))) (. .))
+(S (NP (DT The) (JJ linear) (NN system)) (VP (VBZ is) (VP (VBN solved) (S (VP (VBG using) (NP (DT the) (NNP ILU) (VBN preconditioned) (NN BiCGSTAB) (NN method)))))) (. .))
+(S (NP (DT Both) (NML (NNP Dirichlet) (CC and) (NNP Neumann)) (NN boundary) (NN condition)) (VP (VBZ has) (VP (VBN been) (VP (VBN considered)))) (. .))
+(S (NP (DT The) (ADJP (VBN obtained)) (NNS results)) (VP (VBP have) (VP (VBN been) (VP (VBN compared) (PP (IN for) (NP (JJ different) (NNS cases)))))) (. .))

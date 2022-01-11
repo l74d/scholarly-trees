@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT the) (JJ first) (JJ elementary) (NN construction)) (PP (IN of) (NP (NP (JJ equivalent) (NNS formulas)) (PP (IN in) (NP (NNP Hanf)))))) (NP (JJ normal) (NN form))) (. .))
+(S (NP (DT The) (ADJP (RB triply) (JJ exponential)) (NML (JJ upper) (VBN bound))) (VP (VBZ is) (VP (VBN complemented) (PP (IN by) (NP (NP (DT a) (NN matching)) (ADJP (ADVP (JJR lower)) (VBN bound)))))) (. .))

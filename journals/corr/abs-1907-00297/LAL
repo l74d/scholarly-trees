@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (DT the) (JJ subdiffusive) (NNP Black) (NNP Scholes) (NN model)))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN part)) (PP (IN of) (NP (PRP$ our) (NN work)))) (VP (VBZ consists) (PP (IN of) (NP (NP (DT the) (JJ finite) (NN difference) (NN method)) (PP (IN as) (NP (NP (DT a) (JJ numerical) (NN approach)) (PP (TO to) (NP (NP (DT the) (NN option) (NN pricing)) (PP (IN in) (NP (DT the) (VBN considered) (NN model)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT the) (VBG governing) (JJ fractional) (JJ differential) (NN equation)) (CC and) (NP (NP (DT the) (JJ related) (JJ weighted) (JJ numerical) (NN scheme)) (VP (VBG being) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT the) (JJ classical) (NNP Crank-Nicolson) (NN scheme)))))))) (. .))
+(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (DT the) (NN stability) (CC and) (NN convergence) (NN analysis))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT some) (JJ numerical) (NNS results))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT the) (NN family)) (PP (IN of) (NP (NNP Anonymized) (JJ Local) (NN Privacy) (NNS mechanisms))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (DT the) (NN suitability)) (PP (IN in) (NP (DT a) (VBN distributed) (NML (PP (IN on) (HYPH -) (NP (NN demand)))) (NN network)))) (CC and) (VP (VB evaluate) (PP (IN over) (NP (DT a) (JJ real) (NN dataset))) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP scale) (NP (DT the) (NN population))))))) (. .))

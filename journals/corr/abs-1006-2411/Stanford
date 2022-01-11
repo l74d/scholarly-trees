@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN MySQL) (NML (NML (NN challenge) (HYPH -) (CC and) (HYPH -) (NN response)) (NN authentication)) (NN protocol)) (VP (VBZ is) (VP (VBN proved) (S (ADJP (JJ insecure))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBARQ (WHADVP (WRB how)) (SQ (MD can) (NP (DT an) (NN eavesdropper)) (VP (VBP impersonate) (NP (DT a) (JJ valid) (NN user)) (PP (IN after) (S (VP (VBG witnessing) (NP (NP (QP (RB only) (DT a) (JJ few)) (NNS executions)) (PP (IN of) (NP (DT this) (NN protocol))))))))))) (. .))
+(S (NP (NP (DT The) (NN algorithm)) (PP (IN of) (NP (DT the) (JJ underlying) (NN attack)))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP comment) (PP (IN about) (NP (NP (NNS implementations)) (CC and) (NP (JJ statistical) (NNS results))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NNP Tate) (NNS algebras)) (VP (VBP are) (NP (NP (JJ fundamental) (NNS objects)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NP (JJ analytic) (NN geometry)) (PP (IN over) (NP (DT the) (NN p) (HYPH -) (NNS adics))))))))) (. .))
+(S (S (ADVP (RB Roughly)) (VP (VBG speaking))) (, ,) (NP (PRP they)) (VP (VBP play) (NP (DT the) (JJ same) (NN role)) (SBAR (IN as) (S (NP (JJ polynomial) (NNS algebras)) (VP (VBP play) (PP (IN in) (NP (JJ classical) (JJ algebraic) (NN geometry))))))) (. .))
+(S (NP (NP (DT An) (NN implementation)) (PP (IN in) (NP (NNP SM)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))

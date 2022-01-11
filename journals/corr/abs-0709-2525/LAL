@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN for) (NP (NP (DT all) (JJ graphs) (NNP H)) (PP (IN of) (NP (NN size) (NN n))))) (, ,) (NP (DT the) (JJ complete) (NN graph) ($ $) (NNP K_) (PRN (-LRB- -LCB-) (CD 2n+1) (-RRB- -RCB-)) ($ $)) (VP (VBZ has) (NP (DT an) ($ $) (NNP H) ($ $) (NN -decomposition)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP JASM)) (VP (VBZ is) (NP (NP (DT a) (NN model)) (VP (VBN designed) (S (VP (TO to) (VP (VB increase) (NP (NP (DT the) (NN security) (NN level)) (PP (IN in) (NP (NN authentication) (NNS systems)))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ uses) (NP (NP (NNP IP) (NNP Address)) (PP (IN of) (NP (DT the) (NN user)))) (PP (IN in) (NP (DT the) (NN authentication) (NN process))) (S (VP (TO to) (VP (VB enhance) (NP (DT the) (NN security)))))) (. .))

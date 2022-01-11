@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (VBD augmented) (NNP Arthur-Merlin) (NNS protocols)) (PP (IN with) (NP (NP (CD one) (NN bit)) (PP (IN of) (NP (NN advice)))))) (VP (VBP do) (RB not) (VP (VB have) (NP (VBN fixed) (JJ polynomial) (NN size) (JJ non-deterministic) (NNS circuits))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (NP (NP (DT a) (JJ weak) (JJ unconditional) (NN derandomization)) (PP (IN of) (NP (NP (DT a) (JJ certain) (NN type)) (PP (IN of) (NP (NN promise) (NNP Arthur-Merlin) (NNS protocols))))))) (. .))

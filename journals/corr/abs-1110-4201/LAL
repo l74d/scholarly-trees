@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VB introduce) (NP (NP (DT a) (JJ new) (NN parameter)) (PP (IN for) (NP (JJ quantified) (NNS queries))) (SBAR (WHNP (WDT that)) (S (VP (VBZ permits) (S (VP (TO to) (VP (VB isolate) (NP (NP (JJ large) (NN island)) (PP (IN of) (NP (NN tractability)))))))))))) (. .))

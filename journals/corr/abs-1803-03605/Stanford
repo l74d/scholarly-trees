@@ -1,0 +1,1 @@
+(S (S (NP (DT This) (NN result)) (VP (VBD was) (VP (VBN claimed) (PP (IN by) (NP (NP (DT the) (NN author)) (PP (IN in) (NP (PRP$ his) (NN PhD) (NN dissertation)))))))) (, ,) (CC but) (S (NP (DT the) (NN proof)) (VP (VBZ contains) (NP (NP (DT an) (NN error)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN fixed) (PP (IN in) (NP (DT this) (NN note)))))))))) (. .))

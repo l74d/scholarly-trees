@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ reformulates) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (NP (DT a) (JJ longest) (JJ common) (VBG increasing) (NN subsequence)) (PP (IN of) (NP (DT the) (CD two) (VBN given) (NN input) (NNS sequences)))))))) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ succinct)) (NN way)))) (. .))

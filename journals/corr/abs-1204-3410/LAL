@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (JJ early) (NN deployment)) (PP (IN of) (NP (NP (DT a) (ADJP (RB fully) (JJ virtual)) (NN platform)) (SBAR (S (VP (TO to) (VP (VB perform) (NP (NP (DT the) (NNS tests)) (PP (IN of) (NP (JJ certified) (JJ airborne) (NN software)))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT an) (JJ alternative)) (PP (TO to) (NP (NP (DT the) (JJ current) (NN approach)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (VBN dedicated) (NN hardware) (NNS platforms)))))))))) (. .))

@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NNP OpenVSLAM)) (, ,) (NP (NP (DT a) (JJ visual) (NNP SLAM) (NN framework)) (PP (IN with) (NP (JJ high) (NN usability) (CC and) (NN extensibility)))))) (. .))
+(S (NP (JJ Visual) (NNP SLAM) (NNS systems)) (VP (VBP are) (ADJP (JJ essential) (PP (IN for) (NP (NP (NNP AR) (NNS devices)) (, ,) (NP (NP (JJ autonomous) (NN control)) (PP (IN of) (NP (NNS robots) (CC and) (NNS drones)))) (, ,) (NP (FW etc)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ conventional) (JJ open-source) (JJ visual) (NNP SLAM) (NNS frameworks)) (VP (VBP are) (RB not) (VP (ADVP (RB appropriately)) (VBN designed) (PP (IN as) (NP (NP (NNS libraries)) (VP (VBN called) (PP (IN from) (NP (JJ third-party) (NNS programs)))))))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT this) (NN situation))))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN developed) (NP (DT a) (JJ novel) (JJ visual) (NNP SLAM) (NN framework)))) (. .))
+(S (NP (DT This) (NN software)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB be) (VP (ADVP (RB easily)) (VBN used) (CC and) (VBN extended))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ incorporates) (NP (NP (JJ several) (JJ useful) (NNS features) (CC and) (NNS functions)) (PP (IN for) (NP (NN research) (CC and) (NN development))))) (. .))
+(S (NP (NNP OpenVSLAM)) (VP (VBZ is) (VP (VBN released) (PP (IN at) (NP (DT this) (NN https) (NNP URL))) (PP (IN under) (NP (DT the) (JJ 2-clause) (NNP BSD) (NN license))))) (. .))

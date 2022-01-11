@@ -1,0 +1,2 @@
+(S (NP (NN Astro-WISE)) (VP (VBZ is) (NP (NP (DT a) (JJ scientific) (NN information) (NN system)) (PP (IN for) (NP (NP (DT the) (NN data) (NN processing)) (PP (IN of) (NP (JJ optical) (NNS images))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VP (VBP review) (NP (NP (JJ main) (NNS features)) (PP (IN of) (NP (NN Astro-WISE))))) (CC and) (VP (VB describe) (NP (NP (DT the) (JJ current) (NN status)) (PP (IN of) (NP (DT the) (NN system)))))) (. .))

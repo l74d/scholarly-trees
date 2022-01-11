@@ -1,0 +1,1 @@
+(S (NP (DT These) (NNS algorithms)) (VP (VBP underlie) (NP (NP (DT the) (ADJP (CD three) (HYPH -) (JJ dimensional)) (NN illustration)) (CC and) (NP (NP (NN typography) (NNS features)) (PP (IN of) (NP (DT the) (ADJP (NP (NNP TeX)) (HYPH -) (JJ aware)) (NML (NML (NN vector) (NNS graphics)) (NN language)) (NNP Asymptote)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (ADJP (RB efficiently) (VBN computed)) (NN graph) (JJ metric) (NNS matrices)) (VP (VBP outperform) (NP (NP (NNS metrics)) (VP (VBD learned) (S (VP (VBG using) (NP (VBG competing) (NNS methods)))))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN classification) (NNS tasks))))))))) (. .))

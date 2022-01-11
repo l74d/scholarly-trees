@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (DT the) (NN wire) (NN calculus))) (. .))
+(S (NP (PRP$ Its) (JJ dynamic) (NNS features)) (VP (VBP are) (VP (VBN inspired) (PP (IN by) (NP (NP (NP (NNP Milner) (POS 's)) (NN CCS)) (: :) (NP (NP (DT a) (JJ unary) (NN prefix) (NN operation)) (, ,) (NP (JJ binary) (NN choice)) (CC and) (NP (DT a) (JJ standard) (NN recursion) (NN construct))))))) (. .))
+(S (PP (RB Instead) (PP (IN of) (NP (DT an) (NN interleaving) (NN parallel) (NN composition) (NN operator)))) (NP (EX there)) (VP (VBP are) (NP (NP (NNS operators)) (PP (IN for) (NP (NP (NN synchronisation)) (PP (IN along) (NP (NP (DT a) (JJ common) (NN boundary)) (CC and) (NP (JJ non-communicating) (JJ parallel) (NN composition)))))))) (. .))
+(S (NP (DT The) (ADJP (-LRB- -LRB-) (JJ operational) (-RRB- -RRB-)) (NNS semantics)) (VP (VBZ is) (NP (NP (DT a) (VBN labelled) (NN transition) (NN system)) (VP (VBN obtained) (PP (IN with) (NP (NNP SOS) (NNS rules)))))) (. .))
+(S (NP (NNP Bisimilarity)) (VP (VBZ is) (NP (NP (DT a) (NN congruence)) (PP (IN with) (NP (NP (NN respect)) (PP (IN to) (NP (NP (DT the) (NNS operators)) (PP (IN of) (NP (DT the) (NN language))))))))) (. .))
+(S (VP (VBG Quotienting) (NP (NNS terms)) (PP (IN by) (NP (NP (NN bisimilarity) (NNS results)) (PP (IN in) (NP (DT a) (ADJP (JJ compact) (JJ closed)) (NN category)))))) (. .))

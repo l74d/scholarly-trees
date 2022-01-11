@@ -1,0 +1,6 @@
+(S (NP (JJ Recent) (VBZ works)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ deep) (JJ neural) (NNS networks)) (VP (VBN trained) (PP (IN on) (NP (NN image) (NN classification) (VB dataset))))) (VP (NN bias) (PP (NNS towards) (NP (NNS textures))))))) (. .))
+(S (NP (DT Those) (NNS models)) (VP (VBP are) (VP (ADVP (RB easily)) (VBN fooled) (PP (IN by) (S (VP (VBG applying) (NP (JJ small) (NN high-frequency) (NNS perturbations)) (PP (TO to) (NP (VB clean) (NNS images)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP learn) (NP (JJ robust) (NN image) (NN classification) (NNS models)) (PP (IN by) (S (VP (VBG removing) (NP (NN high-frequency) (NNS components)))))) (. .))
+(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ differentiable) (NN high-frequency) (NN suppression) (NN module)) (VP (VBN based) (PP (IN on) (NP (NP (JJ discrete) (NNP Fourier) (NN transform)) (PRN (-LRB- -LRB-) (NP (NNP DFT)) (-RRB- -RRB-))))))) (. .))
+(S (S (VP (VBG Combining) (PP (IN with) (NP (JJ adversarial) (NN training))))) (, ,) (NP (PRP we)) (VP (VBD won) (NP (NP (DT the) (JJ 5th) (NN place)) (PP (IN in) (NP (DT the) (NNP IJCAI-2019) (NNP Alibaba) (NNP Adversarial) (NNP AI) (NNP Challenge))))) (. .))
+(S (NP (PRP$ Our) (NN code)) (VP (VBZ is) (ADJP (JJ available)) (ADVP (NN online))) (. .))

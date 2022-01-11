@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP define) (NP (NP (NP (DT an) (NN equivalence) (NN relation)) (PP (IN on) (NP (NNS propositions)))) (CC and) (NP (NP (DT a) (NN proof) (NN system)) (SBAR (WHADVP (WRB where)) (S (NP (JJ equivalent) (NNS propositions)) (VP (VBP have) (NP (DT the) (JJ same) (NN proofs)))))))) (. .))
+(S (NP (NP (DT The) (NN system)) (VP (VBD obtained) (NP (DT this) (NN way)))) (VP (VBZ resembles) (NP (JJ several) (VBN known) (ADJP (JJ non-deterministic) (CC and) (JJ algebraic)) (NN lambda-calculi))) (. .))

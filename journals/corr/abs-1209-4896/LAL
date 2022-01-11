@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (NNP Microsoft) (NNP PowerPoint) (NN presentation) (NNS files)) (S (VP (TO to) (VP (VB generate) (NP (NP (ADJP (NNP HTML5) (VBN based)) (JJ interactive) (JJ e-learning) (NNS courses)) (VP (VBN packaged) (PP (IN in) (NP (NNP SCORM) (NN format))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NP (DT the) (JJ second) (NN part)) (PP (IN of) (NP (PRP$ our) (NN paper))))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB embed) (NP (PDT such) (DT a) (VBG crossing) (JJ metric)) (, ,) (PP (IN into) (NP (NNS high-dimensions))) (, ,) (SBAR (IN so) (IN that) (S (NP (DT the) (NNS distances)) (VP (VBP are) (VP (VBN preserved)))))))))) (. .))
+(S (NP (NNS Applications)) (VP (VBP include) (NP (NP (VBG matching)) (, ,) (NP (VBG clustering)) (, ,) (ADJP (JJ nearest-neighbor)) (, ,) (CC and) (NP (NN furthest-neighbor)))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN algorithm)) (VP (VBZ is) (VP (VBN aimed) (PP (IN at) (S (VP (VBG solving) (NP (NP (NN coverage) (NNS problems)) (PP (IN in) (NP (ADJP (PRP self) (VBD organized)) (NN wireless) (NNS networks))))))))) (. .))
+(S (NP (DT The) (JJ first) (NN application)) (VP (NNS detects) (NP (NN coverage) (NNS holes)) (SBAR (IN while) (S (NP (DT the) (JJ later) (CD one)) (VP (VBZ optimizes) (NP (NP (NN coverage)) (PP (IN of) (NP (NN wireless) (NNS networks)))))))) (. .))

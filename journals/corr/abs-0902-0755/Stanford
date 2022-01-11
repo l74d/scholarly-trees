@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (NN procedure)) (PP (IN for) (NP (NP (JJ bibliographic) (NN author) (NN metadata) (NN extraction)) (PP (IN from) (NP (JJ scholarly) (NNS texts)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (S (NP (DT The) (NN author) (NNS segments)) (VP (VBP are) (VP (VBN identified) (PP (VBN based) (PP (IN on) (NP (NN capitalization))))))) (CC and) (S (NP (NN line)) (VP (VBP break) (NP (NNS patterns)))) (. .))
+(S (NP (NP (CD Two) (JJ main) (NN author) (NN layout) (NNS templates)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB retrieve) (PP (IN from) (NP (NP (DT a) (JJ varied) (NN set)) (PP (IN of) (NP (NN title) (NNS pages))))))))) (, ,)) (VP (VBP are) (VP (VBN provided))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (JJ several) (VBG disambiguating) (NNS rules)) (VP (VBP are) (VP (VBN described))) (. .))

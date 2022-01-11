@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (NP (NP (DT a) (NN discussion)) (PP (IN about) (NP (NP (DT the) (NN relationship)) (PP (IN between) (NP (NN time) (CC and) (NN information))))))) (. .))
+(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (NP (DT the) (NN direction)) (PP (IN of) (NP (NP (NN arrow)) (PP (IN of) (NP (NN time)))))) (VP (VBZ is) (VP (VBN related) (PP (TO to) (NP (NP (DT the) (NN directivity)) (PP (IN of) (NP (NP (NN information) (NN copying)) (SBAR (WHNP (WDT that)) (S (VP (VBZ occurs) (PP (IN in) (NP (NNP Nature))))))))))))))) (. .))

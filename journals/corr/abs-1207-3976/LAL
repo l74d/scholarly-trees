@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (ADJP (RB fully) (JJ dynamic)) (NN algorithm)) (PP (IN for) (S (VP (VBG maintaining) (NP (JJ approximate) (JJ maximum) (NN weight) (VBG matching)) (PP (IN in) (NP (JJ general) (JJ weighted) (NN graphs)))))))) (. .))
+(S (S (VP (VBG Using) (NP (DT a) (JJ simple) (JJ randomized) (NN scaling) (NN technique)))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT a) (NN matching)) (PP (NN whith) (NP (NP (VBN expected) (NN approximation) (NN ratio)) (NP (CD 4.9108)))))))))) (. .))

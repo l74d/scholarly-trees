@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN document)) (VP (VBZ regroups) (NP (NP (DT a) (ADJP (NN representative) (, ,) (CC but) (JJ non-exhaustive) (, ,)) (NN list)) (PP (IN of) (NP (JJ contemporary) (NNP IoT) (NNS platforms))))) (. .))
+(S (NP (DT The) (NNS platforms)) (VP (VBP are) (VP (VBN ordered) (ADVP (RB alphabetically)))) (. .))
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN document)))) (VP (VBZ is) (S (VP (TO to) (VP (VB provide) (NP (DT the)) (NP (NP (NP (DT a) (JJ quick) (NN review)) (PP (IN of) (NP (JJ current) (NNP IoT) (NNS platforms)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (JJ relevant) (NN information))))))) (. .))

@@ -1,0 +1,6 @@
+(S (NP (NP (DT An) (JJ open-source) (NNP Mandarin) (NN speech) (NN corpus)) (VP (VBN called) (S (NP (NNP AISHELL-1))))) (VP (VBZ is) (VP (VBN released))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (IN by) (RB far)) (NP (NP (DT the) (JJS largest) (NN corpus)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (S (VP (VP (VBG conducting) (NP (DT the) (NN speech) (NN recognition) (NN research))) (CC and) (VP (NN building) (NP (NP (NN speech) (NN recognition) (NNS systems)) (PP (IN for) (NP (NNP Mandarin)))))))))))))) (. .))
+(S (NP (NP (DT The) (NN recording) (NN procedure)) (, ,) (PP (VBG including) (NP (JJ audio) (NN capturing) (NNS devices) (CC and) (NNS environments)))) (VP (VBP are) (VP (VBN presented) (PP (IN in) (NP (NNS details))))) (. .))
+(S (NP (NP (DT The) (NN preparation)) (PP (IN of) (NP (NP (DT the) (JJ related) (NNS resources)) (, ,) (PP (VBG including) (NP (NNS transcriptions) (CC and) (NN lexicon)))))) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (DT The) (NN corpus)) (VP (VBZ is) (VP (VBN released) (PP (IN with) (NP (DT a) (NNP Kaldi) (NN recipe))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (NNS implies) (SBAR (IN that) (S (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (JJ audio) (NNS recordings) (CC and) (NNS transcriptions)))) (VP (VBP are) (ADJP (VBG promising)))))) (. .))

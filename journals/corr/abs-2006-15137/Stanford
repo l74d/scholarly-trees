@@ -1,0 +1,2 @@
+(S (NP (NP (NN Escalation)) (PP (IN in) (NP (NNS games)))) (VP (VBZ is) (SBAR (WHADVP (WRB when)) (S (NP (NNS agents)) (VP (VBP keep) (S (VP (VBG playing) (ADVP (RB forever)))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (JJ formal) (NNS proofs)))) (NP (PRP we)) (VP (VBP claim) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NNS agents)) (VP (VBP assume) (SBAR (IN that) (S (NP (NN resource)) (VP (VBP are) (ADJP (JJ infinite)))))))) (, ,) (NP (NN escalation)) (VP (VBZ is) (ADJP (JJ rational)))))) (. .))

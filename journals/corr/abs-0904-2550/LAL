@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN survey)) (VP (VBZ gives) (NP (NP (DT a) (JJ brief) (NN overview)) (PP (IN of) (NP (NP (ADJP (ADVP (RB theoretically) (CC and) (RB practically)) (JJ relevant)) (NN algorithms)) (SBAR (S (VP (TO to) (VP (VB compute) (NP (JJ geodesic) (NNS paths) (CC and) (NNS distances)) (PP (IN on) (NP (JJ three-dimensional) (NNS surfaces))))))))))) (. .))
+(S (NP (DT The) (NN survey)) (VP (VBZ focuses) (PP (IN on) (NP (JJ polyhedral) (JJ three-dimensional) (NNS surfaces)))) (. .))

@@ -1,0 +1,6 @@
+(S (NP (NNP General) (JJ cryptographic) (NNS schemes)) (VP (VBP are) (VP (VBN presented) (SBAR (WHADVP (WRB where)) (S (NP (NNS keys)) (VP (MD can) (VP (VB be) (UCP (NP (CD one) (HYPH -) (NN time)) (CC or) (ADJP (JJ ephemeral))))))))) (. .))
+(S (NP (NP (NNS Processes)) (PP (IN for) (NP (JJ key) (NN exchange)))) (VP (VBP are) (VP (VBN derived))) (. .))
+(S (NP (NP (JJ Public) (JJ key) (JJ cryptographic) (NNS schemes)) (PP (VBN based) (PP (IN on) (NP (DT the) (JJ new) (NNS systems))))) (VP (VBP are) (ADVP (RB easily)) (VP (VBN established))) (. .))
+(S (NP (NML (NN Authentication) (CC and) (NN signature)) (NNS schemes)) (VP (VBP are) (VP (VBN implemented))) (. .))
+(S (NP (DT The) (NNS schemes)) (VP (VP (VBP are) (NP (NP (DT an) (NN advance)) (PP (IN on) (NP (NN group) (NN ring) (NNS techniques))))) (CC and) (VP (VBP are) (ADVP (RB easily)) (UCP (VP (VBN implemented)) (CC but) (ADJP (RB highly) (JJ secure))))) (. .))
+(S (NP (PRP They)) (VP (MD may) (VP (VB be) (VP (VBN integrated) (PP (IN with) (NP (ADJP (NN error) (HYPH -) (VBG correcting)) (VBG coding) (NNS schemes))) (SBAR (IN so) (IN that) (S (NP (NML (NN encryption) (HYPH /) (NN coding)) (CC and) (NML (NN decryption) (HYPH /) (NN decoding))) (VP (MD may) (VP (VB be) (VP (VBN done) (ADVP (RB simultaneously)))))))))) (. .))

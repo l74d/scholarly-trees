@@ -1,0 +1,4 @@
+(S (NP (NP (DT An) (NN evolving) (VBD weighted) (JJ neuro-neo-fuzzy-ANARX) (NN model)) (CC and) (NP (PRP$ its) (NN learning) (NNS procedures))) (VP (VBP are) (VP (VBN introduced) (PP (IN in) (NP (DT the) (NN article))))) (. .))
+(S (NP (DT This) (NN system)) (VP (VBZ is) (ADVP (RB basically)) (VP (VBN used) (PP (IN for) (NP (NN time) (NN series) (NN forecasting))))) (. .))
+(S (NP (DT This) (NN system)) (VP (MD may) (VP (VB be) (VP (VBN considered) (PP (IN as) (NP (NP (DT a) (NN pool)) (PP (IN of) (NP (NP (NNS elements)) (SBAR (WHNP (WDT that)) (S (VP (VBP process) (NP (NNS data)) (PP (IN in) (NP (DT a) (JJ parallel) (NN manner))))))))))))) (. .))
+(S (NP (DT The) (VBN proposed) (NN evolving) (NN system)) (VP (MD may) (VP (VB provide) (NP (NN online) (NN processing) (NNS data) (NNS streams)))) (. .))

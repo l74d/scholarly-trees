@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN algorithm)) (PP (IN for) (NP (NP (JJ constructive) (NN recognition)) (PP (IN of) (NP (DT the) (NNP Suzuki) (NNS groups))) (PP (IN in) (NP (PRP$ their) (JJ natural) (NNS representations))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ runs) (PP (IN in) (NP (NNP Las) (NNP Vegas) (JJ polynomial) (NN time))) (PP (VBN given) (NP (DT a) (JJ discrete) (NN logarithm) (NN oracle)))) (. .))
+(S (NP (DT An) (NN implementation)) (VP (VBZ is) (ADJP (JJ available)) (PP (IN in) (NP (DT the) (NNP Magma) (NN computer) (NN algebra) (NN system)))) (. .))

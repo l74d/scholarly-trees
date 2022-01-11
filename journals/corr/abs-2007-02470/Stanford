@@ -1,0 +1,1 @@
+(S (NP (NP (DT This) (NN type)) (PP (IN of) (NP (JJ non-asymptotic) (NN inference)))) (VP (VBZ results) (SBAR (S (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB design) (NP (ADJP (JJR safer) (CC and) (JJR more)) (JJ robust) (ADJP (JJ dynamic)) (NN pricing) (NNS algorithms)) (PP (IN in) (NP (NN practice)))))))))) (. .))

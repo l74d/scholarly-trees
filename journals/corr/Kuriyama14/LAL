@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBD generalized) (NP (NP (DT the) (NN class)) (PP (IN of) (NP ($ $) (NN k) (, ,) (JJ l) ($ $) (JJ -substitutable) (NNS languages)))) (PRN (-LRB- -LRB-) (NP (NP (NNP Yoshinala)) (, ,) (NP (CD 2008))) (-RRB- -RRB-))) (. .))
+(S (NP (NP (DT Each) (NN language)) (PP (IN in) (NP (DT the) (JJ generalized) (NN class)))) (VP (VBZ is) (VP (VBN closed) (PP (IN under) (NP (DT a) (JJ good) (NN substitutability))))) (. .))
+(S (NP (DT The) (NN substitutability)) (VP (VBZ is) (VP (VBN defined) (PP (IN by) (NP (DT a) (JJ recognizable) (NN equivalence) (NN relation))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (PRP$ our) (JJ generalized) (NN learning) (NN algorithm))))) (. .))
+(S (NP (NP (DT The) (NN size)) (PP (IN of) (NP (DT the) (JJ characteristic) (NN sample)))) (VP (VBZ is) (ADJP (ADJP (JJR smaller)) (PP (IN than) (NP (NNP Yoshinaka) (POS 's))))) (. .))

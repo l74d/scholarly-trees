@@ -1,0 +1,3 @@
+(S (NP (NP (NNP Protection)) (PP (IN of) (NP (DT the) (JJ sensitive) (NN content)))) (VP (VBZ is) (ADJP (JJ crucial) (PP (IN for) (NP (JJ extensive) (NN information) (NN sharing))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN technique)) (PP (IN of) (NP (NP (NN information)) (VP (VBG concealing))))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (NN introduction) (CC and) (NN maintenance)) (PP (IN of) (NP (NP (NNS families)) (PP (IN of) (NP (NNS repeats))))))))) (. .))
+(S (NP (NP (NNS Repeats)) (PP (IN in) (NP (NN DNA)))) (VP (VBP constitute) (NP (NP (DT a) (JJ basic) (NN obstacle)) (PP (IN for) (NP (PRP$ its) (NN reconstruction)))) (PP (IN by) (NP (NN hybridization)))) (. .))

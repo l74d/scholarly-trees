@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN family)) (PP (IN of) (NP (NP (NN multivariate) (NNS wavelets)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN obtained) (PP (IN by) (`` ``) (NP (JJ polyharmonic) (NN subdivision)) ('' '')))))))))) (. .))
+(S (NP (PRP They)) (VP (VBP generalize) (ADVP (RB directly)) (NP (DT the) (JJ original) (ADJP (RB compactly) (VBN supported)) (NNP Daubechies) (NNS wavelets))) (. .))

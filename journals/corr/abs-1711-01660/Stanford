@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN guarantee)) (VP (VP (VBZ matches) (NP (DT the) (VBN known) (NN hardness) (NNS results))) (CC and) (VP (VBZ closes) (NP (NP (DT the) (NN gap)) (PP (IN between) (NP (NP (JJ deterministic)) (CC and) (NP (JJ stochastic) (JJ continuous) (JJ submodular) (NN maximization))))))) (. .))

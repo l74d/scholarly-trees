@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP give) (PP (IN in) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ logical) (NN characterization)) (PP (IN for) (NP (JJ unambiguous) (NML (NNP Context) (NNP Free)) (NNPS Languages)))) (, ,) (PP (IN in) (NP (NP (DT the) (NN vein)) (PP (IN of) (NP (JJ descriptive) (NN complexity)))))) (. .))
+(S (NP (PRP We)) (VP (VBP obtain) (NP (NP (DT a) (JJ new) (NN connection)) (PP (IN between) (NP (NP (CD two) (JJ undecidable) (NNS problems)) (, ,) (NP (DT a) (JJ logical) (CD one)) (CC and) (NP (DT a) (NN language) (JJ theoretical) (NN one)))))) (. .))

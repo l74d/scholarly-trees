@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN democratization)) (PP (IN of) (NP (JJ wireless) (NNS networks)))) (VP (VBN combined) (PP (IN to) (NP (NP (DT the) (NN emergence)) (PP (IN of) (NP (NML (JJ mobile) (NNS devices)) (ADJP (RB increasingly) (JJ autonomous) (CC and) (JJ efficient)) (NN lead))))) (PP (IN to) (NP (JJ new) (NNS services)))) (. .))
+(S (NP (NN Positioning) (NNS services)) (VP (VBP become) (ADJP (JJ overcrowded))) (. .))
+(S (NP (NN Accuracy)) (VP (VBZ is) (NP (NP (DT the) (JJ main) (NN quality) (NNS criteria)) (PP (IN in) (NP (NN positioning))))) (. .))
+(S (CC But) (S (VP (TO to) (ADVP (RB better)) (VP (VB appreciate) (NP (NP (DT this) (CD one)) (NP (DT a) (NN coefficient)))))) (VP (VBZ is) (VP (VBN needed))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (UCP (ADJP (JJ Geometric)) (CC and) (NP (NP (NNP Signal) (NNP Strength) (NNP Dilution)) (PP (IN of) (NP (NNP Precision))))) (NP (NP (-LRB- -LRB-) (NNP DOP) (-RRB- -RRB-)) (PP (IN for) (NP (NP (NN positioning) (NNS systems)) (PP (VBN based) (PP (IN on) (NP (NML (NML (NNP Wi) (HYPH -) (NNP Fi)) (CC and) (NML (NNP Signal) (NNP Strength))) (NNS measurements)))))))) (. .))

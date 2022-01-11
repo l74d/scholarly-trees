@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP describe) (NP (NP (NP (NP (DT an) (NN architecture)) (SBAR (WHNP (WDT which)))) (: :) (NP (NP (NNS Permits)) (NP (DT the) (NN deployment)))) (CC and) (NP (NP (NN execution)) (PP (IN of) (NP (NP (NNS components)) (PP (IN in) (NP (JJ appropriate) (JJ geographical) (NNS locations)))))))) (. .))
+(S (VP (VBZ Provides) (NP (NP (NN security) (NNS mechanisms)) (SBAR (WHNP (WDT that)) (S (VP (VBP prevent) (NP (NP (NN misuse)) (PP (IN of) (NP (DT the) (NN architecture))))))))) (. .))
+(S (VP (VBZ Supports) (NP (NP (DT a) (NN programming) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ familiar) (PP (IN to) (NP (NN application) (NNS programmers))))))))) (. .))
+(S (NP (NNS Permits)) (VP (VBN installed) (NP (NNS components)) (S (VP (TO to) (VP (VB share) (NP (NNS data)))))) (. .))
+(NP (NP (NNS Permits)) (SBAR (S (NP (DT the) (VBN deployed) (NNS components)) (VP (TO to) (VP (VB communicate) (PP (IN via) (NP (NN communication) (NNS channels))))))) (. .))
+(S (VP (VBZ Provides) (NP (NN evolution) (NNS mechanisms)) (S (VP (VBG permitting) (NP (NP (DT the) (JJ dynamic) (NN rearrangement)) (PP (IN of) (NP (NN inter-connection) (NNS topologies)))) (NP-TMP (NP (DT the) (NNS components)) (SBAR (WHNP (WDT that)) (S (NP (PRP they)) (VP (VBP connect)))))))) (. .))
+(S (VP (VBZ Supports) (NP (NP (DT the) (NN specification) (CC and) (NN deployment)) (PP (IN of) (NP (VBN distributed) (NN component) (NNS deployments))))) (. .))

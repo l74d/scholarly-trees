@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN stochastic) (VBD nested) (NN composition) (NN optimization) (NN problem)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN objective)) (VP (VBZ is) (NP (NP (DT a) (NN composition)) (PP (IN of) (NP (CD two) (JJ expected-value) (NNS functions))))))))) (. .))
+(S (NP (PRP We)) (VP (VBD proposed) (NP (DT the) (JJ stochastic) (NNP ADMM)) (S (VP (TO to) (VP (VB solve) (NP (DT this) (JJ complicated) (NN objective)))))) (. .))

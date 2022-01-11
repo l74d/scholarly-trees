@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN algorithm)) (VP (VBZ applies) (PP (IN to) (NP (DT both) (ADJP (VBN directed) (CC and) (JJ undirected)) (NNS graphs)))) (. .))
+(S (PP (IN In) (NP (NP (JJ previous) (JJ linear) (NN time) (NNS algorithms)) (PP (IN for) (NP (DT this) (NN problem))))) (, ,) (NP (NP (DT the) (NN runtime) (NN dependence)) (PP (IN on) (NP (NP ($ $) (CD k)) (NP ($ $))))) (VP (VBZ is) (ADJP (JJ super-exponential))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBD performed) (NP (NNS experiments)) (PP (IN on) (NP (ADJP (DT both) (JJ synthetic) (CC and) (JJ real)) (NNP CT) (NNS scans)))) (CC and) (VP (VBD evaluated) (NP (NP (JJ deep) (ADJP (RB fully) (JJ convolutional)) (NNS architectures)) (PP (IN with) (NP (DT both) (CD 2D) (CC and) (CD 3D) (NNS kernels)))))) (. .))
+(S (NP (PRP$ Our) (JJ artificial) (JJ neural) (NNS networks)) (VP (VBP outperform) (NP (VBG existing) (NNS methods)) (PP (IN at) (NP (ADJP (DT both) (NN medium) (CC and) (JJ low)) (NN resolution) (NNS scans)))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT The) (NN inequality)) (VP (VBZ is) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (NP (NP (NN identity)) (PP (IN in) (NP (CD two) (NNS dimensions))))))))) (. .))
+(S (NP (DT The) (VBG resulting) (NN error) (NN estimator)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (ADVP (RB globally)) (JJ reliable)) (CC and) (ADJP (RB locally) (JJ efficient)))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NN reliability)) (CC and) (NP (NN efficiency) (NNS constants))) (VP (VBP are) (ADJP (JJ independent) (PP (IN of) (NP (NP (DT the) (NN jump)) (PP (IN of) (NP (DT the) (NN diffusion) (NN coefficient)))))) (ADVP (RB regardless) (PP (IN of) (NP (PRP$ its) (NN distribution))))) (. .))

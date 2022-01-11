@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP develop) (NP (CD two) (NNS algorithms)) (S (VP (VBG using) (NP (JJ different) (NNS approaches))))) (. .))
+(S (NP (DT Both) (NNS algorithms)) (VP (VBP return) (NP (NP (DT a) (VBN reduced) (NNS sub-bases)) (SBAR (WHNP (WDT that)) (S (VP (VBZ generates) (NP (NP (DT the) (JJ complete) (NN set)) (PP (IN of) (NP (NNS solutions)))) (PP (IN to) (NP (NP (DT the) (NN input) (NNS approximations) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBP satisfy) (NP (DT the) (VBN given) (NN degree) (NNS constraints)))))))))))) (. .))

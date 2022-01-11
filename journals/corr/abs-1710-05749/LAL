@@ -1,0 +1,6 @@
+(S (NP (NP (CD Two) (JJ critical) (NNS steps)) (PP (IN in) (NP (NN fingerprint) (NN recognition)))) (VP (VBP are) (NP (NP (NN binarization) (CC and) (NN thinning)) (PP (IN of) (NP (DT the) (NN image))))) (. .))
+(S (NP (NP (DT The) (NN need)) (PP (IN for) (NP (JJ real) (NN time) (NN processing)))) (VP (NNS motivates) (S (NP (PRP us)) (VP (TO to) (VP (VB select) (NP (NP (JJ local) (JJ adaptive) (NN thresholding) (NN approach)) (PP (IN for) (NP (DT the) (NN binarization) (NN step)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN hardware)) (PP (IN for) (NP (DT this) (NN purpose))) (VP (VBN based) (PP (IN on) (NP (NN pipeline) (NN architecture)))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN formula)) (PP (IN for) (S (VP (VBG selecting) (NP (DT an) (JJ optimal) (NN block) (NN size)) (PP (IN for) (NP (DT the) (NN thresholding) (NN purpose)))))))) (. .))
+(S (S (VP (TO To) (VP (VB decrease) (NP (NN minutiae) (JJ false) (NN detection))))) (, ,) (NP (DT the) (JJ binarized) (NN image)) (VP (VBZ is) (VP (VBN dilated))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP present) (PP (IN in) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ new) (NN pipeline) (NN structure)) (PP (IN for) (S (VP (VBG implementing) (NP (DT the) (NN thinning) (NN algorithm))))))))

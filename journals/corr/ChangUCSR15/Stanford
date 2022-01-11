@@ -1,0 +1,5 @@
+(S (NP (NN IllinoisSL)) (VP (VBZ is) (NP (NP (DT a) (NNP Java) (NN library)) (PP (IN for) (S (VP (VBG learning) (NP (JJ structured) (NN prediction) (NNS models))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ supports) (NP (JJ structured) (NN Support)) (NP (NP (NNP Vector) (NNPS Machines)) (CC and) (NP (VBN structured) (NNP Perceptron)))) (. .))
+(S (NP (DT The) (NN library)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT a) (NML (NN core) (NN learning)) (NN module)) (CC and) (NP (NP (JJ several) (NNS applications)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN executed) (PP (IN from) (NP (NN command) (HYPH -) (NNS lines)))))))))))) (. .))
+(S (NP (NN Documentation)) (VP (VBZ is) (VP (VBN provided) (S (VP (TO to) (VP (VB guide) (NP (NNS users))))))) (. .))
+(S (PP (IN In) (NP (NP (NN Comparison)) (PP (IN to) (NP (JJ other) (JJ structured) (NN learning) (NNS libraries))))) (, ,) (NP (NN IllinoisSL)) (VP (VBZ is) (ADJP (JJ efficient) (, ,) (JJ general) (, ,) (CC and) (JJ easy)) (S (VP (TO to) (VP (VB use))))) (. .))

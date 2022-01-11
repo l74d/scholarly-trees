@@ -1,0 +1,2 @@
+(S (ADVP (RB Interestingly)) (, ,) (NP (DT the) (NNS coefficients)) (VP (VBP are) (NP (NP (NNS subpermanents)) (PP (IN of) (NP (DT some) (JJ non-negative) (NN matrix))))) (. .))
+(S (NP (JJ Such) (NN log-concavity)) (VP (VBD was) (VP (VBN conjectured) (PP (IN in) (NP (NN arXiv:0903.1952))))) (. .))

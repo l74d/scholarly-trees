@@ -1,0 +1,2 @@
+(S (NP (DT this)) (VP (VBZ is) (NP (DT a) (JJ duplicate) (NN submission) (PRN (-LRB- -LRB-) (S (NP (NN original)) (VP (VBZ is) (NP (NP (NN arXiv)) (: :) (NP (CD 1612.02141))))) (-RRB- -RRB-)))) (. .))
+(S (ADVP (RB Hence)) (VP (VB want) (S (VP (TO to) (VP (VB withdraw) (NP (PRP it)))))))

@@ -1,0 +1,6 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (NN ranking) (NN problem)) (PP (IN of) (NP (NP (NNS candidates)) (PP (IN for) (NP (DT a) (JJ certain) (NN position)))))) (PP (VBN based) (PP (IN on) (NP (NP (NN ballot) (NNS papers)) (VP (VBN filled) (PP (IN by) (NP (NNS voters)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP suggest) (NP (NP (DT a) (VBG ranking) (NN procedure)) (PP (IN of) (NP (NP (NNS alternatives)) (VP (VBG using) (NP (JJ cooperative) (NN game) (NN theory) (NNS methods))))))) (. .))
+(S (PP (IN For) (NP (DT this))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ necessary) (S (VP (TO to) (VP (VB construct) (NP (NP (DT a) (JJ characteristic) (NN function)) (PP (IN via) (NP (NP (DT the) (ADJP (VBN filled) (NN ballot)) (NN paper) (NN profile)) (PP (IN of) (NP (NNS voters))))))))))) (. .))
+(S (NP (DT The) (NNP Shapley) (NN value)) (VP (VBZ serves) (PP (IN as) (NP (DT the) (NN ranking) (NN method)))) (. .))
+(S (NP (DT The) (NN winner)) (VP (VBZ is) (NP (NP (DT the) (NN candidate)) (VP (VBG having) (NP (DT the) (JJ maximum) (NNP Shapley) (NN value))))) (. .))
+(S (CC And) (ADVP (RB finally)) (, ,) (NP (PRP we)) (VP (VBP explore) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT the) (VBN designed) (NN ranking) (NN procedure))))) (. .))

@@ -1,0 +1,8 @@
+(S (NP (NP (DT A) (JJ new) (NN management) (NN system)) (PP (IN for) (NP (NP (DT the) (NNP SND) (NN detector) (NNS experiments)) (-LRB- -LRB-) (PP (IN at) (NP (NP (NML (NN VEPP) (HYPH -) (CD 2000)) (NN collider)) (PP (IN in) (NP (NNP Novosibirsk))))) (-RRB- -RRB-)))) (VP (VBZ is) (VP (VBN developed))) (. .))
+(S (NP (PRP We)) (VP (VBP describe) (ADVP (RB here)) (NP (NP (DT the) (NN interaction)) (PP (IN between) (NP (NP (DT a) (NN user)) (CC and) (NP (DT the) (NNP SND) (NNS databases)))))) (. .))
+(S (NP (DT These) (NNS databases)) (VP (VBP contain) (NP (NN experiment) (NN configuration) (, ,) (NNS conditions) (CC and) (NN metadata))) (. .))
+(S (NP (DT The) (JJ new) (NN system)) (VP (VBZ is) (VP (VBN designed) (PP (IN in) (NP (NN client) (HYPH -) (NN server) (NN architecture))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (NP (NP (JJ several) (JJ logical) (NNS layers)) (VP (VBG corresponding) (PP (IN to) (NP (DT the) (NNS users) (NNS roles)))))) (. .))
+(S (NP (DT A) (JJ new) (NN template) (NN engine)) (VP (VBZ is) (VP (VBN created))) (. .))
+(S (NP (DT A) (NN web) (NN application)) (VP (VBZ is) (VP (VBN implemented) (S (VP (VBG using) (NP (NNS Node.js) (NN framework)))))) (. .))
+(S (S (PP (IN At) (NP (DT the) (NN time))) (NP (DT the) (NN application)) (VP (VBZ provides) (: :) (S (S (VP (VBG showing) (CC and) (VBG editing) (NP (NN configuration)))) (: ;) (S (VP (VBG showing) (NP (NP (NN experiment) (NN metadata)) (CC and) (NP (NN experiment) (NNS conditions)) (NML (NNS data) (NN index)))))))) (: ;) (S (VP (VBG showing) (NP (JJ SND) (NN log)) (PRN (-LRB- -LRB-) (NP (NN prototype)) (-RRB- -RRB-)))) (. .))

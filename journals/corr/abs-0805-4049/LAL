@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (JJ following) (NN problem)) (VP (VBZ is) (ADJP (JJ NP-hard)))) (: :) (S (PP (VBN given) (NP (NP (DT a) (JJ regular) (NN expression)) (NP ($ $) (NNP E) ($ $)))) (, ,) (VP (VB decide) (SBAR (IN if) (S (NP ($ $) (NNP E^*) ($ $)) (VP (VBZ is) (RB not) (ADJP (JJ co-finite))))))) (. .))

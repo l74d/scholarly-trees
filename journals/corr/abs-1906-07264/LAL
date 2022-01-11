@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP review) (NP (NP (VBN modified) (NNP Cahn-Hilliard) (NN equation)) (PP (IN for) (NP (NN image) (NN inpainting))))) (CC and) (VP (VB explore) (NP (DT the) (NN effect)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ initial) (NN condition)) (VP (VBZ is) (ADJP (JJ uncertain))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ statistical) (NNS properties)) (PP (IN of) (NP (DT the) (NN solution)))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN noise)) (VP (VBZ is) (ADJP (JJ present)))))) (. .))
+(S (NP (NP (DT The) (JJ generalized) (JJ polynomial) (NN chaos)) (CC and) (NP (DT the) (NN perturbation) (NN expansion))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB analyze) (NP (DT the) (NN equation))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP are) (VP (VBN attached) (PP (IN for) (NP (NP (NN comparison)) (PP (IN of) (NP (NN solution) (NN behavior))))))) (. .))

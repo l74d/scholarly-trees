@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (ADJP (NN discrete) (NNP Hilbert) (FRAG (WHNP (NN transform) (PRN (-LRB- -LRB-) (NNP DHT) (-RRB- -RRB-)))) (VBN based)) (NN measure)) (PP (IN of) (NP (NN randomness))) (PP (IN for) (NP (JJ discrete) (NNS sequences))))) (. .))
+(S (NP (DT The) (NN measure)) (VP (VBZ has) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB test) (NP (NP (CD three) (JJ different) (NNS classes)) (PP (IN of) (NP (NNS sequences)))) (PP (IN with) (NP (JJ satisfactory) (NNS results))))))))) (. .))

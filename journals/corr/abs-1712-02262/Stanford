@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN of) (NP (NML (NN coding) (HYPH /) (NN decoding)) (NNS algorithms)))) (S (VP (VBG using) (NP (NNP Fibonacci) (NML ($ $) (CD Q$)) (HYPH -) (NNS matrices))))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (VBN blocked) (NN message) (NNS matrices))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NN advantage)) (PP (IN of) (NP (PRP$ our) (NN model)))) (VP (VBZ is) (NP (NP (DT the) (NN encryption)) (PP (IN of) (NP (NP (DT each) (NN message) (NN matrix)) (PP (IN with) (NP (JJ different) (NNS keys))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VP (MD will) (RB not) (ADVP (RB only)) (VP (VB increase) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NN information)))))) (CC but) (ADVP (RB also)) (VP (VBZ has) (NP (JJ high) (JJ correct) (NN ability)))) (. .))

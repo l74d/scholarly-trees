@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (JJ several) (NN graphs)) (PP (PP (IN of) (NP (ADJP (RB arbitrarily) (JJ large)) (NN rankwidth))) (PRN (-LRB- -LRB-) (CC or) (ADVP (RB equivalently)) (PP (IN of) (NP (ADJP (RB arbitrarily) (JJ large)) (NN cliquewidth))) (-RRB- -RRB-))))) (. .))
+(S (NP (PRP$ Our) (NN construction)) (VP (VBZ provides) (NP (DT an) (JJ explicit) (NN construction))) (. .))

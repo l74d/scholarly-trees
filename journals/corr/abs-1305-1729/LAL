@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (NN converse)) (PP (IN for) (NP (DT the) (NNP Discrete) (NNP Memoryless) (NNP Multiple) (NNP Access) (NNP Channel)))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (S (NP (NP (DT The) (NN result)) (PP (IN in) (NP ($ -LSB-) (CD 13) (NNP -RSB-)))) (VP (VBZ is) (VP (VBN refined)))) (, ,) (CC and) (S (NP (DT the) (JJ third) (NN order) (NN term)) (VP (VBZ is) (VP (VBN obtained)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NN proof)) (VP (VBZ is) (ADJP (ADJP (RB much) (JJR simpler)) (PP (IN than) (NP ($ -LSB-) (CD 13) (NN -RSB-))))) (. .))
+(S (PP (IN With) (NP (JJ little) (NN modification))) (, ,) (NP (DT the) (NN region)) (VP (MD can) (VP (VB be) (ADVP (RB further)) (VP (VBN improved)))) (. .))

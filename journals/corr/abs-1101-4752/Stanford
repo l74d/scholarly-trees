@@ -1,0 +1,2 @@
+(FRAG (VP (VBG Boosting) (NP (NNS combines))) (NP (NP (JJ weak) (NNS learners)) (PP (IN into) (NP (NP (DT a) (NN predictor)) (PP (IN with) (NP (JJ low) (JJ empirical) (NN risk)))))) (. .))
+(NP (NP (NP (PRP$ Its) (JJ dual) (NNS constructs)) (NP (DT a) (JJ high) (NN entropy) (NN distribution))) (SBAR (WHPP (IN upon) (WHNP (WDT which))) (S (NP (JJ weak) (NNS learners) (CC and) (NN training) (NNS labels)) (VP (VBP are) (ADJP (JJ uncorrelated))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN attack)) (PP (IN against) (NP (NNS cryptosystems))) (VP (VBN based) (PP (IN on) (NP (DT the) (NN rank) (JJ metric)))))) (. .))
+(S (NP (PRP$ Our) (NN attack)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB cryptanalyze) (NP (NP (CD two) (NNS variants)) (PP (IN of) (NP (DT the) (NNP GPT) (NN cryptosystem))) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (VP (VBN designed) (S (VP (TO to) (VP (VB resist) (NP (NP (DT the) (NN attack)) (PP (IN of) (NP (NNP Overbeck)))))))))))))))) (. .))

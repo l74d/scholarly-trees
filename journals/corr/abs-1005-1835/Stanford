@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (NP (DT the) (NNP Cerny) (NN conjecture)) (PP (IN for) (NP (NP (CD one) (HYPH -) (NN cluster) (NN automata)) (PP (IN with) (NP (NML (JJ prime) (NN length)) (NN cycle)))))) (. .))
+(S (NP (NNS Consequences)) (VP (VBP are) (VP (VBN given) (PP (IN for) (NP (NP (NML (NML (DT the) (NN hybrid)) (NNP Road)) (HYPH -) (VBG coloring)) (HYPH -) (RRC (NP (NNP Cerny)) (NP (NP (NN conjecture)) (PP (IN for) (NP (NP (NNS digraphs)) (PP (IN with) (NP (NP (DT a) (JJ proper) (NN cycle)) (PP (IN of) (NP (JJ prime) (NN length))))))))))))) (. .))

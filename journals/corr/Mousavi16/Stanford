@@ -1,0 +1,3 @@
+(S (NP (NNP Walnut)) (VP (VBZ is) (NP (NP (DT a) (NN software) (NN package)) (SBAR (WHNP (WDT that)) (S (VP (VBZ implements) (NP (DT a) (JJ mechanical) (NN decision) (NN procedure)) (PP (IN for) (S (VP (VBG deciding) (NP (NP (JJ certain) (JJ combinatorial) (NNS properties)) (PP (IN of) (NP (NP (DT some) (JJ special) (NNS words)) (VP (VBN referred) (PP (IN to) (PP (IN as) (NP (NP (JJ automatic) (NNS words)) (CC or) (NP (JJ automatic) (NNS sequences))))))))))))))))) (. .))
+(S (NP (NNP Walnut)) (VP (VP (VBZ is) (VP (VBN written) (PP (IN in) (NP (NNP Java))))) (CC and) (VP (VBZ is) (NP (JJ open) (NN source)))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN licensed) (PP (IN under) (NP (NML (NNP GNU) (NNP General) (NNP Public)) (NN License))))) (. .))

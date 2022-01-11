@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (ADJP (JJ optimal) (JJ exponential)) (NN error) (NN rate)) (PP (IN for) (NP (NP (JJ adaptive) (NN discrimination)) (PP (IN of) (NP (CD two) (NNS channels)))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (PP (IN In) (NP (DT this) (NN problem))) (, ,) (NP (NP (JJ adaptive) (NN choice)) (PP (IN of) (NP (NN input) (NN signal)))) (VP (VBZ is) (VP (VBN allowed))) (. .))
+(S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN discussed) (PP (IN in) (NP (JJ various) (NNS settings))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN proved) (SBAR (IN that) (S (NP (JJ adaptive) (NN choice)) (VP (VBZ does) (RB not) (VP (VB improve) (NP (NP (DT the) (ADJP (JJ exponential)) (NN error) (NN rate)) (PP (IN in) (NP (DT these) (NNS settings)))))))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP are) (VP (VBN applied) (PP (IN to) (NP (NN quantum) (NN state) (NN discrimination))))) (. .))

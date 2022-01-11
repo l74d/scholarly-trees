@@ -1,0 +1,3 @@
+(S (NP (JJ Several) (VBG pumping) (NN lemmas)) (VP (VBP are) (VP (VBN established) (PP (IN for) (NP (NNP QBAs))))) (. .))
+(S (NP (NP (DT The) (NN closure) (NNS properties)) (PP (IN of) (NP (NP (DT the) (NNS languages)) (VP (VBN accepted) (PP (IN by) (NP (NNP QBAs))))))) (VP (VBP are) (VP (VBN studied) (PP (IN in) (NP (DT the) (ADJP (ADJP (JJ probable)) (, ,) (ADJP (RB almost) (JJ sure)) (CC and) (JJ threshold)) (NNS semantics))))) (. .))
+(S (NP (NP (DT The) (NN decidability)) (PP (IN of) (NP (DT the) (NN emptiness) (NN problem))) (PP (IN for) (NP (NP (DT the) (NNS languages)) (VP (VBN accepted) (PP (IN by) (NP (NNP QBAs))))))) (VP (VBZ is) (VP (VBN proved) (S (VP (VBG using) (NP (DT the) (NNP Tarski-Seidenberg) (NN elimination)))))) (. .))

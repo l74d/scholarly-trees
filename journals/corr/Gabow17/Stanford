@@ -1,0 +1,3 @@
+(S (NP (DT This)) (VP (VBZ results) (PP (IN in) (NP (DT a) (JJ long) (NN derivation)))) (. .))
+(S (NP (PRP We)) (VP (VBP simplify) (NP (DT the) (NN task)) (PP (IN by) (S (VP (VBG employing) (NP (NP (ADJP (RB well) (HYPH -) (VBN known)) (NNS concepts)) (PP (IN for) (NP (JJ maximum) (NN weight) (NN matching)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (NNP Edmonds) (POS ')) (NN algorithm) (S (VP (TO to) (VP (VB derive) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (JJS shortest) (VBG augmenting) (NNS paths))))))))) (. .))

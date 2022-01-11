@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Group)) (CC and) (NP (JJ individual) (NNS solutions))) (VP (VBP are) (VP (VBN considered) (PP (IN for) (NP (NP (JJ hard) (NNS problems)) (PP (JJ such) (IN as) (NP (NN satisfiability) (NN problem))))))) (. .))
+(S (NP (NP (NML (NNP Time) (HYPH -) (NN space)) (NN trade) (HYPH -) (NN off)) (PP (IN in) (NP (DT a) (ADJP (JJ structured) (JJ active)) (NN memory)))) (VP (VBZ provides) (NP (NNS means)) (S (VP (TO to) (VP (VB achieve) (NP (JJR lower) (NN time) (NN complexity)) (PP (IN for) (NP (NP (NNS solutions)) (PP (IN of) (NP (DT these) (NNS problems))))))))) (. .))

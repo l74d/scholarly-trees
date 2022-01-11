@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN map)) (SBAR (WHNP (WDT which)) (S (VP (VBZ takes) (NP (DT a) (JJ square) (NN matrix)) (PP (IN to) (NP (PRP$ its) (JJ tropical) (NML (NN eigenvalue) (HYPH -) (NN eigenvector)) (NN pair))))))) (VP (VBZ is) (ADJP (JJ piecewise) (JJ linear))) (. .))
+(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NNS cones)) (PP (IN of) (NP (NP (NN linearity)) (PP (IN of) (NP (DT this) (NN map))))))) (. .))
+(S (S (NP (PRP They)) (VP (VBP are) (ADJP (JJ simplicial)))) (CC but) (S (NP (PRP they)) (VP (VBP do) (RB not) (VP (VB form) (NP (DT a) (NN fan))))) (. .))
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (JJ statistical) (NN ranking))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP study) (NP (NP (DT the) (NN restriction)) (PP (IN of) (NP (DT that) (NN cone) (NN decomposition)))) (PP (IN to) (NP (NP (DT the) (NN subspace)) (PP (IN of) (NP (NN skew) (HYPH -) (JJ symmetric) (NNS matrices)))))) (. .))

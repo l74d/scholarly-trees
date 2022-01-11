@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ randomized) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB maintain) (NP (DT a) (JJ maximal) (NN matching)) (PP (IN without) (NP (CD 3) (NN length) (VBG augmenting) (NNS paths))) (PP (IN in) (NP (DT the) (ADJP (RB fully) (JJ dynamic)) (NN setting))))))))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (NP (PRP we)) (VP (VBP maintain) (NP (DT a) (ADJP (QP ($ $) (CD 3/2) ($ $))) (JJ approximate) (JJ maximum) (NN cardinality) (NN matching))) (. .))

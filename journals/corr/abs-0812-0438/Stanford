@@ -1,0 +1,4 @@
+(S (NP (NN Knowledge)) (VP (VBZ has) (VP (VBN been) (ADVP (RB lately)) (VP (VBN recognized) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS assets)) (PP (IN of) (NP (NNS organizations)))))))))) (. .))
+(S (NP (VBG Managing) (NN knowledge)) (VP (VBZ has) (VP (VBN grown) (S (VP (TO to) (VP (VB be) (ADJP (JJ imperative) (PP (IN for) (NP (NP (DT the) (NN success)) (PP (IN of) (NP (DT a) (NN company))))))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NNP Knowledge) (NNP Management)))) (CC and) (NP (NP (JJ various) (NNS aspects)) (PP (IN of) (NP (JJ secure) (NN knowledge) (NN management)))))) (. .))
+(S (NP (NP (DT A) (NN case) (NN study)) (PP (IN of) (NP (NP (NN knowledge) (NN management) (NNS activities)) (PP (IN at) (NP (NNP Tata) (NNP Steel)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))))

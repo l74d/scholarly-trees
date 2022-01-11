@@ -1,0 +1,6 @@
+(S (S (PP (VBN Based) (PP (IN on) (NP (NP (DT the) (VBN modified) (NN maximum) (NN criterion)) (PP (IN from) (-LRB- [) (NP (NP (NNP Diening)) (ADVP (FW et) (FW al)))))))) (, ,) (VP (VBN Found)) (. .))
+(NP (NNP Comput) (. .))
+(NP (NNP Math) (. .))
+(FRAG (FRAG (NP (CD 16)) (, ,) (NP (CD 2016)) (-RRB- ])) (, ,) (S (NP (PRP we)) (VP (VP (VBP propose) (NP (DT a) (ADJP (NN goal) (HYPH -) (VBN oriented)) (JJ adaptive) (NN algorithm))) (CC and) (VP (VB prove) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (NP (NN instance) (JJ optimal)))))))) (. .))
+(S (ADVP (RBR More) (RB precisely)) (, ,) (S (NP (DT the) (NN goal) (HYPH -) (NN error)) (VP (VBZ is) (VP (VBN bounded) (PP (IN by) (NP (NP (NP (DT the) (NN product)) (PP (IN of) (NP (DT the) (JJ total) (NNS errors))) (PRN (-LRB- -LRB-) (S (VP (VBG being) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NML (NML (NN energy) (NN error)) (CC plus) (NML (NNS data))) (NNS oscillations)))))) (-RRB- -RRB-))) (PP (IN of) (NP (NP (DT the) (JJ primal)) (CC and) (NP (DT the) (JJ dual) (NN problem))))))))) (, ,) (CC and) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VBZ is) (NP (NP (NN instance)) (ADJP (JJ optimal) (PP (IN with) (NP (NP (NN respect)) (PP (IN to) (NP (DT this) (JJ upper) (VBN bound))))))))) (. .))
+(S (NP (NNP Numerical) (NNS experiments)) (VP (VBP underline) (NP (PRP$ our) (JJ theoretical) (NNS findings))) (. .))

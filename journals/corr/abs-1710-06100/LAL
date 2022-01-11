@@ -1,0 +1,1 @@
+(S (VP (VB Consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG approximating) (NP (NP (DT the) (JJ optimal) (NN policy)) (PP (IN of) (NP (NP (DT a) (NNP Markov) (NN decision) (NN process)) (PRN (-LRB- -LRB-) (NP (NNP MDP)) (-RRB- -RRB-))))) (PP (IN by) (S (VP (VBG sampling) (NP (NN state) (NNS transitions)))))))))) (. .))

@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ numerical) (NN solution)) (PP (IN of) (NP (NNP Manakov) (NNS systems)))) (PP (IN by) (S (VP (VBG using) (NP (DT a) (ADJP (RB spectrally) (JJ accurate)) (NNP Fourier) (NN decomposition)) (PP (IN in) (NP (NN space)))))) (, ,) (PP (VBN coupled) (PP (IN with) (NP (DT a) (ADJP (RB spectrally) (JJ accurate)) (NN time) (NN integration))))) (. .))
+(S (NP (DT This) (JJ latter)) (VP (VBZ relies) (PP (IN on) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ spectral) (JJ Hamiltonian) (NN boundary) (NN Value) (NNS Methods)))))) (. .))
+(S (NP (DT The) (VBN used) (NN approach)) (VP (VBZ allows) (S (VP (TO to) (VP (VB conserve) (NP (NP (PDT all) (DT the) (JJ physical) (NNS invariants)) (PP (IN of) (NP (DT the) (NNS systems)))))))) (. .))
+(S (NP (DT Some) (JJ numerical) (NNS tests)) (VP (VBP are) (VP (VBN reported))) (. .))

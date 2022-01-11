@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (DT the) (NN homotopy) (NN type) (NN theory) (NN library)) (PP (IN in) (NP (DT the) (NNP Lean) (NN proof) (NN assistant)))) (. .))
+(S (NP (DT The) (NN library)) (VP (VBZ is) (VP (ADVP (RB especially)) (VBN geared) (PP (IN toward) (NP (JJ synthetic) (NN homotopy) (NN theory))))) (. .))
+(SINV (PP (IN Of) (NP (JJ particular) (NN interest))) (VP (VBZ is)) (NP (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (RB just) (DT a) (JJ few) (JJ primitive) (NNS notions)) (PP (IN of) (NP (JJR higher) (JJ inductive) (NNS types))) (, ,) (ADVP (RB namely)) (NP (NNS quotients) (CC and) (NNS truncations))))) (, ,) (CC and) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ cubical) (NNS methods))))) (. .))

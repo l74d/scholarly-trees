@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NN event) (NN expression)) (PP (IN over) (NP (NP (NP (NNS sentences)) (PP (IN of) (NP (JJ natural) (NN language)))) (CC and) (NP (NP (JJ semantic) (NNS relations)) (PP (IN between) (NP (NNS events))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN definition)))) (, ,) (NP (PRP we)) (VP (ADVP (RB formally)) (VBP consider) (NP (NP (JJ text) (NN understanding) (NN process)) (VP (VBG having) (NP (NNS events)) (PP (IN as) (NP (JJ basic) (NN unit)))))) (. .))

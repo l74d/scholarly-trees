@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NNP Parikh-reducing) (NNP Church-Rosser) (NNS systems)))) (VP (VBZ is) (VP (VBN studied))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (PP (IN for) (NP (NP (CD two) (NNS classes)) (PP (IN of) (NP (JJ regular) (NNS languages))))) (NP (RB there)) (VP (VBP exist) (NP (NP (JJ such) (NNS systems)) (SBAR (WHNP (WDT which)) (S (VP (VBP describe) (NP (DT the) (NNS languages)) (S (VP (VBG using) (NP (NP (ADJP (RB finitely) (JJ many)) (NN equivalence) (NNS classes)) (PP (IN of) (NP (DT the) (NN rewriting) (NN system))))))))))))))) (. .))
+(S (NP (DT The) (CD two) (NNS classes)) (VBP are) (: :) (FRAG (CD 1)) (. .) (-RRB- -RRB-))
+(NP (NP (DT the) (NN class)) (PP (IN of) (NP (DT all) (JJ regular) (NNS languages))) (SBAR (JJ such) (IN that) (S (NP (DT the) (JJ syntactic) (NN monoid)) (VP (VBZ contains) (NP (NP (RB only) (NP (JJ abelian) (NNS groups))) (CC and) (NP (CD 2)))))) (. .) (-RRB- -RRB-))
+(NP (NP (DT the) (NN class)) (PP (IN of) (NP (DT all) (NN group) (VBZ languages))) (PP (IN over) (NP (DT a) (JJ two-letter) (NN alphabet))) (. .))
+(S (NP (NP (DT The) (NN construction)) (PP (IN of) (NP (DT the) (NNS systems)))) (VP (VBP yield) (NP (NP (DT a) (JJ monoid) (NN representation)) (SBAR (JJ such) (IN that) (S (NP (DT all) (NNS subgroups)) (VP (VBP are) (ADJP (JJ abelian))))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT those) (NNS representations)))) (VP (VBZ is) (VP (VBN studied))) (. .))

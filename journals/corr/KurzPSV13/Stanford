@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP investigate) (NP (JJ final) (NNS coalgebras)) (PP (IN in) (NP (JJ nominal) (NNS sets)))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB define) (NP (NP (NNS types)) (PP (IN of) (NP (JJ infinite) (NNS data)))) (PP (IN with) (S (VP (VBG binding) (PP (IN for) (SBAR (WHNP (WDT which)) (S (NP (DT all) (NNS constructions)) (ADVP (RB automatically)) (VP (VB respect) (NP (NN alpha) (NN equivalence))))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NNS applications)) (PP (IN to) (NP (DT the) (JJ infinitary) (NN lambda) (NN calculus)))) (. .))

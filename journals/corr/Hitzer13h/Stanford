@@ -1,0 +1,1 @@
+(FRAG (FRAG (NP (NNS Keywords)) (: :) (NP (NN algebra))) (, ,) (S (NP (NNP Fourier)) (VP (VBZ transforms) (: ;) (NP (NP (NN Logic)) (, ,) (NP (VBN set) (NN theory)) (, ,) (CC and) (NP (NN algebra))))) (, ,) (NP (NNP Fourier) (NN analysis)) (, ,) (S (NP (NNP Integral)) (VP (VBZ transforms))))

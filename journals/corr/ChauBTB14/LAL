@@ -1,0 +1,7 @@
+(S (NP (DT The) (VBG tracking) (JJ algorithm) (NN performance)) (VP (VBZ depends) (PP (IN on) (NP (NN video) (NN content)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (JJ multi-object) (NN tracking) (NN approach)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (JJ video) (JJ content) (NNS variations)))))))))))) (. .))
+(S (ADVP (RB First)) (NP (DT the) (JJ object) (NN detection)) (VP (VBZ is) (VP (VBN improved) (S (VP (VBG using) (NP (NNP Kanade-) (NNP Lucas-Tomasi) (PRN (-LRB- -LRB-) (NP (NNP KLT)) (-RRB- -RRB-)) (NN feature) (VBG tracking)))))) (. .))
+(S (ADVP (JJ Second)) (, ,) (PP (IN for) (NP (DT each) (JJ mobile) (NN object))) (, ,) (NP (DT an) (JJ appropriate) (NN tracker)) (VP (VBZ is) (VP (VBN selected) (PP (IN among) (NP (NP (DT a) (JJ KLT-based) (NN tracker)) (CC and) (NP (DT a) (JJ discriminative) (JJ appearance-based) (NN tracker)))))) (. .))
+(S (NP (DT This) (NN selection)) (VP (VBZ is) (VP (VBN supported) (PP (IN by) (NP (DT an) (NN online) (VBG tracking) (NN evaluation))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ has) (VP (VBN been) (VP (VBN experimented) (PP (IN on) (NP (CD three) (JJ public) (NN video) (NNS datasets)))))) (. .))
+(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBP show) (NP (NP (DT a) (JJR better) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))) (PP (VBN compared) (PP (TO to) (NP (JJ recent) (NAC (NN state) (PP (IN of) (NP (DT the) (NN art)))) (NNS trackers)))))) (. .))

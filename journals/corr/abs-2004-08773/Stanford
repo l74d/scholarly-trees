@@ -1,0 +1,2 @@
+(S (NP (DT These) (NNS rules)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NNS guarantees))) (SBAR (IN that) (S (NP (DT a) (NN feature)) (VP (MD may) (CC or) (MD may) (RB not) (VP (VB be) (VP (VBN selected) (PP (IN in) (NP (DT an) (JJ optimal) (NN solution)))))))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT a) (JJ preprocessing) (NN step))) (PP (IN to) (S (ADVP (RB safely)) (VP (VB remove) (NP (NNS variables)) (PP (IN from) (NP (NN consideration) (FW apriori))))))))) (. .))

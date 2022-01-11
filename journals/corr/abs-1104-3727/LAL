@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJ complete) (NN classification)) (PP (IN of) (NP (NP (JJ binary) (ADJP (RB doubly) (RB even)) (JJ self-dual) (NNS codes)) (PP (IN of) (NP (NN length) (CD 40)))))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (NP (DT a) (NN classification)) (PP (IN of) (NP (NP (JJ binary) (JJ extremal) (JJ self-dual) (NNS codes)) (PP (IN of) (NP (NN length) (CD 38)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given))) (. .))

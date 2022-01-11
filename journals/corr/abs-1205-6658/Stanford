@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT any) (JJ logical) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (NP (JJ Bayesian) (NN inference))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN approach))) (, ,) (NP (NP (DT the) (NN distinction)) (PP (IN between) (NP (NN complexity) (NNS classes)))) (VP (VBZ vanishes)) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (S (VP (VBG solving) (NP (DT the) (NML (CD 3) (HYPH -) (NN SAT)) (NN problem)) (PP (IN in) (ADJP (JJ polynomial))) (NP-TMP (NN time))))))) (. .))
+(S (PP (IN Beyond) (NP (DT this))) (, ,) (NP (JJ Bayesian) (NN inference)) (VP (MD could) (VP (VB be) (NP (NP (DT the) (NN background)) (PP (IN of) (NP (JJ artificial) (NML (JJ neural) (NN network)) (NN theory)))))) (. .))

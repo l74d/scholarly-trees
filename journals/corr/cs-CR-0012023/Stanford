@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NN existence)) (PP (IN of) (NP (NML (CD one) (HYPH -) (NN way)) (NNS functions)))) (VP (VBZ is) (NP (NP (RB arguably) (DT the) (ADJP (RBS most) (JJ important)) (NN problem)) (PP (IN in) (NP (NN computer) (NN theory))))) (. .))
+(S (NP (DT The) (NN article)) (VP (VBZ discusses) (CC and) (VBZ refines) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS concepts)) (ADJP (JJ relevant) (PP (IN to) (NP (DT this) (NN problem)))))))) (. .))
+(S (PP (IN For) (NP (NN instance))) (, ,) (NP (PRP it)) (VP (VBZ gives) (NP (NP (DT the) (JJ first) (JJ combinatorial) (JJ complete) (NN owf)) (, ,) (ADVP (FW i.e.)) (, ,) (NP (NP (DT a) (NN function)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (CD one) (HYPH -) (NN way)) (SBAR (IN if) (S (NP (DT any) (NN function)) (VP (VBZ is))))))))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (ADVP (RB surprisingly)) (NP (NP (JJ many) (NNS subtleties)) (PP (IN in) (NP (JJ basic) (NNS definitions))))) (. .))
+(S (S (NP (NP (DT Some)) (PP (IN of) (NP (DT these) (NNS subtleties)))) (VP (VBP are) (VP (VBN discussed) (CC or) (VBN hinted) (PP (IN at) (PP (IN in) (NP (DT the) (NN literature))))))) (CC and) (S (NP (DT some)) (VP (VBP are) (VP (VBN overlooked)))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (DT a) (JJ unified) (NN approach)) (VP (VBZ is) (VP (VBN attempted))) (. .))

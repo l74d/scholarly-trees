@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN mistake)) (PP (IN in) (NP (NP (NN work) (NN function) (NN algorithm)) (PP (IN of) (NP (NP (CD k)) (PP (SYM -) (NP (NN server) (NN conjecture))))))))) (. .))
+(S (NP (DT That)) (VP (VBZ is) (, ,) (SBAR (S (NP (NP (DT the) (NN monotonicity)) (PP (IN of) (NP (DT the) (NN work) (NN function)))) (VP (VBZ is) (RB not) (ADVP (RB always)) (ADJP (JJ true)))))) (. .))

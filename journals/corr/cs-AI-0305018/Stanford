@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (NNP Intelligence) (NNP Analysis))) (NP (PRP it)) (VP (VBZ is) (PP (IN of) (NP (JJ vital) (NN importance))) (S (VP (TO to) (VP (VB manage) (NP (NN uncertainty)))))) (. .))
+(S (NP (NN Intelligence) (NNS data)) (VP (VBZ is) (ADJP (ADVP (RB almost) (RB always)) (JJ uncertain) (CC and) (JJ incomplete) (, ,)) (S (VP (VP (VBG making) (S (NP (PRP it)) (ADJP (JJ necessary) (S (VP (TO to) (VP (VB reason))))))) (CC and) (VP (VBG taking) (NP (NNS decisions)) (PP (IN under) (NP (NN uncertainty))))))) (. .))
+(S (NP (NP (CD One) (NN way)) (SBAR (S (VP (TO to) (VP (VB manage) (NP (DT the) (NN uncertainty)) (PP (IN in) (NP (NNP Intelligence) (NNP Analysis)))))))) (VP (VBZ is) (NP (NNP Dempster) (HYPH -) (NNP Shafer) (NNP Theory))) (. .))
+(S (NP (DT This) (NN thesis)) (VP (VBZ contains) (NP (NP (CD five) (NNS results)) (PP (VBG regarding) (NP (NP (JJ multiple) (NN target) (NNS tracks)) (CC and) (NP (NN intelligence) (NN specification)))))) (. .))

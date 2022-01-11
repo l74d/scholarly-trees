@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (DT an) (NML (NN instruction) (NN sequence)) (NN fault)))) (VP (VBZ is) (VP (VBN considered) (PP (IN from) (NP (JJ various) (NNS perspectives))))) (. .))
+(S (NP (NP (CD Four) (JJ different) (NNS viewpoints)) (PP (IN on) (SBAR (SBAR (WHNP (WP what)) (S (VP (VBZ constitutes) (NP (DT a) (NN fault))))) (, ,) (CC or) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (DT a) (NN fault))))))))))) (, ,) (VP (VBP are) (VP (VBN formulated))) (. .))
+(S (NP (NP (DT An) (NN integration)) (PP (IN of) (NP (DT these) (NNS views)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

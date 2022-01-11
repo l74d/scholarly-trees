@@ -1,0 +1,2 @@
+(S (S (NP (PRP We)) (VP (VBP describe) (NP (DT a) (JJ pure) (NML (NML (NN divide) (HYPH -)) (CC and))))) (HYPH -) (S (VP (VB conquer) (NP (JJ parallel) (NN algorithm)) (PP (IN for) (NP (VBG computing)))) (NP (NP (JJ 3D) (NN convex)) (NP (NNS hulls)))) (. .))
+(S (NP (PRP We)) (VP (VBP implement) (SBAR (IN that) (S (NP (NN algorithm)) (UCP (PP (IN on) (NP (NNP GPU) (NN hardware))) (, ,) (CC and) (S (VP (VB find) (NP (DT a) (JJ significant) (NN speedup)) (PP (IN over) (NP (JJ comparable) (NN CPU) (NNS implementations))))))))) (. .))

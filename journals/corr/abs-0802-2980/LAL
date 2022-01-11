@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN characterization)) (PP (IN of) (NP (NP (DT the) (JJ large) (NN family)) (PP (IN of) (NP (JJ cobweb) (NNS posets))))) (PP (IN as) (NP (NNP DAGs) (CC and) (NN oDAGs)))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (NP (DT The) (NN dim) (CD 2) (NN poset)) (SBAR (JJ such) (IN that) (S (NP (PRP$ its) (NNP Hasse) (NN diagram)) (VP (NN coincide) (PP (IN with) (NP (NP (NN digraf)) (PP (IN of) (NP (JJ arbitrary) (NN cobweb) (NN poset))))))))) (VP (VBZ is) (VP (VBN constructed))) (. .))

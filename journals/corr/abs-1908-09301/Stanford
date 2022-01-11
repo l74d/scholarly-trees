@@ -1,0 +1,4 @@
+(S (NP (NP (NNP OpenMP) (NN parallelization)) (PP (IN of) (NP (JJ multiple) (NN precision) (NML (NNP Taylor) (NN series)) (NN method)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (DT A) (ADJP (RB very) (JJ good)) (JJ parallel) (NN performance) (NN scalability)) (CC and) (NP (NP (JJ parallel) (NN efficiency)) (PP (IN inside) (NP (NP (CD one) (NN computation) (NN node)) (PP (IN of) (NP (DT a) (NN CPU) (HYPH -) (NN cluster))))))) (VP (VBZ is) (VP (VBN observed))) (. .))
+(S (NP (PRP We)) (VP (VBP explain) (NP (NP (DT the) (NNS details)) (PP (IN of) (NP (NP (DT the) (NN parallelization)) (PP (IN on) (NP (NP (DT the) (JJ classical) (NN example)) (PP (IN of) (NP (DT the) (NNP Lorentz) (NNS equations))))))))) (. .))
+(S (NP (DT The) (JJ same) (NN approach)) (VP (MD can) (VP (VB be) (VP (VBN applied) (ADVP (RB straightforwardly)) (PP (IN to) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (JJ chaotic) (JJ dynamical) (NNS systems)))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (JJ dual-polarized) (JJ optical) (NN multi-soliton) (JJ pulse) (NN transmission))) (. .))
+(S (S (VP (VBG Modulating) (NP (DT the) (JJ nonlinear) (NN spectrum)))) (, ,) (NP (PRP it)) (VP (VBZ becomes) (ADJP (RB highly) (VBN correlated)) (PP (IN in) (NP (JJ noisy) (JJ fiber) (NNS links)))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ simple) (NN precoding)) (SBAR (S (VP (TO to) (VP (ADVP (RB significantly)) (VB reduce) (NP (DT the) (NN correlation)) (, ,) (S (VP (VBG allowing) (NP (NP (JJ disjoint) (NN detection)) (PP (IN of) (NP (JJ spectral) (NNS amplitudes)))))))))))) (. .))

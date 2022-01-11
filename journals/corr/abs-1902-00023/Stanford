@@ -1,0 +1,1 @@
+(FRAG (NP (NNS Keywords)) (: :) (S (VP (VBG Hamming) (NP (NP (NP (NN graph)) (, ,) (NP (JJ multifold) (NN ball) (NNS packings)) (, ,) (NP (JJ two-fold) (NN ball) (NNS packings)) (, ,) (NP (NN list) (JJ decodable) (NNS codes)) (, ,) (NP (JJ multiple) (NNS coverings)) (, ,) (NP (RB completely) (JJ regular) (NNS codes)) (, ,) (NP (JJ linear) (NN programming))) (VP (VBN bound))))))

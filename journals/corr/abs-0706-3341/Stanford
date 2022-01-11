@@ -1,0 +1,4 @@
+(S (NP (DT A) (NN logic) (NN calculus)) (VP (VBZ is) (VP (VBN presented) (SBAR (S (NP (DT that)) (VP (VBZ is) (NP (NP (DT a) (JJ conservative) (NN extension)) (PP (IN of) (NP (JJ linear) (NN logic))))))))) (. .))
+(NP (NP (NP (DT The) (NN motivation)) (PP (IN beneath) (NP (DT this) (NN work) (NNS concerns)))) (NP (NP (JJ lazy) (NN evaluation)) (, ,) (NP (JJ true) (NN concurrency))) (CC and) (NP (NP (NNS interferences)) (PP (IN in) (NP (NN proof) (NN search)))) (. .))
+(S (NP (DT The) (NN calculus)) (VP (VP (VBZ includes) (NP (CD two) (JJ new) (NNS connectives)) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (JJ multisequent) (NNS structures))))))) (CC and) (VP (VBZ has) (NP (DT the) (NN cut) (HYPH -) (NN elimination) (NN property)))) (. .))
+(S (NP (NNS Extensions)) (VP (VBP are) (VP (VBN proposed) (SBAR (WHNP (WDT that)) (S (VP (VBP give) (NP (NP (JJ first) (NNS results)) (PP (VBG concerning) (NP (PRP$ our) (NNS objectives))))))))) (. .))

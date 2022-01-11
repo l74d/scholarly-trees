@@ -1,0 +1,6 @@
+(S (NP (NN SPIRIT)) (VP (VBZ is) (NP (NP (DT an) (NN expert) (NN system) (NN shell)) (PP (IN for) (NP (ADJP (JJ probabilistic) (NN knowledge)) (NNS bases))))) (. .))
+(S (NP (NN Knowledge) (NN acquisition)) (VP (VBZ is) (VP (VBN performed) (PP (IN by) (S (VP (VBG processing) (NP (NNS facts) (CC and) (NNS rules)) (PP (IN on) (NP (NP (JJ discrete) (NNS variables)) (PP (IN in) (NP (DT a) (JJ rich) (NN syntax)))))))))) (. .))
+(S (NP (DT The) (NN shell)) (VP (VBZ generates) (NP (DT a) (NN probability) (NN distribution)) (SBAR (SBAR (WHNP (WDT which)) (S (VP (VBZ respects) (NP (DT all) (VBN acquired) (NNS facts) (CC and) (NNS rules))))) (CC and) (SBAR (WHNP (WDT which)) (S (VP (VBZ maximizes) (NP (NN entropy))))))) (. .))
+(S (NP (NP (DT The) (ADJP (NN user) (HYPH -) (JJ friendly)) (NNS devices)) (PP (IN of) (NP (NN SPIRIT) (S (VP (TO to) (VP (VP (VB define) (NP (NNS variables))) (, ,) (VP (VB formulate) (NP (NNS rules))) (CC and) (VP (VB create) (NP (DT the) (NN knowledge) (NN base))))))))) (VP (VBP are) (VP (VBN revealed) (PP (IN in) (NP (NN detail))))) (. .))
+(S (NP (JJ Inductive) (NN learning)) (VP (VBZ is) (ADJP (JJ possible))) (. .))
+(S (NP (JJ Medium) (ADJP (JJ sized)) (NNS applications)) (VP (VBP show) (NP (NP (DT the) (NN power)) (PP (IN of) (NP (DT the) (NN system))))) (. .))

@@ -1,0 +1,3 @@
+(SBARQ (WHADJP (WRB How) (JJ hard)) (SQ (VBZ is) (NP (PRP it)) (PP (IN to) (NP (NN invert) (NN NP) (HYPH -) (NNS problems)))) (. ?))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT all) (JJ superlinearly) (JJ certified) (NNS inverses)) (PP (IN of) (NP (NNP NP) (NNS problems)))) (VP (VBP are) (ADJP (NP (NN coNP)) (HYPH -) (JJ hard)))))) (. .))
+(S (S (VP (TO To) (VP (VB do) (ADVP (RB so))))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ novel) (NN proof) (NN technique)) (SBAR (WHNP (WDT that)) (S (VP (VBZ builds) (NP (NP (NNS diagonalizations)) (PP (IN against) (NP (NNS certificates)))) (PP (ADVP (RB directly)) (IN into) (NP (DT a) (NN circuit)))))))) (. .))

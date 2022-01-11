@@ -1,0 +1,7 @@
+(S (NP (NNP Seglearn)) (VP (VBZ is) (NP (NP (DT an) (JJ open-source) (NN python) (NN package)) (PP (IN for) (NP (NP (NN machine) (NN learning) (NP (NN time) (NN series) (CC or) (NNS sequences))) (VP (VBG using) (NP (DT a) (NN sliding) (NN window) (NN segmentation) (NN approach))))))) (. .))
+(S (NP (DT The) (NN implementation)) (VP (VBZ provides) (NP (NP (DT a) (JJ flexible) (NN pipeline)) (PP (IN for) (S (VP (VBG tackling) (NP (NN classification) (, ,) (NP (NN regression)) (, ,) (CC and) (VBG forecasting) (NNS problems)) (PP (IN with) (NP (NP (JJ multivariate) (NN sequence)) (CC and) (NP (JJ contextual) (NNS data))))))))) (. .))
+(S (NP (DT This) (NN package)) (VP (VP (VBZ is) (ADJP (JJ compatible) (PP (IN with) (NP (JJ scikit-learn))))) (CC and) (VP (VBZ is) (VP (VBN listed) (PP (IN under) (NP (NN scikit-learn) (JJ Related) (NNPS Projects)))))) (. .))
+(S (NP (DT The) (NN package)) (VP (VBZ depends) (PP (IN on) (NP (JJ numpy) (, ,) (JJ scipy) (, ,) (CC and) (NN scikit-learn)))) (. .))
+(S (NP (NNP Seglearn)) (VP (VBZ is) (VP (VBN distributed) (PP (IN under) (NP (DT the) (NNP BSD) (JJ 3-Clause) (NNP License))))) (. .))
+(S (NP (NNP Documentation)) (VP (VBZ includes) (NP (DT a) (JJ detailed) (NX (NNP API) (NN description)) (, ,) (NX (NNP user) (NN guide)) (, ,) (CC and) (NX (NNS examples)))) (. .))
+(S (NP (NN Unit) (NNS tests)) (VP (VBP provide) (NP (NP (DT a) (JJ high) (NN degree)) (PP (IN of) (NP (NN code) (NN coverage))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN article)) (VP (VBZ is) (PP (IN about) (NP (NP (DT a) (NN decoding) (NN algorithm)) (PP (IN for) (NP (JJ error-correcting) (NN subspace) (NNS codes)))))) (. .))
+(S (NP (NP (DT A) (NN version)) (PP (IN of) (NP (DT this) (NN algorithm)))) (VP (VBD was) (ADVP (RB previously)) (VP (VBN described) (PP (IN by) (NP (NNP Rosenthal) (, ,) (NNP Silberstein) (CC and) (NNP Trautmann))))) (. .))
+(S (S (NP (NN Complexity)) (VP (VBZ is) (VP (ADVP (RB substantially)) (VBN improved) (PP (VBN compared) (PP (TO to) (NP (NP (DT the) (NN algorithm)) (PP (IN by) (NP (NNP Rosenthal) (, ,) (NNP Silberstein) (CC and) (NNP Trautmann))))))))) (CC and) (S (NP (NP (NNS connections)) (PP (TO to) (NP (VB finite) (NN geometry)))) (VP (VBP are) (VP (VBN given)))) (. .))

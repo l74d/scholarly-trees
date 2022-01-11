@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (CD 2003))) (NP (NNP COHN) (CC and) (NNP UMANS)) (VP (VBD introduced) (NP (NP (DT a) (JJ group-theoretic) (NN approach)) (PP (TO to) (NP (VB fast) (JJ matrix) (NN multiplication))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP S) (, ,) (NNP T) (CC and) (NNP U)) (VP (MD may) (VP (VB be) (VP (VB be) (VP (VBN assumed) (S (VP (TO to) (VP (VP (VB contain) (NP (DT the) (NN identity))) (CC and) (VP (VB be) (ADJP (RB otherwise) (NN disjoint))))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT a) (ADJP (RB much) (JJR shorter)) (NN proof)) (PP (IN of) (NP (DT the) (JJ upper) (NN bound) (NP (NNP |S|+|T|+|U|)) (PP (NNP <) (NNP =) (NP (NNP |G|+2))))))) (. .))

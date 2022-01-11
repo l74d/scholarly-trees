@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (JJ algebraic) (NN construction)) (PP (IN of) (NP (NP (NNS families)) (PP (IN of) (NP (JJ unitary) (NNS matrices))) (SBAR (WHNP (WDT that)) (S (VP (VBP achieve) (NP (JJ full) (NN diversity))))))))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (VP (VBN obtained) (PP (IN as) (NP (NP (NNS subsets)) (PP (IN of) (NP (JJ cyclic) (NN division) (NNS algebras))))))) (. .))

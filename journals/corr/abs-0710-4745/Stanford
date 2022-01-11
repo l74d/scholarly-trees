@@ -1,0 +1,3 @@
+(S (NP (ADJP (NN Model) (VBN based)) (NN design)) (VP (VBZ enables) (NP (DT the) (NML (NML (JJ automatic) (NN generation)) (PP (IN of) (NP (JJ final) (HYPH -) (NN build)))) (NN software)) (PP (IN from) (NP (NP (NNS models)) (PP (IN for) (NP (NML (JJ high) (HYPH -) (NN volume)) (JJ automotive) (VBN embedded) (NNS systems)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN framework)) (PP (IN of) (NP (NNS processes) (, ,) (NNS methods) (CC and) (NNS tools)))) (PP (IN for) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (JJ automotive) (VBN embedded) (NNS systems)))))) (. .))
+(S (NP (DT A) (NML (NML (NN steer)) (HYPH -) (PP (IN by) (HYPH -) (NP (NN wire)))) (NN system)) (VP (VBZ serves) (PP (IN as) (NP (DT an) (NN example)))) (. .))

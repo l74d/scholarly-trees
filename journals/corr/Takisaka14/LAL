@@ -1,0 +1,4 @@
+(S (NP (PRP$ Our) (NN attempt)) (VP (VBZ is) (VP (ADVP (RB partly)) (VBN achieved) (PP (IN by) (S (VP (VBG showing) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (JJ universal) (NN operator)))) (PP (IN under) (NP (DT some) (JJ additional) (NN assumption)))))))) (. .))
+(S (NP (NP (PRP It))) (VP (VBZ is) (VP (VBN left) (PP (IN as) (NP (DT a) (NN future) (NN task))) (S (VP (TO to) (VP (VB eliminate) (NP (DT this) (NN assumption))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP see) (NP (NP (DT some) (NNS properties) (CC and) (NNS examples)) (SBAR (WHNP (WDT which)) (S (VP (VBP stimulate) (NP (JJ further) (NN research))))))) (. .))
+(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NN universal) (NN operator)) (VP (VBZ has) (NP (JJ certain) (JJ nontrivial) (NN form)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ exists)))))))) (. .))

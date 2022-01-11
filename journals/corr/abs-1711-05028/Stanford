@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (DT a) ($ $))) (NP (NP (LST (LS d) (: -)) (NP ($ $))) (NP (JJ regular) (JJ random) (NN model))) (, ,) (NP (PRP we)) (VP (VBP assign) (PP (IN to) (NP (NP (NNS vertices)) (FRAG (NP ($ $)) (SBAR (LST (LS q) (: -)) (S (NP (NP ($ $)) (NP (NN state))) (VP (VBZ spins)))))))) (. .))
+(S (PP (IN For) (NP (DT these) (JJ empirical) (NNS measures))) (NP (PRP we)) (VP (VBP obtain) (NP (NP (NML (JJ large) (NN deviation)) (NN principle) (PRN (-LRB- -LRB-) (NP (NNP LDP)) (-RRB- -RRB-))) (PP (IN in) (NP (DT the) (JJ weak) (NN topology))))) (. .))

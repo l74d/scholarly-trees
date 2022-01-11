@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN submission)) (VP (VBZ is) (VP (VBG being) (VP (VBN withdrawn) (PP (IN due) (PP (IN to) (NP (NP (JJ serious) (NNS errors)) (PP (IN in) (NP (DT the) (NN achievability) (NNS proofs))))))))) (. .))
+(S (NP (NP (DT The) (NNS reviewers)) (PP (IN of) (NP (NP (DT the) (NN journal)) (SBAR (S (NP (PRP I)) (VP (VBD had) (VP (VBN submitted) (S (VP (TO to)))))))))) (VP (VBD had) (VP (VBN found) (NP (NNS errors)) (ADVP (RB back) (PP (IN in) (NP (CD 2006)))))) (. .))
+(S (NP (PRP I)) (VP (VBD had) (VP (VBN forgotten) (PP (IN about) (NP (DT this) (NN paper))) (SBAR (IN until) (S (NP (PRP I)) (VP (VBD saw) (NP (DT the) (NNP CFP)) (PP (IN for) (NP (DT a) (NN JSAC) (NN issue))) (PP (IN on) (NP (NML (PP (IN in) (HYPH -) (NP (NN network)))) (NN computation)))))))) (. .))
+(NP (DT this) (NN http) (NN URL))

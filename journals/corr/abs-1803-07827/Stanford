@@ -1,0 +1,1 @@
+(S (NP (DT This) (JJ new) (NN cryptosystem)) (VP (VP (VBZ has) (NP (NP (JJ good) (NN transmission) (NN rate)) (PP (VBN compared) (PP (IN to) (NP (NP (DT the) (CD one)) (VP (VBG using) (NP (JJ binary) (NNP Goppa) (NNS codes)))))))) (CC and) (VP (VBZ uses) (NP (JJR smaller) (NNS keys)))) (. .))

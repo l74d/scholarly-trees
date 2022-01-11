@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VB establish) (NP (JJ syntactic) (NN cut-elimination)) (PP (IN for) (NP (NP (DT the) (JJ one-variable) (NN fragment)) (PP (IN of) (NP (DT the) (JJ modal) (NN mu-calculus)))))) (. .))
+(S (NP (PRP$ Our) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ recent) (NN cut-elimination) (NN technique)) (PP (IN by) (NP (NNS Mints))) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NP (NN use)) (PP (IN of) (NP (NP (NNP Buchholz) (POS ›)) (NN Omega-rule))))))))))) (. .))

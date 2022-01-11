@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (S (NP (DT the) (JJ Abnormal) (NNP Netsukuku) (NNP Domain)) (VP (VB Name) (NP (NN Anarchy) (NN system))))) (. .))
+(S (S (NP (NNP ANDNA)) (VP (VBZ is) (NP (NP (DT the) (VBN distributed)) (, ,) (ADJP (AFX non) (JJ hierarchical))))) (CC and) (S (NP (NP (VBN decentralised) (NN system)) (PP (IN of) (NP (NN hostname) (NN management)))) (VP (VBN used) (PP (IN in) (NP (DT the) (NNP Netsukuku) (NN network))))) (. .))

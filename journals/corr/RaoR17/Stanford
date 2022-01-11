@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ random) (NN walk)) (VP (VP (VBZ starts) (PP (IN at) (NP (DT a) (JJ uniform) (NN vertex)))) (CC and) (ADVP (IN at) (NP (DT each) (NN step))) (VP (VBZ continues) (PP (IN to) (NP (DT a) (JJ random) (NN neighbor))))) (. .))

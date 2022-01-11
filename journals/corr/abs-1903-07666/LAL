@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VP (VBP propose) (NP (NP (JJ several) (JJ small) (NNS modifications)) (PP (TO to) (NP (NP (NNP Duet)) (PRN (: —) (NP (JJ -a) (JJ deep) (JJ neural) (NN ranking) (NN model)) (: —)))))) (VBP -and) (VP (VB evaluate) (NP (DT the) (JJ updated) (NN model)) (PP (IN on) (NP (DT the) (NNP MS) (NNP MARCO) (NN passage) (VBG ranking) (NN task))))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (NP (NP (JJ significant) (NNS improvements)) (PP (IN from) (NP (DT the) (VBN proposed) (NNS changes))) (VP (VBN based) (PP (IN on) (NP (DT an) (NN ablation) (NN study)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PDT Such) (DT an) (JJ algorithmic) (NN problem)) (VP (VBZ arises) (, ,) (PP (IN for) (NP (NN example))) (, ,) (PP (IN in) (NP (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (NNP Markov)))) (CC and) (NP (NP (NNP semi-Markov) (NNS traces)) (PP (IN on) (NP (JJ cubic) (NNP Hecke) (NN algebras))))))) (. .))

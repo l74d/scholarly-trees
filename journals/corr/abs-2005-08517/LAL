@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT an) (NNP Object) (NNP Oriented) (NNP Model)) (PP (IN for) (S (VP (VBG building) (NP (NNP Expert) (NNPS Systems))))))) (. .))
+(S (NP (NP (DT This) (NN model)) (CC and) (NP (NP (DT the) (NN detection)) (PP (IN of) (NP (NNS similarities))))) (VP (VBP allow) (S (VP (TO to) (VP (VB implement) (NP (NP (VBG reasoning) (NNS modes)) (PP (IN as) (NP (NN induction) (, ,) (NN deduction) (CC and) (NN simulation)))))))) (. .))
+(S (NP (PRP We)) (VP (ADVP (RB specially)) (VBP focus) (PP (IN on) (NP (NP (NN similarity)) (CC and) (NP (NP (PRP$ its) (NN use)) (PP (IN in) (NP (NN induction))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (JJ original) (NN algorithms)) (SBAR (WHNP (WDT which)) (S (VP (NN deal) (PP (IN with) (NP (NP (ADJP (JJ total) (CC and) (JJ partial)) (JJ structural) (NN similitude)) (PP (IN of) (NP (NNS objects))))) (S (VP (TO to) (VP (VB facilitate) (NP (NN knowledge) (NN acquisition)))))))))) (. .))

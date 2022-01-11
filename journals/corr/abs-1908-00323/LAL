@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT the) (JJ current) (NN work))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN description)) (PP (IN of) (NP (DT the) (NN system))) (VP (VBN submitted) (PP (TO to) (NP (VB WMT) (CD 2018) (NNP News) (NNP Translation) (NNP Shared) (NN task)))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBD was) (VP (VBN created) (S (VP (TO to) (VP (VB translate) (NP (NN news) (NN text)) (PP (IN from) (NP (NNP Finnish))) (PP (TO to) (NP (VB English)))))))) (. .))
+(S (NP (DT The) (NN system)) (VP (VBD used) (NP (DT a) (ADJP (NNP Character) (VBN Based)) (NNP Neural) (NNP Machine) (NNP Translation) (NN model)) (S (VP (TO to) (VP (VB accomplish) (NP (DT the) (VBN given) (NN task)))))) (. .))
+(S (NP (DT The) (JJ current) (NN paper)) (VP (NNS documents) (NP (NP (DT the) (JJ preprocessing) (NNS steps)) (, ,) (NP (NP (DT the) (NN description)) (PP (IN of) (NP (DT the) (JJ submitted) (NN system)))) (CC and) (NP (NP (DT the) (NNS results)) (VP (VBD produced) (S (VP (VBG using) (NP (DT the) (JJ same)))))))) (. .))
+(S (NP (PRP$ Our) (NN system)) (VP (VBD garnered) (NP (NP (DT a) (NNP BLEU) (NN score)) (PP (IN of) (NP (CD 12.9))))) (. .))

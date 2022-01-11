@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (RB srlearn)) (, ,) (NP (NP (DT a) (NNP Python) (NN library)) (PP (IN for) (NP (JJ boosted) (JJ statistical) (JJ relational) (NNS models)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP adapt) (NP (DT the) (JJ scikit-learn) (NN interface)) (PP (TO to) (NP (DT this) (NN setting)))) (CC and) (VP (VB provide) (NP (NP (NNS examples)) (PP (IN for) (SBAR (WHADVP (WRB how)) (S (NP (DT this)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB express) (NP (NN learning) (CC and) (NN inference) (NNS problems)))))))))))))) (. .))

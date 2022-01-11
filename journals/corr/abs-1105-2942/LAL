@@ -1,0 +1,2 @@
+(S (NP (PRP I)) (VP (VBP give) (NP (NP (DT an) (NN introduction)) (PP (TO to) (NP (NP (JJ algorithmic) (NNS uses)) (PP (IN of) (NP (NP (DT the) (NN principle)) (PP (IN of) (NP (NN inclusion-exclusion))))))))) (. .))
+(S (NP (DT The) (NN presentation)) (VP (VBZ is) (VP (VBN intended) (S (VP (TO to) (VP (VB be) (VP (VB be) (ADJP (JJ concrete) (CC and) (JJ accessible)) (, ,) (PP (IN at) (NP (NP (DT the) (NN expense)) (PP (IN of) (NP (NN generality) (CC and) (NN comprehensiveness))))))))))) (. .))

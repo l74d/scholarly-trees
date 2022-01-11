@@ -1,0 +1,2 @@
+(S (PP (IN Since) (ADVP (RB now))) (, ,) (NP (JJ many) (NNS approaches)) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (PP (IN for) (NP (NN surface) (NN defect) (NN detection))) (PP (VBN based) (PP (IN on) (NP (NN image) (NN texture) (NN analysis) (NNS techniques))))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (JJ efficient) (NN texture) (NN analysis) (NNS operations)))) (VP (VBZ is) (NP (NP (JJ local) (JJ binary) (NNS patterns)) (SBAR (WHNP (WDT which)) (S (VP (VBZ provides) (NP (JJ good) (NN accuracy))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT An) (NN LDPC)) (VP (VBN coded) (NP (NN modulation) (NN scheme)) (PP (IN with) (NP (NP (JJ probabilistic) (NN shaping)) (, ,) (NP (VBN optimized) (NNS interleavers)) (CC and) (NP (JJ noniterative) (NN demapping)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NML (JJ Full) (HYPH -) (NN field)) (NNS simulations)) (VP (VBP show) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NN transmission) (NN distance)))) (PP (IN by) (NP (NP (CD 8) (NN %)) (PP (VBN compared) (PP (IN to) (NP (ADJP (RB uniformly) (VBN distributed)) (NN input))))))) (. .))

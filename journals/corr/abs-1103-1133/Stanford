@@ -1,0 +1,2 @@
+(S (S (VP (VBG Following) (PRT (RP up)) (PP (IN on) (NP (NP (DT a) (NN paper)) (PP (IN of) (NP (NNP Balamohan) (, ,) (NNP Kuznetsov) (, ,) (CC and) (NNP Tanny))))))) (, ,) (NP (PRP we)) (VP (VP (VBP analyze) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (NP (NNP Hofstadter) (POS 's)) (NML (NN Q) (HYPH -) (NN sequence)))))) (CC and) (VP (VB show) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (CD 2) (HYPH -) (JJ automatic))))))) (. .))
+(S (NP (NP (DT An) (NN automaton)) (VP (VBG computing) (NP (DT the) (NN sequence)))) (VP (VBZ is) (ADVP (RB explicitly)) (VP (VBN given))) (. .))

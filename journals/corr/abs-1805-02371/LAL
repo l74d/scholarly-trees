@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (JJ after-the-fact) (NN summary)) (PP (IN of) (NP (NP (DT the) (NN participation)) (PP (IN of) (NP (DT the) (NN vitrivr) (NN system))) (PP (TO to) (NP (DT the) (CD 2018) (NNP Video) (NNP Browser) (NNP Showdown))))))) (. .))
+(S (NP (DT A) (JJ particular) (NN focus)) (VP (VBZ is) (PP (IN on) (NP (NP (NP (NNS additions)) (VP (VBN made) (PP (IN since) (NP (DT the) (JJ original) (NN publication))))) (CC and) (NP (NP (DT the) (NNS systems) (NN performance)) (PP (IN during) (NP (DT the) (NN competition))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (NP (NNP Digital) (NNS cameras)) (CC and) (NP (JJ mobile) (NNS phones))) (VP (JJ enable) (S (NP (PRP us)) (VP (TO to) (VP (ADVP (VB conveniently)) (NN record) (NP (JJ precious) (NNS moments)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ few) (NNS studies)) (VP (VBP have) (VP (VBN aimed) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem))))))) (. .))
+(S (NP (PRP$ Our) (NN network)) (VP (VBZ achieves) (NP (NP (JJ state-of-the-art) (NN performance)) (PP (IN on) (NP (DT this) (NN dataset)))) (PP (IN in) (NP (NP (NN comparison)) (PP (TO to) (NP (NP (VBG existing) (VBG learning) (NNS architectures)) (PP (IN for) (NP (NN image) (NN restoration) (NNS problems)))))))) (. .))

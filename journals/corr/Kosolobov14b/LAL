@@ -1,0 +1,5 @@
+(NP (CD 1) (. .))
+(S (NP (DT The) (JJ first) (NN algorithm)) (VP (VBZ supports) (NP (NP (DT the) (NN backtrack) (NN operation)) (VP (VBG removing) (NP (NP (DT the) (JJ last) (NN letter)) (PP (IN of) (NP (DT the) (NN input) (NN string))))))) (. .))
+(NP (CD 2) (. .))
+(S (NP (DT This) (NN algorithm)) (VP (VP (VBZ is) (ADJP (RB relatively) (JJ simple))) (CC and) (VP (VBZ requires) (NP (NP (ADJP (RB much) (JJR less)) (NN memory)) (PP (IN than) (NP (NP (DT the) (ADJP (RB previously) (VBN known)) (NN solution)) (PP (IN with) (NP (DT the) (JJ same) (JJ working) (NN time) (CC and) (NN space)))))))) (. .))
+(NP (NP (DT a) (NN string)) (VP (VBN generated) (PP (IN during) (NP (NP (DT the) (NN execution)) (PP (IN of) (NP (NP (DT a) (VBN given) (NN sequence)) (PP (IN of) (NP (ADJP ($ $) (JJ n) ($ $)) (NN read) (CC and) (VB backtrack) (NNS operations)))))))) (. .))

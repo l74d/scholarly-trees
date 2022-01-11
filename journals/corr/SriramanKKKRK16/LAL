@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ end-to-end) (JJ machine-human) (NN image) (NN annotation) (NN system)) (SBAR (WHADVP (WRB where)) (S (NP (DT each) (NN component)) (VP (MD can) (VP (VB be) (VP (VBN attached) (PP (IN in) (NP (DT a) (JJ plug-and-play) (NN fashion)))))))))) (. .))
+(S (NP (DT These) (NNS components)) (VP (VBP include) (NP (NP (NNP Feature) (NNP Extraction)) (, ,) (NP (NNP Machine) (NNP Classifier)) (, ,) (NP (NNP Task) (NNP Sampling)) (CC and) (NP (NNP Crowd) (NNP Consensus)))) (. .))

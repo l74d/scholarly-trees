@@ -1,0 +1,2 @@
+(S (NP (JJ Remote) (NML (NN user) (NN authentication))) (VP (VBZ is) (ADJP (JJ desirable) (PP (IN for) (NP (DT a) (NNP Telecare) (NML (NN medicine) (NN information)) (NN system) (PRN (-LRB- -LRB-) (NP (NN TMIS)) (-RRB- -RRB-))))) (S (VP (TO to) (VP (VB verify) (NP (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (JJ remote) (NNS users)))) (CC and) (NP (NP (NN server)) (PP (IN over) (NP (DT the) (ADJP (JJ insecure)) (NN channel))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT an) (NN authentication) (NN scheme)) (PP (IN for) (NP (NNP TMIS)))) (. .))

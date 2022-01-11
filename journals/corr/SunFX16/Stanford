@@ -1,0 +1,7 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ sparse) (NN signal) (NN recovery)) (PP (IN from) (NP (NML (CD 1) (HYPH -) (NN bit)) (NNS measurements))))))) (. .))
+(S (PP (IN Due) (PP (IN to) (NP (NP (DT the) (NN noise) (NN present)) (PP (IN in) (NP (DT the) (NML (NN acquisition) (CC and) (NN transmission)) (NN process)))))) (, ,) (NP (DT some) (VBN quantized) (NNS bits)) (VP (MD may) (VP (VB be) (VP (VBN flipped) (PP (IN to) (NP (PRP$ their) (JJ opposite) (NNS states)))))) (. .))
+(S (NP (DT These) (NN sign)) (VP (VBZ flips) (SBAR (S (VP (MD may) (VP (VB result) (PP (IN in) (NP (JJ severe) (NN performance) (NN degradation)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (NP (DT a) (JJ novel) (NN algorithm)) (, ,) (VP (VBN termed) (NP (NN HISTORY))) (, ,)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (PRP It)) (VP (VBZ consists) (PP (IN of) (S (VP (VBG Hamming) (NP (NP (NN support) (NN detection)) (CC and) (NP (NNS coefficients) (NN recovery))))))) (. .))
+(S (NP (DT The) (NN HISTORY) (NN algorithm)) (VP (VP (VBZ has) (NP (NML (JJ high) (NN recovery)) (NN accuracy))) (CC and) (VP (VBZ is) (ADJP (JJ robust) (PP (IN to) (NP (JJ strong) (NN measurement) (NN noise)))))) (. .))
+(S (NP (NNP Numerical) (NNS results)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN effectiveness) (CC and) (NN superiority)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))))))) (. .))

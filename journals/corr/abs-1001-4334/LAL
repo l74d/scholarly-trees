@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (NN method)) (PP (IN for) (S (VP (VBG encoding) (CC and) (VBG decoding) (NP (ADJP (NN spectrum) (VBD shaped)) (JJ binary) (NN run-length) (JJ constrained) (NNS sequences)))))) (VP (VBZ is) (VP (VBN described))) (. .))
+(S (NP (NP (DT The) (JJ binary) (NNS sequences)) (PP (IN with) (NP (NP (JJ predefined) (NN range)) (PP (IN of) (NP (JJ exponential) (NNS sums)))))) (VP (VBP are) (VP (VBN introduced))) (. .))
+(S (PP (IN On) (NP (NP (DT the) (NN base)) (PP (IN of) (NP (NP (NNP Cover) (POS 's)) (JJ enumerative) (NN scheme))))) (, ,) (NP (NP (NN recurrence) (NNS relations)) (PP (IN for) (S (VP (VBG calculating) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (DT these) (NNS sequences)))))))) (VP (VBP are) (VP (VBN derived))) (. .))
+(S (NP (NP (NN Implementation)) (PP (IN of) (NP (VBG encoding) (CC and) (VBG decoding) (NNS procedures)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown))) (. .))

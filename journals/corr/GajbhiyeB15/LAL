@@ -1,0 +1,6 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (VBG tracking) (VB control) (NNS laws)) (PP (IN for) (NP (NP (CD two) (JJ different) (NNS objectives)) (PP (IN of) (NP (NP (DT a) (JJ nonholonomic) (NN system)) (: -) (NP (DT a) (JJ spherical) (NN robot)) (: -)))))) (S (VP (VBG using) (NP (DT a) (JJ geometric) (NN approach))))) (. .))
+(S (NP (DT The) (JJ first) (NN control) (NN law)) (VP (VBZ addresses) (NP (NN orientation) (VBG tracking)) (S (VP (VBG using) (NP (DT a) (JJ modified) (NN trace) (JJ potential) (NN function))))) (. .))
+(S (NP (DT The) (JJ second) (NN law)) (VP (VBZ addresses) (NP (JJ contact) (NN position) (VBG tracking)) (S (VP (VBG using) (NP (DT a) (ADJP ($ $) (JJ right) ($ $)) (NN transport) (NN map)) (PP (IN for) (NP (DT the) (JJ angular) (NN velocity) (NN error)))))) (. .))
+(S (NP (NP (DT A) (JJ special) (NN case)) (PP (IN of) (NP (DT this)))) (VP (VBZ is) (NP (NP (NN position)) (CC and) (NP (JJ reduced) (NN orientation) (NN stabilization)))) (. .))
+(S (NP (DT Both) (NN control) (NNS laws)) (VP (VBP are) (ADJP (JJ coordinate) (JJ free))) (. .))
+(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN feedback) (NN control) (NNS laws)))) (VP (VBP are) (VP (VBN demonstrated) (PP (IN through) (NP (NNS simulations))))) (. .))

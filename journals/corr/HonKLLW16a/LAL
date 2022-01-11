@@ -1,0 +1,4 @@
+(S (PP (IN Without) (NP (JJ further) (NN ado))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT the) (NNP P_3-game))) (. .))
+(S (NP (DT The) (NNP P_3-game)) (VP (VBZ is) (ADJP (JJ decidable) (PP (IN for) (NP (NP (JJ elementary) (NNS classes)) (PP (IN of) (NP (NN graphs))) (PP (JJ such) (IN as) (NP (NNS paths) (CC and) (NNS cycles))))))) (. .))
+(S (PP (IN From) (NP (NP (DT an) (JJ algorithmic) (NN point)) (PP (IN of) (NP (NN view))))) (, ,) (NP (DT the) (VBN connected) (NNP P_3-game)) (VP (VBZ is) (ADJP (VBG fascinating))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ connected) (NNP P_3-game)) (VP (VBZ is) (ADJP (ADJP (RB polynomially) (JJ decidable)) (PP (IN for) (NP (NP (NNS classes)) (PP (JJ such) (IN as) (NP (NP (NNS trees)) (, ,) (NP (JJ chordal) (NN graphs)) (, ,) (NP (NNS ladders)) (, ,) (NP (NN cacti)) (, ,) (NP (JJ outerplanar) (NN graphs)) (CC and) (NP (JJ circular) (NN arc) (NN graphs))))))))))) (. .))

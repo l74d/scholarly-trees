@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (PP (IN in) (NP (JJ constructive) (NN logic))) (SBAR (IN that) (S (NP (NP (DT the) (NN statement)) (PP (IN of) (NP (DT the) (NNP Cantor-Bernstein) (NN theorem)))) (VP (NNS implies) (NP (VBD excluded) (NN middle)))))) (. .))
+(S (NP (DT This)) (VP (VBZ establishes) (SBAR (IN that) (S (NP (DT the) (NNP Cantor-Bernstein) (NN theorem)) (VP (MD can) (ADVP (RB only)) (VP (VB be) (VP (RB proven) (S (VP (VBG assuming) (NP (NP (DT the) (JJ full) (NN power)) (PP (IN of) (NP (JJ classical) (NN logic)))))))))))) (. .))

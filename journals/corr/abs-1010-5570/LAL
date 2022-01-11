@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP investigate) (SBAR (WHADVP (WRB how)) (S (NP (NNS contracts)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB regulate) (NP (NP (DT the) (NN interaction)) (PP (IN between) (NP (NNS processes))))))))))))) (. .))
+(S (S (VP (TO To) (VP (VB do) (NP (DT that))))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (DT the) (NN concurrent) (NNS constraints) (VBP calculus))) (VP (VBN presented) (PP (IN in) (PRN (JJ -LSB-) (CD 1) (NN -RSB-)))) (, ,) (VP (VBG featuring) (NP (NP (NNS primitives)) (PP (IN for) (NP (NP (JJ multi-party) (NN synchronization)) (PP (IN via) (NP (NNS contracts))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP proceed) (PP (IN in) (NP (CD two) (NNS directions)))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP exploit) (NP (PRP$ our) (NNS primitives)) (S (VP (TO to) (VP (VB model) (NP (DT some) (JJ contract-based) (NNS interactions)))))) (. .))
+(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP discuss) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ several) (NNS models)) (PP (IN for) (NP (NN concurrency)))) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN through) (NP (PRP$ our) (NNS primitives))))))))) (. .))
+(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP encode) (NP (DT the) (NX (JJ pi-calculus)) (CC and) (NX (JJ graph) (NN rewriting)))) (. .))

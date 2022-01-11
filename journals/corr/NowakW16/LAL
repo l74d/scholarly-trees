@@ -1,0 +1,6 @@
+(PP (IN In) (NP (NP (DT a) (JJ recent) (NN paper)) (PRN (-LRB- -LRB-) (NP (NNP Appl)) (. .))))
+(NP (NN Math) (. .))
+(NP (NNP Comput) (. .))
+(S (PRN (CD 215) (, ,) (NP (CD 1622)) (: —) (NP (NP (CD 1645)) (, ,) (NP (CD 2009))) (-RRB- -RRB-)) (, ,) (NP (DT the) (NNS authors)) (VP (VBD proposed) (NP (NP (DT a) (NN method)) (PP (IN of) (NP (NP (NN summation)) (PP (IN of) (NP (DT some) (ADJP (RB slowly) (JJ convergent)) (NN series))))))) (. .))
+(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN note)))) (VP (VBZ is) (S (VP (TO to) (VP (VB give) (NP (NP (JJR more) (JJ theoretical) (NN analysis)) (PP (IN for) (NP (DT this) (NN transformation))) (, ,) (PP (VBG including) (NP (NP (DT the) (NN convergence) (NN acceleration) (NN theorem)) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (NN summation)) (PP (IN of) (NP (JJ generalized) (JJ hypergeometric) (NN series)))))))))))))) (. .))
+(S (NP (NP (DT Some) (JJ new) (JJ theoretical) (NNS results)) (CC and) (NP (JJ illustrative) (JJ numerical) (NNS examples))) (VP (VBP are) (VP (VBN given))) (. .))

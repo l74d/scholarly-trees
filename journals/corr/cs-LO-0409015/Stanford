@@ -1,0 +1,2 @@
+(S (NP (DT The) (NML (NML (NN replacement)) (-LRB- -LRB-) (CC or) (NML (NN collection) (CC or) (NN choice)) (-RRB- -RRB-)) (NN axiom) (NN scheme)) (VP (VBZ asserts) (VP (VBN bounded) (NP (JJR quantifier) (NN exchange)))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN independence)) (PP (IN of) (NP (NP (DT this) (NN scheme)) (PP (IN from) (NP (NP (JJ various) (JJ weak) (NNS theories)) (PP (IN of) (NP (NN arithmetic)))))))) (, ,) (ADVP (RB sometimes)) (PP (IN under) (NP (DT a) (NN complexity) (NN assumption)))) (. .))

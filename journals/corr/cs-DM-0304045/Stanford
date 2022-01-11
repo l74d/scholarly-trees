@@ -1,0 +1,7 @@
+(S (NP (NP (JJ Many) (`` ") (JJ good) ('' ") (NNS topologies)) (PP (IN for) (NP (NN interconnection) (NNS networks)))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NN line) (NNS digraphs)) (PP (IN of) (NP (JJ regular) (NNS digraphs))))))) (. .))
+(S (NP (DT These) (NNS digraphs)) (VP (VBP support) (NP (JJ unitary) (NNS matrices))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT the) (NN property) (`` ") (NML (S (VP (VBG being) (NP (NP (DT the) (NN digraph)) (PP (IN of) (NP (DT a) (JJ unitary) (NN matrix))))))) ('' ")) (PP (IN as) (NP (NP (JJ additional) (NN criterion)) (PP (IN for) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (JJ new) (NN interconnection) (NNS networks))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT a) (NN composition)) (PP (IN of) (NP (NP (NNS digraphs)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP call) (NP (JJ diagonal) (NN union))))))))) (. .))
+(S (NP (JJ Diagonal) (NN union)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB construct) (NP (NP (NNS digraphs)) (PP (IN of) (NP (JJ unitary) (NNS matrices)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP remark) (SBAR (IN that) (S (NP (NP (NNS digraphs)) (VP (VBN obtained) (PP (IN via) (NP (JJ diagonal) (NN union))))) (VP (VBP are) (NP (NN state) (NN split) (NNS graphs)) (, ,) (SBAR (IN as) (S (VP (VBN defined) (PP (IN in) (NP (JJ symbolic) (NNS dynamics)))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP list) (NP (NP (DT some) (JJ potential) (NNS directions)) (PP (IN for) (NP (JJ future) (NN research))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (EX There)) (VP (VBP exist) (NP (NP (NNS tilings)) (PP (IN of) (NP (DT the) (NN plane))) (PP (IN with) (NP (NP (NN pairwise) (JJ noncongruent) (NNS triangles)) (PP (IN of) (NP (NP (JJ equal) (NN area)) (CC and) (NP (VBD bounded) (NN perimeter)))))))) (. .))
+(S (ADVP (RB Analogously)) (, ,) (NP (EX there)) (VP (VBP exist) (NP (NP (NNS tilings)) (PP (IN with) (NP (NP (NNS triangles)) (PP (IN of) (NP (JJ equal) (NN perimeter))) (, ,) (SBAR (WHNP (NP (DT the) (NNS areas)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBP are) (VP (VBN bounded) (PP (IN from) (ADVP (IN below))) (PP (IN by) (NP (DT a) (JJ positive) (NN constant))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ solves) (NP (NP (DT a) (NN problem)) (PP (IN of) (NP (NNP Nandakumar))))) (. .))

@@ -1,0 +1,2 @@
+(S (SBAR (IN As) (S (NP (DT the) (NNS problems)) (VP (VBP are) (ADJP (NNP NP-hard))))) (, ,) (NP (PRP we)) (VP (VBP proceed) (S (VP (TO to) (VP (VB describe) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NN constant-approximation) (NN algorithms)) (PP (IN for) (S (VP (VBG solving) (NP (PRP them)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (PP (IN with) (NP (NP (JJ illustrative) (NNS applications)) (PP (IN of) (NP (DT the) (NN aggregation) (NNS methods))) (PP (IN on) (NP (NP (DT the) (NNP Mallows) (NN model)) (CC and) (NP (JJ genomic) (NNS data))))))) (. .))

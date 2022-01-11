@@ -1,0 +1,7 @@
+(S (NP (VBG Commuting) (NNS operations)) (VP (ADVP (RB greatly)) (VBP simplify) (NP (NN consistency)) (PP (IN in) (NP (JJ distributed) (NNS systems)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ focuses) (PP (IN on) (NP (S (VP (VBG designing) (PP (IN for) (NP (NN commutativity))))) (, ,) (NP (NP (DT a) (NN topic)) (VP (VBN neglected) (ADVP (RB previously))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (PDT such) (DT a) (NN data) (NN type)) (VP (NNS supports) (NP (NP (NNS transactions)) (PP (IN with) (NP (ADJP (RB very) (JJ low)) (NN cost)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP identify) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS approaches) (CC and) (NNS techniques)) (SBAR (S (VP (TO to) (VP (VB ensure) (NP (NN commutativity)))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP re-use) (NP (NP (DT some) (VBG existing) (NNS ideas)) (PRN (-LRB- -LRB-) (NP (NP (JJ non-destructive) (NNS updates)) (VP (VBN coupled) (PP (IN with) (NP (JJ invariant) (NN identification))))) (-RRB- -RRB-)))) (, ,) (CC but) (VP (VBP propose) (NP (DT a) (ADJP (ADVP (RB much) (RBR more)) (JJ efficient)) (NN implementation)))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN technique)) (, ,) (NP (IN background) (NN consensus)))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT these) (NNS ideas)) (PP (IN with) (NP (DT a) (VBN shared) (NN edit) (NN buffer) (NNS data) (NN type)))) (. .))

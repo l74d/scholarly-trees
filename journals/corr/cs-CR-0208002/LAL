@@ -1,0 +1,2 @@
+(S (NP (NP (NP (DT The) (NN pit) (NN recording)) (PP (IN of) (NP (NN file)))) (, ,) (NP (NP (DT the) (NN coefficient)) (PP (IN of) (NP (NN compression))))) (VP (VBP are) (VP (VBN introduced))) (. .))
+(S (NP (NP (NP (DT The) (JJ theoretical) (NN limit)) (PP (IN of) (NP (DT the) (NN information) (NN compression)))) (PP (IN as) (NP (NP (JJ minimal) (NN coefficient)) (PP (IN of) (NP (NN compression))) (PP (IN for) (NP (NP (DT the) (VBN given) (NN length)) (PP (IN of) (NP (NN alphabet)))))))) (VP (VBP are) (VP (VBN found))) (. .))

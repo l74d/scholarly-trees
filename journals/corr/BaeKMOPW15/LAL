@@ -1,0 +1,3 @@
+(S (NP (DT No) (NN algorithms)) (VP (VBD were) (VP (VBN known) (PP (IN for) (NP (DT these) (NNS problems))) (ADVP (IN before)))) (. .))
+(S (ADVP (RB Therefore)) (, ,) (NP (PRP$ our) (NNS algorithms)) (VP (VBP are) (ADJP (ADJP (RB significantly) (RBR faster)) (PP (IN than) (NP (NP (DT the) (NN algorithms)) (PP (IN for) (NP (DT the) (NNP Euclidean) (NNS problems))))))) (. .))
+(S (NP (PRP$ Our) (NNS algorithms)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (JJ several) (JJ interesting) (NNS observations)) (PP (IN on) (NP (NP (ADJP ($ $) (NNP L_1) ($ $)) (JJS shortest) (NNS paths)) (PP (IN in) (NP (JJ polygonal) (NNS domains))))))))) (. .))

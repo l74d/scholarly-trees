@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (SBAR (WHADVP (WRB why)) (S (NP (NN P) (CC and) (NN NP)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (ADJP (JJ different)))))))))) (. .))
+(S (NP (PRP It)) (VP (VP (NP (NNS analyses)) (S (NP (NP (DT the) (NN essence)) (PP (IN of) (NP (DT the) (NNS concepts)))))) (CC and) (VP (VBZ points) (PRT (RP out)) (SBAR (IN that) (S (NP (NP (NN P)) (CC and) (NP (NNP NP))) (VP (MD might) (VP (VB be) (ADJP (JJ diverse) (PP (IN by) (NP (JJ sheer) (NN definition)))))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ speculates) (SBAR (IN that) (S (NP (NP (NN P)) (CC and) (NP (NNP NP))) (VP (MD may) (VP (VB be) (ADJP (JJ unequal) (PP (IN due) (PP (IN to) (NP (JJ natural) (NNS laws)))))))))) (. .))

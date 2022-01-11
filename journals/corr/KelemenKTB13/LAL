@@ -1,0 +1,5 @@
+(S (NP (NP (JJ Many)) (PP (IN of) (NP (NN quality) (NNS approaches)))) (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ textual) (NNS pages))))))) (. .))
+(S (NP (NP (JJ Manual) (NN processing)) (PP (IN of) (NP (NN information)))) (VP (NNS consumes) (NP (NP (NN plenty)) (PP (IN of) (NP (NNS resources))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN report))) (NP (PRP we)) (VP (VBP present) (NP (NP (NP (DT a) (NN text) (NN mining) (NN approach)) (VP (VBN applied) (PP (IN on) (NP (NNP CMMI))))) (, ,) (NP (CD one) (ADJP (ADJP (NN well) (VBN known)) (CC and) (ADJP (RB widely) (VBN known))) (NN quality) (NN approach)))) (. .))
+(S (NP (DT The) (NN text) (NN mining) (NN analysis)) (VP (MD can) (VP (VB provide) (NP (NP (DT a) (JJ quick) (NN overview)) (PP (IN on) (NP (NP (DT the) (NN scope)) (PP (IN of) (NP (DT a) (NN quality) (NNS approaches)))))))) (. .))
+(S (NP (NP (DT The) (NN result)) (PP (IN of) (NP (DT the) (NN analysis)))) (VP (MD could) (VP (VB accelerate) (NP (NP (NP (DT the) (NN understanding)) (CC and) (NP (DT the) (NN selection))) (PP (IN of) (NP (NN quality) (NNS approaches)))))) (. .))

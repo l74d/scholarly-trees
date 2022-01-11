@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN article)) (VP (VBZ considers) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ mobile) (VBG learning))) (PP (IN in) (NP (JJ Bulgarian) (NN education))) (PP (IN by) (NP (JJ young) (NNS children))))) (. .))
+(S (NP (DT The) (ADJP (RBS most) (JJ used)) (NN mobile) (VBG operating) (NNS systems)) (VP (VBP are) (VP (VBN analyzed))) (. .))
+(S (ADVP (RB Also)) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ used)) (VBG existing) (NNS applications)) (ADJP (JJ suitable) (PP (IN for) (NP (NP (JJ mobile) (NN learning)) (PP (IN of) (NP (NN preschool) (NNS children))))))))) (VP (VBP are) (VP (VBN presented) (CC and) (VBN classified))) (. .))
+(NP (NP (NNS Keywords)) (: :) (NP (NP (NP (NNP Mobile) (NNS applications)) (PP (IN for) (NP (NN preschool) (NNS children)))) (, ,) (NP (JJ mobile) (NN learning))) (. .))

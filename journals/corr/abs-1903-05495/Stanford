@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP apply) (NP (JJ simple) (NML (JJ linear) (NN programming)) (NNS methods)))) (CC and) (S (NP (NP (DT an) (NN LP) (NN solver)) (PP (IN to) (S (VP (VB refute) (NP (NP (DT a) (NN number)) (PP (IN of) (ADJP (JJ open)))))))) (VP (VBZ conjectures) (PP (IN in) (NP (JJ extremal) (NNS combinatorics))))) (. .))

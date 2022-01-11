@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (ADVP (RB here)) (VP (VB summarize) (NP (NP (PRP$ our) (NN experience)) (VP (VBG running) (NP (NP (DT a) (NN challenge)) (PP (IN with) (NP (JJ open) (NNS data))) (PP (IN for) (NP (JJ musical) (NN genre) (NN recognition))))))) (. .))
+(S (NP (DT Those) (NNS notes)) (VP (VP (VBP motivate) (NP (NP (DT the) (NN task)) (CC and) (NP (DT the) (NN challenge) (NN design)))) (, ,) (VP (VBP show) (NP (NP (DT some) (NNS statistics)) (PP (IN about) (NP (DT the) (NNS submissions))))) (, ,) (CC and) (VP (VBD present) (NP (DT the) (NNS results)))) (. .))

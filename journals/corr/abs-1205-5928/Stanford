@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN minimization)) (PP (IN of) (NP (JJ deterministic) (NNP Kripke) (NNS structures)))))) (PP (IN with) (NP (NN O) (PRN (-LRB- -LRB-) (NP (NNP kn) (NN log2) (NN n)) (-RRB- -RRB-)) (NN time) (NN complexity)))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN correctness)) (CC and) (NP (NP (NN complexity) (NNS properties)) (PP (IN of) (NP (DT this) (NN algorithm)))))) (. .))

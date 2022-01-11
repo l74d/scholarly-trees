@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ tight) (JJR lower) (NN bound)) (PP (IN on) (NP (NP (NN makespan) (NNS approximations)) (PP (IN for) (NP (NP (JJ envy-free) (NN allocation) (NN mechanism)) (VP (VBN dedicated) (PP (TO to) (S (VP (VBG scheduling) (NP (NNS tasks)) (PP (IN on) (NP (JJ unrelated) (NNS machines))))))))))))) (. .))

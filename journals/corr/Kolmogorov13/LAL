@@ -1,0 +1,3 @@
+(S (ADVP (RB Importantly)) (, ,) (NP (PRP$ our) (NN derivation)) (VP (VP (VBZ is) (ADJP (ADJP (JJR simpler)) (PP (IN than) (NP (NP (DT the) (JJ original) (NN derivation)) (PP (IN of) (NP (NNP TRW-S))))))) (, ,) (CC and) (VP (VBZ does) (RB not) (VP (VB involve) (NP (NP (DT a) (NN decomposition)) (PP (IN into) (NP (NNS trees))))))) (. .))
+(S (NP (DT This)) (VP (VBZ allows) (NP (JJ easy) (NNS generalizations))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (JJ such) (DT a) (NN generalization)) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ higher-order) (JJ graphical) (NNS models)))))) (, ,) (CC and) (VP (NN test) (NP (PRP it)) (PP (IN on) (NP (JJ several) (JJ real-world) (NNS problems))) (PP (IN with) (NP (JJ promising) (NNS results))))) (. .))

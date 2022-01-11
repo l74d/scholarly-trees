@@ -1,0 +1,7 @@
+(S (NP (NP (NN Segmentation)) (PP (IN of) (NP (JJ medical) (NNS images)))) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN part)) (PP (IN in) (NP (NP (DT the) (NN process)) (PP (IN of) (NP (NNS diagnostics))))))) (. .))
+(S (NP (NNS Physicians)) (VP (VBP require) (NP (DT an) (ADJP (JJ automatic) (, ,) (JJ robust) (CC and) (JJ valid)) (NNS results))) (. .))
+(S (NP (NP (NNP Hidden) (NNP Markov) (NNP Random) (NNP Fields)) (PRN (-LRB- -LRB-) (NP (NNP HMRF)) (-RRB- -RRB-))) (VP (VBP provide) (NP (JJ powerful) (NN model))) (. .))
+(S (NP (DT This) (JJ latter)) (VP (NNS models) (NP (DT the) (NN segmentation) (NN problem)) (PP (IN as) (NP (NP (DT the) (NN minimization)) (PP (IN of) (NP (DT an) (NN energy) (NN function)))))) (. .))
+(S (NP (NNP Cuckoo) (NN search) (PRN (-LRB- -LRB-) (NP (NNP CS)) (-RRB- -RRB-)) (NN algorithm)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ recent) (JJ nature-inspired) (JJ meta-heuristic) (NN algorithms))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (VP (VBN shown) (NP (PRP$ its) (NN efficiency)) (PP (IN in) (NP (JJ many) (NN engineering) (NN optimization) (NNS problems))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (CD three) (NN cuckoo) (NN search) (NN algorithm)) (S (VP (TO to) (VP (VB achieve) (NP (JJ medical) (NN image) (NN segmentation)))))) (. .))

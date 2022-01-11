@@ -1,0 +1,7 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NNP K-tree)) (PP (IN in) (NP (DT an) (NN information) (NN retrieval) (NN context)))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (JJ efficient) (NN approximation)) (PP (IN of) (NP (DT the) (NNS k-means) (VBG clustering) (NN algorithm))))) (. .))
+(S (PP (IN Unlike) (NP (NNS k-means))) (NP (PRP it)) (VP (VBZ forms) (NP (NP (DT a) (NN hierarchy)) (PP (IN of) (NP (NNS clusters))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (VP (VBN extended) (S (VP (TO to) (VP (VB address) (NP (NP (NNS issues)) (PP (IN with) (NP (JJ sparse) (NNS representations)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP compare) (NP (NN performance) (CC and) (NN quality)) (PP (TO to) (NP (NNP CLUTO))) (S (VP (VBG using) (NP (JJ document) (NNS collections))))) (. .))
+(S (NP (DT The) (NNP K-tree)) (VP (VBZ has) (NP (NP (DT a) (JJ low) (NN time) (NN complexity)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (JJ large) (NN document) (NNS collections))))))))) (. .))
+(S (NP (DT This) (NN tree) (NN structure)) (VP (VBZ allows) (PP (IN for) (NP (NP (JJ efficient) (NN disk) (VBN based) (NNS implementations)) (SBAR (WHADVP (WRB where)) (S (NP (NN space) (NNS requirements)) (VP (VBP exceed) (NP (NP (IN that)) (PP (IN of) (NP (JJ main) (NN memory)))))))))) (. .))

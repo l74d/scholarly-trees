@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (SBAR (IN that) (S (NP (DT the) (NNS nodes)) (VP (VBP have) (NP (DT no) (NNS identifiers))))) (, ,) (CC but) (SBAR (IN that) (S (ADVP (RB instead)) (, ,) (NP (DT the) (NN computation)) (VP (VBZ starts) (PP (IN with) (NP (DT an) (JJ initial) (JJ valid) (NN vertex) (NN coloring)))))))) (. .))

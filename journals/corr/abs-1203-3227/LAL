@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ takes) (NP (NP (JJ new) (NN look)) (PP (IN on) (NP (NP (NN language) (CC and) (NN knowledge) (NN modelling)) (PP (IN for) (NP (NN corpus) (NNS linguistics))))))) (. .))
+(S (S (VP (VBG Using) (NP (NP (NNS ideas)) (PP (IN of) (NP (NNP Chaitin)))))) (, ,) (NP (NP (DT a) (NN line)) (PP (IN of) (NP (NN argument)))) (VP (VBZ is) (VP (VBN made) (PP (IN against) (NP (NP (JJ language/knowledge) (NN separation)) (PP (IN in) (NP (NNP Natural) (NNP Language) (NNP Processing))))))) (. .))
+(S (NP (NP (DT A) (JJ simplistic) (NN model)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ generalises) (NP (NP (NNS approaches)) (PP (TO to) (NP (NN language) (CC and) (NN knowledge))))))) (, ,)) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (NP (JJ hypothetical) (NNS consequences)) (PP (IN of) (NP (DT this) (NN model)))))) (VP (VBZ is) (NP (JJ Strong) (NNP AI))) (. .))

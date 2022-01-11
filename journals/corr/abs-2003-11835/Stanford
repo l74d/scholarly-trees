@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN representation)) (PP (IN of) (NP (NP (DT a) (JJ dynamic) (VBN ordered) (NN set)) (PP (IN of) (NP (NP (NML (NML (NML ($ $)) (NN n)) (NML ($ $))) (NN integer) (NNS keys)) (VP (VBN drawn) (PP (IN from) (NP (NP (DT a) (NN universe)) (PP (IN of) (NP (NN size))))) (PP (FRAG (NP ($ $) (CD m)) (NP ($ $)))))))))) (VP (VBZ is) (NP (DT a) (JJ fundamental) (NN data) (NN structuring) (NN problem))) (. .))
+(S (NP (DT These) (NN time) (NNS bounds)) (VP (VBP are) (ADJP (JJ optimal))) (. .))

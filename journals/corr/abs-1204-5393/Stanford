@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ uniform) (NN recurrence)) (PP (IN of) (NP (JJ morphic) (NNS sequences)))) (VP (VBZ is) (ADJP (JJ decidable)))))) (. .))
+(S (PP (IN For) (NP (DT this))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (VBN derived) (NNS sequences)) (PP (IN of) (NP (ADJP (RB uniformly) (JJ recurrent)) (JJ morphic) (NNS sequences)))))) (VP (VBZ is) (VP (VBN bounded)))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN corollary))) (NP (PRP we)) (VP (VBP obtain) (SBAR (IN that) (S (NP (ADJP (RB uniformly) (JJ recurrent)) (JJ morphic) (NNS sequences)) (VP (VBP are) (NP (JJ primitive) (JJ substitutive) (NNS sequences)))))) (. .))

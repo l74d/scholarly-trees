@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP present) (NP (DT a) (JJ refined) (NN summation) (NN theory)) (PP (VBN based) (PP (IN on) (NP (NP (NNP Karr) (POS 's)) (NN difference) (NN field) (NN approach))))) (. .))
+(S (NP (DT The) (VBG resulting) (NNS algorithms)) (VP (VBP find) (NP (NN sum) (NNS representations)) (PP (IN with) (NP (JJ optimal) (VBN nested) (NN depth)))) (. .))
+(S (PP (IN For) (NP (NN instance))) (, ,) (NP (DT the) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN applied) (ADVP (RB successively)) (S (VP (TO to) (VP (VB evaluate) (NP (NNP Feynman) (NNS integrals)) (PP (IN from) (NP (NNP Perturbative) (NNP Quantum) (NNP Field) (NNP Theory))))))))) (. .))

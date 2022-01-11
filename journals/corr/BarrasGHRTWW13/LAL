@@ -1,0 +1,1 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (DT the) (NNP Paral-ITP) (NN project)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ intents) (S (VP (TO to) (VP (VB make) (S (NP (DT the) (NN proof) (NNS assistants) (NNP Isabelle) (CC and) (NNP Coq)) (ADJP (NN fit) (PP (IN for) (NP (DT the) (NN multicore) (NN era))))))))))))))) (. .))

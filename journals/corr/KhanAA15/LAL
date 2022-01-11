@@ -1,0 +1,7 @@
+(S (NP (NN Chapter) (CD 2)) (VP (MD will) (VP (VB begin) (PP (IN with) (NP (NP (NN introduction)) (PP (IN of) (NP (NNP Agricultural) (NNPS Robotics))))))) (. .))
+(S (NP (EX There)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (JJ literature) (NN review)) (PP (IN of) (NP (DT the) (JJ mechanical) (NN structure) (, ,) (NN vision) (CC and) (NN control) (NN algorithms)))))) (. .))
+(S (PP (IN In) (NP (NN chapter) (CD 3))) (NP (PRP we)) (VP (MD will) (VP (VB discuss) (NP (DT the) (NN methodology)) (PP (IN in) (NP (NN detail))) (S (VP (VBG using) (NP (NP (NN block) (NNS diagrams)) (CC and) (NP (NNS flowcharts))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT the) (UCP (ADJP (VBN tested)) (CC and) (ADJP (DT the) (VBN proposed))) (NN algorithms)))) (VP (MD will) (ADVP (RB also)) (VP (VB be) (VP (VBN displayed)))) (. .))
+(S (PP (IN In) (NP (NN chapter) (CD 4))) (NP (PRP we)) (VP (MD will) (VP (VP (VB discuss) (NP (DT the) (NNS results)) (PP (IN in) (NP (NN detail)))) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (VBP are) (PP (IN of) (NP (NN significance))) (PP (IN in) (NP (PRP$ our) (NN work)))))))) (. .))
+(S (PP (IN In) (NP (NN chapter) (CD 5))) (NP (PRP we)) (VP (MD will) (VP (VP (VB conclude) (NP (PRP$ our) (NN work))) (CC and) (VP (VB discuss) (NP (DT some) (NN future) (NNS perspectives))))) (. .))
+(S (PP (IN In) (NP (NNS appendices))) (NP (PRP we)) (VP (MD will) (VP (VB provide) (NP (NP (DT some) (NN background) (NN information)) (ADJP (JJ necessary) (PP (NN regarding) (NP (DT this) (NN project))))))) (. .))

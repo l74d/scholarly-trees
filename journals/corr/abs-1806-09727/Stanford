@@ -1,0 +1,2 @@
+(S (NP (NP (JJ New) (NN number) (HYPH -) (JJ theoretic)) (SBAR (S (VP (VBZ transforms))))) (VP (VBP are) (VP (VBN derived) (PP (IN from) (NP (NP (VBN known) (NML (JJ linear) (NN block)) (NNS codes)) (PP (IN over) (NP (JJ finite) (NNS fields))))))) (. .))
+(S (NP (NP (DT A) (JJ few) (NNS properties)) (PP (IN of) (NP (DT these) (JJ new)))) (VP (VBZ transforms) (SBAR (S (VP (VBP are) (VP (VBN presented)))))) (. .))

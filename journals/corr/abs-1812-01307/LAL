@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ parallel) (NN reconstruction) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (JJ large) (JJ scale) (NN TV) (VBD constrained) (JJ linear) (NN inverse) (NNS problems)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP provide) (NP (DT a) (NN convergence) (NN proof))) (CC and) (VP (VB show) (ADVP (RB numerically)) (SBAR (IN that) (S (NP (PRP$ our) (NN method)) (VP (VBZ is) (ADJP (ADJP (RB significantly) (RBR faster)) (PP (IN than) (NP (NP (DT the) (JJ main) (NN competitor)) (, ,) (NP (NN block) (NNP ADMM)))))))))) (. .))

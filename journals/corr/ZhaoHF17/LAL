@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ unified) (NN framework)) (SBAR (S (VP (TO to) (VP (VB speed) (PRT (RP up)) (NP (FRAG (SBAR (DT the) (VBG existing) (JJ stochastic) (NN matrix) (NN factorization) (PRN (-LRB- -LRB-) (NNP SMF) (-RRB- -RRB-)))) (VBP algorithms)) (PP (IN via) (NP (NN variance) (NN reduction))))))))) (. .))
+(S (S (NP (PRP$ Our) (NN framework)) (VP (VBZ is) (ADJP (JJ general)))) (CC and) (S (NP (PRP it)) (VP (VBZ subsumes) (NP (NP (JJ several) (JJ well-known) (NNP SMF) (NNS formulations)) (PP (IN in) (NP (DT the) (NN literature)))))) (. .))

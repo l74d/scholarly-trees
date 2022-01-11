@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (JJ nonlinear) ($ $) (JJ q) ($ $) (JJ -voter) (NN model)) (PP (IN with) (NP (NP (NNS deadlocks)) (PP (IN on) (NP (DT a) (JJ Watts-Strogats) (NN graph)))))) (. .))
+(S (S (VP (VBG Using) (NP (NNP Monte) (NNP Carlo) (NNS simulations)))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (ADJP (RB so) (JJ called)) (NX (NX (NN exit) (NN probability)) (CC and) (NX (NN exit) (NN time))))) (. .))
+(S (NP (PRP We)) (VP (VBP determine) (SBAR (WHADVP (WRB how)) (S (NP (NP (NN network) (NNS properties)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN randomness)) (CC or) (NP (NP (NN density)) (PP (IN of) (NP (NNS links))))))) (VP (NN influence) (NP (NP (NN exit) (NNS properties)) (PP (IN of) (NP (DT a) (NN model)))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (NN Paper)) (VP (VBZ is) (VP (VBN withdrawn))) (. .))
+(S (PP (IN On) (NP (NN review))) (NP (DT the) (NN paper)) (VP (VBZ contributes) (NP (NP (JJ little)) (PP (IN of) (NP (NN significance))))) (. .))
+(S (NP (NP (DT The) (NN runtime) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NNS algorithms)) (VP (VBN presented))))) (, ,) (SBAR (IN while) (FRAG (ADJP (JJ correct) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN number)) (PP (IN of) (NP (NNS operations)))))))))) (, ,) (VP (VBZ does) (RB not) (VP (VB represent) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (NNS algorithms)))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (`` ") (NNS bits) (NN input) ('' "))))))) (. .))
+(NP (NP (DT A) (JJ naive) (NN mistake)) (PP (IN in) (NP (NN reasoning))) (. .))

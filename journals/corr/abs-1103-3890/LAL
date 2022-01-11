@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Game) (NNS versions)) (PP (IN of) (NP (DT the) (NNP Monty) (NNP Hall) (NNP Problem)))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (DT The) (NN focus)) (VP (VBZ is) (PP (IN on) (NP (NP (DT the) (NN principle)) (PP (IN of) (S (VP (VBG eliminating) (NP (DT the) (JJ dominated) (NNS strategies)) (, ,) (PP (DT both) (IN in) (NP (DT the) (NN zero-sum) (CC and) (JJ noncooperative) (NNS formulations))))))))) (. .))

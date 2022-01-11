@@ -1,0 +1,4 @@
+(S (S (ADVP (RB Nowadays)) (NP (NN computer) (NN science)) (VP (MD can) (VP (VB create) (NP (NP (JJ digital) (NNS worlds)) (SBAR (WHNP (WDT that)) (S (ADVP (RB deeply)) (VP (VBP immerse) (NP (NNS users))))))))) (: ;) (S (NP (PRP it)) (VP (MD can) (ADVP (RB also)) (VP (VB process) (PP (IN in) (NP (NML (JJ real) (NN time)) (NN brain) (NN activity))) (S (VP (TO to) (VP (VB infer) (NP (PRP$ their) (JJ inner) (NNS states)))))))) (. .))
+(SBARQ (WHNP (WDT What) (NNS marvels)) (SQ (MD can) (NP (PRP we)) (VP (VB achieve) (PP (IN with) (NP (JJ such) (NNS technologies))))) (. ?))
+(S (VP (VB Go) (ADVP (RB back)) (PP (IN to) (S (VP (VBG displaying) (NP (NN text)))))) (. .))
+(S (CC And) (VP (VB unfold) (NP (NP (DT a) (NN story)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ follows)) (CC and) (VP (NP (NNS molds) (NNS users)) (PP (IN as) (ADVP (RB never)))))))) (ADVP (RB before))) (. .))

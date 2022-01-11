@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD present) (NP (NP (DT a) (JJ fast) (JJ minimal) (NN solver)) (PP (IN for) (NP (JJ absolute) (NN camera) (JJ pose) (NN estimation))) (PP (IN from) (NP (NP (CD four) (VBN known) (NNS points)) (SBAR (WHNP (WDT that)) (S (VP (VBP lie) (PP (IN in) (NP (DT a) (NN plane)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP assume) (NP (NP (DT a) (NN perspective) (NN camera) (NN model)) (PP (IN with) (NP (NP (JJ unknown) (JJ focal) (NN length)) (CC and) (NP (JJ unknown) (JJ radial) (NN distortion)))))) (. .))
+(S (NP (DT The) (JJ radial) (NN distortion)) (VP (VBZ is) (VP (VBN modelled) (S (VP (VBG using) (NP (NP (DT the) (NN division) (NN model)) (PP (IN with) (NP (CD one) (NN parameter)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NNS solutions)) (PP (TO to) (NP (DT this) (NN problem)))) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN from) (NP (DT a) (JJ univariate) (JJ six-degree) (NN polynomial))))))))) (. .))
+(S (NP (DT This)) (VP (NNS results) (PP (IN in) (NP (DT a) (ADJP (ADJP (RB very) (JJ fast)) (CC and) (ADJP (RB numerically) (JJ stable))) (NN solver)))) (. .))

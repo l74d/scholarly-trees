@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (ADJP (RB widely) (VBN known)) (NML (JJ linear) (NN time)) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (DT the) (JJ maximum) (NN area) (NN triangle)) (PP (IN in) (NP (DT a) (NN convex) (NN polygon))))))) (VP (VBD was) (VP (VBN found) (S (ADJP (JJ incorrect))) (PP (ADVP (RB recently)) (IN by) (NP (NP (NNP Keikha)) (ADVP (FW et)))))) (. .))
+(FRAG (ADVP (FW al.)) (NP (-LRB- -LRB-) (NP (NN arXiv)) (: :) (NP (CD 1705.11035)) (-RRB- -RRB-)) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ alternative) (NN algorithm)) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (S (VP (VBG Comparing) (PP (IN to) (NP (DT the) (JJ only) (ADJP (RB previously) (VBN known)) (JJ correct) (NN solution))))) (, ,) (NP (PRP ours)) (VP (VBZ is) (ADJP (ADJP (RB much) (JJR simpler)) (CC and) (ADJP (RBR more) (JJ efficient)))) (. .))
+(S (ADVP (RBR More) (RB importantly)) (, ,) (NP (PRP$ our) (JJ new) (NN approach)) (VP (VBZ is) (ADJP (JJ powerful) (PP (IN in) (S (VP (VBG solving) (NP (JJ related) (NNS problems))))))) (. .))

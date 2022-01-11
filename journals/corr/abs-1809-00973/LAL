@@ -1,0 +1,3 @@
+(S (NP (JJ Convolutional) (JJ neural) (NNS networks)) (VP (VBP are) (NP (NP (DT the) (ADJP (ADVP (RBS most) (RB widely)) (VBN used)) (NN type)) (PP (IN of) (NP (JJ neural) (NNS networks))) (PP (IN in) (NP (NNS applications))))) (. .))
+(S (PP (IN In) (NP (JJ mathematical) (NN analysis))) (, ,) (ADVP (RB however)) (, ,) (NP (ADJP (RB mostly) (JJ fully-connected)) (NNS networks)) (VP (VBP are) (VP (VBN studied))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VB establish) (NP (NP (DT a) (NN connection)) (PP (IN between) (NP (DT both) (NN network) (NNS architectures))))) (. .))

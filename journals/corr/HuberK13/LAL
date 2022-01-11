@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (NP (JJ skew) (JJ bisubmodular) (NNS functions)) (SBAR (IN as) (S (VP (VBN introduced) (PP (IN in) (NP (JJ -LSB-) (CD 9) (NN -RSB-)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN extension)) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (NP (JJ skew) (JJ bisubmodular) (NNS functions)) (VP (VBN given) (PP (IN by) (NP (DT an) (NN oracle))))) (VP (MD can) (VP (VB be) (VP (VBN minimised) (PP (IN in) (NP (JJ polynomial) (NN time)))))))))))) (. .))

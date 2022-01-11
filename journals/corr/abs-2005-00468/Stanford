@@ -1,0 +1,4 @@
+(S (NP (NP (JJ Multilingual) (NN discourse)) (VP (VBG parsing))) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ prominent)) (NN research) (NN topic))) (. .))
+(S (NP (NP (DT The) (JJ first) (NN stage)) (PP (IN for) (NP (NP (NN discourse)) (VP (VBG parsing))))) (VP (VBZ is) (NP (NN discourse) (NN segmentation))) (. .))
+(S (NP (DT The) (NN study)) (VP (VBD reported) (SBAR (IN in) (S (NP (DT this) (NN article)) (VP (VBZ addresses) (NP (NP (DT a) (NN review)) (PP (IN of) (NP (NML (NML (CD two)) (PP (IN on) (HYPH -) (NP (NN line)))) (JJ available) (NN discourse) (NNS segmenters)))) (-LRB- -LRB-) (PP (IN for) (NP (NNP English) (CC and) (NNP Portuguese))) (-RRB- -RRB-))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG developing) (NP (JJ similar) (NN discourse) (NNS segmenters)) (PP (IN for) (NP (ADJP (JJ Spanish) (, ,) (JJ French) (CC and) (JJ African)) (NNS languages)))))))) (. .))

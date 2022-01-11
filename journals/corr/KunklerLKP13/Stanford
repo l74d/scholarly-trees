@@ -1,0 +1,2 @@
+(S (ADVP (RB However)) (, ,) (NP (DT the) (NN realization)) (VP (VBD found) (PP (IN via) (NP (NP (DT this) (NN reduction)) (SBAR (S (VP (VBZ is) (RB not) (VP (VBN guaranteed) (S (VP (TO to) (VP (VB be) (VP (VBN connected)))))))))))) (. .))
+(S (S (VP (VBG Approximating) (NP (NP (DT the) (NML (JJ minimum) (NN weight)) (NML (NN b) (HYPH -) (NN matching)) (NN problem)) (ADJP (JJ subject) (PP (IN to) (NP (DT a) (NN connectivity) (NN constraint))))))) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (NP (NNP NP) (HYPH -) (NNP Hard))))))) (. .))

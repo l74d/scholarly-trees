@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN letter)) (VP (VBZ proposes) (NP (NP (DT a) (JJ fast) (NN identification) (NN algorithm)) (PP (IN for) (NP (NNP Wiener-Hammerstein) (NNS systems))))) (. .))
+(S (NP (NP (DT The) (JJ computational) (NN cost)) (PP (IN of) (S (VP (VBG separating) (NP (DT the) (NN front) (CC and) (DT the) (RB back) (JJ linear) (NN time) (JJ invariant) (NN block) (NNS dynamics)))))) (VP (VBZ is) (VP (ADVP (RB significantly)) (VBN improved) (PP (IN by) (S (VP (VBG using) (NP (JJ discrete) (NN optimization))))))) (. .))
+(S (NP (DT The) (JJ discrete) (NN optimization)) (VP (VBZ is) (VP (VBN implemented) (PP (IN as) (NP (DT a) (JJ genetic) (NN algorithm))))) (. .))
+(S (NP (JJ Numerical) (NNS results)) (VP (VBP confirm) (NP (NP (DT the) (NN efficiency) (CC and) (NN accuracy)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

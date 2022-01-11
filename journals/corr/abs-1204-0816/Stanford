@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT every) (NML (INTJ (UH YES))) (NN instance)) (PP (IN of) (NP (NNP Balanced) (NNP ST) (HYPH -) (NNP Connectivity)))) (VP (VBZ has) (NP (NP (DT a) (JJ balanced) (NN path)) (PP (IN of) (NP (JJ polynomial) (NN length)))))))) (. .))

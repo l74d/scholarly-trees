@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP distinguish) (NP (CD two) (NNS levels)) (PP (IN for) (NP (DT the) (JJ plane-filling) (NN property)))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (DT a) (ADJP (ADJP (NN simple)) (CC and) (ADJP (DT a) (JJ strong))) (CD one))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT the) (NN construction)) (SBAR (WHNP (WDT which)) (S (VP (VBZ proves) (SBAR (IN that) (S (NP (DT the) (JJ simple) (JJ plane-filling) (NN property)) (ADVP (RB also)) (VP (VBZ holds) (PP (IN for) (NP (DT the) (JJ hyperbolic) (NN plane))))))))))) (. .))
+(S (NP (DT The) (JJ plane-filling) (NN property)) (VP (VBD was) (VP (VBN established) (PP (IN for) (NP (DT the) (NNP Euclidean) (NN plane))) (PP (IN by) (NP (NNP J.) (NNP Kari))) (, ,) (PP (IN in) (NP (CD 1994))) (, ,) (PP (IN in) (NP (DT the) (JJ strong) (NN version))))) (. .))

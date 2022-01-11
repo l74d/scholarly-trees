@@ -1,0 +1,5 @@
+(S (VP (VB Let) (S (NP (NNP PT-DFA)) (VP (VB mean) (NP (NP (DT a) (JJ deterministic) (JJ finite) (NN automaton)) (SBAR (WHNP (WP$ whose) (NN transition) (NN relation)) (S (VP (VBZ is) (NP (DT a) (JJ partial) (NN function))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (RB not) (VP (VBN needed) (, ,) (SBAR (IN if) (S (NP (NNS transitions)) (VP (VBP are) (PP (IN in) (NP (DT a) (JJ suitable) (NN order))) (PP (IN in) (NP (DT the) (NN input)))))))) (. .))
+(S (NP (DT The) (JJ algorithm)) (VP (NNS uses) (NP (NP (CD two) (NNS instances)) (PP (IN of) (NP (DT an) (JJ array-based) (NN data) (NN structure)))) (PP (IN for) (S (VP (VBG maintaining) (NP (DT a) (JJ refinable) (NN partition)))))) (. .))
+(S (NP (PRP$ Its) (NNS operations)) (VP (VBP are) (DT all) (VP (JJ amortized) (NP (JJ constant) (NN time)))) (. .))
+(S (S (NP (CD One) (NN instance)) (VP (VBZ represents) (NP (DT the) (JJ classical) (NNS blocks)))) (CC and) (S (NP (DT the) (JJ other)) (NP (NP (DT a) (NN partition)) (PP (IN of) (NP (NNS transitions))))) (. .))

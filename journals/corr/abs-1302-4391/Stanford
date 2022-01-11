@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP formulate) (NP (NP (NN genome) (NN assembly) (NN problem)) (PP (IN as) (NP (NP (DT an) (NN optimization) (NN problem)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (JJ objective) (NN function)) (VP (VBZ is) (NP (NP (DT the) (NN likelihood)) (PP (IN of) (NP (NP (DT the) (NN assembly)) (VP (VBN given) (NP (DT the) (NNS reads))))))))))))) (. .))

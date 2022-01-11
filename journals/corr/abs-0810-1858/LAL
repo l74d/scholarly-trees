@@ -1,0 +1,8 @@
+(S (NP (NNP Sosemanuk)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (JJ synchronous) (JJ software-oriented) (NN stream) (NN cipher)) (, ,) (VP (VBG corresponding) (PP (TO to) (NP (NP (NNP Profile) (CD 1)) (PP (IN of) (NP (NP (DT the) (NNP ECRYPT) (NN call)) (PP (IN for) (NP (NN stream) (NN cipher) (NNS primitives)))))))))) (. .))
+(S (NP (PRP$ Its) (JJ key) (NN length)) (VP (VBZ is) (ADJP (JJ variable) (PP (IN between) (NP (QP (CD 128) (CC and) (CD 256)) (NNS bits))))) (. .))
+(S (NP (PRP It)) (VP (JJ ac-) (VBZ commodates) (NP (DT a) (JJ 128-bit) (JJ initial) (NN value))) (. .))
+(S (NP (DT Any) (JJ key) (NN length)) (VP (VBZ is) (VP (VBN claimed) (S (VP (TO to) (VP (VB achieve) (NP (JJ 128-bit) (NN security))))))) (. .))
+(S (NP (DT The) (NNP Sosemanuk) (NN cipher)) (VP (VBZ uses) (NP (DT both) (NP (NP (DT some) (JJ basic) (NN design) (NNS principles)) (PP (IN from) (NP (DT the) (NN stream) (NN cipher) (NNP SNOW) (CD 2.0)))) (CC and) (NP (NP (DT some) (NNS transformations)) (VP (VBN derived) (PP (IN from) (NP (DT the) (NN block) (NN cipher) (NNP SERPENT))))))) (. .))
+(S (NP (NNP Sosemanuk)) (VP (NNS aims) (PP (IN at) (JJ improv-) (S (VP (VBG ing) (NP (NNP SNOW) (CD 2.0)) (PP (DT both) (PP (IN from) (NP (DT the) (NN security))) (CC and) (PP (IN from) (NP (NP (DT the) (NN efficiency) (NNS points)) (PP (IN of) (NP (NN view)))))))))) (. .))
+(S (ADVP (JJS Most) (RB notably)) (, ,) (NP (PRP it)) (VP (VBZ uses) (NP (DT a) (RBR faster) (JJ IV-setup) (NN procedure))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ requires) (NP (NP (DT a) (JJ reduced) (NN amount)) (PP (IN of) (NP (JJ static) (NNS data)))) (, ,) (S (VP (VBG yielding) (NP (NP (JJR better) (NN performance)) (PP (IN on) (NP (JJ several) (NNS architectures))))))) (. .))

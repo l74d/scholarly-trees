@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (JJ dynamical) (NN behavior)) (PP (IN of) (NP (JJ non-uniform) (JJ cellular) (NN automata)))) (VP (VBZ is) (PP (VBN compared) (PP (IN with) (NP (NP (DT the) (CD one)) (PP (IN of) (NP (JJ classical) (JJ cellular) (NN automata))))))) (. .))
+(S (NP (JJ Several) (NNS differences) (CC and) (NNS similarities)) (VP (VBP are) (VP (VBN pointed) (PRT (RP out)) (PP (IN by) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS examples))))))) (. .))
+(S (NP (NP (NN Decidability)) (PP (IN of) (NP (NP (JJ basic) (NNS properties)) (PP (IN like) (NP (NN surjectivity) (CC and) (NN injectivity)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN established))) (. .))
+(S (NP (DT The) (JJ final) (NN part)) (VP (VBZ studies) (NP (NP (DT a) (JJ strong) (NN form)) (PP (IN of) (NP (NP (NN equicontinuity) (NN property)) (VP (ADVP (RB specially)) (VBN suited) (PP (IN for) (NP (JJ non-uniform) (JJ cellular) (NN automata)))))))) (. .))

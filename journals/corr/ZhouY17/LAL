@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (VBG limiting) (NN distribution)) (PP (IN of) (NP (DT the) (NN estimator)))) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (DT Some) (NNS simulations)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB illustrate) (NP (PRP$ our) (JJ theoretical) (NNS results))))))) (. .))

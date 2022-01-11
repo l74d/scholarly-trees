@@ -1,0 +1,1 @@
+(NP (NP (DT A) (JJ polynomial) (NN time) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ detects) (NP (NP (DT all) (NNS paths) (CC and) (NNS cycles)) (PP (IN of) (NP (NP (DT all) (NNS lengths)) (PP (IN in) (NP (NN form))) (PP (IN of) (NP (NN vertex) (NNS pairs))) (PRN (-LRB- -LRB-) (S (VP (VB start) (, ,) (VB finish))) (-RRB- -RRB-)))))))) (. .))

@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP have) (VP (VBN tried) (S (VP (TO to) (VP (VB compare) (NP (DT the) (JJ various) (NN face) (NN recognition) (NNS models)) (PP (IN against) (NP (PRP$ their) (JJ classical) (NNS problems)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP look) (PP (IN at) (NP (NP (DT the) (NNS methods)) (VP (VBN followed) (PP (IN by) (NP (DT these) (NNS approaches))))))) (CC and) (VP (VB evaluate) (SBAR (WHPP (TO to) (WHNP (WP what) (NN extent))) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NNS problems))))))))))) (. .))
+(S (NP (NP (DT All) (NNS methods)) (VP (VBN proposed))) (VP (VBP have) (NP (DT some) (NNS drawbacks)) (PP (IN under) (NP (JJ certain) (NNS conditions)))) (. .))
+(S (S (VP (TO To) (VP (VB overcome) (NP (DT these) (NNS drawbacks))))) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ multi-model) (NN approach))))

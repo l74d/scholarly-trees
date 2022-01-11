@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN attacker) (POS 's)) (NN goal)) (VP (MD can) (VP (VB be) (VP (VBN stated) (PP (IN as) (NP (NP (NNP Boolean) (NN expression)) (PP (IN over) (S (VP (VBG guessing) (NP (JJ particular) (NNS attributes)) (, ,) (PP (ADVP (RB possibly)) (IN within) (NP (DT some) (NN precision))))))))))) (. .))
+(S (NP (NP (DT The) (NNS attributes)) (VP (VBN combined) (PP (IN in) (NP (DT this) (NN way))))) (VP (MD should) (VP (VB be) (ADJP (JJ independent)))) (. .))
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT both) (DT the) (NN input) (CC and) (DT the) (NN output) (NNS distributions)) (VP (VBP have) (NP (VBG corresponding) (NX (NX (NN probability) (NN density) (NNS functions)) (, ,) (CC or) (NX (NN probability) (NN mass) (NNS functions)))))))) (. .))

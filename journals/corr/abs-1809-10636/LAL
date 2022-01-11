@@ -1,0 +1,7 @@
+(S (NP (JJ Generative) (NNS models)) (VP (VBP are) (VP (ADVP (RB successfully)) (VBN used) (PP (IN for) (NP (NN image) (NN synthesis))) (PP (IN in) (NP (DT the) (JJ recent) (NNS years))))) (. .))
+(S (CC But) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (NP (NP (JJ other) (NNS modalities)) (PP (IN like) (NP (NN audio) (, ,) (EX text) (JJ etc)))))))) (NP (JJ little) (NN progress)) (VP (VBZ has) (VP (VBN been) (VP (VBN made)))) (. .))
+(S (NP (JJ Recent) (VBZ works)) (VP (NN focus) (PP (IN on) (S (VP (VBG generating) (NP (NN audio)) (PP (IN from) (NP (DT a) (JJ generative) (NN model))) (PP (IN in) (NP (DT an) (JJ unsupervised) (NN setting))))))) (. .))
+(S (NP (PRP We)) (VP (VBP explore) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG using) (NP (NP (JJ generative) (NNS models)) (VP (VBN conditioned) (PP (IN on) (NP (NN class) (NNS labels)))))))))) (. .))
+(S (NP (NP (ADJP (NN Concatenation) (VBN based)) (NN conditioning)) (CC and) (NP (JJ conditional) (NN scaling))) (VP (VBD were) (VP (VBN explored) (PP (IN in) (NP (DT this) (NN work))) (PP (IN with) (NP (JJ various) (JJ hyper-parameter) (NN tuning) (NNS methods))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP introduce) (NP (NP (JJ Conditional) (NNP WaveGANs)) (PRN (-LRB- -LRB-) (NP (NN cWaveGAN)) (-RRB- -RRB-)))) (. .))
+(VP (IN Find) (NP (PRP$ our) (NN implementation)) (PP (IN at) (NP (DT this) (NN https) (NNP URL))))

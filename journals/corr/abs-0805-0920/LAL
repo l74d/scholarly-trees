@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NP (DT an) (JJ original) (NN closed-loop) (NN conditioning) (NN approach)) (PP (IN for) (NP (JJ fully-integrated) (JJ convective) (JJ inertial) (NNS sensors))))))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN applied) (PP (TO to) (NP (NP (DT an) (NN accelerometer)) (VP (VBD manufactured) (PP (IN on) (NP (DT a) (JJ standard) (NNP CMOS) (NN technology)))))) (S (VP (VBG using) (NP (DT an) (JJ auto-aligned) (NN bulk) (VBG etching) (NN step)))))) (. .))
+(S (S (VP (VBG Using) (NP (NP (DT the) (JJ thermal) (NN behavior)) (PP (IN of) (NP (DT the) (NN sensor)))) (PP (IN as) (NP (DT a) (NN summing) (NN function))))) (, ,) (NP (DT a) (JJ first) (NN order) (JJ sigma-delta) (NN modulator)) (VP (VBZ is) (VP (VBN built))) (. .))
+(S (NP (DT This) (`` ``) (JJ electro-physical) ('' '') (NN modulator)) (VP (VBZ realizes) (NP (NP (DT an) (JJ analog-to-digital) (NN conversion)) (PP (IN of) (NP (DT the) (NN signal))))) (. .))
+(S (ADVP (IN Besides)) (NP (DT the) (NN feedback) (NN scheme)) (VP (MD should) (VP (VB improve) (NP (DT the) (NN sensor) (NN performance)))) (. .))

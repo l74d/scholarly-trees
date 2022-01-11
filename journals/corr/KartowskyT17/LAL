@@ -1,0 +1,6 @@
+(S (VP (VB Consider) (NP (NP (DT a) (NN channel)) (PP (IN with) (NP (DT a) (VBN given) (NN input) (NN distribution))))) (. .))
+(S (NP (PRP$ Our) (NN aim)) (VP (VBZ is) (S (VP (TO to) (VP (VB degrade) (NP (PRP it)) (PP (TO to) (NP (NP (DT a) (NN channel)) (PP (IN with) (NP (ADVP (IN at) (JJS most)) (NNP L) (NN output) (NNS letters))))))))) (. .))
+(S (NP (CD One) (JJ such) (NN degradation) (NN method)) (VP (VBZ is) (NP (DT the) (ADJP (RB so) (VBN called)) (`` ``) (NN greedy-merge) ('' '') (NN algorithm))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT an) (JJ upper) (NN bound)) (PP (IN on) (NP (NP (DT the) (NN reduction)) (PP (IN in) (NP (JJ mutual) (NN information))) (PP (IN between) (NP (NN input) (CC and) (NN output))))))) (. .))
+(S (PP (IN For) (NP (NP (VBN fixed) (NN input) (NN alphabet) (NN size)) (CC and) (NP (JJ variable) (NNP L)))) (, ,) (NP (DT the) (JJ upper) (NN bound)) (VP (VBZ is) (PP (IN within) (NP (NP (DT a) (JJ constant) (NN factor)) (PP (IN of) (NP (DT an) (JJ algorithm-independent) (JJR lower) (NN bound)))))) (. .))
+(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VB establish) (SBAR (DT that) (S (NP (NN greedy-merge)) (VP (VBZ is) (ADJP (JJ optimal)) (PP (IN in) (NP (DT the) (NN power-law) (NN sense))))))) (. .))

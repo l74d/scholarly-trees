@@ -1,0 +1,2 @@
+(S (ADVP (RB Thus)) (, ,) (NP (DT this) (NN work)) (VP (VBZ proposes) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (JJ direct) (JJ metric)) (PP (IN on) (NP (DT the) (NN target) (NN platform)))) (, ,) (PP (IN beyond) (S (ADVP (RB only)) (VP (VBG considering) (NP (NNP FLOPs))))))))) (. .))
+(S (NP (JJ Comprehensive) (NN ablation) (NNS experiments)) (VP (VBP verify) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (VBZ is) (NP (DT the) (JJ state-of-the-art)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN speed) (CC and) (NN accuracy) (NN tradeoff))))))))) (. .))

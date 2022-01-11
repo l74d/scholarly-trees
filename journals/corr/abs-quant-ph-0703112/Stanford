@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT any) (NN stabilizer) (NN code)) (PP (IN over) (NP (DT a) (JJ finite) (NN field)))) (VP (VBZ is) (ADJP (JJ equivalent) (PP (IN to) (NP (DT a) (JJ graphical) (NN quantum) (NN code)))))))) (. .))
+(S (ADVP (RB Furthermore)) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT a) (JJ graphical) (NN quantum) (NN code)) (PP (IN over) (NP (DT a) (JJ finite) (NN field)))) (VP (VBZ is) (NP (DT a) (NN stabilizer) (NN code)))))) (. .))
+(S (NP (NP (DT The) (NN technique)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN proof))))) (VP (VBZ establishes) (NP (NP (DT a) (JJ new) (NN connection)) (PP (IN between) (NP (NP (NN quantum) (NNS codes)) (CC and) (NP (JJ quadratic) (NNS forms)))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (DT some) (JJ simple) (NNS examples)) (S (VP (TO to) (VP (VB illustrate) (NP (PRP$ our) (NNS results)))))) (. .))

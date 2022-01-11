@@ -1,0 +1,6 @@
+(S (S (VP (VBG Developing) (NP (DT a) (NNP Bangla) (NNP OCR)))) (VP (VBZ requires) (NP (NP (NN bunch)) (PP (IN of) (NP (NN algorithm) (CC and) (NNS methods))))) (. .))
+(S (NP (EX There)) (VP (VBD were) (NP (NP (JJ many) (NN effort)) (SBAR (S (VP (VBD went) (PP (IN on) (PP (IN for) (S (VP (VBG developing) (NP (DT a) (NNP Bangla) (NNP OCR))))))))))) (. .))
+(S (CC But) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBD failed) (S (VP (TO to) (VP (VB provide) (NP (DT an) (ADJP (NN error) (JJ free)) (NNP Bangla) (NNP OCR)))))) (. .))
+(S (NP (NP (DT Each)) (PP (IN of) (NP (PRP them)))) (VP (VBZ has) (NP (NP (DT some)) (VP (VBG lacking)))) (. .))
+(S (NP (PRP We)) (VP (VBD discussed) (PP (IN about) (NP (NP (DT the) (NN problem) (NN scope)) (PP (IN of) (S (ADVP (RB currently)) (VP (VBG existing) (NP (NNP Bangla) (NNP OCR) (POS 's)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (JJ basic) (NNS steps)) (VP (VBN required) (PP (IN for) (S (VP (VBG developing) (NP (NP (DT a) (NNP Bangla) (NNP OCR)) (CC and) (NP (DT a) (JJ complete) (NN workflow))) (PP (IN for) (NP (NP (NN development)) (PP (IN of) (NP (DT a) (NNP Bangla) (NNP OCR))))) (PP (IN with) (S (VP (VBG mentioning) (NP (NP (PDT all) (DT the) (JJ possible) (NNS algorithms)) (VP (VBN required)))))))))))) (. .))

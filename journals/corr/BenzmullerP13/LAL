@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NN following))) (VP (VBZ has) (VP (VBN been) (VP (VBN done) (PRN (-LRB- -LRB-) (CC and) (PP (IN in) (NP (DT this) (NN order))) (-RRB- -RRB-)) (: :) (NP (DT A) (JJ detailed) (JJ natural) (NN deduction) (NN proof))))) (. .))
+(NP (NP (DT A) (NN formalization)) (PP (IN of) (NP (DT the) (NNS axioms) (, ,) (NNS definitions) (CC and) (NNS theorems))) (PP (IN in) (NP (DT the) (NNP TPTP) (NNP THF) (NN syntax))) (. .))
+(NP (NP (JJ Automatic) (NN verification)) (PP (IN of) (NP (NP (DT the) (NN consistency)) (PP (IN of) (NP (DT the) (NNS axioms) (CC and) (NNS definitions))))) (PP (IN with) (NP (NNP Nitpick))) (. .))
+(NP (NP (JJ Automatic) (NN demonstration)) (PP (IN of) (NP (DT the) (NNS theorems))) (PP (IN with) (NP (DT the) (NNS provers) (NNP LEO-II) (CC and) (NNP Satallax))) (. .))
+(NP (NP (DT A) (JJ step-by-step) (NN formalization)) (VP (VBG using) (NP (DT the) (NNP Coq) (NN proof) (NN assistant))) (. .))
+(NP (NP (DT A) (NN formalization)) (VP (VBG using) (NP (NP (DT the) (NNP Isabelle) (NN proof) (NN assistant)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NN theorems)) (PRN (-LRB- -LRB-) (CC and) (NP (DT some) (JJ additional) (NN lemmata)) (-RRB- -RRB-))) (VP (VBP have) (VP (VBN been) (VP (VBN automated) (PP (IN with) (NP (NNP Sledgehammer) (CC and) (NNP Metis)))))))))) (. .))

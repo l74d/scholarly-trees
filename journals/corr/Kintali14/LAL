@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (JJ directed) (NN treewidth) (, ,) (NNP DAG-width) (CC and) (NNP Kelly-width)) (PP (IN of) (NP (DT a) (NN digraph)))) (VP (VBP are) (VP (VBN bounded) (ADVP (IN above)) (PP (IN by) (NP (NP (PRP$ its) (NN circumference)) (CC plus) (NP (CD one))))))))) (. .))

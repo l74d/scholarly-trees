@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (JJ nonatomic) (NN network) (NNS games)) (PP (IN with) (NP (NP (CD one) (NN source)) (CC and) (NP (CD one) (NN destination)))))) (. .))
+(S (NP (PRP We)) (VP (VBP examine) (NP (NP (DT the) (JJ asymptotic) (NN behavior)) (PP (IN of) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NN anarchy)))))) (SBAR (IN as) (S (NP (DT the) (NN inflow)) (VP (NNS increases))))) (. .))
+(S (PP (IN In) (NP (NP (NN accordance)) (PP (IN with) (NP (DT some) (JJ empirical) (NNS observations))))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (, ,) (S (PP (IN under) (NP (JJ suitable) (NNS conditions))) (, ,) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NN anarchy)))) (VP (VBZ is) (ADJP (JJ asymptotic) (PP (TO to) (NP (CD one)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (PP (IN with) (NP (DT some) (NNS counterexamples))) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (RB not) (ADVP (RB always)) (NP (DT the) (NN case)))))) (. .))
+(S (NP (DT The) (NNS counterexamples)) (VP (VBP occur) (PP (IN in) (NP (ADJP (RB very) (JJ simple)) (JJ parallel) (NN graphs)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN tool)) (SBAR (WHNP (WDT that)) (S (VP (VBZ automates) (NP (NP (NN termination) (NNS proofs)) (PP (IN for) (NP (JJ recursive) (NNS definitions)))) (PP (IN by) (S (VP (VBG mining) (NP (VBG existing) (NN termination) (NNS theorems)))))))))) (. .))

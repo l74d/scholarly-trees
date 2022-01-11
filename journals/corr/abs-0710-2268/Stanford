@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP investigate) (ADVP (RB here)) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (NP (CD three) (JJ natural) (NNS problems)) (PP (IN in) (NP (VBN directed) (JJ acyclic) (NNS graphs))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP prove) (NP (PRP$ their) (NNP NP) (NN Completeness))) (CC and) (VP (VB consider) (NP (PRP$ their) (NNS restrictions)) (PP (IN to) (NP (JJ linear) (NNS orders))))) (. .))

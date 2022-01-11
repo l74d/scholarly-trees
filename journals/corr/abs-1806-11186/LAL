@@ -1,0 +1,4 @@
+(S (VP (JJ Imagine) (NP (NP (CD two) (JJ high-dimensional) (NNS clusters)) (CC and) (NP (NP (DT a) (NN hyperplane)) (VP (VBG separating) (NP (PRP them)))))) (. .))
+(S (VP (VB Consider) (PP (IN in) (NP (JJ particular))) (NP (NP (NP (DT the) (NN angle)) (IN between)) (: :) (NP (NP (NP (DT the) (NN direction)) (VP (VBG joining) (NP (NP (DT the) (CD two) (NNS clusters) (POS ›)) (NNS centroids)))) (CC and) (NP (NP (DT the) (JJ normal)) (PP (TO to) (NP (DT the) (NN hyperplane))))))) (. .))
+(S (PP (IN In) (NP (JJ linear) (NN classification))) (, ,) (NP (DT this) (NN angle)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (NNP L2) (NN regularization))) (VP (VBN used))))) (. .))
+(SQ (MD Can) (NP (PRP you)) (VP (VB explain) (WHADVP (WRB why))) (. ?))

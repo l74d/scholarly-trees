@@ -1,0 +1,2 @@
+(S (SBAR (IN Although) (S (NP (DT the) (NNS results)) (VP (VBP are) (ADJP (JJ correct))))) (, ,) (NP (NP (PRP it))) (VP (VBD was) (VP (VBN pointed) (PRT (RP out)) (SBAR (IN that) (S (NP (DT the) (NNS results)) (VP (VBP follow) (PP (IN from) (NP (DT some) (ADJP (RB previously) (VBN known)) (NNS results)))))))) (. .))
+(S (ADVP (RB Accordingly)) (, ,) (NP (NP (DT this) (NN version)) (PP (IN of) (NP (DT the) (NN paper)))) (VP (VBZ is) (VP (VBN withdrawn) (PP (IN by) (NP (DT the) (NNS authors))))) (. .))

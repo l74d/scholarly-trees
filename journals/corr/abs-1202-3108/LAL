@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB explain) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN D-iteration)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (DT an) (JJ efficient) (JJ asynchronous) (VBN distributed) (NN computation)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (NP (DT the) (JJ main) (NNS ideas)) (PP (IN of) (NP (DT the) (NN method))))) (CC and) (VP (VB illustrate) (NP (PRP them)) (PP (IN through) (NP (ADJP (RB very) (JJ simple)) (NNS examples))))) (. .))

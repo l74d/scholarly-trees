@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (NN quantum) (NNP Turing) (NNS machines)))) (VP (VBZ is) (NP (NP (DT a) (NN basis)) (PP (IN of) (NP (JJ quantum) (NN complexity) (NN theory))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT a) (JJ general) (NN model)) (PP (IN of) (NP (NP (NN multi-tape) (, ,) (JJ multi-head) (NNP Quantum) (NNP Turing) (NNS machines)) (PP (IN with) (NP (JJ multi) (JJ final) (NNS states))) (SBAR (WHNP (IN that)) (S (ADVP (RB also)) (VP (VB allow) (S (NP (NN tape) (NNS heads)) (VP (TO to) (VP (VB stay) (ADJP (RB still)))))))))))) (. .))

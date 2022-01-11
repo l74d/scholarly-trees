@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ perfect) (NN simulation)) (PP (IN of) (NP (DT the) (JJ hard) (NNS disks) (NN model)))) (PP (IN via) (NP (DT the) (JJ partial) (NN rejection) (VBG sampling) (NN method)))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ extends) (ADVP (RB easily)) (PP (TO to) (NP (NP (DT the) (JJ hard) (NNS spheres) (VBP model)) (PP (IN in) (NP (ADJP (QP ($ $) (JJ d) (NNP >) (CD 2) ($ $))) (NNS dimensions)))))) (. .))

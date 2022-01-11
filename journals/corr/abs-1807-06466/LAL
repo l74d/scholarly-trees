@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ summarizes) (NP (NP (PRP$ our) (NN method) (CC and) (NN validation) (NNS results)) (PP (IN for) (NP (NP (DT the) (NNP ISIC) (NNP Challenge) (CD 2018)) (: -) (NP (NP (NNP Skin) (NNP Lesion) (NNP Analysis)) (PP (NNP Towards) (NP (NNP Melanoma) (NNP Detection)))) (: -) (NP (NP (NN Task) (CD 1)) (: :) (NP (NN Lesion) (NN Segmentation))))))))

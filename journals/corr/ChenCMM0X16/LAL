@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN algorithm)) (PP (IN for) (S (VP (VBG multiplying) (NP (JJ dense) (NNS polynomials)) (PP (IN with) (NP (NN integer) (NNS coefficients))) (PP (IN in) (NP (DT a) (JJ parallel) (NN fashion))))))) (, ,) (S (VP (VBG targeting) (NP (NN multi-core) (NN processor) (NNS architectures))))) (. .))
+(S (NP (NP (NN Complexity) (NNS estimates)) (CC and) (NP (JJ experimental) (NNS comparisons))) (VP (VBP demonstrate) (NP (NP (DT the) (NNS advantages)) (PP (IN of) (NP (DT this) (JJ new) (NN approach))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (NN survey) (NP (NP (NP (DT the) (NNP Nitsche) (POS 's)) (JJ master-slave) (JJ finite) (NN element) (NN method)) (PP (IN for) (NP (JJ elastic) (NN contact) (NNS problems))) (VP (VBN analysed) (PP (IN in) (NP (JJ -LSB-) (CD 2) (NN -RSB-)))))) (. .))
+(S (S (NP (NP (DT The) (JJ main) (NNS steps)) (PP (IN of) (NP (DT the) (NN error) (NN analysis)))) (VP (VBP are) (VP (VBN recalled)))) (CC and) (S (NP (JJ numerical) (NN benchmark) (NNS computations)) (VP (VBP are) (VP (VBN presented)))) (. .))

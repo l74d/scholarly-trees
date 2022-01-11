@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP create) (NP (NP (DT a) (ADJP (ADVP (RB computationally)) (JJ tractable)) (NN algorithm)) (PP (IN for) (NP (JJ contextual) (NNS bandits)))) (PP (IN with) (NP (NP (JJ continuous) (NNS actions)) (VP (VBG having) (NP (JJ unknown) (NN structure)))))) (. .))
+(S (NP (PRP$ Our) (NML (NN reduction) (HYPH -) (NN style)) (NN algorithm)) (VP (VBZ composes) (PP (IN with) (NP (JJS most) (JJ supervised) (NN learning) (NNS representations)))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (PRP it)) (VP (VP (VBZ works) (PP (IN in) (NP (DT a) (JJ general) (NN sense)))) (CC and) (VP (VB verify) (NP (DT the) (JJ new) (NN functionality)) (PP (IN with) (NP (NML (JJ large) (HYPH -) (NN scale)) (NNS experiments)))))))) (. .))

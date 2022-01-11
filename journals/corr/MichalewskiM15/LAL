@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG computing) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NP (JJ regular) (NNS languages)) (PP (IN of) (NP (JJ infinite) (NNS trees)))))))))) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (DT the) (JJ natural) (JJ coin-flipping) (NN measure)))))) (. .))
+(S (PP (IN In) (NP (JJ particular))) (NP (DT this) (NN algorithm)) (VP (VBZ is) (ADJP (JJ applicable) (PP (TO to) (NP (DT all) (JJ deterministic) (NNS automata))))) (. .))

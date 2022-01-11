@@ -1,0 +1,5 @@
+(S (NP (NML (NNP Supply) (NN chain)) (NML (NN management) (CC and) (NN inventory)) (NN control)) (VP (VBP provide) (NP (NP (ADJP (RBS most) (JJ exciting)) (NNS examples)) (PP (IN of) (NP (NN control) (NNS systems)))) (PP (IN with) (NP (NNS delays)))) (. .))
+(S (ADVP (RB Here)) (, ,) (NP (NP (NNP Smith) (NNS predictors)) (, ,) (NP (NN model) (HYPH -) (JJ free) (NN control)) (CC and) (NP (JJ new) (NN time) (NN series) (NN forecasting) (NNS techniques))) (VP (VBP are) (VP (VBN mixed) (PP (IN in) (NP (NN order))) (S (VP (TO to) (VP (VB derive) (NP (DT an) (JJ efficient) (NN control) (NN synthesis))))))) (. .))
+(S (NP (JJ Perishable) (NNS inventories)) (VP (VBP are) (ADVP (RB also)) (VP (VBN taken) (PP (IN into) (NP (NN account))))) (. .))
+(S (NP (NP (DT The) (ADJP (RBS most) (JJ intriguing)) ('' ") (NN bullwhip)) (NP (NN effect))) ('' ") (VP (VBZ is) (VP (VBN explained) (CC and) (VBN attenuated) (, ,) (PP (ADVP (IN at) (RBS least)) (IN in) (NP (DT some) (JJ important) (NNS situations))))) (. .))
+(S (NP (JJ Numerous) (JJ convincing) (NN computer) (NNS simulations)) (VP (VBP are) (VP (VBN presented) (CC and) (VBN discussed))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (CD two) (JJ natural) (NNS problems)) (PP (IN about) (NP (JJ nondeterministic) (NN finite) (NN automata))))) (. .))
+(SQ (ADVP (NNP First)) (, ,) (PP (VBN given) (NP (NP (NP (PDT such) (DT an) (NN automaton) (NNP M)) (PP (IN of) (NP (JJ n) (NNS states)))) (, ,) (CC and) (NP (DT a) (NN length) (NN l)))) (, ,) (VBZ does) (NP (NNP M)) (VP (VB accept) (NP (NP (DT a) (NN word)) (PP (IN of) (NP (NN length) (NN l))))) (. ?))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (NN connection)) (PP (IN between) (NP (NP (NNP NFA) (NN acceptance)) (CC and) (NP (DT the) (JJ strong) (JJ exponential-time) (NN hypothesis)))))) (. .))

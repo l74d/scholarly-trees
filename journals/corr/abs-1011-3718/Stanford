@@ -1,0 +1,3 @@
+(S (NP (JJ Commutative) (NN encryption)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ useful) (CONJP (CC but) (RB rather)) (JJ strict)) (NN notion)) (PP (IN in) (NP (NN cryptography))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP deny) (NP (NP (DT a) (JJ loose) (NN variation)) (PP (IN of) (NP (JJ commutative) (ADJP (NP (NN encryption) (HYPH -) (JJ commutative)) (HYPH -) (JJ like)) (NN encryption))))) (CC and) (VP (VB give) (NP (NP (DT an) (NN example)) (: :) (NP (NP (DT the) (NN generalization)) (PP (IN of) (NP (NNP ElGamal) (NN scheme))))))) (. .))
+(S (NP (NP (DT The) (NN application)) (PP (IN of) (NP (DT the) (JJ new) (NN variation)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))

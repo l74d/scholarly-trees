@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (IN algorithm)) (PP (IN for) (NP (NP (VBG missing) (NNS values) (NN imputation)) (PP (IN in) (NP (JJ categorical) (NNS data))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG using) (NP (NN association) (NNS rules))))))) (CC and) (VP (VBZ is) (VP (VBN presented) (PP (IN in) (NP (CD three) (NNS variants)))))) (. .))
+(S (NP (NN Experimental)) (VP (NNS shows) (NP (NP (RBR better) (NN accuracy)) (PP (IN of) (NP (VBG missing) (NNS values) (NN imputation))) (S (VP (VBG using) (NP (DT the) (NN algorithm)))) (PP (RB then) (S (VP (VBG using) (NP (ADJP (JJS most) (JJ common)) (NN attribute) (NN value))))))) (. .))

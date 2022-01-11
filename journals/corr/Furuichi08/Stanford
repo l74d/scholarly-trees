@@ -1,0 +1,3 @@
+(S (NP (NP (DT The) (NN uniqueness) (NN theorem)) (PP (IN for) (NP (DT a) (ADJP (NP (CD two) (HYPH -) (NN parameter)) (VBN extended)) (JJ relative) (NN entropy)))) (VP (VBZ is) (VP (VBN proven))) (. .))
+(S (NP (DT This) (NN result)) (VP (VBZ extends) (NP (NP (PRP$ our) (JJ previous) (NN one)) (, ,) (NP (NP (DT the) (NN uniqueness) (NN theorem)) (PP (IN for) (NP (DT a) (ADJP (NP (CD one) (HYPH -) (NN parameter)) (VBN extended)) (JJ relative) (NN entropy)))) (, ,)) (PP (IN to) (NP (DT a) (CD two) (HYPH -) (NN parameter) (NN case)))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT a) (ADJP (NP (CD two) (HYPH -) (NN parameter)) (VBN extended)) (JJ relative) (NN entropy)))) (VP (VBP are) (VP (VBN studied))) (. .))

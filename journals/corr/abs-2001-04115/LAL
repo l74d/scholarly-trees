@@ -1,0 +1,2 @@
+(S (VP (VB Consider) (NP (NP (DT a) (ADJP (JJ singularly) (VBN perturbed)) (NN convection-diffusion) (NN problem)) (PP (IN with) (NP (JJ small) (, ,) (JJ variable) (NN diffusion))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (NP (JJ certain) (DT a) (JJ priori) (NNS estimates)) (PP (IN for) (NP (DT the) (NN solution)))))) (NP (PRP we)) (VP (VBP prove) (NP (NP (NN robustness)) (PP (IN of) (NP (DT a) (JJ finite) (NN element) (NN method))) (PP (IN on) (NP (DT a) (JJ Duran-Shishkin) (NN mesh))))) (. .))

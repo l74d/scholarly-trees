@@ -1,0 +1,6 @@
+(S (PP (IN In) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (NN machine) (NN translation))))) (, ,) (NP (JJ context) (NN information)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ important) (NN factor))))) (. .))
+(S (CC But) (PP (VBG considering) (NP (DT the) (NN context) (NN information) (NN model))) (VP (NN dose) (RB not) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ propose) (NP (NP (DT a) (JJ new) (NN model)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VP (VB integrate) (NP (JJ context) (NN information))) (CC and) (VP (VB make) (NP (NN translation))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP create) (NP (DT a) (JJ new) (ADJP (NN model) (VBN based)) (NNP Encoder) (NNP Decoder) (NN model))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG translating) (NP (JJ current) (NN sentence))))) (, ,) (NP (DT the) (NN model)) (VP (VBZ integrates) (NP (NP (NN output)) (PP (IN from) (NP (VBG preceding) (NN encoder)))) (PP (IN with) (NP (JJ current) (NN encoder)))) (. .))
+(S (S (NP (DT The) (NN model)) (VP (MD can) (VP (VB consider) (NP (JJ context) (NN information))))) (CC and) (S (NP (DT the) (NN result) (NN score)) (VP (VBZ is) (ADJP (ADJP (JJR higher)) (PP (IN than) (NP (VBG existing) (NN model)))))) (. .))

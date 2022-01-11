@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN of) (NP (JJ gray) (NN level) (NN image) (NN enhancement))) (, ,) (PP (VBN based) (PP (IN on) (NP (NN point) (NNS transforms)))))) (. .))
+(S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB define) (NP (DT the) (NN transform) (NN function)))))) (, ,) (NP (PRP it)) (VP (VBD was) (VP (VBN used) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT the) (JJ homographic) (NN function)))))) (. .))

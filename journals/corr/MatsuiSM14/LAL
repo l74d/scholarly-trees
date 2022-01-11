@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP devise) (NP (NP (DT a) (JJ new) (NN formulation)) (PP (IN for) (NP (DT the) (NN vertex) (NN coloring) (NN problem))))) (. .))
+(S (S (ADJP (NN Different) (PP (IN from) (NP (JJ other) (NNS formulations))))) (, ,) (NP (NN decision) (NNS variables)) (VP (VBP are) (VP (VBN associated) (PP (IN with) (NP (NP (DT the) (NNS pairs)) (PP (IN of) (NP (NNS vertices))))))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (NP (NNS colors)) (VP (MD will) (VP (VB be) (ADJP (JJ distinguishable)))) (. .))
+(S (SBAR (IN Although) (S (NP (DT the) (JJ objective) (NN function)) (VP (VBZ is) (ADJP (JJ fractional))))) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN replaced) (PP (IN by) (NP (DT a) (JJ piece-wise) (JJ linear) (NN convex) (NN function)))))) (. .))
+(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN formulation)) (VP (VBZ has) (NP (NP (ADJP (RB significantly) (JJ good)) (NN performance)) (PP (IN for) (NP (NN dense) (NN graphs)))))))) (. .))

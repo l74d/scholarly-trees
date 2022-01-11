@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ variational) (NN iteration) (NN method)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (JJ nonlinear) (NNP Volterra) (JJ integral) (NNS equations))))))) (. .))
+(S (NP (CD Two) (NNS approaches)) (VP (VBP are) (VP (VBN presented) (S (VP (VBN distinguished) (PP (IN by) (NP (NP (DT the) (NN method)) (SBAR (S (VP (TO to) (VP (VB compute) (NP (DT the) (NNP Lagrange) (NN multiplier)))))))))))) (. .))

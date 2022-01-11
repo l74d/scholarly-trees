@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VB obtain) (NP (NP (DT a) (JJ polynomial-time) (JJ 17/12-approximation) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (JJ minimum-cost) (JJ 2-vertex-connected) (VBG spanning) (NN subgraph) (NN problem)) (, ,) (VP (VBD restricted) (PP (TO to) (NP (NP (VB graphs)) (PP (IN of) (NP (NP (JJ minimum) (NN degree)) (NP (IN at) (JJS least) (CD 3))))))))))) (. .))

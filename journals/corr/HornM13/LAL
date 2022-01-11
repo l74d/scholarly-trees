@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (JJ exact) (NN characterization)) (PP (IN of) (NP (NP (DT the) (JJ computational) (NN complexity)) (PP (IN of) (NP (DT the) (ADJP ($ $) (JJ k) ($ $)) (NNP CFA) (NN hierarchy))))))) (. .))
+(S (PP (IN For) (NP (NP (DT any) ($ $) (NNS k)) (NNP >) (NP (CD 0) ($ $)))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN control) (NN flow) (NN decision) (NN problem)) (VP (VBZ is) (ADJP (JJ complete)) (PP (IN for) (NP (JJ deterministic) (JJ exponential) (NN time))))))) (. .))
+(S (NP (DT This) (NN theorem)) (VP (VBZ validates) (NP (JJ empirical) (NNS observations) (SBAR (IN that) (S (NP (JJ such) (NN control) (NN flow) (NN analysis)) (VP (VBZ is) (ADJP (JJ intractable))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ provides) (NP (NP (ADJP (RBR more) (JJ general)) (NN insight)) (PP (IN into) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (JJ abstract) (NN interpretation))))))) (. .))

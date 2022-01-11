@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Default) (NN configuration)) (PP (IN of) (NP (JJ various) (NN software) (NNS applications)))) (ADVP (RB often)) (VP (VBZ neglects) (NP (NN security) (NNS objectives))) (. .))
+(S (NP (PRP We)) (VP (VBD tested) (NP (NP (DT the) (NN default) (NN configuration)) (PP (IN of) (NP (NNP TLS)))) (PP (IN in) (NP (NN dozen) (NN web) (CC and) (NN application) (NNS servers)))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (`` ``) (NAC (NN secure) (PP (IN by) (NP (NN default)))) ('' '') (NN principle)) (VP (MD should) (VP (VB be) (VP (VBN adopted) (ADVP (RBR more) (RB broadly)) (PP (IN by) (NP (NP (NNS developers)) (CC and) (NP (NN package) (NNS maintainers)))))))))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NN system) (NNS administrators)) (VP (MD can) (RB not) (VP (VB rely) (ADVP (RB blindly)) (PP (IN on) (NP (NN default) (NN security) (NNS options))))) (. .))

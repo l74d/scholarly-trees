@@ -1,0 +1,5 @@
+(S (NP (NNP Tezos)) (VP (VBZ is) (NP (NP (DT a) (NN blockchain)) (VP (VBN launched) (PP (IN in) (NP (NNP June) (CD 2018)))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ is) (VP (VBN written) (PP (IN in) (NP (NNP OCaml))))) (CC and) (VP (NNS supports) (NP (JJ smart) (NNS contracts)))) (. .))
+(S (S (NP (PRP$ Its) (JJ smart) (NN contract) (NN language)) (VP (VBZ is) (VP (VBN called) (S (NP (NNP Michelson)))))) (CC and) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (VBN designed) (PP (IN with) (NP (NP (JJ formal) (NN verification)) (PP (IN in) (NP (NN mind))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (JJ present) (NP (NP (NNP Mi-Cho-Coq)) (, ,) (NP (NP (DT a) (NNP Coq) (NN framework)) (PP (IN for) (S (VP (VBG verifying) (NP (NP (DT the) (JJ functional) (NN correctness)) (PP (IN of) (NP (NNP Michelson) (JJ smart) (NNS contracts)))))))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN case) (NN study))) (, ,) (NP (PRP we)) (VP (VBP detail) (NP (NP (DT the) (NN certification)) (PP (IN of) (NP (NP (DT a) (NNP Multisig) (NN contract)) (PP (IN with) (NP (DT the) (NNP Mi-Cho-Coq) (NN framework))))))) (. .))

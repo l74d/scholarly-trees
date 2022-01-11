@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Spatial) (NNS data)) (NP (NN science))) (VP (VBZ has) (VP (VBN emerged) (PP (IN in) (NP (JJ recent) (NNS years))) (PP (IN as) (NP (DT an) (JJ interdisciplinary) (NN field))))) (. .))
+(S (S (NP (DT This) (NN position) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NN importance)) (PP (IN of) (NP (NN building)))))) (CC and) (S (VP (VBG sharing) (NP (NML (JJ high) (HYPH -) (NN quality)) (NNS datasets)) (PP (IN for) (NP (NML (JJ spatial) (NNS data)) (NN science))))) (. .))

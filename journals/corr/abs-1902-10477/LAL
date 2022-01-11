@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP explore) (NP (NP (DT the) (JJ algebraic) (NN structure)) (PP (IN of) (NP (JJ skew-constacyclic) (NNS codes)))) (, ,) (PP (IN by) (S (VP (VBG using) (NP (DT a) (JJ linear) (NNP Gray) (NN map))))))) (CC and) (S (NP (PRP we)) (VP (VBP determine) (NP (PRP$ their) (NN generator) (NNS polynomials)))) (. .))

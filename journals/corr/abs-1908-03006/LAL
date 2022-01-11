@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ sparse) (NN reconstruction) (NN framework)) (PP (IN for) (S (VP (VBG solving) (NP (JJ inverse) (NNS problems))))))) (. .))
+(S (PP (IN As) (NP (NP (DT a) (JJ main) (NN ingredient)) (PP (IN for) (NP (DT the) (NN analysis))))) (NP (PRP we)) (VP (VB establish) (NP (NP (DT the) (NN coercivity)) (PP (IN of) (NP (DT the) (JJ augmented) (NN regularization) (NN term))))) (. .))

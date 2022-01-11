@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN note)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ classical) (NNS tools)) (PP (IN from) (NP (JJ linear) (NN control) (NN theory)))) (VP (MD can) (VP (VB be) (VP (VBN leveraged) (S (VP (TO to) (VP (VB provide) (NP (NP (DT a) (JJ global) (NN analysis)) (PP (IN of) (NP (JJ nonlinear) (NN reaction-diffusion) (NNS models))))))))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ is) (ADJP (JJ differential) (PP (IN in) (NP (NN nature))))) (. .))
+(S (NP (PRP It)) (VP (VBZ proceeds) (PP (IN from) (NP (NP (NP (JJ classical) (NNS tools)) (PP (IN of) (NP (NN contraction) (NN analysis)))) (CC and) (NP (NP (JJ recent) (NNS extensions)) (PP (TO to) (NP (JJ differential) (NN dissipativity))))))) (. .))

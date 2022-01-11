@@ -1,0 +1,5 @@
+(S (NP (DT A) (NNP Wilson) (NN prime)) (VP (VBZ is) (NP (NP (DT a) (JJ prime) (NN p)) (PP (JJ such) (IN that) (NP (-LRB- -LRB-) (NP (NN p) (HYPH -) (CD 1)) (-RRB- -RRB-))))) (. !))
+(FRAG (SYM =) (NP (CD -1)) (NP (NP (JJ mod) (NN p)) (SYM ^) (NP (CD 2))) (. .))
+(S (NP (PRP We)) (VP (VBP report) (PP (IN on) (NP (DT a) (NN search))) (SBAR (IN for) (S (NP (NNP Wilson)) (VP (VBZ primes) (PRT (RP up)) (PP (IN to) (NP (NP (CD 2) (SYM *) (CD 10) (SYM ^) (CD 13)) (, ,) (PRN (S (CC and) (VP (VB describe) (NP (JJ several) (JJ new) (NNS algorithms))))) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN used) (PP (IN in) (NP (DT the) (NN search))))))))))))) (. .))
+(S (PP (IN In) (ADJP (JJ particular))) (NP (PRP we)) (VP (VBP give) (NP (NP (DT the) (JJ first) (JJ known) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes))))) (PRN (-LRB- -LRB-) (NP (NN p) (HYPH -) (CD 1)) (-RRB- -RRB-))) (. !))
+(FRAG (NP (JJ mod) (NN p)) (NP (SYM ^) (CD 2)) (PP (IN in) (NP (NP (ADJP (JJ average) (JJ polynomial)) (NN time)) (PP (IN per) (NP (NN prime))))) (. .))

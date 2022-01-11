@@ -1,0 +1,2 @@
+(NP (NP (NNP Online) (NN conference) (NNS proceedings)) (PP (IN for) (NP (NP (DT the) (NNP IWDECIE) (NN workshop)) (, ,) (VP (VBG taking) (NP (NN place)) (PP (IN in) (NP (NNP New) (NNP Orleans))) (PP (IN on) (NP (NNP June) (CD 5th) (, ,) (CD 2011)))))) (. .))
+(S (NP (DT The) (NN workshop)) (VP (VBZ focuses) (PP (IN on) (NP (NP (NP (JJ non-conventional) (NNS implementations)) (PP (IN of) (NP (JJ bioinspired) (NNS algorithms)))) (CC and) (NP (PRP$ its) (JJ conceptual) (NNS implications))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (JJ Chip-level) (NNP CMP) (NN modeling)) (VP (VBZ is) (VP (VBN investigated) (S (VP (TO to) (VP (VB obtain) (NP (NP (DT the) (JJ post-CMP) (NN film) (NN profile) (NN thickness)) (PP (IN across) (NP (DT a) (NN die)))) (PP (IN from) (NP (NP (PRP$ its) (NN design) (NN layout) (NN file)) (CC and) (NP (DT a) (JJ few) (NN film) (NN deposition) (CC and) (NNP CMP) (NNS parameters))))))))) (. .))
+(S (NP (DT The) (NN work)) (VP (VBZ covers) (NP (DT both) (NP (NNP HDP)) (CC and) (NP (JJ conformal) (NNP CVD) (NN film)))) (. .))
+(S (NP (DT The) (JJ experimental) (NNP CMP) (NNS results)) (VP (VBP agree) (ADVP (RB well)) (PP (IN with) (NP (DT the) (JJ modeled) (NNS results)))) (. .))
+(S (NP (NP (NNP Different) (NN algorithms)) (PP (IN for) (NP (NP (NN filling)) (PP (IN of) (NP (NN dummy) (NN structure)))))) (VP (VBP are) (VP (VBN compared))) (. .))
+(S (NP (NP (DT A) (JJ smart) (NN algorithm)) (PP (IN for) (NP (NN dummy) (NN filling)))) (VP (VBZ is) (VP (VBN presented) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ achieves) (NP (JJ maximal) (NX (NX (NN pattern-density) (NN uniformity)) (CC and) (NX (NNP CMP) (NN planarity))))))))) (. .))

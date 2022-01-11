@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP generalize) (NP (NP (DT the) (NN array) (NN orthogonality) (NN property)) (PP (IN for) (NP (JJ perfect) (NN autocorrelation) (NNS sequences)))) (PP (TO to) (NP (ADJP ($ $) (JJ n) ($ $) (JJ -dimensional)) (NNS arrays)))) (. .))
+(S (NP (DT The) (JJ generalized) (NN array) (NN orthogonality) (NN property)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB derive) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (ADJP ($ $) (JJ n) ($ $) (JJ -dimensional)) (JJ perfect) (NN array) (NNS constructions))))))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (NP (DT A) (JJ mesoscopic) (NN approach)) (PP (IN to) (NP (NP (NN modeling) (NN pedestrian) (NN simulation)) (PP (IN with) (NP (JJ multiple) (NNS exits)))))) (VP (VBZ is) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (NP (DT A) (NN floor) (NN field)) (PP (VBN based) (PP (IN on) (NP (NNP Qlearning) (NNP Algorithm))))) (VP (VBZ is) (VP (VBN used))) (. .))
+(S (NP (NP (NN Attractiveness)) (PP (IN of) (NP (NP (NNS exits)) (PP (IN to) (NP (NN pedestrian)))))) (ADVP (RB typically)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJS shortest) (NN path))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (JJ several) (NNS factors)) (VP (MD may) (VP (VB influence) (NP (NP (NN pedestrian) (NN choice)) (PP (IN of) (NP (NNS exits)))))) (. .))
+(S (S (NP (NP (NNS Scenarios)) (PP (IN with) (NP (JJ multiple) (NNS exits)))) (VP (VBP are) (VP (VBN presented)))) (CC and) (S (NP (NP (NN effect)) (PP (IN of) (NP (NP (NML (NN Q) (HYPH -) (NN learning)) (NNS rewards) (NN system)) (PP (IN on) (NP (NN navigation)))))) (VP (VBZ is) (VP (VBN investigated)))))

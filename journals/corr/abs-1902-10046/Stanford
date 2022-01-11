@@ -1,0 +1,1 @@
+(S (NP (PRP It)) (VP (VBZ follows) (SBAR (IN that) (S (NP (JJ certain) (ADJP (NP (NNP Var) (NNP der) (NNP Waerden)) (HYPH -) (JJ like)) (NNS numbers)) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NNP PatternAttribution)) (VP (VBZ is) (NP (NP (DT a) (JJ recent) (NN method)) (, ,) (VP (VBN introduced) (PP (IN in) (NP (DT the) (NN vision) (NN domain))) (, ,) (SBAR (IN that) (S (VP (VBZ explains) (NP (NP (NNS classifications)) (PP (IN of) (NP (JJ deep) (JJ neural) (NNS networks)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP it)) (ADVP (RB also)) (VP (VBZ generates) (NP (NP (JJ meaningful) (NNS interpretations)) (PP (IN in) (NP (DT the) (NN language) (NN domain)))))))) (. .))

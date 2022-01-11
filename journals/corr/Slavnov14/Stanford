@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (JJ linear) (NN logic)))) (PP (IN with) (NP (ADJP (JJ idempotent) (JJ exponential)) (NNS modalities)))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP propose) (NP (DT a) (NN sequent) (NN calculus) (NN system))) (CC and) (VP (VB discuss) (NP (PRP$ its) (NNS semantics)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT a) (JJ concrete) (JJ relational) (NN model)) (PP (IN for) (NP (DT this) (NN calculus))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (NNP ISTA)) (VP (VBZ converges) (ADVP (RB quite) (RB slowly)))))))) (, ,) (CC and) (S (NP (NP (DT a) (RBR faster) (JJ alternative)) (PP (TO to) (NP (NNP ISTA)))) (VP (VBZ is) (NP (DT the) (JJ projected) (NN gradient) (PRN (-LRB- -LRB-) (NNP PG) (-RRB- -RRB-)) (NN method)))) (. .))
+(S (NP (JJ Numerical) (NNS results)) (VP (VBP are) (VP (VBN reported) (S (VP (TO to) (VP (VB illustrate) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))))))) (. .))

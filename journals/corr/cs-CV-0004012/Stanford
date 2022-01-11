@@ -1,0 +1,5 @@
+(NP (NP (DT This) (NN work) (NNS deals)) (PP (IN with) (NP (ADJP (NN content) (HYPH -) (VBN based)) (NN video) (NN indexing))) (. .))
+(S (NP (PRP$ Our) (NN viewpoint)) (VP (VBZ is) (NP (NP (JJ semi-automatic) (NN analysis)) (PP (IN of) (NP (JJ compressed) (NN video))))) (. .))
+(S (S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (JJ possible) (NNS applications)) (PP (IN of) (NP (NN motion) (NN analysis)))))) (CC and) (S (VP (VP (VBG moving) (NP (NN object) (NN detection))) (: :) (VP (VBG assisting) (S (VP (VBG moving) (NP (NN object) (NN indexing))))) (, ,) (VP (VBG summarising) (NP (NNS videos))) (, ,) (CC and) (VP (VBG allowing) (NP (NML (NN image) (CC and) (NN motion)) (NNS queries))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT an) (NN approach)) (PP (VBN based) (PP (IN on) (NP (NN interest) (NNS points))))) (. .))
+(S (PP (IN As) (NP (JJ first) (NNS results))) (, ,) (NP (PRP we)) (VP (VBP test) (CC and) (VBP compare) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (NP (JJ different) (NNS types)) (PP (IN of) (NP (NML (NN interest) (NN point)) (NNS detectors)))))) (PP (IN in) (NP (ADJP (JJ compressed)) (NNS sequences)))) (. .))

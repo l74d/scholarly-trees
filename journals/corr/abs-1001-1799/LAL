@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN capacity) (NN region)) (PP (IN of) (NP (NP (DT a) (NN broadcast) (NN channel)) (VP (VBG consisting) (PP (IN of) (NP (NP (NNS k-receivers)) (SBAR (WHNP (WDT that)) (S (VP (VBP lie) (PP (IN in) (NP (DT a) (ADJP (JJR less) (JJ noisy)) (NN sequence)))))))))))) (VP (VBZ is) (NP (DT an) (JJ open) (NN problem)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NN k)) (NNP >) (VP (VBZ =) (NP (CD 3)))))) (. .))
+(S (NP (PRP We)) (VP (VBP solve) (NP (DT this) (NN problem)) (PP (IN for) (NP (NP (DT the) (NN case)) (NP (NN k=3))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (DT that) (S (NP (NN superposition) (NN coding)) (VP (VBZ is) (ADJP (JJ optimal)) (PP (IN for) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NN broadcast) (NNS channels))) (PP (IN with) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (ADJP (JJR less) (JJ noisy)) (NNS receivers))))))))))) (. .))
+(NP (NN T))

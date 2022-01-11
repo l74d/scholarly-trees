@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT an) (JJ asymptotic) (NN formula)) (PP (IN for) (NP (NP (JJ entropy) (NN rate)) (PP (IN of) (NP (NP (DT a) (JJ hidden) (NNP Markov) (NN chain)) (PP (IN around) (NP (DT a) (`` ``) (JJ weak) (NNP Black) (NNP Hole) ('' ''))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (NNS applications)) (PP (IN of) (NP (DT the) (JJ asymptotic) (NN formula))) (PP (TO to) (NP (NP (DT the) (JJ asymptotic) (NNS behaviors)) (PP (IN of) (NP (JJ certain) (NNS channels))))))) (. .))

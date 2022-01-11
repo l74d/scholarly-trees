@@ -1,0 +1,3 @@
+(S (NP (NP (NN Outlier)) (PP (VBN based) (NP (NNP Robust) (NN Principal) (NN Component) (NN Analysis) (PRN (-LRB- -LRB-) (NP (NN RPCA)) (-RRB- -RRB-))))) (VP (VBZ requires) (S (VP (VBG centering) (PP (IN of) (NP (DT the) (NNS non-outliers)))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT a) (`` ") (NN bias) (NN trick) ('' ")) (SBAR (WHNP (WDT that)) (S (ADVP (RB automatically)) (VP (VBZ centers) (NP (DT these) (NNS non-outliers))))))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN bias) (NN trick)))) (NP (PRP we)) (VP (VBP obtain) (NP (NP (DT the) (JJ first) (NN RPCA) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ optimal) (PP (IN with) (NP (NN respect)))) (PP (IN to) (S (VP (VBG centering))))))))) (. .))

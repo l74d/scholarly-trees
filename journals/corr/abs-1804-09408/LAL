@@ -1,0 +1,2 @@
+(NP (NP (DT An) (NN introduction)) (PP (TO to) (NP (NP (VB algebras)) (PP (IN for) (NP (NN graphs))))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (NP (NNP Courcelle) (POS 's)) (NNS algebras)) (PP (IN of) (NP (NP (NN hyperedge) (NN replacement)) (CC and) (NP (JJ vertex) (NN replacement))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ uses) (NP (JJ monad) (NN notation))) (. .))

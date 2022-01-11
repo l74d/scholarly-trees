@@ -1,0 +1,2 @@
+(INTJ (DT No) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NNP Erdos-) (NNP Renyi) (NNP Random) (NNP Graphs)) (VP (VBP are) (RB not) (ADJP (RB topologically) (VB random)))))) (. .))

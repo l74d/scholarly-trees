@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD proposed) (NP (NP (CD two) (NN identification) (NNS schemes)) (VP (VBN based) (PP (IN on) (NP (DT the) (NN root) (NN problem)))))) (. .))
+(S (NP (DT The) (VBN proposed) (NNS schemes)) (VP (VBP are) (ADJP (JJ secure) (PP (IN against) (NP (JJ passive) (NNS attacks)))) (S (VP (VBG assuming) (SBAR (IN that) (S (NP (NP (DT the) (NN root) (NN problem)) (PRN (-LRB- -LRB-) (NP (NNP RP)) (-RRB- -RRB-))) (VP (VBZ is) (ADJP (JJ hard)) (PP (IN in) (NP (NN braid) (NNS groups))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN thesis)) (VP (VBZ settles) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NP (NNS questions)) (VP (VBN related) (PP (IN to) (NP (JJ computational) (NN complexity))))) (CC and) (NP (NP (JJ algebraic) (, ,) (ADJP (NP (JJ semidefinite) (NN programming)) (VBN based)) (NNS relaxations)) (PP (IN in) (NP (NN optimization) (CC and) (NN control)))))))) (. .))

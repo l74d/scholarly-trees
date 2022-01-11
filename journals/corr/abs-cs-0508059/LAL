@@ -1,0 +1,2 @@
+(S (NP (NNP Honesty)) (VP (VBZ has) (ADVP (RB never)) (VP (VBN been) (VP (ADVP (RB scientifically)) (VBN proved) (S (VP (TO to) (VP (VB be) (NP (DT the) (JJS best) (NN policy)) (PP (IN in) (NP (DT any) (NN case))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN pointed) (PRT (RP out)) (SBAR (IN that) (S (NP (RB only) (JJS honest) (NN person)) (VP (MD can) (VP (VB prevent) (S (NP (PRP$ his) (JJS dishonest) (NN partner)) (VP (TO to) (VP (VB bias) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (NN quantum) (NN coin) (NN tossing))))))))))))) (. .))

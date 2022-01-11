@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ discrete) (NN logarithm) (NN problem)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS backbones)) (PP (IN in) (NP (JJ public) (NN key) (NN cryptography))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ discrete) (NN logarithm) (NN problem)) (PP (IN in) (NP (NP (DT the) (NN group)) (PP (IN of) (NP (JJ circulant) (NNS matrices))) (PP (IN over) (NP (DT a) (JJ finite) (NN field))))))) (. .))
+(S (NP (DT This)) (VP (VBZ gives) (NP (NN rise)) (PP (TO to) (NP (ADJP (VB secure) (CC and) (VB fast)) (JJ public) (NN key) (NNS cryptosystems)))) (. .))

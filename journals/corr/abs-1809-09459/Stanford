@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN proof)) (PP (IN of) (NP (NP (DT the) (NN theorem)) (VP (VBG concerning) (PP (IN to) (NP (DT the) (NN inverse))) (NP (JJ cyclotomic) (NN Discrete) (NML (NNP Fourier) (NNP Transform)) (NN algorithm)) (PP (IN over) (NP (JJ finite) (NN field))))))) (VP (VBZ is) (VP (VBN provided))) (. .))

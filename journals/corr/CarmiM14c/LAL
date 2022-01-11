@@ -1,0 +1,6 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT an) (JJ axiomatic) (NN characterization)) (PP (IN of) (NP (NN information) (NN fusion))) (, ,) (SBAR (WHPP (IN on) (WHNP (NP (DT the) (NN basis)) (WHPP (IN of) (WHNP (WDT which))))) (S (NP (PRP we)) (VP (VBP define) (NP (DT an) (NN information) (NN fusion) (NN network))))))) (. .))
+(S (NP (PRP$ Our) (NN construction)) (VP (VBZ is) (ADJP (JJ reminiscent) (PP (IN of) (NP (NP (JJ tangle) (NNS diagrams)) (PP (IN in) (NP (JJ low) (JJ dimensional) (NN topology))))))) (. .))
+(S (NP (NN Information) (NN fusion) (NNS networks)) (VP (VBP come) (S (VP (VBN equipped) (PP (IN with) (NP (NP (DT a) (JJ natural) (NN notion)) (PP (IN of) (NP (NN equivalence)))))))) (. .))
+(S (NP (JJ Equivalent) (NNS networks)) (VP (`` `) (VP (VP (VBP contain) (NP (DT the) (JJ same) (NN information)) ('' ›)) (, ,) (CC but) (VP (VBP differ) (ADVP (RB locally))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG fusing) (NP (NP (NNS streams)) (PP (IN of) (NP (NN information))))))) (, ,) (NP (DT an) (NN information) (NN fusion) (NN network)) (VP (MD may) (ADVP (RB adaptively)) (VP (VB optimize) (NP (PRP itself)) (PP (IN inside) (NP (PRP$ its) (NN equivalence) (NN class))))) (. .))
+(S (NP (DT This)) (VP (VBZ provides) (NP (NP (DT a) (NN fault) (NN tolerance) (NN mechanism)) (PP (IN for) (NP (JJ such) (NNS networks))))) (. .))

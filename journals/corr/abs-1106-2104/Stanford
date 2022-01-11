@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Zen) (NNP Puzzle) (NNP Garden)) (-LRB- -LRB-) (NP (NNP ZPG)) (-RRB- -RRB-)) (VP (VBZ is) (NP (DT a) (NML (CD one) (HYPH -) (NN player)) (NN puzzle) (NN game))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (S (VP (VBG deciding) (NP (NP (DT the) (NN solvability)) (PP (IN of) (NP (NN ZPG)))))) (VP (VBZ is) (ADJP (NP (NNP NP)) (HYPH -) (JJ complete)))))) (. .))

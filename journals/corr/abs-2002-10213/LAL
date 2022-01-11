@@ -1,0 +1,5 @@
+(S (S (VP (VBN Motivated) (PP (IN by) (NP (NP (DT the) (JJ fast) (NN adoption)) (PP (IN of) (NP (NNP WebAssembly))))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT the) (JJ first) (JJ functional) (NN pipeline)) (SBAR (S (VP (TO to) (VP (VB support) (NP (NP (DT the) (NN superoptimization)) (PP (IN of) (NP (NNP WebAssembly) (NN bytecode)))))))))) (. .))
+(S (NP (PRP$ Our) (NN pipeline)) (VP (VBZ works) (PP (IN over) (NP (NNP LLVM) (CC and) (NNP Souper)))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (PRP$ our) (NN superoptimization) (NN pipeline)) (PP (IN with) (NP (NP (CD 12) (NNS programs)) (PP (IN from) (NP (DT the) (NNP Rosetta) (NN code) (NN project)))))) (. .))
+(S (NP (PRP$ Our) (NN pipeline)) (VP (VBZ improves) (NP (NP (DT the) (NN code) (NN section) (NN size)) (PP (IN of) (NP (QP (CD 8) (IN out) (IN of) (CD 12)) (NNS programs))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NNS challenges)) (VP (VBN faced) (PP (IN in) (NP (NP (NN superoptimization)) (PP (IN of) (NP (NNP WebAssembly))))))) (PP (IN with) (NP (CD two) (NN case) (NNS studies)))) (. .))

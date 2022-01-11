@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ gives) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (PRP$ our) (JJ current) (JJ Optical) (NNP Music) (NNP Recognition) (PRN (-LRB- -LRB-) (NNP OMR) (-RRB- -RRB-)) (NN research))))) (. .))
+(S (NP (PRP We)) (VP (VBP are) (ADVP (RB currently)) (VP (VBG taking) (NP (DT some) (JJ additional) (NNS steps)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT both)) (PP (IN of) (NP (PRP them))))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP summarize) (NP (NP (ADJP (JJ current) (CC and) (JJ future)) (NNS efforts)) (, ,) (VP (VBN aimed) (PP (IN at) (S (VP (VP (VBG improving) (NP (NP (JJ usefulness)) (PP (IN on) (NP (JJ real-world) (NN task))))) (CC and) (VP (VBG tackling) (NP (JJ extreme) (NN class) (NN imbalance))))))))) (. .))

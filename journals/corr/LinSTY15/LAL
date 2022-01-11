@@ -1,0 +1,4 @@
+(S (SBAR (IN While) (S (NP (PRP$ its) (NNS geodesics)) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN by) (NP (DT the) (NNP Owen-Provan) (NN algorithm)))))))) (, ,) (NP (JJ geodesic) (NNS triangles)) (VP (VBP are) (ADJP (VBN complicated))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN dimension)) (PP (IN of) (NP (JJ such) (DT a) (NN triangle)))) (VP (MD can) (VP (VB be) (ADJP (RB arbitrarily) (JJ high))))))) (. .))
+(S (NP (NP (JJ Tropical) (NN convexity)) (CC and) (NP (DT the) (JJ tropical) (JJ metric))) (VP (NN behave) (ADVP (RBR better))) (. .))
+(S (NP (PRP They)) (VP (VBP exhibit) (NP (NP (NNS properties)) (ADJP (JJ desirable) (PP (IN for) (NP (NP (JJ geometric) (NNS statistics)) (, ,) (PP (JJ such) (IN as) (NP (NP (NNS geodesics)) (PP (IN of) (NP (JJ small) (NN depth)))))))))) (. .))

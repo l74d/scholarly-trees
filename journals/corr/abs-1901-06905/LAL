@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ matrix) (NN version)) (PP (IN of) (NP (NP (DT the) (JJ entropy-power) (NN inequality)) (PP (IN for) (NP (ADJP (JJ real) (CC or) (JJ complex)) (NNS coefficients) (CC and) (NNS variables)))))) (VP (VBZ is) (VP (VBN proved) (S (VP (VBG using) (NP (NP (DT a) (NN transportation) (NN argument)) (SBAR (WHNP (WDT that)) (S (VP (ADVP (RB easily)) (VBZ settles) (NP (DT the) (NN equality) (NN case)))))))))) (. .))
+(S (NP (NP (DT An) (NN application)) (PP (TO to) (NP (VB blind) (NN source) (NN extraction)))) (VP (VBZ is) (VP (VBN given))) (. .))

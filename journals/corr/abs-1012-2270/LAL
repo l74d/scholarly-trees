@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN format)) (PP (IN for) (S (VP (VBG storing) (NP (JJ sparse) (NNS matrices))))))) (. .))
+(S (NP (DT The) (NN format)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB perform) (ADVP (RB well)) (PP (ADVP (RB mainly)) (IN on) (NP (DT the) (NNP GPU) (NNS devices)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (PRP$ its) (NN implementation)) (PP (IN in) (NP (NNP CUDA))))) (. .))
+(S (S (NP (DT The) (NN performance)) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (PP (IN on) (NP (NP (CD 1,600) (JJ different) (NNS types)) (PP (IN of) (NP (NNS matrices))))))))) (CC and) (S (NP (PRP we)) (VP (VBP compare) (NP (PRP$ our) (NN format)) (PP (IN with) (NP (DT the) (NNP Hybrid) (NN format))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP give) (NP (NP (JJ detailed) (NN comparison)) (PP (IN of) (NP (DT both) (NNS formats))))) (CC and) (VP (VBP show) (NP (PRP$ their) (ADJP (JJ strong) (CC and) (JJ weak)) (NNS parts)))) (. .))

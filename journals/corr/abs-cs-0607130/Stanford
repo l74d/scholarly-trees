@@ -1,0 +1,7 @@
+(S (NP (NML (NML (JJ Human) (NNS resources)) (NN management)) (NN software)) (VP (VBZ is) (VP (VBG having) (NP (DT a) (JJ wide) (NN audience)) (PP (IN at) (ADJP (JJ present))))) (. .))
+(S (ADVP (RB However)) (, ,) (ADVP (RB no) (RB truly)) (VP (VB integrate) (S (NP (NN solution)) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (ADVP (RB yet)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NNS systems)) (VP (VBN concerned))))))))))) (. .))
+(S (NP (NP (NNS Approaches)) (PP (IN to) (NP (NP (JJ extra) (NNS data) (NN collection)) (PP (IN for) (NP (NN appraisal) (NN decision) (HYPH -) (NN making)))))) (VP (VBP are) (VP (VBN considered) (PP (IN on) (NP (DT the) (NML (NN concept) (NN modeling)) (JJ theoretical) (NN basis))))) (. .))
+(S (NP (NP (JJ Current) (NNS technologies)) (PP (IN in) (NP (NML (NML (NN state)) (HYPH -) (PP (IN of) (HYPH -) (NP (DT the) (HYPH -) (NN art)))) (NML (NN HR) (NN management)) (NN software)))) (VP (VBP are) (VP (VBN compared))) (. .))
+(S (NP (NP (NN Design) (CC and) (NN implementation) (NNS aspects)) (PP (IN for) (NP (DT a) (ADJP (NP (NN Web)) (HYPH -) (VBN wired)) (ADJP (RB truly) (VBN integrated)) (ADJP (JJ secure) (CC and) (JJ scalable)) (ADJP (NN event) (HYPH -) (VBN driven)) (NN enterprise) (NN system)))) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (NN Benchmark) (NNS results)) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (NN Field) (NNS perspectives)) (VP (VBP are) (VP (VBN discussed))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN article)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT a) (JJ brief) (NN introduction)) (PP (TO to) (NP (DT the) (NNP Shannon) (NN information) (NN theory)))))) (. .))
+(S (NP (NP (CD Two) (NNS topics)) (, ,) (NP (NP (NN entropy)) (CC and) (NP (NN channel) (NN capacity))) (, ,)) (VP (VBP are) (ADVP (RB mainly)) (VP (VBN covered))) (. .))
+(S (NP (PDT All) (DT these) (NNS concepts)) (VP (VBP are) (VP (VBN developed) (PP (IN in) (NP (DT a) (ADJP (RB totally) (JJ combinatorial)) (NN favor))))) (. .))
+(S (NP (NP (DT Some) (NNS issues)) (VP (ADVP (RB usually)) (RB not) (VBN addressed) (PP (IN in) (NP (DT the) (NN literature))))) (VP (VBP are) (VP (VBN discussed) (ADVP (RB here)) (ADVP (RB as) (RB well)))) (. .))

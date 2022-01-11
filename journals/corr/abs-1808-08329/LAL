@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP comment) (PP (IN on) (NP (NP (DT the) (NN over-use)) (PP (IN of) (NP (NNS lists))) (PP (IN in) (NP (JJ functional) (NN programming)))))) (. .))
+(S (PP (IN With) (NP (DT this) (NN respect))) (, ,) (NP (PRP we)) (VP (VP (VBP review) (NP (NP (NN history)) (PP (IN of) (NP (NP (NNP Haskell)) (CC and) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (NNS libraries)))))))) (, ,) (CC and) (VP (NN hint) (PP (IN at) (NP (JJ current) (NNS developments))))) (. .))

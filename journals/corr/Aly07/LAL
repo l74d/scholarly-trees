@@ -1,0 +1,3 @@
+(S (S (VP (VBG Proving) (NP (NP (DT the) (NN quantum) (NNP Hamming) (NN bound)) (PP (IN for) (NP (NN degenerate) (JJ nonbinary) (NN stabilizer) (NNS codes)))))) (VP (VBZ has) (VP (VBN been) (NP (DT an) (JJ open) (NN problem)) (PP (IN for) (NP (DT a) (NN decade))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP I)) (VP (VBP prove) (NP (NP (DT this) (NN bound)) (PP (IN for) (NP (JJ double) (JJ error-correcting) (NN degenerate) (NN stabilizer) (NNS codes))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (PRP I)) (VP (VBP compute) (NP (NP (DT the) (JJ maximum) (NN length)) (PP (IN of) (NP (JJ single) (CC and) (JJ double) (JJ error-correcting) (NNP MDS) (NN stabilizer) (NNS codes))) (PP (IN over) (NP (JJ finite) (NNS fields))))) (. .))

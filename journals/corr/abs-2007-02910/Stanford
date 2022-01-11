@@ -1,0 +1,2 @@
+(S (NP (NN Convergence) (NNS rates)) (VP (VBP are) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB establish)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB empirically)) (VP (VBP observe) (SBAR (IN that) (S (NP (DT the) (NN method)) (VP (VBZ computes) (NP (NP (NNS approximations)) (PP (IN of) (NP (NP (JJ small) (JJ singular) (NNS vectors)) (PP (IN of) (FRAG (NP ($ $)) (NP ($ A$))))))) (PP (IN as) (NP (DT a) (NN byproduct))))))) (. .))

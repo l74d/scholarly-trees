@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ current) (NN paper)) (VP (VBZ presents) (NP (NP (NP (DT a) (NN solution)) (PP (IN of) (NP (DT the) (NNP Program) (NN Understanding)))) (: :) (NP (NP (DT A) (NNP Reengineering) (NNP Case)) (PP (IN for) (NP (DT the) (NNP Transformation) (NNP Tool) (NNP Contest))) (VP (VBG using) (NP (DT the) (NNP VIATRA2) (NN model) (NN transformation) (NN tool)))))) (. .))

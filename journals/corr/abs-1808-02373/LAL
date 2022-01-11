@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP$ our) (NN work)) (VP (VBZ has) (NP (NP (VBN text) (RP overlap)) (PP (IN with) (NP (NP (NN arXiv:1804.06242) (, ,) (VBN arXiv:1705.00938)) (PP (IN by) (NP (JJ other) (NNS authors))))))) (. .))
+(S (NP (PRP We)) (VP (VBP want) (S (VP (TO to) (VP (VB rewrite) (NP (DT this) (NN paper)) (PP (IN for) (S (VP (VBG avoiding) (NP (DT this) (NN fact))))))))) (. .))

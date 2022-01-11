@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (DT a) (NN data) (NN analysis) (NN project)) (PP (IN for) (NP (DT a) (JJ public-transport) (NN company))))))) (. .))
+(S (NP (DT This) (NN project)) (VP (VBD encompassed) (NP (NP (NNS data) (NN preparation) (, ,) (NN analysis) (CC and) (NN visualization)) (PP (IN of) (NP (NP (CD three) (NNS years)) (PP (IN of) (NP (JJ historical) (NNS data))))))) (. .))
+(S (NP (DT The) (NN data)) (VP (VBD consisted) (PP (IN in) (NP (NP (NN ticket) (NNS purchases)) (CC and) (NP (NP (NNP GPS) (NN location)) (PP (IN of) (NP (DT the) (NNS vehicles))))))) (. .))
+(S (NP (DT This) (NN work)) (VP (VBZ describes) (NP (DT the) (NN project)) (PP (PP (IN from) (NP (NN start))) (PP (TO to) (NP (VB end)))) (, ,) (PP (VBG including) (NP (NP (DT the) (NN incorporation)) (PP (IN of) (NP (DT the) (NNS results))) (PP (IN in) (NP (DT the) (NN business) (NN process)))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP define) (NP (DT a) (JJ simple) (JJ dependent) (NN type) (NN theory))) (CC and) (VP (VB prove) (SBAR (DT that) (S (NP (PRP$ its) (JJ well-formed) (NNS types)) (VP (NN correspond) (ADVP (RB exactly)) (PP (TO to) (NP (VB finite) (JJ inverse) (NNS categories)))))))) (. .))

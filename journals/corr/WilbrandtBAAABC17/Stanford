@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT these) (NNS studies)))) (VP (VBP give) (NP (DT a) (JJ first) (NN indication)) (SBAR (IN whether) (S (NP (NP (DT the) (JJ cumbersome) (NN implementation)) (PP (IN of) (NP (DT the) (JJ parallelized) (JJ geometric) (NN multigrid) (NN method)))) (VP (VBD was) (ADJP (JJ worthwhile)))) (CC or) (RB not))) (. .))

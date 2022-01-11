@@ -1,0 +1,3 @@
+(S (VP (NP (NP (NP (DT The) (NN lattice)) (NP (QP ($ $) (CD A_n)) (SYM ^))) (X (X (NFP *)) (NP (NP ($ $)) (SBAR (S (VP (VBZ is) (NP (DT an) (JJ important) (NN lattice))))))) (SBAR (IN because) (FRAG (PP (IN of) (S (NP (PRP$ its)) (VP (VBG covering) (NP (NNS properties)) (PP (IN in) (NP (JJ low) (NNS dimensions)))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (DT a) (JJ new) (NN algorithm))) (. .))
+(S (PP (IN In) (NP (NN practice))) (, ,) (NP (PRP we)) (VP (VBP find) (SBAR (IN that) (S (NP (DT the) (JJ new) (NN algorithm)) (ADVP (RB also)) (VP (VBZ runs) (ADVP (RBR faster)))))) (. .))

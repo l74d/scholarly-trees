@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (JJ red) (NNS nodes)) (PP (IN in) (NP (ADJP (JJ red) (HYPH -) (JJ black)) (NNS trees))))))))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT these) (VBN improved) (NNS algorithms)))) (NP (PRP we)) (ADVP (RB finally)) (VP (VBP find) (NP (NP (DT a) (NML (JJ closed) (HYPH -) (NN form)) (NN solution)) (PP (IN of) (NP (NP ($ $)) (NP (NP (LST (LS r)) (NP (-LRB- -LRB-) (NN n) (-RRB- -RRB-))) (NP ($ $))))))) (. .))

@@ -1,0 +1,8 @@
+(S (NP (VBN Stacked) (NML (NN Auto) (HYPH -) (NN Encoder) (PRN (-LRB- -LRB-) (NP (NNP SAE)) (-RRB- -RRB-)))) (VP (VBZ is) (NP (NP (DT a) (NN kind)) (PP (IN of) (NP (NP (JJ deep) (NN learning) (NN algorithm)) (PP (IN for) (NP (JJ unsupervised) (NN learning))))))) (. .))
+(SBAR (WHNP (WDT Which)) (S (VP (VBZ has) (NP (NP (JJ multi) (NNS layers)) (SBAR (WHNP (WDT that)) (S (VP (VBP project) (NP (NP (DT the) (NN vector) (NN representation)) (PP (IN of) (NP (NN input) (NNS data)))) (PP (IN into) (NP (DT a) (JJR lower) (NN vector) (NN space))))))))) (. .))
+(S (NP (DT These) (NN projection) (NNS vectors)) (VP (VBP are) (NP (NP (JJ dense) (NNS representations)) (PP (IN of) (NP (DT the) (NN input) (NNS data))))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NNP SAE)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN image) (NN compression)))))) (. .))
+(S (S (VP (VBG Using) (NP (JJ chaotic) (JJ logistic) (NN map)))) (, ,) (NP (DT the) (NN compression) (NNS ones)) (VP (MD can) (ADVP (RB further)) (VP (VB be) (VP (VBN encrypted)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (NP (DT an) (NN application)) (PP (IN of) (NP (NN image) (NN compression) (CC and) (NN encryption)))) (VP (VBZ is) (VP (VBN suggested) (S (VP (VBG using) (NP (NP (NNP SAE)) (CC and) (NP (JJ chaotic) (JJ logistic) (NN map))))))) (. .))
+(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN application)) (VP (VBZ is) (ADJP (JJ feasible) (CC and) (JJ effective)))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN image) (NML (NN transmission) (CC and) (NN image)) (NN protection))) (PP (IN on) (NP (NN internet))) (ADVP (RB simultaneously))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VP (VBP present) (NP (NP (DT a) (JJ complex) (NN frame)) (PP (IN of) (NP (JJ eleven) (NNS vectors))) (PP (IN in) (NP (JJ 4-space))))) (CC and) (VP (VB prove) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ defines) (NP (JJ injective) (NNS measurements))))))) (. .))
+(S (NP (DT This)) (VP (VBZ disproves) (NP (NP (DT a) (JJ recent) (NN conjecture)) (PP (IN of) (NP (NNP Bandeira) (, ,) (NNP Cahill) (, ,) (NNP Mixon) (, ,) (CC and) (NNP Nelson))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (JJ algebraic) (NNS computations) (CC and) (NNS certificates)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB prove) (NP (NN injectivity))))))) (. .))

@@ -1,0 +1,3 @@
+(S (NP (PRP They)) (VP (VBP relate) (PP (IN to) (NP (NP (DT a) (JJ general) (NN comparison) (NN concept)) (CC and) (NP (PRP$ its) (NP (DT an) (NN upgrade))))) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBP call) (S (VP (VBG lifting) (NP (NN procedure)))))))) (. .))
+(S (NP (NP (DT A) (ADJP (RB fairly) (JJ large)) (NN collection)) (PP (IN of) (NP (NP (NNS results)) (VP (VBN obtained) (PP (IN through) (NP (JJ numerical) (NNS experiments))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN provided))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN observed) (SBAR (IN that) (S (NP (DT these) (NNS results)) (VP (VBP are) (PP (IN in) (NP (NP (DT an) (JJ excellent) (NN agreement)) (PP (IN with) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN theory)) (VP (VBZ predicts)))))))))))) (. .))

@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD used) (NP (NP (DT a) (NNP Replication) (NNP Function)) (PRN (-LRB- -LRB-) (NP (NNP R.) (NNP F.)) (-RRB- -RRB-))) (PP (IN for) (NP (NP (NN improvement) (VBG tracking)) (PP (IN with) (NP (JJ dynamic) (NN programming)))))) (. .))
+(S (NP (DT The) (NNP R.) (NNP F.)) (VP (VBZ transforms) (NP (NP (NNS values)) (PP (IN of) (NP (JJ gray) (NN level) (PRN (VBD -LSB-) (CD 0) (CD 255) (NN -RSB-))))) (PP (TO to) (NP (VB -LSB-) (CD 0) (CD 1) (NN -RSB-)))) (. .))
+(S (NP (NP (DT The) (JJ resulting) (NNS images)) (PP (IN of) (NP (NNP R.) (NNP F.)))) (VP (VBP are) (ADJP (RBR more) (JJ striking) (CC and) (JJ visible)) (PP (IN in) (NP (JJ skin) (NNS regions)))) (. .))
+(S (NP (DT The) (NNP R.) (NNP F.)) (VP (VBZ improves) (NP (NP (NNP Dynamic) (NNP Programming)) (PRN (-LRB- -LRB-) (NP (NNP D.) (NNP P.)) (-RRB- -RRB-))) (PP (IN in) (NP (VBG overlapping) (NN hand) (CC and) (NN face)))) (. .))
+(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (S (NP (VBG Tracking) (NNP Error) (NNP Rate)) (NP (CD 11) (NN %))) (CC and) (S (S (NP (NNP Average) (VBD Tracked) (NNP Distance)) (NP (CD 7) (NN %))) (VBD reduced))))))

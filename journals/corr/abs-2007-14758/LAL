@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ two-player) (JJ generalized) (NX (NNP Cops) (CC and) (NNP Robber)) (PRN (-LRB- -LRB-) (NP (NNP GCR)) (-RRB- -RRB-)) (NNS games)) (VP (VBN introduced) (PP (IN by) (NP (NNP Bonato) (CC and) (NNP MacGillivray)))))) (. .))
+(S (NP (PRP$ Our) (JJ main) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB present) (NP (NP (DT a) (JJ full) (, ,) (JJ self-contained) (NN game) (JJ theoretic) (NN analysis)) (PP (IN of) (NP (JJ such) (NNS games)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (ADJP (ADJP (NP (NN hallucination)) (HYPH -) (JJ free)) (CC and) (ADJP (ADVP (RB computationally)) (JJ efficient))) (NN algorithm)) (PP (IN for) (S (VP (VBG enhancing) (NP (NP (DT the) (NN resolution)) (PP (IN of) (NP (NN brain) (NN MRI) (NNS images)))))))) (VP (VBZ is) (VP (VBN demonstrated))) (. .))

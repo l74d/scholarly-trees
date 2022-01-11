@@ -1,0 +1,5 @@
+(S (NP (NNP LCD) (NNS codes)) (VP (VBP are) (NP (NP (JJ linear) (NNS codes)) (SBAR (WHNP (IN that)) (S (VP (VBP intersect) (PP (IN with) (NP (PRP$ their) (JJ dual))) (ADVP (RB trivially))))))) (. .))
+(S (NP (NP (NNP Quasi) (JJ cyclic) (NNS codes)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (NP (NNP LCD)))))) (VP (VBP are) (VP (VBN characterized) (CC and) (VBN studied) (PP (IN by) (S (VP (VBG using) (NP (PRP$ their) (JJ concatenated) (NN structure))))))) (. .))
+(S (NP (DT Some) (JJ asymptotic) (NNS results)) (VP (VBP are) (VP (VBN derived))) (. .))
+(S (S (NP (JJ Hermitian) (NNP LCD) (NNS codes)) (VP (VBP are) (VP (VBN introduced) (PP (TO to) (NP (DT that) (NN end)))))) (CC and) (S (NP (PRP$ their) (JJ cyclic) (NN subclass)) (VP (VBZ is) (VP (VBN characterized)))) (. .))
+(S (NP (NP (NNS Constructions)) (PP (IN of) (NP (NNP QCCD) (NNS codes))) (PP (IN from) (NP (NP (NNS codes)) (PP (IN over) (NP (JJR larger) (NNS alphabets)))))) (VP (VBP are) (VP (VBN given))) (. .))

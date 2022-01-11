@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (NP (NP (NNS algorithms)) (SBAR (WHNP (WDT that)) (S (VP (VBP manipulate) (NP (NP (JJ mathematical) (NNS expressions)) (PP (IN in) (NP (ADJP (ADVP (RB mathematically)) (JJ meaningful)) (NNS ways))))))))))) (. .))
+(S (S (NP (NNS Expressions)) (VP (VBP are) (ADJP (JJ syntactic)))) (, ,) (CC but) (S (NP (JJS most) (NNS logics)) (VP (VBP do) (RB not) (VP (VB allow) (NP (CD one)) (S (VP (TO to) (VP (VB discuss) (NP (NN syntax)))))))) (. .))
+(S (NP (DT The) (VBG resulting) (NN system)) (VP (VBZ is) (VP (VBN called) (NP (NNP HOL) (NNP Light) (NNP QE)))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP document) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (NP (NNP HOL) (NNP Light) (NNP QE)) (CC and) (NP (NP (DT the) (NNS challenges)) (SBAR (WHNP (WDT that)) (S (VP (VBD needed) (S (VP (TO to) (VP (VB be) (VP (VBN overcome))))))))))))) (. .))
+(S (NP (DT The) (VBG resulting) (NN implementation)) (VP (VBZ is) (ADJP (RB freely) (JJ available))) (. .))

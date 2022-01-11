@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP introduce) (NP (DT an) (JJ algorithmic) (NN decision) (NN process)) (PP (IN for) (NP (NP (JJ multialternative) (NN choice)) (SBAR (WHNP (WDT that)) (S (VP (VBZ combines) (NP (NP (JJ binary) (NNS comparisons)) (CC and) (NP (JJ Markovian) (NN exploration))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (JJ functional) (NN property)) (, ,) (NP (NN transitivity)) (, ,)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ testable))))))) (. .))

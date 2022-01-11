@@ -1,0 +1,6 @@
+(S (NP (NN Redistribution) (NNS systems)) (ADVP (RB iteratively)) (VP (VB redistribute) (NP (NP (NN mass)) (PP (IN between) (NP (NNS groups)))) (PP (IN under) (NP (NP (DT the) (NN control)) (PP (IN of) (NP (NNS rules)))))) (. .))
+(S (NP (NN PRAM)) (VP (VBZ is) (NP (NP (DT a) (NN framework)) (PP (IN for) (NP (VBG building) (NN redistribution) (NNS systems))))) (. .))
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NNS relationships)) (PP (IN between) (NP (NP (NN redistribution) (NNS systems)) (, ,) (NP (ADJP (NN agent) (HYPH -) (VBN based)) (NNS systems)) (, ,) (NP (JJ compartmental) (NNS models)) (CC and) (NP (JJ Bayesian) (NNS models)))))) (. .))
+(S (NP (NN PRAM)) (VP (VBZ puts) (NP (ADJP (NN agent) (HYPH -) (VBN based)) (NNS models)) (PP (IN on) (NP (ADJP (NP (DT a) (NN sound)) (JJ probabilistic)) (NN footing))) (PP (IN by) (S (VP (VBG reformulating) (NP (PRP them)) (PP (IN as) (NP (NN redistribution) (NNS systems))))))) (. .))
+(S (NP (DT This)) (VP (VBZ provides) (NP (DT a) (NN basis)) (PP (IN for) (S (VP (VBG integrating) (NP (ADJP (ADJP (NN agent) (HYPH -) (VBN based)) (CC and) (ADJP (JJ probabilistic))) (NNS models)))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (NN PRAM)) (PP (IN with) (NP (DT an) (JJ epidemiological) (NN example)))) (. .))

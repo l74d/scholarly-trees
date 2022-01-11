@@ -1,0 +1,6 @@
+(S (NP (NNP Matrix) (NN code)) (VP (VBZ allows) (S (NP (CD one)) (VP (VP (TO to) (VP (VB discover) (NP (RB algorithms)))) (CC and) (VP (TO to) (VP (VB render) (NP (PRP them)) (PP (IN in) (NP (NP (NN code)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ is) (DT both) (ADJP (JJ compilable))) (CC and) (VP (VBZ is) (ADJP (JJ correct)) (PP (IN by) (NP (NN construction)))))))))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN way))) (NP (NP (DT the) (NN difficulty)) (PP (IN of) (S (VP (VBG verifying) (NP (VBG existing) (NN code)))))) (VP (VBZ is) (VP (VBN avoided))) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ is) (ADJP (RB especially) (JJ important)) (PP (PP (IN for) (NP (ADJP (RB logically) (JJ dense)) (NN code))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (NN precision) (NN programming)) (VP (VBZ is) (VP (VBN called) (PP (IN for)))))))) (. .))
+(S (NP (DT The) (NN paper)) (VP (VBZ explains) (NP (DT both) (DT these) (NNS concepts))) (. .))
+(S (NP (ADJP (RB Logically) (JJ dense)) (NN code)) (VP (VBZ is) (VP (VBN explained) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (DT the) (NN partition) (NN stage)) (PP (IN of) (NP (DT the) (NNP Quicksort) (NN algorithm))))))))) (. .))
+(S (NP (NN Precision) (NN programming)) (VP (VBZ is) (VP (VBN explained) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ fast) (NN exponentiation))))))) (. .))

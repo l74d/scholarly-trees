@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ sufficient) (NN condition)) (PP (IN for) (NP (NP (NN invertibility)) (PP (IN of) (NP (NP (DT a) (ADJP (JJ polynomial)) (NN mapping) (NN function)) (VP (VBN defined) (PP (IN on) (NP (DT a) (NN cube) (CC or) (NN simplex))))))))) (. .))
+(S (NP (DT This) (NN condition)) (VP (VBZ is) (ADJP (JJ applicable) (PP (IN to) (NP (JJ finite) (NN element) (NN analysis)))) (S (VP (VBG using) (NP (JJ curved) (NNS meshes))))) (. .))

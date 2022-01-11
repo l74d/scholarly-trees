@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN smoothing) (NN technique)) (PP (IN of) (NP (NNP Savitzky) (CC and) (NNP Golay)))) (VP (VBZ is) (VP (VBN extended) (PP (TO to) (NP (NP (NNS data)) (VP (VBN defined) (PP (IN on) (NP (JJ multidimensional) (NNS meshes)))))))) (. .))
+(S (NP (DT A) (JJ smoothness-increasing) (NN accuracy-conserving) (PRN (-LRB- -LRB-) (NNP SIAC) (-RRB- -RRB-)) (NN filter)) (VP (VBZ is) (VP (VBN defined) (SBAR (WHNP (IN that)) (S (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (NP (NN use)) (PP (IN with) (NP (JJ finite-element) (NN computation))))))))))) (. .))

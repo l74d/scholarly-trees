@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (NN stability) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NNP Borel-Laplace) (NN series) (NN summation) (NN technique)) (, ,) (VP (VBD used) (PP (IN as) (NP (JJ explicit) (NN time) (NN integrator)))) (, ,)))) (VP (VBZ is) (VP (VBN carried) (PRT (RP out)))) (. .))
+(S (NP (NP (PRP$ Its) (JJ numerical) (NN performance)) (PP (IN on) (NP (ADJP (JJ stiff) (CC and) (JJ non-stiff)) (NNS problems)))) (VP (VBZ is) (VP (VBN analyzed))) (. .))
+(S (NP (NP (NNS Applications)) (PP (TO to) (NP (ADJP (JJ ordinary) (CC and) (JJ partial)) (JJ differential) (NNS equations)))) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN compared) (PP (IN with) (NP (NP (DT those)) (PP (IN of) (NP (NP (JJ many) (JJ popular) (NNS schemes)) (VP (VBN designed) (PP (IN for) (NP (ADJP (NN stiff) (CC and) (JJ non-stiff)) (NNS equations)))))))))) (. .))

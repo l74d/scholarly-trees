@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ asymptotic) (NN distribution)) (PP (IN of) (NP (DT the) (NNS displacements)))) (PP (IN in) (S (VP (VBG hashing) (PP (IN with) (NP (VBN coalesced) (NNS chains)))))) (, ,) (PP (IN for) (NP (DT both) (NML (NML (JJ late) (HYPH -) (NN insertion)) (CC and) (NML (JJ early) (HYPH -) (NN insertion)))))) (. .))
+(S (NP (NP (JJ Asymptotic) (NNS formulas)) (PP (IN for) (NP (NNS means) (CC and) (NNS variances)))) (VP (VBP follow)) (. .))
+(S (NP (DT The) (NN method)) (VP (VBZ uses) (NP (NP (NN Poissonization)) (CC and) (NP (DT some) (JJ stochastic) (NN calculus)))) (. .))

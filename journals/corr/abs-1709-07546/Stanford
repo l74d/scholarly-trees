@@ -1,0 +1,3 @@
+(S (PP (VBN Given) (NP (PDT such) (NP (NP (DT a) (NML (FRAG (NP ($ $)) (NP (NP (LST (LS q)) (NP ($ $))) (ADJP (RB infinitely) (JJ many))))) (JJ such) (NP ($ $)) (NN p)) (NP ($ $))))) (NP (POS 's)) (VP (VBP exist) (SBAR (IN that) (S (VP (VBP admit) (NP (NP ($ $)) (NP (LST (LS q)) (NP ($ $)) (PP (IN as) (NP (DT a) (JJ primitive) (NN root))))) (PP (IN by) (NP (NP (DT the) (NNP Artin) (NN conjecture)) (PP (IN in) (NP (NN arithmetic) (NNS progressions))))))))) (. .))
+(S (NP (DT This) (NN number) (NN theory) (NN conjecture)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB hold) (PP (IN under) (NP (NNP GRH)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ double)) (-LRB- -LRB-) (NP (NN resp)))) (. .))

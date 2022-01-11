@@ -1,0 +1,4 @@
+(S (NP (VBG Watermarking) (NN algorithms)) (VP (NNS needs) (NP (NP (NNS properties)) (PP (IN of) (NP (NN robustness) (CC and) (NN perceptibility))))) (. .))
+(S (CC But) (NP (DT these) (NNS properties)) (VP (VBP are) (VP (VBN affected) (PP (IN by) (NP (NP (JJ different) (NNP -2) (NNS types)) (PP (IN of) (NP (NP (NNS attacks)) (VP (VBN performed) (PP (IN on) (NP (JJ watermarked) (NNS images)))))))))) (. .))
+(S (NP (NP (DT The) (NN goal)) (PP (IN of) (S (VP (VBG performing) (NP (NNS attacks)))))) (VP (VBZ is) (S (VP (VBG destroy) (NP (NP (DT the) (NN information)) (PP (IN of) (NP (NN watermark))) (VP (NN hidden) (PP (IN in) (NP (DT the) (JJ watermarked) (NN image)))))))) (. .))
+(S (RB So) (NP (DT every) (NN Algorithms)) (VP (MD should) (VP (VB be) (VP (ADVP (RB previously)) (VBN tested) (PP (IN by) (NP (NNS developers))) (SBAR (RB so) (IN that) (S (NP (PRP it)) (VP (MD would) (RB not) (VP (VBN affected) (PP (IN by) (NP (NNS attacks)))))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (NN Belief) (NN propagation) (PRN (-LRB- -LRB-) (NP (NN BP)) (-RRB- -RRB-)) (NN algorithm)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB widely) (VBN used)) (NN message) (HYPH -) (NN passing)) (NP (NP (NN method)) (PP (IN for) (NP (NP (NN inference)) (PP (IN in) (NP (JJ graphical) (NNS models)))))))) (. .))
+(S (NP (NP (NN BP)) (PP (IN on) (NP (NML (NN loop) (HYPH -) (JJ free)) (NNS graphs)))) (VP (VBZ converges) (PP (IN in) (NP (JJ linear) (NN time)))) (. .))
+(S (CC But) (S (PP (IN for) (NP (NP (NNS graphs)) (PP (IN with) (NP (NNS loops))))) (, ,) (NP (NP (NNP BP) (POS 's)) (NN performance)) (VP (VBZ is) (ADJP (JJ uncertain)))) (, ,) (CC and) (S (NP (NP (DT the) (NN understanding)) (PP (IN of) (NP (PRP$ its) (NN solution)))) (VP (VBZ is) (VP (VBN limited)))) (. .))
+(S (NP (NP (JJ Experimental) (NNS simulations)) (PP (IN on) (NP (JJ random) (NNS graphs)))) (VP (VBP validate) (NP (PRP$ our) (JJ theoretical) (NNS results))) (. .))

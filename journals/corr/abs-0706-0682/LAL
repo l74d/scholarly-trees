@@ -1,0 +1,3 @@
+(S (NP (NP (DT A) (JJ new) (NN approach)) (PP (IN for) (S (VP (ADVP (JJ upper)) (VBG bounding) (NP (DT the) (NN channel) (NN reliability) (NN function)) (S (VP (VBG using) (NP (DT the) (NN code) (NN spectrum)))))))) (VP (VBZ is) (VP (VBN described))) (. .))
+(S (NP (PRP It)) (VP (VBZ allows) (S (VP (TO to) (VP (VB treat) (NP (UCP (DT both) (JJ low) (CC and) (JJ high)) (NN rate) (NNS cases)) (PP (IN in) (NP (DT a) (JJ unified) (NN way))))))) (. .))
+(S (PP (IN In) (NP (JJ particular))) (, ,) (S (NP (DT the) (JJR earlier) (VBN known) (JJ upper) (NNS bounds)) (VP (VBP are) (VP (VBN improved)))) (, ,) (CC and) (S (NP (NP (DT a) (JJ new) (NN derivation)) (PP (IN of) (NP (DT the) (JJ sphere-packing) (NN bound)))) (VP (VBZ is) (VP (VBN presented)))) (. .))

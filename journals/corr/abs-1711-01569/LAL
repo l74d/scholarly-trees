@@ -1,0 +1,2 @@
+(S (NP (NN Temporal-difference) (PRN (-LRB- -LRB-) (NNP TD) (-RRB- -RRB-)) (NN learning)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN field)) (PP (IN in) (NP (JJ reinforcement) (NN learning))))) (. .))
+(S (NP (NNP Sarsa) (CC and) (NNP Q-Learning)) (VP (VBP are) (PP (IN among) (NP (DT the) (ADJP (RBS most) (JJ used)) (NNP TD) (NN algorithms)))) (. .))

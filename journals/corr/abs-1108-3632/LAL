@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT a) (JJ previous) (NN paper))) (, ,) (NP (PRP we)) (VP (VBD described) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (NNS words)) (SBAR (WHNP (WDT that)) (S (VP (VBP appear) (PP (IN in) (NP (NP (DT the) (NN coding)) (PP (IN of) (NP (NN smooth) (PRN (-LRB- -LRB-) (NN resp) (. .))))))))))))))
+(NP (NP (JJ analytic) (-RRB- -RRB-) (NNS curves)) (PP (IN at) (NP (JJ arbitrary) (JJ small) (NN scale))) (. .))
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT those) (NNS languages)))))))) (. .))

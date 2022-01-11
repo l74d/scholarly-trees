@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP ask) (: :) (SBARQ (-LRB- -LCB-) (WHNP (WP What)) (SQ (VP (VBZ is) (NP (NP (DT the) (JJ minimum) (NN precision)) (VP (VBN required) (SBAR (IN for) (S (NP (NN oracle) (NNS outputs)) (VP (TO to) (VP (VB retain) (NP (DT the) (JJ unrestricted) (NN convergence) (NNS rates)))))))))) (. ?)) (-RRB- -RCB-)))
+(S (NP (PRP$ Our) (NNS quantizers)) (VP (VBP are) (ADJP (ADJP (JJ new)) (CC and) (ADJP (JJ easy) (SBAR (S (VP (TO to) (VP (VB implement)))))))) (. .))

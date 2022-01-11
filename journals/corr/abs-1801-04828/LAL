@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (NN influence)) (PP (IN of) (NP (JJ dynamic) (NN eccentricity))) (PP (IN on) (NP (NP (DT the) (JJ harmonic) (NN spectrum)) (PP (IN of) (NP (NP (DT the) (NN torque)) (PP (IN of) (NP (DT a) (JJ permanent) (NN magnet) (JJ synchronous) (NN machine)))))))) (VP (VBZ is) (VP (VBN studied))) (. .))
+(S (NP (DT The) (NN spectrum)) (VP (VBZ is) (VP (VBN calculated) (PP (IN by) (NP (DT an) (NN energy) (NN balance) (NN method))))) (. .))
+(S (NP (JJ Uncertainty) (NN quantification)) (VP (VBZ is) (VP (VBN applied) (PP (IN by) (S (VP (VBG using) (NP (NP (VBN generalized) (NNP Polynomial) (NNP Chaos)) (CC and) (NP (NNP Monte) (NNP Carlo)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN found) (SBAR (IN that) (S (NP (NP (DT the) (NN displacement)) (PP (IN of) (NP (DT the) (NN rotor)))) (VP (VBZ impacts) (NP (NP (DT the) (NN spectrum)) (PP (IN of) (NP (DT the) (NN torque)))) (ADVP (DT the) (RBS most))))))) (. .))

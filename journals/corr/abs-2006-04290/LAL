@@ -1,0 +1,1 @@
+(NP (NP (NNP Wide) (NN spectrum) (NN denoising)) (PRN (-LRB- -LRB-) (NP (NNP WSD)) (-RRB- -RRB-)) (PP (IN for) (NP (NN superresolution) (NN microscopy) (VBG imaging))) (PP (VBG using) (NP (NP (VBN compressed) (NN sensing)) (CC and) (NP (DT a) (NN high-resolution) (NN camera)))))

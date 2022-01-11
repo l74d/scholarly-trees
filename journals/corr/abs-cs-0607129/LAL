@@ -1,0 +1,6 @@
+(S (NP (NNP Enterprise) (NN resource) (NN planning) (PRN (-LRB- -LRB-) (NP (NNP ERP)) (-RRB- -RRB-)) (NNS systems)) (VP (VBP enjoy) (NP (DT an) (ADJP (RB increasingly) (JJ wide)) (NN coverage))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT no) (ADJP (RB truly) (JJ integrate)) (NN solution)) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (PP (IN as) (ADVP (RB yet)))))) (. .))
+(S (NP (NNP ERP) (NN classification)) (VP (VBZ is) (VP (VBN given))) (. .))
+(S (NP (NP (JJ Recent) (NNS trends)) (PP (IN in) (NP (JJ commercial) (NNS systems)))) (VP (VBP are) (VP (VBN analyzed) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (JJ human) (NNS resources) (PRN (-LRB- -LRB-) (NNP HR) (-RRB- -RRB-)) (NN management) (NN software))))))) (. .))
+(S (NP (NP (DT An) (JJ innovative) (`` ``) (ADJP (VBD straight) (IN through)) ('' '') (NN design) (CC and) (NN implementation) (NN process)) (PP (IN of) (NP (DT an) (ADJP (JJ open) (, ,) (NN secure) (, ,) (CC and) (JJ scalable)) (VBN integrated) (JJ event-driven) (NN enterprise) (NN solution)))) (VP (VBZ is) (VP (VBN suggested))) (. .))
+(S (NP (NN Implementation) (NNS results)) (VP (VBP are) (VP (VBN presented))) (. .))

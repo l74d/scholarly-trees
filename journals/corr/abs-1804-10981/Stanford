@@ -1,0 +1,3 @@
+(S (NP (DT A) (JJ temporal) (NN network)) (VP (VBZ is) (NP (NP (DT a) (JJ mathematical) (NN way)) (PP (IN of) (S (ADVP (RB precisely)) (VP (VBG representing) (NP (NP (DT a) (NN time) (VBG varying) (NN relationship)) (PP (IN among) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS agents))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP present) (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG enumerating) (S (NP (DT all) (JJ such) (JJ maximal) (NNS cliques)) (ADJP (JJ present) (PP (IN in) (NP (DT the) (NN network))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VB implement) (NP (DT the) (VBN proposed) (NN algorithm)) (PP (IN with) (NP (CD three) (NML (NML (JJ human) (NN contact) (NN network)) (NN data)) (NNS sets)))) (. .))

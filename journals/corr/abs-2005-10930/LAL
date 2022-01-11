@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NP (JJ log-concave) (NNS variables)) (PP (IN on) (NP (DT the) (NNS integers))))) (, ,) (NP (DT the) (NN min) (NN entropy)) (VP (VBZ is) (PP (IN within) (NP (NP (JJ log) (NN e)) (PP (IN of) (NP (DT the) (JJ usual) (NNP Shannon) (NN entropy)))))) (. .))

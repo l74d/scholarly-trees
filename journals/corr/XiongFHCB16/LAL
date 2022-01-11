@@ -1,0 +1,2 @@
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBD conducted) (NP (JJ extensive) (NNS experiments)) (S (VP (VBG using) (NP (NP (DT a) (JJ large-scale) (NN real-world) (NNP EHR) (NN dataset)) (: —) (NP (NNP CHSN)))))) (. .))
+(S (NP (PRP We)) (VP (VBN compared) (NP (PRP$ our) (NN solution)) (PP (IN with) (NP (JJ other) (NX (NX (VBN regularized) (NX (NNP LDA))) (CC and) (NX (NN downstream) (NNS classifiers)))))) (. .))

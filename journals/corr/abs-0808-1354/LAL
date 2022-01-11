@@ -1,0 +1,4 @@
+(SBARQ (WHNP (WP What)) (SQ (VP (VBZ is) (NP (NP (DT the) (JJ minimal) (NN algebraic) (NN structure)) (SBAR (S (VP (TO to) (VP (NN reason) (PP (IN about) (NP (NN information) (NN flow)))))))))) (. ?))
+(SQ (VBP Do) (NP (PRP we)) (ADVP (RB really)) (VP (VB need) (NP (NP (DT the) (JJ full) (NN power)) (PP (IN of) (NP (NNP Boolean) (NNS algebras))) (PP (IN with) (NP (NP (NN co-closure)) (CC and) (NP (VB de) (NNP Morgan) (JJ dual) (NNS operators)))))) (. ?))
+(SBARQ (WHADVP (WRB How) (JJ much)) (SQ (MD can) (NP (PRP we)) (VP (VP (VB weaken)) (CC and) (VP (ADVP (RB still)) (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (NN reason) (PP (IN about) (NP (JJ multi-agent) (NNS scenarios))) (PP (IN in) (NP (DT a) (JJ tidy) (JJ compositional) (NN way)))))))))) (. ?))
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (DT some) (NNS answers))) (. .))

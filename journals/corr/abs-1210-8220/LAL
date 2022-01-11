@@ -1,0 +1,3 @@
+(S (NP (JJ Closed-loop) (NN reference) (NNS models)) (VP (VBP have) (ADVP (RB recently)) (VP (VBN been) (VP (VBN proposed) (PP (IN for) (NP (NP (NNS states)) (ADJP (JJ accessible) (JJ adaptive) (NNS systems))))))) (. .))
+(S (NP (PRP They)) (VP (VBP have) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB have) (NP (NP (VBN improved) (JJ transient) (NN response)) (PP (IN over) (NP (PRP$ their) (JJ open) (NN loop) (NN counter) (NNS parts)))))))))) (. .))
+(S (NP (NP (DT The) (NNS results)) (PP (IN in) (NP (DT the) (NNS states) (JJ accessible) (NN case)))) (VP (VBP are) (VP (VBN extended) (PP (TO to) (NP (NP (JJ single) (NN input) (JJ single) (NN output) (NNS plants)) (PP (IN of) (NP (JJ arbitrary) (JJ relative) (NN degree))))))) (. .))

@@ -1,0 +1,4 @@
+(S (S (VP (VBG Assuming) (NP (DT the) (NML (NNP Unique) (NNPS Games)) (NN Conjecture)))) (, ,) (NP (DT this)) (VP (VBZ is) (NP (DT the) (ADJP (JJS best) (JJ possible)) (NN approximation)) (ADVP (IN up) (PP (IN to) (NP (JJ constant) (NNS factors))))) (. .))
+(S (ADVP (RB Previously)) (, ,) (NP (DT a) (NML (NML ($ $) (CD 1)) (SYM /) (NML (NN R$) (HYPH -) (JJ approximate))) (NN algorithm)) (VP (VBD was) (VP (VBN known) (, ,) (PP (VBN based) (PP (IN on) (NP (JJ linear) (NN programming)))))) (. .))
+(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (PP (IN on) (NP (JJ semidefinite) (NN programming) (PRN (-LRB- -LRB-) (NP (NN SDP)) (-RRB- -RRB-)))) (CC and) (PP (IN on) (NP (DT a) (JJ novel) (VBG rounding) (NN technique)))))) (. .))
+(S (NP (NP (DT The) (NN SDP)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBP use))))) (VP (VBZ has) (NP (DT an) (ADJP (RB almost) (HYPH -) (VBG matching)) (NN integrality) (NN gap))) (. .))

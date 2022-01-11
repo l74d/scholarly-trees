@@ -1,0 +1,3 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ finite-state) (JJ additive) (NN noise) (NNS channels)))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (DT A) (JJ topological) (NN condition)) (VP (VBZ is) (VP (VBN given) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN zero-error) (NN capacity)) (VP (VBZ is) (NP (CD zero)) (, ,) (PP (IN with) (CC or) (IN without) (NP (NN feedback)))))))) (. .))
+(S (NP (PRP We)) (VP (ADVP (RB explicitly)) (VBP compute) (NP (DT the) (NN zero-error) (NN feedback) (NN capacity)) (PP (IN for) (NP (NP (JJ several) (NNS examples)) (, ,) (PP (VBG including) (NP (NP (NP (NNS channels)) (PP (IN with) (NP (JJ isolated) (NNS errors)))) (CC and) (NP (DT a) (JJ Gilbert-Elliot) (NN channel))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP consider) (SBAR (S (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG minimizing) (NP (NP (DT the) (NN makespan)) (PP (IN in) (NP (NP (DT a) (NN flowshop)) (VP (VBG involving) (NP (ADJP (JJ maximal) (CC and) (JJ minimal)) (NN time)))))))))) (VP (VBZ lags))))) (. .))
+(S (NP (NNP Time) (NN lag) (NNS constraints)) (VP (VB generalize) (NP (NP (DT the) (JJ classical) (NN precedence) (NNS constraints)) (PP (IN between) (NP (NNS operations))))) (. .))
+(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (JJ such) (NNS constraints)) (VP (VBP are) (ADVP (RB only)) (VP (VBN defined) (PP (IN between) (NP (NP (NNS operations)) (PP (IN of) (NP (DT the) (JJ same) (NN job)))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN solution) (NN method)) (CC and) (NP (JJ present) (JJ several) (NNS extensions)))) (. .))

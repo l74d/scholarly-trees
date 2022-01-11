@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN method)) (PP (IN of) (S (VP (VBG using) (NP (JJ recursive) (NNS functions)) (S (VP (TO to) (VP (VB describe) (NP (NN state) (NN change))))))))) (VP (VBZ is) (VP (VBN applied) (PP (TO to) (NP (NP (VB process) (VBG switching)) (PP (IN in) (NP (NNP UNIX-like) (VBG operating) (NNS systems))))))) (. .))

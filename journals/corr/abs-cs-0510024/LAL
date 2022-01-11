@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP generalize) (NP (DT the) (JJ tree-confluent) (NN graphs)) (PP (TO to) (NP (NP (DT a) (JJR broader) (NN class)) (PP (IN of) (NP (NN graphs))) (VP (VBN called) (S (NP (NNP Delta-confluent) (NN graphs))))))) (. .))
+(S (NP (NP (NP (DT This) (NN class)) (PP (IN of) (NP (NN graphs)))) (CC and) (NP (NP (JJ distance-hereditary) (NN graphs)) (, ,) (NP (NP (DT a) (JJ well-known) (NN class)) (PP (IN of) (NP (NN graphs)))) (, ,))) (VP (NN coincide)) (. .))
+(S (NP (NP (DT Some) (NNS results)) (PP (IN about) (NP (NP (DT the) (NN visualization)) (PP (IN of) (NP (NNP Delta-confluent) (NN graphs)))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN given))) (. .))

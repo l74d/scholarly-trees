@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP characterize) (NP (DT the) (JJ affine-invariant) (NN maximal) (VBD extended) (JJ cyclic) (NNS codes))) (. .))
+(S (ADVP (RB Then)) (PP (IN by) (NP (DT the) (NNP CSS) (NN construction))) (, ,) (NP (PRP we)) (VP (VBP derive) (PP (IN from) (NP (DT these) (NNS codes))) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NN pure) (NN quantum) (NNS codes))))) (. .))
+(S (ADVP (RB Also)) (PP (IN for) (NP (NP (RB ordnq)) (RB even))) (, ,) (NP (NP (DT a) (JJ new) (NN family)) (PP (IN of) (NP (NN degenerate) (NN quantum) (NN stabilizer) (NNS codes)))) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (DT the) (JJ classical) (NN duadic) (NNS codes))))) (. .))
+(S (NP (DT This)) (VP (VBZ answer) (NP (NP (DT an) (JJ open) (NN problem)) (VP (VBN asked) (PP (IN by) (NP (NNP Aly) (CC et) (NN al)))))) (. .))

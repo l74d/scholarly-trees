@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (PP (IN within) (NP (DT the) (NML (NN SPIN) (NN model)) (NN checker))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP present) (NP (JJ experimental) (NNS results)) (PP (IN for) (NP (DT some) (NN benchmark) (NNS examples))))) (. .))

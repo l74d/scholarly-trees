@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (DT that) (S (NP (DT every) (JJ subcubic) (JJ triangle-free) (NN graph)) (VP (VBZ has) (NP (JJ fractional) (JJ chromatic) (NN number)) (ADVP (ADVP (IN at) (JJS most)) (NP (CD 14/5)))))) (, ,) (S (ADVP (RB thus)) (VP (VBG confirming) (NP (NP (NP (DT a) (NN conjecture)) (PP (IN of) (NP (NNP Heckman) (CC and) (NNP Thomas)))) (NNP -LSB-) (NP (NP (NNP A) (JJ new) (NN proof)) (PP (IN of) (NP (NP (DT the) (NN independence) (NN ratio)) (PP (IN of) (NP (JJ triangle-free) (JJ cubic) (NN graphs)))))))))) (. .))
+(NP (NNP Discrete) (NNP Math) (. .))
+(NP (NP (CD 233)) (PRN (-LRB- -LRB-) (NP (CD 2001)) (-RRB- -RRB-)) (, ,) (CD 233) (: —) (CD 237) (NN -RSB-) (. .))

@@ -1,0 +1,1 @@
+(S (ADVP (RB However)) (, ,) (SBAR (RB once) (S (NP (NN somebody)) (VP (VBZ obtains) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (JJ linear) (NNP Datalog))))))) (, ,) (NP (PRP$ our) (NN result)) (ADVP (RB immediately)) (VP (VBZ gives) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (JJ symmetric) (NNP Datalog))))) (. .))

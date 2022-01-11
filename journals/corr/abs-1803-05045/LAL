@@ -1,0 +1,5 @@
+(S (S (NP (JJ Generative) (JJ adversarial) (NNS networks)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (NNS images)))))))) (CC but) (S (ADVP (RB still)) (NP (PRP$ their) (NN convergence) (NNS properties)) (VP (VBP are) (RB not) (ADJP (ADVP (RB well)) (RB understood)))) (. .))
+(S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (NP (DT a) (JJ few) (NNS studies)) (SBAR (WHNP (WP who)) (S (VP (VBD intended) (S (VP (TO to) (VP (VB investigate) (NP (NP (DT the) (NN stability) (NNS properties)) (PP (IN of) (NP (NP (NNP GANs)) (PP (IN as) (NP (DT a) (JJ dynamical) (NN system))))))))))))))) (. .))
+(S (NP (DT This) (JJ short) (NN writing)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN in) (NP (DT that) (NN direction)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP show) (PP (IN by) (NP (DT a) (JJ simple) (NN example))) (SBAR (WHADVP (WRB how)) (S (NP (JJ annealing) (NN strategy)) (VP (VBZ works) (PP (IN in) (NP (NNP GANs))))))) (. .))
+(S (NP (DT The) (JJ theoretical) (NN analysis)) (VP (VBZ is) (VP (VBN supported) (PP (IN by) (NP (JJ simple) (NNS simulations))))) (. .))

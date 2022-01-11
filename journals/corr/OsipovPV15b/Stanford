@@ -1,0 +1,6 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ describes) (NP (NNS experiments)) (S (VP (TO to) (VP (VB attract) (NP (JJ active) (JJ online) (NN system) (NNS users)) (PP (IN to) (NP (DT the) (NN partner) (NN program))))))) (. .))
+(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB grow) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS users)))) (PP (IN by) (S (VP (VBG involving) (NP (NP (VBG existing) (NN system) (NNS users)) (PP (IN in) (NP (JJ viral) (NNS mechanics))))))))))) (. .))
+(S (NP (NP (JJ Several) (NNS examples)) (PP (IN of) (NP (NN user) (NN motivation)))) (VP (VBP are) (VP (VBN given) (, ,) (PP (IN along) (PP (IN with) (NP (NP (DT the) (JJ specific) (NN interface) (NNS implementations)) (CC and) (NP (JJ viral) (NNS mechanics))))))) (. .))
+(S (NP (JJ Viral) (NML (NN K) (HYPH -) (NN factor))) (VP (VBD was) (VP (VBN used) (PP (IN as) (NP (NP (DT the) (NNS metrics)) (PP (IN for) (NP (DT the) (VBG resulting) (NN system) (NN growth) (NN assessment))))))) (. .))
+(S (NP (JJ Specific) (NNS examples)) (VP (VBP show) (NP (ADJP (CC both) (JJ positive) (CC and) (JJ negative)) (NNS outcomes))) (. .))
+(S (NP (NP (NN Growth)) (PP (IN of) (NP (DT the) (NN target) (NN system) (NNS parameters)))) (VP (VBZ is) (VP (VBN discussed))) (. .))

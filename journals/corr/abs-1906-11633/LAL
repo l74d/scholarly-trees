@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NNP OpenAI) (NNP Remote) (NNP Rendering) (NNP Backend)) (PRN (-LRB- -LRB-) (NP (NNP ORRB)) (-RRB- -RRB-)) (, ,) (NP (NP (DT a) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (NP (NP (ADJP (RB fast) (CC and) (JJ customizable)) (NN rendering)) (PP (IN of) (NP (NNS robotics) (NNS environments)))))))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Unity3d) (NN game) (NN engine))))) (CC and) (VP (NNS interfaces) (PP (IN with) (NP (DT the) (NNP MuJoCo) (NNS physics) (NN simulation) (NN library))))) (. .))
+(S (NP (NNP ORRB)) (VP (VBD was) (VP (VBN designed) (PP (IN with) (S (NP (JJ visual) (NN domain) (NN randomization)) (PP (IN in) (NP (NN mind))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN optimized) (PP (IN for) (NP (NP (JJ cloud) (NN deployment)) (CC and) (NP (JJ high) (NN throughput) (NN operation)))))) (. .))
+(S (NP (PRP We)) (VP (VBP are) (VP (VBG releasing) (NP (PRP it)) (PP (TO to) (NP (DT the) (JJ public))) (PP (IN under) (NP (NP (DT a) (JJ liberal) (NNP MIT) (NN license)) (: :) (NP (DT this) (NN https) (NNP URL)))))) (. .))

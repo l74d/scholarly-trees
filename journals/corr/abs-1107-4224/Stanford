@@ -1,0 +1,1 @@
+(S (NP (NP (ADJP (RBR More) (JJ precise)) (NN estimation)) (PP (IN of) (NP (NP (DT the) (JJ greedy) (NN algorithm) (NN complexity)) (PP (IN for) (NP (NP (DT a) (JJ special) (NN case)) (PP (IN of) (NP (DT the) (NN set) (NN cover) (NN problem)))))))) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

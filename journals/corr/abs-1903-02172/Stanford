@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN volume)) (VP (VBZ represents) (NP (DT the) (VBN accepted) (NNS submissions)) (PP (IN from) (NP (NP (DT the) (NML (NML (NN AAAI)) (HYPH -) (NP-TMP (CD 2019))) (NN Workshop)) (PP (IN on) (NP (NNPS Games) (CC and) (NNPS Simulations))))) (SBAR (IN for) (S (NP (NNP Artificial) (NNP Intelligence)) (VP (VBD held) (PP (IN on) (NP (NNP January) (CD 29) (, ,) (CD 2019))) (PP (IN in) (NP (NML (NNP Honolulu) (, ,) (NNP Hawaii) (, ,)) (NNP USA))))))) (. .))
+(S (NP (DT this)) (VP (VBZ https) (NP (NN URL))))

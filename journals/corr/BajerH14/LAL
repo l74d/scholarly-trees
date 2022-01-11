@@ -1,0 +1,1 @@
+(NP (NP (NNP Outline)) (PP (IN of) (NP (NP (JJ several) (NNS strategies)) (PP (IN for) (S (VP (VBG using) (NP (JJ Gaussian) (NNS processes)) (PP (IN as) (NP (NP (NN surrogate) (NNS models)) (PP (IN for) (NP (NP (DT the) (NN covariance) (NN matrix) (NN adaptation) (NN evolution) (NN strategy)) (PRN (-LRB- -LRB-) (NP (NNP CMA-ES)) (-RRB- -RRB-))))))))))) (. .))

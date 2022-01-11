@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN essay))) (NP (NP (DT the) (NN stance)) (PP (IN on) (NP (NNS robots)))) (VP (VBZ is) (VP (VBN discussed))) (. .))
+(S (NP (NP (DT The) (NN attitude)) (PP (IN against) (NP (NP (NP (NNS robots)) (PP (IN in) (NP (NN history)))) (, ,) (VP (VBG starting) (PP (IN in) (NP (JJ Ancient) (JJ Greek) (NN culture))) (PP (IN until) (NP (DT the) (JJ industrial) (NN revolution))))))) (VP (VBZ is) (VP (VBN described))) (. .))
+(S (NP (NP (DT The) (JJ uncanny) (NN valley)) (CC and) (NP (DT some) (JJ possible) (NNS explanations))) (VP (VBP are) (VP (VBN given))) (. .))
+(S (S (NP (NP (DT Some) (NNS differences)) (PP (IN in) (NP (NP (ADJP (JJ Western) (CC and) (JJ Asian)) (NN understanding)) (PP (IN of) (NP (NNS robots)))))) (VP (VBP are) (VP (VBN listed)))) (CC and) (S (ADVP (RB finally)) (NP (PRP we)) (VP (VBP answer) (NP (NP (DT the) (NN question)) (VP (VBN raised) (PP (IN with) (NP (DT the) (NN title))))))) (. .))

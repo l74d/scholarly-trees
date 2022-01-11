@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN document))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT the) (JJ fractal) (NN structure)) (PP (IN of) (NP (DT the) (NNP Netsukuku) (NN topology))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ possible) (S (VP (TO to) (VP (VB use) (NP (DT the) (NNP QSPN) (NN v2)) (PP (IN on) (NP (NP (DT the) (JJ high) (NNS levels)) (PP (IN of) (NP (DT the) (JJ fractal))))))))))))) (. .))

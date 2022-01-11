@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ exists) (NP (NP (DT a) (JJ dihedral) (JJ acute) (NN triangulation)) (PP (IN of) (NP (DT the) (ADJP (CD three) (HYPH -) (JJ dimensional)) (NN cube))))))))) (. .))
+(S (S (NP (NP (DT The) (NN method)) (PP (IN of) (S (VP (VBG constructing) (NP (DT the) (JJ acute) (NN triangulation)))))) (VP (VBZ is) (VP (VBN described)))) (, ,) (CC and) (S (NP (NP (NNS symmetries)) (PP (IN of) (NP (DT the) (NN triangulation)))) (VP (VBP are) (VP (VBN discussed)))) (. .))

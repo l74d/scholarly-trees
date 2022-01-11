@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (NP (IN background) (NNS theories)) (CC and) (NP (JJ required) (NNS steps))) (PP (NNS towards) (NP (NP (NN preparation)) (PP (IN of) (NP (DT a) (NNP WLAN) (NN location) (NN system))))))) (. .))
+(S (S (NP (DT This) (NN paper)) (VP (VBZ targets) (PP (IN on) (NP (DT a) (NN software) (NN project))))) (CC and) (S (NP (NP (NN intention)) (PP (IN behind) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB motivate) (NP (NP (DT the) (JJ young) (NNS researchers)) (PP (IN in) (NP (DT the) (NN area))))))))) (. .))

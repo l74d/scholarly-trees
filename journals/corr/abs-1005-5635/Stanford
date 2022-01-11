@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN extension)) (PP (IN of) (NP (NP (DT the) (NNP Wagner) (NN hierarchy)) (PP (IN to) (NP (NP (JJ blind) (NN counter) (NN automata)) (VP (VBG accepting) (NP (JJ infinite) (NNS words)) (PP (IN with) (NP (DT a) (NNP Muller) (NN acceptance) (NN condition))))))))) (VP (VBZ is) (ADJP (JJ effective))) (. .))
+(S (NP (PRP We)) (VP (VBP determine) (NP (RB precisely) (DT this) (NN hierarchy))) (. .))

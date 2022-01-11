@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NP (DT this) (NN class)) (PP (IN of) (NP (NNP Telecommunication) (NNP Network))))) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT a) (JJ joint) (JJ large) (NN deviation) (NN principle)) (PP (IN for) (NP (NP (DT the) (JJ empirical) (NNS measures)) (PP (IN of) (NP (DT the) (NNP Telecommunication) (NNP Networks))))))) (. .))
+(S (NP (NP (PDT All) (PRP$ our) (NN rate)) (NP (NNS functions))) (VP (VBP are) (VP (VBN expressed) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ relative) (NNS entropies))))))) (. .))

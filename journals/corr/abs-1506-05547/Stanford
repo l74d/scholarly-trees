@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP perform) (NP (NP (DT a) (JJ novel) (NN analysis)) (PP (IN of) (NP (NN quantum) (JJ Gaussian) (NNS channels)))) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ weak) (NNS measurements)))))) (. .))
+(S (VP (VB Suppose) (S (NP (NNP Alice)) (VP (VBZ sends) (NP (JJ classical) (NN information)) (PP (IN to) (NP (NP (NNP Bob)) (VP (VBG using) (NP (DT a) (NN quantum) (NN channel)))))))) (. .))
+(S (VP (VB Suppose) (S (NP (NNP Bob)) (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB use) (NP (NP (ADJP (RB only) (JJ weak)) (NNS measurements)) (, ,) (SBAR (WHNP (WP what)) (S (VP (MD would) (VP (VB be) (NP (DT the) (NN channel) (NN capacity)))))))))))))) (. ?))
+(S (NP (PRP We)) (VP (VP (VBP formulate) (NP (JJ weak) (NN measurement) (NN theory)) (PP (IN in) (NP (DT these) (NNS terms)))) (CC and) (VP (VB discuss) (NP (DT the) (JJ above) (NN question)))) (. .))

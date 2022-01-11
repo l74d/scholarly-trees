@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NN scheduling)) (PP (IN of) (NP (JJ colored) (NNS packets)))) (PP (IN with) (NP (NP (NN transition) (NNS costs)) (SBAR (WHNP (WDT which)) (S (VP (VBP form) (NP (DT a) (JJ general) (JJ metric) (NN space)))))))) (. .))
+(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP improve) (NP (NP (DT the) (NN hardness) (NN result)) (PP (IN of) (NP (NNP Azar)))) (PP (IN at) (NP (NNP el)))) (. .))
+(FRAG (NP (CD 2009)) (PP (IN for) (NP (JJ uniform) (JJ metric) (NNS spaces))) (. .))
+(S (PP (IN In) (S (VP (VBG proving) (NP (PRP$ our) (NN hardness) (NNS results))))) (NP (PRP we)) (VP (VBP use) (NP (DT some) (JJ interesting) (JJ non-standard) (NN embedding))) (. .))

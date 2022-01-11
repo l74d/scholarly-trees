@@ -1,0 +1,2 @@
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP$ our) (NNS results)) (VP (VBP are) (ADJP (RB directly) (JJ relevant) (PP (IN to) (NP (NP (NP (DT the) (NN characterisation)) (PP (IN of) (NP (NN automata)))) (CC and) (NP (NP (NN expressiveness) (NN modulo) (NN bisimilirity)) (PP (IN for) (NP (NP (NNS variants)) (PP (IN of) (NP (JJ monadic) (NML (JJ second) (HYPH -) (NN order)) (NN logic)))))))))) (. .))
+(S (NP (DT This) (NN application)) (VP (VBZ is) (VP (VBN developed) (PP (IN in) (NP (DT a) (NN companion) (NN paper))))) (. .))

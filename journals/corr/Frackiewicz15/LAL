@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT the) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (NP (DT the) (NNP Bertrand) (NN duopoly) (NN example)) (PP (IN in) (NP (DT the) (NN quantum) (NN domain))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (CD two) (NNS ways)) (S (VP (TO to) (VP (VB write) (NP (DT the) (NN game)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN quantum) (NN theory))))))))) (. .))
+(S (NP (DT The) (JJ first) (CD one)) (VP (VBZ adapts) (NP (DT the) (JJ Li-Du-Massar) (NN scheme)) (PP (IN for) (NP (DT the) (NNP Cournot) (NN duopoly)))) (. .))
+(S (NP (DT The) (JJ second) (NN one)) (VP (VBZ is) (NP (NP (DT a) (JJ simplified) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ exploits) (NP (DT a) (ADJP (CD two) (NN qubit)) (VBD entangled) (NN state))))))) (. .))
+(S (PP (IN In) (NP (DT both) (NNS cases))) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (S (VP (VBG finding) (NP (NNP Nash) (NN equilibria)) (PP (IN in) (NP (DT the) (JJ resulting) (NNS games))))))) (. .))

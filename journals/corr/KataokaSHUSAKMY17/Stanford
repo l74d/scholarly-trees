@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ gives) (NP (NP (JJ futuristic) (NNS challenges)) (VP (VBN disscussed) (PP (IN in) (NP (DT the) (NN cvpaper.challenge)))))) (. .))
+(S (PP (IN In) (NP (CD 2015) (CC and) (CD 2016))) (, ,) (NP (PRP we)) (ADVP (RB thoroughly)) (VP (VBP study) (NP (QP (CD 1,600) (SYM +)) (NNS papers)) (PP (IN in) (NP (NP (JJ several) (NNS conferences)) (, /) (NP (NP (NNS journals)) (PP (JJ such) (IN as) (NP (NN CVPR) (HYPH /) (NN ICCV) (HYPH /) (NN ECCV) (HYPH /) (NN NIPS) (HYPH /) (NN PAMI) (HYPH /) (NN IJCV))))))) (. .))

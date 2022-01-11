@@ -1,0 +1,2 @@
+(S (NP (DT The) (JJ cross-entropy) (NN method)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ simple) (CC but) (JJ efficient)) (NN method)) (PP (IN for) (NP (JJ global) (NN optimization))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP provide) (NP (NP (NP (CD two) (JJ online) (NNS variants)) (PP (IN of) (NP (DT the) (JJ basic) (NNP CEM)))) (, ,) (ADVP (RB together) (PP (IN with) (NP (NP (DT a) (NN proof)) (PP (IN of) (NP (NN convergence)))))))) (. .))

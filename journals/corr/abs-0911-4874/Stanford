@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ describes) (NP (NP (DT an) (NN image) (NN processing)) (PP (IN for) (NP (DT a) (JJ non-photorealistic) (NN rendering))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ random) (NN choice)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS pixels)) (PP (IN from) (NP (DT those))))))))) (S (VP (TO ot) (VP (NP (NP (DT the) (JJ original) (NN image) (CC and) (NN substitution)) (PP (IN of) (NP (PRP them)))) (PP (IN with) (NP (NN colour) (NNS spots)))))))) (. .))
+(S (NP (DT An) (JJ iterative) (NN procedure)) (VP (VBZ is) (VP (VBN applied) (S (VP (TO to) (VP (VB cover)))) (, ,) (PP (IN at) (NP (NP (DT a) (VBN desired) (NN level)) (, ,) (NP (DT the) (NN canvas)))))) (. .))
+(S (NP (DT The) (VBG resulting) (NN effect)) (VP (VBZ mimics) (NP (DT the) (JJ impressionist) (NN painting) (CC and) (NN Pointillism))) (. .))

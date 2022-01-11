@@ -1,0 +1,5 @@
+(S (NP (NNP Cryptography)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN field)) (PP (IN in) (NP (NP (DT the) (NN area)) (PP (IN of) (NP (NNS data) (NN encryption))))))) (. .))
+(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ different) (JJ cryptographic) (NNS techniques)) (ADJP (JJ available)) (VP (VBG varying) (PP (PP (IN from) (NP (DT the) (JJS simplest))) (PP (TO to) (ADJP (VB complex))))))) (. .))
+(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (JJ complex) (NN symmetric) (NN key) (NN cryptography) (NNS techniques)))) (VP (VBZ is) (VP (VBG using) (NP (NNP Data) (NNP Encryption) (NNP Standard) (NNP Algorithm)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ explores) (NP (NP (DT a) (JJ unique) (NN approach)) (PP (TO to) (NP (NP (NP (NN generation)) (PP (IN of) (NP (JJ key)))) (VP (VBG using) (NP (NN fingerprint))))))) (. .))
+(S (NP (DT The) (JJ generated) (NN key)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT an) (NN input) (NN key)) (PP (TO to) (NP (DT the) (NNP DES) (NNP Algorithm))))))))

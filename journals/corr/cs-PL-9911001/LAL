@@ -1,0 +1,2 @@
+(S (PP (IN By) (S (VP (VBG paying) (NP (JJR more) (NN attention)) (PP (TO to) (NP (JJ semantics-based) (NN tool) (NN generation)))))) (, ,) (NP (VBG programming) (NN language) (NNS semantics)) (VP (MD can) (VP (ADVP (RB significantly)) (VB increase) (NP (PRP$ its) (NN impact)))) (. .))
+(S (ADVP (RB Ultimately)) (, ,) (NP (DT this)) (VP (MD may) (VP (VB lead) (PP (TO to) (NP (`` ``) (NP (NNP Language) (NNP Design) (NNP Assistants)) ('' '') (VP (VBG incorporating) (NP (NP (JJ substantial) (NNS amounts)) (PP (IN of) (NP (JJ semantic) (NN knowledge))))))))) (. .))

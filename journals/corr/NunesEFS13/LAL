@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NNS properties)) (PP (IN of) (NP (JJ maximum) (JJ Lempel-Ziv) (NN complexity) (NNS strings)))) (VP (VBP are) (VP (VBN studied) (PP (IN for) (NP (DT the) (JJ binary) (NN case))))) (. .))
+(S (NP (NP (DT A) (NN comparison)) (PP (IN between) (NP (NP (NNP MLZs)) (CC and) (NP (JJ random) (NNS strings))))) (VP (VBZ is) (VP (VBN carried) (PRT (RP out)))) (. .))
+(S (NP (NP (DT The) (NN length) (NN profile)) (PP (IN of) (NP (NP (DT both) (NN type)) (PP (IN of) (NP (NNS sequences)))))) (VP (VBP show) (NP (JJ different) (NN distribution) (NNS functions))) (. .))
+(S (NP (NP (DT The) (JJ non-stationary) (NN character)) (PP (IN of) (NP (DT the) (NNP MLZs)))) (VP (VBP are) (VP (VBN discussed))) (. .))
+(S (NP (NP (DT The) (NN issue)) (PP (IN of) (NP (NP (NN sensitiveness)) (PP (TO to) (NP (NN noise)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN addressed))) (. .))
+(S (NP (NP (DT An) (JJ empirical) (NN ansatz))) (VP (VBZ is) (VP (VBN found) (SBAR (WHNP (IN that)) (S (VP (VBZ fits) (ADVP (RB well)) (PP (TO to) (NP (NP (DT the) (NNP Lempel-Ziv) (NN complexity)) (PP (IN of) (NP (DT the) (NNP MLZs))))) (PP (IN for) (NP (NP (DT all) (NNS lengths)) (PP (IN up) (PP (TO to) (NP (ADJP (QP ($ $) (CD 10^6))) ($ $) (NNS symbols))))))))))) (. .))

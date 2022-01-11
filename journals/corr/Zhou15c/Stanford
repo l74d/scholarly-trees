@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN survey))) (NP (PRP we)) (VP (VBP cover) (NP (NP (DT a) (JJ few) (JJ stochastic)) (CC and) (NP (JJ adversarial) (JJ contextual) (NN bandit) (NNS algorithms)))) (. .))
+(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (NP (DT each) (NN algorithm) (POS 's)) (NN assumption) (CC and) (NN regret)) (VP (VBN bound)))) (. .))

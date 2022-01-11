@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (NN system)) (VP (VBZ is) (NP (NP (DT a) (JJ graph-based) (NN parser)) (PP (IN with) (NP (JJ second-order) (NN inference))))) (. .))
+(S (PP (IN For) (NP (DT the) (JJ low-resource) (NNP Tamil) (NN corpus))) (, ,) (NP (PRP we)) (VP (VP (ADVP (RB specially)) (VBD mixed) (NP (NP (DT the) (NN training) (NNS data)) (PP (IN of) (NP (NNP Tamil)))) (PP (IN with) (NP (JJ other) (NNS languages)))) (CC and) (VP (ADVP (RB significantly)) (VBD improved) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP Tamil)))))) (. .))

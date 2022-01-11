@@ -1,0 +1,2 @@
+(S (NP (DT The) (VBG resulting) (NNS algorithms)) (VP (VBP are) (VP (VBN supported) (PP (IN by) (NP (NP (NN analysis)) (CC and) (NP (JJ numerical) (NNS tests)))))) (. .))
+(S (NP (DT The) (UCP (ADJP (JJ first)) (CC and) (NML (JJ second) (HYPH -) (NN order))) (NNS methods)) (VP (VBP are) (VP (VBN embedded))) (. .))

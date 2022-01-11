@@ -1,0 +1,6 @@
+(S (NP (DT This) (NN work)) (VP (VBZ is) (VP (VBN organized) (SBAR (IN as) (S (VP (VBZ follows)))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ first) (NN section))) (S (NP (PRP we)) (VP (VBP review) (NP (DT the) (JJ prior) (NN work)))) (CC and) (S (NP (PRP we)) (VP (VBP have) (VP (VBN obtained) (NP (PRP$ our) (NNS data))))) (. .))
+(S (ADVP (JJ Next)) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB look) (PP (IN at) (NP (NP (NN address) (NN reuse)) (PP (IN in) (NP (DT the) (NNP Bitcoin) (NN network))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (JJ great) (NN portion)) (PP (IN of) (NP (NNS users)))) (VP (VBP reuse) (NP (PRP$ their) (NNS addresses)) (SBAR (WHNP (WDT which)) (S (VP (MD could) (VP (VB enable) (S (NP (PRP us)) (VP (TO to) (VP (VP (VB cluster) (NP (DT the) (NNS addresses))) (CC and) (VP (VB attribute) (NP (PRP them)) (PP (TO to) (NP (JJ single) (NNS users))))))))))))))) (. .))
+(S (ADVP (JJ Next)) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB categorize) (NP (DT the) (NNS nodes)) (PP (VBN based) (PP (IN on) (NP (NP (PRP$ their) (NN role)) (PP (IN in) (NP (DT the) (NN network))) (PP (IN as) (NP (DT a) (NN customer) (CC or) (NN seller)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP do) (NP (NP (DT a) (NN study)) (PP (IN of) (NP (NP (NNS nodes)) (CC and) (NP (NN network) (NN performance)))))) (. .))

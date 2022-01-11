@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN time) (NN derivative)) (PP (IN of) (NP (DT a) (NN rotation) (NN matrix)))) (VP (VBZ equals) (NP (NP (DT the) (NN product)) (PP (IN of) (NP (NP (DT a) (JJ skew-symmetric) (NN matrix)) (CC and) (NP (NP (DT the) (NN rotation) (VBD matrix)) (NP (PRP itself))))))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ gives) (NP (NP (DT a) (JJ brief) (NN tutorial)) (PP (IN on) (NP (DT the) (JJ well-known) (NN result))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ graph) (NP ($ $) (NNP G) ($ $))) (VP (VBZ is) (VP (VBD said) (S (VP (TO to) (VP (VB be) (ADJP (JJ ISK4-free))))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB contain) (NP (NP (DT any) (NN subdivision)) (PP (IN of) (NP ($ $) (NNP K_4) ($ $)))) (PP (IN as) (NP (DT an) (JJ induced) (NN subgraph))))))))) (. .))

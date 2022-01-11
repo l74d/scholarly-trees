@@ -1,0 +1,3 @@
+(S (NP (DT The) (JJ binary) (NNP Euclidean) (NN algorithm)) (VP (VBZ is) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (DT the) (JJ classical) (NNP Euclidean) (NN algorithm))))) (. .))
+(S (NP (PRP It)) (VP (VP (VBZ avoids) (NP (NNS multiplications) (CC and) (NNS divisions)) (, ,) (PP (IN except) (PP (IN by) (NP (NP (NNS powers)) (PP (IN of) (NP (CD two))))))) (, ,) (RB so) (VP (VBZ is) (ADJP (ADJP (RB potentially) (RBR faster)) (PP (IN than) (NP (NP (DT the) (JJ classical) (NN algorithm)) (PP (IN on) (NP (DT a) (JJ binary) (NN machine)))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (DT the) (JJ binary) (NN algorithm))) (CC and) (VP (VB consider) (NP (PRP$ its) (NN average) (NN case) (NN behaviour)))) (. .))

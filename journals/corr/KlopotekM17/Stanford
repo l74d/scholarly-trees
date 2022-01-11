@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Weaknesses)) (PP (IN of) (NP (NP (JJ various) (NNS proposals)) (PP (IN of) (NP (NP (JJ probabilistic) (NN interpretation)) (PP (IN of) (NP (NN MTE) (NN belief) (NNS functions)))))))) (VP (VBP are) (VP (VBN demonstrated))) (. .))
+(S (NP (DT A) (JJ new) (ADJP (NN frequency) (HYPH -) (VBN based)) (NN interpretation)) (VP (VBZ is) (VP (VBN presented) (S (VP (VBG overcoming) (NP (NP (JJ various) (NNS drawbacks)) (PP (IN of) (NP (JJR earlier) (NNS interpretations)))))))) (. .))

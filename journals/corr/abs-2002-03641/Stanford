@@ -1,0 +1,3 @@
+(S (PP (IN For) (NP (JJ various) (NNS nonlinearities))) (, ,) (NP (DT the) (NN ground) (NNS states)) (VP (VBP are) (VP (VBN discussed) (CC and) (VBN given) (PP (IN in) (NP (JJ explicit) (NN form))))) (. .))
+(S (NP (PRP$ Their) (NN stability)) (VP (VBZ is) (ADJP (VBN studied) (RB numerically) (PP (IN via) (NP (NP (DT the) (NN time) (NN evolution)) (PP (IN of) (NP (VBN perturbed) (NN ground) (NNS states))))))) (. .))
+(S (PP (IN In) (NP (NP (DT the) (NN time) (NN evolution)) (PP (IN of) (NP (JJ general) (JJ localized) (JJ initial) (NNS data))))) (, ,) (NP (PRP they)) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB appear) (PP (IN in) (NP (NP (DT the) (JJ long) (NN time) (NN behaviour)) (PP (IN of) (NP (JJ certain) (NNS cases)))))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ photographic) (NN dataset)) (VP (VBN collected) (PP (IN for) (S (VP (VBG testing) (NP (NN image) (NN processing) (NN algorithms)))))))) (. .))
+(S (NP (DT The) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB have) (NP (NP (NNS sets)) (PP (IN of) (NP (ADJP (ADJP (JJ different)) (CC but) (ADJP (RB statistically) (JJ similar))) (NNS images)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (NP (DT the) (NNS images)) (VP (VBP show) (NP (ADJP (RB randomly) (VBN distributed)) (NNS peppercorns))) (. .))
+(S (NP (DT The) (NN dataset)) (VP (VBZ is) (VP (VBN made) (S (ADJP (JJ available))) (PP (IN at) (NP (NN www.fips.fi/photographic_dataset.php))))) (. .))

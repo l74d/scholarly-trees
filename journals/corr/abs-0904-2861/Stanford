@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (JJ simple) (NN algorithm)) (PP (IN for) (S (VP (VBG decoding) (NP (NP (DT both) (NNS errors) (CC and) (NNS erasures)) (PP (IN of) (NP (NP (NNP Reed) (HYPH -) (NNP Solomon)) (NP (NNS codes))))))))) (VP (VBZ is) (VP (VBN described))) (. .))

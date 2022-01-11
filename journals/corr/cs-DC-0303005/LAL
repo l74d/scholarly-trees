@@ -1,0 +1,5 @@
+(S (NP (DT The) (NN reader-writer-problem)) (VP (VBZ is) (NP (NP (DT a) (JJ standard) (NN problem)) (PP (IN in) (NP (NN concurrent) (NN programming))))) (. .))
+(S (NP (DT A) (NN resource)) (VP (VBZ is) (VP (VBN shared) (PP (IN by) (NP (NP (JJ several) (NNS processes)) (SBAR (WHNP (WDT which)) (S (VP (VBP need) (NP (DT either) (NP (JJ inclusive) (NN reading)) (CC or) (NP (JJ exclusive) (NN writing) (NN access)))))))))) (. .))
+(S (NP (NP (DT The) (JJ known) (NNS solutions)) (PP (TO to) (NP (DT this) (NN problem)))) (ADVP (RB typically)) (VP (VB involve) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ global) (NNS counters) (CC and) (NNS queues))))) (. .))
+(S (ADVP (RB Here)) (NP (NP (DT a) (ADJP (RB very) (JJ simple)) (NN algorithm))) (VP (VBZ is) (VP (VBN presented) (SBAR (WHNP (WDT which)) (S (VP (VBZ needs) (NP (NP (NP (QP (RB only) (CD two)) (NNS semaphores)) (PP (IN for) (NP (NN synchronisation)))) (CC and) (NP (DT no) (JJ other) (JJ global) (NNS objects)))))))) (. .))
+(S (NP (DT The) (NN approach)) (VP (VBZ yields) (NP (DT a) (JJ fair) (NN solution)) (PP (IN without) (NP (VBG starving)))) (. .))

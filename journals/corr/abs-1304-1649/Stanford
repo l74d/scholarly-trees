@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (NML (NN peer) (HYPH -) (IN to) (HYPH -) (NN peer)) (NNS networks))) (, ,) (NP (JJ free) (NN riding)) (VP (VBZ is) (NP (DT a) (JJ major) (NN problem))) (. .))
+(S (NP (NML (NN Reputation) (NN management)) (NNS systems)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB overcome) (NP (DT this) (NN problem)))))))) (. .))
+(S (NP (NN Reputation) (NN estimation) (NNS methods)) (ADVP (RB generally)) (VP (VBP do) (RB not) (VP (VB consider) (NP (DT the) (NNS uncertainties)) (PP (IN in) (NP (DT the) (NNS inputs))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NP (NP (DT a) (NN reputation) (NN estimation) (NN method)) (VP (VBG using) (NP (NN BLUE)))) (-LRB- -LRB-) (NP (NP (JJS Best)) (NP (NNP Linear) (JJ Unbiased) (NN estimator))) (-RRB- -RRB-)) (NN estimator) (SBAR (WHNP (WDT that)) (S (VP (VBP consider) (NP (NP (NNS uncertainties)) (PP (IN in) (NP (DT the) (NN input) (NNS variables))))))))) (. .))

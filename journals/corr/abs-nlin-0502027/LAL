@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (CD two) (VBG interacting) (NNS particles)) (PP (IN on) (NP (DT a) (NN sphere))))))) (. .))
+(S (NP (NP (DT The) (NN potential)) (PP (IN of) (NP (DT the) (NN interaction)))) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (DT the) (NNS particles)))))) (. .))
+(S (NP (NP (DT The) (NN case)) (PP (IN of) (NP (JJ Newtonian-type) (NNS potentials)))) (VP (VBZ is) (VP (VBN studied) (PP (IN in) (NP (JJS most) (NN detail))))) (. .))
+(S (NP (PRP We)) (VP (VP (VB reduce) (NP (DT this) (NN system)) (PP (TO to) (NP (NP (DT a) (NN system)) (PP (IN with) (NP (NP (CD two) (NNS degrees)) (PP (IN of) (NP (NN freedom)))))))) (CC and) (VP (VB give) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ remarkable) (JJ periodic) (NNS orbits)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (NN integrability) (CC and) (NN stochastization)) (PP (IN of) (NP (DT the) (NN motion))))) (. .))

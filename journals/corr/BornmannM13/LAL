@@ -1,0 +1,4 @@
+(S (NP (NP (NNS Properties)) (PP (IN of) (NP (NP (DT a) (JJ percentile-based) (NN rating) (NN scale)) (VP (VBN needed) (PP (IN in) (NP (NNS bibliometrics))))))) (VP (VBP are) (VP (VBN formulated))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT these) (NNS properties)))) (, ,) (NP (NNP P100)) (VP (VBD was) (ADVP (RB recently)) (VP (VBN introduced) (PP (IN as) (NP (DT a) (JJ new) (JJ citation-rank) (NN approach))) (PRN (-LRB- -LRB-) (NP (NP (NNP Bornmann) (, ,) (NNP Leydesdorff) (, ,) (CC &) (NNP Wang)) (, ,) (PP (IN in) (NP (NN press)))) (-RRB- -RRB-)))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP conceptualize) (NP (NNP P100))) (CC and) (VP (VB propose) (NP (NP (DT an) (NN improvement)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP call) (S (NP (NNP P100_))))))))) (. .))
+(S (NP (NP (NNS Advantages) (CC and) (NNS disadvantages)) (PP (IN of) (NP (JJ citation-rank) (NNS indicators)))) (VP (VBP are) (VP (VBN noted))) (. .))

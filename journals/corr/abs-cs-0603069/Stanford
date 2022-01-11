@@ -1,0 +1,4 @@
+(S (NP (ADJP (NP (NN Neighbor)) (HYPH -) (VBG scattering)) (NN number)) (VP (VBZ is) (NP (NP (DT a) (JJ useful) (NN measure)) (PP (IN for) (NP (NN graph) (NN vulnerability))))) (. .))
+(S (PP (IN For) (NP (NP (DT some) (JJ special) (NNS kinds)) (PP (IN of) (NP (NNS graphs))))) (, ,) (NP (JJ explicit) (NNS formulas)) (VP (VBP are) (VP (VBN given) (PP (IN for) (NP (DT this) (NN number))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN for) (NP (JJ general) (NNS graphs))) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (IN to) (S (S (VP (VB compute) (NP (DT this) (NN number)))) (VP (VBZ is) (ADJP (NP (NNP NP)) (HYPH -) (JJ complete))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN for) (NP (NN interval) (NNS graphs))) (NP (DT this) (NN number)) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))

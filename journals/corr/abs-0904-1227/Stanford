@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB prove) (NP (DT the) (JJR lower))))) (VP (VBN bound) (S (NP (PRP we)) (VP (VB construct) (NP (NP (DT a) (ADJP (JJ hard) (S (VP (TO to) (VP (VB learn))))) (NN family)) (PP (IN of) (NP (NN convex) (NNS bodies))))))) (. .))
+(S (NP (NP (PRP$ Our) (NN construction)) (PP (IN of) (NP (DT this) (NN family)))) (VP (VBZ is) (ADJP (ADJP (RB very) (JJ simple)) (CC and) (ADJP (VBN based) (PP (IN on) (NP (ADJP (NN error) (VBG correcting)) (NNS codes)))))) (. .))

@@ -1,0 +1,5 @@
+(S (NP (NP (DT The) (JJ interactive) (ADJP (RB partially) (JJ observable)) (NNP Markov) (NN decision) (NN process)) (PRN (-LRB- -LRB-) (NP (NNP I-POMDP)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB recently) (VBN developed)) (NN framework)) (SBAR (WHNP (WDT which)) (S (VP (VBZ extends) (NP (DT the) (NNP POMDP)) (PP (TO to) (NP (DT the) (JJ multi-agent) (NN setting))) (PP (IN by) (S (VP (VBG including) (NP (NN agent) (NNS models)) (PP (IN in) (NP (DT the) (NN state) (NN space))))))))))) (. .))
+(S (NP (NP (DT The) (JJ main) (NNS benefits)) (PP (IN of) (NP (DT this) (NN approach)))) (VP (VBP are) (: :) (NP (NN i.) (NP (DT a) (JJ principled) (NN action) (NN selection) (NN mechanism)) (, ,) (NN ii))) (. .))
+(NP (NP (DT a) (JJ principled) (NN belief) (JJ update) (NN mechanism)) (, ,) (NP (NN iii)) (. .))
+(NP (NP (DT the) (JJ anticipated) (NN production)) (PP (IN of) (NP (JJ complex) (JJ beneficial) (NNS interactions))) (. .))
+(S (NP (NP (DT The) (VBN proposed) (NN formulation)) (, ,) (NP (PRP$ its) (NNS benefits)) (, ,) (CC and) (NP (JJ several) (JJ open) (NNS questions))) (VP (VBP are) (VP (VBN presented))) (. .))

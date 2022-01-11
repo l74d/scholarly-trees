@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT a) (NML (CD one) (HYPH -) (NN way)) (NN mapping)) (VP (VBG using) (NP (NN majority) (NN information)) (PP (IN on) (NP (JJ adjacent) (NNS bits))))) (VP (MD will) (VP (VB improve) (NP (NP (DT the) (NN randomness)) (PP (IN of) (NP (NN d) (HYPH -) (NNS sequences))))))))) (. .))
+(S (NP (VBG Supporting) (JJ experimental) (NNS results)) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (NN d) (HYPH -) (NNS sequences)))) (VP (VBZ is) (ADJP (JJ different) (PP (IN from) (NP (NP (DT that)) (PP (IN of) (NP (JJ other) (NN RNG) (NNS sequences))))))))))) (. .))

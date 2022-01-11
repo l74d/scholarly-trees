@@ -1,0 +1,8 @@
+(S (NP (NNS Words)) (ADVP (RB often)) (VP (VBP convey) (NP (NP (JJ affect)) (: —) (NP (NNS emotions) (, ,) (NNS feelings) (, ,) (CC and) (NNS attitudes)))) (. .))
+(S (NP (NP (NNS Lexicons)) (PP (IN of) (NP (JJ word-affect) (NN association)))) (VP (VBP have) (NP (NP (NNS applications)) (PP (IN in) (NP (NP (JJ automatic) (NN emotion) (NN analysis)) (CC and) (NP (JJ natural) (NN language) (NN generation)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (VBG existing) (NNS lexicons)) (VP (VBP indicate) (NP (NP (RB only) (JJ coarse) (NNS categories)) (PP (IN of) (NP (JJ affect) (NN association))))) (. .))
+(S (ADVP (RB Here)) (, ,) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (NP (PRP we)) (VP (VBP create) (NP (NP (DT an) (JJ affect) (NN intensity) (NN lexicon)) (PP (IN with) (NP (NP (JJ real-valued) (NNS scores)) (PP (IN of) (NP (NN association))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT a) (NN technique)) (VP (VBN called) (S (NP (JJ best-worst) (NN scaling)))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ improves) (NP (NN annotation) (NN consistency))) (CC and) (VP (VBZ obtains) (NP (JJ reliable) (JJ fine-grained) (NNS scores)))))))) (. .))
+(S (NP (DT The) (NN lexicon)) (VP (VBZ includes) (NP (NP (NNS terms)) (ADJP (JJ common) (PP (IN from) (NP (DT both) (NP (JJ general) (NNP English)) (CC and) (NP (NP (NNS terms)) (ADJP (VBP specific) (PP (TO to) (NP (JJ social) (NNS media) (NNS communications)))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ has) (NP (NP (QP (RB close) (TO to) (CD 6,000)) (NNS entries)) (PP (IN for) (NP (CD four) (JJ basic) (NNS emotions))))) (. .))
+(S (NP (PRP We)) (VP (MD will) (VP (VB be) (VP (VBG adding) (NP (NP (NNS entries)) (PP (IN for) (NP (JJ other) (JJ affect) (NNS dimensions)))) (ADVP (RB shortly))))) (. .))

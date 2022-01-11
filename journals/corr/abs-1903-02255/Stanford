@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN book)) (VP (MD will) (VP (VB collect) (NP (ADJP (JJ short) (CC but) (JJ foundational)) (NNS articles)) (, ,) (S (VP (VBG emphasizing) (NP (NP (NNS definitions)) (, ,) (NP (NNS examples)) (, ,) (NP (JJ exhaustive) (NNS references)) (, ,) (CC and) (NP (JJ basic) (NNS facts))))))) (. .))
+(S (NP (NP (DT The) (NN target) (NN audience)) (PP (IN of) (NP (DT the) (NNP Encyclopedia)))) (VP (VBZ is) (NP (NP (JJ upper) (NN level) (NNS undergraduates)) (CC and) (NP (NN graduate) (NNS students)))) (. .))

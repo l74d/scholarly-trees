@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP analyze) (NP (DT the) (JJ adversarial) (NNS examples) (NN problem)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NP (DT a) (NN model) (POS 's)) (NN fault) (NN tolerance)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (PRP$ its) (NN input)))))))))) (. .))

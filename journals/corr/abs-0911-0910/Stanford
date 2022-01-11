@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NN study) (NNS deals)) (PP (IN with) (NP (NP (DT the) (NN parallelization)) (PP (IN of) (NP (JJ finite) (NN element)))))) (VP (VBN based) (NP (NML (NNP Navier) (HYPH -) (NNP Stokes)) (NNS codes)) (S (VP (VBG using) (NP (NP (NN domain) (NN decomposition)) (CC and) (NP (NML (NN state) (HYPH -) (NN ofart)) (JJ sparse) (JJ direct) (NNS solvers)))))) (. .))
+(S (NP (EX There)) (VP (VBZ has) (VP (VBN been) (NP (NP (JJ significant) (NN improvement)) (PP (IN in) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ sparse) (JJ direct) (NNS solvers)))))))) (. .))
+(S (NP (JJ Parallel) (JJ sparse) (JJ direct) (NNS solvers)) (VP (VBP are) (RB not) (VP (VBN found) (S (VP (TO to) (VP (VB exhibit) (NP (JJ good) (NN scalability))))))) (. .))
+(S (ADVP (RB Hence)) (, ,) (NP (NP (DT the) (NN parallelization)) (PP (IN of) (NP (JJ sparse) (JJ direct) (NNS solvers)))) (VP (VBZ is) (VP (VBN done) (S (VP (VBG using) (NP (NN domain) (NN decomposition) (NNS techniques)))))) (. .))
+(S (NP (DT A) (ADJP (RB highly) (JJ efficient)) (JJ sparse) (NML (JJ direct) (NN solver)) (NN PARDISO)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (DT this) (NN study))))) (. .))
+(S (NP (NP (DT The) (NN scalability)) (PP (IN of) (NP (NP (DT both) (NNP Newton)) (CC and) (NP (VBN modified) (NNP Newton) (NNS algorithms))))) (VP (VBP are) (VP (VBN tested))) (. .))

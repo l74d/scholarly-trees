@@ -1,0 +1,3 @@
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP describe) (CC and) (VBP implement) (NP (NP (DT a) (JJ brute) (NN force) (NN method)) (SBAR (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (JJ discrete) (NNS symmetries)) (VP (VBN given) (PP (IN by) (NP (NN permutation) (NNS matrices)))) (PP (IN for) (NP (NP (NNP Hamilton) (NNS operators)) (VP (VBG acting) (PP (IN in) (NP (DT a) (JJ finite-dimensional) (NNP Hilbert) (NN space))))))))))))) (. .))
+(S (NP (NNP Spin) (CC and) (NNP Fermi) (NNS systems)) (VP (VBP are) (VP (VBN considered) (PP (IN as) (NP (NNS examples))))) (. .))
+(S (NP (NP (DT A) (NN computer) (NN algebra) (NN implementation)) (PP (IN in) (NP (NNP SymbolicC++)))) (VP (VBZ is) (VP (VBN provided))) (. .))

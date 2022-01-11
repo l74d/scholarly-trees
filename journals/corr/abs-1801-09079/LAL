@@ -1,0 +1,2 @@
+(S (NP (NP (NNS Searches)) (PP (IN for) (NP (NP (NNS phrases)) (CC and) (NP (NN word) (NNS sets)))) (PP (IN in) (NP (JJ large) (NN text) (NNS arrays))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (JJ additional) (NNS indexes)))))) (VP (VBP are) (VP (VBN considered))) (. .))
+(S (NP (PRP$ Their) (NN use)) (VP (MD may) (VP (VB reduce) (NP (DT the) (JJ query-processing) (NN time)) (PP (IN by) (NP (NP (DT an) (NN order)) (PP (IN of) (NP (NN magnitude))))) (PP (IN in) (NP (NP (NN comparison)) (PP (IN with) (NP (JJ standard) (JJ inverted) (NNS files))))))) (. .))

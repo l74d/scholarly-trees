@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB construct) (NP (NN indistinguishability) (NN obfuscation)) (PP (IN from) (NP (NP (JJ subexponential) (NN hardness)) (PP (IN of) (NP (CD four) (ADJP (RB well) (HYPH -) (VBN founded)) (NNS assumptions)))))))))) (. .))

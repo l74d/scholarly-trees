@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP notice) (NP (DT a) (NN way)) (S (VP (TO to) (VP (VB execute) (NP (ADJP (NP (NP (DT a) (JJ binary) (NN file)) (PP (IN on) (NP (NNP Windows) (CC and) (NNP ELF)))) (HYPH -) (VBN based)) (NNS systems)))))) (. .))
+(S (S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB create) (NP (NN software) (NNS installers))))))))) (CC and) (S (NP (JJ other) (NNS applications)) (RB not) (VP (VBG exceeding) (NP (CD 64) (NN kilo) (NNS bytes)))) (. .))

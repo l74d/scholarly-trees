@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (DT a) (ADJP (JJR lower) (JJ bound)) (NN construction)) (S (VP (VBG showing) (SBAR (IN that) (S (NP (NP (DT the) (NN union)) (PP (IN of) (NP (NP (NN unit) (NNS balls)) (PP (IN in) (NP (ADJP (CD three) (HYPH -) (JJ dimensional)) (NN space)))))) (VP (VBZ has) (NP (JJ quadratic) (NN complexity))))))) (, ,) (SBAR (RB even) (IN if) (S (NP (PRP they)) (ADVP (DT all)) (VP (VBP contain) (NP (DT the) (NN origin)))))) (. .))
+(S (NP (DT This)) (VP (VBZ settles) (NP (NP (DT a) (NN conjecture)) (PP (IN of) (NP (NNP Sharir))))) (. .))

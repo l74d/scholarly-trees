@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN on) (NP (NP (DT the) (NN boundary)) (PP (IN of) (NP (DT the) (JJ dyadic) (NN tree))))) (, ,) (NP (DT any) (ADJP (NN self) (HYPH -) (JJ similar)) (NN dilatation) (NN structure)) (VP (VBZ induces) (NP (NP (DT a) (NN web)) (PP (IN of) (NP (VBG interacting) (NN automata)))))))) (. .))
+(FRAG (S (NP (DT This)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ short) (NN version)) (, ,) (PP (IN for) (NP (NN publication))) (, ,)) (PP (IN of) (NP (DT the) (NN paper) (NN arXiv)))))) (: :) (NP (NN math) (HYPH /) (NN 0612509v2)))

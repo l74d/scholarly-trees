@@ -1,0 +1,8 @@
+(S (NP (NNP IT)) (VP (VBZ offers) (NP (DT some) (NNS benefits) (CC and) (NNS collaborations)) (PP (IN in) (NP (JJ various) (NNS sectors)))) (. .))
+(S (NP (DT This) (NN research)) (VP (VBZ focuses) (PP (IN on) (S (VP (VBG exploring) (NP (JJR higher) (NN education) (NNS subjects)) (PP (IN via) (NP (NP (JJ social) (NN technology)) (, ,) (NP (NNP YouTube)))))))) (. .))
+(S (NP (NN YouTube)) (VP (VBZ is) (NP (NP (DT the) (NN world) (JJS largest) (NN video) (VBN based) (NNS contents) (NN application)) (PP (IN in) (NP (DT the) (NN world))))) (. .))
+(S (NP (JJ Current) (NN learning) (NNS materials)) (VP (VBP are) (PP (CONJP (RB not) (RB only)) (IN in) (NP (NP (NN text) (CC and) (NNS images)) (, ,) (CC but) (VP (VBD included) (NP (NN video) (NNS contents)))))) (. .))
+(S (NP (NP (DT This) (NN research)) (VP (VBG enriching) (NP (NNS students) (VBG learning) (NNS materials)))) (VP (MD may) (VP (VBG involving) (NP (NNP YouTube)) (PP (IN as) (NP (NN learning) (NNS sources))))) (. .))
+(S (NP (DT The) (NN study)) (VP (VBD observed) (NP (NP (CD 118) (NN sophomore) (NNS students)) (PP (IN in) (NP (NN computer) (NN science) (NN faculty))))) (. .))
+(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (IN that) (, ,) (S (S (VP (VBG involving) (NP (NN YouTube)) (PP (IN in) (S (VP (VBG enriching) (NP (NP (NNS students)) (NN course) (NN material))))))) (JJ able) (S (VP (TO to) (VP (VB create) (NP (JJ conductive) (NN learning) (NN environment)))))))) (. .))
+(S (NP (DT This) (NN strategy)) (VP (VBZ increases) (NP (NP (NNS students) (VBG understanding)) (PP (IN in) (NP (NP (PRP$ their) (NN field)) (PP (IN of) (NP (NN study))))))) (. .))

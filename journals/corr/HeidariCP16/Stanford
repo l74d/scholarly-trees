@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NN problem)) (PP (IN of) (NP (NP (NML (CD three) (HYPH -) (NN user)) (NML (JJ Multiple) (HYPH -) (NML (NML (NNP Access) (NNP Channel)) (-LRB- -LRB-) (NML (NNP MAC)) (-RRB- -RRB-)))) (PP (IN with) (NP (VBN correlated) (NNS sources)))))) (VP (VBZ is) (VP (VBN investigated))) (. .))
+(S (NP (NP (DT An) (NN extension)) (PP (IN to) (NP (DT the) (NML (NNP Cover) (HYPH -) (NNP El)) (NML (NNP Gamal) (HYPH -) (NNP Salehi) (-LRB- -LRB-) (NNP CES) (-RRB- -RRB-)) (NN scheme)))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP use) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (DT this) (NN scheme)) (PP (IN with) (NP (JJ linear) (NNS codes))))))) (CC and) (VP (VB propose) (NP (DT a) (JJ new) (NN coding) (NN strategy)))) (. .))
+(S (NP (PRP We)) (VP (VBP derive) (NP (JJ new) (JJ sufficient) (NNS conditions)) (PP (IN to) (VP (VB transmit) (NP (VBN correlated) (NNS sources)) (ADVP (RB reliably))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NML (CD three) (HYPH -) (NN user)) (NNP MAC)))) (PP (IN with) (NP (JJ binary) (NNS inputs)))) (. .))
+(S (S (VP (VBG Using) (NP (DT this) (NN example)))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (JJ strict) (NNS improvements)) (PP (IN over) (NP (DT the) (NNP CES) (NN scheme))))) (. .))

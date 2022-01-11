@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN article)) (VP (VBZ presets) (NP (NP (DT a) (NN review)) (PP (IN of) (NP (NN lattice) (NNS problems))))) (. .))
+(S (NP (NN Paper)) (VP (VBZ contains) (NP (NP (DT the) (JJ main) (CD eighteen) (NNS problems)) (PP (IN with) (NP (PRP$ their) (NNS reductions) (CC and) (NNS referents)))) (PP (IN to) (NP (PRP$ his) (NN cryptography) (NN application)))) (. .))
+(S (PP (IN As) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NN reduction))))) (, ,) (NP (PRP we)) (VP (VBP detail) (VP (VB analyze) (NP (NP (NN connection)) (PP (IN between) (NP (NNP SVP) (CC and) (NNP CVP)))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VP (VBP give) (NP (DT an) (NNP Ajtai) (NN theorem))) (CC and) (VP (VBP demonstrate) (NP (PRP$ its) (NN role)) (PP (IN in) (NP (NP (NN lattice)) (VP (VBN based) (NP (NN cryptography))))))) (. .))

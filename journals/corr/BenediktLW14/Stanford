@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (ADJP (JJ polynomial) (HYPH -) (NN time)) (NN algorithm)) (PP (IN for) (NP (NN model)))) (S (VP (VBG checking) (NP (NP (JJ finite) (NNP Markov) (NNS chains)) (PP (IN against) (NP (NN omega) (HYPH -) (JJ regular) (NNS specifications)))) (PP (VBN given) (PP (IN as) (NP (JJ unambiguous) (NNP Buchi) (NN automata))))))) (. .))

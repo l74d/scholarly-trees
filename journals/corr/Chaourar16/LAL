@@ -1,0 +1,3 @@
+(S (NP (NNP MAX) (NNP CS) (NNP CUT)) (VP (VBZ is) (ADJP (NNP NP-hard))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ linear) (NN time) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (NNP MAX) (NNP CS) (NNP CUT)) (PP (IN for) (NP (NN series) (NN parallel) (NN graphs))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP deduce) (NP (NP (DT a) (JJ linear) (NN time) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (JJ minimum) (NN cut) (NN problem)) (PP (IN in) (NP (NP (DT the) (JJ same) (NN class)) (PP (IN of) (NP (NN graphs)))))))) (PP (IN without) (S (VP (VBG computing) (NP (DT the) (JJ maximum) (NN flow)))))) (. .))

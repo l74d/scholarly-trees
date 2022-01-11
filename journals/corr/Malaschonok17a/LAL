@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Deterministic) (NN recursive) (NN algorithms)) (PP (IN for) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NP (JJ generalized) (NNP Bruhat) (NN decomposition)) (PP (IN of) (NP (DT the) (NN matrix))) (PP (IN in) (NP (JJ commutative) (NN domain)))))))) (VP (VBP are) (VP (VBN presented))) (. .))
+(S (NP (DT This) (NN method)) (VP (VBZ has) (NP (NP (DT the) (JJ same) (NN complexity)) (PP (IN as) (NP (NP (DT the) (NN algorithm)) (PP (IN of) (NP (JJ matrix) (NN multiplication))))))) (. .))

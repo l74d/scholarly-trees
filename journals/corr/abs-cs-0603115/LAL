@@ -1,0 +1,6 @@
+(S (NP (NP (DT The) (NNP Graphic) (NNP Processing) (NNP Unit)) (PRN (-LRB- -LRB-) (NP (NNP GPU)) (-RRB- -RRB-))) (VP (VBZ has) (VP (VBN evolved) (PP (IN into) (NP (DT a) (ADJP (JJ powerful) (CC and) (JJ flexible)) (NN processor))))) (. .))
+(S (NP (DT The) (JJS latest) (JJ graphic) (NNS processors)) (VP (VBP provide) (NP (NP (ADJP (RB fully) (JJ programmable)) (NN vertex) (CC and) (NN pixel) (VBG processing) (NNS units)) (SBAR (WHNP (WDT that)) (S (VP (VBP support) (NP (NP (NN vector) (NNS operations)) (PP (IN up) (PP (TO to) (NP (JJ single) (JJ floating-point) (NN precision)))))))))) (. .))
+(S (NP (DT This) (JJ computational) (NN power)) (VP (VBZ is) (ADVP (RB now)) (VP (VBG being) (VP (VBN used) (PP (IN for) (NP (JJ general-purpose) (NNS computations)))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (DT some) (NNS applications)) (VP (VBP require) (NP (NP (JJR higher) (NN precision)) (PP (IN than) (NP (JJ single) (NN precision))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NP (DT the) (NN emulation)) (PP (IN of) (NP (DT a) (JJ 44-bit) (JJ floating-point) (NN number) (NN format)))) (CC and) (NP (PRP$ its) (JJ corresponding) (NNS operations)))) (. .))
+(S (NP (DT An) (NN implementation)) (VP (VBZ is) (VP (VBN presented) (ADVP (IN along) (PP (IN with) (NP (NN performance) (CC and) (NN accuracy) (NNS results)))))) (. .))

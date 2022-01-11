@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (JJ finite) (NN element) (NN integration) (NN method)) (PP (IN for) (NP (JJ low) (NN order) (NNS elements))) (PP (IN on) (NP (NNP GPUs))))) (. .))
+(S (NP (PRP We)) (VP (VBP achieve) (NP (NP (JJR more) (IN than) (CD 100GF)) (PP (IN for) (NP (JJ element) (NN integration)))) (PP (IN on) (NP (NP (JJ first) (NN order) (NNS discretizations)) (PP (IN of) (NP (DT both) (DT the) (JJ Laplacian) (CC and) (NNP Elasticity) (NNS operators)))))) (. .))

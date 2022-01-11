@@ -1,0 +1,5 @@
+(S (NP (NP (JJ Human) (NN eye) (NN movement) (NNS mechanisms)) (-LRB- -LRB-) (NP (NNS saccades)) (-RRB- -RRB-)) (VP (VBP are) (ADJP (RB very) (JJ useful) (PP (IN for) (NP (NP (NN scene) (NN analysis)) (, ,) (PP (VBG including) (NP (NP (NN object) (NN representation)) (CC and) (NP (NN pattern) (NN recognition)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN letter))) (, ,) (NP (NP (DT a) (NNP Hopfield) (JJ neural) (NN network)) (SBAR (S (VP (TO to) (VP (VB emulate) (NP (NNS saccades))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (DT The) (NN network)) (VP (VBZ uses) (NP (NP (DT an) (NN energy) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (NML (NN location) (CC and) (NN identification)) (NNS tasks))))))) (. .))
+(S (NP (NN Computer) (NN simulation)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN network)) (VP (VBZ performs) (NP (DT those) (NNS tasks)) (ADVP (RB cooperatively)))))) (. .))
+(S (NP (DT The) (NN result)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (DT the) (NN network)) (VP (VBZ is) (ADJP (JJ applicable) (S (VP (TO to) (VP (VB shift))))) (: -) (ADJP (JJ invariant) (NP (NN pattern) (NN recognition))))))) (. .))

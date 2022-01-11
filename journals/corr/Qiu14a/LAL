@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ central) (NN theme)) (PP (IN of) (NP (DT this) (NN talk)))) (VP (VBZ is) (S (VP (TO to) (VP (VB promote) (NP (DT the) (JJ non-asymptotic) (JJ statistical) (NN viewpoint)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ massive) (NNS datasets))))))))) (. .))
+(S (NP (DT The) (JJ classical) (NN viewpoint)) (VP (NNS breaks) (PRT (RP down)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS data) (NN size)) (VP (VBZ becomes) (ADJP (JJ large)))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN article)) (VP (VBZ aims) (PP (IN at) (S (VP (VP (VBG summarizing) (NP (DT the) (VBG existing) (NNS methods)) (PP (IN for) (NP (NN sampling) (JJ social) (NN networking) (NNS services)))) (CC and) (VP (VBG proposing) (NP (DT a) (JJR faster) (NN confidence) (NN interval)) (PP (IN for) (NP (JJ related) (NN sampling) (NNS methods)))))))) (. .))
+(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ includes) (NP (NP (NNS comparisons)) (PP (IN of) (NP (JJ common) (NML (NN network) (NN sampling)) (NNS techniques))))) (. .))

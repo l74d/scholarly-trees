@@ -1,0 +1,2 @@
+(S (NP (NNP Survey) (NNP Propagation)) (VP (VBZ is) (NP (NP (DT an) (NN algorithm)) (VP (VBN designed) (PP (IN for) (S (VP (VBG solving) (NP (NP (JJ typical) (NNS instances)) (PP (IN of) (NP (JJ random) (NN constraint) (NN satisfiability) (NNS problems)))))))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (JJ generic) (NN formalism)) (SBAR (WHNP (WDT which)) (S (VP (VBZ applies) (PP (TO to) (NP (NP (DT a) (JJ wide) (NN class)) (PP (IN of) (NP (JJ discrete) (NNP Constraint) (NNP Satisfaction) (NNP Problems)))))))))) (. .))

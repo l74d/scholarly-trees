@@ -1,0 +1,1 @@
+(S (NP (PRP I)) (VP (VBP compute) (NP (NP (JJ several) (NNS terms)) (PP (IN of) (NP (NP (DT the) (JJ asymptotic) (NN expansion)) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (VBN connected) (JJ labelled) (NN graphs)) (PP (IN with) (NP (NP (JJ n) (NNS nodes)) (CC and) (NP (NN m) (NNS edges)))))))) (, ,) (PP (IN for) (NP (JJ small) (NNS k=m-n))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP focus) (NP (PRP$ our) (NN attention)) (PP (IN on) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG generating) (NP (NP (JJ adversarial) (NNS perturbations)) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN gradient)) (PP (IN in) (NP (NN image) (NN classification) (NN domain))))))))))))))

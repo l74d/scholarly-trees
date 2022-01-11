@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Shannon) (PRN (-LRB- -LRB-) (NP (CD 1951)) (-RRB- -RRB-))) (CC and) (NP (NNP Yavuz) (PRN (-LRB- -LRB-) (NP (CD 1974)) (-RRB- -RRB-)))) (VP (VBD estimated) (NP (NP (DT the) (NN entropy)) (PP (IN of) (NP (JJ real) (NNS documents))))) (. .))
+(S (NP (DT This) (NN note)) (VP (VBZ drives) (NP (DT an) (JJ upper) (ADJP (VBN bound) (PP (IN of) (NP (NP (NN entropy)) (PP (IN from) (NP (NP (DT the) (NN parameter)) (PP (IN of) (NP (DT the) (NN power)))))))) (NN law))) (. .))

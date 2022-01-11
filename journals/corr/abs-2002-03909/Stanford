@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG performing) (NP (NP (NN similarity) (NN search)) (PP (IN over) (NP (NN function) (NNS spaces))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT the) (VBN presented)) (VP (VBG hashing) (NP (NNS schemes)) (S (VP (TO to) (VP (VB construct) (NP (DT an) (NN LSH) (NN family)) (PP (IN for) (NP (NP (NNP Wasserstein) (NN distance)) (PP (IN over) (NP (ADJP (CD one) (HYPH -) (JJ dimensional) (, ,) (JJ continuous)) (NN probability) (NNS distributions))))))))))) (. .))

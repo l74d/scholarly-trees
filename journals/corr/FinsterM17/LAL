@@ -1,0 +1,2 @@
+(S (NP (PRP$ Our) (JJ main) (NN contribution)) (VP (VBZ is) (S (VP (TO to) (VP (VB provide) (NP (NP (DT a) (JJ canonical) (JJ type-theoretical) (NN characterization)) (PP (IN of) (S (VP (NP (VBG pasting) (NNS schemes)) (PP (IN as) (NP (NP (NN contexts)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN derived) (PP (IN from) (NP (NN inference) (NNS rules)))))))))))))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (NN implementation)) (PP (IN of) (NP (DT a) (JJ corresponding) (NN proof) (NN system))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN homeomorphism) (NN problem)) (PP (IN for) (NP (NNS 2-manifolds)))) (VP (MD can) (VP (VB be) (VP (VBN decided) (PP (IN in) (NP (NN logspace))))))))) (. .))
+(S (NP (DT The) (NN proof)) (VP (NNS relies) (PP (IN on) (NP (NP (NP (NNP Reingold) (POS 's)) (NN logspace) (NN solution)) (PP (TO to) (NP (NP (DT the) (JJ undirected) (S (UCP ($ $) (NN s) (, ,) (JJ t) ($ $))) (NN -connectivity) (NN problem)) (PP (IN in) (NP (NN graphs)))))))) (. .))

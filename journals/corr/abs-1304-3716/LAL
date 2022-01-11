@@ -1,0 +1,6 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (JJ deductive) (NN programming)) (PP (IN for) (NP (VBG scheduling) (NN scenario) (NN generation))))) (. .))
+(S (NP (NP (VBG Modeling)) (PP (IN for) (NP (NN solution)))) (VP (VBZ is) (VP (VBN achieved) (PP (IN through) (NP (NN program) (NNS transformations))))) (. .))
+(S (ADVP (RB First)) (, ,) (NP (NP (JJ declarative) (NN model)) (PP (IN for) (NP (VBG scheduling) (NN problem) (NN domain)))) (VP (VBZ is) (VP (VBN introduced))) (. .))
+(S (IN After) (NP (DT that) (NN model)) (VP (VBZ is) (VP (VBN interpreted) (PP (PP (IN as) (NP (VBG scheduling) (NN domain) (NN language))) (CC and) (PP (IN as) (NP (JJ predicate) (NN transition) (NNP Petri) (NN net)))))) (. .))
+(S (NP (VBN Generated) (NN reachability) (NN tree)) (VP (NNS presents) (NP (VBD search) (NN space)) (PP (IN with) (NP (NNS solutions)))) (. .))
+(S (PP (IN At) (NP (DT the) (NN end))) (NP (NNS results)) (VP (VBP are) (VP (JJ discussed) (CC and) (JJ analyzed))) (. .))

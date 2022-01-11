@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (JJ novel) (JJ theoretical) (NNS results)) (VP (VBG regarding) (NP (NP (JJ local) (NN optima)) (PP (IN of) (NP (JJ regularized) ($ $) (NNP M) ($ $) (NNS -estimators)))))) (, ,) (S (VP (VBG allowing) (PP (IN for) (NP (NP (NN nonconvexity)) (PP (IN in) (NP (X (NP (DT both) (NN loss) (CC and))) (NN penalty) (NNS functions)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (NP (NP (JJ simulation) (NNS studies)) (VP (VBG illustrating) (NP (NP (DT the) (NN sharpness)) (PP (IN of) (NP (PRP$ our) (JJ theoretical) (NNS results))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (DT a) (NN method)) (SBAR (S (VP (TO to) (VP (VB evaluate) (NP (NN multivariate) (NNS polynomials)) (PP (IN over) (NP (DT a) (JJ finite) (NN field))))))))) (CC and) (VP (VB discuss) (NP (PRP$ its) (JJ multiplicative) (NN complexity)))) (. .))

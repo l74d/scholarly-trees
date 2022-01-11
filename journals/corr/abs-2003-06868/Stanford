@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ simple) (NN definition)) (PP (IN of) (NP (NP (DT an) (NN explanation)) (PP (IN for) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (DT a) (NN classifier)))))))) (PP (VBN based) (PP (IN on) (NP (NP (NNS concepts)) (PP (IN from) (NP (NN causality))))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP compare) (NP (PRP it)) (PP (IN with) (NP (NP (ADJP (RB previously) (VBN proposed)) (NNS notions)) (PP (IN of) (NP (NN explanation)))))) (, ,) (CC and) (VP (VB study) (NP (PRP$ their) (NN complexity)))) (. .))
+(S (NP (PRP We)) (VP (VBP conduct) (NP (DT an) (JJ experimental) (NN evaluation)) (PP (IN with) (NP (NP (CD two) (JJ real) (NNS datasets)) (PP (IN from) (NP (DT the) (JJ financial) (NN domain)))))) (. .))

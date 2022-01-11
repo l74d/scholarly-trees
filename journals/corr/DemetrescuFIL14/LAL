@@ -1,0 +1,2 @@
+(SBARQ (WHNP (WP What)) (SQ (VP (VBZ is) (NP (NP (DT the) (JJ typical) (NNP Roman) (NN cuisine)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (MD should) (VP (-LRB- -LRB-) (RB not) (-RRB- -RRB-) (VP (VB miss))))))))) (. ?))
+(SBARQ (WHADVP (WRB Where)) (SQ (MD can) (NP (PRP I)) (VP (VB find) (NP (NP (DT the) (JJS best) (NN coffee) (CC or) (NN gelato)) (PP (IN in) (NP (NN town)))))) (. ?))

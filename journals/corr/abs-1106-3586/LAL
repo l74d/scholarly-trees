@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NP (NNS transformations)) (NNP T^)) (PRN (-LRB- -LRB-) (NP (NN p) (, ,) (NN k)) (-RRB- -RRB-))))) (VP (VBZ is) (VP (VBN defined) (PP (PP (IN on) (NP (NNP N_0^K))) (PP (TO to) (NP (NNP N_0)))))) (. .))
+(S (ADVP (RB Latterly)) (, ,) (NP (NP (DT some) (JJ further) (NN research) (NN scope)) (PP (IN of) (NP (NNP IVTs)))) (VP (VBZ is) (VP (VBN highlighted))) (. .))

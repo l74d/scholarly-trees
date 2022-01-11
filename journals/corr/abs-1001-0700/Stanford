@@ -1,0 +1,3 @@
+(S (NP (DT A) (NML (NML (NN bag)) (HYPH -) (PP (IN of) (HYPH -) (NP (NNS words)))) (ADJP (VBN based) (JJ probabilistic)) (NN classifier)) (VP (VBZ is) (VP (VBN trained) (S (VP (VBG using) (NP (VBN regularized) (JJ logistic) (NN regression)) (S (VP (TO to) (VP (VB detect) (NP (NN vandalism)) (PP (IN in) (NP (DT the) (NNP English) (NNP Wikipedia)))))))))) (. .))
+(S (NP (JJ Isotonic) (NN regression)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB calibrate) (NP (DT the) (NN class) (NN membership) (NNS probabilities))))))) (. .))
+(S (S (VP (VBG Learning) (NP (NP (NN curve)) (, ,) (NP (NN reliability)) (, ,) (NP (NNP ROC)) (, ,) (CC and) (NP (NN cost) (NN analysis))))) (VP (VBP are) (VP (VBN performed))) (. .))

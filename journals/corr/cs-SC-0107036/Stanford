@@ -1,0 +1,3 @@
+(S (NP (NNP GNU) (NNP TeXmacs)) (VP (VBZ is) (NP (NP (DT a) (NML (JJ free) (NN wysiwyg)) (NN word) (NN processor)) (VP (VBG providing) (NP (NP (DT an) (JJ excellent) (VBG typesetting) (NN quality)) (PP (IN of) (NP (NNS texts) (CC and) (NNS formulae))))))) (. .))
+(S (NP (PRP It)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (DT an) (NN interface))) (PP (IN to) (NP (NN Computer) (NNP Algebra) (NNPS Systems))) (PRN (-LRB- -LRB-) (NP (NNS CASs)) (-RRB- -RRB-))))) (. .))
+(S (PP (IN In) (NP (DT the) (JJ present) (NN work))) (, ,) (S (VP (VBZ interfaces) (PP (IN to) (NP (CD three) (NML (JJ general) (HYPH -) (NN purpose)) (NNS CASs))))) (VP (VBP have) (VP (VBN been) (VP (VBN implemented)))) (. .))

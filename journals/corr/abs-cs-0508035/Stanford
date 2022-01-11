@@ -1,0 +1,2 @@
+(S (NP (NP (NNP Linear) (NNS codes)) (PP (IN for) (NP (NP (NN error) (NN detection)) (PP (IN on) (NP (DT a) (NML (NN q) (HYPH -) (NN ary)) (JJ symmetric) (NN channel)))))) (VP (VBP are) (VP (VBN studied))) (. .))
+(S (NP (NP (DT A) (NN generalization)) (PP (IN to) (NP (JJ non-linear) (NNS codes)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given))) (. .))

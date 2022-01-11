@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VP (VBP define) (NP (NP (NNS relations)) (PP (IN on) (NP (DT the) (JJ fuzzy) (JJ parametrized) (JJ soft) (NNS sets))))) (CC and) (VP (VB study) (NP (PRP$ their) (NNS properties)))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT a) (NN decision) (VBG making) (NNS method)) (VP (VBN based) (PP (IN on) (NP (DT these) (NNS relations)))))) (. .))
+(S (PP (IN In) (NP (JJ approximate) (NN reasoning))) (, ,) (NP (NP (NNS relations)) (PP (IN on) (NP (DT the) (JJ fuzzy) (JJ parametrized) (JJ soft) (NNS sets)))) (VP (VBP have) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (PP (IN of) (NP (DT a) (JJ primordial) (NN importance)))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN method)) (VP (VBZ is) (VP (ADVP (RB successfully)) (VBN applied) (PP (TO to) (NP (NP (DT a) (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP contain) (NP (NNS uncertainties))))))))) (. .))

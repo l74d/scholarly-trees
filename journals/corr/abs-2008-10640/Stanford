@@ -1,0 +1,3 @@
+(S (NP (NNP Exosphere)) (VP (VBZ provides) (NP (NP (NN researcher) (HYPH -) (JJ friendly) (NN software)) (PP (IN for) (NP (NP (VBG managing) (VBG computing) (NNS workloads)) (PP (IN on) (NP (NNP OpenStack) (NNP cloud) (NN infrastructure))))))) (. .))
+(S (NP (NNP Exosphere)) (VP (VBZ is) (NP (NP (DT a) (ADJP (NN user) (HYPH -) (JJ friendly)) (NN alternative)) (PP (IN to) (NP (NP (NNP Horizon)) (, ,) (NP (DT the) (NML (NML (NN default)) (NNP OpenStack)) (NN graphical) (NN interface)))))) (. .))
+(S (NP (NNP Exosphere)) (VP (MD can) (VP (VB be) (VP (VBN used) (NP (IN with) (JJS most) (NN research) (NN cloud) (NN infrastructure)) (, ,) (S (VP (VBG requiring) (NP (NML (PP (IN near) (HYPH -) (NP (CD zero) (NN custom)))) (NN integration) (NN work))))))) (. .))

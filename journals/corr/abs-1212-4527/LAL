@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN project))) (, ,) (NP (PRP we)) (ADVP (RB first)) (VP (VBD study) (NP (NP (DT the) (JJ Gaussian-based) (NN hidden) (NNP Markov) (NN random) (NN field) (PRN (-LRB- -LRB-) (NNP HMRF) (-RRB- -RRB-)) (NN model)) (CC and) (NP (PRP$ its) (NN expectation-maximization) (PRN (-LRB- -LRB-) (NNP EM) (-RRB- -RRB-)) (NN algorithm)))) (. .))
+(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP generalize) (NP (PRP it)) (PP (TO to) (NP (ADJP (JJ Gaussian) (NN mixture) (JJ model-based)) (JJ hidden) (NNP Markov) (NN random) (NN field)))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NNP MATLAB))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP apply) (NP (DT this) (NN algorithm)) (PP (TO to) (NP (NP (VB color) (NN image) (NN segmentation) (NNS problems)) (CC and) (NP (CD 3D) (NN volume) (NN segmentation) (NNS problems))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Speech) (NN recognition)) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ syllable) (NN segment))))) (VP (VBZ is) (VP (VBN discussed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (NP (NP (DT The) (JJ principal) (NN search) (NNS methods)) (PP (IN in) (NP (NP (NN space)) (PP (IN of) (NP (NNS states))))) (PP (IN for) (NP (NP (DT the) (NN speech) (NN recognition) (NN problem)) (PP (IN by) (NP (JJ segment-syllabic) (NNS parameters) (JJ trajectory) (NN synthesis)))))) (VP (VBP are) (VP (VBN investigated))) (. .))
+(S (NP (NP (NN Recognition)) (PP (IN as) (NP (NN comparison))) (NP (NP (DT the) (NNS parameters) (NNS trajectories)) (PP (IN in) (NP (JJ chosen) (NN speech) (NNS units))) (PP (IN on) (NP (NP (DT the) (NNS sections)) (PP (IN of) (NP (DT the) (JJ segmented) (NN speech))))))) (VP (VBZ is) (VP (VBN realized))) (. .))
+(S (NP (DT Some) (JJ experimental) (NNS results)) (VP (VBP are) (VP (VBN given) (CC and) (VBN discussed))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN solution)) (PP (IN of) (NP (DT the) (NML (NNP Hello) (NNP World)))))) (. !))
+(NP (NP (NP (DT An) (JJ Instructive) (NN Case)) (PP (IN for) (NP (DT the) (NNP Transformation) (NNP Tool) (NNP Contest)))) (VP (VBG using) (NP (DT the) (NML (NN VIATRA2) (NN model)) (NN transformation) (NN tool))) (. .))

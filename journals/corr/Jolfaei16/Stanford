@@ -1,0 +1,2 @@
+(S (ADVP (RB Recently)) (NP (NP (DT an) (NN image) (NN encryption) (NN scheme)) (PP (VBN based) (PP (IN on) (NP (DT a) (JJ chaotic) (NNP Tent) (NN map))))) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (PP (IN by) (NP (NP (NNP Li)) (ADVP (FW et) (FW al.))))))) (. .))
+(S (S (NP (DT This) (NN comment)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT this) (NN scheme)) (VP (VBZ is) (VP (VBN broken))))))) (CC and) (S (NP (DT no) (JJ secure) (NN application)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN for) (NP (PRP it))))))) (. .))

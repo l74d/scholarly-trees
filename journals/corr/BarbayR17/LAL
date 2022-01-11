@@ -1,0 +1,2 @@
+(S (PP (IN For) (NP (NNS dimensions) (CD 2) (CC and) (CD 3))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (JJ algorithms)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN problem)) (PP (IN with) (NP (JJ order-oblivious) (JJ instance-optimal) (NN running) (NN time))))))))) (. .))
+(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (JJR higher) (NNS dimensions))) (NP (EX there)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (NN room)) (PP (IN for) (NP (NNS improvements))))) (. .))

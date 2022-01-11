@@ -1,0 +1,1 @@
+(NP (NP (NNS Keywords)) (: :) (NP (NP (NNP Hamming) (NN graph)) (, ,) (NP (VB multifold) (NN ball) (NNS packings)) (, ,) (NP (JJ two-fold) (NN ball) (NNS packings)) (, ,) (NP (NN list) (JJ decodable) (NNS codes)) (, ,) (NP (JJ multiple) (NNS coverings)) (, ,) (NP (ADJP (RB completely) (JJ regular)) (NNS codes)) (, ,) (NP (JJ linear) (NN programming) (NN bound))))

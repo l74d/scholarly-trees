@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB develop) (NP (DT a) (JJ full-accuracy) (NN flight) (NN test) (NN environment)) (PP (IN for) (NP (NP (DT the) (NNP Mars) (NN helicopter)) (CC and) (NP (JJ related) (JJ Mars-atmospheric) (NNS vehicles)))))))) (. .))
+(S (NP (DT The) (NN experiment)) (VP (MD would) (VP (VB use) (NP (JJ reduced-g) (JJ atmospheric) (NNS flights)) (PP (IN with) (NP (NP (DT an) (NN aircraft)) (SBAR (WHNP (WDT that)) (S (VP (NNS houses) (NP (DT a) (ADJP (RB properly) (VBN sized)) (NN vacuum) (NN chamber))))))))) (. .))

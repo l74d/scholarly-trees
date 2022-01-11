@@ -1,0 +1,8 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBD proposed) (NP (DT a) (JJ non-uniform) (NN power) (NN delivery) (NN network) (-LRB- -LRB-) (NN PDN) (-RRB- -RRB-) (NN synthesis) (NN methodology))) (. .))
+(S (NP (PRP It)) (ADVP (RB first)) (VP (VBZ constructs) (NP (JJ initial) (NN PDN)) (S (VP (VBG using) (NP (JJ uniform) (NN approach))))) (. .))
+(S (ADVP (RB Then)) (NP (NP (JJ preliminary) (NN power)) (NP (NN integrity) (NN analysis))) (VP (VBZ is) (VP (VBN performed) (S (VP (TO to) (VP (VB derive) (NP (ADJP (NN IR) (HYPH -) (JJ safe)) (NN candidate) (NN window))))))) (. .))
+(S (NP (NN Congestion) (NN map)) (VP (VBZ is) (VP (VBN obtained) (PP (VBN based) (NP (NML (JJ global) (NN route)) (NN congestion) (NN estimation))))) (. .))
+(S (NP (DT A) (ADJP (NN self) (HYPH -) (JJ adaptive)) (JJ non-uniform) (NN PDN) (NN synthesis)) (VP (VBZ is) (ADVP (RB then)) (VP (VP (VBN performed) (PP (IN to) (ADVP (RB globally)))) (CC and) (ADVP (RB locally)) (VP (VB optimize) (NP (NP (NN PDN)) (PP (IN over) (NP (VBN selected) (NNS regions))))))) (. .))
+(S (NP (DT The) (NN PDN) (NN synthesis)) (VP (VBZ is) (ADJP (ADJP (NP (NN congestion)) (HYPH -) (VBN driven)) (CC and) (ADJP (NP (NN IR)) (HYPH -) (VBN guarded)))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (NP (JJ significant) (NN timing)) (S (ADJP (JJ important) (PP (IN in) (NP (NML (NML (NN trade) (HYPH -) (NML (JJ off) (JJ small) (NN PDN)) (NN length) (NN reduction)) (PP (IN with) (NP (DT no) (NN EM) (HYPH /) (NN IR)))) (NN impact)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB further)) (VP (VBD explored) (NP (JJ potential) (NN power) (NNS savings)) (S (VP (VBG using) (NP (PRP$ our) (JJ non-uniform) (NML (NN PDN) (NN synthesis)) (NN methodology))))) (. .))

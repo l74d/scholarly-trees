@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (, ,) (PP (IN for) (NP (NP (JJ various) (JJ important) (NNS classes)) (PP (IN of) (NP (JJ Mealy) (NN automata))))) (, ,) (SBAR (IN that) (S (NP (QP (RB almost) (DT all)) (ADJP (VBN generated)) (NNS groups)) (VP (VBP have) (NP (NP (DT an) (NN element)) (PP (IN of) (NP (JJ infinite) (NN order)))))))) (. .))
+(S (PP (IN In) (NP (JJ certain) (NNS cases))) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBZ implies) (NP (NP (JJ other) (NNS results)) (PP (JJ such) (IN as) (NP (ADJP (JJ exponential)) (NN growth))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NML (PP (IN Off) (HYPH -) (NP (NN policy)))) (NN learning)) (VP (VBZ is) (ADJP (JJ powerful) (PP (IN for) (NP (NN reinforcement) (NN learning))))) (. .))
+(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ high) (NN variance)) (PP (IN of) (NP (NML (RB off) (HYPH -) (NN policy)) (NN evaluation)))) (VP (VBZ is) (NP (NP (DT a) (JJ critical) (NN challenge)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ causes) (SBAR (S (NP (NML (RB off) (HYPH -) (NN policy)) (NN learning)) (VP (VBZ falls) (PP (IN into) (NP (DT an) (JJ uncontrolled) (NN instability))))))))))) (. .))

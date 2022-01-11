@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (NN generalization)) (PP (IN of) (NP (DT the) (NNP Reiger) (NN bound)))) (VP (VBZ is) (VP (VBN presented) (PP (IN for) (NP (NP (DT the) (NN list) (NN decoding)) (PP (IN of) (NP (JJ burst) (NNS errors))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN shown) (SBAR (IN that) (S (NP (NNP Reed-Solomon) (NNS codes)) (VP (VBP attain) (NP (DT this) (NN bound))))))) (. .))

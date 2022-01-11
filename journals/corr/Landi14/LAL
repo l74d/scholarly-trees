@@ -1,0 +1,2 @@
+(S (NP (NP (DT A) (JJR lower) (NN bound)) (PP (IN for) (NP (NP (DT the) (JJ interleaving) (NN distance)) (PP (IN on) (NP (NN persistence) (NN vector) (NNS spaces)))))) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN rank) (NNS invariants))))))) (. .))
+(S (NP (DT This)) (VP (VBZ offers) (NP (NP (DT an) (JJ alternative) (NN proof)) (PP (IN of) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (NN rank) (NNS invariants))))))) (. .))

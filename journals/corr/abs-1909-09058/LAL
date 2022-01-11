@@ -1,0 +1,5 @@
+(S (NP (PRP$ Our) (NN research)) (VP (NNS concerns) (S (VP (VBG generating) (NP (JJ imperative) (NNS programs)) (PP (IN from) (NP (NNP Answer) (NNP Set) (NNP Programming) (NNP Specifications)))))) (. .))
+(S (NP (NNP ASP)) (VP (VP (VBZ is) (ADJP (RB highly) (JJ declarative))) (CC and) (VP (VBZ is) (ADJP (JJ ideal) (PP (IN for) (S (VP (VBG writing) (NP (NNS specifications)))))))) (. .))
+(S (ADVP (RB Further)) (PP (IN with) (NP (JJ negation-as-failure))) (NP (NP (PRP it))) (VP (VBZ is) (ADJP (JJ easy)) (S (VP (TO to) (VP (ADVP (RB succinctly)) (VB represent) (NP (JJ combinatorial) (NN search) (NNS problems)))))) (. .))
+(S (NP (PRP We)) (VP (VBP are) (ADVP (RB currently)) (VP (VBG working) (PP (IN on) (S (VP (VBG synthesizing) (NP (JJ imperative) (NNS programs)) (PP (IN from) (NP (NNP ASP) (NNS programs))) (PP (IN by) (S (VP (VBG turning) (NP (DT the) (NN negation)) (PP (IN into) (NP (JJ useful) (NNS computations))))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ opens) (PRT (RP up)) (NP (NP (DT a) (JJ novel) (NN way)) (SBAR (S (VP (TO to) (VP (VB synthesize) (NP (NNS programs)) (PP (IN from) (NP (JJ executable) (NNS specifications))))))))) (. .))

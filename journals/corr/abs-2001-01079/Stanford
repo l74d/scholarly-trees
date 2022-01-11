@@ -1,0 +1,4 @@
+(S (NP (DT The) (NN divergence) (NN minimization) (NN problem)) (VP (VBZ plays) (NP (NP (DT an) (JJ important) (NN role)) (PP (IN in) (NP (JJ various) (NNS fields))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (ADJP (JJ differentiable) (CC and) (RB strictly)) (JJ convex) (NNS divergences)))) (. .))
+(S (PP (IN For) (NP (DT some) (NN minimization) (NNS problems))) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (DT the) (NN minimizer) (NNS conditions)) (CC and) (NP (NP (DT the) (NN uniqueness)) (PP (IN of) (NP (DT the) (NN minimizer))))) (PP (IN without) (S (VP (VBG assuming) (NP (NP (DT a) (JJ specific) (NN form)) (PP (IN of) (NP (NNS divergences)))))))) (. .))
+(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP show) (NP (NP (JJ geometric) (NNS properties)) (VP (VBN related) (PP (IN to) (NP (DT the) (NN minimization) (NNS problems)))))) (. .))

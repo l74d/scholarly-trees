@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN implementation)) (PP (IN of) (NP (JJ anisotropic) (JJ mean) (NN curvature) (NN flow))) (PP (IN for) (NP (JJ contour) (NN recognition))))) (. .))
+(S (NP (PRP$ Our) (NN procedure)) (VP (VBZ couples) (NP (NP (DT the) (JJ mean) (NN curvature) (NN flow)) (PP (IN of) (NP (NN planar) (VBD closed) (JJ smooth) (NNS curves)))) (, ,) (PP (IN with) (NP (NP (DT an) (JJ external) (NN field)) (PP (IN from) (NP (NP (DT a) (NN potential)) (PP (IN of) (NP (NN point-wise) (NNS charges)))))))) (. .))
+(S (NP (DT This) (NN coupling)) (VP (VBZ constrains) (NP (DT the) (NN motion)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN curve)) (VP (VBZ matches) (NP (NP (DT a) (NN picture)) (VP (VBN placed) (PP (IN as) (NP (NN background))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP include) (NP (DT a) (NN stability) (NN criteria)) (PP (IN for) (NP (PRP$ our) (JJ numerical) (NN approximation)))) (. .))

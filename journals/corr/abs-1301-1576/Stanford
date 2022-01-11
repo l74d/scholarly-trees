@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP extend) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (JJ optical) (NN flow)))) (PP (IN to) (NP (DT a) (JJ dynamic) (JJ non-Euclidean) (NN setting)))) (. .))
+(S (NP (JJ Optical) (NN flow)) (VP (VBZ is) (ADVP (RB traditionally)) (VP (VBN computed) (PP (IN from) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (JJ flat) (NNS images))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (DT this) (NN paper) (S (VP (TO to) (VP (VB introduce) (NP (JJ variational) (NN motion) (NN estimation)) (PP (IN for) (NP (NP (NNS images)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN defined) (PP (IN on) (NP (DT an) (VBG evolving) (NN surface)))))))))))))))) (. .))
+(S (NP (NP (JJ Volumetric) (NN microscopy) (NNS images)) (VP (VBG depicting) (NP (DT a) (JJ live) (NN zebrafish) (NN embryo)))) (VP (VBP serve) (PP (IN as) (NP (NP (DT both) (JJ biological) (NN motivation)) (CC and) (NP (NN test) (NNS data))))) (. .))

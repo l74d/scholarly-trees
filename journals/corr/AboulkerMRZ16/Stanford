@@ -1,0 +1,1 @@
+(S (NP (DT A) (ADJP (RB well) (HYPH -) (VBN known)) (JJ combinatorial) (NN theorem)) (VP (VBZ says) (SBAR (IN that) (S (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN n) (JJ non-collinear) (NNS points)) (PP (IN in) (NP (DT the) (NN plane)))))) (VP (VBZ determines) (ADVP (IN at) (JJS least)) (NP (NN n) (JJ distinct) (NNS lines)))))) (. .))

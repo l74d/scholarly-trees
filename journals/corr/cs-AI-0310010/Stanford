@@ -1,0 +1,4 @@
+(S (NP (NN Diversity)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN aspect)) (PP (IN of) (NP (ADJP (RB highly) (JJ efficient)) (JJ multi-agent) (NNS teams))))) (. .))
+(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT the) (JJ main) (NNS factors)) (SBAR (WHNP (WDT that)) (S (VP (VBP drive) (NP (DT a) (JJ multi-agent) (NN system)) (PP (IN in) (NP (NP (DT either) (NN direction)) (PP (IN along) (NP (DT the) (NN diversity) (NN scale)))))))))) (. .))
+(S (S (NP (NP (DT A) (JJ metric)) (PP (IN for) (NP (NN diversity)))) (VP (VBZ is) (VP (VBN described)))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP speculate) (PP (IN on) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (JJ transient) (NN diversity))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (NP (DT an) (NN experiment)) (PP (IN on) (NP (NP (JJ social) (NN entropy)) (VP (VBG using) (NP (DT a) (NNP RoboCup)))))) (VP (VBD simulated) (SBAR (S (NP (NN soccer) (NN team)) (VP (VBZ is) (VP (VBN presented)))))) (. .))

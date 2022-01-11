@@ -1,0 +1,6 @@
+(S (NP (NP (DT A) (JJ novel) (NN method)) (PP (IN for) (NP (NP (NN stability) (CC and) (NN instability) (NN study)) (PP (IN of) (NP (JJ autonomous) (JJ dynamical) (NNS systems))))) (VP (VBG using) (NP (NP (DT the) (NN flow) (CC and) (NN divergence)) (PP (IN of) (NP (DT the) (NN vector) (NN field)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
+(S (NP (NP (DT A) (NN relation)) (PP (IN between) (NP (NP (NP (DT the) (NN method)) (PP (IN of) (NP (NNP Lyapunov) (NNS functions)))) (CC and) (NP (DT the) (VBN proposed) (NN method))))) (VP (VBZ is) (VP (VBN established))) (. .))
+(S (NP (NP (NNP Bendixon) (CC and) (NNP Bendixon-Dulac) (NNS theorems)) (PP (IN for) (NP (ADJP ($ $) (JJ n) ($ $) (JJ th)) (JJ dimensional) (NNS systems)))) (VP (VBP are) (VP (VBN extended))) (. .))
+(S (PP (VBN Based) (PP (IN on) (NP (DT the) (VBN proposed) (NN method)))) (, ,) (NP (DT the) (NN state) (NN feedback) (NN control) (NN law)) (VP (VBZ is) (VP (VBN designed))) (. .))
+(S (NP (DT The) (NN control) (NN signal)) (VP (VBZ is) (VP (VBN obtained) (PP (IN from) (NP (DT the) (JJ partial) (JJ differential) (NN inequality))))) (. .))
+(S (NP (DT The) (NNS examples)) (VP (VBP illustrate) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (NP (DT the) (VBN proposed) (NN method)) (CC and) (NP (DT the) (VBG existing) (NNS ones)))))) (. .))

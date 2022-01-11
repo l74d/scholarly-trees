@@ -1,0 +1,2 @@
+(S (NP (DT A) (NN graph)) (VP (VBZ is) (VP (VBN called) (S (ADJP (JJ t-perfect))) (SBAR (IN if) (S (NP (PRP$ its) (JJ stable) (VBN set) (NN polytope)) (VP (VBZ is) (VP (VBN defined) (PP (IN by) (NP (NP (NN non-negativity)) (, ,) (NN edge) (CC and) (NN odd-cycle) (NNS inequalities))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (PRP it))) (VP (MD can) (VP (VB be) (VP (VBN decided) (PP (IN in) (NP (JJ polynomial) (NN time))) (SBAR (IN whether) (S (NP (DT a) (VBN given) (JJ claw-free) (NN graph)) (VP (VBZ is) (ADJP (JJ t-perfect))))))))))) (. .))

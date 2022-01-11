@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ epidemic) (NN forecasting)) (PP (IN on) (NP (JJ real-world) (NN health) (NNS data))) (PP (IN by) (NP (NP (DT a) (JJ graph-structured) (NN recurrent) (JJ neural) (NN network)) (PRN (-LRB- -LRB-) (NP (NNP GSRNN)) (-RRB- -RRB-)))))) (. .))
+(S (NP (PRP We)) (VP (VBP achieve) (NP (JJ state-of-the-art) (NN forecasting) (NN accuracy)) (PP (IN on) (NP (DT the) (NN benchmark) (NNP CDC) (NN dataset)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN state) (NN complexity)) (PP (IN of) (NP (NP (DT a) (JJ Deterministic) (NNP Finite-state) (NN automaton)) (PRN (-LRB- -LRB-) (NP (NNP DFA)) (-RRB- -RRB-))))) (VP (VBZ is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS states))) (PP (IN in) (NP (PRP$ its) (JJ minimal) (JJ equivalent) (NNP DFA))))) (. .))

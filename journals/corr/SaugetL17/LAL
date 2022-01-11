@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN document)) (VP (VBZ presents) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (NP (JJ different) (NN load) (NN balance) (NNS strategies)) (PP (IN for) (NP (NP (DT a) (NNP Plasma) (NNS physics) (VBP code)) (SBAR (WHNP (IN that)) (S (VP (NNS models) (NP (JJ high) (NN energy) (NN particle) (NNS beams)) (PP (IN with) (NP (NNP PIC) (NN method)))))))))))) (. .))
+(S (NP (NP (NP (DT A) (NN comparison)) (PP (IN of) (NP (JJ different) (NN load) (VBG balancing) (NN algorithms))))) (VP (VBZ is) (VP (VBN given) (: :) (NP (ADJP (JJ static) (CC or) (JJ dynamic)) (NNS ones)))) (. .))
+(S (NP (JJ Lagrangian) (CC and) (JJ Eulerian) (NN partitioning) (NNS techniques)) (VP (VBP have) (VP (VBN been) (VP (VBN investigated)))) (. .))

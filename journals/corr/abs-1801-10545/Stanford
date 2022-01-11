@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ new) (NN family)) (PP (IN of) (NP (VBN Ordered) (NML (NNP Weighted) (NNP Averaging) (-LRB- -LRB-) (NNP OWA) (-RRB- -RRB-)) (NNS operators))))) (. .))
+(S (NP (NN Weight) (NN vector)) (VP (VBZ is) (VP (VBN obtained) (PP (IN from) (NP (NP (DT a) (VBN desired) (NN orness)) (PP (IN of) (NP (DT the) (NN operator))))))) (. .))
+(S (S (VP (VBG Using) (NP (NP (NNP Faulhaber) (POS 's)) (NNS formulas)))) (NP (PRP we)) (VP (VBP obtain) (NP (NP (ADJP (JJ direct) (CC and) (JJ simple)) (NNS expressions)) (PP (IN for) (NP (DT the) (NN weight) (NN vector)))) (PP (IN without) (NP (DT any) (NN iteration) (NN loop)))) (. .))
+(S (PP (IN With) (NP (NP (DT the) (NN exception)) (PP (IN of) (NP (CD one) (NN weight))))) (, ,) (NP (NP (DT the)) (VP (VBG remaining))) (VP (VB follow) (NP (DT a) (JJ straight) (NN line) (NN relation))) (. .))
+(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT a) (ADJP (JJ fast) (CC and) (JJ robust)) (NN algorithm)) (VP (VBZ is) (VP (VBN developed))) (. .))
+(S (S (NP (DT The) (VBG resulting) (NN weight) (NN vector)) (VP (VBZ is) (ADJP (JJ suboptimal)) (PP (VBG according) (PP (IN with) (NP (DT the) (NML (NNP Maximum) (NNP Entropy)) (NN criterion)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB very) (JJ close) (PP (IN to) (NP (DT the) (JJ optimal)))))) (. .))
+(S (NP (NNS Comparisons)) (VP (VBP are) (VP (VBN done) (PP (IN with) (NP (JJ other) (NNS procedures))))) (. .))

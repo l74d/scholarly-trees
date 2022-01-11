@@ -1,0 +1,2 @@
+(S (PP (IN Unlike) (NP (NP (VBN related) (NNS results)) (PP (IN in) (NP (JJ classical) (NML (JJ random) (NN matrix)) (NN theory))))) (, ,) (NP (VBG limiting) (NNS results)) (VP (VBP do) (VP (VB depend) (PP (IN on) (S (NP (DT the) (VBG underlying)) (VP (VBG fading) (NP (NNS distributions))))))) (. .))
+(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP get) (NP (JJ explicit) (NNS results)) (PP (IN in) (NP (NP (DT the) (NML (JJ high) (HYPH -) (NN SNR)) (NN regime)) (PP (IN for) (NP (DT some) (JJ particular) (NNS cases)))))) (. .))

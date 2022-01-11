@@ -1,0 +1,4 @@
+(S (NP (NP (DT A) (JJ Generalised) (NNP Hadamard) (NNP Transform)) (PP (IN for) (NP (NN multi-phase) (CC or) (NN multilevel) (NNS signals)))) (VP (VBZ is) (VP (VBN introduced) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ includes) (NP (DT the) (NNP Fourier) (, ,) (VBD Generalised) (, ,) (NNP Discrete) (NNP Fourier) (, ,) (NNP Walsh-Hadamard) (CC and) (NNP Reverse) (NNP Jacket) (NNP Transforms))))))) (. .))
+(S (NP (DT The) (NN jacket) (NN construction)) (VP (VBZ is) (VP (VBN formalised) (CC and) (VBN shown) (S (VP (TO to) (VP (VB admit) (NP (DT a) (NN tensor) (NN product) (NN decomposition))))))) (. .))
+(S (NP (NP (JJ Primary) (NNS matrices)) (PP (IN under) (NP (DT this) (NN decomposition)))) (VP (VBP are) (VP (VBN identified))) (. .))
+(S (NP (NP (NNP New) (NNS examples)) (PP (IN of) (NP (NP (JJ primary) (NN jacket) (NNS matrices)) (PP (IN of) (NP (NNS orders) (CD 8) (CC and) (CD 12)))))) (VP (VBP are) (VP (VBN presented))) (. .))

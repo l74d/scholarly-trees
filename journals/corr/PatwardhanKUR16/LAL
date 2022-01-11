@@ -1,0 +1,3 @@
+(S (NP (DT The) (NNP DevOps) (NN team)) (VP (VBD adopted) (NP (JJ agile) (NNS methodologies)) (PP (IN during) (NP (DT the) (NN summer) (NN internship) (NN program))) (PP (IN as) (NP (DT an) (NN initiative) (S (VP (TO to) (VP (VB move) (ADVP (RB away) (PP (IN from) (NP (NN waterfall)))))))))) (. .))
+(S (NP (DT The) (NNP DevOps) (NN team)) (VP (VBD implemented) (NP (DT the) (NNP Scrum) (NN software) (NN development) (NN strategy)) (S (VP (TO to) (VP (VB create) (NP (DT an) (JJ internal) (NN data) (NN dictionary) (NN web) (NN application)))))) (. .))
+(S (NP (DT This) (NN article)) (VP (VBZ reports) (PP (IN on) (NP (NP (DT the) (NN transition) (NN process)) (CC and) (NP (NP (NNS lessons)) (VP (VBD learned) (PP (IN from) (NP (DT the) (NN pilot) (NN program)))))))) (. .))

@@ -1,0 +1,5 @@
+(S (PP (IN For) (NP (DT a) (JJ weighted) (NN outerplanar) (NN graph))) (, ,) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ lex) (JJ short) (NNS cycles)))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ minimum) (NN cycle) (NN basis)) (NP (NNP -LSB-) (NNP Inf)))))))) (. .))
+(NP (NN Process) (. .))
+(INTJ (NNP Lett) (. .))
+(NP (CD 110) (PRN (-LRB- -LRB-) (NP (CD 2010)) (-RRB- -RRB-)) (CD 970-974) (NN -RSB-) (. .))
+(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ lex) (JJ short) (NNS cycles)))) (VP (VBZ is) (NP (NP (DT a) (JJ minimum) (NN cycle) (NN basis)) (PP (IN in) (NP (NP (NP (JJ weighted) (JJ partial) (NNS 2-trees)) (PRN (-LRB- -LRB-) (NP (NP (NN graphs)) (PP (IN of) (NP (JJ treewidth) (CD two)))) (-RRB- -RRB-))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (NN superclass)) (PP (IN of) (NP (JJ outerplanar) (NN graphs)))))))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (JJ weighted) (NN automata) (NN theory))) (, ,) (NP (NP (JJ many) (JJ classical) (NNS results)) (PP (IN on) (NP (JJ formal) (NNS languages)))) (VP (VBP have) (VP (VBN been) (VP (VBN extended) (PP (IN into) (NP (DT a) (JJ quantitative) (NN setting)))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP generalize) (NP (NP (JJ fundamental) (NNS properties)) (PP (IN of) (NP (JJ context-free) (NNS languages)))) (PP (TO to) (NP (JJ weighted) (JJ context-free) (NNS languages)))) (. .))

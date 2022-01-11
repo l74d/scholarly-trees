@@ -1,0 +1,5 @@
+(S (NP (NP (DT A) (NN method)) (PP (IN for) (S (VP (VBG identifying) (NP (NN graphs)) (S (VP (VBG using) (NP (NNP MD5) (NN hashing)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
+(S (NP (DT This)) (VP (VP (VBZ allows) (NP (RB fast) (JJ graph) (NN equality) (NNS comparisons))) (CC and) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB facilitate) (NP (JJ graph) (NN isomorphism) (VBG testing))))))))) (. .))
+(S (NP (DT The) (NN graphs)) (VP (MD can) (VP (VB be) (VP (VBN labeled) (CC or) (VBN unlabeled)))) (. .))
+(S (NP (DT The) (NN method)) (VP (NNS identifies) (NP (NNS vertices)) (PP (IN by) (S (VP (VBG hashing) (NP (NP (DT the) (NN graph) (NN configuration)) (PP (IN in) (NP (PRP$ their) (NNS neighborhoods)))))))) (. .))
+(S (SBAR (IN With) (S (NP (DT each) (NN vertex)) (VP (VBD hashed)))) (, ,) (NP (DT the) (JJ entire) (NN graph)) (VP (MD can) (VP (VB be) (VP (VBN identified) (PP (IN by) (S (VP (VBG hashing) (NP (DT the) (NN vertex) (NNS hashes)))))))) (. .))

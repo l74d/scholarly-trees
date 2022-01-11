@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NP (NN classification)) (PP (IN of) (NP (JJ linear) (NNS codes))) (PP (IN over) (NP (JJ different) (JJ finite) (NNS fields))))) (VP (VBN based) (PP (IN on) (NP (JJ canonical) (NN augmentation)))))) (. .))
+(S (NP (PRP We)) (VP (VBP apply) (NP (DT this) (NN algorithm)) (S (VP (TO to) (VP (VB obtain) (NP (NN classification) (NNS results)) (PP (IN over) (NP (NP (NNS fields)) (PP (IN with) (NP (CD 2) (, ,) (CD 3) (CC and) (CD 4) (NNS elements))))))))) (. .))

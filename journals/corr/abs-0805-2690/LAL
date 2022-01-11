@@ -1,0 +1,3 @@
+(S (NP (NP (NNS Methods)) (PP (IN of) (S (VP (VBG increasing) (NP (NP (JJ linear) (JJ optical) (JJ dynamic) (NN range)) (PP (IN of) (NP (JJ commercial) (NN photocamera))) (PP (IN for) (NP (JJ optical-digital) (NN imaging) (NNS systems)))))))) (VP (VBP are) (VP (VBN described))) (. .))
+(S (NP (NP (NNP Use)) (PP (IN of) (NP (JJ such) (NNS methods)))) (VP (NNS allows) (S (VP (TO to) (VP (VB use) (NP (JJ commercial) (NNS photocameras)) (PP (IN for) (NP (JJ optical) (NNS measurements))))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP are) (VP (VBN reported))) (. .))

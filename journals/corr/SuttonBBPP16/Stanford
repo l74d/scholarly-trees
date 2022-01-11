@@ -1,0 +1,1 @@
+(S (NP (DT This) (NN report)) (VP (VBZ presents) (NP (DT an) (ADJP (NP (JJ adaptive) (NN work)) (HYPH -) (JJ efficient)) (NN approach)) (PP (IN for) (S (VP (VBG implementing) (NP (DT the) (NML (NNP Connected) (NNP Components)) (NN algorithm)) (PP (IN on) (NP (NNS GPUs))))))) (. .))

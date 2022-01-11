@@ -1,0 +1,2 @@
+(S (ADVP (RB Prior) (PP (TO to) (NP (DT this) (NN work)))) (, ,) (NP (NNS algorithms)) (VP (VBD were) (VP (VBN known) (PP (ADVP (RB only)) (IN for) (NP (NP (NNS curves)) (PP (IN on) (NP (DT the) (NNP Euclidean) (NN plane))) (PP (IN with) (NP (JJ polygonal) (NNS obstacles))))))) (. .))
+(S (NP (NP (DT No) (NN algorithms))) (VP (VBD were) (ADVP (RB previously)) (VP (VBN known) (PP (IN for) (S (VP (VBG approximating) (NP (DT this) (NN parameter))))))) (. .))

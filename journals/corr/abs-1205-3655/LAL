@@ -1,0 +1,1 @@
+(NP (NP (NNP Admin) (NN note)) (: :) (S (VP (NN withdrawn) (PP (IN by) (NP (JJ arXiv) (NN admin))) (PP (IN because) (IN of) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT a) (NN pseudonym))) (, ,) (PP (IN in) (NP (NP (NN violation)) (PP (IN of) (NP (NN arXiv) (NN policy))))))))) (. .))

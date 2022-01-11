@@ -1,0 +1,7 @@
+(S (PP (IN In) (NP (NNP Quantum) (NNP Physics))) (, ,) (NP (DT a) (NN measurement)) (VP (VBZ is) (VP (VBN represented) (PP (IN by) (NP (NP (DT a) (NN projection)) (PP (IN on) (NP (NP (DT some) (JJ closed) (NN subspace)) (PP (IN of) (NP (DT a) (NNP Hilbert) (NN space))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (NNS algebras)) (PP (IN of) (NP (NNS operators))) (SBAR (WHNP (WDT that)) (S (VP (VBP abstract) (PP (IN from) (NP (NP (DT the) (NN algebra)) (PP (IN of) (NP (NP (NNS projections)) (PP (IN on) (NP (NP (JJ closed) (NNS subspaces)) (PP (IN of) (NP (DT a) (NNP Hilbert) (NN space)))))))))))))) (. .))
+(S (NP (NP (DT The) (NNS properties)) (PP (IN of) (NP (JJ such) (NNS operators)))) (VP (VBP are) (VP (VBN justified) (PP (IN on) (NP (JJ epistemological) (NNS grounds))))) (. .))
+(S (NP (NP (NN Commutation)) (PP (IN of) (NP (NNS measurements)))) (VP (VBZ is) (NP (NP (DT a) (JJ central) (NN topic)) (PP (IN of) (NP (NN interest))))) (. .))
+(S (NP (JJ Classical) (JJ logical) (NNS systems)) (VP (MD may) (VP (VB be) (VP (VBN viewed) (PP (IN as) (NP (NP (NN measurement) (NNS algebras)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT all) (NNS measurements)) (VP (VBP commute))))))))) (. .))
+(NP (NP (NNS Keywords)) (: :) (NP (NP (NN Quantum) (NNS measurements)) (, ,) (NP (NNP Measurement) (RB algebras)) (, ,) (NP (NNP Quantum) (NNP Logic))) (. .))
+(NP (NP (NN PACS)) (: :) (NP (NN 02.10.-v)) (. .))

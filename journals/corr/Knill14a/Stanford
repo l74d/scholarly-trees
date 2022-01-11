@@ -1,0 +1,3 @@
+(S (NP (NNP Finite) (JJ simple) (NNS graphs)) (VP (VBP are) (NP (NP (DT a) (NN playground)) (PP (IN for) (NP (NP (JJ classical) (NNS areas)) (PP (IN of) (NP (NNS mathematics))))))) (. .))
+(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT this)) (PP (IN by) (S (VP (VBG looking) (PP (IN at) (NP (DT some) (NNS theorems))))))) (. .))
+(S (NP (DT These)) (VP (VBP are) (ADVP (RB slightly)) (NP (NP (VBN enhanced) (NN preparation) (NNS notes)) (PP (IN for) (NP (NP (DT a) (NN talk)) (VP (VBN given) (PP (IN at) (NP (NP (DT the) (JJ joint) (NN AMS) (NN meeting)) (PP (IN of) (NP (NNP January) (CD 16) (, ,) (CD 2014))))) (PP (IN in) (NP (NNP Baltimore)))))))) (. .))

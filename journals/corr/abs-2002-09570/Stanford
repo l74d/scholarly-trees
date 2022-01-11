@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (NN feedback) (NN game)) (PP (IN on) (NP (JJ Eulerian) (NNS graphs)))) (. .))
+(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (UCP (NP (NP (DT the) (NNP PSPACE) (HYPH -) (NN completeness)) (PP (IN of) (NP (DT the) (NN game)))) (CC and) (FRAG (VP (VB determine) (NP (NP (DT the) (NN winner)) (PP (IN of) (NP (DT the) (NN game)))) (PP (IN on) (NP (NP (JJ several) (NNS classes)) (PP (IN of) (NP (JJ Eulerian) (NNS graphs)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP generalize) (NP (JJ upper) (NNS bounds)) (PP (IN for) (NP (NP (JJ constant) (NN dimension) (NNS codes)) (VP (VBG containing) (NP (NP (DT a) (VBN lifted) (NML (NN maximum) (NN rank)) (NN distance) (NN code)) (VP (ADVP (RB first)) (VBN studied) (PP (IN by) (NP (NNP Etzion) (CC and) (NNP Silberstein))))))))) (. .))
+(S (NP (DT The) (NN proof)) (VP (VBZ allows) (S (VP (TO to) (VP (VB construct) (NP (JJ several) (JJ improved) (NNS codes)))))) (. .))

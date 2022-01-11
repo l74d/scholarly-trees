@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ combinatorial) (NML (CD two) (HYPH -) (NN player)) (NN game)) (NP (NNP Tron)))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP answer) (NP (DT the) (JJ extremal) (NN question)) (PP (IN on) (NP (JJ general) (NNS graphs)))) (CC and) (ADVP (RB also)) (VP (VBP consider) (NP (JJR smaller) (NN graph) (NNS classes)))) (. .))
+(S (NP (NNP Bodlaender) (CC and) (NNP Kloks)) (VP (VBD conjectured) (PP (IN in) (NP (NP (-LRB- [) (CD 2) (-RRB- ])) (NP (NP (NNP PSPACE)) (HYPH -) (NP (NN completeness)))))) (. .))
+(FRAG (NP (PRP We)) (NP (NN proof)) (NP (DT this) (NN conjecture)) (. .))

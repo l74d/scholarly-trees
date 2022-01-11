@@ -1,0 +1,2 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (JJ characteristic) (NNS polynomials)) (PP (IN of) (NP (NP (DT the) (NN line) (NNS graphs)) (PP (IN of) (NP (VBN generalized) (NNP Bethe) (NNS trees))))))) (. .))
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (JJ infinite) (NN family)) (PP (IN of) (NP (NP (JJ such) (NNS graphs)) (VP (VBG sharing) (NP (DT the) (JJ same) (JJS smallest) (NN eigenvalue))))))) (. .))

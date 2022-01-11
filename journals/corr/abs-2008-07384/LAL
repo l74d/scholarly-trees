@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN document)) (VP (VBZ contains) (NP (NP (JJ extended) (JJ mathematical) (NNS derivations)) (PP (IN for) (NP (DT the) (ADJP (JJ communication-) (CC and) (JJ model-free)) (NN loss) (NN minimization) (NN algorithm))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VP (VBZ is) (VP (VBN applied) (PP (IN in) (NP (DT the) (NN distribution) (NNS grids))))) (CC and) (VP (VBZ exploits) (NP (NP (DT the) (NNS capabilities)) (PP (IN of) (NP (DT the) (NNS inverters)))) (S (VP (TO to) (VP (VB control) (NP (DT the) (JJ reactive) (NN power) (NN output))))))) (. .))

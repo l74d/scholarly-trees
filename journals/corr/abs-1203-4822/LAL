@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ linear-time) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ checks) (PP (IN for) (NP (NP (NN isomorphism)) (PP (IN between) (NP (NP (CD two) (JJ 0-1) (NNS matrices)) (SBAR (WHNP (WDT that)) (S (VP (VBP obey) (NP (DT the) (JJ circular-ones) (NN property)))))))))))))) (. .))

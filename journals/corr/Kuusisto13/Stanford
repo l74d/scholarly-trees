@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT a) (NNS semantics)) (PP (IN for) (NP (NML (JJ first) (HYPH -) (NN order)) (NN logic)))) (PP (IN with) (NP (NP (VBN generalized) (NNS quantifiers)) (PP (VBN based) (PP (IN on) (NP (JJ double) (NNS teams))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP define) (CC and) (VBP investigate) (NP (NP (DT a) (NN notion)) (PP (IN of) (NP (DT a) (VBN generalized) (NN atom))))) (. .))
+(S (NP (JJ Such) (NNS atoms)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NN order))) (S (VP (TO to) (VP (VB define) (NP (NP (NNS extensions)) (PP (IN of) (NP (NML (JJ first) (HYPH -) (NN order)) (NN logic)))) (PP (IN with) (NP (ADJP (NP (DT a) (NN team)) (HYPH -) (VBN based)) (NNS semantics))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP define) (NP (DT a) (NN game) (NNS semantics))) (CC and) (VP (VB compare) (NP (PRP it)) (PP (IN with) (NP (DT the) (JJ double) (NN team) (NNS semantics))))) (. .))

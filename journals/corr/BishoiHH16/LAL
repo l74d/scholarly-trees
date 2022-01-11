@@ -1,0 +1,4 @@
+(S (NP (NP (DT The) (JJ multiple-recursive) (NN matrix) (NN method)) (PP (IN for) (S (VP (VBG generating) (NP (NN pseudorandom) (NNS vectors)))))) (VP (VBD was) (VP (VBN introduced) (PP (IN by) (NP (NP (NNP Niederreiter)) (PRN (-LRB- -LRB-) (NP (NNP Linear) (NNP Algebra) (NNP Appl)) (. .)))))))
+(NP (NP (CD 192)) (PRN (-LRB- -LRB-) (NP (CD 1993)) (-RRB- -RRB-)) (, ,) (ADJP (JJ 301-328)) (-RRB- -RRB-) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG finding) (NP (DT an) (JJ efficient) (JJ primitive) (JJ multiple-recursive) (NN matrix) (NN method))))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (PP (IN for) (S (VP (VBG improving) (NP (DT the) (JJ linear) (NN complexity))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (NN tweak)) (PP (IN on) (NP (NP (DT the) (NNS contents)) (PP (IN of) (NP (DT the) (JJ primitive) (JJ multiple-recursive) (NN matrix) (NN method))))))) (. .))

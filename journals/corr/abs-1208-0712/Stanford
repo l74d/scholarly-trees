@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (DT the) (JJ overlay) (NN protocol) (NN Chord)) (S (VP (VBG using) (NP (NP (DT the) (NN formalism)) (PP (IN of) (NP (NNP Abstract) (NNP State) (NNPS Machines))))))) (. .))
+(NP (NP (DT The) (NML (NML (NN formalization) (NNS concerns)) (NNP Chord)) (NNS actions)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP maintain) (NP (NN ring) (NN topology))) (CC and) (VP (VB manipulate) (NP (VBN distributed) (NNS keys)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP define) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NNS runs))))) (CC and) (VP (VB prove) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (PRP$ our) (NN formalization)))) (PP (IN with) (NP (NN respect))) (PP (IN to) (NP (PRP it))))) (. .))

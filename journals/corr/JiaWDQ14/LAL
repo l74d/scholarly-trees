@@ -1,0 +1,4 @@
+(S (S (VP (VBG Considering) (NP (NP (JJ lateral) (NN influence)) (PP (IN from) (NP (JJ adjacent) (NN lane)))))) (, ,) (NP (DT an) (JJ improved) (JJ car-following) (NN model)) (VP (VBZ is) (VP (VBN developed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
+(S (ADVP (RB Then)) (NP (ADJP (JJ linear) (CC and) (JJ non-linear)) (NN stability) (NNS analyses)) (VP (VBP are) (VP (VBN carried) (PRT (RP out)))) (. .))
+(S (NP (DT The) (JJ modified) (NNP Korteweg-de) (NNP Vries) (PRN (-LRB- -LRB-) (NP (NNP MKdV)) (-RRB- -RRB-)) (NN equation)) (VP (VBZ is) (VP (VBN derived) (PP (IN with) (NP (DT the) (JJ kink-antikink) (NN soliton) (NN solution))))) (. .))
+(S (S (NP (JJ Numerical) (NNS simulations)) (VP (VBP are) (VP (VBN implemented)))) (CC and) (S (NP (DT the) (NN result)) (VP (VBZ shows) (NP (NP (JJ good) (NN consistency)) (PP (IN with) (NP (JJ theoretical) (NN study)))))) (. .))

@@ -1,0 +1,4 @@
+(S (VP (VB Consider) (NP (DT a) (NN face) (NN F)) (PP (IN in) (NP (NP (DT an) (NN arrangement)) (PP (IN of) (NP (NP (NN n) (NNP Jordan) (NNS curves)) (PP (IN in) (NP (DT the) (NN plane))))))) (, ,) (NP (NP (DT no) (CD two)) (PP (IN of) (SBAR (WHNP (WDT which)) (S (VP (VBP intersect) (NP (NP (QP (JJR more) (IN than)) (POS s)) (NNS times)))))))) (. .))
+(S (NP (PRP$ Our) (NNS bounds)) (ADVP (RB asymptotically)) (VP (VBP match) (NP (NP (DT the) (VBN known) (NML (JJS worst) (HYPH -) (NN case))) (NP (JJR lower) (NNS bounds)))) (. .))
+(S (NP (PRP$ Our) (NN proof)) (VP (VBZ settles) (NP (NP (DT the) (ADJP (RB still) (RB apparently) (JJ open)) (NN case)) (PP (IN of) (NP (NN semi-infinite) (NNS curves))))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ treats) (NP (NP (DT the) (CD three) (NNS cases)) (PP (IN in) (NP (DT a) (ADJP (RB fairly) (JJ uniform)) (NN fashion))))) (. .))

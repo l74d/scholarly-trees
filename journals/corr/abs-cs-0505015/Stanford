@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT the) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB derive) (NP (DT the) (ADJP (JJ complex) (HYPH -) (SBAR (S (VP (VBN valued) (NP (NP (NP (RBS least)) (HYPH -) (NP (NNS squares))) (NN estimator)) (PP (IN for) (NP (NN bias) (HYPH -) (NN noise))))))) (NN mean) (CC and) (NN variance)))))) (. .))

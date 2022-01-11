@@ -1,0 +1,6 @@
+(S (NP (DT This)) (VP (VBZ is) (NP (DT the) (JJ third) (NN revision))) (. .))
+(S (NP (PRP We)) (VP (VBP study) (NP (NP (NNS bases)) (PP (IN of) (NP (JJ Pfaffian) (NNS systems)))) (PP (IN for) (NP ($ $) (DT A) ($ $) (JJ -hypergeometric) (NN system)))) (. .))
+(S (NP (DT These) (NNS bases)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT those)) (PP (IN for) (NP (JJ twisted) (NN cohomology) (NNS groups))))) (. .))
+(S (PP (IN For) (NP (NP (JJ hypergeometric) (NN system)) (VP (VBN associated) (PP (TO to) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NN order) (NNS polytopes)))))))) (, ,) (NP (DT these) (NNS bases)) (VP (VBP have) (NP (DT a) (JJ combinatorial) (NN description))) (. .))
+(S (NP (NP (DT The) (NN size)) (PP (IN of) (NP (NP (DT the) (NNS bases)) (VP (VBN associated) (PP (TO to) (NP (NP (DT a) (NN subclass)) (PP (IN of) (NP (DT the) (NN order) (NNS polytopes))))))))) (VP (VBP have) (NP (NP (DT the) (NN growth) (NN rate)) (PP (IN of) (NP (DT the) (JJ polynomial) (NN order))))) (. .))
+(S (NP (NP (NNS Bases)) (VP (VBN associated) (PP (TO to) (NP (CD two) (NN chain) (NNS posets) (CC and) (NNS bouquets))))) (VP (VBP are) (VP (VBN studied))) (. .))

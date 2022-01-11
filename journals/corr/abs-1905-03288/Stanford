@@ -1,0 +1,6 @@
+(S (NP (NP (JJ Convolutional) (JJ Neural) (NN Network)) (-LRB- -LRB-) (NP (NNP CNN)) (-RRB- -RRB-)) (VP (VBZ is) (NP (NP (DT the) (NML (NML (NN state)) (HYPH -) (PP (IN of) (HYPH -) (NP (DT the) (HYPH -) (NN art))))) (PP (IN for) (NP (NML (NN image) (NN classification)) (NN task))))) (. .))
+(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP have) (ADVP (RB briefly)) (VP (VBN discussed) (NP (NP (JJ different) (NNS components)) (PP (IN of) (NP (NNP CNN)))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP We)) (VP (VBP have) (VP (VBN explained) (NP (NP (JJ different) (NNP CNN) (NNS architectures)) (PP (IN for) (NP (NN image) (NN classification)))))) (. .))
+(S (PP (IN Through) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN shown) (NP (NP (NNS advancements)) (PP (IN in) (NP (NNP CNN)))) (PP (IN from) (NP (NML (NML (NNP LeNet) (HYPH -) (CD 5)) (PP (IN to) (NP (JJS latest) (NN SENet)))) (NN model))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (VP (VBN discussed) (NP (NP (DT the) (NN model) (NN description)) (CC and) (NP (NP (NN training) (NNS details)) (PP (IN of) (NP (DT each) (NN model))))))) (. .))
+(S (NP (PRP We)) (VP (VBP have) (ADVP (RB also)) (VP (VBN drawn) (NP (NP (DT a) (NN comparison)) (PP (IN among) (NP (DT those) (NNS models)))))) (. .))

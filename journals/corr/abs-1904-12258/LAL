@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (VBG covering) (NN path) (NN problem)) (PP (IN on) (NP (NP (DT a) (NN grid)) (PP (IN of) (NP (NNP R^) (-LRB- -LCB-) (CD 2) (-RRB- -RCB-)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP generalize) (NP (NP (JJR earlier) (NNS results)) (PP (IN on) (NP (DT a) (JJ rectangular) (NN grid))))) (CC and) (VP (VB prove) (SBAR (IN that) (S (NP (DT the) (VBG covering) (NN path) (NN cost)) (VP (MD can) (VP (VB be) (VP (VBN bounded) (PP (IN by) (NP (NP (DT the) (NN area) (CC and) (NN perimeter)) (PP (IN of) (NP (DT the) (NN grid)))))))))))) (. .))

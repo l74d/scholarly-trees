@@ -1,0 +1,5 @@
+(S (PP (IN In) (NP (JJ recent) (NNS decades))) (, ,) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NML (JJ 3D) (NN point)) (NNS clouds)))) (VP (VBZ has) (VP (VBN been) (ADJP (JJ widespread)) (PP (IN in) (NP (NN computer) (NN industry))))) (. .))
+(S (NP (NP (DT The) (NN development)) (PP (IN of) (NP (NP (NNS techniques)) (PP (IN in) (S (VP (VBG analyzing) (NP (NN point) (NNS clouds)))))))) (VP (VBZ is) (ADJP (RB increasingly) (JJ important))) (. .))
+(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (NP (NN mapping)) (PP (IN of) (NP (NN point) (NNS clouds)))) (VP (VBZ has) (VP (VBN been) (NP (DT a) (JJ challenging) (NN problem)))) (. .))
+(S (ADVP (RB Consequently)) (, ,) (NP (PRP$ our) (NN algorithm)) (VP (VBZ enables) (NP (NP (JJ accurate) (NML (NN recognition) (CC and) (NN classification))) (PP (IN of) (NP (NN point) (NNS clouds))))) (. .))
+(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (JJ proposed) (NN method))))) (. .))

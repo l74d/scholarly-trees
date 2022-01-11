@@ -1,0 +1,4 @@
+(S (S (VP (VBG Using) (NP (NP (DT this) (NN class)) (PP (IN of) (NP (NN hash) (NNS functions)))))) (, ,) (NP (JJ several) (JJ efficient) (NN hash) (NNS functions)) (VP (VBD were) (VP (VBN proposed))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ evaluates) (NP (NP (DT the) (NN security) (NN performance)) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP apply) (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN hash) (NNS functions))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (NN security)) (PP (IN in) (NP (NP (JJ several) (NNS kinds)) (PP (IN of) (S (VP (VBG setting) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NML (QP ($ $) (CD L_1))) (NML ($ $) (CD distinguishability)) (NN criterion)) (CC and) (NP (DT the) (VBN modified) (NML (JJ mutual) (NN information)) (NN criterion)))))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP clarify) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (DT these) (CD two) (NNS methods))))) (. .))

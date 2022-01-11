@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ no-regret) (NN algorithms))) (S (VP (TO to) (VP (VB compute) (NP (NN equilibria)) (PP (IN for) (NP (NP (JJ particular) (NNS classes)) (PP (IN of) (NP (JJ convex-concave) (NNS games)))))))))) (. .))

@@ -1,0 +1,2 @@
+(S (S (NP (EX There)) (VP (VBZ is) (NP (NP (RB only) (CD one) (NN exception)) (: :) (NP (NP (DT the) (NN graph)) (VP (VBN formed) (PP (IN by) (NP (NP (DT the) (NNS edges)) (PP (IN of) (NP (NP (DT an) (NN octahedron)) (PP (VBZ is) (NP (CD 4) (HYPH -) (JJ regular)))))))))))) (, ,) (CC yet) (S (NP (PRP it)) (VP (VBZ requires) (NP (CD 3) (NNS slopes)))) (. .))
+(S (NP (DT These) (NNS bounds)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN improved)))) (. .))

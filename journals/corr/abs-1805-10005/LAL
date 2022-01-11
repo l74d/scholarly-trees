@@ -1,0 +1,2 @@
+(S (NP (NP (NN Policy) (NN evaluation)) (PP (IN with) (NP (JJ linear) (NN function) (NN approximation)))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN problem)) (PP (IN in) (NP (NN reinforcement) (NN learning))))) (. .))
+(S (SBAR (WHADVP (WRB When)) (S (VP (VBG facing) (NP (JJ high-dimensional) (NN feature) (NNS spaces))))) (, ,) (NP (PDT such) (DT a) (NN problem)) (VP (VBZ becomes) (ADJP (RB extremely) (JJ hard)) (PP (VBG considering) (NP (NP (DT the) (NX (NX (NN computation) (NN efficiency)) (CC and) (NX (NN quality)))) (PP (IN of) (NP (NNS approximations)))))) (. .))

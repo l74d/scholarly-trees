@@ -1,0 +1,4 @@
+(S (NP (NP (NNP Service) (NN deployment) (, ,) (NN integration) (CC and) (NNS interactions)) (PP (IN in) (NP (NNP VANET)))) (VP (VBP are) (VP (ADVP (JJ fast)) (VBG expanding))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (ADVP (RB now)) (VP (VBG focusing) (ADVP (RB only)) (PP (IN on) (NP (NN driver) (NN security))))) (. .))
+(S (PP (IN In) (NP (DT the) (NN future))) (, ,) (PP (IN with) (NP (JJ in-car) (NN application) (NNS deployments))) (, ,) (NP (DT the) (NN car)) (VP (MD will) (VP (VB be) (VP (VBN considered) (PP (IN as) (NP (DT a) (NN user) (NN extension))) (: -) (PP (IN in) (NP (NP (DT the) (JJ same) (NN way)) (PP (IN as) (NP (NNS smartphones))) (ADVP (RB actually))))))) (. .))
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ multi-level) (NN graph) (NN model)) (SBAR (S (VP (TO to) (VP (VB challenge) (NP (DT this) (UCP (NNP VANET) (NNP /) (NNP Application) (NNP /) (NNP User)) (NN integration))))))) (. .))

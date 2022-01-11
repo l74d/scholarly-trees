@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (JJ Gaussian) (JJ multiple) (NN access) (NN channel)) (PP (IN with) (NP (JJ multiple) (JJ independent) (JJ additive) (JJ white) (JJ Gaussian) (NNS interferences))))) (. .))
+(S (NP (DT Each) (NN interference)) (VP (VBZ is) (VP (VBN known) (PP (TO to) (NP (QP (RB exactly) (CD one)) (NN transmitter))) (ADVP (RB non-causally)))) (. .))
+(S (NP (DT The) (NN capacity) (NN region)) (VP (VBZ is) (VP (VBN characterized) (PP (TO to) (PP (IN within) (NP (DT a) (JJ constant) (NN gap)))) (ADVP (NN regardless) (PP (IN of) (NP (NN channel) (NNS parameters)))))) (. .))
+(S (NP (DT These) (NNS results)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ layered) (NN modulo-lattice) (NN scheme)) (SBAR (WHNP (WDT which)) (S (VP (VBZ realizes) (NP (VBN distributed) (NN interference) (NN cancellation))))))))) (. .))

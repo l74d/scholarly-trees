@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ new) (JJ ternary) (NN infinite) (PRN (-LRB- -LRB-) (RB even) (RB full-infinite) (-RRB- -RRB-)) (JJ square-free) (NN sequence))) (. .))
+(S (NP (DT The) (NN sequence)) (VP (VBZ is) (VP (VBN defined) (PP (DT both) (PP (IN by) (NP (DT an) (JJ iterative) (NN method))) (CC and) (PP (IN by) (NP (DT a) (JJ direct) (NN definition)))))) (. .))
+(S (NP (DT Both) (NNS definitions)) (VP (VBP are) (ADJP (JJ analogous) (PP (TO to) (NP (NP (DT those)) (PP (IN of) (NP (DT the) (JJ Thue-Morse) (NN sequence))))))) (. .))
+(S (NP (DT The) (JJ direct) (NN definition)) (VP (VBZ is) (VP (VBN given) (PP (IN by) (NP (NP (DT a) (JJ deterministic) (JJ finite) (NN automaton)) (PP (IN with) (NP (NN output))))))) (. .))
+(S (PP (IN In) (ADJP (JJ short))) (, ,) (NP (DT the) (NN sequence)) (VP (VBZ is) (ADJP (JJ automatic))) (. .))

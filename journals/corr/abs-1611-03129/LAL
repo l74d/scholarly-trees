@@ -1,0 +1,3 @@
+(S (NP (JJ Several) (JJ new) (JJR stronger) (NNS results)) (VP (VBP are) (ADVP (RB also)) (VP (VBN obtained))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ regular) (NN bipartite) (NN graphs))))))) (. .))
+(S (S (NP (DT These) (NNS graphs)) (VP (VBP are) (ADVP (RB quite) (RB often)) (VP (VBN used) (PP (IN in) (NP (NNP Extremal) (NNP Set) (NNP Theory) (NNS problems)))))) (, ,) (S (ADVP (RB however)) (, ,) (NP (NP (DT the) (NN approach)) (SBAR (S (NP (PRP we)) (VP (VBP develop))))) (VP (NNS proves) (S (VP (TO to) (VP (VB be) (ADJP (RB particularly) (JJ fruitful))))))) (. .))

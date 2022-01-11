@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP study) (NP (NN policy) (NN iteration)) (PP (IN for) (NP (JJ infinite-horizon) (NNP Markov) (NN decision) (NNS processes)))) (. .))
+(S (NP (NP (PRP It))) (VP (VBZ has) (ADVP (RB recently)) (VP (VBN been) (VP (VBN shown) (SBAR (S (NP (NN policy) (NN iteration) (NN style) (NNS algorithms)) (VP (VBP have) (NP (JJ exponential) (JJR lower) (NNS bounds)) (PP (IN in) (NP (DT a) (ADJP (CD two) (NN player)) (NN game) (NN setting))))))))) (. .))
+(S (NP (PRP We)) (VP (VBP extend) (NP (DT these) (JJR lower) (NNS bounds)) (PP (TO to) (NP (NP (NNP Markov) (NN decision) (VBZ processes)) (PP (IN with) (NP (DT the) (JJ total) (NN reward) (CC and) (JJ average-reward) (NN optimality) (NNS criteria)))))) (. .))

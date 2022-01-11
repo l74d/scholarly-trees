@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NNS CRNNs)) (SBAR (S (NP (PRP we)) (VP (VBD used) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (NP (NNP Task) (CD 5)) (PP (IN of) (NP (DT the) (NNP DCASE) (CD 2020) (NN challenge))))))))))))) (. .))
+(S (NP (DT This) (NN task)) (VP (VBZ focuses) (PP (IN on) (NP (NP (JJ hierarchical) (JJ multi-label) (JJ urban) (NN sound)) (VP (VBG tagging) (PP (IN with) (NP (JJ spatiotemporal) (NN context))))))) (. .))
+(S (NP (DT The) (NN code)) (VP (VBZ is) (ADJP (JJ available) (PP (IN to) (NP (PRP$ our) (NNP GitHub) (NN repository)))) (PP (IN at) (NP (NP (DT this)) (SBAR (S (VP (VBZ https) (NP (NN URL)))))))))

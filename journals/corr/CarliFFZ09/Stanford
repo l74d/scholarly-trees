@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBZ solves) (ADVP (RB exponentially)) (NP-TMP (ADVP (RB fast)) (NP (DT the) (JJ average) (NN consensus) (NN problem)) (PP (IN on) (NP (ADJP (RB strongly) (JJ connected)) (NN network))) (PP (IN of) (NP (JJ digital) (NNS links))))))))) (. .))
+(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT an) (JJ efficient) (NML (NN zooming) (HYPH -) (NN in) (HYPH /) (NN zooming) (HYPH -) (NN out)) (NN quantization) (NN scheme))))) (. .))

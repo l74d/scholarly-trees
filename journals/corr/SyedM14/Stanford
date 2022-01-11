@@ -1,0 +1,4 @@
+(S (NP (DT The) (JJ smart) (NN shower)) (VP (VBZ is) (NP (NP (DT an) (JJ intelligent) (NN device)) (SBAR (WHNP (WDT that)) (S (VP (VBZ saves) (NP (DT the) (NN water)) (PP (IN during) (NP (DT the) (NN shower)))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ uses) (NP (NP (DT the) (NN indicator) (NNS lamps)) (SBAR (WHNP (WDT that)) (S (VP (VBP inform) (NP (NP (DT the) (NN user)) (PP (IN of) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (DT the) (NN water))))))))))) (. .))
+(S (PP (IN Like) (NP (DT the) (NN traffic) (NN signal))) (NP (PRP it)) (VP (VBZ has) (NP (NP (CD three) (NNS sets)) (PP (IN of) (NP (NP (NP (NNS lamps)) (, ,) (ADJP (JJ green) (, ,) (JJ yellow) (CC and) (JJ red))) (, ,) (NP (NP (DT each)) (VP (VBG indicating) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NP (NN time)) (VP (VBN spent))))))))))) (. .))
+(S (NP (DT This) (NN device) (NN brain)) (VP (VBZ is) (NP (DT the) (NNP Siemens) (NNP Logo) (NNP PLC.))) (. .))

@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB define) (NP (NP (DT a) (NML (NN dependency) (NN grammar)) (NN framework)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (DT both) (ADJP (RB linguistically) (JJ motivated)) (CC and) (ADJP (ADVP (RB computationally)) (JJ parsable))))))))))) (. .))
+(S (VP (VB See) (NP (DT the) (NN demo)) (PP (IN at) (NP (DT this) (NN http) (NN URL)))))

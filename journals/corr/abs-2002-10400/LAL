@@ -1,0 +1,1 @@
+(S (NP (NP (JJ Stochastic) (NN gradient) (NN descent)) (PP (IN without) (NP (NN replacement) (NN sampling)))) (VP (VBZ is) (VP (ADVP (RB widely)) (VBN used) (PP (IN in) (NP (NN practice))) (PP (IN for) (NP (NN model) (NN training))))) (. .))

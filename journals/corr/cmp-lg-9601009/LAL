@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN report)) (VP (VBZ argues) (PP (IN for) (NP (NP (DT the) (NN provision)) (PP (IN of) (NP (NP (DT a) (JJ common) (NN software) (NN infrastructure)) (PP (IN for) (NP (NNP NLP) (NNS systems)))))))) (. .))
+(S (S (NP (NP (JJ Current) (NNS trends)) (PP (IN in) (NP (NNP Language) (NNP Engineering) (NN research)))) (VP (VBP are) (VP (VBN reviewed) (PP (IN as) (NP (NP (NN motivation)) (PP (IN for) (NP (DT this) (NN infrastructure)))))))) (, ,) (CC and) (S (NP (JJ relevant) (JJ recent) (NN work)) (VP (VBD discussed))) (. .))
+(S (NP (NP (DT A) (JJ freely-available) (NN system)) (VP (VBN called) (S (NP (NNP GATE))))) (VP (VBZ is) (VP (VBN described) (SBAR (WHNP (WDT which)) (S (VP (VBZ builds) (PP (IN on) (NP (DT this) (NN work)))))))) (. .))

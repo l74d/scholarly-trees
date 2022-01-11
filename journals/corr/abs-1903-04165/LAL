@@ -1,0 +1,4 @@
+(S (NP (JJ Insufficient) (NNS requirements) (NN reusability) (, ,) (NN understandability) (CC and) (NN verifiability)) (VP (NN jeopardize) (NP (NN software) (NNS projects))) (. .))
+(S (NP (JJ Empirical) (NNS studies)) (VP (VBP show) (NP (NP (JJ little) (NN success)) (PP (IN in) (S (VP (VBG improving) (NP (DT these) (NNS qualities)) (ADVP (RB separately))))))) (. .))
+(S (S (VP (VBG Applying) (NP (JJ object-oriented) (NN thinking)) (PP (TO to) (NP (NNS requirements))))) (VP (NNS leads) (PP (TO to) (NP (PRP$ their) (JJ unified) (NN treatment)))) (. .))
+(S (NP (NP (DT An) (JJ online) (NN library)) (PP (IN of) (NP (JJ reusable) (NN requirement) (VBZ templates)))) (VP (NNS implements) (NP (VBG recurring) (NN requirement) (NNS structures)) (, ,) (S (VP (VBG offering) (NP (NP (DT a) (NN starting) (NN point)) (PP (IN for) (S (VP (VBG practicing) (NP (DT the) (JJ unified) (NN approach))))))))) (. .))

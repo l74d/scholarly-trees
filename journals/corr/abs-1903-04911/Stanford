@@ -1,0 +1,5 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (JJ isodual) (JJ quasi-cyclic) (NNS codes))))) (. .))
+(S (ADVP (RB First)) (NP (PRP we)) (VP (VBP prove) (SBAR (SBAR (IN that) (S (NP (CD two) (JJ quasi-cyclic) (NNS codes)) (VP (VBP are) (ADJP (NP (NN permutation)) (ADJP (JJ equivalent) (IN if)))))) (CC and) (SBAR (RB only) (IN if) (S (NP (PRP$ their) (NN constituent) (NNS codes)) (VP (VBP are) (ADJP (JJ equivalent))))))) (. .))
+(S (NP (DT This)) (VP (VBZ gives) (NP (NNS conditions)) (PP (IN on) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (JJ isodual) (JJ quasi-cyclic) (NNS codes)))))) (. .))
+(S (ADVP (RB Then)) (NP (DT these) (NNS conditions)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (JJ isodual) (JJ quasi-cyclic) (NNS codes))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT a) (NN construction)) (PP (IN for) (NP (JJ isodual) (JJ quasi-cyclic) (NNS codes)))) (PP (IN as) (NP (NP (DT the) (NN matrix) (NN product)) (PP (IN of) (NP (JJ isodual) (NNS codes)))))) (. .))

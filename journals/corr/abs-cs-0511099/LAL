@@ -1,0 +1,2 @@
+(S (S (VP (TO To) (VP (VB resist) (NP (JJ algebraic) (NN attack))))) (, ,) (NP (DT a) (JJ Boolean) (NN function)) (VP (MD should) (VP (VB possess) (NP (NP (JJ good) (NN algebraic) (NN immunity)) (PRN (-LRB- -LRB-) (NP (NNP AI)) (-RRB- -RRB-))))) (. .))
+(S (CC And) (NP (PRP we)) (ADVP (RB also)) (VP (VB obtain) (NP (NP (DT a) (JJ necessary) (NN condition)) (PP (IN for) (NP (NP (DT the) (JJ algebraic) (JJ normal) (NN form)) (PP (IN of) (NP (NP (DT a) (JJ symmetric) (NNP Boolean) (NN function)) (PP (IN with) (NP (JJ maximum) (JJ algebraic) (NN immunity))))))))) (. .))

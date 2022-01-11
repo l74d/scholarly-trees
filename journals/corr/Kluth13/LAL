@@ -1,0 +1,5 @@
+(S (NP (PRP We)) (VP (VBD benchmarked) (NP (DT an) (ADJP (NNP ARM) (NN cortex-A9) (VBN based)) (NN server) (NN system)) (PP (IN with) (NP (NP (DT a) (JJ four-core) (NNP CPU)) (VP (NN running) (PP (IN at) (NP (CD 1.1) (NNP GHz))))))) (. .))
+(S (S (NP (DT The) (NN system)) (VP (VBN used) (NP (RB Ubuntu) (CD 12.04)) (PP (IN as) (NP (NN operating) (NN system))))) (CC and) (S (NP (DT the) (NNP HEPSPEC) (CD 2006) (PRN (-LRB- -LRB-) (NP (NNP HS06)) (-RRB- -RRB-)) (VBG benchmarking) (NN suite)) (VP (VBD was) (VP (VBN compiled) (ADVP (RB natively)) (PP (IN with) (NP (NN gcc-4.4))) (PP (IN on) (NP (DT the) (NN system)))))) (. .))
+(S (NP (DT The) (NN benchmark)) (VP (VBD was) (VP (VBN run) (PP (IN for) (NP (NP (JJ various) (NNS settings)) (PP (IN of) (NP (DT the) (JJ relevant) (NN gcc) (NN compiler) (NNS options))))))) (. .))
+(S (NP (PRP We)) (VP (VBD did) (RB not) (VP (VB find) (NP (NP (JJ significant) (NN influence)) (PP (IN from) (NP (DT the) (NN compiler) (NNS options))) (PP (IN on) (NP (DT the) (NN benchmark) (NN result)))))) (. .))
+(S (NP (DT The) (JJ final) (NNP HS06) (NN benchmark) (NN result)) (VP (VBZ is) (NP (CD 10.4))) (. .))

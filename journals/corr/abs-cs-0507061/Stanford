@@ -1,0 +1,8 @@
+(SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NNP Software) (NNP Architecture))) (. ?))
+(NP (NP (DT The) (NNS rules)) (, ,) (NP (NP (NNS paradigmen)) (, ,) (NP (NP (NN pattern)) (SBAR (WHNP (WDT that)) (S (VP (VBP help) (S (VP (TO to) (VP (VB construct) (, ,) (VB build) (CC and) (VB test) (NP (NP (DT a) (JJ serious) (NN piece)) (PP (IN of) (NP (NN software)))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT the) (JJ practical) (NN experience)) (VP (VBN boiled) (PRT (RP down)) (PP (IN to) (NP (JJ abstract) (NN level)))))) (. .))
+(S (NP (NNP Software) (NNP Architecture)) (VP (VBZ builds) (PP (IN on) (NP (NP (NNP System) (NNP Engineering)) (CC and) (NP (DT the) (JJ scientific) (NN method)))) (SBAR (IN as) (S (S (VP (VBN established) (PP (IN by) (NP (NP (NNP Galileo) (NNP Galilei)) (: :) (NP (NP (NN Measure)) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (MD can))))))))) (CC and) (S (VP (VB make) (ADJP (JJ measureable)) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (MD can) (RB not))))))))) (. .))
+(S (NP (NP (DT The) (NN experiment)) (-LRB- -LRB-) (NP (NN test)) (-RRB- -RRB-)) (VP (VBZ is) (ADJP (RBR more) (JJ important)) (ADVP (RB then) (NP (DT the) (NN deduction)))) (. .))
+(S (NP (NP (NNS Pieces)) (PP (IN of) (NP (NP (NN information)) (PP (IN about) (NP (NN software) (NN architecture)))))) (VP (VBP are) (RB all) (PP (IN over) (NP (DT the) (NN internet)))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ uses) (NP (NN citation)) (ADVP (ADVP (RB as) (RB much)) (SBAR (IN as) (FRAG (ADJP (JJ possible)))))) (. .))
+(S (NP (DT The) (NN aim)) (VP (VBZ is) (S (VP (TO to) (VP (VB bring) (PRT (RB together)) (NP (DT an) (NN overview)) (, ,) (S (RB not) (VP (TO to) (VP (VB rephrase) (NP (DT the) (NN wording))))))))) (. .))

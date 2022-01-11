@@ -1,0 +1,5 @@
+(S (NP (NN Language) (NN identification)) (VP (VBZ has) (VP (VBN become) (NP (NP (DT a) (NN prerequisite)) (PP (IN for) (NP (NP (DT all) (NNS kinds)) (PP (IN of) (NP (JJ automated) (NN text) (NN processing) (NNS systems)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ rule-based) (NN language) (NN identifier) (NN tool)) (PP (IN for) (NP (NP (CD two) (ADJP (RB closely) (JJ related)) (JJ Indo-Aryan) (NNS languages)) (: :) (NP (NNP Hindi) (CC and) (NNP Magahi)))))) (. .))
+(S (NP (DT This) (NN system)) (VP (VBZ has) (ADVP (RB currently)) (VP (VBN achieved) (NP (NP (DT an) (NN accuracy)) (PP (IN of) (NP (QP (JJ approx) (CD 86.34)) (NN %)))))) (. .))
+(S (NP (PRP We)) (VP (VBP hope) (S (VP (TO to) (VP (VB improve) (NP (DT this)) (PP (IN in) (NP (DT the) (NN future))))))) (. .))
+(S (NP (NP (JJ Automatic) (NN identification)) (PP (IN of) (NP (NNS languages)))) (VP (MD will) (VP (VB be) (ADJP (JJ significant)) (PP (IN in) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NP (NN output)) (PP (IN of) (NP (NNP Web) (NNP Crawlers))))))))) (. .))

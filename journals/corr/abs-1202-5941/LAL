@@ -1,0 +1,8 @@
+(S (NP (NNP IEEE) (CD 802.11)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB widely) (VBN used)) (NN wireless) (NNP LAN) (NN standard)) (PP (IN for) (NP (JJ medium) (NN access) (NN control))))) (. .))
+(S (NP (NNP TCP)) (VP (VBZ is) (NP (NP (DT a) (JJ prominent) (NN transport) (NN protocol)) (VP (ADVP (RB originally)) (VBN designed) (PP (IN for) (NP (JJ wired) (NNS networks)))))) (. .))
+(S (NP (NNP TCP)) (VP (VP (VBZ treats) (NP (JJ packet) (NN loss)) (PP (IN as) (NP (NN congestion)))) (CC and) (VP (VBZ reduces) (NP (DT the) (NN data) (NN rate)))) (. .))
+(S (PP (IN In) (NP (JJ wireless) (NNS networks))) (NP (NNS packets)) (VP (VBP are) (VP (VBN lost) (PP (CONJP (RB not) (RB only)) (JJ due) (PP (TO to) (NP (NN congestion))) (CONJP (CC but) (RB also)) (PP (JJ due) (PP (TO to) (NP (JJ various) (JJ other) (NNS reasons))))))) (. .))
+(S (ADVP (NNP Hence)) (NP (EX there)) (VP (VBZ is) (NP (NP (NN need)) (PP (IN for) (S (VP (VBG making) (S (NP (NNP TCP)) (ADJP (JJ adaptable) (PP (TO to) (NP (VB wireless) (NNS networks)))))))))) (. .))
+(S (NP (NP (JJ Various) (NNS parameters)) (PP (IN of) (NP (NP (NNP TCP)) (CC and) (NP (NNP IEEE) (CD 802.11))))) (VP (MD can) (VP (VB be) (VP (VBN set) (PP (TO to) (NP (VB appropriate) (NNS values))) (S (VP (TO to) (VP (VB achieve) (NP (JJ optimum) (NN performance) (NNS results)))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (VBZ optimum) (NNS values)) (PP (IN for) (NP (NP (JJ various) (NNS parameters)) (PP (IN of) (NP (NNP IEEE) (CD 802.11)))))) (VP (VBP are) (VP (VBN determined))) (. .))
+(S (NP (NNP Network) (NN simulator) (NNP NS2)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NN simulation))))) (. .))

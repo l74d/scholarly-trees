@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN closure)) (PP (IN of) (NP (NP (DT the) (ADJP (CD one) (HYPH -) (JJ sided)) (NNP Dyck) (NN language)) (PP (IN in) (NP (DT a) (JJ free) (NN monoid)))))) (VP (VBZ is) (NP (DT a) (ADJP (CD two) (HYPH -) (JJ sided)) (NNP Dyck) (NN language)))))) (. .))

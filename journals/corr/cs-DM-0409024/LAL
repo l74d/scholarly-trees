@@ -1,0 +1,2 @@
+(S (NP (NP (JJ Classical) (NNS results)) (PP (IN on) (NP (JJ aperiodic) (NNS tilings)))) (VP (VBP are) (ADJP (ADJP (RB rather) (VBN complicated)) (CC and) (ADJP (RB not) (RB widely) (JJ understood)))) (. .))
+(S (ADVP (NNP Below)) (, ,) (NP (DT an) (JJ alternative) (NN approach)) (VP (VBZ is) (VP (VBN discussed) (PP (IN in) (NP (NN hope) (S (VP (TO to) (VP (VB provide) (NP (NP (JJ additional) (NN intuition)) (ADJP (RB not) (JJ apparent) (PP (IN in) (NP (JJ classical) (NNS works)))))))))))) (. .))

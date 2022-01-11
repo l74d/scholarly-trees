@@ -1,0 +1,1 @@
+(FRAG (NP (JJ Admin) (NN note)) (: :) (S (VP (VBN withdrawn) (PP (IN by) (NP (NN arXiv) (NN admin))) (PP (IN because) (PP (IN of) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT a) (NN pseudonym)))))) (, ,) (PP (IN in) (NP (NP (NN violation)) (PP (IN of) (NP (NN arXiv) (NN policy))))))) (. .))

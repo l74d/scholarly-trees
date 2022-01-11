@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ gives) (NP (NP (DT a) (JJ short) (NN survey)) (PP (IN of) (NP (NP (JJ recent) (NNS trends)) (PP (IN in) (NP (NP (DT the) (VBG emerging) (NN field)) (PP (IN of) (NP (JJ big) (NNS data))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ explains) (NP (NP (DT the) (NNS definitions)) (CC and) (NP (JJ useful) (NNS methods)))) (. .))
+(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (NN application) (NNS fields)) (PP (IN of) (NP (UCP (NML (JJ smart) (NNS buildings)) (CC and) (ADJP (JJ smart))) (NNS grids)))) (VP (VBP are) (VP (VBN discussed))) (. .))

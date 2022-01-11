@@ -1,0 +1,6 @@
+(S (NP (DT This) (NN work)) (VP (VBZ introduces) (NP (NP (DT the) (PRN (PP (NN join) (DT the) (JJS shortest))) (NN queue) (NN policy)) (PP (IN in) (NP (DT the) (JJ retrial) (NN setting))))) (. .))
+(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (JJ Markovian) (JJ single) (NN server) (JJ retrial) (NN system)) (PP (IN with) (NP (CD two) (JJ infinite) (NN capacity) (NNS orbits))))) (. .))
+(S (S (NP (DT An) (VBG arriving) (NN job)) (VP (VBG finding) (S (NP (DT the) (NN server)) (ADJP (JJ busy))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN forwarded) (PP (TO to) (NP (DT the) (ADJP (JJS least) (JJ loaded)) (NN orbit))))) (. .))
+(S (ADVP (RB Otherwise)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN forwarded) (PP (TO to) (NP (DT an) (NN orbit))) (ADVP (RB randomly)))) (. .))
+(S (NP (NP (VBG Orbiting) (NNS jobs)) (PP (IN of) (NP (DT either) (NN type)))) (VP (NN retry) (S (VP (TO to) (VP (NN access) (NP (DT the) (NN server)) (ADVP (RB independently)))))) (. .))
+(S (NP (PRP We)) (VP (VP (VBP investigate) (NP (NP (DT the) (NN stability) (NN condition)) (, ,) (NP (DT the) (JJ stationary) (NN tail) (NN decay) (NN rate)) (, ,))) (CC and) (VP (VB obtain) (NP (DT the) (NN equilibrium) (NN distribution)) (PP (IN by) (S (VP (VBG using) (NP (DT the) (NN compensation) (NN method))))))) (. .))

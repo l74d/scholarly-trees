@@ -1,0 +1,2 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN concerned) (PP (IN with) (NP (NP (ADJP (JJ unreachable)) (NN pawn) (NNS diagrams)) (CC and) (NP (NP (DT the) (NN subset)) (PP (IN of) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN generated) (S (VP (VBG using) (NP (NP (NNP Hall) (POS 's)) (NN Marriage) (NN Theorem))))))))))))))) (. .))
+(S (NP (DT The) (NN result)) (VP (VBZ is) (NP (NP (CD 1)) (PP (IN in) (NP (NP (CD 23) (NNS diagrams)) (SBAR (S (VP (VBP are) (ADJP (JJ unreachable) (PP (IN by) (S (VP (VBG applying) (NP (DT the) (NN theorem))))))))))))) (. .))

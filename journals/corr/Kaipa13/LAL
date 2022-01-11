@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VB obtain) (NP (NP (DT an) (JJ asymptotic) (NN formula)) (PP (IN in) (NP (NN q))) (PP (IN for) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNP MDS) (NNS codes)) (PP (IN of) (NP (NP (NN length) (NN n)) (CC and) (NP (NN dimension) (NN k)))))) (PP (IN over) (NP (NP (DT a) (JJ finite) (NN field)) (PP (IN with) (NP (JJ q) (NNS elements))))))))) (. .))

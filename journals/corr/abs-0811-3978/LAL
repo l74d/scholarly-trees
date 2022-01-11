@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (JJ optimal) (NNS strategies)) (VP (VBP exist) (PP (IN in) (NP (NP (DT every) (NN perfect-information) (JJ stochastic) (NN game)) (PP (IN with) (NP (NP (ADJP (RB finitely) (JJ many)) (NNS states) (CC and) (NNS actions)) (CC and) (NP (DT a) (NN tail) (VBG winning) (NN condition)))))))))) (. .))

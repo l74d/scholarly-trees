@@ -1,0 +1,2 @@
+(S (NP (PRP It)) (VP (VBZ matches) (NP (NP (DT the) (JJ expected) (NN time) (NN bound)) (PP (IN of) (NP (NP (DT the) (ADJP (JJS best) (JJ known)) (JJ randomized) (NN algorithm)) (PP (IN for) (NP (DT this) (NN problem))))))) (. .))
+(S (NP (PRP$ Our) (NN approach)) (VP (NNS relies) (PP (IN on) (NP (NP (NNP Cole) (POS 's)) (JJ improved) (JJ parametric) (NN searching) (NN technique)))) (. .))

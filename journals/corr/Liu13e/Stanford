@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NN applicability)) (PP (IN of) (ADJP (JJ compressed)))) (S (VP (VBG sensing) (NP (NN theory))))) (. .))
+(S (NP (PRP We)) (VP (VBP take) (NP (DT a) (JJ genuine) (NN look)) (PP (IN at) (NP (NP (DT both) (JJ experimental) (NNS results)) (CC and) (NP (JJ theoretical) (NNS works))))) (. .))
+(S (S (NP (PRP We)) (VP (VBP answer) (NP (DT the) (VBG following) (NNS questions)))) (: :) (S (LST (LS 1) (-RRB- -RRB-)) (NP (WP What)) (VP (MD can) (VP (VBN compressed) (S (VP (VBG sensing) (ADVP (RB really)) (S (VP (VB do)))))))) (. ?))
+(PP (LST (LS 2) (-RRB- -RRB-)) (PP (PP (ADVP (RBR More)) (ADVP (RB importantly))) (, ,) (ADVP (WRB why))) (. ?))

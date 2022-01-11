@@ -1,0 +1,6 @@
+(S (NP (NML (NNP McEliece) (CC and) (NNP Niederreiter)) (NNS cryptosystems)) (VP (VBP are) (NP (ADJP (JJ robust) (CC and) (JJ versatile)) (NNS cryptosystems))) (. .))
+(S (NP (DT These) (NNS cryptosystems)) (VP (VBP work) (PP (IN with) (NP (DT any) (JJ linear) (ADJP (NN error) (HYPH -) (VBG correcting)) (NNS codes)))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (ADJP (JJ popular)) (NP-TMP (DT these) (NNS days)) (SBAR (IN because) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (ADJP (NN quantum) (HYPH -) (JJ secure))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (DT the) (NNP Niederreiter) (NN cryptosystem)) (S (VP (VBG using) (NP (JJ quasi-cyclic) (NNS codes))))) (. .))
+(S (NP (PRP We)) (VP (VBP prove) (, ,) (SBAR (IN if) (S (NP (DT these) (JJ quasi-cyclic) (NNS codes)) (VP (VBP satisfy) (NP (JJ certain) (NNS conditions))))) (, ,) (SBAR (S (NP (DT the) (VBG corresponding) (NNP Niederreiter) (NN cryptosystem)) (VP (VBZ is) (ADJP (JJ resistant) (PP (IN to) (NP (DT the) (JJ hidden) (NN subgroup) (NN problem)))) (S (VP (VBG using) (NP (NN quantum) (NN Fourier) (NN sampling)))))))) (. .))
+(S (NP (PRP$ Our) (NN proof)) (VP (VBZ requires) (NP (NP (DT the) (NN classification)) (PP (IN of) (NP (JJ finite) (JJ simple) (NNS groups))))) (. .))

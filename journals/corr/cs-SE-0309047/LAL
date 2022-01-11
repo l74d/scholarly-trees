@@ -1,0 +1,5 @@
+(S (NP (VBG Debugging)) (VP (VBZ is) (ADVP (RB commonly)) (VP (JJ understood) (PP (IN as) (S (VP (NN finding) (CC and) (VBG fixing) (NP (NP (DT the) (NN cause)) (PP (IN of) (NP (DT a) (NN problem))))))))) (. .))
+(SBARQ (CC But) (WHNP (WP what)) (SQ (VBZ does) (`` ``) (NP (VB cause)) ('' '') (VP (NN mean))) (. ?))
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP we)) (VP (VB find) (NP (NNS causes)))) (. ?))
+(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP we)) (VP (VB prove) (SBAR (IN that) (S (NP (DT a) (NN cause)) (VP (VBZ is) (NP (NP (DT a) (NN cause)) (: —) (CC or) (ADVP (RB even)) (NP (`` ``) (DT the) ('' '') (NN cause)))))))) (. ?))
+(S (NP (DT This) (NN paper)) (VP (VP (VBZ defines) (NP (NP (JJ common) (NNS terms)) (PP (IN in) (NP (NN debugging))))) (, ,) (VP (VBZ highlights) (NP (NP (DT the) (NN principal) (NNS techniques)) (, ,) (NP (PRP$ their) (NNS capabilities) (CC and) (NNS limitations))))) (. .))

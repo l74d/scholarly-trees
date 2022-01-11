@@ -1,0 +1,3 @@
+(S (NP (DT This) (NN report)) (VP (VBZ presents) (NP (NP (DT a) (NN solution)) (PP (TO to) (NP (NP (DT the) (NNP Hello) (NNP World) (NN case) (NN study)) (PP (IN of) (NP (NNP TTC) (CD 2011))))) (VP (VBG using) (NP (NNP GROOVE))))) (. .))
+(S (NP (PRP We)) (VP (VBP provide) (CC and) (VBP explain) (NP (NP (DT the) (NN grammar)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD used) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN case) (NN study)))))))))) (. .))
+(S (NP (NP (DT Every) (JJ requested) (NN question)) (PP (IN of) (NP (DT the) (NN case) (NN study)))) (VP (VBD was) (VP (VBN solved) (PP (IN by) (NP (DT a) (JJ single) (NN rule) (NN application))))) (. .))

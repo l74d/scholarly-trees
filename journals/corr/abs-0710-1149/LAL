@@ -1,0 +1,2 @@
+(S (PP (IN As) (PP (IN for) (NP (JJ binary) (CC and) (JJ quaternary) (NN linear) (NNS codes)))) (, ,) (PP (IN for) (NP (DT these) (NNS codes))) (S (NP (DT the) (JJ fundamental) (NNS parameters)) (VP (VBP are) (VP (VBN found)))) (CC and) (S (NP (NP (JJ standard) (NNS forms)) (PP (IN for) (NP (NN generator) (CC and) (NN parity) (NN check) (NNS matrices)))) (VP (VBP are) (VP (VBN given)))) (. .))
+(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (DT the) (JJ dual) (NNS codes)))) (VP (VBP are) (VP (VBN computed))) (. .))

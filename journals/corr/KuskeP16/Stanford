@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT a) (NN trace) (NN monoid)) (VP (VBZ embeds) (PP (IN into) (NP (DT the) (NN queue) (NN monoid))) (SBAR (IN if) (CC and) (RB only) (S (SBAR (IN if) (S (NP (PRP it)))) (VP (VBZ embeds) (PP (IN into) (NP (NP (DT the) (JJ direct) (NN product)) (PP (IN of) (NP (CD two) (JJ free) (NNS monoids)))))))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT a) (JJ decidable) (NN characterization)) (PP (IN of) (NP (DT these) (NN trace) (NNS monoids))))) (. .))

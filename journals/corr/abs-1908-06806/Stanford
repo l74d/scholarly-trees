@@ -1,0 +1,1 @@
+(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NML (PP (PP (ADVP (RB fast)) (ADVP (RB all))) (HYPH -) (NP (NNS pairs)))) (NML (JJS shortest) (NN path)) (NN algorithm)) (PP (IN for) (NP (JJ unweighted) (NNS graphs))))) (. .))

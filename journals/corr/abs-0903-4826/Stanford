@@ -1,0 +1,2 @@
+(S (S (NP (NP (DT A) (JJ new) (NN construction)) (PP (IN of) (NP (NP (NNS codes)) (PP (IN from) (NP (JJ old) (NNS ones)))))) (VP (VBZ is) (VP (VBN considered)))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (DT the) (NML (NN matrix) (HYPH -) (NN product)) (NN construction))))) (. .))
+(S (NP (NP (JJ Several) (JJ linear) (NNS codes)) (SBAR (WHNP (WDT that)) (S (VP (VBP improve) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (DT the) (JJ known) (NNS ones)))))))) (VP (VBP are) (VP (VBN presented))) (. .))

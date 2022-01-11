@@ -1,0 +1,2 @@
+(S (NP (NP (DT The) (JJ standard) (NN classification)) (PP (IN of) (NP (NNS emotions)))) (VP (NNS involves) (S (VP (VBG categorizing) (NP (NP (DT the) (NN expression)) (PP (IN of) (NP (NNS emotions))))))) (. .))
+(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (S (NP (NP (NNS parameters)) (VP (VBG underlying) (NP (DT some) (NNS emotions)))) (VP (VBP are) (VP (VBN identified)))) (CC and) (S (NP (NP (DT a) (JJ new) (NN classification)) (VP (VBN based) (PP (IN on) (NP (DT these) (NNS parameters))))) (VP (VBZ is) (VP (VBN suggested)))) (. .))

@@ -1,0 +1,8 @@
+(S (NP (JJ Traditional) (NNS elections)) (VP (VBP satisfy) (S (NP (CC neither) (NP (NNS citizens)) (CC nor) (NP (JJ political) (NNS authorities)))) (PP (IN in) (NP (JJ recent) (NNS years)))) (. .))
+(S (NP (PRP They)) (VP (VBP are) (RB not) (ADJP (RB fully) (JJ secure) (SBAR (IN since) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ easy) (S (VP (TO to) (VP (VB attack) (NP (NNS votes))))))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ threatens) (ADVP (RB also)) (NP (NP (NN privacy) (CC and) (NN transparency)) (PP (IN of) (NP (NNS voters))))) (. .))
+(S (ADVP (RB Additionally)) (, ,) (NP (PRP it)) (VP (VBZ takes) (NP (ADJP (RB too) (JJ much)) (NN time)) (S (VP (TO to) (VP (VB count) (NP (DT the) (NNS votes)))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (NN solution)) (VP (VBG using) (NP (NNP Blockchain)) (S (VP (TO to) (VP (VB eliminate) (NP (NP (PDT all) (DT the) (NNS disadvantages)) (PP (IN of) (NP (JJ conventional) (NNS elections)))))))))) (. .))
+(S (NP (NP (NML (NN Security) (CC and) (NNS data)) (NN integrity)) (PP (IN of) (NP (NNS votes)))) (VP (VBP are) (ADVP (RB absolutely)) (VP (VBN provided) (ADVP (RB theoretically)))) (. .))
+(S (NP (NNP Voter) (NN privacy)) (VP (VBZ is) (NP (NP (DT another) (NN requirement)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN ensured) (PP (IN in) (NP (DT the) (NN system))))))))) (. .))
+(S (ADVP (RB Lastly)) (, ,) (NP (NP (DT the) (NN waiting) (NN time)) (PP (IN for) (NP (NNS results)))) (VP (VBD decreased) (ADVP (RB significantly)) (PP (IN in) (NP (DT the) (VBN proposed) (NN Blockchain) (NN voting) (NN system)))) (. .))

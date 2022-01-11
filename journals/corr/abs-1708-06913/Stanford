@@ -1,0 +1,4 @@
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP define) (NP (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (CD two) (NNS codewords)))) (CC and) (NP (NP (DT the) (JJ minimum) (NN distance)) (PP (IN of) (NP (PDT such) (DT a) (NN code)))))) (. .))
+(S (ADVP (RB Moreover)) (NP (PRP we)) (VP (VBP relate) (NP (DT these)) (PP (IN to) (NP (NP (JJ binary) (NNS codes)) (VP (VBG using) (NP (NP (DT the) (VBN generalized) (NNP Gray)) (NP (NNS maps))))))) (. .))
+(S (NP (PRP We)) (ADVP (RB then)) (VP (VP (VB determine) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (JJ such) (NNS codes))))) (CC and) (VP (VBP derive) (NP (NP (DT a) (ADJP (JJ minimal) (VBG spanning)) (NN set)) (PP (IN for) (NP (DT that)))))) (. .))
+(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP determine) (NP (NP (DT the) (JJ total) (NN number)) (PP (IN of) (NP (NP (NNS codewords)) (PP (IN in) (NP (DT this) (NN code))))))) (. .))

@@ -1,0 +1,4 @@
+(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NNS observations)) (PP (IN about) (NP (NP (NN power) (NN consumption)) (PP (IN of) (NP (DT a) (JJS latest) (NN smartphone)))))) (. .))
+(S (NP (JJ Modern) (NNS smartphones)) (VP (VBP are) (NP (NP (JJ powerful) (NNS devices)) (PP (IN with) (NP (NP (JJ different) (NNS choices)) (PP (IN of) (NP (NP (NNS data) (NNS connections)) (CC and) (NP (JJ other) (JJ functional) (NNS modes)))))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (NN analysis)) (PP (IN of) (NP (NML (NML (NN power) (NN utilization)) (PP (IN for) (NP (DT these) (JJ different) (NN operation)))) (NNS modes))))) (. .))
+(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NN power) (NN consumption)) (PP (IN by) (NP (JJ vital) (NML (NN operating) (NN system) (PRN (-LRB- -LRB-) (NP (NN OS)) (-RRB- -RRB-))) (NNS components)))) (. .))

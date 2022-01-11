@@ -1,0 +1,3 @@
+(S (NP (PRP We)) (VP (VBP build) (NP (DT a) (NN model)) (PP (IN in) (NP (NP (NP (JJ nominal) (NNS sets)) (PP (IN for) (NP (NNP TST+)))) (: ;) (NP (NP (VBD typed) (VB set) (NN theory)) (PP (IN with) (NP (JJ typical) (NN ambiguity))))))) (. .))
+(S (NP (PRP It)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (ADJP (JJ equivalent) (PP (TO to) (NP (NP (DT the) (NN consistency)) (PP (IN of) (NP (NP (NNP Quine) (POS 's)) (NNP New) (NNP Foundations))))))))))) (. .))
+(S (NP (JJ Nominal) (NNS techniques)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VP (VB constrain) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NNS powersets))))) (CC and) (ADVP (RB thus)) (VP (VB model) (NP (JJ typical) (NN ambiguity)))))))) (. .))

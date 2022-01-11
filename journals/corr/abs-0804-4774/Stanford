@@ -1,0 +1,4 @@
+(S (PP (IN In) (NP (CD 1998))) (, ,) (NP (NNP Zhang) (CC and) (NNP Yeung)) (VP (VBD found) (NP (DT the) (JJ first) (ADJP (JJ unconditional) (JJ non-Shannon-type)) (NN information) (NN inequality))) (. .))
+(S (ADVP (RB Recently)) (, ,) (NP (NNP Dougherty) (, ,) (NNP Freiling) (CC and) (NNP Zeger)) (VP (VBD gave) (NP (CD six) (JJ new) (ADJP (JJ unconditional) (JJ non-Shannon-type)) (NN information) (NNS inequalities))) (. .))
+(S (NP (DT This) (NN work)) (VP (VP (VBZ generalizes) (NP (PRP$ their) (NN work))) (CC and) (VP (VBZ provides) (NP (DT a) (NN method)) (S (VP (TO to) (ADVP (RB systematically)) (VP (VB derive) (NP (JJ non-Shannon-type) (NN information) (NNS inequalities))))))) (. .))
+(S (NP (NP (DT An) (NN application)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ reveals) (NP (JJ new) (NML (NML (CD 4)) (HYPH -) (NML (ADJP (JJ variable) (JJ non-Shannon-type)) (NN information))) (NNS inequalities))) (. .))

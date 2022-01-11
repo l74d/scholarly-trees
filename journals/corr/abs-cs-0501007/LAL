@@ -1,0 +1,2 @@
+(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN refinement) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB generate) (NP (JJ size-optimal) (JJ quality-guaranteed) (NNP Delaunay) (NNS triangulations)) (PP (IN in) (NP (DT the) (NN plane))))))))) (. .))
+(S (NP (DT This)) (VP (VBZ is) (NP (DT the) (JJ first) (JJ time-optimal) (NNP Delaunay) (NN refinement) (NN algorithm))) (. .))

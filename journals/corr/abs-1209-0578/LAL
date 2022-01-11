@@ -1,0 +1,5 @@
+(S (NP (NNP Social) (NN network) (NN management) (NNS interfaces)) (VP (MD should) (VP (VB consider) (NP (NP (NP (NN separation)) (PP (IN of) (NP (NN contexts)))) (CC and) (NP (JJ tie) (NN strength))))) (. .))
+(S (NP (DT This) (NN paper)) (VP (VBZ shows) (NP (NP (DT the) (NN design) (NN process)) (PP (IN upon) (S (VP (VBG building) (NP (NP (DT the) (NNP Social) (NNP Cheesecake)) (, ,) (NP (NP (DT an) (NN interface)) (SBAR (WHNP (WDT that)) (S (VP (VBZ addresses) (NP (DT both) (NNS issues)))))))))))) (. .))
+(S (NP (NNP Paper) (CC and) (JJ screen) (NN prototyping)) (VP (VBD were) (VP (VBN used) (PP (IN in) (NP (DT the) (NN design) (NN process))))) (. .))
+(S (NP (NNP Paper) (NN prototype) (NNS interactions)) (VP (VBD helped) (S (VP (TO to) (VP (VB explore) (NP (NP (DT the) (NNS metaphors)) (PP (IN in) (NP (DT the) (NN domain))))))) (, ,) (SBAR (IN while) (S (NP (JJ screen) (NN prototype)) (VP (VBD consolidated) (NP (DT the) (NN model)))))) (. .))
+(S (NP (DT The) (NN prototype)) (VP (VBD was) (ADVP (RB finally)) (VP (VBN built) (S (VP (VBG using) (NP (NNP HTML5) (CC and) (NNP Javascript)))))) (. .))

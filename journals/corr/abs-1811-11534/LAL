@@ -1,0 +1,5 @@
+(S (SBAR (IN As) (S (NP (PRP you)) (VP (VBP read) (NP (DT these) (NNS words))))) (NP (PRP you)) (VP (VBP are) (VP (VBG using) (NP (DT a) (JJ complex) (JJ biological) (JJ neural) (NN network)))) (. .))
+(S (NP (PRP You)) (VP (VBP have) (NP (NP (NP (DT a) (ADJP (RB highly) (JJ interconnected)) (NN set)) (PP (IN of) (NP (DT some) (NNS neurons)))) (SBAR (S (VP (TO to) (VP (VB facilitate) (NP (PRP$ your) (NN reading) (, ,) (NN breathing) (, ,) (NN motion) (CC and) (NN thinking)))))))) (. .))
+(S (NP (NP (NP (DT Each)) (PP (IN of) (NP (PRP$ your) (JJ biological) (NNS neurons)))) (, ,) (NP (NP (DT a) (JJ rich) (NN assembly)) (PP (IN of) (NP (NN tissue) (CC and) (NN chemistry)))) (, ,)) (VP (VBZ has) (NP (NP (DT the) (NN complexity)) (, ,) (CONJP (IN if) (RB not)) (NP (DT the) (NN speed)) (, ,) (PP (IN of) (NP (DT a) (NN microprocessor))))) (. .))
+(S (NP (NP (DT Some)) (PP (IN of) (NP (PRP$ your) (JJ neural) (NN structure)))) (VP (VBD was) (PP (IN with) (NP (PRP you))) (PP (IN at) (NP (NN birth)))) (. .))
+(S (NP (JJ Other) (NNS parts)) (VP (VBP have) (VP (VBN been) (VP (VBN established) (PP (IN by) (NP (NN experience)))))) (. .))

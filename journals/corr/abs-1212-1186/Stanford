@@ -1,0 +1,3 @@
+(S (ADVP (RB Furthermore)) (, ,) (NP (DT the) (NN staircase) (NN mechanism)) (ADVP (RB naturally)) (VP (VBZ generalizes) (PP (IN to) (NP (NP (JJ discrete) (NN query) (NN output) (NNS settings)) (CONJP (RB as) (RB well) (IN as)) (NP (JJR more) (JJ abstract) (NNS settings))))) (. .))
+(S (NP (PRP We)) (ADVP (RB explicitly)) (VP (VBP derive) (NP (DT the) (JJ optimal) (NN noise) (NN probability) (NNS distributions)) (PP (IN with) (NP (NP (JJ minimum) (NN expectation)) (PP (IN of) (NP (NN noise) (NN amplitude) (CC and) (NN power)))))) (. .))
+(S (NP (PRP We)) (VP (VBP conclude) (SBAR (IN that) (S (NP (DT the) (NNS gains)) (VP (VBP are) (ADJP (ADJP (RBR more) (JJ pronounced)) (PP (IN in) (NP (DT the) (JJ low) (NN privacy) (NN regime)))))))) (. .))

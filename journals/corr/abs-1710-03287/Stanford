@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (S (NP (JJ memoryless)) (ADJP (NP (CD one) (HYPH -) (NN bit)) (JJ compressed)) (S (VP (VBG sensing) (PP (IN with) (NP (ADJP (RB randomly) (JJ subsampled)) (JJ Gaussian) (NN circulant) (NNS matrices))))))) (. .))

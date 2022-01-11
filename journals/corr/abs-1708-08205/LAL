@@ -1,0 +1,4 @@
+(S (NP (NNP Scientific) (NN code)) (VP (VBZ is) (RB not) (NP (NN production) (NN software))) (. .))
+(S (NP (NNP Scientific) (NN code)) (VP (NNS participates) (PP (IN in) (NP (NP (DT the) (NN evaluation)) (PP (IN of) (NP (DT a) (JJ scientific) (NN hypothesis)))))) (. .))
+(S (NP (DT This)) (VP (VBZ imposes) (NP (NP (JJ specific) (NNS constraints))) (PP (IN on) (NP (DT the) (NN code))) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB often)) (VP (VBN overlooked) (PP (IN in) (NP (NN practice)))))))) (. .))
+(S (NP (PRP We)) (VP (VBP articulate) (, ,) (PP (IN with) (NP (DT a) (JJ small) (NN example))) (, ,) (NP (NP (NP (CD five) (NNS characteristics)) (SBAR (WHNP (IN that)) (S (NP (NP (DT a) (JJ scientific) (NN code)) (PP (IN in) (NP (JJ computational) (NN science)))) (VP (MD should) (VP (VB possess)))))) (: :) (ADJP (JJ re-runnable) (, ,) (JJ repeatable) (, ,) (JJ reproducible) (, ,) (JJ reusable) (CC and) (JJ replicable)))) (. .))
