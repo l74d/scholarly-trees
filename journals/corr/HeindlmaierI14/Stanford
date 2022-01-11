@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (NML (NNP Quantize) (CC &) (NNP Forward) (-LRB- -LRB-) (NNP QF) (-RRB- -RRB-)) (NN scheme)) (PP (IN for) (NP (NP (CD two) (HYPH -) (NN way)) (VP (VBG relaying))))) (VP (VBZ is) (VP (VBN studied) (PP (IN with) (NP (NP (DT a) (NN focus)) (PP (IN on) (NP (PRP$ its) (NML (NN rate) (HYPH -) (NN distortion)) (NNS properties))))))) (. .))
-(S (S (NP (DT A) (NML (NN sum) (NN rate)) (NN maximization) (NN problem)) (VP (VBZ is) (VP (VBN formulated)))) (CC and) (S (NP (DT the) (VBN associated) (NN quantizer) (NN optimization) (NN problem)) (VP (VBZ is) (VP (VBN investigated)))) (. .))
-(S (NP (NP (DT An) (NN algorithm)) (PP (IN to) (S (ADVP (RB approximately)) (VP (VB solve) (NP (DT the) (NN problem)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (PP (IN Under) (NP (JJ certain) (NNS cases))) (VP (VBP scalar) (S (NP (NNS quantizers)) (VP (VB maximize) (NP (DT the) (NN sum) (NN rate))))) (. .))

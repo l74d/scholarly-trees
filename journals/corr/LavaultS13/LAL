@@ -1,2 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NP (NNP Sorenson) (POS 's)) (CC and) (NP (NNP Jebelean) (POS 's))) (`` ``) ($ $) (VB k) ($ $) (JJ -ary) (NN reduction) ('' '') (NN algorithms))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (NN formula)) (PP (IN for) (NP (NP ($ $) (NNP N) (PRN (-LRB- -LRB-) (NN k) (-RRB- -RRB-)) ($ $)) (, ,) (NP (NP (DT the) (JJ maximal) (NN number)) (PP (IN of) (NP (NP (NNS iterations)) (PP (IN in) (NP (NP (DT the) (NN loop)) (PP (IN of) (NP (NP (NNP Weber) (POS 's)) (NNP GCD) (NN algorithm)))))))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (NNP Quantum) (NNS models)) (VP (MD can) (VP (VB be) (ADJP (JJR smaller)) (ADVP (RB still)))) (. .))
-(S (NP (NNP Quantum) (NN memory) (NN optimization)) (ADVP (RB then)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WDT which)) (S (NP (NP (NN memory) (NN measure)) (NP (JJS best))) (VP (VBZ matches) (NP (DT a) (VBN given) (NN problem) (NN circumstance))))))) (. .))

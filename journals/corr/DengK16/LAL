@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (ADVP (RB experimentally)) (VBP demonstrate) (NP (NP (DT a) (JJ software-defined) (CD 2x2) (NNP MIMO) (NNP VLC) (NN system)) (VP (VBG employing) (NP (NP (JJ link) (NN adaptation)) (PP (IN of) (NP (NP (JJ spatial) (NN multiplexing)) (CC and) (NP (NN diversity)))))))) (. .))
-(S (NP (NP (DT The) (JJ average) (JJ error-free) (JJ spectral) (NN efficiency)) (PP (IN of) (NP (CD 12) (NN b/s/Hz)))) (VP (VBZ is) (VP (VBN achieved) (PP (IN over) (NP (ADJP (CD 2) (NNS meters)) (JJ indoor) (NN transmission))) (PP (IN after) (NP (DT an) (NN obstruction))))) (. .))

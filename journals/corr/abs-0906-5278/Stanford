@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP compute) (NP (NP (DT the) (NNP Fourier) (NN spectrum)) (PP (IN of) (NP (DT the) (NNP Fractal) (NNP Interpolation) (NNPS Functions) (NNP FIFs)))) (SBAR (IN as) (S (VP (VBN introduced) (PP (IN by) (NP (NNP Michael) (NNP Barnsley))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT an) (JJ analytical) (NN way)) (PP (IN to) (S (VP (VB compute) (NP (PRP them)))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP attempt) (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (JJ inverse) (NN problem)) (PP (IN of) (NP (NNP FIF)))) (PP (IN by) (S (VP (VBG using) (NP (DT the) (NN spectrum))))))))))

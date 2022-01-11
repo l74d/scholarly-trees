@@ -1,2 +1,0 @@
-(S (NP (NP (JJ Orthogonal) (NNP Matching) (NNP Pursuit)) (PRN (-LRB- -LRB-) (NP (NNP OMP)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (JJ canonical) (NN greedy) (NN pursuit) (NN algorithm)) (PP (IN for) (NP (JJ sparse) (NN approximation))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN demonstrated) (SBAR (IN that) (S (NP (DT the) (JJ sufficient) (NN condition)) (VP (VBZ is) (ADJP (RB rather) (JJ tight))))) (PP (IN by) (S (VP (VBG constructing) (NP (DT an) (NN example))))))) (. .))

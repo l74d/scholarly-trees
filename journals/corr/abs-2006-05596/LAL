@@ -1,5 +1,0 @@
-(S (NP (NNP Speaker) (NNP Diarization)) (VP (VBZ is) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG separating) (NP (NP (NNS speakers)) (PP (IN in) (NP (DT an) (NN audio))))))))) (. .))
-(S (S (NP (EX There)) (VP (MD could) (VP (VB be) (NP (NP (DT any) (NN number)) (PP (IN of) (NP (NNS speakers))))))) (CC and) (S (NP (JJ final) (NN result)) (VP (MD should) (VP (NN state) (SBAR (WHADVP (WRB when)) (S (NP (NN speaker)) (VP (VBZ starts) (CC and) (VBZ ends))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN project))) (, ,) (NP (PRP we)) (VP (VBP analyze) (NP (NP (VBN given) (JJ audio) (NN file)) (PP (IN with) (NP (NP (CD 2) (NNS channels)) (CC and) (NP (NP (CD 2) (NNS speakers)) (PRN (-LRB- -LRB-) (PP (IN on) (NP (JJ separate) (NN channel))) (-RRB- -RRB-))))))) (. .))
-(S (NP (PRP We)) (VP (VBP train) (NP (JJ Neural) (NNP Network)) (PP (IN for) (S (VP (VBG learning) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN person)) (VP (VBZ is) (VP (VBG speaking))))))))) (. .))
-(S (NP (NP (DT The) (NN code)) (PP (IN for) (NP (DT this) (NN project)))) (VP (VBZ is) (ADJP (JJ available)) (PP (IN at) (NP (DT this) (NN https) (NNP URL)))))

@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT an) (NN algorithm)) (S (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (NN topology)) (PP (IN of) (NP (NP (DT an) (VBN embedded) (JJ metric) (NN graph)) (PP (IN from) (NP (NP (DT a) (ADJP (RB well) (HYPH -) (VBN sampled)) (JJ finite) (NN subset)) (PP (IN of) (NP (DT the) (JJ underlying) (NN graph)))))))))))) (. .))

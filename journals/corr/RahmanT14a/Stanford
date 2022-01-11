@@ -1,4 +1,0 @@
-(S (NP (NN Ensemble) (NN classifier)) (VP (VBZ refers) (PP (IN to) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (JJ individual) (NNS classifiers)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB cooperatively)) (VP (VBN trained) (PP (IN on) (NP (NP (NNS data)) (VP (VBN set) (PP (IN in) (NP (DT a) (JJ supervised) (NN classification) (NN problem))))))))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN review)) (PP (IN of) (NP (NP (ADJP (RB commonly) (VBN used)) (NN ensemble) (NNS classifiers)) (PP (IN in) (NP (DT the) (NN literature))))))) (. .))
-(S (NP (DT Some) (NN ensemble) (NNS classifiers)) (VP (VBP are) (ADVP (RB also)) (VP (VBN developed) (NP (NN targeting) (JJ specific) (NNS applications)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP present) (NP (NP (DT some) (ADJP (NN application) (VBN driven)) (NN ensemble) (NNS classifiers)) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

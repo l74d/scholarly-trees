@@ -1,8 +1,0 @@
-(S (NP (NNP Point) (NNS sets) (VBG matching) (NN method)) (VP (VBZ is) (ADJP (RB very) (JJ important)) (PP (IN in) (NP (NP (NN computer) (NN vision)) (, ,) (NP (NN feature) (NN extraction)) (, ,) (NP (NN fingerprint) (NN matching)) (, ,) (NP (NN motion) (NN estimation)) (CC and) (ADVP (RB so) (IN on))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (DT a) (JJ robust) (NN point) (NNS sets) (VBG matching) (NN method))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ iterative) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ robust) (PP (TO to) (NP (VB noise) (NN case))))))))) (. .))
-(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP calculate) (NP (NP (DT all) (NNS transformations)) (PP (IN between) (NP (CD two) (NNS points))))) (. .))
-(S (ADVP (RB Then)) (NP (NN similarity) (NNS matrix)) (VP (VBP are) (VP (VBN computed) (S (VP (TO to) (VP (VB measure) (NP (DT the) (NN possibility) (SBAR (WDT that) (S (NP (CD two) (NN transformation)) (VP (VBP are) (ADVP (DT both)) (ADJP (JJ true))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB iteratively)) (VP (VBP update) (NP (DT the) (VBG matching) (NN score) (NN matrix)) (PP (IN by) (S (VP (VBG using) (NP (DT the) (NN similarity) (NN matrix)))))) (. .))
-(S (PP (IN By) (S (VP (VBG using) (NP (VBG matching) (NN algorithm)) (PP (IN on) (NP (NN graph)))))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (DT the) (JJ matching) (NN result))) (. .))
-(S (NP (NP (JJ Experimental) (NNS results)) (VP (VBN obtained) (PP (IN by) (NP (PRP$ our) (NN approach))))) (VP (NN show) (NP (NP (NN robustness)) (PP (TO to) (NP (JJR outlier) (CC and) (NN jitter))))) (. .))

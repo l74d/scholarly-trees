@@ -1,4 +1,0 @@
-(S (NP (NNP Fast) (NN wireless) (NN access)) (VP (VBZ has) (ADVP (RB rapidly)) (VP (VBN become) (ADJP (NN commonplace)))) (. .))
-(S (NP (NP (NNP Wireless) (NN access) (NNS points)) (CC and) (NP (NNP Hotspot) (NNS servers))) (VP (VBP are) (VP (VBG sprouting) (ADVP (RB everywhere)))) (. .))
-(S (NP (NNP Battery) (NN lifetime)) (VP (VBZ continues) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ critical) (NN issue)) (PP (IN in) (NP (JJ mobile) (NN computing))))))) (. .))
-(S (NP (DT This) (NN paper)) (ADVP (RB first)) (VP (VBZ gives) (NP (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NNP WLAN) (NN energy) (VBG saving) (NNS strategies)))) (, ,) (VP (VBN followed) (PP (IN by) (NP (NP (DT an) (NN illustration)) (PP (IN of) (NP (NP (DT a) (JJ system-level) (NN methodology)) (PP (IN for) (S (VP (VBG saving) (NP (NN power)) (PP (IN in) (NP (JJ heterogeneous) (NN wireless) (NNS environments))))))))))))) (. .))

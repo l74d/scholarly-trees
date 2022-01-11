@@ -1,1 +1,0 @@
-(UCP (S (NP (PRP We)) (VP (VBP develop) (NP (DT a) (NN pseudo-random) (NN generator)) (S (VP (TO to) (VP (VB fool) (NP (NN degree))))))) (, -) (FRAG (NP ($ $)) (SBAR (LST (LS d)) (S (NP (NP ($ $)) (NP (JJ polynomial) (NN threshold))) (VP (VBZ functions) (PP (IN with) (NP (NN respect))) (PP (IN to) (NP (DT the) (JJ Gaussian) (NN distribution))))))) (. .))

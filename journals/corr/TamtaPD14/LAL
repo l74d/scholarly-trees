@@ -1,4 +1,0 @@
-(S (NP (NP (NNP Maximum) (NNP Flow) (NNP Network) (NNP Interdiction) (NNP Problem)) (PRN (-LRB- -LRB-) (NP (NNP MFNIP)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (NP (ADJP (RB strongly) (NNP NP-hard)) (NN problem))))))) (. .))
-(S (NP (PRP We)) (VP (VBP solve) (NP (NP (DT a) (JJ simple) (NN form)) (PP (IN of) (NP (NNP MFNIP)))) (PP (IN in) (NP (JJ polynomial) (NN time)))) (. .))
-(S (NP (PRP We)) (VP (VBP review) (NP (NP (DT the) (NN reduction)) (PP (IN of) (NP (NNP MFNIP))) (PP (IN from) (NP (DT the) (NN clique) (NN problem))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ polynomial) (NN time) (NN solution)) (PP (TO to) (NP (DT the) (NNP Clique) (NNP Problem))))) (. .))

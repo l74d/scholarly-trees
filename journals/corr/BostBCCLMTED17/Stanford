@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NNS systems)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NNP LIA)) (VP (VBZ has) (VP (VBN used) (PP (IN in) (NP (NNP DEFT) (CD 2013))))))))) (. .))
-(S (NP (PRP$ Our) (NNS systems)) (VP (VBP show) (NP (JJ interesting) (NNS results)) (, ,) (SBAR (ADVP (RB even)) (IN though) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS tasks)))))) (. .))

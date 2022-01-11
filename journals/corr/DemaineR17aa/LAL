@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN problem)) (VP (VBD was) (VP (VBN shown) (S (ADJP (NNP NP-complete))) (PP (IN in) (NP (NP (NNP Ratner) (CC and) (NNP Warmuth)) (PRN (-LRB- -LRB-) (NP (CD 1990)) (-RRB- -RRB-)))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT an) (JJ alternative) (NN simpler) (NN proof)) (PP (IN of) (NP (DT this) (NN fact)))) (PP (IN by) (NP (NP (NN reduction)) (PP (IN from) (NP (DT the) (JJ rectilinear) (NNP Steiner) (NN tree) (NN problem)))))) (. .))

@@ -1,1 +1,0 @@
-(S (VP (VB Use) (NP (NP (DT a) (JJ parametric) (NN representation)) (PP (IN of) (NP (NN audio)))) (S (VP (TO to) (VP (VB train) (NP (DT a) (JJ generative) (NN model)) (PP (IN in) (NP (NP (DT the) (NN interest)) (PP (IN of) (S (VP (VBG obtaining) (NP (NP (ADJP (RBR more) (JJ flexible)) (NN control)) (PP (IN over) (NP (DT the) (VBN generated) (NN sound))))))))))))) (. .))

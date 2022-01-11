@@ -1,5 +1,0 @@
-(S (NP (NP (DT The) (ADJP (RB locally) (JJ repairable)) (NNS codes)) (-LRB- -LRB-) (NP (NNS LRCs)) (-RRB- -RRB-)) (VP (VBD were) (VP (VBN introduced) (S (VP (TO to) (VP (VB correct) (NP (NNS erasures)) (ADVP (RB efficiently) (PP (IN in) (NP (VBN distributed) (NN storage) (NNS systems))))))))) (. .))
-(S (NP (NNS LRCs)) (VP (VBP are) (ADVP (RB extensively)) (VP (VBN studied) (ADVP (RB recently)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (DT an) (JJ explicit) (NN construction)) (PP (IN for) (NP (NP (NNS LRCs)) (VP (VBG attaining) (NP (NP (DT this)) (VP (VBN bound))))))) (. .))
-(S (ADVP (RB Secondly)) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NNS constructions)) (PP (IN of) (NP (NNS LRCs)))) (PP (IN with) (NP (NP (DT any) (NN locality) (CC and) (NN availability)) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (NP (JJ high) (NN code) (NN rate)) (CC and) (NP (JJ minimum) (NN distance))) (SBAR (IN as) (FRAG (ADJP (JJ large) (PP (IN as) (ADJP (JJ possible)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ graphical) (NN model)) (PP (IN for) (NP (NNS LRCs))))) (. .))

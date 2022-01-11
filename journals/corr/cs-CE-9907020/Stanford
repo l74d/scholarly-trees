@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (JJ principal) (JJ innovative) (NN idea)) (PP (IN in) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB transform) (NP (NP (DT the) (JJ original) (JJ complex) (JJ nonlinear) (NN modeling) (NN problem)) (PP (IN into) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (JJ linear) (NN problem)) (CC and) (NP (ADJP (RB very) (JJ simple)) (JJ nonlinear) (NNS problems))))))))))) (. .))
-(S (NP (DT The) (JJ key) (NN step)) (VP (VBZ is) (NP (NP (DT the) (VBN generalized) (NN linearization)) (PP (IN of) (NP (JJ nonlinear) (NNS terms))))) (. .))
-(S (NP (DT This) (NN paper)) (ADVP (RB only)) (VP (VBZ presents) (NP (NP (DT the) (JJ introductory) (NN strategy)) (PP (IN of) (NP (DT this) (NN methodology))))) (. .))
-(S (NP (DT The) (JJ practical) (JJ numerical) (NNS experiments)) (VP (MD will) (VP (VB be) (VP (VBN provided) (ADVP (RB subsequently))))) (. .))

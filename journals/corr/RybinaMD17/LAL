@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ discusses) (NP (NP (ADJP (JJ scientific) (CC and) (JJ technological)) (NNS problems)) (PP (IN of) (NP (JJ dynamic) (JJ integrated) (JJ expert) (NNS systems) (NN development))))) (. .))
-(S (NP (NP (NNS Extensions)) (PP (IN of) (NP (NP (JJ problem-oriented) (NN methodology)) (PP (IN for) (NP (JJ dynamic) (JJ integrated) (JJ expert) (NNS systems) (NN development)))))) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (NP (NN Attention)) (VP (VBZ is) (VP (VBN paid) (PP (TO to) (NP (DT the) (JJ temporal) (NN knowledge) (NN representation) (CC and) (NN processing))))) (. .))

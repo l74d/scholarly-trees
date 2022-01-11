@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (NP (JJ delay) (NN test)) (PP (IN for) (NP (NP (NNP SOC) (NNS devices)) (PP (IN with) (NP (JJ high) (NN frequency) (NN clock) (NNS domains))))))) (. .))
-(S (NP (NP (DT A) (JJ logic) (NN design)) (PP (IN for) (NP (JJ on-chip) (JJ high-speed) (NN clock) (NN generation))) (, ,) (VP (VBN implemented) (S (VP (TO to) (VP (VB avoid) (NP (JJ expensive) (NN test) (NN equipment)))))) (, ,)) (VP (VBZ is) (VP (VBN described) (PP (IN in) (NP (NN detail))))) (. .))
-(S (NP (NP (NNS Techniques)) (PP (IN for) (NP (JJ on-chip) (NN clock) (NN generation))) (, ,) (VP (NN meant) (S (VP (VP (TO to) (VP (VB reduce) (NP (NN test) (NN vector) (NN count)))) (CC and) (VP (TO to) (VP (VB increase) (NP (NN test) (NN quality))))))) (, ,)) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (NP (NP (NNP ATPG) (NNS results)) (PP (IN for) (NP (DT the) (VBN proposed) (NNS techniques)))) (VP (VBP are) (VP (VBN given))) (. .))

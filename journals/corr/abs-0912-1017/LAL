@@ -1,5 +1,0 @@
-(S (NP (DT A) (NN fingerprint) (NN matching)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ difficult)) (NN problem))) (. .))
-(S (NP (NNP Minutiae) (VBN based) (NN matching)) (VP (VBZ is) (NP (NP (DT the) (ADJP (ADJP (RBS most) (JJ popular)) (CC and) (ADJP (RB widely) (VBN used))) (NN technique)) (PP (IN for) (NP (NN fingerprint) (NN matching))))) (. .))
-(S (NP (NP (DT The) (NN minutiae) (NNS points)) (VP (VBN considered) (PP (IN in) (NP (JJ automatic) (NN identification) (NNS systems))))) (VP (VBP are) (VP (VBN based) (ADVP (RB normally)) (PP (IN on) (NP (NN termination) (CC and) (NN bifurcation) (NNS points))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN technique)) (PP (IN for) (NP (NN fingerprint) (VBG matching))) (VP (VBG using) (NP (NP (JJ minutiae) (NNS points)) (CC and) (NP (JJ genetic) (NN programming)))))) (. .))
-(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (VP (VBG extracting) (NP (NP (DT the) (JJ mathematical) (NN formula)) (SBAR (WHNP (WDT that)) (S (VP (VBZ defines) (NP (DT the) (NN minutiae) (NNS points)))))))) (. .))

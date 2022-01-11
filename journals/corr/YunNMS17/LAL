@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (JJ contextual) (JJ multi-armed) (NN bandit) (NNS problems)) (PP (IN under) (NP (NP (NP (JJ linear) (NN realizability)) (PP (IN on) (NP (NNS rewards)))) (CC and) (NP (NP (NN uncertainty)) (PRN (-LRB- -LRB-) (CC or) (NP (RB noise)) (-RRB- -RRB-)) (PP (IN on) (NP (NNS features))))))) (. .))

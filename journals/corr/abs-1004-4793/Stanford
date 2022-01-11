@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (JJ logical) (NN approach)) (PP (IN to) (NP (NP (NN object) (NN recognition)) (PP (IN on) (NP (NN image)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (NP (DT The) (JJ main) (NN idea)) (PP (IN of) (NP (DT the) (NN approach)))) (VP (VBZ is) (S (VP (TO to) (VP (VB perform) (NP (DT the) (NN object) (NN recognition)) (PP (IN as) (NP (NP (DT a) (JJ logical) (NN inference)) (PP (IN on) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS rules)) (VP (VBG describing) (NP (DT an) (NN object) (NN shape))))))))))))) (. .))

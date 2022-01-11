@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (ADVP (RB here)) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS approaches)) (SBAR (S (VP (TO to) (VP (VB implement) (NP (NN constraint) (NN propagation)) (PP (IN for) (NP (NP (JJ arithmetic) (NNS constraints)) (PP (IN on) (NP (NN integer) (NNS intervals))))))))))))) (. .))
-(S (PP (TO To) (NP (DT this) (NN end))) (NP (PRP we)) (VP (VBP introduce) (NP (JJ integer) (JJ interval) (NN arithmetic))) (. .))
-(S (NP (DT Each) (NN approach)) (VP (VBZ is) (VP (VBN explained) (S (VP (VBG using) (NP (NP (JJ appropriate) (NN proof) (NNS rules)) (SBAR (WHNP (WDT that)) (S (VP (VB reduce) (NP (DT the) (JJ variable) (NNS domains)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP compare) (NP (DT these) (NNS approaches)) (S (VP (VBG using) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS benchmarks))))))) (. .))

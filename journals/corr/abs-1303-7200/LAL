@@ -1,6 +1,0 @@
-(S (NP (JJ Physical) (NN symbol) (NNS systems)) (VP (VBP are) (VP (VBN needed) (PP (IN for) (NP (JJ open-ended) (NN cognition))))) (. .))
-(S (NP (NP (DT A) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB understand) (NP (JJ physical) (NN symbol) (NNS systems))))))) (VP (VBZ is) (PP (IN by) (NP (NP (NN comparison)) (PP (IN of) (NP (NN thought))) (PP (TO to) (NP (VB chemistry)))))) (. .))
-(S (NP (DT Both)) (VP (VBP have) (NP (NN systematicity) (, ,) (NN productivity) (CC and) (NN compositionality))) (. .))
-(S (NP (NP (DT The) (NN state)) (PP (IN of) (NP (DT the) (NN art))) (PP (IN in) (NP (NP (JJ cognitive) (NNS architectures)) (PP (IN for) (NP (JJ open-ended) (NN cognition)))))) (VP (VBZ is) (VP (ADVP (RB critically)) (VBN assessed))) (. .))
-(S (NP (PRP I)) (VP (VBP conclude) (SBAR (IN that) (S (NP (NP (DT a) (JJ cognitive) (NN architecture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ evolves) (NP (NN symbol) (NNS structures)) (PP (IN in) (NP (DT the) (NN brain))))))) (VP (VBZ is) (NP (NP (DT a) (JJ promising) (NN candidate)) (SBAR (S (VP (TO to) (VP (VB explain) (NP (JJ open-ended) (NN cognition))))))))))) (. .))
-(S (NP (NP (NN Part) (CD 2)) (PP (IN of) (NP (DT the) (NN paper)))) (VP (NNS presents) (NP (JJ such) (DT a) (JJ cognitive) (NN architecture))) (. .))

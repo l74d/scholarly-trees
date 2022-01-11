@@ -1,3 +1,0 @@
-(S (NP (NP (NN Research)) (PP (IN on) (NP (NP (JJ refinable) (NNS functions)) (PP (IN in) (NP (NN wavelet) (NN theory)))))) (VP (VBZ is) (ADVP (RB mostly)) (VP (VBN focused) (PP (IN to) (NP (VBN localized) (NNS functions))))) (. .))
-(S (S (ADVP (RB However)) (NP (PRP it)) (VP (VBZ is) (VP (VBN known)))) (, ,) (NP (DT that) (JJ polynomial) (NNS functions)) (VP (VBP are) (ADJP (JJ refinable)) (, ,) (ADVP (RB too))) (. .))
-(S (PP (IN In) (NP (PRP$ our) (NN paper))) (NP (PRP we)) (VP (VBP investigate) (PP (IN on) (NP (NP (NNS conversions)) (PP (IN between) (NP (NP (NN refinement) (NNS masks) (CC and) (NNS polynomials)) (CC and) (NP (PRP$ their) (NN uniqueness))))))) (. .))

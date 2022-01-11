@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP model) (NP (NP (DT the) (NN coexistence)) (PP (IN of) (NP (NN DSRC) (CC and) (NN WiFi) (NNS networks)))) (PP (IN as) (NP (NP (DT a) (JJ strategic) (NN form) (NN game)) (PP (IN with) (NP (NP (DT the) (NNS networks)) (PP (IN as) (NP (DT the) (NNS players)))))))) (. .))
-(S (NP (NP (NNS Nodes)) (PP (IN in) (NP (DT a) (NNP DSRC) (NN network)))) (VP (MD must) (VP (VB support) (NP (NP (NML (NML (NN messaging)) (PP (IN of) (NP (NN status)))) (NNS updates)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (NN time) (JJ sensitive)))))))) (. .))
-(S (NP (JJ Such) (NNS nodes)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB achieve) (NP (NP (DT a) (JJ small) (NN age)) (PP (IN of) (NP (NP (NN information)) (PP (IN of) (NP (NN status) (NNS updates))))))))))) (. .))
-(S (PP (IN In) (NP (NN contrast))) (, ,) (NP (NP (NNS nodes)) (PP (IN in) (NP (DT a) (NN WiFi) (NN network)))) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB achieve) (NP (JJ large) (NNS throughputs))))))) (. .))
-(S (NP (DT Each) (NN network)) (VP (VBZ chooses) (NP (DT a) (NML (JJ medium) (NN access)) (NN probability)) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN by) (NP (PDT all) (PRP$ its) (NNS nodes)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (NNP Nash)) (CC and) (NP (NNP Stackelberg) (NN equilibrium) (NNS strategies)))) (. .))

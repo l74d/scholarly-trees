@@ -1,1 +1,0 @@
-(S (NP (NP (CD Two) (JJ simple) (NN proofs)) (PP (IN of) (NP (NP (DT the) (NN triangle) (NN inequality)) (PP (IN for) (NP (DT the) (NNP Jaccard) (NN distance))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ nonnegative) (, ,) (NN monotone) (, ,) (JJ submodular) (NNS functions)))))))) (VP (VBP are) (VP (VBN given) (CC and) (VBN discussed))) (. .))

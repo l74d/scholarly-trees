@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NNP Little-Hopfield) (JJ neural) (NN network)) (VP (VBD programmed) (PP (IN with) (NP (NNP Horn) (NNS clauses))))) (VP (VBZ is) (VP (VBN studied))) (. .))
-(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (NP (DT the) (NN energy) (NN landscape)) (PP (IN of) (NP (DT the) (NN system))) (, ,) (VP (VBG corresponding) (PP (TO to) (NP (NP (DT the) (NN inconsistency) (NN function)) (PP (IN for) (NP (NP (JJ logical) (NNS interpretations)) (PP (IN of) (NP (NP (DT the) (NNS sets)) (PP (IN of) (NP (NNP Horn) (NNS clauses)))))))))) (, ,)) (VP (VBZ has) (NP (JJ minimal) (NN ruggedness)))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (VP (VBN supported) (PP (IN by) (NP (NN computer) (NNS simulations))))) (. .))

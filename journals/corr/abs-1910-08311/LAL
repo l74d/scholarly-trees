@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN scheme)) (VP (VP (VBZ involves) (NP (JJ three-time) (NNS levels))) (, ,) (VP (VBZ is) (ADJP (ADJP (ADJP (RB unconditionally) (JJ stable)) (CC and) (ADJP (JJ second-order) (NN accurate))) (PP (DT both) (IN in) (NP (NN time) (CC and) (NN space) (NNS variables)))))) (. .))
-(S (NP (NP (DT The) (JJ main) (NN contribution)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT an) (JJ optimal) (NN pointwise) (NN error) (NN estimate)) (VP (VBZ is) (VP (ADVP (JJ first) (NN time)) (VBN obtained) (PP (IN for) (NP (DT the) (CD 2D) (NNP SFNSE)))))))) (. .))
-(S (NP (JJ Numerical) (NNS results)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB confirm) (NP (DT the) (JJ theoretical) (NNS findings))))))) (. .))

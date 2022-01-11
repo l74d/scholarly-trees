@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP bring) (NP (JJ anonymous) (NNS variables)) (PP (IN into) (NP (JJ imperative) (NNS languages)))) (. .))
-(S (NP (JJ Anonymous) (NNS variables)) (VP (VP (VBP represent) (NP (JJ don't-care) (NNS values))) (CC and) (VP (VBP have) (VP (VBN proven) (ADJP (JJ useful) (PP (IN in) (NP (JJ logic) (NN programming))))))) (. .))
-(S (S (VP (TO To) (VP (VB bring) (NP (NP (DT the) (JJ same) (NN level)) (PP (IN of) (NP (NNS benefits)))) (PP (IN into) (NP (JJ imperative) (NNS languages)))))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT an) (NN extension)) (PP (TO to) (NP (NNP C))) (PP (NN wth) (NP (JJ anonymous) (NNS variables))))) (. .))

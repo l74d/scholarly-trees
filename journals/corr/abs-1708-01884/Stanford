@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (DT the) (NN Sampling) (NN Privacy) (NN mechanism)) (PP (IN for) (S (ADVP (RB privately)) (VP (VBG releasing) (NP (JJ personal) (NNS data)))))) (. .))
-(S (NP (VBG Sampling) (NN Privacy)) (VP (VBZ is) (NP (NP (DT a) (NN sampling)) (PP (VBN based) (NP (NP (NN privacy) (NN mechanism)) (SBAR (WHNP (WDT that)) (S (VP (VBZ satisfies) (NP (JJ differential) (NN privacy))))))))) (. .))

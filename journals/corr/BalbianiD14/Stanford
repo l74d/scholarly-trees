@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ simple) (NN proof)) (PP (IN of) (NP (NP (DT the) (NN completeness)) (PP (IN of) (NP (JJ arbitrary) (JJ public) (NN announcement) (NN logic) (NN APAL))))))) (. .))
-(S (NP (DT The) (NN proof)) (VP (VBZ is) (NP (NP (DT an) (NN improvement)) (PP (IN over) (NP (NP (DT the) (NN proof)) (VP (VBN found) (PP (IN in) (NP (DT the) (NN publication) (NNP Knowable))) (PP (IN as) (NP (NP (JJ Known)) (PP (IN after) (NP (DT an) (NN Announcement)))))))))) (. .))

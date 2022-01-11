@@ -1,5 +1,0 @@
-(S (NP (NNS Analysts)) (VP (VBP need) (S (VP (TO to) (VP (VB classify) (, ,) (VB search) (CC and) (VB correlate) (NP (JJ numerous) (NNS images)))))) (. .))
-(S (NP (JJ Automatic) (NN classification) (NNS tools)) (VP (VBP improve) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (JJ such) (NNS tasks))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (VBN classified) (NNS data)) (VP (VBZ is) (NP (DT a) (NN prerequisite) (S (VP (TO to) (VP (VB develop) (NP (DT these) (NNS tools))))))) (. .))
-(S (NP (NN Labelling) (NNS tools)) (VP (VP (VBP are) (PP (IN of) (NP (JJ great) (NN use))) (PP (IN in) (NP (NP (NN case)) (PP (IN of) (NP (ADJP (RB already) (VBN known)) (NNS classes)))))) (, ,) (CC but) (VP (VBD seemed) (NP (ADJP (JJ limited) (PP (IN for) (NP (NNP Open) (NNP Set)))) (NN Classification)))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (NP (DT a) (NN manual)) (CC and) (NP (JJ collaborative) (NN classification) (NN tool))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (NN graph) (NN representation))))))) (. .))

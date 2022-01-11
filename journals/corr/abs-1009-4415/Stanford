@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ upper)) (CC and) (NP (NP (ADJP (CD two) (HYPH -) (JJ sided)) (NNS bounds)) (PP (IN of) (NP (NP (DT the) (ADJP (JJ exponential)) (NN growth) (NN rate)) (PP (IN for) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (ADJP (NN power) (HYPH -) (JJ free)) (NNS languages)))))))))) (. .))
-(S (NP (DT All) (NNS bounds)) (VP (VBP are) (VP (VBN obtained) (PP (IN with) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (NNS algorithms)) (VP (ADVP (RB previously)) (VBN developed) (PP (IN by) (NP (DT the) (NN author)))))))))) (. .))

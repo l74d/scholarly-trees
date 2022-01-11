@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NN tableau) (NN proof) (NNS systems)) (PP (IN for) (NP (JJ various) (NN justification) (NNS logics)))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN tableau) (NNS systems)) (VP (VBP are) (ADJP (ADJP (JJ sound) (CC and) (JJ complete)) (PP (IN with) (NP (NN respect)))) (PP (IN to) (NP (NNP Mkrtychev) (NNS models))))))) (. .))
-(S (PP (IN In) (NP (NN order) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN completeness)) (PP (IN of) (NP (DT the) (NN tableaux))))))))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ syntactic) (NN proof)) (PP (IN of) (NP (NN cut) (NN elimination))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (NP (DT the) (NN subformula) (NN property)) (PP (IN for) (NP (PRP$ our) (NN tableaux)))) (. .))

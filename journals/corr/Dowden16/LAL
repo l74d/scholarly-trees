@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG reaching) (NP (NN majority) (NN agreement)) (PP (IN in) (NP (DT a) (JJ disconnected) (NN network)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VB obtain) (NP (NP (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (PDT such) (DT an) (NN agreement)) (VP (VBZ is) (ADVP (RB certainly)) (ADJP (JJ possible/impossible))))))) (, ,) (CC and) (VP (VBP observe) (SBAR (IN that) (S (NP (DT these)) (VP (NN coincide) (PP (IN in) (NP (DT the) (JJ ternary) (NN case)))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN work)) (VP (VBZ establishes) (NP (NP (DT a) (JJ new) (JJ upper) (NN bound)) (PP (IN on) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS samples))) (ADJP (JJ sufficient) (PP (IN for) (NP (NP (NNP PAC) (NN learning)) (PP (IN in) (NP (DT the) (JJ realizable) (NN case)))))))))) (. .))
-(S (NP (DT The) (NN bound)) (VP (NNS matches) (NP (NP (VBN known) (JJR lower) (VBZ bounds)) (PP (RP up) (PP (TO to) (NP (JJ numerical) (JJ constant) (NNS factors)))))) (. .))
-(S (NP (DT This)) (VP (VBZ solves) (NP (NP (DT a) (JJ long-standing) (JJ open) (NN problem)) (PP (IN on) (NP (NP (DT the) (JJ sample) (NN complexity)) (PP (IN of) (NP (NNP PAC) (NN learning))))))) (. .))
-(S (NP (DT The) (NN technique) (CC and) (NN analysis)) (VP (NN build) (PP (IN on) (NP (NP (DT a) (JJ recent) (NN breakthrough)) (PP (IN by) (NP (NNP Hans) (NNP Simon)))))) (. .))

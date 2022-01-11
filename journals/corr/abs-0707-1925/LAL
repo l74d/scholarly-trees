@@ -1,2 +1,0 @@
-(S (NP (DT A) (NN graph)) (VP (VBZ is) (VP (VBN called) (S (VP (NN matching) (VP (VBN covered)))) (SBAR (IN if) (S (PP (IN for) (NP (PRP$ its) (DT every) (NN edge))) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ maximum) (NN matching)) (VP (VBG containing) (NP (PRP it))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (JJ minimal) (NN matching) (VBD covered) (JJ graphs)) (VP (NN contain) (NP (DT a) (JJ perfect) (NN matching))))))) (. .))

@@ -1,1 +1,0 @@
-(NP (NP (NN Description)) (PP (IN of) (NP (NP (DT a) (JJ polynomial) (NN time) (NN reduction)) (PP (IN of) (NP (NNP SAT))) (PP (TO to) (NP (NP (CD 2-SAT)) (PP (IN of) (NP (JJ polynomial) (NN size))))))) (. .))

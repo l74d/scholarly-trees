@@ -1,2 +1,0 @@
-(S (ADVP (RB Then)) (NP (NN surjectivity) (CC and) (NN injectivity)) (VP (VBP are) (VP (VBN studied) (S (VP (VBG using) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (NNP DeBruijn) (NNS graphs)))))))) (. .))
-(S (NP (DT The) (JJ next) (NN part)) (VP (VBZ is) (VP (VBN dedicated) (PP (IN to) (NP (ADJP (NP (DT the) (NN number)) (HYPH -) (VBG conserving)) (NN property))))) (. .))

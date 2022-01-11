@@ -1,6 +1,0 @@
-(S (NP (NNP ARTUS)) (VP (VBZ is) (NP (NP (DT an) (JJ event-based) (NN data-processing) (NN framework)) (PP (IN for) (NP (JJ high) (NN energy) (NNS physics) (NNS experiments))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN designed) (PP (IN for) (NP (NP (JJ large-scale) (NNS data) (NN analysis)) (PP (IN in) (NP (DT a) (JJ collaborative) (NN environment))))))) (. .))
-(S (NP (DT The) (NN architecture) (NN design) (NNS choices)) (VP (VP (VBP take) (PP (IN into) (NP (NN account))) (NP (JJ typical) (NNS challenges))) (CC and) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NNS experiences)) (PP (IN with) (NP (JJ similar) (NNS applications)))))))) (. .))
-(S (NP (NP (NP (DT The) (NN structure)) (PP (IN of) (NP (DT the) (NN framework)))) (CC and) (NP (PRP$ its) (NNS advantages))) (VP (VBP are) (VP (VBN described))) (. .))
-(S (NP (NP (DT An) (NN example) (NN use) (NN case)) (CC and) (NP (NN performance) (NNS measurements))) (VP (VBP are) (VP (VBN presented))) (. .))
-(S (NP (DT The) (NN framework)) (VP (VBZ is) (UCP (ADJP (JJ well-tested)) (CC and) (VP (ADVP (RB successfully)) (VBN used) (PP (IN by) (NP (JJ several) (NN analysis) (NNS groups)))))) (. .))

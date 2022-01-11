@@ -1,6 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP have) (VP (VBN established) (NP (NP (NNS relations)) (PP (IN of) (NP (DT the) (JJ genetic) (NNS tables))) (PP (IN with) (NP (NN magic) (CC and) (JJ bimagic) (NNS squares)))))) (. .))
-(S (NP (NP (NNS Connections)) (PP (IN with) (NP (NP (NNP Hamming) (NNS distances)) (, ,) (NP (JJ binomial) (NNS coefficients))))) (VP (VBP are) (VP (VBN established))) (. .))
-(S (NP (NP (DT The) (NN idea)) (PP (IN of) (NP (NNP Gray) (NN code)))) (VP (VBZ is) (VP (VBN applied))) (. .))
-(S (NP (NP (NNP Shannon) (NN entropy)) (PP (IN of) (NP (NP (JJ magic) (NNS squares)) (PP (IN of) (NP (NN order) (CD 4x4) (, ,) (CD 8x8) (CC and) (CD 16x16)))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN calculated))) (. .))
-(S (NP (DT Some) (NN comparison)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN made))) (. .))
-(S (NP (NP (NN Symmetry)) (PP (IN among) (NP (NP (NN restriction) (NNS enzymes)) (VP (VBG having) (NP (CD four) (NNS letters)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN studied))) (. .))

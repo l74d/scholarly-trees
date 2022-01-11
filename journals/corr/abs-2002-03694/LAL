@@ -1,2 +1,0 @@
-(S (NP (NP (NNP Anderson) (NN acceleration)) (PRN (-LRB- -LRB-) (NP (NNP AA)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (NN technique)) (PP (IN for) (S (VP (VBG accelerating) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (JJ fixed-point) (NNS iterations))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (NNP AA)))) (PP (IN by) (S (VP (VBG quantifying) (NP (NP (PRP$ its) (NN improvement)) (PP (IN over) (NP (NNP Picard) (NN iteration)))))))) (. .))

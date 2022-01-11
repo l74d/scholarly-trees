@@ -1,7 +1,0 @@
-(S (S (NP (NNP Cloud) (NNP Computing)) (VP (VBZ is) (VP (VBG flourishing) (NP (NN day)) (PP (IN by) (NP (NN day)))))) (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB continue) (PP (IN in) (NP (VBG developing) (NN phase))) (SBAR (IN until) (S (NP (NP (NNS computers)) (CC and) (NP (NN internet) (NN era))) (VP (VBZ is) (PP (IN in) (NP (NN existence))))))))) (. .))
-(S (SBAR (IN While) (S (VP (VBG dealing) (PP (IN with) (NP (NN cloud) (NN computing)))))) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NML (NN security) (CC and) (NN traffic)) (VBN related) (NNS issues)))) (VP (VBP are) (VP (VBN confronted))) (. .))
-(S (NP (NN Load) (NN Balancing)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS answers)) (PP (IN to) (NP (DT these) (NNS issues))))))) (. .))
-(NP (NP (NN RBAC) (NNS deals)) (PP (IN with) (NP (PDT such) (DT an) (NN answer))) (. .))
-(S (NP (DT The) (VBN proposed) (NN technique)) (VP (VBZ involves) (NP (NP (DT the) (NN hybrid)) (PP (IN of) (NP (NNP FCFS)))) (PP (IN with) (NP (NNP RBAC) (NN technique)))) (. .))
-(S (S (NP (NN RBAC)) (VP (MD will) (VP (VB assign) (NP (NNS roles)) (PP (IN to) (NP (DT the) (NNS clients)))))) (CC and) (S (NP (NP (NNS clients)) (PP (IN with) (NP (DT a) (JJ particular) (NN role)))) (VP (MD can) (ADVP (RB only)) (VP (VB access) (NP (DT the) (JJ particular) (NN document))))) (. .))
-(S (ADVP (RB Hence)) (NP (NN identity) (NML (NN management) (CC and) (NN access)) (NN management)) (VP (VBP are) (ADVP (RB fully)) (VP (VBN implemented) (S (VP (VBG using) (NP (DT this) (NN technique)))))) (. .))

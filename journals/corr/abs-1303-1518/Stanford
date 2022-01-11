@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ examines) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NP (DT a) (NN combination) (NN rule)) (PP (IN for) (NP (NN belief) (NNS functions))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (CD two) (ADJP (ADJP (RB fairly) (JJ simple)) (CC and) (ADJP (RB apparently) (JJ reasonable))) (NNS assumptions)) (VP (VBP determine) (NP (NP (NNP Dempster) (POS 's)) (NN rule)) (, ,) (S (VP (VBG giving) (NP (DT a) (JJ new) (NN justification)) (PP (IN for) (NP (PRP it)))))))))) (. .))

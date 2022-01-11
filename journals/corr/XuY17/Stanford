@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (ADJP (RB totally) (JJ constructive)) (NN approach)) (PP (IN for) (NP (NP (DT the) (NN proof)) (PP (IN of) (NP (NP (NNP Hilbert) (POS 's)) (NN theorem)))))) (PP (IN on) (NP (JJ ternary) (JJ quartic) (NNS forms)))) (. .))
-(S (NP (DT The) (JJ main) (NN contribution)) (VP (VBZ is) (NP (NP (DT the) (NN ladder) (NN technique)) (, ,) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (NP (NP (DT the) (NNP Hilbert) (POS 's)) (NN theorem)) (VP (VBZ is) (VP (VBN proved) (ADVP (RB vividly)))))))) (. .))

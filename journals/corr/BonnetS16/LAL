@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN note)) (VP (VBZ resolves) (NP (NP (DT an) (JJ open) (NN problem)) (VP (VBN asked) (PP (IN by) (NP (NNP Bezrukov))) (PP (IN in) (NP (NP (DT the) (JJ open) (NN problem) (NN session)) (PP (IN of) (NP (NNP IWOCA) (CD 2014)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ shows) (NP (NP (DT an) (NN equivalence)) (PP (IN between) (NP (NP (JJ regular) (NN graphs)) (CC and) (NP (NP (NN graphs)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS invariants)))) (VP (NNS presents) (NP (DT some) (JJ symmetric) (NN property)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP extend) (NP (DT this) (NN result)) (PP (TO to) (NP (DT a) (JJ few) (JJ other) (NNS sequences)))) (. .))

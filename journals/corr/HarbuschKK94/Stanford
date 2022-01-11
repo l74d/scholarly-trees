@@ -1,5 +1,0 @@
-(S (NP (JJ Natural) (NN language) (NN generation)) (VP (MD must) (VP (VB work) (PP (IN with) (NP (JJ insufficient) (NN input))))) (. .))
-(S (NP (NNS Underspecifications)) (VP (MD can) (VP (VB be) (VP (VBN caused) (PP (PP (IN by) (NP (NP (NNS shortcomings)) (PP (IN of) (NP (NP (DT the) (NN component)) (VP (VBG providing) (NP (DT the) (NN input))))))) (CC or) (PP (IN by) (NP (NP (NP (DT the) (JJ preliminary) (NN state)) (PP (IN of) (ADVP (RB incrementally)))) (VP (VBN given) (NP (NN input))))))))) (. .))
-(S (NP (DT The) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB escape) (PP (IN from) (NP (JJ such) (NML (JJ dead) (HYPH -) (NN end)) (NNS situations))) (PP (IN by) (S (VP (VBG making) (NP (NNS assumptions))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (JJ global) (NNS aspects)) (PP (IN of) (NP (NN default) (NN handling))))) (. .))
-(S (NP (NP (CD Two) (NN problem) (NNS classes)) (PP (IN for) (NP (NP (NNS defaults)) (PP (IN in) (NP (NP (DT the) (JJ incremental) (JJ syntactic) (NN generator)) (NP (NNP VM) (HYPH -) (NNP GEN))))))) (VP (VBP are) (VP (VBN presented) (PP (IN to) (S (VP (VB substantiate) (NP (PRP$ our) (NN discussion))))))) (. .))

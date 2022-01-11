@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VP (VBZ introduces) (NP (NP (DT the) (NN architecture)) (PP (IN of) (NP (NP (DT a) (NNP Long-Short-Term) (NNP Memory) (NN network)) (PP (IN for) (S (VP (VBG classifying) (NP (JJ transportation-modes)) (PP (IN via) (NP (NNP Smartphone) (NNS data)))))))))) (CC and) (VP (VBZ evaluates) (NP (PRP$ its) (NN accuracy)))) (. .))
-(S (NP (PRP We)) (VP (VBD participated) (PP (IN as) (NP (NNP Team) (NNP 'GanbareAM) ('' ›))) (PP (IN in) (NP (DT the) (POS 'SHL) (NN recognition) (NN challenge) (POS ›)))) (. .))

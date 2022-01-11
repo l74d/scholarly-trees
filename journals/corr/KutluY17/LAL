@@ -1,7 +1,0 @@
-(S (NP (NP (JJ Many) (JJ different) (NNS approaches)) (PP (IN for) (NP (ADJP (JJ neural) (NN network) (VBN based)) (NN hash) (NNS functions)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
-(S (NP (JJ Statistical) (NN analysis)) (VP (MD must) (VP (VB correlate) (NP (NP (NN security)) (PP (IN of) (NP (PRP them)))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (JJ novel) (JJ neural) (NN hashing) (NN approach)) (PP (IN for) (NP (JJ gray) (JJ scale) (NN image) (NN authentication))))) (. .))
-(S (NP (DT The) (JJ suggested) (NN system)) (VP (VBZ is) (ADJP (JJ rapid) (, ,) (JJ robust) (, ,) (JJ useful) (CC and) (NN secure))) (. .))
-(S (NP (VBN Proposed) (NN hash) (NN function)) (VP (VBZ generates) (NP (JJ hash) (NNS values)) (S (VP (VBG using) (NP (NP (JJ neural) (NN network) (JJ one-way) (NN property)) (CC and) (NP (JJ non-linear) (NNS techniques)))))) (. .))
-(S (PP (IN As) (NP (DT a) (NN result))) (S (NP (NN security) (CC and) (NN performance) (NN analysis)) (VP (VBP are) (VP (VBN performed)))) (CC and) (S (NP (JJ satisfying) (NNS results)) (VP (VBP are) (VP (VBN achieved)))) (. .))
-(S (NP (DT These) (NNS features)) (VP (VBP are) (NP (NP (JJ dominant) (NNS reasons)) (PP (IN for) (S (VP (VBG preferring) (PP (IN against) (NP (JJ traditional) (NNS ones)))))))) (. .))

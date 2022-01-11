@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ graphical) (NN user) (NN interface)) (PP (VBN based) (NP (NP (JJ groundtruth) (NN generation) (NN tool)) (PP (IN in) (NP (DT this) (NN paper)))))) (. .))
-(S (ADVP (RB Here)) (, ,) (NP (NP (NN annotation)) (PP (IN of) (NP (DT an) (NN input) (NN document) (NN image)))) (VP (VBZ is) (VP (VBN done) (PP (VBN based) (PP (IN on) (NP (DT the) (NN foreground) (NNS pixels)))))) (. .))
-(S (NP (NN Foreground) (NNS pixels)) (VP (VBP are) (VP (VBN grouped) (ADVP (RB together)) (PP (IN with) (NP (NN user) (NN interaction))) (S (VP (TO to) (VP (VB form) (NP (VBG labeling) (NNS units))))))) (. .))
-(S (NP (DT These) (NNS units)) (VP (VBP are) (ADVP (RB then)) (VP (VBN labeled) (PP (IN by) (NP (NP (DT the) (NN user)) (PP (IN with) (NP (DT the) (ADJP (NN user) (VBN defined)) (NNS labels))))))) (. .))
-(S (NP (NP (DT The) (NN output)) (VP (VBN produced) (PP (IN by) (NP (DT the) (NN tool))))) (VP (VBZ is) (NP (NP (DT an) (NN image)) (PP (IN with) (NP (NP (DT an) (NN XML) (NN file)) (VP (VBG containing) (NP (PRP$ its) (NN metadata) (NN information))))))) (. .))
-(S (NP (DT This) (VBN annotated) (NNS data)) (VP (MD can) (VP (VB be) (ADVP (RB further)) (VP (VBN used) (PP (IN in) (NP (NP (JJ different) (NNS applications)) (PP (IN of) (NP (NN document) (NN image) (NN analysis)))))))) (. .))

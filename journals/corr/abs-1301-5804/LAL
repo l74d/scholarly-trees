@@ -1,2 +1,0 @@
-(S (SBAR (IN As) (S (VP (VBD was) (ADVP (RB initially)) (VP (VBN shown) (PP (IN by) (NP (NNP Brent))))))) (, ,) (NP (NP (NNS exponentials)) (PP (IN of) (NP (JJ truncated) (NN power) (NN series)))) (VP (MD can) (VP (VB be) (VP (VBN computed) (S (VP (VBG using) (NP (NP (DT a) (JJ constant) (NN number)) (PP (IN of) (NP (JJ polynomial) (NNS multiplications))))))))) (. .))
-(S (NP (DT This) (NN note)) (VP (VBZ gives) (NP (NP (DT a) (ADJP (RB relatively) (JJ simple)) (NN algorithm)) (PP (IN with) (NP (DT a) (JJ low) (JJ constant) (NN factor))))) (. .))

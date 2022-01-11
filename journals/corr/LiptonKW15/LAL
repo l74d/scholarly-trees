@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (NN application)) (PP (IN of) (NP (NNP LSTM) (JJ recurrent) (JJ neural) (NNS networks))) (PP (TO to) (NP (NP (VB multilabel) (NN classification)) (PP (IN of) (NP (NNS diagnoses))) (PP (VBN given) (NP (NP (JJ variable-length) (NN time) (NN series)) (PP (IN of) (NP (JJ clinical) (NNS measurements))))))))) (. .))
-(S (NP (PRP$ Our) (NN method)) (VP (VBZ outperforms) (NP (DT a) (JJ strong) (NN baseline)) (PP (IN on) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS metrics)))))) (. .))

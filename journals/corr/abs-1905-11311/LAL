@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN relationship)) (PP (IN between) (NP (NP (DT the) (NNS notions)) (PP (IN of) (NP (NP (NP (ADJP (RB differentially) (JJ private)) (NN learning)) (CC and) (NP (NN online) (NN learning))) (PP (IN in) (NP (NNS games))))))))) (. .))
-(SQ (ADVP (RB Specifically)) (, ,) (VBZ does) (NP (DT an) (JJ efficient) (ADJP (RB differentially) (JJ private)) (NN learner)) (VP (VBP imply) (NP (DT an) (JJ efficient) (NN online) (NN learner))) (. ?))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP resolve) (NP (DT this) (JJ open) (NN question)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ pure) (JJ differential) (NN privacy)))))) (. .))
-(S (NP (PRP We)) (VP (VBP derive) (NP (DT an) (JJ efficient) (JJ black-box) (NN reduction)) (PP (IN from) (NP (ADJP (RB differentially) (JJ private)) (NN learning))) (PP (TO to) (NP (VB online) (VBG learning))) (PP (IN from) (NP (JJ expert) (NN advice)))) (. .))

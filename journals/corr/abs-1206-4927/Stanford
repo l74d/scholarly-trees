@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ several) (NN application)) (PP (IN of) (NP (JJ simple) (JJ topological) (NNS arguments)))) (PP (IN in) (NP (NP (NNS problems)) (PP (IN of) (NP (NNP Kolmogorov) (NN complexity)))))) (. .))
-(S (ADVP (RB Basically)) (NP (PRP we)) (VP (VBP use) (NP (DT the) (JJ standard) (NN fact)) (PP (IN from) (NP (NN topology))) (SBAR (IN that) (S (NP (DT the) (NN disk)) (VP (VBZ is) (ADVP (RB simply)) (VP (VBN connected)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ proves) (S (VP (TO to) (VP (VB be) (ADJP (JJ enough) (S (VP (TO to) (VP (VB construct) (NP (NNS strings)) (PP (IN with) (NP (DT some) (JJ nontrivial) (JJ algorithmic) (NNS properties))))))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NP (DT An) (NN information) (NN service)) (PP (IN for) (NP (JJ mathematical) (NN software)))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (NNS Publications) (CC and) (NN software)) (VP (VBP are) (NP (NP (CD two) (ADJP (RB closely) (JJ connected)) (NNS facets)) (PP (IN of) (NP (JJ mathematical) (NN knowledge))))) (. .))
-(S (NP (DT This) (NN relation)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VP (VB identify) (NP (JJ mathematical) (NN software))) (CC and) (VP (VB find) (NP (NP (JJ relevant) (NN information)) (PP (IN about) (NP (PRP it))))))))))) (. .))
-(S (NP (NP (DT The) (NN approach)) (CC and) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NP (DT the) (NN art)) (PP (IN of) (NP (DT the) (NN information) (NN service))))))) (VP (VBP are) (VP (VBN described) (ADVP (RB here)))) (. .))

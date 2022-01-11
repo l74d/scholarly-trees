@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ secret) (NN sharing) (NN scheme)) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN word) (NN problem)) (PP (IN in) (NP (NNS groups))))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (NP (DT The) (NN security)) (PP (IN of) (NP (NP (DT the) (NN scheme)) (CC and) (NP (JJ possible) (NNS variations))))) (VP (VBP are) (VP (VBN discussed) (PP (IN in) (NP (NN section) (CD 2))))) (. .))
-(S (NP (DT The) (NN article)) (VP (VBZ concludes) (PP (IN with) (NP (NP (DT the) (NN suggestion)) (PP (IN of) (NP (NP (CD two) (NNS categories)) (PP (IN of) (NP (NN platform) (NNS groups))))))) (PP (IN for) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NN scheme)))))) (. .))

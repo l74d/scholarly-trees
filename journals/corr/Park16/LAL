@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG writing) (NP (DT an) (JJ arbitrary) (NN symmetric) (NN matrix)) (PP (IN as) (NP (NP (DT the) (NN difference)) (PP (IN of) (NP (CD two) (JJ positive) (NN semidefinite) (NNS matrices)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP start) (PP (IN with) (NP (NP (JJ simple) (NNS ideas)) (PP (JJ such) (IN as) (NP (JJ eigenvalue) (NN decomposition)))))) (. .))
-(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (JJ simple) (NN adaptation)) (PP (IN of) (NP (DT the) (NNP Cholesky))) (SBAR (WHNP (WDT that)) (S (VP (VBZ returns) (NP (NP (DT a) (JJ difference-of-Cholesky) (NN representation)) (PP (IN of) (NP (JJ indefinite) (NNS matrices))))))))) (. .))
-(S (NP (NP (NNS Heuristics)) (SBAR (WHNP (WDT that)) (S (VP (VBP promote) (NP (NN sparsity)))))) (VP (MD can) (VP (VB be) (VP (VBN applied) (ADVP (RB directly)) (PP (TO to) (NP (DT this) (NN modification)))))) (. .))

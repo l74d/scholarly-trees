@@ -1,2 +1,0 @@
-(S (PP (IN Without) (NP (DT any) (JJ memory-constrained))) (, ,) (NP (DT this) (NN problem)) (VP (VBD was) (ADVP (RB previously)) (VP (VBN solved) (PP (IN in) (NP (NP ($ $) (NNP O) (PRN (-LRB- -LRB-) (FW n) (-RRB- -RRB-)) ($ $) (JJ -time)) (CC and) (NP ($ $) (NNP O) (PRN (-LRB- -LRB-) (FW n) (-RRB- -RRB-)) ($ $) (JJ -variables) (NN space)))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP keep) (NP (DT the) (NN algorithm)) (PP (IN in) (NP (DT the) (JJ linear-time)))) (CC and) (VP (VB reduce) (NP (NN space)) (NP (NP (RB as) (RB much)) (PP (IN as) (S (VP (JJ possible))))))) (. .))

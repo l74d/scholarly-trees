@@ -1,2 +1,0 @@
-(S (NP (NNP Cg)) (VP (VBZ is) (NP (NP (DT a) (NN language)) (PP (IN for) (S (VP (VBG programming) (NP (NNP GPUs))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NNP Cg)) (ADVP (NN briefly))) (. .))

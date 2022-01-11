@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (NNP Alekhnovich) (POS 's)) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NP (NN row) (NN reduction)) (PP (IN of) (NP (NN skew) (JJ polynomial) (NNS matrices))))))))))) (. .))

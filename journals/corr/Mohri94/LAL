@@ -1,2 +1,0 @@
-(S (NP (JJ Local) (NNS grammars)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ convenient)) (NN way))) (PP (IN by) (NP (NNS automata)))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (CC and) (VBZ illustrates) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (NP (JJ local) (NNS grammars)) (VP (VBD put) (PP (IN in) (NP (DT this) (NN form)))))) (PP (TO to) (NP (VBN lemmatized) (NN texts))))))) (. .))

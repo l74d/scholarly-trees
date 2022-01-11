@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ describes) (PP (IN in) (NP (JJ depth))) (NP (NP (JJ several) (NNS ways)) (PP (IN of) (S (VP (VBG exploiting) (NP (NP (NN buffer) (NNS overflows)) (PP (IN in) (NP (DT the) (NNP UNIX) (VBG operating) (NNS systems))))))))) (. .))

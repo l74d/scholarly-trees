@@ -1,2 +1,0 @@
-(S (NP (DT this)) (VP (VBZ is) (NP (DT a) (NN review) (NN paper))) (. .))
-(S (NP (DT this)) (VP (VBZ describes) (SBAR (WHADVP (WRB how)) (S (NP (NNP DGPS)) (VP (VBZ is) (ADJP (JJ helpful) (PP (IN for) (NP (NP (NN lane) (NN detection)) (CC and) (S (VP (TO to) (VP (VB avoid) (NP (NN collission)))))))))))) (. .))

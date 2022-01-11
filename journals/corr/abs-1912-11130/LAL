@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT some) (NNS examples))))) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT some) (NN functionality)) (PP (IN of) (NP (DT the) (JJ mesh) (NN adaptation) (NN package) (NN trullekrul)))) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NN pde2path))))))))) (. .))

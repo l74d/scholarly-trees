@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ summarizes) (NP (NP (DT the) (JJ fundamental) (NN expressiveness) (, ,) (NN closure) (, ,) (CC and) (NN decidability) (NNS properties)) (PP (IN of) (NP (NP (JJ various) (JJ finite-state) (NN automata) (NNS classes)) (PP (IN with) (NP (JJ multiple) (NN input) (NNS tapes))))))) (. .))
-(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ includes) (NP (NP (DT an) (JJ original) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN intersection)) (PP (IN of) (NP (JJ one-way) (JJ nondeterministic) (NN finite-state) (NN automata))))))) (. .))

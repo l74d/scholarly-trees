@@ -1,2 +1,0 @@
-(NP (CD 16) (-RRB- -RRB-) (. .))
-(S (NP (NP (DT The) (NN scenario)) (VP (VBD evaluated))) (VP (VBD was) (NP (NP (DT the) (NN coexistence)) (PP (IN of) (NP (NNP WiFi) (CC and) (NNP LTE) (NNS transmissions))) (PP (IN in) (NP (VBN shared) (NN spectrum))))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (NN source) (NN polarization)))) (VP (VBZ is) (VP (VBN introduced) (CC and) (VBN investigated))) (. .))
-(S (NP (DT This)) (VP (VBZ complements) (NP (NP (DT the) (JJR earlier) (NN work)) (PP (IN on) (NP (NN channel) (NN polarization))))) (. .))
-(S (NP (NP (DT An) (NN application)) (PP (IN to) (NP (NP (NNP Slepian) (HYPH -) (NNP Wolf)) (NP (NN coding))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN considered))) (. .))
-(S (NP (DT The) (NN paper)) (VP (VBZ is) (VP (VBN restricted) (PP (IN to) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ binary) (NNS alphabets))))))) (. .))
-(S (NP (NP (NN Extension)) (PP (IN of) (NP (NP (NNS results)) (PP (IN to) (NP (JJ non-binary) (NNS alphabets)))))) (VP (VBZ is) (VP (VBN discussed) (ADVP (RB briefly)))) (. .))

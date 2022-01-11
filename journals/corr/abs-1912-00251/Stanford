@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN neighborhood)) (PP (IN of) (NP (NN convergence)))) (VP (MD may) (VP (VB be) (VP (VBN made) (S (ADJP (RB arbitrarily) (JJ small) (PP (IN by) (S (VP (VBG taking) (NP (DT the) (NN smoothing) (NN parameter)) (PP (IN to) (NP (CD zero))))))))))) (. .))
-(S (NP (JJ Simple) (NN proof) (NNS techniques)) (VP (VBP are) (VP (VBN furnished) (PP (IN by) (S (VP (VBG considering) (NP (JJ regular) (JJ potential) (NNS games))))))) (. .))

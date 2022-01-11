@@ -1,2 +1,0 @@
-(S (S (VP (TO To) (VP (VB deal) (PP (IN with) (NP (DT the) (JJ initial) (NN singularity)))))) (, ,) (NP (NN correction) (NNS terms)) (VP (VBP are) (VP (VBN added) (S (VP (TO to) (VP (VB achieve) (NP (DT an) (JJ optimal) (NN convergence) (NN order))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (JJ numerical) (NNS experiments)) (VP (VBP are) (VP (VBN implemented) (S (VP (TO to) (VP (VB verify) (NP (PRP$ our) (JJ theoretical) (NN result)) (PP (IN on) (NP (DT the) (NN convergence) (NN analysis)))))))) (. .))

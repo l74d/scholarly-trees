@@ -1,1 +1,0 @@
-(S (S (VP (VBG Using) (S (VP (VBG hashing) (NP (NNS techniques)))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ develops) (SBAR (S (NP (NP (DT a) (NN family)) (PP (IN of) (NP (ADJP (NN space) (HYPH -) (JJ efficient)) (NNP Las) (NNP Vegas)))) (VP (VBD randomized) (NP (NNS algorithms)) (PP (IN for) (NP (QP ($ $) (CD k)) (NML (NML ($ $)) (HYPH -) (NN SUM)) (NNS problems))))))) (. .))

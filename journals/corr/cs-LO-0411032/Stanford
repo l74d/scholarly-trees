@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ illustrates) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT a) (JJ logical) (NN specification) (NN language)))) (S (VP (TO to) (VP (VB capture) (NP (NP (JJ various) (NNS forms)) (PP (IN of) (NP (NP (NN confidentiality) (NNS properties)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN security) (NN literature))))))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (DT A) (JJ novel) (NN method) (S (VP (TO to) (VP (VB estimate) (NP (DT these) (NNS angles)) (S (VP (VBG using) (NP (NML (RB off) (HYPH -) (DT the) (HYPH -) (NN shelf)) (NNS components)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT The) (NNS results)) (VP (VBP show) (NP (JJ good) (NML (JJ real) (HYPH -) (NN time)) (NN performance)) (PP (IN with) (NP (NP (JJ low) (JJ computational) (NN cost)) (PP (IN in) (NP (DT a) (NN microcontroller)))))) (. .))

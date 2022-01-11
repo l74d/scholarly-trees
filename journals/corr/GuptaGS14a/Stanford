@@ -1,4 +1,0 @@
-(S (NP (JJ Big) (NNS data)) (VP (VBZ is) (NP (NP (NNS data)) (SBAR (WHNP (WDT that)) (S (VP (VBZ exceeds) (NP (NP (DT the) (NN processing) (NN capacity)) (PP (IN of) (NP (JJ traditional) (NNS databases))))))))) (. .))
-(S (NP (DT The) (NNS data)) (VP (VBZ is) (ADJP (RB too) (JJ big)) (S (VP (TO to) (VP (VB be) (VP (VBN processed) (PP (IN by) (NP (DT a) (JJ single) (NN machine)))))))) (. .))
-(S (NP (NP (NNP New)) (CC and) (NP (JJ innovative) (NNS methods))) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB process) (CC and) (VB store) (NP (NP (JJ such) (JJ large) (NNS volumes)) (PP (IN of) (NP (NNS data))))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT an) (NN overview)) (PP (IN on) (NP (NP (JJ big) (NNS data)) (, ,) (NP (NP (PRP$ its) (NN importance)) (PP (IN in) (NP (PRP$ our) (UCP (JJ live) (CC and) (DT some)) (NNS technologies))))))) (S (VP (TO to) (VP (VB handle) (NP (JJ big) (NNS data)))))) (. .))

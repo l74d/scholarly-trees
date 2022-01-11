@@ -1,8 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT an) (JJ acoustic) (NN obstacle) (NN reconstruction) (NN problem)) (PP (IN with) (NP (NNP Poisson) (NNS data))))) (. .))
-(S (PP (JJ Due) (TO to) (NP (NP (DT the) (JJ stochastic) (NN nature)) (PP (IN of) (NP (DT the) (NNS data))))) (, ,) (NP (PRP we)) (VP (VBP tackle) (NP (DT this) (NN problem)) (PP (IN in) (NP (NP (DT the) (NN framework)) (PP (IN of) (NP (JJ Bayesian) (NN inversion)))))) (. .))
-(S (NP (DT The) (JJ unknown) (NN obstacle)) (VP (VBZ is) (VP (VBN parameterized) (PP (IN in) (NP (PRP$ its) (JJ angular) (NN form))))) (. .))
-(S (NP (NP (DT The) (NN prior)) (PP (IN for) (NP (DT the) (JJ parameterized) (JJ unknown)))) (VP (NNS plays) (NP (JJ key) (NN role)) (PP (IN in) (NP (DT the) (NNP Bayes) (NN reconstruction) (NN algorithm)))) (. .))
-(S (NP (NP (DT The) (ADJP (RBS most) (JJ popular))) (VP (JJ used) (ADVP (NN prior)))) (VP (VBZ is) (NP (DT the) (JJ Gaussian))) (. .))
-(S (PP (IN Under) (NP (DT the) (JJ Gaussian) (JJ prior) (NN assumption))) (, ,) (NP (PRP we)) (ADVP (VBP further)) (VP (VB suppose) (SBAR (IN that) (S (NP (DT the) (JJ unknown)) (VP (VBZ satisfies) (NP (DT the) (JJ total) (NN variation) (RB prior)))))) (. .))
-(S (PP (IN With) (NP (DT the) (JJ hybrid) (NN prior))) (, ,) (NP (NP (DT the) (NN well-posedness)) (PP (IN of) (NP (DT the) (JJ posterior) (NN distribution)))) (VP (VBZ is) (VP (VBN discussed))) (. .))
-(S (NP (DT The) (JJ numerical) (NNS examples)) (VP (VBP verify) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithm))))) (. .))

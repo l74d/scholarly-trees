@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (JJ present) (NP (NP (NNP LHIP)) (, ,) (NP (NP (DT a) (NN system)) (PP (IN for) (NP (JJ incremental) (NN grammar) (NN development))) (VP (VBG using) (NP (DT an) (JJ extended) (NNP DCG) (NN formalism)))))) (. .))
-(S (NP (DT The) (NN system)) (VP (VBZ uses) (NP (NP (DT a) (JJ robust) (JJ island-based) (NN parsing) (NN method)) (VP (VBN controlled) (PP (IN by) (NP (JJ user-defined) (NN performance) (NNS thresholds)))))) (. .))

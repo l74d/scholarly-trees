@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (ADJP (JJ space-) (CC and) (JJ time-efficient)) (ADJP (RB fully) (JJ dynamic)) (NN implementation)) (NP (IN de) (NNP Bruijn) (NN graphs)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (ADVP (RB also)) (VP (VB support) (NP (NN fixed-length) (JJ jumbled) (NN pattern) (NN matching)))))))) (. .))

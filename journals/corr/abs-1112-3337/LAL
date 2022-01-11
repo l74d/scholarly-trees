@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (VBN search)) (PP (IN by) (NP (NP (NN quantum) (NN walk)) (PP (IN on) (NP (DT a) (JJ finite) (ADJP (CD two) (JJ dimensional)) (NN grid)))))) (. .))
-(S (S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (JJ numerical) (NNS experiments)) (VP (VBG supporting) (NP (DT this) (NN idea)))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP prove) (NP (DT this) (NN fact)) (ADVP (RB analytically)))) (. .))

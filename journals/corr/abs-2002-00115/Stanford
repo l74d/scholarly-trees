@@ -1,8 +1,0 @@
-(S (NP (JJ Adult) (NN content)) (VP (VBZ constitutes) (NP (NP (DT a) (JJ major) (NN source)) (PP (IN of) (NP (NN Internet) (NN traffic))))) (. .))
-(S (PP (IN As) (PP (IN with) (NP (JJ many) (JJ other) (NNS platforms)))) (, ,) (NP (DT these) (NNS sites)) (VP (VBP are) (VP (VBN incentivized) (S (VP (TO to) (VP (VP (VB engage) (NP (NNS users))) (CC and) (VP (VB maintain) (NP (PRP them)) (PP (IN on) (NP (DT the) (NN site))))))))) (. .))
-(S (NP (NP (DT This) (NN engagement)) (SBAR (S (PRN (-LRB- -LRB-) (ADVP (FW e.g.)) (, ,) (PP (IN through) (NP (NNS recommendations))) (-RRB- -RRB-)) (VP (VBZ shapes) (NP (DT the) (NNS journeys)))))) (VP (VBN taken) (PP (IN through) (NP (JJ such) (NNS sites)))) (. .))
-(S (S (VP (VBG Using) (NP (NNS data)) (PP (IN from) (NP (DT a) (JJ large) (NN content) (NN delivery) (NN network))))) (, ,) (NP (PRP we)) (VP (VBP explore) (NP (NN session) (NNS journeys)) (PP (IN within) (NP (DT an) (JJ adult) (NN website)))) (. .))
-(S (NP (PRP We)) (VP (VBP take) (NP (CD two) (NNS perspectives))) (. .))
-(S (NP (PRP We)) (ADVP (RB first)) (VP (VB inspect) (NP (DT the) (NN corpus)) (S (ADJP (JJ available) (PP (IN on) (NP (DT these) (NNS platforms)))))) (. .))
-(S (PP (VBG Following) (NP (DT this))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (DT the) (NN session) (NN access) (NNS patterns))) (. .))
-(S (NP (PRP We)) (VP (VBP make) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS observations)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB be) (VP (VBN exploited) (PP (IN for) (S (VP (VBG optimizing) (NP (NN delivery) (, ,) (ADVP (FW e.g.)) (, ,) (SBAR (IN that) (S (NP (NNS users)) (ADVP (RB often)) (VP (VBP skip) (PP (IN within) (NP (NN video) (NNS streams))))))))))))))))))) (. .))

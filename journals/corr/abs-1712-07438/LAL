@@ -1,3 +1,0 @@
-(S (NP (NNP Scientific) (NNS applications)) (ADVP (RB often)) (VP (VBP require) (NP (NP (DT an) (JJ exact) (NN reconstruction)) (PP (IN of) (NP (JJ object) (NNS positions) (CC and) (NNS distances))) (PP (IN from) (NP (JJ digital) (NNS images))))) (. .))
-(S (ADVP (RB Therefore)) (, ,) (NP (DT the) (NNS images)) (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN corrected) (PP (IN for) (NP (JJ perspective) (NNS distortions)))))))) (. .))
-(S (NP (PRP We)) (VP (JJ present) (NP (NP (NNS examples)) (PP (IN of) (NP (NP (NNS images)) (PP (IN of) (NP (NN penguin) (NNS colonies))) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN recorded) (PP (PP (IN with) (NP (JJ stationary) (NNS cameras))) (CC and) (PP (IN from) (NP (DT a) (NN helicopter)))))))))))) (. .))

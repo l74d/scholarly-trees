@@ -1,8 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (JJ new) (NN quality) (NNS metrics)) (PP (IN for) (NP (JJ dynamic) (JJ graph) (NNS drawings))))) (. .))
-(S (ADVP (RB Namely)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN framework)) (PP (IN for) (NP (NP (NN change) (NN faithfulness) (NNS metrics)) (PP (IN for) (NP (JJ dynamic) (JJ graph) (NNS drawings))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP compare) (NP (NP (NP (DT the) (NN ground) (NN truth) (NN change)) (PP (IN in) (NP (JJ dynamic) (NN graphs)))) (CC and) (NP (NP (DT the) (JJ geometric) (NN change)) (PP (IN in) (NP (NNS drawings)))))))))))) (. .))
-(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (CD two) (JJ specific) (NNS instances)) (, ,) (NP (NP (NN cluster) (NN change) (NN faithfulness) (NNS metrics)) (CC and) (NP (NN distance) (NN change) (NN faithfulness) (NNS metrics))))) (. .))
-(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP validate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (JJ new) (NNS metrics)))) (S (VP (VBG using) (NP (NN deformation) (NNS experiments))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP compare) (NP (NP (JJ various) (NN graph) (VBG drawing) (NN algorithms)) (VP (VBG using) (NP (PRP$ our) (NNS metrics))))) (. .))
-(S (NP (PRP$ Our) (NNS experiments)) (VBP confirm) (SBAR (IN that) (NP (DT the) (JJS best) (NN cluster)) (PRN (-LRB- -LRB-) (NN resp) (. .))))
-(S (NP (ADJP (NN distance) (-RRB- -RRB-)) (NN faithful) (NN graph) (VBG drawing) (NNS algorithms)) (VP (VBP are) (ADVP (RB also)) (NP (NP (NN cluster)) (PRN (-LRB- -LRB-) (NN resp) (. .)))))
-(S (NP (NN distance)) (-RRB- -RRB-) (VP (NN change) (S (ADJP (NN faithful)))) (. .))

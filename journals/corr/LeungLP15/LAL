@@ -1,1 +1,0 @@
-(S (NP (DT The) (JJ classic) (NNP Gibbard-Satterthwaite) (NN theorem)) (VP (VBZ says) (SBAR (IN that) (S (NP (NP (DT every) (JJ strategy-proof) (NN voting) (NN rule)) (PP (IN with) (NP (QP (IN at) (JJS least) (CD three)) (JJ possible) (NNS candidates)))) (VP (MD must) (VP (VB be) (ADJP (JJ dictatorial))))))) (. .))

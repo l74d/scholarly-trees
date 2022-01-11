@@ -1,4 +1,0 @@
-(NP (NP (DT The) (NN paper) (NNS deals)) (PP (IN with) (NP (NP (NN word) (NN sense) (NN induction)) (PP (IN from) (NP (JJ lexical) (NN co-occurrence) (NNS graphs))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP construct) (NP (JJ such) (NNS graphs)) (PP (IN on) (NP (JJ large) (JJ Russian) (NNS corpora)))) (CC and) (ADVP (RB then)) (VP (VB apply) (NP (DT this) (NNS data)) (S (VP (TO to) (VP (VB cluster) (S (NP (NNP Mail.ru)) (VP (VB Search) (NP (NNS results)) (PP (VBG according) (PP (IN to) (NP (NP (NNS meanings)) (PP (IN of) (NP (DT the) (NN query))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP compare) (NP (NP (JJ different) (NNS methods)) (PP (IN of) (S (VP (VBG performing) (NP (NP (JJ such) (NN clustering)) (CC and) (NP (JJ different) (NN source) (NNS corpora)))))))) (. .))
-(S (NP (NP (NNS Models)) (PP (IN of) (S (VP (VBG applying) (NP (JJ distributional) (NNS semantics)) (PP (IN to) (NP (JJ big) (JJ linguistic) (NNS data))))))) (VP (VBP are) (VP (VBN described))) (. .))

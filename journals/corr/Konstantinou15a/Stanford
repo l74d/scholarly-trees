@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ surveys) (NP (NP (DT the) (JJS latest)) (PP (IN on) (NP (NML (NNP Smart) (NNP Grid)) (NN security))))) (. .))
-(S (NP (PRP It)) (VP (VBZ focuses) (PP (IN on) (NP (NP (NP (DT the) (JJ deep) (NN understanding)) (PP (IN of) (NP (NP (DT the) (NN risk)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS threats) (, ,) (NNS vulnerabilities) (CC and) (NNS consequences)))))))) (SBAR (WHNP (WDT that)) (S (VP (VBP arise) (PP (IN from) (NP (NNS cyber-attacks))))))))) (. .))

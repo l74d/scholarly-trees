@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBD transmitted) (NP (CD 4x28) (NNP Gbit/s)) (PP (IN over) (NP (JJ 5-km) (JJ standard) (NNP GI-MMF))) (S (VP (VBG using) (NP (CD four) (JJ different) (NN mode) (NNS groups)) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (JJ direct) (NN detection)) (CC and) (NP (NP (JJ on-off-keying) (NN format)) (PRN (-LRB- -LRB-) (NP (NNP OOK)) (-RRB- -RRB-)))))))))) (. .))
-(S (PP (JJ Due) (TO to) (NP (NP (DT the) (NN square-law) (NN detection)) (PP (IN in) (NP (DT the) (NN receiver))))) (NP (NNP MIMO) (NN processing)) (VP (VBZ is) (RB not) (ADJP (JJ effective))) (. .))
-(S (ADVP (RB Therefore)) (NP (JJ proper) (NN mode) (NN group) (JJ selective) (NN multiplexing) (CC and) (NN de-multiplexing)) (VP (VBZ is) (ADJP (JJ essential))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NN cycle) (NN structure)) (PP (IN of) (NP (JJ linear) (NN feedback) (NN shift) (NN register)))) (PP (IN with) (NP (NP (JJ arbitrary) (JJ monic)) (ADJP (JJ characteristic) (JJ polynomial)))) (PP (IN over) (NP (DT any) (JJ finite) (NN field)))) (. .))
-(S (PP (IN For) (NP (DT each) (NN cycle))) (, ,) (NP (DT a) (NN method) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (NN state)) (CC and) (NP (DT a) (JJ new) (NN way))) (S (VP (TO to) (VP (VB represent) (NP (DT the) (NN state))))))))) (VP (VBP are) (VP (VBN proposed))) (. .))

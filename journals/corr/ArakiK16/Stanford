@@ -1,1 +1,0 @@
-(S (NP (NP (NNP Kierstead) (CC and) (NNP Trotter)) (-LRB- -LRB-) (NP (NNP Congressus) (NNP Numerantium) (CD 33) (, ,) (CD 1981)) (-RRB- -RRB-)) (VP (VBD proved) (SBAR (IN that) (S (NP (PRP$ their) (NN algorithm)) (VP (VBZ is) (NP (NP (DT an) (JJ optimal) (JJ online) (NN algorithm)) (PP (IN for) (NP (DT the) (JJ online) (NN interval) (NN coloring) (NN problem)))))))) (. .))

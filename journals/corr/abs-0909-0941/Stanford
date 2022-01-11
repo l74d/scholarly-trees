@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (JJ asymmetric) (VBG traveling) (NN salesman) (NN problem)) (PP (IN on) (NP (NP (NNS instances)) (SBAR (WHNP (WDT which)) (S (VP (VBP satisfy) (NP (DT the) (NN triangle) (NN inequality))))))))))) (. .))
-(S (PP (IN Like) (NP (JJ several) (VBG existing) (NNS algorithms))) (, ,) (NP (PRP it)) (VP (VBZ achieves) (NP (NN approximation) (NN ratio) (NN O) (PRN (-LRB- -LRB-) (NP (NN log) (NN n)) (-RRB- -RRB-)))) (. .))
-(S (PP (IN Unlike) (NP (JJ previous) (NNS algorithms))) (, ,) (NP (PRP it)) (VP (VBZ uses) (ADJP (JJ randomized)) (S (VP (VBG rounding)))) (. .))

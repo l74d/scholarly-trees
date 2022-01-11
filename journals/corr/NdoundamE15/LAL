@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP characterize) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (NP (DT the) (NNS periods)) (PP (IN of) (NP (DT a) (JJ neuronal) (NN recurrence) (NN equation))))))) (. .))
-(S (ADVP (RB Firstly)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (NNS k-chains))) (PP (IN in) (NP (JJ 0-1) (JJ periodic) (NNS sequences))))) (. .))
-(S (ADVP (RB Secondly)) (, ,) (NP (PRP we)) (VP (VBP characterize) (NP (NP (DT the) (NNS periods)) (PP (IN of) (NP (NP (DT all) (NNS cycles)) (PP (IN of) (NP (DT some) (JJ neuronal) (NN recurrence) (NN equation))))))) (. .))
-(S (ADVP (RB Thirdly)) (, ,) (NP (PRP we)) (VP (VBP explain) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS results)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB deduce) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (DT the) (JJ generalized) (JJ period-halving) (NN bifurcation))))))))))))) (. .))

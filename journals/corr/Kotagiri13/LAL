@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (JJ 10-point) (CC and) (JJ 12-point) (NNS versions)) (PP (IN of) (NP (DT the) (ADJP (RB recently) (VBN introduced)) (NN number) (JJ theoretic) (NNP Hilbert) (PRN (-LRB- -LRB-) (NNP NHT) (-RRB- -RRB-)) (NNS transforms))))) (. .))
-(S (NP (JJ Such) (NNS transforms)) (VP (VBP have) (NP (NP (NNS applications)) (PP (IN in) (NP (NP (JJ signal) (NN processing)) (CC and) (NP (NN scrambling)))))) (. .))
-(S (NP (NP (JJ Polymorphic) (NNS solutions)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (NP (JJ different) (NNS moduli)) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (CD two) (NNS cases)))))))))) (VP (VBP have) (VP (VBN been) (VP (VBN found)))) (. .))
-(S (NP (NP (DT The) (NN multiplicity)) (PP (IN of) (NP (NP (NNS solutions)) (PP (IN for) (NP (DT the) (JJ same) (NN moduli)))))) (VP (NNS increases) (NP (NP (PRP$ their) (NN applicability)) (PP (TO to) (NP (NN cryptography))))) (. .))

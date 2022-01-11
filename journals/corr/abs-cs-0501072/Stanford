@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT a) (JJ rich) (JJ semantic) (NN network)) (PP (VBN based) (PP (IN on) (NP (DT a) (JJ differential) (NN analysis))))) (. .))
-(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP detail) (VP (VBN implemented) (NP (NP (NNS measures)) (SBAR (WHNP (WDT that)) (S (VP (VBP take) (PP (IN into) (NP (NN account))) (NP (NP (ADJP (JJ common) (CC and) (JJ differential)) (NNS features)) (PP (IN between) (NP (NNS words)))))))))) (. .))
-(S (PP (IN In) (NP (DT a) (JJ last) (NN section))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (DT some) (JJ industrial) (NNS applications))) (. .))

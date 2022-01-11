@@ -1,7 +1,0 @@
-(S (VP (NNP Suppose) (SBAR (S (NP (PRP we)) (VP (ADVP (RB sequentially)) (VBD put) (NP (ADJP ($ $) (JJ n) ($ $)) (NNS balls)) (PP (IN into) (NP (ADJP ($ $) (JJ n) ($ $)) (NNS bins))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (NNP Azar) (, ,) (NNP Broder) (, ,) (NNP Karlin) (CC and) (NNP Upfal)) (VP (NNP -LSB-) (NP (NNP SIAM) (NNP J.) (NNP Comput))) (. .))
-(SBARQ (WHNP (WHADJP (WRB How) (JJ much)) (NN memory)) (SQ (VBP do) (NP (PRP we)) (VP (VB need) (S (VP (TO to) (VP (VB implement) (NP (DT this) (NN scheme))))))) (. ?))
-(S (VP (VB Let) (S (NP (PRP us)) (VP (VB assume) (ADVP (RB now)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP have) (NP (NP (VBN limited) (NN amount)) (PP (IN of) (NP (NN memory)))))))))) (. .))
-(S (PP (IN For) (NP (DT each) (NN ball))) (, ,) (S (NP (PRP we)) (VP (VBP are) (VP (VBN given) (NP (CD two) (JJ random) (NNS bins))))) (CC and) (S (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB put) (NP (DT the) (NN ball)) (PP (IN into) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))))))))) (. .))
-(S (NP (PRP$ Our) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (NP (DT the) (NN load)) (PP (IN of) (NP (DT the) (JJS heaviest) (NN bin)))))))) (. .))
-(S (NP (DT The) (NN bound)) (VP (VBZ is) (ADJP (VBN tight)) (PP (IN in) (NP (DT the) (NN communication) (NN complexity) (NN model)))) (. .))

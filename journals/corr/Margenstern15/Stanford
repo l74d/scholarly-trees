@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP construct) (NP (DT a) (ADJP (RB weakly) (JJ universal)) (JJ cellular) (NN automaton)) (PP (IN with) (NP (CD two) (NNS states))) (ADVP (RB only)) (PP (IN on) (NP (NP (DT the) (NN tiling)) (-LRB- {) (NP (CD 11,3)) (-RRB- })))) (. .))
-(S (S (NP (DT The) (JJ cellular) (NN automaton)) (VP (VBZ is) (ADJP (NP (NN rotation)) (JJ invariant)))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT a) (JJ true) (NN planar)) (NP (CD one))))) (. .))

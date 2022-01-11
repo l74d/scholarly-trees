@@ -1,3 +1,0 @@
-(S (NP (DT A) (JJ Grassmannian) (NN frame)) (VP (VBZ is) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NP (NN unit) (NNS vectors)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADVP (RB optimally)) (ADJP (JJ incoherent))))))))) (. .))
-(S (PP (IN To) (NP (NN date))) (, ,) (NP (NP (DT the) (JJ vast) (NN majority)) (PP (IN of) (NP (JJ explicit) (NNP Grassmannian) (NNS frames)))) (VP (VBP are) (NP (NP (JJ equiangular) (JJ tight) (NNS frames)) (-LRB- -LRB-) (NP (NNS ETFs)) (-RRB- -RRB-))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VP (VBZ surveys) (NP (NP (DT every) (JJ known) (NN construction)) (PP (IN of) (NP (NNS ETFs))))) (CC and) (VP (VBD tabulates) (NP (NN existence)) (PP (IN for) (NP (ADJP (RB sufficiently) (JJ small)) (NNS dimensions))))) (. .))

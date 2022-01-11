@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN computation)) (PP (IN of) (NP (DT the) (NN diameter)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ central)) (NNS problems)) (PP (IN in) (NP (VBN distributed) (NN computation))))))) (. .))
-(S (NP (DT This)) (VP (VBZ shows) (NP (NP (DT a) (NN separation)) (PP (IN between) (NP (NP (NP (DT the) (JJ computational) (NN power)) (PP (IN of) (NP (NN quantum)))) (CC and) (NP (NP (JJ classical) (NNS algorithms)) (PP (IN in) (NP (DT the) (NN CONGEST) (NN model)))))))) (. .))

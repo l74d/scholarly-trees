@@ -1,4 +1,0 @@
-(S (PP (IN With) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (VBG computing) (NN technology))))) (, ,) (NP (NNP CUDA)) (VP (VBZ has) (VP (VBN become) (NP (DT a) (ADJP (RB very) (JJ important)) (NN tool)))) (. .))
-(S (PP (IN In) (NP (NN computer) (NN programming))) (, ,) (NP (VBG sorting) (NN algorithm)) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN used))) (. .))
-(S (NP (EX There)) (VP (VBP are) (ADJP (JJ many)) (ADVP (NP (NP (JJ simple) (NN sorting) (NNS algorithms)) (PP (JJ such) (IN as) (NP (NN enumeration)))) (RB sort)) (, ,) (NP (NP (NN bubble) (NN sort)) (CC and) (S (VP (VB merge) (ADVP (RB sort) (. .)))))))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP test) (NP (DT some) (JJ simple) (NN sorting) (NN algorithm)) (PP (VBN based) (PP (IN on) (NP (NNP CUDA))))) (CC and) (VP (VB draw) (NP (DT some) (JJ useful) (NNS conclusions)))) (. .))

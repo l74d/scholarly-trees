@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (NN university) (NNS programs) (CC and) (NN curricula))) (, ,) (PP (IN in) (ADJP (JJ general))) (NP (PRP we)) (VP (VBP react) (PP (TO to) (NP (DT the) (NN need) (S (VP (TO to) (VP (VB meet) (NP (NN market) (NNS needs)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP respond) (PP (TO to) (NP (NN market) (NN stimulus)))) (, ,) (CC or) (VP (ADVP (IN at) (JJS least)) (NN try) (S (VP (TO to) (VP (VB do) (ADVP (RB so))))))) (. .))
-(S (VP (VB Consider) (ADVP (RB now)) (NP (DT an) (JJ inverted) (NN view))) (. .))
-(S (VP (VB Consider) (NP (NP (PRP$ our) (NNS data) (CC and) (NNS perspectives)) (PP (IN in) (NP (NN university) (NNS programs)))) (PP (IN as) (S (VP (VP (VBG reflecting)) (CC and) (ADVP (RB indeed)) (VBG presaging) (NP (JJ economic) (NNS trends)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP I)) (VP (VBP pursue) (NP (NP (DT this) (NN line)) (PP (IN of) (NP (NN thinking))))) (. .))
-(S (NP (PRP I)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (JJ various) (JJ past) (NNS events)) (VP (JJ fit) (ADVP (RB very) (RB well)) (PP (IN into) (NP (DT this) (JJ new) (NN view))))))) (. .))
-(S (NP (PRP I)) (VP (VBP provide) (NP (NP (NN explanation)) (PP (IN for) (SBAR (SBAR (WHADVP (WRB why)) (S (NP (DT some) (NN technology) (NNS trends)) (VP (VBD happened) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD did))))))) (, ,) (CC and) (SBAR (WHADVP (WRB why)) (S (NP (DT some) (JJ current) (NNS developments)) (VP (VBP are) (ADJP (JJ important)) (ADVP (RB now))))))))) (. .))

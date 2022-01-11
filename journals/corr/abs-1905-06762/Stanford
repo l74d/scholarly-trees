@@ -1,5 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ describes) (NP (NP (DT the) (NNP AR) (JJ mobile) (NN system)) (PP (IN for) (NP (NNP Sun) (NN system) (NN simulation))))) (. .))
-(S (NP (NP (DT The) (JJ main) (NNS characteristics)) (PP (IN of) (NP (NNP AR) (NNS systems) (NN architecture)))) (VP (VBP are) (VP (VBN given))) (. .))
-(S (NP (NP (DT The) (NNS differences)) (PP (PP (IN between) (NP (NN tracking))) (CC and) (PP (IN without) (NP (VBG tracking) (NNS technics))))) (VP (VBP are) (ADJP (JJ underlined))) (. .))
-(S (NP (NP (DT The) (NN architecture)) (PP (IN of) (NP (NP (DT the) (NN system)) (PP (IN of) (NP (NP (NN use)) (PP (IN of) (NP (NP (VBN complemented) (NN reality)) (PP (IN for) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NN astronomy)))))))))))) (VP (VBZ is) (VP (VBN described))) (. .))
-(S (NP (NP (NP (DT The) (NNS features)) (PP (IN of) (NP (DT the) (NN system)))) (CC and) (NP (NP (DT the) (NNS principles)) (PP (IN of) (NP (PRP$ its) (NN work))))) (VP (VBP are) (VP (VBN determined))) (. .))

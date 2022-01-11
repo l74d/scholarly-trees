@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN application)) (PP (IN of) (NP (NNP Hilbert) (NNS quasi-polynomials))) (PP (TO to) (NP (NN order) (NNS domains)))) (, ,) (S (VP (VBG allowing) (NP (NP (DT the) (JJ effective) (NN check)) (PP (IN of) (NP (DT the) (JJ second) (JJ order-domain) (NN condition)))) (PP (IN in) (NP (DT a) (JJ direct) (NN way)))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT an) (JJ improved) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (DT the) (JJ related) (NNP Hilbert) (NNS quasi-polynomials))))))) (. .))
-(S (NP (DT This)) (VP (VBZ allows) (S (VP (TO to) (VP (VB identify) (NP (NN order) (NN domain) (NNS codes)) (ADVP (RBR more) (RB easily)))))) (. .))

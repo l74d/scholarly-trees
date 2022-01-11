@@ -1,4 +1,0 @@
-(S (NP (NP (DT A) (ADJP (NP (NN Prolog)) (HYPH -) (VBN based)) (NN framework)) (PP (PP (IN for) (NP (RB fully) (VBN automated) (NN verification))) (PP (ADVP (RB currently)) (IN under) (NP (ADJP (NP (NP (NN development)) (PP (IN for) (NP (NN heap)))) (HYPH -) (VBN based)) (NN object) (HYPH -) (ADJP (VBN oriented)) (NN data))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (S (ADVP (RB Dynamically)) (NP (VBN allocated) (NNS issues)) (VP (VBP are) (VP (VBN discussed)))) (, ,) (NP (JJ recent) (NNS approaches) (CC and) (NNS criteria)) (VP (VBP are) (VP (VBN analysed))) (. .))
-(S (NP (NP (DT The) (NN architecture)) (CC and) (NP (PRP$ its) (NNS components))) (VP (VBP are) (VP (VBN introduced) (PP (IN by) (NP (NN example))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (NP (NP (NNS propositions)) (PP (TO to)) (ADVP (RB further))) (CC and) (NP (VBN related) (NN work))) (VP (VBP are) (VP (VBN given))) (. .))

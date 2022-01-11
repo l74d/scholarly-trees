@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NML (NN NS) (HYPH -) (NN Network)) (NNP Simulator)) (, ,) (NP (DT the) (NML (NML (NN computer) (NNS networks)) (NN simulation)) (NN tool)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP offer) (NP (DT an) (NN overview)) (NP (NNP NS))) (, ,) (CC and) (ADVP (RB also)) (VP (VB analyze) (NP (PRP$ its) (NNS characteristics) (CC and) (NNS functions)))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (PP (IN in) (NP (NN detail))) (NP (NP (DT all) (NNS steps)) (PP (IN for) (S (VP (VBG preparing) (NP (NP (DT a) (NN simulation)) (PP (IN of) (NP (NP (DT a) (JJ simple) (NN model)) (PP (IN in) (NP (NNP NS))))))))))) (. .))

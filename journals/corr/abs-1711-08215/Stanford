@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN number)) (VP (VBZ determines) (SBAR (WHADVP (WRB how) (RB well)) (S (NP (JJ Boolean) (NNS functions)) (VP (MD can) (VP (VB be) (VP (VBN approximated) (PP (IN by) (NP (JJ linear) (JJ Boolean) (NNS functions))))))))) (. .))

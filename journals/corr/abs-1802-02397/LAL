@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ explores) (NP (NP (DT a) (NN relationship)) (PP (IN between) (NP (NP (NP (NN inconsistency)) (PP (IN in) (NP (DT the) (NN pairwise) (NNS comparisons) (VBP method)))) (CC and) (NP (NP (NNS conditions)) (PP (IN of) (NP (NN order) (NN preservation)))))))) (. .))
-(S (NP (NP (DT A) (NN pairwise) (NNS comparisons) (VBP matrix)) (PP (IN with) (NP (NP (NNS elements)) (PP (IN from) (NP (DT an) (NN alo-group)))))) (VP (VBZ is) (VP (VBN investigated))) (. .))
-(S (NP (DT This) (NN approach)) (VP (VBZ allows) (PP (IN for) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (JJ previous) (NNS results)))))) (. .))
-(S (NP (NP (JJ Sufficient) (NNS conditions)) (PP (IN for) (NP (NN order) (NN preservation))) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NP (NNS elements)) (PP (IN of) (NP (NN pairwise) (NNS comparisons) (NNS matrix))))))))) (VP (VBP are) (VP (VBN derived))) (. .))
-(S (NP (DT A) (JJ numerical) (NN example)) (VP (VBZ is) (VP (VBN presented))) (. .))

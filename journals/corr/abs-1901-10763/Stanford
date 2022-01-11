@@ -1,8 +1,0 @@
-(NP (NP (DT This) (NML (NML (NN research) (NNS concerns)) (NN design) (NN optimization)) (NNS problems)) (VP (VBG involving) (NP (NP (JJ numerous) (NN design) (NNS parameters)) (CC and) (NP (JJ large) (JJ computational) (NNS models)))) (. .))
-(S (NP (DT These) (NNS problems)) (ADVP (RB generally)) (VP (VBP consist) (PP (IN in) (NP (NP (JJ non-convex) (ADJP (VBN constrained)) (NN optimization) (NNS problems)) (PP (IN in) (NP (ADJP (ADJP (JJ large)) (CC and) (ADJP (RB sometimes) (JJ complex))) (NN search) (NNS spaces)))))) (. .))
-(S (NP (DT The) (JJ classical) (JJ simulated) (JJ annealing) (NN algorithm)) (ADVP (RB rapidly)) (VP (VBZ loses) (NP (PRP$ its) (NN efficiency)) (PP (IN in) (NP (NML (JJ high) (NN search)) (NN space) (NN dimension)))) (. .))
-(S (NP (DT The) (NN control) (NNS points)) (VP (VBP are) (VP (VBN selected) (ADVP (RB iteratively)) (PP (IN during) (NP (NP (DT the) (NN research)) (PP (IN of) (NP (DT the) (JJ optimum))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ explores) (ADVP (RB efficiently)) (NP (DT the) (NML (NN design) (NN search)) (NN space)) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (JJ global) (JJ optimum)) (PP (IN of) (NP (DT the) (NN cost) (NN function)))) (PP (IN as) (NP (DT the) (JJS best) (NN control) (NN point))))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN on) (NP (CD two) (NNS applications))))) (. .))
-(S (NP (DT The) (JJ first) (NN application)) (VP (VBZ consists) (PP (IN in) (NP (NP (DT a) (JJ simple) (NN function)) (PP (IN in) (NP (ADJP (RB relatively) (JJ high)) (NN dimension)))))) (. .))
-(S (NP (DT The) (NN second)) (VP (VBZ is) (VP (VBN related) (PP (IN to) (NP (DT a) (NNP Finite) (NN Element) (NN model))))) (. .))

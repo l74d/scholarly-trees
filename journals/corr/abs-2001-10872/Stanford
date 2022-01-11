@@ -1,2 +1,0 @@
-(NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS observations) (NNS fixes)) (NP (DT a) (JJ natural) (NN scale) (CC or) (NN resolution)))) (. .))
-(S (NP (DT The) (JJ effective) (NN dimension)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN measured) (PP (IN via) (NP (NP (DT the) (NN spectrum)) (PP (IN of) (NP (NP (DT the) (NNP Fisher) (NNP Information) (NNP Matrix)) (VP (VBN regularized) (S (VP (VBG using) (NP (DT this) (JJ natural) (NN scale))))))))))) (. .))

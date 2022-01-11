@@ -1,2 +1,0 @@
-(S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB facilitate) (NP (NP (DT the) (NN production)) (PP (IN of) (NP (NP (NNS codes)) (VP (VBG using) (NP (JJ WiSARD-based) (NNS models)))))))))) (, ,) (NP (NNP LabZero)) (VP (VBD developed) (NP (NP (NP (DT an) (NNP ML) (NN library)) (NP (NNP C++/Python))) (VP (VBD called) (S (NP (NN wisardpkg)))))) (. .))
-(S (NP (DT This) (NN library)) (VP (VBZ is) (NP (NP (DT an) (JJ MIT-licensed) (JJ open-source) (NN package)) (VP (VBN hosted) (PP (IN on) (NP (NNP GitHub))) (PP (IN under) (NP (DT the) (NN license)))))) (. .))

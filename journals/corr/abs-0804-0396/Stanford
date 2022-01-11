@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (NP (NP (DT this) (NN paper)) (NP (DT the) (NN minmax))) (-LRB- -LRB-) (NP (NN regret)) (-RRB- -RRB-))) (NP (NP (NNS versions)) (PP (IN of) (NP (NP (DT some) (JJ basic) (ADJP (RB polynomially) (JJ solvable)) (JJ deterministic) (NN network)) (NP (NNS problems))))) (VP (VBP are) (VP (VBN discussed))) (. .))

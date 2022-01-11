@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NNS methods)) (PP (IN for) (NP (NP (NN aggregating) (NNS preferences)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN resolution)) (PP (IN of) (NP (JJ discrete) (NN optimization) (NNS problems)))))))))))) (. .))
-(S (NP (DT The) (NNS preferences)) (VP (VBP are) (VP (VBN represented) (PP (IN by) (NP (NP (JJ arbitrary) (JJ binary) (NNS relations) (PRN (-LRB- -LRB-) (NP (RB possibly) (JJ weighted)) (-RRB- -RRB-))) (CC or) (NP (JJ incomplete) (JJ paired) (NN comparison) (NNS matrices)))))) (. .))
-(S (NP (DT This) (JJ incomplete) (NN case)) (VP (VBZ remains) (ADJP (RB practically) (JJ unexplored)) (ADVP (RB so) (RB far))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP examine) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (JJ several) (JJ known) (NNS methods))))) (CC and) (VP (VB propose) (NP (CD one) (JJ new) (NN method)))) (. .))
-(S (NP (DT Some) (NNS results)) (VP (VBP are) (VP (VBN established) (SBAR (WHNP (WDT that)) (S (VP (VBP characterize) (NP (NP (NNS solutions)) (PP (IN of) (NP (DT the) (JJ related) (NN optimization) (NNS problems))))))))) (. .))

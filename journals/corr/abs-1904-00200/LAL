@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP review) (NP (NP (NP (JJ NP-hardness) (NN framework)) (CC and) (NP (NNP PSPACE-hardness) (NN framework))) (PP (IN for) (NP (NP (DT a) (NN type)) (PP (IN of) (NP (CD 2D) (NN platform) (NNS games))))))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (DT a) (JJ EXPTIME-hardness) (NN framework)) (PP (IN by) (S (VP (VBG defining) (NP (DT some) (JJ new) (NNS gadgets)))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT these) (NN hardness) (NNS frameworks)) (S (VP (TO to) (VP (VB analyse) (NP (NP (JJ computational) (NN complexity)) (PP (IN of) (NP (NP (NP (NNP Xiangqi)) (PRN (-LRB- -LRB-) (NP (NNP Chinese) (NNP Chess)) (-RRB- -RRB-))) (CC and) (NP (NP (NNP Janggi)) (PRN (-LRB- -LRB-) (NP (NNP Korean) (NNP Chess)) (-RRB- -RRB-)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT all) (NNS gadgets)) (PP (IN of) (NP (NP (DT the) (NN hardness) (NNS frameworks)) (PP (IN in) (NP (NNP Xiangqi) (CC and) (NNP Janggi))))))) (. .))
-(S (PP (IN In) (NP (NN conclusion))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NN Xiangqi) (CC and) (NNP Janggi)) (VP (VBP are) (ADVP (DT both)) (ADJP (NNP EXPTIME-complete)))))) (. .))

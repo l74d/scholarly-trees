@@ -1,3 +1,0 @@
-(S (NP (NP (NNP Capacity) (VBZ bounds)) (PP (IN for) (NP (NP (NN waveform) (NNS channels)) (PP (IN under) (NP (NP (JJ square-law) (NN detection)) (PP (IN of) (NP (JJ time-limited) (JJ complex-valued) (NNS signals)))))))) (VP (VBP are) (VP (VBN derived))) (. .))
-(S (NP (DT The) (JJ upper) (NN bound)) (VP (VBZ is) (NP (NP (DT the) (NN capacity)) (PP (IN of) (NP (DT the) (NN channel))) (PP (IN under) (NP (PRN (-LRB- -LRB-) (JJ complex-valued) (-RRB- -RRB-)) (NN coherent) (NN detection))))) (. .))
-(S (NP (DT The) (JJR lower) (NN bound)) (VP (VBZ is) (ADJP (ADJP (ADJP (NP (CD one) (NN bit)) (JJR less)) (PRN (, ,) (PP (IN per) (NP (NN dimension))) (, ,))) (PP (IN than) (NP (DT the) (JJ upper) (NN bound))))) (. .))

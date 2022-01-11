@@ -1,2 +1,0 @@
-(S (NP (DT A) (JJ fractal) (NN construction)) (VP (VBZ shows) (SBAR (IN that) (, ,) (S (PP (IN for) (NP (NP (DT any) (NN beta)) (NN >) (NP (CD 0)))) (, ,) (NP (NP (DT the) (NN beta-skeleton)) (PP (IN of) (NP (DT a) (NN point) (VBN set)))) (VP (MD can) (VP (VB have) (NP (ADJP (RB arbitrarily) (JJ large)) (NN dilation))))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (NP (DT this)) (VP (VBZ applies) (PP (TO to) (NP (DT the) (NNP Gabriel) (NN graph)))) (. .))

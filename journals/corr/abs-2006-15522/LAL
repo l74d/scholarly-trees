@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN latter)) (VP (MD can) (VP (VB be) (VP (VBN characterized) (PP (IN in) (NP (NP (DT the) (JJ asymptotic) (NN regime)) (SBAR (WHADVP (WRB where)) (S (NP (NP (PDT both) (DT the) (NN dimension) (CC and) (NN cardinality)) (PP (IN of) (NP (DT the) (NNS data)))) (VP (VBP go) (PP (TO to) (NP (NN infinity))))))))))) (. .))
-(S (PP (IN Under) (NP (NP (DT the) (NN assumption)) (PP (IN of) (NP (JJ random) (NNS kernel) (NNS matrices))))) (, ,) (NP (DT the) (JJ corresponding) (NN test) (NN error)) (VP (VBZ follows) (NP (DT a) (JJ double) (NN descent) (NN curve))) (. .))

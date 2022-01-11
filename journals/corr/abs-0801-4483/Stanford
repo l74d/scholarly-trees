@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ analyzes) (NP (NP (DT the) (NN impact)) (PP (IN of) (S (VP (VBG using) (NP (NML (NN 2D) (CC or) (NN 3D)) (NN ultrasound)) (PP (IN on) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (NN prostate) (NNS biopsies)))))))))) (. .))
-(S (NP (DT The) (NN evaluation)) (VP (VBZ is) (VP (VBN performed) (PP (IN on) (NP (ADJP (NN home) (HYPH -) (VBN made)) (NNS phantoms))))) (. .))
-(S (NP (DT The) (NN study)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN accuracy)) (VP (VBZ is) (ADJP (RB significantly) (VBN improved)))))) (. .))

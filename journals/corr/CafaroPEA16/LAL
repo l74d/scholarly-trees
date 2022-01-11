@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (JJ present) (NP (NP (NNP FDCMSS)) (, ,) (NP (NP (DT a) (JJ new) (JJ sketch-based) (NN algorithm)) (PP (IN for) (S (VP (VBG mining) (NP (NP (JJ frequent) (NNS items)) (PP (IN in) (NP (NNS data) (NNS streams)))))))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (ADVP (RB cleverly)) (NNS combines) (NP (NP (JJ key) (NNS ideas)) (VP (VBN borrowed) (PP (IN from) (NP (NP (RB forward) (NN decay)) (, ,) (NP (DT the) (NNP Count-Min)) (CC and) (NP (DT the) (NNP Space) (NNP Saving) (NN algorithms))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ works) (PP (IN in) (NP (DT the) (NN time) (VBG fading) (NN model))) (, ,) (S (VP (VBG mining) (NP (NNS data) (NNS streams)) (PP (VBG according) (PP (TO to) (NP (DT the) (NN cash) (NN register) (NN model))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ natural) (NN liberalization)) (PP (IN of) (NP (NNP Datalog)))) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NNP Distributed) (NNP Knowledge) (NNP Authorization) (NNP Language)) (PRN (-LRB- -LRB-) (NP (NNP DKAL)) (-RRB- -RRB-)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ expressive) (NN power)) (PP (IN of) (NP (DT this) (JJ liberal) (NNP Datalog)))) (VP (VBZ is) (NP (NP (IN that)) (PP (IN of) (NP (JJ existential) (JJ fixed-point) (NN logic)))))))) (. .))
-(S (NP (DT The) (NN exposition)) (VP (VBZ is) (ADJP (JJ self-contained))) (. .))

@@ -1,2 +1,0 @@
-(SINV (PP (IN In) (NP (DT the) (NN work))) (VP (VBP are) (VP (VBN defined))) (NP (DT the) (NNS concepts) (NX (ADJP (JJ semi-canonical) (CC and) (JJ canonical)) (JJ binary) (NN matrix))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ described) (JJ algorithm))) (NP (NN bitwise) (NNS operations)) (VP (VBP are) (VP (ADVP (RB substantially)) (VBN used))) (. .))

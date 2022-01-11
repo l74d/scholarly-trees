@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT each) (NN asset)) (VP (MD can) (VP (VB take) (NP (RB only) (CD two) (NNS values)))))) (, ,) (NP (DT the) (NN problem)) (VP (VBZ becomes) (ADJP (NP (JJ polynomial) (HYPH -) (NN time)) (JJ solvable)))))) (. .))
-(S (ADVP (RB However)) (, ,) (SBAR (RB even) (IN if) (S (NP (DT each) (NN asset)) (VP (MD can) (VP (VB take) (NP (CD three) (JJ different) (NNS values)))))) (, ,) (NP (NN DSHP)) (VP (VBZ is) (ADVP (RB still)) (ADJP (NP (NNP NP)) (HYPH -) (JJ hard))) (. .))
-(S (NP (DT An) (NN approximation) (NN algorithm)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given) (PP (IN under) (NP (DT this) (NN setting))))) (. .))

@@ -1,3 +1,0 @@
-(S (PP (TO To) (NP (DT this))) (NP (PRP we)) (VP (VBP give) (NP (NP (DT the) (NN primal) (CC and) (JJ dual) (NNS solutions)) (PP (IN for) (NP (DT the) (JJ underlying) (JJ semide) (JJ finite) (NN program))))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (PP (IN for) (NP (NP (JJ special) (NN matrix) (NNS classes)) (PRN (-LRB- -LRB-) (NP (ADJP (JJ tridiagonal) (, ,) (JJ backward) (NN tridiagonal) (CC and) (JJ cyclic)) (NNP Hankel) (NNS matrices)) (-RRB- -RRB-)))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ above) (NN form)) (VP (VBZ is) (NP (JJ sos)))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP conjecture) (NP (NP (JJ sos) (NN representability)) (PP (IN for) (NP (NNP Toeplitz) (NNS matrices))))) (. .))

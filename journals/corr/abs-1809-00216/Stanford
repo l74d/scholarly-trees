@@ -1,7 +1,0 @@
-(S (NP (NN Image) (NNP Recognition)) (VP (VBZ is) (NP (NP (DT a) (JJ central) (NN task)) (PP (IN in) (NP (NP (NN computer) (NN vision)) (PP (IN with) (NP (NP (NNS applications)) (VP (VBG ranging) (PP (IN across) (NP (NP (NN search)) (, ,) (NP (NNS robotics)) (, ,) (NP (ADJP (NN self) (HYPH -) (VBG driving)) (NNS cars)) (CC and) (NP (JJ many) (NNS others))))))))))) (. .))
-(S (PRN (S (NP (EX There)) (VP (VBP are) (NP (NP (CD three) (NNS purposes)) (PP (IN of) (NP (DT this) (NN document)) (: :)))))) (LST (LS 1)) (. .))
-(S (NP (PRP We)) (VP (VBP follow) (PRT (RP up)) (UCP (PP (IN on)) (PRN (-LRB- -LRB-) (NP (NP (NNP Fischetti) (CC &) (NNP Jo)) (, ,) (NP (NNP December)) (, ,) (NP (CD 2017))) (-RRB- -RRB-)) (CC and) (S (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (JJ standard) (JJ convolutional) (JJ neural) (NN network)) (VP (MD can) (VP (VB be) (VP (VBN optimized) (PP (IN to) (NP (DT a) (ADJP (RBR more) (JJ sophisticated)) (NN capsule) (NN architecture)))))))))))) (. .))
-(LST (LS 2) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (DT a) (NN MILP) (NN model)) (PP (VBN based) (PP (IN on) (NP (NNP CNN)))) (S (VP (TO to) (VP (VB create) (NP (NNS adversarials)))))) (. .))
-(LST (LS 3) (. .))
-(S (NP (PRP We)) (VP (VBP compare) (CC and) (VBP evaluate) (NP (DT each) (NN network)) (PP (IN for) (NP (NML (NN image) (NN recognition)) (NNS tasks)))) (. .))

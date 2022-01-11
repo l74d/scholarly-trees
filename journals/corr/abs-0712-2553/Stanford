@@ -1,3 +1,0 @@
-(S (NP (NN Difference) (NN triangle) (NNS sets)) (VP (VBP are) (ADJP (JJ useful) (PP (IN in) (NP (NP (JJ many) (JJ practical) (NNS problems)) (PP (IN of) (NP (NN information) (NN transmission))))))) (. .))
-(S (NP (NP (DT This) (NN correspondence) (NNS studies)) (NP (NP (ADJP (JJ combinatorial) (CC and) (JJ computational)) (NNS constructions)) (PP (IN for) (NP (NN difference) (NN triangle))))) (VP (VBZ sets) (S (VP (VBG having) (NP (JJ small) (NNS scopes))))) (. .))
-(S (NP (PRP$ Our) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB produce) (NP (NN difference) (NN triangle) (NNS sets)) (SBAR (WHNP (WP$ whose)) (S (NP (NNS scopes)) (VP (VBP are) (NP (NP (DT the) (JJS best)) (ADJP (RB currently) (VBN known)))))))))))) (. .))

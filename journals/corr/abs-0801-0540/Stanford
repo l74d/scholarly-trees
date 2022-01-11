@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (JJ straightforward) (JJ universal) (JJ blind) (NN detection) (NN algorithm)) (PP (IN for) (NP (NP (JJ linear) (JJ Gaussian) (NN channel)) (PP (IN with) (NP (NNP ISI)))))) (VP (VBZ is) (VP (VBN given))) (. .))
-(S (NP (DT A) (JJ new) (NN error) (NN exponent)) (VP (VBZ is) (ADJP (VBN derived)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NP (NNP Gallager) (POS 's)) (NML (JJ random) (VBG coding) (NN error)) (NN exponent)))))))) (. .))

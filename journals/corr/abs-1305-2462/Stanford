@@ -1,8 +1,0 @@
-(S (NP (DT The) (VBN ruled) (NN surface)) (VP (VBZ is) (NP (NP (DT a) (JJ typical) (NN modeling) (NN surface)) (PP (IN in) (NP (ADJP (NN computer) (VBN aided)) (JJ geometric) (NN design))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN given) (PP (IN in) (NP (DT the) (JJ standard) (JJ parametric) (NN form))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (PP (IN in) (NP (DT the) (NNS forms))) (PP (IN than) (NP (DT the) (JJ standard) (CD one))))) (. .))
-(S (PP (IN For) (NP (DT these) (NNS forms))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ necessary) (S (VP (TO to) (VP (VB determine) (CC and) (VB find) (NP (DT the) (JJ standard) (NN form))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NNS algorithms)) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (DT a) (VBN given) (JJ implicit) (NN surface)) (VP (VBZ is) (NP (DT a) (JJ rational) (VBN ruled) (NN surface))))))))) (. .))
-(S (NP (NP (DT A) (NN parametrization)) (PP (IN of) (NP (DT the) (NN surface)))) (VP (VBZ is) (VP (VBN computed) (PP (IN for) (NP (DT the) (JJ affirmative) (NN case))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP consider) (NP (DT the) (JJ parametric) (NN situation))) (. .))
-(S (ADVP (RBR More) (RB precisely)) (, ,) (SBAR (IN after) (S (NP (DT a) (VBN given) (JJ rational) (JJ parametric) (NN surface)) (VP (VBZ is) (VP (VBN determined) (PP (IN as) (NP (DT a) (ADJP (VBN ruled)) (CD one))))))) (, ,) (NP (PRP we)) (VP (VBP reparameterize) (NP (PRP it)) (PP (IN to) (NP (DT the) (JJ standard) (NN form)))) (. .))

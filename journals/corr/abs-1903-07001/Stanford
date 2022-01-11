@@ -1,1 +1,0 @@
-(S (NP (VBN Serialized) (NNS messages)) (VP (VBP are) (VP (VP (VBN processed) (PP (IN at) (NP (DT the) (NN server)))) (CC and) (VP (VBN sent) (PP (IN as) (NP (NP (NNS objects)) (PP (IN over) (NP (DT the) (NN network))))) (PP (IN to) (NP (DT the) (NN client))) (S (VP (TO to) (VP (VB be) (VP (VBN consumed)))))))) (. .))

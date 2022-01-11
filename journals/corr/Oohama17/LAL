@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (DT the) (JJ additive) (JJ white) (JJ Gaussian) (NN noise) (NNS channels))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN error) (NN probability)) (PP (IN of) (NP (VBG decoding)))) (VP (NNS tends) (S (VP (TO to) (VP (CD one) (ADVP (RB exponentially))))) (PP (IN for) (NP (NP (NNS rates)) (PP (IN above) (NP (DT the) (NN capacity))))))))) (CC and) (VP (VB derive) (NP (DT the) (JJ optimal) (NN exponent) (NN function)))) (. .))
-(S (NP (PRP We)) (VP (MD shall) (VP (VB demonstrate) (SBAR (IN that) (S (NP (DT the) (NN information) (NN spectrum) (NN approach)) (VP (VBZ is) (ADJP (RB quite) (JJ useful) (PP (IN for) (S (VP (VBG investigating) (NP (DT this) (NN problem))))))))))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ Elo-based) (NN rating) (NN system)) (PP (IN for) (NP (VBG programming) (NNS contests))))) (. .))
-(S (NP (PRP We)) (VP (VBP justify) (NP (NP (DT a) (NN definition)) (PP (IN of) (NP (NN performance)))) (S (VP (VBG using) (NP (NP (DT the) (NN logarithm)) (PP (IN of) (NP (NP (DT a) (NN player) (POS 's)) (NN rank))))))) (. .))
-(S (NP (PRP We)) (VP (VBP apply) (NP (DT the) (NN definition)) (PP (TO to) (S (VP (NN rating) (NP (NNP TopCoder) (NNP SRM)))))) (. .))
-(S (NP (PRP We)) (VP (VBP improve) (NP (DT the) (NN accuracy)) (, ,) (S (VP (VBN guided) (PP (IN by) (NP (JJ experimental) (NNS results)))))) (. .))
-(S (NP (PRP We)) (VP (VBP compare) (NP (NNS results)) (PP (IN with) (NP (NNP SRM) (NNS ratings)))) (. .))

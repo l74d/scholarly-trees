@@ -1,8 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (VBN modified) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN detection)) (PP (IN of) (NP (ADJP (JJ nasal) (CC and) (JJ temporal)) (NN eye) (NNS corners)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (NP (NP (DT a) (NN modification)) (PP (IN of) (NP (NP (DT the) (NNP Santos)) (CC and) (NP (NNP Proenka) (NNP Method)))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ first) (NN step))) (, ,) (NP (PRP we)) (VP (VBP detect) (S (NP (NP (DT the) (NN face)) (CC and) (NP (DT the) (NNS eyes))) (VP (VBG using) (NP (NNS classifiers)) (PP (VBN based) (PP (IN on) (NP (ADJP (NP (NNP Haar)) (HYPH -) (JJ like)) (NNS features))))))) (. .))
-(FRAG (NP (PRP We)) (ADVP (RB then)) (NP (NN segment)) (ADVP (RP out)) (NP (DT the) (NN sclera)) (, ,) (PP (IN from) (NP (DT the) (VBN detected) (NN eye) (NN region))) (. .))
-(FRAG (PP (IN From) (NP (DT the) (JJ segmented) (NN sclera))) (, ,) (NP (NP (PRP we) (NN segment)) (PP (IN out) (NP (DT an) (NML (JJ approximate) (NN eyelid)) (NN contour)))) (. .))
-(S (NP (NNP Eye) (NN corner) (NNS candidates)) (VP (VBP are) (VP (VBN obtained) (S (VP (VBG using) (NP (NML (NNP Harris) (CC and) (NNP Stephens)) (NN corner) (NN detector)))))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN post-pruning)) (PP (IN of) (NP (DT the) (NNP Eye) (NN corner) (NNS candidates)))) (S (VP (TO to) (VP (VB locate) (NP (DT the) (NN eye) (NNS corners)) (, ,) (ADVP (RB finally)))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (PP (IN on) (NP (NP (NP (NNP Yale)) (, ,) (NP (NNP JAFFE) (NNS databases))) (CONJP (RB as) (RB well) (IN as)) (NP (PRP$ our) (VBN created) (NN database))))))) (. .))

@@ -1,4 +1,0 @@
-(SQ (VBP Do) (NP (PRP you)) (VP (IN like) (NP (PRP$ your) (NN code))) (. ?))
-(SBARQ (WHNP (WHNP (WP What) (NN kind)) (PP (IN of) (NP (NN code)))) (S (VP (VBZ makes) (S (NP (NNS developers)) (ADJP (VB happiest))))) (. ?))
-(SBARQ (WHNP (WP What)) (SQ (VP (VBZ makes) (S (NP (PRP them)) (ADJP (JJS angriest))))) (. ?))
-(SQ (VBZ Is) (NP (NP (PRP it))) (ADJP (JJ possible)) (S (VP (TO to) (VP (VB monitor) (NP (NP (DT the) (NN mood)) (PP (IN of) (NP (NP (DT a) (JJ large) (NN team)) (PP (IN of) (NP (NNS coders)))))) (S (VP (TO to) (VP (VB determine) (SBAR (WHADVP (WRB when) (CC and) (WRB where)) (S (NP (DT a) (NN codebase)) (VP (VBZ needs) (NP (JJ additional) (NN help))))))))))) (. ?))

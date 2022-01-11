@@ -1,7 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT a) (NN pool)) (PP (IN of) (NP (NP (JJ international) (NN chess) (NN title) (NNS holders)) (VP (VBP born) (PP (IN between) (NP (CD 1901) (CC and) (CD 1943)))))))) (. .))
-(S (S (VP (VBG Using) (NP (NNP Elo) (NNS ratings)))) (NP (PRP we)) (VP (VBP compute) (PP (IN for) (NP (DT every) (NN player))) (NP (NP (PRP$ his) (VBN expected) (NN score)) (PP (IN in) (NP (NP (DT a) (NN game)) (PP (IN with) (NP (NP (DT a) (NN randomly) (VBN selected) (NN player)) (PP (IN from) (NP (DT the) (NN pool))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN figure)) (PP (IN as) (NP (NP (NN player) (POS 's)) (NN merit)))) (. .))
-(S (NP (PRP We)) (VP (VBP measure) (NP (NP (NNS players) (POS ›)) (NN fame)) (PP (IN as) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNP Google) (NNS hits)))))) (. .))
-(S (NP (NP (DT The) (NN correlation)) (PP (IN between) (NP (NN fame) (CC and) (NN merit)))) (VP (VBZ is) (NP (CD 0.38))) (. .))
-(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (NP (NP (DT the) (NN correlation)) (PP (IN between) (NP (NP (DT the) (NN logarithm)) (PP (IN of) (NP (NN fame) (CC and) (NN merit)))))) (VP (VBZ is) (NP (CD 0.61))) (. .))
-(S (NP (DT This)) (VP (VBZ suggests) (SBAR (WDT that) (S (NP (NN fame)) (VP (VBZ grows) (ADVP (RB exponentially)) (PP (IN with) (NP (NN merit))))))) (. .))

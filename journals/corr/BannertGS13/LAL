@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (NP (JJ universal) (NNS windows)) (PP (IN for) (NP (NP (NNP Gabor) (NNS frames)) (PRN (-LRB- -LRB-) (NP (NNP Weyl-Heisenberg) (NNS frames)) (-RRB- -RRB-))))))) (VP (VBZ is) (VP (VBN constructed))) (. .))
-(S (NP (DT These) (NNS windows)) (VP (VBP have) (NP (DT the) (JJ fundamental) (NN property) (SBAR (WDT that) (S (NP (DT every) (JJ overcritical) (NN rectangular) (NN lattice)) (VP (VBZ generates) (NP (DT a) (NNP Gabor) (NN frame))))))) (. .))
-(S (ADVP (RB Likewise)) (, ,) (NP (DT every) (JJ undercritical) (NN rectangular) (NN lattice)) (VP (VBZ generates) (NP (DT a) (NNP Riesz) (NN sequence))) (. .))

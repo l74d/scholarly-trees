@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP describe) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (NNS parameters)) (PP (IN of) (NP (NP (JJ subfield) (NNS subcodes)) (PP (IN of) (NP (JJ extended) (NNP Norm) (: —) (NNP Trace) (NNS codes))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP find) (NP (NP (DT a) (NNP BCH)) (: —) (UCP (IN like) (SINV (NN bound) (PP (IN from) (NP (NP (DT the) (JJ minimum) (NN distance)) (PP (IN of) (NP (DT the) (JJ original) (NN supercode))))))))) (. .))

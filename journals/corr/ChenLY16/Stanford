@@ -1,6 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (NNP GPU)) (VP (VBN based) (NP (JJ parallel) (JJ triangular) (NNS solvers)) (ADVP (RB systematically))))) (. .))
-(S (NP (DT The) (JJ parallel) (JJ triangular) (NNS solvers)) (VP (VBP are) (ADJP (JJ fundamental) (PP (IN to) (NP (NP (JJ incomplete) (NN LU) (NN factorization) (NN family) (NNS preconditioners)) (CC and) (NP (JJ algebraic) (JJ multigrid) (NNS solvers)))))) (. .))
-(S (NP (PRP We)) (VP (VBP develop) (NP (DT a) (JJ new) (NN matrix) (NN format)) (S (ADJP (JJ suitable) (PP (IN for) (NP (NNP GPU) (NNS devices)))))) (. .))
-(S (NP (NP (JJ Parallel) (ADJP (JJR lower) (JJ triangular)) (NNS solvers)) (CC and) (NP (JJ upper) (JJ triangular) (NNS solvers))) (VP (VBP are) (VP (VBN developed) (PP (IN for) (NP (DT this) (JJ new) (NNS data) (NN structure))))) (. .))
-(S (PP (IN With) (NP (DT these) (NNS solvers))) (, ,) (NP (NP (NNP ILU) (NNS preconditioners)) (CC and) (NP (NN domain) (NN decomposition) (NNS preconditioners))) (VP (VBP are) (VP (VBN developed))) (. .))
-(S (NP (NNP Numerical) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB speed) (NP (JJ triangular) (NNS solvers)) (PP (IN around) (ADVP (NP (CD seven) (NNS times)) (RBR faster)))))))) (. .))

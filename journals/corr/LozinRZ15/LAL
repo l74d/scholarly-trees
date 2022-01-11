@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ hereditary) (NN class)) (PP (IN of) (NP (NP (NN graphs)) (PP (IN of) (NP (JJ unbounded) (NN clique-width))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ well-quasi-ordered) (PP (IN by) (NP (DT the) (JJ induced) (NN subgraph) (NN relation))))))))) (. .))

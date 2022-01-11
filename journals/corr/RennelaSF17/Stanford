@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (NNP W)) (PP (SYM *) (NP (HYPH -) (NN algebras)))) (VP (VBP are) (VP (VBN presented) (PP (IN as) (NP (NP (JJ canonical) (NNS colimits)) (PP (IN of) (NP (NP (NP (NNS diagrams)) (PP (IN of) (NP (NN matrix) (NN algebras)))) (CC and) (NP (ADJP (RB completely) (JJ positive)) (NNS maps)))))))) (. .))
-(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (NN matrix) (NNS algebras)) (VP (VBP are) (ADJP (JJ dense) (PP (IN in) (NP (NP (NNP W)) (PP (SYM *) (NP (HYPH -) (NN algebras))))))) (. .))

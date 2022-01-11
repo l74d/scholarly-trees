@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (NP (NNP Aicyber) (POS 's)) (NN system)) (PP (IN for) (NP (NNP NLPCC) (CD 2017) (VBD shared) (NN task) (CD 2))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN formed) (PP (IN by) (NP (NP (DT a) (NN voting)) (PP (IN of) (NP (NP (NP (CD three) (ADJP (JJ deep) (VBG learning) (VBN based)) (NN system)) (VP (VBN trained) (PP (IN on) (NP (JJ character-enhanced) (NN word) (NNS vectors))))) (CC and) (NP (DT a) (ADJP (RB well) (VBN known)) (JJ bag-of-word) (NN model)))))))) (. .))

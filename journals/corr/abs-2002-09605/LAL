@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP discretize) (NP (DT the) (NN problem)) (PP (IN in) (NP (NN space))) (PP (IN by) (NP (DT a) (JJ central) (JJ finite) (NN difference) (NN method)))) (CC and) (VP (PP (IN in) (NP (NN time))) (PP (IN by) (NP (NP (DT the) (NNP Relaxation) (NNP Scheme)) (VP (VBN proposed) (PP (IN by) (NP (NP (NNP C.) (NNP Besse)) (PRN (NNP -LSB-) (NP (NNP C.) (NNP R.) (NNP Acad)))))))))) (. .))
-(NP (NNP Sci) (. .))

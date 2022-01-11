@@ -1,1 +1,0 @@
-(S (NP (NP (NNS Bounds)) (PP (IN for) (NP (NP (DT the) (JJ optimal) (NN tour) (NN length)) (PP (IN for) (NP (DT a) (JJ hypothetical) (NN TSP) (NN algorithm)))))) (VP (VBP are) (VP (VBN derived))) (. .))

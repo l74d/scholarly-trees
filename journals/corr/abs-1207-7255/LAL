@@ -1,2 +1,0 @@
-(S (NP (NP (JJR Quantifier) (NN elimination)) (PP (IN of) (NP (JJ positive) (JJ semidefinite) (JJ cyclic) (JJ ternary) (JJ quartic) (NNS forms)))) (VP (VBZ is) (VP (VBN studied) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
-(S (NP (DT The) (JJ equivalent) (JJ simple) (JJ quantifier-free) (NN formula)) (VP (VP (VBZ is) (VP (VBN proposed))) (CC and) (VP (VBZ is) (ADJP (JJ difficult) (SBAR (S (VP (TO to) (VP (VB obtain) (ADVP (RB automatically)) (PP (IN by) (NP (NP (JJ previous) (NNS methods)) (CC or) (NP (JJR quantifier) (NN elimination) (NNS tools))))))))))) (. .))

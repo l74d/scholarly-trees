@@ -1,5 +1,0 @@
-(S (NP (NP (DT A) (NNP MILP) (NN model)) (PP (IN for) (NP (NP (DT an) (JJ extended) (NN version)) (PP (IN of) (NP (DT the) (JJ Flexible) (NNP Job) (NNP Shop) (NNP Scheduling) (NN problem)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (DT The) (NN extension)) (VP (VBZ allows) (S (NP (NP (DT the) (NNS precedences)) (PP (IN between) (NP (NP (NNS operations)) (PP (IN of) (NP (DT a) (NN job)))))) (VP (TO to) (VP (VB be) (VP (VBN given) (PP (IN by) (NP (NP (DT an) (JJ arbitrary) (VBD directed) (JJ acyclic) (NN graph)) (CONJP (RB rather) (IN than)) (NP (DT a) (JJ linear) (NN order))))))))) (. .))
-(S (NP (DT The) (NN goal)) (VP (VBZ is) (NP (NP (DT the) (NN minimization)) (PP (IN of) (NP (DT the) (NN makespan))))) (. .))
-(S (NP (NP (ADJP (JJ Theoretical) (CC and) (JJ practical)) (NNS advantages)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP show) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (JJ commercial) (NN exact) (NN solver)))) (SBAR (WHADVP (WRB when)) (S (VP (VBN applied) (PP (TO to) (NP (DT the) (VBN proposed) (NN model))))))) (. .))

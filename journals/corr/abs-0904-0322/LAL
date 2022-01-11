@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP are) (VP (VBG introducing) (NP (NP (NP (DT a) (JJ model-free) (NN control)) (CC and) (NP (NP (DT a) (NN control)) (PP (IN with) (NP (DT a) (JJ restricted) (NN model))))) (PP (IN for) (NP (JJ finite-dimensional) (JJ complex) (NNS systems)))))) (. .))
-(S (NP (DT This) (NN control) (NN design)) (VP (MD may) (VP (VB be) (VP (VBN viewed) (PP (IN as) (NP (NP (DT a) (NN contribution)) (PP (TO to) (NP (NP (`` ``) (JJ intelligent) ('' '') (NNP PID) (NNS controllers)) (, ,) (SBAR (WHNP (NP (DT the) (NN tuning)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ becomes) (ADJP (RB quite) (JJ straightforward)) (, ,) (PP (ADVP (RB even)) (IN with) (NP (ADJP (RB highly) (JJ nonlinear) (JJ and/or) (JJ time-varying)) (NNS systems))))))))))))) (. .))
-(S (NP (PRP$ Our) (JJ main) (NN tool)) (VP (VBZ is) (NP (DT a) (ADJP (RB newly) (VBN developed)) (JJ numerical) (NN differentiation))) (. .))
-(S (NP (JJ Differential) (NN algebra)) (VP (VBZ provides) (NP (DT the) (JJ theoretical) (NN framework))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN validated) (PP (IN by) (NP (JJ several) (JJ numerical) (NNS experiments))))) (. .))

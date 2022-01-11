@@ -1,2 +1,0 @@
-(S (NP (NNP Douglas-Rachford) (PRN (-LRB- -LRB-) (NP (NNP DR)) (-RRB- -RRB-)) (NN algorithm)) (VP (VBZ is) (VP (VBN analyzed) (PP (IN for) (NP (NNP Fourier) (NN phase) (NN retrieval))) (PP (IN with) (NP (DT a) (JJ single) (NN random) (NN phase) (NN mask))))) (. .))
-(S (NP (NP (NNP Local) (, ,) (JJ geometric) (NN convergence)) (PP (TO to) (NP (DT a) (JJ unique) (JJ fixed) (NN point)))) (VP (VBZ is) (VP (VBN proved) (PP (IN with) (NP (NP (JJ numerical) (NN demonstration)) (PP (IN of) (NP (JJ global) (NN convergence))))))) (. .))

@@ -1,3 +1,0 @@
-(NP (NP (NP (RB Long) (JJ linear) (NNS codes)) (VP (VBN constructed) (PP (IN from) (NP (JJ toric) (NNS varieties))) (PP (IN over) (NP (JJ finite) (NNS fields))))) (, ,) (NP (PRP$ their) (JJ multiplicative) (NN structure) (CC and) (NN decoding)) (. .))
-(S (NP (DT The) (JJ main) (NN theme)) (VP (VBZ is) (NP (NP (DT the) (JJ inherent) (JJ multiplicative) (NN structure)) (PP (IN on) (NP (JJ toric) (NNS codes))))) (. .))
-(S (NP (PRP We)) (VP (VBP have) (VP (VBN constructed) (NP (JJ quantum) (NN error) (VBG correcting) (NNS codes)) (PP (IN from) (NP (JJ toric) (NNS surfaces))) (PP (IN by) (NP (DT the) (NNP Calderbank-Shor-Steane) (NN method))))) (. .))

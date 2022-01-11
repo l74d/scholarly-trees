@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP develop) (NP (NP (JJ deterministic) (NN approximation) (NN algorithms)) (PP (IN for) (NP (NP (DT the) (JJ minimum) (NN dominating) (VBN set) (NN problem)) (PP (IN in) (NP (DT the) (NNP CONGEST) (NN model)))))) (PP (IN with) (NP (DT an) (ADJP (RB almost) (JJ optimal)) (NN approximation) (NN guarantee)))) (. .))

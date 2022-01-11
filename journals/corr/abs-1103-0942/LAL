@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP derive) (NP (NP (NN generalization) (NN error) (VBZ bounds)) (PP (IN for) (NP (JJ stationary) (JJ univariate) (NN autoregressive) (PRN (-LRB- -LRB-) (NNP AR) (-RRB- -RRB-)) (NNS models))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG imposing) (NP (NN stationarity)))) (VP (VBZ is) (ADJP (JJ enough) (S (VP (TO to) (VP (VB control) (NP (DT the) (NNP Gaussian) (NN complexity)) (PP (IN without) (NP (JJ further) (NN regularization))))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ lets) (S (NP (PRP us)) (VP (VB use) (NP (JJ structural) (NN risk) (NN minimization)) (PP (IN for) (NP (NN model) (NN selection)))))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ our) (NNS methods)) (PP (IN by) (S (VP (VBG predicting) (NP (NN interest) (NN rate) (NNS movements)))))) (. .))

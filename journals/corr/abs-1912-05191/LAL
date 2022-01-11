@@ -1,4 +1,0 @@
-(S (NP (DT A) (JJ radial) (NN topology)) (VP (VBZ is) (VP (VBN needed) (PP (IN for) (NP (NP (NN distribution) (NN system) (NN restoration)) (PP (IN after) (NP (JJ extreme) (NNS events))))))) (. .))
-(S (ADVP (RB However)) (, ,) (S (VP (VBG determining) (NP (DT a) (JJ good) (NN topology)) (PP (IN in) (NP (NN real-time))) (PP (IN for) (NP (NN online) (NN use))))) (VP (VBZ is) (NP (DT a) (NN challenge))) (. .))
-(S (PP (IN In) (NP (DT this) (NN letter))) (, ,) (NP (NP (CD two) (NNS heuristics)) (VP (VBG considering) (NP (NN power) (NN flow) (NN state)))) (VP (VBP are) (VP (VBN proposed) (S (VP (TO to) (VP (ADVP (VB fast)) (VB determine) (NP (DT the) (JJ radial) (NN topology))))))) (. .))
-(S (NP (NNP Case) (NNS studies)) (VP (VBP show) (NP (NP (DT the) (NN validity) (CC and) (NN effectiveness)) (PP (IN of) (NP (DT the) (VBN proposed) (NNS methods))))) (. .))

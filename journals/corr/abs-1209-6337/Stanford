@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (CD 2010))) (, ,) (NP (NP (NNP Grigoriev)) (CC and) (NP (NNP Shpilrain))) (, ,) (VP (VBD introduced) (NP (NML (ADJP (NP (DT some) (NN graph)) (HYPH -) (VBN based)) (NN authentication)) (NNS schemes))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP present) (NP (NP (DT a) (NN cryptanalysis)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (DT these) (NNS protocols))))))) (, ,) (CC and) (VP (VB introduce) (NP (DT some) (JJ new) (NNS schemes)) (S (VP (TO to) (VP (VB fix) (NP (DT the) (NNS problems))))))) (. .))

@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (DT a) (JJ digital) (JJ holographic) (NN microscope)) (S (VP (TO to) (VP (VB track) (NP (NN gold) (NNS colloids)) (PP (IN in) (NP (CD three) (NNS dimensions))))))) (. .))
-(S (NP (PRP We)) (VP (VBP report) (NP (NP (NNS observations)) (PP (IN of) (NP (JJ 100nm) (NN gold) (NNS particles)))) (PP (IN in) (NP (NP (NN motion)) (PP (IN in) (NP (NN water)))))) (. .))
-(S (NP (NP (DT The) (VBN expected) (NN signal)) (CC and) (NP (NP (DT the) (JJ chosen) (NN method)) (PP (IN of) (NP (NN reconstruction))))) (VP (VBP are) (VP (VBN described))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB implement) (NP (DT the) (JJ numerical) (NN calculation)) (S (VP (TO to) (VP (VB reach) (NP (NML (JJ real) (HYPH -) (NN time)) (NN 3D) (NN tracking))))))))))) (. .))

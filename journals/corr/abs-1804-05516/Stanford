@@ -1,7 +1,0 @@
-(S (ADVP (RB So) (RB far)) (NP (NP (QP (RB only) (CD two)) (NNS families)) (PP (IN of) (NP (NNS ovoids)))) (VP (VBP are) (VP (VBN known))) (. .))
-(S (S (NP (DT The) (JJ first)) (VP (VBZ is) (NP (DT the) (JJ elliptic) (NNS quadratics)))) (CC and) (S (NP (DT the) (NN second)) (VP (VBZ is) (NP (DT the) (NNP Tits) (NNS ovoids)))) (. .))
-(S (NP (NP (DT The) (NNS objectives)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN subfield) (NNS codes)) (PP (IN of) (NP (NP (DT the) (CD two) (NNS families)) (PP (IN of) (NP (JJ ovoid) (NNS codes)))))))))) (. .))
-(S (NP (NP (DT The) (NNS dimensions)) (, ,) (NP (JJ minimum) (NNS weights)) (, ,) (CC and) (NP (NP (DT the) (NN weight) (NNS distributions)) (PP (IN of) (NP (NP (NP (DT the) (NN subfield) (NNS codes)) (PP (IN of) (NP (DT the) (JJ elliptic) (JJ quadric) (NNS codes)))) (CC and) (NP (NP (NNS Tits)) (NP (JJ ovoid) (NNS codes))))))) (VP (VBP are) (VP (VBN settled))) (. .))
-(S (NP (NP (DT The) (NNS parameters)) (PP (IN of) (NP (NP (DT the) (NNS duals)) (PP (IN of) (NP (DT these) (NN subfield) (NNS codes)))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN studied))) (. .))
-(S (S (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (NNS codes)) (VP (VBN presented) (PP (IN in) (NP (DT this) (NN paper))))))) (VP (VBP are) (ADJP (JJ optimal)))) (, ,) (CC and) (S (NP (DT some)) (VP (VBP are) (ADJP (NP (NN distance) (HYPH -) (JJ optimal))))) (. .))
-(S (NP (NP (DT The) (NNS parameters)) (PP (IN of) (NP (DT the) (NN subfield) (NNS codes)))) (VP (VBP are) (ADJP (JJ new))) (. .))

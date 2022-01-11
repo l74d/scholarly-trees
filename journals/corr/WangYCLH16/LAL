@@ -1,3 +1,0 @@
-(S (NP (JJ Such) (DT a) (JJ structural) (JJ prior)) (VP (VP (NNS acts) (PP (IN as) (NP (DT an) (JJ effective) (NN network) (NN regularization)))) (, ,) (CC and) (VP (VBZ facilitates) (NP (DT the) (NN model) (NN initialization)))) (. .))
-(S (NP (JJ Extensive) (NNS experiments)) (VP (VBP demonstrate) (NP (NP (DT the) (JJ impressive) (NNS performances)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT an) (JJ in-depth) (NN analysis)) (PP (IN of) (NP (NP (PRP$ its) (NNS behaviors)) (PP (IN against) (NP (DT the) (NNS competitors))))))) (. .))

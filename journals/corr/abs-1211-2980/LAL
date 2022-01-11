@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (NNPS Shatters) (NN relation)) (CC and) (NP (DT the) (NNP VC) (NN dimension))) (VP (VBP have) (VP (VBN been) (VP (VBN investigated) (PP (IN since) (NP (DT the) (JJ early) (NNS seventies)))))) (. .))
-(S (NP (DT These) (NNS concepts)) (VP (VBP have) (VP (VBN found) (NP (JJ numerous) (NNS applications)) (PP (IN in) (NP (NP (NNS statistics)) (, ,) (NP (NNS combinatorics)) (, ,) (NP (VBG learning) (NN theory)) (CC and) (NP (JJ computational) (NN geometry)))))) (. .))
-(S (NP (VBG Shattering) (JJ extremal) (NNS systems)) (VP (VBP are) (NP (NP (JJ set-systems)) (PP (IN with) (NP (NP (DT a) (ADJP (RB very) (JJ rich)) (NN structure)) (CC and) (NP (JJ many) (JJ different) (NNS characterizations)))))) (. .))
-(S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT this) (NN thesis)))) (VP (VBZ is) (S (VP (TO to) (VP (VB elaborate) (PP (IN on) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT these) (NNS systems))))))))) (. .))

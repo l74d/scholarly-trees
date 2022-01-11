@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP survey) (NP (NP (DT some) (NNS results)) (PP (IN on) (NP (NP (DT the) (JJ automatic) (NN verification)) (PP (IN of) (NP (JJ parameterized) (NNS programs)))))) (PP (IN without) (NP (NNS identities)))) (. .))
-(S (NP (DT These)) (VP (VBP are) (NP (NP (NNS systems)) (VP (VBN composed) (PP (IN of) (NP (NP (ADJP (RB arbitrarily) (JJ many)) (NNS components)) (, ,) (NP (NP (DT all)) (PP (IN of) (S (NP (PRP them)) (VP (VBG running) (ADVP (RB exactly)) (NP (DT the) (JJ same) (ADJP (JJ finite) (HYPH -) (NN state)) (NN program))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NN complexity)) (PP (IN of) (S (VP (VBG deciding) (SBAR (IN that) (S (NP (DT no) (NN component)) (VP (VBZ reaches) (NP (DT an) (JJ unsafe) (NN state)))))))))) (. .))
-(S (NP (DT The) (NN note)) (VP (VBZ is) (VP (VBN addressed) (PP (IN at) (NP (JJ theoretical) (NN computer) (NNS scientists))) (PP (IN in) (ADJP (JJ general))))) (. .))

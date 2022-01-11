@@ -1,3 +1,0 @@
-(S (NP (JJ Computational) (NN science)) (VP (VBZ is) (VP (VBG changing) (S (VP (TO to) (VP (VB be) (ADJP (NNS data) (JJ intensive))))))) (. .))
-(S (NP (NNS Super-Computers)) (VP (MD must) (VP (VB be) (NP (NP (VBN balanced) (NNS systems)) (: ;) (NP (RB not) (RB just) (JJ CPU) (NNS farms) (CONJP (CC but) (RB also)) (NP (JJ petascale) (NNP IO) (CC and) (JJ networking) (NNS arrays)))))) (. .))
-(S (NP (NP (NN Anyone)) (VP (NN building) (NP (NNP CyberInfrastructure)))) (VP (MD should) (VP (VB allocate) (NP (NNS resources)) (S (VP (TO to) (VP (VB support) (NP (DT a) (JJ balanced) (ADJP (NNP Tier-1) (IN through) (NNP Tier-3)) (NN design))))))) (. .))

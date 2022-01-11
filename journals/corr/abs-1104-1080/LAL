@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (JJ strong) (NN inapproximability) (NN result)) (PP (IN for) (NP (DT the) (NNP Balanced) (NNP Minimum) (NNP Evolution) (NNP Problem))))) (. .))
-(S (NP (PRP$ Our) (NN proof)) (ADVP (RB also)) (VP (VBZ implies) (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (VBZ remains) (ADJP (NNP NP-hard)) (SBAR (RB even) (WRB when) (S (VP (VBN restricted) (PP (TO to) (NP (JJ metric) (NNS instances)))))))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ MST-based) (JJ 2-approximation) (NN algorithm)) (PP (IN for) (NP (DT the) (NN problem))) (PP (IN for) (NP (JJ such) (NNS instances))))) (. .))

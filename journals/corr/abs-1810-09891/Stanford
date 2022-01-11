@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN report)) (VP (VBZ describes) (NP (NP (DT the) (ADJP (RB newly) (VBN added)) (NNP Julia) (NN interface)) (PP (IN to) (NP (DT the) (NN NFFT3) (NN library))))) (. .))
-(S (NP (PRP We)) (VP (VBP explain) (NP (NP (DT the) (JJ multidimensional) (NN NFFT) (NN algorithm)) (CC and) (NP (NP (NNS basics)) (PP (IN of) (NP (DT the) (NN interface)))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP go) (PP (IN into) (NP (NN detail))) (UCP (PP (IN about) (NP (DT the) (JJ different) (NNS parameters))) (CC and) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB adjust) (NP (PRP them)) (ADVP (RB properly)))))))) (. .))

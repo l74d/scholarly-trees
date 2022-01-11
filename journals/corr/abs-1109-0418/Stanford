@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (DT the) (NML (NN max) (HYPH -) (NN consensus)) (NN protocol))))) (. .))
-(S (NP (JJ Tropical) (NN algebra)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB formulate) (NP (DT the) (NN problem))))))) (. .))
-(S (S (NP (NP (ADJP (JJ Necessary) (CC and) (JJ sufficient)) (NNS conditions)) (PP (IN for) (NP (NP (NN convergence)) (PP (IN of) (NP (NP (DT the) (NN max) (HYPH -) (NN consensus)) (PP (NP (NN protocol)) (IN over))))))) (VP (VBN fixed))) (CONJP (RB as) (RB well) (IN as)) (S (NP (VBG switching) (NN topology) (NNS networks)) (VP (VBP are) (VP (VBN given)))) (. .))

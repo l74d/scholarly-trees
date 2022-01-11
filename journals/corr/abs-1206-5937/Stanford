@@ -1,3 +1,0 @@
-(S (`` ") (NP (NP (NP (NN Model) (HYPH -) (JJ free)) (`` ") (NP (NN control))) (CC and) (NP (DT the) (UCP (ADJP (ADJP (JJ related)) (ADJP (`` ") (JJ intelligent) ('' ")) (ADJP (JJ proportional) (HYPH -) (JJ integral))) (-LRB- -LRB-) (NML (NN PI)) (-RRB- -RRB-)) (NNS controllers))) (VP (VBP are) (ADVP (RB successfully)) (VP (VBN applied) (PP (IN to) (NP (NML (NN freeway) (NN ramp)) (NN metering) (NN control))))) (. .))
-(S (S (VP (VBG Implementing) (ADVP (RB moreover)) (NP (DT the) (VBG corresponding) (NN control) (NN strategy)))) (VP (VBZ is) (ADJP (JJ straightforward))) (. .))
-(S (NP (JJ Several) (JJ excellent) (NN computer) (NNS simulations)) (VP (VBP are) (VP (VBN provided) (CC and) (VBN analyzed))) (. .))

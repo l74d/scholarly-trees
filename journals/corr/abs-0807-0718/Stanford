@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NNP Parikh) (NN map)) (PP (IN of) (NP (DT a) (VBN bounded) (ADJP (NP (NN context)) (HYPH -) (JJ free)) (NN language)))) (VP (VBZ is) (NP (DT a) (NN box) (NN spline)))))) (. .))
-(S (ADVP (RB Moreover)) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN in) (NP (DT this) (NN case))) (, ,) (NP (PDT such) (DT a) (NN function)) (VP (VBZ is) (ADJP (JJ rational)))))) (. .))

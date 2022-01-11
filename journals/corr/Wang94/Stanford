@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT the) (JJ bilingual) (NML (JJ dual) (HYPH -) (VBG coding)) (NN theory)) (PP (IN as) (NP (NP (DT a) (NN model)) (PP (IN for) (NP (JJ bilingual) (JJ mental) (NN representation))))))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN model)))) (, ,) (NP (JJ lexical) (NN selection) (JJ neural) (NNS networks)) (VP (VBP are) (VP (VBN implemented) (PP (IN for) (NP (NP (DT a) (JJ connectionist) (NN transfer) (NN project)) (PP (IN in) (NP (NN machine) (NN translation))))))) (. .))
-(S (NP (DT This) (JJ lexical) (NN selection) (NN approach)) (VP (VBZ has) (NP (CD two) (NNS advantages))) (. .))
-(S (ADVP (RB First)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ learnable))) (. .))
-(S (NP (NP (JJ Little) (JJ human) (NN effort)) (PP (IN on) (NP (NN knowledge) (NN engineering)))) (VP (VBZ is) (VP (VBN required))) (. .))
-(S (ADVP (RB Secondly)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (RB psycholinguistically) (RB well) (HYPH -) (VBN founded))) (. .))

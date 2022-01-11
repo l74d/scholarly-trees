@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNP Dejean) (POS 's)) (NN conjecture)) (VP (VBZ holds) (PP (IN for) (NP (JJ n) (NNP >) (NNP =27))))))) (. .))
-(S (NP (DT This)) (VP (VBZ brings) (NP (NP (DT the) (JJ final) (NN resolution)) (PP (IN of) (NP (DT the) (NN conjecture))) (PP (IN by) (NP (NP (DT the) (NN approach)) (PP (IN of) (NP (NNP Moulin) (NNP Ollagnier)))))) (PP (IN within) (NP (NP (NN range)) (PP (IN of) (NP (DT the) (ADJP (NN computationally) (JJ feasible))))))) (. .))

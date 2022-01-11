@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP conjecture) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ exists) (NP (NP (DT a) (JJ linear) (NN time) (NNP RAM) (NN algorithm)) (VP (VBG finding) (NP (DT all) (NNS runs)))))))) (. .))

@@ -1,1 +1,0 @@
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN proof)) (VP (MD can) (VP (VB be) (VP (ADVP (RB readily)) (VBN applied) (PP (TO to) (NP (NP (VB regularized) (JJ linear) (NN optimization)) (CC and) (NP (JJ generalized) (JJ linear) (NN model) (NNS problems)))))))))) (. .))

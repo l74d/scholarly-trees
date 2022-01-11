@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (JJ novel) (NN method)) (PP (IN of) (NP (NP (NN simulation)) (PP (IN of) (NP (NN lipid) (NNS biomembranes)))))) (PP (VBN based) (PP (IN on) (NP (NP (NML (NNP Metropolis) (NNP Hastings)) (NN algorithm)) (CC and) (NP (NNP Graphic) (NNP Processing) (NNP Unit)) (NML (JJ computational) (NN power)))))) (. .))
-(S (NP (NN Method)) (VP (VBZ gives) (PRT (RP up)) (PP (IN to) (NP (QP (CD 55) (NNS times)))) (NP-TMP (NP (JJ computational) (NN boost)) (PP (IN in) (NP (NN comparison)))) (PP (IN to) (NP (JJ classical) (NNS computations)))) (. .))
-(S (NP (NP (JJ Extensive) (NN study)) (PP (IN of) (NP (NN algorithm) (NN correctness)))) (VP (VBZ is) (VP (VBN provided))) (. .))
-(S (NP (NP (NN Analysis)) (PP (IN of) (NP (NP (NN simulation) (NNS results) (CC and) (NNS results)) (VP (VBN obtained) (PP (IN with) (NP (JJ classical) (NN simulation) (NNS methodologies))))))) (VP (VBP are) (VP (VBN presented))) (. .))

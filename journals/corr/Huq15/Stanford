@@ -1,6 +1,0 @@
-(NP (NP (NP (NN Cat)) (: -) (CC and) (NP (HYPH -) (NN mouse))) (SBAR (S (VP (VBZ is) (NP (NP (DT a) (NML (CD two) (HYPH -) (NN player)) (NN game)) (PP (IN on) (NP (DT a) (JJ finite) (NN graph))))))) (. .))
-(S (NP (NNP Chandra) (CC and) (NNP Stockmeyer)) (VP (VBD showed) (SBAR (S (NP (NN cat) (HYPH -) (CC and) (HYPH -) (NN mouse)) (VP (VBZ is) (NP (NP (NN P) (HYPH -) (JJ complete)) (PP (IN on) (NP (VBN directed) (NNS graphs)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (NN cat) (HYPH -) (CC and) (HYPH -) (NN mouse)) (VP (VBZ is) (NP (NP (NN P) (HYPH -) (JJ complete)) (PP (IN on) (NP (JJ undirected) (NNS graphs)))))))) (. .))
-(S (PP (IN To) (NP (PRP$ our) (NN knowledge))) (, ,) (NP (NP (DT no) (NN proof)) (PP (IN of) (NP (DT the) (VBN directed) (NN case)))) (VP (VBD was) (ADVP (RB ever)) (VP (VBN published))) (. .))
-(S (S (VP (TO To) (VP (VB fill) (NP (DT this) (NN gap))))) (NP (PRP we)) (VP (VP (VBP give) (NP (NP (DT a) (NN proof)) (PP (IN for) (NP (VBN directed) (NNS graphs))))) (CC and) (VP (VB extend) (NP (PRP it)) (PP (IN to) (NP (JJ undirected) (NNS graphs))))) (. .))
-(S (NP (DT The) (NN proof)) (VP (VBZ is) (NP (NP (DT a) (NN reduction)) (PP (IN from) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (DT the) (NML (NN circuit) (NN value)) (NN problem))))))) (. .))

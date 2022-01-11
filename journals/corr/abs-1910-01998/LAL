@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP adapt) (NP (NP (NP (NNP Victor) (NNP Y.) (NNP Pan) (POS 's)) (JJ root-based) (NN algorithm)) (PP (IN for) (S (VP (VBG finding) (NP (JJ approximate) (NNP GCD)))))) (PP (TO to) (NP (NP (DT the) (NN case)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS polynomials)) (VP (VBP are) (VP (VBN expressed) (PP (IN in) (NP (NNP Bernstein) (NNS bases)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP offer) (NP (NP (DT some) (NNS refinements)) (SBAR (S (VP (TO to) (VP (VB improve) (NP (DT the) (NN process)))))))) (. .))

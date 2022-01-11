@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ asymptotic) (NN limit)) (PP (IN between) (NP (ADJP (JJ correctable) (CC and) (JJ uncor) (HYPH -) (JJ rectable)) (NNS errors)))) (PP (IN on) (NP (NP (DT the) (NML (NNP Reed) (HYPH -) (NNP Muller)) (NNS codes)) (PP (IN of) (NP (DT any) (NN order)))))) (. .))
-(S (NP (DT This) (NN limit)) (VP (VP (VBZ is) (ADJP (JJ theoretical))) (CC and) (VP (VBZ does) (RB not) (VP (VB depend) (PP (IN of) (NP (DT any) (NN decoding) (NN algorithm)))))) (. .))

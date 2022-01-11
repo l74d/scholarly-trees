@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP construct) (NP (NP (JJ explicit) (JJ algebraic) (NN geometry) (NNS codes)) (VP (VBN built) (PP (IN from) (S (NP (DT the) (NNP Garcia-Stichtenoth) (NN function) (NN field) (NN tower)) (VP (VBG beating) (NP (NP (DT the) (NNP Gilbert-Varshamov)) (VP (NN bound) (PP (IN for) (NP (NN alphabet) (NNS sizes))) (NP (IN at) (JJS least) (CD 192)))))))))) (. .))
-(S (NP (NNS Messages)) (VP (VBP are) (VP (VBN identied) (PP (IN with) (NP (NP (NNS functions)) (PP (IN in) (NP (JJ certain) (JJ Riemann-Roch) (NNS spaces))) (VP (VBN associated) (PP (IN with) (NP (NP (NNS divisors)) (VP (VBN supported) (PP (IN on) (NP (JJ multiple) (NNS places))))))))))) (. .))
-(S (NP (VBG Encoding)) (VP (NNS amounts) (PP (TO to) (S (VP (VBG evaluating) (NP (DT these) (NNS functions)) (PP (IN at) (NP (ADJP (JJ degree) (CD one)) (NNS places))))))) (. .))
-(FRAG (ADVP (RB Prior) (PP (TO to) (NP (DT this) (NN work)))) (, ,) (NP (VBG encoding)) (PRN (-LRB- -LRB-) (NP (NN resp)) (. .)))
-(S (NP (NP (LST (VBG decoding) (-RRB- -RRB-)) (NN time)) (PP (IN of) (NP (NP (NN code) (NNS families)) (VP (VBG beating) (NP (DT the) (NNP Gilbert-Varshamov) (NN bound)))))) (VBD were) (ADJP (JJ quadratic)) (PRN (-LRB- -LRB-) (ADVP (NN resp)) (. .)))
-(FRAG (ADJP (NN cubic)) (-RRB- -RRB-) (CC or) (ADJP (JJR worse)) (. .))

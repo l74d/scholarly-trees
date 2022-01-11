@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ decentralized) (NN routing) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN in) (NP (NML (NNP Bitcoin) (NNP Lightning)) (NNP Network)))))))))) (. .))
-(S (NP (NP (DT All) (NNS nodes)) (PP (IN in) (NP (DT the) (NN network)))) (VP (VBP contribute) (ADVP (RB equally)) (PP (IN to) (NP (NN path) (NN searching)))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN inspired) (PP (IN from) (NP (NN ant) (NN path))) (S (VP (VBG searching) (NP (NNS algorithms)))))) (. .))

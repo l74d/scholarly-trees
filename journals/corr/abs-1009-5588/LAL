@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP give) (NP (NP (DT a) (JJ general) (NN framework)) (VP (VBG implementing) (NP (DT the) (JJ Second) (NNP Moment) (NNP Method)) (PP (IN on) (NP (NN k-SAT)))))) (CC and) (VP (VB discuss) (NP (NP (DT the) (NNS conditions)) (VP (VBG making) (S (NP (DT the) (JJ Second) (NNP Moment) (NNP Method)) (VP (NN work) (PP (IN in) (NP (DT this) (NN framework))))))))) (. .))
-(S (PP (IN As) (NP (NNS applications))) (, ,) (NP (PRP we)) (VP (VBP make) (S (NP (DT the) (NNP Second) (NNP Moment) (NNP Method)) (VP (NN work) (PP (IN on) (NP (JJ boolean) (NNS solutions) (CC and) (NNS implicants)))))) (. .))
-(S (NP (PRP We)) (VP (VBP extend) (NP (DT this)) (PP (TO to) (NP (NP (DT the) (JJ distributional) (NN model)) (PP (IN of) (NP (NN k-SAT)))))) (. .))

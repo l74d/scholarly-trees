@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP survey) (NP (NP (JJ recent) (NNS generalizations) (CC and) (NNS improvements)) (PP (IN of) (NP (NP (DT the) (JJ linear) (NN programming) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBP involve) (NP (JJ semidefinite) (NN programming))))))))) (. .))
-(S (NP (NP (DT A) (JJ general) (NN framework)) (VP (VBG using) (NP (NN group) (NNS representations) (CC and) (NNS tools)) (PP (IN from) (NP (NN graph) (NN theory))))) (VP (VBZ is) (VP (VBN provided))) (. .))

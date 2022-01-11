@@ -1,6 +1,0 @@
-(S (NP (NNS Biometrics)) (VP (VBP make) (S (NP (JJ human) (NN identification)) (ADJP (JJ possible))) (PP (IN with) (NP (NP (NP (DT a) (NN sample)) (PP (IN of) (NP (DT a) (JJ biometric) (NN trait)))) (CC and) (NP (DT an) (JJ associated) (NN database))))) (. .))
-(S (NP (JJ Classical) (NN identification) (NNS techniques)) (VP (VBP lead) (PP (TO to) (NP (NN privacy) (NNS concerns)))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ new) (NN method)) (SBAR (S (VP (TO to) (VP (VB identify) (NP (NP (NN someone)) (VP (VBG using) (NP (PRP$ his) (NNS biometrics)))) (PP (IN in) (NP (DT an) (JJ encrypted) (NN way))))))))) (. .))
-(S (NP (PRP$ Our) (NN construction)) (VP (NNS combines) (NP (NNP Bloom) (NNS Filters)) (PP (IN with) (NP (NNP Storage) (CC and) (JJ Locality-Sensitive) (NNP Hashing)))) (. .))
-(S (NP (PRP We)) (VP (VBP apply) (NP (DT this) (JJ error-tolerant) (NN scheme)) (, ,) (PP (IN in) (NP (DT a) (NNP Hamming) (NN space))) (, ,) (S (VP (TO to) (VP (VB achieve) (NP (JJ biometric) (NN identification)) (PP (IN in) (NP (DT an) (JJ efficient) (NN way))))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ non-trivial) (NN identification) (NN scheme)) (VP (VBG dealing) (PP (IN with) (NP (NP (NN fuzziness)) (CC and) (NP (VBN encrypted) (NNS data))))))) (. .))

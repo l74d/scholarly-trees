@@ -1,3 +1,0 @@
-(S (NP (JJS Most) (JJ multi-sided) (NN transfinite) (NNS surfaces)) (VP (VBP require) (NP (NNS cross-derivatives)) (PP (IN at) (NP (DT the) (NNS boundaries)))) (. .))
-(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP show) (NP (NP (DT a) (JJ general) (ADJP (QP ($ $) (JJ n) ($ $)) (VBD -sided)) (NN patch)) (SBAR (WHNP (IN that)) (S (VP (VBZ interpolates) (NP (DT all) (NNS boundaries)) (PP (VBN based) (PP (IN on) (NP (JJ only) (JJ positional) (NN information))))))))) (. .))
-(S (NP (DT The) (NN surface)) (VP (VBZ is) (NP (NP (DT a) (JJ weighted) (NN sum)) (PP (IN of) (NP (ADJP ($ $) (JJ n) ($ $)) (NNPS Coons) (NNS patches)))) (, ,) (S (VP (VBG using) (NP (NP (DT a) (NN parameterization)) (VP (VBN based) (PP (IN on) (NP (NNP Wachspress) (NNS coordinates)))))))) (. .))

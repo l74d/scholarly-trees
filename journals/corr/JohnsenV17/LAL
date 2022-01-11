@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (JJ two-party) (JJ wire-tap) (NN channel)) (PP (IN of) (NP (NN type) (NNP II)))) (PP (IN in) (NP (NP (DT the) (NN framework)) (PP (IN of) (NP (RB almost) (JJ affine) (NNS codes)))))) (. .))
-(S (NP (PRP$ Its) (JJ cryptological) (NN performance)) (VP (VBZ is) (VP (VBN related) (PP (TO to) (NP (NP (DT some) (JJ relative) (NNS profiles)) (PP (IN of) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (ADJP (RB almost) (JJ affine)) (NNS codes))))))))) (. .))
-(S (NP (DT These) (NNS profiles)) (VP (VBP are) (NP (NP (NNS analogues)) (PP (IN of) (NP (NP (JJ relative) (VBN generalized) (NNP Hamming) (NNS weights)) (PP (IN in) (NP (DT the) (JJ linear) (NN case))))))) (. .))

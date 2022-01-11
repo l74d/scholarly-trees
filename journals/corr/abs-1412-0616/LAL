@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (JJ novel) (NN concept)) (PP (IN of) (NP (JJ quantum) (JJ logical) (NN entropy)))) (VP (VBZ is) (VP (VBN presented) (CC and) (VBN analyzed))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (JJ several) (JJ basic) (NNS properties)) (PP (IN of) (NP (DT this) (NN entropy)))) (PP (IN with) (NP (NP (NN regard)) (PP (TO to) (NP (NN density) (NNS matrices)))))) (. .))
-(S (NP (PRP We)) (ADVP (VBP hereby)) (VP (VB motivate) (NP (NP (DT a) (JJ different) (NN approach)) (PP (IN for) (NP (NP (DT the) (NN assignment)) (PP (IN of) (NP (JJ quantum) (NN entropy))) (PP (TO to) (NP (NN density) (NNS matrices))))))) (. .))

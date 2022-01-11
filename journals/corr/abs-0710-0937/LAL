@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN report)) (VP (VBZ is) (VP (VBN devoted) (PP (TO to) (NP (NP (NN introduction)) (PP (IN in) (NP (NP (NN multichannel) (NN algorithm)) (VP (VBN based) (PP (IN on) (NP (NP (JJ generalized) (NN numeration) (NNS notations)) (PRN (-LRB- -LRB-) (NP (NNP GPN)) (-RRB- -RRB-))))))))))) (. .))
-(S (NP (DT The) (ADJP (JJ internal) (, ,) (JJ external) (CC and) (JJ mixed)) (NN account)) (VP (VBP are) (VP (VBN entered))) (. .))
-(S (NP (NP (NP (DT The) (NN concept)) (PP (IN of) (NP (DT the) (NNP GPN)))) (CC and) (NP (NP (PRP$ its) (NN classification)) (PP (IN as) (NP (NP (NN decomposition)) (PP (IN of) (NP (NP (NP (DT an) (NN integer)) (IN on)) (VP (VBN composed) (PP (IN of) (NP (NNS integers)))))))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
-(S (NP (NP (NN Realization)) (PP (IN of) (NP (NNS multichannel) (VBP algorithm))) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NNP GPN)))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (NP (DT some) (NNS properties)) (PP (IN of) (NP (NNP Fibonacci) (NN multichannel) (NN algorithm)))) (VP (VBP are) (VP (VBN discussed))) (. .))

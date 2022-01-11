@@ -1,4 +1,0 @@
-(S (NP (NNP Voting)) (VP (VBZ is) (NP (NP (DT a) (NN game)) (PP (IN with) (NP (DT a) (NML (DT no) (HYPH -) (NN go)) (NN theorem))))) (. .))
-(S (NP (NP (JJ New) (NNS proofs)) (PP (IN of) (NP (NP (NNP Arrow) (POS 's)) (NN impossibility) (NN theorem)))) (VP (VBP are) (VP (VBN given) (PP (VBN based) (PP (IN on) (NP (NN quantum) (NN information) (NN theory)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ Arrowian) (NN dictator)) (VP (VBZ is) (ADJP (JJ equivalent) (PP (IN to) (NP (DT the) (JJ perfect) (NN cloning) (NN circuit)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT the) (JJ thermodynamic) (NN interpretation)) (PP (IN of) (S (VP (VBG voting) (PP (IN with) (NP (NP (NNP Landauer) (POS 's)) (NN principle)))))))) (. .))

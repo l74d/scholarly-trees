@@ -1,2 +1,0 @@
-(S (NP (NP (JJ Classical) (JJ principal) (NN component) (NN analysis)) (PRN (-LRB- -LRB-) (NP (NNP PCA)) (-RRB- -RRB-))) (VP (MD may) (VP (VB suffer) (PP (IN from) (NP (NP (DT the) (NN sensitivity)) (PP (TO to) (NP (NNS outliers) (CC and) (NN noise))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP$ their) (JJ numerical) (NN performance)) (VP (VBZ is) (RB not) (ADJP (JJ satisfactory))) (. .))

@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (JJ algebraic) (NML (JJ soft) (HYPH -) (NN decision)) (NN decoding) (NN algorithm)) (PP (IN for) (NP (NP (NNP Reed) (HYPH -) (NNP Solomon)) (NP (NN code))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ rational) (NN interpolation)))))) (CC and) (S (NP (DT the) (NN interpolation) (NNS points)) (VP (VBP are) (VP (VBN constructed) (PP (IN by) (NP (NML (NNP Berlekamp) (HYPH -) (NNP Messay)) (NN algorithm)))))) (. .))

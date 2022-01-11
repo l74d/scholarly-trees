@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN contribution)) (VP (VBZ extends) (NP (NP (DT the) (NNP Bron) (NNP Kerbosch) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (NP (DT the) (JJ maximum) (NN weight) (NN clique) (NN problem)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ continuous-valued) (NNS weights)) (VP (VBP are) (VP (VBN assigned) (PP (TO to) (NP (DT both) (, ,) (NNS vertices) (CC and) (NNS edges))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBD applied) (NP (DT the) (VBN proposed) (NN algorithm)) (S (VP (TO to) (VP (VB graph) (NP (VBG matching) (NNS problems)))))) (. .))

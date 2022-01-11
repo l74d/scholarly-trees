@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (NNP Monte) (NNP Carlo) (NNP Action) (NNP Programming)) (, ,) (NP (NP (DT a) (JJ programming) (NN language) (NN framework)) (PP (IN for) (NP (NP (JJ autonomous) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP act) (PP (IN in) (NP (NP (JJ large) (JJ probabilistic) (NN state) (NNS spaces)) (PP (IN with) (NP (JJ high) (NN branching) (NNS factors))))))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ comprises) (NP (NP (JJ formal) (NN syntax) (CC and) (NNS semantics)) (PP (IN of) (NP (DT a) (JJ nondeterministic) (NN action) (VBG programming) (NN language))))) (. .))
-(S (NP (DT The) (NN language)) (VP (VBZ is) (VP (VBN interpreted) (ADVP (RB stochastically)) (PP (IN via) (NP (NNP Monte) (NNP Carlo) (NNP Tree) (NNP Search))))) (. .))
-(S (NP (NP (NN Effectiveness)) (PP (IN of) (NP (DT the) (NN approach)))) (VP (VBZ is) (VP (VBN shown) (ADVP (RB empirically)))) (. .))

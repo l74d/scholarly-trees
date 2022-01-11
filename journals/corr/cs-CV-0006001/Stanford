@@ -1,3 +1,0 @@
-(FRAG (NP (DT A) (JJ Bayesian) (NN classifier)) (SBAR (WHNP (WHNP (WDT that)) (ADVP (RB up))) (HYPH -) (S (NP (NP (NNS weights)) (NP (NP (DT the) (NNS differences)) (PP (IN in) (NP (DT the) (NN attribute) (NNS values))))) (VP (VBZ is) (VP (VBN discussed))))) (. .))
-(S (S (VP (VBG Using) (NP (CD four) (JJ popular) (NNS datasets)) (PP (IN from) (NP (DT the) (NNP UCI) (NN repository))))) (, ,) (NP (NP (DT some) (JJ interesting) (NNS features)) (PP (IN of) (NP (DT the) (NN network)))) (VP (VBP are) (VP (VBN illustrated))) (. .))
-(S (NP (DT The) (NN network)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (NN classification) (NNS problems))))) (. .))

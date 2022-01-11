@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NNS conditions)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (NN one)) (VP (VBZ is) (ADJP (JJ able) (S (VP (TO to) (VP (ADVP (RB efficiently)) (VB apply) (NP (NN variance-reduction) (CC and) (NN acceleration) (NNS schemes)) (PP (IN on) (NP (JJ finite) (JJ sum) (NN optimization) (NNS problems)))))))))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (DT This)) (VP (VBZ leads) (PP (TO to) (NP (NP (VB better) (NN approximation) (NN algorithms)) (PP (IN for) (NP (NP (JJ hereditary) (NN graph) (NNS problems)) (, ,) (PP (JJ such) (IN as) (NP (NP (JJ independent) (NN set)) (, ,) (NP (NN clique)) (CC and) (NP (NN clique) (NN cover)))))) (, ,) (PP (IN on) (NP (ADJP ($ $) (NNP B_2) ($ $) (CD -VPG)) (NN graphs)))))) (. .))

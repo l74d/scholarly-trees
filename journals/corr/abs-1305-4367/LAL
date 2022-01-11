@@ -1,4 +1,0 @@
-(S (NP (NN Stream)) (VP (VBZ is) (VP (JJ re-interpreted) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT a) (NNP Lazy) (NN monad))))))) (. .))
-(S (NP (NN Future)) (VP (VBZ is) (VP (VBN substituted) (PP (IN for) (NP (NNP Lazy))) (PP (IN in) (NP (DT the) (JJ obtained) (NN construct))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (NP (JJ possible) (NN parallelization)) (PP (IN of) (NP (NP (DT any) (JJ algorithm)) (ADJP (JJ expressible) (PP (IN as) (NP (DT a) (NNP Stream) (NN computation)))))))))))) (. .))
-(S (NP (DT The) (NN principle)) (VP (VBZ is) (VP (VBN tested) (PP (IN against) (NP (CD two) (NN example) (NNS algorithms))))) (. .))
-(S (S (NP (NN Performance)) (VP (VBZ is) (VP (VBN evaluated)))) (, ,) (CC and) (S (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB improve) (NP (PRP it))))))) (VP (ADVP (VB briefly)) (VBN discussed))) (. .))

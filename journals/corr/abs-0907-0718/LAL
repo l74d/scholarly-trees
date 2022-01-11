@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP believe) (S (NP (DT this)) (VP (TO to) (VP (VB be) (NP (NP (DT the) (JJ first) (VBN randomized) (JJ sublinear) (NN time) (NN algorithm)) (PP (IN on) (NP (DT the) (NNP EREW) (NNP PRAM))) (PP (IN for) (NP (DT this) (NN problem)))))))) (. .))

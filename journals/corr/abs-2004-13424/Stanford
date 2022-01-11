@@ -1,2 +1,0 @@
-(S (ADVP (RB Regardless) (PP (IN of) (NP (DT the) (NN boundary) (NNS conditions)))) (, ,) (NP (CC both) (NP (DT the) (JJ primal) (NN trace) (NN variable)) (CC and) (NP (DT the) (NN flux))) (VP (VBP are) (VP (VBN approximated))) (. .))
-(S (NP (DT The) (NN theory)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ numerical) (NNS examples))))))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (DT Every) (NN business)) (VP (NNS needs) (NP (NP (VBP knowledge)) (PP (IN about) (NP (PRP$ their) (NNS competitors)))) (S (VP (TO to) (VP (VB survive) (ADVP (JJR better)))))) (. .))
-(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (NN information) (NNS repositories)))) (VP (VBZ is) (NP (JJ web))) (. .))
-(S (S (VP (VBG Retrieving) (NP (JJ Specific) (NN information)) (PP (IN from) (NP (DT the) (NN web))))) (VP (VBZ is) (ADJP (VBG challenging))) (. .))
-(S (NP (DT An) (JJ Ontological) (NN model)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB capture) (NP (JJ specific) (NN information)) (PP (IN by) (S (VP (VBG using) (NP (JJ web) (NNS semantics)))))))))) (. .))
-(S (PP (IN From) (NP (DT the) (NNP Ontology) (NN model))) (, ,) (NP (NP (DT the) (NNS relations)) (PP (IN between) (NP (DT the) (NNS data)))) (VP (VBP are) (VP (VBN mined) (S (VP (VBG using) (NP (NN decision) (NN tree)))))) (. .))
-(S (PP (IN From) (NP (PDT all) (DT these))) (NP (DT a) (JJ new) (NN framework)) (VP (VBZ is) (VP (VBN developed) (PP (IN for) (NP (NNP Business) (NNP Intelligence))))) (. .))

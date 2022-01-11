@@ -1,2 +1,0 @@
-(S (NP (NNP CMAX) (NNP CUT)) (VP (VBZ is) (ADJP (NNP NP-hard)) (PP (ADVP (RB even)) (IN for) (NP (NN planar) (NN graphs)))) (. .))
-(S (NP (PRP We)) (VP (VBP deduce) (NP (NP (DT a) (JJ quadratic) (NN time) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (JJ minimum) (NN cut) (NN problem)) (PP (IN in) (NP (NP (DT the) (JJ same) (NN class)) (PP (IN of) (NP (NN graphs)))))))) (PP (IN without) (S (VP (VBG computing) (NP (DT the) (JJ maximum) (NN flow)))))) (. .))

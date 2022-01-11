@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN research) (NN report)) (VP (VBZ presents) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NP (NAC (NP (NNP Cumulative)) (PP (IN of) (NP (NNP Choco)))) (NN constraint) (NN solver)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ useful) (S (VP (TO to) (VP (VB encode) (NP (JJ over-constrained) (JJ cumulative) (NNS problems))))))))))))) (. .))
-(S (NP (DT This) (JJ new) (JJ global) (NN constraint)) (VP (VBZ uses) (NP (ADJP (NP (ADJP (JJ sweep) (CC and))) (JJ task) (JJ interval) (JJ violation-based)) (NN algorithms))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD developed) (NP (DT the) (JJ statistical) (NML (NN machine) (NN learning)) (NN model)) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NNS cases)) (PP (RB ahead) (IN of) (NP (NN time)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ requires) (NP (JJ immediate) (JJ aggressive) (NN attention))) (. .))
-(S (NP (PRP$ Our) (NN analysis)) (VP (VBZ indicates) (SBAR (IN that) (S (NP (NP (DT the) (JJ early) (NN disease) (NN progression)) (PP (IN of) (NP (NNP India)))) (VP (VBZ is) (ADVP (IN that) (PP (IN of) (ADJP (JJ similar)))) (PP (IN to) (NP (NNP China))))))) (. .))
-(S (ADVP (RB Therefore)) (, ,) (PP (IN with) (NP (NP (NN lockdown)) (PP (IN in) (NP (NN place))))) (, ,) (NP (NNP India)) (VP (MD should) (VP (VB expect) (PP (IN as) (NP (QP (JJ many) (IN as)) (NNS cases))) (SBAR (IN if) (FRAG (RB not) (ADJP (RBR more)) (PP (IN like) (NP (NNP China))))))) (. .))
-(S (PP (IN If) (NP (NN lockdown) (NNS works))) (, ,) (NP (PRP we)) (VP (MD should) (VP (VB expect) (NP (QP (JJR less) (IN than) (CD 66,224)) (NNS cases)) (PP (IN by) (NP (NNP May) (CD 01,2020))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (NNS Properties)) (PP (IN of) (NP (JJ matrix) (NN product) (NNS codes))) (PP (IN over) (NP (JJ finite) (JJ commutative) (NNP Frobenius) (NNS rings)))) (VP (VBP are) (VP (VBN investigated))) (. .))
-(S (NP (NP (DT The) (JJ minimum) (NN distance)) (PP (IN of) (NP (NP (JJ matrix) (NN product) (NNS codes)) (VP (VBN constructed) (PP (IN with) (NP (NP (JJ several) (NNS types)) (PP (IN of) (NP (NNS matrices))))))))) (VP (VBZ is) (VP (VBN bounded) (PP (IN in) (NP (JJ different) (NNS ways))))) (. .))
-(S (NP (NP (DT The) (NNS duals)) (PP (IN of) (NP (JJ matrix) (NN product) (NNS codes)))) (VP (VBP are) (ADVP (RB also)) (VP (ADVP (RB explicitly)) (VBN described) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN matrix) (NN product) (NNS codes))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NNP Planar) (NN automata)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (ADJP (JJ representative) (PP (IN of) (NP (NP (DT the) (VBG synchronizing) (NN behavior)) (PP (IN of) (NP (JJ deterministic) (JJ finite) (NN state) (NNS automata)))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP have) (VP (VBN gathered) (NP (NP (DT some) (NN evidence)) (VP (VBG concerning) (NP (DT this) (NN conjecture)))))) (. .))
-(S (NP (DT This) (NN evidence)) (VP (VBZ amounts) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (NP (DT the) (NN class)) (PP (IN of) (NP (NN planar) (NN automata)))) (VP (VBZ is) (ADJP (JJ representative) (PP (IN of) (NP (NP (DT the) (JJ algorithmic) (NN hardness)) (PP (IN of) (NP (NN synchronization))))))))))))))

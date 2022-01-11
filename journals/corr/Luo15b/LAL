@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN board) (NN game)) (: :) (NP (NNP Square) (NNP War)))) (. .))
-(S (NP (NP (DT The) (NN game) (NN definition)) (PP (IN of) (NP (NNP Square) (NNP War)))) (VP (VBZ is) (ADJP (JJ similar) (PP (TO to) (NP (DT the) (JJ classic) (NNP Chinese) (NN board) (NN game) (NNP Go))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ mathematical) (NN problem)) (PP (IN of) (NP (DT the) (NN game) (NNP Square) (NNP War))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (S (VP (VBG using) (NP (NP (DT a) (NN method)) (PP (IN of) (NP (NP (JJ mixed) (NNS mathematics)) (CC and) (NP (NN computer) (NN science)))))))))))))) (. .))

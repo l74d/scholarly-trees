@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN note)) (VP (VBZ argues) (PP (IN for) (NP (NP (JJR more) (NN use)) (PP (IN of) (NP (NP (NP (JJ simple) (NNS models)) (PP (IN beyond) (NP (NP (NNP Amdahl) (POS 's)) (NN Law)))) (: :) (NP (NP (NNP Bottleneck) (NNP Analysis)) (, ,) (NP (NP (NNP Little) (POS 's)) (NNP Law)) (, ,) (CC and) (NP (DT a) (NNP M/M/1) (NNP Queue)))))))) (. .))

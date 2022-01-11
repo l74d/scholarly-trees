@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (JJ new) (NN tool)) (, ,) (NP (ADJP (ADVP (RB namely)) (JJ polynomial) (CC and) (JJ linear)) (JJ algebraic) (NNS methods))) (, ,) (PP (IN for) (S (VP (VBG studying) (NP (NP (NNS systems)) (PP (IN of) (NP (NN word) (NNS equations)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ its) (NN usefulness)) (PP (IN by) (S (VP (VBG giving) (NP (NP (ADJP (RB essentially) (JJR simpler)) (NNS proofs)) (PP (IN of) (NP (JJ several) (JJ hard) (NNS problems)))))))) (. .))
-(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (NP (PRP we)) (VP (VBP prove) (NP (NP (NNS extensions)) (PP (IN of) (NP (DT these) (NNS results))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (DT the) (JJ first) (JJ nontrivial) (JJ upper) (NNS bounds)) (PP (IN for) (NP (NP (DT the) (JJ fundamental) (NN problem)) (PP (IN of) (NP (NP (DT the) (JJ maximal) (NN size)) (PP (IN of) (NP (JJ independent) (NNS systems)))))))) (. .))
-(S (NP (DT These) (NNS bounds)) (VP (VBP depend) (ADVP (RB quadratically)) (PP (IN on) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (JJS shortest) (NN equation)))))) (. .))
-(S (NP (NP (DT No) (NNS methods)) (PP (IN of) (S (VP (VBG having) (NP (JJ such) (NNS bounds)))))) (VP (VBP have) (VP (VBN been) (VP (VBN known) (PP (IN before))))) (. .))

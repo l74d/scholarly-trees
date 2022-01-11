@@ -1,6 +1,0 @@
-(S (NP (NP (DT The) (NN evaluation)) (PP (IN of) (NP (NP (JJ new) (NNS methods)) (PP (IN for) (NP (NN control) (CC and) (NN manipulation))))) (PP (IN in) (NP (ADJP (ADVP (RB minimally)) (JJ invasive)) (JJ robotic) (NN surgery)))) (VP (VBZ requires) (NP (DT a) (JJ realistic) (NN setup))) (. .))
-(S (NP (DT The) (NN adapter)) (VP (VP (VBZ is) (ADJP (JJ small) (CC and) (JJ lightweight))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN mounted) (PP (IN to) (NP (DT any) (NN robot))) (S (VP (TO to) (VP (VB mimic) (NP (NN motion))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (PRP$ its) (NN design) (CC and) (NN implementation)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT a) (NN setup)) (PP (IN to) (NP (NN calibrate) (NNS instruments))))) (S (VP (TO to) (VP (VB study) (NP (JJ precise) (NN motion) (NN control)))))) (. .))
-(S (NP (PRP$ Our) (NNS results)) (VP (VBP indicate) (SBAR (IN that) (S (NP (DT each) (NN instrument)) (VP (VBZ requires) (NP (JJ individual) (NN calibration)))))) (. .))
-(S (NP (DT The) (NN calibration)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN system)) (VP (VBZ is) (RB not) (ADJP (RB fully) (JJ linear)))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ likely) (PP (IN due) (PP (IN to) (NP (NN motor) (NN hysteresis)))))) (. .))

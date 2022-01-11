@@ -1,3 +1,0 @@
-(S (NP (DT A) (JJ hamiltonian) (NN sequence)) (VP (VBZ is) (NP (DT a) (NN path) (S (VP (VB walk) (NP (NP ($ $) (CD P$)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (NP (NP (DT a) (JJ hamiltonian) (NN path)) (CC or) (NP (JJ hamiltonian) (NN circuit)))))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ novel) (NN algorithm)) (PP (IN for) (NP (JJ hamiltonian) (NN sequence) (NN problem)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (NP (DT The) (NN algorithm) (POS 's)) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB degenerate) (NP (NP (JJ such) (JJ potential) (ADJP (JJ forbidden)) (NNS minors)) (PP (IN in) (NP (DT a) (CD two) (HYPH -) (NN phrase) (NN process)))))))) (. .))

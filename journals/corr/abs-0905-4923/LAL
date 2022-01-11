@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (JJ effective) (NN characterization)) (PP (IN of) (NP (NP (NP (DT the) (ADJP (RB lexicographically) (JJS least)) (NN word)) (PP (IN in) (NP (DT the) (NN orbit) (NN closure)))) (PP (IN of) (NP (NP (DT the) (NNP Rudin-Shapiro) (NN word) (NN w)) (VP (VBG having) (NP (DT a) (JJ specified) (NN prefix))))))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (NP (DT the) (ADJP (RB lexicographically) (JJS least)) (NN word)) (PP (IN in) (NP (NP (DT the) (NN orbit) (NN closure)) (PP (IN of) (NP (DT the) (NNP Rudin-Shapiro) (NN word)))))) (VP (VBZ is) (NP (CD 0w))) (. .))
-(S (NP (DT This)) (VP (VBZ answers) (NP (NP (DT a) (NN question)) (NP (NNP Allouche) (CC et) (NN al)))) (. .))

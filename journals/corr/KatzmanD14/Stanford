@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ examines) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (JJ different) (NN optimization) (NNS techniques)))) (PP (IN in) (NP (NP (DT a) (JJ primal) (NN formulation)) (PP (IN of) (NP (DT a) (NN support) (NN vector) (NN machine) (PRN (-LRB- -LRB-) (NP (NN SVM)) (-RRB- -RRB-))))))) (. .))
-(S (NP (CD Three) (JJ main) (NNS techniques)) (VP (VBP are) (VP (VBN compared))) (. .))
-(S (NP (NP (DT The) (NN dataset)) (VP (VBN used) (S (VP (TO to) (VP (VB compare) (NP (DT all) (CD three) (NNS techniques))))))) (VP (VBD was) (NP (NP (DT the) (NN Sentiment) (NN Analysis)) (PP (IN on) (NP (NP (NN Movie) (NNS Reviews)) (NP (NN dataset))))) (, ,) (PP (IN from) (NP (DT this) (NN http) (NN URL)))) (. .))

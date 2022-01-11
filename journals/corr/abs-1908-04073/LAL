@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG determining) (NP (NP (DT the) (VBG crossing) (NN number)) (PP (IN of) (NP (DT a) (NN link)))))) (VP (VBZ is) (ADJP (NNP NP-hard)))))) (. .))
-(S (PP (IN For) (NP (NP (DT some) (JJR weaker) (NNS notions)) (PP (IN of) (NP (NN link) (NN equivalence))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP show) (NP (NNP NP-completeness))) (. .))

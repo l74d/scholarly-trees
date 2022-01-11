@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (DT a) (NNP Hopf) (NN algebra) (NN structure)) (PP (IN on) (NP (NP (DT the) (NN vector) (NN space)) (VP (VBN spanned) (PP (IN by) (NP (ADJP (JJ packed)) (NNS words))) (S (VP (VBG using) (NP (DT a) (NML (NN selection) (HYPH -) (NN quotient)) (NN coproduct)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN algebra)) (VP (VBZ is) (ADJP (JJ free) (PP (IN on) (NP (PRP$ its) (ADJP (JJ irreducible) (JJ packed)) (NNS words)))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (DT some) (JJ brief) (NNS explanations)) (PP (IN on) (NP (NP (DT the) (NML (NN Maple) (NNS codes))) (SBAR (S (NP (PRP we)) (VP (VBP have) (VP (VBN used)))))))) (. .))

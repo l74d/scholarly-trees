@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN novel) (NN technique)) (PP (IN for) (S (VP (VBG estimating) (NP (NP (NN disk) (NNS parameters)) (PRN (-LRB- -LRB-) (NP (NP (DT the) (NN centre)) (CC and) (NP (DT the) (NN radius))) (-RRB- -RRB-))) (PP (IN from) (NP (PRP$ its) (CD 2D) (NN image)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ maximal) (NN likelihood) (NN approach)) (VP (VBG utilising) (NP (DT both) (NP (NN edge) (NNS pixels) (NNS coordinates)) (CC and) (NP (DT the) (NN image) (NN intensity) (NNS gradients)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP emphasise) (NP (NP (DT the) (JJ following) (NNS advantages)) (PP (IN of) (NP (PRP$ our) (NN likelihood) (NN model))))) (. .))
-(S (NP (PRP It)) (VP (VBZ has) (NP (NP (NP (NN closed-form) (NN formulae)) (PP (IN for) (NP (NN parameter) (NN estimating)))) (, ,) (VP (VBG requiring) (NP (NP (RBR less) (JJ computational) (NNS resources)) (PP (IN than) (NP (JJ iterative) (NN algorithms)))) (ADVP (NN therefore))))) (. .))
-(S (NP (DT The) (NN likelihood) (NN model)) (VP (ADVP (RB naturally)) (VBZ distinguishes) (NP (DT the) (ADJP (NN outer) (CC and) (JJ inner)) (JJ annulus) (NNS edges))) (. .))
-(S (NP (DT The) (VBN proposed) (NN technique)) (VP (VBD was) (VP (VBN evaluated) (PP (IN on) (NP (ADJP (DT both) (JJ synthetic) (CC and) (JJ real)) (NNS data))))) (. .))

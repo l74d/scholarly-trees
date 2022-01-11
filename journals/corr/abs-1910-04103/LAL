@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN manuscript))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (NN concise) (NN review)) (PP (IN of) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (JJ metric) (NN dimension))) (PP (IN for) (NP (ADJP (DT both) (JJ deterministic) (CONJP (RB as) (RB well) (IN as)) (NN random)) (NN graphs))))))) (. .))
-(S (NP (NP (NP (NNP Algorithms)) (SBAR (S (VP (TO to) (VP (VB approximate) (NP (DT this) (NN quantity))))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (JJ potential) (NNS applications)) (, ,)) (VP (VBP are) (ADVP (RB also)) (VP (VBN reviewed))) (. .))
-(S (NP (DT This) (NN work)) (VP (VBZ has) (VP (VBN been) (VP (ADVP (RB partially)) (VBN funded) (PP (IN by) (NP (DT the) (NNP NSF) (NNP IIS) (NN grant) (CD 1836914)))))) (. .))

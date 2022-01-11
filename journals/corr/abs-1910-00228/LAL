@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NNP Signorini) (NN problem)) (PP (IN for) (NP (DT the) (NNP Laplace) (NN operator)))) (VP (VBZ is) (VP (VBN considered) (PP (IN in) (NP (DT a) (JJ general) (NN polygonal) (NN domain))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN proved) (SBAR (IN that) (S (NP (DT the) (NN coincidence) (NN set)) (VP (VBZ consists) (PP (IN of) (NP (NP (NP (DT a) (JJ finite) (NN number)) (PP (IN of) (NP (JJ boundary) (NNS parts)))) (CC plus) (NP (JJ isolated) (NNS points))))))))) (. .))
-(S (NP (NP (DT The) (NN regularity)) (PP (IN of) (NP (DT the) (NN solution)))) (VP (VBZ is) (VP (VBN described))) (. .))

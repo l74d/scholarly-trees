@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (NN problem)) (PP (IN of) (NP (JJ coherent-classical) (NN estimation))) (PP (IN for) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ linear) (JJ quantum) (NNS systems))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN problem))) (, ,) (NP (DT the) (NN estimator)) (VP (VBZ is) (NP (NP (DT a) (JJ mixed) (JJ quantum-classical) (NN system)) (SBAR (WHNP (WDT which)) (S (VP (VBZ produces) (NP (NP (DT a) (JJ classical) (NN estimate)) (PP (IN of) (NP (DT a) (NN system) (JJ variable))))))))) (. .))
-(S (NP (DT The) (JJ coherent-classical) (NN estimator)) (VP (MD may) (ADVP (RB also)) (VP (VB involve) (NP (NN coherent) (NN feedback)))) (. .))
-(S (NP (NP (DT An) (NN example)) (VP (VBG involving) (NP (JJ optical) (NNS squeezers)))) (VP (VBZ is) (VP (VBN given) (S (VP (TO to) (VP (VB illustrate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT this) (NN idea))))))))) (. .))

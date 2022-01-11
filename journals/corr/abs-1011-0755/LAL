@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (NNS solutions)) (PP (IN for) (NP (NP (NN cryptography) (NN protection)) (PP (IN for) (NP (NN web) (NNS pages))))))) (. .))
-(S (NP (DT The) (NNS solutions)) (VP (VBP comprise) (NP (NP (NP (DT the) (NNS authors) (POS ›)) (NN experience)) (PP (IN in) (NP (NP (NN development) (CC and) (NN implementation)) (PP (IN of) (NP (NP (NNS systems)) (PP (IN for) (NP (NN information) (NN security))) (PP (IN in) (NP (NP (DT the) (NNP Automated) (NNP Information) (NNP Systems)) (PP (IN of) (NP (NNP Bulgarian) (NNP Armed) (NNS Forces))))))))))) (. .))
-(S (NP (NP (DT The) (NN architecture)) (, ,) (NP (DT the) (NNS models)) (CC and) (NP (DT the) (NNS methods))) (VP (VBP are) (VP (VBG being) (VP (VBN explained)))) (. .))

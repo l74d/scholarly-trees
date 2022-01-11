@@ -1,5 +1,0 @@
-(S (NP (NNP Hidden) (NN shift) (NNS problems)) (VP (VBP are) (ADJP (JJ relevant) (S (VP (TO to) (VP (VB assess) (NP (NP (DT the) (JJ quantum) (NN security)) (PP (IN of) (NP (JJ various) (JJ cryptographic) (NNS constructs))))))))) (. .))
-(S (NP (NNP Multiple) (NNP quantum) (JJ subexponential) (NN time) (NNS algorithms)) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT some) (NNS improvements)) (PP (IN on) (NP (NP (DT a) (JJ polynomial) (NN quantum) (NN memory) (NNS algorithm)) (VP (VBN proposed) (PP (IN by) (NP (NNP Childs) (, ,) (NNP Jao) (CC and) (NNP Soukharev))) (PP (IN in) (NP (CD 2010)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (JJ subset-sum) (NN algorithms)) (S (VP (TO to) (VP (ADVP (RB significantly)) (VB reduce) (NP (PRP$ its) (NN complexity)))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (JJ new) (NNS tradeoffs)) (PP (IN between) (NP (NP (NN quantum) (NNS queries)) (, ,) (NP (JJ classical) (NN time)) (CC and) (NP (JJ classical) (NN memory))))) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)))))) (. .))

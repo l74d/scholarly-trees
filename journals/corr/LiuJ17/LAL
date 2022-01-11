@@ -1,7 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ graph-based) (NN process) (NN calculus)) (PP (IN for) (S (VP (VBG modeling) (CC and) (VBG reasoning) (PP (IN about)) (NP (NP (NN wireless) (NNS networks)) (PP (IN with) (NP (JJ local) (NNS broadcasts))))))))) (. .))
-(S (NP (NNP Graphs)) (VP (VBP are) (VP (VBN used) (PP (IN at) (NP (JJ syntactical) (NN level))) (S (VP (TO to) (VP (VB describe) (NP (NP (DT the) (JJ topological) (NNS structures)) (PP (IN of) (NP (NNS networks))))))))) (. .))
-(S (NP (DT This) (NN calculus)) (VP (VBZ is) (VP (VBN equipped) (PP (IN with) (NP (NP (DT a) (NN reduction) (NNS semantics)) (CC and) (NP (DT a) (JJ labelled) (NN transition) (NNS semantics)))))) (. .))
-(S (NP (DT The) (JJ former)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB define) (NP (JJ weak) (VBN barbed) (NN congruence))))))) (. .))
-(S (NP (DT The) (NN latter)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB define) (NP (NP (DT a) (JJ parameterized) (JJ weak) (NN bisimulation)) (VP (VBG emphasizing) (NP (NP (NNS locations)) (CC and) (NP (JJ local) (NNS broadcasts)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (JJ weak) (NN bisimilarity)) (VP (NNS implies) (NP (JJ weak) (VBD barbed) (NN congruence)))))) (. .))
-(S (NP (DT The) (JJ potential) (NNS applications)) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (NP (NP (DT some) (NNS examples)) (CC and) (NP (CD two) (NN case) (NNS studies)))))) (. .))

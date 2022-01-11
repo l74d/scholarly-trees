@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (S (VP (VBG reproducing) (NP (NP (NP (NN kernel) (NNP Hilbert) (NNS spaces)) (-LRB- -LRB-) (NP (NN RKHS)) (-RRB- -RRB-)) (PP (IN on) (NP (DT a) (JJ Riemannian) (NN manifold))))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VP (VBP discuss) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (NP (NN condition)) (NP (NNP Sobolev) (NNS spaces))) (VP (VBP are) (NP (NNP RKHS)))))) (CC and) (VP (VBP characterize) (NP (PRP$ their) (VBG reproducing) (NNS kernels)))) (. .))
-(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP introduce) (CC and) (VBP discuss) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (ADJP (JJR smoother)) (NN RKHS)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBP call) (NP (NN diffusion) (NNS spaces))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT the) (JJ general) (NNS results)) (PP (IN with) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ detailed) (NNS examples)))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB certify) (NP (NP (NNP IP) (VBG spoofing) (NN protection)) (PP (IN of) (NP (JJ firewall) (NNS rulesets)))))))))) (. .))
-(S (S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (ADVP (RB machine-verifiably)) (JJ proven) (S (ADJP (NN sound)))))) (CC and) (S (NP (PRP$ its) (NN use)) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN in) (NP (JJ real-world) (NNS scenarios)))))) (. .))

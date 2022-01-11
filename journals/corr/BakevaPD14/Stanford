@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT an) (JJ important) (JJ cryptographic) (NN property)) (PP (IN of) (NP (NP (NML ($ $) (CD PE$)) (HYPH -) (NN transformation)) (VP (VBN proposed) (ADVP (RB elsewhere))))))) (. .))
-(S (NP (DT This) (NN property)) (VP (VBZ implies) (NP (NP (DT the) (NN resistance)) (PP (IN of) (NP (NP (JJ statistical) (NN kind)) (PP (IN of) (NP (NP (NN attack)) (PP (IN of) (NP (DT this) (NN transformation))))))))) (. .))
-(S (PP (IN For) (NP (NP (NN illustration)) (PP (IN of) (NP (JJ theoretical) (NNS results))))) (, ,) (NP (DT some) (JJ experimental) (NNS results)) (VP (VBP are) (VP (VBN presented) (ADVP (RB as) (RB well)))) (. .))

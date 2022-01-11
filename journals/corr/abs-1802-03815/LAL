@@ -1,3 +1,0 @@
-(S (VP (VB Consider) (NP (NP (DT the) (JJ following) (NN decision) (NN problem)) (: :) (S (PP (IN for) (NP (DT a) (VBN given) (NN monotone) (NNP Boolean) (NN function))) (NP ($ $) (JJ f) ($ $)) (VP (VB decide) (, ,) (SBAR (IN whether) (S (NP ($ $) (JJ f) ($ $)) (VP (VBZ is) (ADJP (NN read-once))))))))) (. .))
-(S (PP (IN For) (NP (DT this) (NN problem))) (, ,) (NP (NP (PRP it))) (VP (VBZ is) (ADJP (JJ essential)) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN input) (NN function) (QP ($ $) (JJ f) ($ $))) (VP (VBZ is) (VP (VBN represented)))))) (. .))
-(S (NP (PRP$ Our) (NN contribution)) (VP (VBZ consists) (PP (IN of) (NP (DT the) (JJ following) (CD two) (NNS results)))) (. .))

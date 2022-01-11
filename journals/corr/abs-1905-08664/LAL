@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (DT the) (NN problem) (SBAR (IN whether) (S (NP (NP (NN termination)) (PP (IN of) (NP (JJ affine) (NN integer) (NNS loops)))) (VP (VBZ is) (ADJP (JJ decidable))))))) (. .))
-(S (SBAR (IN Since) (S (NP (NNP Tiwari)) (VP (VBD conjectured) (NP (NN decidability)) (PP (IN in) (NP (CD 2004)))))) (, ,) (NP (RB only) (JJ special) (NNS cases)) (VP (VBP have) (VP (VBN been) (VP (VBN solved)))) (. .))
-(S (NP (PRP We)) (VP (VBP complement) (NP (DT this) (NN work)) (PP (IN by) (S (VP (VBG proving) (NP (NP (NN decidability)) (PP (IN for) (NP (DT the) (NN case) (SBAR (IN that) (S (NP (DT the) (JJ update) (NN matrix)) (VP (VBZ is) (ADJP (JJ triangular)))))))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (JJ polynomial) (NN time) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ determines) (PP (IN for) (NP (DT a) (JJ fixed) (NN integer) (VB k))) (SBAR (IN whether) (CC or) (RB not) (S (NP (DT a) (JJ P5-free) (NN graph)) (VP (MD can) (VP (VB be) (VP (JJ k-colored)))))))))) (VP (VBZ is) (VP (VBN presented) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
-(S (SBAR (IN If) (S (NP (PDT such) (DT a) (NN coloring)) (VP (VBZ exists)))) (, ,) (NP (DT the) (NN algorithm)) (VP (MD will) (VP (VB produce) (NP (DT a) (JJ valid) (NN k-coloring)))) (. .))

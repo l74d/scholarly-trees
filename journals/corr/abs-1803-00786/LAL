@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (NP (DT a) (JJ randomized) (NN approach)) (PP (IN of) (NP (NNP Boppana)))) (VP (VBZ forms) (NP (NP (DT a) (JJ simple) (JJ 1-round) (VBN distributed) (NN algorithm)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT a) (ADJP (NN streaming) (CC and) (JJ preemptive)) (NN online) (NN algorithm)))) (. .))

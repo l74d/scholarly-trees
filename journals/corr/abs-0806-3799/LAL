@@ -1,2 +1,0 @@
-(S (NP (VBN Compressed) (VBG Sensing)) (VP (NNS aims) (S (VP (TO to) (VP (VB capture) (NP (NP (NNS attributes)) (PP (IN of) (NP (DT a) (JJ sparse) (NN signal)))) (S (VP (VBG using) (NP (ADJP (RB very) (JJ few)) (NNS measurements)))))))) (. .))
-(S (NP (DT This) (NN property)) (VP (VBZ holds) (PP (IN with) (NP (JJ overwhelming) (NN probability))) (SBAR (IN if) (S (NP (NP (DT the) (NNS entries)) (PP (IN of) (NP (DT the) (NN matrix)))) (VP (VBP are) (VP (VBN generated) (PP (IN by) (NP (DT an) (JJ iid) (NN Gaussian) (CC or) (NNP Bernoulli) (NN process)))))))) (. .))

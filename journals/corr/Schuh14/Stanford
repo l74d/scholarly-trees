@@ -1,5 +1,0 @@
-(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (JJ short) (NN note)))) (VP (VBZ is) (ADVP (RB mainly)) (ADJP (JJ pedagogical))) (. .))
-(S (S (NP (PRP It)) (VP (VBZ summarizes) (NP (NP (DT some) (NN knowledge)) (PP (IN about) (NP (NNP Boolean) (NN satisfiability)))) (PRN (-LRB- -LRB-) (NP (NN SAT)) (-RRB- -RRB-)))) (CC and) (S (NP (DT the) (NN P)) (VP (SYM =) (NP (NN NP)))) (. ?))
-(NP (NP (NN problem)) (PP (IN in) (NP (DT an) (JJ elementary) (JJ mathematical) (NN language))) (. .))
-(S (NP (DT A) (JJ convenient) (NN scheme) (S (VP (TO to) (VP (VB visualize) (CC and) (VB manipulate) (NP (NN CNF) (NNS formulae)))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (ADVP (RB Also)) (NP (NP (DT some) (NNS results)) (PP (IN like) (NP (NP (DT the) (NNS formulae)) (PP (IN for) (NP (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ unsatisfied) (NNS clauses)))) (CC and) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS solutions))))))))) (VP (MD might) (VP (VB be) (ADJP (JJ unknown)))) (. .))

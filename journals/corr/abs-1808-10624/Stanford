@@ -1,8 +1,0 @@
-(S (NP (NNP OAuth) (CD 2.0)) (VP (VBZ is) (NP (NP (DT a) (NN framework)) (PP (IN for) (NP (NN authorization))))) (. .))
-(S (S (VP (VBG Being) (NP (DT a) (NN framework)))) (, ,) (NP (NN OAuth) (CD 2.0)) (VP (VBZ allows) (NP (NNS extensions)) (S (VP (TO to) (VP (VB build) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (PRP it))))))))) (. .))
-(S (NP (NNP OpenID) (NNP Connect)) (VP (VBZ is) (NP (NP (CD one) (JJ such) (NN extension)) (SBAR (WHNP (WDT which)) (S (VP (VBZ adds) (NP (NN authentication) (NN layer)) (S (VP (VBG using) (NP (NN identity) (NNS details))))))))) (. .))
-(S (NP (NN OAuth) (CD 2.0)) (VP (VBZ define) (NP (NP (JJ several) (NNS roles)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB complete) (NP (DT the) (NN protocol))))))))))) (. .))
-(S (NP (DT Both) (NN OAuth) (NML (NML (CD 2.0)) (CC and) (NML (NNP OpenID) (NNP Connect)))) (VP (VBP involve) (NP (NP (NNS interactions)) (PP (IN between) (NP (DT these) (NNS roles))))) (. .))
-(S (NP (DT These) (NNS interactions)) (VP (VBP require) (NP (NP (DT a) (JJ pre-established) (NN trust)) (CC or) (NP (DT a) (NN trust) (NN establishment))) (SBAR (IN while) (S (NP (NN protocol)) (VP (VBP operate))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VP (VBZ analyzes) (NP (NP (NN trust) (NNS establishments)) (PP (IN between) (NP (NML (NNP OAuth) (CD 2.0)) (NNS roles))))) (CC and) (VP (VB discuss) (NP (NP (JJ important) (NNS aspects)) (PP (IN of) (NP (PRP them)))))) (. .))
-(S (NP (JJ Such) (NN analysis)) (VP (VBZ is) (VP (VBN required) (PP (IN for) (NP (NP (JJ proper) (NN understanding)) (PP (IN of) (NP (DT the) (NNS protocols))))))) (. .))

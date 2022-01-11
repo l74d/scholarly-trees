@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN interrogation) (NN processor)) (VP (VBZ responds) (PP (IN to) (NP (NN SQL) (NN interrogation)))))))))) (. .))
-(S (NP (DT The) (NN interrogation) (NN processor)) (VP (VBZ is) (VP (VBN split) (PP (IN into) (NP (CD two) (NNS parts))))) (. .))
-(S (NP (DT The) (JJ first)) (, ,) (VP (VBD called) (SBAR (S (NP (DT the) (NN interrogation) (NN compiler)) (VP (VBZ translates) (NP (DT an) (NN SQL) (NN query)) (PP (IN into) (NP (NP (DT a) (NN plan)) (PP (IN of) (NP (JJ physical) (NN execution))))))))) (. .))
-(S (NP (DT The) (JJ second) (, ,) (VBN called) (NN evaluation) (NN query)) (VP (VBZ runs) (NP (DT the) (NN execution) (NN plan))) (. .))

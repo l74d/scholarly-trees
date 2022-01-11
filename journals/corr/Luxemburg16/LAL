@@ -1,6 +1,0 @@
-(S (NP (NNP Knowledge) (NN representation)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN research) (NN field)) (PP (IN in) (NP (NNP IT))))) (. .))
-(S (SBAR (IN As) (S (NP (JJ mathematical) (NN knowledge)) (VP (VBZ is) (VP (ADVP (RBS most)) (JJ formalized))))) (, ,) (NP (PRP$ its) (NN representation)) (VP (VBZ is) (ADJP (JJ important) (CC and) (JJ interesting))) (. .))
-(S (NP (NNP Mathematical) (NN knowledge)) (VP (VBZ consists) (PP (IN of) (NP (JJ various) (JJ mathematical) (NNS theories)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (NN deductive) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ derives) (NP (JJ mathematical) (NNS notions) (, ,) (NNS axioms) (CC and) (NNS theorems))))))) (. .))
-(S (NP (PDT All) (DT these) (NNS notions) (, ,) (NNS axioms) (CC and) (NNS theorems)) (VP (MD can) (VP (VB be) (VP (VBN considered) (PP (IN as) (NP (NP (DT the) (NN part)) (PP (IN of) (NP (JJ elementary) (NN set) (NN theory)))))))) (. .))
-(S (NP (DT This) (NN theory)) (VP (MD will) (VP (VB be) (VP (VBN represented) (PP (IN as) (NP (DT a) (JJ semantic) (NN net)))))) (. .))

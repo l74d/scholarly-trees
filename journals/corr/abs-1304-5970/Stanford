@@ -1,4 +1,0 @@
-(S (NP (DT The) (NN FOCUS) (NN constraint)) (VP (VBZ expresses) (NP (DT the) (NN notion)) (SBAR (IN that) (S (NP (NNS solutions)) (VP (VBP are) (VP (VBN concentrated)))))) (. .))
-(S (PP (IN In) (NP (NN practice))) (, ,) (NP (DT this) (NN constraint)) (VP (VBZ suffers) (PP (IN from) (NP (NP (DT the) (NN rigidity)) (PP (IN of) (NP (PRP$ its) (NNS semantics)))))) (. .))
-(S (S (VP (TO To) (VP (VB tackle) (NP (DT this) (NN issue))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (CD three) (NNS generalizations)) (PP (IN of) (NP (DT the) (NN FOCUS) (NN constraint))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP provide) (PP (IN for) (NP (NP (DT each) (CD one)) (NP (DT a) (JJ complete) (NN filtering) (NN algorithm))))) (CONJP (RB as) (RB well) (IN as)) (VP (VBG discussing) (NP (NNS decompositions)))) (. .))

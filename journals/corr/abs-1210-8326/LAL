@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ novel) (JJ general) (NN ready-to-use) (NN bit-error) (NN rate) (PRN (-LRB- -LRB-) (NNP BER) (-RRB- -RRB-)) (NN expression)) (PP (IN for) (NP (JJ one-dimensional) (NNS constellations)))) (VP (VBZ is) (VP (VBN developed))) (. .))
-(S (NP (DT The) (NNP BER) (NN analysis)) (VP (VBZ is) (VP (VBN performed) (PP (IN for) (NP (NP (NN bit) (NNS patterns)) (SBAR (WHNP (WDT that)) (S (VP (VBP form) (NP (DT a) (NN labeling))))))))) (. .))
-(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS patterns)) (PP (IN for) (NP (NP (ADJP (RB equally) (VBN spaced)) (NNP M-PAM) (NNS constellations)) (PP (IN with) (NP (JJ different) (NNP BER)))))))) (VP (VBZ is) (VP (VBN analyzed))) (. .))

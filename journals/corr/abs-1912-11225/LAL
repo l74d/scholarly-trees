@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (ADJP (JJ self-contained) (CC and) (JJ elementary)) (NN proof)) (PP (IN of) (NP (NP (DT the) (JJ elementary) (NN construction)) (PP (IN of) (NP (JJ spectral) (JJ high-dimensional) (NNS expanders))) (VP (VBG using) (NP (JJ elementary) (NNS matrices))))) (ADJP (JJ due) (PP (TO to) (NP (NP (NNP Kaufman) (CC and) (NNP Oppenheim)) (NNP -LSB-) (NP (NNP Proc))))))) (. .))
-(NP (JJ 50th) (NNP ACM) (NNP Symp) (. .))
-(FRAG (PP (IN on) (NP (NP (NNP Theory)) (PP (IN of) (NP (NNP Computing))))) (PRN (-LRB- -LRB-) (NP (NNP STOC)) (-RRB- -RRB-)) (, ,) (NP (CD 2018) (NN -RSB-)) (. .))

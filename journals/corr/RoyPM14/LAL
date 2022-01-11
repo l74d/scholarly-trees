@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP report) (PP (IN on) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG aligning) (NP (JJ multiple) (NN protein) (NNS structures)))))))) (. .))
-(S (S (NP (DT The) (NN algorithm)) (VP (VBZ has) (VP (VBN been) (VP (VBN tested) (PP (IN on) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS inputs))))))))) (CC and) (S (NP (PRP it)) (VP (VBZ performs) (ADVP (RB well)) (PP (IN in) (NP (NP (NN comparison)) (PP (TO to) (NP (NP (JJ well-known) (NN algorithms)) (PP (IN for) (NP (DT this) (NN problem))))))))) (. .))

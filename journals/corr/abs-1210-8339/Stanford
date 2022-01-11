@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NNP Discrete) (NNP Time) (NNP Markov) (NNP Chain) (NN queueing) (NN model)))) (PP (IN to) (NP (DT the) (NN quantum) (NN domain))) (PP (IN by) (NP (NP (NN use)) (PP (IN of) (NP (NNP Discrete) (NNP Time) (NNP Quantum) (NNP Markov) (NNP Chain)))))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NNS methods)) (PP (IN for) (NP (NP (JJ numerical) (NN analysis)) (PP (IN of) (NP (JJ such) (NNS models)))))) (. .))
-(S (S (VP (VBG Using) (NP (DT this) (NNS tools)))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NN quantum) (NN model)) (VP (VBZ behaves) (ADVP (RB fundamentally)) (PP (ADVP (RB differently)) (IN from) (NP (DT the) (JJ classical) (NN one))))))) (. .))

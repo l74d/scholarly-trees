@@ -1,2 +1,0 @@
-(S (NP (NP (NNP Deduction) (NNS systems)) (CC and) (NP (JJ graph) (VBG rewriting) (NNS systems))) (VP (VBP are) (VP (VBN compared) (PP (IN within) (NP (DT a) (JJ common) (JJ categorical) (NN framework))))) (. .))
-(S (NP (DT This)) (VP (VBZ leads) (PP (TO to) (NP (NP (DT an) (JJ improved) (NN deduction) (NN method)) (PP (IN in) (NP (JJ diagrammatic) (NNS logics)))))) (. .))

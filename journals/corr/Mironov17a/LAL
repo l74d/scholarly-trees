@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT the) (NN paper))) (NP (PRP we)) (VP (VP (VBP consider) (NP (NP (DT a) (NN graph) (NN model)) (PP (IN of) (NP (NN message) (NN passing) (NNS processes))))) (CC and) (VP (VB present) (NP (NP (DT a) (JJ method) (NN verification)) (PP (IN of) (NP (NN message) (NN passing) (NNS processes)))))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN by) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (DT a) (NN verification)) (PP (IN of) (NP (VBG sliding) (NN window) (NN protocol))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ photographic) (NN dataset)) (VP (VBN collected) (PP (IN for) (S (VP (VBG testing) (NP (NN image) (NN processing) (NN algorithms)))))))) (. .))
-(S (S (NP (DT The) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB have) (NP (NP (NNS images)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB exploit) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (JJ total) (NN variation)))))))))))))) (, ,) (S (ADVP (RB therefore)) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (VBG playing) (NNS cards)))) (VP (VBD was) (VP (VBN distributed) (PP (IN on) (NP (DT the) (NN scene)))))) (. .))
-(S (NP (DT The) (NN dataset)) (VP (VBZ is) (VP (VBN made) (S (ADJP (JJ available))) (PP (IN at) (NP (NN www.fips.fi/photographic_dataset2.php))))))

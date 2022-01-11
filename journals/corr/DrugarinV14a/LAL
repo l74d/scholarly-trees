@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ presents) (NP (NP (DT the) (NX (NX (JJ general) (NNS notions)) (CC and) (NX (NN algorithm)))) (PP (IN about) (NP (DT the) (NNP Gauss-Jordan) (NN method))))) (. .))
-(S (S (NP (DT An) (JJ eloquent) (NN example)) (VP (VBZ is) (VP (VBN given)))) (CC and) (S (NP (DT the) (NNP Turbo) (NNP C) (NN program)) (VP (VBD illustrated) (NP (DT this) (NN method)))) (. .))
-(S (NP (PRP We)) (VP (VBP conclude) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB obtain) (PP (IN by) (NP (DT this) (NN method))) (NP (DT the) (NN determinant)) (, ,) (PP (IN by) (NP (NP (JJ simple) (NNS calculations)) (CC and) (S (VP (VBG reducing) (NP (DT the) (NN rounding) (NNS errors))))))))))))

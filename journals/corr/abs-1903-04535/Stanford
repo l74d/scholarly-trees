@@ -1,4 +1,0 @@
-(S (NP (NML (NN Qubit) (NN transmission)) (NNS protocols)) (VP (VBP are) (ADVP (RB presently)) (UCP (UCP (NML (NML (NN point)) (HYPH -) (PP (IN to) (HYPH -) (NP (NN point)))) (, ,) (CC and) (RB thus) (ADJP (JJ restrictive))) (PP (IN in) (NP (PRP$ their) (NN functionality))))) (. .))
-(S (NP (DT A) (NN quantum) (NN router)) (VP (VBZ is) (ADJP (JJ necessary) (PP (IN for) (NP (DT the) (NN quantum) (NN Internet)))) (S (VP (TO to) (VP (VB become) (NP (DT a) (NN reality)))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (NP (DT a) (NN quantum) (NN router) (NN design)) (PP (VBN based) (PP (IN on) (NP (NN teleportation))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNS mechanisms)) (PP (IN for) (NP (ADJP (JJ entangled)) (NN pair) (NN management)))))) (. .))
-(S (NP (DT The) (NN prototype)) (VP (VBD was) (VP (VBN validated) (S (VP (VBG using) (NP (DT a) (NN quantum) (NN simulator)))))) (. .))

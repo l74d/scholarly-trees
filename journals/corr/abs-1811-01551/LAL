@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ new) (NNS tradeoffs)) (PP (IN between) (NP (NN space) (CC and) (NN query-time))) (PP (IN for) (NP (JJ exact) (NN distance) (NNS oracles))) (PP (IN in) (NP (VBN directed) (JJ weighted) (NN planar) (NN graphs))))) (. .))

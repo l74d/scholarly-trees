@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (NNP Markov) (NN process)) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ quasicrystal) (NN growth)))))))) (. .))
-(S (NP (NP (NNS Fixed-points)) (PP (IN of) (NP (JJ such) (DT a) (NN process)))) (VP (IN play) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (NNS quasicrystals))))) (. .))
-(S (NP (PRP We)) (VP (VBP are) (ADVP (RB here)) (ADJP (JJ interested) (PP (IN in) (NP (NP (DT the) (NN worst-case) (VBD expected) (NN number)) (PP (IN of) (NP (NNS flips))) (SBAR (S (VP (TO to) (VP (VB converge) (PP (NNS towards) (NP (DT a) (NN fixed-point))))))))))) (. .))
-(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP suggest) (NP (NP (DT a) (NN bound) (NN quadratic)) (PP (IN in) (NP (NP (DT the) (NN number) (NN n)) (PP (IN of) (NP (NP (NNS tiles)) (PP (IN of) (NP (DT the) (NN tiling))))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP prove) (NP (DT a) (NNP O) (PRN (-LRB- -LRB-) (ADJP (NN n^2.5)) (-RRB- -RRB-)) (NN upper) (NN bound))) (CC and) (VP (VB discuss) (NP (NP (DT the) (NN gap)) (PP (IN between) (NP (NP (DT this) (NN bound)) (CC and) (NP (DT the) (JJ previous) (CD one))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (ADVP (VBP briefly)) (VP (VB discuss) (NP (DT the) (NN average-case)))) (. .))

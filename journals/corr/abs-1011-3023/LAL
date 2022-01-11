@@ -1,5 +1,0 @@
-(S (NP (DT A) (NN scattering) (NN vector)) (VP (VBZ is) (NP (NP (DT a) (JJ local) (NN descriptor)) (VP (VBG including) (NP (ADJP (JJ multiscale) (CC and) (JJ multi-direction)) (NN co-occurrence) (NN information))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN computed) (PP (IN with) (NP (NP (DT a) (NN cascade)) (PP (IN of) (NP (NP (NN wavelet) (NNS decompositions)) (CC and) (NP (JJ complex) (NN modulus)))))))) (. .))
-(S (NP (DT This) (VBG scattering) (NN representation)) (VP (VP (VBZ is) (ADJP (RB locally) (JJ translation) (NN invariant))) (CC and) (VP (JJ linearizes) (NP (NNS deformations)))) (. .))
-(S (NP (DT A) (JJ supervised) (NN classification) (NN algorithm)) (VP (VBZ is) (VP (VBN computed) (PP (IN with) (NP (NP (DT a) (NNP PCA) (NN model) (NN selection)) (PP (IN on) (NP (VBG scattering) (NNS vectors))))))) (. .))
-(S (NP (NAC (NN State) (PP (IN of) (NP (DT the) (NN art)))) (NNS results)) (VP (VBP are) (VP (VBN obtained) (PP (IN for) (NP (NP (JJ handwritten) (JJ digit) (NN recognition)) (CC and) (NP (NN texture) (NN classification)))))) (. .))

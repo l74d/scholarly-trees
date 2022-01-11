@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ upper) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN sum-rate)) (PP (IN of) (NP (NNS multiple-unicasts))))))) (. .))
-(S (NP (PRP We)) (VP (VBP approximate) (NP (NP (DT the) (NNP Generalized) (NNP Network) (NNP Sharing) (NNP Bound)) (PRN (-LRB- -LRB-) (NP (NNP GNS) (NN cut)) (-RRB- -RRB-)) (PP (IN of) (NP (DT the) (NNS multiple-unicasts) (NN network) (VBG coding) (NN problem)))) (PP (IN with) (NP (ADJP ($ $) (JJ k) ($ $)) (JJ independent) (NNS sources)))) (. .))

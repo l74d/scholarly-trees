@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN goal)) (PP (IN in) (NP (DT this) (NN preprint)))) (VP (VBZ is) (S (VP (TO to) (VP (VB give) (NP (DT an) (JJ efficient) (NN algorithm)) (PP (IN to) (S (VP (VB compute) (NP (NNP Puiseux) (NNS expansions)) (PP (IN at) (NP (NP (NNS cusps)) (PP (IN of) (NP (NN X0) (-LRB- -LRB-) (NN N) (-RRB- -RRB-)))))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (NN relation))) (PP (IN with) (NP (NP (DT a) (JJ hypergeometric) (NN function)) (SBAR (WHNP (WDT that)) (S (VP (VBZ holds) (PP (IN for) (NP (DT any) (NN N.)))))))))))

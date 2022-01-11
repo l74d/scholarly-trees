@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP define) (NP (NP (DT a) (JJ novel) (NN family)) (PP (IN of) (NP (NN algorithms))) (PP (IN for) (NP (DT the) (JJ adversarial) (JJ multi-armed) (NN bandit) (NN problem))))) (, ,) (CC and) (VP (VB provide) (NP (NP (DT a) (JJ simple) (NN analysis) (NN technique)) (VP (VBN based) (PP (IN on) (NP (NN convex) (NN smoothing))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (CD two) (JJ main) (NNS results))) (. .))
-(S (PP (IN For) (NP (NN example))) (, ,) (NP (DT the) (NNP Gumbel) (, ,) (NNP Weibull) (, ,) (NNP Frechet) (, ,) (NNP Pareto) (, ,) (CC and) (NNP Gamma) (NNS distributions)) (DT all) (VP (VBP satisfy) (NP (DT this) (JJ key) (NN property))) (. .))

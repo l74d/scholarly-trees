@@ -1,5 +1,0 @@
-(S (NP (NNP Network) (NN administration)) (VP (VBZ is) (NP (DT an) (ADJP (RB inherently) (JJ complex)) (NN task)) (, ,) (PP (IN in) (ADJP (JJ particular))) (PP (IN with) (NP (NP (NN regard)) (PP (TO to) (NP (NN security)))))) (. .))
-(S (S (VP (VBG Using) (NP (DT the) (NNP Isabelle) (JJ interactive) (NN proof) (NN assistant)))) (, ,) (NP (PRP we)) (VP (VBP develop) (NP (NP (CD two) (VBN automated) (, ,) (ADJP (RB formally) (VBN verified)) (NNS tools)) (SBAR (WHNP (WDT which)) (S (VP (VBP help) (S (VP (VBG uncovering) (CC and) (VBG preventing) (NP (NP (NNS bugs)) (PP (IN in) (NP (JJ network-level) (NN access) (NN control) (NNS configurations))))))))))) (. .))
-(S (NP (PRP$ Our) (JJ first) (NN tool)) (VP (VBZ guides) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG designing) (NP (NNS networks)) (PP (IN from) (NP (NN scratch)))))))) (. .))
-(S (NP (PRP$ Our) (JJ second) (NN tool)) (VP (VBZ facilitates) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (VBG existing) (NNS iptables) (NNS configurations))))) (. .))
-(S (S (VP (VBN Combined))) (, ,) (NP (DT the) (CD two)) (VP (VBP form) (NP (DT a) (JJ powerful) (NN toolset))) (. .))

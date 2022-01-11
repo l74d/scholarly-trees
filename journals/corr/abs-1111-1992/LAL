@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (ADVP (RB first)) (VP (VBZ introduces) (NP (NP (DT a) (JJ refined) (NN version)) (PP (IN of) (NP (NP (DT the) (NNP Azuma-Hoeffding) (NN inequality)) (PP (IN for) (NP (NP (JJ discrete-parameter) (NNS martingales)) (PP (IN with) (NP (ADJP (RB uniformly) (VBN bounded)) (NNS jumps))))))))) (. .))
-(S (NP (DT The) (JJ refined) (NN inequality)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB revisit) (NP (NP (DT the) (JJ large) (NNS deviations) (NN analysis)) (PP (IN of) (NP (JJ binary) (NN hypothesis) (NN testing))))))))) (. .))

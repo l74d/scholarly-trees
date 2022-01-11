@@ -1,2 +1,0 @@
-(NP (NP (DT This) (JJ short) (NN note) (NNS reviews)) (ADVP (RB briefly) (NP (CD three) (NNS algorithms))) (PP (IN for) (S (VP (VBG finding) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (JJ dispensable) (NNS variables)) (PP (IN of) (NP (DT a) (JJ boolean) (NN formula))))))))) (. .))
-(S (NP (DT The) (NN presentation)) (VP (VBZ is) (ADJP (ADJP (JJ light) (PP (IN on) (NP (NNS proofs)))) (CC and) (ADJP (JJ heavy) (PP (IN on) (NP (NNS intuitions)))))) (. .))

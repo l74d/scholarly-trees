@@ -1,2 +1,0 @@
-(S (NP (DT This)) (VP (VP (VBZ rectifies) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NNP Floyd) (CC and) (NNP Rivest))))) (, ,) (CC and) (VP (VBZ extends) (NP (PRP it)) (PP (TO to) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ nondistinct) (NNS elements))))))) (. .))
-(S (NP (PRP$ Our) (JJ computational) (NNS results)) (VP (VBP confirm) (SBAR (IN that) (S (NP (NNP Select)) (VP (MD may) (VP (VB be) (NP (NP (DT the) (JJS best) (NN algorithm)) (PP (IN in) (NP (NN practice))))))))) (. .))

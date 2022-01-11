@@ -1,4 +1,0 @@
-(S (NP (NNP Dou) (NNP Shou) (NNP Qi)) (VP (VBZ is) (NP (NP (DT a) (JJ Chinese) (NN strategy) (NN board) (NN game)) (PP (IN for) (NP (CD two) (NNS players))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (JJ EXPTIME-hardness) (NN framework)) (S (VP (TO to) (VP (VB analyse) (NP (NP (JJ computational) (NN complexity)) (PP (IN of) (NP (DT the) (NN game)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT all) (NNS gadgets)) (PP (IN of) (NP (DT the) (NN hardness) (NN framework))))) (. .))
-(S (PP (IN In) (NP (NN conclusion))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NNP Dou) (NNP Shou) (NNP Qi)) (VP (VBZ is) (ADJP (NNP EXPTIME-complete)))))) (. .))

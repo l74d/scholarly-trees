@@ -1,2 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (ADJP (RB well) (VBN known)) (SBAR (IN that) (S (NP (NP (JJ Sparse) (NN PCA)) (-LRB- -LRB-) (NP (JJ Sparse) (NN Principal) (NN Component) (NN Analysis)) (-RRB- -RRB-)) (VP (VBZ is) (ADJP (NP (NNP NP)) (HYPH -) (JJ hard) (S (VP (TO to) (VP (VB solve) (ADVP (RB exactly)) (PP (IN on) (NP (NML (JJS worst) (HYPH -) (NN case)) (NNS instances)))))))))))) (. .))
-(SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NP (DT the) (NN complexity)) (PP (IN of) (S (VP (VBG solving) (NP (JJ Sparse) (NN PCA)) (ADVP (RB approximately))))))) (. ?))

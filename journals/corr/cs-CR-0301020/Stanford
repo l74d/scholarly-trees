@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP explain) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT a) (JJ differential) (NN fault) (NN analysis)) (-LRB- -LRB-) (NP (NN DFA)) (-RRB- -RRB-)) (VP (VBZ works) (PP (IN on) (NP (NP (NNP AES) (CD 128) (, ,) (CD 192)) (CC or) (NP (CD 256) (NNS bits)))))))) (. .))

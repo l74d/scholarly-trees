@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN comparison)) (PP (IN of) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (NN randomness)) (PP (IN of) (NP (NNP D) (NNS sequences))))))) (VP (VBN based) (PP (IN on) (NP (NN diehard) (NNS tests)))))) (. .))
-(S (SBAR (IN Since) (S (NP (NNP D) (NNS sequences)) (VP (MD can) (VP (VB model) (NP (DT any) (JJ random) (NN sequence)))))) (, ,) (NP (DT this) (NN comparison)) (VP (VBZ is) (PP (IN of) (NP (NN value))) (PP (IN beyond) (NP (DT this) (JJ specific) (NN class)))) (. .))

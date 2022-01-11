@@ -1,1 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ discusses) (NP (NP (DT the) (NN gate) (NN complexity)) (PP (IN of) (NP (JJ reversible) (NNS circuits))) (PP (IN with) (NP (NP (DT the) (JJ small) (NN number)) (PP (IN of) (NP (NP (JJ additional) (NNS inputs)) (VP (VBG consisting) (PP (IN of) (NP (NNP NOT) (, ,) (NNP CNOT) (CC and) (JJ 2-CNOT) (NNS gates)))))))))) (. .))

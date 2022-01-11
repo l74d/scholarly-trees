@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ describes) (NP (NP (PRP$ our) (NN experience)) (S (VP (NN developing) (CC and) (NN maintaining) (NP (NP (JJ automated) (NNS tests)) (PP (IN for) (NP (JJ scientific) (NNS applications)))))))) (. .))
-(S (NP (DT The) (JJ main) (NN idea)) (VP (VBZ evolves) (PP (RP around) (S (VP (VBG building) (PP (IN on) (NP (ADJP (RB already) (VBG existing)) (NNS tests))) (PP (IN by) (S (VP (VBG cloning) (CC and) (VBG grafting)))))))) (. .))
-(S (NP (DT The) (NN idea)) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN on) (NP (NP (DT a) (JJ minimal) (NN model) (NN problem)) (VP (VBN written) (PP (IN in) (NP (NNP Python)))))))) (. .))

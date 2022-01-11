@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP propose) (NP (NP (DT a) (NN cryptosystem)) (VP (VBN based) (PP (IN on) (NP (NP (NNS matrices)) (PP (IN over) (NP (NN group) (NNS rings)))))))) (CC and) (VP (NN claim) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ secure) (PP (IN against) (NP (JJ adaptive) (NN chosen) (JJ ciphertext) (NN attack))))))))) (. .))

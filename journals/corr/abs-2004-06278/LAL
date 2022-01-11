@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ new) (JJ counter-based) (NN random) (NN number) (NN generator)) (PRN (-LRB- -LRB-) (NP (NNP RNG)) (-RRB- -RRB-)) (VP (VBN based) (PP (IN on) (NP (NP (NNP John) (NNP von) (NNP Neumann) (POS 's)) (JJ middle) (NN square)))))) (. .))
-(S (NP (PRP We)) (VP (VBP 've) (VP (VBN discovered) (SBAR (IN that) (S (NP (NP (QP (RB only) (CD three)) (NNS rounds)) (PP (IN of) (NP (VBG squaring)))) (VP (VBP are) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB provide) (NP (JJ satisfactory) (NN random) (NNS data))))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS fastest) (JJ counter-based) (NNP RNGs)))))))) (. .))

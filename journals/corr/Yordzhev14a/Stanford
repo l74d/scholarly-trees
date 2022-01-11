@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VB consider) (NP (NP (DT an) (NML (NN equivalence) (NN relation))) (PP (IN in) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (NNS vertices)) (PP (IN of) (NP (DT a) (JJ bipartite) (NN graph))))))))) (. .))
-(S (NP (NP (DT Some) (JJ numerical) (NNS characteristics)) (VP (VBG showing) (NP (NP (DT the) (NN cardinality)) (PP (IN of) (NP (NN equivalence) (NNS classes)))))) (VP (VBP are) (VP (VBN introduced))) (. .))

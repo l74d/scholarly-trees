@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (JJ invariant)) (PP (IN under) (NP (NP (VBG scaling)) (CC and) (NP (JJ linear) (NN brightness) (NN change)))))) (. .))
-(S (NP (DT The) (NN invariant)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NNS differentials))))) (CC and) (VP (ADVP (NN therefore)) (VBZ is) (NP (DT a) (JJ local) (NN feature)))) (. .))
-(S (NP (NP (ADJP (RB Rotationally) (JJ invariant)) (JJ 2-d) (JJ differential) (NN Gaussian) (NNS operators)) (PP (RB up) (PP (TO to) (NP (JJ third) (NN order))))) (VP (VBP are) (VP (VBN proposed) (PP (IN for) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NN invariant))))))) (. .))
-(S (NP (DT The) (NN performance)) (VP (VBZ is) (VP (VBN analyzed) (PP (IN by) (S (VP (VBG simulating) (NP (DT a) (NN camera) (NN zoom-out))))))) (. .))

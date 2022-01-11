@@ -1,5 +1,0 @@
-(S (NP (PRP$ Our) (NN society)) (VP (VBZ is) (VP (VBG changing))) (. .))
-(S (NP (RB Almost) (NN nothing)) (NP (DT these) (NNS days)) (VP (VBZ works) (PP (IN without) (NP (DT a) (NN computer) (NN chip)))) (. .))
-(S (S (NP (VBG Computing) (NN power)) (VP (NNS doubles) (NP (DT every) (CD 18) (NNS months)))) (, ,) (CC and) (S (PP (IN in) (NP (CD ten) (NNS years))) (NP (PRP it)) (VP (MD will) (ADVP (RB probably)) (VP (VB exceed) (NP (NP (DT the) (NNS capabilities)) (PP (IN of) (NP (DT a) (JJ human) (NN brain))))))) (. .))
-(S (S (NP (NNS Computers)) (VP (VBP perform) (NP (NP (QP (RB approximately) (CD 70)) (NN percent)) (PP (IN of) (NP (DT all) (JJ financial) (NNS transactions)))) (NP (NN today)))) (CC and) (S (NP (NP (NNP IBM) (POS 's)) (NNP Watson)) (ADVP (RB now)) (VP (VBZ seems) (S (VP (TO to) (VP (VB give) (NP (NP (JJR better) (NN customer) (NN advise)) (PP (IN than) (NP (DT some) (JJ human) (NN telephone) (NNS hotlines))))))))) (. .))
-(SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (DT this)) (VP (NN imply) (PP (IN for) (NP (PRP$ our) (NN future) (NN society))))) (. ?))

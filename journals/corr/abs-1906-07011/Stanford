@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NML (JJ large) (HYPH -) (NN scale)) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NN citation) (NNS data)))))) (PP (IN in) (NP (NP (DT the) (NN Web)) (PP (IN of) (NP (NML (NNP Science) (CC and) (NNP Scopus)) (NNS databases)))))) (. .))
-(S (NP (DT The) (NN analysis)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNS citations)) (VP (VBN given) (PRT (RP in)) (NP (NNS publications)) (PP (IN in) (NP (ADJP (JJR Elsevier)) (NNS journals)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP reveal) (NP (NP (JJ significant) (NML (NNS data) (NN quality)) (NNS problems)) (PP (IN for) (NP (DT both) (NNS databases))))) (. .))
-(S (S (VP (VBG Missing))) (CC and) (S (NP (JJ incorrect) (NNS references)) (VP (VBP are) (NP (NP (JJ important) (NNS problems)) (PP (IN in) (NP (NP (NN Web)) (PP (IN of) (NP (NNP Science)))))))) (. .))
-(S (VP (VB Duplicate) (S (NP (NNS publications)) (VP (VBP are) (NP (NP (DT a) (JJ serious) (NN problem)) (PP (IN in) (NP (NNP Scopus))))))) (. .))

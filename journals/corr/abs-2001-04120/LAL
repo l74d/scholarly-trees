@@ -1,3 +1,0 @@
-(S (NP (NP (DT Some) (JJ classical) (NN graph) (NNS problems)) (PP (JJ such) (IN as) (S (VP (VBG finding) (NP (NP (JJ minimal) (VBG spanning) (NN tree)) (, ,) (NP (JJ shortest) (NN path)) (CC or) (NP (JJ maximal) (NN flow))))))) (VP (MD can) (VP (VB be) (VP (VBN done) (ADVP (RB efficiently))))) (. .))
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (JJ slight) (NNS variations)) (PP (IN of) (NP (JJ such) (NNS problems))) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (NNP NP-complete))))))))))) (. .))
-(S (NP (PRP$ Our) (NN proofs)) (VP (NN use) (NP (NP (JJ straightforward) (NN reduction)) (PP (IN from) (NP ($ $) (CD 3) ($ $) (CD -SAT))))) (. .))

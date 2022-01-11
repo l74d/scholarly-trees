@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ mathematical) (NN framework)) (PP (IN for) (NP (JJ automated) (NN bug) (NN localization))))) (. .))
-(S (NP (DT This) (NN framework)) (VP (MD can) (VP (VB be) (VP (ADVP (RB briefly)) (VBN summarized) (SBAR (IN as) (S (VP (VBZ follows))))))) (. .))
-(S (NP (DT A) (NN program) (NN execution)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN as) (NP (DT a) (JJ rooted) (NN acyclic) (VBD directed) (NN graph)))))) (. .))
-(S (NP (PRP We)) (VP (VBP define) (NP (DT an) (NN execution) (NN snapshot)) (PP (IN by) (NP (NP (DT a) (NN cut-set)) (PP (IN on) (NP (DT the) (NN graph)))))) (. .))
-(S (NP (DT A) (NN program) (NN state)) (VP (MD can) (VP (VB be) (VP (VBN regarded) (PP (IN as) (NP (NP (DT a) (NN conjunction)) (PP (IN of) (NP (NP (NNS labels)) (PP (IN on) (NP (NP (NNS edges)) (PP (IN in) (NP (DT a) (NN cut-set)))))))))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP argue) (SBAR (IN that) (S (NP (DT a) (NN debugging) (NN task)) (VP (VBZ is) (NP (NP (DT a) (VBG pruning) (NN process)) (PP (IN of) (NP (DT the) (NN execution) (NN graph))) (PP (IN by) (S (VP (VBG using) (NP (NNS cut-sets)))))))))) (. .))
-(S (NP (NP (DT A) (NN pruning) (NN algorithm)) (, ,) (FW i.e.) (, ,) (NP (DT a) (NN debugging) (NN task)) (, ,)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN presented))) (. .))

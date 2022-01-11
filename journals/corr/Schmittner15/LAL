@@ -1,4 +1,0 @@
-(S (NP (NP (DT A) (JJ homomorphic) (JJ public) (NN key) (NN crypto-scheme)) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Boolean) (NNP Satisfiability) (NNP Problem))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (DT The) (JJ public) (NN key)) (VP (VBZ is) (NP (NP (DT a) (NNP SAT) (NN formula)) (VP (VBN satisfied) (PP (IN by) (NP (DT the) (JJ private) (NN key)))))) (. .))
-(S (NP (JJ Probabilistic) (NN encryption)) (VP (NNS generates) (NP (NP (NNS functions)) (VP (VBD implied) (S (VP (TO to) (VP (VB be) (ADJP (JJ false))))) (PP (IN by) (NP (NP (DT the) (JJ public) (NN key)) (NNP XOR) (NP (DT the) (NN message) (NNS bits))))))) (. .))
-(S (NP (DT A) (NN zero-knowledge) (NN proof)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB provide) (NP (NNS signatures))))))) (. .))

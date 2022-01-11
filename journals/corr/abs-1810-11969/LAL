@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (CD 1997))) (, ,) (NP (NNP Shor) (CC and) (NNP Laflamme)) (VP (VP (VBD defined) (NP (NP (DT the) (NN weight) (NNS enumerators)) (PP (IN for) (NP (JJ quantum) (JJ error-correcting) (NNS codes))))) (CC and) (VP (VBD derived) (NP (DT a) (NNP MacWilliams) (NN identity)))) (. .))
-(S (NP (PRP We)) (VP (VBP extend) (NP (PRP$ their) (NN work)) (PP (IN by) (S (VP (VBG introducing) (NP (PRP$ our) (NX (NX (JJ double) (NN weight) (NNS enumerators)) (CC and) (NX (JJ complete) (NN weight) (NNS enumerators)))))))) (. .))
-(S (NP (NP (DT The) (NNP MacWilliams) (NNS identities)) (PP (IN for) (NP (DT these) (NNS enumerators)))) (VP (MD can) (VP (VB be) (VP (VBN obtained) (ADVP (RB similarly))))) (. .))
-(S (PP (IN With) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (NNP MacWilliams) (NNS identities))))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (NP (JJ various) (NNS bounds)) (PP (IN for) (NP (JJ asymmetric) (NN quantum) (NNS codes))))) (. .))

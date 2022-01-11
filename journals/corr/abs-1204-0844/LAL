@@ -1,3 +1,0 @@
-(S (NP (NP (NNP Novel) (NNS techniques)) (VP (VBN based) (PP (IN on) (NP (NN signal-conditioning))))) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB mitigate) (NP (NP (JJ timing) (NNS errors)) (PP (IN in) (NP (JJ time-interleaved) (NNP ADCs))))))))) (. .))
-(S (NP (NP (DT A) (JJ theoretical) (NN bound)) (PP (PP (IN on) (NP (DT the) (JJ achievable) (JJ spurious) (NN signal) (NN content))) (, ,) (PP (IN on) (S (VP (VBG applying) (NP (DT the) (NNS techniques))))) (, ,))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN derived))) (. .))
-(S (NP (NP (JJ Behavioral) (NNS simulations)) (VP (VBG corroborating) (NP (DT the) (JJ same)))) (VP (VBP are) (VP (VBN presented))) (. .))

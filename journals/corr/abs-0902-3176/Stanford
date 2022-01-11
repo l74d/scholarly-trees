@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ pairwise) (NNS tournaments)))) (S (VP (VBG reducing) (NP (QP ($ $) (CD k)) (NML (NML ($ $)) (HYPH -) (NML (NN class) (NN classification)))) (PP (IN to) (NP (JJ binary) (NN classification)))))) (. .))
-(S (NP (DT These) (NNS reductions)) (VP (VBP are) (ADJP (RB provably) (JJ robust) (PP (IN against) (NP (NP (DT a) (JJ constant) (NN fraction)) (PP (IN of) (NP (JJ binary) (NNS errors))))))) (. .))

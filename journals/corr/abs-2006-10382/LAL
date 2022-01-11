@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT no) (JJ projective) (JJ 16-divisible) (JJ binary) (JJ linear) (NN code)) (PP (IN of) (NP (NN length) (CD 131)))) (VP (NNS exists))))) (. .))
-(S (NP (DT This)) (VP (VBZ implies) (NP (NP (JJ several) (VBN improved) (JJ upper) (NNS bounds)) (PP (IN for) (NP (NP (NP (NN constant-dimension) (NNS codes)) (, ,) (VP (VBN used) (PP (IN in) (NP (NN random) (JJ linear) (NN network) (NN coding)))) (, ,)) (CC and) (NP (JJ partial) (NNS spreads)))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (ADJP (RB well) (VBN known)) (SBAR (IN that) (S (PP (IN among) (NP (NP (DT all)) (VP (VBN connected) (NP (NNS graphs))))) (, ,) (NP (NP (DT the) (NNS graphs)) (PP (IN with) (NP (JJ minimal) (NNP ABC) (NN index)))) (VP (VBP are) (NP (NNS trees))))))) (. .))
-(S (NP (NP (DT A) (JJ complete) (NN characterization)) (PP (IN of) (NP (NP (NNS trees)) (PP (IN with) (NP (JJ minimal) (NML (QP ($ $) (CD ABC$))) (NN index)))))) (VP (VBZ is) (ADVP (RB still)) (NP (DT an) (JJ open) (NN problem))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (JJ new) (JJ structural) (NNS properties)) (PP (IN of) (NP (NP (NNS trees)) (PP (IN with) (NP (JJ minimal) (NNP ABC) (NN index))))))) (. .))

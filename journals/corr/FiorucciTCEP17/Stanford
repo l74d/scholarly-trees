@@ -1,3 +1,0 @@
-(S (PP (IN To) (NP (DT this) (NN end))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT a) (NN heuristic) (NN algorithm)) (S (VP (TO to) (VP (VB find) (NP (JJ regular) (NNS partitions)))))) (. .))
-(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN method)) (VP (VBZ is) (ADJP (RB quite) (JJ robust) (PP (IN to) (NP (NP (DT the) (JJ natural) (NN sparsification)) (PP (IN of) (NP (NN proximity) (NNS graphs)))))))))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT this) (NN robustness)) (VP (MD can) (VP (VB be) (VP (VBN enforced) (PP (IN by) (NP (NN graph) (NN densification)))))) (. .))

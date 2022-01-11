@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP investigate) (NP (NP (JJ extremal) (JJ singly-even) (JJ self-dual) (NNS codes)) (PP (IN with) (NP (JJ minimal) (NN shadow))))) (. .))
-(S (PP (IN For) (NP (JJ particular) (NNS parameters))) (NP (PRP we)) (VP (VBP prove) (NP (NP (NN non-existence)) (PP (IN of) (NP (JJ such) (NNS codes))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (JJ explicit) (NNS bounds)) (SBAR (IN in) (NN case) (S (NP (DT the) (NN shadow)) (VP (VBZ is) (ADJP (JJ minimal)))))) (. .))

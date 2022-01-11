@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ fundamental) (NNS problems)) (PP (IN of) (S (VP (ADVP (RB agnostically)) (VBG learning) (NP (NNS halfspaces) (CC and) (NNP ReLUs)) (PP (IN under) (NP (JJ Gaussian) (NNS marginals)))))))) (. .))
-(S (NP (PRP$ Our) (NNP SQ) (JJR lower) (NNS bounds)) (VP (VBP provide) (NP (JJ strong) (NN evidence) (SBAR (IN that) (S (NP (NP (JJ current) (JJ upper) (NNS bounds)) (PP (IN for) (NP (DT these) (NNS tasks)))) (VP (VBP are) (ADJP (RB essentially) (RBS best) (JJ possible))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT an) (ADJP (JJ exponential)) (NML (NN probability) (NN tail)) (NN inequality)) (PP (IN for) (NP (NP (JJ positive) (JJ semidefinite) (JJ quadratic) (NNS forms)) (PP (IN in) (NP (DT a) (JJ subgaussian) (JJ random) (NN vector))))))) (. .))
-(S (NP (DT The) (VBN bound)) (VP (VBZ is) (ADJP (JJ analogous) (PP (IN to) (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ holds) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN vector)) (VP (VBZ has) (NP (JJ independent) (JJ Gaussian) (NNS entries)))))))))))) (. .))

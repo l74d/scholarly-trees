@@ -1,1 +1,0 @@
-(S (NP (NP (DT A) (JJ string-like) (JJ compact) (NNS data) (NN structure)) (PP (IN for) (NP (JJ unlabelled) (VBN rooted) (NNS trees)))) (VP (VBZ is) (VP (VBN given) (S (VP (VBG using) (NP (CD 2n) (NNS bits)))))) (. .))

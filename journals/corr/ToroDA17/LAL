@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN chapter))) (NP (PRP we)) (VP (VBP explain) (ADVP (IN briefly)) (NP (NP (DT the) (NNS fundamentals)) (PP (IN of) (NP (DT the) (JJ interactive) (NNS scores) (NN formalism))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (NN solution)) (PP (IN for) (S (VP (VBG implementing) (NP (DT the) (NNP ECO) (NN machine)) (PP (IN by) (S (VP (VBG mixing) (NP (NP (JJ petri) (NNS nets)) (CC and) (NP (NNS constraints) (NN propagation))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP present) (NP (NP (DT another) (NN solution)) (PP (IN for) (S (VP (VBG implementing) (NP (DT the) (NNP ECO) (NN machine)) (S (VP (VBG using) (NP (JJ concurrent) (NN constraint) (NN programming))))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (JJ interactive) (NN score))) (PP (IN with) (NP (JJ conditional) (NN branching))))) (. .))

@@ -1,6 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (DT a) (JJ formal) (NN framework)) (PP (IN for) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (VBN distributed) (JJ active) (NNS objects)))))) (. .))
-(S (NP (JJ Active) (NNS objects)) (VP (VBP communicate) (S (ADVP (RB asynchronously)) (VP (VBG implementing) (SBAR (S (NP (NN method)) (VP (VBZ calls) (PP (IN via) (NP (NNS futures))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP base) (NP (DT the) (JJ formal) (NN framework)) (PP (IN on) (NP (NP (DT a) (NN security) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (NP (DT a) (NN semi-lattice) (S (VP (TO to) (VP (VB enable) (NP (JJ multi-lateral) (NN security)) (S (ADJP (JJ crucial) (PP (IN for) (NP (VBN distributed) (NNS architectures))))))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB further)) (VP (VBP provide) (NP (NP (DT a) (NML (NN security) (NN type)) (NN system)) (PP (IN for) (NP (NP (DT the) (NML (NN programming) (NN model)) (NNP ASPfun)) (PP (IN of) (NP (JJ functional) (JJ active) (NNS objects))))))) (. .))
-(S (NP (NP (NN Type) (NN safety)) (CC and) (NP (DT a) (NN confinement) (NN property))) (VP (VBP are) (VP (VBN presented))) (. .))
-(S (NP (NNP ASPfun)) (ADVP (RB thus)) (VP (VBZ realizes) (ADJP (JJ secure)) (PP (RP down) (NP (NNS calls)))) (. .))

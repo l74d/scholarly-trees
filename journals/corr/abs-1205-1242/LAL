@@ -1,5 +1,0 @@
-(S (NP (NP (JJ Lossless) (JJ variable-length) (NN source) (VBG coding)) (PP (IN with) (NP (JJ unequal) (NN cost) (NN function)))) (VP (VBZ is) (VP (VBN considered) (PP (IN for) (NP (JJ general) (NNS sources))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN problem))) (, ,) (NP (NP (DT the) (NN codeword) (NN cost)) (CONJP (RB instead) (IN of)) (NP (NN codeword) (NN length))) (VP (VBZ is) (ADJP (JJ important))) (. .))
-(S (NP (NP (DT The) (NN infimum)) (PP (IN of) (NP (JJ average) (NN codeword) (NN cost)))) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN determined) (PP (IN for) (NP (JJ general) (NNS sources)))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP consider) (NP (NP (DT the) (JJ overflow) (NN probability)) (PP (IN of) (NP (NN codeword) (NN cost))))) (CC and) (VP (VB determine) (NP (NP (DT the) (NN infimum)) (PP (IN of) (NP (JJ achievable) (JJ overflow) (NN threshold)))))) (. .))
-(S (NP (PRP$ Our) (NN analysis)) (VP (VBZ is) (UCP (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (JJ information-spectrum) (NNS methods))))) (CC and) (NN hence) (FRAG (ADJP (NNS valid)) (PP (IN through) (NP (DT the) (JJ general) (NN source)))))) (. .))

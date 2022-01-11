@@ -1,3 +1,0 @@
-(S (NP (NNP Blind) (NN deconvolution)) (VP (VBZ is) (NP (NP (DT a) (JJ ubiquitous) (NN problem)) (PP (IN of) (S (VP (VBG recovering) (NP (CD two) (JJ unknown) (NNS signals)) (PP (IN from) (NP (PRP$ their) (NN convolution)))))))) (. .))
-(S (ADVP (RB Unfortunately)) (, ,) (NP (DT this)) (VP (VBZ is) (NP (DT an) (JJ ill-posed) (NN problem)) (PP (IN in) (ADJP (JJ general)))) (. .))
-(S (NP (DT This) (JJ variant)) (VP (VBZ captures) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT the) (JJ unknown) (NNS signals)))) (PP (IN in) (NP (JJ several) (JJ important) (NNS applications)))) (. .))

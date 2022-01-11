@@ -1,6 +1,0 @@
-(S (NP (NP (DT The) (NN emission) (NN rate)) (PP (IN of) (NP (NN minority) (JJ atmospheric) (NNS gases)))) (VP (VBZ is) (VP (VBN inferred) (PP (IN by) (NP (NP (DT a) (JJ new) (NN approach)) (VP (VBN based) (PP (IN on) (NP (JJ neural) (NNS networks)))))))) (. .))
-(S (NP (NP (DT The) (JJ neural) (NN network)) (VP (VBN applied))) (VP (VBZ is) (NP (NP (DT the) (JJ multi-layer) (NN perceptron)) (PP (IN with) (NP (NP (NN backpropagation) (NN algorithm)) (PP (IN for) (NP (NN learning))))))) (. .))
-(S (NP (NP (DT The) (NN identification)) (PP (IN of) (NP (DT these) (NN surface) (NN fluxes)))) (VP (VBZ is) (NP (DT an) (NN inverse) (NN problem))) (. .))
-(S (NP (NP (DT A) (NN comparison)) (PP (IN between) (NP (DT the) (JJ new) (NN neural-inversion) (CC and) (JJ regularized) (JJ inverse) (NN solution) (NN id)))) (VP (VBD performed)) (. .))
-(S (NP (NP (DT The) (NNS results)) (VP (VBD obtained) (PP (IN from) (NP (DT the) (JJ neural) (NNS networks))))) (VP (VBP are) (ADJP (RB significantly) (RBR better))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (NN inversion)) (PP (IN with) (NP (DT the) (JJ neural) (NNS netwroks)))) (VP (VBZ is) (ADJP (ADJP (JJR fster)) (PP (IN than) (NP (VBN regularized) (NNS approaches)))) (, ,) (PP (IN after) (NP (NN training)))) (. .))

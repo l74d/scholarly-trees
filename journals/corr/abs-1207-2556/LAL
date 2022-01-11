@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (DT this) (NN conjecture)) (PP (IN for) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (NNS automata)) (VP (VBG preserving) (NP (NP (JJ certain) (NNS properties)) (PP (IN of) (NP (NP (NNS intervals)) (PP (IN of) (NP (DT a) (JJ directed) (NN graph)))))))))))) (. .))
-(S (NP (PRP$ Our) (NN result)) (VP (NNS unifies) (CC and) (VBZ generalizes) (NP (NP (DT some) (JJR earlier) (NNS results)) (VP (VBN obtained) (PP (IN by) (NP (JJ other) (NNS authors)))))) (. .))

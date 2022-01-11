@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (NP (NNP NP)) (HYPH -) (JJ hard)) (, ,) (SBAR (RB even) (WHADVP (WRB when)) (S (VP (VBN restricted) (PP (IN to) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS polyominoes)) (VP (VBG using) (NP (DT a) (JJ single) (JJ common) (NN color))))))))))))))) (. .))

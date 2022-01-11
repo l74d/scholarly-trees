@@ -1,3 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (NP (DT an) (JJ open) (NN question)) (SBAR (IN if) (S (NP (EX there)) (VP (VBP are) (NP (JJ leakage-free) (VBG entangling) (NNP Fibonacci) (VBG braiding) (NNS gates)))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (NN evidence)) (PP (TO to) (NP (NP (DT the) (NN conjecture)) (PP (IN for) (NP (DT the) (JJ negative)))))) (PP (IN in) (NP (DT this) (NN paper)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD found) (NP (NP (DT a) (ADJP (RB much) (NN simpler)) (NN protocol)) (SBAR (S (VP (TO to) (VP (VB generate) (NP (ADJP (RB approximately) (JJ leakage-free)) (VBG entangling) (NNP Fibonacci) (VBG braiding) (NNS gates)))))) (PP (IN than) (NP (NP (VBG existing) (NN algorithms)) (PP (IN in) (NP (DT the) (NN literature))))))) (. .))

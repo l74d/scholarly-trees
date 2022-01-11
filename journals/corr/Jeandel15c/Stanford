@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT every) (JJ polycyclic) (NN group)) (PP (IN of) (NP (JJ nonlinear) (NN growth)))) (VP (VP (VBZ admits) (NP (DT a) (ADJP (RB strongly) (JJ aperiodic)) (NN SFT))) (CC and) (VP (VBZ has) (NP (DT an) (JJ undecidable) (NN domino) (NN problem))))))) (. .))
-(S (NP (DT This)) (VP (VP (VBZ answers) (NP (NP (DT a) (NN question)) (PP (IN of))) (PRN (-LRB- [) (NP (CD 4)) (-RRB- ]))) (CC and) (VP (VBZ generalizes) (NP (NP (DT the) (NN result)) (PP (IN of)))) (PRN (-LRB- [) (NP (CD 2)) (-RRB- ]))) (. .))

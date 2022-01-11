@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP examine) (NP (NP (NNS questions)) (PP (VBG involving) (NP (NP (JJ nondeterministic) (JJ finite) (NN automata)) (SBAR (WHADVP (WRB where)) (S (NP (DT all) (NNS states)) (VP (VBP are) (ADJP (ADJP (JJ final)) (, ,) (ADJP (JJ initial)) (, ,) (CC or) (ADJP (DT both) (JJ initial) (CC and) (JJ final)))))))))) (. .))
-(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (NP (NN hardness) (NNS results)) (PP (IN for) (NP (DT the) (NN nonuniversality)))) (CC and) (NP (NP (NN inequivalence) (NNS problems)) (PP (IN for) (NP (DT these) (NNS NFAs)))))) (. .))
-(S (ADVP (RB Next)) (, ,) (NP (PRP we)) (VP (VBP characterize) (SBAR (S (NP (DT the) (NNS languages)) (VP (VBD accepted))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT some) (NN state) (NN complexity) (NNS problems)) (PP (VBG involving) (NP (JJ such) (NN automata))))) (. .))

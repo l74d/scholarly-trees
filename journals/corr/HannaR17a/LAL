@@ -1,2 +1,0 @@
-(S (NP (NNP GC) (NNS codes)) (VP (VP (VBP are) (ADJP (JJ systematic))) (: ;) (CC and) (VP (VBP have) (NP (JJ deterministic) (JJ polynomial) (NN time) (VBG encoding) (CC and) (VBG decoding) (NN algorithms)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP describe) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (NNP GC) (NNS codes))) (PP (TO to) (NP (VB file) (NN synchronization))))) (. .))

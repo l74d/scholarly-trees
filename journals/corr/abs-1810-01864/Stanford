@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP obtain) (NP (NP (DT the) (JJ first) (JJ positive) (NNS results)) (PP (IN for) (NP (NP (VBN bounded) (NN sample) (NN compression)) (PP (IN in) (NP (DT the) (JJ agnostic) (NN regression) (NN setting))))))) (. .))
-(S (NP (DT This) (NN question)) (VP (VBZ generalizes) (NP (NP (NP (NNP Warmuth) (POS 's)) (JJ classic) (NML (NN sample) (NN compression)) (NN conjecture)) (PP (IN for) (NP (NML (JJ realizable) (HYPH -) (NN case)) (NN classification)))) (PRN (-LRB- -LRB-) (NP (NNP Warmuth)) (, ,) (NP (CD 2003)) (-RRB- -RRB-))) (. .))

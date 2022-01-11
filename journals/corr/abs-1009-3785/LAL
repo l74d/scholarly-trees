@@ -1,6 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ novel) (JJ hybrid) (NN approach)) (PP (IN for) (S (VP (VBG compensating) (NP (NP (DT the) (NN distortion)) (PP (IN of) (NP (DT any) (NN interpolation)))))))) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed)))) (. .))
-(S (PP (IN In) (NP (DT this) (JJ hybrid) (NN method))) (, ,) (NP (DT a) (JJ modular) (NN approach)) (VP (VBD was) (VP (VBN incorporated) (PP (IN in) (NP (DT an) (JJ iterative) (NN fashion))))) (. .))
-(S (PP (IN By) (S (VP (VBG using) (NP (DT this) (NN approach))))) (NP (PRP we)) (VP (MD can) (VP (VB get) (NP (JJ drastic) (NN improvement)) (PP (IN with) (NP (JJR less) (JJ computational) (NN complexity))))) (. .))
-(S (NP (NP (DT The) (NN extension)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))) (PP (TO to) (NP (CD two) (NNS dimensions)))) (VP (VBD was) (ADVP (RB also)) (VP (VBN studied))) (. .))
-(S (NP (DT Both) (NP (DT the) (NN simulation) (NNS results)) (CC and) (NP (JJ mathematical) (NNS analyses))) (VP (VBD confirmed) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (DT the) (JJ hybrid) (NN method))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN method)) (VP (VBD was) (ADVP (RB also)) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ robust) (PP (IN against) (NP (JJ additive) (NN noise))))))))) (. .))

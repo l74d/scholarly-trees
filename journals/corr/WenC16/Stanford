@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN algorithm)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ efficient) (PP (IN than) (NP (DT the) (ADJP (RBS best) (VBN known)) (NNS algorithms)))) (PP (IN with) (S (VP (VBN proved) (NP (NN complexity))))))) (. .))

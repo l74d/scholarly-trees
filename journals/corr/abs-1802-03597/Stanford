@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP use) (NP (NP (NML (NNP Apache) (NNP Big) (NNP Data)) (NNS technologies)) (PP (JJ such) (IN as) (NP (NNP Hadoop) (, ,) (NNP HDFS) (, ,) (NNP Spark) (CC and) (NNP Mahout))))) (, ,) (CC and) (VP (VB apply) (NP (DT these) (VBN distributed) (NNS technologies)) (PP (IN to) (NP (NN Machine) (NN Learning))))) (. .))

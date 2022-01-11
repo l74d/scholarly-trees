@@ -1,3 +1,0 @@
-(S (VP (VB Consider) (NP (NP (DT the) (NN framework)) (PP (IN of) (NP (JJ topological) (NN aggregation))) (VP (VBN introduced) (PP (IN by) (NP (NP (NNP Chichilnisky)) (PRN (-LRB- -LRB-) (NP (CD 1980)) (-RRB- -RRB-))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (DT that) (S (PP (IN in) (NP (DT this) (NN framework))) (NP (NP (DT the) (NNP Twin) (NNP Paradox)) (CC and) (NP (DT the) (NNP No) (NNP Show) (NNP Paradox))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN avoided))))))) (. .))
-(S (NP (NNP Anonymity) (CC and) (NN unanimity)) (VP (VBP are) (RB not) (VP (VBN needed) (S (VP (TO to) (VP (VB obtain) (NP (DT these) (NNS results))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NML (JJ High) (NN sidelobe)) (NN level)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN disadvantage)) (PP (IN of) (NP (DT the) (NNP Capon) (NN beamforming))))) (. .))
-(S (S (VP (TO To) (VP (VB suppress) (NP (DT the) (NN sidelobe))))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (NN mainlobe)) (PP (IN to) (NP (NML (NN sidelobe) (NN power)) (NN ratio) (NN constraint)))) (PP (IN to) (NP (DT the) (NNP Capon) (NN beamforming)))) (. .))
-(S (NP (PRP it)) (VP (VBZ minimizes) (NP (DT the) (NN sidelobe) (NN power)) (PP (IN while) (S (VP (VBG keeping) (NP (DT the) (NN mainlobe) (NN power) (NN constant)))))) (. .))
-(S (NP (NNS Simulations)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (ADJP (VBN obtained)) (NN beamformer)) (VP (VBZ outperforms) (NP (DT the) (NNP Capon) (NN beamformer)))))) (. .))

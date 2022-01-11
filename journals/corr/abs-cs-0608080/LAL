@@ -1,3 +1,0 @@
-(S (NP (JJ High) (NN algebraic) (NN immunity)) (VP (VBZ is) (NP (NP (DT a) (JJ necessary) (NN condition)) (PP (IN for) (S (VP (VBG resisting) (NP (JJ algebraic) (NNS attacks))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT some) (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (JJ algebraic) (NN immunity)) (PP (IN of) (NP (NNP Boolean) (NNS functions))))))) (. .))
-(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN applied) (S (VP (TO to) (VP (VB give) (NP (NP (JJR lower) (NNS bounds)) (PP (IN on) (NP (NNP AI))) (PP (IN of) (NP (NP (JJ symmetric) (NNP Boolean) (NNS functions)) (CC and) (NP (NN rotation) (JJ symmetric) (NNP Boolean) (NNS functions)))))))))) (. .))

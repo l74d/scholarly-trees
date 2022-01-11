@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NN game)) (PP (IN of) (NP (NP (DT the) (NNP Towers)) (PP (IN of) (NP (NNP Hanoi)))))) (VP (VBZ is) (VP (VBN generalized) (PP (IN to) (NP (JJ binary) (NNS trees))))) (. .))
-(S (ADVP (RB First)) (, ,) (NP (NP (DT a) (JJ straightforward) (NN solution)) (PP (IN of) (NP (DT the) (NN game)))) (VP (VBZ is) (VP (VBN discussed))) (. .))
-(S (ADVP (RB Second)) (, ,) (NP (DT a) (JJR shorter) (NN solution)) (VP (VBZ is) (VP (VBN presented) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB then)) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ optimal))))))))))) (. .))

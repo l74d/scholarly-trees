@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP suggest) (NP (NP (DT a) (NN reduction)) (PP (IN of) (NP (NP (DT the) (JJ combinatorial) (NN problem)) (PP (IN of) (NP (NN hypergraph) (VBG partitioning))))) (PP (TO to) (NP (DT a) (JJ continuous) (NN optimization) (NN problem))))) (. .))

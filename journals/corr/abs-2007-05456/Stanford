@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN exploration) (HYPH -) (NN exploitation)))) (PP (IN in) (S (VP (VBG communicating) (NP (NNP Markov) (NN Decision) (NNS Processes)))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (NN UCRL2)))) (PP (IN with) (NP (JJ Empirical) (NNP Bernstein) (NNS inequalities))) (PRN (-LRB- -LRB-) (NP (NN UCRL2B)) (-RRB- -RRB-))) (. .))

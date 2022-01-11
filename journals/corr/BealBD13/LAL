@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT some) (JJ basic) (NNS properties)) (PP (IN of) (NP (NP (JJ sofic-Dyck) (NNS shifts)) (CC and) (NP (JJ finite-type-Dyck) (NNS shifts)))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN class)) (PP (IN of) (NP (JJ sofic-Dyck) (NNS shifts)))) (VP (VBZ is) (ADJP (JJ stable)) (PP (IN under) (NP (JJ proper) (NNS conjugacies))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NNP Decomposition) (NNP Theorem)) (PP (IN of) (NP (NP (DT a) (JJ proper) (NN conjugacy)) (PP (IN between) (NP (JJ edge-Dyck) (NNS shifts))) (PP (IN into) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNP Dyck) (NNS splittings) (CC and) (NNS amalgamations))))))))) (. .))

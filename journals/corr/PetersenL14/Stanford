@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (JJ recent) (NNS results)))) (PP (IN on) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (JJ negative) (JJ imaginary) (NNS systems)))))) (. .))
-(S (NP (DT This) (NN theory)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN to) (NP (NP (DT the) (JJ robust) (NN control)) (PP (IN of) (NP (JJ large) (JJ flexible) (NNS structures))))) (PP (IN with) (NP (NP (JJ colocated) (NN force) (NNS actuators)) (CC and) (NP (NN position) (NNS sensors))))))) (. .))

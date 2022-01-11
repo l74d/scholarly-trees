@@ -1,3 +1,0 @@
-(S (NP (NNP Glaucoma)) (VP (VBZ is) (NP (NP (DT a) (JJ serious) (JJ ocular) (NN disorder)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NN screening) (CC and) (NN diagnosis)) (VP (VBP are) (VP (VBN carried) (PRT (IN out)) (PP (IN by) (NP (NP (DT the) (NN examination)) (PP (IN of) (NP (NP (DT the) (JJ optic) (NN nerve) (NN head)) (PRN (-LRB- -LRB-) (NP (NNP ONH)) (-RRB- -RRB-)))))))))))) (. .))
-(S (NP (NP (DT The) (NN color) (NN fundus) (NN image)) (PRN (-LRB- -LRB-) (NP (NNP CFI)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ common)) (NN modality)) (VP (VBN used) (PP (IN for) (NP (JJ ocular) (NN screening)))))) (. .))
-(FRAG (PP (IN In) (NP (NNP CFI))) (, ,) (NP (DT the) (JJ central) (NN r)))

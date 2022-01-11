@@ -1,7 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (JJ new) (NN model)) (PP (IN for) (S (VP (VBG sharing) (NP (NN location) (NN info)) (PP (IN for) (NP (JJ mobile) (NNS users)))))))) (. .))
-(S (NP (DT This) (NN approach)) (VP (MD can) (VP (VB operate) (PP (IN without) (NP (NP (DT the) (NN need)) (PP (IN for) (S (VP (VBG disclosing) (NP (NN identity) (NN info)) (PP (TO to) (NP (VB third) (NN party) (NNS servers)))))))))) (. .))
-(S (NP (PRP It)) (VP (MD could) (VP (VB be) (VP (VBN described) (PP (IN as) (NP (DT a) (JJ safe) (NN location) (VBG sharing) (NN model)))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ creates) (NP (NP (DT a) (JJ special) (NN form)) (PP (IN of) (NP (JJ distributed) (NN database))) (SBAR (WHNP (WDT that)) (S (VP (VBZ splits) (NP (NP (NN location) (NN info)) (CC and) (NP (NN identity) (NN information)))))))) (. .))
-(S (PP (IN In) (NP (DT this) (VBN distributed) (NN data) (NN store))) (NP (NN identity) (NN info)) (VP (VBZ is) (ADVP (RB always)) (VP (VBN saved) (ADVP (RB locally)))) (. .))
-(S (NP (PRP It)) (VP (VBZ eliminates) (NP (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS concerns)) (PP (IN with) (NP (JJ location-based) (NNS systems)))))) (: -) (NP (NN privacy)))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NP (DT a) (NN model)) (NP (PRP itself))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (PRP$ its) (NN implementation)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NNP HTML5) (JJ mobile) (NN web) (NN application)))))))) (. .))

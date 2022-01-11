@@ -1,4 +1,0 @@
-(S (NP (JJ Hedonic) (NNS games)) (VP (VBP are) (VP (VBN meant) (S (VP (TO to) (VP (VB model) (SBAR (WHADVP (WRB how)) (S (NP (NP (NNS coalitions)) (PP (IN of) (NP (NNS people)))) (VP (VP (VBP form)) (CC and) (VP (VBP break) (PRT (RP apart)) (PP (IN in) (NP (DT the) (JJ real) (NN world)))))))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB run) (NP (NNS simulations)) (SBAR (WHADVP (WRB when)) (S (NP (NN everything)) (VP (MD must) (VP (VB be) (VP (VBN done) (PP (IN by) (NP (NN hand))) (PP (IN on) (NP (NN paper))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (NP (DT an) (JJ online) (NN software)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (ADVP (RB fast)))))) (CC and) (NP (NP (JJ visual) (NN simulation)) (PP (IN of) (NP (NP (JJ several) (NNS types)) (PP (IN of) (NP (JJ hedonic) (NNS games)))))))) (. .))
-(NP (DT this) (NN http) (NN URL))

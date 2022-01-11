@@ -1,4 +1,0 @@
-(S (NP (NP (CD One) (JJ possible) (NN escape)) (PP (IN from) (NP (DT the) (NNP Gibbard-Satterthwaite) (NN theorem)))) (VP (VBZ is) (NP (JJ computational) (NN complexity))) (. .))
-(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (PRP it))) (VP (VBZ is) (ADJP (JJ NP-hard)) (S (VP (TO to) (VP (VB compute) (SBAR (IN if) (S (NP (DT the) (NNP STV) (NN rule)) (VP (MD can) (VP (VB be) (VP (VBN manipulated)))))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (VBG increasing) (NN concern) (SBAR (IN that) (S (NP (JJ such) (NNS results)) (VP (MD may) (RB not) (VP (VB re) (VB ect) (NP (NP (DT the) (NN difficulty)) (PP (IN of) (NP (NN manipulation))) (PP (IN in) (NP (NN practice)))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (JJ tutorial))) (, ,) (NP (PRP I)) (VP (NN survey) (NP (NP (JJ recent) (NNS results)) (PP (IN in) (NP (DT this) (NN area))))) (. .))

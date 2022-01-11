@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (PRP$ our) (NN development)) (PP (IN of) (NP (NP (NN CSS10)) (, ,) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (NML (JJ single) (NN speaker)) (NN speech) (NNS datasets))))))) (PP (IN for) (NP (CD ten) (NNS languages)))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (JJ short) (JJ audio) (NNS clips))) (PP (IN from) (NP (NP (NNP LibriVox) (NNS audiobooks)) (CC and) (NP (PRP$ their) (VBN aligned) (NNS texts)))))) (. .))
-(S (S (VP (TO To) (VP (VB validate) (NP (PRP$ its) (NN quality))))) (NP (PRP we)) (VP (VBP train) (NP (CD two) (NML (NML (JJ neural) (NN text)) (HYPH -) (PP (IN to) (HYPH -) (NP (NN speech)))) (NNS models)) (PP (IN on) (NP (DT each) (NN dataset)))) (. .))
-(S (ADVP (RB Subsequently)) (, ,) (NP (PRP we)) (VP (VBP conduct) (S (NP (NNP Mean) (NNP Opinion)) (NP (NP (NN Score) (NNS tests)) (PP (IN on) (NP (DT the) (ADJP (VBN synthesized)) (NN speech) (NNS samples)))))) (. .))
-(S (NP (PRP We)) (VP (VBP make) (NP (NP (PRP$ our) (NNS datasets)) (, ,) (NP (JJ pre-trained) (NNS models)) (, ,) (CC and) (NP (NP (NN test) (NNS resources)) (ADJP (RB publicly) (JJ available))))) (. .))
-(S (NP (PRP We)) (VP (VBP hope) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (JJ future) (NN speech) (NNS tasks))))))))) (. .))

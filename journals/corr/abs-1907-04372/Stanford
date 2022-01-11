@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP develop) (NP (DT a) (JJ geometric) (NN approach)) (PP (IN to) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NN rank) (JJ metric) (NNS codes)))))) (. .))
-(S (S (VP (VBG Using) (NP (DT this) (NN method)))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (DT a) (JJR simpler) (NN definition)) (PP (IN for) (NP (NP (VBN generalized) (NN rank) (NN weight)) (PP (IN of) (NP (JJ linear) (NNS codes)))))) (. .))
-(S (S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ complete) (NN classification)) (PP (IN of) (NP (JJ constant) (NML (NN rank) (NN weight)) (NN code)))))) (CC and) (S (NP (PRP we)) (VP (VBP give) (NP (PRP$ their) (VBN generalized) (NN rank) (NNS weights)))) (. .))

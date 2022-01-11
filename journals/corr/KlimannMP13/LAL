@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN growth) (, ,) (NN order) (, ,) (CC and) (NN finiteness) (NNS problems)) (PP (IN for) (NP (NN automaton) (PRN (-LRB- -LRB-) (NN semi) (-RRB- -RRB-)) (NNS groups))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP propose) (NP (JJ new) (NNS implementations))) (CC and) (VP (VB compare) (NP (PRP them)) (PP (IN with) (NP (DT the) (VBG existing) (NNS ones))))) (. .))
-(S (PP (IN As) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (JJ extensive) (NNS experimentations))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT some) (NNS conjectures)) (PP (IN on) (NP (NP (DT the) (NN order)) (PP (IN of) (NP (JJ finite) (NN automaton) (PRN (-LRB- -LRB-) (NN semi) (-RRB- -RRB-)) (NNS groups))))))) (. .))

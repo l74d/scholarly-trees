@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBP fit) (PP (IN into) (NP (NP (DT the) (JJ same) (NN framework)) (VP (VBN related) (PP (TO to) (NP (NP (NNS cuts)) (PP (IN in) (NP (NNS matchings)))))))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (NN state) (NP (NP (DT a) (JJ new) (NN conjecture)) (PP (IN on) (NP (JJ bipartite) (JJ cubic) (VBN oriented) (NN graphs))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (ADVP (RB naturally)) (VBZ arises) (PP (IN in) (NP (DT this) (NN setting)))))))) (. .))

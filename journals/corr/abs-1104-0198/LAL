@@ -1,1 +1,0 @@
-(S (NP (NNP Parallel) (NNP Monte) (NNP Carlo) (NNS simulations)) (ADVP (RB often)) (VP (VBP expose) (NP (NP (NNS faults)) (PP (IN in) (NP (JJ random) (NN number) (NNS generators))))))

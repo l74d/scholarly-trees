@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ proposes) (NP (NP (DT an) (NNP PQR) (NN search) (NN method)) (PP (IN for) (NP (JJ probabilistic) (NNS objects))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (NP (DT this) (NN strategy)) (NP (PRP itself))) (VP (VBZ is) (ADJP (ADJP (RB pretty) (JJ simple)) (CC and) (ADJP (JJ easy) (SBAR (S (VP (TO to) (VP (VB implement)))))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (S (VP (VBN motivated) (PP (IN by) (NP (DT the) (NN cost) (NN analysis))))) (, ,) (NP (PRP we)) (VP (ADVP (VBP further)) (VB optimize) (NP (PRP$ our) (NN solution))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness) (CC and) (NN efficiency)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NNS approaches)))) (PP (IN through) (NP (NP (JJ extensive) (NNS experiments)) (PP (IN under) (NP (JJ various) (JJ experimental) (NNS settings)))))) (. .))

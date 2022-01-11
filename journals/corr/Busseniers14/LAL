@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP try) (S (VP (TO to) (VP (VB define) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (JJ hierarchical) (NN organization)) (CC and) (NP (NN self-organization))))))))) (. .))
-(S (NP (NN Organization)) (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (DT a) (NN structure)) (PP (IN with) (NP (DT a) (NN function))))))) (. .))
-(S (IN So) (NP (PRP we)) (VP (MD can) (VP (VB define) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (JJ hierarchical) (NN organization)) (CC and) (NP (NN self-organization))))) (PP (DT both) (IN on) (NP (DT the) (NN structure)) (PP (IN as) (PP (IN on) (NP (DT the) (NN function))))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ next) (CD two) (NNS chapters))) (NP (DT these) (CD two) (NNS definitions)) (VP (VBP are) (VP (VBN given))) (. .))
-(S (S (PP (IN For) (NP (DT the) (NN structure))) (NP (PRP we)) (VP (MD will) (VP (VB use) (NP (NP (DT some) (VBG existing) (NNS definitions)) (PP (IN in) (NP (NN graph) (NN theory))))))) (, ,) (S (PP (IN for) (NP (DT the) (NN function))) (NP (PRP we)) (VP (MD will) (VP (VB use) (NP (NP (VBG existing) (NN theory)) (PP (IN on) (NP (-LRB- -LRB-) (JJ self-) (-RRB- -RRB-) (NN organization))))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ third) (NN chapter))) (NP (PRP we)) (VP (MD will) (VP (VB look) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (CD two) (NNS definitions)) (VP (VBP agree)))))) (. .))
-(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP give) (NP (DT a) (NN conclusion))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ simple) (NNS implementations)) (PP (IN of) (NP (NP (NNP Kak) (POS 's)) (NML (CD three) (HYPH -) (NN stage)) (NN quantum) (NN cryptography) (NN protocol))))) (. .))
-(S (NP (NP (DT The) (NN case)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN transformation)) (VP (VBZ is) (VP (VBN applied) (PP (IN to) (NP (QP (JJR more) (IN than) (CD one)) (NN qubit))) (PP (IN at) (NP (DT the) (JJ same) (NN time)))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN considered))) (. .))

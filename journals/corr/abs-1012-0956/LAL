@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (JJ tight) (NN bound)) (PP (IN on) (NP (NP (DT the) (JJ worst-case) (NN number)) (PP (IN of) (NP (NNS comparisons))) (PP (IN for) (NP (NP (NNP Floyd) (POS 's)) (ADJP (RB well) (VBN known)) (JJ heap) (NN construction) (NN algorithm)))))) (, ,) (VP (VBZ is) (VP (VBN derived))) (. .))

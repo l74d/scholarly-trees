@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (NNP BPDL)) (, ,) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (JJ propositional) (JJ dynamic) (JJ logic) (NNP PDL))) (PP (IN with) (NP (NP (DT the) (JJ basic) (JJ four-valued) (NN modal) (NN logic) (NNP BK)) (VP (VP (VBN studied) (PP (IN by) (NP (NNP Odintsov) (CC and) (NNP Wansing)))) (PRN (-LRB- -LRB-) (`` `) (NP (NP (NNS Modal) (NNS logics)) (PP (IN with) (NP (JJ Belnapian) (NN truth) (NNS values)))) (POS ›) (, ,) (NP (NNP J.) (NNP Appl))))))) (. .))))
-(NP (NN Non-Class) (. .))
-(NP (NNP Log) (. .))
-(NP (CD 20) (, ,) (CD 279) (: —) (CD 301) (PRN (-LRB- -LRB-) (NP (CD 2010)) (-RRB- -RRB-) (-RRB- -RRB-)) (. .))
-(S (NP (PRP We)) (VP (VP (VBP modify) (NP (NP (DT the) (NN standard) (NNS arguments)) (VP (VBN based) (PP (IN on) (NP (NP (JJ canonical) (NNS models)) (CC and) (NP (NN filtration)))))) (S (VP (TO to) (VP (VB suit) (NP (DT the) (JJ four-valued) (NN context)))))) (CC and) (VP (VB prove) (NP (NP (JJ weak) (NN completeness) (CC and) (NN decidability)) (PP (IN of) (NP (NNP BPDL)))))) (. .))

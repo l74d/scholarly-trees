@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (NN control) (NN algorithm)) (PP (IN for) (NP (NP (NN batch) (NN processing)) (PP (IN of) (NP (JJ mixed) (NN waste)))))) (VP (VBZ is) (VP (VBN proposed) (PP (VBN based) (PP (IN on) (NP (JJ conditional) (JJ Gaussian) (NNP Bayesian) (NNS networks)))))) (. .))
-(S (NP (DT The) (NN network)) (VP (VBZ is) (VP (VBN compiled) (PP (IN during) (NP (NN batch) (VBG staging))) (PP (IN for) (NP (NP (JJ real-time) (NN response)) (PP (TO to) (NP (VB sensor) (NN input))))))) (. .))

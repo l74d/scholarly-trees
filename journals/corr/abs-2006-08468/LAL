@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NN relationship)) (PP (IN between) (NP (NP (JJ algorithmic) (JJ fractal) (NNS dimensions)) (CC and) (NP (NP (DT the) (JJ classical) (JJ local) (JJ fractal) (NNS dimensions)) (PP (IN of) (NP (NP (NN outer) (NNS measures)) (PP (IN in) (NP (NNP Euclidean) (NNS spaces)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (JJ global) (CC and) (JJ local) (NN optimality) (NNS conditions)) (PP (IN for) (NP (JJR lower) (JJ semicomputable) (NN outer) (NNS measures))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (ADJP (RB globally) (JJ optimal)) (NN outer) (NNS measures)) (VP (VBP exist))))) (. .))
-(S (NP (PRP$ Our) (JJ main) (NN theorem)) (VP (NNS states) (SBAR (IN that) (S (NP (NP (DT the) (JJ classical) (JJ local) (JJ fractal) (NNS dimensions)) (PP (IN of) (NP (DT any) (ADJP (RB locally) (JJ optimal)) (NN outer) (NN measure)))) (VP (VBZ coincide) (ADVP (RB exactly)) (PP (IN with) (NP (DT the) (JJ algorithmic) (JJ fractal) (NNS dimensions))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (NNS implications)) (PP (IN for) (NP (JJ point-to-set) (NNS principles))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (JJ certain) (NNS extremalities)) (PP (IN for) (NP (NP (NNP Gallager) (POS 's)) ($ $) (SQ (VP (NNP E_0) ($ $))) (NN function))) (VP (VBN evaluated) (PP (IN under) (NP (NP (DT the) (JJ uniform) (NN input) (NN distribution)) (PP (IN for) (NP (JJ binary) (NN input) (JJ discrete) (NN memoryless) (NNS channels)))))))) (. .))

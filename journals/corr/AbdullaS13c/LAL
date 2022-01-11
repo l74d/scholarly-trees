@@ -1,4 +1,0 @@
-(S (NP (DT The) (NN word) (POS 'researcher) ('' ›)) (VP (VBZ is) (ADJP (ADJP (VBN loaded)) (CC and) (RRC (ADVP (RB often)) (ADJP (JJ confusing))))) (. .))
-(S (NP (NP (PRP It))) (VP (VBZ takes) (NP (NNS years)) (S (VP (VP (TO to) (VP (VB become) (NP (CD one)))) (CC and) (VP (TO to) (VP (VB master) (NP (NP (DT all)) (PP (IN of) (NP (PRP$ its) (NNS aspects))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (SBAR (IN whether) (CC or) (RB not) (S (NP (NP (DT this) (NN process)) (PP (IN of) (S (VP (VBG 'becoming) ('' ›))))) (VP (MD can) (VP (VB be) (VP (VBN catalyzed) (PP (IN through) (NP (NN education))))))))) (. .))
-(S (NP (DT The) (NN focus)) (VP (MD will) (VP (VB be) (PP (IN on) (NP (JJ wireless) (NNS communications))) (, ,) (SBAR (IN though) (S (NP (DT the) (JJ same) (NN principle)) (VP (MD could) (ADVP (RB very) (RB well)) (VP (VB be) (VP (VBN replicated) (PP (TO to) (NP (JJ other) (NNS disciplines)))))))))) (. .))

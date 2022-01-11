@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT a) (JJ canonical) (NN form)) (PP (IN for) (NP (ADJP (ADVP (RB piecewise)) (VBN defined)) (NNS functions))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ has) (NP (NP (NP (DT a) (JJR wider) (NN range)) (PP (IN of) (NP (NN application)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJR better) (NN complexity) (NNS properties)) (PP (IN than) (NP (JJ previous) (NN work))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP I)) (VP (VBP describe) (NP (NP (DT a) (ADJP (RB newly) (VBN developed)) (JJ online) (JJ scientific) (NN web-log)) (PRN (-LRB- -LRB-) (NP (NNP SciBlog)) (-RRB- -RRB-)))) (. .))
-(S (NP (DT The) (JJ online) (NN facility)) (VP (VBZ consists) (PP (IN of) (NP (NP (JJ several) (NNS moduls)) (VP (VBN needed) (PP (IN in) (NP (DT a) (ADJP (JJ common) (CC and) (JJ conventional)) (NN research) (NN activity))))))) (. .))
-(S (NP (PRP I)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ enables) (S (NP (NP (NNS scientists)) (PP (IN around) (NP (DT the) (NN world)))) (VP (TO to) (VP (VB perform) (NP (DT an) (JJ online) (NN collaboration)) (PP (IN over) (NP (DT the) (JJ net)))))))))) (. .))

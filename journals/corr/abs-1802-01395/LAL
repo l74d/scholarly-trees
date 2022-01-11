@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP demonstrate) (NP (JJ multi-layer) (JJ encrypted) (NN service) (VBG provisioning)) (PP (IN via) (NP (DT the) (NNP ACINO) (NN orchestrator)))) (. .))
-(S (NP (NNP ACINO)) (VP (VBZ combines) (NP (DT a) (JJ novel) (NN intent) (NN interface)) (PP (IN with) (NP (DT an) (JJ ONOS-based) (NNP SDN) (NN orchestrator))) (S (VP (TO to) (VP (VB facilitate) (NP (JJ encrypted) (NNS services)) (PP (IN at) (NP (NNP IP) (, ,) (NNP Ethernet) (CC and) (JJ optical) (NN network) (NNS layers))))))) (. .))

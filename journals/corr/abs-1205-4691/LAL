@@ -1,7 +1,0 @@
-(S (PP (IN Since) (NP (PRP$ its) (NN discovery))) (, ,) (NP (NP (JJ differential) (JJ linear) (NN logic)) (PRN (-LRB- -LRB-) (NP (NNP DLL)) (-RRB- -RRB-))) (VP (VBD inspired) (NP (JJ numerous) (NNS domains))) (. .))
-(S (PP (IN In) (NP (JJ denotational) (NNS semantics))) (, ,) (S (NP (NP (JJ categorical) (NNS models)) (PP (IN of) (NP (NNP DLL)))) (VP (VBP are) (ADVP (RB now)) (NP (JJ commune)))) (, ,) (CC and) (S (NP (DT the) (JJS simplest) (NN one)) (VP (VBZ is) (NP (NP (NNP Rel)) (, ,) (NP (NP (DT the) (NN category)) (PP (IN of) (NP (NNS sets) (CC and) (NNS relations))))))) (. .))
-(S (PP (IN In) (NP (NN proof) (NN theory))) (NP (DT this)) (VP (ADVP (RB naturally)) (VBD gave) (NP (NN birth)) (PP (TO to) (NP (NP (JJ differential) (NN proof) (NNS nets)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ full) (CC and) (JJ complete)) (PP (IN for) (NP (NNP DLL))))))))) (. .))
-(S (PP (IN In) (NP (NN turn))) (, ,) (NP (DT these) (NNS tools)) (VP (MD can) (ADVP (RB naturally)) (VP (VB be) (VP (VBN translated) (PP (TO to) (NP (PRP$ their) (JJ intuitionistic) (NN counterpart)))))) (. .))
-(PP (IN By) (S (VP (VBG taking) (NP (NP (DT the) (JJ co-Kleisly) (NN category)) (VP (VBN associated) (PP (TO to) (NP (DT the))))))) (. !))
-(S (NP (DT That)) (VP (VBD was) (NP (NP (DT a) (JJ strong) (NN conjecture)) (PP (IN of) (NP (NNP Bucciarelli) (, ,) (NNP Carraro) (, ,) (NNP Ehrhard) (CC and) (NNP Manzonetto))))) (. .))
-(S (ADVP (RB However)) (, ,) (PP (IN in) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP exhibit) (NP (DT a) (NN counter-example))) (. .))

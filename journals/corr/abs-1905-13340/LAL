@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ pruned) (NN variant)) (PP (IN of) (NP (JJ polar) (NN coding)))) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (NP (JJ binary) (NN erasure) (NNS channels))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP generalize) (NP (DT the) (NN result)) (PP (TO to) (: :) (S (VP (VP (VB Fix) (NP (DT a) (JJ prime) (ADJP ($ $) (JJ q)) ($ $))) (CC and) (VP (VB fix) (NP (DT a) (ADJP ($ $) (JJ q) ($ $)) (CD -ary-input) (JJ discrete) (JJ symmetric) (NN memoryless) (NN channel))))))) (. .))
-(S (NP (DT The) (JJ later) (NN construction)) (VP (VBZ gives) (NP (NP (DT the) (JJS fastest) (NN family)) (PP (IN of) (NP (JJ capacity-achieving) (NNS codes))) (PP (TO to) (NP (NN date))) (PP (IN on) (NP (DT those) (NNS channels))))) (. .))

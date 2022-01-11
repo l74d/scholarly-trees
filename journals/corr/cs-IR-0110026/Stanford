@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP describe) (NP (DT the) (NNS requirements)) (PP (IN for) (NP (NP (NML (NN research) (NN information)) (NNS systems) (CC and) (NNS problems)) (SBAR (WHNP (WDT which)) (S (VP (VBP arise) (PP (IN in) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (JJ such) (NN system))))))))))) (. .))
-(S (NP (RB Here)) (VP (VBZ is) (VP (VBN shown) (SBAR (WHNP (WDT which)) (S (NP (NNS problems)) (VP (MD could) (VP (VB be) (VP (VBN solved) (PP (IN by) (S (VP (VBG using) (PP (IN of) (NP (NN knowledge) (NN markup) (NNS technologies))))))))))))) (. .))
-(S (NP (NP (NNP Ontology)) (PP (IN for) (NP (NNP Research) (NNP Information) (NNP System)))) (VP (VBD offered)) (. .))
-(S (NP (NP (NNP Architecture)) (PP (IN for) (S (VP (VP (VBG collecting) (NP (NN research) (NNS data))) (CC and) (VP (VBG providing) (NP (NN access)) (PP (IN to) (NP (PRP it)))))))) (VP (VBZ is) (VP (VBN described))) (. .))

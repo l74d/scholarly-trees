@@ -1,3 +1,0 @@
-(S (NP (NP (JJ Testing) (JJ autonomous) (NNS vehicles)) (PP (IN in) (NP (NN simulation) (NNS environments)))) (VP (VBZ is) (ADJP (JJ crucial))) (. .))
-(S (NP (NNP Sim) (HYPH -) (NNP ATAV)) (VP (VBZ is) (NP (NP (DT an) (NML (JJ open) (HYPH -) (NN source)) (NN framework)) (VP (VBN developed) (PP (IN for) (S (VP (VBG experimenting) (PP (IN with) (NP (JJ different) (NN test) (NN generation) (NNS techniques))) (PP (IN in) (NP (NP (NN simulation) (NNS environments)) (PP (IN for) (NP (NN research) (NNS purposes))))))))))) (. .))
-(S (NP (DT This) (NN document)) (VP (VBZ provides) (NP (NP (DT a) (NN tutorial)) (PP (IN on) (NP (NP (NNP Sim) (HYPH -) (NNP ATAV)) (PP (IN with) (NP (DT a) (VBG running) (NN example))))))) (. .))

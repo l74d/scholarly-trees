@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT a) (JJ simple) (NN voting) (NN protocol)) (VP (VBN based) (PP (IN on) (NP (NN quantum) (NN blockchain)))))) (. .))
-(S (PP (IN Besides) (S (VP (VBG being) (ADJP (JJ simple))))) (, ,) (NP (PRP$ our) (NN voting) (NN protocol)) (VP (VBZ is) (ADJP (JJ anonymous) (, ,) (JJ binding) (, ,) (JJ non-reusable) (, ,) (JJ verifiable) (, ,) (JJ eligible) (, ,) (JJ fair) (CC and) (JJ self-tallying))) (. .))
-(S (NP (PRP$ Our) (NN protocol)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ realizable)) (PP (IN by) (NP (DT the) (JJ current) (NN technology)))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NP (CD Three) (JJ numerical) (NN coverage) (NNS metrics)) (PP (IN for) (NP (NP (DT the) (JJ symbolic) (NN simulation)) (PP (IN of) (NP (NP (ADJP (JJ dense) (HYPH -) (NN time)) (NNS systems)) (CC and) (NP (PRP$ their) (NN estimation) (NNS methods))))))) (VP (VBP are) (VP (VBN presented))) (. .))
-(S (NP (JJ Special) (NNS techniques) (S (VP (TO to) (VP (VB derive) (NP (NP (JJ numerical) (NNS estimations)) (PP (IN of) (NP (ADJP (JJ dense) (HYPH -) (NN time)) (NN state) (HYPH -) (NNS spaces)))))))) (VP (VBP have) (ADVP (RB also)) (VP (VBN been) (VP (VBN developed)))) (. .))
-(S (NP (NP (NNP Properties)) (PP (IN of) (NP (DT the) (NNS metrics)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed) (PP (IN with) (NP (NN respect))) (PP (IN to) (NP (CD four) (NNS criteria))))) (. .))
-(S (NP (NN Implementation) (CC and) (NNS experiments)) (VP (VBP are) (ADVP (RB then)) (VP (VBN reported))) (. .))

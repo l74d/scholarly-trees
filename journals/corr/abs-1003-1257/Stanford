@@ -1,3 +1,0 @@
-(S (NP (NP (DT An) (JJ exact) (NN expression)) (PP (IN for) (NP (NP (DT the) (NN symbol) (NN error) (NN probability)) (PP (IN of) (NP (DT the) (ADJP (CD four) (HYPH -) (JJ dimensional)) (NML (CD 24) (HYPH -) (NN cell)))))) (PP (IN in) (NP (JJ Gaussian) (NN noise)))) (VP (VBZ is) (VP (VBN derived))) (. .))
-(S (NP (NP (VBG Corresponding) (NNS expressions)) (PP (IN for) (NP (JJ other) (JJ regular) (NN convex) (NNS polytopes)))) (VP (VBP are) (VP (VBN summarized))) (. .))
-(S (NP (NP (ADJP (RB Numerically) (JJ stable)) (NNS versions)) (PP (IN of) (NP (DT these) (NN error) (NNS probabilities)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN obtained))) (. .))

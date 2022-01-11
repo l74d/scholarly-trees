@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (JJS most) (ADJP (JJ compressive) (S (VP (VBG sensing)))) (NNS problems))) (NP (NN l1) (NN norm)) (VP (VBZ is) (VP (VBN used) (PP (IN during) (NP (DT the) (NN signal) (NN reconstruction) (NN process))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN article))) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN entropy) (JJ functional)))) (VP (VBZ is) (VP (VBN proposed) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (NN l1) (NN norm))))))) (. .))
-(S (NP (NP (DT A) (VBN modified) (NN version)) (PP (IN of) (NP (DT the) (NN entropy) (JJ functional)))) (VP (VBZ is) (ADJP (ADJP (JJ continuous)) (, ,) (ADJP (JJ differentiable)) (CC and) (NP (NN convex)))) (. .))
-(S (ADVP (RB Therefore)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ possible) (S (VP (TO to) (VP (VB construct) (ADVP (RB globally)) (NP (NP (JJ convergent) (JJ iterative) (NNS algorithms)) (VP (VBG using) (NP (NP (NP (NNP Bregman) (POS 's)) (NN row) (NN action)) (NP (NML (NN D) (HYPH -) (NN projection)) (NN method))) (PP (IN for) (ADJP (JJ compressive))) (S (VP (VBG sensing) (NP (NNS applications))))))))))) (. .))
-(S (NP (NNP Simulation) (NNS examples)) (VP (VBP are) (VP (VBN presented))) (. .))

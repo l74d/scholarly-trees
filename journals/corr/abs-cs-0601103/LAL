@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (NNP Google) (NNP Web) (NNP APIs)) (PRN (-LRB- -LRB-) (NP (NNP Google) (NNP APIs)) (-RRB- -RRB-))) (PP (IN as) (NP (NP (DT an) (NN instrument) (CC and) (NN playground)) (PP (IN for) (NP (JJ webometric) (NNS studies)))))) (. .))
-(S (NP (NP (JJ Several) (NNS examples)) (PP (IN of) (NP (NNP Google) (NNP APIs) (NNS implementations)))) (VP (VBP are) (VP (VBN given))) (. .))
-(S (NP (PRP$ Our) (NNS examples)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NNP Google) (NNP Web) (NNP Service)) (VP (MD can) (VP (VB be) (VP (VBN used) (ADVP (RB successfully)) (PP (IN for) (NP (JJ informetric) (ADJP (NNP Internet) (VBN based)) (NNS studies))) (PP (ADVP (IN albeit)) (IN with) (NP (DT some) (NNS restrictions))))))))) (. .))

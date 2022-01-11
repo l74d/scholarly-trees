@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ new) (JJ concurrent) (NN model)) (PP (IN for) (NP (ADJP (JJ imperative)) (NNS languages))) (SBAR (WHADVP (WRB where)) (S (NP (NN concurrency)) (VP (VBZ occurs) (PP (IN at) (NP (DT a) (NN subprogram) (NN level))))))) (. .))
-(S (NP (PRP It)) (ADVP (RB therefore)) (VP (VBZ enhances) (NP (NN atomicity) (CC and) (NN predictability)) (PP (IN in) (NP (JJ concurrent) (NN programming)))) (. .))

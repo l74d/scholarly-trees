@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (JJ computational) (NN hardness)) (PP (IN of) (S (VP (VP (VBG computing) (NP (VBN expected) (NNS outcomes))) (CC and) (VP (VBG deciding) (NP (NP (JJ almost-sure) (NN termination)) (PP (IN of) (NP (JJ probabilistic) (NNS programs)))))))))) (. .))

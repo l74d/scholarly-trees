@@ -1,1 +1,0 @@
-(NP (NP (JJ Rule-based) (JJ run-time) (NN monitoring) (NN system)) (PP (IN for) (NP (JJ finite) (NNS traces))) (, ,) (PP (IN with) (NP (NP (NNP FLTL) (NN verdict)) (CC and) (NP (JJ quadratic) (NN complexity)))) (. .))

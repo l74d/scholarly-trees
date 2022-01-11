@@ -1,3 +1,0 @@
-(S (NP (JJ Scalar) (NN product)) (VP (VBZ plays) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (NN intersection) (NN size))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP sharpen) (NP (NP (PRP$ our) (JJR earlier) (NN result)) (PP (IN on) (NP (NP (DT the) (JJS largest) (NN size)) (PP (IN of) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ such) (NNS vectors))) (SBAR (WHNP (WDT that)) (S (VP (VBP avoids) (NP (DT the) (JJS smallest) (JJ possible) (JJ scalar) (NN product))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VB obtain) (NP (NP (DT an) (JJ exact) (NN result)) (PP (IN for) (NP (NP (DT the) (JJS largest) (NN size)) (PP (IN of) (NP (DT a) (NN family)))))) (PP (IN with) (NP (DT no) (JJ negative) (NN scalar) (NNS products)))) (. .))

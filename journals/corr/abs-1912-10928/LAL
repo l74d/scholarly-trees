@@ -1,3 +1,0 @@
-(S (NP (NP (DT An) (NN extension)) (PP (IN for) (NP (NNS deformations)))) (VP (VBZ is) (VP (VBN presented) (S (VP (VBG allowing) (S (VP (TO to) (VP (VB use) (NP (NP (DT the) (NN decomposition)) (PP (IN of) (NP (NNS plate-displacements))))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (, ,) (SBAR (IN that) (S (PP (IN for) (NP (NP (JJ homogeneous) (NN isotropic) (NNS beams)) (PP (IN in) (NP (DT the) (NN structure))))) (, ,) (NP (DT the) (VBG resulting) (NN plate)) (VP (VBZ is) (ADJP (RB orthotropic))))))) (. .))
-(S (PP (IN As) (NP (NP (NN application)) (PP (IN of) (NP (DT the) (JJ obtained) (NN limit) (NN plate))))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (VBG buckling) (NN behavior)) (PP (IN of) (NP (NN orthotropic) (NNS textiles))))) (. .))

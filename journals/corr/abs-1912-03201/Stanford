@@ -1,8 +1,0 @@
-(S (PP (IN In) (NP (JJ real) (NN world) (NNS scenarios))) (, ,) (NP (NNS objects)) (VP (VBP are) (ADVP (RB often) (RB partially)) (VP (VBN occluded))) (. .))
-(S (NP (DT This)) (VP (VBZ requires) (NP (NP (DT a) (NN robustness)) (PP (IN for) (NP (NN object) (NN recognition)))) (PP (IN against) (NP (DT these) (NNS perturbations)))) (. .))
-(S (NP (JJ Convolutional) (NNS networks)) (VP (VBP have) (VP (VBN shown) (NP (JJ good) (NNS performances)) (PP (IN in) (NP (NN classification) (NNS tasks))))) (. .))
-(S (NP (DT The) (NML (S (VP (VBN learned) (S (ADJP (JJ convolutional)))))) (NNS filters)) (VP (VBP seem) (NP (NP (ADJP (JJ similar) (PP (IN to) (ADJP (JJ receptive)))) (NNS fields)) (PP (IN of) (NP (NP (JJ simple) (NNS cells)) (VP (VBN found) (PP (IN in) (NP (DT the) (JJ primary) (JJ visual) (NN cortex)))))))) (. .))
-(S (ADVP (RB Alternatively)) (, ,) (NP (VBG spiking) (JJ neural) (NNS networks)) (VP (VBP are) (ADJP (ADJP (RBR more) (JJ biological)) (JJ plausible))) (. .))
-(S (NP (PRP We)) (VP (VBD developed) (NP (NP (DT a) (NML (CD two) (NN layer)) (NN spiking) (NN network)) (, ,) (VP (VBN trained) (PP (IN on) (NP (JJ natural) (NNS scenes))) (PP (IN with) (NP (DT a) (ADJP (RB biologically) (JJ plausible)) (NN learning) (NN rule)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (PP (VBN compared) (PP (IN to) (NP (NP (CD two) (JJ deep) (JJ convolutional) (JJ neural) (NNS networks)) (VP (VBG using) (NP (NP (DT a) (NN classification) (NN task)) (PP (IN of) (NP (NP (JJ stepwise) (NN pixel) (NN erasement)) (PP (IN on) (NP (NNP MNIST))))))))))) (. .))
-(S (PP (IN In) (NP (NP (NN comparison)) (PP (IN to) (NP (DT these) (NNS networks))))) (NP (DT the) (NN spiking) (NN approach)) (VP (VBZ achieves) (NP (JJ good) (NN accuracy) (CC and) (NN robustness))) (. .))

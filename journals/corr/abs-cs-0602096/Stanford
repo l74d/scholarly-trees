@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ reviews) (NP (JJ various) (NN engineering) (NNS hurdles)) (S (VP (VBG facing) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN quantum) (NN computing))))))) (. .))
-(S (ADVP (RB Specifically)) (, ,) (NP (NP (NNS problems)) (VP (VBN related) (PP (IN to) (NP (NP (NN decoherence)) (, ,) (NP (NN state) (NN preparation)) (, ,) (NP (NN error) (NN correction)) (, ,) (CC and) (NP (NP (NN implementability)) (PP (IN of) (NP (NNS gates)))))))) (VP (VBP are) (VP (VBN considered))) (. .))

@@ -1,7 +1,0 @@
-(S (NP (JJ Many) (VBN distributed) (NNS protocols) (CC and) (NNS applications)) (VP (VBP rely) (PP (IN on) (NP (NN causal) (NN broadcast))) (S (VP (TO to) (VP (VB ensure) (NP (NN consistency) (NNS criteria)))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (NP (NN none)) (PP (IN of) (NP (NN causality) (VBG tracking) (JJ state-of-the-art) (NNS approaches)))) (VP (NN scale) (PP (IN in) (NP (ADJP (JJ large) (CC and) (JJ dynamic)) (NNS systems)))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (JJ non-blocking) (NN causal) (NN broadcast) (NN protocol)) (VP (VBN suited) (PP (IN for) (NP (JJ dynamic) (NNS systems)))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN protocol)) (VP (VBZ outperforms) (NP (NN state-of-the-art)) (PP (IN in) (NP (NP (NP (NN size)) (PP (IN of) (NP (NNS messages)))) (, ,) (NP (NN execution) (NN time) (NN complexity)) (, ,) (CC and) (NP (JJ local) (NN space) (NN complexity))))) (. .))
-(S (ADVP (JJS Most) (RB importantly)) (, ,) (NP (NNS messages)) (VP (VBP piggyback) (VP (NN control) (NP (NP (NN information)) (SBAR (WHNP (WHNP (DT the) (NN size)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ is) (ADJP (JJ constant)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (IN that)) (PP (IN for) (NP (ADJP (DT both) (JJ static) (CC and) (JJ dynamic)) (NNS systems)))) (. .))
-(S (ADVP (RB Consequently)) (, ,) (NP (ADJP (JJ large) (CC and) (JJ dynamic)) (NNS systems)) (VP (MD can) (ADVP (RB finally)) (VP (VB afford) (NP (NN causal) (NN broadcast)))) (. .))

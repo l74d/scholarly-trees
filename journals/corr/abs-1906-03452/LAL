@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NN parallelism)) (PP (IN into) (NP (NP (DT the) (JJ basic) (NN algebra)) (PP (IN of) (NP (NNS games))))) (S (VP (TO to) (VP (VB model) (NP (JJ concurrent) (NN game)) (ADVP (RB algebraically)))))) (. .))
-(S (NP (NN Parallelism)) (VP (VBZ is) (VP (VBN treated) (PP (IN as) (NP (NP (DT a) (JJ new) (NN kind)) (PP (IN of) (NP (NN game) (NN operation))))))) (. .))
-(S (NP (NP (DT The) (JJ resulted) (NN algebra)) (PP (IN of) (NP (JJ concurrent) (NNS games)))) (VP (MD can) (VP (VB be) (VP (VBN used) (ADVP (RB widely)) (S (VP (TO to) (VP (NN reason) (NP (DT the) (JJ parallel) (NNS systems)))))))) (. .))

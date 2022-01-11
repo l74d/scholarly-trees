@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN conjecture)) (PP (IN on) (NP (DT some) (JJ exponential) (NNS sums))))) (. .))
-(S (NP (DT These) (JJ particular) (NNS sums)) (VP (VBP have) (RB not) (ADVP (RB apparently)) (VP (VBN been) (VP (VBN considered) (PP (IN in) (NP (DT the) (NN literature)))))) (. .))
-(S (S (ADJP (JJ Subject) (PP (TO to) (NP (DT the) (NN conjecture))))) (NP (PRP we)) (VP (VB obtain) (NP (NP (DT the) (JJ first) (JJ effective) (NN construction)) (PP (IN of) (NP (ADJP (RB asymptotically) (JJ good)) (NN tree) (NNS codes))))) (. .))
-(S (NP (DT The) (JJ available) (JJ numerical) (NN evidence)) (VP (VP (VBZ is) (ADJP (JJ consistent) (PP (IN with) (NP (DT the) (NN conjecture))))) (CC and) (VP (VBZ is) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB certify) (NP (NP (NNS codes)) (PP (IN for) (NP (JJ significant-length) (NNS communications)))))))))) (. .))

@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (NN order) (S (VP (TO to) (VP (VB improve) (NP (NN classification) (NN accuracy))))))) (NP (JJ different) (NN image) (NNS representations)) (VP (VBP are) (ADVP (RB usually)) (VP (VBN combined))) (. .))
-(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN done) (PP (IN by) (S (VP (VBG using) (NP (CD two) (JJ different) (NN fusing) (NNS schemes)))))))) (. .))
-(S (PP (IN In) (NP (NN feature) (NML (NN level) (NN fusion)) (NNS schemes))) (, ,) (NP (NN image) (NNS representations)) (VP (VBP are) (VP (VBN combined) (PP (IN before) (NP (DT the) (NN classification) (NN process))))) (. .))
-(S (PP (IN In) (NP (NN classifier) (NN fusion))) (, ,) (NP (NP (DT the) (NNS decisions)) (VP (VBN taken) (ADVP (RB separately)) (PP (VBN based) (PP (IN on) (NP (JJ individual) (NNS representations)))))) (VP (VBP are) (VP (VBN fused) (S (VP (TO to) (VP (VB make) (NP (DT a) (NN decision))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT the) (JJ main) (NNS methods)) (VP (VBN derived) (PP (IN for) (NP (DT both) (NNS strategies))))) (VP (VBP are) (VP (VBN evaluated))) (. .))
-(S (NP (PRP$ Our) (JJ experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NN classifier) (NN fusion)) (VP (VBZ performs) (ADJP (JJR better)))))) (. .))
-(S (ADVP (RB Specifically)) (NP (NNP Bayes) (NN belief) (NN integration)) (VP (VBZ is) (NP (NP (DT the) (ADJP (JJS best) (VBG performing)) (NN strategy)) (PP (IN for) (NP (NML (NN image) (NN classification)) (NN task))))) (. .))

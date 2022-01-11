@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (JJ real) (NN rank) (CD two) (NN locus)) (PP (IN of) (NP (DT an) (JJ algebraic) (NN variety)))) (VP (VBZ is) (NP (NP (DT the) (NN closure)) (PP (IN of) (NP (NP (DT the) (NN union)) (PP (IN of) (NP (NP (DT all) (JJ secant) (NNS lines)) (VP (VBN spanned) (PP (IN by) (NP (JJ real) (NNS points)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP seek) (NP (NP (DT a) (JJ semi-algebraic) (NN description)) (PP (IN of) (NP (DT this) (NN set))))) (. .))
-(S (NP (PRP$ Its) (JJ algebraic) (JJ boundary)) (VP (NNS consists) (PP (IN of) (NP (NP (DT the) (JJ tangential) (NN variety)) (CC and) (NP (DT the) (NN edge) (NN variety))))) (. .))
-(S (NP (NP (PRP$ Our) (NN study)) (PP (IN of) (NP (NNP Segre) (CC and) (NNP Veronese) (NNS varieties)))) (VP (VBZ yields) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (NP (NNS tensors)) (PP (IN of) (NP (JJ real) (NN rank) (CD two))))))) (. .))

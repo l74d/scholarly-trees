@@ -1,3 +1,0 @@
-(S (NP (NNP G.) (NNP Fici)) (VP (VBD proved) (SBAR (IN that) (S (NP (DT a) (JJ finite) (NN word)) (VP (VBZ has) (NP (DT a) (JJ minimal) (NN suffix) (NN automaton)) (SBAR (WHPP (IN if) (CC and) (RB only) (IN if)) (S (NP (DT all) (PRP$ its) (JJ left) (JJ special) (NNS factors)) (VP (VBP occur) (PP (IN as) (NP (NNS prefixes)))))))))) (. .))
-(S (NP (PRP He)) (VP (VBD called) (S (NP (NNP LSP)) (NP (NP (DT all) (ADJP (NN finite) (CC and) (NN infinite)) (NNS words)) (VP (VBG having) (NP (DT this) (JJ latter) (NN property)))))) (. .))
-(S (NP (PRP We)) (VP (VBP characterize) (ADVP (RB here)) (NP (JJ infinite) (NNP LSP) (NNS words)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP ($ $) (NNP S) ($ $) (NN -adicity)))))) (. .))

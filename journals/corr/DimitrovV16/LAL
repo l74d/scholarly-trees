@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP construct) (NP (DT a) (JJ three-point) (JJ compact) (JJ finite) (NN difference) (NN scheme)) (PP (IN on) (NP (DT a) (JJ non-uniform) (NN mesh))) (PP (IN for) (NP (DT the) (JJ time-fractional) (NNP Black-Scholes) (NN equation)))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN for) (NP (NP (NP (JJ special) (JJ graded) (NNS meshes)) (VP (VBN used) (PP (IN in) (NP (NN finance))))) (, ,) (NP (NP (DT the) (NNP Tavella-Randall)) (CC and) (NP (DT the) (JJ quadratic) (NNS meshes))))) (NP (DT the) (JJ numerical) (NN solution)) (VP (VBZ has) (NP (NP (DT a) (JJ fourth-order) (NN accuracy)) (PP (IN in) (NP (NN space)))))))) (. .))
-(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP are) (VP (VBN discussed))) (. .))

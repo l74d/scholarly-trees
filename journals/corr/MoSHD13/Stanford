@@ -1,6 +1,0 @@
-(S (NP (NP (NNP Dempster) (HYPH -) (NNP Shafer)) (NP (NP (NN theory)) (PP (IN of) (NP (NN evidence) (PRN (-LRB- -LRB-) (NP (NML (NN D) (HYPH -) (NN S)) (NN theory)) (-RRB- -RRB-)))))) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN used) (PP (IN in) (NP (JJ uncertain) (NN information) (NN process))))) (. .))
-(S (NP (NP (DT The) (JJ basic) (NN probability) (NN assignment)) (-LRB- -LRB-) (NP (NN BPA)) (-RRB- -RRB-)) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN element)) (PP (IN in) (NP (NML (NN D) (HYPH -) (NN S)) (NN theory))))) (. .))
-(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (CD two) (NNS BPAs)))))))) (VP (VBZ is) (NP (DT an) (JJ open) (NN issue))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT a) (JJ new) (NN method) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN distance)) (PP (IN of) (NP (CD two) (NNS BPAs)))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (DT The) (JJ proposed) (NN method)) (VP (VBZ is) (NP (NP (DT a) (VBN generalized)) (PP (IN of) (NP (VBG existing) (NN evidence) (NN distance))))) (. .))
-(S (NP (NNP Numerical) (NNS examples)) (VP (VBP are) (VP (VBN illustrated) (SBAR (IN that) (S (NP (DT the) (JJ proposed) (NN method)) (VP (MD can) (VP (VB overcome) (NP (NP (DT the) (NNS shortcomings)) (PP (IN of) (NP (VBG existing) (NNS methods)))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (NN type)) (PP (IN of) (NP (NP (NNS watermarks)) (PP (IN for) (NP (JJ handwritten) (JJ black-white) (NNS documents)))))) (VP (VBZ is) (VP (VBN suggested))) (. .))
-(S (NP (NP (NN Insertion)) (PP (IN of) (NP (DT the) (NN watermark))) (PP (IN in) (NP (DT a) (NN document)))) (VP (VBZ minimizes) (NP (NP (NN distortion)) (PP (IN of) (NP (DT the) (NN latter))))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN intended) (PP (IN for) (NP (NP (NN validation)) (PP (IN of) (NP (NP (NN handwritten) (NNS records)) (VP (VBN placed) (PP (IN in) (NP (NN blockchain) (NN database)))))))))) (. .))

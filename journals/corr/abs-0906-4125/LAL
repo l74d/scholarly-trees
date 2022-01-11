@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ reviews) (NP (NP (NN research) (NNS methods)) (VP (VBN used) (S (VP (TO to) (VP (VB understand) (NP (NP (DT the) (NN user) (NN experience)) (PP (IN of) (NP (JJ mobile) (NN technology)))))))))) (. .))
-(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (NP (DT an) (NN improvement)) (PP (IN of) (NP (DT the) (NNP Experience) (NNP Sampling) (NNP Method)))) (CC and) (NP (NP (NN case) (NNS studies)) (VP (VBG supporting) (NP (PRP$ its) (NN design)))))) (. .))
-(S (NP (DT The) (NN paper)) (VP (VBZ concludes) (PP (IN with) (NP (NP (DT an) (NN agenda)) (PP (IN of) (NP (NP (JJ future) (NN work)) (PP (IN for) (S (VP (VBG improving) (NP (NP (NN research)) (PP (IN in) (NP (DT this) (NN field)))))))))))) (. .))
-(NP (NP (NNS Keywords)) (: :) (NP (NP (NNP Research) (NNS methods)) (, ,) (NP (NN topology)) (, ,) (NP (NN case) (NN study)) (, ,) (NP (VBG contrasting) (NN graph)) (, ,) (NP (NNP Experience) (NNP Sampling) (NNP Method))))

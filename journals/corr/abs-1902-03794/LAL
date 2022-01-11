@@ -1,1 +1,0 @@
-(S (ADVP (RB However)) (, ,) (SBAR (IN while) (S (VP (VBG being) (ADJP (JJ optimal)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ asymptotic) (NN regret)))))))) (, ,) (NP (DT these) (NNS algorithms)) (VP (VBP are) (ADJP (JJ inefficient))) (. .))

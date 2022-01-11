@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (VP (VBG developing) (NP (NP (NP (DT a) (NN visualization) (NN application)) (PP (IN for) (NP (NML (NN CAVE) (HYPH -) (NN type)) (JJ virtual) (NN reality) (PRN (-LRB- -LRB-) (NP (NN VR)) (-RRB- -RRB-))))) (NNS systems)) (PP (IN for) (NP (QP (JJR more) (IN than) (DT a)) (NN decade)))))) (. .))
-(S (NP (NP (DT This) (NN application)) (, ,) (NP (NNP VFIVE)) (, ,)) (VP (VBZ is) (ADVP (RB currently)) (VP (VBN used) (PP (IN in) (NP (NP (JJ several) (NN CAVE) (NNS systems)) (PP (IN in) (NP (NNP Japan))))) (PP (IN for) (NP (JJ routine) (NNS visualizations))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NN base) (NN system)) (PP (IN of) (NP (NP (JJ further) (NNS developments)) (PP (IN of) (NP (JJ advanced) (NNS visualizations))))))))) (. .))
-(S (NP (NP (DT The) (NN development)) (PP (IN of) (NP (NNP VFIVE)))) (VP (VBZ is) (VP (VBN summarized))) (. .))

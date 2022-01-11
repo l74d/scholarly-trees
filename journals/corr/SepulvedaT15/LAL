@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (IN de) (NNP Weierstrass) (NN semigroup)) (PP (IN of) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (NP (JJ certain) (JJ rational) (NNS points)) (PP (IN on) (NP (DT the) (NNS GK-curves))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN semigroup)) (S (VP (TO to) (VP (VB obtain) (NP (NP (JJ two-point) (NNP AG) (NNS codes)) (PP (IN with) (NP (NP (JJR better) (NNS parameters)) (PP (IN than) (NP (NP (JJ comparable) (JJ one-point) (NNP AG) (NNS codes)) (VP (VBG arising) (PP (IN from) (NP (DT these) (NNS curves))))))))))))) (. .))
-(S (NP (DT These) (NNS parameters)) (VP (VBP are) (NP (NP (JJ new) (NNS records)) (PP (IN in) (NP (NP (DT the) (NNP MinT) (POS 's)) (NNS tables))))) (. .))

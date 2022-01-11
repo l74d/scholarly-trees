@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN preparation)) (PP (IN of) (NP (JJ entangled) (NN pure) (JJ Gaussian) (NNS states)))) (PP (IN via) (NP (NN reservoir) (NN engineering)))) (. .))
-(S (NP (DT This) (NN parametrization)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB determine) (NP (NP (DT the) (JJ steady-state) (NN entanglement) (NNS properties)) (PP (IN of) (NP (JJ such) (JJ quantum) (JJ harmonic) (NN oscillator) (NNS chains)))))))) (. .))

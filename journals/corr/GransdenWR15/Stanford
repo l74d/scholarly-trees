@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NN SEPIA)) (, ,) (NP (NP (DT a) (NN tool)) (PP (IN for) (NP (NP (VBN automated) (ADJP (JJ proof)) (NN generation)) (PP (IN in) (NP (NNP Coq)))))))) (. .))
-(S (NP (NNP SEPIA)) (VP (VBZ combines) (NP (NN model) (NN inference)) (PP (IN with) (NP (NP (JJ interactive) (NN theorem)) (VP (VBG proving))))) (. .))
-(S (NP (VBG Existing) (NN proof) (NNS corpora)) (VP (VBP are) (VP (VBN modelled) (S (VP (VBG using) (NP (NP (ADJP (NN state) (HYPH -) (VBN based)) (NNS models)) (VP (VBN inferred) (PP (IN from) (NP (NN tactic) (NNS sequences))))))))) (. .))
-(S (NP (DT These)) (VP (MD can) (ADVP (RB then)) (VP (VB be) (VP (VBN traversed) (ADVP (RB automatically)) (S (VP (TO to) (VP (VB identify) (NP (NNS proofs)))))))) (. .))
-(S (S (NP (DT The) (NN SEPIA) (NN system)) (VP (VBZ is) (VP (VBN described)))) (CC and) (S (NP (PRP$ its) (NN performance)) (VP (VBN evaluated) (PP (IN on) (NP (CD three) (NNP Coq) (NNS datasets))))) (. .))
-(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP SEPIA)) (VP (VBZ provides) (NP (DT a) (JJ useful) (NN complement)) (PP (IN to) (NP (VBG existing) (VBN automated) (NNS tactics))) (PP (IN in) (NP (NNP Coq))))))) (. .))

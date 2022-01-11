@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NNS problems)) (PP (IN with) (NP (NP (DT the) (JJ current) (NN way)) (SBAR (S (NP (PRP we)) (VP (VBP compare) (NP (NP (DT the) (NN diversity)) (PP (IN of) (NP (JJ different) (NN recommendation) (NNS lists)))) (PP (IN in) (ADVP (RB offline)) (NP (NNS experiments))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT the) (NNS problems)) (PP (IN with) (NP (DT a) (NN case) (NN study)))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT the) (JJ Sudden) (NN Death) (NN score)) (PP (IN as) (NP (NP (DT a) (ADJP (ADJP (JJ new)) (CC and) (ADJP (JJR better))) (NN way)) (PP (IN of) (S (VP (VBG making) (NP (DT these) (NNS comparisons)))))))) (. .))

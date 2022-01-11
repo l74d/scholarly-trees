@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP construct) (NP (NP (VBN concatenated) (JJ capacity-achieving) (NN quantum) (NNS codes)) (PP (IN for) (NP (JJ noisy) (JJ optical) (NN quantum) (NNS channels))))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (DT the) (NN error-probability)) (PP (IN of) (NP (JJ capacity-achieving) (NN quantum) (JJ polar) (NN encoding)))) (VP (MD can) (VP (VB be) (VP (VBN reduced) (PP (IN by) (NP (DT the) (VBN proposed) (NN low-complexity) (NN concatenation) (NN scheme))))))))) (. .))

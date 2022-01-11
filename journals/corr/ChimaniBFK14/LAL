@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT a) (JJ polynomial-time) (NN algorithm)) (PP (IN for) (S (VP (VBG testing) (NP (NP (NN c-planarity)) (PP (IN of) (NP (NP (JJ embedded) (JJ flat) (VBN clustered) (NN graphs)) (PP (IN with) (NP (NP (QP (IN at) (JJS most) (CD two)) (NNS vertices)) (PP (IN per) (NP (NN cluster))) (PP (IN on) (NP (DT each) (NN face))))))))))))) (. .))

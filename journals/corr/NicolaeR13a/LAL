@@ -1,8 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (NP (JJ several) (NNS variants)) (PP (IN of) (NP (DT the) (NN pattern) (VBG matching) (NN problem))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (JJ following) (NNS problems)) (: :) (NP (NP (CD 1) (-RRB- -RRB-) (NP (NP (NNP Pattern) (VBG matching)) (PP (IN with) (NP (JJ k) (NNS mismatches))))) (: ;) (NP (CD 2) (-RRB- -RRB-) (NP (NP (NNP Approximate) (NN counting)) (PP (IN of) (NP (NNS mismatches))))) (: ;) (CC and) (VP (CD 3) (-RRB- -RRB-) (NP (NP (NNP Pattern) (VBG matching)) (PP (IN with) (NP (NNS mismatches)))))))) (. .))
-(S (NP (NP (DT The) (NN distance) (JJ metric)) (VP (VBN used))) (VP (VBZ is) (NP (DT the) (NNP Hamming) (NN distance))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT some) (JJ novel) (NNS algorithms) (CC and) (NNS techniques)) (PP (IN for) (S (VP (VBG solving) (NP (DT these) (NNS problems))))))) (. .))
-(S (NP (ADJP (DT Both) (JJ deterministic) (CC and) (JJ randomized)) (NNS algorithms)) (VP (VBP are) (VP (VBN offered))) (. .))
-(S (NP (NP (NNS Variants)) (PP (IN of) (NP (DT these) (NNS problems))) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (MD could) (VP (VB be) (NP (JJ wild) (NNS cards)) (PP (IN in) (NP (CC either) (NP (NP (DT the) (NN text)) (CC or) (NP (DT the) (NN pattern))) (CC or) (NP (DT both))))))))) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (NP (NP (DT An) (JJ experimental) (NN evaluation)) (PP (IN of) (NP (DT these) (NN algorithms)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN presented))) (. .))
-(S (NP (DT The) (NN source) (NN code)) (VP (VBZ is) (ADJP (JJ available)) (PP (IN at) (NP (DT this) (NN http) (NNP URL)))))

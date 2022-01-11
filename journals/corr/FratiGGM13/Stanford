@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG augmenting) (NP (DT a) (JJ weighted) (NN graph)) (PP (IN by) (S (VP (VBG inserting) (NP (NP (NNS edges)) (PP (IN of) (NP (VBN bounded) (JJ total) (NN cost))))))))))) (PP (IN while) (S (VP (VBG minimizing) (NP (NP (DT the) (NN diameter)) (PP (IN of) (NP (DT the) (VBN augmented) (NN graph)))))))) (. .))
-(S (NP (PRP$ Our) (JJ main) (NN result)) (VP (VBZ is) (NP (NP (DT an) (NN FPT) (NML (CD 4) (HYPH -) (NN approximation)) (NN algorithm)) (PP (IN for) (NP (DT the) (NN problem))))) (. .))

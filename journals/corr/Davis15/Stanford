@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN norm)) (VP (VP (VBZ has) (NP (JJ desirable) (JJ statistical) (NNS properties))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB perform) (NP (JJ simultaneous) (NN clustering) (CC and) (NN regression))))))))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP illustrate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))) (PP (IN on) (NP (DT a) (NML (JJ synthetic) (NN regression)) (NN test)))) (. .))

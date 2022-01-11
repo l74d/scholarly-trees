@@ -1,4 +1,0 @@
-(S (NP (NP (JJ Information-theoretic) (JJ fundamental) (NN limitation)) (PP (IN in) (NP (NN feedback) (NN control) (NN system)))) (VP (VBZ is) (NP (DT an) (JJ important) (NN topic)) (PP (IN for) (NP (NNS decades)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (JJ bode-like) (JJ fundamental) (NN inequality)) (PP (IN in) (NP (JJ causal) (NN feedback) (NN control) (NN system)))) (VP (VBZ is) (VP (VBN developed))) (. .))
-(S (NP (DT This) (NN inequality)) (VP (VBZ relates) (NP (NP (VBN directed) (NN information)) (, ,) (NP (JJ mutual) (NN information)) (CC and) (NP (NN bode) (NN sensitivity) (NNS functions)))) (. .))
-(S (NP (DT This) (NN inequality)) (VP (VBZ recovers) (NP (NP (JJ previous) (VBN known) (NNS results)) (PP (IN in) (NP (NN feedback) (NN system)))) (PP (IN as) (NP (JJ special) (NNS cases)))) (. .))

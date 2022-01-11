@@ -1,2 +1,0 @@
-(S (PP (IN Under) (NP (DT some) (NNS assumptions))) (, ,) (NP (DT these) (NNS sequences)) (VP (VBP are) (NP (JJ low) (NN discrepancy) (NNS sequences))) (. .))
-(S (S (NP (DT The) (NN discrepancy) (NN function)) (VP (VBZ is) (VP (VBN computed) (ADVP (RB explicitely))))) (, ,) (CC and) (S (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (NP (VBN bounded) (NN remainder) (NNS sets)) (PP (IN of) (NP (NP (NP (DT the) (NN form)) (NP ($ $)) (PRN (-LRB- [) (NP (CD 0)) (, ,) (NP (NN y)) (-RRB- -RRB-))) (NP ($ $))))))) (VP (VBZ is) (VP (VBN provided)))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (NP (NP (NP (NN conflict) (NN complexity)) (PP (IN of) (NP (DT every) (JJ total) (JJ Boolean) (NN function)))) (, ,) (VP (ADVP (RB recently)) (VBN introduced) (PP (IN in) (-LRB- [) (NP (NNP Swagato) (NNP Sanyal)))))) (. .))
-(NP (NP (DT A) (NN composition) (NN theorem)) (PP (IN via) (NP (NN conict) (NN complexity))) (. .))
-(FRAG (NP (NN arXiv)) (NP (NN preprint)) (NP (NN arXiv)) (: :) (NP (CD 1801.03285)) (, ,) (NP (CD 2018)) (. .) (-RRB- ]))
-(S (S (VP (TO to) (VP (VB prove) (NP (NP (DT a) (NN composition) (NN theorem)) (PP (IN of) (NP (VBN randomized) (NN decision) (NN tree) (NN complexity))))))) (, ,) (VP (VBZ is) (NP (NP (QP (ADVP (IN at) (JJS least)) (DT a) (NN half))) (PP (IN of) (NP (PRP$ its) (NN block) (NN sensitivity))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VP (VB compare) (NP (NN conflict) (NN complexity)) (PP (IN with) (NP (NN certificate) (NN complexity)))) (, ,) (CC and) (VP (VB explain) (SBAR (WHADVP (WRB why)) (S (NP (PRP it)) (VP (MD could) (VP (VB be) (ADJP (JJ interesting))))))))))) (. .))

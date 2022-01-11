@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP confirm) (NP (NP (NP (NNP Jones) (POS ')) (NN Conjecture)) (PP (IN for) (NP (JJ subcubic) (NNS graphs))))) (. .))
-(S (ADVP (RB Namely)) (, ,) (SBAR (IN if) (S (NP (DT a) (JJ subcubic) (JJ planar) (NN graph)) (VP (VBZ does) (RB not) (VP (VB contain) (NP (QP ($ $) (CD k) (CD +1)) (NML (QP ($ $) (CD vertex)) (HYPH -) (NN disjoint)) (NNS cycles)))))) (, ,) (ADVP (RB then)) (NP (PRP it)) (VP (VBZ suffices) (PP (IN to) (NP (NP (JJ delete) (NN $) (NN 2k)) (NP ($ $) (CD vertices)))) (S (VP (TO to) (VP (VB obtain) (NP (DT a) (NN forest)))))) (. .))

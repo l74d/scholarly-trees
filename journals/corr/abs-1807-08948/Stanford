@@ -1,5 +1,0 @@
-(S (NP (DT This) (JJ short) (NN paper)) (VP (VBZ reports) (NP (NP (NP (DT the) (NNS algorithms)) (SBAR (S (NP (PRP we)) (VP (VBD used))))) (CC and) (NP (NP (DT the) (NN evaluation) (NNS performances)) (PP (IN for) (NP (NNP ISIC) (NNP Challenge) (CD 2018)))))) (. .))
-(S (NP (PRP$ Our) (NN team)) (VP (VBZ participates) (PP (IN in) (NP (NP (PDT all) (DT the) (NNS tasks)) (PP (IN in) (NP (DT this) (NN challenge)))))) (. .))
-(S (PP (IN In) (NP (NN lesion) (NN segmentation) (NN task))) (, ,) (NP (NP (DT the) (NN pyramid) (NN scene)) (VP (VBG parsing) (NP (NN network)) (PRN (-LRB- -LRB-) (NP (NNP PSPNet)) (-RRB- -RRB-)))) (VP (VBZ is) (VP (VBN modified) (PP (IN to) (NP (NP (NN segment)) (NP (DT the) (NNS lesions)))))) (. .))
-(S (PP (IN In) (NP (NN lesion) (NN attribute) (NN detection) (NN task))) (, ,) (NP (DT the) (VBN modified) (NNP PSPNet)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN adopted) (PP (IN in) (NP (DT a) (JJ multi-label) (NN way))))) (. .))
-(S (PP (IN In) (NP (NML (NN disease) (NN classification)) (NN task))) (, ,) (NP (DT the) (NN DenseNet) (HYPH -) (CD 169)) (VP (VBZ is) (VP (VBN adopted) (PP (IN for) (NP (NN multi-class) (NN classification))))) (. .))

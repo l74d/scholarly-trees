@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (NN order) (S (VP (TO to) (VP (VB do) (NP (PRP it))))))) (, ,) (NP (PRP we)) (VP (VBP extend) (NP (NP (DT the) (NN notion)) (PP (IN of) (S (VP (VBG Hamming) (NP (JJ metric)) (PP (IN to) (NP (JJ infinite) (NNS spaces)))))))) (. .))
-(S (NP (PRP$ Our) (JJ main) (NN result)) (VP (VBZ establishes) (SBAR (IN that) (S (PP (IN under) (NP (DT some) (JJ mild) (NNS conditions))) (, ,) (NP (DT every) (VBG Hamming) (NN isometry)) (VP (MD can) (VP (VB be) (VP (VBN represented) (PP (IN as) (NP (DT a) (JJ weighted) (NN composition) (NN operator))))))))) (. .))
-(S (NP (NP (NNS Connections)) (PP (IN to) (NP (VBG coding) (NN theory)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN highlighted))) (. .))

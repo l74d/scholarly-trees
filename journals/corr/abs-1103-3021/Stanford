@@ -1,1 +1,0 @@
-(NP (NP (DT A) (NN study)) (PP (IN of) (NP (NP (DT the) (VBG existing) (NNS libraries)) (SBAR (S (VP (TO to) (VP (VB read) (PP (IN from) (NP (NP (NN configuration) (NNS files)) (-LRB- -LRB-) (PP (IN from) (NP (NNP C++))) (-RRB- -RRB-))))))))))

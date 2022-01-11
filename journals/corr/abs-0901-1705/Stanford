@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (JJ inner) (ADJP (JJ bound) (PP (IN for) (NP (DT the) (NN rate)))) (NN region)) (PP (IN of) (NP (DT the) (ADJP (NP (QP ($ $) (CD t))) (ADJP (NML (NML ($ $)) (HYPH -) (NN stage)) (NP (JJ successive) (HYPH -) (NN refinement)))) (NN problem)))) (PP (IN with) (NP (NN side) (HYPH -) (NN information)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP present) (NP (DT a) (JJ new) (JJ upper) (ADJP (VBN bound) (PP (IN for) (NP (NP (DT the) (NML (NN rate) (HYPH -) (NN distortion)) (NN function)) (PP (IN for) (NP (NN lossy) (HYPH -) (NN source)))))) (NN coding)) (PP (IN with) (NP (NP (JJ multiple) (NNS decoders)) (CC and) (NP (NN side) (HYPH -) (NN information))))) (. .))
-(S (VP (VB Inform)) (. .))
-(S (NP (NP (NN Theory)) (-RRB- }) (, ,) (NP (CD 1985))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (DT a) (NN counterexample)) (PP (IN to) (NP (NP (NNP Heegard) (CC and) (NNP Berger) (POS 's)) (NN result)))) (. .))

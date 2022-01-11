@@ -1,2 +1,0 @@
-(FRAG (NP (NNP Minesweeper)) (PP (IN as) (NP (DT a) (NN puzzle) (NN video) (NN game))) (CC and) (VP (VBZ is) (VP (VBN proved) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (NP (DT an) (NNP NPC) (NN problem))))))) (. .))
-(S (S (NP (PRP We)) (VP (VBP use) (NP (NP (NNP CSP)) (, ,) (NP (NNP Logic) (NNP Inference)) (CC and) (NP (VBG Sampling))) (S (VP (TO to) (VP (VB make) (NP (DT a) (NN minesweeper) (NN solver))))))) (CC and) (S (NP (PRP we)) (VP (VBP limit) (NP (PRP us)) (NP (DT each) (NN select)) (PP (IN in) (NP (CD 5) (NNS seconds))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ allows) (NP (NP (DT a) (JJ large) (NN reduction)) (PP (IN in) (NP (DT the) (NN bit-rate)))) (SBAR (IN while) (S (ADVP (RB still)) (VP (VBG permitting) (NP (NP (JJ good) (NN approximation)) (PP (IN of) (NP (DT the) (VBG underlying) (JJ bandlimited) (NN function))) (PP (IN via) (NP (DT an) (JJ appropriate) (NN reconstruction) (NNS kernel)))))))) (. .))

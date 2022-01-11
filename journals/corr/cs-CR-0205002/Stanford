@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ gives) (NP (NP (DT a) (ADJP (JJ polynomial)) (NN description)) (PP (IN of) (NP (DT the) (NML (NNP Rijndael) (NNP Advanced)) (NN Encryption)))) (NP (NP (NNP Standard)) (VP (ADVP (RB recently)) (VBN adopted) (PP (IN by) (NP (NP (DT the) (NNP National) (NNP Institute)) (PP (IN of) (NP (NNPS Standards) (CC and) (NNP Technology)))))))) (. .))
-(S (NP (JJ Special) (NN attention)) (VP (VBZ is) (VP (VBN given) (PP (IN to) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT the) (NML (NN S) (HYPH -) (NN Box)))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (NP (DT an) (JJ informal) (NN survey)) (PP (IN of) (NP (NN progress))) (PP (IN in) (NP (NNP Weihrauch) (NN complexity))) (PRN (-LRB- -LRB-) (NP (NN cf) (NN arXiv)) (: :) (NP (CD 1707.03202)) (-RRB- -RRB-))) (PP (IN in) (NP (DT the) (NN period) (CD 2018) (HYPH -) (CD 2020))))) (. .))
-(S (VP (VB Open) (S (NP (NNS questions)) (VP (VBP are) (VP (VBN emphasised))))) (. .))

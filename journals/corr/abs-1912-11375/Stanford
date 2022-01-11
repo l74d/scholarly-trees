@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (JJ inverse) (NN problem)) (PP (IN of) (NP (JJ diffuse) (JJ optical) (NN tomography)))) (VP (VBZ is) (VP (VBN solved) (PP (IN by) (NP (DT the) (NNP Markov) (HYPH -) (NN chain) (NNP Monte) (NNP Carlo))))) (. .))
-(S (NP (NP (DT The) (NNP Metropolis) (NN algorithm)) (CC or) (NP (NML (JJ single) (HYPH -) (NN component)) (NML (NNP Metropolis) (HYPH -) (NNP Hastings)) (NN algorithm))) (VP (VBZ is) (VP (VBN used))) (. .))
-(S (S (NP (NP (DT The) (NN value)) (PP (IN of) (NP (DT the) (JJ unknown) (NN parameter)))) (VP (VBZ is) (VP (VBN disretized)))) (CC and) (S (NP (DT a) (NN spin) (NNP Hamiltonian)) (VP (VBZ is) (VP (VBN introduced) (PP (IN in) (NP (DT the) (NN cost) (NN function)))))) (. .))
-(S (ADVP (RB Then)) (NP (DT an) (JJ initial) (JJ random) (NN spin) (NN configuration)) (VP (VBZ is) (VP (VBN brought) (PP (IN to) (NP (NP (DT a) (VBN converged) (NN configuration)) (PP (IN by) (NP (JJ simulated) (NN annealing))))))) (. .))

@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN tensor) (NN rank)) (VP (VBZ remains) (NP ($ $) (CD 5) ($ $)) (PP (IN for) (NP (NP (NNS fields)) (PP (IN of) (NP (JJ characteristic) (CD two))))) (ADVP (IN as) (RB well)))))) (. .))
-(S (NP (PRP We)) (VP (VBP end) (PP (IN with) (NP (NP (DT some) (NNS remarks)) (PP (IN on) (NP (JJ binary) (NNS tensors)))))) (. .))

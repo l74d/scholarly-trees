@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NNP Max-Cut) (CC and) (NNP Max-Bisection) (NNS problems)) (VP (VBP are) (ADJP (NNP NP-hard)) (PP (IN on) (NP (NN unit) (NN disk) (NN graphs))))))) (. .))

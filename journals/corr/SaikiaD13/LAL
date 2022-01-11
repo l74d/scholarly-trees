@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (NN technique)) (PP (IN of) (NP (JJ real) (NN time) (NN head) (NN gesture) (NN recognition) (NN system))))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ includes) (NP (NP (JJ Gaussian) (NN mixture) (NN model)) (PRN (-LRB- -LRB-) (NP (NNP GMM)) (-RRB- -RRB-)) (VP (VBN accompanied) (PP (IN by) (NP (NP (JJ optical) (NN flow) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBD provided) (NP (PRP us)) (NP (NP (DT the) (JJ required) (NN information)) (PP (VBG regarding) (NP (NN head) (NN movement)))))))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN model)) (VP (MD can) (VP (VB be) (VP (VBN implemented) (PP (IN in) (NP (JJ various) (NN control) (NN system)))))) (. .))
-(S (NP (PRP We)) (VP (VBP are) (ADVP (RB also)) (VP (VBG presenting) (NP (NP (DT the) (NN result) (CC and) (NN implementation)) (PP (IN of) (NP (DT both) (VBN mentioned) (NN method)))))) (. .))

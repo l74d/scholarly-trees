@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (JJ public-key) (NNS cryptosystems)) (PP (IN with) (S (S (NP (JJ public) (NN key)) (NP (DT a) (NN system)) (PP (IN of) (NP (NP (JJ polynomial) (NNS equations)) (, ,) (ADJP (NN algebraic) (CC or) (NN differential)))) (, ,)) (CC and) (S (NP (JJ private) (NN key)) (NP (NP (DT a) (JJ single) (NN polynomial)) (CC or) (NP (DT a) (JJ small-size) (NN ideal)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP set) (PRT (RP up)) (NP (JJ probabilistic) (NN encryption) (, ,) (NN signature) (, ,) (CC and) (NN signcryption) (NNS protocols))) (. .))

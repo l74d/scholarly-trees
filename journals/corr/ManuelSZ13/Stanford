@@ -1,1 +1,0 @@
-(S (NP (NP (DT The) (JJ finite) (NN satisfiability) (NN problem)) (PP (IN of) (NP (NP (ADJP (CD two) (HYPH -) (JJ variable)) (NN logic)) (VP (VBN extended) (PP (IN by) (NP (NP (DT a) (JJ linear) (NN order) (NN successor)) (CC and) (NP (DT a) (NN preorder) (NN successor)))))))) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ undecidable))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ general) (NN theory)) (PP (IN of) (NP (NP (NNS presentations)) (PP (IN for) (NP (NNS d-frames)))))) (VP (VBZ does) (RB not) (ADVP (RB yet)) (VP (VBP exist))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP review) (NP (DT the) (NNS difficulties))) (CC and) (VP (VB give) (NP (NP (JJ sufficient) (NNS conditions)) (PP (IN for) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN overcome)))))))))) (. .))
-(S (PP (IN As) (NP (DT an) (NN application))) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN category)) (PP (IN of) (NP (NNS d-frames)))) (VP (VBZ is) (VP (VBN closed) (PP (IN under) (NP (NNS coproducts)))))))) (. .))

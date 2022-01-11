@@ -1,2 +1,0 @@
-(S (NP (NNP Dense) (NN depth) (NN completion)) (VP (VBZ is) (ADJP (JJ essential) (PP (IN for) (NP (NP (JJ autonomous) (NNS systems)) (CC and) (NP (CD 3D) (NN reconstruction)))))) (. .))
-(S (NP (JJ Experimental) (NNS results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (VP (VBZ achieves) (NP (NP (JJ competitive) (NN performance)) (PP (IN with) (NP (NP (VBG existing) (NNS works)) (PP (IN on) (NP (NNP KITTI) (NN dataset)))))) (CC but) (ADVP (QP (RB almost) (CD four) (NNS times)) (RBR faster)))))) (. .))

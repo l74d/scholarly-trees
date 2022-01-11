@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (DT a) (VBN distributed) (NN source) (VBG coding) (NN system)) (PP (IN in) (SBAR (WHNP (WDT which)) (S (NP (JJ several) (NNS observations)) (VP (VBP are) (VP (VBN communicated) (PP (IN to) (NP (NP (DT the) (NN decoder)) (VP (VBG using) (NP (JJ limited) (NN transmission) (NN rate))))))))))) (. .))
-(S (NP (DT The) (NNS observations)) (VP (MD must) (VP (VB be) (ADVP (RB separately)) (VP (VBN coded)))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (ADJP (JJ robust) (VBN distributed)) (VBG coding) (NN scheme)) (SBAR (WHNP (WDT which)) (S (ADVP (RB flexibly)) (VP (VBZ trades) (PRT (RP off)) (PP (IN between) (NP (NP (NN system) (NN robustness)) (CC and) (NP (NN compression) (NN efficiency))))))))) (. .))
-(S (NP (NP (DT The) (NN optimality)) (PP (IN of) (NP (DT this) (VBG coding) (NN scheme)))) (VP (VBZ is) (VP (VBN proved) (PP (IN for) (NP (JJ various) (JJ special) (NNS cases))))) (. .))

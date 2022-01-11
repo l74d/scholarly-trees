@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (NP (DT a) (NNP Johnson-Lindenstrauss) (NN lemma)) (PP (IN for) (NP (NP (NNS matrices)) (PP (IN with) (NP (JJ circulant) (NN structure))))))))) (. .))
-(S (NP (DT This) (NN approach)) (VP (VP (VBZ allows) (S (VP (TO to) (VP (VB minimise) (NP (NP (DT the) (NN randomness)) (VP (VBN used))))))) (, ,) (VP (VBZ is) (ADJP (JJ easy) (SBAR (S (VP (TO to) (VP (VB implement))))))) (CC and) (VP (VBZ provides) (NP (JJ good) (VBG running) (NNS times)))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (DT The) (JJ square) (NN root) (NN modulo) (NN problem)) (VP (VBZ is) (NP (NP (DT a) (JJ known) (NN primitive)) (PP (IN in) (S (VP (VBG designing) (NP (DT an) (JJ asymmetric) (NN cryptosystem))))))) (. .))
-(S (NP (PRP It)) (VP (VBD was) (ADVP (RB first)) (VP (VBN attempted) (PP (IN by) (NP (NNP Rabin))))) (. .))
-(S (NP (NP (NNP Decryption) (NN failure)) (PP (IN of) (NP (DT the) (NNP Rabin) (NN cryptosystem))) (VP (VBN caused) (PP (IN by) (NP (DT the) (JJ 4-to-1) (NN decryption) (NN output))))) (VP (VBZ is) (VP (VBN overcome) (ADVP (RB efficiently)) (PP (IN in) (NP (DT this) (NN work))))) (. .))
-(S (NP (PRP It)) (VP (MD can) (ADVP (RB also)) (VP (VB transmit) (NP (DT a) (JJR larger) (NN data) (NN set)) (ADVP (RB securely)) (SBAR (WHADVP (WRB when)) (S (VP (VBN compared) (PP (TO to) (NP (VBG existing) (JJ asymmetric) (NNS schemes)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ has) (NP (DT a) (JJ simple) (JJ mathematical) (NN structure))) (. .))
-(S (ADVP (RB Thus)) (, ,) (NP (PRP it)) (VP (VP (MD would) (VP (VB have) (NP (JJ low) (JJ computational) (NNS requirements)))) (CC and) (VP (MD would) (VP (VB enable) (S (NP (NP (NN communication) (NNS devices)) (PP (IN with) (NP (JJ low) (VBG computing) (NN power)))) (VP (TO to) (VP (VB deploy) (NP (JJ secure) (NN communication) (NNS procedures)) (ADVP (RB efficiently)))))))) (. .))

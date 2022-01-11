@@ -1,4 +1,0 @@
-(S (NP (NNS Pearltrees)) (VP (VBZ is) (NP (NP (DT a) (JJ social) (NN service)) (, ,) (SBAR (WHPP (VBG using) (WHNP (WDT which))) (S (NP (NNS people)) (VP (MD can) (VP (VB organise) (NP (NP (NNP Web) (NNS contents)) (, ,) (NP (NNS photos)) (CC and) (NP (NNS notes))))))))) (. .))
-(S (NP (DT These) (NNS contents)) (VP (VBP are) (NP (NP (DT the) (`` ``) (NN pearls) ('' '')) (PP (IN on) (NP (DT some) (NNS trees))))) (. .))
-(S (PP (IN Besides) (NP (DT the) (JJ social) (NNS opportunities))) (, ,) (NP (DT the) (NNS trees)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (PP (IN as) (NP (NP (DT a) (NN tool)) (SBAR (S (VP (TO to) (VP (VB organise) (NP (NNS references)))))))) (CC and) (PP (IN for) (NP (JJ content) (NN curation))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB be) (ADJP (JJ helpful)) (PP (IN for) (NP (VBG teaching) (NNS purposes))) (ADVP (RB too)))) (. .))

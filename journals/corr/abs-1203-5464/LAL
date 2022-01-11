@@ -1,2 +1,0 @@
-(S (NP (NNP Koivisto)) (VP (VBD studied) (NP (NP (DT the) (NN partitioning)) (PP (IN of) (NP (NP (NNS sets)) (PP (IN of) (NP (JJ bounded) (NN cardinality))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VB improve) (NP (PRP$ his) (NN time) (NN analysis)) (ADVP (RB somewhat)) (, ,) (PP (IN for) (NP (NP (DT the) (JJ special) (NN case)) (PP (IN of) (NP (NN triangle) (NNS partitions)))))) (, ,) (CC and) (VP (VB obtain) (NP (DT a) (JJ slight) (NN improvement)))) (. .))

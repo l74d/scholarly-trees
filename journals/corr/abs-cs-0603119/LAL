@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT the) (JJ basic) (NNS notions)) (PP (IN of) (NP (NN co-induction)))) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ available)) (PP (IN in) (NP (DT the) (NN coq) (NN system))))))) (. .))
-(S (PP (IN As) (NP (DT an) (NN application))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (JJ arithmetic) (NNS properties)) (PP (IN for) (NP (NP (JJ simple) (NNS representations)) (PP (IN of) (NP (JJ real) (NNS numbers))))))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (JJ Neural) (NN network) (NN hardware)) (VP (VBZ is) (VP (VBN considered) (S (NP (NP (DT an) (JJ essential) (NN part)) (PP (IN of) (NP (JJ future) (NN edge) (NNS devices))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ binary-weight) (NN spiking) (JJ neural) (NN network) (PRN (-LRB- -LRB-) (NP (NNP BW-SNN)) (-RRB- -RRB-)) (NN hardware) (NN architecture)) (PP (IN for) (NP (NP (JJR low-power) (NN real-time) (JJ object) (NN classification)) (PP (IN on) (NP (NN edge) (NNS platforms))))))) (. .))
-(S (NP (DT This) (NN design)) (VP (VP (NNS stores) (NP (DT a) (JJ full) (JJ neural) (NN network)) (ADVP (NN on-chip))) (, ,) (CC and) (VP (ADVP (RB hence)) (VBZ requires) (NP (DT no) (JJ off-chip) (NN bandwidth)))) (. .))
-(S (NP (DT The) (VBN proposed) (JJ systolic) (NN array)) (VP (VBZ maximizes) (NP (NP (NNS data) (NN reuse)) (PP (IN for) (NP (DT a) (JJ typical) (JJ convolutional) (NN layer))))) (. .))
-(S (NP (DT A) (JJ 5-layer) (JJ convolutional) (NNP BW-SNN) (NN hardware)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (CD 90nm) (NNP CMOS))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (JJ pioneering) (NNP SNN) (NN hardware) (NN architecture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ supports) (NP (VBD advanced) (NNP CNN) (NNS architectures))))))) (. .))

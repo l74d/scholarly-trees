@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN algorithm)) (VP (VBG solving) (NP (DT the) (JJ extended) (NN gcd) (NN problem))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ provides) (NP (NP (DT a) (NN solution)) (VP (VBG minimizing) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (CD two) (NNS coordinates))))))))))) (. .))
-(S (NP (DT The) (JJ algorithm)) (VP (NNS relies) (PP (IN on) (NP (JJ elementary) (JJ arithmetic) (NNS properties)))) (. .))

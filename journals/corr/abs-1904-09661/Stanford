@@ -1,3 +1,0 @@
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ nonconvex) (NN problem)) (PP (IN with) (NP (NP (JJ several) (NNS applications)) (PP (IN in) (NP (NN estimation) (NNS problems))))))) (. .))
-(S (NP (PRP We)) (VP (VBP evaluate) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN SDP) (NN relaxation)))) (PP (IN in) (NP (NP (NNS applications)) (PP (IN from) (NP (NP (NN control) (NN theory)) (, ,) (NP (NN computer) (NN algebra)) (, ,) (CC and) (NP (NN computer) (NN vision))))))) (. .))
-(S (NP (PRP$ Our) (NN relaxation)) (ADVP (RB reliably)) (VP (VBZ obtains) (NP (NP (DT the) (JJ global) (NN minimizer)) (PP (IN in) (NP (NP (DT all) (NNS cases)) (PP (IN for) (NP (JJ non-adversarial) (NN noise))))))) (. .))

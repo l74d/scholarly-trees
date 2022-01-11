@@ -1,2 +1,0 @@
-(S (NP (NNP Butman) (, ,) (NNP Hermelin) (, ,) (NNP Lewenstein) (, ,) (CC and) (NNP Rawitz)) (VP (VBD proved) (SBAR (DT that) (S (NP (NP (NNP Clique)) (PP (IN in) (NP (JJ t-interval) (NN graphs)))) (VP (VBZ is) (ADJP (NNP NP-hard)) (PP (IN for) (NP (NP (NN t)) (NNP >) (VBZ =) (CD 3))))))) (. .))
-(S (NP (PRP We)) (VP (VBP strengthen) (NP (DT this) (NN result)) (S (VP (TO to) (VP (VB show) (SBAR (DT that) (S (NP (NP (NNP Clique)) (PP (IN in) (NP (JJ 3-track) (NN interval) (NN graphs)))) (VP (VBZ is) (ADJP (NNP APX-hard))))))))) (. .))

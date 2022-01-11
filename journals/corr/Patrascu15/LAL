@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (CD one)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (NN fuzzy) (VBG clustering) (NNS algorithm)) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN dissimilarity) (NN function)) (VP (VBN determined) (PP (IN by) (NP (CD three) (NNS parameters))))))))) (. .))
-(S (NP (DT This) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN considered) (S (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NP (DT the) (NNP Gustafson-Kessel) (NN algorithm)) (PP (IN for) (NP (JJ fuzzy) (NN clustering)))))))))) (. .))

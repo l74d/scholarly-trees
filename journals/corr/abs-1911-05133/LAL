@@ -1,4 +1,0 @@
-(S (NP (DT The) (JJ energy-efficient) (PRN (-LRB- -LRB-) (NNP EE) (-RRB- -RRB-)) (NN design) (NN problem)) (VP (VBZ is) (ADJP (RB very) (JJ important) (S (VP (TO to) (VP (VB design) (NP (DT a) (JJ good) (NN performance) (NN network))))))) (. .))
-(S (PP (IN Besides) (NP (DT this))) (, ,) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NN communication)))) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ important))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (DT the) (JJ new) (NNP IRS) (NN technology)))) (, ,) (NP (DT the) (NNP EE) (NN maximization) (NN problem)) (VP (VBZ is) (VP (VBN formed) (PP (IN in) (NP (DT this) (NN paper))) (PP (IN for) (NP (JJ secure) (NN communication))))) (. .))
-(S (NP (PRP We)) (VP (VBD proposed) (NP (NP (DT a) (NN solution)) (SBAR (WHNP (WDT that)) (S (VP (VBD outperformed) (NP (JJ other) (NNS methods))))))) (. .))

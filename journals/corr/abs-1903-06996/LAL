@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (VBN distributed) (NN on-device) (VBG learning)) (PP (IN with) (NP (JJ limited) (NN communication) (CC and) (NN security) (NNS requirements))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN robust) (VBN distributed) (NN optimization) (NN algorithm)) (PP (IN with) (NP (JJ efficient) (NN communication) (CC and) (NN attack) (NN tolerance))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ has) (NP (JJ provable) (NN convergence) (CC and) (NN robustness)) (PP (IN under) (NP (JJ non-IID) (NNS settings)))) (. .))
-(S (NP (JJ Empirical) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN algorithm)) (VP (VP (VBZ stabilizes) (NP (DT the) (NN convergence))) (CC and) (VP (VBZ tolerates) (NP (NNS data) (VBG poisoning))) (PP (IN on) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (NNS workers))))))))) (. .))

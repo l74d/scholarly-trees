@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (DT a) (JJ random) (NN projection) (NN approach)) (S (VP (TO to) (VP (VB estimate) (NP (NN variance)) (PP (IN in) (NP (NN kernel) (NN ridge) (NN regression))))))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (VBZ leads) (PP (IN to) (NP (NP (DT a) (JJ consistent) (NN estimator)) (PP (IN of) (NP (DT the) (JJ true) (NN variance))))) (, ,) (SBAR (IN while) (S (VP (VBG being) (ADVP (RB computationally)) (ADJP (RBR more) (JJ efficient)))))) (. .))
-(S (NP (PRP$ Our) (NN variance) (NN estimator)) (VP (VBZ is) (ADJP (JJ optimal) (PP (IN for) (NP (NP (DT a) (JJ large) (NN family)) (PP (IN of) (NP (NNS kernels))) (, ,) (PP (VBG including) (NP (NP (JJ cubic) (NNS splines)) (CC and) (NP (JJ Gaussian) (NNS kernels)))))))) (. .))
-(S (NP (NNP Simulation) (NN analysis)) (VP (VBZ is) (VP (VBN conducted) (S (VP (TO to) (VP (VB support) (NP (PRP$ our) (NN theory))))))) (. .))

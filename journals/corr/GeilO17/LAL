@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ primary) (JJ affine) (NN variety) (NNS codes))) (VP (VBD defined) (PP (IN from) (NP (DT the) (NNP Klein) (JJ quartic)))))) (. .))
-(S (NP (NP (DT The) (NNS duals)) (PP (IN of) (NP (DT these) (NNS codes)))) (VP (VBP have) (ADVP (RB previously)) (VP (VBN been) (VP (VBN treated) (PP (IN in) (NP (JJ -LSB-) (CD 12) (, ,) (NP (NNP Ex))))))) (. .))
-(NP (CD 3.2) (NN -RSB-) (. .))
-(S (S (PP (IN Among) (NP (NP (DT the) (NNS codes)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBP construct)))))) (NP (RB almost) (DT all)) (VP (VBP have) (NP (NP (NNS parameters)) (ADJP (ADJP (RB as) (JJ good)) (PP (IN as) (NP (DT the) (ADJP (JJS best) (JJ known)) (NNS codes))))) (PP (VBG according) (PP (TO to) (NP (VB -LSB-) (CD 9) (NN -RSB-)))))) (CC and) (S (PP (IN in) (NP (DT the) (VBG remaining) (JJ few) (NNS cases))) (NP (DT the) (NNS parameters)) (VP (VBP are) (ADJP (RB almost) (IN as) (JJ good)))) (. .))
-(NP (CD 1))

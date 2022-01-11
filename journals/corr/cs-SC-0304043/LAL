@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (NNS documents) (NP (DT the) (JJ free) (NN computer) (NN algebra) (NN system) (PRN (SINV (`` ``) (NP (NN gTybalt)) ('' ''))))) (. .))
-(S (NP (DT The) (NN program)) (VP (VBZ is) (VP (VBN build) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (NP (JJ other) (NNS packages)) (, ,) (PP (IN among) (NP (NNS others))) (NP (NNP GiNaC) (, ,) (NNP TeXmacs) (CC and) (NNP Root)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ offers) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (JJ interactive) (JJ symbolic) (NNS calculations))) (PP (IN within) (NP (DT the) (NNP C++) (NN programming) (NN language))))) (. .))
-(S (NP (JJ Mathematical) (NN formulae)) (VP (VBP are) (VP (VBN visualized) (S (VP (VBG using) (NP (NNP TeX) (NNS fonts)))))) (. .))

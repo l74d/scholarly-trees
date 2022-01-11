@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (ADJP (NN difference) (NN equation) (VBN based)) (NN method)) (PP (IN of) (S (VP (VBG determining) (NP (NP (CD two) (NNS factors)) (PP (IN of) (NP (DT a) (NN composite)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (NP (DT The) (NN feasibility)) (PP (IN of) (NP (NNP P-complexity)))) (VP (VBZ is) (VP (VBN shown))) (. .))
-(S (NP (NP (NN Presentation)) (PP (IN of) (NP (NN material)))) (VP (VBZ is) (ADJP (JJ non-theoretical)) (: ;) (S (VP (VBN intended) (S (VP (TO to) (VP (VB be) (ADJP (JJ accessible) (PP (TO to) (NP (NP (DT a) (JJR broader) (NN audience)) (PP (IN of) (NP (ADJP (ADJP (JJ non) (JJ academic)) (CC and) (ADJP (JJ theoretical))) (NNS practitioners)))))))))))) (. .))

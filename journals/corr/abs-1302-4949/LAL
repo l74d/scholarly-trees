@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ new) (NN characterization)) (PP (IN of) (NP (DT the) (NNP Dirichlet) (NN distribution))))) (. .))
-(S (NP (DT This) (NN characterization)) (VP (VBZ implies) (SBAR (IN that) (S (PP (IN under) (NP (NP (NNS assumptions)) (VP (VBN made) (PP (IN by) (NP (JJ several) (JJ previous) (NNS authors)))) (PP (IN for) (S (VP (VBG learning) (NP (NN belief) (NNS networks))))))) (, ,) (NP (NP (DT a) (NNP Dirichlet) (NN prior)) (PP (IN on) (NP (DT the) (NNS parameters)))) (VP (VBZ is) (ADJP (JJ inevitable)))))) (. .))

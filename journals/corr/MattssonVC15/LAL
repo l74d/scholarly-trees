@@ -1,3 +1,0 @@
-(S (NP (DT This) (JJ short) (NN report)) (VP (VBZ describes) (NP (NP (DT an) (JJ automated) (JJ BWAPI-based) (NN script)) (VP (VBD developed) (PP (IN for) (NP (NP (JJ live) (NNS streams)) (PP (IN of) (NP (NP (DT a) (NNP StarCraft) (NNP Brood) (NNP War) (NN bot) (NN tournament)) (, ,) (NP (NNP SSCAIT))))))))) (. .))
-(S (NP (DT The) (NN script)) (VP (VBZ controls) (NP (DT the) (JJ in-game) (NN camera)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VP (VB follow) (NP (DT the) (JJ relevant) (NNS events))) (CC and) (VP (VB improve) (NP (DT the) (NN viewer) (NN experience)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP enumerate) (NP (PRP$ its) (NN novel) (NNS features))) (CC and) (VP (VB provide) (NP (DT a) (JJ few) (NN implementation) (NNS notes)))) (. .))

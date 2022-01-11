@@ -1,3 +1,0 @@
-(S (NP (DT A) (NNP Petri) (NN net)) (VP (VBZ is) (ADJP (RB structurally) (JJ cyclic)) (SBAR (IN if) (S (NP (DT every) (NN configuration)) (VP (VBZ is) (ADJP (JJ reachable) (PP (IN from) (NP (PRP itself))) (PP (IN in) (NP (QP (CD one) (CC or) (JJR more)) (NNS steps)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ structural) (NN cyclicity)) (VP (VBZ is) (ADJP (JJ decidable) (PP (IN in) (NP (JJ deterministic) (JJ polynomial) (NN time)))))))) (. .))
-(S (PP (IN For) (NP (DT this))) (, ,) (NP (PRP we)) (VP (VBP adapt) (NP (NP (NP (DT the) (NNP Kosaraju) (POS 's)) (NN approach)) (PP (IN for) (NP (NP (DT the) (JJ general) (NN reachability) (NN problem)) (PP (IN for) (NP (NNP Petri) (NNS nets))))))) (. .))

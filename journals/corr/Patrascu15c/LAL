@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (CD two) (NN knowledge) (NN representation) (NNS models))) (VP (VBP are) (VP (VBN proposed) (, ,) (NP (NNP FP4) (CC and) (NNP FP6)))) (. .))
-(S (NP (DT Both)) (VP (VBP combine) (NP (NP (NNS ideas)) (PP (IN from) (NP (NP (JJ fuzzy) (NNS sets)) (CC and) (NP (ADJP (JJ four-valued) (CC and) (JJ hexa-valued)) (NNS logics)))))) (. .))
-(S (NP (DT Both)) (VP (JJ represent) (NP (NP (NN imprecise) (NNS properties)) (SBAR (WHNP (WP$ whose) (JJ accomplished) (NN degree)) (S (VP (VBZ is) (ADJP (JJ unknown) (CC or) (NN contradictory)) (PP (IN for) (NP (DT some) (NNS objects)))))))) (. .))
-(S (NP (NP (DT A) (JJ possible) (NN application)) (PP (IN in) (NP (DT the) (NX (NX (NN color) (NN analysis)) (CC and) (NX (NN color) (NN image) (NN processing)))))) (VP (VBZ is) (VP (VBN discussed))) (. .))

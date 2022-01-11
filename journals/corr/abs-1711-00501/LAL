@@ -1,8 +1,0 @@
-(S (NP (PRP We)) (VP (VP (ADVP (RB first)) (VBP give) (NP (NP (DT an) (JJ analytic) (NN formula)) (PP (IN for) (NP (NP (DT the) (NN population) (NN risk)) (PP (IN of) (NP (DT the) (NN standard) (VBD squared) (NN loss))))))) (CC and) (VP (NN demonstrate) (SBAR (IN that) (S (NP (PRP it)) (VP (ADVP (RB implicitly)) (VBZ attempts) (S (VP (TO to) (VP (VB decompose) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (JJ low-rank) (NNS tensors)))) (ADVP (RB simultaneously)))))))))) (. .))
-(S (NP (NP (DT All) (JJ local) (NN minima)) (PP (IN of) (NP ($ $) (NNP G) ($ $)))) (VP (VBP are) (ADVP (RB also)) (NP (JJ global) (NN minima))) (. .))
-(NP (CD 2) (. .))
-(S (NP (NP (DT All) (JJ global) (NN minima)) (PP (IN of) (NP ($ $) (NNP G) ($ $)))) (VP (NN correspond) (PP (TO to) (NP (DT the) (NN ground) (NN truth) (NNS parameters)))) (. .))
-(NP (CD 3) (. .))
-(S (NP (NP (DT The) (NN value) (CC and) (NN gradient)) (PP (IN of) (NP ($ $) (NNP G) ($ $)))) (VP (MD can) (VP (VB be) (VP (VBN estimated) (S (VP (VBG using) (NP (NNS samples))))))) (. .))
-(S (PP (IN With) (NP (DT these) (NNS properties))) (, ,) (NP (NP (JJ stochastic) (NN gradient) (NN descent)) (PP (IN on) (NP ($ $) (NNP G) ($ $)))) (VP (VP (ADVP (RB provably)) (VBZ converges) (PP (TO to) (NP (DT the) (JJ global) (NN minimum)))) (CC and) (VP (VB learn) (NP (DT the) (JJ ground-truth) (NNS parameters)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP prove) (NP (JJ finite) (NN sample) (NN complexity) (NN result))) (CC and) (VP (VB validate) (NP (DT the) (NNS results)) (PP (IN by) (NP (NNS simulations))))) (. .))

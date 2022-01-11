@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (NN proof)) (PP (IN of) (NP (NP (NN spending)) (PP (IN in) (NP (DT a) (JJ block-chain) (NN system))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN system))) (NP (DT the) (NN probability) (SBAR (IN for) (S (NP (DT a) (NN node)) (VP (TO to) (VP (VB create) (NP (DT a) (JJ legal) (NN block))))))) (VP (VBZ is) (ADJP (JJ proportional) (PP (TO to) (NP (NP (DT the) (JJ total) (NN amount)) (PP (IN of) (NP (NNS coins))) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN spent) (PP (IN in) (NP (NN history))))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ introduces) (NP (NP (DT a) (JJ new) (NN scheme)) (PP (IN of) (NP (JJ dynamic) (NN interference) (NML (JJ free) (NN channel)) (NN allocation))))) (. .))
-(S (NP (DT The) (NN scheme)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ additional) (JJ spectral) (NNS analyzers)) (PP (IN in) (NP (NML (JJ wireless) (NNS networks)) (NNP IEEE) (CD 802.11))))))) (. .))
-(S (NP (NN Design) (CC and) (NN implementation)) (VP (VBZ is) (VP (VBN presented))) (. .))

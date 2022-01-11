@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ flat) (JJ nonlinear) (NN placement) (NN algorithm)) (NP (NNP FFTPL)) (VP (VBG using) (NP (RB fast) (NNP Fourier) (NN transform)) (PP (IN for) (NP (NN density) (NN equalization)))))) (. .))
-(S (NP (DT The) (NN placement) (NN instance)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (DT an) (JJ electrostatic) (NN system))) (PP (IN with) (NP (NP (DT the) (NN analogy)) (PP (IN of) (NP (NP (NN density) (NN cost)) (PP (TO to) (NP (DT the) (JJ potential) (NN energy))))))))) (. .))
-(S (NP (DT A) (JJ well-defined) (NP (NNP Poisson) (POS 's)) (NN equation)) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (NP (NN gradient) (CC and) (NN cost) (NN computation))))) (. .))
-(S (NP (PRP$ Our) (NN placer)) (VP (VBZ outperforms) (NP (JJ state-of-the-art) (NNS placers)) (PP (IN with) (NP (JJR better) (NN solution) (NN quality) (CC and) (NN efficiency)))) (. .))

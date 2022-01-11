@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (JJ hierarchical) (NN distribution) (NN matching) (PRN (-LRB- -LRB-) (NP (NNP Hi-DM)) (-RRB- -RRB-)) (NN approach)) (PP (IN for) (NP (JJ probabilistic) (NN shaping)))) (VP (VBZ is) (VP (VBN described))) (. .))
-(S (NP (NP (DT The) (NN potential)) (PP (IN of) (NP (NNP Hi-DM))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN trade-off)) (PP (IN between) (NP (NN performance) (, ,) (NN complexity) (, ,) (CC and) (NN memory)))))))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN through) (NP (CD three) (NN case) (NNS studies))))) (. .))

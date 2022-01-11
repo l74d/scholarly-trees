@@ -1,3 +1,0 @@
-(S (NP (DT The) (NNP Inverse) (JJ 3-SAT) (NN problem)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ coNP) (NNP Complete))))))) (. .))
-(S (NP (DT This) (NN article)) (VP (VBZ shows) (NP (NP (DT a) (JJ new) (JJ interesting) (NN way)) (SBAR (S (VP (TO to) (VP (VB solve) (ADVP (RB directly)) (NP (DT the) (NN problem)) (PP (IN by) (S (VP (VBG using) (NP (NP (NP (NN closure)) (PP (IN under) (NP (NN resolution)))) (CC and) (NP (JJ partial) (NN assignment) (NNS properties)))))))))))) (. .))
-(S (NP (NP (DT An) (NN algorithm))) (VP (VBZ is) (VP (VBN proposed) (SBAR (WHNP (WDT which)) (S (VP (VBZ lets) (S (VP (VBP solve) (NP (DT the) (PRN (-LRB- -LRB-) (NN co) (-RRB- -RRB-)) (VBZ Inverse) (JJ 3-SAT) (NN problem))))))))) (. .))

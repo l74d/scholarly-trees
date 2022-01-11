@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (UCP (NP (VBG packing) (CC and) (VBG covering) (NNS properties)) (PP (IN of) (NP (NNS codes))) (PP (IN with) (NP (DT the) (NN rank) (JJ metric))))) (. .))
-(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (VBG packing) (NNS properties)) (PP (IN of) (NP (NN rank) (JJ metric) (NNS codes))))) (. .))
-(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VP (VBP study) (NP (NP (RB sphere) (VBG covering) (NNS properties)) (PP (IN of) (NP (NN rank) (JJ metric) (NNS codes))))) (, ,) (VP (JJ derive) (NP (NP (NNS bounds)) (PP (IN on) (NP (PRP$ their) (NNS parameters))))) (, ,) (CC and) (VP (VB investigate) (NP (PRP$ their) (JJ asymptotic) (NN covering) (NNS properties)))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ novel) (NNP DNA) (NNS sequences) (VBD alignment) (NNS method)) (VP (VBN based) (PP (IN on) (NP (JJ inverted) (NN index)))))) (. .))
-(S (ADVP (RB Now)) (NP (JJS most) (JJ large) (NN scale) (NN information) (NN retrieval) (NN system)) (VP (VBP are) (DT all) (VP (RB use) (NP (JJ inverted) (NN index)) (PP (IN as) (NP (DT the) (JJ basic) (NN data) (NN structure))))) (. .))
-(S (CC But) (NP (NP (PRP$ its) (NN application)) (PP (IN in) (NP (NNP DNA) (NN sequence) (NN alignment)))) (VP (VBZ is) (ADVP (RB still)) (RB not) (VP (VBN found))) (. .))
-(S (NP (DT This) (NN paper)) (ADVP (RB just)) (VP (VB discuss) (NP (JJ such) (NNS applications))) (. .))
-(S (NP (NP (CD Three) (JJ main) (NNS problems)) (, ,) (NP (NP (NNP DNA) (NN segmenting)) (, ,) (NP (RB long) (JJ DNA) (NN query) (NN search)) (, ,) (NP (NNP DNA) (NN search) (VBG ranking) (NNS algorithm)) (CC and) (NP (NN evaluation) (NN method)))) (VP (VBP are) (VP (VBN detailed) (ADVP (RB respectively)))) (. .))
-(S (NP (DT This) (NN research)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (NN avenue)) (SBAR (S (VP (TO to) (VP (VB build) (NP (ADJP (RBR more) (JJ effective)) (NNP DNA) (NN alignment) (NNS methods)))))))) (. .))

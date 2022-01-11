@@ -1,2 +1,0 @@
-(S (NP (DT The) (NML (NNP Jeffrey) (HYPH -) (NNP Kirwan)) (NN residue)) (VP (VBZ is) (NP (NP (DT a) (JJ powerful) (NN tool)) (PP (IN for) (NP (NP (NP (NN computation)) (PP (IN of) (NP (NN intersection) (NNS numbers)))) (CC or) (NP (NP (NN volume)) (PP (IN of) (NP (JJ symplectic) (NNS quotients)))))))) (. .))
-(S (NP (PRP$ Our) (NN result)) (VP (VBZ is) (ADJP (JJ parallel) (PP (IN to) (NP (NP (DT that)) (PP (IN of) (NP (NP (NNP Cattani) (HYPH -) (NNP Dickenstein)) (PP (IN for) (NP (NNP Grothendieck) (NNS residues))))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NNP May) (CC and) (MD must) (VBG testing)) (VP (VBD were) (VP (VBN introduced) (PP (IN by) (NP (NNP De) (NNP Nicola) (CC and) (NNP Hennessy))) (S (VP (TO to) (VP (VB define) (NP (NP (JJ semantic) (NNS equivalences)) (PP (IN on) (NP (NNS processes))))))))) (. .))
-(S (S (NP (JJ May-testing) (NN equivalence)) (VP (ADVP (RB exactly)) (VBZ captures) (NP (NN safety) (NNS properties)))) (, ,) (CC and) (S (NP (JJ must-testing) (NN equivalence)) (NP (NN liveness) (NNS properties))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VP (VBZ proposes) (NP (JJ reward) (NN testing))) (CC and) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (VBG resulting) (JJ semantic) (NN equivalence)) (ADVP (RB also)) (VP (VBZ captures) (NP (JJ conditional) (NN liveness) (NNS properties))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (ADJP (RB strictly) (JJR finer)) (PP (IN than) (NP (DT both) (DT the) (PRN (SINV (JJ may-) (CC and))) (JJ must-testing) (NN equivalence))))) (. .))

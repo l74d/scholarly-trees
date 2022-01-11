@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (DT the) (VBN distributed) (NN convergence) (NN detection) (NN problem)) (PP (IN in) (NP (ADJP (JJ asynchronous)) (NNS iterations)))) (. .))
-(S (NP (DT A) (VBN modified) (JJ recursive) (VBG doubling) (NN algorithm)) (VP (VBZ is) (VP (VBN investigated) (PP (IN in) (NP (NN order))) (S (VP (TO to) (VP (VB adapt) (PP (IN to) (NP (DT the) (JJ non-power-of-two) (NN case)))))))) (. .))
-(S (NP (DT Some) (NN convergence) (NN detection) (NNS algorithms)) (VP (VBP are) (VP (VBN illustrated) (PP (VBN based) (PP (IN on) (NP (DT the) (NN reduction) (NN operation)))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (VBG concluding) (NN discussion)) (PP (IN about) (NP (NP (DT the) (NN implementation)) (CC and) (NP (DT the) (NN applicability))))) (VP (VBZ is) (VP (VBN presented))) (. .))

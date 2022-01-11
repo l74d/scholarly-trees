@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (JJ simple) (NN un-entanglement)) (VP (VBN based) (NP (NN quantum) (NN bit) (NN commitment) (NN scheme)))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (SBAR (IN Although) (S (NP (NN commitment)) (VP (VBZ is) (ADVP (RB unconditionally)) (ADJP (JJ secure))))) (CC but) (NP (NN concealment)) (VP (VBZ is) (RB not)) (. .))

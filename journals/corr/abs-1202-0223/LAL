@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (NNS quasigroups)) (, ,) (NP (NNP Hadamard) (VBZ transforms)) (CC and) (NP (NNP Number) (NNP Theoretic) (NNP Transforms)))) (PP (IN for) (NP (NP (NN use)) (PP (IN in) (NP (NN sequence) (NN randomization))))))) (. .))
-(S (NP (DT This)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (NP (JJ hash) (NNS functions)) (PP (IN for) (NP (NN sequence) (NN encryption)))))))))) (. .))

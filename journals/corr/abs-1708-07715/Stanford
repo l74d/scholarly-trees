@@ -1,5 +1,0 @@
-(S (NP (DT The) (NN tendency) (S (VP (TO to) (VP (VB overestimate) (NP (JJ immediate) (NN utility)))))) (VP (VBZ is) (NP (DT a) (JJ common) (JJ cognitive) (NN bias))) (. .))
-(S (PP (IN As) (NP (DT a) (NN result))) (NP (NNS people)) (VP (VP (VBP behave) (ADVP (RB inconsistently)) (PP (IN over) (NP (NN time)))) (CC and) (VP (VB fail) (S (VP (TO to) (VP (VB reach) (NP (NML (RB long) (HYPH -) (NN term)) (NNS goals))))))) (. .))
-(S (NP (JJ Behavioral) (NNS economics)) (VP (VBZ tries) (S (VP (TO to) (VP (VB help) (NP (VBN affected) (NNS individuals)) (PP (IN by) (S (VP (VBG implementing) (NP (JJ external) (NNS incentives))))))))) (. .))
-(S (S (VP (VBG Using) (NP (NP (DT the) (JJ graphical) (NN model)) (PP (IN of) (NP (NNP Kleinberg) (CC and) (NNP Oren)))))) (, ,) (NP (PRP we)) (VP (VBP approach) (NP (DT this) (NN problem)) (PP (IN from) (NP (DT an) (JJ algorithmic) (NN perspective)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (ADVP (RB asymptotically)) (VP (VBG matching) (NP (NP (JJR lower) (NNS bounds)) (CC and) (NP (NN approximation) (NNS algorithms))))) (. .))

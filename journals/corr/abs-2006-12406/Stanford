@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP interpret) (NP (DT these) (NNS results)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN optimization) (NN complexity)) (PP (IN via) (NP (VBN normalized) (NN gradient) (NN descent)))))))) (. .))

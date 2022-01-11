@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NNP Dempster-Shafer) (NN theory)) (PP (IN of) (NP (NN evidence))))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN concept)) (PP (IN of) (NP (NN monotonicity))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN related) (PP (TO to) (NP (NP (DT the) (NN diminution)) (PP (IN of) (NP (NP (DT the) (NN range)) (PP (IN between) (NP (NN belief) (CC and) (NN plausibility))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN accumulation)) (PP (IN of) (NP (NN knowledge))) (PP (IN in) (NP (DT this) (NN framework)))) (VP (VBZ exhibits) (NP (DT a) (JJ nonmonotonic) (NN property)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN belief) (NN structure)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB represent) (NP (ADJP (JJ typical) (CC or) (JJ commonsense)) (NN knowledge))))))))))) (. .))

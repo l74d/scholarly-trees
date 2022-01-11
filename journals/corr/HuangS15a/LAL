@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN interaction)) (PP (IN between) (NP (NP (JJ polynomial) (NN space) (NN randomness)) (CC and) (NP (NP (NP (DT a) (JJ fundamental) (NN result)) (PP (IN of) (NP (NN analysis)))) (, ,) (NP (DT the) (NNP Lebesgue) (NN differentiation) (NN theorem))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP Lebesgue) (NN differentiation) (NN theorem)) (VP (VBZ holds) (PP (IN for) (NP (DT every) (ADJP (JJ weakly) (NN pspace-random)) (NN point))))))) (. .))

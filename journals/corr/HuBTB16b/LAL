@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (NN approach)) (PP (TO to) (NP (VB data) (NN stream) (VBG clustering))) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (JJ adaptive) (JJ neuro-fuzzy) (NNS systems)))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (DT The) (VBN proposed) (NN ensemble)) (VP (VBZ is) (VP (VBN formed) (PP (IN with) (NP (JJ adaptive) (JJ neuro-fuzzy) (JJ self-organizing) (NNP Kohonen) (NNS maps))) (PP (IN in) (NP (DT a) (JJ parallel) (NN processing) (NN mode))))) (. .))
-(S (NP (DT A) (JJ final) (NN result)) (VP (VBZ is) (VP (VBN chosen) (PP (IN by) (NP (DT the) (JJS best) (JJ neuro-fuzzy) (JJ self-organizing) (NNP Kohonen) (NN map))))) (. .))

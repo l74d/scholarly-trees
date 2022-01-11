@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT some) (JJ high) (NN level) (NN information) (NN fusion) (NNS approaches)) (PP (IN for) (NP (ADJP (JJ numeric) (CC and) (JJ symbolic)) (NNS data))))) (. .))
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN interest)) (PP (IN of) (NP (JJ such) (NNS method))) (PP (ADVP (RB particularly)) (IN for) (NP (JJR classifier) (NN fusion))))) (. .))
-(S (NP (DT A) (JJ comparative) (NN study)) (VP (VBZ is) (VP (VBN made) (PP (IN in) (NP (NP (DT a) (NN context)) (PP (IN of) (NP (NP (NN sea) (VBN bed) (NN characterization)) (PP (IN from) (NP (JJ sonar) (NNS images))))))))) (. .))
-(S (NP (NP (DT The) (JJ classi-) (NN fication)) (PP (IN of) (NP (NP (NN kind)) (PP (IN of) (NP (NN sediment)))))) (VP (VBZ is) (NP (DT a) (JJ difficult) (NN problem)) (PP (IN because) (IN of) (NP (DT the) (NN data) (NN complexity)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP compare) (NP (JJ high) (NN level) (NN information) (NN fusion))) (CC and) (VP (VB give) (NP (DT the) (JJ obtained) (NN performance)))) (. .))

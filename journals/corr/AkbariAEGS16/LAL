@@ -1,4 +1,0 @@
-(S (NP (DT A) (NN graph)) (VP (VBZ is) (ADJP (JJ equimatchable)) (SBAR (IN if) (S (NP (NP (DT all)) (PP (IN of) (NP (PRP$ its) (JJ maximal) (NNS matchings)))) (VP (VBP have) (NP (DT the) (JJ same) (NN size)))))) (. .))
-(S (NP (DT A) (NN graph)) (VP (VBZ is) (ADJP (JJ claw-free)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB have) (NP (DT a) (NN claw)) (PP (IN as) (NP (DT an) (JJ induced) (NN subgraph)))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP provide) (, ,) (PP (TO to) (NP (NP (DT the) (JJS best)) (PP (IN of) (NP (PRP$ our) (NN knowledge))))) (, ,) (NP (NP (DT the) (JJ first) (NN characterization)) (PP (IN of) (NP (JJ claw-free) (JJ equimatchable) (NN graphs)))) (PP (IN by) (S (VP (VBG identifying) (NP (DT the) (JJ equimatchable) (JJ claw-free) (NN graph) (NNS families)))))) (. .))
-(S (NP (DT This) (NN characterization)) (VP (VBZ implies) (NP (DT an) (JJ efficient) (NN recognition) (NN algorithm))) (. .))

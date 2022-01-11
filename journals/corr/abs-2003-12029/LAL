@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD present) (NP (NP (DT the) (NNP SageMath) (NN package)) (NP (NP (NNP FlexRiLoG)) (PRN (-LRB- -LRB-) (ADJP (JJ short) (PP (IN for) (NP (NP (ADJP (JJ flexible) (CC and) (JJ rigid)) (NNS labelings)) (PP (IN of) (NP (NN graphs)))))) (-RRB- -RRB-))))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (JJ recent) (NNS results)))) (NP (DT the) (NN software)) (VP (VBZ generates) (NP (NP (NNS motions)) (PP (IN of) (NP (NN graphs)))) (S (VP (VBG using) (NP (JJ special) (NN edge) (NNS colorings))))) (. .))
-(S (NP (DT The) (NN package)) (VP (NNS computes) (CC and) (VBZ illustrates) (NP (NP (DT the) (NNS colorings)) (CC and) (NP (DT the) (NNS motions)))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NN structure) (CC and) (NN usage)) (PP (IN of) (NP (DT the) (NN package))))) (. .))

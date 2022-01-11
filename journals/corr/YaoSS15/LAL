@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (JJ structural) (NNS properties)) (PP (IN of) (NP (JJ skew) (JJ cyclic) (NNS codes))) (PP (IN over) (NP ($ $) (JJ R) ($ $)))) (PP (IN through) (NP (DT a) (NN decomposition) (NN theorem)))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (NN formula)) (PP (IN for) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (JJ skew) (JJ cyclic) (NNS codes)) (PP (IN of) (NP (JJ length) ($ $) (JJ n) ($ $))) (PP (IN over) (NP ($ $) (NNP R.))))))))) ($ $))

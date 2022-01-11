@@ -1,3 +1,0 @@
-(S (NP (NP (VBG Hashing) (NN algorithm)) (PP (IN of) (NP (NP (JJ dynamical) (NN set)) (PP (IN of) (NP (NNS distances)))))) (VP (VBZ is) (VP (VBN described))) (. .))
-(S (NP (VBN Proposed) (VBG hashing) (NN function)) (VP (VBZ is) (ADJP (JJ residual))) (. .))
-(S (NP (NP (NNP Data) (NN structure)) (SBAR (WHNP (WDT which) (NN implementation)) (S (VP (NNS accelerates) (NP (NNS computations)))))) (VP (VBZ is) (ADJP (VBN presented))))

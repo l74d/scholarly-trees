@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN research) (NN paper))) (, ,) (NP (NP (DT the) (NNS problems)) (VP (VBG dealing) (PP (IN with) (NP (NP (NN sensor) (NN network) (NN architecture)) (, ,) (NP (NN sensor) (NN fusion)))))) (VP (VBP are) (VP (VBN addressed))) (. .))
-(S (NP (ADJP (RB Time/Computationally) (JJ optimal)) (NN network) (NNS architectures)) (VP (VBP are) (VP (VBN investigated))) (. .))
-(S (NP (NP (DT Some) (JJ novel) (NNS ideas)) (PP (IN on) (NP (NN sensor) (NN fusion)))) (VP (VBP are) (VP (VBN proposed))) (. .))

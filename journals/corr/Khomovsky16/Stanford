@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG obtaining) (NP (NNS identities)) (S (VP (VBG involving) (NP (NN recurrence) (NNS sequences)))))))) (. .))
-(S (PP (IN With) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (WDT which))))) (NP (PRP we)) (VP (VBP find) (NP (NP (DT an) (VBG interpolating) (NN type) (NN identity)) (PP (IN for) (NP (JJ second) (NN order) (JJ linear) (NNS recurrences))))) (. .))

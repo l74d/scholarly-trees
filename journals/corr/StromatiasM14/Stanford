@@ -1,6 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (JJ supervised) (NN learning) (NN algorithm)) (, ,) (NP (NN SNN) (HYPH /) (NN LP)) (, ,)) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (S (VP (VBG Spiking) (NP (JJ Neural) (NNS Networks))))))) (. .))
-(S (NP (DT This) (JJ novel) (NN algorithm)) (VP (VBZ uses) (NP (NP (NP (JJ limited) (NN precision)) (PP (IN for) (NP (NP (DT both) (JJ synaptic) (NNS weights)) (CC and) (NP (JJ synaptic) (NNS delays))))) (: ;) (NP (NP (CD 3) (NNS bits)) (PP (IN in) (NP (DT each) (NN case)))))) (. .))
-(S (ADVP (RB Also)) (NP (DT a) (JJ genetic) (NN algorithm)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (DT the) (JJ supervised) (NN training))))) (. .))
-(S (NP (DT The) (NNS results)) (VP (VBP are) (ADJP (ADJP (JJ comparable)) (CC or) (ADJP (JJR better))) (PP (IN than) (NP (ADJP (RB previously) (VBN published)) (NN work)))) (. .))
-(S (NP (DT The) (NNS results)) (VP (VBP are) (ADJP (JJ applicable) (PP (IN to) (NP (NP (DT the) (NN realization)) (PP (IN of) (NP (JJ large) (NML (NN scale) (NN hardware)) (JJ neural) (NNS networks))))))) (. .))
-(S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (VBN trained) (NNS networks)))) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (JJ programmable) (NN hardware))))) (. .))

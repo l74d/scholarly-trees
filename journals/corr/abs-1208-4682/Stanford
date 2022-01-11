@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper) (NN SOA))) (NP (NP (NN model)) (PP (IN for) (NP (NN business)))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN survey) (NN paper))) (. .))
-(S (SBAR (IN As) (S (NP (DT the) (JJ new) (NN technology)) (VP (VBP evolve) (NP (DT the) (JJ new) (NNS businesses))))) (VP (VBP use) (NP (NNP SOA) (NN framework))) (. .))

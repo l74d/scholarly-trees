@@ -1,4 +1,0 @@
-(S (NP (DT The) (NNP Stochastic) (NNP Eulerian) (NNP Tour) (NNP Problem)) (VP (VBD was) (VP (VBN introduced) (PP (IN in) (NP (CD 2008))) (PP (IN as) (NP (NP (DT a) (JJ stochastic) (NN variant)) (PP (IN of) (NP (DT the) (JJ well-known) (JJ Eulerian) (NNP Tour) (NNP Problem))))))) (. .))
-(S (PP (IN In) (NP (DT a) (JJ follow-up) (NN paper))) (NP (DT the) (JJ same) (NNS authors)) (VP (VBD investigated) (NP (NP (DT some) (NNS heuristics)) (PP (IN for) (S (VP (VBG solving) (NP (DT the) (NNP Stochastic) (NNP Eulerian) (NNP Tour) (NNP Problem))))))) (. .))
-(S (PP (IN After) (NP (NP (DT a) (JJ thorough) (NN study)) (PP (IN of) (NP (DT these) (CD two) (NNS publications))))) (NP (DT a) (JJ few) (NNS issues)) (VP (VBD emerged)) (. .))
-(S (PP (IN In) (NP (DT this) (JJ short) (NN research) (NN commentary))) (NP (PRP we)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB discuss) (NP (DT these) (NNS issues))))))) (. .))

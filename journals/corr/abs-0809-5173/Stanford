@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NP (NNS intervals)) (PP (IN as) (NP (DT a) (JJ normed) (NN vector) (NN space))))))) (. .))
-(S (NP (PRP We)) (VP (VBP define) (ADVP (RB also)) (NP (NP (DT a) (ADJP (CD four) (HYPH -) (JJ dimensional)) (JJ associative) (NN algebra)) (SBAR (WHNP (WP$ whose) (NN product)) (S (VP (VBZ gives) (NP (NP (DT the) (NN product)) (PP (IN of) (NP (NP (NNS intervals)) (PP (IN in) (NP (DT any) (NNS cases))))))))))) (. .))
-(S (NP (DT This) (NN approach)) (VP (VBZ allows) (S (VP (TO to) (VP (VB give) (NP (DT a) (NN notion)) (PP (PP (IN of) (NP (NN divisibility))) (CC and) (PP (IN in) (NP (DT some) (NNS cases))) (NP (DT an) (JJ euclidian) (NN division))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (JJ differential) (NN calculus))) (CC and) (VP (VB give) (NP (DT some) (NNS applications)))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP I)) (VP (MD will) (VP (VB present) (NP (NP (PRP$ my) (NN implementation) (POS ›) (NNS n-units) (CD ›)) (PP (IN of) (NP (JJ physical) (NNS units))) (PP (IN into) (NP (NNP C++) (NNS programs)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ allows) (S (NP (DT the) (NN compiler)) (VP (TO to) (VP (VB check) (PP (IN for) (NP (JJ dimensional) (NN consistency))))))) (. .))

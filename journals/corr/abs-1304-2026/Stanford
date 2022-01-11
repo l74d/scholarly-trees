@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ describes) (PP (IN about) (NP (NP (DT the) (NN difference)) (PP (IN of) (NP (NP (NN resolution) (NN structure) (CC and) (NN size)) (PP (IN between) (NP (NNP HornSAT) (CC and) (NNP CNFSAT)))))))) (. .))
-(S (NP (PRP We)) (VP (MD can) (VP (VB compute) (NP (NN HornSAT)) (PP (IN by) (S (VP (VBG using) (NP (NNS clauses) (NN causality))))))) (. .))
-(S (ADVP (RB Therefore)) (NP (PRP we)) (VP (MD can) (VP (VB compute) (NP (ADJP (JJ proof)) (NN diagram)) (PP (IN by) (S (VP (VBG using) (NP (NN Log) (NN space) (NN reduction))))))) (. .))
-(S (CC But) (NP (PRP we)) (VP (MD must) (VP (VB compute) (NP (NN CNFSAT)) (PP (IN by) (S (VP (VBG using) (NP (NNS clauses) (NN correlation))))))) (. .))
-(S (S (ADVP (RB Therefore)) (NP (PRP we)) (VP (MD can) (RB not) (VP (VB compute) (NP (ADJP (JJ proof)) (NN diagram)) (PP (IN by) (S (VP (VBG using) (NP (NN Log) (NN space) (NN reduction)))))))) (, ,) (CC and) (S (NP (NP (NN reduction)) (PP (IN of) (NP (NN CNFSAT)))) (VP (VBZ is) (NP (RB not) (NML (NN P) (HYPH -) (NN Complete))))) (. .))

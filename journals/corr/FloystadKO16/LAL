@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NNP Chow) (NN form)) (PP (IN of) (NP (NP (DT the) (JJ essential) (NN variety)) (PP (IN in) (NP (NN computer) (NN vision)))))) (VP (VBZ is) (VP (VBN calculated))) (. .))
-(S (NP (PRP$ Our) (NN derivation)) (VP (VBZ uses) (NP (NP (JJ secant) (NNS varieties)) (, ,) (NP (NNP Ulrich) (VBZ sheaves)) (CC and) (NP (NN representation) (NN theory)))) (. .))
-(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN formula)) (VP (MD can) (VP (VB detect) (NP (NP (JJ noisy) (NN point) (NNS correspondences)) (PP (IN between) (NP (CD two) (NNS images))))))))) (. .))

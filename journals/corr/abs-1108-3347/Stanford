@@ -1,6 +1,0 @@
-(S (NP (JJ Many) (NNS programs)) (VP (VBP allow) (NP (DT the) (NN user)) (PP (IN to) (NP (NN input) (NNS data))) (NP-TMP (JJ several) (NNS times)) (PP (IN during) (NP (PRP$ its) (NN execution)))) (. .))
-(S (SBAR (IN If) (S (NP (DT the) (NN program)) (VP (VBZ runs) (ADVP (RB forever))))) (NP (DT the) (NN user)) (VP (MD may) (VP (VB input) (NP (NNS data)) (ADVP (RB infinitely)) (ADVP (RB often)))) (. .))
-(S (NP (DT A) (NN program)) (VP (VBZ terminates) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ terminates) (ADVP (RB no) (RB matter)) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN user)) (VP (VBZ does)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (JJ various) (NNS ways)) (S (VP (TO to) (VP (VB prove) (SBAR (IN that) (S (NP (NN program)) (VP (VBZ terminates)))))))) (. .))
-(S (NP (DT The) (NNS proofs)) (VP (VBP use) (ADVP (RB well)) (NP (NP (NNS orderings)) (, ,) (NP (NNP Ramsey) (NNP Theory)) (, ,) (CC and) (NP (NNPS Matrices)))) (. .))
-(S (NP (DT These) (NNS techniques)) (VP (VBP are) (VP (VBN used) (PP (IN by) (NP (JJ real) (NN program) (NNS checkers))))) (. .))

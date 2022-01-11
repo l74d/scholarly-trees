@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (JJ short) (NN communication))) (NP (PRP I)) (VP (VBD highlight) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS collaborators))) (PP (IN on) (NP (NNS papers))) (PP (IN in) (NP (DT the) (JJ main) (NN astronomy) (NNS journals)))) (VP (VBZ has) (VP (VBN evolved) (PP (IN over) (NP (NN time)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP see) (NP (NP (DT a) (NN trend)) (PP (IN of) (S (VP (VBG moving) (ADVP (RB away) (PP (IN from) (NP (JJ single-author) (NNS papers))))))))) (. .))
-(S (NP (DT This) (NN communication)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNS data)) (PP (IN in) (NP (NP (DT the) (NNS holdings)) (PP (IN of) (NP (NP (DT the) (NNP SAO/NASA) (NNP Astrophysics) (NNP Data) (NNP System)) (PRN (-LRB- -LRB-) (NP (NNP ADS)) (-RRB- -RRB-)))))))))) (. .))
-(S (NP (DT The) (NNP ADS)) (VP (VBZ is) (VP (VBN funded) (PP (IN by) (NP (NNP NASA) (NNP Grant) (NNP NNX09AB39G))))) (. .))

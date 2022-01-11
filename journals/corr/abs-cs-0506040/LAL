@@ -1,2 +1,0 @@
-(S (SBAR (IN While) (S (VP (VBG achieving) (NP (NP (DT a) (NN compression) (NN ratio)) (PP (IN of) (NP (CD 2.0) (NN bits/base))))))) (, ,) (NP (DT the) (JJ new) (JJ algorithm)) (VP (NNS codes) (NP (JJ non-N) (NNS bases)) (PP (IN in) (NP (JJ fixed) (NN length)))) (. .))
-(S (NP (PRP It)) (VP (ADVP (RB dramatically)) (VBZ reduces) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (VBG coding) (CC and) (VBG decoding))) (PP (IN than) (NP (NP (JJ previous) (NNP DNA) (NN compression) (NN algorithms)) (CC and) (NP (DT some) (JJ universal) (NN compression) (NNS programs)))))) (. .))

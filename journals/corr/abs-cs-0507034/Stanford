@@ -1,2 +1,0 @@
-(S (NP (JJ Such) (NNS graphs)) (VP (VBP arise) (PP (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NN modeling) (JJ social) (NNS networks))))) (CC and) (PP (IN in) (S (VP (VBG routing) (NP (NP (NNS networks)) (PP (IN for) (NP (NML (NN peer) (HYPH -) (IN to) (HYPH -) (NN peer)) (NNS systems))))))))) (. .))
-(S (NP (PRP$ Our) (NN result)) (VP (VBZ has) (NP (DT the) (JJ first) (NML (ADJP (RB asymptotically) (JJ optimal)) (JJ greedy) (NN routing)) (NN complexity))) (. .))

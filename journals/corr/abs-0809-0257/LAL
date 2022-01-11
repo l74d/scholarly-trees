@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN problem)) (VP (VBZ admits) (NP (NP (DT a) (JJ linear) (NN kernel)) (PP (IN in) (NP (NP (CD three) (NNS classes)) (PP (IN of) (NP (JJ 3-uniform) (NN hypergraphs)))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VB obtain) (NP (NP (ADJP (JJR lower) (CC and) (JJ upper)) (NNS bounds)) (PP (IN on) (NP (DT the) (NN kernel) (NN size))) (PP (IN for) (NP (PRP them)))) (PP (IN by) (NP (DT the) (JJ parametric) (NN duality)))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (UCP (ADJP (JJ fast)) (-LRB- -LRB-) (NML (JJ real) (NN time)) (-RRB- -RRB-)) (NN sorter)) (PP (IN of) (NP (NP (JJ binary) (NNS numbers)) (PP (IN by) (NP (ADJP (CD one) (HYPH -) (JJ dimensional)) (JJ cellular) (NN automata)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (PRP It)) (VP (VBZ sorts) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (NP (NN n) (NNS numbers)) (VP (VBN represented) (PP (IN by) (NP (NP (QP (CD k) (SYM -)) (NNS bits)) (NP (DT each)))) (PP (IN in) (ADVP (RB exactly)) (NP (NNP nk) (NNS steps)))))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (ADVP (NP (QP (RB only) (CD one)) (NN step) (QP (RBR more) (IN than) (DT a))) (JJR lower)) (VP (VBN bound))) (. .))

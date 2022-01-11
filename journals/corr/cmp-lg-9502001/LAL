@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ lexical) (NN organisation)) (PP (IN for) (NP (JJ multilingual) (JJ lexical) (NNS databases))) (PRN (-LRB- -LRB-) (NP (NNP MLDB)) (-RRB- -RRB-)))) (. .))
-(S (NP (DT This) (NN organisation)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNS acceptions)) (PRN (-LRB- -LRB-) (NP (NNS word-senses)) (-RRB- -RRB-)))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP detail) (NP (DT this) (JJ lexical) (NN organisation))) (CC and) (VP (VB show) (NP (NP (DT a) (JJ mock-up)) (VP (NN built) (S (VP (TO to) (VP (NN experiment) (PP (IN with) (NP (PRP it)))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD present) (NP (NP (PRP$ our) (JJ current) (NN work)) (PP (IN in) (S (VP (VBG defining) (CC and) (VBG prototyping) (NP (NP (DT a) (JJ specialised) (NN system)) (PP (IN for) (NP (NP (DT the) (NN management)) (PP (IN of) (NP (JJ acception-based) (NNP MLDB))))))))))) (. .))
-(NP (NP (NNS Keywords)) (: :) (NP (NP (JJ multilingual) (JJ lexical) (NN database)) (, ,) (NP (NN acception)) (, ,) (NP (JJ linguistic) (NN structure))) (. .))

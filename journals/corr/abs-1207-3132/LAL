@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NN permutation) (NNS groups)) (SBAR (WHNP (WDT that)) (S (VP (VBP arise) (PP (IN as) (NP (NP (DT the) (NN automorphism) (NNS groups)) (PP (IN of) (NP (JJ cyclic) (JJ combinatorial) (NNS objects)))))))))) (. .))
-(S (PP (IN As) (NP (JJ special) (NNS cases))) (NP (PRP we)) (VP (VBP classify) (NP (NP (DT the) (NN automorphism) (NNS groups)) (PP (IN of) (NP (JJ cyclic) (NNS codes))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT the) (NNS permutations)) (SBAR (WHPP (IN by) (WHNP (WDT which))) (S (NP (NP (CD two) (JJ cyclic) (JJ combinatorial) (NNS objects)) (PP (IN on) (NP ($ $) (JJ p^m) ($ $) (NNS elements)))) (VP (VBP are) (ADJP (JJ equivalent))))))) (. .))

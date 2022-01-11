@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (DT the) (JJ stochastic) (NN bandit) (NN problem)) (PP (IN in) (NP (NP (DT the) (JJ sublinear) (NN space) (NN setting)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (CD one)) (VP (MD can) (RB not) (VP (VB record) (NP (NP (DT the) (NN win-loss) (NN record)) (PP (IN for) (NP (DT all) ($ $) (NNP K) ($ $) (NNS arms))))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (DT An) (JJ efficient) (JJ archive)) (VP (VBG securing) (NP (NP (DT the) (NN integrity)) (PP (IN of) (NP (JJ VoIP-based) (JJ two-party) (NNS conversations)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT The) (NN solution)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NP (NNS chains)) (PP (IN of) (NP (NNS hashes)))) (CC and) (NP (ADJP (RB continuously) (VBD chained)) (JJ electronic) (NNS signatures)))))) (. .))
-(S (NP (NN Security)) (VP (VBZ is) (VP (VBN concentrated) (PP (IN in) (NP (DT a) (JJ single) (, ,) (JJ efficient) (NN component))) (, ,) (S (VP (VBG allowing) (PP (IN for) (NP (DT a) (JJ detailed) (NN analysis))))))) (. .))

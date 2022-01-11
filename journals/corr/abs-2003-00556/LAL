@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN area) (NNS requirements)) (PP (IN of) (NP (NP (JJ planar) (JJ greedy) (NNS drawings)) (PP (IN of) (NP (JJ triconnected) (NN planar) (NN graphs))))))) (. .))
-(S (NP (DT This)) (VP (VBZ reopens) (NP (DT the) (NN question) (SBAR (IN whether) (S (NP (JJ triconnected) (NN planar) (NN graphs)) (VP (NN admit) (NP (NN planar) (NN greedy) (NNS drawings)) (PP (IN on) (NP (DT a) (JJ polynomial-size) (NN grid)))))))) (. .))
-(S (NP (DT Both) (JJ such) (NNS results)) (VP (VBP are) (VP (VBN obtained) (PP (IN by) (S (VP (ADVP (RB actually)) (VBG constructing) (NP (NP (NNS drawings)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ convex) (CC and) (NN angle-monotone))))))))))) (. .))

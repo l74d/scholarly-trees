@@ -1,2 +1,0 @@
-(S (NP (NP (DT An) (NN algorithm)) (PP (IN for) (S (VP (VBG constructing) (NP (NP (DT a) (JJS shortest) (JJ binary) (NML (NN k) (HYPH -) (NN stage)) (NN machine)) (VP (VBG generating) (NP (DT a) (VBN given) (NN binary) (NN sequence)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT This) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN considered) (PP (IN as) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NML (NNP Berlekamp) (HYPH -) (NNP Massey)) (NN algorithm))))) (PP (IN to) (NP (DT the) (JJ non-linear) (NN case)))))) (. .))

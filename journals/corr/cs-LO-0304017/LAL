@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP explore) (SBAR (WHADVP (WRB how)) (S (NP (JJ different) (NN proof) (NNS orderings)) (VP (VBP induce) (NP (NP (JJ different) (NNS notions)) (PP (IN of) (NP (NN saturation)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP relate) (NP (NP (NN completion)) (, ,) (NP (NN paramodulation)) (, ,) (NP (NN saturation)) (, ,) (NP (NN redundancy) (NN elimination)) (, ,))) (CC and) (VP (VB rewrite) (NP (NN system) (NN reduction)) (PP (TO to) (NP (VB proof) (NNS orderings))))) (. .))

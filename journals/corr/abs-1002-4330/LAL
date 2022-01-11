@@ -1,6 +1,0 @@
-(S (NP (DT Every) (JJ human)) (VP (NNS likes) (NP (NNS choices))) (. .))
-(S (CC But) (NP (NP (NN today) (POS 's)) (JJ fast) (NN route) (NN planning) (NN algorithms)) (ADVP (RB usually)) (VP (VBZ compute) (NP (NP (RB just) (DT a) (JJ single) (NN route)) (PP (IN between) (NP (NN source) (CC and) (NN target))))) (. .))
-(S (S (NP (EX There)) (VP (VBP are) (NP (NNS beginnings) (S (VP (TO to) (VP (VB compute) (NP (JJ alternative) (NNS routes)))))))) (, ,) (CC but) (S (NP (DT this) (NN topic)) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN studied) (ADVP (RB thoroughly)))))) (. .))
-(S (ADVP (RB Often)) (, ,) (NP (NP (DT the) (NN aspect)) (PP (IN of) (NP (JJ meaningful) (JJ alternative) (NNS routes)))) (VP (VBZ is) (VP (VBN neglected) (PP (IN from) (NP (NP (DT a) (JJ human) (NN point)) (PP (IN of) (NP (NN view))))))) (. .))
-(S (NP (PRP We)) (VP (VBP fill) (PRT (IN in)) (NP (DT this) (NN gap)) (PP (IN by) (S (VP (VBG suggesting) (NP (NP (JJ mathematical) (NNS definitions)) (PP (IN for) (NP (JJ such) (NNS routes)))))))) (. .))
-(S (PP (IN As) (NP (DT a) (JJ second) (NN contribution))) (NP (PRP we)) (VP (VBP propose) (NP (NP (NNS heuristics)) (SBAR (S (VP (TO to) (VP (VB compute) (NP (PRP them))))))) (, ,) (SBAR (IN as) (S (NP (DT this)) (VP (VBZ is) (ADJP (NNP NP-hard)) (PP (IN in) (ADJP (JJ general))))))) (. .))

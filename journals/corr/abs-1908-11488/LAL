@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ considers) (NP (NP (DT the) (NN triangle) (VBG finding) (NN problem)) (PP (IN in) (NP (NP (DT the) (NNP CONGEST) (NN model)) (PP (IN of) (NP (JJ distributed) (NN computing))))))) (. .))
-(S (NP (DT This)) (VP (VBZ gives) (NP (NP (DT another) (NN example)) (PP (IN of) (S (NP (NN quantum) (NN algorithm)) (VP (VBG beating) (NP (DT the) (ADJP (JJS best) (JJ known)) (JJ classical) (NN algorithms)) (PP (IN in) (NP (JJ distributed) (NN computing)))))))) (. .))
-(S (NP (PRP$ Our) (NN result)) (ADVP (RB thus)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NN triangle) (NN finding)) (VP (VBZ is) (ADJP (ADJP (JJR easier)) (PP (IN than) (NP (NN triangle) (NN listing)))) (PP (IN in) (NP (DT the) (NN quantum) (NNP CONGEST) (NN model))))))) (. .))

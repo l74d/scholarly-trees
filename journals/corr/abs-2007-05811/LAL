@@ -1,3 +1,0 @@
-(S (NP (NP (DT An) (JJ efficient) (NN implementation)) (PP (IN of) (NP (NP (JJ min-sum) (NNP SC/list) (NN decoding)) (PP (IN of) (NP (JJ convolutional) (JJ polar) (NNS codes)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (NP (DT the) (VBN proposed) (NN implementation)) (PP (IN of) (NP (NNP SC) (NN decoding)))))) (VP (VBZ is) (ADJP (ADJP (QP (JJR more) (IN than) (CD two) (NNS times)) (JJR smaller)) (PP (IN than) (NP (DT the) (JJ straightforward) (NN implementation))))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (VBN proposed) (NN list) (VBG decoding) (NN algorithm)) (VP (VBZ does) (RB not) (VP (VB require) (S (VP (TO to) (VP (VB copy) (NP (DT any) (NNP LLRs)) (PP (IN during) (NP (VBG decoding)))))))) (. .))

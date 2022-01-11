@@ -1,3 +1,0 @@
-(S (NP (VBN Compressed) (NN sensing)) (VP (NNS shows) (SBAR (IN that) (S (NP (DT a) (JJ sparse) (NN signal)) (VP (MD can) (ADVP (RB stably)) (VP (VB be) (VP (VBN recovered) (PP (IN from) (NP (JJ incomplete) (JJ linear) (NNS measurements))))))))) (. .))
-(S (CC But) (, ,) (PP (IN in) (NP (JJ practical) (NNS applications))) (, ,) (NP (DT some) (NNS signals)) (VP (VBP have) (NP (JJ additional) (NN structure)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN nonzero) (NNS elements)) (VP (VB arise) (PP (IN in) (NP (DT some) (NNS blocks))))))) (. .))
-(S (NP (PRP We)) (VP (VBP call) (NP (JJ such) (NNS signals)) (PP (IN as) (NP (JJ block-sparse) (NNS signals)))) (. .))

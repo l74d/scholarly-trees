@@ -1,5 +1,0 @@
-(S (S (NP (NP (NNP Bat) (NN algorithm)) (PRN (-LRB- -LRB-) (NP (NNP BA)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (DT a) (JJ bio-inspired) (NN algorithm)) (VP (VBN developed) (PP (IN by) (NP (NNP Yang))) (PP (IN in) (NP (CD 2010))))))) (CC and) (S (NP (NNP BA)) (VP (VBZ has) (VP (VBN been) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ efficient))))))))) (. .))
-(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT the) (NN literature)) (VP (VBZ has) (VP (VBN expanded) (ADVP (RB significantly)) (PP (IN in) (NP (DT the) (JJ last) (CD 3) (NNS years))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT a) (JJ timely) (NN review)) (PP (IN of) (NP (NP (DT the) (NN bat) (NN algorithm)) (CC and) (NP (PRP$ its) (JJ new) (NNS variants)))))) (. .))
-(S (NP (NP (DT A) (JJ wide) (NN range)) (PP (IN of) (NP (NN diverse) (NX (NX (NNS applications)) (CC and) (NX (NN case) (NNS studies)))))) (VP (VBP are) (ADVP (RB also)) (VP (VP (VBN reviewed)) (CC and) (VP (VBN summarized) (ADVP (NN briefly)) (ADVP (RB here))))) (. .))
-(S (NP (JJ Further) (NN research) (NNS topics)) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed))) (. .))

@@ -1,2 +1,0 @@
-(S (ADVP (RB So)) (, ,) (NP (NN graph)) (VP (VBZ is) (NP (NP (NP (DT an) (JJ important) (NN tool)) (PP (IN for) (S (VP (VBG searching))))) (PRN (-LRB- -LRB-) (S (VP (VBN proposed))) (-RRB- -RRB-)) (NP (JJ optimum) (NNS codes)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NP (NP (DT a) (JJ new) (NN method)) (PP (IN of) (S (VP (VBG searching))))) (-LRB- -LRB-) (VP (VBN proposed)) (-RRB- -RRB-)) (NP (NP (JJ optimum) (JJ additive) (NNS codes)) (PP (IN from) (NP (JJ circulant) (NNS graphs)))))) (. .))

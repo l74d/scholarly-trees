@@ -1,3 +1,0 @@
-(S (NP (NNP SIS) (NN problem)) (VP (VBZ has) (NP (NP (JJ numerous) (NNS applications)) (PP (IN in) (NP (NN cryptography))))) (. .))
-(S (NP (NP (JJ Known) (NNS algorithms)) (PP (IN for) (S (VP (VBG solving) (NP (DT that) (NN problem)))))) (VP (VBP are) (ADJP (JJ exponential) (PP (IN in) (NP (NN complexity))))) (. .))
-(S (S (NP (DT A) (JJ new) (NN algorithm)) (VP (VBZ is) (VP (VBN suggested) (PP (IN in) (NP (DT this) (NN note)))))) (, ,) (NP (PRP$ its) (NN complexity)) (VP (VBZ is) (ADJP (JJ sub-exponential) (PP (IN for) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NNS parameters))))))) (. .))

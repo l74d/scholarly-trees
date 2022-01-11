@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (NP (DT a) (JJ new) (NN generalization)) (PP (IN of) (NP (NNP Chebyshev) (NN inequality)))) (PP (IN for) (NP (JJ random) (NNS vectors)))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (DT the) (JJ new) (NN generalization)) (VP (VBZ is) (ADJP (ADJP (RB much) (RBR less) (JJ conservative)) (PP (IN than) (NP (DT the) (JJ classical) (NN generalization)))))))) (. .))

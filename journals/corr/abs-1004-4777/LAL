@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP compare) (NP (NP (NNS classes)) (PP (IN of) (NP (JJ finite) (JJ relational) (NNS structures)))) (PP (IN via) (NP (JJ monadic) (JJ second-order) (NNS transductions)))) (. .))
-(S (SBAR (IN If) (S (NP (PRP we)) (ADVP (RB only)) (VP (VBP consider) (NP (NP (NNS classes)) (PP (IN of) (NP (NN incidence) (NNS structures))))))) (NP (PRP we)) (VP (MD can) (VP (ADVP (RB completely)) (VB describe) (NP (DT the) (VBG resulting) (NN hierarchy)))) (. .))
-(S (NP (DT Each) (NN level)) (VP (MD can) (VP (VB be) (VP (VBN characterised) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT a) (JJ suitable) (NN variant)) (PP (IN of) (NP (NN tree-width)))))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (JJ weak) (NN recognizability)) (PP (IN of) (NP (NP (JJ deterministic) (NNS languages)) (PP (IN of) (NP (JJ infinite) (NNS trees))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (PP (IN for) (NP (JJ deterministic) (NNS languages))) (NP (NP (DT the) (NNP Borel) (NN hierarchy)) (CC and) (NP (DT the) (JJ weak) (NN index) (VBD hierarchy))) (VP (NN coincide))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN procedure)) (VP (VBG computing) (PP (IN for) (NP (DT a) (JJ deterministic) (NN automaton))) (NP (NP (DT an) (JJ equivalent) (JJ minimal) (NN index) (JJ weak) (NN automaton)) (PP (IN with) (NP (NP (DT a) (JJ quadratic) (NN number)) (PP (IN of) (NP (NNS states))))))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ works) (PP (IN within) (NP (NP (DT the) (NN time)) (PP (IN of) (S (VP (VBG solving) (NP (DT the) (NN emptiness) (NN problem)))))))) (. .))

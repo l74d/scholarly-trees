@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN error) (NN correction) (NN capability)) (PP (IN of) (NP (JJ column-weight-three) (NNP LDPC) (NNS codes))) (SBAR (WHADVP (WRB when)) (S (VP (VBN decoded) (S (VP (VBG using) (NP (DT the) (NNP Gallager) (NNP A) (NN algorithm))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP extend) (NP (DT these) (NNS results)) (PP (TO to) (NP (DT the) (NN bit) (JJ flipping) (NN algorithm)))) (. .))

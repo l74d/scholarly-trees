@@ -1,2 +1,0 @@
-(S (NP (NN Motivation) (S (VP (TO to) (VP (VB study) (NP (DT this) (NN hyperedge) (VBG coloring) (NN conjecture)))))) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (NNP University) (NN timetabling)) (, ,) (CC and) (NP (NP (JJ open) (NN shop) (VBG scheduling)) (PP (IN with) (NP (NNS multiprocessors))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (DT this) (NN conjecture)) (PP (IN in) (NP (DT this) (NN paper)))) (. .))

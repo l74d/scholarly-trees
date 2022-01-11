@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP define) (NP (NP (NP (DT a) (NN notion)) (PP (IN of) (NP (NN quantum) (NNP Solovay) (NN randomness)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ equivalent) (PP (IN to) (NP (NN q) (HYPH -) (NN MLR))))))))) (. .))
-(S (NP (NP (DT The) (NN proof)) (PP (IN of) (NP (DT this)))) (VP (VBZ goes) (PP (IN through) (NP (DT a) (ADJP (RB purely) (JJ linear)) (JJ algebraic) (NN result))) (PP (IN about) (S (VP (VBG approximating) (NP (NN density) (NNS matrices)) (PP (IN by) (NP (NNS subspaces))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ random) (NNS states)) (VP (VBP form) (NP (DT a) (NN convex) (NN set)))))) (. .))
-(S (NP (NML (NNP Quantum) (NNP Schnorr)) (NN randomness)) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (NP (NNP Quantum) (NNS analogues)) (PP (IN of) (NP (NP (DT the) (NN law)) (PP (IN of) (NP (NP (JJ large) (NNS numbers)) (CC and) (NP (DT the) (NML (NNP Shannon) (HYPH -) (NNP McMillan) (HYPH -) (NNP Breiman)) (NN theorem))))))) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB hold) (PP (IN for) (NP (NP (NN quantum)) (NP (NNP Schnorr) (JJ random) (NNS states))))))))) (. .))

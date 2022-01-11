@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (S (NP (JJ fixed) (NNS points)) (VP (VBZ results) (PP (IN for) (NP (NP (NNS sandpiles)) (VP (VBG starting) (PP (IN with) (NP (JJ arbitrary) (JJ initial) (NNS conditions)))))))))) (. .))
-(S (S (NP (PRP We)) (VP (VBP give) (NP (DT an) (JJ effective) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (JJ such) (VBN fixed) (NNS points))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP refine) (NP (PRP it)) (PP (IN in) (NP (NP (DT the) (JJ particular) (NN case)) (PP (IN of) (NP (NN SPM))))))) (. .))

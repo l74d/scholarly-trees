@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (NP (DT a) (JJ finite) (NN set)) (PP (IN of) (NP (NP (NNS moments)) (PP (IN of) (NP (DT a) (JJ random) (NN vector)))))) (VP (VBZ is) (VP (VBN given)))))) (. .))
-(S (NP (PRP$ Its) (JJ underlying) (NN density)) (VP (VBZ is) (ADJP (JJ unknown))) (. .))
-(S (NP (NP (DT An) (NN algorithm))) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (S (VP (ADVP (RB efficiently)) (VBG calculating) (NP (NNP Dirac) (NN mixture) (NNS densities)) (S (VP (VBG maintaining) (NP (DT these) (NNS moments)) (SBAR (IN while) (S (VP (VBG providing) (NP (NP (DT a) (JJ homogeneous) (NN coverage)) (PP (IN of) (NP (DT the) (NN state) (NN space)))))))))))))) (. .))

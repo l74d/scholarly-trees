@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (JJ novel) (NN quantum) (NN algorithm)) (PP (IN for) (NP (NP (NN classification)) (PP (IN of) (NP (NNS images)))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN constructed) (S (VP (VBG using) (NP (JJ principal) (NML (NML (NN component) (NN analysis)) (CC and) (NML (NNP von) (NNP Neuman))) (NN quantum) (NNS measurements)))))) (. .))
-(S (PP (IN In) (NP (NN order) (S (VP (TO to) (VP (VB apply) (NP (DT the) (NN algorithm))))))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN quantum) (NN representation)) (PP (IN of) (NP (NN grayscale) (NNS images))))) (. .))

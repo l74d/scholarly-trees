@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ local) (NN algorithm)) (PRN (-LRB- -LRB-) (NP (JJ constant-time) (VBN distributed) (NN algorithm)) (-RRB- -RRB-)) (PP (IN for) (S (VP (VBG approximating) (NP (JJ max-min) (NNP LPs))))))) (. .))
-(S (S (NP (NP (DT The) (NN approximation) (NN ratio)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))) (VP (VBZ is) (NP (NP (DT the) (JJS best)) (ADJP (JJ possible)) (PP (IN for) (NP (DT any) (JJ local) (NN algorithm)))))) (: ;) (S (NP (EX there)) (VP (VBZ is) (NP (DT a) (JJ matching) (JJ unconditional) (JJR lower) (NN bound)))) (. .))

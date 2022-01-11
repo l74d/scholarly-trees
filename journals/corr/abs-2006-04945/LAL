@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (NP (DT a) (NN problem)) (PP (IN of) (S (VP (VBG forecasting) (NP (NN promotion) (NN efficiency)))))) (VP (VBZ is) (VP (VBN raised))) (. .))
-(S (NP (DT The) (NNS authors)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN approach)) (, ,) (VP (VBG using) (NP (DT the) (NN gradient) (VBG boosting) (NN method)) (PP (IN for) (NP (DT this) (NN task)))))) (. .))
-(S (NP (JJ Six) (NN performance) (NNS indicators)) (VP (VBP are) (VP (VBN introduced) (S (VP (TO to) (VP (VB capture) (NP (DT the) (NN promotion) (NN effect))))))) (. .))
-(S (PP (IN For) (NP (NP (DT each)) (PP (IN of) (NP (PRP them))))) (, ,) (PP (IN within) (NP (NP (VBN predefined) (NNS groups)) (PP (IN of) (NP (NNS products))))) (, ,) (NP (DT a) (NN model)) (VP (VBD was) (VP (VBN trained))) (. .))
-(S (NP (NP (DT A) (NN description)) (PP (IN of) (S (VP (VBG using) (NP (DT these) (NNS models)) (PP (IN for) (S (VP (NN forecasting) (CC and) (VBG optimising) (NP (NN promotion) (NN efficiency))))))))) (VP (VBZ is) (VP (VBN provided))) (. .))
-(S (NP (NNP Data) (NN preparation) (CC and) (NNS hyperparameters) (VBG tuning) (NNS processes)) (VP (VBP are) (ADVP (RB also)) (VP (VBN described))) (. .))
-(S (NP (DT The) (NNS experiments)) (VP (VBD were) (VP (VBN performed) (PP (IN for) (NP (NP (CD three) (NNS groups)) (PP (IN of) (NP (NP (NNS products)) (PP (IN from) (NP (DT a) (JJ large) (NN grocery) (NN company))))))))) (. .))

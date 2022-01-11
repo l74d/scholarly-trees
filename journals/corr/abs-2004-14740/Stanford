@@ -1,3 +1,0 @@
-(FRAG (NP (DT This) (NN paper) (NNS studies)) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG constructing) (NP (NNS codes)) (S (VP (VBG correcting) (NP (NNS deletions)) (PP (IN in) (NP (NNS arrays))))))))) (. .))
-(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (ADVP (RB mostly)) (VP (VB investigate) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NML (NML ($ $)) (-LRB- -LRB-) (NML (CD 1,1)) (-RRB- -RRB-)) (NML (NML ($ $)) (HYPH -) (NML (NML (S (VP (VB criss) (HYPH -) (VB cross)))) (NNS deletions))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (NP (DT a) (NN code) (NN construction)) (PP (IN with) (NP (DT an) (JJ explicit) (NN decoding) (NN algorithm)))) (VP (VBZ is) (VP (VBN presented))) (. .))

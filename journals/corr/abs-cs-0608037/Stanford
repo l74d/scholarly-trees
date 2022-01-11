@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT the) (NN author)) (VP (VBZ proposes) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ multilevel) (ADJP (JJ double) (S (VP (VBG hashing) (NP (NP (NNS schemes)) (VP (VBN called) (NP (NN cascade) (NN hash))))))) (NNS tables))))) (. .))
-(S (NP (PRP They)) (VP (VBP use) (NP (NP (JJ several) (NNS levels)) (PP (IN of) (NP (NN hash) (NNS tables))))) (. .))
-(S (PP (IN In) (NP (DT each) (NN table))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT the) (JJ common) (JJ double)) (S (VP (VBG hashing) (NP (NN scheme))))) (. .))
-(S (NP (NML (JJR Higher) (NN level)) (NN hash) (NNS tables)) (VP (VBP work) (PP (IN as) (NP (NP (JJ fail) (HYPH -) (NNS safes)) (PP (IN of) (NP (JJR lower) (NN level) (NN hash) (NNS tables)))))) (. .))
-(S (PP (IN By) (NP (DT this) (NN strategy))) (, ,) (NP (PRP it)) (VP (MD could) (ADVP (RB effectively)) (VP (VB reduce) (NP (NNS collisions)) (PP (IN in) (NP (NN hash) (NN insertion))))) (. .))
-(S (ADVP (RB Thus)) (NP (PRP it)) (VP (VBZ gains) (NP (DT a) (JJ constant) (JJS worst) (NN case)) (NP-TMP (JJ lookup) (NN time)) (PP (IN with) (NP (NP (DT a) (ADJP (RB relatively) (JJ high)) (NN load) (NN factor)) (-LRB- -LRB-) (NP (QP (CD 70) (NN %) (HYPH -) (CD 85) (NN %))) (-RRB- -RRB-))) (PP (IN in) (NP (JJ random) (NNS experiments)))) (. .))
-(S (NP (NP (JJ Different) (NNS parameters)) (PP (IN of) (NP (NN cascade) (NN hash) (NNS tables)))) (VP (VBP are) (VP (VBN tested))) (. .))

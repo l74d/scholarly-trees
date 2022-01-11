@@ -1,4 +1,0 @@
-(S (NP (NP (NNP Lyapunov) (POS 's)) (JJ second) (NN theorem)) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN tool)) (PP (IN for) (NP (NP (NN stability) (NN analysis)) (PP (IN of) (NP (JJ differential) (NNS equations))))))) (. .))
-(S (NP (DT The) (NN paper)) (VP (VBZ provides) (NP (NP (DT an) (NN analog) (NN theorem)) (PP (IN for) (NP (JJ incremental) (NN stability) (NN analysis)))) (PP (IN by) (S (VP (VBG lifting) (NP (DT the) (NNP Lyapunov) (NN function)) (PP (TO to) (NP (DT the) (NN tangent) (NN bundle))))))) (. .))
-(S (NP (DT The) (NNP Lyapunov) (NN function)) (VP (VBZ endows) (NP (DT the) (NN state-space)) (PP (IN with) (NP (DT a) (NNP Finsler) (NN structure)))) (. .))
-(S (NP (JJ Incremental) (NN stability)) (VP (VBZ is) (VP (VBN inferred) (PP (IN from) (NP (NP (JJ infinitesimal) (NN contraction)) (PP (IN of) (NP (DT the) (NNP Finsler) (NNS metrics))))) (PP (IN through) (NP (NP (NN integration)) (PP (IN along) (NP (NNS solutions) (NNS curves))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ new) (NN proof)) (PP (IN of) (NP (NP (NNP Salvati) (POS 's)) (NN theorem) (SBAR (IN that) (S (NP (NP (DT the) (NN group) (NN language)) (NP ($ $) (NNP O_2) ($ $))) (VP (VBZ is) (ADJP (ADJP ($ $) (CD 2) ($ $)) (JJ multiple) (NN context) (JJ free))))))))) (. .))
-(S (PP (IN Unlike) (NP (NP (NNP Salvati) (POS 's)) (NN proof))) (, ,) (NP (PRP$ our) (NNS arguments)) (VP (VBP do) (RB not) (VP (VB use) (NP (NP (DT any) (NN idea)) (ADJP (NN specific) (PP (TO to) (NP (NNS two-dimensions))))))) (. .))
-(S (NP (DT This)) (VP (VBZ raises) (NP (DT the) (NN possibility) (SBAR (IN that) (S (NP (DT the) (NN argument)) (VP (MD might) (VP (VB generalize) (PP (TO to) (NP (QP ($ $) (NNP O_n) ($ $)))))))))) (. .))

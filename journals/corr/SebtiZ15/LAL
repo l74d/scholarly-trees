@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN word) (NN position) (NN automaton)) (VP (VBD was) (VP (VBN introduced) (PP (IN by) (NP (NNP Glushkov) (CC and) (NNP McNaughton))) (PP (IN in) (NP (DT the) (JJ early) (CD 1960))))) (. .))
-(S (NP (NP (DT This) (NN kind)) (PP (IN of) (NP (NN automata)))) (VP (VBZ is) (VP (VBN extended) (PP (TO to) (NP (VB regular) (JJ tree) (NNS expressions))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ following))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (DT the) (NN k-position) (JJ tree) (NN automaton) (NN construction))) (. .))

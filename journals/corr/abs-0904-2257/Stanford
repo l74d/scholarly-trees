@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (NN equality) (NN problem)) (PP (IN for) (NP (NP (JJ infinite) (NNS words)) (VP (VBN obtained) (PP (IN by) (NP (VBG iterating) (NNS morphisms))))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (DT a) (JJ practical) (NN algorithm)) (S (VP (TO to) (VP (VB decide) (SBAR (IN whether) (CC or) (RB not) (S (NP (NP (CD two) (NNS words)) (VP (VBN generated) (PP (IN by) (NP (JJ primitive) (NNS morphisms))))) (VP (VBP are) (ADJP (JJ equal))))))))) (. .))

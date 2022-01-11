@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (NN consensus)) (PP (IN in) (NP (NP (JJ second-order) (JJ multi-agent) (NNS systems)) (PP (IN with) (NP (NP (DT a) (JJ non-periodic) (JJ sampled-data) (NN exchange)) (PP (IN among) (NP (NNS agents)))))))) (VP (VBZ is) (VP (VBN investigated))) (. .))
-(S (NP (DT The) (NN sampling)) (VP (VBZ is) (ADJP (JJ random) (PP (IN with) (NP (JJ bounded) (JJ inter-sampling) (NNS intervals))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN assumed) (SBAR (IN that) (S (NP (DT each) (NN agent)) (VP (VBZ has) (NP (NP (JJ exact) (NN knowledge)) (PP (IN of) (NP (PRP$ its) (JJ own) (NN state)))) (PP (IN at) (NP (DT any) (NN time) (NN instant)))))))) (. .))
-(S (NP (DT The) (VBN considered) (JJ local) (NN interaction) (NN rule)) (VP (VBZ is) (NP (NNP PD-type))) (. .))
-(S (NP (NP (JJ Sufficient) (NNS conditions)) (PP (IN for) (NP (NP (NN stability)) (PP (IN of) (NP (DT the) (NN consensus) (NN protocol))) (PP (TO to) (NP (DT a) (JJ time-invariant) (NN value)))))) (VP (VBP are) (VP (VBN derived) (PP (VBN based) (PP (IN on) (NP (NNP LMIs)))))) (. .))
-(S (NP (JJ Such) (NNS conditions)) (ADVP (RB only)) (VP (VBP require) (NP (NP (DT the) (NN knowledge)) (PP (IN of) (NP (NP (DT the) (NN connectivity)) (PP (IN of) (NP (NP (DT the) (NN graph)) (VP (VBG modeling) (NP (DT the) (NN network) (NN topology))))))))) (. .))
-(S (NP (JJ Numerical) (NNS simulations)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB corroborate) (NP (DT the) (JJ theoretical) (NNS results))))))) (. .))

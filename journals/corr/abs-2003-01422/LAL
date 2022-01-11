@@ -1,7 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ contains) (NP (NP (NNS examples)) (PP (IN for) (NP (NP (DT a) (NN companion) (NN paper)) (`` ``) (NP (NP (DT The) (NNP Prolog) (NNP Debugger)) (CC and) (NP (NNP Declarative) (NNP Programming))) ('' '') (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ discusses) (PRN (-LRB- -LRB-) (IN in) (-RRB- -RRB-)) (NP (NP (NN adequacy)) (PP (IN of) (NP (DT the) (NNP Prolog) (NN debugger))) (PP (IN for) (NP (JJ declarative) (NN programming))))))))))) (. .))
-(S (NP (NNP Logic) (NN programming)) (VP (VBZ is) (NP (DT a) (JJ declarative) (NN programming) (NN paradigm))) (. .))
-(S (NP (VBG Programming) (NN language) (NNP Prolog)) (VP (VBZ makes) (S (NP (JJ logic) (VBG programming)) (ADJP (JJ possible))) (, ,) (PP (ADVP (IN at) (JJS least)) (TO to) (NP (DT a) (JJ substantial) (NN extent)))) (. .))
-(S (ADVP (RB However)) (NP (DT the) (NNP Prolog) (NN debugger)) (VP (VBZ works) (PP (ADVP (RB solely)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (JJ operational) (NNS semantics)))))) (. .))
-(S (IN So) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ incompatible) (PP (IN with) (NP (JJ declarative) (NN programming))))) (. .))
-(S (NP (DT The) (NN companion) (NN paper)) (VP (VBZ tries) (S (VP (TO to) (VP (VB find) (NP (NP (NNS methods)) (PP (IN of) (S (VP (VBG using) (NP (PRP it)) (PP (IN from) (NP (NP (DT the) (JJ declarative) (NN point)) (PP (IN of) (NP (NN view))))))))))))) (. .))
-(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP provide) (NP (NP (NNS examples)) (PP (IN of) (S (VP (VBG applying) (NP (PRP them))))))) (. .))

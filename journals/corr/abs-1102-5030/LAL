@@ -1,4 +1,0 @@
-(S (NP (NNP Spectrum) (NN sensing)) (VP (VBZ is) (ADJP (JJ essential)) (PP (IN in) (NP (JJ cognitive) (NN radio)))) (. .))
-(S (NP (PRP We)) (VP (VBP implement) (NP (DT both) (VBP algorithms)) (PP (IN on) (NP (NNP Lyrtech) (ADJP (NN software) (VBD defined)) (NN radio) (NN platform)))) (. .))
-(S (NP (NNP Hardware) (NN experiment)) (VP (VBZ is) (VP (VBN performed) (S (VP (TO to) (VP (VB verify) (SBAR (S (NP (IN that) (NN feature)) (VP (MD can) (VP (VB be) (VP (VBN learned) (ADVP (RB blindly)))))))))))) (. .))
-(S (S (NP (PRP We)) (VP (VBP compare) (NP (NNP FTM)) (PP (IN with) (NP (NP (DT a) (JJ blind) (NN detector)) (PP (IN in) (NP (NN hardware))))))) (CC and) (S (NP (DT the) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN detection) (NN performance)) (PP (IN for) (NP (NNP FTM)))) (VP (VBZ is) (ADJP (NP (QP (IN about) (CD 3)) (NNS dB)) (RBR better))))))) (. .))

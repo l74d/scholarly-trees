@@ -1,4 +1,0 @@
-(S (S (NP (NP (DT The) (JJ general) (NN set)) (PP (IN of) (NP (NML (NNP HCI) (CC and) (NNP Educational)) (NNS principles)))) (VP (VBP are) (VP (VBN considered)))) (CC and) (S (NP (DT a) (NN classification) (NN system)) (VP (VBN constructed))) (. .))
-(S (NP (NP (DT A) (NN frequency) (NN analysis)) (PP (IN of) (NP (NNS principles)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (ADJP (RBS most) (JJ significant)) (NN set))))))) (. .))
-(S (S (NP (NNP Metrics)) (VP (VBP are) (VP (VBN devised) (S (VP (TO to) (VP (VB provide) (NP (NP (JJ objective) (NNS measures)) (PP (IN of) (NP (DT these) (NNS principles)))))))))) (CC and) (S (NP (DT a) (JJ consistent) (NN testing) (NN regime)) (VP (VBD devised))) (. .))
-(S (NP (DT These) (NNS principles)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB analyse) (NP (NN Blackboard) (CC and) (NN Moodle))))))) (. .))

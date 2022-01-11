@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (DT an) (JJ untyped) (NN lambda) (NN calculus)) (PP (IN with) (NP (NP (NN quantum) (NNS data)) (CC and) (NP (JJ classical) (NN control))))) (. .))
-(S (NP (DT This) (NN work)) (VP (VBZ stems) (PP (IN from) (NP (NP (JJ previous) (NNS proposals)) (PP (PP (IN by) (NP (NNP Selinger) (CC and) (NNP Valiron))) (CC and) (PP (IN by) (NP (NNP Van) (NNP Tonder))))))) (. .))
-(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (NN syntax) (CC and) (NN expressiveness)) (, ,) (PP (RB rather) (IN than) (NP (PRN (-LRB- -LRB-) (JJ denotational) (-RRB- -RRB-)) (NNS semantics)))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (JJ subject) (NN reduction)) (, ,) (NP (NN confluence)) (CC and) (NP (DT a) (NN standardization) (NN theorem)))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT the) (JJ computational) (NN equivalence)) (PP (IN of) (NP (DT the) (VBN proposed) (NN calculus)))) (PP (IN with) (NP (NP (DT a) (JJ suitable) (NN class)) (PP (IN of) (NP (NN quantum) (NN circuit) (NNS families)))))) (. .))

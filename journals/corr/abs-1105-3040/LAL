@@ -1,2 +1,0 @@
-(S (NP (NP (DT An) (JJ infinite-horizon) (JJ optimal) (NN control) (NN problem)) (PP (IN with) (NP (DT a) (JJ free) (NN right) (NN endpoint)))) (VP (VBZ is) (VP (VBN considered))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD proved) (SBAR (IN that) (S (NP (NP (NNP Lyapunov) (NN stability)) (PP (IN of) (NP (DT the) (NN adjoint) (JJ variable)))) (VP (VBG implying) (NP (NP (DT the) (NN vanishing)) (PP (IN of) (NP (DT the) (NN adjoint) (NN variable))) (PP (IN at) (NP (NN infinity))) (PP (IN along) (NP (JJ optimal) (NN solution)))))))) (. .))

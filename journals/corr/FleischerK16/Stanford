@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (JJ descriptional) (NN complexity)) (PP (IN of) (NP (NP (JJ various) (NNS constructions)) (PP (IN for) (NP (ADJP (RB weakly) (VBG recognizing)) (NNS morphisms))))))) (. .))
-(S (PP (IN For) (NP (DT some) (NNS problems))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB give) (NP (ADJP (RBR more) (JJ precise)) (NNS bounds)) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (JJ binary) (NNS alphabets)) (CC or) (NP (JJ simple) (NNS semigroups))))))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (DT Each) (NN view)) (VP (VBZ is) (NP (NP (DT a) (NN string)) (UCP (PP (IN of) (NP (DT the) (JJ same) (NN size))) (CC and) (VP (NN drawn) (PP (IN from) (NP (JJ disjoint) (NNS alphabets))))))) (. .))
-(S (NP (DT The) (NN pattern)) (VP (VBZ is) (VP (VBN drawn) (PP (IN from) (NP (NP (DT the) (NN union)) (PP (IN of) (NP (DT all) (NNS alphabets))))))) (. .))

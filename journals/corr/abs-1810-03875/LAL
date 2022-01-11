@@ -1,6 +1,0 @@
-(S (NP (JJ Semantic) (NN role) (NN theory)) (VP (NNS considers) (NP (VBP roles)) (PP (IN as) (NP (NP (DT a) (JJ small) (JJ universal) (NN set)) (PP (IN of) (NP (JJ unanalyzed) (NNS entities)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ means) (SBAR (IN that) (S (ADVP (RB formally)) (NP (EX there)) (VP (VBP are) (NP (NP (DT no) (NNS restrictions)) (PP (IN on) (NP (NN role) (NNS combinations)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (DT the) (JJ semantic) (NNS roles)) (VP (VBP co-occur) (PP (IN in) (NP (NN verb) (NNS representations))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ means) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ hidden) (NNS restrictions)) (PP (IN on) (NP (NN role) (NNS combinations)))))))) (. .))
-(S (VP (TO To) (VP (VB demonstrate) (SBAR (IN that) (S (NP (DT a) (ADJP (JJ practical) (CC and) (JJ evidence-based)) (NN approach)) (VP (VBZ has) (VP (VBN been) (VP (VBN built) (PP (IN on) (NP (NP (JJ in-depth) (NN analysis)) (PP (IN of) (NP (NP (DT the) (JJS largest) (NN verb) (NN database)) (NP (NNP VerbNet)))))))))))) (. .)))
-(S (NP (NP (DT The) (NNS consequences)) (PP (IN of) (NP (DT this) (NN approach)))) (VP (VBP are) (VP (VBN considered))) (. .))

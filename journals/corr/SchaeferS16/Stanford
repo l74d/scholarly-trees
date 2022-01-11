@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (S (VP (VBG determining) (NP (NP (DT the) (NN rank)) (PP (IN of) (NP (NP (DT a) (NN tensor)) (PP (IN over) (NP (DT a) (NN field)))))))) (VP (VBZ has) (NP (NP (DT the) (JJ same) (NN complexity)) (PP (IN as) (S (VP (VBG deciding) (NP (NP (DT the) (JJ existential) (NN theory)) (PP (IN of) (NP (DT that) (NN field)))))))))))) (. .))
-(S (NP (DT The) (NN hardness) (NN proof)) (ADVP (RB also)) (VP (VBZ implies) (NP (DT an) (JJ algebraic) (NN universality) (NN result))) (. .))

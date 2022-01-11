@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (JJ compact) (NNS notations)) (PP (IN for) (NP (NP (NN concentration) (NNS inequalities)) (CC and) (NP (JJ convenient) (NNS results))))) (S (VP (TO to) (VP (VB streamline) (NP (ADJP (JJ probabilistic)) (NN analysis)))))) (. .))
-(S (NP (DT The) (JJ new) (NNS expressions)) (VP (VBP describe) (NP (NP (DT the) (JJ typical) (NNS sizes) (CC and) (NNS tails)) (PP (IN of) (NP (JJ random) (NNS variables)))) (, ,) (S (VP (VBG allowing) (PP (IN for) (NP (JJ simple) (NNS operations))) (PP (IN without) (NP (NP (JJ heavy) (NN use)) (PP (IN of) (NP (JJ inessential) (NNS constants)))))))) (. .))
-(S (NP (PRP They)) (VP (VBP bridge) (NP (NP (JJ classical) (JJ asymptotic) (NNS notations)) (CC and) (NP (JJ modern) (JJ non-asymptotic) (NN tail) (NNS bounds))) (ADVP (RB together))) (. .))
-(S (NP (NP (NNS Examples)) (PP (IN of) (NP (JJ different) (NNS kinds)))) (VP (VBP demonstrate) (NP (PRP$ their) (NN efficacy))) (. .))

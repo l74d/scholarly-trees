@@ -1,5 +1,0 @@
-(S (NP (NP (NN Electricity) (NN production)) (PP (IN via) (NP (JJ solar) (NN energy)))) (VP (VBZ is) (VP (VBN tackled) (PP (IN via) (NP (NP (NML (JJ short) (HYPH -) (NN term)) (NNS forecasts)) (CC and) (NP (NN risk) (NN management)))))) (. .))
-(S (NP (PRP$ Our) (JJ main) (NN tool)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN setting)) (PP (IN on) (NP (NN time) (NN series))))) (. .))
-(S (NP (PRP It)) (VP (VBZ allows) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (NP (`` ") (NN confidence) (NNS bands) ('' ")) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NNP Gaussian) (NN assumption)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (RB not) (VP (VBN satisfied) (PP (IN by) (NP (PRP$ our) (JJ concrete) (NNS data))))))) (, ,)) (VP (MD may) (VP (VB be) (VP (VBN abandoned)))))))))) (. .))
-(S (NP (DT Those) (NNS bands)) (VP (VBP are) (ADJP (ADJP (RB quite) (JJ convenient)) (CC and) (ADJP (RB easily) (JJ implementable)))) (. .))
-(S (NP (JJ Numerous) (NN computer) (NNS simulations)) (VP (VBP are) (VP (VBN presented))) (. .))

@@ -1,4 +1,0 @@
-(NP (NP (DT This) (NN paper) (NNS deals)) (PP (IN with) (NP (NP (DT the) (JJ complex) (NN problem)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB simulate) (NP (NN multiparticle) (NNS contacts))))))))) (. .))
-(S (NP (DT The) (NN collision) (NN process)) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (NP (NP (DT the) (NN transfer) (CC and) (NN dissipation)) (PP (IN of) (NP (NP (NN energy)) (PP (IN in) (NP (JJ granular) (NNS media))))))))) (. .))
-(S (NP (NP (DT A) (JJ novel) (NN model)) (PP (IN of) (NP (NP (DT the) (NN interaction) (NN force)) (PP (IN between) (NP (NNS particles)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN proposed) (CC and) (VBN tested)))) (. .))
-(S (NP (JJ Such) (NN model)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB simulate) (NP (NP (NN multiparticle) (NNS collisions)) (CC and) (NP (JJ granular) (NN cohesion) (NNS dynamics))))))) (. .))

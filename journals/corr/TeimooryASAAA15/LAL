@@ -1,6 +1,0 @@
-(S (ADVP (RB Recently)) (NP (JJ memristor-based) (NNS applications) (CC and) (NNS circuits)) (VP (VBP are) (VP (VBG receiving) (NP (DT an) (VBN increased) (NN attention)))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (NNS memristors)) (VP (VBP are) (ADVP (RB also)) (VP (VBN applied) (PP (IN in) (NP (JJ logic) (NN circuit) (NN design))))) (. .))
-(S (NP (JJ Material) (NN implication) (NN logic)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS areas)) (PP (IN with) (NP (NNS memristors))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT an) (JJ optimized) (JJ memristor-based) (JJ full) (NN adder) (NN design)) (PP (IN by) (NP (JJ material) (NN implication) (NN logic)))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT This) (NN design)) (VP (VBZ needs) (NP (NP (CD 27) (NNS memristors)) (CC and) (NP (JJR less) (NN area))) (PP (IN in) (NP (NP (NN comparison)) (PP (IN with) (NP (JJ typical) (JJ CMOS-based) (JJ 8-bit) (JJ full) (NNS adders)))))) (. .))
-(S (ADVP (RB Also)) (NP (DT the) (VBN presented) (JJ full) (NN adder)) (VP (VBZ needs) (NP (NP (QP (RB only) (CD 184)) (JJ computational) (NNS steps)) (SBAR (WHNP (WDT which)) (S (VP (VBP enhance) (NP (JJ former) (JJ full) (NN adder) (NN design) (NN speed)) (PP (IN by) (NP (CD 20) (NN percent)))))))) (. .))

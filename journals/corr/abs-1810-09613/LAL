@@ -1,3 +1,0 @@
-(S (NP (DT The) (NNP Santa) (NNP Claus) (NNP Problem)) (VP (VBZ is) (NP (NP (DT an) (JJ intricate) (NN exercise)) (PP (IN for) (NP (NN concurrent) (NN programming))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ outlines) (NP (NP (DT the) (JJ refinement) (NNS steps)) (SBAR (S (VP (TO to) (VP (VB develop) (NP (NP (DT a) (ADJP (RB highly) (JJ efficient)) (NN implementation)) (PP (IN with) (NP (JJ concurrent) (NNS objects)))) (, ,) (S (VP (VBG starting) (PP (IN from) (NP (DT a) (JJ simple) (NN specification))))))))))) (. .))
-(S (NP (NP (DT The) (NN efficiency)) (PP (IN of) (NP (DT the) (NN implementation)))) (VP (VBZ is) (VP (VBN compared) (PP (TO to) (NP (NP (DT those)) (PP (IN in) (NP (JJ other) (NNS languages))))))) (. .))

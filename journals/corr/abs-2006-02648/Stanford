@@ -1,8 +1,0 @@
-(S (NP (PRP We)) (VP (VBD modeled) (NP (DT the) (NNP Quora) (NN question) (NNS pairs) (NN dataset)) (S (VP (TO to) (VP (VB identify) (NP (DT a) (JJ similar) (NN question)))))) (. .))
-(S (NP (NP (DT The) (NN dataset)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBP use))))) (VP (VBZ is) (VP (VBN provided) (PP (IN by) (NP (NNP Quora))))) (. .))
-(S (NP (DT The) (NN task)) (VP (VBZ is) (NP (DT a) (JJ binary) (NN classification))) (. .))
-(S (NP (PRP We)) (VP (VBD tried) (NP (NP (JJ several) (NNS methods) (CC and) (NNS algorithms)) (CC and) (NP (JJ different) (NN approach))) (PP (IN from) (NP (JJ previous) (NNS works)))) (. .))
-(S (PP (IN For) (NP (NN feature) (NN extraction))) (, ,) (NP (PRP we)) (VP (VBD used) (NP (NP (NN Bag)) (PP (IN of) (NP (NP (NNS Words)) (PP (VBG including) (NP (NP (NNP Count) (NNP Vectorizer)) (, ,) (CC and) (NP (ADJP (NP (NN Term) (NN Frequency)) (HYPH -) (JJ Inverse)) (NN Document) (NN Frequency))))))) (PP (IN with) (NP (NN unigram))) (PP (IN for) (NP (NNP XGBoost) (CC and) (NNP CatBoost)))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBD experimented) (PP (IN with) (NP (NP (NNP WordPiece) (NN tokenizer)) (SBAR (WHNP (WDT which)) (S (VP (VBZ improves) (NP (DT the) (NN model) (NN performance)) (ADVP (RB significantly)))))))) (. .))
-(S (NP (PRP We)) (VP (VBD achieved) (PRT (RP up)) (PP (IN to) (NP (CD 97) (NN percent) (NN accuracy)))) (. .))
-(NP (NN Code) (CC and) (NN Dataset) (. .))

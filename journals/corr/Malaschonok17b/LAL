@@ -1,2 +1,0 @@
-(S (NP (NP (NNP New) (NN solution) (NN method)) (PP (IN for) (NP (NP (DT the) (NNS systems)) (PP (IN of) (NP (JJ linear) (NNS equations))) (PP (IN in) (NP (JJ commutative) (JJ integral) (NNS domains)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (PRP$ Its) (NN complexity)) (VP (VBZ is) (NP (NP (DT the) (JJ same)) (SBAR (IN that) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT the) (JJ matrix) (NN multiplication))))))) (. .))

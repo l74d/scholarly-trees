@@ -1,1 +1,0 @@
-(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (SBAR (IN if) (S (NP ($ $) (NNP P) ($ $)) (VP (VBZ is) (ADJP (JJ countable))))) (, ,) (NP (DT this) (NN tileset)) (VP (VBZ has) (NP (NP (DT the) (JJ exact) (JJ same) (NN set)) (PP (IN of) (NP (VBG Turing) (NNS degrees))))) (. .))

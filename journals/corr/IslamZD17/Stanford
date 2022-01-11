@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ provides) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (NML (NN power) (HYPH -) (NN domain)) (JJ non-orthogonal) (JJ multiple) (NN access)) (PP (IN for) (NP (NN 5G) (NNS systems))))))) (. .))
-(S (NP (DT The) (JJ basic) (NNS concepts) (CC and) (NNS benefits)) (VP (VBP are) (ADVP (RB briefly)) (VP (VBN presented) (, ,) (PP (IN along) (PP (IN with) (NP (NP (JJ current) (NNS solutions)) (CC and) (NP (NN standardization) (NNS activities))))))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNS limitations) (CC and) (NN research) (NNS challenges)) (VP (VBP are) (VP (VBN discussed))) (. .))

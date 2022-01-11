@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (JJ several) (NNS occasions))) (NP (PRP we)) (VP (VBP obtain) (NP (NN quantum) (NNS codes)) (PP (IN with) (NP (NP (ADJP (RB stricly) (VBN improved)) (NNS parameters)) (PP (IN than) (NP (DT the) (JJ current) (NN record)))))) (. .))
-(S (PP (IN In) (NP (JJ numerous) (JJ other) (NNS occasions))) (NP (PRP we)) (VP (VBP obtain) (NP (NN quantum) (NNS codes)) (PP (IN with) (NP (ADJP (JJS best) (HYPH -) (VBN known)) (NN performance)))) (. .))
-(S (PP (IN For) (NP (DT the) (NN qutrit) (NNS ones))) (NP (PRP we)) (VP (VBP supply) (NP (DT a) (JJ systematic) (NN construction)) (S (VP (TO to) (VP (VB fill) (NP (DT some) (NNS gaps)) (PP (IN in) (NP (DT the) (NN literature))))))) (. .))

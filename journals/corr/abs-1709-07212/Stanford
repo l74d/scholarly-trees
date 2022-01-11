@@ -1,5 +1,0 @@
-(S (NP (NP (VBN Unsupervised) (NN image) (NN segmentation)) (CC and) (NP (NN denoising))) (VP (VBP are) (NP (NP (CD two) (JJ fundamental) (NNS tasks)) (PP (IN in) (NP (NN image) (NN processing))))) (. .))
-(S (S (ADVP (RB Usually)) (, ,) (NP (NP (NN graph)) (VP (VBN based) (NP (NP (NNS models)) (PP (JJ such) (IN as) (NP (NN multicut)))))) (VP (VBP are) (VP (VBN used) (PP (IN for) (NP (NN segmentation)))))) (CC and) (S (NP (JJ variational) (NNS models)) (VP (VBP are) (VP (VBN employed) (PP (IN for) (NP (NN denoising)))))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (VBZ addresses) (NP (DT both) (NNS problems)) (PP (IN at) (NP (DT the) (JJ same) (NN time)))) (. .))
-(S (NP (DT The) (NNP ILP)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN solved) (PP (IN by) (NP (DT a) (NML (NML (NN standard)) (PP (IN off) (HYPH -) (NP (DT the) (HYPH -) (NN shelf)))) (NN MIP) (NN solver))))) (. .))
-(S (NP (NNP Numerical) (NNS experiments)) (VP (VBP are) (PP (VBN compared) (PP (IN with) (NP (DT the) (NN multicut) (NN problem))))) (. .))

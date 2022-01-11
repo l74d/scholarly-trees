@@ -1,2 +1,0 @@
-(S (NP (DT A) (ADJP (NN sufficient) (CC and) (JJ necessary)) (NN condition)) (VP (VBZ is) (VP (VBN given) (SBAR (WHPP (WHPP (IN under) (WHNP (WDT which))) (ADVP (JJS least))) (NP (NNP Herbrand) (NNS models)) (VP (ADVP (RB exactly)) (VBP characterize) (NP (NP (DT the) (NNS answers)) (PP (IN of) (NP (JJ definite) (NN clause) (NNS programs)))))))) (. .))
-(S (TO To) (VP (VB appear) (PP (IN in) (NP (NP (NP (NNP Theory) (CC and) (NNP Practice)) (PP (IN of) (NP (NNP Logic) (NNP Programming)))) (PRN (-LRB- -LRB-) (NP (NNP TPLP)) (-RRB- -RRB-))))) (. .))

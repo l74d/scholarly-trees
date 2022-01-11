@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT the) (JJ first) (JJ polynomial-time) (NN algorithm)) (PP (IN for) (S (VP (VBG coloring) (NP (NP (NNS vertices)) (PP (IN of) (NP (NNP P_5-free) (NN graphs)))) (PP (IN with) (NP (NN k) (NNS colors)))))))) (. .))
-(S (NP (DT This)) (VP (VP (VBZ settles) (NP (DT an) (JJ open) (NN problem))) (CC and) (VP (VBZ generalizes) (NP (JJ several) (ADJP (RB previously) (VBN known)) (NNS results)))) (. .))

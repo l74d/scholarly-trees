@@ -1,3 +1,0 @@
-(S (NP (NP (NNP Chang) (POS 's)) (NN lemma)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ useful) (NN tool)) (PP (IN in) (NP (JJ additive) (NNS combinatorics)))) (CC and) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (JJ Boolean) (NNS functions)))))) (. .))
-(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP give) (NP (DT an) (JJ elementary) (NN proof)) (S (VP (VBG using) (NP (NN entropy))))) (. .))
-(S (S (NP (NP (DT The) (JJ constant)) (SBAR (S (NP (PRP we)) (VP (VBP obtain))))) (VP (VBZ is) (ADJP (JJ tight)))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP give) (NP (DT a) (JJ slight) (NN improvement)) (PP (IN in) (NP (DT the) (NN case))) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS variables)) (VP (VBP are) (ADJP (RB highly) (JJ biased))))))) (. .))

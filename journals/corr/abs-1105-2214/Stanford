@@ -1,4 +1,0 @@
-(S (NP (NP (DT An) (JJ improved) (JJ mathematical) (NN model)) (PP (IN of) (NP (JJ social) (NN group) (NN competition)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (NP (DT The) (NN utility)) (VP (VBN obtained) (PP (IN by) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT a) (JJ certain) (NN group))))) (PP (IN from) (NP (DT each) (JJ other) (NN member))))) (VP (VBZ is) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (NP (NP (NN group)) (ADJP (NN size) (HYPH -) (JJ dependent)))))))) (. .))
-(S (NP (VBN Obtained) (NNS results)) (VP (VBP are) (ADJP (JJ close) (PP (IN to) (NP (JJ available) (NN census) (NNS data))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT a) (JJ significant) (NN fraction)) (PP (IN of) (NP (NN population)))) (VP (MD can) (VP (VB be) (VP (VBN affiliated) (PP (IN in) (NP (NP (DT a) (NN group)) (PP (IN with) (NP (JJR lower) (ADJP (JJ maximal) (JJ specific)) (NN utility)))))))))))) (. .))

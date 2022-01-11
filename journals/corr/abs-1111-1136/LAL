@@ -1,8 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (JJ online) (NN estimation)) (PP (IN of) (NP (NP (DT a) (JJ real-valued) (NN signal)) (VP (VBN corrupted) (PP (IN by) (NP (JJ oblivious) (JJ zero-mean) (NN noise)))))) (VP (VBG using) (NP (JJ linear) (NNS estimators))))))) (. .))
-(S (S (NP (DT The) (NN estimator)) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (ADVP (RB iteratively)) (VB predict) (NP (DT the) (VBG underlying) (NN signal)) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NX (JJ current))) (CC and) (JJ several) (JJ last) (JJ noisy) (NNS observations)))))))))) (, ,) (CC and) (S (NP (PRP$ its) (NN performance)) (VP (VBZ is) (VP (VBN measured) (PP (IN by) (NP (DT the) (NN mean-square-error)))))) (. .))
-(S (NP (PRP We)) (VP (VBP describe) (CC and) (VBP analyze) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (DT this) (NN task))) (SBAR (WHNP (WDT which)) (: :) (FRAG (CD 1))))) (. .))
-(S (VP (NNS Achieves) (NP (JJ logarithmic) (JJ adaptive) (NN regret)) (PP (IN against) (NP (NP (DT the) (JJS best) (JJ linear) (NN filter)) (PP (IN in) (NP (NN hindsight)))))) (. .))
-(S (NP (DT This) (NN bound)) (VP (VP (VBZ is) (ADJP (RB assyptotically) (JJ tight))) (, ,) (CC and) (VP (VBZ resolves) (NP (NP (NP (DT the) (NN question)) (PP (IN of) (NP (NNP Moon) (CC and) (NNP Weissman)))) (PRN (VBD -LSB-) (CD 1) (NN -RSB-))))) (. .))
-(NP (CD 2) (. .))
-(S (VP (NNS Runs) (PP (IN in) (NP (JJ linear) (NN time))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ filter) (NNS coefficients)))))))) (. .))
-(S (NP (JJ Previous) (NNS constructions)) (VP (VBN required) (NP (ADVP (IN at) (JJS least)) (JJ quadratic) (NN time))) (. .))

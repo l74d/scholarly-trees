@@ -1,5 +1,0 @@
-(S (NP (NP (DT A) (JJ simple) (NN scheme)) (PP (IN for) (NP (JJ incompressible) (, ,) (JJ constant) (NN density)))) (VP (VBZ flows) (SBAR (S (VP (VBZ is) (VP (VBN presented) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ avoids) (NP (ADJP (JJ odd) (HYPH -) (JJ even)) (NN decoupling)) (PP (IN for) (NP (NP (DT the) (NNP Laplacian)) (PP (IN on) (NP (DT a) (JJ collocated) (NNS grids))))))))))))) (. .))
-(S (NP (NNP Energy) (NN stability)) (VP (VBZ is) (VP (VBN implied) (PP (IN by) (S (VP (VBG maintaining) (NP (JJ strict) (NN energy) (NN conservation))))))) (. .))
-(S (NP (NN Momentum)) (VP (VBZ is) (VP (VBN conserved))) (. .))
-(S (NP (NP (JJ Arbitrary) (NN order)) (PP (IN in) (NP (NN space) (CC and) (NN time)))) (VP (MD can) (ADVP (RB easily)) (VP (VB be) (VP (VBN obtained)))) (. .))
-(S (NP (DT The) (NN conservation) (NNS properties)) (VP (VBP hold) (PRT (RP on)) (NP (VBN transformed) (NNS grids))) (. .))

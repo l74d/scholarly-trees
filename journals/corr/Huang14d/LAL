@@ -1,1 +1,0 @@
-(S (NP (DT A) (PRN (-LRB- -LRB-) (JJ deterministic) (-RRB- -RRB-)) (JJ polynomial-time) (NN algorithm)) (VP (VBZ is) (VP (VBN proposed) (PP (IN for) (S (VP (VBG approximating) (NP (NP (DT the) (NN ground) (NN state)) (PP (IN of) (NP (PRN (-LRB- -LRB-) (JJ general) (-RRB- -RRB-)) (JJ one-dimensional) (JJ gapped) (NNPS Hamiltonians))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (NNS classifications)) (PP (IN of) (NP (NP (JJ quasitrivial) (NNS semigroups)) (VP (VBN defined) (PP (IN by) (NP (JJ certain) (NN equivalence) (NNS relations)))))))) (. .))
-(S (NP (NP (DT The) (NN subclass)) (PP (IN of) (NP (NP (JJ quasitrivial) (NNS semigroups)) (SBAR (WHNP (WDT that)) (S (VP (VBP preserve) (NP (DT a) (VBN given) (JJ total) (NN ordering)))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN investigated))) (. .))
-(S (PP (IN In) (NP (NP (DT the) (JJ special) (NN case)) (PP (IN of) (NP (JJ finite) (NNS semigroups))))) (, ,) (NP (PRP we)) (VP (VBP address) (CC and) (VBP solve) (NP (JJ several) (JJ related) (NN enumeration) (NNS problems))) (. .))

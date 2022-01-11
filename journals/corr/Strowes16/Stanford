@@ -1,3 +1,0 @@
-(S (NP (NN IPv6) (NN activity)) (VP (VBZ is) (ADVP (RB commonly)) (VP (VBN reported) (PP (IN as) (NP (NP (DT a) (NN fraction)) (PP (IN of) (NP (NP (NN network) (NN traffic)) (PP (IN per) (NP (NN day))))))))) (. .))
-(S (PP (IN Within) (NP (DT this) (NN traffic))) (, ,) (ADVP (RB however)) (, ,) (VP (VBP are) (NP (NP (NP (JJ daily)) (CC and) (NP (JJ weekly) (NNS characteristics))) (, ,) (VP (VBN driven) (PP (IN by) (NP (NP (JJ non-uniform) (NN IPv6) (NN deployment)) (PP (IN across) (NP (NNS ISPs) (CC and) (NNS regions)))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJR more) (JJ apparent) (NNS patterns)) (SBAR (S (NP (PRP we)) (VP (VBP observe) (NP-TMP (NN today))))))))) (. .))

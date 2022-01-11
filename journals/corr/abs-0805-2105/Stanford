@@ -1,3 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (S (NP (DT this) (NN phenomenon)) (VP (VBZ possesses) (NP (DT a) (NN phase) (NN transition))))))) (. .))
-(S (NP (NP (DT The) (JJ remaining) (NN range)) (PP (IN of) (NP (NP (NML (NN probability) (NML ($ $))) (NN p)) (NP ($ $))))) (VP (VBZ is) (VP (VBN discussed) (PP (IN with) (NP (JJR more) (NN attention))))) (. .))
-(FRAG (S (NP (DT A) (JJ detailed) (NN study)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT this) (NN problem)) (VP (VBZ is) (VP (VBN answered) (PP (IN by) (NP (NP (NN examination)) (PP (IN of) (NP (NP (JJ sub-logarithmic) (NN growth)) (PP (IN of) (NP (NP ($ $)) (SBAR (S (VP (VBP r) (FRAG (NP ($ $)) (PP (IN upon)))))))))))))))))) (FRAG (NP ($ $)) (NP (NN n)) (NP ($ $))) (. .))

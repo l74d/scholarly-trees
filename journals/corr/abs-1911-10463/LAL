@@ -1,2 +1,0 @@
-(S (NP (JJ Petrov-Galerkin) (NNS methods)) (VP (VBP are) (ADVP (RB always)) (VP (VBN considered) (PP (IN in) (NP (NP (JJ numerical) (NNS solutions)) (PP (IN of) (NP (NP (JJ differential) (CC and) (JJ integral) (NNS equations)) (NP ($ $) (NNP Ax=b) ($ $)))))))) (. .))
-(S (NP (JJ Several) (NNS applications)) (VP (VBP show) (NP (PRP$ its) (NN power))) (. .))

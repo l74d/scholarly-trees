@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN method)) (SBAR (S (VP (TO to) (VP (VB embed) (NP (NNS data)) (PP (IN in) (NP (NP (JJ binary) (NNS images)) (, ,) (PP (VBG including) (NP (NP (VBN scanned) (NN text)) (, ,) (NP (NNS figures)) (, ,) (CC and) (NP (NNS signatures)))))))))))) (. .))
-(S (NP (PRP$ Our) (NN method)) (VP (NNS relies) (PP (IN on) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (JJ wet) (NN paper) (NNS codes)))))) (. .))
-(S (NP (NP (DT The) (NN shuffling)) (PP (IN before) (NP (NN embedding)))) (VP (VBZ is) (VP (VBN used) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB equalize) (NP (NP (JJ irregular) (VBG embedding) (NN capacity)) (PP (IN from) (NP (NP (JJ diverse) (NNS areas)) (PP (IN in) (NP (DT the) (NN image)))))))))))) (. .))
-(S (NP (DT The) (JJ hidden) (NNS data)) (VP (MD can) (VP (VB be) (VP (VBN extracted) (PP (IN without) (NP (DT the) (JJ original) (JJ binary) (NN image)))))) (. .))
-(S (NP (PRP We)) (VP (VBP illustrate) (NP (NP (DT some) (NNS examples)) (PP (IN of) (NP (JJ watermarked) (JJ binary) (NNS images))) (PP (IN after) (NP (JJ wet) (NN paper) (NN coding))))) (. .))

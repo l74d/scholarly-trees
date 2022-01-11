@@ -1,6 +1,0 @@
-(S (NP (NP (NNS Developers)) (PP (IN of) (NP (DT some) (NN safety) (JJ critical) (NNS systems)))) (VP (VB construct) (NP (DT a) (NN safety) (NN case))) (. .))
-(S (NP (NP (NNP Developers)) (VP (VBG changing) (NP (DT a) (NN system)) (PP (PP (IN during) (NP (NN development))) (CC or) (PP (IN after) (NP (NN release)))))) (VP (MD must) (VP (VB analyse) (NP (NP (DT the) (NN change) (POS 's)) (NN impact)) (PP (IN on) (NP (DT the) (NN safety) (NN case))))) (. .))
-(S (NP (NN Evidence)) (VP (MD might) (VP (VB be) (VP (VBN invalidated) (PP (IN by) (NP (NNS changes))) (PP (IN to) (NP (NP (DT the) (NN system) (NN design)) (, ,) (NP (NN operation)) (, ,) (CC or) (NP (JJ environmental) (NN context))))))) (. .))
-(S (NP (NP (NNS Assumptions)) (ADJP (JJ valid) (PP (IN in) (NP (CD one) (NN context))))) (VP (MD might) (VP (VB be) (ADJP (JJ invalid)) (ADVP (RB elsewhere)))) (. .))
-(S (NP (NP (DT The) (NN impact)) (PP (IN of) (NP (NN change)))) (VP (MD might) (RB not) (VP (VB be) (ADJP (JJ obvious)))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (DT a) (NN method) (S (VP (TO to) (VP (VB facilitate) (NP (NN safety) (NN case) (NN maintenance)) (PP (IN by) (S (VP (VBG highlighting) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NNS changes)))))))))))) (. .))

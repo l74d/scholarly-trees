@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN document)) (VP (VBZ describes) (NP (NP (DT the) (NN machine) (NN translation) (NN system)) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NNS submissions)) (PP (IN of) (NP (NNP IIIT-Hyderabad) (NNP CVIT-MT))) (PP (IN for) (NP (DT the) (JJ WAT-2018) (JJ English-Hindi) (NN translation) (NN task)))))))) (. .))
-(S (NP (NN Performance)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (NP (DT the) (JJ associated) (NN corpus)) (VP (VBN provided) (PP (IN by) (NP (DT the) (NNS organizers)))))))) (. .))
-(S (NP (PRP We)) (VP (VBD experimented) (PP (IN with) (NP (JJ convolutional) (UCP (NN sequence) (TO to) (VB sequence)) (NNS architectures)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP train) (PP (IN with) (NP (NP (JJ additional) (NNS data)) (VP (VBN obtained) (PP (IN through) (NP (NN backtranslation))))))) (. .))

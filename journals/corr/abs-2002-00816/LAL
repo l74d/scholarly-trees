@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VP (VBP study) (NP (VBN randomized) (JJ optimal) (NN stopping) (NNS problems))) (CC and) (VP (VB consider) (NP (VBG corresponding) (ADVP (RB forward) (CC and) (RB backward)) (NNP Monte) (NNP Carlo) (VBN based) (NN optimisation) (NN algorithms)))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (NP (PRP we)) (VP (VP (VBP prove) (NP (NP (DT the) (NN convergence)) (PP (IN of) (NP (DT the) (VBN proposed) (NN algorithms))))) (CC and) (VP (VB derive) (NP (DT the) (JJ corresponding) (NN convergence) (NNS rates)))) (. .))

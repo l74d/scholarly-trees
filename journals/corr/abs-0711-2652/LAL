@@ -1,2 +1,0 @@
-(S (NP (NP (DT Each) (NN compact) (VBD manifold) (NNP M)) (PP (IN of) (NP (JJ finite) (NN dimension) (NN k)))) (VP (VP (VBZ is) (ADJP (JJ differentiable))) (CC and) (VP (VBZ supports) (NP (DT an) (JJ intrinsic) (NN probability) (NN measure)))) (. .))
-(S (NP (EX There)) (ADVP (RB then)) (VP (VBZ exists) (NP (NP (DT a) (JJ measurable) (NN transformation)) (PP (IN of) (NP (NNP M))) (PP (TO to) (NP (NP (DT the) (JJ k-dimensional) (`` ``) (NN surface) ('' '')) (PP (IN of) (NP (DT the) (ADJP (-LRB- -LRB-) (NN k+1) (-RRB- -RRB-) (JJ -dimensional)) (NN ball))))))) (. .))

@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT the) (JJ independent) (NN set) (NN enumeration) (NN problem))) (. .))
-(S (SBAR (IN Although) (S (NP (NP (JJ several) (JJ efficient) (NN enumeration) (NN algorithms)) (CC and) (NP (JJ careful) (NNS analyses))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN for) (NP (JJ maximal) (JJ independent) (NNS sets)))))))) (, ,) (NP (DT no) (JJ fine-grained) (NN analysis)) (VP (VBZ has) (VP (VBN been) (VP (VBN given) (PP (IN for) (NP (DT the) (JJ non-maximal) (NN variant)))))) (. .))

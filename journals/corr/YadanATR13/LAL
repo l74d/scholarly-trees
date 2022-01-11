@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP evaluate) (NP (NP (JJ different) (NNS approaches)) (SBAR (S (VP (TO to) (VP (VB parallelize) (NP (NP (NN computation)) (PP (IN of) (NP (JJ convolutional) (JJ neural) (NNS networks)))) (PP (IN across) (NP (JJ several) (NNP GPUs))))))))) (. .))

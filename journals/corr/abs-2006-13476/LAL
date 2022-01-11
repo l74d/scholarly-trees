@@ -1,2 +1,0 @@
-(S (ADVP (RB Together)) (, ,) (NP (DT these) (NNS results)) (VP (VBP characterize) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NP (JJ non-convex) (JJ stochastic) (NN optimization)) (UCP (PP (IN with) (NP (JJ second-order) (NNS methods))) (CC and) (ADVP (IN beyond))))))) (. .))
-(S (NP (NP (PRP$ Our) (JJR lower) (NNS bounds)) (ADVP (RB here))) (VP (VBP are) (ADJP (JJ novel)) (PP (ADVP (RB even)) (IN in) (NP (DT the) (JJ noiseless) (NN case)))) (. .))

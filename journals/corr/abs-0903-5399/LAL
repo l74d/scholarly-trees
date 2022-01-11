@@ -1,1 +1,0 @@
-(S (NP (NP (DT The) (NN problem)) (PP (IN of) (SBAR (IN whether) (S (NP (NP (NN minimax) (NN redundancy)) (, ,) (NP (NN minimax) (NN regret)) (CC and) (NP (NNP Jeffreys) (NNS integrals))) (VP (VBP are) (ADJP (JJ finite) (CC or) (JJ infinite))))))) (VP (VBP are) (VP (VBN discussed))) (. .))

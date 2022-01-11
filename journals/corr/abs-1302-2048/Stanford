@@ -1,5 +1,0 @@
-(S (PP (IN For) (NP (NP (NNS stegoschemes)) (VP (VBG arising) (PP (IN from) (NP (ADJP (NN error) (VBG correcting)) (NNS codes)))))) (, ,) (NP (VBG embedding)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT a) (NN decoding) (NN map)) (PP (IN for) (NP (DT the) (VBG corresponding) (NN code)))))) (. .))
-(S (SBAR (IN As) (S (NP (VBG decoding) (NNS maps)) (VP (VBP are) (ADVP (RB usually)) (RB not) (ADJP (JJ complete))))) (, ,) (NP (NN embedding)) (VP (MD can) (VP (VB fail))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (NN method)) (S (VP (TO to) (VP (VB ensure) (CC or) (VB increase) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NP (VBG embedding) (NN success)) (PP (IN for) (NP (DT these) (NNS stegoschemes)))))))))) (. .))
-(S (NP (DT This) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (VBG puncturing) (NNS codes))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN use)) (PP (IN of) (NP (VBN punctured) (NNS codes)))) (VP (MD may) (ADVP (RB also)) (VP (VB increase) (NP (NP (DT the) (NN embedding) (NN efficiency)) (PP (IN of) (NP (DT the) (ADJP (VBN obtained)) (NNS stegoschemes))))))))) (. .))

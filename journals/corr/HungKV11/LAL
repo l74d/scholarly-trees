@@ -1,8 +1,0 @@
-(S (VP (VB Let) (S (NP (PRP k)) (VP (VB be) (NP (DT a) (JJ natural) (NN number))))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (JJ k-threshold) (NN graphs))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ exists) (NP (NP (DT an) (NNP O) (PRN (-LRB- -LRB-) (NN n^3) (-RRB- -RRB-)) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN recognition)) (PP (IN of) (NP (JJ k-threshold) (NN graphs))) (PP (IN for) (NP (DT each) (JJ natural) (NN number)))))))))) (VB k.) (S (NP (JJ k-Threshold) (NNS graphs)) (VP (VBP are) (VP (VBN characterized) (PP (IN by) (NP (NP (DT a) (JJ finite) (NN collection)) (PP (IN of) (NP (NN forbidden) (VBN induced) (NN subgraphs))))))))) (. .))
-(S (PP (IN For) (NP (DT the) (NN case) (VBZ k=2))) (NP (PRP we)) (VP (VBP characterize) (NP (DT the) (JJ partitioned) (JJ 2-threshold) (NN graphs)) (PP (IN by) (NP (NN forbidden) (VBN induced) (NN subgraphs)))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (ADJP (VBN restricted) (: -) (, ,) (CC and) (JJ special)) (JJ 2-threshold) (NN graphs))) (. .))
-(S (NP (PRP We)) (VP (VBP characterize) (NP (DT both) (NNS classes)) (PP (IN by) (NP (NN forbidden) (VBN induced) (NN subgraphs)))) (. .))
-(S (NP (DT The) (VBN restricted) (JJ 2-threshold) (NNS graphs)) (VP (NN coincide) (PP (IN with) (NP (NP (DT the) (VBG switching) (NN class)) (PP (IN of) (NP (JJ threshold) (NN graphs)))))) (. .))
-(S (NP (DT This)) (VP (VBZ provides) (NP (NP (DT a) (NN decomposition) (NN theorem)) (PP (IN for) (NP (NP (DT the) (VBG switching) (NN class)) (PP (IN of) (NP (JJ threshold) (NN graphs))))))) (. .))

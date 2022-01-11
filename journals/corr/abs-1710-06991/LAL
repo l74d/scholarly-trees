@@ -1,2 +1,0 @@
-(S (NP (DT Any) (NN polyhedron)) (VP (VBZ accommodates) (NP (NP (DT a) (NN type)) (PP (IN of) (NP (JJ potential) (JJ theoretic) (NN skeleton))) (VP (VBD called) (S (NP (DT a) (NN mother) (NN body)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP attempt) (S (VP (TO to) (VP (VB apply) (NP (NP (DT the) (JJ brilliant) (NN idea)) (PP (IN of) (NP (NN mother) (NN body)))) (PP (TO to) (NP (NNPS Electrostatics))) (S (VP (TO to) (VP (VB compute) (NP (NP (DT the) (NNS potentials)) (PP (IN of) (NP (JJ electric) (NNS fields))))))))))) (. .))

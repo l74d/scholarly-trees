@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN problem) (VBG setting)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP call) (S (`` ``) (NP (NP (DT the) (NN freedom) (NNS fighters) (POS ›)) (NN problem)) ('' ''))))))) (. .))
-(S (NP (PRP It)) (VP (ADVP (RB subtly)) (VBZ differs) (PP (IN from) (NP (NP (DT the) (NNS prisoners) (POS ›)) (NN problem)))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ steganographic) (NN method)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (NP (NNP Alice) (CC and) (NNP Bob)) (VP (TO to) (VP (VB fool) (NP (NNP Wendy) (NP (DT the) (NN warden))) (PP (IN in) (NP (DT this) (NN setting))))))))))) (. .))
-(S (NP (PRP$ Their) (NNS messages)) (VP (VBP are) (VP (VBN hidden) (PP (IN in) (NP (NN encryption) (NNS keys))))) (. .))
-(S (NP (DT The) (NN recipient)) (VP (VP (VBZ has) (NP (NP (DT no) (JJ prior) (NN knowledge)) (PP (IN of) (NP (DT these) (NNS keys))))) (, ,) (CC and) (VP (VBZ has) (S (VP (TO to) (VP (VB cryptanalyze) (NP (NN ciphertexts)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB recover) (NP (PRP them))))))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP show) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (DT the) (NN protocol))))) (CC and) (VP (VB give) (NP (DT a) (JJ partial) (NN security) (NN analysis)))) (. .))

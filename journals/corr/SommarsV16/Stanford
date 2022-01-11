@@ -1,2 +1,0 @@
-(S (NP (DT The) (JJ cyclic) (NML (NN n) (HYPH -) (NNS roots)) (NN problem)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN benchmark) (NN problem)) (PP (IN for) (NP (ADJP (JJ polynomial)) (NN system) (NNS solvers))))) (. .))
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN pruning)) (PP (IN of) (NP (NP (NN cone) (NNS intersections)) (PP (IN for) (NP (DT a) (JJ polyhedral) (NN method)))))) (S (VP (TO to) (VP (VB compute) (NP (NN series)) (PP (IN for) (NP (DT the) (NN solution) (NNS curves))))))) (. .))

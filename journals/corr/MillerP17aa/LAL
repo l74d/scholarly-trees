@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN rule)) (PP (IN of) (NP (PRP$ our) (NN algorithm)))) (VP (VBZ is) (S (VP (TO to) (VP (VB forward) (NP (DT a) (NN packet)) (SBAR (RB only) (IN if) (S (NP (PRP$ its) (JJ next) (NN buffer)) (VP (VBZ is) (ADJP (RB completely) (JJ empty))))))))) (. .))
-(S (S (NP (DT The) (NN policy)) (VP (VBZ is) (ADJP (VBN centralized)))) (: :) (S (PP (IN in) (NP (DT a) (JJ single) (NN step))) (, ,) (NP (NP (DT a) (JJ long) (`` ``) (NN train) ('' '')) (PP (IN of) (NP (NNS packets)))) (VP (MD may) (VP (VB progress) (ADVP (RB together))))) (. .))

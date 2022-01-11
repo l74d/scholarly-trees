@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (NP (DT a) (NN representation)) (PP (IN of) (NP (NNP Quantum) (NNPS Computers)))) (VP (VBZ defines) (NP (NP (NNP Quantum) (NNP Turing) (NNPS Machines)) (PP (IN with) (NP (VBN associated) (NML (NNP Quantum) (NNP Grammars))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP create) (NP (NP (NNS examples)) (PP (IN of) (NP (NNP Quantum) (NNP Grammars))))) (. .))
-(S (ADVP (RB Lastly)) (NP (PRP we)) (VP (VBP develop) (NP (DT an) (JJ algebraic) (NN approach)) (PP (IN to) (NP (NML (JJ high) (NN level)) (NNP Quantum) (NNPS Languages))) (S (VP (VBG using) (NP (NML (NML (NML (NNP Quantum) (NNP Assembly)) (NN language)) (CC and) (NML (NNP Quantum) (NNP C))) (NN language)) (PP (IN as) (NP (NNS examples)))))) (. .))

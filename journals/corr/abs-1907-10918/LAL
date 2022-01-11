@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP review) (NP (NP (DT the) (ADJP (RB recently) (VBN introduced)) (JJ soft-aided) (NN bit-marking) (PRN (-LRB- -LRB-) (NP (NNP SABM)) (-RRB- -RRB-)) (NN algorithm)) (CC and) (NP (NP (PRP$ its) (NN suitability)) (PP (IN for) (NP (NN product) (NNS codes)))))) (. .))
-(S (NP (NP (DT Some) (NNS aspects)) (PP (IN of) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (DT the) (NNP SABM) (NN algorithm)))))) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (NP (NP (DT The) (NN influence)) (PP (IN of) (NP (JJ suboptimal) (NNS channel) (JJ soft) (NN information)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN analyzed))) (. .))

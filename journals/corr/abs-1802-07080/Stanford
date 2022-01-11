@@ -1,2 +1,0 @@
-(S (NP (JJ Relative) (NML (JJS worst) (HYPH -) (NN order)) (NN analysis)) (VP (VBZ is) (NP (NP (DT a) (NN technique)) (PP (IN for) (S (VP (VBG assessing) (NP (NP (DT the) (JJ relative) (NN quality)) (PP (IN of) (NP (JJ online) (NNS algorithms))))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP survey) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS results)) (VP (VBN obtained) (PP (IN with) (NP (DT this) (NN technique)))))) (CC and) (VP (VB compare) (NP (PRP it)) (PP (IN with) (NP (JJ other) (NN quality) (NNS measures))))) (. .))

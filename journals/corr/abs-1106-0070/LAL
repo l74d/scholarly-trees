@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN channel) (NN model)) (PP (IN for) (NP (NP (NNS channels)) (PP (IN with) (NP (NN synchronization) (NNS errors))))))) (. .))
-(S (S (VP (VBG Using) (NP (DT this) (NN model)))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (ADJP (ADJP (JJ simple)) (, ,) (JJ non-trivial) (CC and) (PRN (, ,) (PP (IN in) (NP (DT some) (NNS cases))) (, ,)) (VBD tight)) (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN capacity)) (PP (IN for) (NP (JJ certain) (NN synchronization) (NN error) (NNS channels))))))) (. .))

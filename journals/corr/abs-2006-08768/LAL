@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (NN problem)) (PP (IN of) (S (VP (VBG learning) (NP (NN decision) (NN policy)) (PP (IN from) (NP (JJ past) (NN experience))))))) (VP (VBZ is) (VP (VBN considered))) (. .))
-(S (S (VP (VBG Using) (NP (DT the) (ADJP (NNP Fully) (NNP Probabilistic)) (NNP Design) (PRN (-LRB- -LRB-) (NNP FPD) (-RRB- -RRB-)) (NN formalism)))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (JJ general) (NN approach)) (PP (IN for) (S (VP (VBG finding) (NP (DT a) (JJ stochastic) (NN policy)) (PP (IN from) (NP (DT the) (JJ past) (NN data)))))))) (. .))

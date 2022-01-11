@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT some) (NNS variations)) (VP (VBG affecting) (NP (NP (DT the) (NN association) (NN measure)) (CC and) (NP (NN thresholding))) (PP (IN on) (NP (NP (DT a) (NN technique)) (PP (IN for) (S (VP (VBG learning) (NP (NNP Selectional) (NNPS Restrictions)) (PP (IN from) (NP (JJ on-line) (NN corpora))))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ uses) (NP (NP (DT a) (JJ wide-coverage) (JJ noun) (NN taxonomy)) (CC and) (NP (DT a) (JJ statistical) (NN measure))) (S (VP (TO to) (VP (VB generalize) (NP (DT the) (JJ appropriate) (JJ semantic) (NNS classes)))))) (. .))
-(S (NP (NP (NN Evaluation) (NNS measures)) (PP (IN for) (NP (DT the) (NNP Selectional) (NNP Restrictions) (VBG learning) (NN task)))) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (NP (DT an) (JJ experimental) (NN evaluation)) (PP (IN of) (NP (DT these) (NNS variations)))) (VP (VBZ is) (VP (VBN reported))) (. .))

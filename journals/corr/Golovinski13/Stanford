@@ -1,6 +1,0 @@
-(S (NP (NP (NN Damage) (NNS scenarios)) (PP (IN for) (NP (JJ large) (NNS networks)))) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (NP (DT The) (NN cascade) (NN scenario)) (VP (VBZ is) (VP (VBN described) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NP (NNS powers)) (PP (IN of) (NP (NN adjacency) (NN matrix))))))))) (. .))
-(S (NP (NP (ADJP (RBR More) (JJ difficult)) (ADJP (JJ probabilistic)) (NNS variants)) (PP (IN of) (NP (DT the) (JJ large) (NN network) (NN damage)))) (VP (VBP are) (VP (VBG modeling) (PP (IN by) (NP (NNP Markov) (NNS chains))))) (. .))
-(S (PP (IN For) (NP (NP (NN reliability) (NN augmentation)) (PP (IN of) (NP (NNS networks))))) (NP (PRP we)) (VP (VBP add) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ random) (JJ intermediate) (NNS agents)))) (PP (IN with) (NP (JJ big) (NN dimensionality)))) (. .))
-(S (NP (PRP It)) (VP (VBZ provides) (NP (NP (JJ high) (NN reliability)) (PP (IN of) (NP (DT all) (NN system)))) (PP (ADVP (RB even)) (IN with) (NP (NP (JJ low) (NN reliability)) (PP (IN of) (NP (JJ single) (NNS components)))))) (. .))
-(S (NP (NP (JJ Probabilistic) (NN estimation)) (PP (IN of) (NP (NP (NN reliability)) (PP (IN for) (NP (ADJP (VBN reinforced)) (NN network)))))) (VP (VBZ is) (VP (VBN made))) (. .))

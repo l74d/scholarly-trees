@@ -1,2 +1,0 @@
-(NP (NP (DT The) (NN structure) (NN compound)) (PP (IN with) (NP (NML (JJ high) (NN speed)) (JJ current) (NML (NML (NN comparator) (NN circuit)) (, ,) (NML (JJ current) (NN mirror) (NN circuit)) (, ,) (CC and) (NML (NN CMOS) (NN inverter))) (NN circuit))) (. .))
-(S (NP (NN PSpice) (NN program)) (VP (VBN used) (PP (IN for) (NP (NN confirmation))) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NN testing))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (JJ restricted) (NN isometry) (NN property)) (PRN (-LRB- -LRB-) (NP (NNP RIP)) (-RRB- -RRB-))) (VP (VBZ has) (VP (VBN become) (ADJP (JJ well-known)) (PP (IN in) (NP (DT the) (JJ compressed) (NN sensing) (NN community))))) (. .))
-(S (ADVP (RB Recently)) (, ,) (NP (NP (DT a) (JJ weaken) (NN version)) (PP (IN of) (NP (NNP RIP)))) (VP (VBD was) (VP (VBN proposed) (PP (IN for) (NP (NP (JJ exact) (JJ sparse) (NN recovery)) (PP (IN under) (NP (JJ weak) (NN moment) (NNS assumptions))))))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (ADVP (RB widely)) (VB apply) (PP (TO to) (NP (JJ other) (JJ compressed) (VBG sensing) (NNS instances))) (ADVP (RB as) (RB well)))))))) (. .))

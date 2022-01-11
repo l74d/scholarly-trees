@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (JJ discrete) (NN logarithm)) (PP (IN in) (NP (NP (DT a) (JJ finite) (NN group)) (PP (IN of) (NP (JJ large) (NN order)))))) (VP (VBZ has) (VP (VBN been) (ADVP (RB widely)) (VP (VBN applied) (PP (IN in) (NP (JJ public) (NN key) (NN cryptosystem)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB present) (NP (DT a) (ADJP (JJ probabilistic)) (NN algorithm)) (PP (IN for) (NP (JJ discrete) (NN logarithm))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (NN discovery) (NN system)) (PP (IN for) (S (VP (VBG detecting) (NP (NP (NNS correspondences)) (PP (IN in) (NP (NNS data)))))))) (VP (VBZ is) (VP (VBN described) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ familiar) (NN induction) (NNS methods)) (PP (IN of) (NP (NNP J.) (NNP S.) (NNP Mill)))))))) (. .))
-(S (PP (VBN Given) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS observations))))) (, ,) (NP (DT the) (NN system)) (VP (VBZ induces) (NP (NP (DT the) (ADJP (`` ``) (RB causally) ('' '') (JJ related)) (NNS facts)) (PP (IN in) (NP (DT these) (NNS observations))))) (. .))
-(S (NP (NP (PRP$ Its) (NN application)) (PP (TO to) (NP (JJ empirical) (JJ linguistic) (NN discovery)))) (VP (VBZ is) (VP (VBN described))) (. .))

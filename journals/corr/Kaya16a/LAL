@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (NP (VBN connected) (JJ cubic) (NN planar) (NN bipartite) (NN graphs)) (CC and) (NP (JJ related) (JJ binary) (JJ self-dual) (NNS codes))) (VP (VBP are) (VP (VBN studied))) (. .))
-(S (NP (NP (JJ Binary) (JJ self-dual) (NNS codes)) (PP (IN of) (NP (NN length) (CD 16)))) (VP (VBP are) (VP (VBN obtained) (PP (IN by) (NP (NP (JJ face-vertex) (NN incidence) (NNS matrices)) (PP (IN of) (NP (DT these) (NNS graphs))))))) (. .))
-(S (PP (IN By) (S (VP (VBG considering) (NP (NP (PRP$ their) (NNS lifts)) (PP (TO to) (NP (DT the) (VBG ring) (NNP R_2))))))) (NP (NP (JJ new) (JJ extremal) (JJ binary) (JJ self-dual) (NNS codes)) (PP (IN of) (NP (NNS lengths) (CD 64)))) (VP (VBP are) (VP (VBN constructed) (PP (IN as) (NP (NNP Gray) (NNS images))))) (. .))
-(S (ADVP (RBR More) (RB precisely)) (, ,) (NP (PRP we)) (VP (VBP construct) (NP (NP (CD 15) (JJ new) (NNS codes)) (PP (IN of) (NP (NN length) (CD 64))))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (NP (CD 10) (JJ new) (NNS codes)) (PP (IN of) (NP (NN length) (CD 66)))) (VP (VBD were) (VP (VBN obtained) (PP (IN by) (S (VP (VBG applying) (NP (DT a) (JJ building-up) (NN construction)) (PP (TO to) (NP (DT the) (JJ binary) (NNS codes)))))))) (. .))
-(S (NP (NP (NNS Codes)) (PP (IN with) (NP (DT these) (JJ weight) (NNS enumerators)))) (VP (VBP are) (VP (VBN constructed) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN in) (NP (DT the) (NN literature))))))) (. .))
-(S (NP (DT The) (NNS results)) (VP (VBP are) (VP (VBN tabulated))) (. .))

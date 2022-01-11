@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (JJ algebraic) (NN soft-decision) (NN decoding) (NN algorithm)) (PP (IN for) (NP (NNP Reed-Solomon) (NN code)))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (JJ rational) (NN interpolation)))))) (CC and) (S (NP (DT the) (NN interpolation) (NNS points)) (VP (VBP are) (VP (VBN constructed) (PP (IN by) (NP (NNP Berlekamp-Messay) (NN algorithm)))))) (. .))

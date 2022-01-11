@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ local) (NN optima)) (PP (IN of) (NP (NP (DT the) (NNP Hamiltonian)) (PP (IN of) (NP (DT the) (NNP Sherrington-Kirkpatrick) (NN model))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP compute) (NP (NP (DT the) (NN exponent)) (PP (IN of) (NP (NP (DT the) (JJ expected) (NN number)) (PP (IN of) (NP (JJ local) (NN optima))))))) (CC and) (VP (VB determine) (NP (NP (DT the) (`` ``) (JJ typical) ('' '') (NN value)) (PP (IN of) (NP (DT the) (NNP Hamiltonian)))))) (. .))

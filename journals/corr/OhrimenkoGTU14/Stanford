@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (NP (ADJP (JJ simple) (, ,) (JJ efficient) (, ,) (CC and) (JJ secure)) (ADJP (NN data) (HYPH -) (JJ oblivious)) (JJ randomized) (NN shuffle) (NN algorithm)))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ secure) (ADJP (NN data) (HYPH -) (JJ oblivious)) (NN shuffle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN based) (PP (IN on) (NP (VBG sorting))))))))) (. .))
-(S (NP (PRP$ Our) (NN method)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (JJ previous) (ADJP (JJ oblivious)) (NN storage) (NNS solutions)) (PP (IN for) (NP (NP (ADJP (NN network) (HYPH -) (VBN based)) (NN outsourcing)) (PP (IN of) (NP (NNS data))))))))))) (. .))

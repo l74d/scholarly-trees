@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN contribution))) (NP (PRP we)) (VP (VP (VBP investigate) (NP (NP (JJ several) (NNS extensions)) (PP (IN of) (NP (DT the) (NN powerset))) (SBAR (WHNP (WDT that)) (S (VP (VBP comprise) (NP (ADJP (RB arbitrarily) (VBN nested)) (NNS subsets))))))) (, ,) (CC and) (VP (VB call) (S (NP (PRP them)) (NP (JJR superpower) (NN set))))) (. .))
-(S (NP (DT This)) (VP (VBZ allows) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (NP (NN graphs)) (PP (IN with) (NP (ADJP (RB possibly) (RB infinitely) (JJ nested)) (NNS nodes))))))) (. .))
-(S (ADVP (RB additionally)) (NP (PRP we)) (VP (VBP define) (NP (NP (NNS edges)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ incident) (PP (TO to) (NP (NNS edges))))))))) (. .))
-(S (SBAR (IN Since) (S (NP (PRP we)) (VP (VBP use) (NP (JJ coalgebraic) (NNS constructions))))) (NP (PRP we)) (VP (VBP refer) (PP (TO to) (NP (DT these) (NNS graphs))) (PP (IN as) (NP (JJ corecursive) (NN graphs)))) (. .))

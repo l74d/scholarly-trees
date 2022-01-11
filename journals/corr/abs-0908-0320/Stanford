@@ -1,4 +1,0 @@
-(S (NP (DT The) (NN DFLU) (JJ numerical) (NN flux)) (VP (VBD was) (VP (VBN introduced) (PP (IN in) (NP (NN order))) (S (VP (TO to) (VP (VB solve) (S (NP (NP (JJ hyperbolic) (JJ scalar) (NN conservation) (NNS laws)) (PP (IN with) (NP (DT a) (NN flux) (NN function)))) (ADJP (JJ discontinuous) (PP (IN in) (NP (NN space)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (DT this) (NN flux)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (NP (NNS systems)) (PP (IN of) (NP (NN conservation) (NNS laws))))))))))))) (. .))
-(S (NP (DT The) (ADJP (VBN obtained)) (JJ numerical) (NN flux)) (VP (VBZ is) (ADJP (RB very) (JJ close) (PP (IN to) (NP (DT a) (NNP Godunov) (NN flux))))) (. .))
-(S (PP (IN As) (NP (DT an) (NN example))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (NML (NN system) (NN modeling)) (NN polymer) (NN flooding)) (PP (IN in) (NP (NN oil) (NN reservoir) (NN engineering))))) (. .))

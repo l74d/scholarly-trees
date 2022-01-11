@@ -1,3 +1,0 @@
-(NP (NP (NP (DT This) (NN work) (NNS analyses)) (NP (JJ main) (NNS features))) (SBAR (WHNP (WDT that)) (S (VP (MD should) (VP (VB be) (ADJP (JJ present) (PP (IN in) (NP (NN knowledge) (NN representation)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ suggests) (NP (NP (DT a) (NN model)) (PP (IN for) (NP (NP (NN representation)) (CC and) (NP (DT a) (NN way))))) (S (VP (TO to) (VP (VB implement) (NP (DT this) (NN model)) (PP (IN in) (NP (NN software))))))) (. .))
-(S (NP (NN Representation)) (VP (VBZ takes) (NP (NP (NN care)) (PP (IN of) (NP (CC both) (NP (NML (JJ low) (HYPH -) (NN level)) (NN sensor) (NN information)) (CC and) (NP (NML (JJ high) (HYPH -) (NN level)) (NNS concepts)))))) (. .))

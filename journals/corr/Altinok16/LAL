@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN architecture) (CC and) (NN implementation)) (PP (IN of) (NP (NP (DT a) (JJ rule-based) (UCP (NN grapheme) (TO to) (VB phoneme)) (NN converter)) (PP (IN for) (NP (NNP Turkish))))))) (. .))
-(S (NP (DT The) (NN system)) (VP (VP (VBZ accepts) (NP (JJ surface) (NN form)) (PP (IN as) (NP (NN input)))) (, ,) (VP (VBZ outputs) (NP (NP (NNP SAMPA) (NN mapping)) (PP (IN of) (NP (DT the) (DT all) (JJ parallel) (NNS pronounciations))) (PP (VBG according) (PP (TO to) (NP (NP (DT the) (JJ morphological) (NN analysis)) (PP (RB together) (IN with) (NP (JJ stress) (NNS positions))))))))) (. .))
-(S (NP (DT The) (NN system)) (VP (VBZ has) (VP (VBN been) (VP (VBN implemented) (PP (IN in) (NP (NNP Python)))))))

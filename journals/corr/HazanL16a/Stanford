@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NP (JJ online) (NN convex) (NN optimization)) (PP (IN against) (NP (NP (DT an) (JJ arbitrary) (NN adversary)) (PP (IN with) (NP (NN bandit) (NN feedback)))))) (, ,) (VP (VBN known) (PP (IN as) (NP (NN bandit) (NN convex) (NN optimization)))))))) (. .))
-(S (NP (NP (DT This)) (VP (VBN bound))) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ tight)) (ADVP (IN up) (PP (IN to) (NP (JJ logarithmic) (NNS factors))))))))) (. .))
-(S (NP (PRP$ Our) (NN analysis)) (VP (VBZ introduces) (NP (NP (JJ new) (NNS tools)) (PP (IN in) (NP (JJ discrete) (NN convex) (NN geometry))))) (. .))

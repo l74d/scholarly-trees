@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (NN method)) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN decidability)) (PP (IN of) (NP (NN provability)))) (PP (IN in) (NP (JJ several) (ADJP (RB well) (HYPH -) (VBN known)) (NN inference) (NNS systems))))))) (. .))
-(S (NP (DT This) (NN method)) (VP (VBZ generalizes) (NP (NP (DT both) (NN cut) (HYPH -) (NN elimination)) (CC and) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (NP (DT an) (NN automaton)) (VP (VBG recognizing) (NP (DT the) (JJ provable) (NNS propositions)))))))) (. .))

@@ -1,3 +1,0 @@
-(S (ADVP (RB Recently)) (, ,) (NP (NP (DT an) (NN image) (NN encryption) (NN scheme)) (PP (VBN based) (PP (IN on) (NP (NP (JJ chaotic) (NN standard)) (CC and) (NP (JJ logistic) (NNS maps)))))) (VP (VBD was) (VP (VBN proposed))) (. .))
-(S (NP (DT This) (NN paper) (NNS studies)) (VP (VP (NP (DT the) (NN security)) (PP (IN of) (NP (DT the) (NN scheme)))) (CC and) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN broken) (PP (IN with) (NP (NP (RB only) (CD one)) (VP (VBN chosen) (HYPH -) (NP (NN plaintext)))))))))))) (. .))
-(S (NP (NP (DT Some) (JJ other) (NN security) (NNS defects)) (PP (IN of) (NP (DT the) (NN scheme)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN reported))) (. .))

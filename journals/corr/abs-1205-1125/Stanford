@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ highlights) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NML (NML (NML (JJ basic) (NNS concepts)) (PP (IN of) (NP (NN bioinformatics)))) (CC and) (NML (NNS data))) (NN mining))))) (. .))
-(S (NP (NP (DT The) (JJ major) (NN research) (NNS areas)) (PP (IN of) (NP (NN bioinformatics)))) (VP (VBP are) (VP (VBN highlighted))) (. .))
-(S (NP (NP (DT The) (NN application)) (PP (IN of) (NP (NP (NNS data) (NN mining)) (PP (IN in) (NP (NP (DT the) (NN domain)) (PP (IN of) (NP (NN bioinformatics)))))))) (VP (VBZ is) (VP (VBN explained))) (. .))
-(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ highlights) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJ current) (NNS challenges) (CC and) (NNS opportunities)) (PP (IN of) (NP (NP (NNS data) (NN mining)) (PP (IN in) (NP (NN bioinformatics))))))))) (. .))

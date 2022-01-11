@@ -1,4 +1,0 @@
-(S (NP (NNS Data) (NN mining)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG being) (ADJP (JJ useful) (S (VP (TO to) (VP (VB give) (NP (NNS solutions)) (PP (IN for) (NP (NN invasion) (NN finding) (CC and) (NN auditing))))))))) (. .))
-(S (SBAR (IN While) (S (NP (NNS data) (NN mining)) (VP (VBZ has) (NP (NP (JJ several) (NNS applications)) (PP (IN in) (NP (NN protection))))))) (, ,) (NP (EX there)) (VP (VBP are) (ADVP (RB also)) (NP (JJ serious) (NN privacy) (NNS fears))) (. .))
-(S (PP (IN Because) (PP (IN of) (NP (NN email) (NN mining)))) (, ,) (NP (ADJP (RB even) (JJ inexperienced)) (NNS users)) (VP (MD can) (VP (VP (VB connect) (NP (NNS data))) (CC and) (VP (VB make) (NP (JJ responsive) (NNS associations))))) (. .))
-(S (ADVP (RB Therefore)) (NP (PRP we)) (VP (MD must) (S (VP (TO to) (VP (VB implement) (NP (NP (DT the) (NN privacy)) (PP (IN of) (NP (NNS persons)))) (PP (IN while) (S (VP (VBG working) (PP (IN on) (NP (JJ practical) (NNS data) (NN mining)))))))))))

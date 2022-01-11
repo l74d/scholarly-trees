@@ -1,3 +1,0 @@
-(S (NP (NNP WAP) (NN protocol)) (VP (VBZ is) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NML (NN communication) (NNS protocols)) (NN application) (NN environment)) (CC and) (NP (JJ wireless) (NNS devices)))))) (. .))
-(NP (NP (NNP WAP) (NN model)) (NP (QP (JJR more) (IN than) (NP (DT a) (NNP WAP) (NN gateway)))) (. .))
-(ADJP (JJ Suitable) (PP (IN for) (NP (JJ wireless) (NN communication) (NN environment))) (. .))

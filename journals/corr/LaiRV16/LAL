@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (JJ present) (NP (NP (JJ polynomial-time) (NN algorithms)) (SBAR (S (VP (TO to) (VP (VB estimate) (NP (DT the) (NX (NN mean)) (CC and) (NX (NX (NN covariance)) (PP (IN with) (NP (NN error) (NNS guarantees))))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ information-theoretic) (JJR lower) (NNS bounds))))))))))) (. .))
-(S (PP (IN As) (NP (DT a) (JJ corollary))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VB obtain) (NP (NP (DT an) (JJ agnostic) (NN algorithm)) (PP (IN for) (NP (NNP Singular) (NNP Value) (NNP Decomposition))))) (. .))

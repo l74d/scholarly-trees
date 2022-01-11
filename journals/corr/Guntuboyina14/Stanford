@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (NNS bounds)) (PP (IN for) (NP (DT the) (NML (S (VP (VBG covering) (NP (NP (NNS numbers)) (PP (IN of) (NP (NP (NP (NNS classes)) (PP (IN of) (NP (NN convex) (NNS functions)))) (CC and) (NP (NP (NN convex) (NNS sets)) (PP (IN in) (NP (NNP Euclidean)))))))))) (NN space))))) (. .))
-(S (NP (JJ Previous) (NNS results)) (VP (VBP require) (NP (NP (DT the) (VBG underlying) (NN convex) (NNS functions)) (CC or) (NP (NNS sets) (S (VP (TO to) (VP (VB be) (ADVP (RB uniformly)) (VP (VBN bounded)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP relax) (NP (DT this) (NN assumption))) (CC and) (VP (VB replace) (NP (PRP it)) (PP (IN with) (NP (JJR weaker) (JJ integral) (NNS constraints))))) (. .))
-(S (NP (VBG Existing) (NNS results)) (VP (MD can) (VP (VB be) (VP (VBN recovered) (PP (IN as) (NP (NP (JJ special) (NNS cases)) (PP (IN of) (NP (PRP$ our) (NNS results)))))))) (. .))

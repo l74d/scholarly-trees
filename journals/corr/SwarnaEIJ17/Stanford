@@ -1,5 +1,0 @@
-(S (NP (NP (NML (VBN Hidden) (NNP Markov)) (NN model)) (VP (VBN based) (NP (JJ various) (NML (NN phoneme) (NN recognition)) (NNS methods)) (PP (IN for) (NP (NNP Bengali) (NN language))))) (VP (VBZ is) (VP (VBN reviewed))) (. .))
-(S (NP (NP (JJ Automatic) (NN phoneme) (NN recognition)) (PP (IN for) (NP (NP (NNP Bengali) (NN language)) (VP (VBG using) (NP (JJ multilayer) (JJ neural) (NN network)))))) (VP (VBZ is) (VP (VBN reviewed))) (. .))
-(S (NP (NP (NN Usefulness)) (PP (IN of) (NP (NP (JJ multilayer) (JJ neural) (NN network)) (PP (IN over) (NP (NML (JJ single) (NN layer)) (JJ neural) (NN network)))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
-(S (NP (NNP Bangla) (NML (JJ phonetic) (NN feature)) (NML (NML (NN table) (NN construction)) (CC and) (NML (NML (NN enhancement)) (PP (IN for) (NP (NNP Bengali))))) (NN speech) (NN recognition)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))
-(S (NP (NP (NN Comparison)) (PP (IN among) (NP (DT these) (NNS methods)))) (VP (VBZ is) (VP (VBN discussed))) (. .))

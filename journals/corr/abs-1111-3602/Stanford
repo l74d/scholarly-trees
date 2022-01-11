@@ -1,2 +1,0 @@
-(S (S (NP (DT Some) (NNP Rabin) (NN signature) (NNS schemes)) (VP (MD may) (VP (VB be) (VP (VBN exposed) (PP (IN to) (NP (NN forgery))))))) (: ;) (S (NP (JJ several) (NNS variants)) (VP (VBP are) (ADVP (RB here)) (VP (VBN described) (S (VP (TO to) (VP (VB counter) (NP (DT this) (NN vulnerability)))))))) (. .))
-(S (NP (JJ Blind) (NNP Rabin) (NNS signatures)) (VP (VBP are) (ADVP (RB also)) (VP (VBN discussed))) (. .))

@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (JJ time-optimal) (NN control) (NN problem)) (PP (IN with) (NP (NNS uncertainties))))) (. .))
-(S (NP (NP (NNS Dynamics)) (PP (IN of) (NP (JJ controlled) (NN object)))) (VP (VBZ is) (VP (VBN expressed) (PP (IN by) (NP (NP (NN crisp) (JJ linear) (NN system)) (PP (IN of) (NP (JJ differential) (NNS equations))) (PP (IN with) (NP (JJ fuzzy) (UCP (JJ initial) (CC and) (JJ final)) (NNS states))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (NP (DT a) (NN notion)) (PP (IN of) (NP (JJ fuzzy) (JJ optimal) (NN time))))) (CC and) (VP (VB reduce) (NP (PRP$ its) (NN calculation)) (PP (TO to) (NP (CD two) (NNS crisp) (JJ optimal) (NN control) (NNS problems))))) (. .))
-(S (NP (PRP We)) (VP (VBP examine) (NP (DT the) (VBN proposed) (NN approach)) (PP (IN on) (NP (DT an) (NN example)))) (. .))

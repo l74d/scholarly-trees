@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP estimate) (NP (NP (NNP Gowers) (NN uniformity) (NNS norms)) (PP (IN for) (NP (DT some) (JJ classical) (JJ automatic) (NNS sequences))) (, ,) (PP (JJ such) (IN as) (NP (DT the) (NML (NML (NNP Thue) (HYPH -) (NNP Morse)) (CC and) (NML (NNP Rudin) (HYPH -) (NNP Shapiro))) (NNS sequences))))) (. .))
-(S (NP (DT The) (NNS methods)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN extended) (PP (IN to) (NP (JJ other) (JJ automatic) (NNS sequences)))))) (. .))
-(FRAG (S (NP (NP (NNP Rudin) (HYPH -) (NNP Shapiro) (-RRB- -RRB-)) (NP (NN sequence))) (VP (VBZ takes) (NP (DT the) (NN value)))) (FRAG (NP ($ $) (CD +1)) (NP ($ $))) (. .))

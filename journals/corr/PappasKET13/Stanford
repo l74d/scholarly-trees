@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NP (DT a) (NN relay) (NN node)) (PP (IN in) (NP (DT a) (NML (CD two) (HYPH -) (NN user)) (NN network))))))) (. .))
-(S (NP (PRP We)) (VP (VBP assume) (NP (DT a) (NML (JJ random) (NN access)) (NN collision) (NN channel) (NN model)) (PP (IN with) (NP (NNS erasures)))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (NP (PRP we)) (VP (VBP obtain) (NP (NP (DT an) (JJ inner)) (CC and) (NP (DT an) (JJ outer) (ADJP (VBN bound) (PP (IN for) (NP (DT the) (NN stability)))) (NN region)))) (. .))

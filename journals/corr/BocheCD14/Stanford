@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT a) (NML (CD three) (HYPH -) (NN node)) (NN quantum) (NN network)) (SBAR (WHNP (WDT which)) (S (VP (VBZ enables) (NP (NP (JJ bidirectional) (NN communication)) (PP (IN between) (NP (NP (CD two) (NNS nodes)) (PP (IN with) (NP (DT a) (NML (NN half) (HYPH -) (NN duplex)) (NN relay) (NN node))))))))))) (. .))
-(S (NP (DT A) (NML (S (VP (NN decode) (HYPH -) (CC and) (HYPH -) (VB forward)))) (NN protocol)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB perform) (NP (DT the) (NN communication)) (PP (IN in) (NP (CD two) (NNS phases)))))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ first) (NN phase))) (, ,) (NP (NP (DT the) (NNS messages)) (PP (IN of) (NP (CD two) (NNS nodes)))) (VP (VBP are) (VP (VBN transmitted) (PP (IN to) (NP (DT the) (NN relay) (NN node))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ second) (NN phase))) (, ,) (NP (DT the) (NN relay) (NN node)) (VP (VBZ broadcasts) (NP (DT a) (JJ re-encoded) (NN composition)) (PP (IN to) (NP (DT the) (CD two) (NNS nodes)))) (. .))
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NN capacity) (NN region)) (PP (IN of) (NP (DT the) (NN broadcast) (NN phase))))) (. .))

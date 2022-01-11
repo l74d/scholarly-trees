@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN for) (NP (NP (NML (JJ low) (NN rank)) (NN kernel) (NN approximation)) (VP (VBN called) (NP (NNP IKA))))))) (. .))
-(S (NP (NNP Numerical) (NNS results)) (VP (VBP are) (ADJP (JJ reproducible) (SBAR (S (S (VP (VBG using) (S (NP (DT the) (NN source) (NN code)) (ADJP (JJ available) (PP (IN at) (NP (DT this))))))) (VP (VBZ https) (NP (NN URL))))))))

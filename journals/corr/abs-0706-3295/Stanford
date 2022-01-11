@@ -1,2 +1,0 @@
-(FRAG (NP (NNP New)) (S (NP (NP (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (JJ minimum) (JJ average) (VBG Hamming) (NN distance)) (PP (IN of) (NP (JJ binary) (NNS codes)))))) (VP (VBP are) (VP (VBN derived)))) (. .))
-(S (NP (DT The) (NNS bounds)) (VP (VBP are) (VP (VBN obtained) (S (VP (VBG using) (NP (JJ linear) (NN programming) (NN approach)))))) (. .))

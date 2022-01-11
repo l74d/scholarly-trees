@@ -1,1 +1,0 @@
-(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (NN beginner) (HYPH -) (VBN oriented)) (NN introduction)) (PP (IN to) (NP (NNP Isabelle) (HYPH /) (NNP jEdit))) (, ,) (NP (NP (DT the) (JJ main) (NN user) (NN interface)) (PP (IN for) (NP (DT the) (NN proof) (NN assistant) (NNP Isabelle))))) (. .))

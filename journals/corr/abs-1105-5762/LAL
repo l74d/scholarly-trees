@@ -1,3 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (, ,) (S (SBAR (IN if) (S (NP (JJ nu)) (VP (NNP >) (VP (NNP =) (NP (CD 1/2)))))) (ADVP (RB then)) (NP (NP (DT the) (VBN generalized) (NNP Marcum) (NNP Q) (NN function) (NNP Q_nu)) (PRN (-LRB- -LRB-) (NP (DT a) (, ,) (NN b)) (-RRB- -RRB-))) (VP (VBZ is) (ADJP (JJ log-concave)) (PP (IN in) (NP (CD 0) (JJ <) (NNP =b) (NNP <) (NN infty)))))))) (. .))
-(S (NP (DT This)) (VP (VBZ proves) (NP (NP (DT a) (NN conjecture)) (PP (IN of) (NP (NP (NNP Sun) (, ,) (NNP Baricz) (CC and) (NNP Zhou)) (PRN (-LRB- -LRB-) (NP (CD 2010)) (-RRB- -RRB-)))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP point) (PRT (RP out)) (NP (NP (JJ relevant) (NNS results)) (PP (IN in) (NP (DT the) (NNS statistics) (NN literature))))) (. .))

@@ -1,1 +1,0 @@
-(S (S (VP (VBG Answering) (NP (NP (DT a) (JJ recent) (NN question)) (PP (IN of) (NP (NNP Crochemore)))))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN language)) (PP (IN of) (NP (NP (NNS words)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (NP (JJ abelian) (NNS squares)))))))) (VP (VBZ is) (RB not) (ADJP (JJ context-free)))))) (. .))

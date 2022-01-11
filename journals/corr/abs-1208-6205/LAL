@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ investigates) (NP (NP (JJ correlational) (NNS properties)) (PP (IN of) (NP (NP (JJ two-dimensional) (JJ chaotic) (NNS maps)) (PP (IN on) (NP (DT the) (NN unit) (NN circle))))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (JJ analytical) (NNS forms)) (PP (IN of) (NP (NN higher-order) (NNS covariances))))) (. .))
-(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT the) (JJ characteristic) (NN function)) (PP (IN of) (NP (PRP$ their) (ADJP (JJ simultaneous) (CC and) (VBD lagged)) (JJ ergodic) (NNS densities))))) (. .))
-(S (NP (PRP We)) (VP (VBD found) (SBAR (IN that) (S (NP (DT these) (JJ characteristic) (NNS functions)) (VP (VBP are) (VP (VBN described) (PP (IN by) (NP (NP (CD three) (NNS types)) (PP (IN of) (NP (JJ two-dimensional) (NNP Bessel) (NNS functions)))))))))) (. .))
-(S (NP (NP (NP (JJ Higher-order) (NNS covariances)) (PP (IN between) (NP (NNP x) (CC and) (NN y)))) (CC and) (NP (NP (DT those)) (PP (IN between) (NP (NNS y) (CC and) (VB y))))) (VP (JJR show) (NP (JJ non-positive) (NNS values))) (. .))
-(S (NP (NP (JJ Asymmetric) (NNS features)) (PP (IN between) (NP (NN cosine) (CC and) (JJ sine) (NNS functions)))) (VP (VBP are) (VP (VBN elucidated))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (NP (NNS Sequences)) (PP (IN with) (NP (JJ high) (JJ linear) (NN complexity)))) (VP (VBP have) (NP (NP (JJ wide) (NNS applications)) (PP (IN in) (NP (NN cryptography))))) (. .))
-(S (NP (NNS Results)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ linear) (NN complexity)) (PP (IN of) (NP (DT these) (NNS sequences)))) (VP (VBZ attains) (NP (DT the) (NN maximum)))))) (. .))

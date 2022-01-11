@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD proposed) (NP (JJ multiple) (JJ job-assignment) (NNS heuristics)) (S (VP (TO to) (VP (VP (VB generate) (NP (JJ low-total-cost) (NNS solutions))) (CC and) (VP (VB determine) (NP (NP (DT the) (JJS best) (NN performing) (NN method)) (PP (VBD amongst) (NP (PRP them))))))))) (. .))

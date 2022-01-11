@@ -1,3 +1,0 @@
-(S (NP (DT A) (NN backstepping) (NN controller)) (VP (VBZ is) (VP (VBN designed) (PP (IN for) (NP (NP (DT a) (NN system)) (PP (IN of) (NP (JJ parallel) (NN buck) (NNS converters))))) (S (VP (VBG sharing) (NP (NN load)))))) (. .))
-(S (NP (NNP Controller) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB ensure) (NP (JJ proper) (NML (NML (JJ current) (NN sharing)) (CC and) (NML (NN output) (NN voltage))) (NN regulation)))))) (. .))
-(S (NP (DT The) (VBN designed) (NN controller)) (VP (VBZ is) (ADVP (RB successfully)) (VP (VBN tested) (PP (IN for) (NP (NP (DT both) (JJ constant) (NN load)) (CC and) (NP (JJ sudden) (NN change)))) (PP (IN in) (NP (NN loading) (NNS conditions))))) (. .))

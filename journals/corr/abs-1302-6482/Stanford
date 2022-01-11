@@ -1,1 +1,0 @@
-(S (VP (VB Let) (S (NP (NNP G)) (VP (VB be) (NP (NP (DT a) (NN string) (NN graph) (PRN (-LRB- -LRB-) (NP (NP (DT an) (NN intersection) (NN graph)) (PP (IN of) (NP (NP (JJ continuous) (NNS arcs)) (PP (IN in) (NP (DT the) (NN plane)))))) (-RRB- -RRB-))) (PP (IN with) (NP (NN m) (NNS edges))))))) (. .))

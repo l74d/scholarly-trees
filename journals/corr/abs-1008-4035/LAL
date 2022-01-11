@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NP (VBN valued) (NN constraint) (NN satisfaction) (NNS problems)) (PRN (-LRB- -LRB-) (NP (NNP VCSP)) (-RRB- -RRB-)))))) (. .))
-(S (S (NP (NP (DT An) (NN instance)) (PP (IN of) (NP (DT the) (NN problem)))) (VP (VBZ is) (VP (VBN specified) (PP (IN by) (NP (NP (DT a) (NN sum)) (PP (IN of) (NP (NP (NN cost) (NNS functions)) (PP (IN from) (NP (DT the) (NN language)))))))))) (CC and) (S (NP (DT the) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimise) (NP (DT the) (NN sum))))))) (. .))

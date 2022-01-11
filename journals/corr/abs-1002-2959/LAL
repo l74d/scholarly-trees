@@ -1,5 +1,0 @@
-(S (NP (NP (NNS Relationships)) (SBAR (WHNP (WDT that)) (S (VP (VBP exist) (PP (IN between) (NP (NP (DT the) (ADJP (JJ classical) (, ,) (JJ Shannon-type) (, ,) (CC and) (JJ geometric-based)) (NNS approaches)) (PP (TO to) (NP (VBG sampling))))))))) (VP (VBP are) (VP (VBN investigated))) (. .))
-(S (NP (NP (DT Some) (NNS aspects)) (PP (IN of) (NP (NP (NN coding) (CC and) (NN communication)) (PP (IN through) (NP (DT a) (JJ Gaussian) (NN channel)))))) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (NP (DT a) (JJ constructive) (NN method)) (SBAR (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (VBG quantizing) (NN dimension)) (PP (IN in) (NP (NP (NNP Zador) (POS 's)) (NN theorem))))))))) (VP (VBZ is) (VP (VBN provided))) (. .))
-(S (NP (NP (DT A) (JJ geometric) (NN version)) (PP (IN of) (NP (NP (NNP Shannon) (POS 's)) (NNP Second) (NNP Theorem)))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (NP (NNS Applications)) (PP (TO to) (NP (NP (NP (NNP Pulse) (NNP Code) (NNP Modulation)) (CC and) (NP (NNP Vector) (NNP Quantization))) (PP (IN of) (NP (NNP Images)))))) (VP (VBP are) (VP (VBN addressed))) (. .))

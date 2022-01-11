@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VB solve) (S (NP (DT the) (JJ classical) (`` ") (NML (NML (NN Game)) (PP (IN of) (NP (JJ Pure) (NN Strategy)))) ('' ")) (VP (VBG using) (NP (JJ linear) (NN programming))))) (. .))
-(S (NP (PRP We)) (VP (VBP notice) (NP (DT an) (JJ intricate) (ADJP (RB even) (HYPH -) (JJ odd)) (NN behavior)) (PP (IN in) (NP (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (PRP$ our) (NNS computations)))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ seems) (S (VP (TO to) (VP (VB encourage) (NP (ADJP (JJ odd) (CC or) (JJ maximal)) (NNS bids))))))))))) (. .))

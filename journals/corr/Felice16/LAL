@@ -1,3 +1,0 @@
-(S (NP (NNP Variable-length) (NNS codes)) (VP (VBP are) (NP (NP (DT the) (NNS bases)) (PP (IN of) (NP (NP (DT the) (JJ free) (NNS submonoids)) (PP (IN of) (NP (DT a) (JJ free) (NN monoid))))))) (. .))
-(S (NP (EX There)) (VP (VBP are) (NP (NP (DT some) (JJ important) (JJ longstanding) (JJ open) (NNS questions)) (PP (IN about) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (JJ finite) (JJ maximal) (NNS codes))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT this) (NNS conjectures)) (CC and) (NP (NP (PRP$ their) (NNS relations)) (PP (IN with) (NP (NP (NNS factorizations)) (PP (IN of) (NP (JJ cyclic) (NNS groups)))))))) (. .))

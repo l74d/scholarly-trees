@@ -1,2 +1,0 @@
-(S (NP (DT A) (JJ strong) (JJ restricted) (NML (NN isometry) (NN property)) (NN condition)) (VP (VBZ is) (VP (VBN provided) (S (VP (TO to) (VP (VB ensure) (NP (DT the) (JJ stable) (NN recovery))))))) (. .))
-(S (NP (NNP Numerical) (NNS experiments)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB illustrate) (NP (PRP$ our) (NNS results))))))) (. .))

@@ -1,7 +1,0 @@
-(S (NP (NP (NN Conversion)) (PP (IN between) (NP (JJ binary) (CC and) (JJ decimal) (JJ floating-point) (NNS representations)))) (VP (VBZ is) (ADJP (JJ ubiquitous))) (. .))
-(S (NP (JJ Floating-point) (NN radix) (NN conversion)) (VP (VBZ means) (S (VP (VBG converting) (NP (DT both) (NP (DT the) (NN exponent)) (CC and) (NP (DT the) (NN mantissa)))))) (. .))
-(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT an) (JJ atomic) (NN operation)) (PP (IN for) (NP (NNP FP) (NN radix) (NN conversion))) (PP (IN with) (NP (JJ simple) (JJ straight-line) (NN algorithm))) (, ,) (ADJP (JJ suitable) (PP (IN for) (NP (NN hardware) (NN design)))))) (. .))
-(S (NP (JJ Exponent) (NN conversion)) (VP (VBZ is) (VP (VBN performed) (PP (IN with) (NP (NP (DT a) (JJ small) (NN multiplication)) (CC and) (NP (DT a) (NN lookup) (NN table)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ yields) (NP (DT the) (JJ correct) (NN result)) (PP (IN without) (NP (NN error)))) (. .))
-(S (NP (NNP Mantissa) (NN conversion)) (VP (VBZ uses) (NP (NP (DT a) (JJ few) (NNS multiplications)) (CC and) (NP (NP (DT a) (JJ small) (NN lookup) (NN table)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN shared) (PP (IN amongst) (NP (NP (DT all) (NNS types)) (PP (IN of) (NP (NNS conversions)))))))))))) (. .))
-(S (NP (DT The) (NN accuracy)) (VP (NNS changes) (PP (IN by) (S (VP (VBG adjusting) (NP (DT the) (VBG computing) (NN precision)))))) (. .))

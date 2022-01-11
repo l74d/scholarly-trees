@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (CC and) (VBP analyze) (NP (NP (DT a) (JJ new) (NN boosting) (NN algorithm)) (PP (IN for) (NP (JJ deep) (NN learning))) (VP (VBN called) (S (NP (NNP SelfieBoost)))))) (. .))
-(S (PP (IN Unlike) (NP (NP (JJ other) (VBG boosting) (JJ algorithms)) (, ,) (PP (IN like) (NP (NNP AdaBoost))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP construct) (NP (NP (NNS ensembles)) (PP (IN of) (NP (NNS classifiers))))))))) (, ,) (NP (NNP SelfieBoost)) (VP (VBZ boosts) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT a) (JJ single) (NN network))))) (. .))

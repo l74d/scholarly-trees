@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NNP OntoRich) (NN framework)) (, ,) (NP (NP (DT a) (NN support) (NN tool)) (PP (IN for) (NP (JJ semi-automatic) (NN ontology) (NN enrichment) (CC and) (NN evaluation)))))) (. .))
-(S (NP (DT The) (NNP WordNet)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB extract) (NP (NNS candidates)) (PP (IN for) (NP (NP (JJ dynamic) (NN ontology) (NN enrichment)) (PP (IN from) (NP (NN RSS) (NNS streams)))))))))) (. .))
-(S (PP (IN With) (NP (NP (DT the) (NN integration)) (PP (IN of) (NP (NNP OpenNLP))))) (NP (DT the) (NN system)) (VP (VBZ gains) (NP (NN access)) (PP (IN to) (NP (NP (JJ syntactic) (NN analysis)) (PP (IN of) (NP (DT the) (NNP RSS) (NN news)))))) (. .))
-(S (NP (DT The) (JJ enriched) (NNS ontologies)) (VP (VBP are) (VP (VBN evaluated) (PP (IN against) (NP (JJ several) (JJ qualitative) (NNS metrics))))) (. .))

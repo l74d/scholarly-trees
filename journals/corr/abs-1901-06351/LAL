@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT a) (JJ recent) (NN paper))) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (PRP us)))) (VP (VBD posed) (NP (NP (CD three) (JJ open) (NNS problems)) (VP (VBG concerning) (NP (NP (JJ squarefree) (JJ arithmetic) (NNS progressions)) (PP (IN in) (NP (JJ infinite) (NNS words))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VP (VBP solve) (NP (DT these) (NNS problems))) (CC and) (VP (VB prove) (NP (DT some) (JJ additional) (NNS results)))) (. .))

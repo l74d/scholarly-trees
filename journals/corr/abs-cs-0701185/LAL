@@ -1,5 +1,0 @@
-(S (NP (NNP Clique-width)) (VP (VBZ is) (NP (DT a) (JJ well-known) (NN graph) (NN parameter))) (. .))
-(S (NP (JJ Many) (NNP NP-hard) (NN graph) (NNS problems)) (VP (VBP admit) (NP (JJ polynomial-time) (NNS solutions)) (SBAR (WHADVP (WRB when)) (S (VP (VBN restricted) (PP (TO to) (NP (NP (VB graphs)) (PP (IN of) (NP (JJ bounded) (NN clique-width))))))))) (. .))
-(S (NP (DT The) (JJ same)) (VP (VBZ holds) (PP (IN for) (NP (NNP NLC-width)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN behavior)) (PP (IN of) (NP (JJ clique-width) (CC and) (JJ NLC-width))) (PP (IN under) (NP (JJ various) (NX (NX (JJ graph) (NNS operations)) (CC and) (NX (NN graph) (NNS transformations))))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (ADJP (JJ upper) (CC and) (JJR lower)) (NNS bounds)) (PP (IN for) (NP (NP (DT the) (JJ clique-width) (CC and) (NNP NLC-width)) (PP (IN of) (NP (DT the) (JJ modified) (NN graphs)))))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (JJ clique-width) (CC and) (NNP NLC-width)) (PP (IN of) (NP (DT the) (JJ involved) (NN graphs)))))))) (. .))

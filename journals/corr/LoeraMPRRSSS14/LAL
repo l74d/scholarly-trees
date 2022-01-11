@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP revisit) (NP (NP (DT a) (JJ well-known) (NN family)) (PP (IN of) (NP (JJ polynomial) (NNS ideals))) (VP (VBG encoding) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ graph-) ($ $) (VB k) ($ $) (NN -colorability))))))) (. .))
-(S (NP (PRP$ Our) (NN paper)) (VP (VBZ describes) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (JJ inherent) (JJ combinatorial) (NN structure)) (PP (IN of) (NP (DT the) (NNS ideals)))) (VP (VBZ implies) (NP (JJ several) (JJ interesting) (NN algebraic) (NNS properties)))))) (. .))

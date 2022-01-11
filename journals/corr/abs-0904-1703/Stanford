@@ -1,3 +1,0 @@
-(S (NP (NN Entanglement)) (VP (VBZ is) (NP (NP (DT a) (NN digraph) (NN complexity) (NN measure)) (SBAR (WHNP (WDT that) (NNS origins)) (S (PP (IN in) (NP (NML (VBN fixed) (HYPH -) (NN point)) (NN theory))))))) (. .))
-(S (NP (PRP$ Its) (NN purpose)) (VP (VBZ is) (S (VP (TO to) (VP (VB count) (NP (NP (DT the) (VBN nested) (NN depth)) (PP (IN of) (NP (NP (NNS cycles)) (PP (IN in) (NP (NNS digraphs)))))))))) (. .))
-(S (NP (PRP$ Our) (NN proof)) (VP (VBZ relies) (PP (IN on) (NP (NP (DT the) (NN game) (JJ theoretic) (NN characterization)) (PP (IN of) (NP (NN entanglement))))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN Robber)) (CC and) (NP (NNS Cops) (NNS games))))))) (. .))

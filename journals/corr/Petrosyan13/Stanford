@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT all) (JJ Eulerian) (NNS multigraphs)) (PP (IN with) (NP (NP (DT an) (JJ odd) (NN number)) (PP (IN of) (NP (NNS edges)))))) (VP (VBP have) (NP (DT no) (NN interval) (NN coloring)))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (DT some) (NNS methods)) (PP (IN for) (S (VP (VBG constructing) (PP (IN of) (NP (NN interval) (JJ non-edge-colorable) (JJ Eulerian) (NNS multigraphs))))))) (. .))

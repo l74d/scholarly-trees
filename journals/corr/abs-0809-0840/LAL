@@ -1,2 +1,0 @@
-(S (NP (NP (NP (DT A) (NN role)) (PP (IN of) (NP (NNP Java))) (PP (IN in) (NP (JJ high-energy) (NNS physics)))) (CC and) (NP (NP (JJ recent) (NN progress)) (PP (IN in) (NP (NP (NN development)) (PP (IN of) (NP (NP (DT a) (JJ platform-independent) (NN data-analysis) (NN framework)) (, ,) (NP (NN jHepWork)) (, ,))))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
-(S (NP (DT The) (NN framework)) (VP (VP (VBZ produces) (NP (JJ professional) (NNS graphics))) (CC and) (VP (VBZ has) (NP (NP (JJ many) (NNS libraries)) (PP (IN for) (NP (NNS data) (NN manipulation)))))) (. .))

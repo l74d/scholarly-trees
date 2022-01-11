@@ -1,7 +1,0 @@
-(S (NP (NNP Logic) (NN programming)) (VP (VBZ is) (NP (DT a) (JJ declarative) (NN programming) (NN paradigm))) (. .))
-(S (NP (VBG Programming) (NN language) (NNP Prolog)) (VP (VBZ makes) (S (NP (JJ logic) (VBG programming)) (ADJP (JJ possible))) (, ,) (PP (ADVP (IN at) (JJS least)) (TO to) (NP (DT a) (JJ substantial) (NN extent)))) (. .))
-(S (ADVP (RB However)) (NP (DT the) (NNP Prolog) (NN debugger)) (VP (VBZ works) (PP (ADVP (RB solely)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (JJ operational) (NNS semantics)))))) (. .))
-(S (IN So) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ incompatible) (PP (IN with) (NP (JJ declarative) (NN programming))))) (. .))
-(S (NP (DT This) (NN report)) (VP (VP (VBZ discusses) (NP (DT this) (NN issue))) (CC and) (VP (NNS tries) (S (VP (TO to) (VP (VB find) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN debugger)) (VP (MD may) (VP (VB be) (VP (VBN used) (PP (IN from) (NP (NP (DT the) (JJ declarative) (NN point)) (PP (IN of) (NP (NN view))))))))))))))) (. .))
-(S (NP (DT The) (NNS results)) (VP (VBP are) (ADJP (RB rather) (RB not) (JJ encouraging))) (. .))
-(S (ADVP (RB Also)) (, ,) (NP (NP (DT the) (NN box) (NN model)) (PP (IN of) (NP (NNP Byrd))) (, ,) (VP (VBN used) (PP (IN by) (NP (DT the) (NN debugger)))) (, ,)) (VP (VBZ is) (VP (VBN explained) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNP SLD-resolution))))))) (. .))

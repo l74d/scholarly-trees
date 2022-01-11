@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (JJ high-speed) (NN stream) (NN cipher) (NN encryption) (NN scheme)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ true) (NN random) (NN key)) (VP (VBN generated) (PP (IN by) (NP (DT a) (JJ chaotic) (NN semiconductor) (NN laser))))))))) (. .))
-(S (NP (DT A) (ADJP (JJ 5-Gbits/s)) (JJ non-return-to-zero) (NN plaintext)) (VP (VBZ is) (VP (ADVP (RB successfully)) (VBN encrypted) (CC and) (VBN decrypted) (S (VP (VBG using) (NP (DT this) (NN cryptography)))))) (. .))
-(S (NP (DT The) (NN scheme)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN in) (NP (NP (DT the) (NNS areas)) (PP (IN of) (NP (JJ real-time) (JJ high-speed) (JJ physical) (NN encryption)))))))) (. .))

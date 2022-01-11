@@ -1,3 +1,0 @@
-(FRAG (NP (NP (NN Length)) (: -) (FRAG (ADJP (JJ squared)) (SBAR (S (NP (NN sampling)) (VP (VBZ has) (ADVP (RB previously)) (VP (VBN been) (VP (VBN used)))))) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NN rank))))))) (, -) (FRAG (NP ($ $) (CD k)) (NP ($ $)) (NP (NN approximation))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN approximation)) (VP (VBN obtained))) (VP (VBD was) (ADJP (JJ additive) (PP (IN in) (NP (NN nature))))) (. .))
-(FRAG (S (NP (PRP We)) (VP (VBP obtain) (NP (DT a) (JJ multiplicative) (NN approximation)) (NAC (IN albeit) (PP (ADVP (RB only)) (IN for) (NP (NN rank)))))) (, -) (FRAG (NP ($ $) (CD 1)) (NP ($ $)) (NP (NN approximation))) (. .))

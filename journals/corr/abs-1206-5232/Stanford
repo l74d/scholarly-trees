@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN partition) (NN function)) (PP (IN of) (NP (DT a) (NN factor) (NN graph)))) (VP (MD can) (ADVP (RB sometimes)) (VP (VB be) (ADVP (RB accurately)) (VP (VBN estimated) (PP (IN by) (NP (NML (NNP Monte) (NNP Carlo)) (NNS methods)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (JJ such) (NNS methods)) (VP (VBP are) (VP (VBN extended) (PP (IN to) (NP (NN factor) (NNS graphs))) (PP (IN with) (NP (ADJP (JJ negative) (CC and) (JJ complex)) (NNS factors))))) (. .))

@@ -1,7 +1,0 @@
-(S (ADVP (RB Often)) (NP (NP (DT some) (NN strengthening) (CC and) (NN modification)) (PP (IN of) (NP (NNP ETR-INV)))) (VP (VBD was) (VP (VBN required))) (. .))
-(S (NP (DT This)) (VP (NN lead) (PP (TO to) (NP (NP (DT a) (JJ cluttered) (NN situation)) (SBAR (WHADVP (WRB where)) (S (NP (DT no) (NN paper)) (VP (VBD included) (NP (PDT all) (DT the) (JJ previous) (NNS details)))))))) (. .))
-(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (DT a) (JJ streamlined) (NN exposition)) (PP (IN in) (NP (DT a) (JJ self-contained) (NN manner)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP explain) (CC and) (VBP prove) (NP (NP (JJ various) (NN universality) (NNS results)) (VP (VBG regarding) (NP (NNP ETR-INV))))) (. .))
-(S (NP (DT These) (NNS notes)) (VP (MD should) (RB not) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT a) (NN research) (NN paper)) (PP (IN with) (NP (JJ new) (NNS results)))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP do) (VP (VB describe) (NP (NP (DT some) (NNS refinements)) (PP (IN of) (NP (JJR earlier) (NNS results))) (SBAR (WHNP (WDT which)) (S (VP (MD might) (VP (VB be) (ADJP (JJ useful) (PP (IN for) (NP (JJ future) (NN research))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP plan) (S (VP (TO to) (VP (VB extend) (CC and) (VB update) (NP (DT this) (NN exposition)) (SBAR (IN as) (S (VP (VBZ seems) (ADJP (NN fit))))))))) (. .))

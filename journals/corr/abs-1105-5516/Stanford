@@ -1,8 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (NNP PARIS)) (, ,) (NP (NP (DT an) (NN approach)) (PP (IN for) (NP (NP (DT the) (JJ automatic) (NN alignment)) (PP (IN of) (NP (NNS ontologies)))))))) (. .))
-(S (NP (NNP PARIS)) (VP (VBZ aligns) (NP (CONJP (RB not) (RB only)) (NP (NNS instances)) (, ,) (CONJP (CC but) (RB also)) (NP (NNS relations) (CC and) (NNS classes)))) (. .))
-(S (NP (NP (NNS Alignments)) (PP (IN at) (NP (DT the) (NN instance) (HYPH -) (NN level)))) (VP (VB cross-fertilize) (PP (IN with) (NP (NP (NNS alignments)) (PP (IN at) (NP (DT the) (NN schema) (HYPH -) (NN level)))))) (. .))
-(S (ADVP (RB Thereby)) (, ,) (NP (PRP$ our) (NN system)) (VP (VBZ provides) (NP (DT a) (ADJP (RB truly) (JJ holistic)) (NN solution)) (PP (IN to) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN ontology) (NN alignment)))))) (. .))
-(S (NP (NP (DT The) (NN heart)) (PP (IN of) (NP (DT the) (NN approach)))) (VP (VBZ is) (ADJP (JJ probabilistic))) (. .))
-(S (NP (DT This)) (VP (VBZ allows) (S (NP (NNP PARIS)) (VP (TO to) (VP (VB run) (PP (IN without) (NP (DT any) (NN parameter) (NN tuning))))))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (CC and) (NP (PRP$ its) (NN precision))))) (PP (IN through) (NP (JJ extensive) (NNS experiments)))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (NP (DT a) (NN precision)) (PP (IN of) (NP (NP (QP (RB around) (CD 90)) (NN %)) (PP (IN in) (NP (NNS experiments)))))) (PP (IN with) (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (JJS largest) (NNS ontologies)))))) (. .))

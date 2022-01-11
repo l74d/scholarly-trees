@@ -1,1 +1,0 @@
-(S (S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (S (NP (PRP we)) (VP (VBP consider) (S (VP (VBG proving) (NP (NN inapproximability)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNP OPT)))))))))) (CC and) (ADVP (RB thus)) (S (NP (PRP we)) (VP (VBP base) (NP (NP (DT the) (NNS foundations)) (PP (IN of) (NP (JJ fixed) (NN parameter) (NN inapproximability)))))) (. .))

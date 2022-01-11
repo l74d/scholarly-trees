@@ -1,1 +1,0 @@
-(S (S (NP (NP (DT An) (NN edge) (NN colouring)) (PP (IN of) (NP (NP (DT a) (NN graph)) (NP ($ $) (CD G$))))) (VP (VBZ is) (VP (VBN called) (S (ADJP (JJ acyclic))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ proper)))))))) (CC and) (S (NP (DT every) (NN cycle)) (VP (VBZ contains) (NP (QP (ADVP (IN at) (RBS least)) (CD three)) (NNS colours)))) (. .))

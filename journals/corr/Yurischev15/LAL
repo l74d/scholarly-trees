@@ -1,3 +1,0 @@
-(S (NP (NNP Quantum) (NN discord) (NNP Q)) (VP (VBZ is) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (NN density) (NN matrix) (NNS elements))))) (. .))
-(S (NP (NP (NNS Equations)) (PP (IN for) (S (VP (VBG determining) (NP (NP (DT the) (NNS boundaries)) (PP (IN between) (NP (DT these) (NNS subdomains)))))))) (VP (VBP are) (VP (VBN obtained))) (. .))
-(S (NP (DT The) (NNS boundaries)) (VP (VBP consist) (PP (IN of) (NP (NN bifurcation) (NNS points)))) (. .))

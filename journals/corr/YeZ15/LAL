@@ -1,3 +1,0 @@
-(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP extend) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (JJ approximate) (NNS matrix) (NN multiplication)))) (PP (IN from) (NP (DT the) (NNP Frobenius) (NN norm))) (PP (TO to) (NP (DT the) (JJ spectral) (NN norm)))) (. .))
-(S (ADVP (JJ Second)) (, ,) (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ fast) (JJ approximate) (VBN generalized) (JJ linear) (NN regression) (NN algorithms))) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (DT the) (JJ spectral) (NN norm))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP We)) (VP (VBP give) (NP (DT a) (JJ fast) (NN approximate) (NNP SVD))) (. .))

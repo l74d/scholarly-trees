@@ -1,1 +1,0 @@
-(S (NP (DT The) (JJ same) (NN algorithm)) (ADVP (RB also)) (VP (VBZ achieves) (NP (NP (JJ near-optimal) (NN regret)) (PP (IN for) (NP (ADJP (ADJP (JJ full) (NN information)) (, ,) (ADJP (NN bandit)) (CC and) (ADJP (RB globally) (JJ observable))) (NNS games))))) (. .))

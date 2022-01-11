@@ -1,1 +1,0 @@
-(S (NP (DT The) (JJ first) (NN problem)) (VP (VBZ is) (S (VP (TO to) (VP (VB decide) (SBAR (IN whether) (S (NP (DT a) (VBN given) (JJ reachable) (JJ partial) (NN automaton)) (VP (VBZ is) (VP (VBG synchronizing))))))))) (. .))

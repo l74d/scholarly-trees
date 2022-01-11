@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN work)) (VP (VP (VBZ uses) (NP (DT the) (NNP L-system)) (S (VP (TO to) (VP (VB construct) (NP (NP (DT a) (NN tree) (NN structure)) (PP (IN for) (NP (DT the) (NN text) (NN sequence)))))))) (CC and) (VP (VBZ derives) (NP (PRP$ its) (NN complexity)))) (. .))
-(S (NP (PRP It)) (VP (VBZ serves) (PP (IN as) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NP (JJ structural) (NN complexity)) (PP (IN of) (NP (DT the) (NN text)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN applied) (PP (TO to) (NP (NP (VB anomaly) (NN detection)) (PP (IN in) (NP (NNS data) (NN transmission))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (JJ partial) ($ $) (JJ r) ($ $) (VBP -Bell) (NNS polynomials)) (PP (IN in) (NP (CD three) (JJ combinatorial) (NNP Hopf) (NN algebras)))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NN factorization) (NN formula)) (PP (IN for) (NP (DT the) (NN generating) (NNS functions))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (NN consequence)) (PP (IN of) (NP (DT the) (NNP Zassenhauss) (NN formula))))))))) (. .))

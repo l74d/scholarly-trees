@@ -1,1 +1,0 @@
-(S (PP (IN For) (NP (NP (DT the) (JJ special) (NN case)) (PP (IN of) (NP (NML (NNP Boltzmann) (HYPH -) (NNP Shannon)) (NN entropy))))) (, ,) (NP (NP (DT this) (JJR lower)) (VP (VBN bound))) (VP (VBZ is) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NP (DT that)) (PP (VBN given) (PP (IN by) (NP (DT the) (NN entropy) (NN power) (NN inequality)))))))) (. .))

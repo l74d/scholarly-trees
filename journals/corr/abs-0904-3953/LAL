@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (NP (NN resolution) (NN rule)) (PP (IN of) (NP (NN proof))))))) (CC and) (VP (NN show) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ complete)) (PP (IN for) (NP (NP (JJ stable) (NNS semantics)) (PP (IN of) (NP (JJ logic) (NNS programs)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (NP (NP (NNS applications)) (PP (IN of) (NP (DT this) (NN result))))) (. .))

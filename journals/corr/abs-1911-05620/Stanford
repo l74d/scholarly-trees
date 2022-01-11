@@ -1,5 +1,0 @@
-(S (NP (JJ Neural) (NNS networks)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (JJ nonparametric) (NN method)) (PP (IN for) (NP (NN option) (NN pricing) (CC and) (NN hedging))))) (PP (IN since) (NP (DT the) (JJ early) (NNS 1990s)))))) (. .))
-(S (ADVP (RB Far) (PP (IN over) (NP (QP (DT a) (CD hundred))))) (NP (NNS papers)) (VP (VBP have) (VP (VBN been) (VP (VBN published) (PP (IN on) (NP (DT this) (NN topic)))))) (. .))
-(S (NP (DT This) (NN note)) (VP (VBZ intends) (S (VP (TO to) (VP (VB provide) (NP (DT a) (JJ comprehensive) (NN review)))))) (. .))
-(S (NP (NNP Papers)) (VP (VBP are) (PP (VBN compared) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN input) (NNS features)) (, ,) (NP (NN output) (NNS variables)) (, ,) (NP (NN benchmark) (NNS models)) (, ,) (NP (NN performance) (NNS measures)) (, ,) (NP (NP (NNS data)) (NP (NN partition) (NNS methods))) (, ,) (CC and) (NP (VBG underlying) (NNS assets)))))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (JJ related) (NML (NN work) (CC and) (NN regularisation)) (NNS techniques)) (VP (VBP are) (VP (VBN discussed))) (. .))

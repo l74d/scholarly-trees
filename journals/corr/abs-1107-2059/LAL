@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ general) (NN method)) (SBAR (S (VP (TO to) (VP (VB construct) (NP (NNP MDS) (JJ one-dimensional) (JJ convolutional) (NNS codes)))))))) (. .))
-(S (NP (PRP$ Our) (NN method)) (VP (VBZ generalizes) (NP (NP (JJ previous) (NNS constructions)) (PP (IN of) (NP (NP (NNP H.) (NNP Gluesing-Luerssen)) (CC and) (NP (NNP B.) (NNP Langfeld)))))) (. .))
-(S (ADVP (RB Moreover)) (NP (PRP we)) (VP (VP (VBP give) (NP (NP (DT a) (NN classification)) (PP (IN of) (NP (JJ one-dimensional) (NNP Convolutional) (NNP Goppa) (NNP Codes))))) (CC and) (VP (VB propose) (NP (NP (DT a) (NN characterization)) (PP (IN of) (NP (NP (NNP MDS) (NNS codes)) (PP (IN of) (NP (DT this) (NN type)))))))) (. .))

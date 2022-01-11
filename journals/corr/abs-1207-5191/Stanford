@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN schrodinger) (NN equation)) (CC and) (NP (NN wave) (NN equation))) (PP (IN with) (NP (NP (DT the) (NNP Dirichlet) (NN boundary) (NN condition)) (PP (IN on) (NP (DT a) (JJ connected) (JJ finite) (NN graph)))))) (. .))
-(S (S (NP (NP (DT The) (JJ explicit) (NNS expressions)) (PP (IN for) (NP (NNS solutions)))) (VP (VBP are) (VP (VBN given)))) (CC and) (S (NP (DT the) (NN energy) (NNS conservations)) (VP (VBP are) (VP (VBN derived)))) (. .))
-(S (NP (NP (NNS Applications)) (PP (IN to) (NP (DT the) (VBG corresponding) (JJ nonlinear) (NNS problems)))) (VP (VBP are) (VP (VBN indicated))) (. .))

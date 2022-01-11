@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (JJ short) (NN note))) (NP (PRP we)) (VP (VP (VBP provide) (NP (NP (DT an) (JJ unbiased) (NN multilevel) (NNP Monte) (NNP Carlo) (NN estimator)) (PP (IN of) (NP (DT the) (NN log) (JJ marginal) (NN likelihood))))) (CC and) (VP (VB discuss) (NP (NP (PRP$ its) (NN application)) (PP (TO to) (NP (JJ variational) (NNP Bayes)))))) (. .))

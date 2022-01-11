@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VP (ADVP (RB formally)) (VBP prove) (NP (NP (DT the) (NN convergence) (CC and) (NN correctness) (NNS properties)) (PP (IN of) (NP (PRP$ our) (VBN distributed) (NN algorithm))))) (CC and) (VP (NN show) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ fast) (CC and) (JJ simple) (SBAR (S (VP (TO to) (VP (VB implement))))))))))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (NP (NNP Written) (NNP Communication)) (PP (IN on) (NP (NNPS Computers)))) (VP (VBZ requires) (NP (NP (NN knowledge)) (PP (IN of) (S (VP (VBG writing) (NP (NN text)) (PP (IN for) (NP (NP (DT the) (VBN desired) (NN language)) (VP (VBG using) (NP (NN Computer)))))))))) (. .))
-(S (ADVP (RB Mostly)) (NP (NNS people)) (VP (VBP do) (RB not) (VP (VB use) (NP (NP (DT any) (JJ other) (NN language)) (PP (IN besides) (NP (NNP English)))))) (. .))
-(S (NP (DT This)) (VP (VBZ creates) (NP (DT a) (NN barrier))) (. .))
-(S (S (VP (TO To) (VP (VB resolve) (NP (DT this) (NN issue))))) (NP (PRP we)) (VP (VBP have) (VP (VBN developed) (NP (DT a) (NN scheme)) (S (VP (TO to) (VP (VB input) (NP (NN text)) (PP (IN in) (NP (NNP Hindi))) (S (VP (VBG using) (NP (NML (JJ phonetic) (NN mapping)) (NN scheme))))))))) (. .))
-(S (S (VP (VBG Using) (NP (DT this) (NN scheme)))) (NP (PRP we)) (VP (VP (VBP generate) (NP (JJ intermediate) (NN code) (NNS strings))) (CC and) (VP (VB match) (NP (PRP them)) (PP (IN with) (NP (NP (NNS pronunciations)) (PP (IN of) (NP (NN input) (NN text))))))) (. .))
-(S (NP (PRP$ Our) (NN system)) (VP (VBP show) (S (NP (NP (JJ significant) (NN success)) (PP (IN over) (NP (JJ other) (NN input) (NNS systems)))) (ADJP (JJ available)))) (. .))

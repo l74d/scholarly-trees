@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN survey))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT an) (JJ extensive) (NN overview)) (PP (IN on) (NP (NNS honeypots))))) (. .))
-(S (NP (DT This)) (VP (VBZ includes) (NP (CONJP (RB not) (RB only)) (NP (NN honeypot) (NN software)) (CONJP (CC but) (RB also)) (NP (NP (NNS methodologies)) (SBAR (S (VP (TO to) (VP (VB analyse) (NP (NN honeypot) (NNS data))))))))) (. .))

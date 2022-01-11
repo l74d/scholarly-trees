@@ -1,2 +1,0 @@
-(S (VP (VB Let) (S (NP (NNP M_n)) (VP (VB denote) (NP (NP (DT the) (NN matrix) (NN multiplication) (NN tensor)) (PP (IN for) (NP (JJ nxn) (NNS matrices))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT the) (NN border) (NN substitution) (NN method)) (VP (VBN combined) (PP (IN with) (NP (NNP Koszul) (NNS flattenings))))) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN border) (NN rank) (JJR lower) (NN bound)) (PP (IN of) (NP (JJ 2n^2-log) (PRN (-LRB- -LRB-) (NP (JJ n)) (-RRB- -RRB-)) (NN -1))) (PP (IN for) (NP (NNP M_n)))))))) (. .))

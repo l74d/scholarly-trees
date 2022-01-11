@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NN multiuser) (NN detection)) (PP (IN in) (NP (JJ non-Gaussian) (NNS channels))))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN penalty) (NN function)) (PP (IN for) (NP (JJ robust) (NN multiuser) (NN detection))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN detector)) (VP (VBZ outperforms) (NP (JJ other) (JJ suboptimal) (NNS detectors)) (PP (IN in) (NP (JJ non-Gaussian) (NN environment)))) (. .))
-(S (NP (JJ Analytical) (CC and) (NN simulation) (NN result)) (VP (VBZ shows) (SBAR (S (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (NN detector)))) (VP (NN compare) (PP (TO to) (NP (JJ other) (NNS detectors))))))) (. .))

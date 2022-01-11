@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (NNS ranks) (CC and) (NNS kernels)) (PP (IN of) (NP (JJ generalized) (NNP Hadamard) (NNS matrices)))) (VP (VBP are) (VP (VBN studied))) (. .))
-(S (NP (DT This) (NN result)) (VP (VBZ puts) (NP (DT a) (JJ natural) (JJ upper) (NN bound)) (PP (IN on) (NP (NP (DT the) (NN rank)) (PP (IN of) (NP (DT the) (JJ generalized) (NNP Hadamard) (NNS matrices)))))) (. .))
-(S (NP (ADJP (JJR Lower) (CC and) (JJ upper)) (NNS bounds)) (VP (VBP are) (VP (VBN given) (PP (IN for) (NP (NP (DT the) (NN dimension)) (PP (IN of) (NP (NP (DT the) (NN kernel)) (PP (IN of) (NP (DT the) (JJ corresponding) (JJ generalized) (NNP Hadamard) (NNS codes))))))))) (. .))
-(S (PP (IN For) (NP (NP (JJ specific) (NNS ranks) (CC and) (NNS dimensions)) (PP (IN of) (NP (DT the) (NN kernel))) (PP (IN within) (NP (DT these) (NNS bounds))))) (, ,) (NP (VBN generalized) (NNP Hadamard) (NNS codes)) (VP (VBP are) (VP (VBN constructed))) (. .))

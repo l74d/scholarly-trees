@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (NN approach))) (VP (VBZ is) (VP (VBN presented) (S (VP (TO to) (VP (VB determine) (NP (NP (JJ common) (NNS eigenvalues)) (PP (IN of) (NP (CD two) (NNS matrices))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNP Gerschgorin) (NN theorem)) (CC and) (NP (NNP Bisection) (NN method)))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VP (VBZ is) (ADJP (JJ simple))) (CC and) (VP (MD can) (VP (VB be) (ADJP (JJ useful)) (PP (IN in) (NP (NP (NN image) (NN processing)) (CC and) (NP (NN noise) (NN estimation))))))) (. .))

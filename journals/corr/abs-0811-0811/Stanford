@@ -1,3 +1,0 @@
-(S (NP (NNS People)) (ADVP (RB usually)) (VP (VBP regard) (NP (NNS algorithms)) (PP (IN as) (NP (NP (JJR more) (JJ abstract)) (PP (IN than) (NP (NP (DT the) (NNS programs)) (SBAR (WHNP (WDT that)) (S (VP (VBP implement) (NP (PRP them)))))))))) (. .))
-(S (NP (NP (DT The) (JJ natural) (NN way)) (PP (IN to) (S (VP (VB formalize) (NP (DT this) (NN idea)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NNS algorithms)) (VP (VBP are) (NP (NP (NN equivalence) (NNS classes)) (PP (IN of) (NP (NP (NNS programs)) (PP (IN with) (NP (NP (NN respect)) (PP (IN to) (NP (DT a) (JJ suitable) (NML (NN equivalence) (NN relation))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP argue) (SBAR (IN that) (S (NP (DT no) (JJ such) (NML (NN equivalence) (NN relation))) (VP (VBZ exists))))) (. .))

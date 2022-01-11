@@ -1,7 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ deals) (PP (IN with) (NP (NP (NNP OLAP) (NNS systems)) (VP (VBN based) (PP (IN on) (NP (JJ multidimensional) (NN model))))))) (. .))
-(S (NP (NP (DT The) (JJ conceptual) (NN model)) (SBAR (S (NP (PRP we)) (VP (VBP provide))))) (, ,) (VP (VBZ represents) (NP (NNS data)) (PP (IN through) (NP (NP (DT a) (NN constellation)) (PRN (-LRB- -LRB-) (NP (NNS multi-facts)) (-RRB- -RRB-)) (VP (VBN composed) (PP (IN of) (NP (JJ several) (JJ multi-hierarchy) (NNS dimensions))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN model))) (, ,) (NP (NNS data)) (VP (VBP are) (VP (VBN displayed) (PP (IN through) (NP (JJ multidimensional) (NNS tables))))) (. .))
-(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT a) (NN query) (NN algebra)) (VP (VBG handling) (NP (DT these) (NNS tables))))) (. .))
-(S (NP (DT This) (ADJP (NN user) (VBN oriented)) (NN algebra)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (NP (DT a) (NN closure) (NN core)) (PP (IN of) (NP (NNP OLAP) (NNS operators)))) (PP (RB as) (RB soon) (IN as) (NP (NP (JJ advanced) (NNS operators)) (VP (VBD dedicated) (PP (TO to) (NP (JJ complex) (NN analysis)))))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP specify) (NP (NP (DT a) (JJ graphical) (NNP OLAP) (NN language)) (VP (VBN based) (PP (IN on) (NP (DT this) (NN algebra)))))) (. .))
-(S (NP (DT This) (NN language)) (VP (VBZ facilitates) (NP (NP (NNS analyses)) (PP (IN of) (NP (NN decision) (NNS makers))))) (. .))

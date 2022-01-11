@@ -1,3 +1,0 @@
-(S (NP (NP (NNP Physical) (NN layer) (NNS features)) (PP (IN of) (NP (NNP Ethernet))) (PP (PP (IN from) (NP (DT the) (JJ first) (NN realization))) (PP (IN towards) (NP (DT the) (CD 100) (NNP Gb) (NNP Ethernet) (PRN (-LRB- -LRB-) (NP (CD 100) (NNP GbE)) (-RRB- -RRB-)) (NN development))))) (VP (VBP have) (VP (VBN been) (VP (VBN considered)))) (. .))
-(S (NP (NP (NNS Comparisons)) (PP (IN of) (NP (DT these) (NNS features)))) (VP (VBP are) (VP (VBN made) (PP (VBG according) (PP (TO to) (NP (DT the) (VBN standardized) (NN data) (NNS rates)))))) (. .))
-(S (NP (JJ Feasible) (JJ physical) (NN layer) (NNS options)) (VP (VBP are) (ADVP (RB then)) (VP (VBN discussed) (PP (IN for) (NP (JJ high) (NNS data) (NNS rates))))) (. .))

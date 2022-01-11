@@ -1,1 +1,0 @@
-(S (NP (DT A) (JJ well-known) (NN combinatorial) (NN theorem)) (VP (VBZ says) (SBAR (IN that) (S (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (JJ n) (JJ non-collinear) (NNS points)) (PP (IN in) (NP (DT the) (NN plane)))))) (VP (NNS determines) (NP (QP (IN at) (JJS least) (JJ n)) (JJ distinct) (NNS lines)))))) (. .))

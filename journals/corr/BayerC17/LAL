@@ -1,4 +1,0 @@
-(S (NP (DT A) (JJ low-complexity) (JJ 8-point) (JJ orthogonal) (NN approximate) (NNP DCT)) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (DT The) (VBN proposed) (NN transform)) (VP (VBZ requires) (NP (DT no) (NX (NX (NNS multiplications)) (CC or) (NX (JJ bit-shift) (NNS operations))))) (. .))
-(S (NP (DT The) (VBN derived) (RB fast) (JJ algorithm)) (VP (VBZ requires) (NP (NP (QP (RB only) (CD 14)) (NNS additions)) (, ,) (ADJP (ADJP (JJR less)) (PP (IN than) (NP (DT any) (VBG existing) (NNP DCT) (NN approximation)))))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (PP (IN in) (NP (JJ several) (NN image) (NN compression) (NNS scenarios))) (, ,) (NP (DT the) (VBN proposed) (NN transform)) (VP (MD could) (VP (VB outperform) (NP (NP (DT the) (JJ well-known) (JJ signed) (NNP DCT)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (JJ state-of-the-art) (NN algorithms))))) (. .))

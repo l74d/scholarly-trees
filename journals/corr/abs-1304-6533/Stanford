@@ -1,3 +1,0 @@
-(S (NP (ADJP (RB Locally) (JJ exact)) (NNS integrators)) (VP (VB preserve) (NP (NP (NN linearization)) (PP (IN of) (NP (NP (DT the) (JJ original) (NN system)) (PP (IN at) (NP (DT every) (NN point))))))) (. .))
-(S (NP (PRP We)) (VP (VBP construct) (NP (NP (NN energy)) (HYPH -) (SBAR (S (VP (VBG preserving) (NP (NP (ADJP (RB locally) (JJ exact)) (JJ discrete) (NN gradient) (NNS schemes)) (PP (IN for) (NP (JJ arbitrary) (JJ multidimensional) (JJ canonical) (JJ Hamiltonian) (NNS systems)))) (PP (IN by) (S (VP (VBG modifying) (NP (JJ classical) (JJ discrete) (NN gradient) (NNS schemes)))))))))) (. .))
-(S (NP (NP (NNS Modifications)) (PP (IN of) (NP (DT this) (NN kind)))) (VP (VBP are) (VP (VBN found) (PP (IN for) (NP (DT any) (JJ discrete) (NN gradient))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (PRP$ Our) (NN method)) (VP (VBZ uses) (NP (DT an) (JJ FST-based) (JJ morphological) (NN analyzer)) (S (VP (TO to) (VP (VB produce) (NP (NP (DT an) (JJ ambiguous) (NN set)) (PP (IN of) (NP (NP (JJ morphological) (NNS readings)) (PP (IN for) (NP (NP (DT each) (NN word)) (PP (IN in) (NP (DT a) (NN sentence)))))))))))) (. .))

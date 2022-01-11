@@ -1,7 +1,0 @@
-(S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (ADJP (ADJP (JJ essential)) (CC and) (ADJP (JJS most) (JJ complex))) (NNS components)) (PP (IN in) (NP (DT the) (NN software) (NN development) (NN process)))))) (VP (VBZ is) (NP (DT the) (NN database))) (. .))
-(S (NP (DT The) (NN complexity)) (VP (VBZ increases) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (`` ``) (NN orientation) ('' '')) (PP (IN of) (NP (DT the) (NN interacting) (NNS components)))) (VP (NNS differs))))) (. .))
-(S (NP (DT A) (NN persistence) (NN framework)) (VP (VBZ moves) (NP (NP (DT the) (NN program) (NNS data)) (PP (IN in) (NP (PRP$ its) (ADJP (RBS most) (JJ natural)) (NN form)))) (PP (TO to) (CC and) (IN from) (NP (NP (DT a) (JJ permanent) (NN data) (NN store)) (, ,) (NP (DT the) (NN database))))) (. .))
-(S (ADVP (RB Thus)) (NP (DT a) (NN persistence) (NN framework)) (VP (VBZ manages) (NP (NP (DT the) (NN database)) (CC and) (NP (NP (DT the) (NN mapping)) (PP (IN between) (NP (NP (DT the) (NN database)) (CC and) (NP (DT the) (NNS objects))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ compares) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (CD two) (NN persistence) (NNS frameworks))))) (. ?))
-(S (NP (NP (NNP Hibernate) (CC and) (NN iBatis) (. ?) (JJ s)) (NNP SQLMaps)) (VP (VBG using) (NP (DT a) (NN banking) (NN database))) (. .))
-(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (NP (DT both)) (PP (IN of) (NP (DT these) (NNS tools))))) (PP (IN in) (NP (ADJP (JJ single) (CC and) (JJ multi-user)) (NNS environments)))) (VP (VBP are) (VP (VBN evaluated))) (. .))

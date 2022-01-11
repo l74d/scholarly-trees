@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ local) (NN algorithm)) (PRN (-LRB- -LRB-) (NP (JJ constant-time) (VBN distributed) (NN algorithm)) (-RRB- -RRB-)) (PP (IN for) (S (VP (VBG finding) (NP (DT a) (JJ 3-approximate) (NN vertex) (NN cover)) (PP (IN in) (NP (JJ bounded-degree) (NN graphs)))))))) (. .))
-(S (S (NP (DT The) (NN algorithm)) (VP (VBZ is) (ADJP (JJ deterministic)))) (, ,) (CC and) (S (NP (NP (DT no) (JJ auxiliary) (NN information)) (PP (IN besides) (NP (NN port) (NN numbering)))) (VP (VBZ is) (VP (VBN required)))) (. .))

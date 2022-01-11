@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN document)) (VP (VBZ describes) (NP (NP (DT the) (NNP QSPN)) (, ,) (NP (NP (DT the) (NML (NN routing) (NN discovery)) (NN algorithm)) (VP (VBN used) (PP (IN by) (NP (NNP Netsukuku))))))) (. .))
-(S (PP (IN Through) (NP (DT a) (JJ deductive) (NN analysis))) (NP (NP (DT the) (JJ main) (NNS proprieties)) (PP (IN of) (NP (DT the) (NNP QSPN)))) (VP (VBP are) (VP (VBN shown))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (NP (DT a) (JJ second) (NN version)) (PP (IN of) (NP (DT the) (NN algorithm)))) (, ,) (VP (VBZ is) (VP (VBN presented))) (. .))

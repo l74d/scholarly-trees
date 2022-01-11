@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT the) (JJ first) (NN construction)) (PP (IN of) (NP (NP (JJ Attribute-Based) (NNP Encryption)) (PRN (-LRB- -LRB-) (NP (NNP ABE)) (-RRB- -RRB-)))) (PP (IN for) (NP (JJ general) (NNS circuits))))) (. .))
-(S (NP (PRP$ Our) (NN construction)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (JJ multilinear) (NNS maps))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (JJ selective) (NN security)) (PP (IN of) (NP (PRP$ our) (NN scheme)))) (PP (IN in) (NP (DT the) (JJ standard) (NN model))) (PP (IN under) (NP (NP (DT the) (JJ natural) (JJ multilinear) (NN generalization)) (PP (IN of) (NP (DT the) (NNP BDDH) (NN assumption)))))) (. .))
-(S (NP (PRP$ Our) (NN scheme)) (VP (VBZ achieves) (NP (NP (DT both) (NNP Key-Policy) (CC and) (NNP Ciphertext-Policy) (NNS variants)) (PP (IN of) (NP (NNP ABE))))) (. .))

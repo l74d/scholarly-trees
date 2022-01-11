@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ online) (NN regression))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (JJ theoretical)) (VP (VBN bound) (PP (IN on) (NP (NP (DT the) (JJ square) (NN loss)) (PP (IN of) (NP (NNP Ridge) (NNP Regression)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP do) (RB not) (VP (VB make) (NP (DT any) (NNS assumptions)) (PP (IN about) (NP (NN input) (NNS vectors) (CC or) (NNS outcomes))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NML (JJ Bayesian) (NNP Ridge)) (NNP Regression)) (VP (MD can) (VP (VB be) (VP (VBN thought) (PP (IN of) (IN as) (NP (NP (DT an) (JJ online) (NN algorithm)) (VP (VBG competing) (PP (IN with) (NP (PDT all) (DT the) (JJ Gaussian) (JJ linear) (NNS experts)))))))))))) (. .))

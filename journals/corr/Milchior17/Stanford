@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (DT the) (CD three) (NN graph) (NN search) (NN algorithm)) (NP (NNP LexDFS) (, ,) (NNP LexUP) (CC and) (NNP LexDOWN))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP LexUP) (NNS orderings)) (VP (MD can) (VP (VB be) (VP (VBN computed) (PP (IN in) (NP (JJ linear) (NN time))) (PP (IN by) (NP (DT an) (NN algorithm))) (S (ADJP (JJ similar) (PP (IN to) (NP (NP (DT the) (CD one)) (SBAR (WHNP (WDT which)) (S (VP (VBP compute) (NP (NNP LexBFS))))))))))))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (PP (IN for) (NP (NP (DT a) (JJ single) (NN use)) (PP (IN of) (NP (DT a) (NN qubit) (NN channel))))) (, ,) (NP (JJ quantum) (JJ non-signalling) (NNS correlations)) (VP (VBP are) (RB not) (ADJP (ADJP (RBR more) (JJ powerful)) (PP (IN than) (NP (VBN shared) (NN entanglement)))))))) (. .))

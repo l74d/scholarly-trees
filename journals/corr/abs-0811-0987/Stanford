@@ -1,2 +1,0 @@
-(S (PP (IN Over) (NP (NNS integers))) (, ,) (NP (NP (DT the) (NN satisfiability) (NN problem)) (PP (IN for) (NP (JJ such) (NNS systems)))) (VP (VBZ is) (ADJP (JJ polynomial)) (NP-TMP (NN time))) (. .))
-(S (NP (DT The) (NN problem)) (VP (VBZ becomes) (S (NP (NNP NP)) (ADJP (JJ complete)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP restrict) (NP (NN attention)) (PP (IN to) (NP (NP (DT the) (NNS residues)) (PP (IN for) (NP (DT a) (VBN fixed) (NN modulus) (NN N.)))))))))))

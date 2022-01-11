@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (DT the) (JJ initial) (NML (NML (NN COVID) (HYPH -) (CD 19)) (NML (JJ open) (NN image) (NNS data))) (NN collection))) (. .))
-(S (NP (PRP It)) (VP (VP (VBD was) (VP (VBN created) (PP (IN by) (S (VP (VBG assembling) (NP (JJ medical) (NNS images)) (PP (IN from) (NP (NNS websites) (CC and) (NNS publications)))))))) (CC and) (ADVP (RB currently)) (VP (VBZ contains) (NP (CD 123) (JJ frontal) (NN view) (NNS X-rays)))) (. .))

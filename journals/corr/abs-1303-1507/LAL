@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VP (VBZ introduces) (NP (NP (DT a) (JJ qualitative) (NN measure)) (PP (IN of) (NP (NN ambiguity))))) (CC and) (VP (VBZ analyses) (NP (NP (PRP$ its) (NN relationship)) (PP (IN with) (NP (NP (JJ other) (NNS measures)) (PP (IN of) (NP (NN uncertainty)))))))) (. .))
-(S (NP (NNP Probability)) (VP (VBZ measures) (NP (JJ relative) (NNS likelihoods)) (, ,) (SBAR (IN while) (S (NP (NN ambiguity)) (VP (NNS measures) (NP (NP (IN vagueness)) (VP (VBG surrounding) (NP (DT those) (NNS judgments)))))))) (. .))
-(S (NP (NNP Ambiguity)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN representation)) (PP (IN of) (NP (JJ uncertain) (NN knowledge))))) (. .))
-(S (NP (PRP It)) (VP (VBZ deals) (PP (IN with) (NP (NP (DT a) (JJ different) (, ,) (NN type)) (PP (IN of) (NP (NN uncertainty))) (VP (VBN modeled) (PP (IN by) (NP (JJ subjective) (NN probability) (CC or) (NN belief))))))) (. .))

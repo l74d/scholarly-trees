@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (JJ local) (NN search) (NN algorithm)) (PP (IN for) (NP (NN satisfiability) (NNS problems))))) (. .))
-(S (NP (JJ Usual) (NNS approaches)) (VP (VBP focus) (ADVP (RB uniformly)) (PP (IN on) (NP (JJ unsatisfied) (NNS clauses)))) (. .))
-(NP (NP (DT The) (JJ new) (NN method) (NNS works)) (PP (IN by) (S (VP (VBG picking) (NP (ADJP (RB uniformly) (JJ random)) (NNS variables)) (PP (IN in) (NP (JJ unsatisfied) (NNS clauses)))))) (. .))
-(S (NP (NP (DT A) (ADJP (JJ Variable) (HYPH -) (VBN based)) (NNP Focused) (NNP Metropolis) (NNP Search)) (-LRB- -LRB-) (NP (NNP V) (HYPH -) (NNP FMS)) (-RRB- -RRB-)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN applied) (PP (IN to) (NP (JJ random) (NML (CD 3) (HYPH -) (NN SAT)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB quite) (JJ comparable) (PP (IN in) (NP (NN performance)))) (PP (IN to) (NP (ADJP (NP (DT the) (NN clause)) (HYPH -) (VBN based)) (NNP FMS))))))) (. .))
-(S (NP (NP (NNS Consequences)) (PP (IN for) (NP (JJ algorithmic) (NN design)))) (VP (VBP are) (VP (VBN discussed))) (. .))

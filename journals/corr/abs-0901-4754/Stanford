@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (DT an) (NN algebra)) (PP (IN for) (S (VP (VBG composing) (NP (NP (NN automata)) (SBAR (WHNP (WDT which)) (S (VP (VBZ includes) (NP (NP (DT both) (JJ classical) (CC and) (JJ quantum) (NNS entities)) (CC and) (NP (PRP$ their) (NNS communications))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP illustrate) (PP (IN by) (S (VP (VBG describing) (PP (IN in) (NP (NP (NN detail)) (NP (DT a) (NN quantum) (NN protocol)))))))) (. .))

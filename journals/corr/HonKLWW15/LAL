@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ convexity) (NNS properties)) (PP (IN of) (NP (NN graphs))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD present) (NP (NP (DT a) (JJ linear-time) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (JJ geodetic) (NN number)) (PP (IN in) (NP (JJ tree-cographs))))))) (. .))
-(S (S (VP (VBG Settling) (NP (DT a) (JJ 10-year-old) (NN conjecture)))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NNP Steiner) (NN number)) (VP (VBZ is) (NP (NP (ADVP (IN at) (JJS least)) (DT the) (JJ geodetic) (NN number)) (PP (IN in) (NP (NNP AT-free) (NN graphs)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (NP (JJ polynomial) (NN algorithms)) (PP (IN for) (NP (NP (DT the) (JJ monophonic) (NN number)) (PP (IN in) (NP (NN permutation) (NN graphs)))))) (CC and) (NP (NP (DT the) (JJ geodetic) (NN number)) (PP (IN in) (NP (ADJP ($ $) (NNP P_4) ($ $) (: -)) (NN sparse) (NN graphs)))))) (. .))

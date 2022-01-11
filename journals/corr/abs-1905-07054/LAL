@@ -1,8 +1,0 @@
-(SQ (NNP Are) (NP (JJ automated) (NNS vehicles)) (ADVP (RB really)) (ADJP (ADJP (JJR safer)) (PP (IN than) (NP (ADJP (RB manually) (VBN driven)) (NNS vehicles)))) (. ?))
-(SBARQ (SBAR (IN If) (RB so)) (, ,) (WHADVP (WRB how)) (SQ (MD would) (NP (PRP we)) (VP (VB know))) (. ?))
-(S (S (VP (VBG Answering) (NP (DT this) (NN question)))) (VP (VBZ has) (VP (VBN spurred) (NP (DT a) (JJ contentious) (NN debate)))) (. .))
-(S (ADVP (RB Unfortunately)) (, ,) (NP (JJ several) (NNS issues)) (VP (VBP make) (S (VP (VBG answering) (NP (NP (DT this) (NN question)) (ADJP (JJ difficult))))) (PP (IN for) (NP (DT the) (JJ foreseeable) (NN future)))) (. .))
-(SBARQ (ADVP (RB First)) (, ,) (WHADVP (WRB how)) (SQ (VBP do) (NP (PRP we)) (VP (VB measure) (NP (NN safety)))) (. ?))
-(SBARQ (ADVP (NNP Second)) (, ,) (WHADVP (WRB how)) (SQ (MD can) (NP (PRP we)) (VP (VB keep) (NP (NN track)) (PP (IN of) (NP (JJ automated) (NN vehicle) (PRN (-LRB- -LRB-) (NNP AV) (-RRB- -RRB-)) (NN safety))))) (. ?))
-(SBARQ (ADVP (RB Finally)) (, ,) (WHADVP (WRB how)) (SQ (VBP do) (NP (PRP we)) (VP (VB determine) (SBAR (SBAR (WHNP (WP what)) (S (VP (VBZ is)))) (CC or) (SBAR (SBAR (WHNP (WP what)) (S (VP (VBZ is) (RB not)))) (NP (DT an) (NNP AV)))))) (. ?))
-(S (SBAR (IN Until) (S (NP (DT these) (NNS questions)) (VP (VBP are) (VP (VBN addressed))))) (, ,) (NP (NP (PRP it))) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB be) (ADJP (JJ difficult)) (S (VP (TO to) (VP (VB determine) (SBAR (WHADVP (IN whether) (CC or) (WRB when)) (S (NP (NNP AVs)) (VP (MD might) (ADVP (RB really)) (VP (VB be) (ADJP (ADJP (JJR safer)) (PP (IN than) (NP (ADJP (RB manually) (JJ driven)) (NNS vehicles)))))))))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ provides) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (NP (NN patent) (NN activity)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (JJ quantum) (NN information) (NN processing))))))))) (. .))
-(S (NP (NP (NNS Data)) (PP (IN from) (NP (DT the) (NNP PatentScope) (NN database))) (PP (IN from) (NP (DT the) (NNS years) (CD 1993-2011)))) (VP (VBD was) (VP (VBN used))) (. .))
-(S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB predict) (NP (NP (DT the) (NN future) (VBZ trends)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (VBN filed) (NNS patents)))))))))) (NP (NN time) (NN series) (NNS models)) (VP (VBD were) (VP (VBN used))) (. .))

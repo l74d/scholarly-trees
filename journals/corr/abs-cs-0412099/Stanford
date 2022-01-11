@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (ADJP (RB remarkably) (JJ long)) (NML (PP (HYPH -) (NP (NN standing)))) (NN problem)) (PP (IN of) (NP (NN cryptography)))) (VP (VBZ is) (S (VP (TO to) (VP (VB generate) (NP (ADJP (RB completely) (JJ secure)) (NN key)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN believed) (SBAR (IN that) (S (NP (DT the) (NN task)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN achieved) (PP (IN within) (NP (JJ classical) (NN cryptography)))))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NN proof)) (PP (IN in) (NP (NP (NN support)) (PP (IN of) (NP (DT this) (NN belief))))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (ADJP (RB incredibly) (JJ simple)) (JJ classical) (NN cryptosystem)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB generate) (NP (ADJP (RB completely) (JJ secure)) (NN key)))))))) (. .))

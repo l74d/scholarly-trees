@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT the) (JJ following) (NN paper))) (NP (PRP we)) (VP (MD will) (VP (VB consider) (NP (NP (NNP Navier-Stokes) (NN problem)) (CC and) (NP (NP (NP (PRP it) (VBZ 's)) (NN interpretation)) (PP (IN by) (NP (JJ hyperbolic) (NNS waves))))) (, ,) (S (VP (VBG focusing) (PP (IN on) (NP (NN wave) (NN propagation))))))) (. .))
-(S (NP (PRP We)) (VP (MD will) (VP (VP (VB begin) (PP (IN with) (NP (NP (NN solution)) (PP (IN for) (NP (JJ linear) (NNS waves)))))) (, ,) (ADVP (RB then)) (VP (JJ present) (NP (NP (NN problem)) (PP (IN for) (NP (JJ non-linear) (NNS waves))))))) (. .))
-(S (ADVP (RB Later)) (NP (PRP we)) (VP (MD will) (VP (VB derive) (PP (IN for) (NP (JJ numerical) (NN solution))) (S (VP (VBG using) (NP (NNP PDE) (POS 's)))))) (. .))
-(S (ADVP (RB Also)) (NP (PRP we)) (VP (MD will) (VP (VB design) (NP (NP (DT a) (NNP Matlab) (NN program)) (SBAR (S (VP (TO to) (VP (VB solve) (CC and) (VB simulate) (NP (NN wave) (NN propagation))))))))) (. .))

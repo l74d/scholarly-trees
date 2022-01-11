@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ new) (ADJP (ADJP (NN simple) (CC and) (JJ short)) (PRN (-LRB- -LRB-) (`` ``) (JJ one-line) ('' '') (-RRB- -RRB-))) (NN analysis)) (PP (IN for) (NP (NP (DT the) (NN runtime)) (PP (IN of) (NP (DT the) (JJ well-known) (NNP Euclidean) (NNP Algorithm))))))) (. .))
-(S (SBAR (IN While) (S (ADJP (RB very) (JJ short)) (NN simple))) (, ,) (NP (DT the) (VBN obtained) (JJ upper) (NN bound)) (VP (IN in) (ADJP (JJ near-optimal))) (. .))

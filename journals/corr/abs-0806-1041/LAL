@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN isomorphism)) (PP (IN of) (NP (JJ 3-connected) (NN planar) (NN graphs)))) (VP (MD can) (VP (VB be) (VP (VBN decided) (PP (IN in) (NP (JJ deterministic) (NN log-space))))))))) (. .))

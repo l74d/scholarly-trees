@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NP (ADJP (RB globally) (VBG attracting)) (NNS solutions)) (PP (IN of) (NP (DT the) (JJ viscous) (NNS Burgers) (VBP equation))) (PP (IN with) (NP (NP (JJ periodic) (JJ boundary) (NNS conditions)) (PP (IN on) (NP (DT the) (NN line))))) (PP (IN for) (NP (NP (DT some) (JJ particular) (NNS choices)) (PP (IN of) (NP (NP (NN viscosity)) (CC and) (NP (JJ non-autonomous) (NN forcing)))))))))) (. .))
-(S (NP (DT The) (JJ attract-) (NN ing) (NN solution)) (VP (VBZ is) (ADJP (JJ periodic)) (SBAR (IN if) (S (NP (DT the) (NN forcing)) (VP (VBZ is) (ADJP (JJ periodic)))))) (. .))
-(S (NP (DT The) (NN method)) (VP (VP (VBZ is) (ADJP (JJ general))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (TO to) (NP (JJ other) (JJ similar) (JJ partial) (JJ differential) (NNS equations))))))) (. .))
-(S (NP (DT The) (NN proof)) (VP (VBZ is) (ADJP (NN computer) (VBN assisted))) (. .))

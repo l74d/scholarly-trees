@@ -1,1 +1,0 @@
-(S (NP (NP (DT A) (ADJP (JJ connected) (JJ undirected)) (NN graph)) (NP (NML (NML ($ $)) (NN G)) (SYM =) (NML (NML (-LRB- -LRB-) (NML (NN V)) (, ,) (NML (NN E)) (-RRB- -RRB-)) (NML ($ $))))) (VP (VBZ is) (VP (VBN given))) (. .))

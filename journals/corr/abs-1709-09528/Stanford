@@ -1,7 +1,0 @@
-(S (NP (DT A) (JJ new) (NN multifocus) (NML (NN image) (NN fusion)) (NN approach)) (VP (VBZ is) (VP (VBN presented) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
-(S (ADVP (RB First)) (NP (DT the) (NN contourlet) (S (VP (VB transform)))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB decompose) (NP (DT the) (NN source) (NNS images)) (PP (IN into) (NP (JJ different) (NNS components)))))))) (. .))
-(S (ADVP (RB Then)) (, ,) (NP (DT some) (JJ salient) (NNS features)) (VP (VBP are) (VP (VBN extracted) (PP (IN from) (NP (NNS components))))) (. .))
-(S (PP (IN In) (NP (NN order) (S (VP (TO to) (VP (VB extract) (NP (JJ salient) (NNS features))))))) (, ,) (NP (JJ spatial) (NN frequency)) (VP (VBZ is) (VP (VBN used))) (. .))
-(S (ADVP (RB Subsequently)) (, ,) (NP (NP (DT the) (JJS best) (NNS coefficients)) (PP (IN from) (NP (DT the) (NNS components)))) (VP (VBP are) (VP (VBN selected) (PP (IN by) (NP (DT the) (NN maximum) (NN selection) (NN rule))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (DT the) (NN inverse) (NN contourlet)) (VP (VBP transform) (SBAR (S (VP (VBZ is) (VP (VBN applied) (PP (IN to) (NP (DT the) (VBN selected) (NNS coefficients)))))))) (. .))
-(S (NP (NNS Experiments)) (VP (VBP show) (NP (NP (DT the) (NN superiority)) (PP (IN of) (NP (DT the) (JJ proposed) (NN method))))) (. .))

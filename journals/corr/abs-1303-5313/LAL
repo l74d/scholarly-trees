@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ incremental) (NN maintenance) (NN algorithm)) (PP (IN for) (NP (JJ leapfrog) (NN triejoin))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ maintains) (NP (NP (NNS rules))) (PP (IN in) (NP (NN time))) (ADJP (JJ proportional) (PRN (-LRB- -LRB-) (PP (JJ modulo) (NP (NN log) (NNS factors))) (-RRB- -RRB-)) (PP (TO to) (NP (NP (DT the) (NN edit) (NN distance)) (PP (IN between) (NP (JJ leapfrog) (NN triejoin) (NNS traces))))))) (. .))

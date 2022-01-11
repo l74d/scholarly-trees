@@ -1,3 +1,0 @@
-(S (NP (JJ Applicative) (NN bisimulation)) (VP (VBZ is) (NP (NP (DT a) (JJ coinductive) (NN technique)) (SBAR (S (VP (TO to) (VP (VB check) (NP (NN program) (NN equivalence)) (PP (IN in) (NP (JJ higher-order) (JJ functional) (NNS languages))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (VBN sound)) (, ,) (CC and) (ADJP (ADVP (RB sometimes)) (JJ complete)) (, ,)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (VB context) (NN equivalence)))))))))) (. .))
-(S (NP (DT The) (JJ main) (NNS results)) (VP (VBP are) (NP (NP (JJ proofs)) (PP (IN of) (NP (NN soundness))) (PP (IN for) (NP (NP (DT the) (JJ obtained) (NNS notions)) (PP (IN of) (NP (NN bisimilarity))))))) (. .))

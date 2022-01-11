@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (NN control) (NN strategy)) (PP (IN without) (NP (DT any) (JJ precise) (JJ mathematical) (NN model)))) (VP (VBZ is) (VP (VBN derived) (PP (IN for) (NP (NP (ADJP (JJ linear) (CC or) (JJ nonlinear)) (NNS systems)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (JJ finite) (HYPH -) (JJ dimensional))))))))))))) (. .))
-(S (NP (CD Two) (JJ convincing) (JJ numerical) (NNS simulations)) (VP (VBP are) (VP (VBN provided))) (. .))

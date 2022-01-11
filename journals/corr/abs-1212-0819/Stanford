@@ -1,3 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN proposed) (NP (DT a) (JJ new) (NN code)) (PP (IN for) (NP (NP (NNS contours)) (PP (IN of) (NP (NN plane) (NNS images))))))) (. .))
-(S (NP (DT This) (NN code)) (VP (VBD was) (VP (VBN applied) (PP (IN for) (NP (NP (JJ optical) (NN character) (NN recognition)) (PP (IN of) (NP (ADJP (VBN printed) (CC and) (JJ handwritten)) (NNS characters))))))) (. .))
-(S (NP (PRP One)) (VP (MD can) (VP (VB apply) (NP (PRP it)) (PP (IN to) (NP (NP (NN recognition)) (PP (IN of) (NP (DT any) (JJ visual) (NNS images))))))) (. .))

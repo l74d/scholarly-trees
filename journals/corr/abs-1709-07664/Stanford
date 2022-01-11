@@ -1,2 +1,0 @@
-(S (NP (DT These) (NNS functions)) (VP (VBP are) (VP (VBN selected) (PP (IN with) (NP (JJS simplest) (NNS coefficients))) (PP (IN from) (NP (NN CCZ) (HYPH -) (JJ inequivalent) (NNS classes))))) (. .))
-(S (NP (DT This) (NN work)) (VP (MD can) (VP (VB simplify) (NP (NP (VBG checking) (NML (NN CCZ) (HYPH -) (NN equivalence))) (PP (IN between) (NP (NP (DT any) (NNP APN) (NN function)) (CC and) (NP (JJ infinite) (NN APN) (NNS families))))))) (. .))

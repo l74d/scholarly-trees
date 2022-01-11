@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ generative) (NN model)) (PP (IN of) (NP (DT a) (NN group) (NN EEG) (NN analysis)))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (JJ appropriate) (NN kernel) (NNS assumptions)) (PP (IN on) (NP (NN EEG) (NNS data))))))) (. .))
-(S (NP (PRP We)) (VP (VBP derive) (NP (DT the) (JJ variational) (NN inference) (NN update) (NN rule)) (S (VP (VBG using) (NP (JJ various) (NN approximation) (NNS techniques))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ outperforms) (NP (DT the) (NML (NML (JJ current) (NN state)) (HYPH -) (PP (IN of) (HYPH -) (NP (DT the) (HYPH -) (NN art)))) (NNS algorithms)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ common) (NN pattern) (NN extraction)))))) (. .))
-(S (NP (NP (DT The) (NN validity)) (PP (IN of) (NP (DT the) (VBN proposed) (NN model)))) (VP (VBZ is) (VP (VBN tested) (PP (IN on) (NP (DT the) (NNP BCI) (NN competition) (NN dataset))))) (. .))

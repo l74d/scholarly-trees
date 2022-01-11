@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ 2-player) (JJ turn-based) (NN perfect-information) (JJ stochastic) (NNS games)) (PP (IN with) (NP (ADJP (RB countably) (JJ infinite)) (NN state) (NN space))))) (. .))
-(S (S (NP (DT These) (NNS games)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (RB weakly) (VBN determined)))))))) (, ,) (FRAG (WHADVP (FW i.e.)) (, ,) (S (NP (PRP they)) (VP (VBP have) (NP (NN value))))) (. .))
-(NP ($ $) (CD <) (JJ c) ($ $) (-RRB- -RRB-) (. ?))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ almost-sure) (NNS objectives)) (PRN (-LRB- -LRB-) (SBAR (WHADVP (WRB where)) (S (NP ($ $)) (VP (VB c=1) ($ $)))) (-RRB- -RRB-))) (VP (VBP are) (VP (ADVP (RB strongly)) (VBN determined)))))) (. .))
-(S (NP (DT This)) (VP (ADVP (RB vastly)) (VBZ generalizes) (NP (NP (DT a) (JJ previous) (NN result)) (PP (IN on) (NP (NP (JJ finite) (NNS games)) (PP (IN with) (NP (JJ almost-sure) (NN tail) (NNS objectives))))))) (. .))

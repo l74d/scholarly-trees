@@ -1,2 +1,0 @@
-(UCP (NP (NP (PRP We)) (NP (NN design))) (CC and) (SINV (VP (VB study) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (DT a) (NN message)) (VP (VBG passing)))))) (NP (NP (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ aims) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN optimization) (NN problem)))))))))) (. .))
-(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (JJ sharp) (NN analysis)) (PP (IN on) (NP (NP (DT the) (NN sensitivity)) (PP (IN of) (NP (NP (DT the) (NN algorithm)) (PP (IN to) (NP (NN noise)))))))) (. .))

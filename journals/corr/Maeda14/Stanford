@@ -1,5 +1,0 @@
-(S (NP (NN Dropout)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ key) (NNS techniques))) (S (VP (TO to) (VP (VB prevent) (NP (DT the) (NN learning)) (PP (IN from) (S (VP (VBG overfitting))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN explained) (SBAR (IN that) (S (NP (NN dropout)) (VP (VBZ works) (PP (IN as) (NP (NP (DT a) (NN kind)) (PP (IN of) (NP (VBN modified) (NN L2) (NN regularization)))))))))) (. .))
-(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBD shed) (NP (NN light)) (PP (IN on) (NP (DT the) (NN dropout))) (PP (IN from) (NP (JJ Bayesian) (NN standpoint)))) (. .))
-(S (NP (JJ Bayesian) (NN interpretation)) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB optimize) (NP (NP (DT the) (NN dropout) (NN rate)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ beneficial) (PP (IN for) (NP (NP (NN learning)) (PP (IN of) (NP (NP (NN weight) (NNS parameters)) (CC and) (NP (NN prediction))))))) (PP (IN after) (S (VP (VBG learning)))))))))))) (. .))
-(S (NP (DT The) (NN experiment) (NN result)) (ADVP (RB also)) (VP (VBZ encourages) (NP (NP (DT the) (NN optimization)) (PP (IN of) (NP (DT the) (NN dropout))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (, ,) (S (PP (IN on) (NP (JJ input) (QP ($ $) (JJ n) ($ $)))) (, ,) (VP (VBZ lists) (NP (NP (DT every) (JJ unlabeled) (NN tree)) (PP (IN of) (NP (NN order) (QP ($ $) (JJ n) ($ $)))))))))) (. .))

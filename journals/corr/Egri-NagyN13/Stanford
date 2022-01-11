@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (JJ new) (NN notation)) (PP (IN for) (NP (JJ finite) (NNS transformations))))) (. .))
-(S (NP (DT This) (JJ compact) (NN notation)) (VP (VP (VBZ extends) (NP (DT the) (NN orbit) (HYPH -) (NN cycle) (NN notation)) (PP (IN for) (NP (NNS permutations)))) (CC and) (VP (VBZ builds) (PP (IN upon) (NP (VBG existing) (NNS notations))))) (. .))
-(S (NP (PRP It)) (VP (VP (VBZ gives) (NP (NN insight)) (PP (IN into) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (NNS transformations)))))) (CC and) (VP (VBZ reduces) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (NNS expressions)))) (PP (IN without) (S (VP (VBG increasing) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS types)) (PP (IN of) (NP (NNS symbols))))))))))) (. .))

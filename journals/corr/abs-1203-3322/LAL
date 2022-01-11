@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (ADJP (RB somewhat) (JJ different)) (NN way)) (PP (IN of) (S (VP (VBG looking) (PP (IN on) (NP (NNP Shannon) (NN entropy)))))))) (. .))
-(S (NP (DT This)) (VP (VBZ leads) (PP (TO to) (NP (NP (DT an) (NN axiomatisation)) (PP (IN of) (NP (NNP Shannon) (NN entropy))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB essentially) (JJ equivalent) (PP (TO to) (NP (NP (DT that)) (PP (IN of) (NP (NNP Fadeev)))))))))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ new) (NN proof)) (PP (IN of) (NP (NNP Fadeev) (NN theorem))))) (. .))

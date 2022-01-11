@@ -1,5 +1,0 @@
-(S (NP (DT This) (JJ manual)) (VP (VBZ describes) (NP (NP (DT the) (NN library)) (PP (IN of) (NP (NP (NP (JJ conjugate) (NNS gradients) (NNS codes)) (NP (NNP CCGPAK))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ solves) (NP (NP (NN system)) (PP (IN of) (NP (NP (JJ complex) (JJ linear) (NN system)) (PP (IN of) (NP (NNS equations))))))))))))) (. .))
-(S (NP (DT The) (NN library)) (VP (VP (VBZ is) (VP (VBN written) (PP (IN in) (NP (NN FORTRAN90))))) (CC and) (VP (VBZ is) (ADJP (RB highly) (JJ portable)))) (. .))
-(S (NP (DT The) (NNS codes)) (VP (VP (VBP are) (ADJP (JJ general))) (CC and) (VP (VB provide) (NP (NN mechanism)) (PP (IN for) (NP (NP (NML (NN matrix) (NNS times)) (NN vector) (NN multiplication)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN separated) (PP (IN from) (NP (NP (DT the) (JJ conjugate) (NN gradient) (NNS iterations)) (ADVP (PRP itself)))))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ simple) (S (VP (TO to) (VP (VB switch) (PP (IN between) (NP (ADJP (JJ single) (CC and) (JJ double)) (NNS precisions)))))))) (. .))
-(S (NP (DT All) (NNS codes)) (VP (VBP follow) (NP (DT the) (JJ same) (NN naming) (NNS conventions))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (JJ Latent) (NN Sequence) (NNS Decompositions) (PRN (-LRB- -LRB-) (NP (NN LSD)) (-RRB- -RRB-))) (NP (NN framework)))) (. .))
-(S (NP (NN LSD)) (VP (VBZ decomposes) (NP (NP (NNS sequences)) (PP (IN with) (NP (JJ variable) (JJ lengthed) (NN output) (NNS units)))) (PP (IN as) (NP (NP (DT a) (NN function)) (PP (IN of) (NP (CC both) (NP (DT the) (NN input) (NN sequence)) (CC and) (NP (DT the) (NN output) (NN sequence))))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN training) (NN algorithm)) (SBAR (WHNP (WDT which)) (FRAG (NP (NP (NNS samples)) (NP (JJ valid) (NNS extensions)) (CC and) (NP (DT an) (JJ approximate) (NN decoding) (NN algorithm))))))) (. .))
-(S (NP (PRP We)) (VP (VBP experiment) (PP (IN with) (NP (DT the) (NML (NNP Wall) (NNP Street) (NNP Journal)) (NN speech) (NN recognition) (NN task)))) (. .))
-(S (NP (PRP$ Our) (NN LSD) (NN model)) (VP (VBZ achieves) (NP (NML (CD 12.9) (NN %)) (NN WER)) (PP (VBN compared) (PP (IN to) (NP (NP (DT a) (NN character) (NN baseline)) (PP (IN of) (NP (NML (CD 14.8) (NN %)) (NN WER))))))) (. .))
-(S (SBAR (WHADVP (WRB When)) (S (VP (VBN combined) (PP (IN with) (NP (NP (DT a) (JJ convolutional) (NN network)) (PP (IN on) (NP (DT the) (NN encoder)))))))) (, ,) (NP (PRP we)) (VP (VBP achieve) (NP (CD 9.6) (NN %) (NN WER))) (. .))

@@ -1,7 +1,0 @@
-(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (NN need)) (SBAR (IN for) (S (NP (NP (JJ new) (NNS metaphors)) (PP (IN from) (NP (NN immunology)))) (VP (TO to) (VP (VB flourish) (NP (NP (DT the) (NN application) (NNS areas)) (PP (IN of) (NP (NNP Artificial) (NNP Immune) (NNPS Systems)))))))))) (. .))
-(S (NP (NP (DT A) (JJ metaheuristic)) (VP (VBN called) (S (NP (NNP Obesity) (NNP Heuristic)))) (VP (VBD derived) (PP (IN from) (NP (NP (NNS advances)) (PP (IN in) (NP (NN obesity) (NN treatment))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (NP (DT The) (JJ main) (NNS forces)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBP are) (NP (DT the) (NN generation) (UCP (JJ omega-6) (CC and) (JJ omega-3)) (JJ fatty) (NNS acids))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ works) (PP (IN with) (NP (NNP Just-In-Time) (NN philosophy))) (: ;) (PP (IN by) (S (VP (VBG starting) (SBAR (WHADVP (RB only) (WRB when)) (S (VP (VBN desired)))))))) (. .))
-(S (NP (NP (DT A) (NN case) (NN study)) (PP (IN of) (NP (NNS data) (NN cleaning)))) (VP (VBZ is) (VP (VBN provided))) (. .))
-(S (SBAR (IN With) (S (NP (NNS experiments)) (VP (VBN conducted) (PP (IN on) (NP (JJ standard) (NNS tables)))))) (, ,) (NP (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP Obesity) (NNP Heuristic)) (VP (VBZ outperforms) (NP (JJ other) (NNS algorithms)) (, ,) (PP (IN with) (NP (ADJP (CD 100) (NN %)) (NN recall))))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ great) (NN improvement)) (PP (IN over) (NP (JJ other) (NNS algorithms))))))

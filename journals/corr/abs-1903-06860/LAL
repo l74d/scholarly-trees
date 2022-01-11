@@ -1,4 +1,0 @@
-(S (NP (NP (CD One)) (PP (IN of) (NP (PRP them)))) (VP (VBZ is) (NP (PRN (-LRB- -LRB-) (NN sub) (-RRB- -RRB-)) (NN prefix) (NN hijacking))) (. .))
-(S (NP (PRP$ Our) (NN work)) (VP (NNS measures) (CC and) (VBZ analyzes) (NP (DT the) (JJ invalid) (NNS prefixes)) (ADVP (RB systematically))) (. .))
-(S (NP (PRP We)) (VP (VP (ADVP (RB first)) (VB classify) (NP (DT the) (JJ invalid) (NNS prefixes)) (PP (IN into) (NP (CD six) (JJ different) (NNS types)))) (CC and) (ADVP (RB then)) (VP (VB analyze) (NP (PRP$ their) (NN stability)))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (JJ large) (NN proportion)) (PP (IN of) (NP (DT the) (JJ invalid) (NNS prefixes)))) (ADVP (RB very) (JJ likely)) (VP (NN result) (PP (IN from) (NP (NP (NP (NN traffic) (NN engineering)) (, ,) (NP (NNP IP) (NN address) (NN transfer)) (CC and) (S (VP (VBG failing) (S (VP (TO to) (VP (VB aggregate))))))) (PP (RB rather) (IN than) (NP (JJ real) (NNS hijackings))))))))) (. .))

@@ -1,5 +1,0 @@
-(S (VP (NNP Get) (S (NP (PRP 'em)) (NP (NNP Moles)))) (. !))
-(S (VP (VBZ is) (NP (NP (DT a) (JJ single-player) (JJ educational) (NN game)) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (JJ classic) (JJ arcade) (NN game)) (NP (NNP Whac-A-Mole))))))) (. .))
-(S (S (VP (ADVP (RB Primarily)) (VBN designed) (PP (IN for) (NP (JJ touchscreen) (NNS devices))))) (, ,) (VP (NNP Get) (S (NP (POS 'em)) (NP (NNP Moles)))) (. !))
-(S (VP (NNS aims) (S (VP (TO to) (VP (VB teach) (NP (JJ English) (NP (NN spelling) (CC and) (NN pronunciation))) (PP (IN through) (NP (VBG engaging) (NN game) (NN play))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN game)) (, ,) (NP (NP (NN design) (NNS decisions)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (NNS elements)) (SBAR (WHNP (WDT that)) (S (VP (VBP support) (NP (VBG learning)))))))))) (, ,) (NP (JJ preliminary) (NN play-testing) (NNS results)) (, ,) (CC and) (NP (JJ future) (NN work)))) (. .))

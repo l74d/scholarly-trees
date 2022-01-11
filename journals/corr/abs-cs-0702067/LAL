@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN wavelet) (NN transform)) (PP (IN of) (NP (DT a) (NN finite) (, ,) (VBN rooted) (, ,) (JJ node-ranked) (, ,) (ADJP ($ $) (JJ p) ($ $) (RB -way)) (JJ tree)))) (, ,) (S (VP (VBG focusing) (PP (IN on) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NN binary) (PRN (-LRB- -LRB-) (NP ($ $) (VBP p)) (VP ($ =) (NP (CD 2) ($ $))) (-RRB- -RRB-)) (NNS trees)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP study) (NP (DT a) (NNP Haar) (NN wavelet) (NN transform)) (PP (IN on) (NP (DT this) (NN tree)))) (. .))
-(S (NP (NN Wavelet) (NNS transforms)) (VP (VBP allow) (PP (IN for) (NP (NN multiresolution) (NN analysis))) (PP (IN through) (NP (NP (NN translation) (CC and) (NN dilation)) (PP (IN of) (NP (DT a) (NN wavelet) (NN function)))))) (. .))
-(S (NP (PRP We)) (VP (VBP explore) (SBAR (WHADVP (WRB how)) (S (NP (DT this)) (VP (VBZ works) (PP (IN in) (NP (PRP$ our) (JJ tree) (NN context))))))) (. .))

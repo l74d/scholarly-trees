@@ -1,2 +1,0 @@
-(S (NP (NP (NML (NML (NN Modification)) (PP (IN of) (NP (DT a) (JJ conceptual) (NN clustering) (NN algorithm)))) (NNP Cobweb)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NP (PRP$ its) (NN application)) (PP (IN for) (NP (JJ numerical) (NNS data)))))))) (VP (VBZ is) (VP (VBN offered))) (. .))
-(NP (NP (NNS Keywords)) (: :) (NP (NN clustering)) (, ,) (NP (NN algorithm) (NNP Cobweb)) (, ,) (NP (JJ numerical) (NNS data)) (, ,) (NP (JJ fuzzy) (NN membership) (NN function)) (. .))

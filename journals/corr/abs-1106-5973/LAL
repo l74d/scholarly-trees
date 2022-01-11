@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (NP (DT the) (NN entropy)) (PP (IN of) (NP (DT the) (NNP Telugu) (NN script))))))) (. .))
-(S (SBAR (IN Since) (S (NP (DT this) (NN script)) (VP (VBZ is) (ADJP (ADJP (JJ syllabic)) (, ,) (CC and) (RB not) (ADJP (JJ alphabetic)))))) (, ,) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NN entropy)))) (VP (VBZ is) (ADJP (RB somewhat) (VBN complicated))) (. .))

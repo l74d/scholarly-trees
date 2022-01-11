@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP find) (NP (ADJP (JJ linear) (PRN (-LRB- -LRB-) (ADVP (ADVP (RB as) (RB well)) (PP (IN as) (ADJP (JJ quadratic)))) (-RRB- -RRB-))) (NNS relations)) (PP (IN in) (NP (NP (DT a) (ADJP (RB very) (JJ large)) (NN class)) (PP (IN of) (NP (NN T) (HYPH -) (NNS functions)))))) (. .))
-(S (NP (DT The) (NNS relations)) (VP (MD may) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (NN analysis)) (PP (IN of) (NP (ADJP (NP (NN T) (HYPH -) (NN function)) (HYPH -) (VBN based)) (NN stream) (NNS ciphers)))))))) (. .))

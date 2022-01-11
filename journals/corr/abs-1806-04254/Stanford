@@ -1,7 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT a) (JJ modular) (NN approach)) (S (VP (TO to) (VP (VB discover) (NP (NP (NN process) (NNS models)) (PP (IN for) (NP (JJ multi-agent) (NNS systems)))) (PP (IN from) (NP (NN event) (NNS logs))))))) (. .))
-(S (NP (NNP System) (NN event) (NNS logs)) (VP (VBP are) (VP (VBN filtered) (PP (VBG according) (PP (IN to) (NP (JJ individual) (NN agent) (NN behavior)))))) (. .))
-(S (NP (PRP We)) (VP (VBP discover) (NP (NN workflow) (NNS nets)) (PP (IN for) (NP (NP (DT each) (NN agent)) (VP (VBG using) (NP (JJ existing) (NN process) (NN discovery) (NNS algorithms)))))) (. .))
-(S (NP (PRP We)) (VP (VBP consider) (NP (JJ asynchronous) (NNS interactions)) (PP (IN among) (NP (NNS agents)))) (. .))
-(S (PP (VBN Given) (NP (NP (DT a) (NN specification)) (PP (IN of) (NP (DT an) (NN interaction) (NN protocol))))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ general) (NN scheme)) (PP (IN of) (NP (NN workflow) (NN net) (NN composition))))) (. .))
-(S (PP (IN By) (S (VP (VBG using) (NP (NNS morphisms))))) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT this) (NN composition)) (VP (VBZ preserves) (NP (NP (NN soundness)) (PP (IN of) (NP (NNS components)))))))) (. .))
-(S (NP (DT A) (NN quality) (NN evaluation)) (VP (VBZ shows) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (NP (NNS models)) (VP (VBN discovered) (PP (IN by) (NP (DT the) (VBN proposed) (NN approach)))))))))) (. .))

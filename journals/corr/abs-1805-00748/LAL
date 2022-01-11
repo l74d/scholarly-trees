@@ -1,3 +1,0 @@
-(S (NP (DT The) (NNS translations)) (VP (VBP yield) (NP (NP (NNS automata)) (PP (IN of) (NP (NP (ADJP (RB asymptotically) (JJ optimal)) (NN size)) (PRN (-LRB- -LRB-) (ADJP (ADJP (JJ double) (CC or) (JJ single)) (NN exponential)) (, ,) (ADVP (RB respectively)) (-RRB- -RRB-)))))) (. .))
-(S (NP (DT All) (CD three) (NNS translations)) (VP (VBP are) (VP (VBN derived) (PP (IN from) (NP (NP (CD one) (JJ single) (NNP Master) (NNP Theorem)) (PP (IN of) (NP (ADJP (RB purely) (JJ logical)) (NN nature))))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (NP (NP (NNP Safra) (POS 's)) (, ,) (NN ranking) (, ,) (CC and) (NN breakpoint) (NNS constructions)) (VP (VBN used) (PP (IN in) (NP (JJ other) (NNS translations))))) (VP (VBP are) (RB not) (VP (VBN needed))) (. .))

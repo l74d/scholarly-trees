@@ -1,3 +1,0 @@
-(S (NP (NNP Networked) (VBD Embedded) (NNP Control) (NNPS Systems)) (VP (VBP are) (NP (NP (VBN distributed) (NN control) (NNS systems)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NN communication)) (PP (IN among) (NP (NNS plants) (, ,) (NNS sensors) (, ,) (NNS actuators) (CC and) (NNS controllers)))) (VP (VBP occurs) (PP (IN in) (NP (DT a) (JJ shared) (NN network)))))))) (. .))
-(S (NP (PRP They)) (VP (VBP have) (VP (VBN been) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (JJ intensive) (NN study)))) (PP (IN in) (NP (DT the) (JJ last) (JJ few) (NNS years))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (NN survey) (NP (NP (PRP$ our) (NN contribution)) (PP (TO to) (NP (DT this) (NN research) (NN topic))))) (. .))

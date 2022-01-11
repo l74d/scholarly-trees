@@ -1,2 +1,0 @@
-(S (NP (NP (NNS Problems)) (PP (IN of) (NP (NP (DT the) (VBG switching) (JJ parallel) (NN system)) (VP (VBG designing) (PP (VBN provided) (NP (NP (JJ spatial) (NN switching)) (PP (IN of) (NP (NP (NNS packets)) (PP (IN from) (NP (JJ random) (NN time))))))))))) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (NP (NP (NNS Results)) (PP (IN of) (NP (NP (NN modeling)) (PP (IN of) (S (VP (VBG switching) (NP (NN system)) (PP (IN as) (NP (NP (NNS systems)) (PP (IN of) (NP (JJ mass) (NN service))))))))))) (VP (VBP are) (VP (VBN resulted))) (. .))

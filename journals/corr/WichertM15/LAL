@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (JJ exact) (VBG indexing)) (PP (IN for) (NP (NP (ADJP (JJ high) (JJ dimensional)) (NNP Lp) (NNS norms)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ 1-Lipschitz) (NN property)) (CC and) (NP (NN projection) (NNS operators))))))))) (. .))
-(S (NP (NP (DT The) (JJ orthogonal) (NN projection)) (SBAR (WHNP (WDT that)) (S (VP (VBZ satisfies) (NP (NP (DT the) (JJ 1-Lipschitz) (NN property)) (PP (IN for) (NP (DT the) (NNP Lp) (NN norm)))))))) (VP (VBZ is) (VP (VBN described))) (. .))
-(S (NP (NP (DT The) (JJ adaptive) (NN projection)) (VP (VBN defined) (PP (IN by) (NP (DT the) (JJ first) (JJ principal) (NN component))))) (VP (VBZ is) (VP (VBN introduced))) (. .))

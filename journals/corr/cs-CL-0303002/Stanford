@@ -1,1 +1,0 @@
-(S (NP (DT The) (NN author)) (VP (VBZ uses) (NP (NP (DT the) (NN entropy)) (PP (IN of) (NP (DT the) (JJ ideal) (NML (NNP Bose) (HYPH -) (NNP Einstein)) (NN gas)))) (S (VP (TO to) (VP (VB minimize) (NP (NNS losses)) (PP (IN in) (NP (ADJP (NN computer) (HYPH -) (VBN oriented)) (NNS languages))))))) (. .))

@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT the) (NN paper))) (NP (NP (DT a) (JJ piecewise) (JJ constant) (NN image) (NNS approximations)) (PP (IN of) (NP (NP (JJ sequential) (NN number)) (PP (IN of) (NP (NN pixel) (NNS clusters) (CC or) (NNS segments)))))) (VP (VBP are) (VP (VBN treated))) (. .))
-(S (NP (NP (DT A) (NN majorizing)) (PP (IN of) (NP (NP (JJ optimal) (NN approximation) (NN sequence)) (PP (IN by) (NP (NP (JJ hierarchical) (NN sequence)) (PP (IN of) (NP (NN image) (NNS approximations)))))))) (VP (VBZ is) (VP (VBN studied))) (. .))
-(S (NP (NP (NN Transition)) (PP (IN from) (NP (NP (NN pixel) (NN clustering)) (PP (IN to) (NP (NP (NN image) (NN segmentation)) (PP (IN by) (S (VP (VBG reducing) (PP (IN of) (NP (NP (NN segment) (NNS numbers)) (PP (IN in) (NP (NNS clusters))))))))))))) (VP (VBZ is) (VP (VBN provided))) (. .))
-(S (NP (NNS Algorithms)) (VP (VBP are) (VP (VBN proved) (PP (IN by) (NP (JJ elementary) (NNS formulas))))) (. .))

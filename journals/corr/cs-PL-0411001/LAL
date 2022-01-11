@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN notion)) (PP (IN of) (NP (NN synchronization))) (PP (IN for) (NP (JJ higher-dimensional) (NNS automata))) (, ,) (VP (VBN based) (PP (IN on) (NP (NP (NNS coskeletons)) (PP (IN of) (NP (JJ cubical) (NNS sets)))))))) (. .))
-(S (NP (NN Categorification)) (VP (VBZ transports) (NP (DT this) (NN notion)) (PP (TO to) (NP (NP (DT the) (NN setting)) (PP (IN of) (NP (JJ categorical) (NN transition) (NNS systems)))))) (. .))
-(S (NP (PRP We)) (VP (VBP apply) (NP (DT the) (NNS results)) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NNS semantics)) (PP (IN of) (NP (NP (DT an) (JJ imperative) (NN programming) (NN language)) (PP (IN with) (NP (NN message-passing)))))))))) (. .))

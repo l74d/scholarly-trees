@@ -1,5 +1,0 @@
-(NP (NP (JJS Most)) (VP (VBG existing) (NP (NP (NNS characterizations)) (PP (IN of) (NP (NP (DT this) (NN kind) (NN concern) (NNS extensions)) (PP (IN of) (NP (NML (JJ first) (HYPH -) (NN order)) (NN logic))))))) (. .))
-(S (CC But) (PP (IN on) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NP (JJ many) (NNS logics)) (ADJP (JJ relevant) (PP (IN to) (NP (NN computer) (NN science))))) (VP (VBP are) (NP (NP (NP (NP (NNS fragments) (CC or) (NNS extensions)) (PP (IN of) (NP (NP (NNS fragments)) (PP (IN of) (NP (NML (JJ first) (HYPH -) (NN order)) (NN logic)))))) (, ,) (ADVP (FW e.g.))) (, ,) (NP (QP (CD k) (SYM -)) (JJ variable) (NNS logics)) (CC and) (NP (JJ various) (JJ modal) (NNS logics)))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (CD two) (ADJP (JJ different) (JJ proof)) (NNS techniques))) (. .))
-(S (NP (DT The) (JJ other)) (VP (VBZ involves) (NP (NP (DT the) (JJ modal) (NNS concepts)) (PP (IN of) (NP (NP (NN bisimulation)) (, ,) (NP (NN tree) (NN unraveling)) (, ,) (CC and) (NP (JJ finite) (NN depth)))))) (. .))
-(S (NP (PRP$ Our) (NNS results)) (ADVP (RB also)) (VP (VBP imply) (NP (JJ semantic) (NN preservation) (NNS theorems))) (. .))

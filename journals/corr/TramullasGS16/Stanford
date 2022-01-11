@@ -1,6 +1,0 @@
-(S (NP (NP (NN Research)) (PP (IN on) (NP (NP (NN vandalism)) (PP (IN in) (NP (NNP Wikipedia)))))) (VP (VBZ has) (VP (VBN been) (PP (IN of) (NP (NN interest))) (PP (IN for) (NP (DT the) (JJ last) (NN decade))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ performs) (NP (DT a) (NN literature) (NN review)) (PP (IN on) (NP (DT the) (NN subject))) (, ,) (PP (IN with) (NP (NP (NP (DT the) (NN goal)) (PP (IN of) (S (VP (VBG identifying) (NP (DT the) (JJ main) (NN research) (NNS topics)))))) (CC and) (NP (NP (NNS approaches) (, ,) (NNS methods) (CC and) (NNS techniques)) (VP (VBN used)))))) (. .))
-(S (NP (CD 67) (NNS papers)) (VP (VBP have) (VP (VBN been) (VP (VBN reviewed)))) (. .))
-(S (NP (NNP Main) (NN topic)) (VP (VBZ is) (NP (NP (DT the) (NN detection)) (PP (IN of) (NP (NN vandalism)))) (, ,) (SBAR (IN although) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (VBG increasing) (NN interest)) (PP (IN about) (NP (NN content) (NN quality)))))))) (. .))
-(S (NP (DT The) (ADJP (RBS most) (RB commonly) (VBN used)) (NN technique)) (VP (VBZ is) (NP (NN machine) (NN learning)) (, ,) (PP (VBN based) (PP (IN on) (NP (NN feature) (NN analysis))))) (. .))
-(S (NP (PRP It)) (VP (VBZ draws) (NP (NN attention)) (PP (IN to) (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (NN research))))) (PP (IN on) (NP (NP (NN information) (NN behavior)) (PP (IN of) (NP (NNS vandals)))))) (. .))

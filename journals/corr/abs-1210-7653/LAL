@@ -1,3 +1,0 @@
-(S (NP (NP (JJ Total) (NN variant)) (PP (IN of) (NP (ADJP (RB well) (VBN known)) (NN graph) (VBG coloring) (NN game)))) (VP (VBZ is) (VP (VBN considered))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP determine) (NP (NP (JJ exact) (NNS values)) (PP (IN of) (NP (JJ total) (NN game) (JJ chromatic) (NN number))) (PP (IN for) (NP (NP (DT some) (NNS classes)) (PP (IN of) (NP (NN graphs))))))) (CC and) (VP (VB show) (VBP show) (NP (NP (DT the) (NN strategie)) (PP (IN for) (NP (NP (JJ first) (NN player)) (SBAR (S (VP (TO to) (VP (VB win) (NP (DT the) (NN game))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (NP (NP (NN relation)) (PP (IN between) (NP (NP (JJ total) (NN game) (VBG coloring) (NN number)) (CC and) (NP (NN game) (VBG coloring) (NN index)))))) (. .))

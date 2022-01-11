@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN program) (NN slicing) (NN approach)) (PP (IN for) (NP (NP (DT the) (NN output) (NN stream) (NN object)) (PP (IN in) (NP (NNP JEE) (NNS applications))))))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG extracting) (NP (DT a) (NN dependency) (NN call) (NN graph)) (PP (IN from) (NP (NP (NNP KDM) (NNS models)) (PP (IN of) (NP (NNP JEE) (NNS applications)))))))))) (. .))
-(S (ADVP (RB Then)) (, ,) (NP (PRP it)) (VP (VBZ applies) (NP (JJ breath-first) (NN search) (NN algorithm)) (S (VP (TO to) (VP (VB identify) (NP (DT the) (NN program) (NN slice)) (PP (IN as) (NP (DT a) (NN graph) (NN reachability) (NN problem))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ is) (VP (VBN implemented) (PP (IN as) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (PRP$ our) (NNP DeJEE) (NN tool))))))) (. .))

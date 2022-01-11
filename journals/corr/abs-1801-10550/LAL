@@ -1,8 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN model)) (PP (IN for) (NP (ADJP (RB arbitrarily) (VBG varying)) (JJ classical-quantum) (NNS channels))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN model))) (NP (DT a) (NN jammer)) (VP (VBZ has) (NP (VBN side) (NN information))) (. .))
-(S (NP (PRP We)) (VP (VBP consider) (NP (CD two) (NNS scenarios))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ first) (NN scenario))) (NP (DT the) (NN jammer)) (VP (VBZ knows) (NP (DT the) (NN channel) (NN input)) (, ,) (SBAR (IN while) (S (PP (IN in) (NP (DT the) (JJ second) (NN scenario))) (NP (DT the) (NN jammer)) (VP (VBZ knows) (NP (CC both) (NP (DT the) (NN channel) (NN input)) (CC and) (NP (DT the) (NN message))))))) (. .))
-(S (NP (DT The) (NN transmitter) (CC and) (NN receiver)) (VP (NN share) (NP (NP (DT a) (JJ secret) (NN random) (NN key)) (PP (IN with) (NP (DT a) (VBG vanishing) (JJ key) (NN rate))))) (. .))
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NN capacity)) (PP (IN for) (NP (NP (DT both) (JJ average) (CC and) (JJ maximum) (NN error) (NNS criteria)) (PP (IN for) (NP (DT both) (NNS scenarios))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VB establish) (NP (DT the) (JJ strong) (NN converse))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (SBAR (IN that) (S (NP (PDT all) (DT these) (JJ corresponding) (NNS capacities)) (VP (VBP are) (ADJP (JJ equal))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (IN that) (S (S (VP (ADVP (RB additionally)) (VBG revealing) (NP (DT the) (NN message)) (PP (TO to) (NP (DT the) (NN jammer))))) (VP (VBZ does) (RB not) (VP (VB change) (NP (DT the) (NN capacity))))))))))) (. .))

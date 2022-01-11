@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NN aim)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB survey) (PP (IN on) (NP (NP (DT the) (VBN known) (NNS results)) (PP (IN on) (NP (JJ maximum) (JJ scattered) (NML (NML (JJ linear) (NNS sets)) (CC and) (NML (NN MRD) (HYPH -) (NNS codes))))))))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN link)) (PP (IN between) (NP (DT these) (CD two) (NNS areas))))) (. .))
-(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP point) (PRT (RP out)) (NP (NP (DT a) (JJ new) (NN relation)) (PP (VBG regarding) (NP (DT the) (JJ other) (NN direction))))) (. .))

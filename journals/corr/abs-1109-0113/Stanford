@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NNP Linux) (NN package) (NML (NN configuration) (NN tool)) (NN aspcud)) (PP (VBN based) (PP (IN on) (NP (NP (NN Answer)) (VP (VBN Set) (NP (NN Programming)))))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP detail) (NP (NP (NP (NN aspcud) (POS 's)) (JJ preprocessor)) (VP (VBG turning) (NP (DT a) (NN CUDF) (NN specification)) (PP (IN into) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ logical) (NNS facts)))))))) (. .))

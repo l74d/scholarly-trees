@@ -1,4 +1,0 @@
-(S (NP (NML (VBN Automated) (NN theorem)) (NNS provers)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (NP (JJ extended) (NN static) (NN checking)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP are) (NP (DT the) (NN performance) (NN bottleneck))))))))) (. .))
-(S (NP (VBN Extended) (NN static) (NNS checkers)) (VP (VBP are) (VP (VBN run) (ADVP (RB typically)) (PP (IN after) (NP (JJ incremental) (NNS changes))) (PP (IN to) (NP (DT the) (NN code))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB exploit) (NP (DT this) (NN usage) (NN pattern)) (S (VP (TO to) (VP (VB improve) (NP (NN performance))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (NP (CD two) (NNS approaches)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB do) (ADVP (RB so)))))))) (CC and) (NP (DT a) (JJ full) (NN solution)))) (. .))

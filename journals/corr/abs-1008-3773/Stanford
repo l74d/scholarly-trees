@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (JJ new) (NN algorithm)) (PP (IN to) (VP (VB compute) (NP (NP (DT the) (NN volume)) (PP (IN of) (NP (DT a) (NN trunk)))) (PP (VBG according) (PP (IN to) (NP (DT the) (NNP SAE) (NN J1100) (NN standard))))))) (. .))
-(S (NP (PRP$ Our) (JJ new) (NN algorithm)) (VP (VBZ uses) (NP (ADJP (NN state) (HYPH -) (IN of) (HYPH -) (DT the) (HYPH -) (NN art)) (NNS methods)) (PP (PP (IN from) (NP (JJ computational) (NN geometry))) (CC and) (PP (IN from) (NP (JJ combinatorial) (NN optimization))))) (. .))
-(S (NP (PRP It)) (VP (VBZ finds) (NP (JJR better) (NNS solutions)) (PP (IN than) (NP (NP (JJ previous) (NNS approaches)) (PP (IN for) (NP (JJ small) (NNS trunks)))))) (. .))

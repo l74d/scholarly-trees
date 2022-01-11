@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (JJ single-choice) (NNP Prophet) (NNP Inequality) (NN problem)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN gambler)) (VP (VBZ is) (VP (VBN given) (NP (NP (NN access)) (PP (TO to) (NP (NNS samples))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ optimal) (JJ competitive) (NN ratio)) (PP (IN of) (NP ($ $) (CD 1/2) ($ $)))) (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN with) (NP (NP (DT a) (JJ single) (NN sample)) (PP (IN from) (NP (DT each) (NN distribution))))))))))) (. .))

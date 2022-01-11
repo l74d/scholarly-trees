@@ -1,3 +1,0 @@
-(S (NP (DT The) (VBG following) (JJ technical) (NN report)) (VP (VBZ presents) (NP (DT a) (JJ formal) (NN approach)) (PP (IN to) (NP (NML (ADJP (JJ probabilistic) (JJ minimalist)) (NN grammar)) (NN parameter) (NN estimation)))) (. .))
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (NN formalization)) (PP (IN of) (NP (DT a) (JJ minimalist) (NN grammar))))) (. .))
-(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (JJ variational) (NML (JJ Bayesian) (NN inference))))))) (PP (IN to) (NP (DT this) (NN formalization)))) (. .))

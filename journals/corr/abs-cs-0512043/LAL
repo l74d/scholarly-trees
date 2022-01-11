@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP conjecture) (S (NP (NP (DT the) (JJ expected) (NN value)) (PP (IN of) (NP (NP (JJ random) (NNS walks)) (PP (IN with) (NP (JJ anti-correlated) (NNS steps)))))) (VP (TO to) (VP (VB be) (NP (RB exactly) (CD 1)))))) (. .))
-(S (NP (PRP We)) (VP (VBP support) (NP (DT this) (NN conjecture)) (PP (IN with) (NP (NP (CD 2) (NN plausibility) (NNS arguments)) (CC and) (NP (JJ experimental) (NNS data))))) (. .))
-(S (NP (DT The) (JJ experimental) (NN analysis)) (VP (VBZ includes) (NP (NP (DT the) (NN computation)) (PP (IN of) (NP (NP (DT the) (JJ expected) (NNS values)) (PP (IN of) (NP (NN random) (NNS walks))) (PP (IN for) (NP (NP (NNS steps)) (PP (RB up) (PP (TO to) (NP (CD 22)))))))))) (. .))
-(S (NP (DT The) (NN result)) (VP (VBZ shows) (S (NP (DT the) (JJ expected) (NN value)) (VP (ADVP (RB asymptotically)) (VBG converging) (PP (TO to) (NP (CD 1)))))) (. .))

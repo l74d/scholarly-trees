@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN approach)) (VP (VBN taken) (PP (TO to) (NP (DT the) (NNP XML) (NNP Mining) (NN track))) (PP (IN at) (NP (NNP INEX) (CD 2008))) (PP (IN by) (NP (NP (DT a) (NN group)) (PP (IN at) (NP (NP (DT the) (NNP Queensland) (NNP University)) (PP (IN of) (NP (NNP Technology)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (DT the) (NNP K-tree) (NN clustering) (NN algorithm)) (PP (IN in) (NP (DT an) (NNP Information) (NNP Retrieval) (NN context))) (PP (IN by) (S (VP (VBG adapting) (NP (PRP it)) (PP (IN for) (NP (NN document) (NN clustering))))))) (. .))
-(S (NP (JJ Many) (JJ large) (NN scale) (NNS problems)) (VP (VBP exist) (PP (IN in) (NP (NN document) (NN clustering)))) (. .))
-(S (NP (JJ K-tree)) (VP (NNS scales) (ADVP (RB well)) (PP (IN with) (NP (JJ large) (NNS inputs))) (PP (JJ due) (TO to) (NP (PRP$ its) (JJ low) (NN complexity)))) (. .))
-(S (NP (PRP It)) (VP (VBZ offers) (NP (JJ promising) (NNS results)) (PP (DT both) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN efficiency) (CC and) (NN quality)))))) (. .))
-(S (NP (NNP Document) (NN classification)) (VP (VBD was) (VP (VBN completed) (S (VP (VBG using) (NP (NNP Support) (NNP Vector) (NNPS Machines)))))) (. .))

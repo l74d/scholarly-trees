@@ -1,4 +1,0 @@
-(S (NP (DT A) (NNP Dialogue) (NNP System)) (VP (VBZ is) (NP (NP (DT a) (NN system)) (SBAR (WHNP (WDT which)) (S (VP (VBZ interacts) (PP (IN with) (NP (NN human))) (PP (IN in) (NP (JJ natural) (NN language)))))))) (. .))
-(S (PP (IN At) (ADJP (JJ present))) (NP (JJ many) (NNS universities)) (VP (VBP are) (VP (VBG developing) (NP (DT the) (NN dialogue) (NN system)) (PP (IN in) (NP (PRP$ their) (JJ regional) (NN language))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (MD will) (VP (VB discuss) (PP (IN about) (NP (NP (NN dialogue) (NN system)) (, ,) (NP (PRP$ its) (NNS components)) (, ,) (NP (NNS challenges)) (CC and) (NP (PRP$ its) (NN evaluation)))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ helps) (NP (DT the) (NNS researchers)) (PP (IN for) (S (VP (VBG getting) (NP (NP (JJ info)) (PP (VBG regarding) (NP (NNS dialogues) (NN system)))))))) (. .))

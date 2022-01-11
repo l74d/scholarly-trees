@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (CD two) (JJ cryptographic) (NNS methods)) (VP (VBP are) (VP (VBN introduced))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ first) (NN method))) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NP (DT a) (JJ certain) (NN size) (NN subgroup)) (PP (IN of) (NP (NNS persons)))))) (VP (MD can) (VP (VB be) (VP (VBN checked) (PP (IN for) (NP (DT an) (NN action))) (S (VP (TO to) (VP (VB take) (NP (NN place)))))))) (. .))
-(S (PP (IN For) (NP (DT this))) (NP (PRP we)) (VP (VBP use) (SBAR (S (NP (NP (NNS fragments)) (PP (IN of) (NP (NNP Raptor) (NNS codes)))) (VP (VBD delivered) (PP (IN to) (NP (DT the) (NN group) (NNS members))))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ other) (NN method))) (NP (NP (DT a) (NN selection)) (PP (IN of) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (NNS objects)))))) (VP (MD can) (VP (VB be) (VP (VBN made) (S (ADJP (JJ secret)))))) (. .))
-(S (ADVP (RB Also)) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN proven) (ADVP (RB afterwards)) (, ,) (SBAR (WHNP (WP what)) (S (NP (DT the) (JJ original) (NN selection)) (VP (VBD was))))))) (. .))

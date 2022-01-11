@@ -1,2 +1,0 @@
-(S (VP (VB See) (, ,) (VB e.g.) (, ,) (NP (NP (NNP Open) (NNP Problem) (CD 4)) (PP (IN in) (NP (NP (DT the) (NNP Distributed) (NNP Graph) (NNP Coloring) (NN book)) (PP (IN of) (NP (NNP Barenboim) (CC and) (NNP Elkin))))))) (. .))
-(S (NP (NP (DT This) (NN hypergraph) (VBG matching) (NN algorithm)) (CC and) (NP (PRP$ its) (NNS extensions))) (VP (VBP lead) (PP (TO to) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ other) (NNS results)))))) (. .))

@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN proposal)) (PP (IN for) (NP (DT a) (ADJP (NN knowledge) (HYPH -) (VBN based)) (NN programming) (NN environment))))) (. .))
-(S (PP (IN In) (NP (PDT such) (DT an) (NN environment))) (, ,) (NP (NP (JJ declarative) (NN background) (NN knowledge)) (, ,) (NP (NNS procedures)) (, ,) (CC and) (NP (JJ concrete) (NNS data))) (VP (VBP are) (VP (VP (VBN represented) (PP (IN in) (NP (JJ suitable) (NNS languages)))) (CC and) (VP (VBN combined) (PP (IN in) (NP (DT a) (JJ flexible) (NN manner)))))) (. .))
-(S (NP (DT This)) (VP (VBZ leads) (PP (IN to) (NP (DT a) (ADJP (RB highly) (JJ declarative)) (NN programming) (NN style)))) (. .))
-(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NN approach)) (PP (IN on) (NP (NP (DT an) (NN example) (CC and) (NN report)) (PP (IN about) (NP (PRP$ our) (NN prototype) (NN implementation)))))) (. .))

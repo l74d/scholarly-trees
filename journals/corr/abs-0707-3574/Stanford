@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ presents) (NP (DT the) (NNP Orthoglide) (NN project))) (. .))
-(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN project)))) (VP (VBZ is) (NP (NP (DT the) (NN realization)) (PP (IN of) (NP (NP (DT a) (NN prototype)) (PP (IN of) (NP (NP (NN machine) (NN tool)) (PP (TO to) (NP (NP (CD three) (NNS degrees)) (PP (IN of) (NP (NN translation))))))))))) (. .))
-(S (NP (NP (DT The) (NN characteristic)) (PP (IN of) (NP (DT this) (NN machine)))) (VP (VBZ is) (NP (NP (DT a) (JJ parallel) (JJ kinematic) (NN architecture)) (VP (VBN optimized) (S (VP (TO to) (VP (VB obtain) (NP (DT a) (JJ compact) (NN workspace)) (PP (IN with) (NP (JJ homogeneous) (NN performance))))))))) (. .))
-(S (PP (IN For) (NP (DT that))) (, ,) (NP (NP (DT the) (JJ principal) (NN criterion)) (PP (IN of) (NP (NP (NN design)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN used)))))))) (VP (VBZ is) (NP (DT the) (NN isotropy))) (. .))

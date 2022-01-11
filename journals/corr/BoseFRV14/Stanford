@@ -1,1 +1,0 @@
-(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT no) (JJ local) (NN routing) (NN algorithm)) (VP (MD can) (VP (VB achieve) (NP (DT a) (JJR better) (NN routing) (NN ratio)) (, ,) (S (ADVP (RB thereby)) (VP (VBG proving) (SBAR (IN that) (S (NP (PRP$ our) (NN routing) (NN algorithm)) (VP (VBZ is) (ADJP (JJ optimal)))))))))))) (. .))

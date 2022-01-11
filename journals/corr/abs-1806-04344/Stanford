@@ -1,1 +1,0 @@
-(S (NP (NP (DT This) (NN version)) (VP (VBN withdrawn) (PP (IN by) (NP (NN arXiv) (NNS administrators))) (PP (IN because) (NP (DT the) (NN submitter))))) (VP (VBD did) (RB not) (VP (VB have) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB agree) (PP (IN to) (NP (PRP$ our) (NN license))) (PP (IN at) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (NN submission))))))))))) (. .))

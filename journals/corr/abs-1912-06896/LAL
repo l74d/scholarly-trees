@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NNP Conradi-Kahle) (NNP Algorithm)) (PP (IN for) (S (VP (VBG detecting) (NP (NN binomiality))))))) (. .))
-(S (NP (PRP We)) (VP (VP (JJ present) (NP (NP (NNS experiments)) (VP (VBG using) (NP (NP (CD two) (NNS implementations)) (PP (IN of) (NP (DT the) (NN algorithm))) (PP (IN in) (NP (NNP Macaulay2) (CC and) (NNP Maple)))) (PP (IN on) (NP (JJ biological) (NNS models)))))) (CC and) (VP (VB assess) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN algorithm))) (PP (IN on) (NP (DT these) (NNS models)))))) (. .))

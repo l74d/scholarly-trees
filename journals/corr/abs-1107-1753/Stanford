@@ -1,3 +1,0 @@
-(S (NP (DT These) (NNS notes)) (VP (VBP are) (NP (NP (DT a) (NN continuation)) (PP (IN of) (NP (NP (NNS topics)) (VP (VBN covered) (PP (IN by) (NP (NP (NNP V.) (NNP Selegej)) (PP (IN in) (NP (NP (PRP$ his) (NN article)) (`` ") (NP (NP (JJ Electronic) (NNS Dictionaries)) (CC and) (NP (JJ Computational) (NN lexicography))) ('' ")))))))))) (. .))
-(SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (DT an) (JJ electronic) (NN dictionary)) (VP (VBP have) (PP (IN as) (NP (PRP$ its) (NN object))) (NP (NP (DT the) (NN description)) (PP (IN of) (NP (ADJP (RB closely) (JJ related)) (NNS languages)))))) (. ?))
-(S (ADVP (RB Obviously)) (, ,) (NP (PDT such) (DT a) (NN question)) (VP (VBZ allows) (NP (JJ multiple) (NNS answers))) (. .))

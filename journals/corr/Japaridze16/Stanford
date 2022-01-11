@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ presents) (NP (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (NN computability) (NN logic)))) (: :) (NP (NP (NP (PRP$ its) (NN philosophy) (CC and) (NNS motivations)) (, ,) (NP (JJ main) (NNS concepts)) (CC and) (NP (JJS most) (JJ significant) (NNS results))) (VP (VBN obtained) (ADVP (RB so) (RB far)))))) (. .))
-(S (NP (NP (DT A) (ADJP (RB continuously) (VBN updated)) (JJ online) (NN version)) (PP (IN of) (NP (DT this) (NN article)))) (VP (VBZ is) (VP (VBN maintained) (PP (IN at) (NP (DT this) (NN http) (NN URL))))) (. .))

@@ -1,2 +1,0 @@
-(SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (NP (JJ local) (NN search) (NNS algorithms)) (PP (IN for) (NP (NP (JJ geometric) (NNS problems)) (PP (IN in) (NP (DT the) (NN plane))))))))) (. ?))
-(S (NP (DT The) (NN randomness) (NN assumption)) (VP (VBZ is) (ADJP (JJ necessary) (PP (IN for) (NP (NN TSP))))) (. .))

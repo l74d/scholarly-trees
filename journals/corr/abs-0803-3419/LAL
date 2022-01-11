@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT an) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB decompose) (NP (JJ rational) (NNS functions)))))) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBP determine) (NP (NP (DT the) (NN poset)) (PP (IN of) (NP (NP (NNS groups)) (VP (VBG fixing) (NP (DT these) (NNS functions))))))))))) (. .))

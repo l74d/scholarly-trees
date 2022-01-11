@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP design) (NP (NP (JJ efficient) (NN distance) (NN approximation) (NN algorithms)) (PP (IN for) (NP (NP (JJ several) (NNS classes)) (PP (IN of) (NP (JJ structured) (JJ high-dimensional) (NNS distributions))))))) (. .))
-(S (NP (PRP$ Our) (NNS results)) (VP (VBP are) (NP (NP (DT the) (JJ first) (JJ efficient) (NN distance) (NN approximation) (NN algorithms)) (PP (IN for) (NP (DT these) (JJ well-studied) (NNS problems))))) (. .))
-(S (NP (PRP They)) (VP (VBP are) (VP (VBN derived) (S (VP (VBG using) (NP (NP (DT a) (ADJP (NN simple) (CC and) (JJ general)) (NN connection)) (PP (TO to) (NP (NN distribution) (VBG learning) (NN algorithms)))))))) (. .))

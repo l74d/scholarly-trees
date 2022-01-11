@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (NN characterization)) (PP (IN of) (NP (NP (DT the) (JJ degree) (NNS sequences)) (PP (IN of) (NP (JJ 2-trees)))))) (VP (VBZ is) (VP (VBN given))) (. .))
-(S (NP (DT This) (NN characterization)) (VP (VBZ yields) (NP (NP (DT a) (JJ linear-time) (NN algorithm)) (PP (IN for) (S (VP (VBG recognizing) (CC and) (VBG realizing) (NP (NP (JJ degree) (NNS sequences)) (PP (IN of) (NP (NNS 2-trees))))))))) (. .))

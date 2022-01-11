@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (NNS details) (NP (NP (DT a) (JJ new) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (JJS shortest) (NN path) (NN problem)) (PP (IN in) (NP (VBN valued) (NN graphs)))))))))) (. .))
-(S (NP (DT This) (JJ new) (NN algorithm)) (VP (VBZ lies) (PP (IN on) (NP (NP (DT a) (JJ hierarchical) (NN representation)) (PP (IN of) (NP (DT the) (NN graph))))) (, ,) (S (VP (VBG using) (NP (NN radix) (NNS trees))))) (. .))
-(S (NP (NP (DT The) (NNS performances)) (PP (IN of) (NP (DT this) (NN algorithm)))) (VP (VB show) (NP (NP (DT a) (JJ major) (NN improvement)) (PP (IN over) (NP (NP (DT the) (NNS ones)) (PP (IN of) (NP (NP (DT the) (NN algorithms)) (VP (VBN known) (PP (IN up) (PP (TO to) (NP (RB now))))))))))) (. .))

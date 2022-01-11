@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ general) (NN algorithm)) (SBAR (S (VP (TO to) (VP (NN order) (NP (NNS moves)) (SBAR (RB so) (IN as) (S (VP (TO to) (VP (VB speedup) (NP (JJ exact) (NN game) (NNS solvers)))))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ uses) (NP (NP (NP (JJ online) (NN learning)) (PP (IN of) (NP (NN playout) (NNS policies)))) (CC and) (NP (NNP Monte) (NNP Carlo) (NNP Tree) (NNP Search)))) (. .))
-(S (NP (NP (DT The) (JJ learned) (NN policy)) (CC and) (NP (NP (DT the) (NN information)) (PP (IN in) (NP (DT the) (NNP Monte) (NNP Carlo) (NN tree))))) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (NN order) (NP (NNS moves)) (PP (IN in) (NP (NN game) (NNS solvers)))))))) (. .))
-(S (NP (PRP They)) (VP (VBP improve) (ADVP (RB greatly)) (NP (NP (DT the) (NN solving) (NN time)) (PP (IN for) (NP (JJ multiple) (NNS games))))) (. .))

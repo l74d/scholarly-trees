@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NP (ADJP (JJ orthogonal) (JJS least)) (NNS squares) (PRN (-LRB- -LRB-) (NP (NN OLS)) (-RRB- -RRB-))) (NN algorithm)) (PP (IN for) (NP (JJ sparse) (NN recovery))))) (. .))
-(FRAG (NP ($ $)) (NP ($ $)))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (ADVP (RB theoretically)) (VBP analyze) (NP (NP (DT the) (JJ popular) (JJ mobile) (NN app) (NN game)) (`` `) (NP (CD 2048)) ('' ›)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (PP (IN in) (NP (ADJP (ADJP ($ $) (JJ n) ($ $)) (JJ -dimensional)) (NN space)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD present) (NP (NP (NP (DT a) (NN strategy)) (PP (IN for) (NP (DT the) (NN computer)))) (CC and) (NP (NP (DT a) (NN winning) (NN strategy)) (PP (IN for) (NP (DT the) (JJ human) (NN player)))) (PP (IN in) (NP (JJ certain) (NNS conditions))))) (. .))

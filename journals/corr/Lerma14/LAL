@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP find) (NP (NP (JJ large) (JJR lower) (NNS bounds)) (PP (IN for) (NP (NP (DT a) (JJ certain) (NN family)) (PP (IN of) (NP (NN algorithms))))))) (, ,) (CC and) (VP (VB prove) (SBAR (DT that) (S (NP (JJ such) (NNS bounds)) (VP (VBP are) (VP (VBN limited) (PP (ADVP (RB only)) (IN by) (NP (JJ natural) (NN computability) (NNS arguments))))))))) (. .))

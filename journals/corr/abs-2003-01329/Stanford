@@ -1,2 +1,0 @@
-(S (ADVP (RB However)) (, ,) (NP (CC neither) (NN regularity) (CC nor) (NN uniqueness)) (VP (VBZ is) (ADJP (JJ necessary) (PP (IN for) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT the) (NN AOT) (NN algorithm))))))) (. .))
-(S (PP (IN To) (NP (NP (DT the) (JJS best)) (PP (IN of) (NP (PRP$ our) (NN knowledge))))) (, ,) (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ such) (JJ rigorous) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NML (NML (NN AOT) (NNS data)) (NN assimilation)) (NN algorithm)) (PP (IN for) (NP (DT the) (NN 3D) (NN NSE))))))) (. .))

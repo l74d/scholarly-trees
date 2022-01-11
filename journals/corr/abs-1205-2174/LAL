@@ -1,8 +1,0 @@
-(S (NP (NP (CD Two) (NNS topics))) (VP (VBP are) (VP (VBN presented) (: :) (NP (NP (NN synchronization) (NNS games)) (CC and) (NP (NN synchronization) (NNS costs))))) (. .))
-(S (PP (IN In) (NP (NP (DT a) (NN synchronization) (NN game)) (PP (IN on) (NP (DT a) (JJ deterministic) (NN finite) (NN automaton))))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (CD two) (NNS players)) (, ,) (NP (NNP Alice) (CC and) (NNP Bob)) (, ,) (SBAR (WHNP (WP$ whose) (NNS moves)) (S (VP (VBP alternate)))))) (. .))
-(S (NP (NNP Alice)) (VP (VBZ wants) (S (VP (TO to) (VP (VB synchronize) (NP (DT the) (VBN given) (NN automaton))))) (, ,) (SBAR (IN while) (S (NP (NNP Bob)) (VP (VBZ aims) (S (VP (TO to) (VP (VB make) (S (NP (PRP$ her) (NN task)) (ADJP (ADJP (RB as) (RB hard)) (PP (IN as) (ADJP (JJ possible)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP answer) (NP (NP (DT a) (JJ few) (JJ natural) (NNS questions)) (VP (VBN related) (PP (TO to) (NP (JJ such) (NNS games)))))) (. .))
-(S (S (VP (VBG Speaking) (PP (IN about) (NP (NN synchronization) (NNS costs))))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (JJ deterministic) (NN automata)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT each) (NN transition)) (VP (VBZ has) (NP (DT a) (JJ certain) (NN price))))))) (. .))
-(S (NP (DT The) (NN problem)) (VP (VBZ is) (SBAR (IN whether) (CC or) (RB not) (S (NP (DT a) (VBN given) (NN automaton)) (VP (MD can) (VP (VB be) (VP (VBN synchronized) (PP (IN within) (NP (DT a) (VBN given) (NN budget))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (DT this) (NN problem))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP formulate) (NP (DT a) (JJ few) (JJ open) (NNS questions))) (. .))

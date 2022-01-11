@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN model)) (VP (VBZ unifies) (NP (NP (DT the) (JJ different) (NNS steps)) (PP (IN of) (NP (DT the) (JJ distributed) (NN planning) (NN process)))) (PP (IN into) (NP (DT a) (JJ single) (NN step)))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NP (DT a) (NN planning) (NN graph) (NN structure)) (PP (IN for) (NP (DT the) (NN agent) (NN reasoning)))) (CC and) (NP (NP (DT a) (NNP CSP) (NN mechanism)) (PP (IN for) (NP (NP (DT the) (JJ individual) (NN plan) (NN extraction)) (CC and) (NP (DT the) (NN coordination))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT no) (NN agent)) (VP (MD can) (VP (VB reach) (NP (DT the) (JJ global) (NN goal)) (ADVP (RB alone))))))) (. .))

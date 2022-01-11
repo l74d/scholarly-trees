@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP establish) (SBAR (IN that) (S (NP (DT the) (NNP PhaseLift) (NN algorithm)) (VP (VBZ recovers) (NP (JJ pure) (NNS states)) (PP (IN from) (NP (NP (DT a) (JJ constant) (NN number)) (PP (IN of) (NP (NML (JJ full) (HYPH -) (NN rank)) (NNS observables))))) (PP (IN with) (NP (JJ high) (NN probability))))))) (. .))

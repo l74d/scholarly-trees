@@ -1,1 +1,0 @@
-(S (NP (NP (DT A) (JJ polynomial) (NN complexity) (NN algorithm))) (VP (VBZ is) (VP (VBN designed) (SBAR (WHNP (WDT which)) (S (VP (VBZ tests) (SBAR (IN whether) (S (NP (DT a) (NN point)) (VP (VBZ belongs) (PP (TO to) (NP (DT a) (VBN given) (JJ tropical) (JJ linear) (NN variety))))))))))) (. .))

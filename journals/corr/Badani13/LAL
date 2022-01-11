@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (NN method)) (SBAR (S (VP (TO to) (VP (VB generate) (NP (NP (NNS permutations)) (PP (IN of) (NP (DT a) (NN string)))) (PP (IN under) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS constraints)) (VP (VBN decided) (PP (IN by) (NP (DT the) (NN user))))))))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT The) (JJ required) (NNS permutations)) (VP (VBP are) (VP (VBN generated) (PP (IN without) (S (VP (VBG generating) (NP (PDT all) (DT the) (NNS permutations))))))) (. .))

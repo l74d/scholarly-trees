@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (NN method)) (PP (IN for) (NP (NP (NN compression)) (PP (IN of) (NP (NP (JJ large) (NNS graphs)) (CC and) (NP (JJ non-negative) (NNS matrices)))) (PP (TO to) (NP (DT a) (NN block) (NN structure)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (NP (DT Another) (NN ingredient)) (PP (IN of) (NP (DT the) (NN method)))) (VP (VBZ is) (NP (NP (NP (NNP Rissanen) (POS 's)) (JJ minimum) (NN description) (NN length) (NN principle)) (PRN (-LRB- -LRB-) (NP (NNP MDL)) (-RRB- -RRB-)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP propose) (NP (JJ practical) (NN algorithms))) (CC and) (VP (VB provide) (NP (NP (JJ theoretical) (NNS results)) (PP (IN on) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT the) (NN method)))))))) (. .))

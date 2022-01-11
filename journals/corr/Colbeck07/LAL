@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (NNS attacks)) (SBAR (WHNP (WDT that)) (S (VP (VBP show) (SBAR (IN that) (S (NP (ADJP (RB unconditionally) (VB secure)) (JJ two-party) (JJ classical) (NN computation)) (VP (VBZ is) (ADJP (JJ impossible)) (PP (IN for) (NP (NP (JJ many) (NNS classes)) (PP (IN of) (NP (NN function))))))))))))) (. .))
-(S (NP (PRP$ Our) (NN analysis)) (VP (NNS applies) (PP (TO to) (NP (ADJP (DT both) (NN quantum) (CC and) (JJ relativistic)) (NNS protocols)))) (. .))
-(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NNS results)) (PP (IN by) (S (VP (VBG showing) (NP (NP (DT the) (NN impossibility)) (PP (IN of) (NP (JJ oblivious) (NN transfer)))))))) (. .))

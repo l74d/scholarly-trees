@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN corpus)) (PP (IN of) (NP (NP (NNS dialogues)) (PP (IN between) (NP (NP (DT a) (JJ schizophrenic) (NN speaker)) (CC and) (NP (NP (DT an) (NN interlocutor)) (SBAR (WHNP (WP who)) (S (VP (VBZ drives) (NP (DT the) (NN dialogue)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBD had) (VP (VBN identified) (NP (NP (JJ specific) (NNS discontinuities)) (PP (IN for) (NP (JJ paranoid) (NNS schizophrenics)))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN modeling)) (PP (IN of) (NP (DT these) (NNS discontinuities))) (PP (IN with) (NP (NP (NNP S-DRT)) (PRN (-LRB- -LRB-) (NP (PRP$ its) (JJ pragmatic) (NN part)) (-RRB- -RRB-)))))))

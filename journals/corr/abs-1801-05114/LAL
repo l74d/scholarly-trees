@@ -1,2 +1,0 @@
-(S (ADVP (RB Recently)) (, ,) (NP (NNP Bhaintwal) (CC and) (NNP Wasan)) (VP (VBD studied) (NP (DT the) (NNP Generalized) (NNP Reed-Muller) (NNS codes)) (PP (IN over) (NP (DT the) (JJ prime) (NN power) (NN integer) (JJ residue) (NN ring)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT these) (NNS codes))) (PP (TO to) (NP (NP (NNP Generalized) (NNP Reed-Muller) (NNS codes)) (PP (IN over) (NP (NNP Galois) (NNS rings))))))) (. .))

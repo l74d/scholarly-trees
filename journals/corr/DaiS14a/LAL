@@ -1,3 +1,0 @@
-(S (NP (DT The) (JJ recursive) (JJ direct) (NN weight) (NN optimization) (NN method)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (VBG challenging) (JJ nonlinear) (NN system) (NN identification) (NNS problems))))))) (. .))
-(S (NP (DT This) (NN note)) (VP (VBZ provides) (NP (NP (DT a) (JJ new) (NN derivation)) (CC and) (NP (NP (DT a) (JJ new) (NN interpretation)) (PP (IN of) (NP (DT the) (NN method)))))) (. .))
-(S (NP (NP (DT The) (JJ key)) (VP (VBG underlying) (NP (DT the) (NN note)))) (VP (VBZ is) (S (VP (TO to) (VP (VB acknowledge) (CC and) (VB exploit) (NP (NP (DT a) (JJ certain) (NN structure)) (ADJP (NN inherent) (PP (IN in) (NP (DT the) (NN problem))))))))) (. .))

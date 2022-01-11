@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN method)) (SBAR (S (VP (TO to) (VP (VB extract) (NP (DT an) (JJ abstracted) (NN floor) (NN plan)) (PP (IN from) (NP (JJ typical) (NN grid) (NNS maps))) (S (VP (VBG using) (NP (JJ Bayesian) (NN reasoning)))))))))) (. .))
-(S (NP (NP (DT The) (NN result)) (PP (IN of) (NP (DT this) (NN procedure)))) (VP (VBZ is) (NP (NP (DT a) (JJ probabilistic) (JJ generative) (NN model)) (PP (IN of) (NP (DT the) (NN environment))) (VP (VBD defined) (PP (IN over) (NP (JJ abstract) (NNS concepts)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (RB well) (VBN suited) (PP (IN for) (NP (JJ higher-level) (NN reasoning) (CC and) (NN communication) (NNS purposes))))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN approach)))) (PP (IN through) (NP (JJ real-world) (NNS experiments)))) (. .))

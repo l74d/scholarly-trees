@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP derive) (CC and) (VBP analyse) (NP (NP (DT a) (JJ boundary) (NN element) (NN formulation)) (PP (IN for) (NP (NP (JJ boundary) (NNS conditions)) (VP (VBG involving) (NP (NNS inequalities))))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP focus) (PP (IN on) (NP (NNP Signorini) (NN contact) (NNS conditions)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP present) (NP (DT a) (JJ complete) (JJ numerical) (DT a) (JJ priori) (NN error) (NN analysis))) (CC and) (VP (JJ present) (NP (NP (DT some) (JJ numerical) (NNS examples)) (SBAR (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (NN theory))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (DT a) (JJ particular) (JJ hash-based) (NNS records) (VBG linking) (NN chain) (NN scheme))) (. .))
-(S (NP (DT This) (NN scheme)) (VP (VBZ is) (ADJP (ADJP (JJ simple) (ADVP (RB conceptually))) (CC and) (ADJP (JJ easy) (SBAR (S (VP (TO to) (VP (VB implement) (PP (IN in) (NP (NN software)))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ allows) (PP (IN for) (NP (NP (DT a) (ADJP (JJ simple) (CC and) (JJ secure)) (NN way)) (SBAR (S (VP (TO to) (VP (VB transfer) (NP (NP (NN ownership)) (PP (IN of) (NP (JJ digital) (NNS objects)))) (PP (IN between) (NP (NNS peers)))))))))) (. .))

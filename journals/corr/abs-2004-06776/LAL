@@ -1,3 +1,0 @@
-(S (NP (DT A) (JJ Circumconic)) (VP (NNS passes) (PP (IN through) (NP (NP (DT a) (NN triangle) (POS 's)) (NNS vertices)))) (. .))
-(S (NP (PRP We)) (VP (VBP define) (NP (NP (DT the) (NNP Circumbilliard)) (, ,) (NP (NP (DT a) (NN circumellipse)) (PP (TO to) (NP (NP (DT a) (JJ generic) (NN triangle)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NN latter)) (VP (VBZ is) (NP (DT a) (JJ 3-periodic)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP study) (NP (PRP$ its) (NX (NX (NNS properties)) (CC and) (NX (VBN associated) (NN loci))))) (. .))

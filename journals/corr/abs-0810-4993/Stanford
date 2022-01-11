@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN intersection) (NN array)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN computed))) (. .))
-(S (PP (IN In) (NP (DT both) (NNS constructions))) (NP (DT the) (NNP Kronecker) (NN product)) (VP (VBZ is) (NP (NP (DT the) (JJ basic) (NN tool)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN used)))))))) (. .))

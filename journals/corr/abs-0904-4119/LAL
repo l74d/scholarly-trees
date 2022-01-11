@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NP (DT a) (JJ temporal) (JJ logic)) (NP (NNP EF+F^-1))) (PP (IN for) (NP (JJ unranked) (, ,) (JJ unordered) (NN finite) (NNS trees))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG deciding) (SBAR (IN if) (S (NP (NP (DT a) (JJ regular) (NN language)) (PP (IN of) (NP (JJ unranked) (JJ finite) (NNS trees)))) (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN in) (NP (NNP EF+F^-1))))))))))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ uses) (NP (NP (DT a) (NN characterization)) (VP (VBN expressed) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJS forest) (NNS algebras)))))))) (. .))

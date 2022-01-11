@@ -1,1 +1,0 @@
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN draft)) (PP (IN of) (NP (NP (NN summary)) (PP (IN of) (NP (NP (JJ multi-model) (NN algorithm)) (PP (IN of) (NP (JJ extended) (NN object) (VBG tracking))) (VP (VBN based) (PP (IN on) (NP (NN random) (NN matrix)))) (PRN (-LRB- -LRB-) (NP (NNP RMF-MM)) (-RRB- -RRB-)))))))) (. .))

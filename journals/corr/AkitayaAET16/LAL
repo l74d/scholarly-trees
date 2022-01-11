@@ -1,2 +1,0 @@
-(S (NP (ADJP (RB Weakly) (JJ simple)) (NNS polygons)) (VP (VBP are) (VP (VBN required) (PP (IN as) (NP (NP (NN input)) (PP (IN for) (NP (JJ several) (JJ geometric) (NN algorithms))))))) (. .))
-(S (PP (IN As) (NP (JJ such))) (, ,) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB recognize) (NP (ADJP (ADJP (JJ simple)) (CC or) (ADJP (JJ weakly) (JJ simple))) (NNS polygons)))))) (VP (VBZ is) (NP (DT a) (JJ fundamental) (NN question))) (. .))

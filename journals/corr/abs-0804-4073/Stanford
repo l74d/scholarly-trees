@@ -1,4 +1,0 @@
-(S (NP (JJ Grainy) (NNS numbers)) (VP (VBP are) (VP (VBN defined) (PP (IN as) (NP (NP (NNS tuples)) (PP (IN of) (NP (NNS bits))))))) (. .))
-(S (NP (PRP They)) (VP (VBP form) (NP (DT a) (NN lattice)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NN meet)) (CC and) (NP (DT the) (NML (S (VP (VB join)))) (NNS operations))) (VP (VBP are) (NP (NP (DT an) (NN addition)) (CC and) (NP (DT a) (NN multiplication))))))) (. .))
-(S (NP (PRP They)) (VP (MD may) (VP (VB be) (VP (VBN substituted) (PP (IN for) (NP (NP (DT the) (JJ real) (NNS numbers)) (PP (IN in) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (JJ fuzzy) (NNS sets)))))))))) (. .))
-(S (NP (DT The) (NN aim)) (VP (VBZ is) (S (VP (TO to) (VP (VB propose) (NP (DT an) (JJ alternative) (NN negation)) (PP (IN for) (NP (NP (DT the) (NN complement)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (MD 'll) (VP (VB call) (NP (NN supplement)))))))))))) (. .))

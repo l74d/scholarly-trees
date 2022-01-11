@@ -1,3 +1,0 @@
-(S (NP (NNP Clique-width)) (VP (VBZ is) (NP (DT an) (JJ important) (NN graph) (NN parameter)) (PP (JJ due) (TO to) (NP (PRP$ its) (ADJP (JJ algorithmic) (CC and) (JJ structural)) (NNS properties)))) (. .))
-(S (NP (PRP We)) (VP (VBP initiate) (NP (NP (DT a) (JJ systematic) (NN study)) (PP (IN into) (NP (NP (DT the) (NN boundedness)) (PP (IN of) (NP (NP (NN clique-width)) (PP (IN of) (NP (NP (JJ hereditary) (NN graph) (NNS classes)) (VP (VBD closed) (PP (IN under) (NP (NN complementation)))))))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (NNS consequences)) (PP (IN of) (NP (PRP$ our) (NNS results))) (PP (IN for) (NP (DT the) (NNP Colouring) (NN problem))))) (. .))

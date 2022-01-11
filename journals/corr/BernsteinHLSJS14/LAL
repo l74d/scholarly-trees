@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (JJ polynomial) (NN upper) (CC and) (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (JJ expected) (NN size)) (PP (IN of) (NP (NP (DT the) (JJ maximum) (NN agreement) (NN subtree)) (PP (IN of) (NP (CD two) (JJ random) (JJ binary) (JJ phylogenetic) (NNS trees)))))))) (PP (IN under) (NP (DT both) (DT the) (JJ uniform) (NN distribution) (CC and) (NX (JJ Yule-Harding) (NN distribution))))) (. .))
-(S (NP (DT This)) (VP (ADVP (JJ positively)) (VBZ answers) (NP (NP (DT a) (NN question)) (VP (VBN posed) (PP (IN in) (NP (JJR earlier) (NN work)))))) (. .))
-(S (S (VP (VBG Determining) (NP (JJ tight) (UCP (NN upper) (CC and) (JJR lower)) (NNS bounds)))) (VP (VBZ remains) (NP (DT an) (JJ open) (NN problem))) (. .))

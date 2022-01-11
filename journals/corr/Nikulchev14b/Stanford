@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG generating) (NP (JJ robust) (NN chaos)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (ADJP (NP (NN search) (NN algorithm)) (JJ weak)) (NN symmetry) (NN violation)) (PP (IN in) (NP (DT the) (JJ reconstructed) (NN attractor))))))) (. .))
-(FRAG (PP (IN On) (NP (PRP$ its) (NN basis))) (NP (NP (DT the) (JJ smooth) (NNS functions)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (DT a) (NN system)) (PP (IN of) (NP (NML (NN finite) (HYPH -) (NN difference)) (NNS equations)))))))) (. .))
-(FRAG (S (VP (TO To) (VP (VB ensure) (NP (NP (JJ robust) (NN chaos) (NN generator)) (VP (VBN introduced) (ADVP (RB piecewise))))))) (NP (JJ continuous) (NN member)) (. .))
-(S (NP (DT The) (NN simulation) (NNS results)) (VP (VBP are) (VP (VBN given) (PP (IN in) (NP (DT the) (NN report))))) (. .))

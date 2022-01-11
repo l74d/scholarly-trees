@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ deals) (PP (IN with) (NP (NP (JJ robust) (NN optimization)) (VP (VBD applied) (PP (TO to) (NP (NN network) (NNS flows))))))) (. .))
-(S (NP (NP (CD Two) (JJ robust) (NNS variants)) (PP (IN of) (NP (DT the) (JJ minimum-cost) (NN integer) (NN flow) (NN problem)))) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (ADVP (RB Thereby)) (, ,) (NP (NP (NN uncertainty)) (PP (IN in) (NP (NN problem) (NN formulation)))) (VP (VBZ is) (VP (VP (VBN limited) (PP (TO to) (NP (VB arc) (NN unit) (NNS costs)))) (CC and) (VP (VBN expressed) (PP (IN by) (NP (NP (DT a) (JJ finite) (NN set)) (PP (IN of) (NP (ADJP (RB explicitly) (VBN given)) (NNS scenarios)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT both) (NN problem) (NNS variants)) (VP (VBP are) (ADJP (NNP NP-hard))))))) (. .))
-(S (S (VP (TO To) (VP (VB solve) (NP (DT the) (VBN considered) (NNS variants))))) (, ,) (NP (NP (JJ several) (NNS heuristics)) (VP (VBN based) (PP (IN on) (NP (NP (JJ local) (NN search)) (CC or) (NP (JJ evolutionary) (NN computing)))))) (VP (VBP are) (VP (VBN proposed))) (. .))
-(S (NP (DT The) (NNS heuristics)) (VP (VBP are) (VP (ADVP (RB experimentally)) (VBN evaluated) (PP (IN on) (NP (JJ appropriate) (NN problem) (NNS instances))))) (. .))

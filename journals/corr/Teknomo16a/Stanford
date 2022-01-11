@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN lecture)) (VP (VBZ discusses) (NP (NP (NP (DT the) (JJ mathematical) (NN relationship)) (PP (IN between) (NP (NN network) (NN structure)))) (CC and) (NP (NP (NN network) (NN utilization)) (PP (IN of) (NP (NN transportation) (NN network)))))) (. .))
-(S (NP (NNP Network) (NN structure)) (VP (VBZ means) (NP (DT the) (NN graph)) (S (NP (PRP itself)))) (. .))
-(S (NP (NNP Network) (NN utilization)) (VP (VBP represent) (NP (NP (DT the) (NN aggregation)) (PP (IN of) (NP (NP (NNS trajectories)) (PP (IN of) (NP (NNS agents)))))) (PP (IN in) (S (VP (VBG using) (NP (DT the) (NN network) (NN graph)))))) (. .))
-(S (NP (PRP I)) (VP (VBP show) (NP (NP (DT the) (NN similarity) (CC and) (NN relationship)) (PP (IN between) (NP (NP (DT the) (JJ structural) (NN pattern)) (PP (IN of) (NP (DT the) (NML (NN network) (CC and) (NN network)) (NN utilization))))))) (. .))

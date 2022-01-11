@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN note))) (, ,) (NP (NP (DT a) (NN criterion)) (PP (IN for) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NNS binomials) (S (VP (TO to) (VP (VB be) (NP (NN permutation) (NNS polynomials)))))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (PP (IN As) (NP (DT a) (NN consequence))) (, ,) (NP (NP (JJ many) (NNS classes)) (PP (IN of) (NP (NP (JJ binomial) (NN permutation) (NNS polynomials)) (CC and) (NP (JJ monomial) (JJ complete) (NN permutation) (NNS polynomials))))) (VP (VBP are) (VP (VBN obtained))) (. .))
-(S (NP (NP (DT The) (NNS exponents)) (PP (IN in) (NP (DT these) (NNS monomials)))) (VP (VBP are) (PP (IN of) (NP (NNP Niho) (NN type)))) (. .))

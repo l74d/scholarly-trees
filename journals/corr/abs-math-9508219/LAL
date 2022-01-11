@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN research) (NN announcement)) (VP (VBZ describes) (PP (IN in) (NP (ADJP (RB very) (JJ rough)) (NNS terms))) (NP (NP (NNS methods)) (CC and) (NP (NP (DT a) (NN computer) (NN language)) (PP (IN under) (NP (NN development)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB prove) (NP (NP (DT the) (NN nonexistence)) (PP (IN of) (NP (JJ binary) (JJ linear) (NNS codes)))))))))))))) (. .))
-(S (NP (QP (IN Over) (DT a) (JJ hundred)) (JJ new) (NNS results)) (VP (VBP have) (VP (VBN been) (VP (VBN obtained) (PP (IN by) (NP (DT the) (NN author)))))) (. .))
-(S (PP (IN For) (NP (NN example))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT no) (JJ -LSB-) (CD 29,11,10) (JJ -RSB-) (NN code))) (. .))
-(S (NP (NP (DT The) (NN proof)) (PP (IN of) (NP (DT this)))) (VP (VBZ is) (VP (ADVP (RB roughly)) (VBN outlined))) (. .))

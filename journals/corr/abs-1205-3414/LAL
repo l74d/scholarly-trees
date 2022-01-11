@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP provide) (NP (RB algorithms)) (NP (NP (VBG computing) (NN power) (NN series) (NNS solutions)) (PP (IN of) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (ADJP (NN differential) (CC or) ($ $) (JJ q) ($ $) (JJ -differential)) (NNS equations) (CC or) (NNS systems))))))) (. .))
-(S (NP (NP (PRP$ Their) (NN number)) (PP (IN of) (NP (JJ arithmetic) (NNS operations)))) (VP (VBZ grows) (ADVP (RB linearly)) (PP (IN with) (NP (DT the) (NN precision))) (, ,) (PP (RB up) (PP (TO to) (NP (VB logarithmic) (NNS terms))))) (. .))

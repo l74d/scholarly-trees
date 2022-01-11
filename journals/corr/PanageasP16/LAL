@@ -1,2 +1,0 @@
-(S (ADVP (RB Moreover)) (, ,) (NP (DT this) (NN result)) (VP (VBZ extends) (PP (TO to) (NP (JJ forward-invariant) (NN convex) (NNS subspaces))) (, ,) (S (VP (VBG allowing) (PP (IN for) (NP (JJ weak) (PRN (-LRB- -LRB-) (ADJP (RB non-globally) (NNP Lipschitz)) (-RRB- -RRB-)) (NN smoothness) (NNS assumptions)))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP produce) (NP (NP (DT an) (JJ upper) (NN bound)) (PP (IN on) (NP (DT the) (JJ allowable) (NN step-size))))) (. .))

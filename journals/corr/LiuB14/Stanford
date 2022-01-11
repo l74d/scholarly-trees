@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (NP (DT the) (ADJP (RBS most) (RB mutually) (VBN correlated)) (NNS arms)) (PP (IN among) (NP (JJ many) (NNS arms))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ adaptive) (NML (NNS arms) (NN sampling)) (NNS strategies)) (VP (MD can) (VP (VB have) (NP (NP (JJ significant) (NNS advantages)) (PP (IN over) (NP (DT the) (JJ non-adaptive) (NML (NN uniform) (NN sampling)) (NN strategy))))))))) (. .))
-(S (NP (PRP$ Our) (VBN proposed) (NNS algorithms)) (VP (VBP rely) (PP (IN on) (NP (DT a) (JJ novel) (NN correlation) (NN estimator)))) (. .))
-(S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (DT this) (JJ accurate) (NN estimator)))) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB get) (NP (VBN improved) (NNS results)) (PP (IN for) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NN problem) (NNS instances))))))))) (. .))

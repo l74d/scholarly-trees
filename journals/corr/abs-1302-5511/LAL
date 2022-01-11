@@ -1,8 +1,0 @@
-(S (NP (NP (DT The) (NN development)) (PP (IN of) (NP (NN computer) (NN science)))) (VP (VBZ has) (VP (VBN contributed) (ADVP (RB greatly)) (PP (IN for) (S (VP (VBG increasing) (PP (PP (IN of) (NP (NN efficiency))) (CC and) (ADVP (RB effectively)))))))) (. .))
-(S (NP (NP (JJ Many) (NNS areas))) (VP (VBP are) (VP (VBN covered) (PP (IN by) (NP (NN computer) (NN science))) (, ,) (FRAG (VBD included) (NP (NN education))))) (. .))
-(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN research)))) (VP (VBZ is) (S (VP (TO to) (VP (VB introduce) (NP (NP (VB jawi)) (NP (NP (DT a) (NN type)) (PP (IN of) (NP (JJ Indonesian) (NNS letters))))))))) (. .))
-(S (NP (NNP Jawis) (NN letter)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN letter)) (PP (IN in) (NP (DT the) (NN past))))))) (. .))
-(S (CC But) (ADVP (RB right) (RB now)) (NP (JJ few) (NNS people)) (VP (MD can) (VP (VB read) (CC and) (VB understand) (NP (PRP it)))) (. .))
-(S (NP (NP (JJ Many) (NNS documents)) (PP (IN in) (NP (DT the) (NN past)))) (VP (VBD was) (VP (VBN written) (PP (IN in) (NP (NNP Jawi))))) (. .))
-(S (NP (DT The) (NN writer)) (VP (NN develop) (CC or) (VB build) (NP (DT the) (NN software)) (S (VP (VBG using) (NP (NP (NNP Pressman) (NN method)) (, ,) (CC and) (NP (NP (NNS tools)) (PP (JJ such) (IN as) (NP (NP (NNP Microsoft) (NNP Visual) (NNP Basic)) (, ,) (CC and) (NP (NNP Microsoft) (NNP Access))))))))) (. .))
-(S (S (NP (DT This) (NN software)) (VP (MD can) (VP (VB introduce) (NP (NNP Jawi))))) (RB then) (S (NP (NNS people)) (VP (MD can) (VP (VB learn) (NP (PRP it)) (ADVP (RB easily))))) (. .))

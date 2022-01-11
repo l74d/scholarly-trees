@@ -1,3 +1,0 @@
-(S (NP (JJ Cognitive) (NN assistance)) (VP (MD may) (VP (VB be) (ADJP (JJ valuable)) (PP (IN in) (NP (NP (NNS applications)) (PP (IN for) (NP (NP (NNS doctors) (CC and) (NNS therapists)) (SBAR (WHNP (WDT that)) (S (VP (VP (VB reduce) (NP (NNS costs))) (CC and) (VP (VB improve) (NP (NN quality))) (PP (IN in) (NP (JJ healthcare) (NNS systems)))))))))))) (. .))
-(S (NP (NNP Use) (NNS cases) (CC and) (NNS scenarios)) (VP (VBP include) (NP (NP (DT the) (NN assessment)) (PP (IN of) (NP (NN dementia))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (PRP$ our) (NN approach)) (PP (TO to) (NP (NP (DT the) (PRN (-LRB- -LRB-) (JJ semi-) (-RRB- -RRB-)) (JJ automatic) (NN assessment)) (PP (IN of) (NP (NN dementia))))))) (. .))

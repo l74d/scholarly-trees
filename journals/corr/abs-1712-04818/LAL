@@ -1,2 +1,0 @@
-(S (NP (NNP Modal) (NN crosstalk)) (VP (VBZ is) (NP (DT the) (JJ main) (NN bottleneck)) (PP (IN in) (NP (NP (JJ MMF-enabled) (JJ optical) (NN datacenter) (NNS networks)) (PP (IN with) (NP (JJ direct) (NN detection)))))) (. .))
-(S (NP (DT A) (JJ novel) (JJ time-slicing-based) (JJ crosstalk-mitigated) (NNP MDM) (NN scheme)) (VP (VBZ is) (VP (VP (ADVP (RB first)) (VBN proposed)) (, ,) (ADVP (RB then)) (VP (VP (ADVP (RB theoretically)) (VBN analyzed)) (CC and) (VP (ADVP (RB experimentally)) (VBD demonstrated))))) (. .))

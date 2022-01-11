@@ -1,3 +1,0 @@
-(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (ADJP (VBN formulated)) (NN problem)) (VP (VBZ couples) (NP (DT the) (NN precoding) (NNS vectors)) (PP (IN with) (NP (DT the) (NML (NN power) (HYPH -) (NN control)) (NNS variables)))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (DT the) (JJ optimal) (NN precoding) (NNS vectors)) (VP (VBP are) (VP (VBN obtained) (PP (IN in) (NP (NML (JJ closed) (HYPH -) (NN form)) (NNS expressions))))) (. .))
-(S (NP (NNP Simulation) (NNS results)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB show) (NP (DT the) (NN performance) (NN improvement)) (PP (IN over) (NP (DT the) (NN benchmark) (NN scheme)))))))) (. .))

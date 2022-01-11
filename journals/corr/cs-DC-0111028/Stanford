@@ -1,5 +1,0 @@
-(S (NP (NN TANGO)) (VP (VBZ is) (NP (NP (ADJP (NP (DT an) (NN object)) (VBN oriented)) (NN control) (NN system) (NN toolkit)) (VP (VBN based) (PP (IN on) (NP (NNP CORBA))) (PP (ADVP (RB presently)) (IN under) (NP (NP (NN development)) (PP (IN at) (NP (DT the) (NN ESRF)))))))) (. .))
-(S (PP (IN IN) (NP (DT this) (NN paper))) (, ,) (NP (DT the) (NN TANGO) (NN philosophy)) (VP (VBZ is) (ADVP (RB briefly)) (VP (VBN presented))) (. .))
-(S (S (NP (PDT All) (DT the) (VBG existing) (NNS tools)) (VP (VBN developed) (PP (IN around) (NP (NN TANGO))))) (VP (MD will) (ADVP (RB also)) (VP (VB be) (VP (VBN presented)))) (. .))
-(S (NP (DT This)) (VP (VBP include) (NP (NP (DT a) (NN code) (NN genrator)) (, ,) (NP (NP (DT a) (NN WEB) (NN interface)) (PP (IN to) (NP (NP (NN TANGO) (NNS objects)) (, ,) (NP (DT an) (NN administration) (NN tool)) (CC and) (NP (DT an) (NN interface)))))) (PP (IN to) (NP (NNP LabView)))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (NP (DT an) (NN xample)) (PP (IN of) (NP (NP (DT a) (NN TANGO) (NN device) (NN server)) (PP (IN for) (NP (NNP OPC) (NN device)))))) (VP (VBZ is) (VP (VBN given))) (. .))

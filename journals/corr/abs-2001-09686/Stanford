@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VB solve) (NP (NP (NP (NNP Maxwell) (POS 's)) (JJ eigenvalue) (NN problem)) (PP (IN via) (NP (NP (JJ isogeometric) (JJ boundary) (NNS elements)) (CC and) (NP (DT a) (NN contour) (JJ integral) (NN method)))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (JJ analytic) (NNS properties)) (PP (IN of) (NP (DT the) (NN discretisation)))) (, ,) (S (VP (VB outline) (NP (NP (DT the) (NN implementation)) (, ,) (CC and) (NP (NN showcase) (JJ numerical) (NNS examples)))))) (. .))

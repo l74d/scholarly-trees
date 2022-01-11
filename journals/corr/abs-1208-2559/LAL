@@ -1,3 +1,0 @@
-(S (NP (NP (DT An) (NNP O) (PRN (-LRB- -LRB-) (NNP Nn^2) (NNP +) (NN n^2) (-RRB- -RRB-)) (NN time) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB enumerate) (NP (NP (DT all) (NNP N) (NNS models)) (PP (IN of) (NP (NP (DT a) (JJ Boolean) (JJ 2-CNF)) (PP (IN with) (NP (JJ n) (NNS variables))))))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (S (VP (VBG Using) (NP (S (VP (VBP do) (RB n't) (VP (VB care)))) (VB symbols)))) (NP (DT the) (NNS models)) (VP (VBP are) (VP (NN output) (PP (PP (IN in) (NP (NNS clusters))) (CONJP (RB rather) (IN than)) (NP (NP (CD one)) (PP (IN by) (NP (CD one))))))) (. .))
-(S (NP (NNP Computer) (NNS experiments)) (VP (VBP confirm) (NP (NP (DT the) (JJ high) (NN efficiency)) (PP (IN of) (NP (DT the) (NN method))))) (. .))

@@ -1,4 +1,0 @@
-(S (S (VP (VB Take) (NP (NP (DT the) (NN Internet)) (PP (IN of) (NP (NNS Things)))))) (, ,) (NP (NP (NP (DT a) (NN piece)) (PP (IN of) (NP (NN cloud) (NN computing)))) (, ,) (NP (NP (DT a) (NN handful)) (PP (IN of) (NP (JJ smart) (NNS cities)))) (, ,)) (VP (VBP do) (RB n't) (VP (VP (VB forget) (NP (NP (JJ social) (NNS platforms)) (, ,) (NP (NP (NN flavour)) (NP (NP (PRP it)) (PP (IN with) (NP (JJ mobile) (NNS technologies))))) (CC and) (NP (ADJP (RB ever) (HYPH -) (VBG changing)) (NNS environments)))) (, ,) (VP (VP (VB shake) (NP (PRP it)) (PRT (RP up))) (CC and)))) (: ...) (FRAG (NP (NN voila))) (. !))
-(NP (WDT What) (DT a) (JJ wonderful) (NN service) (. !))
-(INTJ (UH Oops) (. !))
-(SBARQ (S (VP (VB Wait) (NP (DT a) (NN minute)))) (, ,) (WHADVP (WRB where)) (SQ (VBD did) (NP (PRP$ my) (NNS requirements)) (VP (VB go))) (. ?))

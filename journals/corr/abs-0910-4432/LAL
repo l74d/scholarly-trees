@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VB obtain) (NP (NP (DT a) (JJ closed-form) (NN expression)) (PP (IN for) (NP (NP (DT the) (NNP Wiener) (NN index)) (PP (IN of) (NP (JJ binomial) (NNS trees))))))) (. .))
-(S (NP (PRP We)) (VP (VBP outline) (NP (NP (JJ efficient) (NN algorithms)) (PP (IN for) (S (VP (VBG computing) (NP (NP (DT the) (NNP Wiener) (NNS indices)) (PP (IN of) (NP (NP (NNP Fibonacci)) (CC and) (NP (JJ binary) (NNP Fibonacci) (NNS trees)))))))))) (. .))

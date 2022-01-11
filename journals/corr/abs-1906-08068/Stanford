@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT the) (JJ online) (NML (NML (NN machine) (NN learning)) (PP (IN for) (NP (JJ big) (NNS data)))) (NN analysis)) (PP (IN with) (NP (NN heterogeneity)))) (. .))
-(S (NP (PRP We)) (VP (VBD performed) (NP (DT an) (NN experiment)) (S (VP (TO to) (VP (VB compare) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NP (NP (DT each) (NN iteration)) (PP (IN between) (NP (NN batch) (CD one)))) (CC and) (ADVP (RB online)) (NP (CD one))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ possible) (S (VP (TO to) (VP (VB converge) (ADVP (RB quickly)) (PP (IN with) (NP (NP (DT the) (JJ same) (NN accuracy)) (PP (IN as) (NP (DT the) (NN batch) (CD one)))))))))) (. .))

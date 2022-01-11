@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (JJ first) (CC and) (JJ second) (NN order) (NN convergence) (NN analysis)) (PP (IN of) (NP (DT the) (ADJP (NN sparsity) (JJ aware)) (JJ l0-RLS) (JJ adaptive) (NN filter))))) (. .))
-(S (NP (DT The) (NNS theorems) (CD 1) (CC and) (CD 2)) (VP (NN state) (NP (NP (DT the) (JJ steady) (NN state) (NN value)) (PP (IN of) (NP (NP (NN mean) (CC and) (JJ mean) (JJ square) (NN deviation)) (PP (IN of) (NP (DT the) (JJ adaptive) (NN filter) (NN weight) (NN vector))))))) (. .))

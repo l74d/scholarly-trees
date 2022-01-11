@@ -1,7 +1,0 @@
-(S (NP (NP (DT The) (NN entropy)) (PP (IN of) (NP (DT an) (JJ ergodic) (NN source)))) (VP (VBZ is) (NP (NP (DT the) (NN limit)) (PP (IN of) (NP (NP (ADVP (RB properly)) (NP (VBN rescaled) (NML (CD 1) (HYPH -) (NN block)) (NNS entropies)) (PP (IN of) (NP (NNS sources)))) (VP (VBN obtained) (S (VP (VBG applying) (NP (NP (NP (JJ successive) (JJ non-sequential) (JJ recursive) (NNS pairs)) (NP (NNS substitutions))) (-LRB- -LRB-) (NP (S (VP (VB see) (NP (NNP P.) (NNP Grassberger) (CD 2002) (NNP ArXiv)))) (: :) (NP (NP (NN physics) (HYPH /) (NN 0207023)) (CC and) (NP (NNP D.) (NNP Benedetto)))) (, ,) (NP (NNP E.) (NNP Caglioti)) (CC and) (NP (NNP D.) (NNP Gabrielli) (CD 2006) (NNP Jour)))))))))) (. .))
-(NP (NNP Stat) (. .))
-(NP (NNP Mech) (. .))
-(NP (NNP Theo) (. .))
-(NP (NN Exp) (. .))
-(NP (NP (CD 09) (NN doi)) (: :) (NP (NP (CD 10.1088) (SYM /) (CD 1742.) (HYPH -) (CD 5468) (HYPH /) (CD 2006)) (HYPH /) (NP (CD 09) (HYPH /) (NN P09011)) (-RRB- -RRB-)) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN cross) (NN entropy)) (CC and) (NP (DT the) (NML (NNP Kullback) (HYPH -) (NNP Leibler)) (NN divergence))) (VP (MD can) (VP (VB be) (VP (VBN obtained) (PP (IN in) (NP (DT a) (JJ similar) (NN way))))))))) (. .))

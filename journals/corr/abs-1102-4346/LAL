@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN class) (NNP BPP)) (VP (VBZ is) (PP (IN in) (NP (NNP NP) (CC and) (NN coNP))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ has) (VP (VBN been) (VP (VBN withdrawn) (PP (IN by) (NP (DT the) (NN author))) (SBAR (IN because) (S (S (NP (NNP B) (CC and) (NNP B) (POS ›)) (VP (VBP are) (ADJP (JJ probabilistic)))) (CC and) (S (NP (NNS nonequalities) (CD 10)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN checked) (PP (IN in) (NP (JJ polynomial) (NN time)))))))))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN proved) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT this) (NN sequence)) (VP (VBZ converges) (PP (IN after) (NP (NP (RB only) (DT a) (JJ finite) (NN number)) (PP (IN of) (NP (NNS scalings)))))))) (, ,) (ADVP (RB then)) (NP (PRP it)) (VP (VBZ converges) (PP (IN after) (NP (QP (ADVP (IN at) (RBS most)) (CD two)) (NNS scalings)))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ new) (JJ asymptotic) (JJ upper) (NN bound)) (PP (IN on) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT a) (NN code)) (PP (IN in) (NP (DT the) (JJ Grassmannian) (NN space))))))))) (. .))
-(S (NP (DT The) (NN bound)) (VP (VBZ is) (ADJP (ADJP (RBR better)) (PP (IN than) (NP (NP (DT the) (JJ upper) (NNS bounds)) (VP (VBN known) (ADVP (RB previously)))))) (PP (IN in) (NP (NP (DT the) (JJ entire) (NN range)) (PP (IN of) (NP (NNS distances))) (PP (IN except) (NP (ADJP (RB very) (JJ large)) (NNS values)))))) (. .))

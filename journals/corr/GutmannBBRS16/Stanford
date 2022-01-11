@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (NN crypto) (NN scheme)) (SBAR (WHNP (WP$ whose) (NN title)) (S (VP (VBZ promises) (S (NP (PRP it)) (VP (TO to) (VP (VB be) (ADJP (RB so) (JJ boring)) (SBAR (IN that) (S (NP (DT no) (HYPH -) (NN one)) (VP (MD will) (VP (VB bother) (S (VP (VBG reading) (PP (IN past) (NP (DT the) (JJ abstract))))))))))))))))) (. .))
-(S (PP (IN Because) (PP (IN of) (NP (DT this)))) (, ,) (NP (NP (DT the) (NN remainder)) (PP (IN of) (NP (DT the) (NN paper)))) (VP (VBZ is) (VP (VBN left) (S (ADJP (JJ blank))))) (. .))

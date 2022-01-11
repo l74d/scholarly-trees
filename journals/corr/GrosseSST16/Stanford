@@ -1,5 +1,0 @@
-(S (NP (NML (NN V2V) (CC and) (NN V2I)) (NN channel) (NN modeling)) (VP (VBD became) (ADVP (RB recently)) (NP (NP (JJR more)) (PP (IN of) (NP (NN interest))))) (. .))
-(S (S (VP (TO To) (VP (VB provide) (NP (NP (JJ realistic) (NN radio) (NNS channels)) (CC either) (NP (NP (JJ expensive) (NNS measurements)) (CC or) (NP (JJ complex) (NML (NN ray) (VBG tracing)) (NNS simulations))))))) (VP (VBP are) (ADVP (RB mostly)) (VP (VBN used))) (. .))
-(S (NP (JJ Stochastic) (NN channel) (NNS models)) (VP (VP (VBP are) (PP (IN of) (NP (JJ low) (NN complexity)))) (CC but) (VP (VBP do) (RB not) (VP (VB offer) (NP (DT that) (JJ deterministic) (JJ repeatable) (NN realism))))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (NP (DT the) (NN WINNER) (NN channel) (NN model)) (CC and) (NP (DT a) (JJ simple) (JJ single) (NN path) (NN model))))) (, ,) (NP (DT a) (JJ hybrid) (NN model)) (VP (VBZ has) (VP (VBN been) (VP (VBN developed)))) (. .))
-(S (NP (DT The) (NN concept)) (VP (VBZ relies) (PP (IN on) (NP (NP (DT a) (ADJP (JJ layered)) (NN structure)) (VP (VBG featuring) (NP (JJ high) (NN flexibility) (CC and) (NN scalability)))))) (. .))

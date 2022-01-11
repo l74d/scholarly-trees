@@ -1,1 +1,0 @@
-(S (NP (NP (DT The) (NN speedup)) (PP (IN over) (NP (DT the) (NN default) (NN implementation)))) (VP (VBZ is) (VP (VBN achieved) (PP (JJ due) (PP (TO to) (NP (NP (NN simplification)) (PP (IN of) (NP (DT the) (NN graph))) (PP (IN for) (NP (DT the) (ADJP (NN forward) (CC and) (NN backward)) (NNS passes)))))))) (. .))

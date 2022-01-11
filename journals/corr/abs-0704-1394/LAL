@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT these) (NNS notes))) (NP (PRP we)) (VP (ADVP (RB formally)) (VBP describe) (NP (NP (DT the) (NN functionality)) (PP (IN of) (S (VP (NNP Calculating) (NP (NNP Valid) (NNP Domains)) (PP (IN from) (NP (NP (DT the) (NNP BDD)) (VP (VBG representing) (NP (NP (DT the) (NN solution) (NN space)) (PP (IN of) (NP (JJ valid) (NNS configurations)))))))))))) (. .))
-(S (NP (DT The) (NN formalization)) (VP (VBZ is) (ADVP (RB largely)) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP CLab) (NN configuration) (NN framework))))) (. .))

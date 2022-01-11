@@ -1,6 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (JJ mathematical) (NN model)) (PP (IN of) (NP (NNP HIV) (NN infection))) (PP (IN for) (NP (NNP CD8+) (NNP T-cells)))) (VP (VBZ is) (VP (VBN illustrated))) (. .))
-(S (NP (NP (DT The) (NN homotopy) (NN analysis) (NN method)) (CC and) (NP (DT the) (NNP Laplace) (NNS transformations))) (VP (VBP are) (VP (VBN combined) (PP (IN for) (S (VP (VBG solving) (NP (DT this) (NN model))))))) (. .))
-(S (ADVP (RB Also)) (, ,) (NP (DT the) (NN convergence) (NN theorem)) (VP (VBZ is) (VP (VBN proved) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NNS abilities)) (PP (IN of) (NP (JJ presented) (NN method))) (PP (IN for) (S (VP (VBG solving) (NP (JJ non-linear) (JJ mathematical) (NNS models))))))))))) (. .))
-(S (NP (NP (DT The) (JJ numerical) (NNS results)) (PP (IN for) (NP (NP (NNP N)) (VP (NNP =) (NP (CD 5) (, ,) (CD 10)))))) (VP (VBP are) (VP (VBN presented))) (. .))
-(S (NP (JJ Several) (NNS h-curves)) (VP (VBP are) (VP (VBN plotted) (S (VP (TO to) (VP (VB show) (NP (NP (DT the) (NN convergence) (NNS regions)) (PP (IN of) (NP (NNS solutions))))))))) (. .))
-(S (NP (NP (DT The) (NNS plots)) (PP (IN of) (NP (JJ residual) (NN error) (NNS functions)))) (VP (VBP indicate) (NP (NP (DT the) (NN precision)) (PP (IN of) (NP (VBN presented) (NN method))))) (. .))

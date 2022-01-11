@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (JJ 2nd) (NN workshop)) (PP (IN on) (NP (NP (NNP Future) (NNP Internet) (NNP Architecture)) (PP (IN for) (NP (VBG Developing) (NNS Regions))))) (PRN (-LRB- -LRB-) (NP (NN FI4D)) (-RRB- -RRB-))) (VP (VBD took) (NP (NN place)) (PP (IN on)) (NP-TMP (NNP January) (NN 8th) (, ,) (CD 2017))) (. .))
-(S (NP (DT This) (NN report)) (VP (VBZ summarizes) (NP (NP (DT the) (NN motivation)) (, ,) (NP (NP (NNS discussions) (CC and) (NNS perspectives)) (VP (VBN held) (PP (IN during) (NP (DT the) (NML (NN half) (HYPH -) (NN day)) (NN event))))))) (. .))

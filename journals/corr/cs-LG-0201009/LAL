@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN batch) (NN learning) (NN algorithm)) (VP (VBZ is) (ADVP (RB never)) (ADJP (JJR worse) (PP (IN than) (NP (DT the) (NN memoryless) (VBG learning) (NN algorithm)))) (PRN (-LRB- -LRB-) (ADVP (ADVP (IN at) (JJS least)) (RB asymptotically)) (-RRB- -RRB-)))))) (. .))

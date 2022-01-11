@@ -1,4 +1,0 @@
-(S (NP (NP (NP (DT The) (NN air) (VBG conditioning) (NN management)) (PP (IN of) (NP (NN data) (NNS centers)))) (, ,) (NP (NP (DT a) (JJ key) (NN question)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (NN energy) (NN saving)))))) (, ,)) (VP (VBZ is) (ADVP (RB here)) (VP (VBN tackled) (PP (IN via) (NP (DT the) (JJ recent) (JJ model-free) (NN control) (NN synthesis))))) (. .))
-(S (NP (JJ Mathematical) (NN modeling)) (VP (VBZ becomes) (ADJP (JJ useless)) (PP (IN in) (NP (DT this) (NN approach)))) (. .))
-(S (NP (NP (DT The) (NN tuning)) (PP (IN of) (NP (DT the) (JJ corresponding) (JJ intelligent) (JJ proportional) (NN controller)))) (VP (VBZ is) (ADJP (RB straightforward))) (. .))
-(S (NP (NNP Computer) (NNS simulations)) (VP (VBP show) (NP (JJ excellent) (VBG tracking) (NNS performances)) (PP (IN in) (NP (NP (JJ various) (JJ realistic) (NNS situations)) (, ,) (PP (IN like) (NP (NP (NNP CPU) (NN load)) (CC or) (NP (NN temperature) (NNS changes))))))) (. .))

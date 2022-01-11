@@ -1,4 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ starts) (PP (IN with) (NP (NP (NNS generalizations)) (PP (IN of) (NP (NP (DT some) (JJ classical) (NNS results)) (CC and) (NP (JJ new) (NN truncation) (NN error)))))) (NP (NP (JJ upper) (NNS bounds)) (PP (IN in) (NP (NP (DT the) (NN sampling) (NN theorem)) (PP (IN for) (NP (JJ bandlimited) (JJ stochastic) (NNS processes))))))) (. .))
-(S (NP (NP (JJ Explicit) (NN truncation) (NN error)) (NP (JJ upper) (NNS bounds))) (VP (VBP are) (VP (VBN established))) (. .))
-(S (NP (NP (DT Some) (NNS specifications)) (PP (IN of) (NP (NP (DT the) (JJ general) (NNS results)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NNS assumptions)) (VP (MD can) (VP (VB be) (ADVP (RB easily)) (VP (VBN verified))))))))) (VP (VBP are) (VP (VBN given))) (. .))
-(S (NP (JJ Direct) (JJ analytical) (NNS methods)) (VP (VBP are) (VP (VBN employed) (S (VP (TO to) (VP (VB obtain) (NP (DT the) (NNS results))))))) (. .))

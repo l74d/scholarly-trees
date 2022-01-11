@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (PP (IN of) (NP (NP (NN degree) (NN reduction)) (PP (IN of) (NP (NN Bézier) (NNS curves)))))) (PP (IN with) (NP (NN box) (NNS constraints)))) (. .))
-(S (NP (DT The) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB combine) (NP (NP (DT the) (JJ previous) (JJ iterative) (NN approach)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN presented) (ADVP (RB recently)) (PP (IN in) (-LRB- -LRB-) (NP (NP (NNP P.) (NNP Gospodarczyk)) (, ,) (NP (NNP Comput)))))))))))))) (. .))
-(S (VP (VBN Aided) (NP (NNP Des))) (. .))
-(FRAG (FRAG (FRAG (NP (CD 62)) (-LRB- -LRB-) (NP (CD 2015)) (-RRB- -RRB-)) (, ,) (FRAG (NP (NP (CD 143)) (: --) (NP (CD 151)) (-RRB- -RRB-)) (, ,) (PP (IN with) (NP (NP (DT a) (JJ fast) (NN method)) (PP (IN of) (NP (NP (NN construction)) (PP (IN of) (NP (JJ dual) (NNS bases))))))) (PP (IN from)))) (FRAG (-LRB- -LRB-) (NP (NNP P.) (NNP Woźny)) (, ,) (NP (NNP J.) (NNP Comput))) (. .))
-(NP (NNP Appl) (. .))
-(NP (NNP Math) (. .))
-(NP (NP (NP (CD 260) (PRN (-LRB- -LRB-) (NP (CD 2014) (-RRB- -RRB-)) (, ,) (NP (CD 301)) (: --) (NP (CD 311)) (-RRB- -RRB-))) (CC and) (NP (NP (DT a) (JJ new) (JJ efficient) (NN method)) (PP (IN of) (NP (NN modification))))) (PP (IN of) (NP (JJ dual) (NNS bases))) (. .))

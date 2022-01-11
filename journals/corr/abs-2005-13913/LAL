@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (DT the) (JJ minimum) (NN dominating) (VBN set) (NN problem))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN minimum) (NN liar) (POS 's)) (NN dominating) (NN set) (PRN (-LRB- -LRB-) (NP (NNP MLDS)) (-RRB- -RRB-)) (NN problem)))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NNP MLDS) (NN problem)) (VP (VBZ is) (ADJP (NNP NP-hard))))) (PP (IN in) (NP (NN unit) (NN disk) (NN graphs)))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NNP MLDS) (NN problem)) (VP (VBZ admits) (NP (DT a) (JJ polynomial-time) (NN approximation) (NN scheme)))))) (. .))

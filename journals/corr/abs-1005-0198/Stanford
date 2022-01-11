@@ -1,4 +1,0 @@
-(NP (NP (DT This) (NN paper) (NNS deals)) (PP (IN with) (NP (NN personalization))) (PP (IN of) (NP (JJ annotated) (NN OLAP) (NNS systems))) (. .))
-(S (NP (NNS Data) (NN constellation)) (VP (VBZ is) (VP (VBN extended) (S (VP (TO to) (VP (VB support) (NP (NML (NNS annotations) (CC and) (NN user)) (NNS preferences))))))) (. .))
-(S (NP (NNS Annotations)) (VP (VBP reflect) (NP (DT the) (NML (NN decision) (HYPH -) (NN maker)) (NN experience)) (SBAR (IN whereas) (S (NP (NN user) (NNS preferences)) (VP (VBP enable) (NP (NNS users)) (S (VP (TO to) (VP (VB focus) (PP (IN on) (NP (DT the) (ADJP (RBS most) (JJ interesting)) (NNS data)))))))))) (. .))
-(S (NP (NN User) (NNS preferences)) (VP (VBP allow) (NP (NP (VBN annotated) (JJ contextual) (NNS recommendations)) (VP (VBG helping) (NP (DT the) (NN decision) (HYPH -) (NN maker)) (PP (IN during) (NP (ADJP (PRP$ his) (SYM /) (PRP$ her)) (JJ multidimensional) (NNS navigations)))))) (. .))

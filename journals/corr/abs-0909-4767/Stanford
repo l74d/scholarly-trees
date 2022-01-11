@@ -1,2 +1,0 @@
-(FRAG (FRAG (NP (DT These) (JJ lecture) (NNS notes)) (ADVP (WRB where)) (VP (VBN presented) (PP (IN as) (NP (NP (DT a) (NN course)) (PP (IN of) (NP (NP (DT the) (NN CIMPA) (NN summer) (NN school)) (PP (IN in) (NP (NNP Manila))))))))) (, ,) (NP (NP (NNP July) (CD 20) (SYM -) (CD 30)) (, ,) (NP (CD 2009)) (, ,) (NP (NP (NNP Semidefinite) (NN programming)) (PP (IN in) (NP (JJ algebraic) (NNS combinatorics))))) (. .))
-(S (NP (DT This) (NN version)) (VP (VBZ is) (NP (DT an) (NN update)) (NP-TMP (NNP June) (CD 2010))) (. .))

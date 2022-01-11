@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (NN applicability)) (PP (IN of) (NP (NNP GPU)))) (PP (IN to) (NP (NNP DEM)))) (. .))
-(S (NP (NP (NNP NVIDIA) (POS 's)) (NN code)) (VP (VBD obtained) (NP (JJ superior) (NN performance)) (PP (IN than) (NP (NN CPU))) (PP (IN in) (NP (JJ computational) (NN time)))) (. .))
-(S (NP (NP (DT A) (NN model)) (PP (IN of) (NP (NP (NN contact) (NNS forces)) (PP (IN in) (NP (NP (NNP NVIDIA) (POS 's)) (NN code)))))) (VP (VBZ is) (ADJP (RB too) (JJ simple) (PP (IN for) (NP (JJ practical) (NN use))))) (. .))
-(S (NP (PRP We)) (VP (VBP modify) (NP (DT this) (NN model)) (PP (IN by) (S (VP (VBG replacing) (NP (PRP it)) (PP (IN with) (NP (DT the) (JJ practical) (NN model))))))) (. .))
-(S (NP (DT The) (NN simulation)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (JJ practical) (NN model)) (VP (VBZ obtains) (S (NP (DT the) (NN computing) (NN speed)) (ADJP (ADJP (NP (CD 6) (NNS times)) (JJR faster) (PP (IN than) (NP (NP (DT the) (JJ practical) (NN one)) (PP (IN on) (NP (NN CPU)))))) (SBAR (IN while) (FRAG (ADJP (ADJP (NP (CD 7) (NNS times)) (JJR slower)) (PP (IN than) (NP (NP (DT the) (JJ simple) (NN one)) (PP (IN on) (NP (NNP GPU)))))))))))))) (. .))
-(S (NP (DT The) (NN result)) (VP (VBP are) (VP (VBN analyzed))) (. .))

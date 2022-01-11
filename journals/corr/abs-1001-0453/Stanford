@@ -1,5 +1,0 @@
-(S (NP (NML (NML (NNP Auto) (NNP ID)) (NNS technologies)) (JJ such) (NN RFID)) (VP (VBP are) (ADVP (RBR more) (CC and) (RBR more)) (ADVP (RB commonly)) (VP (VBN used) (PP (PP (IN in) (NP (NN industry))) (CC and) (PP (IN in) (NP (NN distribution)))))) (. .))
-(S (NP (NN Human)) (VP (VBP are) (S (VP (VB identify) (ADVP (NNS thanks) (PP (IN to) (NP (DT this) (NN technology)))) (, ,) (ADVP (RB too))))) (. .))
-(S (NP (NP (DT A) (NN lot)) (PP (IN of) (NP (NNS people)))) (VP (VBP have) (VP (VBN highlighted) (S (NP (JJ ethic) (NNS problems)) (ADJP (JJ relative) (PP (IN to) (NP (PRP$ their) (NN utilization))))))) (. .))
-(S (NP (NP (DT This) (NN paper)) (NP (JJ present) (JJ first) (JJ RFID) (NN technology))) (, ,) (ADVP (RB then)) (NP (PRP it)) (VP (VBZ presents) (NP (PRP$ their) (NNS opportunities)) (PP (IN in) (NP (NN business) (CC and) (NN industry)))) (. .))
-(S (PP (IN In) (NP (DT a) (JJ second) (NN part))) (, ,) (NP (DT the) (NN paper)) (VP (VBZ highlights) (NP (NP (DT some) (JJ ethic) (NNS problems)) (VP (VBG leading) (PP (IN to) (NP (NP (DT a) (JJ necessary) (NN standardization)) (CC and) (NP (NN regulation))))))) (. .))

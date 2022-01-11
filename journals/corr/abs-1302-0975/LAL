@@ -1,2 +1,0 @@
-(S (PP (VBG Regarding) (NP (JJ non-predetermined) (NNS possibilities))) (, ,) (NP (PRP we)) (VP (VP (VBP propose) (NP (DT a) (JJ constructive) (JJ epistemic) (NN logic))) (CC and) (VP (VB prove) (NP (NN soundness) (CC and) (NN completeness) (NNS theorems)) (PP (IN for) (NP (PRP it))))) (. .))
-(S (NP (PRP We)) (VP (VBP extend) (NP (DT the) (VBN proposed) (NN logic)) (PP (IN by) (S (VP (VBG adding) (NP (DT a) (JJ public) (NN announcement) (NN operator)))))) (. .))

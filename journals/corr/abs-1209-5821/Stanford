@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (NNS algorithms)) (PP (IN for) (NP (JJ spectral) (NN graph) (NN sparsification))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP present) (ADVP (RBR faster)) (NP (NP (NN sparsification) (NNS algorithms)) (PP (IN for) (NP (ADJP (RB slightly) (JJ dense)) (NNS graphs))))) (. .))
-(S (NP (DT The) (VBN improved) (NN sparsification) (NNS algorithms)) (VP (VBP are) (VP (VBN employed) (S (VP (TO to) (VP (VB accelerate) (NP (JJ linear) (NN system) (NNS solvers) (CC and) (NNS algorithms)) (PP (IN for) (NP (NP (VBG computing) (JJ fundamental) (NNS eigenvectors)) (PP (IN of) (NP (ADJP (RB slightly) (JJ dense)) (NN SDD) (NNS matrices)))))))))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (JJ Concolic) (NN testing)) (VP (VBZ mixes) (NP (ADJP (JJ symbolic) (CC and) (JJ concrete)) (NN execution)) (S (VP (TO to) (VP (VB generate) (NP (NN test) (NNS cases)) (S (VP (VBG covering) (NP (NNS paths)) (ADVP (RB effectively)))))))) (. .))
-(S (NP (PRP$ Its) (NNS benefits)) (VP (VBP have) (VP (VBN been) (VP (VBN demonstrated) (PP (IN for) (NP (QP (JJR more) (IN than) (CD 15)) (NNS years))) (S (VP (TO to) (VP (VB test) (NP (ADJP (JJ imperative)) (NNS programs)))))))) (. .))
-(S (NP (NP (JJ Other) (NN programming) (NNS paradigms)) (, ,) (PP (IN like) (NP (NN logic) (NN programming))) (, ,)) (VP (VBP have) (VP (VBN received) (NP (JJR less) (NN attention)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT a) (ADJP (JJ concolic) (HYPH -) (JJ based)) (NN test) (NN generation) (NN method)) (PP (IN for) (NP (NN logic) (NNS programs)))) (. .))
-(NP (NP (NP (PRP$ Our) (NN approach) (NNS exploits)) (ADJP (NP (NNP SMT)) (HYPH -) (VBG solving))) (PP (IN for) (NP (NN constraint) (NN resolution))) (. .))
-(S (NP (PRP We)) (ADVP (RB then)) (VP (VP (VBP describe) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NP (DT a) (JJ concolic) (NN testing) (NN tool)) (PP (IN for) (NP (NNP Prolog))))))) (CC and) (VP (VB validate) (NP (PRP it)) (PP (IN on) (NP (DT some) (VBN selected) (NNS benchmarks))))) (. .))

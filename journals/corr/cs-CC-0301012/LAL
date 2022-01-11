@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP address) (NP (NP (JJR lower) (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NN time) (NN complexity)) (PP (IN of) (NP (NP (NN algorithms)) (VP (VBG solving) (NP (DT the) (JJ propositional) (NN satisfiability) (NN problem))))))))) (. .))
-(S (ADVP (RB Namely)) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (CD two) (JJ DPLL-type) (NNS algorithms)) (, ,) (VP (VBN enhanced) (PP (IN with) (NP (NP (DT the) (NN unit) (NN clause)) (CC and) (NP (JJ pure) (JJ literal) (NNS heuristics))))))) (. .))
-(S (NP (NP (NNP Exponential) (JJR lower) (NNS bounds)) (PP (IN for) (S (VP (VBG solving) (NP (NN satisfiability)) (PP (IN on) (NP (ADJP (RB provably) (JJ satisfiable)) (NNS formulas))))))) (VP (VBP are) (VP (RB proven))) (. .))

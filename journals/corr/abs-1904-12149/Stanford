@@ -1,3 +1,0 @@
-(S (NP (NP (VBN Automated) (NNS accounts)) (PP (IN on) (NP (JJ social) (NNS media)))) (VP (VBP have) (VP (VBN become) (S (ADJP (RB increasingly) (JJ problematic))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ key) (NN feature)) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (VBG existing) (NNS methods))))) (S (VP (TO to) (VP (VB improve) (NP (NML (NN machine) (NN learning)) (NNS algorithms)) (PP (IN for) (NP (NN bot) (NN detection))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB successfully)) (VP (VB improve) (NP (NN classification) (NN performance)) (PP (IN through) (S (VP (VBG including) (NP (DT the) (VBN proposed) (NN feature)))))) (. .))

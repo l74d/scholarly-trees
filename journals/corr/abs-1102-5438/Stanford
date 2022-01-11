@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (CD 1906))) (NP (NNP Thue)) (VP (VBD proved) (SBAR (IN that) (S (NP (EX there)) (VP (VBP exist) (NP (NP (ADJP (RB arbitrarily) (JJ long)) (JJ nonrepetitive) (NNS sequences)) (PP (IN over) (NP (NP (NML (CD 3) (HYPH -) (NN element)) (NN set)) (PP (IN of) (NP (NNS symbols)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NP (JJ nonrepetitive) (NNS sequences)) (VP (VBG involving) (NP (NN arithmetic) (NNS progressions))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP discuss) (NP (NP (DT some) (JJ related) (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (ADVP (RB successfully)) (VP (VBN attacked) (PP (IN by) (NP (DT this) (NN method)))))))))) (. .))

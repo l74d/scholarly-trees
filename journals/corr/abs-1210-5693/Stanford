@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (DT a) (NN graph) (NN visualization) (NN methodology)) (PP (VBN based) (PP (IN on) (NP (JJ hierarchical) (JJ maximal) (NN modularity) (NN clustering)))) (, ,) (PP (IN with) (NP (ADJP (JJ interactive) (CC and) (JJ significant)) (NML (NN coarsening) (CC and) (NN refining)) (NNS possibilities)))) (. .))
-(S (NP (NP (DT An) (NN application)) (PP (IN of) (NP (NP (DT this) (NN method)) (PP (IN to) (NP (NP (NNP HIV) (NN epidemic) (NN analysis)) (PP (IN in) (NP (NNP Cuba)))))))) (VP (VBZ is) (VP (VBN outlined))) (. .))

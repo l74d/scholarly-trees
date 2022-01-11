@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT any) (JJ automatic) (NN multiplicative) (NN sequence)) (VP (DT either) (VP (NNS coincides) (PP (IN with) (NP (DT a) (NNP Dirichlet) (NN character)))) (CC or) (VP (VBZ is) (ADJP (RB identically) (CD zero)) (SBAR (WHADVP (WRB when)) (S (VP (VBN restricted) (PP (TO to) (NP (NP (NNS integers)) (ADJP (RB not) (JJ divisible) (PP (IN by) (NP (JJ small) (NNS primes)))))))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ answers) (NP (NP (DT a) (NN question)) (PP (IN of) (NP (NNP Bell) (, ,) (NNP Bruin) (CC and) (NNP Coons))))) (. .))
-(S (NP (DT A) (JJ similar) (NN result)) (VP (VBD was) (VP (VBN obtained) (ADVP (RB independently)) (PP (IN by) (NP (NNP Klurman) (CC and) (NNP Kurlberg))))) (. .))

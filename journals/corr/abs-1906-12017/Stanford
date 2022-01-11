@@ -1,2 +1,0 @@
-(S (ADVP (RB Recently)) (, ,) (NP (NNP Chang) (CC and) (NNP Hyun)) (VP (VBD obtained) (NP (NP (DT some) (NNS classes)) (PP (IN of) (NP (NP (JJ binary) (JJ optimal) (NNS codes)) (PP (IN via) (NP (JJ simplicial) (NNS complexes))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN letter))) (, ,) (NP (PRP we)) (VP (VBP utilize) (NP (NP (NNS posets)) (PP (IN of) (NP (NP (DT the) (NN disjoint) (NN union)) (PP (IN of) (NP (CD two) (NNS chains)))))) (S (VP (TO to) (VP (VB construct) (NP (JJ binary) (JJ optimal) (JJ linear) (NNS codes)))))) (. .))

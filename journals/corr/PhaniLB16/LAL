@@ -1,3 +1,0 @@
-(S (NP (NNP Authorship) (NNP Attribution)) (VP (VBZ is) (NP (NP (DT a) (JJ long-standing) (NN problem)) (PP (IN in) (NP (NNP Natural) (NNP Language) (NNP Processing))))) (. .))
-(S (NP (JJ Several) (ADJP (JJ statistical) (CC and) (JJ computational)) (NNS methods)) (VP (VBP have) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (NN solution)) (PP (TO to) (NP (DT this) (NN problem)))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN proposed) (NP (NP (NNS methods)) (SBAR (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (NP (DT the) (NN authorship) (NN attribution) (NN problem)) (PP (IN in) (NP (NNP Bengali)))))))))))) (. .))

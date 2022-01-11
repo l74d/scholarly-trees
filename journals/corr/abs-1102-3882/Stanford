@@ -1,2 +1,0 @@
-(NP (NP (NNP S) (HYPH -) (NNPS Boxes)) (SBAR (S (VP (VBP are) (NP (NP (JJ important) (NN security) (NNS components)) (PP (IN of) (NP (NN block) (NNS ciphers))))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (JJ theoretical) (NNS results)) (PP (IN on) (NP (NP (ADJP (JJ necessary) (CC or) (JJ sufficient)) (NNS criteria)) (PP (IN for) (NP (DT an) (ADJP (-LRB- -LRB-) (JJ invertible) (-RRB- -RRB-)) (NML (CD 4) (HYPH -) (NN bit)) (NML (NN S) (HYPH -) (NN Box)))))) (S (VP (TO to) (VP (VB be) (ADVP (RB weakly)) (NP (NNP APN)))))) (. .))

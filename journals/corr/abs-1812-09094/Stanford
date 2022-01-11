@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (JJ simple) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (DT the) (NN document) (NN array)) (PP (VBN given) (NP (NP (DT a) (NN string) (NN collection)) (CC and) (NP (NP (PRP$ its) (NN suffix) (NN array)) (PP (IN as) (NP (NN input)))))))))) (. .))
-(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ runs) (PP (IN in) (NP (NP (JJ linear) (NN time)) (VP (VBG using) (NP (NP (JJ constant) (JJ additional) (NN space)) (PP (IN for) (NP (NP (NNS strings)) (PP (IN from) (NP (JJ constant) (NNS alphabets)))))))))) (. .))

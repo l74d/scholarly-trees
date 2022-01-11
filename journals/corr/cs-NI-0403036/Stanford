@@ -1,5 +1,0 @@
-(S (NP (NP (NNP Domain) (NNP Resource) (NNP Integrated) (NNP System)) (-LRB- -LRB-) (NP (NNP DRIS)) (-RRB- -RRB-)) (VP (VBZ is) (VP (VBN introduced) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
-(S (NP (NNP DRIS)) (VP (VBZ is) (NP (DT a) (ADJP (JJ hierarchical) (VBN distributed)) (NML (NN Internet) (NN information)) (NN retrieval) (NN system))) (. .))
-(S (NP (DT This) (NN system)) (VP (MD will) (VP (VB solve) (NP (NP (DT some) (NN bottleneck) (NNS problems)) (PP (JJ such) (IN as) (NP (NP (JJ long) (NN update) (NN interval)) (, ,) (NP (NP (JJ poor) (NN coverage)) (PP (IN in) (NP (JJ current) (NML (NN web) (NN search)) (NN system))))))))) (. .))
-(S (NP (NNP DRIS)) (VP (MD will) (VP (VB build) (NP (NP (NP (DT the) (NN information) (NN retrieval) (NN infrastructure)) (PP (IN of) (NP (NN Internet)))) (, ,) (CONJP (CC but) (RB not)) (NP (DT a) (JJ commercial) (NN search) (NN engine))))) (. .))
-(S (NP (NP (DT The) (NN protocol) (NN series)) (PP (IN of) (NP (NNP DRIS)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN detailed) (PP (IN in) (NP (DT this) (NN paper))))) (. .))

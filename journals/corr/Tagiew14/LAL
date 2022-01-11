@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (JJ extensive) (JJ data-based) (NN analysis)) (PP (IN of) (NP (NP (DT the) (JJ non-profit) (JJ democratic) (NN hospitality) (NN exchange) (NN service)) (NP (NN bewelcome.org)))))) (. .))
-(S (NP (PRP We)) (ADVP (VBP hereby)) (VP (VB pursuit) (NP (NP (DT the) (NN goal)) (PP (IN of) (S (VP (VBG determining) (NP (NP (DT the) (NNS factors)) (VP (VBG influencing) (NP (PRP$ its) (NN growth))))))))) (. .))
-(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ provides) (NP (NP (JJ general) (NNS insights)) (PP (IN on) (NP (JJ internet-based) (NN hospitality) (NN exchange) (NNS services))))) (. .))
-(S (NP (DT The) (JJ other) (JJ investigated) (NNS services)) (VP (VBP are) (NP (NP (JJ hospitalityclub.org)) (CC and) (NP (NN couchsurfing.org)))) (. .))
-(S (S (NP (NP (NNS Communities)) (VP (VBG using) (NP (DT the) (CD three) (NNS services)))) (VP (VBP are) (ADJP (VBN interconnected)))) (: —) (S (S (VP (VBG comparing) (NP (PRP$ their) (NNS data)))) (VP (VBZ provides) (NP (JJ additional) (NN information)))) (. .))

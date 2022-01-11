@@ -1,6 +1,0 @@
-(S (PP (IN On) (NP (DT a) (JJ compact) (NN group))) (NP (DT the) (NNP Haar) (NN probability) (NN measure)) (VP (VBZ plays) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (JJ uniform) (NN distribution))))) (. .))
-(S (NP (NP (DT The) (NML (NN entropy) (CC and) (NN rate)) (NN distortion) (NN theory)) (PP (IN for) (NP (DT this) (JJ uniform) (NN distribution)))) (VP (VBZ is) (VP (VBN studied))) (. .))
-(S (S (NP (NP (JJ New) (NNS results)) (CC and) (NP (NP (VBN simplified) (NNS proofs)) (PP (IN on) (NP (NN convergence))) (PP (IN of) (NP (NP (NNS convolutions)) (PP (IN on) (NP (JJ compact) (NNS groups))))))) (VP (VBP are) (VP (VBN presented)))) (CC and) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN formulated) (PP (IN as) (NP (NN entropy) (NNS increases))) (PP (IN to) (NP (PRP$ its) (NN maximum))))))) (. .))
-(S (NP (NP (NN Information) (JJ theoretic) (NNS techniques)) (CC and) (NP (NNP Markov) (NNS chains))) (VP (VBP play) (NP (DT a) (JJ crucial) (NN role))) (. .))
-(S (NP (DT The) (NN convergence) (NNS results)) (VP (VBP are) (ADVP (RB also)) (VP (VBN formulated) (PP (IN via) (NP (NN rate) (NN distortion) (NNS functions))))) (. .))
-(S (NP (NP (DT The) (NN rate)) (PP (IN of) (NP (NN convergence)))) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ exponential))))))) (. .))

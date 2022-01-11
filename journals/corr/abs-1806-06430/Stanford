@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT the) (JJ classic) (NML (JJ linear) (NN regression)) (NN problem)))) (PP (IN to) (NP (NP (DT the) (NN case)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN loss)) (VP (VBZ is) (NP (DT an) (NNP Orlicz) (NN norm)))))))) (. .))

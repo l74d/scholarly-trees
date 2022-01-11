@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT the) (JJ robust) (JJ recoverable) (VBG spanning) (NN tree) (NN problem)) (PP (IN with) (NP (JJ interval) (NN edge) (NNS costs)))) (VP (VBZ is) (VP (VBN considered))) (. .))
-(S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (DT this) (NN problem)))) (VP (VBZ has) (VP (VBN remained) (ADJP (JJ open)) (PP (TO to) (NP (NN date))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (VBZ is) (ADJP (RB polynomially) (JJ solvable)) (, ,) (PP (IN by) (S (VP (VBG using) (NP (DT an) (JJ iterative) (NN relaxation) (NN method)))))))))) (. .))
-(S (NP (NP (DT A) (NN generalization)) (PP (IN of) (NP (DT this) (NN idea))) (PP (TO to) (NP (DT the) (JJ robust) (JJ recoverable) (JJ matroid) (NN basis) (NN problem)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN presented))) (. .))
-(S (NP (NP (JJ Polynomial) (NN algorithms)) (PP (IN for) (NP (DT both) (JJ robust) (NN recoverable) (NNS problems)))) (VP (VBP are) (VP (VBN proposed))) (. .))

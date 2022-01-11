@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NP (JJ intuitionistic) (JJ neutrosophic) (NN set)) (PP (IN of) (NP (NNP Bhowmik) (CC and) (NNP Pal))))))) (. .))
-(S (NP (PRP We)) (VP (VBP have) (VP (VP (VBN introduced) (NP (NP (DT this) (NN concept)) (PP (IN in) (NP (JJ soft) (NNS sets))))) (CC and) (VP (VBN defined) (NP (JJ intuitionistic) (JJ neutrosophic) (JJ soft) (NN set))))) (. .))
-(S (NP (DT Some) (NNS definitions) (CC and) (NNS operations)) (VP (VBP have) (VP (VBN been) (VP (VBN introduced) (PP (IN on) (NP (JJ intuitionistic) (JJ neutrosophic) (JJ soft) (NN set)))))) (. .))
-(S (NP (NP (DT Some) (NNS properties)) (PP (IN of) (NP (DT this) (NN concept)))) (VP (VBP have) (VP (VBN been) (VP (VBN established)))) (. .))

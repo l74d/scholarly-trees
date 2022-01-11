@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ brief) (NN review)) (PP (IN of) (NP (JJ current) (NN game) (NN usability) (NNS models))))) (. .))
-(S (NP (DT This)) (VP (VBZ leads) (PP (TO to) (NP (NP (DT the) (NN conception)) (PP (IN of) (NP (NP (DT a) (JJ high-level) (ADJP (NN game) (JJ development-centered)) (NN usability) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VBZ integrates) (NP (NP (JJ current) (NN usability) (NNS approaches)) (PP (IN in) (NP (NP (NN game) (NN industry)) (CC and) (NP (NN game) (NN research))))))))))))) (. .))

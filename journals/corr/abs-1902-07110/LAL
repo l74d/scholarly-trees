@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ novel) (NN repetition)) (NP (VBN normalized) (JJ adversarial) (NN reward))) (SBAR (S (VP (TO to) (VP (VB mitigate) (NP (DT these) (NNS problems))))))) (. .))
-(S (S (NP (PRP$ Our) (NN repetition) (VBN penalized) (NN reward)) (VP (MD can) (ADVP (RB greatly)) (VP (VB reduce) (NP (DT the) (NN repetition) (NN rate))))) (CC and) (S (NP (JJ adversarial) (NN training)) (VP (NNS mitigates) (S (VP (VBG generating) (NP (JJ incoherent) (NNS phrases)))))) (. .))

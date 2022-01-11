@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP discuss) (NP (JJ efficient) (NN conversion) (NNS algorithms)) (PP (IN for) (NP (JJ orthogonal) (NNS polynomials)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP describe) (NP (DT a) (VBN known) (NN conversion) (NN algorithm)) (PP (IN from) (NP (NP (DT an) (JJ arbitrary) (JJ orthogonal) (NN basis)) (PP (IN to) (NP (DT the) (JJ monomial) (NN basis)))))) (, ,) (CC and) (VP (VBP deduce) (NP (NP (DT a) (JJ new) (NN algorithm)) (PP (IN of) (NP (NP (DT the) (JJ same) (NN complexity)) (PP (IN for) (NP (DT the) (JJ converse) (NN operation)))))))) (. .))

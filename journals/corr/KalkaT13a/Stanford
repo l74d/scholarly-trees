@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP provide) (NP (NN implementation) (NNS details)) (PP (IN for) (NP (JJ non-associative) (JJ key) (NN establishment) (NNS protocols)))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (JJ non-associative) (JJ key) (NN establishment) (NNS protocols)))) (PP (IN for) (NP (NP (DT all) (JJ left) (NN self) (HYPH -) (NN distributive)) (CC and) (NP (DT all) (ADJP (RB mutually) (VBN left)) (JJ distributive) (NNS systems))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT an) (NN XML) (NN file) (NN format)) (PP (IN for) (S (VP (VBG storing) (NP (NP (NNS data)) (PP (IN from) (NP (NP (NNS computations)) (PP (IN in) (NP (NN algebra) (CC and) (NN geometry))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD present) (NP (NP (DT a) (JJ formal) (NN specification)) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ RELAX-NG) (NN schema)))))) (. .))

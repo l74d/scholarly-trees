@@ -1,4 +1,0 @@
-(NP (NP (DT A) (NN business) (NN case) (NN study)) (PP (IN on) (SBAR (SBAR (WHADVP (WRB how)) (NP (CD three) (JJ simple) (NNS guidelines))) (: :) (INTJ (CD 1)) (. .))))
-(S (VP (VP (VB Make) (S (NP (PRP it)) (ADJP (JJ easy) (S (VP (TO to) (VP (VB check) (PRN (-LRB- -LRB-) (CC and) (NN maintain) (-RRB- -RRB-)))))))) (NP (CD 2))) (. .))
-(S (VP (VB Make) (S (NP (NP (PRP it))) (ADJP (JJ safe)) (S (VP (TO to) (VP (VB use) (NP (CD 3))))))) (. .))
-(S (VP (NNP Keep) (NP (NN business) (VBD logic)) (PP (IN out) (PP (IN of) (NP (NP (NP (NN code) (VBN changed) (JJ user) (NNS attitudes)) (CC and) (NP (JJ improved) (NN spreadsheet) (NN quality))) (PP (IN in) (NP (DT a) (JJ financial) (NNS services) (NN organisation))))))) (. .))

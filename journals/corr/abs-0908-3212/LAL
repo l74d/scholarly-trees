@@ -1,6 +1,0 @@
-(S (NP (NP (DT Some) (NNS criticisms)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (VP (VBN raised) (PP (IN against) (NP (NP (DT the) (NNP Cox) (NN approach)) (PP (TO to) (NP (NN probability) (NN theory))))))))))) (VP (VBP are) (VP (VBN addressed))) (. .))
-(SQ (MD Should) (NP (PRP we)) (VP (VB use) (NP (DT a) (JJ single) (JJ real) (NN number)) (S (VP (TO to) (VP (VB measure) (NP (NP (DT a) (NN degree)) (PP (IN of) (NP (JJ rational) (NN belief)))))))) (. ?))
-(SQ (MD Can) (NP (VB beliefs)) (VP (VB be) (VP (VBN compared))) (. ?))
-(SQ (VBP Are) (NP (DT the) (NNP Cox) (NNS axioms)) (ADJP (JJ obvious)) (. ?))
-(SQ (NNP Are) (NP (EX there)) (NP (NP (NNS counterexamples)) (PP (TO to) (NP (VB Cox)))) (. ?))
-(S (PP (RB Rather) (IN than) (S (VP (VBG justifying) (NP (NP (NP (NNP Cox) (POS 's)) (NN choice)) (PP (IN of) (NP (NNS axioms))))))) (NP (PRP we)) (VP (VP (VBP follow) (NP (DT a) (JJ different) (NN path))) (CC and) (VP (VB derive) (NP (NP (DT the) (NN sum) (CC and) (NN product) (NNS rules)) (PP (IN of) (NP (NN probability) (NN theory)))) (PP (IN as) (NP (NP (DT the) (NN unique) (PRN (-LRB- -LRB-) (PP (IN up) (PP (TO to) (NP (NNS regraduations)))) (-RRB- -RRB-)) (JJ consistent) (NNS representations)) (PP (IN of) (NP (DT the) (NNP Boolean) (NNP AND) (CC and) (NNP OR) (NNS operations))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (DT A) (JJ trusted) (NN quantum) (NN relay)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB enable) (S (NP (JJ quantum) (JJ key) (NN distribution) (NNS links)) (VP (TO to) (VP (VB form) (NP (NP (DT the) (JJ basic) (NN legs)) (PP (IN in) (NP (DT a) (NN quantum) (JJ key) (NN distribution) (NN network)))))))))))) (. .))
-(S (NP (DT The) (NN idea)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ well-known) (NN intercept/resend) (NN eavesdropping))))) (. .))
-(S (NP (DT The) (JJ same) (NN scheme)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (NP (NN quantum) (JJ key) (NN distribution)) (PP (IN between) (NP (JJ several) (NNS parties)))))))))) (. .))
-(S (NP (DT No) (NN entanglement)) (VP (VBZ is) (VP (VBN required))) (. .))

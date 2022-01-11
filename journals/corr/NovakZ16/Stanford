@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP write) (NP (DT a) (JJ linear) (NN algorithm)) (PP (IN for) (S (VP (VBG calculating) (NP (NP (DT the) (JJ weighted) (NN domination) (NN number)) (PP (IN of) (NP (ADJP (NP (DT a) (NN vertex)) (HYPH -) (VBN weighted)) (NN cactus)))))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (NML (NML (ADJP (RB well) (VBN known)) (NN depth) (JJ first) (NN search)) (-LRB- -LRB-) (NML (NN DFS))) (-RRB- -RRB-) (NN structure))))) (. .))

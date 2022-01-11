@@ -1,3 +1,0 @@
-(S (NP (NN Rank) (NNS invariants)) (VP (VBP are) (NP (NP (DT a) (JJ parametrized) (NN version)) (PP (IN of) (NP (NP (NNP Betti) (NNS numbers)) (PP (IN of) (NP (NP (DT a) (NN space)) (VP (JJ multi-filtered) (PP (IN by) (NP (DT a) (JJ continuous) (JJ vector-valued) (NN function)))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ sufficient) (NN condition)) (PP (IN for) (NP (PRP$ their) (NN finiteness))))) (. .))
-(S (NP (DT This) (NN condition)) (VP (VBZ is) (ADJP (JJ sharp)) (PP (IN for) (NP (NP (NNS spaces)) (ADJP (JJ embeddable) (PP (IN in) (NP (NNP R^n))))))) (. .))

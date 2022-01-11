@@ -1,2 +1,0 @@
-(S (NP (ADJP (JJ Necessary) (CC and) (JJ sufficient)) (NNS conditions)) (VP (VBP are) (VP (VBN given) (PP (IN for) (NP (DT these) (NNS transformations))) (S (VP (TO to) (VP (VB ensure) (NP (NN channel) (NN polarization))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (JJ such) (NNS transformations)))) (VP (VBP polarize) (NP (JJ symmetric) (JJ binary-input) (NN memoryless) (NNS channels))))))) (. .))

@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT the) (VBN bounded) (NN delay) (NN buffer))) (NP (NN management) (NN problem) (NN unit) (NN size) (NNS packets)) (VP (VBP arrive) (ADVP (RB online)) (S (VP (TO to) (VP (VB be) (VP (VBN sent) (PP (IN over) (NP (DT a) (NN network) (NN link)))))))) (. .))
-(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB maximize) (NP (NP (DT the) (JJ total) (NN weight)) (PP (IN of) (NP (NP (NNS packets)) (VP (VBN sent) (PP (IN before) (NP (PRP$ their) (NN deadline))))))))))) (. .))

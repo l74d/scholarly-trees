@@ -1,3 +1,0 @@
-(S (NP (DT Every) (JJ real) (JJ algebraic) (NN variety)) (VP (VBZ determines) (NP (NP (DT a) (NNP Voronoi) (NN decomposition)) (PP (IN of) (NP (PRP$ its) (JJ ambient) (NNP Euclidean) (NN space))))) (. .))
-(S (NP (DT Each) (NML (NN Voronoi) (NN cell))) (VP (VBZ is) (NP (NP (DT a) (NN convex) (JJ semialgebraic) (NN set)) (PP (IN in) (NP (NP (DT the) (JJ normal) (NN space)) (PP (IN of) (NP (NP (DT the) (NN variety)) (PP (IN at) (NP (DT a) (NN point))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP compute) (NP (NP (DT the) (JJ algebraic) (NNS boundaries)) (PP (IN of) (NP (DT these) (JJ Voronoi) (NNS cells))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (JJ Information-theoretic) (NNS metrics)) (SBAR (S (VP (TO to) (VP (VB analyze) (NP (JJ optical) (NN fiber) (NNS communications) (NNS systems)) (PP (IN with) (NP (JJ binary) (CC and) (JJ nonbinary) (NN soft-decision) (NNP FEC)))))))) (VP (VBP are) (VP (VBN reviewed))) (. .))
-(S (NP (NP (DT The) (JJ numerical) (NN evaluation)) (PP (IN of) (NP (DT these) (NNS metrics))) (PP (IN in) (NP (DT both) (NNS simulations) (CC and) (NNS experiments)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))
-(S (NP (JJ Ready-to-use) (JJ closed-form) (NNS approximations)) (VP (VBP are) (VP (VBN presented))) (. .))

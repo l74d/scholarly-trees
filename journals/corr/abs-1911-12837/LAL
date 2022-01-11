@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (JJ geometrical) (NN account)) (PP (IN of) (NP (DT the) (NNP I/O) (NN logic))) (VP (VBD put) (PRT (RB forth)) (PP (IN by) (NP (NP (NNP Makinson)) (CC and) (NP (JJ van) (NN der) (NNP Torre))))))) (. .))
-(S (NP (DT A) (NN soundness) (CC and) (NN completeness) (NNS results)) (VP (VBD was) (VP (VBN reported) (PP (PP (IN for) (NP (NP (DT the) (JJS simplest) (NN I/O) (NN operation)) (VP (VBN called) (S (ADJP (JJ simple-minded)))))) (, ,) (CC and) (PP (IN in) (NP (NP (DT the) (NN finite) (NN case)) (ADVP (RB only))))))) (. .))
-(S (PP (IN On) (NP (DT this) (NN account))) (NP (DT a) (NN generator)) (VP (VBZ acts) (PP (IN as) (NP (NP (DT a) (`` ``) (NN jump) ('' '')) (PP (IN within) (NP (DT a) (NN lattice)))))) (. .))

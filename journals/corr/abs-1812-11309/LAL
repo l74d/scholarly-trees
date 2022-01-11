@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (NN leader) (NN election) (NN problem)) (PP (IN in) (NP (DT the) (NN population) (NN protocol) (NN model)))) (VP (VBZ is) (VP (VBN considered))) (. .))
-(S (NP (NP (DT A) (NN leader) (NN election) (NN protocol)) (PP (IN with) (NP (JJ logarithmic) (NN stabilization) (NN time)))) (VP (VBZ is) (VP (VBN given))) (. .))
-(S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NNS states))) (PP (IN per) (NP (NP (NN agent)) (PP (IN of) (NP (DT the) (NN protocol)))))) (VP (VBZ is) (NP (NP (NNP O)) (PRN (-LRB- -LRB-) (NP (JJ log) (NN n)) (-RRB- -RRB-)))) (. .))

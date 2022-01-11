@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ novel) (NN approach)) (SBAR (S (VP (TO to) (VP (VB tackle) (NP (NP (DT the) (VBG existing) (NN gap)) (PP (IN on) (NP (NN message) (NNS translations))) (PP (IN in) (NP (NN dialogue) (NNS systems)))))))))) (. .))
-(S (ADVP (RB Currently)) (, ,) (NP (NP (VBD submitted) (NNS messages)) (PP (TO to) (NP (DT the) (NN dialogue) (NNS systems)))) (VP (VBP are) (VP (VBN considered) (PP (IN as) (NP (JJ isolated) (NNS sentences))))) (. .))
-(S (ADVP (RB Thus)) (, ,) (NP (VBG missing) (NN context) (NN information)) (VP (VBP impede) (NP (NP (DT the) (NN disambiguation)) (PP (IN of) (NP (NP (NN homographs) (NNS words)) (PP (IN in) (NP (JJ ambiguous) (NNS sentences))))))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (VBZ solves) (NP (DT this) (NN disambiguation) (NN problem)) (PP (IN by) (S (VP (VBG using) (NP (NNS concepts)) (PP (IN over) (NP (VBG existing) (NNS ontologies))))))) (. .))

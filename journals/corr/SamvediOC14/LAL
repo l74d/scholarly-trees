@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT an) (JJ improved) (NN secure) (NN address) (NN resolution) (NN protocol)) (VP (VBZ is) (VP (VBN presented) (SBAR (WHADVP (WRB where)) (S (NP (NNP ARP) (VBG spoofing) (NN attack)) (VP (VBZ is) (VP (VBN prevented))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN methodology)) (VP (VBZ is) (NP (NP (DT a) (JJ centralised) (NN methodology)) (PP (IN for) (S (VP (VBG preventing) (NP (NNP ARP) (VBG spoofing) (NN attack))))))) (. .))
-(S (PP (IN In) (NP (DT the) (VBN proposed) (NN model))) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ central) (NN server)) (PP (IN on) (NP (DT a) (NN network) (CC or) (NN subnet))) (SBAR (WHNP (WDT which)) (S (VP (VBZ prevents) (NP (NNP ARP) (VBG spoofing) (NN attack))))))) (. .))

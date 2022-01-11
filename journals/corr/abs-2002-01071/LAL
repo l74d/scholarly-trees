@@ -1,8 +1,0 @@
-(S (NP (NNS Concepts)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB solve) (NP (DT the) (NN term-mismatch) (NN problem))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VBP need) (NP (NP (DT an) (JJ effective) (NN similarity) (NN measure)) (PP (IN between) (NP (NNS concepts))))) (. .))
-(S (NP (NNP Word) (VBG embedding)) (VP (NNS presents) (NP (DT a) (JJ promising) (NN solution))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (PP (IN in) (NP (DT this) (NN study))) (NP (NP (CD three) (NNS approaches)) (SBAR (S (VP (TO to) (VP (VB build) (NP (NNS concepts) (NNS vectors)))))) (PP (VBN based) (PP (IN on) (NP (NNS words) (NNS vectors)))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (JJ vector-based) (NN measure)) (S (VP (TO to) (VP (VB estimate) (NP (JJ inter-concepts) (NN similarity)))))) (. .))
-(S (NP (PRP$ Our) (NNS experiments)) (VP (VBP show) (NP (JJ promising) (NNS results))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (NNS words) (CC and) (NNS concepts)) (VP (VBP become) (ADJP (JJ comparable))) (. .))
-(S (NP (DT This)) (VP (MD could) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB improve) (NP (JJ conceptual) (NN indexing) (NN process)))))))) (. .))

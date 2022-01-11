@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (JJ alternative) (NN proofs)) (PP (IN for) (NP (DT these) (NNS theorems)))) (PP (IN by) (S (VP (VBG using) (NP (NP (NNS models)) (PP (IN of) (NP (NP (NNP Saul) (NNP Kripke)) (PRN (-LRB- -LRB-) (NP (CD 1959)) (-RRB- -RRB-))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT some) (NNS results)) (PP (IN on) (NP (NP (DT the) (NN inter-definablility)) (PP (IN of) (NP (NP (JJ propositional) (NNS connectives)) (PP (IN in) (NP (DT this) (NN logic))))))))) (. .))

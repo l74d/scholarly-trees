@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ claims) (S (VP (TO to) (VP (VB present) (NP (NP (DT a) (JJ polynomial-time) (NN solution)) (PP (IN for) (NP (DT the) (JJ NP-complete) (NN language) (CD 3-SAT)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNP Guinea) (POS 's)) (NN algorithm)) (VP (VBZ is) (ADJP (VBN flawed)))))) (CC and) (VP (VBZ does) (RB not) (VP (VB prove) (SBAR (S (NP (JJ 3-SAT)) (VP (VBZ is) (PP (IN in) (NP (NNP P))))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ cost-optimal) (NN antenna) (FW vs.) (NN spectrum) (NN resource) (NN allocation) (NN strategy)) (PP (IN for) (NP (NP (JJ mobile) (CD 5G) (JJ MD-MIMO)) (PP (IN over) (NP (NNP Next-Generation) (NNP PONs)))))) (. .))
-(S (S (VP (VBG Comparing) (NP (NP (NN wavelength) (NN overlay)) (CC and) (NP (VBD shared) (NN wavelength) (NNS approaches))))) (, ,) (NP (JJ split-PHY)) (VP (NNS leads) (PP (TO to) (NP (NP (NNS solutions)) (PP (IN with) (NP (NP (JJR higher) (NN mobile) (NN capacity)) (PP (IN than) (NP (NN fronthaul)))))))) (. .))

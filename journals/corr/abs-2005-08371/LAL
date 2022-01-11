@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (JJ first) (JJ energy-dissipative) (NN level-set) (NN method)) (PP (IN for) (NP (NP (DT the) (JJ incompressible) (JJ Navier-Stokes) (NNS equations)) (PP (IN with) (NP (NN surface) (NN tension))))))) (. .))
-(S (NP (DT The) (NN methodology)) (VP (NNS relies) (PP (IN on) (NP (NP (DT the) (ADJP (RB recently) (VBN proposed)) (NN concept)) (PP (IN of) (NP (JJ functional) (NN entropy) (NNS variables)))))) (. .))
-(S (NP (NP (NN Discretization)) (PP (IN in) (NP (NN space)))) (VP (VBZ is) (VP (VBN performed) (PP (IN with) (NP (JJ isogeometric) (NN analysis))))) (. .))
-(S (NP (NN Temporal-integration)) (VP (VBZ is) (VP (VBN performed) (PP (IN with) (NP (DT a) (JJ new) (JJ perturbed) (NN midpoint) (NN scheme))))) (. .))
-(S (NP (DT The) (JJ fully-discrete) (NN scheme)) (VP (VBZ is) (ADJP (RB unconditionally) (JJ energy-dissipative)) (, ,) (ADJP (VB pointwise) (JJ divergence-free)) (CC and) (VP (VBZ satisfies) (NP (NP (DT the) (JJ maximum) (NN principle)) (PP (IN for) (NP (DT the) (NN density)))))) (. .))
-(S (NP (NP (JJ Numerical) (NNS examples)) (PP (IN in) (NP (CD two) (CC and) (CD three) (NNS dimensions)))) (VP (VBP verify) (NP (NP (DT the) (NN energetic-stability)) (PP (IN of) (NP (DT the) (NN methodology))))) (. .))

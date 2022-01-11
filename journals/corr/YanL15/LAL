@@ -1,3 +1,0 @@
-(S (NP (DT A) (NN codeword)) (VP (VBZ is) (VP (VBN associated) (PP (TO to) (NP (DT a) (VBN linearized) (NN polynomial))))) (. .))
-(S (NP (NP (DT The) (JJ weight) (NN distribution)) (PP (IN of) (NP (DT the) (NNS codewords)))) (VP (VBZ is) (VP (VBN determined) (SBAR (IN as) (S (NP (DT the) (JJ linearized) (JJ polynomial)) (VP (NNS varies) (PP (IN in) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ fixed) (NN degree)))))))))) (. .))
-(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (JJ corresponding) (NN result)) (PP (IN on) (NP (NNP Wenger) (NN graphs))) (PP (IN from) (NP (VBN linearized) (NNS polynomials))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT The) (NNP Voynich) (NNP Manuscript)) (VP (VBZ is) (NP (NP (DT a) (JJ medieval) (NN book)) (VP (VBN written) (PP (IN in) (NP (DT an) (JJ unknown) (NN script)))))) (. .))
-(FRAG (NP (DT This) (NN paper) (NNS studies)) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (NP (ADJP (RB similarly) (VBN spelled)) (NNS words)) (PP (IN in) (NP (DT the) (NNP Voynich) (NNP Manuscript)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (NP (NNS words)) (PP (IN within) (NP (DT the) (NN manuscript)))))) (VP (VBZ is) (RB not) (ADJP (JJ compatible) (PP (IN with) (NP (JJ natural) (NNS languages)))))))) (. .))

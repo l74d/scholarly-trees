@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (JJ libconform) (NN v0.1.0)) (, ,) (NP (NP (DT a) (NNP Python) (NN library)) (PP (IN for) (NP (DT the) (JJ conformal) (NN prediction) (NN framework))) (, ,) (VP (VBN licensed) (PP (IN under) (NP (DT the) (NNP MIT-license))))))) (. .))
-(S (NP (NN libconform)) (VP (VBZ is) (RB not) (ADVP (RB yet)) (ADJP (JJ stable))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VP (VBZ describes) (NP (NP (DT the) (JJ main) (NN algorithms)) (VP (VBN implemented)))) (CC and) (VP (NNS documents) (NP (NP (DT the) (NNP API)) (PP (IN of) (NP (NN libconform)))))) (. .))
-(S (ADVP (RB Also)) (NP (NP (DT some) (NNS details)) (PP (IN about) (NP (NP (DT the) (NN implementation)) (CC and) (NP (NP (NNS changes)) (PP (IN in) (NP (JJ future) (NNS versions))))))) (VP (VBP are) (VP (VBN described))) (. .))

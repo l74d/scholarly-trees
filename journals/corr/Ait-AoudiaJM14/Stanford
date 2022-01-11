@@ -1,6 +1,0 @@
-(S (NP (NP (JJ Geometric) (NN modeling)) (PP (IN by) (NP (NNS constraints)))) (VP (VBZ leads) (PP (IN to) (NP (NP (JJ large) (NNS systems)) (PP (IN of) (NP (JJ algebraic) (NNS equations)))))) (. .))
-(FRAG (NP (NP (DT This) (NN paper) (NNS studies)) (NP (JJ bipartite) (NNS graphs))) (ADJP (JJ underlaid) (PP (IN by) (NP (NP (NNS systems)) (PP (IN of) (NP (NNS equations)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (DT these) (NNS graphs)) (VP (VBP make) (ADJP (ADJP (JJ possible) (S (VP (TO to) (ADVP (RB polynomially)) (VP (VB decompose) (NP (DT these) (NNS systems)) (PP (IN into) (NP (ADJP (RB well) (VBN constrained)))))))) (, ,) (NP (NP (IN over)) (HYPH -) (, ,) (CC and) (NP (JJ underconstrained) (NNS subsystems)))))))) (. .))
-(S (NP (DT This) (NN paper)) (ADVP (RB also)) (VP (VBZ gives) (NP (DT an) (JJ efficient) (NN method)) (S (VP (TO to) (VP (VB decompose) (NP (ADJP (RB well) (VBN constrained)) (NNS systems)) (PP (IN into) (NP (JJ irreducible) (NNS ones))))))) (. .))
-(S (NP (DT These) (NNS decompositions)) (ADVP (RB greatly)) (VP (VBP speed) (PRT (RP up)) (NP (NP (DT the) (NN resolution)) (PP (IN in) (NP (NN case)))) (PP (IN of) (NP (JJ reducible) (NNS systems)))) (. .))
-(S (NP (PRP They)) (ADVP (RB also)) (VP (VBP allow) (NP (NP (NN debugging) (NNS systems)) (PP (IN of) (NP (NNS constraints))))) (. .))

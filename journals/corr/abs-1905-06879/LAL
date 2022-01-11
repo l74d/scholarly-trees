@@ -1,2 +1,0 @@
-(S (NP (JJ Parallel-in-time) (NNS methods)) (VP (VBP have) (VP (VBN shown) (NP (NP (NN success)) (PP (IN for) (S (VP (VBG reducing) (NP (NP (DT the) (NN simulation) (NN time)) (PP (IN of) (NP (JJ many) (JJ time-dependent) (NNS problems)))))))))) (. .))
-(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP consider) (S (VP (VBG applying) (NP (DT the) (NN multigrid-reduction-in-time) (PRN (-LRB- -LRB-) (NNP MGRIT) (-RRB- -RRB-)) (NN algorithm)) (PP (TO to) (NP (DT a) (JJ voltage-driven) (JJ eddy) (JJ current) (NN model) (NN problem)))))) (. .))

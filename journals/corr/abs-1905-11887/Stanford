@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (ADJP (JJ formal) (CC and) (JJ complete)) (NN characterization)) (PP (IN of) (NP (NP (DT the) (JJ explicit) (NN regularizer)) (VP (VBN induced) (PP (IN by) (NP (NN dropout))) (PP (IN in) (NP (NP (JJ deep) (JJ linear) (NNS networks)) (PP (IN with) (NP (ADJP (JJ squared)) (NN loss)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP validate) (NP (PRP$ our) (JJ theoretical) (NNS findings)) (PP (IN with) (NP (JJ empirical) (NNS results)))) (. .))

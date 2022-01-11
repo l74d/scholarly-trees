@@ -1,2 +1,0 @@
-(S (NP (NNP Linear) (NNS permutations)) (VP (VBP are) (NP (NP (DT those)) (SBAR (WHNP (WDT that)) (S (VP (VBP map) (NP (NP (RB linearly) (DT the) (JJ binary) (NN representation)) (PP (IN of) (NP (PRP$ its) (NN element) (NNS indices))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (DT a) (NN method)) (S (VP (TO to) (VP (VB enumerate) (NP (DT these) (NNS algorithms)))))) (. .))

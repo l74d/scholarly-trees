@@ -1,2 +1,0 @@
-(S (ADVP (RB Further)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ unweighted) (NN case)) (ADVP (RB even)) (VP (VBZ admits) (NP (DT a) (JJ randomized) (JJ polynomial) (NN kernel)))))) (. .))
-(S (NP (DT All) (PRP$ our) (NNS results)) (VP (VB provide) (NP (NP (RB further) (VBG interesting) (NNS data) (NNS points)) (PP (IN for) (NP (NP (DT the) (JJ systematic) (NN study)) (PP (IN of) (NP (NP (NN connectivity-preservation) (NNS constraints)) (PP (IN in) (NP (DT the) (JJ parameterized) (NN setting))))))))) (. .))

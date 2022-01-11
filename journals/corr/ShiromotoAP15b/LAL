@@ -1,8 +1,0 @@
-(S (PP (IN For) (NP (DT an) (NNP ISS) (NN system))) (, ,) (PP (IN by) (S (VP (VBG analyzing) (NP (ADJP (JJ local) (CC and) (JJ non-local)) (NNS properties))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN obtained) (NP (JJ different) (JJ input-to-state) (NNS gains)))) (. .))
-(S (NP (NP (DT The) (NN interconnection)) (PP (IN of) (NP (NP (DT a) (NN system)) (VP (VBG having) (NP (CD two) (JJ input-to-state) (NNS gains))))) (PP (IN with) (NP (NP (DT a) (NN system)) (VP (VBG having) (NP (DT a) (JJ single) (NNP ISS) (NN gain)))))) (VP (VBZ is) (VP (VBN analyzed))) (. .))
-(PP (IN By) (S (VP (VBG employing) (NP (DT the) (NNP Small) (NNP Gain) (NNP Theorem)) (PP (IN for) (NP (NP (DT the) (JJ local)) (PRN (-LRB- -LRB-) (NN resp) (. .)))))))
-(S (S (LST (JJ non-local) (-RRB- -RRB-)) (VP (NNS gains) (NP (NN composition)))) (, ,) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN concluded) (PP (IN about) (NP (NP (DT the) (JJ local)) (PRN (-LRB- -LRB-) (NN resp) (. .))))))))
-(NP (NP (JJ global) (-RRB- -RRB-) (NN stability)) (PP (IN of) (NP (DT the) (NN origin))) (PRN (-LRB- -LRB-) (NN resp) (. .)))
-(PP (PP (IN of) (NP (DT a) (JJ compact) (NN set))) (-RRB- -RRB-) (. .))
-(S (ADVP (RB Additionally)) (, ,) (SBAR (IN if) (S (NP (NP (DT the) (NN region)) (PP (IN of) (NP (NP (JJ local) (NN stability)) (PP (IN of) (NP (DT the) (NN origin)))))) (VP (ADVP (RB strictly)) (VBZ includes) (NP (NP (DT the) (NN region) (NN attraction)) (PP (IN of) (NP (DT the) (JJ compact) (NN set))))))) (, ,) (ADVP (RB then)) (NP (PRP it)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (NN origin)) (VP (VBZ is) (ADJP (RB globally) (RB asymptotically) (JJ stable))))))) (. .))
-(S (NP (DT An) (NN example)) (VP (VBZ illustrates) (NP (DT the) (NN approach))) (. .))

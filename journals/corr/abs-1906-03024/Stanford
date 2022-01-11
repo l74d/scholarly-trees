@@ -1,8 +1,0 @@
-(S (NP (NP (NN Evacuation)) (PP (IN of) (NP (NP (NNS robots)) (PP (IN from) (NP (DT a) (NN disk)))))) (VP (VBZ has) (VP (VBN attained) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN attention)))) (ADVP (RB recently)))) (. .))
-(S (NP (PRP We)) (VP (VBP visit) (NP (DT the) (NN problem)) (PP (IN from) (NP (NP (DT the) (NN perspective)) (PP (IN of) (NP (NN fault) (HYPH -) (NN tolerance)))))) (. .))
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (CD two) (NNS robots)) (VP (VBG trying) (S (VP (TO to) (VP (VB evacuate) (PP (IN from) (NP (NP (DT a) (NN disk)) (PP (IN via) (NP (NP (DT a) (JJ single) (JJ hidden) (NN exit)) (PP (IN on) (NP (NP (DT the) (NN perimeter)) (PP (IN of) (NP (DT the) (NN disk))))))))))))))) (. .))
-(S (NP (DT The) (NNS robots)) (VP (VBP communicate) (ADVP (RB wirelessly))) (. .))
-(S (NP (DT The) (NNS robots)) (VP (VBP are) (ADJP (JJ susceptible) (PP (IN to) (NP (NP (NN crash) (NNS faults)) (SBAR (WHPP (IN after) (WHNP (WDT which))) (S (NP (PRP they)) (VP (VBP stop) (S (VP (VBG moving) (CC and) (VBG communicating)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP design) (NP (DT the) (NNS algorithms)) (PP (IN for) (S (VP (VBG tolerating) (NP (CD one) (NN fault)))))) (. .))
-(S (NP (DT The) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB minimize) (NP (NP (NP (DT the) (NML (JJS worst) (HYPH -) (NN case)) (NN time)) (VP (VBN required) (S (VP (TO to) (VP (VB evacuate)))))) (CC both) (NP (NP (DT the) (NNS robots)) (PP (IN from) (NP (DT the) (NN disk))))))))) (. .))
-(S (PP (IN With) (NP (DT this))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT a) (JJR lower)) (VP (VBN bound) (PP (IN for) (NP (DT the) (NN evacuation) (NN time)))))) (. .))

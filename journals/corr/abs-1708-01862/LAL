@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (PP (IN by) (S (VP (VBG using) (NP (NNP Logistic) (, ,) (NNP Sine) (CC and) (NNP Tent) (NNS systems))))) (NP (PRP we)) (VP (VBP define) (NP (DT a) (NN combination) (JJ chaotic) (NN system))) (. .))
-(S (NP (NP (DT Some) (NNS properties)) (PP (IN of) (NP (DT the) (JJ chaotic) (NN system)))) (VP (VBP are) (VP (VBN studied) (PP (IN by) (S (VP (VBG using) (NP (NP (NNS figures)) (CC and) (NP (JJ numerical) (NNS results)))))))) (. .))
-(S (NP (DT A) (NN color) (NN image) (NN encryption) (NN algorithm)) (VP (VBZ is) (VP (VBN introduced) (S (VP (VBN based) (PP (IN on) (NP (JJ new) (JJ chaotic) (NN system))))))) (. .))
-(S (ADVP (RB Also)) (NP (DT this) (NN encryption) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (UCP (ADJP (JJ gray) (NN scale)) (CC or) (ADJP (JJ binary))) (NNS images)))))) (. .))
-(S (NP (NP (DT The) (JJ experimental) (NNS results)) (PP (IN of) (NP (DT the) (NN encryption) (NN algorithm)))) (VP (NN show) (SBAR (IN that) (S (NP (DT the) (NN encryption) (NN algorithm)) (VP (VBZ is) (ADJP (JJ secure) (CC and) (JJ practical)))))) (. .))

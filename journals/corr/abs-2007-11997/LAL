@@ -1,5 +1,0 @@
-(S (VP (VB Let) (S (NP ($ $) (NNP G=) (PRN (-LRB- -LRB-) (NNP V) (, ,) (NNP E) (-RRB- -RRB-)) ($ $)) (VP (VB be) (NP (DT an) (JJ undirected) (NN graph))))) (. .))
-(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NNP TDS) (NN problem)) (PP (IN in) (NP (NP (NN unit) (NN disk) (NN graphs)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN objective)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (JJ minimum) (NN cardinality) (JJ total) (NN dominating) (NN set)) (PP (IN for) (NP (DT an) (NN input) (NN graph)))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NNP TDS) (NN problem)) (VP (VBZ is) (ADJP (NNP NP-hard))))) (PP (IN in) (NP (NN unit) (NN disk) (NN graphs)))) (. .))
-(S (ADVP (JJ Next)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (JJ 8-factor) (NN approximation) (NN algorithm)) (PP (IN for) (NP (DT the) (NN problem))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP TDS) (NN problem)) (VP (VBZ admits) (NP (DT a) (NNP PTAS)) (PP (IN in) (NP (NN unit) (NN disk) (NN graphs))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NN Duality)) (VP (VBZ is) (NP (NP (DT a) (JJ central) (NN concept)) (PP (IN in) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (NN session) (NNS types))))))) (. .))
-(S (SBAR (IN Since) (S (NP (DT a) (NN flaw)) (VP (VBD was) (VP (VBN found) (PP (IN in) (NP (NP (DT the) (JJ original) (NN definition)) (PP (IN of) (NP (NN duality))))) (PP (IN for) (NP (JJ recursive) (NNS types))))))) (, ,) (NP (JJ several) (JJ other) (NNS definitions)) (VP (VBP have) (VP (VBN been) (VP (VBN published)))) (. .))
-(S (SBAR (IN As) (S (NP (PRP$ their) (NN connection)) (VP (VBZ is) (RB not) (ADJP (JJ obvious))))) (, ,) (NP (PRP we)) (VP (VP (VBP compare) (NP (DT the) (VBG competing) (NNS definitions))) (, ,) (VP (VBP discuss) (NP (NNS tradeoffs))) (, ,) (CC and) (VP (VB prove) (NP (DT some) (NNS equivalences)))) (. .))
-(S (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (NNS results)))) (VP (VBP are) (NP (NP (JJ mechanized)) (PP (IN in) (NP (NNP Agda))))) (. .))

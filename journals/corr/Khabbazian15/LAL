@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP derive) (NP (NP (DT a) (JJ simple) (JJR lower) (NN bound)) (PP (IN for) (NP (NP (DT the) (NN multi-version) (NN coding) (NN problem)) (VP (VBN formulated) (PP (IN in) (NP (JJ -LSB-) (CD 1) (NN -RSB-)))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP propose) (NP (NP (JJ simple) (NN algorithms)) (SBAR (WHNP (IN that)) (S (ADVP (RB almost)) (VP (VB match) (NP (NP (DT the) (JJR lower) (NN bound)) (VP (VBD derived)))))))) (. .))
-(S (NP (DT Another) (JJR lower) (NN bound)) (VP (VBZ is) (VP (VBN proven) (PP (IN for) (NP (NP (DT an) (JJ extended) (NN version)) (PP (IN of) (NP (NP (DT the) (NN multi-version) (NN coding) (NN problem)) (VP (VBN introduced) (PP (IN in) (NP (JJ -LSB-) (CD 2) (NN -RSB-)))))))))) (. .))

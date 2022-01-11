@@ -1,3 +1,0 @@
-(S (NP (NML (NN Organ) (NN image)) (NN segmentation)) (VP (MD can) (VP (VB be) (VP (VBN improved) (PP (IN by) (S (VP (VBG implementing) (NP (JJ prior) (NN knowledge)) (PP (IN about) (NP (DT the) (NN anatomy))))))))) (. .))
-(S (NP (NP (CD One) (NN way)) (PP (IN of) (S (VP (VBG doing) (NP (DT this)))))) (VP (VBZ is) (PP (IN by) (S (VP (VBG training) (NP (DT an) (NN autoencoder)) (S (VP (TO to) (VP (VB learn) (NP (NP (DT a) (NN lowdimensional) (NN representation)) (PP (IN of) (NP (DT the) (NN segmentation))))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT this)) (VP (VBZ is) (VP (VBN applied) (PP (IN in) (NP (JJ multi-label) (NN prostate) (NN MR) (NN segmentation))) (, ,) (PP (IN with) (NP (DT some) (JJ positive) (NNS results))))) (. .))

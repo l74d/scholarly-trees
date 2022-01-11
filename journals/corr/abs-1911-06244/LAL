@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP introduce) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NN graphs))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NN zero-divisor) (NN graphs))))))))) (CC and) (VP (VB compute) (NP (NP (DT an) (JJ upper-bound)) (PP (IN for) (NP (NP (DT the) (NN diameter)) (PP (IN of) (NP (JJ such) (NNS graphs)))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP investigate) (NP (PRP$ their) (NNS cycles) (CC and) (NNS cores))) (. .))

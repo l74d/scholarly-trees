@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (JJ short) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG monitoring) (NP (JJ physical) (NN activity)) (PP (IN in) (NP (DT the) (JJ smart) (NN house)))))))) (. .))
-(S (NP (DT The) (NNS authors)) (VP (VBD suggested) (NP (NP (DT a) (JJ simple) (NN device)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (NP (JJ medical) (NN staff) (CC and) (NNS relatives)) (S (VP (TO to) (VP (VB monitor) (NP (DT the) (NN activity)) (PP (IN for) (NP (NP (JJR older) (NNS adults)) (VP (VBG living) (ADVP (RB alone))))))))))))) (. .))
-(S (NP (DT This) (NN sensor)) (VP (VBZ monitors) (NP (NP (DT the) (NN switching)) (HYPH -) (PP (IN on) (IN of) (NP (JJ electrical) (NNS devices))))) (. .))
-(S (NP (NP (DT The) (NN fact)) (PP (IN of) (NP (NN switching)))) (VP (VBZ is) (VP (VBN seen) (PP (IN as) (NP (NP (NN confirmation)) (PP (IN of) (NP (JJ physical) (NN activity))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN confirmed) (PP (IN by) (NP (NN SMS) (NNS notifications))) (PP (IN to) (NP (NNS observers))))) (. .))

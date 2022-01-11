@@ -1,4 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ describes) (NP (NP (DT a) (JJ new) (NN data) (NN structure)) (VP (VBN called) (S (NP (NN neuro-index)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (JJ alternative)) (PP (TO to) (NP (JJ well-known) (NN file) (NNS indexes))))) (. .))
-(S (NP (DT The) (NN neuro-index)) (VP (VBZ is) (ADJP (RB fundamentally) (JJ different)) (SBAR (IN because) (S (NP (PRP it)) (VP (NNS stores) (NP (VBD weight) (NNS coefficients)) (PP (IN in) (NP (JJ neural) (NN network))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (RB not) (NP (NP (DT a) (NN reference) (NN type)) (PP (IN like) (`` ``) (NP (NP (NN keyword-position)) (PP (IN in) (NP (DT a) (NN file)))) ('' '')))) (. .))

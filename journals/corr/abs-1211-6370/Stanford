@@ -1,7 +1,0 @@
-(S (NP (NN Web) (NNS processes)) (VP (VBP are) (VP (VBN made) (ADVP (IN up) (PP (IN of) (NP (NNS services)))) (PP (IN as) (NP (NP (PRP$ their) (NNS units)) (PP (IN of) (NP (NN functionality))))))) (. .))
-(S (NP (DT The) (NNS services)) (VP (VP (VBP are) (VP (VBN represented) (PP (IN as) (NP (DT a) (NN graph))))) (CC and) (VP (VB compose) (NP (NP (DT a) (NN synergy)) (PP (IN of) (NP (NN service)))))) (. .))
-(S (NP (DT The) (JJ composite) (NN service)) (VP (VBZ is) (ADJP (JJ prone) (PP (IN to) (NP (NN failure)))) (PP (IN due) (PP (IN to) (NP (JJ various) (NNS causes))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (DT the) (NN end) (HYPH -) (NN user)) (VP (MD should) (VP (VB receive) (NP (DT a) (ADJP (JJ smooth) (CC and) (JJ non-interrupted)) (NN execution)))) (. .))
-(S (NP (NP (JJ Atomic) (NN replacement)) (PP (IN of) (NP (NP (DT a) (VBN failed) (NN Web) (NN service)) (SBAR (S (VP (TO to) (VP (VB recover) (NP (DT the) (NN system))))))))) (VP (VBZ is) (NP (DT a) (JJ straightforward) (NN approach))) (. .))
-(S (ADVP (RB Nevertheless)) (, ,) (S (VP (VBG finding) (NP (DT a) (JJ similar) (NN service)))) (VP (VBZ is) (RB not) (ADJP (JJ reliable))) (. .))
-(S (PP (IN In) (NP (NN order) (S (VP (TO to) (VP (VB increase) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NP (DT the) (NN recovery)) (PP (IN of) (NP (DT a) (VBN failed) (JJ composite) (NN service))))))))))) (, ,) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS services)))) (VP (VBZ is) (VP (VBN replaced) (PP (IN with) (NP (DT another) (JJ similar) (NN set))))) (. .))

@@ -1,3 +1,0 @@
-(S (S (NP (NP (NN Rank)) (PP (IN of) (NP (NP (NN divisor)) (PP (IN on) (NP (NN graph)))))) (VP (VBD was) (VP (VBN introduced) (PP (IN in) (NP (CD 2007)))))) (CC and) (S (NP (PRP it)) (ADVP (RB quickly)) (VP (VBZ attracts) (NP (JJ many) (NNS attentions)))) (. .))
-(S (ADVP (RB Recently)) (, ,) (PP (IN in) (NP (CD 2015))) (NP (NP (DT the) (NN problem)) (PP (IN for) (S (VP (VBG computing) (NP (DT this) (NN quantity)))))) (VP (VBD was) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (ADJP (NP (NNP NP)) (HYPH -) (JJ hard))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (DT a) (JJ linear) (NN time) (NN algorithm)) (PP (IN for) (NP (NP (DT this) (NN problem)) (VP (VBN limited) (PP (IN on) (NP (NN cactus) (NNS graphs))))))) (. .))

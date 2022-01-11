@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP explore) (NP (NP (DT a) (JJ new) (NN form)) (PP (IN of) (NP (NNP DFT))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP call) (S (NP (DT the) (NNP Polynomial) (NNP Transform)))))))) (. .))
-(S (S (NP (PRP It)) (VP (VBZ functions) (PP (IN over) (NP (JJ finite) (NNS fields))))) (, ,) (CC and) (S (NP (DT a) (ADJP (NN size) ($ $) (JJ n) ($ $)) (NN transform)) (VP (VBZ takes) (NP (ADJP ($ $) (NNP O) (PRN (-LRB- -LRB-) (FW n) (-RRB- -RRB-) ($ $))) (NNS operations)))) (. .))
-(S (NP (CD One) (JJ important) (NN consequence)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NNP Network) (NNP Coding) (NNP Conjecture)) (VP (VBZ is) (ADJP (JJ false)))))) (. .))

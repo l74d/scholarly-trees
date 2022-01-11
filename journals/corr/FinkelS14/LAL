@@ -1,1 +1,0 @@
-(S (NP (DT This)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (NNS omega-languages)) (VP (VBN accepted) (PP (IN by) (NP (JJ non-deterministic) (NNP Petri) (NNS nets))))) (VP (VBP are) (ADJP (ADJP (RB topologically) (RBR more) (JJ complex)) (PP (IN than) (NP (NP (DT those)) (VP (VBN accepted) (PP (IN by) (NP (JJ deterministic) (NNP Petri) (NNS nets))))))))))) (. .))

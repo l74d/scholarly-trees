@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NNP IndicNLP) (NN corpus)) (, ,) (NP (NP (DT a) (JJ large-scale) (, ,) (JJ general-domain) (NN corpus)) (VP (VBG containing) (NP (NP (QP (CD 2.7) (CD billion)) (NNS words)) (PP (IN for) (NP (CD 10) (JJ Indian) (NNS languages))) (PP (IN from) (NP (CD two) (NN language) (NNS families)))))))) (. .))
-(S (NP (PRP We)) (VP (NN share) (NP (NP (JJ pre-trained) (NN word) (NNS embeddings)) (VP (VBN trained) (PP (IN on) (NP (DT these) (NNS corpora)))))) (. .))
-(S (NP (PRP We)) (VP (VBP create) (NP (NP (NN news) (NN article) (NN category) (NN classification) (NNS datasets)) (PP (IN for) (NP (CD 9) (NNS languages)))) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (NNS embeddings)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP IndicNLP) (NNS embeddings)) (VP (ADVP (RB significantly)) (VBP outperform) (NP (ADJP (RB publicly) (JJ available)) (JJ pre-trained) (VBG embedding)) (PP (IN on) (NP (JJ multiple) (NN evaluation) (NNS tasks))))))) (. .))
-(S (NP (PRP We)) (VP (VBP hope) (SBAR (IN that) (S (NP (NP (DT the) (NN availability)) (PP (IN of) (NP (DT the) (NN corpus)))) (VP (MD will) (VP (VB accelerate) (NP (NNP Indic) (NNP NLP) (NN research))))))) (. .))
-(S (NP (DT The) (NNS resources)) (VP (VBP are) (ADJP (JJ available)) (PP (IN at) (NP (DT this) (NN https) (NNP URL)))))

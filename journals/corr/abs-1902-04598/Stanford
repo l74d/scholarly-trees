@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ dissipative) (NN version)) (PP (IN of) (NP (JJ hamiltonian) (NNS mechanics)))) (VP (VBZ is) (VP (VBN proposed) (PP (IN via) (NP (NP (DT a) (NN principle)) (PP (IN of) (NP (NP (JJ minimal) (NN information) (NN content)) (PP (IN of) (NP (DT the) (NN deviation))))))) (PP (IN from) (NP (JJ hamiltonian) (NN evolution))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP we)) (VP (MD can) (VP (VB cover) (NP (NP (NN viscosity)) (, ,) (NP (NN plasticity)) (, ,) (NP (NN damage)) (CC and) (NP (JJ unilateral) (NN contact)))))))) (. .))
-(FRAG (S (NP (DT This) (NN article)) (VP (VBZ continues))) (FRAG (NP (NNP arXiv)) (: :) (NP (CD 1807.10480))))

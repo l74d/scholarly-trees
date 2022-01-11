@@ -1,2 +1,0 @@
-(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB develop) (NP (JJ convenient) (JJ numerical) (NNS integrators)) (PP (IN for) (NP (NP (NN contact) (NNP Lagrangian) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB conformally)) (NP (NP (NN contact)) (PP (IN by) (NP (NN construction))))))))))))) (. .))
-(S (NP (NP (DT The) (NN existence)) (PP (IN of) (NP (DT an) (JJ exact) (JJ Lagrangian) (NN function)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))

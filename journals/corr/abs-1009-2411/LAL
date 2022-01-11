@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (DT the) (VBG existing) (NN video) (NN information) (NN protection) (NNS methods)))) (VP (VBZ is) (VP (VBN made))) (. .))
-(S (NP (NP (NN Analysis)) (PP (IN of) (NP (JJ current) (NNP H.323) (NN protocol) (NN stack)))) (VP (VBZ has) (VP (VBN been) (VP (VBN made)))) (. .))
-(S (NP (DT A) (JJ new) (NN encryption/decryption) (NN layer)) (VP (VBZ has) (VP (VBN been) (VP (VBN suggested)))) (. .))
-(S (S (NP (NP (DT An) (NN approach)) (PP (IN for) (NP (NP (JJ partial) (NNS data) (NN encryption)) (PP (IN in) (NP (DT the) (NNP H.323) (NN protocol) (NN stack)))))) (VP (VBZ is) (VP (VBN proposed)))) (CC and) (S (NP (NP (JJ sample) (NN architecture)) (PP (IN of) (NP (DT a) (JJ Virtual) (NNP Private) (NNP Video) (NNP Network)))) (VP (VBZ is) (VP (VBN given)))) (. .))

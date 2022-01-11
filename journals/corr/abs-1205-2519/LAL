@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP extend) (NP (NP (DT the) (JJ higher-order) (NN termination) (NN method)) (PP (IN of) (NP (JJ dynamic) (NN dependency) (NNS pairs)))) (PP (TO to) (NP (NP (NNP Algebraic) (NNP Functional) (NNP Systems)) (PRN (-LRB- -LRB-) (NP (NNP AFSs)) (-RRB- -RRB-))))) (. .))
-(S (PP (IN For) (NP (JJ left-linear) (NNP AFSs))) (, ,) (NP (DT the) (NN method)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ complete))))))) (. .))
-(S (PP (IN For) (NP (JJ so-called) (JJ local) (NNP AFSs))) (NP (PRP we)) (VP (VBP define) (NP (NP (NP (DT a) (NN variation)) (PP (IN of) (NP (JJ usable) (NNS rules)))) (CC and) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (JJ argument) (NNS filterings)))))) (. .))
-(S (NP (PDT All) (DT these) (NNS techniques)) (VP (VBP have) (VP (VBN been) (VP (VBN implemented) (PP (IN in) (NP (NP (DT the) (JJ higher-order) (NN termination) (NN tool)) (NP (NNP WANDA))))))) (. .))

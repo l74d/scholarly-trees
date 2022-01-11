@@ -1,1 +1,0 @@
-(S (S (VP (VBG Approximating) (NP (NP (DT the) (JJ stationary) (NN probability)) (PP (IN of) (NP (NP (DT a) (NN state)) (PP (IN in) (NP (DT a) (NNP Markov) (NN chain)))))) (PP (IN through) (NP (NNP Markov) (NML (NML (NN chain)) (NNP Monte) (NNP Carlo)) (NNS techniques))))) (VP (VBZ is) (, ,) (PP (IN in) (ADJP (JJ general))) (, ,) (S (ADJP (JJ inefficient)))) (. .))

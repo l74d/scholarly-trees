@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP apply) (S (NP (NP (NNP Schrijver) (POS 's)) (NNP semidefinite) (NN programming) (NN method)) (VP (TO to) (VP (VB obtain) (NP (JJ improved) (JJ upper) (NNS bounds)) (PP (IN on) (NP (NP (VBN generalized) (NNS distances)) (CC and) (NP (NP (NN list) (NN decoding) (NN radii)) (PP (IN of) (NP (JJ binary) (NNS codes)))))))))) (. .))

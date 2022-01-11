@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (MD will) (VP (VB construct) (NP (NP (DT an) (NNP MDS) (PRN (-LRB- -LRB-) (S (VP (VBP =) (NP (DT the) (ADJP (RBS most) (JJ distance) (JJ separable))))) (-RRB- -RRB-)) (VBP code)) (NP ($ $) (NNP C) ($ $)) (SBAR (WHNP (WDT which)) (S (VP (VBZ admits) (NP (NP (DT a) (NN decomposition)) (SBAR (JJ such) (IN that) (S (NP (DT every) (NN factor)) (VP (VBZ is) (ADVP (RB still)) (NP (NNP MDS)))))))))))) (. .))
-(S (NP (NP (DT An) (JJ effective) (NN way)) (PP (IN of) (NP (NN decoding)))) (VP (MD will) (VP (VB be) (ADVP (RB also)) (VP (VBN discussed)))) (. .))

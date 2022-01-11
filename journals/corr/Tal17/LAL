@@ -1,3 +1,0 @@
-(S (NP (NNP Fast) (NN polarization)) (VP (VBZ is) (NP (NP (DT an) (ADJP (JJ important) (CC and) (JJ useful)) (NN property)) (PP (IN of) (NP (JJ polar) (NNS codes))))) (. .))
-(S (NP (DT The) (NN proof)) (VP (VBD was) (ADVP (RB later)) (VP (VBN generalized) (PP (IN by) (NP (NNP Sasoglu))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (DT a) (JJ simplified) (NN proof))) (. .))

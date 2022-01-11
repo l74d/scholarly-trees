@@ -1,5 +1,0 @@
-(S (NP (NN PHCpack)) (VP (VBZ is) (NP (NP (DT a) (JJ large) (NN software) (NN package)) (PP (IN for) (S (VP (VBG solving) (NP (NP (NNS systems)) (PP (IN of) (NP (ADJP (JJ polynomial)) (NNS equations))))))))) (. .))
-(S (NP (DT The) (JJ executable) (NN phc)) (VP (VBZ is) (NP (NP (NP (NN menu)) (VP (VBN driven))) (CC and) (NP (NP (NN file)) (VP (VBN oriented))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (NN phcpy)) (, ,) (NP (DT a) (NN Python) (NN interface))))) (PP (IN to) (NP (NNP PHCpack)))) (. .))
-(S (PP (RB Instead) (IN of) (S (VP (VBG navigating) (PP (IN through) (NP (NNS menus)))))) (, ,) (S (NP (NP (NNS users)) (PP (IN of) (NP (NN phcpy)))) (VP (VB solve) (NP (NNS systems)) (PP (PP (IN in) (NP (DT the) (NN Python) (NN shell))) (CC or) (PP (IN via) (NP (NNS scripts)))))) (. .))
-(S (NP (JJ Persistent) (NNS objects)) (VP (VB replace) (NP (JJ intermediate) (NNS files))) (. .))

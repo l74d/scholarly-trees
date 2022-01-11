@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG counting) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ Eulerian) (NNS circuits))) (PP (IN in) (NP (DT an) (JJ undirected) (NN graph)))))))) (VP (VBZ is) (ADJP (JJ complete)) (PP (IN for) (NP (DT the) (NN class) (# #) (NNP P))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (DT A) (JJ natural) (NN problem)) (VP (VBZ is) (S (VP (TO to) (VP (VB understand) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT the) (NNP Cayley) (NN graph)))) (VP (VB depend) (PP (IN on) (NP (NP (DT those)) (PP (IN of) (NP (DT the) (VBG underlying) (NN transposition) (NN tree)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP focus) (ADVP (RB here)) (PP (IN on) (NP (NML (NN diameter) (CC and) (NN distance)) (VBN related) (NNS questions)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP examine) (NP (DT some) (JJ related) (NNS bounds))) (CC and) (VP (VB prove) (NP (DT some) (NNS properties)) (PP (IN about) (NP (PRP them))))) (. .))
-(S (S (NP (DT This) (NN paper)) (VP (VBZ has) (VP (VBN been) (VP (VBN withdrawn))))) (CC and) (S (NP (NP (DT a) (JJ new) (NN version)) (PP (IN with) (NP (NP (DT these) (NNS results)) (CC and) (NP (JJ further) (NNS extensions))))) (VP (VBZ is) (PP (IN at) (NP (NN abs) (HYPH /) (CD 1111.3114))))))

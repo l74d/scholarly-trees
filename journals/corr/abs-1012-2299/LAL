@@ -1,5 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (ADJP (JJ simple) (CC and) (JJ concise)) (NN proof)) (PP (IN of) (NP (NP (NN correctness)) (PP (IN of) (NP (DT the) (JJ magic) (NN transformation))))))) (. .))
-(S (NP (PRP We)) (VP (VBP believe) (SBAR (S (NP (PRP it)) (VP (MD may) (VP (VB provide) (NP (NP (DT a) (JJ useful) (NN example)) (PP (IN of) (NP (NP (JJ formal) (VBG reasoning)) (PP (IN about) (NP (JJ logic) (NNS programs))))))))))) (. .))
-(S (NP (DT The) (NN correctness) (NN property)) (VP (NNS concerns) (NP (DT the) (JJ declarative) (NNS semantics))) (. .))
-(S (NP (DT The) (NN proof)) (, ,) (ADVP (RB however)) (, ,) (VP (NNS refers) (PP (TO to) (NP (NP (DT the) (JJ operational) (NNS semantics)) (PRN (-LRB- -LRB-) (NP (NNP LD-resolution)) (-RRB- -RRB-)) (PP (IN of) (NP (DT the) (NN source) (NNS programs)))))) (. .))
-(S (NP (PRP$ Its) (NN conciseness)) (VP (VBZ is) (ADJP (JJ due) (PP (TO to) (S (VP (VBG applying) (NP (DT a) (JJ suitable) (NN proof) (NN method))))))) (. .))

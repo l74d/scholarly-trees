@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ deals) (PP (IN with) (NP (NAC (NN denial) (PP (IN of) (NP (NN service)))) (NN attack)))) (. .))
-(S (NP (NP (NN Overview)) (PP (IN of) (NP (DT the) (VBG existing) (NNS attacks) (CC and) (NNS methods)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (NP (NNP Classification) (NN scheme))) (VP (VBZ is) (VP (VBN presented) (PP (IN for) (NP (DT a) (JJ different) (NAC (NN denial) (PP (IN of) (NP (NN service)))) (NNS attacks))))) (. .))
-(S (NP (EX There)) (VP (VBZ is) (VP (VBN considered) (S (NP (JJ agent-based) (NN intrusion) (NN detection) (NNS systems) (NN architecture))))) (. .))
-(S (VP (VBN Considered) (S (NP (NP (NP (JJ main) (NNS components)) (CC and) (NP (VBG working) (NNS principles))) (PP (IN for) (NP (NP (DT a) (NNS systems)) (PP (IN of) (NP (JJ such) (NN kind)))))))) (. .))

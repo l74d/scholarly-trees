@@ -1,2 +1,0 @@
-(S (NP (NP (JJ Several) (NNS variants)) (PP (IN of) (NP (NP (DT those) (NNS types)) (PP (IN of) (NP (NNS runs)))))) (VP (VBP arise) (PP (IN in) (NP (NP (JJ real) (NNS applications)) (PP (JJ such) (IN as) (NP (NP (JJ inverted) (NNS indexes)) (CC and) (NP (NN suffix) (NNS arrays))))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (NP (PRP$ our) (JJ improved) (NNS results)) (PP (IN on) (NP (NP (JJ compressed) (NNS data) (NNS structures)) (PP (IN for) (NP (NNS permutations)))))) (ADVP (RB also)) (VP (VBP yield) (NP (RB better) (JJ adaptive) (VBG sorting) (NN algorithms))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (JJ deterministic) (NN sampling) (NNS strategies)) (PP (IN for) (NP (JJ compressive) (NN imaging))) (PP (VBN based) (PP (IN on) (NP (NNP Delsarte-Goethals) (NNS frames)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT these) (VBG sampling) (NNS strategies)) (VP (VBP result) (PP (IN in) (NP (NP (NN multi-scale) (NNS measurements)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN related) (PP (TO to) (NP (DT the) (CD 2D) (NNP Haar) (NN wavelet) (NN transform)))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (VBN proposed) (NNS strategies)))) (PP (IN through) (NP (JJ numerical) (NNS experiments)))) (. .))

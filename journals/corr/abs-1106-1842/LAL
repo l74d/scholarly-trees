@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN problem)) (PP (IN of) (SBAR (IN whether) (S (NP (NP (DT the) (JJ fixed) (NN point)) (PP (IN of) (NP (DT a) (NN morphism)))) (VP (VBZ avoids) (NP (JJ Abelian) ($ $) (JJ k) ($ $) (NNS -powers))))))) (VP (VBZ is) (ADJP (JJ decidable)) (PP (IN under) (NP (ADJP (RB rather) (JJ general)) (NNS conditions))))))))

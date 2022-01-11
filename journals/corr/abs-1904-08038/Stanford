@@ -1,1 +1,0 @@
-(S (PP (IN Through) (NP (DT a) (JJ variational) (NN analysis))) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (VBN generalized) (NNP Gaussian)) (VP (VBZ fails) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN minimizer)) (PP (IN for) (NP (DT the) (NN problem))))))))))) (. .))

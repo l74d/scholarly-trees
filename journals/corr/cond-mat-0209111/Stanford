@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (DT a) (JJ novel) (NN approach)) (PP (IN to) (NP (NP (NN description)) (PP (IN of) (NP (NP (NNS networks)) (, /) (NP (NNS graphs))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT an) (ADJP (NN analogue) (JJ physical)) (NN model)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB dynamically)) (VP (VBN evolved))))))))) (. .))
-(S (NP (DT This) (NN evolution)) (VP (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN connectivity) (NN matrix)))) (CC and) (ADVP (RB readily)) (VP (VBZ brings) (PRT (RP out)) (NP (NP (JJ many) (JJ qualitative) (NNS features)) (PP (IN of) (NP (DT the) (NN graph)))))) (. .))

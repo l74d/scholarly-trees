@@ -1,5 +1,0 @@
-(S (NP (NNP HighwayHash)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN pseudo-random) (NN function)) (VP (VBN based) (PP (IN on) (NP (NP (NNP SIMD) (NN multiply) (CC and) (NN permute) (NNS instructions)) (PP (IN for) (NP (ADJP (NN thorough) (CC and) (JJ fast)) (NN hashing)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (ADJP (QP (JJ 5.2) (NNS times)) (ADJP (RB as) (RB fast))) (PP (IN as) (NP (NNP SipHash)))) (PP (IN for) (NP (CD 1) (NNP KiB) (NNS inputs)))) (. .))
-(S (NP (DT An) (JJ open-source) (NN implementation)) (VP (VBZ is) (ADJP (JJ available)) (PP (IN under) (NP (DT a) (JJ permissive) (NN license)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP discuss) (NP (JJ design) (NNS choices))) (CC and) (VP (VB provide) (NP (NP (JJ statistical) (NN analysis)) (, ,) (NP (NN speed) (NNS measurements)) (CC and) (NP (JJ preliminary) (NN cryptanalysis))))) (. .))
-(S (S (VP (VBG Assuming) (SBAR (S (NP (PRP it)) (VP (VBZ withstands) (NP (JJ further) (NN analysis))))))) (, ,) (NP (VBD strengthened) (NNS variants)) (VP (MD may) (ADVP (RB also)) (VP (ADVP (RB substantially)) (VBP accelerate) (NP (NP (NN file) (NNS checksums)) (CC and) (NP (NN stream) (NNS ciphers))))) (. .))

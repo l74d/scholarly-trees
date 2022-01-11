@@ -1,6 +1,0 @@
-(S (NP (NP (DT The) (NN strength) (CC and) (NN stability) (NNS properties)) (PP (IN of) (NP (NP (JJ hierarchical) (NN load) (NN bearing) (NNS networks)) (CC and) (NP (PRP$ their) (JJ strengthened) (NNS variants))))) (VP (VBP have) (VP (VBN been) (VP (VBN discussed) (PP (IN in) (NP (JJ recent) (NN work)))))) (. .))
-(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN avalanche) (NN time) (NNS distributions)) (PP (IN on) (NP (DT these) (NN load) (NN bearing) (NNS networks))))) (. .))
-(S (NP (NP (DT The) (NN avalanche) (NN time) (NNS distributions)) (PP (IN of) (NP (NP (DT the) (NNP V-) (NN lattice)) (, ,) (NP (NP (DT a) (JJ unique) (NN realization)) (PP (IN of) (NP (DT the) (NNS networks)))) (, ,)))) (VP (VBP show) (NP (JJ power-law) (NN behavior)) (SBAR (WHADVP (WRB when)) (S (VP (VBN tested) (PP (IN with) (NP (NP (JJ certain) (NNS fractions)) (PP (IN of) (NP (PRP$ its) (NN trunk) (NNS weights))))))))) (. .))
-(S (NP (DT All) (JJ other) (NN avalanche) (NNS distributions)) (VP (VBP show) (NP (JJ Gaussian) (VBN peaked) (NN behavior))) (. .))
-(S (ADVP (RB Thus)) (NP (DT the) (NNP V-) (NN lattice)) (VP (VBZ is) (NP (NP (DT the) (JJ critical) (NN case)) (PP (IN of) (NP (DT the) (NN network))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NNS implications)) (PP (IN of) (NP (DT this) (NN result))))) (. .))

@@ -1,1 +1,0 @@
-(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP deduce) (NP (DT a) (NN criterion)) (S (VP (TO to) (VP (VB verify) (SBAR (IN whether) (S (NP (NP (DT the) (NN jacobian)) (PP (IN of) (NP (DT a) (NML (NN genus) (CD 2)) (NN curve)))) (VP (VBZ has) (NP (JJ maximal) (NN endomorphism) (NN ring))))))))) (. .))

@@ -1,6 +1,0 @@
-(S (PP (IN With) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (DT the) (NN Internet))))) (, ,) (NP (JJ social) (NNS networks)) (VP (VBP have) (VP (VBN grown) (ADVP (RB rapidly)))) (. .))
-(S (NP (DT This)) (VP (VBZ has) (VP (VBN increased) (NP (NN security) (NNS requirements)))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN formalization)) (PP (IN of) (NP (NP (NP (JJ social) (NNS networks)) (PP (IN as) (NP (JJ composite) (JJ behavioral) (NNS objects)))) (, ,) (VP (VBN defined) (S (VP (VBG using) (NP (NP (DT the) (NNP Observational) (NNP Transition) (NNP System)) (NP (-LRB- -LRB-) (NNP OTS) (-RRB- -RRB-) (NN approach)))))))))) (. .))
-(S (NP (PRP$ Our) (NN definition)) (VP (VBZ is) (ADVP (RB then)) (VP (VBN translated) (PP (IN to) (NP (DT the) (ADJP (NP (NNP OTS) (HYPH /) (NNP CafeOBJ)) (JJ algebraic)) (NN specification) (NN methodology))))) (. .))
-(S (NP (DT This) (NN translation)) (VP (VBZ allows) (NP (NP (DT the) (JJ formal) (NN verification)) (PP (IN of) (NP (NN safety) (NNS properties)))) (PP (IN for) (NP (NP (JJ social) (NNS networks)) (PP (IN via) (NP (DT the) (NNP Proof) (NN Score) (NN method)))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (S (VP (VBG using) (NP (DT this) (NN methodology)) (S (NP (PRP we)) (ADVP (RB formally))))) (VP (VBP verify) (NP (DT some) (NN security) (NNS properties))) (. .))

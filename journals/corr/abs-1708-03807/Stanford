@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN introduced) (NP (NP (DT the) (NN notion)) (PP (IN of) (`` ") (NP (NP (NNP Principle)) (PP (IN of) (NP (NML (NML (VBP Need)) (HYPH -) (PP (IN to) (HYPH -) (NP (NN Act))))))) ('' "))))) (. .))
-(S (NP (DT This) (NN principle)) (VP (VBZ is) (ADJP (JJ essential) (PP (IN towards) (S (VP (VP (VBG developing) (NP (NP (JJ secure) (NNS systems)) (, ,) (NP (NN security) (NNS solutions)))) (CC and) (VP (VBG analyzing) (NP (NP (NN security)) (PP (IN of) (NP (DT a) (NN solution)))))))))) (. .))

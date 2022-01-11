@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT a) (NN biography) (NN summarization) (NN system)) (VP (VBG using) (NP (NP (NN sentence) (NN classification)) (CC and) (NP (NP (NNS ideas)) (PP (IN from) (NP (NN information) (NN retrieval)))))))) (. .))
-(S (SBAR (IN Although) (S (NP (DT the) (JJ individual) (NNS techniques)) (VP (VBP are) (RB not) (ADJP (JJ new))))) (, ,) (S (VP (VBG assembling) (CC and) (VBG applying) (NP (PRP them)) (S (VP (TO to) (VP (VB generate) (NP (JJ multi-document) (NNS biographies))))))) (VP (VBZ is) (ADJP (JJ new))) (. .))
-(S (NP (PRP$ Our) (NN system)) (VP (VBD was) (VP (VBN evaluated) (PP (IN in) (NP (NNP DUC2004))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (PP (IN among) (NP (NP (DT the) (JJ top) (NNS performers)) (PP (IN in) (NP (NP (NN task) (JJ 5-short) (NNS summaries)) (VP (VBN focused) (PP (IN by) (NP (NN person) (NNS questions))))))))) (. .))

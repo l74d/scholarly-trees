@@ -1,5 +1,0 @@
-(S (NP (NNP Sarkar) (CC and) (NNP Kumar)) (ADVP (RB recently)) (VP (VBD conjectured) (NNP -LSB-) (NP (NNP J.) (NNP Phys))) (. .))
-(NP (NP (DT A)) (: :) (NP (NN Math)) (. .))
-(NP (NNP Theor) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (DT the) (ADJP (NN above) (VBD conjectured)) (NNS formulas)) (PP (IN in) (NP (DT this) (NN work)))) (. .))
-(S (NP (NP (DT A) (JJ key) (NN ingredient)) (PP (IN of) (NP (DT the) (NN proofs)))) (VP (VBZ is) (NP (NP (NP (NNP Forrester) (CC and) (NNP Kieburg) (POS 's)) (NN discovery)) (PP (IN on) (NP (NP (DT the) (NN connection)) (PP (IN between) (NP (NP (DT the) (NNP Bures-Hall) (NN ensemble)) (CC and) (NP (NP (DT the) (NNP Cauchy-Laguerre) (NN biorthogonal) (NN ensemble)) (VP (VBN studied) (PP (IN by) (NP (NNP Bertola) (, ,) (NNP Gekhtman) (, ,) (CC and) (NNP Szmigielski))))))))))) (. .))

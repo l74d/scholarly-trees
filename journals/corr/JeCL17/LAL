@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (NN method)) (PP (IN for) (NP (JJ rapid) (NN high-resolution) (NN range) (VBG sensing))) (VP (VBG using) (NP (JJ green-blue) (NN stripe) (NN pattern))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (JJ green) (CC and) (JJ blue)) (PP (IN for) (S (VP (VBG designing) (NP (NN high-frequency) (JJ stripe) (NN projection) (NN pattern)))))) (. .))
-(S (PP (IN For) (NP (ADJP (NN accurate) (CC and) (JJ reliable)) (NN range) (NN recovery))) (, ,) (NP (PRP we)) (VP (VBP identify) (NP (DT the) (NN stripe) (NNS patterns)) (PP (IN by) (NP (PRP$ our) (JJ color-stripe) (NN segmentation) (CC and) (JJ unwrapping) (NN algorithms)))) (. .))
-(S (NP (NP (DT The) (JJ experimental) (NN result)) (PP (IN for) (NP (DT a) (JJ naked) (JJ human) (NN face)))) (VP (VBZ shows) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

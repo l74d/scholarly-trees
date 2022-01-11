@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP design) (NP (DT a) (JJ new) (NN reward) (NN function))) (CC and) (VP (VB use) (NP (DT a) (JJ new) (NN state) (NN model)) (S (VP (TO to) (VP (VB facilitate) (NP (NP (NN optimization)) (PP (IN of) (S (VP (NN reinforcement) (VBG learning) (NP (NN algorithm))))))))))) (. .))

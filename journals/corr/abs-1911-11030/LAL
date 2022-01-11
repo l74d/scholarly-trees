@@ -1,4 +1,0 @@
-(S (NP (VBG Learning) (NN performance)) (VP (MD can) (VP (VB show) (NP (JJ non-monotonic) (NN behavior)))) (. .))
-(S (INTJ (NP (DT That)) (VP (VBZ is))) (, ,) (NP (JJR more) (NNS data)) (VP (VBZ does) (RB not) (ADVP (RB necessarily)) (VP (VB lead) (PP (TO to) (NP (JJR better) (NNS models))) (, ,) (PP (ADVP (RB even)) (IN on) (NP (NN average))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (CD three) (IN algorithms)) (SBAR (WHNP (DT that)) (S (VP (VP (VBP take) (NP (DT a) (JJ supervised) (NN learning) (NN model))) (CC and) (VP (VB make) (S (NP (PRP it)) (VP (VB perform) (ADVP (RBR more) (NN monotone)))))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP prove) (NP (NN consistency) (CC and) (NN monotonicity)) (PP (IN with) (NP (JJ high) (NN probability)))) (, ,) (CC and) (VP (VB evaluate) (NP (DT the) (NN algorithms)) (PP (IN on) (NP (NP (NNS scenarios)) (SBAR (WHADVP (WRB where)) (S (NP (JJ non-monotone) (NN behaviour)) (VP (NNS occurs)))))))) (. .))

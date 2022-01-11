@@ -1,5 +1,0 @@
-(S (PP (IN During) (NP (DT the) (JJ last) (NNS years))) (NP (JJ large) (NNS farms)) (VP (VBP have) (VP (VBN been) (VP (VBN built) (S (VP (VBG using) (NP (NN commodity) (NN hardware))))))) (. .))
-(S (NP (DT This) (NN hardware)) (VP (VBZ lacks) (NP (NP (NNS components)) (PP (IN for) (NP (ADJP (NN remote) (CC and) (JJ automated)) (NN administration))))) (. .))
-(S (NP (NP (NNS Products)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN retrofitted) (PP (TO to) (NP (DT these) (NNS systems))))))))) (VP (VBP are) (ADJP (DT either) (ADJP (JJ costly)) (CC or) (ADJP (JJ inherently) (NN insecure)))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN system)) (VP (VBN based) (PP (IN on) (NP (NP (JJ serial) (NNS ports)) (CC and) (NP (JJ simple) (NN machine) (VBN controlled) (NNS relays))))))) (. .))
-(S (NP (PRP We)) (VP (VBP report) (PP (IN on) (NP (NP (NP (NN experience)) (VP (VBN gained) (PP (IN by) (S (VP (VBG setting) (PRT (RP up)) (NP (DT a) (JJ 50-machine) (NN test) (NN environment))))))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ current) (NN work)) (PP (IN in) (NP (NN progress))) (PP (IN in) (NP (DT the) (NN area))))))) (. .))

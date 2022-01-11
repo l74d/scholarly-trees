@@ -1,4 +1,0 @@
-(S (NP (NNP Cloud) (NN computing)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ exciting)) (NNP IT) (VBZ trends)))) (ADVP (NNS nowadays))) (. .))
-(S (NP (PRP It)) (VP (VBZ poses) (NP (NP (JJ several) (NNS challenges)) (PP (IN on) (NP (NN application) (NN integration)))) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (PRN (, ,) (PP (IN for) (NP (NN example))) (, ,)) (NP (NN security)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN work))) (NP (PRP we)) (VP (VBP collect) (CC and) (VB categorize) (NP (JJ several) (JJ new) (NN integration) (NNS patterns) (CC and) (JJ pattern) (NNS solutions)) (PP (IN with) (NP (NP (DT a) (NN focus)) (PP (IN on) (NP (NN cloud) (NN integration) (NNS requirements)))))) (. .))
-(S (NP (PRP$ Their) (NN evidence) (CC and) (NNS examples)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (JJ extensive) (NN literature) (CC and) (NN system) (NNS reviews))))) (. .))

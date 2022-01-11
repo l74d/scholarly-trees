@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (PP (IN for) (NP (NP (DT a) (JJ general) (NN class)) (PP (IN of) (NP (JJ convex) (NN online) (NN learning) (NNS problems))))) (, ,) (NP (NNP Mirror) (NNP Descent)) (VP (MD can) (ADVP (RB always)) (VP (VB achieve) (NP (DT a) (PRN (-LRB- -LRB-) (RB nearly) (-RRB- -RRB-)) (JJ optimal) (JJ regret) (NN guarantee))))))) (. .))

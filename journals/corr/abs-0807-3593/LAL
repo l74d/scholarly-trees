@@ -1,2 +1,0 @@
-(S (NP (NP (DT An) (NN outer) (NN bound)) (PP (TO to) (NP (DT the) (JJ two-receiver) (JJ discrete) (NN memoryless) (NN broadcast) (NN channel)))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP compare) (NP (PRP it)) (PP (TO to) (NP (DT the) (VBN known) (NN outer) (NNS bounds)))) (CC and) (VP (NN show) (SBAR (IN that) (S (NP (NP (DT the) (NN outer) (NN bound)) (VP (VBD presented))) (VP (VBZ is) (ADJP (ADJP (ADVP (IN at) (JJS least)) (RB as) (JJ tight)) (PP (IN as) (NP (DT the) (VBG existing) (NNS bounds))))))))) (. .))

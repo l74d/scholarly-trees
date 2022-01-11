@@ -1,7 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (NP (NP (DT the) (NN estimation)) (PP (IN of) (NP (NN radio) (NN channel) (NNS parameters))) (PP (IN from) (NP (NN receiver) (NNS data))) (, ,) (SBAR (WHADVP (VBP whereby)) (S (NP (DT the) (NN transmitter)) (VP (VBZ is) (ADJP (RB fully) (JJ unknown))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (NN multipath) (NN model)) (S (VP (TO to) (VP (VB describe) (NP (NP (DT the) (NN radio) (NN channel)) (PP (IN between) (NP (NN transmitter) (CC and) (NN receiver)))))))) (. .))
-(S (PP (VBG According) (PP (TO to) (NP (DT this) (NN model)))) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (NN accessibility)) (PP (IN of) (NP (NNS parameters))) (PP (IN for) (NP (NN estimation))))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (DT the) (NNP Maximum-Likelihood) (NN principle)))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (DT a) (NN cost) (NN function))) (. .))
-(S (NP (DT A) (JJ second) (NN cost) (NN function)) (VP (VBZ is) (VP (VBN derived) (PP (IN from) (NP (NP (DT the) (NN cross) (NN relation)) (PP (IN between) (NP (DT the) (NN receiver) (NNS channels))))))) (. .))
-(S (S (VP (TO To) (VP (VB estimate) (NP (DT the) (NNS parameters))))) (, ,) (NP (PRP we)) (VP (VBP seek) (PP (IN for) (NP (NP (DT the) (NN minimum)) (PP (IN of) (NP (DT these) (NN cost) (NNS functions)))))) (. .))
-(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (JJ presented) (NN cost) (NNS functions)))) (VP (VBP are) (VP (VBN compared) (PP (IN in) (NP (NNS simulations))))) (. .))

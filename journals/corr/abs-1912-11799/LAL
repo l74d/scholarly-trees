@@ -1,3 +1,0 @@
-(S (VP (VB Let) (S (NP ($ $) (NNP G=) (PRN (-LRB- -LRB-) (NNP V) (, ,) (NNP E) (-RRB- -RRB-)) ($ $)) (VP (VB be) (NP (DT a) (ADJP (JJ twinless) (RB strongly) (VBN connected)) (NN graph))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (JJ twinless) (NN articulation) (NNS points)) (CC and) (NP (JJ twinless) (NNS bridges)))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (NP (DT the) (ADJP (ADJP (QP ($ $) (CD 2) ($ $))) (RB -vertex-twinless)) (VBN connected) (NNS components)) (PP (IN of) (NP ($ $) (NNP G) ($ $))))))))) (. .))

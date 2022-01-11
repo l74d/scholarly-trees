@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NN possibility)) (PP (IN of) (S (VP (NN use) (NP (DT the) (NNS keys) (JJ preliminary) (NN distribution) (NNP KDP-scheme)) (PP (IN for) (NP (NP (JJ mandatory) (NN access) (NN control) (NN realization)) (PP (IN in) (NP (DT the) (JJ distributed) (NNS systems))) (PP (IN with) (NP (NP (NN user) (POS 's)) (NN hierarchy))))))))) (VP (VBZ is) (VP (VBN considered))) (. .))
-(S (NP (DT The) (JJ modified) (NNS keys) (JJ preliminary) (NN distribution) (NN algorithm)) (VP (VBZ is) (VP (VBN suggested))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN developed) (NP (NP (DT a) (NN method)) (PP (IN for) (NP (NP (NN creation)) (PP (IN of) (NP (NNS subsets) (NN family))))) (PP (IN for) (NP (NN solution) (NP (DT this) (NN task))))))) (. .))

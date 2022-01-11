@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ low-complexity) (JJ joint) (NN demapper-decoder) (NN scheme)) (PP (IN for) (NP (NP (JJ coherent) (JJ optical) (NNS receivers)) (PP (IN with) (NP (NNP DQPSK) (NN modulation))))))) (. .))
-(S (NP (DT The) (JJ new) (NN technique)) (VP (NNS reduces) (PP (TO to) (NP (CD 0.7dB))) (NP (NP (DT the) (NN gap)) (PP (IN between) (NP (NNP QPSK) (CC and) (NNP DQPSK))) (PP (IN in) (NP (CD 100Gb/s) (JJ coherent) (JJ optical) (NNS systems))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP study) (NP ($ $) (CD k))) (NP (NP ($ $)) (HYPH -) (SBAR (S (VP (VBZ means) (NP (NP (NN clustering)) (PP (IN in) (NP (DT a) (JJ semi-supervised) (NN setting))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ shows) (SBAR (IN that) (S (NP (PRP$ our) (NN query) (NNS complexities)) (VP (VBP capture) (NP (NP (DT the) (JJ right) (NNS dependencies)) (PP (IN on) (NP (DT the) (JJ respective) (NNS parameters)))))))) (. .))

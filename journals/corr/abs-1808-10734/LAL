@@ -1,1 +1,0 @@
-(S (NP (DT This)) (VP (VBZ implies) (NP (NP (DT an) (JJ improved) (JJ upper) (NN bound)) (PP (IN on) (NP (NP (DT the) (NN integrality) (NN ratio)) (PP (IN of) (NP (DT the) (JJ standard) (NNP LP) (NN relaxation))) (PP (IN for) (NP (DT the) (ADJP (QP ($ $) (JJ s) ($ $) (: -) ($ $) (JJ t) ($ $))) (JJ -path) (NNP TSP))))))) (. .))

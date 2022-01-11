@@ -1,4 +1,0 @@
-(S (NP (NP (NNP Logarithmic) (NN differential) (NNS forms)) (CC and) (NP (NP (JJ logarithmic) (NNS residues)) (VP (VBN associated) (PP (TO to) (NP (NP (DT a) (NN hypersurface)) (PP (IN with) (NP (DT an) (JJ isolated) (NN singularity)))))))) (VP (VBP are) (VP (VBN considered) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (JJ computational) (JJ complex) (NN analysis))))))) (. .))
-(S (NP (NP (DT An) (JJ effective) (NN method))) (VP (VBZ is) (VP (VBN introduced) (PP (IN for) (S (VP (VBG computing) (NP (JJ logarithmic) (NNS residues))))))) (. .))
-(S (NP (NP (DT A) (NN relation)) (PP (IN between) (NP (NP (JJ logarithmic) (JJ differential) (NNS forms)) (CC and) (NP (NP (DT the) (NNP Brieskorn) (NN formula)) (PP (IN on) (NP (NNP Gauss-Manin) (NN connection))))))) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (NP (DT Some) (NNS examples)) (VP (VBP are) (ADVP (RB also)) (VP (VBN given) (PP (IN for) (NP (NN illustration))))) (. .))

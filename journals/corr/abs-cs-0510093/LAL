@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP report) (PP (IN on) (NP (NP (DT the) (NN status)) (PP (IN of) (NP (NP (PRP$ our) (NN project)) (PP (IN of) (NP (NP (NN parallelization)) (PP (IN of) (NP (DT the) (JJ symbolic) (NN manipulation) (NN program) (NP (NNP FORM))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP have) (ADVP (RB now)) (NP (NP (JJ parallel) (NNS versions)) (PP (IN of) (NP (NNP FORM))) (VP (VBG running) (PP (IN on) (NP (UCP (NNP Cluster-) (CC or)) (NNS SMP-architectures)))))) (. .))
-(S (NP (DT These) (NNS versions)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB run) (NP (JJ arbitrary) (NNP FORM) (NNS programs)) (PP (IN in) (NP (NN parallel))))))))) (. .))

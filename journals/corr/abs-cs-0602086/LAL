@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (PRP$ his) (NN thesis))) (, ,) (NP (NNP Wiberg)) (VP (VBD showed) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NNS thresholds))) (PP (IN for) (NP (NP (NNS families)) (PP (IN of) (NP (JJ regular) (JJ low-density) (NN parity-check) (NNS codes))))) (PP (IN under) (NP (JJ min-sum) (NN algorithm) (NN decoding))))) (. .))
-(S (NP (PRP He)) (ADVP (RB also)) (VP (VBD derived) (NP (NP (JJ analytic) (NNS bounds)) (PP (IN on) (NP (DT these) (NNS thresholds))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (NP (JJ similar) (NNS results)) (PP (IN for) (NP (NP (JJ linear) (VBG programming) (NN decoding)) (PP (IN of) (NP (JJ regular) (JJ low-density) (NN parity-check) (NNS codes))))))) (. .))

@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT a) (NN transshipment) (NN game))) (, ,) (NP (NML (NN supply) (NN chain)) (NNS agents)) (VP (VBP cooperate) (PP (IN to) (NP (NN transship) (NN surplus) (NNS products)))) (. .))
-(NP (NP (DT This) (NN note) (NNS studies)) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NP (NN size)) (PP (IN of) (NP (NP (NN transshipment) (NNS coalitions)) (PP (IN on) (NP (DT the) (JJ optimal) (NML (NN production) (HYPH /) (NN order)) (NNS quantities)))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ characterizes) (NP (NP (DT these) (NNS quantities)) (PP (IN for) (NP (NN transshipment) (NNS games)))) (PP (IN with) (NP (NP (JJ identical) (NNS newsvendors)) (CC and) (NP (ADJP (RB normally) (VBN distributed)) (NN market) (NNS demands))))) (. .))
-(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ gives) (NP (DT a) (JJ closed) (NN form)) (NP (NP (NN formula)) (PP (IN for) (NP (NP (JJ equal) (NN allocation)) (PP (IN in) (NP (PRP$ their) (NNS cores))))))) (. .))

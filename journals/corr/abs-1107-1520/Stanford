@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NNP Lipschitz) (NN constant)) (PP (IN of) (NP (DT a) (NN finite) (NML (JJ normal) (HYPH -) (NN form)) (NN game)))) (VP (VBZ is) (NP (NP (DT the) (JJ maximal) (NN change)) (PP (IN in) (NP (NP (NP (DT some) (NN player) (POS 's)) (NN payoff)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ single) (NN opponent)) (VP (VBZ changes) (NP (PRP$ his) (NN strategy))))))))) (. .))
-(S (NP (PRP$ Our) (NNS proofs)) (VP (VBP use) (NP (DT the) (ADJP (JJ probabilistic)) (NN method))) (. .))

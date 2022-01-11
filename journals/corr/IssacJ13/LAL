@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (ADJP (ADJP ($ $) (NNP O^*)) (PRN (-LRB- -LRB-) (NP (CD 1.0821^n)) (-RRB- -RRB-)) ($ $) (CD -time)) (, ,) (JJ polynomial) (NN space) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (JJ Maximum) (NNP Independent) (NNP Set)) (PP (IN in) (NP (NP (NN graphs)) (PP (IN with) (NP (JJ bounded) (NN degree) (CD 3)))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ improves) (NP (NP (PDT all) (DT the) (JJ previous) (NN running) (NN time) (VBZ bounds)) (VP (VBN known) (PP (IN for) (NP (DT the) (NN problem)))))) (. .))

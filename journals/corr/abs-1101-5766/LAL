@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ geometric) (NN model)) (PP (IN of) (NP (JJ sparse) (JJ signal) (NNS representations)))) (VP (VBZ is) (VP (VBN introduced) (PP (IN for) (NP (NP (NNS classes)) (PP (IN of) (NP (NNS signals))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN computed) (PP (IN by) (S (VP (VBG optimizing) (NP (NN co-occurrence) (NNS groups)) (PP (IN with) (NP (NP (DT a) (JJ maximum) (NN likelihood) (NN estimate)) (VP (VBN calculated) (PP (IN with) (NP (DT a) (NNP Bernoulli) (NN mixture) (NN model))))))))))) (. .))
-(S (NP (NP (NNS Applications)) (PP (TO to) (NP (NP (VB face) (NN image) (NN compression)) (CC and) (NP (NNP MNIST) (JJ digit) (NN classification))))) (VP (VBP illustrate) (NP (NP (DT the) (NN applicability)) (PP (IN of) (NP (DT this) (NN model))))) (. .))

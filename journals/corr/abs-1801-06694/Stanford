@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN for) (NP (NP (DT the) (NN recognition)) (PP (IN of) (NP (JJ digital) (JJ straight) (NNS lines)))))) (PP (VBN based) (PP (IN on) (NP (DT the) (NN slope))))) (. .))
-(S (NP (DT This) (NN method)) (VP (VBZ combines) (NP (NP (NP (DT the) (NNP Freeman) (POS 's)) (NN chain) (VBG coding) (NN scheme)) (CC and) (NP (NP (JJ new)) (VP (VBN discovered) (NP (NP (NNS properties)) (PP (IN of) (NP (NP (DT the) (JJ digital) (NN slope)) (VP (VBN introduced) (PP (IN in) (NP (DT this) (NN paper))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP present) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (PRP$ our) (NN method)))) (PP (IN from) (NP (DT a) (NN testbed)))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (DT the) (NN wireless) (NN sensor) (NNS networks))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (NNP MEMS/NEMS) (NNS technologies)) (CC and) (NP (NNP SIP) (NN concept))) (VP (VBP are) (ADJP (RB well) (VBN suited) (PP (IN for) (NP (JJ advanced) (NNS architectures))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown) (SBAR (S (NP (NN analog) (NNS architectures)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (ADJP (JJ compatible) (PP (IN with) (NP (JJ digital) (NN signal) (NNS techniques))))))) (S (VP (TO to) (VP (VB develop) (NP (NP (JJ smart) (NN network)) (PP (IN of) (NP (NN microsystem)))))))))))) (. .))

@@ -1,7 +1,0 @@
-(S (NP (NP (NNS Images)) (PP (IN of) (NP (NP (DT a) (NN scene)) (VP (VBN observed) (PP (PP (IN under) (NP (DT a) (JJ variable) (NN illumination))) (CC or) (PP (IN with) (NP (DT a) (JJ variable) (JJ optical) (NN aperture)))))))) (VP (VBP are) (RB not) (ADJP (JJ identical))) (. .))
-(SQ (VBZ Does) (NP (DT a) (JJ privileged) (NN representant)) (VP (VB exist)) (. ?))
-(SBARQ (WHPP (IN In) (WHNP (WDT which) (NP (JJ mathematical) (NN context)))) (. ?))
-(SBARQ (WHADVP (WRB How)) (S (VP (TO to) (VP (VB obtain) (NP (PRP it))))) (. ?))
-(S (NP (DT The) (NNS authors)) (VP (VBP answer) (PP (IN to) (NP (NP (JJ such) (NNS questions)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NP (JJ logarithmic) (NNS models)) (PP (IN for) (NP (NNS images)))))))))) (. .))
-(S (PP (IN After) (NP (NP (DT a) (JJ short) (NN presentation)) (PP (IN of) (NP (DT the) (NN model))))) (, ,) (NP (DT the) (NN paper)) (VP (VBZ presents) (SBAR (S (NP (CD two) (NN image)) (VP (VBZ transforms) (: :) (S (S (NP (CD one)) (VP (VBZ performs) (NP (NP (DT an) (JJ optimal) (NN enhancement)) (PP (IN of) (NP (DT the) (JJ dynamic) (NN range)))))) (, ,) (CC and) (S (NP (DT the) (JJ other)) (VP (VBZ does) (NP (DT the) (JJ same)) (PP (IN for) (NP (DT the) (JJ mean) (JJ dynamic) (NN range)))))))))) (. .))
-(S (NP (JJ Experimental) (NNS results)) (VP (VBP are) (VP (VBN shown))) (. .))

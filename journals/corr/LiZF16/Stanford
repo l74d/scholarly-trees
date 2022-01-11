@@ -1,1 +1,0 @@
-(S (NP (NP (JJ Many)) (PP (IN of) (NP (NP (JJ linear) (NNS codes)) (PP (IN over) (NP (NP (JJ finite) (NN field)) (SBAR (S (NP (PRP we)) (VP (VBD constructed))))))))) (VP (VBP have) (NP (NP (CD two)) (VP (VBG Hamming) (NP (ADJP (-LRB- -LRB-) (JJ non-zero) (-RRB- -RRB-)) (NNS weights))))) (. .))

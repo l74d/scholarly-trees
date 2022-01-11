@@ -1,4 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (NNS deals) (PP (IN with) (NP (NP (DT the) (NN modeling) (CC and) (NN identification)) (PP (IN of) (NP (NP (DT the) (NN gravity) (NNS compensators)) (VP (VBN used) (PP (IN in) (NP (JJ heavy) (JJ industrial) (NNS robots))))))))) (. .))
-(S (NP (DT The) (JJ main) (NN attention)) (VP (VBZ is) (VP (VBN paid) (PP (TO to) (NP (DT the) (NX (JJ geometrical) (NNS parameters) (NX (NN identification))) (CC and) (NX (NN calibration) (NN accuracy)))))) (. .))
-(S (S (VP (TO To) (VP (VB reduce) (NP (NP (NN impact)) (PP (IN of) (NP (DT the) (JJ measurement) (NNS errors))))))) (, ,) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (NN calibration) (NNS experiments)))) (VP (VBZ is) (VP (VBN used))) (. .))
-(S (NP (NP (DT The) (NNS advantages)) (PP (IN of) (NP (DT the) (NN developed) (NN technique)))) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (NP (JJ experimental) (NNS results))))))

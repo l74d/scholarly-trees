@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (NNP FORM) (CD 4.2)) (, ,) (NP (NP (DT a) (JJ new) (JJ minor) (NN release)) (PP (IN of) (NP (DT the) (JJ symbolic) (NN manipulation) (NN toolkit)))))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (NP (NP (JJ several) (JJ new) (NNS features)) (, ,) (PP (JJ such) (IN as) (NP (NP (DT a) (JJ new) (NN pattern) (VBG matching) (NN option)) (, ,) (NP (JJ new) (NN output) (NN optimization)) (, ,) (CC and) (NP (NP (JJ automatic) (NN expansion)) (PP (IN of) (NP (JJ rational) (NNS functions)))))))) (. .))

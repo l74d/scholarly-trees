@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (CD two) (NNP CLP) (NNS approaches)) (PP (TO to) (NP (CD 2D) (NN angle) (NNS placements))) (, ,) (VP (VBN implemented) (PP (IN in) (NP (NNP CHIP) (NN v.5.3)))))) (. .))
-(S (S (NP (DT The) (JJ first)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ classical) (PRN (-LRB- -LRB-) (JJ rectangular) (-RRB- -RRB-)) (JJ cumulative) (JJ global) (NN constraint)))))) (, ,) (S (NP (DT the) (JJ second)) (PP (IN on) (NP (DT the) (JJ new) (JJ trapezoidal) (JJ cumulative) (JJ global) (NN constraint)))) (. .))
-(S (NP (DT Both) (NNS approaches)) (VP (VBP are) (VP (VBN applied) (PP (TO to) (NP (NP (DT a) (NN specific)) (VP (VBN presented)))))) (. .))

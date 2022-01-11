@@ -1,2 +1,0 @@
-(S (VP (VB Let) (S (NP (NNP COLk)) (VP (VB be) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (DT all) (JJ k-colorable) (NN graphs))))))) (. .))
-(S (ADVP (RB However)) (NP (DT this) (NN proof)) (VP (VBZ is) (ADJP (VBN insane)) (SBAR (IN in) (DT that) (S (NP (PRP it)) (VP (VP (VBZ translates) (NP (DT a) (NN graph)) (PP (TO to) (NP (DT a) (NN formula)))) (CC and) (ADVP (RB then)) (VP (NP (DT the) (NN formula)) (PP (TO to) (NP (DT a) (NN graph)))))))) (. .))

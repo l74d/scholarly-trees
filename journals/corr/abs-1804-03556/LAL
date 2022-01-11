@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN complexity)) (VP (VBZ is) (RB not) (ADJP (JJ elementary))))) (, ,) (PP (IN by) (NP (NP (NN reduction)) (PP (IN from) (NP (NP (DT the) (JJ first-order) (NN theory)) (PP (IN of) (NP (CD one) (JJ unary) (NN function) (NN symbol)))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (DT The) (VBN proposed) (NN approximation)) (VP (VBZ has) (NP (NP (DT the) (JJS least) (NNP Kullback-Leibler) (PRN (-LRB- -LRB-) (NNP KL) (-RRB- -RRB-)) (NN divergence)) (PP (IN from) (NP (DT the) (JJ original) (NN matrix) (NN distribution))))) (. .))
-(S (S (NP (DT These) (JJ approximate) (NNS expressions)) (VP (VBP are) (VP (VBN compared) (PP (IN with) (NP (NNP Monte-Carlo) (NNS simulations)))))) (CC and) (S (NP (DT a) (JJ close) (NN match)) (VP (VBZ is) (VP (VBN observed)))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (JJ mathematical) (NN link)) (PP (IN between) (NP (NP (NP (NP (NNS aspects)) (PP (IN of) (NP (NN information) (NN theory)))) (, ,) (VP (VBN called) (S (NP (NN pairwise) (NNS comparisons)))) (, ,)) (CC and) (NP (VBD discretized) (NN gauge) (NNS theories)))))) (. .))
-(S (NP (DT The) (NN link)) (VP (VBZ is) (VP (VBN made) (PP (IN by) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN holonomy))) (PP (IN along) (NP (NP (DT the) (NNS edges)) (PP (IN of) (NP (DT a) (NN simplex))))))))) (. .))
-(S (NP (DT This) (NN correspondance)) (VP (VBZ leads) (PP (TO to) (NP (NP (VB open) (NNS questions)) (PP (IN in) (NP (DT both) (NN field)))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ discusses) (NP (NN building) (NNS models)) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ reconstructed) (NNS attractors)) (PP (IN of) (NP (DT the) (NN time) (NN series))))))) (. .))
-(S (VP (VBZ Discusses) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (JJ dynamical) (NN chaos)))))) (, ,) (S (ADVP (RB namely)) (VP (TO to) (VP (VB identify) (NP (NP (DT the) (JJ strange) (NNS attractors)) (NP (NN structure) (NNS models))))))) (. .))
-(SINV (ADVP (RB Here)) (VP (VBZ is) (VP (VBN used))) (NP (NP (NP (DT the) (NN group) (NNS properties)) (PP (IN of) (NP (JJ differential) (NNS equations)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP consist) (PP (IN in) (NP (NP (DT the) (NN symmetry)) (PP (IN of) (NP (JJ particular) (NNS solutions))))))))) (. .))
-(S (NP (NP (NNS Examples)) (PP (IN of) (NP (NML (NN modeling) (NN engineering)) (NNS systems)))) (VP (VBP are) (VP (VBN given))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NNP Cournot) (JJ dynamical) (NN game)) (VP (VBZ is) (VP (VBN studied) (PP (IN on) (NP (DT a) (NN graph))))) (. .))
-(S (NP (NP (DT The) (NN stability)) (PP (IN of) (NP (DT the) (NN system)))) (VP (VBZ is) (VP (VBN studied))) (. .))
-(S (NP (NP (NN Prisoner) (POS 's)) (NN dilemma) (NN game)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB model) (NP (NML (JJ natural) (NN gas)) (NN transmission))))))) (. .))

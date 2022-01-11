@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN time) (NN discretization) (NN scheme)) (VP (VBD adapted) (PP (TO to) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (NNP GENERIC) (NNS systems)))))))) (. .))
-(S (NP (DT The) (NN scheme)) (VP (VP (VBZ is) (ADJP (JJ variational) (PP (IN in) (NP (NN nature))))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (JJ conditional) (JJ incremental) (NN minimization)))))) (. .))
-(S (NP (NP (DT The) (NNP GENERIC) (NN structure)) (PP (IN of) (NP (DT the) (NN scheme)))) (VP (VBZ provides) (NP (NP (NN stability) (CC and) (NN convergence)) (PP (IN of) (NP (DT the) (NN scheme))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN scheme)) (VP (MD can) (VP (VB be) (VP (ADVP (RB rigorously)) (VBN implemented) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (DT the) (JJ damped) (JJ harmonic) (NN oscillator))))))))))) (. .))
-(S (NP (JJ Numerical) (NN evidence)) (VP (VBZ is) (VP (VBN collected) (, ,) (S (VP (VBG illustrating) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT the) (NN method)))))))) (. .))

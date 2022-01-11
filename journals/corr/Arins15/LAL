@@ -1,3 +1,0 @@
-(S (NP (NNP Span) (NN program)) (VP (VBZ is) (NP (NP (DT a) (JJ linear-algebraic) (NN model)) (PP (IN of) (NP (NN computation))) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB design) (NP (JJ quantum) (NN algorithms)))))))))))) (. .))
-(S (PP (IN For) (NP (DT any) (NNP Boolean) (NN function))) (NP (RB there)) (VP (VBZ exists) (NP (NP (DT a) (JJ span) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (VBZ leads) (PP (TO to) (NP (NP (DT a) (NN quantum) (NN algorithm)) (PP (IN with) (NP (JJ optimal) (NN quantum) (NN query) (NN complexity)))))))))) (. .))
-(S (PP (IN In) (ADJP (JJ general))) (, ,) (S (VP (VBG finding) (NP (JJ such) (JJ span) (NNS programs)))) (VP (VBZ is) (RB not) (NP (DT an) (JJ easy) (NN task))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP find) (NP (NP (JJ Singleton) (NNS bounds)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (DT this) (NN weight))))))) (CC and) (VP (NN define) (NP (NNP MLDS) (CC and) (NNP MLDR) (NNS codes)) (ADVP (RB accordingly)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP consider) (NP (NP (NP (DT the) (NNS kernels)) (PP (IN of) (NP (DT these) (NNS codes)))) (CC and) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NP (NN independence)) (PP (IN of) (NP (NNS vectors))) (PP (IN in) (NP (DT this) (NN space)))))))) (. .))

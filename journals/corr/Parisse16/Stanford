@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (DT an) (NN algorithm)) (PP (IN to) (NP (NN factor) (JJ sparse) (JJ multivariate) (NNS polynomials))) (S (VP (VBG using) (NP (NP (NML (NN O) (-LRB- -LRB-) (NN d) (-RRB- -RRB-)) (JJ bivariate) (NNS factorizations)) (SBAR (WHADVP (WRB where)) (S (NP (NN d)) (VP (VBZ is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS variables))))))))))) (. .))
-(S (NP (DT This) (NN algorithm)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (DT the) (NML (NNP Giac) (HYPH /) (NNP Xcas)) (NML (NN computer) (NN algebra)) (NN system))))) (. .))

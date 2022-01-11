@@ -1,2 +1,0 @@
-(S (NP (JJ Simple) (JJ convolutional) (JJ neural) (NN network)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB win) (NP (NNP ISISPA) (NN color) (NN constancy) (NN competition))))))) (. .))
-(S (NP (NP (JJ Partial) (NN reimplementation)) (PP (IN of) (NP (PRN (-LRB- -LRB-) (NP (NP (NNP Bianco)) (, ,) (NP (CD 2017))) (-RRB- -RRB-)) (NP (JJ neural) (NN architecture))))) (VP (MD would) (VP (VB have) (VP (VBN shown) (NP (ADJP (RB even) (RBR better)) (NNS results)) (PP (IN in) (NP (DT this) (NN setup)))))) (. .))

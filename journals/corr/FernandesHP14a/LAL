@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (JJ intuitionistic) (NN version)) (PP (IN of) (NP (NNP PUC-Logic))))) (. .))
-(S (PP (IN After) (NP (DT that))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ constructive) (NN approach)) (PP (TO to) (NP (NP (NNP Lewis) (POS ›)) (JJ counterfactual) (NN abstraction)))) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB require) (NP (DT the) (JJ classical) (NN absurd) (NN rule)))))))))) (. .))

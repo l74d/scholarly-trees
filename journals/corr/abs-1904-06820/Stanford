@@ -1,3 +1,0 @@
-(S (NP (NP (DT This) (NN class)) (PP (IN of) (NP (NNS codes)))) (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (UCP (NML (JJ cyclic) (NNS codes)) (CC and) (ADJP (JJ quasi-cyclic))) (NNS codes))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT some) (NNS examples)) (PP (IN of) (NP (JJ optimal) (NN permutation) (NNS codes)))) (PP (IN over) (NP (NP (JJ binary)) (, ,) (NP (JJ ternary)) (, ,) (CC and) (NP (NML (NML ($ $) (CD 5)) (NML ($ $))) (HYPH -) (NN ary))))) (. .))
-(S (ADVP (RB Then)) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (PRP$ its) (NN structure)) (PP (IN as) (NP (NP (NNS submodules)) (PP (IN over) (NP (DT a) (ADJP (JJ polynomial)) (NN ring)))))) (. .))

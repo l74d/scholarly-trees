@@ -1,7 +1,0 @@
-(S (NP (NP (NNP Set) (NN partitioning)) (PP (IN of) (NP (DT the) (NNP Golden) (NN code)))) (VP (VBZ is) (VP (VBN designed) (ADVP (RB specifically)) (S (VP (TO to) (VP (VB increase) (NP (DT the) (JJ minimum) (NN determinant))))))) (. .))
-(S (NP (NP (DT The) (NNS branches)) (PP (IN of) (NP (DT the) (NN outer) (NN trellis) (NN code)))) (VP (VBP are) (VP (VBN labeled) (PP (IN with) (NP (DT these) (NNS partitions))))) (. .))
-(S (NP (NNP Viterbi) (NN algorithm)) (VP (VBZ is) (VP (VBN applied) (PP (IN for) (NP (NN trellis) (NN decoding))))) (. .))
-(S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB compute) (NP (DT the) (NN branch) (VBZ metrics)))))) (NP (DT a) (NN lattice) (RB sphere) (NN decoder)) (VP (VBZ is) (VP (VBN used))) (. .))
-(S (NP (NP (DT The) (JJ general) (NN framework)) (PP (IN for) (NP (NN code) (NN optimization)))) (VP (VBZ is) (VP (VBN given))) (. .))
-(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (VBN proposed) (JJ concatenated) (NN scheme)))) (VP (VBZ is) (VP (VBN evaluated) (PP (IN by) (NP (NN simulation))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN scheme)) (VP (VBZ achieves) (NP (NP (JJ significant) (NN performance) (NNS gains)) (PP (IN over) (NP (JJ uncoded) (NNP Golden) (NN code))))))))) (. .))

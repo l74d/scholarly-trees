@@ -1,5 +1,0 @@
-(S (NP (NP (DT The) (NN physics)) (PP (IN of) (NP (NP (NP (JJ compressive)) (VP (VBG sensing)) (PRN (-LRB- -LRB-) (NP (NN CS)) (-RRB- -RRB-))) (CC and) (NP (ADJP (NP (DT the) (NN gradient)) (HYPH -) (VBN based)) (NN recovery) (NNS algorithms))))) (VP (VBP are) (VP (VBN presented))) (. .))
-(S (ADVP (RB First)) (, ,) (NP (NP (DT the) (JJ different) (NNS forms)) (PP (IN for) (NP (NN CS)))) (VP (VBP are) (VP (VBN summarized))) (. .))
-(S (ADVP (RB Second)) (, ,) (NP (NP (DT the) (JJ physical) (NNS meanings)) (PP (IN of) (NP (NN coherence) (CC and) (NN measurement)))) (VP (VBP are) (VP (VBN given))) (. .))
-(S (ADVP (JJ Third)) (, ,) (NP (NP (ADJP (NP (DT the) (NN gradient)) (HYPH -) (VBN based)) (NN recovery) (NNS algorithms)) (CC and) (NP (PRP$ their) (NN geometry) (NNS explanations))) (VP (VBP are) (VP (VBN provided))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VP (VBP conclude) (NP (DT the) (NN report))) (CC and) (VP (VB give) (NP (NP (DT some) (NN suggestion)) (PP (IN for) (NP (JJ future) (NN work)))))) (. .))

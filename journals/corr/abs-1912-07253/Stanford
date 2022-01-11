@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (JJ new) (JJ numerical) (NN approach)) (PP (IN to) (NP (JJ non-conservative) (JJ dynamical) (NNS systems)))) (. .))
-(S (NP (PRP$ Our) (NN method) (S (VP (VBG being) (PP (IN of) (NP (JJ low) (NN order)))))) (PRN (, ,) (SINV (VP (VBZ enhances)) (NP (NP (JJ qualitative) (NN performance)) (PP (IN of) (NP (JJ standard) (JJ discrete) (NN gradient) (NN algorithm))))) (, ,)) (VP (VBP thank) (PP (IN to) (NP (NP (JJ new) (NN concept)) (PP (IN of) (NP (DT a) (NN reservoir)))))) (. .))
-(S (NP (NN Paper)) (VP (VBZ is) (PP (IN of) (NP (JJ explanatory) (NN character))) (, ,) (S (VP (VBG focusing) (PP (IN on) (NP (JJ concrete) (JJ non-linear) (JJ physical) (NNS systems)))))) (. .))
-(S (NP (NP (NN Superiority)) (PP (IN of) (NP (NP (PRP$ our) (JJ new) (NN method)) (PP (IN with) (NP (NP (NN respect)) (PP (IN to) (NP (JJ standard) (JJ discrete) (NN gradient) (NN method)))))))) (VP (VBZ is) (VP (VBN observed))) (. .))

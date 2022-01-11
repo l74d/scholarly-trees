@@ -1,4 +1,0 @@
-(S (NP (ADJP (NN Computer) (HYPH -) (VBN based)) (NNS attempts) (S (VP (TO to) (VP (VB construct) (NP (JJR lower) (NNS bounds)) (PP (IN for) (NP (JJ small) (NNP Ramsey) (NNS numbers))))))) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (NP (NP (DT A) (JJ systematic) (NN review)) (PP (IN of) (NP (JJ cyclic) (NNP Ramsey) (NNS graphs)))) (VP (VBZ is) (VP (VBN attempted))) (. .))
-(S (NP (NP (JJ Many)) (VP (VBN known) (SBAR (S (NP (JJR lower) (NNS bounds)) (VP (VBP are)))))) (VP (VBD reproduced)) (. .))
-(S (NP (JJ Several) (JJ new) (NNS bounds)) (VP (VBP are) (VP (VBN reported))) (. .))

@@ -1,8 +1,0 @@
-(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB develop) (NP (NP (DT a) (JJ novel) (NN approach)) (PP (IN for) (NP (JJ cardiac) (NN disease) (NN prediction) (CC and) (NN diagnosis))) (VP (VBG using) (NP (JJ intelligent) (NNS agents)))))))) (. .))
-(S (ADVP (RB Initially)) (NP (DT the) (NNS symptoms)) (VP (VBP are) (VP (VBN preprocessed) (S (VP (VBG using) (NP (ADJP (NN filter) (CC and) (NN wrapper) (VBN based)) (NNS agents)))))) (. .))
-(S (NP (DT The) (NN filter)) (VP (VBZ removes) (NP (DT the) (ADJP (VBG missing) (CC or) (JJ irrelevant)) (NNS symptoms))) (. .))
-(S (NP (NNP Wrapper)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB extract) (NP (NP (DT the) (NN data)) (PP (IN in) (NP (DT the) (NN data) (NN set)))) (PP (VBG according) (PP (TO to) (NP (DT the) (JJ threshold) (NNS limits))))))))) (. .))
-(S (NP (NP (NN Dependency)) (PP (IN of) (NP (DT each) (NN symptom)))) (VP (VBZ is) (VP (VBN identified) (S (VP (VBG using) (NP (NN dependency) (NN checker) (NN agent)))))) (. .))
-(S (NP (DT The) (NN classification)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (ADJP (JJ prior) (CC and) (JJ posterior)) (NN probability)) (PP (IN of) (NP (DT the) (NNS symptoms))) (PP (IN with) (NP (DT the) (NN evidence) (NN value))))))) (. .))
-(S (ADVP (RB Finally)) (NP (DT the) (NNS symptoms)) (VP (VBP are) (VP (VBN classified) (PP (IN in) (PP (TO to) (NP (NP (CD five) (NNS classes)) (RB namely) (NP (NP (NN absence)) (, ,) (VBG starting) (, ,) (NN mild) (, ,) (JJ moderate) (CC and) (JJ serious))))))) (. .))
-(S (S (VP (VBG Using) (NP (DT the) (JJ cooperative) (NN approach)))) (NP (DT the) (NN cardiac) (NN problem)) (VP (VBZ is) (VP (VBN solved) (CC and) (VBN verified))) (. .))

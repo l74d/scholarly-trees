@@ -1,1 +1,0 @@
-(S (PP (IN For) (ADJP (JJ complete))) (NP (NP (NNS graphs)) (CC and) (NP (NML (NN n) (HYPH -) (NNS cubes)) (NNS bounds))) (VP (VBP are) (VP (VBN found) (PP (IN for) (NP (NP (DT the) (JJ possible) (NN number)) (PP (IN of) (NP (NP (NNS colours)) (PP (IN in) (NP (DT an) (NN interval) (NN edge) (NNS colourings))))))))) (. .))

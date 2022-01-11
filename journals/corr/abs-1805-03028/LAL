@@ -1,2 +1,0 @@
-(S (NP (NNP Diekert) (, ,) (NNP Matiyasevich) (CC and) (NNP Muscholl)) (VP (VBD proved) (SBAR (IN that) (S (NP (NP (DT the) (JJ existential) (NN first-order) (NN theory)) (PP (IN of) (NP (NP (DT a) (NN trace) (NN monoid)) (PP (IN over) (NP (DT a) (JJ finite) (NN alphabet)))))) (VP (VBZ is) (ADJP (JJ decidable)))))) (. .))
-(S (NP (PRP We)) (VP (VBP extend) (NP (DT this) (NN result)) (PP (TO to) (NP (NP (DT a) (JJ natural) (NN class)) (PP (IN of) (NP (NP (NN trace) (NNS monoids)) (PP (IN with) (NP (ADJP (RB infinitely) (JJ many)) (NNS generators)))))))) (. .))

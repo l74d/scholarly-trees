@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ two-Lee-weight) (NNS codes)))) (PP (IN over) (NP (NP (DT the) (VBG ring) ($ $) (NNP R_k)) (, ,) (NP (NP ($ $)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN defined) (PP (IN as) (NP (NP (NN trace) (NNS codes)) (PP (IN with) (NP (NP (JJ algebraic) (NN structure)) (PP (IN of) (NP (JJ abelian) (NNS codes))))))))))))))) (. .))
-(S (NP (NP (DT The) (NNP Lee) (VBD weight) (NN distribution)) (PP (IN of) (NP (DT the) (JJ two-weight) (NNS codes)))) (VP (VBZ is) (VP (VBN given))) (. .))
-(S (S (VP (VBG Taking) (NP (DT the) (NNP Gray) (NN map)))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (JJ optimal) (JJ abelian) (JJ binary) (JJ two-weight) (NNS codes)) (PP (IN by) (S (VP (VBG using) (NP (DT the) (NNP Griesmer) (NN bound)))))) (. .))
-(S (NP (NP (DT An) (NN application)) (PP (TO to) (NP (VB secret) (VBG sharing) (NNS schemes)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given))) (. .))

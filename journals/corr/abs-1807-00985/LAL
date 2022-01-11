@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NNP Constraint) (NNP Satisfaction) (NNP Problem) (NNP CSP)) (PRN (-LRB- -LRB-) (NP (NNP A)) (-RRB- -RRB-)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT A)) (VP (VP (VBZ is) (ADJP (JJ first-order) (JJ definable) (PP (IN in) (PRN (-LRB- -LRB-) (NP (NNP Z)) (: ;) (NP (NNP +,1)) (-RRB- -RRB-))))) (CC and) (VP (VBZ contains) (NP (NNP +)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (S (NP (JJ such) (NNS problems)) (VP (VBP are) (PP (RB either) (IN in) (NNP P) (CC or) (NNP NP-complete)))))) (. .))

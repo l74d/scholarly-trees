@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ large-scale) (NN object) (NN detection) (NN system)) (PP (IN by) (NP (NN team) (NNP PFDet))))) (. .))
-(S (NP (PRP$ Our) (NN system)) (VP (VP (VBZ enables) (NP (NP (VBG training)) (PP (IN with) (NP (NP (JJ huge) (NNS datasets)) (VP (VBG using) (NP (CD 512) (NNP GPUs))))))) (, ,) (VP (VBZ handles) (NP (RB sparsely) (JJ verified) (NNS classes))) (, ,) (CC and) (NP (JJ massive) (NN class) (NN imbalance))) (. .))
-(S (S (VP (VBG Using) (NP (PRP$ our) (NN method)))) (, ,) (NP (PRP we)) (VP (VBD achieved) (NP (NP (CD 2nd) (NN place)) (PP (IN in) (NP (NP (DT the) (NNP Google) (NNP AI) (NNP Open) (NNP Images) (NNP Object) (NNP Detection) (NNP Track) (CD 2018)) (PP (IN on) (NP (NNP Kaggle))))))) (. .))

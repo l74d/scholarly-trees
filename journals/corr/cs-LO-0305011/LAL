@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN type) (NN inference) (NN algorithm)) (PP (IN for) (NP (NNS lambda-terms))) (PP (IN in) (NP (NNP Elementary) (NNP Affine) (NNP Logic))) (VP (VBG using) (NP (JJ linear) (NNS constraints))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (DT the) (NN algorithm)) (VP (VBZ is) (ADJP (JJ correct) (CC and) (JJ complete)))))) (. .))

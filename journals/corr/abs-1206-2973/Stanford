@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN range)) (PP (IN of) (NP (NP (DT a) (JJ symmetric) (NN matrix)) (PP (IN over) (NP (NN F_2)))))) (VP (VBZ contains) (NP (NP (DT the) (NN vector)) (PP (IN of) (NP (PRP$ its) (JJ diagonal) (NNS elements)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP apply) (S (NP (NP (DT the) (NN theorem)) (PP (IN to) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (DT the) (`` ") (NNS Lights)))))) (PP (IN Out) (`` ") (NP (NN problem))) (PP (IN on) (NP (NNS graphs))))) (. .))

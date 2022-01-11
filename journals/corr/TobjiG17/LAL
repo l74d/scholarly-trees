@@ -1,5 +1,0 @@
-(S (NP (NP (NNP Maintenance)) (PP (IN of) (NP (NN association) (NNS rules)))) (VP (VBZ is) (NP (DT an) (JJ interesting) (NN problem))) (. .))
-(S (NP (JJ Several) (JJ incremental) (NN maintenance) (NNS algorithms)) (VP (VBD were) (VP (VBN proposed) (PP (IN since) (NP (NP (DT the) (NN work)) (PP (IN of) (PRN (-LRB- -LRB-) (NP (NP (NNP Cheung) (RB et) (RB al)) (, ,) (NP (CD 1996))) (-RRB- -RRB-))))))) (. .))
-(S (NP (NP (DT The) (NN majority)) (PP (IN of) (NP (DT these) (NNS algorithms)))) (VP (VBP maintain) (NP (NP (NN rule) (NNS bases)) (VP (VBG assuming) (SBAR (IN that) (S (NP (NN support) (NN threshold)) (VP (VBZ does) (RB n't) (VP (VB change)))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (JJ incremental) (NN maintenance) (NN algorithm)) (PP (IN under) (NP (NN support) (NN threshold) (NN change))))) (. .))
-(S (NP (DT This) (NN solution)) (VP (VBZ allows) (S (NP (JJR user)) (VP (TO to) (VP (VB maintain) (NP (PRP$ its) (NN rule) (NN base)) (PP (IN under) (NP (DT any) (NN support) (NN threshold))))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (NP (JJ Numerical) (NNS experiments)) (PP (IN for) (NP (ADJP (DT both) (JJ smooth) (CC and) (JJ singular)) (NNS solutions)))) (VP (NN support) (NP (NN convergence) (NN rate) (NN optimality)) (PP (IN on) (NP (NP (ADJP (RB spatially) (VBN refined)) (NNS meshes)) (PP (IN of) (NP (DT the) (ADJP (JJ full) (CC and) (JJ sparse)) (JJ space-time) (NNP DG) (NNS schemes)))))) (. .))

@@ -1,2 +1,0 @@
-(SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (DT a) (JJ typical) (NN road) (NN network)) (VP (NN look) (PP (IN like)))) (. ?))
-(S (NP (VBG Existing) (JJ generative) (NNS models)) (VP (VBP tend) (S (VP (TO to) (VP (VB focus) (PP (IN on) (NP (CD one) (NN aspect))) (PP (TO to) (NP (NP (DT the) (NN exclusion)) (PP (IN of) (NP (NNS others))))))))) (. .))

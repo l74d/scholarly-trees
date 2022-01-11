@@ -1,3 +1,0 @@
-(S (NP (NP (DT This) (JJ technical) (NN report) (NNS documents)) (NP (NP (DT the) (NN poster) (NN session)) (PP (IN of) (NP (NNP SSS) (CD 2005))))) (, ,) (NP (NP (DT the) (NNP Symposium)) (PP (IN on) (NP (ADJP (NN Self) (HYPH -) (VBG Stabilizing)) (NNPS Systems)))) (VP (VBN published) (PP (IN by) (NP (NNP Springer))) (PP (IN as) (NP (NN LNCS) (NN volume) (CD 3764)))) (. .))
-(S (NP (DT The) (NN poster) (NN session)) (VP (VBD included) (NP (CD five) (NNS presentations))) (. .))
-(S (NP (NP (CD Two)) (PP (IN of) (NP (DT these) (NNS presentations)))) (VP (VBP are) (VP (VBN summarized) (PP (IN in) (NP (NP (JJ brief) (NNS abstracts)) (SBAR (S (VP (VBD contained) (PP (IN in) (NP (DT this) (JJ technical) (NN report)))))))))) (. .))

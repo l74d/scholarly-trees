@@ -1,2 +1,0 @@
-(S (NP (DT This) (JJ seminar) (NN report)) (VP (VBZ is) (VP (VBN concerned) (PP (IN with) (S (VP (VBG expressing) (NP (NP (NNP LPO-termination)) (PP (IN of) (NP (NN term) (JJ rewrite) (NNS systems)))) (PP (IN as) (NP (NP (DT a) (NN satisfiability) (NN problem)) (PP (IN in) (NP (JJ propositional) (NN logic)))))))))) (. .))
-(S (SBAR (IN After) (S (NP (JJ relevant) (NN algorithms)) (VP (VBP are) (VP (VBN explained))))) (, ,) (NP (JJ experimental) (NNS results)) (VP (VBP are) (VP (VBN reported))) (. .))

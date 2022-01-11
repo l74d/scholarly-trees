@@ -1,3 +1,0 @@
-(S (NP (NNP Data) (NN serialization)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ common) (CC and) (JJ crucial)) (NN component)) (PP (IN in) (NP (JJ high) (NN performance) (NN computing))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP I)) (VP (VBP present) (NP (NP (DT a) (ADJP (NNP C++11) (VBN based)) (NN serialization) (NN library)) (PP (IN for) (NP (ADJP (NN performance) (JJ critical)) (NNS systems))))) (. .))
-(S (NP (PRP It)) (VP (VP (VBZ provides) (NP (NP (DT an) (NN interface)) (ADJP (ADJP (JJ similar) (PP (TO to) (NP (VB Boost)))) (CC but) (ADJP (NP (QP (RB up) (TO to) (CD 150)) (NN %)) (RBR faster))))) (CC and) (VP (VB beats) (NP (JJ several) (JJ popular) (NN serialization) (NNS libraries)))) (. .))

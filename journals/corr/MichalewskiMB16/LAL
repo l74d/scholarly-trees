@@ -1,2 +1,0 @@
-(S (NP (NNP Subzero) (NN automata)) (VP (VBZ is) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NP (JJ tree) (NNS automata)) (SBAR (WHNP (WP$ whose) (NN acceptance) (NN condition)) (S (VP (MD can) (VP (VB express) (NP (JJ probabilistic) (NNS constraints)))))))))) (. .))
-(S (NP (PRP$ Our) (JJ main) (NN result)) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG determining) (SBAR (IN if) (S (NP (DT a) (NN subzero) (NN automaton)) (VP (VBZ accepts) (NP (DT some) (JJ regular) (NN tree))))))))) (VP (VBZ is) (ADJP (JJ decidable)))))) (. .))

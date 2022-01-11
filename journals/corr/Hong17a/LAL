@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ generative) (JJ probabilistic) (NNS models)) (PP (IN for) (NP (JJ label) (NN aggregation))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (NP (JJ Gibbs) (NN sampling)) (CC and) (NP (DT a) (JJ novel) (JJ variational) (NN inference) (NN algorithm))) (S (VP (TO to) (VP (VB perform) (NP (DT the) (JJ posterior) (NN inference)))))) (. .))
-(S (NP (JJ Empirical) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NNS methods)) (VP (ADVP (RB consistently)) (IN outperform) (NP (JJ state-of-the-art) (NNS methods)))))) (. .))

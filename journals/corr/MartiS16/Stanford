@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP present) (NP (NP (DT the) (NN logic) (NN iJT4)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT an) (JJ explicit) (NN version)) (PP (IN of) (NP (JJ intuitionistic) (NN S4))))))))) (CC and) (VP (VB establish) (NP (NN soundness) (CC and) (NN completeness)) (PP (IN with) (NP (NN respect))) (PP (IN to) (NP (JJ modular) (NNS models))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (JJ pure) (NN divide-and-conquer) (NN parallel) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (CD 3D) (NN convex) (NNS hulls))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP implement) (NP (IN that) (NN algorithm)) (PP (IN on) (NP (NNP GPU) (NN hardware)))) (, ,) (CC and) (VP (VB find) (NP (NP (DT a) (JJ significant) (NN speedup)) (PP (IN over) (NP (JJ comparable) (NNP CPU) (NNS implementations)))))) (. .))

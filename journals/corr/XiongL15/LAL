@@ -1,1 +1,0 @@
-(S (NP (NP (PRP It))) (VP (VBZ is) (ADJP (VBG interesting)) (S (VP (TO to) (VP (VB note) (SBAR (IN that) (S (NP (NP (JJ many) (JJ cyclic) (NNS codes)) (PP (IN in) (NP (DT the) (NN family)))) (VP (VP (VBP are) (ADJP (JJ optimal))) (CC and) (VP (VBP have) (NP (QP (RB only) (DT a) (JJ few)) (JJ non-zero) (NNS weights)))))))))) (. .))

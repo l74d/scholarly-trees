@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (NP (NN quantum) (NNS gates)) (PRN (-LRB- -LRB-) (NP (JJ unitary) (NNS operators)) (-RRB- -RRB-)))) (PP (IN from) (NP (JJ boolean) (NNS functions))))) (CC and) (VP (VB give) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS applications)))))) (. .))
-(S (NP (ADJP (DT Both) (JJ non-reversible) (CC and) (JJ reversible)) (JJ boolean) (NNS functions)) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (NP (NP (DT The) (NN construction)) (PP (IN of) (NP (DT the) (NNP Hamilton) (NN operator))) (PP (IN for) (NP (DT a) (NN quantum) (NN gate)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN described) (SBAR (IN with) (S (NP (DT the) (NNP Hamilton) (NN operator)) (VP (VBD expressed) (PP (IN as) (NP (NN spin) (NN system)))))))) (. .))
-(S (NP (NNP Computer) (NN algebra) (NNS implementations)) (VP (VBP are) (VP (VBN provided))) (. .))

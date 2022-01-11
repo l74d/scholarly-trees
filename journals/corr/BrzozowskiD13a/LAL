@@ -1,2 +1,0 @@
-(S (NP (DT A) (JJ right) (NN ideal)) (VP (VBZ is) (NP (NP (DT a) (NN language) (NNP L)) (PP (IN over) (NP (DT an) (NN alphabet) (NN A))) (SBAR (WHNP (WDT that)) (S (VP (VBZ satisfies) (NP (NNP L) (NNP =) (NNP LA*))))))) (. .))
-(S (PP (IN In) (NP (DT that) (NN sense))) (, ,) (NP (NP (DT this) (NN stream)) (PP (IN of) (NP (JJ right) (NNS ideals)))) (VP (VBZ is) (NP (DT a) (JJ universal) (NN witness))) (. .))

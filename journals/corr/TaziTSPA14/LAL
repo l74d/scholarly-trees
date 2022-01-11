@@ -1,2 +1,0 @@
-(S (NP (NP (JJ Experimental) (VBZ means)) (SBAR (S (VP (TO to) (VP (VB characterize) (NP (NP (NN delay) (NNS faults)) (VP (VBN induced) (PP (IN by) (NP (NP (NN bit) (NNS flips)) (CC and) (NP (NNP SEUs)))) (PP (IN in) (NP (NP (NNP I/O) (NNS blocks)) (PP (IN of) (NP (JJ SRAM-based) (NNP FPGAs)))))))))))) (VP (VBP are) (VP (VBN proposed))) (. .))
-(S (NP (NP (DT A) (NN delay) (NN fault)) (ADVP (RB up) (PP (TO to) (NP (CD 6.2ns)))) (VP (VBN sensitized) (PP (IN by) (NP (DT an) (NNS events) (NN chain))))) (VP (VBZ is) (VP (VBN reported))) (. .))

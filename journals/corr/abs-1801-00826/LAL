@@ -1,5 +1,0 @@
-(S (NP (NNS ruptures)) (VP (VBZ is) (NP (NP (DT a) (NNP Python) (NN library)) (PP (IN for) (NP (JJ offline) (NN change) (NN point) (NN detection))))) (. .))
-(S (NP (DT This) (NN package)) (VP (VBZ provides) (NP (NP (NNS methods)) (PP (IN for) (NP (NP (DT the) (NN analysis) (CC and) (NN segmentation)) (PP (IN of) (NP (JJ non-stationary) (NNS signals))))))) (. .))
-(S (NP (VBN Implemented) (JJ algorithms)) (VP (VBP include) (NP (NP (ADJP (JJ exact) (CC and) (JJ approximate)) (NN detection)) (PP (IN for) (NP (JJ various) (ADJP (JJ parametric) (CC and) (JJ non-parametric)) (NNS models))))) (. .))
-(S (NP (NNS ruptures)) (VP (VBZ focuses) (PP (IN on) (NP (NP (NN ease)) (PP (IN of) (NP (NN use))))) (PP (IN by) (S (VP (VBG providing) (NP (DT a) (ADJP (JJ well-documented) (CC and) (JJ consistent)) (NN interface)))))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (NNS thanks)) (PP (TO to) (NP (PRP$ its) (JJ modular) (NN structure)))) (, ,) (NP (JJ different) (NN algorithms) (CC and) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN connected) (CC and) (VBN extended) (PP (IN within) (NP (DT this) (NN package)))))) (. .))

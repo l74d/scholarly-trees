@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP set) (PRT (RP up)) (NP (NP (DT a) (NN model)) (PP (IN for) (S (VP (VBG reasoning) (PP (IN about) (NP (JJ metric) (NNS spaces))) (PP (IN with) (NP (JJ belief) (JJ theoretic) (NNS measures)))))))) (. .))
-(S (NP (NP (DT The) (NN uncertainty)) (PP (IN in) (NP (DT these) (NNS spaces)))) (VP (VBZ stems) (PP (IN from) (NP (DT both) (NN probability) (CC and) (JJ metric)))) (. .))
-(S (S (VP (TO To) (VP (VB represent) (NP (NP (DT both) (NN aspect)) (PP (IN of) (NP (NN uncertainty))))))) (, ,) (NP (PRP we)) (VP (VBP choose) (NP (DT an) (JJ expected) (NN distance) (NN function)) (PP (IN as) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NN uncertainty)))))) (. .))
-(S (NP (NP (DT A) (JJ formal) (JJ logical) (NN system))) (VP (VBZ is) (VP (VBN constructed) (PP (IN for) (NP (NP (DT the) (VBG reasoning)) (PP (IN about) (NP (VBN expected) (NN distance))))))) (. .))
-(S (NP (NN Soundness) (CC and) (NN completeness)) (VP (VBP are) (VP (VBN shown) (PP (IN for) (NP (DT this) (NN logic))))) (. .))
-(S (PP (IN For) (NP (NP (VBG reasoning)) (PP (IN on) (NP (NN product) (JJ metric) (NN space))) (PP (IN with) (NP (NN uncertainty))))) (, ,) (NP (DT a) (JJ new) (JJ metric)) (VP (VBZ is) (VP (VP (VBN defined)) (CC and) (VP (VBN shown) (S (VP (TO to) (VP (VB have) (NP (JJ good) (NNS properties)))))))) (. .))

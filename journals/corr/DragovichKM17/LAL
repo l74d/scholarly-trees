@@ -1,6 +1,0 @@
-(S (NP (NP (JJ Ultrametric) (NN approach)) (PP (TO to) (NP (NP (DT the) (JJ genetic) (NN code)) (CC and) (NP (DT the) (NN genome))))) (VP (VBZ is) (VP (VBN considered) (CC and) (VBN developed))) (. .))
-(S (NP (NP (ADJP ($ $) (JJ p) ($ $) (JJ -Adic)) (NN degeneracy)) (PP (IN of) (NP (DT the) (JJ genetic) (NN code)))) (VP (VBZ is) (VP (VBN pointed) (PRT (RP out)))) (. .))
-(S (NP (NP (NNP Ultrametric) (NN tree)) (PP (IN of) (NP (DT the) (JJ codon) (NN space)))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (NNS codons)) (CC and) (NP (JJ amino) (NNS acids))) (VP (MD can) (VP (VB be) (VP (VBN treated) (PP (IN as) (NP (ADJP ($ $) (JJ p) ($ $) (JJ -adic)) (JJ ultrametric) (NNS networks)))))))))) (. .))
-(S (NP (NP (JJ Ultrametric) (NN modification)) (PP (IN of) (NP (DT the) (NNP Hamming) (NN distance)))) (VP (VBZ is) (VP (VP (VBN defined)) (CC and) (VP (VBD noted) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (ADJP (JJ useful))))))))) (. .))
-(S (NP (NP (JJ Ultrametric) (NN approach)) (PP (IN with) (NP ($ $) (JJ p) ($ $) (JJ -adic) (NN distance)))) (VP (VBZ is) (NP (NP (DT an) (ADJP (JJ attractive) (CC and) (JJ promising)) (NN trend)) (PP (NNS towards) (NP (NP (NN investigation)) (PP (IN of) (NP (NN bioinformation))))))) (. .))

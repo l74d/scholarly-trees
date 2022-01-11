@@ -1,5 +1,0 @@
-(S (NP (NP (NN Incompleteness) (NNS theorems)) (PP (IN of) (NP (NP (NNP Godel)) (, ,) (NP (NNP Turing)) (, ,) (NP (NNP Chaitin)) (, ,) (CC and) (NP (JJ Algorithmic) (NN Information) (NN Theory))))) (VP (VBP have) (NP (JJ profound) (JJ epistemological) (NNS implications))) (. .))
-(NP (NP (NN Incompleteness) (NNS limits)) (SBAR (S (NP (PRP$ our) (NN ability)) (VP (TO to) (ADVP (RB ever)) (VP (VB understand) (NP (DT every) (JJ observable) (NN phenomenon)) (PP (IN in) (NP (DT the) (NN universe))))))) (. .))
-(S (NP (NN Incompleteness)) (VP (VBZ limits) (NP (NP (DT the) (NN ability)) (PP (IN of) (NP (JJ evolutionary) (NNS processes)))) (PP (IN from) (S (VP (VBG finding) (NP (JJ optimal) (NNS solutions)))))) (. .))
-(S (NP (NN Incompleteness)) (VP (VBZ limits) (NP (NP (DT the) (NN detectability)) (PP (IN of) (NP (NN machine) (NN consciousness))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB convey) (NP (NP (DT these) (NNS thoughts) (CC and) (NNS results)) (PP (IN in) (NP (DT a) (ADJP (RB somewhat) (JJ entertaining)) (NN manner))))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NML (NNP Lambek) (HYPH -) (NNP Grishin)) (NN calculus)) (NP (NNP LG))) (VP (VBZ is) (NP (NP (DT the) (JJ symmetric) (NN extension)) (PP (IN of) (NP (NP (DT the) (JJ non-associative) (NNP Lambek) (NN calculus)) (NP (NNP NL)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN derivability) (NN problem)) (PP (IN for) (NP (NNP LG)))) (VP (VBZ is) (ADJP (NP (NNP NP)) (HYPH -) (JJ complete)))))) (. .))

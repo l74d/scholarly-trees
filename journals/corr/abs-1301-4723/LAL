@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP construct) (NP (QP (CD 8) ($ x) (CD 8)) (JJ bijective) (ADJP (RB cryptographically) (JJ strong)) (NNS S-boxes))) (. .))
-(S (NP (PRP$ Our) (NN construction)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG using) (NP (JJ non-bijective) (NN power) (NNS functions)) (PP (IN over) (NP (DT the) (NN finite) (VBN filed)))))))) (. .))

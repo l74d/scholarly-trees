@@ -1,5 +1,0 @@
-(S (NP (JJ Quadratic) (NN assignment) (NN problem)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ great) (NNS challenges)) (PP (IN in) (NP (JJ combinatorial) (NN optimization))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ has) (NP (NP (JJ many) (NNS applications)) (PP (IN in) (NP (NNP Operations) (NML (NN research) (CC and) (NN Computer)) (NN Science))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT the) (NN author)) (VP (VBZ extends) (NP (NP (DT the) (ADJP (RBS most) (HYPH -) (VBN used)) (VBG rounding) (NN approach)) (PP (IN to) (NP (NP (DT a) (ADJP (CD one) (HYPH -) (JJ parametric)) (NN optimization) (NN model)) (PP (IN for) (NP (DT the) (JJ quadratic) (NN assignment) (NNS problems))))))) (. .))
-(S (NP (DT A) (ADJP (JJ near) (HYPH -) (JJ optimum)) (NN parameter)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN predestinated))) (. .))
-(S (NP (DT The) (JJ numerical) (NNS experiments)) (VP (VBP confirm) (NP (DT the) (NN efficiency))) (. .))

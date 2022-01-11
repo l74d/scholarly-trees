@@ -1,1 +1,0 @@
-(S (NP (DT A) (NN reinforcement) (VBG learning) (JJ algorithm)) (VP (NNS accomplishes) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG synthesizing) (NP (NP (DT a) (JJ set-theoretical) (NN formula)) (SBAR (WHNP (WDT that)) (S (VP (VBZ evaluates) (PP (TO to) (NP (VBN given) (NN truth) (NNS values))) (PP (IN for) (NP (VBN given) (NNS assignments)))))))))))) (. .))

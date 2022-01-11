@@ -1,1 +1,0 @@
-(S (NP (NP (PRP It))) (VP (VBZ is) (ADJP (JJ decidable)) (PP (IN for) (NP (JJ deterministic) (NNP MSO) (JJ definable) (NN graph-to-string) (CC or) (JJ graph-to-tree) (NNS transducers))) (SBAR (IN whether) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ equivalent)) (PP (IN on) (NP (NP (DT a) (JJ context-free) (NN set)) (PP (IN of) (NP (NN graphs))))))))) (. .))

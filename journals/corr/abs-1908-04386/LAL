@@ -1,6 +1,0 @@
-(S (NP (PRP$ Our) (NN sensor) (NN system)) (VP (VBZ consists) (PP (IN of) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (NNP Photonic) (NNP Mixer) (NNP Device) (: -) (NN PMD)) (CC and) (NP (NNP Mono) (JJ optical) (NNS cameras))))))) (. .))
-(S (NP (DT Some) (NN traffic) (NNS signs)) (VP (VBP have) (NP (VBN stripes)) (PP (IN at) (NP (CD 45) (-LRB- -LCB-) (NN deg) (-RRB- -RCB-)))) (. .))
-(S (NP (DT These) (NN traffic) (NNS signs)) (VP (VBP cancel) (NP (NP (JJ different) (NNS restrictions)) (PP (IN on) (NP (DT the) (NN road))))) (. .))
-(S (NP (PRP We)) (VP (VBP detect) (NP (NP (DT this) (NN class)) (PP (IN of) (NP (NNS signs)))) (PP (IN with) (NP (NNP Radon) (NN transformation)))) (. .))
-(S (ADVP (RB Here)) (NP (DT the) (NNP Radon) (NN transformation)) (VP (VBZ is) (VP (VBN calculated) (S (VP (VBG using) (NP (NNP Central) (NNP Slice) (NNP Theorem)))))) (. .))
-(S (NP (PRP We)) (VP (VBP approximate) (NP (NP (DT the) (NN slice)) (PP (IN of) (NP (NN spectrum)))) (PP (IN by) (NP (NP (DT the) (NNP Discrete) (NNP Cosine) (NNP Transformation)) (PRN (-LRB- -LRB-) (NP (NNP DCT)) (-RRB- -RRB-))))) (. .))

@@ -1,1 +1,0 @@
-(S (SBAR (IN Whether) (S (NP (JJ planar) (NNS graphs)) (VP (VBP have) (VP (VBN bounded) (NP (JJ nonrepetitive) (JJ chromatic) (NN number)))))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (JJ open) (NNS problems)) (PP (IN in) (NP (DT the) (NN field))))))) (. .))

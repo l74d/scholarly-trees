@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP compare) (S (NP (JJ submodular) (CC and) (NNP Jaccard) (NNS methods)) (VP (TO to) (VP (VB diversify) (NP (NNP Amazon) (NNP Music) (NNS recommendations)))))) (. .))
-(S (NP (NNP Submodularity)) (ADVP (RB significantly)) (VP (VBZ improves) (NP (NP (NN recommendation) (NN quality)) (CC and) (NP (NN user) (NN engagement)))) (. .))
-(S (PP (IN Unlike) (NP (DT the) (NNP Jaccard) (NN method))) (, ,) (NP (PRP$ our) (JJ submodular) (NN approach)) (VP (VP (VBZ incorporates) (NP (NML (NN item) (NN relevance)) (NN score)) (PP (IN within) (NP (PRP$ its) (NN optimization) (NN function)))) (, ,) (CC and) (VP (VBZ produces) (NP (DT a) (ADJP (ADJP (JJ relevant)) (CC and) (ADJP (RB uniformly) (JJ diverse))) (NN set)))) (. .))

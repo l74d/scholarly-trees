@@ -1,3 +1,0 @@
-(S (NP (NNP Priest)) (VP (VBZ has) (VP (VBN provided) (NP (NP (DT a) (JJ simple) (NN tableau) (NN calculus)) (PP (IN for) (NP (NP (NNP Chellas) (POS 's)) (JJ conditional) (NN logic) (NNP Ck)))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (NNS rules)) (SBAR (WHNP (WDT which)) (, ,) (S (SBAR (WHADVP (WRB when)) (S (VP (VBN added) (PP (TO to) (NP (NP (NNP Priest) (POS 's)) (NN system)))))) (, ,) (VP (NN result) (PP (IN in) (NP (NP (NN tableau) (NN calculi)) (PP (IN for) (NP (NP (NP (NNP Chellas) (POS 's)) (NNP CK)) (CC and) (NP (NP (NNP Lewis) (POS 's)) (NNP VC))))))))))) (. .))
-(S (NP (NP (NN Completeness)) (PP (IN of) (NP (DT these) (NNS tableaux)))) (, ,) (ADVP (RB however)) (, ,) (VP (NNS relies) (PP (IN on) (NP (DT the) (NN cut) (NN rule)))) (. .))

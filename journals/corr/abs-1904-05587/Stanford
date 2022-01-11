@@ -1,1 +1,0 @@
-(S (PP (IN As) (NP (NN application) (NNS examples))) (, ,) (NP (NP (JJ important) (NN performance) (NNS metrics)) (PP (IN like) (NP (NP (DT the) (NN outage) (NN probability)) (CC and) (NP (JJ average) (NN channel) (NN capacity))))) (VP (VBP are) (VP (VBN analyzed))) (. .))

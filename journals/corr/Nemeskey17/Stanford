@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ aims) (S (VP (TO to) (VP (VB make) (PRT (RP up)) (PP (IN for) (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (NP (VBN documented) (NNS baselines)) (PP (IN for) (NP (JJ Hungarian) (NN language) (NN modeling))))))))))) (. .))
-(S (NP (JJ Various) (NNS approaches)) (VP (VBP are) (VP (VBN evaluated) (PP (IN on) (NP (CD three) (ADJP (RB publicly) (JJ available)) (JJ Hungarian) (NNS corpora))))) (. .))
-(S (NP (NP (NN Perplexity) (NNS values)) (ADJP (JJ comparable) (PP (IN to) (NP (NP (NNS models)) (PP (IN of) (NP (ADJP (JJ similar) (HYPH -) (JJ sized)) (JJ English) (NNS corpora))))))) (VP (VBP are) (VP (VBN reported))) (. .))
-(S (NP (DT A) (JJ new) (, ,) (ADJP (RB freely) (JJ downloadable)) (NML (NNP Hungar) (HYPH -) (NNP ian)) (NN benchmark) (NN corpus)) (VP (VBZ is) (VP (VBN introduced))) (. .))

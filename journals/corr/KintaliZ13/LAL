@@ -1,5 +1,0 @@
-(S (NP (JJ Partial) (NNS 1-trees)) (VP (VBP are) (NP (NP (JJ undirected) (NN graphs)) (PP (IN of) (NP (NN treewidth))) (ADVP (ADVP (IN at) (JJS most)) (CD one)))) (. .))
-(S (ADVP (RB Similarly)) (, ,) (NP (JJ partial) (NNS 1-DAGs)) (VP (VBP are) (NP (NP (VBN directed) (NN graphs)) (PP (PP (IN of) (NP (NNP KellyWidth))) (ADVP (ADVP (IN at) (JJS most)) (CD two))))) (. .))
-(S (NP (NP (PRP It))) (VP (VBZ is) (ADJP (JJ well-known)) (SBAR (IN that) (S (NP (DT an) (JJ undirected) (NN graph)) (VP (VBZ is) (NP (DT a) (JJ partial) (JJ 1-tree)) (SBAR (SBAR (IN if) (CC and) (RB only) (IN if)) (S (NP (PRP it)) (VP (VBZ has) (NP (DT no) (NNP K_3) (NN minor))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP generalize) (NP (DT this) (NN characterization)) (PP (TO to) (NP (JJ partial) (JJ 1-DAGs)))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (JJ partial) (NNS 1-DAGs)) (VP (VBP are) (VP (VBN characterized) (PP (IN by) (NP (NP (CD three) (NNS forbidden) (VBD directed) (NNS minors)) (, ,) (NP (NNP K_3) (, ,) (NNP N_4) (CC and) (NNP M_5))))))))) (. .))

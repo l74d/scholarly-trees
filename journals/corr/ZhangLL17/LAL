@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ theoretical) (NN analysis)) (PP (IN for) (NP (DT this) (NN phenomenon))))) (. .))
-(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VB establish) (NP (NP (DT the) (NN threshold)) (SBAR (WHPP (IN below) (WHNP (WDT which))) (S (NP (DT this) (NN convex) (NN procedure)) (VP (VBZ fails) (S (VP (TO to) (VP (VB recover) (NP (NN signal) (CC and) (NN corruption)) (PP (IN with) (NP (JJ high) (NN probability))))))))))) (. .))
-(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP are) (VP (VBN provided) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN correctness) (CC and) (NN sharpness)) (PP (IN of) (NP (PRP$ our) (NNS results))))))))) (. .))

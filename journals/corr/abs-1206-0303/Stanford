@@ -1,3 +1,0 @@
-(S (PP (VBN Given) (NP (CD two) (JJ combinatorial) (NNS triangulations))) (, ,) (SBAR (WHADJP (WRB how) (JJ many)) (S (NP (NN edge)) (VP (VBZ flips)))) (VP (VBP are) (ADJP (JJ necessary) (CC and) (JJ sufficient) (S (VP (TO to) (VP (VB convert) (NP (CD one)) (PP (IN into) (NP (DT the) (JJ other)))))))) (. ?))
-(S (NP (DT This) (NN question)) (VP (VBZ has) (VP (VBN occupied) (NP (NP (NNS researchers)) (PP (IN for) (NP (QP (IN over) (CD 75)) (NNS years)))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ comprehensive) (NN survey)) (, ,) (PP (VBG including) (NP (JJ full) (NNS proofs))) (, ,) (PP (IN of) (NP (DT the) (JJ various) (NNS attempts))) (S (VP (TO to) (VP (VB answer) (NP (PRP it))))))) (. .))

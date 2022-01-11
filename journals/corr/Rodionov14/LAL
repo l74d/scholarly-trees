@@ -1,3 +1,0 @@
-(S (NP (NP (NNP New) (NN algorithm)) (PP (IN for) (S (VP (VBG finding) (NP (ADJP (JJS longest) (VBG increasing)) (NN subsequence)))))) (VP (VBZ is) (VP (VBN discussed))) (. .))
-(S (NP (DT This) (NN algorithm)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS ideas)) (PP (IN of) (NP (NN idempotent) (NNS mathematics))))))) (CC and) (VP (VBZ uses) (NP (NNP Max-Plus) (NN idempotent) (NN semiring)))) (. .))
-(S (NP (NP (NNP Problem)) (PP (IN of) (S (VP (VBG finding) (NP (ADJP (JJS longest) (VBG increasing)) (JJ sub-) (NN sequence)))))) (VP (VBZ is) (VP (VP (VBN reformulated) (PP (IN in) (NP (DT a) (JJ matrix) (NN form)))) (CC and) (VP (VBD solved) (PP (IN with) (NP (JJ linear) (NN algebra)))))) (. .))

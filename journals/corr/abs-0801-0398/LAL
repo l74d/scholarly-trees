@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP relate) (NP (DT the) (NN graph) (NN isomorphism) (NN problem)) (PP (TO to) (NP (NP (DT the) (NN solvability)) (PP (IN of) (NP (NP (JJ certain) (NNS systems)) (PP (IN of) (NP (JJ linear) (NNS equations))) (PP (IN with) (NP (JJ nonnegative) (NNS variables)))))))) (. .))
-(S (NP (DT This) (NN version)) (VP (VBZ replaces) (NP (NP (DT the) (CD two) (JJ previous) (NNS versions)) (PP (IN of) (NP (DT this) (NN paper))))) (. .))

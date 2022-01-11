@@ -1,3 +1,0 @@
-(S (NP (NN Transfer) (NN learning)) (VP (VBZ facilitates) (NP (NP (DT the) (NN training)) (PP (IN of) (NP (NP (ADJP (NN task) (HYPH -) (JJ specific)) (NNS classifiers)) (VP (VBG using) (NP (JJ pre-trained) (NNS models)) (PP (IN as) (NP (NN feature) (NNS extractors)))))))) (. .))
-(S (NP (DT This)) (VP (VBZ motivates) (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (ADJP (NP (DT a) (NN label)) (HYPH -) (JJ blind)) (JJ adversarial) (NN attack))))) (. .))
-(S (NP (DT This) (NN transfer) (NN attack) (NN method)) (VP (VBZ does) (RB not) (VP (VB require) (NP (DT any) (NN information)) (PP (IN about) (NP (NP (DT the) (NML (NN class) (HYPH -) (NN label)) (NN space)) (PP (IN of) (NP (DT the) (NN victim))))))) (. .))

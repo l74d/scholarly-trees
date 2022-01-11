@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ describes) (NP (JJ novel) (NN text) (NN steganalysis) (NN method))) (. .))
-(S (NP (DT The) (NN archiver) (`` ") (NN Bzip2) ('' ")) (VP (VBN used) (PP (IN for) (NP (NP (NN detection) (NN stegotext)) (VP (VBN generated) (PP (IN by) (NP (NNP Texto) (NNP stegosystem))))))) (. .))
-(S (NP (NNS Experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (VBN proposed) (NN approach)) (VP (VBZ gets) (NP (JJR better) (NN performance)) (PP (IN than) (NP (JJ typical) (VBG existing) (NNS methods))))))) (. .))
-(S (NP (DT The) (NN detection) (NN accuracy)) (VP (VBZ exceeds) (NP (CD 99.98) (NN %)) (PP (IN for) (NP (NP (NN text) (NNS segments)) (PP (IN with) (NP (NML (NN size) (CD 400)) (NNS bytes)))))) (. .))

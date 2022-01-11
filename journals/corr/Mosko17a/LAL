@@ -1,2 +1,0 @@
-(S (NP (NN Metis)) (VP (VBZ is) (NP (NP (DT the) (NNP CCNx) (CD 1.0) (NN forwarder)) (SBAR (WHNP (WDT that)) (S (VP (VBZ implements) (NP (DT the) (NNP CCNx) (CD 1.0) (NNPS Semantics) (CC and) (NNP Messages) (NN draft) (NNS standards))))))) (. .))
-(S (NP (DT This) (NN document)) (VP (VBZ describes) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (NP (NNP Metis)) (CC and) (NP (DT the) (JJ internal) (NN software) (NN architecture)))))))) (. .))

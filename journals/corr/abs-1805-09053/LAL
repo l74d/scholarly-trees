@@ -1,4 +1,0 @@
-(S (NP (NP (NNS Series)) (PP (IN of) (NP (JJ maximum) (NN distance) (VBD quantum) (JJ error-correcting) (NNS codes)))) (VP (VBP are) (VP (VBN developed) (CC and) (VBN analysed))) (. .))
-(S (PP (IN For) (NP (DT a) (NX (VBN given) (NN rate)) (CC and) (NX (VBN given) (NN error-correction) (NN capability)))) (, ,) (NP (NP (JJ quantum) (JJ error-correcting) (NNS codes)) (PP (IN with) (NP (DT these) (NNS specifications)))) (VP (VBP are) (VP (VBN constructed))) (. .))
-(S (NP (DT The) (NNS codes)) (VP (VBP are) (ADJP (JJ explicit)) (PP (IN with) (NP (JJ efficient) (VBG decoding) (NN algorithms)))) (. .))
-(S (PP (IN For) (NP (DT a) (VBN given) (NN field))) (NP (ADJP (JJ maximum) (JJ length)) (NN quantum) (NNS codes)) (VP (VBP are) (VP (VBN constructed))) (. .))

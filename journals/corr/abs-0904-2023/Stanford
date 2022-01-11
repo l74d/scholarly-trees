@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (NN protocol)) (PP (IN for) (NP (NML (NML (QP (CD 1) (HYPH -) (CD 2))) (-LRB- -LRB-) (NML (NP (NN String))) (-RRB- -RRB-)) (JJ Oblivious) (NN Transfer)))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (DT The) (NN protocol)) (VP (VBZ uses) (NP (NP (CD 5) (NNS rounds)) (PP (IN of) (NP (NN message) (NN exchange))))) (. .))

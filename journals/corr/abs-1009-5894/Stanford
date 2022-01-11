@@ -1,3 +1,0 @@
-(S (NP (DT This)) (VP (VBZ is) (NP (DT a) (CD 1971) (NN dissertation))) (. .))
-(S (NP (RB Only) (PRP$ its) (JJ extended) (NN abstract)) (VP (VBD was) (VP (VBN published) (PP (IN at) (NP (DT the) (NN time))))) (. .))
-(S (SBAR (IN While) (S (NP (DT some) (NNS results)) (VP (VBD appeared) (PP (IN in) (NP (JJ other) (NNS publications)))))) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS details)))) (VP (VP (VBD remained) (ADJP (JJ unpublished))) (CC and) (VP (MD may) (ADVP (RB still)) (VP (VB have) (NP (NN relevance))))) (. .))

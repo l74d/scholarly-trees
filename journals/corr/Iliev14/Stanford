@@ -1,5 +1,0 @@
-(S (NP (NP (DT The) (JJ contemporary) (NN development)) (PP (IN of) (NP (NN hardware) (NNS components)))) (VP (VBZ is) (NP (NP (DT a) (NN prerequisite)) (PP (IN for) (S (VP (VBG increasing) (NP (NP (DT the) (NN concentration)) (PP (IN of) (NP (VBG computing) (NN power))))))))) (. .))
-(S (NP (NN System) (NN software)) (VP (VBZ is) (VP (VBG developing) (PP (IN at) (NP (DT a) (ADJP (JJ much) (JJR slower)) (NN pace))))) (. .))
-(S (S (VP (TO To) (VP (VB use) (NP (JJ available) (NNS resources)) (S (ADVP (RB efficiently)) (VP (VBG modeling)))))) (VP (VBZ is) (VP (VBN required))) (. .))
-(S (NP (NP (NP (NN Formalization)) (PP (IN of) (NP (NNS elements)))) (, ,) (ADJP (JJ present) (PP (IN in) (NP (DT the) (NN material)))) (, ,)) (VP (VBZ provides) (NP (NP (DT the) (NN basis)) (PP (IN for) (NP (NN modeling))))) (. .))
-(S (NP (NNS Examples)) (VP (VBP are) (VP (VBN presented) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (NN concept))))))))) (. .))

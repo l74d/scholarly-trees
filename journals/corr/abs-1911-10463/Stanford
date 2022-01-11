@@ -1,2 +1,0 @@
-(FRAG (S (NP (NML (NNP Petrov) (HYPH -) (NNP Galerkin)) (NNS methods)) (VP (VBP are) (ADVP (RB always)) (VP (VBN considered) (PP (IN in) (NP (NP (JJ numerical) (NNS solutions)) (PP (IN of) (NP (ADJP (JJ differential) (CC and) (JJ integral)) (NNS equations)))))))) (FRAG (NP ($ $) (CD Ax)) (NP (SYM =) (CD b)) (NP ($ $))) (. .))
-(S (NP (JJ Several) (NNS applications)) (VP (VBP show) (NP (PRP$ its) (NN power))) (. .))

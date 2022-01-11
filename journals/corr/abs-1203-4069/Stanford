@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (NN case)) (PP (IN of) (NP (JJ special) (NN interest)))) (VP (VBZ is) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN host) (NN graph)) (VP (VBZ is) (NP (DT a) (JJ common) (JJ parallel) (NN architecture)))))) (. .))
-(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP discuss) (NP (DT the) (NN case)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN host) (NN graph)) (VP (VBZ is) (NP (DT a) (ADJP (NP (NP ($ $) (CD k)) (NP ($ $))) (HYPH -) (JJ dimensional)) (NN mesh)))))) (. .))

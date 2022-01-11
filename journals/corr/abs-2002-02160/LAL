@@ -1,3 +1,0 @@
-(S (ADVP (RB Therefore)) (, ,) (NP (PRP it)) (VP (VBZ has) (NP (JJ asymmetric) (NNS solutions)) (PP (IN on) (NP (DT a) (JJ symmetric) (NN domain))) (SBAR (RB even) (IN though) (S (NP (DT the) (NNP Emden) (NN equation)) (VP (VBZ has) (NP (DT no) (JJ asymmetric) (JJ unidirectional) (NN solution)) (PP (IN on) (NP (PDT such) (DT a) (NN domain))))))) (. .))
-(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (PRP we)) (VP (VBP find) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS solutions)) (PP (IN with) (NP (CD three) (NNS peaks))))))) (. .))
-(S (NP (NP (DT The) (NN bifurcation) (NNS curves)) (PP (IN of) (NP (JJ such) (NNS solutions)))) (VP (VBP are) (VP (VBN shown) (PP (IN for) (NP (DT a) (NN square) (NN domain))))) (. .))

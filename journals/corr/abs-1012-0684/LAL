@@ -1,4 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (NNS deals) (PP (IN with) (NP (NP (JJ joint) (NN state) (CC and) (NN parameter) (NN estimation)) (PP (IN for) (NP (JJ nonlinear) (JJ continuous-time) (NNS systems)))))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (DT a) (JJ guaranteed) (NNP LPV) (NN approximation)))) (, ,) (NP (DT the) (NN set) (JJ adaptive) (NNS observers) (NN design) (NN problem)) (VP (VBZ is) (VP (VBN solved) (S (VP (VBG avoiding) (NP (NP (DT the) (JJ exponential) (NN complexity) (NN obstruction)) (VP (ADVP (RB usually)) (VBN met) (PP (IN in) (NP (DT the) (JJ set-membership) (NN parameter) (NN estimation))))))))) (. .))
-(S (NP (NP (JJ Potential) (NN application)) (PP (TO to) (NP (VB fault) (NN diagnosis)))) (VP (VBZ is) (VP (VBN considered))) (. .))
-(S (NP (NP (DT The) (NN efficacy)) (PP (IN of) (NP (DT the) (VBN proposed) (NN set) (JJ adaptive) (NNS observers)))) (VP (VBZ is) (VP (VBN demonstrated) (PP (IN on) (NP (JJ several) (NNS examples))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (NP (JJ Recent) (NNS advances)) (PP (IN in) (NP (NP (JJ deep) (NN representation) (NN learning)) (PP (IN on) (NP (NNP Riemannian) (NNS manifolds)))))) (VP (VBP extend) (NP (JJ classical) (NML (JJ deep) (NN learning)) (NNS operations)) (S (VP (TO to) (ADVP (RBR better)) (VP (VB capture) (NP (NP (DT the) (NN geometry)) (PP (IN of) (NP (DT the) (NN manifold)))))))) (. .))
-(S (S (VP (TO To) (VP (VB demonstrate) (NP (DT this) (NN integration))))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (CD two) (NN case) (NNS studies))) (. .))

@@ -1,4 +1,0 @@
-(SQ (MD Can) (NP (NNP BERT)) (VP (VB generate) (NP (ADJP (RB derivationally) (JJ complex)) (NNS words))) (. ?))
-(S (NP (PRP We)) (VP (VBP present) (NP (DT the) (JJ first) (NN study)) (S (VP (VBG investigating) (NP (DT this) (NN question))))) (. .))
-(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (NP (NNP BERT)) (PP (IN with) (NP (DT a) (JJ derivational) (NN classification) (NN layer)))) (VP (VBZ outperforms) (NP (DT an) (ADJP (NP (NN LSTM)) (HYPH -) (VBN based)) (NN model)))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP$ our) (NNS experiments)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NP (DT the) (NN input) (NN segmentation)) (ADVP (RB crucially))) (RRC (NP (NNS impacts)) (NP (NP (NNP BERT) (POS 's)) (JJ derivational) (NN knowledge))) (, ,)) (PP (CC both) (IN during) (NP (NN training) (CC and) (NN inference)))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (NN Decoding)) (PP (IN of) (NP (DT the) (NN scheme)))) (VP (VBZ integrates) (ADVP (RB easily) (PP (IN in) (NP (DT the) (VBN known) (JJ successive) (NN decoding) (NNS algorithms)) (PP (IN for) (NP (JJ polar) (NNS codes)))))) (. .))
-(S (S (NP (JJ Overall) (NML (NN rate) (CC and) (NN block)) (NN length)) (VP (VBP remain) (ADJP (JJ unchanged)))) (, ,) (NP (DT the) (NN decoding) (NN complexity)) (VP (VBZ is) (ADVP (IN at) (RBS most)) (VP (VBN doubled))) (. .))
-(S (NP (NP (DT A) (NN comparison)) (PP (IN to) (NP (NP (JJ related) (NNS methods)) (PP (IN for) (NP (NP (NN performance) (NN improvement)) (PP (IN of) (NP (JJ polar) (NNS codes)))))))) (VP (VBZ is) (VP (VBN drawn))) (. .))

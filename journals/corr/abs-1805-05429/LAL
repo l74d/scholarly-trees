@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (NP (DT an) (JJ efficient) (JJ key) (NN recovery) (NN attack)) (PP (IN on) (NP (NN code) (VBN based) (NN encryption) (NNS schemes)))) (VP (VBG using) (NP (NP (DT some) (JJ quasi-dyadic) (JJ alternant) (NNS codes)) (PP (IN with) (NP (NN extension) (NN degree) (CD 2))))))) (. .))
-(S (NP (DT This) (NN attack)) (VP (VBZ permits) (S (VP (TO to) (VP (VB break) (NP (NP (DT the) (NN proposal)) (SBAR (S (NP (NNP DAGS)) (ADVP (RB recently)) (VP (VBD submitted) (PP (TO to) (NP (NNP NIST))))))))))) (. .))

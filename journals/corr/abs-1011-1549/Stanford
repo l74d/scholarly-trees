@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP study) (NP (JJ multivariate) (NN vector) (NN sampling) (NNS expansions)) (PP (IN on) (NP (JJ general) (ADJP (RB finitely) (VBN generated)) (ADJP (NP (NN shift)) (HYPH -) (JJ invariant)) (NNS subspaces)))) (. .))
-(S (NP (NP (ADJP (JJ Necessary) (CC and) (JJ sufficient)) (NNS conditions)) (PP (IN for) (NP (DT a) (JJ multivariate) (NML (NN vector) (NN sampling)) (NN theorem))) (S (VP (TO to) (VP (VB hold))))) (VP (VBP are) (VP (VBN given))) (. .))

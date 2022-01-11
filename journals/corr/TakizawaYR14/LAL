@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ stochastic) (NN behavior) (NN analysis)) (PP (IN of) (NP (DT a) (JJ kernel-based) (JJ stochastic) (JJ restricted-gradient) (NN descent) (NN method))))) (. .))
-(S (NP (DT The) (JJ restricted) (NN gradient)) (VP (VBZ gives) (NP (DT a) (JJ steepest) (NN ascent) (NN direction)) (PP (IN within) (NP (DT the) (JJ so-called) (JJ dictionary) (NN subspace)))) (. .))
-(S (NP (DT The) (NN analysis)) (VP (VBZ provides) (NP (NP (DT the) (UCP (NN transient) (CC and) (JJ steady)) (NN state) (NN performance)) (PP (IN in) (NP (DT the) (NN mean) (VBD squared) (JJ error) (NN criterion))))) (. .))
-(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ includes) (NP (NN stability) (NNS conditions)) (PP (IN in) (NP (DT the) (NN mean) (CC and) (JJ mean-square) (NN sense)))) (. .))
-(S (NP (DT The) (JJ present) (NN study)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NP (FRAG (SBAR (DT the) (NNS kernel) (VBN normalized) (JJS least) (JJ mean) (NN square) (PRN (-LRB- -LRB-) (NP (NNP KNLMS)) (-RRB- -RRB-)))) (VBP algorithm)) (VP (ADVP (RB initially)) (VBN proposed) (PP (IN by) (NP (NNP Chen) (CC et) (NN al)))))))))) (. .))
-(S (NP (NN Simulation) (NNS results)) (VP (VBP validate) (NP (DT the) (NN analysis))) (. .))

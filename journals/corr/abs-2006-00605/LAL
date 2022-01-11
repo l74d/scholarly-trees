@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (JJ online) (NN algorithms)) (PP (IN for) (NP (NP (DT the) (ADJP ($ $) (JJ k) ($ $)) (NNS -servers) (NN problem)) (PP (IN on) (NP (NNS trees))))))) (. .))
-(S (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT an) (ADJP (ADJP ($ $) (JJ k) ($ $)) (JJ -competitive)) (NN algorithm)) (PP (IN for) (NP (DT this) (NN problem)))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ is) (NP (DT the) (JJS best) (JJ competitive) (NN ratio)))) (. .))
-(S (NP (NP (NNP M.) (NNP Chrobak)) (CC and) (NP (NNP L.) (NNP Larmore))) (VP (VBD suggested) (NP (PRP it))) (. .))
-(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (DT the) (VBG existing) (NN implementation)) (VP (VBZ has) (NP (NP (ADJP ($ $) (NNP O) (PRN (-LRB- -LRB-) (FW n) (-RRB- -RRB-)) ($ $)) (NN time) (NN complexity)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP ($ $) (JJ n) ($ $)) (VP (VBZ is) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS nodes)) (PP (IN in) (NP (DT a) (NN tree))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP suggest) (NP (NP (DT a) (JJ new) (JJ time-efficient) (NN implementation)) (PP (IN of) (NP (DT the) (NN algorithm))))) (. .))

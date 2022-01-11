@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (ADJP (JJ simple) (, ,) (CC yet) (JJ effective)) (, ,) (NML (JJ Neural) (NN Machine)) (NN Translation) (NN system)) (PP (IN for) (NP (JJ Indian) (NNS languages))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP demonstrate) (NP (NP (DT the) (NN feasibility)) (PP (IN for) (NP (JJ multiple) (NN language) (NNS pairs))))) (, ,) (CC and) (VP (VB establish) (NP (DT a) (JJ strong) (NN baseline)) (PP (IN for) (NP (JJ further) (NN research))))) (. .))

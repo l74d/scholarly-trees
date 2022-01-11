@@ -1,4 +1,0 @@
-(S (NP (NP (NN Lifecycle) (NNS models)) (PP (IN for) (NP (NN research) (NNS data)))) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ abstract) (CC and) (JJ simple))) (. .))
-(S (NP (DT This)) (VP (VBZ comes) (PP (IN at) (NP (NP (DT the) (NN danger)) (PP (IN of) (S (VP (VBG oversimplifying) (NP (NP (DT the) (JJ complex) (NNS concepts)) (PP (IN of) (NP (NML (NN research) (NNS data)) (NN management)))))))))) (. .))
-(S (NP (NP (DT The) (NN analysis)) (PP (IN of) (NP (CD 90) (JJ different) (NN lifecycle) (NNS models)))) (VP (VBP lead) (PP (IN to) (NP (CD two) (NNS approaches))) (S (VP (TO to) (VP (VB assess) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT these) (NNS models)))))))) (. .))
-(S (SBAR (IN While) (S (NP (JJ terminological) (NNS issues)) (VP (VBP make) (NP (NP (JJ direct) (NNS comparisons)) (PP (IN of) (NP (NNS models)))) (ADVP (RB hard))))) (, ,) (NP (DT an) (JJ empirical) (NN evaluation)) (VP (VBZ seems) (ADJP (JJ possible))) (. .))

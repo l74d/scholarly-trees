@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG tagging) (NP (NP (NNS words)) (SBAR (WHNP (WP$ whose) (NML (NML (NN part)) (HYPH -) (PP (IN of) (HYPH -) (NP (NN speech)))) (NNS properties)) (S (VP (VBP are) (ADJP (JJ unknown)))))))))) (. .))
-(S (PP (IN Unlike) (NP (JJ previous) (NN work))) (, ,) (NP (DT the) (NN algorithm)) (VP (VBZ categorizes) (NP (NN word) (NNS tokens)) (PP (IN in) (NP (NP (NN context)) (PP (RB instead) (IN of) (NP (NN word) (NNS types)))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (DT the) (NNP Brown) (NNP Corpus))))) (. .))

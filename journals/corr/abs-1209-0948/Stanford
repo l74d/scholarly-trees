@@ -1,2 +1,0 @@
-(S (NP (DT This) (JJ short) (NNS papers)) (VP (VBZ discusses) (NP (NP (DT the) (NNS issues)) (PP (IN of) (S (VP (VBG teaching) (NP (NN cloud) (NN computing)) (PP (IN from) (NP (NP (DT a) (NN software) (NN engineering)) (CONJP (RB rather) (IN than)) (NP (DT a) (NN business) (NN perspective))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ discusses) (SBAR (WHNP (WP what)) (S (NP (NNS topics)) (VP (MD might) (VP (VB be) (VP (VBN covered) (PP (IN in) (NP (NP (DT a) (JJ senior) (NN course)) (PP (IN on) (NP (NN cloud) (NN software) (NN engineering))))))))))) (. .))

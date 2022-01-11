@@ -1,4 +1,0 @@
-(S (NP (JJ Sparse) (NN coding)) (VP (VBZ has) (VP (VBN achieved) (NP (NP (DT a) (JJ great) (NN success)) (PP (IN in) (NP (JJ various) (NML (NN image) (NN processing)) (NNS tasks)))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (DT a) (NN benchmark) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN sparsity)) (PP (IN of) (NP (NN image) (NN patch) (HYPH /) (NN group)))))))) (VP (VBZ is) (VP (VBG missing) (SBAR (IN since) (S (NP (JJ sparse) (NN coding)) (VP (VBZ is) (ADVP (RB essentially)) (NP (DT an) (ADJP (NP (NNP NP)) (HYPH -) (JJ hard)) (NN problem))))))) (. .))
-(S (NP (DT This) (NN work)) (VP (VBZ attempts) (S (VP (TO to) (VP (VB fill) (NP (DT the) (NN gap)) (PP (IN from) (NP (NP (DT the) (NN perspective)) (PP (IN of) (NP (NN rank) (NN minimization))))))))) (. .))
-(S (NP (JJR More) (NNS details)) (INTJ (UH please)) (VP (VB see) (NP (DT the) (NN manuscript))) (. ....))

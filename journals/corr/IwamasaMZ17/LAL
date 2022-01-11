@@ -1,1 +1,0 @@
-(S (ADVP (IN Furthermore)) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN algorithm)) (PP (IN for) (NP (JJ Z-free) (NN function) (NN minimization))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (ADJP (JJR faster)) (PP (IN than) (NP (NP (JJ previous) (NN algorithms)) (PP (IN for) (NP (DT some) (NN parameter) (NNS values))))))))))) (. .))

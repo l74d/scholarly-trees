@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (ADJP (JJ polynomial) (NN time) (CD 4/3)) (NN approximation) (NN algorithm)) (PP (IN for) (NP (NNP TSP))) (PP (IN on) (NP (NP (NNS metrics)) (VP (VBG arising) (PP (IN from) (NP (NP (DT the) (JJ metric) (NN completion)) (PP (IN of) (NP (JJ cubic) (JJ 3-edge) (VBN connected) (NN graphs)))))))))) (. .))

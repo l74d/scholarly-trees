@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN super-resolution) (PRN (-LRB- -LRB-) (NNP SR) (-RRB- -RRB-)) (NN method)) (PP (IN with) (NP (NP (JJ unpaired) (NN training) (NN dataset)) (PP (IN of) (NP (NP (JJ clinical) (NNP CT)) (CC and) (NP (VB micro) (NNP CT) (NNS volumes)))))))) (. .))
-(S (NP (PRP We)) (VP (VBD proposed) (NP (NP (JJ new) (NN loss) (NNS functions)) (SBAR (S (VP (TO to) (VP (VB keep) (NP (NN cycle) (NN consistency)) (, ,) (SBAR (IN while) (S (VP (VBG training) (PP (IN without) (NP (VBN paired) (NNS volumes)))))))))))) (. .))

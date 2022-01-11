@@ -1,7 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBD read) (NP (NNS newspapers))) (CC and) (VP (VB watch) (NP (NN TV)) (NP-TMP (DT every) (NN day)))) (. .))
-(S (NP (EX There)) (VP (VBP are) (NP (NP (JJ many) (NNS issues)) (CC and) (NP (JJ many) (NNS controversies)))) (. .))
-(S (SBAR (IN Since) (S (NP (NNS media)) (VP (VBP are) (ADJP (JJ free))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB hear) (NP (NNS arguments)) (PP (IN from) (NP (DT every) (JJ possible) (NN side))))) (. .))
-(SBARQ (WHADVP (WRB How)) (SQ (VBP do) (NP (PRP we)) (VP (VB decide) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (JJ wrong) (CC or) (JJ right))))))) (. ?))
-(S (S (NP (DT The) (JJ first) (NN condition) (S (VP (TO to) (VP (VB accept) (NP (DT a) (NN message)))))) (VP (VBZ is) (S (VP (TO to) (VP (VB understand) (NP (PRP it))))))) (: ;) (S (NP (NP (NNS messages)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RB too) (JJ sophisticated)))))) (VP (VBP are) (VP (VBN ignored)))) (. .))
-(S (ADVP (RB So)) (NP (PRP it)) (VP (VBZ seems) (ADJP (JJ reasonable) (S (VP (TO to) (VP (VB assume) (SBAR (IN that) (S (NP (PRP$ our) (NN understanding)) (VP (VBZ depends) (PP (IN on) (NP (NP (PRP$ our) (NN ability)) (CC and) (NP (PRP$ our) (JJ current) (NN knowledge)))))))))))) (. .))
-(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NNS consequences)) (PP (IN of) (NP (DT this) (NN statement)))) (VP (VBP are) (ADJP (JJ surprising) (CC and) (JJ funny)))))) (. .))

@@ -1,8 +1,0 @@
-(S (S (NP (NNP Btree) (CC and) (NNP Rtree)) (VP (VBP are) (NP (CD two) (JJ basic) (NN index) (NNS structures)))) (: ;) (S (NP (NP (JJ many) (JJ different) (NNS variants)) (PP (IN of) (NP (PRP them)))) (VP (VBP are) (VP (VBN proposed) (PP (IN after) (NP (PRP them)))))) (. .))
-(S (NP (JJ Different) (NNS variants)) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (JJ specific) (NN application))) (PP (IN for) (NP (DT the) (NN performance) (NN optimization))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (JJ different) (NNS variants)) (PP (IN of) (NP (NNP Btree) (CC and) (NNP Rtree)))) (VP (VBP are) (VP (VBN discussed) (CC and) (VBN compared))) (. .))
-(S (NP (NN Index) (NNS structures)) (VP (VBP are) (ADJP (JJ different)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN structure)) (, ,) (NP (JJ query) (NN support)) (, ,) (NP (NNS data) (NN type) (NN support)) (CC and) (NP (NN application))))))) (. .))
-(S (NP (NN Index) (NNS structures)) (VP (VBP are) (VP (VBN discussed) (ADVP (RB first)))) (. .))
-(S (S (NP (NP (NNP Btree)) (CC and) (NP (PRP$ its) (NNS variants))) (VP (VBP are) (VP (VBN discussed)))) (CC and) (S (NP (NP (PRP them) (NNP Rtree)) (CC and) (NP (PRP$ its) (NNS variants))) (VP (VBP are) (VP (VBN discussed)))) (. .))
-(S (NP (DT Some) (NNS structures) (NN example)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN shown) (PP (IN for) (NP (DT the) (ADJP (JJR more) (JJ clear)) (NN idea))))) (. .))
-(S (ADVP (RB Then)) (NP (NN comparison)) (VP (VBZ is) (VP (VBN made) (PP (IN between) (NP (DT all) (NN structure))) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (NP (NN complexity)) (, ,) (NP (NN query) (NN type) (NN support)) (, ,) (NP (NNS data) (NN type) (NN support)) (CC and) (NP (NN application)))))))) (. .))

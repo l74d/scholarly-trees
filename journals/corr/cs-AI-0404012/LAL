@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN document)) (VP (VBZ describes) (NP (DT the) (NNS functions)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP are) (VP (VBN treated) (PP (IN in) (NP (DT the) (NNP DLV) (NN system)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP give) (ADVP (RB first)) (NP (DT the) (NN language))) (, ,) (ADVP (RB then)) (VP (VB specify) (NP (DT the) (JJ main) (NN implementation) (NNS issues)))) (. .))

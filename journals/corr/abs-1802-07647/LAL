@@ -1,1 +1,0 @@
-(S (S (NP (DT This)) (VP (VBZ thins) (PRT (RP out)) (NP (DT the) (NN input) (NN graph)) (ADVP (RB relatively) (RB quickly)))) (: :) (S (PP (IN After) (NP (DT this) (NN stage))) (, ,) (NP (NP (DT the) (JJ maximum) (NN degree)) (PP (IN of) (NP (DT the) (JJ residual) (NN graph)))) (VP (VBZ is) (ADJP (JJ poly-logarithmic)))) (. .))

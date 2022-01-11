@@ -1,2 +1,0 @@
-(S (NP (NN Collage) (NNS systems)) (VP (VBP are) (NP (NP (DT a) (JJ general) (NN framework)) (PP (IN for) (S (VP (VBG representing) (NP (NP (NNS outputs)) (PP (IN of) (NP (JJ various) (NN text) (NN compression) (NNS algorithms))))))))) (. .))
-(FRAG (ADVP (RB Here)) (, ,) (NP ($ $)) (NP (NN n) (NML (NML ($ $)) (CC and) (NML ($ $)))) (S (NP (LST (LS h)) (NP ($ $))) (VP (VBP are) (ADVP (RB respectively)) (NP (NP (DT the) (NN size) (CC and) (NN height)) (PP (IN of) (NP (DT the) (NN collage) (NN system)))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NNP Mazurkiewicz) (NNS traces)) (VP (VBP describe) (NP (NP (JJ concurrent) (NNS behaviors)) (PP (IN of) (NP (JJ distributed) (NNS systems))))) (. .))
-(S (NP (NP (JJ Trace-closed) (NN word) (NNS languages)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (`` ``) (NP (NNS linearizations)) ('' '') (PP (IN of) (NP (NN trace) (NNS languages))))))) (, ,)) (VP (VP (VBP constitute) (NP (NP (DT a) (JJR weaker) (NN notion)) (PP (IN of) (NP (NN concurrency))))) (CC but) (VP (ADVP (RB still)) (VB give) (NP (PRP us)) (NP (NP (NNS tools)) (SBAR (S (VP (TO to) (VP (VB investigate) (NP (DT the) (NN latter))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN vein))) (, ,) (NP (PRP$ our) (NN contribution)) (VP (VBZ is) (ADJP (JJ twofold))) (. .))

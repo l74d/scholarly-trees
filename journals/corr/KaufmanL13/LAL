@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (JJ high) (JJ dimensional) (NN expansion) (NN property)) (SBAR (IN as) (S (VP (VBN defined) (PP (IN by) (NP (NNP Gromov) (, ,) (NNP Linial) (CC and) (NNP Meshulam))) (, ,) (PP (IN for) (NP (JJ simplicial) (NNS complexes))))))) (VP (VBZ is) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NN testability)))))))) (. .))
-(S (ADVP (RB Namely)) (, ,) (NP (DT a) (JJ simplicial) (NN complex)) (VP (VBZ is) (NP (DT a) (JJ high) (JJ dimensional) (NN expander)) (SBAR (NN iff) (S (NP (DT a) (JJ suitable) (NN property)) (VP (VBZ is) (ADJP (JJ testable)))))) (. .))
-(S (S (VP (VBG Using) (NP (DT this) (NN connection)))) (, ,) (NP (PRP we)) (VP (VBP derive) (NP (JJ several) (NN testability) (NNS results))) (. .))

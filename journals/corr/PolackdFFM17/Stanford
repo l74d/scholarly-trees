@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN communication)) (VP (VBZ presents) (NP (DT a) (ADJP (NP (JJ longitudinal) (NN model)) (HYPH -) (JJ free)) (NN control) (NN approach)) (PP (IN for) (S (VP (VBG computing) (NP (DT the) (NN wheel) (NN torque) (NN command)) (S (VP (TO to) (VP (VB be) (VP (VBN applied) (PP (IN on) (NP (DT a) (NN vehicle))))))))))) (. .))
-(S (NP (DT This) (NN setting)) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB overcome) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ unknown) (NN vehicle) (NNS parameters)))) (PP (IN for) (S (VP (VBG generating) (NP (DT a) (JJ suitable) (NN control) (NN law))))))))) (. .))
-(S (NP (NP (DT An) (JJ important) (NN parameter)) (PP (IN in) (NP (DT this) (NN control) (NN setting)))) (VP (VBZ is) (VP (VBN made) (NP (NP (NN time) (HYPH -) (VBG varying)) (PP (IN for) (S (VP (VBG ensuring) (NP (NML (NN finite) (HYPH -) (NN time)) (NN stability)))))))) (. .))
-(S (NP (JJ Several) (JJ convincing) (NN computer) (NNS simulations)) (VP (VBP are) (VP (VBN displayed) (CC and) (VBN discussed))) (. .))
-(S (NP (NNS Overshoots)) (VP (VBP become) (ADVP (RB therefore)) (ADJP (JJR smaller))) (. .))
-(S (S (NP (DT The) (VBG driving) (NN comfort)) (VP (VBZ is) (VP (VBN increased)))) (CC and) (S (NP (NP (DT the) (NN robustness)) (PP (IN to) (NP (NN time) (HYPH -) (NNS delays)))) (VP (VBZ is) (VP (VBN improved)))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (DT the) (ADJP (NN max-cut) (CC and) (JJ max-) ($ $) (VB k) ($ $) (CD -cut)) (NNS problems)) (PP (IN under) (NP (JJ graph-based) (NNS constraints)))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (MD can) (VP (VB handle) (NP (NP (DT any) (NN constraint)) (VP (VBN specified) (S (VP (VBG using) (NP (JJ monadic) (NN second-order) (PRN (-LRB- -LRB-) (NNP MSO) (-RRB- -RRB-)) (NN logic)) (PP (IN on) (NP (NP (NN graphs)) (PP (IN of) (NP (JJ constant) (NN treewidth))))))))))) (. .))

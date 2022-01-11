@@ -1,1 +1,0 @@
-(S (NP (DT The) (JJ empty) (NN queue) (NNS probabilities)) (ADVP (IN along) (PP (IN with) (NP (NP (DT the) (NN tail) (NN behaviour)) (PP (IN of) (NP (NP (DT the) (NN workload) (NN distribution)) (PP (IN at) (NP (DT each) (NN queue)))))))) (VP (VBP are) (VP (VBN characterised))) (. .))

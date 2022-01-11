@@ -1,3 +1,0 @@
-(S (NP (DT A) (JJ sufficient) (NN condition)) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB design) (NP (NP (NNS controllers)) (VP (VBG using) (NP (NP (JJ local) (NN system) (NNS states)) (CC and) (NP (JJ local) (NN system) (NN operation) (NNS modes)))))))))) (. .))
-(S (NP (DT The) (JJ sufficient) (NN condition)) (VP (VBZ is) (VP (VBN given) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN rank) (VBN constrained) (JJ linear) (NN matrix) (NNS inequalities))))))) (. .))
-(S (NP (DT An) (JJ illustrative) (JJ numerical) (NN example)) (VP (VBZ is) (VP (VBN given) (S (VP (TO to) (VP (VB demonstrate) (NP (DT the) (JJ developed) (NN theory))))))) (. .))

@@ -1,8 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NNS semantics)) (SBAR (S (VP (TO to) (VP (VB check) (NP (NP (JJ file) (NN safety)) (PP (IN of) (NP (JJ multithreaded) (NNS programs)))))))))) (. .))
-(S (NP (DT A) (JJ file-safe) (NN program)) (VP (VBZ is) (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reaches) (NP (DT a) (JJ final) (NN configuration)) (PP (IN under) (NP (DT the) (VBN proposed) (NNS semantics)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP extend) (NP (DT the) (IN While) (NN language)) (PP (IN with) (NP (NP (JJ file) (NNS operations)) (CC and) (NP (JJ multi-threading) (NNS commands))))) (, ,) (CC and) (VP (VB call) (S (NP (DT the) (JJ new) (NN language)) (NP (NN whilef))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ shows) (SBAR (IN that) (S (NP (DT the) (NN file) (NN safety)) (VP (VBZ is) (NP (NP (DT an) (JJ un-decidable) (NN property)) (PP (IN for) (NP (NN whilef)))))))) (. .))
-(S (NP (DT The) (NN file) (NN safety)) (VP (VBZ becomes) (NP (DT a) (JJ decidable) (NN property)) (PP (IN in) (NP (NP (DT a) (JJ special) (NN case)) (VP (VBN shown) (PP (IN in) (NP (DT this) (NN paper))))))) (. .))
-(S (NP (DT The) (NN case)) (VP (VBZ happens) (SBAR (WHADVP (WRB when)) (S (NP (NNS users)) (VP (VBP provide) (NP (JJ pointer) (NN information)))))) (. .))
-(S (SBAR (IN If) (S (NP (DT the) (NN file)) (VP (VBZ is) (ADJP (JJ safe))))) (NP (PRP we)) (VP (VBP call) (S (NP (PRP it)) (NP (DT a) (ADJP (RB strongly) (JJ safe)) (NN file) (NN program)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP modify) (NP (NP (NP (DT the) (NN syntax)) (CC and) (NP (DT the) (NN semantic))) (PP (IN of) (NP (DT the) (NN language))))) (CC and) (VP (VBD called) (S (NP (PRP it)) (NP (NNP SafeWhilef))))) (. .))

@@ -1,3 +1,0 @@
-(FRAG (FRAG (NP (NNP Proceedings)) (PP (IN of) (NP (NP (DT the) (NN Workshop)) (PP (IN on) (NP (NML (JJ High) (NN Performance)) (NN Energy)))))) (NP (NP (JJ Efficient) (VBN Embedded) (NNPS Systems)) (NP (NP (-LRB- -LRB-) (NNP HIP3ES) (-RRB- -RRB-)) (NP-TMP (CD 2016)))) (. .))
-(FRAG (NP (NNP Prague)) (, ,) (NP-TMP (NNP January) (NN 18th)) (. .))
-(FRAG (S (VP (VBN Collocated) (PP (IN with) (NP (NN HIPEAC))))) (NP (CD 2016) (NN Conference)) (. .))

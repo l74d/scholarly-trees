@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (DT a) (JJ generic) (NN attack)) (PP (IN for) (NP (NP (NNS ciphers)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (IN in) (NP (NN essence))) (NP (NP (DT a) (NN collision) (NN attack)) (PP (IN on) (NP (NP (DT the) (JJ secret) (NNS keys)) (PP (IN of) (NP (NNS ciphers)))))))))))) (. .))

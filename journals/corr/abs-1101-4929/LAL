@@ -1,2 +1,0 @@
-(S (NP (NNP Higher-order) (NN recursion) (NNS schemes)) (VP (VBP are) (NP (NP (JJ recursive) (NNS equations)) (VP (VBG defining) (NP (JJ new) (NNS operations)) (PP (IN from) (NP (VBN given) (NNS ones)))) (VP (VBN called) (S (`` ``) (NP (NNS terminals)) ('' ''))))) (. .))
-(S (NP (PRP We)) (VP (VBP conclude) (SBAR (DT that) (S (NP (DT every) (VBD guarded) (NN higher-order) (NN recursion) (NN scheme)) (VP (VBZ has) (NP (DT a) (JJ unique) (JJ uninterpreted) (NN solution)) (PP (IN in) (NP (DT this) (NN monoid))))))) (. .))

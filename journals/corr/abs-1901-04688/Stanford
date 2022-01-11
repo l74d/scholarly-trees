@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP construct) (NP (NP (DT a) (JJ binary) (JJ minimal) (NN subshift)) (SBAR (WHNP (WHNP (WP$ whose) (NNS words)) (PP (IN of) (NP (NN length) (NN n)))) (S (VP (VBP form) (NP (NP (DT a) (JJ connected) (NN subset)) (PP (IN of) (NP (NP (DT the) (VBG Hamming) (NN graph)) (PP (IN for) (NP (DT each) (NN n.))))))))))))

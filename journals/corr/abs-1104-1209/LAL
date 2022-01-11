@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (JJ pseudo-random) (NN generator)) (SBAR (S (VP (TO to) (VP (VB fool) (NP (ADJP (JJ degree-) ($ $) (JJ d) ($ $)) (JJ polynomial) (NN threshold) (NNS functions)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (DT the) (JJ Gaussian) (NN distribution))))))))))) (. .))

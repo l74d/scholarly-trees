@@ -1,1 +1,0 @@
-(S (NP (NP (DT The) (JJ generalized) (JJ binomial) (NN distribution)) (PP (IN in) (NP (NP (NNP Tsallis) (NNS statistics)) (PRN (-LRB- -LRB-) (NP (NN power-law) (NN system)) (-RRB- -RRB-))))) (VP (VBZ is) (VP (ADVP (RB explicitly)) (VBN formulated) (PP (IN from) (NP (DT the) (JJ precise) (ADJP ($ $) (JJ q) ($ $)) (NP (VBG -Stirling) (POS 's)) (NN formula))))) (. .))

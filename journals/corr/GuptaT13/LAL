@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP propose) (NP (NP (DT a) (JJ rate-based) (NN algorithm)) (VP (VBN inspired) (PP (IN by) (NP (JJ multiplicatively-weighted) (NNP Voronoi) (NN diagrams)))))) (, ,) (CC and) (VP (VB prove) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (JJ optimal) (NNS trade-offs))))))) (. .))
-(S (NP (DT This)) (ADVP (RB also)) (VP (VBZ gives) (NP (PRP us)) (NP (NP (DT another) (JJ logarithmic) (NN approximation) (NN algorithm)) (PP (IN for) (NP (DT the) (NN 0-extension) (NN problem))))) (. .))

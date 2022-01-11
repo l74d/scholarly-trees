@@ -1,2 +1,0 @@
-(S (NP (JJ Variational) (NNS autoencoders)) (VP (VBP provide) (NP (DT a) (JJ principled) (NN framework)) (PP (IN for) (S (VP (VP (VBG learning) (NP (ADJP (JJ deep) (NP (NN latent) (HYPH -) (NN variable))) (NNS models))) (CC and) (VP (VBG corresponding) (NP (NN inference) (NNS models))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (DT an) (NN introduction)) (PP (IN to) (NP (NP (JJ variational) (NNS autoencoders)) (CC and) (NP (DT some) (JJ important) (NNS extensions))))) (. .))

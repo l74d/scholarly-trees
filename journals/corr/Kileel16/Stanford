@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (JJ algebraic) (NN degree)) (PP (IN of) (NP (JJ minimal) (NNS problems)))) (PP (IN for) (NP (NP (DT the) (ADJP (VBN calibrated) (JJ trifocal)) (NN variety)) (PP (IN in) (NP (NN computer) (NN vision)))))) (. .))
-(S (NP (PRP We)) (VP (VBP rely) (PP (IN on) (NP (NP (JJ numerical) (JJ algebraic) (NN geometry)) (CC and) (NP (NP (DT the) (NN homotopy) (NN continuation) (NN software)) (NP (NNP Bertini)))))) (. .))

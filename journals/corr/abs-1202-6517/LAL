@@ -1,4 +1,0 @@
-(S (NP (NP (CD Three) (JJ different) (NNS algorithms)) (VP (VBN used) (PP (IN for) (NP (NN eye) (NN pupil) (NN location))))) (VP (VBD were) (VP (VBN described) (CC and) (VBN tested))) (. .))
-(S (NP (NNP Algorithm) (NN efficiency) (NN comparison)) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (NP (JJ human) (VBZ faces) (NNS images)) (VP (VBN taken) (PP (IN from) (NP (DT the) (NNP BioID) (NN database)))))))) (. .))
-(S (ADVP (RB Moreover)) (NP (PDT all) (DT the) (NN eye) (NN localisation) (NNS methods)) (VP (VBD were) (VP (VBN implemented) (PP (IN in) (NP (NP (DT a) (JJ dedicated) (NN application)) (VP (VBG supporting) (NP (ADJP (NN eye) (NN movement) (VBN based)) (NN computer) (NN control))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN case))) (NP (JJ human) (NN face) (NNS images)) (VP (VBD were) (VP (VP (VBN acquired) (PP (IN by) (NP (DT a) (NN webcam)))) (CC and) (VP (VBN processed) (PP (IN in) (NP (DT a) (NN real-time)))))) (. .))

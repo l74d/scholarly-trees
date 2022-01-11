@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NNP Dual-CES)) (: —) (NP (DT a) (NN novel) (JJ unsupervised) (, ,) (JJ query-focused) (, ,) (JJ multi-document) (JJ extractive) (NN summarizer)))) (. .))
-(S (NP (NNP Dual-CES)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (ADVP (RBR better)) (VB handle) (NP (NP (DT the) (NN tradeoff)) (PP (IN between) (NP (NN saliency) (CC and) (NN focus))) (PP (IN in) (NP (NN summarization))))))))) (. .))
-(S (PP (TO To) (NP (DT this) (NN end))) (, ,) (NP (NNP Dual-CES)) (VP (VBZ employs) (NP (NP (DT a) (JJ two-step) (JJ dual-cascade) (NN optimization) (NN approach)) (PP (IN with) (NP (JJ saliency-based) (JJ pseudo-feedback) (NN distillation))))) (. .))
-(S (ADVP (JJ Overall)) (, ,) (NP (NNP Dual-CES)) (VP (ADVP (RB significantly)) (VBZ outperforms) (NP (DT all) (JJ other) (JJ state-of-the-art) (JJ unsupervised) (NNS alternatives))) (. .))
-(S (NP (NN Dual-CES)) (VP (VBZ is) (ADVP (RB even)) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB outperform) (NP (JJ strong) (JJ supervised) (NNS summarizers))))))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (NNP Shannon) (NN theory)) (VP (VBZ is) (VP (VBN revisited))) (. .))
-(S (PRN (S (NP (DT The) (VBN generalized) (NN channel) (NN capacity) (NN C)) (VP (SYM =) (NP (NN sup_X))))) (NP (NP (PRP I)) (PRN (-LRB- -LRB-) (NP (NN X) (: ;) (NN Y)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBN checked) (PP (IN with) (NP (DT a) (JJ negative) (NN conclusion))))) (. .))

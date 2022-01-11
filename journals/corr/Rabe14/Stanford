@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NN author) (POS 's)) (NN MMT) (NN system)) (VP (VBZ provides) (NP (DT a) (NN framework)) (PP (IN for) (S (VP (VBG defining) (CC and) (VBG implementing) (NP (JJ logical) (NNS systems)))))) (. .))
-(S (PP (IN By) (S (VP (VBG combining) (NP (NN MMT)) (PP (IN with) (NP (DT the) (NN jEdit) (NN text) (NN editor)))))) (, ,) (NP (PRP we)) (VP (VBP obtain) (NP (ADJP (NP (DT a) (NN logic)) (HYPH -) (JJ independent)) (NNP IDE))) (. .))
-(S (NP (DT The) (NNP IDE) (NN functionality)) (VP (VBZ includes) (NP (NP (JJ advanced) (NNS features)) (PP (JJ such) (IN as) (NP (ADJP (NP (NN context)) (HYPH -) (JJ sensitive)) (NML (NML (NN auto) (HYPH -) (NN completion)) (, ,) (NML (NN search)) (, ,) (CC and) (NML (NN change))) (NN management))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NP (VBG Calculating) (NNS similarities)) (PP (IN between) (NP (NP (NNS objects)) (VP (VBN defined) (PP (IN by) (NP (JJ many) (JJ heterogeneous) (NNS data) (NNS modalities))))))) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN challenge)) (PP (IN in) (NP (JJ many) (NNS multimedia) (NNS applications))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (JJ multi-modal) (NN topic) (NN model)) (PP (IN as) (NP (NP (DT a) (NN basis)) (PP (IN for) (S (VP (VBG defining) (NP (NP (PDT such) (DT a) (NN similarity)) (PP (IN between) (NP (NNS objects)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB compare) (NP (DT the) (VBG resulting) (NNS similarities)) (PP (IN from) (NP (JJ different) (NN model) (NNS realizations))) (S (VP (VBG using) (NP (DT the) (JJ non-parametric) (NN Mantel) (NN test)))))))) (. .))
-(S (NP (DT The) (NN approach)) (VP (VBZ is) (VP (VBN evaluated) (PP (IN on) (NP (DT a) (NN music) (NN dataset))))) (. .))

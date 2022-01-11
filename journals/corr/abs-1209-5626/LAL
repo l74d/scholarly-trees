@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN proliferation) (CC and) (NN accessability)) (PP (IN of) (NP (DT the) (NNP Internet)))) (VP (VBP have) (VP (VBN made) (S (NP (NP (PRP it))) (ADJP (JJ simple)) (S (VP (TO to) (VP (VB view) (, ,) (NN download) (, ,) (CC and) (JJ publish) (NP (NN source) (NN code)))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ gives) (NP (NP (DT a) (JJ short) (NN tutorial)) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VP (VB create) (NP (DT a) (JJ new) (NNP Common) (NNP Lisp) (NN project))) (CC and) (VP (VB publish) (NP (PRP it)))))))))) (. .))

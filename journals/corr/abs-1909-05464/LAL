@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (JJ first) (JJ formal) (NNS semantics)) (PP (IN of) (NP (NP (NNP Findel)) (: -) (NP (NP (DT a) (NNP DSL)) (PP (IN for) (S (VP (VBG specifying) (NP (JJ financial) (NNS derivatives)))))))))) (. .))
-(S (S (NP (DT The) (NNS semantics)) (VP (VBZ is) (VP (VBN encoded) (PP (IN in) (NP (NNP Coq)))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP use) (NP (PRP it)) (S (VP (TO to) (VP (VB prove) (NP (NP (NNS properties)) (PP (IN of) (NP (JJ several) (NNP Findel) (NNS contracts))))))))) (. .))

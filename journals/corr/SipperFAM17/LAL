@@ -1,7 +1,0 @@
-(S (NP (NP (DT The) (NN practice)) (PP (IN of) (NP (JJ evolutionary) (NN algorithms)))) (VP (VBZ involves) (NP (NP (DT the) (NN tuning)) (PP (IN of) (NP (JJ many) (NNS parameters))))) (. .))
-(SBARQ (WHADJP (WRB How) (JJ big)) (SQ (MD should) (NP (DT the) (NN population)) (VP (VB be))) (. ?))
-(SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS generations)) (SQ (MD should) (NP (DT the) (NN algorithm)) (VP (VB run))) (. ?))
-(SBARQ (WHNP (WP What)) (SQ (VP (VBZ is) (NP (DT the) (PRN (-LRB- -LRB-) (JJ tournament) (NN selection) (-RRB- -RRB-)) (NN tournament) (NN size)))) (. ?))
-(SBARQ (WHNP (WP What) (VBZ probabilities)) (SQ (MD should) (NP (CD one)) (VP (NN assign) (PP (TO to) (NP (VB crossover) (CC and) (NN mutation))))) (. ?))
-(S (PP (IN Through) (NP (NP (DT an) (JJ extensive) (NN series)) (PP (IN of) (NP (NP (NNS experiments)) (PP (IN over) (NP (JJ multiple) (JJ evolutionary) (NN algorithm) (NNS implementations) (CC and) (NNS problems))))))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NN parameter) (NN space)) (VP (VBZ tends) (S (VP (TO to) (VP (VB be) (ADJP (VBN rife) (PP (IN with) (NP (JJ viable) (NNS parameters)))) (, ,) (PP (ADVP (IN at) (JJS least)) (IN for) (NP (NP (CD 25) (DT the) (NNS problems)) (VP (VBD studied) (ADVP (NN herein)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NNS implications)) (PP (IN of) (NP (DT this) (NN finding))) (PP (IN in) (NP (NN practice))))) (. .))

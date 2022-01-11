@@ -1,3 +1,0 @@
-(S (NP (JJ Relational) (NN lattice)) (VP (VBZ reduces) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (CD six) (JJ classic) (JJ relational) (NN algebra) (NNS operators)))) (PP (TO to) (NP (NP (CD two) (JJ binary) (NN lattice) (NNS operations)) (: :) (NP (NP (JJ natural) (NN join)) (CC and) (NP (NN inner) (NN union)))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (NN introduction)) (PP (TO to) (NP (DT this) (NN theory)))) (PP (IN with) (NP (NP (NN emphasis)) (PP (IN on) (NP (JJ formal) (NN algebraic) (NNS laws)))))) (. .))
-(S (NP (NNP New) (NNS results)) (VP (VBP include) (NP (NP (NNP Spight) (NN distributivity) (NNS criteria)) (CC and) (NP (PRP$ its) (NNS applications) (S (VP (TO to) (VP (VB query) (NP (NNS transformations)))))))) (. .))

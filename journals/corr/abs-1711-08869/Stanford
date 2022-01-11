@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (PP (IN for) (NP (DT a) (JJ non-uniform) (NNP FR) (NN code))) (, ,) (NP (NP (NNS bounds)) (PP (IN on) (NP (NP (DT the) (NNP FR) (NN code) (NN rate)) (CC and) (NP (NNP DSS) (NN code) (NN rate))))) (VP (VBP are) (VP (VBN studied))) (. .))
-(S (S (VP (VBG Using) (NP (NP (NN matrix) (NN representation)) (PP (IN of) (NP (DT an) (NNP FR) (NN code)))))) (, ,) (NP (DT some) (ADJP (RB universally) (JJ good)) (NN FR) (NNS codes)) (VP (VBP have) (VP (VBN been) (VP (VBN obtained)))) (. .))

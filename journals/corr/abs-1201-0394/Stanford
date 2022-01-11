@@ -1,6 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN solution)) (PP (IN for) (NP (NML (NN endcoding) (HYPH /) (NN decoding)) (NN DNA) (NN information)))) (PP (IN in) (NP (NN 2D) (NNS barcodes)))) (. .))
-(S (NP (JJ First) (NN part)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (VBG existing) (NNS techniques)) (CC and) (NP (NP (NNS symbologies)) (PP (IN in) (NP (NML (NN 2D) (NNS barcodes)) (NN field))))))) (. .))
-(S (NP (DT The) (NML (NN 2D) (NN barcode)) (NN PDF417)) (VP (VBZ is) (VP (VBN presented) (PP (IN as) (S (VP (VBG starting) (NP (NN point))))))) (. .))
-(S (NP (NP (DT The) (NNS adaptations) (CC and) (NNS optimizations)) (PP (PP (IN on) (NP (NN PDF417))) (CC and) (PP (IN on) (NP (NNP DataMatrix))))) (VP (VBP lead) (PP (IN to) (NP (DT the) (ADJP (NP (NN solution) (HYPH -) (NN DNA2DBC)) (HYPH -) (JJ DeoxyriboNucleic)) (NML (NN Acid) (CD Two)) (NNP Dimensional) (NNP Barcode)))) (. .))
-(S (NP (DT The) (JJ second) (NN part)) (VP (VBZ shows) (NP (DT the) (NN DNA2DBC) (NML (NN encoding) (HYPH /) (NN decoding)) (NN process) (NN step)) (PP (IN by) (NP (NN step)))) (. .))
-(S (PP (IN In) (NP (NNS conclusions))) (VP (VBP are) (VP (VBN enumerated) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS features)) (PP (IN of) (NP (NML (NN 2D) (NN barcode)) (NN implementation)))) (PP (IN for) (NP (NN DNA))))) (. .))

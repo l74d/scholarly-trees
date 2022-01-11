@@ -1,3 +1,0 @@
-(S (NP (DT A) (NN fuzzy) (NN mnesor) (NN space)) (VP (VBZ is) (NP (NP (DT a) (NN semimodule)) (PP (IN over) (NP (DT the) (JJ positive) (JJ real) (NNS numbers))))) (. .))
-(S (NP (PRP It)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NP (JJ theoretical) (NN framework)) (PP (IN for) (NP (JJ fuzzy) (NNS sets)))))))) (. .))
-(S (ADVP (IN Hence)) (NP (PRP we)) (VP (MD can) (VP (VB prove) (NP (NP (DT a) (JJ great) (NN number)) (PP (IN of) (NP (NP (NNS properties)) (PP (IN for) (NP (JJ fuzzy) (NNS sets)))))) (PP (IN without) (S (VP (VBG refering) (PP (TO to) (NP (DT the) (NN membership) (NNS functions)))))))) (. .))

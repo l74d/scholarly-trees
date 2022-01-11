@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NP (JJ approximate) (NN counting) (NNP Constraint) (NNP Satisfaction) (NNP Problems)) (PRN (-LRB- -LRB-) (NP (# #) (NNP CSPs)) (-RRB- -RRB-))))) (PP (IN in) (NP (DT a) (JJ bounded) (NN degree) (NN setting)))) (. .))
-(S (NP (PRP$ Our) (NN result)) (VP (VBZ extends) (NP (NP (JJ previous) (NNS results)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ apply) (PP (ADVP (RB only)) (IN in) (NP (DT the) (JJ so-called) (`` ``) (JJ conservative) ('' '') (NN case)))))))) (. .))

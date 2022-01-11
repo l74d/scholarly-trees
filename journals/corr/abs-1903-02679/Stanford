@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (DT a) (JJ synthetic) (NN dataset)) (PP (IN for) (S (VP (VBG evaluating) (NP (NP (JJ non-rigid) (NN 3D) (JJ human) (NN reconstruction)) (PP (VBN based) (PP (IN on) (NP (JJ conventional) (NML (NN RGB) (HYPH -) (NN D)) (NNS cameras))))))))) (. .))
-(S (NP (DT The) (NN dataset)) (VP (VB consist) (PP (IN of) (NP (NP (CD seven) (NN motion) (NNS sequences)) (PP (IN of) (NP (DT a) (JJ single) (JJ human) (NN model)))))) (. .))
-(S (PP (IN For) (NP (NP (DT each) (NML (NML (NN motion) (NN sequence)) (PP (IN per) (HYPH -) (NP (NN frame) (NN ground)))) (NN truth) (NN geometry)) (CC and) (NP (NN ground)))) (NP (NN truth) (NN skeleton)) (VP (VBP are) (VP (VBN given))) (. .))
-(S (NP (DT The) (NN dataset)) (ADVP (RB also)) (VP (VBZ contains) (NP (NP (VBG skinning) (NNS weights)) (PP (IN of) (NP (DT the) (JJ human) (NN model))))) (. .))
-(S (S (NP (NP (JJR More) (NN information)) (PP (IN about) (NP (DT the) (NN dataset)))) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN at)))))) (: :) (S (NP (DT this)) (VP (VBZ https) (NP (NN URL)))))

@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP devise) (NP (DT a) (NML (CD one) (HYPH -) (NN shot)) (NN approach)) (PP (IN to) (NP (NP (VBN distributed) (JJ sparse) (NN regression)) (PP (IN in) (NP (DT the) (ADJP (JJ high) (HYPH -) (JJ dimensional)) (NN setting)))))) (. .))
-(S (NP (DT The) (JJ key) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VP (VB average) (VP (`` ") (VBN debiased) ('' "))) (CC or) (NP (`` ") (JJ desparsified) ('' ") (NN lasso) (NNS estimators)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (DT the) (NN approach)) (VP (VBZ converges) (PP (IN at) (NP (NP (DT the) (JJ same) (NN rate)) (PP (IN as) (NP (DT the) (NN lasso))))) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (DT the) (NN dataset)) (VP (VBZ is) (RB not) (VP (VBN split) (PP (IN across) (NP (ADJP (RB too) (JJ many)) (NNS machines)))))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP extend) (NP (DT the) (NN approach)) (PP (IN to) (NP (VBN generalized) (JJ linear) (NNS models)))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ contains) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS aspects)) (PP (IN of) (NP (VBG computing) (NNS grids))))) (. .))
-(S (NP (NNP Grid) (VBG computing)) (VP (RB allows) (S (NP (JJ high) (NN performance) (VBD distributed) (NNS systems)) (VP (TO to) (VP (VB act) (PP (IN as) (NP (DT a) (JJ single) (NN computer))))))) (. .))
-(S (NP (NP (DT An) (NN overview)) (PP (IN of) (NP (NNS grids) (NN structure) (CC and) (NNS techniques)))) (VP (VBZ is) (VP (VBN given) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB understand) (NP (NP (DT the) (NN way)) (SBAR (S (NP (JJ grids)) (VP (NN work))))))))))) (. .))

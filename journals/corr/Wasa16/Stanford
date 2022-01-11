@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP enumerate) (NP (NN enumeration) (NNS problems) (CC and) (NNS algorithms))) (. .))
-(S (NP (DT This) (NN survey)) (VP (VBZ is) (PP (IN under) (NP (NN construction)))) (. .))
-(S (SBAR (IN If) (S (S (NP (PRP you)) (VP (VBP know) (NP (NP (DT some) (NNS results)) (PP (RB not) (IN in) (NP (DT this) (NN survey)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (ADJP (NN anything) (JJ wrong)))))) (, ,) (INTJ (UH please)) (VP (VB let) (S (NP (PRP me)) (VP (VB know)))) (. .))

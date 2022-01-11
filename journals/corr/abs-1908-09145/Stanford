@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ analyzes) (NP (NP (DT the) (ADJP (RB well) (HYPH -) (VBN known)) (NN L1) (NN scheme)) (PP (IN for) (NP (NP (JJ fractional) (NN wave) (NNS equations)) (PP (IN with) (NP (JJ nonsmooth) (NNS data))))))) (. .))
-(S (NP (NP (DT The) (NN convergence)) (PP (IN of) (NP (NP (DT the) (CD two) (NNS schemes)) (PP (IN in) (NP (DT the) (JJ inhomogeneous) (NN case)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN established))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (JJ numerical) (NNS experiments)) (VP (VBP are) (VP (VBN performed) (S (VP (TO to) (VP (VB verify) (NP (DT the) (JJ theoretical) (NNS results))))))) (. .))

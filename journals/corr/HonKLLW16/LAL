@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NNP Grundy) (NN number)) (PP (IN of) (NP (DT a) (NN graph)))) (VP (VBZ is) (NP (NP (DT the) (JJ maximal) (NN number)) (PP (IN of) (NP (NNS colors))) (VP (VBN attained) (PP (IN by) (NP (NP (DT a) (JJ first-fit) (NN coloring)) (PP (IN of) (NP (DT the) (NN graph)))))))) (. .))
-(S (NP (NP (DT The) (NN class)) (PP (IN of) (NP (NNP Cameron) (NN graphs)))) (VP (VBZ is) (NP (NP (DT the) (NNP Seidel) (VBG switching) (NN class)) (PP (IN of) (NP (NN cographs))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNP Grundy) (NN number)) (VP (VBZ is) (ADJP (JJ computable)) (PP (IN in) (NP (JJ polynomial) (NN time))) (PP (IN for) (NP (NNP Cameron) (NN graphs))))))) (. .))

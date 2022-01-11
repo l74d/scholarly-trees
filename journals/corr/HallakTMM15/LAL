@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (DT the) (NN off-policy) (NN evaluation) (NN problem)) (PP (IN in) (NP (NNP Markov) (NN decision) (VBZ processes))) (PP (IN with) (NP (NN function) (NN approximation)))) (. .))
-(S (NP (PRP$ Our) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (S (NP (DT the) (JJ original) (NNP ETD) (NN algorithm)) (ADVP (RB always)) (VP (VBZ involves) (NP (DT a) (NN contraction) (NN operator)))) (, ,) (CC and) (S (NP (PRP$ its) (NN bias)) (VP (VBZ is) (VP (VBN bounded))))))) (. .))

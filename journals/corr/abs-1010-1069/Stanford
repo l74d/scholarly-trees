@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (JJ cooperative) (NN spectrum)) (VP (VBG sensing) (PP (IN for) (NP (JJ cognitive) (NNS radios)))))) (. .))
-(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT an) (ADJP (NN energy) (JJ efficient)) (NN detector)) (PP (IN with) (NP (NML (JJ low) (NN detection)) (NN delay)))) (S (VP (VBG using) (NP (JJ sequential) (NN hypothesis) (NN testing))))) (. .))
-(S (NP (NP (JJ Sequential) (NN Probability) (NN Ratio) (NN Test)) (-LRB- -LRB-) (NP (NNP SPRT)) (-RRB- -RRB-)) (VP (VBZ is) (VP (VBN used) (PP (IN at) (NP (CC both) (NP (DT the) (JJ local) (NNS nodes)) (CC and) (NP (DT the) (NN fusion) (NN center)))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP analyse) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT this) (NN algorithm))))) (CC and) (VP (VB compare) (PP (IN with) (NP (DT the) (NNS simulations))))) (. .))
-(S (NP (NP (VBG Modelling) (NNS uncertainties)) (PP (IN in) (NP (DT the) (NN distribution) (NNS parameters)))) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (NP (NP (JJ Slow) (VBG fading)) (PP (IN with) (CC and) (IN without) (NP (NP (JJ perfect) (NN channel) (NN state) (NN information)) (PP (IN at) (NP (DT the) (JJ cognitive) (NNS radios)))))) (VP (VBZ is) (VP (VBN taken) (PP (IN into) (NP (NN account))))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (NNP LXG)) (VP (VBZ is) (NP (DT a) (JJ simple) (JJ Pascal-like) (NN language))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (JJ functional) (NN programming) (NN language)) (VP (VBD developed) (PP (IN for) (S (VP (VBG studying) (NP (NN compiler) (NN design) (CC and) (NN implementation)))))))) (. .))
-(S (NP (DT The) (NN language)) (VP (VBZ supports) (NP (NP (NN procedure) (CC and) (JJ variable) (NNS declarations)) (, ,) (CC but) (NP (DT no) (NNS classes)))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ reports) (NP (NP (DT the) (NN design) (CC and) (NN implementation)) (PP (IN of) (NP (DT an) (NNP LXG) (NN compiler))))) (. .))
-(S (NP (NN Test) (NNS results)) (VP (VBP are) (VP (VBN presented) (ADVP (IN as) (RB well)))) (. .))

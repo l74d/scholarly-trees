@@ -1,6 +1,0 @@
-(S (NP (DT A) (JJ non-deterministic) (NN recursion) (NN scheme)) (VP (VBZ recognizes) (NP (NP (DT a) (NN language)) (PP (IN of) (NP (NN finite) (NNS trees))))) (. .))
-(S (NP (DT This) (ADJP (RB very) (JJ expressive)) (NN model)) (VP (MD can) (VP (VB simulate) (, ,) (PP (IN among) (NP (NNS others))) (, ,) (NP (NP (NML (JJR higher) (HYPH -) (NN order)) (NN pushdown) (NN automata)) (PP (IN with) (NP (NN collapse)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (NP (NP (NN decidability)) (PP (IN of) (NP (NP (DT the) (JJ diagonal) (NN problem)) (PP (IN for) (NP (NNS schemes))))))) (. .))
-(S (NP (DT This) (NN result)) (VP (VBZ has) (NP (JJ several) (JJ interesting) (NNS consequences))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP it)) (VP (VBZ gives) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes) (NP (NP (DT the) (JJ downward) (NN closure)) (PP (IN of) (NP (NP (NNS languages)) (PP (IN of) (NP (NP (NNS words)) (VP (VBN recognized) (PP (IN by) (NP (NNS schemes)))))))))))))) (. .))
-(S (PP (IN In) (NP (NN turn))) (, ,) (NP (DT this)) (VP (VBZ has) (NP (NP (NP (JJ immediate) (NN application)) (PP (IN to) (NP (NN separability) (NNS problems)))) (CC and) (NP (NP (NN reachability) (NN analysis)) (PP (IN of) (NP (JJ concurrent) (NNS systems)))))) (. .))

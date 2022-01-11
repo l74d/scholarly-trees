@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN report)) (VP (VBZ describes) (NP (DT a) (JJ technical) (NN methodology)) (PP (IN to) (NP (NML (S (VP (VB render) (NP (DT the) (NML (NNP Apache) (NNP Spark)) (NN execution))))) (NN engine) (NP (JJ adaptive))))) (. .))
-(S (NP (PRP It)) (VP (VBZ presents) (NP (NP (DT the) (NN engineering) (NNS solutions)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB specifically)) (VP (VBP target) (PP (IN to) (ADVP (RB adaptively)) (VP (VB reorder) (NP (NP (NNS predicates)) (PP (IN in) (NP (NN data) (NNS streams)))) (PP (IN with) (NP (VBG evolving) (NNS statistics)))))))))) (. .))
-(S (NP (NP (DT The) (NN system) (NN extension)) (VP (VBN developed))) (VP (VBZ is) (ADJP (JJ available) (PP (IN as) (NP (DT an) (NML (JJ open) (HYPH -) (NN source)) (NN prototype))))) (. .))
-(S (NP (JJ Indicative) (JJ experimental) (NNS results)) (VP (VBP show) (NP (PRP$ its) (NN overhead) (CC and) (NN sensitivity)) (PP (IN to) (NP (NN tuning) (NNS parameters)))) (. .))

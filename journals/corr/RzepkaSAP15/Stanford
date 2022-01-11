@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ presents) (NP (NP (DT the) (NN design)) (PP (IN of) (NP (NP (DT a) (JJ digital) (NN power) (NN measurement) (NN device)) (VP (VBN intended) (PP (IN for) (NP (DT the) (JJ green) (NN IT)))))))) (. .))
-(S (NP (NN Article)) (VP (VBZ comprises) (: :) (S (VP (VB use) (NP (NN case) (NN analysis))) (, ,) (NP (NP (NP (NN accuracy)) (CC and) (NP (NN precision) (NNS measurements))) (CC and) (NP (NP (JJ real) (NN life) (NN test)) (PP (IN of) (NP (NP (NN apache) (NN web) (NN server)) (PP (IN as) (NP (JJ exemplary) (NN application))))))))) (. .))

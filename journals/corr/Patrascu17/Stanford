@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN approach)) (VP (VBZ presents) (NP (NP (DT a) (JJ multi-valued) (NN representation)) (PP (IN of) (NP (DT the) (JJ neutrosophic) (NN information))))) (. .))
-(S (NP (PRP It)) (VP (VBZ highlights) (NP (NP (DT the) (NN link)) (PP (IN between) (NP (NP (DT the) (JJ bifuzzy) (NN information)) (CC and) (NP (JJ neutrosophic) (NN one)))))) (. .))
-(S (NP (DT The) (ADJP (VBN constructed)) (ADJP (NP (NN deca)) (HYPH -) (VBN valued)) (NN structure)) (VP (VBZ shows) (NP (DT the) (JJ neutrosophic) (NN information) (NN complexity))) (. .))
-(S (NP (DT This) (ADJP (NP (NN deca)) (HYPH -) (VBN valued)) (NN structure)) (VP (VBD led) (PP (IN to) (NP (NP (NN construction)) (PP (IN of) (NP (NP (NP (CD two) (JJ new) (NNS concepts)) (PP (IN for) (NP (DT the) (JJ neutrosophic) (NN information)))) (: :) (UCP (NML (NN neutro) (HYPH -) (NN entropy)) (CC and) (ADJP (JJ anti-entropy)))))))) (. .))
-(S (NP (DT These) (CD two) (NNS concepts)) (VP (VBP are) (VP (VBN added) (PP (IN to) (NP (NP (DT the) (CD two)) (VP (VBG existing) (: :) (NP (NN entropy) (CC and) (NN non-entropy))))))) (. .))
-(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBD obtained) (NP (NP (DT the) (VBG following) (NN triad)) (: :) (NP (NP (NN entropy)) (, ,) (NP (NN neutro) (HYPH -) (NN entropy)) (CC and) (NP (JJ anti-entropy))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (JJ Diagrammatic) (NNS models)) (PP (IN of) (NP (VBG feeding) (NNS choices)))) (VP (JJ reveal) (NP (JJ fundamental) (JJ robotic) (NNS behaviors))) (. .))
-(S (NP (JJ Successful) (NNS choices)) (VP (VBP are) (VP (VBN reinforced) (PP (IN by) (NP (JJ positive) (NN feedback))) (, ,) (SBAR (IN while) (S (NP (JJ unsuccessful) (NNS ones)) (PP (IN by) (NP (JJ negative) (NN feedback))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (MD will) (VP (VB address) (NP (JJ robotic) (NN feeding)) (PP (IN by) (S (VP (ADVP (RB casually)) (VBG relating) (NP (NP (JJ consequential) (NN behavior)) (VP (VBN subtended) (PP (IN by) (NP (NP (DT a) (JJ strong) (NN dependence)) (PP (IN upon) (NP (NN survival)))))))))))) (. .))

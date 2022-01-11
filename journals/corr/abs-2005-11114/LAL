@@ -1,6 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ addresses) (NP (NP (DT a) (NN motion) (NN planning) (NN problem)) (PP (IN of) (NP (DT the) (NN second-order) (VBD chained) (NN form) (NN system))))) (. .))
-(S (NP (DT The) (NN author)) (VP (VBZ presents) (NP (NP (DT a) (JJ novel) (NN control) (NN approach)) (VP (VBN based) (PP (IN on) (S (VP (VBG switching) (NP (DT a) (NN state)))))))) (. .))
-(S (NP (DT The) (NN second-order) (VBD chained) (NN form) (NN system)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (CD three) (NNS subsystems)) (PP (VBG including) (NP (NP (CD two) (JJ double) (NNS integrators)) (CC and) (NP (DT a) (JJ nonlinear) (NN system)))))))) (. .))
-(S (S (VP (VBG Switching) (NP (NP (DT a) (JJ single) (NN state)) (PP (IN of) (NP (DT the) (JJ double) (NNS integrators)))))) (VP (MD can) (VP (VB modify) (NP (NP (DT the) (NN nature)) (PP (IN of) (NP (DT the) (JJ nonlinear) (NN system)))))) (. .))
-(S (NP (JJ Such) (NX (NX (JJ state-switching)) (CC and) (JJ sinusoidal) (NN control))) (VP (VBP construct) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (DT the) (VBN proposed) (NN control) (NN approach))))) (. .))
-(S (NP (DT The) (NN effectiveness)) (VP (VBZ is) (VP (VBN validated) (PP (IN by) (NP (DT a) (NN simulation) (NN result))))) (. .))

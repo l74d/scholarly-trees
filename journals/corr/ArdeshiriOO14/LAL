@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (JJ adaptive) (NN smoother)) (PP (IN for) (NP (NP (JJ linear) (JJ state-space) (NNS models)) (PP (IN with) (NP (JJ unknown) (NN process) (CC and) (NN measurement) (NN noise) (NNS covariances))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN method)) (VP (VBZ utilizes) (NP (DT the) (JJ variational) (NNP Bayes) (NN technique)) (S (VP (TO to) (VP (VB perform) (NP (JJ approximate) (NN inference)))))) (. .))
-(S (NP (DT The) (VBG resulting) (NN smoother)) (VP (VP (VBZ is) (ADJP (RB computationally) (JJ efficient))) (, ,) (ADJP (JJ easy) (SBAR (S (VP (TO to) (VP (VB implement)))))) (, ,) (CC and) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (TO to) (NP (ADJP (JJ high) (JJ dimensional)) (JJ linear) (NNS systems))))))) (. .))
-(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (VP (VBN illustrated) (PP (IN on) (NP (DT a) (NN target) (VBG tracking) (NN example))))) (. .))

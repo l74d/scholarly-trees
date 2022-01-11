@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN study)) (VP (VBZ consists) (PP (IN of) (NP (CD two) (NNS parts)))) (. .))
-(S (NP (NP (NN Objective)) (PP (IN of) (NP (DT the) (JJ first) (NN part)))) (VP (VBZ is) (NP (NP (JJ modern) (NN language) (NNS constructions)) (ADJP (JJ responsible) (PP (IN for) (NP (NP (RB algorithmically) (NN insolvability)) (PP (IN of) (NP (VBG parallelizing) (NN problem)))))))) (. .))
-(S (NP (JJ Second) (NN part)) (VP (VBZ contains) (NP (NP (JJ several) (NNS ways)) (SBAR (S (VP (TO to) (VP (VB modify) (NP (DT the) (NNS constructions)) (S (VP (TO to) (VP (VB make) (S (NP (DT the) (NN problem)) (ADJP (RB algorithmically) (JJ solvable)))))))))))))

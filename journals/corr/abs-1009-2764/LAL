@@ -1,2 +1,0 @@
-(S (NP (DT A) (NNP Blink) (NNP Tree) (NN latch) (NN method) (CC and) (NN protocol)) (VP (NNS supports) (NP (JJ synchronous) (JJ node) (NN deletion)) (PP (IN in) (NP (DT a) (JJ high) (NN concurrency) (NN environment)))) (. .))
-(S (NP (NNP Full) (NN source) (NN code)) (VP (VBZ is) (ADJP (JJ available))) (. .))

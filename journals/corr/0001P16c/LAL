@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (ADVP (RB here)) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (JJ syntactic) (NN lattice) (NN algebra))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT an) (NN analogy)) (PP (PP (IN of) (NP (DT the) (JJ syntactic) (NN monoid))) (CC and) (PP (IN of) (NP (DT the) (JJ syntactic) (NN semiring)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ unified) (NN approach)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT those) (CD three) (NNS structures)))))))) (. .))

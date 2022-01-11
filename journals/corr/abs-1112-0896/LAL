@@ -1,4 +1,0 @@
-(S (NP (NP (NNP Block) (NNS codes)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP correct) (NP (JJ asymmetric) (NNS errors)) (PP (IN with) (NP (NN limited-magnitude)))))) (, ,)) (VP (VBP are) (VP (VBN studied))) (. .))
-(S (NP (DT These) (NNS codes)) (VP (VBP have) (VP (VBN been) (VP (VBN applied) (ADVP (RB recently)) (PP (IN for) (NP (NP (NN error) (NN correction)) (PP (IN in) (NP (JJ flash) (NNS memories)))))))) (. .))
-(S (S (NP (DT The) (NNS codes)) (VP (MD will) (VP (VB be) (VP (VBN represented) (PP (IN by) (NP (NNS lattices))))))) (CC and) (S (NP (DT the) (NNS constructions)) (VP (MD will) (VP (VB be) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NNP Sidon) (NNS sequences))))))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (NP (PRP we)) (VP (MD will) (VP (VB consider) (NP (NP (JJ perfect) (NNS codes)) (PP (IN for) (NP (NP (DT these) (NN type)) (PP (IN of) (NP (NNS errors)))))))) (. .))

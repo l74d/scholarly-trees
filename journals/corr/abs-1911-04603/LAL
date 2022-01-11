@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP provide) (NP (JJ similar) (NNS bounds)) (PP (IN for) (NP (NP (JJ 1-planar) (NN graphs)) (PP (IN with) (NP (JJ minimum) (JJ degree) (CD 4) (CC and) (CD 5))))) (, ,) (SBAR (IN while) (S (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ minimum) (JJ degree) (CD 6) (CC and) (CD 7)))) (VP (NNS remains) (ADJP (JJ open)))))) (. .))

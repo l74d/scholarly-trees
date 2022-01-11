@@ -1,5 +1,0 @@
-(S (NP (NP (DT An) (JJ original) (NN packaging) (NN method)) (ADJP (JJ suitable) (PP (IN for) (NP (JJ integrated) (JJ thermal) (NML (NN mass) (NN flow)) (NNS sensors))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ consists) (PP (IN in) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (DT a) (ADJP (NN plastic) (JJ transparent)) (NN adapter))))) (PP (IN to) (NP (DT the) (NN chip) (NN surface)))) (. .))
-(S (NP (DT The) (NN adapter)) (VP (VBZ is) (VP (VBN sealed) (PP (IN to) (NP (DT the) (NN chip) (NN surface))) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT a) (JJ thermal) (NN procedure))))))) (. .))
-(S (PP (IN By) (NP (DT this) (NN approach))) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ possible) (S (VP (TO to) (ADVP (RB selectively)) (VP (VB convey) (NP (DT the) (NN fluid) (NN flow)) (PP (IN to) (NP (VBN reduced) (NN chip) (NNS areas))) (, ,) (S (VP (VBG avoiding) (NP (NN contact)) (PP (IN with) (NP (DT the) (NNS pads)))))))))) (. .))
-(S (NP (NP (NN Fabrication) (CC and) (NN testing)) (PP (IN of) (NP (DT a) (ADJP (RB very) (JJ compact)) (NN flow) (NN sensor)))) (VP (VBZ is) (VP (VBN described))) (. .))

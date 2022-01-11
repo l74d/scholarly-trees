@@ -1,1 +1,0 @@
-(S (NP (NP (DT A) (JJ first) (`` ``) (JJ generic) ('' '') (NN estimator)) (, ,) (ADJP (JJ valid) (PP (IN for) (NP (NP (DT a) (JJ large) (NN set)) (PP (IN of) (NP ($ $) (JJ f) ($ $) (NNS functions)))))) (, ,)) (VP (VBZ is) (VP (VBN provided) (PP (IN under) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT a) (JJ complex) (NN integral))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (DT These) (ADJP (RB completely) (JJ regular)) (NNS codes)) (VP (VBP are) (NP (NP (NNS extensions)) (PP (IN of) (NP (NP (JJ linear) (ADJP (RB completely) (JJ regular)) (NNS codes)) (PP (IN with) (S (VP (VBG covering) (NP (NP (NN radius) (CD 1)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (DT all)) (VP (VBN classified)))))))))))))) (. .))
-(S (NP (DT This)) (ADVP (RB also)) (VP (VBZ gives) (NP (NP (DT the) (NN characterization)) (PP (IN of) (NP (CD two) (NN weight)))) (NP (JJ linear) (JJ antipodal) (NNS codes))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN method)) (SBAR (S (VP (TO to) (VP (VB construct) (NP (ADJP (NNP Locally) (NNP Recoverable)) (NNP Error-Correcting) (NNS codes)))))))) (. .))
-(S (NP (DT This) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ rational) (NNS maps))) (PP (IN between) (NP (JJ affine) (NNS spaces))))))) (. .))
-(S (NP (NP (DT The) (NN recovery)) (PP (IN of) (NP (NNS erasures)))) (VP (VBZ is) (VP (VBN carried) (PRT (RP out)) (PP (PP (IN by) (NP (JJ Lagrangian) (NN interpolation)) (PP (IN in) (ADJP (JJ general)))) (CC and) (PP (ADVP (RB simply)) (IN by) (NP (CD one) (NN addition)) (PP (IN in) (NP (DT some) (JJ good) (NNS cases))))))) (. .))

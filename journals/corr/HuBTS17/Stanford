@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ fuzzy) (NN clustering) (NN algorithm)) (PP (IN for) (NP (JJ multidimensional) (NNS data)))) (VP (VBZ is) (VP (VBN proposed) (PP (IN in) (NP (DT this) (NN article))))) (. .))
-(S (NP (DT The) (NNS data)) (VP (VBZ is) (VP (VBN described) (PP (IN by) (NP (NP (NNS vectors)) (SBAR (WHNP (WP$ whose) (NML (NNS components))) (S (VP (VBP are) (NP (NP (JJ linguistic) (NNS variables)) (VP (VBN defined) (PP (IN in) (NP (DT an) (JJ ordinal) (NN scale)))))))))))) (. .))
-(S (NP (DT The) (ADJP (VBN obtained)) (NNS results)) (VP (VBP confirm) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (VBN proposed) (NN approach))))) (. .))

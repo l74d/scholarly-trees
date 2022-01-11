@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT an) (NN entropy)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ formal) (NN power) (NN series) (NN expansion)) (PP (IN of) (NP (DT the) (NNP Ihara) (NNP Zeta) (NN function)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP find) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS inequalities))) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS values)) (PP (IN of) (NP (DT the) (NNP Ihara) (NN zeta) (NN function)))))))) (. .))
-(S (NP (DT These) (JJ new) (NNS entropies)) (VP (VBP are) (ADJP (JJ applicable) (PP (IN in) (NP (NP (JJ symbolic) (NNS dynamics)) (CC and) (NP (NP (DT the) (NNS dynamics)) (PP (IN of) (NP (NNS billiards)))))))) (. .))

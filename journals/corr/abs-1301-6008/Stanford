@@ -1,7 +1,0 @@
-(S (NP (NNP VFIVE)) (VP (VBZ is) (NP (NP (DT a) (JJ scientific) (NN visualization) (NN application)) (PP (IN for) (NP (NML (NN CAVE) (HYPH -) (NN type)) (ADJP (JJ immersive) (JJ virtual)) (NN reality) (NNS systems))))) (. .))
-(S (NP (DT The) (NN source) (NNS codes)) (VP (VBP are) (ADJP (RB freely) (JJ available))) (. .))
-(S (NP (NNP VFIVE)) (VP (VBZ is) (VP (VBN used) (PP (IN as) (NP (NP (DT a) (NN research) (NN tool)) (PP (IN in) (NP (JJ various) (NNP VR) (NNS systems))))))) (. .))
-(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ lays) (NP (NP (DT the) (NN groundwork)) (PP (IN for) (NP (NP (NNS developments)) (PP (IN of) (NP (NP (JJ new) (NN visualization) (NN software)) (PP (IN for) (NP (NNS CAVEs))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP pick) (PRT (RP up)) (NP (NP (CD five) (NN CAVE) (NNS systems)) (PP (IN in) (NP (NP (CD four) (JJ different) (NNS institutions)) (PP (IN in) (NP (NNP Japan))))))) (. .))
-(S (NP (NP (NNS Applications)) (PP (IN of) (NP (NP (NNP VFIVE)) (PP (IN in) (NP (DT each) (NN CAVE) (NN system)))))) (VP (VBP are) (VP (VBN summarized))) (. .))
-(S (NP (JJ Special) (NNS emphases)) (VP (MD will) (VP (VB be) (VP (VBN placed) (PP (IN on) (NP (NP (ADJP (JJ scientific) (CC and) (JJ technical)) (NNS achievements)) (VP (VBN made) (S (ADJP (JJ possible))) (PP (IN by) (NP (NNP VFIVE))))))))) (. .))

@@ -1,8 +1,0 @@
-(S (NP (NP (JJ Convolutional) (NNP Neural) (NNP Networks)) (PRN (-LRB- -LRB-) (NP (NNP CNN)) (-RRB- -RRB-))) (VP (VBZ has) (VP (VBN found) (NP (JJ successful) (NN adoption)) (PP (IN in) (NP (JJ many) (NNS applications))))) (. .))
-(S (NP (NP (DT The) (NN deployment)) (PP (IN of) (NP (NNP CNN))) (PP (IN on) (NP (JJ resource-constrained) (NN edge) (NNS devices)))) (VP (VBP have) (VP (VBN proved) (ADJP (NN challenging)))) (. .))
-(S (NP (NP (NNP CNN) (VBD distributed) (JJ deployment)) (PP (IN across) (NP (JJ different) (NN edge) (NNS devices)))) (VP (VBZ has) (VP (VBN been) (VP (VBN adopted)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ Trojan) (NNS attacks)) (PP (IN on) (NP (NNP CNN))) (VP (VBN deployed) (PP (IN across) (NP (DT a) (VBN distributed) (NN edge) (NN network))) (PP (IN across) (NP (JJ different) (NNS nodes)))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (CD five) (JJ stealthy) (NN attack) (NNS scenarios)) (PP (IN for) (NP (JJ distributed) (NNP CNN) (NN inference))))) (. .))
-(S (NP (DT These) (NNS attacks)) (VP (VBP are) (VP (VBN divided) (PP (IN into) (NP (NN trigger) (CC and) (NN payload) (NN circuitry))))) (. .))
-(S (NP (DT These) (NNS attacks)) (VP (VBP are) (VP (VBN tested) (PP (IN on) (NP (NP (JJ deep) (NN learning) (NNS models)) (PRN (-LRB- -LRB-) (NP (NP (NNP LeNet)) (, ,) (NP (NNP AlexNet))) (-RRB- -RRB-)))))) (. .))
-(S (NP (DT The) (NNS results)) (VP (VBP show) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN degree)) (PP (IN of) (NP (NP (NN vulnerability)) (PP (IN of) (NP (JJ individual) (NNS layers))))))) (CC and) (SBAR (WHADJP (WRB how) (JJ critical)) (S (NP (PRP they)) (VP (VBP are) (PP (TO to) (NP (DT the) (JJ final) (NN classification)))))))) (. .))

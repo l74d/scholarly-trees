@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT a) (JJ multi-objective) (NN game))) (, ,) (NP (DT each) (NN agent)) (ADVP (RB individually)) (VP (VBZ evaluates) (NP (NP (DT each) (JJ overall) (NN action) (HYPH -) (NN profile)) (PP (IN on) (NP (JJ multiple) (NNS objectives))))) (. .))
-(S (NP (PRP I)) (VP (VP (VBP generalize) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NN anarchy)))) (PP (IN to) (NP (JJ multi-objective) (NNS games)))) (CC and) (VP (VB provide) (NP (DT a) (ADJP (JJ polynomial) (HYPH -) (NN time)) (NN algorithm)) (S (VP (TO to) (VP (VB assess) (NP (PRP it))))))) (. .))
-(S (NP (DT This) (NN work)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NP (NNS policies)) (PP (IN on) (NP (NN tobacco)))) (VP (VB promote) (NP (DT a) (JJR higher) (JJ economic) (NN efficiency)))))) (. .))

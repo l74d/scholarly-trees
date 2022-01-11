@@ -1,3 +1,0 @@
-(S (NP (NP (NP (JJ Different) (NNS classes)) (PP (IN of) (NP (NN communication) (NN network) (NNS topologies)))) (CC and) (NP (NP (PRP$ their) (NN representation)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (NN adjacency) (NN matrix)) (CC and) (NP (PRP$ its) (NNS eigenvalues)))))))) (VP (VBP are) (VP (VBN presented))) (. .))
-(S (NP (NP (DT A) (ADJP (NN self) (HYPH -) (VBG organizing)) (NN feature) (NN map)) (NP (JJ neural) (NN network))) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB map) (NP (NP (JJ different) (NNS classes)) (PP (IN of) (NP (NML (NN communication) (NN network)) (JJ topological) (NNS patterns))))))))) (. .))
-(S (NP (DT The) (NML (JJ neural) (NN network) (NN simulation)) (NNS results)) (VP (VBP are) (VP (VBN reported))) (. .))

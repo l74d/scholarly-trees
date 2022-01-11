@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (DT a) (JJ finite-state) (JJ two-player) (JJ turn-based) (JJ stochastic) (NN game)) (PP (IN with) (NP (NP (NN safety) (NNS objectives)) (PP (IN for) (NP (DT both) (NNS players))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (DT no) (JJ stationary) (NNP Nash) (NN equilibrium))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ answers) (NP (NP (DT an) (JJ open) (NN question)) (PP (IN of) (NP (NNP Secchi) (CC and) (NNP Sudderth))))) (. .))

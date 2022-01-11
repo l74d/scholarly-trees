@@ -1,4 +1,0 @@
-(S (NP (NP (NNP Prisoner) (POS 's)) (NN dilemma)) (VP (VBZ has) (VP (VBN been) (VP (ADVP (RB heavily)) (VBN studied)))) (. .))
-(S (PP (IN In) (NP (JJ classical) (NN model))) (, ,) (NP (DT each) (NN player)) (VP (VBZ chooses) (S (VP (TO to) (VP (VB either) (`` ``) (NNP Cooperate) ('' '') (CC or) (`` ``) (JJ Defect) ('' ''))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP generalize) (NP (NP (DT the) (NN prisoner) (POS 's)) (NN dilemma)) (PP (IN with) (NP (NP (DT a) (JJ new) (NN alternative)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (CC neither) (NN defect) (CC or) (NN cooperation)))))))) (. .))
-(S (NP (DT The) (JJ classical) (NN model)) (VP (VBZ is) (NP (DT the) (JJ special) (NN case)) (PP (IN under) (NP (DT the) (NN condition) (SBAR (IN that) (S (NP (DT the) (JJ third) (NN state)) (VP (VBZ is) (RB not) (VP (VBN taken) (PP (IN into) (NP (NN consideration)))))))))) (. .))

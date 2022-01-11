@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NP (NP (NNP Massey) (POS 's)) (NN construction)) (PP (IN of) (NP (JJ secret) (VBG sharing) (NNS schemes))))) (VP (VBG using) (NP (JJ linear) (NNS codes))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (DT the) (NN access) (NN structure)) (PP (IN of) (NP (DT the) (NN scheme))))) (CC and) (VP (VB show) (NP (NP (PRP$ its) (NN connection)) (PP (TO to) (NP (DT the) (JJ dual) (NN code)))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT the) (ADJP ($ $) (JJ g) ($ $) (JJ -fold)) (NN weight) (NN enumerator)) (CC and) (NP (JJ invariant) (NN theory))) (S (VP (TO to) (VP (VB study) (NP (DT the) (NN access) (NN structure)))))) (. .))

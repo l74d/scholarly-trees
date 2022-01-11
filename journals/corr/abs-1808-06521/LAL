@@ -1,8 +1,0 @@
-(S (NP (PRP We)) (VP (VBP design) (NP (NP (DT a) (JJ new) (NN connectivity) (NN pattern)) (PP (IN for) (NP (DT the) (JJ U-Net) (NN architecture))))) (. .))
-(S (PP (VBN Given) (NP (JJ several) (VBD stacked) (NNS U-Nets))) (, ,) (NP (PRP we)) (VP (VBP couple) (NP (DT each) (JJ U-Net) (NN pair)) (PP (IN through) (NP (NP (DT the) (NNS connections)) (PP (IN of) (NP (PRP$ their) (JJ semantic) (NNS blocks))))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (NP (DT the) (JJ coupled) (NNS U-Nets)) (PRN (-LRB- -LRB-) (NP (NNP CU-Net)) (-RRB- -RRB-))))))) (. .))
-(S (NP (DT The) (NN coupling) (NNS connections)) (VP (MD could) (VP (VB make) (S (NP (DT the) (NN information)) (VP (NN flow) (ADVP (RBR more) (RB efficiently)) (PP (IN across) (NP (NNS U-Nets))))))) (. .))
-(S (NP (NP (DT The) (NN feature) (NN reuse)) (PP (IN across) (NP (NNS U-Nets)))) (VP (VBZ makes) (S (NP (DT each) (JJ U-Net)) (ADJP (RB very) (JJ parameter) (NN efficient)))) (. .))
-(S (NP (PRP We)) (VP (VBP evaluate) (NP (DT the) (JJ coupled) (NNS U-Nets)) (PP (IN on) (NP (NP (CD two) (JJ benchmark) (NNS datasets)) (PP (IN of) (NP (JJ human) (JJ pose) (NN estimation)))))) (. .))
-(S (NP (DT Both) (NP (DT the) (NN accuracy)) (CC and) (NX (NN model) (NN parameter) (NN number))) (VP (VBP are) (VP (VBN compared))) (. .))
-(S (NP (DT The) (JJ CU-Net)) (VP (NNS obtains) (NP (NP (JJ comparable) (NN accuracy)) (PP (IN as) (NP (JJ state-of-the-art) (NNS methods))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP it)) (ADVP (RB only)) (VP (VBZ has) (NP (NP (ADJP (NP (QP (IN at) (JJS least) (CD 60)) (NN %)) (JJR fewer)) (NNS parameters)) (PP (IN than) (NP (JJ other) (NNS approaches))))) (. .))

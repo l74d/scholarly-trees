@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP identify) (NP (NP (NNS people) (POS 's)) (NN job) (NN category)) (PP (VBN based) (PP (IN on) (NP (PRP$ their) (NNS tweets))))) (. .))
-(S (PP (IN As) (NP (DT a) (JJ preliminary) (NN work))) (, ,) (NP (PRP we)) (VP (VBD limited) (NP (PRP$ our) (NN task)) (S (VP (TO to) (VP (VB identify) (NP (RB only) (NNP IT) (NNS workers)) (PP (IN from) (NP (JJ other) (NN job) (NNS holders))))))) (. .))
-(S (NP (PRP We)) (VP (VBP have) (VP (VBN used) (CC and) (VBN compared) (NP (DT both) (NP (JJ simple) (NAC (NN bag) (PP (IN of) (NP (NNS words)))) (NN model)) (CC and) (NP (NP (DT a) (NN document) (NN representation)) (VP (VBN based) (PP (IN on) (NP (NNP Skip-gram) (NN model)))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (DT These) (JJR lower) (NNS bounds)) (VP (VBD happened) (S (VP (TO to) (VP (VB be) (PP (IN in) (NP (DT a) (JJ solid) (JJ numerical) (NN agreement))) (PP (IN with) (SBAR (WHNP (WP what)) (S (NP (CD one)) (VP (MD can) (VP (VB observe) (PP (IN through) (NP (JJ numerical) (NNS experiments)))))))))))) (. .))
-(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP derive) (NP (DT the) (VBG corresponding) (JJ upper) (NNS bounds))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (NN Security) (NNS analysts)) (VP (VBP need) (S (VP (TO to) (VP (VB classify) (, ,) (VB search) (CC and) (VB correlate) (NP (JJ numerous) (NNS images)))))) (. .))
-(S (NP (JJ Automatic) (NN classification) (NNS tools)) (VP (VBP improve) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (JJ such) (NNS tasks))))) (. .))
-(S (S (NP (JJ Many) (NN Image) (HYPH -) (VBG Matching))) (NP (NNS algorithms)) (VP (VBP are) (VP (VBN presented) (PP (IN in) (NP (DT the) (NN litterature))))) (. .))
-(S (NP (DT The) (JJ present) (NN paper)) (VP (VBZ introduces) (CC and) (VBZ provides) (NP (NP (DT a) (NML (NNP Open) (HYPH -) (NNP Source)) (NML (NN benchmarking) (CC and) (NN evaluation)) (NN tool)) (PP (IN for) (NP (DT these) (NNS algorithms))))) (. .))
-(SQ (VBZ Is) (NP (DT this) (NN paper)) (, ,) (PRN (S (NP (DT the) (NN framework)) (VP (VBZ evaluates) (NP (NP (NNS algorithms)) (PP (IN on) (NP (JJ illustrative) (NNS datasets))))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN constituted) (PP (IN of) (NP (NML (NN phishing) (CC and) (NN onion)) (NNS websites))))))) (. .))
-(S (NP (NNS Datasets)) (VP (VBP are) (VP (VBN provided) (PP (IN as) (NP (NNP Open) (HYPH -) (NNP Data))))) (. .))

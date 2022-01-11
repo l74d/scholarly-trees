@@ -1,2 +1,0 @@
-(S (NP (NML (NN Constraint) (NN Handling)) (NNS Rules)) (VP (VBP provide) (NP (NP (NNS descriptions)) (PP (IN for) (NP (NN constraint) (NNS solvers))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP they)) (VP (VBP fall) (ADVP (RB short) (SBAR (WHADVP (WRB when)) (S (NP (DT those) (NNS constraints)) (VP (VB specify) (NP (DT some) (NN binding) (NN structure)))))) (, ,) (PP (IN like) (NP (NP (NML (JJR higher) (HYPH -) (NN rank)) (NNS types)) (PP (IN in) (NP (DT a) (ADJP (NN constraint) (HYPH -) (VBN based)) (NML (NN type) (NN inference)) (NN algorithm)))))) (. .))

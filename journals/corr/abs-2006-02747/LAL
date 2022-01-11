@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN comment)) (VP (VBZ presents) (NP (NP (DT the) (NNS results)) (PP (IN of) (S (VP (VBG using) (NP (NP (JJ chance-constrained) (NN model) (JJ predictive) (NN control)) (PRN (-LRB- -LRB-) (NP (NNP MPC)) (-RRB- -RRB-))) (S (VP (TO to) (VP (VB solve) (NP (DT a) (JJ one-horizon) (NN benchmark) (NN collision) (NN avoidance) (NN problem)))))))))) (. .))

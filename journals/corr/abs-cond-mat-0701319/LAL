@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ principled) (NN procedure)) (SBAR (S (VP (TO to) (VP (VB infer) (NP (NP (DT a) (NN hierarchy)) (PP (IN of) (NP (NP (JJ statistical) (NNS distributions)) (VP (VBG possessing) (NP (JJ ill-conditioned) (NNS eigenstructures)))))) (, ,) (PP (IN from) (NP (JJ incomplete) (NNS constraints))) (, ,)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (NP (DT The) (NN principle)) (VP (VBG underlying) (NP (DT the) (NN learning) (NN paradigm)))) (VP (VBZ involves) (S (VP (VBG providing) (NP (DT a) (JJ quantum) (JJ mechanical) (NN connotation)) (PP (TO to) (NP (JJ statistical) (NNS processes)))))) (. .))
-(S (NP (JJ Numerical) (NNS simulations)) (VP (VBP exemplify) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (DT the) (NN model))))) (. .))

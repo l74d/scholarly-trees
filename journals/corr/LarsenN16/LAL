@@ -1,1 +1,0 @@
-(S (NP ($ $) ($ $)) (NP (DT This) (JJR lower) (NN bound)) (VP (VBZ matches) (NP (NP (DT the) (JJ upper) (NN bound)) (VP (VBN given) (PP (IN by) (NP (NP (DT the) (NNP Johnson-Lindenstrauss) (NN lemma)) (PRN (NNP -LSB-) (NP (NNP JL84)) (NNP -RSB-))))))) (. .))

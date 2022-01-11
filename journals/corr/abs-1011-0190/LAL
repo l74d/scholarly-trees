@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP it)) (VP (VBZ is) (VP (VBN considered) (S (NP (NP (JJ rule) (NN reduct) (NN generation) (NN problem)) (, ,) (PP (VBN based) (PP (IN on) (NP (NNP Rough) (NNP Set) (NNP Theory)))))))) (. .))
-(S (NP (NP (NNP Rule) (NNP Reduct) (NNP Generation) (PRN (-LRB- -LRB-) (NP (NNP RG)) (-RRB- -RRB-))) (CC and) (NP (NNP Modified) (NNP Rule) (NNP Generation) (PRN (-LRB- -LRB-) (NP (NNP MRG)) (-RRB- -RRB-)) (NN algorithms))) (VP (VBP are) (ADJP (JJ well-known))) (. .))
-(S (NP (JJ Alternative) (PP (TO to) (NP (DT these) (NNS algorithms)))) (NP (NP (VBG Pruning) (NNP Algorithm)) (PP (IN of) (NP (NNP Generation))) (NP (NP (NP (NNP A) (NNP Minimal) (NNP Set)) (PP (IN of) (NP (NNP Rule) (NNP Reducts)))) (, ,) (CC or) (ADVP (NN briefly)) (NP (NNP Pruning) (NNP Rule) (NNP Generation) (PRN (-LRB- -LRB-) (NP (NNP PRG)) (-RRB- -RRB-)) (NN algorithm)))) (VP (VBZ is) (VP (VBN developed))) (. .))
-(S (NP (NNP PRG) (JJ algorithm)) (VP (NNS uses) (NP (VBP tree) (VBN structured) (NNS data) (NN type))) (. .))
-(S (NP (NNP PRG) (NN algorithm)) (VP (VBZ is) (VP (VBN compared) (PP (IN with) (NP (NNP RG) (CC and) (NNP MRG) (NN algorithms))))))

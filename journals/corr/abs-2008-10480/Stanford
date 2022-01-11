@@ -1,6 +1,0 @@
-(S (NP (NN Image) (NN retrieval)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN problem)) (PP (IN in) (NP (NN computer) (NN vision))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (PRP$ our) (JJ 3rd) (NN place) (JJ detailed) (NN solution)) (PP (IN to) (NP (DT the) (NNP Google) (NNP Landmark) (NNP Retrieval) (CD 2020) (NN challenge)))) (. .))
-(S (NP (PRP We)) (VP (VBP focus) (PP (IN on) (NP (NP (NP (DT the) (NN exploration)) (PP (IN of) (NP (NNS data) (NN cleaning)))) (CC and) (NP (NP (NNS models)) (PP (IN with) (NP (JJ metric) (NN learning))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (NML (NN data) (NN cleaning)) (NN strategy)) (PP (VBN based) (PP (IN on) (NP (VBG embedding) (NN clustering))))) (. .))
-(S (ADVP (RB Besides)) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (NP (DT a) (NML (NN data) (NN augmentation)) (NN method)) (VP (VP (VBN called) (NP (NP (NN Corner) (HYPH -) (NN Cutmix)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ improves) (NP (NP (DT the) (NN model) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB recognize) (NP (NN multi-scale))))))))))) (CC and) (VP (VBN occluded) (NP (NN landmark) (NNS images)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (PP (IN in) (NP (NN detail))) (NP (NP (DT the) (NN ablation) (NNS experiments) (CC and) (NNS results)) (PP (IN of) (NP (PRP$ our) (NN method))))) (. .))

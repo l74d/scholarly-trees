@@ -1,6 +1,0 @@
-(S (NP (NP (JJ Boolean)) (CC and) (NP (NN quantum) (NNS circuits))) (VP (VBP have) (NP (NNS commonalities) (CC and) (NNS differences))) (. .))
-(S (S (VP (TO To) (VP (VB formalize) (NP (DT the) (JJ syntactical) (NN commonality))))) (NP (PRP we)) (VP (VBP introduce) (NP (JJ syntactic) (NNS circuits)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS gates)) (VP (VBP are) (NP (JJ black) (NNS boxes)))))) (. .))
-(S (NP (JJ Syntactic) (NNS circuits)) (VP (VBP support) (NP (JJ various) (NNS semantics))) (. .))
-(S (NP (CD One) (NNS semantics)) (VP (VBZ is) (VP (VBN provided) (PP (IN by) (NP (NP (NNP Boolean) (NNS circuits)) (, ,) (NP (DT another)))) (PP (IN by) (NP (NN quantum) (NNS circuits))))) (. .))
-(S (NP (NNP Quantum) (NNS semantics)) (VP (VP (VBZ is) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NNP Boolean))))) (CC but) (, ,) (SBAR (IN because) (S (PP (IN of) (NP (NN entanglement))) (, ,) (NP (DT the) (NN generalization)) (VP (VBZ is) (RB not) (ADJP (JJ straightforward)))))) (. .))
-(S (NP (PRP We)) (VP (VBP consider) (NP (RB only) (JJ unitary) (NN quantum) (NNS circuits)) (ADVP (RB here))) (. .))

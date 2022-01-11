@@ -1,1 +1,0 @@
-(S (NP (NP (DT A) (NNP Turing) (NN machine)) (SBAR (WHNP (WDT that)) (S (VP (VBZ computes) (NP (NNP Fibonacci) (NNS numbers)))))) (VP (VBZ is) (VP (VBN described))) (. .))

@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP construct) (NP (DT a) (JJ cellular) (NN automaton)) (PP (IN on) (NP (DT the) (NN pentagrid))) (SBAR (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ planar) (, ,) (RB weakly) (JJ universal))))) (CC and) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (CD five) (NNS states)) (ADVP (RB only))))))) (. .))
-(S (NP (DT This) (NN result)) (ADVP (JJ much)) (VP (VBZ improves) (NP (NP (DT the) (JJS best) (NN result)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (PP (IN with) (NP (CD nine) (NNS states)))))))))

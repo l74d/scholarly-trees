@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (NP (DT the) (NN configuration) (NN space)) (PP (IN of) (NP (NNS rectangulations)))) (CC and) (NP (NP (NN convex) (NNS subdivisions)) (PP (IN of) (NP (NML (NML (NML ($ $)) (NN n)) (NML ($ $))) (NNS points))))) (PP (IN in) (NP (DT the) (NN plane)))) (. .))
-(S (NP (NP (DT Some)) (PP (IN of) (NP (PRP$ our) (NNS bounds)))) (VP (VB generalize) (PP (IN to) (NP (NP (JJ convex) (NNS subdivisions)) (PP (IN of) (NP (NML (NML (NML ($ $)) (NN n)) (NML ($ $))) (NNS points))))) (PP (IN in) (NP (DT the) (NN plane)))) (. .))

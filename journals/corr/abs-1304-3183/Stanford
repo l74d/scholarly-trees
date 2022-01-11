@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT the) (NN characterization)) (PP (IN of) (NP (NN power) (NN control)))) (PP (IN in) (NP (NNP WCDMA) (NNS systems)))) (. .))
-(S (NP (PRP We)) (VP (VBP know) (SBAR (IN that) (S (NP (NN CDMA)) (VP (VBZ is) (NP (DT an) (NN interference) (JJ limited) (NN system)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (IN that) (S (NP (DT the) (JJ unbalance) (NN scheme)) (VP (VBZ is) (ADJP (JJ reliable) (CC and) (JJ successful)) (PP (IN for) (NP (DT both) (NML (NML (CD 2) (HYPH -) (NN way)) (CC and) (NML (CD 3) (HYPH -) (NN way))) (JJ soft) (NN handover)))))))) (. .))
-(S (NP (NNP Unbalance) (NN scheme)) (VP (VP (VBZ minimizes) (NP (NN interference))) (CC and) (VP (VB speed) (PRT (RP up)) (NP (DT the) (JJ soft) (NN handover) (NN algorithm)) (S (VP (TO to) (VP (VB support) (NP (JJR more) (NNS users)) (ADVP (RB quickly))))))) (. .))
-(S (ADVP (RB Furthermore)) (NP (PRP it)) (VP (VBZ requires) (NP (JJ minimum) (NN time)) (S (VP (TO to) (VP (VB make) (NP (NN decision)) (PP (IN for) (NP (NP (JJ proper) (NN power) (NN control)) (PP (IN in) (NP (JJ soft) (NN handover) (NN status))))))))) (. .))

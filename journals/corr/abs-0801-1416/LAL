@@ -1,2 +1,0 @@
-(S (NP (DT Both) (DT these) (NNS algorithms)) (VP (VBP use) (NP (JJ modular) (NN arithmetic))) (. .))
-(S (ADVP (RB Thus)) (, ,) (NP (PRP we)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NP (DT the) (CD two) (ADJP (RB seemingly) (JJ different)) (NNS approaches)) (PP (TO to) (NP (VB integer) (NN multiplication)))) (, ,) (NP (ADJP (JJ modular) (CC and) (JJ complex)) (NN arithmetic)) (, ,)) (VP (VBP are) (ADJP (JJ similar)))))) (. .))

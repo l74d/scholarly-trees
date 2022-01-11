@@ -1,1 +1,0 @@
-(S (NP (DT The) (NNP List) (NNP Hadwiger) (NNP Conjecture)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (DT every) (ADJP ($ $) (NNP K_t) ($ $) (CD -minor-free)) (NN graph)) (VP (VBZ is) (ADJP (NP ($ $) (JJ t) ($ $)) (JJ -choosable)))))) (. .))

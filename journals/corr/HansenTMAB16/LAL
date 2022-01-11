@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ budget-free) (NX (NX (JJ experimental) (NN setup)) (CC and) (NX (NN procedure)))) (PP (IN for) (S (VP (VBG benchmarking) (NP (NN numericaloptimization) (NN algorithms)) (PP (IN in) (NP (DT a) (JJ black-box) (NN scenario)))))))) (. .))
-(S (NP (DT This) (NN procedure)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN with) (NP (DT the) (NNP COCO) (NN benchmarking) (NN platform)))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP describe) (NP (NP (NP (NN initialization)) (PP (IN of))) (CC and) (NP (NP (VB input)) (PP (TO to))) (NP (DT the) (NN algorithm)))) (CC and) (VP (JJ touch) (PP (IN upon) (NP (NP (NN therelevance)) (PP (IN of) (NP (NN termination) (CC and) (NNS restarts))))))) (. .))

@@ -1,4 +1,0 @@
-(S (ADVP (RB Here)) (, ,) (S (VP (VBG using) (NP (JJ copula) (NNS functions)))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN model)) (PP (IN for) (NP (NNS discriminants))))) (. .))
-(S (NP (DT This) (NN model)) (VP (VBZ provides) (NP (NP (DT a) (ADJP (JJ rich) (CC and) (JJ generalized)) (NN class)) (PP (IN of) (NP (NN decision) (NNS boundaries))))) (. .))
-(S (NP (DT These) (NN decision) (NNS boundaries)) (VP (ADVP (RB significantly)) (VBP boost) (NP (DT the) (NN classification) (NN accuracy)) (PP (ADVP (RB especially)) (IN for) (NP (ADJP (JJ high) (JJ dimensional)) (NN feature) (NNS spaces)))) (. .))
-(S (NP (PRP We)) (VP (VBP strengthen) (NP (PRP$ our) (NN analysis)) (PP (IN through) (NP (NN simulation) (NNS results)))) (. .))

@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT the) (NN paper))) (NP (PRP I)) (VP (VBP prove) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (CD two) (NNS squares)) (PP (IN of) (NP (NN opposition)))))))) (. .))
-(S (NP (DT The) (JJ unconventional) (NN one)) (VP (VBZ is) (VP (VBN built) (PRT (RP up)) (PP (IN for) (NP (JJ synthetic) (NNS propositions))))) (. .))
-(S (EX There) (NP (DT a)) (, ,) (NP (NN i)) (VBP are) (ADJP (JJ contrary)) (, ,) (DT a) (, ,) (NN o) (PRN (-LRB- -LRB-) (ADVP (NN resp)) (. .)))
-(S (S (INTJ (NN e)) (, ,) (NP (NN i)) (-RRB- -RRB-) (VP (VBP are) (ADJP (JJ contradictory)))) (, ,) (S (NP (NN e)) (, ,) (EX o) (VP (VBP are) (ADJP (JJ subcontrary)))) (, ,) (S (DT a) (, ,) (NN e) (PRN (-LRB- -LRB-) (NN resp) (. .))))
-(S (NP (NN i) (, ,) (NN o)) (-RRB- -RRB-) (VP (VBP are) (VP (VBD said) (S (VP (TO to) (VP (VB stand) (PP (IN in) (NP (DT the) (NN subalternation)))))))) (. .))

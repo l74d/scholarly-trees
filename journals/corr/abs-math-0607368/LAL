@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP apply) (NP (JJ tropical) (NN geometry)) (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NN image)) (PP (IN of) (NP (NP (DT a) (NN map)) (VP (VBN defined) (PP (IN by) (NP (NP (NNP Laurent) (NNS polynomials)) (PP (IN with) (NP (JJ generic) (NNS coefficients))))))))))))) (. .))
-(S (SBAR (IN If) (S (NP (DT this) (NN image)) (VP (VBZ is) (NP (DT a) (NN hypersurface))))) (ADVP (RB then)) (NP (PRP$ our) (NN approach)) (VP (VBZ gives) (NP (NP (DT a) (NN construction)) (PP (IN of) (NP (PRP$ its) (NNP Newton) (NN polytope))))) (. .))

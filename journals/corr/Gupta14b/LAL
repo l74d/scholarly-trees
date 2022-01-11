@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN journey)) (PP (IN of) (NP (JJ big) (NNS data))) (VP (VBG starting) (PP (IN from) (NNS data) (VBG mining)) (PP (PP (TO to) (NP (VB web) (NN mining))) (PP (TO to) (NP (JJ big) (NNS data))))))) (. .))
-(S (NP (PRP It)) (VP (VP (VBZ discusses) (NP (NP (DT each)) (PP (IN of) (NP (DT this) (NN method)))) (PP (IN in) (ADJP (NN brief)))) (CC and) (VP (ADVP (RB also)) (VBZ provides) (NP (PRP$ their) (NNS applications)))) (. .))
-(S (NP (PRP It)) (VP (VBZ states) (NP (NP (DT the) (NN importance)) (PP (IN of) (S (VP (NN mining) (NP (JJ big) (NNS data)) (NP (NN today)) (S (VP (VBG using) (NP (ADJP (RB fast) (CC and) (JJ novel)) (NNS approaches))))))))) (. .))

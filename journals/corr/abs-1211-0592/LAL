@@ -1,7 +1,0 @@
-(S (NP (NNP Web) (NNS services)) (VP (VBP are) (NP (NP (VBG building) (NNS blocks)) (PP (IN of) (NP (JJ interoperable) (NNS systems))))) (. .))
-(S (S (VP (VBG Composing) (NP (NNP Web) (NNS services)))) (VP (VBZ makes) (S (NP (DT the) (NNS processes)) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG doing) (NP (JJ complex) (NNS tasks)))))))) (. .))
-(S (NP (NNP Composite) (NNS services)) (VP (MD may) (VP (VB fail) (PP (IN during) (NP (PRP$ their) (NN execution))) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN diagnosed) (PP (IN by) (NP (DT a) (NN mediator)))))))))) (. .))
-(S (NP (DT The) (NN mediator)) (VP (VBZ adapts) (NP (DT the) (NN structure)) (SBAR (IN so) (IN that) (S (NP (DT the) (NN failure)) (VP (VBZ is) (VP (VBN recovered)))))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (JJ future) (NNS executions)) (VP (MD should) (VP (VP (VB avoid) (NP (DT the) (NN situation))) (CC or) (VP (VB organize) (NP (NP (DT a) (NN strategy)) (SBAR (S (VP (TO to) (VP (VB repair) (NP (DT the) (NN structure)) (PP (IN with) (NP (DT a) (JJ minimum) (NN delay))))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT the) (NN failure) (NNS reasons)) (PP (IN of) (NP (DT a) (JJ composite) (NN service)))) (VP (VBP are) (VP (VBN reviewed))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT the) (NNS requirements)) (PP (IN of) (NP (NP (DT a) (NN solution)) (PP (IN for) (NP (NP (NN recovery)) (PP (IN of) (NP (DT a) (NN system))) (PP (IN from) (NP (DT a) (NN failure)))))))) (VP (VBP are) (VP (VBN investigated))) (. .))

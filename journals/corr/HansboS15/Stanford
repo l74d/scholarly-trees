@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ discontinuous) (JJ finite) (NN element) (NN method)) (PP (IN for) (NP (NP (JJ small) (NN strain) (NN elasticity)) (VP (VBG allowing) (PP (IN for) (NP (JJ cohesive) (NN zone) (NN modeling)))))))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ yields) (NP (NP (DT a) (JJ seamless) (NN transition)) (PP (IN between) (NP (NP (DT the) (JJ discontinuous) (NNP Galerkin) (NN method)) (CC and) (NP (JJ classical) (JJ cohesive) (NN zone) (NN modeling)))))) (. .))
-(S (NP (DT Some) (JJ relevant) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN presented))) (. .))

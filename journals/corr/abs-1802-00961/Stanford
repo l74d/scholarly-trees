@@ -1,2 +1,0 @@
-(S (ADVP (RB Moreover)) (S (NP (PRP they)) (ADVP (DT all)) (VP (VB implement) (NP (NP (NNS forms)) (PP (IN of) (NP (NN code) (NN mobility)))))) (. .))
-(S (S (NP (PRP$ Our) (NNS results)) (VP (VBP provide) (NP (NP (DT a) (JJ first) (JJ concurrent) (JJ computational) (NN interpretation)) (PP (IN for) (NP (JJ many) (JJ propositional) (JJ intermediate) (NNS logics)))))) (, ,) (NP (JJ classical) (NN logic)) (VP (VBD included)) (. .))

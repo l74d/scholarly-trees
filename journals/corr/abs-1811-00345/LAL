@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (JJ uniform) (NN distribution)) (VP (NNS minimises) (NP (VBP entropy)) (PP (IN among) (NP (NP (DT all) (JJ symmetric) (JJ log-concave) (NNS distributions)) (PP (IN with) (NP (JJ fixed) (NN variance))))))))) (. .))
-(S (PP (IN As) (NP (NNS consequences))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (JJ new) (NN capacity) (VBZ bounds)) (PP (IN for) (NP (NP (JJ additive) (NN noise) (NNS channels)) (PP (IN with) (NP (JJ such) (NNS noises))))))) (. .))

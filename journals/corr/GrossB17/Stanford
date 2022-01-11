@@ -1,1 +1,0 @@
-(S (NP (NP (DT A) (NN sum)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT each)) (PP (IN of) (NP (DT the) (NML ($ $) (CD N$)) (NNS summands)))) (VP (MD can) (VP (VB be) (ADVP (RB independently)) (VP (VBN chosen) (PP (IN from) (NP (CD two) (NNS choices))))))))) (VP (VBZ yields) (NP (NP ($ $) (CD 2)) (SYM ^) (NP (NN N$) (JJ possible) (NN summation) (NNS outcomes)))) (. .))

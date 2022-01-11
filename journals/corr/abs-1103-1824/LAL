@@ -1,2 +1,0 @@
-(S (NP (NP (JJ Side-Channel) (NN Analysis)) (VP (VBN used) (PP (IN for) (NP (VBG codebreaking))))) (VP (MD could) (VP (VB be) (VP (VBN used) (ADVP (RB constructively)) (PP (IN as) (NP (NP (DT a) (VBG probing) (NN tool)) (PP (IN for) (NP (NP (JJ internal) (NNS gates)) (PP (IN in) (NP (JJ integrated) (NNS circuits)))))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ outlines) (NP (NP (JJ basic) (NNS methods) (CC and) (NNS mathematics)) (PP (IN for) (NP (DT that) (NN purpose))))))

@@ -1,6 +1,0 @@
-(S (NP (NP (DT The) (NN concept)) (PP (IN of) (NP (NP (JJ component-based) (NN development)) (PRN (-LRB- -LRB-) (NP (NNP CBD)) (-RRB- -RRB-))))) (VP (VBZ is) (VP (ADVP (RB widely)) (VBN practiced) (PP (IN in) (NP (NN software) (PRN (-LRB- -LRB-) (NNP SW) (-RRB- -RRB-)) (NN development))))) (. .))
-(S (NP (NNP CBD)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NN reuse)) (PP (IN of) (NP (DT the) (VBG existing) (NNS components))) (PP (IN with) (NP (DT the) (JJ new) (NNS ones))))))) (. .))
-(S (NP (NP (DT The) (NN objective)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB propose) (NP (NP (DT a) (JJ novel) (NN process) (NN model)) (PP (IN for) (NP (NNP CBD)))))))) (. .))
-(S (NP (NP (NN Importance)) (PP (IN of) (NP (NN repository)))) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBN discussed)))) (. .))
-(S (NP (DT A) (NN survey)) (VP (VBZ has) (VP (VBN been) (VP (VBN conducted) (S (VP (TO to) (VP (VB evaluate) (NP (DT the) (VBN proposed) (NN model)))))))) (. .))
-(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT the) (NN survey)))) (VP (NN show) (SBAR (WDT that) (S (NP (VBD proposed) (NN process) (NN model)) (VP (MD can) (VP (VB be) (VP (ADVP (RB efficiently)) (VBN implemented) (PP (IN for) (NP (NNP CBD) (NNS projects))))))))) (. .))

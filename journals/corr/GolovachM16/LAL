@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN problem)) (VP (VBZ is) (ADJP (NNP W) (NNP -LSB-) (CD 1) (NNP -RSB-) (NN -hard)) (SBAR (WHADVP (WRB when)) (S (VP (VBN parameterized) (PP (IN by) (NP (NN k))) (PP (IN for) (NP (NP (DT any) (NN combination)) (PP (IN of) (NP (DT the) (JJ allowed) (JJ editing) (NNS operations)))))))))))) (. .))

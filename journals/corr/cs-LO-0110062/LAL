@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (NNS studies) (NP (NP (NP (DT some) (JJ important) (NNS properties)) (PP (IN of) (NP (DT the) (JJ asynchronous) (PRN (-LRB- -LRB-) (VBN =timed) (-RRB- -RRB-)) (NN automata)))) (: :) (NP (NP (DT the) (NN delay-insensitivity)) (, ,) (NP (DT the) (NN hazard-freedom)) (, ,) (NP (DT the) (NN semi-modularity)) (CC and) (NP (NP (DT the) (JJ technical) (NN condition)) (PP (IN of) (NP (JJ good) (NN running))))))) (. .))
-(S (NP (NNP Time)) (VP (VBZ is) (ADJP (JJ discrete))) (. .))

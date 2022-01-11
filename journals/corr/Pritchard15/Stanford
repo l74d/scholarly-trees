@@ -1,6 +1,0 @@
-(SBAR (WHNP (WDT Which)) (S (NP (NN programming) (NN error) (NNS messages)) (VP (VBP are) (ADJP (DT the) (RBS most) (JJ common)))) (. ?))
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT this) (NN question)) (, ,) (VP (VBN motivated) (PP (IN by) (S (VP (VBG writing) (NP (NN error) (NNS explanations)) (PP (IN for) (NP (NNS novices))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP consider) (NP (JJ large) (NNS data)) (NP (NP (NP (NNS sets)) (PP (IN in) (NP (NN Python)))) (CC and) (NP (NP (NNP Java)) (SBAR (WHNP (WDT that)) (S (VP (VBP include) (NP (NP (DT both) (NN syntax)) (CC and) (NP (ADJP (VB run) (HYPH -) (NN time)) (NNS errors))))))))) (. .))
-(S (PP (IN In) (NP (DT both) (NNS data) (NNS sets))) (, ,) (PP (IN after) (NP (NP (NN grouping)) (NP (ADJP (RB essentially) (JJ identical)) (NNS messages)))) (, ,) (NP (DT the) (NN error) (NN message) (NNS frequencies)) (ADVP (RB empirically)) (VP (VBP resemble) (NP (NML (NN Zipf) (HYPH -) (NN Mandelbrot)) (NNS distributions))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (NML (JJ maximum) (HYPH -) (NN likelihood)) (NN approach)) (S (VP (TO to) (VP (VB fit) (NP (DT the) (NN distribution) (NNS parameters)))))) (. .))
-(S (NP (DT This)) (VP (VBZ gives) (NP (CD one)) (NP (JJ possible) (NN way) (S (VP (TO to) (VP (VB contrast) (NP (NNS languages) (CC or) (NNS compilers)) (ADVP (RB quantitatively))))))) (. .))

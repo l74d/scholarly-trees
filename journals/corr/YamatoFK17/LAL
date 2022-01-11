@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NNP SaaS) (NN service)) (SBAR (WHNP (WDT which)) (S (VP (VBZ prevents) (NP (VBG shoplifting)) (S (VP (VBG using) (NP (NP (NN image) (NN analysis)) (CC and) (NP (NNP ERP)))))))))) (. .))
-(S (PP (IN In) (NP (NNP Japan))) (, ,) (NP (NP (JJ total) (NN damage)) (PP (IN of) (NP (VBG shoplifting)))) (VP (NNS reaches) (NP (QP (CD 450) (CD billion)) (NNS yen))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (NN cloud) (CC and) (NNS data) (NN analysis) (NN technology)))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT a) (NN shoplifting) (NN prevention) (NN service)) (PP (IN with) (NP (NP (NN image) (NN analysis)) (PP (IN of) (NP (NP (NP (NN security) (NN camera)) (CC and) (NP (NNP ERP) (NNS data) (NN check))) (PP (IN for) (NP (JJ small) (NNS shops))))))))) (. .))
-(S (NP (PRP We)) (VP (VBD evaluated) (NP (NN movie) (NN analysis))) (. .))

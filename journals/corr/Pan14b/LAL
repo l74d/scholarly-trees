@@ -1,5 +1,0 @@
-(S (NP (NNP Tensor) (NN transpose)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJR higher) (NN order)) (NN generalization)) (PP (IN of) (NP (NN matrix) (NN transpose))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP use) (NP (NP (NNS permutations)) (CC and) (NP (NN symmetry) (NN group))) (S (VP (TO to) (VP (VB define))))) (. ?))
-(S (NP (DT the) (NN tensor)) (VP (NN transpose)) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (NN classification) (CC and) (NN composition)) (PP (IN of) (NP (NN tensor) (NNS transposes))))) (. .))
-(S (NP (NP (NNS Properties)) (PP (IN of) (NP (NN tensor) (NN transpose)))) (VP (VBP are) (VP (VBN studied) (PP (IN in) (NP (NP (NN relation)) (PP (TO to) (NP (NP (VB tensor) (NN multiplication)) (, ,) (NP (NN tensor) (NNS eigenvalues)) (, ,) (NP (NN tensor) (NNS decompositions)) (CC and) (NP (NN tensor) (NN rank)))))))) (. .))

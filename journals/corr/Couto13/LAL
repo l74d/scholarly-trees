@@ -1,3 +1,0 @@
-(S (NP (DT This) (JJ technical) (NN report)) (VP (VBZ presents) (NP (NP (DT a) (JJ bibliometric) (NN analysis)) (PP (IN of) (NP (NP (DT the) (JJ top) (CD 30) (VBD cited) (NNS researchers)) (PP (IN from) (NP (NNP USA) (, ,) (NNP UK) (CC and) (NNP China))))))) (. .))
-(S (NP (DT The) (NN analysis)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NNP Google) (NNP Scholar) (NNS data))) (S (VP (VBG using) (NP (NNP CIDS)))))) (. .))
-(S (NP (DT The) (NNS researchers)) (VP (VBD were) (VP (VBN identified) (S (VP (VBG using) (NP (NP (PRP$ their) (JJ email) (NN suffix)) (: :) (NP (NN edu) (, ,) (JJ uk) (CC and) (NN cn))))))) (. .))

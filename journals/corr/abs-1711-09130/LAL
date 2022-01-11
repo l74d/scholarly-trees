@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN document))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (JJ supplementary) (NN material)) (PP (TO to) (NP (NP (DT a) (NN paper)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB be) (VP (VBN published) (PP (IN in) (NP (NNP ERTS2)))))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ includes) (NP (NP (DT a) (ADJP (RBR more) (JJ detailed)) (NN description)) (PP (IN of) (NP (DT the) (JJ described) (NN requirement) (NNS transformations))) (, ,) (VP (VBN outlined) (PP (IN in) (NP (DT the) (NN paper)))))) (. .))
-(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT a) (JJ formal) (NN description)) (PP (IN of) (NP (DT the) (JJ temporal) (NNS semantics) (NN model))))) (. .))

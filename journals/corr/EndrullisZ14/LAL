@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG proving) (NP (NP (JJ non-looping) (NN non-termination)) (PRN (, ,) (S (NP (WDT that)) (VP (VBZ is))) (, ,)) (PP (IN of) (NP (NP (NN term) (VBG rewriting) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (RB not) (VP (VB admit) (NP (VBG looping) (NNS reductions)))))))))))))) (. .))
-(S (PP (IN As) (NP (NP (NNS certificates)) (PP (IN of) (NP (NN non-termination))))) (, ,) (NP (PRP we)) (VP (VBP employ) (NP (JJ regular) (PRN (-LRB- -LRB-) (NN tree) (-RRB- -RRB-)) (NN automata))) (. .))

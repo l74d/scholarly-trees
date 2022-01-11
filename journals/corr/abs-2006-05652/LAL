@@ -1,7 +1,0 @@
-(S (NP (DT This) (NN research)) (VP (VBZ starts) (PP (IN with) (NP (DT the) (NN observation) (SBAR (IN that) (S (NP (NN face) (NN recognition)) (VP (MD can) (VP (VB suffer) (NP (DT a) (JJ low) (NN impact)) (PP (IN from) (NP (JJ significant) (NN image) (NN shrinkage)))))))))) (. .))
-(S (S (VP (TO To) (VP (VB explain) (NP (DT this) (NN fact))))) (, ,) (NP (PRP we)) (VP (VBD proposed) (NP (DT the) (NNP Pixel) (NNP Clustering) (NN methodology))) (. .))
-(S (NP (PRP It)) (VP (VBZ defines) (NP (NP (NNS regions)) (PP (IN in) (NP (DT the) (NN image))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP$ its) (NNS pixels)) (VP (VBP are) (ADJP (RB very) (JJ similar) (PP (TO to) (NP (DT each) (JJ other))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP extract) (NP (NNS features)) (PP (IN from) (NP (DT each) (NN region)))) (. .))
-(S (NP (PRP We)) (VP (VBD used) (NP (CD three) (NN face) (NNS databases)) (PP (IN in) (NP (DT the) (NNS experiments)))) (. .))
-(S (NP (PRP We)) (VP (VBD noticed) (SBAR (IN that) (S (NP (CD 512)) (VP (VBZ is) (NP (NP (DT the) (JJ maximum) (NN number)) (PP (IN of) (NP (NNS features))) (VP (VBN needed) (PP (IN for) (NP (JJ high) (NN accuracy) (NN image) (NN recognition))))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN method)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ robust)) (, ,) (SBAR (RB even) (IN if) (ADVP (RB only)) (NP (PRP it)) (VP (VBZ uses) (NP (NP (DT a) (JJ few) (NNS classes)) (PP (IN from) (NP (DT the) (NN training) (NN set))))))) (. .))

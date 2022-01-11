@@ -1,3 +1,0 @@
-(S (NP (DT The) (JJ classic) (NML (NN Coupon) (HYPH -) (NN Collector)) (NN Problem) (PRN (-LRB- -LRB-) (NP (NNP CCP)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBN generalized) (PP (IN to) (NP (DT the) (NN extent))) (SBAR (IN that) (S (NP (DT each) (NNS coupons)) (VP (VBZ serves) (NP (JJ certain) (`` ") (NNS purposes) ('' "))))))) (. .))
-(S (NP (RB Only) (JJ basic) (NN probability) (NN theory)) (VP (VBZ is) (VP (VBN used))) (. .))
-(S (NP (NN Centerpiece)) (ADVP (RB rather)) (VP (VBZ is) (NP (NP (DT an) (NN algorithm)) (SBAR (WHNP (WDT that)) (S (ADVP (RB efficiently)) (VP (VBZ counts) (NP (NP (QP (DT all) ($ $) (CD k)) (NML (NML ($ $)) (HYPH -) (NN element)) (NNS transversals)) (PP (IN of) (NP (DT a) (NN set) (NN system))))))))) (. .))

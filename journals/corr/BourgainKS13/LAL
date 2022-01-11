@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VB obtain) (NP (NP (DT a) (JJ new) (NN bound)) (PP (IN of) (NP (JJ certain) (JJ double) (JJ multiplicative) (NN character) (NNS sums))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (NP (DT this)) (VP (NN bound) (ADVP (RB together) (PP (IN with) (NP (DT some) (JJ other) (ADJP (RB previously) (VBN obtained)) (NNS results)))))) (S (VP (TO to) (VP (VB obtain) (NP (NP (JJ new) (NN algorithms)) (PP (IN for) (S (VP (VBG finding) (NP (NP (NNS roots)) (PP (IN of) (NP (NNS polynomials))) (PP (VBP modulo) (NP (DT a) (JJ prime) ($ $) (JJ p) ($ $)))))))))))) (. .))

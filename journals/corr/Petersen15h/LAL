@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NNS operations)) (ADJP (JJ available))) (VP (VBP are) (NP (NP (JJ increment)) (, ,) (NP (JJ decrement)) (, ,) (NP (JJ bit-wise) (JJ logical) (NNS operations)) (, ,) (CC and) (NP (NN assignment)))) (. .))
-(S (NP (NP (DT The) (JJ only) (JJ constant)) (ADJP (JJ available))) (VP (VBZ is) (NP (CD zero))) (. .))
-(S (NP (DT An) (ADJP (RB almost) (JJ matching)) (JJ upper) (NN bound)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN obtained))) (. .))

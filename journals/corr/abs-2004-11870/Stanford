@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (S (VP (NN privacy) (HYPH -) (VBG preserving) (NP (NN query)) (S (VP (VBG answering) (PP (IN in) (NP (NP (NN Description) (NNS Logics)) (-LRB- -LRB-) (NP (NNS DLs)) (-RRB- -RRB-)))))))) (. .))
-(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT the) (NN approach)) (PP (IN of) (NP (VBN controlled) (NN query) (NN evaluation) (PRN (-LRB- -LRB-) (NP (NN CQE)) (-RRB- -RRB-))))) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN instance) (NN indistinguishability))))))) (. .))

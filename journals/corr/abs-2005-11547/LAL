@@ -1,1 +1,0 @@
-(S (NP (JJ Weighted) (NN minwise) (NN hashing)) (VP (VBZ is) (NP (NP (DT a) (JJ standard) (NN dimensionality) (NN reduction) (NN technique)) (PP (IN with) (NP (NP (NNS applications)) (PP (TO to) (NP (NP (VB similarity) (NN search)) (CC and) (NP (JJ large-scale) (NN kernel) (NNS machines)))))))) (. .))

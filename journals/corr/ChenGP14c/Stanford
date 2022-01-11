@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NNS connections)) (VP (VBP are) (ADJP (ADJP (JJR richer) (CC and) (JJR deeper)) (SBAR (IN than) (S (VP (VBN described) (PP (IN in) (NP (VBG existing) (NN literature))))))))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP work) (PP (IN out) (NP (DT the) (NNP Gaussian) (NN case)))) (. .))
-(S (NP (NP (DT A) (JJ numerical) (NN example)) (PP (IN of) (NP (NP (DT the) (JJ latter) (NN convergence)) (PP (VBG involving) (NP (NNP Brownian) (NNS particles)))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN provided))) (. .))

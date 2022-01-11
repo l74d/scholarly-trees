@@ -1,5 +1,0 @@
-(S (NP (NP (DT A) (NN method)) (PP (IN of) (NP (NP (JJ lossless) (NNS data) (NN hiding)) (PP (IN in) (NP (NP (NNS images)) (VP (VBG using) (S (NP (NN integer) (NN wavelet)) (VP (VB transform) (CC and) (VB histogram) (S (VP (VBG shifting) (PP (IN for) (NP (NML (JJ gray) (NN scale)) (NNS images))))))))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ shifts) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN histogram)))) (, ,) (S (VP (TO to) (VP (VB create) (NP (NN space)) (PP (IN for) (NP (VBG embedding) (NML (NML (DT the) (NN watermark)) (NN information)) (NNS bits))))))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ embeds) (NP (NN watermark)) (PP (IN while) (S (VP (VBG maintaining) (NP (DT the) (JJ visual) (NN quality)) (ADVP (RB well)))))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ is) (ADJP (RB completely) (JJ reversible))) (. .))
-(S (NP (NP (DT The) (JJ original) (NN image)) (CC and) (NP (DT the) (NN watermark) (NNS data))) (VP (MD can) (VP (VB be) (VP (VBN recovered) (PP (IN without) (NP (DT any) (NN loss)))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP have) (VP (VBN proposed) (NP (DT a) (JJ novel) (NN approach)) (PP (IN to) (NP (NP (NNP Service) (NNP Discovery)) (PP (IN in) (NP (NP (NNP Mobile)) (NP (FW Ad) (FW hoc) (NNS Networks)))))))) (. .))
-(S (S (NP (PRP We)) (VP (VBP have) (NP (VBN simulated) (NP (NP (DT the) (VBN proposed) (NN approach)) (PP (IN in) (NP (NML (NN JIST) (HYPH /) (NN SWANS)) (NN simulator))))))) (CC and) (S (NP (DT the) (NNS results)) (VP (VBP have) (VP (VBN shown) (NP (JJ significant) (NN performance) (NN improvement))))) (. .))

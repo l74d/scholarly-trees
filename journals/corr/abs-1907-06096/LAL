@@ -1,3 +1,0 @@
-(S (NP (PRP$ Our) (NN game) (NNP Pommerman)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ console) (NN game)) (NP (NNP Bommerman)))))) (. .))
-(S (NP (DT The) (NN game)) (VP (VBZ starts) (PP (IN on) (NP (DT an) (QP (FRAG (UCP (CD 11) (IN by))) (CD 11)) (NN platform)))) (. .))
-(S (NP (NNP Pommerman)) (VP (VP (VBZ is) (NP (DT a) (JJ multi-agent) (NN environment))) (CC and) (VP (VP (VBZ is) (VP (VBN made) (PRT (IN up)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ different) (NNS situations))))))) (CC and) (VP (VBZ contains) (NP (CD four) (NNS agents))))) (. .))

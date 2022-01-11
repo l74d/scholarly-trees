@@ -1,8 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ is) (VP (VBN devoted) (PP (IN to) (NP (NP (DT an) (JJ analytical) (NN study)) (PP (IN of) (NP (DT the) (`` ") (NML (NN master) (HYPH -) (NN worker)) ('' ") (NN framework) (NN scalability))))) (PP (IN on) (NP (NP (NNS multiprocessors)) (PP (IN with) (NP (VBN distributed) (NN memory))))))) (. .))
-(S (NP (NP (DT A) (JJ new) (NN model)) (PP (IN of) (NP (NP (JJ parallel) (NNS computations)) (VP (VBN called) (NP (NN BSF)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (DT The) (NN BSF) (NN model)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NN BSP) (CC and) (NN SPMD) (NNS models))))) (. .))
-(S (NP (NP (DT The) (NN scope)) (PP (IN of) (NP (NN BSF) (NN model)))) (VP (VBZ is) (NP (DT the) (S (VP (VB compute) (HYPH -) (NP (JJ intensive) (NNS applications)))))) (. .))
-(S (NP (NP (DT The) (NN architecture)) (PP (IN of) (NP (NN BSF) (HYPH -) (NN computer)))) (VP (VBZ is) (VP (VBN defined))) (. .))
-(S (NP (NP (DT The) (NN structure)) (PP (IN of) (NP (NN BSF) (HYPH -) (NN program)))) (VP (VBZ is) (VP (VBN described))) (. .))
-(S (NP (DT The) (NML (S (VP (VBG Using) (NP (NP (DT this) (JJ metric)) (, ,) (NP (NP (DT the) (JJ upper) (NN scalability) (NNS bounds)) (PP (IN of) (NP (NN BSF) (NNS programs))))) (PP (IN on) (NP (VBN distributed) (NN memory)))))) (NNS multiprocessors)) (VP (VBP are) (VP (VBN evaluated))) (. .))
-(S (NP (NP (DT The) (NNS formulas)) (PP (IN for) (S (VP (VBG estimating) (NP (NP (DT the) (JJ parallel) (NN efficiency)) (PP (IN of) (NP (NN BSF) (NNS programs)))))))) (ADVP (RB also)) (VP (VBN proposed)) (. .))

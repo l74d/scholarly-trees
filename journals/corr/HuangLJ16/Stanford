@@ -1,6 +1,0 @@
-(S (NP (NN Knowledge) (NN base) (NN completion)) (VP (VBZ aims) (S (VP (TO to) (VP (VB infer) (NP (JJ new) (NNS relations)) (PP (IN from) (NP (VBG existing) (NN information))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NML (NML (NML (NN path)) (HYPH -) (VP (VBN augmented) (NP (NN TransR)))) (-LRB- -LRB-) (NML (NN PTransR))) (-RRB- -RRB-) (NN model)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NN link) (NN prediction)))))))) (. .))
-(S (PP (IN In) (NP (PRP$ our) (NN approach))) (, ,) (NP (PRP we)) (VP (VBP base) (NP (NNP PTransR) (NN model)) (PP (IN on) (NP (NP (NN TransR)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (JJS best) (NML (CD one) (HYPH -) (NN hop)) (NN model)) (PP (IN at) (ADJP (JJ present)))))))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP regularize) (NP (NN TransR)) (PP (IN with) (NP (NP (NN information)) (PP (IN of) (NP (NN relation) (NNS paths)))))) (. .))
-(S (PP (IN In) (NP (PRP$ our) (NN experiment))) (, ,) (NP (PRP we)) (VP (VBP evaluate) (NP (NNP PTransR)) (PP (IN on) (NP (NP (DT the) (NN task)) (PP (IN of) (NP (NN entity) (NN prediction)))))) (. .))
-(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP PTransR)) (VP (VBZ outperforms) (NP (JJ previous) (NNS models)))))) (. .))

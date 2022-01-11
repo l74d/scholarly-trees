@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ contains) (NP (DT the) (NN algorithm)) (PP (IN for) (S (VP (VBG searching) (NP (NP (DT a) (JJ certain) (NN kind)) (PP (IN of) (NP (NP (NNS bridges)) (PP (IN in) (NP (NP (DT the) (NN protection) (NN graph)) (PP (IN of) (NP (NML (S (VP (VB Take) (HYPH -) (NP (NNP Grant))))) (NN model)))))))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (ADJP (NP (JJ classical) (NN breadth)) (HYPH -) (JJ first)) (NN search) (NN algorithm))))) (. .))

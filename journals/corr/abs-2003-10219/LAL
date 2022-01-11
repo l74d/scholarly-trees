@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ novel) (NN interpolant))) (VP (VBZ is) (VP (VBN introduced) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ has) (NP (DT a) (JJ simple) (NN structure))) (CC and) (VP (VBZ is) (ADJP (JJ easy) (SBAR (S (VP (TO to) (VP (VB generalize)))))))))))) (. .))
-(S (PP (IN By) (NP (NP (NNS means)) (PP (IN of) (NP (DT this) (NN interpolant))))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT an) (JJ optimal) (NN order)) (PP (IN of) (NP (JJ uniform) (NN convergence))) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (DT the) (NN perturbation) (NN parameter))))))) (. .))
-(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP illustrate) (NP (DT these) (JJ theoretical) (NNS results))) (. .))

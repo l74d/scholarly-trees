@@ -1,3 +1,0 @@
-(S (ADVP (RB Recently)) (NP (VB knapsack) (NNS problems)) (VP (VBP have) (VP (VBN been) (VP (VBN generalized) (PP (IN from) (NP (DT the) (NNS integers))) (PP (TO to) (NP (VB arbitrary) (ADJP (RB finitely) (JJ generated)) (NNS groups)))))) (. .))
-(S (NP (NNP Myasnikov) (, ,) (NNP Nikolaev) (, ,) (CC and) (NNP Ushakov)) (VP (VBD proved) (SBAR (IN that) (S (PP (IN for) (NP (DT every) (PRN (PRN (-LRB- -LRB-) (NNP Gromov-) (-RRB- -RRB-)) (NN hyperbolic)) (NN group))) (, ,) (NP (DT the) (NN knapsack) (NN problem)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN in) (NP (JJ polynomial) (NN time))))))))) (. .))
-(S (NP (NP (NNS Groups)) (PP (IN with) (NP (DT this) (NN property)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN called) (S (NP (NN knapsack-tame))))) (. .))

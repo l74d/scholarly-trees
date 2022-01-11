@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP perform) (NP (DT an) (JJ experimental) (JJ end-to-end) (NN transceiver) (NN optimization)) (PP (IN via) (NP (JJ deep) (VBG learning))) (S (VP (VBG using) (NP (DT a) (JJ generative) (JJ adversarial) (NN network)) (S (VP (TO to) (VP (VB approximate) (NP (DT the) (JJ test-bed) (NN channel)))))))) (. .))
-(S (ADVP (RB Previously)) (, ,) (NP (NN optimization)) (VP (VBD was) (ADJP (RB only) (JJ possible)) (PP (IN through) (NP (NP (DT a) (JJ prior) (NN assumption)) (PP (IN of) (NP (DT an) (JJ explicit) (JJ simplified) (NN channel) (NN model)))))) (. .))

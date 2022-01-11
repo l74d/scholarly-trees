@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (JJ multiple) (NNS variants)) (PP (IN of) (NP (DT the) (NN game) (NNP Cops) (CC and) (NNP Robbers))))) (. .))
-(S (PP (IN In) (NP (DT these) (NNS cases))) (, ,) (NP (DT the) (NN cop) (NN number)) (VP (VBZ is) (VP (ADVP (RB completely)) (VBN determined))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NN aggregation)) (PP (IN of) (NP (NP (JJ incomplete) (NNS preferences)) (VP (VBN represented) (PP (IN by) (NP (NP (JJ arbitrary) (JJ binary) (NNS relations)) (CC or) (NP (JJ incomplete) (VBN paired) (NN comparison) (NNS matrices))))))))))) (. .))
-(S (PP (IN For) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ indirect) (NN scoring) (NNS procedures))))) (NP (PRP we)) (VP (VBP examine) (SBAR (IN whether) (CC or) (RB not) (S (NP (PRP they)) (VP (VBP satisfy) (NP (NP (DT the) (NN axiom)) (PP (IN of) (NP (JJ self-consistent) (NN monotonicity)))))))) (. .))
-(S (NP (CD Two) (JJ main) (NNS results)) (VP (VBP are) (VP (VBN established))) (. .))
-(S (PP (VBG According) (PP (TO to) (NP (DT the) (JJ first) (CD one)))) (, ,) (NP (DT every) (NN win-loss) (VBG combining) (JJ scoring) (NN procedure)) (VP (VBZ breaks) (NP (JJ self-consistent) (NN monotonicity))) (. .))
-(S (NP (DT The) (JJ second) (NN result)) (VP (VBZ provides) (NP (NP (DT a) (JJ sufficient) (NN condition)) (PP (IN of) (NP (VBG satisfying) (JJ self-consistent) (NN monotonicity))))) (. .))

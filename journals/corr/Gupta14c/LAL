@@ -1,4 +1,0 @@
-(S (NP (NN Information) (NNP Hiding)) (VP (VBZ is) (VP (VBN considered) (S (NP (NP (ADJP (RB very) (JJ important)) (NN part)) (PP (IN of) (NP (PRP$ our) (NNS lives))))))) (. .))
-(S (NP (EX There)) (VP (VBP exist) (NP (NP (JJ many) (NNS techniques)) (PP (IN for) (S (VP (VBG securing) (NP (DT the) (NN information))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ briefs) (PP (IN on) (NP (NP (NP (DT the) (NNS techniques)) (PP (IN for) (NP (NN information) (NN hiding)))) (CC and) (NP (NP (DT the) (JJ potential) (NNS threats)) (PP (TO to) (NP (DT those) (NNS methods))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ briefs) (PP (IN about) (NP (NP (NN cryptanalysis) (CC and) (NN stegananlysis)) (, ,) (NP (NP (CD two) (NNS methods)) (PP (IN for) (S (VP (VBG breaching) (PP (IN into) (NP (DT the) (NN security) (NNS methods)))))))))) (. .))

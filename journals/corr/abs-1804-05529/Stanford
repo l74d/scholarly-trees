@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (DT an) (JJ upper) (ADJP (VBN bound) (PP (IN on) (NP (NP (DT the) (NNP Shannon) (NN capacity)) (PP (IN of) (NP (NP (DT a) (NN graph)) (PP (IN via) (NP (DT a) (JJ linear) (NN programming)))))))) (NN variation))) (. .))
-(S (PP (IN As) (NP (NP (DT a)) (PP (IN by) (HYPH -) (NP (NN product))))) (, ,) (NP (PRP we)) (ADVP (RB also)) (VP (VB obtain) (NP (NP (DT a) (JJ new) (JJ upper) (ADJP (VBN bound) (PP (IN on) (NP (DT the) (NN broadcast)))) (NN rate)) (PP (IN of) (NP (NNP Index) (NNP Coding))))) (. .))

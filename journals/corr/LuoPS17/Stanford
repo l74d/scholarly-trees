@@ -1,8 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ gives) (NP (DT an) (NN insight)) (PP (IN into) (NP (NP (DT the) (NNS applications)) (PP (IN of) (NP (NP (DT an) (NML (JJ open) (HYPH -) (NN source)) (NN control) (NN system) (NN platform)) (VP (VBN named) (NP (NNP VOLTTRON)))))))) (. .))
-(S (NP (DT This) (NN platform)) (VP (VBD was) (VP (VBN developed) (PP (IN by) (NP (DT the) (NML (NNP Pacific) (NNP Northwest)) (NNP National) (NNP Laboratory))))) (. .))
-(S (NP (DT A) (JJ brief) (NN introduction)) (VP (VBZ is) (VP (VBN given) (PP (IN on) (NP (NP (DT the) (NN functionality)) (CC and) (NP (NP (NN key) (NNS features)) (PP (IN of) (NP (DT the) (NN platform)))))))) (. .))
-(S (NP (NP (JJ Potential) (NNS applications)) (PP (IN in) (NP (NP (DT the) (NNS areas)) (PP (IN of) (S (VP (VBG building) (NP (NP (UCP (NN control) (CC and) (JJ electric)) (NN vehicle)) (VP (VBG charging))))))))) (VP (VBP are) (VP (VBN stated) (, ,) (PP (IN along) (IN with) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (VBG existing) (NNS projects))))))) (. .))
-(S (NP (DT A) (NN comparison)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN made) (PP (IN between) (NP (NP (NNP VOLTTRON)) (CC and) (NP (JJ other) (JJ related) (NN software)))))) (. .))
-(S (NP (NP (DT An) (JJ actual) (NN implementation) (NN case)) (PP (IN of) (NP (NNP VOLTTRON)))) (VP (VBZ is) (ADVP (RB then)) (VP (VBN presented) (PP (IN in) (NP (DT the) (NN case) (NN study))))) (. .))
-(S (NP (DT The) (NN demonstration)) (VP (VBZ uses) (NP (DT the) (NNP VOLTTRON) (NN platform)) (PP (IN as) (NP (DT a) (NN message) (NN bus)))) (. .))
-(S (NP (JJ Decentralized) (NNS generators) (CC and) (NNS consumers)) (VP (VBP are) (VP (VBN simulated) (PP (IN by) (NP (CD 16) (NML (JJ single) (HYPH -) (NN board)) (NNS computers))))) (. .))

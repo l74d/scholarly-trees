@@ -1,3 +1,0 @@
-(S (NP (NP (NNS Modifications)) (PP (IN of) (NP (NNP Markovski) (ADJP (NN quasigroup) (VBN based)) (NNS crypto-algorithm)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed)))) (. .))
-(S (NP (NP (DT Some)) (PP (IN of) (NP (DT these) (NNS modifications)))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS systems)) (PP (IN of) (NP (JJ orthogonal) (JJ n-ary) (NNS groupoids))))))) (. .))
-(S (NP (ADJP (NNS T-quasigroups) (VBN based)) (NN stream) (NNS ciphers)) (VP (VBP have) (VP (VBN been) (VP (VBN constructed)))) (. .))

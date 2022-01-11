@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP establish) (NP (NP (RB almost) (ADJP (ADJP (JJ tight) (JJ upper)) (CC and) (ADJP (JJR lower))) (NN approximation) (NNS bounds)) (PP (IN for) (NP (DT the) (NML (NNP Vertex) (NNP Cover)) (NN problem)))) (PP (IN on) (NP (JJ dense) (NML (NN k) (HYPH -) (NN partite)) (NNS hypergraphs)))) (. .))

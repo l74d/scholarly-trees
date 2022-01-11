@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (JJ online) (NN scenario)) (SBAR (WHADVP (WRB where)) (S (NP (NNS items)) (VP (VBP are) (VP (VBN presented) (NP (CD one)) (PP (IN by) (NP (CD one)))))))) (. .))
-(S (ADVP (RB Additionally)) (, ,) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (JJ small) (NML (NML (QP ($ $) (CD k))) (NML ($ $)))))) (PP (IN with) (NP (NN respect))) (PP (IN to) (NP (NP (DT the) (JJ asymptotic) (JJ competitive) (NN ratio)) (CC and) (NP (DT the) (JJ absolute) (JJ competitive) (NN ratio))))) (. .))

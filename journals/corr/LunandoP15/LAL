@@ -1,7 +1,0 @@
-(S (NP (NNP Sarcasm)) (VP (VBZ is) (VP (VBN considered) (S (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ difficult)) (NN problem)) (PP (IN in) (NP (NN sentiment) (NN analysis))))))))) (. .))
-(S (PP (IN In) (NP (NP (PRP$ our) (NN ob-servation)) (PP (IN on) (NP (JJ Indonesian) (JJ social) (NNS media))))) (, ,) (PP (IN for) (NP (JJ cer-tain) (NNS topics))) (, ,) (NP (NNS people)) (VP (VBP tend) (S (VP (TO to) (VP (VB criticize) (NP (NN something)) (S (VP (VBG using) (NP (NN sarcasm)))))))) (. .))
-(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBD proposed) (NP (NP (CD two) (JJ additional) (NNS features)) (SBAR (S (VP (TO to) (VP (VB detect) (NP (NN sarcasm)) (SBAR (IN after) (S (NP (DT a) (JJ common) (NN sentiment) (NN analysis)) (VP (VBZ is) (VP (VBN conducted))))))))))) (. .))
-(S (NP (DT The) (NNS features)) (VP (VBP are) (NP (NP (DT the) (NN negativity) (NN information)) (CC and) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN interjection) (NNS words)))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD employed) (NP (JJ translated) (NNP SentiWordNet)) (PP (IN in) (NP (DT the) (NN sentiment) (NN classification)))) (. .))
-(S (NP (PDT All) (DT the) (NNS classifications)) (VP (VBD were) (VP (VBN conducted) (PP (IN with) (NP (NN machine) (VBG learning) (NNS algorithms))))) (. .))
-(S (NP (DT The) (JJ experimental) (NNS results)) (VP (VBD showed) (SBAR (IN that) (S (NP (DT the) (JJ additional) (NNS features)) (VP (VBP are) (ADJP (RB quite) (JJ effective)) (PP (IN in) (NP (DT the) (NN sarcasm) (NN detection))))))) (. .))

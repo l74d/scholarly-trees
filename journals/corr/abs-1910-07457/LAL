@@ -1,4 +1,0 @@
-(S (NP (DT The) (NNS systems)) (ADVP (RB still)) (VP (VBP translate) (ADJP (JJ wrong)) (NP (QP (CD one) (IN out) (IN of) (CD four)) (NN test) (NNS items)) (PP (IN in) (NP (NN average)))) (. .))
-(S (NP (JJ Low) (NN performance)) (VP (VBZ is) (VP (VBN indicated) (PP (IN for) (NP (NP (NNS idioms)) (, ,) (NP (NNS modals)) (, ,) (NP (NNS pseudo-clefts)) (, ,) (NP (JJ multi-word) (NNS expressions)) (CC and) (NP (JJ verb) (NN valency)))))) (. .))
-(S (SBAR (WHADVP (WRB When)) (S (VP (VBN compared) (PP (TO to) (NP (JJ last) (NN year)))))) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NN improvement)) (PP (IN of) (NP (NP (NN function) (NNS words)) (, ,) (NP (JJ non-verbal) (NN agreement)) (CC and) (NP (NN punctuation))))))) (. .))
-(S (NP (NP (ADJP (RBR More) (JJ detailed)) (NNS conclusions)) (PP (IN about) (NP (JJ particular) (NNS systems) (CC and) (NNS phenomena)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN presented))) (. .))

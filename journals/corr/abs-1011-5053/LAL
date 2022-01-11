@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP conclude) (SBAR (IN that) (S (NP (DT this) (JJ new) (NN quantity)) (VP (ADVP (RB tightly)) (VBZ characterizes) (NP (NP (DT the) (JJ true) (JJ sample) (NN complexity)) (PP (IN of) (NP (JJ large-margin) (NN classification)))))))) (. .))
-(S (NP (DT The) (NNS bounds)) (VP (VBP hold) (PP (IN for) (NP (NP (DT a) (JJ rich) (NN family)) (PP (IN of) (NP (JJ sub-Gaussian) (NNS distributions)))))) (. .))

@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (NN software) (NN testing))) (, ,) (NP (NP (DT the) (JJ large) (NN size)) (PP (IN of) (NP (DT the) (NN input) (NN domain)))) (VP (VBZ makes) (S (ADVP (RB exhaustively)) (VP (VBG testing) (NP (NP (DT the) (NNS inputs)) (NP (DT a) (ADJP (ADJP (JJ daunting)) (CC and) (ADJP (RB often) (JJ impossible))) (NN task)))))) (. .))
-(S (NP (JJ Pair-wise) (NN testing)) (VP (VBZ is) (NP (NP (DT a) (JJ popular) (NN approach)) (PP (IN to) (NP (JJ combinatorial) (NN testing) (NNS problems))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VP (VBZ reviews) (NP (JJ Pair-wise) (NN testing))) (CC and) (VP (NP (PRP$ its) (NN history) (, ,) (NNS strengths) (, ,) (NNS weaknesses) (, ,) (CC and) (NNS tools)) (PP (IN for) (NP (VBG generating) (NN test) (NNS cases))))) (. .))

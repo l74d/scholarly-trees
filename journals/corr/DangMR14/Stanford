@@ -1,1 +1,0 @@
-(S (NP (JJ Key) (NN frame) (NN extraction) (NNS algorithms)) (VP (VBP consider) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG selecting) (NP (NP (DT a) (NN subset)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ informative)) (NNS frames)))) (PP (IN from) (NP (DT a) (NN video))) (PP (IN to) (S (VP (VB summarize) (NP (PRP$ its) (NN content)))))))))) (. .))

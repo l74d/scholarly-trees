@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP provide) (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (DT the) (NN nucleolus)) (PP (IN for) (NP (NP (DT an) (NN instance)) (PP (IN of) (NP (NP (DT a) (JJ weighted) (NN voting) (NN game)) (PP (IN in) (NP (JJ pseudo-polynomial) (NN time))))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ resolves) (NP (NP (DT an) (JJ open) (NN question)) (VP (VBN posed) (PP (IN by) (NP (NNP Elkind)))))) (. .))
-(ADJP (JJ et.al) (. .))
-(NP (CD 2007) (. .))

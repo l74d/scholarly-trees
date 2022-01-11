@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ simple) (NNP Markov) (NN process)) (VP (VBN inspired) (PP (IN by) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ quasicrystal) (NN growth)))))))) (. .))
-(S (ADVP (RBR More) (RB precisely)) (, ,) (NP (RB only) (DT the)) (VP (VBZ flips) (SBAR (WHNP (WDT which)) (S (VP (VBP do) (RB not) (VP (VB increase) (SBAR (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS pairs)) (PP (IN of) (NP (JJ consecutive) (JJ identical) (NNS letters)))))) (VP (VBP are) (VP (VBN allowed)))))))))) (. .))
-(FRAG (NP (NP (NP (NML (VBN Fixed) (HYPH -) (NNS points))) (PP (IN of) (NP (NP (PDT such) (DT a) (NN process)) (ADVP (RB thus))))) (NP (ADJP (RB perfectly) (JJ alternate)) (JJ different) (NNS letters))) (. .))

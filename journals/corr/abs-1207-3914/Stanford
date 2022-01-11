@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN largenet2) (NNP C++) (NN library)) (VP (VBZ provides) (NP (NP (DT an) (NN infrastructure)) (PP (IN for) (NP (NP (DT the) (NN simulation)) (PP (IN of) (NP (JJ large) (JJ dynamic) (CC and) (JJ adaptive) (NNS networks)))))) (PP (IN with) (NP (JJ discrete) (NML (NN node) (CC and) (NN link)) (NNS states)))) (. .))
-(S (NP (DT The) (NN library)) (VP (VBZ is) (VP (VBN released) (PP (IN as) (NP (JJ free) (NN software))))) (. .))
-(SINV (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ available) (PP (IN at) (NP (DT this) (NN http) (NN URL) (NN Largenet2)))))) (VP (VBZ is) (VP (VBN licensed) (PP (IN under) (NP (DT the) (NNP Creative) (NNP Commons) (NNP Attribution) (HYPH -) (NNP NonCommercial))))) (NP (CD 3.0) (NNP Unported) (NN License)) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NNP Benchmarking)) (VP (VBZ is) (ADJP (JJ key) (PP (IN for) (S (VP (VBG developing) (CC and) (VBG comparing) (NP (NN optimization) (NN algorithms))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ CUDA-based) (JJ real) (NN parameter) (NN optimization) (NN benchmark)) (PRN (-LRB- -LRB-) (NP (NN cuROB)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (NP (NNP Test) (NNS functions)) (PP (IN of) (NP (NN diverse) (NNS properties)))) (VP (VBP are) (VP (VP (VBN included) (PP (IN within) (NP (NN cuROB)))) (CC and) (VP (VBN implemented) (ADVP (RB efficiently)) (PP (IN with) (NP (NNP CUDA)))))) (. .))
-(S (NP (NP (NNP Speedup)) (PP (IN of) (NP (NP (CD one) (NN order)) (PP (IN of) (NP (NN magnitude)))))) (VP (MD can) (VP (VB be) (VP (VBN achieved) (PP (IN in) (NP (NP (NN comparison)) (PP (IN with) (NP (NP (JJ CPU-based) (NN benchmark)) (PP (IN of) (NP (NNP CEC'14)))))))))) (. .))

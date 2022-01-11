@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (NP (JJ several) (NNS types)) (PP (IN of) (NP (NP (NNS queries)) (PP (IN for) (NP (NP (JJ classical)) (CC and) (NP (JJ new) (NNS problems)))))) (PP (IN of) (NP (NML (NN learning) (CC and) (NN testing)) (ADJP (VBN read) (HYPH -) (RB once)) (NNS functions))))) (. .))
-(S (PP (IN In) (NP (JJ several) (NNS cases))) (, ,) (NP (NP (DT the) (NN border)) (PP (IN between) (NP (ADJP (JJ polynomial) (CC and) (JJ exponential)) (NNS complexities)))) (VP (VBZ is) (VP (VBN obtained))) (. .))

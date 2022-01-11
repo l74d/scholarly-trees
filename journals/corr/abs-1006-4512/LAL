@@ -1,3 +1,0 @@
-(S (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (JJ new) (NNS features)) (PP (IN of) (NP (DT the) (JJ symbolic) (NN manipulation) (NN system) (NNP FORM)))))) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (ADVP (RB Then)) (NP (NP (DT some) (JJ recent) (NNS results)) (VP (VBG running) (NP (PRP$ its) (JJ multithreaded) (NN version) (NNP TFORM)))) (VP (VBP are) (VP (VBN shown))) (. .))
-(S (ADVP (RB Finally)) (NP (NP (DT the) (NNS plans)) (PP (IN for) (NP (DT the) (NN future)))) (VP (VBP are) (VP (VBN presented))) (. .))

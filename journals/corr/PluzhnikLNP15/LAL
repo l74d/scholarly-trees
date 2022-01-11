@@ -1,4 +1,0 @@
-(S (S (VP (VBG Designing) (NP (NNS applications)) (PP (IN for) (NP (NP (NN use)) (PP (IN in) (NP (DT a) (JJ hybrid) (NN cloud))))))) (VP (VBZ has) (NP (JJ many) (NNS features))) (. .))
-(S (NP (DT These)) (VP (VBP include) (NP (NP (JJ dynamic) (NN virtualization) (NN management)) (CC and) (NP (DT an) (JJ unknown) (NN route) (VBG switching) (NNS customers)))) (. .))
-(S (NP (DT This)) (VP (VBZ makes) (S (NP (NP (PRP it))) (ADJP (JJ impossible)) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (NN query)) (CC and) (RB hence) (NP (NP (DT the) (JJ optimal) (NN distribution)) (PP (IN of) (NP (NNS data)))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP formulate) (NP (NP (DT the) (JJ main) (NNS challenges)) (PP (IN of) (S (VP (VBG designing) (CC and) (NN simulation) (FRAG (VBP offer) (NN installation) (PP (IN for) (NP (NN processing))))))))) (. .))

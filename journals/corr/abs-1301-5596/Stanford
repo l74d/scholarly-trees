@@ -1,2 +1,0 @@
-(S (NP (JJ Algebraic) (NNS systems)) (VP (VBP are) (VP (VBN constructed) (PP (IN from) (SBAR (WHNP (WDT which)) (S (NP (NP (NN series)) (PP (IN of) (NP (ADJP (NP (JJ maximum) (NN distance)) (JJ separable) (PRN (-LRB- -LRB-) (NP (NNS mds)) (-RRB- -RRB-))) (NNS codes)))) (VP (VBP are) (VP (VBN derived)))))))) (. .))
-(S (NP (DT The) (NNS methods)) (VP (VBP use) (NP (NP (NN unit)) (CC and) (NP (NN idempotent) (NNS schemes)))) (. .))

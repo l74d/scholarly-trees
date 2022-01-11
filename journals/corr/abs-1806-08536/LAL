@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (CC and) (NN extension)) (PP (IN of) (NP (NP (DT the) (JJ tableau-based) (NN first-order) (VBD automated) (JJ theorem) (NN prover)) (NP (NNP Zenon) (NNP Modulo)))) (PP (TO to) (NP (VB polarized) (NN rewriting))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (DT the) (NN framework))) (CC and) (VP (VB explain) (NP (DT the) (JJ potential) (NNS benefits)))) (. .))
-(S (NP (DT The) (JJ first) (NN target)) (VP (VBZ is) (NP (NP (DT an) (JJ industrial) (NN benchmark)) (VP (VBN composed) (PP (IN of) (NP (NNP B) (NNP Set) (NNP Theory) (NNS problems)))))) (. .))

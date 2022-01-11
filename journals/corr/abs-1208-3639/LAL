@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (JJ linear) (JJ differential) (NNS operators)) (PP (IN with) (NP (NP (JJ polynomial) (NNS coefficients)) (PP (IN over) (NP (NP (DT a) (NN field)) (PP (IN of) (NP (JJ characteristic) (NN zero)))))))) (VP (MD can) (VP (VB be) (VP (VBN multiplied) (PP (IN in) (NP (JJ quasi-optimal) (NN time))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ answers) (NP (NP (DT an) (JJ open) (NN question)) (VP (VBN raised) (PP (IN by) (NP (NN van) (NN der) (NNP Hoeven)))))) (. .))

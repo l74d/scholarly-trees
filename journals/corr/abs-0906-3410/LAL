@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ quasi-cyclic) (NNP LDPC) (NNS codes))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (JJ precise) (NNS conditions)) (VP (VBG guaranteeing) (NP (NP (JJ high) (NN girth)) (PP (IN in) (NP (PRP$ their) (NNP Tanner) (NN graph))))))) (. .))
-(S (ADVP (RB Experimentally)) (, ,) (NP (NP (DT the) (NNS codes)) (SBAR (S (NP (PRP we)) (VP (VBP propose))))) (VP (VP (JJ perform) (ADVP (ADVP (DT no) (JJR worse)) (PP (IN than) (NP (NP (JJR random) (NNP LDPC) (NNS codes)) (PP (IN with) (NP (PRP$ their) (JJ same) (NNS parameters))))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (JJ significant) (NN achievement)) (PP (IN for) (NP (JJ algebraic) (NNS codes)))))))) (. .))

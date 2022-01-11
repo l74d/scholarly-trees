@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ novel) (NN online) (JJ ensemble) (NN learning) (NN strategy)) (PP (IN for) (NP (NN portfolio) (NN selection))))) (. .))
-(S (NP (DT The) (JJ new) (NN strategy)) (VP (NNS controls) (CC and) (VBZ exploits) (NP (NP (DT any) (NN set)) (PP (IN of) (NP (JJ commission-oblivious) (NN portfolio) (NN selection) (NN algorithms))))) (. .))
-(S (NP (DT The) (NN strategy)) (VP (VBZ handles) (NP (NN transaction) (NNS costs)) (S (VP (VBG using) (NP (DT a) (JJ novel) (NN commission) (NN avoidance) (NN mechanism))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (JJ logarithmic) (NN regret) (NN bound)) (PP (IN for) (NP (PRP$ our) (NN strategy)))) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (NP (JJ optimal) (NNS mixtures)) (PP (IN of) (NP (DT the) (NN base) (NN algorithms)))))))) (. .))
-(S (NP (JJ Numerical) (NNS examples)) (VP (VP (VBP validate) (NP (NP (DT the) (NN viability)) (PP (IN of) (NP (PRP$ our) (NN method))))) (CC and) (VP (VB show) (NP (NP (JJ significant) (NN improvement)) (PP (IN over) (NP (DT the) (JJ state-of-the-art)))))) (. .))

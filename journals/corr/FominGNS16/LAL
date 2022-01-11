@@ -1,1 +1,0 @@
-(S (NP (VBG Semiring) (NN complexity)) (VP (VBZ is) (NP (NP (DT the) (NN version)) (PP (IN of) (NP (JJ arithmetic) (NN circuit) (NN complexity))) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (NP (NP (QP (RB only) (CD two)) (NNS operations)) (: :) (NP (NN addition) (CC and) (NN multiplication)))))))) (. .))

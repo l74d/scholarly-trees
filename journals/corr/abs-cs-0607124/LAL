@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ describes) (NP (NP (JJ problem-oriented) (NN approach)) (PP (TO to) (NP (NN software) (NN development))))) (. .))
-(S (NP (DT The) (NN approach)) (VP (VBZ is) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (NP (DT the) (JJ original) (JJ integrated) (NN methodology)) (PP (IN of) (NP (NN enterprise) (JJ Internet-based) (NN software) (NN design) (CC and) (NN implementation))))))) (. .))
-(S (NP (NP (DT All) (NNS aspects)) (PP (IN of) (NP (NN software) (NN development))) (, ,) (PP (PP (IN from) (NP (NN theory))) (PP (TO to) (NP (NN implementation)))) (, ,)) (VP (VBP are) (VP (VBN covered))) (. .))

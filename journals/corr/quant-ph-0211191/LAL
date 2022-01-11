@@ -1,3 +1,0 @@
-(S (NP (NP (JJ Recent) (NN development)) (PP (IN in) (NP (NP (JJ quantum) (NN computation)) (CC and) (NP (JJ quantum) (NN information) (NN theory))))) (VP (VBZ allows) (S (VP (TO to) (VP (VB extend) (NP (NP (DT the) (NN scope)) (PP (IN of) (NP (NN game) (NN theory))) (PP (IN for) (NP (DT the) (JJ quantum) (NN world)))))))) (. .))
-(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (NP (DT the) (NN history)) (, ,) (NP (JJ basic) (NNS ideas)) (CC and) (NP (JJ recent) (NN development))) (PP (IN in) (NP (JJ quantum) (NN game) (NN theory))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN context))) (, ,) (NP (NP (DT a) (JJ new) (NN application)) (PP (IN of) (NP (DT the) (NNP Ising) (NN chain) (NN model)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

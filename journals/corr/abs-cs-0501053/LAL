@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VB reduce) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ classic) (JJ relational) (NN algebra) (NNS operators)))) (PP (TO to) (NP (NP (CD two) (JJ binary) (NNS operations)) (: :) (NP (NP (JJ natural) (NN join)) (CC and) (NP (VBN generalized) (NN union)))))) (. .))
-(S (NP (PRP We)) (VP (ADVP (VBP further)) (VB demonstrate) (SBAR (IN that) (S (NP (NP (DT this) (NN set)) (PP (IN of) (NP (NNS operators)))) (VP (VP (VBZ is) (ADJP (RB relationally) (JJ complete))) (CC and) (VP (NNS honors) (NP (VBP lattice) (NNS axioms))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (DT the) (NN submodular) (NN secretary) (NN problem)) (PP (IN with) (NP (DT a) (NN cardinality) (NN constraint)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN problem))) (, ,) (NP (NP (ADJP ($ $) (JJ n) ($ $)) (NNS candidates)) (PP (IN for) (NP (NNS secretaries)))) (VP (VBP appear) (ADVP (RB sequentially)) (PP (IN in) (NP (JJ random) (NN order)))) (. .))
-(S (PP (IN At) (NP (NP (DT the) (NN arrival)) (PP (IN of) (NP (DT each) (NN candidate))))) (, ,) (NP (DT a) (NN decision) (NN maker)) (VP (MD must) (VP (ADVP (VB irrevocably)) (VB decide) (SBAR (IN whether) (S (VP (TO to) (VP (VB hire) (NP (PRP him)))))))) (. .))
-(S (NP (DT The) (NN decision) (NN maker)) (VP (VBZ aims) (S (VP (TO to) (VP (VB hire) (NP (NP (ADJP (ADVP (IN at) (JJS most)) ($ $) (JJ k) ($ $)) (NNS candidates)) (SBAR (WHNP (IN that)) (S (VP (VB maximize) (NP (DT a) (JJ non-negative) (NN submodular) (VBN set) (NN function)))))))))) (. .))

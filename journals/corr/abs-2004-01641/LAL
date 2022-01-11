@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (NN construction)) (PP (IN of) (NP (NNS lattices))) (PP (IN from) (NP (PRN (-LRB- -LRB-) (JJ skew-) (-RRB- -RRB-)) (JJ polynomial) (NNS codes))) (, ,) (PP (IN by) (S (VP (VBG endowing) (NP (NP (NNS quotients)) (PP (IN of) (NP (NP (DT some) (NNS ideals)) (PP (IN in) (NP (DT both) (NP (NN number) (NNS fields)) (CC and) (NP (JJ cyclic) (NNS algebras))))))) (PP (IN with) (NP (DT a) (JJ suitable) (NN trace) (NN form)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (NNS criteria)) (PP (IN for) (NP (NN unimodularity))))) (. .))
-(S (NP (DT This)) (VP (VBZ yields) (NP (NP (ADJP (JJ integral) (CC and) (JJ unimodular)) (NNS lattices)) (PP (IN with) (NP (DT a) (JJ multiplicative) (NN structure))))) (. .))
-(S (NP (NNS Examples)) (VP (VBP are) (VP (VBN provided))) (. .))

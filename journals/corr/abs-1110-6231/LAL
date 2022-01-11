@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (PRP$ our) (NN work))) (NP (PRP we)) (VP (JJ present) (NP (NP (NP (CD two) (JJ parallel) (NNS algorithms)) (CC and) (NP (PRP$ their) (JJ lock-free) (NNS implementations))) (VP (VBG using) (NP (NP (DT a) (JJ popular) (NNP GPU) (NN environment)) (NP (NNP Nvidia) (NNP CUDA)))))) (. .))
-(S (NP (DT The) (JJ first) (NN algorithm)) (VP (VBZ is) (NP (NP (DT the) (JJ push-relabel) (NN method)) (PP (IN for) (NP (NP (DT the) (NN flow) (NN problem)) (PP (IN in) (NP (JJ grid) (NN graphs))))))) (. .))
-(S (NP (DT The) (JJ second)) (VP (VBZ is) (NP (NP (DT the) (NN cost) (NN scaling) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN assignment) (NN problem)) (PP (IN in) (NP (JJ complete) (NN bipartite) (NN graphs))))))) (. .))

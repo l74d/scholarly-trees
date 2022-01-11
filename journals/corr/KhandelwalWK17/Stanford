@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN methodology)) (PP (IN for) (NP (NP (NN model)) (VP (VBN based) (NP (NP (JJ robust) (NN fault) (NN diagnosis)) (CC and) (NP (NP (DT a) (NN methodology)) (PP (IN for) (NP (NN input) (NN design))))) (S (VP (TO to) (VP (VB obtain) (NP (NP (JJ optimal) (NN diagnosis)) (PP (IN of) (NP (NNS faults)))))))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN algorithm)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (JJ real) (NN time) (NN implementation))))) (. .))
-(S (NP (NP (NNS Issues)) (PP (IN of) (NP (NN robustness)))) (VP (VBP are) (VP (VBN addressed) (PP (IN for) (NP (NP (DT the) (NN input) (NN design)) (CC and) (NP (NN fault) (NN diagnosis) (NNS methodologies)))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN technique)) (VP (VBZ allows) (NP (JJ robust) (NN fault) (NN diagnosis)) (PP (IN under) (NP (NP (JJ suitable) (NNS conditions)) (PP (IN on) (NP (DT the) (NN system) (NN uncertainty)))))) (. .))
-(S (NP (NP (DT The) (VBN designed) (NN input)) (CC and) (NP (NN fault) (NN diagnosis) (NNS techniques))) (VP (VBP are) (VP (VBN illustrated) (PP (IN by) (NP (JJ numerical) (NN simulation))))) (. .))

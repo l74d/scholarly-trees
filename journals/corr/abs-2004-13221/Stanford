@@ -1,7 +1,0 @@
-(S (NP (JJ Korean)) (VP (VBZ is) (NP (DT a) (ADJP (RB morphologically) (JJ rich)) (NN language))) (. .))
-(S (NP (JJ Korean) (NNS verbs)) (VP (VBP change) (NP (PRP$ their) (NNS forms)) (PP (IN in) (NP (DT a) (JJ fickle) (NN manner))) (PP (VBG depending) (PP (IN on) (NP (NP (JJ tense)) (, ,) (NP (NN mood)) (, ,) (NP (NN speech) (NN level)) (, ,) (NP (NN meaning)) (, ,) (ADVP (FW etc.)))))) (. .))
-(S (ADVP (RB Therefore)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBG challenging) (S (VP (TO to) (VP (VB construct) (NP (NP (JJ comprehensive) (NN conjugation) (NNS paradigms)) (PP (IN of) (NP (JJ Korean) (NNS verbs))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (ADJP (JJ Korean) (PRN (-LRB- -LRB-) (S (VP (VB verb))) (-RRB- -RRB-))) (NN conjugation) (NN paradigm) (NN generator)) (, ,) (VP (VBN dubbed) (NP (NNP KoParadigm))))) (. .))
-(S (PP (IN To) (NP (NP (DT the) (JJS best)) (PP (IN of) (NP (PRP$ our) (NN knowledge))))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ Korean) (NN conjugation) (NN module)) (SBAR (WHNP (WDT that)) (S (VP (VBZ covers) (NP (NP (DT all) (JJ contemporary) (JJ Korean) (NNS verbs)) (CC and) (NP (NNS endings)))))))) (. .))
-(S (NP (NNP KoParadigm)) (VP (VBZ is) (RB not) (ADVP (RB only)) (ADJP (ADJP (ADVP (RB linguistically)) (RB well) (VBN established)) (, ,) (CC but) (ADJP (ADJP (ADVP (RB also)) (ADVP (RB computationally)) (JJ simple)) (CC and) (ADJP (JJ efficient))))) (. .))
-(S (NP (PRP We)) (VP (VBP share) (NP (PRP it)) (PP (IN via) (NP (NN PyPi)))) (. .))

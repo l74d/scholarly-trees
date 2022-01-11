@@ -1,6 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN survey))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (CD two) (JJ recent) (NNS developments)) (PP (IN in) (NP (NN quantum) (NN algorithms))))) (. .))
-(S (NP (DT This)) (VP (VBZ provides) (NP (NP (JJ quantum) (NNS speedups)) (PP (IN for) (NP (NP (DT any) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN expressed) (PP (IN via) (NP (NNP Boolean) (NNS formulas)))))))))))) (. .))
-(S (NP (DT This) (NN result)) (VP (MD can) (VP (VB be) (ADVP (RB also)) (VP (VBN extended) (S (VP (TO to) (VP (NP (VB span) (NNS problems)) (, ,) (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NNP Boolean) (NNS formulas)))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ provides) (NP (NP (DT an) (JJ optimal) (NN quantum) (NN algorithm)) (PP (IN for) (NP (NP (DT any) (NNP Boolean) (NN function)) (PP (IN in) (NP (DT the) (JJ black-box) (NN query) (NN model))))))) (. .))
-(S (NP (DT The) (JJ second) (JJ new) (NN development)) (VP (VBZ is) (NP (NP (DT a) (JJ quantum) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (NP (NNS systems)) (PP (IN of) (NP (JJ linear) (NNS equations))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ outputs) (NP (NP (DT a) (NN quantum) (NN state)) (VP (VBG describing) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (DT the) (NN system))))))) (. .))

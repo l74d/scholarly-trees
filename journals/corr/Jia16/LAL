@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN effectiveness)) (PP (IN of) (NP (NP (JJ long) (JJ short) (NN term) (NN memory) (NNS networks)) (VP (VBN trained) (PP (IN by) (NP (NN backpropagation))) (PP (IN through) (NP (NN time)))))) (PP (IN for) (NP (NN stock) (NN price) (NN prediction)))) (VP (VBZ is) (VP (VBN explored) (PP (IN in) (NP (DT this) (NN paper))))) (. .))
-(S (NP (NP (DT A) (NN range)) (PP (IN of) (NP (JJ different) (NN architecture) (NNP LSTM) (NNS networks)))) (VP (VBP are) (VP (VBN constructed) (UCP (JJ trained) (CC and) (VBN tested)))) (. .))

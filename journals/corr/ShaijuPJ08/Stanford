@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP formulate)) (CC and) (VP (VB solve) (NP (DT a) (VBN guaranteed) (NN cost) (NN control) (NN problem)) (PP (IN for) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ uncertain) (JJ linear) (JJ stochastic) (NN quantum) (NNS systems))))))) (. .))
-(S (PP (IN For) (NP (DT these) (NN quantum) (NNS systems))) (, ,) (NP (NP (DT a) (NN connection)) (PP (IN with) (NP (DT an) (JJ associated) (JJ classical) (-LRB- -LRB-) (JJ non-quantum) (-RRB- -RRB-) (NN system)))) (VP (VBZ is) (ADVP (RB first)) (VP (VBN established))) (. .))
-(S (S (VP (VBG Using) (NP (DT this) (NN connection)))) (, ,) (NP (NP (DT the) (VBN desired) (VBN guaranteed) (NN cost)) (NP (NNS results))) (VP (VBP are) (VP (VBN established))) (. .))
-(S (NP (NP (DT The) (NN theory)) (VP (VBN presented))) (VP (VBZ is) (VP (VBN illustrated) (S (VP (VBG using) (NP (DT an) (NN example)) (PP (IN from) (NP (NN quantum) (NNS optics))))))) (. .))

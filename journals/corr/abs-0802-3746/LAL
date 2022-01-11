@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (NN purpose)) (PP (IN of) (NP (DT this) (NN tutorial)))) (VP (VBZ is) (S (VP (TO to) (VP (VB present) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (JJ various) (NN information) (VBG hiding) (NNS techniques)))))))) (. .))
-(S (NP (NP (DT A) (JJ brief) (NN history)) (PP (IN of) (NP (NN steganography)))) (VP (VBZ is) (VP (VBN provided) (ADVP (IN along) (PP (IN with) (NP (NP (NNS techniques)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN used) (S (VP (TO to) (VP (VB hide) (NP (NN information)))))))))))))) (. .))
-(S (NP (ADJP (NN Text) (, ,) (NN image) (CC and) (VB audio) (VBN based)) (NN information) (VBG hiding) (NNS techniques)) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (NP (DT This) (NN paper)) (ADVP (RB also)) (VP (VBZ provides) (NP (NP (DT a) (JJ basic) (NN introduction)) (PP (TO to) (NP (JJ digital) (NN watermarking))))) (. .))

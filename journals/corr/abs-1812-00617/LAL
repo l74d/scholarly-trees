@@ -1,4 +1,0 @@
-(S (NP (DT This)) (VP (VP (VBZ is) (NP (NP (DT a) (JJ natural) (NN generalization)) (PP (IN of) (NP (NP (DT the) (JJ classical) (NN connectivity)) (PP (IN of) (NP (NP (NN graphs)) (VP (VBN defined) (PP (IN in) (NP (NP (NN term)) (PP (IN of) (NP (DT the) (JJ minimum) (JJ vertex-cut)))))))))))) (CC and) (VP (VBZ is) (NP (NP (DT a) (JJ good) (NN measure)) (PP (IN of) (NP (NN robustness))) (PP (IN for) (NP (NP (DT the) (NN graph)) (VP (VBG corresponding) (PP (TO to) (NP (DT a) (NN network))))))))) (. .))
-(S (NP (PRP It)) (VP (VP (VBZ has) (VP (VBN been) (VP (VBN pointed) (PRT (RP out)) (PP (JJ in~) (JJ -LSB-) (NP (NP (NP (NNP Component) (NN connectivity)) (PP (IN of) (NP (DT the) (NNS hypercubes)))) (, ,) (NP (NNP Int))))))) (. .)))
-(NP (NNP J.) (NNP Comput) (. .))
-(NP (NN Math) (. .))

@@ -1,3 +1,0 @@
-(S (NP (JJ Phylogenetic) (NNS networks)) (VP (VBP are) (ADJP (JJ important) (PP (IN for) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NN evolution))))))) (. .))
-(S (S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS methods)) (SBAR (S (VP (TO to) (VP (VB find) (NP (JJ such) (NNS networks))))))))) (VP (VBZ is) (VP (VBG increasing)))) (, ,) (CC but) (S (NP (JJS most) (JJ such) (NNS methods)) (VP (MD can) (ADVP (RB only)) (VP (VB reconstruct) (NP (JJ small) (NNS networks))))) (. .))
-(S (S (VP (TO To) (VP (VB find) (NP (JJR bigger) (NNS networks))))) (, ,) (NP (CD one)) (VP (MD can) (VP (VB attempt) (S (VP (TO to) (VP (VB combine) (NP (JJ small) (NNS networks))))))) (. .))

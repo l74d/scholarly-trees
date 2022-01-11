@@ -1,2 +1,0 @@
-(S (S (VP (VBG Using) (NP (JJ novel) (NNS wildcards)))) (VP (VBZ enables) (NP (NP (DT a) (ADJP (JJ compressed)) (NN enumeration)) (PP (IN of) (NP (DT these) (NNS models))))) (. .))
-(S (NP (JJ Simple) (NNS examples)) (VP (VBP show) (SBAR (IN that) (S (NP (DT the) (NN compression)) (VP (MD can) (VP (VB be) (ADJP (RB arbitrarily) (JJ high))))))) (. .))

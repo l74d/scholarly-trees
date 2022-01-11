@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ simple) (NN iteration) (NN methodology)) (PP (IN for) (NP (NP (DT the) (NN solution)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (DT a) (JJ linear) (JJ algebraic) (NNS equations)))))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (NP (DT The) (NN explanation)) (PP (IN of) (NP (DT this) (NN method)))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (NX (NX (JJ pure) (JJ geometrical) (NN interpretation)) (CC and) (NX (JJ pictorial) (NN representation))))))) (. .))
-(S (S (NP (NP (NN Convergence)) (VP (VBG using) (NP (DT this) (NN method)))) (VP (VBZ is) (VP (VBN obtained)))) (CC and) (S (NP (DT a) (JJ simple) (JJ numerical) (NN example)) (VP (VBZ is) (VP (VBN provided)))) (. .))

@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (NN model)) (PP (IN of) (NP (JJ pedestrian) (NN motion)))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (PP (IN As) (NP (NN application))) (NP (PRP$ its) (NNS parameters)) (VP (VBP are) (VP (VBN fitted) (PP (TO to) (NP (NP (CD one) (NN run)) (PP (IN in) (NP (DT a) (JJ primary) (NN school) (NN evacuation) (NN exercise))))))) (. .))
-(S (NP (NP (NNS Simulations)) (PP (IN with) (NP (DT these) (NNS parameters)))) (VP (VBP are) (VP (VBN compared) (PP (TO to) (NP (NP (RBR further) (NNS runs)) (PP (IN during) (NP (DT the) (JJ same) (NN exercise))))))) (. .))

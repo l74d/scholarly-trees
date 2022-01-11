@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ explains) (NP (JJ genetic) (NN algorithm)) (PP (IN for) (NP (NP (NN novice)) (PP (IN in) (NP (DT this) (NN field)))))) (. .))
-(S (NP (NP (JJ Basic) (NN philosophy)) (PP (IN of) (NP (NP (JJ genetic) (NN algorithm)) (CC and) (NP (PRP$ its) (NN flowchart))))) (VP (VBP are) (VP (VBN described))) (. .))
-(S (NP (NP (ADJP (NN Step) (IN by) (NN step)) (JJ numerical) (NN computation)) (PP (IN of) (NP (NP (JJ genetic) (NN algorithm)) (PP (IN for) (S (VP (VBG solving) (NP (JJ simple) (JJ mathematical) (NN equality) (NN problem)))))))) (VP (MD will) (VP (VB be) (VP (NN briefly) (VBD explained)))))

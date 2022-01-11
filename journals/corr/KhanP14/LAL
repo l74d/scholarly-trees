@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT the) (JJ interval-valued) (JJ intuitionistic) (NN fuzzy) (NN matrix)) (PRN (-LRB- -LRB-) (NP (NNP IVIFM)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (DT The) (JJ interval-valued) (JJ intuitionistic) (NN fuzzy) (NN determinant)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN defined))) (. .))
-(S (NP (DT Some) (JJ fundamental) (NNS operations)) (VP (VBP are) (ADVP (RB also)) (VP (VBN presented))) (. .))
-(S (NP (NP (DT The) (NN need)) (PP (IN of) (NP (NNP IVIFM)))) (VP (VBZ is) (VP (VBN explain) (PP (IN by) (NP (DT an) (NN example))))) (. .))

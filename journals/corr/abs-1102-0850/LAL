@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (PRP it))) (VP (VBZ is) (ADJP (JJ decidable)) (PP (IN in) (NP (JJ exponential) (NN time))) (SBAR (IN whether) (S (NP (NP (DT the) (JJ lexicographic) (NN ordering)) (PP (IN of) (NP (DT a) (JJ context-free) (NN language)))) (VP (VP (VBZ is) (ADJP (VBN scattered))) (, ,) (CC or) (NP (DT a) (JJ well-ordering))))))))) (. .))

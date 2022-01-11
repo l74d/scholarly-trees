@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ characterizes) (ADVP (RB geometrically)) (NP (NP (DT the) (NNS singularities)) (PP (IN of) (NP (JJ limited) (NN DOF) (JJ parallel) (NNS manipulators))))) (. .))
-(S (NP (NP (NNS Manipulators)) (PP (IN under) (NP (NN consideration)))) (VP (VBP do) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB have) (NP (DT a) (JJ passive) (JJ spherical) (NN joint)) (ADVP (RB somewhere) (PP (IN in) (NP (DT each) (NN leg))))))))) (. .))
-(S (NP (DT This) (NN study)) (VP (VBZ is) (VP (VBN illustrated) (PP (IN with) (NP (CD three) (NN example) (NNS robots))))))

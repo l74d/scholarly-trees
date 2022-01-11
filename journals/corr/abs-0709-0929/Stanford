@@ -1,3 +1,0 @@
-(S (NP (VBN Generalized) (JJ mutual) (NN entropy)) (VP (VP (VBZ is) (VP (VBN defined) (PP (IN for) (NP (NNS networks))))) (CC and) (VP (VBD applied) (PP (IN for) (NP (NP (NN analysis)) (PP (IN of) (NP (JJ complex) (NN network) (NNS structures))))))) (. .))
-(S (NP (DT The) (NN method)) (VP (VBZ is) (VP (VBN tested) (PP (IN for) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NN computer))))) (NP (NP (VBN simulated) (NN scale) (JJ free) (NNS networks)) (, ,) (NP (JJ random) (NNS networks)) (, ,) (CC and) (NP (PRP$ their) (NNS mixtures))))) (. .))
-(S (NP (NP (DT The) (JJ possible) (NNS applications)) (PP (IN for) (NP (JJ real) (NN network) (NN analysis)))) (VP (VBP are) (VP (VBN discussed))) (. .))

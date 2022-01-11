@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ novel) (ADJP (NN descriptive-complexity) (JJ theoretic)) (NN characterization)) (PP (IN of) (NP (NP (NNP L) (CC and) (NNP NL) (JJ computable) (NNS queries)) (PP (IN over) (NP (JJ finite) (NNS structures))))) (S (VP (VBG using) (NP (JJ traversal) (NN invariance)))))) (. .))
-(S (NP (PRP We)) (VP (VBP summarize) (NP (DT this)) (PP (IN as) (S (NP (PRN (-LRB- -LRB-) (NNP N) (-RRB- -RRB-)) (NNP L)) (VP (NNP =) (NP (NP (NNP FO)) (NNP +) (NP (PRN (-LRB- -LRB-) (JJ breadth-first) (-RRB- -RRB-)) (NN traversal-invariance))))))) (. .))

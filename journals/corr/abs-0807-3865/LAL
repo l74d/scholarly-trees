@@ -1,2 +1,0 @@
-(S (NP (NP (NN Generation)) (PP (IN of) (NP (JJ pseudo) (NN random) (NNS sequences))) (PP (PP (IN by) (NP (JJ cellular) (NNS automata))) (, ,) (CONJP (RB as) (RB well) (IN as)) (PP (IN by) (NP (JJ hybrid) (JJ cellular) (NN automata))))) (VP (VBZ is) (VP (VBN surveyed))) (. .))
-(S (NP (NP (DT An) (NN application)) (PP (TO to) (NP (NP (DT the) (NX (NX (JJ fast) (NN evaluation)) (CC and) (NX (NNP FPGA) (NN implementation)))) (PP (IN of) (NP (NP (DT some) (NNS classes)) (PP (IN of) (NP (JJ boolean) (NNS functions)))))))) (VP (VBZ is) (VP (VBN sketched) (PRT (RP out)))) (. .))

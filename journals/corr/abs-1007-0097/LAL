@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP compare) (NP (CD two) (NNS f-divergences))) (CC and) (VP (VB prove) (SBAR (DT that) (S (NP (PRP$ their) (NN joint) (NN range)) (VP (VBZ is) (NP (NP (DT the) (JJ convex) (NN hull)) (PP (IN of) (NP (NP (DT the) (JJ joint) (NN range)) (PP (IN for) (NP (NP (NNS distributions)) (VP (VBN supported) (PP (IN on) (NP (QP (RB only) (CD two)) (NNS points)))))))))))))) (. .))
-(S (NP (NP (DT Some) (NNS applications)) (PP (IN of) (NP (DT this) (NN result)))) (VP (VBP are) (VP (VBN given))) (. .))

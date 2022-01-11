@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (JJ memristive) (NNS fingerprints)) (PP (IN of) (NP (NP (DT the) (NN hybrid) (NML (NNP Cassie) (HYPH -) (NNP Mayr)) (NN model)) (PP (IN of) (NP (JJ electric) (NNS arcs))))))) (. .))
-(S (NP (DT The) (NN conductance)) (VP (FRAG (NP ($ $)) (SBAR (LST (LS g)) (S (NP (NP ($ $)) (PP (IN of) (NP (DT the) (NML (NNP Cassie) (HYPH -) (NNP Mayr)) (NN model)))) (VP (VBZ decreases) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN frequency) (NNS increases))))))))) (. .))
-(S (NP (DT The) (NN hybrid) (NML (NNP Cassie) (HYPH -) (NNP Mayr)) (NN model)) (VP (VBZ describes) (ADVP (RB therefore)) (NP (NP (DT an) (JJ interesting) (NN case)) (PP (IN of) (NP (DT a) (JJ memristive) (NN phenomenon))))) (. .))

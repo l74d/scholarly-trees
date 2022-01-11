@@ -1,4 +1,0 @@
-(S (NP (NN Web) (NN development)) (VP (VBZ is) (ADVP (RB currently)) (NP (ADJP (VBN driven) (PP (IN by) (NP (NN model) (HYPH -) (NN view) (HYPH -) (NN controller) (PRN (-LRB- -LRB-) (NP (NN MVC)) (-RRB- -RRB-))))) (NNS frameworks))) (. .))
-(SBARQ (WHADVP (WRB How)) (SQ (VBZ has) (NP (NN content) (NN management)) (VP (VBD adapted) (PP (IN to) (NP (DT this) (NN scenario))))) (. ?))
-(NP (NP (DT This) (NN paper) (NNS reviews)) (NP (NP (ADJP (JJ content) (NP-TMP (NP (NN management) (NNS features)) (PP (IN in) (NP (NP (NNP Ruby)) (PP (IN on) (NP (NNPS Rails))))))) (NN framework)) (CC and) (NP (NP (PRP$ its) (ADJP (RBS most) (JJ popular)) (NN plug)) (HYPH -) (NP (NNS ins)))) (. .))
-(S (NP (DT These) (NNS features)) (VP (VBP are) (VP (VBN distributed) (PP (IN among) (NP (NP (DT the) (JJ different) (NNS layers)) (PP (IN of) (NP (DT the) (NNP MVC) (NN architecture))))))) (. .))

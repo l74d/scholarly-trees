@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP describe) (NP (JJ generalized) (VBG running) (JJ key) (NNS ciphers))) (CC and) (VP (VB apply) (NP (PRP them)) (PP (IN for) (NP (NP (NN analysis)) (PP (IN of) (NP (CD two) (NP (NNP Shannon) (POS 's)) (NNS methods))))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP suggest) (NP (NP (DT some) (NN estimation)) (PP (IN of) (NP (NP (DT the) (NN cipher) (NN equivocation)) (CC and) (NP (NP (DT the) (NN probability)) (PP (IN of) (NP (NP (JJ correct) (VBG deciphering)) (PP (IN without) (NP (JJ key)))))))))) (. .))

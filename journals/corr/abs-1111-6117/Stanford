@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP identify) (NP (NNS principles)) (S (VP (VBG characterizing) (NP (NNP Solomonoff) (NN Induction)) (PP (IN by) (NP (NP (NNS demands)) (PP (IN on) (NP (NP (DT an) (NN agent) (POS 's)) (JJ external) (NN behaviour)))))))) (. .))
-(S (NP (JJ Key) (NNS concepts)) (VP (VBP are) (NP (NP (NN rationality) (, ,) (NN computability) (, ,) (NN indifference) (CC and) (NN time)) (NP (NN consistency)))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NNS extensions)) (PP (IN to) (NP (DT the) (JJ full) (NN AI) (NN case))) (S (VP (TO to) (VP (VB derive) (NP (NNP AIXI)))))) (. .))

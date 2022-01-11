@@ -1,3 +1,0 @@
-(S (NP (NP (CD Four) (NNS packages)) (PP (IN in) (NP (NNP R)))) (VP (VBP are) (VP (VBN analyzed) (S (VP (TO to) (VP (VB carry) (PRT (RP out)) (NP (JJ sentiment) (NN analysis))))))) (. .))
-(S (NP (DT All) (NNS packages)) (VP (VBP allow) (S (VP (TO to) (VP (VB define) (NP (NN custom) (NNS dictionaries)))))) (. .))
-(S (NP (NP (RB Just) (CD one)) (PRN (: -) (NP (NN Sentiment) (NNP R)) (: -))) (VP (ADVP (JJ properly)) (NNS accounts) (PP (IN for) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NNS negators)))))) (. .))

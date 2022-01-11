@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ includes) (NP (NP (NNS definitions) (CC and) (NNS examples)) (CC and) (NP (NP (NN discussion)) (PP (IN of) (SBAR (IN whether) (S (NP (DT the) (NNS methods)) (VP (VBP satisfy) (NP (NP (DT some) (NNS properties)) (, ,) (PP (VBG including) (NP (NP (NN monotonicity)) (, ,) (NP (NN consistency)) (CC and) (NP (JJ various) (NN proportionality) (NNS criteria)))))))))))) (. .))
-(S (NP (NP (DT The) (NN relation)) (PP (IN with) (NP (NNP STV)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN discussed))) (. .))
-(S (NP (DT The) (NN paper)) (ADVP (RB also)) (VP (VBZ contains) (NP (NP (JJ historical) (NN information)) (PP (IN on) (NP (DT the) (NNS methods))))) (. .))

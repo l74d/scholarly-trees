@@ -1,2 +1,0 @@
-(S (NP (DT The) (NNP Randomized) (NNP Kaczmarz) (NNP Algorithm)) (VP (VBZ is) (NP (NP (DT a) (JJ randomized) (NN method)) (SBAR (WHNP (WDT which)) (S (VP (VBZ aims) (PP (IN at) (S (VP (VBG solving) (NP (NP (DT a) (JJ consistent) (NN system)) (PP (IN of) (NP (ADJP (IN over) (JJ determined)) (JJ linear) (NNS equations)))))))))))) (. .))
-(S (NP (JJ Illustrative) (NNS experiments)) (VP (VBP are) (VP (VBN conducted) (S (VP (TO to) (VP (VB support) (NP (DT the) (NNS findings))))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ discusses) (NP (NP (DT an) (JJ efficient) (NN approach)) (SBAR (S (VP (TO to) (VP (VB design) (CC and) (VB implement) (NP (DT a) (ADJP (RB highly) (JJ available)) (JJ peer-) (NN to-peer) (NN system)) (ADVP (CD irrespective) (PP (IN of) (NP (NN peer) (NN timing) (CC and) (NN churn)))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ conservative) (PP (IN over) (NP (JJ intuitionistic) (JJ predicate) (NN logic))))) (. .))
-(SINV (S (NP (PRP We)) (VP (VBP provide) (NP (DT a) (NN completeness) (NN proof)) (PP (IN for) (NP (DT a) (JJ suitable) (NNP Kripke) (NNS semantics))))) (, ,) (VP (VBP sketch) (NP (DT an) (NN approach)) (PP (IN to) (NP (DT a) (NN normalization)))) (NP (NP (NN proof)) (, ,) (NP (NP (NN survey)) (NP (JJ related) (NN work) (CC and) (NN state)) (NP (DT some) (JJ open) (NNS problems)))) (. .))
-(NP (NNP Maehara) (. .))

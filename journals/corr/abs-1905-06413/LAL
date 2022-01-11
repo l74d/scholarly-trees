@@ -1,8 +1,0 @@
-(S (PP (IN In) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (NNP Industry) (CD 4.0))))) (, ,) (NP (NNS data) (NN management)) (VP (VBZ is) (NP (NP (DT a) (JJ key) (NN point)) (PP (IN for) (NP (NN decision) (NN aid) (NNS approaches))))) (. .))
-(S (NP (NP (JJ Large) (NNS amounts)) (PP (IN of) (NP (NN manufacturing) (JJ digital) (NNS data)))) (VP (VBP are) (VP (VBN collected) (PP (IN on) (NP (DT the) (NN shop) (NN floor))))) (. .))
-(S (NP (PRP$ Their) (NN analysis)) (VP (MD can) (ADVP (RB then)) (VP (VB require) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (VBG computing) (NN power)))))) (. .))
-(S (NP (DT The) (NNP Big) (NNP Data) (NN issue)) (VP (MD can) (VP (VB be) (VP (VBN solved) (PP (IN by) (NP (NN aggregation))) (, ,) (S (VP (VBG generating) (NP (ADJP (JJ smart) (CC and) (JJ meaningful)) (NNS data))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ new) (JJ knowledge-based) (JJ multi-level) (NN aggregation) (NN strategy)) (SBAR (S (VP (TO to) (VP (VB support) (NP (NN decision) (NN making)))))))) (. .))
-(S (NP (VBG Manufacturing) (NN knowledge)) (VP (VBZ is) (VP (VBN used) (PP (IN at) (NP (DT each) (NN level))) (S (VP (TO to) (VP (VB design) (NP (DT the) (NX (NX (NN monitoring) (NNS criteria)) (CC or) (NX (NN aggregation) (NNS operators))))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ has) (VP (VBN been) (VP (VP (VBN implemented) (PP (IN as) (NP (DT a) (NN demonstrator)))) (CC and) (VP (ADVP (RB successfully)) (VBN applied) (PP (TO to) (NP (NP (DT a) (JJ real) (NN machining) (NN database)) (PP (IN from) (NP (DT the) (JJ aeronautic) (NN industry))))))))) (. .))
-(NP (NP (NNP Decision) (NNP Making)) (: ;) (NP (NNP Machining)) (: ;) (NP (ADJP (NNP Knowledge) (VBN based)) (NN system)))

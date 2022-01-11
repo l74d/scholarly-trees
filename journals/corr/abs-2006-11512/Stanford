@@ -1,5 +1,0 @@
-(S (NP (NP (NN Sarcasm)) (SBAR (S (VP (VBZ is) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NP (NN communication)) (PP (IN in) (NP (JJ whichthe) (NN person)))))))))) (VP (VBZ states) (PP (IN opposite) (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (ADVP (RB actually)) (VP (VBZ means)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ ambiguous) (PP (IN in) (NP (NN nature))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (VBG using) (NP (NP (NML (NN machine) (NN learning)) (NNS techniques)) (PP (IN with) (NP (NNP BERT) (CC and) (NNP GloVe) (NNS embeddings)))) (S (VP (TO to) (VP (VB detect) (NP (NN sarcasm)) (PP (IN in) (NP (NNS tweets))))))))) (. .))
-(S (NP (DT The) (NN dataset)) (VP (VBZ is) (ADJP (JJ preprocessed)) (S (ADVP (RB before)) (VP (VBG extracting) (NP (DT the) (NNS embeddings))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN model)) (ADVP (RB also)) (VP (VBZ uses) (NP (NP (DT the) (NN context)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN user)) (VP (VBZ is) (VP (VBG reacting) (PP (IN to) (ADVP (RB along))) (PP (IN with) (NP (PRP$ his) (JJ actual) (NN response))))))))) (. .))

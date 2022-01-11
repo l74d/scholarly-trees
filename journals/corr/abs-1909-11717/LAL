@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ generic) (NN methodology)) (PP (IN for) (NP (NP (DT the) (JJ efficient) (JJ numerical) (NN approximation)) (PP (IN of) (NP (NP (DT the) (NN density) (NN function)) (PP (IN of) (NP (DT the) (NNP McKean-Vlasov) (NNP SDEs))))))))) (. .))

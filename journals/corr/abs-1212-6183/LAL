@@ -1,2 +1,0 @@
-(S (NP (ADJP (NNP Message-passing) (VBN based)) (NN concurrent) (NNS languages)) (VP (VBP are) (VP (ADVP (RB widely)) (VBN used) (PP (IN in) (S (VP (VBG developing) (NP (JJ large) (ADJP (VBN distributed) (CC and) (JJ coordination)) (NNS systems))))))) (. .))
-(S (NP (DT Both) (NNS encodings)) (VP (VBP are) (ADJP (RB fully) (JJ abstract)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (JJ weak) (NNS bisimulations)))))) (. .))

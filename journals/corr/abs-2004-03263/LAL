@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP give) (NP (NP (DT an) (NN overview)) (PP (IN of) (NP (NP (JJ several)) (PP (IN of) (NP (NP (DT the) (JJ mathematical) (NNS works)) (PP (IN of) (NP (NNP Gilles) (NNP Lachaud))))))))) (CC and) (VP (VB provide) (NP (DT a) (JJ historical) (NN context)))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (VP (VBN interspersed) (PP (IN with) (NP (NP (DT some) (JJ personal) (NNS anecdotes)) (VP (VBG highlighting) (NP (NP (JJ many) (NNS facets)) (PP (IN of) (NP (PRP$ his) (NN personality))))))))) (. .))

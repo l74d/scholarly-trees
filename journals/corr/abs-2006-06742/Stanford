@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (ADVP (RB agnostically)) (VP (VBG learning) (NP (JJ homogeneous) (NNS halfspaces)) (PP (IN in) (NP (ADJP (NP (DT the) (NN distribution)) (HYPH -) (JJ specific)) (NN PAC) (NN model)))))))) (. .))

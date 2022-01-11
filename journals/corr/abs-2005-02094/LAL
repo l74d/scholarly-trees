@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBD implemented) (NP (DT the) (NN calculi)) (PP (IN in) (NP (DT the) (NNP Zipperposition) (NN prover)))) (CC and) (VP (VBD evaluated) (NP (PRP them)) (PP (IN on) (NP (NNP Isabelle/HOL) (CC and) (NNP TPTP) (NNS benchmarks))))) (. .))
-(S (NP (PRP They)) (VP (VBP appear) (ADJP (VBG promising)) (PP (IN as) (NP (NP (DT a) (VBG stepping) (NN stone)) (PP (NNS towards) (NP (NP (JJ complete) (, ,) (ADJP (RB highly) (JJ efficient)) (JJ automatic) (NN theorem) (NNS provers)) (PP (IN for) (NP (JJ full) (NN higher-order) (NN logic)))))))) (. .))

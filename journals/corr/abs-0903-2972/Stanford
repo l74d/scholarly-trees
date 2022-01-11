@@ -1,4 +1,0 @@
-(S (NP (JJ Many) (NML (NN reinforcement) (VBG learning) (NN exploration)) (NNS techniques)) (VP (VP (VBP are) (ADJP (RB overly) (JJ optimistic))) (CC and) (VP (VB try) (S (VP (TO to) (VP (VB explore) (NP (DT every) (NN state))))))) (. .))
-(S (NP (JJ Such) (NN exploration)) (VP (VBZ is) (ADJP (JJ impossible) (PP (IN in) (NP (NP (NNS environments)) (PP (IN with) (NP (NP (DT the) (JJ unlimited) (NN number)) (PP (IN of) (NP (NNS states))))))))) (. .))
-(S (NP (PRP I)) (VP (VBP propose) (S (VP (TO to) (VP (VB use) (NP (JJ simulated) (NN exploration)) (PP (IN with) (NP (DT an) (JJ optimistic) (NN model))) (S (VP (TO to) (VP (VB discover) (NP (JJ promising) (NNS paths)) (PP (IN for) (NP (JJ real) (NN exploration)))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ reduces) (NP (NP (DT the) (NNS needs)) (PP (IN for) (NP (DT the) (JJ real) (NN exploration))))) (. .))

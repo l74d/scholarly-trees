@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (DT an) (ADJP (JJ efficient) (VBN approximated)) (NML (NN rank) (CD one)) (NN update)) (PP (IN for) (NP (NML (NN covariance) (NN matrix)) (NN adaptation) (NN evolution) (NN strategy) (PRN (-LRB- -LRB-) (NP (NN CMA) (HYPH -) (NN ES)) (-RRB- -RRB-)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ makes) (S (NP (NP (NN use)) (PP (IN of) (NP (CD two) (NN evolution) (NNS paths)))) (ADJP (RB as) (JJ simple) (PP (IN as) (NP (NP (DT that)) (PP (IN of) (NP (NN CMA) (HYPH -) (NN ES))))))) (, ,) (PP (IN while) (S (VP (VBG avoiding) (NP (DT the) (NML (JJ computational) (NN matrix)) (NN decomposition)))))) (. .))
-(S (NP (PRP We)) (VP (VBP analyze) (NP (NP (DT the) (NNS algorithms) (POS ')) (NNS properties) (CC and) (NNS behaviors))) (. .))
-(S (NP (PRP We)) (ADVP (RB experimentally)) (VP (VB study) (NP (NP (DT the) (VBN proposed) (NN algorithm) (POS 's)) (NNS performances))) (. .))
-(S (NP (PRP It)) (ADVP (RB generally)) (VP (VP (VBZ outperforms)) (CC or) (VP (VBZ performs) (ADVP (RB competitively)) (PP (IN to) (NP (DT the) (NNP Cholesky) (NN CMA) (HYPH -) (NN ES))))) (. .))

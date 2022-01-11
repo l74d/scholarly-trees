@@ -1,4 +1,0 @@
-(S (NP (NP (NN Homology) (NNS groups)) (PP (IN of) (NP (ADJP (VBN labelled) (JJ asynchronous)) (NML (NML (NN transition) (NNS systems)) (CC and) (NML (NNP Petri))) (NNS nets)))) (VP (VBP are) (VP (VBN introduced))) (. .))
-(S (NP (NP (NNS Examples)) (PP (IN of) (S (VP (VBG computing) (NP (DT the) (NN homology) (NNS groups)))))) (VP (VBP are) (VP (VBN given))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN proved) (SBAR (IN that) (S (SBAR (IN if) (S (NP (ADJP (VBN labelled) (JJ asynchronous)) (NN transition) (NNS systems)) (VP (VBP are) (ADJP (NP (NN bisimulation)) (JJ equivalent))))) (, ,) (ADVP (RB then)) (NP (PRP they)) (VP (VBP have) (NP (JJ isomorphic) (NN homology) (NNS groups))))))) (. .))
-(S (NP (NP (DT A) (NN method)) (PP (IN of) (S (VP (VBG constructing) (NP (DT a) (JJ Petri) (NN net)) (PP (IN with) (NP (VBN given) (NN homology) (NNS groups))))))) (VP (VBZ is) (VP (VBN found))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN known) (SBAR (IN that) (S (NP (NP (DT the) (JJ maximum) (NN cut) (NN problem)) (-LRB- -LRB-) (NP (NNP MaxCut)) (-RRB- -RRB-)) (VP (VBZ is) (NP (NP (NNP NP) (HYPH -) (NNP Hard)) (PP (IN in) (NP (JJ co-bipartite) (NNS graphs))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NNP MaxCut)) (PP (IN in) (NP (JJ co-bipartite) (NN chain) (NNS graphs))))) (. .))
-(S (NP (PRP We)) (ADVP (RB first)) (VP (VP (VB consider) (NP (DT the) (NML (JJ twin) (HYPH -) (JJ free)) (NN case))) (CC and) (VP (VB present) (NP (DT an) (JJ explicit) (NN solution)))) (. .))
-(S (NP (PRP We)) (ADVP (RB then)) (VP (VBP show) (SBAR (IN that) (S (NP (NNP MaxCut)) (VP (VBZ is) (ADJP (JJ polynomial)) (NP-TMP (NN time)) (NP (NP (JJ solvable)) (PP (IN in) (NP (DT this) (NN graph) (NN class)))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (JJ Word-level) (JJ translational) (NNS equivalences)) (VP (MD can) (VP (VB be) (VP (VBN extracted) (PP (IN from) (NP (JJ parallel) (NNS texts))) (PP (IN by) (NP (ADJP (RB surprisingly) (JJ simple)) (JJ statistical) (NNS techniques)))))) (. .))
-(S (NP (JJ Indirect) (NNS associations)) (VP (VBP pollute) (NP (DT the) (VBG resulting) (NN translation) (NNS lexicons)) (, ,) (S (VP (ADVP (RB drastically)) (VBG reducing) (NP (PRP$ their) (NN precision))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT an) (JJ iterative) (NN lexicon) (VBG cleaning) (NN method))) (. .))
-(S (PP (IN On) (NP (DT each) (NN iteration))) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (VBG remaining) (JJ incorrect) (NN lexicon) (NNS entries)))) (VP (VBP are) (VP (VBN filtered) (PRT (RP out)) (, ,) (PP (IN without) (NP (NP (JJ significant) (NN degradation)) (PP (IN in) (NP (NN recall))))))) (. .))

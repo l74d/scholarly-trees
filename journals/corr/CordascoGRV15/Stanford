@@ -1,3 +1,0 @@
-(S (NP (DT The) (JJ general) (NN problem)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (JJ small) (JJ initial) (NN set)) (PP (IN of) (NP (NP (NNS nodes)) (SBAR (WHNP (WDT that)) (S (VP (VBZ influences) (NP (DT the) (JJ whole) (NN network)))))))))))) (. .))
-(S (PP (IN For) (NP (NP (DT the) (CD two)) (PP (IN above) (NP (NNS problems))))) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT both) (NN hardness)) (CC and) (NP (JJ algorithmic) (NNS results)))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (ADVP (RB experimentally)) (VB validate) (NP (NP (PRP$ our) (NNS algorithms)) (PP (IN via) (NP (NP (JJ extensive) (NNS simulations)) (PP (IN on) (NP (JJ real) (NN life) (NNS networks))))))) (. .))

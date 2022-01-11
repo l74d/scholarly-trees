@@ -1,2 +1,0 @@
-(S (NP (DT The) (JJ binary) (NML (NNP Reed) (HYPH -) (NNP Muller)) (NNS codes)) (VP (MD can) (VP (VB be) (VP (VBN characterized) (PP (IN as) (NP (NP (DT the) (JJ radical) (NNS powers)) (PP (IN of) (NP (DT a) (JJ modular) (NN algebra)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT the) (NNP Groebner) (NNS bases)) (PP (IN to) (S (VP (VB decode) (NP (DT these) (NNS codes)))))) (. .))

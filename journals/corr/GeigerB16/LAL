@@ -1,1 +1,0 @@
-(S (S (NP (NP (NNS Properties)) (PP (IN of) (NP (DT the) (JJ optimal) (NN approximation)))) (VP (VBP are) (VP (VBN derived)))) (CC and) (S (NP (NP (NP (NNS bounds)) (PP (IN on) (NP (DT the) (NN approximation) (NN error))))) (VBP are) (VP (VBN presented) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (RB asymptotically) (JJ tight))))))) (. .))

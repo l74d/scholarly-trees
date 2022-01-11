@@ -1,3 +1,0 @@
-(S (NP (DT A) (JJ weak) (JJ asynchronous) (NN system)) (VP (VBZ is) (NP (NP (DT a) (NN trace) (NN monoid)) (PP (IN with) (NP (NP (DT a) (JJ partial) (NN action)) (PP (IN on) (NP (DT a) (NN set))))))) (. .))
-(S (NP (NP (DT A) (JJ polygonal) (NN morphism)) (PP (IN between) (NP (JJ weak) (JJ asynchronous) (NNS systems)))) (VP (VP (VBZ commutes) (PP (IN with) (NP (DT the) (NNS actions)))) (CC and) (VP (VBZ preserves) (NP (NP (DT the) (NN independence)) (PP (IN of) (NP (NNS events)))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (NP (NP (DT the) (NN category)) (PP (IN of) (NP (NP (JJ weak) (JJ asynchronous) (NNS systems)) (CC and) (NP (JJ polygonal) (NN morphisms))))) (VP (VBZ has) (NP (DT all) (NNS limits) (CC and) (NNS colimits)))))) (. .))

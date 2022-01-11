@@ -1,1 +1,0 @@
-(S (NP (NP (DT A) (NN method)) (PP (IN for) (S (VP (VBG creating) (NP (JJ 3D) (NN texture)))))) (VP (VBZ coordinates) (SBAR (IN for) (S (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NN polygon)))) (VP (VBZ meshes) (PP (IN with) (NP (NP (VBG changing) (NN topology)) (CC and) (NP (NML (NN vertex) (NN motion)) (NNS vectors)))))))) (. .))

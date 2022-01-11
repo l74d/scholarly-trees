@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NNP DeepV2D)) (, ,) (NP (NP (DT an) (JJ end-to-end) (JJ deep) (NN learning) (NN architecture)) (PP (IN for) (S (VP (VBG predicting) (NP (NN depth)) (PP (IN from) (NP (NN video))))))))) (. .))
-(S (NP (NNP DeepV2D)) (VP (VBZ combines) (NP (NP (DT the) (NN representation) (NN ability)) (PP (IN of) (NP (JJ neural) (NNS networks)))) (PP (IN with) (NP (NP (DT the) (JJ geometric) (NNS principles)) (VP (VBG governing) (NP (NN image) (NN formation)))))) (. .))
-(S (NP (PRP We)) (VP (VBP compose) (NP (NP (DT a) (NN collection)) (PP (IN of) (NP (JJ classical) (NN geometric) (NN algorithms))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VP (VBN converted) (PP (IN into) (NP (JJ trainable) (NNS modules)))) (CC and) (VP (VBN combined) (PP (IN into) (NP (DT an) (JJ end-to-end) (JJ differentiable) (NN architecture)))))))))) (. .))
-(S (NP (NNP DeepV2D)) (VP (VBZ interleaves) (NP (NP (CD two) (NNS stages)) (: :) (NP (NP (NN motion) (NN estimation)) (CC and) (NP (JJ depth) (NN estimation))))) (. .))
-(S (PP (IN During) (NP (NN inference))) (, ,) (NP (NN motion) (CC and) (NN depth) (NN estimation)) (VP (VP (VBP are) (VP (VBN alternated))) (CC and) (VP (NN converge) (PP (TO to) (NP (VB accurate) (NN depth))))) (. .))
-(S (NP (NNP Code)) (VP (VBZ is) (ADJP (JJ available)) (NP (DT this) (NN https) (NNP URL))))

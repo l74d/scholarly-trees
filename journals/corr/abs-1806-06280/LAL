@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (NN approach)) (PP (TO to) (S (VP (VBG constructing) (NP (NP (JJ iterative) (NNS methods)) (PP (IN for) (S (VP (VBG finding) (NP (JJ polynomial) (NNS roots)) (ADVP (RB simultaneously))))))))))) (. .))
-(S (NP (NP (CD One) (NN feature)) (PP (IN of) (NP (DT this) (NN approach)))) (VP (VBZ is) (VP (VBG using) (NP (NP (DT the) (JJ fundamental) (NN theorem)) (PP (IN of) (NP (JJ symmetric) (NNS polynomials)))))) (. .))
-(S (PP (IN Within) (NP (DT this) (NN framework))) (, ,) (NP (PRP we)) (VP (VBP reconstruct) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (VBG existing) (NN root) (VBG finding) (NNS methods))))) (. .))
-(S (NP (NP (DT The) (JJ new) (NNS results)) (VP (VBN presented) (PP (IN in) (NP (DT this) (NN paper))))) (VP (VBP are) (NP (NP (DT some) (NNS modifications)) (PP (IN of) (NP (DT the) (NNP Durand-Kerner) (NN method))))) (. .))

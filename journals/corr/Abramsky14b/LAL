@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP use) (NP (JJ traced) (NN monoidal) (NNS categories)) (S (VP (TO to) (VP (VB give) (NP (NP (DT a) (JJ precise) (JJ general) (NN version)) (PP (IN of) (`` ``) (NP (NP (NN geometry)) (PP (IN of) (NP (NN interaction)))) ('' ''))))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS examples)) (PP (IN of) (NP (NP (ADJP (DT both) (`` ``) (JJ particle-style) ('' '') (CC and) (`` ``) (JJ wave-style) ('' '')) (NNS instances)) (PP (IN of) (NP (DT this) (NN construction))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP relate) (NP (DT these) (NNS ideas)) (PP (TO to) (NP (NP (NNS semantics)) (PP (IN of) (NP (NN computation)))))) (. .))

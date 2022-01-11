@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (PP (IN in) (NP (DT this) (NN paper))) (NP (NP (NP (DT the) (NN motivation) (CC and) (NN theory)) (PP (IN of) (NP (JJ nonlinear) (JJ spectral) (NNS representations)))) (, ,) (VP (VBN based) (PP (IN on) (NP (NN convex) (NN regularizing) (NNS functionals)))))) (. .))
-(S (NP (DT Some) (NNS comparisons) (CC and) (NNS analogies)) (VP (VBP are) (VP (VBN drawn) (PP (TO to) (NP (NP (DT the) (NNS fields)) (PP (IN of) (NP (NP (JJ signal) (NN processing)) (, ,) (NP (JJ harmonic) (NN analysis)) (CC and) (NP (JJ sparse) (NNS representations)))))))) (. .))
-(S (NP (NP (DT The) (JJ basic) (NN approach)) (, ,) (NP (JJ main) (NNS results)) (CC and) (NP (JJ initial) (NNS applications))) (VP (VBP are) (VP (VBN shown))) (. .))
-(S (NP (NP (DT A) (NN discussion)) (PP (IN of) (NP (NP (JJ open) (NNS problems)) (CC and) (NP (JJ future) (NNS directions))))) (VP (VBZ concludes) (NP (DT this) (NN work))) (. .))

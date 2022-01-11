@@ -1,5 +1,0 @@
-(S (NP (NP (NNS Lots)) (PP (IN of) (NP (JJ bio-inspired) (NN research) (NNS works)))) (VP (VBP have) (VP (VBN been) (VP (VBN conducted) (PP (IN in) (NP (ADJP (NN self) (HYPH -) (JJ adaptive)) (NN software)))))) (. .))
-(S (NP (PRP They)) (VP (VBP have) (VP (VBN focused) (PP (IN on) (NP (NP (DT the) (JJ external) (NN behavior)) (PP (IN of) (NP (JJ biological) (NNS entities))))) (PP (IN without) (NP (NP (PRP$ their) (JJ genetic) (NN material)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ causes) (NP (DT this) (NN behavior))) (CC and) (VP (VBZ constitutes) (NP (NP (DT the) (NN challenge)) (SBAR (S (NP (DT this) (NN work)) (VP (VBD dealt) (PP (IN with)))))))))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VB propose) (NP (DT a) (NN framework)) (S (VP (VBG integrating) (NP (CC both) (NP (DT the) (JJ external) (NN behavior)) (CC and) (NP (DT the) (NN genetics) (NN material)))))) (. .))
-(S (NP (DT This) (NN framework)) (VP (VBZ is) (VP (VBN limited) (PP (IN to) (NP (VBN predicted) (NNS events))))) (. .))
-(S (NP (DT the) (JJ non-predicted) (NNS events)) (VP (VBP are) (ADVP (RB still)) (NP (DT a) (NN challenge))) (. .))

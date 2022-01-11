@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT a) (JJ social) (NN network)))) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (NP (DT the) (NN probability) (NN mechanism)) (VP (VBG underlying) (NP (PRP$ its) (NN structure)))))))) (. .))
-(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP compute) (NP (NP (DT the) (NN value)) (PP (IN for) (NP (NP (JJ small) (NN world)) (CC and) (ADJP (JJ scale) (JJ free)) (NNS networks))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NN evidence)) (PP (IN in) (NP (NP (NN support)) (PP (IN of) (NP (NP (DT the) (NN value)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN given) (PP (IN by) (NP (NNP Zipfs) (NN law))))))))))))) (. .))

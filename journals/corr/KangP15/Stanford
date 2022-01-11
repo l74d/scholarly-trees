@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NN flow)) (VP (VBG rounding) (: :) (S (VP (VBG finding) (NP (DT an) (JJ integral) (NN flow)) (PP (IN from) (NP (DT a) (JJ fractional) (NN flow)))))))) (. .))
-(S (NP (NP (VBN Costed) (NN flow)) (VP (VBG rounding))) (VP (VBZ asks) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP find) (NP (DT an) (JJ integral) (NN flow)) (PP (IN with) (NP (DT no) (JJR worse) (NN cost))))))) (. .))
-(S (NP (NP (VBN Randomized) (NN flow)) (VP (VBG rounding))) (VP (VBZ requires) (SBAR (S (NP (PRP we)) (ADVP (RB randomly)) (VP (VBP find) (NP (DT an) (JJ integral) (NN flow)) (SBAR (JJ such) (IN that) (S (NP (NP (DT the) (VBN expected) (NN flow)) (PP (IN along) (NP (DT each) (NN edge)))) (VP (VBZ matches) (NP (DT the) (JJ fractional) (NN flow))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT A) (NN matching)) (VP (VBZ is) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS edges)) (PP (IN without) (NP (JJ common) (NN endpoint))))))) (. .))
-(S (NP (DT The) (NN proof)) (VP (VBD did) (RB not) (VP (VBN come) (PP (IN with) (NP (NP (DT an) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB find) (NP (DT the) (VBG matching)) (ADVP (ADVP (RBR more) (RB efficiently)) (PP (IN than) (NP (DT a) (JJ general-purpose) (JJ maximum-matching) (NN algorithm)))))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (JJ such) (DT an) (NN algorithm))) (. .))

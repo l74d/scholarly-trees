@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN study)) (VP (VBZ demonstrates) (SBAR (IN that) (S (NP (NN incorrect) (NNS data)) (VP (VBP are) (VP (VBN entered) (PP (IN into) (NP (DT a) (NN pairwise) (NNS comparisons) (VBP matrix))) (PP (IN for) (NP (NP (VBG processing)) (PP (IN into) (NP (NP (NNS weights)) (PP (IN for) (NP (NP (DT the) (NNS data)) (VP (VBN collected) (PP (IN by) (NP (DT a) (NN rating) (NN scale))))))))))))))) (. .))
-(S (NP (VBN Unprocessed) (NN rating) (NN scale) (NNS data)) (VP (NN lead) (PP (TO to) (NP (DT a) (NN paradox)))) (. .))
-(S (NP (NP (DT A) (NN solution)) (PP (TO to) (NP (PRP it))) (, ,) (VP (VBN based) (PP (IN on) (NP (NN normalization)))) (, ,)) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT an) (JJ essential) (NN correction)) (PP (IN for) (NP (NP (ADJP (RB virtually) (DT all)) (NN pairwise) (NNS comparisons) (NNS methods)) (VP (VBG using) (NP (NN rating) (NNS scales))))))) (. .))
-(S (NP (NP (DT The) (NN illustration)) (PP (IN of) (NP (NP (DT the) (JJ relative) (NN error)) (VP (ADVP (RB currently)) (, ,) (VBG taking) (NP (NN place))) (, ,)))) (VP (VBZ is) (VP (VBN discussed))) (. .))

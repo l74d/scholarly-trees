@@ -1,3 +1,0 @@
-(S (ADVP (RB Typically)) (, ,) (NP (DT this) (NN property)) (VP (VBZ reveals) (NP (NP (DT a) (NN connection)) (PP (IN between) (S (VP (VBG packing) (CC and) (VBG covering) (NP (NNS problems)) (PP (IN on) (NP (NN graphs)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT some) (JJ recent) (NNS techniques)) (PP (IN for) (S (VP (VBG proving) (NP (DT this) (NN property))))) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN related) (PP (TO to) (NP (JJ tree-like) (NNS decompositions))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP provide) (NP (NP (DT an) (JJ unified) (NN presentation)) (PP (IN of) (NP (NP (DT the) (JJ current) (NN state)) (PP (IN of) (NP (DT the) (NN art))) (PP (IN on) (NP (DT this) (NN topic))))))) (. .))

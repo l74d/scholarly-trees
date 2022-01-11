@@ -1,2 +1,0 @@
-(S (S (VP (TO To) (VP (VB shed) (NP (NN light)) (PP (IN on) (NP (DT the) (NN disease) (NN localization) (NN phenomenon)))))) (, ,) (NP (PRP we)) (VP (VP (VBP study) (NP (DT a) (JJ bursty) (JJ susceptible-infected-susceptible) (PRN (-LRB- -LRB-) (NNP SIS) (-RRB- -RRB-)) (NN model))) (CC and) (VP (VB analyze) (NP (DT the) (NN model)) (PP (IN under) (NP (DT the) (JJ mean-field) (NN approximation))))) (. .))
-(S (NP (PRP$ Our) (NN result)) (VP (VBZ is) (VP (VBN evaluated) (PP (DT both) (IN on) (NP (ADJP (NN synthetic) (CC and) (JJ real)) (NNS networks))))) (. .))

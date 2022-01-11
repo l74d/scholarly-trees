@@ -1,2 +1,0 @@
-(S (NP (PRP$ Our) (NN system)) (VP (VBZ addresses) (NP (NP (NP (NN Part) (CD 1)) (, ,) (NP (NNP Lesion) (NNP Segmentation)) (CC and) (NP (NNP Part) (CD 3))) (, ,) (NP (NP (NN Lesion) (NN Classification)) (PP (IN of) (NP (DT the) (NML (NNP ISIC) (CD 2017)) (NN challenge)))))) (. .))
-(S (NP (DT Both) (NNS algorithms)) (VP (VBP make) (NP (NP (NN use)) (PP (IN of) (NP (JJ deep) (JJ convolutional) (NNS networks)))) (S (VP (TO to) (VP (VB achieve) (NP (DT the) (NN challenge) (NN objective)))))) (. .))

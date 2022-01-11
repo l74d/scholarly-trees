@@ -1,3 +1,0 @@
-(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB prove) (S (NP (PRP them)) (NP (DT the) (JJ good) (ADJP (JJ old) (HYPH -) (JJ fashioned)) (NN way))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (MD 'll) (VP (VB repeat) (NP (DT the) (NN feat)) (PP (IN in) (NP (NP (DT the) (NN setting)) (PP (IN of) (NP (NN computation))))))) (. .))
-(S (SBAR (IN After) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN done) (ADVP (RB there)))))) (VP (MD will) (VP (VB be) (NP (NN cake)))) (. .))

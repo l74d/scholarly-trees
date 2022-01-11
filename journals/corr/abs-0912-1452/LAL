@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN path) (NN packing) (NN problem)) (VP (VBZ is) (VP (VBN stated) (S (VP (VBG finding) (NP (NP (DT the) (JJ maximum) (NN number)) (PP (IN of) (NP (NP (JJ edge-disjoint) (NNS paths)) (PP (IN between) (NP (NP (VBN predefined) (NNS pairs)) (PP (IN of) (NP (NNS nodes))))) (PP (IN in) (NP (DT an) (JJ undirected) (NN multigraph)))))))))) (. .))
-(S (NP (NP (JJ Such) (DT a) (NN multigraph)) (ADVP (RB together) (PP (IN with) (NP (JJ predefined) (NN node) (NN pairs))))) (VP (VBZ is) (ADVP (RB often)) (VP (VBN called) (S (NP (DT a) (NN network))))) (. .))

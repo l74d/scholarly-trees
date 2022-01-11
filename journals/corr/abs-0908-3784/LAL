@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP concentrate) (PP (IN on) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (JJ average)) (VP (JJ preserving) (NP (NNP WFA)))))))) (. .))
-(S (NP (PRP We)) (VP (VB obtain) (NP (NP (JJ several) (JJ algorithmic) (NNS reductions)) (PP (IN for) (NP (JJ WFA-related) (NN decision) (NNS problems))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD present) (NP (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG constructing) (NP (NP (NNP WFA)) (SBAR (WHNP (IN that)) (S (VP (VBP compute) (NP (JJ continuous) (JJ real) (NNS functions))))))))))) (. .))

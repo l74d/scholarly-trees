@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (ADJP (NN simple) (CC and) (JJ natural)) (NNP Gao) (NN algorithm)) (PP (IN for) (S (VP (VBG decoding) (NP (JJ algebraic) (NNS codes)))))) (VP (VBZ is) (VP (VBN described))) (. .))
-(S (NP (NP (PRP$ Its) (NN relation)) (PP (TO to) (NP (DT the) (NNP Welch-Berlekamp) (CC and) (NNP Euclidean) (NN algorithms)))) (VP (VBZ is) (VP (VBN given))) (. .))

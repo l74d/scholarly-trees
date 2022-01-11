@@ -1,3 +1,0 @@
-(S (PP (IN For) (NP (DT these) (FW calculi))) (NP (PRP we)) (VP (VBP consider) (ADJP (JJ few) (S (VP (VBG recognizing) (NP (NP (NNS problems)) (PP (JJ such) (IN as) (S (VP (VBG recognizing) (NP (NNS derivations) (, ,) (NNS extensions) (, ,) (NN completeness) (, ,) (CC and) (NNS axiomatizations)))))))))) (. .))
-(S (PP (IN As) (NP (NP (DT a) (NN corollary)) (, ,) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NN derivability)) (PP (IN of) (NP (DT a) (VBN fixed) (NN formula)))))))) (NP (NP ($ $)) (NP ($ A$))) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ undecidable) (PP (IN for) (NP (DT all) ($ $) ($ A$))))) (. .))
-(S (ADVP (RB Moreover)) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (JJ historical) (NN survey)) (PP (IN of) (NP (JJ related) (NNS results))))) (. .))

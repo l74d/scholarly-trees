@@ -1,2 +1,0 @@
-(S (NP (NP (CD Three) (NNS types)) (PP (IN of) (NP (ADJP (NN self) (HYPH -) (JJ dual)) (NNS codes)))) (VP (VBP are) (VP (VBN defined))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (JJ standard) (NNS techniques)) (PP (IN of) (NP (JJ invariant) (NN theory)))) (VP (VBP are) (VP (VBN applied) (S (VP (TO to) (VP (VB describe) (NP (DT the) (NN weight) (NNS enumerators)) (PP (IN for) (NP (DT each) (NN type)))))))) (. .))

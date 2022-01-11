@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP design) (NP (NP (CD two) (NNS mechanisms)) (SBAR (IN for) (S (NP (DT the) (NN recommender) (NN system)) (VP (TO to) (VP (VB collect) (NP (JJ user) (NNS ratings)))))))) (. .))
-(S (S (NP (CD One)) (VP (VBZ is) (NP (VBN modified) (NNP Laplace) (NN mechanism)))) (, ,) (CC and) (S (NP (DT the) (JJ other)) (VP (VBZ is) (NP (VBN randomized) (NN response) (NN mechanism)))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP prove) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (DT both) (ADJP (RB differentially) (JJ private)))))) (CC and) (VP (VB preserve) (NP (DT the) (NNS data) (NN utility)))) (. .))

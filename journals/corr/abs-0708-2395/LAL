@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ new) (JJ two-pass) (NN authentication) (NN scheme)) (, ,) (S (VP (VBP whichis) (NP (NP (DT a) (NN generalisation)) (PP (IN of) (NP (NP (DT an) (NN authentication) (NN scheme)) (PP (IN of) (NP (NNP Sibert-Dehornoy-Girault))) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP Diffie-Hellman) (NN conjugacy) (NN problem))))))))))) (. .))
-(S (PP (VBN Compared) (PP (TO to) (NP (DT the) (JJ above) (NN scheme)))) (, ,) (PP (IN for) (NP (DT some) (NNS parameters))) (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ efficient)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (NNS multiplications)))))) (. .))
-(S (NP (PRP We)) (VP (VBP sketch) (NP (DT a) (NN proof) (SBAR (IN that) (S (NP (PRP$ our) (NN authentication) (NN scheme)) (VP (VBZ is) (ADJP (JJ secure))))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (DT a) (JJ new) (JJ key) (NN agreement) (NNS protocols))) (. .))

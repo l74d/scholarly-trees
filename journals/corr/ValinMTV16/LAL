@@ -1,4 +1,0 @@
-(S (NP (DT The) (NNP IETF)) (ADVP (RB recently)) (VP (VBD standardized) (NP (DT the) (NNP Opus) (NN codec)) (PP (IN as) (NP (NNP RFC6716)))) (. .))
-(S (NP (NNP Opus)) (VP (VBZ targets) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (JJ real-time) (NNP Internet) (NNS applications)))) (PP (IN by) (S (VP (VBG combining) (NP (DT a) (JJ linear) (NN prediction) (NN coder)) (PP (IN with) (NP (DT a) (NN transform) (NN coder))))))) (. .))
-(S (NP (PRP We)) (VP (VBP describe) (NP (DT the) (NN transform) (NN coder)) (, ,) (PP (IN with) (NP (NP (JJ particular) (NN attention)) (PP (TO to) (NP (NP (DT the) (JJ psychoacoustic) (NN knowledge)) (VP (VBN built) (PP (IN into) (NP (DT the) (NN format))))))))) (. .))
-(S (NP (DT The) (NN result)) (VP (JJ out-performs) (NP (NP (VBG existing) (JJ audio) (NN codecs)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (RB not) (VP (VB operate) (PP (IN under) (NP (JJ real-time) (NNS constraints))))))))) (. .))

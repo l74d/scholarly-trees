@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP illustrate) (NP (PRP$ our) (NN approach)) (PP (IN by) (S (VP (VBG assembling) (NP (DT the) (JJ human) (NN genome)))))) (. .))
-(S (NP (PRP$ Our) (JJ novel) (NN method)) (VP (NNS abandons) (NP (DT the) (JJ original) (JJ physical-mapping-first) (NN framework))) (. .))
-(S (NP (DT The) (NN latter)) (VP (VBZ is) (NP (NP (DT the) (JJ main) (NN difficulty)) (PP (IN of) (NP (DT the) (NN sequence) (NN assembly) (NN problem))))) (. .))
-(S (NP (NN Inaddition)) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (VB detect) (NP (NP (NNS inconsistencies)) (PP (IN in) (NP (DT the) (JJ underlying) (NNS data))))))))) (. .))
-(S (NP (PRP We)) (VP (JJ present) (CC and) (VB compare) (NP (NP (PRP$ our) (NNS results)) (PP (IN on) (NP (NP (DT the) (NNP December) (CD 2001) (NN freeze)) (PP (IN of) (NP (NP (DT the) (JJ public) (VBG working) (NN draft)) (PP (IN of) (NP (DT the) (JJ human) (NN genome)))))))) (PP (IN with) (NP (NP (NP (NNP NCBI) (POS 's)) (NN assembly)) (PRN (-LRB- -LRB-) (NP (NNP Build) (CD 28)) (-RRB- -RRB-))))) (. .))

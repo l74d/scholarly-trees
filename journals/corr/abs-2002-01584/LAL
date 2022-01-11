@@ -1,2 +1,0 @@
-(NP (NP (DT A) (NN collection)) (PP (IN of) (NP (NP (DT the) (JJ accepted) (NNS abstracts)) (PP (IN for) (NP (NP (DT the) (NAC (NNP Machine) (NNP Learning) (PP (IN for) (NP (NNP Health)))) (PRN (-LRB- -LRB-) (NP (NNP ML4H)) (-RRB- -RRB-)) (NN workshop)) (PP (IN at) (NP (NNP NeurIPS) (CD 2019))))))) (. .))
-(S (NP (DT This) (NN index)) (VP (VBZ is) (RB not) (ADJP (JJ complete)) (, ,) (SBAR (IN as) (S (NP (DT some) (JJ accepted) (NNS abstracts)) (VP (VBD chose) (S (VP (TO to) (VP (NN opt-out) (PP (IN of) (NP (NN inclusion)))))))))) (. .))

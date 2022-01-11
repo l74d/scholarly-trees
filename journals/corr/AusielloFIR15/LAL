@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (NN algorithm)) (PP (IN for) (S (VP (VBG maintaining) (NP (NP (DT a) (NNP DFS) (NN tree)) (PP (IN of) (NP (DT an) (JJ arbitrary) (VBD directed) (JJ graph)))) (PP (IN under) (NP (NP (DT any) (NN sequence)) (PP (IN of) (NP (NN edge) (NNS insertions)))))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP prove) (NP (NP (JJR lower) (NNS bounds)) (PP (IN for) (NP (NP (NNS variations)) (PP (IN of) (NP (DT this) (NN problem))))))) (. .))

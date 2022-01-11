@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ stochastic) (JJ gradient-free) (NNS methods)) (CC and) (NP (NP (VBD accelerated) (NNS methods)) (PP (IN with) (NP (NN momentum)))) (PP (IN for) (S (VP (VBG solving) (NP (JJ stochastic) (NN optimization) (NNS problems))))))) (. .))
-(S (NP (PDT All) (DT these) (NNS methods)) (VP (VBP rely) (PP (IN on) (NP (NP (JJ stochastic) (NNS directions)) (CONJP (RB rather) (IN than)) (NP (JJ stochastic) (NNS gradients))))) (. .))

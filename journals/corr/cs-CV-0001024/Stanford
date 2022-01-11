@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (ADJP (JJ simple) (, ,) (CC but) (JJ efficient)) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN generation)) (PP (IN of) (NP (NP (ADJP (VBN dilated)) (NNS contours)) (PP (IN from) (NP (NN bilevel) (NNS images))))))))) (. .))
-(S (NP (NP (DT The) (JJ initial) (NN part)) (PP (IN of) (NP (DT the) (NN contour) (NN extraction)))) (VP (VBZ is) (VP (VBN explained) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ good) (NN candidate)) (PP (IN for) (NP (JJ parallel) (NML (NN computer) (NN code)) (NN generation))))))))) (. .))
-(S (NP (NP (DT The) (NN remainder)) (PP (IN of) (NP (DT the) (NN algorithm)))) (VP (VBZ is) (PP (IN of) (NP (JJ linear) (NN nature)))) (. .))

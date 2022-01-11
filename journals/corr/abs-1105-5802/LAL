@@ -1,8 +1,0 @@
-(S (PP (IN In) (NP (CD 1938))) (, ,) (NP (NNP Gini)) (VP (VBD studied) (NP (NP (DT a) (JJ mean)) (VP (VBG having) (NP (CD two) (NNS parameters))))) (. .))
-(S (ADVP (RB Later)) (, ,) (NP (JJ many) (NNS authors)) (VP (VBD studied) (NP (NP (NNS properties)) (PP (IN of) (NP (DT this) (NN mean))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP it)) (VP (VBZ contains) (NP (NP (DT the) (JJ famous) (NNS means)) (PP (IN as) (ADJP (NN harmonic) (, ,) (JJ geometric) (, ,) (JJ arithmetic) (, ,) (FW etc))))) (. .))
-(S (ADVP (RB Here)) (NP (PRP we)) (VP (VBD considered) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NP (NNS inequalities)) (VP (VBG arising) (ADVP (JJ due) (PP (TO to) (NP (NP (JJ particular) (NNS values)) (PP (IN of) (NP (NP (DT each) (NN parameter)) (PP (IN of) (NP (NP (NNP Gini) (POS 's)) (NN mean))))))))))))) (. .))
-(S (NP (DT This) (NN sequence)) (VP (VBZ generates) (NP (JJ many) (JJ nonnegative) (NNS differences))) (. .))
-(S (NP (NP (RB Not) (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBP are) (ADJP (JJ convex))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP have) (VP (VBN studied) (ADVP (RB here)) (NP (NP (NN convexity)) (PP (IN of) (NP (DT these) (NNS differences)))))) (CC and) (VP (ADVP (RB again)) (VBD established) (NP (NP (JJ new) (NNS sequences)) (PP (IN of) (NP (NP (NNS inequalities)) (PP (IN of) (NP (DT these) (NNS differences)))))))) (. .))
-(S (S (VP (VBG Considering) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN probability) (NNS distributions))))) (NP (DT these) (NNS differences)))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN made) (NP (NP (NNS connections)) (PP (IN with) (NP (NP (DT some)) (PP (IN of) (NP (ADJP (RB well) (VBN known)) (NN divergence) (NNS measures)))))))) (. .))

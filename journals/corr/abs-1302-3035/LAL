@@ -1,4 +1,0 @@
-(S (NP (PRP I)) (VP (VBP introduce) (NP (NP (DT a) (JJ new) (NN approach)) (PP (TO to) (NP (DT the) (JJ maximum) (NN flow) (NN problem))) (PP (IN by) (NP (NP (DT a) (JJ simple) (NN algorithm)) (PP (IN with) (NP (DT a) (ADJP (RB slightly) (JJR better)) (NN runtime))))))) (. .))
-(S (NP (DT This) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG sorting) (NP (NP (NP (JJ arcs) (NN insight)) (PP (IN of) (NP (NNS vertices)))) (PP (IN on) (NP (DT a) (JJ residual) (NN graph))))))))) (. .))
-(S (NP (DT This) (JJ new) (NN approach)) (VP (VBZ leads) (PP (TO to) (NP (NP (DT an) (ADJP (NNP O) (PRN (-LRB- -LRB-) (NN mn^0.5) (-RRB- -RRB-))) (NN time) (NN bound)) (PP (IN for) (NP (NP (DT a) (NN network)) (PP (IN with) (NP (NP (JJ n) (NNS vertices)) (CC and) (NP (NN m) (NN arcs))))))))) (. .))
-(NP (NP (NN Category)) (: :) (NP (NP (NNP Algorithms)) (, ,) (NP (NNP Graph) (NNP Theory)) (CC and) (NP (JJ maximum) (NNS flows))))

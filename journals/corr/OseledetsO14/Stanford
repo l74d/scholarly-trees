@@ -1,2 +1,0 @@
-(S (NP (NNP SimRank)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB well) (HYPH -) (VBN known)) (NN similarity) (NN measure)) (PP (IN between) (NP (NN graph) (NNS vertices))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper) (NN novel))) (NP (NP (NML (JJ low) (HYPH -) (NN rank)) (NN approximation)) (PP (IN of) (NP (NNP SimRank)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

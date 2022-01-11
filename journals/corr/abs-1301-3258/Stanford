@@ -1,2 +1,0 @@
-(S (S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (DT a) (JJ new) (NN variant)) (PP (IN of) (NP (NNP ElGamal) (NN signature) (NN scheme)))) (VP (VBZ is) (VP (VBN presented)))) (CC and) (S (NP (PRP$ its) (NN security)) (VP (VBN analyzed))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (, ,) (PP (IN for) (NP (PRP$ its) (JJ theoretical) (NN interest))) (, ,) (S (NP (NP (DT a) (JJ general) (NN form)) (PP (IN of) (NP (DT the) (NN signature) (NN equation)))))) (. .))

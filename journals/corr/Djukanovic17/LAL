@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (JJ several) (JJ electoral) (NNS systems)) (PP (IN for) (NP (NP (JJ multi-winner) (NNS elections)) (PP (IN with) (NP (NN approval) (NNS ballots)))))) (, ,) (S (VP (VBG generalizing) (NP (NP (DT the) (JJ classical) (NNS methods)) (PP (IN of) (NP (NNP Sainte-Laguë) (CC and) (NNP D'Hondt))))))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS works)) (PP (IN of) (NP (NNP Phragmén) (CC and) (NNP Thiele))))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ last) (NN section))) (NP (PRP we)) (VP (VBP discuss) (NP (NP (JJ possible) (NNS generalizations)) (SBAR (S (VP (TO to) (VP (VB score) (NP (NN voting)))))))) (. .))

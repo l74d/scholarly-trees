@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ investigates) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT the) (NNP EWC) (JJ semantic) (NN relatedness) (NN measure))) (PP (IN in) (NP (DT an) (JJ ad-hoc) (NN retrieval) (NN task))))) (. .))
-(S (NP (DT This) (NN measure)) (VP (VBZ combines) (NP (NP (DT the) (JJ Wikipedia-based) (NNP Explicit) (NNP Semantic) (NNP Analysis) (NN measure)) (, ,) (NP (DT the) (NNP WordNet) (NN path) (NN measure)) (CC and) (NP (DT the) (JJ mixed) (NN collocation) (NN index)))) (. .))
-(S (PP (IN In) (NP (DT the) (NNS experiments))) (, ,) (NP (DT the) (JJ open) (NN source) (NN search) (NN engine) (NNP Terrier)) (VP (VBD was) (VP (VBN utilised) (PP (IN as) (NP (DT a) (NN tool))) (S (VP (TO to) (VP (NN index) (CC and) (VB retrieve) (NP (NNS data))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN technique)) (VP (VBD was) (VP (VBN tested) (PP (IN on) (NP (DT the) (NNP NTCIR) (NNS data) (NN collection))))) (. .))
-(S (NP (DT The) (NNS experiments)) (VP (VBD demonstrated) (NP (JJ promising) (NNS results))) (. .))

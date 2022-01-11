@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ large) (NN number)) (PP (IN of) (NP (JJ analog) (JJ chaos-based) (NN secure) (NN communication) (NNS systems)))) (VP (VBP have) (VP (VBN been) (VP (VBN proposed) (PP (IN since) (NP (DT the) (JJ early) (CD 1990s))) (S (VP (VBG exploiting) (NP (NP (DT the) (NN technique)) (PP (IN of) (NP (NN chaos) (NN synchronization))))))))) (. .))
-(S (NP (NP (DT A) (JJ brief) (NN survey)) (PP (PP (IN of) (NP (DT these) (JJ chaos-based) (NNS cryptosystems))) (CC and) (PP (IN of) (NP (JJ related) (JJ cryptanalytic) (NNS results))))) (VP (VBZ is) (VP (VBN given))) (. .))
-(S (NP (NP (DT Some) (ADJP (RB recently) (VBN proposed)) (NNS countermeasures)) (PP (IN against) (NP (VBN known) (NNS attacks)))) (VP (VBP are) (ADVP (RB also)) (VP (VBN introduced))) (. .))

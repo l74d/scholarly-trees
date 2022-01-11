@@ -1,2 +1,0 @@
-(S (NP (NP (NNP Gesture) (NN recognition) (NN application)) (PP (IN over) (NP (CD 802.11) (JJ ad/y) (NNS waveforms)))) (VP (VBZ is) (VP (VBN developed))) (. .))
-(S (NP (NP (JJ Simultaneous) (NNS gestures)) (PP (IN of) (NP (JJ slider-control) (CC and) (JJ two-finger) (NN gesture))) (PP (IN for) (NP (VBG switching)))) (VP (VBP are) (VP (VBN detected) (PP (VBN based) (PP (IN on) (NP (NP (NNP Golay) (NNS sequences)) (PP (IN of) (NP (NP (NN channel) (NN estimation) (NNS fields)) (PP (IN of) (NP (DT the) (NNS packets)))))))))) (. .))

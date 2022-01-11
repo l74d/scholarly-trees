@@ -1,3 +1,0 @@
-(S (ADVP (RB Logically)) (NP (NP (VBN Constrained) (NN Term)) (VP (VBG Rewriting) (NP (NP (NNPS Systems)) (-LRB- -LRB-) (NP (NNS LCTRSs)) (-RRB- -RRB-)))) (VP (VBP provide) (NP (DT a) (JJ general) (NN framework)) (PP (IN for) (NP (NP (NN term) (VBG rewriting)) (PP (IN with) (NP (NNS constraints)))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (DT a) (JJ simple) (NML (NN dependency) (NN pair)) (NN approach)) (S (VP (TO to) (VP (VB prove) (NP (NP (NN termination)) (PP (IN of) (NP (NNS LCTRSs)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP see) (SBAR (IN that) (S (NP (VBG existing) (NNS techniques)) (VP (VB transfer) (PP (IN to) (NP (NP (DT the) (ADJP (VBN constrained)) (NN setting)) (PP (IN in) (NP (DT a) (JJ natural) (NN way))))))))) (. .))

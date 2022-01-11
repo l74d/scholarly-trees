@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (NN change)) (PP (IN of) (NP (VBG ordering) (NN algorithm)))) (VP (VBZ is) (ADJP (JJ crucial) (PP (IN for) (NP (DT these) (NNS strategies))))) (. .))
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ p-adic) (NN stability)) (PP (IN of) (NP (NP (DT the) (JJ main) (NN change)) (PP (IN of) (NP (NP (VBG ordering) (NN algorithm)) (, ,) (NP (NNP FGLM)))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP show) (SBAR (IN that) (S (NP (NNP FGLM)) (VP (VBZ is) (ADJP (JJ stable)))))) (CC and) (VP (JJ give) (NP (NP (NN explicit) (JJ upper) (NN bound)) (PP (IN on) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NN precision))) (VP (VBG occuring) (PP (IN in) (NP (PRP$ its) (NN execution))))))))) (. .))
-(S (NP (PRP$ Our) (NN study)) (VP (NNS relies) (PP (IN on) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (NNP Smith) (NNP Normal) (NNP Form) (NNS computations))) (PP (IN for) (NP (JJ linear) (NN algebra)))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN proposed) (S (NP (NP (DT a) (JJ complex) (VBN valued) (NNS channel) (VBG encoding)) (PP (IN for) (NP (JJ multidimensional) (NNS data))))))) (. .))
-(S (NP (DT The) (JJ basic) (NN approach)) (VP (VBZ contains) (NP (NP (VBG overlapping)) (PP (IN of) (NP (JJ complex) (JJ nonlinear) (NNS mappings))))) (. .))
-(S (NP (PRP$ Its) (NN development)) (VP (VBZ leads) (PP (TO to) (NP (NP (VB sparse) (NN representation)) (PP (IN of) (NP (NN multi-channel) (NNS data))))) (, ,) (S (VP (VBG increasing) (NP (NP (PRP$ their) (NNS dimensions)) (CC and) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (DT the) (NNS images)))))))) (. .))

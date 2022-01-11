@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP extend) (NP (NP (DT this) (NN algorithm)) (PP (IN for) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NN matrix-product) (NNS codes)))))) (PP (IN in) (NP (CD two) (JJ different) (NNS ways)))) (. .))
-(S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (NP (CD one)) (VP (MD can) (VP (VB decode) (PP (IN beyond) (NP (NP (DT the) (NN error) (NN correction) (NN capability)) (PP (IN of) (NP (DT the) (NN code))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (NN family)) (PP (IN of) (NP (NNS codes))) (VP (VBN based) (PP (IN on) (NP (NP (JJ polar) (NNS codes)) (, ,) (NP (JJ soft) (NN concatenation)) (CC and) (NP (NN list+CRC) (NN decoding)))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (JJ Numerical) (NNS experiments)) (VP (VBP show) (S (NP (DT the) (NN performance)) (ADJP (JJ competitive) (PP (IN with) (NP (NP (NN industry) (NNS standards)) (CC and) (NP (NNP Tal) (, ,) (NNP Vardy) (NN approach))))))) (. .))

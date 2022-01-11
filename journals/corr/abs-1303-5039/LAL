@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ new) (JJ lambda-calculus)) (PP (IN with) (NP (NP (JJ explicit) (NNS substitutions)) (CC and) (NP (VBN named) (NNS variables)))))) (. .))
-(S (NP (NP (VBG Renaming)) (PP (IN of) (NP (NN bound) (NNS variables))) (PP (IN in) (NP (DT this) (NN calculus)))) (VP (VP (VBZ is) (ADJP (JJ explicit)) (PRN (-LRB- -LRB-) (S (NP (EX there)) (VP (VBZ is) (NP (DT a) (JJ special) (NN rewrite) (NN rule)))) (-RRB- -RRB-))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN delayed))))) (. .))
-(S (NP (NP (NNP Contexts)) (PRN (-LRB- -LRB-) (NP (NNS environments)) (-RRB- -RRB-))) (VP (VP (VBP are) (RB not) (NP (NP (NNS sets) (CC or) (NNS lists)) (PP (IN without) (NP (NN multiplicity))))) (, ,) (CC but) (VP (VBP have) (NP (DT a) (ADJP (RBR more) (JJ complicated)) (NN structure)))) (. .))
-(S (NP (EX There)) (VP (VBZ is) (NP (DT a) (JJ natural) (NN order)) (PP (IN on) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NN contexts)))))) (. .))
-(S (NP (NP (DT A) (`` ``) (NN set) ('' '')) (PP (IN of) (NP (JJ free) (NNS variables)))) (VP (VBZ is) (NP (RB not) (NP (DT a) (NN set)) (, ,) (CC but) (NP (NP (DT a) (NN context)) (PP (IN in) (NP (DT the) (JJ new) (NN sense)))))) (. .))
-(S (NP (NNP New) (NNS definitions)) (VP (VBP simplify) (S (VP (VBG working) (PP (IN with) (NP (NN alpha-conversion)))))) (. .))

@@ -1,1 +1,0 @@
-(S (S (VP (VBG Using) (NP (NP (DT a) (NN reduction)) (PP (IN from) (NP (DT a) (JJ dictionary-like) (NN data) (NN structure)))))) (, ,) (NP (PRP we)) (VP (VBP prove) (NP (NP (DT the) (NN optimality)) (PP (IN of) (NP (DT this) (NN algorithm)))) (PP (IN in) (NP (DT the) (JJ comparison-based) (NN computation) (NN model)))) (. .))

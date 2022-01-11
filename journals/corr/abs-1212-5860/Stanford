@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN tail)) (VP (VBN bound) (PP (IN of) (NP (NP (DT the) (JJ emperical) (NN covariance)) (PP (IN of) (NP (JJ multivariate) (JJ normal) (NN distribution)))))))) (. .))
-(S (PP (VBG Following) (NP (NP (DT the) (NN work)) (PP (IN of) (-LRB- -LRB-) (NP (NNP Gittens) (CC &) (NNP Tropp) (, ,) (CD 2011)) (-RRB- -RRB-)))) (, ,) (NP (PRP we)) (VP (VBP provide) (NP (NP (DT a) (NN tail)) (VP (VBN bound) (PP (IN with) (NP (DT a) (JJ small) (JJ constant)))))) (. .))

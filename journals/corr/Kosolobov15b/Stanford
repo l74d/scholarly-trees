@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (JJ linear) (NML (NN time) (CC and) (NN space)) (NN algorithm)) (S (VP (VBG computing) (NP (NP (DT the) (NN leftmost) (JJ critical) (NN factorization)) (PP (IN of) (NP (NP (DT a) (VBN given) (NN string)) (PP (IN on) (NP (DT an) (JJ unordered) (NN alphabet))))))))) (. .))

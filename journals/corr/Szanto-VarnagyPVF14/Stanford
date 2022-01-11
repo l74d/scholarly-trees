@@ -1,4 +1,0 @@
-(S (NP (VBG Measuring) (NN science)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (VP (VBG comparing) (NP (NNS articles)) (PP (IN to) (NP (JJ similar) (NNS others)))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (NP (ADJP (NP (NN keyword)) (HYPH -) (VBN based)) (NNS groups)) (PP (IN of) (NP (ADJP (ADVP (RB thematically)) (JJ similar)) (NNS articles)))) (VP (VBP are) (ADJP (RB dominantly) (JJ small))) (. .))
-(S (NP (DT These) (JJ small) (NNS sizes)) (VP (VBP keep) (S (NP (NP (DT the) (JJ statistical) (NNS errors)) (PP (IN of) (NP (NNS comparisons)))) (ADJP (JJ high)))) (. .))
-(S (PP (IN With) (NP (NP (DT the) (VBG growing) (NN availability)) (PP (IN of) (NP (JJ bibliographic) (NNS data))))) (NP (JJ such) (JJ statistical) (NNS errors)) (VP (MD can) (VP (VB be) (VP (VBN reduced) (PP (IN by) (NP (NP (VBG merging) (NNS methods)) (PP (IN of) (NP (NP (JJ thematic) (NN grouping)) (, ,) (NP (NN citation) (NNS networks)) (CC and) (NP (JJ keyword) (NN co-usage))))))))) (. .))

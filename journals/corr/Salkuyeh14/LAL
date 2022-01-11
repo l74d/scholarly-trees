@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (ADVP (RB then)) (VP (VB investigate) (NP (NP (DT the) (NN existence) (CC and) (NN uniqueness)) (PP (IN of) (NP (NP (DT a) (JJ fuzzy) (NN solution)) (PP (TO to) (NP (DT this) (NN system))))))) (. .))
-(S (NP (DT The) (NNS results)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NP (DT the) (NN class)) (PP (IN of) (NP (NP (NNS M-matrices)) (CC and) (NP (ADJP (RB strictly) (RB diagonally) (JJ dominant)) (NNS matrices))))))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (DT some) (JJ numerical) (NNS examples)) (VP (VBP are) (VP (VBN given) (S (VP (TO to) (VP (VB illustrate) (NP (DT the) (JJ presented) (JJ theoretical) (NNS results))))))) (. .))

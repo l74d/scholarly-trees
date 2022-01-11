@@ -1,5 +1,0 @@
-(S (NP (DT The) (JJ weak) (NML (NNP Galerkin) (-LRB- -LRB-) (NNP WG) (-RRB- -RRB-)) (JJ finite) (NN element) (NN method)) (VP (VBZ is) (NP (NP (DT an) (ADJP (JJ effective) (CC and) (JJ flexible)) (JJ general) (JJ numerical) (NNS techniques)) (PP (IN for) (S (VP (VBG solving) (NP (JJ partial) (JJ differential) (NNS equations))))))) (. .))
-(S (NP (DT A) (ADJP (JJ simple) (JJ weak)) (NML (NNP Galerkin) (NN finite)) (NN element) (NN method)) (VP (VBZ is) (VP (VBN introduced) (PP (IN for) (NP (JJ second) (NN order) (JJ elliptic) (NNS problems))))) (. .))
-(S (ADVP (RB First)) (NP (PRP we)) (VP (VBP have) (VP (VBN proved) (SBAR (IN that) (S (NP (NNS stabilizers)) (VP (VBP are) (ADVP (RB no) (RBR longer)) (VP (VBN needed) (PP (IN for) (NP (DT this) (NN WG) (NN element))))))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP have) (VP (VBN proved) (NP (NP (DT the) (NN supercloseness)) (PP (IN of) (NP (NN order) (CD two)))) (PP (IN for) (NP (DT the) (NNP WG) (JJ finite) (NN element) (NN solution))))) (. .))
-(S (NP (DT The) (JJ numerical) (NNS results)) (VP (VBP confirm) (NP (DT the) (NN theory))))

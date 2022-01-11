@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN study)) (VP (VBZ presents) (NP (DT a) (NN method) (S (VP (TO to) (VP (VB predict) (S (NP (NP (DT the) (NN growth) (NN fluctuation)) (PP (IN of) (NP (NNS firms)))) (ADJP (JJ interdependent) (PP (IN in) (NP (DT a) (NN network) (NN economy)))))))))) (. .))
-(S (NP (NP (DT The) (NN risk)) (PP (IN of) (NP (NP (JJ downward) (NN growth) (NN fluctuation)) (PP (IN of) (NP (NNS firms)))))) (VP (VBZ is) (VP (VBN calculated) (PP (IN from) (NP (NP (DT the) (NNS statistics)) (PP (IN on) (NP (JJ Japanese) (NN industry))))))) (. .))

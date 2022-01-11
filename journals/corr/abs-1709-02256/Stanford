@@ -1,8 +1,0 @@
-(SQ (VBP Are) (NP (NP (JJ human) (NN perception)) (CC and) (NP (NN decision) (NNS biases))) (VP (VBN grounded) (PP (IN in) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NN rationality)))))) (. ?))
-(S (NP (PRP You)) (VP (VBP return) (PP (IN to) (NP (PRP$ your) (NN camp))) (PP (IN after) (S (VP (VBG hunting) (CC or) (VBG gathering))))) (. .))
-(S (NP (PRP You)) (VP (VBP see) (NP (NP (DT the) (NN grass)) (VP (VBG moving)))) (. .))
-(S (NP (PRP You)) (VP (VBP do) (RB not) (VP (VB know) (NP (DT the) (NN probability)) (SBAR (IN that) (S (NP (DT a) (NN snake)) (VP (VBZ is) (PP (IN in) (NP (DT the) (NN grass)))))))) (. .))
-(SQ (MD Should) (S (NP (PRP you)) (VP (VP (VB cross) (NP (DT the) (NN grass) (HYPH -)) (PP (IN at) (NP (NP (DT the) (NN risk)) (PP (IN of) (S (VP (VBG being) (VP (VBN bitten) (PP (IN by) (NP (DT a) (NN snake)))))))))) (HYPH -) (CC or) (VP (VB make) (NP (DT a) (JJ long) (, ,) (ADJP (ADVP (RB hence)) (JJ costly)) (, ,) (NN detour))))) (. ?))
-(S (PP (VBN Based) (PP (IN on) (NP (DT this) (NN storyline)))) (, ,) (NP (PRP we)) (VP (VBP consider) (NP (DT a) (JJ rational) (NN decision) (NN maker)) (S (VP (VBG maximizing) (VP (VBN expected) (NP (NP (VBN discounted) (NN utility)) (PP (IN with) (NP (NN learning)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (FRAG (NP (NP (NP (PRP$ his) (JJ optimal) (NN behavior) (NNS displays)) (NP (CD three) (NNS biases))) (: :) (NP (NP (NN status) (NN quo) (, ,) (NN salience) (, ,) (NN overestimation)) (PP (IN of) (NP (JJ small) (NNS probabilities)))))))) (. .))
-(S (NP (NNS Biases)) (VP (MD can) (VP (VB be) (NP (NP (DT the) (NN product)) (PP (IN of) (NP (JJ rational) (NN behavior)))))) (. .))

@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT the) (NN outer) (NN product) (NN decomposition)) (PP (IN of) (NP (NP (DT a) (NN product)) (PP (IN of) (NP (JJ compatible) (VBN linked) (NNS networks))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ provides) (NP (NP (DT a) (NN foundation)) (PP (IN for) (NP (NP (DT the) (JJ fractional) (NN approach)) (PP (IN in) (NP (NN network) (NN analysis))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NN standard)) (CC and) (NP (NP (NP (NNP Newman) (POS 's)) (NN normalization)) (PP (IN of) (NP (NNS networks)))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT some) (NNS alternatives)) (PP (IN for) (NP (JJ fractional) (JJ bibliographic) (NN coupling) (NNS measures))))) (. .))

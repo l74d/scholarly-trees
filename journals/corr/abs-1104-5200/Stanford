@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NML (JJ wireless) (NN scheduling)) (NN problem)) (PP (IN in) (NP (DT the) (NNP SINR) (NN model))))) (. .))
-(S (PP (IN In) (NP (DT the) (JJ basic) (NN problem))) (, ,) (NP (DT all) (NNS senders)) (VP (VBP transmit) (PP (IN with) (NP (DT the) (JJ same) (JJ uniform) (NN power)))) (. .))
-(S (NP (PRP It)) (VP (VBZ holds) (PP (PP (IN in) (NP (JJ arbitrary) (JJ metric) (NN space))) (CC and) (PP (IN for) (NP (DT every) (ADJP (ADJP (NN length) (HYPH -) (JJ monotone)) (CC and) (ADJP (JJ sublinear))) (NN power) (NN assignment))))) (. .))

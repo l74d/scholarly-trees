@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ proposes) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (NP (JJ oblivious) (NN transfer))) (VP (VBG using) (NP (JJ elliptic) (NNS curves))))) (. .))
-(S (ADVP (RB Also)) (, ,) (NP (PRP we)) (VP (VBP present) (NP (PRP$ its) (NN application)) (PP (TO to) (NP (VB chosen) (JJ one-out-of-two) (JJ oblivious) (NN transfer)))) (. .))

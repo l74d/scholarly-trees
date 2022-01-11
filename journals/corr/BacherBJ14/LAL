@@ -1,2 +1,0 @@
-(S (NP (DT This)) (VP (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ quasi-optimal)))) (CC and) (VP (NNS out-performs) (NP (DT the) (JJ classical) (NNP Remy) (NN algorithm)))) (. .))
-(S (NP (DT Both)) (VP (VBP are) (NP (NP (DT the) (JJ first) (JJ linear-time) (NN algorithms)) (SBAR (S (VP (TO to) (VP (VB be) (ADJP (JJ optimal)) (PP (RB up) (PP (TO to) (NP (DT a) (NN constant)))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ multicut) (NN segmentation))))) (. .))
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (JJ modified) (NNS versions)) (PP (IN of) (NP (DT the) (NNP Semi-PlanarCC))) (VP (VBN based) (PP (IN on) (NP (VBG bounding) (NNP Lagrange) (NNS multipliers)))))) (. .))
-(S (NP (PRP We)) (VP (VBP apply) (NP (PRP$ our) (NN work)) (PP (TO to) (NP (JJ natural) (NN image) (NN segmentation)))) (. .))

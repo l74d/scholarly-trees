@@ -1,4 +1,0 @@
-(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VBG altering) (NP (NNP PostgreSQL) (NN database)) (PP (IN from) (NP (NNS multi-processes) (NN structure))) (PP (TO to) (NP (JJ multi-threads) (NN structure))))))) (VP (VBZ is) (NP (DT a) (JJ difficult) (NN problem))) (. .))
-(S (PP (IN In) (NP (DT the) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP bring) (PRT (RB forward)) (NP (DT a) (JJ comprehensive) (NN alteration) (NN scheme))) (. .))
-(S (ADVP (RB Especially)) (, ,) (VP (VBD put) (NP (JJ rational) (NNS methods)) (S (VP (TO to) (VP (VB account) (PP (IN for) (NP (NP (CD three) (JJ difficult) (NNS points)) (: :) (NP (NP (NNS semaphores)) (, ,) (NP (JJ signal) (NN processing)) (CC and) (NP (JJ global) (NNS variables))))))))) (. .))
-(S (PP (IN At) (ADJP (JJ last))) (, ,) (VP (VBD applied) (NP (DT the) (NN scheme)) (ADVP (RB successfully)) (S (VP (TO to) (VP (VB modify) (NP (DT a) (JJ famous) (JJ open) (NN source) (NNP DBMS)))))) (. .))

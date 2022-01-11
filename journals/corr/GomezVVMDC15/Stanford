@@ -1,2 +1,0 @@
-(S (ADVP (RB Moreover)) (NP (PRP we)) (VP (VBP prove) (SBAR (IN that) (S (NP (PRP$ their) (NN superposition)) (VP (VBZ tends) (PP (IN to) (NP (DT a) (NNP Poisson) (NN point) (NN process))) (SBAR (IN as) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN from) (NP (JJ real) (NNS data)))))))))))) (. .))
-(S (NP (NP (JJ Qualitative) (NNS interpretations)) (PP (IN on) (NP (NN deployment) (NNS strategies)))) (VP (VBP are) (VP (VBN derived) (PP (IN from) (NP (NP (DT the) (NN model) (NN fitting)) (PP (IN of) (NP (DT the) (JJ raw) (NN data))))))) (. .))

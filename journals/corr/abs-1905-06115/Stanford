@@ -1,5 +1,0 @@
-(S (NP (NP (JJ Naive) (NNS Bayes)) (NP (NN estimator))) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN used) (PP (IN in) (NP (NN text) (NN classification) (NNS problems))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB perform) (ADVP (RB well)) (PP (IN with) (NP (NML (JJ small) (HYPH -) (NN size)) (NN training) (NN dataset))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ new) (NN method)) (PP (VBN based) (PP (IN on) (NP (NML (NNP Naive) (NNP Bayes)) (NN estimator)))) (S (VP (TO to) (VP (VB solve) (NP (DT this) (NN problem)))))) (. .))
-(S (NP (DT A) (NN correlation) (NN factor)) (VP (VBZ is) (VP (VBN introduced) (S (VP (TO to) (VP (VB incorporate) (NP (DT the) (NN correlation)) (PP (IN among) (NP (JJ different) (NNS classes)))))))) (. .))
-(S (NP (JJ Experimental) (NNS results)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN estimator)) (VP (VBZ achieves) (NP (DT a) (JJR better) (NN accuracy)) (PP (VBN compared) (PP (IN with) (NP (NP (JJ traditional) (JJ Naive) (NNS Bayes)) (PP (IN in) (NP (JJ real) (NN world) (NNS data)))))))))) (. .))

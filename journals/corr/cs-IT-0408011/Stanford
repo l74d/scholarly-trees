@@ -1,4 +1,0 @@
-(S (NP (NP (DT The) (JJ asyptotic) (NN number)) (PP (IN of) (NP (JJ nonequivalent) (JJ binary) (NN n) (HYPH -) (NNS codes)))) (VP (VBZ is) (VP (VBN determined))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT the) (JJ asymptotic) (NN number)) (PP (IN of) (NP (JJ nonisomorphic) (JJ binary) (NN n) (HYPH -) (NNS matroids))))) (. .))
-(S (NP (NP (DT The) (NN connection)) (PP (IN to) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NML (NNP Lefmann) (, ,) (NNP Roedl) (, ,)) (NNP Phelps)))))) (VP (VBZ is) (VP (VBN explored))) (. .))
-(NP (NP (DT The) (JJ latter) (NNS states)) (SBAR (WHNP (WDT that)) (S (NP (RB almost) (DT all) (JJ binary) (NN n) (HYPH -) (NNS codes)) (VP (VBP have) (NP (DT a) (JJ trivial) (NN automorphism) (NN group))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN research)) (VP (VBZ proposes) (NP (DT the) (NNS econophysics) (JJ kinetic) (NN market) (NN model)) (PP (IN as) (NP (NP (DT an) (JJ evolutionary) (NN algorithm) (POS 's)) (NN instance)))) (. .))
-(S (NP (NP (DT The) (JJ immediate) (NNS results)) (PP (IN from) (NP (DT this) (NN proposal)))) (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN replacement) (NN rule)) (PP (IN for) (NP (NN family) (NN competition) (JJ genetic) (NN algorithms))))) (. .))
-(S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ represents) (NP (NP (DT a) (VBG starting) (NN point)) (PP (TO to) (S (VP (VBG adding) (NP (JJ evolvable) (NNS entities)) (PP (TO to) (NP (VB kinetic) (NN market) (NNS models)))))))) (. .))

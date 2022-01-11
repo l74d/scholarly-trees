@@ -1,5 +1,0 @@
-(S (NP (NP (DT An) (NN approach)) (PP (IN to) (NP (NP (NN compatibility) (NN analysis)) (PP (IN of) (NP (NP (NNS systems)) (PP (IN of) (NP (JJ discrete) (NNS relations)))))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (PP (IN Unlike) (NP (DT the) (NNP Groebner) (NN basis) (NN technique))) (, ,) (NP (DT the) (VBN proposed) (NN scheme)) (VP (VBZ is) (RB not) (VP (VBN based) (PP (IN on) (NP (DT the) (ADJP (JJ polynomial) (NN ring)) (NN structure))))) (. .))
-(S (NP (PRP It)) (VP (VBZ uses) (S (ADJP (RBR more) (JJ primitive)) (NP (NP (NN set) (HYPH -) (JJ theoretic)) (CC and) (NP (JJ topological) (NNS concepts) (CC and) (NNS constructions))))) (. .))
-(S (NP (PRP We)) (VP (VBP illustrate) (NP (DT the) (NN approach)) (PP (IN by) (NP (NN application))) (PP (IN to) (NP (DT some) (NML (CD two) (HYPH -) (NN state)) (JJ cellular) (NN automata)))) (. .))
-(S (S (PP (IN In) (NP (DT the) (NML (CD two) (HYPH -) (NN state)) (NN case))) (NP (DT the) (NNP Groebner) (NN basis) (NN method)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ applicable)))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP compare) (NP (DT both) (NNS approaches)))) (. .))

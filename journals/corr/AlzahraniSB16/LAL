@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (PRP$ our) (JJ ongoing) (NN work)) (PP (IN on) (NP (NP (JJ spatio-temporal) (NNS models)) (PP (IN for) (NP (NP (JJ formal) (NN analysis)) (CC and) (NP (JJ property-based) (NN testing)))))))) (. .))
-(S (NP (PRP$ Our) (VBN proposed) (NN framework)) (VP (NNS aims) (PP (IN at) (S (VP (VBG reducing) (NP (NP (DT the) (NN impedance) (NN mismatch)) (PP (IN between) (NP (NP (JJ formal) (NNS methods)) (CC and) (NP (NNS practitioners))))))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ formal) (NNS methods))))) (CC and) (VP (VB explain) (NP (PRP$ their) (NN interplay) (CC and) (NNS benefits)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN usability))))))) (. .))

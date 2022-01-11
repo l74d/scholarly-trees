@@ -1,5 +1,0 @@
-(S (NP (NP (JJ Referential) (NN integrity)) (-LRB- -LRB-) (NP (JJ RI)) (-RRB- -RRB-)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN correctness) (NN property)) (PP (IN of) (NP (DT a) (VBN shared) (, ,) (VBN distributed) (NN object) (NN storage) (NN system))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB sometimes)) (VP (VBN thought) (SBAR (IN that) (S (S (VP (VBG enforcing) (ADJP (JJ RI)))) (VP (VBZ requires) (NP (NP (DT a) (JJ strong) (NN form)) (PP (IN of) (NP (NN consistency))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP argue) (SBAR (IN that) (S (NP (JJ causal) (NN consistency)) (VP (VBZ suffices) (S (VP (TO to) (VP (VB maintain) (ADJP (JJ RI))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP support) (NP (NP (DT this) (NN argument)) (PP (IN with) (NP (NN pseudocode)))) (PP (IN for) (NP (NP (NP (DT a) (NN reference)) (NP (NNP CRDT) (NNS data) (NN type))) (SBAR (WHNP (WDT that)) (S (VP (VBZ maintains) (ADJP (JJ RI) (PP (IN under) (NP (JJ causal) (NN consistency)))))))))) (. .))
-(S (NP (NNP QuickCheck)) (VP (VBZ has) (RB not) (VP (VBN found) (NP (NP (DT any) (NNS errors)) (PP (IN in) (NP (DT the) (NN model)))))) (. .))

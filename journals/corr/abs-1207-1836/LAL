@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (DT the) (JJ local) (NN broadcasting) (NN problem)) (PP (IN in) (NP (DT the) (NNP SINR) (NN model))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (JJ basic) (NN primitive)) (PP (IN for) (S (VP (VBG gathering) (NP (JJ initial) (NN information)) (PP (IN among) (NP (ADJP ($ $) (JJ n) ($ $)) (JJ wireless) (NNS nodes)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (JJ complementary) (JJR lower) (NNS bounds)) (PP (IN under) (NP (JJ reasonable) (NNS assumptions)))) (. .))

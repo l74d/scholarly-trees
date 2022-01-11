@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN work))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (JJ simple) (ADJP (RB yet) (JJR better)) (NN variant)) (PP (IN of) (NP (ADJP (NN Self) (HYPH -) (JJ Critical)) (NML (NN Sequence) (NN Training)))))) (. .))
-(S (NP (PRP We)) (VP (VBP make) (NP (NP (DT a) (JJ simple) (NN change)) (PP (IN in) (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (NN baseline) (NN function)))))) (PP (IN in) (NP (NNP REINFORCE) (NN algorithm)))) (. .))
-(S (NP (DT The) (JJ new) (NN baseline)) (VP (MD can) (VP (VB bring) (NP (JJR better) (NN performance)) (PP (IN with) (NP (DT no) (JJ extra) (NN cost))) (, ,) (PP (VBN compared) (PP (IN to) (NP (DT the) (JJ greedy) (NN decoding) (NN baseline)))))) (. .))

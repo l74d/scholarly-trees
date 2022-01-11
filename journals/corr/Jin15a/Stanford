@@ -1,3 +1,0 @@
-(S (S (NP (NP (NN MDL)) (, ,) (NP (NNP Multimodal) (NNP Deep) (NNP Learning) (NNP Library)) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NML (JJ deep) (NN learning)) (NN framework)) (SBAR (WHNP (WDT that)) (S (VP (VBZ supports) (NP (JJ multiple) (NNS models)))))))) (, ,) (CC and) (S (NP (DT this) (NN document)) (VP (VBZ explains) (NP (PRP$ its) (NN philosophy) (CC and) (NN functionality)))) (. .))
-(S (NP (NNP MDL)) (VP (VBZ runs) (PP (IN on) (NP (NNP Linux) (, ,) (NNP Mac) (, ,) (CC and) (NNP Unix))) (NP (NNS platforms))) (. .))
-(S (NP (PRP It)) (VP (VBZ depends) (PP (IN on) (NP (NNP OpenCV)))) (. .))

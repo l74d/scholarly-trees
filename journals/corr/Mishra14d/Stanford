@@ -1,7 +1,0 @@
-(S (NP (DT A) (NN command) (NN button)) (VP (MD may) (VP (VB contain) (NP (NP (DT a) (JJ textual) (NN label)) (CC or) (NP (DT a) (JJ graphic) (NN image)) (CC or) (NP (DT both))))) (. .))
-(S (NP (PRP It)) (VP (MD may) (VP (VB be) (NP (NP (NN static)) (CC or) (NP (VBN animated))))) (. .))
-(S (NP (EX There)) (VP (MD can) (VP (VB be) (NP (JJ many) (JJ different) (NNS features)) (S (VP (TO to) (VP (VB make) (NP (NP (DT a) (NN command) (NN button)) (ADJP (JJ attractive) (CC and) (JJ effective)))))))) (. .))
-(S (SBAR (IN As) (S (NP (NN command) (NN button)) (VP (VBZ is) (NP (DT a) (JJ typical) (NNP GUI) (NN element))))) (, ,) (NP (NP (JJS most) (NN improvement)) (PP (IN on) (NP (NP (NNP GUI)) (PP (IN in) (NP (JJ general)))))) (VP (MD will) (ADVP (RB also)) (VP (VB be) (ADJP (JJ applicable) (PP (IN to) (NP (NN command) (NNS buttons)))))) (. .))
-(S (ADVP (RB Besides)) (, ,) (NP (EX there)) (VP (VBP are) (ADVP (RB also)) (NP (NNS inventions) (S (VP (TO to) (VP (VB improve) (NP (NP (JJ various) (NNS aspects)) (PP (IN of) (NP (NN command) (NNS buttons)))) (PP (IN in) (ADJP (JJ specific)))))))) (. .))
-(S (NP (DT This) (NN article)) (VP (VBZ illustrates) (NP (NP (CD 10) (VBN selected) (NNS inventions)) (PP (IN from) (NP (NNP US) (NN patent) (NN database))))) (. .))
-(S (NP (DT Each) (NN invention)) (VP (VBZ is) (VP (VBN followed) (PP (IN by) (NP (NP (DT a) (NN TRIZ)) (VP (VBN based) (NP (NN analysis)) (PP (IN in) (NP (NN brief)))))))) (. .))

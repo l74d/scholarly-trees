@@ -1,6 +1,0 @@
-(S (NP (NNP DEMorphy)) (VP (VBZ is) (NP (NP (DT a) (JJ morphological) (NN analyzer)) (PP (IN for) (NP (NNP German))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN built) (PP (IN onto) (NP (NP (JJ large) (, ,) (JJ compactified) (NNS lexicons)) (PP (IN from) (NP (JJ German) (NNP Morphological) (NNP Dictionary))))))) (. .))
-(S (NP (NP (DT A) (NN guesser)) (VP (VBN based) (PP (IN on) (NP (JJ German) (NN declension) (NN suffixed))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN provided))) (. .))
-(S (PP (IN For) (NP (JJ German))) (, ,) (NP (PRP we)) (VP (VBD provided) (NP (DT a) (JJ state-of-art) (JJ morphological) (NN analyzer))) (. .))
-(S (NP (NNP DEMorphy)) (VP (VBZ is) (VP (VBN implemented) (PP (IN in) (NP (NNP Python))) (PP (IN with) (NP (NP (NP (NN ease)) (PP (IN of) (NP (NN usability)))) (CC and) (NP (VBG accompanying) (NN documentation)))))) (. .))
-(S (NP (DT The) (NN package)) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (UCP (DT both) (JJ academic) (CC and) (JJ commercial)) (NNS purposes)))) (PP (VBP wit) (NP (DT a) (JJ permissive) (NN licence)))) (. .))

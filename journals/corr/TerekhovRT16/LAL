@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (NP (DT the) (NN limit)) (PP (IN of) (NP (NP (JJ small) (NN noise)) (CC and) (NP (JJ small) (NN nonlinearity)))))) (NP (PRP we)) (VP (VBP derive) (ADVP (RB analytically)) (NP (NP (DT the) (JJ first) (NN nonzero) (JJ nonlinear) (NN correction)) (PP (TO to) (NP (NP (DT the) (JJ mutual) (NN information)) (PP (IN for) (NP (DT the) (NN channel))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP use) (NP (NN optimism)) (S (VP (TO to) (VP (VB introduce) (NP (JJ generic) (ADJP (RB asymptotically) (JJ optimal)) (NN reinforcement)) (S (VP (VBG learning) (NP (NNS agents)))))))) (. .))
-(S (NP (PRP They)) (VP (VBP achieve) (, ,) (PP (IN with) (NP (NP (DT an) (JJ arbitrary) (NN finite)) (CC or) (NP (NP (JJ compact) (NN class)) (PP (IN of) (NP (NP (NNS environments)) (, ,) (NP (ADJP (RB asymptotically) (JJ optimal)) (NN behavior)))))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (PP (IN in) (NP (DT the) (NN finite) (JJ deterministic) (NN case))) (NP (PRP we)) (VP (VBP provide) (NP (JJ finite) (NN error) (NNS bounds))) (. .))

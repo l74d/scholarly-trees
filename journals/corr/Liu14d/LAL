@@ -1,3 +1,0 @@
-(S (NP (NNP Fast-oopsi)) (VP (VBD was) (VP (VBN developed) (PP (IN by) (NP (NNP Joshua) (NNP Vogelstein))) (PP (IN in) (NP (CD 2009))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB now)) (VP (ADVP (RB widely)) (VBN used) (S (VP (TO to) (VP (VB extract) (NP (JJ neuron) (NN spike) (NNS activities)) (PP (IN from) (NP (NN calcium) (NN fluorescence) (NNS signals)))))))))))) (. .))
-(S (ADVP (RB Here)) (, ,) (NP (PRP we)) (VP (VBP propose) (NP (NP (JJ detailed) (NN implementation)) (PP (IN of) (NP (DT the) (JJ fast-oopsi) (NN algorithm))) (PP (IN in) (NP (NN python) (NN programming) (NN language))))) (. .))
-(S (NP (DT Some) (NNS corrections)) (VP (VBP are) (ADVP (RB also)) (VP (VBN made) (PP (TO to) (NP (DT the) (JJ original) (JJ fast-oopsi) (NN paper))))) (. .))

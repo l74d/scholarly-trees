@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP prove) (NP (NP (JJ optimal) (NN error) (VBZ bounds)) (PP (IN for) (NP (DT the) (JJ resulting) (NN approximation))))) (CC and) (VP (JJ present) (NP (JJ numerical) (NNS experiments)))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ succinct) (NN data) (HYPH -) (NN structure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ stores) (NP (DT a) (NN tree)) (PP (IN with) (NP (NP (NNS colors)) (PP (IN on) (NP (DT the) (NNS nodes)))))))))) (. .))
-(S (PP (VBN Given) (NP (NP (DT a) (NN node) (NN x)) (CC and) (NP (DT a) (NN color) (NN alpha)))) (, ,) (NP (DT the) (NN structure)) (VP (VBZ finds) (NP (NP (DT the) (JJS nearest) (NN node)) (PP (IN to) (NP (NN x)))) (PP (IN with) (NP (NN color) (NN alpha)))) (. .))

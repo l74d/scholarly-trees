@@ -1,2 +1,0 @@
-(S (NP (NP (NNP Kanerva) (POS 's)) (NNP Binary) (NNP Spatter) (NNPS Codes)) (VP (VBP are) (VP (VBN reformulated) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ geometric) (NN algebra))))))) (. .))
-(S (NP (NP (DT The) (JJ key) (NN ingredient)) (PP (IN of) (NP (DT the) (NN construction)))) (VP (VBZ is) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (NP (NN XOR) (NN binding)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ geometric) (NN product))))))))) (. .))

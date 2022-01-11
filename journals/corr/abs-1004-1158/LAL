@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP construct) (NP (JJ MDS) (NNP Euclidean) (CC and) (JJ Hermitian) (JJ self-dual) (NNS codes)) (PP (IN over) (NP (NP (JJ large) (JJ finite) (NNS fields)) (PP (IN of) (NP (ADJP (NN odd) (CC and) (RB even)) (NNS characteristics)))))) (. .))
-(S (NP (PRP$ Our) (NNS codes)) (VP (VBP arise) (PP (IN from) (NP (ADJP (JJ cyclic) (CC and) (JJ negacyclic)) (NN duadic) (NNS codes)))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (NN description)) (PP (IN of) (NP (NP (DT the) (NN link)) (PP (IN between) (NP (NP (JJ topological) (JJ dynamical) (NNS systems)) (CC and) (NP (PRP$ their) (NN dimension) (NNS groups)))))))) (. .))
-(S (NP (DT The) (NN focus)) (VP (VBZ is) (PP (IN on) (NP (NP (JJ minimal) (NNS systems)) (CC and) (, ,) (PP (IN in) (ADJP (JJ particular))) (, ,) (PP (IN on) (NP (NN substitution) (NNS shifts)))))) (. .))
-(S (NP (PRP We)) (VP (VBP describe) (PP (IN in) (NP (NN detail))) (NP (NP (DT the) (JJ various) (NNS classes)) (PP (IN of) (NP (NP (NNS systems)) (PP (VBG including) (NP (NP (JJ Sturmian) (NNS shifts)) (CC and) (NP (NN interval) (NN exchange) (NNS shifts)))))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ preliminary) (NN version)) (PP (IN of) (NP (NP (DT a) (NN book)) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB be) (VP (VBN published) (PP (IN by) (NP (NNP Cambridge) (NNP University) (NNP Press)))))))))))) (. .))
-(FRAG (PRN (S (NP (DT Any) (NNS comments)) (VP (VBP are) (ADVP (RB of) (RB course))))) (INTJ (UH welcome)) (. .))

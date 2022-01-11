@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN quantum) (NN analogy)) (PP (IN of) (NP (NP (DT the) (VBG coding) (NN theorem)) (PP (IN for) (NP (NP (DT both) (JJ pure) (NN quantum) (NNS states)) (CC and) (NP (JJ mixed) (NN quantum) (NNS states)))))))) (. .))
-(S (NP (NP (DT The) (NN quantum)) (VP (VBG coding) (NP (NNS theorems)))) (VP (VBP have) (NP (NP (NNS applications)) (PP (IN in) (S (VP (VBG relating) (NP (JJ different) (NN quantum) (JJ algorithmic) (NN entropy) (NNS measures))))))) (. .))

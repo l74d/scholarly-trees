@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN scheme) (POS 's)) (NN design)) (VP (VBZ has) (NP (NP (DT a) (NN flaw)) (SBAR (WHNP (WDT which)) (S (VP (VBZ lets) (S (NP (DT an) (NN attacker)) (VP (VBZ recover) (NP (DT the) (JJ private) (NN key)) (ADVP (RB directly)) (PP (IN from) (NP (DT the) (JJ public) (NN key))))))))))))) (. .))

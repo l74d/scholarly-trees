@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (NNP Dynamic-Frame) (NNP Aloha))) (NP (JJ subsequent) (NN frame) (NNS lengths)) (VP (MD must) (VP (VB be) (VP (ADVP (RB optimally)) (VBN chosen) (S (VP (TO to) (VP (VB maximize) (NP (NN throughput)))))))) (. .))

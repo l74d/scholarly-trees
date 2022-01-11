@@ -1,3 +1,0 @@
-(S (NP (NP (DT This) (NNS results)) (PP (IN in) (NP (DT this) (NN paper)))) (VP (VBP have) (VP (VBN been) (VP (VBN merged) (PP (IN with) (NP (NP (DT the) (NN result)) (PP (IN in) (NP (NN arXiv:1003.0167)))))))) (. .))
-(S (NP (DT The) (NNS authors)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB withdraw) (NP (DT this) (NN version))))))) (. .))
-(S (ADVP (NNP Please)) (VP (VB see) (NP (NN arXiv:1008.5356)) (PP (IN for) (NP (DT the) (VBN merged) (NN version)))) (. .))

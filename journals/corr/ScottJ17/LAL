@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (JJ genetic) (NN programming) (NN method)) (PP (IN for) (S (VP (VBG solving) (NP (JJ multiple) (NNP Boolean) (NN circuit) (NN synthesis) (NNS tasks)) (ADVP (RB simultaneously))))))) (. .))
-(S (NP (DT This)) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (VB solve) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ elementary) (JJ logic) (NNS functions)))) (ADVP (ADVP (RB twice) (RB as) (RB easily)) (PP (IN as) (PP (IN with) (NP (DT a) (JJ direct) (, ,) (JJ single-task) (NN approach))))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN sorting) (NN algorithm)) (VP (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN to) (NP (JJ parallel) (NN sorting)))))) (CC and) (VP (VBZ is) (ADJP (JJ suitable) (PP (IN for) (NP (NML (NN GPU) (CC or) (NN TPU)) (NN acceleration)))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (PRP we)) (VP (VBP discuss) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (DT this) (NN algorithm)))) (PP (IN to) (NP (JJ sparse) (NN hash) (NN table)))) (. .))

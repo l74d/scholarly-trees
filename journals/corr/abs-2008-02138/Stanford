@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP consider) (NP (NP (NNP Proof) (NNP Complexity)) (PP (IN in) (NP (NP (NN light)) (PP (IN of) (NP (NP (DT the) (JJ unusual) (JJ binary) (NN encoding)) (PP (IN of) (NP (JJ certain) (JJ combinatorial) (NNS principles))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP contrast) (NP (DT this) (NN Proof) (NN Complexity)) (PP (IN with) (NP (NP (DT the) (JJ normal) (JJ unary) (NN encoding)) (PP (IN in) (NP (JJ several) (NN refutation) (NNS systems))))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (NNP Resolution)) (CC and) (NP (NNP Integer) (NNP Linear) (NNP Programming)))))) (. .))
-(S (INTJ (UH Please)) (VP (VB consult) (NP (DT the) (NN article)) (PP (IN for) (NP (DT the) (JJ full) (NN abstract)))) (. .))

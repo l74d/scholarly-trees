@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (QP (CD twenty) (CD four))) (VP (VBN written) (NP (JJ natural) (NNS languages))))) (. .))
-(S (NP (PRP We)) (VP (VBP draw) (PP (IN in) (NP (NP (DT the) (NML (NN log) (NN scale)) (, ,) (NN number)) (PP (IN of) (NP (NNS words))))) (PP (VBG starting) (PP (IN with) (NP (NP (DT a) (NN letter)) (PP (IN vs) (NP (NP (NN rank)) (PP (IN of) (NP (DT the) (NN letter)))))))) (, ,) (S (NP (DT both)) (ADJP (VBN normalised)))) (. .))
-(S (NP (PRP We)) (VP (VBP find) (SBAR (IN that) (S (NP (PDT all) (DT the) (NNS graphs)) (VP (VBP are) (PP (IN of) (NP (DT the) (JJ similar) (NN type))))))) (. .))
-(S (NP (DT The) (NNS graphs)) (VP (VBP are) (ADJP (ADJP (RB tantalisingly) (JJR closer)) (PP (IN to) (NP (NP (DT the) (NNS curves)) (PP (IN of) (NP (NP (VBN reduced) (NN magnetisation)) (PP (IN vs) (NP (NP (VBN reduced) (NN temperature)) (PP (IN for) (NP (JJ magnetic) (NNS materials))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP make) (NP (DT a) (JJ weak) (NN conjecture)) (SBAR (IN that) (S (NP (NP (DT a) (NN curve)) (PP (IN of) (NP (NN magnetisation)))) (VP (VBZ underlies) (NP (DT a) (VBN written) (JJ natural) (NN language)))))) (. .))

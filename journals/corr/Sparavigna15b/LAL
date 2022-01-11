@@ -1,3 +1,0 @@
-(S (NP (DT The) (JJ maximum) (JJ entropy) (NN principle)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN used) (PP (IN for) (NP (NP (ADJP (JJ bi-level) (CC or) (JJ multi-level)) (NN thresholding)) (PP (IN of) (NP (NNS images))))))) (. .))
-(S (PP (IN For) (NP (DT this) (NN purpose))) (, ,) (NP (DT some) (NNS methods)) (VP (VBP are) (ADJP (JJ available)) (PP (VBN based) (PP (IN on) (NP (NNP Shannon) (CC and) (NNP Tsallis) (NNS entropies))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VP (VBP discuss) (NP (PRP them))) (CC and) (VP (VB propose) (NP (NP (DT a) (NN method)) (VP (VBN based) (PP (IN on) (NP (NNP Kaniadakis) (NN entropy))))))) (. .))

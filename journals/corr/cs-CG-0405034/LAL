@@ -1,1 +1,0 @@
-(S (NP (NP (DT The) (NN algorithm)) (PP (IN of) (NP (NNP Edelsbrunner))) (PP (IN for) (NP (NP (NN surface) (NN reconstruction)) (PP (IN by) (S (VP (`` ``) (VBG wrapping) ('' '') (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NNS points)))) (PP (IN in) (NP (NNP R^3))))))))) (VP (VBZ is) (VP (VBN described))) (. .))

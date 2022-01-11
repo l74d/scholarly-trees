@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VP (VBZ analyzes) (NP (NP (DT the) (NN robustness)) (PP (IN of) (NP (JJ deep) (NN learning) (NNS models))) (PP (IN in) (NP (JJ autonomous) (NN driving) (NNS applications))))) (CC and) (VP (VBZ discusses) (NP (NP (DT the) (JJ practical) (NNS solutions)) (SBAR (S (VP (TO to) (VP (VB address) (NP (DT that))))))))) (. .))

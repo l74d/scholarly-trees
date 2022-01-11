@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN note))) (NP (PRP we)) (VP (VBP determine) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (NNS expansions)))) (SBAR (JJ such) (IN that) (S (NP (DT a) (JJ partial) (NN cube)) (VP (VBZ is) (ADJP (JJ planar)) (SBAR (IN if) (CC and) (RB only))))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ arises) (PP (IN by) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (JJ such) (NNS expansions))))) (PP (IN from) (NP (DT a) (JJ single) (NN vertex))))))) (. .))
-(S (NP (DT This)) (VP (VBZ corrects) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NN Peterin))))) (. .))

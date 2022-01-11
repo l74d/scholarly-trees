@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (ADVP (RB first)) (VP (VBP present) (NP (DT a) (ADJP (JJ short) (CC and) (JJ simple)) (NN proof))) (. .))
-(S (NP (PRP We)) (VP (VP (ADVP (RB then)) (VBP provide) (NP (NP (DT an) (NN alternative) (NN proof)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ constructive))))))) (CC and) (VP (NN self) (HYPH -) (VBN contained))) (. .))

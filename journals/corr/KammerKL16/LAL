@@ -1,1 +1,0 @@
-(S (PP (PP (IN With) (NP (DT the) (JJ same) (NN time))) (CC and) (S (VP (VBG using) (NP ($ $) (NNP O) (PRN (-LRB- -LRB-) (NN n+m) (-RRB- -RRB-)) ($ $) (NNS bits))))) (, ,) (NP (PRP we)) (VP (MD can) (VP (VB compute) (NP (NP (DT the) (JJ biconnected) (NNS components)) (PP (IN of) (NP (DT a) (NN graph)))))) (. .))

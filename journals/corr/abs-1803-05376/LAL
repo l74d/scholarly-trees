@@ -1,6 +1,0 @@
-(S (NP (NP (NNP Dynamic) (NNP Fault) (NNP Trees)) (PRN (-LRB- -LRB-) (NP (NNP DFTs)) (-RRB- -RRB-))) (VP (VBP are) (NP (NP (DT a) (JJ prominent) (NN model)) (PP (IN in) (NP (NN reliability) (NN engineering))))) (. .))
-(S (S (NP (PRP They)) (VP (VBP are) (ADJP (ADJP (RB strictly) (RBR more) (JJ expressive)) (PP (IN than) (NP (JJ static) (NN fault) (NNS trees)))))) (, ,) (CC but) (S (S (NP (DT this)) (VP (VBZ comes) (PP (IN at) (NP (DT a) (NN price))))) (: :) (S (NP (PRP$ their) (NN interpretation)) (VP (VP (VBZ is) (ADJP (JJ non-trivial))) (CC and) (VP (VBZ leaves) (NP (RB quite) (DT some) (NN freedom)))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NNP GSPN) (NNS semantics)) (PP (IN for) (NP (NNP DFTs))))) (. .))
-(S (NP (DT This) (NN semantics)) (VP (VBZ is) (ADJP (RB rather) (JJ simple) (CC and) (JJ compositional))) (. .))
-(S (NP (DT The) (JJ key) (NN feature)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT this) (NNP GSPN) (NNS semantics)) (VP (VBZ unifies) (NP (NP (DT all) (VBG existing) (NNP DFT) (NNS semantics)) (PP (IN from) (NP (DT the) (NN literature)))))))) (. .))
-(S (NP (DT All) (JJ semantic) (NNS variants)) (VP (MD can) (VP (VB be) (VP (VBN obtained) (PP (IN by) (S (VP (VBG choosing) (NP (JJ appropriate) (NX (NX (NNS priorities)) (CC and) (NX (NX (NN treatment)) (PP (IN of) (NP (NN non-determinism)))))))))))) (. .))

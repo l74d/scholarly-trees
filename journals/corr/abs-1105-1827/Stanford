@@ -1,7 +1,0 @@
-(S (NP (NNP InfiniBand)) (VP (VBZ is) (NP (DT a) (NML (VBN switched) (NN fabric)) (NN interconnect))) (. .))
-(S (NP (DT The) (NNP InfiniBand) (NN specification)) (VP (VBZ does) (RB not) (VP (VB define) (NP (DT an) (NN API)))) (. .))
-(S (ADVP (RB However)) (NP (NP (DT the) (NN OFED) (NN package)) (, ,) (NP (NNS libibverbs)) (, ,)) (VP (VBZ has) (VP (VBN become) (NP (DT the) (NN default) (NN API)) (PP (IN on) (NP (NNP Linux) (CC and) (NNP Solaris) (NNS systems))))) (. .))
-(S (NP (JJ Sparse) (NN documentation)) (VP (VBZ exists) (PP (IN for) (NP (DT the) (NNS verbs) (NN API)))) (. .))
-(S (NP (NP (DT The) (JJS simplest) (NNP InfiniBand) (NN program)) (VP (VBN provided) (PP (IN by) (NP (NNP OFED) (, ,) (NNP ibv_rc_pingpong))))) (, ,) (VP (VBZ is) (PP (IN about) (NP (CD 800) (NNS lines))) (ADVP (RB long))) (. .))
-(S (NP (NP (DT The) (NNS semantics)) (PP (IN of) (S (VP (VBG using) (NP (DT the) (NNS verbs) (NN API)) (PP (IN for) (NP (DT this) (NN program))))))) (VP (VBZ is) (RB not) (ADJP (JJ obvious) (PP (IN to) (NP (DT the) (JJ first) (NN time) (NN reader))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (MD will) (VP (VB dissect) (NP (NP (DT the) (JJ ibv_rc_pingpong) (NN program)) (PP (IN in) (NP (DT an) (NN attempt)))) (S (VP (TO to) (VP (VB make) (ADJP (JJ clear) (PP (IN to) (NP (NNS users)))) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB interact) (PP (IN with) (NP (NNS verbs)))))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (NP (DT a) (JJ new) (JJ information-theoretic) (NN definition)) (CC and) (NX (VBN associated) (NNS results))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (NN list) (NN decoding)) (PP (IN in) (NP (DT a) (NN source) (VBG coding) (NN setting)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP begin) (PP (IN by) (S (VP (VBG presenting) (NP (NP (JJ list-source) (NNS codes)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (ADVP (RB naturally)) (VBP map) (NP (NP (DT a) (JJ key) (NN length)) (PRN (-LRB- -LRB-) (NP (NN entropy)) (-RRB- -RRB-))) (PP (TO to) (NP (VB list) (NN size))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (NP (NNS applications)) (CC and) (NP (NN implementation) (NNS issues))) (PP (IN of) (NP (PRP$ our) (NNS codes))))) (. .))

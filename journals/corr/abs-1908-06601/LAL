@@ -1,2 +1,0 @@
-(S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB achieve) (NP (DT this) (NN goal)))))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (DT a) (JJ special) (NN event)) (VP (VBN called) (S (`` ``) (ADJP (NN nil)) ('' ''))) (SBAR (WHNP (IN that)) (S (NP (DT any) (NN process)) (VP (MD can) (VP (VB take))))))) (. .))
-(S (NP (DT This) (JJ nil) (NN event)) (VP (MD will) (VP (VP (VB do) (NP (NP (NN nothing)) (ADJP (NN meaningful)))) (CC and) (VP (VBP leave) (NP (NN nothing)) (PP (IN on) (NP (NP (DT a) (NN process) (POS 's)) (JJ observable) (NN record)))))) (. .))

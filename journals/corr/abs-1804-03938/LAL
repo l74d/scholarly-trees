@@ -1,8 +1,0 @@
-(S (NP (NNP Separation) (NN logic)) (VP (VBZ is) (ADJP (JJ successful)) (PP (IN for) (NP (NN software) (NN verification))) (PP (IN in) (NP (DT both) (NN theory) (CC and) (NN practice)))) (. .))
-(S (NP (NP (NNP Decision) (NN procedure)) (PP (IN for) (NP (JJ symbolic) (NNS heaps)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ key) (NNS issues))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VP (VBZ proposes) (NP (NP (DT a) (JJ cyclic) (NN proof) (NN system)) (PP (IN for) (NP (JJ symbolic) (NNS heaps))) (PP (IN with) (NP (NP (JJ general) (NN form)) (PP (IN of) (NP (JJ inductive) (NNS definitions))))))) (, ,) (CC and) (VP (VBZ shows) (NP (PRP$ its) (NN soundness) (CC and) (NN completeness)))) (. .))
-(S (NP (NP (DT The) (NN decision) (NN procedure)) (PP (IN for) (NP (NP (NNS entailments)) (PP (IN of) (NP (NP (JJ symbolic) (NNS heaps)) (PP (IN with) (NP (JJ inductive) (NNS definitions)))))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN given))) (. .))
-(S (NP (NP (NN Decidability)) (PP (IN for) (NP (NP (NNS entailments)) (PP (IN of) (NP (NP (JJ symbolic) (NNS heaps)) (PP (IN with) (NP (JJ inductive) (NNS definitions)))))))) (VP (VBZ is) (NP (DT an) (JJ important) (NN question))) (. .))
-(S (NP (NP (NN Completeness)) (PP (IN of) (NP (JJ cyclic) (NN proof) (NNS systems)))) (VP (VBZ is) (ADVP (RB also)) (NP (DT an) (JJ important) (NN question))) (. .))
-(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ answer) (NP (DT both) (NNS questions))) (. .))
-(S (NP (DT The) (NN decision) (NN procedure)) (VP (VBZ is) (ADJP (JJ feasible)) (SBAR (IN since) (S (NP (PRP it)) (VP (VBZ is) (NP (JJ nondeterministic) (JJ double-exponential) (NN time) (NN complexity)))))) (. .))

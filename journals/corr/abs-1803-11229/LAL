@@ -1,1 +1,0 @@
-(S (S (VP (VBG Using) (NP (NN process) (NN algebra)))) (, ,) (NP (DT this) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN formalisation)) (PP (IN of) (NP (NP (DT the) (NNS process/semantics)) (PP (IN behind) (NP (DT the) (ADJP (RB purely) (JJ event-driven)) (NN programming) (NN language))))))) (. .))

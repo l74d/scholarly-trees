@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NN power)) (PP (IN of) (NP (NN non-determinism))) (PP (IN in) (NP (NP (ADJP (JJ purely) (JJ functional)) (NN programming) (NNS languages)) (PP (IN with) (NP (JJ higher-order) (NNS types))))))) (. .))
-(S (SBAR (IN Although) (S (NP (DT the) (NN work)) (VP (VBZ is) (ADJP (JJ incomplete))))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT an) (JJ initial) (NN approach)) (VP (VBG using) (NP (NP (JJ cons-free) (NNS programs)) (PP (IN with) (NP (JJ immutable) (NNS functions))))))) (. .))

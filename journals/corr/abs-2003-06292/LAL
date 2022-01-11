@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT some) (NN algorithms)) (PP (IN in) (NP (JJ linear) (JJ algebraic) (NNS groups))))) (. .))
-(S (NP (DT These) (NNS algorithms)) (VP (VP (VBP solve) (NP (DT the) (NN word) (NN problem))) (CC and) (VP (VB compute) (NP (NP (DT the) (NN spinor) (NN norm)) (PP (IN for) (NP (JJ orthogonal) (NNS groups)))))) (. .))
-(S (NP (DT This)) (VP (VBZ gives) (NP (PRP us)) (NP (NP (DT an) (JJ algorithmic) (NN definition)) (PP (IN of) (NP (DT the) (JJ spinor) (NN norm))))) (. .))
-(S (NP (PRP We)) (VP (VBP compute) (NP (DT the) (JJ double) (NN coset) (NN decomposition)) (PP (IN with) (NP (NP (NN respect)) (PP (TO to) (NP (NP (DT a) (NNP Siegel) (JJ maximal) (NN parabolic) (NN subgroup)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ important) (PP (IN in) (S (VP (VBG computing) (NP (JJ infinite-dimensional) (NNS representations)) (PP (IN for) (NP (DT some) (JJ algebraic) (NNS groups))))))))))))))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (NP (JJ Interactive) (NNS bodies)) (NP (NN collision) (NN detection) (CC and) (NN elimination))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN task)))) (ADVP (RB nowadays))) (. .))
-(S (NP (NNS Collisions)) (VP (MD can) (VP (VB be) (VP (VBN detected) (PP (IN in) (NP (JJ different) (NNS ways)))))) (. .))
-(S (NP (NP (NN Collision) (NN search)) (VP (VBG using) (NP (NN space) (NN voxelization)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ fast)))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (VBN improved) (NN voxel) (NN model)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ covers) (NP (NP (RB only) (NN area)) (PP (IN of) (NP (NN collision) (NN interest))))) (CC and) (ADVP (RB quickly)) (VP (VBZ eliminates) (NP (NNS collisions)))))))) (. .))
-(S (NP (DT This) (JJ new) (NN method)) (VP (MD can) (VP (VB be) (ADJP (JJ useful) (PP (IN in) (NP (NP (NML (JJ real) (NN time)) (NN collision) (NN processing)) (PP (IN of) (NP (JJ different) (UCP (JJ rigid) (CC and) (NML (JJ soft) (NNS bodies))) (NNS grids)))))))) (. .))

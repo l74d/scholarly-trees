@@ -1,6 +1,0 @@
-(S (NP (NNP Cat-and-mouse)) (VP (VBZ is) (NP (NP (DT a) (JJ two-player) (NN game)) (PP (IN on) (NP (DT a) (JJ finite) (NN graph))))) (. .))
-(S (NP (NNP Chandra) (CC and) (NNP Stockmeyer)) (VP (VBD showed) (SBAR (S (NP (NN cat-and-mouse)) (VP (VBZ is) (ADJP (NNP P-complete)) (PP (IN on) (NP (JJ directed) (NN graphs))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (S (NP (JJ cat-and-mouse)) (VP (VBZ is) (ADJP (JJ P-complete)) (PP (IN on) (NP (JJ undirected) (NN graphs))))))) (. .))
-(S (PP (TO To) (NP (PRP$ our) (NN knowledge))) (, ,) (NP (NP (DT no) (NN proof)) (PP (IN of) (NP (DT the) (JJ directed) (NN case)))) (VP (VBD was) (ADVP (RB ever)) (VP (VBN published))) (. .))
-(S (S (VP (TO To) (VP (VB fill) (NP (DT this) (NN gap))))) (NP (PRP we)) (VP (VP (VBP give) (NP (NP (DT a) (NN proof)) (PP (IN for) (NP (VBN directed) (NN graphs))))) (CC and) (VP (VB extend) (NP (PRP it)) (PP (TO to) (NP (JJ undirected) (NN graphs))))) (. .))
-(S (NP (DT The) (NN proof)) (VP (VBZ is) (NP (NP (DT a) (NN reduction)) (PP (IN from) (NP (NP (DT a) (NN variant)) (PP (IN of) (NP (DT the) (NN circuit) (NN value) (NN problem))))))) (. .))

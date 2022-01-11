@@ -1,1 +1,0 @@
-(S (ADVP (RB Moreover)) (, ,) (PP (IN at) (NP (NP (DT each) (NN step)) (PP (IN of) (NP (DT the) (NN computation))))) (, ,) (NP (NP (DT the) (NN set)) (PP (IN of) (INTJ (FW non)) (NP (JJ quiescent) (NNS states)))) (VP (VBZ has) (NP (ADJP (RB always) (RB infinitely) (JJ many)) (NNS cycles))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (JJ new) (NNS conditions)) (PP (IN on) (NP (NNS parameters) (VBP selection))) (SBAR (WHNP (IN that)) (S (VP (NN lead) (PP (TO to) (NP (NP (DT an) (JJ efficient) (NN algorithm)) (PP (IN for) (S (VP (VBG forging) (NP (NNP ElGamal) (JJ digital) (NN signature)))))))))))) (. .))
-(S (NP (PRP$ Our) (NN work)) (VP (VBZ is) (VP (VBN inspired) (PP (IN by) (NP (NP (NNP Bleichenbacher) (POS 's)) (NNS ideas))))) (. .))

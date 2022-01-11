@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT an) (NN approach)) (PP (TO to) (NP (JJ semi-supervised) (NN learning))) (VP (VBN based) (PP (IN on) (NP (DT an) (JJ exponential) (NN family) (NN characterization)))))) (. .))
-(S (NP (PRP$ Our) (NN approach)) (VP (VBZ generalizes) (NP (NP (JJ previous) (NN work)) (PP (IN on) (NP (JJ coupled) (NNS priors))) (PP (IN for) (NP (JJ hybrid) (JJ generative/discriminative) (NNS models))))) (. .))
-(S (NP (PRP$ Our) (NN model)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ flexible) (CC and) (JJ natural)) (PP (IN than) (NP (JJ previous) (NNS approaches))))) (. .))
-(S (NP (NP (JJ Experimental) (NNS results)) (PP (IN on) (NP (JJ several) (NNS data) (NNS sets)))) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN approach)) (ADVP (RB also)) (VP (VBZ performs) (ADVP (RBR better)) (PP (IN in) (NP (NN practice))))))) (. .))

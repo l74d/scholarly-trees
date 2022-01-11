@@ -1,4 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (NN proof)) (PP (IN for) (NP (NP (NN adjoint) (NNS systems)) (PP (IN of) (NP (JJ linear) (NNS equations)))))) (VP (VBZ is) (VP (VBN presented))) (. .))
-(S (NP (DT The) (NN argument)) (VP (VBZ is) (VP (VBN built) (PP (IN on) (NP (NP (DT the) (NNS principles)) (PP (IN of) (NP (JJ Algorithmic) (NN Differentiation))))))) (. .))
-(S (NP (NP (NN Application)) (PP (IN to) (NP (JJ scalar) (NN multiplication)))) (VP (VBZ sets) (NP (DT the) (NN base) (NN line))) (. .))
-(NP (NP (NP (NN Generalization) (NNS yields)) (NP (NN adjoint) (NML (NML (JJ inner) (NN vector)) (, ,) (NML (NN matrix) (HYPH -) (NN vector)) (, ,) (CC and) (NML (NN matrix) (HYPH -) (NN matrix))) (NNS products))) (VP (VBG leading) (PP (IN to) (NP (NP (DT an) (NN alternative) (NN proof)) (PP (IN for) (NP (ADJP (JJ first) (HYPH -) (PP (ADVP (RB as) (RB well)) (IN as) (NP (NML (JJR higher) (HYPH -) (NN order)) (NN adjoint)))) (JJ linear) (NNS systems)))))) (. .))

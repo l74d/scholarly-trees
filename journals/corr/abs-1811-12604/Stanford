@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN work)) (VP (VBZ proposes) (NP (NP (DT a) (JJ novel) (ADJP (JJ metric) (VBN based)) (NN algorithm)) (PP (IN for) (NP (JJ quadrilateral) (NN mesh) (NN generating))))) (. .))
-(S (ADVP (RB Inversely)) (, ,) (NP (NP (JJ such) (NN kind)) (PP (IN of) (NP (JJ metric)))) (VP (VBZ induces) (NP (DT a) (NN quad) (HYPH -) (NN mesh))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (NP (JJ discrete) (NNP Ricci) (NN flow)) (CC and) (NP (JJ conformal) (NN structure) (NN deformation))))) (, ,) (NP (PRP one)) (VP (MD can) (VP (VP (VB obtain) (NP (DT a) (JJ metric)) (S (VP (VBG satisfying) (NP (PDT all) (DT the) (NNS conditions))))) (CC and) (VP (VB obtain) (NP (DT the) (VBN desired) (NN quad) (HYPH -) (NN mesh))))) (. .))
-(S (NP (DT This) (NN method)) (VP (VBZ is) (ADJP (JJ rigorous) (, ,) (JJ simple) (CC and) (JJ automatic))) (. .))
-(S (NP (PRP$ Our) (JJ experimental) (NNS results)) (VP (VBP demonstrate) (NP (NP (DT the) (NN efficiency) (CC and) (NN efficacy)) (PP (IN of) (NP (DT the) (NN algorithm))))) (. .))

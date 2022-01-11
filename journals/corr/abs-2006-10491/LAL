@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (JJ multiplayer) (JJ turn-based) (VBN timed) (NNS games)) (PP (IN with) (NP (NN reachability) (NNS objectives))))) (. .))
-(S (PP (IN In) (NP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NP (NN subgame) (JJ perfect) (NN equilibrium)) (PRN (-LRB- -LRB-) (NP (NNP SPE)) (-RRB- -RRB-)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (IN that) (S (S (VP (VBG deciding) (NP (NP (DT the) (JJ constrained) (NN existence)) (PP (IN of) (NP (DT an) (NNP SPE)))) (PP (IN in) (NP (DT this) (NN setting))))) (VP (VBZ is) (ADJP (NNP EXPTIME-complete)))))) (. .))

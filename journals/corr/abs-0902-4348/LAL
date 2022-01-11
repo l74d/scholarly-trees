@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (NN semi-decision) (NNS procedures)) (PP (IN for) (NP (NP (DT the) (NN ground) (NN word) (NN problem)) (PP (IN of) (NP (NP (JJ variable) (VBG preserving) (NN term) (NN equation) (NNS systems)) (CC and) (NP (NN term) (NN equation) (NNS systems)))))))) (. .))
-(S (NP (PRP They)) (VP (VBP are) (NP (NP (JJ natural) (NNS improvements)) (PP (IN of) (NP (CD two) (ADJP (RB well) (VBN known)) (JJ trivial) (NN semi-decision) (NNS procedures))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (NP (NP (DT the) (NN correctness)) (PP (IN of) (NP (PRP$ our) (NNS procedures))))) (. .))

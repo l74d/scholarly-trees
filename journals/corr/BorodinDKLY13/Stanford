@@ -1,4 +1,0 @@
-(S (PP (IN By) (NP (NP (DT the) (NNP Grunbaum) (HYPH -) (NNP Aksenov) (NNP Theorem)) (-LRB- -LRB-) (VP (VBG extending) (NP (NP (NNP Grotzsch) (POS 's)) (NNP Theorem))) (-RRB- -RRB-))) (NP (NP (DT every) (JJ planar) (NN graph)) (PP (IN with) (NP (QP (ADVP (IN at) (RBS most)) (CD three)) (NNS triangles)))) (VP (VBZ is) (ADJP (CD 3) (HYPH -) (JJ colorable))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBP are) (ADVP (RB infinitely)) (NP (NP (JJ many) (ADJP (NP (NN planar) (CD 4)) (HYPH -) (JJ critical)) (NNS graphs)) (PP (IN with) (NP (RB exactly) (CD four) (NNS triangles))))) (. .))
-(S (NP (PRP We)) (VP (VBP describe) (NP (DT all) (JJ such) (NNS graphs))) (. .))
-(S (NP (DT This)) (VP (VBZ answers) (NP (NP (DT a) (NN question)) (PP (IN of) (NP (NNP Erdos)))) (PP (IN from) (NP (CD 1990)))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBD investigated) (NP (NP (DT a) (JJ suitable) (JJ auxiliary) (NN channel) (NN setting)) (CC and) (NP (NP (DT the) (NN gap)) (PP (IN between) (NP (NNS Q-factors))))) (PP (IN with) (NP (ADJP (JJ hard) (CC and) (JJ soft)) (NN demapping)))) (. .))
-(S (NP (DT The) (NN system) (JJ margin) (NN definition)) (VP (MD should) (VP (VB be) (VP (VBN reconsidered) (PP (IN for) (NP (NP (NNS systems)) (VP (VBG employing) (NP (NP (JJ complex) (VBN coded) (NN modulation)) (PP (IN with) (NP (JJ soft) (NNS forward) (NN error) (NN correction)))))))))) (. .))

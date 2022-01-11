@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (NN rank)) (PP (IN of) (NP (DT a) (NN random) (NN matrix) (NNP A))) (PP (IN over) (NP (NP (DT a) (JJ finite) (NN field)) (PP (IN with) (NP (NP (JJ prescribed) (NNS numbers)) (PP (IN of) (NP (JJ non-zero) (NNS entries))) (PP (IN in) (NP (DT each) (NN row) (CC and) (NN column))))))))) (. .))
-(S (PP (IN As) (NP (DT an) (NN application))) (NP (PRP we)) (VP (VB obtain) (NP (NP (DT a) (NN formula)) (PP (IN for) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NN low-density) (NN parity) (NN check) (NNS codes))))))) (. .))
-(S (NP (DT This) (NN formula)) (VP (VBZ verifies) (NP (NP (DT a) (NN conjecture)) (PP (IN of) (NP (NNP Lelarge) (NNP -LSB-) (NNP Proc))))) (. .))
-(NP (NP (NNP IEEE) (NNP Information) (NNP Theory) (NNP Workshop)) (NP (CD 2013)) (NNP -RSB-) (. .))
-(S (NP (DT The) (NN proofs)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NP (VBG coupling) (NNS arguments)) (CC and) (NP (DT the) (NN interpolation) (NN method))) (PP (IN from) (NP (JJ mathematical) (NNS physics))))))) (. .))

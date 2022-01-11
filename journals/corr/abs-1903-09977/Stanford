@@ -1,3 +1,0 @@
-(S (NP (EX There)) (VP (VBP are) (NP (NP (DT some) (NNS inadequacies)) (PP (IN in) (NP (NP (DT the) (NN language) (NN description)) (PP (IN of) (NP (NP (DT this) (NN paper)) (SBAR (WHNP (WDT that)) (S (VP (VBP require) (NP (JJ further) (NN improvement))))))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN revision)) (PP (IN of) (NP (DT a) (NN conference) (NN paper))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB now)) (ADJP (JJ necessary) (S (VP (TO to) (ADVP (RB further)) (VP (VB explain) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (DT the) (NNS contributions)) (PP (IN of) (NP (DT the) (CD two) (NNS papers))))))))))) (. .))

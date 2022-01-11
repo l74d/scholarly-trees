@@ -1,6 +1,0 @@
-(S (NP (EX There)) (VP (VBZ has) (VP (VBN been) (NP (NP (NP (JJ significant) (NN progress)) (PP (IN on) (NP (NN pose) (NN estimation)))) (CC and) (NP (NP (VBG increasing) (NNS interests)) (PP (IN on) (NP (NN pose) (NN tracking))) (PP (IN in) (NP (JJ recent) (NNS years))))))) (. .))
-(S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (NP (DT the) (JJ overall) (NN algorithm)) (CC and) (NP (NN system) (NN complexity))) (VP (VBZ increases) (ADVP (RB as) (RB well)) (, ,) (S (VP (VBG making) (NP (NP (DT the) (NN algorithm) (NN analysis) (CC and) (NN comparison)) (ADJP (RBR more) (JJ difficult)))))) (. .))
-(S (NP (DT This) (NN work)) (VP (VBZ provides) (NP (ADJP (JJ simple) (CC and) (JJ effective)) (NN baseline) (NNS methods))) (. .))
-(S (NP (PRP They)) (VP (VBP are) (ADJP (JJ helpful) (PP (IN for) (S (VP (VBG inspiring) (CC and) (VBG evaluating) (NP (JJ new) (NNS ideas)) (PP (IN for) (NP (DT the) (NN field)))))))) (. .))
-(S (NP (NML (NML (NN State)) (HYPH -) (PP (IN of) (HYPH -) (NP (DT the) (HYPH -) (NN art)))) (NNS results)) (VP (VBP are) (VP (VBN achieved) (PP (IN on) (NP (JJ challenging) (NNS benchmarks))))) (. .))
-(S (NP (DT The) (NN code)) (VP (MD will) (VP (VB be) (ADJP (JJ available) (PP (IN at) (NP (NP (DT this)) (SBAR (S (VP (VBZ https) (NP (NN URL)))))))))))

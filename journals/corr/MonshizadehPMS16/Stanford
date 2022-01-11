@@ -1,6 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NP (DT an) (JJ improved) (NN swing) (NN equation) (NN model)) (PP (IN for) (NP (JJ synchronous) (NNS generators))))))) (. .))
-(S (NP (DT This) (NN model)) (VP (VP (VBZ is) (VP (VBN derived) (PP (IN by) (S (VP (VBG omitting) (NP (DT the) (JJ main)) (S (VP (VBG simplifying) (NP (NP (NN assumption)) (PP (IN of) (NP (DT the) (JJ conventional) (NN swing) (NN equation))))))))))) (, ,) (CC and) (VP (VBZ requires) (NP (NP (DT a) (JJ novel) (NN analysis)) (PP (IN for) (NP (DT the) (NML (NN stability) (CC and) (NN frequency)) (NN regulation)))))) (. .))
-(S (NP (PRP We)) (VP (VBP consider) (NP (CD two) (NNS scenarios))) (. .))
-(S (ADVP (RB First)) (NP (PRP we)) (VP (VBP study) (NP (DT the) (NN case)) (SBAR (IN that) (S (NP (DT a) (JJ synchronous) (NN generator)) (VP (VBZ is) (VP (VBN connected) (PP (IN to) (NP (DT a) (JJ constant) (NN load)))))))) (. .))
-(S (ADVP (RB Second)) (, ,) (NP (PRP we)) (VP (VBP inspect) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (DT the) (JJ single) (NN machine)) (VP (VBN connected) (PP (IN to) (NP (DT an) (JJ infinite) (NN bus)))))))) (. .))
-(S (NP (NNS Simulations)) (VP (VBP verify) (NP (DT the) (NNS results))) (. .))

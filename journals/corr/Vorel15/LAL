@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (JJ open) (NNS questions)) (PP (IN about) (NP (JJ basic) (NN closure) (NNS properties)))) (VP (VBP are) (VP (VBN solved))) (. .))
-(S (PP (IN Besides) (NP (DT this))) (, ,) (NP (PRP we)) (VP (VBP correct) (NP (NP (JJ erroneous) (NNS results)) (VP (VBN presented) (PP (IN in) (NP (DT the) (NN article)))))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP point) (PRT (RP out)) (NP (NP (JJ important) (NNS relations)) (PP (IN between) (NP (NP (VBG jumping) (JJ finite) (NNS automata)) (CC and) (NP (NP (DT some) (JJ other) (NNS models)) (VP (VBN studied) (PP (IN in) (NP (DT the) (NN literature))))))))) (. .))

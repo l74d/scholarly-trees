@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NP (JJ binding-time) (NN analysis)) (PP (IN for) (NP (JJ logic) (NNS programs))))))) (. .))
-(S (NP (PRP We)) (VP (VBP formalise) (NP (NP (DT the) (JJ unfolding) (NN aspect)) (PP (IN of) (NP (DT an) (JJ on-line) (JJ partial) (NN deduction) (NN system)))) (PP (IN as) (NP (DT a) (NNP Prolog) (NN program)))) (. .))
-(S (S (VP (VBG Using) (NP (JJ abstract) (NN interpretation)))) (, ,) (NP (PRP we)) (VP (VBP collect) (NP (NP (NN information)) (PP (IN about) (NP (NP (DT the) (JJ run-time) (NN behaviour)) (PP (IN of) (NP (DT the) (NN program))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT this) (NN information)) (S (VP (VP (TO to) (VP (VB make) (NP (NP (DT the) (NN control) (NNS decisions)) (PP (IN about) (NP (DT the) (NN unfolding)))) (PP (IN at) (NP (NN analysis) (NN time))))) (CC and) (VP (TO to) (VP (VB turn) (NP (DT the) (JJ on-line) (NN system)) (PP (IN into) (NP (DT an) (JJ off-line) (NN system)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP report) (PP (IN on) (NP (DT some) (JJ initial) (NNS experiments)))) (. .))

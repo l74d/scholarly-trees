@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT every) (NN planar) (, ,) (JJ 4-connected) (, ,) (ADJP (NNP K2) (: ;) (JJ 5-minor-) (JJ free)) (NN graph)) (VP (VBZ is) (NP (NP (DT the) (NN square)) (PP (IN of) (NP (NP (DT a) (NN cycle)) (PP (IN of) (NP (NP (RB even) (JJR length)) (NP (IN at) (JJS least) (CD six))))))))))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (NN problem)) (PP (IN of) (S (VP (VBG computing) (NP (NP (DT the) (JJ minimum) (NN area) (NN triangle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ circumscribes) (NP (NP (DT a) (VBN given) (NML (NML ($ $)) (NN n)) (NML (NML ($ $)) (HYPH -) (NML (ADJP (JJ sided)) (NN convex))) (NN polygon)) (NP (JJ touching) (NML (NML (NN edge)) (HYPH -) (PP (IN to) (HYPH -) (NP (NN edge))))))))))))))) (. .))
-(S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (PRP we)) (VP (VBP compute) (NP (NP (DT the) (JJ minimum) (NN area) (NN triangle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (DT the) (NN intersection)) (PP (IN of) (NP (NP (CD 3) (NN half) (HYPH -) (NNS planes)) (VP (ADVP (IN out) (PP (IN of) (NP (NML (NML (NML ($ $)) (NN n)) (NML ($ $) (CD half) (HYPH -))) (NNS planes)))) (VBN defined) (PP (IN by) (NP (DT a) (VBN given) (NN convex) (NN polygon)))))))))))) (. .))
-(ADVP (FW al.) (. .))
-(NP (NP (NN DCG94)) (: ;) (NP (NNP B.) (NNP Schieber)) (. .))
-(S (VP (NN SODA95)) (-RRB- }) (. .))
-(S (NP (PRP$ Our) (NN algorithm)) (VP (VBZ computes) (S (NP (PDT all) (DT the) (ADJP (RB locally) (JJ minimal)) (NN area)) (VP (VBG circumscribing) (NP (NNS triangles)) (S (VP (VBG touching) (NP (NP (NN edge)) (HYPH -) (PP (IN to) (HYPH -) (NP (NN edge))))))))) (. .))

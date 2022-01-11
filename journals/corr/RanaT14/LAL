@@ -1,7 +1,0 @@
-(S (PP (IN With) (NP (NP (DT the) (NN advancement)) (PP (IN of) (NP (NN communication) (NN technology))))) (, ,) (NP (NNS data)) (VP (VBZ is) (VP (VBN exchanged) (ADVP (RB digitally)) (PP (IN over) (NP (DT the) (NN network))))) (. .))
-(S (PP (IN At) (NP (DT the) (JJ other) (NN side))) (NP (DT the) (NN technology)) (VP (VBZ is) (ADVP (RB also)) (VP (RB proven) (PP (IN as) (NP (NP (DT a) (NN tool)) (PP (IN for) (NP (NP (JJ unauthorized) (NN access)) (PP (TO to) (NP (NNS attackers))))))))) (. .))
-(S (ADVP (RB Thus)) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (NP (NNS data)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN transmitted) (ADVP (RB digitally)))))))))) (VP (MD should) (VP (VB get) (NP (JJ prime) (NN focus)))) (. .))
-(S (NP (NNP Data) (NN hiding)) (VP (VBZ is) (NP (NP (DT the) (JJ common) (NN approach)) (SBAR (S (VP (TO to) (VP (VB secure) (NP (NNS data)))))))) (. .))
-(S (PP (IN In) (NP (NN steganography) (NN technique))) (, ,) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NNS data)))) (VP (VBZ is) (VP (VBN concealed))) (. .))
-(S (NP (NNP GA)) (VP (VBZ is) (NP (NP (DT an) (VBG emerging) (NN component)) (PP (IN of) (NP (NNP AI))) (SBAR (S (VP (TO to) (VP (VB provide) (NP (JJ suboptimal) (NNS solutions)))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNP GA))) (PP (IN in) (NP (NNP Steganography)))) (VP (VBZ is) (VP (VBN explored) (S (VP (TO to) (VP (VB find) (NP (NP (JJ future) (NN scope)) (PP (IN of) (NP (NN research))))))))) (. .))

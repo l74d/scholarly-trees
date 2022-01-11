@@ -1,4 +1,0 @@
-(S (NP (NNP Raga)) (VP (VBZ is) (NP (NP (DT the) (JJ central) (JJ melodic) (NN concept)) (PP (IN in) (NP (NNP Hindustani) (NNP Classical) (NNP Music))))) (. .))
-(S (NP (PRP It)) (VP (VBZ has) (NP (NP (DT a) (JJ complex) (NN structure)) (, ,) (VP (ADVP (RB often)) (VBN characterized) (PP (IN by) (NP (NN pathos)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP describe) (NP (NP (DT a) (NN technique)) (PP (IN for) (NP (NNP Automatic) (NNP Raga) (NNP Recognition))) (, ,) (VP (VBN based) (PP (IN on) (NP (NN pitch) (NNS distributions)))))) (. .))
-(S (NP (PRP We)) (VP (VBP are) (ADJP (JJ able) (S (VP (TO to) (VP (ADVP (RB successfully)) (VB classify) (NP (NN ragas)) (PP (IN with) (NP (DT a) (JJ commendable) (NN accuracy))) (PP (IN on) (NP (PRP$ our) (NN test) (NN dataset)))))))) (. .))

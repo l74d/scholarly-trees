@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN report)) (VP (VBZ provides) (NP (DT an) (NN introduction)) (PP (IN to) (NP (NP (DT some) (NN Machine) (NN Learning) (NNS tools)) (PP (IN within) (NP (DT the) (ADJP (RBS most) (JJ common)) (NN development) (NNS environments)))))) (. .))
-(S (NP (PRP It)) (ADVP (RB mainly)) (VP (VBZ focuses) (PP (IN on) (NP (JJ practical) (NNS problems))) (, ,) (S (VP (VBG skipping) (NP (DT any) (JJ theoretical) (NN introduction))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (VBN oriented) (PP (IN to) (NP (NP (DT both) (NNS students)) (VP (VBG trying) (S (VP (TO to) (VP (VB approach) (NP (NP (NN Machine) (NN Learning) (CC and) (NNS experts)) (VP (VBG looking) (PP (IN for) (NP (JJ new) (NNS frameworks))))))))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ reveals) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (DT an) (NN analysis)) (PP (IN of) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (NP (JJ developed) (NN software)) (PP (IN for) (NP (NP (JJ automatic) (NN lemmatization)) (PP (IN for) (NP (DT the) (JJ Bulgarian) (NN language))))))))))))) (. .))
-(S (NP (DT This) (NN lemmatization) (NN software)) (VP (VP (VBZ is) (VP (VBN written) (ADVP (RB entirely)) (PP (IN in) (NP (NNP Java))))) (CC and) (VP (VBZ is) (VP (VBN distributed) (PP (IN as) (NP (DT a) (NNP GATE) (NN plugin)))))) (. .))
-(S (NP (NNP Certain) (JJ statistical) (NNS methods)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB define) (NP (NP (DT the) (NN accuracy)) (PP (IN of) (NP (DT this) (NN software))))))))) (. .))
-(S (NP (NP (DT The) (NNS results)) (PP (IN of) (NP (DT the) (NN analysis)))) (VP (VBP show) (NP (ADJP (CD 95) (NN %)) (NN lemmatization) (NN accuracy))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (PRP$ Our) (JJ major) (NNS contributions)) (VP (VBP are) (ADJP (JJ two-fold))) (. .))
-(S (ADVP (RB Second)) (, ,) (NP (PRP$ our) (NN model)) (VP (VBZ is) (NP (DT the) (JJ first) (NN attempt) (S (VP (TO to) (VP (VB leverage) (NP (NN memory) (NNS networks)) (PP (IN for) (NP (NML (NN video) (NN summarization)) (NNS tasks)))))))) (. .))
-(S (PP (IN For) (NP (NN evaluation))) (, ,) (NP (PRP we)) (VP (VBP perform) (NP (NP (CD three) (NNS sets)) (PP (IN of) (NP (NNS experiments))))) (. .))
-(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (NN view) (NN selection) (NN capability)) (PP (IN of) (NP (PRP$ our) (NN model)))) (PP (IN on) (NP (DT the) (NN Pano2Vid) (NN dataset)))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (PRP we)) (VP (VBP experiment) (NP (NP (NP (PRP$ our) (NN model) (POS 's)) (NN performance)) (PP (IN in) (NP (DT another) (NN domain)))) (, ,) (PP (IN with) (NP (ADJP (NP (NN image)) (HYPH -) (VBN based)) (NN storytelling) (NN VIST) (NN dataset)))) (. .))
-(S (NP (PRP We)) (VP (VBP verify) (SBAR (IN that) (S (NP (PRP$ our) (NN model)) (VP (VBZ achieves) (NP (ADJP (NN state) (HYPH -) (IN of) (HYPH -) (DT the) (HYPH -) (NN art)) (NN performance)) (PP (IN on) (NP (PDT all) (DT the) (NNS tasks))))))) (. .))

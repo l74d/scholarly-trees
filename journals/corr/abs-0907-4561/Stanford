@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN report)) (VP (VBZ gives) (NP (NP (DT an) (NN overview)) (PP (IN about) (NP (NP (NNS activities)) (PP (IN on) (NP (DT the) (NN topic)))))) (NP (JJ Semantic) (NN Web))) (. .))
-(S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (VP (VBN released) (PP (IN as) (NP (NP (JJ technical) (NN report)) (PP (IN for) (NP (DT the) (NN project))))) (NP (`` ") (NP (NNP KTweb)) (: --) (VP (VBG Connecting) (NP (NP (NML (NNP Knowledge) (NNPS Technologies)) (NNPS Communities)) ('' ") (PP (IN in) (NP (CD 2003))))))))) (. .))

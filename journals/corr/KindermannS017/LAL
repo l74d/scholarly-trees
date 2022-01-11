@@ -1,2 +1,0 @@
-(S (NP (DT A) (NN path) (NN cover)) (VP (VBZ is) (NP (NP (DT a) (NN decomposition)) (PP (IN of) (NP (NP (DT the) (NNS edges)) (PP (IN of) (NP (DT a) (NN graph))))) (PP (IN into) (NP (JJ edge-disjoint) (JJ simple) (NNS paths))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (NP (NNP Gallai) (POS 's)) (NN conjecture)) (PP (IN for) (NP (JJ series-parallel) (NN graphs))))) (. .))

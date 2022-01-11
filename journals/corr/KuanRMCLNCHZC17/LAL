@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ deep) (NN learning) (NN framework)) (PP (IN for) (NP (JJ computer-aided) (NN lung) (NN cancer) (NN diagnosis))))) (. .))
-(S (NP (PRP$ Our) (NN multi-stage) (NN framework)) (VP (VP (NNS detects) (NP (NNS nodules)) (PP (IN in) (NP (CD 3D) (NN lung) (NNP CAT) (NNS scans)))) (, ,) (VP (NNS determines) (SBAR (IN if) (S (NP (DT each) (NN nodule)) (VP (VBZ is) (ADJP (JJ malignant)))))) (, ,) (CC and) (VP (ADVP (RB finally)) (VB assigns) (NP (NP (DT a) (NN cancer) (NN probability)) (VP (VBN based) (PP (IN on) (NP (DT these) (NNS results))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (DT the) (NNS challenges) (CC and) (NNS advantages)) (PP (IN of) (NP (PRP$ our) (NN framework))))) (. .))
-(S (PP (IN In) (NP (DT the) (NNP Kaggle) (NNP Data) (NNP Science) (NNP Bowl) (CD 2017))) (, ,) (NP (PRP$ our) (NN framework)) (VP (VBD ranked) (ADVP (CD 41st)) (PP (IN out) (PP (IN of) (NP (CD 1972) (NNS teams))))) (. .))

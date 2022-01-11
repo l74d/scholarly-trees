@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (JJ statistical) (NN learning))) (, ,) (NP (NP (NNS algorithms)) (PP (IN for) (NP (NN model) (NN selection)))) (VP (VBP allow) (NP (DT the) (NN learner)) (S (VP (TO to) (VP (VB adapt) (PP (IN to) (NP (NP (DT the) (NN complexity)) (PP (IN of) (NP (NP (DT the) (JJS best) (NN hypothesis) (NN class)) (PP (IN in) (NP (DT a) (NN sequence))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP ask) (SBAR (IN whether) (S (NP (JJ similar) (NNS guarantees)) (VP (VBP are) (ADJP (JJ possible) (PP (IN for) (NP (JJ contextual) (NN bandit) (NN learning)))))))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (DT The) (NN dissertation)) (VP (VBZ provides) (NP (NP (DT a) (JJ comparative) (NN analysis)) (PP (IN of) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN variability) (NNS tools)))))) (PP (ADVP (RB currently)) (IN in) (NP (NN use)))) (. .))
-(S (NP (PRP It)) (VP (VBZ serves) (PP (IN as) (NP (NP (DT a) (NN catalogue)) (PP (IN for) (NP (NP (NNS practitioners)) (ADJP (JJ interested) (PP (IN in) (NP (DT the) (NN topic))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP compare) (NP (NP (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NN modelling)))) (, ,) (VP (VBG configuring))) (, ,) (CC and) (NP (NP (NN management) (NNS tools)) (PP (IN for) (NP (NML (NN product) (NN line)) (NN engineering)))))) (. .))
-(S (NP (NP (DT The) (NNS tools)) (VP (VBN surveyed))) (VP (VBP are) (PP (VBN compared) (PP (IN against) (NP (NP (DT the) (VBG following) (NNS criteria)) (: :) (NP (NP (JJ functional) (, ,) (JJ non-functional)) (, ,) (NP (NN governance) (NNS issues)) (CC and) (NP (JJ Technical) (NNS aspects))))))) (. .))
-(S (NP (NP (DT The) (NN outcome)) (PP (IN of) (NP (DT the) (NN analysis)))) (VP (VBZ is) (VP (VBN provided) (PP (IN in) (NP (JJ tabular) (NN format))))) (. .))

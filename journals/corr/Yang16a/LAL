@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN capacity) (NN region)) (PP (IN of) (NP (DT a) (JJ multiple) (NN access) (NN channel)))) (VP (VBZ is) (VP (VBN discussed))) (. .))
-(S (NP (PRP It)) (VP (VBD was) (VP (VBN found) (SBAR (IN that) (S (NP (NP (JJ orthogonal) (JJ multiple) (NN access)) (CC and) (NP (ADJP (JJ non) (JJ orthogonal)) (JJ multiple) (NN access))) (VP (VBP have) (NP (DT the) (JJ same) (NN capacity) (NN region)) (PP (IN under) (NP (NP (DT the) (NN constraint)) (PP (IN of) (NP (JJ same) (JJ sum) (NN power)))))))))) (. .))

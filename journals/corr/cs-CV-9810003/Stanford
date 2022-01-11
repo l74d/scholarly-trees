@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (DT a) (JJ multiscale) (NN decomposition) (NN algorithm))) (. .))
-(S (PP (IN Unlike) (NP (NP (JJ standard) (NN wavelet)) (SBAR (S (VP (VBZ transforms)))))) (, ,) (NP (DT the) (VBN proposed) (NN operator)) (VP (VP (VBZ is) (ADJP (DT both) (JJ linear))) (CC and) (VP (VB shift) (ADJP (JJ invariant)))) (. .))
-(S (NP (DT The) (JJ central) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB obtain) (NP (NN shift) (NN invariance)) (PP (IN by) (S (VP (VBG averaging) (S (NP (DT the) (VBN aligned) (NN wavelet)) (VP (VB transform) (NP (NNS projections)) (PP (IN over) (NP (NP (DT all) (JJ circular) (NNS shifts)) (PP (IN of) (NP (DT the) (NN signal)))))))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN shown) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ same)) (VP (VB transform) (SBAR (S (VP (MD can) (VP (VB be) (VP (VBN obtained) (PP (IN by) (NP (DT a) (NML (JJ linear) (NN filter)) (NN bank))))))))))))) (. .))

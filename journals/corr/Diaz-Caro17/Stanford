@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NP (CD two) (NNS flavors)) (PP (IN of) (NP (DT a) (NN quantum) (NN extension)))) (PP (IN to) (NP (DT the) (NN lambda) (NN calculus)))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT an) (NN interpretation)) (PP (IN for) (NP (NP (NNS programs)) (PP (IN as) (NP (NN density) (NNS matrices) (CC and) (NNS functions)))))) (PP (IN upon) (NP (PRP them)))) (. .))
-(S (NP (PDT Such) (DT a) (NN control)) (VP (MD can) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT a) (JJR weaker) (NN form)) (PP (IN of) (NP (DT the) (NN quantum) (NML (NN control) (CC and) (NNS data)) (NN approach)))))))) (. .))

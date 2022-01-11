@@ -1,4 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (NN scheme)) (PP (IN of) (NP (JJ probabilistic) (JJ subgroup-related) (NN encryption)))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (NP (DT Some) (NNS applications)) (PP (IN of) (NP (DT this) (NN scheme))) (VP (VBN based) (PP (IN on) (NP (DT the) (NNP RSA) (, ,) (NNP Diffie-Hellman) (CC and) (NNP ElGamal) (NN encryption) (NNS algorithms))))) (VP (VBP are) (VP (VBN described))) (. .))
-(S (NP (NP (NN Security) (NNS assumptions)) (CC and) (NP (NP (JJ main) (NNS advantages)) (PP (IN of) (NP (DT this) (NN scheme))))) (VP (VBP are) (VP (VBN discussed))) (. .))
-(S (NP (PRP We)) (VP (VBP outline) (SBAR (IN that) (S (NP (DT this) (NN scheme)) (VP (VBZ is) (ADJP (RB potentially) (RB semantically) (JJ secure)) (PP (IN under) (NP (JJ reasonable) (JJ cryptographic) (NNS assumptions))))))) (. .))

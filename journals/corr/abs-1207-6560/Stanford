@@ -1,3 +1,0 @@
-(S (NP (ADJP (NNP Covering) (HYPH -) (VBN based)) (JJ rough) (NN set) (NN theory)) (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN to) (NP (JJ classical) (JJ rough) (NN set))))) (. .))
-(S (NP (NP (DT The) (JJ main) (NN purpose)) (PP (IN of) (NP (DT this) (NN paper)))) (VP (VBZ is) (S (VP (TO to) (VP (VB study) (S (VP (VBG covering) (NP (JJ rough) (NNS sets)) (PP (IN from) (NP (NP (DT a) (JJ topological) (NN point)) (PP (IN of) (NP (NN view))))))))))) (. .))
-(S (NP (NP (DT The) (NN relationship)) (PP (IN among) (NP (NP (JJ upper) (NNS approximations)) (PP (VBN based) (PP (IN on) (NP (JJ topological) (NNS spaces))))))) (VP (VBP are) (VP (VBN explored))) (. .))

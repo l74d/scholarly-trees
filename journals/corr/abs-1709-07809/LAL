@@ -1,4 +1,0 @@
-(NP (NP (NN Draft)) (PP (IN of) (NP (NP (NN textbook) (NN chapter)) (PP (IN on) (NP (JJ neural) (NN machine) (NN translation))))) (. .))
-(NP (NP (DT a) (JJ comprehensive) (NN treatment)) (PP (IN of) (NP (DT the) (NN topic))) (, ,) (VP (VBG ranging) (PP (IN from) (NP (NP (NN introduction)) (PP (TO to) (NP (NP (JJ neural) (NNS networks)) (, ,) (NP (NN computation) (NN graphs)) (, ,) (NP (NP (NN description)) (PP (IN of) (NP (DT the) (ADJP (RB currently) (JJ dominant)) (JJ attentional) (NN sequence-to-sequence) (NN model)))) (, ,) (NP (JJ recent) (NNS refinements)) (, ,) (NP (JJ alternative) (NNS architectures)) (CC and) (NP (NNS challenges))))))) (. .))
-(S (VP (NNP Written) (PP (IN as) (NP (NP (NN chapter)) (PP (IN for) (NP (DT the) (NN textbook) (NNP Statistical) (NNP Machine) (NNP Translation)))))) (. .))
-(S (VP (VBN Used) (PP (IN in) (NP (NP (DT the) (NNP JHU) (NNP Fall) (CD 2017) (NN class)) (PP (IN on) (NP (NN machine) (NN translation)))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (JJ Useless) (NNS paths)) (VP (VBP are) (NP (NP (DT a) (JJ chronic) (NN problem)) (PP (IN for) (NP (ADJP (NN marker) (HYPH -) (VBG passing)) (NNS techniques))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (ADJP (JJ probabilistic)) (NN analysis)) (S (VP (TO to) (VP (VB justify) (NP (DT a) (NN method)) (PP (IN for) (S (ADVP (RB quickly)) (VP (VBG identifying) (CC and) (VBG rejecting) (NP (JJ useless) (NNS paths))))))))) (. .))
-(S (S (VP (VBG Using) (NP (DT the) (JJ same) (NN analysis)))) (, ,) (NP (PRP we)) (VP (VBP identify) (S (NP (JJ key) (NNS conditions) (CC and) (NNS assumptions)) (ADJP (JJ necessary) (PP (IN for) (NP (NN marker) (HYPH -) (VBG passing))))) (S (VP (TO to) (VP (VB perform) (ADVP (RB well)))))) (. .))

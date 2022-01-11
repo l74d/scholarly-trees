@@ -1,6 +1,0 @@
-(S (NP (JJ Top-down) (NN parsing)) (VP (VBZ has) (VP (VBN received) (NP (JJ much) (NN attention)) (ADVP (RB recently)))) (. .))
-(S (NP (NP (VBG Parsing) (NN expression) (NNS grammars)) (PRN (-LRB- -LRB-) (NP (NNP PEG)) (-RRB- -RRB-))) (VP (VBZ allows) (NP (NP (NN construction)) (PP (IN of) (NP (JJ linear) (NN time) (NNS parsers)))) (S (VP (VBG using) (NP (NN packrat) (NN algorithm))))) (. .))
-(S (NP (DT These) (NNS techniques)) (ADVP (RB however)) (VP (VBP suffer) (PP (IN from) (NP (NP (NN problem)) (PP (IN of) (NP (NN prefix) (NN hiding)))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (NP (JJ alternative) (NN formalism)) (PP (IN of) (NP (JJ relativized) (JJ regular) (NNS expressions) (NNP REGREG))) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (JJ top-down) (NN backtracking) (NN parser)) (VP (VBZ runs) (PP (IN in) (NP (JJ linear) (NN time)))))))) (. .))
-(S (NP (DT This) (NN formalism)) (VP (VBZ allows) (S (VP (TO to) (VP (VB construct) (NP (NP (JJ fast) (NNS parsers)) (PP (IN with) (NP (NP (JJ modest) (NN memory) (NNS requirements)) (PP (IN for) (NP (JJ practical) (NNS grammars)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP$ our) (NN formalism)) (VP (VBZ is) (ADJP (JJ equivalent) (PP (TO to) (NP (NNP PEG)))))))) (. .))

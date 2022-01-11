@@ -1,5 +1,0 @@
-(S (NP (NN Shock) (NN physics) (NNS experiments)) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ complicated) (CC and) (JJ expensive))) (. .))
-(S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NNS researchers)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB conduct) (NP (ADJP (RB as) (JJ many)) (NNS experiments)) (SBAR (IN as) (S (NP (PRP they)) (VP (MD would) (VP (VB like) (HYPH -) (VBG leading))))))))) (PP (IN to) (NP (JJ sparse) (NNS data) (NNS sets)))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (NN Support)) (SBAR (S (NP (NP (NNP Vector) (NNPS Machines)) (PP (IN for) (NP (NN regression)))) (VP (VBP are) (VP (VBN applied) (PP (IN to) (NP (NN velocimetry) (NNS data)))))))) (VP (VBZ sets) (PP (IN for) (NP (ADJP (ADJP (NN shock) (VBN damaged)) (CC and) (ADJP (VBN melted))) (NML (JJ tin) (NN metal))))) (. .))
-(S (NP (NP (DT Some) (NN success)) (PP (IN at) (S (VP (VBG interpolating) (PP (IN between) (NP (NNS data) (NNS sets))))))) (VP (VBZ is) (VP (VBN achieved))) (. .))
-(S (NP (NP (NNS Implications)) (PP (IN for) (NP (JJ future) (NN work)))) (VP (VBP are) (VP (VBN discussed))) (. .))

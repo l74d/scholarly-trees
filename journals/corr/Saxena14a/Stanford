@@ -1,2 +1,0 @@
-(S (NP (NNP Linear) (NNP Programming)) (VP (VBZ is) (ADVP (RB now)) (VP (VBN included) (PP (IN in) (NP (NP (NN Algorithm) (NN undergraduate)) (CC and) (NP (NN postgraduate) (NNS courses)))) (PP (IN for) (NP (NML (NNP Computer) (NNP Science)) (NNS majors))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ possible) (S (VP (TO to) (VP (VB teach) (NP (NML (JJ interior) (HYPH -) (NN point)) (NNS methods)) (ADVP (RB directly)) (PP (IN with) (NP (NP (RB just) (JJ minimal) (NN knowledge)) (PP (IN of) (NP (NNP Algebra) (CC and) (NNPS Matrices)))))))))) (. .))

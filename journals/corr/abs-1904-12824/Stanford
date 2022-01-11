@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP design) (S (NP (NP (DT a) (ADJP (CD two) (HYPH -) (JJ dimensional)) (NN signal) (NN constellation)) (PP (VBN based) (PP (IN on) (NP (DT the) (JJ exact) (JJ periodic) (NN inverse) (JJ nonlinear) (NN Fourier))))) (VP (VB transform)))) (. .))
-(S (NP (NP (NN Feasibility)) (PP (IN of) (NP (NP (JJ continuous) (NN transmission)) (PP (IN with) (NP (JJ periodic) (NNS signals)))))) (VP (VBZ is) (ADVP (RB experimentally)) (VP (VBN demonstrated) (PP (IN over) (NP (QP (JJR more) (IN than) (CD 2000)) (NN km))))) (. .))

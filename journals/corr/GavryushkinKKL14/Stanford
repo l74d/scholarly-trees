@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (JJ dynamic) (NNS algorithms)) (PP (IN for) (NP (DT the) (NML (NN interval) (NN scheduling)) (NN problem))))) (. .))
-(S (NP (PRP We)) (VP (VBP compare) (NP (NP (DT the) (CD two) (NNS algorithms)) (PP (IN for) (NP (NP (DT the) (JJ monotonic) (NN interval) (NNS sets)) (VP (VBG using) (NP (NNS experiments))))))) (. .))

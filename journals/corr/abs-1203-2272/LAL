@@ -1,4 +1,0 @@
-(NP (NP (NN System)) (PP (IN on) (NP (JJ programmable) (NN chip))) (PP (IN for) (NP (NP (DT the) (NN performance) (NN estimation)) (PP (IN of) (NP (NP (NN loom) (NN machine)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ calculates) (NP (NP (DT the) (NX (NX (NN efficiency)) (CC and) (NX (NN meter) (NN count)))) (PP (IN for) (NP (JJ weaved) (DT cloth)))) (ADVP (RB automatically))))))))) (. .))
-(S (ADVP (RB Also)) (NP (PRP it)) (VP (VBZ calculates) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (NN loom) (NN machine))))) (. .))
-(S (ADVP (RB Previously)) (NP (DT the) (JJ same)) (VP (VBD was) (VP (VBN done) (S (VP (VBG using) (NP (NP (JJ manual) (NN process)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (RB not) (ADJP (JJ efficient)))))))))) (. .))
-(S (NP (DT This) (NN article)) (VP (VBZ is) (VP (VBN intended) (PP (IN for) (NP (NP (NN loom) (NNS machines)) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (RB not) (ADJP (JJ modern))))))))) (. .))

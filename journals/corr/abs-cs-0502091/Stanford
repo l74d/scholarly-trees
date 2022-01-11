@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP describe)) (CC and) (VP (VB implement) (NP (DT a) (NN policy) (NN language)))) (. .))
-(S (PP (IN In) (NP (PRP$ our) (NN system))) (, ,) (NP (NNS agents)) (VP (MD can) (VP (VB distribute) (NP (NNS data)) (PP (IN along) (PP (IN with) (NP (NP (NN usage) (NNS policies)) (PP (IN in) (NP (DT a) (JJ decentralized) (NN architecture)))))))) (. .))
-(S (NP (PRP$ Our) (NN language)) (VP (VBZ supports) (NP (NP (NP (DT the) (NN specification)) (PP (IN of) (NP (NNS conditions) (CC and) (NNS obligations)))) (, ,) (CC and) (ADVP (RB also)) (NP (DT the) (NN possibility) (S (VP (TO to) (VP (VB refine) (NP (NNS policies)))))))) (. .))
-(S (PP (IN In) (NP (PRP$ our) (NN framework))) (, ,) (NP (NP (DT the) (NN compliance)) (PP (IN with) (NP (NN usage) (NNS policies)))) (VP (VBZ is) (RB not) (ADVP (RB actively)) (VP (VBN enforced))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (NNS agents)) (VP (VP (VBP are) (ADJP (JJ accountable) (PP (IN for) (NP (PRP$ their) (NNS actions))))) (, ,) (CC and) (VP (MD may) (VP (VB be) (VP (VBN audited) (PP (IN by) (NP (NP (DT an) (NN authority)) (VP (VBG requiring) (NP (NNS justifications))))))))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (NN quality)) (PP (IN of) (NP (NP (ADJP (NN service) (JJ aware)) (NN routing) (NN protocol)) (SBAR (WHNP (WDT which)) (S (VP (VBZ provides) (NP (NP (JJ low) (NN latency)) (PP (IN for) (NP (NML (JJ high) (NN priority)) (NNS packets))))))))))) (. .))
-(S (NP (NNS Packets)) (VP (VBP are) (VP (VBN differentiated) (PP (VBN based) (PP (IN on) (NP (PRP$ their) (NN priority)))) (PP (IN by) (S (VP (VBG applying) (NP (VBG queuing) (NN theory))))))) (. .))
-(S (NP (NML (JJ Low) (NN priority)) (NNS packets)) (VP (VBP are) (VP (VBN transferred) (PP (IN through) (NP (JJR less) (NN energy) (NNS paths))))) (. .))
-(S (NP (DT The) (NN sensor) (NNS nodes)) (VP (VBP interact) (PP (IN with) (NP (NP (DT the) (NN pivot) (NNS nodes)) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (NN turn))) (VP (VBP communicate) (PP (IN with) (NP (DT the) (NN sink) (NN node))))))))) (. .))
-(S (NP (DT This) (NN protocol)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (IN in) (S (VP (VBG monitoring) (NP (NN context) (ADJP (JJ aware) (JJ physical)) (NNS environments)) (PP (IN for) (NP (JJ critical) (NNS applications))))))))) (. .))

@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NN constraint)) (PP (IN of) (NP (NN difference)))) (VP (VBZ is) (VP (VBN known) (PP (TO to) (NP (DT the) (NN constraint) (VBG programming) (NN community))) (SBAR (IN since) (S (NP (NNP Lauriere)) (VP (VBD introduced) (NP (NNP Alice)) (PP (IN in) (NP (CD 1978)))))))) (. .))
-(S (PP (IN Since) (NP (RB then))) (, ,) (NP (JJ several) (VBG solving) (NNS strategies)) (VP (VBP have) (VP (VBN been) (VP (VBN designed) (PP (IN for) (NP (DT this) (NN constraint)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP give) (NP (NP (DT both) (NP (DT a) (JJ practical) (NN overview)) (CC and) (NP (DT an) (JJ abstract) (NN comparison))) (PP (IN of) (NP (DT these) (JJ different) (NNS strategies))))) (. .))

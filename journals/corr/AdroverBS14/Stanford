@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (JJ descriptive) (NN analysis)) (PP (IN of) (NP (NNP Twitter) (NNS data))))) (. .))
-(S (NP (PRP$ Our) (NN study)) (VP (VBZ focuses) (PRT (RP on)) (S (VP (VBG extracting) (NP (NP (DT the) (JJ main) (NN side) (NNS effects)) (VP (VBN associated) (PP (IN with) (NP (NNP HIV) (NNS treatments)))))))) (. .))
-(S (NP (NP (DT The) (NN crux)) (PP (IN of) (NP (PRP$ our) (NN work)))) (VP (VBD was) (NP (NP (DT the) (NN identification)) (PP (IN of) (NP (NP (JJ personal) (NNS tweets)) (VP (VBG referring) (PP (IN to) (NP (NNP HIV)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP summarize) (NP (PRP$ our) (NNS results)) (PP (IN in) (NP (NP (DT an) (JJ infographic)) (VP (VBN aimed) (PP (IN at) (NP (DT the) (JJ general) (NN public))))))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NN user) (NN sentiment)))) (PP (VBN based) (PP (IN on) (NP (ADJP (NN hand) (HYPH -) (VBN rated)) (NNS tweets))))) (. .))

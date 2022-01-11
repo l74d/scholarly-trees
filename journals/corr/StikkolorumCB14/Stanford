@@ -1,8 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (PRP$ our) (NN gamification)) (PP (IN of) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (PRP$ our) (NML (NN software) (NN design)) (NN curriculum))))))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (JJ typical) (NN design) (NNS principles)))) (NP (DT a) (VBG motivating) (NML (NN learning) (NN game))) (VP (VBZ is) (VP (VBN developed) (S (VP (TO to) (VP (VB train) (NP (NNS students)) (PP (IN in) (NP (NN software) (NN design)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (NP (NNP Bloom) (POS 's)) (NN taxonomy) (S (VP (TO to) (VP (VB determine) (NP (NN learning) (NNS objectives))))))) (. .))
-(S (NP (PRP We)) (VP (VBP keep) (SBAR (S (NP (DT the) (NN player)) (VP (VBD engaged) (PP (IN with) (NP (JJ direct) (NN feedback))) (PP (IN in) (NP (NP (DT a) (JJ challenging) (NN level)) (VP (VBN based) (NP (NN game)) (PP (IN with) (NP (VBG increasing) (NN complexity)))))))))) (. .))
-(S (S (NP (NNS Players)) (VP (MD can) (VP (VB evaluate) (NP (PRP$ their) (NN design) (NNS actions)) (PP (IN with) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (NP (DT the) (NN visualisation)) (PP (IN of) (NP (NN control)))))))))) (CC and) (S (NP (NNS data)) (VP (VBZ flows))) (. .))
-(S (NP (NP (DT The) (JJ main) (NN learning) (NN objective)) (: :) (S (VP (VBG applying) (NP (NN design) (NNS principles)))) (, ,)) (VP (VBZ fits) (NP (NP (DT the) (NN game) (POS 's)) (JJ main) (NN activity))) (. .))
-(S (NP (DT This)) (VP (VBZ supports) (NP (DT the) (NN learning)) (PP (IN by) (S (VP (VBG doing) (NP (NP (NN approach)) (PP (IN of) (NP (NNS lecturers)))))))) (. .))
-(S (NP (DT A) (NN user) (NN test)) (VP (VBZ indicates) (NP (NP (JJ possible) (VBG learning) (NNS effects)) (CC and) (NP (DT a) (JJ playable) (NN game)))) (. .))

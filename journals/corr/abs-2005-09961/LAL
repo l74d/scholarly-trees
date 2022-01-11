@@ -1,5 +1,0 @@
-(S (NP (DT The) (NNP RNA) (NNP Inverse) (NNP Folding) (NN problem)) (VP (VBZ comes) (PP (IN from) (NP (JJ computational) (NN biology)))) (. .))
-(S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (NN molecule)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (DT a) (VBN given) (NN folding)))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ important) (PP (IN for) (NP (NP (JJ scientific) (NNS fields)) (PP (JJ such) (IN as) (NP (NP (NN bioengineering)) (, ,) (NP (JJ pharmaceutical) (NN research)) (, ,) (NP (NN biochemistry)) (, ,) (NP (JJ synthetic) (NN biology)) (CC and) (NP (NNP RNA) (NNS nanostructures)))))))) (. .))
-(S (NP (VBN Nested) (NNP Monte) (NNP Carlo) (NNP Search)) (VP (VBZ has) (VP (VBN given) (NP (JJ excellent) (NNS results)) (PP (IN for) (NP (DT this) (NN problem))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (S (VP (TO to) (VP (VB adapt) (CC and) (VB evaluate) (NP (JJ different) (NNP Monte) (NNP Carlo) (NNP Search) (NN algorithms)) (PP (IN for) (NP (DT the) (NNP RNA) (NNP Inverse) (NNP Folding) (NN problem))))))) (. .))

@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (JJ new) (NNS algorithms)) (PP (IN with) (NP (NP (NML (ADJP (RB significantly) (VBN improved)) (NN oracle)) (NN complexity)) (PP (IN for) (NP (CC both) (NP (DT the) (JJ full) (NN information)) (CC and) (NP (NP (NN bandit) (NNS variants)) (PP (IN of) (NP (DT the) (NN problem))))))))) (. .))

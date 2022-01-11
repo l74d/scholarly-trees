@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NP (DT the) (NN gradient) (NN estimate)) (PP (IN for) (NP (NP (JJ positive) (NNS solutions)) (PP (IN of) (NP (NNP Schrodinger) (NNS equations)))))) (PP (IN on) (NP (ADJP (RB locally) (JJ finite)) (NN graph)))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP derive) (NP (NP (NNP Harnack) (POS 's)) (NN inequality)) (PP (IN for) (NP (NP (JJ positive) (NNS solutions)) (PP (IN of) (NP (DT the) (NNP Schrodinger) (NNS equations)))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBD set) (PRT (RP up)) (NP (NP (DT some) (NNS results)) (PP (IN about) (NP (NP (NNP Green) (NNS functions)) (PP (IN of) (NP (DT the) (JJ Laplacian) (NN equation)))))) (PP (IN on) (NP (ADJP (RB locally) (JJ finite)) (NN graph)))) (. .))
-(S (NP (NP (JJ Interesting) (NNS properties)) (PP (IN of) (NP (NNP Schrodinger) (NN equation)))) (VP (VBP are) (VP (VBN derived))) (. .))

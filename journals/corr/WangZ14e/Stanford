@@ -1,3 +1,0 @@
-(S (NP (NP (NNP Quantum)) (NP (UCP (NML (JJ maximal) (HYPH -) (NN distance)) (HYPH -) (ADJP (JJ separable) (PRN (-LRB- -LRB-) (NP (NN MDS)) (-RRB- -RRB-)))) (NNS codes))) (VP (VBP form) (NP (NP (DT an) (JJ important) (NN class)) (PP (IN of) (NP (NN quantum) (NNS codes))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (RB very) (JJ hard)) (S (VP (TO to) (VP (VB construct) (NP (NN quantum) (NN MDS) (NNS codes)) (PP (IN with) (NP (ADJP (RB relatively) (JJ large)) (JJ minimum) (NN distance))))))) (. .))
-(S (NP (DT The) (NN quantum) (NN MDS) (NNS codes)) (VP (VBD exhibited) (ADVP (RB here)) (VP (VB have) (S (NP (NNS parameters)) (ADJP (JJR better))) (PP (IN than) (NP (NP (DT the) (NNS ones)) (ADJP (JJ available) (PP (IN in) (NP (DT the) (NN literature)))))))) (. .))

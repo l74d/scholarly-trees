@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (DT the) (NN entropy)) (PP (IN of) (NP (NP (DT the) (NN mixture)) (PP (IN of) (NP (NNS sources))))))))) (. .))
-(S (NP (EX There)) (VP (VBZ is) (VP (VBN given) (NP (NP (DT an) (NN estimation)) (PP (IN of) (NP (NP (DT the) (NN entropy) (CC and) (JJ entropy) (NN dimension)) (PP (IN of) (NP (NP (JJ convex) (NN combination)) (PP (IN of) (NP (NNS measures)))))))))) (. .))
-(S (NP (DT The) (NN proof)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (PRP$ our) (JJ alternative) (NN definition)) (PP (IN of) (NP (DT the) (NN entropy))) (VP (VBN based) (PP (IN on) (NP (NP (NNS measures)) (CONJP (RB instead) (IN of)) (NP (NNS partitions))))))))) (. .))

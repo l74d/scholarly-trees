@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (NP (DT the) (JJ asymptotic) (NN spectrum)) (PP (IN of) (NP (NNS graphs))))) (CC and) (VP (VB apply) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (NP (NP (JJ asymptotic) (NN spectra)) (PP (IN of) (NP (NNP Strassen)))) (-LRB- -LRB-) (NP (NNP J.) (NNP Reine) (NNP Angew))))))) (. .))
-(NP (NNP Math) (. .))
-(FRAG (NP (NML (NML (NML (CD 1988)) (-RRB- -RRB-)) (SBAR (S (VP (TO to) (VP (VB obtain) (NP (NP (DT a) (JJ new) (JJ dual) (NN characterisation)) (PP (IN of) (NP (DT the) (NNP Shannon))))))))) (NN capacity)) (PP (IN of) (NP (NNS graphs))) (. .))

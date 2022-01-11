@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP describe) (NP (NP (DT a) (JJ remarkable) (NN relation)) (PP (IN between) (NP (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NP (JJ valid) (NN formula)) (PP (IN of) (NP (NN predicate) (NN logic)))))) (CC and) (NP (NP (DT the) (NN specification)) (PP (IN of) (NP (NN network) (NNS protocols)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (JJ several) (NNS examples)) (PP (JJ such) (IN as) (NP (NP (DT the) (NN acknowledgement)) (PP (PP (IN of) (NP (CD one) (NN packet))) (CC or) (PP (IN of) (NP (NP (DT a) (NN sequence)) (PP (IN of) (NP (NNS packets)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB specify) (NP (NP (DT the) (NN composition)) (PP (IN of) (NP (NNS protocols))))))))) (. .))

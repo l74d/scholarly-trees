@@ -1,2 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (VP (VBN found) (SBAR (IN that) (S (NP (DT an) (NN algorithm)) (VP (MD can) (VP (VB generate) (NP (JJ true) (JJ random) (NNS numbers)) (PP (IN on) (NP (JJ classical) (NN computer)))))))))) (. .))
-(S (NP (DT The) (NN algorithm)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB generate) (NP (NP (NP (JJ unbreakable) (NN message) (NN PIN)) (-LRB- -LRB-) (NP (JJ personal) (NN identification) (NN number)) (-RRB- -RRB-)) (CC and) (NP (NN password))))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NNS Results)) (VP (VBP are) (VP (VBN compared) (PP (IN with) (NP (NP (JJ exact) (NNS solutions)) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NNP IVP) (CC and) (NNP BVP))))))))) (. .))
-(S (PP (IN In) (NP (NP (NN case)) (PP (IN of) (NP (CD four) (NN point) (NNP BVP))))) (NP (PRP we)) (VP (VBP compare) (NP (DT the) (NN result)) (PP (IN with) (NP (JJ other) (NNS methods)))) (. .))
-(S (NP (NP (NN Convergence)) (PP (IN of) (NP (DT these) (NNS methods)))) (VP (VBZ is) (ADVP (RB also)) (VP (VP (VBN established)) (CC and) (VP (VBN found) (S (VP (TO to) (VP (VB be) (PP (IN of) (NP (JJ second) (NN order))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP observe) (SBAR (IN that) (S (SBAR (IN as) (S (NP (NN resolution)) (VP (VBZ is) (VP (VBN increased) (PP (TO to) (NP ($ $) (NNP J=4) ($ $))))))) (NP (PRP we)) (VP (VBP get) (NP (NP (DT the) (JJ exact) (NNS values)) (PP (IN for) (NP (NNP IVPs) (CC and) (NNP BVPs)))))))) (. .))

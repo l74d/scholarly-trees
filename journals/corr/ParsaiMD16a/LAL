@@ -1,7 +1,0 @@
-(S (NP (DT The) (NN test) (NN suite)) (VP (VBZ is) (ADJP (JJ essential) (PP (IN for) (NP (NP (NN fault) (NN detection)) (PP (IN during) (NP (NN software) (NN development))))))) (. .))
-(S (NP (JJ First-order) (NN mutation) (NN coverage)) (VP (VBZ is) (NP (NP (DT an) (JJ accurate) (JJ metric)) (SBAR (S (VP (TO to) (VP (VB quantify) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NN test) (NN suite)))))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (RB computationally) (JJ expensive))) (. .))
-(S (ADVP (NNP Hence)) (, ,) (NP (NP (DT the) (NN adoption)) (PP (IN of) (NP (DT this) (JJ metric)))) (VP (VBZ is) (ADJP (VBN limited))) (. .))
-(S (PP (IN In) (NP (DT this) (NN study))) (, ,) (NP (PRP we)) (VP (VBP address) (NP (DT this) (NN issue)) (PP (IN by) (S (VP (VBG proposing) (NP (NP (DT a) (JJ realistic) (NN model)) (ADJP (JJ able) (S (VP (TO to) (VP (VB estimate) (NP (JJ first-order) (NN mutation) (NN coverage)) (S (VP (VBG using) (NP (RB only) (JJ higher-order) (NN mutation) (NN coverage))))))))))))) (. .))
-(S (NP (PRP$ Our) (NN study)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN estimation)) (VP (VBZ evolves) (PP (IN along) (PP (IN with) (NP (NP (DT the) (NN order)) (PP (IN of) (NP (NN mutation)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP validate) (NP (DT the) (NN model)) (PP (IN with) (NP (NP (DT an) (JJ empirical) (NN study)) (VP (VBN based) (PP (IN on) (NP (CD 17) (JJ open-source) (NNS projects))))))) (. .))

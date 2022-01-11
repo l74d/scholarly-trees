@@ -1,2 +1,0 @@
-(S (S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (ADJP (NN rate) (HYPH -) (VBN based)) (NN algorithm)) (VP (VBN inspired) (PP (IN by) (NP (ADJP (RB multiplicatively) (HYPH -) (VBN weighted)) (NNP Voronoi) (NNS diagrams))))))) (, ,) (CC and) (S (S (VP (VB prove) (NP (PRP it)))) (VP (VBZ has) (NP (JJ optimal) (NN trade) (HYPH -) (NNS offs)))) (. .))
-(S (NP (DT This)) (ADVP (RB also)) (VP (VBZ gives) (NP (PRP us)) (NP (NP (DT another) (JJ logarithmic) (NN approximation) (NN algorithm)) (PP (IN for) (NP (DT the) (NML (CD 0) (HYPH -) (NN extension)) (NN problem))))) (. .))

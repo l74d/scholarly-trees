@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT the) (NN parsing) (NN problem)) (PP (IN for) (NP (JJ semidirectional) (NNP Lambek) (NNP Grammar)))) (VP (VBZ is) (ADJP (JJ NP-complete)) (PP (IN by) (NP (NP (DT a) (NN reduction)) (PP (IN of) (NP (DT the) (JJ 3-Partition) (NN problem))))))))) (. .))

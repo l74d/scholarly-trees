@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN presentation)) (VP (VBZ focuses) (PP (IN on) (NP (NP (DT the) (JJ automatic) (NN expansion)) (PP (IN of) (NP (NP (JJ Arabic) (NN request)) (VP (VBG using) (NP (NP (JJ morphological) (NN analyzer)) (CC and) (NP (JJ Arabic) (NN Wordnet))))))))) (. .))
-(S (NP (DT The) (VBN expanded) (NN request)) (VP (VBZ is) (VP (VBN sent) (PP (IN to) (NP (NNP Google))))) (. .))

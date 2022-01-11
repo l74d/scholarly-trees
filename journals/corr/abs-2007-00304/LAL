@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (DT the) (NNP Paterson-Wegman-de) (NNP Champeaux) (JJ linear-time) (NN unification) (NN algorithm))) (. .))
-(S (S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ small) (NN mistake)) (PP (IN in) (NP (NP (DT the) (FW de) (NNP Champeaux) (NN presentation)) (PP (IN of) (NP (DT the) (NN algorithm))))))))))) (CC and) (S (NP (PRP we)) (VP (VBP provide) (NP (DT a) (NN fix)))) (. .))

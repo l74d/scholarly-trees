@@ -1,4 +1,0 @@
-(S (S (NP (NP (DT The) (NN problem)) (PP (IN of))) (VP (VBD rested))) (CC and) (S (NP (NP (JJ restless) (JJ multi-armed) (NNS bandits)) (PP (IN with) (NP (NP (ADJP (JJ constrained)) (NN availability)) (PP (IN of) (NP (NNS arms)))))) (VP (VBZ is) (VP (VBN considered)))) (. .))
-(S (S (NP (NP (DT The) (NNS states)) (PP (IN of) (NP (NNS arms)))) (VP (VBP evolve) (PP (IN in) (NP (NNP Markovian) (NN manner))))) (CC and) (S (NP (DT the) (JJ exact) (NNS states)) (VP (VBP are) (VP (VBN hidden) (PP (IN from) (NP (DT the) (NN decision) (NN maker)))))) (. .))
-(S (ADVP (RB First)) (, ,) (NP (NP (DT some) (JJ structural) (NNS results)) (PP (IN on) (NP (NN value) (NNS functions)))) (VP (VBP are) (VP (VBN claimed))) (. .))
-(S (NP (NP (DT The) (NN performance)) (PP (IN of) (NP (NN index) (NN policy)))) (VP (VBZ is) (VP (VBN illustrated) (CC and) (VBN compared) (PP (IN with) (NP (NP (JJ myopic) (NN policy)) (VP (VBG using) (NP (JJ numerical) (NNS examples))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT a) (JJ non-commutative) (NN algorithm)) (PP (IN for) (S (VP (VBG multiplying) (NP (NN 5x5) (NNS matrices)) (S (VP (VBG using) (NP (CD 99) (NNS multiplications)))))))) (. .))
-(S (NP (DT This) (NN algorithm)) (VP (VBZ is) (NP (NP (DT a) (JJ minor) (NN modification)) (PP (IN of) (NP (NP (NP (NP (NNP Makarov) (POS 's)) (NN algorithm)) (SBAR (WHNP (WDT which)) (S (VP (VBP exhibit) (NP (NP (DT the) (JJ previous)) (ADJP (RBS best) (VBN known))))))) (VP (VBN bound) (PP (IN with) (NP (CD 100) (NNS multiplications)))))))) (. .))

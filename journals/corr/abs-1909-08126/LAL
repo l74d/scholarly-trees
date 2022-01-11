@@ -1,1 +1,0 @@
-(S (S (NP (PRP We)) (VP (VBP compute) (NP (NP (NP (DT the) (JJ minimum) (NN distance)) (CC and) (NP (DT the) (JJ minimum) (NN weight) (NNS codewords))) (PP (IN of) (NP (JJ such) (NNS codes)))))) (CC and) (S (NP (PRP we)) (VP (VBP investigate) (NP (NP (DT the) (JJ generalized) (NN hamming) (NNS weights)) (PP (IN of) (NP (JJ such) (NNS codes)))))) (. .))

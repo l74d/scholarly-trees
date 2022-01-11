@@ -1,5 +1,0 @@
-(S (NP (NNP Artist) (NN recognition)) (VP (VBZ is) (NP (NP (DT a) (NN task)) (PP (IN of) (S (VP (VBG modeling) (NP (NP (DT the) (NN artist) (POS 's)) (JJ musical) (NN style))))))) (. .))
-(S (NP (DT This) (NN problem)) (VP (VBZ is) (ADJP (VBG challenging)) (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (JJ clear) (NN standard)))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ hybrid) (NN method)) (PP (IN of) (NP (NP (DT the) (JJ generative) (NN model) (NN i-vector)) (CC and) (NP (DT the) (JJ discriminative) (NN model) (JJ deep) (JJ convolutional) (JJ neural) (NN network)))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (DT this) (NN approach)) (VP (VBZ achieves) (NP (JJ state-of-the-art) (NN performance)) (PP (IN by) (S (VP (VBG complementing) (NP (DT each) (JJ other))))))))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP we)) (VP (ADVP (VBP briefly)) (VB explain) (NP (NP (DT the) (NNS advantages) (CC and) (NNS disadvantages)) (PP (IN of) (NP (DT each) (NN approach))))) (. .))

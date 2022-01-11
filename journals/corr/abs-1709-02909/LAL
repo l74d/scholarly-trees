@@ -1,2 +1,0 @@
-(S (PP (TO To) (NP (NP (DT the) (JJS best)) (PP (IN of) (NP (PRP$ our) (NN knowledge))))) (, ,) (NP (DT this) (NN result)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (PRP$ its) (NN kind))))) (. .))
-(S (NP (PRP$ Our) (NN proof)) (VP (VBZ is) (ADJP (RB very) (JJ simple)) (S (ADVP (RB only)) (VP (VBG exploiting) (NP (NP (NP (DT the) (VBG covering) (NN number)) (PP (IN of) (NP (DT a) (JJ finite-dimensional) (JJ bounded) (NN set)))) (CC and) (NP (NP (DT a) (NN concentration) (NN inequality)) (PP (IN of) (NP (JJ random) (NNS vectors)))))))) (. .))

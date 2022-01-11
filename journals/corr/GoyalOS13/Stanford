@@ -1,2 +1,0 @@
-(S (VP (VB Consider) (NP (NP (DT the) (JJ robust) (NN network) (NN design) (NN problem)) (PP (IN of) (S (VP (VBG finding) (NP (NP (DT a) (JJ minimum) (NN cost) (NN network)) (PP (IN with) (NP (JJ enough) (NN capacity)))) (PP (IN to) (NP (NML (NN route) (DT all) (NN traffic)) (NN demand) (NNS matrices))) (PP (IN in) (NP (DT a) (VBN given) (NN polytope)))))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (ADJP (JJ true)) (ADVP (RB even)) (PP (IN in) (NP (NP (DT the) (JJ important) (JJ special) (NN case)) (PP (IN of) (NP (DT the) (JJ asymmetric) (NN hose) (NN model)))))) (. .))

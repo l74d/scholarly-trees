@@ -1,2 +1,0 @@
-(S (NP (NP (VBG Ensuring) (NN correctness)) (PP (IN of) (NP (JJ smart) (NNS contracts)))) (VP (VBZ is) (ADJP (JJ paramount) (PP (IN to) (S (VP (VBG ensuring) (NP (NP (NN trust)) (PP (IN in) (NP (ADJP (NP (NN blockchain)) (HYPH -) (VBN based)) (NNS systems))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP have) (VP (VBN found) (NP (ADJP (RB previously) (JJ unknown)) (NNS bugs)) (PP (IN in) (NP (DT these) (VBN published) (JJ smart) (NNS contracts))))) (. .))

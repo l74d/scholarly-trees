@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (JJ irregular) (JJ interval-valued) (NN fuzzy) (NN graphs)) (CC and) (NP (PRP$ their) (JJ various) (NNS classifications)))) (. .))
-(S (NP (NP (NN Size)) (PP (IN of) (NP (JJ regular) (JJ interval-valued) (NN fuzzy) (NN graphs)))) (VP (VBZ is) (VP (VBN derived))) (. .))
-(S (NP (NP (DT The) (NN relation)) (PP (IN between) (NP (ADJP (ADVP (RB highly) (CC and) (RB neighbourly)) (JJ irregular)) (JJ interval-valued) (NN fuzzy) (NN graphs)))) (VP (VBP are) (VP (VBN established))) (. .))
-(S (NP (NP (DT Some) (JJ basic) (NNS theorems)) (VP (VBN related) (PP (TO to) (NP (DT the) (VBN stated) (NN graphs))))) (VP (VBP have) (ADVP (RB also)) (VP (VBN been) (VP (VBN presented)))) (. .))

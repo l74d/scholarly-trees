@@ -1,4 +1,0 @@
-(S (NP (DT This) (NN correspondence)) (VP (VBZ maps) (ADJP (ADJP (JJ self-dual)) (PRN (-LRB- -LRB-) (NP (NN resp)) (. .)))))
-(S (NP (JJ anti-self-dual) (-RRB- -RRB-) (VBN generalized) (JJ bent)) (VP (NNS functions) (PP (TO to) (NP (NP ($ $) (JJ m-) ($ $) (NNS tuples)) (PP (IN of) (NP (NP (JJ self-dual)) (PRN (-LRB- -LRB-) (NN resp) (. .))))))))
-(S (NP (ADJP (RB anti) (JJ self-dual) (-RRB- -RRB-)) (NNP Boolean)) (VP (NN bent) (VP (NNS functions))) (. .))
-(S (NP (NP (DT An) (NN application)) (PP (TO to) (NP (NP (DT the) (NN classification)) (PP (IN of) (NP (JJ regular) (JJ generalized) (NN bent) (NNS functions))) (PP (IN under) (NP (DT the) (JJ extended) (NN affine) (NN group)))))) (VP (VBZ is) (VP (VBN given))) (. .))

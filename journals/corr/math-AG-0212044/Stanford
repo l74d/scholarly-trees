@@ -1,5 +1,0 @@
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN tutorial)) (PP (IN on) (NP (NP (DT some) (NNS aspects)) (PP (IN of) (NP (NP (JJ toric) (NNS varieties)) (VP (VBN related) (PP (IN to) (NP (NP (PRP$ their) (JJ potential) (NN use)) (PP (IN in) (NP (JJ geometric) (NN modeling)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP discuss) (NP (NP (NP (JJ projective) (JJ toric) (NNS varieties)) (CC and) (NP (PRP$ their) (NNS ideals))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ real) (JJ toric) (NNS varieties)) (CC and) (NP (DT the) (JJ algebraic) (NN moment) (NN map))))) (. .))
-(S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP we)) (VP (VBP explain) (NP (NP (DT the) (NN relation)) (PP (IN between) (NP (NP (JJ linear) (NN precision)) (CC and) (NP (DT the) (JJ algebraic) (NN moment) (NN map)))))) (. .))
-(S (S (NP (DT This)) (VP (VBZ builds) (PP (IN on) (NP (NP (DT the) (NN introduction)) (PP (IN to) (NP (JJ toric) (NNS varieties))))) (PP (IN by) (NP (NNP David) (NNP Cox))))) (: :) (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (DT a) (NNP Toric) (NNP Variety)))) (. ?))
-(PP (IN at) (NP (DT this) (NN http) (NN URL)))

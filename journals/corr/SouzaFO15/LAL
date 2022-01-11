@@ -1,3 +1,0 @@
-(S (NP (NP (DT A) (JJ new) (NN family)) (PP (IN of) (NP (JJ error-correcting) (NNS codes))) (, ,) (VP (VBN called) (S (NP (NNP Fourier) (NNS codes)))) (, ,)) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (NP (DT The) (NN code) (NN parity-check) (NN matrix)) (, ,) (NP (NN dimension)) (CC and) (NP (NP (DT an) (JJ upper) (NN bound)) (PP (IN on) (NP (PRP$ its) (JJ minimum) (NN distance))))) (VP (VBP are) (VP (VBN obtained) (PP (IN from) (NP (NP (DT the) (NN eigenstructure)) (PP (IN of) (NP (DT the) (NNP Fourier) (NN number) (JJ theoretic) (NN transform))))))) (. .))
-(S (NP (NP (DT A) (NN decoding) (NN technique)) (PP (IN for) (NP (JJ such) (NNS codes)))) (VP (VBZ is) (VP (VBN proposed))) (. .))

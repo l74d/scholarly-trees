@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (NNP Border) (NN algorithm)) (CC and) (NP (DT the) (JJ iPred) (NN algorithm))) (VP (VBP find) (NP (NP (DT the) (NNP Hasse) (NN diagrams)) (PP (IN of) (NP (NNP FCA) (NNS lattices))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (VP (VBN generalized) (PP (TO to) (NP (JJ arbitrary) (NNS lattices))))))))) (. .))
-(S (PP (IN In) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (VBN iPred))))) (, ,) (NP (DT this)) (VP (VBZ requires) (NP (NP (DT the) (NN identification)) (PP (IN of) (NP (NP (DT a) (JJ join-semilattice) (NN homomorphism)) (PP (IN into) (NP (DT a) (JJ distributive) (NN lattice))))))) (. .))

@@ -1,7 +1,0 @@
-(S (NP (JJ Smart) (NN environment)) (VP (VBZ requires) (NP (JJ uninterrupted) (NN connection)) (SBAR (WHADVP (WRB when)) (S (VP (VBG moving) (PP (IN from) (NP (CD one) (NN network))) (PP (IN to) (NP (DT another))))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (JJS best)) (VP (VBN accomplished) (PP (IN at) (NP (DT the) (NN network) (NN level))) (PRN (-LRB- -LRB-) (NP (NN L3)) (-RRB- -RRB-))))) (. .))
-(S (NP (NP (JJ Full) (NN interoperability) (CC and) (NN integration)) (PP (IN of) (NP (JJ heterogeneous) (NNS networks)))) (VP (VBZ is) (ADJP (JJ necessary) (PP (IN for) (NP (NN communication) (NN session) (NN continuity))))) (. .))
-(S (NP (NP (NNP Software)) (VP (VBN Defined) (S (VP (VBG Networking) (NP (NP (-LRB- -LRB-) (NN SDN) (-RRB- -RRB-)) (PP (IN with) (NP (JJ virtual) (NN IP) (NNS addresses)))))))) (VP (VBZ solves) (NP (DT the) (NN problem))) (. .))
-(S (S (VP (VBG Implementing) (NP (DT a) (JJ homogeneous) (NN SDN)))) (VP (VBZ is) (ADJP (JJ expensive)) (, ,) (PP (VBN given) (NP (NP (DT the) (JJ enormous) (NNS investments)) (PP (IN in) (NP (VBG existing) (NNS networks)))))) (. .))
-(S (S (VP (TO To) (VP (VB solve) (NP (DT this) (JJ second) (NN problem))))) (, ,) (NP (PRP we)) (VP (VBP deploy) (NP (NP (DT the) (JJS least) (NN set)) (PP (IN of) (NP (NN SDN) (NNS features)))) (S (VP (TO to) (VP (VB provide) (NP (NML (JJ full) (NN L3)) (NN mobility)))))) (. .))
-(S (NP (PRP We)) (VP (VBP use) (NP (DT a) (JJ common) (NN controller)) (S (VP (TO to) (VP (VB manage) (NP (DT the) (NN IP) (NN address) (NNS translations)))))) (. .))

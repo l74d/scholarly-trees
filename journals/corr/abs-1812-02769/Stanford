@@ -1,5 +1,0 @@
-(S (NP (NP (JJ Conventional)) (PP (JJ prior) (IN for) (NP (NP (NNP Variational) (NNP Auto) (HYPH -) (NNP Encoder)) (-LRB- -LRB-) (NP (NNP VAE)) (-RRB- -RRB-)))) (VP (VBZ is) (NP (DT a) (JJ Gaussian) (NN distribution))) (. .))
-(S (NP (JJ Recent) (NNS works)) (VP (VBD demonstrated) (SBAR (IN that) (S (NP (NP (NN choice)) (PP (IN of) (NP (JJ prior) (NN distribution)))) (VP (VBZ affects) (NP (NP (NN learning) (NN capacity)) (PP (IN of) (NP (NNP VAE) (NNS models)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT a) (JJ general) (NN technique) (PRN (-LRB- -LRB-) (NP (NP (NML (NN embedding) (HYPH -) (NN reparameterization)) (NN procedure)) (, ,) (CC or) (NP (NN ER))) (-RRB- -RRB-))) (PP (IN for) (S (VP (VBG introducing) (NP (NP (ADJP (NP (JJ arbitrary) (NN manifold)) (HYPH -) (VBN valued)) (NNS variables)) (PP (IN in) (NP (NNP VAE) (NN model)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP compare) (NP (PRP$ our) (NN technique)) (PP (IN with) (NP (NP (DT a) (JJ conventional) (NN VAE)) (PP (IN on) (NP (DT a) (NN toy) (NN benchmark) (NN problem)))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (NN work)) (PP (IN in) (NP (NN progress))))) (. .))

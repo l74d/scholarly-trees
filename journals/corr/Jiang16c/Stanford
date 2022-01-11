@@ -1,6 +1,0 @@
-(S (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB manage) (NP (NN conflict)))))) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT an) (JJ open) (NN issue)) (PP (IN in) (NP (NML (NNP Dempster) (HYPH -) (NNP Shafer)) (NN evidence) (NN theory))))) (. .))
-(S (NP (DT The) (NN correlation) (NN coefficient)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN similarity)) (PP (IN of) (NP (NN evidence)))) (PP (IN in) (NP (NML (NNP Dempster) (HYPH -) (NNP Shafer)) (NN evidence) (NN theory))))))))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (NP (VBG existing) (NN correlation) (NNS coefficients)) (PP (IN of) (NP (NN belief) (NNS functions)))) (VP (VBP have) (NP (DT some) (NNS shortcomings))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (DT a) (JJ new) (NN correlation) (NN coefficient)) (VP (VBZ is) (VP (VBN proposed) (PP (IN with) (NP (JJ many) (JJ desirable) (NNS properties))))) (. .))
-(S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ its) (NNS applications)))) (VP (VBZ is) (S (VP (TO to) (VP (VB measure) (NP (DT the) (NN conflict) (NN degree)) (PP (IN among) (NP (NN belief) (NNS functions))))))) (. .))
-(S (NP (DT Some) (JJ numerical) (NNS examples) (CC and) (NNS comparisons)) (VP (VBP demonstrate) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (DT the) (NN correlation) (NN coefficient))))) (. .))

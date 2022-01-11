@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (NN law)) (PP (IN of) (NP (JJ large) (NNS numbers))) (PP (IN for) (NP (NP (DT the) (NN order) (CC and) (NN size)) (PP (IN of) (NP (NP (DT the) (JJS largest) (ADJP (RB strongly) (VBN connected)) (NN component)) (PP (IN in) (NP (DT the) (JJ directed) (NN configuration) (NN model))))))))) (. .))
-(S (NP (PRP$ Our) (NN result)) (VP (VBZ extends) (NP (NP (JJ previous) (NN work)) (PP (IN by) (NP (NNP Cooper) (CC and) (NNP Frieze))))) (. .))

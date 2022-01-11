@@ -1,3 +1,0 @@
-(S (NP (DT The) (NN article)) (VP (VBZ is) (VP (VBN dedicated) (PP (TO to) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NP (DT the) (VBG existing) (NNS models)) (PP (IN for) (NP (NN assessment))) (VP (VBN based) (PP (IN of) (NP (DT the) (JJ fuzzy) (JJ logic) (NN centroid) (NN technique)))))))))) (. .))
-(S (NP (DT A) (JJ new) (NNP Generalized) (NNP Rectangular) (NNP Model)) (VP (VBD were) (VP (VBN developed))) (. .))
-(S (NP (NP (DT Some) (NNS generalizations)) (PP (IN of) (NP (DT the) (VBG existing) (NNS models)))) (VP (VBP are) (VP (VBN offered))) (. .))

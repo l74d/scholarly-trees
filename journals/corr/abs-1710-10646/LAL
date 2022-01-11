@@ -1,3 +1,0 @@
-(S (NP (NNP Quick) (NNP Shift)) (VP (VBZ is) (NP (DT a) (JJ popular) (NN mode-seeking) (CC and) (VBG clustering) (NN algorithm))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (JJ finite) (JJ sample) (JJ statistical) (NN consistency) (NNS guarantees)) (PP (IN for) (NP (NP (NNP Quick) (NNP Shift)) (PP (IN on) (NP (NN mode) (CC and) (NN cluster) (NN recovery))))) (PP (IN under) (NP (JJ mild) (JJ distributional) (NNS assumptions))))) (. .))
-(S (NP (PRP We)) (ADVP (RB then)) (VP (VB apply) (NP (PRP$ our) (NNS results)) (S (VP (TO to) (VP (VB construct) (NP (DT a) (JJ consistent) (NN modal) (NN regression) (NN algorithm)))))) (. .))

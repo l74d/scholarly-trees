@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NNP Research) (NNP Note))) (NP (PRP we)) (VP (VBP report) (PP (IN on) (NP (NP (DT an) (JJ open-source) (NN compiler)) (PP (IN for) (NP (DT the) (NNP Bluespec) (NN hardware) (NN description) (NN language)))))) (. .))

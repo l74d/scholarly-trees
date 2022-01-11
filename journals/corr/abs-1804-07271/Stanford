@@ -1,1 +1,0 @@
-(S (NP (DT This) (JJ technical) (NN report)) (VP (VBZ describes) (NP (NP (DT the) (NN implementation)) (PP (IN of) (NP (NP (DT a) (JJ lazy) (JJ functional) (NN programming) (NN language)) (PP (IN on) (NP (DT the) (NNP Java) (NNP VM))))))) (. .))

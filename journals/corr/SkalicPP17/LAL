@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN solution)) (PP (TO to) (NP (NP (`` ``) (NP (NNP Google) (NNP Cloud) (CC and) (NNP YouTube-8M) (NNP Video) (NNP Understanding) (NNP Challenge)) ('' '')) (SBAR (WHNP (IN that)) (S (VP (VBD ranked) (NP (JJ 5th) (NN place))))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN model)) (VP (VBZ is) (NP (NP (DT an) (NN ensemble)) (PP (IN of) (NP (NP (CD three) (NN model) (NNS families)) (, ,) (NP (CD two) (NN frame) (NN level)) (CC and) (NP (CD one) (NN video) (NN level)))))) (. .))
-(S (NP (DT The) (NN training)) (VP (VBD was) (VP (VBN performed) (PP (IN on) (NP (JJ augmented) (NN dataset))) (, ,) (PP (IN with) (NP (JJ cross) (NN validation))))) (. .))

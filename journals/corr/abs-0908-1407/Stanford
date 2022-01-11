@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP consider) (NP (NP (DT a) (JJ nonparametric) (NN version)) (PP (IN of) (NP (DT this) (NN algorithm))))) (. .))
-(S (NP (NP (DT The) (NNS transmissions)) (PP (IN from) (NP (DT the) (NNS sensors)))) (VP (VBP are) (VP (VBN fused) (PP (IN at) (NP (DT the) (JJ physical) (NN layer))))) (. .))
-(S (NP (DT The) (NN channel)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (NP (DT a) (JJ Multiple) (NML (NNP Access) (NNP Channel) (-LRB- -LRB-) (NNP MAC) (-RRB- -RRB-))) (VP (VBN corrupted) (PP (IN with) (NP (NN noise)))))))) (. .))
-(S (NP (DT The) (NN fusion) (NN center)) (VP (VBZ performs) (NP (DT another) (NNP CUSUM)) (S (VP (TO to) (VP (VB detect) (NP (DT the) (NN change)))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP generalize) (NP (DT the) (NN algorithm)) (S (VP (TO to) (ADVP (RB also)) (VP (VP (VB include) (NP (JJ nonparametric) (NN CUSUM))) (CC and) (VP (VB provide) (NP (DT a) (JJ unified) (NN analysis))))))) (. .))

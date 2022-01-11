@@ -1,1 +1,0 @@
-(S (NP (NP (DT The) (JJ weighted) (JJ fuzzy) (JJ c-mean) (NN clustering) (NN algorithm)) (CC and) (NP (VBD weighted) (JJ fuzzy) (JJ c-mean-adaptive) (NN cluster) (NN number))) (VP (VBP are) (NP (NP (NN extension)) (PP (IN of) (NP (JJ traditional) (JJ fuzzy) (JJ c-mean) (NNP Algorithm))) (PP (TO to) (NP (VB stream) (NNS data) (VBG clustering) (NN algorithm))))) (. .))

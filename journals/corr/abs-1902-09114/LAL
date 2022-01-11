@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP give) (NP (NP (DT a) (NN sampling) (NN algorithm)) (PP (IN for) (NP (DT the) (NNP Potts) (NN model))) (VP (VBG using) (NP (NNP Markov) (NNS chains))))) (. .))

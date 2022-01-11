@@ -1,1 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT a) (JJ tight) (JJ uniform) (NN continuity) (NN bound)) (PP (IN for) (NP (NP (DT the) (JJ conditional) (NNP Shannon) (NN entropy)) (PP (IN of) (NP (JJ discrete) (ADJP (RB finitely) (JJ supported)) (NN random) (NNS variables)))))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (JJ total) (NN variation) (NN distance)))))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ flexible)) (SBAR (IN in) (IN that) (S (NP (PRP it)) (VP (VP (MD can) (VP (VB take) (NP (DT any) (NN word) (VBZ embeddings)) (PP (IN as) (NP (NN input))))) (CC and) (VP (VBZ does) (RB not) (VP (VB need) (NP (DT an) (JJ additional) (NN training) (NN corpus)))))))) (. .))
-(S (NP (NP (DT The) (JJ synset/lexeme) (NNS embeddings)) (VP (VBN obtained))) (VP (VBP live) (PP (IN in) (NP (NP (DT the) (JJ same) (NN vector) (NN space)) (PP (IN as) (NP (DT the) (NN word) (NNS embeddings)))))) (. .))
-(S (NP (DT A) (NN sparse) (NN tensor) (NN formalization)) (VP (NNS guarantees) (NP (NN efficiency) (CC and) (NN parallelizability))) (. .))
-(S (S (NP (PRP We)) (VP (VBP use) (NP (JJ WordNet)) (PP (IN as) (NP (DT a) (JJ lexical) (NN resource))))) (, ,) (CC but) (S (NP (NNP AutoExtend)) (VP (MD can) (VP (VB be) (ADVP (RB easily)) (VBN applied) (PP (TO to) (NP (NP (JJ other) (NNS resources)) (PP (IN like) (NP (NNP Freebase)))))))) (. .))
-(S (NP (NNP AutoExtend)) (VP (VBZ achieves) (NP (NP (JJ state-of-the-art) (NN performance)) (PP (IN on) (NP (NN word) (NN similarity) (CC and) (NN word) (NN sense) (NN disambiguation) (NNS tasks))))) (. .))

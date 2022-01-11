@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (JJ stationary) (NN point)) (PP (IN of) (NP (NN Problem) (CD 2)))) (VP (VBZ is) (RB NOT) (NP (NP (DT the) (JJ stationary) (NN point)) (PP (IN of) (NP (NN Problem) (CD 1))))) (. .))
-(S (S (NP (PRP We)) (VP (VBP are) (ADJP (JJ sorry)))) (CC and) (S (NP (PRP we)) (VP (VBP are) (VP (VBG working) (PP (IN on) (S (VP (VBG fixing) (NP (DT this) (NN error)))))))) (. .))

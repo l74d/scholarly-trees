@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN method)) (PP (IN for) (S (VP (VBG determining) (NP (NP (DT the) (NX (NX (JJ elementary) (NNS paths)) (CC and) (NX (JJ elementary) (NNS circuits)))) (PP (IN in) (NP (DT a) (JJ directed) (NN graph))))))))) (. .))
-(S (ADVP (RB Also)) (, ,) (NP (DT the) (NX (NX (JJ Hamiltonian) (NNS paths)) (CC and) (NX (JJ Hamiltonian) (NNS circuits)))) (VP (VBP are) (VP (VBN enumerated))) (. .))

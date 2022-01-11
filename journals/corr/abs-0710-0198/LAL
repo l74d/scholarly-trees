@@ -1,2 +1,0 @@
-(S (PP (IN For) (NP (NP (DT every) ($ $) (JJ n)) (VP (NNP =) (NP (QP (CD 2^k) (VBD >) (CD 8)) ($ $))))) (NP (EX there)) (VP (VBP exist) (NP (NP (QP (RB exactly) ($ $)) (PRN (NNP -LSB-) (-LRB- -LRB-) (NN k+1) (-RRB- -RRB-) (VBZ /2) (JJ -RSB-) ($ $)) (ADJP (RB mutually) (JJ nonequivalent)) ($ $) (NNP Z_4) ($ $) (RB -linear) (VBN extended) (JJ perfect) (NNS codes)) (PP (IN with) (NP (NN distance) (CD 4))))) (. .))
-(S (NP (PDT All) (DT these) (NNS codes)) (VP (VBP have) (NP (JJ different) (NNS ranks))) (. .))

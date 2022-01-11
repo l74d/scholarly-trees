@@ -1,5 +1,0 @@
-(S (NP (DT This) (NN article)) (VP (VBZ shows) (NP (NP (DT a) (JJR lower) (NN cost) (NN realization)) (PP (IN of) (NP (NP (DT a) (NML (S (VP (VB compute)))) (NN cluster)) (VP (VBG using) (NP (NP (JJ Debian) (NN distribution)) (PP (JJ such) (IN as) (NP (NN PelicanHPC))))))))) (. .))
-(S (NP (PRP We)) (VP (MD will) (VP (VP (VB explain) (NP (NP (NML (NN parameterization) (CC and) (NN network)) (NN configuration)) (PP (IN for) (NP (NN master))))) (CC and) (VP (VB compute) (NP (NN slave) (NNS nodes))))) (. .))
-(S (NP (NN Performance) (NN testing)) (VP (MD will) (VP (VB take) (NP (NN place)) (S (VP (VBG using) (NP (NN flops.f) (NN file)) (PP (VBN given) (PP (IN by) (NP (NNP MPI)))))))) (. .))
-(S (NP (DT The) (NNS results)) (VP (MD will) (VP (VB be) (VP (VBN compared) (PP (IN between) (NP (NNS differents) (NNS clusters)))))) (. .))
-(S (NP (PRP We)) (VP (MD will) (VP (VB explain) (SBAR (WHADVP (RB quickly) (WRB how)) (S (NP (DT the) (NN temperature)) (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (DT a) (NN microcontroller) (NN unit))))))))) (. .))

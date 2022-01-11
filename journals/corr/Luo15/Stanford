@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (NP (JJ new) (NNS pairs)) (PP (IN of) (NP (NP (JJ binary) (NNS sequences)) (PP (IN with) (NP (CD three) (NN cross) (NN correlation) (NNS values)))))) (VP (VBP are) (VP (VBN presented))) (. .))
-(S (NP (DT The) (NN cross) (NN correlation) (NNS values)) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ low))))))) (. .))
-(S (ADVP (RB Finally)) (NP (PRP we)) (VP (VBP present) (NP (NP (DT some) (JJ numerical) (NNS results)) (CC and) (NP (DT some) (JJ open) (NNS problems)))) (. .))

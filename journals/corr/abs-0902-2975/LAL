@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT a) (NN convenient) (NN notation)) (PP (IN for) (NP (JJ positive/negative-conditional) (NNS equations))))) (. .))
-(S (NP (DT The) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB merge) (NP (NP (NNS rules)) (VP (VBG specifying) (NP (DT the) (JJ same) (NN function)))) (PP (IN by) (S (VP (VBG using) (NP (JJ case-) (, ,) (JJ if-) (, ,) (JJ match-) (, ,) (CC and) (NNS let-expressions))))))))) (. .))
-(S (PP (VBN Based) (PP (IN on) (NP (DT the) (VBN presented) (NN macro-rule-construct)))) (, ,) (NP (JJ positive/negative-conditional) (JJ equational) (NNS specifications)) (VP (MD can) (VP (VB be) (VP (VBN written) (PP (IN on) (NP (DT a) (JJR higher) (NN level)))))) (. .))
-(S (NP (DT A) (NN rewrite) (NN system)) (VP (VBZ translates) (NP (DT the) (NNS macro-rule-constructs)) (PP (IN into) (NP (JJ positive/negative-conditional) (NNS equations)))) (. .))

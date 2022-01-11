@@ -1,5 +1,0 @@
-(S (NP (NNP Different) (JJ empirical) (NNS models)) (VP (VBP have) (VP (VBN been) (VP (VBN developed) (PP (IN for) (NP (JJ cloud) (NN detection)))))) (. .))
-(S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (VBG growing) (NN interest)) (PP (IN in) (S (VP (VBG using) (NP (DT the) (JJ ground-based) (NN sky/cloud) (NNS images)) (PP (IN for) (NP (DT this) (NN purpose)))))))) (. .))
-(S (NP (NP (JJ Several) (NNS methods))) (VP (VBP exist) (SBAR (WHNP (IN that)) (S (VP (NN perform) (NP (NP (JJ binary) (NN segmentation)) (PP (IN of) (NP (NNS clouds)))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP propose) (S (VP (TO to) (VP (VB use) (NP (NP (DT a) (JJ deep) (NN learning) (NN architecture)) (PRN (-LRB- -LRB-) (NP (JJ U-Net)) (-RRB- -RRB-))) (S (VP (TO to) (VP (VB perform) (NP (JJ multi-label) (JJ sky/cloud) (NN image) (NN segmentation))))))))) (. .))
-(S (NP (DT The) (VBN proposed) (NN approach)) (VP (VBZ outperforms) (NP (JJ recent) (NN literature)) (PP (IN by) (NP (DT a) (JJ large) (NN margin)))) (. .))

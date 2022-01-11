@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP prove) (SBAR (DT that) (S (NP (NP (DT every) (VBD bounded) (JJ rational) (NN space) (NN curve)) (PP (IN of) (NP (NP (JJ degree) (NN d)) (CC and) (NP (NN circularity) (NNS c))))) (VP (MD can) (VP (VB be) (VP (VBN drawn) (PP (IN by) (NP (NP (DT a) (NN linkage)) (PP (IN with) (NP (QP (CD 9/2) (NNS d) (: -) (CD 6c) ($ +) (CD 1)) (NN revolute) (NNS joints))))))))))) (. .))
-(S (NP (PRP$ Our) (NN proof)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (CD two) (NNS ingredients))))) (. .))
-(S (NP (DT The) (JJ first) (NN one)) (VP (VBZ is) (NP (NP (DT the) (NN factorization) (NN theory)) (PP (IN of) (NP (NN motion) (NNS polynomials))))) (. .))
-(S (NP (DT The) (JJ second) (NN one)) (VP (VBZ is) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (NP (DT a) (NN motion) (NN polynomial)) (PP (IN of) (NP (JJ minimum) (NN degree))) (PP (IN with) (NP (VBN given) (NN orbit))))))) (. .))
-(S (NP (PRP$ Our) (NN proof)) (ADVP (RB also)) (VP (VBZ gives) (NP (NP (DT the) (NN explicity) (NN construction)) (PP (IN of) (NP (DT the) (NN linkage))))) (. .))

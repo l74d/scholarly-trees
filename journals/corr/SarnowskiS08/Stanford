@@ -1,3 +1,0 @@
-(S (NP (DT A) (NNP Markov) (NN process)) (VP (VBZ is) (VP (VBN registered))) (. .))
-(S (S (VP (VBG Using) (NP (NN probability)) (S (VP (VBG maximizing) (NP (NN approach)))))) (NP (NP (DT the) (JJ optimal) (NN stopping) (NN rule)) (PP (IN for) (S (VP (VBG detecting) (NP (DT the) (NN change)))))) (VP (VBZ is) (VP (VBN identified))) (. .))
-(S (NP (DT Some) (JJ explicit) (NN solution)) (VP (VBZ is) (VP (VBN obtained))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (DT a) (JJ new) (NN approach)) (PP (IN for) (S (VP (VBG establishing) (NP (NP (NML (VBN fixed) (HYPH -) (NN parameter)) (NN tractability)) (PP (IN of) (NP (NP (NNS problems)) (VP (VBN parameterized) (PP (IN above) (NP (ADJP (ADVP (RB tight)) (JJR lower)) (NNS bounds))))))))))) (. .))
-(S (S (VP (TO To) (VP (VB illustrate) (NP (DT the) (NN approach))))) (NP (PRP we)) (VP (VBP consider) (NP (NP (CD three) (NNS problems)) (PP (IN of) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NP (NP (JJ unknown) (NN complexity)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN introduced) (PP (IN by) (NP (NNP Mahajan) (, ,) (NNP Raman) (CC and) (NNP Sikdar)))))))) (-LRB- -LRB-) (NP (NNP J.) (NNP Comput)))))))) (. .))
-(NP (NNP Syst) (. .))
-(NP (NN Sci) (. .))
-(NP (NP (CD 75)) (, ,) (NP-TMP (CD 2009)) (-RRB- -RRB-) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (DT a) (NN generalization)) (PP (IN of) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS problems)))) (CC and) (NP (NP (JJ non-trivial) (JJ special) (NNS cases)) (PP (IN of) (NP (DT the) (JJ other) (CD two))))))) (VP (VBP are) (NP (NP (VBN fixed) (HYPH -) (NN parameter)) (ADJP (JJ tractable))))))) (. .))

@@ -1,2 +1,0 @@
-(S (NP (NNP Grimmett) (CC and) (NNP McDiarmid)) (VP (VBD suggested) (NP (NP (DT a) (JJ simple) (NN heuristic)) (PP (IN for) (S (VP (VBG finding) (NP (JJ stable) (NNS sets)) (PP (IN in) (NP (NN random) (NN graphs)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP determine) (NP (NP (DT the) (JJ asymptotic) (NN distribution)) (PP (IN of) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT the) (JJ stable) (NN set)) (VP (VBN found) (PP (IN by) (NP (DT the) (NN algorithm)))))))))) (. .))

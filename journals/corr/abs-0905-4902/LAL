@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (JJ original) (NN solution)) (PP (IN for) (NP (NP (JJ flexible) (JJ hand-written) (NN text) (NN division)) (PP (IN into) (NP (NNS rows))))))) (. .))
-(S (PP (IN Unlike) (NP (DT the) (JJ standard) (NN procedure))) (, ,) (NP (DT the) (VBN proposed) (NN method)) (VP (VP (VBZ avoids) (NP (DT the) (JJ isolated) (NNS characters) (NNS extensions) (NN amputation))) (CC and) (VP (VBZ reduces) (NP (DT the) (NN recognition) (NN error) (NN rate)) (PP (IN in) (NP (DT the) (JJ final) (NN stage))))) (. .))

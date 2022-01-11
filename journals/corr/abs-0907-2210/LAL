@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (NN number)) (PP (IN of) (NP (JJ illustrative) (NNS examples)))) (VP (VBZ is) (VP (VBN included))) (. .))
-(S (PP (NNP Modulo) (NP (NP (JJ technical) (NNS assumptions)) (PP (IN of) (NP (JJ various) (NNS kinds))))) (NP (PRP$ our) (NNS methods)) (VP (MD can) (VP (VB be) (VP (VBN applied) (PP (TO to) (NP (NP (VB infinite) (JJ level) (RB quantum) (NNS systems)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ parametric) (NNS families)) (PP (IN of) (NP (JJ classical) (NN probability) (NNS distributions))) (PP (IN on) (NP (NNP Borel) (NNS spaces))))))))) (. .))

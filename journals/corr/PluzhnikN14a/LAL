@@ -1,4 +1,0 @@
-(S (NP (NNP Modern) (JJ educational) (NNS institutions)) (VP (ADVP (RB widely)) (VBN used) (NP (NP (JJ virtual) (NNS laboratories)) (CC and) (NP (NN cloud) (NNS technologies)))) (. .))
-(S (PP (IN In) (NP (NN practice))) (VP (MD must) (VP (VB deal) (PP (IN with) (NP (NP (NN security)) (, ,) (NP (VBG processing) (NN speed)) (CC and) (NP (JJ other) (NNS tasks)))))) (. .))
-(S (NP (DT The) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN experience)) (PP (IN of) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (NP (DT an) (JJ experimental) (NN stand)) (NP (NP (NN cloud) (NN computing)) (CC and) (NN network) (NN management)))))))) (. .))
-(S (NP (NP (NNS Models)) (CC and) (NP (NN control) (NNS principles))) (VP (VBP set) (PRT (JJ forth)) (ADVP (NN herein))) (. .))

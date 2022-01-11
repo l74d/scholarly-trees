@@ -1,4 +1,0 @@
-(S (NP (VBG Identifying) (NNS codes)) (VP (VBP have) (VP (VBN been) (VP (VBN introduced) (PP (IN in) (NP (CD 1998))) (S (VP (TO to) (VP (VB model) (NP (NP (NN fault-detection)) (PP (IN in) (NP (NN multiprocessor) (NNS systems)))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP introduce) (NP (NP (NP (CD two) (NNS variations)) (PP (IN of) (NP (VBG identifying) (NNS codes)))) (: :) (NP (NP (JJ weak) (NNS codes)) (CC and) (NP (JJ light) (NNS codes))))) (. .))
-(S (NP (PRP They)) (VP (VBP correspond) (PP (TO to) (NP (NP (NN fault-detection)) (PP (IN by) (NP (JJ successive) (NNS rounds)))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (JJ exact) (NNS bounds)) (PP (IN for) (NP (NP (DT those) (CD two) (NNS definitions)) (PP (IN for) (NP (NP (DT the) (NN family)) (PP (IN of) (NP (NNS cycles))))))))) (. .))

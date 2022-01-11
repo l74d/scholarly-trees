@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (NP (DT the) (NN analysis)) (PP (IN of) (NP (NN logic) (NNS programs))))) (, ,) (NP (NP (JJ abstract) (NNS domains)) (PP (IN for) (S (VP (VBG detecting) (NP (NN sharing) (NNS properties)))))) (VP (VBP are) (ADVP (RB widely)) (VP (VBN used))) (. .))
-(S (NP (DT This) (NN domain)) (VP (VBZ is) (VP (VBN endowed) (PP (IN with) (NP (NP (DT an) (JJ optimal) (JJ abstract) (NN operator)) (PP (IN for) (NP (NML (JJ single) (HYPH -) (NN binding)) (NN unification))))))) (. .))
-(S (NP (DT The) (NNS authors)) (VP (VBP claim) (SBAR (IN that) (S (NP (NP (DT the) (VBN repeated) (NN application)) (PP (IN of) (NP (DT this) (NN operator)))) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ optimal) (PP (IN for) (NP (JJ multi-binding) (NN unification)))))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN proof)) (PP (IN of) (NP (PDT such) (DT a) (NN claim))))) (. .))

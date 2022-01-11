@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (JJ cumulative) (NN scheduling)) (PP (IN in) (NP (JJ uncertain) (NNS environments)))) (, ,) (S (VP (VBG using) (NP (NN constraint) (NN programming))))) (. .))
-(S (NP (PRP We)) (VP (VBP detail) (PP (IN in) (NP (NP (DT this) (NN paper)) (NP (DT the) (NN dynamic) (NN sweep)))) (NP (NP (VBG filtering) (NN algorithm)) (PP (IN of) (NP (DT the) (NN FlexC) (JJ global) (NN constraint))))) (. .))

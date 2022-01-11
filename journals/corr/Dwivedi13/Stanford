@@ -1,2 +1,0 @@
-(S (NP (NN Multiplication)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN operation)) (PP (IN in) (NP (NN computer) (NN arithmetic))))))) (. .))
-(S (NP (PRP We)) (VP (VBP propose) (NP (DT an) (NN integer) (NN multiplication) (NN algorithm)) (S (VP (VBG using) (NP (NP (NN Nikhilam) (NN method)) (PP (IN of) (NP (NP (JJ Vedic) (NNS mathematics)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB multiply) (NP (CD two) (JJ binary) (NNS numbers)) (ADVP (RB efficiently)))))))))))))))) (. .))

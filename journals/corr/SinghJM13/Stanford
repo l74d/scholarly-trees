@@ -1,7 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP present) (NP (NP (DT a) (NNP Marathi) (NN part)) (PP (IN of) (NP (NN speech) (NN tagger))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (NP (DT a) (ADJP (RB morphologically) (JJ rich)) (NN language))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN spoken) (PP (IN by) (NP (NP (DT the) (JJ native) (NNS people)) (PP (IN of) (NP (NNP Maharashtra))))))) (. .))
-(S (NP (NP (DT The) (JJ general) (NN approach)) (VP (VBN used) (PP (IN for) (NP (NP (NN development)) (PP (IN of) (NP (NN tagger))))))) (VP (VBZ is) (ADJP (JJ statistical)) (S (VP (VBG using) (NP (NN trigram) (NN Method))))) (. .))
-(S (NP (NP (DT The) (JJ main) (NN concept)) (PP (IN of) (NP (NN trigram)))) (VP (VBZ is) (S (VP (TO to) (VP (VB explore) (NP (NP (DT the) (ADJP (RBS most) (JJ likely)) (NN POS)) (PP (IN for) (NP (DT a) (NN token)))) (PP (VBN based) (PP (IN on) (NP (NP (VBN given) (NN information)) (PP (IN of) (NP (JJ previous) (CD two) (NNS tags)))))) (PP (IN by) (S (VP (VBG calculating) (NP (NNS probabilities)) (S (VP (TO to) (VP (VB determine) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (JJS best) (NN sequence)) (PP (IN of) (NP (DT a) (NN tag))))))))))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP show) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (DT the) (NN tagger))))) (. .))
-(S (ADVP (RB Moreover)) (NP (PRP we)) (VP (VBP have) (ADVP (RB also)) (VP (VBN shown) (NP (NP (DT the) (NN evaluation)) (VP (VBN done))))) (. .))

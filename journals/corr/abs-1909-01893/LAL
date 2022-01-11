@@ -1,4 +1,0 @@
-(SBARQ (WHNP (WP What)) (SQ (VP (VBZ happens) (IN if) (, ,) (S (VP (VP (VBG considering) (NP (NP (DT the) (JJ same) (NN distinction)) (PP (IN between) (NP (JJ black) (CC and) (JJ white) (NNS nodes))))) (CC but) (VP (VBG changing) (NP (NP (DT the) (NN place)) (PP (IN of) (NP (DT the) (JJ black) (NN son))) (PP (IN in) (NP (DT the) (NNS rules))))))))) (. .))
-(SBARQ (WHNP (WP What)) (SQ (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP change) (NP (NP (DT the) (NN representation)) (PP (IN of) (NP (DT the) (NNS numbers))) (PP (IN by) (NP (NP (DT another) (NN set)) (PP (IN of) (NP (NNS digits))))))))))) (. ?))
-(S (NP (PRP We)) (VP (VBP tackle) (NP (NP (DT all)) (PP (IN of) (NP (DT these) (NNS questions)))) (PP (IN in) (NP (DT the) (NN paper)))) (. .))
-(S (NP (DT The) (JJ present) (NN paper)) (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NP (DT the) (JJ previous) (NNS papers)) (NP (VBP arXiv:1904.12135) (CC and) (VBP arXiv:1907.04677)))))) (. .))

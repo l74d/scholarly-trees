@@ -1,2 +1,0 @@
-(S (NP (NP (NNP Bitcoin) (CC and) (NN blockchain)) (PP (IN in) (ADJP (JJ general)))) (VP (VBZ is) (NP (DT a) (JJ hot) (NN topic)) (ADVP (NNS nowadays))) (. .))
-(S (PP (IN In) (NP (DT the) (NN paper))) (NP (PRP we)) (VP (VP (VBP propose) (NP (NP (DT a) (NN quantum) (NN empowering)) (PP (IN of) (NP (DT this) (NN technology))))) (CC and) (VP (VB show) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB speed-up) (NP (DT the) (NN mining) (NN procedure)) (S (VP (VBG using) (NP (DT the) (VBN modified) (NP (NNP Grover) (POS 's)) (NN algorithm)))))))))) (. .))

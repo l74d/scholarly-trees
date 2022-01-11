@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP study) (NP (NNS codes)) (PP (IN with) (NP (JJ sparse) (NN generator) (NNS matrices)))) (. .))
-(S (ADVP (RBR More) (RB specifically)) (, ,) (NP (NP (NNS codes)) (PP (IN with) (NP (NP (DT a) (JJ certain) (NN constraint)) (PP (IN on) (NP (NP (DT the) (NN weight)) (PP (IN of) (NP (NP (PDT all) (DT the) (NNS columns)) (PP (IN in) (NP (DT the) (NN generator) (NN matrix)))))))))) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (NP (DT The) (NN end) (NN result)) (VP (VBZ is) (NP (DT the) (VBG following))) (. .))
-(S (NP (DT The) (NNS constructions)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (JJ polar) (NNS codes))))) (. .))
-(S (NP (NP (NNS Applications)) (PP (IN to) (S (VP (VBG crowdsourcing))))) (VP (VBP are) (ADVP (RB also)) (VP (VBN shown))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (PRP We)) (VP (VBP develop) (NP (NP (DT a) (NN method)) (PP (IN for) (S (VP (VBG measuring) (NP (NN homology) (NNS classes))))))) (. .))
-(S (NP (DT This)) (VP (VBZ involves) (NP (CD three) (NNS problems))) (. .))
-(S (ADVP (RB First)) (, ,) (NP (PRP we)) (VP (VBP define) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT a) (NN homology) (NN class)))) (, ,) (S (VP (VBG using) (NP (NP (NNS ideas)) (PP (IN from) (NP (JJ relative) (NN homology))))))) (. .))
-(S (ADVP (JJ Second)) (, ,) (NP (PRP we)) (VP (VBP define) (S (NP (NP (DT an) (JJ optimal) (NN basis)) (PP (IN of) (NP (DT a) (NN homology) (NN group)))) (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN basis)) (SBAR (WHNP (NP (WP$ whose) (NNS elements) (POS ›)) (NN size)) (S (VP (VBP have) (NP (DT the) (JJ minimal) (NN sum)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (NN greedy) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VP (VB compute) (NP (DT the) (JJ optimal) (NN basis))) (CC and) (VP (NN measure) (NP (NNS classes)) (PP (IN in) (NP (PRP it)))))))))) (. .))
-(S (ADVP (NNP Third)) (, ,) (NP (PRP we)) (VP (VP (VBP discuss) (NP (NP (JJ different) (NNS ways)) (PP (IN of) (S (VP (VBG localizing) (NP (NN homology) (NNS classes))))))) (CC and) (VP (VB prove) (NP (DT some) (NN hardness) (NNS results)))) (. .))

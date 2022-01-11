@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN article))) (NP (PRP we)) (VP (VBP generalize) (NP (NNP Cobham) (NN theorem)) (PP (TO to) (NP (NP (DT a) (JJ large) (NN class)) (PP (IN of) (NP (NNS substitutions))) (PP (VBG including) (NP (ADJP (ADJP (JJ non) (JJ primitive)) (CC and) (ADJP (ADJP (JJ non) (JJ constant)) (NN length))) (NNS substitutions)))))) (. .))

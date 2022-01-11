@@ -1,3 +1,0 @@
-(S (S (VP (VBG Using) (NP (NP (NNS ideas)) (PP (IN from) (NP (JJ synthetic) (NN topology)))))) (, ,) (NP (NP (DT a) (JJ new) (NN approach)) (PP (TO to) (NP (VB descriptive) (NN set) (NN theory)))) (VP (VBZ is) (VP (VBN suggested))) (. .))
-(S (NP (JJ Synthetic) (NN descriptive) (VBN set) (NN theory)) (VP (NNS promises) (NP (NP (JJ elegant) (NNS explanations)) (PP (IN for) (NP (JJ various) (NNS phenomena))) (PP (IN in) (NP (ADJP (DT both) (JJ classic) (CC and) (JJ effective)) (NN descriptive) (VBN set) (NN theory))))) (. .))
-(S (ADVP (RB Presently)) (, ,) (NP (PRP we)) (ADVP (RB mainly)) (VP (VBP focus) (PP (IN on) (S (VP (VBG developing) (NP (NP (DT the) (NNS ideas)) (PP (IN in) (NP (NP (DT the) (NN category)) (PP (IN of) (NP (JJ represented) (NNS spaces)))))))))) (. .))

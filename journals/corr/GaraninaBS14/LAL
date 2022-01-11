@@ -1,5 +1,0 @@
-(S (NP (DT The) (NN paper)) (VP (VBZ presents) (NP (NP (DT an) (NN approach)) (PP (TO to) (NP (NP (NN verification)) (PP (IN of) (NP (DT a) (JJ multi-agent) (NN data) (NN analysis) (NN algorithm))))))) (. .))
-(S (NP (PRP We)) (VP (VBP base) (NP (NP (JJ correct) (NN simulation)) (PP (IN of) (NP (DT the) (JJ multi-agent) (NN system)))) (PP (IN by) (NP (DT a) (JJ finite) (NN integer) (NN model)))) (. .))
-(S (PP (IN For) (NP (NN verification))) (NP (PRP we)) (VP (VBP use) (NP (JJ model) (VBG checking) (NN tool) (NNP SPIN))) (. .))
-(S (S (NP (NP (NNS Protocols)) (PP (IN of) (NP (NNS agents)))) (VP (VBP are) (VP (VBN written) (PP (IN in) (NP (NNP Promela) (NN language)))))) (CC and) (S (NP (NP (NNS properties)) (PP (IN of) (NP (DT the) (JJ multi-agent) (NNS data) (NN analysis) (NN system)))) (VP (VBP are) (VP (VBN expressed) (PP (IN in) (NP (JJ logic) (NNP LTL)))))) (. .))
-(S (NP (PRP We)) (VP (VBP run) (NP (NP (JJ several) (NNS experiments)) (PP (IN with) (NP (NP (NNP SPIN)) (CC and) (NP (DT the) (NN model)))))) (. .))

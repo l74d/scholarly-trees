@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN method)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (DT a) (NN convex) (JJ variational) (NN problem))) (PP (IN with) (NP (JJ conic) (NNS constraints))) (, ,) (PP (IN with) (NP (VBN proven) (NN convergence))))) (. .))

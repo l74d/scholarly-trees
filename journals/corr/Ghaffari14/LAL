@@ -1,1 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ presents) (NP (NP (DT a) (JJ near-optimal) (JJ distributed) (NN approximation) (NN algorithm)) (PP (IN for) (NP (DT the) (JJ minimum-weight) (JJ connected) (NN dominating) (NN set) (PRN (-LRB- -LRB-) (NNP MCDS) (-RRB- -RRB-)) (NN problem))))) (. .))

@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (NP (DT a) (NN scheme)) (PP (IN for) (NP (NN handoff) (CC and) (NN connectivity))) (, ,) (VP (VBN based) (PP (IN on) (NP (NN wireless) (NN sensor) (NNS nodetechniques))))) (VP (VBZ is) (VP (VBN proposed))) (. .))
-(S (NP (NNS Scenes)) (VP (VBP are) (VP (VP (VBN created) (PP (IN in) (NP (NNP Qualnet)))) (CC and) (VP (VP (VBN simulated)) (PP (IN for) (NP (DT a) (JJ simple) (NN case)))))) (. .))
-(S (NP (NNS Results)) (VP (VBP are) (VP (VBN discussed))) (. .))

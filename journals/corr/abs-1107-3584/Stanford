@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP explore) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG using) (NP (JJ computational) (JJ algebraic) (NNS methods)) (S (VP (TO to) (VP (VB analyze) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (NN consensus) (NNS protocols)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP state) (NP (NP (DT some) (JJ necessary) (NNS conditions)) (PP (IN for) (NP (NN convergence)))) (PP (IN under) (NP (NP (NN consensus) (NNS protocols)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (NP (NNS polynomials)))))))) (. .))

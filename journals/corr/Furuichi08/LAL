@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (JJ uniqueness) (NN theorem)) (PP (IN for) (NP (DT a) (NN two-parameter) (JJ extended) (JJ relative) (NN entropy)))) (VP (VBZ is) (VP (VBN proven))) (. .))
-(S (NP (DT This) (NN result)) (VP (VBZ extends) (NP (NP (PRP$ our) (JJ previous) (CD one)) (, ,) (NP (NP (DT the) (JJ uniqueness) (NN theorem)) (PP (IN for) (NP (DT a) (NN one-parameter) (JJ extended) (JJ relative) (NN entropy)))) (, ,)) (PP (TO to) (NP (DT a) (JJ two-parameter) (NN case)))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (DT a) (NN two-parameter) (JJ extended) (JJ relative) (NN entropy)))) (VP (VBP are) (VP (VBN studied))) (. .))

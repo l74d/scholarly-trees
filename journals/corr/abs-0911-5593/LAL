@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP craft) (NP (NP (DT a) (JJ few) (NNS scenarios)) (PP (IN for) (NP (NP (DT the) (NN execution)) (PP (IN of) (NP (JJ sequential) (CC and) (JJ parallel) (NNS jobs))) (PP (IN on) (NP (JJ future) (NN generation) (NNS machines))))))) (. .))
-(NP (NP (VBG Checkpointing) (CC or) (NN migration)) (, ,) (SBAR (WHNP (WDT which) (VBP technique)) (S (VP (TO to) (VP (VB choose))))) (. ?))

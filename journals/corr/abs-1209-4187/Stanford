@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (NN PaxosLease)) (, ,) (NP (NP (DT a) (VBN distributed) (NN algorithm)) (PP (IN for) (NP (NN lease) (NN negotiation)))))) (. .))
-(S (NP (NN PaxosLease)) (VP (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NNP Paxos))))) (, ,) (CC but) (VP (VBZ does) (RB not) (VP (VB require) (NP (NP (NP (NN disk)) (SBAR (S (VP (VBZ writes))))) (CC or) (NP (NN clock) (NN synchrony)))))) (. .))
-(S (S (NP (NN PaxosLease)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NP (NN master) (NN lease) (NN negotation)) (PP (IN in) (NP (DT the) (NML (JJ open) (HYPH -) (NN source)) (NN Keyspace)))))))) (CC and) (S (NP (NN ScalienDB)) (VP (VBD replicated) (NP (NML (JJ key) (HYPH -) (NN value)) (NNS stores)))) (. .))

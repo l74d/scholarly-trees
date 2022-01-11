@@ -1,6 +1,0 @@
-(S (NP (JJ Computational) (NN indistinguishability)) (VP (VBZ is) (NP (DT a) (JJ key) (NN property)) (PP (IN in) (NP (NP (NN cryptography) (CC and) (NP (NN verification))) (PP (IN of) (NP (NN security) (NNS protocols)))))) (. .))
-(S (NP (NP (JJ Current) (NNS tools)) (PP (IN for) (S (VP (VBG proving) (NP (PRP it)))))) (VP (RB rely) (PP (IN on) (NP (JJ cryptographic) (NN game) (NNS transformations)))) (. .))
-(S (NP (PRP We)) (VP (VBP follow) (NP (NP (NNP Bana) (CC and) (NNP Comon) (POS 's)) (NN approach)) (, ,) (S (VP (VBG axiomatizing) (SBAR (WHNP (WP what)) (S (NP (DT an) (NN adversary)) (VP (MD can) (RB not) (VP (VB distinguish)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP prove) (NP (NP (DT the) (NN decidability)) (PP (IN of) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NN first-order) (NNS axioms)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (DT both) (ADJP (RB computationally) (NN sound)) (CC and) (ADJP (JJ expressive) (RB enough)))))))))))) (. .))
-(S (NP (DT This)) (VP (MD can) (VP (VB be) (VP (VBN viewed) (PP (IN as) (NP (NP (DT the) (NN decidability)) (PP (IN of) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (JJ cryptographic) (NN game) (NNS transformations)))))))))) (. .))
-(S (NP (PRP$ Our) (NN proof)) (VP (NNS relies) (PP (IN on) (NP (NP (NN term) (NN rewriting)) (CC and) (NP (JJ automated) (NN deduction) (NNS techniques))))) (. .))

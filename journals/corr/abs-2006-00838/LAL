@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (DT the) (NN system) (NN submission)) (PP (IN from) (NP (DT the) (NNP FASTPARSE) (NN team))) (PP (IN for) (NP (NP (DT the) (NNP EUD) (NNP Shared) (NNP Task)) (PP (IN at) (NP (NNP IWPT) (CD 2020))))))) (. .))
-(S (NP (PRP We)) (VP (VBD engaged) (PP (IN with) (NP (DT the) (NN task))) (PP (IN by) (S (VP (VBG focusing) (PP (IN on) (NP (NN efficiency))))))) (. .))
-(S (PP (IN For) (NP (DT this))) (NP (PRP we)) (VP (VBD considered) (NP (NP (NN training) (NNS costs)) (CC and) (NP (NN inference) (NN efficiency)))) (. .))
-(S (NP (PRP$ Our) (NNS models)) (VP (VBP are) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NP (JJ distilled) (JJ neural) (NN dependency) (NNS parsers)) (CC and) (NP (NP (DT a) (JJ rule-based) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (NNS projects) (NP (VBP UD) (NNS trees)) (PP (IN into) (NP (NNP EUD) (NN graphs))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBD obtained) (NP (NP (DT an) (JJ average) (NNP ELAS)) (PP (IN of) (NP (CD 74.04)))) (PP (IN for) (NP (PRP$ our) (JJ official) (NN submission))) (, ,) (S (VP (VBG ranking) (ADJP (CD 4th)) (ADVP (JJ overall))))) (. .))

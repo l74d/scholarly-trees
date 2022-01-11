@@ -1,2 +1,0 @@
-(S (NP (PRP It)) (VP (VBZ is) (VP (VBN believed) (SBAR (IN that) (S (NP (JJ quantum) (NN communication)) (VP (VBZ is) (RB not) (ADJP (JJ possible)) (PP (IN with) (NP (NP (DT a) (NN pure) (NN ensemble)) (PP (IN of) (NP (NNS states))))) (SBAR (IN because) (S (NP (NP (JJ quantum) (NN entropy)) (PP (IN of) (NP (NN pure) (NN state)))) (VP (VBZ is) (NP (CD zero)))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (ADVP (RB indeed)) (ADJP (JJ possible)) (PP (JJ due) (PP (TO to) (NP (NP (JJ geometric) (NN consequence)) (PP (IN of) (NP (NN entanglement))))))) (. .))

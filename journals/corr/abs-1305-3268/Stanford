@@ -1,2 +1,0 @@
-(S (NP (NP (DT The) (NN question)) (SBAR (IN whether) (S (ADVP (RB there)) (VP (VBZ exists) (NP (DT a) (NN 0/1) (NN polytope)) (PP (IN with) (NP (NML (JJ high) (NN PSD)) (NN extension) (NN complexity))))))) (VP (VBD was) (VP (VBN left) (S (ADJP (JJ open))))) (. .))
-(S (NP (PRP$ Our) (NN proof)) (VP (VBZ relies) (PP (IN on) (NP (DT a) (JJ new) (NN technique))) (PP (IN to) (NP (NML (S (VP (VB rescale)))) (NN semidefinite) (NNS factorizations)))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (DT The) (JJ extended) (NNP Golay) (NN code)) (VP (VBZ is) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ representable) (PP (IN as) (NP (DT a) (JJ chained) (JJ polar) (NN subcode))))))))) (. .))
-(S (NP (DT This)) (VP (VBZ enables) (NP (NP (NP (PRP$ its) (NN decoding)) (PP (IN with) (NP (DT the) (JJ successive) (NN cancellation) (NN algorithm)))) (CC and) (NP (PRP$ its) (NN stack) (NN generalization)))) (. .))
-(S (NP (DT The) (NN decoder)) (VP (MD can) (VP (VB be) (ADVP (RB further)) (VP (VBN simplified) (PP (IN by) (S (VP (VBG employing) (NP (RB fast) (NNP Hadamard) (NN transform)))))))) (. .))
-(S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (DT the) (VBN obtained) (NN algorithm)))) (VP (VBZ is) (ADJP (JJ comparable) (PP (IN with) (NP (NP (DT that)) (PP (IN of) (NP (DT the) (NNP Vardy) (NN algorithm))))))) (. .))

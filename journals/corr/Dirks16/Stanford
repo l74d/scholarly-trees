@@ -1,2 +1,0 @@
-(S (NP (JJ Such) (NNS problems)) (ADVP (RB often)) (VP (VP (VBP consist) (PP (IN of) (NP (JJ non-differentiable) (NNS parts)))) (CC and) (VP (VBP involve) (NP (JJ linear) (NNS operators)))) (. .))
-(S (NP (DT The) (NN toolbox)) (VP (VBZ uses) (NP (DT a) (JJ primal) (HYPH -) (JJ dual) (NN scheme)) (S (VP (VP (TO to) (VP (VB avoid) (ADJP (-LRB- -LRB-) (RB computationally) (-RRB- -RRB-) (JJ inefficient)) (NP (NN operator) (NN inversion)))) (CC and) (VP (TO to) (VP (VB get) (SBAR (S (NP (JJ reliable) (NN error)) (VP (VBZ estimates))))))))) (. .))

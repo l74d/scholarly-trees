@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP achieve) (NP (DT this)) (PP (IN by) (S (VP (VBG designing) (NP (NP (DT an) (ADJP (JJ elegant) (CC and) (JJ efficient)) (NML (NML (NN point) (NN location)) (NNS data)) (NN structure)) (PP (IN for) (NP (NNP Voronoi) (NNS diagrams)))) (PP (IN on) (NP (JJ planar) (NNS graphs))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB further)) (VP (VBP show) (NP (NP (DT a) (JJ smooth) (NN tradeoff)) (PP (IN between) (NP (NP (NN space)) (CC and) (NP (NN query) (HYPH -) (NN time)))))) (. .))

@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP apply) (NP (JJ kernel) (NN mean) (VBG embedding) (NNS methods)) (PP (TO to) (NP (JJ sample-based) (JJ stochastic) (NN optimization) (CC and) (NN control)))) (. .))
-(S (ADVP (RB Specifically)) (, ,) (NP (PRP we)) (VP (VBP use) (NP (DT the) (JJ reduced-set) (NN expansion) (NN method)) (PP (IN as) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB discard) (NP (JJ sampled) (NNS scenarios))))))))) (. .))
-(S (NP (NP (DT The) (NN effect)) (PP (IN of) (NP (JJ such) (NN constraint) (NN removal)))) (VP (VBZ is) (NP (NP (VBN improved) (NN optimality)) (CC and) (NP (JJ decreased) (NN conservativeness)))) (. .))
-(S (NP (DT This)) (VP (VBZ is) (VP (VBN achieved) (PP (IN by) (S (VP (VBG solving) (NP (DT a) (JJ distributional-distance-regularized) (NN optimization) (NN problem))))))) (. .))
-(S (NP (PRP We)) (VP (VBD demonstrated) (SBAR (S (NP (DT this) (NN optimization) (NN formulation)) (VP (VBZ is) (ADJP (ADJP (JJ well-motivated) (PP (IN in) (NP (NN theory)))) (, ,) (ADJP (RB computationally) (JJ tractable)) (CC and) (ADJP (JJ effective) (PP (IN in) (NP (JJ numerical) (NN algorithms))))))))) (. .))

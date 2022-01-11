@@ -1,5 +1,0 @@
-(S (NP (NN Subtraction) (NNS games)) (VP (VBZ is) (NP (NP (DT a) (NN class)) (PP (IN of) (NP (JJ combinatorial) (NNS games))))) (. .))
-(S (NP (PRP It)) (VP (VBD was) (VP (VBN solved) (SBAR (IN since) (S (NP (DT the) (NNP Sprague-Grundy) (NNP Theory)) (VP (VBD was) (VP (VBN put) (PRT (RB forward)))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBD described) (NP (NP (DT a) (JJ new) (NN algorithm)) (PP (IN for) (NP (NN subtraction) (NNS games))))) (. .))
-(S (NP (DT The) (JJ new) (NN algorithm)) (VP (MD can) (VP (VB find) (NP (VB win) (CC or) (VBN lost) (NNS positions)) (PP (IN in) (NP (NN subtraction) (NNS games))))) (. .))
-(S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RB much) (JJR simpler)) (PP (IN than) (NP (NNP Sprague-Grundy) (NNP Theory)))) (PP (IN in) (NP (NP (CD one) (NN pile)) (PP (IN of) (NP (DT the) (NNS games)))))) (. .))

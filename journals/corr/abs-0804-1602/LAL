@@ -1,4 +1,0 @@
-(S (NP (NP (DT A) (NN coding) (NN problem)) (PP (IN for) (NP (JJ correlated) (NN information) (NNS sources)))) (VP (VBZ is) (VP (VBN investigated))) (. .))
-(S (NP (NP (NNS Messages)) (VP (VBN emitted) (PP (IN from) (NP (CD two) (JJ correlated) (NNS sources))))) (VP (VBP are) (VP (VP (ADVP (RB jointly)) (VBN encoded)) (, ,) (CC and) (VP (VBN delivered) (PP (TO to) (NP (CD two) (NNS decoders)))))) (. .))
-(S (NP (DT Each) (NN decoder)) (VP (VBZ has) (NP (NP (NN access)) (PP (TO to) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (CD two) (NNS messages)))))) (S (VP (TO to) (VP (VB enable) (S (NP (PRP it)) (VP (TO to) (VP (VB reproduce) (NP (DT the) (JJ other) (NN message))))))))) (. .))
-(S (NP (NP (NP (DT The) (NN rate-distortion) (NN function)) (PP (IN for) (NP (DT the) (NN coding) (NN problem)))) (CC and) (NP (PRP$ its) (NN interesting) (NNS properties))) (VP (VBP are) (VP (VBN clarified))) (. .))

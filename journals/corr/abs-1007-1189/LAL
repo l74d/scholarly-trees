@@ -1,2 +1,0 @@
-(S (NP (DT The) (NN wireless) (NN network)) (VP (VBZ is) (VP (VBN modeled) (PP (IN as) (NP (DT a) (NN unit) (NN disk) (NN graph))) (PP (IN on) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NP (NNS nodes)) (VP (VBN distributed) (ADVP (RB arbitrarily)) (PP (IN in) (NP (DT the) (NN plane)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP assume) (SBAR (IN that) (S (NP (DT the) (NNS nodes)) (VP (MD can) (RB not) (VP (VB distinguish) (PP (IN between) (NP (NP (JJ jammed) (NNS transmissions)) (CC and) (NP (NP (NNS collisions)) (PP (IN of) (NP (JJ regular) (NNS messages))))))))))) (. .))

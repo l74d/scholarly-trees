@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN note))) (NP (DT the) (NN author)) (VP (VBZ uses) (NP (NN order) (NNS statistics)) (S (VP (TO to) (VP (VB estimate) (NP (NNP WCRE) (CC and) (NNP WCE)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NML (JJ empirical) (CC and) (NN survival)) (NNS functions))))))))) (. .))
-(S (NP (NP (DT An) (NN example)) (PP (IN in) (NP (NP (DT both) (NNS cases)) (NP (ADJP (JJ normal) (CC and) (JJ exponential)) (NNS WFs))))) (VP (VBZ is) (VP (VBN analyzed))) (. .))

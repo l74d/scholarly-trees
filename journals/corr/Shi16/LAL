@@ -1,3 +1,0 @@
-(S (PP (VBN Based) (PP (IN on) (NP (JJ weighted) (NNS least-squares)))) (, ,) (NP (DT the) (NN problem)) (VP (VB be) (VP (VBN converted) (PP (TO to) (NP (NP (DT an) (NN approximation)) (PP (IN between) (NP (CD two) (JJ polynomial) (NNS curves))))))) (. .))
-(S (ADVP (RB Then)) (S (VP (VBG applying) (NP (NNP Bernstein-Jacobi) (JJ hybrid) (NNS polynomials)))) (, ,) (NP (PRP we)) (VP (VB obtain) (NP (DT the) (VBG resulting) (NN curve))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (DT some) (NNS examples) (CC and) (NNS figures)) (VP (VBD were) (VP (VBN offered) (S (VP (TO to) (VP (VB demonstrate) (NP (NP (DT the) (NN efficiency) (, ,) (NN simplicity) (, ,) (CC and) (NN stability)) (PP (IN of) (NP (PRP$ our) (NNS methods))))))))) (. .))

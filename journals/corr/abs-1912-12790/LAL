@@ -1,2 +1,0 @@
-(S (VP (VB Let) (S (NP ($ $) (NNP G=) (PRN (-LRB- -LRB-) (NNP V) (, ,) (NNP E) (-RRB- -RRB-) (-RRB- -RRB-)) ($ $)) (VP (VB be) (NP (DT a) (JJ directed) (NN graph))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBD present) (NP (NP (DT an) (NN algorithm)) (PP (IN for) (S (VP (VBG computing) (NP (NP (DT the) (ADJP (QP ($ $) (CD 2) ($ $))) (JJ -twinless) (NNS blocks)) (PP (IN of) (NP ($ $) (NNP G) ($ $)))) (PP (IN in) (NP (ADJP ($ $) (NNP O)) (PRN (-LRB- -LRB-) (JJ n^) (-LRB- -LCB-) (CD 3) (-RRB- -RCB-) (-RRB- -RRB-)) ($ $) (NN time)))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT a) (JJ generative) (NN model)) (PP (IN for) (NP (JJ adversarial) (NN attack))))) (. .))
-(S (NP (DT The) (NN model)) (VP (VBZ generates) (NP (ADJP (JJ subtle) (CC but) (JJ predictive)) (NNS patterns)) (PP (IN from) (NP (DT the) (NN input)))) (. .))
-(S (S (VP (TO To) (VP (VB perform) (NP (DT an) (NN attack))))) (, ,) (NP (PRP it)) (VP (VBZ replaces) (NP (NP (DT the) (NNS patterns)) (PP (IN of) (NP (NP (DT the) (NN input)) (PP (IN with) (NP (NP (DT those)) (VP (VBN generated) (PP (VBN based) (PP (IN on) (NP (NP (NNS examples)) (PP (IN from) (NP (DT some) (JJ other) (NN class))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP demonstrate) (NP (PRP$ our) (NN model)) (PP (IN by) (S (VP (VBG attacking) (NP (NNP CNN)) (PP (IN on) (NP (NNP MNIST))))))) (. .))

@@ -1,7 +1,0 @@
-(S (NP (PRP We)) (VP (VBP investigate) (NP (NP (DT a) (NN subclass)) (PP (IN of) (NP (NP (JJ well-structured) (NN transition) (NNS systems)) (PRN (-LRB- -LRB-) (NP (NNP WSTS)) (-RRB- -RRB-)))) (, ,) (NP (NP (DT the) (VBN bounded)) (PRN (: —) (PP (VB -in) (NP (NP (DT the) (NN sense)) (PP (IN of) (NP (NP (NNP Ginsburg) (CC and) (NNP Spanier)) (PRN (-LRB- -LRB-) (NP (NNPS Trans)) (. .)))))))))))
-(NP (NP (NNP AMS) (CD 1964)) (-RRB- -RRB-) (: —) (NP (NP (JJ -complete) (JJ deterministic) (NNS ones)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP claim) (SBAR (S (VP (IN provide) (NP (NP (DT an) (JJ adequate) (NN basis)) (PP (IN for) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NN forward) (NNS analyses))) (SBAR (IN as) (S (VP (VBN developed) (PP (IN by) (NP (NP (NNP Finkel) (CC and) (NNP Goubault-Larrecq)) (PRN (-LRB- -LRB-) (NP (NNP Logic)) (. .))))))))))))))))))
-(NP (NNP Meth) (. .))
-(NP (NNP Comput) (. .))
-(NP (NNP Sci) (. .))
-(NP (CD 2012) (-RRB- -RRB-) (. .))
-(S (ADVP (RB Indeed)) (, ,) (NP (PRP we)) (VP (VBP prove) (SBAR (DT that) (, ,) (S (PP (IN unlike) (NP (NP (JJ other) (NNS conditions)) (VP (VBN considered) (ADVP (RB previously)) (PP (IN for) (NP (NP (DT the) (NN termination)) (PP (IN of) (NP (NN forward) (NN analysis)))))))) (, ,) (NP (NN boundedness)) (VP (VBZ is) (ADJP (JJ decidable)))))) (. .))

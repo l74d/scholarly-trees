@@ -1,8 +1,0 @@
-(SBAR (IN As) (S (NP (PRP we)) (VP (VBP know) (SBAR (IN that) (S (NP (NNP Cloud) (NNP Computing)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN paradigm)) (PP (IN in) (NP (NNP IT))))))))) (. .))
-(S (NP (PRP It)) (VP (VBZ has) (NP (JJ many) (NNS advantages) (CC and) (NNS disadvantages))) (. .))
-(S (CC But) (PP (IN in) (NP (JJ future))) (NP (PRP it)) (VP (MD will) (VP (VB spread) (PP (IN in) (NP (DT the) (JJ whole) (NN world))))) (. .))
-(S (NP (NP (JJ Many) (NNS researches))) (VP (VBP are) (VP (VBG going) (PRT (IN on)) (PP (IN for) (S (VP (VBG securing) (NP (DT the) (NN cloud) (NNS services))))))) (. .))
-(S (NP (NN Simulation)) (VP (VBZ is) (NP (NP (DT the) (NN act)) (PP (IN of) (S (VP (VBG imitating) (CC or) (VBG pretending)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (NN situation)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT a) (JJ particular) (NN set)) (PP (IN of) (NP (NN condition)))) (VP (VBZ is) (VP (VBN created) (ADVP (RB artificially)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB study) (SBAR (WHNP (DT that)) (S (VP (MD could) (VP (VB exit) (PP (IN in) (NP (NN reality))))))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP need) (ADVP (RB only)) (NP (NP (DT a) (JJ simple) (NN Operating) (NN System)) (PP (IN with) (NP (DT some) (NN memory)))) (S (VP (TO to) (VP (VB startup) (NP (PRP$ our) (NNP Computer)))))) (. .))
-(S (NP (DT All) (PRP$ our) (NNS resources)) (VP (MD will) (VP (VB be) (ADJP (JJ available)) (PP (IN in) (NP (DT the) (NN cloud))))) (. .))

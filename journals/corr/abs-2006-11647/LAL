@@ -1,2 +1,0 @@
-(S (S (NP (DT This) (NN problem)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ fundamental)) (NNS problems)) (PP (IN in) (NP (NP (NNS statistics)) (CC and) (NP (VBG learning) (NN theory))))))))) (, ,) (RB yet) (S (ADVP (RB somewhat) (VB surprisingly)) (NP (PRP$ its) (JJ worst-case) (NN sample) (NN complexity)) (VP (VBZ is) (RB not) (ADJP (ADVP (RB well)) (RB understood)))) (. .))
-(ADVP (RBR More) (RB specifically) (: :))

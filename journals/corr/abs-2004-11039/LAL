@@ -1,4 +1,0 @@
-(S (NP (NN Teamwork)) (VP (VBZ is) (ADJP (RB increasingly) (JJ important)) (PP (IN in) (NP (NP (NN today) (POS 's)) (NN society)))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ aims) (PP (IN at) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NN team) (NN performance) (NN evaluation)))))) (. .))
-(S (PP (IN Through) (NP (JJ complex) (NN network) (NN feature) (NN extraction))) (, ,) (NP (PRP we)) (VP (VBP establishes) (NP (DT the) (NN passing) (NN network) (CC and) (NN team) (NN performance) (NN evaluation) (NN model))) (. .))
-(S (ADVP (RB Finally)) (, ,) (NP (DT this) (NN paper)) (VP (VP (VBZ proposes) (NP (NP (NN strategy)) (PP (IN for) (NP (NNP Huskies) (NN team))))) (CC and) (VP (VB extend) (NP (DT the) (NN model)) (PP (TO to) (NP (DT the) (JJ general) (NN team))))) (. .))

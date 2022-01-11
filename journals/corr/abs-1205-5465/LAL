@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP define) (NP (ADJP (JJ linear) (CC and) (JJ semilinear)) (NN isometry)) (PP (IN for) (NP (NP (JJ general) (NN subspace) (NNS codes)) (, ,) (VP (VBD used) (PP (IN for) (NP (JJ random) (NN network) (NN coding))))))) (. .))
-(S (ADVP (RB Furthermore)) (, ,) (NP (NP (DT some) (NNS results)) (PP (IN on) (NP (NP (NP (NN isometry) (NNS classes)) (CC and) (NP (NN automorphism) (NNS groups))) (PP (IN of) (NP (VBN known) (JJ constant) (NN dimension) (NN code) (NNS constructions)))))) (VP (VBP are) (VP (VBN derived))) (. .))

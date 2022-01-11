@@ -1,2 +1,0 @@
-(S (NP (NP (DT An) (JJ evidential) (NN reasoning) (NN mechanism)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NNP Dempster-Shafer) (NN theory)) (PP (IN of) (NP (NN evidence))))))) (VP (VBZ is) (VP (VBN introduced))) (. .))
-(S (NP (NP (PRP$ Its) (NN performance)) (PP (IN in) (NP (JJ real-world) (NN image) (NN analysis)))) (VP (VBZ is) (VP (VBN compared) (PP (IN with) (NP (NP (JJ other) (NNS mechanisms)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ Bayesian) (NN formalism)) (CC and) (NP (DT a) (JJ simple) (NN weight) (NN combination) (NN method))))))))) (. .))

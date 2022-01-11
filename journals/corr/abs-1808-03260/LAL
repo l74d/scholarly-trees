@@ -1,2 +1,0 @@
-(S (NP (DT This) (NN problem)) (VP (VBZ is) (VP (VBN related) (PP (TO to) (NP (DT the) (JJ classical) (NNP Ham-Sandwich) (NNP Theorem))))) (. .))
-(S (NP (PRP We)) (VP (VBP provide) (NP (NP (DT a) (JJ logarithmic) (NN approximation)) (PP (TO to) (NP (DT the) (JJ optimal) (NN solution)))) (S (VP (VBG using) (NP (NP (DT the) (NN greedy) (NN algorithm)) (PP (IN for) (NP (JJ submodular) (NN optimization))))))) (. .))

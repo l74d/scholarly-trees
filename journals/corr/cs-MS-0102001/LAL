@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (NN performance) (NN profiles-distribution) (NNS functions)) (PP (IN for) (NP (DT a) (NN performance)))) (PP (NN metric-as) (NP (NP (DT a) (NN tool)) (PP (IN for) (S (VP (NN benchmarking) (CC and) (VBG comparing) (NP (NN optimization) (NN software)))))))) (. .))
-(S (NP (PRP We)) (VP (VBP show) (SBAR (DT that) (S (NP (NN performance) (VBZ profiles)) (VP (VBP combine) (NP (NP (DT the) (JJS best) (NNS features)) (PP (IN of) (NP (NP (JJ other) (NNS tools)) (PP (IN for) (NP (NN performance) (NN evaluation)))))))))) (. .))

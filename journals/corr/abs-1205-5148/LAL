@@ -1,2 +1,0 @@
-(S (NP (NP (JJ Secure) (NN storage)) (PP (IN of) (NP (JJ noisy) (NNS data))) (PP (IN for) (NP (NN authentication) (NNS purposes)))) (ADVP (RB usually)) (VP (VBZ involves) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN error) (VBG correcting) (NNS codes))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP propose) (NP (NP (DT a) (JJ new) (NN model) (NN scenario)) (VP (VBG involving) (NP (JJ burst) (NNS errors))))) (CC and) (VP (NN present) (PP (IN for) (NP (DT that))) (NP (JJ several) (NNS constructions)))) (. .))

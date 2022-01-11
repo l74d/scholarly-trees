@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP present) (NP (DT the) (JJ first) (JJ potential) (NN function)) (PP (IN for) (S (VP (VBG pairing) (NP (NNS heaps)) (PP (IN with) (NP (JJ linear) (NN range))))))) (. .))
-(S (NP (DT This)) (VP (VBZ implies) (SBAR (IN that) (S (NP (NP (DT the) (NN runtime)) (PP (IN of) (NP (NP (DT a) (JJ short) (NN sequence)) (PP (IN of) (NP (NNS operations)))))) (VP (VBZ is) (ADVP (RBR faster) (IN than)) (ADJP (RB previously) (VBN known)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (ADJP (ADJP (JJR simpler)) (PP (IN than) (NP (NP (DT the) (JJ only) (JJ other) (JJ potential) (NN function)) (VP (VBN known) (S (VP (TO to) (VP (VB give) (VP (VBN amortized) (NP (NP (JJ constant) (VBN amortized) (NN time)) (PP (IN for) (NP (NN insertion))))))))))))) (. .))

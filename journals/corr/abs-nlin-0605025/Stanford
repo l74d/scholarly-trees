@@ -1,2 +1,0 @@
-(S (NP (NP (DT A) (JJ perturbative) (NN algorithm)) (PP (IN for) (S (VP (VBG obtaining) (NP (NP (DT the) (NN number) (, ,) (NN amplitude) (CC and) (NN shape)) (PP (IN of) (NP (NP (DT the) (NN limit) (NNS cycles)) (PP (IN of) (NP (DT these) (NNS systems)))))))))) (VP (VBZ is) (VP (VBN given))) (. .))
-(S (S (NP (NP (DT The) (NN validity)) (PP (IN of) (NP (DT this) (NN algorithm)))) (VP (VBZ is) (VP (VBN shown)))) (CC and) (S (NP (NP (JJ several) (NNS examples)) (VP (VBG illustrating) (NP (PRP$ its) (NN application)))) (VP (VBP are) (VP (VBN given)))) (. .))

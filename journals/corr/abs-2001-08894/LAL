@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP introduce) (NP (NP (DT a) (NN construction)) (PP (IN for) (NP (NP (NNS families)) (PP (IN of) (NP (JJ 2n-dimensional) (NNS arrays))) (PP (IN with) (NP (ADJP (RB asymptotically) (JJ optimal)) (NN pairwise) (NN cross-correlation))))))) (. .))
-(S (NP (DT These) (NNS arrays)) (VP (VBP are) (VP (VBN constructed) (S (VP (VBG using) (NP (NP (DT a) (JJ circulant) (NN array)) (PP (IN of) (NP (JJ n-dimensional) (NNP Legendre) (NNS arrays)))))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP introduce) (NP (NP (DT an) (NN application)) (PP (IN of) (NP (DT these) (JJ higher-dimensional) (NNS arrays))) (PP (TO to) (NP (NP (JJ high-capacity) (JJ digital) (NN watermarking)) (PP (IN of) (NP (NNS images) (CC and) (NN video))))))) (. .))

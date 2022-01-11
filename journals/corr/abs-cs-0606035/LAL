@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP propose) (NP (NP (DT an) (JJ improved) (NN algorithm)) (PP (IN for) (S (VP (VBG finding) (NP (NP (NNS roots)) (PP (IN of) (NP (NNS polynomials)))) (PP (IN over) (NP (JJ finite) (NNS fields)))))))) (. .))
-(S (NP (DT This)) (VP (VBZ makes) (S (ADJP (JJ possible)) (NP (NP (JJ significant) (NN speedup)) (PP (IN of) (NP (NP (DT the) (VBG decoding) (NN process)) (PP (IN of) (NP (NP (NNP Bose-Chaudhuri-Hocquenghem)) (, ,) (NP (NNP Reed-Solomon)) (, ,) (CC and) (NP (DT some) (JJ other) (JJ error-correcting) (NNS codes))))))))) (. .))

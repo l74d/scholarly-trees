@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN study))) (NP (PRP we)) (VP (VBD analyzed) (NP (NP (DT a) (NN corpus)) (PP (IN of) (NP (QP (CD 8) (CD million)) (NNS words)))) (NP-TMP (NP (JJ academic) (NN literature)) (PP (IN from) (NP (NP (JJ Computational) (NNS lingustics) (POS ')) (JJ academic) (NN literature))))) (. .))
-(S (NP (NP (DT the) (JJ lexical) (NNS bundles)) (PP (IN from) (NP (DT this) (NN corpus)))) (VP (VBP are) (VP (VBN categorized) (PP (VBN based) (PP (IN on) (NP (NNS structures) (CC and) (NNS functions)))))) (. .))

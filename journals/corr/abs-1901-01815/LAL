@@ -1,3 +1,0 @@
-(S (NP (DT This) (NN review)) (VP (NNS presents) (CC and) (VBZ evaluates) (NP (JJ various) (NNS formalisms)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (S (VP (VBG modelling) (NP (NP (DT the) (NNS semantics)) (PP (IN of) (NP (JJ financial) (NNS derivatives) (NNS contracts)))))))))) (. .))
-(S (NP (NP (DT The) (NN formalism)) (VP (VBN proposed) (PP (IN by) (NP (NNP Lee))))) (VP (VBZ is) (VP (VBN selected) (PP (IN as) (NP (NP (DT the) (JJS best) (NN candidate)) (PP (IN among) (NP (NP (DT those)) (VP (ADVP (RB initially)) (VBN reviewed)))))))) (. .))
-(S (NP (NP (JJ Further) (NN examination) (CC and) (NN evaluation)) (PP (IN of) (NP (DT this) (NN formalism)))) (VP (VBZ is) (VP (VBN done))) (. .))

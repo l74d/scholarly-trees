@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP study) (NP (NP (DT the) (JJ exact-repair) (NN tradeoff)) (PP (IN between) (NP (NN storage) (CC and) (NN repair) (NN bandwidth))) (PP (IN in) (NP (NP (JJ distributed) (NN storage) (NNS systems)) (PRN (-LRB- -LRB-) (NP (NNP DSS)) (-RRB- -RRB-)))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP give) (NP (NP (JJ new) (JJ inner) (NNS bounds)) (PP (IN for) (NP (DT the) (NN tradeoff) (NN region))))) (CC and) (VP (VB provide) (NP (NP (NN code) (NNS constructions)) (SBAR (WHNP (WDT that)) (S (VP (VBP achieve) (NP (DT these) (NNS bounds)))))))) (. .))

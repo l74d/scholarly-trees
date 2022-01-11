@@ -1,1 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (, ,) (NP (PRP we)) (VP (VBP consider) (SBAR (S (NP (NP (DT the) (NN stability)) (PP (IN of) (ADJP (NP (JJ discrete) (HYPH -) (NN time)) (JJ linear)))) (VP (VBD switched) (NP (NNS systems)) (PP (IN with) (NP (DT a) (JJ common) (JJ non-strict) (NNP Lyapunov) (NN matrix))))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (NP (CD Two) (JJ different) (NNS paradoxes)) (PP (IN of) (NP (NP (DT the) (JJ fuzzy) (NN logic) (VBG programming) (NN system)) (PP (IN of) (NP ($ -LSB-) (CD 29) (NN -RSB-)))))) (VP (VBP are) (VP (VBN presented))) (. .))
-(S (NP (DT The) (JJ first) (NN paradox)) (VP (VBZ is) (ADJP (JJ due) (PP (TO to) (NP (NP (NP (CD two) (NNS distinct) (PRN (-LRB- -LRB-) (NN contradictory) (-RRB- -RRB-)) (NN truth) (NNS values)) (PP (IN for) (NP (NP (DT every) (NN ground) (NN atom)) (PP (IN of) (NP (NNP FLP)))))) (, ,) (S (S (NP (CD one)) (VP (VBZ is) (ADJP (JJ syntactical)))) (, ,) (S (NP (DT the) (JJ other)) (VP (VBZ is) (ADJP (JJ semantical))))))))) (. .))
-(S (NP (DT The) (NN result)) (VP (VBZ is) (SBAR (IN that) (S (S (VP (NNP CH=) ('' '') (ADJP (NNP False)) ('' ''))) (CC and) (S (NP (NP (NNP Axiom)) (PP (IN of))) (VP (NNP Choice=) ('' '') (ADJP (NNP False)) ('' '')))))) (. .))
-(S (ADVP (NNP Hence)) (, ,) (NP (NNP ZFC)) (VP (VBZ is) (ADJP (JJ inconsistent))) (. .))

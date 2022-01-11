@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (JJ many) (NNS cases))) (NP (VBP commonsense) (NN knowledge)) (VP (NNS consists) (PP (IN of) (NP (NP (NN knowledge)) (PP (IN of) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (JJ usual))))))))) (. .))
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VBP develop) (NP (NP (DT a) (NN system)) (PP (IN for) (S (VP (VBG reasoning) (PP (IN with) (NP (JJ usual) (NN information)))))))) (. .))
-(S (NP (DT This) (NN system)) (VP (VBZ is) (VP (VBN based) (PP (IN upon) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (NP (DT these) (NNS pieces)) (PP (IN of) (NP (NN commonsense) (NN information)))) (VP (VB involve) (NP (DT both) (NP (DT a) (JJ probabilistic) (NN aspect)) (CC and) (NP (DT a) (JJ granular) (NN aspect)))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP implement) (NP (DT this) (NN system)) (PP (IN with) (NP (NP (DT the) (NN aid)) (PP (IN of) (NP (NN possibility-probability) (NNS granules)))))) (. .))

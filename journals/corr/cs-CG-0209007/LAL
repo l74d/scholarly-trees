@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (NN survey) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (JJ different) (NNS types)) (PP (IN of) (NP (NP (NN approximation) (NN algorithms)) (SBAR (WHNP (WDT which)) (S (VP (VBZ minimize) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN output) (NNS vertices))))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP present) (NP (NP (PRP$ their) (JJ main) (NNS qualities)) (CC and) (NP (PRP$ their) (JJ inherent) (NNS drawbacks)))) (. .))

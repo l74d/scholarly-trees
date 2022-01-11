@@ -1,6 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN article))) (, ,) (NP (PRP we)) (VP (VBP combine) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NP (DT a) (JJ bipolar) (NN fuzzy) (VBN set)) (CC and) (NP (DT a) (JJ soft) (NN set)))))) (. .))
-(S (NP (PRP We)) (VP (VP (VBP introduce) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (JJ bipolar) (JJ fuzzy) (JJ soft) (NN set))))) (CC and) (VP (NN study) (NP (JJ fundamental) (NNS properties)))) (. .))
-(S (NP (PRP We)) (VP (VBP study) (NP (JJ basic) (NNS operations)) (PP (IN on) (NP (JJ bipolar) (JJ fuzzy) (JJ soft) (NN set)))) (. .))
-(S (NP (PRP We)) (VP (VBP define) (NP (NP (VBN exdended) (NN union)) (, ,) (NP (NP (NN intersection)) (PP (IN of) (NP (CD two) (JJ bipolar) (NNS fuzzy) (JJ soft) (NN set)))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VBP give) (NP (NP (DT an) (NN application)) (PP (IN of) (NP (JJ bipolar) (JJ fuzzy) (JJ soft) (VBN set))) (PP (IN into) (NP (NN decision) (NN making) (NN problem))))) (. .))
-(S (NP (PRP We)) (VP (VBP give) (NP (NP (DT a) (JJ general) (NN algorithm)) (SBAR (S (VP (TO to) (VP (VB solve) (NP (NN decision) (VBG making) (NNS problems)) (PP (IN by) (S (VP (VBG using) (NP (JJ bipolar) (JJ fuzzy) (JJ soft) (NN set))))))))))) (. .))

@@ -1,4 +1,0 @@
-(S (PP (IN In) (NP (CD 1969))) (, ,) (NP (NNP V.) (NNP Strassen)) (VP (VBZ improves) (NP (DT the) (JJ classical) (NML (QP (SYM ~) (CD 2x2))) (NN matrix) (NN multiplication) (NN algorithm))) (. .))
-(S (NP (DT The) (JJ current) (JJ upper) (ADJP (VBN bound) (PP (IN for) (NP (CD 3x3)))) (NN matrix) (NN multiplication)) (VP (VBD was) (VP (VBN reached) (PP (IN by) (NP (NP (NNP J.B.) (NNP Laderman)) (PP (IN in) (NP (CD 1976))))))) (. .))
-(S (NP (DT This) (NN note)) (VP (VBZ presents) (NP (NP (DT a) (JJ geometric) (NN relationship)) (PP (IN between) (NP (NML (NNP Strassen) (CC and) (NNP Laderman)) (NNS algorithms))))) (. .))
-(S (PP (IN By) (S (VP (VBG doing) (ADVP (RB so))))) (, ,) (NP (PRP we)) (VP (VBP retrieve) (S (NP (NP (DT a) (JJ geometric) (NN formulation)) (PP (IN of) (NP (NNS results)))) (ADJP (RB very) (JJ similar) (PP (IN to) (NP (NP (DT those)) (VP (VBN presented) (PP (IN by) (NP (NP (NNP O.) (NNP Sykora)) (PP (IN in) (NP (CD 1977))))))))))) (. .))

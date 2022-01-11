@@ -1,5 +1,0 @@
-(S (NP (PRP We)) (VP (VBP generalize) (NP (NP (DT a) (NN concept)) (PP (IN of) (NP (JJ classical) (JJ finite) (JJ extensive) (NN game)))) (S (VP (TO to) (VP (VB make) (S (NP (PRP it)) (ADJP (JJ useful) (PP (IN for) (NP (NP (NN application)) (PP (IN of) (NP (NN quantum) (NNS objects))))))))))) (. .))
-(S (NP (DT The) (NN generalization)) (VP (VBZ extends) (NP (NP (DT a) (NN quantum) (NN realization) (NN scheme)) (PP (IN of) (NP (NN static) (NNS games)))) (PP (IN to) (NP (DT any) (JJ finite) (JJ extensive) (NN game)))) (. .))
-(S (NP (PRP It)) (VP (VBZ represents) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (DT any) (JJ classical) (JJ finite) (JJ extensive) (NNS games)))) (PP (IN to) (NP (DT the) (NN quantum) (NN domain)))) (. .))
-(S (PP (IN In) (NP (NN addition))) (NP (PRP$ our) (NN model)) (VP (VBZ is) (ADJP (JJ compatible) (PP (IN with) (NP (NP (ADJP (RB well) (HYPH -) (VBN known)) (NN quantum) (NNS schemes)) (PP (IN of) (NP (NN static) (NNS games))))))) (. .))
-(S (NP (DT The) (NN paper)) (VP (VBZ is) (VP (VBN summed) (PRT (RP up)) (PP (IN by) (NP (CD two) (NNS examples))))) (. .))

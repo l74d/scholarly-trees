@@ -1,2 +1,0 @@
-(S (NP (PRP We)) (VP (VBP show) (SBAR (WHADVP (WRB how)) (S (NP (NN voltage) (NN glitching)) (VP (MD can) (VP (VB cause) (NP (NN timing) (NNS violations)) (PP (IN in) (NP (NN CMOS) (NN behavior)))))))) (. .))
-(S (ADVP (RB Then)) (NP (PRP we)) (VP (VBP attack) (NP (DT a) (NML (NML (JJ real)) (, ,) (NML (NN security))) (VBN hardened) (, ,) (NN consumer) (NN device)) (S (VP (TO to) (VP (VP (VB gain) (NP (NN code) (NN execution))) (CC and) (VP (VB dump) (NP (DT the) (JJ secure) (NN boot) (NN ROM))))))) (. .))

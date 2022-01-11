@@ -1,4 +1,0 @@
-(S (NP (NP (JJ Smart) (NNS systems)) (CC and) (NP (DT the) (JJ smart) (NN world) (NN concept))) (VP (VBP are) (VP (VBN addressed) (PP (IN in) (NP (NP (DT the) (NN framework)) (PP (IN of) (NP (DT the) (JJ fourth) (JJ industrial) (NN revolution))))))) (. .))
-(S (NP (NP (NNP New) (NNS challenges)) (PP (IN in) (NP (NP (JJ distributed) (JJ autonomous) (NNS robots)) (CC and) (NP (VBG computing))))) (VP (VBP are) (VP (VBN considered))) (. .))
-(S (NP (NP (DT An) (NN illustration)) (PP (IN of) (NP (NP (DT a) (JJ new) (NN kind)) (PP (IN of) (NP (ADJP (NN smart) (CC and) (JJ reconfigurable)) (VBN distributed) (JJ modular) (NN robot) (NN system)))))) (VP (VBZ is) (VP (VBN given))) (. .))
-(S (NP (DT A) (NN prototype)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN presented) (FRAG (VP (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (VBN associated) (JJ distributed) (NN algorithm)))))) (. .))

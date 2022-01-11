@@ -1,4 +1,0 @@
-(S (NP (NNP Convolutional) (NN stabilizer) (NNS codes)) (VP (VBP promise) (S (VP (TO to) (VP (VB make) (S (NP (JJ quantum) (NN communication)) (ADJP (RBR more) (JJ reliable))) (PP (IN with) (NP (JJ attractive) (NN online) (NN encoding) (CC and) (VBG decoding) (NN algorithms))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (DT a) (JJ new) (NN approach)) (PP (TO to) (NP (JJ convolutional) (NN stabilizer) (NNS codes))) (VP (VBN based) (PP (IN on) (NP (JJ direct) (NN limit) (NNS constructions)))))) (. .))
-(S (NP (NP (CD Two) (NNS families)) (PP (IN of) (NP (JJ quantum) (JJ convolutional) (NNS codes)))) (VP (VBP are) (VP (VBN derived) (PP (PP (IN from) (NP (VBN generalized) (NNP Reed-Solomon) (NNS codes))) (CC and) (PP (IN from) (NP (NNP Reed-) (NNP Muller) (NNS codes)))))) (. .))
-(S (NP (NP (DT A) (NNP Singleton)) (VP (NN bound) (PP (IN for) (NP (JJ pure) (JJ convolutional) (NN stabilizer) (NNS codes))))) (VP (VBZ is) (VP (VBN given))) (. .))

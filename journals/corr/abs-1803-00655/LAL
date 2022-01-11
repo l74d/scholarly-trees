@@ -1,5 +1,0 @@
-(S (PP (IN In) (NP (CD 1998))) (NP (NNP Zielonka)) (VP (VBD simplified) (NP (NP (DT the) (NN proofs)) (PP (IN of) (NP (NP (JJ memoryless) (NN determinacy)) (PP (IN of) (NP (JJ infinite) (NN parity) (NNS games))))))) (. .))
-(S (PP (IN In) (NP (CD 2018))) (NP (NNP Haddad)) (VP (VBD simplified) (NP (NP (DT some) (NN proofs)) (PP (IN of) (NP (NP (JJ memoryless) (NN determinacy)) (PP (IN of) (NP (JJ finite) (NN parity) (NNS games))))))) (. .))
-(S (NP (DT This) (NN article)) (VP (VBZ adapts) (NP (NP (NP (NNP Haddad) (POS 's)) (NN technique)) (PP (IN for) (NP (JJ infinite) (NN parity) (NNS games))))) (. .))
-(S (NP (NP (CD Two) (NN proofs))) (VP (VBP are) (VP (VBN given) (, ,) (NP (NP (DT a) (JJR shorter) (CD one)) (CC and) (NP (DT a) (ADJP (RBR more) (JJ constructive)) (CD one))))) (. .))
-(S (NP (NP (NN None)) (PP (IN of) (NP (PRP them)))) (VP (VBZ uses) (NP (NP (NNP Zielonka) (POS 's)) (NNS traps) (CC and) (NNS attractors))) (. .))

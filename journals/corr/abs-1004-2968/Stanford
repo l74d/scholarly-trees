@@ -1,2 +1,0 @@
-(S (NP (NP (JJ Several) (NNS extensions)) (PP (IN to) (NP (PRP$ our) (NN algorithm)))) (VP (VBP have) (ADVP (RB also)) (VP (VBN been) (VP (VBN developed) (PP (IN for) (S (VP (VBG handling) (NP (NNS outliers)))))))) (. .))
-(S (NP (DT This) (NN problem)) (VP (VBZ is) (ADVP (RB mainly)) (VP (VBN motivated) (PP (IN by) (NP (NNS applications))) (PP (IN in) (S (VP (NN privacy) (HYPH -) (VBG preserving) (NP (NNS data) (NN publication))))))) (. .))

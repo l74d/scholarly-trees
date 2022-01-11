@@ -1,6 +1,0 @@
-(S (NP (NNP Integer) (NN factorization)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ hard)) (NN computational) (NN problem))) (. .))
-(S (ADVP (RB Currently)) (NP (NP (DT no) (JJ efficient) (NN algorithm)) (PP (IN for) (NP (JJR integer) (NN factorization)))) (VP (VBZ is) (VP (ADVP (RB publicly)) (VBN known))) (. .))
-(S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ is) (NP (NP (DT an) (JJ important) (NN problem)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (PRP it)) (VP (VBZ relies) (NP (NP (DT the) (NN security)) (PP (IN of) (NP (JJ many) (JJ real) (NN world) (JJ cryptographic) (NNS systems))))))))) (. .))
-(S (NP (PRP I)) (VP (VBP present) (NP (NP (DT an) (NN implementation)) (PP (IN of) (NP (DT a) (JJ fast) (NN factorization) (NN algorithm))) (PP (IN on) (NP (NNP MapReduce))))) (. .))
-(S (NP (NNP MapReduce)) (VP (VBZ is) (NP (NP (DT a) (JJ programming) (NN model)) (PP (IN for) (NP (JJ high) (NN performance) (NNS applications))) (VP (VBD developed) (ADVP (RB originally)) (PP (IN at) (NP (NNP Google)))))) (. .))
-(S (NP (DT The) (JJ quadratic) (NN sieve) (NN algorithm)) (VP (VBZ is) (VP (VP (VBN split) (PP (IN into) (NP (DT the) (JJ different) (NNP MapReduce) (NNS phases)))) (CC and) (VP (VBN compared) (PP (IN against) (NP (DT a) (JJ standard) (NN implementation)))))) (. .))

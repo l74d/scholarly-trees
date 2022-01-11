@@ -1,4 +1,0 @@
-(S (NP (PRP We)) (VP (VBP survey) (NP (JJ diverse) (NNS approaches)) (PP (IN to) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (NN information))))) (: :) (PP (IN from) (NP (NP (NNP Shannon) (NNP entropy)) (PP (IN to) (NP (NNP Kolmogorov) (NN complexity)))))) (. .))
-(SINV (S (NP (NP (CD Two)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS applications)) (PP (IN of) (NP (NNP Kolmogorov) (NN complexity)))))) (VP (VBP are) (VP (VBN presented)))) (: :) (NP (NN randomness) (CC and) (NN classification)) (. .))
-(S (NP (DT The) (NN survey)) (VP (VBZ is) (VP (VBN divided) (PP (IN in) (NP (NP (CD two) (NNS parts)) (PP (IN in) (NP (DT the) (JJ same) (NN volume))))))) (. .))
-(NP (NP (NN Part)) (PRN (S (NP (PRP I)) (VP (VBZ is) (VP (VBN dedicated) (PP (IN to) (NP (NP (NN information) (NN theory)) (CC and) (NP (DT the) (JJ mathematical) (NN formalization)))))))) (PP (IN of) (NP (NN randomness))) (PP (VBN based) (PP (IN on) (NP (NNP Kolmogorov) (NN complexity)))) (. .))

@@ -1,3 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN paper))) (NP (PRP we)) (VP (VB obtain) (NP (NP (DT the) (JJ average) (NN sensitivity)) (PP (IN of) (NP (DT the) (JJ laced) (NNP Boolean) (NNS functions))))) (. .))
-(S (NP (DT This)) (VP (VBZ confirms) (NP (NP (DT a) (NN conjecture)) (PP (IN of) (NP (NNP Shparlinski))))) (. .))
-(S (NP (PRP We)) (ADVP (RB also)) (VP (VP (VBP compute) (NP (NP (DT the) (NNS weights)) (PP (IN of) (NP (DT the) (JJ laced) (NNP Boolean) (NNS functions))))) (CC and) (VP (VBP show) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (ADJP (ADVP (RB almost)) (VBN balanced))))))) (. .))

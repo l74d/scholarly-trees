@@ -1,2 +1,0 @@
-(S (PP (IN In) (NP (DT this) (NN document))) (, ,) (NP (PRP we)) (VP (VBP define) (NP (DT the) (NNP NADA) (NN security) (NN architecture)) (PP (VBN based) (PP (IN on) (NP (NP (VBN refined) (NN use) (NN case) (NNS scenarios)) (, ,) (NP (DT a) (JJ derived) (JJ high) (NN level) (NN model)) (CC and) (NP (NN security) (NN analysis)))))) (. .))
-(S (PP (IN For) (NP (DT the) (NN architecure) (NN design) (CC and) (NN verification))) (NP (PRP we)) (VP (VBP are) (VP (VBG applying) (NP (DT the) (ADJP (NN well) (VBN known)) (NNP STRIDE) (NN model)))) (. .))

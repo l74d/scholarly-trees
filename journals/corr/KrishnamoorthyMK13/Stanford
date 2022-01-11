@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VP (VBD conducted) (NP (NNS surveys)) (ADVP (RB before))) (CC and) (VP (PP (PP (IN after) (NP (DT the) (CD 2012) (NML (NNP U.S.) (NNP Presidential)) (NN election))) (CC and) (PP (JJ prior) (PP (IN to) (NP (DT the) (NNP NY) (NML (NNP City) (NNP Mayoral)) (NN election))))) (PP (IN in) (NP (CD 2013))))) (. .))
-(S (NP (DT The) (NNS surveys)) (VP (VBD were) (VP (VBN done) (S (VP (VBG using) (NP (NNP Amazon) (NNP Turk)))))) (. .))
-(S (NP (DT This) (NN poster)) (VP (VP (VBZ describes) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (PRP$ our) (NN analysis)) (PP (IN of) (NP (DT the) (NNS surveys))))))) (CC and) (VP (VBZ predicts) (NP (NP (DT the) (NN winner)) (PP (IN of) (NP (DT the) (NNP NY) (NNP City) (NNP Mayoral) (NNP Election)))))) (. .))

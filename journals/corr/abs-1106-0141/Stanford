@@ -1,2 +1,0 @@
-(S (S (NP (DT An) (NN algorith) (S (VP (TO to) (VP (VP (VB count)) (, ,) (CC or) (ADVP (RB alternatively)))))) (VP (VBP generate))) (, ,) (NP (NP (DT all) (NML (CD k) (HYPH -) (NN element)) (NNS transversals)) (PP (IN of) (NP (DT a) (NN set) (NN system)))) (VP (VBZ is) (VP (VBN presented) (CC and) (VBN compared) (PP (IN with) (NP (CD three) (VBN known) (NNS methods))))) (. .))
-(S (PP (IN For) (NP (JJ special) (NNS cases))) (NP (PRP it)) (VP (VBZ works) (PP (IN in) (NP (NML (NN output) (HYPH -) (JJ linear)) (NN time)))) (. .))

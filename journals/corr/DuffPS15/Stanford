@@ -1,2 +1,0 @@
-(S (PP (IN To) (NP (DT this) (NN aim))) (, ,) (NP (NP (DT the) (NNP Loewner) (NN framework)) (, ,) (VP (ADVP (RB initially)) (VBN settled) (PP (IN for) (NP (NN delay) (HYPH -) (JJ free) (NN realization)))) (, ,)) (VP (VBZ is) (ADVP (RB firstly)) (VP (VBN generalized) (PP (IN to) (NP (DT the) (JJ single) (NN delay) (NN case))))) (. .))
-(S (NP (NP (DT The) (JJ proposed) (NN method) (NN validity)) (CC and) (NP (NN interest))) (VP (VBP are) (VP (VBN assessed) (PP (IN on) (NP (JJ different) (JJ numerical) (NNS examples))))) (. .))

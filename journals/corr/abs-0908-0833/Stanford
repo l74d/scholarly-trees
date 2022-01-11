@@ -1,3 +1,0 @@
-(S (NP (NP (DT The) (ADJP (JJ top) (HYPH -) (JJ down)) (NN approach)) (PP (IN of) (NP (NML (NN engineering) (NN software)) (NN integration)))) (VP (VBZ is) (VP (VBN considered) (PP (IN in) (NP (DT this) (NN parer))))) (. .))
-(S (NP (NP (DT A) (NN set)) (PP (IN of) (NP (NP (NNS advantages)) (PP (IN of) (NP (DT this) (NN approach)))))) (VP (VBP are) (VP (VBN presented) (, ,) (PP (IN by) (NP (NNS examples))))) (. .))
-(S (NP (DT All) (NNS examples)) (VP (VBP are) (VP (VBN supplied) (PP (IN by) (NP (JJ open) (NN source) (NN code))))) (. .))

@@ -1,4 +1,0 @@
-(S (NP (JJ Interactive) (NML (NN Fiction) (-LRB- -LRB-) (NN IF) (-RRB- -RRB-)) (NNS games)) (VP (VBP are) (NP (JJ complex) (JJ textual) (NN decision) (NN making) (NNS problems))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ introduces) (NP (NP (NP (NN NAIL)) (, ,) (ADJP (NP (NP (DT an) (JJ autonomous) (NN agent)) (PP (IN for) (NP (JJ general) (NN parser)))) (HYPH -) (VBN based))) (SBAR (IN IF) (FRAG (NP (NNS games)))))) (. .))
-(S (NP (NN NAIL)) (VP (VBD won) (SBAR (S (NP (DT the) (CD 2018)) (VP (VBP Text) (NP (NP (NN Adventure) (NN AI) (NN Competition)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN evaluated) (PP (IN on) (NP (CD twenty) (JJ unseen) (NNS games)))))))))))) (. .))
-(S (NP (DT This) (NN paper)) (VP (VBZ describes) (NP (NP (DT the) (NN architecture) (, ,) (NN development) (, ,) (CC and) (NNS insights)) (VP (VBG underpinning) (NP (NP (NN NAIL) (POS 's)) (NN performance))))) (. .))

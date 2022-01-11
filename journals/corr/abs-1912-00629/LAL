@@ -1,3 +1,0 @@
-(S (NP (PRP We)) (VP (VBP build) (NP (JJ calculus)) (PP (IN on) (NP (NP (DT the) (JJ categorical) (NN model)) (PP (IN of) (NP (JJ linear) (NN logic)))))) (. .))
-(S (NP (PRP It)) (VP (VBZ enables) (S (NP (PRP us)) (VP (TO to) (VP (VB perform) (NP (JJ diagram) (NN chasing)) (PP (IN as) (NP (NP (ADJP (RB essentially) (JJ one-way)) (NNS computations)) (VP (VBN led) (PP (IN by) (S (VP (VBG rewriting) (NP (NNS rules)))))))))))) (. .))
-(S (NP (PRP We)) (VP (VBP verify) (NP (NP (DT the) (NN termination) (NN property)) (PP (IN of) (NP (DT the) (NN calculus))))) (. .))

@@ -1,6 +1,0 @@
-(S (NP (NN SPOT)) (VP (VBZ is) (NP (NP (DT an) (NML (NML (JJ open) (NN source)) (CC and) (NML (NML (JJ free) (JJ visual) (NNS data)) (NNS analytics))) (NN tool)) (PP (IN for) (NP (JJ multi-dimensional) (NN data) (HYPH -) (NNS sets))))) (. .))
-(S (NP (PRP$ Its) (ADJP (NN web) (HYPH -) (VBN based)) (NN interface)) (VP (VBZ allows) (NP (NP (DT a) (JJ quick) (NN analysis)) (PP (IN of) (NP (JJ complex) (NNS data)))) (ADVP (RB interactively))) (. .))
-(S (NP (NP (DT The) (NNS operations)) (PP (IN on) (NP (NP (NNS data)) (PP (JJ such) (IN as) (NP (NN aggregation) (CC and) (NN filtering)))))) (VP (VBP are) (VP (VBN implemented))) (. .))
-(S (S (NP (DT The) (ADJP (VBN generated)) (NNS charts)) (VP (VBP are) (ADJP (JJ responsive)))) (CC and) (S (NP (NN OpenGL)) (VP (VBD supported))) (. .))
-(S (NP (PRP It)) (VP (VBZ follows) (NP (NP (JJ FAIR) (NNS principles) (S (VP (TO to) (VP (VB allow) (S (VP (VB reuse))))))) (CC and) (NP (NP (NN comparison)) (PP (IN of) (NP (DT the) (VBN published) (NN data) (HYPH -) (NNS sets)))))) (. .))
-(S (NP (DT The) (NN software)) (ADVP (RB also)) (VP (VBP support) (NP (NP (NN PostgreSQL) (NN database)) (PP (IN for) (NP (NN scalability))))) (. .))

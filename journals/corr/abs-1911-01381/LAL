@@ -1,1 +1,0 @@
-(S (NP (NP (DT A) (JJ relational) (NN bipartite) (NN communication) (NN problem))) (VP (VBZ is) (VP (VBN presented) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (NP (DT an) (JJ efficient) (NN quantum) (NNS simultaneous-messages) (NN protocol)) (, ,) (CC but) (NP (DT no) (JJ efficient) (JJ classical) (NN two-way) (NN protocol)))))))) (. .))
