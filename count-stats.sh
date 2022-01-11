@@ -1,0 +1,5 @@
+find by-constituency-parser -type f -name LAL | wc -l | xargs echo "#Abstracts parsed by LAL-Parser:"
+find by-constituency-parser -type f -name Stanford | wc -l | xargs echo "#Abstracts parsed by Stanford Parser:"
+find by-constituency-parser -type f -name LAL | xargs cat | wc -l | xargs echo "#Sentences parsed by LAL Parser:"
+find by-constituency-parser -type f -name Stanford | xargs cat | wc -l | xargs echo "#Sentences parsed by Stanford Parser:"
+find constituency-agreed -type f | xargs cat | wc -l | xargs echo "#Sentences in agreement by both parsers:"
